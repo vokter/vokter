@@ -1,10 +1,10 @@
-package pt.ua.adis.project;
+package pt.ua.adis.argus;
 
 import org.apache.commons.cli.*;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.slf4j.bridge.SLF4JBridgeHandler;
-import pt.ua.adis.project.web.server.Server;
+import pt.ua.adis.argus.web.server.Server;
 
 
 /**

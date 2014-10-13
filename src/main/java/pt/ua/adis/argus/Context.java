@@ -1,8 +1,8 @@
-package pt.ua.adis.project;
+package pt.ua.adis.argus;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import pt.ua.adis.project.core.User;
+import pt.ua.adis.argus.core.User;
 
 import javax.imageio.ImageIO;
 import javax.swing.*;

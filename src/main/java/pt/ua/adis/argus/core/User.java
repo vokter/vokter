@@ -1,4 +1,4 @@
-package pt.ua.adis.project.core;
+package pt.ua.adis.argus.core;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

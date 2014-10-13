@@ -1,8 +1,8 @@
-package pt.ua.adis.project.web.resources;
+package pt.ua.adis.argus.web.resources;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import pt.ua.adis.project.web.server.Server;
+import pt.ua.adis.argus.web.server.Server;
 
 import javax.ws.rs.*;
 import javax.ws.rs.core.Response;
