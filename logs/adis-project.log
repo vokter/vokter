@@ -18,7 +18,7 @@ java.net.BindException: Address already in use
 	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:102)
 	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:139)
 	at org.apache.catalina.startup.Tomcat.start(Tomcat.java:340)
-	at pt.ua.adis.project.Main.main(Main.java:73)
+	at pt.ua.adis.argus.Main.main(Main.java:73)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -33,7 +33,7 @@ org.apache.catalina.LifecycleException: Failed to initialize component [Connecto
 	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:102)
 	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:139)
 	at org.apache.catalina.startup.Tomcat.start(Tomcat.java:340)
-	at pt.ua.adis.project.Main.main(Main.java:73)
+	at pt.ua.adis.argus.Main.main(Main.java:73)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -64,5 +64,5 @@ INFO  [main] org.apache.catalina.core.StandardService - Starting service Tomcat
 INFO  [main] org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.0.14
 INFO  [localhost-startStop-1] org.apache.catalina.startup.ContextConfig - No global web.xml found
 INFO  [main] org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
-INFO  [main] pt.ua.adis.project.Main - Server started at localhost:8080
-INFO  [main] pt.ua.adis.project.Main - Press Cmd-C / Ctrl+C to shutdown the server...
+INFO  [main] pt.ua.adis.argus.Main - Server started at localhost:8080
+INFO  [main] pt.ua.adis.argus.Main - Press Cmd-C / Ctrl+C to shutdown the server...

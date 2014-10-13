@@ -1,6 +1,6 @@
-package pt.ua.adis.project.core;
+package pt.ua.adis.argus.core;
 
-import pt.ua.adis.project.Context;
+import pt.ua.adis.argus.Context;
 
 import java.awt.*;
 import java.io.File;

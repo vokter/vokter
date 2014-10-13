@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>pt.ua.adis</groupId>
-    <artifactId>project</artifactId>
+    <artifactId>argus</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
 
-    <name>project</name>
+    <name>argus</name>
 
     <developers>
         <developer>
@@ -60,7 +60,7 @@
                             </descriptorRefs>
                             <archive>
                                 <manifest>
-                                    <mainClass>pt.ua.adis.project.Main</mainClass>
+                                    <mainClass>pt.ua.adis.argus.Main</mainClass>
                                 </manifest>
                                 <manifestEntries>
                                     <Class-Path>.</Class-Path>
