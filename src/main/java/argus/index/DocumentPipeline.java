@@ -8,6 +8,7 @@ import argus.reader.Reader;
 import argus.stemmer.Stemmer;
 import argus.tokenizer.Tokenizer;
 import gnu.trove.map.TIntObjectMap;
+import gnu.trove.map.TLongObjectMap;
 import it.unimi.dsi.lang.MutableString;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -34,7 +35,7 @@ public class DocumentPipeline implements Runnable {
 
     private static final Logger logger = LoggerFactory.getLogger(DocumentPipeline.class);
 
-    private final TIntObjectMap<Document> documents;
+    private final TLongObjectMap<Document> documents;
     private final ConcurrentMap<MutableString, Term> tokens;
     private final boolean ignoreCase;
     private final DocumentInput documentInput;
@@ -43,7 +44,7 @@ public class DocumentPipeline implements Runnable {
     private final Class<? extends Stemmer> stemmerClass;
 
 
-    public DocumentPipeline(final TIntObjectMap<Document> documents,
+    public DocumentPipeline(final TLongObjectMap<Document> documents,
                             final ConcurrentMap<MutableString, Term> tokens,
                             final boolean ignoreCase,
                             final DocumentInput documentInput,
@@ -102,7 +103,7 @@ public class DocumentPipeline implements Runnable {
             // original form, without any transformations that come from filtering
             // or stemming.
             Document document = new Document(documentFilename, content.copy());
-            int docId = document.getId();
+            long docId = document.getId();
             documents.put(docId, document);
 
             // filters the contents by cleaning characters of whole strings

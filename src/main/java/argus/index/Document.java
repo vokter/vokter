@@ -20,7 +20,7 @@ public final class Document implements Serializable {
     private static final long serialVersionUID = 1L;
     private static final SynchronizedCounter counter = new SynchronizedCounter();
 
-    private final int id;
+    private final long id;
 
     private final String path;
 
@@ -44,7 +44,7 @@ public final class Document implements Serializable {
     }
 
 
-    public int getId() {
+    public long getId() {
         return id;
     }
 
@@ -62,7 +62,7 @@ public final class Document implements Serializable {
 
     @Override
     public int hashCode() {
-        return id;
+        return Long.hashCode(id);
     }
 
 

@@ -1,6 +1,7 @@
 package argus.util;
 
 import java.util.concurrent.atomic.AtomicInteger;
+import java.util.concurrent.atomic.AtomicLong;
 
 /**
  * A class that generates and returns a unique id from an incrementer, meaning that
@@ -12,17 +13,17 @@ import java.util.concurrent.atomic.AtomicInteger;
  * @version 1.0
  */
 public final class SynchronizedCounter {
-    private final AtomicInteger sNextGeneratedId;
+    private final AtomicLong sNextGeneratedId;
 
     public SynchronizedCounter() {
-        sNextGeneratedId = new AtomicInteger(1);
+        sNextGeneratedId = new AtomicLong(1);
     }
 
 
-    public int getAndIncrement() {
+    public long getAndIncrement() {
         for (; ; ) {
-            final int result = sNextGeneratedId.get();
-            int newValue = result + 1;
+            final long result = sNextGeneratedId.get();
+            long newValue = result + 1;
 
             if (sNextGeneratedId.compareAndSet(result, newValue)) {
                 return result;

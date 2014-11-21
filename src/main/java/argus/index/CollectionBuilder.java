@@ -8,7 +8,9 @@ import com.google.common.cache.CacheBuilder;
 import com.google.common.cache.LoadingCache;
 import gnu.trove.TCollections;
 import gnu.trove.map.TIntObjectMap;
+import gnu.trove.map.TLongObjectMap;
 import gnu.trove.map.hash.TIntObjectHashMap;
+import gnu.trove.map.hash.TLongObjectHashMap;
 import it.unimi.dsi.lang.MutableString;
 import org.apache.commons.io.FileDeleteStrategy;
 import org.apache.commons.io.FileUtils;
@@ -224,7 +226,7 @@ public final class CollectionBuilder {
 
         // step 1) create a temporary in-memory document structure, which will be
         //         saved to local files after indexing
-        TIntObjectMap<Document> documents = TCollections.synchronizedMap(new TIntObjectHashMap<>());
+        TLongObjectMap<Document> documents = TCollections.synchronizedMap(new TLongObjectHashMap<>());
 
 
         // step 2) Create a temporary in-memory term structure, which will be
@@ -296,7 +298,7 @@ public final class CollectionBuilder {
         // NOTE: Because Java 8 lacks map-reduction during 'collect', the map has
         //       to contain "Entry<Integer, Term>" values instead of "Term" values.
         //       This has to be implicitly handled in the next step.
-        Map<Integer, List<Pair<Integer, Term>>> map = terms
+        Map<Long, List<Pair<Long, Term>>> map = terms
                 .values()
                 .stream()
                 .flatMap(term -> term
@@ -416,7 +418,7 @@ public final class CollectionBuilder {
 
 
         // step 14) create a cache loader for the documents local files created above
-        LoadingCache<Integer, Document> documentsCache = CacheBuilder
+        LoadingCache<Long, Document> documentsCache = CacheBuilder
                 .newBuilder()
                 .expireAfterAccess(20, TimeUnit.SECONDS)
                 .build(documentLoader);

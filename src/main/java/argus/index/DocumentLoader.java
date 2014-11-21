@@ -18,7 +18,7 @@ import java.io.*;
  * @author Eduardo Duarte (<a href="mailto:eduardo.miguel.duarte@gmail.com">eduardo.miguel.duarte@gmail.com</a>)
  * @version 1.0
  */
-public final class DocumentLoader extends CacheLoader<Integer, Document> {
+public final class DocumentLoader extends CacheLoader<Long, Document> {
 
     private File parentDocumentsFolder;
 
@@ -50,8 +50,8 @@ public final class DocumentLoader extends CacheLoader<Integer, Document> {
 
     @Override
     @ParametersAreNonnullByDefault
-    public Document load(Integer documentId) throws Exception {
-        File documentFile = new File(parentDocumentsFolder, Integer.toString(documentId));
+    public Document load(Long documentId) throws Exception {
+        File documentFile = new File(parentDocumentsFolder, Long.toString(documentId));
 
         if (documentFile.exists() && !documentFile.isDirectory()) {
             InputStream inputStream = new FileInputStream(documentFile);
@@ -68,7 +68,7 @@ public final class DocumentLoader extends CacheLoader<Integer, Document> {
 
     @ParametersAreNonnullByDefault
     public void write(Document document) {
-        File documentFile = new File(parentDocumentsFolder, Integer.toString(document.getId()));
+        File documentFile = new File(parentDocumentsFolder, Long.toString(document.getId()));
 
         try {
             OutputStream outputStream = new FileOutputStream(documentFile);
