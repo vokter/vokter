@@ -44,7 +44,7 @@ public final class Collection {
     /**
      * Local and cached map of document IDs (integers) to document objects.
      */
-    private final LoadingCache<Integer, Document> documents;
+    private final LoadingCache<Long, Document> documents;
 
 
     /**
@@ -60,7 +60,7 @@ public final class Collection {
     private final int N;
 
 
-    Collection(final LoadingCache<Integer, Document> documents,
+    Collection(final LoadingCache<Long, Document> documents,
                final LoadingCache<String, Term> index,
                final int N) {
         this.documents = documents;
@@ -101,7 +101,7 @@ public final class Collection {
      * Converts the specified document id into a document object, by reading it
      * from its local file / cache.
      */
-    public Document getDocumentForId(Integer documentId) {
+    public Document getDocumentForId(Long documentId) {
         try {
             // the 'get' method will look for any document in the local files or
             // temporary cache that is equal to the specified id
@@ -178,7 +178,7 @@ public final class Collection {
                 .collect(groupingByConcurrent(Pair::getKey, toSet()))
                 .entrySet()
                 .stream()
-                .map((Map.Entry<Integer, Set<Pair<Integer, Term>>> entry) -> {
+                .map((Map.Entry<Long, Set<Pair<Long, Term>>> entry) -> {
                     Document document = this.getDocumentForId(entry.getKey());
                     return document == null ? null : new DocumentVector(
                             this,
@@ -237,7 +237,7 @@ public final class Collection {
 
         documentProximityFilter:
         for (MergedAxeGroup scoredDoc : sortedDocuments) {
-            int docId = scoredDoc.getDocument().getId();
+            long docId = scoredDoc.getDocument().getId();
 
             if (slop <= 0 || queryTerms.size() == 1) {
                 // slop 0 or single term queries mean that, by default, no

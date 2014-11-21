@@ -4,17 +4,14 @@ import com.google.common.collect.Multimap;
 import com.google.common.collect.Multimaps;
 import gnu.trove.TCollections;
 import gnu.trove.TDecorators;
-import gnu.trove.map.TIntDoubleMap;
-import gnu.trove.map.hash.TIntDoubleHashMap;
-import gnu.trove.map.hash.TIntObjectHashMap;
+import gnu.trove.map.TLongDoubleMap;
+import gnu.trove.map.hash.TLongDoubleHashMap;
+import gnu.trove.map.hash.TLongObjectHashMap;
 import it.unimi.dsi.lang.MutableString;
 
 import java.io.IOException;
 import java.io.Writer;
-import java.util.ArrayList;
-import java.util.HashSet;
-import java.util.Iterator;
-import java.util.Set;
+import java.util.*;
 
 import static org.apache.commons.lang3.StringUtils.split;
 
@@ -53,13 +50,13 @@ public final class Term {
      * key-value entries, and the number of unique occurrences (excluding multiple
      * occurrences per document) by calling {@link Multimap#keySet().size()}.
      */
-    private Multimap<Integer, Occurrence> occurrences;
+    private Multimap<Long, Occurrence> occurrences;
 
 
     /**
      * Map that stores the normalized weights of this term for each document id.
      */
-    private TIntDoubleMap normalizedWeights;
+    private TLongDoubleMap normalizedWeights;
 
 
     /**
@@ -91,7 +88,7 @@ public final class Term {
                 throw new IOException("Invalid line for term '" + tokenText + "'!");
             }
             String docIdString = documentString.substring(0, docIdEndIndex);
-            int docId = Integer.parseInt(docIdString);
+            long docId = Long.parseLong(docIdString);
 
             int nlizeEndIndex = documentString.indexOf('=', docIdEndIndex + 1);
             if (nlizeEndIndex < 0) {
@@ -128,14 +125,14 @@ public final class Term {
         // objects) as keys and ArrayList<Occurrence> as values
         this.occurrences = Multimaps.synchronizedListMultimap(
                 Multimaps.newListMultimap(
-                        TDecorators.wrap(new TIntObjectHashMap<>()),
+                        TDecorators.wrap(new TLongObjectHashMap<>()),
                         ArrayList::new
                 ));
 
         // instantiates a map holding primitive integers (instead of Integer
         // objects) as keys and primitive doubles (instead of Double objects) as
         // values
-        this.normalizedWeights = TCollections.synchronizedMap(new TIntDoubleHashMap());
+        this.normalizedWeights = TCollections.synchronizedMap(new TLongDoubleHashMap());
     }
 
 
@@ -143,7 +140,7 @@ public final class Term {
      * Sets this term as occurring in the specified document at the specified
      * phrase pointer and at the specified starting and ending positions.
      */
-    public void addOccurrence(int documentId, int position, int start, int end) {
+    public void addOccurrence(long documentId, int position, int start, int end) {
         occurrences.put(documentId, new Occurrence(this, position, start, end));
     }
 
@@ -151,7 +148,7 @@ public final class Term {
     /**
      * Sets this term weight factor for the specified document.
      */
-    public void addNormalizedWeight(int documentId, double nlize) {
+    public void addNormalizedWeight(long documentId, double nlize) {
         normalizedWeights.put(documentId, nlize);
     }
 
@@ -159,7 +156,7 @@ public final class Term {
     /**
      * Returns this term weight factor for the specified document.
      */
-    public double getWeightOfDocument(int documentId) {
+    public double getWeightOfDocument(long documentId) {
         return normalizedWeights.get(documentId);
     }
 
@@ -171,7 +168,7 @@ public final class Term {
      * @return <tt>true</tt> if this term occurs in the specified document,
      * <tt>false</tt> in case otherwise
      */
-    public boolean occursInDocument(int documentId) {
+    public boolean occursInDocument(long documentId) {
         return occurrences.containsKey(documentId);
     }
 
@@ -182,7 +179,7 @@ public final class Term {
      * @param documentId the id of the document to obtain occurrences of this term
      * @return a set of occurrences of this term in the specified document
      */
-    public Set<Occurrence> getOccurencesInDocument(int documentId) {
+    public Set<Occurrence> getOccurencesInDocument(long documentId) {
         return new HashSet<>(occurrences.get(documentId));
     }
 
@@ -191,7 +188,7 @@ public final class Term {
      * Returns the term frequency (tf) of this term t in the document d, which is
      * the number of occurrences of t in d.
      */
-    public int getTermFrequency(int documentId) {
+    public int getTermFrequency(long documentId) {
         java.util.Collection<Occurrence> occurrencesInDocument = occurrences.get(documentId);
         if (occurrencesInDocument == null) {
             return 0;
@@ -227,7 +224,7 @@ public final class Term {
      * Returns this term weight for the specified document, based on the
      * log tf weighting scheme.
      */
-    public double getLogFrequencyWeight(int documentId) {
+    public double getLogFrequencyWeight(long documentId) {
         double tf = getTermFrequency(documentId);
 
         if (tf > 0) {
@@ -246,7 +243,7 @@ public final class Term {
      * The tf-idf weight of a term is the product of its tf weight and its
      * idf weight.
      */
-    public double getTfIdfWeight(int documentId, int N) {
+    public double getTfIdfWeight(long documentId, int N) {
         return getLogFrequencyWeight(documentId) * getInverseDocumentFrequency(N);
     }
 
@@ -263,7 +260,7 @@ public final class Term {
     /**
      * Returns a list of document IDs where this term occurs.
      */
-    public Set<Integer> getOccurringDocuments() {
+    public Set<Long> getOccurringDocuments() {
         return occurrences.keySet();
     }
 
@@ -276,8 +273,8 @@ public final class Term {
     public void writeLine(Writer writer) throws IOException {
         writer.append(text);
         writer.append(':');
-        for (Iterator<Integer> it = occurrences.keySet().iterator(); it.hasNext(); ) {
-            Integer docId = it.next();
+        for (Iterator<Long> it = occurrences.keySet().iterator(); it.hasNext(); ) {
+            Long docId = it.next();
             writer.append(docId.toString());
             writer.append('=');
             writer.append(Double.toString(normalizedWeights.get(docId)));
@@ -309,7 +306,7 @@ public final class Term {
      * limit the number of snippets that are returned.
      */
     public String getSummaryForDocument(Document d, int numSnippets) {
-        int documentId = d.getId();
+        long documentId = d.getId();
         MutableString contents = d.getContent();
 
         StringBuilder sb = new StringBuilder();
