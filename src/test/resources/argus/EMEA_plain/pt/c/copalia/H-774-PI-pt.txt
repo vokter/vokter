@@ -1,0 +1,900 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. DENOMINAÇÃO DO MEDICAMENTO
+ Copalia 5 mg/80 mg comprimidos revestidos por película
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada comprimido revestido por película contém 5 mg de amlodipina (como besilato de amlodipina) e 80 mg de valsartan.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Comprimido revestido por película Comprimido revestido por película, redondo, amarelo escuro, com bordos biselados, com impressão “ NVR ” numa face e “ NV ” na outra face.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Tratamento da hipertensão essencial. Copalia está indicado em doentes cuja pressão arterial não esteja adequadamente controlada com amlodipina ou valsartan em monoterapia.
+ 4.2 Posologia e modo de administração A dose recomendada de Copalia é de um comprimido por dia.
+ Copalia 5 mg/80 mg pode ser administrado em doentes cuja pressão arterial não esteja adequadamente controlada com 5 mg de amlodipina ou 80 mg de valsartan isoladamente.
+ Copalia pode ser tomado com ou sem alimentos. Recomenda-se a ingestão de Copalia com um pouco de água.
+ Recomenda-se a titulação individual da dose com os componentes (i. e. amlodipina e valsartan) antes da mudança para a associação de dose fixa. Quando for clinicamente apropriado, pode ser considerada a mudança directa da monoterapia para a associação de dose fixa.
+ Por conveniência, os doentes a tomar valsartan e amlodipina em comprimidos/cápsulas separados podem mudar para Copalia contendo os componentes nas mesmas doses.
+ Compromisso renal Não é necessário proceder a qualquer ajustamento da posologia em doentes com compromisso renal ligeiro a moderado. Recomenda-se a monitorização dos níveis de potássio e da creatinina em caso de compromisso renal moderado.
+ Compromisso hepático Deve ter-se cautela ao administrar Copalia a doentes com compromisso hepático ou perturbações obstrutivas das vias biliares (ver secção 4.4). Em doentes com compromisso hepático ligeiro a moderado sem colestase, a dose máxima recomendada é de 80 mg de valsartan.
+ 2 Idosos (idade igual ou superior a 65 anos) Em doentes idosos é necessária precaução ao aumentar a posologia.
+ Crianças e adolescentes Copalia não está recomendado em doentes com idade inferior a 18 anos devido à ausência de dados de segurança e eficácia.
+ 4.3 Contra-indicações Hipersensibilidade às substâncias activas, aos derivados da di-hidropiridina ou a qualquer um dos excipientes. Compromisso hepático grave, cirrose biliar ou colostase. Compromisso renal grave (TFG &lt; 30 ml/min/1,73 m2) e doentes a fazer diálise. Segundo e terceiro trimestre de gravidez (ver secção 4.4 e 4.6).
+ 4.4 Advertências e precauções especiais de utilização
+ Gravidez A terapêutica com Antagonistas dos Receptores da Angiotensina II (ARAII) não deve ser iniciada durante a gravidez. A menos que a continuação da terapêutica com ARAII seja considerada essencial, doentes que planeiam engravidar devem mudar para terapêuticas antihipertensivas alternativas que tenham um perfil de segurança estabelecido para utilização durante a gravidez. Quando a gravidez é diagnosticada a terapêutica com ARAII deve ser imediatamente interrompida, e, se apropriado, deve ser iniciada terapêutica alternativa (ver secção 4.3 e 4.6).
+ Doentes com hiponatremia e/ou hipovolémia Em estudos controlados com placebo foi observada hipotensão acentuado em 0,4% dos doentes com hipertensão não complicada tratados com Copalia. Em doentes com um sistema renina-angiotensina activado (tais como doentes com depleção do volume e/ou de sal tratados com doses elevadas de diuréticos) que estão a receber bloqueadores dos receptores da angiotensina, pode ocorrer hipotensão sintomática. Recomenda-se a correcção desta situação antes da administração de Copalia ou supervisão médica cuidadosa no início do tratamento.
+ Se ocorrer hipotensão com Copalia, o doente deve ser colocado em posição supina e, se necessário, deve ser-lhe administrada uma perfusão intravenosa de soro fisiológico. Uma vez estabilizada a pressão arterial o tratamento pode ser continuado.
+ Hipercaliemia A medicação concomitante com suplementos de potássio, diuréticos poupadores de potássio, substitutos do sal contendo potássio ou outros fármacos que possam aumentar os níveis de potássio (heparina, etc.) deve ser usada com precaução e com monitorização frequente dos níveis de potássio.
+ Estenose da artéria renal Não estão disponíveis dados sobre a utilização de Copalia em doentes com estenose da artéria renal unilateral ou bilateral.
+ Transplante renal Até à data não existem dados de segurança sobre a utilização de Copalia em doentes submetidos a um transplante renal recente.
+ Compromisso hepático O valsartan é eliminado na sua maior parte inalterado através da bílis, enquanto que a amlodipina é amplamente metabolizada pelo fígado. Deve ter-se uma precaução particular ao administrar Copalia a doentes com compromisso hepático ligeiro a moderado ou perturbações obstrutivas das vias biliares.
+ 3 Em doentes com compromisso hepático ligeiro a moderado sem colestase, a dose máxima recomendada é de 80 mg de valsartan.
+ Compromisso renal Não é necessário proceder a qualquer ajustamento da posologia de Copalia em doentes com compromisso renal ligeiro a moderado (TFG &gt; 30 ml/min/1,73 m2). Recomenda-se a monitorização dos níveis de potássio e da creatinina em caso de compromisso renal moderado.
+ Hiperaldosteronismo primário Os doentes com hiperaldosteronismo primário não devem ser tratados com o antagonista da angiotensina II valsartan uma vez que o seu sistema renina-angiotensina se encontra afectado pela patologia primária.
+ Insuficiência cardíaca Em consequência da inibição do sistema renina-angiotensina podem ser esperadas alterações na função renal em indíviduos susceptíveis. Em doentes com insuficiência cardíaca grave cuja função renal possa depender da actividade do sistema renina-angiotensina, o tratamento com inibidores da enzima de conversão da angiotensina (ECA) e antagonistas dos receptores de angiotensina foi associado a oligúria e/ou urémia progressiva e (em casos raros) a insuficiência renal aguda e/ou morte. Foram notificados quadros semelhantes com valsartan.
+ Num estudo de longa duração com amlodipina, controlado com placebo (PRAISE-2) em doentes com insuficiência cardíaca de etiologia não-isquémica das classes III e IV da NYHA (New York Heart Association Classification), a amlodipina foi associada a um aumento de notificações de edema pulmonar apesar da ausência de diferença significativa na incidência de agravamento da insuficiência cardíaca, em comparação com o placebo.
+ Estenose valvular aórtica e mitral, cardiomiopatia hipertrófica obstrutiva Tal como com todos os outros vasodilatadores, deve ter-se um cuidado especial em doentes com estenose das válvulas aórtica ou mitral ou com cardiomiopatia hipertrófica obstrutiva.
+ Copalia não foi estudado em qualquer população de doentes que não a hipertensa.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Interacções associadas à amlodipina Precaução requerida com a utilização concomitante de Inibidores do CYP3A4 Um estudo em doentes idosos demonstrou que o diltiazem inibe o metabolismo da amlodipina, provavelmente via CYP3A4 (a concentração plasmática aumenta aproximadamente 50% e o efeito da amlodipina aumenta). Não pode ser excluída a possibilidade de inibidores mais potentes do CYP3A4 (i. e. cetoconazol, itraconazol, ritonavir) poderem aumentar a concentração plasmática da amlodipina em maior extensão do que o diltiazem.
+ Indutores do CYP3A4 (agentes anticonvulsivantes[ ex. carbamazepina, fenobarbital, fenitoína, fosfenitoína, primidona], rifampicina, Hypericum perforatum) A administração concomitante pode levar à redução das concentrações plasmáticas de amlodipina. Está indicada a monitorização clínica, com possível ajustamento posológico da amlodipina durante o tratamento com o indutor e após a sua suspensão.
+ A ter em consideração aquando da utilização concomitante Outras Em monoterapia, a amlodipina foi administrada de forma segura com diuréticos tiazídicos, bloqueadores beta, inibidores da ECA, nitratos de longa duração, nitroglicerina sublingual, digoxina, varfarina, atorvastatina, sildenafil, medicamentos antiácidos (gel de hidróxido de alumínio, hidróxido de magnésio, simeticone), cimetidina, medicamentos anti-inflamatórios não esteróides, antibióticos e medicamentos antidiabéticos orais.
+ 4 Interacções associadas ao valsartan Utilização concomitante não recomendada Lítio Foram notificados aumentos reversíveis das concentrações séricas de lítio e toxicidade durante o uso concomitante de inibidores da ECA. Apesar da falta de experiência sobre o uso concomitante de valsartan e lítio, esta associação não é recomendada. Caso a associação seja necessária está recomendada a monitorização cuidadosa das concentrações séricas de lítio (ver secção 4.4).
+ Diuréticos poupadores de potássio, suplementos de potássio, substitutos do sal contendo potássio e outras substâncias que possam aumentar os níveis de potássio Se um medicamento que afecte os níveis de potássio for prescrito em associação ao valsartan é aconselhável a monitorização dos níveis plasmáticos de potássio.
+ Requerida precaução com a utilização concomitante Medicamentos anti-inflamatórios não esteroides (AINEs), incluindo inibidores selectivos da COX-2, ácido acetilsalicílico (&gt; 3 g/dia) e AINEs não selectivos Quando os antagonistas da angiotensina II são administrados simultaneamente com AINEs pode ocorrer a atenuação do efeito anti-hipertensivo. Adicionalmente, a utilização concomitante de antagonistas da angiotensina II e AINEs pode levar a um aumento do risco de degradação da função renal e a um aumento dos níveis plasmáticos de potássio. Assim, é recomendada a monitorização da função renal no início do tratamento, assim como hidratação adequada do doente.
+ Outras Em monoterapia com valsartan não se verificaram interacções clinicamente significativas com as seguintes substâncias: cimetidina, varfarina, furosemida, digoxina, atenolol, indometacina, hidroclorotiazida, amlodipina, glibenclamida.
+ Interacções associadas à associação Não foram realizados estudos de interacção com Copalia e outros medicamentos.
+ A ter em consideração aquando da utilização concomitante Outros agentes anti-hipertensivos Os agentes anti-hipertensivos frequentemente usados (ex. bloqueadores alfa, diuréticos) e outros medicamentos que possam provocar efeitos adversos hipotensivos (ex. anti-depressivos tricíclicos, bloqueadores alfa para tratamento da hipertrofia benigna da próstata) podem aumentar o efeito anti-hipertensivo da associação.
+ 4.6 Gravidez e aleitamento A utilização de Antagonistas dos Receptores da Angiotensina II (ARAIIs) não é recomendada durante o primeiro trimestre de gravidez (ver secção 4.4). A utilização de ARAIIs é contra-indicada durante o segundo e terceiro trimestres de gravidez (ver secção 4.3 e 4.4).
+ Os dados epidemiológicos respeitantes ao risco de teratogenecidade após exposição a inibidores da ECA durante o primeiro trimestre de gravidez não têm sido conclusivos; no entanto, não pode ser excluído um ligeiro aumento do risco. Enquanto não existirem dados epidemiológicos controlados sobre o risco com antagonistas dos receptores da angiotensina II (ARAIIs), podem existir riscos semelhantes nesta classe de medicamentos. A menos que a manutenção da terapêutica com ARAII seja considerada essencial, doentes que planeiam engravidar devem mudar para terapêuticas antihipertensoras alternativas que tenham um perfil de segurança estabelecido para utilização durante a gravidez. Quando a gravidez é diagnosticada, a terapêutica com ARAIIs deve ser imediatamente interrompida, e, se apropriado, deve ser iniciada terapêutica alternativa.
+ Sabe-se que a exposição à terapêutica com ARAIIs durante o segundo e terceiro trimestres induz fetotoxicidade (compromisso da função renal, oligoâmnios, atraso na ossificação do crânio) e toxicidade neonatal (insuficiência renal, hipotensão, hipercaliemia) (ver também secção 5.3).
+ 5 Se tiver existido exposição a ARAIIs após o segundo trimestre de gravidez, é recomendável uma avaliação da função renal e do crânio através de ultra-sons.
+ Os bebés cujas mães tomaram ARAIIs devem ser cuidadosamente monitorizados quanto à hipotensão (ver secção 4.3. e 4.4).
+ Não existe experiência de utilização de Copalia em mulheres grávidas. Estudos em animais indicam que valsartan/amlodipina tem uma toxicidade reprodutiva semelhante ao descrito para o valsartan e outros antagonistas da angiotensina II (ver secção 5.3). Os dados de um número limitado de gravidezes expostas não revelam quaisquer efeitos adversos da amlodipina e outros antagonistas dos receptores de cálcio sobre a saúde do feto. No entanto, pode existir risco de parto prolongado.
+ Desconhece-se se o valsartan e/ou a amlodipina são excretados no leite humano. O valsartan foi excretado no leite de ratos fêmeas lactantes. Devido às potenciais reacções adversas nos lactentes, deve ser tomada uma decisão de interromper a amamentação ou de interromper a terapêutica, tendo em conta a importância desta terapêutica para a mãe.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas. Ao conduzir veículos ou utilizar máquinas há que ter em conta que podem ocorrer ocasionalmente tonturas ou fadiga.
+ 4.8 Efeitos indesejáveis A segurança de Copalia foi avaliada em cinco estudos clínicos controlados com 5.175 doentes, dos quais 2.613 receberam valsartan em associação com amlodipina.
+ As reacções adversas foram classificadas em classes de frequência usando a seguinte convenção: muito frequentes (≥1/10); frequentes (≥1/100, &lt; 1/10); pouco frequentes (≥1/1.000, &lt; 1/100); raros (≥1/10.000, &lt; 1/1.000); muito raros (&lt; 1/10.000), incluindo comunicações isoladas.
+ Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ Cardiopatias
+ Pouco frequentes: Raros: Taquicárdia, palpitações Síncope Doenças do sistema nervoso
+ Frequentes: Pouco frequentes: Cefaleias Tonturas, sonolência, tonturas posturais, parestesia
+ Afecções oculares
+ Raros: Alterações da visão Afecções do ouvido e do labirinto
+ Pouco frequentes: Raros: Vertigens Acufenos Doenças respiratórias, torácicas e do mediastino
+ Pouco frequentes: Tosse, dor faringolaríngeo Doenças gastrointestinais
+ Pouco frequentes: Diarreia, náuseas, dor abdominal, obstipação, xerostomia
+ Doenças renais e urinárias
+ Raros: Polaquiúria, poliúria Afecções dos tecidos cutâneos e subcutâneas
+ Pouco frequentes: Raros: Erupções cutâneas, eritema Hiperhidrose, exantema, prurido
+ 6 Afecções musculosqueléticas e dos tecidos conjuntivos
+ Pouco frequentes: Raros: Edema articular, lombalgia, artralgia Espasmos musculares, sensação de peso
+ Infecções e infestações
+ Frequentes: Nasofaringite, influenza Vasculopatias
+ Pouco frequentes: Raros: Hipotensão ortostática Hipotensão Perturbações gerais e alterações no local de administração
+ Frequentes: Edema, edema depressível, edema facial, edema periférico, fadiga, rubor, astenia, rubor cutâneo passageiro
+ Doenças do sistema imunitário
+ Raros: Hipersensibilidade Doenças dos órgãos genitais e da mama
+ Raros: Disfunção erectile Perturbações do foro psiquiátrico
+ Raros: Ansiedade Informação adicional sobre a associação Edema periférico, um efeito secundário reconhecido para a amlodipina, foi normalmente observado com menor incidência em doentes que receberam a associação amlodipina/valsartan do que nos que receberam amlodipina isoladamente. Em ensaios clínicos controlados, em dupla ocultação, a incidência de edema periférico por dose foi a seguinte:
+ % de doentes com edema periférico
+ Valsartan (mg)
+ 40 80 160 320 0 2,5 Amlodipina 5 (mg) 10
+ 3,0 8,0 3,1 10,3 5,5 2,3 4,8 ND 2,4 5,4 2,3 ND 1,6 2,4 2,1 9,0 0,9 3,9 2,4 9,5 A incidência média de edema periférico ponderada com todas as doses foi de 5,1% com a associação amlodipina/valsartan.
+ Informação adicional sobre os componentes individuais As reacções adversas previamente notificadas com um dos componentes individuais (amlodipina ou valsartan) podem ser também potenciais efeitos indesejáveis de Copalia, mesmo que não tenham sido observados em ensaios clínicos ou durante o período pós-comercialização.
+ Amlodipina Vómitos Frequentes Alopécia, alterações do trânsito intestinal, dispepsia, dispneia, rinite, gastrite, Pouco hiperplasia gengival, ginecomastia, hiperglicemia, impotência, aumento da frequentes frequência urinária, leucopenia, mal-estar, alterações de humor, mialgia, neuropatia periférica, pancreatite, hepatite, trombocitopenia, vasculite, angioedema e eritema multiforme Arritmia, enfarte do miocárdio. Raramente, doentes, particularmente aqueles com Raros doença arterial coronária obstrutiva grave, apresentaram aumento da frequência, duração ou gravidade da angina ou enfarte agudo do miocárdio após início de terapêutica com bloqueadores da entrada do cálcio ou aquando do aumento da dosagem. Também foi notificada arritmia (incluindo taquicardia ventricular e fibrilhação auricular). Estes acontecimentos adversos podem não ser distinguíveis da história natural da doença subjacente.
+ 7 Icterícia colestática, elevações da AST e ALT, púrpura, erupções cutâneas e prurido. Muito raros Foram notificados casos excepcionais de síndrome extrapiramidal.
+ Valsartan Diminuição dos valores de hemoglobina, diminuição do hematócrito, neutropenia, Desconhecidos trombocitopenia, aumento do potássio sérico, elevação dos valores da função hepática incluindo aumento da bilirrubina sérica, compromisso renal e insuficiência renal, aumento da creatinina sérica, angioedema, mialgia, vasculite, hipersensibilidade incluindo doença do soro.
+ 4.9 Sobredosagem Sintomas Não há experiência de sobredosagem com Copalia. O principal sintoma de sobredosagem com valsartan é possivelmente hipotensão acentuada com tonturas. A sobredosagem com amlodipina pode resultar em vasodilatação periférica excessiva e, possivelmente, taquicárdia reflexa. Foram descritas hipotensão sistémica acentuada e potencialmente prolongada até, e incluindo, choque com desfecho fatal.
+ Tratamento Se a ingestão é recente podem ser consideradas indução do vómito ou lavagem gástrica. A administração de carvão activado a voluntários saudáveis imediatamente ou até duas horas após a ingestão de amlodipina demonstrou diminuir significativamente a absorção de amlodipina. A hipotensão clinicamente significativa devido a sobredosagem de Copalia requer suporte cardiovascular activo, incluindo a monitorização frequente das funções cardíaca e respiratória, elevação dos membros inferiores, vigilância da volémia e do débito urinário. Um vasoconstritor pode auxiliar a restabelecer o tónus vascular e a pressão arterial, desde que não haja qualquer contra-indicação à sua utilização. O gluconato de cálcio intravenoso pode ser benéfico na reversão dos efeitos do bloqueio dos canais de cálcio.
+ Não é provável que o valsartan e a amlodipina sejam eliminados por hemodiálise.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: antagonistas da angiotensina II (valsartan), associações com derivados da di-hidropiridina (amlodipina), código ATC: C09DB01
+ Copalia associa dois compostos anti-hipertensivos com mecanismos de acção complementares para controlar a pressão arterial em doentes com hipertensão essencial: a amlodipina pertence à classe dos antagonistas do cálcio e o valsartan à classe de medicamentos dos antagonistas da angiotensina II. A associação destas substâncias tem um efeito anti-hipertensivo aditivo, reduzindo a pressão arterial em maior grau do que qualquer um dos seus componentes isoladamente.
+ Amlodipina O componente amlodipina de Copalia inibe a entrada transmembranar de iões de cálcio na musculatura lisa cardíaca e vascular. O mecanismo da acção anti-hipertensivo da amlodipina deve-se a um efeito relaxante directo no músculo liso vascular, que provoca reduções na resistência vascular periférica e na pressão arterial. Dados experimentais sugerem que a amlodipina se liga a ambos os locais de ligação da di-hidropiridina e não-di-hidropiridina. O processo contráctil do músculo cardíaco e do músculo liso vascular dependem do movimento de iões cálcio extra-celulares nestas células através de canais iónicos específicos.
+ Após a administração de doses terapêuticas a doentes com doses com hipertensão, a amlodipina produz vasodilatação, resultando na redução das pressões arteriais nas posições supina e ortostática.
+ 8 Com a administração crónica, estas reduções na pressão arterial não são acompanhadas por uma alteração significativa na frequência cardíaca ou níveis de plasmáticos de catecolaminas.
+ As concentrações plasmáticas estão correlacionadas com o efeito quer em doentes jovens, quer em idosos.
+ Em doentes hipertensos com função renal normal, doses terapêuticas de amlodipina resultaram numa diminuição na resistência vascular renal e num aumento da taxa de filtração glomerular e fluxo plasmático renal efectivo, sem alteração na fracção de filtração ou proteinúria.
+ Tais como com outros bloqueadores dos canais de cálcio, as determinações hemodinâmicas da função cardíaca em repouso e durante exercício (ou pacing) em doentes com função ventricular normal tratados com amlodipina demonstraram geralmente um pequeno aumento no indíce cardíaco, sem influência significativa na dP/dt ou na pressão ou volume ventricular esquerda diastólica. Em estudos hemodinâmicos, a amlodipina não foi associada a um efeito inotrópico negativo quando administrada no intervalo de doses terapêuticas a animais intactos ou a humanos, mesmo quando administrada simultaneamente com bloqueadores beta a humanos.
+ A amlodipina não altera a função nodal sinoauricular ou a condução auriculo-ventricular em animais intactos ou em humanos. Em estudos clínicos nos quais a amlodipina foi administrada em associação com bloqueadores beta a doentes com hipertensão ou angina, não foram observados efeitos adversos nos parâmetros electrocardiográficos.
+ Valsartan O valsartan é um antagonista dos receptores da angiotensina II específico, potente e oralmente activo. Actua de forma selectiva no subtipo de receptores AT1, que é responsável pelas acções conhecidas da angiotensina II. O aumento dos níveis plasmáticos de angiotensina II após o bloqueio dos receptores AT1 com valsartan pode estimular os receptores do subtipo AT2 não bloqueados, que parecem contrabalançar o efeito dos receptores AT1. O valsartan não apresenta qualquer actividade agonista parcial no receptor AT1 e apresenta uma afinidade muito maior para o receptor AT1 (20.000 vezes superior) do que para o receptor AT2.
+ O valsartan não inibe a ECA, também conhecida como quininase II, que converte a angiotensina I em angiotensina II e degrada a bradiquinina. Uma vez que não há efeito na ECA nem potenciação da bradiquinina ou substância P é improvável que os antagonistas da angiotensina II estejam associados a tosse. Nos ensaios clínicos em que valsartan foi comparado com um inibidor da ECA, a incidência de tosse seca foi significativamente menor (p &lt; 0,05) nos doentes tratados com valsartan do que nos doentes tratados com um inibidor da ECA (2,6% versus 7,9%, respectivamente). Num ensaio clínico realizado em doentes com história de tosse seca durante a terapêutica com inibidor da ECA, ocorreu tosse em 19,5% dos indivíduos tratados com valsartan e em 19,0% dos tratados com um diurético tiazídico, comparativamente a 68,5% dos indivíduos tratados com um inibidor da ECA (p &lt; 0,05). O valsartan não se liga nem bloqueia outros receptores hormonais ou canais iónicos reconhecidamente importantes na regulação cardiovascular.
+ A administração de valsartan a doentes com hipertensão provoca uma redução da pressão arterial sem afectar a frequência cardíaca.
+ Na maioria dos doentes, após a administração de uma dose oral única, o início da actividade anti-hipertensiva ocorre no intervalo de 2 horas, atingindo-se a redução máxima da pressão arterial no intervalo de 4-6 horas. O efeito anti-hipertensivo persiste ao longo de 24 horas após a administração. Durante a administração de doses repetidas, a redução máxima da pressão arterial com qualquer dose é geralmente obtida decorridas 2-4 semanas, mantendo-se durante o tratamento prolongado. A interrupção súbita de valsartan não está associada a hipertensão de rebound ou a quaisquer outros efeitos clínicos adversos.
+ 9 Amlodipina/Valsartan Mais de 1.400 doentes hipertensos receberam Copalia uma vez por dia em dois ensaios controlados com placebo. Forem incluídos adultos com hipertensão essencial ligeira a moderada não complicada (pressão arterial diastólica média na posição sentada ≥95 e &lt; 110 mmHg). Foram excluídos doentes com risco cardiovascular elevado – insuficiência cardíaca, diabetes tipo I e diabetes tipo II insuficientemente controlada e antecedentes de enfarte do miocárdio ou AVC no intervalo de um ano.
+ A associação de amlodipina e valsartan produz uma redução aditiva relacionada com a dose na pressão arterial ao longo do seu intervalo de dose terapêutica. O efeito anti-hipertensivo de uma dose única da associação persisitiu durante 24 horas.
+ Um ensaio clínico multicêntrico, aleatorizado, sob dupla ocultação, controlado com activo, de grupos paralelos demonstrou normalização da pressão arterial (pressão arterial diastólica na posição sentada &lt; 90 mmHg no final do ensaio) em doentes insuficientemente controlados com valsartan 160 mg em 75% dos doentes tratados com amlodipina/valsartan 10 mg/160 mg e em 62% dos doentes tratados com amlodipina/valsartan 5 mg/160 mg, em comparação com 53% dos doentes que permaneceram com valsartan 160 mg. A adição de amlodipina 10 mg e 5 mg produziu uma redução adicional na pressão arterial sistólica/diastólica de 6, 0/4,8 mmHg e 3, 9/2,9 mmHg, respectivamente, em comparação com os doentes que continuaram apenas com valsartan 160 mg.
+ Um ensaio multicêntrico, aleatorizado, sob dupla ocultação, controlado com activo, de grupos paralelos demonstrou normalização da pressão arterial (pressão arterial diastólica na posição sentada &lt; 90 mmHg no final do ensaio) em doentes insuficientemente controlados com amlodipina 10 mg em 78% dos doentes tratados com amlodipina/valsartan 10 mg/160 mg, em comparação com 67% dos doentes que permaneceram com amlodipina 10 mg. A adição de valsartan 160 mg produziu uma redução adicional na pressão arterial sistólica/diastólica de 2, 9/2,1 mmHg em comparação com os doentes que continuaram apenas com amlodipina 10 mg.
+ Copalia também foi estudado num estudo controlado com activo de 130 doentes hipertensos com pressão arterial diastólica ≥110 mmHg e &lt; 120 mmHg. Neste estudo (pressão arterial inicial de 171/113 mmHg), um regime de Copalia de 5 mg/160 mg titulado até 10 mg/160 mg reduziu a pressão arterial na posição sentada em 36/29 mmHg em comparação com 32/28 mmHg com um regime de lisinopril/hidroclorotiazida 10 mg/12,5 mg titulado até 20 mg/12,5 mg.
+ Em dois estudos de follow-up de longa duração o efeito de Copalia foi mantido durante mais de um ano. A interrupção súbita de Copalia não esteve associada a um rápido aumento da pressão arterial.
+ Em doentes insuficientemente controlados com amlodipina 5 mg, a associação amlodipina/valsartan 5 mg/80 mg pode alcançar um controlo da pressão arterial semelhante à amlodipina 10 mg com menos edema. Em doentes adequadamente controlados com amlodipina 10 mg mas que apresentem edema clinicamente significativo, a associação amlodipina/valsartan 5 mg/80 mg pode alcançar um controlo da pressão arterial semelhante com menos edema. A idade, o sexo e a raça não influenciam a resposta ao Copalia.
+ Copalia não foi estudado em qualquer população de doentes que não a hipertensa. O valsartan foi estudado em doentes após enfarte do miocárdio e com insuficiência cardíaca. A amlodipina foi estudada em doentes com angina vasospática e doença das artérias coronárias documentada angiograficamente.
+ 5.2 Propriedades farmacocinéticas Linearidade A amlodipina e o valsartan exibem uma farmacocinética linear.
+ 10 Amlodipina Absorção: Após a administração oral de doses terapêuticas de amlodipina isoladamente, as concentracões plasmáticas máximas de amlodipina são alcançadas em 6-12 horas. A biodisponibilidade absoluta varia entre 64% e 80%. A biodisponibilidade da amlodipina não é afectada pela ingestão de alimentos.
+ Distribuição: O volume de distribuição é de aproximadamente 21 l/kg. Estudos in vitro com amlodipina demonstraram que em doentes hipertensos aproximadamente 97,5% do fármaco em circulação está ligado às proteínas plasmáticas.
+ Biotransformação: A amlodipina é amplamente (aproximadamente 90%) metabolizada pelo fígado em metabolitos inactivos.
+ Excreção: A eliminação da amlodipina do plasma é bifásica, com uma semi-vida de eliminação terminal de aproximadamente 30 a 50 horas. Os níveis plasmáticos no estado estacionário são alcançados após a administração contínua durante 7-8 dias. Na urina são excretados dez por cento da amlodipina original e 60% de metabolitos da amlodipina.
+ Valsartan Absorção: Após a administração oral de valsartan isoladamente, as concentracões plasmáticas máximas de valsartan são alcançadas em 2-4 horas. A biodisponibilidade média absoluta é de 23%. O valsartan apresenta uma cinética de degradação multi-exponencial (t½α &lt; 1 h e t½ß aproximadamente igual a 9 h). Os alimentos reduzem a exposição (como determinado pela AUC) ao valsartan em cerca de 40% e as concentracões plasmáticas máximas (Cmáx) em cerca de 50%, embora aproximadamente a partir das 8 horas após a administração, as concentrações plasmáticas de valsartan sejam semelhantes nos grupos pós-prandial e em jejum. Esta redução da AUC não é, contudo, acompanhada por uma redução clinicamente significativa do efeito terapêutico e o valsartan pode, portanto, ser administrado com ou sem alimentos.
+ Distribuição: O volume de distribuição do valsartan no estado estacionário após administração intravenosa é de cerca de 17 litros, o que indica que o valsartan não se distribui extensivamente nos tecidos. O valsartan apresenta uma elevada taxa de ligação às proteínas séricas (94-97%), principalmente à albumina sérica.
+ Biotransformação: O valsartan não é transformado numa elevada extensão já que apenas 20% da dose é recuperada como metabolitos. Foi identificado um hidroximetabolito no plasma em baixas concentrações (menos do que 10% da AUC de valsartan). Este metabolito é farmacologicamente inactivo.
+ Excreção: O valsartan é excretado principalmente nas fezes (cerca de 83% da dose) e na urina (cerca de 13% da dose), principalmente como composto inalterado. Após administração intravenosa, a depuração plasmática do valsartan é cerca de 2 l/h e a sua depuração renal é de 0,62 l/h (cerca de 30% da depuração total). A semi-vida do valsartan é de 6 horas.
+ Amlodipina/Valsartan Após a administração oral de Copalia, as concentrações plasmáticas máximas de valsartan e amlodipina são alcançadas em 3 e 6-8 horas, respectivamente. A taxa e a extensão da absorção de Copalia são equivalentes à biodisponibilidade do valsartan e da amlodipina quando administrados como comprimidos individuais.
+ Populações especiais Doentes pediátricos (idade inferior a 18 anos) Não estão disponíveis dados de farmacocinética na população pediátrica.
+ 11 Idosos (idade 65 anos ou superior) O tempo até às concentracões plasmáticas máximas de amlodipina é semelhante em doentes jovens e idosos. Em doentes idosos, a depuração da amlodipina tem tendência a diminuir, provocando aumentos na área sob a curva (AUC) e semi-vida de eliminação. A AUC sistémica média do valsartan é 70% mais elevada nos idosos do que nos jovens, pelo que é necessária precaução quando se aumenta a dose.
+ Compromisso renal A farmacocinética da amlodipina não é significativamente influenciada pelo compromisso renal. Tal como esperado para um composto em que a depuração renal contribui para apenas 30% da depuração plasmática total, não foi observada qualquer correlação entre a função renal e a exposição sistémica ao valsartan.
+ Compromisso hepático Os doentes com compromisso hepático apresentam uma reduzida depuração da amlodipina, com o consequente aumento de aproximadamente 40-60% na AUC. Em média, em doentes com doença hepática crónica ligeira a moderada, a exposição ao valsartan (determinada pelos valores da AUC) é o dobro da observada em voluntários saudáveis (emparelhados por idade, sexo e peso). Deve ter-se cuidado em doentes com doença hepática (ver secção 4.2).
+ 5.3 Dados de segurança pré-clínica As reacções adversas observadas em estudos em animais com possível relevância clínica foram as seguintes: Foram observados sinais histopatológicos de inflamação da mucosa gástrica em ratos macho com uma exposição de cerca de 1,9 (valsartan) e 2,6 (amlodipina) vezes as doses clínicas de 160 mg de valsartan e 10 mg de amlodipina. Com exposições superiores, verificou-se ulceração e erosão da mucosa do estômago em machos e fêmeas. Alterações semelhantes foram também observadas no grupo de valsartan isolado (exposição 8, 5-11,0 vezes a dose clínica de 160 mg de valsartan).
+ Verificou-se um aumento da incidência e gravidade de basofilia/hialinização, dilatação e cilindros tubulares renais, assim como inflamação intersticial com predomínio de linfócitos e hipertrofia da camada média arteriolar com uma exposição de 8-13 (valsartan) e 7-8 (amlodipina) vezes as doses clínicas de 160 mg de valsartan e 10 mg de amlodipina. Alterações semelhantes foram observadas no grupo de valsartan isolado (exposição 8, 5-11,0 vezes a dose clínica de 160 mg de valsartan).
+ Num estudo de desenvolvimento embrio-fetal efectuado em ratos, foi observada um aumento da incidência de dilatações ureterais, malformações do esterno e vertebras e de falanges das patas dianteiras não ossificadas com exposições de cerca de 12 (valsartan) e 10 (amlodipina) vezes as doses clínicas de 160 mg de valsartan e 10 mg de amlodipina. As dilatações dos ureteres também foram observadas no grupo tratado com valsartan isolado (exposição 12 vezes a dose clínica de 160 mg de valsartan). Neste estudo verificaram-se apenas sinais modestos de toxicidade materna (redução moderada do peso corporal). O nível de efeito não observado para efeitos no desenvolvimento foi observado com 3 (valsartan) e 4 (amlodipina) vezes a exposição clínica (com base na AUC).
+ Para os compostos isolados não se observou evidência de mutagenicidade, clastogenicidade ou carcinogenicidade.
+ 12 6. INFORMAÇÕES FARMACÊUTICAS
+ 6.1 Lista dos excipientes Núcleo do comprimido: Celulose microcristalina Crospovidona Tipo A Sílica coloidal anidra Estearato de magnésio
+ Revestimento: Hipromelose Dióxido de titânio (E171) Óxido de ferro amarelo (E172) Macrogol 4000 Talco
+ 6.2 Incompatibilidades Não aplicável. 6.3 Prazo de validade 30 meses 6.4 Precauções especiais de conservação
+ Não conservar acima de 30°C. Conservar na embalagem de origem para proteger da humidade.
+ 6.5 Natureza e conteúdo do recipiente Blisters de PVC/PVDC. Um blister contém 7,10 ou 14 comprimidos revestidos por película.
+ Apresentações: 7,14,28,30,56,90,98 ou 280 comprimidos revestidos por película.
+ Blisters destacáveis de PVC/PVDC para dose unitária: Um blister contém 7,10 ou 14 comprimidos revestidos por película.
+ Apresentações. 56,98 ou 280 comprimidos revestidos por película e embalagens múltiplas contendo 280 (4x70) comprimidos revestidos por película.
+ É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ Não existem requisitos especiais. 13 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Novartis Europharm Limited Wimblehurst Road Horsham West Sussex, RH12 5AB Reino Unido
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/06/372/001 EU/1/06/372/002 EU/1/06/372/003 EU/1/06/372/004 EU/1/06/372/005 EU/1/06/372/006 EU/1/06/372/007 EU/1/06/372/008 EU/1/06/372/025 EU/1/06/372/026 EU/1/06/372/027 EU/1/06/372/034
+ 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 16. 01.2007 10. DATA DA REVISÃO DO TEXTO 14 1. DENOMINAÇÃO DO MEDICAMENTO
+ Copalia 5 mg/160 mg comprimidos revestidos por película
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada comprimido revestido por película contém 5 mg de amlodipina (como besilato de amlodipina) e 160 mg de valsartan.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Comprimido revestido por película Comprimido revestido por película, oval, amarelo escuro, com impressão “ NVR ” numa face e “ ECE ” na outra face.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Tratamento da hipertensão essencial. Copalia está indicado em doentes cuja pressão arterial não esteja adequadamente controlada com amlodipina ou valsartan em monoterapia.
+ 4.2 Posologia e modo de administração A dose recomendada de Copalia é de um comprimido por dia.
+ Copalia 5 mg/160 mg pode ser administrado em doentes cuja pressão arterial não esteja adequadamente controlada com 5 mg de amlodipina ou 160 mg de valsartan isoladamente.
+ Copalia pode ser tomado com ou sem alimentos. Recomenda-se a ingestão de Copalia com um pouco de água.
+ Recomenda-se a titulação individual da dose com os componentes (i. e. amlodipina e valsartan) antes da mudança para a associação de dose fixa. Quando for clinicamente apropriado, pode ser considerada a mudança directa da monoterapia para a associação de dose fixa.
+ Por conveniência, os doentes a tomar valsartan e amlodipina em comprimidos/cápsulas separados podem mudar para Copalia contendo os componentes nas mesmas doses.
+ Compromisso renal Não é necessário proceder a qualquer ajustamento da posologia em doentes com compromisso renal ligeiro a moderado. Recomenda-se a monitorização dos níveis de potássio e da creatinina em caso de compromisso renal moderado.
+ Compromisso hepático Deve ter-se cautela ao administrar Copalia a doentes com compromisso hepático ou perturbações obstrutivas das vias biliares (ver secção 4.4). Em doentes com compromisso hepático ligeiro a moderado sem colestase, a dose máxima recomendada é de 80 mg de valsartan.
+ 15 Idosos (idade igual ou superior a 65 anos) Em doentes idosos é necessária precaução ao aumentar a posologia.
+ Crianças e adolescentes Copalia não está recomendado em doentes com idade inferior a 18 anos devido à ausência de dados de segurança e eficácia.
+ 4.3 Contra-indicações Hipersensibilidade às substâncias activas, aos derivados da di-hidropiridina ou a qualquer um dos excipientes. Compromisso hepático grave, cirrose biliar ou colostase. Compromisso renal grave (TFG &lt; 30 ml/min/1,73 m2) e doentes a fazer diálise. Segundo e terceiro trimestre de gravidez (ver secção 4.4 e 4.6).
+ 4.4 Advertências e precauções especiais de utilização
+ Gravidez A terapêutica com Antagonistas dos Receptores da Angiotensina II (ARAII) não deve ser iniciada durante a gravidez. A menos que a continuação da terapêutica com ARAII seja considerada essencial, doentes que planeiam engravidar devem mudar para terapêuticas antihipertensivas alternativas que tenham um perfil de segurança estabelecido para utilização durante a gravidez. Quando a gravidez é diagnosticada a terapêutica com ARAII deve ser imediatamente interrompida, e, se apropriado, deve ser iniciada terapêutica alternativa (ver secção 4.3 e 4.6).
+ Doentes com hiponatremia e/ou hipovolémia Em estudos controlados com placebo foi observada hipotensão acentuado em 0,4% dos doentes com hipertensão não complicada tratados com Copalia. Em doentes com um sistema renina-angiotensina activado (tais como doentes com depleção do volume e/ou de sal tratados com doses elevadas de diuréticos) que estão a receber bloqueadores dos receptores da angiotensina, pode ocorrer hipotensão sintomática. Recomenda-se a correcção desta situação antes da administração de Copalia ou supervisão médica cuidadosa no início do tratamento.
+ Se ocorrer hipotensão com Copalia, o doente deve ser colocado em posição supina e, se necessário, deve ser-lhe administrada uma perfusão intravenosa de soro fisiológico. Uma vez estabilizada a pressão arterial o tratamento pode ser continuado.
+ Hipercaliemia A medicação concomitante com suplementos de potássio, diuréticos poupadores de potássio, substitutos do sal contendo potássio ou outros fármacos que possam aumentar os níveis de potássio (heparina, etc.) deve ser usada com precaução e com monitorização frequente dos níveis de potássio.
+ Estenose da artéria renal Não estão disponíveis dados sobre a utilização de Copalia em doentes com estenose da artéria renal unilateral ou bilateral.
+ Transplante renal Até à data não existem dados de segurança sobre a utilização de Copalia em doentes submetidos a um transplante renal recente.
+ Compromisso hepático O valsartan é eliminado na sua maior parte inalterado através da bílis, enquanto que a amlodipina é amplamente metabolizada pelo fígado. Deve ter-se uma precaução particular ao administrar Copalia a doentes com compromisso hepático ligeiro a moderado ou perturbações obstrutivas das vias biliares.
+ 16 Em doentes com compromisso hepático ligeiro a moderado sem colestase, a dose máxima recomendada é de 80 mg de valsartan.
+ Compromisso renal Não é necessário proceder a qualquer ajustamento da posologia de Copalia em doentes com compromisso renal ligeiro a moderado (TFG &gt; 30 ml/min/1,73 m2). Recomenda-se a monitorização dos níveis de potássio e da creatinina em caso de compromisso renal moderado.
+ Hiperaldosteronismo primário Os doentes com hiperaldosteronismo primário não devem ser tratados com o antagonista da angiotensina II valsartan uma vez que o seu sistema renina-angiotensina se encontra afectado pela patologia primária.
+ Insuficiência cardíaca Em consequência da inibição do sistema renina-angiotensina podem ser esperadas alterações na função renal em indíviduos susceptíveis. Em doentes com insuficiência cardíaca grave cuja função renal possa depender da actividade do sistema renina-angiotensina, o tratamento com inibidores da enzima de conversão da angiotensina (ECA) e antagonistas dos receptores de angiotensina foi associado a oligúria e/ou urémia progressiva e (em casos raros) a insuficiência renal aguda e/ou morte. Foram notificados quadros semelhantes com valsartan.
+ Num estudo de longa duração com amlodipina, controlado com placebo (PRAISE-2) em doentes com insuficiência cardíaca de etiologia não-isquémica das classes III e IV da NYHA (New York Heart Association Classification), a amlodipina foi associada a um aumento de notificações de edema pulmonar apesar da ausência de diferença significativa na incidência de agravamento da insuficiência cardíaca, em comparação com o placebo.
+ Estenose valvular aórtica e mitral, cardiomiopatia hipertrófica obstrutiva Tal como com todos os outros vasodilatadores, deve ter-se um cuidado especial em doentes com estenose das válvulas aórtica ou mitral ou com cardiomiopatia hipertrófica obstrutiva.
+ Copalia não foi estudado em qualquer população de doentes que não a hipertensa.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Interacções associadas à amlodipina Precaução requerida com a utilização concomitante de Inibidores do CYP3A4 Um estudo em doentes idosos demonstrou que o diltiazem inibe o metabolismo da amlodipina, provavelmente via CYP3A4 (a concentração plasmática aumenta aproximadamente 50% e o efeito da amlodipina aumenta). Não pode ser excluída a possibilidade de inibidores mais potentes do CYP3A4 (i. e. cetoconazol, itraconazol, ritonavir) poderem aumentar a concentração plasmática da amlodipina em maior extensão do que o diltiazem.
+ Indutores do CYP3A4 (agentes anticonvulsivantes[ ex. carbamazepina, fenobarbital, fenitoína, fosfenitoína, primidona], rifampicina, Hypericum perforatum) A administração concomitante pode levar à redução das concentrações plasmáticas de amlodipina. Está indicada a monitorização clínica, com possível ajustamento posológico da amlodipina durante o tratamento com o indutor e após a sua suspensão.
+ A ter em consideração aquando da utilização concomitante Outras Em monoterapia, a amlodipina foi administrada de forma segura com diuréticos tiazídicos, bloqueadores beta, inibidores da ECA, nitratos de longa duração, nitroglicerina sublingual, digoxina, varfarina, atorvastatina, sildenafil, medicamentos antiácidos (gel de hidróxido de alumínio, hidróxido de magnésio, simeticone), cimetidina, medicamentos anti-inflamatórios não esteróides, antibióticos e medicamentos antidiabéticos orais.
+ 17 Interacções associadas ao valsartan Utilização concomitante não recomendada Lítio Foram notificados aumentos reversíveis das concentrações séricas de lítio e toxicidade durante o uso concomitante de inibidores da ECA. Apesar da falta de experiência sobre o uso concomitante de valsartan e lítio, esta associação não é recomendada. Caso a associação seja necessária está recomendada a monitorização cuidadosa das concentrações séricas de lítio (ver secção 4.4).
+ Diuréticos poupadores de potássio, suplementos de potássio, substitutos do sal contendo potássio e outras substâncias que possam aumentar os níveis de potássio Se um medicamento que afecte os níveis de potássio for prescrito em associação ao valsartan é aconselhável a monitorização dos níveis plasmáticos de potássio.
+ Requerida precaução com a utilização concomitante Medicamentos anti-inflamatórios não esteroides (AINEs), incluindo inibidores selectivos da COX-2, ácido acetilsalicílico (&gt; 3 g/dia) e AINEs não selectivos Quando os antagonistas da angiotensina II são administrados simultaneamente com AINEs pode ocorrer a atenuação do efeito anti-hipertensivo. Adicionalmente, a utilização concomitante de antagonistas da angiotensina II e AINEs pode levar a um aumento do risco de degradação da função renal e a um aumento dos níveis plasmáticos de potássio. Assim, é recomendada a monitorização da função renal no início do tratamento, assim como hidratação adequada do doente.
+ Outras Em monoterapia com valsartan não se verificaram interacções clinicamente significativas com as seguintes substâncias: cimetidina, varfarina, furosemida, digoxina, atenolol, indometacina, hidroclorotiazida, amlodipina, glibenclamida.
+ Interacções associadas à associação Não foram realizados estudos de interacção com Copalia e outros medicamentos.
+ A ter em consideração aquando da utilização concomitante Outros agentes anti-hipertensivos Os agentes anti-hipertensivos frequentemente usados (ex. bloqueadores alfa, diuréticos) e outros medicamentos que possam provocar efeitos adversos hipotensivos (ex. anti-depressivos tricíclicos, bloqueadores alfa para tratamento da hipertrofia benigna da próstata) podem aumentar o efeito anti-hipertensivo da associação.
+ 4.6 Gravidez e aleitamento A utilização de Antagonistas dos Receptores da Angiotensina II (ARAIIs) não é recomendada durante o primeiro trimestre de gravidez (ver secção 4.4). A utilização de ARAIIs é contra-indicada durante o segundo e terceiro trimestres de gravidez (ver secção 4.3 e 4.4).
+ Os dados epidemiológicos respeitantes ao risco de teratogenecidade após exposição a inibidores da ECA durante o primeiro trimestre de gravidez não têm sido conclusivos; no entanto, não pode ser excluído um ligeiro aumento do risco. Enquanto não existirem dados epidemiológicos controlados sobre o risco com antagonistas dos receptores da angiotensina II (ARAIIs), podem existir riscos semelhantes nesta classe de medicamentos. A menos que a manutenção da terapêutica com ARAII seja considerada essencial, doentes que planeiam engravidar devem mudar para terapêuticas antihipertensoras alternativas que tenham um perfil de segurança estabelecido para utilização durante a gravidez. Quando a gravidez é diagnosticada, a terapêutica com ARAIIs deve ser imediatamente interrompida, e, se apropriado, deve ser iniciada terapêutica alternativa.
+ Sabe-se que a exposição à terapêutica com ARAIIs durante o segundo e terceiro trimestres induz fetotoxicidade (compromisso da função renal, oligoâmnios, atraso na ossificação do crânio) e toxicidade neonatal (insuficiência renal, hipotensão, hipercaliemia) (ver também secção 5.3).
+ 18 Se tiver existido exposição a ARAIIs após o segundo trimestre de gravidez, é recomendável uma avaliação da função renal e do crânio através de ultra-sons.
+ Os bebés cujas mães tomaram ARAIIs devem ser cuidadosamente monitorizados quanto à hipotensão (ver secção 4.3. e 4.4).
+ Não existe experiência de utilização de Copalia em mulheres grávidas. Estudos em animais indicam que valsartan/amlodipina tem uma toxicidade reprodutiva semelhante ao descrito para o valsartan e outros antagonistas da angiotensina II (ver secção 5.3). Os dados de um número limitado de gravidezes expostas não revelam quaisquer efeitos adversos da amlodipina e outros antagonistas dos receptores de cálcio sobre a saúde do feto. No entanto, pode existir risco de parto prolongado.
+ Desconhece-se se o valsartan e/ou a amlodipina são excretados no leite humano. O valsartan foi excretado no leite de ratos fêmeas lactantes. Devido às potenciais reacções adversas nos lactentes, deve ser tomada uma decisão de interromper a amamentação ou de interromper a terapêutica, tendo em conta a importância desta terapêutica para a mãe.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas. Ao conduzir veículos ou utilizar máquinas há que ter em conta que podem ocorrer ocasionalmente tonturas ou fadiga.
+ 4.8 Efeitos indesejáveis A segurança de Copalia foi avaliada em cinco estudos clínicos controlados com 5.175 doentes, dos quais 2.613 receberam valsartan em associação com amlodipina.
+ As reacções adversas foram classificadas em classes de frequência usando a seguinte convenção: muito frequentes (≥1/10); frequentes (≥1/100, &lt; 1/10); pouco frequentes (≥1/1.000, &lt; 1/100); raros (≥1/10.000, &lt; 1/1.000); muito raros (&lt; 1/10.000), incluindo comunicações isoladas.
+ Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ Cardiopatias
+ Pouco frequentes: Raros: Taquicárdia, palpitações Síncope Doenças do sistema nervoso
+ Frequentes: Pouco frequentes: Cefaleias Tonturas, sonolência, tonturas posturais, parestesia
+ Afecções oculares
+ Raros: Alterações da visão Afecções do ouvido e do labirinto
+ Pouco frequentes: Raros: Vertigens Acufenos Doenças respiratórias, torácicas e do mediastino
+ Pouco frequentes: Tosse, dor faringolaríngeo Doenças gastrointestinais
+ Pouco frequentes: Diarreia, náuseas, dor abdominal, obstipação, xerostomia
+ Doenças renais e urinárias
+ Raros: Polaquiúria, poliúria Afecções dos tecidos cutâneos e subcutâneas
+ Pouco frequentes: Raros: Erupções cutâneas, eritema Hiperhidrose, exantema, prurido
+ 19 Afecções musculosqueléticas e dos tecidos conjuntivos
+ Pouco frequentes: Raros: Edema articular, lombalgia, artralgia Espasmos musculares, sensação de peso
+ Infecções e infestações
+ Frequentes: Nasofaringite, influenza Vasculopatias
+ Pouco frequentes: Raros: Hipotensão ortostática Hipotensão Perturbações gerais e alterações no local de administração
+ Frequentes: Edema, edema depressível, edema facial, edema periférico, fadiga, rubor, astenia, rubor cutâneo passageiro
+ Doenças do sistema imunitário
+ Raros: Hipersensibilidade Doenças dos órgãos genitais e da mama
+ Raros: Disfunção erectile Perturbações do foro psiquiátrico
+ Raros: Ansiedade Informação adicional sobre a associação Edema periférico, um efeito secundário reconhecido para a amlodipina, foi normalmente observado com menor incidência em doentes que receberam a associação amlodipina/valsartan do que nos que receberam amlodipina isoladamente. Em ensaios clínicos controlados, em dupla ocultação, a incidência de edema periférico por dose foi a seguinte:
+ % de doentes com edema periférico
+ Valsartan (mg)
+ 40 80 160 320 0 2,5 Amlodipina 5 (mg) 10
+ 3,0 8,0 3,1 10,3 5,5 2,3 4,8 ND 2,4 5,4 2,3 ND 1,6 2,4 2,1 9,0 0,9 3,9 2,4 9,5 A incidência média de edema periférico ponderada com todas as doses foi de 5,1% com a associação amlodipina/valsartan.
+ Informação adicional sobre os componentes individuais As reacções adversas previamente notificadas com um dos componentes individuais (amlodipina ou valsartan) podem ser também potenciais efeitos indesejáveis de Copalia, mesmo que não tenham sido observados em ensaios clínicos ou durante o período pós-comercialização.
+ Amlodipina Vómitos Frequentes Alopécia, alterações do trânsito intestinal, dispepsia, dispneia, rinite, gastrite, Pouco hiperplasia gengival, ginecomastia, hiperglicemia, impotência, aumento da frequentes frequência urinária, leucopenia, mal-estar, alterações de humor, mialgia, neuropatia periférica, pancreatite, hepatite, trombocitopenia, vasculite, angioedema e eritema multiforme Arritmia, enfarte do miocárdio. Raramente, doentes, particularmente aqueles com Raros doença arterial coronária obstrutiva grave, apresentaram aumento da frequência, duração ou gravidade da angina ou enfarte agudo do miocárdio após início de terapêutica com bloqueadores da entrada do cálcio ou aquando do aumento da dosagem. Também foi notificada arritmia (incluindo taquicardia ventricular e fibrilhação auricular). Estes acontecimentos adversos podem não ser distinguíveis da história natural da doença subjacente.
+ 20 Icterícia colestática, elevações da AST e ALT, púrpura, erupções cutâneas e prurido. Muito raros Foram notificados casos excepcionais de síndrome extrapiramidal.
+ Valsartan Diminuição dos valores de hemoglobina, diminuição do hematócrito, neutropenia, Desconhecidos trombocitopenia, aumento do potássio sérico, elevação dos valores da função hepática incluindo aumento da bilirrubina sérica, compromisso renal e insuficiência renal, aumento da creatinina sérica, angioedema, mialgia, vasculite, hipersensibilidade incluindo doença do soro.
+ 4.9 Sobredosagem Sintomas Não há experiência de sobredosagem com Copalia. O principal sintoma de sobredosagem com valsartan é possivelmente hipotensão acentuada com tonturas. A sobredosagem com amlodipina pode resultar em vasodilatação periférica excessiva e, possivelmente, taquicárdia reflexa. Foram descritas hipotensão sistémica acentuada e potencialmente prolongada até, e incluindo, choque com desfecho fatal.
+ Tratamento Se a ingestão é recente podem ser consideradas indução do vómito ou lavagem gástrica. A administração de carvão activado a voluntários saudáveis imediatamente ou até duas horas após a ingestão de amlodipina demonstrou diminuir significativamente a absorção de amlodipina. A hipotensão clinicamente significativa devido a sobredosagem de Copalia requer suporte cardiovascular activo, incluindo a monitorização frequente das funções cardíaca e respiratória, elevação dos membros inferiores, vigilância da volémia e do débito urinário. Um vasoconstritor pode auxiliar a restabelecer o tónus vascular e a pressão arterial, desde que não haja qualquer contra-indicação à sua utilização. O gluconato de cálcio intravenoso pode ser benéfico na reversão dos efeitos do bloqueio dos canais de cálcio.
+ Não é provável que o valsartan e a amlodipina sejam eliminados por hemodiálise.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: antagonistas da angiotensina II (valsartan), associações com derivados da di-hidropiridina (amlodipina), código ATC: C09DB01
+ Copalia associa dois compostos anti-hipertensivos com mecanismos de acção complementares para controlar a pressão arterial em doentes com hipertensão essencial: a amlodipina pertence à classe dos antagonistas do cálcio e o valsartan à classe de medicamentos dos antagonistas da angiotensina II. A associação destas substâncias tem um efeito anti-hipertensivo aditivo, reduzindo a pressão arterial em maior grau do que qualquer um dos seus componentes isoladamente.
+ Amlodipina O componente amlodipina de Copalia inibe a entrada transmembranar de iões de cálcio na musculatura lisa cardíaca e vascular. O mecanismo da acção anti-hipertensivo da amlodipina deve-se a um efeito relaxante directo no músculo liso vascular, que provoca reduções na resistência vascular periférica e na pressão arterial. Dados experimentais sugerem que a amlodipina se liga a ambos os locais de ligação da di-hidropiridina e não-di-hidropiridina. O processo contráctil do músculo cardíaco e do músculo liso vascular dependem do movimento de iões cálcio extra-celulares nestas células através de canais iónicos específicos.
+ Após a administração de doses terapêuticas a doentes com doses com hipertensão, a amlodipina produz vasodilatação, resultando na redução das pressões arteriais nas posições supina e ortostática.
+ 21 Com a administração crónica, estas reduções na pressão arterial não são acompanhadas por uma alteração significativa na frequência cardíaca ou níveis de plasmáticos de catecolaminas.
+ As concentrações plasmáticas estão correlacionadas com o efeito quer em doentes jovens, quer em idosos.
+ Em doentes hipertensos com função renal normal, doses terapêuticas de amlodipina resultaram numa diminuição na resistência vascular renal e num aumento da taxa de filtração glomerular e fluxo plasmático renal efectivo, sem alteração na fracção de filtração ou proteinúria.
+ Tais como com outros bloqueadores dos canais de cálcio, as determinações hemodinâmicas da função cardíaca em repouso e durante exercício (ou pacing) em doentes com função ventricular normal tratados com amlodipina demonstraram geralmente um pequeno aumento no indíce cardíaco, sem influência significativa na dP/dt ou na pressão ou volume ventricular esquerda diastólica. Em estudos hemodinâmicos, a amlodipina não foi associada a um efeito inotrópico negativo quando administrada no intervalo de doses terapêuticas a animais intactos ou a humanos, mesmo quando administrada simultaneamente com bloqueadores beta a humanos.
+ A amlodipina não altera a função nodal sinoauricular ou a condução auriculo-ventricular em animais intactos ou em humanos. Em estudos clínicos nos quais a amlodipina foi administrada em associação com bloqueadores beta a doentes com hipertensão ou angina, não foram observados efeitos adversos nos parâmetros electrocardiográficos.
+ Valsartan O valsartan é um antagonista dos receptores da angiotensina II específico, potente e oralmente activo. Actua de forma selectiva no subtipo de receptores AT1, que é responsável pelas acções conhecidas da angiotensina II. O aumento dos níveis plasmáticos de angiotensina II após o bloqueio dos receptores AT1 com valsartan pode estimular os receptores do subtipo AT2 não bloqueados, que parecem contrabalançar o efeito dos receptores AT1. O valsartan não apresenta qualquer actividade agonista parcial no receptor AT1 e apresenta uma afinidade muito maior para o receptor AT1 (20.000 vezes superior) do que para o receptor AT2.
+ O valsartan não inibe a ECA, também conhecida como quininase II, que converte a angiotensina I em angiotensina II e degrada a bradiquinina. Uma vez que não há efeito na ECA nem potenciação da bradiquinina ou substância P é improvável que os antagonistas da angiotensina II estejam associados a tosse. Nos ensaios clínicos em que valsartan foi comparado com um inibidor da ECA, a incidência de tosse seca foi significativamente menor (p &lt; 0,05) nos doentes tratados com valsartan do que nos doentes tratados com um inibidor da ECA (2,6% versus 7,9%, respectivamente). Num ensaio clínico realizado em doentes com história de tosse seca durante a terapêutica com inibidor da ECA, ocorreu tosse em 19,5% dos indivíduos tratados com valsartan e em 19,0% dos tratados com um diurético tiazídico, comparativamente a 68,5% dos indivíduos tratados com um inibidor da ECA (p &lt; 0,05). O valsartan não se liga nem bloqueia outros receptores hormonais ou canais iónicos reconhecidamente importantes na regulação cardiovascular.
+ A administração de valsartan a doentes com hipertensão provoca uma redução da pressão arterial sem afectar a frequência cardíaca.
+ Na maioria dos doentes, após a administração de uma dose oral única, o início da actividade anti-hipertensiva ocorre no intervalo de 2 horas, atingindo-se a redução máxima da pressão arterial no intervalo de 4-6 horas. O efeito anti-hipertensivo persiste ao longo de 24 horas após a administração. Durante a administração de doses repetidas, a redução máxima da pressão arterial com qualquer dose é geralmente obtida decorridas 2-4 semanas, mantendo-se durante o tratamento prolongado. A interrupção súbita de valsartan não está associada a hipertensão de rebound ou a quaisquer outros efeitos clínicos adversos.
+ 22 Amlodipina/Valsartan Mais de 1.400 doentes hipertensos receberam Copalia uma vez por dia em dois ensaios controlados com placebo. Forem incluídos adultos com hipertensão essencial ligeira a moderada não complicada (pressão arterial diastólica média na posição sentada ≥95 e &lt; 110 mmHg). Foram excluídos doentes com risco cardiovascular elevado – insuficiência cardíaca, diabetes tipo I e diabetes tipo II insuficientemente controlada e antecedentes de enfarte do miocárdio ou AVC no intervalo de um ano.
+ A associação de amlodipina e valsartan produz uma redução aditiva relacionada com a dose na pressão arterial ao longo do seu intervalo de dose terapêutica. O efeito anti-hipertensivo de uma dose única da associação persisitiu durante 24 horas.
+ Um ensaio clínico multicêntrico, aleatorizado, sob dupla ocultação, controlado com activo, de grupos paralelos demonstrou normalização da pressão arterial (pressão arterial diastólica na posição sentada &lt; 90 mmHg no final do ensaio) em doentes insuficientemente controlados com valsartan 160 mg em 75% dos doentes tratados com amlodipina/valsartan 10 mg/160 mg e em 62% dos doentes tratados com amlodipina/valsartan 5 mg/160 mg, em comparação com 53% dos doentes que permaneceram com valsartan 160 mg. A adição de amlodipina 10 mg e 5 mg produziu uma redução adicional na pressão arterial sistólica/diastólica de 6, 0/4,8 mmHg e 3, 9/2,9 mmHg, respectivamente, em comparação com os doentes que continuaram apenas com valsartan 160 mg.
+ Um ensaio multicêntrico, aleatorizado, sob dupla ocultação, controlado com activo, de grupos paralelos demonstrou normalização da pressão arterial (pressão arterial diastólica na posição sentada &lt; 90 mmHg no final do ensaio) em doentes insuficientemente controlados com amlodipina 10 mg em 78% dos doentes tratados com amlodipina/valsartan 10 mg/160 mg, em comparação com 67% dos doentes que permaneceram com amlodipina 10 mg. A adição de valsartan 160 mg produziu uma redução adicional na pressão arterial sistólica/diastólica de 2, 9/2,1 mmHg em comparação com os doentes que continuaram apenas com amlodipina 10 mg.
+ Copalia também foi estudado num estudo controlado com activo de 130 doentes hipertensos com pressão arterial diastólica ≥110 mmHg e &lt; 120 mmHg. Neste estudo (pressão arterial inicial de 171/113 mmHg), um regime de Copalia de 5 mg/160 mg titulado até 10 mg/160 mg reduziu a pressão arterial na posição sentada em 36/29 mmHg em comparação com 32/28 mmHg com um regime de lisinopril/hidroclorotiazida 10 mg/12,5 mg titulado até 20 mg/12,5 mg.
+ Em dois estudos de follow-up de longa duração o efeito de Copalia foi mantido durante mais de um ano. A interrupção súbita de Copalia não esteve associada a um rápido aumento da pressão arterial.
+ Em doentes insuficientemente controlados com amlodipina 5 mg, a associação amlodipina/valsartan 5 mg/80 mg pode alcançar um controlo da pressão arterial semelhante à amlodipina 10 mg com menos edema. Em doentes adequadamente controlados com amlodipina 10 mg mas que apresentem edema clinicamente significativo, a associação amlodipina/valsartan 5 mg/80 mg pode alcançar um controlo da pressão arterial semelhante com menos edema. A idade, o sexo e a raça não influenciam a resposta ao Copalia.
+ Copalia não foi estudado em qualquer população de doentes que não a hipertensa. O valsartan foi estudado em doentes após enfarte do miocárdio e com insuficiência cardíaca. A amlodipina foi estudada em doentes com angina vasospática e doença das artérias coronárias documentada angiograficamente.
+ 5.2 Propriedades farmacocinéticas Linearidade A amlodipina e o valsartan exibem uma farmacocinética linear.
+ 23 Amlodipina Absorção: Após a administração oral de doses terapêuticas de amlodipina isoladamente, as concentracões plasmáticas máximas de amlodipina são alcançadas em 6-12 horas. A biodisponibilidade absoluta varia entre 64% e 80%. A biodisponibilidade da amlodipina não é afectada pela ingestão de alimentos.
+ Distribuição: O volume de distribuição é de aproximadamente 21 l/kg. Estudos in vitro com amlodipina demonstraram que em doentes hipertensos aproximadamente 97,5% do fármaco em circulação está ligado às proteínas plasmáticas.
+ Biotransformação: A amlodipina é amplamente (aproximadamente 90%) metabolizada pelo fígado em metabolitos inactivos.
+ Excreção: A eliminação da amlodipina do plasma é bifásica, com uma semi-vida de eliminação terminal de aproximadamente 30 a 50 horas. Os níveis plasmáticos no estado estacionário são alcançados após a administração contínua durante 7-8 dias. Na urina são excretados dez por cento da amlodipina original e 60% de metabolitos da amlodipina.
+ Valsartan Absorção: Após a administração oral de valsartan isoladamente, as concentracões plasmáticas máximas de valsartan são alcançadas em 2-4 horas. A biodisponibilidade média absoluta é de 23%. O valsartan apresenta uma cinética de degradação multi-exponencial (t½α &lt; 1 h e t½ß aproximadamente igual a 9 h). Os alimentos reduzem a exposição (como determinado pela AUC) ao valsartan em cerca de 40% e as concentracões plasmáticas máximas (Cmáx) em cerca de 50%, embora aproximadamente a partir das 8 horas após a administração, as concentrações plasmáticas de valsartan sejam semelhantes nos grupos pós-prandial e em jejum. Esta redução da AUC não é, contudo, acompanhada por uma redução clinicamente significativa do efeito terapêutico e o valsartan pode, portanto, ser administrado com ou sem alimentos.
+ Distribuição: O volume de distribuição do valsartan no estado estacionário após administração intravenosa é de cerca de 17 litros, o que indica que o valsartan não se distribui extensivamente nos tecidos. O valsartan apresenta uma elevada taxa de ligação às proteínas séricas (94-97%), principalmente à albumina sérica.
+ Biotransformação: O valsartan não é transformado numa elevada extensão já que apenas 20% da dose é recuperada como metabolitos. Foi identificado um hidroximetabolito no plasma em baixas concentrações (menos do que 10% da AUC de valsartan). Este metabolito é farmacologicamente inactivo.
+ Excreção: O valsartan é excretado principalmente nas fezes (cerca de 83% da dose) e na urina (cerca de 13% da dose), principalmente como composto inalterado. Após administração intravenosa, a depuração plasmática do valsartan é cerca de 2 l/h e a sua depuração renal é de 0,62 l/h (cerca de 30% da depuração total). A semi-vida do valsartan é de 6 horas.
+ Amlodipina/Valsartan Após a administração oral de Copalia, as concentrações plasmáticas máximas de valsartan e amlodipina são alcançadas em 3 e 6-8 horas, respectivamente. A taxa e a extensão da absorção de Copalia são equivalentes à biodisponibilidade do valsartan e da amlodipina quando administrados como comprimidos individuais.
+ Populações especiais Doentes pediátricos (idade inferior a 18 anos) Não estão disponíveis dados de farmacocinética na população pediátrica.
+ 24 Idosos (idade 65 anos ou superior) O tempo até às concentracões plasmáticas máximas de amlodipina é semelhante em doentes jovens e idosos. Em doentes idosos, a depuração da amlodipina tem tendência a diminuir, provocando aumentos na área sob a curva (AUC) e semi-vida de eliminação. A AUC sistémica média do valsartan é 70% mais elevada nos idosos do que nos jovens, pelo que é necessária precaução quando se aumenta a dose.
+ Compromisso renal A farmacocinética da amlodipina não é significativamente influenciada pelo compromisso renal. Tal como esperado para um composto em que a depuração renal contribui para apenas 30% da depuração plasmática total, não foi observada qualquer correlação entre a função renal e a exposição sistémica ao valsartan.
+ Compromisso hepático Os doentes com compromisso hepático apresentam uma reduzida depuração da amlodipina, com o consequente aumento de aproximadamente 40-60% na AUC. Em média, em doentes com doença hepática crónica ligeira a moderada, a exposição ao valsartan (determinada pelos valores da AUC) é o dobro da observada em voluntários saudáveis (emparelhados por idade, sexo e peso). Deve ter-se cuidado em doentes com doença hepática (ver secção 4.2).
+ 5.3 Dados de segurança pré-clínica As reacções adversas observadas em estudos em animais com possível relevância clínica foram as seguintes: Foram observados sinais histopatológicos de inflamação da mucosa gástrica em ratos macho com uma exposição de cerca de 1,9 (valsartan) e 2,6 (amlodipina) vezes as doses clínicas de 160 mg de valsartan e 10 mg de amlodipina. Com exposições superiores, verificou-se ulceração e erosão da mucosa do estômago em machos e fêmeas. Alterações semelhantes foram também observadas no grupo de valsartan isolado (exposição 8, 5-11,0 vezes a dose clínica de 160 mg de valsartan).
+ Verificou-se um aumento da incidência e gravidade de basofilia/hialinização, dilatação e cilindros tubulares renais, assim como inflamação intersticial com predomínio de linfócitos e hipertrofia da camada média arteriolar com uma exposição de 8-13 (valsartan) e 7-8 (amlodipina) vezes as doses clínicas de 160 mg de valsartan e 10 mg de amlodipina. Alterações semelhantes foram observadas no grupo de valsartan isolado (exposição 8, 5-11,0 vezes a dose clínica de 160 mg de valsartan).
+ Num estudo de desenvolvimento embrio-fetal efectuado em ratos, foi observada um aumento da incidência de dilatações ureterais, malformações do esterno e vertebras e de falanges das patas dianteiras não ossificadas com exposições de cerca de 12 (valsartan) e 10 (amlodipina) vezes as doses clínicas de 160 mg de valsartan e 10 mg de amlodipina. As dilatações dos ureteres também foram observadas no grupo tratado com valsartan isolado (exposição 12 vezes a dose clínica de 160 mg de valsartan). Neste estudo verificaram-se apenas sinais modestos de toxicidade materna (redução moderada do peso corporal). O nível de efeito não observado para efeitos no desenvolvimento foi observado com 3 (valsartan) e 4 (amlodipina) vezes a exposição clínica (com base na AUC).
+ Para os compostos isolados não se observou evidência de mutagenicidade, clastogenicidade ou carcinogenicidade.
+ 25 6. INFORMAÇÕES FARMACÊUTICAS
+ 6.1 Lista dos excipientes Núcleo do comprimido: Celulose microcristalina Crospovidona Tipo A Sílica coloidal anidra Estearato de magnésio
+ Revestimento: Hipromelose Dióxido de titânio (E171) Óxido de ferro amarelo (E172) Macrogol 4000 Talco
+ 6.2 Incompatibilidades Não aplicável. 6.3 Prazo de validade 30 meses 6.4 Precauções especiais de conservação
+ Não conservar acima de 30°C. Conservar na embalagem de origem para proteger da humidade.
+ 6.5 Natureza e conteúdo do recipiente Blisters de PVC/PVDC. Um blister contém 7,10 ou 14 comprimidos revestidos por película.
+ Apresentações: 7,14,28,30,56,90,98 ou 280 comprimidos revestidos por película.
+ Blisters destacáveis de PVC/PVDC para dose unitária: Um blister contém 7,10 ou 14 comprimidos revestidos por película.
+ Apresentações. 56,98 ou 280 comprimidos revestidos por película e embalagens múltiplas contendo 280 (4x70) comprimidos revestidos por película.
+ É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ Não existem requisitos especiais. 26 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Novartis Europharm Limited Wimblehurst Road Horsham West Sussex, RH12 5AB Reino Unido
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/06/372/009 EU/1/06/372/010 EU/1/06/372/011 EU/1/06/372/012 EU/1/06/372/013 EU/1/06/372/014 EU/1/06/372/015 EU/1/06/372/016 EU/1/06/372/028 EU/1/06/372/029 EU/1/06/372/030 EU/1/06/372/035
+ 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 16. 01.2007 10. DATA DA REVISÃO DO TEXTO 27 1. DENOMINAÇÃO DO MEDICAMENTO
+ Copalia 10 mg/160 mg comprimidos revestidos por película
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada comprimido revestido por película contém 10 mg de amlodipina (como besilato de amlodipina) e 160 mg de valsartan.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Comprimido revestido por película Comprimido revestido por película, oval, amarelo claro, com impressão “ NVR ” numa face e “ UIC ” na outra face.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Tratamento da hipertensão essencial. Copalia está indicado em doentes cuja pressão arterial não esteja adequadamente controlada com amlodipina ou valsartan em monoterapia.
+ 4.2 Posologia e modo de administração A dose recomendada de Copalia é de um comprimido por dia.
+ Copalia 10 mg/160 mg pode ser administrado em doentes cuja pressão arterial não esteja adequadamente controlada com 10 mg de amlodipina ou 160 mg de valsartan isoladamente ou com Copalia 5 mg/160 mg.
+ Copalia pode ser tomado com ou sem alimentos. Recomenda-se a ingestão de Copalia com um pouco de água.
+ Recomenda-se a titulação individual da dose com os componentes (i. e. amlodipina e valsartan) antes da mudança para a associação de dose fixa. Quando for clinicamente apropriado, pode ser considerada a mudança directa da monoterapia para a associação de dose fixa.
+ Por conveniência, os doentes a tomar valsartan e amlodipina em comprimidos/cápsulas separados podem mudar para Copalia contendo os componentes nas mesmas doses.
+ Compromisso renal Não é necessário proceder a qualquer ajustamento da posologia em doentes com compromisso renal ligeiro a moderado. Recomenda-se a monitorização dos níveis de potássio e da creatinina em caso de compromisso renal moderado.
+ Compromisso hepático Deve ter-se cautela ao administrar Copalia a doentes com compromisso hepático ou perturbações obstrutivas das vias biliares (ver secção 4.4). Em doentes com compromisso hepático ligeiro a moderado sem colestase, a dose máxima recomendada é de 80 mg de valsartan.
+ 28 Idosos (idade igual ou superior a 65 anos) Em doentes idosos é necessária precaução ao aumentar a posologia.
+ Crianças e adolescentes Copalia não está recomendado em doentes com idade inferior a 18 anos devido à ausência de dados de segurança e eficácia.
+ 4.3 Contra-indicações Hipersensibilidade às substâncias activas, aos derivados da di-hidropiridina ou a qualquer um dos excipientes. Compromisso hepático grave, cirrose biliar ou colostase. Compromisso renal grave (TFG &lt; 30 ml/min/1,73 m2) e doentes a fazer diálise. Segundo e terceiro trimestre de gravidez (ver secção 4.4 e 4.6).
+ 4.4 Advertências e precauções especiais de utilização
+ Gravidez A terapêutica com Antagonistas dos Receptores da Angiotensina II (ARAII) não deve ser iniciada durante a gravidez. A menos que a continuação da terapêutica com ARAII seja considerada essencial, doentes que planeiam engravidar devem mudar para terapêuticas antihipertensivas alternativas que tenham um perfil de segurança estabelecido para utilização durante a gravidez. Quando a gravidez é diagnosticada a terapêutica com ARAII deve ser imediatamente interrompida, e, se apropriado, deve ser iniciada terapêutica alternativa (ver secção 4.3 e 4.6).
+ Doentes com hiponatremia e/ou hipovolémia Em estudos controlados com placebo foi observada hipotensão acentuado em 0,4% dos doentes com hipertensão não complicada tratados com Copalia. Em doentes com um sistema renina-angiotensina activado (tais como doentes com depleção do volume e/ou de sal tratados com doses elevadas de diuréticos) que estão a receber bloqueadores dos receptores da angiotensina, pode ocorrer hipotensão sintomática. Recomenda-se a correcção desta situação antes da administração de Copalia ou supervisão médica cuidadosa no início do tratamento.
+ Se ocorrer hipotensão com Copalia, o doente deve ser colocado em posição supina e, se necessário, deve ser-lhe administrada uma perfusão intravenosa de soro fisiológico. Uma vez estabilizada a pressão arterial o tratamento pode ser continuado.
+ Hipercaliemia A medicação concomitante com suplementos de potássio, diuréticos poupadores de potássio, substitutos do sal contendo potássio ou outros fármacos que possam aumentar os níveis de potássio (heparina, etc.) deve ser usada com precaução e com monitorização frequente dos níveis de potássio.
+ Estenose da artéria renal Não estão disponíveis dados sobre a utilização de Copalia em doentes com estenose da artéria renal unilateral ou bilateral.
+ Transplante renal Até à data não existem dados de segurança sobre a utilização de Copalia em doentes submetidos a um transplante renal recente.
+ Compromisso hepático O valsartan é eliminado na sua maior parte inalterado através da bílis, enquanto que a amlodipina é amplamente metabolizada pelo fígado. Deve ter-se uma precaução particular ao administrar Copalia a doentes com compromisso hepático ligeiro a moderado ou perturbações obstrutivas das vias biliares.
+ 29 Em doentes com compromisso hepático ligeiro a moderado sem colestase, a dose máxima recomendada é de 80 mg de valsartan.
+ Compromisso renal Não é necessário proceder a qualquer ajustamento da posologia de Copalia em doentes com compromisso renal ligeiro a moderado (TFG &gt; 30 ml/min/1,73 m2). Recomenda-se a monitorização dos níveis de potássio e da creatinina em caso de compromisso renal moderado.
+ Hiperaldosteronismo primário Os doentes com hiperaldosteronismo primário não devem ser tratados com o antagonista da angiotensina II valsartan uma vez que o seu sistema renina-angiotensina se encontra afectado pela patologia primária.
+ Insuficiência cardíaca Em consequência da inibição do sistema renina-angiotensina podem ser esperadas alterações na função renal em indíviduos susceptíveis. Em doentes com insuficiência cardíaca grave cuja função renal possa depender da actividade do sistema renina-angiotensina, o tratamento com inibidores da enzima de conversão da angiotensina (ECA) e antagonistas dos receptores de angiotensina foi associado a oligúria e/ou urémia progressiva e (em casos raros) a insuficiência renal aguda e/ou morte. Foram notificados quadros semelhantes com valsartan.
+ Num estudo de longa duração com amlodipina, controlado com placebo (PRAISE-2) em doentes com insuficiência cardíaca de etiologia não-isquémica das classes III e IV da NYHA (New York Heart Association Classification), a amlodipina foi associada a um aumento de notificações de edema pulmonar apesar da ausência de diferença significativa na incidência de agravamento da insuficiência cardíaca, em comparação com o placebo.
+ Estenose valvular aórtica e mitral, cardiomiopatia hipertrófica obstrutiva Tal como com todos os outros vasodilatadores, deve ter-se um cuidado especial em doentes com estenose das válvulas aórtica ou mitral ou com cardiomiopatia hipertrófica obstrutiva.
+ Copalia não foi estudado em qualquer população de doentes que não a hipertensa.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Interacções associadas à amlodipina Precaução requerida com a utilização concomitante de Inibidores do CYP3A4 Um estudo em doentes idosos demonstrou que o diltiazem inibe o metabolismo da amlodipina, provavelmente via CYP3A4 (a concentração plasmática aumenta aproximadamente 50% e o efeito da amlodipina aumenta). Não pode ser excluída a possibilidade de inibidores mais potentes do CYP3A4 (i. e. cetoconazol, itraconazol, ritonavir) poderem aumentar a concentração plasmática da amlodipina em maior extensão do que o diltiazem.
+ Indutores do CYP3A4 (agentes anticonvulsivantes[ ex. carbamazepina, fenobarbital, fenitoína, fosfenitoína, primidona], rifampicina, Hypericum perforatum) A administração concomitante pode levar à redução das concentrações plasmáticas de amlodipina. Está indicada a monitorização clínica, com possível ajustamento posológico da amlodipina durante o tratamento com o indutor e após a sua suspensão.
+ A ter em consideração aquando da utilização concomitante Outras Em monoterapia, a amlodipina foi administrada de forma segura com diuréticos tiazídicos, bloqueadores beta, inibidores da ECA, nitratos de longa duração, nitroglicerina sublingual, digoxina, varfarina, atorvastatina, sildenafil, medicamentos antiácidos (gel de hidróxido de alumínio, hidróxido de magnésio, simeticone), cimetidina, medicamentos anti-inflamatórios não esteróides, antibióticos e medicamentos antidiabéticos orais.
+ 30 Interacções associadas ao valsartan Utilização concomitante não recomendada Lítio Foram notificados aumentos reversíveis das concentrações séricas de lítio e toxicidade durante o uso concomitante de inibidores da ECA. Apesar da falta de experiência sobre o uso concomitante de valsartan e lítio, esta associação não é recomendada. Caso a associação seja necessária está recomendada a monitorização cuidadosa das concentrações séricas de lítio (ver secção 4.4).
+ Diuréticos poupadores de potássio, suplementos de potássio, substitutos do sal contendo potássio e outras substâncias que possam aumentar os níveis de potássio Se um medicamento que afecte os níveis de potássio for prescrito em associação ao valsartan é aconselhável a monitorização dos níveis plasmáticos de potássio.
+ Requerida precaução com a utilização concomitante Medicamentos anti-inflamatórios não esteroides (AINEs), incluindo inibidores selectivos da COX-2, ácido acetilsalicílico (&gt; 3 g/dia) e AINEs não selectivos Quando os antagonistas da angiotensina II são administrados simultaneamente com AINEs pode ocorrer a atenuação do efeito anti-hipertensivo. Adicionalmente, a utilização concomitante de antagonistas da angiotensina II e AINEs pode levar a um aumento do risco de degradação da função renal e a um aumento dos níveis plasmáticos de potássio. Assim, é recomendada a monitorização da função renal no início do tratamento, assim como hidratação adequada do doente.
+ Outras Em monoterapia com valsartan não se verificaram interacções clinicamente significativas com as seguintes substâncias: cimetidina, varfarina, furosemida, digoxina, atenolol, indometacina, hidroclorotiazida, amlodipina, glibenclamida.
+ Interacções associadas à associação Não foram realizados estudos de interacção com Copalia e outros medicamentos.
+ A ter em consideração aquando da utilização concomitante Outros agentes anti-hipertensivos Os agentes anti-hipertensivos frequentemente usados (ex. bloqueadores alfa, diuréticos) e outros medicamentos que possam provocar efeitos adversos hipotensivos (ex. anti-depressivos tricíclicos, bloqueadores alfa para tratamento da hipertrofia benigna da próstata) podem aumentar o efeito anti-hipertensivo da associação.
+ 4.6 Gravidez e aleitamento A utilização de Antagonistas dos Receptores da Angiotensina II (ARAIIs) não é recomendada durante o primeiro trimestre de gravidez (ver secção 4.4). A utilização de ARAIIs é contra-indicada durante o segundo e terceiro trimestres de gravidez (ver secção 4.3 e 4.4).
+ Os dados epidemiológicos respeitantes ao risco de teratogenecidade após exposição a inibidores da ECA durante o primeiro trimestre de gravidez não têm sido conclusivos; no entanto, não pode ser excluído um ligeiro aumento do risco. Enquanto não existirem dados epidemiológicos controlados sobre o risco com antagonistas dos receptores da angiotensina II (ARAIIs), podem existir riscos semelhantes nesta classe de medicamentos. A menos que a manutenção da terapêutica com ARAII seja considerada essencial, doentes que planeiam engravidar devem mudar para terapêuticas antihipertensoras alternativas que tenham um perfil de segurança estabelecido para utilização durante a gravidez. Quando a gravidez é diagnosticada, a terapêutica com ARAIIs deve ser imediatamente interrompida, e, se apropriado, deve ser iniciada terapêutica alternativa.
+ Sabe-se que a exposição à terapêutica com ARAIIs durante o segundo e terceiro trimestres induz fetotoxicidade (compromisso da função renal, oligoâmnios, atraso na ossificação do crânio) e toxicidade neonatal (insuficiência renal, hipotensão, hipercaliemia) (ver também secção 5.3).
+ 31 Se tiver existido exposição a ARAIIs após o segundo trimestre de gravidez, é recomendável uma avaliação da função renal e do crânio através de ultra-sons.
+ Os bebés cujas mães tomaram ARAIIs devem ser cuidadosamente monitorizados quanto à hipotensão (ver secção 4.3. e 4.4).
+ Não existe experiência de utilização de Copalia em mulheres grávidas. Estudos em animais indicam que valsartan/amlodipina tem uma toxicidade reprodutiva semelhante ao descrito para o valsartan e outros antagonistas da angiotensina II (ver secção 5.3). Os dados de um número limitado de gravidezes expostas não revelam quaisquer efeitos adversos da amlodipina e outros antagonistas dos receptores de cálcio sobre a saúde do feto. No entanto, pode existir risco de parto prolongado.
+ Desconhece-se se o valsartan e/ou a amlodipina são excretados no leite humano. O valsartan foi excretado no leite de ratos fêmeas lactantes. Devido às potenciais reacções adversas nos lactentes, deve ser tomada uma decisão de interromper a amamentação ou de interromper a terapêutica, tendo em conta a importância desta terapêutica para a mãe.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas. Ao conduzir veículos ou utilizar máquinas há que ter em conta que podem ocorrer ocasionalmente tonturas ou fadiga.
+ 4.8 Efeitos indesejáveis A segurança de Copalia foi avaliada em cinco estudos clínicos controlados com 5.175 doentes, dos quais 2.613 receberam valsartan em associação com amlodipina.
+ As reacções adversas foram classificadas em classes de frequência usando a seguinte convenção: muito frequentes (≥1/10); frequentes (≥1/100, &lt; 1/10); pouco frequentes (≥1/1.000, &lt; 1/100); raros (≥1/10.000, &lt; 1/1.000); muito raros (&lt; 1/10.000), incluindo comunicações isoladas.
+ Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ Cardiopatias
+ Pouco frequentes: Raros: Taquicárdia, palpitações Síncope Doenças do sistema nervoso
+ Frequentes: Pouco frequentes: Cefaleias Tonturas, sonolência, tonturas posturais, parestesia
+ Afecções oculares
+ Raros: Alterações da visão Afecções do ouvido e do labirinto
+ Pouco frequentes: Raros: Vertigens Acufenos Doenças respiratórias, torácicas e do mediastino
+ Pouco frequentes: Tosse, dor faringolaríngeo Doenças gastrointestinais
+ Pouco frequentes: Diarreia, náuseas, dor abdominal, obstipação, xerostomia
+ Doenças renais e urinárias
+ Raros: Polaquiúria, poliúria Afecções dos tecidos cutâneos e subcutâneas
+ Pouco frequentes: Raros: Erupções cutâneas, eritema Hiperhidrose, exantema, prurido
+ 32 Afecções musculosqueléticas e dos tecidos conjuntivos
+ Pouco frequentes: Raros: Edema articular, lombalgia, artralgia Espasmos musculares, sensação de peso
+ Infecções e infestações
+ Frequentes: Nasofaringite, influenza Vasculopatias
+ Pouco frequentes: Raros: Hipotensão ortostática Hipotensão Perturbações gerais e alterações no local de administração
+ Frequentes: Edema, edema depressível, edema facial, edema periférico, fadiga, rubor, astenia, rubor cutâneo passageiro
+ Doenças do sistema imunitário
+ Raros: Hipersensibilidade Doenças dos órgãos genitais e da mama
+ Raros: Disfunção erectile Perturbações do foro psiquiátrico
+ Raros: Ansiedade Informação adicional sobre a associação Edema periférico, um efeito secundário reconhecido para a amlodipina, foi normalmente observado com menor incidência em doentes que receberam a associação amlodipina/valsartan do que nos que receberam amlodipina isoladamente. Em ensaios clínicos controlados, em dupla ocultação, a incidência de edema periférico por dose foi a seguinte:
+ % de doentes com edema periférico
+ Valsartan (mg)
+ 40 80 160 320 0 2,5 Amlodipina 5 (mg) 10
+ 3,0 8,0 3,1 10,3 5,5 2,3 4,8 ND 2,4 5,4 2,3 ND 1,6 2,4 2,1 9,0 0,9 3,9 2,4 9,5 A incidência média de edema periférico ponderada com todas as doses foi de 5,1% com a associação amlodipina/valsartan.
+ Informação adicional sobre os componentes individuais As reacções adversas previamente notificadas com um dos componentes individuais (amlodipina ou valsartan) podem ser também potenciais efeitos indesejáveis de Copalia, mesmo que não tenham sido observados em ensaios clínicos ou durante o período pós-comercialização.
+ Amlodipina Vómitos Frequentes Alopécia, alterações do trânsito intestinal, dispepsia, dispneia, rinite, gastrite, Pouco hiperplasia gengival, ginecomastia, hiperglicemia, impotência, aumento da frequentes frequência urinária, leucopenia, mal-estar, alterações de humor, mialgia, neuropatia periférica, pancreatite, hepatite, trombocitopenia, vasculite, angioedema e eritema multiforme Arritmia, enfarte do miocárdio. Raramente, doentes, particularmente aqueles com Raros doença arterial coronária obstrutiva grave, apresentaram aumento da frequência, duração ou gravidade da angina ou enfarte agudo do miocárdio após início de terapêutica com bloqueadores da entrada do cálcio ou aquando do aumento da dosagem. Também foi notificada arritmia (incluindo taquicardia ventricular e fibrilhação auricular). Estes acontecimentos adversos podem não ser distinguíveis da história natural da doença subjacente.
+ 33 Icterícia colestática, elevações da AST e ALT, púrpura, erupções cutâneas e prurido. Muito raros Foram notificados casos excepcionais de síndrome extrapiramidal.
+ Valsartan Diminuição dos valores de hemoglobina, diminuição do hematócrito, neutropenia, Desconhecidos trombocitopenia, aumento do potássio sérico, elevação dos valores da função hepática incluindo aumento da bilirrubina sérica, compromisso renal e insuficiência renal, aumento da creatinina sérica, angioedema, mialgia, vasculite, hipersensibilidade incluindo doença do soro.
+ 4.9 Sobredosagem Sintomas Não há experiência de sobredosagem com Copalia. O principal sintoma de sobredosagem com valsartan é possivelmente hipotensão acentuada com tonturas. A sobredosagem com amlodipina pode resultar em vasodilatação periférica excessiva e, possivelmente, taquicárdia reflexa. Foram descritas hipotensão sistémica acentuada e potencialmente prolongada até, e incluindo, choque com desfecho fatal.
+ Tratamento Se a ingestão é recente podem ser consideradas indução do vómito ou lavagem gástrica. A administração de carvão activado a voluntários saudáveis imediatamente ou até duas horas após a ingestão de amlodipina demonstrou diminuir significativamente a absorção de amlodipina. A hipotensão clinicamente significativa devido a sobredosagem de Copalia requer suporte cardiovascular activo, incluindo a monitorização frequente das funções cardíaca e respiratória, elevação dos membros inferiores, vigilância da volémia e do débito urinário. Um vasoconstritor pode auxiliar a restabelecer o tónus vascular e a pressão arterial, desde que não haja qualquer contra-indicação à sua utilização. O gluconato de cálcio intravenoso pode ser benéfico na reversão dos efeitos do bloqueio dos canais de cálcio.
+ Não é provável que o valsartan e a amlodipina sejam eliminados por hemodiálise.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: antagonistas da angiotensina II (valsartan), associações com derivados da di-hidropiridina (amlodipina), código ATC: C09DB01
+ Copalia associa dois compostos anti-hipertensivos com mecanismos de acção complementares para controlar a pressão arterial em doentes com hipertensão essencial: a amlodipina pertence à classe dos antagonistas do cálcio e o valsartan à classe de medicamentos dos antagonistas da angiotensina II. A associação destas substâncias tem um efeito anti-hipertensivo aditivo, reduzindo a pressão arterial em maior grau do que qualquer um dos seus componentes isoladamente.
+ Amlodipina O componente amlodipina de Copalia inibe a entrada transmembranar de iões de cálcio na musculatura lisa cardíaca e vascular. O mecanismo da acção anti-hipertensivo da amlodipina deve-se a um efeito relaxante directo no músculo liso vascular, que provoca reduções na resistência vascular periférica e na pressão arterial. Dados experimentais sugerem que a amlodipina se liga a ambos os locais de ligação da di-hidropiridina e não-di-hidropiridina. O processo contráctil do músculo cardíaco e do músculo liso vascular dependem do movimento de iões cálcio extra-celulares nestas células através de canais iónicos específicos.
+ Após a administração de doses terapêuticas a doentes com doses com hipertensão, a amlodipina produz vasodilatação, resultando na redução das pressões arteriais nas posições supina e ortostática.
+ 34 Com a administração crónica, estas reduções na pressão arterial não são acompanhadas por uma alteração significativa na frequência cardíaca ou níveis de plasmáticos de catecolaminas.
+ As concentrações plasmáticas estão correlacionadas com o efeito quer em doentes jovens, quer em idosos.
+ Em doentes hipertensos com função renal normal, doses terapêuticas de amlodipina resultaram numa diminuição na resistência vascular renal e num aumento da taxa de filtração glomerular e fluxo plasmático renal efectivo, sem alteração na fracção de filtração ou proteinúria.
+ Tais como com outros bloqueadores dos canais de cálcio, as determinações hemodinâmicas da função cardíaca em repouso e durante exercício (ou pacing) em doentes com função ventricular normal tratados com amlodipina demonstraram geralmente um pequeno aumento no indíce cardíaco, sem influência significativa na dP/dt ou na pressão ou volume ventricular esquerda diastólica. Em estudos hemodinâmicos, a amlodipina não foi associada a um efeito inotrópico negativo quando administrada no intervalo de doses terapêuticas a animais intactos ou a humanos, mesmo quando administrada simultaneamente com bloqueadores beta a humanos.
+ A amlodipina não altera a função nodal sinoauricular ou a condução auriculo-ventricular em animais intactos ou em humanos. Em estudos clínicos nos quais a amlodipina foi administrada em associação com bloqueadores beta a doentes com hipertensão ou angina, não foram observados efeitos adversos nos parâmetros electrocardiográficos.
+ Valsartan O valsartan é um antagonista dos receptores da angiotensina II específico, potente e oralmente activo. Actua de forma selectiva no subtipo de receptores AT1, que é responsável pelas acções conhecidas da angiotensina II. O aumento dos níveis plasmáticos de angiotensina II após o bloqueio dos receptores AT1 com valsartan pode estimular os receptores do subtipo AT2 não bloqueados, que parecem contrabalançar o efeito dos receptores AT1. O valsartan não apresenta qualquer actividade agonista parcial no receptor AT1 e apresenta uma afinidade muito maior para o receptor AT1 (20.000 vezes superior) do que para o receptor AT2.
+ O valsartan não inibe a ECA, também conhecida como quininase II, que converte a angiotensina I em angiotensina II e degrada a bradiquinina. Uma vez que não há efeito na ECA nem potenciação da bradiquinina ou substância P é improvável que os antagonistas da angiotensina II estejam associados a tosse. Nos ensaios clínicos em que valsartan foi comparado com um inibidor da ECA, a incidência de tosse seca foi significativamente menor (p &lt; 0,05) nos doentes tratados com valsartan do que nos doentes tratados com um inibidor da ECA (2,6% versus 7,9%, respectivamente). Num ensaio clínico realizado em doentes com história de tosse seca durante a terapêutica com inibidor da ECA, ocorreu tosse em 19,5% dos indivíduos tratados com valsartan e em 19,0% dos tratados com um diurético tiazídico, comparativamente a 68,5% dos indivíduos tratados com um inibidor da ECA (p &lt; 0,05). O valsartan não se liga nem bloqueia outros receptores hormonais ou canais iónicos reconhecidamente importantes na regulação cardiovascular.
+ A administração de valsartan a doentes com hipertensão provoca uma redução da pressão arterial sem afectar a frequência cardíaca.
+ Na maioria dos doentes, após a administração de uma dose oral única, o início da actividade anti-hipertensiva ocorre no intervalo de 2 horas, atingindo-se a redução máxima da pressão arterial no intervalo de 4-6 horas. O efeito anti-hipertensivo persiste ao longo de 24 horas após a administração. Durante a administração de doses repetidas, a redução máxima da pressão arterial com qualquer dose é geralmente obtida decorridas 2-4 semanas, mantendo-se durante o tratamento prolongado. A interrupção súbita de valsartan não está associada a hipertensão de rebound ou a quaisquer outros efeitos clínicos adversos.
+ 35 Amlodipina/Valsartan Mais de 1.400 doentes hipertensos receberam Copalia uma vez por dia em dois ensaios controlados com placebo. Forem incluídos adultos com hipertensão essencial ligeira a moderada não complicada (pressão arterial diastólica média na posição sentada ≥95 e &lt; 110 mmHg). Foram excluídos doentes com risco cardiovascular elevado – insuficiência cardíaca, diabetes tipo I e diabetes tipo II insuficientemente controlada e antecedentes de enfarte do miocárdio ou AVC no intervalo de um ano.
+ A associação de amlodipina e valsartan produz uma redução aditiva relacionada com a dose na pressão arterial ao longo do seu intervalo de dose terapêutica. O efeito anti-hipertensivo de uma dose única da associação persisitiu durante 24 horas.
+ Um ensaio clínico multicêntrico, aleatorizado, sob dupla ocultação, controlado com activo, de grupos paralelos demonstrou normalização da pressão arterial (pressão arterial diastólica na posição sentada &lt; 90 mmHg no final do ensaio) em doentes insuficientemente controlados com valsartan 160 mg em 75% dos doentes tratados com amlodipina/valsartan 10 mg/160 mg e em 62% dos doentes tratados com amlodipina/valsartan 5 mg/160 mg, em comparação com 53% dos doentes que permaneceram com valsartan 160 mg. A adição de amlodipina 10 mg e 5 mg produziu uma redução adicional na pressão arterial sistólica/diastólica de 6, 0/4,8 mmHg e 3, 9/2,9 mmHg, respectivamente, em comparação com os doentes que continuaram apenas com valsartan 160 mg.
+ Um ensaio multicêntrico, aleatorizado, sob dupla ocultação, controlado com activo, de grupos paralelos demonstrou normalização da pressão arterial (pressão arterial diastólica na posição sentada &lt; 90 mmHg no final do ensaio) em doentes insuficientemente controlados com amlodipina 10 mg em 78% dos doentes tratados com amlodipina/valsartan 10 mg/160 mg, em comparação com 67% dos doentes que permaneceram com amlodipina 10 mg. A adição de valsartan 160 mg produziu uma redução adicional na pressão arterial sistólica/diastólica de 2, 9/2,1 mmHg em comparação com os doentes que continuaram apenas com amlodipina 10 mg.
+ Copalia também foi estudado num estudo controlado com activo de 130 doentes hipertensos com pressão arterial diastólica ≥110 mmHg e &lt; 120 mmHg. Neste estudo (pressão arterial inicial de 171/113 mmHg), um regime de Copalia de 5 mg/160 mg titulado até 10 mg/160 mg reduziu a pressão arterial na posição sentada em 36/29 mmHg em comparação com 32/28 mmHg com um regime de lisinopril/hidroclorotiazida 10 mg/12,5 mg titulado até 20 mg/12,5 mg.
+ Em dois estudos de follow-up de longa duração o efeito de Copalia foi mantido durante mais de um ano. A interrupção súbita de Copalia não esteve associada a um rápido aumento da pressão arterial.
+ Em doentes insuficientemente controlados com amlodipina 5 mg, a associação amlodipina/valsartan 5 mg/80 mg pode alcançar um controlo da pressão arterial semelhante à amlodipina 10 mg com menos edema. Em doentes adequadamente controlados com amlodipina 10 mg mas que apresentem edema clinicamente significativo, a associação amlodipina/valsartan 5 mg/80 mg pode alcançar um controlo da pressão arterial semelhante com menos edema. A idade, o sexo e a raça não influenciam a resposta ao Copalia.
+ Copalia não foi estudado em qualquer população de doentes que não a hipertensa. O valsartan foi estudado em doentes após enfarte do miocárdio e com insuficiência cardíaca. A amlodipina foi estudada em doentes com angina vasospática e doença das artérias coronárias documentada angiograficamente.
+ 5.2 Propriedades farmacocinéticas Linearidade A amlodipina e o valsartan exibem uma farmacocinética linear.
+ 36 Amlodipina Absorção: Após a administração oral de doses terapêuticas de amlodipina isoladamente, as concentracões plasmáticas máximas de amlodipina são alcançadas em 6-12 horas. A biodisponibilidade absoluta varia entre 64% e 80%. A biodisponibilidade da amlodipina não é afectada pela ingestão de alimentos.
+ Distribuição: O volume de distribuição é de aproximadamente 21 l/kg. Estudos in vitro com amlodipina demonstraram que em doentes hipertensos aproximadamente 97,5% do fármaco em circulação está ligado às proteínas plasmáticas.
+ Biotransformação: A amlodipina é amplamente (aproximadamente 90%) metabolizada pelo fígado em metabolitos inactivos.
+ Excreção: A eliminação da amlodipina do plasma é bifásica, com uma semi-vida de eliminação terminal de aproximadamente 30 a 50 horas. Os níveis plasmáticos no estado estacionário são alcançados após a administração contínua durante 7-8 dias. Na urina são excretados dez por cento da amlodipina original e 60% de metabolitos da amlodipina.
+ Valsartan Absorção: Após a administração oral de valsartan isoladamente, as concentracões plasmáticas máximas de valsartan são alcançadas em 2-4 horas. A biodisponibilidade média absoluta é de 23%. O valsartan apresenta uma cinética de degradação multi-exponencial (t½α &lt; 1 h e t½ß aproximadamente igual a 9 h). Os alimentos reduzem a exposição (como determinado pela AUC) ao valsartan em cerca de 40% e as concentracões plasmáticas máximas (Cmáx) em cerca de 50%, embora aproximadamente a partir das 8 horas após a administração, as concentrações plasmáticas de valsartan sejam semelhantes nos grupos pós-prandial e em jejum. Esta redução da AUC não é, contudo, acompanhada por uma redução clinicamente significativa do efeito terapêutico e o valsartan pode, portanto, ser administrado com ou sem alimentos.
+ Distribuição: O volume de distribuição do valsartan no estado estacionário após administração intravenosa é de cerca de 17 litros, o que indica que o valsartan não se distribui extensivamente nos tecidos. O valsartan apresenta uma elevada taxa de ligação às proteínas séricas (94-97%), principalmente à albumina sérica.
+ Biotransformação: O valsartan não é transformado numa elevada extensão já que apenas 20% da dose é recuperada como metabolitos. Foi identificado um hidroximetabolito no plasma em baixas concentrações (menos do que 10% da AUC de valsartan). Este metabolito é farmacologicamente inactivo.
+ Excreção: O valsartan é excretado principalmente nas fezes (cerca de 83% da dose) e na urina (cerca de 13% da dose), principalmente como composto inalterado. Após administração intravenosa, a depuração plasmática do valsartan é cerca de 2 l/h e a sua depuração renal é de 0,62 l/h (cerca de 30% da depuração total). A semi-vida do valsartan é de 6 horas.
+ Amlodipina/Valsartan Após a administração oral de Copalia, as concentrações plasmáticas máximas de valsartan e amlodipina são alcançadas em 3 e 6-8 horas, respectivamente. A taxa e a extensão da absorção de Copalia são equivalentes à biodisponibilidade do valsartan e da amlodipina quando administrados como comprimidos individuais.
+ Populações especiais Doentes pediátricos (idade inferior a 18 anos) Não estão disponíveis dados de farmacocinética na população pediátrica.
+ 37 Idosos (idade 65 anos ou superior) O tempo até às concentracões plasmáticas máximas de amlodipina é semelhante em doentes jovens e idosos. Em doentes idosos, a depuração da amlodipina tem tendência a diminuir, provocando aumentos na área sob a curva (AUC) e semi-vida de eliminação. A AUC sistémica média do valsartan é 70% mais elevada nos idosos do que nos jovens, pelo que é necessária precaução quando se aumenta a dose.
+ Compromisso renal A farmacocinética da amlodipina não é significativamente influenciada pelo compromisso renal. Tal como esperado para um composto em que a depuração renal contribui para apenas 30% da depuração plasmática total, não foi observada qualquer correlação entre a função renal e a exposição sistémica ao valsartan.
+ Compromisso hepático Os doentes com compromisso hepático apresentam uma reduzida depuração da amlodipina, com o consequente aumento de aproximadamente 40-60% na AUC. Em média, em doentes com doença hepática crónica ligeira a moderada, a exposição ao valsartan (determinada pelos valores da AUC) é o dobro da observada em voluntários saudáveis (emparelhados por idade, sexo e peso). Deve ter-se cuidado em doentes com doença hepática (ver secção 4.2).
+ 5.3 Dados de segurança pré-clínica As reacções adversas observadas em estudos em animais com possível relevância clínica foram as seguintes: Foram observados sinais histopatológicos de inflamação da mucosa gástrica em ratos macho com uma exposição de cerca de 1,9 (valsartan) e 2,6 (amlodipina) vezes as doses clínicas de 160 mg de valsartan e 10 mg de amlodipina. Com exposições superiores, verificou-se ulceração e erosão da mucosa do estômago em machos e fêmeas. Alterações semelhantes foram também observadas no grupo de valsartan isolado (exposição 8, 5-11,0 vezes a dose clínica de 160 mg de valsartan).
+ Verificou-se um aumento da incidência e gravidade de basofilia/hialinização, dilatação e cilindros tubulares renais, assim como inflamação intersticial com predomínio de linfócitos e hipertrofia da camada média arteriolar com uma exposição de 8-13 (valsartan) e 7-8 (amlodipina) vezes as doses clínicas de 160 mg de valsartan e 10 mg de amlodipina. Alterações semelhantes foram observadas no grupo de valsartan isolado (exposição 8, 5-11,0 vezes a dose clínica de 160 mg de valsartan).
+ Num estudo de desenvolvimento embrio-fetal efectuado em ratos, foi observada um aumento da incidência de dilatações ureterais, malformações do esterno e vertebras e de falanges das patas dianteiras não ossificadas com exposições de cerca de 12 (valsartan) e 10 (amlodipina) vezes as doses clínicas de 160 mg de valsartan e 10 mg de amlodipina. As dilatações dos ureteres também foram observadas no grupo tratado com valsartan isolado (exposição 12 vezes a dose clínica de 160 mg de valsartan). Neste estudo verificaram-se apenas sinais modestos de toxicidade materna (redução moderada do peso corporal). O nível de efeito não observado para efeitos no desenvolvimento foi observado com 3 (valsartan) e 4 (amlodipina) vezes a exposição clínica (com base na AUC).
+ Para os compostos isolados não se observou evidência de mutagenicidade, clastogenicidade ou carcinogenicidade.
+ 38 6. INFORMAÇÕES FARMACÊUTICAS
+ 6.1 Lista dos excipientes Núcleo do comprimido: Celulose microcristalina Crospovidona Tipo A Sílica coloidal anidra Estearato de magnésio
+ Revestimento: Hipromelose Dióxido de titânio (E171) Óxido de ferro amarelo (E172) Óxido de ferro vermelho (E172) Macrogol 4000 Talco
+ 6.2 Incompatibilidades Não aplicável. 6.3 Prazo de validade 30 meses 6.4 Precauções especiais de conservação
+ Não conservar acima de 30°C. Conservar na embalagem de origem para proteger da humidade.
+ 6.5 Natureza e conteúdo do recipiente Blisters de PVC/PVDC. Um blister contém 7,10 ou 14 comprimidos revestidos por película.
+ Apresentações: 7,14,28,30,56,90,98 ou 280 comprimidos revestidos por película.
+ Blisters destacáveis de PVC/PVDC para dose unitária: Um blister contém 7,10 ou 14 comprimidos revestidos por película.
+ Apresentações. 56,98 ou 280 comprimidos revestidos por película e embalagens múltiplas contendo 280 (4x70) comprimidos revestidos por película.
+ É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ Não existem requisitos especiais. 39 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Novartis Europharm Limited Wimblehurst Road Horsham West Sussex, RH12 5AB Reino Unido
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/06/372/017 EU/1/06/372/018 EU/1/06/372/019 EU/1/06/372/020 EU/1/06/372/021 EU/1/06/372/022 EU/1/06/372/023 EU/1/06/372/024 EU/1/06/372/031 EU/1/06/372/032 EU/1/06/372/033 EU/1/06/372/036
+ 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 16. 01.2007 10. DATA DA REVISÃO DO TEXTO 40 ANEXO II
+ A. TITULAR DE AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 41 A. TITULAR DE AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do fabricante responsável pela libertação do lote
+ Novartis Pharma GmbH Roonstraße 25 D-90429 Nuremberga Alemanha
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento sujeito a receita médica. • CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ Não aplicável. 42 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 43 A. ROTULAGEM
+ 44 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ EMBALAGEM EXTERIOR INDIVIDUAL 1. DENOMINAÇÃO DO MEDICAMENTO Copalia 5 mg/80 mg comprimidos revestidos por película amlodipina/valsartan
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ Cada comprimido contém 5 mg de amlodipina (como besilato de amlodipina) e 80 mg de valsartan.
+ 3. LISTA DOS EXCIPIENTES 4. FORMA FARMACÊUTICA E CONTEÚDO 7 comprimidos revestidos por película 14 comprimidos revestidos por película 28 comprimidos revestidos por película 30 comprimidos revestidos por película 56 comprimidos revestidos por película 90 comprimidos revestidos por película 98 comprimidos revestidos por película 280 comprimidos revestidos por película
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral. Consultar o folheto informativo.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP 45 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Não conservar acima de 30°C. Conservar na embalagem de origem para proteger da humidade.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Novartis Europharm Limited Wimblehurst Road Horsham West Sussex, RH12 5AB Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/06/372/001 EU/1/06/372/002 EU/1/06/372/003 EU/1/06/372/004 EU/1/06/372/005 EU/1/06/372/006 EU/1/06/372/007 EU/1/06/372/008 EU/1/06/372/025 EU/1/06/372/026 EU/1/06/372/027
+ 7 comprimidos revestidos por película 14 comprimidos revestidos por película 28 comprimidos revestidos por película 30 comprimidos revestidos por película 56 comprimidos revestidos por película 90 comprimidos revestidos por película 98 comprimidos revestidos por película 280 comprimidos revestidos por película 56 x 1 comprimidos revestidos por película (dose unitária) 98 x 1 comprimidos revestidos por película (dose unitária) 280 x 1 comprimidos revestidos por película (dose unitária)
+ 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Copalia 5 mg/80 mg 46 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ CARTONAGEM INTERMÉDIA DA EMBALAGEM MÚLTIPLA (SEM BLUE BOX)
+ 1. NOME DO MEDICAMENTO Copalia 5 mg/80 mg comprimidos revestidos por película amlodipina/valsartan
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada comprimido contém 5 mg de amlodipina (como besilato de amlodipina) e 80 mg de valsartan.
+ 3. LISTA DOS EXCIPIENTES 4. FORMA FARMACÊUTICA E CONTEÚDO 70 comprimidos revestidos pr película Componente de uma embalagem múltipla contendo 4 embalagens, cada contendo 70 comprimidos.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral. Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Não conservar acima de 30°C. Conservar na embalagem de origem para proteger da humidade.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 47 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Novartis Europharm Limited Wimblehurst Road Horsham West Sussex, RH12 5AB Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/06/372/034 280 comprimidos revestidos por película (4x70)
+ 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Copalia 5 mg/80 mg 48 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ CARTONAGEM EXTERIOR DA EMBALAGEM MÚLTIPLA (INCLUINDO BLUE BOX)
+ 1. NOME DO MEDICAMENTO Copalia 5 mg/80 mg comprimidos revestidos por película amlodipina/valsartan
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada comprimido contém 5 mg de amlodipina (como besilato de amlodipina) e 80 mg de valsartan.
+ 3. LISTA DOS EXCIPIENTES 4. FORMA FARMACÊUTICA E CONTEÚDO 280 comprimidos revestidos por película Embalagem múltipla contendo 4 embalagens, cada contendo 70 comprimidos.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral. Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Não conservar acima de 30°C. Conservar na embalagem de origem para proteger da humidade.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 49 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Novartis Europharm Limited Wimblehurst Road Horsham West Sussex, RH12 5AB Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/06/372/034 280 comprimidos revestidos por película (4x70)
+ 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Copalia 5 mg/80 mg 50 INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS “ BLISTER ” OU FITAS CONTENTORAS
+ EMBALAGENS “ BLISTER ” 1. DENOMINAÇÃO DO MEDICAMENTO Copalia 5 mg/80 mg comprimidos revestidos por película amlodipina/valsartan
+ 2. NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Novartis Europharm Limited 3. PRAZO DE VALIDADE EXP 4. NÚMERO DO LOTE Lot 5. OUTRAS 51 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ EMBALAGEM EXTERIOR INDIVIDUAL 1. DENOMINAÇÃO DO MEDICAMENTO Copalia 5 mg/160 mg comprimidos revestidos por película amlodipina/valsartan
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ Cada comprimido contém 5 mg de amlodipina (como besilato de amlodipina) e 160 mg de valsartan.
+ 3. LISTA DOS EXCIPIENTES 4. FORMA FARMACÊUTICA E CONTEÚDO 7 comprimidos revestidos por película 14 comprimidos revestidos por película 28 comprimidos revestidos por película 30 comprimidos revestidos por película 56 comprimidos revestidos por película 90 comprimidos revestidos por película 98 comprimidos revestidos por película 280 comprimidos revestidos por película
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral. Consultar o folheto informativo.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP 52 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Não conservar acima de 30°C. Conservar na embalagem de origem para proteger da humidade.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Novartis Europharm Limited Wimblehurst Road Horsham West Sussex, RH12 5AB Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/06/372/009 EU/1/06/372/010 EU/1/06/372/011 EU/1/06/372/012 EU/1/06/372/013 EU/1/06/372/014 EU/1/06/372/015 EU/1/06/372/016 EU/1/06/372/028 EU/1/06/372/029 EU/1/06/372/030
+ 7 comprimidos revestidos por película 14 comprimidos revestidos por película 28 comprimidos revestidos por película 30 comprimidos revestidos por película 56 comprimidos revestidos por película 90 comprimidos revestidos por película 98 comprimidos revestidos por película 280 comprimidos revestidos por película 56 x 1 comprimidos revestidos por película (dose unitária) 98 x 1 comprimidos revestidos por película (dose unitária) 280 x 1 comprimidos revestidos por película (dose unitária)
+ 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Copalia 5 mg/160 mg 53 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ CARTONAGEM INTERMÉDIA DA EMBALAGEM MÚLTIPLA (SEM BLUE BOX)
+ 1. NOME DO MEDICAMENTO Copalia 5 mg/160 mg comprimidos revestidos por película amlodipina/valsartan
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada comprimido contém 5 mg de amlodipina (como besilato de amlodipina) e 160 mg de valsartan.
+ 3. LISTA DOS EXCIPIENTES 4. FORMA FARMACÊUTICA E CONTEÚDO 70 comprimidos revestidos por película Componente de uma embalagem múltipla contendo 4 embalagens, cada contendo 70 comprimidos.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral. Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Não conservar acima de 30°C. Conservar na embalagem de origem para proteger da humidade.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 54 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Novartis Europharm Limited Wimblehurst Road Horsham West Sussex, RH12 5AB Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/06/372/035 280 comprimidos revestidos por película (4x70)
+ 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Copalia 5 mg/160 mg 55 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ CARTONAGEM EXTERIOR DA EMBALAGEM MÚLTIPLA (INCLUINDO BLUE BOX)
+ 1. NOME DO MEDICAMENTO Copalia 5 mg/160 mg comprimidos revestidos por película amlodipina/valsartan
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada comprimido contém 5 mg de amlodipina (como besilato de amlodipina) e 160 mg de valsartan.
+ 3. LISTA DOS EXCIPIENTES 4. FORMA FARMACÊUTICA E CONTEÚDO 280 comprimidos revestidos por película Embalagem múltipla contendo 4 embalagens, cada contendo 70 comprimidos.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral. Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Não conservar acima de 30°C. Conservar na embalagem de origem para proteger da humidade.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 56 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Novartis Europharm Limited Wimblehurst Road Horsham West Sussex, RH12 5AB Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/06/372/035 280 comprimidos revestidos por película (4x70)
+ 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Copalia 5 mg/160 mg 57 INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS “ BLISTER ” OU FITAS CONTENTORAS
+ EMBALAGENS “ BLISTER ” 1. DENOMINAÇÃO DO MEDICAMENTO Copalia 5 mg/160 mg comprimidos revestidos por película amlodipina/valsartan
+ 2. NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Novartis Europharm Limited 3. PRAZO DE VALIDADE EXP 4. NÚMERO DO LOTE Lot 5. OUTRAS 58 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ EMBALAGEM EXTERIOR INDIVIDUAL 1. DENOMINAÇÃO DO MEDICAMENTO Copalia 10 mg/160 mg comprimidos revestidos por película amlodipina/valsartan
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ Cada comprimido contém 10 mg de amlodipina (como besilato de amlodipina) e 160 mg de valsartan.
+ 3. LISTA DOS EXCIPIENTES 4. FORMA FARMACÊUTICA E CONTEÚDO 7 comprimidos revestidos por película 14 comprimidos revestidos por película 28 comprimidos revestidos por película 30 comprimidos revestidos por película 56 comprimidos revestidos por película 90 comprimidos revestidos por película 98 comprimidos revestidos por película 280 comprimidos revestidos por película
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral. Consultar o folheto informativo.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP 59 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Não conservar acima de 30°C. Conservar na embalagem de origem para proteger da humidade.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Novartis Europharm Limited Wimblehurst Road Horsham West Sussex, RH12 5AB Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/06/372/017 EU/1/06/372/018 EU/1/06/372/019 EU/1/06/372/020 EU/1/06/372/021 EU/1/06/372/022 EU/1/06/372/023 EU/1/06/372/024 EU/1/06/372/031 EU/1/06/372/032 EU/1/06/372/033
+ 7 comprimidos revestidos por película 14 comprimidos revestidos por película 28 comprimidos revestidos por película 30 comprimidos revestidos por película 56 comprimidos revestidos por película 90 comprimidos revestidos por película 98 comprimidos revestidos por película 280 comprimidos revestidos por película 56 x 1 comprimidos revestidos por película (dose unitária) 98 x 1 comprimidos revestidos por película (dose unitária) 280 x 1 comprimidos revestidos por película (dose unitária)
+ 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Copalia 10 mg/160 mg 60 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ CARTONAGEM INTERMÉDIA DA EMBALAGEM MÚLTIPLA (SEM BLUE BOX)
+ 1. NOME DO MEDICAMENTO Copalia 10 mg/160 mg comprimidos revestidos por película amlodipina/valsartan
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada comprimido contém 10 mg de amlodipina (como besilato de amlodipina) e 160 mg de valsartan.
+ 3. LISTA DOS EXCIPIENTES 4. FORMA FARMACÊUTICA E CONTEÚDO 70 comprimidos revestidos por película Componente de uma embalagem múltipla contendo 4 embalagens, cada contendo 70 comprimidos.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral. Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Não conservar acima de 30°C. Conservar na embalagem de origem para proteger da humidade.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 61 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Novartis Europharm Limited Wimblehurst Road Horsham West Sussex, RH12 5AB Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/06/372/036 280 comprimidos revestidos por película (4x70)
+ 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Copalia 10 mg/160 mg 62 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ CARTONAGEM EXTERIOR DA EMBALAGEM MÚLTIPLA (INCLUINDO BLUE BOX)
+ 1. NOME DO MEDICAMENTO Copalia 10 mg/160 mg comprimidos revestidos por película amlodipina/valsartan
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada comprimido contém 10 mg de amlodipina (como besilato de amlodipina) e 160 mg de valsartan.
+ 3. LISTA DOS EXCIPIENTES 4. FORMA FARMACÊUTICA E CONTEÚDO 280 comprimidos revestidos por película Embalagem múltipla contendo 4 embalagens, cada contendo 70 comprimidos.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral. Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Não conservar acima de 30°C. Conservar na embalagem de origem para proteger da humidade.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 63 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Novartis Europharm Limited Wimblehurst Road Horsham West Sussex, RH12 5AB Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/06/372/036 280 comprimidos revestidos por película (4x70)
+ 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Copalia 10 mg/160 mg 64 INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS “ BLISTER ” OU FITAS CONTENTORAS
+ EMBALAGENS “ BLISTER ” 1. DENOMINAÇÃO DO MEDICAMENTO Copalia 10 mg/160 mg comprimidos revestidos por película amlodipina/valsartan
+ 2. NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Novartis Europharm Limited 3. PRAZO DE VALIDADE EXP 4. NÚMERO DO LOTE Lot 5. OUTRAS 65 B. FOLHETO INFORMATIVO
+ 66 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Copalia 5 mg/80 mg comprimidos revestidos por película amlodipina/valsartan
+ Leia atentamente este folheto antes de tomar o medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é Copalia e para que é utilizado 2. Antes de tomar Copalia 3. Como tomar Copalia 4. Efeitos secundários possíveis 5. Como conservar Copalia 6. Outras informações
+ 1. O QUE É COPALIA E PARA QUE É UTILIZADO
+ Os comprimidos de Copalia contêm duas substâncias chamadas amlodipina e valsartan. Ambas as substâncias ajudam a controlar a pressão arterial elevada. − A amlodipina pertence a um grupo de substâncias chamadas “ bloqueadores dos canais de cálcio ”. A amlodipina impede o cálcio de se deslocar através das paredes dos vasos sanguíneos, o que impede que os vasos sanguíneos se estreitem. − O valsartan pertence a um grupo de substâncias chamadas “ antagonistas dos receptores da angiotensina-II ”. A angiotensina II é produzida pelo organismo e provoca o estreitamento dos vasos sanguíneos, aumentando assim a pressão arterial. O valsartan funciona bloqueando o efeito da angiotensina II. Isto significa que ambas as substâncias contribuem para impedir que os vasos sanguíneos se estreitem. Consequentemente, os vasos sanguíneos relaxam e a pressão arterial sofre uma redução.
+ O Copalia é utilizado no tratamento da pressão arterial elevada em doentes cuja pressão arterial não esteja suficientemente controlada com amlodipina ou valsartan isoladamente.
+ 2. ANTES DE TOMAR COPALIA Não tome Copalia -se tem alergia (hipersensibilidade) à amlodipina ou outros medicamentos do tipo da di-
+ hidropiridina.
+ -se tem alergia (hipersensibilidade) ao valsartan ou qualquer um dos outros componentes de
+ Copalia. Se pensa que pode ser alérgico, fale com o seu médico antes de tomar Copalia.
+ -se tem problemas graves no fígado, tais como cirrose biliar ou colestase.
+ -se tem problemas graves nos rins, ou se está a fazer diálise.
+ -durante os últimos 6 meses de gravidez, ver “ Gravidez e aleitamento ”.
+ Se alguma das situações acima descritas se aplicar a si, não tome Copalia e consulte o seu médico.
+ 67 Tome especial cuidado com Copalia
+ -se esteve doente (vómitos ou diarreia).
+ se está a tomar diuréticos (um tipo de medicamentos que aumenta a quantidade de urina
+ -
+ produzida).
+ -se está a tomar outros medicamentos ou substâncias que aumentem o seu nível sanguíneo de
+ potássio (ex. alguns tipos de diuréticos, suplementos de potássio ou substitutos do sal que contenham potássio).
+ -se tem problemas no fígado ou nos rins.
+ -se tem um problema que afecta as suas glândulas supra-renais, denominada
+ “ hiperaldosteronismo primário ”.
+ -se teve insuficiência cardíaca.
+ -se o seu médico lhe disse que tem um estreitamento das válvulas cardíacas (situação
+ denominada “ estenose aórtica ou mitral ”) ou que a espessura do seu músculo cardíaco está aumentada de forma invulgar (situação denominada “ cardiomiopatia hipertrófica obstrutiva ”). Se alguma destas situações se aplicar a si, informe o seu médico antes de tomar Copalia.
+ Deve informar o seu médico se pensa que pode estar (ou que pode vir a estar) grávida. Copalia não é recomendado no início da gravidez e pode causar problemas graves ao seu bebé se tomado após o terceiro mês de gravidez (ver secção “ Gravidez e aleitamento ”).
+ Não é recomendado o uso de Copalia em crianças e adolescentes.
+ Informe também o seu médico se teve um transplante renal ou se lhe foi dito que tem um estreitamento das artérias renais.
+ Tomar Copalia com outros medicamentos Informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica. O seu médico pode necessitar de alterar a dose ou tomar outras precauções. Em alguns casos, pode ter de interromper o tratamento com um dos medicamentos. Isto aplica-se em especial ao medicamentos abaixo descritos: − lítio (um medicamento utilizado no tratamento de alguns tipos de depressão); − diuréticos poupadores do potássio, suplementos de potássio, substitutos do sal contendo potássio e outras substâncias que possam aumentar os níveis de potássio; − agentes anticonvulsivantes (ex. carbamazepina, fenobarbital, fenitoína, fosfenitoína, primidona), rifampicina, hipericão; − nitroglicerina e outros nitratos, ou outras substâncias chamadas “ vasodilatores ”; − medicamentos usados para o VIH/SIDA (ex: ritonavir) ou para o tratamento de infecções fúngicas (ex.: cetoconazol).
+ Tomar Copalia com alimentos e bebidas Pode tomar Copalia com ou sem alimentos.
+ Copalia e pessoas idosas É necessária precaução quando se aumenta a dose.
+ Gravidez e aleitamento Informe o seu médico se pensa que está (ou pode vir a estar) grávida. Geralmente, o seu médico irá aconselhá-la a tomar outro medicamento em substituição de Copalia, uma vez que Copalia não é recomendado no início da gravidez e pode causar problemas graves ao seu bebé se tomado após 3 meses de de gravidez. Um medicamento antihipertensivo apropriado deve geralmente substituir Copalia antes do início da gravidez. O medicamento não deve ser utilizado durante o segundo e terceiro trimestres de gravidez.
+ O seu médico irá aconselhá-la a interromper o tratamento com Copalia assim que saiba que está grávida.
+ 68 Se ficar grávida durante a terapêutica com Copalia, por favor, informe e consulte o seu médico imediatamente.
+ Informe o seu médico de que está a amamentar. O tratamento com Copalia não é recomendado durante a amamentação.
+ Consulte o seu médico ou farmacêutico antes de tomar qualquer medicamento.
+ Condução de veículos e utilização de máquinas Este medicamento pode provocar-lhe tonturas. Isto pode afectar a sua capacidade de concentração. Assim, se desconhece o modo como este medicamento o afecta, não conduza, utilize maquinaria ou efectue outras actividades que requeiram concentração.
+ 3. COMO TOMAR COPALIA Tome este medicamento sempre de acordo com as indicações do médico. Fale com o seu médico se tiver dúvidas. Isto contribuirá para obter os melhores resultados e diminuir o risco de efeitos secundários.
+ A dose habitual de Copalia é de um comprimido por dia. − É aconselhável tomar o seu medicamento à mesma hora todos os dias, de preferência de manhã. − Engula os comprimidos com um copo de água. − Pode tomar Copalia com ou sem alimentos.
+ Dependendo da sua resposta ao tratamento, o seu médico poderá receitar uma dose mais elevada ou mais baixa.
+ Não exceda a dose prescrita. Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou farmacêutico.
+ Se tomar mais Copalia do que deveria Se tomou demasiados comprimidos de Copalia, ou se alguém tomou os seus comprimidos, consulte imediatamente um médico.
+ Caso se tenha esquecido de tomar Copalia Se se esqueceu de tomar este medicamento, tome-o assim que se lembrar. Depois tome a dose seguinte à hora habitual. No entanto, se for quase a hora da próxima dose, omita a dose de que se esqueceu. Não tome uma dose a dobrar para compensar um comprimido que se esqueceu de tomar.
+ 4. EFEITOS SECUNDÁRIOS POSSIVEIS Como os demais medicamentos, Copalia pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ Alguns efeitos secundários podem ser graves: Alguns doentes sentiram efeitos secundários graves (afectando menos do que 1 em 1.000 doentes). Informe o seu médico imediatamente se ocorrer algum dos seguintes efeitos secundários: Reacção alérgica com sintomas como erupções cutâneas, comichão (prurido), inchaço da face, lábios ou língua, dificuldade em respirar, diminuição da pressão arterial (sensação de desmaio, cabeça oca).
+ 69 Outros efeitos secundários possíveis: Frequentes (afectando menos do que 1 em 10 doentes): Síndrome gripal; nariz entupido (congestão nasal), inflamação da garganta e desconforto ao engulir; dor de cabeça; inchaço dos braços, mãos, pernas, tornozelos ou pés; cansaço; vermilhidão e sensação de calor na face e/ou pescoço. Pouco frequentes (afectando menos do que 1 em 100 doentes): Tonturas; náuseas e dor abdominal; boca seca; sonolência, formigueiro ou dormência das mãos ou pés; vertigens; aumento do batimento do coração incluindo palpitações; tonturas na posição vertical; tosse; diarreia; prisão de ventre (obstipação); erupções cutâneas, vermelhidão da pele; inchaço das articulações, dor nas costas; dor nas articulações. Raros (afectando menos do que 1 em 1.000 doentes): Sensação de ansiedade; ruídos nos ouvidos (acufenos); desmaio; aumento da frequência urinária ou sensação de urgência para urinar; incapacidade de atingir ou manter uma erecção; sensação de peso; diminuição da pressão arterial com sintomas como tonturas, cabeça oca; sudação excessiva; erupção cutânea em todo o corpo; comichão (prurido); espasmos musculares. Se algum destes efeitos secundários o afectar de forma grave informe o seu médico.
+ Efeitos secundários com amlodipina ou valsartan isolados que podem ser graves: Estes efeitos secundários podem ocorrer com determinadas frequências que são definidas a seguir: muito frequentes: afectam mais de 1 utilizador em cada 10 frequentes: afectam 1 a 10 utilizadores em cada 100 pouco frequentes: afectam 1 a 10 utilizadores em cada 1.000 raros: afectam 1 a 10 utilizadores em cada 10.000 muito raros: afectam menos de 1 utilizador em cada 10.000 desconhecido: a frequência não pode ser calculada a partir dos dados disponíveis
+ Amlodipina Frequentes: vómitos Pouco frequentes: queda de cabelo, alterações do trânsito intestinal, sensação de inchaço, indigestão, mal-estar de estômago após a refeição, dor de estômago, náuseas, gengivas sensíveis, inchadas ou a sangrar, falta de ar, aumento do peito do homem, nariz entupido ou a pingar, espirros, amarelecimento da pele e dos olhos, náuseas, perda de apetite, urina de cor clara, nível elevado de açúcar no sangue, incapacidade de atingir ou manter a erecção; aumento da frequência urinária, febre, inflamação da garganta ou úlceras na boca devidas a infecções, alterações de humor, dor muscular, sensação de formigueiro ou dormência dos dedos das mãos ou dos pés; dores fortes de estômago, hemorragias ou formação de nódoas negras espontâneas, erupção cutânea, manchas vermelho-arroxeadas na pele, febre, comichão, inchaço sobretudo da face e garganta, vermelhidão da pele, vesículas nos lábios, olhos ou boca, descamação da pele. Raros: dor intensa no peito, batimento cardíaco irregular, dor anginosa. Muito raros: amarelecimento da pele e dos olhos, alterações dos resultados de algumas análises da função hepática, manchas roxas na pele, erupção cutânea e comichão, rigidez dos membros, mãos trémulas.
+ Valsartan Desconhecidos: Redução do número de glóbulos vermelhos, febre, inflamação da garganta ou da boca devidas a infecções, hemorragias ou formação de nódoas negras espontâneas, níveis elevados de potássio no sangue, alterações nos resultados de análises ao fígado, diminuição das funções renais, e diminuição grave das funções renais, inchaço sobretudo da face e da garganta, dores musculares, erupção cutânea, manchas vermelho-arroxeadas na pele, febre, comichão, reacção alérgica.
+ Se experimentar algum destes efeitos secundários informe imediatamente o seu médico.
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 70 5. COMO CONSERVAR COPALIA
+ Manter fora do alcance e da vista das crianças. Não utilize Copalia após o prazo de validade impresso na embalagem exterior e blister. Não conservar acima de 30°C. Conservar na embalagem de origem para proteger da humidade. Não utilize Copalia se verificar que a embalagem está danificada ou apresenta sinais de adulteração.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Copalia -As substâncias activas são a amlodipina (como besilato de amlodipina) e o valsartan. Cada
+ comprimido contém 5 mg de amlodipina e 80 mg de valsartan.
+ -Os outros componentes são celulose microcristalina; crospovidona tipo A; sílica coloidal anidra;
+ estearato de magnésio; hipromelose; macrogol 4000; talco; dióxido de titânio (E171); óxido de ferro amarelo (E172).
+ Qual o aspecto de Copalia e conteúdo da embalagem Os comprimidos de Copalia 5 mg/80 mg são redondos e amarelos escuros, com “ NVR ” numa face e “ NV ” na outra face.
+ Copalia está disponível em embalagens de 7,14,28,30,56,90,98 ou 280 comprimidos e em embalagens múltiplas contendo 4 embalagens, cada contendo 70 comprimidos. É possível que não sejam comercializadas todas as apresentações.
+ Titular da Autorização de Introdução no Mercado e Novartis Europharm Limited Wimblehurst Road Horsham West Sussex, RH12 5AB Reino Unido
+ Fabricante Novartis Pharma GmbH Roonstraße 25 D-90429 Nuremberga Alemanha
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado:
+ Luxembourg/Luxemburg België/Belgique/Belgien Novartis Pharma GmbH Novartis Pharma N. V. Tél/Tel: +49 911 273 0 Tél/Tel: +32 2 246 16 11
+ България Novartis Pharma Services Inc. Тел.: +359 2 976 98 28
+ Magyarország Novartis Hungária Kft. Pharma Tel.: +36 1 457 65 00
+ Česká republika Novartis s. r. o. Tel: +420 225 775 111
+ Malta Novartis Pharma Services Inc. Tel: +356 2298 3217
+ 71 Danmark Novartis Healthcare A/S Tlf: +45 39 16 84 00
+ Nederland Novartis Pharma B. V. Tel: +31 26 37 82 111
+ Deutschland Novartis Pharma GmbH Tel: +49 911 273 0
+ Norge Novartis Norge AS Tlf: +47 23 05 20 00
+ Eesti Österreich Novartis Pharma Services Inc. Tel: +372 60 62 400
+ Novartis Pharma GmbH Tel: +43 1 86 6570 Ελλάδα Novartis (Hellas) A. E. B. E. Τηλ: +30 210 281 17 12
+ Polska Novartis Poland Sp. z o. o. Tel.: +48 22 550 8888
+ España Novartis Farmacéutica, S. A. Tel: +34 93 306 42 00
+ Portugal Bialport-Produtos Farmacêuticos, S. A. Tel: +351 22 986 61 00
+ France Novartis Pharma S. A. S. Tél: +33 1 55 47 66 00
+ România Novartis Pharma Services Inc. Tel: +40 21 31299 01
+ Ireland Novartis Ireland Limited Tel: +353 1 260 12 55
+ Slovenija Novartis Pharma Services Inc. Tel: +386 1 300 75 77
+ Ísland Vistor hf. Sími: +354 535 7000
+ Slovenská republika Novartis Slovakia s. r. o. Tel: +421 2 5542 5439
+ Italia Novartis Farma S. p. A. Tel: +39 02 96 54 1
+ Suomi/Finland Novartis Finland Oy Puh/Tel: +358 9 61 33 22 11
+ Κύπρος Δημητριάδης και Παπαέλληνας Λτδ Τηλ: +357 22 690 690
+ Sverige Novartis Sverige AB Tel: +46 8 732 32 00
+ Latvija Novartis Pharma Services Inc. Tel: +371 7 887 070
+ United Kingdom Novartis Pharmaceuticals UK Ltd. Tel: +44 1276 698370
+ Lietuva Novartis Pharma Services Inc. Tel. +370 5 269 16 50
+ Este folheto foi aprovado pela última vez em{ MM/AAAA}
+ 72 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Copalia 5 mg/160 mg comprimidos revestidos por película amlodipina/valsartan
+ Leia atentamente este folheto antes de tomar o medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é Copalia e para que é utilizado 2. Antes de tomar Copalia 3. Como tomar Copalia 4. Efeitos secundários possíveis 5. Como conservar Copalia 6. Outras informações
+ 1. O QUE É COPALIA E PARA QUE É UTILIZADO
+ Os comprimidos de Copalia contêm duas substâncias chamadas amlodipina e valsartan. Ambas as substâncias ajudam a controlar a pressão arterial elevada. − A amlodipina pertence a um grupo de substâncias chamadas “ bloqueadores dos canais de cálcio ”. A amlodipina impede o cálcio de se deslocar através das paredes dos vasos sanguíneos, o que impede que os vasos sanguíneos se estreitem. − O valsartan pertence a um grupo de substâncias chamadas “ antagonistas dos receptores da angiotensina-II ”. A angiotensina II é produzida pelo organismo e provoca o estreitamento dos vasos sanguíneos, aumentando assim a pressão arterial. O valsartan funciona bloqueando o efeito da angiotensina II. Isto significa que ambas as substâncias contribuem para impedir que os vasos sanguíneos se estreitem. Consequentemente, os vasos sanguíneos relaxam e a pressão arterial sofre uma redução.
+ O Copalia é utilizado no tratamento da pressão arterial elevada em doentes cuja pressão arterial não esteja suficientemente controlada com amlodipina ou valsartan isoladamente.
+ 2. ANTES DE TOMAR COPALIA Não tome Copalia -se tem alergia (hipersensibilidade) à amlodipina ou outros medicamentos do tipo da di-
+ hidropiridina.
+ -se tem alergia (hipersensibilidade) ao valsartan ou qualquer um dos outros componentes de
+ Copalia. Se pensa que pode ser alérgico, fale com o seu médico antes de tomar Copalia.
+ -se tem problemas graves no fígado, tais como cirrose biliar ou colestase.
+ -se tem problemas graves nos rins, ou se está a fazer diálise.
+ -durante os últimos 6 meses de gravidez, ver “ Gravidez e aleitamento ”.
+ Se alguma das situações acima descritas se aplicar a si, não tome Copalia e consulte o seu médico.
+ 73 Tome especial cuidado com Copalia
+ -se esteve doente (vómitos ou diarreia).
+ se está a tomar diuréticos (um tipo de medicamentos que aumenta a quantidade de urina
+ -
+ produzida).
+ -se está a tomar outros medicamentos ou substâncias que aumentem o seu nível sanguíneo de
+ potássio (ex. alguns tipos de diuréticos, suplementos de potássio ou substitutos do sal que contenham potássio).
+ -se tem problemas no fígado ou nos rins.
+ -se tem um problema que afecta as suas glândulas supra-renais, denominada
+ “ hiperaldosteronismo primário ”.
+ -se teve insuficiência cardíaca.
+ -se o seu médico lhe disse que tem um estreitamento das válvulas cardíacas (situação
+ denominada “ estenose aórtica ou mitral ”) ou que a espessura do seu músculo cardíaco está aumentada de forma invulgar (situação denominada “ cardiomiopatia hipertrófica obstrutiva ”). Se alguma destas situações se aplicar a si, informe o seu médico antes de tomar Copalia.
+ Deve informar o seu médico se pensa que pode estar (ou que pode vir a estar) grávida. Copalia não é recomendado no início da gravidez e pode causar problemas graves ao seu bebé se tomado após o terceiro mês de gravidez (ver secção “ Gravidez e aleitamento ”).
+ Não é recomendado o uso de Copalia em crianças e adolescentes.
+ Informe também o seu médico se teve um transplante renal ou se lhe foi dito que tem um estreitamento das artérias renais.
+ Tomar Copalia com outros medicamentos Informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica. O seu médico pode necessitar de alterar a dose ou tomar outras precauções. Em alguns casos, pode ter de interromper o tratamento com um dos medicamentos. Isto aplica-se em especial ao medicamentos abaixo descritos: − lítio (um medicamento utilizado no tratamento de alguns tipos de depressão); − diuréticos poupadores do potássio, suplementos de potássio, substitutos do sal contendo potássio e outras substâncias que possam aumentar os níveis de potássio; − agentes anticonvulsivantes (ex. carbamazepina, fenobarbital, fenitoína, fosfenitoína, primidona), rifampicina, hipericão; − nitroglicerina e outros nitratos, ou outras substâncias chamadas “ vasodilatores ”; − medicamentos usados para o VIH/SIDA (ex: ritonavir) ou para o tratamento de infecções fúngicas (ex.: cetoconazol).
+ Tomar Copalia com alimentos e bebidas Pode tomar Copalia com ou sem alimentos.
+ Copalia e pessoas idosas É necessária precaução quando se aumenta a dose.
+ Gravidez e aleitamento Informe o seu médico se pensa que está (ou pode vir a estar) grávida. Geralmente, o seu médico irá aconselhá-la a tomar outro medicamento em substituição de Copalia, uma vez que Copalia não é recomendado no início da gravidez e pode causar problemas graves ao seu bebé se tomado após 3 meses de de gravidez. Um medicamento antihipertensivo apropriado deve geralmente substituir Copalia antes do início da gravidez. O medicamento não deve ser utilizado durante o segundo e terceiro trimestres de gravidez.
+ O seu médico irá aconselhá-la a interromper o tratamento com Copalia assim que saiba que está grávida.
+ 74 Se ficar grávida durante a terapêutica com Copalia, por favor, informe e consulte o seu médico imediatamente.
+ Informe o seu médico de que está a amamentar. O tratamento com Copalia não é recomendado durante a amamentação.
+ Consulte o seu médico ou farmacêutico antes de tomar qualquer medicamento.
+ Condução de veículos e utilização de máquinas Este medicamento pode provocar-lhe tonturas. Isto pode afectar a sua capacidade de concentração. Assim, se desconhece o modo como este medicamento o afecta, não conduza, utilize maquinaria ou efectue outras actividades que requeiram concentração.
+ 3. COMO TOMAR COPALIA Tome este medicamento sempre de acordo com as indicações do médico. Fale com o seu médico se tiver dúvidas. Isto contribuirá para obter os melhores resultados e diminuir o risco de efeitos secundários.
+ A dose habitual de Copalia é de um comprimido por dia. − É aconselhável tomar o seu medicamento à mesma hora todos os dias, de preferência de manhã. − Engula os comprimidos com um copo de água. − Pode tomar Copalia com ou sem alimentos.
+ Dependendo da sua resposta ao tratamento, o seu médico poderá receitar uma dose mais elevada ou mais baixa.
+ Não exceda a dose prescrita. Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou farmacêutico.
+ Se tomar mais Copalia do que deveria Se tomou demasiados comprimidos de Copalia, ou se alguém tomou os seus comprimidos, consulte imediatamente um médico.
+ Caso se tenha esquecido de tomar Copalia Se se esqueceu de tomar este medicamento, tome-o assim que se lembrar. Depois tome a dose seguinte à hora habitual. No entanto, se for quase a hora da próxima dose, omita a dose de que se esqueceu. Não tome uma dose a dobrar para compensar um comprimido que se esqueceu de tomar.
+ 4. EFEITOS SECUNDÁRIOS POSSIVEIS Como os demais medicamentos, Copalia pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ Alguns efeitos secundários podem ser graves: Alguns doentes sentiram efeitos secundários graves (afectando menos do que 1 em 1.000 doentes). Informe o seu médico imediatamente se ocorrer algum dos seguintes efeitos secundários: Reacção alérgica com sintomas como erupções cutâneas, comichão (prurido), inchaço da face, lábios ou língua, dificuldade em respirar, diminuição da pressão arterial (sensação de desmaio, cabeça oca).
+ 75 Outros efeitos secundários possíveis: Frequentes (afectando menos do que 1 em 10 doentes): Síndrome gripal; nariz entupido (congestão nasal), inflamação da garganta e desconforto ao engulir; dor de cabeça; inchaço dos braços, mãos, pernas, tornozelos ou pés; cansaço; vermilhidão e sensação de calor na face e/ou pescoço. Pouco frequentes (afectando menos do que 1 em 100 doentes): Tonturas; náuseas e dor abdominal; boca seca; sonolência, formigueiro ou dormência das mãos ou pés; vertigens; aumento do batimento do coração incluindo palpitações; tonturas na posição vertical; tosse; diarreia; prisão de ventre (obstipação); erupções cutâneas, vermelhidão da pele; inchaço das articulações, dor nas costas; dor nas articulações. Raros (afectando menos do que 1 em 1.000 doentes): Sensação de ansiedade; ruídos nos ouvidos (acufenos); desmaio; aumento da frequência urinária ou sensação de urgência para urinar; incapacidade de atingir ou manter uma erecção; sensação de peso; diminuição da pressão arterial com sintomas como tonturas, cabeça oca; sudação excessiva; erupção cutânea em todo o corpo; comichão (prurido); espasmos musculares. Se algum destes efeitos secundários o afectar de forma grave informe o seu médico.
+ Efeitos secundários com amlodipina ou valsartan isolados que podem ser graves: Estes efeitos secundários podem ocorrer com determinadas frequências que são definidas a seguir: muito frequentes: afectam mais de 1 utilizador em cada 10 frequentes: afectam 1 a 10 utilizadores em cada 100 pouco frequentes: afectam 1 a 10 utilizadores em cada 1.000 raros: afectam 1 a 10 utilizadores em cada 10.000 muito raros: afectam menos de 1 utilizador em cada 10.000 desconhecido: a frequência não pode ser calculada a partir dos dados disponíveis
+ Amlodipina Frequentes: vómitos Pouco frequentes: queda de cabelo, alterações do trânsito intestinal, sensação de inchaço, indigestão, mal-estar de estômago após a refeição, dor de estômago, náuseas, gengivas sensíveis, inchadas ou a sangrar, falta de ar, aumento do peito do homem, nariz entupido ou a pingar, espirros, amarelecimento da pele e dos olhos, náuseas, perda de apetite, urina de cor clara, nível elevado de açúcar no sangue, incapacidade de atingir ou manter a erecção; aumento da frequência urinária, febre, inflamação da garganta ou úlceras na boca devidas a infecções, alterações de humor, dor muscular, sensação de formigueiro ou dormência dos dedos das mãos ou dos pés; dores fortes de estômago, hemorragias ou formação de nódoas negras espontâneas, erupção cutânea, manchas vermelho-arroxeadas na pele, febre, comichão, inchaço sobretudo da face e garganta, vermelhidão da pele, vesículas nos lábios, olhos ou boca, descamação da pele. Raros: dor intensa no peito, batimento cardíaco irregular, dor anginosa. Muito raros: amarelecimento da pele e dos olhos, alterações dos resultados de algumas análises da função hepática, manchas roxas na pele, erupção cutânea e comichão, rigidez dos membros, mãos trémulas.
+ Valsartan Desconhecidos: Redução do número de glóbulos vermelhos, febre, inflamação da garganta ou da boca devidas a infecções, hemorragias ou formação de nódoas negras espontâneas, níveis elevados de potássio no sangue, alterações nos resultados de análises ao fígado, diminuição das funções renais, e diminuição grave das funções renais, inchaço sobretudo da face e da garganta, dores musculares, erupção cutânea, manchas vermelho-arroxeadas na pele, febre, comichão, reacção alérgica.
+ Se experimentar algum destes efeitos secundários informe imediatamente o seu médico.
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 76 5. COMO CONSERVAR COPALIA
+ Manter fora do alcance e da vista das crianças. Não utilize Copalia após o prazo de validade impresso na embalagem exterior e blister. Não conservar acima de 30°C. Conservar na embalagem de origem para proteger da humidade. Não utilize Copalia se verificar que a embalagem está danificada ou apresenta sinais de adulteração.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Copalia -As substâncias activas são a amlodipina (como besilato de amlodipina) e o valsartan. Cada
+ comprimido contém 5 mg de amlodipina e 160 mg de valsartan.
+ -Os outros componentes são celulose microcristalina; crospovidona tipo A; sílica coloidal anidra;
+ estearato de magnésio; hipromelose; macrogol 4000; talco; dióxido de titânio (E171); óxido de ferro amarelo (E172).
+ Qual o aspecto de Copalia e conteúdo da embalagem Os comprimidos de Copalia 5 mg/160 mg são ovais e amarelos escuros, com “ NVR ” numa face e “ ECE ” na outra face.
+ Copalia está disponível em embalagens de 7,14,28,30,56,90,98 ou 280 comprimidos e em embalagens múltiplas contendo 4 embalagens, cada contendo 70 comprimidos. É possível que não sejam comercializadas todas as apresentações.
+ Titular da Autorização de Introdução no Mercado e Novartis Europharm Limited Wimblehurst Road Horsham West Sussex, RH12 5AB Reino Unido
+ Fabricante Novartis Pharma GmbH Roonstraße 25 D-90429 Nuremberga Alemanha
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado:
+ Luxembourg/Luxemburg België/Belgique/Belgien Novartis Pharma GmbH Novartis Pharma N. V. Tél/Tel: +49 911 273 0 Tél/Tel: +32 2 246 16 11
+ България Novartis Pharma Services Inc. Тел.: +359 2 976 98 28
+ Magyarország Novartis Hungária Kft. Pharma Tel.: +36 1 457 65 00
+ Česká republika Novartis s. r. o. Tel: +420 225 775 111
+ Malta Novartis Pharma Services Inc. Tel: +356 2298 3217
+ 77 Danmark Novartis Healthcare A/S Tlf: +45 39 16 84 00
+ Nederland Novartis Pharma B. V. Tel: +31 26 37 82 111
+ Deutschland Novartis Pharma GmbH Tel: +49 911 273 0
+ Norge Novartis Norge AS Tlf: +47 23 05 20 00
+ Eesti Österreich Novartis Pharma Services Inc. Tel: +372 60 62 400
+ Novartis Pharma GmbH Tel: +43 1 86 6570 Ελλάδα Novartis (Hellas) A. E. B. E. Τηλ: +30 210 281 17 12
+ Polska Novartis Poland Sp. z o. o. Tel.: +48 22 550 8888
+ España Novartis Farmacéutica, S. A. Tel: +34 93 306 42 00
+ Portugal Bialport-Produtos Farmacêuticos, S. A. Tel: +351 22 986 61 00
+ France Novartis Pharma S. A. S. Tél: +33 1 55 47 66 00
+ România Novartis Pharma Services Inc. Tel: +40 21 31299 01
+ Ireland Novartis Ireland Limited Tel: +353 1 260 12 55
+ Slovenija Novartis Pharma Services Inc. Tel: +386 1 300 75 77
+ Ísland Vistor hf. Sími: +354 535 7000
+ Slovenská republika Novartis s. r. o. Tel: +421 2 5542 5439
+ Italia Novartis Farma S. p. A. Tel: +39 02 96 54 1
+ Suomi/Finland Novartis Finland Oy Puh/Tel: +358 9 61 33 22 11
+ Κύπρος Δημητριάδης και Παπαέλληνας Λτδ Τηλ: +357 22 690 690
+ Sverige Novartis Sverige AB Tel: +46 8 732 32 00
+ Latvija Novartis Pharma Services Inc. Tel: +371 7 887 070
+ United Kingdom Novartis Pharmaceuticals UK Ltd. Tel: +44 1276 698370
+ Lietuva Novartis Pharma Services Inc. Tel. +370 5 269 16 50
+ Este folheto foi aprovado pela última vez em{ MM/AAAA}
+ 78 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Copalia 10 mg/160 mg comprimidos revestidos por película amlodipina/valsartan
+ Leia atentamente este folheto antes de tomar o medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é Copalia e para que é utilizado 2. Antes de tomar Copalia 3. Como tomar Copalia 4. Efeitos secundários possíveis 5. Como conservar Copalia 6. Outras informações
+ 1. O QUE É COPALIA E PARA QUE É UTILIZADO
+ Os comprimidos de Copalia contêm duas substâncias chamadas amlodipina e valsartan. Ambas as substâncias ajudam a controlar a pressão arterial elevada. − A amlodipina pertence a um grupo de substâncias chamadas “ bloqueadores dos canais de cálcio ”. A amlodipina impede o cálcio de se deslocar através das paredes dos vasos sanguíneos, o que impede que os vasos sanguíneos se estreitem. − O valsartan pertence a um grupo de substâncias chamadas “ antagonistas dos receptores da angiotensina-II ”. A angiotensina II é produzida pelo organismo e provoca o estreitamento dos vasos sanguíneos, aumentando assim a pressão arterial. O valsartan funciona bloqueando o efeito da angiotensina II. Isto significa que ambas as substâncias contribuem para impedir que os vasos sanguíneos se estreitem. Consequentemente, os vasos sanguíneos relaxam e a pressão arterial sofre uma redução.
+ O Copalia é utilizado no tratamento da pressão arterial elevada em doentes cuja pressão arterial não esteja suficientemente controlada com amlodipina ou valsartan isoladamente.
+ 2. ANTES DE TOMAR COPALIA Não tome Copalia -se tem alergia (hipersensibilidade) à amlodipina ou outros medicamentos do tipo da di-
+ hidropiridina.
+ -se tem alergia (hipersensibilidade) ao valsartan ou qualquer um dos outros componentes de
+ Copalia. Se pensa que pode ser alérgico, fale com o seu médico antes de tomar Copalia.
+ -se tem problemas graves no fígado, tais como cirrose biliar ou colestase.
+ -se tem problemas graves nos rins, ou se está a fazer diálise.
+ -durante os últimos 6 meses de gravidez, ver “ Gravidez e aleitamento ”.
+ Se alguma das situações acima descritas se aplicar a si, não tome Copalia e consulte o seu médico.
+ 79 Tome especial cuidado com Copalia
+ -se esteve doente (vómitos ou diarreia).
+ se está a tomar diuréticos (um tipo de medicamentos que aumenta a quantidade de urina
+ -
+ produzida).
+ -se está a tomar outros medicamentos ou substâncias que aumentem o seu nível sanguíneo de
+ potássio (ex. alguns tipos de diuréticos, suplementos de potássio ou substitutos do sal que contenham potássio).
+ -se tem problemas no fígado ou nos rins.
+ -se tem um problema que afecta as suas glândulas supra-renais, denominada
+ “ hiperaldosteronismo primário ”.
+ -se teve insuficiência cardíaca.
+ -se o seu médico lhe disse que tem um estreitamento das válvulas cardíacas (situação
+ denominada “ estenose aórtica ou mitral ”) ou que a espessura do seu músculo cardíaco está aumentada de forma invulgar (situação denominada “ cardiomiopatia hipertrófica obstrutiva ”). Se alguma destas situações se aplicar a si, informe o seu médico antes de tomar Copalia.
+ Deve informar o seu médico se pensa que pode estar (ou que pode vir a estar) grávida. Copalia não é recomendado no início da gravidez e pode causar problemas graves ao seu bebé se tomado após o terceiro mês de gravidez (ver secção “ Gravidez e aleitamento ”).
+ Não é recomendado o uso de Copalia em crianças e adolescentes.
+ Informe também o seu médico se teve um transplante renal ou se lhe foi dito que tem um estreitamento das artérias renais.
+ Tomar Copalia com outros medicamentos Informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica. O seu médico pode necessitar de alterar a dose ou tomar outras precauções. Em alguns casos, pode ter de interromper o tratamento com um dos medicamentos. Isto aplica-se em especial ao medicamentos abaixo descritos: − lítio (um medicamento utilizado no tratamento de alguns tipos de depressão); − diuréticos poupadores do potássio, suplementos de potássio, substitutos do sal contendo potássio e outras substâncias que possam aumentar os níveis de potássio; − agentes anticonvulsivantes (ex. carbamazepina, fenobarbital, fenitoína, fosfenitoína, primidona), rifampicina, hipericão; − nitroglicerina e outros nitratos, ou outras substâncias chamadas “ vasodilatores ”; − medicamentos usados para o VIH/SIDA (ex: ritonavir) ou para o tratamento de infecções fúngicas (ex.: cetoconazol).
+ Tomar Copalia com alimentos e bebidas Pode tomar Copalia com ou sem alimentos.
+ Copalia e pessoas idosas É necessária precaução quando se aumenta a dose.
+ Gravidez e aleitamento Informe o seu médico se pensa que está (ou pode vir a estar) grávida. Geralmente, o seu médico irá aconselhá-la a tomar outro medicamento em substituição de Copalia, uma vez que Copalia não é recomendado no início da gravidez e pode causar problemas graves ao seu bebé se tomado após 3 meses de de gravidez. Um medicamento antihipertensivo apropriado deve geralmente substituir Copalia antes do início da gravidez. O medicamento não deve ser utilizado durante o segundo e terceiro trimestres de gravidez.
+ O seu médico irá aconselhá-la a interromper o tratamento com Copalia assim que saiba que está grávida.
+ 80 Se ficar grávida durante a terapêutica com Copalia, por favor, informe e consulte o seu médico imediatamente.
+ Informe o seu médico de que está a amamentar. O tratamento com Copalia não é recomendado durante a amamentação.
+ Consulte o seu médico ou farmacêutico antes de tomar qualquer medicamento.
+ Condução de veículos e utilização de máquinas Este medicamento pode provocar-lhe tonturas. Isto pode afectar a sua capacidade de concentração. Assim, se desconhece o modo como este medicamento o afecta, não conduza, utilize maquinaria ou efectue outras actividades que requeiram concentração.
+ 3. COMO TOMAR COPALIA Tome este medicamento sempre de acordo com as indicações do médico. Fale com o seu médico se tiver dúvidas. Isto contribuirá para obter os melhores resultados e diminuir o risco de efeitos secundários.
+ A dose habitual de Copalia é de um comprimido por dia. − É aconselhável tomar o seu medicamento à mesma hora todos os dias, de preferência de manhã. − Engula os comprimidos com um copo de água. − Pode tomar Copalia com ou sem alimentos.
+ Dependendo da sua resposta ao tratamento, o seu médico poderá receitar uma dose mais elevada ou mais baixa.
+ Não exceda a dose prescrita. Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou farmacêutico.
+ Se tomar mais Copalia do que deveria Se tomou demasiados comprimidos de Copalia, ou se alguém tomou os seus comprimidos, consulte imediatamente um médico.
+ Caso se tenha esquecido de tomar Copalia Se se esqueceu de tomar este medicamento, tome-o assim que se lembrar. Depois tome a dose seguinte à hora habitual. No entanto, se for quase a hora da próxima dose, omita a dose de que se esqueceu. Não tome uma dose a dobrar para compensar um comprimido que se esqueceu de tomar.
+ 4. EFEITOS SECUNDÁRIOS POSSIVEIS Como os demais medicamentos, Copalia pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ Alguns efeitos secundários podem ser graves: Alguns doentes sentiram efeitos secundários graves (afectando menos do que 1 em 1.000 doentes). Informe o seu médico imediatamente se ocorrer algum dos seguintes efeitos secundários: Reacção alérgica com sintomas como erupções cutâneas, comichão (prurido), inchaço da face, lábios ou língua, dificuldade em respirar, diminuição da pressão arterial (sensação de desmaio, cabeça oca).
+ 81 Outros efeitos secundários possíveis: Frequentes (afectando menos do que 1 em 10 doentes): Síndrome gripal; nariz entupido (congestão nasal), inflamação da garganta e desconforto ao engulir; dor de cabeça; inchaço dos braços, mãos, pernas, tornozelos ou pés; cansaço; vermilhidão e sensação de calor na face e/ou pescoço. Pouco frequentes (afectando menos do que 1 em 100 doentes): Tonturas; náuseas e dor abdominal; boca seca; sonolência, formigueiro ou dormência das mãos ou pés; vertigens; aumento do batimento do coração incluindo palpitações; tonturas na posição vertical; tosse; diarreia; prisão de ventre (obstipação); erupções cutâneas, vermelhidão da pele; inchaço das articulações, dor nas costas; dor nas articulações. Raros (afectando menos do que 1 em 1.000 doentes): Sensação de ansiedade; ruídos nos ouvidos (acufenos); desmaio; aumento da frequência urinária ou sensação de urgência para urinar; incapacidade de atingir ou manter uma erecção; sensação de peso; diminuição da pressão arterial com sintomas como tonturas, cabeça oca; sudação excessiva; erupção cutânea em todo o corpo; comichão (prurido); espasmos musculares. Se algum destes efeitos secundários o afectar de forma grave informe o seu médico.
+ Efeitos secundários com amlodipina ou valsartan isolados que podem ser graves: Estes efeitos secundários podem ocorrer com determinadas frequências que são definidas a seguir: muito frequentes: afectam mais de 1 utilizador em cada 10 frequentes: afectam 1 a 10 utilizadores em cada 100 pouco frequentes: afectam 1 a 10 utilizadores em cada 1.000 raros: afectam 1 a 10 utilizadores em cada 10.000 muito raros: afectam menos de 1 utilizador em cada 10.000 desconhecido: a frequência não pode ser calculada a partir dos dados disponíveis
+ Amlodipina Frequentes: vómitos Pouco frequentes: queda de cabelo, alterações do trânsito intestinal, sensação de inchaço, indigestão, mal-estar de estômago após a refeição, dor de estômago, náuseas, gengivas sensíveis, inchadas ou a sangrar, falta de ar, aumento do peito do homem, nariz entupido ou a pingar, espirros, amarelecimento da pele e dos olhos, náuseas, perda de apetite, urina de cor clara, nível elevado de açúcar no sangue, incapacidade de atingir ou manter a erecção; aumento da frequência urinária, febre, inflamação da garganta ou úlceras na boca devidas a infecções, alterações de humor, dor muscular, sensação de formigueiro ou dormência dos dedos das mãos ou dos pés; dores fortes de estômago, hemorragias ou formação de nódoas negras espontâneas, erupção cutânea, manchas vermelho-arroxeadas na pele, febre, comichão, inchaço sobretudo da face e garganta, vermelhidão da pele, vesículas nos lábios, olhos ou boca, descamação da pele. Raros: dor intensa no peito, batimento cardíaco irregular, dor anginosa. Muito raros: amarelecimento da pele e dos olhos, alterações dos resultados de algumas análises da função hepática, manchas roxas na pele, erupção cutânea e comichão, rigidez dos membros, mãos trémulas.
+ Valsartan Desconhecidos: Redução do número de glóbulos vermelhos, febre, inflamação da garganta ou da boca devidas a infecções, hemorragias ou formação de nódoas negras espontâneas, níveis elevados de potássio no sangue, alterações nos resultados de análises ao fígado, diminuição das funções renais, e diminuição grave das funções renais, inchaço sobretudo da face e da garganta, dores musculares, erupção cutânea, manchas vermelho-arroxeadas na pele, febre, comichão, reacção alérgica.
+ Se experimentar algum destes efeitos secundários informe imediatamente o seu médico.
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 82 5. COMO CONSERVAR COPALIA
+ Manter fora do alcance e da vista das crianças. Não utilize Copalia após o prazo de validade impresso na embalagem exterior e blister. Não conservar acima de 30°C. Conservar na embalagem de origem para proteger da humidade. Não utilize Copalia se verificar que a embalagem está danificada ou apresenta sinais de adulteração.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Copalia -As substâncias activas são a amlodipina (como besilato de amlodipina) e o valsartan. Cada
+ comprimido contém 10 mg de amlodipina e 160 mg de valsartan.
+ -Os outros componentes são celulose microcristalina; crospovidona tipo A; sílica coloidal anidra;
+ estearato de magnésio; hipromelose; macrogol 4000; talco; dióxido de titânio (E171); óxido de ferro amarelo (E172); óxido de ferro vermelho (E172).
+ Qual o aspecto de Copalia e conteúdo da embalagem Os comprimidos de Copalia 10 mg/160 mg são ovais e amarelos claros com “ NVR ” numa face e “ UIC ” na outra face.
+ Copalia está disponível em embalagens de 7,14,28,30,56,90,98 ou 280 comprimidos e em embalagens múltiplas contendo 4 embalagens, cada contendo 70 comprimidos. É possível que não sejam comercializadas todas as apresentações.
+ Titular da Autorização de Introdução no Mercado e Novartis Europharm Limited Wimblehurst Road Horsham West Sussex, RH12 5AB Reino Unido
+ Fabricante Novartis Pharma GmbH Roonstraße 25 D-90429 Nuremberga Alemanha
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado:
+ Luxembourg/Luxemburg België/Belgique/Belgien Novartis Pharma GmbH Novartis Pharma N. V. Tél/Tel: +49 911 273 0 Tél/Tel: +32 2 246 16 11
+ България Novartis Pharma Services Inc. Тел.: +359 2 976 98 28
+ Magyarország Novartis Hungária Kft. Pharma Tel.: +36 1 457 65 00
+ Česká republika Novartis s. r. o. Tel: +420 225 775 111
+ Malta Novartis Pharma Services Inc. Tel: +356 2298 3217
+ 83 Danmark Novartis Healthcare A/S Tlf: +45 39 16 84 00
+ Nederland Novartis Pharma B. V. Tel: +31 26 37 82 111
+ Deutschland Novartis Pharma GmbH Tel: +49 911 273 0
+ Norge Novartis Norge AS Tlf: +47 23 05 20 00
+ Eesti Österreich Novartis Pharma Services Inc. Tel: +372 60 62 400
+ Novartis Pharma GmbH Tel: +43 1 86 6570 Ελλάδα Novartis (Hellas) A. E. B. E. Τηλ: +30 210 281 17 12
+ Polska Novartis Poland Sp. z o. o. Tel.: +48 22 550 8888
+ España Novartis Farmacéutica, S. A. Tel: +34 93 306 42 00
+ Portugal Bialport-Produtos Farmacêuticos, S. A. Tel: +351 22 986 61 00
+ France Novartis Pharma S. A. S. Tél: +33 1 55 47 66 00
+ România Novartis Pharma Services Inc. Tel: +40 21 31299 01
+ Ireland Novartis Ireland Limited Tel: +353 1 260 12 55
+ Slovenija Novartis Pharma Services Inc. Tel: +386 1 300 75 77
+ Ísland Vistor hf. Sími: +354 535 7000
+ Slovenská republika Novartis Slovakia s. r. o. Tel: +421 2 5542 5439
+ Italia Novartis Farma S. p. A. Tel: +39 02 96 54 1
+ Suomi/Finland Novartis Finland Oy Puh/Tel: +358 9 61 33 22 11
+ Κύπρος Δημητριάδης και Παπαέλληνας Λτδ Τηλ: +357 22 690 690
+ Sverige Novartis Sverige AB Tel: +46 8 732 32 00
+ Latvija Novartis Pharma Services Inc. Tel: +371 7 887 070
+ United Kingdom Novartis Pharmaceuticals UK Ltd. Tel: +44 1276 698370
+ Lietuva Novartis Pharma Services Inc. Tel. +370 5 269 16 50
+ Este folheto foi aprovado pela última vez em{ MM/AAAA}
+ 84

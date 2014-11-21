@@ -6,7 +6,11 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import java.lang.reflect.Modifier;
+import java.util.HashMap;
 import java.util.Map;
+import java.util.Set;
+import java.util.function.Consumer;
+import java.util.function.Function;
 import java.util.stream.Collectors;
 
 /**
@@ -34,23 +38,24 @@ public class ReaderScanner {
         // supported files from the corpus during indexing.
         Reflections.log = null;
         Reflections r = new Reflections(PROJECT_PACKAGE);
-        existingReaderClasses = r
-                .getSubTypesOf(Reader.class)
+        existingReaderClasses = new HashMap<>();
+        r.getSubTypesOf(Reader.class)
                 .stream()
                 .filter(c -> !Modifier.isAbstract(c.getModifiers())
                         && !Modifier.isInterface(c.getModifiers()))
-                .collect(Collectors.toMap(readerClass -> {
+                .forEach(readerClass -> {
                     try {
                         Reader reader = readerClass.newInstance();
-                        String ext = reader.getSupportedExtension();
+                        Set<String> extensions = reader.getSupportedExtensions();
                         reader = null;
-                        return ext;
+                        for (String ext : extensions) {
+                            existingReaderClasses.put(ext, readerClass);
+                        }
 
                     } catch (InstantiationException | IllegalAccessException e) {
                         logger.error("There was a problem detecting the currently implemented Reader classes.", e);
                     }
-                    return null;
-                }, aClass -> aClass));
+                });
     }
 
     /**

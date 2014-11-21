@@ -1,0 +1,361 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. DENOMINAÇÃO DO MEDICAMENTO
+ Valtropin 5 mg/1,5 ml, pó e solvente para solução injectável
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Um frasco para injectáveis com pó, contendo 5 mg de somatropina (correspondente a 15 UI).
+ Após a reconstituição com 1,5 ml de solvente,1 ml contém: somatropina* 3,33 mg (correspondente a 1 UI)* produzida em células de Saccharomyces cerevisiae mediante a tecnologia de ADN recombinante.
+ Excipientes: 1,5 ml de solvente contém 4,5 mg de metacresol.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Pó e solvente para solução injectável. Pó branco ou quase branco. O solvente é uma solução límpida.
+ Após a reconstituição com o solvente fornecido, Valtropin tem um pH de aproximadamente 7,5 e uma osmolalidade de aproximadamente 320 mOsm/kg.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Doentes pediátricos -Tratamento a longo prazo de crianças com deficiências de crescimento devido a uma secreção
+ inadequada da hormona do crescimento endógena normal.
+ -Tratamento da estatura baixa em crianças com síndroma de Turner confirmado pela análise
+ cromossómica.
+ -Tratamento do retardamento do crescimento em crianças na pré-puberdade com insuficiência
+ renal crónica.
+ Doentes adultos -Terapêutica de substituição em adultos com deficiência pronunciada em hormona do
+ crescimento, com origem na infância ou na idade adulta.
+ Os doentes com deficiência grave em hormona do crescimento na idade adulta são definidos como doentes com uma doença hipotalâmica-hipofisária e com, pelo menos, uma deficiência adicional numa hormona hipofisária conhecida, excepto a prolactina. Estes doentes devem ser submetidos a um teste dinâmico único para diagnosticar ou excluir uma deficiência em hormona do crescimento. Em doentes com deficiência em hormona do crescimento diagnosticada na infância (sem sinais de doença hipotalâmica-hipofisária ou irradiação craniana), devem ser recomendados dois testes dinâmicos, excepto naqueles com concentrações baixas de factor de crescimento I análogo à insulina (IGF-1, Insuline-like Growth Factor-1) (&lt; 2 de desvio padrão (DP), que podem ser considerados para um único teste. O ponto limite do teste dinâmico deve ser rigoroso.
+ 2 4.2 Posologia e modo de administração
+ A terapêutica com Valtropin deve ser iniciada e monitorizada por médicos com experiência adequada no diagnóstico e no controlo de doentes com deficiência em hormona do crescimento.
+ O regime posológico e de administração deve ser adaptado a cada doente.
+ Posologia em doentes pediátricos Deficiência em hormona do crescimento em crianças A dosagem recomendada é de 0,025-0,035 mg/kg de peso corporal por dia, administrada sob a forma de injecção subcutânea.
+ Crianças com síndroma de Turner A dosagem recomendada é de 0,045-0,050 mg/kg de peso corporal por dia, administrada sob a forma de injecção subcutânea.
+ Crianças na pré-puberdade com insuficiência renal crónica A dosagem recomendada é de 0,045-0,050 mg/kg de peso corporal por dia, administrada sob a forma de injecção subcutânea.
+ Posologia em doentes adultos Deficiência em hormona do crescimento em adultos A dose inicial recomendada é de 0,15-0,30 mg/dia, administrada sob a forma de injecção subcutânea. Pode ser necessária uma dose inicial inferior em doentes idosos e obesos.
+ Esta dose deve ser aumentada gradualmente de acordo com as necessidades individuais do doente, com base na resposta clínica e nas concentrações séricas do factor IGF-1. A dose diária total normalmente não excede 1 mg. As concentrações do factor IGF-1 devem ser mantidas abaixo do limite superior do intervalo normal específico da idade.
+ Deve ser utilizada a dose eficaz mínima e as necessidades posológicas podem diminuir com o aumento da idade.
+ A dose de somatropina deve ser reduzida em casos de edema persistente ou de parestesia grave, de modo a evitar o desenvolvimento da síndrome do túnel carpal.
+ Administração Valtropin é administrado por injecção subcutânea.
+ Os locais de injecção devem variar de modo a evitar lipoatrofia.
+ Para mais informações sobre reconstituição e administração, ver secção 6.6.
+ 4.3 Contra-indicações -Hipersensibilidade à substância activa ou a qualquer um dos excipientes (p. ex. metacresol) (ver
+ secção 4.4).
+ -Qualquer sinal de actividade tumoral. As lesões intracranianas devem estar inactivas e a
+ terapêutica anti-tumoral terminada antes da instituição da terapêutica com a hormona do crescimento. A utilização de Valtropin deve ser interrompida se houver sinais de crescimento tumoral.
+ -Valtropin não deve ser utilizado para a estimulação do crescimento em crianças com epífises
+ fechadas.
+ 3
+ -Doentes com doença aguda crítica devido a complicações resultantes de uma cardiotomia ou
+ cirurgia abdominal, traumas acidentais múltiplos ou doentes com insuficiência respiratória aguda.
+ 4.4 Advertências e precauções especiais de utilização
+ Não existem dados para suspeitar que a substituição da hormona do crescimento possa influenciar a taxa de recorrência ou de novo crescimento dos neoplasmas intracranianos, mas a prática clínica padrão requer imagiologia hipofisária regular em doentes com antecedentes de doença hipofisária. Recomenda-se um exame inicial nestes doentes antes de instituir a terapêutica de substituição com a hormona do crescimento.
+ Em casos de cefaleia grave ou recorrente, problemas visuais, náuseas e/ou vómitos, recomenda-se uma fundoscopia para verificar se existe papiloedema. No caso do papiloedema ser confirmado, deve considerar-se o diagnóstico da hipertensão intracraniana benigna e, caso apropriado, deve interromper-se o tratamento com a hormona do crescimento. Actualmente não existem dados suficientes que conduzam à tomada de decisão clínica em doentes com hipertensão intracraniana conhecida. No caso do tratamento com a hormona do crescimento ser retomado, é necessário monitorizar atentamente os sintomas da hipertensão intracraniana.
+ Como a hormona do crescimento humano pode induzir um estado de resistência à insulina, os doentes tratados com somatropina devem ser monitorizados no que respeita a sinais de intolerância à glicose.
+ A hormona do crescimento aumenta a conversão extratiroideia de T4 em T3 e pode, como tal, revelar o hipotiroidismo incipiente. A monitorização da função da tiróide deve, por isso, ser efectuada em todos os doentes. Em doentes com hipopituitarismo, a terapêutica de substituição padrão deve ser monitorizada atentamente durante a administração da terapêutica com somatropina.
+ Os doentes com doenças endócrinas, incluindo a deficiência em hormona do crescimento, podem desenvolver com maior frequência epífises capitais deslocadas. Qualquer criança que comece a coxear durante a terapêutica com a hormona do crescimento deve ser avaliada.
+ Os doentes que tenham sido tratados com a hormona do crescimento durante a infância, até a altura final ter sido alcançada, devem ser reavaliados em relação à deficiência em hormona do crescimento após o encerramento da epífise antes da terapêutica de substituição ser iniciada nas doses recomendadas para adultos.
+ Em crianças o tratamento deve ser contínuo até o final do crescimento ser alcançado. É aconselhável não exceder a dose recomendada tendo em conta os possíveis riscos de acromegalia, hiperglicemia e glicosúria.
+ O Valtropin não está indicado para o tratamento de doentes com insuficiência do crescimento devido a síndrome de Prader-Willi, a não ser que tenham igualmente diagnóstico de deficiência de hormona do crescimento. Houve alguns registos de apneia do sono e de morte súbita após o início de terapêutica com hormona do crescimento em doentes com síndrome de Prader-Willi que tinham um ou mais dos seguintes factores de risco: obesidade severa, antecedentes de obstrução das vias aéreas superiores ou apneia do sono ou infecção respiratória não identificada.
+ Antes de instituir o tratamento com somatropina do retardamento do crescimento secundário à insuficiência renal crónica, as crianças devem ser seguidas durante um ano para verificar os distúrbios do crescimento. O tratamento tradicional da insuficiência renal (que inclui o controlo da acidose, do hiperparatiroidismo e do estado nutricional durante um ano antes do tratamento) deve ter sido estabelecido e deve ser mantido durante o tratamento. O tratamento com somatropina deve ser suspenso aquando do transplante renal.
+ Para alcançar o objectivo do tratamento definido, os homens podem necessitar de doses menores de hormona do crescimento do que as mulheres. A administração oral de estrogénios aumenta as
+ 4 necessidades da dose nas mulheres. Com o tempo pode observar-se um aumento da sensibilidade à hormona do crescimento (expressa na forma de uma alteração do factor IGF-1 por dose de hormona do crescimento), particularmente nos homens. A exactidão da dose de hormona do crescimento deve, por isso, ser controlada de 6 em 6 meses.
+ Valtropin não deve ser reconstituído com o solvente fornecido para doentes com uma sensibilidade conhecida ao metacresol. Se ocorrer uma sensibilidade ao solvente fornecido, os frascos para injectáveis devem ser reconstituídos com água para preparações injectáveis e utilizados como frasco para injectáveis de utilização única (ver secção 6.3).
+ Os doentes com síndroma de Turner devem ser avaliados cuidadosamente quanto a otite média e outras afecções do ouvido, visto que estes doentes correm um risco aumentado de afecções do ouvido ou auditivas.
+ Pode surgir hipoglicemia após a injecção intramuscular acidental.
+ A experiência no tratamento com somatropina em doentes com idade superior a 60 anos é limitada.
+ A experiência no tratamento a longo prazo (mais de 5 anos) com somatropina em adultos é limitada.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Uma terapêutica glucocorticóide excessiva vai inibir o efeito de estimulação do crescimento da hormona do crescimento humana. A dose de glucocorticóides de substituição dos doentes com uma deficiência coexistente da hormona adrenocorticotrópica (ACTH, adrenocorticotropic hormone) deve ser cuidadosamente ajustada para evitar um efeito inibidor do crescimento.
+ Em mulheres que tomam estrogénios por via oral pode ser necessária uma dose mais elevada de somatropina para alcançar o objectivo do tratamento.
+ Os doentes que tomam insulina para a diabetes mellitus devem ser monitorizados cuidadosamente durante o tratamento com somatropina. Pode ser necessário ajustar a dose de insulina.
+ Dados de um estudo de interacção efectuado em adultos com deficiência em hormona do crescimento sugerem que a administração de somatropina pode aumentar a depuração dos compostos que são metabolizados pelas isoenzimas do citocromo P450. A depuração dos compostos metabolizados pelo citocromo P450 3A4 (p. ex. esteróides sexuais, corticosteróides, anticonvulsivos e ciclosporina) pode ser aumentada, resultando em níveis plasmáticos mais baixos destes compostos. O significado clínico deste facto é desconhecido.
+ 4.6 Gravidez e aleitamento No que respeita a Valtropin, não existem dados clínicos sobre as gravidezes a ele expostas. Os estudos em animais são insuficientes para determinar os efeitos sobre a gravidez, o desenvolvimento embrionário-fetal, o parto ou o desenvolvimento pós-natal (ver 5.3). Valtropin não deve ser utilizado durante a gravidez, a menos que tal seja claramente necessário.
+ Não foram conduzidos estudos clínicos com Valtropin em mulheres a amamentarem. É desconhecido se a somatropina é excretada no leite humano. Por isso, deve ter-se cuidado quando Valtropin é administrado a mulheres a amamentarem.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Os efeitos de Valtropin sobre a capacidade de conduzir e utilizar máquinas são nulos ou desprezíveis.
+ 4.8 Efeitos indesejáveis 5 Durante estudos clínicos 128 crianças (98 crianças com deficiência em hormona do crescimento e 30 com síndroma de Turner) foram expostas à Valtropin. O perfil de segurança da Valtropin observado nestes estudos clínicos foi consistente com o perfil relatado com o produto de referência utilizado nestes estudos e noutros produtos contendo somatropina.
+ As seguintes reacções adversas e a sua frequência foram observadas durante o tratamento com somatropina com base em informação publicada:
+ Muito frequentes (&gt; 1/10), frequentes (&gt; 1/100, &lt; 1/10), pouco frequentes (&gt; 1/1.000, &lt; 1/100), raros (&gt; 1/10.000, &lt; 1/1.000), muito raros (&lt; 1/10.000), incluindo comunicações isoladas
+ Doenças endócrinas Hipotiroidismo: frequente
+ Doenças do metabolismo e da nutrição Hiperglicemia ligeira: frequente (1% em crianças; 1%-10% em adultos) Resistência à insulina
+ Doenças do sistema nervoso Hipertensão intracraniana benigna: rara Cefaleia: muito frequente em adultos Insónia: muito rara em crianças; frequente em adultos Parestesia: rara em crianças; muito frequente em adultos
+ Vasculopatias Hipertensão: rara em crianças; frequente em adultos
+ Afecções musculosqueléticas e dos tecidos conjuntivos Dores musculares localizadas (mialgia): frequentes em adultos Dor e doença articular (artralgia): muito frequentes em adultos
+ Doenças dos órgãos genitais e da mama Ginecomastia: muito rara em crianças; pouco frequente em adultos
+ Perturbações gerais e alterações no local de administração Fraqueza: pouco frequente Dor no local da injecção (reacção): frequente Edema (local ou generalizado): frequente (1%-10% em crianças; 10% em adultos)
+ Como todos os medicamentos contendo somatropina, uma pequena percentagem de doentes pode desenvolver anticorpos contra a somatropina. Num estudo clínico com Valtropin,3% das crianças com deficiência em hormona do crescimento desenvolveu esses anticorpos. A capacidade de ligação desses anticorpos foi baixa e não teve efeito sobre a taxa de crescimento. Os testes aos anticorpos à somatropina devem ser efectuados em todos os doentes que não respondam à terapêutica.
+ Anticorpos contra as proteínas das células do hospedeiro (anti-S. cerevisiae) foram pouco frequentes em doentes tratados com Valtropin. A criação desses anticorpos com baixa capacidade de ligação é pouco provável de ser clinicamente relevante. Ao contrário das bactérias (E. coli), a levedura não foi descrita como produtora de efeitos adjuvantes modificadores da resposta imunológica.
+ Houve um caso (&lt; 1%) de hipersensibilidade aguda envolvendo urticária e prurido num doente a quem foi administrado Valtropin.
+ 6 Doentes pediátricos Foi inicialmente observado edema ligeiro e transitório no do decurso do tratamento com somatropina. Foi relatada leucemia num número reduzido de crianças que tinham sido tratadas com somatropina. Contudo, não existem provas de que a incidência da leucemia é aumentada nos receptores de somatropina sem factores de predisposição.
+ Doentes adultos Na generalidade, em doentes com deficiência em hormona do crescimento na idade adulta foram relatados edemas, dores musculares, dores e doenças articulares no início da terapêutica com tendência a serem transitórios. Os doentes adultos tratados com somatropina em sequência do diagnóstico da deficiência em hormona do crescimento na infância, relataram menos frequentemente efeitos indesejáveis do que os doentes com deficiência em hormona do crescimento na idade adulta.
+ 4.9 Sobredosagem A sobredosagem aguda pode provocar inicialmente hipoglicemia e subsequentemente hiperglicemia. A sobredosagem a longo prazo pode originar sinais e sintomas de acromegalia consistentes com os efeitos conhecidos de excesso da hormona do crescimento humana.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Somatropina e análogos; código ATC: H01A C01
+ A somatropina é uma hormona polipeptídica com origem em ADN recombinante. Possui 191 resíduos de aminoácidos e um peso molecular de 22.125 daltons. A sequência de aminoácidos do produto é idêntica à da hormona do crescimento humana de origem hipofisária. Valtropin é sintetizada em células de levedura (Saccharomyces cerevisiae).
+ Os efeitos biológicos da somatropina são equivalentes aos da hormona do crescimento humana de origem hipofisária.
+ O efeito mais importante da somatropina é a estimulação das placas de crescimento dos ossos longos. Adicionalmente, promove a síntese proteica celular e a retenção de azoto.
+ A somatropina estimula o metabolismo lipídico. Aumenta os ácidos gordos plasmáticos e os colesteróis da lipoproteína de alta densidade (HDL, high-density lipoprotein) e diminui o colesterol total no plasma.
+ A terapêutica com somatropina possui um efeito benéfico na composição corporal em doentes com deficiência em hormona do crescimento, nos quais as reservas de gordura corporal são reduzidas e a massa magra corporal é aumentada. A terapêutica a longo prazo em doentes com deficiência em hormona do crescimento aumenta a densidade mineral óssea.
+ A somatropina pode induzir a resistência à insulina. Doses elevadas de somatropina podem prejudicar a tolerância à glicose.
+ Estudos clínicos A eficácia e a segurança de Valtropin foram avaliadas num estudo de fase III controlado, randomizado, paralelo, de dupla ocultação em crianças com deficiência em hormona do crescimento humana. Não se observaram diferenças relevantes entre Valtropin e o produto de referência no que respeita à velocidade de altura e à velocidade de altura DP.
+ 7 Um estudo de fase III aberto, com um único grupo, que investigou a eficácia e a segurança do tratamento com Valtropin em raparigas com estatura baixa associada à síndrome de Turner, demonstrou um efeito significativo do tratamento em estudo na velocidade de altura.
+ 5.2 Propriedades farmacocinéticas Um estudo cruzado, randomizado, de dose única e de dupla ocultação em 24 voluntários saudáveis demonstrou que o perfil farmacocinético de Valtropin era comparável ao do produto de referência. A administração subcutânea de 0,073 mg/kg de peso corporal de Valtropin resultou numa Cmax de 43,97 ng/ml e uma AUC0-24 h de 369,90 ng· h/ml. A Cmax foi alcançada em 4 h e t½ em 3 h.
+ 5.3 Dados de segurança pré-clínica Os dados não clínicos não revelam riscos especiais para o ser humano, segundo estudos convencionais de toxicidade de dose repetida, genotoxicidade e toxicidade reprodutiva com Valtropin.
+ Estudos com Valtropin em animais não são suficientes para avaliar a possível toxicidade reprodutiva. Estudos de toxicidade reprodutiva efectuados com outros produtos de somatropina não evidenciaram um aumento do risco de reacções adversas para o embrião ou para o feto.
+ Não foram conduzidos estudos a longo prazo de carcinogenicidade. Não estão disponíveis estudos específicos de tolerância local em animais após a injecção subcutânea de Valtropin. Contudo, em estudos gerais de toxicidade de dose única e de dose repetida não foram relatadas reacções adversas nos locais da injecção.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Pó: Glicina Manitol Fosfato de sódio Fosfato de sódio dibásico Hidróxido de sódio (para o ajuste do pH) Ácido clorídrico (para o ajuste do pH).
+ Solvente: Metacresol Água para preparações injectáveis.
+ 6.2 Incompatibilidades Na ausência de estudos de compatibilidade, este medicamento não deve ser misturado com outros.
+ 6.3 Prazo de validade 36 meses. Após a abertura inicial ou após a reconstituição com o solvente fornecido: Foi demonstrada uma estabilidade química e física de utilização durante 21 dias a uma temperatura de 2°C-8°C (frigorífico) após a reconstituição com o solvente fornecido. Do ponto de vista microbiológico, após a abertura o produto pode ser conservado durante um período máximo de 21 dias a 2°C-8°C (frigorífico).
+ Após a reconstituição com água para preparações injectáveis:
+ 8 Após a reconstituição com água para preparações injectáveis, o produto deve ser utilizado de imediato e deve ser utilizado como um frasco para injectáveis de utilização única. Se não for utilizado de imediato, os tempos e as condições de conservação antes da utilização não devem normalmente exceder as 24 horas a 2°C – 8°C (frigorífico), a menos que a reconstituição tenha tido lugar sob condições assépticas controladas e validadas.
+ 6.4 Precauções especiais de conservação
+ Conservar no frigorífico (2°C-8°C). Não congelar.
+ Para efeitos de transporte e/ou utilização ambulatória, o produto não reconstituído pode ser mantido à temperatura ambiente (não acima de 25°C) durante um período único de até 4 semanas.
+ Os doentes podem manter o produto não reconstituído à temperatura ambiente durante um período único de até 4 semanas antes da utilização.
+ Condições de conservação do medicamento reconstituído, ver secção 6.3.
+ 6.5 Natureza e conteúdo do recipiente 5 mg de pó num frasco para injectáveis (vidro tipo I) fechado com uma rolha (borracha butílica) e uma tampa (plástico e alumínio). 1,5 ml de solvente num seringa pré-cheia (vidro tipo I) fechada com uma tampa (borracha butílica revestida com FluroTec®).
+ Embalagens de 1 frasco para injectáveis e 1 seringa pré-cheia.
+ 6.6 Precauções especiais de eliminação Para a utilização e a manipulação Valtropin não deve ser reconstituído com o solvente fornecido para doentes com uma sensibilidade conhecida ao metacresol (ver secção 4.3). Se ocorrer sensibilidade ao solvente fornecido, os frascos para injectáveis devem ser reconstituídos com água para preparações injectáveis e utilizados como frascos de utilização única.
+ Reconstituição com o solvente fornecido Cada frasco para injectáveis de Valtropin deve ser reconstituído utilizando o solvente fornecido. O solvente não deve ser utilizado se se apresentar descolorado ou turvo. O solvente deve ser injectado no frasco para injectáveis apontando o jacto de líquido contra a parede de vidro. Após a reconstituição, o frasco para injectáveis deve ser girado com um movimento rotativo SUAVE até que o conteúdo esteja completamente dissolvido. NÃO AGITAR. A solução resultante deve ser límpida, sem partículas. Se a solução apresentar descoloração, turvação ou contiver partículas, o conteúdo NÃO DEVE ser administrado. Antes e depois de cada administração, o septo do frasco para injectáveis deve ser limpo com álcool para evitar a contaminação do conteúdo pela introdução repetida de agulhas. No caso de ser reconstituída com o solvente, a solução destina-se a utilização multidose (ver secção 6.3).
+ Reconstituição com água para preparações injectáveis Após a reconstituição com água para preparações injectáveis, o produto deve ser utilizado de imediato (ver secção 6.3) e a solução destina-se apenas a utilização única.
+ Administração Devem ser utilizadas seringas e agulhas estéreis e descartáveis para a administração de Valtropin. O volume da seringa deve ser suficientemente pequeno para que a dose prescrita possa ser recolhida do frasco para injectáveis com uma precisão razoável.
+ Eliminação 9 Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ BioPartners GmbH Eisenstrasse 3 D-65428 Rüsselsheim Alemanha
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DA INTRODUÇÃO NO MERCADO
+ EU/1/06/335/001 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 24. 04.2006 10. DATA DA REVISÃO DO TEXTO Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia do Medicamento (EMEA) http: //www. emea. europa. eu/
+ 10 ANEXO II
+ A. FABRICANTE DA SUBSTÂNCIA ACTIVA DE ORIGEM BIOLÓGICA E TITULAR DE AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 11 A. FABRICANTE DA SUBSTÂNCIA ACTIVA DE ORIGEM BIOLÓGICA E TITULAR DE AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do fabricante da substância activa de origem biológica
+ LG Life Sciences Ltd., Iksan Plant,601 Yongje-dong, Iksan-si, Jeonbuk-do 570-350, Coreia do Sul
+ Nome e endereço do fabricante responsável pela libertação do lote
+ BioPartners GmbH, Eisenstrasse 3,65428 Rüsselsheim, Alemanha
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento de receita médica restrita, de utilização reservada a certos meios especializados (ver anexo I: Resumo das Características do Medicamento, secção 4.2).
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ Não aplicável. • OUTRAS CONDIÇÕES
+ Sistema de farmacovigilância O titular da autorização de introdução no mercado deve assegurar que o sistema de farmacovigilância se encontra implementado e em funcionamento antes do produto ser introduzido no mercado e durante o tempo em que o produto comercializado continuar em uso.
+ Plano de gestão do risco O titular da autorização de introdução no mercado compromete-se a realizar actividades de farmacovigilância adicionais como descritas no plano de farmacovigilância.
+ 12 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 13 A. ROTULAGEM
+ 14 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ EMBALAGEM EXTERIOR 1. DENOMINAÇÃO DO MEDICAMENTO Valtropin 5 mg/1,5 ml, pó e solvente para solução injectável Somatropina
+ 2. DESCRIÇÃO DO(S) PRINCÍPIOS(S) ACTIVO(S)
+ 1 frasco para injectáveis de pó contém 5 mg (15 UI) de somatropina (3,33 mg/ml de somatropina após a reconstituição com 1,5 ml de solvente).
+ 3. LISTA DOS EXCIPIENTES Pó: glicina, manitol, fosfato de sódio, fosfato de sódio dibásico Ajuste do pH: hidróxido de sódio e ácido clorídrico.
+ Solvente: metacresol (ver folheto para mais informação) e água para preparações injectáveis.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Pó e solvente para solução injectável 1 frasco para injectáveis (pó) e 1 seringa pré-cheia (1,5 ml de solvente).
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via subcutânea Para informações sobre reconstituição e utilização consultar o folheto informativo.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRA(S) ADVERTÊNCIA(S) ESPECIAI(S), SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP Após a reconstituição com o solvente fornecido: pode ser conservado durante 21 dias no frigorífico. Após a reconstituição com água para preparações injectáveis: deve ser utilizado de imediato.
+ 15 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico. Não congelar. 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ BioPartners GmbH, Eisenstrasse 3, D-65428 Rüsselsheim, Alemanha
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/06/335/001 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Valtropin 5 mg/1,5 ml 16 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ FRASCO PARA INJECTÁVEIS DE PÓ 1. DENOMINAÇÃO DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Valtropin 5 mg/1,5 ml Pó para solução injectável Somatropina
+ Via subcutânea 2. MODO DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar.
+ 3. PRAZO DE VALIDADE EXP 4. NÚMERO DO LOTE Lote 5. CONTEÚDO EM TERMOS DE PESO, VOLUME OU UNIDADE
+ 5 mg (15 UI) de somatropina 6. OUTRAS Conservar no frigorífico. Não congelar. 17 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ SERINGA PRÉ-CHEIA DE SOLVENTE 1. DENOMINAÇÃO DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Valtropin 5 mg/1,5 ml Solvente para solução injectável
+ Via subcutânea 2. MODO DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar.
+ 3. PRAZO DE VALIDADE EXP 4. NÚMERO DO LOTE Lote 5. CONTEÚDO EM TERMOS DE PESO, VOLUME OU UNIDADE
+ 1,5 ml (água para preparações injectáveis com metacresol)
+ 6. OUTRAS Conservar no frigorífico. Não congelar. Contém 4,5 mg de metacresol. 18 B. FOLHETO INFORMATIVO
+ 19 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Valtropin 5 mg/1,5 ml, pó e solvente para solução injectável Somatropina
+ Leia atentamente este folheto antes de utilizar o medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é Valtropin e para que é utilizado 2. Antes de utilizar Valtropin 3. Como utilizar Valtropin 4. Efeitos secundários possíveis 5. Como conservar Valtropin 6. Outras informações
+ 1. O QUE É Valtropin E PARA QUE É UTILIZADO
+ O seu medicamento chama-se Valtropin. É uma denominação comercial da hormona do crescimento humana, também denominada somatropina. Valtropin é feita em laboratório mediante um processo especial conhecido como processo de “ tecnologia de ADN recombinante ” em células de levedura (Saccharomyces cerevisiae). Possui a mesma estrutura da hormona do crescimento que o corpo produz nas glândulas hipofisárias. A hormona do crescimento regula o crescimento e desenvolve as células. Quando estimula o crescimento das células nos ossos longos das pernas e da coluna, provoca um aumento na altura.
+ Valtropin é utilizado -no tratamento de crianças que não se desenvolvem até à sua altura normal devido a um
+ crescimento deficiente dos ossos causado pela deficiência em hormona do crescimento (falta relativa de hormona do crescimento), síndroma de Turner ou “ insuficiência renal crónica ” (uma doença em que os rins perdem gradualmente a sua capacidade de efectuar as suas funções normais, tais como a remoção de desperdícios e de fluido em excesso do corpo).
+ -no tratamento de adultos com deficiência em hormona do crescimento grave que já tinham
+ deficiência em hormona do crescimento na infância ou que, por algum motivo, não tenham hormona do crescimento suficiente durante a idade adulta.
+ Neste folheto, o doente é tratado por ” você ”. Os prestadores de cuidados que administrem Valtropin aos seus filhos devem considerar que “ você ” se refere à criança.
+ 2. ANTES DE UTILIZAR Valtropin ⊗ Não utilize Valtropin
+ -se tem alergia (hipersensibilidade) à somatropina ou a qualquer outro componente do pó
+ ou do solvente de Valtropin, p. ex. ao metacresol (ver secção 2, ‘ Tome especial cuidado com Valtropin – Ocorrência de determinados efeitos secundários ’)
+ -para promover o crescimento se já parou de crescer
+ -se já foi submetido a uma cirurgia cardíaca ou abdominal grave
+ -se está em tratamento a mais do que um ferimento em sequência de um acidente grave
+ -se tem problemas respiratórios graves e repentinos
+ 20
+ -se tem um tumor cerebral activo ou qualquer outro tumor (cancro), visto que a hormona do
+ crescimento o agravará. Os tumores devem estar inactivos e a terapêutica anti-tumoral terminada antes da hormona do crescimento poder ser prescrita. A utilização de Valtropin deve ser interrompida se houver sinais de crescimento tumoral.
+ /!\ Tome especial cuidado com Valtropin Exames antes de iniciar o tratamento:
+ -Um médico especialista em doenças endócrinas deve examiná-lo para decidir se a utilização de
+ Valtropin é segura.
+ -Se os adultos tiverem sido tratados com a hormona do crescimento durante a infância, estes
+ devem ser reavaliados quanto à deficiência em hormona do crescimento antes de iniciar outro tratamento com as hormonas do crescimento.
+ -Doentes com síndrome de Prader-Willi não devem ser tratadas com Valtropin a não ser que
+ tenham igualmente deficiência de hormona do crescimento.
+ Durante ou após uma doença grave:
+ -Se teve um tumor cerebral, deve ser reexaminado frequentemente para certificar de que o tumor
+ não regressou.
+ -Se as crianças forem submetidas a um transplante do rim, o tratamento com a hormona do
+ crescimento será interrompida.
+ -Se a criança tem a síndroma de Turner, o médico da criança deve examiná-la cuidadosamente
+ quanto a infecções do ouvido tais como otite média, por os doentes com síndroma de Turner correrem um risco aumentado de afecções do ouvido ou auditivas.
+ Ocorrência de determinados efeitos secundários:
+ -Se ocorrerem sintomas como dores de cabeça (graves e recorrentes), alterações visuais, náuseas
+ e/ou vómitos, queira consultar o seu médico.
+ -Se injectou Valtropin por engano no músculo e não sob a pele, o seu açúcar no sangue pode
+ ficar demasiado baixo (hipoglicemia).
+ -Se a criança começar a coxear durante o tratamento com Valtropin, queira consultar o seu
+ médico.
+ -Hormona do crescimento em excesso pode provocar um crescimento superior ao normal de
+ orelhas, nariz, lábios, língua e ossos da face (acromegalia), açúcar elevado no sangue (hiperglicemia) e presença de açúcar na urina (glicosúria). Utilize Valtropin sempre conforme recomendado pelo seu médico.
+ -Se ocorrer uma sensibilidade ao solvente, os frascos para injectáveis devem ser reconstituídos
+ com água para preparações injectáveis sem conservantes e utilizados como frascos de utilização única (ver secção 5 ‘ Como conservar Valtropin ’). Não utilize o solvente fornecido se tiver uma sensibilidade conhecida ao conservante metacresol.
+ Vigilância pelo seu médico durante o tratamento:
+ -Valtropin pode afectar o modo como o seu corpo lida com o açúcar da bebida e da comida. O
+ seu médico pode verificar a quantidade de açúcar na sua urina ou no seu sangue.
+ -Valtropin pode afectar a quantidade de hormona tiroideia no sangue, por isso deve fazer testes
+ da função da tiróide regularmente. Se a tiróide não estiver a funcionar devidamente, Valtropin pode não funcionar tão bem quanto deveria.
+ Utilizar Valtropin com outros medicamentos Informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente um dos seguintes medicamentos:
+ 21
+ -hormona esteróide supra-renal tal como cortisona ou prednisolona
+ -insulina
+ -estrogénios orais
+ -outros medicamentos de prescrição (p. ex. esteróides sexuais, corticosteróides, anticonvulsivos
+ ou ciclosporina) ou medicamentos sem prescrição. O seu médico pode necessitar de ajustar a dose de Valtropin ou do outro medicamento.
+ Gravidez Valtropin não deve ser utilizado durante a gravidez, a menos que tal seja claramente necessário. Se ficar grávida, informe o seu médico de imediato.
+ Aleitamento Se estiver a amamentar ou tenciona amamentar, queira consultar o seu médico antes de utilizar Valtropin.
+ Condução de veículos e utilização de máquinas Os efeitos de Valtropin sobre a capacidade de conduzir e utilizar máquinas são nulos ou desprezíveis.
+ Informações importantes sobre alguns componentes de Valtropin O solvente fornecido com Valtropin contém metacresol. Não utilize este solvente se tiver alergia (hipersensibilidade) ao metacresol (ver secção 2, ‘ Não utilize Valtropin ’). Se ocorrer sensibilidade ao solvente, os frascos para injectáveis devem ser reconstituídos com água para preparações injectáveis e utilizados como frascos de utilização única (ver secção 5 ‘ Como conservar Valtropin ’).
+ 3. COMO UTILIZAR Valtropin Utilizar Valtropin sempre de acordo com as indicações do seu médico. Fale com o seu médico ou farmacêutico se tiver dúvidas. Não injecte Valtropin se tiver dúvidas sobre a dose.
+ Dosagem O seu médico informá-lo-á sobre quanto deve utilizar. Esta quantidade pode variar de acordo com a sua doença. Não altere a dose sem consultar o seu médico.
+ A exactidão da dose de Valtropin deve ser verificada de 6 em 6 meses pelo seu médico.
+ Geralmente, a dose é calculada conforme abaixo descrito. Contudo, as doses individuais podem variar e o médico pode alterar a sua dose com base nas suas necessidades específicas.
+ Crianças Deficiência em hormona do crescimento em crianças Administrar 0,025-0,035 miligramas (mg) por cada quilograma de peso corporal, uma vez por dia, sob a pele (subcutaneamente).
+ Crianças com síndroma de Turner Administrar 0,045-0,050 miligramas (mg) por cada quilograma de peso corporal, uma vez por dia, sob a pele (subcutaneamente).
+ Crianças na pré-puberdade com insuficiência renal crónica Administrar 0,045-0,050 miligramas (mg) por cada quilograma de peso corporal, uma vez por dia, sob a pele (subcutaneamente).
+ 22 Adultos
+ Deficiência em hormona do crescimento em adultos Administrar 0,15-0,30 miligramas (mg) uma vez por dia sob a pele (subcutaneamente). Em doentes idosos ou obesos pode ser necessária uma dose inicial mais baixa.
+ Caso necessário, o seu médico aumentará gradualmente esta dose, de acordo com as suas necessidades individuais com base nos resultados clínicos e na medição dos seus níveis sanguíneos do chamado “ factor de crescimento ” (conhecido por IGF-1). A dose diária total não excede normalmente 1 mg. As concentrações de IGF-1 necessitam de ser medidas regularmente e devem ser mantidas abaixo do limite superior do intervalo normal para a sua idade e o seu sexo.
+ O seu médico vai prescrever sempre a dose mínima eficaz a ser utilizada.
+ Ajuste da dose Em doentes idosos pode ser necessária uma redução da dose.
+ A dose de somatropina deve ser reduzida em casos de inchaço de longa duração (edema) ou de uma sensação anormal grave (parestesia), de modo a evitar o desenvolvimento de um efeito secundário raro denominado síndroma do túnel carpal (mão dormente e dor).
+ Após utilizar o medicamento durante algum tempo pode ser necessário reduzir a dose, especialmente nos homens.
+ Se utilizar outros medicamentos, a dose de Valtropin ou do outro medicamento pode necessitar de ser ajustada (ver secção 2, ‘ Utilizar Valtropin com outros medicamentos ’).
+ Administração Valtropin destina-se a utilização por via subcutânea após a reconstituição. Isto significa que após a reconstituição do pó com o solvente fornecido, a solução é administrada com uma agulha curta no tecido gordo mesmo por baixo da pele.
+ Se for você próprio a administrar este medicamento, ser-lhe-á ensinado como preparar e administrar a injecção.
+ Não administre você próprio Valtropin, a menos que tenha sido instruído a fazê-lo.
+ Instruções detalhadas para a administração subcutânea são fornecidas neste folheto (ver secção ‘ Informação sobre como administrar a injecção de Valtropin a si próprio ’ no final deste folheto).
+ Se utilizar mais Valtropin do que deveria No caso de ter utilizado mais Valtropin do que recomendado, queira consultar o seu médico.
+ Se tiver utilizado demasiado Valtropin, inicialmente o açúcar no sangue pode diminuir e tornar-se demasiado baixo (hipoglicemia) e subsequentemente aumentar e tornar-se demasiado elevado (hiperglicemia). Se utilizou demasiado Valtropin durante um período mais longo, isto pode resultar num crescimento acima do normal de orelhas, nariz, lábios, língua e ossos da face (acromegalia).
+ Caso se tenha esquecido de utilizar Valtropin Não utilize uma dose a dobrar para compensar uma dose que se esqueceu de utilizar. Continue com o regime posológico prescrito. Se tiver dúvidas, contacte o seu médico.
+ Se parar de utilizar Valtropin Consulte o seu médico antes de parar o tratamento. Interrupção ou um fim precoce do tratamento com Valtropin pode prejudicar o sucesso da terapêutica com a hormona do crescimento.
+ 23 4. EFEITOS SECUNDÁRIOS POSSÍVEIS
+ Como os demais medicamentos, Valtropin pode causar efeitos secundários em algumas pessoas.
+ Os efeitos secundários dos medicamentos estão classificados do seguinte modo:
+ muito frequentes frequentes pouco frequentes raros muito raros
+ ocorrendo em mais de 1 em 10 doentes ocorrendo entre 1 em 100 e 1 em 10 doentes ocorrendo entre 1 em 1.000 e 1 em 100 doentes ocorrendo entre 1 em 10.000 e 1em 1.000 doentes ocorrendo em menos de 1 em 10.000 doentes incluindo comunicações isoladas
+ Pode sentir qualquer um dos seguintes efeitos secundários após a administração de Valtropin:
+ Efeitos gerais e locais • Fraqueza: pouco frequente • Dores e reacção no local da injecção: frequentes • Inchaço (edema local ou generalizado): frequente (mais comum em adultos do que em crianças)
+ Efeitos hormonais • Actividade subnormal da glândula tiroideia (hipotiroidismo): frequente • Desenvolvimento mamário (ginecomastia): muito raro (crianças); pouco frequente (adultos)
+ Efeitos no metabolismo: • Aumento ligeiro do açúcar no sangue (hiperglicemia ligeira): frequente • Resistência à insulina. Resistência à insulina significa que o efeito normal da insulina sobre as suas células musculares, de gordura e hepáticas é reduzido.
+ Efeitos neurológicos: • Sintomas de aumento benigno da pressão no cérebro (hipertensão intracraniana benigna): raros • Dores de cabeça: muito frequentes (adultos) • Insónia: muito rara (crianças); frequente (adultos) • Sensação anormal (parestesia): rara (crianças); muito frequente (adultos)
+ Efeitos vasculares • Pressão arterial elevada (hipertensão): rara (crianças); frequente (adultos)
+ Efeitos relacionados com as articulações e os músculos • Dor e doença articular (artralgia): muito frequente (adultos) • Dores musculares localizadas (mialgia): frequentes (adultos)
+ Como todos os medicamentos que contêm hormona do crescimento, uma pequena percentagem de doentes pode desenvolver químicos bloqueadores, denominados anticorpos, contra a hormona do crescimento. Num estudo clínico com Valtropin,3% de crianças com deficiência em hormona do crescimento desenvolveu esses anticorpos. Contudo, estes anticorpos não têm efeito sobre a resposta do crescimento ao Valtropin. Se não responde à terapêutica com Valtropin, o seu médico efectuará testes aos anticorpos.
+ Houve um doente (&lt; 1%) que teve reacções de hipersensibilidade agudas envolvendo urticária ou comichão (prurido) após a administração de Valtropin.
+ 24 Crianças Foi relatada leucemia num número reduzido de crianças tratadas com somatropina. Contudo, não existem provas de que a incidência da leucemia é aumentada nos doentes sem factores de risco tratados com somatropina.
+ Adultos Foram relatados inchaço, dores musculares, dores e doenças articulares no início da terapêutica com somatropina, mas estes efeitos tenderam a ser transitórios (de curta duração).
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR Valtropin • Manter fora do alcance e da vista das crianças. • Não utilize Valtropin após o prazo de validade impresso no rótulo e na embalagem exterior. O prazo de validade corresponde ao último dia do mês indicado.
+ Condições de conservação do produto fechado: • Conservar no frigorífico (2°C-8°C). Não congelar. • O produto não reconstituído pode ser mantido à temperatura ambiente (não acima de 25°C) durante um período único de até 4 semanas antes de utilizar.
+ Duração após a reconstituição com o solvente: • Após a reconstituição com o solvente fornecido, o produto pode ser conservado no frigorífico (2°C-8°C) durante um período máximo de 21 dias.
+ Duração após a reconstituição com água para preparações injectáveis (NÃO água da torneira): • Após a reconstituição com água para preparações injectáveis, o produto deve ser utilizado de imediato e como frascos de utilização única.
+ Não utilize Valtropin se verificar que o solvente ou a solução reconstituída se encontra turva ou descolorada.
+ Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Valtropin Pó: -A substância activa é a somatropina. Um frasco para injectáveis de pó contém 5 mg de
+ somatropina (correspondente a 15 UI). Após a reconstituição com 1,5 ml de solvente,1 ml contém 3,33 mg de somatropina (correspondente a 10 UI).
+ -Os outros componentes são glicina, manitol, fosfato de sódio, fosfato de sódio dibásico e para o
+ ajuste do pH hidróxido de sódio e ácido clorídrico.
+ Solvente: -A seringa pré-cheia contém água para preparações injectáveis e metacresol (ver secção 2,
+ ‘ Informações importantes sobre alguns componentes de Valtropin ’).
+ Qual o aspecto de Valtropin e conteúdo da embalagem
+ 25 Valtropin é apresentado na forma de pó e solvente para solução injectável.
+ Uma embalagem unitária contém: -1 frasco para injectáveis com pó branco ou quase branco
+ -1 seringa pré-cheia com 1,5 ml de solvente para reconstituição na forma de uma solução clara.
+ Titular da Autorização de Introdução no Mercado e Fabricante
+ BioPartners GmbH Eisenstrasse 3 D-65428 Rüsselsheim Alemanha Tel: +49 (0) 6142 70 8000 Fax: +49 (0) 6142 70 80 060
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de introdução no Mercado:
+ Belgique/België/Belgien Nycomed Belgium Chaussée de Gand 615 B-1080 Bruxelles/Brussel/Brüssel Tél/Tel: +32 2 464 06 11
+ Luxembourg/Luxemburg Nycomed Belgium Chaussée de Gand 615 B-1080 Bruxelles/Brüssel Belgique/Belgien Tél/Tel: +32 2464 06 11
+ Česká republika BioPartners GmbH Eisenstrasse 3 D-65428 Rüsselsheim Německo Tel: +49 (0) 6142 70 8000
+ Magyarország BioPartners GmbH Eisenstrasse 3 D-65428 Rüsselsheim Németország Tel: +49 (0) 6142 70 8000
+ Danmark Nycomed Danmark ApS Langebjerg 1 DK-4000 Roskilde Tlf: +45 46 77 11 11
+ Malta BioPartners GmbH Eisenstrasse 3 D-65428 Rüsselsheim Ġermanja Tel: +49 (0) 6142 70 8000
+ Deutschland BioPartners GmbH Eisenstrasse 3 D-65428 Rüsselsheim Tel: +49 (0) 6142 70 8000
+ Nederland Nycomed Nederland B. V. Nikkelstraat 5 NL-4823 AE Breda Tel: +31 76 548 16 00
+ Eesti Norge Nycomed SEFA AS Pirita tee 20T EE-10127 Tallinn Tel:+ 372 6112 569
+ Nycomed Pharma AS Drammensveien 852 NO-1372 Asker Tlf: +47 6676 3030
+ Ελλάδα Nycomed Hellas SA 196 Λεωφόρος Κηφισίας GR-15231 Χαλάνδρι, Aθήνα Τηλ: +30 210 672 9570
+ Österreich Nycomed Austria GmbH Lemböckgasse 49 A-1230 Wien Tel: +43 1601 340
+ 26 España BioPartners GmbH Eisenstrasse 3 D-65428 Rüsselsheim Alemania Tel: +49 (0) 6142 70 8000
+ Polska BioPartners GmbH Eisenstrasse 3 D-65428 Rüsselsheim Niemcy Tel: +49 (0) 6142 70 8000
+ France BioPartners GmbH Eisenstrasse 3 D-65428 Rüsselsheim Allemagne Tél: +49 (0) 6142 70 8000
+ Portugal BioPartners GmbH Eisenstrasse 3 D-65428 Rüsselsheim Alemanha Tel: +49 (0) 6142 70 8000
+ Ireland BioPartners GmbH Eisenstrasse 3 D-65428 Rüsselsheim Germany Tel: +49 (0) 6142 70 8000
+ Slovenija BioPartners GmbH Eisenstrasse 3 D-65428 Rüsselsheim Nemčija Tel: +49 (0) 6142 70 8000
+ Ísland Nycomed Langebjerg 1 DK-4000 Roskilde Danmörk Tel: +45 46 77 11 11
+ Slovenská republika BioPartners GmbH Eisenstrasse 3 D-65428 Rüsselsheim Nemecko Tel: +49 (0) 6142 70 8000
+ Italia BioPartners GmbH Eisenstrasse 3 D-65428 Rüsselsheim Germania Tel: +49 (0) 6142 70 8000
+ Suomi/Finland Oy Leiras Finland Ab PL/PB 1406 FIN-00101 Helsinki Puh/Tel: +358 20 746 5000
+ Κύπρος BioPartners GmbH Eisenstrasse 3 D-65428 Rüsselsheim Γερμανία Τηλ: +49 (0) 6142 70 8000
+ Sverige Nycomed AB Box 27264 SE-102 53 Stockholm Tel: +46 8 731 28 00
+ Latvija Nycomed East Europe Vairoga 4 LV-1039 Riga Tel: +371 784 0082
+ United Kingdom Cambridge Laboratories Deltic House Kingfisher Way Silverlink Business Park Wallsend Tyne &amp; Wear NE28 9NX-UK Tel: +44 (0) 191 296 9369
+ Lietuva Austrijos bendroves" Nycomed Osteuropa Marketing Service GmbH" atstovybe Seimyniskiu 3 LT-09312 Vilnius Tel: +370 521 09 070
+ 27 Este folheto foi aprovado pela última vez em{ MM/AAAA}
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia do Medicamento (EMEA): http: //www. emea. europa. eu
+ -------------------------------------------------------------------------------------------------------------------------
+ INFORMAÇÃO SOBRE COMO ADMINISTRAR A INJECÇÃO DE Valtropin A SI PRÓPRIO
+ Leia cuidadosamente as instruções seguintes antes de utilizar Valtropin.
+ Introdução As seguintes instruções explicam como administrar a injecção de Valtropin a si próprio. Leia as instruções cuidadosamente e siga-as passo a passo. O seu médico e o/a seu/sua assistente demonstrarão como deve administrar a injecção de Valtropin a si próprio. Não tente injectar-se, a menos que tenha a certeza que entende o procedimento e os requisitos da injecção.
+ Notas gerais Valtropin não deve ser reconstituído com o solvente fornecido para doentes com sensibilidade conhecida ao metacresol (ver secção 2, ‘ Não utilize Valtropin ’). Se ocorrer sensibilidade ao solvente fornecido, os frascos para injectáveis devem ser reconstituídos com água para preparações injectáveis (ver secção 5 ‘ Como conservar Valtropin ’). Não utilize água da torneira.
+ Reúna os itens necessários antes de começar. Estes são: Fornecidos na embalagem
+ • •
+ o frasco para injectáveis de Valtropin com pó para solução injectável a seringa pré-cheia com 1,5 ml de solvente para solução injectável
+ NÃO fornecidos na embalagem
+ • • • • •
+ seringa e agulhas estéreis para injecção compressas embebidas em álcool gaze seca ou disco de algodão um penso adesivo recipiente para eliminação de seringas e agulhas.
+ Preparar a solução 1. Lave as mãos cuidadosamente com água e sabão antes de preparar o medicamento. 2. Retire a embalagem exterior de Valtropin do frigorífico e retire da caixa o frasco para injectáveis de pó e a seringa pré-cheia com solvente. Verifique se o medicamento se encontra dentro do prazo de validade. 3. Remova a cápsula de fecho de plástico protectora do frasco para injectáveis com pó.
+ 4. Limpe a rolha de borracha no topo do frasco para injectáveis com pó com uma compressa embebida em álcool. Após a limpeza, não toque no topo do frasco para injectáveis.
+ 28 Frasco para injectáveis que contém o pó do seu medicamento
+ 5. Segure na seringa pré-cheia com solvente fornecida na embalagem para preparar o seu medicamento. Remova a tampa de borracha e conecte uma agulha firmemente à seringa. O seu médico e o/a seu/sua assistente informá-lo-ão sobre qual o tamanho de agulha que deve utilizar.
+ 6. Remova a protecção da agulha sem tocar na agulha.
+ 7. Insira lentamente a agulha directamente através do centro da rolha de borracha do frasco para injectáveis.
+ 8. Injecte lentamente todo o solvente (1,5 ml) para dentro do frasco para injectáveis com pó apontando o jacto de líquido contra a parede do mesmo. NÃO o aponte ao pó branco no fundo do frasco para injectáveis.
+ Antes de retirar a seringa do frasco para injectáveis, aspire a mesma quantidade de ar (1,5 ml) do solvente que injectou para reduzir a pressão no frasco. Retire a seringa e volte a colocar a protecção da agulha.
+ 9. Gire o frasco para injectáveis SUAVEMENTE para dissolver o conteúdo completamente. NÃO AGITAR.
+ 29 Dissolver o medicamento
+ 10. A solução resultante deve ser límpida, sem partículas. 11. Rotule o frasco para injectáveis com a data na qual preparou a solução.
+ Preparar a injecção 12. Limpe novamente a rolha de borracha no topo do frasco para injectáveis com pó com uma compressa embebida em álcool. Após a limpeza, não toque no topo do frasco para injectáveis.
+ Frasco para injectáveis que contém a solução do medicamento
+ 13. Pegue na seringa para injecção e na agulha fornecidas pela sua farmácia ou pelo seu hospital para recolher a solução do medicamento. Remova a seringa para injecção da sua embalagem estéril e conecte a agulha à seringa.
+ 14. Encha a seringa com ar puxando o êmbolo para trás até ao nível que representa a sua dose, conforme prescrito pelo seu médico.
+ 15. Remova a protecção da agulha sem tocar na agulha.
+ 16. Insira lentamente a agulha directamente através do centro da rolha de borracha do frasco para injectáveis.
+ 30 17. Empurre suavemente o êmbolo para descarregar o ar da seringa para dentro do frasco para injectáveis. 18. Vire o frasco para injectáveis para baixo com a agulha ainda no seu interior e segure-o numa mão. Mantenha a seringa com a agulha no frasco para injectáveis a apontar para cima. Certifique-se de que a ponta da agulha se encontra na solução. Usando a outra mão, puxe o êmbolo para trás num movimento contínuo para recolher a dose correcta para dentro da seringa, certificando-se de que a ponta da agulha permanece na solução.
+ Recolher o volume correcto do medicamento com a ajuda das marcas na seringa
+ 19. Remova a seringa da agulha deixando a agulha no frasco para injectáveis sem tocar na ponta da seringa. Retire a agulha, volte a colocar a protecção da agulha e elimine-a num recipiente fechado. Para manusear o frasco para injectáveis, ver ‘ Injectar a solução ’, passo 32.
+ 20. Pegue numa nova agulha (uma que esteja indicada para a injecção subcutânea) e coloque-a firmemente na ponta da seringa.
+ Seringa que contém o medicamento ao ser conectada a uma nova agulha
+ 21. Remova a protecção da agulha da seringa e verifique a seringa quanto a bolhas de ar.
+ 22. Se verificar que existem bolhas, puxe o êmbolo ligeiramente para trás; com a agulha a apontar para cima, bata suavemente na seringa até que as bolhas desapareçam. Empurre o êmbolo lentamente para trás até à dose correcta.
+ 31 23. Volte a colocar a protecção da agulha e coloque a seringa com a agulha sobre uma superfície plana.
+ Injectar a solução 24. Certifique-se de que a solução se encontra à temperatura ambiente. Se a solução estiver fria, aqueça a seringa entre as suas mãos. 25. Inspeccione a solução antes de administrar: se a solução estiver descolorada ou se conseguir ver partículas sólidas no líquido, a solução NÃO DEVE ser injectada. 26. Seleccione o local da injecção de acordo com as recomendações do seu médico. É muito importante que varie o local da injecção de cada vez que administra o medicamento. 27. Limpe o local da injecção com uma compressa embebida em álcool e espere que a zona seque. 28. Verifique se a dose correcta da solução de Valtropin se encontra na seringa. Segure a seringa nas suas mãos tal como seguraria um lápis. 29. Aperte uma prega grande de pele entre o polegar e o dedo indicador. Insira a agulha na pele apertada num ângulo de 45° a 90° com um movimento firme e rápido. Isto dói menos que empurrar a agulha lentamente. 30. Injecte a solução lentamente (durante alguns segundos) premindo o êmbolo suavemente até que a seringa fique vazia. 31. Retire a agulha rapidamente e aplique pressão no local da injecção com uma gaze seca ou um disco de algodão durante vários segundos. No caso de haver uma hemorragia, cubra o local da injecção com um penso adesivo. 32. Elimine a seringa utilizada num recipiente fechado. Certifique-se de que volta a colocar o frasco para injectáveis no frigorífico. Quando o frasco para injectáveis ficar vazio, elimine-o também. Duração após a reconstituição, ver secção 5 ‘ Como conservar Valtropin ’). No caso do pó ser reconstituído com água para preparações injectáveis, o frasco para injectáveis destina-se a uma única utilização. A solução não utilizada deve ser eliminada.
+ 32

@@ -1,0 +1,219 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. DENOMINAÇÃO DO MEDICAMENTO
+ TESLASCAN 0,01 mmol/ml solução para perfusão
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada ml contem 7,57 mg de mangafodipir trissódico anidro, a 0,01 mmol (10 µmol), equivalente a 6,91 mg de mangafodipir. 50 ml contêm 378,5 mg de mangafodipir trissódico anidro, a 0,50 mmol (500 µmol), equivalente a 345,5 mg de mangafodipir.
+ Excipiente: 0,16 mmol (3,6 mg) de sódio/ml, equivalente a 126 mg por dose normal de 35 ml.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Solução para perfusão. Solução límpida de cor amarelo vivo a amarelo escuro.
+ TESLASCAN tem as seguintes características físico-químicas:
+ pH: 7,0 – 8,0 Osmolalidade (mosmol/kg H2O) a 37 °C Viscosidade (mPa⋅s) a 20 °C Viscosidade (mPa⋅s) a 37 °C Densidade (g/ml) a 20 °C
+ 290 1,0 0,7 1,01 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Este medicamento é apenas para uso em diagnóstico. Meio de contraste para o diagnóstico por Imagiologia por Ressonância Magnética (IRM) para a detecção de lesões hepáticas que se suspeita sejam devidas a doença metastática ou carcinoma hepatocelular. Utiliza-se também como co-adjuvante para IRM para auxílio do estudo das lesões pancreáticas focais.
+ 4.2 Posologia e modo de administração O medicamento destina-se apenas a utilização endovenosa única, uma vez que não foi investigada a sua utilização em doses repetidas. Deve ser administrado como infusão endovenosa à taxa de 2-3 ml/min para imagiologia hepática e à taxa de 4 – 6 ml/min para imagiologia do pâncreas.
+ A intensificação quasi-máxima da imagem dos parênquimas hepático e pancreático normais é geralmente observada 15-20 minutos após o início da administração e mantém-se durante cerca de 4 horas.
+ Na dose clínica, o agente de contraste não tem efeito T2 e as imagens avaliadas antes e após ponderação por T2 são equivalentes. O uso clínico de TESLASCAN foi estudado a intensidades de campo de 0,5 a 2,0 Tesla.
+ 2 Dosagem para adultos A dose recomendada é de 0,5 ml/kg peso corporal (5 μmol/kg peso corporal), correspondente a uma dose de 35 ml para uma pessoa com 70 kg. Acima dos 100 kg de peso,50 ml são geralmente suficientes para fornecer um efeito de contraste apropriado para diagnóstico.
+ Dosagem para idosos Não foi investigada a farmacocinética em idosos. No entanto, os estudos clínicos até à presente data não sugerem que seja necessário um aumento da dose.
+ Crianças e adolescentes A segurança e a eficácia em doentes com idade inferior a 18 anos não foram documentadas, isto é, em crianças (2-11 anos) e adolescentes (12-18 anos).
+ 4.3 Contra-indicações Hipersensibilidade à substância activa ou qualquer um dos excipientes. Gravidez e aleitamento. Feocromocitoma. Insuficiência hepática grave (Child Pugh Classe C), doença hepato-biliar obstrutiva particularmente grave. Insuficiência renal grave.
+ 4.4 Advertências e precauções especiais de utilização
+ Podem ocorrer raramente reacções de hipersensibilidade (urticária e outros fenómenos de alergia) ou reacções anafilactóides. É essencial a familiarização com a prática e técnica de reanimação e tratamento da anafilaxia. Os medicamentos e instrumentos apropriados deverão estar imediatamente disponíveis.
+ Deve prestar-se especial atenção aos doentes com doença cardíaca grave e aos doentes com lesões na barreira hematoencefálica ou com doença cerebral grave.
+ O facto de que a nutrição parentérica a longo prazo com adição suplementar de manganês pode provocar acumulação do mesmo nos gânglios basais deve ser equacionado aquando da administração de TESLASCAN a doentes que sigam este tratamento.
+ Este medicamento contém 5,5 mmol (126 mg) de sódio por dose de 35 ml. Esta informação deve ser tida em consideração em doentes com ingestão controlada de sódio.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Não foram realizados estudos de interacção.
+ 4.6 Gravidez e aleitamento Gravidez A segurança do TESLASCAN na gravidez humana não foi estabelecida. O TESLASCAN não deve ser utilizado durante a gravidez (ver secção 4.3.). Antes da administração de TESLASCAN a mulheres em idade fértil, deve certificar-se de que estas não estejam grávidas.
+ Estudos pré-clinicos em ratos estabeleceram efeitos teratogénicos quando o TESLASCAN foi administrado repetidamente durante o principal período de organogénese. TESLASCAN provoca fetotoxicidade e embriotoxicidade no coelho. TESLASCAN não é teratogénico no coelho. O TESLASCAN não tem efeito na fertilidade dos ratos, machos ou fêmeas.
+ 3 Aleitamento O grau de excreção para o leite materno não é conhecido. O aleitamento deverá ser interrompido desde o inicio da administração e apenas deve ser retomado 14 dias após o término da administração do TESLASCAN.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas.
+ 4.8 Efeitos indesejáveis A maior parte das reacções adversas registadas foram transitórias e de pouca intensidade. As registadas com maior frequência foram: sensação de calor/enrubescimento, dores de cabeça e náuseas. Nos ensaios clínicos com Teslascan, foram notificadas reacções adversas com a frequência apresentada no quadro abaixo: muito frequentes (≥1/10); frequentes (≥1/100 a &lt; 1/10); pouco frequentes (≥1/1.000 a &lt; 1/100); raros (≥1/10.000 a &lt; 1/1.000); muito raros (&lt; 1/10.000), desconhecido (não pode ser calculado a partir dos dados disponíveis). Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ Classes de Sistemas de Órgãos Reacções Adversas Frequência Doenças do sistema imunitário Reacções de hipersensibilidade (tais como, reacções da pele, rinite, faringite)
+ Pouco frequentes Reacções anafilácticas/anafilactóides Desconhecido Doenças do sistema nervoso Cefaleias Frequente Tonturas, paraestesia, sensações transitórias de paladar alterado
+ Pouco frequentes Afecções oculares Cardiopatias
+ Perturbação visual Palpitações
+ Muito raro Pouco frequente Vasculopatias Doenças gastrointestinais
+ Hipertensão Náuseas
+ Raro Frequente Dores abdominais, diarreia, vómitos Pouco frequente Flatulência Muito raro Perturbações gerais e alterações no local da administração
+ Enrubescimento, sensação de calor Frequente Febre, dor no local da administração Pouco frequente Dores no peito Muito raro O mangafodipir pode ocasionar aumentos de bilirrubina e transaminases hepáticas e diminuição do zinco plasmático de maneira transitória.
+ A frequência das reacções adversas não graves, leves e moderadas, principalmente calor e enrubescimento passageiros, parece ser aumentada quando o TESLASCAN é administrado à mais elevada taxa de administração aconselhada (4 – 6 ml/min).
+ 4 4.9 Sobredosagem
+ Não foram registadas reacções adversas graves com dosagens até 5 vezes a dose clínica normal (dose máxima investigada) em sujeitos saudáveis.
+ Doses elevadas de manganês podem ter efeitos inotrópicos negativos e vasodilatadores, bem como efeitos sobre o ritmo cardíaco como consequência do antagonismo do cálcio e a condutividade.
+ O tratamento de uma sobredosagem deve ser sintomático e direccionado ao suporte de funções vitais. Não existe nenhum antídoto para este meio de contraste.
+ O mangafodipir e os seus metabolitos são dialisáveis, enquanto que o manganês não é dialisável por causa da ligação às proteínas (ver também secção 5.2).
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: meio de contraste IRM paramagnético, código ATC: V08C A05
+ O mangafodipir é um quelato que contém manganês metálico-que tem propriedades paramagnéticas e é responsável pelo aumento de contraste no IRM-e um ligando: o fodipir (difosfato dipiridoxil). O manganês é captado preferencialmente pelo parênquima hepático normal e também pelo pâncreas, portanto deve esperar-se um aumento do contraste entre os tecidos anormais e normais.
+ O efeito do mangafodipir é encurtar o tempo de relaxamento longitudinal (T1) dos tecidos alvo durante a IRM, conduzindo a um aumento da intensidade do sinal (brilho) dos parênquimas hepático e pancreático, por exemplo. A intensificação de imagem em ambos os órgãos aproxima-se do seu valor máximo até cerca de 4 horas após o fim da administração. A lesão relacionada com o realce de determinados tipos de lesões, tais como metástases hepáticas e carcinomas hepatocelulares, pode ser detectável até 24 horas depois. Estudos clínicos demonstraram que o mangafodipir facilita a detecção das lesões hepáticas nos doentes que as apresentem.
+ TESLASCAN é isotónico com o sangue e os líquidos orgânicos normais.
+ 5.2 Propriedades farmacocinéticas O mangafodipir trissódico é metabolizado (desfosforilado) e os iões de manganês são libertados do mangafodipir por intercâmbio com o zinco do plasma (principalmente) após administração endovenosa, sendo o manganês e o ligando (fodipir), que têm propriedades farmacocinéticas diferentes, eliminados por diferentes vias.
+ A semi-vida inicial média do manganês no plasma é de 20 minutos ou menos, com uma captação significativa no fígado, pâncreas, rins e baço. A semi-vida inicial do ligando no plasma é de cerca de 50 minutos. O volume de distribuição para o manganês situa-se entre 0,5 e 1,5 l/kg, e para o fodipir entre 0,17 e 0,45 l/kg. Após metabolizado, quase todo o ligando (fodipir) é excretado na urina num espaço de 24 horas, com quantidades insignificantes eliminadas através das fezes. Cerca de 15-20% do manganês é eliminado através da urina nas primeiras 24 horas e a maior parte do remanescente é eliminado nas fezes durante os quatro dias seguintes.
+ No sangue humano total in vitro, a fracção de manganês ligada às proteínas é cerca de 27%, mas a ligação de fodipir às proteínas é insignificante.
+ 5.3 Dados de segurança pré-clínica 5 Estudos não clínicos não revelam riscos especiais para o ser humano, segundo estudos convencionais de genotoxidade, farmacologia de segurança e de cinética e metabolismo para validação. As reacções adversas mais relevantes nos estudos de toxicidade de doses repetidas foram: Observou-se toxicidade hepática (colangiohepatite) em doses relativamente baixas administradas em cães, enquanto que em ratos e macacos as margens de segurança observadas foram satisfatórias.
+ Mangafodipir é teratogénico em ratos, provoca um aumento das anomalias do esqueleto do feto quando administrado diariamente por meio de injecção endovenosa em ratos fêmeas em doses ligeiramente superiores às clínicas. Em coelhos observou-se embrio-e fetotoxicidade.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Ácido ascórbico Cloreto de sódio Hidróxido de sódio e/ou ácido clorídrico (aumento do pH) Água para injecções
+ 6.2 Incompatibilidades Este medicamento não deve ser misturado com outros.
+ Deve ser utilizada uma cânula separada. 6.3 Prazo de validade Embalagem fechada: 2 anos Depois de aberto, o medicamento deve ser usado de imediato.
+ 6.4 Precauções especiais de conservação
+ Manter o frasco para injectáveis dentro da embalagem exterior para proteger da luz. O medicamento deve ser usado de imediato após a primeira abertura (ver secção 6.3).
+ 6.5 Natureza e conteúdo do recipiente Frascos para injectáveis de 50 ml, transparentes, incolores (vidro tipo I). Os recipientes são fechados com rolhas de borracha e selados com cápsulas de alumínio com tampas em polipropileno. TESLASCAN apresenta-se em embalagens de 1 frasco para injectáveis x 50 ml e de 10 frascos para injectáveis x 50 ml.
+ É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ Os frascos para injectáveis de TESLASCAN devem ser inspeccionados visualmente relativamente à existência de partículas e à integridade do recipiente antes da utilização. Os frascos para injectáveis são destinados apenas a uma utilização e quaisquer porções não usadas devem ser inutilizadas.
+ O volume necessário a administrar ao doente deve ser e qualquer volume em excesso deve ser retirado do frasco para injectáveis antes da perfusão.
+ Os tubos de ligação podem ser lavados com um fluxo de soro fisiológico (9 mg de cloreto de sódio/ml (0,9% )), para garantir uma administração completa do meio de contraste.
+ 6 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ GE Healthcare AS Nycoveien 1-2, P. O. Box 4220 Nydalen NO-0401 OSLO, NORUEGA
+ 8. NÚMEROS DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/97/040/001 EU/1/97/040/002 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 22. 05.1997 Data da última renovação: 22. 05.2007
+ 10. DATA DE REVISÃO DO TEXTO 7 ANEXO II
+ A. TITULAR DE AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 8 A. TITULAR DE AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do fabricante responsável pela libertação do lote
+ GE Healthcare AS Nycoveien 1-2 P. O. Box 4220 Nydalen NO-0401 Oslo Noruega
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento sujeito a receita médica. • CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ Não aplicável. 9 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 10 A. ROTULAGEM
+ 11 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ 1 x 50 ml,10 x 50 ml 1. DENOMINAÇÃO DO MEDICAMENTO TESLASCAN 0,01 mmol/ml solução para perfusão. Mangafodipir trissódico
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ 1 ml contém: 7,57 mg de mangafodipir trissódico anidro, a 0,01 mmol (10 µmol), equivaente a 6,91 mg de mangafodipir.
+ 3. LISTA DOS EXCIPIENTES Ácido ascórbico Cloreto de sódio Hidróxido de sódio ou ácido clorídrico Água para solução injectável Também contém sódio: 0,16 mmol (3,6 mg) por ml. Ver folheto informativo para mais informações.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Solução para perfusão. 1 x 50 ml 10 x 50 ml
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Meio de contraste IRM Para perfusão intravenosa Consultar o folheto informativo.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ Cada frasco para injectáveis deve ser utilizado apenas num só doente. Rejeitar as soluções não utilizadas.
+ 12 8. PRAZO DE VALIDADE
+ VAL.: 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Manter o frasco para injectáveis dentro da embalagem exterior para proteger da luz.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ GE Healthcare AS Nycoveien 1-2 NO-0401 Oslo, Noruega
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/97/040/001 EU/1/97/040/002 13. NÚMERO DO LOTE Lote: 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE A justificação para não incluir a informação em Braille foi aceite
+ 13 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO PRIMÁRIO
+ 50 ml 1. DENOMINAÇÃO DO MEDICAMENTO TESLASCAN 0,01 mmol/ml solução para perfusão Mangafodipir trissódico
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ 1 ml contém: 7,57 mg de mangafodipir trissódico anidro, a 0,01 mmol (10 µmol), equivalente a 6,91 mg de mangafodipir.
+ 3. LISTA DOS EXCIPIENTES Ácido ascórbico Cloreto de sódio Hidróxido de sódio ou ácido clorídrico Água para solução injectável Também contém sódio: 0,16 mmol (3,6 mg) por ml. Ver folheto informativo para mais informações.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Solução para perfusão 50 ml 5. MODO E VIA(S) DE ADMINISTRAÇÃO Meio de contraste IRM Para perfusão intravenosa Consultar o folheto informativo
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ Cada frasco para injectáveis deve ser utilizado apenas num só doente. Rejeitar as soluções não utilizadas.
+ 8. PRAZO DE VALIDADE 14 VAL.:
+ 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Manter o frasco para injectáveis dentro da embalagem exterior para proteger da luz.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ GE Healthcare AS NO-0401 Oslo 13. NÚMERO DO LOTE Lote: 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE A justificação para não incluir a informação em Braille foi aceite -------------------------------------------------------------------------
+ As etiquetas serão concebidas como etiquetas triplas da mesma maneira que para os nossos outros meios de contraste. Pretende-se que as etiquetas destacáveis sejam coladas nos registos diários do paciente e na seringa, se esta for utilizada.
+ Texto das duas etiquetas destacáveis: TESLASCAN 50 ml Lote:
+ 15 B. FOLHETO INFORMATIVO
+ 16 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ TESLASCAN 0,01 mmol/ml solução para perfusão Mangafodipir trissódico
+ Leia atentamente este folheto antes de utilizar o medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer outros efeitos secundários
+ não mencionados neste folheto, informe o seu médico ou farmacêutico
+ Neste folheto: 1. O que é TESLASCAN e para que é utilizado 2. Antes de utilizar TESLASCAN 3. Como utilizar TESLASCAN 4. Efeitos secundários possíveis 5. Como conservar TESLASCAN 6. Outras informações
+ 1. O QUE É TESLASCAN E PARA QUE É UTILIZADO
+ TESLASCAN é um meio de contraste paramagnético utilizado em conexão com a Imagiologia por Ressonância Magnética (IRM), para melhorar a informação diagnóstica.
+ Este medicamento é apenas para uso em diagnóstico. O TESLASCAN é utilizado em Imagiologia por Ressonância Magnética (IRM) para detecção de determinadas lesões hepáticas e pancreáticas.
+ 2. ANTES DE UTILIZAR TESLASCAN Não utilize TESLASCAN caso exista uma das seguintes condições: Gravidez
+ -
+ Alergia (hipersensibilidade) à substância activa ou a qualquer outro componente de
+ -
+ TESLASCAN Feocromocitoma
+ -
+ Amamentação
+ -
+ Doença renal grave
+ -
+ Doença hepática grave
+ -
+ Tome especial cuidado com TELASCAN quando se verifique uma das seguintes condições: Doença cardíaca grave-em particular enfarte ou quando existe risco de transtornos do ritmo
+ -
+ cardíaco.
+ -Em doentes com lesões na barreira hematoencefálica ou com doença cerebral grave.
+ Podem ocorrer, raramente, reacções de hipersensibilidade (urticária e outros possíveis fenómenos alérgicos).
+ Utilizar TESLASCAN com outros medicamentos: Informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica.
+ Gravidez e aleitamento TESLASCAN não deve ser utilizado se estiver grávida.
+ 17 A quantidade de TESLASCAN excretada no leite materno não é conhecida. Como precaução e para prevenir a exposição das crianças ao medicamento deve interromper-se o aleitamento a partir do início da administração e todo o leite deverá ser eliminado durante os primeiros 14 dias posteriores à administração.
+ Condução de veículos e utilização de máquinas: Não se conhecem efeitos. Não existe razão pela qual não se possa conduzir veículos após o exame, excepto se sentir tonturas ou se se sentir inseguro.
+ Informações importantes sobre alguns componentes de TESLASCAN Este medicamento contém 5,5 mmol (126 mg) de sódio por dose de 35 ml. Esta informação deve ser tida em consideração em doentes com ingestão controlada de sódio.
+ 3. COMO UTILIZAR TESLASCAN O TESLASCAN é concebido para utilização em doentes com mais de 18 anos.
+ Posologia: A quantidade a administrar vai depender do peso do doente: a dose recomendada para adultos e idosos é de 0,5 ml/kg de peso corporal.
+ O TESLASCAN é concebido para utilização por via intravenosa e deverá ser infundido antes do exame por IRM. TESLASCAN pode ser injectado na veia, normalmente na veia do braço, por meio dum tubo fino de plástico. A administração pode durar até 15-20 minutos.
+ Antes da sua utilização, o TESLASCAN deverá ser inspeccionado visualmente para comprovar a ausência de partículas e a integridade do recipiente. As ampolas são exclusivamente para uma única administração. Esta especialidade farmacêutica não deve ser misturada com outros medicamentos. As porções que não forem utilizadas devem ser eliminadas.
+ Sobredosagem Não se conhecem antídotos para este meio de contraste. O tratamento de qualquer sobredosagem realizar-se-á no hospital. O tratamento será sintomático para o alívio dos sintomas.
+ Doses altas de manganés pode tornar a válvula cardíaca menos eficiente, dilatar os vasos sanguíneos, assim como induzir distúrbios do ritmo cardíaco.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como os demais medicamentos, TESLASCAN pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ Os efeitos secundários notificados são principalmente transitórios e de intensidade moderada:
+ Frequentes (1 em 100 a 1 em 10 doentes tiveram o efeito secundário): • Dores de cabeça • Náuseas • Sensação de calor/enrubescimento
+ Pouco frequentes (1 em 1.000 a 1 em 100 doentes tiveram o efeito secundário): • reacções de hipersensibilidade (como por exemplo, reacções da pele, rinite (catarro nasal), faringite (inflamação da garganta) • Febre
+ 18
+ • • • • • • • •
+ Diarreia Vómitos Tonturas Palpitações Parestesia (sensação de formigueiro) Dor abdominal Dor no local da administração Alterações do paladar
+ Raros (1 em 10.000 a 1 em 1.000 doentes tiveram o efeito secundário): • Hipertensão
+ Muitos raros (menos de 1 em 10.000 tiveram o efeito secundário): • Alterações visuais • Dores no peito • Flatulência
+ Podem ocorrer reacções anafilactóides (respiração ofegante, dificuldades respiratórias ou tensão ou dor no peito).
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu radiologista/radiografista ou o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR TESLASCAN Manter fora do alcance e da vista das crianças.
+ Prazo de validade Não utilize TESLASCAN após o prazo de validade impresso no rótulo, a seguir a VAL. O prazo de validade corresponde ao último dia do mês indicado.
+ Precauções de armazenamento Manter o frasco para injectáveis dentro da embalagem exterior para proteger da luz.
+ Depois de aberto, o medicamento deve ser usado de imediato. Para uso único. Qualquer porção restante deve ser rejeitada. Não utilize TESLASCAN se verificar que a coloração passou de amarelo escuro para castanho.
+ Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de TESLASCAN -A substância activa é mangafodipir trissódico.
+ 1 ml de solução contém 7,57 mg de mangafodipir trissódico anidro (equivalente a 0,01 mmol por ml).
+ -Os outros componentes são ácido ascórbico, cloreto de sódio, hidróxido de sódio e/ou ácido
+ clorídrico (para ajustamento do pH) e água para solução injectável.
+ 19 Qual o aspecto de TESLASCAN e conteúdo da embalagem Solução para perfusão. A solução é límpida de cor amarela viva a amarelo escuro.
+ O medicamento é apresentado em embalagens de: 1 frasco para injectáveis de 50 ml 10 frascos para injectáveis de 50 ml
+ É possível que não sejam comercializadas todas as apresentações.
+ Titular da Autorização de Introdução no Mercado e Fabricante
+ GE Healthcare AS Nycoveien 1-2 P. O. Box 4220 Nydalen NO-0401 OSLO, Noruega
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado:
+ België/Belgique/Belgien GE Healthcare BVBA Kouterveldstraat 20 BE-1831 Diegem Tél/Tel:+ 32 (0) 2 719 74 01
+ Luxembourg/Luxemburg GE Healthcare BVBA Kouterveldstraat 20 BE-1831 Diegem België/Belgique/Belgien Tél/Tel:+ 32 (0) 2 719 74 01
+ България GE Healthcare SCE Handels GmbH Representative Office Bulgaria World Trade Centre, Office 405-406 бул. Драган Цанков 36 София 1040 Teл.:+ 35 92 973 3170
+ Magyarország GE Healthcare SCE Handels GmbH Hungary Representative Office Akron u.2. H-2040 BUDAÖRS Tel.+ 36 23 410 410
+ Česká republika GE Healthcare SCE Handels GmbH Branch Office Czech Republic Vyskočilova 1422/1a CZ-140 28 Praha 4 Tel:+ 420 224 446 179
+ Malta Pharma-Cos Ltd Triq C. Portanier MT-Santa Venera HMR 11 Tel: +356 21 441870
+ Danmark GE Healthcare A/S Huginsvej 8 DK-3400 Hillerød Tlf:+ 45 70 22 22 03
+ Nederland GE Healthcare BV Cygne Centre De Rondom 8 NL-5612 AP Eindhoven Tel:+ 31 40 299 10 00
+ Deutschland GE Healthcare Buchler GmbH &amp; Co. KG Gieselweg 1 D-38110 Braunschweig Tel:+ 49 5307 9300
+ Norge GE Healthcare AS Nycoveien 1-2 NO-0401 Oslo Tlf:+ 47 23 18 50 50
+ 20 Eesti Österreich GE Healthcare Estonia OÜ Mustamäe tee 46 EE – 10621 Tallinn Tel:+ 372 6260 061
+ GE Healthcare Handels GmbH Europlaza, Gebäude E Technologiestrasse 10 A-1120 Wien Tel:+ 43 1 972 72-0
+ Ελλάδα GE Healthcare A. E. Πλαπούτα 139 &amp; Λαμίας GR – 141 21 Ν. ΗΡΑΚΛΕΙΟ ΑΘΗΝΑ Τηλ: +30 210 805 08 64
+ Polska GE Healthcare SCE Handels GmbH Poland Representative Office 2 Stawki Str. PL – 00193 Warszawa Tel.:+ 48 22 635 6886/6113
+ España GE Healthcare Bio-Sciences, S. A. Avda. de Europa,22
+ Portugal Satis Lda. Av. Do Forte, No 4 Parque Empresarial ” La Moraleja ” E-28108 Alcobendas, Madrid Tel:+ 34 91 663 25 00
+ P-2795-502 Carnaxide Tel:+ 351 214 25 1300
+ France GE Healthcare SA 11, avenue Morane Saulnier F-78 140 Velizy Villacoublay Tél:+ 33 1 34 49 54 54
+ România GE Healthcare SCE Handels GmbH Representative Office Romania Str. Navodari Nr. 42 Sc.2, et.2 RO-014108 BUCHAREST Tel:+ 40 21 23 211 53
+ Ireland GE Healthcare Limited Amersham Place Little Chalfont HP7 9NA-UK Tel:+ 44 (0) 1 494 54 4000
+ Slovenija HIGIEA d. o. o. Blatnica 10 SI-1236 Trzin Tel:+ 386 1 589 7221
+ Ísland Isfarm ehf. Lyngháls 13 IS-110 Reykjavik Sími: +354 540 8024
+ Slovenská republika GE Healthcare SCE Handels GmbH Branch Office Slovakia Floriánske nám. 2 SK-811 07 Bratislava Tel:+ 421 2 5542 5948
+ Italia GE Healthcare Srl Via Galeno 36 I-20126 Milano Tel:+ 39 02 26001 111
+ Suomi/Finland Oy GE Healthcare Bio-Sciences Ab Kuortaneenkatu 2 FIN-00510 Helsinki Puh/Tel:+ 35 810 394 11
+ Κύπρος Phadisco Ltd Λεωφόρος Γιάννου Κρανιδιώτη 185 CΥ-2235 Λατσιά Τηλ: +357 22 715000
+ Sverige GE Healthcare AB Solna Strandväg 98 S-171 75 Stockholm Tel:+ 46 8 559 504 00
+ 21 Latvija Instrumentarium Medical SiA Meza Str. 4 LV-1048 Riga Tel:+ 371 780 7086
+ United Kingdom GE Healthcare Limited Amersham Place Little Chalfont HP7 9NA – UK Tel:+ 44 (0) 1 494 54 4000
+ Lietuva Nycomed East Europe Marketing Service GmbH Šeimyniškiu 3 LT – 09312 Vilnius Tel. +370 5210 9071
+ Este folheto foi aprovado pela última vez em
+ 22

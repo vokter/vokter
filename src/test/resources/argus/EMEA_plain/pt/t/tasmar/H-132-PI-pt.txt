@@ -1,0 +1,588 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. DENOMINAÇÃO DO MEDICAMENTO
+ Tasmar 100 mg comprimidos revestidos por película.
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada comprimido revestido por película contém 100 mg de tolcapone. Excipientes, ver secção 6.1
+ 3. FORMA FARMACÊUTICA Tasmar 100 mg é um comprimido revestido por película, biconvexo, hexagonal, de cor amarelo pálido a amarelo claro. Tem a inscrição “ TASMAR ” e “ 100 ” numa face.
+ 4. INFORMAÇÕES CLÍNICAS Uma vez que Tasmar só deve ser usado em combinação com levodopa/benserazida e levodopa/carbidopa, a informação sobre prescrição destas preparações de levodopa é também aplicável ao seu uso concomitante com Tasmar.
+ 4.1 Indicações terapêuticas Tasmar está indicado em combinação com levodopa/benserazida ou com levodopa/carbidopa, em doentes com doença de Parkinson idiopática que respondem à levodopa e com flutuações motoras, que não respondam ou sejam intolerantes a outros inibidores da COMT (ver 5.1). Devido ao risco de lesão hepática aguda potencialmente fatal, Tasmar não deve ser considerado uma terapêutica adjuvante de primeira linha da levodopa/benserazida ou levodopa/carbidopa (ver 4.4 e 4.8). Se não forem observados benefícios clínicos substanciais nas 3 semanas seguintes ao início do tratamento, Tasmar deve ser suspenso.
+ 4.2 Posologia e modo de administração A administração de Tasmar é restrita à prescrição e supervisão por médicos com experiência no tratamento da doença de Parkinson avançada.
+ Posologia A dose recomendada de Tasmar é de 100 mg três vezes por dia, sempre como adjuvante da terapêutica com levodopa/benserazida ou levodopa/carbidopa. Apenas em circunstâncias excepcionais, quando o benefício clínico suplementar esperado justificar o risco acrescido de reacções hepáticas, deverá a dose ser aumentada para 200 mg três vezes por dia (Ver 4.4 e 4.8). Se não forem observados benefícios clínicos substanciais nas 3 semanas seguintes ao início do tratamento (independentemente da dose), Tasmar deve ser suspenso. Não deve ser excedida a dose terapêutica máxima de 200 mg três vezes por dia, uma vez que não há evidência de eficácia adicional com doses mais altas.
+ A função hepática deve ser verificada antes do início do tratamento com Tasmar e depois monitorizada de 2 em 2 semanas durante o primeiro ano de terapêutica, de 4 em 4 semanas nos 6 meses seguintes e de 8 em 8 semanas daí em diante. Se a dose for aumentada para 200 mg três vezes por dia, a monitorização das enzimas hepáticas deve ser realizada antes do aumento de dose e depois reiniciada, seguindo a mesma sequência de frequências acima descrita. (Ver 4.4 e 4.8).
+ 2 O tratamento com Tasmar deverá também ser suspenso se a ALT (alanina aminotransferase) e/ou a AST (aspartato aminotransferase) excederem o limite superior do normal ou se sintomas ou sinais sugerirem desenvolvimento de insuficiência hepática (ver 4.4).
+ Ajustamentos de levodopa durante o tratamento com Tasmar: Dado que Tasmar diminui a degradação da levodopa no organismo, podem ocorrer efeitos secundários no início do tratamento com Tasmar causados pelo aumento das concentrações de levodopa. Nos ensaios clínicos, mais de 70% dos doentes requereram uma redução da dose diária de levodopa se recebiam uma dose diária &gt; 600 mg de levodopa ou se tinham disquinésia moderada ou grave antes do início do tratamento.
+ A redução média na dose diária de levodopa foi cerca de 30% naqueles doentes que tiveram necessidade de redução da dose de levodopa. Todos os doentes que iniciam a terapêutica com Tasmar devem ser informados dos sintomas de uma dosagem excessiva de levodopa e o que fazer nessa situação.
+ Ajustamentos de levodopa quando se suspende Tasmar: As sugestões seguintes baseiam-se em considerações farmacológicas e não foram avaliadas em ensaios clínicos. A dose de levodopa não deve ser reduzida quando o tratamento com Tasmar é suspenso devido aos efeitos secundários relacionados com o excesso de levodopa. No entanto, quando a terapêutica com Tasmar é suspensa por outras razões que não sejam o excesso de levodopa, poderá ser necessário aumentar a dose de levodopa até níveis iguais ou superiores aos anteriores ao início do tratamento com Tasmar, especialmente se o doente tiver tido fortes reduções da dose de levodopa quando iniciou o Tasmar. Em todos os casos, os doentes devem ser educados quanto aos sintomas de um défice de levodopa e o que fazer nessa situação. É mais provável que os ajustamentos de dose de levodopa sejam requeridos 1 a 2 dias após a suspensão de Tasmar.
+ Doentes com insuficiência renal (ver 5.2): Não é recomendado nenhum ajustamento de dose de Tasmar em doentes com insuficiência renal ligeira ou moderada (depuração da creatinina de 30 ml/min ou superior).
+ Doentes com insuficiência hepática (ver 4.3): Tasmar é contra-indicado em doentes com doença hepática ou valores aumentados de enzimas hepáticas.
+ Doentes idosos: Não se recomenda nenhum ajustamento da dose de Tasmar para os doentes idosos.
+ Crianças: Tasmar não deve ser usado em crianças por não existir informação disponível. Não está identificada qualquer utilização potencial do tolcapone em doentes pediátricos.
+ Modo de administração Tasmar é administrado por via oral três vezes por dia. A primeira dose diária de Tasmar deve ser tomada com a primeira dose do dia da preparação de levodopa e as doses subsequentes devem ser dadas aproximadamente 6 e 12 horas mais tarde. Tasmar pode ser tomado com ou sem alimentos (ver 5.2).
+ Os comprimidos de Tasmar são revestidos por película e devem ser deglutidos inteiros, porque tolcapone tem um sabor amargo.
+ Tasmar pode ser combinado com todas as formas farmacêuticas de levodopa/benserazida e de levodopa/carbidopa (ver também 4.5).
+ 4.3 Contra-indicações Tasmar é contra-indicado em doentes com: • Evidência de doença hepática ou aumento das enzimas hepáticas.
+ 3 • Disquinésia grave. • História anterior de complexo de sintomas Síndrome Maligno dos Neurolépticos (SMN) e/ou Rabdomiólise não traumática ou Hipertermia. • Hipersensibilidade ao tolcapone ou a qualquer dos seus outros ingredientes. • Feocromocitoma.
+ 4.4 Advertências e precauções especiais de utilização
+ A terapêutica com Tasmar deve ser iniciada apenas por médicos com experiência no tratamento da doença de Parkinson avançada, a fim de garantir uma avaliação adequada do risco-benefício. Tasmar não deve ser prescrito sem que com o doente tenha havido uma discussão informativa completa dos riscos.
+ Tasmar deve ser suspenso se não forem observados benefícios clínicos substanciais nas 3 semanas seguintes ao início do tratamento, independentemente da dose.
+ Lesão hepática: Devido ao risco de lesão hepática aguda, rara mas potencialmente fatal, Tasmar está indicado apenas em doentes com doença de Parkinson idiopática que respondem à levodopa e com flutuações motoras, que não respondam ou sejam intolerantes a outros inibidores da COMT. A monitorização periódica das enzimas hepáticas não permite prever com confiança a ocorrência de hepatite fulminante. No entanto, crê-se em geral que a detecção precoce de lesão hepática induzida por medicação, acompanhada da retirada imediata da medicação suspeita, aumente a probabilidade de recuperação. A lesão hepática ocorreu mais frequentemente entre 1 e 6 meses após o início do tratamento com Tasmar. Ademais, em raras ocasiões foram notificados casos de hepatites de manifestação tardia depois de aproximadamente 18 meses de tratamento. Deve também salientar-se que no sexo feminino o risco de lesão hepática poderá ser maior (ver 4.8).
+ Antes do início do tratamento: Se as provas de função hepática estiverem fora do normal ou se existirem sinais de insuficiência hepática, Tasmar não deve ser prescrito. Se Tasmar tiver que ser prescrito, o doente deve ser informado dos sinais e sintomas que podem indicar lesão hepática e para contactar imediatamente o médico.
+ Durante o tratamento: A função hepática deve ser monitorizada de 2 em 2 semanas durante o primeiro ano de tratamento, de 4 em 4 semanas durante os 6 meses seguintes e de 8 em 8 semanas daí em diante. Se a dose for aumentada para 200 mg três vezes por dia, a monitorização das enzimas hepáticas deve ser feita antes do aumento de dose e depois reiniciada seguindo a sequência de frequências acima descrita. O tratamento deverá ser imediatamente suspenso se a ALT e/ou a AST excederem o limite superior do normal ou se aparecerem sintomas ou sinais sugestivos de desenvolvimento de insuficiência hepática (náuseas persistentes, fadiga, letargia, anorexia, icterícia, coloração escura da urina, prurido e sensibilidade no quadrante direito superior).
+ Se o tratamento for suspenso: Os doentes que apresentem indícios de lesão hepática aguda durante o tratamento com Tasmar e que sejam retirados do tratamento, poderão ter um maior risco de desenvolverem doença hepática caso o Tasmar lhes seja reinstituído. Por conseguinte, estes doentes não devem normalmente ser considerados para repetição do tratamento.
+ Síndrome Maligno dos Neurolépticos (SMN):
+ Nos doentes de Parkinson, o SMN tende a ocorrer quando se suspendem ou interrompem os medicamentos dopaminérgicos. Portanto, se ocorrerem sintomas após a suspensão de Tasmar, os médicos deverão considerar um aumento da dose de levodopa do doente (ver 4.2).
+ 4 Casos isolados consistentes com SMN foram associados ao tratamento com Tasmar. Os sintomas tiveram geralmente início durante o tratamento com Tasmar ou pouco depois de Tasmar ter sido suspenso. O SMN é caracterizado por sintomas motores (rigidez, mioclonia e tremor), alterações mentais (agitação, confusão, estupor e coma), aumento da temperatura, alterações do sistema nervoso autónomo (pressão arterial instável, taquicardia) e aumento da creatina fosfoquinase sérica (CPK), que pode ser uma consequência da miólise. Um diagnóstico de SMN deve ser tido em consideração mesmo se nem todos os sintomas acima indicados estiverem presentes. Na presença deste diagnóstico, Tasmar deve ser imediatamente suspenso e o doente cuidadosamente vigiado.
+ Antes do início do tratamento: A fim de reduzir o risco de SMN, Tasmar não deve ser prescrito em doentes com disquinésia grave ou com história anterior de SMN incluindo rabdomiólise ou hipertermia (ver 4.3). Nos doentes que tomam diversos medicamentos com acção em diferentes vias do SNC (por exemplo, antidepressivos, neurolépticos, anticolinérgicos), o risco de desenvolverem SMN pode ser maior.
+ Disquinésia, náuseas e outras reacções adversas associadas à levodopa: Os doentes podem apresentar um aumento das reacções adversas associadas à levodopa. Estas reacções adversas podem muitas vezes ser atenuadas pela redução da dose de levodopa (ver 4.2).
+ Diarreia: Nos ensaios clínicos ocorreram diarreias em 16% e 18% dos doentes que receberam, respectivamente,100 mg e 200 mg de Tasmar três vezes por dia, comparativamente a 8% dos doentes que receberam placebo. As diarreias associadas ao Tasmar geralmente tiveram início 2 a 4 meses após o início da terapêutica. A diarreia levou a suspensão em 5% e 6% dos doentes tratados com, respectivamente,100 mg e 200 mg de Tasmar três vezes por dia, comparativamente a 1% dos doentes que receberam placebo.
+ Interacção com a benserazida: Devido à interacção entre doses altas de benserazida e o tolcapone (dando origem a um aumento dos níveis de benserazida), o médico prescritor, até que mais experiência seja obtida, deve estar vigilante quanto a acontecimentos adversos relacionados com a dose (ver 4.5).
+ Inibidores da MAO: Tasmar não deve ser administrado conjuntamente com inibidores da mono-aminoxidase (MAO) não-selectivos (por exemplo, fenelzina e tranilcipromina). A combinação de inibidores da MAO-A e inibidores da MAO-B é equivalente a uma inibição não selectiva da MAO, portanto, não devem ambos ser administrados concomitantemente com Tasmar e com preparações de levodopa (ver também 4.5). Os inibidores selectivos da MAO-B não devem ser utilizados em doses superiores às recomendadas (por exemplo,10 mg/dia de selegilina) quando se administrem concomitantemente com Tasmar.
+ Varfarina: Uma vez que é limitada a informação clínica sobre a combinação de varfarina e tolcapone, os parâmetros da coagulação devem ser monitorizados quando estes fármacos se administram concomitantemente.
+ Intolerância à lactose: Cada comprimido contém 7,5 mg de lactose; provavelmente esta quantidade não é suficiente para induzir sintomas de intolerância à lactose. Doentes com problemas hereditários raros de intolerância à galactose, deficiência de lactase de Lapp ou malabsorção de glucose-galactose não devem tomar este medicamento.
+ Populações especiais: Doentes com insuficiência renal grave (depuração da creatinina &lt; 30 ml/min) devem ser tratados com precaução. Não se dispõe de informação sobre a tolerabilidade do tolcapone nestas populações (ver 5.2).
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ 5 Sabe-se que Tasmar, sendo um inibidor da COMT, aumenta a biodisponibilidade da levodopa administrada concomitantemente. O aumento consequente da estimulação dopaminérgica pode levar aos efeitos secundários dopaminérgicos observados após tratamento com inibidores da COMT. Destes efeitos, os mais comuns são o aumento de disquinésia, náuseas, vómitos, dor abdominal, síncope, queixas ortostáticas, obstipação, distúrbios do sono, sonolência, alucinações.
+ A levodopa está associada a sonolência e a episódios de adormecimento súbito. Foi muito raramente relatado adormecimento súbito durante as actividades diárias, em alguns casos sem que tenha havido consciência disso ou sinais de aviso. Os doentes devem ser informados deste facto e aconselhados a tomarem precauções quando conduzirem ou utilizarem máquinas durante o tratamento com levodopa. Os doentes que sofreram de sonolência e/ou de um episódio de adormecimento súbito devem abster-se de conduzir ou utilizar máquinas. Além disso, deve ser considerada a redução posológica da levodopa ou a suspensão do tratamento.
+ Ligação às proteínas: Embora o tolcapone se ligue intensamente às proteínas, os estudos in vitro demonstraram que o tolcapone em concentrações terapêuticas não deslocou a varfarina, tolbutamida, digitoxina e fenitoína dos seus locais de ligação.
+ Catecóis e outros fármacos metabolizados pela catecol-O-metiltransferase (COMT): Tolcapone pode influenciar a farmacocinética dos fármacos metabolizados pela COMT. Não foram observados efeitos na farmacocinética da carbidopa, substrato da COMT. Foi observada interacção com a benserazida que pode conduzir a níveis aumentados de benserazida e do seu metabolito activo. A amplitude do efeito foi dependente da dose de benserazida. As concentrações plasmáticas de benserazida observadas após administração concomitante de tolcapone e benserazida-25 mg/levodopa permaneceram ainda dentro do intervalo de valores observado com apenas levodopa/benserazida. Por outro lado, após administração concomitante de tolcapone e benserazida-50 mg/levodopa, as concentrações plasmáticas de benserazida aumentaram acima dos níveis normalmente observados com apenas levodopa/benserazida. Não foi avaliado o efeito do tolcapone na farmacocinética de outros fármacos metabolizados pela COMT, tais como a α-metildopa, dobutamina, apomorfina, adrenalina e isoprenalina. O médico prescritor deve estar vigilante quanto a efeitos adversos causados pelo suposto aumento dos níveis plasmáticos destes fármacos quando se combinem com Tasmar.
+ Efeito do tolcapone no metabolismo de outros fármacos: Devido à sua afinidade in vitro para o citocromo CYP2C9, tolcapone pode interferir com fármacos cuja depuração dependa desta via metabólica, tal como a tolbutamida e varfarina. Num estudo de interacções, tolcapone não alterou a farmacocinética da tolbutamida. Portanto, parecem improváveis interacções clinicamente relevantes envolvendo o citocromo CYP2C9.
+ Sendo limitada a informação clínica relativa à combinação de varfarina e o tolcapone, os parâmetros da coagulação devem ser monitorizados quando estes fármacos sejam administrados concomitantemente.
+ Tolcapone não alterou a farmacocinética da desipramina, se bem que ambos os fármacos partilhem a glucuronização como principal via metabólica.
+ Fármacos que aumentam as catecolaminas: Dado que o tolcapone interfere com o metabolismo das catecolaminas, são teoricamente possíveis interacções com outros fármacos que alteram os níveis de catecolaminas.
+ Tolcapone não influenciou o efeito da efedrina, um simpaticomimético indirecto, ao nível dos parâmetros hemodinâmicos ou dos níveis plasmáticos de catecolaminas, quer em repouso quer durante o exercício. Uma vez que tolcapone não alterou a tolerabilidade da efedrina, estes fármacos podem ser administrados concomitantemente.
+ Quando Tasmar foi administrado em conjunto com levodopa/carbidopa e desipramina, não houve alteração significativa da pressão arterial, frequência do pulso e concentrações plasmáticas de
+ 6 desipramina. No total, a frequência de acontecimentos adversos aumentou ligeiramente. Estes acontecimentos adversos eram previsíveis, com base nas reacções adversas conhecidas de cada um dos três fármacos individualmente. Portanto, deve haver precaução quando se administrem inibidores potentes da captação da noradrenalina, tais como desipramina, maprotilina ou venlafaxina, em doentes com doença de Parkinson em tratamento com Tasmar e preparações de levodopa.
+ Nos ensaios clínicos, os doentes tratados com Tasmar/preparações de levodopa relataram um perfil semelhante de acontecimentos adversos, independentemente de serem ou não tratados concomitantemente com selegilina (um inibidor da MAO-B).
+ 4.6 Gravidez e aleitamento Gravidez: Foi observada toxicidade embriofetal em ratos e coelhos, após administração de tolcapone (ver 5.3). O risco potencial para o ser humano é desconhecido.
+ Não existem dados adequados da utilização de tolcapone em mulheres grávidas. Portanto, Tasmar só deve ser utilizado durante a gravidez se o benefício potencial justificar o risco potencial para o feto.
+ Aleitamento: Nos estudos em animais, tolcapone foi excretado no leite materno.
+ Desconhece-se a segurança do tolcapone em lactentes; portanto, as mães não devem amamentar durante o tratamento com Tasmar.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram realizados estudos sobre os efeitos de Tasmar na capacidade de conduzir e utilizar máquinas.
+ Dos estudos clínicos não há evidência de que Tasmar influencie negativamente a capacidade dos doentes para conduzirem e utilizarem máquinas. No entanto, os doentes devem ser avisados de que a capacidade para conduzirem e utilizarem máquinas pode estar comprometida pelos sintomas da doença de Parkinson.
+ Sabe-se que Tasmar, sendo um inibidor da COMT, aumenta a biodisponibilidade da levodopa administrada concomitantemente. O aumento consequente da estimulação dopaminérgica pode levar aos efeitos secundários dopaminérgicos observados após tratamento com inibidores da COMT. Os doentes em tratamento com levodopa e que apresentem sonolência e/ou episódios de adormecimento súbito devem ser informados da necessidade de se absterem de conduzir ou exercer actividades em que a redução da vigília acarrete risco de danos graves ou morte para eles ou outras pessoas (p. ex. utilizar máquinas), até que estes episódios recorrentes e a sonolência se resolvam (ver também Secção 4.4).
+ 4.8 Efeitos indesejáveis São apresentados na tabela seguinte os eventos adversos mais frequentes associados ao uso de Tasmar, os quais ocorreram com maior frequência do que nos doentes tratados com placebo. Sabe-se, no entanto, que Tasmar, sendo um inibidor da COMT, aumenta a biodisponibilidade da levodopa administrada concomitantemente. O aumento consequente da estimulação dopaminérgica pode levar aos efeitos secundários dopaminérgicos observados após tratamento com inibidores da COMT. Destes efeitos, os mais comuns são o aumento de disquinésia, náuseas, vómitos, dor abdominal, síncope, queixas ortostáticas, obstipação, distúbios do sono, sonolência, alucinações. O único acontecimento adverso que habitualmente levou à suspensão de Tasmar nos ensaios clínicos foi a diarreia (ver 4.4).
+ Em 1% dos doentes que receberam 100 mg de Tasmar três vezes por dia e em 3% dos doentes que receberam 200 mg de Tasmar três vezes ao dia, ocorreram aumentos da alanina aminotransferase
+ 7 (ALT) até mais de três vezes o limite superior do normal (LSN). Estes aumentos foram aproximadamente duas vezes mais frequentes nas mulheres. Os aumentos surgiram geralmente 6 a 12 semanas após o início do tratamento, e não se lhes associaram quaisquer sinais ou sintomas clínicos. Em cerca de metade dos casos, os níveis de transaminases regressaram espontaneamente aos valores basais enquanto os doentes prosseguiam o tratamento com Tasmar. Nos restantes doentes, os níveis de transaminases regressaram aos níveis anteriores ao tratamento quando o mesmo foi suspenso.
+ Casos raros de lesão hepatocelular grave com desenlace fatal foram relatados durante a comercialização do produto (ver 4.4).
+ Foram relatados casos isolados de doentes com sintomas sugestivos de Síndrome Maligno dos Neurolépticos (ver 4.4) após redução ou suspensão de Tasmar e após introdução de Tasmar quando acompanhado de uma redução significativa de outros medicamentos dopaminérgicos administrados concomitantemente. Foi também observada rabdomiólise secundária ao SMN ou disquinésia grave.
+ Descoloração da urina: Tolcapone e os seus metabolitos são de cor amarela e podem causar uma inofensiva intensificação da cor da urina do doente.
+ Na tabela seguinte apresenta-se a experiência com Tasmar obtida em estudos paralelos, aleatorizados, controlados com placebo, em doentes com doença de Parkinson, enumerando as reacções adversas potencialmente relacionadas com Tasmar.
+ Resumo das reacções adversas potencialmente relacionadas com Tasmar, com taxas de incidência brutas dos estudos controlados com placebo de fase III:
+ Tolcapone Tolcapone Classe de Sistema de Órgãos Incidência* Efeitos Adversos Placebo N=298 (%) 100 mg 3xd N=296 (%) 200 mg 3xd N=298 (%) Doenças gastrointestinais Muito frequentes Náuseas 17,8 30,4 34,9 Anorexia Diarreia 12,8 7,7 18,9 15,5 22,8 18,1 Frequentes Vómitos Obstipação Xerostomia Dor abdominal Dispepsia
+ 3,7 5,0 2,3 2,7 1,7
+ 8,4 6,4 4,7 4,7 4,1
+ 9,7 8,4 6,4 5,7 3,0 Perturbações gerais e alterações no local de administração
+ Frequentes Dores no peito 1,3 3,4 1,0 Infecções e infestações Frequentes Infecção das vias aéreas superiores 3,4 4,7 7,4 Doenças do sistema nervoso Muito frequentes Discinésia 19,8 41,9 51,3 Distonia Cefaleias Tonturas
+ 17,1 7,4 9,7 18,6 9,8 13,2 22,1 11,4 6,4 Frequentes Hipoquinésia 0,7 0,7 2,7 Perturbações do foro psiquiátrico Muito frequentes Perturbações do sono 18,1 23,6 24,8 Sonhos 17,1 21,3 16,4 8
+ Tolcapone Tolcapone Classe de Sistema de Órgãos Incidência* Efeitos Adversos excessivos
+ Placebo N=298 (%) 100 mg 3xd N=296 (%) 200 mg 3xd N=298 (%) Sonolência Confusão Alucinações
+ 13,4 8,7 5,4 17,9 10,5 8,4 14,4 10,4 10,4 Doenças renais e urinárias Frequentes Descoloração da 0,7 urina 2,4 7,4 Doenças respiratórias, Frequentes torácicas e do mediastino
+ Síndrome gripal 1,7 3,0 4,0 Afecções dos tecidos Frequentes cutâneos e subcutâneos
+ Aumento da sudação 2,3 4,4 7,4 Vasculopatias Muito frequentes
+ Queixas ortostáticas 13,8 16,6 16,8 Frequentes Síncope 2,7 4,1 5,0 * Muito frequentes (&gt; 1/10); frequentes (&gt; 1/100, &lt; 1/10); pouco frequentes (&gt; 1/1.000 &lt; 1/100); raras (&gt; 1/10.000, &lt; 1/1.000); muito raras (&lt; 1/10.000)
+ 4.9 Sobredosagem Foram relatados casos isolados de sobredosagem acidental ou intencional com comprimidos de tolcapone. No entanto, as circunstâncias clínicas foram tão diversas que se não podem tirar conclusões gerais destes casos.
+ A dose mais elevada de tolcapone que foi administrada em seres humanos foi de 800 mg três vezes por dia, com e sem administração concomitante de levodopa, num estudo de uma semana em voluntários idosos saudáveis. O pico das concentrações plasmáticas de tolcapone com esta dose foi, em média, de 30 µg/ml (em comparação com 3 e 6 µg/ml para, respectivamente,100 mg e 200 mg de tolcapone três vezes por dia). Foram observadas náuseas, vómitos e tonturas, particularmente em combinação com levodopa.
+ Tratamento da sobredosagem: Aconselha-se a hospitalização. Estão indicadas as medidas gerais de suporte. Com base nas propriedades físico-químicas do produto, é improvável que a hemodiálise seja de utilidade.
+ 5. PROPRIEDADES FARMACOLÓGICAS Tolcapone é um inibidor selectivo e reversível da catecol-O-metiltransferase (COMT), activo por via oral. Administrado concomitantemente com levodopa e um inibidor da descarboxilase dos aminoácidos aromáticos (AADC-I), conduz a níveis plasmáticos mais estáveis de levodopa, através da redução do metabolismo da levodopa em 3-metoxi-4-hidroxi-L-fenilalanina (3-OMD).
+ Níveis plasmáticos elevados de 3-OMD são associados a resposta fraca à levodopa nos doentes com doença de Parkinson. Tolcapone reduz marcadamente a formação de 3-OMD.
+ 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Fármaco antiparkinsónico; código ATC: NO4BX01
+ 9 Farmacologia clínica
+ Estudos realizados em voluntários saudáveis demonstraram que tolcapone administrado por via oral inibe reversivelmente a actividade da COMT nos eritrócitos humanos. A inibição está estreitamente relacionada com a concentração plasmática de tolcapone. Com 200 mg de tolcapone, a inibição máxima da actividade eritrocitária da COMT é, em média, superior a 80%. Durante o regime posológico de 200 mg de Tasmar três vezes por dia, a inibição da actividade eritrocitária da COMT no vale é de 30% a 45%, sem desenvolvimento de tolerância.
+ Após suspensão do tolcapone, foi observada uma elevação transitória da actividade eritrocitária da COMT acima dos níveis prévios ao tratamento. No entanto, um estudo em doentes com Parkinson confirmou que, após a suspensão do tratamento, não houve alteração significativa na farmacocinética da levodopa nem na resposta do doente à levodopa, em comparação com os níveis prévios ao tratamento.
+ Quando se administra Tasmar juntamente com levodopa, a biodisponibilidade relativa (AUC) da levodopa eleva-se aproximadamente para o dobro. Isto é devido a uma diminuição da depuração da L-dopa que dá lugar ao prolongamento da semi-vida de eliminação terminal (t1/2) da levodopa. Em geral, não foram afectados o pico médio da concentração plasmática de levodopa (Cmax) nem o tempo para alcançá-lo (tmax). O efeito manifesta-se após a primeira administração. Os estudos em voluntários saudáveis e em doentes parkinsónicos confirmaram que o efeito máximo ocorre com 100-200 mg de tolcapone. Os níveis plasmáticos de 3-OMD diminuíram consideravelmente e em função da dose de tolcapone, quando este foi administrado com levodopa/AADC-I (inibidor da descarboxilase dos aminoácidos aromáticos) (benserazida ou carbidopa).
+ O efeito do tolcapone na farmacocinética da levodopa é semelhante com todas as formulações farmacêuticas de levodopa/benserazida e de levodopa/carbidopa; é independente da dose de levodopa, da relação levodopa/AADC-I (benserazida ou carbidopa) e do uso de formulações de libertação prolongada.
+ Estudos clínicos Os estudos clínicos de dupla ocultação, controlados com placebo, demonstraram uma redução significativa de aproximadamente 20% a 30% do tempo em OFF e um aumento semelhante do tempo em ON, acompanhados de redução da gravidade dos sintomas em doentes com flutuações tratados com Tasmar. As avaliações globais de eficácia realizadas pelo investigador revelaram também uma melhoria significativa.
+ Um ensaio clínico de dupla ocultação comparou Tasmar 100 mg com entacapone em doentes com doença de Parkinson que tinham tido pelo menos três horas de tempo em OFF por dia enquanto recebiam tratamento optimizado com levodopa. O resultado primário foi a proporção de doentes com um aumento do tempo em ON de 1 ou mais horas (ver Tabela 1).
+ Tab. 1 Resultado primário e secundário do ensaio de dupla ocultação Resultado primário
+ Entacapone N=75 Tolcapone N=75 valor p
+ IC 95% Número (proporção) com resposta ≥ 1 hora no 32 (43%) tempo ON Resultado secundário
+ 40 (53%) p=0,191-5, 2; 26,6
+ Número (proporção) com melhoria moderada 19 (25%) ou marcada Número (proporção) com melhoria de ambos
+ 29 (39%) p=0,080-1, 4; 28,1
+ os resultados primário e secundário 13 (17%)
+ 24 (32%) NA NA 10 5.2 Propriedades farmacocinéticas
+ No intervalo terapêutico, a farmacocinética do tolcapone é linear e independente da administração concomitante de levodopa/AADC-I (benserazida ou carbidopa).
+ Absorção: Tolcapone é absorvido rapidamente com um tmax de aproximadamente 2 horas. A biodisponibilidade absoluta de uma administração oral é cerca de 65%. Tolcapone não se acumula com a posologia de 100 ou 200 mg três vezes por dia. Nestas doses, a Cmax é aproximadamente de 3 e 6 µg/ml, respectivamente. Os alimentos retardam e reduzem a absorção de tolcapone, mas a biodisponibilidade relativa de uma dose de tolcapone tomada com uma refeição é ainda de 80% a 90%.
+ Distribuição: O volume de distribuição (Vss) do tolcapone é pequeno (9 l). Tolcapone não se distribui amplamente nos tecidos devido à sua forte ligação às proteínas plasmáticas (&gt; 99,9%). Os ensaios in vitro revelaram que o tolcapone se liga principalmente à albumina sérica.
+ Metabolismo/Eliminação: Tolcapone é quase completamente metabolizado antes da sua excreção, com apenas uma quantidade muito pequena (0,5% da dose) detectada inalterada na urina. A principal via metabólica do tolcapone é a conjugação no seu glucuronido inactivo. Além disso, o composto é metilado pela COMT em 3-O-metil-tolcapone e metabolizado pelos citocromos P450 3A4 e P450 2A6 num álcool primário (hidroxilação do grupo metilo), o qual é em seguida oxidado a ácido carboxílico. A redução na amina correspondente seguida de N-acetilação, ocorre em menor grau. Após administração oral,60% dos derivados do fármaco são excretados na urina e 40% nas fezes.
+ Tolcapone é um fármaco com um coeficiente de extracção baixo (coeficiente de extracção= 0,15) com depuração sistémica moderada de cerca de 7 l/h. O t1/2 do tolcapone é aproximadamente de 2 horas.
+ Insuficiência hepática: Devido ao risco de lesão hepática observado na utilização pós-introdução no mercado, Tasmar é contra-indicado em doentes com doença hepática ou com valores aumentados das enzimas hepáticas. Um estudo realizado em doentes com insuficiência hepática demonstrou que uma doença hepática moderada não cirrótica não teve nenhum impacto na farmacocinética do tolcapone. No entanto, em doentes com cirrose hepática moderada, a depuração do tolcapone não ligado foi reduzida em quase 50%. Esta redução pode aumentar para o dobro a concentração média do fármaco não ligado.
+ Insuficiência renal: Não foi investigada a farmacocinética do tolcapone em doentes com insuficiência renal. No entanto, a relação entre a função renal e a farmacocinética do tolcapone foi investigada utilizando os dados de farmacocinética da população durante os ensaios clínicos. Os dados de mais de 400 doentes confirmaram que para um amplo intervalo de valores de depuração da creatinina (30 – 130 ml/min), a farmacocinética do tolcapone não é afectada pela função renal. Isto pode ser explicado pelo facto de apenas uma quantidade negligenciável de tolcapone inalterado ser excretado na urina e de o principal metabolito, o glucuronido do tolcapone, ser excretado tanto na urina como na bílis (fezes).
+ 5.3 Dados de segurança pré-clínica Os dados pré-clínicos não revelam riscos especiais para o ser humano, com base em estudos convencionais de farmacologia de segurança, toxicidade por dose repetida, genotoxicidade, potencial carcinogéneo e toxicidade na reprodução.
+ Carcinogénese, mutagénese: No estudo de carcinogenicidade de 24 meses foram demonstrados tumores renais epiteliais (adenomas ou carcinomas) em 3% e 5% dos ratos dos grupos de doses média e alta, respectivamente. No entanto, não foi observado nenhum indício de toxicidade renal no grupo de dose baixa. Foi observada uma incidência maior de adenocarcinomas do útero no grupo de dose
+ 11 alta no estudo de carcinogenicidade no rato. Não houve resultados renais semelhantes nos estudos de carcinogenicidade nos ratinhos ou nos cães. Mutagénese: Numa série completa de estudos de mutagenicidade, foi evidenciado que o tolcapone não é genotóxico.
+ Toxicidade na reprodução: Tolcapone, quando administrado isoladamente, manifestou-se não teratogénico e sem quaisquer efeitos relevantes na fertilidade.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1. Lista dos excipientes Núcleo do comprimido: Hidrogenofosfato de cálcio (anidro) Celulose microcristalina Polividona K30 Glicolato sódico de amido Lactose mono-hidratada Talco Estearato de magnésio
+ Revestimento por película: Metil-hidroxipropilcelulose Talco Óxido amarelo de ferro (E 172) Etilcelulose Dióxido de titânio (E 171) Triacetina Lauril sulfato de sódio
+ 6.2 Incompatibilidades Não aplicável. 6.3 Prazo de validade 5 anos 6.4 Precauções especiais de conservação
+ Não requer condições especiais de conservação
+ 6.5 Natureza e conteúdo do recipiente Tasmar está disponível em blisters de PVC/PE/PVDC (embalagens de 30 e 60 comprimidos revestidos por película) e em frascos de vidro (embalagens de 30,60 e 100 comprimidos revestidos por película). Algumas embalagens poderão não ser comercializadas.
+ 6.6 Instruções de utilização e manipulação e eliminação
+ Não existem requisitos especiais. 12 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Valeant Pharmaceuticals Ltd. Cedarwood, Chineham Business Park Crockford Lane Basingstoke Hampshire, RG24 8WD
+ Reino Unido 8. NÚMEROS DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Tasmar 100 mg comprimidos: EU/1/97/044/001-3, 7-8
+ 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 27 de Agosto de 1997/31 de Agosto de 2004
+ 10. DATA DA REVISÃO DO TEXTO 13 1. DENOMINAÇÃO DO MEDICAMENTO
+ Tasmar 200 mg comprimidos revestidos por película.
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada comprimido revestido por película contém 200 mg de tolcapone. Excipientes, ver secção 6.1
+ 3. FORMA FARMACÊUTICA Tasmar 200 mg é um comprimido revestido por película, biconvexo, hexagonal, de cor amarelo alaranjado a amarelo acastanhado. Tem a inscrição “ TASMAR ” e “ 200 ” numa face.
+ 4. INFORMAÇÕES CLÍNICAS Uma vez que Tasmar só deve ser usado em combinação com levodopa/benserazida e levodopa/carbidopa, a informação sobre prescrição destas preparações de levodopa é também aplicável ao seu uso concomitante com Tasmar.
+ 4.1 Indicações terapêuticas Tasmar está indicado em combinação com levodopa/benserazida ou com levodopa/carbidopa, em doentes com doença de Parkinson idiopática que respondem à levodopa e com flutuações motoras, que não respondam ou sejam intolerantes a outros inibidores da COMT (ver 5.1). Devido ao risco de lesão hepática aguda potencialmente fatal, Tasmar não deve ser considerado uma terapêutica adjuvante de primeira linha da levodopa/benserazida ou levodopa/carbidopa (ver 4.4 e 4.8). Se não forem observados benefícios clínicos substanciais nas 3 semanas seguintes ao início do tratamento, Tasmar deve ser suspenso.
+ 4.2 Posologia e modo de administração A administração de Tasmar é restrita à prescrição e supervisão por médicos com experiência no tratamento da doença de Parkinson avançada.
+ Posologia A dose recomendada de Tasmar é de 100 mg três vezes por dia, sempre como adjuvante da terapêutica com levodopa/benserazida ou levodopa/carbidopa. Apenas em circunstâncias excepcionais, quando o benefício clínico suplementar esperado justificar o risco acrescido de reacções hepáticas, deverá a dose ser aumentada para 200 mg três vezes por dia (Ver 4.4 e 4.8). Se não forem observados benefícios clínicos substanciais nas 3 semanas seguintes ao início do tratamento (independentemente da dose), Tasmar deve ser suspenso. Não deve ser excedida a dose terapêutica máxima de 200 mg três vezes por dia, uma vez que não há evidência de eficácia adicional com doses mais altas.
+ A função hepática deve ser verificada antes do início do tratamento com Tasmar e depois monitorizada de 2 em 2 semanas durante o primeiro ano de terapêutica, de 4 em 4 semanas nos 6 meses seguintes e de 8 em 8 semanas daí em diante. Se a dose for aumentada para 200 mg três vezes por dia, a monitorização das enzimas hepáticas deve ser realizada antes do aumento de dose e depois reiniciada, seguindo a mesma sequência de frequências acima descrita. (Ver 4.4 e 4.8).
+ 14 O tratamento com Tasmar deverá também ser suspenso se a ALT (alanina aminotransferase) e/ou a AST (aspartato aminotransferase) excederem o limite superior do normal ou se sintomas ou sinais sugerirem desenvolvimento de insuficiência hepática (ver 4.4).
+ Ajustamentos de levodopa durante o tratamento com Tasmar: Dado que Tasmar diminui a degradação da levodopa no organismo, podem ocorrer efeitos secundários no início do tratamento com Tasmar causados pelo aumento das concentrações de levodopa. Nos ensaios clínicos, mais de 70% dos doentes requereram uma redução da dose diária de levodopa se recebiam uma dose diária &gt; 600 mg de levodopa ou se tinham disquinésia moderada ou grave antes do início do tratamento.
+ A redução média na dose diária de levodopa foi cerca de 30% naqueles doentes que tiveram necessidade de redução da dose de levodopa. Todos os doentes que iniciam a terapêutica com Tasmar devem ser informados dos sintomas de uma dosagem excessiva de levodopa e o que fazer nessa situação.
+ Ajustamentos de levodopa quando se suspende Tasmar: As sugestões seguintes baseiam-se em considerações farmacológicas e não foram avaliadas em ensaios clínicos. A dose de levodopa não deve ser reduzida quando o tratamento com Tasmar é suspenso devido aos efeitos secundários relacionados com o excesso de levodopa. No entanto, quando a terapêutica com Tasmar é suspensa por outras razões que não sejam o excesso de levodopa, poderá ser necessário aumentar a dose de levodopa até níveis iguais ou superiores aos anteriores ao início do tratamento com Tasmar, especialmente se o doente tiver tido fortes reduções da dose de levodopa quando iniciou o Tasmar. Em todos os casos, os doentes devem ser educados quanto aos sintomas de um défice de levodopa e o que fazer nessa situação. É mais provável que os ajustamentos de dose de levodopa sejam requeridos 1 a 2 dias após a suspensão de Tasmar.
+ Doentes com insuficiência renal (ver 5.2): Não é recomendado nenhum ajustamento de dose de Tasmar em doentes com insuficiência renal ligeira ou moderada (depuração da creatinina de 30 ml/min ou superior).
+ Doentes com insuficiência hepática (ver 4.3): Tasmar é contra-indicado em doentes com doença hepática ou valores aumentados de enzimas hepáticas.
+ Doentes idosos: Não se recomenda nenhum ajustamento da dose de Tasmar para os doentes idosos.
+ Crianças: Tasmar não deve ser usado em crianças por não existir informação disponível. Não está identificada qualquer utilização potencial do tolcapone em doentes pediátricos.
+ Modo de administração Tasmar é administrado por via oral três vezes por dia. A primeira dose diária de Tasmar deve ser tomada com a primeira dose do dia da preparação de levodopa e as doses subsequentes devem ser dadas aproximadamente 6 e 12 horas mais tarde. Tasmar pode ser tomado com ou sem alimentos (ver 5.2).
+ Os comprimidos de Tasmar são revestidos por película e devem ser deglutidos inteiros, porque tolcapone tem um sabor amargo.
+ Tasmar pode ser combinado com todas as formas farmacêuticas de levodopa/benserazida e de levodopa/carbidopa (ver também 4.5).
+ 4.3 Contra-indicações Tasmar é contra-indicado em doentes com: • Evidência de doença hepática ou aumento das enzimas hepáticas.
+ 15 • Disquinésia grave. • História anterior de complexo de sintomas Síndrome Maligno dos Neurolépticos (SMN) e/ou Rabdomiólise não traumática ou Hipertermia. • Hipersensibilidade ao tolcapone ou a qualquer dos seus outros ingredientes. • Feocromocitoma.
+ 4.4 Advertências e precauções especiais de utilização
+ A terapêutica com Tasmar deve ser iniciada apenas por médicos com experiência no tratamento da doença de Parkinson avançada, a fim de garantir uma avaliação adequada do risco-benefício. Tasmar não deve ser prescrito sem que com o doente tenha havido uma discussão informativa completa dos riscos.
+ Tasmar deve ser suspenso se não forem observados benefícios clínicos substanciais nas 3 semanas seguintes ao início do tratamento, independentemente da dose.
+ Lesão hepática: Devido ao risco de lesão hepática aguda, rara mas potencialmente fatal, Tasmar está indicado apenas em doentes com doença de Parkinson idiopática que respondem à levodopa e com flutuações motoras, que não respondam ou sejam intolerantes a outros inibidores da COMT. A monitorização periódica das enzimas hepáticas não permite prever com confiança a ocorrência de hepatite fulminante. No entanto, crê-se em geral que a detecção precoce de lesão hepática induzida por medicação, acompanhada da retirada imediata da medicação suspeita, aumente a probabilidade de recuperação. A lesão hepática ocorreu mais frequentemente entre 1 e 6 meses após o início do tratamento com Tasmar. Ademais, em raras ocasiões foram notificados casos de hepatites de manifestação tardia depois de aproximadamente 18 meses de tratamento. Deve também salientar-se que no sexo feminino o risco de lesão hepática poderá ser maior (ver 4.8).
+ Antes do início do tratamento: Se as provas de função hepática estiverem fora do normal ou se existirem sinais de insuficiência hepática, Tasmar não deve ser prescrito. Se Tasmar tiver que ser prescrito, o doente deve ser informado dos sinais e sintomas que podem indicar lesão hepática e para contactar imediatamente o médico.
+ Durante o tratamento: A função hepática deve ser monitorizada de 2 em 2 semanas durante o primeiro ano de tratamento, de 4 em 4 semanas durante os 6 meses seguintes e de 8 em 8 semanas daí em diante. Se a dose for aumentada para 200 mg três vezes por dia, a monitorização das enzimas hepáticas deve ser feita antes do aumento de dose e depois reiniciada seguindo a sequência de frequências acima descrita. O tratamento deverá ser imediatamente suspenso se a ALT e/ou a AST excederem o limite superior do normal ou se aparecerem sintomas ou sinais sugestivos de desenvolvimento de insuficiência hepática (náuseas persistentes, fadiga, letargia, anorexia, icterícia, coloração escura da urina, prurido e sensibilidade no quadrante direito superior).
+ Se o tratamento for suspenso: Os doentes que apresentem indícios de lesão hepática aguda durante o tratamento com Tasmar e que sejam retirados do tratamento, poderão ter um maior risco de desenvolverem doença hepática caso o Tasmar lhes seja reinstituído. Por conseguinte, estes doentes não devem normalmente ser considerados para repetição do tratamento.
+ Síndrome Maligno dos Neurolépticos (SMN):
+ Nos doentes de Parkinson, o SMN tende a ocorrer quando se suspendem ou interrompem os medicamentos dopaminérgicos. Portanto, se ocorrerem sintomas após a suspensão de Tasmar, os médicos deverão considerar um aumento da dose de levodopa do doente (ver 4.2).
+ 16 Casos isolados consistentes com SMN foram associados ao tratamento com Tasmar. Os sintomas tiveram geralmente início durante o tratamento com Tasmar ou pouco depois de Tasmar ter sido suspenso. O SMN é caracterizado por sintomas motores (rigidez, mioclonia e tremor), alterações mentais (agitação, confusão, estupor e coma), aumento da temperatura, alterações do sistema nervoso autónomo (pressão arterial instável, taquicardia) e aumento da creatina fosfoquinase sérica (CPK), que pode ser uma consequência da miólise. Um diagnóstico de SMN deve ser tido em consideração mesmo se nem todos os sintomas acima indicados estiverem presentes. Na presença deste diagnóstico, Tasmar deve ser imediatamente suspenso e o doente cuidadosamente vigiado.
+ Antes do início do tratamento: A fim de reduzir o risco de SMN, Tasmar não deve ser prescrito em doentes com disquinésia grave ou com história anterior de SMN incluindo rabdomiólise ou hipertermia (ver 4.3). Nos doentes que tomam diversos medicamentos com acção em diferentes vias do SNC (por exemplo, antidepressivos, neurolépticos, anticolinérgicos), o risco de desenvolverem SMN pode ser maior.
+ Disquinésia, náuseas e outras reacções adversas associadas à levodopa: Os doentes podem apresentar um aumento das reacções adversas associadas à levodopa. Estas reacções adversas podem muitas vezes ser atenuadas pela redução da dose de levodopa (ver 4.2).
+ Diarreia: Nos ensaios clínicos ocorreram diarreias em 16% e 18% dos doentes que receberam, respectivamente,100 mg e 200 mg de Tasmar três vezes por dia, comparativamente a 8% dos doentes que receberam placebo. As diarreias associadas ao Tasmar geralmente tiveram início 2 a 4 meses após o início da terapêutica. A diarreia levou a suspensão em 5% e 6% dos doentes tratados com, respectivamente,100 mg e 200 mg de Tasmar três vezes por dia, comparativamente a 1% dos doentes que receberam placebo.
+ Interacção com a benserazida: Devido à interacção entre doses altas de benserazida e o tolcapone (dando origem a um aumento dos níveis de benserazida), o médico prescritor, até que mais experiência seja obtida, deve estar vigilante quanto a acontecimentos adversos relacionados com a dose (ver 4.5).
+ Inibidores da MAO: Tasmar não deve ser administrado conjuntamente com inibidores da mono-aminoxidase (MAO) não-selectivos (por exemplo, fenelzina e tranilcipromina). A combinação de inibidores da MAO-A e inibidores da MAO-B é equivalente a uma inibição não selectiva da MAO, portanto, não devem ambos ser administrados concomitantemente com Tasmar e com preparações de levodopa (ver também 4.5). Os inibidores selectivos da MAO-B não devem ser utilizados em doses superiores às recomendadas (por exemplo,10 mg/dia de selegilina) quando se administrem concomitantemente com Tasmar.
+ Varfarina: Uma vez que é limitada a informação clínica sobre a combinação de varfarina e tolcapone, os parâmetros da coagulação devem ser monitorizados quando estes fármacos se administram concomitantemente.
+ Intolerância à lactose: Cada comprimido contém 7,5 mg de lactose; provavelmente esta quantidade não é suficiente para induzir sintomas de intolerância à lactose. Doentes com problemas hereditários raros de intolerância à galactose, deficiência de lactase de Lapp ou malabsorção de glucose-galactose não devem tomar este medicamento.
+ Populações especiais: Doentes com insuficiência renal grave (depuração da creatinina &lt; 30 ml/min) devem ser tratados com precaução. Não se dispõe de informação sobre a tolerabilidade do tolcapone nestas populações (ver 5.2).
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ 17 Sabe-se que Tasmar, sendo um inibidor da COMT, aumenta a biodisponibilidade da levodopa administrada concomitantemente. O aumento consequente da estimulação dopaminérgica pode levar aos efeitos secundários dopaminérgicos observados após tratamento com inibidores da COMT. Destes efeitos, os mais comuns são o aumento de disquinésia, náuseas, vómitos, dor abdominal, síncope, queixas ortostáticas, obstipação, distúrbios do sono, sonolência, alucinações.
+ A levodopa está associada a sonolência e a episódios de adormecimento súbito. Foi muito raramente relatado adormecimento súbito durante as actividades diárias, em alguns casos sem que tenha havido consciência disso ou sinais de aviso. Os doentes devem ser informados deste facto e aconselhados a tomarem precauções quando conduzirem ou utilizarem máquinas durante o tratamento com levodopa. Os doentes que sofreram de sonolência e/ou de um episódio de adormecimento súbito devem abster-se de conduzir ou utilizar máquinas. Além disso, deve ser considerada a redução posológica da levodopa ou a suspensão do tratamento.
+ Ligação às proteínas: Embora o tolcapone se ligue intensamente às proteínas, os estudos in vitro demonstraram que o tolcapone em concentrações terapêuticas não deslocou a varfarina, tolbutamida, digitoxina e fenitoína dos seus locais de ligação.
+ Catecóis e outros fármacos metabolizados pela catecol-O-metiltransferase (COMT): Tolcapone pode influenciar a farmacocinética dos fármacos metabolizados pela COMT. Não foram observados efeitos na farmacocinética da carbidopa, substrato da COMT. Foi observada interacção com a benserazida que pode conduzir a níveis aumentados de benserazida e do seu metabolito activo. A amplitude do efeito foi dependente da dose de benserazida. As concentrações plasmáticas de benserazida observadas após administração concomitante de tolcapone e benserazida-25 mg/levodopa permaneceram ainda dentro do intervalo de valores observado com apenas levodopa/benserazida. Por outro lado, após administração concomitante de tolcapone e benserazida-50 mg/levodopa, as concentrações plasmáticas de benserazida aumentaram acima dos níveis normalmente observados com apenas levodopa/benserazida. Não foi avaliado o efeito do tolcapone na farmacocinética de outros fármacos metabolizados pela COMT, tais como a α-metildopa, dobutamina, apomorfina, adrenalina e isoprenalina. O médico prescritor deve estar vigilante quanto a efeitos adversos causados pelo suposto aumento dos níveis plasmáticos destes fármacos quando se combinem com Tasmar.
+ Efeito do tolcapone no metabolismo de outros fármacos: Devido à sua afinidade in vitro para o citocromo CYP2C9, tolcapone pode interferir com fármacos cuja depuração dependa desta via metabólica, tal como a tolbutamida e varfarina. Num estudo de interacções, tolcapone não alterou a farmacocinética da tolbutamida. Portanto, parecem improváveis interacções clinicamente relevantes envolvendo o citocromo CYP2C9.
+ Sendo limitada a informação clínica relativa à combinação de varfarina e o tolcapone, os parâmetros da coagulação devem ser monitorizados quando estes fármacos sejam administrados concomitantemente.
+ Tolcapone não alterou a farmacocinética da desipramina, se bem que ambos os fármacos partilhem a glucuronização como principal via metabólica.
+ Fármacos que aumentam as catecolaminas: Dado que o tolcapone interfere com o metabolismo das catecolaminas, são teoricamente possíveis interacções com outros fármacos que alteram os níveis de catecolaminas.
+ Tolcapone não influenciou o efeito da efedrina, um simpaticomimético indirecto, ao nível dos parâmetros hemodinâmicos ou dos níveis plasmáticos de catecolaminas, quer em repouso quer durante o exercício. Uma vez que tolcapone não alterou a tolerabilidade da efedrina, estes fármacos podem ser administrados concomitantemente.
+ Quando Tasmar foi administrado em conjunto com levodopa/carbidopa e desipramina, não houve alteração significativa da pressão arterial, frequência do pulso e concentrações plasmáticas de
+ 18 desipramina. No total, a frequência de acontecimentos adversos aumentou ligeiramente. Estes acontecimentos adversos eram previsíveis, com base nas reacções adversas conhecidas de cada um dos três fármacos individualmente. Portanto, deve haver precaução quando se administrem inibidores potentes da captação da noradrenalina, tais como desipramina, maprotilina ou venlafaxina, em doentes com doença de Parkinson em tratamento com Tasmar e preparações de levodopa.
+ Nos ensaios clínicos, os doentes tratados com Tasmar/preparações de levodopa relataram um perfil semelhante de acontecimentos adversos, independentemente de serem ou não tratados concomitantemente com selegilina (um inibidor da MAO-B).
+ 4.6 Gravidez e aleitamento Gravidez: Foi observada toxicidade embriofetal em ratos e coelhos, após administração de tolcapone (ver 5.3). O risco potencial para o ser humano é desconhecido.
+ Não existem dados adequados da utilização de tolcapone em mulheres grávidas. Portanto, Tasmar só deve ser utilizado durante a gravidez se o benefício potencial justificar o risco potencial para o feto.
+ Aleitamento: Nos estudos em animais, tolcapone foi excretado no leite materno.
+ Desconhece-se a segurança do tolcapone em lactentes; portanto, as mães não devem amamentar durante o tratamento com Tasmar.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram realizados estudos sobre os efeitos de Tasmar na capacidade de conduzir e utilizar máquinas.
+ Dos estudos clínicos não há evidência de que Tasmar influencie negativamente a capacidade dos doentes para conduzirem e utilizarem máquinas. No entanto, os doentes devem ser avisados de que a capacidade para conduzirem e utilizarem máquinas pode estar comprometida pelos sintomas da doença de Parkinson.
+ Sabe-se que Tasmar, sendo um inibidor da COMT, aumenta a biodisponibilidade da levodopa administrada concomitantemente. O aumento consequente da estimulação dopaminérgica pode levar aos efeitos secundários dopaminérgicos observados após tratamento com inibidores da COMT. Os doentes em tratamento com levodopa e que apresentem sonolência e/ou episódios de adormecimento súbito devem ser informados da necessidade de se absterem de conduzir ou exercer actividades em que a redução da vigília acarrete risco de danos graves ou morte para eles ou outras pessoas (p. ex. utilizar máquinas), até que estes episódios recorrentes e a sonolência se resolvam (ver também Secção 4.4).
+ 4.8 Efeitos indesejáveis São apresentados na tabela seguinte os eventos adversos mais frequentes associados ao uso de Tasmar, os quais ocorreram com maior frequência do que nos doentes tratados com placebo. Sabe-se, no entanto, que Tasmar, sendo um inibidor da COMT, aumenta a biodisponibilidade da levodopa administrada concomitantemente. O aumento consequente da estimulação dopaminérgica pode levar aos efeitos secundários dopaminérgicos observados após tratamento com inibidores da COMT. Destes efeitos, os mais comuns são o aumento de disquinésia, náuseas, vómitos, dor abdominal, síncope, queixas ortostáticas, obstipação, distúbios do sono, sonolência, alucinações. O único acontecimento adverso que habitualmente levou à suspensão de Tasmar nos ensaios clínicos foi a diarreia (ver 4.4).
+ Em 1% dos doentes que receberam 100 mg de Tasmar três vezes por dia e em 3% dos doentes que receberam 200 mg de Tasmar três vezes ao dia, ocorreram aumentos da alanina aminotransferase
+ 19 (ALT) até mais de três vezes o limite superior do normal (LSN). Estes aumentos foram aproximadamente duas vezes mais frequentes nas mulheres. Os aumentos surgiram geralmente 6 a 12 semanas após o início do tratamento, e não se lhes associaram quaisquer sinais ou sintomas clínicos. Em cerca de metade dos casos, os níveis de transaminases regressaram espontaneamente aos valores basais enquanto os doentes prosseguiam o tratamento com Tasmar. Nos restantes doentes, os níveis de transaminases regressaram aos níveis anteriores ao tratamento quando o mesmo foi suspenso.
+ Casos raros de lesão hepatocelular grave com desenlace fatal foram relatados durante a comercialização do produto (ver 4.4).
+ Foram relatados casos isolados de doentes com sintomas sugestivos de Síndrome Maligno dos Neurolépticos (ver 4.4) após redução ou suspensão de Tasmar e após introdução de Tasmar quando acompanhado de uma redução significativa de outros medicamentos dopaminérgicos administrados concomitantemente. Foi também observada rabdomiólise secundária ao SMN ou disquinésia grave.
+ Descoloração da urina: Tolcapone e os seus metabolitos são de cor amarela e podem causar uma inofensiva intensificação da cor da urina do doente.
+ Na tabela seguinte apresenta-se a experiência com Tasmar obtida em estudos paralelos, aleatorizados, controlados com placebo, em doentes com doença de Parkinson, enumerando as reacções adversas potencialmente relacionadas com Tasmar.
+ Resumo das reacções adversas potencialmente relacionadas com Tasmar, com taxas de incidência brutas dos estudos controlados com placebo de fase III:
+ Tolcapone Tolcapone Classe de Sistema de Órgãos Incidência* Efeitos Adversos Placebo N=298 (%) 100 mg 3xd N=296 (%) 200 mg 3xd N=298 (%) Doenças gastrointestinais Muito frequentes Náuseas 17,8 30,4 34,9 Anorexia Diarreia 12,8 7,7 18,9 15,5 22,8 18,1 Frequentes Vómitos Obstipação Xerostomia Dor abdominal Dispepsia
+ 3,7 5,0 2,3 2,7 1,7
+ 8,4 6,4 4,7 4,7 4,1
+ 9,7 8,4 6,4 5,7 3,0 Perturbações gerais e alterações no local de administração
+ Frequentes Dores no peito 1,3 3,4 1,0 Infecções e infestações Frequentes Infecção das vias aéreas superiores 3,4 4,7 7,4 Doenças do sistema nervoso Muito frequentes Discinésia 19,8 41,9 51,3 Distonia Cefaleias Tonturas
+ 17,1 7,4 9,7 18,6 9,8 13,2 22,1 11,4 6,4 Frequentes Hipoquinésia 0,7 0,7 2,7 Perturbações do foro psiquiátrico Muito frequentes Perturbações do sono 18,1 23,6 24,8 Sonhos 17,1 21,3 16,4 20
+ Tolcapone Tolcapone Classe de Sistema de Órgãos Incidência* Efeitos Adversos excessivos
+ Placebo N=298 (%) 100 mg 3xd N=296 (%) 200 mg 3xd N=298 (%) Sonolência Confusão Alucinações
+ 13,4 8,7 5,4 17,9 10,5 8,4 14,4 10,4 10,4 Doenças renais e urinárias Frequentes Descoloração da 0,7 urina 2,4 7,4 Doenças respiratórias, Frequentes torácicas e do mediastino
+ Síndrome gripal 1,7 3,0 4,0 Afecções dos tecidos Frequentes cutâneos e subcutâneos
+ Aumento da sudação 2,3 4,4 7,4 Vasculopatias Muito frequentes
+ Queixas ortostáticas 13,8 16,6 16,8 Frequentes Síncope 2,7 4,1 5,0 * Muito frequentes (&gt; 1/10); frequentes (&gt; 1/100, &lt; 1/10); pouco frequentes (&gt; 1/1.000 &lt; 1/100); raras (&gt; 1/10.000, &lt; 1/1.000); muito raras (&lt; 1/10.000)
+ 4.9 Sobredosagem Foram relatados casos isolados de sobredosagem acidental ou intencional com comprimidos de tolcapone. No entanto, as circunstâncias clínicas foram tão diversas que se não podem tirar conclusões gerais destes casos.
+ A dose mais elevada de tolcapone que foi administrada em seres humanos foi de 800 mg três vezes por dia, com e sem administração concomitante de levodopa, num estudo de uma semana em voluntários idosos saudáveis. O pico das concentrações plasmáticas de tolcapone com esta dose foi, em média, de 30 µg/ml (em comparação com 3 e 6 µg/ml para, respectivamente,100 mg e 200 mg de tolcapone três vezes por dia). Foram observadas náuseas, vómitos e tonturas, particularmente em combinação com levodopa.
+ Tratamento da sobredosagem: Aconselha-se a hospitalização. Estão indicadas as medidas gerais de suporte. Com base nas propriedades físico-químicas do produto, é improvável que a hemodiálise seja de utilidade.
+ 5. PROPRIEDADES FARMACOLÓGICAS Tolcapone é um inibidor selectivo e reversível da catecol-O-metiltransferase (COMT), activo por via oral. Administrado concomitantemente com levodopa e um inibidor da descarboxilase dos aminoácidos aromáticos (AADC-I), conduz a níveis plasmáticos mais estáveis de levodopa, através da redução do metabolismo da levodopa em 3-metoxi-4-hidroxi-L-fenilalanina (3-OMD).
+ Níveis plasmáticos elevados de 3-OMD são associados a resposta fraca à levodopa nos doentes com doença de Parkinson. Tolcapone reduz marcadamente a formação de 3-OMD.
+ 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Fármaco antiparkinsónico; código ATC: NO4BX01
+ Farmacologia clínica 21 Estudos realizados em voluntários saudáveis demonstraram que tolcapone administrado por via oral inibe reversivelmente a actividade da COMT nos eritrócitos humanos. A inibição está estreitamente relacionada com a concentração plasmática de tolcapone. Com 200 mg de tolcapone, a inibição máxima da actividade eritrocitária da COMT é, em média, superior a 80%. Durante o regime posológico de 200 mg de Tasmar três vezes por dia, a inibição da actividade eritrocitária da COMT no vale é de 30% a 45%, sem desenvolvimento de tolerância.
+ Após suspensão do tolcapone, foi observada uma elevação transitória da actividade eritrocitária da COMT acima dos níveis prévios ao tratamento. No entanto, um estudo em doentes com Parkinson confirmou que, após a suspensão do tratamento, não houve alteração significativa na farmacocinética da levodopa nem na resposta do doente à levodopa, em comparação com os níveis prévios ao tratamento.
+ Quando se administra Tasmar juntamente com levodopa, a biodisponibilidade relativa (AUC) da levodopa eleva-se aproximadamente para o dobro. Isto é devido a uma diminuição da depuração da L-dopa que dá lugar ao prolongamento da semi-vida de eliminação terminal (t1/2) da levodopa. Em geral, não foram afectados o pico médio da concentração plasmática de levodopa (Cmax) nem o tempo para alcançá-lo (tmax). O efeito manifesta-se após a primeira administração. Os estudos em voluntários saudáveis e em doentes parkinsónicos confirmaram que o efeito máximo ocorre com 100-200 mg de tolcapone. Os níveis plasmáticos de 3-OMD diminuíram consideravelmente e em função da dose de tolcapone, quando este foi administrado com levodopa/AADC-I (inibidor da descarboxilase dos aminoácidos aromáticos) (benserazida ou carbidopa).
+ O efeito do tolcapone na farmacocinética da levodopa é semelhante com todas as formulações farmacêuticas de levodopa/benserazida e de levodopa/carbidopa; é independente da dose de levodopa, da relação levodopa/AADC-I (benserazida ou carbidopa) e do uso de formulações de libertação prolongada.
+ Estudos clínicos Os estudos clínicos de dupla ocultação, controlados com placebo, demonstraram uma redução significativa de aproximadamente 20% a 30% do tempo em OFF e um aumento semelhante do tempo em ON, acompanhados de redução da gravidade dos sintomas em doentes com flutuações tratados com Tasmar. As avaliações globais de eficácia realizadas pelo investigador revelaram também uma melhoria significativa.
+ Um ensaio clínico de dupla ocultação comparou Tasmar 100 mg com entacapone em doentes com doença de Parkinson que tinham tido pelo menos três horas de tempo em OFF por dia enquanto recebiam tratamento optimizado com levodopa. O resultado primário foi a proporção de doentes com um aumento do tempo em ON de 1 ou mais horas (ver Tabela 1).
+ Tab. 1 Resultado primário e secundário do ensaio de dupla ocultação Resultado primário
+ Entacapone N=75 Tolcapone N=75 valor p
+ IC 95% Número (proporção) com resposta ≥ 1 hora no 32 (43%) tempo ON Resultado secundário
+ 40 (53%) p=0,191-5, 2; 26,6
+ Número (proporção) com melhoria moderada 19 (25%) ou marcada Número (proporção) com melhoria de ambos
+ 29 (39%) p=0,080-1, 4; 28,1
+ os resultados primário e secundário 13 (17%)
+ 24 (32%) NA NA 22 5.2 Propriedades farmacocinéticas
+ No intervalo terapêutico, a farmacocinética do tolcapone é linear e independente da administração concomitante de levodopa/AADC-I (benserazida ou carbidopa).
+ Absorção: Tolcapone é absorvido rapidamente com um tmax de aproximadamente 2 horas. A biodisponibilidade absoluta de uma administração oral é cerca de 65%. Tolcapone não se acumula com a posologia de 100 ou 200 mg três vezes por dia. Nestas doses, a Cmax é aproximadamente de 3 e 6 µg/ml, respectivamente. Os alimentos retardam e reduzem a absorção de tolcapone, mas a biodisponibilidade relativa de uma dose de tolcapone tomada com uma refeição é ainda de 80% a 90%.
+ Distribuição: O volume de distribuição (Vss) do tolcapone é pequeno (9 l). Tolcapone não se distribui amplamente nos tecidos devido à sua forte ligação às proteínas plasmáticas (&gt; 99,9%). Os ensaios in vitro revelaram que o tolcapone se liga principalmente à albumina sérica.
+ Metabolismo/Eliminação: Tolcapone é quase completamente metabolizado antes da sua excreção, com apenas uma quantidade muito pequena (0,5% da dose) detectada inalterada na urina. A principal via metabólica do tolcapone é a conjugação no seu glucuronido inactivo. Além disso, o composto é metilado pela COMT em 3-O-metil-tolcapone e metabolizado pelos citocromos P450 3A4 e P450 2A6 num álcool primário (hidroxilação do grupo metilo), o qual é em seguida oxidado a ácido carboxílico. A redução na amina correspondente seguida de N-acetilação, ocorre em menor grau. Após administração oral,60% dos derivados do fármaco são excretados na urina e 40% nas fezes.
+ Tolcapone é um fármaco com um coeficiente de extracção baixo (coeficiente de extracção= 0,15) com depuração sistémica moderada de cerca de 7 l/h. O t1/2 do tolcapone é aproximadamente de 2 horas.
+ Insuficiência hepática: Devido ao risco de lesão hepática observado na utilização pós-introdução no mercado, Tasmar é contra-indicado em doentes com doença hepática ou com valores aumentados das enzimas hepáticas. Um estudo realizado em doentes com insuficiência hepática demonstrou que uma doença hepática moderada não cirrótica não teve nenhum impacto na farmacocinética do tolcapone. No entanto, em doentes com cirrose hepática moderada, a depuração do tolcapone não ligado foi reduzida em quase 50%. Esta redução pode aumentar para o dobro a concentração média do fármaco não ligado.
+ Insuficiência renal: Não foi investigada a farmacocinética do tolcapone em doentes com insuficiência renal. No entanto, a relação entre a função renal e a farmacocinética do tolcapone foi investigada utilizando os dados de farmacocinética da população durante os ensaios clínicos. Os dados de mais de 400 doentes confirmaram que para um amplo intervalo de valores de depuração da creatinina (30 – 130 ml/min), a farmacocinética do tolcapone não é afectada pela função renal. Isto pode ser explicado pelo facto de apenas uma quantidade negligenciável de tolcapone inalterado ser excretado na urina e de o principal metabolito, o glucuronido do tolcapone, ser excretado tanto na urina como na bílis (fezes).
+ 5.3 Dados de segurança pré-clínica Os dados pré-clínicos não revelam riscos especiais para o ser humano, com base em estudos convencionais de farmacologia de segurança, toxicidade por dose repetida, genotoxicidade, potencial carcinogéneo e toxicidade na reprodução.
+ Carcinogénese, mutagénese: No estudo de carcinogenicidade de 24 meses foram demonstrados tumores renais epiteliais (adenomas ou carcinomas) em 3% e 5% dos ratos dos grupos de doses média e alta, respectivamente. No entanto, não foi observado nenhum indício de toxicidade renal no grupo de dose baixa. Foi observada uma incidência maior de adenocarcinomas do útero no grupo de dose
+ 23 alta no estudo de carcinogenicidade no rato. Não houve resultados renais semelhantes nos estudos de carcinogenicidade nos ratinhos ou nos cães. Mutagénese: Numa série completa de estudos de mutagenicidade, foi evidenciado que o tolcapone não é genotóxico.
+ Toxicidade na reprodução: Tolcapone, quando administrado isoladamente, manifestou-se não teratogénico e sem quaisquer efeitos relevantes na fertilidade.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1. Lista dos excipientes Núcleo do comprimido: Hidrogenofosfato de cálcio (anidro) Celulose microcristalina Polividona K30 Glicolato sódico de amido Lactose mono-hidratada Talco Estearato de magnésio
+ Revestimento por película: Metil-hidroxipropilcelulose Talco Óxido amarelo de ferro (E 172) Etilcelulose Dióxido de titânio (E 171) Triacetina Lauril sulfato de sódio
+ 6.2 Incompatibilidades Não aplicável. 6.3 Prazo de validade 5 anos 6.4 Precauções especiais de conservação
+ Não requer condições especiais de conservação
+ 6.5 Natureza e conteúdo do recipiente Tasmar está disponível em blisters de PVC/PE/PVDC (embalagens de 30 e 60 comprimidos revestidos por película) e em frascos de vidro (embalagens de 100 comprimidos revestidos por película). Algumas embalagens poderão não ser comercializadas.
+ 6.6 Instruções de utilização e manipulação e eliminação
+ Não existem requisitos especiais. 24 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Valeant Pharmaceuticals Ltd. Cedarwood, Chineham Business Park Crockford Lane Basingstoke Hampshire, RG24 8WD
+ Reino Unido 8. NÚMEROS DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Tasmar 200 mg comprimidos: EU/1/97/044/004-6
+ 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 27 de Agosto de 1997/31 de Agosto de 2004
+ 10. DATA DA REVISÃO DO TEXTO 25 ANEXO II
+ A. TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 26 A TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do fabricante responsável pela libertação do lote
+ ICN Polfa Rzeszów S. A. ul. Przemysłowa 2 35-959 Rzeszów Polónia
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento de receita médica restrita (Ver Anexo I: Resumo das Características do Medicamento, 4.2.)
+ • OUTRAS CONDIÇÕES
+ O titular desta autorização de introdução no mercado deve informar a Comissão Europeia acerca dos planos de comercialização do medicamento autorizado pela presente decisão.
+ Depois do RPS submetido em Outubro de 2004, de acordo com a data de nascimento internacional, os RPS serão submetidos de acordo com os requisitos para submissões de RPS iniciais após concessão de uma Autorização de Introdução no Mercado, tal como estabelecido pelo Regulamento (CEE) 2309/93, do Conselho, Artigo 22(2). Estes RPS irão abordar os dados cumulativos de reacções hepáticas e de SMN.
+ 27 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 28 A. ROTULAGEM
+ 29 INDICAÇÕES A INCLUIR NA EMBALAGEM EXTERIOR OU, CASO ESTA NÃO EXISTA, NO ACONDICIONAMENTO PRIMÁRIO
+ Embalagens dos Frascos e rótulo dos frascos,100 Comprimidos Revestidos por Película
+ 1. DENOMINAÇÃO DO MEDICAMENTO Tasmar 100 mg comprimidos revestidos por película Tolcapone
+ 2. DESCRIÇÃO DO PRINCÍPIO ACTIVO 1 comprimido revestido por película contém 100 mg de tolcapone
+ 3. LISTA DOS EXCIPIENTES Corantes (E171, E172), lactose mono-hidratada
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 100 comprimidos revestidos por película 5. MODO E VIA DE ADMINISTRAÇÃO Os comprimidos devem ser engolidos inteiros
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ 30 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Valeant Pharmaceuticals Ltd. Cedarwood, Chineham Business Park Crockford Lane Basingstoke Hampshire, RG24 8WD
+ Reino Unido 12. NÚMERO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/97/044/003 13. NÚMERO DO LOTE DE FABRICO Lote 14. CLASSIFICAÇÃO GERAL RELATIVA AO FORNECIMENTO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO Leia o folheto informativo antes de usar 31 INDICAÇÕES A INCLUIR NA EMBALAGEM EXTERIOR OU, CASO ESTA NÃO EXISTA, NO ACONDICIONAMENTO PRIMÁRIO
+ Embalagens dos Frascos e rótulo dos frascos,60 Comprimidos Revestidos por Película
+ 1. DENOMINAÇÃO DO MEDICAMENTO Tasmar 100 mg comprimidos revestidos por película Tolcapone
+ 2. DESCRIÇÃO DO PRINCÍPIO ACTIVO 1 comprimido revestido por película contém 100 mg de tolcapone
+ 3. LISTA DOS EXCIPIENTES Corantes (E171, E172), lactose mono-hidratada
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 60 comprimidos revestidos por película 5. MODO E VIA DE ADMINISTRAÇÃO Os comprimidos devem ser engolidos inteiros
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ 32 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Valeant Pharmaceuticals Ltd. Cedarwood, Chineham Business Park Crockford Lane Basingstoke Hampshire, RG24 8WD
+ Reino Unido 12. NÚMERO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/97/044/008 …. 13. NÚMERO DO LOTE DE FABRICO Lote 14. CLASSIFICAÇÃO GERAL RELATIVA AO FORNECIMENTO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO Leia o folheto informativo antes de usar 33 INDICAÇÕES A INCLUIR NA EMBALAGEM EXTERIOR OU, CASO ESTA NÃO EXISTA, NO ACONDICIONAMENTO PRIMÁRIO
+ Embalagens dos Frascos e rótulo dos frascos,30 Comprimidos Revestidos por Película
+ 1. DENOMINAÇÃO DO MEDICAMENTO Tasmar 100 mg comprimidos revestidos por película Tolcapone
+ 2. DESCRIÇÃO DO PRINCÍPIO ACTIVO 1 comprimido revestido por película contém 100 mg de tolcapone
+ 3. LISTA DOS EXCIPIENTES Corantes (E171, E172), lactose mono-hidratada
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 30 comprimidos revestidos por película 5. MODO E VIA DE ADMINISTRAÇÃO Os comprimidos devem ser engolidos inteiros
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ 34 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Valeant Pharmaceuticals Ltd. Cedarwood, Chineham Business Park Crockford Lane Basingstoke Hampshire, RG24 8WD
+ Reino Unido 12. NÚMERO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/97/044/007 …. 13. NÚMERO DO LOTE DE FABRICO Lote 14. CLASSIFICAÇÃO GERAL RELATIVA AO FORNECIMENTO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO Leia o folheto informativo antes de usar 35 INDICAÇÕES A INCLUIR NA EMBALAGEM EXTERIOR OU, CASO ESTA NÃO EXISTA, NO ACONDICIONAMENTO PRIMÁRIO
+ Embalagens dos blister,60 Comprimidos Revestidos por Película
+ 1. DENOMINAÇÃO DO MEDICAMENTO Tasmar 100 mg comprimidos revestidos por película Tolcapone
+ 2. DESCRIÇÃO DO PRINCÍPIO ACTIVO 1 comprimido revestido por película contém 100 mg de tolcapone
+ 3. LISTA DOS EXCIPIENTES Corantes (E171, E172), lactose mono-hidratada
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 60 comprimidos revestidos por película 5. MODO E VIA DE ADMINISTRAÇÃO Os comprimidos devem ser engolidos inteiros
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ 36 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Valeant Pharmaceuticals Ltd. Cedarwood, Chineham Business Park Crockford Lane Basingstoke Hampshire, RG24 8WD
+ Reino Unido 12. NÚMERO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/97/044/002 13. NÚMERO DO LOTE DE FABRICO Lote 14. CLASSIFICAÇÃO GERAL RELATIVA AO FORNECIMENTO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO Leia o folheto informativo antes de usar 37 INDICAÇÕES A INCLUIR NA EMBALAGEM EXTERIOR OU, CASO ESTA NÃO EXISTA, NO ACONDICIONAMENTO PRIMÁRIO
+ Embalagens dos blister,30 Comprimidos Revestidos por Película
+ 1. DENOMINAÇÃO DO MEDICAMENTO Tasmar 100 mg comprimidos revestidos por película Tolcapone
+ 2. DESCRIÇÃO DO PRINCÍPIO ACTIVO 1 comprimido revestido por película contém 100 mg de tolcapone
+ 3. LISTA DOS EXCIPIENTES Corantes (E171, E172), lactose mono-hidratada
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 30 comprimidos revestidos por película 5. MODO E VIA DE ADMINISTRAÇÃO Os comprimidos devem ser engolidos inteiros
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ 38 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Valeant Pharmaceuticals Ltd. Cedarwood, Chineham Business Park Crockford Lane Basingstoke Hampshire, RG24 8WD
+ Reino Unido 12. NÚMERO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/97/044/001 13. NÚMERO DO LOTE DE FABRICO Lote 14. CLASSIFICAÇÃO GERAL RELATIVA AO FORNECIMENTO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO Leia o folheto informativo antes de usar 39 INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS “ BLISTER ” OU FITAS CONTENTORAS
+ 1. DENOMINAÇÃO DO MEDICAMENTO Tasmar 100 mg Tolcapone 2. NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Valeant Pharmaceuticals Ltd. UK 3. PRAZO DE VALIDADE VAL. 4. NÚMERO DO LOTE Lote 40 INDICAÇÕES A INCLUIR NA EMBALAGEM EXTERIOR OU, CASO ESTA NÃO EXISTA, NO ACONDICIONAMENTO PRIMÁRIO
+ Embalagens dos Frascos e rótulo dos frascos,100 Comprimidos Revestidos por Película
+ 1. DENOMINAÇÃO DO MEDICAMENTO Tasmar 200 mg comprimidos revestidos por película Tolcapone
+ 2. DESCRIÇÃO DO PRINCÍPIO ACTIVO 1 comprimido revestido por película contém 200 mg de tolcapone
+ 3. LISTA DOS EXCIPIENTES Corantes (E171, E172), lactose mono-hidratada
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 100 comprimidos revestidos por película 5. MODO E VIA DE ADMINISTRAÇÃO Os comprimidos devem ser engolidos inteiros
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ 41 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Valeant Pharmaceuticals Ltd. Cedarwood, Chineham Business Park Crockford Lane Basingstoke Hampshire, RG24 8WD
+ Reino Unido 12. NÚMERO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/97/044/006 13. NÚMERO DO LOTE DE FABRICO Lote 14. CLASSIFICAÇÃO GERAL RELATIVA AO FORNECIMENTO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO Leia o folheto informativo antes de usar 42 INDICAÇÕES A INCLUIR NA EMBALAGEM EXTERIOR OU, CASO ESTA NÃO EXISTA, NO ACONDICIONAMENTO PRIMÁRIO
+ Embalagens dos blister,60 Comprimidos Revestidos por Película
+ 1. DENOMINAÇÃO DO MEDICAMENTO Tasmar 200 mg comprimidos revestidos por película Tolcapone
+ 2. DESCRIÇÃO DO PRINCÍPIO ACTIVO 1 comprimido revestido por película contém 200 mg de tolcapone
+ 3. LISTA DOS EXCIPIENTES Corantes (E171, E172), lactose mono-hidratada
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 60 comprimidos revestidos por película 5. MODO E VIA DE ADMINISTRAÇÃO Os comprimidos devem ser engolidos inteiros
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ 43 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Valeant Pharmaceuticals Ltd. Cedarwood, Chineham Business Park Crockford Lane Basingstoke Hampshire, RG24 8WD
+ Reino Unido 12. NÚMERO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/97/044/005 13. NÚMERO DO LOTE DE FABRICO Lote 14. CLASSIFICAÇÃO GERAL RELATIVA AO FORNECIMENTO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO Leia o folheto informativo antes de usar 44 INDICAÇÕES A INCLUIR NA EMBALAGEM EXTERIOR OU, CASO ESTA NÃO EXISTA, NO ACONDICIONAMENTO PRIMÁRIO
+ Embalagens dos blister,30 Comprimidos Revestidos por Película
+ 1. DENOMINAÇÃO DO MEDICAMENTO Tasmar 200 mg comprimidos revestidos por película Tolcapone
+ 2. DESCRIÇÃO DO PRINCÍPIO ACTIVO 1 comprimido revestido por película contém 200 mg de tolcapone
+ 3. LISTA DOS EXCIPIENTES Corantes (E171, E172), lactose mono-hidratada
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 30 comprimidos revestidos por película 5. MODO E VIA DE ADMINISTRAÇÃO Os comprimidos devem ser engolidos inteiros
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ 45 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Valeant Pharmaceuticals Ltd. Cedarwood, Chineham Business Park Crockford Lane Basingstoke Hampshire, RG24 8WD
+ Reino Unido 12. NÚMERO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/97/044/004 13. NÚMERO DO LOTE DE FABRICO Lote 14. CLASSIFICAÇÃO GERAL RELATIVA AO FORNECIMENTO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO Leia o folheto informativo antes de usar 46 INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS “ BLISTER ” OU FITAS CONTENTORAS
+ 1. DENOMINAÇÃO DO MEDICAMENTO Tasmar 200 mg Tolcapone 2. NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Valeant Pharmaceuticals Ltd. UK 3. PRAZO DE VALIDADE VAL. 4. NÚMERO DO LOTE Lote 47 B. FOLHETO INFORMATIVO
+ 48 FOLHETO INFORMATIVO
+ Leia atentamente este folheto antes de tomar o medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso tenha dúvidas, consulte o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ Neste folheto: 1. O que é Tasmar e para que é utilizado 2. Antes de tomar Tasmar 3. Como tomar Tasmar 4. Efeitos secundários possíveis 5. Conservação de Tasmar 6. Outras informações
+ Tasmar 100 mg comprimido revestido por película Tolcapone
+ -A substância activa é o tolcapone (100 mg em cada comprimido revestido por película)
+ -Os outros ingredientes são:
+ Núcleo do comprimido: Hidrogenofosfato de cálcio (anidro), Celulose microcristalina, Polividona K30, Glicolato de amido sódico, Lactose mono-hidratada, Talco, Estearato de magnésio. Revestimento por película: Metil-hidroxipropilcelulose, Talco, Óxido amarelo de ferro (E 172), Etilcelulose, Dióxido de titânio (E 171), Triacetina, Laurilsulfato de sódio.
+ Titular da Autorização de Introdução no Mercado Valeant Pharmaceuticals Ltd. Cedarwood, Chineham Business Park Crockford Lane Basingstoke Hampshire, RG24 8WD
+ Reino Unido Fabricante ICN Polfa Rzeszów S. A. ul. Przemysłowa 2 35-959 Rzeszów Polónia
+ 1. O QUE É TASMAR E PARA QUE É UTILIZADO
+ Tasmar é um comprimido revestido por película, de forma oval, amarelo pálido a amarelo claro. Tem a inscrição “ TASMAR ” e “ 100 ” numa face. Tasmar apresenta-se sob a forma de comprimidos revestidos contendo 100 mg de tolcapone. Está disponível em blisters em embalagens de 30 e 60 comprimidos e em frascos de vidro em embalagens de 30,60 e 100 comprimidos.
+ Tasmar é usado em combinação com levodopa/benserazida ou com levodopa/carbidopa quando todos os outros medicamentos alternativos não consigam estabilizar a doença de Parkinson.
+ 49 A terapêutica com Tasmar só deve ser iniciada por médicos com experiência no tratamento da doença de Parkinson, a fim de garantir uma avaliação adequada do risco/benefício.
+ A catecol-O-metiltransferase (COMT) é uma enzima naturalmente presente no organismo que degrada o fármaco levodopa, utilizado para tratar a doença de Parkinson. Tasmar bloqueia a COMT e torna mais lenta a degradação da levodopa. Isto significa que quando é tomado em conjunto com levodopa (sob a forma de levodopa/benserazida ou levodopa/carbidopa), deverá sentir melhoria dos seus sintomas da doença de Parkinson.
+ 2. ANTES DE TOMAR TASMAR Não deve começar a tomar Tasmar antes que o médico lhe descreva os riscos do tratamento com Tasmar e as medidas necessárias para minimizar esses riscos, e lhe responda a quaisquer questões que possa ter. Só deve tomar Tasmar se a sua doença de Parkinson não estiver adequadamente controlada com outros tratamentos. Além disso, o seu médico suspender-lhe-á o tratamento com Tasmar se após 3 semanas não apresentar melhoria que justifique os riscos da continuação do tratamento.
+ Lesão hepática: Tasmar pode causar lesões hepáticas, raras mas potencialmente fatais. As lesões hepáticas ocorreram com mais frequência após 1 mês e até 6 meses. As lesões podem também ocorrer mais cedo ou mais tarde. É de salientar que no sexo feminino poderá haver um risco mais elevado de lesão hepática.
+ Antes do início do tratamento: A fim de diminuir o risco de lesão hepática, não deve usar Tasmar se 1) tiver uma doença hepática ou 2) análises de sangue realizadas antes do início do tratamento revelarem qualquer anomalia hepática (testes de ALT, alanina aminotransferase e AST, aspartato aminotransferase).
+ Durante o tratamento: Serão realizadas análises de sangue de 2 em 2 semanas durante o primeiro ano de tratamento, de 4 em 4 semanas durante os 6 meses seguintes e de 8 em 8 semanas daí em diante e o tratamento será interrompido se os resultados estiverem fora do normal. Os seguintes sintomas podem indicar uma lesão hepática e deverá comunicá-los imediatamente ao seu médico: icterícia (amarelecimento da pele ou olhos), coloração escura da urina, dor no estômago (especialmente sobre o fígado na zona superior direita), agravamento de náuseas ou vómitos, falta de apetite, se se cansar mais facilmente do que é habitual ou se se sentir fraco.
+ SMN (Síndrome Maligno dos Neurolépticos):
+ SMN (Síndrome Maligno dos Neurolépticos) consiste em alguns ou em todos os seguintes sintomas: rigidez muscular grave, movimentos involuntários dos músculos, braços ou pernas, e dores musculares. Por vezes as lesões musculares podem causar coloração escura da urina. Outros sintomas importantes são febre alta e confusão mental. Após redução ou paragem repentina de Tasmar ou de outros fármacos antiparkinsónicos, pode muito raramente sentir sintomas graves de rigidez muscular, febre ou confusão mental. Se tal acontecer, avise o seu médico. Os sintomas podem também ocorrer durante o tratamento com Tasmar. Antes do início do tratamento: A fim de diminuir o risco de SMN, não deve usar Tasmar se o médico lhe tiver dito que tem disquinésia grave (movimentos involuntários) ou teve uma doença que poderia ter sido SMN. Informe o seu médico de todos os medicamentos sujeitos a receita médica ou não sujeitos a receita médica, porque o risco de SMN pode aumentar se estiver a tomar medicamentos que alteram os efeitos das moléculas transmissoras cerebrais, dopamina e serotonina. 50 Durante o tratamento: Se desenvolver sintomas como os acima descritos que lhe pareçam ser os de SMN, deve relatá-los imediatamente ao seu médico. Não pare de tomar Tasmar ou qualquer outra medicação antiparkinsónica sem ter falado com o seu médico, porque o risco de SMN pode aumentar.
+ Não tome Tasmar: -se tiver uma doença hepática ou enzimas hepáticas aumentadas.
+ -se tiver disquinésia grave (movimentos involuntários).
+ -se tiver história anterior de complexo de sintomas Síndrome Maligno dos Neurolépticos (SMN)
+ e/ou se tem Rabdomiólise não-traumática ou Hipertermia.
+ -se tiver hipersensibilidade (alergia) ao tolcapone ou a qualquer outro ingrediente de Tasmar.
+ -se tiver Feocromocitoma.
+ Tome especial cuidado com Tasmar: -se durante o tratamento sofrer de uma doença hepática. O tratamento com Tasmar pode, por
+ vezes, afectar o funcionamento do fígado. Portanto, se notar sintomas como náuseas, vómitos, dor abdominal, falta de apetite, fraqueza, febre, coloração escura da urina ou icterícia, deve contactar o seu médico imediatamente.
+ -se tiver outras doenças além da doença de Parkinson.
+ -se for alérgico a outros medicamentos, alimentos ou corantes.
+ -se estiver a tomar outros medicamentos, incluindo aqueles que pode adquirir sem receita
+ médica.
+ -se já tiver tomado Tasmar e desenvolveu lesão hepática aguda durante o tratamento, Tasmar
+ não lhe deverá ser administrado de novo.
+ Tomar Tasmar com alimentos e bebidas: Tome Tasmar com água. Tasmar pode ser tomado com ou sem alimentos.
+ Gravidez Deve informar o seu médico se estiver grávida ou se pretender engravidar. O seu médico falar-lhe-á sobre os riscos e os benefícios de tomar Tasmar durante a gravidez.
+ Aleitamento Não foram estudados os efeitos de Tasmar nos lactentes. Não deve amamentar o seu bebé durante o tratamento com Tasmar.
+ Condução de veículos e utilização de máquinas: Tasmar produz efeito nos sintomas da sua doença de Parkinson. Uma vez que a sua capacidade para conduzir ou utilizar máquinas pode estar afectada pela doença de Parkinson, deve discutir este assunto com o seu médico.
+ Tasmar utilizado com a sua outra medicação de Parkinson pode causar sonolência (sono excessivo) e episódios de adormecimento súbito. Portanto, deve abster-se de conduzir ou realizar actividades em que a redução da vigília possa acarretar risco de danos graves ou morte para si ou outras pessoas (p. ex. utilizar máquinas) até que tais episódios recorrentes e a sonolência se resolvam.
+ Informações importantes sobre alguns dos efeitos indesejáveis de Tasmar: Pouco depois do início ou durante o tratamento com Tasmar, poderá ter sintomas causados pela levodopa, tais como disquinésia (movimentos involuntários) e náuseas. Se não se sentir bem, deve contactar o seu médico porque será talvez necessário reduzir a sua dose de levodopa.
+ Se o seu médico lhe tiver dito que tem intolerância a alguns açúcares, contacte o seu médico antes de começar a tomar este medicamento.
+ Tomar Tasmar com outros medicamentos: 51 Informe o seu médico de todos os outros medicamentos que estiver a tomar, especialmente os antidepressivos, alfa-metildopa (antihipertensor), apomorfina (usada na doença de Parkinson), dobutamina (usada no tratamento da insuficiência cardíaca congestiva), adrenalina (usada em ataques cardíacos) e isoprenalina (usada em ataques cardíacos).
+ Se estiver a tomar Tasmar com anticoagulantes (que impedem a coagulação sanguínea) do tipo varfarina, o seu médico far-lhe-á eventualmente análises de sangue regulares para verificar se o sangue coagula facilmente.
+ Se for ao hospital ou se lhe receitarem um medicamento novo, deve informar o seu médico de que está a tomar Tasmar.
+ Informe o seu médico ou o farmacêutico se estiver a tomar ou tiver recentemente tomado quaisquer outros medicamentos, mesmo aqueles que obteve sem prescrição médica (medicamentos não sujeitos a receita médica e plantas).
+ 3. COMO TOMAR TASMAR Tome Tasmar seguindo sempre exactamente as instruções do seu médico. Se tiver dúvidas, deve esclarecê-las com o seu médico. Não parta nem esmague os comprimidos.
+ Posologia e modo de administração No início e durante o tratamento com Tasmar, pode ser necessário alterar a sua dose de levodopa. O seu médico dir-lhe-á o que deve fazer.
+ O seu médico deve iniciar o tratamento sempre com a dose padrão (100 mg três vezes por dia). Se não se observarem benefícios nas 3 semanas seguintes ao início do tratamento, Tasmar deverá ser suspenso. A dose só deverá ser aumentada para a dose mais elevada (200 mg três vezes por dia) se a melhoria no controlo dos sintomas da doença de Parkinson compensar o aumento esperado de efeitos secundários. Os efeitos secundários com a dose mais elevada podem frequentemente ser graves e afectar o fígado. Se não melhorar com a dose mais alta depois de um total de 3 semanas, o seu médico deve parar o tratamento com Tasmar.
+ O seu médico far-lhe-á uma análise ao sangue para monitorizar a função hepática antes de iniciar o tratamento e, depois, regularmente de 2 em 2 semanas durante o primeiro ano de terapêutica, de 4 em 4 semanas nos 6 meses seguintes e de 8 em 8 semanas daí em diante. Se o seu médico lhe aumentar a dose, os testes hepáticos terão de ser repetidos antes do aumento da dose e, regularmente, daí em diante.
+ A primeira dose de Tasmar é tomada com a primeira dose do dia de levodopa e as outras doses de Tasmar são tomadas cerca de 6 e 12 horas mais tarde. Tome um comprimido de manhã, um comprimido a meio do dia e um comprimido à noite.
+ Informe o seu médico se, por qualquer razão, não tiver tomado o medicamente exactamente como lhe foi prescrito. Caso contrário, o seu médico pode pensar que o medicamento não foi eficaz ou não foi bem tolerado e pode desnecessariamente alterar o seu tratamento.
+ Se tomar mais Tasmar do que deveria: Contacte imediatamente um médico, um farmacêutico ou um hospital, porque pode precisar de cuidados médicos urgentes. Se outra pessoa tomar acidentalmente o seu medicamento, contacte imediatamente um médico ou um hospital, porque poderá necessitar de cuidados médicos urgentes.
+ Os sintomas de uma sobredosagem podem incluir náuseas, vómitos, vertigens e dificuldades respiratórias.
+ 52 Caso se tenha esquecido de tomar Tasmar: Tome-o assim que se lembrar, em seguida, continue a tomá-lo ás horas habituais. Caso se tenha esquecido de tomar várias doses, informe o seu médico e siga os seus conselhos. Não tome uma dose a dobrar para compensar as doses individuais que se esqueceu de tomar.
+ Efeitos da interrupção do tratamento com Tasmar: Não reduza a dose nem pare de tomar o medicamento, a não ser que o médico lhe diga para o fazer. Siga sempre as instruções do seu médico quanto à duração do tratamento com Tasmar.
+ 4. EFEITOS SECUNDÁRIOS POSSIVEIS Como os demais medicamentos, Tasmar pode ter efeitos secundários. Informe o seu médico ou o farmacêutico o mais rapidamente possível, se não se sentir bem com o tratamento com Tasmar.
+ Os feitos indesejáveis mais prováveis de ocorrer são: disquinésia (movimentos involuntários), náuseas, distúrbios do sono, menor apetite, diarreia, desmaio, sentir tonturas ao levantar-se, obstipação e alucinações.
+ Foram observadas alterações no funcionamento do fígado, em alguns casos hepatite grave. Portanto, se detectar sintomas como náuseas, vómitos, dor abdominal, falta de apetite, fraqueza, febre, coloração escura da urina ou icterícia, deve contactar imediatamente o seu médico.
+ Pouco depois do início do tratamento ou durante o tratamento com Tasmar, poderá ter sintomas causados pela levodopa, tais como disquinésia (movimentos involuntários) e náuseas. Portanto, se não se sentir bem, deve contactar o seu médico porque pode ser necessário alterar a sua dose de levodopa.
+ Contacte o seu médico, se tiver diarreia grave ou persistente.
+ Este medicamento pode causar uma inofensiva descoloração amarela da urina. No entanto, se notar escurecimento da sua urina, que pode ser um sinal de lesão muscular ou lesão hepática, por favor informe o seu médico. Muito raramente, alguns doentes desenvolvem Síndrome Maligno dos Neurolépticos (sintomas graves de rigidez muscular, febre ou confusão mental) quando os tratamentos antiparkinsónicos são repentinamente reduzidos ou suspensos.
+ Caso detecte efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. CONSERVAÇÃO DE TASMAR Manter fora do alcance e da vista das crianças.
+ Não requer condições especiais de conservação.
+ Não utilize Tasmar após expirar o prazo de validade indicado na embalagem.
+ Não utilize Tasmar caso detecte que os comprimidos estão deteriorados.
+ 53 6. OUTRAS INFORMAÇÕES
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado.
+ België/Belgique/Belgien (Zie/voir/siehe Nederland)
+ Luxembourg/Luxemburg (Voir/siehe Nederland)
+ България Bulgermed Teл.:+ 359 2 9427070
+ Magyarország Valeant Pharma Magyarország Kft. Tel: +(36 1) 34 55 900
+ Česká republika Valeant Czech Pharma s. r. o. Tel: +420-2 214 34 111
+ Malta Vivian Cooporation Tel: +356-21344610
+ Danmark MediLink A/S Tlf: +45 70 22 30 15
+ Nederland Valeant Pharmaceuticals Benelux &amp; Scandinavia B. V. Tel: +31 (0) 79 330 2424
+ Deutschland Valeant Pharmaceuticals Germany GmbH Tel: +49 (0) 6196 99 88 90
+ Norge (Se Danmark) Eesti (See Latvia)
+ Österreich (siehe Deutschland) Ελλάδα ΒΙΑΝΕΞ Α. Ε. Tel+ 30 210 800 91 11
+ Polska ICN Polfa Rzeszów SA Tel: +48 (0) 22 627 28 88
+ España Valeant Pharmaceuticals Ibérica S. A. Tel: +34 93 362 43 60
+ Portugal Dilofar Lda Tel: +351 218 391 000
+ France Centre Spécialités Pharmaceutiques (CSP) TéL: +33 (0) 800 881 702
+ România SC. FIDELIOFARM. SRL Tel: +40 269 228 009
+ Ireland Allphar Services Ltd. Tel: +353 (0) 1404 1600
+ Slovenija Medical Intertrade d. o. o. Tel: +386 (0) 1 25 29 113
+ Slovenská republika Ísland (Sjá Danmark)
+ Valeant Czech Pharma s. r. o. – OZ Tel: +421 (0) 6920 3921
+ Italia Valeant Pharmaceuticals Italy S. r. l. Tel: +39 (0) 2 678 7711
+ Suomi/Finland (Katso Danmark) 54 Kύπρος C. A. Papaellina &amp; Co Ltd Tel:+ 357 22 741 741
+ Sverige (Se Danmark) Latvija Valeant Pharmaceuticals Switzerland GmbH Representative Office in Latvia Tel: +371 7 616 137
+ United Kingdom Valeant Pharmaceuticals Ltd. Tel: +44 (0) 1256 707 744
+ Lietuva Valeant Pharmaceuticals Switzerland GmbH Representative Office in Lithuania Tel: +370 37 330 509
+ Este folheto foi aprovado pela última vez em:
+ 55 FOLHETO INFORMATIVO
+ Leia atentamente este folheto antes de tomar o medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso tenha dúvidas, consulte o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ Neste folheto: 1. O que é Tasmar e para que é utilizado 2. Antes de tomar Tasmar 3. Como tomar Tasmar 4. Efeitos secundários possíveis 5. Conservação de Tasmar 6. Outras informações
+ Tasmar 200 mg comprimido revestido por película Tolcapone
+ -A substância activa é o tolcapone (200 mg em cada comprimido revestido por película)
+ -Os outros ingredientes são:
+ Núcleo do comprimido: Hidrogenofosfato de cálcio (anidro), Celulose microcristalina, Polividona K30, Glicolato de amido sódico, Lactose mono-hidratada, Talco, Estearato de magnésio. Revestimento por película: Metil-hidroxipropilcelulose, Talco, Óxido amarelo de ferro (E 172), Etilcelulose, Dióxido de titânio (E 171), Triacetina, Laurilsulfato de sódio.
+ Titular da Autorização de Introdução no Mercado Valeant Pharmaceuticals Ltd. Cedarwood, Chineham Business Park Crockford Lane Basingstoke Hampshire, RG24 8WD
+ Reino Unido Fabricante ICN Polfa Rzeszów S. A. ul. Przemysłowa 2 35-959 Rzeszów Polónia
+ 1. O QUE É TASMAR E PARA QUE É UTILIZADO
+ Tasmar é um comprimido revestido por película, de forma oval, amarelo alaranjado a amarelo acastanhado. Tem a inscrição “ TASMAR ” e “ 200 ” numa face. Tasmar apresenta-se sob a forma de comprimidos revestidos contendo 200 mg de tolcapone. Está disponível em blisters em embalagens de 30 e 60 comprimidos e em frascos de vidro em embalagens de 100 comprimidos.
+ Tasmar é usado em combinação com levodopa/benserazida ou com levodopa/carbidopa quando todos os outros medicamentos alternativos não consigam estabilizar a doença de Parkinson.
+ 56 A terapêutica com Tasmar só deve ser iniciada por médicos com experiência no tratamento da doença de Parkinson, a fim de garantir uma avaliação adequada do risco/benefício.
+ A catecol-O-metiltransferase (COMT) é uma enzima naturalmente presente no organismo que degrada o fármaco levodopa, utilizado para tratar a doença de Parkinson. Tasmar bloqueia a COMT e torna mais lenta a degradação da levodopa. Isto significa que quando é tomado em conjunto com levodopa (sob a forma de levodopa/benserazida ou levodopa/carbidopa), deverá sentir melhoria dos seus sintomas da doença de Parkinson.
+ 2. ANTES DE TOMAR TASMAR Não deve começar a tomar Tasmar antes que o médico lhe descreva os riscos do tratamento com Tasmar e as medidas necessárias para minimizar esses riscos, e lhe responda a quaisquer questões que possa ter. Só deve tomar Tasmar se a sua doença de Parkinson não estiver adequadamente controlada com outros tratamentos. Além disso, o seu médico suspender-lhe-á o tratamento com Tasmar se após 3 semanas não apresentar melhoria que justifique os riscos da continuação do tratamento.
+ Lesão hepática: Tasmar pode causar lesões hepáticas, raras mas potencialmente fatais. As lesões hepáticas ocorreram com mais frequência após 1 mês e até 6 meses. As lesões podem também ocorrer mais cedo ou mais tarde. É de salientar que no sexo feminino poderá haver um risco mais elevado de lesão hepática.
+ Antes do início do tratamento: A fim de diminuir o risco de lesão hepática, não deve usar Tasmar se 1) tiver uma doença hepática ou 2) análises de sangue realizadas antes do início do tratamento revelarem qualquer anomalia hepática (testes de ALT, alanina aminotransferase e AST, aspartato aminotransferase).
+ Durante o tratamento: Serão realizadas análises de sangue de 2 em 2 semanas durante o primeiro ano de tratamento, de 4 em 4 semanas durante os 6 meses seguintes e de 8 em 8 semanas daí em diante e o tratamento será interrompido se os resultados estiverem fora do normal. Os seguintes sintomas podem indicar uma lesão hepática e deverá comunicá-los imediatamente ao seu médico: icterícia (amarelecimento da pele ou olhos), coloração escura da urina, dor no estômago (especialmente sobre o fígado na zona superior direita), agravamento de náuseas ou vómitos, falta de apetite, se se cansar mais facilmente do que é habitual ou se se sentir fraco.
+ SMN (Síndrome Maligno dos Neurolépticos):
+ SMN (Síndrome Maligno dos Neurolépticos) consiste em alguns ou em todos os seguintes sintomas: rigidez muscular grave, movimentos involuntários dos músculos, braços ou pernas, e dores musculares. Por vezes as lesões musculares podem causar coloração escura da urina. Outros sintomas importantes são febre alta e confusão mental. Após redução ou paragem repentina de Tasmar ou de outros fármacos antiparkinsónicos, pode muito raramente sentir sintomas graves de rigidez muscular, febre ou confusão mental. Se tal acontecer, avise o seu médico. Os sintomas podem também ocorrer durante o tratamento com Tasmar. Antes do início do tratamento: A fim de diminuir o risco de SMN, não deve usar Tasmar se o médico lhe tiver dito que tem disquinésia grave (movimentos involuntários) ou teve uma doença que poderia ter sido SMN. Informe o seu médico de todos os medicamentos sujeitos a receita médica ou não sujeitos a receita médica, porque o risco de SMN pode aumentar se estiver a tomar medicamentos que alteram os efeitos das moléculas transmissoras cerebrais, dopamina e serotonina.
+ 57 Durante o tratamento: Se desenvolver sintomas como os acima descritos que lhe pareçam ser os de SMN, deve relatá-los imediatamente ao seu médico. Não pare de tomar Tasmar ou qualquer outra medicação antiparkinsónica sem ter falado com o seu médico, porque o risco de SMN pode aumentar.
+ Não tome Tasmar: -se tiver uma doença hepática ou enzimas hepáticas aumentadas.
+ -se tiver disquinésia grave (movimentos involuntários).
+ -se tiver história anterior de complexo de sintomas Síndrome Maligno dos Neurolépticos (SMN)
+ e/ou se tem Rabdomiólise não-traumática ou Hipertermia.
+ -se tiver hipersensibilidade (alergia) ao tolcapone ou a qualquer outro ingrediente de Tasmar.
+ -se tiver Feocromocitoma.
+ Tome especial cuidado com Tasmar: -se durante o tratamento sofrer de uma doença hepática. O tratamento com Tasmar pode, por
+ vezes, afectar o funcionamento do fígado. Portanto, se notar sintomas como náuseas, vómitos, dor abdominal, falta de apetite, fraqueza, febre, coloração escura da urina ou icterícia, deve contactar o seu médico imediatamente.
+ -se tiver outras doenças além da doença de Parkinson.
+ -se for alérgico a outros medicamentos, alimentos ou corantes.
+ -se estiver a tomar outros medicamentos, incluindo aqueles que pode adquirir sem receita
+ médica.
+ -se já tiver tomado Tasmar e desenvolveu lesão hepática aguda durante o tratamento, Tasmar
+ não lhe deverá ser administrado de novo.
+ Tomar Tasmar com alimentos e bebidas: Tome Tasmar com água. Tasmar pode ser tomado com ou sem alimentos.
+ Gravidez Deve informar o seu médico se estiver grávida ou se pretender engravidar. O seu médico falar-lhe-á sobre os riscos e os benefícios de tomar Tasmar durante a gravidez.
+ Aleitamento Não foram estudados os efeitos de Tasmar nos lactentes. Não deve amamentar o seu bebé durante o tratamento com Tasmar.
+ Condução de veículos e utilização de máquinas: Tasmar produz efeito nos sintomas da sua doença de Parkinson. Uma vez que a sua capacidade para conduzir ou utilizar máquinas pode estar afectada pela doença de Parkinson, deve discutir este assunto com o seu médico.
+ Tasmar utilizado com a sua outra medicação de Parkinson pode causar sonolência (sono excessivo) e episódios de adormecimento súbito. Portanto, deve abster-se de conduzir ou realizar actividades em que a redução da vigília possa acarretar risco de danos graves ou morte para si ou outras pessoas (p. ex. utilizar máquinas) até que tais episódios recorrentes e a sonolência se resolvam.
+ Informações importantes sobre alguns dos efeitos indesejáveis de Tasmar: Pouco depois do início ou durante o tratamento com Tasmar, poderá ter sintomas causados pela levodopa, tais como disquinésia (movimentos involuntários) e náuseas. Se não se sentir bem, deve contactar o seu médico porque será talvez necessário reduzir a sua dose de levodopa.
+ Se o seu médico lhe tiver dito que tem intolerância a alguns açúcares, contacte o seu médico antes de começar a tomar este medicamento.
+ Tomar Tasmar com outros medicamentos: 58 Informe o seu médico de todos os outros medicamentos que estiver a tomar, especialmente os antidepressivos, alfa-metildopa (antihipertensor), apomorfina (usada na doença de Parkinson), dobutamina (usada no tratamento da insuficiência cardíaca congestiva), adrenalina (usada em ataques cardíacos) e isoprenalina (usada em ataques cardíacos).
+ Se estiver a tomar Tasmar com anticoagulantes (que impedem a coagulação sanguínea) do tipo varfarina, o seu médico far-lhe-á eventualmente análises de sangue regulares para verificar se o sangue coagula facilmente.
+ Se for ao hospital ou se lhe receitarem um medicamento novo, deve informar o seu médico de que está a tomar Tasmar.
+ Informe o seu médico ou o farmacêutico se estiver a tomar ou tiver recentemente tomado quaisquer outros medicamentos, mesmo aqueles que obteve sem prescrição médica (medicamentos não sujeitos a receita médica e plantas).
+ 3. COMO TOMAR TASMAR Tome Tasmar seguindo sempre exactamente as instruções do seu médico. Se tiver dúvidas, deve esclarecê-las com o seu médico. Não parta nem esmague os comprimidos.
+ Posologia e modo de administração No início e durante o tratamento com Tasmar, pode ser necessário alterar a sua dose de levodopa. O seu médico dir-lhe-á o que deve fazer.
+ O seu médico deve iniciar o tratamento sempre com a dose padrão (100 mg três vezes por dia). Se não se observarem benefícios nas 3 semanas seguintes ao início do tratamento, Tasmar deverá ser suspenso. A dose só deverá ser aumentada para a dose mais elevada (200 mg três vezes por dia) se a melhoria no controlo dos sintomas da doença de Parkinson compensar o aumento esperado de efeitos secundários. Os efeitos secundários com a dose mais elevada podem frequentemente ser graves e afectar o fígado. Se não melhorar com a dose mais alta depois de um total de 3 semanas, o seu médico deve parar o tratamento com Tasmar.
+ O seu médico far-lhe-á uma análise ao sangue para monitorizar a função hepática antes de iniciar o tratamento e, depois, regularmente de 2 em 2 semanas durante o primeiro ano de terapêutica, de 4 em 4 semanas nos 6 meses seguintes e de 8 em 8 semanas daí em diante. Se o seu médico lhe aumentar a dose, os testes hepáticos terão de ser repetidos antes do aumento da dose e, regularmente, daí em diante.
+ A primeira dose de Tasmar é tomada com a primeira dose do dia de levodopa e as outras doses de Tasmar são tomadas cerca de 6 e 12 horas mais tarde. Tome um comprimido de manhã, um comprimido a meio do dia e um comprimido à noite.
+ Informe o seu médico se, por qualquer razão, não tiver tomado o medicamente exactamente como lhe foi prescrito. Caso contrário, o seu médico pode pensar que o medicamento não foi eficaz ou não foi bem tolerado e pode desnecessariamente alterar o seu tratamento.
+ Se tomar mais Tasmar do que deveria: Contacte imediatamente um médico, um farmacêutico ou um hospital, porque pode precisar de cuidados médicos urgentes. Se outra pessoa tomar acidentalmente o seu medicamento, contacte imediatamente um médico ou um hospital, porque poderá necessitar de cuidados médicos urgentes.
+ Os sintomas de uma sobredosagem podem incluir náuseas, vómitos, vertigens e dificuldades respiratórias.
+ 59 Caso se tenha esquecido de tomar Tasmar: Tome-o assim que se lembrar, em seguida, continue a tomá-lo ás horas habituais. Caso se tenha esquecido de tomar várias doses, informe o seu médico e siga os seus conselhos. Não tome uma dose a dobrar para compensar as doses individuais que se esqueceu de tomar.
+ Efeitos da interrupção do tratamento com Tasmar: Não reduza a dose nem pare de tomar o medicamento, a não ser que o médico lhe diga para o fazer. Siga sempre as instruções do seu médico quanto à duração do tratamento com Tasmar.
+ 4. EFEITOS SECUNDÁRIOS POSSIVEIS Como os demais medicamentos, Tasmar pode ter efeitos secundários. Informe o seu médico ou o farmacêutico o mais rapidamente possível, se não se sentir bem com o tratamento com Tasmar.
+ Os feitos indesejáveis mais prováveis de ocorrer são: disquinésia (movimentos involuntários), náuseas, distúrbios do sono, menor apetite, diarreia, desmaio, sentir tonturas ao levantar-se, obstipação e alucinações.
+ Foram observadas alterações no funcionamento do fígado, em alguns casos hepatite grave. Portanto, se detectar sintomas como náuseas, vómitos, dor abdominal, falta de apetite, fraqueza, febre, coloração escura da urina ou icterícia, deve contactar imediatamente o seu médico.
+ Pouco depois do início do tratamento ou durante o tratamento com Tasmar, poderá ter sintomas causados pela levodopa, tais como disquinésia (movimentos involuntários) e náuseas. Portanto, se não se sentir bem, deve contactar o seu médico porque pode ser necessário alterar a sua dose de levodopa.
+ Contacte o seu médico, se tiver diarreia grave ou persistente.
+ Este medicamento pode causar uma inofensiva descoloração amarela da urina. No entanto, se notar escurecimento da sua urina, que pode ser um sinal de lesão muscular ou lesão hepática, por favor informe o seu médico. Muito raramente, alguns doentes desenvolvem Síndrome Maligno dos Neurolépticos (sintomas graves de rigidez muscular, febre ou confusão mental) quando os tratamentos antiparkinsónicos são repentinamente reduzidos ou suspensos.
+ Caso detecte efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. CONSERVAÇÃO DE TASMAR Manter fora do alcance e da vista das crianças.
+ Não requer condições especiais de conservação.
+ Não utilize Tasmar após expirar o prazo de validade indicado na embalagem.
+ Não utilize Tasmar caso detecte que os comprimidos estão deteriorados.
+ 6. OUTRAS INFORMAÇÕES 60 Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado.
+ België/Belgique/Belgien (Zie/voir/siehe Nederland)
+ Luxembourg/Luxemburg (Voir/siehe Nederland)
+ България Bulgermed Teл.:+ 359 2 9427070
+ Magyarország Valeant Pharma Magyarország Kft. Tel: +(36 1) 34 55 900
+ Česká republika Valeant Czech Pharma s. r. o. Tel: +420-2 214 34 111
+ Malta Vivian Cooporation Tel: +356-21344610
+ Danmark MediLink A/S Tlf: +45 70 22 30 15
+ Nederland Valeant Pharmaceuticals Benelux &amp; Scandinavia B. V. Tel: +31 (0) 79 330 2424
+ Deutschland Valeant Pharmaceuticals Germany GmbH Tel: +49 (0) 6196 99 88 90
+ Norge (Se Danmark) Eesti (See Latvia)
+ Österreich (siehe Deutschland) Ελλάδα ΒΙΑΝΕΞ Α. Ε. Tel+ 30 210 800 91 11
+ Polska ICN Polfa Rzeszów SA Tel: +48 (0) 22 627 28 88
+ España Valeant Pharmaceuticals Ibérica S. A. Tel: +34 93 362 43 60
+ Portugal Dilofar Lda. Tel: +351 218 391 000
+ France Centre Spécialités Pharmaceutiques (CSP) TéL: +33 (0) 800 881 702
+ România SC. FIDELIOFARM. SRL Tel: +40 269 228 009
+ Ireland Allphar Services Ltd. Tel: +353 (0) 1404 1600
+ Slovenija Medical Intertrade d. o. o. Tel: +386 (0) 1 25 29 113
+ Slovenská republika Ísland Valeant Czech Pharma s. r. o. – OZ (Sjá Danmark) Tel: +421 (0) 6920 3921
+ Italia Valeant Pharmaceuticals Italy S. r. l. Tel: +39 (0) 2 678 7711
+ Suomi/Finland (Katso Danmark) Kύπρος C. A. Papaellina &amp; Co Ltd Tel:+ 357 22 741 741
+ Sverige (Se Danmark) 61 Latvija Valeant Pharmaceuticals Switzerland GmbH Representative Office in Latvia Tel: +371 7 616 137
+ United Kingdom Valeant Pharmaceuticals Ltd. Tel: +44 (0) 1256 707 744
+ Lietuva Valeant Pharmaceuticals Switzerland GmbH Representative Office in Lithuania Tel: +370 37 330 509
+ Este folheto foi aprovado pela última vez em:
+ 62

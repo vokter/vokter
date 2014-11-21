@@ -1,0 +1,417 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. NOME DO MEDICAMENTO
+ INCRELEX 10 mg/ml, solução injectável. 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada ml contém 10 mg de mecassermina. Cada frasco para injectáveis contém 40 mg de mecassermina. A mecassermina é um factor de crescimento-1 insulin-like (IGF-1) humano, recombinante, derivado de ADN, produzido por Escherichia coli.
+ Excipientes: Um ml contém 9 mg de álcool benzílico. Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Solução injectável. Solução aquosa, límpida e incolor. 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Para o tratamento a longo prazo de deficiências do crescimento em crianças e adolescentes com deficiência primária grave de factor de crescimento-1 insulin-like (IGFD primária).
+ A IGFD primária grave é definida por: • altura com z-score ≤ – 3,0 e • níveis basais de IGF-1 inferiores ao percentil 2,5 para a idade e sexo e • suficiência de GH (Hormona de Crescimento). • Exclusão de formas secundárias de deficiência de IGF-1, tais como desnutrição, hipotiroidismo ou tratamento crónico com doses farmacológicas de anti-inflamatórios esteróides.
+ A IGFD primária grave inclui doentes com mutações no receptor de GH (GHR), na via de sinalização pós-GHR e defeitos no gene de IGF-1; eles não são deficitários em GH, não podendo por isso esperar-se que respondam adequadamente ao tratamento com GH exógena. Recomenda-se a confirmação do diagnóstico através da realização de uma prova de estimulação de IGF-1.
+ 4.2 Posologia e modo de administração O tratamento com INCRELEX deve ser orientado por médicos com experiência no diagnóstico e tratamento de doentes com distúrbios do crescimento.
+ A dose deve ser individualizada para cada doente. A dose inicial recomendada de mecassermina é de 0,04 mg/kg duas vezes ao dia, administradas por injecção subcutânea. Caso não se verifiquem quaisquer efeitos adversos significativos relacionados com o tratamento durante pelo menos uma semana, a dose pode ser aumentada em aumentos de 0,04 mg/kg até à dose máxima de 0,12 mg/kg, administradas duas vezes ao dia. Doses superiores a 0,12 mg/kg administradas duas vezes ao dia não foram avaliadas em crianças com IGFD primária grave.
+ 2 Se a dose recomendada não for tolerada pelo indivíduo, pode-se considerar o tratamento com uma dose mais baixa. O sucesso do tratamento deve ser avaliado com base na velocidade de crescimento. A dose mais baixa que esteve associada a aumentos substanciais do crescimento individual foi de 0,04 mg/kg b. i. d.
+ O INCRELEX deve ser administrado pouco antes ou logo após uma refeição ou refeição ligeira. Caso ocorra hipoglicémia com as doses recomendadas, apesar da ingestão adequada de alimentos, a dose deve ser reduzida. Se o doente, por qualquer razão, for incapaz de comer, o INCRELEX deve ser suspenso. A dose de mecassermina nunca deve ser aumentada para compensar uma ou mais doses omitidas.
+ Os locais de injecção devem ser alternados para locais diferentes em cada injecção.
+ O INCRELEX deve ser administrado utilizando seringas e agulhas de injecção estéreis descartáveis. O volume das seringas deve ser suficientemente pequeno para que a dose prescrita possa ser retirada do frasco com precisão razoável.
+ O INCRELEX não é recomendado em crianças com idade inferior a 2 anos devido à ausência de dados de segurança e eficácia (ver secção 5.1).
+ 4.3 Contra-indicações Hipersensibilidade à substância activa ou a qualquer um dos excipientes.
+ Administração intravenosa. Suspeita de neoplasia ou neoplasia activa. A terapêutica deve ser descontinuada caso ocorra evidência de neoplasia.
+ Não deve ser dado álcool benzílico a bebés prematuros ou recém-nascidos.
+ 4.4 Advertências e precauções especiais de utilização
+ Antes de iniciar o tratamento com INCRELEX, devem ser corrigidas deficiências da tiróide e nutricionais.
+ O INCRELEX não é um substituto do tratamento com GH.
+ O INCRELEX não deve ser utilizado para promover o crescimento em doentes com epífises fechadas.
+ O INCRELEX deve ser administrado pouco antes ou logo após uma refeição ou refeição ligeira, por poder ter efeitos hipoglicémicos semelhantes aos da insulina. Deve ser dada especial atenção a crianças de tenra idade, crianças com historial de hipoglicémia e crianças com ingestão alimentar inconsistente. Os doentes devem evitar participar em quaisquer actividades de alto risco nas 2 a 3 horas após administração da dose, principalmente no início do tratamento com INCRELEX, até ter sido estabelecida uma dose de INCRELEX bem tolerada. Se uma pessoa com hipoglicemia grave estiver inconsciente ou não conseguir, por outra razão, ingerir os alimentos normalmente, poderá ser necessária uma injecção de glucagom. As pessoas com um historial de hipoglicémia grave devem ter disponível glucagom. Na altura da prescrição inicial, os médicos devem instruir os pais relativamente aos sinais, sintomas e tratamento da hipoglicémia, incluindo a injecção de glucagon.
+ As doses de insulina e/ou outros agentes hipoglicemiantes podem necessitar de ser reduzidas em diabéticos que estejam a utilizar INCRELEX.
+ 3 É recomendada a realização de um ecocardiograma antes do início do tratamento com INCRELEX em todos os doentes. Os doentes que terminam o tratamento também devem realizar um ecocardiograma. Os doentes que apresentem sintomas cardiovasculares ou resultados de ecocardiograma anormais devem ser seguidos com regularidade através de avaliação ecocardiográfica.
+ Foi notificada hipertrofia de tecido linfóide (como por exemplo o amigdalino) associada a complicações, tais como ressonar, apneia do sono e exsudados crónicos do ouvido médio, com o uso de INCRELEX. Para excluir estas potenciais complicações ou para iniciar um tratamento adequado, os doentes devem ser examinados periodicamente e quando ocorram sintomas clínicos.
+ Foi notificada hipertensão intracraniana (HI) com edema da papila óptica, perturbações da visão, cefaleias, náuseas e/ou vómitos em doentes tratados com INCRELEX, tal como com a administração terapêutica de GH. Os sinais e sintomas associados a HI foram resolvidos após interrupção da administração. Recomenda-se um exame fundoscópico no início do tratamento com INCRELEX, periodicamente durante o decurso do mesmo e quando ocorram sintomas clínicos.
+ Podem ocorrer epífises femorais capitais deformadas e progressão de escoliose em doentes que sofram crescimento rápido. Estas situações e outros sintomas e sinais que se sabe estarem associados ao tratamento com GH em geral devem ser monitorizados durante o tratamento com INCRELEX. Deverá avaliar-se qualquer doente que comece a coxear ou a queixar-se de dores na anca ou nos joelhos.
+ Tal como acontece com qualquer administração de proteínas exógenas, podem ocorrer reacções alérgicas locais ou sistémicas. Os pais e os doentes devem ser informados de que são possíveis tais reacções e que, caso ocorra uma reacção alérgica, o tratamento deve ser interrompido e deve ser procurada assistência médica imediata.
+ O tratamento deve ser reconsiderado se, após um ano, os doentes continuarem a não manifestar uma resposta ao mesmo.
+ As pessoas que apresentem reacções alérgicas ao IGF-1 injectado, que apresentem valores sanguíneos inesperadamente elevados de IGF-1 após a injecção ou que não demonstrem uma resposta de crescimento podem estar a ter uma resposta com anticorpos ao IGF-1 injectado. Nestes casos, devem seguir-se as instruções relativas aos testes de anticorpos.
+ O INCRELEX contém 9 mg/ml de álcool benzílico como conservante.
+ O álcool benzílico pode causar reacções tóxicas e reacções anafilácticas em bebés e crianças até aos 3 anos de idade.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Não foram realizados estudos de interacção.
+ 4.6 Gravidez e aleitamento Recomenda-se a realização de um teste de gravidez que apresente resultados negativos, bem como a procura de aconselhamento sobre a contracepção adequada para todas as mulheres em idade fértil antes do tratamento com INCRELEX.
+ Não existem dados suficientes sobre a utilização de mecassermina em mulheres grávidas.
+ Os estudos em animais são insuficientes para determinar os efeitos sobre a gravidez (ver secção 5.3). Desconhece-se o risco potencial para o ser humano.
+ O INCRELEX não deve ser utilizado durante a gravidez, a menos que tal seja claramente necessário.
+ 4 O INCRELEX não é recomendado durante o período de aleitamento.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas. No entanto, a hipoglicémia pode diminuir a capacidade de conduzir ou utilizar máquinas.
+ 4.8 Efeitos indesejáveis Uma base integrada de dados de segurança, de estudos clínicos contém 76 indivíduos com IGFD primária grave, tratados durante uma média de 4,4 anos e que representam 321 indivíduos-ano.
+ A reacção adversa medicamentosa mais frequentemente notificada é a hipoglicémia. Os trinta e seis indivíduos (47%) que apresentaram um ou mais episódios de hipoglicémia incluíam 4 indivíduos que tiveram crises hipoglicémicas convulsivas em uma ou mais ocasiões. Dos 36 indivíduos,12 (33%) tinham um historial de hipoglicémia anterior ao início do tratamento. A frequência de hipoglicémia foi mais elevada no primeiro mês de tratamento e os episódios foram mais frequentes em crianças mais novas. A hipoglicémia sintomática foi geralmente evitada com o consumo de uma refeição ou refeição ligeira pouco antes ou logo após a administração de INCRELEX.
+ Ocorreu hipertrofia do local de injecção em 24 indivíduos (32%). Esta reacção esteve geralmente associada à falta de rotação adequada das injecções. Quando as injecções foram adequadamente dispersas, a situação médica resolveu-se.
+ Foi notada hipertrofia amigdalina em 12 (16%) dos indivíduos, principalmente nos primeiros 1 a 2 anos de terapêutica, com menor crescimento amigdalino nos anos subsequentes.
+ Foi notificado ressonar, com início geralmente no primeiro ano de tratamento, em 17 indivíduos (22%).
+ Foi notificada hipoacusia em 15 indivíduos (20%).
+ Ocorreu hipertensão intracraniana em três indivíduos (4%). Em dois indivíduos os acontecimentos resolveram-se sem interrupção de tratamento com INCRELEX. O tratamento com INCRELEX foi descontinuado no terceiro indivíduo e retomado mais tarde com uma dose mais baixa sem recorrência. Catorze indivíduos (18%) apresentaram cefaleias, consideradas relacionadas com o medicamento em estudo.
+ Como acontece com todos os fármacos proteicos, alguns doentes podem desenvolver anticorpos contra o INCRELEX. Foram observados anticorpos anti-IGF-1 em 11 das 23 crianças com IGFD primária grave testadas durante o primeiro ano de terapêutica. Contudo, não foram observadas quaisquer consequências clínicas destes anticorpos (p. ex. reacções alérgicas ou atenuação do crescimento).
+ A Tabela 1 contém as reacções adversas muito frequentes (≥ 1/10) e frequentes (≥ 1/100, &lt; 1/10) para as quais existe pelo menos uma suspeita razoável de relação causal com o tratamento com INCRELEX que ocorreram em ensaios clínicos. Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ 5 Tabela 1: Reacções Adversas Medicamentosas em Ensaios Clínicos
+ Reacção Adversa Classe de Sistema de Órgãos
+ Muito Frequente Frequente Exames complementares de diagnóstico Sopro cardíaco, timpanometria anormal, ecocardiograma anormal, aumento dos níveis de alanina aminotransferase*, aumento dos níveis de aspartato aminotransferase*, aumento de peso
+ Cardiopatias Cardiomegalia, hipertrofia ventricular, hipertrofia auricular*, taquicardia, taquicardia paroxística*, insuficiência da válvula mitral*, insuficiência da válvula tricúspida*
+ Afecções Congénitas, Familiares e Genéticas
+ Malformação congénita mandibular, nevo pigmentado*
+ Doenças do Sangue e do Sistema Linfático
+ Hipertrofia do timo Linfadenopatia* Doenças do Sistema Nervoso Cefaleias Convulsões, convulsão febril*, hipertensão intracraniana benigna, perda de consciência*, síndrome de apneia do sono, tonturas, tremor*, síndrome das pernas inquietas*
+ Afecções Oculares Edema da papila óptica, redução da acuidade visual*, miopia*
+ Afecções do Ouvido e do Labirinto Hipoacusia Otorreia, distúrbio auditivo*, distúrbio do ouvido médio*, alteração da membrana do tímpano*, dor de ouvidos, congestão do ouvido*, líquido no ouvido médio
+ Doenças Respiratórias, Torácicas e do Mediastino
+ Hipertrofia amigdalina, ressonar Hipertrofia adenoidal, hipertrofia dos cornetos nasais*, dispneia*, distúrbio da mucosa nasal*, distúrbio obstrutivo das vias aéreas*, respiração anormal*, congestão nasal, respiração pela boca
+ 6 Reacção Adversa Classe de Sistema de Órgãos
+ Muito Frequente Frequente Doenças Gastrointestinais Vómitos, náuseas*, dor abdominal*, dor no abdómen superior*, distensão abdominal*, disfagia*
+ Doenças Renais e Urinárias Nefrolitíase*, hidronefrose*, cólica renal*
+ Afecções dos Tecidos Cutâneos e Subcutâneas
+ Hipertrofia cutânea, pólipos cutâneos*, textura anormal do cabelo*
+ Afecções Musculosqueléticas e dos Tecidos Conjuntivos
+ Artralgia, dor nas extremidades, mialgia, escoliose*, deformação na coluna*, distúrbios dos tecidos moles*, cãibras musculares*, dor lombar*, rigidez musculosquelética*
+ Doenças do Metabolismo e da Nutrição Hipoglicémia
+ Crise convulsiva hipoglicémica, hiperglicémia, hiperlipidémia*, obesidade*
+ Infecções e Infestações Infecção febril*, infecção do tracto respiratório superior*, otite média, otite média serosa, otite média serosa crónica*, otite externa*, faringite*, amigdalite, infecção do ouvido, candidíase oral*
+ Procedimentos Cirúrgicos e Médicos Amigdaloadenoidectomia*, adenoidectomia, inserção de tubo auditivo
+ Perturbações Gerais e Alterações no Local de Administração
+ Hipertrofia do local de injecção Hiperplasia das membranas mucosas, hipertrofia, dor no local de injecção, hematoma no local de injecção, fibrose no local de injecção*, reacção no local de injecção*, inchaço no local de injecção*, endurecimento no local de injecção*, alterações pigmentares no local de injecção*, edema da mucosa*, astenia*, letargia*, desconforto torácico*
+ 7 Reacção Adversa Classe de Sistema de Órgãos
+ Muito Frequente Frequente Doenças dos Órgãos Genitais e da Mama
+ Ginecomastia, quisto no ovário* Perturbações do Foro Psiquiátrico Depressão*, terrores nocturnos, nervosismo, comportamento anormal*, desorientação*
+ *= ocorreu em apenas 1 indivíduo (1%)
+ 4.9 Sobredosagem Não foram descritos casos de sobredosagem.
+ A sobredosagem aguda pode dar origem a hipoglicémia. A sobredosagem prolongada pode originar sinais e sintomas de acromegalia ou gigantismo.
+ O tratamento da sobredosagem aguda com mecassermina deve ser orientado no sentido de aliviar quaisquer efeitos hipoglicémicos. Deve ser consumida glicose oral ou alimentos. Se a sobredosagem originar perda de consciência, poderá ser necessária a administração de glicose intravenosa ou glucagom parentérico para inverter os efeitos hipoglicémicos.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Somatropina e agonistas, código ATC: H01AC03
+ Este medicamento foi sujeito a uma “ Autorização de Introdução no Mercado em Circunstâncias Excepcionais ”. Isto significa que não foi possível obter informação completa sobre este medicamento devido à raridade da doença. A Agência Europeia de Medicamentos (EMEA) irá rever anualmente qualquer nova informação que possa vir a ser disponibilizada sobre o medicamento e este RCM será actualizado se necessário.
+ A mecassermina é um factor de crescimento-1 insulin-like (rhIGF-1) produzido através de tecnologia de ADN recombinante. O IGF-1 é composto por 70 aminoácidos em cadeia simples com três pontes dissulfureto intramoleculares e um peso molecular de 7649 daltons. A sequência de aminoácidos do produto é idêntica à do IGF-1 endógeno humano. A proteína rhIGF-1 é sintetizada em bactérias (E. coli) que foram modificadas pela adição do gene do IGF-1 humano.
+ O factor de crescimento-1 insulin like (IGF-1) é o principal mediador hormonal do crescimento em altura. Em condições normais, a hormona de crescimento (GH) liga-se ao seu receptor no fígado e noutros tecidos, estimulando a síntese/secreção do IGF-1. Nos tecidos alvo, o receptor IGF-1 Tipo 1, que é homólogo ao receptor da insulina, é activado pelo IGF-1, originando sinais intracelulares que estimulam os múltiplos processos que conduzem ao crescimento em altura. As acções metabólicas do IGF-1 são em parte dirigidas à estimulação da absorção de glicose, ácidos gordos e aminoácidos, a fim de que o metabolismo suporte os tecidos em crescimento.
+ Foram demonstradas as seguintes acções do IGF-1 endógeno humano:
+ 8 Crescimento dos Tecidos
+ • O crescimento ósseo é feito nas placas epifisárias localizadas nas extremidades dos ossos em crescimento. O aumento e o metabolismo das células da placa epifisária são directamente estimulados pela GH e pelo IGF-1. • Crescimento dos órgãos: o tratamento com rhIGF-1 de ratos com deficiência de IGF-1 resulta no crescimento de todo o corpo e órgãos. • Crescimento celular: os receptores de IGF-1 estão presentes na maior parte dos tipos de células e tecidos. O IGF-1 possui actividade mitogénica que origina um aumento do número de células no organismo.
+ Metabolismo dos Hidratos de Carbono O IGF-1 suprime a produção de glicose hepática, estimula a utilização de glicose periférica e pode reduzir a glicémia e causar hipoglicémia.
+ O IGF-1 tem efeitos inibidores da secreção de insulina.
+ Metabolismo Ósseo/Mineral O IGF-1 circulante desempenha um papel importante na aquisição e manutenção da massa óssea. O IGF-1 aumenta a densidade óssea.
+ Eficácia clínica Foram realizados cinco estudos clínicos (4 abertos e 1 duplamente cego, controlados por placebo) com INCRELEX. Foram administradas doses subcutâneas de mecassermina, variando geralmente entre 60 a 120 μg/kg, administradas duas vezes ao dia (b. i. d.), a 76 doentes pediátricos com IGFD primária grave. Os doentes foram incluídos nos estudos com base numa estatura extremamente baixa, taxas de crescimento lentas, baixas concentrações séricas de IGF-1 e secreção normal de GH. As características basais dos doentes avaliados nas análises primárias e secundárias de eficácia a partir dos estudos combinados foram as seguintes (média ± DP): idade cronológica (anos): 6,8 ± 3,8; altura (cm): 85,0 ± 15,3; score-Z (SDS) da altura:-6,7 ± 1,8; velocidade de crescimento (cm/ano): 2,8 ± 1,8; SDS da velocidade de crescimento:-3,3 ± 1,7; IGF-1 (ng/ml): 21,9 ± 24,8; SDS do IGF-1:-4,4 ±2,0; e idade óssea (anos): 3,9 ± 2,8. Sessenta e dois doentes tiveram pelo menos um ano de tratamento. Destes,53 (85%) tinham um fenótipo semelhante à síndrome de Laron; 7 (11%) tinham supressão do gene da GH e 1 (2%) tinha anticorpos contra a GH. Trinta e oito (61%) dos doentes eram do sexo masculino; 49 (79%) eram de raça caucasiana. Cinquenta e seis (90%) dos doentes eram pré-púberes no início.
+ Os resultados anuais da velocidade de crescimento, SDS da velocidade de crescimento e SDS da altura são apresentados na Tabela 2. Estiveram disponíveis dados de velocidade de crescimento pré-tratamento de 59 doentes. As velocidades de crescimento num dado ano de tratamento foram comparadas com testes-t emparelhados, com as velocidades de crescimento pré-tratamento dos mesmos doentes que completaram aquele ano de tratamento.
+ 9 Tabela 2: Resultados de Crescimento Anual por Número de Anos de Tratamento com INCRELEX
+ Velocidade de crescimento (cm/ano) Pré-Trat. Ano 1 Ano 2 Ano 3 Ano 4 Ano 5 Ano 6 Ano 7 Ano 8 N Média (DP) 59 2,8 (1,8) 59 8,0 (2,2) 54 5,8 (1,4) 48 5,5 (1,9) 39 4,7 (1,4) 21 4,7 (1,6) 20 4,8 (1,5) 16 4,6 (1,5) 14 4,5 (1,2) Média (DP) de +5,2
+ +3,0
+ +2,6
+ +1,6
+ +1,5
+ +1,5
+ +1,0
+ +0,9
+ alteração desde o pré-Trat.
+ (2,6)
+ (2,3) (2,3)
+ (2,1)
+ (1,8)
+ (1,7) (2,1)
+ (2,4)
+ Valor P da alteração desde o pré-Trat. [ 1] SDS da Velocidade de crescimento
+ &lt; 0,0001 &lt; 0,0001 &lt; 0,0001 &lt; 0,0001 0,0015
+ 0,0009 0,0897 0,2135 N 59 59 53 47 38 19 18 15 12 Média (DP) -3,3 (1,7)
+ 1,9 -0,2
+ -0,3
+ -0,7
+ -0,6
+ -0,4-0,4
+ -0,3
+ (2,9)
+ (1,6)
+ (2,0)
+ (1,9)
+ (2,1)
+ (1,4) (1,9)
+ (1,8)
+ Média (DP) de +5,1
+ +3,2
+ +3,1
+ +2,5
+ +2,5
+ +2,7 +2,5
+ +2,8
+ alteração desde o pré-Trat.
+ (3,1)
+ (2,2)
+ (2,4)
+ (2,1) (2,2)
+ (1,7) (2,1)
+ (2,7)
+ Valor P da alteração desde o pré-Trat. [ 1] SDS da Altura
+ &lt; 0,0001 &lt; 0,0001 &lt; 0,0001 &lt; 0,0001 0,0001
+ &lt; 0,0001
+ 0,0003 0,0041 N 62 62 57 51 41 22 20 16 14 Média (DP) -6,7 (1,8)
+ -5,9 (1,7)
+ -5,6 (1,8)
+ -5,3-5,3 (1,8) (1,8)
+ -5,5 (1,8)
+ -5,4 (1,8)
+ -5,2 (2,0)
+ -5,2 (1,9)
+ Média (DP) de +0,8
+ +1,1
+ +1,4 +1,4 +1,4 +1,4 +1,4
+ +1,6
+ alteração desde o pré-Trat.
+ (0,5)
+ (0,8)
+ (1,0)
+ (1,1)
+ (1,3)
+ (1,2) (1,1)
+ (1,1)
+ Valor P da alteração desde o pré-Trat. [ 1]
+ &lt; 0,0001 &lt; 0,0001 &lt; 0,0001 &lt; 0,0001 &lt; 0,0001 &lt; 0,0001 0,0001 &lt; 0,0001
+ Pré-Trat.= Pré-tratamento; DP= Desvio Padrão; SDS= Score-z[ 1] Os valores P para comparação com os valores pré-Trat. foram calculados usando testes-t emparelhados.
+ Foram incluídos quarenta e sete doentes numa análise dos efeitos do INCRELEX no avanço da idade óssea. A alteração média ± DP da idade cronológica foi de 5,1 ± 3,0 anos e a alteração média ± DP da idade óssea foi de 5,8 ± 2,9 anos.
+ A eficácia depende da dose. Nos doentes a receber doses entre 100 e 120 μg/kg b. i. d., a velocidade média de crescimento no primeiro ano foi de aproximadamente 8,7 cm/ano.
+ 5.2 Propriedades farmacocinéticas CARACTERÍSTICAS GERAIS Absorção 10 Não foi determinada a biodisponibilidade subcutânea absoluta da mecassermina em doentes com IGFD primária grave. Foi relatada uma biodisponibilidade da mecassermina em indivíduos saudáveis após administração subcutânea de aproximadamente 100%.
+ Distribuição No sangue, o IGF-1 encontra-se ligado a seis proteínas de ligação do IGF (IGFBPs), com cerca de 80% ligado sob a forma de complexo com IGFBP-3 e uma sub-unidade ácido-lábil. A IGFBP-3 está diminuída em indivíduos com IGFD primária grave, originando uma maior depuração de IGF-1 nestes indivíduos relativamente a indivíduos saudáveis. O volume total de distribuição de IGF-1 (média ± DP) após administração subcutânea de INCRELEX em 12 indivíduos com IGFD primária grave é estimado como sendo de 0,257 (± 0,073) l/kg com uma dose de mecassermina de 0,045 mg/kg, sendo previsto que aumente à medida que a dose de mecassermina aumenta. Existe pouca informação disponível sobre a concentração de IGF-1 livre após a administração de INCRELEX.
+ Metabolismo Tanto o fígado como o rim demonstraram metabolizar o IGF-1.
+ Excreção Estima-se que o t½ terminal médio do IGF-1 total após administração única subcutânea de 0,12 mg/kg em três doentes pediátricos com IGFD primária grave é de 5,8 horas. A depuração do IGF-1 total é inversamente proporcional aos níveis séricos de IGFBP-3 e estima-se que a depuração sistémica do IGF-1 total (CL/F) seja de 0,04 l/h/kg com 3 mg/l de IGFBP-3 em 12 indivíduos.
+ CARACTERÍSTICAS EM POPULAÇÕES ESPECIAIS Idosos A farmacocinética do INCRELEX não foi estudada em indivíduos com idade superior a 65 anos.
+ Crianças A farmacocinética do INCRELEX não foi estudada em indivíduos com idade inferior a 12 anos.
+ Sexo Em crianças acima dos 12 anos de idade com IGFD primária e em adultos saudáveis, não existiram quaisquer diferenças aparentes da farmacocinética do INCRELEX entre indivíduos do sexo masculino e feminino.
+ Raça Não existe informação disponível. Insuficiência renal Não foram realizados estudos em crianças com insuficiência renal.
+ Insuficiência hepática Não foram realizados estudos para determinar o efeito da insuficiência hepática sobre a farmacocinética da mecassermina.
+ 5.3 Dados de segurança pré-clínica 11 Os dados não clínicos não revelam riscos especiais para o ser humano, segundo estudos convencionais de farmacologia de segurança, toxicidade de dose repetida ou genotoxicidade.
+ As reacções adversas não observadas durante os estudos clínicos, mas constatadas nos animais sujeitos a níveis de exposição análogos aos níveis de exposição clínica, e com eventual relevância para a utilização clínica, foram as seguintes:
+ Toxicidade reprodutiva Foi estudada a toxicidade reprodutiva em ratos e coelhos após aplicação intravenosa, mas não após aplicação subcutânea (a via clínica normal). Estes estudos não indicaram efeitos nocivos directos ou indirectos no que diz respeito à fertilidade e à gestação, mas devido à diferente via de aplicação, a importância destes resultados não é clara. Não foi estudada a passagem da mecassermina pela placenta.
+ Carcinogénese A mecassermina foi administrada por via subcutânea a ratos Sprague Dawley, em doses de 0, 0,25,1,4 e 10 mg/kg/dia durante 2 anos. Foi observado um aumento da incidência de hiperplasia da medula da supra-renal e feocromocitoma em ratos macho com as doses de 1 mg/kg/dia e superiores (≥ 1 vez a exposição clínica com a dose máxima recomendada para humanos[ DMRH] com base na AUC) e em ratos fêmea com todos os níveis de doses (≥ 0,3 vezes a exposição clínica com a DMRH com base na AUC).
+ Foi observado um aumento da incidência de queratoacantoma na pele em ratos macho com as doses de 4 e 10 mg/kg/dia (≥ 4 vezes a exposição com a DMRH com base na AUC). Foi observado um aumento da incidência de carcinoma da glândula mamária tanto em ratos macho como fêmea, em animais tratados com 10 mg/kg/dia (7 vezes a exposição com a DMRH com base na AUC). Nos estudos de carcinogénese, foi observada mortalidade excessiva devida a hipoglicémia induzida pelo IGF-1.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Álcool benzílico Cloreto de sódio Polisorbato 20 Ácido acético glacial Acetato de sódio Água para preparações injectáveis
+ 12 6.2 Incompatibilidades
+ Na ausência de estudos de compatibilidade, este medicamento não deve ser misturado com outros medicamentos.
+ 6.3 Prazo de validade 2 anos Após abertura: Foi demonstrada estabilidade química e física de utilização durante 30 dias a uma temperatura entre 2°C e 8ºC. Do ponto de vista microbiológico, após a abertura o produto pode ser conservado durante um período máximo de 30 dias a uma temperatura entre 2°C a 8°C. Outros tempos e condições durante a utilização ou conservação são da responsabilidade do utilizador.
+ 6.4 Precauções especiais de conservação
+ Conservar no frigorífico (2°C – 8°C). Não congelar. Manter o frasco dentro da embalagem exterior para proteger da luz.
+ 6.5 Natureza e conteúdo do recipiente
+ 4 ml de solução num frasco de 5 ml (vidro do tipo I) fechado com uma rolha sem látex (polímero bromobutilo/isopreno) e um selo (plástico lacado).
+ Embalagem de 1 frasco. 6.6 Precauções especiais de eliminação e manuseamento
+ O INCRELEX é fornecido sob a forma de solução estéril com conservante para utilização múltipla.
+ A solução deve estar límpida imediatamente após ser retirada do frigorífico. Se a solução estiver turva ou contiver partículas, não deve ser injectada.
+ Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Tercica Europe Limited, Riverside One Sir John Rogerson’ s Quay Dublin 2 República da Irlanda
+ 13 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/07/402/001 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 03/08/2007
+ 10. DATA DA REVISÃO DO TEXTO 14 ANEXO II
+ A. FABRICANTE DA SUBSTÂNCIA ACTIVA DE ORIGEM BIOLÓGICA E TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ C. OBRIGAÇÕES ESPECÍFICAS A SEREM CUMPRIDAS PELO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 15 A. FABRICANTE DA SUBSTÂNCIA ACTIVA DE ORIGEM BIOLÓGICA E TITULAR DE AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do fabricante da substância activa de origem biológica
+ Cambrex Bio Science Baltimore, Inc. 5901 East Lombard Street Baltimore, Maryland 21224 EUA
+ Nome e endereço do(s) fabricante(s) responsável(veis) pela libertação do lote
+ Beaufour Ipsen Industrie Rue d' Ethe Virton 28100 Dreux França
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento sujeito a receita médica restrita, de utilização reservada a certos meios especializados (Ver Anexo I: Resumo das Características do Medicamento, secção 4.2).
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ O detentor da autorização deve assegurar que, aquando da introdução no mercado, todos os médicos potencialmente prescritores do INCRELEX recebam um “ pacote de informação médica ” que contenha o seguinte:
+ Informações sobre o produto Informações para o médico acerca do INCRELEX (cartão de informações, guia de dosagem e uma calculadora da dose) Pacote de informações para o doente
+ As informações para o médico acerca do INCRELEX deverão conter os seguintes elementos-chave:
+ •
+ Deve instruir-se os pais relativamente aos sinais, sintomas e tratamento da hipoglicémia, incluindo a injecção de glucagom.
+ •
+ Os doentes devem ser examinados aos ouvidos, nariz e garganta periodicamente e quando ocorram sintomas clínicos, para excluir estas complicações potenciais ou para iniciar um tratamento adequado.
+ •
+ Deve efectuar-se um exame fundoscópico de rotina antes do início do tratamento e periodicamente durante o decurso do mesmo e quando ocorram sintomas clínicos.
+ •
+ O INCRELEX está contra-indicado na presença de neoplasia activa ou de suspeita da mesma, devendo a terapêutica ser descontinuada caso ocorra evidência de neoplasia.
+ •
+ Podem ocorrer epífises femorais capitais deformadas e progressão de escoliose em doentes que sofram crescimento rápido. Estas condições deverão ser monitorizadas durante o tratamento com INCRELEX.
+ 16 • Deve informar-se os pais e os doentes de que são possíveis reacções alérgicas e que, caso ocorram, o tratamento deve ser interrompido e deve ser procurada assistência médica imediata. • Informação sobre amostragem de imunogenicidade.
+ As informações para o doente acerca do INCRELEX deverão conter as seguintes informações:
+ • O INCRELEX deve ser administrado pouco antes ou logo após uma refeição ou refeição ligeira, por ter efeitos hipoglicémicos semelhantes aos da insulina. • Os sinais e sintomas da hipoglicémia. Instruções sobre o tratamento da hipoglicémia. Os pais e prestadores de cuidados deverão certificar-se sempre de que a criança possui uma fonte de açúcar. Instruções sobre a administração de glucagom caso ocorra uma hipoglicémia grave. • O INCRELEX não deverá ser administrado se o doente, por qualquer razão, for incapaz de comer. A dose de INCRELEX não deverá ser duplicada para compensar uma ou mais doses omitidas. • Deve evitar-se participar em quaisquer actividades de alto risco (tal como em actividade física intensa) nas 2 a 3 horas após administração da dose, principalmente no início do tratamento com INCRELEX, até ter sido estabelecida uma dose de INCRELEX bem tolerada. • Instruções para alternar e fazer a rotação do local de injecção aquando da administração de cada injecção para evitar o desenvolvimento de lipohipertrofia. • Instruções para comunicar o facto de começar a ressonar ou do agravamento desta condição, o que pode indicar um aumento do crescimento das amígdalas e/ou adenóides após o início do tratamento com INCRELEX. • Deve comunicar ao médico o início de cefaleias graves, visão turva e náuseas e vómitos associados. • Qualquer doente que comece a coxear ou a queixar-se de dores na anca ou nos joelhos deve comunicar este facto ao seu médico para que estas condições possam ser avaliadas.
+ Além disso, este pacote de informações englobará um guia de dosagem e uma calculadora da dose que serão utilizados pelo médico e pelos doentes para incluírem informações sobre o aumento individualizado da dose, de modo a minimizar o risco de erros de medicação e de hipoglicémia.
+ • OUTRAS CONDIÇÕES
+ Sistema de farmacovigilância O titular da autorização de introdução no mercado deve certificar-se que o sistema de farmacovigilância, conforme descrito na versão 3. data 03/06/2008 apresentada no Módulo 1. 8.1. do Pedido de Autorização de Introdução no mercado, está implementado e a funcionar devidamente antes e durante a introdução do produto no mercado.
+ Plano de Gestão de Risco O titular da autorização de introdução no mercado compromete-se a efectuar os estudos e actividades de farmacovigilância adicionais pormenorizados no Plano de Farmacovigilância, conforme acordado na Versão 2 do ponto 1.9. do Plano de Gestão de Risco (PGR) apresentado no Módulo 1. 8.2. do Pedido de Autorização de Introdução no Mercado e em quaisquer actualizações subsequentes do PRM acordadas pelo CHMP
+ De acordo com a Norma orientadora do CHMP sobre os Sistemas de Gestão de Risco para os medicamentos para uso humano, o PRM actualizado deverá ser apresentado simultaneamente com o próximo Relatório Periódico de Segurança (RPS).
+ Além disso, deverá ser apresentado um PRM actualizado Quando forem obtidas novas informações que possam ter um impacto nas Especificações de Segurança, no Plano de Farmacovigilância ou nas actividades de minimização do risco actuais
+ 17 No espaço de 60 dias de ser atingido um marco importante (de farmacovigilância ou de minimização do risco) Quando solicitado pela EMEA
+ C. OBRIGAÇÕES ESPECÍFICAS A SEREM CUMPRIDAS PELO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ O Titular da Autorização de Introdução no Mercado deverá executar o programa de estudos abaixo referido dentro dos prazos indicados; os resultados desses estudos estarão na base da reavaliação anual da relação benefício/risco.
+ Aspectos clínicos • Desenvolver e validar um ensaio de imunogenicidade para avaliar a presença de anticorpos anti-IGF-I. O relatório final deve ser apresentado até 31/03/2009.
+ • Efectuar um estudo de segurança a longo prazo nos casos em que o tratamento com mecassermina é iniciado numa fase precoce da infância e continua até à idade adulta, a fim de investigar:
+ •
+ Toxicidade a longo prazo em doentes que estejam a evidenciar alterações ao nível do desenvolvimento
+ •
+ Possível ocorrência de malignidades, bem como outros riscos
+ O primeiro relatório interno deve ser apresentado até 31/12/2008 e os subsequentes relatórios internos serão apresentados até o doente final ser seguido por um período de 5 anos.
+ 18 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 19 A. ROTULAGEM
+ 20 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ CAIXA DE CARTÃO 1. NOME DO MEDICAMENTO INCRELEX 10 mg/ml, solução injectável. Mecassermina
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA (S) ACTIVA(S)
+ Um ml contém 10 mg de mecassermina. Cada frasco para injectáveis contém 40 mg de mecassermina.
+ 3. LISTA DOS EXCIPIENTES Outros componentes: álcool benzílico, cloreto de sódio, polisorbato 20, ácido acético glacial, acetato de sódio e água para preparações injectáveis.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Solução injectável. Um frasco multi-dose de 4 ml.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via subcutânea. Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL Após a primeira abertura, utilizar no prazo de 30 dias.
+ 21 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico. Não congelar. Manter o frasco dentro da embalagem exterior para proteger da luz.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Tercica Europe Limited Riverside One Sir John Rogerson’ s Quay Dublin 2 República da Irlanda
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/07402/001 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE INCRELEX 22 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ FRASCO PARA INJECTÁVEIS 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ INCRELEX 10 mg/ml injectável Mecassermina SC
+ 2. MODO DE ADMINISTRAÇÃO 3. PRAZO DE VALIDADE EXP 4. NÚMERO DO LOTE Lot: 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 4 ml 6. OUTRAS 23 B. FOLHETO INFORMATIVO
+ 24 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ INCRELEX 10 mg/ml, solução injectável Mecassermina
+ Leia atentamente este folheto antes de utilizar este medicamento.
+ ---
+ Conserve este folheto. Pode ter necessidade de o reler. Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico. Este medicamento foi receitado para si/o seu filho. Não deve dá-lo a outros. O medicamento pode ser-lhes prejudicial, mesmo que apresentem os mesmos sintomas.
+ -
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é INCRELEX e para que é utilizado 2. Antes de utilizar INCRELEX 3. Como utilizar INCRELEX 4. Efeitos secundários possíveis 5. Como conservar INCRELEX 6. Outras informações
+ 1. O QUE É INCRELEX E PARA QUE É UTILIZADO
+ -
+ INCRELEX é um líquido que contém factor de crescimento-1 insulin like (IGF-1), semelhante ao IGF-1 produzido pelo organismo.
+ -
+ INCRELEX é usado para tratar crianças ou adolescentes que são muito baixos para a idade devido ao seu organismo não produzir IGF-1 suficiente. Esta situação médica é denominada deficiência primária de IGF-1.
+ 2. ANTES DE UTILIZAR INCRELEX Não utilize INCRELEX -
+ se você/o seu filho tiver alergia (hipersensibilidade) à mecassermina ou a qualquer outro componente de INCRELEX.
+ ---
+ se você/o seu filho tiver cancro através de injecção directa numa veia. não deve ser dado álcool benzílico a bebés prematuros ou recém-nascidos.
+ Tome especial cuidado com INCRELEX -
+ se você/o seu filho tiver a coluna vertebral curvada (escoliose). Deve ser avaliado relativamente à progressão da escoliose.
+ -
+ se você/o seu filho tiver as amígdalas aumentadas (hipertrofia tonsilar). Deve ser examinado periodicamente.
+ -
+ se você/o seu filho tiver sintomas de aumento da pressão no cérebro (hipertensão intracraniana), tais como dores de cabeça com vómitos, procure aconselhamento junto do seu médico.
+ -
+ se você/o seu filho tiver uma reacção alérgica ligeira ou grave com INCRELEX. Contacte o médico o mais breve possível se você/o seu filho tiver uma erupção cutânea ou urticária. Procure ajuda médica imediata se você/o seu filho tiver dificuldade em respirar ou entrar em choque.
+ -
+ se você/o seu filho parou de crescer (as placas de crescimento ósseo estão fechadas).
+ 25
+ -
+ não foi estudado o uso de INCRELEX em crianças com idades inferiores a 2 anos, pelo que não é recomendado.
+ Ao utilizar INCRELEX com outros medicamentos
+ Informe o seu médico em especial se você/o seu filho toma insulina ou outros medicamentos anti-diabéticos. Pode ser necessário um ajuste da dose destes medicamentos.
+ Informe o seu médico ou farmacêutico se você/o seu filho estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica, medicamentos à base de plantas e suplementos vitamínicos.
+ Ao tomar INCRELEX com alimentos e bebidas
+ O INCRELEX deve ser administrado pouco antes ou logo após a ingestão de alimentos, por poder ter efeitos hipoglicémicos semelhantes aos da insulina, podendo por isso reduzir os níveis de açúcar no sangue.
+ Quando é omitida uma refeição ou refeição ligeira, as doses devem ser suspensas. A dose nunca deve ser aumentada para compensar uma ou mais doses omitidas.
+ Gravidez e aleitamento Se ocorrer uma gravidez, a terapêutica com INCRELEX deve ser descontinuada.
+ O INCRELEX não deve ser administrado a uma mãe a amamentar.
+ Condução de veículos e utilização de máquinas
+ Não foram estudados os efeitos de INCRELEX sobre a capacidade de conduzir e utilizar máquinas. No entanto, a hipoglicémia pode diminuir a capacidade de conduzir e utilizar máquinas.
+ Os doentes devem evitar participar em quaisquer actividades de alto risco (p. e. conduzir veículos, etc.) nas 2 a 3 horas após administração da dose, principalmente no início do tratamento com INCRELEX, até ter sido estabelecida uma dose de INCRELEX sem a ocorrência de efeitos adversos significativos relacionados com o tratamento.
+ Informações importantes sobre alguns componentes de INCRELEX
+ O INCRELEX contém 9 mg por ml de álcool benzílico como conservante.
+ O álcool benzílico pode causar reacções tóxicas e reacções alérgicas em bebés e crianças até aos 3 anos de idade.
+ 3. COMO UTILIZAR INCRELEX Utilizar o INCRELEX sempre de acordo com as indicações do médico. Fale com o seu médico ou farmacêutico se tiver dúvidas. A dose habitual é de 0,04 a 0,12 mg/kg do peso do doente, administradas duas vezes ao dia. Ver as ‘ Instruções de Utilização ’ no final deste folheto informativo.
+ Injectar o INCRELEX sob a pele, pouco antes ou logo após uma refeição ou merenda. Não tome ou administre ao seu filho a dose de INCRELEX se não puder comer por qualquer razão. Não compense a dose omitida administrando duas doses na próxima vez.
+ 26 O INCRELEX deve ser injectado sob a pele na parte superior do braço, da perna (coxa), na zona do estômago (abdómen) ou nas nádegas. Nunca injecte numa veia ou músculo. Altere o local em cada injecção.
+ Utilize apenas INCRELEX que esteja límpido ou incolor.
+ O tratamento com INCRELEX é uma terapêutica prolongada. Contacte o seu médico para outras informações.
+ Se utilizar mais INCRELEX do que deveria Se foi injectado mais INCRELEX do que o recomendado, informe o seu médico.
+ A sobredosagem aguda pode dar origem a hipoglicémia (nível baixo de açúcar no sangue). A sobredosagem prolongada pode originar o aumento de certas partes do corpo (p. e. mãos, pés, partes do rosto) ou crescimento excessivo de todo o corpo.
+ O tratamento da sobredosagem aguda com INCRELEX deve ser orientado no sentido de fazer inverter a hipoglicémia. Devem ser consumidos líquidos ou alimentos que contenham açúcar. Se o doente não estiver suficientemente desperto ou alerta para beber líquidos que contenham açúcar, poderá ser necessário administrar uma injecção de glucagom no músculo para inverter o nível baixo de açúcar no sangue. O seu médico ou enfermeiro ensinar-lhe-á a administrar a injecção de glucagom.
+ Caso se tenha esquecido de utilizar INCRELEX
+ Não tome uma dose a dobrar para compensar uma dose que se esqueceu de tomar.
+ Se parar de utilizar INCRELEX Uma interrupção ou termo precoce do tratamento com INCRELEX pode prejudicar o sucesso da terapêutica de crescimento. Consulte o seu médico antes de parar o tratamento.
+ Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou farmacêutico.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todos os medicamentos, o INCRELEX pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Os efeitos secundários muito frequentes (probabilidade de ocorrerem em mais de que 1 em 10 doentes) que ocorreram em ensaios clínicos encontram-se a seguir.
+ Hipoglicémia (nível baixo de açúcar no sangue): O INCRELEX, como a insulina, pode baixar os níveis de açúcar no sangue. Os sinais de baixo nível de açúcar no sangue são: tonturas, cansaço, impaciência, fome, irritabilidade, dificuldade de concentração, suores, náuseas ou batimento cardíaco acelerado ou irregular.
+ A hipoglicémia grave pode causar inconsciência, crises convulsivas ou morte.
+ 27 Se você ou o seu filho tomam INCRELEX, devem abster-se de participar em actividades de alto risco (tais como actividade física vigorosa) nas 2 a 3 horas após administração da injecção de INCRELEX, especialmente no início do tratamento com INCRELEX.
+ Antes de iniciar o tratamento com INCRELEX, o seu médico ou enfermeiro(a) irá explicar-lhe como tratar a hipoglicémia. O doente deve dispor sempre de uma fonte de açúcar, como sumo de laranja, gel de glicose, rebuçados ou leite, para o caso de ocorrerem sintomas de hipoglicémia. No caso de hipoglicémia grave, se o doente não reagir de forma positiva e não puder beber líquidos que contenham açúcar, deve-lhe ser administrada uma injecção de glucagom. O seu médico ou enfermeiro(a) ensinar-lhe-á a administrar a injecção. O glucagom aumenta o nível de açúcar no sangue quando é injectado. É importante ter uma dieta equilibrada que inclua alimentos ricos em proteína e gordura, como carne e queijo, além de alimentos que contenham açúcar.
+ Foi também observado um aumento do nível de açúcar no sangue com o tratamento com INCRELEX.
+ Reacções no Local de Injecção: A injecção de INCRELEX pode causar lipoatrofia (perda de gordura), lipohipertrofia (ganho de gordura) ou dor, vermelhidão ou hematoma no local de injecção. As reacções no local de injecção podem ser evitadas mudando o local da mesma entre cada injecção (rotação dos locais de injecção).
+ Amígdalas aumentadas: O INCRELEX pode aumentar as amígdalas do doente. Estes são alguns dos sinais de amígdalas aumentadas: ressonar, dificuldade em respirar ou engolir, apneia do sono (uma situação médica em que a respiração durante o sono é interrompida durante períodos curtos) ou líquido no ouvido médio, bem como infecções do ouvido. A apneia do sono pode causar sonolência excessiva durante o dia. Contacte o seu médico caso estes sintomas o incomodem. Foi também observada uma infecção das amígdalas. O médico deve examinar regularmente as amígdalas do doente. Aquando do tratamento com INCRELEX, observou-se também inchaço dentro do nariz, aumento do tamanho do timo e nódulos linfáticos.
+ Hipoacusia (perda de audição) Informe o seu médico se você ou o seu filho desenvolverem problemas de audição.
+ Os efeitos secundários frequentes (probabilidade de ocorrerem em menos de 1 em 10 doentes) que ocorreram em ensaios clínicos são listados abaixo.
+ Anomalias cardíacas: Em alguns doentes tratados com INCRELEX, um exame ecocardiográfico do coração (ecocardiograma) demonstrou um aumento do tamanho do músculo cardíaco. O seu médico pode realizar um ecocardiograma antes, durante e depois do tratamento com INCRELEX.
+ Além disso, foram ainda reportados casos de pulso acelerado e anomalias da válvula cardíaca aquando do tratamento com INCRELEX.
+ Hipertensão intracraniana (aumento da pressão no cérebro): O INCRELEX, como a hormona de crescimento, pode causar por vezes um aumento temporário da pressão dentro do cérebro. Os sintomas de hipertensão intracraniana podem incluir dores de cabeça e náuseas com vómitos. Informe o seu médico se você ou o seu filho tiverem dores de cabeça com vómitos. O seu médico pode examinar para ver se existe hipertensão intracraniana. Caso detecte a sua presença, o seu médico pode decidir reduzir temporariamente ou descontinuar a terapêutica com INCRELEX. O INCRELEX pode ser de novo iniciado após o episódio estar ultrapassado.
+ 28 Foram também reportados distúrbios da visão.
+ Epífise femoral capital deformada: Esta é uma situação em que a parte superior da perna (fémur) se descola. Procure assistência médica imediata se você ou o seu filho começarem a coxear ou tiverem dores na anca ou no joelho.
+ Agravamento da escoliose (causado pelo rápido crescimento): Se você ou o seu filho têm escoliose, necessitarão de ser examinados com frequência para determinar se existe aumento na curvatura da coluna vertebral. Aquando do tratamento com INCRELEX, foram também observados casos de dor e rigidez nos músculos ou articulações, bem como malformações mandibulares.
+ Infecções: Foram observadas infecções na boca, garganta e nas vias aéreas superiores em crianças tratadas com Increlex. Estas infecções podem estar associadas a febre.
+ Afecções renais: Foram reportados casos de pedra nos rins, bem como dor associada e inchaço nos rins.
+ Sistema reprodutor: Foi observado um aumento do volume da mama, bem como quistos nos ovários.
+ Aparelho digestivo: Ocorreram casos de dores de estômago, dificuldades em engolir, náuseas e vómitos com o tratamento com INCRELEX. Foi também reportado aumento de peso, bem como aumento de gorduras no sangue e nos valores das enzimas hepáticas.
+ Alterações da pele e cabelo: Foram observados casos de espessamento da pele, manchas, pólipos cutâneos e textura anormal do cabelo com o tratamento com INCRELEX.
+ Outros efeitos adversos reportados incluem falta de energia, depressão, nervosismo, desorientação, desconforto torácico, tonturas, tremor e pernas inquietas.
+ 5. COMO CONSERVAR INCRELEX Manter fora do alcance e da vista das crianças.
+ Não utilize INCRELEX após o prazo de validade impresso no rótulo após VAL. O prazo de validade corresponde ao último dia do mês indicado.
+ Conservar no frigorífico (2°C-8°C). Não congelar. Manter o frasco dentro da embalagem exterior para proteger da luz. Após a primeira abertura, o frasco pode ser conservado durante um período máximo de 30 dias a uma temperatura de 2 a 8ºC.
+ Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 29 6. OUTRAS INFORMAÇÕES
+ Qual a composição de INCRELEX -
+ A substância activa é mecassermina. Cada ml contém 10 mg de mecassermina. Cada frasco para injectáveis contém 40 mg de mecassermina.
+ -
+ Os outros componentes são: álcool benzílico, cloreto de sódio, polisorbato 20, ácido acético glacial, acetato de sódio e água para preparações injectáveis.
+ Qual o aspecto de INCRELEX e conteúdo da embalagem
+ O INCRELEX é uma solução injectável límpida e incolor, fornecida num frasco de vidro, fechado com uma rolha e um selo. O frasco contém 4 ml de líquido.
+ O INCRELEX é fornecido em embalagens contendo um frasco de vidro.
+ Titular da Autorização de Introdução no Mercado e Fabricante Titular da Autorização de Introdução no Mercado: Tercica Europe Limited Riverside One Sir John Rogerson’ s Quay Dublin 2 República da Irlanda
+ Fabricante: Beaufour Ipsen Industrie Rue d' Ethe Virton 28100 Dreux França
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado.
+ België/Belgique/Belgien, Luxembourg/Luxemburg Ipsen NV Guldensporenpark 87 B-9820 Merelbeke België/Belgique/Belgien Tél/Tel:+ 32-9-243 96 00
+ Italia Ipsen SpA Via A. Figino,16 I-20156 Milano Tel:+ 39-02-39 22 41
+ România, Болгария Beaufour Ipsen Pharma Aleea Alexandru, nr.10, Ap. 2-4, Sct.1 Bucuresti,011821-RO Tel:+ 40 21(0) 231 27 20
+ Latvija Beaufour Ipsen Pharma Bauskas 58 Riga LV 1004 Tel: +371 67622233
+ Česká republika Beaufour Ipsen Pharma Evropská 136/810 CZ-160 00 Praha 6 Tel:+ 420 220 612 125
+ Lietuva Beaufour Ipsen Pharma Lietuvos filialas Betygalos g. 2, LT-47183 Kaunas Tel.+ 370 37 337854
+ 30 Danmark, Norge, Suomi/Finland, Sverige, Ísland Institut Produits Synthèse (IPSEN) AB Kista Science Tower Färögatan 33 SE-164 51 Kista Sverige/Ruotsi/Svíþjóð Tel/Tlf/Puh/Sími: +46 8 588 370 70
+ Magyarország Ipsen Pharma 65 quai Georges Gorse F-92100 Boulogne-Billancourt Tel: +33-1-58 33 50 00
+ Deutschland, Österreich Ipsen Pharma GmbH Einsteinstr. 30 D-76275 Ettlingen Deutschland Tel:+ 49-7243 184-80
+ Nederland Ipsen Farmaceutica B. V. Taurusavenue 33 B NL-2132 LS Hoofddorp Tel:+ 31 23 55 41 600
+ Eesti Polska ESTOBIIN OÜ Udeselja 4-4 11913, Tallinn, Estonia Tel: +372 600 2996
+ Ipsen Poland Sp. z o. o. Al. Jana Pawła II 29 PL-00-867 Warszawa Tel.:+ 48 (0) 22 653 68 00
+ Ελλάδα, Κύπρος, Malta Ipsen EΠΕ Αγ. Δημητρίου 63 Άλιμος GR-17456 Αθήνα Ελλάδα Τηλ:+ 30-210-984 3324
+ Portugal Ipsen Portugal-Produtos Farmacêuticos S. A. Alameda Fernão Lopes, no 16-11o, Miraflores P-1495-190 Algés Tel:+ 351-21-412 3550
+ España Ipsen Pharma S. A. Ctra. Laureà Miró 395 Sant Feliu de Llobregat E-08980 Barcelona Tel:+ 34-936-858 100
+ Slovenija Pharmaswiss d. o. o Dolenjska cesta 242c SI-1000 Ljubljana Tel:+ 386 1 236 47 00
+ France Ipsen Pharma 65 quai Georges Gorse F-92199 Boulogne-Billancourt Tel: +33-1-58 33 50 00
+ United Kingdom Ipsen Ltd. 190 Bath Road Slough, Berkshire SL1 3XE Tel:+ 44-(0) 1753-62 77 00
+ Ireland Ipsen Pharmaceuticals Ltd. 7 Upper Leeson Street IRL-Dublin 4 Tel:+ 353-1-668 1377
+ Slovenská republika Liek s. r. o. Hviezdoslavova 19 SK-903 01 Senec Tel. +421 245 646 322
+ 31 Este folheto foi aprovado pela última vez em
+ Este medicamento foi autorizado sob “ circunstâncias excepcionais ”. Isto significa que foi impossível obter informação completa sobre este medicamento devido à raridade desta doença. A Agência Europeia de Medicamentos (EMEA) irá rever anualmente qualquer nova informação que possa vir a ser disponibilizada sobre o medicamento e este folheto será actualizado se necessário.
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA): http: //www. emea. europa. eu/. Também existem links para outros sites sobre doenças raras e tratamentos.
+ &lt; ------------------------------------------------------------------------------------------------------------------------
+ 32 INSTRUÇÕES DE UTILIZAÇÃO
+ O INCRELEX deve ser administrado utilizando seringas e agulhas de injecção estéreis descartáveis. O volume das seringas deve ser suficientemente pequeno para que a dose prescrita possa ser retirada do frasco com precisão razoável.
+ Preparação da Dose: 1. Lave as mãos antes preparar o INCRELEX para a injecção.
+ 2. Utilize uma agulha e seringa descartáveis novas para cada injecção. Utilize as seringas e as agulhas uma única vez. Elimine as mesmas de forma adequada. Nunca partilhe agulhas e seringas.
+ 3. Verifique o líquido para se certificar de que o mesmo se encontra límpido e incolor. Não utilize depois do prazo de validade ou no caso de se apresentar turvo ou com partículas. Se um frasco congelar, deite-o fora.
+ 4. Se está a usar um frasco novo, retire a tampa de protecção. Não retire a rolha de borracha.
+ 5. Limpe a rolha de borracha do frasco com um algodão com álcool para evitar a contaminação do frasco por germes que podem ser introduzidos por inserções repetidas de agulhas (ver Figura 1).
+ Figura 1: Limpar a parte superior com álcool
+ 33 6. Antes de introduzir a agulha no frasco, puxe o êmbolo da seringa para trás para aspirar para dentro da seringa uma quantidade de ar igual à dose prescrita. Insira a agulha através da tampa de borracha do frasco e empurre o êmbolo da seringa para injectar ar para dentro do frasco (ver Figura 2).
+ Figura 2: Injectar ar para dentro do frasco
+ 7. Deixe a seringa no frasco e vire ambos de cabeça para baixo. Segure a seringa e o frasco com firmeza (ver Figura 3).
+ Figura 3: Preparar a extracção
+ 34 8. Assegure-se de que a ponta da agulha se encontra dentro do líquido (ver Figura 4). Puxe o êmbolo da seringa para retirar a dose correcta para dentro da seringa (ver Figura 5).
+ Figura 4: Ponta no líquido
+ Figura 5: Extrair a dose correcta 9. Antes de retirar a agulha do frasco, verifique se existem bolhas de ar na seringa. Se existirem bolhas de ar na seringa, segure no frasco e na seringa com a agulha a apontar para cima e dê umas pancadinhas ligeiras lateralmente na seringa até as bolhas flutuarem até ao cimo. Empurre as bolhas para fora com o êmbolo e aspire mais líquido até ter a dose correcta (ver Figura 6).
+ Figura 6: Retirar as bolhas de ar e voltar a encher a seringa
+ 35 10. Retire a agulha do frasco. Não deixe que a agulha toque em nada. Está agora pronto a administrar a injecção (ver Figura 7).
+ Figura 7: Pronto para a injecção
+ Injecção da Dose: Injecte o INCRELEX de acordo com instruções do seu médico. Não administre a injecção se o doente for incapaz de comer pouco antes ou logo após a injecção.
+ 1. Decida qual vai ser o local para injecção – na parte superior do braço, na coxa, nas nádegas ou no abdómen (ver abaixo). O local de injecção deve ser alterado entre cada administração (rode os locais de injecção).
+ Parte superior do braço Coxa Nádegas Abdómen 2. Use álcool ou sabão e água para limpar a pele onde vai administrar a injecção. O local de injecção deve estar seco antes de administrar a injecção.
+ 36 3. Belisque levemente a pele. Introduza a agulha da forma que o seu médico lhe mostrou. Solte a pele (ver Figura A).
+ Figura A: Beliscar levemente a pele e injectar de acordo com as instruções
+ 4. Empurre lentamente o êmbolo da seringa até ao fim, certificando-se de que injectou todo o líquido. Retire completamente a agulha e pressione levemente o local onde a injecção foi administrada com uma compressa ou algodão durante alguns segundos. Não esfregue a área (ver Figura B).
+ Figura B: Pressionar (sem esfregar) com uma compressa ou algodão
+ 5. Siga as instruções do seu médico relativamente à eliminação da agulha e da seringa. Não volte tapar a seringa. As agulhas e as seringas usadas devem ser colocadas num contentor para objectos perfurantes/cortantes (como um contentor para resíduos de risco biológico), contentor de plástico duro (como uma garrafa de detergente) ou contentor metálico (como uma lata de café vazia). Estes contentores devem ser selados e deitados fora de forma adequada.
+ 37

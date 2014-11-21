@@ -1,0 +1,450 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. DENOMINAÇÃO DO MEDICAMENTO
+ Refludan 20 mg pó para solução injectável ou para perfusão
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada frasco para injectáveis contém 20 mg de lepirudina. (A lepirudina é um produto DNA recombinante obtido a partir de células de levedura).
+ Lista completa de excipientes, ver a secção 6.1.
+ 3. FORMA FARMACÊUTICA Pó para solução injectável ou para perfusão.
+ Pó liofilizado branco a quase branco. 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Anticoagulação em doentes adultos com trombocitopenia induzida pela heparina (TIH) tipo II e doença tromboembólica obrigando a terapia anti-trombótica parentérica.
+ O diagnóstico deve ser confirmado por HIPAA (heparin induced platelet activation assay) ou por um teste equivalente.
+ 4.2 Posologia e modo de administração O tratamento com Refludan deve ser iniciado sob a supervisão de um médico com experiência em perturbações da coagulação.
+ Posologia inicial Anticoagulação em doentes adultos com TIH tipo II e doença tromboembólica:
+ – 0,4 mg/kg de peso corporal por via intravenosa numa dose em bólus – seguidos de 0,15 mg/Kg de peso corporal/hora sob a forma de uma perfusão intravenosa contínua durante 2-10 dias ou durante um período mais prolongado, caso seja clinicamente necessário.
+ Normalmente, a dosagem depende do peso corporal do doente. Esta regra é válida até ao máximo de 110 kg. Nos doentes com um peso corporal superior a 110 kg, esta não poderá exceder a dose utilizada num indivíduo com um peso corporal de 110 kg (consultar também quadros 2 e 3 em baixo).
+ Monitorização e alteração do regime posológico com Refludan
+ Recomendações padrão Monitorização: – Em geral, a dosagem (velocidade de perfusão) deve ser ajustada em função do tempo de tromboplastina parcial activada, aPTT.
+ 2 – A primeira determinação de aPTT deve ser efectuada 4 horas após o início da terapêutica com Refludan. – Os valores do aPTT devem ser monitorizados, pelo menos, uma vez por dia. Determinações mais frequentes poderão ser necessárias, por exemplo, em doentes com compromisso renal ou com risco aumentado de hemorragia. – Limites alvo (janela terapêutica) para o aPTT:
+ -Utilizando ” Actin FS ” ou ” Neothromtin ” em coagulómetros automatizados, os limites alvo
+ do aPTT correspondem a um prolongamento de 1,5 vezes a 3 vezes o valor normal de referência.
+ -Utilizando outros reagentes, o limite superior da janela terapêutica do aPTT deverá baixar
+ para um valor correspondente a um prolongamento de 2,5 vezes o valor normal de referência.
+ -Para obter limites do aPTT específicos e exactos, o equipamento laboratorial/reagente de
+ ensaio utilizados podem ser calibrados adicionando a plasma humano padronizado 0,15 μg/ml de lepirudina (limite inferior) e 1,5 μg/ml de lepirudina (limite superior).
+ Alterações posológicas: – Qualquer valor de aPTT fora dos limites alvo deverá ser imediatamente confirmado antes de serem efectuadas quaisquer alterações posológicas, salvo nos casos em que for considerado clinicamente necessária a adopção de medidas imediatas. – Se o valor de aPTT confirmado for superior aos limites alvo, deve interromper-se a perfusão durante duas horas. Ao reiniciar a perfusão, deve reduzir-se a velocidade em 50% (não se deve administrar um bólus intravenoso adicional). A determinação do aPTT deve ser repetida decorridas 4 horas. – Se o valor aPTT confirmado for inferior aos limites alvo, deve aumentar-se em 20% a velocidade da perfusão. Deve repetir-se a determinação do aPTT após 4 horas. – Em geral não deve ser excedida uma taxa de perfusão de 0.21 mg/Kh/hora sem verificar anomalias na coagulação o que pode prevenir uma resposta aPTT apropriada.
+ Recomendações de utilização em doentes em que se planeia substituir Refludan por um anticoagulante oral
+ Caso se planeie administrar a um doente derivados cumarínicos (antagonistas da vitamina K) como terapêutica anticoagulante oral após um tratamento com Refludan, dever-se-á aplicar o seguinte: os derivados cumarínicos devem ser iniciados apenas quando a contagem das plaquetas estiver normalizada. A dose de manutenção desejada deve ser iniciada sem dose de carga. Para evitar efeitos protrombóticos quando iniciar a toma de cumarina, continuar a anticoagulação parentérica durante 4 a 5 dias (ver folheto informativo do anticoagulante oral para obter informações). A administração do agente parentérico pode ser interrompida quando o valor de INR (taxa internacional normalizada) se estabilizar dentro do intervalo de valores desejados.
+ Recomendações de utilização em doentes com compromisso renal
+ Dado que a lepirudina é excretada e metabolizada quase exclusivamente por via renal (ver também a secção 5.2), deve proceder-se à avaliação da função renal de cada doente antes de se iniciar o tratamento. Em caso de compromisso renal, pode ocorrer uma sobredosagem relativa mesmo com um regime posológico padrão. Consequentemente, a dose bolus e a velocidade de perfusão devem ser reduzidas em caso de compromisso renal declarada ou suspeita (depuração de creatinina inferior a 60 ml/min. ou valor de creatinina superior a 15 mg/l[ 133 μmol/l]).
+ Em ensaios clínicos o Refludan não foi administrado com fins terapêuticos a doentes com TIH tipo II com compromisso renal grave. As recomendações posológicas a seguir descritas baseiam-se em estudos de dose única realizados num pequeno número de doentes com compromisso renal. Estas recomendações são, como tal, experimentais.
+ 3 Sempre que possível, os ajustamentos das doses devem ser efectuados com base nos valores da depuração de creatinina obtidos através de um método fiável (colheita da urina de 24 horas). Em todos os outros casos, o ajustamento da dose deve basear-se nos valores da creatinina.
+ Em qualquer circunstância, a dose em bólus deve ser reduzida para 0,2 mg/kg de peso corporal.
+ A velocidade de perfusão deve ser reduzida de acordo com o quadro 1. É indispensável proceder-se adicionalmente à monitorização dos valores do APTT.
+ Quadro 1: Redução da velocidade de perfusão em doentes com compromisso renal.
+ Depuração da creatinina[ ml/min]
+ Valor da creatinina[ mg/l (μmol/l)]
+ Velocidade de perfusão ajustada[% da dose original]
+ 45 – 60 30 – 44 15 – 29
+ 16-20 (141-177) 21-30 (178-265) 31-60 (266-530)
+ 50% 30% 15%
+ inferior a 15*
+ superior a 60 (530)*
+ evitar ou SUSPENDER a perfusão!*
+ * Em doentes hemodialisados ou em caso de falência renal aguda (depuração da creatinina inferior a 15 ml/min. ou valor da creatinina superior a 60 mg/l[ 530 μmol/l]), deve evitar-se ou suspender-se a perfusão de Refludan. Só quando os valores do aPTT descem abaixo do limite terapêutico inferior (ver Monitorização: limites alvo), se poderá considerar a hipótese de administrar outras doses em bólus intravenoso de 0,1 mg/kg de peso corporal em dias alternados.
+ Modo de administração Reconstituir o liofilizado conforme descrito na secção 6.6.
+ Bólus intravenoso inicial: Para uma injecção em bólus intravenoso, é necessário uma solução com uma concentração de 5 mg/ml. A injecção intravenosa deve ser administrada lentamente.
+ Quadro 2: Exemplos do volume de injecção padrão de acordo com o peso corporal
+ Peso corporal Volume de injecção[ ml] [ kg]
+ Dosagem 0,4 mg/kg peso corporal
+ Dosagem 0,2 mg/kg peso corporal
+ 50 60 70 80 90 100 ≥ 110
+ 4,0 4,8 5,6 6,4 7,2 8,0 8,8
+ 2,0 2,4 2,8 3,2 3,6 4,0 4,4
+ Perfusão intravenosa: Para uma perfusão intravenosa contínua é necessária uma solução com uma concentração de 2 mg/ml. A velocidade da bomba perfusora[ ml por hora] deve ser ajustada em função do peso corporal.
+ 4 Quadro 3: Exemplos da velocidade de perfusão padrão de acordo com o peso corporal
+ Peso corporal Velocidade de perfusão[ ml/h] [ kg]
+ Dosagem 0,15 mg/kg peso corporal/h
+ Dosagem 0,1 mg/kg peso corporal/h
+ 50 60 70 80 90 100 ≥ 110
+ 3,8 4,5 5,3 6,0 6,8 7,5 8,3
+ 2,5 3,0 3,5 4,0 4,5 5,0 5,5
+ 4.3 Contra-indicações – Hipersensibilidade conhecida à lepirudina, às hirudinas ou a qualquer dos excipientes – Gravidez e aleitamento (ver secção 4.6)
+ Quando haja diátese hemorrágica não é, geralmente, aconselhável administrar Refludan. O médico assistente deverá proceder a uma avaliação cuidadosa, caso a caso, ponderando o risco associado à administração de Refludan versus o benefício esperado, tendo em conta a possibilidade de medidas de controlo de hemorragia:
+ Esta avaliação inclui, em particular, as seguintes situações com risco aumentado de hemorragia: – Punção recente dos grandes vasos ou biópsia de órgão – Malformação de vasos ou órgãos – Acidente isquémico transitório recente, acidente vascular cerebral ou cirurgia intracerebral – Hipertensão grave não controlada – Endocardite bacteriana – Compromisso renal avançada – Diátese hemorrágica – Cirurgia major recente – Hemorragia recente (p. ex., intracraniana, gastrintestinal, intra-ocular, pulmonar) – Sinais declarados de hemorragia – Úlcera peptica activa recente – Idade &gt; 65 anos.
+ 4.4 Advertências e precauções especiais de utilização
+ – Anafilaxia: Refludan pode causar reacções alérgicas incluindo anafilaxia e choque (ver secção 4.8). Foram notificadas reacções anafilácticas fatais em doentes re-expostos a Refludan num segundo ou subsequente curso de tratamento. Por esse motivo, devem ser consideradas outras alternativas terapêuticas antes da decisão de re-expôr os doentes a Refludan. Como estas reacções são imunomediadas, os doentes que foram expostos recentemente a hirudina ou a um análogo desta poderão ter um risco acrescido de reacções alérgicas. O início do tratamento com Refludan deve ser realizado num local onde a assistência médica esteja imediatamente disponível e onde existam condições para o tratamento de reacções anafiláticas.
+ -Os doentes devem ser informados que estão a fazer terapêutica com Refludan.
+ – Em caso de compromisso renal pode ocorrer uma sobredosagem relativa, mesmo se for utilizado um regime posológico padrão. Portanto o médico assistente terá de fazer uma determinação cuidada antecipada pesando o risco da administração versus benefício esperado. Poderá ser necessário excluir doentes com compromisso renal do tratamento com lepirudina. Dever-se-á, reduzir a velocidade de perfusão em caso de compromisso renal declarada ou suspeita (ver secções 4.2 e 5.2). – Não há experiência em doentes tratados com lepirudina com compromisso hepática significativa.
+ 5 A cirrose hepática pode afectar também a excreção renal da lepirudina. Danos hepáticos graves (ex., cirrose hepática) podem aumentar o efeito anticoagulante da lepirudina devido a defeitos secundários de coagulação para reduzir a formação de vitamina K-dependente de factores de coagulação. – Foi comprovada a formação de anticorpos anti-hirudina em cerca de 40% dos doentes com TIH tipo II e foram observados especialmente com uma duração de tratamento superior a 5 dias. Este facto poderá potenciar o efeito anticoagulante da lepirudina, possivelmente devido ao atraso na eliminação renal do complexo activo lepirudina-anti-hirudina. É, no entanto, necessário proceder a uma rigorosa monitorização do aPTT mesmo durante uma terapêutica prolongada. Não foram observados sinais de neutralização da lepirudina ou de reacção alérgica associados a resultados positivos na pesquisa de anticorpos anti-plaquetários.
+ – A experiência com associações terapêuticas com fármacos trombolíticos em doentes com TIH tipo II é muito limitada. Considerando que existe um risco considerável de hemorragia grave nesta situação, a dosagem de Refludan deve ser substancialmente reduzida. O regime posológico óptimo de Refludan nestas circunstâncias não é conhecido – Uso em Pediatria: Não foi estabelecida a segurança e eficácia em doentes de pediatria – Idosos: Doentes de idade avançada têm um risco aumentado de complicações hemorrágicas com anticoagulantes. Em relação á dosagem de lepirudina é de ter em conta a potencialização de compromisso renal em doentes idosos. Não foi feito ajustamento específico na dosagem para doentes idosos. Ajustamentos de dosagem são baseados na função renal, peso e aPTT (ver secção 4.2)
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Não foram realizados estudos de interacção.
+ O tratamento concomitante com trombolíticos (por ex., AP-rte (Activador do Plasminogénio recombinante) ou estreptoquinase) pode: – aumentar o risco de complicações hemorrágicas, – potenciar consideravelmente o efeito de Refludan ao nível do prolongamento do aPTT.
+ O tratamento concomitante com derivados cumarínicos (antagonistas da vitamina K) drogas que afectam a função plaquetária podem também aumentar o risco de episódios de hemorragia.
+ Uso concomitante com: – agentes antiplaquetários outros que não o ácido acetilsalicílico, tais como ticlopidina ou clopidogrel, – antagonista do receptor GpIIb/IIIa tais como eptifibatide, tirofiban, ou abciximab – outros inibidores da trombina tais como heparinas de baixo peso molecular não foram avaliados.
+ 4.6 Gravidez e aleitamento Não foi estabelecida a segurança de Refludan na gravidez ou aleitamento humanos. Num ensaio padrão de toxicidade embrio-fetal, foi observada redução da taxa de sobrevivência das crias e das progenitoras.
+ Não existe actualmente informação disponível sobre o uso de Refludan durante o aleitamento.
+ Refludan não deverá, portanto, ser administrado a mulheres grávidas ou a mães que estejam a amamentar.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não relevante. 6 4.8 Efeitos indesejáveis
+ A maior parte dos efeitos indesejáveis sofridos pelos doentes tratados com Refuldan encontravam-se relacionados de uma maneira geral com hemorragias (&gt; 1/10). Os eventos hemorrágicos potencialmente fatais (incluindo hemorragias intracranianas) foram pouco frequentemente registados (≥1/1000 a &lt; 1/100) em doentes com sindroma coronário agudo incluídos em estudos clínicos. Numa vigilância intensificada feita após a comercialização nos doentes com TIH tipo II, registaram-se casos de hemorragia fatal em 1% dos doentes e de hemorragia intracranial em 0,2% deles.
+ O quadro a seguir apresenta os efeitos adversos registados com Refuldan:
+ Muito frequentes (&gt; 1/10); Frequentes (&gt; 1/100, &lt; 1/10); Pouco frequentes (&gt; 1/1000 &lt; 1/100); Raros (&gt; 1/10.000 &lt; 1/1,000); Muito raros (&lt; 1/10.000)
+ Classe de sistema de órgão Doenças do sistema imunitário
+ Muito comuns Raros Reacções anafilácticas/óides Vasculopatias Anemia ou uma redução Rubores dos níveis de hemoglobina sem uma fonte óbvia de hemorragia Hematoma Hemorragia de locais perfurados Epistaxes Hematúria Hemorragia gastrointestinal Hemorragia vaginal Hemorragia rectal Hemorragia pulmunar Hemotórax pós-operatório Hemopericárdio Hemorragia intracraniana
+ Choque, incluindo choque mortal Doenças respiratórias, torácicas e do mediastino Afecções dos tecidos cutâneos e subcutâneas Perturbações gerais e alterações no local de administração
+ Tosse Estridor Dispneia Reacções dérmicas alérgicas (incluindo erupção cutânea) Prurido Urticária Angio-edema (incluindo: edema facial, edema lingual, edema laringeal) Febre Calafrios Reacções no local da injecção, dores.
+ 4.9 Sobredosagem O risco de hemorragia pode aumentar em caso de sobredosagem.
+ 7 Não existe, actualmente, à disposição um antídoto específico contra a lepirudina. Caso se verifique uma hemorragia potencialmente fatal e se suspeite da existência de níveis plasmáticos excessivamente elevados de lepirudina, devem seguir-se as seguintes recomendações: – SUSPENDER imediatamente a administração de Refludan – Determinar o aPTT e outros parâmetros de coagulação, conforme necessário – Determinar a hemoglobina e preparar para proceder à transfusão de sangue – Seguir as directivas actuais para a terapêutica do choque.
+ Além disso, os relatórios de casos individuais e os dados in vitro sugerem que poderá ser útil, nesta situação, recorrer quer a hemofiltração quer a hemodiálise (utilizando membranas de diálise de alto fluxo com um ponto limite de 50.000 Dalton).
+ Os resultados de estudos realizados no porco demonstraram que a aplicação do Factor de von Willebrand (vWF,66 U. I./kg de peso corporal) reduziu de forma marcada o tempo de hemorragia.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo fármaco-terapêutico: Agente antitrombótico – inibidor directo da trombina, código ATC: B01AE02
+ A lepirudina ([ Leu1, Thr2)-63-desulfohirudina) é uma hirudina recombinante obtida a partir de células de levedura. O polipéptido composto por 65 aminoácidos possui um peso molecular de 6. 979,5 Daltons. A hirudina natural é produzida pela sanguessuga Hirudo medicinalis em quantidades vestigiais, como uma família de isopolipéptidos altamente homólogos.
+ A lepirudina é um inibidor directo, altamente específico, da trombina. A sua actividade é determinada num ensaio cromogénico. Uma unidade anti-trombina (UAT) corresponde à quantidade de hirudina que neutraliza uma unidade do preparado 89/588 de trombina da OMS. A actividade específica da lepirudina é de aproximadamente 16.000 UAT/mg.
+ O seu modo de acção é independente da anti-trombina III. A lepirudina não é inibida pelo factor plaquetário 4. Uma molécula de hirudina liga-se a uma molécula de trombina, bloqueando, desta forma, a actividade trombogénica da trombina. Todas as provas de coagulação dependentes da trombina são, consequentemente, afectadas, por ex., os valores do aPTT aumentam em função da dose administrada.
+ A informação clínica sobre a TIH tipo II contida neste RCM baseia-se nos dados obtidos em dois ensaios prospectivos que incluíram um total de 198 doentes com TIH tipo II tratados com Refludan. Na indicação de TIH tipo II com doença tromboembólica (125 doentes) a taxa de mortalidade global, durante o período do estudo, foi de 9%, aproximadamente; as amputações e as complicações tromboembólicas novas foram registadas em 6% e 10%, respectivamente.
+ 5.2 Propriedades farmacocinéticas As propriedades farmacocinéticas da lepirudina, administrada por via intravenosa, são bem descritas por um modelo de dois compartimentos. A distribuição limita-se essencialmente aos líquidos extra-celulares, caracterizando-se por uma semi-vida inicial de cerca de 10 minutos. A eliminação segue um processo de primeira ordem e é caracterizada por uma semi-vida terminal de aproximadamente 1,3 horas em voluntários saudáveis jovens.
+ Tanto a excreção como o metabolismo ocorrem no rim, sendo detectável, na urina, cerca de 45% da dose administrada. Aproximadamente 35% da dose é excretada sob a forma de composto inalterado.
+ 8 A depuração sistémica da lepirudina diminui na proporção da taxa de filtração glomerular existente. Nos doentes do sexo feminino, a depuração sistémica é cerca de 25% inferior à dos doentes do sexo masculino.
+ Nos indivíduos idosos, a depuração sistémica de lepirudina é cerca de 25% inferior à dos adultos mais jovens. A idade, por si própria, provoca uma redução de 7% da depuração desde a idade dos 30 até aos 70 anos. A maior parte das diferenças registadas na depuração entre os doentes jovens e os doentes idosos é devida a diferenças da função renal. Nos doentes com insuficiência renal terminal foram observadas semi-vidas de eliminação prolongadas, de aproximadamente 2 dias.
+ 5.3 Dados de segurança pré-clínica Toxicidade geral As respostas adversas observadas nos estudos de toxicidade com dose única e com dose repetida realizados no ratinho, rato e macaco, foram atribuídas ao impacto farmacodinâmico exagerado da lepirudina. Nos macacos, ocorreram hemorragias da retina. Além disso, foi observado nos ratos sino-histiocitose ligeira a moderada dos gânglios linfáticos regionais e diminuição dos depósitos de hemosiderina no baço. Os anticorpos anti-hirudina observados em vários dos macacos tratados provocaram o prolongamento da semi-vida terminal e um aumento da exposição sistémica à lepirudina.
+ Mutagenicidade A lepirudina não demonstrou ser mutagénica ou clastogénica nos testes padrão realizados para avaliação desses efeitos.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes – Manitol – Hidróxido de sódio para ajustamento do valor de pH 7
+ 6.2 Incompatibilidades Este medicamento não deve ser misturado com outros excepto os mencionados na secção 6.6.
+ 6.3 Prazo de validade 3 anos. Após reconstituição: usar imediatamente.
+ 6.4 Precauções especiais de conservação
+ Não guardar acima de 25°C. Não congelar. Manter o frasco para injectáveis dentro da embalagem exterior.
+ 6.5 Natureza e conteúdo do recipiente Frasco para injectáveis: Frasco para injectáveis de vidro incolor (vidro tipo I) fechado com rolha para perfusão de borracha bromobutilo, tampa de plástico “ flip-off ” e cápsula de alumínio.
+ 9 Apresentação: – Embalagem com 1 frasco para injectáveis – Embalagem com 10 frascos para injectáveis.
+ É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ Recomendações gerais – A reconstituição e subsequente diluição devem ser efectuadas em condições de assepsia. – Para reconstituição deve usar-se água para preparações injectáveis ou solução de cloreto de sódio 9 mg/ml (0,9%). – Para diluição subsequente são apropriadas solução de cloreto de sódio 9 mg/ml (0,9%) ou solução de glicose a 5%. – Para obter uma reconstituição rápida e completa, injectar 1 ml de solvente no frasco para injectáveis sob vácuo e agitá-lo ligeiramente; a solução deve apresentar-se límpida e incolor decorridos menos de 3 minutos. – Não utilizar soluções turvas ou que contenham partículas. – A solução reconstituída deve ser utilizada imediatamente. – Antes da administração, o preparado deve ser aquecido à temperatura ambiente. – Qualquer solução não consumida deve ser convenientemente eliminada. – Para a injecção só podem ser utilizadas seringas de polipropileno.
+ Preparação de uma solução de Refludan com uma concentração de 5 mg/ml Para injecção intravenosa de um bólus, é necessária uma solução com uma concentração de 5 mg/ml: – Reconstituir o conteúdo de um frasco para injectáveis (20 mg de lepirudina) com 0,4 ml de água para preparações injectáveis ou solução de cloreto de sódio 9 mg/ml (0,9%). – Para obter a concentração final de 5 mg/ml, transferir a solução para uma seringa estéril e descartável (com uma capacidade mínima de 5 ml) e diluir para um volume total de 4 ml, utilizando solução de cloreto de sódio 9 mg/ml (0,9%) ou solução de glicose a 5%. – A solução final deve ser administrada de acordo com o peso corporal (ver secção 4.2).
+ Preparação de uma solução de Refludan com uma concentração de 2 mg/ml Para uma perfusão intravenosa contínua, é necessária uma solução com uma concentração de 2 mg/ml: – Reconstituir o conteúdo de dois frascos para injectáveis (cada um contém 20 mg de lepirudina), respectivamente de 0,4 ml, utilizando água para preparações injectáveis ou solução de cloreto de sódio 9 mg/ml (0,9%). – Para obter uma concentração final de 2 mg/ml, transferir as duas soluções para uma seringa de perfusão estéril e descartável (capacidade de 50 ml) e diluir para um volume total de 20 ml, utilizando solução de cloreto de sódio 9 mg/ml (0,9%) ou solução de glicose a 5%. – A velocidade de perfusão da bomba perfusora deve ser ajustada de acordo com o peso corporal (ver secção 4.2). – A seringa de perfusão deve ser substituída, o mais tardar, a intervalos de 12 horas, após o início da perfusão.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Celgene Europe Ltd., Riverside House, Riverside Walk, Windsor, SL4 1NA, Reino Unido
+ 10 8. NÚMEROS DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/97/035/003 – Refludan 20 mg-Pó para solução injectável ou para perfusão – 1 frasco para injectáveis EU/1/97/035/004 – Refludan 20 mg-Pó para solução injectável ou para perfusão – 10 frascos para injectáveis
+ 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 13-03-1997 Data da última renovação: 05-03-2007
+ 10. DATA DA REVISÃO DO TEXTO Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia do Medicamento (EMEA) http: //www. emea. europa. eu
+ 11 1. DENOMINAÇÃO DO MEDICAMENTO
+ Refludan 50 mg pó para solução injectável ou para perfusão
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada frasco para injectáveis contém 50 mg de lepirudina.
+ (A lepirudina é um produto DNA recombinante obtido a partir de células de levedura).
+ Lista completa de excipientes, ver a secção 6.1.
+ 3. FORMA FARMACÊUTICA Pó para solução injectável ou para perfusão.
+ Pó liofilizado branco a quase branco. 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Anticoagulação em doentes adultos com trombocitopenia associada à heparina (TIH) tipo II e doença tromboembólica obrigando a terapia anti-trombótica parentérica.
+ O diagnóstico deve ser confirmado por HIPAA (heparin induced platelet activation assay) ou por um teste equivalente.
+ 4.2 Posologia e modo de administração O tratamento com Refludan deve ser iniciado sob a supervisão de um médico com experiência em perturbações da coagulação.
+ Posologia inicial Anticoagulação em doentes adultos com TIH tipo II e doença tromboembólica:
+ – 0,4 mg/kg de peso corporal por via intravenosa numa dose em bólus – seguidos de 0,15 mg/Kg de peso corporal/hora sob a forma de uma perfusão intravenosa contínua durante 2-10 dias ou durante um período mais prolongado, caso seja clinicamente necessário.
+ Normalmente, a dosagem depende do peso corporal do doente. Esta regra é válida até ao máximo de 110 kg. Nos doentes com um peso corporal superior a 110 kg, esta não poderá exceder a dose utilizada num indivíduo com um peso corporal de 110 kg (consultar também quadros 2 e 3 em baixo).
+ Monitorização e alteração do regime posológico com Refludan
+ Recomendações padrão Monitorização: – Em geral, a dosagem (velocidade de perfusão) deve ser ajustada em função do tempo de tromboplastina parcial activada, aPTT.
+ 12 – A primeira determinação de aPTT deve ser efectuada 4 horas após o início da terapêutica com Refludan. – Os valores do aPTT devem ser monitorizados, pelo menos, uma vez por dia. Determinações mais frequentes poderão ser necessárias, por exemplo, em doentes com compromisso renal ou com risco aumentado de hemorragia. – Limites alvo (janela terapêutica) para o aPTT:
+ -Utilizando ” Actin FS ” ou ” Neothromtin ” em coagulómetros automatizados, os limites alvo
+ do aPTT correspondem a um prolongamento de 1,5 vezes a 3 vezes o valor normal de referência.
+ -Utilizando outros reagentes, o limite superior da janela terapêutica do aPTT deverá baixar
+ para um valor correspondente a um prolongamento de 2,5 vezes o valor normal de referência.
+ -Para obter limites do aPTT específicos e exactos, o equipamento laboratorial/reagente de
+ ensaio utilizados podem ser calibrados adicionando a plasma humano padronizado 0,15 μg/ml de lepirudina (limite inferior) e 1,5 μg/ml de lepirudina (limite superior).
+ Alterações posológicas: – Qualquer valor de aPTT fora dos limites alvo deverá ser imediatamente confirmado antes de serem efectuadas quaisquer alterações posológicas, salvo nos casos em que for considerado clinicamente necessária a adopção de medidas imediatas. – Se o valor de aPTT confirmado for superior aos limites alvo, deve interromper-se a perfusão durante duas horas. Ao reiniciar a perfusão, deve reduzir-se a velocidade em 50% (não se deve administrar um bólus i. v. adicional). A determinação do aPTT deve ser repetida decorridas 4 horas. – Se o valor aPTT confirmado for inferior aos limites alvo, deve aumentar-se em 20% a velocidade da perfusão. Deve repetir-se a determinação do aPTT após 4 horas. – Em geral não deve ser excedida uma taxa de perfusão de 0.21 mg/Kh/hora sem verificar anomalias na coagulação o que pode prevenir uma resposta aPTT apropriada.
+ Recomendações de utilização em doentes em que se planeia substituir Refludan por um anticoagulante oral
+ Caso se planeie administrar a um doente derivados cumarínicos (antagonistas da vitamina K) como terapêutica anticoagulante oral após um tratamento com Refludan, dever-se-á aplicar o seguinte: os derivados cumarínicos devem ser iniciados apenas quando a contagem das plaquetas estiver normalizada. A dose de manutenção desejada deve ser iniciada sem dose de carga. Para evitar efeitos protrombóticos quando iniciar a toma de cumarina, continuar a anticoagulação parentérica durante 4 a 5 dias (ver folheto informativo do anticoagulante oral para obter informações). A administração do O agente parentérico pode ser interrompido quando o valor de INR (taxa internacional normalizada) se estabilizar dentro do intervalo de valores desejados.
+ Recomendações de utilização em doentes com compromisso renal
+ Dado que a lepirudina é excretada e metabolizada quase exclusivamente por via renal (ver também a secção 5.2), deve proceder-se à avaliação da função renal de cada doente antes de se iniciar o tratamento. Em caso de compromisso renal, pode ocorrer uma sobredosagem relativa mesmo com um regime posológico padrão. Consequentemente, a dose bolus e a velocidade de perfusão devem ser reduzidas em caso de compromisso renal declarada ou suspeita (depuração de creatinina inferior a 60 ml/min. ou valor de creatinina superior a 15 mg/l[ 133 μmol/l]).
+ Em ensaios clínicos o Refludan não foi administrado com fins terapêuticos a doentes com TIH tipo II com compromisso renal grave. As recomendações posológicas a seguir descritas baseiam-se em estudos de dose única realizados num pequeno número de doentes com compromisso renal. Estas recomendações são, como tal, experimentais.
+ 13 Sempre que possível, os ajustamentos das doses devem ser efectuados com base nos valores da depuração de creatinina obtidos através de um método fiável (colheita da urina de 24 horas). Em todos os outros casos, o ajustamento da dose deve basear-se nos valores da creatinina.
+ Em qualquer circunstância, a dose em bólus deve ser reduzida para 0,2 mg/kg de peso corporal.
+ A velocidade de perfusão deve ser reduzida de acordo com o quadro 1. É indispensável proceder-se adicionalmente à monitorização dos valores do aPTT.
+ Quadro 1: Redução da velocidade de perfusão em doentes com compromisso renal.
+ Depuração da creatinina[ ml/min]
+ Valor da creatinina[ mg/l (μmol/l)]
+ Velocidade de perfusão ajustada[% da dose original]
+ 45 – 60 30 – 44 15 – 29
+ 16-20 (141-177) 21-30 (178-265) 31-60 (266-530)
+ 50% 30% 15%
+ Inferior a 15* superior a 60 (530)*
+ evitar ou SUSPENDER a perfusão!*
+ * Em doentes hemodialisados ou em caso de falência renal aguda (depuração da creatinina inferior a 15 ml/min. ou valor da creatinina superior a 60 mg/l[ 530 μmol/l]), deve evitar-se ou suspender-se a perfusão de Refludan. Só quando os valores do aPTT descem abaixo do limite terapêutico inferior (ver Monitorização: limites alvo), se poderá considerar a hipótese de administrar outras doses em bólus intravenoso de 0,1 mg/kg de peso corporal em dias alternados.
+ Modo de administração Reconstituir o liofilizado conforme descrito na secção 6.6.
+ Bólus intravenoso inicial: Para uma injecção em bólus intravenoso, é necessária uma solução com uma concentração de 5 mg/ml. A injecção intravenosa deve ser administrada lentamente.
+ Quadro 2: Exemplos do volume de injecção padrão de acordo com o peso corporal
+ Peso corporal Volume de injecção[ ml] [ kg]
+ Dosagem 0,4 mg/kg peso corporal
+ Dosagem 0,2 mg/kg peso corporal
+ 50 60 70 80 90 100 ≥ 110
+ 4,0 4,8 5,6 6,4 7,2 8,0 8,8
+ 2,0 2,4 2,8 3,2 3,6 4,0 4,4
+ Perfusão intravenosa: Para uma perfusão intravenosa contínua é necessária uma solução com uma concentração de 2mg/ml. A velocidade da bomba perfusora[ ml por hora] deve ser ajustada em função do peso corporal.
+ 14 Quadro 3: Exemplos da velocidade de perfusão padrão de acordo com o peso corporal
+ Peso corporal Velocidade de perfusão[ ml/h] [ kg]
+ Dosagem 0,15 mg/kg peso corporal/h
+ Dosagem 0,1 mg/kg peso corporal/h
+ 50 60 70 80 90 100 ≥ 110
+ 3,8 4,5 5,3 6,0 6,8 7,5 8,3
+ 2,5 3,0 3,5 4,0 4,5 5,0 5,5
+ 4.3 Contra-indicações – A hipersensibilidade conhecida á lepirudina, às hirudinas ou a qualquer excipiente – Gravidez e aleitamento (ver secção 4.6)
+ Quando haja diátese hemorrágica ou tendência não é, geralmente, aconselhável administrar Refludan. O médico assistente deverá proceder a uma avaliação cuidadosa ponderando o risco associado à administração de Refludan versus o benefício esperado, tendo em conta a possibilidade de medidas de controlo de hemorragia:
+ Esta avaliação inclui, em particular, as seguintes situações com risco aumentado de hemorragia: – Punção recente dos grandes vasos ou biópsia de órgão – Malformação de vasos ou órgãos – Acidente isquémico transitório recente, acidente vascular cerebral ou cirurgia intracerebral – Hipertensão grave não controlada – Endocardite bacteriana – Compromisso renal avançada – Diátese hemorrágica – Cirurgia major recente – Hemorragia recente (p. ex., intracraniana, gastrintestinal, intra-ocular, pulmonar) – Sinais declarados de hemorragia – Úlcera peptica activa recente – Idade &gt; 65 anos.
+ 4.4 Advertências e precauções especiais de utilização
+ – Anafilaxia: Refludan pode causar reacções alérgicas incluindo anafilaxia e choque (ver secção 4.8). Foram notificadas reacções anafilácticas fatais em doentes re-expostos a Refludan num segundo ou subsequente curso de tratamento. Por esse motivo, devem ser consideradas outras alternativas terapêuticas antes da decisão de re-expôr os doentes a Refludan. Como estas reacções são imunomediadas, os doentes que foram expostos recentemente a hirudina ou a um análogo desta poderão ter um risco acrescido de reacções alérgicas. início do tratamento com Refludan deve ser realizado num local onde a assistência médica esteja imediatamente disponível e onde existam condições para o tratamento de reacções anafilácticas. – Os doentes devem ser informados que estão a fazer terapêutica com Refludan – Em caso de compromisso renal pode ocorrer uma sobredosagem relativa, mesmo se for utilizado um regime posológico padrão. Portanto o médico assistente terá de fazer uma determinação cuidada antecipada pesando o risco da administração versus benefício esperado. Poderá ser necessário excluir doentes com compromisso renal do tratamento com lepirudina. Dever-se-á, reduzir a velocidade de perfusão em caso de compromisso renal declarada ou suspeita (ver secções 4.2 e 5.2). – Não há experiência em doentes tratados com lepirudina com compromisso hepática
+ 15 significativa. A cirrose hepática pode afectar também a excreção renal da lepirudina. Danos hepáticos graves (ex., cirrose hepática) podem aumentar o efeito anticoagulante da lepirudina devido a defeitos secundários de coagulação para reduzir a formação de vitamina K-dependente de factores de coagulação. – Foi comprovada a formação de anticorpos anti-hirudina em cerca de 40% dos doentes com TIH tipo II e foram observados especialmente com uma duração de tratamento superior a 5 dias. Este facto poderá potenciar o efeito anticoagulante da lepirudina, possivelmente devido ao atraso na eliminação renal do complexo activo lepirudina-anti-hirudina. É, no entanto, necessário proceder a uma rigorosa monitorização do aPTT mesmo durante uma terapêutica prolongada. Não foram observados sinais de neutralização da lepirudina ou de reacção alérgica associados a resultados positivos na pesquisa de anticorpos anti-plaquetários. – A experiência com associações terapêuticas com fármacos trombolíticos em doentes com TIH tipo II é muito limitada. Considerando que existe um risco considerável de hemorragia grave nesta situação, a dosagem de Refludan deve ser substancialmente reduzida. O regime posológico óptimo de Refludan nestas circunstâncias não é conhecido – Uso em Pediatria: Não foi estabelecida a segurança e eficácia em doentes de pediatria – Idosos: Doentes de idade avançada têm um risco aumentado de complicações hemorrágicas com anticoagulantes. Em relação á dosagem de lepirudina é de ter em conta a potencialização de compromisso renal em doentes idosos. Não foi feito ajustamento específico na dosagem para doentes idosos. Ajustamentos de dosagem são baseados na função renal, peso e aPTT (ver secção 4.2)
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Não foram realizados estudos de interacção.
+ O tratamento concomitante com trombolíticos (por ex., AP-rte (Activador do Plasminogénio recombinante) ou estreptoquinase) pode: – aumentar o risco de complicações hemorrágicas, – potenciar consideravelmente o efeito de Refludan ao nível do prolongamento do aPTT.
+ O tratamento concomitante com derivados cumarínicos (antagonistas da vitamina K) drogas que afectam a função plaquetária podem também aumentar o risco de episódios de hemorragia.
+ Uso concomitante com: – agentes antiplaquetários outros que não o ácido acetilsalicílico, tais como ticlopidina ou clopidogrel, – antagonista do receptor GpIIb/IIIa tais como, eptifibatide, tirofiban, ou abciximab, – outros inibidores da trombina tais como heparinas de baixo peso molecular não foram avaliados.
+ 4.6 Gravidez e aleitamento Não foi estabelecida a segurança de Refludan na gravidez ou aleitamento humanos. Num ensaio padrão de toxicidade embrio-fetal, foi observada redução da taxa de sobrevivência das crias e das progenitoras.
+ Não existe actualmente informação disponível sobre o uso de Refludan durante o aleitamento.
+ Refludan não deverá, portanto, ser administrado a mulheres grávidas ou a mães que estejam a amamentar.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não relevante. 16 4.8 Efeitos indesejáveis
+ A maior parte dos efeitos indesejáveis sofridos pelos doentes tratados com Refuldan encontravam-se relacionados de uma maneira geral com hemorragias (&gt; 1/10). Os eventos hemorrágicos potencialmente fatais (incluindo hemorragias intracranianas) foram pouco frequentemente registados (≥1/1000 a &lt; 1/100) em doentes com sindroma coronário agudo incluídos em estudos clínicos. Numa vigilância intensificada feita após a comercialização nos doentes com TIH tipo II, registaram-se casos de hemorragia fatal em 1% dos doentes e de hemorragia intracranial em 0,2% deles.
+ O quadro a seguir apresenta os efeitos adversos registados com Refuldan:
+ Muito frequentes (&gt; 1/10); Frequentes (&gt; 1/100, &lt; 1/10); Pouco frequentes (&gt; 1/1000 &lt; 1/100); Raros (&gt; 1/10.000 &lt; 1/1,000); Muito raros (&lt; 1/10.000)
+ Classe de sistema de órgão Doençasdo sistema imunitário
+ Muito frequentes Raros Reacções anafilácticas/óides Vasculopatias Anemia ou uma redução Rubores dos níveis de hemoglobina sem uma fonte óbvia de hemorragia Hematoma Hemorragia de locais perfurados Epistaxes Hematúria Hemorragia gastrointestinal Hemorragia vaginal Hemorragia rectal Hemorragia pulmunar Hemotórax pós-operatório Hemopericárdio Hemorragia intracraniana
+ Choque, incluindo choque mortal Doenças respiratórias, torácicas e do mediastino Afecções dos tecidos cutâneos e subcutâneas Perturbações gerais e alterações no local da administração
+ Tosse Estridor Dispneia Reacções dérmicas alérgicas (incluindo erupção cutânea) Prurido Urticária Angio-edema (incluindo: edema facial, edema lingual, edema laringeal) Febre Calafrios Reacções no local da injecção, dores.
+ 4.9 Sobredosagem O risco de hemorragia pode aumentar em caso de sobredosagem.
+ 17 Não existe, actualmente, à disposição um antídoto específico contra a lepirudina. Caso se verifique uma hemorragia potencialmente fatal e se suspeite da existência de níveis plasmáticos excessivamente elevados de lepirudina, devem seguir-se as seguintes recomendações: – SUSPENDER imediatamente a administração de Refludan – Determinar o aPTT e outros parâmetros de coagulação, conforme necessário – Determinar a hemoglobina e preparar para proceder à transfusão de sangue – Seguir as directivas actuais para a terapêutica do choque.
+ Além disso, os relatórios de casos individuais e os dados in vitro sugerem que poderá ser útil, nesta situação, recorrer quer a hemofiltração quer a hemodiálise (utilizando membranas de diálise de alto fluxo com um ponto limite de 50.000 Dalton).
+ Os resultados de estudos realizados no porco demonstraram que a aplicação do Factor de von Willebrand (vWF,66 U. I./kg de peso corporal) reduziu de forma marcada o tempo de hemorragia.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo fármaco-terapêutico: Agente antitrombótico – inibidor directo da trombina, código ATC: B01AE02 A lepirudina ([ Leu1, Thr2)-63-desulfohirudina) é uma hirudina recombinante obtida a partir de células de levedura. O polipéptido composto por 65 aminoácidos possui um peso molecular de 6. 979,5 Daltons. A hirudina natural é produzida pela sanguessuga Hirudo medicinalis em quantidades vestigiais, como uma família de isopolipéptidos altamente homólogos.
+ A lepirudina é um inibidor directo, altamente específico, da trombina. A sua actividade é determinada num ensaio cromogénico. Uma unidade anti-trombina (UAT) corresponde à quantidade de hirudina que neutraliza uma unidade do preparado 89/588 de trombina da OMS. A actividade específica da lepirudina é de aproximadamente 16.000 UAT/mg.
+ O seu modo de acção é independente da anti-trombina III. A lepirudina não é inibida pelo factor plaquetário 4. Uma molécula de hirudina liga-se a uma molécula de trombina, bloqueando, desta forma, a actividade trombogénica da trombina. Todas as provas de coagulação dependentes da trombina são, consequentemente, afectadas, por ex., os valores do aPTT aumentam em função da dose administrada.
+ A informação clínica sobre a TIH tipo II contida neste RCM baseia-se nos dados obtidos em dois ensaios prospectivos que incluíram um total de 198 doentes com TIH tipo II tratados com Refludan. Na indicação de TIH tipo II com doença tromboembólica (125 doentes) a taxa de mortalidade global, durante o período do estudo, foi de 9%, aproximadamente; as amputações e as complicações tromboembólicas novas foram registadas em 6% e 10%, respectivamente.
+ 5.2 Propriedades farmacocinéticas As propriedades farmacocinéticas da lepirudina, administrada por via intravenosa, são bem descritas por um modelo de dois compartimentos. A distribuição limita-se essencialmente aos líquidos extra-celulares, caracterizando-se por uma semi-vida inicial de cerca de 10 minutos. A eliminação segue um processo de primeira ordem e é caracterizada por uma semi-vida terminal de aproximadamente 1,3 horas em voluntários saudáveis jovens.
+ Tanto a excreção como o metabolismo ocorrem no rim, sendo detectável, na urina, cerca de 45% da dose administrada. Aproximadamente 35% da dose é excretada sob a forma de composto inalterado.
+ 18 A depuração sistémica da lepirudina diminui na proporção da taxa de filtração glomerular existente. Nos doentes do sexo feminino, a depuração sistémica é cerca de 25% inferior à dos doentes do sexo masculino.
+ Nos indivíduos idosos, a depuração sistémica de lepirudina é cerca de 25% inferior à dos adultos mais jovens. A idade, por si própria, provoca uma redução de 7% da depuração desde a idade dos 30 até aos 70 anos. A maior parte das diferenças registadas na depuração entre os doentes jovens e os doentes idosos é devida a diferenças da função renal. Nos doentes com insuficiência renal terminal foram observadas semi-vidas de eliminação prolongadas, de aproximadamente 2 dias.
+ 5.3 Dados de segurança pré-clínica Toxicidade geral As respostas adversas observadas nos estudos de toxicidade com dose única e com dose repetida realizados no ratinho, rato e macaco, foram atribuídas ao impacto farmacodinâmico exagerado da lepirudina. Nos macacos, ocorreram hemorragias da retina. Além disso, foi observado nos ratos sino-histiocitose ligeira a moderada dos gânglios linfáticos regionais e diminuição dos depósitos de hemosiderina no baço. Os anticorpos anti-hirudina observados em vários dos macacos tratados provocaram o prolongamento da semi-vida terminal e um aumento da exposição sistémica à lepirudina.
+ Mutagenicidade A lepirudina não demonstrou ser mutagénica ou clastogénica nos testes padrão realizados para avaliação desses efeitos.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes – Manitol – Hidróxido de sódio para ajustamento do valor de pH 7
+ 6.2 Incompatibilidades Este medicamento não deve ser misturado com outros excepto os mencionados na secção 6.6.
+ 6.3 Prazo de validade 3 anos. Após reconstituição: usar imediatamente.
+ 6.4 Precauções especiais de conservação
+ Não conservar acima de 25°C. Não congelar Manter o frasco para injectáveis dentro da embalagem exterior.
+ 6.5 Natureza e conteúdo do recipiente Frasco para injectáveis: Frasco para injectáveis de vidro incolor (vidro tipo I) fechado com rolha para perfusão de borracha bromobutilo, tampa de plástico “ flip-off ” e cápsula de alumínio.
+ 19 Apresentação: – Embalagem com 1 frasco para injectáveis – Embalagem com 10 frascos para injectáveis
+ É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ Recomendações gerais – A reconstituição e subsequente diluição devem ser efectuadas em condições de assepsia. – Para reconstituição deve usar-se água para preparações injectáveis ou solução de cloreto de sódio 9 mg/ml (0.9%). – Para diluição subsequente são apropriadas solução de cloreto de sódio 9 mg/ml (0,9%) ou solução de glicose a 5%. – Para obter uma reconstituição rápida e completa, injectar 1 ml de solvente no frasco para injectáveis sob vácuo e agitá-lo ligeiramente; a solução deve apresentar-se límpida e incolor decorridos menos de 3 minutos. – Não utilizar soluções turvas ou que contenham partículas. – A solução reconstituída deve ser utilizada imediatamente. – Antes da administração, o preparado deve ser aquecido à temperatura ambiente. – Qualquer solução não consumida deve ser convenientemente eliminada. – Para a injecção só podem ser utilizadas seringas de polipropileno.
+ Preparação de uma solução de Refludan com uma concentração de 5 mg/ml Para injecção intravenosa de um bólus, é necessária uma solução com uma concentração de 5 mg/ml: – Reconstituir o conteúdo de um frasco para injectáveis (50 mg de lepirudina) com 1 ml de água para preparações injectáveis ou solução de cloreto de sódio 9 mg/ml (0,9%) – Para obter a concentração final de 5 mg/ml, transferir a solução para uma seringa estéril e descartável (com uma capacidade mínima de 5 ml) e diluir para um volume total de 10 ml, utilizando uma solução de cloreto de sódio 9 mg/ml (0,9%) ou solução de glicose a 5%. – A solução final deve ser administrada de acordo com o peso corporal (ver secção 4.2).
+ Preparação de uma solução de Refludan com uma concentração de 2 mg/ml Para uma perfusão intravenosa contínua, é necessária uma solução com uma concentração de 2 mg/ml: – Reconstituir o conteúdo de dois frascos para injectáveis (cada um contém 50 mg de lepirudina), respectivamente de 1 ml, utilizando água para preparações injectáveis ou solução de cloreto de sódio 9 mg/ml (0,9%). – Para obter uma concentração final de 2 mg/ml, transferir as duas soluções para uma seringa de perfusão estéril e descartável (capacidade de 50 ml) e diluir para um volume total de 50 ml, utilizando solução de cloreto de sódio 9 mg/ml (0,9%) ou solução de glicose a 5%. – A velocidade de perfusão da bomba perfusora deve ser ajustada de acordo com o peso corporal (ver secção 4.2). – A seringa de perfusão deve ser substituída, o mais tardar, a intervalos de 12 horas, após o início da perfusão.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Celgene Europe Ltd., Riverside House, Riverside Walk, Windsor, SL4 1NA, Reino Unido
+ 20 8. NÚMEROS DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/97/035/001 – Refludan 50 mg-Pó para solução injectável ou para perfusão – 1 frasco para injectáveis EU/1/97/035/002 – Refludan 50 mg-Pó para solução injectável ou para perfusão – 10 frascos para injectáveis
+ 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 13-03-1997 Data da última renovação: 05-03-2007
+ 10. DATA DA REVISÃO DO TEXTO Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia do Medicamento (EMEA) http: //www. emea. europa. eu
+ 21 ANEXO II
+ A. FABRICANTE(S) DA(S) SUBSTÂNCIA(S) ACTIVA(S) DE ORIGEM BIOLÓGICA E TITULAR(ES) DE AUTORIZAÇÃO DE FABRICO RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 22 A. FABRICANTE(S) DA(S) SUBSTÂNCIA(S) ACTIVA(S) DE ORIGEM BIOLÓGICA E TITULAR(ES) DE AUTORIZAÇÃO DE FABRICO RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do(s) fabricante(s) da(s) substância(s) activa(s) de origem biológica
+ CSL Behring GmbH Emil-von-Behring-Straße 76 35041 Marburg Alemanha
+ Nome e endereço do(s) fabricante(s) responsável(veis) pela libertação do lote
+ CSL Behring GmbH Emil-von-Behring-Straße 76 35041 Marburg Alemanha
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento sujeito a receita médica restrita (ver anexo I: resumo das características do medicamento, secção 4.2.
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ Não aplicável. 23 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 24 A. ROTULAGEM
+ 25 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO E NO ACONDICIONAMENTO PRIMÁRIO
+ ACONDICIONAMENTO SECUNDÁRIO: 20 mg x 1 frasco para injectáveis
+ 1. DENOMINAÇÃO DO MEDICAMENTO Refludan 20 mg pó para solução injectável ou para perfusão lepirudina
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ 1 frasco para injectáveis contém 20 mg de lepidurina
+ 3. LISTA DOS EXCIPIENTES Contém também: manitol, hidróxido de sódio.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 1 frasco para injectáveis com pó para solução injectável ou para perfusão.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via intravenosa. Reconstituir um frasco para injectáveis de Refludan (20 mg de lepirudina) com 0,4 ml de água para preparações injectáveis ou solução de cloreto de sódio 9 mg/ml (0,9%). A solução deve ser novamente diluída antes da utilização. Ler o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ A solução reconstituída deve ser utilizada imediatamente. Não utilizar soluções turvas ou que contenham partículas.
+ 8. PRAZO DE VALIDADE VAL. { MM/AAAA} 26 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Não conservar acima de +25ºC. Não congelar. Manter o frasco para injectáveis dentro da embalagem exterior.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ Eliminar adequadamente a solução não utilizada.
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Celgene Europe Ltd., Riverside House, Riverside Walk, Windsor, SL4 1NA, Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/97/035/003 13. NÚMERO DO LOTE Lote{ número} 14. CLASSIFICAÇÃO GERAL RELATIVA AO FORNECIMENTO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMATION IN BRAILLE A justificação para não incluir a informação em Braille foi aceite
+ 27 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO E NO ACONDICIONAMENTO PRIMÁRIO
+ ACONDICIONAMENTO SECUNDÁRIO: 20 mg x 10 frascos para injectáveis
+ 1. DENOMINAÇÃO DO MEDICAMENTO Refludan 20 mg pó para solução injectável ou para perfusão
+ lepirudina
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ 1 frasco para injectáveis contém 20 mg de lepirudina
+ 3. LISTA DOS EXCIPIENTES Contém também: manitol, hidróxido de sódio.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 10 x 1 frasco para injectáveis com pó para solução injectável ou para perfusão
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via intravenosa Reconstituir um frasco para injectáveis de Refludan (20 mg de lepirudina) com 0,4 ml de água para preparações injectáveis ou solução de cloreto de sódio 9 mg/ml (0,9%). A solução deve ser novamente diluída antes da utilização. Ler o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ A solução reconstituída deve ser utilizada imediatamente. Não utilizar soluções turvas ou que contenham partículas.
+ 8. PRAZO DE VALIDADE VAL. { MM/AAAA} 28 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Não conservar acima de +25ºC. Não congelar. Manter o frasco para injectáveis dentro da embalagem exterior.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ Eliminar adequadamente a solução não utilizada.
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Celgene Europe Ltd., Riverside House, Riverside Walk, Windsor, SL4 1NA, Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/97/035/004 13. NÚMERO DO LOTE Lote{ número} 14. CLASSIFICAÇÃO GERAL RELATIVA AO FORNECIMENTO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMATION IN BRAILLE A justificação para não incluir a informação em Braille foi aceite
+ 29 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ RÓTULO DO FRASCO PARA INJECTÁVEIS: 20 mg 1. DENOMINAÇÃO DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Refludan 20 mg pó para solução injectável ou para perfusão Lepirudina Via intravenosa
+ 2. MODO DE ADMINISTRAÇÃO Ler o folheto da embalagem antes de utilizar
+ 3. PRAZO DE VALIDADE VAL. { MM/AAAA} 4. NÚMERO DO LOTE Lote{ número} 5. CONTEÚDO EM TERMOS DE PESO, VOLUME OU UNIDADE
+ 30 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO E NO ACONDICIONAMENTO PRIMÁRIO
+ ACONDICIONAMENTO SECUNDÁRIO: 50 mg x 1 frasco para injectáveis
+ 1. DENOMINAÇÃO DO MEDICAMENTO Refludan 50 mg pó para solução injectável ou para perfusão lepirudina
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ 1 frasco para injectáveis contém 50 mg de lepidurina
+ 3. LISTA DOS EXCIPIENTES Contém também: manitol, hidróxido de sódio.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 1 frasco para injectáveis com pó para solução injectável ou perfusão
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via intravenosa Reconstituir um frasco para injectáveis de Refludan (50 mg de lepirudina) com 1 ml de água para preparações injectáveis ou solução de cloreto de sódio 9 mg/ml (0,9%). A solução deve ser novamente diluída antes da utilização. Ler o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ A solução reconstituída deve ser utilizada imediatamente. Não utilizar soluções turvas ou que contenham partículas.
+ 8. PRAZO DE VALIDADE VAL. { MM/AAAA} 31 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Não conservar acima de +25ºC. Não congelar. Manter o frasco para injectáveis dentro da embalagem exterior.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ Eliminar adequadamente a solução não utilizada.
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Celgene Europe Ltd., Riverside House, Riverside Walk, Windsor, SL4 1NA, Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/97/035/001 13. NÚMERO DO LOTE Lote{ número} 14. CLASSIFICAÇÃO GERAL RELATIVA AO FORNECIMENTO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMATION IN BRAILLE A justificação para não incluir a informação em Braille foi aceite
+ 32 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO E NO ACONDICIONAMENTO PRIMÁRIO
+ ACONDICIONAMENTO SECUNDÁRIO: 50 mg x 10 frascos para injectáveis
+ 1. DENOMINAÇÃO DO MEDICAMENTO Refludan 50 mg pó para solução injectável ou para perfusão lepirudina
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ 1 frasco para injectáveis contém 50 mg de lepidurina
+ 3. LISTA DOS EXCIPIENTES Contém também: manitol, hidróxido de sódio.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 10 x 1 frasco para injectáveis com pó para solução injectável ou para perfusão
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via intravenosa. Reconstituir um frasco para injectáveis de Refludan (50 mg de lepirudina) com 1ml de água para preparações injectáveis ou solução de cloreto de sódio 9 mg/ml (0,9%). A solução deve ser novamente diluída antes da utilização. Ler o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ A solução reconstituída deve ser utilizada imediatamente. Não utilizar soluções turvas ou que contenham partículas.
+ 8. PRAZO DE VALIDADE VAL. { MM/AAAA} 33 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Não conservar acima de +25ºC. Não congelar. Manter o frasco para injectáveis dentro da embalagem exterior.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ Eliminar adequadamente a solução não utilizada.
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Celgene Europe Ltd., Riverside House, Riverside Walk, Windsor, SL4 1NA, Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/97/035/002 13. NÚMERO DO LOTE Lote{ número} 14. CLASSIFICAÇÃO GERAL RELATIVA AO FORNECIMENTO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMATION IN BRAILLE A justificação para não incluir a informação em Braille foi aceite
+ 34 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ RÓTULO DO FRASCO PARA INJECTÁVEIS: 50 mg 1. DENOMINAÇÃO DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Refludan 50 mg pó para solução injectável ou para perfusão Lepirudina Via intravenosa.
+ 2. MODO DE ADMINISTRAÇÃO Ler o folheto da embalagem antes de utilizar
+ 3. PRAZO DE VALIDADE VAL. { MM/AAAA} 4. NÚMERO DO LOTE Lote{ número} 5. CONTEÚDO EM TERMOS DE PESO, VOLUME OU UNIDADE
+ 35 B. FOLHETO INFORMATIVO
+ 36 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Refludan 20 mg pó para solução injectável ou para perfusão Lepirudina
+ Leia atentamente este folheto antes de começar a utilizar o medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é Refludan e para que é utilizado 2. Antes de utilizar Refludan 3. Como utilizar Refludan 4. Efeitos secundários possíveis 5. Como conservar Refludan 6. Outras informações
+ 1. O QUE É REFLUDAN E PARA QUE É UTILIZADO
+ Refludan é um medicamento anti-trombótico
+ Os anti-trombóticos são medicamentos destinados a evitar a formação de coágulos sanguíneos (trombose).
+ Refludan é utilizado para provocar a anticoagulação em doentes adultos com trombocitopénia induzida pela heparina (TIH) tipo II e na doença tromboembólica, requerendo medicamentos anti-trombóticos injectáveis. A TIH tipo II é uma doença que pode ocorrer após o tratamento com medicamentos que contenham heparina; é um tipo específico de alergia à heparina, que pode provocar um número excessivamente baixo de plaquetas sanguíneas e/ou a formação indesejável de coágulos nos vasos sanguíneos (trombose).
+ Pode ainda levar à deposição destes coágulos nos órgãos.
+ 2. ANTES DE UTILIZAR REFLUDAN Não utilize Refludan: – Se tem alergia (hipersensibilidade) à lepirudina, às hirudinas ou a qualquer outro componente de Refludan – Se estiver grávida ou a amamentar.
+ Tome especial cuidado com Refludan: Se tiver tendência para sofrer hemorragias, o seu médico assistente deverá ponderar o risco associado à administração de Refludan contra o benefício esperado. Deverá, portanto, informar o seu médico assistente, em particular, se tem ou teve: – Punção recente dos grandes vasos ou de órgãos – Malformação de vasos ou órgãos – Acidente isquémico transitório recente, acidente ou cirurgia envolvendo o cérebro – Pressão arterial elevada – Inflamação da membrana interna do coração
+ 37 – Avançada doença renal – Tendência exagerada para hemorragia – Cirurgia major recente – Hemorragia recente (p. ex., no cérebro, estômago/intestinos, olhos, pulmões) – Sinais óbvios de hemorragia – Úlcera peptica activa recente – Idade &gt; 65 anos
+ Informe, por favor, o seu médico assistente se sofrer de função renal reduzida ou de cirrose hepática (doença do fígado em fase avançada) para ele então reduzir a dosagem.
+ Informe, também, o seu médico assistente se já foi anteriormente tratado com Refludan, hirudina ou um análogo desta.
+ Tomar Refludan com outros medicamentos: Informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos sem receita médica.
+ Os medicamentos que desfazem os coágulos ou os comprimidos destinados a evitar a formação de coágulos (cumarínicos) poderão aumentar o risco de hemorragias quando administrados simultaneamente.
+ Gravidez e aleitamento Consulte o seu médico ou farmacêutico antes de tomar qualquer medicamento.
+ Refludan não deve ser administrado às mulheres grávidas ou a amamentar.
+ 3. COMO UTILIZAR REFLUDAN O seu médico assistente controlará a posologia e a duração do tratamento com Refludan de acordo com a sua situação clínica, o seu peso corporal e determinados valores laboratoriais.
+ Fale com o seu médico ou farmacêutico se tiver a impressão de que Refludan é demasiado forte ou demasiado fraco.
+ Refludan, uma vez reconstituído com o solvente apropriado, será administrado numa veia, por injecção e depois por perfusão.
+ 4. EFEITOS SECUNDÁRIOS POSSIVEIS Como os demais medicamentos, Refludan pode ter efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ Muito frequentes (pelo menos 1 em 10 pessoas) – Hemorragia
+ Hemorragias relatadas incluem: anemia ou baixa no valor da hemoglobina sem origem óbvia da hemorragia, nódoas negras, hemorragia nos locais da injecção, hemorragia nasal, sangue na urina, hemorragia gastrointestinal, hemorragia vaginal, hemorragia rectal, hemorragia pulmonar, hemorragia na cavidade torácica após uma cirúrgia, hemorragia intracraniana.
+ Hemorragias graves e em particular intracranianas podem ser fatais. Nos estudos intensivos de segurança pós– autorização na TIH tipo II, foram reportadas hemorragias fatais em 1% dos doentes e hemorragias intra-cranianas em 0,2%. Hemorragias graves podem levar a uma redução do volume de sangue na circulação, pressão sanguinea baixa, choque e suas sequelas clínicas.
+ 38 Raros (menos de 1 em 1000 pessoas afectadas) – Reacções cutâneas alérgicas (incluindo rash), comichão, rubor, febre e arrepios. – Reacções anafilácticas/anafilactóides incluindo urticaria, dificuldade em respirar (ex. com espasmos), tosse, som respiratório agudo, acumulação de água no organismo e nas paredes internas dos vasos (incluindo: edema facial, edema da língua, edema da garganta). Em casos graves, isto pode levar a choque e morte. – Reacções no local da injecção, incluindo dor.
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR REFLUDAN Manter fora do alcance e da vista das crianças.
+ Não utilize Refludan após o prazo de validade impresso na embalagem exterior, a seguir a VAL ..
+ Não conservar acima de 25°C. Não congelar.
+ Manter o frasco para injectáveis dentro da embalagem exterior.
+ Não utilize Refludan se a solução reconstituída se apresentar turva ou contenha partículas.
+ Uma vez reconstituído, Refludan deve ser utilizado imediatamente.
+ Qualquer solução não consumida deve ser convenientemente eliminada.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Refludan A substância activa é lepirudina, um produto DNA recombinante derivado de células de levedura.
+ Os outros componentes são manitol (E421) e hidróxito de sódio, para ajustar o PH.
+ Qual o aspecto de Refludan e o conteúdo da embalagem Refludan é um pó branco para solução injectável ou para perfusão, fornecido num frasco para injectáveis contendo 20 mg de lepirudina. Refludan éstá disponível em embalagens de 1 ou 10 frascos para injectáveis. Nem todos os tamanhos de embalagens podem ser comercializados.
+ Titular da autorização de introdução no mercado Celgene Europe Ltd., Riverside House, Riverside Walk, Windsor, SL4 1NA, Reino Unido.
+ Fabricante CSL Behring GmbH, Emil-von-Behring-Straße 76,35041 Marburg, Alemanha.
+ Este folheto foi aprovado pela última vez em{ data}
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia do Medicamento (EMEA) http: //www. emea. europa. eu
+ 39 &lt; ----------------------------------------------------------------------------------------------------------------------------
+ A informação que se segue destina-se apenas aos médicos e aos profissionais dos cuidados de saúde:
+ Instruções de utilização e manipulação Recomendações gerais – A reconstituição e subsequente diluição devem ser efectuadas em condições de assepsia. – Para reconstituição deve usar-se água para preparações injectáveis ou solução de cloreto de sódio 9 mg/ml (0,9%). – Para diluição subsequente são apropriados solução de cloreto de sódio 9 mg/ml (0,9%) ou glicose a 5%. – Para obter uma reconstituição rápida e completa, injectar 0,4 ml de solvente no frasco para injectáveis sob vácuo e agitá-lo ligeiramente; a solução deve apresentar-se límpida e incolor decorridos menos de 3 minutos. – Não utilizar soluções turvas ou que contenham partículas. – A solução reconstituída deve ser utilizada imediatamente. – Antes da administração, o preparado deve ser aquecido à temperatura ambiente. – Qualquer solução não consumida deve ser convenientemente eliminada. – Para a injecção só podem ser utilizadas seringas de polipropileno.
+ Preparação de uma solução de Refludan com uma concentração de 5 mg/ml Para injecção intravenosa de um bólus é necessária uma solução com uma concentração de 5 mg/ml: – Reconstituir o conteúdo de um frasco para injectáveis (20 mg de lepirudina) com 0,4 ml de água para preparações injectáveis ou solução de cloreto de sódio 9 mg/ml (0,9%). – Para obter a concentração final de 5 mg/ml, transferir a solução para uma seringa estéril e descartável (com uma capacidade mínima de 5 ml) e diluir subsequentemente para um volume total de 4 ml, utilizando solução de cloreto de sódio 9 mg/ml (0,9%) ou glicose a 5%. – A solução final deve ser administrada de acordo com o peso corporal.
+ Preparação de uma solução de Refludan com uma concentração de 2 mg/ml Para uma perfusão intravenosa contínua, é necessária uma solução com uma concentração de 2 mg/ml: – Reconstituir o conteúdo de dois frascos para injectáveis (cada um contém 20 mg de lepirudina), respectivamente de 0,4 ml, utilizando água para preparações injectáveis ou solução de cloreto de sódio 9 mg/ml (0,9%). – Para obter uma concentração final de 2 mg/ml, transferir as duas soluções para uma seringa de perfusão estéril e descartável (capacidade de 50ml) e diluir para um volume total de 20 ml, utilizando solução de cloreto de sódio 9 mg/ml (0,9%) ou glicose a 5%. – A velocidade de perfusão da bomba perfusora deve ser ajustada de acordo com o peso corporal. – A seringa de perfusão deve ser substituída, o mais tardar, a intervalos de 12 horas após o início. da perfusão.
+ 40 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Refludan 50 mg pó para solução injectável ou para perfusão Lepirudina
+ Leia atentamente este folheto antes de utilizar o medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é Refludan e para que é utilizado 2. Antes de utilizar Refludan 3. Como utilizar Refludan 4. Efeitos secundários possíveis 5. Como conservar Refludan 6. Outras informações
+ 1. O QUE É REFLUDAN E PARA QUE É UTILIZADO
+ Refludan é um medicamento anti-trombótico.
+ Os anti-trombóticos são medicamentos destinados a evitar a formação de coágulos sanguíneos (trombose).
+ Refludan é utilizado para provocar a anticoagulação em doentes adultos com trombocitopénia induzida pela heparina (TIH) tipo II e na doença tromboembólica, requerendo medicamentos anti-trombóticos injectáveis. A TIH tipo II é uma doença que pode ocorrer após o tratamento com medicamentos que contenham heparina; é um tipo específico de alergia à heparina, que pode provocar um número excessivamente baixo de plaquetas sanguíneas e/ou nos vasos sanguíneos (trombose).
+ Pode ainda levar à deposição destes coágulos nos órgãos.
+ 2. ANTES DE UTILIZAR REFLUDAN Não utilize Refludan: – Se tem alergia (hipersensibilidade) à lepirudina, às hirudinas ou a qualquer outro componente de Refludan – Se estiver grávida ou a amamentar.
+ Tome especial cuidado com Refludan: Se tiver tendência para sofrer hemorragias, o seu médico assistente deverá ponderar o risco associado à administração de Refludan contra o benefício esperado. Deverá, portanto, informar o seu médico assistente, se tem ou teve: – Punção recente dos grandes vasos ou de órgãos – Malformação de vasos ou órgãos – Acidente isquémico transitório recente, acidente ou cirurgia envolvendo o cérebro – Pressão arterial elevada
+ 41 – Inflamação da membrana interna do coração – Avançada doença renal – Tendência exagerada para hemorragia – Cirurgia major recente – Hemorragia recente (p. ex., no cérebro, estômago/intestinos, olhos, pulmões) – Sinais óbvios de hemorragia. – Úlcera peptica activa recente – Idade &gt; 65 anos
+ Informe, por favor, o seu médico assistente se sofrer de função renal reduzida ou de cirrose hepática (doença do fígado em fase avançada) para ele então reduzir a dosagem.
+ Informe, também, o seu médico assistente se já foi anteriormente tratado com Refludan, hirudina ou um análogo desta.
+ Tomar Refludan com outros medicamentos: Informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos sem receita médica.
+ Os medicamentos que desfazem os coágulos ou os comprimidos destinados a evitar a formação de coágulos (cumarínicos) poderão aumentar o risco de hemorragias quando administrados simultaneamente.
+ Gravidez e aleitamento Consulte o seu médico ou farmacêutico antes de tomar qualquer medicamento.
+ Refludan não deve ser administrado às mulheres grávidas ou a amamentar.
+ 3. COMO UTILIZAR REFLUDAN O seu médico assistente controlará a posologia e a duração do tratamento com Refludan de acordo com a sua situação clínica, o seu peso corporal e determinados valores laboratoriais.
+ Fale com o seu médico ou farmacêutico se tiver a impressão de que Refludan é demasiado forte ou demasiado fraco.
+ Refludan, uma vez reconstituído com o solvente apropriado, será administrado numa veia, por injecção e depois por perfusão.
+ 4. EFEITOS SECUNDÁRIOS POSSIVEIS Como os demais medicamentos, Refludan pode ter efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ Muito frequentes (pelo menos 1 em 10 pessoas) – Hemorragia
+ Hemorragias relatadas incluem: anemia ou baixa no valor da hemoglobina sem origem óbvia da hemorragia, nódoas negras, hemorragia nos locais da injecção, hemorragia nasal, sangue na urina, hemorragia gastrointestinal, hemorragia vaginal, hemorragia rectal, hemorragia pulmonar, hemorragia na cavidade torácica após uma cirúrgia, hemorragia intracraniana.
+ Hemorragias graves e em particular intracranianas podem ser fatais. Nos estudos intensivos de segurança pós– autorização na TIH tipo II, foram reportadas hemorragias fatais em 1% dos doentes e hemorragias intra-cranianas em 0,2%. Hemorragias graves podem levar a uma diminuição de volume
+ 42 do sangue circulante, queda de pressão arterial, choque e suas sequelas clínicas.
+ Raros (menos de 1 em 1000 pessoas afectadas) – Reacções cutâneas alérgicas (incluindo rash), comichão, rubor, febre e arrepios. – Reacções anafilácticas/anafilactóides incluindo urticária, dificuldade em respirar (por ex. com espasmos), tosse, som respiratório agudo, acumulação de água no organismo e nas paredes internas dos vasos (incluindo: edema facial, edema da língua, edema da garganta). Em casos graves, isto pode levar a choque e morte. – Reacções no local da injecção, incluindo dor.
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR REFLUDAN Manter fora do alcance e da vista das crianças.
+ Não utilize Refludan após o prazo de validade impresso na embalagem exterior, a seguir a VAL.
+ Não conservar acima de 25°C. Não congelar.
+ Manter o frasco para injectáveis dentro da embalagem exterior.
+ Não utilize Refludan se a solução reconstituída se apresentar turva ou contenha partículas.
+ Uma vez reconstituído, Refludan deve ser utilizado imediatamente.
+ Qualquer solução não consumida deve ser convenientemente eliminada.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Refludan A substância activa é lepirudina, um produto DNA recombinante derivado de células de levedura.
+ Os outros componentes são manitol (E421) e hidróxito de sódio, para ajustar o PH.
+ Qual o aspecto de Refludan e o conteúdo da embalagem Refludan é um pó branco para solução injectável ou para perfusão, fornecido num frasco para injectáveis contendo 50 mg de lepirudina. Refludan éstá disponível em embalagens de 1 ou 10 frascos para injectáveis. Nem todos os tamanhos de embalagens podem ser comercializados.
+ Titular da autorização de introdução no mercado Celgene Europe Ltd., Riverside House, Riverside Walk, Windsor, SL4 1NA, Reino Unido.
+ Fabricante CSL Behring GmbH, Emil-von-Behring-Straße 76,35041 Marburg, Alemanha.
+ Este folheto foi aprovado pela última vez em{ date}
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia do Medicamento (EMEA) http: //www. emea. europa. eu
+ 43 &lt; ----------------------------------------------------------------------------------------------------------------------------
+ A informação que se segue destina-se apenas aos médicos e aos profissionais dos cuidados de saúde:
+ Instruções de utilização e manipulação Recomendações gerais – A reconstituição e subsequente diluição devem ser efectuadas em condições de assepsia. – Para reconstituição deve usar-se água para preparações injectáveis ou solução de cloreto de sódio 9 mg/ml (0,9%). – Para diluição subsequente são apropriadas solução de cloreto de sódio 9 mg/ml (0,9%) ou glicose a 5%. – Para obter uma reconstituição rápida e completa, injectar 1 ml de solvente no frasco para injectáveis sob vácuo e agitá-lo ligeiramente; a solução deve apresentar-se límpida e incolor decorridos menos de 3 minutos. – Não utilizar soluções turvas ou que contenham partículas. – A solução reconstituída deve ser utilizada imediatamente. – Antes da administração, o preparado deve ser aquecido à temperatura ambiente. – Qualquer solução não consumida deve ser convenientemente eliminada. – Para a injecção só podem ser utilizadas seringas de polipropileno.
+ Preparação de uma solução de Refludan com uma concentração de 5 mg/ml Para injecção intravenosa de um bólus é necessária uma solução com uma concentração de 5 mg/ml: – Reconstituir o conteúdo de um frasco para injectáveis (50 mg de lepirudina) com 1 ml de água para preparações injectáveis ou solução de cloreto de sódio 9 mg/ml (0,9%). – Para obter a concentração final de 5 mg/ml, transferir a solução para uma seringa estéril e descartável (com uma capacidade mínima de 5 ml) e diluir subsequentemente para um volume total de 10 ml, utilizando solução de cloreto de sódio 9 mg/ml (0,9%) ou glicose a 5%. – A solução final deve ser administrada de acordo com o peso corporal.
+ Preparação de uma solução de Refludan com uma concentração de 2 mg/ml Para uma perfusão intravenosa contínua, é necessário uma solução com uma concentração de 2 mg/ml: – Reconstituir o conteúdo de dois frascos para injectáveis (cada um contém 50 mg de lepirudina), respectivamente de 1 ml, utilizando água para preparações injectáveis ou solução de cloreto de sódio 9 mg/ml (0,9%). – Para obter uma concentração final de 2 mg/ml, transferir as duas soluções para uma seringa de perfusão estéril e descartável (capacidade de 50 ml) e diluir para um volume total de 50 ml, utilizando solução de cloreto de sódio 9 mg/ml (0,9%) ou glicose a 5%. – A velocidade de perfusão da bomba perfusora deve ser ajustada de acordo com o peso corporal. – A seringa de perfusão deve ser substituída, o mais tardar, a intervalos de 12 horas após o início da perfusão.
+ 44

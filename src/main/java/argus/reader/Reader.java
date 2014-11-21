@@ -1,5 +1,6 @@
 package argus.reader;
 
+import com.google.common.collect.ImmutableSet;
 import it.unimi.dsi.lang.MutableString;
 
 import java.io.IOException;
@@ -17,5 +18,5 @@ public interface Reader {
 
     MutableString readDocumentContents(InputStream documentStream) throws IOException;
 
-    String getSupportedExtension();
+    ImmutableSet<String> getSupportedExtensions();
 }

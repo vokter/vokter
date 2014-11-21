@@ -1,0 +1,797 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. NOME DO MEDICAMENTO
+ AVONEX 30 microgramas pó e solvente para solução injectável
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada frasco para injectáveis BIO-SET contém 30 microgramas (6 milhões de UI) de Interferão beta-1a.
+ Após reconstituição com o solvente (água para preparações injectáveis), o frasco para injectáveis contém 1,0 ml de solução. A concentração é de 30 microgramas por ml.
+ Utilizando o padrão da Organização Mundial de Saúde (OMS) para o interferão,30 microgramas de AVONEX contêm 6 milhões de UI de actividade antiviral. Desconhece-se a actividade desta substância em relação a outros padrões.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Pó e solvente para solução injectável. O frasco para injectáveis contém um pó branco a branco sujo.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas AVONEX está indicado no tratamento de • Doentes diagnosticados com esclerose múltipla (EM) surto-remissão. Em ensaios clínicos, esta foi caracterizada por duas ou mais exacerbações agudas (surtos) nos três anos anteriores sem evidência de progressão contínua entre as mesmas; AVONEX retarda a progressão da incapacidade e reduz a frequência de surtos.
+ • Doentes com um acontecimento desmielinizante único associado a um processo inflamatório, se suficientemente grave para justificar o tratamento com corticosteróides intravenosos, se tiverem sido excluidos diagnósticos alternativos e no caso de os doentes apresentarem um elevado risco de desenvolver esclerose múltipla clinicamente definitiva (ver secção 5.1).
+ A administração de AVONEX deve ser interrompida em doentes que desenvolvam EM progressiva.
+ 4.2 Posologia e modo de administração O tratamento deve ser iniciado sob a vigilância de um médico com experiência no tratamento da doença.
+ Adultos: A posologia recomendada para o tratamento da EM surto-remissão é de 30 microgramas (1 ml de solução) administrados por injecção intramuscular (IM) uma vez por semana (ver secção 6.6). Não foi demonstrado qualquer benefício adicional quando se administra uma dose mais elevada (60 microgramas) uma vez por semana.
+ 2 Crianças e adolescentes: Não foram realizados ensaios clínicos ou estudos farmacocinéticos formais em crianças ou adolescentes. Contudo, os poucos dados publicados sugerem que o perfil de segurança em adolescentes dos 12 aos 16 anos de idade a tomar Avonex 30 microgramas IM uma vez por semana é semelhante ao observado nos adultos. Não existem informações sobre a utilização de AVONEX em crianças com menos de 12 anos de idade, pelo que AVONEX não deve ser utilizado nesta população.
+ Idosos: Os estudos clínicos não incluíram um número suficiente de doentes com idade igual ou superior a 65 anos para determinar se a sua resposta ao tratamento é diferente da verificada em doentes mais jovens. Contudo, com base no modo de eliminação da substância activa, não existem razões teóricas que justifiquem a necessidade de ajuste de dose nos idosos.
+ O local de injecção intramuscular deve ser alterado semanalmente (ver secção 5.3).
+ Os médicos poderão prescrever uma agulha de 25 mm, calibre 25 a doentes para os quais este é o tipo de agulha mais adequado à administração de uma injecção intramuscular.
+ Antes da injecção e durante as 24 horas que se seguem a cada injecção, aconselha-se a administração de um analgésico antipirético para reduzir os sintomas de tipo gripal associados à administração de AVONEX. Estes sintomas estão geralmente presentes durante os primeiros escassos meses de tratamento.
+ Desconhece-se, presentemente, qual deverá ser a duração do tratamento. Os doentes devem ser submetidos a uma avaliação clínica após dois anos de tratamento; o tratamento a mais longo prazo deve ser decidido pelo médico assistente em função da especificidade de cada caso. O tratamento deve ser interrompido se o doente desenvolver EM progressiva e crónica.
+ 4.3 Contra-indicações -Iniciação do tratamento na gravidez (ver secção 4.6)
+ -Doentes com história de hipersensibilidade ao interferão ß natural ou recombinante, a albumina
+ humana ou a quaisquer excipientes
+ -Doentes com depressão grave e/ou ideação suicida (ver secções 4.4 e 4.8).
+ 4.4 Advertências e precauções especiais de utilização
+ O AVONEX deve ser administrado com precaução em doentes com patologias depressivas anteriores ou actuais, em particular naqueles com antecedentes de ideação suicida (ver secção 4.3). Sabe-se que a depressão e ideação suicida ocorrem com maior frequência na população com esclerose múltipla e em associação com a utilização de interferão. Os doentes devem ser aconselhados a comunicar imediatamente ao seu médico prescritor quaisquer sintomas de depressão e/ou de ideação suicida.
+ Os doentes que apresentem depressão devem ser atentamente monitorizados durante a terapêutica e tratados de forma apropriada. Deve considerar-se a suspensão da terapêutica com AVONEX (ver também as secções 4.3 e 4.8).
+ O AVONEX deve ser administrado com precaução a doentes com história de convulsões, aos que estão a ser tratados com anti-epilépticos, particularmente se a sua epilepsia não estiver devidamente controlada com anti-epilépticos (ver secções 4.5 e 4.8).
+ Recomenda-se precaução e cuidadosa monitorização ao administrar AVONEX a doentes com insuficiência renal e hepática graves e a doentes com mielossupressão grave.
+ Foram referidas lesões hepáticas, incluindo níveis séricos elevados de enzimas hepáticas, hepatite, hepatite autoimune e falência hepática, associadas ao interferão beta, pós comercialização (ver secção 4.8). Nalguns casos, estas reacções ocorreram na presença de outros medicamentos que têm sido associados a lesões hepáticas. Não foi determinado o potencial de desencadear efeitos aditivos pela
+ 3 utilização de vários medicamentos ou de outros agentes hepatotóxicos (como, por exemplo, o álcool). Os doentes deverão ser monitorizados relativamente a sinais de lesões hepáticas e devem ser tomadas precauções quando da utilização concomitante com outros medicamentos associados a lesões hepáticas.
+ Os doentes com patologia cardíaca, nomeadamente angina de peito, insuficiência cardíaca congestiva ou arritmia devem ser cuidadosamente monitorizados para despiste de qualquer agravamento do seu estado clínico durante o tratamento com AVONEX. Os sintomas de tipo gripal associados à terapêutica com AVONEX podem ser factores de stress em doentes com patologias cardíacas subjacentes.
+ A utilização de interferões está associada à ocorrência de alterações laboratoriais. Assim, durante a terapêutica com AVONEX, para além dos exames laboratoriais habitualmente requeridos para monitorização dos doentes com EM, recomenda-se proceder a contagens totais e diferenciais de leucócitos, contagens de plaquetas e a análises de bioquímica sanguínea, incluindo testes de função hepática. Os doentes com mielossupressão poderão requerer uma monitorização mais rigorosa dos hemogramas completos com contagens diferenciais e plaquetárias.
+ Os doentes podem desenvolver anticorpos contra AVONEX. Os anticorpos de alguns destes doentes reduzem a actividade do interferão beta-1a in vitro (anticorpos neutralizantes). Os anticorpos neutralizantes estão associados a uma redução dos efeitos biológicos de AVONEX in vivo e podem, potencialmente, estar associados a uma diminuição da eficácia clínica. Estima-se que o planalto da incidência de formação de anticorpos neutralizantes seja atingido após 12 meses de tratamento. Os dados obtidos em doentes tratados até 2 anos com AVONEX sugerem que cerca de 8% desenvolvem anticorpos neutralizantes.
+ A utilização de várias análises para detecção de anticorpos séricos aos interferões limita a capacidade de comparar a antigenicidade entre os diferentes produtos.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Não foram realizados estudos formais de interacção no ser humano.
+ A interacção de AVONEX com corticosteróides ou hormona adrenocorticotrópica (ACTH) não foi objecto de um estudo sistemático. Os estudos clínicos indicam que os doentes com EM podem ser tratados com AVONEX e corticosteróides ou ACTH durante os surtos.
+ Tem sido referido que os interferões reduzem a actividade das enzimas hepáticas dependentes do citocromo P450 no ser humano e nos animais. Avaliou-se o efeito da administração de uma dose elevada de AVONEX sobre o metabolismo dependente de P450, no macaco, não se observando alterações na capacidade de metabolização hepática. Recomenda-se precaução quando AVONEX é administrado em combinação com medicamentos que apresentam um índice terapêutico estreito e são muito dependentes do sistema do citocromo P450 hepático para a depuração, como por exemplo, antiepilépticos e algumas classes de antidepressivos.
+ 4.6 Gravidez e aleitamento Gravidez As informações sobre a utilização de AVONEX durante a gravidez são limitadas. Os dados disponíveis indicam que pode haver um risco aumentado de aborto espontâneo. A iniciação da terapêutica está contra-indicada durante a gravidez (ver secção 4.3).
+ Mulheres em idade fértil As mulheres em idade fértil devem tomar as medidas contraceptivas adequadas. Se a doente engravidar ou se planeia engravidar enquanto está a tomar AVONEX, deve ser informada dos
+ 4 potenciais riscos, devendo colocar-se a hipótese da interrupção da terapêutica (ver secção 5.3). Em doentes com uma taxa elevada de surtos antes de iniciar a terapêutica, o risco de um surto grave na sequência da interrupção do AVONEX no caso de uma gravidez deve ser ponderado contra um possível aumento do risco de aborto espontâneo.
+ Aleitamento Desconhece-se se AVONEX é excretado no leite humano. Dado o potencial para reacções adversas graves em lactentes, deve optar-se entre suspender a amamentação ou a terapêutica com AVONEX.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram realizados estudos relativos aos efeitos de AVONEX sobre a capacidade de conduzir e utilizar máquinas. As reacções adversas relacionadas com o sistema nervoso central podem influenciar de forma reduzida a capacidade de conduzir e utilizar máquinas em doentes susceptíveis (ver secção 4.8).
+ 4.8 Efeitos indesejáveis A incidência mais elevada de reacções adversas associadas à terapêutica com AVONEX está relacionada com os sintomas do tipo gripal. Os sintomas de tipo gripal mais vulgarmente referidos são a mialgia, a febre, os arrepios, a sudação, a astenia, as cefaleias e as náuseas. Os sintomas de tipo gripal tendem a ser mais evidentes no início da terapêutica e diminuem de frequência com a continuação do tratamento.
+ Na sequência das injecções, podem ocorrer sintomas neurológicos transitórios que reproduzem exacerbações da esclerose múltipla. Podem ocorrer, em qualquer momento do tratamento, episódios transitórios de hipertonia e/ou fraqueza muscular acentuada que impedem os movimentos voluntários. Estes episódios são de duração limitada, estando temporariamente relacionados com as injecções e podem ocorrer após injecções subsequentes. Em alguns casos, estes sintomas estão associados a sintomas do tipo gripal.
+ A frequência das reacções adversas é expressa em doentes-ano-, de acordo com as seguintes categorias:
+ Muito frequentes (≥1/10 doentes-ano); Frequentes (≥1/100, &lt; 1/10 doentes-ano); Pouco frequentes (≥1/1.000, &lt; 1/100 doentes-ano); Raros (≥1/10.000, &lt; 1/1.000 doentes-ano); Muito raros (&lt; 1/10.000 doentes-ano); Desconhecido (não pode ser calculado a partir dos dados disponíveis).
+ Doente-tempo-é a soma das unidades de tempo individuais nas quais o doente incluído no estudo foi exposto ao AVONEX antes de sentir a reacção adversa. Por exemplo,100 pessoas-ano podem ser observados em 100 doentes em tratamento durante um ano ou em 200 doentes em tratamento durante meio ano.
+ Na tabela seguinte estão indicadas reacções adversas identificadas de estudos (ensaios clínicos e estudos observacionais, com um período de acompanhamento que pode variar entre dois e seis anos) e outras reacções adversas identificadas através de notificações espontâneas do mercado, com frequência desconhecida.
+ Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ 5 Exames complementares de diagnóstico
+ contagem de linfócitos diminuída, frequentes contagem de leucócitos diminuída, contagem de neutrófilos diminuída, hematócrito diminuído, potássio sanguíneo aumentado, azotémia aumentada
+ pouco frequentes
+ contagem de plaquetas diminuída
+ desconhecido
+ diminuição de peso, aumento de peso, alteração nos testes de função hepática
+ Cardiopatias cardiomiopatia, insuficiência cardíaca desconhecido congestiva (ver secção 4.4), palpitações, arritmia, taquicardia
+ Doenças do sangue e do sistema linfático pancitopenia, trombocitopenia desconhecido
+ Doenças do sistema nervoso cefaleias2 muito frequentes
+ espasticidade muscular, hipoestesia frequentes
+ sintomas neurológicos, síncope3, desconhecido hipertonia, tonturas, parestesia, convulsões, enxaqueca
+ Doenças respiratórias, torácicas e do mediastino
+ rinorreia frequentes
+ dispneia raros
+ Doenças gastrointestinais vómitos, diarreia, náuseas2 frequentes
+ Afecções dos tecidos cutâneos e subcutâneas
+ Erupção cutânea, aumento da sudação, frequentes contusão
+ pouco frequentes
+ alopecia
+ desconhecido
+ edema angioneurótico, prurido, erupção cutânea vesicular, urticária, agravamento de psoríase
+ 6 Afecções musculoesqueléticas e dos tecidos conjuntivos
+ cãibras musculares, dor no pescoço, frequentes mialgia2, artralgia, dor nas extremidades, lombalgia, rigidez muscular, rigidez musculoesquelética
+ desconhecido
+ lupus eritematoso sistémico, fraqueza muscular, artrite
+ Doenças endócrinas hipotiroidismo, hipertiroidismo desconhecido
+ Doenças do metabolismo e da nutrição anorexia frequentes
+ Infecções e infestações abcesso no local da injecção1 desconhecido
+ Vasculopatias rubor frequentes
+ vasodilatação desconhecido
+ Perturbações gerais e alterações no local de administração
+ sintomas gripais, pirexia2, arrepios 2, muito frequentes sudação2
+ dor no local de injecção, eritema no frequentes local de injecção, hematoma no local de injecção, astenia, dor, fadiga2, mal-estar, suores nocturnos
+ pouco frequentes
+ ardor no local de injecção
+ desconhecido
+ reacção no local de injecção, inflamação no local de injecção, celulite no local de injecção1, necrose no local da injecção, hemorragia no local da injecção, dor no peito
+ 7 Doenças do sistema imunitário
+ reacção anafiláctica, choque desconhecido anafiláctico, reacções de hipersensibilidade (angioedema, dispneia, urticária, erupção cutânea, erupção cutânea associada a prurido)
+ Afecções hepatobiliares falência hepática (ver secção 4.4), desconhecido hepatite, hepatite autoimune
+ Doenças dos órgãos genitais e da mama metrorragia, menorragia pouco frequentes
+ Perturbações do foro psiquiátrico depressão (ver secção 4.4), insónia frequentes
+ suicídio, psicose, ansiedade, confusão, desconhecido instabilidade emocional
+ 1 Foram referidas reacções no local da injecção, incluindo dor, inflamação e casos muito raros de abcessos ou celulite que podem requerer intervenção cirúrgica. 2 A frequência de ocorrência é mais elevada no início do tratamento. 3 Poderá ocorrer um episódio de síncope após a injecção de AVONEX; é, normalmente, um episódio único que geralmente aparece no início do tratamento e não se repete com as injecções subsequentes.
+ 4.9 Sobredosagem Não foram descritos casos de sobredosagem. Todavia, em caso de sobredosagem, os doentes devem ser hospitalizados para observação, devendo ser instituído um tratamento de suporte apropriado.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Interferões, código ATC: L03 AB07.
+ Os interferões são uma família de proteínas presentes na natureza, os quais são produzidos por células eucarióticas em resposta a uma infecção viral e a outros indutores biológicos. Os interferões são citoquinas que medeiam actividades antivirais, antiproliferativas e imunomoduladoras. Distinguem-se três formas principais de interferões: alfa, beta e gama. Os interferões alfa e beta são classificados como interferões de Tipo I enquanto que o interferão gama é um interferão de Tipo II. Estes interferões possuem actividades biológicas sobreponíveis mas claramente diferenciáveis. Estes podem também diferir em relação aos seus locais de síntese celular.
+ O interferão beta é produzido por vários tipos de células, incluindo fibroblastos e macrófagos. O interferão beta natural e AVONEX (interferão beta-1a) são glicosilados e possuem um componente 8 carbohidratado complexo com uma ligação N única. Sabe-se que a glicosilação de outras proteínas afecta a sua estabilidade, actividade, biodistribuição e semi-vida no sangue. Os efeitos do interferão beta que são dependentes da glicosilação não se encontram, no entanto, completamente definidos.
+ AVONEX exerce os seus efeitos biológicos ligando-se a receptores específicos na superfície das células humanas. Esta ligação inicia uma cascata complexa de fenómenos intracelulares que conduzem à expressão de numerosos produtos genéticos e marcadores induzidos pelo interferão. Nestes incluem-se a Classe I do CMH (Complexo Maior de Histocompatibilidade), proteína Mx,2 ’/5 ’-oligoadenilato sintetase, β2-microglobulina e neopterina. Alguns destes produtos foram determinados no soro e em fracções celulares de sangue colhido em doentes tratados com AVONEX. Após uma dose intramuscular única de AVONEX, os níveis séricos destes produtos permanecem elevados durante um período mínimo de quatro dias e máximo de uma semana.
+ Desconhece-se se o mecanismo de acção de AVONEX na EM é mediado pela mesma via dos efeitos biológicos atrás descritos, uma vez que a fisiopatologia da EM não se encontra bem estabelecida.
+ Os efeitos de AVONEX no tratamento da EM foram demonstrados num estudo controlado com placebo de 301 doentes (AVONEX n=158, placebo n=143) com esclerose múltipla por surtos, caracterizada, pelo menos, por duas exarcebações nos últimos três anos ou pelo menos uma exarcebação por ano, antes da randomização, quando a duração da doença for inferior a 3 anos. Os doentes com uma EDSS entre 1.0 e 3.5 foram randomizados e incluídos no ensaio clínico. Devido ao desenho do estudo os doentes foram seguidos durante períodos de tempo variáveis. 150 doentes tratados com AVONEX completaram 1 ano de estudo e 85 completaram dois anos de estudo. Neste estudo, as percentagens cumulativas de doentes que desenvolveram progressão da incapacidade (pela análise da tabela de vida de Kaplan-Meier) no final dos dois anos foram de 35% nos doentes tratados com placebo e de 22% nos doentes tratados com AVONEX. A progressão da incapacidade correspondia a um aumento de 1,0 ponto na Expanded Disability Status Scale (EDSS), mantido durante um período mínimo de seis meses. Foi igualmente demonstrada uma redução correspondente a um terço da taxa anual de surtos. Este último efeito clínico foi observado após um tratamento superior a um ano.
+ Um estudo comparativo, com distribuição aleatória, dupla ocultação, realizado em 802 doentes com esclerose múltipla surto-remissão (AVONEX 30 microgramas n=402, AVONEX 60 microgramas n=400) não revelou diferenças estatisticamente significativas ou tendências entre as doses de 30 microgramas e de 60 microgramas de AVONEX em parâmetros de RMN clínicos e gerais.
+ Os efeitos do tratamento da EM com AVONEX foram também demonstrados num estudo aleatorizado, em dupla ocultação realizado em 383 doentes (AVONEX n=193, placebo n=190) diagnosticados com um acontecimento desmielinizante único associado com pelo menos duas lesões cerebrais compatíveis com parâmetros de RMN. Foi evidenciada uma redução no risco de ocorrência de um segundo acontecimento no grupo que recebeu AVONEX. Observou-se também um efeito sobre os parâmetros de RMN. O risco estimado de ocorrência de um segundo acontecimento foi de 50% ao fim de três anos e 39% ao fim de dois anos no grupo placebo, comparativamente com 35% (três anos) e 21% (dois anos) no grupo que recebeu AVONEX. Numa avaliação post-hoc, os doentes cujos parâmetros de RMN de base incluíam pelo menos uma lesão evidenciada por Gd e nove lesões T2 estavam em risco de sofrer um segundo acontecimento, ao fim de dois anos, de 56% no grupo placebo e 21% no grupo de tratamento que recebeu AVONEX. Contudo, o impacto do tratamento precoce com AVONEX é desconhecido, mesmo neste subgrupo de risco elevado, uma vez que o desenho do estudo teve como principal objectivo avaliar o tempo ocorrido até ao segundo acontecimento e não a evolução da doença a longo prazo. Além disso, não existe, actualmente, uma definição bem estabelecida de doentes de risco elevado, apesar de uma classificação mais conservadora incluir naquela definição doentes com pelo menos nove lesões T2 hiperintensas na imagiologia inicial e pelo menos uma lesão T2 nova ou lesões novas evidenciadas por Gd em imagiologia de seguimento aos três meses após os resultados de imagiologia inicial. Em qualquer caso o tratamento deverá apenas ser considerado nos doentes classificados como de risco elevado.
+ 9 5.2 Propriedades farmacocinéticas
+ O perfil farmacocinético de AVONEX foi investigado indirectamente mediante um doseamento que avalia a actividade antiviral do interferão. Este doseamento é limitado na medida em que é sensível para o interferão mas carece de especificidade para o interferão beta. As técnicas de doseamento alternativas não são suficientemente sensíveis.
+ Na sequência da administração de AVONEX por via intramuscular, os picos dos níveis séricos de actividade antiviral são atingidos no período compreendido entre 5 e 15 horas após a administração, diminuindo com uma semi-vida de aproximadamente 10 horas. Introduzindo um ajuste adequado para a taxa de absorção a partir do local de injecção, calcula-se que a biodisponibilidade é de aproximadamente 40%. A biodisponibilidade calculada é mais elevada sem estes ajustes. A biodisponibilidade intramuscular é três vezes superior à biodisponibilidade subcutânea. A administração subcutânea não pode substituir a administração intramuscular.
+ 5.3 Dados de segurança pré-clínica Carcinogénese: Não existem dados disponíveis sobre a carcinogenicidade do interferão beta-1a em animais ou no ser humano.
+ Toxicidade crónica: Num estudo de toxicidade de doses repetidas com a duração de 26 semanas realizado em macacos rhesus, em que o fármaco foi administrado por via intramuscular uma vez por semana em combinação com outro agente imunomodulador, um anticorpo monoclonal ligando anti CD40, não foram demonstradas respostas imunitárias ao interferão beta-1a, nem sinais de toxicidade.
+ Tolerância local: Não se avaliou a irritação intramuscular em animais após administração repetida no mesmo local de injecção.
+ Mutagénese: Foram realizados testes mutagénicos limitados mas relevantes. Os resultados foram negativos.
+ Redução da fertilidade: Os estudos de fertilidade e de desenvolvimento no macaco rhesus foram efectuados com uma forma relacionada de Interferão beta-1a. Com doses muito elevadas observaram-se efeitos anovulatórios e abortivos em animais de experimentação. Foram também observados efeitos semelhantes sobre a reprodução, relacionados com a dose, com outras formas de interferões alfa e beta. Não se observaram efeitos teratogénicos ou efeitos sobre o desenvolvimento fetal mas as informações disponíveis sobre os efeitos de interferão beta-1a nos períodos peri-e pós-natal são limitadas.
+ Não se dispõe de informação sobre os efeitos do Interferão beta-1a na fertilidade masculina.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1. Lista dos excipientes Albumina sérica humana, Fosfato de sódio dibásico, Fosfato de sódio monobásico, Cloreto de sódio.
+ 6.2 Incompatibilidades Não aplicável. 10 6.3 Prazo de validade
+ 2 anos. AVONEX deve ser administrado logo que possível após reconstituição. Contudo, a solução reconstituída pode ser conservada a uma temperatura entre 2 ºC e 8 ºC por um máximo de seis horas antes da injecção.
+ 6.4 Precauções especiais de conservação
+ Conservar a temperatura inferior a 25 °C.
+ NÃO CONGELAR o pó ou o produto reconstituído
+ Condições de conservação do medicamento reconstituído, ver secção 6.3.
+ 6.5 Natureza e conteúdo do recipiente AVONEX apresenta-se numa embalagem de quatro doses individuais. Cada dose é fornecida num frasco para injectáveis de vidro incolor de 3 ml com um dispositivo BIO-SET e uma rolha de borracha de bromobutilo de 13 mm. É fornecido com 1 ml de solvente para reconstituição (água para preparações injectáveis) numa seringa de vidro pré-cheia e uma agulha.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ Utilize a seringa fornecida pré-cheia contendo solvente para reconstituição de AVONEX injectável. Não utilize qualquer outro solvente. Injecte o conteúdo da seringa no frasco para injectáveis de AVONEX ligando a seringa pré-cheia ao dispositivo BIO-SET. Rode suavemente o conteúdo do frasco para injectáveis até dissolução de todos os materiais; NÃO AGITAR. Inspeccione o produto reconstituído: se apresentar partículas em suspensão ou alteração da cor (a solução deve ser incolor ou ligeiramente amarelada), o frasco para injectáveis não pode ser utilizado. Após reconstituição, extraia todo o líquido (1 ml) do frasco para injectáveis novamente para dentro da seringa para a administração de AVONEX 30 microgramas. É fornecida a agulha para injecção intramuscular. A formulação não contém conservantes. Cada frasco para injectáveis de AVONEX contém apenas uma dose. Rejeite a porção não utilizada do conteúdo de qualquer frasco para injectáveis.
+ Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ BIOGEN IDEC LIMITED Innovation House 70 Norden Road Maidenhead Berkshire SL6 4AY Reino Unido
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/97/033/002 11 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 13 Março 1997 Data da última renovação: 13 Março 2007
+ 10. DATA DA REVISÃO DO TEXTO { MM/AAAA}
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu/.
+ 12 1. NOME DO MEDICAMENTO
+ AVONEX 30 microgramas/0,5 ml Solução injectável.
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada seringa pré-cheia de 0,5 ml contém 30 microgramas (6 milhões de UI) de interferão beta-1a.
+ A concentração é de 30 microgramas por 0,5 ml.
+ Utilizando o padrão da Organização Mundial de Saúde (OMS) para o interferão,30 microgramas de AVONEX contêm 6 milhões de UI de actividade antiviral. Desconhece-se a actividade desta substância em relação a outros padrões.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Solução injectável. Solução límpida e incolor. 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas AVONEX está indicado no tratamento de • Doentes diagnosticados com esclerose múltipla (EM) surto-remissão. Em ensaios clínicos, esta foi caracterizada por duas ou mais exacerbações agudas (surtos) nos três anos anteriores sem evidência de progressão contínua entre as recidivas; AVONEX retarda a progressão da incapacidade e reduz a frequência de surtos.
+ • Doentes com um acontecimento desmielinizante único associado a um processo inflamatório, se suficientemente grave para justificar o tratamento com corticosteróides intravenosos, se tiverem sido excluidos diagnósticos alternativos e no caso de os doentes apresentarem um elevado risco de desenvolver esclerose múltipla clinicamente definitiva (ver secção 5.1).
+ A administração de AVONEX deve ser interrompida em doentes que desenvolvam EM progressiva.
+ 4.2 Posologia e modo de administração O tratamento deve ser iniciado sob a vigilância de um médico com experiência no tratamento da doença.
+ Adultos: A posologia recomendada para o tratamento de EM surto-remissão é de 30 microgramas, (0,5 ml de solução) administrados por injecção intramuscular (IM) uma vez por semana (ver secção 6.6).
+ No início do tratamento, os doentes podem começar com uma dose total de 30 microgramas (0,5 ml de solução) ou em aproximadamente metade da dose, uma vez por semana, para ajudá-los a ajustarem-se ao tratamento e daí em diante aumentar para a dose total de 30 microgramas (0,5 ml de solução). Para 13 obter uma eficácia adequada, deve ser atingida e mantida uma dose de 30 microgramas (0,5 ml de solução) uma vez por semana após a titulação inicial. Está disponível um dispositivo manual de titulação para permitir a passagem de aproximadamente metade da dose para doentes a começarem o tratamento com AVONEX.
+ Não foi demonstrado qualquer benefício adicional quando se administra uma dose mais elevada (60 microgramas) uma vez por semana.
+ Crianças e adolescentes: Não foram realizados ensaios clínicos ou estudos farmacocinéticos formais em crianças ou adolescentes. Contudo, os poucos dados publicados sugerem que o perfil de segurança em adolescentes dos 12 aos 16 anos de idade a tomar Avonex 30 microgramas IM uma vez por semana é semelhante ao observado nos adultos. Não existem informações sobre a utilização de AVONEX em crianças com menos de 12 anos de idade, pelo que AVONEX não deve ser utilizado nesta população.
+ Idosos: Os estudos clínicos não incluíram um número suficiente de doentes com idade igual ou superior a 65 anos para permitir determinar se a sua resposta ao tratamento é diferente da verificada em doentes mais jovens. Contudo, com base no modo de eliminação da substância activa, não existem razões teóricas que justifiquem a necessidade de ajuste de dose nos idosos.
+ O local de injecção intramuscular deve ser alterado semanalmente (ver secção 5.3).
+ Os médicos poderão prescrever uma agulha de 25 mm, calibre 25 a doentes para os quais este é o tipo de agulha mais adequado à administração de uma injecção intramuscular.
+ Antes da injecção e durante as 24 horas que se seguem a cada injecção, aconselha-se a administração de um analgésico antipirético para reduzir os sintomas de tipo gripal associados à administração de AVONEX. Estes sintomas estão geralmente presentes durante os primeiros escassos meses de tratamento.
+ Desconhece-se, presentemente, qual deverá ser a duração do tratamento. Os doentes devem ser submetidos a uma avaliação clínica após dois anos de tratamento; o tratamento a mais longo prazo deve ser decidido pelo médico assistente em função da especificidade de cada caso. O tratamento deve ser interrompido se o doente desenvolver EM progressiva e crónica.
+ 4.3 Contra-indicações -Iniciação do tratamento na gravidez (ver secção 4.6)
+ -Doentes com história de hipersensibilidade ao interferão ß natural ou recombinante ou a
+ quaisquer excipientes
+ -Doentes com depressão grave e/ou ideação suicida (ver secções 4.4 e 4.8).
+ 4.4 Advertências e precauções especiais de utilização
+ O AVONEX deve ser administrado com precaução em doentes com patologias depressivas anteriores ou actuais, em particular naqueles com antecedentes de ideação suicida (ver secção 4.3). Sabe-se que a depressão e ideação suicida ocorrem com maior frequência na população com esclerose múltipla e em associação com a utilização de interferão. Os doentes devem ser aconselhados a comunicar imediatamente ao seu médico prescritor quaisquer sintomas de depressão e/ou de ideação suicida.
+ Os doentes que apresentem depressão devem ser atentamente monitorizados durante a terapêutica e tratados de forma apropriada. Deve considerar-se a suspensão da terapêutica com AVONEX (ver também as Secções 4.3 e 4.8).
+ O AVONEX deve ser administrado com precaução a doentes com história de convulsões, aos que estão a ser tratados com anti-epilépticos, particularmente se a sua epilepsia não estiver devidamente controlada com anti-epilépticos (ver secções 4.5 e 4.8).
+ 14 Recomenda-se precaução e cuidadosa monitorização ao administrar AVONEX a doentes com insuficiência renal e hepática graves e a doentes com mielossupressão grave.
+ Foram referidas lesões hepáticas, incluindo níveis séricos elevados de enzimas hepáticas, hepatite, hepatite autoimune e falência hepática, associadas ao interferão beta, pós comercialização (ver secção 4.8). Nalguns casos, estes episódios ocorreram na presença de medicamentos que têm sido associados a lesões hepáticas Não foi determinado o potencial para desencadear efeitos aditivos pela utilização de vários medicamentos ou de outros agentes hepatotóxicos (como, por exemplo, o álcool). Os doentes deverão ser monitorizados relativamente a sinais de lesões hepáticas e devem ser tomadas precauções quando da utilização concomitante com outros medicamentos associados a lesões hepáticas.
+ Os doentes com patologia cardíaca, nomeadamente angina de peito, insuficiência cardíaca congestiva ou arritmias devem ser cuidadosamente monitorizados para despiste de qualquer agravamento do seu estado clínico durante o tratamento com AVONEX. Os sintomas de tipo gripal associados à terapêutica com AVONEX podem ser factores de stress em doentes com patologias cardíacas subjacentes.
+ A utilização de interferões está associada à ocorrência de alterações laboratoriais. Assim, durante a terapêutica com AVONEX, para além dos exames laboratoriais habitualmente requeridos para monitorização dos doentes com EM, recomenda-se proceder a contagens totais e diferenciais de leucócitos, contagens de plaquetas e a análises de bioquímica sanguínea, incluindo testes de função hepática. Os doentes com mielodssupressão poderão requerer uma monitorização mais rigorosa dos hemogramas completos com contagens diferenciais e plaquetárias.
+ Os doentes podem desenvolver anticorpos contra AVONEX. Os anticorpos de alguns destes doentes reduzem a actividade do interferão beta-1a in vitro (anticorpos neutralizantes). Os anticorpos neutralizantes estão associados a uma redução dos efeitos biológicos de AVONEX in vivo e podem, potencialmente, estar associados a uma diminuição da eficácia clínica. Estima-se que o planalto da incidência de formação de anticorpos neutralizantes seja atingido após 12 meses de tratamento. Estudos clínicos recentes em doentes tratados até três anos com AVONEX sugerem que aproximadamente 5% a 8% desenvolvem anticorpos neutralizantes.
+ A utilização de várias análises para detecção de anticorpos séricos aos interferões limita a capacidade de comparar a antigenicidade entre os diferentes produtos.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Não foram realizados estudos formais de interacção no ser humano.
+ A interacção de AVONEX com corticosteróides ou hormona adrenocorticotrópica (ACTH) não foi objecto de um estudo sistemático. Os estudos clínicos indicam que os doentes com EM podem ser tratados com AVONEX e corticosteróides ou ACTH durante os surtos.
+ Tem sido referido que os interferões reduzem a actividade das enzimas hepáticas dependentes do citocromo P450, no ser humano e nos animais. Avaliou-se o efeito da administração de uma dose elevada de AVONEX sobre o metabolismo dependente de P450, no macaco, não se observando alterações na capacidade de metabolização hepática. Recomenda-se precaução quando AVONEX é administrado em combinação com medicamentos que apresentam um índice terapêutico estreito e são muito dependentes do sistema do citocrómo P450 hepático para a depuração, como por exemplo, antiepilépticos e algumas classes de antidepressivos.
+ 15 4.6 Gravidez e aleitamento
+ Gravidez As informações sobre a utilização de AVONEX durante a gravidez são limitadas. Os dados disponíveis indicam que pode haver um risco aumentado de aborto espontâneo. A iniciação da terapêutica está contra-indicada durante a gravidez (ver secção 4.3).
+ Mulheres em idade fértil As mulheres em idade fértil devem tomar as medidas contraceptivas adequadas. Se a doente engravidar ou se planeia engravidar enquanto está a tomar AVONEX, deve ser informada dos potenciais riscos, devendo colocar-se a hipótese da interrupção da terapêutica (ver secção 5.3). Em doentes com uma taxa elevada de surtos antes de iniciar a terapêutica, o risco de um surto grave na sequência da interrupção do AVONEX no caso de uma gravidez deve ser ponderado contra um possível aumento do risco de aborto espontâneo.
+ Aleitamento Desconhece-se se AVONEX é excretado no leite humano. Dado o potencial para reacções adversas graves em lactentes, deve optar-se entre suspender a amamentação ou a terapêutica com AVONEX.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram realizados estudos relativos aos efeitos de AVONEX sobre a capacidade de conduzir e utilizar máquinas. As reacções adversas relacionadas com o sistema nervoso central podem influenciar de forma reduzida a capacidade de conduzir e utilizar máquinas em doentes susceptíveis (ver secção 4.8).
+ 4.8 Efeitos indesejáveis A incidência mais elevada de reacções adversas associadas à terapêutica com AVONEX está relacionada com sintomas de tipo gripal. Os sintomas de tipo gripal mais vulgarmente referidos são a mialgia, a febre, os arrepios, a sudação, a astenia, as cefaleias e as náuseas. Os sintomas de tipo gripal tendem a ser mais evidentes no início da terapêutica e diminuem de frequência com a continuação do tratamento.
+ Na sequência das injecções, podem ocorrer sintomas neurológicos transitórios que reproduzem exacerbações da esclerose múltipla. Podem ocorrer, em qualquer momento do tratamento, episódios transitórios de hipertonia e/ou fraqueza muscular acentuada que impedem os movimentos voluntários. Estes episódios são de duração limitada, estando temporariamente relacionados com as injecções e podem ocorrer após injecções subsequentes. Em alguns casos, estes sintomas estão associados a sintomas do tipo gripal.
+ A frequência das reacções adversas é expressa em doentes-ano, de acordo com as seguintes categorias:
+ Muito frequentes (≥1/10 doentes-ano); Frequentes (≥1/100, &lt; 1/10 doente-ano); Pouco frequentes (≥1/1000, &lt; 1/100 doente-ano); Raros (≥1/10.000, &lt; 1/1000 doente-ano); Muito raros (&lt; 1/10.000 doente-ano); Desconhecido (não pode ser calculado a partir dos dados disponíveis).
+ Doente-tempo-é a soma das unidades de tempo individuais nas quais o doente incluído no estudo foi exposto ao AVONEX antes de sentir a reacção adversa. Por exemplo,100 anos-pessoa podem ser observados em 100 doentes em tratamento durante um ano ou em 200 doentes em tratamento durante meio ano. 16 Na tabela seguinte estão indicadas reacções adversas identificadas de estudos (ensaios clínicos e estudos observacionais, com um período de acompanhamento que pode variar entre dois e seis anos) e outras reacções adversas identificadas através de notificações espontâneas do mercado, com frequência desconhecida.
+ Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ Exames complementares de diagnóstico contagem de linfócitos diminuída, frequentes contagem de leucócitos diminuída, contagem de neutrófilos diminuída, hematócrito diminuído, potássio sanguíneo aumentado, azotémia sanguínea aumentada
+ pouco frequentes
+ contagem de plaquetas diminuída
+ desconhecido
+ diminuição de peso, aumento de peso, alterações nos testes de função hepática
+ Cardiopatias cardiomiopatia, insuficiência cardíaca desconhecido congestiva (ver secção 4.4), palpitações, arritmia, taquicardia
+ Doenças do sangue e do sistema linfático pancitopenia, trombocitopenia desconhecido
+ Doenças do sistema nervoso cefaleias2 muito frequentes
+ espasticidade muscular, hipoestesia frequentes
+ sintomas neurológicos, síncope3, desconhecido hipertonia, tonturas, parestesia, ataques, enxaqueca
+ Doenças respiratórias, torácicas e do mediastino
+ rinorreia frequentes
+ dispneia raros
+ Doenças gastrointestinais vómitos, diarreia, náuseas2 frequentes
+ 17 Afecções dos tecidos cutâneos e subcutâneas
+ Erupção cutânea, aumento da sudação, frequentes contusão
+ pouco frequentes
+ alopecia
+ desconhecido
+ edema angioneurótico, prurido, erupção cutânea vesicular, urticária, agravamento de psoríase
+ Afecções musculoesqueléticas e dos tecidos conjuntivos
+ cãibras musculares, dor no pescoço, frequentes mialgia2, artralgia, dor nas extremidades, lombalgia, rigidez muscular, rigidez musculoesquelética
+ desconhecido
+ lupus eritematoso sistémico, fraqueza muscular, artrite
+ Doenças endócrinas hipotiroidismo, hipertiroidismo desconhecido
+ Doenças do metabolismo e da nutrição anorexia frequentes
+ Infecções e infestações abcesso no local da injecção1 desconhecido
+ Vasculopatias rubor frequentes
+ vasodilatação desconhecido
+ 18 Perturbações gerais e alterações no local de administração
+ sintomas gripais, pirexia2, arrepios2, muito frequentes sudação2
+ dor no local de injecção, eritema no frequentes local de injecção, hematoma no local de injecção, astenia, dor, fadiga2, mal-estar, suores nocturnos
+ pouco frequentes
+ ardor no local de injecção
+ desconhecido
+ reacção no local de injecção, inflamação no local de injecção, icelulite no local da injecção1, necrose no local da injecção, hemorragia no local da injecção, dor no peito
+ Doenças do sistema imunitário reacção anafiláctica, choque desconhecido anafiláctico, reacções de hipersensibilidade (angioedema, dispneia, urticária, erupção cutânea, erupção cutânea associada a prurido)
+ Afecções hepatobiliares falência hepática (ver secção 4.4), desconhecido hepatite, hepatite autoimune
+ Doenças dos órgãos genitais e da mama metrorragia, menorragia pouco frequentes
+ Perturbações do foro psiquiátrico depressão (ver secção 4.4), insónia frequentes
+ suicídio, psicose, ansiedade, confusão, desconhecido instabilidade emocional
+ 1 Foram referidas reacções no local da injecção, incluindo dor, inflamação e casos muito raros de abcessos ou celulite que podem requerer intervenção cirúrgica. 2 A frequência de ocorrência é mais elevada no início do tratamento. 3 Poderá ocorrer um episódio de síncope após a injecção de AVONEX; é, normalmente, um episódio único que geralmente aparece no início do tratamento e não se repete com as injecções subsequentes.
+ 19 4.9 Sobredosagem
+ Não foram descritos casos de sobredosagem. Todavia, em caso de sobredosagem, os doentes devem ser hospitalizados para observação, devendo ser instituído um tratamento de suporte apropriado.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Interferões, código ATC: L03 AB07.
+ Os interferões são uma família de proteínas presentes na natureza, os quais são produzidos por células eucarióticas em resposta a uma infecção viral e a outros indutores biológicos. Os interferões são citoquinas que medeiam actividades antivirais, antiproliferativas e imunomoduladoras. Distinguem-se três formas principais de interferões: alfa, beta e gama. Os interferões alfa e beta são classificados como interferões de Tipo I enquanto que o interferão gama é um interferão de Tipo II. Estes interferões possuem actividades biológicas sobreponíveis mas claramente diferenciáveis. Estes podem também diferir em relação aos seus locais de síntese celular.
+ O interferão beta é produzido por vários tipos de células, incluindo fibroblastos e macrófagos. O interferão beta natural e o AVONEX (interferão beta-1a) são glicosilados e possuem um componente carbohidratado complexo com uma ligação N única. Sabe-se que a glicosilação de outras proteínas afecta a sua estabilidade, actividade, biodistribuição e semi-vida no sangue. Os efeitos do interferão beta que são dependentes da glicosilação não se encontram, no entanto, completamente definidos.
+ AVONEX exerce os seus efeitos biológicos ligando-se a receptores específicos na superfície das células humanas. Esta ligação inicia uma cascata complexa de fenómenos intracelulares que conduzem à expressão de numerosos produtos genéticos e marcadores induzidos pelo interferão. Nestes incluem-se a Classe I do CMH (Complexo Major de Histocompatibilidade), proteína Mx,2 ’/5 ’-oligoadenilato sintetase, β2-microglobulina e neopterina. Alguns destes produtos foram determinados no soro e em fracções celulares de sangue colhido em doentes tratados com AVONEX. Após uma dose intramuscular única de AVONEX, os níveis séricos destes produtos permanecem elevados durante um período mínimo de quatros dias e máximo de uma semana.
+ Desconhece-se se o mecanismo de acção de AVONEX na EM é mediado pela mesma via dos efeitos biológicos atrás descritos, uma vez que a fisiopatologia da EM não se encontra bem estabelecida.
+ Os efeitos de AVONEX no tratamento da EM foram demonstrados num estudo controlado com placebo realizado em 301 doentes (AVONEX n=158, placebo n=143) com esclerose múltipla por surtos, caracterizada, pelo menos, por duas exarcebações nos últimos três anos ou pelo menos uma exarcebação por ano, antes da randomização, quando a duração da doença for inferior a 3 anos. Os doentes com uma EDSS entre 1.0 e 3.5 foram randomizados e incluídos no ensaio clínico .. Devido ao desenho do estudo os doentes foram seguidos durante períodos de tempo variáveis. 150 doentes tratados com AVONEX completaram 1 ano de estudo e 85 completaram dois anos de estudo. Neste estudo, as percentagens cumulativas de doentes que desenvolveram progressão da incapacidade (pela análise da tabela de vida de Kaplan-Meier) no final dos dois anos foram de 35% nos doentes tratados com placebo e de 22% nos doentes tratados com AVONEX. A progressão da incapacidade correspondia a um aumento de 1,0 ponto na Expanded Disability Status Scale (EDSS), mantido durante um período mínimo de seis meses. Foi igualmente demonstrada uma redução correspondente a um terço da taxa anual de surtos. Este último efeito clínico foi observado após um tratamento superior a um ano.
+ Um estudo comparativo, aleatorizado, em dupla ocultação, realizado em 802 doentes com esclerose múltipla surto-remissão (AVONEX 30 microgramas n=402, AVONEX 60 microgramas n=400) não revelou diferenças estatisticamente significativas ou tendências entre as doses de 30 microgramas e de 60 microgramas de AVONEX em parâmetros de RMN clínicos e gerais.
+ 20 Os efeitos de AVONEX no tratamento da EM foram também demonstrados num estudo aleatorizado, em dupla ocultação, realizado em 383 doentes (AVONEX n= 193, placebo n=190) que tinham sofrido um acontecimento desmielinizante único associado a, pelo menos, duas lesões cerebrais compatíveis na RMN. Foi referida uma redução do risco de ocorrência de um segundo acontecimento no grupo tratado com AVONEX. Foi também observado um efeito sobre os parâmetros de RMN. O risco estimado de ocorrência de um segundo acontecimento foi de 50% em três anos e de 39% em dois anos no grupo do placebo e de 35% (três anos) e 21% (dois anos) no grupo do AVONEX. Uma análise post-hoc permitiu concluir que os doentes em que a RMN de base revelava, pelo menos, uma lesão potenciada por Gd e nove lesões evidenciadas em T2 apresentavam um risco de sofrer um segundo acontecimento, aos dois anos, de 56% no grupo do placebo e de 21% no grupo tratado com AVONEX. Desconhece-se, no entanto, o impacto de um tratamento precoce com AVONEX mesmo neste subgrupo de alto risco, uma vez que o estudo visava principalmente avaliar o tempo decorrido até ao segundo acontecimento e não a evolução da doença a longo prazo. Além disso, não existe, até à data, uma definição perfeitamente estabelecida de um doente de alto risco, embora uma abordagem mais conservadora considere aceitável um mínimo de nove lesões hiperintensas em T2 no exame inicial e pelo menos uma nova lesão evidenciada em T2 ou uma nova lesão potenciada por Gd num exame de seguimento realizado pelo menos três meses após o exame inicial. Em qualquer dos casos, só deverá considerar-se o recurso ao tratamento em doentes classificados como de alto risco.
+ 5.2 Propriedades farmacocinéticas O perfil farmacocinético de AVONEX foi investigado indirectamente mediante um doseamento que avalia a actividade antiviral do interferão. Este doseamento é limitado na medida em que é sensível para o interferão mas carece de especificidade para o interferão beta. As técnicas de doseamento alternativas não são suficientemente sensíveis.
+ Na sequência da administração de AVONEX por via intramuscular, os picos dos níveis séricos de actividade antiviral são atingidos no período compreendido entre 5 e 15 horas após a administração, diminuindo com uma semi-vida de aproximadamente 10 horas. Introduzindo um ajuste adequado para a taxa de absorção a partir do local de injecção, calcula-se que a biodisponibilidade é de aproximadamente 40%. A biodisponibilidade calculada é mais elevada sem estes ajustes. A biodisponibilidade intramuscular é três vezes superior à biodisponibilidade subcutânea. A administração subcutânea não pode substituir a administração intramuscular.
+ 5.3 Dados de segurança pré-clínica Carcinogénese: Não existem dados disponíveis sobre a carcinogenicidade do interferão beta-1a em animais ou no ser humano.
+ Toxicidade crónica: Num estudo de toxicidade de doses repetidas com a duração de 26 semanas realizado em macacos rhesus, em que o fármaco foi administrado por via intramuscular uma vez por semana em combinação com outro agente de imunomodulador, um anticorpo monoclonal ligando anti CD40, não foram demonstradas respostas imunitárias ao interferão beta-1a, nem sinais de toxicidade.
+ Tolerância local: Não se avaliou a irritação intramuscular em animais após administração repetida no mesmo local de injecção.
+ Mutagénese: Foram realizados testes mutagénicos limitados mas relevantes. Os resultados foram negativos.
+ Redução da fertilidade: Foram realizados estudos de fertilidade e de desenvolvimento em macacos rhesus com uma forma relacionada de interferão beta-1a. Com doses muito elevadas, observaram-se efeitos anovulatórios e abortivos em animais de experimentação. Foram também observados efeitos semelhantes sobre a reprodução, relacionados com a dose, com outras formas de interferões alfa e beta. Não se observaram efeitos teratogénicos ou efeitos sobre o desenvolvimento fetal, mas as
+ 21 informações disponíveis sobre os efeitos de Interferão beta-1a nos períodos peri-e pós-natal são limitadas.
+ Não se dispõe de informação sobre os efeitos do interferão beta-1a na fertilidade masculina.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1. Lista dos excipientes Acetato de sódio trihidratado, Ácido acético glacial, Cloridrato de arginina, Polissorbato 20, Água para preparações injectáveis.
+ 6.2 Incompatibilidades Não aplicável. 6.3 Prazo de validade 2 anos. 6.4 Precauções especiais de conservação
+ Conservar no frigorífico (2 ºC – 8 ºC). NÃO CONGELAR. Avonex pode ser conservado à temperatura ambiente (entre 15 ºC e 30 ºC) durante uma semana, no máximo.
+ Conservar na embalagem de origem (suporte de plástico selado) para proteger da luz (ver secção 6.5).
+ 6.5 Natureza e conteúdo do recipiente 1 seringa pré-cheia de vidro (tipo I) de 1 ml, com uma tampa inviolável e êmbolo (bromobutilo) contendo 0,5 ml de solução.
+ Tamanho da embalagem: embalagem com quatro ou doze seringas pré-cheias de 0,5 ml. Cada seringa é embalada num suporte de plástico selado que contém também uma agulha para injecção intramuscular.
+ É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ AVONEX apresenta-se sob a forma de uma solução injectável pronta a utilizar numa seringa pré-cheia.
+ Uma vez que AVONEX seringa pré-cheia seja retirada do frigorífico deve permitir-se que atinja a temperatura ambiente (15 ºC-30 ºC) durante cerca de 30 minutos.
+ Não utilizar fontes de calor externas, tal como água quente, para aquecer AVONEX 30 microgramas solução injectável.
+ 22 Se a solução injectável contiver partículas estranhas em suspensão ou se apresentar qualquer coloração que seja diferente do aspecto incolor e límpido característico, não pode usar-se a seringa pré-cheia. É fornecida a agulha para injecção intramuscular. A formulação não contém conservantes. Cada seringa pré-cheia de AVONEX contém apenas uma dose unitária. Rejeite a porção não utilizada do conteúdo de qualquer seringa pré-cheia.
+ Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ BIOGEN IDEC LIMITED Innovation Huose 70 Norden Road Maidenhead Berkshire SL6 4AY Reino Unido
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/97/033/003 EU/1/97/033/004 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 13 Março 1997 Data da última renovação: 13 Março 2007
+ 10. DATA DA REVISÃO DO TEXTO { MM/AAAA}
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu/.
+ 23 ANEXO II
+ A. FABRICANTE DA SUBSTÂNCIA ACTIVA DE ORIGEM BIOLÓGICA E TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 24 A FABRICANTE DA SUBSTÂNCIA ACTIVA DE ORIGEM BIOLÓGICA E TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço dos fabricantes da substância activa de origem biológica
+ Biogen Idec Inc.,14 Cambridge Center, Cambridge, Massachusetts 02142, EUA.
+ Biogen Idec Inc.,5000 Davis Drive, POB 14627, Research Triangle Park, North Carolina,27709, EUA.
+ Nome e endereço dos fabricantes responsáveis pela libertação do lote
+ BIOGEN IDEC B. V., Robijnlaan 8,2132 WX Hoofddorp, Países Baixos.
+ Biogen Idec Denmark Manufacturing ApS, Biogen Idec Allé 1, DK-3400 Hillerød, Dinamarca.
+ O folheto informativo que acompanha o medicamento deve mencionar o nome e endereço do fabricante responsável pela libertação do lote em causa.
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento de receita médica restrita, de utilização reservada a certos meios especializados (ver anexo I: Resumo das Características do Medicamento, secção 4.2).
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ Não aplicável. • OUTRAS CONDIÇÕES
+ O titular desta autorização de introdução no mercado deve informar a Comissão Europeia sobre os planos de comercialização do medicamento autorizado pela presente decisão.
+ 25 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 26 A. ROTULAGEM
+ 27 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ APRESENTAÇÃO BIO-SET 1. NOME DO MEDICAMENTO AVONEX 30 microgramas pó e solvente para solução injectável
+ Interferão beta-1a 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada frasco para injectáveis contém 30 microgramas (6 milhões de UI) de interferão beta-1a.
+ 3. LISTA DOS EXCIPIENTES Albumina sérica humana, cloreto de sódio, fosfato de sódio mono e dibásico.
+ Consultar o folheto para mais informações.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Pó e solvente para solução injectável. Embalagens de quatro doses com a seguinte apresentação: frasco para injectáveis com o dispositivo BIO-SET contendo o medicamento, seringa pré-cheia contendo água para preparações injectáveis, uma agulha para injecção intramuscular.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Para utilização intramuscular após reconstituição com o solvente.
+ Consultar o folheto informativo antes de utilizar
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 28 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar a temperatura inferior a 25 ºC.
+ NÃO CONGELAR. 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ BIOGEN IDEC LTD. Innovation House 70 Norden Road Maidenhead Berkshire SL6 4AY Reino Unido
+ 12. NÚMERO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/97/033/002 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE AVONEX 29 INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS “ BLISTER ” OU FITAS CONTENTORAS
+ 1. NOME DO MEDICAMENTO AVONEX 30 microgramas pó e solvente para solução injectável
+ Interferão beta-1a 2. NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ BIOGEN IDEC LTD. 3. PRAZO DE VALIDADE EXP 4. NÚMERO DO LOTE Lote 5. OUTRAS Para utilização intramuscular após reconstituição com o solvente.
+ Consultar o folheto informativo antes de utilizar.
+ Conservar a temperatura inferior a 25 ºC.
+ NÃO CONGELAR. 30 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ Medicamento (frasco para injectáveis de 3 ml)
+ 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ AVONEX 30 microgramas pó injectável Interferão beta-1a IM 2. MODO DE ADMINISTRAÇÃO Ver folheto Informativo. 3. PRAZO DE VALIDADE EXP 4. NÚMERO DO LOTE Lot 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 30 microgramas interferão beta-1a 6. OUTRAS 31 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ Solvente para reconstituição: (seringa pré-cheia com 1 ml)
+ 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Água para injectáveis IM 2. MODO DE ADMINISTRAÇÃO 3. PRAZO DE VALIDADE EXP 4. NÚMERO DE LOTE Lot 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 1 ml 6. OUTRAS 32 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ 1. NOME DO MEDICAMENTO AVONEX 30 microgramas/0,5 ml solução injectável
+ Interferão beta-1a 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada seringa pré-cheia de 0,5 ml contém 30 microgramas (6 milhões de UI) de interferão beta-1a.
+ 3. LISTA DOS EXCIPIENTES Acetato de sódio trihidratado, ácido acético glacial, cloridrato de arginina, polissorbato 20, água para preparações injectáveis.
+ Consultar o folheto para mais informações.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Solução injectável. Embalagem com quatro seringas pré-cheias com 0,5 ml de solução. Embalagem com doze seringas pré-cheias com 0,5 ml de solução.
+ Cada seringa é embalada num suporte de plástico selado que contém, também, uma agulha para injecção intramuscular.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Utilização intramuscular. Consultar o folheto informativo antes de utilizar.
+ 33 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico. Avonex pode ser conservado à temperatura ambiente (entre 15 ºC e 30 ºC) durante uma semana, no máximo.
+ NÃO CONGELAR. Conservar na embalagem de origem (suporte de plástico selado) para proteger da luz.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ BIOGEN IDEC LTD. Innovation House 70 Norden Road Maidenhead Berkshire SL6 4AY Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/97/033/003 4 embalagens EU/1/97/033/004 12 embalagens
+ 13. NÚMERO DO LOTE Lote 34 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE AVONEX 35 INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS “ BLISTER ” OU FITAS CONTENTORAS
+ 1. NOME DO MEDICAMENTO AVONEX 30 microgramas/0,5 ml solução injectável
+ Interferão beta-1a 2. NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ BIOGEN IDEC LTD. 3. PRAZO DE VALIDADE EXP 4. NÚMERO DO LOTE Lote 5. OUTRAS Utilização intramuscular. Consultar o folheto informativo antes de utilizar.
+ Conservar no frigorífico. Avonex pode ser conservado à temperatura ambiente (entre 15 ºC e 30 ºC) durante uma semana, no máximo.
+ NÃO CONGELAR. Conservar na embalagem de origem (suporte de plástico selado) para proteger da luz.
+ 36 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ AVONEX 30 microgramas/0,5 ml solução injectável
+ Interferão beta – 1a IM 2. MODO DE ADMINISTRAÇÃO Ver folheto informativo. 3. PRAZO DE VALIDADE EXP 4. NÚMERO DO LOTE Lot 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 0,5 ml 6. OUTRAS 37 B. FOLHETO INFORMATIVO
+ 38 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ AVONEX 30 microgramas pó e solução injectável (Interferão beta 1a) Apresentação BIO-SET
+ Leia atentamente este folheto antes de utilizar este medicamento. Mesmo que já tenha usado Avonex anteriormente, algumas das informações poderão ter sido alteradas.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ (Notas informativas)
+ Emissão mais recente: { MM/AAAA} Este folheto é alterado periodicamente. Sempre que este medicamento lhe voltar a ser receitado, verifique se o folheto foi actualizado.
+ Neste folheto: 1. O que é AVONEX e para que é utilizado 2. Antes de utilizar AVONEX 3. Como utilizar AVONEX 4. Efeitos secundários possíveis 5. Como conservar AVONEX 6. Outras informações 7. Como injectar AVONEX
+ 1. O QUE É AVONEX E PARA QUE É UTILIZADO
+ O que é AVONEX A substância activa no Avonex é uma proteína chamada interferão beta-1a. Os interferões são substâncias naturais produzidas no seu organismo para ajudar a protegê-lo de infecções e doenças. A proteína existente no Avonex é constituída exactamente pelos mesmos componentes do interferão beta que se encontra no corpo humano.
+ Para que é utilizado AVONEX Avonex é utilizado para o tratamento da esclerose múltipla (EM). O tratamento com Avonex pode ajudar a evitar o agravamento da sua condição, embora não cure a EM.
+ Cada pessoa tem um conjunto próprio de sintomas de EM. Estes podem incluir:
+ -sensação de desequilíbrio ou desvanecimento, problemas ao caminhar, rigidez e espasmos
+ musculares, cansaço, sensação de dormência na cara, braços ou pernas
+ -dor aguda ou crónica, problemas na bexiga ou intestinais, problemas sexuais e problemas em
+ ver coisas
+ -dificuldade em pensar e concentrar, depressão.
+ A EM tem também tendência a agravar-se de tempos a tempos: é o chamado surto.
+ 39 (Notas informativas)
+ Avonex resulta melhor se o utilizar à mesma hora, uma vez por semana, numa base regular. Não interrompa o seu tratamento com Avonex sem falar com o seu neurologista.
+ Avonex pode ajudar a reduzir o número de surtos e a retardar os efeitos incapacitantes da EM. O seu médico indicar-lhe-á durante quanto tempo pode utilizar o Avonex ou quando parar.
+ Como funciona AVONEX A esclerose múltipla está associada a lesões nos nervos (cérebro ou medula espinal). Na EM, o sistema de defesa do seu organismo reage contra a sua própria mielina – o" isolamento" que rodeia as fibras nervosas. Quando a mielina está danificada, as mensagens entre o cérebro e as outras parte do corpo estão comprometidas. É isto que causa os sintomas de EM. Avonex parece funcionar impedindo o sistema de defesa do seu organismo de atacar a mielina.
+ 2. ANTES DE UTILIZAR AVONEX Não utilize AVONEX: -se é alérgico (hipersensível) ao interferão beta, à albumina sérica humana ou a qualquer outro
+ componente de AVONEX
+ -se estiver grávida, não comece a utilizar AVONEX
+ -se sofrer de uma grave depressão ou tiver ideias suicidas.
+ Fale imediatamente com um médico se algum destes se aplicar a si.
+ (Notas informativas)
+ Avonex e reacções alérgicas. Como o Avonex se baseia numa proteína, existe uma pequena possibilidade de uma reacção alérgica.
+ Mais acerca de depressão. Se sofre de depressão grave ou tem pensamentos suicidas não deve utilizar Avonex. Se sofre de depressão, o seu médico poderá ainda assim receitar-lhe Avonex, mas é importante que o seu médico saiba se já sofreu de depressão ou de outros problemas semelhantes que afectam o seu humor
+ Tome especial cuidado com AVONEX Fale primeiro com o seu médico se: se sofre ou sofreu no passado de:
+ -depressão ou problemas que afectam o seu humor
+ -pensamentos suicidas.
+ Alterações de humor, pensamentos suicidas, sentimento não habitual de tristeza, ansiedade ou de baixa auto-estima, devem ser imediatamente comunicados ao seu médico.
+ ‫ـ‬ ‫ـ‬ ‫ـ‬
+ epilepsia ou outras perturbações que se manifestem por crises não controladas por medicação problemas renais ou hepáticos graves um número reduzido de glóbulos brancos ou plaquetas, o que pode causar um maior risco
+ de infecção, hemorragia ou anemia
+ 40
+ ‫ـ‬
+ problemas de coração que podem provocar sintomas, como dores no peito (angina),
+ especialmente depois de alguma actividade; tornozelos inchados, falta de ar (insuficiência cardíaca congestiva); ou um batimento cardíaco irregular (arritmias).
+ Fale com o seu médico se sentir algum destes sintomas ou se se agravarem enquanto está a tomar Avonex.
+ Informe o seu médico que está a tomar AVONEX:
+ -se vai fazer uma análise ao sangue, Avonex pode afectar os resultados da análise.
+ (Notas informativas)
+ Por vezes terá que lembrar outro pessoal médico que está a ser tratado(a) com Avonex. Por exemplo, se lhe receitarem outros medicamentos ou se vai fazer uma análise ao sangue, Avonex pode afectar os outros medicamentos ou o resultado da análise.
+ Ao utilizar AVONEX com outros medicamentos
+ Se está a tomar outros medicamentos, especialmente medicamentos utilizados para o tratamento de epilepsia ou depressão. Avonex pode afectar os outros medicamentos ou ser afectado por eles. Isto aplica-se a qualquer outro medicamento, incluindo medicamentos obtidos sem receita médica.
+ Gravidez e aleitamento Se estiver grávida, não inicie a utilização de Avonex.
+ -Se houver hipótese de engravidar, deve tomar medidas contraceptivas enquanto está a utilizar
+ Avonex.
+ -Se está a planear ter um bebé ou se engravidar enquanto está a utilizar Avonex, informe o seu
+ médico. Entre os dois podem decidir se deve continuar o tratamento.
+ -Se já está grávida ou acha que pode estar, fale o mais rapidamente possível com o seu médico.
+ -Se quiser amamentar, fale primeiro com o seu médico.
+ Condução de veículos e utilização de máquinas:
+ Não conduza se sentir tonturas. Avonex provoca tonturas em algumas pessoas. Se for o seu caso ou se sentir algum dos outros efeitos secundários que podem afectar as suas capacidades, não conduza nem utilize máquinas
+ Informações importantes sobre alguns componentes de AVONEX
+ Este medicamento é essencialmente" isento de sódio". Contém menos de 23 mg (1 mmol) de sódio em cada dose semanal.
+ 3. COMO UTILIZAR AVONEX A dose habitual para adultos e adolescentes com idade igual ou superior a 12 anos
+ Uma injecção de Avonex uma vez por semana. Tente utilizar Avonex sempre à mesma hora do dia e no mesmo dia da semana.
+ Não é para crianças Avonex não se destina a ser utilizado em crianças com idade inferior a 12 anos.
+ 41 Auto-injectar-se
+ Pode auto-injectar Avonex sem a ajuda do seu médico, desde que o tenham treinado para o fazer. As instruções para a auto-injecção encontram-se no fim deste folheto (ver secção 7, Como injectar o AVONEX).
+ Se tiver problemas no manuseamento da seringa, fale com o médico. Ele poderá ajudar.
+ (Notas informativas)
+ Encontrará mais informações sobre como injectar Avonex no fim deste folheto.
+ Agulha alternativa: A sua embalagem de Avonex já inclui uma agulha para injecção. O seu médico poderá prescrever-lhe uma agulha mais curta e mais fina em função do seu tipo de corpo. Fale com o seu médico para ver se é a apropriada para si.
+ Se tiver problemas no manuseamento da seringa, fale com o seu médico sobre a hipótese de utilizar uma pega de seringa. Trata-se de uma pega especialmente concebida para o ajudar a injectar o Avonex.
+ Duração do tratamento com AVONEX O seu médico indicar-lhe-á o tempo que deverá continuar a utilizar Avonex. É importante continuar a utilizar Avonex regularmente. Não faça alterações, a menos que o seu médico lhe diga para o fazer.
+ Se injectar mais do que deveria Só deve tomar uma injecção de Avonex, uma vez por semana. Se tiver utilizado mais de uma injecção de Avonex num período de três dias, consulte imediatamente o seu médico ou farmacêutico.
+ Caso se esqueça de uma injecção No caso de se esquecer da sua dose semanal habitual, injecte uma dose assim que puder. Em seguida, deverá esperar uma semana antes de utilizar novamente Avonex. A partir daí, continue a injectar neste novo dia da semana. Se há um dia em que prefere utilizar Avonex, fale com o seu médico sobre como controlar a dose para voltar a administrá-la no dia da sua preferência.
+ Não utilize uma dose a dobrar para compensar a injecção que se esqueceu de administrar.
+ 4. EFEITOS SECUNDÁRIOS POSSIVEIS Como todos os medicamentos, Avonex pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ (Notas informativas)
+ Embora a lista dos possíveis efeitos secundários lhe possa parecer preocupante, é possível que nunca venha a sofrer de nenhum deles.
+ 42 Efeitos secundários graves: obtenha assistência médica
+ Reacções alérgicas graves Se tiver algum destes sintomas:
+ -inchaço da face, lábios ou língua
+ -dificuldade em respirar
+ -erupção cutânea
+ Contacte um médico imediatamente. Não volte a utilizar mais Avonex até ter falado com um médico.
+ Depressão Se tiver algum sintoma de depressão:
+ -sentimento não habitual de tristeza, ansiedade ou de baixa auto-estima.
+ Contacte um médico imediatamente. Problemas de fígado Se tiver algum destes sintomas:
+ -pele ou parte branca dos olhos amarelada (icterícia)
+ -prurido em todo o corpo
+ -sentir-se mal disposto, vomitar (náuseas e vómitos)
+ -facilidade para manifestar nódoas negras (hematomas).
+ Contacte um médico imediatamente porque poderão ser indícios de um possível problema de fígado.
+ Efeitos secundários ocorridos em ensaios clínicos
+ (Notas informativas)
+ Efeitos secundários ocorridos em ensaios clínicos. Segue-se uma lista de efeitos secundários comunicados pelas pessoas quando o Avonex estava a ser testado. Os números baseiam-se no número de pessoas que disseram ter sentido os efeitos secundários. Dá-lhe uma ideia da probabilidade de vir a sofrer de efeitos secundários semelhantes.
+ Efeitos secundários muito frequentes (pelo menos 1 em cada 10 pessoas é afectada)
+ -sintomas gripais – cefaleia, dores musculares, arrepios ou febre: ver a seguir Sintomas gripais
+ -cefaleia.
+ Efeitos secundários frequentes (menos de 1 em cada 10 pessoas é afectada)
+ -perda de apetite
+ -sensação de fraqueza e cansaço
+ -dificuldade em dormir
+ -depressão
+ -rubor
+ -nariz a pingar
+ -fezes soltas (diarreia)
+ -sentir-se mal disposto ou vomitar (náuseas ou vómitos)
+ -dormência ou formigueiro na pele
+ -erupção cutânea, nódoas negras (hematomas)
+ -aumento da sudação, suores nocturnos
+ -dores musculares, nas articulações, braços, pernas ou pescoço
+ -cãibras musculares, rigidez nas articulações e músculos
+ -dor, nódoas negras (hematomas) e vermelhidão no local da injecção
+ 43
+ -alterações nos resultados de análises ao sangue. Os sintomas que poderá notar são cansaço,
+ infecção repetida, nódoas negras (hematomas) inexplicável ou hemorragia.
+ Efeitos secundários pouco frequentes (menos de 1 em cada 100 pessoas é afectada)
+ -perda de cabelo
+ -alterações no período menstrual
+ -sensação de ardor no local da injecção.
+ Efeitos secundários raros (menos de 1 em cada 1000 pessoas é afectada)
+ -dificuldade em respirar.
+ Se algum dos efeitos secundários o incomodar, fale com o seu médico.
+ Outros efeitos secundários (Notas informativas)
+ Estes efeitos ocorreram em pessoas a tomar Avonex, mas não sabemos qual a probabilidade de virem a acontecer.
+ -actividade acrescida ou diminuída da tiróide
+ -nervosismo ou ansiedade, instabilidade emocional, pensamentos irracionais ou alucinações (ver
+ ou ouvir coisas que não são reais), confusão ou suicídio
+ -dormência, tonturas, convulsões ou crises e enxaquecas
+ -consciência dos batimentos cardíacos (palpitações), batimento cardíaco rápido ou irregular ou
+ problemas cardíacos que apresentariam os seguintes sintomas: diminuição da capacidade de efectuar exercício físico, incapacidade de permanecer deitado completamente na horizontal na cama, falta de ar ou tornozelos inchados
+ -problemas de fígado conforme descritos acima
+ -urticária ou erupção cutânea com bolhas, prurido, agravamento da psoríase se sofrer de psoríase
+ -inchaço ou hemorragia no local da injecção ou dor no peito após a injecção
+ -aumento ou perda de peso
+ -alterações nos resultados das análises, incluindo alterações nos resultados das análises à função
+ hepática. Se algum dos efeitos secundários o incomodar, fale com o seu médico.
+ Efeitos da injecção -Sensação de desmaio: A sua primeira injecção de Avonex pode ser administrada pelo seu
+ médico. Poderá sentir uma sensação de desmaio. Poderá mesmo desmaiar. É improvável que isto volte a acontecer.
+ -Logo após uma injecção, poderá sentir os músculos tensos ou muito fracos – como se
+ estivesse a ter um surto. Isto é raro. Só acontece na altura da injecção e os efeitos passam rapidamente. Podem ocorrer em qualquer altura depois de começar a utilizar Avonex.
+ -Se notar alguma irritação ou problemas cutâneos após uma injecção, fale com o seu médico.
+ 44 Sintomas gripais
+ (Notas informativas)
+ Três formas simples de ajudar a reduzir o impacto dos sintomas gripais: 1. Administre a sua injecção de Avonex mesmo antes da hora de deitar. Desta forma é possível que durma durante a ocorrência dos efeitos 2. Tome paracetamol ou ibuprofeno meia hora antes da injecção de Avonex e continue a tomar durante, no máximo, um dia. Fale com o seu médico ou farmacêutico sobre qual será a dose adequada. 3. Se tiver febre, beba muita água para se manter hidratado.
+ Algumas pessoas notam que após injectarem Avonex, se sentem como se tivessem gripe. Os sinais são:
+ -cefaleia
+ -dores musculares
+ -arrepios ou febre.
+ Na verdade, estes sintomas não são uma gripe. Não os transmite a ninguém. São mais frequentes quando começa a utilizar o Avonex. À medida que vai administrando as suas injecções, os sintomas gripais diminuem gradualmente.
+ 5. COMO CONSERVAR AVONEX Manter fora do alcance e da vista das crianças.
+ Não utilize Avonex após o prazo de validade impresso no rótulo.
+ Conservar a temperatura inferior a 25 °C.
+ Uma vez a solução preparada na seringa, utilizar o mais rapidamente possível. Contudo, a seringa preparada pode ser conservada no frigorífico (entre 2 °C e 8 °C) durante um período máximo de 6 horas, antes da injecção. Não congelar. Tirá-la do frigorífico meia hora antes da injecção.
+ NÃO utilize AVONEX se verificar: -que o selo do invólucro do dispositivo BIO-SET não está intacto.
+ -que o suporte de plástico selado se encontra danificado ou foi aberto.
+ -que o líquido no frasco para injectáveis obtido após reconstituição não se encontra incolor ou com
+ uma tonalidade ligeiramente amarelada ou que apresenta partículas em suspensão.
+ Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 6. OUTRAS INFORMAÇÕES Componentes A substância activa é: Interferão beta-1a 30 microgramas Os outros componentes são: Albumina sérica humana, cloreto de sódio, fosfato de sódio dibásico e fosfato de sódio monobásico.
+ 45 O que contém a sua embalagem de Avonex
+ Uma caixa de Avonex Bioset tem quatro doses de Avonex. Cada dose vem num suporte de plástico selado e tem um pó branco a branco sujo dentro de um recipiente de vidro (frasco para injectáveis) e uma seringa para injecção cheia com água. Estes são misturados para constituir a injecção que vai tomar (solução injectável). O suporte contém ainda uma agulha separada para administrar a injecção.
+ O titular da autorização de introdução no mercado é:
+ Biogen Idec Limited, Innovation House,70 Norden Road, Maidenhead, Berkshire, SL6 4AY, Reino Unido.
+ Avonex é fabricado por: Biogen Idec BV, Robijnlaan 8, NL-2132 WX Hoofddorp, Países Baixos. Biogen Idec Denmark Manufacturing ApS, Biogen Idec Allé 1, DK-3400 Hillerød, Dinamarca.
+ Pode obter uma versão impressa deste folheto de maiores dimensões contactando os representantes locais.
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado.
+ België/Belgique/Belgien Biogen Idec Belgium N. V./S. A. +32 2 2191218
+ Luxembourg/Luxemburg Biogen Idec Belgium N. V./S. A. +32 2 2191218
+ България ТП ЕВОФАРМА +359 2 962 12 00
+ Magyarország Gedeon Richter Plc. +36 1 432 6097
+ Česká republika Biogen Idec Czech Republic s. r. o. +420 222 191 640
+ Malta Interpharma Co. Ltd. +356 21354582
+ Danmark Biogen Idec Denmark A/S
+ Nederland Biogen Idec International B. V.
+ +45 77 41 57 57
+ +31 20 542 2000
+ Deutschland Biogen Idec GmbH +49 (0) 89 99 6170
+ Norge Biogen Idec Norway AS +47 23 00 52 50
+ Eesti Richter Gedeon Eesti filiaal +372 742 7056
+ Österreich Biogen Idec Austria GmbH. +43 1 484 46 13
+ Ελλάδα Genesis Pharma SA +30 210 8771500
+ Polska Gedeon Richter Plc. S. A. Przedstawicielstwo w Polsce. +48 (22) 642-67-39
+ España Biogen Idec Iberia SL +34 91 310 7110
+ Portugal Biogen Idec Portugal, Sociedade Unipessoal, Lda. +351 21 318 8450
+ 46 France Biogen Idec France +33 (0) 1 41 37 9595
+ România MEDISON PHARMA SRL+ 40 31 7104035
+ Ireland Biogen Idec (Ireland) Ltd. +353 (0) 1 463 7799
+ Slovenija Biogen Idec d. o. o. +386 1 589 91 04
+ Ísland Icepharma hf +354 540 8000
+ Slovenská republika Biogen Idec (Slovak Republic) s. r. o +421 2 32410188
+ Italia Biogen-Dompé s. r. l. +39 02 583 831
+ Suomi/Finland Biogen Idec Finland Oy +358 207 401 200
+ Κύπρος Genesis Pharma Cyprus Ltd +3572 2 769946
+ Sverige BiogenIdec Sweden AB +46 8 594 113 60
+ Latvija Gedeon Richter Plc. +36 1 432 6097
+ United Kingdom Biogen Idec Limited +44 (0) 1628 50 1000
+ Lietuva Gedeon Richter Plc. +36 1 432 6097
+ Este folheto foi aprovado pela última vez em{ MM/AAAA}
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu.
+ 7. COMO INJECTAR AVONEX Deverá ter recebido formação sobre como injectar Avonex. Estas notas são um lembrete. Se tiver dúvidas sobre alguma coisa, consulte o seu médico ou farmacêutico.
+ Onde injectar • Avonex é injectado num músculo, por exemplo, no músculo da parte superior da coxa. Não se recomenda que a injecção de Avonex seja dada nas nádegas. • Utilize um local de injecção diferente todas as semanas. Isto significa um menor risco de irritação da pele e músculo. • Não utilize zonas da pele que apresentem hematomas, estejam doridas ou infectadas ou se houver uma ferida aberta.
+ 47 A. Preparação
+ 1. Retire o suporte para fora da caixa. Verifique a data de validade na tampa do suporte. Não utilize se o prazo tiver expirado. Retire todo o invólucro de papel. Verifique se o suporte de blisters contém:
+ • • •
+ um BIO-SET (frasco+ base+ tampa) uma seringa uma agulha para injecção (ver imagem" Conteúdo do suporte de plástico").
+ 2. Lave muito bem as mãos com água e sabão e seque-as.
+ 3. Prepare toalhetes com álcool e pensos rápidos (não fornecidos) se precisar deles.
+ 4. Procure uma superfície limpa e rígida para colocar os elementos necessários para a injecção. Coloque o suporte sobre esta.
+ B. Preparar a injecção 1 Retire a tampa do frasco para injectáveis Rode e depois puxe a tampa para fora. Não toque no orifício de ligação.
+ 2 Retire a tampa da seringa Segure na base da seringa. Puxe a tampa para fora. Não toque no orifício de ligação. Não empurre o êmbolo.
+ 48 3 Alinhe a seringa e o frasco para injectáveis Coloque o Bio-Set sobre uma superfície plana. Alinhe os dois orifícios de ligação de forma a ficarem em linha recta. Segure na seringa pela base. Enrosque-a firmemente no sentido dos ponteiros do relógio dentro do frasco.
+ 4 Empurre a seringa para baixo até fazer um estalido. Mantenha o Bio-Set sobre a superfície plana e segure a seringa pela base. Mantenha-os em linha recta. Sugestão: Se a seringa estiver inclinada em relação ao Bio-Set irá verter. Empurre a seringa até fazer um estalido.
+ 5 Misture a água e o pó Injecte lentamente toda a água da seringa para dentro do frasco para injectáveis. Sugestão: Não empurre o êmbolo muito depressa. Se o fizer a solução pode formar espuma não sendo depois possível extraí-la para dentro da seringa. Carregue no êmbolo todo até ao fundo para tirar o ar da seringa.
+ 6 Dissolva completamente o pó Pegue no frasco e na seringa, mantendo-os presos e em linha recta. Rode cuidadosamente o frasco até todo o pó ter dissolvido. Não agite energicamente porque forma espuma.
+ 7 Encha a seringa Vire a seringa e o frasco ao contrário, mas sempre em linha recta. Sugestão: Se a seringa estiver inclinada em relação ao Bio-Set, irá verter.
+ Empurre lentamente o êmbolo até todo o líquido estar dentro da seringa.
+ 8 Separe a seringa do frasco Segure na seringa cheia pela base. Rode no sentido contrário ao dos ponteiros do relógio para a retirar do frasco Bio-Set. Não toque no orifício de ligação na seringa.
+ C: Administrar a injecção 1 Verifique o líquido na seringa Deve ser transparente e incolor. Se a solução tiver outra cor que não seja incolor ou ligeiramente amarelada, ou se vir partículas em suspensão, não injecte.
+ 49 2 Coloque a agulha Desenrosque a agulha deixando o orifício de ligação à mostra. Mantenha a tampa colocada. Empurre e rode a agulha no sentido dos ponteiros do relógio sobre a seringa. Agora puxe e retire a tampa de plástico da agulha. Não rode. Sugestão: Se rodar a tampa da agulha para a tirar, poderá acidentalmente retirar também a agulha.
+ 3 Retire o ar Para retirar o ar, aponte a agulha da seringa para cima. Bata cuidadosamente para fazer subir as bolhas de ar até ao topo. Empurre cuidadosamente o êmbolo para retirar o ar. Não deixe sair mais do que uma pequena gota de líquido.
+ 4 Limpe e estique o local da injecção Se precisar, utilize um toalhete com álcool para limpar a pele no local que escolheu para dar a injecção. Deixe a pele secar. Com uma mão, estique a pele em volta do local da injecção. Descontraia o músculo.
+ 5 Dê a injecção Introduza a agulha da injecção com um movimento rápido, em ângulo recto em relação à pele, no músculo. A agulha deve penetrar em todo o seu comprimento. Empurre lentamente o êmbolo até a seringa ficar vazia.
+ 6 Puxe a agulha para fora Mantenha a pele bem esticada ou aperte a pele à volta do local da injecção e puxe a agulha para fora. Se utilizar toalhetes com álcool, mantenha um no local da injecção. Coloque um penso em cima do local da injecção se vir que é preciso.
+ Elimine o lixo da forma adequada
+ Depois de terminar cada injecção, coloque a agulha, a seringa e o frasco para injectáveis dentro de um recipiente especial (por exemplo, um recipiente para objectos afiados), não coloque no lixo normal. O papel e os toalhetes usados devem ser colocados num caixote de lixo normal.
+ 50 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ AVONEX 30 microgramas/0,5 ml Solução injectável (Interferão beta-1a) Apresentação de seringa pré-cheia
+ Leia atentamente este folheto antes de utilizar este medicamento. Mesmo que já tenha usado Avonex anteriormente, algumas das informações poderão ter sido alteradas.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ (Notas informativas)
+ Emissão mais recente: { MM/AAAA} Este folheto é alterado periodicamente. Sempre que este medicamento lhe voltar a ser receitado, verifique se o folheto foi actualizado.
+ Neste folheto: 1. O que é AVONEX e para que é utilizado 2. Antes de utilizar AVONEX 3. Como utilizar AVONEX 4. Efeitos secundários possíveis 5. Como conservar AVONEX 6. Outras informações 7. Como injectar AVONEX
+ 1. O QUE É AVONEX E PARA QUE É UTILIZADO
+ O que é AVONEX A substância activa no Avonex é uma proteína chamada interferão beta-1a. Os interferões são substâncias naturais produzidas no seu organismo para ajudar a protegê-lo de infecções e doenças. A proteína existente no Avonex é constituída exactamente pelos mesmos componentes do interferão beta que se encontra no corpo humano.
+ Para que é utilizado AVONEX Avonex é utilizado para o tratamento da esclerose múltipla (EM). O tratamento com Avonex pode ajudar a evitar o agravamento da sua condição, embora não cure a EM.
+ Cada pessoa tem um conjunto próprio de sintomas de EM. Estes podem incluir:
+ -sensação de desequilíbrio ou desvanecimento, problemas ao caminhar, rigidez e espasmos
+ musculares, cansaço, sensação de dormência na cara, braços ou pernas
+ -dor aguda ou crónica, problemas na bexiga ou intestinais, problemas sexuais e problemas em
+ ver coisas
+ -dificuldade em pensar e concentrar, depressão.
+ A EM tem também tendência a agravar-se de tempos a tempos: é o chamado surto.
+ 51 (Notas informativas)
+ Avonex resulta melhor se o utilizar à mesma hora, uma vez por semana, numa base regular. Não interrompa o seu tratamento com Avonex sem falar com o seu neurologista.
+ Avonex pode ajudar a reduzir o número de surtos e a retardar os efeitos incapacitantes da EM. O seu médico indicar-lhe-á durante quanto tempo pode utilizar o Avonex ou quando parar.
+ Como funciona AVONEX A esclerose múltipla está associada a lesões nos nervos (cérebro ou medula espinal). Na EM, o sistema de defesa do seu organismo reage contra a sua própria mielina – o" isolamento" que rodeia as fibras nervosas. Quando a mielina está danificada, as mensagens entre o cérebro e as outras parte do corpo estão comprometidas. É isto que causa os sintomas de EM. Avonex parece funcionar impedindo o sistema de defesa do seu organismo atacar a mielina.
+ 2. ANTES DE UTILIZAR AVONEX Não utilize AVONEX -se é alérgico (hipersensível) ao interferão beta ou a qualquer outro componente de AVONEX
+ -se estiver grávida, não comece a utilizar AVONEX
+ -se sofrer de uma grave depressão ou tiver ideias suicidas.
+ Fale com um médico imediatamente se algum destes se aplicar a si.
+ (Notas informativas)
+ Avonex e reacções alérgicas. Como o Avonex é baseado numa proteína, existe uma pequena possibilidade de reacção alérgica.
+ Mais acerca de depressão. Se sofre de depressão grave ou tem pensamentos suicidas, não deve utilizar Avonex. Se sofre de depressão, o seu médico poderá ainda assim receitar-lhe Avonex, mas é importante que o seu médico saiba se já sofreu de depressão ou de outros problemas semelhantes que afectam o seu humor
+ Tome especial cuidado com AVONEX Fale primeiro com o seu médico se: se sofre ou sofreu no passado de:
+ -depressão ou problemas que afectam o seu humor
+ -pensamentos suicidas.
+ Alterações de humor, pensamentos suicidas, sentimento não habitual de tristeza, ansiedade ou de baixa auto-estima, devem ser imediatamente comunicados ao seu médico.
+ ‫ـ‬ epilepsia ou outras perturbações que se manifestem por crises não controladas por medicação ‫ـ‬ problemas renais ou hepáticos graves ‫ـ‬ um número reduzido de glóbulos brancos ou plaquetas, o que pode causar um maior risco de infecção, hemorragia ou anemia
+ 52 ‫ـ‬ problemas de coração que podem causar sintomas como dores no peito (angina), especialmente depois de alguma actividade; tornozelos inchados, falta de ar (insuficiência cardíaca congestiva); ou um batimento cardíaco irregular (arritmias).
+ Fale com o seu médico se sentir algum destes sintomas ou se se agravarem enquanto está a tomar Avonex.
+ Informe o seu médico que está a tomar AVONEX:
+ -se vai fazer uma análise ao sangue, Avonex pode afectar os resultados da análise.
+ (Notas informativas)
+ Por vezes terá que lembrar outro pessoal médico que está a ser tratado(a) com Avonex. Por exemplo, se lhe receitarem outros medicamentos ou se vai fazer uma análise ao sangue, Avonex pode afectar os outros medicamentos ou o resultado da análise.
+ Utilizar AVONEX com outros medicamentos Se está a tomar outros medicamentos, especialmente medicamentos utilizados para o tratamento de epilepsia ou depressão. Avonex pode afectar os outros medicamentos ou ser afectado por eles. Isto aplica-se a qualquer outro medicamento, incluindo os medicamentos obtidos sem receita médica ..
+ Gravidez e aleitamento Se estiver grávida, não inicie a utilização de Avonex.
+ -Se houver hipótese de engravidar, deve tomar medidas contraceptivas enquanto está a utilizar
+ Avonex.
+ -Se está a planear ter um bebé ou se engravidar enquanto está a utilizar Avonex, informe o
+ seu médico. Entre os dois podem decidir se deve continuar o tratamento.
+ -Se já está grávida ou acha que pode estar, fale o mais rapidamente possível com o seu médico.
+ -Se quiser amamentar, fale primeiro com o seu médico.
+ Condução de veículos e utilização de máquinas
+ Não conduza se sentir tonturas. Avonex provoca tonturas em algumas pessoas. Se for o seu caso ou se sentir algum dos outros efeitos secundários que podem afectar as suas capacidades, não conduza nem utilize máquinas.
+ Informações importantes sobre alguns componentes de AVONEX
+ Este medicamento é essencialmente" isento de sódio". Contém menos de 23 mg (1 mmol) de sódio em cada dose semanal.
+ 3. COMO UTILIZAR AVONEX A dose habitual para adultos e adolescentes com idade igual ou superior a 12 anos
+ Uma injecção de Avonex uma vez por semana. Tente utilizar Avonex à mesma hora do dia e no mesmo dia da semana.
+ Não é para crianças Avonex não se destina a ser utilizado em crianças com idade inferior a 12 anos.
+ 53 Se decidiu começar o tratamento com Avonex, seu médico pode recomendar que use cerca metade da dose de Avonex inicialmente, antes de aumentar para a dose total. O seu médico pode dar-lhe um Avostartclip que se ligue à seringa e reduza a dose de Avonex a ser injectada.
+ (Notes information)
+ Iniciar Avonex Se nunca tiver tomado Avonex antes, o seu médico pode aconselhar a iniciar com a dose inferior para que possa ajustar-se aos efeitos de Avonex antes de aumentar para a dose total. Pode ser-lhe dado um Avostartclip. Este Avostartclip vai ligar-se à seringa e permitir que cerca de metade da dose de Avonex seja administrada. Para mais informações sobre a utilização, por favor siga as instruções dadas com Avostartclip.
+ Auto-injectar-se Pode auto-injectar Avonex sem a ajuda do seu médico, desde que o tenham treinado para o fazer. As instruções para a auto-injecção encontram-se no fim deste folheto (ver secção 7, Como injectar o AVONEX).
+ Se tiver problemas no manuseamento da seringa, fale com o médico. Ele poderá ajudar.
+ (Notas informativas)
+ Encontrará mais informações sobre como injectar Avonex no fim deste folheto.
+ Agulha alternativa: A sua embalagem de Avonex já inclui uma agulha para injecção. O seu médico poderá prescrever-lhe uma agulha mais curta e mais fina em função do seu tipo de corpo. Fale com o seu médico para ver se é a apropriada para si.
+ Se tiver problemas no manuseamento da seringa, fale com o seu médico sobre a hipótese de utilizar uma pega de seringa. Trata-se de uma pega especialmente concebida para o ajudar a injectar o Avonex.
+ Duração do tratamento com AVONEX O seu médico indicar-lhe-á o tempo que deverá continuar a utilizar Avonex. É importante continuar a utilizar Avonex regularmente. Não faça alterações, a menos que o seu médico lhe diga para o fazer.
+ Se injectar mais do que deveria Só deverá receber uma injecção de Avonex, uma vez por semana. Se tiver utilizado mais de uma injecção de Avonex num período de três dias, consulte imediatamente o seu médico ou farmacêutico.
+ Caso se esqueça de uma injecção No caso de se esquecer da sua dose semanal habitual, injecte uma dose assim que puder. Em seguida, deverá esperar uma semana antes de utilizar novamente Avonex. A partir daí, continue a injectar neste novo dia da semana. Se há um dia em que prefere utilizar Avonex, fale com o seu médico sobre como controlar a dose para voltar a administrá-la no dia da sua preferência.
+ Não utilize uma dose a dobrar para compensar a injecção que se esqueceu de administrar.
+ 54 4. EFEITOS SECUNDÁRIOS POSSIVEIS
+ Como todos os medicamentos, Avonex pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ (Notas informativas)
+ Embora a lista dos possíveis efeitos secundários lhe possa parecer preocupante, é possível que nunca venha a sofrer de nenhum deles.
+ Efeitos secundários graves: obtenha assistência médica
+ Reacções alérgicas graves Se tiver algum destes sintomas:
+ -inchaço da face, lábios ou língua
+ -dificuldade em respirar
+ -erupção cutânea
+ Contacte um médico imediatamente. Não volte a usar mais Avonex até ter falado com um médico.
+ Depressão Se tiver algum sintoma de depressão:
+ -sentimento não habitual de tristeza, ansiedade ou de baixa auto-estima.
+ Contacte um médico imediatamente. Problemas de fígado Se tiver algum destes sintomas:
+ -pele ou parte branca dos olhos amarelada (icterícia)
+ -prurido em todo o corpo
+ -sentir-se mal disposto, vomitar (náuseas e vómitos)
+ -facilidade para manifestar nódoas negras (hematomas).
+ Contacte um médico imediatamente porque poderão ser indícios de um possível problema de fígado.
+ Efeitos secundários ocorridos em ensaios clínicos
+ (Notas informativas)
+ Efeitos secundários ocorridos em ensaios clínicos. Segue-se uma lista de efeitos secundários comunicados pelas pessoas quando o Avonex estava a ser testado. Os números baseiam-se no número de pessoas que disseram ter sentido os efeitos secundários. Dá-lhe uma ideia da probabilidade de vir a sofrer de efeitos secundários semelhantes.
+ Efeitos secundários muito frequentes (pelo menos 1 em cada 10 pessoas é afectada)
+ -sintomas gripais – cefaleia, dores musculares, arrepios ou febre: ver Sintomas gripais, a seguir
+ -cefaleia.
+ Efeitos secundários frequentes (menos de 1 em cada 10 pessoas é afectada)
+ -perda de apetite
+ -sensação de fraqueza e cansaço
+ -dificuldade em dormir
+ -depressão
+ 55
+ -rubor
+ -nariz a pingar
+ -fezes soltas (diarreia)
+ -sentir-se mal disposto ou vomitar (náuseas ou vómitos)
+ -dormência ou formigueiro na pele
+ -erupção cutânea, nódoas negras (hematomas)
+ -aumento da sudação, suores nocturnos
+ -dores musculares, nas articulações, braços, pernas ou pescoço
+ -cãibras musculares, rigidez nas articulações e músculos
+ -dor, nódoas negras (hematomas) e vermelhidão no local da injecção
+ -alterações nos resultados de análises ao sangue. Os sintomas que poderá notar são cansaço,
+ infecção repetida, hematoma inexplicável ou hemorragia.
+ Efeitos secundários pouco frequentes (menos de 1 em cada 100 pessoas é afectada)
+ -perda de cabelo
+ -alterações no período menstrual
+ -sensação de ardor no local da injecção.
+ Efeitos secundários raros (menos de 1 em cada 1000 pessoas é afectada)
+ -dificuldade em respirar.
+ Se algum dos efeitos secundários o incomodar, fale com o seu médico.
+ Outros efeitos secundários (Notas informativas)
+ Estes efeitos ocorreram em pessoas a tomar Avonex, mas não sabemos qual a probabilidade de virem a acontecer.
+ -actividade acrescida ou diminuída da tiróide
+ -nervosismo ou ansiedade, instabilidade emocional, pensamentos irracionais ou alucinações (ver
+ ou ouvir coisas que não são reais), confusão ou suicídio
+ -dormência, tonturas, convulsões ou crises e enxaquecas
+ -consciência dos batimentos cardíacos (palpitações), batimento cardíaco rápido ou irregular ou
+ problemas cardíacos que apresentariam os seguintes sintomas: diminuição da capacidade de efectuar exercício físico, incapacidade de permanecer deitado completamente na horizontal na cama, falta de ar ou tornozelos inchados
+ -problemas de fígado conforme descritos acima
+ -urticária ou erupção cutânea com bolhas, prurido, agravamento da psoríase se sofrer de psoríase.
+ -inchaço ou hemorragia no local da injecção ou dor no peito após a injecção.
+ -aumento ou perda de peso.
+ -alterações nos resultados das análises, incluindo alterações nos resultados das análises à função
+ hepática. Se algum dos efeitos secundários o incomodar, fale com o seu médico.
+ Efeitos da injecção -Sensação de desmaio: A sua primeira injecção de Avonex pode ser administrada pelo seu
+ médico. Poderá sentir uma sensação de desmaio. Poderá mesmo desmaiar. É improvável que isto volte a acontecer.
+ -Logo após uma injecção, poderá sentir os músculos tensos ou muito fracos – como se
+ estivesse a ter um surto. Isto é raro. Só acontece na altura da injecção e os efeitos passam rapidamente. Podem ocorrer em qualquer altura depois de começar a utilizar Avonex.
+ 56
+ -Se notar alguma irritação ou problemas cutâneos após uma injecção, fale com o seu médico.
+ Sintomas gripais (Notas informativas)
+ Três formas simples de ajudar a reduzir o impacto dos sintomas gripais: 1. Administre a sua injecção de Avonex mesmo antes da hora de deitar. Desta forma é possível que durma durante a ocorrência dos efeitos 2. Tome paracetamol ou ibuprofeno meia hora antes da injecção de Avonex e continue a tomar durante, no máximo, um dia. Fale com o seu médico ou farmacêutico sobre qual será a dose adequada. 3. Se tiver febre, beba muita água para se manter hidratado.
+ Algumas pessoas notam que após injectarem Avonex, se sentem como se tivessem gripe. Os sinais são:
+ -cefaleia
+ -dores musculares
+ -arrepios ou febre.
+ Na verdade, estes sintomas não são uma gripe. Não os transmite a ninguém. São mais frequentes quando começa a utilizar o Avonex. À medida que vai administrando as suas injecções, os sintomas gripais diminuem gradualmente.
+ 5. COMO CONSERVAR AVONEX Manter fora do alcance e da vista das crianças.
+ Não utilize Avonex após o prazo de validade impresso no rótulo.
+ Conservar na embalagem de origem (suporte de plástico selado) para proteger da luz. Conservar no frigorífico (2 °C-8 °C). Não congelar. Avonex pode ser conservado à temperatura ambiente (entre 15 ºC e 30 ºC) durante uma semana, no máximo.
+ NÃO utilize AVONEX se verificar -que a seringa pré-cheia está partida.
+ -que o suporte de plástico está danificado ou aberto.
+ -que a solução apresenta cor ou partículas em suspensão.
+ -que a tampa inviolável foi partida.
+ Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 6. OUTRAS INFORMAÇÕES Componentes A substância activa é: Interferão beta-1a 30 microgramas/0,5 ml Os outros componentes são: Acetato de sódio trihidratado; ácido acético glacial, cloridrato de arginina, polissorbato 20 e água para injectáveis.
+ 57 O que contém a sua embalagem de Avonex
+ Avonex Solução para injectáveis é fornecido sob a forma de injecção pronta a usar. Uma caixa de Avonex contém quatro ou doze seringas (previamente cheias) prontas a usar, cada qual contendo no seu interior 0,5 ml de um líquido transparente e incolor. É possível que não sejam comercializadas todas as apresentações. Cada seringa está embalada num suporte de plástico selado. O suporte inclui também uma agulha separada para dar a injecção.
+ O titular da autorização de introdução no mercado é:
+ Biogen Idec Limited, Innovation House,70 Norden Road, Maidenhead, Berkshire, SL6 4AY, Reino Unido.
+ Avonex é fabricado por: Biogen Idec BV, Robijnlaan 8, NL-2132 WX Hoofddorp, Países Baixos. Biogen Idec Denmark Manufacturing ApS, Biogen Idec Allé 1, DK-3400 Hillerød, Dinamarca. Pode obter uma versão impressa deste folheto de maiores dimensões contactando os representantes locais.
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado.
+ België/Belgique/Belgien Biogen Idec Belgium N. V./S. A. +32 2 2191218
+ Luxembourg/Luxemburg Biogen Idec Belgium N. V./S. A. +32 2 2191218
+ България ТП ЕВОФАРМА +359 2 962 12 00
+ Magyarország Gedeon Richter Plc. +36 1 432 6097
+ Česká republika Biogen Idec Czech Republic s. r. o. +420 222 191 640
+ Malta Interpharma Co. Ltd. +356 21354582
+ Danmark Biogen Idec Denmark A/S
+ Nederland Biogen Idec International B. V.
+ +45 77 41 57 57
+ +31 20 542 2000
+ Deutschland Biogen Idec GmbH +49 (0) 89 99 6170
+ Norge Biogen Idec Norway AS +47 23 00 52 50
+ Eesti Richter Gedeon Eesti filiaal +372 742 7056
+ Österreich Biogen Idec Austria GmbH. +43 1 484 46 13
+ Ελλάδα Genesis Pharma SA +30 210 8771500
+ Polska Gedeon Richter Plc. S. A. Przedstawicielstwo w Polsce. +48 (22) 642-67-39
+ España Biogen Idec Iberia SL +34 91 310 7110
+ Portugal Biogen Idec Portugal, Sociedade Unipessoal, Lda. +351 21 318 8450
+ 58 France Biogen Idec France +33 (0) 1 41 37 9595
+ România MEDISON PHARMA SRL+ 40 31 7104035
+ Ireland Biogen Idec (Ireland) Ltd. +353 (0) 1 463 7799
+ Slovenija Biogen Idec d. o. o. +386 1 589 91 04
+ Ísland Icepharma hf +354 540 8000
+ Slovenská republika Biogen Idec (Slovak Republic) s. r. o +421 2 32410188
+ Italia Biogen-Dompé s. r. l. +39 02 583 831
+ Suomi/Finland Biogen Idec Finland Oy +358 207 401 200
+ Κύπρος Genesis Pharma Cyprus Ltd +3572 2 769946
+ Sverige BiogenIdec Sweden AB +46 8 594 113 60
+ Latvija Gedeon Richter Plc. +36 1 432 6097
+ United Kingdom Biogen Idec Limited +44 (0) 1628 50 1000
+ Lietuva Gedeon Richter Plc. +36 1 432 6097
+ Este folheto foi aprovado pela última vez em{ MM/AAAA}
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu.
+ 7. COMO INJECTAR AVONEX Deverá ter recebido formação sobre como injectar Avonex Estas notas são um lembrete. Se tiver alguma dúvida, consulte o seu médico ou farmacêutico.
+ Onde injectar • Avonex é injectado num músculo, por exemplo, nos músculos da parte superior da coxa. Não se recomenda que a injecção de Avonex seja administrada nas nádegas. • Utilize um local de injecção diferente todas as semanas. Isto significa menos risco de irritação da pele e músculo. • Não utilize zonas da pele que apresentem hematomas, estejam doridas ou infectadas ou se houver uma ferida aberta.
+ 59 CONTEÚDO DO SUPORTE DE PLÁSTICO Êmbolo Tampa branca inviolável
+ seringa
+ tampa da agulha
+ agulha
+ A. Preparação 1. Retire um suporte de plástico selado do frigorífico.
+ -
+ Verifique a data de validade na tampa do suporte. Não utilize se o prazo tiver expirado.
+ -
+ Retire todo o invólucro de papel. Verifique se o suporte blister contém uma seringa pré-cheia e uma agulha para injecção (ver imagem" Conteúdo do suporte de plástico").
+ 2. Deixe a- seringa aquecer Deixe-a à temperatura ambiente durante meia hora. Isto torna a injecção mais confortável do que se a injectar logo após a retirar do frigorífico.
+ Sugestão: Não utilize fontes de calor externas como, por exemplo, água quente para aquecer a seringa.
+ 3. Lave muito bem as mãos com água e sabão e seque-as.
+ 4. Prepare toalhetes com álcool e pensos rápidos (não fornecidos) se precisar deles.
+ Procure uma superfície limpa e rígida para colocar os elementos necessários para a injecção. Coloque o suporte sobre esta.
+ B. Preparar a injecção 1 Verifique o líquido na seringa Deve ser transparente e incolor. Se a solução estiver turva, apresentar alguma cor ou se contiver partículas suspensas, não utilize a seringa pré-cheia.
+ 60 2 Retire a tampa da seringa A seringa tem uma tampa branca inviolável. Certifique-se de que a tampa está intacta e de que não foi aberta. Se lhe parecer ter sido aberta, não utilize essa seringa. Segure na seringa de forma a que a tampa branca fique virada para cima. Dobre a tampa em ângulo recto até partir. Não toque no orifício de ligação. Não empurre o êmbolo.
+ 3 Coloque a agulha Abra a agulha deixando o orifício de ligação à mostra. Mantenha a tampa colocada. Coloque a agulha na seringa. Rode no sentido dos ponteiros do relógio até travar no devido lugar. Sugestão: Certifique-se de que a agulha para injecção está bem firme na seringa. Caso contrário, poderá haver uma fuga. Se lhe tiverem receitado metade da dose de Avonex, pode precisar de usar o Avostartclip que o seu médico lhe der. Por favor, siga as instruções dadas com Avostartclip. Agora puxe e tire a tampa de plástico da agulha. Não rode. Sugestão: Se rodar a tampa da agulha para a tirar, poderá retirar, acidentalmente, também a agulha.
+ C. Administrar a injecção 1 Limpe e estique o local da injecção Se precisar, utilize um toalhete com álcool para limpar a pele no local que escolheu para dar a injecção. Deixe a pele secar. Com uma mão, estique a pele em volta do local da injecção. Descontraia o músculo.
+ 2 Dê a injecção Introduza a agulha da injecção com um movimento rápido, em ângulo recto em relação à pele, no músculo. A agulha deve penetrar em todo o seu comprimento. Empurre lentamente o êmbolo até a seringa ficar vazia. Se estiver a usar uma seringa que tenha a Avostartclip anexa, vai receber cerca de metade da dose de Avonex. A seringa não esvaziará.
+ 3 Puxe a agulha para fora Mantenha a pele bem esticada ou aperte a pele à volta do local da injecção e puxe a agulha para fora. Se utilizar toalhetes com álcool, mantenha um no local da injecção. Coloque um penso em cima do local da injecção se vir que é preciso.
+ 61 Elimine o lixo da forma adequada
+ Depois de terminar uma injecção, coloque a agulha e a seringa dentro de um recipiente especial (por exemplo, um recipiente para objectos afiados) e não no lixo normal. Se usou o Avostartclip, a seringa (e a Avostartclip) tem que ser deitada fora depois. A porção não usada de Avonex não pode voltar a ser usada. O papel e os toalhetes usados devem ser colocados num caixote de lixo normal.
+ 62

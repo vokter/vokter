@@ -1,0 +1,396 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. NOME DO MEDICAMENTO
+ Nexavar 200 mg comprimidos revestidos por película
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada comprimido revestido por película contém 200 mg de sorafenib (na forma de tosilato).
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Comprimido revestido por película. Comprimidos revestidos por película, vermelhos, redondos, biconvexos, com a cruz Bayer numa das faces e “ 200 ” na outra face.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Carcinoma hepatocelular Nexavar está indicado para o tratamento do carcinoma hepatocelular (ver secção 5.1).
+ Carcinoma de células renais Nexavar está indicado para o tratamento de doentes com carcinoma de células renais avançado que registaram falha prévia com tratamento com interferon-alfa ou interleuquina-2 ou que não são considerados elegíveis para esses tratamentos.
+ 4.2 Posologia e modo de administração O tratamento com Nexavar deve ser vigiado por um médico com experiência na utilização de tratamentos anticancerígenos. A posologia recomendada de Nexavar em adultos é de 400 mg (dois comprimidos de 200 mg) duas vezes ao dia (equivalente a uma posologia diária total de 800 mg). Recomenda-se que sorafenib seja administrado sem alimentos ou com uma refeição com um teor em gorduras baixo ou moderado. Caso o doente tencione ingerir uma refeição com um teor de gorduras elevado, os comprimidos de sorafenib devem ser tomados pelo menos 1 hora antes ou 2 horas após a refeição. Os comprimidos devem ser engolidos com um copo de água.
+ O tratamento deve ser mantido enquanto se observar benefício clínico ou até ocorrer toxicidade inaceitável.
+ Ajustamentos posológicos: O tratamento de suspeitas de reacções adversas pode exigir a interrupção temporária ou a redução posológica do tratamento com Nexavar. Se for necessária uma redução posológica, a posologia de Nexavar deve ser reduzida para dois comprimidos de 200 mg uma vez ao dia (ver secção 4.4).
+ Doentes pediátricos: a segurança e eficácia em crianças e adolescentes (&lt; 18 anos) não foi estudada. Nexavar não é recomendado para utilização em crianças e adolescentes devido à ausência de dados de segurança e eficácia (ver secção 5.3).
+ 2 Doentes idosos: não são necessários ajustamentos posológicos nos idosos (doentes acima de 65 anos de idade).
+ Compromisso renal: não são necessários ajustamentos posológicos em doentes com compromisso renal ligeiro, moderado ou grave. Não existem dados disponíveis em doentes necessitando de diálise (ver secção 5.2).
+ É aconselhada a monitorização do equilíbrio hidroelectrolítico em doentes com risco de compromisso renal.
+ Compromisso hepático: não é necessário ajustamento posológico em doentes com compromisso hepático Child Pugh A e B (ligeiro a moderado). Não existem dados disponíveis em doentes com compromisso hepático Child Pugh C (grave) (ver secção 4.4 e 5.2).
+ 4.3 Contra-indicações Hipersensibilidade à substância activa ou a qualquer um dos excipientes.
+ 4.4 Advertências e precauções especiais de utilização
+ Toxicidade dermatológica: reacção cutânea mão-pé (eritrodisestesia palmo-plantar) e erupções cutâneas constituem as reacções adversas mais comuns com Nexavar. As erupções cutâneas e as reacções cutâneas mão-pé são usualmente do grau 1 e 2 CTC (Common Toxicity Criteria) e surgem geralmente durante as primeiras seis semanas de tratamento com Nexavar. O tratamento da toxicidade dermatológica pode incluir tratamentos tópicos para alívio sintomático, interrupção temporária do tratamento e/ou modificação da posologia de Nexavar, ou em casos graves ou persistentes, interrupção permanente de Nexavar (ver secção 4.8).
+ Hipertensão: nos doentes tratados com Nexavar foi observado um aumento da incidência de hipertensão arterial. A hipertensão foi usualmente ligeira a moderada, ocorreu numa fase inicial do tratamento, e respondeu à terapêutica antihipertensiva padrão. A pressão sanguínea deve ser monitorizada regularmente e se necessário tratada de acordo com a prática médica padrão. Nos casos de hipertensão persistente ou grave, ou crise hipertensiva apesar da instituição de terapêutica antihipertensiva, deve considerar-se a interrupção permanente do tratamento com Nexavar (ver secção 4.8).
+ Hemorragia: pode ocorrer um aumento do risco de hemorragia após a administração de Nexavar. Se algum acontecimento hemorrágico necessitar de intervenção médica recomenda-se que seja considerada a interrupção permanente de Nexavar (ver secção 4.8).
+ Isquémia e/ou enfarte do miocárdio: num estudo aleatorizado, controlado por placebo e duplo cego (estudo 1, ver secção 5.1) a incidência de acontecimentos de isquémia/enfarte do miocárdio emergentes ao tratamento foi superior no grupo Nexavar (2,9%) em comparação com o grupo tratado com placebo (0,4%). No estudo 3 (ver secção 5.1) a incidência de acontecimentos de isquémia/enfarte do miocárdio emergentes ao tratamento foi de 2,7% nos doentes do grupo Nexavar em comparação com 1,3% no grupo placebo. Os doentes com doença cardíaca coronária instável ou enfarte recente do miocárdio foram excluídos destes estudos. Deve considerar-se a interrupção temporária ou permanente de Nexavar nos doentes que desenvolvem isquémia e/ou enfarte do miocárdio (ver secção 4.8).
+ Perfuração gastrointestinal: perfuração gastrointestinal é um efeito pouco frequente que foi notificado em menos de 1% dos doentes a tomar sorafenib. Em alguns casos isto não foi associado com um tumor intra-abdominal aparente. O tratamento com sorafenib deve ser interrompido (ver secção 4.8).
+ Compromisso hepático: não existem dados disponíveis em doentes com compromisso hepático Child Pugh C (grave). Nos doentes com compromisso hepático grave a exposição ao sorafenib poderá aumentar uma vez que o sorafenib é principalmente eliminado por via hepática (ver secção 4.2 e 5.2).
+ 3 Co-administração com varfarina: foram notificadas hemorragias infrequentes ou elevações da Taxa Internacional Normalizada (TIN) durante o tratamento com Nexavar em alguns doentes a tomar varfarina. Os doentes concomitantemente tratados com varfarina ou fenprocumom devem ser regularmente monitorizados relativamente a alterações no tempo de protrombina, TIN ou episódios clínicos de hemorragia (ver secções 4.5 e 4.8).
+ Complicações da cicatrização de feridas: não foram realizados estudos formais sobre os efeitos de sorafenib na cicatrização de feridas. Por razões de precaução é recomendada a interrupção temporária da terapêutica com Nexavar em doentes submetidos a grandes cirurgias. Existe uma experiência clínica limitada relativamente ao tempo de reinício da terapêutica após grandes intervenções cirúrgicas. Desta forma a decisão de reiniciar a terapêutica com Nexavar após uma grande intervenção cirúrgica deve basear-se na apreciação clínica da cicatrização adequada da ferida.
+ Idosos: a experiência com a utilização de Nexavar em doentes idosos é limitada. Foram notificados casos de insuficiência renal. Deve ser considerada a monitorização da função renal.
+ Carcinoma de células renais: doentes de alto risco, de acordo com o grupo de prognóstico MSKCC (Memorial Sloan Kettering Cancer Center), não foram incluidos no estudo clínico de fase III no carcinoma de células renais (ver estudo 1 na secção 5.1), e a relação risco-benefício nestes doentes não foi avaliada.
+ Interacções medicamentosas: Recomenda-se precaução ao administrar Nexavar com compostos que são metabolisados/eliminados predominantemente pelas vias UGT1A1 (ex.: irinotecano) ou UGT1A9 (ver secção 4.5).
+ Recomenda-se precaução quando sorafenib é administrado concomitantemente com docetaxel (ver secção 4.5).
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Indutores de enzimas metabólicas: a administração de rifampicina 5 dias antes da administração de uma dose única de sorafenib resultou numa redução média de 37% da AUC do sorafenib. Outros indutores da actividade do CYP3A4 e/ou glucoronidação (ex.: Hypericum perforatum também conhecido como erva S. João, fenitoína, carbamazepina, fenobarbital e dexametasona) podem também aumentar o metabolismo do sorafenib e assim diminuir as concentrações de sorafenib.
+ Inibidores do CYP3A4: o cetoconazol, um inibidor potente do CYP3A4, administrado uma vez ao dia durante 7 dias a voluntários saudáveis do sexo masculino não alterou a AUC média de uma dose única de 50 mg de sorafenib. Estes dados sugerem como improváveis interacções farmacocinéticas clínicas de sorafenib com inibidores do CYP3A4.
+ Substratos do CYP2C9: o sorafenib inibiu o CYP2C9 in vitro. Não pode excluir-se a possibilidade do sorafenib poder aumentar as concentrações de substratos do CYP2C9 administrados concomitantemente. O tratamento concomitante com Nexavar e varfarina, um substrato do CYP2C9, não originou alterações na média do TP-TIN em comparação com o placebo. Contudo, os doentes a tomar varfarina ou fenprocumom devem verificar regularmente a sua TIN (ver secção 4.4).
+ Substratos do CYP2B6 e CYP2C8: o sorafenib inibiu o CYP2B6 e o CYP2C8 in vitro mas a relevância clínica desta inibição não foi avaliada. Não pode excluir-se que o sorafenib possa aumentar as concentrações de substratos do CYP2B6 (ex.: amfebutamona, ciclofosfamida, efavirenz, ifosfamida, metadona) e do CYP2C8 (ex.: paclitaxel, amodiaquina, repaglinida) administrados concomitantemente.
+ Substratos do UGT1A1 e UGT1A9: In vitro, o sorafenib inibiu a glucoronidação via UGT1A1 e UGT1A9. Desconhece-se a relevância clínica desta observação (ver abaixo e secção 4.4).
+ 4 Substratos selectivos de isoformas do CYP: a administração concomitante de sorafenib e midazolam, dextrometorfano ou omeprazol, os quais são substratos dos citocromos CYP3A4, CYP2D6 e CYP2C19, respectivamente, não alterou a exposição a estes agentes. Isto indica que o sorafenib não é nem um inibidor nem um indutor destas isoenzimas do citocromo P450. Desta forma são improváveis interacções farmacocinéticas clínicas de sorafenib com substratos destas enzimas.
+ Estudos in vitro de indução de enzimas CYP: as actividades do CYP1A2 e CYP3A4 não foram alteradas após tratamento de culturas de hepatócitos humanos com sorafenib o que indica que é improvável que o sorafenib seja um indutor do CYP1A2 e CYP3A4.
+ Substratos-gp-P: In vitro, o sorafenib demonstrou inibir a proteína de transporte glicoproteína-p (gp-P). Durante o tratamento concomitante com sorafenib não pode excluir-se o aumento das concentrações plasmáticas de substratos gp-P tais como a digoxina.
+ Combinação com outros agentes anti-neoplásicos: em estudos clínicos, Nexavar foi administrado com uma variedade de outros agentes anti-neoplásicos nos seus regimes posológicos usuais, incluindo a gemcitabina, oxaliplatina, doxorrubicina e irinotecano. O sorafenib não exerceu efeito sobre a farmacocinética da gemcitabina ou oxaliplatina. O tratamento concomitante com Nexavar resultou num aumento de 21% na AUC da doxorrubicina. Quando administrado com irinotecano, cujo metabolito activo SN-38 é metabolisado pela via do UGT1A1, houve um aumento de 67 – 120% na AUC do SN-38 e de 26 – 42% na AUC do irinotecano. Desconhece-se o significado clínico destas observações (ver secção 4.4). O docetaxel (75 ou 100 mg/m2 administrado uma vez a cada 21 dias) quando administrado concomitantemente com sorafenib (200 mg duas vezes ao dia ou 400 mg duas vezes ao dia administrados nos Dias 2 a 19 de um ciclo de 21 dias com um intervalo de 3 dias na dosagem em torno da administração de docetaxel) resultou num aumento de 36-80% na AUC de docetaxel e num aumento de 16-32% na Cmax de docetaxel. Recomenda-se precaução ao administrar sorafenib concomitantemente com docetaxel (ver secção 4.4).
+ 4.6 Gravidez e aleitamento Não existem dados sobre a utilização de sorafenib em mulheres grávidas. Os estudos em animais demonstraram toxicidade reprodutiva incluindo malformações (ver secção 5.3). Em ratos, o sorafenib e os seus metabolitos demonstraram atravessar a placenta e é previsível que o sorafenib cause efeitos nocivos sobre o feto. Nexavar não deve ser usado durante a gravidez a não ser que seja claramente necessário, após uma cuidadosa consideração das necessidades da mãe e do risco para o feto. As mulheres em idade fértil devem utilizar medidas de contracepção efectiva durante o tratamento. Resultados de estudos em animais sugerem adicionalmente que o sorafenib pode afectar a fertilidade masculina e feminina (ver secção 5.3).
+ Desconhece-se se o sorafenib é excretado no leite humano. Em animais, o sorafenib e/ou os seus metabolitos foram excretados no leite. Uma vez que o sorafenib pode prejudicar o crescimento e desenvolvimento infantil (ver secção 5.3), as mulheres não devem amamentar durante o tratamento com sorafenib.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas. Não existem evidências de que o Nexavar afecte a capacidade de conduzir ou utilizar máquinas.
+ 4.8 Efeitos indesejáveis As reacções adversas mais comuns foram diarreia, erupções cutâneas, alopécia e síndrome mão-pé (corresponde a síndrome eritrodisestesia palmo-plantar no MedDRA).
+ 5 Quadro 1: Reacções adversas notificadas em pelo menos 5% dos doentes em qualquer grupo de tratamento – estudo 11213 no carcinoma de células renais (ver estudo 1 na secção 5.1).
+ Nexavar N=451 Placebo N=451 Classe de sistema de órgãos Doenças do
+ Termo preferido todos os graus
+ grau 3
+ grau 4
+ todos os grau 3 graus
+ grau 4
+ metabolismo e da nutrição Doenças do sistema
+ anorexia
+ 9% &lt; 1%
+ 0% 5% &lt; 1% 0% nervoso
+ cefaleias
+ 6% 0% 0% 3% 0% 0% Vasculopatias hipertensão rubor
+ 12% 6% 2% 0% &lt; 1% 0%
+ 1% &lt; 1% 2% 0% 0% 0% Doenças gastrointestinais Afecções dos tecidos
+ diarreia náuseas vómitos obstipação erupções
+ 38% 16% 10% 6% 2% &lt; 1% &lt; 1% 0% 0% 0% 0% 0% 9% &lt; 1% 12% &lt; 1% 6% &lt; 1% 3% 0%
+ 0% 0% 0% 0% cutâneos e
+ cutâneas
+ 28% &lt; 1%
+ 0% 9% &lt; 1% 0% subcutâneas
+ alopécia síndrome
+ 25% &lt; 1%
+ 0% 3% 0% 0% mão-pé **
+ 19% 4% 0% 3% 0% 0% prurido eritema pela seca esfoliação
+ 17% 15% 11% &lt; 1% 0% 0%
+ 0% 0% 0% 4% 0% 4% 0% 2% 0%
+ 0% 0% 0% cutânea
+ 7% &lt; 1%
+ 0% 2% 0% 0% Afecções musculosqueléticas e
+ artralgia dor nas
+ 6% &lt; 1%
+ 0% 3% 0% 0% dos tecidos conjuntivos
+ extremidades
+ 6% &lt; 1%
+ 0% 2% 0% 0% Perturbações gerais e alterações no local
+ fadiga
+ 15% 2% 0% 11% &lt; 1% 0% de administração
+ astenia
+ 9% &lt; 1%
+ 0% 4% &lt; 1% 0% 6 Quadro 2: Reacções adversas notificadas em pelo menos 5% dos doentes em qualquer grupo de tratamento – estudo 100554 no carcinoma hepatocelular (ver estudo 3 na secção 5.1).
+ Classe de Nexavar N= 297 Placebo N= 302 Termo todos os
+ todos os
+ sistema de órgãos Doenças do
+ preferido
+ graus
+ grau 3
+ grau 4
+ grau 3 graus
+ grau 4
+ metabolismo e da nutrição
+ anorexia
+ 11% &lt; 1%
+ 0% 3% &lt; 1% 0% Doenças gastrointestinais diarreia náuseas dor
+ 39% 11% 8% &lt; 1% 0% 0% 11% 2% 8% 1%
+ 0% 0% abdominal
+ 7% 2% 0% 3% &lt; 1% 0% Afecções dos vómitos síndrome
+ 5% 1% 0% 3% &lt; 1% 0% tecidos cutâneos
+ mão-pe **
+ 18% 7% 0% 2% 0% 0% e subcutâneas
+ alopecia erupções
+ 14% 0% 0% 2% 0% 0% cutâneas
+ 11% &lt; 1%
+ 0% 8% 0% 0% prurido pele seca
+ 8% 8% 0% 0% 0% 0% 7% &lt; 1% 4% 0%
+ 0% 0% Perturbações gerais e alterações no
+ fadiga
+ 17% 2% &lt; 1%
+ 13% 3% &lt; 1%
+ local de administração Exames
+ astenia diminuição
+ 6% 1% &lt; 1%
+ 2% &lt; 1% 0% complementares de diagnóstico Doenças respiratórias,
+ de peso
+ 9% 2% 0% &lt; 1% 0%
+ 0% torácicas e do mediastino
+ rouquidão
+ 5% 0% 0% &lt; 1% 0%
+ 0% Reacções adversas notificadas em múltiplos ensaios clínicos encontram-se listadas abaixo no quadro 3 por classe de sistema de órgãos (em MedDRA) e frequência. As frequências são definidas como: muito frequente (≥ 1/10), frequente (≥ 1/100, &lt; 1/10), pouco frequente (≥ 1/1.000, &lt; 1/100).
+ Dentro de cada grupo de frequência os efeitos indesejáveis são apresentados por ordem decrescente de gravidade.
+ 7 Quadro 3: Totalidade das reacções adversas notificadas em doentes em múltiplos ensaios clínicos.
+ Classe de sistema de órgãos Infecções e infestações
+ Muito frequente ≥ 1/10 Frequente ≥1/100, &lt; 1/10 Pouco frequente ≥1/1.000, &lt; 1/100 foliculite infecção
+ Doenças do sangue e do sistema linfático
+ linfopenia
+ leucopenia neutropenia anemia trombocitopenia
+ Doenças do sistema imunitário reacções de hipersensibilidade (incluíndo reacções cutâneas e urticária)
+ Doenças endócrinas hipotiroidismo hiponatrémia
+ Doenças do metabolismo e da nutrição
+ hipofosfatémia
+ anorexia
+ desidratação
+ Perturbações do foro psiquiátrico depressão
+ Doenças do sistema nervoso Afecções do ouvido e labirinto
+ neuropatia sensorial periférica acufeno
+ Leucoencefalopatia posterior reversível* Cardiopatias enfarte e isquémia do miocárdio* Insuficiência cardíaca congestiva*
+ Vasculopatias Hemorragia (inc. hemorragia gastrointestinal* do tracto respiratório* e cerebral*) hipertensão
+ crise hipertensiva*
+ Doenças respiratórias, torácicas e do mediastino
+ rouquidão
+ rinorreia
+ Doenças diarreia
+ obstipação
+ doença de refluxo
+ gastrointestinais
+ náuseas
+ estomatite (incluíndo
+ gastroesofágico
+ Afecções hepatobiliares
+ vómitos
+ boca seca e glossodinia) dispepsia disfagia
+ pancreatite gastrite perfurações gastrointestinais* aumento da bilirrubina e icterícia colecistite colangite
+ 8 Classe de sistema de órgãos
+ Muito frequente ≥ 1/10 Frequente ≥1/100, &lt; 1/10 Pouco frequente ≥1/1.000, &lt; 1/100 Afecções dos tecidos erupções cutâneas
+ pele seca
+ eczema
+ cutâneos e
+ alopécia
+ dermatite exfoliativa
+ eritema multiforme
+ subcutâneas
+ síndrome mão-pé **
+ acne
+ minor
+ eritema prurido
+ descamação cutânea
+ queratoacantoma carcinoma de células escamosas da pele
+ Afecções musculosqueléticas e dos tecidos conjuntivos
+ artralgia mialgia
+ Doenças renais e urinárias Insuficiência renal Doenças dos órgãos genitais e da mama
+ disfunção eréctil
+ ginecomastia
+ Perturbações gerais e fadiga
+ astenia
+ alterações no local de
+ dor (incluindo na
+ febre
+ administração
+ cavidade oral,
+ doença do tipo
+ abdominal, óssea, dor tumoral e cefaleias)
+ influenza
+ Exames aumento da amilase
+ diminuição de peso
+ aumento transitório
+ complementares de
+ aumento da lipase
+ aumento transitório
+ da fosfatase alcalina
+ diagnóstico
+ das transaminases
+ sanguínea, TIN anormal, nível de protrombina anormal
+ * As reacções adversas podem colocar a vida em risco ou ter um desfecho fatal ** síndrome mão-pé corresponde a síndrome eritrodisestesia palmo-plantar no MedDRA
+ Alterações dos testes laboratoriais Aumentos da lipase e da amilase foram notificados muito frequentemente. Ocorreram elevações da lipase de grau 3 ou 4 CTCAE em 11% e em 9% dos doentes do grupo Nexavar no estudo 1 (CCR) e no estudo 3 (CHC), respectivamente, em comparação com 7% e 9% dos doentes do grupo placebo. Foram notificadas elevações da amilase de grau 3 ou 4 CTCAE em 1% e em 2% dos doentes do grupo Nexavar no estudo 1 e no estudo 3 respectivamente, em comparação com 3% dos doentes em cada grupo placebo. Nos doentes tratados com Nexavar foi notificada pancreatite clínica, em 2 de 451 doentes (CTCAE grau 4) no estudo 1, em 1 de 297 doentes (CTCAE grau 2) no estudo 3, e em 1 de 451 doentes (CTCAE grau 2) no grupo placebo no estudo 1.
+ Hipofosfatémia constituiu uma observação laboratorial muito comum observada em 45% e em 35% dos doentes tratados com Nexavar em comparação com 12% e 11% dos doentes placebo no estudo 1 e no estudo 3 respectivamente. No estudo 1 ocorreu hipofosfatémia de grau 3 CTCAE (1-2 mg/dl) em 13% dos doentes tratados com Nexavar e em 3% dos doentes do grupo placebo, e no estudo 3 em 11% dos doentes tratados com Nexavar e em 2% dos doentes do grupo placebo. No estudo 1 não houve casos notificados de hipofosfatémia grau 4 CTCAE (&lt; 1 mg/dl) quer nos doentes tratados com Nexavar quer com placebo e, no estudo 3 houve 1 caso no grupo placebo. Não se conhece a etiologia da hipofosfatémia associada ao Nexavar.
+ Alterações laboratoriais CTCAE de grau 3 ou 4 que ocorreram em ≥ 5% dos doentes tratados incluiram linfopenia e neutropenia.
+ 9 4.9 Sobredosagem
+ Não existe tratamento específico para a sobredosagem com Nexavar. A dose mais elevada de sorafenib estudada clinicamente é de 800 mg duas vezes ao dia. Os efeitos adversos observados com esta dose foram principalmente diarreia e acontecimentos dermatológicos. Na eventualidade de suspeita de sobredosagem, Nexavar deve ser suspenso e instituído tratamento de suporte quando necessário.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: inibidores da proteína quinase, Código ATC: L01XE05
+ Sorafenib é um novo inibidor multiquinase que demonstrou propriedades anti-proliferativas e anti-angiogénicas tanto in vitro como in vivo.
+ Mecanismo de acção e efeitos farmacodinâmicos Sorafenib é um inibidor multiquinase que diminui a proliferação das células tumorais in vitro. Sorafenib inibe o crescimento tumoral de um largo espectro de xenotransplantes tumorais humanos em ratinhos atímicos acompanhado por uma redução da angiogénese tumoral. Sorafenib inibe a actividade de alvos presentes nas células tumorais (CRAF, BRAF, V600E BRAF, c-KIT, e FLT-3) e na vasculatura tumoral (CRAF, VEGFR-2, VEGFR-3, e PDGFR-ß). As RAF quinases são quinases serina/treonina, enquanto que c-KIT, FLT-3, VEGFR-2, VEGFR-3, e PDGFR-ß são receptores quinase tirosina.
+ Eficácia clínica: A segurança e eficácia clínica de Nexavar foram estudadas em doentes com carcinoma hepatocelular (CHC) e em doentes com carcinoma de células renais avançado (CCR).
+ Carcinoma hepatocelular O estudo 3 (estudo 100554) foi um estudo de fase III, internacional, multicêntrico, aleatorizado, em duplo cego, controlado por placebo em 602 doentes com carcinoma hepatocelular. As características basais da doença e demográficas eram comparáveis entre o grupo Nexavar e o grupo placebo relativamente ao estado ECOG (estado 0: 54% vs 54%; estado 1: 38% vs 39%; estado 2: 8% vs 7%), estadio TMN (estadio I: &lt; 1% vs &lt; 1%; estadio II: 10,4% vs 8,3%; estadio III: 37,8% vs 43,6%; estadio IV: 50,8% vs 46,9%), e estadio BCLC (estadio B: 18,1% vs 16,8%; estadio C: 81,6% vs 83,2%; estadio D: &lt; 1% vs 0%).
+ O estudo foi interrompido após uma análise interina planeada da SG ter cruzado o limite pré-especificado da eficácia. Esta análise da SG mostrou uma vantagem estatisticamente significativa de Nexavar sobre placebo para a SG (HR: 0,69, p= 0,00058, ver Quadro 4). Nos factores pré-especificados de estratificação (estado ECOG, presença ou ausência de invasão vascular macroscópica e/ou disseminação extrahepática do tumor) o hazard ratio favoreceu consistentemente Nexavar sobre placebo. A análise descritiva de subgrupos sugeriu um efeito de tratamento potencialmente menos pronunciado para os subgrupos de doentes com idade inferior a 65 anos e para os doentes com doença metastática. Existem dados limitados deste estudo em doentes com compromisso hepático Child Pugh B e apenas foi incluído um doente com Child Pugh C.
+ 10 Quadro 4: Resultados de eficácia do estudo 3 (estudo 100554) no carcinoma hepatocelular
+ Parâmetro de eficácia Nexavar (N=299) Placebo (N=303) Valor-P HR (IC 95%) Sobrevivência global (SG)[ mediana, semanas (IC 95%)]
+ 46,3 (40,9; 57,9) 34,4 (29,4; 39,4) 0,00058* 0,69 (0,55; 0,87) Tempo para progressão (TPP)[ mediana, semanas (IC 95%)] **
+ 24,0 (18,0; 30,0) 12,3 (11,7; 17,1) 0,000007 0,58 (0,45; 0,74) IC=intervalo de confiança, HR=Hazard ratio (Nexavar sobre placebo)* estatisticamente significativo uma vez que o valor-p foi inferior ao limite pré-especificado de interrupção de O´Brien Fleming de 0,0077 ** revisão radiológica independente
+ Carcinoma de células renais A segurança e eficácia de Nexavar no tratamento do carcinoma de células renais avançado (CCR) foram estudadas nos seguintes dois estudos clínicos:
+ O estudo 1 (estudo 11213) foi um estudo de Fase III, multicêntrico, aleatorizado, duplo cego, controlado por placebo em 903 doentes. Apenas foram incluídos doentes com evidente carcinoma das células renais e risco MSKCC (Memorial Sloam Kettering Cancer Center) baixo e intermédio. Os marcadores primários foram a sobrevivência global e a sobrevivência sem progressão (SSP). Aproximadamente metade dos doentes teve 0 na escala de estado de desempenho ECOG (Eastern Cooperative Oncology Group) e metade dos doentes apresentavam-se no grupo de prognóstico baixo do MSKCC. A SSP foi avaliada através de uma revisão radiológica cega independente, utilizando os critérios RECIST. A análise SSP foi realizada aos 342 acontecimentos em 769 doentes. A mediana da SSP foi de 167 dias para os doentes aleatorizados a Nexavar em comparação com 84 dias para os doentes do grupo placebo (HR= 0,44; IC 95%: 0,35-0,55; p &lt; 0, 000.001). A idade, o grupo de prognóstico MSKCC, ED ECOG e a terapêutica anterior não afectaram a dimensão do efeito do tratamento.
+ Foi realizada uma análise interina da sobrevivência global (segunda análise interina) às 367 mortes em 903 doentes. O valor alfa nominal para esta análise foi de 0,0094. A mediana da sobrevivência foi de 19,3 meses para os doentes aleatorizados a Nexavar em comparação com 15,9 meses para os doentes placebo (HR= 0,77; IC 95%: 0,63-0,95; p= 0,15). No momento desta análise cerca de 200 doentes tinham passado do grupo placebo para o tratamento com sorafenib.
+ O estudo 2 foi um estudo de descontinuação de Fase II em doentes com metástases malignas incluindo CCR. Os doentes com doença estável tratados com Nexavar foram aleatorizados a placebo ou continuaram o tratamento com Nexavar. A sobrevivência sem progressão nos doentes com CCR foi significativamente superior no grupo Nexavar (163 dias) que no grupo placebo (41 dias) (p= 0,0001, HR= 0,29).
+ 5.2 Propriedades farmacocinéticas Absorção e Distribuição Após a administração de comprimidos de Nexavar a biodisponibilidade média relativa é de 38 – 49% quando comparada com uma solução oral. A biodisponibilidade absoluta não é conhecida. Após a administração oral o sorafenib alcança o pico da concentração plasmática em aproximadamente 3 horas. Quando administrado com uma refeição rica em lipidos, a absorção de sorafenib foi reduzida em 30% em comparação com a administração em jejum. A média da Cmax e AUC aumentaram menos que proporcionalmente com doses para além de 400 mg administradas duas vezes ao dia. A ligação do sorafenib às proteínas plasmáticas in vitro é de 99,5%.
+ 11 A administração de doses múltiplas de Nexavar durante 7 dias resultou numa acumulação de 2,5 a 7 vezes em comparação com a administração de doses únicas. As concentrações plasmáticas de sorafenib no estado estacionário são alcançadas no prazo de 7 dias, com uma relação pico vale de concentrações médias inferior a 2.
+ Metabolismo e eliminação A semi-vida de eliminação do sorafenib é de aproximadamente 25 – 48 horas. O sorafenib é metabolisado principalmente no fígado e sofre metabolismo oxidativo, mediado pelo CYP3A4, assim como glucoronidação mediada pelo UGT1A9. No estado estacionário o sorafenib representa cerca de 70-85% dos analitos circulantes no plasma. Foram identificados 8 metabolitos do sorafenib, dos quais cinco foram detectados no plasma. O principal metabolito circulante do sorafenib no plasma, a piridina N-óxido, apresenta uma potência in vitro semelhante à do sorafenib. No estado estacionário este metabolito representa cerca de 9-16% dos analitos circulantes.
+ Após a administração oral de uma dose de 100 mg de uma formulação de sorafenib em solução,96% da dose foi recuperada no prazo de 14 dias, com 77% da dose excretada nas fezes, e 19% da dose excretada na urina na forma de metabolitos glucoronidados. O sorafenib não alterado, representando 51% da dose, foi encontrado nas fezes mas não na urina indicando que a excreção biliar do fármaco inalterado pode contribuir para a eliminação do sorafenib.
+ Farmacocinética em populações especiais: as análises de dados demográficos sugerem que não existe relação entre a farmacocinética e a idade (até 65 anos) sexo ou peso corporal.
+ População pediátrica: não foram realizados estudos para investigar a farmacocinética do sorafenib em doentes pediátricos.
+ Raça: não existem diferenças clinicamente relevantes na farmacocinética entre indivíduos Caucasianos e Asiáticos.
+ Compromisso renal: em quatro estudos clínicos de Fase I, a exposição no estado estacionário ao sorafenib foi semelhante em doentes com compromisso renal ligeiro ou moderado em comparação com a exposição em doentes com a função renal normal. Num estudo de farmacologia clínica (dose única de 400 mg de sorafenib) não se observou relação entre a exposição ao sorafenib e a função renal em indivíduos com função renal normal, compromisso renal ligeiro, moderado ou grave. Não existem dados para doentes necessitando de diálise.
+ Compromisso hepático: em doentes com carcinoma hepatocelular com compromisso hepático ligeiro a moderado, os valores de exposição foram comparáveis e dentro do intervalo de exposições observado nos doentes sem compromisso hepático. Não existem dados para doentes com compromisso hepático Child Pugh C (grave). O sorafenib é principalmente eliminado através do fígado e a exposição pode encontrar-se aumentada nesta população de doentes.
+ 5.3 Dados de segurança pré-clínica O perfil de segurança pré-clínico do sorafenib foi avaliado em ratinhos, ratos, cães e coelhos. Os estudos de toxicidade por dose repetida revelaram alterações (degenerações e regenerações) em vários orgãos com exposições inferiores à exposição clínica antecipada (com base em comparações de AUC). Após exposição repetida a cães jovens e em crescimento, com exposições abaixo da exposição clínica, foram observados efeitos sobre o osso e dentes. As alterações consistiram num espessamento irregular da placa de crescimento femoral, hipocelularidade da medula óssea próxima da placa de crescimento alterada e alterações da composição da dentina. Em cães adultos não foram induzidos efeitos similares.
+ 12 Foi realizado o programa padrão de estudos de genotoxicidade e foram obtidos resultados positivos tais como um aumento de aberrações cromossómicas estruturais num ensaio in vitro em células de mamíferos (ovário de hamster chinês) para clastogenicidade na presença de activação metabólica. O sorafenib não foi genotóxico no teste de Ames nem no ensaio in vivo de micronúcleos de rato. Um intermediário do processo de fabrico que se encontra também presente na substância activa final (&lt; 0,15%), foi positivo para mutagénese num ensaio in vitro em células bacterianas (teste de Ames). Para além disso, o lote de sorafenib testado na bateria de genotoxicidade padrão incluía 0,34% de PAPE. Não foram realizados estudos de carcinogenicidade com sorafenib.
+ Não foram realizados em animais estudos específicos com sorafenib para avaliação dos efeitos sobre a fertilidade. No entanto é de prever um efeito adverso sobre a fertilidade feminina e masculina pois os estudos por administração repetida em animais demonstraram alterações nos órgãos reprodutores masculinos e femininos com exposições inferiores à exposição clínica antecipada (com base na AUC). As alterações típicas consistiram em sinais de degeneração e retardação dos testículos, epidídimos, próstata e vesícula seminal de ratos. Os ratos fêmea apresentaram necrose central dos corpos lúteos e paragem do desenvolvimento folicular nos ovários. Os cães apresentaram degeneração tubular nos testículos e oligospermia.
+ O sorafenib demonstrou ser embriotóxico e teratogénico quando administrado a ratos e coelhos com exposições inferiores à exposição clínica. Os efeitos observados incluem diminuição dos pesos corporais materno e fetal, um aumento do número de absorções fetais e um aumento do número de malformações externas e viscerais.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1. Lista dos excipientes Núcleo: croscarmelose sódica celulose microcristalina hipromelose laurilsulfato de sódio estearato de magnésio
+ Revestimento: hipromelose macrogol (3350) dióxido de titânio (E 171) óxido de ferro vermelho (E 172)
+ 6.2 Incompatibilidades Não aplicável. 6.3 Prazo de validade 30 meses. 6.4 Precauções especiais de conservação
+ Não conservar acima de 25 ºC. 13 6.5 Natureza e conteúdo do recipiente
+ 112 (4 x 28) comprimidos em blister transparentes (PP/Alumínio).
+ 6.6 Precauções especiais de eliminação e manuseamento
+ Não existem requisitos especiais. 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Bayer HealthCare AG D-51368 Leverkusen Alemanha
+ 8. NÚMERO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/06/342/001 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Julho de 2006 10. DATA DA REVISÃO DO TEXTO 14 ANEXO II
+ A. TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 15 A TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do fabricante responsável pela libertação do lote
+ Bayer Schering Pharma AG 51368 Leverkusen Alemanha
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento de receita médica restrita, de utilização reservada a certos meios especializados (ver anexo I: Resumo das Características do Medicamento, secção 4.2).
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ Não aplicável. • OUTRAS CONDIÇÕES
+ O titular da AIM compromete-se a realizar os estudos e actividades adicionais de farmacovigilância detalhadas no plano de farmacovigilância.
+ Deve ser submetido um plano de gestão de risco actualizado, de acordo com a norma orientadora do CHMP sobre sistemas de gestão de risco para medicamentos de uso humano, ao mesmo tempo que o RPS, no período de 60 dias após ter sido atingido um objectivo importante (farmacovigilância ou minimização de risco) ou quando os resultados de um estudo ficarem disponíveis ou a pedido da autoridade competente.
+ 16 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 17 A. ROTULAGEM
+ 18 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ { CARTONAGEM}
+ 1. NOME DO MEDICAMENTO Nexavar 200 mg comprimidos revestidos por película Sorafenib
+ 2. DESCRIÇÃO DA SUBSTÂNCIA ACTIVA Cada comprimido contém 200 mg de sorafenib (na forma de tosilato).
+ 3. LISTA DOS EXCIPIENTES 4. FORMA FARMACÊUTICA E CONTEÚDO 112 comprimidos revestidos por película 5. MODO E VIA DE ADMINISTRAÇÃO Via oral. Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Não conservar acima de 25 ºC. 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 19 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Bayer HealthCare AG D-51368 Leverkusen Alemanha
+ 12. NÚMERO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/06/342/001 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Nexavar 200 mg 20 INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS “ BLISTER ” OU FITAS CONTENTORAS
+ { BLISTER}
+ 1. NOME DO MEDICAMENTO Nexavar 200 mg comprimidos Sorafenib 2. NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 3. PRAZO DE VALIDADE EXP 4. NÚMERO DO LOTE Lot 5. OUTRAS SEG TER QUA QUI SEX SÁB DOM 21 B. FOLHETO INFORMATIVO
+ 22 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Nexavar 200 mg comprimidos revestidos por película sorafenib
+ Leia atentamente este folheto antes de tomar este medicamento
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é Nexavar e para que é utilizado 2. Antes de tomar Nexavar 3. Como tomar Nexavar 4. Efeitos secundários possíveis 5. Como conservar Nexavar 6. Outras informações
+ 1. O QUE É NEXAVAR E PARA QUE É UTILIZADO
+ Nexavar é usado para tratar o cancro do fígado (carcinoma hepatocelular). Nexavar é também usado para tratar o cancro dos rins (carcinoma de células renais avançado) numa fase avançada quando os tratamentos usuais não ajudaram a parar a doença ou são considerados inadequados. Nexavar é denominado um inibidor multiquinase. Actua reduzindo a velocidade de crescimento das células cancerígenas e cortando o fornecimento de sangue que mantém o crescimento das células cancerígenas.
+ 2. ANTES DE TOMAR NEXAVAR Não tome Nexavar -Se tem alergia (hipersensibilidade) ao sorafenib ou a qualquer outro componente de Nexavar.
+ Os outros componentes estão listados no final deste folheto.
+ Tome especial cuidado com Nexavar -Se apresentar problemas de pele. Nexavar pode causar erupções e reacções cutâneas,
+ especialmente nas mãos e pés. Estas podem normalmente ser tratadas pelo seu médico. Se não puderem, o seu médico poderá interromper ou suspender o tratamento com Nexavar.
+ -Se tem pressão sanguínea elevada. Nexavar pode aumentar a pressão sanguínea, e o seu
+ médico irá usualmente monitorizar a sua pressão sanguínea podendo receitar-lhe um medicamento para tratar a pressão sanguínea elevada.
+ -Se apresentar algum problema hemorrágico ou está a tomar varfarina ou fenprocumom.
+ O tratamento com Nexavar pode aumentar o risco de hemorragias. Se está a tomar varfarina ou fenprocumom, medicamentos que fluidificam o sangue para prevenir coágulos sanguíneos, poderá existir um maior risco de hemorragias.
+ -Se apresentar dor no peito ou problemas de coração. O seu médico pode decidir interromper
+ o tratamento ou suspendê-lo.
+ -Se vai ser submetido a alguma cirurgia, ou se foi operado recentemente. Nexavar pode
+ afectar a cicatrização de feridas. Em princípio o tratamento com Nexavar será suspenso se for ter uma operação. O seu médico decidirá quando irá começar novamente o tratamento com Nexavar. 23
+ -Se está a tomar irinotecano ou se lhe estão a dar docetaxel, que são também medicamentos
+ para o cancro. Nexavar pode aumentar os efeitos e, em particular, os efeitos secundários destes medicamentos.
+ -Se sofre de problema (compromisso) grave do fígado. Poderá sentir efeitos secundários mais
+ graves ao tomar este medicamento.
+ -Se tiver diminuição da função renal. O seu médico irá vigiar o seu equilíbrio hídrico e
+ electrolítico.
+ -Fertilidade. Nexavar pode reduzir a fertilidade tanto nos homens como nas mulheres. Se está
+ preocupado fale com o seu médico.
+ -Durante o tratamento podem surgir furos na parede do intestino (perfuração gastrointestinal)
+ (ver Efeitos Secundários Possíveis, secção 4). Neste caso o seu médico irá interromper o tratamento.
+ Informe o seu médico se tiver algum destes efeitos. Poderá necessitar de tratamento para os mesmos, ou o seu médico pode decidir alterar a dose de Nexavar, ou parar o tratamento. Ver também Efeitos Secundários Possíveis, secção 4.
+ Ao tomar Nexavar com outros medicamentos Alguns medicamentos podem afectar Nexavar, ou ser afectados por ele. Informe o seu médico ou farmacêutico se está a tomar algum dos medicamentos da lista:
+ -Rifampicina, um antibiótico
+ -Erva S. João, um tratamento à base de plantas para a depressão
+ -Fenitoína, carbamazepina ou fenobarbital, tratamentos para a epilepsia e outras situações
+ -Dexametasona, um corticosteróide usado em várias situações
+ -Varfarina ou fenprocumom, anticoagulantes usados para prevenir coágulos sanguíneos
+ -Doxurubicina, docetaxel e irinotecano, também usados no tratamento do cancro
+ -Digoxina, um tratamento para a insuficiência cardíaca ligeira a moderada
+ Informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica.
+ Gravidez e aleitamento Evite ficar grávida enquanto está a ser tratada com Nexavar. Se puder engravidar utilize uma contracepção adequada durante o tratamento. Se engravidar durante o tratamento com Nexavar informe imediatamente o seu médico que decidirá se o tratamento deve continuar.
+ Durante o tratamento com Nexavar não deve amamentar, pois este medicamento pode interferir com o crescimento e desenvolvimento do seu bebé.
+ Condução de veículos e utilização de máquinas Não existem evidências que o Nexavar possa afectar a capacidade de conduzir ou operar máquinas.
+ 3. COMO TOMAR NEXAVAR A dose usual de Nexavar em adultos é de 2 comprimidos de 200 mg, duas vezes ao dia. Isto é equivalente a uma dose diária de 800 mg ou a quatro comprimidos por dia.
+ Engula os comprimidos de Nexavar com um copo de água, sem alimentos ou com uma refeição com pouca ou moderada gordura. Não tome este medicamento com refeições com muita gordura pois isso pode tornar Nexavar menos eficaz. Se tenciona tomar uma refeição com um teor elevado em gorduras tome os comprimidos pelo menos 1 hora antes ou 2 horas depois da refeição. Tome sempre Nexavar exactamente da forma que o seu médico lhe indicou. Informe-se com o seu médico ou farmacêutico se tiver dúvidas.
+ 24 É importante tomar Nexavar à mesma hora todos os dias, de modo a que haja uma quantidade constante na corrente sanguínea.
+ De um modo geral continuará a tomar Nexavar enquanto tiver benefícios clínicos e não tiver efeitos secundários inaceitáveis.
+ Se tomar mais Nexavar do que deveria Informe imediatamente o seu médico no caso de você (ou outra pessoa) ter tomado mais do que a dose prescrita. Tomar muito Nexavar faz com que possa ter mais efeitos secundários ou efeitos secundários mais graves, especialmente diarreia e reacções cutâneas. O seu médico pode dizer-lhe para parar de tomar Nexavar.
+ Caso se tenha esquecido de tomar Nexavar Se se esqueceu de uma dose tome-a logo que se lembre. Se forem quase horas da próxima dose, esqueça a dose em falta e continue como normalmente. Não tome uma dose a dobrar para compensar uma dose que se esqueceu de tomar.
+ 4. EFEITOS SECUNDÁRIOS POSSIVEIS Como todos os medicamentos, Nexavar pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas. Este medicamento também pode afectar os resultados de algumas análises ao sangue.
+ Efeitos secundários muito comuns (podem afectar 1 ou mais em 10 pessoas)
+ -diarreia
+ -sentir-se mal (náuseas)
+ -sentir-se fraco ou cansado
+ -dor (incluíndo dor na boca, dor no abdómen, dor de cabeça, dor óssea, dor tumoral)
+ -perda de cabelo
+ -rubores
+ -palmas das mãos ou solas dos pés vermelhas ou dolorosas (síndrome mão-pé)
+ -comichão ou erupções cutâneas
+ -vómitos
+ -sangramento (incluindo hemorragia no cérebro, parede do intestino e tracto respiratório;
+ hemorragia)
+ -pressão sanguínea alta ou aumento da pressão sanguínea
+ Efeitos secundários frequentes (podem afectar entre 1 em 10 e 1 em cada 100 pessoas)
+ -sintomas do tipo gripal
+ -febre
+ -indigestão
+ -obstipação
+ -dificuldade em engolir
+ -boca seca ou inflamada, dor na língua
+ -perda de peso
+ -perda de apetite
+ -dores nos músculos ou articulações (artralgia)
+ -alteração das sensações nos dedos das mãos e pés incluindo formigueiros ou dormência
+ -depressão
+ -problemas de erecção (impotência)
+ -rouquidão
+ -acne
+ -pele seca, inflamada ou com descamações
+ 25
+ -zumbidos
+ -insuficiência renal
+ Efeitos secundários pouco frequentes (podem afectar menos de 1 em cada 100 pessoas)
+ -inflamação do revestimento do estômago (gastrite) e azia (refluxo gastroesofágico)
+ -dor na barriga (abdómen) causada por pancreatite, inflamação da vesícula biliar e/ou canais
+ biliares
+ -pele ou olhos amarelos (icterícia) causada por níveis elevados de pigmentos biliares
+ (hiperbilirrubinémia)
+ -reacções de tipo alérgico (incluindo reacções cutâneas e urticária)
+ -infecções nos folículos dos pêlos (foliculite)
+ -infecções gerais
+ -desidratação
+ -aumento dos seios
+ -nariz a pingar
+ -eczema
+ -ataque cardíaco (enfarte do miocárdio), insuficiência cardíaca ou dor no peito
+ -diminuição da actividade da tiróide
+ -erupções múltiplas na pele (eritema multiforme minor)
+ -pressão sanguínea anormalmente alta
+ -buracos na parede do intestino (perfuração gastrointestinal)
+ -inchaço reversível na parte de trás do cérebro que pode estar associado a dores de cabeça,
+ alterações da consciência, desmaio e sintomas visuais incluindo perda de visão (leucoencefalopatia posterior reversível)
+ -Crescimento benigno localizado da pele (queratoacantoma)/cancro da pele
+ Se tiver algum destes efeitos secundários, fale com o seu médico. Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR NEXAVAR Manter fora do alcance e da vista das crianças.
+ Não utilize os comprimidos após o prazo de validade. O prazo de validade vem indicado na embalagem e em cada um dos blisters após EXP. O prazo de validade corresponde ao último dia do mês indicado.
+ Não conservar acima de 25ºC. Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Nexavar A substância activa é o sorafenib. 1 comprimido contém 200 mg de sorafenib (na forma de tosilato). Os outros componentes são: Núcleo: croscarmelose sódica, celulose microcristalina, hipromelose, laurilsulfato de sódio, estearato de magnésio. Revestimento: hipromelose, macrogol, dióxido de titânio (E 171), óxido de ferro vermelho (E 172).
+ 26 Qual o aspecto de Nexavar e conteúdo da embalagem Os comprimidos de Nexavar 200 mg são vermelhos, redondos e revestidos por película, com a cruz Bayer numa das faces e “ 200 ” na outra face. Apresentam-se em embalagens de 112: quatro blisters transparentes de 28 comprimidos cada.
+ Titular da Autorização de Introdução no Mercado Bayer HealthCare AG D-51368 Leverkusen Alemanha
+ Fabricante Bayer Schering Pharma AG 51368 Leverkusen Alemanha
+ 27 Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado:
+ België/Belgique/Belgien Bayer S. A./N. V., Tél/Tel: +32-(0) 2-535 63 11 България Байер България ЕООД Тел. +359 02 81 401 01 Česká republika Bayer s. r. o. Tel: +420 271 730 661
+ Luxembourg/Luxemburg Bayer S. A./N. V. Tél/Tel: +32-(0) 2-535 63 11 Magyarország Bayer Hungária Kft. Tel.: +36-14 87-41 00 Malta Alfred Gera and Sons Ltd. Tel: +356-21 44 62 05
+ Danmark Bayer A/S Tlf: +45-45 23 50 00 Deutschland Bayer Vital GmbH Tel: +49-(0) 214-30 513 48 Eesti Bayer OÜ Tel: +372 655 85 65 Ελλάδα Bayer Ελλάς ΑΒΕΕ Τηλ: +30 210 618 75 00 España Química Farmacéutica Bayer S. L. Tel: +34-93-495 65 00 France Bayer Santé Tél: +33-3 20 20 80 80 Ireland Bayer Limited Tel: +353 1 299 93 13 Ísland Vistor hf. Sími: +354 535 70 00 Italia Bayer S. p. A. Tel: +39-02-397 81 Κύπρος NOVAGEM Limited Τηλ:+ 357 22 74 77 47 Latvija SIA Bayer Tel: +371 67 84 55 63 Lietuva UAB Bayer Tel. +37 05 23 36 868
+ Nederland Bayer B. V., Bayer Schering Pharma Tel: +31-(0) 297-28 06 66 Norge Bayer AS Tlf. +47 24 11 18 00 Österreich Bayer Austria Ges. m. b. H. Tel: +43-(0) 1-711 46-0 Polska Bayer Sp. z o. o. Tel.: +48-22-572 35 00 Portugal Bayer Portugal S. A Tel: +351-21-416 42 00 România SC Bayer SRL Tel.: +40 21 528 59 00 Slovenija Bayer d. o. o. Tel.: +386-1-58 14 400 Slovenská republika Bayer, spol. s r. o. Tel: +421 2 59 21 31 11 Suomi/Finland Bayer Oy, Bayer Schering Pharma Puh/Tel: +358-20 785 21 Sverige Bayer AB Tel: +46-(0) 8-580 223 00 United Kingdom Bayer plc Tel: +44-(0) 1 635-56 30 00
+ Este folheto foi aprovado pela última vez em
+ 28

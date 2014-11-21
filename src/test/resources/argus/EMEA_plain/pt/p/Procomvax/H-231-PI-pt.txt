@@ -1,0 +1,191 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. DENOMINAÇÃO DO MEDICAMENTO
+ PROCOMVAX suspensão injectável Vacina Conjugada de Haemophilus b (Conjugado de Proteína Meningocócica) e Hepatite B (Recombinante).
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Fosfato de poliribosilribitol (PRP) de Haemophilus influenza tipo b na forma de PRP-OMPC
+ 7,5 µg Neisseria meningitidis OMPC (complexo proteico da membrana exterior da estirpe B11 da Neisseria meningitidis subgrupo B)
+ 125 µg Antigénio de superfície da hepatite B adsorvido, produzido em células de levedura recombinantes (Saccharomyces cerevisiae)
+ 5,0 µg em 0,5 ml.
+ Excipientes, ver secção 6.1. 3. FORMA FARMACÊUTICA Suspensão injectável em frasco para injectáveis.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações Terapêuticas PROCOMVAX está indicado para a vacinação contra doença sistémica provocada pelo Haemophilus influenzae tipo b e contra a infecção provocada por todos os sub-tipos conhecidos do vírus da Hepatite B, em lactentes com idade compreendida entre as 6 semanas e os 15 meses.
+ 4.2 Posologia e modo de administração Posologia Lactentes nascidos de mães com AgHBs negativo, deverão ser vacinados com três doses de 0,5 ml de PROCOMVAX, de preferência aos 2,4 e 12-15 meses de idade. Se não for possível seguir exactamente o esquema recomendado, o intervalo entre as duas primeiras doses deverá ser de aproximadamente dois meses e o intervalo entre a segunda e a terceira dose deverá ser o mais próximo possível de, entre oito e onze meses. As três doses devem ser todas administradas, de forma a completar o regime de vacinação.
+ Crianças que receberam uma dose de vacina anti-Hepatite B à nascença, ou pouco tempo depois, poder-lhes-à ser administrado PROCOMVAX segundo o esquema de 2,4 e 12-15 meses de idade.
+ Crianças não vacinadas segundo o esquema recomendado Os esquemas de vacinação para crianças não vacinadas segundo o esquema recomendado, deverão ser considerados numa base individual.
+ Modo de administração PARA ADMINISTRAÇÃO INTRAMUSCULAR Não injectar por via intravenosa, intradérmica, ou subcutânea.
+ 2 4.3 Contra-indicações
+ Hipersensibilidade às substâncias activas ou a qualquer um dos excipientes. Indivíduos que apresentem sintomas sugestivos de reacção de hipersensibilidade após uma injecção, não deverão receber nova administração da vacina.
+ Devido ao potencial de tolerância imunitária (capacidade de resposta diminuída para subsequente exposição ao antigénio PRP) não é recomendado o uso de PROCOMVAX em crianças com idade inferior a 6 semanas.
+ Tem sido recomendado que a imunização seja adiada em caso de doença febril aguda. Todas as vacinas podem ser administradas em lactentes com doenças menores, como diarreia ou infecção ligeira do tracto respiratório superior. Lactentes com doença febril moderada ou grave só deverão ser vacinados, assim que se verificar recuperação da fase aguda da doença.
+ 4.4 Advertências e precauções especiais de utilização
+ Tal como para qualquer vacina, deverão estar disponíveis meios adequados de tratamento, incluindo adrenalina, para uso imediato, caso ocorra reacção anafiláctica ou anafilactoide.
+ PROCOMVAX não deverá ser misturado com outras vacinas na mesma seringa.
+ Lactentes nascidos de mães com AgHBs positivo deverão receber à nascença Imunoglobulina Hepatite B e vacina anti-Hepatite B (Recombinante) e deverão completar o esquema de vacinação contra a Hepatite B. A administração subsequente de PROCOMVAX a fim de completar o esquema de vacinação contra a Hepatite B em crianças nascidas de mães com AgHBs positivo que receberam IGHB ou lactentes nascidos de mães com estado desconhecido, não foi estudada.
+ Em lactentes com doenças de coagulação, tais como hemofilia ou trombocitopénia, deverão ser tomadas precauções especiais contra o risco de hematoma após a injecção.
+ Dado que PROCOMVAX não foi estudado em indivíduos com doenças malignas ou em imunodeprimidos, não se conhece o grau de resposta imunitária nestes indivíduos.
+ PROCOMVAX não protege contra doença sistémica provocada pelo Haemophilus influenzae de outro tipo que não o b, ou contra doença sistémica (como a meningite ou sepsis) provocada por outros microorganismos.
+ PROCOMVAX não impede a hepatite provocada por outros vírus conhecidos como possíveis causadores de infecção hepática. Devido ao longo período de incubação da Hepatite B, poderá estar presente uma infecção não reconhecida no momento da vacinação. Em tais casos, a vacina poderá não prevenir a Hepatite B.
+ PROCOMVAX poderá não induzir níveis protectores de anticorpos imediatamente após a vacinação e poderá não resultar numa resposta protectora de anticorpos em todos os indivíduos a quem foi administrada a vacina.
+ Tal como foi relatado em relação à Vacina Polissacarídica de Haemophilus b e a outra vacina conjugada de Haemophilus b, podem ocorrer casos de doença por Haemophilus b na semana posterior à vacinação, antes do início dos efeitos protectores das vacinas.
+ Deve ser considerado o potencial risco para a ocorrência de apneia e a necessidade de monitorização respiratória durante 48-72 horas quando se administra a primovacinação a crianças nascidas muito prematuramente (nascidas &lt; de 28 semanas de gestação) e particularmente naquelas com antecedentes de imaturidade respiratória. Como o benefício da vacinação é elevado neste grupo pediátrico, a vacinação não deve deixar de ser realizada, nem deve ser adiada.
+ 3 4.5 Interacções medicamentosas e outras formas de interacção
+ Os resultados obtidos em ensaios clínicos abertos, não controlados, indicam que PROCOMVAX pode ser administrado concomitantemente com DTP (vacina anti-Difteria, Tétano e Tosse Convulsa de células totais), OPV (vacina anti-Poliomielite Oral), IPV (vacina anti-Poliomielite Inactivada), e VASPR Merck (vacina anti-Sarampo, Parotidite e Rubéola Viva) usando locais e seringas diferentes para vacinas injectáveis. Adicionalmente, os resultados limitados sobre imunogenicidade obtidos de um ensaio clínico controlado, aberto, indicam que PROCOMVAX pode ser administrado concomitantemente a DTPa (vacina anti-Difteria, Tétano e Tosse Convulsa acelular), usando locais e seringas diferentes para vacinas injectáveis.
+ A eficácia das vacinas anti-tosse convulsa acelulares ou de células totais, quando administradas concomitantemente com PROCOMVAX, não foi estabelecida em ensaios de campo.
+ 4.6 Gravidez e aleitamento Não se aplica. Para uso pediátrico exclusivo.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não se aplica. Para uso pediátrico exclusivo.
+ 4.8 Efeitos indesejáveis Em ensaios clínicos, envolvendo a administração de 7350 doses de PROCOMVAX a 2993 lactentes saudáveis com idades compreendidas entre as 6 semanas e os 15 meses, PROCOMVAX foi em geral bem tolerado. Destes lactentes,1177 foram envolvidos em ensaios clínicos, nos quais a maioria recebeu PROCOMVAX concomitantemente com outras vacinas pediátricas licenciadas. Destes,1110 foram monitorizados no que respeita à ocorrência de efeitos adversos graves e não graves. Os restantes 1816 lactentes foram envolvidos em ensaios onde PROCOMVAX foi administrado concomitantemente com uma vacina conjugada de proteína polissacarídica pneumocócica, em investigação ou uma vacina de Difteria, Tétano, Tosse Convulsa de células totais e Poliomielite inactivada, em investigação, e estiveram sob vigilância no que respeita à ocorrência de efeitos adversos graves.
+ Entre as 2993 crianças às quais foi administrado PROCOMVAX,33 tiveram efeitos adversos graves nos 14 dias após a vacinação. Nenhum dos efeitos adversos graves foi considerado relacionado com a vacina pelo investigador do estudo.
+ Num destes ensaios, um estudo aleatorizado e multicêntrico,882 lactentes foram distribuídos numa razão de 3: 1 para receberem ou PROCOMVAX ou Vacina Conjugada de Haemophilus b Merck (Conjugado de Proteína Meningocócica) (vacina PRP-OMPC Merck) mais Vacina anti-Hepatite B (Recombinante) Merck aos 2,4 e 12-15 meses de idade, sendo as crianças monitorizadas diariamente durante 5 dias após administração de cada dose, relativamente a reacções locais e queixas sistémicas. A maioria das crianças recebeu DTP e OPV concomitantemente com as duas primeiras doses de PROCOMVAX ou vacina PRP-OMPC Merck. Ao longo da administração das três doses de PROCOMVAX, não foram observadas diferenças significativas na frequência de efeitos adversos entre o PROCOMVAX e as vacinas monovalentes PRP-OMPC Merck e Vacina anti-Hepatite B (Recombinante) Merck. No entanto, a frequência de irritabilidade foi estatisticamente superior após as três injecções de PROCOMVAX combinado e após a primeira injecção de PROCOMVAX, em comparação com as vacinas monovalentes.
+ Foram notificadas as seguintes reacções locais e queixas sistémicas em ≥ 1,0% das crianças, que ocorreram no período de 5 dias após qualquer administração de PROCOMVAX: dor/hiperestesia cutânea, eritema, inchaço/endurecimento no local da injecção; febre (&gt; 38, 3ºC, equivalente rectal); anorexia, vómitos, diarreia, irritabilidade, sonolência, choro incluindo choro invulgar e estridente,
+ 4 choro prolongado (&gt; 4 horas), e choro não especificado; otite média. Não foi observado nenhum aumento na frequência ou gravidade dos efeitos adversos com as doses subsequentes.
+ Experiência pós-comercialização PROCOMVAX Hipersensibilidade Raramente: anafilaxia, angioedema, urticária, eritema multiforme.
+ Sistema Nervoso Convulsão, convulsão febril
+ Doenças respiratórias, torácicas e do mediastino Apneia em crianças nascidas muito prematuramente (&lt; 28 semanas de gestação) (ver secção 4.4).
+ Pele Nódulo no local de injecção Potenciais Efeitos Adversos Adicionalmente, foram notificados uma série de efeitos adversos ou com vacina PRP-OMPC Merck ou com Vacina anti-Hepatite B (Recombinante) Merck, ambas pós-comercialização, em lactentes e crianças até aos 71 meses de idade. Estes efeitos adversos estão descritos a seguir:
+ Vacina PRP-OMPC Merck, líquida Hematológico/Linfático Linfadenopatia Pele Dor no local de injecção Vacina anti-Hepatite B (Recombinante) Merck Reacções frequentes
+ Reacções no local da injecção: hiperestesia cutânea transitória, eritema, endurecimento
+ Raras -aumento dos enzimas hepáticos, fadiga, febre, mal-estar, sintomas tipo gripal, sintomas tipo
+ broncospasmo, doença do soro, trombocitopénia.
+ -tonturas, cefaleia, parestesias
+ -náuseas, vómitos, diarreia, dor abdominal
+ -artralgia, mialgia
+ -rash, prurido,
+ -hipotensão, síncope
+ -paralisia (paralisia de Bell), neuropatia, neurite (Síndroma de Guillain-Barré, mielite incluindo
+ mielite transversa), encefalite, neurite óptica.
+ -linfadenopatia
+ 4.9 Sobredosagem Não existem dados disponíveis relativos à sobredosagem.
+ 5 5. PROPRIEDADES FARMACOLÓGICAS
+ 5.1 Propriedades farmacodinâmicas Grupo Fármaco-terapêutico: Anti-Infecciosos, ATC código: J07CA PROCOMVAX é uma vacina estéril bivalente constituída pelos componentes antigénicos utilizados no fabrico de Vacina PRP-OMPC Merck e Vacina anti-Hepatite B (Recombinante) Merck. Estes componentes são o polissacárido capsular do Haemophilus influenzae tipo b (PRP) que tem uma ligação covalente ao complexo proteico da membrana exterior (OMPC) da Neisseria meningitidis e antigénio de superfície da Hepatite B (AgHBs) obtido a partir de culturas de leveduras recombinantes.
+ A eficácia protectora dos componentes de PROCOMVAX foi estabelecida nos ensaios de campo realizados com as vacinas monovalentes.
+ Respostas Anti-HBs a PROCOMVAX em Lactentes Anteriormente Não Vacinados com Vacina Anti-Hepatite B
+ Em 4 ensaios clínicos conduzidos entre 1992 e 2000, PROCOMVAX foi administrado a 1809 lactentes, com aproximadamente 2 meses de idade, que anteriormente não tinham recebido qualquer vacina anti-hepatite B. Estes lactentes receberam nominalmente PROCOMVAX aos 2,4 e 12-15 meses de idade.
+ Nestes estudos,1503 lactentes tiveram resultados anti-HBs disponíveis após as primeiras 2 doses de PROCOMVAX e 1309 tiveram resultados anti-HBs disponíveis após a terceira dose de PROCOMVAX. Após a dose 2,77% a 96% dos lactentes desenvolveram um nível protector de anti-HBs (≥ 10 mUI/ml) e os TMGs variaram de 30 mUI/ml a 190 mUI/ml. Após a dose 3,96% a 100% dos lactentes desenvolveram níveis protectores de anti-HBs e os TMGs variaram de 897 mUI/ml a 4467 mUI/ml.
+ Respostas Anti-HBs a PROCOMVAX em Lactentes Anteriormente Vacinados com Vacina Anti-Hepatite B
+ Em 4 ensaios clínicos conduzidos entre 1992 e 2000, PROCOMVAX foi administrado a 722 lactentes, com aproximadamente 2 meses de idade, que anteriormente tinham recebido uma dose única de vacina anti-hepatite B à nascença. Estes lactentes receberam nominalmente PROCOMVAX aos 2-3, 4-5, e 12-15 meses de idade.
+ Nestes estudos,618 lactentes tiveram resultados anti-HBs disponíveis após as primeiras 2 doses de PROCOMVAX e 461 tiveram resultados anti-HBs disponíveis após a terceira dose de PROCOMVAX. Após a dose 2,93% a 100% dos lactentes desenvolveram um nível protector de anti-HBs (≥ 10, UI/ml) e os TMGs variaram de 125 mUI/ml a 417 mUI/ml. Após a dose 3,98% a 100% dos lactentes desenvolveram níveis protectores de anti-HBs e os TMGs variaram de 1509 mUI/ml a 3913 mUI/ml.
+ A duração do efeito protector para a hepatite B em vacinados saudáveis é actualmente desconhecida e a necessidade de uma dose de reforço de rotina com vacinas contendo hepatite B ainda não está definida.
+ Respostas Anti-PRP a PROCOMVAX em Lactentes
+ Em 6 ensaios clínicos conduzidos entre 1992 e 2000, PROCOMVAX foi administrado a 2528 lactentes, com aproximadamente 2 meses de idade, que anteriormente não tinham recebido qualquer vacina Hib. Estes lactentes receberam nominalmente PROCOMVAX aos 2,4 e 12-15 meses de idade.
+ Nestes estudos,2121 lactentes tiveram resultados anti-PRP disponíveis após as primeiras 2 doses de PROCOMVAX e 1768 tiveram resultados anti-PRP disponíveis após a terceira dose de PROCOMVAX. Após a dose 2,95% a 99% dos lactentes desenvolveram &gt; 0,15 µg/ml de anti-PRP,6 um nível associado à protecção a curto prazo contra doença invasiva Hib, e os TMGs variaram de 2,5 µg/ml a 4,3 µg/ml. Após a dose 3,92% a 99% dos lactentes desenvolveram &gt; 1,0 µg/ml de anti-PRP, um nível associado à protecção a longo prazo contra doença invasiva Hib, e os TMGs variaram de 7,7 µg/ml a 14,0 µg/ml.
+ 5.2 Propriedades farmacocinéticas Não se aplica. 5.3 Dados de segurança pré-clinica Não se aplica. 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes A formulação contém hidroxifosfato sulfato de alumínio amorfo e borato de sódio em cloreto de sódio a 0,9%.
+ 6.2 Incompatibilidades Na ausência de estudos de compatibilidade, esta vacina não deve ser misturada com outras vacinas ou com outros medicamentos na mesma seringa.
+ 6.3 Prazo de validade 3 anos 6.4 Precauções especiais de conservação
+ Conservar no frigorífico (2ºC – 8ºC). Não congelar.
+ 6.5 Natureza e conteúdo do recipiente 0,5 ml de suspensão em frasco para injectáveis (vidro Tipo I).
+ 6.6 Instruções de utilização e manipulação
+ A vacina deve ser usada na sua forma de apresentação; não é necessária a reconstituição. Após agitação enérgica, PROCOMVAX é uma suspensão branca, ligeiramente opaca. Os medicamentos para uso parentérico deverão ser inspeccionados visualmente, para a verificação da existência de partículas estranhas ou descoloração antes da sua administração, sempre que a solução e o recipiente o permitam.
+ Agitar bem antes de retirar e usar. É necessária uma agitação completa para obter a suspensão de vacina.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Sanofi Pasteur MSD S. N. C. 8, rue Jonas SALK F-69007 LYON
+ 7 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/99/104/001 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 7 de Maio de 1999 10. DATA DA REVISÃO DO TEXTO 8 ANEXO II
+ A. FABRICANTE(S) DA(S) SUBSTÂNCIA(S) ACTIVA(S) DE ORIGEM BIOLÓGICA E TITULAR(ES) DA(S) AUTORIZAÇÃO(ÇÕES) DE FABRICO RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 9 A. FABRICANTE(S) DA(S) SUBSTÂNCIA(S) ACTIVA(S) DE ORIGEM BIOLÓGICA E TITULAR(ES) DA(S) AUTORIZAÇÃO(ÕES) DE FABRICO RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do fabricante das substâncias activas de origem biológica
+ Para o conjugado de Haemophilus B e o antigénio de superfície da Hepatite B:
+ Merck &amp; Co. Inc. Sumneytown Pike West Point Pennsylvania 19486 USA
+ Nome e endereço do fabricante responsável pela libertação do lote
+ Merck Sharp &amp; Dohme B. V. Waarderweg 39,2031 BN, P. O. Box 581,
+ 2003 PC Haarlem Paises Baixos O folheto informativo que acompanha o medicamento deve mencionar o nome e endereço do fabricante responsável pela libertação do lote em causa.
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E À UTILIZAÇÃO A SEREM CUMPRIDAS PELO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento sujeito a receita médica. • OUTRAS CONDIÇÕES
+ O titular desta autorização de introdução no mercado deve informar a Comissão Europeia sobre os planos de comercialização do medicamento autorizado pela presente decisão.
+ Libertação oficial do lote: nos termos do artigo 114. º da Directiva 2001/83/EC, a libertação oficial do lote será feita por um laboratório estatal ou um laboratório designado para esse efeito.
+ 10 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 11 A. ROTULAGEM
+ 12 INDICAÇÕES A INCLUIR NA EMBALAGEM EXTERIOR OU, CASO ESTA NÃO EXISTA, NO ACONDICIONAMENTO PRIMÁRIO
+ PROCOMVAX-1 frasco para injectáveis, monodose.
+ 1. DENOMINAÇÃO DO MEDICAMENTO PROCOMVAX Suspensão injectável Vacina Conjugada de Haemophilus b (Conjugado de Proteína Meningocócica) e Hepatite B (recombinante)
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ 1 dose (0,5 ml) contém: 7,5 µg de PRP Haemophilus influenzae tipo b na forma de PRP-OMPC 125 µg de Neisseria meningitidis OMPC 5,0 µg de antigénio de superfície da Hepatite B produzido em células de leveduras recombinantes
+ 3. LISTA DOS EXCIPIENTES Excipientes: Hidroxifosfato sulfato de alumínio amorfo e borato de sódio em cloreto de sódio a 0.9%.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 1 frasco para injectáveis, monodose (0,5 ml). Suspensão injectável em frasco para injectáveis.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Agitar bem antes de usar. Via intramuscular.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL.: 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Conservar no frigorífico Não congelar. 13 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Sanofi Pasteur MSD S. N. C. 8, rue Jonas Salk F-69007 LYON
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/99/104/001 13. NÚMERO DO LOTE DE FABRICO Lote: 14. CLASSIFICAÇÃO GERAL RELATIVA AO FORNECIMENTO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 14 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ 1. DENOMINAÇÃO DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ PROCOMVAX Via intramuscular. 2. MODO DE ADMINISTRAÇÃO Agitar bem antes de usar. 3. PRAZO DE VALIDADE VAL: 4. NÚMERO DO LOTE Lote: 5. CONTEÚDO EM TERMOS DE PESO, VOLUME OU UNIDADE
+ 1 dose= 0,5 ml SANOFI PASTEUR MSD SNC 15 B. FOLHETO INFORMATIVO
+ 16 FOLHETO INFORMATIVO
+ Leia atentamente este folheto antes de utilizar o medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso tenha dúvidas, consulte o seu médico ou farmacêutico.
+ Este medicamento foi receitado para o seu filho/a. Não deve dá-lo a outros; o medicamento pode ser-lhes prejudicial mesmo que apresentem os mesmos sintomas.
+ Neste folheto: 1. O que é PROCOMVAX e para que é utilizado 2. Antes de utilizar PROCOMVAX 3. Como utilizar PROCOMVAX 4. Efeitos secundários possíveis 5. Conservação de PROCOMVAX 6. Outras informações
+ PROCOMVAX suspensão injectável em frasco para injectáveis. Vacina Conjugada de Haemophilus b (Conjugado de Proteína Meningocócica) e Hepatite B (recombinante)
+ As substâncias activas são: Fosfato de poliribosilribitol (PRP) de Haemophilus influenza tipo b na forma de PRP-OMPC
+ 7,5 µg Neisseria meningitidis OMPC (complexo proteico da membrana exterior da estirpe B11 da Neisseria meningitidis subgrupo B)
+ 125 µg Antigénio de superfície da hepatite B adsorvido, produzido em células de levedura recombinantes (Saccharomyces cerevisiae)
+ 5,0 µg em 0,5 ml.
+ Os outros ingredientes são: hidroxifosfato sulfato de alumínio amorfo e borato de sódio em cloreto de sódio a 0,9%.
+ Titular da Autorização de Introdução no Mercado: Sanofi Pasteur MSD SNC,8 rue Jonas Salk, F-69007 Lyon Fabricante: Merck Sharp &amp; Dohme B. V., Waarderweg 39,2031 BN Haarlem, Holanda
+ 1. O QUE É PROCOMVAX E PARA QUE É UTILIZADO
+ PROCOMVAX é uma vacina injectável, contida num frasco para injectáveis, monodose, de 0,5 ml. PROCOMVAX está indicado para aumentar a protecção do seu filho contra a doença sistémica provocada pelo Haemophilus influenza tipo b (infecção dos tecidos do cérebro e medula espinal, infecção do sangue, etc.) e contra a infecção do fígado provocada por todos os sub-tipos conhecidos do vírus da Hepatite B. A vacina pode ser administrada à maioria dos lactentes com idade compreendida entre as 6 semanas e os 15 meses.
+ 2. ANTES DE UTILIZAR PROCOMVAX Não utilize PROCOMVAX: -Se a sua criança é alérgica a qualquer um dos componentes da vacina.
+ -Em lactentes com idade inferior a 6 semanas.
+ 17
+ -Se a sua criança tiver febre (a vacinação deverá ser adiada)
+ -Em lactentes nascidos de mães AgHBs positivas.
+ Tome especial cuidado com PROCOMVAX: -Se a sua criança tem doenças do sangue, tais como hemofilia ou trombocitopenia, devem ser
+ tomadas precauções especiais contra o risco de hematoma após a administração.
+ -No caso de ser uma mãe positiva para o antigénio de superfície do vírus da hepatite B (AgHBs), o
+ seu bebé deverá receber imunoglobulina contra a hepatite B (IGHB) e vacina contra a hepatite B (Recombinante), ao nascer, e deverá completar a série de vacinação contra a hepatite B. A administração subsequente de PROCOMVAX, para completar a série de vacinação contra a hepatite B, em lactentes nascidos de mães AgHBs positivas, que receberam IGHB ou de lactentes nascidos de mães cujo estado de imunização é desconhecido não foi estudada.
+ -Assim como acontece com outras vacinas semelhantes, poderão ocorrer casos de doença por
+ Haemophilus b na semana após a vacinação, antes do início dos efeitos protectores da vacina.
+ -Uma vez que a infecção por Hepatite B pode não ser detectada durante um longo período de
+ tempo, é possível que uma pessoa possa já estar infectada aquando da vacinação. Nestes indivíduos, a vacina poderá não prevenir a Hepatite B.
+ Utilizar outras vacinas: PROCOMVAX pode ser administrado simultaneamente com a série primária de vacina anti-Difteria, Tétano e Tosse Convulsa (DTP) e de vacina anti-Poliomielite oral (OPV). Aos 12 a 15 meses de idade, PROCOMVAX pode ser administrado simultaneamente com a VASPR Merck (Vacina anti-Sarampo, Parotidite e Rubéola Viva), ou OPV ou com a dose de reforço da vacina anti-Difteria, Tétano e Tosse Convulsa acelular (DTPa), aos 15 meses de idade em crianças que receberam a série primária de DTP.
+ PROCOMVAX tem sido administrado simultaneamente com a série primária de DTPa e vacina anti-Poliomielite Inactivada Potenciada (IPV), num número limitado de lactentes. Não foram relatados nenhuns efeitos adversos graves relacionados com a vacina. Os dados sobre a resposta imunitária são satisfatórios para PROCOMVAX, mas actualmente não estão disponíveis para a DTPa.
+ 3. COMO UTILIZAR PROCOMVAX Lactentes nascidos de mães AgHBs negativas deverão ser vacinados com três doses de 0,5 ml de PROCOMVAX, de preferência aos 2,4, e 12-15 meses de idade. Se o esquema recomendado não puder ser cumprido na íntegra, o intervalo entre as primeiras duas doses deve ser de, aproximadamente, dois meses e o intervalo entre a segunda e a terceira dose deve ser tão próximo quanto possível, de oito a onze meses. Para completar o regime vacinal devem ser administradas as três doses.
+ Crianças que receberam uma dose de vacina anti-Hepatite B à nascença, ou pouco tempo depois, poder-lhes-à ser administrado PROCOMVAX segundo o esquema de 2,4 e 12-15 meses de idade.
+ Crianças não vacinadas segundo o esquema recomendado Os esquemas de vacinação para crianças não vacinadas segundo o esquema recomendado, deverão ser considerados numa base individual.
+ O PROCOMVAX deve ser injectado no músculo da coxa. Não injectar por via intravenosa, intradérmica ou subcutânea.
+ O que devo fazer no caso de me esquecer de uma dose? O seu médico decidirá quando deverá ser administrada a dose em falta.
+ 4. EFEITOS SECUNDÁRIOS POSSIVEIS 18 Como os demais medicamentos, PROCOMVAX pode ter efeitos secundários. O PROCOMVAX foi geralmente bem tolerado nos ensaios clínicos. Os efeitos secundários incluem reacções no local da injecção como dor, hiperestesia cutânea, vermelhidão e inchaço. Outros efeitos secundários incluem irritabilidade, sonolência, febre, diarreia, vómitos, perda de apetite, infecção do ouvido médio e choro estridente e invulgar. Outros efeitos secundários que podem ocorrer raramente, e ser graves, incluem convulsão, convulsão febril, reacções alérgicas, inchaço alérgico (angioedema) e alguns tipos graves de rash, nódulo no local de injecção.
+ Informe o seu médico imediatamente acerca destes ou de outros sintomas não habituais. Se a situação se mantiver ou piorar, procure ajuda do seu médico.
+ Informe ainda o seu médico, se o seu filho apresentar sintomas sugestivos de uma reacção alérgica após qualquer dose da série vacinal.
+ Caso detecte efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. CONSERVAÇÃO DE PROCOMVAX Manter fora do alcance e da vista das crianças. Conservar no frigorífico (2ºC – 8ºC). Não congelar.
+ Não utilizar PROCOMVAX após expirar o prazo de validade indicado no rótulo.
+ 6. OUTRAS INFORMAÇÕES Para quaisquer informações sobre este medicamento, queira contactar o representante local do titular da autorização de introdução no mercado.
+ België/Belgique/Belgien SANOFI PASTEUR MSD Tél/Tel: +32. 2. 726. 95.84
+ Luxembourg/Luxemburg SANOFI PASTEUR MSD Tél: +32. 2. 726. 95.84
+ България Мерк Шарп и Доум България ЕООД тел.+ 359 2 819 3740
+ Magyarország MSD Magyarország Kft Tel.:+ 36. 1. 888.5300
+ Malta Česká republika MSD Interpharma Merck Sharp &amp; Dohme, IDEA, Inc. Tel:+ 33. 1. 3082.1000 Tel.: +420-233 010 111
+ Danmark SANOFI PASTEUR MSD Tlf: +45. 45. 26. 77.00
+ Nederland SANOFI PASTEUR MSD Tel: +31 23 567 9600
+ Deutschland SANOFI PASTEUR MSD GmbH Tel: +49. 6224.5940
+ Norge SANOFI PASTEUR MSD Tlf: +47 67505020
+ Eesti Österreich Merck Sharp &amp; Dohme OÜ Tel: +372. 613.9750
+ SANOFI PASTEUR MSD GmbH Tel: +43. 1. 86. 67. 02. 22.02
+ Ελλάδα 19 Polska ΒΙΑΝΕΞ Α. Ε. Τηλ. +30. 210.8009111
+ MSD Polska Sp. z o. o. Tel.: +48. 22. 549. 51.00
+ España SANOFI PASTEUR MSD S. A. Tel: +349. 1. 371. 78.00
+ Portugal Sanofi Pasteur MSD, SA Tel: +351 21 470 45 50
+ France SANOFI PASTEUR MSD SNC Tél: +33. 4. 37. 28. 40.00
+ România Merck Sharp &amp; Dohme Romania S. R. L. Tel:+ 4021 529 29 00
+ Ireland SANOFI PASTEUR MSD Ltd Tel: +3531. 468.5600
+ Slovenija Merck Sharp &amp; Dohme, inovativna zdravila d. o. o. Tel:+ 386 1 5204201
+ Slovenská republika Ísland Merck Sharp &amp; Dohme IDEA, Inc. SANOFI PASTEUR MSD Tel.: +421. 2.58282010 Sími: +32. 2. 726. 95.84
+ Italia SANOFI PASTEUR MSD Spa Tel: +39. 06. 664. 092.11
+ Suomi/Finland SANOFI PASTEUR MSD Puh/Tel: +358. 9. 565. 88.30
+ Κύπρος Merck Sharp &amp; Dohme (Middle East) Limited. Τηλ: +357 22866700
+ Sverige SANOFI PASTEUR MSD Tel: +46. 8. 564. 888.60
+ Latvija SIA “ Merck Sharp &amp; Dohme Latvija ” Tel: +371. 736.4224
+ United Kingdom SANOFI PASTEUR MSD Ltd Tel: +44. 1. 628. 785.291
+ Lietuva UAB “ Merck Sharp &amp; Dohme ” Tel.: +370. 5. 2780.247
+ Este folheto foi aprovado pela última vez em
+ 20

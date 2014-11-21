@@ -1,0 +1,253 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. DENOMINAÇÃO DO MEDICAMENTO
+ LITAK 2 mg/ml solução injectável 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ 1 ml da solução injectável contém 2 mg de cladribina (2-CdA). Cada frasco de LITAK contém 10 mg de cladribina em solução injectável de 5 ml.
+ Excipientes, ver 6.1. 3. FORMA FARMACÊUTICA Solução injectável. Solução transparente e incolor. 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas O LITAK está indicado para o tratamento de leucemia de células pilosas.
+ 4.2 Posologia e modo de administração O tratamento com LITAK deverá ser iniciado por um médico qualificado, com experiência em quimioterapia oncológica.
+ O LITAK é fornecido como solução para injecção pronta a usar. A dose recomendada é retirada directamente com uma seringa e injectada sem diluição. Deixe aquecer o LITAK à temperatura ambiente antes de administrar.
+ O tratamento recomendado para a leucemia de células pilosas é uma administração única em bólus de LITAK por injecção subcutânea, numa dose de 0,14 mg/kg de peso corporal/dia, durante 5 dias consecutivos.
+ Não se recomendam desvios ao regime posológico acima indicado (ver secção 4.9).
+ A experiência com doentes com mais de 75 anos é limitada. Os doentes idosos devem ser avaliados individualmente com uma monitorização rigorosa da concentração em circulação e da função renal e hepática. O risco inerente deverá ser avaliado caso a caso.
+ Não estão disponíveis dados sobre a utilização de LITAK em doentes com insuficiência renal ou hepática. LITAK está contra-indicado em doentes com insuficiência renal moderada a grave (depuração da creatinina ≤ 50 ml/min) ou com insuficiência hepática moderada a grave (escala de Child-Pugh ≥ 4) (ver secções 4.3, 4.4, e 5.2).
+ Utilização pediátrica O LITAK está contra-indicado em doentes com idade inferior a 16 anos.
+ 4.3 Contra-indicações Hipersensibilidade à substância activa ou a qualquer dos excipientes.
+ 2 Durante a gravidez e aleitamento.
+ Em doentes com idade inferior a 16 anos. Em doentes com insuficiência renal moderada a grave (depuração da creatinina ≤ 50 ml/min) ou com insuficiência hepática moderada a grave (escala de Child-Pugh ≥ 4) (ver secção 4.4).
+ Utilização concomitante de outros fármacos mielossupressores.
+ 4.4 Advertências e precauções especiais de utilização
+ Enquanto substância antineoplásica e imunossupressora, a cladribina pode induzir reacções adversas tóxicas consideráveis, tais como a mielossupressão e a imunossupressão, linfocitopenia de longa duração e infecções oportunistas. Os doentes em tratamento com cladribina devem ser cuidadosamente monitorizados quanto a sinais de toxicidade hematológicos e não-hematológicos.
+ Recomenda-se precaução especial e avaliação cuidadosa dos riscos/benefícios, caso a administração de cladribina seja considerada em doentes com risco elevado de infecção, disfunção ou infiltração medular óssea manifesta, tratamentos mielossupressores anteriores, bem como em doentes com insuficiência renal e hepática suspeita ou manifesta. Os doentes com infecção activa devem ser tratados da patologia preexistente antes de iniciarem a terapêutica com cladribina. Embora duma forma geral, a profilaxia anti-infecciosa seja desaconselhada, ela poderá ser benéfica, antes do tratamento com cladribina, nos doentes com compromisso imunológico ou em doentes com agranulocitose preexistente.
+ Caso ocorra toxicidade grave, o médico deverá considerar o atraso ou a descontinuação da terapêutica com o fármaco, até que as complicações graves regridam. No caso de infecções, deve ser iniciado tratamento antibiótico adequado.
+ Recomenda-se que os doentes tratados com cladribina recebam produtos/componentes de células hemáticas irradiadas, a fim de prevenir doença de enxerto contra hospedeiro relacionada com transfusões (Ta-GVHD).
+ Malignidades secundárias À semelhança de outros análogos de nucleósidos, o tratamento com cladribina encontra-se associado à mielossupressão e à imunossupressão profunda e prolongada. O tratamento com estas substâncias activas encontra-se associado à ocorrência de malignidades secundárias. Podem ocorrer malignidades secundárias em doentes com leucemia de células pilosas. A sua frequência tem um amplo espectro de variação entre 2% e 21%. O risco máximo situa-se nos 2 anos após o diagnóstico, com um risco médio entre os 40 e os 66 meses. As frequências cumulativas de malignidade secundária são de 5%, 10-12% e 13-14% passados, respectivamente,5,10 e 15 anos sobre o diagnóstico de leucemia de células pilosas. Após o tratamento com cladribina, a incidência de neoplasias malignas secundárias situa-se entre 0% e 9,5% após um período médio de observação de 2,8 a 8,5 anos. A frequência de malignidade secundária a seguir ao tratamento com LITAK foi de 3,4% nos 232 doentes portadores de leucemia de células pilosas, que foram tratados durante um período de 10 anos. A maior incidência de malignidade secundária com LITAK foi de 6,5% após um tempo médio de follow-up de 8,4 anos. Os doentes tratados com cladribina devem, por isso, ser regularmente monitorizados.
+ Hematologia Durante o primeiro mês a seguir ao tratamento, a mielossupressão é mais acentuada e pode ser necessária uma transfusão de eritrócitos ou de trombócitos. Os doentes com sintomas de depressão medular óssea devem ser tratados com especial cuidado, visto que deve ser antecipado um agravamento da supressão da função da medula óssea. Devem avaliar-se cuidadosamente os riscos e benefícios terapêuticos em doentes com infecções agudas ou suspeitas. Em doentes com uma infiltração medular óssea relacionada com uma patologia ou com tratamento mielossupressor anterior, o risco de mielotoxicidade grave e de imunossupressão de longa duração é aumentado. Nesses casos, é necessária a redução de dose e a monitorização regular do doente. A pancitopenia é normalmente reversível e a intensidade da aplasia medular óssea depende da dose. Deverá esperar-se uma incidência
+ 3 maior de infecções oportunistas durante o tratamento e 6 meses após a terapêutica com cladribina. A monitorização cuidadosa e regular da contagem das células do sangue periférico é essencial durante o tratamento e nos 2 a 4 meses subsequentes à terapêutica com cladribina, para detectar potenciais reacções adversas e complicações consequentes (anemia, neutropenia, trombocitopenia, infecções, hemólises ou hemorragias), e para controlar a recuperação hematológica. Frequentemente ocorre febre de origem desconhecida em doentes tratados para a leucemia de células pilosas, que se manifesta sobretudo durante as primeiras 4 semanas da terapêutica. A origem de estados febris deve ser investigada por testes laboratoriais e radiológicos adequados. Menos de um terço dos estados febris estão associados a uma infecção documentada. No caso de febre relacionada com infecções ou agranulocitoses, é indicado o tratamento antibiótico.
+ Função renal e hepática Não estão disponíveis dados sobre a utilização de LITAK em doentes com insuficiência renal ou hepática. A experiência clínica é muito limitada e não foi completamente estabelecida a segurança de LITAK neste grupo de doentes (ver secção 5.2).
+ É necessária precaução especial no tratamento de doentes idosos e de doentes com alterações da função renal ou hepática conhecida ou suspeita. Para todos os doentes tratados com LITAK, recomendam-se avaliações periódicas da função renal e hepática, conforme clinicamente indicado.
+ Prevenção da síndrome de lise tumoral Em doentes com uma carga tumoral muito elevada, a terapêutica profiláctica com alopurinol para controlar os níveis séricos do ácido úrico, juntamente com hidratação adequada ou aumento de hidratação, deverão ser iniciados 24 horas antes do início da quimioterapia. Recomenda-se a administração oral de uma dose diária de 100 mg de alopurinol por um período de 2 semanas. No caso de subida dos níveis séricos do ácido úrico, a dose de alopurinol pode ser aumentada para 300 mg/dia.
+ Diminuição da fertilidade Os homens tratados com cladribina não devem procriar nos 6 meses posteriores ao tratamento e devem ser advertidos de que devem aconselhar-se sobre crioconservação de esperma antes do tratamento, pela possibilidade de infertilidade devido ao tratamento com cladribina (ver secção 5.3).
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Devido ao possível aumento da toxicidade hematológica e da supressão medular óssea, a cladribina não deve ser usada concomitantemente com outros fármacos mielossupressores. Não foram observadas reacções cruzadas com outros fármacos antineoplásicos nem in vitro (por ex., doxorubicina, vincristina, citarabina, ciclofosfamida) nem in vivo. Contudo, um estudo in vitro revelou resistência cruzada entre a cladribina e a mostarda nitrogenada (clormetina); para a citarabina um autor descreveu uma reacção cruzada in vivo sem perda de actividade. Devido à semelhança do metabolismo intracelular, pode ocorrer resistência cruzada com outros análogos de nucleósidos, tais como a fludarabina ou a 2 ’-deoxicoformicina. Por este motivo, não se recomenda a administração simultânea de análogos de nucleósidos com cladribina. Foi demonstrado que os corticosteróides aumentam o risco de infecções graves quando usados em conjunto com cladribina, pelo que não devem ser administrados concomitantemente com cladribina. Por serem esperadas interacções com fármacos sujeitos a fosforilização intracelular, tais como os agentes antivirais, ou com os inibidores da absorção da adenosina, não se recomenda o seu uso concomitante com cladribina.
+ 4.6 Gravidez e aleitamento A cladribina causa anomalias congénitas graves quando administrada durante a gravidez. Estudos em animais e estudos in vitro com linhagens de células humanas demonstraram a teratogénese e mutagenicidade da cladribina. A cladribina está contra-indicada durante a gravidez. As mulheres com potencial reprodutivo deverão usar contraceptivos eficazes durante o tratamento com cladribina. No caso de ocorrer uma gravidez durante a terapêutica com cladribina, a mulher deve ser informada sobre os potenciais riscos para o feto.
+ 4 Desconhece-se se a cladribina é excretada no leite materno humano. Devido ao risco de reacções adversas graves em lactantes, a cladribina está contra-indicada durante o aleitamento. Por esta razão, o aleitamento está contra-indicado durante e após o tratamento com cladribina.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Os efeitos de LITAK sobre a capacidade de conduzir e utilizar máquinas são consideráveis. Em caso de sonolência ou tonturas, deve evitar-se conduzir veículos ou operar máquinas.
+ 4.8 Efeitos indesejáveis Durante os ensaios clínicos com LITAK em 279 doentes tratados a várias indicações e em 62 doentes com leucemia de células pilosas (HCL) foram observadas as seguintes reacções adversas muito frequentes: mielossupressão, especialmente a neutropenia grave (41% (113/279),98% (HCL, 61/62 )), trombocitopenia grave (21% (58/279),50% (HCL, 31/62 )) e anemia grave (12% (21/150),54% (HCL, 34/62 )), bem como imunossupressão/linfopenia grave (63% (176/279),95% (HCL, 59/62 )), infecções (39% (110/279),58% (HCL, 36/62 )) e febre (até 64%).
+ Em 10-40% dos doentes com leucemia de células pilosas ocorreu febre de cultura negativa após o tratamento com cladribina, tendo sido observada febre apenas raramente em doentes com outras alterações neoplásicas. As erupções cutâneas (rash) (2-31%) foram maioritariamente descritas em doentes tratados concomitantemente com outras substâncias conhecidas por provocarem rash (antibióticos e/ou alopurinol). Durante o tratamento com cladribina foram observados efeitos adversos gastrointestinais como náuseas (5-28%), vómitos (1-13%) e diarreia (3-12%), bem como fadiga (2
+ -48%), cefaleias (1-23%) e falta de apetite (1-22%). É pouco provável que LITAK cause alopecia;
+ foi observada alopecia ligeira e transitória, por poucos dias, em 4/523 doentes durante o tratamento com LITAK, sem que tal pudesse ser claramente associado à cladribina. As reacções adversas que foram relatadas, juntamente com informação sobre a respectiva frequência, estão enumeradas na tabela abaixo. A frequência foi estabelecida do seguinte modo: Muito frequente (&gt; 1/10), frequente (&gt; 1/100, &lt; 1/10), pouco frequente (&gt; 1/1000, &lt; 1/100), raro (&gt; 1/10.000, &lt; 1/1000), muito raro (&lt; 1/10.000) incluindo registos isolados. No que se refere à gravidade, é favor consultar o texto por baixo da tabela.
+ 5 Infecções e infestações Neoplasias benignas, malignas e inespecíficas
+ Muito frequente: infecções* (por ex., pneumonia*, septicemia*) Frequente: malignidades secundárias*
+ Perturbações vasculares Muito frequente: pancitopenia/mielossupressão*, púrpura Frequente: petéquia, hemorragias*
+ Perturbações do sistema imunológico
+ Muito frequente: imunossupressão* Pouco frequente: anemia hemolítica* Muito raro: doença do enxerto contra hospedeiro*, síndrome de lise tumoral*
+ Perturbações do metabolismo e da nutrição
+ Muito frequente: falta de apetite Perturbações do sistema nervoso Muito frequente: cefaleia, tonturas Frequente: insónia, ansiedade Pouco frequente: sonolência, parestesias, fraqueza, letargia, polineuropatia, confusão, ataxia Muito raro: depressão, crise epiléptica
+ Perturbações oculares Pouco frequente: conjuntivite Muito raro: blefarite
+ Perturbações cardíacas Frequente: taquicardia, sopro cardíaco, hipotensão, epistaxe, isquemia miocárdica*
+ Perturbações respiratórias e mediastínicas
+ Muito frequente: ruídos respiratórios anormais, ruídos peitorais anormais, tosse Frequente: apneia, infiltrados pulmonares intersticiais sobretudo devido a etiologia infecciosa, mucosite Pouco frequente: faringite Muito raro: embolia pulmonar
+ Perturbações gastrintestinais Muito frequente: náuseas, vómitos, obstipação, diarreia Frequente: dor gastrintestinal, flatulência
+ Perturbações hepato-biliares Frequente: aumento reversível, maioritariamente ligeiro da bilirrubina e das transaminases Muito raro: colecistite
+ Perturbações da pele e do tecido Muito frequente: erupções (rash), exantema localizado, diaforese. subcutâneo
+ Frequente: prurido, dor na pele, eritema, urticária Pouco frequente: flebite
+ Perturbações músculo-esqueléticas e do tecido conjuntivo
+ Frequente: mialgia, artralgia, artrite, dor nos ossos
+ Perturbações gerais e reacções no local de administração* ver secção descritiva abaixo.
+ Muito frequente: reacção no local da injecção, febre, fadiga, arrepios, astenia Frequente: edema, indisposição, estado doloroso Pouco frequente: caquexia Muito raro: amiloidose
+ As reacções adversas não-hematológicas são, geralmente, de gravidade ligeira a moderada. O tratamento das náuseas com anti-eméticos não é normalmente necessário. As reacções adversas relacionadas com a pele e com o tecido subcutâneo são geralmente ligeiras a moderadas e transitórias, regredindo, em regra, dentro de um intervalo de ciclo de 30 dias.
+ Visto que os doentes com uma leucemia de células pilosas activa apresentam contagens sanguíneas baixas, especialmente contagens de granulócitos neutrófilos baixas, são observadas neutropenias graves transitórias (&lt; 1,0 x 109/l) em mais de 90% dos casos. O uso de factores de crescimento hematopoiéticos nem aumenta a recuperação das contagens de neutrófilos nem diminui a incidência da febre. Deverão ser esperadas trombocitopenias graves (&lt; 50 x 109/l) em cerca de 20% a 30% de todos os doentes. Espera-se linfocitopenia com duração de vários meses e imunossupressão com um risco 6 acrescido de infecções. A recuperação de linfócitos-T citotóxicos e células-NK ocorre no período de 3 a 12 meses. Uma recuperação completa de células adjuvantes de T e de linfócitos-B é retardada até 2 anos.
+ A cladribina induz uma redução grave e prolongada de linfócitos-T CD4+ e CD8+. Presentemente, não existe experiência sobre consequências a longo prazo desta imunossupressão.
+ Existem relatos ocasionais de linfocitopenias graves prolongadas, mas que não foram associadas a complicações infecciosas tardias. As complicações graves mais frequentes com consequências parcialmente fatais são as infecções oportunistas (por ex., pneumocystis carinii, toxoplasmosa gondii, listeria, cândida, vírus de herpes, citomegalovírus e micobactérias atípicas). Quarenta por cento dos doentes tratados com uma dose de 0,7 mg/kg de peso corporal de LITAK por ciclo sofreram de infecções. Estas foram, em média, mais graves do que as infecções observadas em 27% dos doentes que receberam uma dose reduzida de 0,5 mg/kg de peso corporal por ciclo. Em 43% dos doentes com leucemia de células pilosas foram observadas complicações infecciosas num regime de dosagem standard. Um terço destas infecções foi considerado grave (por ex., septicemia, pneumonia). São conhecidos pelo menos 10 casos de anemia hemolítica auto-imune aguda. Todos os doentes foram tratados com êxito por corticosteróides.
+ Foram raramente observados efeitos adversos como ilens, insuficiência hepática grave, insuficiência cardíaca, fibrilhação atrial, descompensação cardíaca, apoplexia, distúrbios neurológicos na fala e na deglutição, síndrome de lise tumoral com insuficiência renal aguda, doença de enxerto contra hospedeiro relacionada com transfusões, síndrome de Stevens-Johnson/síndrome de Lyell (necrólise epidérmica tóxica), anemia hemolítica, hipereosinofilia (com erupção cutânea eritematosa, prurido e edema facial).
+ A maioria das mortes relacionadas com o fármaco deveu-se a complicações infecciosas. Outros casos raros com consequências fatais relatados em associação com a quimioterapia com LITAK foram malignidades secundárias, enfartes cardiovasculares e cerebrais, doença de enxerto contra hospedeiro causada por múltiplas transfusões de sangue não irradiado, bem como síndrome de lise tumoral com hiperuricemia, acidose metabólica e insuficiência renal aguda.
+ 4.9 Sobredosagem Os sintomas comuns de sobredosagem são náuseas, vómitos, diarreia, depressão medular óssea grave (incluindo anemia, trombocitopenia, leucopenia e agranulocitose), insuficiência renal aguda, bem como toxicidade neurológica irreversível (paraparesia/quadriparesia), síndrome de Guillain-Barré e síndrome de Brown-Séquard. Foram observadas neurotoxicidade e nefrotoxicidade aguda e irreversível em doentes individuais tratados com uma dose 4 vezes superior ao regime recomendado para a leucemia de células pilosas.
+ Não existe uma terapêutica antídoto específica. O tratamento adequado para a sobredosagem de cladribina é a descontinuação imediata da terapêutica, a monitorização cuidadosa e a iniciação de medidas de suporte adequadas (transfusões de sangue, diálise, hemofiltragem, terapêutica anti-infecciosa, etc.). Os doentes que tenham sido expostos a sobredosagem de cladribina devem ser monitorizados do ponto de vista hematológico durante, pelo menos,4 semanas.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Análogo da purina (fármaco citostático), código ATC: L01BB04
+ O LITAK contém como substância activa cladribina, um análogo nucleósido da purina que actua como antimetabolito. Apenas a substituição do átomo de hidrogénio por um átomo de cloro na posição 2
+ 7 distingue a cladribina do seu duplicado natural,2'-deoxiadenosina, o que confere à molécula resistência à deaminação por deaminase da adenosina.
+ Resistência e sensibilidade celular A cladribina é uma pró-droga que é rapidamente absorvida nas células após administração parentérica e é fosforilada por via intracelular para o nucleotídeo activo 2-clorodeoxiadenosina-5'-trifosfato (CdATP) por cinase da desoxicitidina (dCK). Uma acumulação de CdATP activo observa-se predominantemente em células com uma elevada actividade de dCK e baixa actividade de deoxinucleotidase, particularmente em linfócitos e em outras células hematopoiéticas. A citotoxicidade da cladribina depende da dose. Os tecidos não-hematológicos parecem não ser afectados, o que explica a baixa incidência da toxicidade não-hematopoiética deste fármaco citostático.
+ Ao contrário de outros análogos de nucleósidos, a cladribina é tóxica tanto em células de proliferação rápida como em células inactivas. Não foi observado qualquer efeito citotóxico da cladribina em linhagens de células de tumores sólidos. O mecanismo de acção da cladribina é atribuído à incorporação de CdATP em cadeias de ADN: a síntese de ADN novo em células divididas é bloqueada e o mecanismo de reparação do ADN é inibido, resultando na acumulação de intervalos da cadeia de ADN e numa diminuição da concentração de NAD (nicotinamida-adenina-dinucleótido) e de ATP, mesmo em células inactivas. Além disso, o CdATP inibe a reductase ribonucleótida, a enzima responsável pela conversão de ribonucleótidos em desoxirribonucleótidos. A morte celular ocorre devido à depleção de energia e à apoptose.
+ 5.2 Propriedades farmacocinéticas Propriedades farmacocinéticas clínicas Absorção A cladribina apresenta biodisponibilidade total após administração parentérica; a área média sob a concentração versus curva de tempo (AUC) no plasma é comparável após infusão intravenosa contínua ou intermitente de 2 horas e após injecção subcutânea.
+ Distribuição A concentração de cladribina no plasma em estado de equilíbrio é de cerca de 7 ng/ml e é alcançada ao fim de 5 a 8 horas após iniciar uma infusão de 2 horas. A concentração máxima no plasma Cmax de 48 ng/mL é atingida em média cerca de 112 minutos após a infusão. Após injecção subcutânea do bólus, é alcançada uma concentração máxima no plasma Cmax de 91 ng/ml, em média, logo após 20 minutos (dose: 0,14 mg/kg de peso corporal/dia). Num outro estudo em que se utilizou a dose de 0,10 mg/kg de peso corporal por dia, a concentração máxima de plasma Cmax após infusão intravenosa contínua foi de 5,1 ng/ml (tmax: 12 horas) comparativamente a 51 ng/ml após a injecção subcutânea do bólus (tmax: 25 minutos). A relevância clínica dos diferentes picos de concentração no plasma após administração intravenosa e subcutânea de cladribina não foi investigada.
+ A concentração intracelular de cladribina excede a concentração da substância no plasma 128 a 375 vezes.
+ O volume médio de distribuição de cladribina é de 9,2 l/kg. A ligação de cladribina às proteínas é, em média, de 25%, observando-se, no entanto, uma larga variação interindividual (5-50%). Em estudos realizados com administração intravenosa, as concentrações intratecais de cladribina corresponderam, em média, a 18-25% das concentrações plasmáticas. Os picos das concentrações de líquido cefalorraquidiano de 6 e 2 ng/ml foram atingidos, respectivamente, após infusão intravenosa intermitente de 2 horas ou infusão intravenosa contínua (dose: 0,12 mg/kg de peso corporal/dia). A um único doente foi administrado LITAK em bólus por via subcutânea, tendo a concentração intratecal atingido 8,75% da concentração plasmática 2 horas mais tarde, sendo no entanto necessária mais experiência.
+ 8 Metabolismo A cladribina intracelular é metabolizada predominantemente por cinase de desoxicitidina para 2-clorodeoxiadenosina-5'-monofosfato, que é depois fosforilado para o difosfato por cinase de monofosfato nucleósido e para o metabolito activo 2-clorodeoxiadenosina-5'-trifosfato (CdATP) por cinase de difosfato nucleósido.
+ Eliminação Estudos farmacocinéticos em humanos revelaram que a curva de concentrações da cladribina no plasma ajusta-se a um modelo de 2 ou 3 compartimentos com semividas α e
+ de, em média,35
+ minutos e 6,7 horas, respectivamente. A semivida terminal do plasma t1/2 ocorreu 7-10 horas após administração intravenosa contínua de 7 dias (0,10 mg/kg de peso corporal/dia) e foi atingida, em média, 19,5 horas após infusão intravenosa intermitente de 2 horas em 5 dias consecutivos (0,14 mg/kg de peso corporal/dia). O declive biexponencial da concentração sérica da cladribina após injecção subcutânea do bólus é comparável aos parâmetros de eliminação após infusão intravenosa de 2 horas, com uma semivida inicial e terminal de aproximadamente 2 e 11 horas, respectivamente. O tempo de retenção intracelular de nucleotídeos de cladribina in vivo é claramente prolongado se comparado com o tempo de retenção no plasma. Em células leucémicas foram medidas semividas t1/2 de inicialmente 15 horas e subsequentemente de mais de 30 horas.
+ A cladribina é eliminada principalmente pelos rins. A excreção renal de cladribina não metabolizada ocorre no espaço de 24 horas e é de 15% e 18% da dose após 2 horas de administração intravenosa e após administração subcutânea, respectivamente. Desconhece-se o que acontece ao restante. A clearance média de plasma é de 794 ml/min após infusão intravenosa e de 814 ml/min após injecção subcutânea do bólus, numa dose de 0,10 mg/kg de peso corporal/dia.
+ Farmacocinética em populações especiais Não existem estudos disponíveis usando cladribina em doentes com insuficiência renal ou hepática (ver também secção 4.2 e 4.4). A experiência clínica é muito limitada e não foi completamente estabelecida a segurança de LITAK neste grupo de doentes. LITAK está contra-indicado em doentes com insuficiência renal moderada a grave ou com insuficiência hepática moderada a grave.
+ Não foi investigado o uso de LITAK em crianças. A experiência com doentes com mais de 75 anos é limitada. Os doentes idosos devem ser avaliados individualmente com uma monitorização rigorosa da concentração em circulação e da função renal e hepática.
+ 5.3 Dados de segurança pré-clínica A cladribina é tóxica de forma moderada a aguda para os ratinhos, com uma DL50 de 150 mg/kg por administração intraperitoneal.
+ Em estudos de tratamento intravenoso contínuo, realizados durante 7 a 15 dias em macacos cynomolgus, os órgãos alvo foram: o sistema imunológico (≥ 0,3 mg/kg/dia), a medula óssea, a pele, as membranas mucosas, o sistema nervoso e os testículos (≥ 0,6 mg/kg/dia) e os rins (≥ 1 mg/kg/dia). À excepção dos casos fatais, a maioria ou a totalidade destes efeitos regrediu lentamente finda a exposição ao fármaco.
+ A cladribina é teratogénica para os ratinhos (em doses de 1,5 – 3,0 mg/kg/dia, administradas aos dias 6 – 15 de gestação). Os efeitos na ossificação esternal foram observados aos 1,5 e 3,0 mg/kg/dia. Aos 3,0 mg/kg/dia registou-se: um aumento da absorção, uma diminuição do tamanho da ninhada, uma redução dos pesos fetais, e um aumento de malformações fetais da cabeça, do tronco e dos apêndices. Nos coelhos a cladribina é teratogénica na dose de 3,0 mg/kg/dia (administrada nos dias 7 – 19 de gestação). Nesta dose observaram-se graves anomalias dos membros, bem como uma significativa redução do peso fetal médio. Verificou-se uma diminuição da ossificação com 1,0 mg/kg/dia.
+ 9 Carcinogénese/mutagénese Não foram realizados estudos prolongados em animais para avaliar o potencial carcinogénico de cladribina. Com base nos dados disponíveis, não pode ser feita a avaliação do risco carcinogénico da cladribina nos humanos.
+ A cladribina é um fármaco citotóxico, que possui um efeito mutagénico em culturas de células de mamíferos. A cladribina é incorporada nas cadeias de ADN e inibe a síntese e a reparação de ADN. A exposição à cladribina em concentrações de 5 nM a 20 µM induz a fragmentação do ADN e a morte celular em várias células e linhagens celulares normais e leucémicas.
+ Diminuição da fertilidade Os efeitos da cladribina sobre a fertilidade não foram estudados nos animais. Contudo, um estudo sobre toxicidade conduzido em macacos cynomolgus mostrou que a cladribina suprime a maturação de células de geração rápida, incluindo células testiculares. O efeito na fertilidade humana não é conhecido. Dos agentes antineoplásicos que interferem com o AND, ARN e a síntese de proteínas, como é o caso da cladribina, podem esperar-se efeitos adversos na gametogénese humana (ver secção 4.4).
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Cloreto de sódio Hidróxido de sódio Ácido clorídrico Água injectável
+ 6.2 Incompatibilidades Este fármaco não deve ser misturado com outros.
+ 6.3 Prazo de validade 4 anos. Dum ponto de vista microbiológico, o fármaco deve ser usado de imediato, a menos que a abertura exclua o risco de contaminação microbiológica. Caso o fármaco não seja imediatamente utilizado, os prazos e as condições de conservação são da responsabilidade do utilizador.
+ 6.4 Precauções especiais de conservação
+ Conserve a 2oC – 8oC (no frigorífico). Não congelar. 6.5 Natureza e conteúdo do recipiente Frasco de vidro tipo I contendo 10 ml, com tampa de borracha (bromobutil) e cápsula de alumínio.
+ As embalagens contêm 1 ou 5 frascos, cada com 5 ml de solução.
+ 6.6 Instruções de utilização, manipulação e eliminação
+ Deve-se recorrer às instruções para uma manipulação e eliminação adequadas de produtos medicinais antineoplásicos. Os fármacos citotóxicos devem ser manuseados com cuidado. Evite o contacto com mulheres grávidas.
+ 10 Recomenda-se o uso de luvas descartáveis e vestuário protector ao manusear e administrar LITAK. Se o LITAK entrar em contacto com a pele ou com as membranas mucosas, enxagúe de imediato a área com bastante água.
+ Antes da administração, os fármacos parentéricos devem ser inspeccionados visualmente quanto à presença de partículas suspensas e à descoloração.
+ Os frascos foram concebidos para uso único. Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Lipomed GmbH Schönaugasse 11 D-79713 Bad Säckingen Alemanha
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 10. DATA DA REVISÃO DO TEXTO 11 ANEXO II
+ A. TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 12 A. TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do fabricante responsável pela libertação do lote
+ Lipomed GmbH Schönaugasse 11 D-79713 Bad Säckingen Alemanha
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento de receita médica restrita (ver anexo I: resumo das características do medicamento, 4.2.).
+ • OUTRAS CONDIÇÕES
+ O titular desta autorização de introdução no mercado deve informar a Comissão Europeia sobre os planos de comercialização do medicamento autorizado pela presente decisão.
+ 13 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 14 A. ROTULAGEM
+ 15 INDICAÇÕES A INCLUIR NA EMBALAGEM EXTERIOR OU, CASO ESTA NÃO EXISTA, NO ACONDICIONAMENTO PRIMÁRIO
+ CARTONAGEM EXTERIOR (EMBALAGEM DE 1 FRASCO)
+ 1. DENOMINAÇÃO DO MEDICAMENTO LITAK 2 mg/ml solução injectável Cladribina
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ 5 ml de solução injectável contém 10 mg de cladribina (2 mg/ml)
+ 3. LISTA DOS EXCIPIENTES Contém cloreto de sódio, hidróxido de sódio, ácido hidroclorídrico e água injectável
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 1 frasco contém 5 ml de solução injectável
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via subcutânea Antes de utilizar, leia o folheto informativo
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ Manipular com cuidado (consultar o folheto informativo)
+ Para administração única 8. PRAZO DE VALIDADE VAL. 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar a 2°C – 8°C (no frigorífico) 16 Não congelar
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Lipomed GmbH Schönaugasse 11 D-79713 Bad Säckingen Alemanha
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/04/275/001 13. NÚMERO DO LOTE DE FABRICO Lote 14. CLASSIFICAÇÃO GERAL RELATIVA AO FORNECIMENTO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO Utilizar de acordo com as indicações do médico
+ 17 INDICAÇÕES A INCLUIR NA EMBALAGEM EXTERIOR OU, CASO ESTA NÃO EXISTA, NO ACONDICIONAMENTO PRIMÁRIO
+ CARTONAGEM EXTERIOR (EMBALAGEM DE 5 FRASCOS)
+ 1. DENOMINAÇÃO DO MEDICAMENTO LITAK 2 mg/ml solução injectável Cladribina
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ 5 ml de solução injectável contém 10 mg de cladribina (2 mg/ml)
+ 3. LISTA DOS EXCIPIENTES Contém cloreto de sódio, hidróxido de sódio, ácido hidroclorídrico e água injectável
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 5 frascos, cada contendo 5 ml de solução injectável
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via subcutânea Antes de utilizar, leia o folheto informativo
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ Manipular com cuidado (consultar o folheto informativo)
+ Para administração única 8. PRAZO DE VALIDADE VAL. 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar a 2°C – 8°C (no frigorífico) 18 Não congelar
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Lipomed GmbH Schönaugasse 11 D-79713 Bad Säckingen Alemanha
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/04/275/002 13. NÚMERO DO LOTE DE FABRICO Lote 14. CLASSIFICAÇÃO GERAL RELATIVA AO FORNECIMENTO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO Utilizar de acordo com as indicações do médico
+ 19 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ ROTULAGEM DOS FRASCOS 1. DENOMINAÇÃO DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ LITAK 2 mg/ml solução injectável Cladribina
+ Via subcutânea 2. MODO DE ADMINISTRAÇÃO Antes de utilizar, leia o folheto informativo
+ 3. PRAZO DE VALIDADE VAL. 4. NÚMERO DO LOTE Lote 5. CONTEÚDO EM TERMOS DE PESO, VOLUME OU UNIDADE
+ 5 ml 20 B. FOLHETO INFORMATIVO
+ 21 FOLHETO INFORMATIVO
+ Leia atentamente este folheto antes de utilizar o medicamento.
+ Conserve este folheto. Pode ter necessidade de o reler. Caso tenha dúvidas, consulte o seu médico ou farmacêutico. Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes prejudicial mesmo que apresentem os mesmos sintomas.
+ Neste folheto: 1. O que é LITAK e para que é utilizado 2. Antes de utilizar LITAK 3. Como utilizar LITAK 4. Efeitos secundários possíveis 5. Conservação de LITAK 6. Informações sobre como injectar LITAK
+ LITAK 2 mg/ml solução injectável Cladribina
+ A substância activa é a cladribina. Cada frasco contém 10 mg de cladribina em solução de 5 ml (2 mg por ml de solução).
+ Os outros ingredientes são: cloreto de sódio, hidróxido de sódio, ácido hidroclorídrico e água injectável.
+ Titular da autorização de introdução no mercado
+ Lipomed GmbH Schönaugasse 11 D-79713 Bad Säckingen Alemanha
+ Responsável pelo fabrico Lipomed GmbH Schönaugasse 11 D-79713 Bad Säckingen Alemanha
+ 1. O QUE É LITAK E PARA QUE É UTILIZADO
+ LITAK é uma solução injectável. Está disponível em embalagens de 1 ou 5 frascos com 5 ml de solução. A solução é transparente e incolor.
+ LITAK foi prescrito pelo seu médico para o tratamento de leucemia de células pilosas, uma forma maligna dos leucócitos.
+ 2. ANTES DE UTILIZAR LITAK Não utilize LITAK • se tem hipersensibilidade (alergia) a cladribina ou a qualquer outro ingrediente de LITAK,
+ • se estiver grávida ou a amamentar,22 • se tiver menos de 16 anos,
+ • se padecer de disfunção moderada ou grave dos rins ou do fígado,
+ • se estiver a tomar quaisquer outros medicamentos que inibem a produção de células sanguíneas na medula óssea.
+ Por favor, informe o seu médico se sofrer ou tiver sofrido de:
+ • infecções,
+ • febre,
+ • doenças hepáticas,
+ • doenças renais.
+ Antes de utilizar o LITAK, deve saber que
+ -o seu tratamento com LITAK foi prescrito por um médico qualificado, com experiência em
+ quimioterapia oncológica. Se sofrer de infecções, estas deverão ser tratadas antes do tratamento com LITAK. Se sentir alguns sinais de febre ou de infecção (tais como os sinais sugestivos de gripe) durante ou após o tratamento com LITAK, informe imediatamente o seu médico. Antes de iniciar o seu tratamento com LITAK, e durante o tratamento, será submetido regularmente a análises ao sangue para verificar se é seguro continuar o tratamento. Além disso, serão verificadas as suas funções hepáticas e renais. O seu médico pode decidir que terá de receber uma transfusão de sangue ou que deverá tomar medicação adicional contendo a substância activa alopurinol, a fim de reduzir o excesso de ácido úrico. Os homens que pretendam procriar, deverão informar o médico do seu desejo antes de o tratamento com LITAK ser iniciado. Nos 6 meses que se seguem ao tratamento com LITAK, o homem não deverá procriar. O seu médico poderá aconselhá-lo acerca da possibilidade de conservar esperma por congelamento.
+ Gravidez Não deve ser medicada com LITAK se estiver grávida, ou se planear engravidar, porque pode causar lesões ao feto. Deverá tomar as precauções contraceptivas adequadas durante a terapêutica e, pelo menos, durante mais três meses após ter deixado de tomar LITAK. Se engravidar durante o tratamento, deverá informar o seu médico imediatamente.
+ Aleitamento Não poderá amamentar durante o tratamento com LITAK.
+ Condução de veículos e utilização de máquinas
+ LITAK exerce um efeito significativo sobre a capacidade de conduzir ou utilizar máquinas, uma vez que pode causar-lhe sonolência ou tonturas. Se sentir sonolência ou tonturas, não deverá conduzir veículos nem operar máquinas.
+ Utilizar LITAK com outros medicamentos Tome precauções especiais com LITAK se estiver a tomar outros fármacos que afectem a produção das células sanguíneas (por ex.: outros fármacos anti-cancerosos ou outros esteróides).
+ 23 Por favor, informe o seu médico:
+ • se estiver a tomar quaisquer outros medicamentos que tenham sido prescritos por um médico para qualquer outro problema (por ex.: medicamentos antivirais),
+ • se estiver a tomar quaisquer outros medicamentos que tenha adquirido sem receita médica.
+ 3. COMO UTILIZAR LITAK LITAK pode ser injectado debaixo da pele (utilização subcutânea). LITAK deve ser injectado aproximadamente à mesma hora todos os dias. A dose correcta será calculada pelo seu médico, e o esquema de tratamento ser-lhe-á explicado pormenorizadamente. A posologia depende do seu peso corporal. A posologia recomendada é de 0,14 mg por quilo de peso corporal/dia, durante cinco dias consecutivos.
+ O LITAK é fornecido como solução para injecção subcutânea pronta a usar. A dose recomendada é retirada directamente com uma seringa e injectada sem diluição. Deixe aquecer o LITAK à temperatura ambiente antes de administrar.
+ Não utilize embalagens que se apresentem danificadas, soluções que não tenham um aspecto límpido, nem soluções que contenham quaisquer partículas suspensas.
+ LITAK deve ser manuseado com cuidado. Evite o contacto por mulheres grávidas. Recomenda-se o uso de luvas descartáveis e vestuário protector ao manusear e administrar LITAK. Se o LITAK entrar em contacto com a pele ou com os olhos, enxagúe de imediato a superfície afectada com bastante água.
+ Se injectar LITAK a si próprio, deverá receber instruções sobre a forma de preparar e administrar a injecção. No final deste folheto encontrará instruções para a injecção subcutânea.
+ O LITAK não deve ser misturado com outros medicamentos.
+ No caso de injectar uma dose incorrecta, ou de se esquecer de administrar uma dose, dê imediatamente conhecimento disso ao seu médico.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como os demais medicamentos, LITAK pode ter efeitos secundários. Os efeitos secundários podem ocorrer durante o tratamento ou no período subsequente. O seu médico discutirá consigo os efeitos secundários de LITAK e explicar-lhe-á os riscos e benefícios do seu tratamento.
+ Os efeitos secundários possíveis podem incluir: (A frequência é estabelecida do seguinte modo: muito frequente (mais do que 1 em 10 pessoas), frequente (mais do que 1 em 100 pessoas e menos do que 1 em 10 pessoas), pouco frequente (mais do que 1 em 1000 pessoas e menos do que 1 em 100 pessoas), raro (mais do que 1 em 10.000 pessoas e menos do que 1 em 1000 pessoas), muito raro (menos do que 1 em 10.000 pessoas incluindo registos isolados)
+ • Perturbações dos sistemas sanguíneo e imunológico: Estes efeitos secundários do tratamento com LITAK são muito frequentes devido à inibição da produção de células sanguíneas na medula óssea. Pode ser encontrado no seu sangue um número inferior de determinados glóbulos (neutrófilos, plaquetas e linfócitos). O seu sangue pode não conter glóbulos vermelhos suficientes (anemia). O seu sistema imunológico pode tornar-se debilitado (imunossupressão). Isto pode causar febre (temperatura corporal elevada), pelo que ficará mais propenso a desenvolver infecções. 24 Frequente: O número baixo de plaquetas pode causar hemorragias inesperadas (por ex.: no nariz ou na pele). Pouco frequente: Destruição prematura de glóbulos vermelhos. Muito raro: Resposta de rejeição a transfusões e efeitos tóxicos devido à destruição do tumor.
+ • Perturbações do sistema nervoso: Muito frequente: Dor de cabeça, tonturas, sonolência. Frequente: Insónia, ansiedade. Pouco frequente: Sonolência, entorpecimento e formigueiro na pele, fraqueza/debilidade, inactividade, perturbações dos nervos periféricos, confusão, capacidade debilitada de coordenação de movimentos. Muito raro: Depressão, ataques epilépticos.
+ • Problemas oculares: Pouco frequente: Inflamação ocular (conjuntivite). Muito raro: Tumefacção das pálpebras.
+ • Problemas cardíacos: Frequente: batimento cardíaco acelerado, sopro cardíaco, tensão baixa e condução sanguínea reduzida ao músculo cardíaco.
+ • Disfunções respiratórias: Muito frequente: Ruídos respiratórios anormais, ruídos peitorais anormais, tosse. Frequente: Apneia, tumefacção (infiltrações) no tecido pulmonar devido a infecção na boca e língua. Pouco frequente: Irritação da garganta. Muito raro: Coágulo de sangue no pulmão (embolia pulmonar).
+ • Efeitos secundários gastrintestinais e do foro hepático: Muito frequente: Sensação e estado de náusea, vómitos, obstipação intestinal e diarreia. Frequente: Dor gastrintestinal e presença de quantidade excessiva de gás no estômago ou nos intestinos (flatulência), quase sempre elevação ligeira dos valores laboratoriais do fígado (bilirrubina, transaminases), que regressarão aos valores normais terminado o tratamento. Raro: Função hepática gravemente diminuída. Muito raro: Inflamação da vesícula biliar.
+ • Problemas renais: Raro: Função renal diminuída.
+ • Reacções cutâneas: Muito frequente: Erupção da pele (rash), inchaço, vermelhidão, bem como ulceração em redor do local da injecção, suores, Frequente: Comichão, urticária e dor na pele. Pouco frequente: Inflamação de veias. As reacções da pele são maioritariamente ligeiras a moderadas e são geralmente curadas em poucos dias.
+ • Perturbações gerais: Muito frequente: Cansaço, arrepios, perda do apetite. Frequente: Inchaço dos tecidos (edema), mal-estar, dor (dor muscular, dor articular e dor óssea). Pouco frequente: Subnutrição. Muito raro: Diminuição da função de órgãos devido a quantidades elevadas duma substância específica produzida pelo organismo (uma glicoproteína).
+ • Não pode ser excluída a hipótese de reaparecimento de doença maligna.
+ 25 Poderá sentir um ou vários destes sintomas, mas deverá sempre comunicar ao seu médico o seu aparecimento.
+ Caso detecte efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. CONSERVAÇÃO DE LITAK Manter fora do alcance e da vista das crianças.
+ Conservar a 2°C – 8°C (no frigorífico). Não congelar. Não utilize LITAK após expirar o prazo de validade indicado no frasco e na embalagem.
+ 6. INFORMAÇÕES SOBRE COMO INJECTAR LITAK
+ Esta secção contém informação sobre como deve ser administrado o LITAK injectável. É importante que não tente auto-injectar-se a menos que tenha sido ensinado pelo seu médico ou pela enfermeira. As seringas devem ser rejeitadas num contentor à prova de furos. Se tiver alguma dúvida relacionada com a administração do injectável, recorra à ajuda do seu médico ou da enfermeira.
+ Como injectar LITAK a mim mesmo? Terá que se injectar a si próprio nos tecidos logo abaixo da pele. Chama-se a isto uma injecção subcutânea. O seu médico indicar-lhe-á a quantidade de LITAK necessária para si e qual a frequência e o momento em que deve auto-injectar-se.
+ Material necessário Para administrar a si mesmo uma injecção subcutânea, necessitará de:
+ • um frasco de LITAK (ou dois frascos, caso necessite de injectar mais de 5 ml),
+ • uma seringa esterilizada (ou seja: uma seringa LUER de 10 ml),
+ • uma agulha para injectar esterilizada (por ex. 0,5 x 10 mm,25 G x ¾ ’’),
+ • compressas ou algodão com álcool,
+ • um contentor à prova de furos, para a eliminação segura das seringas usadas.
+ O que devo fazer antes de administrar a mim mesmo uma injecção subcutânea de LITAK?
+ 1. Antes de se injectar, deixe o LITAK ficar à temperatura ambiente.
+ 2. Lave as mãos cuidadosamente.
+ 3. Procure um local confortável e bem iluminado e coloque tudo o que precisa ao seu alcance.
+ Como devo preparar a injecção? Antes de injectar LITAK deve fazer o seguinte:
+ 26 1. Retire a cápsula protectora vermelha do frasco de LITAK. Não retire a tampa de borracha do frasco. Desinfecte com álcool a parte superior da borracha do frasco. Retire a seringa da embalagem sem tocar na ponta da seringa. Retire a agulha da embalagem e adapte-a firmemente à extremidade da seringa. Retire a protecção da agulha sem tocar na agulha.
+ 2. Introduza a agulha através da tampa de borracha do frasco e inverta o frasco e a seringa. Assegure-se de que a extremidade da agulha se encontra imersa na solução.
+ 3. Introduza na seringa a quantidade correcta de LITAK, puxando o êmbolo para trás (o seu médico informá-lo-á de quantos ml de LITAK precisa de injectar).
+ 4. Retire a agulha do frasco.
+ 5. Assegure-se de que não resta nenhum ar na seringa: aponte a agulha para cima e empurre o ar para fora.
+ 6. Verifique se tem a quantidade adequada.
+ 7. Injecte de seguida.
+ Onde devo administrar a minha injecção? Os locais mais adequados para administrar a sua injecção encontram-se ilustrados aqui: na zona superior das ancas e no abdómen, à excepção da zona em redor do umbigo. Se for outra pessoa a administrar-lhe a injecção, também poderá ser utilizada a parte externa superior dos braços ou as nádegas.
+ Como devo administrar a minha injecção? 1. Desinfecte a pele com a compressa ou algodão embebidos em álcool, aguarde que a zona fique seca e forme uma prega com a pele, utilizando o polegar e o indicador, mas sem apertar.
+ 2. Introduza a agulha completamente na pele, formando um ângulo de 45°, como se ilustra na figura.
+ 3. Puxe ligeiramente o êmbolo para se certificar de que não atingiu nenhum vaso sanguíneo. Se vir sangue na seringa, retire a agulha e injecte noutro sítio.
+ 4. Injecte o líquido lenta e regularmente durante cerca de um minuto, mantendo sempre a prega na pele.
+ 5. Após ter injectado o líquido, retire a agulha.
+ 27 6. Coloque a seringa utilizada no contentor à prova de furos. Use uma seringa e uma agulha novas para cada injecção. Os frascos foram concebidos para uso único. Devolva ao seu médico ou farmacêutico o que sobrar após a utilização, a fim de ser devidamente eliminado.
+ Eliminação de seringas utilizadas Coloque as seringas usadas num contentor à prova de furos e mantenha-as fora da vista e do alcance das crianças.
+ Proceda à eliminação do contentor à prova de furos de acordo com as instruções dadas pelo seu médico, enfermeira ou farmacêutico.
+ Não deite as seringas usadas no recipiente do lixo doméstico.
+ Este folheto foi aprovado pela última vez em …………….
+ 28

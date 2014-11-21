@@ -1,0 +1,674 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 NOME DO MEDICAMENTO 1.
+ PhotoBarr 15 mg pó para solução injectável
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada frasco para injectáveis contém 15 mg de porfímero sódico. Após a reconstituição, cada ml de solução contém 2,5 mg de porfímero sódico.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Pó para solução injectável. Um pó ou aglomerado liofilizado vermelho escuro a castanho avermelhado.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas A terapêutica fotodinâmica (PDT) com PhotoBarr é indicada para ablação de displasia de grau elevado (HGD) em doentes com Esófago de Barrett (BO).
+ 4.2 Posologia e modo de administração A terapêutica fotodinâmica com PhotoBarr só deve ser efectuada por um médico com experiência em procedimentos com laser endoscópico ou sob a sua supervisão.
+ Posologia A dose recomendada de PhotoBarr é de 2 mg/kg de peso corporal.
+ Solução reconstituída de PhotoBarr (ml)= Peso do doente (kg) x 2 mg/kg= 0,8 x peso do doente 2,5 mg/ml
+ Após a reconstituição, o PhotoBarr é uma solução opaca vermelho escuro a castanho avermelhado.
+ Só uma solução sem partículas deve ser utilizada e sem sinais visíveis de deterioração.
+ A terapêutica fotodinâmica com PhotoBarr é um processo que envolve duas fases e requer a administração dum medicamento e de luz. Um ciclo de PDT consiste numa injecção e numa ou duas aplicações de luz.
+ Em caso de persistência de HGD, poderão ser administrados ciclos adicionais do tratamento (até um máximo de três ciclos, separadas por um mínimo de 90 dias) para aumentar a taxa de resposta. Esta deverá ser equilibrada de acordo com o aumento da taxa de formação de estenose (ver secção 4.8 e a secção 5.1).
+ A evolução para cancro foi relacionada com o número de aplicações de PDT administradas. Os doentes que receberam uma aplicação de PDT apresentaram um risco mais elevado de evolução para cancro do que os doentes que receberam duas ou três aplicações de PDT (50% vs. 39% e 11% respectivamente).
+ 2 Método de administração Para obter instruções sobre a reconstituição antes da administração, ver secção 6.6.
+ Os médicos deverão possuir experiência na utilização de PDT. A primeira fase da PDT consiste na injecção intravenosa lenta de PhotoBarr. A segunda fase da terapêutica consiste na iluminação com luz laser 40-50 horas após a injecção de PhotoBarr. Os doentes devem receber uma segunda aplicação de luz laser 96-120 horas após a administração.
+ O PhotoBarr deve ser administrado sob a forma duma única injecção intravenosa lenta durante 3 a 5 minutos. Se for acidentalmente injectado por via perivenosa, poderá causar danos no tecido perivenoso. Assim, devem ser tomadas as devidas precauções no sentido de evitar o extravasamento no local de injecção. Se ocorrer extravasamento, a área deve ser protegida da luz durante um período mínimo de 90 dias. Não existe qualquer vantagem conhecida da injecção do local de extravasamento com outra substância.
+ Aproximadamente 40-50 horas após a administração de PhotoBarr, deve ser administrada luz mediante um difusor de fibra óptica que atravessa o canal central dum balão de centragem. A escolha da combinação difusor de fibra óptica/balão dependerá do comprimento do esófago a tratar (Quadro 1).
+ Quadro 1. Combinação difusor de fibra óptica/balãoa
+ Comprimento da mucosa Tamanho do difusor de de Barrett tratada (cm) fibra óptica (cm)
+ Tamanho da janela do balão (cm) 6-7 9 7 4-5 7 5 1-3 a 5 3 Sempre que possível, o segmento do BO seleccionado para tratamento deve incluir margens de tecido normal de alguns milímetros nas extremidades proximal e distal.
+ Doses de luz A foto-activação é controlada pela dose total de luz administrada. O objectivo consiste em expor e tratar todas as áreas de HGD e o comprimento total do BO. A dose de luz administrada será de 130 Joules/cm (J/cm) de comprimento do difusor utilizando um balão de centragem. Com base nos estudos pré-clínicos, a intensidade de luz aceitável para a combinação balão/difusor varia entre 175-270 mW/cm de difusor.
+ Para calcular a dose de luz, aplica-se a seguinte equação específica de dosimetria de luz para todos os difusores de fibra óptica:
+ A dose de luz (J/cm)= potência de emissão do difusor (W) x tempo de tratamento (seg) Comprimento do difusor (cm)
+ O Quadro 2 apresenta as configurações que deverão ser utilizadas para administrar a dose no mais curto período de tempo (intensidade de luz de 270 mW/cm). Uma segunda opção (intensidade de luz de 200 mW/cm) foi também incluída nos casos necessários para contemplar lasers com uma capacidade total que não exceda os 2,5 W.
+ Quadro 2. Potências de emissão da fibra óptica e tempos de tratamento para administrar 130 J/cm de comprimento do difusor utilizando um balão de centragem Comprimento Comprimento Intensidade Potência de
+ Tempo de Tempo de da janela do
+ do difusor
+ da luz
+ emissão necessária tratamento tratamento no difusora (W)
+ balão (cm) 3 5
+ (cm) 5 7
+ (mW/cm) 270 270
+ (seg) (min: seg) 1,35 480 8: 00 1,90 480 8: 00
+ 3 200 1,40 650 10: 50
+ 7 a 9 270 200 2,44 480 8: 00 1,80 650 10: 50
+ Medido imergindo o difusor na cuvete do potenciómetro e aumentando lentamente a potência do laser. Nota: Não deve ser necessária uma potência de laser superior a 1,5 vezes a potência de emissão do difusor. Se for necessária uma superior, o sistema deve ser verificado.
+ Os difusores de fibra óptica curtos (≤ 2,5 cm) devem ser utilizados no pré-tratamento de nódulos com 50 J/cm de comprimento do difusor antes do tratamento regular com balão na primeira sessão de luz laser ou para o recomeço do tratamento de áreas" omitidas" após a primeira sessão de luz. Para este tratamento, o difusor de fibra óptica é utilizado sem um balão, devendo ser utilizada uma intensidade de luz de 400 mW/cm. O Quadro 3 apresenta uma lista das potências de emissão da fibra óptica e os tempos de tratamento utilizando uma intensidade de luz de 400 mW/cm.
+ Quadro 3. Difusores de fibra óptica curtos a utilizar sem um balão de centragem para administrar 50 J/cm de comprimento do difusor com uma intensidade de luz de 400 mW/cm
+ Comprimento Potência de emissão Tempo de Tempo de necessária no difusora
+ do
+ difusor (cm)
+ (W)
+ tratamento (seg)
+ tratamento (min: seg)
+ a
+ 1,0 1,5 2,0 2,5
+ 0,4 0,6 0,8 1,0
+ 125 125 125 125
+ 2: 05 2: 05 2: 05 2: 05 Medido imergindo o difusor na cuvete do potenciómetro e aumentando lentamente a potência do laser. Nota: Não deve ser necessária uma potência de laser superior a 1,5 vezes a potência de emissão do difusor. Se for necessária uma superior, o sistema deve ser verificado.
+ Primeira aplicação de luz Na primeira sessão de luz, é tratada uma extensão máxima de 7 cm de mucosa da Barrett utilizando um balão de centragem e um difusor de fibra óptica com a dimensão adequada (Quadro 1). Sempre que possível, o segmento seleccionado para a primeira aplicação de luz deve incluir todas as áreas de HGD. Também sempre que possível, o segmento do BO seleccionado para as primeiras aplicações de luz deve incluir margens de tecido normal de alguns milímetros nas extremidades proximal e distal. Os nódulos devem ser pré-tratados com doses de luz de 50 J/cm de comprimento do difusor com um difusor de fibra óptica curto (≤ 2,5 cm) colocado directamente contra os nódulos, seguido de aplicação regular do balão, conforme descrito acima.
+ Repetição da aplicação de luz Poderá ser administrada uma segunda aplicação de luz laser num segmento previamente tratado que apresente uma área' omitida', (i. e., uma área que não apresente uma resposta suficiente da mucosa) utilizando um difusor de fibra óptica curto &lt; 2,5 cm com uma dose de luz de 50 J/cm de comprimento do difusor (ver Quadro 3). O regime de tratamento encontra-se resumido no Quadro 4. Os doentes com BO &gt; 7 cm devem ser tratados na extensão não tratada remanescente do epitélio de Barrett com um segundo ciclo de PDT, com um período de segurança de pelo menos 90 dias.
+ Quadro 4. Displasia de grau elevado em Esófago de Barrett &lt; 7 cm
+ Procedimento Dia de estudo Dispositivos de administração de luz
+ Intenção do tratamento Injecção de PhotoBarr Dia 1 Dia 3a NA Captação do fotossensibilizador Aplicação de luz laser Balão de 3,5 ou 7 cm (130 J/cm) Foto-activação Aplicação de luz laser Dia 5 Difusor de fibra óptica curto (≤ 2,5 cm) (50 J/cm)
+ Tratamento das áreas" omitidas" apenas 4 a Os nódulos discretos receberão uma aplicação de luz inicial de 50 J/cm (utilizando difusor curto) antes da aplicação de luz com balão.
+ Os doentes podem ser submetidos a uma segunda aplicação de PDT um mínimo de 90 dias após a terapêutica inicial; deve ser administrado um máximo de três ciclos de PDT (cada injecção separada por um mínimo de 90 dias) num segmento previamente tratado e que ainda exiba HGD ou a um novo segmento se o segmento de Barrett inicial tiver um comprimento &gt; 7 cm. Tantos os segmentos residuais como os adicionais podem ser tratados na(s) mesma(s) sessão(ões) de luz se o comprimento total dos segmentos tratados com a combinação balão/difusor não for superior a 7 cm. No caso dum segmento esofágico previamente tratado, se este não tiver sido suficientemente curado e/ou a avaliação histológica das biópsias não for clara, o ciclo subsequente de PDT poderá ser retardada durante 1-2 meses adicionais.
+ É crucial ter um cuidado especial para garantir um doseamento preciso de PhotoBarr e/ou da dose de luz, uma vez que o cálculo incorrecto da dose de medicamento ou de luz pode levar a um tratamento menos eficaz ou causar efeito prejudicial no doente. A terapêutica fotodinâmica com PhotoBarr deve ser aplicada por médicos treinados no uso endoscópico de PDT e apenas em instalações apropriadamente equipadas para o procedimento.
+ Populações especiais Doentes pediátricos PhotoBarr não é recomendado em crianças com idade inferior a 18 anos devido à ausência de dados de segurança e eficácia.
+ Doentes geriátricos (≥ 65 anos) Não é necessária qualquer modificação da dose em função da idade.
+ Compromisso renal A influência da insuficiência renal sobre a exposição ao porfímero sódico não foi avaliada (ver secção 4.3).
+ Compromisso hepático A influência da insuficiência hepática sobre a exposição ao porfímero sódico não foi avaliada (ver secção 4.3 e 4.4).
+ 4.3 Contra-indicações Hipersensibilidade à substância activa, outras porfirinas ou a qualquer um dos excipientes.
+ Porfiria. Compromisso renal e/ou hepática grave. Varizes esofágicas ou gástricas ou doentes com úlceras esofágicas com &gt; 1 cm de diâmetro.
+ Fístula traqueo-esofágica ou bronco-esofágica.
+ Suspeita de erosão dos vasos sanguíneos principais devido ao risco de hemorragia maciça, potencialmente fatal.
+ 4.4 Advertências e precauções especiais de utilização
+ A eficácia e especialmente a segurança da PDT com PhotoBarr não foram estabelecidas em doentes com contra-indicações ou não elegíveis para esofagectomia. A terapêutica fotodinâmica com PhotoBarr foi estudada exclusivamente em doentes sem condições médicas graves, tais como
+ 5 insuficiência cardíaca congestiva em estado avançado ou condições pulmonares graves passíveis de comprometer a elegibilidade dos doentes para intervenção cirúrgica.
+ Nos ensaios clínicos, a PDT com PhotoBarr apenas foi testada em doentes não tratados anteriormente com terapêutica ablativas da mucosa. A segurança e a eficácia em doentes que experimentaram falha de tratamento noutras terapêuticas locais de ablação de mucosas, não foram avaliadas.
+ Os doentes com idade superior a 75 anos poderão apresentar um risco mais elevado de acontecimentos adversos de âmbito respiratório, tais como efusão pleural e dispneia.
+ Doenças pulmonares ou cardíacas Os doentes com diagnóstico de doença pulmonar ou cardíaca ou um historial deste tipo de doenças devem ser tratados com precaução. Estes doentes poderão apresentar um risco superior de desenvolvimento de acontecimentos adverso de âmbito cardíaco e pulmonar, tais como perturbações do ritmo cardíaco, angina de peito, dispneia, tosse, efusão pleural, faringite, atelectasia e desidratação (ver também secção 4.8).
+ Fotossensibilidade Todos os doentes tratados com PhotoBarr estarão fotossensíveis e deverão observar precauções no sentido de evitar a exposição da pele e dos olhos, à luz directa do sol ou a fontes de luz artificial intensas (de lâmpadas de exame médico, incluindo lâmpadas para estomatologia, lâmpadas de salas cirúrgicas, lâmpadas sem filtro opaco próximas, luzes de néon, etc.) durante pelo menos 90 dias após o tratamento, pois alguns doentes podem manter a fotosssensibilidade durante 90 dias ou mais. Durante este período, os doentes devem utilizar óculos de sol de lentes escuras, com uma transmitância média de luz branca &lt; 4% no exterior. A fotossensibilidade deve-se a substâncias fotoactivas residuais, que estarão presentes em todas as partes da pele. A exposição da pele à luz ambiente de interiores é, contudo benéfica, pois o medicamento remanescente será gradualmente desactivado através duma reacção de foto-branqueamento. Por esse motivo, os doentes não deverão permanecer numa sala escura durante este período e devem ser encorajados a expor a sua pele à luz ambiente de interiores. O nível de fotosssensibilidade variará nas diferentes partes do corpo, dependendo da extensão da exposição anterior à luz. Antes de expor qualquer área da pele à luz directa do sol ou a luz interior intensa, o doente deverá ser testado relativamente à sua fotosssensibilidade residual. Uma área reduzida de pele deverá ser exposta à luz do sol durante 10 minutos. O tecido em torno dos olhos pode ser mais sensível, pelo que não se recomenda a utilização da face para o teste. Se não ocorrer qualquer reacção de fotosssensibilidade (eritema, edema, formação de vesículas) no espaço de 24 horas, o doente pode regressar gradualmente às actividades ao ar livre, continuando inicialmente a tomar precauções e aumentando gradualmente a exposição. Se ocorrer alguma reacção de fotosssensibilidade na porção limitada de pele testada, o doente deverá manter as precauções durante mais 2 semanas antes de realizar o teste novamente. No caso de os doentes viajarem para uma área geográfica diferente e com uma intensidade solar superior, deverão ser submetidos novamente ao teste do seu nível de fotosssensibilidade. Os protectores solares convencionais contra UV (ultra-violetas) não são de nenhum modo eficazes na protecção contra reacções de fotosssensibilidade, pois a foto-activação é causada pela luz visível.
+ Compromisso hepático Não se encontram disponíveis dados de farmacocinética e dados de segurança em doentes com compromisso hepático. Com base na evidência de a principal via de eliminação de substâncias fotoactivas ser hepática/biliar, poderão aumentar a gravidade das reacções fototóxicas assim como a duração do período de fotossensibilidade em doentes com qualquer grau de compromisso hepático. PhotoBarr está contra-indicado em doentes com compromisso hepático grave. Os doentes com compromisso hepático ligeiro a moderado devem receber instruções claras no sentido de que o período necessário para as medidas de precaução descritas abaixo poderá ser superior a 90 dias.
+ Os doentes deverão ser aconselhados a consultar o seu oftalmologista se detectarem quaisquer alterações após o tratamento por PDT com PhotoBarr.
+ 6 Como resultado do tratamento por PDT, os doentes poderão apresentar queixas de dor torácica retrosternal devida a respostas inflamatórias na área de tratamento. Tal dor poderá ser duma intensidade suficiente para obrigar à prescrição de tratamento de curta duração com analgésicos opiáceos.
+ O uso profilático de corticosteróides para reduzir a formação de estenose deve ser evitado durante a PDT, uma vez que a sua utilização demonstrou não reduzir, e até piorar, a formação de estenose.
+ A PDT com PhotoBarr causa regularmente disfagia, odinofagia, náuseas e vómitos. Deste modo, os doentes devem ser aconselhados no sentido de receberem alimentos líquidos durante os primeiros dias (até 4 semanas) após a aplicação de luz laser. Se a ingestão de alimentos e/ou bebidas se tornar impossível ou ocorrerem episódios recorrentes de vómito, os doentes deverão ser aconselhados a novo exame clínico para avaliação e para administração de líquidos por via intravenosa, se necessário.
+ No caso de necessidade de utilização da PDT antes ou depois de radioterapia, deverá ser respeitado um intervalo de tempo entre terapêuticas de modo a garantir que a reacção inflamatória produzida pelo primeiro tratamento, diminuiu antes de iniciar o segundo tratamento.
+ De momento, não estão disponíveis dados sobre o efeito a longo prazo do PhotoBarr (superior a dois anos). Além disso, os médicos responsáveis pelo tratamento devem estar sensibilizados para a possibilidade de crescimento de epitélio escamoso excessivo e para o risco de neoplasia subjacente. Deste modo, deverá ser mantida uma vigilância adequada e rigorosa apesar do possível restabelecimento endoscópico parcial ou completo da mucosa escamosa normal. Nos estudos clínicos com PhotoBarr, a vigilância de seguimento foi efectuada trimestralmente ou semestralmente no caso de quatro resultados consecutivos de biópsia sem displasia de grau elevado (ver secção 5.1). As normas orientadoras de tratamento e vigilância disponíveis devem ser consideradas.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Não foram conduzidos quaisquer estudos formais de interacção com o PhotoBarr para investigação de interacções farmacocinéticas com outros medicamentos.
+ Um estudo de investigação das interacções farmacodinâmicas demonstrou que os corticosteróides administrados antes ou concomitantemente com a PDT para diminuição da estenose podem diminuir a segurança do tratamento.
+ É possível que o uso concomitante de outros agentes fotossensibilizantes (por exemplo, tetraciclinas, sulfonamidas, fenotiazinas, agentes hipoglicemiantes de sulfonilureia, diuréticos de tiazida, griseofulvina e fluoroquinolonas) possa aumentar a reacção de fotossensibilidade.
+ A PDT com PhotoBarr causa danos intracelulares directos devido ao facto de iniciar reacções em cadeia radicais que danificam as membranas intracelulares e as mitocôndrias. Os danos tecidulares resultam também da isquémia secundária à vasoconstrição, activação e agregação plaquetária e coagulação. A investigação em animais e em culturas de células sugeriu que um grande números de substâncias activas poderiam influenciar os efeitos da PDT, sendo a seguir descritos possíveis exemplos. Não estão disponíveis dados obtidos em humanos para apoiar ou refutar estas possibilidades. É previsível que os compostos que suprimem os radicais livres de oxigénio ou que os removem, tais como o sulfóxido de dimetilo, o b-caroteno, o etanol, o formato e o manitol, diminuam a actividade da PDT. Os dados pré-clínicos sugerem também que a isquémia tecidular, o alopurinol, os bloqueadores dos canais de cálcio e alguns inibidores da síntese de prostaglandinas poderão interferir com a PDT com PhotoBarr. Os medicamentos que reduzem a coagulação, a vasoconstrição ou a agregação plaquetária como, por exemplo, os inibidores do tromboxano A2, podem diminuir a eficácia da PDT.
+ 4.6 Gravidez e aleitamento Gravidez 7 Não estão disponíveis quaisquer dados clínicos sobre a exposição de grávidas ao porfímero sódico. Os estudos em animais são insuficientes no que diz respeito aos efeitos sobre a gravidez, o desenvolvimento embrionário/fetal, o parto e o desenvolvimento pós-natal (ver secção 5.3). Desconhece-se o risco potencial para o ser humano. O porfímero sódico não deve ser utilizado durante a gravidez, a menos que tal seja claramente necessário. As mulheres em idade fértil deverão utilizar métodos eficazes de contracepção antes, durante e pelo menos 90 dias após o tratamento.
+ Lactação Desconhece-se se o porfímero sódico é excretado através do leite materno humano. Em ratos, o porfímero sódico passou para o leite materno. O aleitamento deve ser interrompido antes do tratamento.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas. Para o procedimento de PDT, poderá ser necessária sedação, e devem ser tomadas as devidas precauções. Os doentes não devem conduzir ou utilizar máquinas após o tratamento com luz se tiverem sido sedados para o procedimento.
+ 4.8 Efeitos indesejáveis Todos os doentes tratados com PhotoBarr estarão fotossensíveis e deverão observar precauções no sentido de evitar a luz do sol e luz interior intensa (ver secção 4.4). Num estudo farmacocinético aberto, a totalidade dos 24 indivíduos saudáveis experimentou reacções de fotosssensibilidade, caracteristicamente representadas por erupção eritematosa e edema, de intensidade ligeira a moderada. As reacções de fotosssensibilidade ocorreram principalmente na face, mãos e região do pescoço, que são as áreas da pele mais susceptíveis à exposição acidental à luz solar. Foram descritas outras manifestações cutâneas menos comuns em áreas onde ocorreram reacções de fotosssensibilidade, tais como o aumento do crescimento de cabelo, descoloração cutânea, nódulos cutâneos, rugas cutâneas e fragilidade cutânea. Estas manifestações são passíveis de serem atribuídas a um estado de pseudoporfiria (porfiria cutânea temporária induzida por medicamentos). A frequência e a natureza das reacções de fotosssensibilidade experimentadas neste estudo são díspares da incidência documentada por observações em estudos clínicos anteriores em doentes com cancro (aprox. 20%) ou da incidência notificada espontaneamente a partir da utilização comercial do PhotoBarr (&lt; 20%). É possível que a exposição prolongada à luz na unidade de investigação clínica ou a exposição acidental à luz solar após a alta sejam responsáveis pela elevada frequência de reacções de fotosssensibilidade. O estilo de vida mais activo dos indivíduos saudáveis e relativamente jovens comparativamente com o dos doentes com cancro poderá ter contribuído para estas reacções de fotosssensibilidade.
+ O tratamento concomitante com PDT e omeprazol (PDT+ OM) foi comparado com um grupo tratado apenas com omeprazol (OM apenas), no ensaio clínico controlado de BO com HGD. No grupo PDT+ OM, foram tratados 133 doentes. As reacções adversas mais frequentemente notificadas foram reacções de fotosssensibilidade (69%), estenose esofágica (40%), vómitos (32%), dor torácica de origem não cardíaca (20%), pirexia (20%), disfagia (19%), obstipação (13%), desidratação (12%) e náuseas (11%). A maioria destas reacções adversas notificadas eram de intensidade ligeira a moderada.
+ As reacções adversas notificadas são listadas em baixo no Quadro 5 por classes de órgãos e frequência. As frequências são definidas como: muito frequentes (&gt; 1/10); frequentes (&gt; 1/100, &lt; 1/10); pouco frequentes (&gt; 1/1000, &lt; 1/100). Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ Quadro 5. Resumo das reacções adversas com porfímero sódico em doentes com HGD e BO Infecções e infestações Pouco frequentes:
+ Bronquite, infecção fúngica nas unhas, sinusite, infecção cutânea
+ Neoplasias benignas malignas e não especificadas (incl. quistos e polipos)
+ 8 Pouco frequentes:
+ Carcinoma das células basais, lentigo Doenças do sangue e sistema linfático Pouco frequentes:
+ Leucocitose Doenças do metabolismo e nutrição Muito frequentes: Frequentes: Pouco frequentes:
+ Desidratação Falta de apetite, desequilíbrio electrolítico Hipocalemia
+ Perturbações do foro psiquiátrico Frequentes: Pouco frequentes:
+ Ansiedade, insónia Inquietação Doenças do sistema nervoso Frequentes: Pouco frequentes: Afecções oculares
+ Cefaleia, parestesia, disgeusia Tonturas, hipoestesia, tremor
+ Pouco frequentes: Afecções do ouvido e Pouco frequentes: Cardiopatias
+ Irritação ocular, edema ocular do labirinto Surdez, acufenos, acufenos agravados
+ Frequentes: Pouco frequentes: Vasculopatias
+ Taquicardia, dor torácica Angina de peito, fibrilhação auricular, flutter auricular, desconforto torácico
+ Pouco frequentes: Hipertensão, hemorragia, afrontamentos, hipotensão, hipotensão ortostática
+ Doenças respiratórias, torácicas e do mediastino Frequentes: Pouco frequentes:
+ Efusão pleural, faringite, atelectasia, dispneia Asfixia, dispneia desencadeada pelo esforço, hemoptise, hipoxia, congestão nasal, pneumonia de aspiração, tosse produtiva, depressão respiratória, congestão das vias respiratórias, respiração ofegante
+ Doenças gastrointestinais Muito frequentes: Frequentes:
+ Estenose esofágica adquirida, vómitos, disfagia, obstipação, náuseas Soluços, odinofagia, diarreia, dispepsia, úlcera esofágica, dor abdominal superior, dor abdominal, hematemese, dor esofágica, eructação, melena (hematocélio), distúrbios esofágicos, regurgitação de alimentos, rigidez abdominal, espasmo esofágico, esofagite.
+ Pouco frequentes: Fezes soltas, esofagite ulcerante, desconforto abdominal, distensão abdominal, dor abdominal inferior, estenose pilórica adquirida, lábios fendidos, colite, flatulência, gastrite, hemorragia gastrointestinal, halitose, hemorragia esofágica, perfuração esofágica.
+ Afecções dos tecidos cutâneos e subcutâneas Muito frequentes: Frequentes:
+ Reacção de fotossensibilidade Prurido, erupção cutânea, fragilidade cutânea, descoloração cutânea, úlcera cutânea, dermatite esfoliativa, pele seca, milia, erupção cutânea máculo-
+ papular, cutânea, Pouco frequentes:
+ erupção cutânea papular, cicatrização, hiperpigmentação cutânea, lesão nódulo cutâneo, urticária Suores frios, dermatite, crescimento capilar anormal, aumento da tendência para feridas, cicatriz quelóide, suores nocturnos, erupção cutânea fotossensível, erupção cutânea macular, erupção cutânea descamativa, escara, dor cicatricial, vitiligo.
+ Afecções musculosqueléticas e dos tecidos conjuntivos
+ 9 Frequentes: Pouco frequentes:
+ Dores lombares, dores nos membros Contractura articular, diminuição da amplitude do movimento articular, dor torácica músculosesquelética, fascite plantar
+ Doenças renais e urinárias: Pouco frequentes:
+ Retenção urinária Doenças dos órgãos genitais e da mama Pouco frequentes:
+ Ginecomastia Afecções congénitas, familiares e genéticas Pouco frequentes: Perturbações gerais e Muito frequentes: Frequentes: Pouco frequentes:
+ Nevo pigmentado alterações no local de administração Pirexia Rigidez, fadiga Sensação de calor, eritema no local de injecção, letargia, mal-estar geral, edema periférico, dor, edema punctiforme, intolerância à temperatura, fraqueza
+ Exames complementares de diagnóstico
+ Frequentes: Pouco frequentes: Diminuição de peso, aumento da temperatura corporal Diminuição da albumina sanguínea, aumento do cloreto sanguíneo, aumento da ureia sanguínea, diminuição do hematócrito, diminuição da hemoglobina, diminuição da saturação de oxigénio, diminuição da proteína total
+ Complicações de intervenções relacionadas com lesões e intoxicações Frequentes: Pouco frequentes:
+ Dor pós-procedimental, abrasão Vesiculação, hemorragia pós-procedimental
+ Dos acontecimentos adversos graves (EAG) no grupo PhotoBarr PDT+ OM,44 (23,1%) foram considerados como estando associados ao tratamento. A reacção adversa grave (RAG) associada ao tratamento mais frequentemente notificada foi a desidratação (4%), experimentada por 5 doentes. A maioria das RAGs consistiram em doenças gastrointestinais (8%-11 doentes), especificamente náuseas (3%-4 doentes), vómitos (3%-4 doentes) e dor abdominal superior (2%-2 doentes).
+ A maioria das situações de estenose esofágica associada ao tratamento (que inclui estreitamento esofágico e estenose esofágica) notificada no grupo PhotoBarr PDT+ OM foram de intensidade ligeira a moderada (92%). Todas as incidências de estenose foram consideradas como estando associadas ao tratamento, das quais 1% foram consideradas graves.
+ Observou-se uma taxa de ocorrência de 12% no caso da estenose esofágica durante a primeira aplicação do tratamento. A taxa de ocorrência subiu para 32% quando foi administrada uma segunda aplicação da terapêutica, especialmente nas áreas em que o segundo tratamento se sobrepunha ao primeiro e contribuiu para 10% dos indivíduos que foram submetidos a um terceiro tratamento. A maioria destas ocorrências foi de intensidade ligeira a moderada e puderam ser controladas mediante 1-2 dilatações. Oito por cento foram graves exigindo múltiplas dilatações (6-&gt; 10). A formação de estenose esofágica não pode ser reduzida ou eliminada mediante a utilização de esteróides.
+ Foi notificado um caso de possível precipitação de cataratas. Um indivíduo do sexo masculino obeso com 51 anos de idade foi tratado para HGD em BO com PhotoBarr PDT, em uso não aprovado ..
+ 4.9 Sobredosagem PhotoBarr Não existe qualquer informação sobre situações de sobredosagem do PhotoBarr. A dose recomendada de 2 mg/kg, em vez da administração única recomendada, foi administrada duas vezes com dois dias de intervalo (10 doentes) e três vezes no espaço de duas semanas (1 doente), sem serem notificadas quaisquer reacções adversas. Desconhecem-se os efeitos de uma sobredosagem sobre a duração da
+ 10 fotossensibilidade. O tratamento com laser não deve ser administrado no caso de ser administrada uma dose excessiva de PhotoBarr. Na eventualidade duma sobredosagem, os doentes deverão proteger os olhos e a pele da exposição à luz solar directa ou a luzes interior intensas durante 90 dias. Nessa altura, os doentes deverão efectuar um teste de fotossensibilidade residual (ver secção 4.4). O porfímero sódico não é passível de diálise.
+ Luz laser Foram administradas doses de luz duas a três vezes superiores à dose recomendada a alguns doentes com neoplasias endobrônquicas superficiais. Um doente experimentou dispneia com risco de vida e os restantes não exibiram qualquer complicação digna de nota. Será de prever uma exacerbação sintomatológica e danos em tecidos normais após uma sobredosagem de luz.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Sensibilizadores utilizados na terapêutica fotodinâmica/de radiação, código ATC: L01X D01
+ Mecanismo de acção O porfímero sódico é uma mistura de unidades de porfirina, que se encontram ligadas em cadeias de duas a oito unidades. As acções citotóxicas do porfímero sódico são ligeiras e dependentes do oxigénio. A terapêutica fotodinâmica com PhotoBarr é um processo com duas fases. A primeira fase consiste na injecção intravenosa de PhotoBarr. A depuração numa variedade de tecidos ocorre ao longo de 40-72 horas, mas os tumores, a pele e os órgãos do sistema reticuloendotelial (incluindo o fígado e o baço) retêm o porfímero sódico por um período mais longo. A iluminação da área-alvo com luz laser de comprimento de onda de 630 nm constitui a segunda fase da terapêutica. Pode ocorrer uma selectividade do tratamento para os tecidos tumorais e displásticos, em parte devido à retenção selectiva de porfímero sódico mas, principalmente, através dum fornecimento selectivo de luz. Os danos celulares causados pela PDT com porfímero sódico são uma consequência da propagação de reacções de radicais livres. Poderá ocorrer uma iniciação radical após a absorção de luz pelo porfímero sódico, formando um estado de excitação da porfirina. A transferência rotativa do porfímero sódico para o oxigénio molecular pode então gerar oxigénio simples. As reacções de radicias livres subsequentes podem formar radicais superóxido e hidroxilo. A morte das células tumorais ocorre também através de necrose isquémica secundária à oclusão vascular que aparenta ser parcialmente mediada pela libertação de tromboxano A2. O tratamento com laser induz um efeito fotoquímico e não térmico. A reacção necrótica e a resposta inflamatória associada evolui ao longo de vários dias.
+ Eficácia clínica Num ensaio clínico controlado, um grupo de doentes (n=183) tratados com PhotoBarr PDT+ OM (omeprazol) foi comparado com um grupo de doentes (n=70) tratados com OM apenas. Os doentes elegíveis para este estudo deveriam apresentar HGD comprovada por biópsia em esófago de Barrett (BO). Os doentes foram excluídos do estudo no caso de ocorrer presença de cancro esofágico invasivo, se apresentassem historial de cancro diferente de melanoma cutâneo ou se tivessem sido submetidos anteriormente a PDT para o esófago. Outros critérios de exclusão incluíram doentes com contra-indicação de terapêutica com omeprazol.
+ Os doentes distribuídos aleatoriamente para tratamento com PDT receberam PhotoBarr numa dose de 2 mg/kg de peso corporal através duma injecção intravenosa lenta durante 3 a 5 minutos. Foram administrados 1 ou 2 tratamentos laser após a injecção de PhotoBarr. A primeira sessão de luz laser ocorreu 40-50 horas após a injecção e uma segunda sessão, se indicada, ocorreu 96-120 horas após a injecção. A co-administração de omeprazol (20 mg BID) teve início pelo menos 2 dias antes da injecção de PhotoBarr. Os doentes distribuídos aleatoriamente no grupo de OM apenas receberam por via oral 20 mg de omeprazol BID durante o período de estudo.
+ 11 Os doentes foram acompanhados de 3 em 3 meses até ocorrerem 4 resultados consecutivos de biópsia negativos para HGD e, em seguida, semestralmente até o último doente participante ter completado um mínimo de 24 meses de avaliações de seguimento após a distribuição aleatória.
+ O PhotoBarr PDT+ OM foi eficaz na eliminação de HGD em doentes com BO. Na análise final, efectuada após pelo menos 24 meses de seguimento, uma percentagem estatisticamente significativa de doentes (77%) no grupo PhotoBarr PDT+ OM demonstrou uma ablação completa de HGD em comparação com 39% dos doentes do grupo OM apenas (p &lt; 0,0001). Cinquenta e dois por cento dos doentes do grupo PDT+ OM apresentaram um epitélio celular escamoso normal enquanto 59% apresentavam ausência de displasia em comparação com 7% e 14% no grupo do OM apenas, respectivamente (p &lt; 0,0001). Estes resultados confirmam aqueles observados após um mínimo de 6 meses de seguimento, que revelaram a ablação de HGD em 72% dos doentes do grupo PhotoBarr PDT+ OM, por comparação com os 31% dos do grupo do OM apenas. Quarenta e um porcento dos doentes apresentaram epitélio celular escamoso normal e 49% ausência de displasia.
+ No final do período mínimo de seguimento de dois anos,13% no grupo PhotoBarr PDT+ OM apresentaram evolução para cancro, em comparação com 28% no grupo OM apenas na população intenção-de-tratar (ITT). A proporção de doentes que evoluiu para cancro no grupo PhotoBarr PDT+ OM foi estatisticamente inferior à do grupo OM apenas (p=0,0060). As curvas de sobrevivência indicaram que, no final do período de seguimento, os doentes do grupo PhotoBarr PDT+ OM apresentavam uma probabilidade de isenção de cancro de 83%, em comparação com uma probabilidade de 53% para os doentes do grupo OM apenas. A comparação entre as curvas de sobrevivência dos dois ramos de tratamento utilizando o teste de classificação logarítmica revelou uma diferença estatisticamente significativa entre as curvas dos dois grupos na população ITT (p=0,0014) indicando um atraso significativo na evolução para cancro.
+ 5.2 Propriedades farmacocinéticas A farmacocinética do porfímero sódico foi estudada em 12 doentes com cancro endobrônquico e 23 indivíduos saudáveis (11 homens e 12 mulheres), tratados com 2 mg/kg de porfímero sódico, através de uma injecção intravenosa lenta. Foram obtidas amostras de plasma até aos 56 dias (doentes) ou 36 dias (voluntários) após a injecção.
+ Nos doentes, a concentração plasmática máxima média (Cmáx) foi de 79,6 μg/ml (CV 61%, intervalo 39-222), ao passo que nos voluntários a Cmáx foi de 40 μg/ml e a AUCinf foi de 2400 μg/h/ml;.
+ Distribuição A ligação in vitro do porfímero sódico às proteínas séricas humanas é de cerca de 90% e a concentração independente entre 20 e 100 μg/ml.
+ Eliminação O porfímero sódico é eliminado lentamente do organismo com uma CLT média de 0,859 ml/h/kg (CV 53%) nos doentes. A diminuição sérica foi bi-exponencial, com uma fase de distribuição lenta e uma fase de eliminação muito longa, que teve início aproximadamente 24 horas após a injecção. A semi-vida de eliminação média (t1/2) foi de 21,5 dias (CV 26%, intervalo 264-672) em doentes e de 17 dias nos voluntários.
+ Populações especiais A influência da compromisso hepático ou renal sobre a exposição ao porfímero sódico não foi avaliada (ver secções 4.2, 4.3 e 4.4).
+ O sexo não teve qualquer efeito sobre os parâmetros farmacocinéticos, com excepção do tmáx, que foi de aproximadamente 1,5 horas nas mulheres e 0,17 horas nos homens. Na altura da foto-activação pretendida 40-50 horas após a injecção, os perfis farmacocinéticos do porfímero sódico nos homens e nas mulheres foram muito semelhante.
+ 5.3 Dados de segurança pré-clínica 12 O porfímero sódico não foi mutagénico nos teste padrão de genotoxicidade em ausência de luz. Com a activação da luz, o porfímero sódico foi mutagénico nalguns testes in vitro.
+ Os estudos de toxicologia reprodutiva foram insuficientes para sustentar a segurança do porfímero sódico durante a gravidez, na medida em que não foi utilizada qualquer activação de luz. Neste estudos ocorreu fetotoxicidade, mas não teratogenicidade, em ratos e coelhos apenas nas doses intravenosas avaliadas (iguais ou superiores a 4 mg/kg) e com uma frequência superior (diariamente) em comparação com a utilização clínica.
+ Os estudos pré-clínicos indicam que a excreção dos componentes do PhotoBarr ocorre principalmente por via fecal.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Ácido clorídrico (para ajuste de pH) Hidróxido de sódio (para ajuste de pH)
+ 6.2 Incompatibilidades Este medicamento não deve ser misturado com outros medicamentos, excepto os mencionados na secção 6.6.
+ 6.3 Prazo de validade Pó: 3 anos Após a reconstituição: utilizar imediatamente (nas primeiras 3 horas). Após a reconstituição, o PhotoBarr deve ser utilizado imediatamente (nas primeiras 3 horas) e protegido da luz. A estabilidade química e física em uso ficou demonstrada durante 3 horas a 23°C. Do ponto de vista microbiológico, o produto deve ser utilizado imediatamente. Se não for utilizado imediatamente, o tempo e as condições de conservação em uso antes da utilização são da inteira responsabilidade do utilizador.
+ 6.4 Precauções especiais de conservação
+ Manter fora do alcance e da vista das crianças.
+ Não utilize após o prazo de validade impresso na embalagem exterior e no frasco para injectáveis, após VAL.
+ Não conservar acima de 25°C. Manter o frasco para injectáveis dentro da embalagem exterior para proteger da luz.
+ Condições de conservação do medicamento reconstituído, ver secção 6.3.
+ 6.5 Natureza e conteúdo do recipiente 15 mg de pó num frasco para injectáveis (vidro tipo I,7 ml de capacidade) com uma tampa cinzenta em borracha de butilo. Tamanho da embalagem: 1 frasco para injectáveis.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ Instruções para reconstituição 13 O frasco para injectáveis de PhotoBarr 15 mg deve ser reconstituído com 6,6 ml de solução injectável de glucose a 5%, resultando numa concentração final de porfímero sódico de 2,5 mg/ml na solução injectável.
+ Não utilizar outros diluentes. Não misturar o PhotoBarr com outros medicamentos na mesma solução.
+ Deverá ser reconstituído um número suficiente de frascos para injectáveis de PhotoBarr para proporcionar ao doente uma dose de 2 mg/kg. Para a maioria dos doentes (até 75 kg) dois frascos para injectáveis de PhotoBarr 75 mg serão suficientes. Será necessário um frasco para injectáveis de PhotoBarr de 15 mg para cada 7,5 kg adicionais de peso corporal.
+ Derrames e eliminação Os derrames de PhotoBarr devem ser limpos com um pano húmido. O contacto cutâneo e ocular deve ser evitado por causa do potencial de reacções de fotossensibilidade após a exposição à luz; é recomendado a utilização de luvas de borracha e protecção ocular. O PhotoBarr destina-se apenas à administração única e qualquer solução não utilizada deve ser eliminada. Os produtos não utilizados ou resíduos devem ser eliminados de acordo com as exigências locais.
+ Exposição acidental O PhotoBarr não é um irritante ocular primário nem um irritante dérmico primário. Mas, por causa do seu potencial de indução de fotossensibilidade, o PhotoBarr pode ser um irritante ocular e/ou cutâneo na presença de luz forte. É importante evitar contacto com os olhos e pele durante a preparação e/ou administração. Tal como numa situação de sobredosagem terapêutica, qualquer pessoa acidentalmente sobreexposta deve ser protegida de luz forte.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Axcan Pharma International B. V. Engelenkampstraat 72 NL-6131JJ Sittard Países Baixos
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/04/272/001 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 25 de Março de 2004 Data da última renovação:
+ 10. DATA DA REVISÃO DO TEXTO 14 1. NOME DO MEDICAMENTO
+ PhotoBarr 75 mg pó para solução injectável.
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada frasco para injectáveis contém 75 mg de porfimero sódico.
+ Após a reconstituição, cada ml de solução contém 2,5 mg/ml de porfímero sódico.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Pó para solução injectável. Um pó ou aglomerado liofilizado vermelho escuro a castanho avermelhado.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas A terapêutica fotodinâmica (PDT) com PhotoBarr é indicada para ablação de displasia de grau elevado (HGD) em doentes com Esófago de Barrett (BO)
+ 4.2 Posologia e modo de administração A terapêutica fotodinâmica com PhotoBarr só deve ser efectuada por um médico com experiência em procedimentos com laser endoscópico ou sob a sua supervisão.
+ Posologia A dose recomendada de PhotoBarr é de 2 mg/kg de peso corporal.
+ Solução reconstituída de PhotoBarr (ml)= Peso do doente (kg) x 2 mg/kg= 0,8 x peso do doente 2,5 mg/ml
+ Após a reconstituição, o PhotoBarr é uma solução opaca vermelhoescuro a castanho avermelhado.
+ Só uma solução sem partículas deve ser utilizada e sem sinais visíveis de deterioração.
+ A terapêutica fotodinâmica com PhotoBarr é um processo que envolve duas fases e requer a administração dum medicamento e de luz. Um ciclo de PDT consiste numa injecção e numa ou duas aplicações de luz.
+ Em caso de persistência de HGD, poderão ser administrados ciclos adicionais do tratamento (até um máximo de três ciclos, separadas por um mínimo de 90 dias) para aumentar a taxa de resposta. Esta deverá ser equilibrada de acordo com o aumento da taxa de formação de estenose (ver secção 4.8 e a secção 5.1).
+ A evolução para cancro foi relacionada com o número de aplicações de PDT administradas. Os doentes que receberam uma aplicação de PDT apresentaram um risco mais elevado de evolução para cancro do que os doentes que receberam duas ou três aplicações de PDT (50% vs. 39% e 11% respectivamente).
+ 15 Método de administração Para obter instruções sobre a reconstituição antes da administração, ver secção 6.6..
+ Os médicos deverão possuir experiência na utilização de PDT. A primeira fase da PDT consiste na injecção intravenosa lenta de PhotoBarr. A segunda fase da terapêutica consiste na iluminação com luz laser 40-50 horas após a injecção de PhotoBarr. Os doentes devem receber uma segunda aplicação de luz laser 96-120 horas após a administração.
+ O PhotoBarr deve ser administrado sob a forma duma única injecção intravenosa lenta durante 3 a 5 minutos a 2 mg/kg peso corporal. Se for acidentalmente injectado por via perivenosa, poderá causar danos no tecido perivenoso. Assim, devem ser tomadas as devidas precauções no sentido de evitar o extravasamento no local de injecção. Se ocorrer extravasamento, a área deve ser protegida da luz durante um período mínimo de 90 dias. Não existe qualquer vantagem conhecida da injecção do local de extravasamento com outra substância.
+ Aproximadamente 40-50 horas após a administração de PhotoBarr, deve ser administrada luz mediante um difusor de fibra óptica que atravessa o canal central dum balão de centragem. A escolha da combinação difusor de fibra óptica/balão dependerá do comprimento do esófago a tratar (Quadro 1).
+ Quadro 1. Combinação difusor de fibra óptica/balãoa
+ Comprimento da mucosa de Barrett tratada (cm)
+ Tamanho do difusor de fibra óptica (cm)
+ Tamanho da janela do balão (cm) 6-7 9 7 4-5 7 5 1-3 a 5 3 Sempre que possível, o segmento do BO seleccionado para tratamento deve incluir margens de tecido normal de alguns milímetros nas extremidades proximal e distal.
+ Doses de luz A foto-activação é controlada pela dose total de luz administrada. O objectivo consiste em expor e tratar todas as áreas de HGD e o comprimento total do BO. A dose de luz administrada será de 130 Joules/cm (J/cm) de comprimento do difusor utilizando um balão de centragem. Com base nos estudos pré-clínicos, a intensidade de luz aceitável para a combinação balão/difusor varia entre 175-270 mW/cm de difusor.
+ Para calcular a dose de luz, aplica-se a seguinte equação específica de dosimetria de luz para todos os difusores de fibra óptica:
+ A dose de luz (J/cm)= potência de emissão do difusor (W) x tempo de tratamento (seg) Comprimento do difusor (cm)
+ O Quadro 2 apresenta as configurações que deverão ser utilizadas para administrar a dose no mais curto período de tempo (intensidade de luz de 270 mW/cm). Uma segunda opção (intensidade de luz de 200 mW/cm) foi também incluída nos casos necessários para contemplar lasers com uma capacidade total que não exceda os 2,5 W.
+ Quadro 2. Potências de emissão da fibra óptica e tempos de tratamento para administrar 130 J/cm de comprimento do difusor utilizando um balão de centragem
+ Comprimento Comprimento Intensidade Potência de Tempo de Tempo de da janela do
+ do difusor
+ da luz
+ emissão necessária
+ tratamento
+ tratamento
+ 16 no difusora (W) balão 3 5
+ (cm)
+ (cm) 5 7
+ (mW/cm) 270 270 200
+ 1,35 1,90 1,40
+ (seg) 480 480 650
+ (min: seg) 8: 00 8: 00 10: 50
+ 7 a 9 270 200 2,44 1,80 480 650 8: 00 10: 50 Medido imergindo o difusor na cuvete do potenciómetro e aumentando lentamente a potência do laser. Nota: Não deverá ser necessária uma potência de laser superior a 1,5 vezes a potência de emissão do difusor. Se for necessária uma superior, o sistema deve ser verificado.
+ Os difusores de fibra óptica curtos (≤ 2,5 cm) devem ser utilizados no pré-tratamento de nódulos com 50 J/cm de comprimento do difusor antes do tratamento regular com balão na primeira sessão de luz laser ou para o recomeço do tratamento de áreas" omitidas" após a primeira sessão de luz. Para este tratamento, o difusor de fibra óptica é utilizado sem um balão, devendo ser utilizada uma intensidade de luz de 400 mW/cm. O Quadro 3 apresenta uma lista das potências de emissão da fibra óptica e os tempos de tratamento utilizando uma intensidade de luz de 400 mW/cm.
+ Quadro 3. Difusores de fibra óptica curtos a utilizar sem um balão de centragem para administrar 50 J/cm de comprimento do difusor com uma intensidade de luz de 400 mW/cm
+ Comprimento Potência de emissão Tempo de Tempo de necessária no difusora tratamento (seg) tratamento do difusor
+ (cm)
+ (W)
+ (min: seg)
+ a
+ 1,0 1,5 2,0 2,5
+ 0,4 0,6 0,8 1,0
+ 125 125 125 125
+ 2: 05 2: 05 2: 05 2: 05 Medido imergindo o difusor na cuvete do potenciómetro e aumentando lentamente a potência do laser. Nota: Não deve ser necessária uma potência de laser superior a 1,5 vezes a potência de emissão do difusor. Se for necessária uma superior, o sistema deve ser verificado.
+ Primeira aplicação de luz Na primeira sessão de luz, é tratada uma extensão máxima de 7 cm de mucosa da Barrett utilizando um balão de centragem e um difusor de fibra óptica com a dimensão adequada (Quadro 1). Sempre que possível, o segmento seleccionado para a primeira aplicação de luz deve incluir todas as áreas de HGD. Também sempre que possível, o segmento do BO seleccionado para as primeiras aplicações de luz deve incluir margens de tecido normal de alguns milímetros nas extremidades proximal e distal. Os nódulos devem ser pré-tratados com doses de luz de 50 J/cm de comprimento do difusor com um difusor de fibra óptica curto (≤ 2,5 cm) colocado directamente contra os nódulos, seguido de aplicação regular do balão, conforme descrito acima.
+ Repetição da aplicação de luz Poderá ser administrada uma segunda aplicação de luz laser num segmento previamente tratado que apresente uma área' omitida', (i. e., uma área que não apresente uma resposta suficiente da mucosa) utilizando um difusor de fibra óptica curto ≤ 2,5 cm com uma dose de luz de 50 J/cm de comprimento do difusor (ver Quadro 3). O regime de tratamento encontra-se resumido no Quadro 4. Os doentes com BO &gt; 7 cm devem ser tratados na extensão não tratada remanescente do epitélio de Barrett com um segundo ciclo de PDT, com um período de segurança de pelo menos 90 dias.
+ Quadro 4. Displasia de grau elevado em Esófago de Barrett &lt; 7 cm
+ Procedimento Dia de estudo Dispositivos de administração de luz
+ Intenção do tratamento Injecção de PhotoBarr Dia 1 Dia 3a NA Captação do fotossensibilizador Aplicação de luz Balão de 3,5 ou 7 cm 17 Foto-activação laser
+ (130 J/cm)
+ Aplicação de luz laser a
+ Dia 5 Difusor de fibra óptica curto (≤ 2,5 cm) (50 J/cm)
+ Tratamento das áreas" omitidas" apenas Os nódulos discretos receberão uma aplicação de luz inicial de 50 J/cm (utilizando difusor curto) antes da aplicação de luz com balão.
+ Os doentes podem ser submetidos a uma segunda aplicação de PDT um mínimo de 90 dias após a terapêutica inicial; deve ser administrado um máximo de três ciclos de PDT (cada injecção separada por um mínimo de 90 dias) num segmento previamente tratado e que ainda exiba HGD ou a um novo segmento se o segmento de Barrett inicial tiver um comprimento &gt; 7 cm. Tantos os segmentos residuais como os adicionais podem ser tratados na(s) mesma(s) sessão(ões) de luz se o comprimento total dos segmentos tratados com a combinação balão/difusor não for superior a 7 cm. No caso dum segmento esofágico previamente tratado, se este não tiver sido suficientemente curado e/ou a avaliação histológica das biópsias não for clara, o ciclo subsequente de PDT poderá ser retardada durante 1-2 meses adicionais.
+ É crucial ter um cuidado especial para garantir um doseamento preciso de PhotoBarr e/ou da dose de luz, uma vez que o cálculo incorrecto da dose de medicamento ou de luz pode levar a um tratamento menos eficaz ou causar efeito prejudicial no doente. A terapêutica fotodinâmica com PhotoBarr deve ser aplicada por médicos treinados no uso endoscópico de PDT e apenas em instalações apropriadamente equipadas para o procedimento.
+ Populações especiais Doentes pediátricos PhotoBarr não é recomendado em crianças com idade inferior a 18 anos devido à ausência de dados de segurança e eficácia.
+ Doentes geriátricos (≥ 65 anos) Não é necessária qualquer modificação da dose em função da idade.
+ Compromisso renal A influência da insuficiência renal sobre a exposição ao porfímero sódico não foi avaliada.
+ Compromisso hepático A influência da insuficiência hepática sobre a exposição ao porfímero sódico não foi avaliada (ver secção 4.3 e 4.4)
+ 4.3 Contra-indicações Hipersensibilidade à substância activa, outras porfirinas ou a qualquer um dos excipientes.
+ Porfiria. Compromisso renal e/ou hepática grave. Varizes esofágicas ou gástricas ou doentes com úlceras esofágicas com &gt; 1 cm de diâmetro.
+ Fístula traqueo-esofágica ou bronco-esofágica.
+ Suspeita de erosão dos vasos sanguíneos principais devido ao risco de hemorragia maciça, potencialmente fatal.
+ 4.4 Advertências e precauções especiais de utilização
+ 18 A eficácia e especialmente a segurança da PDT com PhotoBarr não foram estabelecidas em doentes com contra-indicações ou não elegíveis para esofagectomia. A terapêutica fotodinâmica com PhotoBarr foi estudada exclusivamente em doentes sem condições médicas graves, tais como insuficiência cardíaca congestiva em estado avançado ou condições pulmonares graves passíveis de comprometer a elegibilidade dos doentes para intervenção cirúrgica.
+ Nos ensaios clínicos, a PDT com PhotoBarr apenas foi testada em doentes não tratados anteriormente com terapêutica ablativas da mucosa. A segurança e a eficácia em doentes que experimentaram falha de tratamento noutras terapêuticas locais de ablação de mucosas, não foram avaliadas.
+ Os doentes com idade superior a 75 anos poderão apresentar um risco mais elevado de acontecimentos adversos de âmbito respiratório, tais como efusão pleural e dispneia
+ Doenças pulmonares ou cardíacas Os doentes com diagnóstico de doença pulmonar ou cardíaca ou um historial deste tipo de doenças devem ser tratados com precaução. Estes doentes poderão apresentar um risco superior de desenvolvimento de acontecimentos adverso de âmbito cardíaco e pulmonar, tais como perturbações do ritmo cardíaco, angina de peito, dispneia, tosse, efusão pleural, faringite, atelectasia e desidratação (ver também secção 4.8).
+ Fotossensibilidade Todos os doentes tratados com PhotoBarr estarão fotossensíveis e deverão observar precauções no sentido de evitar a exposição da pele e dos olhos, à luz directa do sol ou a fontes de luz artificial intensas (de lâmpadas de exame médico, incluindo lâmpadas para estomatologia, lâmpadas de salas cirúrgicas, lâmpadas sem filtro opaco próximas, luzes de néon, etc.) durante pelo menos 90 dias após o tratamento, pois alguns doentes podem manter a fotossensibilidade durante 90 dias ou mais. Durante este período, os doentes devem utilizar óculos de sol de lentes escuras, com uma transmitância média de luz branca &lt; 4% no exterior. A fotossensibilidade deve-se a substâncias fotoactivas residuais, que estarão presentes em todas as partes da pele. A exposição da pele à luz ambiente de interiores é, contudo benéfica, pois o medicamento remanescente será gradualmente desactivado através duma reacção de foto-branqueamento. Por esse motivo, os doentes não deverão permanecer numa sala escura durante este período e devem ser encorajados a expor a sua pele à luz ambiente de interiores. O nível de fotossensibilidade variará nas diferentes partes do corpo, dependendo da extensão da exposição anterior à luz. Antes de expor qualquer área da pele à luz directa do sol ou a luz interior intensa, o doente deverá ser testado relativamente à sua fotossensibilidade residual. Uma área reduzida de pele deverá ser exposta à luz do sol durante 10 minutos. O tecido em torno dos olhos pode ser mais sensível, pelo que não se recomenda a utilização da face para o teste. Se não ocorrer qualquer reacção de fotossensibilidade (eritema, edema, formação de vesículas) no espaço de 24 horas, o doente pode regressar gradualmente às actividades ao ar livre, continuando inicialmente a tomar precauções e aumentando gradualmente a exposição. Se ocorrer alguma reacção de fotossensibilidade na porção limitada de pele testada, o doente deverá manter as precauções durante mais 2 semanas antes de realizar o teste novamente. No caso de os doentes viajarem para uma área geográfica diferente e com uma intensidade solar superior, deverão ser submetidos novamente ao teste do seu nível de fotossensibilidade. Os protectores solares convencionais contra UV (ultra-violetas) não são de nenhum modo eficazes na protecção contra reacções de fotossensibilidade, pois a foto-activação é causada pela luz visível.
+ Compromisso hepático Não se encontram disponíveis dados de farmacocinética e dados de segurança em doentes com compromisso hepático. Com base na evidência de a principal via de eliminação de substâncias fotoactivas ser hepática/biliar, poderão aumentar a gravidade das reacções fototóxicas assim como a duração do período de fotossensibilidade em doentes com qualquer grau de compromisso hepático. PhotoBarr está contra-indicado em doentes com compromisso hepático grave. Os doentes com compromisso hepático ligeira a moderado devem receber instruções claras no sentido de que o período necessário para as medidas de precaução descritas abaixo poderá ser superior a 90 dias.
+ 19 Os doentes deverão ser aconselhados a consultar o seu oftalmologista se detectarem quaisquer alterações n após o tratamento por PDT com PhotoBarr.
+ Como resultado do tratamento por PDT, os doentes poderão apresentar queixas de dor torácica retrosternal devida a respostas inflamatórias na área de tratamento. Tal dor poderá ser duma intensidade suficiente para obrigar à prescrição de tratamento de curta duração com analgésicos opiáceos.
+ O uso profilático de corticosteróides para reduzir a formação de estenose deve ser evitado durante a PDT, uma vez que a sua utilização demonstrou não reduzir, e até piorar, a formação de estenose.
+ A PDT com PhotoBarr causa regularmente disfagia, odinofagia, náuseas e vómitos. Deste modo, os doentes devem ser aconselhados no sentido de receberem alimentos líquidos durante os primeiros dias (até 4 semanas) após a aplicação de luz laser. Se a ingestão de alimentos e/ou bebidas se tornar impossível ou ocorrerem episódios recorrentes de vómito, os doentes deverão ser aconselhados a novo exame clínico para avaliação e para administração de líquidos por via intravenosa, se necessário.
+ No caso de necessidade de utilização da PDT antes ou depois de radioterapia, deverá ser respeitado um intervalo de tempo entre terapêuticas de modo a garantir que a reacção inflamatória produzida pelo primeiro tratamento, diminuiu antes de iniciar o segundo tratamento.
+ De momento, não estão disponíveis dados sobre o efeito a longo prazo do PhotoBarr (superior a dois anos). Além disso, os médicos responsáveis pelo tratamento devem estar sensibilizados para a possibilidade de crescimento de epitélio escamoso excessivo e para o risco de neoplasia subjacente.
+ Deste modo, deverá ser mantida uma vigilância adequada e rigorosa apesar do possível restabelecimento endoscópico parcial ou completo da mucosa escamosa normal.
+ Nos estudos clínicos com PhotoBarr, a vigilância de seguimento foi efectuada trimestralmente ou semestralmente no caso de quatro resultados consecutivos de biópsia sem displasia de grau elevado (ver secção 5.1). As normas orientadoras de tratamento e vigilância disponíveis devem ser consideradas.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Não foram conduzidos quaisquer estudos formais de interacção com o PhotoBarr para investigação de interacções farmacocinéticas com outros medicamentos.
+ Um estudo de investigação das interacções farmacodinâmicas demonstrou que os corticosteróides administrados antes ou concomitantemente com a PDT para diminuição da estenose podem diminuir a segurança do tratamento.
+ É possível que o uso concomitante de outros agentes fotossensibilizantes (por exemplo, tetraciclinas, sulfonamidas, fenotiazinas, agentes hipoglicemiantes de sulfonilureia, diuréticos de tiazida, griseofulvina e fluoroquinolonas) possa aumentar a reacção de fotossensibilidade.
+ A PDT com PhotoBarr causa danos intracelulares directos devido ao facto de iniciar reacções em cadeia radicais que danificam as membranas intracelulares e as mitocôndrias. Os danos tecidulares resultam também da isquémia secundária à vasoconstrição, activação e agregação plaquetária e coagulação. A investigação em animais e em culturas de células sugeriu que um grande números de substâncias activas poderiam influenciar os efeitos da PDT, sendo a seguir descritos possíveis exemplos. Não estão disponíveis dados obtidos em humanos para apoiar ou refutar estas possibilidades.
+ É previsível que os compostos que suprimem os radicais livres de oxigénio ou que os removem, tais como o sulfóxido de dimetilo, o b-caroteno, o etanol, o formato e o manitol, diminuam a actividade da PDT. Os dados pré-clínicos sugerem também que a isquémia tecidular, o alopurinol, os bloqueadores
+ 20 dos canaisl de cálcio e alguns inibidores da síntese de prostaglandinas poderão interferir com a PDT com PhotoBarr. Os medicamentos que reduzem a coagulação, a vasoconstrição ou a agregação plaquetária como, por exemplo, os inibidores do tromboxano A2, podem diminuir a eficácia da PDT.
+ 4.6 Gravidez e aleitamento Gravidez Não estão disponíveis quaisquer dados clínicos sobre a exposição de grávidas ao porfimero sódico. Os estudos em animais são insuficientes no que diz respeito aos efeitos sobre a gravidez, o desenvolvimento embrionário/fetal, o parto e o desenvolvimento pós-natal (ver secção 5.3). Desconhece-se o risco potencial para o ser humano. O porfimero sódico não deve ser utilizado durante a gravidez, a menos que tal seja claramente necessário. As mulheres em idade fértil deverão utilizar métodos eficazes de contracepção antes, durante e pelo menos 90 dias após o tratamento.
+ Lactação Desconhece-se se o porfimero sódico é excretado através do leite materno humano. Em ratos, o porfimero sódico passou para o leite materno. O aleitamento deve ser interrompido antes do tratamento.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas. Para o procedimento de PDT, poderá ser necessária sedação, e devem ser tomadas as devidas precauções. Os doentes não devem conduzir ou utilizar máquinas após o tratamento com luz se tiverem sido sedados para o procedimento.
+ 4.8 Efeitos indesejáveis Todos os doentes tratados com PhotoBarr estarão fotossensíveis e deverão observar precauções no sentido de evitar a luz do sol e luz interior intensa (ver secção 4.4). Num estudo farmacocinético aberto, a totalidade dos 24 indivíduos saudáveis experimentou reacções de fotossensibilidade, caracteristicamente representadas por erupção eritematosa e edema, de intensidade ligeira a moderada. As reacções de fotossensibilidade ocorreram principalmente na face, mãos e região do pescoço, que são as áreas da pele mais susceptíveis à exposição acidental à luz solar. Foram descritas outras manifestações cutâneas menos comuns em áreas onde ocorreram reacções de fotossensibilidade, tais como o aumento do crescimento de cabelo, descoloração cutânea, nódulos cutâneos, rugas cutâneas e fragilidade cutânea. Estas manifestações são passíveis de serem atribuídas a um estado de pseudoporfiria (porfiria cutânea temporária induzida por medicamentos). A frequência e a natureza das reacções de fotossensibilidade experimentadas neste estudo são díspares da incidência documentada por observações em estudos clínicos anteriores em doentes com cancro (aprox. 20%) ou da incidência notificada espontaneamente a partir da utilização comercial do PhotoBarr (&lt; 20%). É possível que a exposição prolongada à luz na unidade de investigação clínica ou a exposição acidental à luz solar após a alta sejam responsáveis pela elevada frequência de reacções de fotossensibilidade. O estilo de vida mais activo dos indivíduos saudáveis e relativamente jovens comparativamente com o dos doentes com cancro poderá ter contribuído para estas reacções de fotossensibilidade.
+ O tratamento concomitante com PDT omeprazol (PDT+ OM) foi comparado com um grupo tratado apenas com omeprazol (OM apenas), no ensaio clínico controlado de BO com HGD. No grupo PDT+ OM, foram tratados 133 doentes. As reacções adversas mais frequentemente notificadas foram reacções de fotossensibilidade (69%), estenose esofágica (40%), vómitos (32%), dor torácica de origem não cardíaca (20%), pirexia (20%), disfagia (19%), obstipação (13%), desidratação (12%) e náuseas (11%). A maioria destas reacções adversas notificadas eram de intensidade ligeira a moderada.
+ 21 As reacções adversas notificadas são listadas em baixo no Quadro 5 por classes de órgãos e frequência. As frequências são definidas como: muito frequentes (&gt; 1/10); frequentes (&gt; 1/100, &lt; 1/10); pouco frequentes (&gt; 1/1000, &lt; 1/100).
+ Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ Quadro 5. Resumo das reacções adversas com porfímero sódico em doentes com HGD e BO
+ Infecções e infestações Pouco frequentes:
+ Bronquite, infecção fúngica nas unhas, sinusite, infecção cutânea
+ Neoplasias benignas, malignas e não especificadas (incl. quistos e polipos) Pouco frequentes:
+ Carcinoma das células basais, lentigo Doenças do sangue e do sistema linfático Pouco frequentes:
+ Leucocitose Doenças do metabolismo e da nutrição Muito frequentes: Frequentes: Pouco frequentes:
+ Desidratação Falta de apetite, desequilíbrio electrolítico Hipocalemia
+ Perturbações do foro psiquiátrico Frequentes: Pouco frequentes:
+ Ansiedade, insónia Inquietação Doenças do sistema nervoso Frequentes: Pouco frequentes: Afecções oculares
+ Cefaleia, parestesia, disgeusia Tonturas, hipoestesia, tremor
+ Pouco frequentes: Afecções do ouvido e Pouco frequentes: Cardiopatias
+ Irritação ocular, edema ocular do labirinto Surdez, acufenos, acufenos agravados
+ Frequentes: Pouco frequentes: Vasculopatias
+ Taquicardia, dor torácica Angina de peito, fibrilhação auricular, flutter auricular, desconforto torácica
+ Pouco frequentes: Hipertensão, hemorragia, afrontamentos ,, hipotensão, hipotensão ortostática
+ Doenças respiratórias, torácicas e do mediastino Frequentes: Pouco frequentes:
+ Efusão pleural, faringite, atelectasia, dispneia Asfixia, dispneia desencadeada pelo esforço, hemoptise, hipoxia, congestão nasal, pneumonia de aspiração, tosse produtiva, depressão respiratória, congestão das vias respiratórias, respiração ofegante
+ Doenças gastrointestinais Muito frequentes: Frequentes:
+ Estenose esofágica adquirida, vómitos, disfagia, obstipação, náuseas Soluços, odinofagia, diarreia, dispepsia, úlcera esofágica, dor abdominal superior, dor abdominal, hematemese, dor esofágica, eructação, melena (hematocélio), distúrbios esofágicos, regurgitação de alimentos, rigidez abdominal, espasmo esofágico, esofagite.
+ Pouco frequentes: Fezes soltas, esofagite ulcerante, desconforto abdominal, distensão abdominal, dor abdominal inferior, estenose pilórica adquirida, lábios fendidos, colite, flatulência, gastrite, hemorragia gastrointestinal, halitose, hemorragia esofágica, perfuração esofágica.
+ 22 Afecções dos tecidos cutâneos e subcutâneas Muito frequentes: Frequentes:
+ Reacção de fotossensibilidade Prurido, erupção cutânea, fragilidade cutânea, descoloração cutânea, úlcera cutânea, dermatite esfoliativa, pele seca, milia, erupção cutânea máculo-
+ papular, cutânea, Pouco frequentes:
+ erupção cutânea papular, cicatrização, hiperpigmentação cutânea, lesão nódulo cutâneo, urticária Suores frios, dermatite, crescimento capilar anormal, aumento da tendência para feridas, cicatriz quelóide, suores nocturnos, erupção cutânea fotossensível, erupção cutânea macular, erupção cutânea descamativo, escara, dor cicatricial, vitiligo.
+ Afecções musculosqueléticas e dos tecidos conjuntivos Frequentes: Pouco frequentes:
+ Dores lombares, dores nos membros Contractura articular, diminuição da amplitude do movimento articular, dor torácica músculo-sesquelética, fascite plantar
+ Doenças renais e urinárias: Pouco frequentes:
+ Retenção urinária Doenças dos órgãos genitais e da mama Pouco frequentes:
+ Ginecomastia Afecções congénitas, familiares e genéticas Pouco frequentes: Perturbações gerais e Muito frequentes: Frequentes: Pouco frequentes:
+ Nevo pigmentado alterações no local de administração Pirexia Rigidez, fadiga Sensação de calor, eritema no local de injecção, letargia, mal-estar geral, edema periférico, dor, edema punctiforme, intolerância à temperatura, fraqueza
+ Exames complementares de diagnóstico
+ Frequentes: Pouco frequentes: Diminuição de peso, aumento da temperatura corporal Diminuição da albumina sanguínea, aumento do cloreto sanguíneo, aumento da ureia sanguínea, diminuição do hematócrito, diminuição da hemoglobina, diminuição da saturação de oxigénio, diminuição da proteína total
+ Complicações de intervenções relacionadas com lesões e intoxicações Frequentes: Pouco frequentes:
+ Dor pós-procedimental, abrasão Vesiculação, hemorragia pós-procedimental
+ Dos acontecimentos adversos graves (EAG) no grupo PhotoBarr PDT+ OM,44 (23,1%) foram considerados como estando associados ao tratamento. A reacção adversa grave (RAG) associada ao tratamento mais frequentemente notificada foi a desidratação (4%) experimentada por 5 doentes. A maioria dos EAG experimentados consistiram em doenças gastrointestinais (8%-11 doentes), especificamente náuseas (3%-4 doentes), vómitos (3%-4 doentes) e dor abdominal superior (2%-2 doentes).
+ A maioria das situações de estenose esofágica associada ao tratamento (que inclui estreitamento esofágico e estenose esofágica) notificada no grupo PhotoBarr PDT+ OM foram de intensidade ligeira a moderada (92%). Todas as incidências de estenose foram consideradas como estando associadas ao tratamento, das quais 1% foram consideradas graves.
+ Observou-se uma taxa de ocorrência de 12% no caso da estenose esofágica durante a primeira aplicação do tratamento. A taxa de ocorrência subiu para 32% quando foi administrada uma segunda aplicação da terapêutica, especialmente nas áreas em que o segundo tratamento se sobrepunha ao primeiro e contribuiu para 10% dos indivíduos que foram submetidos a um terceiro tratamento. A maioria destas ocorrências foi de intensidade ligeira a moderada e puderam ser controladas mediante
+ 23 1-2 dilatações. Oito por cento foram graves exigindo múltiplas dilatações (6-&gt; 10). A formação de estenose esofágica não pode ser reduzida ou eliminada mediante a utilização de esteróides.
+ Foi notificado um caso de possível precipitação de cataratas. Um indivíduo do sexo masculino obeso com 51 anos de idade foi tratado para HGD em BO com PhotoBarr PDT, em uso não aprovado.
+ 4.9 Sobredosagem PhotoBarr Não existe qualquer informação sobre sobredosagem do PhotoBarr. A dose recomendada de 2 mg/kg, em vez da administração única recomendada, foi administrada duas vezes com dois dias de intervalo (10 doentes) e três vezes no espaço de duas semanas (1 doente), sem serem notificadas quaisquer reacções adversas. Desconhecem-se os efeitos de uma sobredosagem sobre a duração da fotossensibilidade. O tratamento com laser não deve ser administrado no caso de ser administrada uma dose excessiva de PhotoBarr. Na eventualidade duma sobredosagem, os doentes deverão proteger os olhos e a pele da exposição à luz solar directa ou a luzes interior intensas durante 90 dias. Nessa altura, os doentes deverão efectuar um teste de fotossensibilidade residual (ver secção 4.4). O porfímero sódico não é passível de diálise.
+ Luz laser Foram administradas doses de luz duas a três vezes superiores à dose recomendada a alguns doentes com neoplasias endobrônquicas superficiais. Um doente experimentou dispneia com risco de vida e os restantes não exibiram qualquer complicação digna de nota. Será de prever uma exacerbação sintomatológica e danos em tecidos normais após uma sobredosagem de luz.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Sensibilizadores utilizados na terapêutica fotodinâmica/de radiação, código ATC: L01X D01
+ Mecanismo de acção O porfímero sódico é uma mistura de unidades de porfirina, que se encontram ligadas em cadeias de duas a oito unidades. As acções citotóxicas do porfímero sódico são ligeiras e dependentes do oxigénio. A terapêutica fotodinâmica com PhotoBarr é um processo com duas fases. A primeira fase consiste na injecção intravenosa de PhotoBarr. A depuração numa variedade de tecidos ocorre ao longo de 40-72 horas, mas os tumores, a pele e os órgãos do sistema reticuloendotelial (incluindo o fígado e o baço) retêm o porfímero sódico por um período mais longo. A iluminação da área-alvo com luz laser de comprimento de onda de 630 nm constitui a segunda fase da terapêutica. Pode ocorrer uma selectividade do tratamento para os tecidos tumorais e displásticos, em parte devido à retenção selectiva de porfímero sódico mas, principalmente, através dum fornecimento selectivo de luz. Os danos celulares causados pela PDT com porfímero sódico são uma consequência da propagação de reacções de radicais livres. Poderá ocorrer uma iniciação radical após a absorção de luz pelo porfimero sódico, formando um estado de excitação da porfirina. A transferência rotativa do porfímero sódico para o oxigénio molecular pode então gerar oxigénio simples. As reacções de radicias livres subsequentes podem formar radicais superóxido e hidroxilo. A morte das células tumorais ocorre também através de necrose isquémica secundária à oclusão vascular que aparenta ser parcialmente mediada pela libertação de tromboxano A2. O tratamento com laser induz um efeito fotoquímico e não térmico. A reacção necrótica e a resposta inflamatória associada evolui ao longo de vários dias.
+ Eficácia clínica Num ensaio clínico controlado, um grupo de doentes (n=183) tratados com PhotoBarr PDT+ OM (omeprazol) foi comparado com um grupo de doentes (n=70) tratados com OM apenas. Os doentes elegíveis para este estudo deveriam apresentar HGD comprovada por biópsia em esófago de Barrett (BO). Os doentes foram excluídos do estudo no caso de ocorrer presença de cancro esofágico invasivo,
+ 24 se apresentassem historial de cancro diferente de melanoma cutâneo ou se ivessem sido submetidos anteriormente a PDT para o esófago. Outros critérios de exclusão incluíram doentes com contra-indicação de terapêutica com omeprazol.
+ Os doentes distribuídos aleatoriamente para tratamento com PDT receberam PhotoBarr numa dose de 2 mg/kg de peso corporal através duma injecção intravenosa lenta durante 3 a 5 minutos. Foram administrados 1 ou 2 tratamentos laser após a injecção de PhotoBarr. A primeira sessão de luz laser ocorreu 40-50 horas após a injecção e uma segunda sessão, se indicada, ocorreu 96-120 horas após a injecção. A co-administração de omeprazol (20 mg BID) teve início pelo menos 2 dias antes da injecção de PhotoBarr. Os doentes distribuídos aleatoriamente no grupo de OM apenas receberam por via oral 20 mg de omeprazol BID durante o período de estudo.
+ Os doentes foram acompanhados de 3 em 3 meses até ocorrerem 4 resultados consecutivos de biópsia negativos para HGD e, em seguida, semestralmente até o último doente participante ter completado um mínimo de 24 meses de avaliações de seguimento após a distribuição aleatória.
+ O PhotoBarr PDT+ OM foi eficaz na eliminação de HGD em doentes com BO. Na análise final, efectuada após pelo menos 24 meses de seguimento, uma percentagem estatisticamente significativa de doentes (77%) no grupo PhotoBarr PDT+ OM demonstrou uma ablação completa de HGD em comparação com 39% dos doentes do grupo OM apenas (p &lt; 0,0001). Cinquenta e dois por cento dos doentes do grupo PDT+ OM apresentaram um epitélio celular escamoso normal enquanto 59% apresentavam ausência de displasia em comparação com 7% e 14% no grupo do OM apenas, respectivamente (p &lt; 0,0001). Estes resultados confirmam aqueles observados após um mínimo de 6 meses de seguimento, que revelaram a ablação de HGD em 72% dos doentes do grupo PhotoBarr PDT+ OM, por comparação com os 31% dos do grupo do OM apenas. Quarenta e um porcento dos doentes apresentaram epitélio celular escamoso normal e 49% ausência de displasia.
+ No final do período mínimo de seguimento de dois anos,13% no grupo PhotoBarr PDT+ OM apresentaram evolução para cancro, em comparação com 28% no grupo OM apenas na população intenção-de-tratar (ITT). A proporção de doentes que evoluiu para cancro no grupo PhotoBarr PDT+ OM foi estatisticamente inferior à do grupo OM apenas (p=0,0060). As curvas de sobrevivência indicaram que, no final do período de seguimento, os doentes do grupo PhotoBarr PDT+ OM apresentavam uma probabilidade de isenção de cancro de 83%, em comparação com uma probabilidade de 53% para os doentes do grupo OM apenas. A comparação entre as curvas de sobrevivência dos dois ramos de tratamento utilizando o teste de classificação logarítmica revelou uma diferença estatisticamente significativa entre as curvas dos dois grupos na população ITT (p=0,0014) indicando um atraso significativo na evolução para cancro.
+ 5.2 Propriedades farmacocinéticas A farmacocinética do porfímero sódico foi estudada em 12 doentes com cancro endobrônquico e 23 indivíduos saudáveis (11 homens e 12 mulheres), tratados com 2 mg/kg de porfímero sódico, através de uma injecção intravenosa lenta. Foram obtidas amostras de plasma até aos 56 dias (doentes) ou 36 dias (voluntários) após a injecção.
+ Nos doentes, a concentração plasmática máxima média (Cmáx) foi de 79,6 μg/ml (CV 61%, intervalo 39-222), ao passo que nos voluntários a Cmáx foi de 40 μg/ml e a AUCinf foi de 2400 μg/h/ml;.
+ Distribuição A ligação in vitro do porfímero sódico às proteínas séricas humano é de cerca de 90% e a concentração independente entre 20 e 100 μg/ml.
+ Eliminação O porfímero sódico é eliminado lentamente do organismo com uma CLT média de 0,859 ml/h/kg (CV 53%) nos doentes.
+ 25 A diminuição sérica foi bi-exponencial, com uma fase de distribuição lenta e uma fase de eliminação muito longa, que teve início aproximadamente 24 horas após a injecção. A semi-vida de eliminação média (t1/2) foi de 21,5 dias (CV 26%, intervalo 264-672) em doentes e de 17 dias nos voluntários. A Cmáx foi determinada como sendo de 40 microgramas/ml e a AUC(inf) foi de 2400 microgramas/hora/ml.
+ Populações especiais A influência da compromisso hepático ou renal sobre a exposição ao porfímero sódico não foi avaliada (ver secções 4.2, 4.3 e 4.4).
+ O sexo não teve qualquer efeito sobre os parâmetros farmacocinéticos, com excepção do tmáx, que foi de aproximadamente 1,5 horas nas mulheres e 0,17 horas nos homens. Esta diferença pode dever-se à sensibilidade do ensaio utilizado. Na altura da foto-activação pretendida 40-50 horas após a injecção, os perfis farmacocinéticos do porfímero sódico nos homens e nas mulheres foram muito semelhante.
+ 5.3 Dados de segurança pré-clínica O porfímero sódico não foi mutagénico nos teste padrão de genotoxicidade em ausência de luz. Com a activação da luz, o porfímero sódico foi mutagénico nalguns testes in vitro.
+ Os estudos de toxicologia reprodutiva foram insuficientes para sustentar a segurança do porfimero sódico durante a gravidez, na medida em que não foi utilizada qualquer activação de luz. Neste estudos ocorreu fetotoxicidade, mas não teratogenicidade, em ratos e coelhos apenas nas doses intravenosas avaliadas (iguais ou superiores a 4 mg/kg) e com uma frequência superior (diariamente) em comparação com a utilização clínica.
+ Os estudos pré-clínicos indicam que a excreção dos componentes do PhotoBarr ocorre principalmente por via fecal.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Ácido clorídrico (para ajuste de pH) Hidróxido de sódio (para ajuste de pH)
+ 6.2 Incompatibilidades Este medicamento não deve ser misturado com outros medicamentos, excepto os mencionados na secção 6.6.
+ 6.3 Prazo de validade Pó: 3 anos Após a reconstituição: utilizar imediatamente (nas primeiras 3 horas). Após a reconstituição, o PhotoBarr deve ser utilizado imediatamente (nas primeiras 3 horas) e protegido da luz. A estabilidade química e física em uso ficou demonstrada durante 3 horas a 23°C. Do ponto de vista microbiológico, o produto deve ser utilizado imediatamente. Se não for utilizado imediatamente, o tempo e as condições de conservação em uso antes da utilização são da inteira responsabilidade do utilizador.
+ 6.4 Precauções especiais de conservação
+ Manter fora do alcance e da vista das crianças.
+ 26 Não utilize após o prazo de validade impresso na embalagem exterior e no frasco para injectáveis, após VAL.
+ Não conservar acima de 25°C. Manter o frasco para injectáveis dentro da embalagem exterior para proteger da luz.
+ Condições de conservação do medicamento reconstituído, ver secção 6.3.
+ 6.5 Natureza e conteúdo do recipiente 75 mg de pó num frasco para injectáveis (vidro tipo I,40 ml de capacidade) com uma tampa cinzenta em borracha de butilo. Tamanho da embalagem: 1 frasco para injectáveis.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ Reconstituições O frasco para injectáveis de PhotoBarr 75 mg deve ser reconstituído com 31,8 ml de solução injectável de glucose a 5% para injecção, resultando numa concentração final de 2,5 mg/ml na solução injectável.
+ Não utilizar outros diluentes. Não misturar o PhotoBarr com outros medicamentos na mesma solução. Deverá ser reconstituído um número suficiente de frascos para injectáveis de PhotoBarr para proporcionar ao doente uma dose de 2 mg/kg. Para a maioria dos doentes (até 75 kg) dois frascos para injectáveis de PhotoBarr 75 mg serão suficientes. Será necessário um frasco para injectáveis de PhotoBarr de 15 mg para cada 7,5 kg adicionais de peso corporal.
+ Derrames e eliminação Os derrames de PhotoBarr devem ser limpos com um pano húmido. O contacto cutâneo e ocular deve ser evitado por causa do potencial de reacções de fotossensibilidade após a exposição à luz; é recomendado a utilização de luvas de borracha e protecção ocular.
+ O PhotoBarr destina-se apenas à administração única e qualquer solução não utilizada deve ser eliminada.
+ Os produtos não utilizados ou resíduos devem ser eliminados de acordo com as regulamentaçõesexigências locais.
+ Exposição acidental O PhotoBarr não é um irritante ocular primário nem um irritante dérmico primário. Mas, por causa do seu potencial de indução de fotossensibilidade, o PhotoBarr pode ser um irritante ocular e/ou cutâneo na presença de luz forte. É importante evitar contacto com os olhos e pele durante a preparação e/ou administração. Tal como numa situação de sobredosagem terapêutica, qualquer pessoa acidentalmente sobreexposta deve ser protegida de luz forte.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Axcan Pharma International B. V. Engelenkampstraat 72 NL-6131JJ Sittard Países Baixos
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/04/272/002 27 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 25 de Março de 2004 Data da última renovação:
+ 10. DATA DA REVISÃO DO TEXTO 28 ANEXO II
+ A. TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 29 A TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do fabricante responsável pela libertação do lote
+ Axcan Pharma S. A. Route de Bû 78550 Houdan França
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento de receita médica restrita, de utilização reservada a certos meios especializados (ver anexo I: Resumo das Características do Medicamento, secção 4.2.).
+ • CONDIÇÕES OU RESTRIÇÕES EM RELAÇÃO À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ O Titular da Autorização de Introdução no Mercado irá concordar com os detalhes dos materiais educacionais juntamente com as Autoridades Nacionais Competentes para assegurar o fornecimento a todos os profissionais de cuidados de saúde que pretendam receitar e/ou dispensar o PhotoBarr do seguinte: • Guia do prescritor • Kit do dispositivo do prescritor • Guia de administração e monitorização para os profissionais de cuidados de saúde • Cartão de alerta do doente • Guia do doente
+ Os seguintes elementos chave devem ser incluídos nos materiais educacionais:
+ Guia do prescritor e Kit do dispositivo do prescritor − As ferramentas educacionais foram concebidas para ajudar os médicos a optimizar a relação benefício-risco do tratamento com porfímero. − Os doentes NÃO devem ser tratados com o porfímero se: o tiverem doença hepática severa. o tiverem fístulas na traqueia ou broncoesofágicas. o tiverem suspeitas de erosões dos principais vasos sanguíneos.
+ −
+ Deverá ser encarado com precaução se os doentes tiverem doença hepática moderada
+ −
+ Antes de iniciar a terapia, o Deve ser efectuado um rastreio ao doente para determinar o tipo de pele o Os doentes devem estar conscientes da meia-vida longa do porfímero e que o composto é activado pela luz. o Os doentes devem evitar a exposição à luz durante 60-90 dias após a exposição. o Todos os doentes devem saber que o bloqueio da UV não é eficaz no bloqueio de luz visível que activa o porfímero. o Os doentes devem estar cientes dos potenciais factores de risco (fototipo cutâneo e compromisso hepático).
+ 30 Os doentes devem ser informados de que devem dirigir-se a um médico se o ocorrerem sinais/sintomas sugestivos de fotossensibilidade durante ou depois da terapia com porfímero.
+ Guia de administração e monitorização para os profissionais de cuidados de saúde − É importante cumprir à risca os passos correctos para a reconstituição e administração do porfímero. − É importante ter uma dose de luz apropriada e uma configuração apropriada para o laser. − Qualquer produto não utilizado ou material de resíduos deve ser descartado de acordo com os requisitos locais. − Os profissionais de cuidados de saúde devem estar cientes dos efeitos indesejáveis que podem surgir durante ou brevemente após o tratamento, e como os tratar. − Os doentes devem ser informados da possibilidade dos efeitos indesejáveis a longo prazo, especialmente a fotossensibilidade, e da necessidade de procurar assistência médica se eles surgirem. − Registe o tipo de pele do doente e a data da injecção no cartão de alerta do doente
+ Cartão de alerta do doente − É necessário mostrar este cartão a qualquer médico que trate os doentes − O PhotoBarr o Permanece no seu corpo durante 60-90 dias depois de receber a injecção o É activado pela luz visível o Existe um maior risco de fotossensibilidade (sensibilidade à luz) o A pele exposta irá tornar-se vermelha e provocar desconforto na maioria dos casos, mas são possíveis casos graves de fotossensibilidade o Os protectores solares disponíveis comercialmente não são eficazes na prevenção da sensibilidade por causa da luz o A fotossensibilidade só pode ser prevenida evitando a exposição solar durante 90 dias após a recepção da injecção do PhotoBarr
+ −
+ Não deve ser tratado com o PhotoBarr se tiver doença hepática grave (por ex., cirrose)
+ − −
+ Deve ser efectuado um rastreio para determinar o tipo de pele Área no cartão para o médico registar o tipo de pele e a data da injecção.
+ Guia do doente − Breve descrição geral e introdução do esófago de Barrett e displasia de grau elevado − O que é a terapia fotodinâmica − Os doentes devem informar o seu médico antes de iniciarem o seu tratamento se tiverem doença hepática grave. − O PhotoBarr o Permanece no seu corpo durante 60-90 dias depois de receber a injecção o É activado pela luz visível o Existe um aumento do risco de fotossensibilidade (sensibilidade à luz) o A pele exposta irá tornar-se vermelha e provocar desconforto na maioria dos casos, mas são possíveis casos graves de fotossensibilidade o Os protectores solares disponíveis comercialmente não são eficazes na prevenção da sensibilidade por causa da luz − A fotossensibilidade só pode ser prevenida evitando a exposição solar durante 90 dias após a recepção da injecção do PhotoBarr − É importante que os doentes informem o seu médico se forem expostos à luz solar depois de receber o tratamento com o PhotoBarr.
+ 31
+ −
+ Os doentes devem estar cientes dos vários potenciais efeitos indesejáveis que podem ocorrer.
+ • OUTRAS CONDIÇÕES
+ Plano de gestão do risco O Titular da Autorização de Introdução no Mercado compromete-se a efectuar os estudos e actividades de farmacovigilância adicionais detalhadas no Plano de Farmacovigilância, conforme acordado na versão 2 do Plano de Gestão do Risco (PGR) apresentado no Módulo 1. 8.2. do Pedido de Autorização de Introdução no Mercado e quaisquer actualizações subsequentes do PGR acordadas pelo CHMP.
+ De acordo com a Norma Orientadora do CHMP sobre Sistemas de Gestão do Risco para medicamentos de uso humano, o PGR actualizado deve ser submetido juntamente com o próximo Relatório Periódico de Segurança (RPS).
+ Para além disso, deve ser submetido um PGR actualizado:
+ − Quando forem recebidas novas informações que possam ter algum impacto nas actuais Especificações de Segurança, Plano de Farmacovigilância ou actividades de minimização dos riscos − No período de 60 dias após ter sido atingido um objectivo importante (farmacovigilância ou minimização de risco) − A pedido da EMEA
+ 32 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 33 A. ROTULAGEM
+ 34 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ Embalagem de cartão-15 mg 1. NOME DO MEDICAMENTO PhotoBarr 15 mg pó para solução injectável Porfímero sódico
+ 2. DESCRIÇÃO DO(S) SUBSTÂNCIA(S) ACTIVO(S)
+ Um frasco para injectáveis contém 15 mg de porfímero sódico. Após a reconstituição, cada ml de solução contém 2,5 mg de porfímero sódico.
+ 3. LISTA DOS EXCIPIENTES Ácido clorídrico, hidróxido de sódio (para ajuste de pH).
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Pó para solução injectável. 1 frasco para injectáveis
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via intravenosa Consultar o folheto informativo.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Não conservar acima de 25°C. Manter o frasco para injectáveis na embalagem exterior para proteger da luz. Após a reconstituição, proteger da luz e utilizar nas primeiras 3 horas.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Axcan Pharma International B. V. 35 Engelenkampstraat 72 NL-6131JJ Sittard Países Baixos
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/04/272/001 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE 36 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ Frasco para injectáveis de 15 mg-7 ml 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ PhotoBarr 15 mg pó para solução injectável Porfímero sódico Via intravenosa
+ 2. MODO DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar.
+ 3. PRAZO DE VALIDADE VAL 4. NÚMERO DO LOTE Lote 5. CONTEÚDO EM TERMOS DE PESO, VOLUME OU UNIDADE
+ 15 mg 6. OUTRAS 37 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ Embalagem de cartão – 75 mg 1. NOME DO MEDICAMENTO PhotoBarr 75 mg pó para solução injectável Porfimero sódico
+ 2. DESCRIÇÃO DO(S) SUBSTÂNCIA(S) ACTIVO(S)
+ Um frasco para injectáveis contém 75 mg de porfimero sódico. Após a reconstituição, cada ml de solução contém 2,5 mg de porfímero sódico.
+ 3. LISTA DOS EXCIPIENTES Ácido clorídrico, hidróxido de sódio (para ajuste de pH).
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Pó para solução injectável. 1 frasco para injectáveis
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via intravenosa Consultar o folheto informativo.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Não conservar acima de 25°C. Manter o frasco para injectáveis na embalagem exterior para proteger da luz Após a reconstituição, proteger da luz e utilizar nas primeiras 3 horas.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 38 Axcan Pharma International B. V. Engelenkampstraat 72 NL-6131JJ Sittard Países Baixos
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/04/272/002 13. NÚMERO DO LOTE Lote: 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE 39 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ Frasco para injectáveis de 75 mg-40 ml 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ PhotoBarr 75 mg pó para solução injectável Porfimero sódico Via intravenosa
+ 2. MODO DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar.
+ 3. PRAZO DE VALIDADE VAL 4. NÚMERO DO LOTE Lote 5. CONTEÚDO EM TERMOS DE PESO, VOLUME OU UNIDADE
+ 75 mg 6. OUTRAS 40 B. FOLHETO INFORMATIVO
+ 41 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ PhotoBarr 15 mg pó para solução injectável Porfímero sódico
+ Leia atentamente este folheto antes de utilizar este medicamento.
+ -
+ Conserve este folheto. Pode ter necessidade de o reler
+ -
+ Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto 1. O que é PhotoBarr e para que é utilizado 2. Antes de utilizar PhotoBarr 3. Como utilizar PhotoBarr 4. Efeitos secundários possíveis 5. Como conservar PhotoBarr 6. Outras informações
+ 1. O QUE É PHOTOBARR E PARA QUE É UTILIZADO
+ O PhotoBarr é um medicamento activado pela luz utilizado na terapêutica fotodinâmica (PDT) em combinação com uma luz laser vermelha não quente. A PDT atinge e destrói especificamente células anormais.
+ O PhotoBarr é utilizado para remover a displasia de grau elevado (células com alterações atípicas que aumentem o risco de desenvolvimento do cancro) em doentes com esófago de Barrett.
+ 2. ANTES DE UTILIZAR PHOTOBARR Não utilize PhotoBarr -
+ se tem alergia (hipersensibilidade) ao porfímero sódico, outras porfirinas ou a qualquer outro componente do PhotoBarr (listados na secção 6, ‘ O que contêm o PhotoBarr ’)
+ -
+ se tiver porfíria
+ -
+ se tiver uma abertura (fístula) entre o esófago e as vias respiratórias
+ -
+ se sofrer de varizes nas veias esofágicas ou erosão doutros vasos sanguíneos principais
+ -
+ se tiver úlceras no esófago
+ -
+ se tiver problemas graves no fígado ou nos rins
+ Tome especial cuidado com o PhotoBarr Informe o seu médico se algum dos seguintes pontos se aplicar a si:
+ -
+ se está a tomar outros medicamentos (ver abaixo)
+ -
+ se tiver problemas no fígado ou nos rins
+ -
+ se tiver um historial de cataratas na família
+ -
+ se tiver idade igual ou superior a 75 anos
+ -
+ ser tiver ou tiver tido doença cardíaca ou pulmonar
+ O PhotoBarr não deve ser utilizado em crianças e adolescentes com idade inferior a 18 anos, devido à ausência de experiência.
+ 42 Ao utilizar PhotoBarr com outros medicamentos
+ Informe o seu médico ou farmacêutico se estiver a utilizar ou tiver utilizado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica. Alguns outros medicamentos podem aumentar o risco de reacções de fotossensibilidade, por exemplo, antibióticos ou antidiabéticos.
+ Ao utilizar PhotoBarr com alimentos e bebidas A aplicação da luz laser irá induzir dificuldades em engolir (dores, náuseas e vómitos). Consequentemente, durante alguns dias só deve ingerir alimentos líquidos (em alguns casos até 4 semanas). Regresse à clínica para obter assistência médica, se comer ou beber se tornarem impossíveis ou se continuar a vomitar.
+ Gravidez e aleitamento O PhotoBarr não deve ser utilizado durante a gravidez, excepto em condições de necessidade evidente. As mulheres em idade fértil deverão tomar as precauções contraceptivas adequadas durante e até um período de 90 dias após o uso do PhotoBarr.
+ As mulheres devem interromper o aleitamento antes de utilizar o PhotoBarr.
+ Condução de veículos e utilização de máquinas Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas Durante o seu tratamento com luz, poderá receber tratamento sedativo. Neste caso, deve evitar quaisquer actividades que exijam um estado de alerta mental, tais como a condução de veículos ou a utilização de máquinas.
+ 3. COMO UTILIZAR PHOTOBARR Como funciona a terapêutica fotodinâmica (PDT)? Um ciclo de PDT consiste numa injecção de PhotoBarr e em uma ou duas aplicações de luz laser. Para aumentar a sua taxa de resposta, pode precisar de até três ciclos de PDT, com um intervalo de pelo menos 90 dias.
+ Injecção de PhotoBarr: Receberá uma injecção intravenosa de PhotoBarr (2 mg por kg de peso corporal),40 a 50 horas antes do tratamento com luz laser. A solução de cor castanha avermelhada é lentamente injectada numa veia, ao longo de 3 a 5 minutos.
+ Tratamento com luz laser: O médico irá aplicar a luz laser vermelha (não se trata de um laser para queimar) na área envolvida utilizando um endoscópio (um dispositivo utilizado para ver o interior de determinadas partes do corpo). Poderá receber um segundo tratamento com luz laser 96-120 horas após a injecção inicial de PhotoBarr. Ser-lhe-á administrado um sedativo juntamente com uma anestesia local, para minimizar o desconforto.
+ O que devo fazer se falhar o tratamento com luz laser? Tanto o medicamento como a luz laser são necessários para que a terapêutica funcione. Caso verifique que se esqueceu da sua consulta para o tratamento com laser, contacte imediatamente o seu médico. O seu médico decidirá como prosseguir o tratamento.
+ Como prevenir uma reacção de fotossensibilidade As reacções de fotossensibilidade são efeitos secundários muito frequentes do PhotoBarr (afectando mais de 2 utilizadores em cada 3). Elas consistem principalmente de reacções tipo queimaduras solares, vermelhidão ligeira na pele exposta, normalmente na face e mãos. Durante 90 dias após a sua injecção de PhotoBarr, deve exercer as devidas precauções para evitar a exposição da pele e olhos à luz. Este período poderá ser mais prolongado se tiver problemas no fígado.
+ 43 Como o PhotoBarr é activado pela parte vermelha da luz, os protectores solares para a luz UV (ultravioleta) não o irão proteger contra reacções de fotossensibilidade.
+ Luz solar directa: Antes de receber a sua injecção de PhotoBarr, certifique-se de que existem telas e cortinas adequadas na sua residência para impedir a entrada de luz solar forte. Se sair durante o dia (mesmo em dias enevoados e viajando num veículo), deve tomar as seguintes precauções:
+ -tapar o máximo possível de pele, utilizando camisas com mangas compridas, calças, meias,
+ sapatos, luvas e um chapéus de abas largas.
+ -proteger os seus olhos com óculos de sol escuros.
+ -não se esqueça de levar o vestuário protector e os óculos de sol consigo para a consulta, visto
+ que irá ficar fotossensível depois de lhe ser administrada a injecção.
+ Luz interior: Evite a exposição directa a luzes interiores fortes, incluindo lâmpadas dentárias, lâmpadas do bloco operatório, lâmpadas de luz sem sombra na zona circundante ou luzes de néon. Contudo, para acelerar o processo natural de inactivação do medicamento no seu corpo, a exposição da pele a níveis normais de luz interior é vantajosa. Não é necessário que permaneça em salas escuras.
+ Teste cutâneo da fotossensibilidade Cerca de 90 dias após a injecção de PhotoBarr, deve testar a fotossensibilidade da sua pele da seguinte maneira: Corte um buraco com 5 cm num saco de papel, e coloque-o sobre a sua mão ou cotovelo (não na sua face). Exponha uma pequena área de pele à luz solar durante 10 minutos. Observe para detectar o aparecimento de marcas vermelhas, inchaço ou bolhas passado um dia.
+ -se nenhuma destas surgirem na área exposta, poderá então regressar gradualmente às suas
+ actividades exteriores normais, limitando a exposição ao sol nos horas de pico solar.
+ -se observar qualquer um destes sinais, então continue a proteger-se da luz forte durante mais 2
+ semanas, e após esse período repita o teste cutâneo. Se for de férias para uma área com mais luz solar, não se esqueça de repetir o teste cutâneo, especialmente se algumas áreas da pele não tiverem sido expostas à luz solar desde o seu tratamento com o PhotoBarr.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todos os medicamentos, PhotoBarr pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ Todos os doentes tratados com PhotoBarr estarão fotossensíveis (sensíveis à luz) e deverão observar precauções no sentido de evitar a luz directa do sol e luz interior intensa (ver acima ‘ Como prevenir uma reacção de fotossensibilidade ’).
+ Informe o seu médico imediatamente: -se observar uma alteração na sua visão. Deve ir ao seu oftalmologista.
+ -se não conseguir engolir de todo ou vomitar repetidamente
+ Os efeitos secundários podem ocorrer com determinadas frequências, que são definidas da seguinte maneira: Muito afectam mais de 1 utilizador em cada 10 frequentes: Frequentes: Pouco
+ afectam 1 a 10 utilizadores em afectam 1 a 10 utilizadores em
+ cada 100 cada 1.000
+ frequentes:
+ 44 Raros: Muito raros: Desconhecidos:
+ afectam 1 a 10 utilizador em cada 10.000 afectam menos de 1 utilizador em cada 10.000 a frequência não pode ser calculada a partir dos dados disponíveis.
+ Efeitos secundários muito frequentess -febre
+ -reacções de fotossensibilidade (ver secção 3)
+ -vómitos, náuseas
+ -estreitamento do esófago, dificuldade em engolir que pode provocar dores
+ -prisão de ventre, desidratação
+ -
+ Efeitos secundários comuns -dores nas costas, dores nos braços e pernas, dores devido ao tratamento
+ -dores de cabeça, estado nervoso, sensação de formigueiro, problemas em dormir.
+ -rigidez abdominal, dores de estômago, vomitar sangue
+ -distúrbios do esófago, tais como úlcera, irritação ou uma sensação de estreitamento do mesmo
+ -fezes soltas, fezes escuras tipo alcatrão, dores de garganta, soluços, arrotos
+ líquido no tórax, dores torácicas, ritmo cardíaco rápido, falta de ar, tremores por causa de febres
+ -altas, arrepios
+ -perda de peso, falta de apetite, sensação de cansaço, perda de sabor.
+ úlcera cutânea, erupção cutânea, comichão, urticária, alteração da cor da pele, arranhões, cicatrizes, tecido anómalo, altos na pele, quistos muito pequenos na pele, pele seca e frágil
+ -
+ Efeitos secundários pouco frequentes dificuldades respiratórias, redução do nível de oxigénio, engasgar-se, inchaço das vias respiratórias, presença de líquidos nas vias respiratórias, falta de ar durante actividades físicas,
+ -respiração ofegante, aumento da expectoração, expectoração com sangue, nariz entupido
+ -infecção pulmonar, infecção do seio nasal
+ dores torácicas ou ataque cardíaco, pressão arterial elevada ou pressão arterial baixa, desconforto
+ -torácico
+ resultados anómalos das análises sanguíneas, tais como um aumento do número de glóbulos
+ -brancos, níveis baixos de potássio
+ -hemorragias, perda de sangue, aumento da tendência para ter equimoses (nódoas negras)
+ sobre desenvolvimento dos peitos nos homens, incapacidade de micção, intolerância a temperaturas, suores frios, suores nocurnos
+ -
+ inchaço geral, dores gerais, dores torácicas musculosqueléticas, rigidez das articulações,
+ -inflamação do calcanhar
+ tremores, sensação de inquietude, tonturas, dormência, vermelhidão, sensação de fraqueza,
+ -sensação de mal-estar
+ -perda de audição, sensação de ouvir campainhas, inchaço dos olhos, dores oculares
+ erupção cutânea, vermelhidão no local da injecção, infecção fúngica nas unhas, infecção cutânea, bolhas, comichão na pele, cicatriz quelóide, dores na cicatriz, crosta, presença de sinais cutâneos, crescimento anómalo do cabelo/pêlos Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR O PHOTOBARR Manter fora do alcance e da vista das crianças.
+ Não utilize após o prazo de validade impresso na embalagem exterior e no frasco para injectáveis, após VAL.
+ 45 Não conservar acima de 25°C. Manter o frasco para injectáveis na embalagem exterior para proteger da luz.
+ Após a reconstituição, a solução do PhotoBarr deve ser protegida da luz e utilizada imediatamente (nas primeiras 3 horas). A estabilidade química e física em uso foi demonstrada durante 3 horas a 23°C. De um ponto de vista microbiológico, o produto deve ser utilizado imediatamente. Se não for utilizado imediatamente, o tempo e as condições de conservação em uso antes da utilização são da responsabilidade do utilizador.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de PhotoBarr -
+ A substância activa é o porfímero sódico. Cada frasco para injectáveis contém 15 mg de porfímero sódico. Após a reconstituição, cada ml de solução contém 2,5 mg de porfímero sódico.
+ -
+ Os outros componentes são ácido clorídrico e hidróxido de sódio (para ajuste de pH).
+ Qual o aspecto de PhotoBarr e conteúdo da embalagem O PhotoBarr é um pó castanho avermelhado para solução injectável. Um frasco para injectáveis para uma administração única por embalagem.
+ Titular da Autorização de Introdução no Mercado Axcan Pharma International B. V., Engelenkampstraat 72, NL-6131JJ Sittard, Países Baixos
+ Fabricante Axcan Pharma S. A., Route de Bû,78550 Houdan, França
+ Este folheto foi aprovado pela última vez em
+ Para obter quaisquer informações sobre este medicamento, contacte o Titular de Autorização de Introdução no Mercado.
+ Informações detalhadas sobre este medicamento encontram-se disponíveis no site da Web da Agência Europeia de Medicamentos (EMEA): http: //www. emea. europa. eu/.
+ 46 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ PhotoBarr 75 mg pó para solução injectável Porfímero sódico
+ Leia atentamente este folheto antes de utilizar este medicamento.
+ -
+ Conserve este folheto. Pode ter necessidade de o reler
+ -
+ Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto 1. O que é PhotoBarr e para que é utilizado 2. Antes de utilizar PhotoBarr 3. Como utilizar PhotoBarr 4. Efeitos secundários possíveis 5. Como conservar PhotoBarr 6. Outras informações
+ 1. O QUE É PHOTOBARR E PARA QUE É UTILIZADO
+ O PhotoBarr é um medicamento activado pela luz utilizado na terapêutica fotodinâmica (PDT) em combinação com uma luz laser vermelha não quente. A PDT atinge e destrói especificamente células anormais. O PhotoBarr é usado para remover a displasia de grau elevado (elevado (células com alterações atípicas que aumentem o risco de desenvolvimento do cancro) em doentes com esófago de Barrett.
+ 2. ANTES DE UTILIZAR PHOTOBARR Não utilize PhotoBarr -se tem alergia (hipersensibilidade) ao porfimero sódico, outras porfirinas ou a qualquer outro
+ componente do PhotoBarr (listados na secção 6, ‘ O que contêm o PhotoBarr ’)
+ -se tiver porfíria
+ -se tiver uma abertura (fístula) entre o esófago e as vias respiratórias
+ -se sofrer de varizes nas veias esofágicas ou erosão doutros vasos sanguíneos principais
+ -se tiver úlceras no esófago
+ -se tiver problemas graves no fígado ou nos rins
+ Tome especial cuidado com PhotoBarr Informe o seu médico se algum dos seguintes pontos se aplicar a si:
+ -
+ se está a tomar outros medicamentos
+ -
+ se tiver problemas no fígado ou nos rins
+ -
+ se tiver um historial de cataratas na família
+ -
+ se tiver idade igual ou superior a 75 anos
+ -
+ doença cardíaca ou pulmonar actual ou prévia
+ O PhotoBarr não deve ser utilizado em crianças e adolescentes com idade inferior a 18 anos, devido à ausência de experiência.
+ 47 Ao utilizar PhotoBarr com outros medicamentos
+ Informe o seu médico ou farmacêutico se estiver a utilizar ou tiver utilizado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica. Alguns outros medicamentos podem aumentar o risco de reacções de fotossensibilidade, por exemplo, antibióticos e/ou produtos para diabéticos.
+ Ao utilizar PhotoBarr com alimentos e bebidas A aplicação da luz laser irá induzir dificuldades em engolir (dores, náuseas e vómitos). Consequentemente, durante alguns dias só deve ingerir alimentos líquidos (em alguns casos até 4 semanas).
+ Regresse à clínica para obter assistência médica, se comer ou beber se tornarem impossíveis ou se continuar a vomitar.
+ Gravidez e aleitamento O PhotoBarr não deve ser utilizado durante a gravidez, excepto em condições de necessidade evidente. As mulheres em idade fértil deverão tomar as precauções contraceptivas adequadas durante e até um período de 90 dias após o uso do PhotoBarr.
+ As mulheres devem interromper o aleitamento antes de utilizar o PhotoBarr.
+ Condução de veículos e utilização de máquinas Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas. Durante o seu tratamento com luz, poderá receber tratamento sedativo. Neste caso, deve evitar quaisquer actividades que exijam um estado de alerta mental, tais como a condução de veículos ou a utilização de máquinas.
+ 3. COMO UTILIZAR O PHOTOBARR Como funciona a terapêutica fotodinâmica (PDT)?
+ Um ciclo de PDT consiste numa injecção de PhotoBarr e em uma ou duas aplicações de luz laser. Para aumentar a sua taxa de resposta, pode precisar de até três ciclos de PDT, com um intervalo de pelo menos 90 dias.
+ Injecção de PhotoBarr: Receberá uma injecção intravenosa de PhotoBarr (2 mg por kg de peso corporal) 40 a 50 horas antes do tratamento com luz laser. A solução de cor castanha avermelhada é lentamente injectada numa veia, ao longo de 3 a 5 minutos.
+ Tratamento com luz laser: O médico irá aplicar a luz laser vermelha (não se trata de um laser para queimar) na área envolvida utilizando um endoscópio (um dispositivo utilizado para ver o interior de determinadas partes do corpo). Poderá receber um segundo tratamento com luz laser 96-120 horas após a injecção inicial de PhotoBarr. Ser-lhe-á administrado um sedativo juntamente com uma anestesia local, para minimizar o desconforto.
+ O que devo fazer se falhar o tratamento com luz laser? Tanto o medicamento como a luz laser são necessários para que a terapêutica funcione. Caso verifique que se esqueceu da sua consulta para o tratamento com laser, contacte imediatamente o seu médico. O seu médico decidirá como prosseguir o tratamento.
+ Como prevenir uma reacção de fotossensibilidade As reacções de fotossensibilidade são efeitos secundários muito frequentes do PhotoBarr (afectando mais de 2 utilizadores em cada 3). Elas consistem principalmente de reacções tipo queimaduras solares, vermelhidão ligeira na pele exposta, normalmente na face e mãos. Durante 90 dias após a sua
+ 48 injecção de PhotoBarr, deve exercer as devidas precauções para evitar a exposição da pele e olhos à luz. Este período poderá ser mais prolongado se tiver problemas no fígado.
+ Como o PhotoBarr é activado pela parte vermelha da luz, os protectores solares para a luz UV (ultravioleta) não o irão proteger contra reacções de fotossensibilidade.
+ Luz solar directa: Antes de receber a sua injecção de PhotoBarr, certifique-se de que existem telas e cortinas adequadas na sua residência para impedir a entrada de luz solar forte. Se sair durante o dia (mesmo em dias enevoados e viajando num veículo), deve tomar as seguintes precauções:
+ -tapar o máximo possível de pele, utilizando camisas com mangas compridas, calças, meias,
+ sapatos, luvas e um chapéus de abas largas.
+ -proteger os seus olhos com óculos de sol escuros.
+ -não se esqueça de levar o vestuário protector e os óculos de sol consigo para a consulta, visto
+ que irá ficar fotossensível depois de lhe ser administrada a injecção.
+ Luz interior: Evite a exposição directa a luzes interiores fortes, incluindo lâmpadas dentárias, lâmpadas do bloco operatório, lâmpadas de luz sem sombra na zona circundante ou luzes de néon. Contudo, para acelerar o processo natural de inactivação do medicamento no seu corpo, a exposição da pele a níveis normais de luz interior é vantajosa. Não é necessário que permaneça em salas escuras.
+ Teste cutâneo da fotossensibilidade Cerca de 90 dias após a injecção de PhotoBarr, deve testar a fotossensibilidade da sua pele da seguinte maneira: Corte um buraco com 5 cm num saco de papel, e coloque-o sobre a sua mão ou cotovelo (não na sua face). Exponha uma pequena área de pele à luz solar durante 10 minutos. Observe para detectar o aparecimento de marcas vermelhas, inchaço ou bolhas passado um dia.
+ -se nenhuma destas surgirem na área exposta, poderá então regressar gradualmente às
+ suasactividades exteriores normais, limitando a exposição ao sol nos horas de pico solar.
+ -se observar qualquer um destes sinais, então continue a proteger-se da luz forte durante mais 2
+ semanas, e após esse período repita o teste cutâneo. Se for de férias para uma área com mais luz solar, não se esqueça de repetir o teste cutâneo, especialmente se algumas áreas da pele não tiverem sido expostas à luz solar desde o seu tratamento com o PhotoBarr.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todos os medicamentos, PhotoBarr pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ Todos os doentes tratados com PhotoBarr estarão fotossensíveis (sensíveis à luz) e deverão observar precauções no sentido de evitar a luz directa do sol e luz interior intensa (ver acima ‘ Como prevenir uma reacção de fotossensibilidade ’).
+ Informe o seu médico imediatamente: -se observar uma alteração na sua visão. Deve ir ao seu oftalmologista.
+ -se não conseguir engolir de todo ou vomitar repetidamente
+ Os efeitos secundários podem ocorrer com determinadas frequências, que são definidas da seguinte maneira: Muito afectam mais de 1 utilizador em cada 10 frequentes:
+ 49 Frequentes: Pouco frequentes:
+ afectam 1 a 10 utilizadores em cada 100 afectam 1 a 10 utilizadores em cada 1000
+ Raros: Muito raro: Desconhecidos:
+ afectam 1 a 10 utilizador em cada 10.000 afectam menos de 1 utilizador em cada 10.000 a frequência não pode ser calculada a partir dos dados disponíveis.
+ Efeitos secundários muito frequentes -febre
+ -reacções de fotossensibilidade (ver secção 3)
+ -vómitos, náuseas
+ -estreitamento do esófago, dificuldade em engolir que pode provocar dores
+ -prisão de ventre, desidratação
+ -
+ Efeitos secundários frequentes -dores nas costas, dores nos braços e pernas, dores devido ao tratamento
+ -dores de cabeça, estado nervoso, sensação de formigueiro, problemas em dormir.
+ -rigidez abdominal, dores de estômago, vomitar sangue
+ -distúrbios do esófago, tais como úlcera, irritação ou uma sensação de estreitamento do mesmo
+ -fezes soltas, fezes escuras tipo alcatrão, dores de garganta, soluços, arrotos
+ líquido no tórax, dores torácicas, ritmo cardíaco rápido, falta de ar, tremores por causa de febres
+ -altas, arrepios
+ -perda de peso, falta de apetite, sensação de cansaço, perda de sabor.
+ úlcera cutânea, erupção cutânea, comichão, urticária, alteração da cor da pele, arranhões, cicatrizes, tecido anómalo, altos na pele, quistos muito pequenos na pele, pele seca e frágil
+ -
+ Efeitos secundários pouco frequentes dificuldades respiratórias, redução do nível de oxigénio, engasgar-se, inchaço das vias respiratórias, presença de líquidos nas vias respiratórias, falta de ar durante actividades físicas,
+ -respiração ofegante ,, aumento da expectoração, expectoração com sangue, nariz entupido
+ -infecção pulmonar, infecção do seio nasal
+ dores torácicas ou ataque cardíaco, pressão arterial elevada ou pressão arterial baixa, desconforto torácico
+ -
+ resultados anómalos das análises sanguíneas, tais como um aumento do número de glóbulos brancos, níveis baixos de potássio
+ -
+ -hemorragias, perda de sangue, aumento da tendência para ter equimoses (nódoas negras)
+ sobre desenvolvimento dos peitos nos homens, incapacidade de micção, intolerância a temperaturas, suores frios, suores nocurnos
+ -
+ inchaço geral, dores gerais, dores torácicas musculosqueléticas, rigidez das articulações, inflamação do calcanhar
+ -
+ tremores, sensação de inquietude, tonturas, dormência, vermelhidão, sensação de fraqueza,
+ -sensação de mal-estar
+ perda de audição, sensação de ouvir campainhas, inchaço dos olhos, dores oculares
+ -
+ erupção cutânea, vermelhidão no local da injecção, infecção fúngica nas unhas, infecção cutânea, bolhas, comichão na pele, cicatriz quelóide, dores na cicatriz, crosta, presença de sinais cutâneos, crescimento anómalo do cabelo/pêlos Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR PHOTOBARR Manter fora do alcance e da vista das crianças.
+ 50 Não utilize após o prazo de validade impresso na embalagem exterior e no frasco para injectáveis, após VAL.
+ Não conservar acima de 25°C. Manter o frasco para injectáveis na embalagem exterior para proteger da luz.
+ Após a reconstituição, a solução do PhotoBarr deve ser protegida da luz e utilizada imediatamente (nas primeiras 3 horas). A estabilidade química e física em uso foi demonstrada durante 3 horas a 23°C. De um ponto de vista microbiológico, o produto deve ser utilizado imediatamente. Se não for utilizado imediatamente, o tempo e as condições de conservação em uso antes da utilização são da responsabilidade do utilizador.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de PhotoBarr -
+ A substância activa é o porfímero sódico. Cada frasco para injectáveis contém 75 mg de porfímero sódico.
+ -
+ Os outros componentes são ácido clorídrico e/ou hidróxido de sódio (para ajuste de pH).
+ Qual o aspecto de PhotoBarr e conteúdo da embalagem
+ O PhotoBarr é um pó castanho avermelhado para solução injectável.
+ Um frasco para injectáveis para uma administração única por embalagem.
+ Titular da Autorização de Introdução no Mercado:
+ Axcan Pharma International B. V., Engelenkampstraat 72, NL-6131JJ Sittard, Países Baixos
+ Fabricante: Axcan Pharma S. A., Route de Bû,78550 Houdan, França
+ Este folheto foi aprovado pela última vez em
+ Para obter quaisquer informações sobre este medicamento, contacte o Titular de Autorização de Introdução no Mercado.
+ Informações detalhadas sobre este medicamento encontram-se disponíveis no site da Web da Agência Europeia de Medicamentos (EMEA): http: //www. emea. europa. eu/.
+ 51 ANEXO IV
+ FUNDAMENTOS PARA UMA RENOVAÇÃO ADICIONAL 52 FUNDAMENTOS PARA UMA RENOVAÇÃO ADICIONAL
+ Com base nos dados que foram disponibilizados desde a concessão da Autorização de Introdução no Mercado inicial, o CHMP considera que a relação benefício-risco da administração de PhotoBarr continua a ser positiva, mas considera igualmente que o respectivo perfil de segurança deve ser atentamente monitorizado pelos seguintes motivos:
+ − Ainda estão em cursos diversas medidas de acompanhamento em termos de ensaios clínicos que visam abordar os diversos riscos identificados do PhotoBarr (ou seja, prevenção da fotossensibilidade, estenose esofágica e perfuração esofágica): só recentemente tiveram início dois ensaios clínicos (PHOEST07-01 e PHOTB05-01). − No seguimento e em virtude destes ensaios clínicos ainda estarem em curso, o CHMP considerou ser necessário dispor de um plano de gestão do risco para este medicamento, incluindo materiais informativos como uma forma de minimização dos riscos, de modo a reduzir os riscos identificados e os potenciais riscos relacionados com a utilização deste medicamento.
+ Por conseguinte, com base no perfil de segurança do PhotoBarr, o CHMP concluiu que o Titular da Autorização de Introdução no Mercado deverá submeter uma candidatura de renovação adicional no espaço de 5 anos.
+ 53

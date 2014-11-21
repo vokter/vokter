@@ -1,13 +1,6 @@
 package argus;
 
-import argus.evaluation.Evaluation;
-import argus.evaluation.EvaluationParam;
-import argus.index.Collection;
-import argus.index.CollectionBuilder;
-import argus.query.QueryBuilder;
 import argus.rest.Context;
-import argus.stemmer.PortugueseStemmer;
-import argus.util.EvaluationFileLoader;
 import argus.util.StopwordFileLoader;
 import argus.util.Util;
 import it.unimi.dsi.lang.MutableString;
@@ -17,8 +10,6 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import java.io.*;
-import java.nio.file.Paths;
-import java.util.List;
 import java.util.Set;
 
 
@@ -66,18 +57,6 @@ public class Main {
         options.addOption(o);
 
         options.addOption("stem", "stemming", false, "Perform stemming.");
-
-        options.addOption("ev", "evaluation", false, "Uses the input corpus to "
-                + "evaluate the query precision.");
-
-        options.addOption("ev_noslop", "evaluation-ignore-slops", false, "Ignores "
-                + "proximity slops from query inputs of the evaluation file.");
-
-        o = new Option("ev_file", "evaluation file", false, "Loads a custom "
-                + "evaluation file (instead of using the default one). This is "
-                + "only used if the 'ev' argument was called.");
-        o.setArgs(1);
-        options.addOption(o);
 
         o = new Option("c", "corpus", true, "The corpus to be processed");
         o.setArgs(1);
@@ -133,10 +112,6 @@ public class Main {
             isIgnoringCase = true;
         }
 
-        if (commandLine.hasOption("ev_noslop")) {
-            isIgnoringSlops = true;
-        }
-
 
         String corpusDir = null;
         if (commandLine.hasOption("c")) {
@@ -181,33 +156,6 @@ public class Main {
         stopLoader = null;
 
 
-        File evFile = null;
-        if (commandLine.hasOption("ev_file")) {
-            String dirPath = commandLine.getOptionValue("ev_file");
-
-            File f = new File(dirPath);
-            if (f.exists() && f.isDirectory()) {
-                evFile = f;
-            }
-        }
-        InputStream evaluationFileStream;
-        if (evFile != null) {
-            // loads the specified evaluation file.
-            try {
-                evaluationFileStream = new FileInputStream(evFile);
-            } catch (FileNotFoundException ex) {
-                logger.error(ex.getMessage(), ex);
-                return;
-            }
-        } else {
-            // loads the default evaluation file.
-            evaluationFileStream = Main.class.getResourceAsStream("evaluate.txt");
-        }
-        EvaluationFileLoader evLoader = new EvaluationFileLoader();
-        List<EvaluationParam> loadedEvQueries = evLoader.load(evaluationFileStream, isIgnoringSlops);
-        evLoader = null;
-
-
         File indexCacheFolder = new File(Util.INSTALL_DIR, "index");
         if (indexCacheFolder.exists()) {
             try {
@@ -230,30 +178,7 @@ public class Main {
         documentsCacheFolder.mkdirs();
 
 
-        if (commandLine.hasOption("ev")) {
-            CollectionBuilder cb = CollectionBuilder.fromDir(Paths.get(corpusDir));
-            QueryBuilder qb = QueryBuilder.newBuilder();
 
-            if (isStoppingEnabled) {
-                cb.withStopwords(loadedStopwords);
-                qb.withStopwords(loadedStopwords);
-            }
-
-            if (isStemmingEnabled) {
-                cb.withStemmer(PortugueseStemmer.class);
-                qb.withStemmer(PortugueseStemmer.class);
-            }
-
-            if (isIgnoringCase) {
-                cb.ignoreCase();
-                qb.ignoreCase();
-            }
-
-            Collection collection =
-                    cb.buildInFolders(indexCacheFolder, documentsCacheFolder);
-            new Evaluation(collection, qb, loadedEvQueries).evaluate();
-
-        } else {
             try {
                 Context context = Context.getInstance();
                 context.start(port, maxThreads, loadedStopwords);
@@ -270,7 +195,6 @@ public class Main {
                 logger.info("Shutting down the server...");
                 System.exit(1);
             }
-        }
     }
 
 

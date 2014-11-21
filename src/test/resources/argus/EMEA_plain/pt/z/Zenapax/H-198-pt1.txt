@@ -1,0 +1,37 @@
+ European Medicines Agency
+ EMEA/H/C/198
+ RELATÓRIO PÚBLICO EUROPEU DE AVALIAÇÃO (EPAR)
+ ZENAPAX
+ o Resumo do EPAR destinado ao público
+ ad Este documento é um resumo do Relatório Público Europeu de Avaliação (EPAR). O seu objectivo é explicar o modo como o Comité dos Medicamentos para Uso Humano (CHMP)
+ riz avaliou os estudos realizados, a fim de emitir recomendações sobre as condições de utilização do medicamento.
+ to Se necessitar de informação adicional sobre a sua doença ou o tratamento, leia o Folheto Informativo (também parte do EPAR) ou contacte o seu médico ou farmacêutico. Se quiser obter mais informação sobre os fundamentos das recomendações do CHMP, leia a Discussão
+ au
+ Científica (também parte do EPAR). O que é o Zenapax?
+ ão
+ O Zenapax é um concentrado a ser reconstituído numa solução para perfusão (administração gota a gota numa veia). Este medicamento contém a substância activa daclizumab (5 mg/ml). án
+ Para que é utilizado o Zenapax? O Zenapax é utilizado para impedir que o organismo rejeite um rim pouco tempo depois de um transplante. É utilizado juntamente com outros medicamentos imunossupressores (anti-rejeição) que j
+ incluem a ciclosporina e corticosteróides. Destina-se a doentes que não apresentam concentrações elevadas de anticorpos contra células ‘ estranhas ’ de outras pessoas. Estes anticorpos podem to
+ desenvolver-se após transfusão sanguínea, gravidez ou transplante de órgãos prévio. n
+ Como se utiliza o Zenapax? O Zenapax só deve ser prescrito e administrado por médicos com experiência na utilização de me
+ tratamento imunossupressor após transplante de órgãos. A dose recomendada para adultos e crianças é de 1 mg por quilograma de peso corporal, diluída numa solução salina estéril de 50 ml e administrada ao longo de 15 minutos. A primeira perfusão é administrada nas 24 horas que antecedem o transplante. a
+ As doses subsequentes devem ser administradas com intervalos de 14 dias, num total de cinco doses. dic
+ Como funciona o Zenapax? A substância activa no Zenapax, o daclizumab, é um anticorpo monoclonal. Um anticorpo monoclonal é um anticorpo (um tipo de proteína) que foi concebido para reconhecer e se ligar a uma estrutura Me
+ específica (denominada antigénio) que se encontra em determinadas células do organismo. O daclizumab foi concebido para se ligar ao receptor da interleucina-2 na superfície dos glóbulos brancos denominados linfócitos T. Estas células estão envolvidas no reconhecimento das células ‘ estranhas ’ e na rejeição dos órgãos transplantados. Através da ligação ao receptor e do seu bloqueio, o daclizumab impede que a interleucina-2 active os linfócitos T, reduzindo a possibilidade de o rim transplantado ser rejeitado.
+ Como foi estudado o Zenapax? O Zenapax foi estudado em dois estudos principais que envolveram um total de 535 adultos submetidos a transplante renal. Ambos os estudos compararam os efeitos da adição de Zenapax ou placebo (um tratamento simulado) a outros medicamentos imunossupressores. No primeiro estudo, os 7 Westferry Circus, Canary Wharf, London E14 4HB, UK Tel. (44-20) 74 18 84 00 Fax (44-20) 74 18 84 16 E-mail: mail@ emea. europa. eu http: //www. emea. europa. eu ©EMEA 2007 Reproduction and/or distribution of this document is authorised for non commercial purposes only provided the EMEA is acknowledged doentes receberam ciclosporina e prednisona (um corticosteróide) e, no segundo estudo, receberam ciclosporina, prednisona e azatioprina. O parâmetro principal de eficácia foi a percentagem de doentes que rejeitaram o rim transplantado nos seis primeiros meses após o transplante. Um estudo adicional analisou as taxas de rejeição em 60 crianças, com idades compreendidas entre os cinco e os 18 anos de idade, submetidas a um transplante renal. Neste estudo, o Zenapax foi adicionado aos medicamentos imunossupressores que as crianças já estavam a tomar.
+ Qual o benefício demonstrado pelo Zenapax durante os estudos? O Zenapax foi mais eficaz do que o placebo na redução da taxa de rejeição quando adicionado à terapêutica imunossupressora.
+ o No primeiro estudo,28 (22%) dos 126 adultos com adição do Zenapax à ciclosporina e à prednisona rejeitaram o rim, em comparação com 47 (35%) dos 134 com adição de placebo.
+ ad No segundo estudo,39 (28%) dos 141 adultos com adição do Zenapax a ciclosporina, prednisona e azatioprina rejeitaram o rim, em comparação com 63 (47%) dos 134 com adição de placebo. No estudo com crianças, cinco (8%) rejeitaram o rim nos seis primeiros meses após o transplante.
+ riz Qual é o risco associado ao Zenapax? Nos estudos, os efeitos secundários foram observados em taxas semelhantes nos doentes que tomaram
+ to o Zenapax e nos doentes que tomaram placebo, quando a administração foi efectuada em associação com medicamentos imunossupressores. Os efeitos secundários mais frequentes (observados em mais
+ au de 1 doente em cada 10) foram insónias (dificuldade em dormir), tremores (tremer), dores de cabeça, hipertensão (tensão arterial alta), dispneia (dificuldade em respirar), obstipação, diarreia, vómitos, náuseas (sensação de enjoo), dispepsia (azia), dor músculo-esquelética (dor nos músculos e nas articulações), edema (inchaço), dificuldade de cicatrização e dor pós-traumática (dor após a cirurgia). ão Para a lista completa dos efeitos secundários comunicados relativamente ao Zenapax, consulte o Folheto Informativo. O Zenapax não deve ser utilizado em pessoas que possam ser hipersensíveis (alérgicas) ao daclizumab án
+ ou a qualquer um dos outros ingredientes. O Zenapax não deve ser utilizado em mulheres que estejam a amamentar.
+ Por que foi aprovado o Zenapax? j
+ O Comité dos Medicamentos para Uso Humano (CHMP) concluiu que os benefícios do Zenapax são to
+ superiores aos seus riscos na profilaxia da rejeição aguda do órgão em doentes submetidos a transplante renal de novo, utilizado concomitantemente com um regime imunossupressor que inclui ciclosporina e corticosteróides em doentes que não se encontrem hiperimunizados. O Comité n
+ recomendou que fosse concedida uma Autorização de Introdução no Mercado para o Zenapax. me
+ Outras informações sobre o Zenapax Em 26 de Fevereiro de 1999, a Comissão Europeia concedeu à Roche Registration Limited uma Autorização de Introdução no Mercado, válida para toda a União Europeia, para o medicamento a
+ Zenapax. A Autorização de Introdução no Mercado foi renovada em 26 de Fevereiro de 2004. dic
+ O EPAR completo sobre o Zenapax pode ser consultado aqui.
+ Este resumo foi actualizado pela última vez em 10-2007. Me
+ ©EMEA 2007

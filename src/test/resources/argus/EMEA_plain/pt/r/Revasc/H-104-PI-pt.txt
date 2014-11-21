@@ -1,0 +1,245 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. DENOMINAÇÃO DO MEDICAMENTO
+ Revasc 15 mg/0,5 ml pó e solvente para solução injectável
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada frasco para injectáveis contém 15 mg de desirudina. Após reconstituição cada frasco para injectáveis contém 15 mg ** de desirudina* por 0,5 ml.
+ A desirudina é um polipéptido de cadeia única com 65 resíduos de aminoácido e três ligações bissulfito.
+ * produzida por tecnologia de ADN recombinante em células de leveduras. ** correspondendo a aproximadamente 270.000 unidades de antitrombina (UAT) ou 18.000 UAT por mg de desirudina, por referência ao Segundo Padrão Internacional da OMS para a alpha-trombina.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Pó branco e solvente límpido e incolor para solução injectável
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Prevenção da trombose venosa profunda nos doentes sujeitos a cirurgia electiva de substituição da anca ou do joelho.
+ 4.2 Posologia e modo de administração O tratamento com Revasc deve ser iniciado sob orientação de um médico com experiência em alterações da coagulação. As instruções para a preparação de Revasc são fornecidas na secção 6.6.
+ Doentes adultos e idosos A dose recomendada é de 15 mg duas vezes por dia. A primeira injecção deve ser iniciada 5 a 15 minutos antes da cirurgia, embora só após a indução da anestesia de bloqueio regional, caso esta seja utilizada. O tratamento com desirudina é, então, prosseguido no pós-operatório com duas administrações diárias durante 9 dias, até um máximo de 12 dias, ou até que o doente não necessite de continuar acamado, independentemente do que ocorrer primeiro. Não existem, actualmente, dados clínicos sobre o uso de desirudina durante um período superior a 12 dias.
+ O medicamento é administrado por injecção subcutânea, de preferência na região abdominal. As injecções devem ser administradas num esquema de rotação entre, pelo menos, quatro locais diferentes.
+ Crianças Não existe experiência em crianças. 2 Doentes com insuficiência renal
+ A desirudina está contra-indicada em doentes com insuficiência renal grave (clearance de creatinina inferior a 30 ml/min, correspondendo a uma creatinina sérica &gt; 2,5 mg/dl ou 221 µmol/l; ver secção 4.3). Nos doentes com insuficiência renal ligeira a moderada (clearance de creatinina entre 31 e 90 ml/min; ver secção 4.4), dever-se-á proceder à monitorização do tempo de tromboplastina parcial activada (aPTT).
+ Doentes com insuficiência hepática A desirudina está contra-indicada na insuficiência hepática grave (ver secção 4.3). Nos doentes com insuficiência hepática ligeira a moderada (ver secção 4.4) recomenda-se proceder à monitorização do aPTT.
+ 4.3 Contra-indicações A desirudina está contra-indicada em doentes:
+ -com hipersensibilidade à substância activa ou a qualquer um dos excipientes,
+ -com hemorragia activa e/ou alterações irreversíveis da coagulação,
+ -na insuficiência renal e hepática grave
+ -durante a gravidez (ver secção 4.6)
+ -com hipertensão grave não controlada e com endocardite bacteriana subaguda.
+ 4.4 Advertências e precauções especiais de utilização
+ Advertências Anafilaxia: O Revasc pode causar reacções alérgicas incluindo anafilaxia e choque (ver secção 4.8). Têm sido relatadas reacções anafilácticas fatais em doentes re-expostos a terapêutica com hirudinas, num segundo tratamento ou em tratamentos subsequentes. Apesar de não terem sido comunicadas reacções fatais com a desirudina, devem ser consideradas opções alternativas de tratamento antes de se decidir re-expor um doente a Revasc. Como estas recções são imuno-mediadas, os doentes com exposição prévia a hirudinas ou produtos análogos podem apresentar um risco acrescido. O início do tratamento com Revasc deve ser realizado apenas num local que disponha de cuidados de assistência médica imediata e onde exista acesso a tratamento de reacções anafilácticas. Os doentes devem ser informados de que foram tratados com Revasc.
+ A desirudina não deve ser administrada por via intramuscular, dado o risco de hematoma local.
+ A desirudina deve ser utilizada com precaução em situações com risco aumentado de hemorragia, tais como cirurgia major, biópsia ou punção de um vaso não compressível ocorridas 1 mês antes; história de AVC hemorrágico, hemorragia intracraniana ou intraocular incluindo retinopatia diabética (hemorrágica); acidente isquémico cerebral ocorrido nos últimos 6 meses, perturbação hemostática conhecida (congénita ou adquirida, por ex. hemofilia, doença hepática) ou história de hemorragia gastrointestinal ou pulmonar ocorrida nos últimos 3 meses.
+ Precauções Quando a desirudina é administrada em doentes com risco aumentado de complicações hemorrágicas, insuficiência hepática ligeira a moderada e/ou insuficiência renal ligeira a moderada o aPTT deve ser monitorizado e o aPTT máximo não deve exceder o dobro do valor de controlo. Caso necessário, a terapêutica com desirudina deve ser interrompida até que o aPTT retorne a menos do dobro do valor de controlo, altura em que o tratamento com desirudina poderá ser reiniciado com uma dose reduzida.
+ A desirudina deve ser utilizada com precaução nos doentes tratados com anticoagulantes e/ou inibidores plaquetários, e/ou medicamentos anti-inflamatórios não esteróides. Recomenda-se a
+ 3 monitorização para pesquisa de sinais de hemorragia (ver secção 4.5). O uso concomitante de desirudina com trombolíticos e ticlopidina não foi estudado nestes doentes.
+ O efeito anticoagulante da desirudina é escassamente reversível, no entanto é possível reduzir os níveis do aPTT pela administração intravenosa de DDAVP (desmopressina)
+ Testes laboratoriais: o tempo de tromboplastina parcial activada (aPTT) deve ser monitorizado em doentes com risco aumentado de hemorragia e/ou com insuficiência renal ou hepática. O aPTT máximo não deve exceder o dobro do valor de controlo. Se necessário, a terapêutica com desirudina deve ser interrompida até que o aPTT desça para menos do dobro do valor de controlo, altura em que o tratamento com desirudina poderá ser reiniciado com uma dose reduzida (ver também secção 4.5).
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Qualquer fármaco que possa aumentar o risco de hemorragia deve ser descontinuado antes do início da terapêutica com desirudina. Se a co-administração não puder ser evitada, deve proceder-se a uma monitorização clínica e laboratorial cuidada (ver secção 4.4).
+ Durante a profilaxia, não se recomenda a utilização concomitante de medicamentos que contenham heparinas (heparinas não-fraccionadas e de baixo peso molecular) e dextranos. Os efeitos da desirudina e das heparinas não-fraccionadas sobre o prolongamento do aPTT demonstraram ser aditivos (ver secção 4.4).
+ Como com outros anticoagulantes a desirudina deve ser usada com precaução em associação com medicamentos que afectam a função plaquetar. Estes medicamentos incluem: ácido acetilsalicílico e AINEs, ticlopidina e clopidogrel, antagonistas da glicoproteína IIb/IIIa (abciximab, eptifibatide, tirofiban) e iloprost.
+ Se um doente for mudado de anticoagulantes orais para terapêutica com desirudina ou de desirudina para anticoagulantes orais, a actividade anticoagulante deve continuar a ser cuidadosamente monitorizada com métodos apropriados. Essa actividade deve ser considerada na avaliação do estado global da coagulação do doente durante a mudança (ver secção 4.2).
+ 4.6 Gravidez e o aleitamento Não existem dados suficientes sobre a utilização de desirudina em mulheres grávidas. Os estudos em animais revelaram toxicidade reprodutiva (ver secção 5.3). Desconhece-se o risco potencial para o ser humano. Revasc é contra-indicado durante a gravidez (ver secção 4.3). Desconhece-se se a desirudina é excretada no leite humano. As mães lactantes devem ser, contudo, aconselhadas a evitar amamentar, ou a utilizar alternativas terapêuticas.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Os efeitos de Revasc sobre a capacidade de conduzir e utilizar máquinas são nulos ou desprezíveis.
+ 4.8 Efeitos indesejáveis Em ensaios clínicos controlados para o estudo da desirudina 15 mg duas vezes por dia e uma dose padrão de heparina não fraccionada, a natureza da cirurgia da anca e o modo de acção dos dois medicamentos estudados foram responsáveis pela maior parte dos efeitos adversos referidos. Tal como com outros anticoagulantes, a hemorragia é a reacção adversa mais comum.
+ As seguintes reacções adversas relacionadas estão listadas por sistemas de órgãos e são apresentadas, dentro de cada grupo de frequência, por ordem decrescente de gravidade: frequentes (≥ 1/100 a &lt; 1/10); pouco frequentes (≥ 1/1.000 a &lt; 1/100); raras (≥ 1/10.000 a &lt; 1/1.000).
+ 4 Exames complementares de diagnóstico Pouco frequentes: Aumento das transaminases séricas.
+ Doenças do sangue e do sistema linfático Anemia. Frequentes:
+ Doenças do sistema nervoso Pouco frequentes: Tonturas, insónia, confusão.
+ Doenças respiratórias, torácicas e do mediastino Pouco frequentes: Dispneia.
+ Doenças gastrointestinais Náuseas Frequentes: Pouco frequentes: Hematemese, vómitos, obstipação.
+ Doenças renais e urinárias Pouco frequentes: Hematúria, retenção urinária
+ Afecções dos tecidos cutâneos e subcutâneas Pouco frequentes: erupção cutânea e urticária.
+ Doenças do metabolismo e da nutrição Pouco frequentes: Hipocaliémia.
+ Infecções e infestações Pouco frequentes: Infecção do tracto urinário, cistite.
+ Complicações de intervenções relacionadas com lesões e intoxicações Exsudado na incisão cirúrgica Frequentes: Pouco frequentes: Dificuldade de cicatrização.
+ Vasculopatias Hipotensão, tromboflebite profunda Frequentes: Pouco frequentes: Epistaxis, hipertensão.
+ Perturbações gerais e alterações no local de administração Febre, massa no local de injecção, hematomas, edema nos membros inferiores Frequentes: Pouco frequentes: Dor nas pernas, dores, dor abdominal e torácica
+ Distúrbios do sistema imunitário Nos ensaios clínicos foram relatadas reacções alérgicas na mesma proporção Frequentes: (1,6%) de doentes tratados com desirudina (N=2.367) ou com heparina não fraccionada (N=1.134), independentemente da causalidade. Foram detectados anticorpos anti-hirudina após re-exposição à desirudina em Raros: ensaios clínicos.
+ Foram relatadas reacções adversas independentes de relação com o medicamento em estudo durante os ensaios clínicos, como episódios hemorrágicos, oligúria, hiperpirexia e luxação articular.
+ Na vigilância pós-comercialização, foram recebidos relatos de casos raros de hemorragias graves, alguns dos quais fatais, bem como de casos raros de reacções anafilácticas ou anafilactóides não fatais que conduziram ao choque.
+ 5 4.9 Sobredosagem
+ Não existe antídoto contra a desirudina. A sobredosagem de desirudina pode desencadear complicações de natureza hemorrágica. Nestes casos a administração de desirudina deve ser interrompida. Se necessário, dever-se-á recorrer à administração de expansores do plasma e/ou transfusão sanguínea.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Anticoagulante, código ATC: B01AE01
+ Mecanismo de acção A desirudina é um inibidor altamente potente e selectivo da trombina livre circulante e da trombina ligada ao coágulo. Após a administração de 15 mg de desirudina b. i. d., por injecção subcutânea (SC), observa-se um prolongamento médio do pico de aPTT cerca de 1,4 vezes superior ao valor da linha de base. Em concentrações séricas terapêuticas, não exerce efeito sobre as restantes enzimas do sistema hemostático, nomeadamente sobre os factores IXa, Xa, calicreína, plasmina, tPA ou proteína C activada. Além disso, não revela qualquer efeito sobre outras proteases séricas, tais como as enzimas digestivas tripsina ou quimotripsina, ou sobre a activação do complemento pelas vias clássica ou alterna. Em dois estudos clínicos controlados, com dupla ocultação, a taxa global de acidentes tromboembólicos nos doentes tratados com desirudina 15 mg SC b. i. d. (N=370) foi igual a metade da dos doentes tratados com uma dose padrão de heparina não fraccionada (N=396) (p &lt; 0,0001); a taxa de trombose venosa profunda proximal foi apenas um quinto da observada com a heparina (p &lt; 0,0001). Até à data, estão disponíveis dados clínicos unicamente sobre a cirurgia da anca.
+ Efeitos farmacodinâmicos As propriedades anticoagulantes da desirudina são demonstradas pela sua capacidade em prolongar o tempo de coagulação do plasma humano ou do rato, quer induzido directamente (tempo de trombina), ou induzido através das vias intrínsecas (aPTT) ou extrínsecas (TP). A desirudina não apresenta actividade profibrinolítica.
+ 5.2 Propriedades farmacocinéticas Absorção O tempo de absorção médio da desirudina subcutânea (SC) é de 4,1, 4,5 e 5,4 horas para os níveis de dosagem de 0,1, 0,3 e 0,5 mg/kg respectivamente (média global= 4,6 horas). A absorção é completa, com base nos valores médios da área sob a curva (AUC).
+ Na sequência da administração de doses s. c. únicas de 0, 1-0,75 mg/kg, as concentrações de desirudina no plasma aumentaram rapidamente, até atingirem níveis máximos (Cmax) entre 1 e 3 horas. Tanto a Cmax como a AUC são proporcionais à dose.
+ Distribuição A desirudina é distribuída no espaço extracelular com um volume de distribuição em estado estacionário de 0,25 l/kg, independente da dose.
+ 6 Metabolismo e eliminação
+ A desirudina desaparece rapidamente do plasma na primeira fase, com a eliminação de aproximadamente 90% de uma dose em bólus intravenosa (IV) nas duas primeiras horas após a injecção. Segue-se uma fase de eliminação terminal mais lenta, com uma semi-vida de eliminação terminal média, independente da dose, de 2 a 3 horas. Os tempos de permanência médios são de 1,7 a 2 horas e 6 a 7 horas após a administração IV e SC, respectivamente.
+ A excreção urinária total da desirudina não modificada perfaz 40-50% da dose administrada. Os metabolitos com menos 1 ou 2 aminoácidos C-terminais constituem uma proporção mínima do material recuperado da urina (&lt; 7%). Os dados obtidos em animais in vivo e in vitro indicam que a maior parte da desirudina é eliminada e metabolizada no rim. A eliminação hepática de desirudina ou do complexo trombina/desirudina não é, aparentemente, significativa.
+ A clearance total de desirudina revelou-se equivalente tanto após a administração subcutânea como endovenosa (cerca de 1,95-2,20 ml/min/kg) e foi independente da dose. As clearances totais e renais de desirudina apresentam uma ligeira redução nos doentes idosos, quando comparadas com voluntários jovens. Esta redução pode ser considerada como provavelmente desprovida de significado clínico, pelo que não requer qualquer redução da dose.
+ 5.3 Dados de segurança pré-clínica Os estudos aminais de toxicologia na reprodução demonstraram que a desirudina é teratogénica, provocando alterações que incluem espinha bífida no coelho e onfalocelo no rato. Os dados não clínicos não revelam riscos especiais para o ser humano, segundo estudos convencionais de farmacologia de segurança, toxicidade de dose repetida, genotoxicidade e potencial carcinogénico.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1. Lista dos excipientes Pó: cloreto de magnésio hidróxido de sódio. Solvente:
+ manitol (E 421) água para injectáveis.
+ 6.2 Incompatibilidades Na ausência de estudos de compatibilidade, este medicamento não deve ser misturado com outros.
+ 6.3 Prazo de validade 3 anos. De um ponto de vista microbiológico, o produto deve ser utilizado de imediato. Caso não seja imediatamente utilizado, os tempos e condições de armazenamento antes da utilização são da responsabilidade do utilizador e não seriam normalmente mais prolongados do que 24 horas a 2 a 8°C após a realização da reconstituição em condições controladas e validadas de assépsia.
+ 6.4 Precauções especiais de conservação
+ Não conservar acima de 25ºC. Mantenha o frasco para injectáveis e a ampola dentro da embalagem exterior, para proteger da luz. Condições de conservação do medicamento reconstituído, ver secção 6.3.
+ 7 6.5 Natureza e conteúdo do recipiente
+ 15 mg de pó em frasco para injectáveis (vidro tipo I), com tampa (borracha butílica) cobertas com uma película (fluoropolímero) na face voltada para o produto e 0,5 ml de solvente numa ampola (vidro tipo I).
+ Embalagens de 1,2 ou 10. É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ Para preparar a solução aquosa reconstituída, adicionam-se, em condições assépticas, 0,5 ml do solvente de manitol incluído, ao frascopara injectáveis que contém o pó para solução injectável. A substância activa é rapidamente re-dispersa mediante uma agitação ligeira produzindo uma solução límpida.
+ A solução reconstituída deve ser utilizada logo que possível (ver secção 6.3 acima).
+ Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ Não utilizar frascos para injectáveis de solução reconstituída contendo particulas visiveis.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Canyon Pharmaceuticals Limited 20-22 Bedford Row London WC1R 4JS Reino Unido
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/97/043/001 2 frascos para injectáveis/2 ampolas de solvente EU/1/97/043/002 10 frascos para injectáveis/10 ampolas de solvente EU/1/97/043/003 1 frasco para injectáveis/1 ampola de solvente
+ 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 9 de Julho de 1997 Data da última renovação: 9 de Julho de 2007
+ 10. DATA DA REVISÃO DO TEXTO 8 ANEXO II
+ A. FABRICANTE DA SUBSTÂNCIA ACTIVA DE ORIGEM BIOLÓGICA E TITULAR DE AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 9 A. FABRICANTE DA SUBSTÂNCIA ACTIVA DE ORIGEM BIOLÓGICA E TITULAR DE AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do fabricante da substância activa de origem biológica
+ NOVARTIS Pharma AG Lichtstrasse 35 CH-4056 Basel Suiça
+ Nome e endereço do fabricante responsável pela libertação do lote
+ Canyon Pharmaceuticals GmbH Unter Gereuth 10 D-79353 Bahlingen a. K. Alemanha
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento sujeito a receita médica restrita (ver anexo I: resumo das características do medicamento, secção 4.2).
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ Não aplicável. 10 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 11 A. ROTULAGEM
+ 12 INDICAÇÕES A INCLUIR NA EMBALAGEM EXTERIOR
+ CARTONAGEM PARA 2 FRASCOS PARA INJECTÁVEIS (15 mg/frasco para injectáveis) E 2 AMPOLAS
+ 1. DENOMINAÇÃO DO MEDICAMENTO Revasc 15 mg/0,5 ml pó e solvente para solução injectável Desirudina
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ Cada frasco para injectáveis contém 15 mg de desirudina com 18.000 UAT/mg correspondendo aproximadamente a 270.000 UAT por frasco
+ 3. LISTA DOS EXCIPIENTES Pó: cloreto de magnésio, hidróxido de sódio Solvente: manitol, água para injectáveis
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Pó e solvente para solução injectável 15 mg de pó num frasco para injectáveis e 0,5 ml de solvente numa ampola
+ Embalagem de 2 5. MODO E VIA(S) DE ADMINISTRAÇÃO Reconstituir imediatamente antes do uso, com o solvente fornecido. Consultar o folheto informativo.
+ Administrar apenas por via subcutânea. 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. 13 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Não conservar acima de 25 ºC. Após reconstituição, recomenda-se o uso imediato. No entanto, a estabilidade em uso foi demonstrada durante 24 horas entre 2 ºC e 8 ºC (no frigorífico).
+ Mantenha o frasco para injectáveis e a ampola dentro da embalagem exterior, para proteger da luz.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Canyon Pharmaceuticals Limited 20-22 Bedford Row London WC1R 4JS Reino Unido
+ 12. NÚMERO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/97/043/001 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE 14 INDICAÇÕES A INCLUIR NA EMBALAGEM EXTERIOR
+ CARTONAGEM PARA 10 FRASCOS PARA INJECTÁVEIS (15 mg/frasco para injectáveis) E 10 AMPOLAS
+ 1. DENOMINAÇÃO DO MEDICAMENTO Revasc 15 mg/0,5 ml pó e solvente para solução injectável Desirudina
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ Cada frasco para injectáveis contém 15 mg de desirudina com 18.000 UAT/mg correspondendo aproximadamente a 270.000 UAT por frasco
+ 3. LISTA DOS EXCIPIENTES Pó: cloreto de magnésio, hidróxido de sódio Solvente: manitol, água para injectáveis
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Pó e solvente para solução injectável 15 mg de pó num frasco para injectáveis e 0,5 ml de solvente numa ampola
+ Embalagem de 10 5. MODO E VIA(S) DE ADMINISTRAÇÃO Reconstituir imediatamente antes do uso, com o solvente fornecido. Consultar o folheto informativo.
+ Administrar apenas por via subcutânea. 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ 15 Não conservar acima de 25 ºC. Após reconstituição, recomenda-se o uso imediato. No entanto, a estabilidade em uso foi demonstrada durante 24 horas entre 2 ºC e 8 ºC (no frigorífico).
+ Mantenha o frasco para injectáveis e a ampola dentro da embalagem exterior, para proteger da luz.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Canyon Pharmaceuticals Limited 20-22 Bedford Row London WC1R 4JS Reino Unido
+ 12. NÚMERO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/97/043/002 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE 16 INDICAÇÕES A INCLUIR NA EMBALAGEM EXTERIOR
+ CARTONAGEM PARA 1 FRASCO PARA INJECTÁVEIS (15 mg/frasco para injectáveis) E 1 AMPOLA
+ 1. DENOMINAÇÃO DO MEDICAMENTO Revasc 15 mg/0,5 ml pó e solvente para solução injectável Desirudina
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ Cada frasco para injectáveis contém 15 mg de desirudina com 18.000 UAT/mg correspondendo aproximadamente a 270.000 UAT por frasco
+ 3. LISTA DOS EXCIPIENTES Pó: cloreto de magnésio, hidróxido de sódio Solvente: manitol, água para injectáveis
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Pó e solvente para solução injectável 15 mg de pó num frasco para injectáveis e 0,5 ml de solvente numa ampola
+ Embalagem de 1 5. MODO E VIA(S) DE ADMINISTRAÇÃO Reconstituir imediatamente antes do uso, com o solvente fornecido. Consultar o folheto informativo.
+ Administrar apenas por via subcutânea. 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ 17 Não conservar acima de 25 ºC. Após reconstituição, recomenda-se o uso imediato. No entanto, a estabilidade em uso foi demonstrada durante 24 horas entre 2 ºC e 8 ºC (no frigorífico).
+ Mantenha o o frasco para injectáveis e a ampola dentro da embalagem exterior, para proteger da luz.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Canyon Pharmaceuticals Limited 20-22 Bedford Row London WC1R 4JS Reino Unido
+ 12. NÚMERO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/97/043/003 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE 18 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ RÓTULO DO FRASCO PARA INJECTÁVEIS: 15 mg 1. DENOMINAÇÃO DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Revasc 15 mg/0,5 ml Pó para solução injectável Desirudina Via subcutânea
+ 2. MODO DE ADMINISTRAÇÃO 3. PRAZO DE VALIDADE VAL 4. NÚMERO DO LOTE Lote 5. CONTEÚDO EM TERMOS DE PESO, VOLUME OU UNIDADE
+ 15 mg de desirudina 19 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ RÓTULO DA AMPOLA: 0,5 ml solvente 1. DENOMINAÇÃO DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Revasc 15 mg/0,5 ml Solvente para uso parentérico
+ 2. MODO DE ADMINISTRAÇÃO 3. PRAZO DE VALIDADE VAL 4. NÚMERO DO LOTE Lote 5. CONTEÚDO EM TERMOS DE PESO, VOLUME OU UNIDADE
+ 0,5 ml de água para injectáveis com 3% (p/v) de manitol
+ 20 B. FOLHETO INFORMATIVO
+ 21 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Revasc 15 mg/0,5 ml pó e solvente para solução injectável Desirudina
+ Leia atentamente este folheto antes de tomar o medicamento
+ -Conserve este folheto. Pode ter necessidade de o ler novamente.
+ -Caso ainda tenha dúvidas, consulte o seu médico, enfermeiro ou farmacêutico.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou enfermeiro.
+ Neste folheto: 1. O que é Revasc e para que é utilizado 2. Antes de tomar Revasc 3. Como utilizar Revasc 4. Efeitos secundários possíveis 5. Como conservar Revasc 6. Outras informações
+ 1. O QUE É REVASC E PARA QUE É UTILIZADO
+ A denominação comum da sua substância activa em Resvac é desirudina. A desirudina é um produto de tecnologia de ADN recombinante obtido de leveduras. A desirudina pertence a um grupo de medicamentos denominados anticoagulantes, que evitam a formação de coágulos nos vasos sanguíneos.
+ Revasc é utilizado para prevenir a coagulação sanguínea após cirurgia de prótese da anca ou do joelho, pois coágulos prejudiciais que podem formar-se nos vasos sanguíneos das pernas. O medicamento é frequentemente administrado durante vários dias após as intervenções cirúrgicas, dada a maior probabilidade de formação de coágulos sanguíneos quando o doente permanece acamado.
+ 2. ANTES DE UTILIZAR REVASC Não deve receber Revasc -se tem hipersensibilidade (alergia) à hirudina natural ou sintética, incluindo a desirudina, ou a
+ qualquer outro componente de Revasc;
+ -se tiver uma hemorragia importante ou se sofre de alguma doença hemorrágica grave (por
+ exemplo, hemofilia);
+ -se sofre de doença renal ou hepática graves;
+ -se sofre de infecção cardíaca;
+ -se sofre de hipertensão arterial não controlada;
+ -se está grávida.
+ Tome especial cuidado com Revasc Não deixe de prevenir o seu médico caso esteja em risco aumentado de hemorragia; o que poderá ser o caso se sofre ou sofreu no passado de:
+ -perturbações hemorrágicas conhecidas ou história familiar de hemorragia;
+ -úlcera gástrica ou qualquer outra doença intestinal hemorrágica;
+ -história de acidente vascular cerebral, ou hemorragia no cérebro ou olhos;
+ -uma intervenção cirúrgica recente (inclusive cirurgia dentária) em especial ou biópsia ou
+ punção de um vaso sanguíneo ocorridas no último mês;
+ -insuficiência passageira de irrigação sanguínea numa parte do cérebro ocorrida nos últimos 6
+ meses;
+ -história de hemorragia intestinal ou pulmonar nos últimos três meses.
+ 22 O seu risco de hemorragia poderá ser ainda aumentado:
+ -se deu à luz recentemente, sofreu alguma queda ou algum traumatismo no corpo ou na cabeça;
+ -se já está a tomar medicamentos, especialmente anti-agregantes plaquetários (ver
+ seguidamente).
+ Se alguma destas situações se aplica ao seu caso, o médico assistente ou enfermeiro deverão monitorizar o seu sangue para determinação da actividade de coagulação, podendo alterar a sua dose ou esquema posológico em conformidade.
+ É possível sensibilidade cruzada com outros produtos de hirudina. Deve também informar o seu médico se já alguma vez recebeu Revasc, hirudina ou um análogo de hirudina.
+ Crianças Não existe experiência de tratamento pediátrico com Revasc.
+ Utilizar Revasc com outros medicamentos Informe o seu médico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica. Poderá ser necessário alterar a dose, tomar outras precauções ou, em certos casos, interromper a administração de algum medicamento. Esta situação é aplicável tanto a medicamentos sujeitos a prescrição como a medicamentos de venda livre, em especial:
+ -medicamentos destinados a impedir a formação de coágulos sanguíneos (varfarina, heparina e
+ dicumarol);
+ -medicamentos que afectam a função das plaquetas (partículas existentes no sangue, envolvidas
+ no processo de coagulação), p. ex. o ácido acetilsalicílico, uma substância presente em muitos produtos medicinais usada para aliviar a dor e febre baixa, e outros medicamentos anti-inflamatórios não esteróides;
+ Gravidez e aleitamento Não deverá usar Revasc caso se encontre grávida. Revasc pode causar lesões graves no seu bébé. Consequentemente, é fundamental avisar o seu médico assistente caso se encontre grávida ou planeie engravidar. Se estiver em idade potencialmente fértil, o seu médico assistente poderá pedir-lhe que faça um teste de gravidez, para se certificar de que não está grávida.
+ Recomenda-se igualmente não amamentar durante o tratamento.
+ 3. COMO UTILIZAR REVASC Revasc é administrado através de uma injecção aplicada sob a pele.
+ A administração efectua-se por injecção subcutânea, de preferência numa área do abdómen. As injecções devem ser administradas num esquema de rotação entre, pelo menos,4 locais diferentes. A primeira injecção deve ser iniciada nos 5 a 15 minutos que antecedem a cirurgia, mas após indução da anestesia para bloqueio regional, caso esta seja utilizada. O tratamento com desirudina é então continuado no pós-operatório, duas vezes por dia, durante 9 dias até um máximo de 12 dias, ou até que o doente não necessite de continuar acamado, o que ocorrer primeiro. Não existe, actualmente, experiência clínica que fundamente o uso de Revasc para além de 12 dias.
+ Posologia habitual O Revasc deve ser utilizado exactamente como o seu médico indicou. Esclareça com o seu médico ou farmacêutico qualquer dúvida que tenha. A posologia habitual é de 15 mg, injectada duas vezes ao dia durante 9 dias, até um máximo de 12 dias. A primeira injecção será aplicada 5 a 15 minutos antes da intervenção cirúrgica. Se necessitar de tratamento por mais de 12 dias, o seu médico poderá receitar-lhe uma medicação similar
+ 23 Se sofre de doença renal ou hepática, o seu médico ou enfermeira deverão monitorizar o sangue para determinação da actividade de coagulação, podendo alterar a sua dose ou esquema posológico em conformidade.
+ Se lhe for administrado mais Revasc do que deveria
+ A sobredosagem com Revasc pode provocar hemorragia. Se tal ocorrer, o Revasc será suspenso, procedendo-se ao devido tratamento da hemorragia.
+ Caso seja omitida uma dose Se alguma dose deste medicamento for omitida, esta deverá ser-lhe administrada logo que possível. Se estiver quase na altura da dose seguinte, não deverá tomar a dose omissa, retomando o esquema normal de dosagem. A dose não deve ser duplicada.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como os demais medicamentos, Revasc causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas .. Alguns desses efeitos secundários poderão ser semelhantes aos efeitos da cirurgia. A hemorragia é o efeito secundário mais frequente.
+ Avise imediatamente o seu médico ou enfermeira caso apresente algum dos efeitos secundários seguidamente indicados, alguns dos quais poderão ser confundidos com os efeitos secundários da cirurgia:
+ Efeitos secundários relatados com frequência (prováveis de afectar entre 1 em 10 e 1 em 100 doentes): Cansaço invulgar ou fraqueza (anemia), náuseas, supuração de líquido de feridas, tensão arterial baixa, febre, inflamação das veias por vezes acompanhada por formação de coágulo, inchaço nos locais de injecção, pisaduras, inchaço das pernas provocado pela retenção de fluidos, reacções alérgicas não-fatais.
+ Efeitos secundários pouco frequentes (prováveis de afectar entre 1 em 100 e 1 em 1.000 doentes): Aumento das enzimas hepáticas, tonturas, insónia, confusão, sensação de falta de ar, vómitos (com ou sem sangue), obstipação, sangue na urina, dificuldade em urinar, eritema cutâneo, prurido (urticária), níveis baixos de potássio no sangue, sensação de ardor ao urinar acompanhado de um aumento na frequência de micção, cicatrização lenta de feridas, hemorragia nasal, tensão arterial elevada, dor (incluindo dor nas pernas, estômago e/ou peito).
+ Efeitos secundários raros (prováveis de afectar entre 1 em 1.000 e 1 em 10.000 doentes): Foram detectados anticorpos anti-hirudina após re-exposição.
+ Foram relatados casos isolados de hemorragia fatal.
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico, enfermeiro ou farmacêutico.
+ 5. COMO CONSERVAR REVASC Manter fora do alcance e da vista das crianças.
+ Não utilize Revasc após o prazo de validade impresso na embalagem exterior e no acondicionamento primário.
+ 24 Não conservar acima de 25°C. Manter o frasco para injectáveis e a ampola dentro da embalagem exterior.
+ Após reconstituição, recomenda-se o uso imediato. No entanto, a estabilidade em uso foi demonstrada durante 24 horas entre 2 °C e 8 °C (no frigorífico).
+ Não utilize Revasc caso detecte que a solução injectável contém partículas visíveis.
+ Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Revasc A substância activa é a desirudina (em pó,15 mg/0,5 ml). Os outros componentes do pó são cloreto de magnésio e hidróxido de sódio. Para o solvente os ingredientes são manitol e água para injectáveis.
+ Informações importantes sobre alguns componentes de Revasc
+ Este medicamento contém menos de 1 mmol de sódio (23 mg) por 0,5 ml, ou seja é essencialmente ‘ isento de sódio ’.
+ Qual o aspecto de Revasc e conteúdo da embalagem
+ Revasc consiste num frasco para injectáveis contendo um pó branco e uma ampola contendo um solvente límpido e incolor para solução injectável.
+ Tamanhos de embalagem: 1 frasco para injectáveis e 1 ampola numa embalagem 2 frascos para injectáveis e 2 ampolas numa embalagem 10 frascos para injectáveis e 10 ampolas numa embalagem
+ É possível que não sejam comercializadas todas as apresentações.
+ Titular da Autorização de Introdução no Mercado e Fabricante
+ O Titular da Autorização de Introdução no Mercado é: Canyon Pharmaceuticals Limited 20-22 Bedford Row London WC1R 4JS Reino Unido
+ O fabricante é: Canyon Pharmaceuticals GmbH Unter Gereuth 10 D-79353 Bahlingen a. K. Alemanha
+ Este folheto foi revisto pela última vez em
+ 25

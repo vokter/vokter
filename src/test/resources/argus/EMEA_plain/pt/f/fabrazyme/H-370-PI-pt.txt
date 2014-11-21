@@ -1,0 +1,626 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. NOME DO MEDICAMENTO
+ Fabrazyme 35 mg, pó para concentrado para solução para perfusão.
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada frasco para injectáveis de Fabrazyme contém um valor nominal de 35 mg de agalsidase beta. Após reconstituição, em 7,2 ml de água para preparações injectáveis cada frasco para injectáveis de Fabrazyme contém 5 mg/ml (35 mg/7 ml) de agalsidase beta. A solução reconstituída tem de ser diluída posteriormente (ver secção 6.6).
+ A agalsidase beta é uma forma recombinante da α-galactosidase A humana e é produzida por tecnologia de ADN recombinante utilizando uma cultura de células de mamífero de ovário de Hamster Chinês (CHO). A sequência de aminoácidos da forma recombinante, assim como a sequência nucleotídica que a codificou, são idênticas à forma natural da α-galactosidase.
+ 3. FORMA FARMACÊUTICA Pó para concentrado para solução para perfusão. Pó liofilizado compacto ou solto, branco ou quase branco.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Fabrazyme está indicado para a terapêutica de substituição enzimática prolongada em doentes com um diagnóstico confirmado de doença de Fabry (deficiência da α-galactosidase A).
+ 4.2 Posologia e modo de administração O tratamento com Fabrazyme deve ser efectuado sob a supervisão de um médico com experiência no tratamento e cuidados de doentes com a doença de Fabry ou com outras doenças metabólicas hereditárias.
+ A dose recomendada de Fabrazyme é de 1 mg/kg de peso corporal, administrada uma vez cada 2 semanas sob a forma de uma perfusão intravenosa. Para mais instruções ver secção 6.6.
+ Em estudos clínicos foram utilizados regimes posológicos alternativos. Num destes estudos, após uma dose inicial de 1,0 mg/kg de 2 em 2 semanas, durante 6 meses, em alguns doentes 0,3 mg/kg de 2 em 2 semanas permitiram manter a depuração de GL-3 em certos tipos celulares; contudo, não foi estabelecida a relevância clínica a longo prazo destes dados (ver secção 5.1).
+ O ritmo inicial de perfusão não deve ser superior a 0,25 mg/min (15 mg/hora) de modo a minimizar a potencial ocorrência de reacções associadas com a perfusão. Depois da tolerância do doente estar estabelecida, o ritmo de perfusão pode ser aumentado gradualmente nas perfusões subsequentes.
+ Não são necessários ajustes posológicos em doentes com insuficiência renal.
+ Não foram realizados estudos em doentes com insuficiência hepática. A segurança e a eficácia de Fabrazyme não foram estabelecidas em doentes com mais de 65 anos e, presentemente, não se pode recomendar um regime posológico nestes doentes.
+ 2 Doentes Pediátricos Não foram realizados estudos em crianças entre os 0 e os 7 anos e uma vez que a segurança e a eficácia não foram ainda estabelecidas, não se pode recomendar um regime posológico para doentes deste grupo pediátrico. Não são necessários ajustamentos da dose para crianças entre os 8 e os 16 anos.
+ 4.3 Contra-indicações Hipersensibilidade com risco de vida (reacção anafiláctica) à substância activa ou a qualquer um dos excipientes.
+ 4.4 Advertências e precauções especiais de utilização
+ Uma vez que a agalsidase beta (r-hαGAL) é uma proteína recombinante, prevê-se que doentes com actividade enzimática residual escassa ou ausente desenvolvam anticorpos IgG. A maioria dos pacientes desenvolveu anticorpos IgG, geralmente no prazo de 3 meses após a primeira perfusão com Fabrazyme. Ao longo do tempo, no âmbito dos ensaios clínicos, a maioria dos pacientes seropositivos demonstraram tendência decrescente nesta concentração (com base numa redução da concentração ≥ a quatro vezes desde o título verificado no pico até à última medição) (40% dos pacientes), de tolerância (ausência de anticorpos detectáveis confirmada por duas análises sucessivas de RIP (radioimunoprecipitação) (14% dos pacientes) ou demonstraram estabilização (35% dos pacientes).
+ Os doentes com anticorpos contra a agalsidase beta têm um risco mais elevado de reacções associadas com a perfusão (RAPs), que são definidas como qualquer reacção adversa relacionada que ocorra no dia da perfusão. Estes doentes devem ser tratados com precaução ao readministrar-se a agalsidase beta (ver secção 4.8). Os anticorpos devem ser regularmente monitorizados.
+ Nos ensaios clínicos, sessenta e sete por cento (67%) dos doentes sofreram pelo menos uma reacção associada com a perfusão (ver secção 4.8). A frequência das RAPs diminuiu com o tempo. As reacções ligeiras a moderadas associadas com a perfusão, que surgiram nos doentes em tratamento com agalsidase beta durante os ensaios clínicos, foram controladas reduzindo a taxa de perfusão (~0,15 mg/min; 10 mg/hr) e/ou efectuando um pré-tratamento com anti-histamínicos, paracetamol, ibuprofeno e/ou corticosteróides.
+ Como com qualquer produto proteico intravenoso, são possíveis reacções de hipersensibilidade do tipo alérgico.
+ Um pequeno número de doentes teve reacções sugestivas de hipersensibilidade imediata (Tipo I). Caso ocorram reacções alérgicas ou do tipo anafiláctico graves, deve considerar-se a interrupção imediata da administração de Fabrazyme e tem de se iniciar um tratamento apropriado. Devem ser seguidas as normas médicas padronizadas para o tratamento de emergências. Num ensaio clínico, através de uma re-introdução cuidadosa, o Fabrazyme foi administrado novamente aos 6 pacientes que apresentavam anticorpos IgE ou a testes cutâneos positivos ao Fabrazyme. Neste ensaio, a administração inicial de teste foi uma dose baixa e uma taxa de perfusão lenta (1/2 da dose terapêutica administrada a 1/25 da taxa padrão inicial recomendada). Uma vez que se verifique que o paciente tolera a perfusão, a dose pode ser aumentada até atingir a dose terapêutica de 1 mg/kg e a taxa de perfusão pode também ser gradualmente aumentada, de acordo com a tolerância.
+ O efeito do tratamento com Fabrazyme no rim pode ser limitado em doentes com doença renal avançada.
+ Não foram realizados estudos para avaliar os efeitos potenciais de Fabrazyme na alteração da fertilidade.
+ 3 4.5 Interacções medicamentosas e outras formas de interacção
+ Não foram realizados estudos de interacção nem quaisquer estudos de metabolismo in vitro. Com base no seu metabolismo é pouco provável que agalsidase beta seja um candidato a interacções medicamentosas mediadas pelo citocromo P450.
+ Fabrazyme não deve ser administrado com cloroquina, amiodarona, benoquin ou gentamicina devido ao risco teórico de inibição da actividade da α-galactosidase intracelular.
+ 4.6 Gravidez e aleitamento Não existem dados suficientes sobre a utilização de agalsidase beta em mulheres grávidas.
+ Os estudos em animais não indicam haver efeitos prejudiciais directos ou indirectos no que respeita ao desenvolvimento embrionário/fetal (ver secção 5.3).
+ Fabrazyme não deve ser utilizado durante a gravidez, a menos que claramente necessário. A agalsidase beta pode ser excretada no leite. Como não existem dados disponíveis sobre os efeitos em recém-nascidos expostos à agalsidase beta através do leite materno, recomenda-se parar a amamentação quando se utiliza Fabrazyme.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas com Fabrazyme.
+ 4.8 Efeitos indesejáveis As reacções adversas ao medicamento (RAMs) notificadas nos ensaios clínicos como estando relacionadas com Fabrazyme administrado numa dose de 1 mg/kg, num total de 168 doentes (154 homens e 14 mulheres) tratados com Fabrazyme com um mínimo de uma perfusão durante um máximo de 5 anos, estão indicadas por Classe de Sistemas de Órgãos e frequência (muito frequentes: ≥ 1/10, frequentes: ≥ 1/100 a &lt; 1/10 e pouco frequentes: ≥ 1/1000 a &lt; 1/100) no quadro abaixo. A ocorrência de uma RAM num único paciente é definida como pouco frequente face ao número relativamente reduzido de pacientes tratados. As RAMs notificadas apenas durante o período após a introdução no mercado estão também incluídas na tabela abaixo numa categoria de frequência “ desconhecida ”. As RAMs, na sua maioria, tiveram uma gravidade ligeira a moderada.
+ 4 Incidência de Reacções Adversas ao Medicamento relacionadas com o tratamento com Fabrazyme
+ Classe de sistema de órgãos Muito frequentes Frequentes Nasofaringite
+ Pouco frequentes Rinite
+ Frequência desconhecida Infecções e infestações -
+ -
+ Doenças do sistema imunitário
+ -
+ -
+ -
+ Reacção anafilactóide Doenças do Cefaleias, Tonturas, Hiperestesia, -
+ sistema nervoso
+ parestesia
+ sonolência, hipoestesia, sensação de queimadura, letargia, síncope
+ tremores
+ lacrimação
+ Prurido ocular, Afecções oculares -
+ aumentada Zumbidos,
+ hiperemia ocular Inchaço auricular,
+ -
+ Afecções do ouvido e do labirinto
+ -
+ vertigens
+ dores no ouvido
+ -
+ Cardiopatias -
+ Taquicardia, bradicardia, palpitações
+ Bradicardia sinusal Rubor, Frio nas Vasculopatias -
+ hipertensão, palidez, hipotensão, afrontamentos
+ extremidades
+ -
+ Doenças respiratórias,
+ -
+ Dispneia, congestão nasal, Broncospasmo, dor torácicas e do
+ aperto da
+ faringolaringeal,
+ mediastino
+ garganta, tosse,
+ rinorreia,
+ sibilos, dispneia exacerbada
+ taquipneia, congestão do tracto respiratório superior
+ Doenças gastrointestinais
+ Náuseas, vómitos Dores abdominais, dor abdominal superior, desconforto abdominal, desconforto no estômago, hipoestesia oral, diarreia
+ Dispepsia, disfagia
+ -
+ Afecções dos -
+ Prurido, urticária, Livedo reticular, Vasculite tecidos cutâneos e
+ erupção cutânea,
+ rash eritematoso,
+ leucocitoclástica
+ subcutâneas
+ eritema, prurido
+ rash pruriginoso,
+ generalizado, edema angioneurótico, rash máculo-papular, face inchada
+ descoloração da pele, desconforto na pele
+ Dores nas Dor Afecções musculosqueléticas
+ -
+ extremidades,
+ musculosquelética
+ -
+ e dos tecidos conjuntivos
+ 5 mialgias, lombalgias, espasmos musculares,
+ artralgias, tensão muscular, rigidez musculosquelética Perturbações
+ Arrepios, febre, Fadiga, opressão Sensação de -
+ gerais e alterações
+ sensação de frio
+ no peito, sensação
+ alteração da
+ no local de
+ de calor, edema
+ temperatura,
+ administração
+ das extremidades,
+ estado gripal, dor
+ dor, astenia, dor torácica, edema da face, hiperterrmia
+ no local da perfusão, reacção no local da perfusão, trombose no local de injecção, mal-estar, edema
+ Para o propósito desta tabela, define-se ≥1% como sendo acontecimentos que ocorrem em 2 ou mais doentes. A terminologia das RAMs baseia-se no Medical Dictionary for Regulatory Activities (MedDRA)
+ Para o propósito desta tabela, define-se ≥ 1% como sendo acontecimentos que ocorrem em 2 ou mais doentes. A terminologia das RAMs baseia-se no Medical Dictionary for Regulatory Activities (MedDRA) As reacções associadas com a perfusão consistiram mais frequentemente em febre e arrepios. Os sintomas adicionais incluíram dispneia ligeira ou moderada, sensação de aperto na garganta, desconforto no peito, rubor, prurido, urticária, edema da face, edema angioneurótico, rinite, constrição brônquica, taquipneia, sibilos ligeiros a moderados; hipertensão, hipotensão, taquicardia, palpitações moderadas; dor abdominal, náuseas, vómitos; dor relacionada com a perfusão incluindo dor nas extremidades, mialgias e cefaleias.
+ As reacções associadas com a perfusão resolveram-se com a redução da velocidade da perfusão, juntamente com a administração de anti-inflamatórios não esteróides, anti-histamínicos e/ou corticosteróides. Sessenta e sete por cento (67%) dos doentes tiveram pelo menos uma reacção associada com a perfusão. A frequência das reacções diminuiu com o tempo. A maioria destas reacções pode ser atribuída à formação de anticorpos IgG e/ou à activação do complemento. Demonstrou-se a presença de anticorpos IgE num número limitado de doentes (ver Secção 4.4).
+ Doentes pediátricos A informação limitada sugere que o perfil de segurança do tratamento com Fabrazyme em doentes pediátricos (com mais de 7 anos de idade) não é diferente do verificado nos adultos.
+ 4.9 Sobredosagem Não foram descritos casos de sobredosagem. Nos ensaios clínicos foram utilizadas doses até 3 mg/kg de peso corporal.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Produto do tracto alimentar e do metabolismo – enzimas. Código ATC: A16AB04 agalsidase beta.
+ A doença de Fabry é uma disfunção hereditária, heterogénea, progressiva e multissistémica, de sobrecarga lisossómica, que afecta tanto os homens como as mulheres. Caracteriza-se pela deficiência de α-galactosidase. A redução ou ausência de actividade da α-galactosidase resulta na acumulação de
+ 6 GL-3 nos lisossomas de muitos tipos celulares, incluindo as células endoteliais e parenquimatosas, levando, em última análise, à deterioração clínica com risco de vida, como resultado de complicações renais, cardíacas e cerebro-vasculares. A fundamentação da terapêutica de substituição enzimática consiste em restabelecer um nível de actividade enzimática suficiente para eliminar o substrato acumulado nos tecidos dos órgãos, prevenindo, estabilizando ou revertendo, assim, o declínio progressivo da função destes órgãos antes de ocorrerem lesões irreversíveis.
+ Após perfusão intravenosa, a agalsidase beta é rapidamente removida da circulação e é captada pelo endotélio vascular e pelas células parenquimatosas nos lisossomas, provavelmente através dos receptores da manose-6-fosfato, manose e da asialoglicoproteína.
+ A eficácia e a segurança de Fabrazyme foram avaliadas num estudo pediátrico, num estudo de determinação de dose, em dois ensaios clínicos com dupla ocultação, controlados com placebo e num estudo aberto de extensão em doentes do sexo masculino e do sexo feminino. No estudo de determinação de dose, avaliaram-se os efeitos de 0,3; 1,0 e 3,0 mg/kg, uma vez de 2 em 2 semanas, e de 1,0 e 3,0 mg/kg, uma vez, de 2 em 2 dias. Observou-se uma redução da GL-3 no rim, coração, pele e plasma com qualquer das doses. A GL-3 plasmática depurou de um modo dependente da dose, mas foi menos consistente na dose de 0,3 mg/kg. Para além disso, as reacções associadas com a perfusão foram dependentes da dose.
+ No primeiro ensaio clínico controlado com placebo, o Fabrazyme foi eficaz na eliminação da GL-3 do endotélio vascular do rim após 20 semanas de tratamento. Esta depuração foi obtida em 69% (20/29) dos doentes tratados com Fabrazyme, mas em nenhum dos doentes com placebo (p &lt; 0,001). Esta observação foi posteriormente confirmada por uma diminuição estatisticamente significativa dos depósitos de GL-3 em análise combinada de rim, coração e pele, assim como em cada um destes órgãos, em doentes tratados com agalsidase beta, por comparação com doentes tratados com placebo (p &lt; 0,001). A depuração sustentada de GL-3 do endotélio vascular do rim durante o tratamento com agalsidase beta foi ainda demonstrada no estudo aberto de extensão. Verificou-se em 47 dos 49 pacientes (96%) com informação disponível no mês 6, e em 8 dos 8 doentes (100%) com informação disponível no final do estudo (num total de 5 anos de tratamento). A eliminação de GL-3 foi também conseguida em muitos outros tipos de células do rim. Os níveis plasmáticos de GL-3 normalizaram rapidamente com o tratamento e mantiveram-se normais ao longo de 5 anos.
+ A função renal, medida pela taxa de filtração glomerular e pelos níveis de creatinina sérica, bem como pela proteinúria, manteve-se estável na maioria dos pacientes. Contudo, o efeito do tratamento com Fabrazyme na função renal foi limitado em alguns doentes com doença renal avançada.
+ Embora não se tenha realizado nenhum estudo para determinar o efeito nos sintomas e sinais neurológicos, os resultados indicam igualmente que os pacientes podem obter uma redução da dor e uma melhoria de qualidade de vida através da terapêutica de substituição enzimática.
+ Conduziu-se outro estudo com dupla ocultação, controlado com placebo, com 82 doentes, para determinar se o Fabrazyme poderia reduzir a incidência de doença renal, cardíaca ou cerebro-vascular, ou de morte. A taxa de acontecimentos clínicos foi substancialmente mais baixa nos doentes tratados com Fabrazyme em comparação com os doentes tratados com placebo (redução do risco= 53% por intenção de tratamento (p=0,0577); redução do risco= 61% no conjunto da população incluida no protocolo do estudo (p=0,0341). Este resultado foi consistente nos acontecimentos renais, cardíacos e cerebro-vasculares.
+ Os resultados destes estudos indicam que o tratamento com Fabrazyme a 1 mg/kg de peso/em semanas alternadas, proporciona benefício em parâmetros clínicos-chave nos doentes com doença de Fabry em fase inicial e avançada. Como esta doença é de progressão lenta, a detecção e o tratamento precoces podem ser decisivos para se atingir os melhores resultados.
+ No estudo aberto pediátrico, dezasseis doentes com a doença de Fabry (entre os 8 e os 16 anos; 14 do sexo masculino e 2 do feminino) foram tratados durante um ano. A depuração de GL-3 no endotélio vascular cutâneo superficial foi conseguida em todos os pacientes que apresentavam acumulação de
+ 7 GL-3 na linha de base. As 2 doentes do sexo feminino tinham pouca ou nenhuma acumulação no endotélio vascular cutâneo superficial na linha de base, pelo que esta conclusão se aplica apenas a doentes do sexo masculino.
+ Num outro estudo com um regime posológico alternativo, foram incluídos 21 doentes do sexo masculino com o objectivo de seguir a depuração de GL-3 nos tecidos renais e cutâneos. Após 24 semanas de tratamento com 1 mg/kg em semanas alternadas, a maioria dos doentes conseguiu manter a depuração celular de GL-3 no endotélio capilar do rim, noutros tipos de células renais e cutâneas (endotélio capilar cutâneo superficial) com um regime posológico de 0,3 mg/kg de 2 em 2 semanas, durante 18 meses. Contudo, com a dose mais baixa, os anticorpos IgG podem desempenhar algum papel no que respeita à depuração de GL-3 em alguns doentes. Dadas as limitações do desenho do estudo (um pequeno número de doentes), não se pode retirar nenhuma conclusão definitiva no que respeita ao regime de manutenção, mas estes dados sugerem que após a dose redutora inicial de 1,0 mg/kg de 2 em 2 semanas, em alguns doentes, 0,3 mg/kg de 2 em 2 semanas pode ser suficiente para manter a depuração de GL-3.
+ 5.2 Propriedades farmacocinéticas Após administração intravenosa de agalsidase beta a adultos em doses de 0,3 mg,1 mg e 3 mg/kg de peso corporal, os valores da AUC aumentaram proporcionalmente à dose, mais do que seria de esperar, devido a uma diminuição da depuração, indicando uma depuração saturada. O tempo de eliminação de semi-vida foi dependente da dose e variou entre 45 e 100 minutos.
+ Após administração intravenosa de agalsidase beta a adultos com um tempo de perfusão de cerca de 300 minutos e numa dose de 1mg/kg de peso corporal, de duas em duas semanas, a concentração plasmática média Cmax variou entre 2000-3500 ng/ml, enquanto que a AUCinf variou entre 370-780 μg. min/ml. A Vss variou entre 8. 3-40.8 l, a depuração plasmática variou entre 119-345 ml/min e a semi-vida de eliminação média variou entre 80-120 minutos.
+ A farmacocinética do Fabrazyme foi igualmente avaliada em 15 doentes pediátricos (de 8,5 a 16 anos de idade, pesando entre 27,1 e 64,9 kg). A eliminação de agalsidade não foi influenciada pelo peso desta população. A eliminação na linha de base era de 77 mL/min com um volume de distribuição em estado estacionário (Vss) de 2,6 L; a semi-vida era de 55 min. Após a seroconversão da IgG, a depuração diminuiu para 35 mL/min, a Vss aumentou para 5,4 L, e a semi-vida aumentou para 240 min. O efeito real destas modificações após seroconversão consistiu num aumento de exposição de 2 a 3 vezes com base na AUC e Cmax. Não foram detectadas questões de segurança inesperadas em pacientes com um aumento da exposição após a seroconversão.
+ A agalsidase beta é uma proteína que é metabolizada por hidrólise peptídica. Consequentemente, pensa-se que uma função hepática alterada não afectará a farmacocinética de agalsidase beta de um modo clinicamente significativo. A eliminação renal de agalsidase beta é considerada uma via menor para a depuração.
+ 5.3 Dados de segurança pré-clínica Os dados não clínicos não revelam riscos especiais para o ser humano segundo estudos convencionais de farmacologia de segurança, de toxicidade com dose única ou com doses repetidas e de toxicidade embrionária/fetal. Não foram realizados estudos relacionados com outras fases do desenvolvimento. Não se prevê um potencial genotóxico e carcinogénico.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Manitol Fosfato monossódico mono-hidratado
+ 8 Fosfato de sódio dibásico hepta-hidratado
+ 6.2 Incompatibilidades Na ausência de estudos de compatibilidade, Fabrazyme não deve ser misturado com outros medicamentos na mesma perfusão.
+ 6.3 Prazo de validade 3 anos. Soluções reconstituídas e diluídas De um ponto de vista microbiológico, o produto deve ser utilizado imediatamente. No caso de não ser utilizado imediatamente, as condições de conservação antes da sua utilização, são da responsabilidade do utilizador. A solução reconstituída não pode ser conservada e deve ser imediatamente diluída; apenas a solução diluída pode ser mantida até 24 horas a 2 °C-8 °C.
+ 6.4 Precauções especiais de conservação
+ Conservar no frigorífico (2ºC – 8ºC). 6.5 Natureza e conteúdo do recipiente Fabrazyme 35 mg é fornecido em frascos para injectáveis de vidro transparente do Tipo I de 20 ml. O fecho consiste numa tampa de butilo siliconisada e num selo de alumínio com uma cápsula plástica de destacar.
+ Tamanhos das embalagens: 1,5 e 10 frascos para injectáveis por caixa. É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ O pó para concentrado para solução para perfusão tem de ser reconstituído com água para preparações injectáveis, diluído com solução intravenosa de cloreto de sódio a 0,9% e depois administrado por perfusão intravenosa. Utilização de uma técnica asséptica
+ 1. Determine o número de frascos para injectáveis que têm de ser reconstituídos com base no peso de cada doente individual e retire os frascos para injectáveis necessários do frigorífico a fim de permitir que atinjam a temperatura ambiente (em aproximadamente 30 minutos). Cada frasco para injectáveis de Fabrazyme destina-se apenas a utilização única.
+ Reconstituição 2. Reconstitua cada frasco Fabrazyme 35 mg para injectáveis com 7,2 ml de água para preparações injectáveis. Evite um impacto violento da água para preparações injectáveis sobre o pó e evite a formação de espuma. A técnica para tal consiste na adição lenta gota a gota da água para preparações injectáveis no interior do frasco e não directamente sobre o produto liofilizado. Incline e role cada frasco suavemente. Não inverta, não abane nem agite o frasco.
+ 3. A solução reconstituída contém 5 mg de agalsidase beta por ml e apresenta-se sob a forma de uma solução incolor e límpida. O pH da solução reconstituída é aproximadamente de 7,0. Antes de proceder à diluição, inspeccione visualmente a solução reconstituída em cada frasco para injectáveis quanto à presença de matéria particulada e de descoloração. Não utilize a solução se forem observadas partículas estranhas ou se a solução estiver descolorada.
+ 4. Após reconstituição, recomenda-se a diluição imediata dos frascos para injectáveis, para minimizar a formação de partículas proteicas com o passar do tempo.
+ 9 5. Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ Diluição 6. Antes de adicionar o volume reconstituído de Fabrazyme, necessário para a dose do doente, ao saco de perfusão de cloreto de sódio a 0,9%, recomenda-se a remoção de um volume equivalente de solução intravenosa do saco.
+ 7. Remova o ar de dentro do saco de perfusão para minimizar a interface ar/líquido.
+ 8. Lentamente, extraia 7,0 ml (igual a 35 mg) de solução reconstituída de cada frasco para injectáveis até ao volume total necessário para a dose do doente. Não utilize agulhas de filtro e evite a formação de espuma.
+ 9. Em seguida, injecte lentamente a solução reconstituída directamente na solução intravenosa de cloreto de sódio a 0,9% (não em qualquer espaço de ar remanescente) até perfazer uma concentração final entre 0,05 mg/ml e 0,7 mg/ml. Determine o volume total de cloreto de sódio para perfusão numa solução de 0,9% (entre 50 e 500 ml) com base na dose individual. Para doses inferiores a 35 mg use um mínimo de 50 ml, para doses entre 35 e 70 mg use um mínimo de 100 ml, para doses entre 70 e 100 mg use um mínimo de 250 ml e para doses superiores a 100 mg use apenas 500 ml. Inverta suavemente ou massaje levemente o saco de perfusão para misturar a solução diluída Não mexa nem agite excessivamente o saco de perfusão.
+ Administração 10. Recomenda-se a administração da solução diluída através de um filtro em-linha de 0,2 μm e baixa ligação às proteínas para remover quaisquer partículas proteicas, o que não levará a qualquer perda de actividade de agalsidase beta. O ritmo inicial de perfusão não deve ser superior a 0,25 mg/min (15 mg/hora) de modo a minimizar a potencial ocorrência de reacções associadas com a perfusão. Depois da tolerância do doente estar estabelecida, o ritmo de perfusão pode ser aumentado gradualmente nas perfusões subsequentes.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Genzyme Europe B. V., Gooimeer 10, NL-1411 DD Naarden, Países Baixos
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/01/188/001-003 10 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 03/08/2001 Data da última renovação: 03/08/2006
+ 10. DATA DA REVISÃO DO TEXTO Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia do Medicamento (EMEA) http: //www. emea. europa. eu/. 0H
+ 11 1. NOME DO MEDICAMENTO
+ Fabrazyme 5 mg, pó para concentrado para solução para perfusão.
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada frasco para injectáveis de Fabrazyme contém um valor nominal de 5 mg de agalsidase beta. Após reconstituição, em 1,1 ml de água para preparações injectáveis cada frasco para injectáveis de Fabrazyme contém 5 mg/ml de agalsidase beta. A solução reconstituída tem de ser diluída posteriormente (ver secção 6.6).
+ A agalsidase beta é uma forma recombinante da α-galactosidase A humana e é produzida por tecnologia de ADN recombinante utilizando uma cultura de células de mamífero de ovário de Hamster Chinês (CHO). A sequência de aminoácidos da forma recombinante, assim como a sequência nucleotídica que a codificou, são idênticas à forma natural da α-galactosidase.
+ 3. FORMA FARMACÊUTICA Pó para concentrado para solução para perfusão. Pó liofilizado compacto ou solto, branco ou quase branco.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Fabrazyme está indicado para a terapêutica de substituição enzimática prolongada em doentes com um diagnóstico confirmado de doença de Fabry (deficiência da α-galactosidase A).
+ 4.2 Posologia e modo de administração O tratamento com Fabrazyme deve ser efectuado sob a supervisão de um médico com experiência no tratamento e cuidados de doentes com a doença de Fabry ou com outras doenças metabólicas hereditárias.
+ A dose recomendada de Fabrazyme é de 1 mg/kg de peso corporal, administrada uma vez cada 2 semanas sob a forma de uma perfusão intravenosa. Para mais instruções ver secção 6.6.
+ Em estudos clínicos foram utilizados regimes posológicos alternativos. Num destes estudos, após uma dose inicial de 1,0 mg/kg, de 2 em 2 semanas, durante 6 meses, em alguns doentes 0,3 mg/kg de 2 em 2 semanas permitiram manter a depuração de GL-3 em certos tipos celulares; contudo, não foi estabelecida a relevância clínica a longo prazo destes dados (ver secção 5.1).
+ O ritmo inicial de perfusão não deve ser superior a 0,25 mg/min (15 mg/hora) de modo a minimizar a potencial ocorrência de reacções associadas com a perfusão. Depois da tolerância do doente estar estabelecida, o ritmo de perfusão pode ser aumentado gradualmente nas perfusões subsequentes.
+ Não são necessários ajustes posológicos em doentes com insuficiência renal.
+ Não foram realizados estudos em doentes com insuficiência hepática.
+ A segurança e a eficácia de Fabrazyme não foram estabelecidas em doentes com mais de 65 anos e, presentemente, não se pode recomendar um regime posológico nestes doentes.
+ 12 Doentes pediátricos Não foram realizados estudos em crianças entre os 0 e os 7 anos e uma vez que segurança e a eficácia não foram ainda estabelecidas, não se pode recomendar um regime posológico para doentes deste grupo pediátrico. Não são necessários ajustamentos da dose para crianças entre os 8 e os 16 anos.
+ 4.3 Contra-indicações Hipersensibilidade com risco de vida (reacção anafiláctica) à substância activa ou a qualquer dos excipientes.
+ 4.4 Advertências e precauções especiais de utilização
+ Uma vez que a agalsidase beta (r-hαGAL) é uma proteína de recombinante, prevê-se que doentes com actividade enzimática residual escassa ou ausente desenvolvam anticorpos IgG. A maioria dos pacientes desenvolveu anticorpos IgG, geralmente no prazo de 3 meses após a primeira perfusão com Fabrazyme. Ao longo do tempo, no âmbito dos ensaios clínicos, a maioria dos pacientes seropositivos demonstraram tendência decrescente nesta concentração (com base numa redução da concentração ≥ a quatro vezes desde o título verificado no pico até à última medição) (40% dos pacientes), de tolerância (ausência de anticorpos detectáveis confirmada por duas análises sucessivas de RIP (radioimunoprecipitação) (14% dos pacientes) ou demonstraram estabilização (35% dos pacientes).
+ Os doentes com anticorpos contra a agalsidase beta têm um risco mais elevado de reacções associadas com a perfusão (RAPs), que são definidas como qualquer reacção adversa relacionada que ocorra no dia da perfusão. Estes doentes devem ser tratados com precaução ao readministrar-se a agalsidase beta. (ver secção 4.8)
+ Os anticorpos devem ser regularmente monitorizados.
+ Nos ensaios clínicos, sessenta e sete por cento (67%) dos doentes sofreram pelo menos uma reacção associada com a perfusão (ver secção 4.8). A frequência das RAPs diminuiu com o tempo. As reacções ligeiras a moderadas associadas com a perfusão, que surgiram nos doentes em tratamento com algasidade beta durante os ensaios clínicos, foram controladas reduzindo a taxa de perfusão (~0.15 mg/min; 10 mg/hr) e/ou efectuando uma pré-tratamento com anti-histamínicos, paracetamol, ibuprofeno e/ou corticosteróides.
+ Como com qualquer produto proteico intravenoso, são possíveis reacções de hipersensibilidade do tipo alérgico.
+ Um pequeno número de doentes teve reacções sugestivas de hipersensibilidade imediata (Tipo I). Caso ocorram reacções alérgicas ou do tipo anafiláctico graves, deve considerar-se a interrupção imediata da administração de Fabrazyme e tem de se iniciar um tratamento apropriado. Devem ser seguidas as normas médicas padronizadas para o tratamento de emergências. Num ensaio clínico, através de uma re-introdução cuidadosa, o Fabrazyme foi administrado novamente aos 6 pacientes que apresentavam anticorpos IgE ou a testes cutâneos positivos ao Fabrazyme. Neste ensaio, a administração inicial de teste foi uma dose baixa e uma taxa de perfusão lenta (1/2 da dose terapêutica administrada a 1/25 da taxa padrão inicial recomendada). Uma vez que se verifique que o paciente tolera a perfusão, a dose pode ser aumentada até atingir a dose terapêutica de 1 mg/kg e a taxa de perfusão pode também ser gradualmente aumentada, de acordo com a tolerância.
+ O efeito do tratamento com Fabrazyme no rim pode ser limitado em doentes com doença renal avançada.
+ Não foram realizados estudos para avaliar os efeitos potenciais de Fabrazyme na alteração da fertilidade.
+ 13 4.5 Interacções medicamentosas e outras formas de interacção
+ Não foram realizados estudos de interacção nem quaisquer estudos de metabolismo in vitro. Com base no seu metabolismo é pouco provável que agalsidase beta seja um candidato a interacções medicamentosas mediadas pelo citocromo P450.
+ Fabrazyme não deve ser administrado com cloroquina, amiodarona, benoquin ou gentamicina devido ao risco teórico de inibição da actividade da α-galactosidase intracelular.
+ 4.6 Gravidez e aleitamento Não existem dados suficientes sobre a utilização de agalsidase beta em mulheres grávidas.
+ Os estudos em animais não indicam haver efeitos prejudiciais directos ou indirectos no que respeita ao desenvolvimento embrionário/fetal (ver secção 5.3).
+ Fabrazyme não deve ser utilizado durante a gravidez, a menos que claramente necessário. A agalsidase beta pode ser excretada no leite. Como não existem dados disponíveis sobre os efeitos em recém-nascidos expostos à agalsidase beta através do leite materno, recomenda-se parar a amamentação quando se utiliza Fabrazyme.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas com Fabrazyme.
+ 4.8 Efeitos indesejáveis As reacções adversas ao medicamento (RAMs) notificadas nos ensaios clínicos como estando relacionadas com Fabrazyme administrado numa dose de 1 mg/kg, num total de 168 doentes (154 homens e 14 mulheres) tratados com Fabrazyme com um mínimo de uma perfusão durante um máximo de 5 anos, estão indicadas por Classe de Sistemas de Órgãos e frequência (muito frequentes: ≥ 1/10, frequentes: ≥ 1/100 a &lt; 1/10 e pouco frequentes: ≥ 1/1000 a &lt; 1/100) no quadro abaixo. A ocorrência de uma RAM num único paciente é definida como pouco frequente face ao número relativamente reduzido de pacientes tratados. As RAMs notificadas apenas durante o período após a introdução no mercado estão também incluídas na tabela abaixo numa categoria de frequência “ desconhecida ”. As RAMs, na sua maioria, tiveram uma gravidade ligeira a moderada.
+ 14 Incidência de Reacções Adversas ao Medicamento relacionadas com o Tratamento com Fabrazyme
+ Classe de sistema de órgãos Muito frequentes Frequentes Nasofaringite
+ Pouco frequentes Rinite
+ Frequência desconhecida Infecções e infestações -
+ -
+ Doenças do sistema imunitário
+ -
+ -
+ -
+ Reacção anafilactóide Doenças do Cefaleias, Tonturas, Hiperestesia, -
+ sistema nervoso
+ parestesia
+ sonolência, hipoestesia, sensação de queimadura, letargia, síncope
+ tremores
+ lacrimação
+ Prurido ocular, Afecções oculares -
+ aumentada Zumbidos,
+ hiperemia ocular Inchaço auricular,
+ -
+ Afecções do ouvido e do labirinto
+ -
+ vertigens
+ dores no ouvido
+ -
+ Cardiopatias -
+ Taquicardia, bradicardia, palpitações
+ Bradicardia sinusal Rubor, Frio nas Vasculopatias -
+ hipertensão, palidez, hipotensão, afrontamentos
+ extremidades
+ -
+ Doenças respiratórias,
+ -
+ Dispneia, congestão nasal, Broncospasmo, dor torácicas e do
+ aperto da
+ faringolaringeal,
+ mediastino
+ garganta, tosse,
+ rinorreia,
+ sibilos, dispneia exacerbada
+ taquipneia, congestão do tracto respiratório superior
+ Doenças gastrointestinais
+ Náuseas, vómitos Dores abdominais, dor abdominal superior, desconforto abdominal, desconforto no estômago, hipoestesia oral, diarreia
+ Dispepsia, disfagia
+ -
+ Afecções dos -
+ Prurido, urticária, Livedo reticular, Vasculite tecidos cutâneos e
+ erupção cutânea,
+ rash eritematoso,
+ leucocitoclástica
+ subcutâneas
+ eritema, prurido
+ rash pruriginoso,
+ generalizado, edema angioneurótico, rash máculo-papular, face inchada
+ descoloração da pele, desconforto na pele
+ Dores nas Dor Afecções musculosqueléticas
+ -
+ extremidades,
+ musculosquelética
+ -
+ e dos tecidos conjuntivos
+ 15 mialgias, lombalgias, espasmos musculares,
+ artralgias, tensão muscular, rigidez musculosquelética Perturbações
+ Arrepios, febre, Fadiga, opressão Sensação de -
+ gerais e alterações
+ sensação de frio
+ no peito, sensação
+ alteração da
+ no local de
+ de calor, edema
+ temperatura,
+ administração
+ das extremidades,
+ estado gripal, dor
+ dor, astenia, dor torácica, edema da face, hiperterrmia
+ no local da perfusão, reacção no local da perfusão, trombose no local de injecção, mal-estar, edema
+ Para o propósito desta tabela, define-se ≥1% como sendo acontecimentos que ocorrem em 2 ou mais doentes. A terminologia das RAMs baseia-se no Medical Dictionary for Regulatory Activities (MedDRA)
+ As reacções associadas com a perfusão consistiram mais frequentemente em febre e arrepios. Os sintomas adicionais incluíram dispneia ligeira ou moderada, sensação de aperto na garganta, desconforto no peito, rubor, prurido, urticária, edema da face, edema angioneurótico, rinite, constrição brônquica, taquipneia, sibilos ligeiros a moderados; hipertensão, hipotensão, taquicardia, palpitações moderadas; dor abdominal, náuseas, vómitos; dor relacionada com a perfusão incluindo dor nas extremidades, mialgias e cefaleias.
+ As reacções associadas com a perfusão resolveram-se com a redução da velocidade da perfusão, juntamente com a administração de anti-inflamatórios não esteróides, anti-histamínicos e/ou corticosteróides. Sessenta e sete por cento (67%) dos doentes tiveram pelo menos uma reacção associada com a perfusão. A frequência das reacções diminuiu com o tempo. A maioria destas reacções podem ser atribuídas à formação de anticorpos IgG e/ou à activação do complemento. Demonstrou-se a presença de anticorpos IgE num número limitado de doentes (ver Secção 4.4).
+ Doentes pediátricos A informação limitada sugere que o perfil de segurança do tratamento com Fabrazyme em doentes pediátricos (com mais de 7 anos de idade) não é diferente do verificado nos adultos.
+ 4.9 Sobredosagem Não foram descritos casos de sobredosagem. Nos ensaios clínicos foram utilizadas doses até 3 mg/kg de peso corporal.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Produto do tracto alimentar e do metabolismo – enzimas. Código ATC: A16AB04 agalsidase beta.
+ A doença de Fabry é uma disfunção hereditária, heterogénea, progressiva e multissistémica, de sobrecarga lisossómica, que afecta tanto os homens como as mulheres. Caracteriza-se pela deficiência de α-galactosidase. A redução ou ausência de actividade da α-galactosidase resulta na acumulação de GL-3 nos lisossomas de muitos tipos celulares, incluindo as células endoteliais e parenquimatosas, levando, em última análise, à deterioração clínica com risco de vida, como resultado de complicações
+ 16 renais, cardíacas e cerebro-vasculares. A fundamentação da a terapêutica de substituição enzimática consiste em restabelecer um nível de actividade enzimática suficiente para eliminar o substrato acumulado nos tecidos dos órgãos, prevenindo, estabilizando ou revertendo, assim, o declínio progressivo da função destes órgãos antes de ocorrerem lesões irreversíveis.
+ Após perfusão intravenosa, a agalsidase beta é rapidamente removida da circulação e é captada pelo endotélio vascular e pelas células parenquimatosas nos lisossomas, provavelmente através dos receptores da manose-6-fosfato, manose e da asialoglicoproteína.
+ A eficácia e a segurança de Fabrazyme foram avaliadas num estudo pediátrico, num estudo de determinação de dose, em dois ensaios clínicos com dupla ocultação, controlados com placebo e num estudo aberto de extensão em doentes do sexo masculino e do sexo feminino. No estudo de determinação de dose, avaliaram-se os efeitos de 0,3; 1,0 e 3,0 mg/kg, uma vez, de 2 em 2 semanas, e de 1,0 e 3,0 mg/kg, uma vez, de 2 em 2 dias. Observou-se uma redução da GL-3 no rim, coração, pele e plasma com qualquer das doses. A GL-3 plasmática depurou de um modo dependente da dose, mas foi menos consistente na dose de 0,3 mg/kg. Para além disso, as reacções associadas com a perfusão foram dependentes da dose.
+ No primeiro ensaio clínico controlado com placebo, o Fabrazyme foi eficaz na eliminação da GL-3 do endotélio vascular do rim após 20 semanas de tratamento. Esta depuração foi obtida em 69% (20/29) dos doentes tratados com Fabrazyme, mas em nenhum dos doentes com placebo (p &lt; 0,001). Esta observação foi posteriormente confirmada por uma diminuição estatisticamente significativa dos depósitos de GL-3 em análise combinada de rim, coração e pele, assim como em cada um destes órgãos, em doentes tratados com agalsidase beta, por comparação com doentes tratados com placebo (p &lt; 0,001). A depuração sustentada de GL-3 do endotélio vascular do rim durante o tratamento com agalsidase beta foi ainda demonstrada no estudo aberto de extensão. Verificou-se em 47 dos 49 pacientes (96%) com informação disponível no mês 6, e em 8 dos 8 doentes (100%) com informação disponível no final do estudo (num total de 5 anos de tratamento). A eliminação de GL-3 foi também conseguida em muitos outros tipos de células do rim. Os níveis plasmáticos de GL-3 normalizaram rapidamente com o tratamento e mantiveram-se normais ao longo de 5 anos.
+ A função renal, medida pela taxa de filtração glomerular e pelos níveis de creatinina sérica, bem como pela proteinúria, manteve-se estável na maioria dos pacientes. Contudo, o efeito do tratamento com Fabrazyme na função renal foi limitado em alguns doentes com doença renal avançada.
+ Embora não se tenha realizado nenhum estudo para determinar o efeito nos sintomas e sinais neurológicos, os resultados indicam igualmente que os pacientes podem obter uma redução da dor e uma melhoria de qualidade de vida através da terapêutica de substituição enzimática.
+ Conduziu-se outro estudo com dupla ocultação, controlado com placebo, com 82 doentes, para determinar se o Fabrazyme poderia reduzir a incidência de doença renal, cardíaca ou cerebro-vascular, ou de morte. A taxa de acontecimentos clínicos foi substancialmente mais baixa nos doentes tratados com Fabrazyme em comparação com os doentes tratados com placebo (redução do risco= 53% por intenção de tratamento (p=0,0577); redução do risco= 61% no conjunto da população incluída no protocolo do estudo (p=0,0341). Este resultado foi consistente nos acontecimentos renais, cardíacos e cerebro-vasculares.
+ Os resultados destes estudos indicam que o tratamento com Fabrazyme a 1 mg/kg de peso/em semanas alternadas, proporciona benefício em parâmetros clínicos-chave nos doentes com doença de Fabry em fase inicial e avançada. Como esta doença é de progressão lenta, a detecção e o tratamento precoces podem ser decisivos para se atingir os melhores resultados.
+ No estudo aberto pediátrico, dezasseis doentes com a doença de Fabry (entre os 8 e os 16 anos; 14 do sexo masculino e 2 do feminino) foram tratados durante um ano. A depuração de GL-3 no endotélio vascular cutâneo superficial do foi conseguida em todos os pacientes que apresentavam acumulação GL-3 na linha de base. As 2 doentes do sexo feminino tinham pouca ou nenhuma acumulação no
+ 17 endotélio vascular cutâneo superficial na linha de base, pelo que esta conclusão se aplica apenas a doentes do sexo masculino.
+ Num outro estudo com um regime posológico alternativo, foram incluídos 21 doentes do sexo masculino com o objectivo de seguir a depuração de GL-3 nos tecidos renais e cutâneos. Após 24 semanas de tratamento com 1 mg/kg em semanas alternadas, a maioria dos doentes conseguiu manter a depuração celular de GL-3 no endotélio capilar do rim, noutros tipos de células renais e cutâneas (endotélio capilar cutâneo superficial) com um regime posológico de 0,3 mg/kg de 2 em 2 semanas, durante 18 meses. Contudo, com a dose mais baixa, os anticorpos IgG podem desempenhar algum papel no que respeita à depuração de GL-3 em alguns doentes. Dadas as limitações do desenho do estudo (um pequeno número de doentes), não se pode retirar nenhuma conclusão definitiva no que respeita ao regime de manutenção, mas estes dados sugerem que após a dose redutora inicial de 1,0 mg/kg de 2 em 2 semanas, em alguns doentes, 0,3 mg/kg de 2 em 2 semanas pode ser suficiente para manter a depuração de GL-3.
+ 5.2 Propriedades farmacocinéticas Após administração intravenosa de agalsidase beta a adultos em doses de 0,3 mg,1 mg e 3 mg/kg de peso corporal, os valores da AUC aumentaram proporcionalmente à dose, mais do que seria de esperar, devido a uma diminuição da depuração, indicando uma depuração saturada. O tempo de eliminação de semi-vida foi dependente da dose e variou entre 45 e 100 minutos.
+ Após administração intravenosa de agalsidase beta a adultos com um tempo de perfusão de cerca de 300 minutos e numa dose de 1mg/kg de peso corporal, de duas em duas semanas, a concentração plasmática média Cmax variou entre 2000-3500 ng/ml, enquanto que a AUCinf variou entre 370-780 μg. min/ml. A Vss variou entre8. 3-40.8 l, a depuração plasmática variou entre 119-345 ml/min e a semi-vida de eliminação média variou entre 80-120 minutos.
+ A farmacocinética do Fabrazyme foi igualmente avaliada em 15 doentes pediátricos (de 8,5 a 16 de idade, pesando entre 27,1 e 64,9 kg). A eliminação de agalsidade não foi influenciada pelo peso desta população. A eliminação na linha de base era de 77 mL/min com um volume de distribuição em estado estacionário (Vss) de 2,6 L; a semi-vida era de 55 min. Após a seroconversão da IgG, a depuração diminuiu para 35 mL/min, a Vss aumentou para 5,4 L, e a semi-vida aumentou para 240 min. O efeito real destas modificações após seroconversão consistiu num aumento de exposição de 2 a 3 vezes com base na AUC e Cmax. Não foram detectadas questões de segurança inesperadas em pacientes com um aumento da exposição após a seroconversão.
+ A agalsidase beta é uma proteína que é metabolizada por hidrólise peptídica. Consequentemente, pensa-se que uma função hepática alterada não afectará a farmacocinética de agalsidase beta de um modo clinicamente significativo. A eliminação renal de agalsidase beta é considerada uma via menor para a depuração.
+ 5.3 Dados de segurança pré-clínica Os dados não clínicos não revelam riscos especiais para o ser humano segundo estudos convencionais de farmacologia de segurança, de toxicidade com dose única ou com doses repetidas e de toxicidade embrionária/fetal. Não foram realizados estudos relacionados com outras fases do desenvolvimento. Não se prevê um potencial genotóxico e carcinogénico.
+ 18 6. INFORMAÇÕES FARMACÊUTICAS
+ 6.1 Lista dos excipientes Manitol Fosfato monossódico Fosfato de sódio dibásicos hepta-hidratado
+ 6.2 Incompatibilidades Na ausência de estudos de compatibilidade, Fabrazyme não deve ser misturado com outros medicamentos na mesma perfusão.
+ 6.3 Prazo de validade 3 anos. Soluções reconstituídas e diluídas De um ponto de vista microbiológico, o produto deve ser utilizado imediatamente. No caso de não ser utilizado imediatamente, as condições de conservação antes da sua utilização, são da responsabilidade do utilizador. A solução reconstituída não pode ser conservada e deve ser imediatamente diluída; apenas a solução diluída pode ser mantida até 24 horas a 2 °C-8 °C.
+ 6.4 Precauções especiais de conservação
+ Conservar no frigorífico (2 °C – 8 °C). 6.5 Natureza e conteúdo do recipiente Fabrazyme 5 mg é fornecido em frascos para injectáveis de vidro transparente do Tipo I de 5 ml. O fecho consiste numa tampa de butilo siliconisada e num selo de alumínio com uma cápsula plástica de destacar.
+ Tamanhos das embalagens: 1,5 e 10 frascos para injectáveis por caixa. É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ O pó para concentrado para solução para perfusão tem de ser reconstituído com água para preparações injectáveis, diluído com solução intravenosa de cloreto de sódio a 0,9% e depois administrado por perfusão intravenosa. Utilização de uma técnica asséptica
+ 1. Determine o número de frascos para injectáveis que têm de ser reconstituídos com base no peso de cada doente individual e retire os frascos para injectáveis necessários do frigorífico a fim de permitir que atinjam a temperatura ambiente (em aproximadamente 30 minutos). Cada frasco para injectáveis de Fabrazyme destina-se apenas a utilização única.
+ Reconstituição 2. Reconstitua cada frasco Fabrazyme 5 mg para injectáveis com 1,1 ml de água para preparações injectáveis. Evite um impacto violento da água para preparações injectáveis sobre o pó e evite a formação de espuma. A técnica para tal consiste na adição lenta gota a gota da água para preparações injectáveis no interior do frasco e não directamente sobre o produto liofilizado. Incline e role cada frasco suavemente. Não inverta, não abane nem agite o frasco.
+ 3. A solução reconstituída contém 5 mg de agalsidase beta por ml e apresenta-se sob a forma de uma solução incolor e límpida. O pH da solução reconstituída é aproximadamente de 7,0. Antes
+ 19 de proceder à diluição, inspeccione visualmente a solução reconstituída em cada frasco para injectáveis quanto à presença de matéria particulada e de descoloração. Não utilize a solução se forem observadas partículas estranhas ou se a soluçãoestiver descolorada.
+ 4. Após reconstituição, recomenda-se a diluição imediata dos frascos para injectáveis, para minimizar a formação de partículas proteicas com o passar do tempo
+ 5. Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ Diluição 6. Antes de adicionar o volume reconstituído de Fabrazyme, necessário para a dose do doente, ao saco de perfusão de cloreto de sódio a 0,9%, recomenda-se a remoção de um volume equivalente de solução intravenosa do saco.
+ 7. Remova o ar de dentro do saco de perfusão para minimizar a interface ar/líquido.
+ 8. Lentamente, extraia 1,0 ml (igual a 5 mg) de solução reconstituída de cada frasco para injectáveis até ao volume total necessário para a dose do doente. Não utilize agulhas de filtro e evite a formação de espuma.
+ 9. Em seguida, injecte lentamente a solução reconstituída directamente na solução intravenosa de cloreto de sódio a 0,9% (não em qualquer espaço de ar remanescente) até perfazer uma concentração final entre 0,05 mg/ml e 0,7 mg/ml. Determine o volume total de cloreto de sódio para perfusão numa solução de 0,9% (entre 50 e 500 ml) com base na dose individual. Para doses inferiores a 35 mg use um mínimo de 50 ml, para doses entre 35 e 70 mg use um mínimo de 100 ml, para doses entre 70 e 100 mg use um mínimo de 250 ml e para doses superiores a 100 mg use apenas 500 ml. Inverta suavemente ou massaje levemente o saco de perfusão para misturar a solução diluída Não mexa nem agite excessivamente o saco de perfusão.
+ Administração 10. Recomenda-se a administração da solução diluída através de um filtro em-linha de 0,2 μm e baixa ligação às proteínas para remover quaisquer partículas proteicas, o que não levará a qualquer perda de actividade de agalsidase beta. O ritmo inicial de perfusão não deve ser superior a 0,25 mg/min (15 mg/hora) de modo a minimizar a potencial ocorrência de reacções associadas com a perfusão. Depois da tolerância do doente estar estabelecida, o ritmo de perfusão pode ser aumentado gradualmente nas perfusões subsequentes.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Genzyme Europe B. V., Gooimeer 10, NL-1411 DD Naarden, Países Baixos
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/01/188/004-006 20 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 03/08/2001 Data da última renovação: 03/08/2006
+ 10. DATA DA REVISÃO DO TEXTO Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia do Medicamento (EMEA) http: //www. emea. europa. eu/. 1H
+ 21 ANEXO II
+ A. FABRICANTES DA SUBSTÂNCIA ACTIVA DE ORIGEM BIOLÓGICA E TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 22 A. FABRICANTE DA SUBSTÂNCIA ACTIVA DE ORIGEM BIOLÓGICA E TITULAR DE AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do fabricante da substância activa de origem biológica
+ Genzyme Corp. 51 New York Avenue Framingham MA 01701-9322 EUA
+ Genzyme Corp. 76 New York Avenue Framingham MA 01701-9322 EUA
+ Genzyme Corp. 500 Soldiers Field Road Allston MA 02134 EUA
+ Nome e endereço do fabricante responsável pela libertação do lote
+ Genzyme Ltd. 37 Hollands Road Haverhill Suffolk CB9 8PU Reino Unido
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento sujeito a receita médica restrita (ver Anexo I: Resumo das Características do Medicamento, secção 4.2.).
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ Não aplicável. • OUTRAS CONDIÇÕES
+ Os Relatórios Periódicos de Actualização de Segurança (RPAS) devem ser apresentados de três em três anos.
+ 23 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 24 A. ROTULAGEM
+ 25 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ EMBALAGEM EXTERIOR 1 FRASCO PARA INJECTÁVEIS,5 FRASCOS PARA INJECTÁVEIS E 10 FRASCOS PARA INJECTÁVEIS
+ 1. NOME DO MEDICAMENTO Fabrazyme 35 mg pó para concentrado para solução para perfusão. agalsidase beta
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Um frasco para injectáveis de pó contém 35 mg de agalsidase beta
+ 3. LISTA DOS EXCIPIENTES Excipientes: manitol fosfato monossódico mono-hidratado fosfato de sódio dibásico, hepta-hidratado
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 1 frasco para injectáveis de pó para concentrado para solução para perfusão 5 frascos para injectáveis de pó para concentrado para solução para perfusão. 10 frascos para injectáveis de pó para concentrado para solução para perfusão.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via intravenosa. Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ Exclusivamente para utilização única 8. PRAZO DE VALIDADE VAL. { mês/ano} 26 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico (2ºC – 8ºC). 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ Toda a solução não utilizada deve ser eliminada.
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Titular da autorização de introdução no mercado: Genzyme Europe B. V. Gooimeer 10 NL-1411DD Naarden Países Baixos
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/01/188/001 EU/1/01/188/002 EU/1/01/188/003
+ 13. NÚMERO DO LOTE Lote{ número} 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE 27 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ FRASCO PARA INJECTÁVEIS 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Fabrazyme 35 mg pó para concentrado para solução para perfusão. agalsidase beta Via intravenosa.
+ 2. MODO DE ADMINISTRAÇÃO 3. PRAZO DE VALIDADE VAL.: { mês/ano} 4. NÚMERO DO LOTE Lote{ número} 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 6. OUTRAS Genzyme Europe B. V.-NL Conservar no frigorífico (2ºC – 8ºC).
+ 28 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ EMBALAGEM EXTERIOR 1 FRASCO PARA INJECTÁVEIS,5 FRASCOS PARA INJECTÁVEIS E 10 FRASCOS PARA INJECTÁVEIS
+ 1. NOME DO MEDICAMENTO Fabrazyme 5 mg pó para concentrado para solução para perfusão. agalsidase beta
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Um frasco para injectáveis de pó contém 5 mg de agalsidase beta
+ 3. LISTA DOS EXCIPIENTES Excipientes: manitol fosfato monossódico mono-hidratado fosfato de sódio dibásico, hepta-hidratado
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 1 frasco para injectáveis de pó para concentrado para solução para perfusão. 5 frascos para injectáveis de pó para concentrado para solução para perfusão. 10 frascos para injectáveis de pó para concentrado para solução para perfusão.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via intravenosa. Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ Exclusivamente para utilização única 8. PRAZO DE VALIDADE VAL. { mês/ano} 29 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico (2ºC – 8ºC). 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ Toda a solução não utilizada deve ser eliminada.
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Titular da autorização de introdução no mercado: Genzyme Europe B. V. Gooimeer 10 NL-1411DD Naarden Países Baixos
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/01/188/004 EU/1/01/188/005 EU/1/01/188/006
+ 13. NÚMERO DO LOTE Lote{ número} 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE 30 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ FRASCO PARA INJECTÁVEIS 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Fabrazyme 5 mg pó para concentrado para solução para perfusão. agalsidase beta Via intravenosa.
+ 2. MODO DE ADMINISTRAÇÃO 3. PRAZO DE VALIDADE VAL.: { mês/ano} 4. NÚMERO DO LOTE Lote{ número} 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 6. OUTRAS Genzyme Europe B. V.-NL Conservar no frigorífico (2ºC – 8ºC).
+ 31 B. FOLHETO INFORMATIVO
+ 32 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Fabrazyme 35 mg pó para concentrado para solução para perfusão. Agalsidase beta
+ Leia atentamente este folheto antes de utilizar este medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é Fabrazyme e para que é utilizado 2. Antes de utilizar Fabrazyme 3. Como utilizar Fabrazyme 4. Efeitos secundários possíveis 5. Como conservar Fabrazyme 6. Outras informações
+ 1. O QUE É FABRAZYME E PARA QUE É UTILIZADO
+ Fabrazyme é usado como terapêutica de substituição enzimática na doença de Fabry, na qual o nível da actividade da enzima α-galactosidase está ausente ou é inferior ao normal. Se sofrer da doença de Fabry, uma substância gorda, chamada globotriaosilceramida (GL-3), não é removida das células do seu corpo e começa a acumular-se nas paredes dos vasos sanguíneos dos órgãos.
+ Fabrazyme está indicado para ser utilizado na terapêutica de substituição enzimática prolongada em doentes com um diagnóstico confirmado de doença de Fabry.
+ 2. ANTES DE UTILIZAR FABRAZYME Não utilizar Fabrazyme Se tiver tido uma reacção alérgica anafilática à agalsidase beta ou alergia (hipersensibilidade) a qualquer um dos outros componentes de Fabrazyme.
+ Tome especial cuidado com Fabrazyme Se for tratado com Fabrazyme, pode desenvolver reacções relacionadas com a perfusão. Uma reacção relacionada com a perfusão consiste em qualquer efeito secundário que ocorra durante a perfusão ou até ao final do dia de perfusão (ver 4 “ Efeitos secundários possíveis ”). Se tiver uma reacção destas, deve informar o seu médico imediatamente. Poderá ter de receber medicamentos adicionais para prevenir a ocorrência destas reacções.
+ Grupos diferentes de doentes a utilizar Fabrazyme A informação que consta deste folheto aplica-se a todos os grupos de doentes, incluindo as crianças, adolescentes, adultos e idosos.
+ Ao utilizar Fabrazyme com outros medicamentos Não se conhecem interacções com outros medicamentos. Fabrazyme não deve ser administrado com cloroquina, amiodarona, benoquin ou gentamicina devido ao risco teórico de diminuição da actividade da agalsidase beta. Informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica. 33 Ao utilizar Fabrazyme com alimentos e bebidas São improváveis as reacções com alimentos e bebidas.
+ Gravidez e aleitamento Não se recomenda a utilização de Fabrazyme durante a gravidez. Não existe experiência de utilização de Fabrazyme em mulheres grávidas. Não se recomenda a utilização de Fabrazyme durante o aleitamento. Fabrazyme pode passar para o leite materno. Consulte o seu médico ou farmacêutico antes de tomar qualquer medicamento.
+ 3. COMO UTILIZAR FABRAZYME Fabrazyme é administrado numa veia através de um sistema gota-a-gota (por perfusão intravenosa). É fornecido como um pó que será misturado com água estéril antes de ser administrado (ver informação para profissionais de saúde).
+ Fabrazyme será utilizado apenas sob a supervisão de um médico com conhecimentos no tratamento da doença de Fabry.
+ A dose recomendada de Fabrazyme para adultos e crianças dos 8-16 anos é de 1 mg/kg de peso corporal, administrada uma vez de 2 em 2 semanas. Não são necessárias alterações da dose em doentes com insuficiência renal.
+ Se utilizar mais Fabrazyme do que deveria Não foram comunicados casos de sobredosagem com Fabrazyme. Demonstrou-se que doses até 3 mg/kg de peso corporal são seguras.
+ Caso se tenha esquecido de utilizar Fabrazyme Se não fez uma perfusão de Fabrazyme, contacte o seu médico.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todos os medicamentos, Fabrazyme pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ Nos estudos clínicos, os efeitos secundários foram maioritariamente observados nos doentes durante a administração do medicamento ou pouco depois da mesma. Se tiver algum efeito secundário grave ou um efeito secundário não mencionado aqui, informe o seu médico imediatamente.
+ 34 Os seguintes efeitos secundários foram notificados nos ensaios clínicos:
+ Muito frequentes (que ocorreram em mais de 1 em 10 doentes): • arrepios
+ • sensação anormal ao toque (picos e agulhas)
+ • sensação de frio
+ • febre • dor de cabeça
+ • náuseas • vómitos
+ Frequentes (que ocorreram em mais de 1 em 100 doentes a 1 em 10 doentes): • dor no peito
+ • sonolência • batimento cardíaco acelerado
+ • fadiga • rubores
+ • dificuldade em respirar • palidez • prurido
+ • dor abdominal • dor nas costas • eritema cutâneo
+ • dor • aperto na garganta • tonturas
+ • secreção lacrimal alterada • fraqueza • zumbidos • congestão nasal • diarreia • vermelhidão • dor muscular • aumento da pressão sanguínea
+ • batimento cardíaco reduzido • palpitações • letargia • sensibilidade à dor reduzida • síncopes • sensação de queimadura • tosse • pieira • desconforto abdominal • urticária • face inchada • dor nas extremidades • dor nas articulações • nasofaringite • diminuição da pressão • afrontamentos sanguínea
+ • inchaço súbito da face ou da • desconforto no peito garganta
+ • sensação de calor
+ • edema nas extremidades • edema da face • vertigens • dificuldade exagerada em respirar • desconforto no estômago • rigidez muscular • espasmos musculares
+ • hipertermia • diminuição da sensibilidade da boca • rigidez músculoesquelética
+ Pouco frequentes (que ocorreram em mais de 1 em 1000 doentes a 1 em 100 doentes): • tremores
+ • comichão na vista
+ •
+ fraco batimento cardíaco devido a perturbações da condução
+ • olhos vermelhos • dor de ouvidos
+ • ouvidos inchados • broncoespasmos
+ • •
+ aumento da sensibilidade à dor congestão do tracto respiratório superior
+ • dor de garganta • respiração rápida
+ • corrimento nasal • desconforto abdominal
+ •
+ reacção na pele avermelhada
+ • reacção na pele com comichão
+ • desconforto da pele
+ •
+ descoloração da pele (manchas arroxeadas)
+ • sentimento de frio e calor • dificuldade em engolir
+ • dor musculosquelética • rinite
+ • •
+ frio nas extremidades coagulação sanguínea no local da injecção
+ • dor no local da perfusão
+ • estado gripal
+ • reacção no local da perfusão •
+ desconforto generalizado
+ • edema
+ Frequência desconhecida • Reacções alérgicas graves
+ • Inflamação vascular grave
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 35 5. COMO CONSERVAR FABRAZYME
+ Manter fora do alcance e da vista das crianças
+ Frascos para injectáveis não abertos Conservar no frigorífico (2ºC – 8ºC) Não utilize Fabrazyme após o prazo de validade impresso no rótulo depois da letras ‘ VAL ’.
+ Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Fabrazyme -A substância activa é a agalsidase beta, um frasco para injectáveis contém 35 mg.
+ -Os outros componentes são
+ -Manitol
+ -fosfato monossódico mono-hidratado
+ -fosfato de sódio dibásico, hepta-hidratado
+ Qual o aspecto de Fabrazyme e conteúdo da embalagem
+ Fabrazyme é fornecido como um pó branco ou quase branco. Após a reconstituição é um líquido límpido, incolor, isento de partículas estranhas. A solução reconstituída deve ser diluída posteriormente. Existe em embalagens de 1,5, ou 10 frascos. Poderão não ser comercializados alguns tamanhos de embalagem
+ Titular da Autorização de Introdução no Mercado e Fabricante
+ Titular da autorização de introdução no mercado Genzyme Europe B. V., Gooimeer 10, NL-1411DD Naarden, Países Baixos.
+ Fabricante Genzyme Ltd.,37 Hollands Road, Haverhill, Suffolk CB9 8PU, Reino Unido.
+ 36 Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado.
+ België/Belgique/Belgien/Luxembourg/Luxemburg Genzyme Belgium nv/sa (Belgique/Belgien), Tél/Tel:+ 32 2 714 17 11
+ Italia/Malta Genzyme Srl (Italia/Italja), Tel: +39 059 349811
+ България Търговско представителство на Genzyme CEE GmbH Тел. +359 2 971 1001
+ Magyarország Genzyme Europe B. V. Képviselet Tel: +36 1 310 7440
+ Česká Republika/Slovenská Republika/Slovenija Genzyme Europe B. V. organizační složka (Česká Republika, Republika Češka) Tel: +420 227 133 665
+ Nederland Genzyme Europe BV, Tel: +31 35 6991200
+ Danmark/Norge/Sverige/Suomi/Finland/Ísland Genzyme A/S, (Danmark/Tanska/Danmörk), Tlf/Puh./Sími:+ 45 32712600
+ Österreich Genzyme Austria GmbH, Tel:+ 43 1 774 65 38
+ Deutschland Genzyme GmbH, Tel: +49 610236740
+ Polska/Eesti/Latvija/Lietuva Genzyme Polska Sp. z o. o. (Poola/Polija/Lenkija), Tel:+ 48 22 516 24 30
+ Ελλάδα/Κύπρος Genzyme Hellas Ltd. (Ελλάδα) Τηλ: +30 210 99 49 270
+ Portugal Genzyme Portugal, Tel: +351 21 422 0100
+ România España Genzyme CEE GmbH-Reprezentanta pentru Genzyme, S. L., Romania Tel: +34 91 6591670 Tel: +40 21 243 42 28
+ France Genzyme S. A. S, Tél:+ 33 (0) 825 825 863
+ United Kingdom/Ireland Genzyme Therapeutics (United Kingdom), Tel: +44 1865 405200
+ Este folheto foi aprovado pela última vez em
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA). http: //www. emea. europa. eu/Também existem links para outros 2H
+ sites sobre doenças raras e tratamentos.
+ -------------------------------------------------------------------------------------------------------------------------
+ 37 A informação que se segue destina-se apenas aos médicos e aos profissionais de saúde:
+ Instruções de utilização – reconstituição, diluição e administração
+ O pó para concentrado para solução para perfusão tem de ser reconstituído com água para preparações injectáveis, diluído com solução intravenosa de cloreto de sódio a 0,9% e, em seguida, administrado por perfusão intravenosa.
+ De um ponto de vista microbiológico, o produto deve ser utilizado imediatamente. Caso não o seja, a conservação e condições durante a utilização são da responsabilidade do utilizador. A solução reconstituída não pode ser conservada e deve ser imediatamente diluída; apenas a solução diluída pode ser conservada até 24 horas a 2ºC-8ºC.
+ Utilização de uma técnica asséptica 1. Determine o número de frascos para injectáveis que têm de ser reconstituídos com base no peso de cada doente individual e retire os frascos para injectáveis necessários do frigorífico a fim de permitir que atinjam a temperatura ambiente (em aproximadamente 30 minutos). Cada frasco para injectáveis de Fabrazyme destina-se apenas a utilização única.
+ Reconstituição 2. Reconstitua cada frasco para injectáveis de Fabrazyme 35 mg com 7,2 ml de água para preparações injectáveis. Evite um impacto violento da água para preparações injectáveis sobre o pó e evite a formação de espuma na solução. A técnica utilizada consiste na adição lenta gota a gota da água para preparações injectáveis no interior do frasco e não directamente sobre o produto liofilizado. Incline e role cada frasco suavemente. Não inverta, não abane nem agite o frasco.
+ 3. A solução reconstituída contém 5 mg de agalsidase beta por ml, e apresenta-se sob a forma de uma solução incolor e límpida. O pH da solução reconstituída é aproximadamente de 7, 0. Antes de proceder à diluição, inspeccione visualmente a solução reconstituída em cada frasco para injectáveis quanto à presença de matéria particulada e de descoloração. Não utilize a solução se forem observadas partículas estranhas ou se a solução estiver descolorada.
+ Após reconstituição, recomenda-se a diluição imediata dos frascos para injectáveis, para 4. minimizar a formação de partículas proteicas com o passar do tempo.
+ 5. Todo o produto não utilizado ou resíduos devem ser eliminados de acordo com os requisitos locais.
+ Diluição 6. Antes de adicionar o volume reconstituído de Fabrazyme necessário para a dose do doente, ao saco de perfusão de cloreto de sódio a 0,9%, recomenda-se a remoção de um volume equivalente de solução intravenosa do saco.
+ 7. Remova o ar de dentro do saco de perfusão para minimizar a interface ar/líquido.
+ 8. Lentamente, extraia 7,0 ml (igual a 35 mg) de solução reconstituída de cada frasco para injectáveis até ao volume total necessário para a dose do doente. Não utilize agulhas de filtro e evite a formação de espuma.
+ 9. Em seguida, injecte lentamente a solução reconstituída directamente na solução intravenosa de cloreto de sódio a 0,9% (não em qualquer espaço de ar remanescente) até perfazer uma concentração final entre 0,05 mg/ml e 0,7 mg/ml. Determine o volume total de cloreto de sódio para perfusão numa solução de 0,9% (entre 50 e 500 ml) com base na dose individual. Para
+ 38 doses inferiores a 35 mg use um mínimo de 50 ml, para doses entre 35 e 70 mg use um mínimo de 100 ml, para doses entre 70 e 100 mg use um mínimo de 250 ml e para doses superiores a 100 mg use apenas 500 ml. Inverta suavemente ou massaje levemente o saco de perfusão para misturar a solução diluída. Não mexa nem agite excessivamente o saco de infusão.
+ Administração 10. Recomenda-se a administração da solução diluída através de um filtro em-linha de 0,2 μm e baixa ligação às proteínas para remover quaisquer partículas proteicas, o que não levará a qualquer perda de actividade de agalsidase beta. O ritmo inicial de perfusão não deve ser superior a 0,25 mg/min (15 mg/hora) de modo a minimizar a potencial ocorrência de reacções associadas com a perfusão. Depois da tolerância do doente estar estabelecida, o ritmo de perfusão pode ser aumentado gradualmente nas perfusões subsequentes.
+ 39 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Fabrazyme 5 mg pó para concentrado para solução para perfusão. Agalsidase beta
+ Leia atentamente este folheto antes de utilizar este medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é Fabrazyme e para que é utilizado 2. Antes de utilizar Fabrazyme 3. Como utilizar Fabrazyme 4. Efeitos secundários possíveis 5. Como conservar Fabrazyme 6. Outras informações
+ 1. O QUE É FABRAZYME E PARA QUE É UTILIZADO
+ Fabrazyme é usado como terapêutica de substituição enzimática na doença de Fabry, na qual o nível da actividade da enzima α-galactosidase está ausente ou é inferior ao normal. Se sofrer da doença de Fabry, uma substância gorda, chamada globotriaosilceramida (GL-3), não é removida das células do seu corpo e começa a acumular-se nas paredes dos vasos sanguíneos dos órgãos.
+ Fabrazyme está indicado para ser utilizado na terapêutica de substituição enzimática prolongada em doentes com um diagnóstico confirmado de doença de Fabry.
+ 2. ANTES DE UTILIZAR FABRAZYME Não utilizar Fabrazyme Se tiver tido uma reacção alérgica anafilática à agalsidase beta ou alergia (hipersensibilidade) a qualquer um dos outros componentes de Fabrazyme.
+ Tome especial cuidado com Fabrazyme Se for tratado com Fabrazyme, pode desenvolver reacções relacionadas com a perfusão. Uma reacção relacionada com a perfusão consiste em qualquer efeito secundário que ocorra durante a perfusão ou até ao final do dia de perfusão (ver 4 “ Efeitos secundários possíveis ”). Se tiver uma reacção destas, deve informar o seu médico imediatamente. Poderá ter de receber medicamentos adicionais para prevenir a ocorrência destas reacções ..
+ Grupos diferentes de doentes a utilizar Fabrazyme A informação que consta deste folheto aplica-se a todos os grupos de doentes, incluindo as crianças, adolescentes, adultos e idosos.
+ Ao utilizar Fabrazyme com outros medicamentos Não se conhecem interacções com outros medicamentos. Fabrazyme não deve ser administrado com cloroquina, amiodarona, benoquin ou gentamicina devido ao risco teórico de diminuição da actividade da agalsidase beta. Informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica. 40 Ao utilizar Fabrazyme com alimentos e bebidas São improváveis as reacções com alimentos e bebidas.
+ Gravidez e aleitamento Não se recomenda a utilização de Fabrazyme durante a gravidez. Não existe experiência de utilização de Fabrazyme em mulheres grávidas. Não se recomenda a utilização de Fabrazyme durante o aleitamento. Fabrazyme pode passar para o leite materno. Consulte o seu médico ou farmacêutico antes de tomar qualquer medicamento.
+ 3. COMO UTILIZAR FABRAZYME Fabrazyme é administrado numa veia através de um sistema gota-a-gota (por perfusão intravenosa). É fornecido como um pó que será misturado com água estéril antes de ser administrado (ver informação para profissionais de saúde).
+ Fabrazyme será utilizado apenas sob a supervisão de um médico com conhecimentos no tratamento da doença de Fabry.
+ A dose recomendada de Fabrazyme para adultos e crianças dos 8-16 anos é de 1 mg/kg de peso corporal, administrada uma vez de 2 em 2 semanas. Não são necessárias alterações da dose em doentes com insuficiência renal.
+ Se utilizar mais Fabrazyme do que deveria Não foram notificados casos de sobredosagem com Fabrazyme. Demonstrou-se que doses até 3 mg/kg de peso corporal são seguras.
+ Caso se tenha esquecido de utilizar Fabrazyme Se não fez uma perfusão de Fabrazyme, contacte o seu médico.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todos os medicamentos, Fabrazyme pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ Nos estudos clínicos, os efeitos secundários foram maioritariamente observados nos doentes durante a administração do medicamento ou pouco depois da mesma. Se tiver algum efeito secundário grave ou um efeito secundário não mencionado aqui, informe o seu médico imediatamente.
+ 41 Os seguintes efeitos secundários foram notificados nos ensaios clínicos:
+ Muito frequentes (que ocorreram em mais de 1 em 10 doentes): • Arrepios
+ • sensação anormal ao toque (picos e agulhas)
+ • sensação de frio
+ • febre • dor de cabeça
+ • náuseas • vómitos
+ Frequentes (que ocorreram em mais de 1 em 100 doentes a 1 em 10 doentes): • dor no peito
+ • sonolência • batimento cardíaco acelerado
+ • fadiga • rubores
+ • dificuldade em respirar • palidez • prurido
+ • dor abdominal • dor nas costas • eritema cutâneo
+ • dor • aperto na garganta • tonturas
+ • secreção lacrimal alterada • fraqueza • zumbidos • congestão nasal • diarreia • vermelhidão • dor muscular • aumento da pressão sanguínea
+ • batimento cardíaco reduzido • palpitações • letargia • sensibilidade à dor reduzida • síncopes • sensação de queimadura • tosse • pieira • desconforto abdominal • urticária • face inchada • dor nas extremidades • dor nas articulações • nasofaringite • diminuição da pressão • afrontamentos sanguínea
+ • inchaço súbito da face ou da • desconforto no peito garganta
+ • sensação de calor
+ • edema nas extremidades • edema da face • vertigens • dificuldade exagerada em respirar • desconforto no estômago • rigidez muscular • espasmos musculares
+ • hipertermia • diminuição da sensibilidade da boca • rigidez músculoesquelética
+ Pouco frequentes (que ocorreram em mais de 1 em 1000 doentes a 1 em 100 doentes): • tremores
+ • comichão na vista
+ •
+ fraco batimento cardíaco devido a perturbações da condução
+ • olhos vermelhos
+ • ouvidos inchados
+ •
+ aumento da sensibilidade à dor
+ • dor de ouvidos
+ • broncoespasmos
+ •
+ congestão do tracto respiratório superior
+ • dor de garganta • respiração rápida
+ • corrimento nasal • desconforto abdominal
+ •
+ reacção na pele avermelhada
+ • reacção na pele com comichão
+ • desconforto da pele
+ •
+ descoloração da pele (manchas arroxeadas)
+ • sentimento de frio e calor • dificuldade em engolir
+ • dor musculoesquelética, • rinite
+ • •
+ frio nas extremidades coagulação sanguínea no local da injecção
+ • dor no local da perfusão
+ • estado gripal
+ • reacção no local da perfusão •
+ desconforto generalizado
+ • edema
+ Frequência desconhecida • Reacções alérgicas graves
+ • Inflamação vascular grave
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 42 5. COMO CONSERVAR FABRAZYME
+ Manter fora do alcance e da vista das crianças
+ Frascos para injectáveis não abertos Conservar no frigorífico (2ºC – 8ºC). Não utilize Fabrazyme após o prazo de validade impresso no rótulo depois das letras ‘ VAL ’.
+ Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Fabrazyme -A substância activa é a agalsidase beta, um frasco para injectáveis contém 5 mg.
+ -Os outros componentes são
+ -Manitol
+ -fosfato de sódio monobásico, mono-hidratado
+ -fosfato de sódio dibásico, hepta-hidratado
+ Qual o aspecto de Fabrazyme e conteúdo da embalagem Fabrazyme é fornecido como um pó branco ou quase branco. Após a reconstituição é um líquido límpido, incolor, isento de partículas estranhas. Existe em embalagens de 1,5, ou 10 frascos. Poderão não ser comercializados alguns tamanhos de embalagem
+ Titular da Autorização de Introdução no Mercado e Fabricante
+ Titular da Autorização de Introdução no Mercado Genzyme Europe B. V., Gooimeer 10, NL-1411DD Naarden, Países Baixos.
+ Fabricante Genzyme Ltd.,37 Hollands Road, Haverhill, Suffolk CB9 8PU, Reino Unido.
+ 43 Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado.
+ België/Belgique/Belgien/Luxembourg/Luxemburg Genzyme Belgium nv/sa (Belgique/Belgien), Tél/Tel:+ 32 2 714 17 11
+ Italia/Malta Genzyme Srl (Italia/Italja), Tel: +39 059 349811
+ България Търговско представителство на Genzyme CEE GmbH Тел. +359 2 971 1001
+ Magyarország Genzyme Europe B. V. Képviselet Tel: +36 1 310 7440
+ Česká Republika/Slovenská Republika/Slovenija Genzyme Europe B. V. organizační složka (Česká Republika, Republika Češka) Tel: +420 227 133 665
+ Nederland Genzyme Europe BV, Tel: +31 35 6991200
+ Danmark/Norge/Sverige/Suomi/Finland/Ísland Genzyme A/S, (Danmark/Tanska/Danmörk), Tlf/Puh./Sími:+ 45 32712600
+ Österreich Genzyme Austria GmbH, Tel:+ 43 1 774 65 38
+ Deutschland Genzyme GmbH, Tel: +49 610236740
+ Polska/Eesti/Latvija/Lietuva Genzyme Polska Sp. z o. o. (Poola/Polija/Lenkija), Tel:+ 48 22 516 24 30
+ Ελλάδα/Κύπρος Genzyme Hellas Ltd. (Ελλάδα) Τηλ: +30 210 99 49 270
+ Portugal Genzyme Portugal, Tel: +351 21 422 0100
+ România España Genzyme CEE GmbH-Reprezentanta pentru Genzyme, S. L., Romania Tel: +34 91 6591670 Tel: +40 21 243 42 28
+ France Genzyme S. A. S, Tél:+ 33 (0) 825 825 863
+ United Kingdom/Ireland Genzyme Therapeutics (United Kingdom), Tel: +44 1865 405200
+ Este folheto foi revisto pela última vez em
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA). http: //www. emea. europa. eu/Também existem links para outros 3H
+ sites sobre doenças raras e tratamentos.
+ -------------------------------------------------------------------------------------------------------------------------
+ 44 A informação que se segue destina-se apenas aos médicos e aos profissionais de saúde:
+ Instruções de utilização – reconstituição, diluição e administração
+ O pó para concentrado para solução para perfusão tem de ser reconstituído com água para preparações injectáveis, diluído com solução intravenosa de cloreto de sódio a 0,9% e, em seguida, administrado por perfusão intravenosa.
+ De um ponto de vista microbiológico, o produto deve ser utilizado imediatamente. Caso não o seja, a conservação e condições durante a utilização são da responsabilidade do utilizador. A solução reconstituída não pode ser conservada e deve ser imediatamente diluída; apenas a solução diluída pode ser conservada até 24 horas a 2ºC-8ºC.
+ Utilização de uma técnica asséptica 1. Determine o número de frascos para injectáveis que têm de ser reconstituídos com base no peso de cada doente individual e retire os frascos para injectáveis necessários do frigorífico afim de permitir que atinjam a temperatura ambiente (em aproximadamente 30 minutos). Cada frasco para injectáveis de Fabrazyme destina-se apenas a utilização única.
+ Reconstituição 2. Reconstitua cada frasco para injectáveis de Fabrazyme 5 mg com 1,1 ml de água para preparações injectáveis. Evite um impacto violento da água para preparações injectáveis sobre o pó e evite a formação de espuma na solução. A técnica utilizada consiste na adição lenta gota a gota da água para preparações injectáveis no interior do frasco e não directamente sobre o produto liofilizado. Incline e role cada frasco suavemente. Não inverta, não abane nem agite o frasco.
+ 3. A solução reconstituída contém 5 mg de agalsidase beta por ml, e apresenta-se sob a forma de uma solução incolor e límpida. O pH da solução reconstituída é aproximadamente de 7,0. Antes de proceder à diluição inspeccione visualmente a solução reconstituída em cada frasco para injectáveis quanto à presença de matéria particulada e de descoloração. Não utilize a solução se forem observadas partículas estranhas ou se a solução estiver descolorada.
+ Após reconstituição, recomenda-se a diluição imediata dos frascos para injectáveis, para 4. minimizar a formação de partículas proteicas com o passar do tempo.
+ 5. Todo o produto não utilizado ou resíduos devem ser eliminados de acordo com os requisitos locais.
+ Diluição 6. Antes de adicionar o volume reconstituído de Fabrazyme necessário para a dose do doente, ao saco de perfusão de cloreto de sódio a 0,9%, recomenda-se a remoção de um volume equivalente de solução intravenosa do saco.
+ 7. Remova o ar de dentro do saco de perfusão para minimizar a interface ar/líquido.
+ 8. Lentamente, extraia 1,0 ml (igual a 5 mg) de solução reconstituída de cada frasco para injectáveis até ao volume total necessário para a dose do doente. Não utilize agulhas de filtro e evite a formação de espuma.
+ 9. Em seguida, injecte lentamente a solução reconstituída directamente na solução intravenosa de cloreto de sódio a 0,9% (não em qualquer espaço de ar remanescente) até perfazer uma concentração final entre 0,05 mg/ml e 0,7 mg/ml. Determine o volume total de cloreto de sódio para perfusão numa solução de 0,9% (entre 50 e 500 ml) com base na dose individual. Para
+ 45 doses inferiores a 35 mg use um mínimo de 50 ml, para doses entre 35 e 70 mg use um mínimo de 100 ml, para doses entre 70 e 100 mg use um mínimo de 250 ml e para doses superiores a 100 mg use apenas 500 ml. Inverta suavemente ou massaje levemente o saco de perfusão para misturar a solução diluída. Não mexa nem agite excessivamente o saco de infusão.
+ Administração 10. Recomenda-se a administração da solução diluída através de um filtro em-linha de 0,2 μm e baixa ligação às proteínas para remover quaisquer partículas proteicas, o que não levará a qualquer perda de actividade de agalsidase beta. O ritmo inicial de perfusão não deve ser superior a 0,25 mg/min (15 mg/hora) de modo a minimizar a potencial ocorrência de reacções associadas com a perfusão. Depois da tolerância do doente estar estabelecida, o ritmo de perfusão pode ser aumentado gradualmente nas perfusões subsequentes.
+ 46

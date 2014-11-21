@@ -1,0 +1,352 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. DENOMINAÇÃO DO MEDICAMENTO
+ Soliris 300 mg concentrado para solução para perfusão
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada frasco de 30 ml contém 300 mg de eculizumab (10 mg/ml).
+ O eculizumab é um anticorpo IgG2/4κ monoclonal humanizado produzido numa linha celular de NS0 por tecnologia de ADN recombinante.
+ Após diluição, a concentração final da solução para perfusão é de 5 mg/ml.
+ Excipientes: sódio (5,00 mmol por dose (1 frasco ))
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Concentrado para solução para perfusão. Solução transparente, incolor, pH 7,0. 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Soliris (eculizumab) é indicado para o tratamento de doentes com hemoglobinúria paroxística nocturna (HPN).
+ A evidência do benefício clínico de Soliris no tratamento de doentes com HPN é limitada a doentes com história de transfusões.
+ 4.2 Posologia e modo de administração
+ No sentido de reduzir o risco associado a infecções meningocócicas (Neisseria meningitidis), todos os doentes devem ser vacinados pelo menos 2 semanas antes de receber Soliris e devem ser revacinados de acordo com as directrizes clínicas actuais relativas a vacinação (ver secção 4.4).
+ Soliris deve ser administrado por um profissional de saúde e sob supervisão de um médico com experiência no tratamento de doentes com doenças hematológicas.
+ O regime posológico consiste numa fase inicial de 5 semanas, seguida por uma fase de manutenção:
+ •
+ Fase inicial: 600 mg de eculizumab administrado por perfusão intravenosa com a duração de 25-45 minutos, uma vez por semana nas primeiras 4 semanas, seguida de 900 mg de eculizumab na quinta semana da fase inicial.
+ •
+ Fase de manutenção: 900 mg de Soliris administrado por perfusão intravenosa com a duração de 25-45 minutos, a cada 14 ± 2 dias (ver Secção 5.1).
+ As instruções para a preparação das soluções diluídas são descritas na secção 6.6.
+ 2 Não administrar por injecção intravenosa rápida ou bólus. Soliris deve ser administrado apenas por perfusão intravenosa, como descrito em baixo.
+ A solução diluída de Soliris deve ser administrada por perfusão intravenosa durante 25 – 45 minutos por linha intravenosa, uma bomba tipo seringa ou uma bomba de perfusão. Não é necessário proteger a solução diluída de Soliris da luz durante a administração ao doente.
+ Os doentes devem ficar sob observação durante uma hora após a perfusão. No caso da ocorrência de um acontecimento adverso durante a administração de Soliris, a perfusão pode ser abrandada ou interrompida segundo o critério do médico. No caso de diminuição da velocidade da perfusão, o tempo total de administração não pode exceder duas horas.
+ Crianças e adolescentes: Não existe qualquer experiência em crianças (ver secção 5.2).
+ Idosos: Soliris pode ser administrado a doentes com 65 ou mais anos de idade. Não existem evidências que sugiram a necessidade de precauções especiais quando se procede ao tratamento de pessoas idosas, embora a experiência com Soliris nesta população de doentes ainda seja limitada.
+ Insuficiência renal: A segurança e eficácia de Soliris não foram estudadas em doentes com insuficiência renal.
+ Insuficiência hepática: A segurança e eficácia de Soliris não foram estudadas em doentes com insuficiência hepática.
+ 4.3 Contra-indicações Hipersensibilidade ao eculizumab, às proteínas murinas ou a qualquer um dos excipientes.
+ Não iniciar a terapêutica com Soliris em doentes:
+ • com infecção por Neisseria meningitidis não resolvida. • que não estejam vacinados contra Neisseria meningitidis. • com deficiências hereditárias do sistema complemento suspeitas ou conhecidas.
+ 4.4 Advertências e precauções especiais de utilização
+ Não se prevê que Soliris afecte a componente aplástica da anemia em doentes com HPN.
+ Infecção meningocócica: Devido ao seu mecanismo de acção, a utilização de Soliris aumenta a susceptibilidade dos doentes a infecção meningocócica (Neisseria meningitidis). Estes doentes podem estar em risco de contrair a doença devida a serotipos invulgares (em particular, Y, W135 and X), apesar de poder ocorrer doença meningocócica devida a qualquer um dos serotipos. No sentido de reduzir o risco de infecção, todos os doentes devem ser vacinados pelo menos 2 semanas antes de receber Soliris e devem ser revacinados de acordo com as directrizes clínicas actuais relativas a vacinação. Recomenda-se vivamente a vacinação tetravalente contra os serotipos A, C, Y e W135, de preferência utilizando vacinas conjugadas. A vacinação pode não ser suficiente para prevenir a infecção meningocócica. Devem ponderar-se as orientações oficiais sobre o uso adequado de agentes antibacterianos. Foram referidos 3 casos de infecção meningocócica em doentes tratados com Soliris: dois em doentes com HPN, vacinados, e o outro num doente com glomerulonefropatia membranosa idiopática, não vacinado. Todos os doentes devem ser monitorizados para a detecção de sinais precoces de infecção meningocócica, examinados de imediato no caso de suspeita de infecção e, se necessário, tratados com antibióticos. Os doentes devem ser informados sobre estes sinais e sintomas e as medidas a tomar para procurar cuidados médicos imediatos (ver Folheto Informativo destinado ao doente para uma descrição).
+ 3 Outras infecções sistémicas: Devido ao seu mecanismo de acção, o tratamento com Soliris deve ser administrado com precaução nos doentes com infecções sistémicas activas. Globalmente, a gravidade e a frequência das infecções em doentes tratados com Soliris foram idênticas às dos doentes tratados com placebo nos estudos clínicos, apesar de não poder ser excluído um aumento do número e da gravidade das infecções, em particular devidas a bactérias encapsuladas. Os doentes devem receber informação, através do Folheto Informativo, para uma maior sensibilização relativamente às infecções graves potenciais e aos seus sinais e sintomas.
+ Reacções à perfusão: Tal como sucede com todas as proteínas terapêuticas, a administração de Soliris pode resultar em reacções à perfusão ou em imunogenicidade susceptível de causar reacções alérgicas ou de hipersensibilidade (incluindo anafilaxia) ainda que, decorridas 48 horas da administração de Soliris, as perturbações do sistema imunitário não tenham diferido das observadas no grupo de placebo em estudos de doentes com e sem HPN realizados com Soliris. Nos ensaios clínicos, nenhum doente com HPN apresentou uma reacção à perfusão que implicasse a interrupção do tratamento com Soliris. A administração de Soliris deve ser interrompida em todos os doentes que façam reacções graves à perfusão. Estes deverão receber tratamento médico adequado.
+ Imunogenicidade: Foram detectadas respostas raras de baixa titulação de anticorpos em doentes tratados com Soliris em todos os estudos de doentes com e sem HPN, com uma frequência (3,4%) semelhante à do placebo (4,8%). Nenhum doente desenvolveu anticorpos neutralizadores após a terapêutica com Soliris e não se observou qualquer correlação entre o desenvolvimento de anticorpos e a resposta clínica ou os acontecimentos adversos.
+ Imunização: Antes do início da terapêutica com Soliris, recomenda-se que os doentes com HPN sejam vacinados de acordo com as directrizes de vacinação em vigor. Adicionalmente, todos os doentes devem ser vacinados contra meningococos pelo menos 2 semanas antes do tratamento com Soliris. Caso estejam disponíveis, recomenda-se a utilização de vacinas tetravalentes conjugadas (ver doença meningocócica).
+ Terapia anticoagulante: O tratamento com Soliris não deverá alterar o tratamento anticoagulante.
+ Monitorização laboratorial: Os doentes com HPN devem ser monitorizados para a detecção de sinais e sintomas de hemólise intravascular, incluindo os níveis séricos da lactato desidrogenase (LDH). Os doentes com HPN a receber tratamento com Soliris devem ser monitorizados de forma semelhante para a detecção de hemólise intravascular através da medição dos níveis da LDH, podendo necessitar de um ajuste de dose dentro do calendário posológico recomendado de 14+/-2 dias durante a fase de manutenção (até todos os 12 dias).
+ Descontinuação do tratamento: Os doentes que abandonam o tratamento com Soliris devem ser monitorizados para a detecção de sinais e sintomas de hemólise intravascular grave. A hemólise grave é identificada por níveis séricos de LDH superiores aos níveis anteriores ao tratamento, em conjunto com qualquer dos sinais seguintes: decréscimo absoluto superior a 25% de clones HPN (na ausência de diluição devida a transfusão) numa semana ou menos; nível de hemoglobina &lt; 5 gm/dL ou um decréscimo &gt; 4 gm/dL numa semana ou menos; angina; alteração no estado mental; um aumento de 50% no nível de creatinina sérica; AVC. Os doentes que abandonam o tratamento com Soliris devem ser mantidos sob observação durante pelo menos 8 semanas, para a possível detecção de hemólise grave e outras reacções.
+ Caso ocorra hemólise grave após a interrupção do tratamento com Soliris, devem ser considerados os seguintes procedimentos/tratamentos: transfusão de sangue (concentrado de eritrócitos), transfusão de substituição caso a contagem de eritrócitos HPN seja &gt; 50% da contagem de eritrócitos totais por citometria de fluxo; anticoagulação; corticosteróides; ou reinstituição de Soliris. Nos estudos clínicos com doentes com HPN,16 doentes abandonaram o tratamento com Soliris. Não se observou a ocorrência de hemólise grave.
+ Excipientes: Este medicamento contém 5,00 mmol de sódio por dose (1 frasco para injectáveis). Este facto deve ser tomado em consideração em doentes sujeitos a dieta com restrição de sódio.
+ 4 4.5 Interacções medicamentosas e outras formas de interacção
+ Não foram realizados estudos de interacção.
+ 4.6 Gravidez e aleitamento Gravidez No que respeita a Soliris, não existem dados clínicos sobre as gravidezes a ele expostas.
+ Não foram realizados estudos de reprodução em animais com eculizumab (ver secção 5.3).
+ Sabe-se que a IgG humana atravessa a barreira placentária humana, pelo que o eculizumab pode potencialmente causar uma inibição terminal do complemento na circulação fetal. Por esta razão, Soliris só deve ser administrado a uma mulher grávida se claramente necessário. As mulheres em idade fértil deverão utilizar um método contraceptivo eficaz durante e até 5 meses após o tratamento.
+ Aleitamento Desconhece-se se o eculizumab é segregado no leite humano. Em virtude de muitos medicamentos e imunoglobulinas serem segregados no leite humano, e dado o potencial de reacções adversas graves em lactentes, a amamentação deve ser interrompida durante o tratamento e até 5 meses após o tratamento.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas.
+ 4.8 Efeitos indesejáveis O eculizumab utilizado no tratamento da HPN foi estudado em três estudos clínicos que incluíram 195 doentes tratados com eculizumab. Muitos destes doentes foram integrados no estudo de extensão E05-001. Foi realizado um ensaio clínico fundamental no qual o tratamento com eculizumab foi comparado com um tratamento placebo.
+ As reacções adversas mais referidas (observadas em 5 ou mais doentes em cada 100) foram cefaleia, nasofaringite, náuseas, pirexia, mialgia, fadiga e herpes simplex.
+ Os acontecimentos adversos comunicados com muita frequência (≥1/10) ou com frequência (≥5/100 e &lt; 10/100) com eculizumab, num total de 140 doentes, nos estudos C04-001 e C04-002, são apresentados por classes de sistemas de órgãos e termo preferido no Quadro 1. Os acontecimentos adversos foram, na sua maioria, de gravidade ligeira a moderada. Os acontecimentos pouco comuns ou raros não puderam ser avaliados devido à exposição limitada de doentes (195 doentes com HPN). Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ Quadro 1: Acontecimentos adversos notificadas nos estudos C04-001 e C04-002 Acontecimento adverso Classes de sistemas de órgãos Infecções e infestações
+ Muito frequentes (&gt; 1/10) Infecção do tracto urinário Nasofaringite
+ Termo preferido Frequentes (5/100 – 1/10) Infecção do tracto respiratório Herpes Simplex Sinusite
+ Infecção do tracto respiratório superior Infecção viral Gastroenterite
+ 5 Perturbações do foro psiquiátrico Doenças do sistema nervoso
+ Tonturas Cefaleias Insónia Doenças respiratórias, torácicas e do mediastino
+ Epistaxis Dor faringolaríngea Tosse Doenças gastrointestinais Diarreia Náuseas Vómitos Dor abdominal Dor abdominal superior Obstipação
+ Afecções dos tecidos cutâneos e subcutâneas
+ Exantema Prurido Afecções musculoesqueléticas e dos tecidos conjuntivos
+ Lombalgia Artralgia
+ Mialgia Dor nas extremidades Cãibras musculares
+ Perturbações gerais e alterações no local de administração
+ Pirexia Doença do tipo gripal Fadiga Complicações de intervenções e relacionadas com lesões e intoxicações
+ Contusão No estudo C04-001, as cefaleias foram o acontecimento adverso mais frequente observado com
+ eculizumab. As cefaleias foram observadas em 44,2% (19/43 doentes) dos doentes tratados com eculizumab e em 27,3% (12/44 doentes) dos doentes que receberam o placebo, tendo sido ligeiras a moderadas em todos, excepto em 1 doente tratado com eculizumab e em 1 doente que recebeu placebo. A maior parte das cefaleias foi ligeira e não persistiu para além da fase de administração inicial de Soliris. Além disso, em comparação com placebo, a frequência dos seguintes acontecimentos adversos aumentou 5% ou mais com Soliris: nasofaringite (25,0%), náuseas (17,1%), pirexia (14,3%), mialgia (7,9%), fadiga (7,9%) e herpes simplex (5,7%). Não se obtiveram provas de um aumento da incidência de infecções nos estudos de doentes com HPN tratados com eculizumab em comparação com os do grupo de placebo, incluindo infecções graves, infecções severas ou infecções múltiplas.
+ O acontecimento adverso mais grave foi a septicemia meningocócica em dois doentes com HPN vacinados (ver secção 4.4).
+ Foram detectadas baixas titulações de anticorpos em 2% dos doentes com HPN tratados com Soliris. Tal como acontece com todas as proteínas, existe o potencial de imunogenecidade.
+ Dados de segurança de outros estudos clínicos Os dados em que se baseia a segurança foram obtidos em 11 estudos clínicos que incluíram 716 doentes expostos a eculizumab em seis populações de doentes afectadas por outras patologias que não a HPN. Um doente não vacinado diagnosticado com glomerulonefropatia membranosa idiopática contraiu meningite meningocócica. Quanto aos outros acontecimentos adversos e considerando todos os estudos com dupla ocultação controlados por placebo em doentes diagnosticados com outras doenças que não a HPN (N=526 doentes tratados com Soliris; N=221 doentes tratados com placebo), os acontecimentos adversos comunicados com Soliris com uma frequência igual a 2% ou superior à notificada com placebo foram: infecção do tracto respiratório superior, exantema e lesão.
+ 4.9 Sobredosagem Não foram observados casos de sobredosagem.
+ 6 5. PROPRIEDADES FARMACOLÓGICAS
+ 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Imunomoduladores, código ATC:
+ L04AA25 Soliris é um anticorpo IgG2/4κ monoclonal humanizado recombinante que se liga à proteína humana C5 do complemento e inibe a activação do complemento terminal. O anticorpo Soliris contém regiões constantes humanas e regiões murinas determinantes da complementaridade enxertadas na estrutura de regiões variáveis de cadeia leve e pesada humana. Soliris é composto por duas cadeias pesadas, com 448 aminoácidos, e duas cadeias leves, com 214 aminoácidos, tendo um peso molecular de aproximadamente 148kDa.
+ Soliris é produzido num sistema de expressão de mieloma murino (linha celular NS0) e é purificado por afinidade e cromatografia de troca iónica. O processo de fabrico da substância activa do medicamento inclui também inactivação viral específica bem como procedimentos de remoção.
+ Mecanismo de acção O eculizumab, a substância activa de Soliris, é um inibidor do complemento terminal que se liga de forma específica à proteína C5 do complemento, com alta afinidade, inibindo, deste modo, a sua clivagem em C5a e C5b e impedindo a geração do complexo do complemento terminal C5b-9. Consequentemente, Soliris restabelece a regulação do complemento terminal no sangue dos doentes com HPN e inibe a hemólise intravascular mediada pelo complemento terminal nestes doentes. O eculizumab preserva os componentes iniciais da activação do complemento que são essenciais para a opsonização dos microrganismos e para a remoção dos complexos imunitários.
+ A administração de Soliris resulta numa redução rápida e sustentada da actividade do complemento terminal. Concentrações séricas de eculizumab correspondentes a aproximadamente 35 microgramas/ml são suficientes para a inibição essencialmente completa da hemólise intravascular mediada pelo complemento terminal em doentes com HPN. A administração de Soliris resultou numa redução rápida e sustentada da actividade hemolítica mediada pelo complemento.
+ Estudos Clínicos A segurança e eficácia de Soliris em doentes hemolíticos com HPN foram avaliadas num estudo aleatorizado, em dupla ocultação, controlado por placebo, com a duração de 26 semanas (C04-001). Os doentes com HPN foram também tratados com Soliris num estudo com um braço único de 52 semanas (C04-002) e num estudo de extensão de longa duração (E05-001). Os doentes receberam vacinação meningocócica antes de receberem Soliris. Em todos os estudos, a dose de Soliris foi de 600 mg do fármaco experimental todos os 7 ± 2 dias durante 4 semanas, a que se seguiram 900 mg 7 ± 2 dias mais tarde e, depois,900 mg todos os 14 ± 2 dias até ao final do estudo. O Soliris foi administrado por perfusão intravenosa com uma duração de 25 – 45 minutos.
+ No estudo C04-001 (TRIUMPH), foram incluídos doentes com HPN que tinham recebido pelo menos 4 transfusões nos 12 meses precedentes, com confirmação de pelo menos 10% de células HPN por citometria de fluxo e com contagens de plaquetas correspondentes a, pelo menos,100 000/microlitro. Os doentes foram distribuídos aleatoriamente pelo braço Soliris (n= 43) ou placebo (n= 44). Antes da distribuição, todos os doentes foram sujeitos a um período inicial de observação para confirmar a necessidade de transfusão de eritrócitos e para identificar a concentração de hemoglobina (o “ valor de referência ”) que iria definir a estabilização dos valores de hemoglobina e os resultados de transfusões. O valor de referência de hemoglobina era inferior ou igual a 9 g/dL em doentes sintomáticos e inferior ou igual a 7 g/dL em doentes assintomáticos. Os parâmetros de avaliação final da eficácia foram a estabilização da hemoglobina (doentes mantendo uma concentração de hemoglobina acima do valor de
+ 7 referência de hemoglobina evitando a necessidade de transfusão de eritrócitos durante o período total de 26 semanas) e a necessidade de transfusão de sangue. A fadiga e a qualidade de vida relacionada com aspectos de saúde foram parâmetros finais secundários relevantes. A hemólise foi monitorizada principalmente pela medição de níveis séricos de LDH e a proporção de eritrócitos HPN foi monitorizada por citometria de fluxo. Os doentes que recebiam anticoagulantes e corticosteróides sistémicos no início do tratamento continuaram a medicação. As principais características no início do estudo eram equilibradas (ver Quadro 2).
+ No estudo não controlado C04-002 (SHEPHERD), doentes com HPN que tinham recebido pelo menos uma transfusão nos 24 meses precedentes e apresentando, pelo menos,30 000 plaquetas/microlitro, receberam Soliris durante um período de 52 semanas. Medicamentos concomitantes incluíram agentes antitrombóticos em 63% dos doentes e corticosteróides sistémicos em 40% dos doentes. As características no início do estudo são apresentadas no Quadro 2.
+ Quadro 2: Dados demográficos e características dos doentes nos estudos C04-001 e C04-002
+ C04-001 C04-002 Parâmetro Placebo Soliris Soliris N= 44 N= 43 N= 97 Média de idades (DP) 38,4 (13,4) 42,1 (15,5) 41,1 (14,4) Sexo-Feminino (%) 29 (65,9) 23 (53,5) 49 (50,5) Antecedentes de anemia aplástica ou síndromes mielodisplásicas (SMD) (%)
+ 12 (27,3) 8 (18,7) 29 (29,9) Anticoagulantes concomitantes (%) 20 (45,5) 24 (55,8) 59 (61) Tratamentos concomitantes com esteróides/imunossupressores (%)
+ 16 (36,4)
+ 14 (32,6) 46 (47,4) Abandono do tratamento 10 2 1 Concentrados de eritrócitos nos 12 meses precedentes (mediana (Q1, Q3 ))
+ 17,0 (13,5, 25,0)
+ 18,0 (12,0, 24,0) 8,0 (4,0, 24, 0) 4
+ Nível médio de hemoglobina (g/dL) no ponto definido (DP)
+ 7,7 (0,75) 7,8 (0,79) N/A Níveis de LDH antes do tratamento (mediana, U/L)
+ 2 234,5 2 032,0 2 051,0 Hemoglobina livre no início do estudo (mediana, mg/dl)
+ 46,2 40,5 34,9 No estudo TRIUMPH, os doentes tratados com Soliris apresentaram uma redução significativa da hemólise (p &lt; 0,001) resultando numa melhora da anemia, indicada por um aumento da estabilização da hemoglobina e pela redução da necessidade de transfusões de eritrócitos, em comparação com os doentes tratados com placebo (ver Quadro 3). Estes efeitos foram observados nos doentes de cada um dos três níveis de transfusão de eritrócitos antes do estudo (4-14 unidades; 15-25 unidades; &gt; 25 unidades). Após 3 semanas de tratamento com Soliris, os doentes referiram menor fadiga e uma melhoria na qualidade de vida relacionada com aspectos de saúde. Devido ao tamanho da amostra e à duração do estudo, os efeitos de Soliris sobre acontecimentos trombóticos não puderam ser avaliados. No estudo SHEPHERD,96 dos 97 doentes incluídos completaram o estudo (um doente morreu na sequência de um acontecimento trombótico). Durante o período do tratamento, manteve-se uma redução na hemólise intravascular, medida pelos níveis séricos de LDH, a qual resultou no aumento da capacidade de evitar transfusões, numa redução da necessidade de transfusões de eritrócitos e numa redução da fadiga. (ver Quadro 3)
+ Quadro 3: Resultados de eficácia C04-001 e C04-002
+ 8
+ C04-001 C04-002* Placebo Soliris Valor P Soliris Valor P Percentagem de doentes com N= 44 N= 43 N= 97 níveis de hemoglobina estabilizados no final do estudo Concentrados de eritrócitos
+ 0,0 49 &lt; 0,001
+ N/D transfundidos durante o tratamento (mediana) Nenhuma necessidade de
+ 10 &lt; 0,001
+ 0,0 &lt; 0,001
+ transfusão durante o tratamento (%) Níveis da LDH no final do
+ 0,0 51 &lt; 0,001
+ 51 &lt; 0,001
+ estudo (mediana, U/L) AUC da LDH no final do estudo
+ 2.167 239 &lt; 0,001
+ 269 &lt; 0,001
+ (mediana, U/L x Dia) Hemoglobina livre no final do
+ 411.822 58.587 &lt; 0,001
+ -632.264
+ &lt; 0,001
+ estudo (mediana, mg/dl) FACIT-Fadiga (dimensão do
+ 62 5 &lt; 0,001
+ 5 &lt; 0,001
+ efeito)
+ 1,12 &lt; 0,001
+ 1,14 &lt; 0,001
+ * Os resultados do estudo C04-002 referem-se a comparações dos valores antes versus depois do tratamento.
+ Dos 195 doentes originários dos estudos C04-001, C04-002 e outros estudos iniciais, os doentes com HPN tratados com Soliris foram integrados num estudo de extensão de longo prazo (E05-001). Todos os doentes mantiveram uma redução da hemólise intravascular durante o período total de exposição a Soliris, que variou entre os 10 e os 54 meses. Observaram-se menos acontecimentos trombóticos com o tratamento com Soliris do que no mesmo período de tempo anterior ao tratamento. No entanto, esta observação foi demonstrada em ensaios clínicos não controlados.
+ 5.2 Propriedades farmacocinéticas Farmacocinética e metabolismo farmacológico
+ Metabolismo: Os anticorpos humanos são sujeitos à digestão endocítica nas células do sistema reticuloendotelial. O eculizumab contém apenas aminoácidos de ocorrência natural e não possui metabolitos activos conhecidos. Os anticorpos humanos são predominantemente catabolizados por enzimas lisossómicas em aminoácidos e péptidos pequenos.
+ Eliminação: Não foram realizados estudos específicos para avaliar as vias de excreção/eliminação hepática, renal, pulmonar ou gastrointestinal de Soliris. Em rins normais, os anticorpos não são excretados, sendo excluídos da filtração devido ao seu tamanho.
+ Parâmetros farmacocinéticos Em 40 doentes com HPN, utilizou-se um modelo de um compartimento para estimar os parâmetros farmacocinéticos após doses múltiplas. A depuração média foi de 0,31 ± 0,12 ml/hr/kg, o volume de distribuição foi de 110,3 ± 17,9 ml/kg, e a média da semi-vida de eliminação plasmática foi de 11,3 ± 3,4 dias. Com base nestes dados, prevê-se o estabelecimento de um estado estacionário em aproximadamente 49 – 56 dias.
+ 9 A actividade farmacodinâmica está directamente correlacionada com as concentrações séricas de eculizumab e a manutenção de níveis mínimos superiores a ≥ 35 microgramas/ml resulta num bloqueio essencialmente completo da actividade hemolítica na maior parte dos doentes.
+ Populações especiais Não foram efectuados estudos formais para avaliar a farmacocinética da administração de Soliris em populações especiais de doentes com base no sexo, raça, idade (doentes pediátricos ou geriátricos) ou insuficiência renal ou hepática.
+ 5.3 Dados de segurança pré-clínica A especificidade de eculizumab ao C5 no plasma humano foi avaliada em dois estudos in vitro.
+ A reactividade tecidular cruzada do eculizumab foi determinada por avaliação da ligação a um painel de 38 tecidos humanos. A expressão de C5 no painel de tecidos humanos analisado neste estudo é compatível com relatórios publicados sobre a expressão de C5, na medida em que este foi referido como estando presente nos músculos lisos, músculos estriados e epitélio tubular proximal renal. Não se observou qualquer reactividade tecidular cruzada inesperada.
+ Num estudo de toxicidade de 26 semanas realizado em ratinhos com um anticorpo de substituição direccionado contra C5 murino, o tratamento não afectou qualquer um dos parâmetros de toxicidade analisados. A actividade hemolítica no decorrer do estudo foi eficazmente bloqueada em ratinhos, tanto no macho como na fêmea.
+ Não foram efectuados estudos de reprodução com eculizumab em animais. Não se observaram quaisquer efeitos claramente relacionados com o tratamento nem quaisquer efeitos adversos nos estudos de toxicologia reprodutiva em ratinhos com um anticorpo de substituição inibidor do complemento terminal. Na exposição materna ao anticorpo durante a organogénese, foram observados dois casos de displasia retinal e um caso de hérnia umbilical entre as 230 crias nascidas de fêmeas expostas às doses mais elevadas de anticorpo (aproximadamente 4 vezes a dose máxima de Soliris recomendada em seres humanos com base numa comparação de peso corporal). No entanto, a exposição não aumentou a perda fetal nem a morte neonatal.
+ Não foram efectuados estudos em animais para avaliar o potencial genotóxico e carcinogénico de eculizumab ou o seu efeito na fertilidade.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Fosfato monossódico Fosfato de sódio dibásico Cloreto de sódio Polissorbato 80 Água para injectáveis
+ 6.2 Incompatibilidades Este medicamento não deve ser misturado com outros, excepto os mencionados na secção 6.6.
+ 6.3 Prazo de validade 30 meses. 10 Após diluição, o medicamento deve ser utilizado imediatamente. No entanto, a estabilidade química e física foi demonstrada durante um período de 24 horas a 2 – 8 °C.
+ 6.4 Precauções especiais de conservação
+ Conservar no frigorífico (2°C-8ºC). Não congelar. Conservar na embalagem de origem para proteger da luz.
+ 6.5 Natureza e conteúdo do recipiente Frasco para injectáveis com 30 ml de concentrado (vidro de Tipo I) com uma rolha (butilo siliconizado) e uma tampa (alumínio) com cápsula tipo flip-off (polipropileno).
+ 6.6 Precauções especiais de eliminação e manuseamento
+ Soliris deve ser administrado por um profissional de saúde. O tratamento com Soliris não pode ser iniciado sem a vacinação prévia contra Neisseria meningitidis pelo menos 2 semanas antes da primeira administração. Todos os doentes devem receber uma vacina meningocócica pelo menos duas semanas antes da primeira dose de Soliris (ver secção 4.4).
+ Antes da administração, a solução de Soliris deve ser inspeccionada visualmente para detecção de partículas e descoloração.
+ Instruções: A reconstituição e a diluição devem ser realizadas de acordo com as regras das boas práticas, em particular no que respeita à assepsia.
+ Retire a quantidade total de Soliris do(s) frasco(s) para injectáveis utilizando uma seringa estéril.
+ Transfira a dose recomendada para um saco de perfusão.
+ Dilua o Soliris para uma concentração final de 5 mg/ml, por adição no saco de perfusão de solução de cloreto de sódio a 0,9%, cloreto de sódio a 0,45% ou dextrose a 5% em água, como diluente. O volume final de uma solução diluída de 5 mg/ml é de 120 ml para doses de 600 mg ou 180 ml para doses de 900 mg. A solução deve ser transparente e incolor.
+ Agite suavemente o saco de perfusão contendo a solução diluída, de modo a garantir uma mistura completa do produto e do diluente.
+ Deixe a solução diluída aquecer até à temperatura ambiente antes da administração, por exposição ao ar ambiente.
+ Qualquer porção não utilizada remanescente num frasco deve ser eliminada, dado que o produto não contém conservantes.
+ Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Alexion Europe SAS 54-56 avenue Hoche 75008 Paris FRANÇA
+ 11 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/07/393/001 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 20 Junho 2007 10. DATA DA REVISÃO DO TEXTO 20 Junho 2007 &lt; Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu &gt;
+ 12 ANEXO II
+ A. FABRICANTES DA SUBSTÂNCIA ACTIVA DE ORIGEM BIOLÓGICA E TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 13 A. FABRICANTES DA SUBSTÂNCIA ACTIVA DE ORIGEM BIOLÓGICA E TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço dos fabricantes da substância activa de origem biológica
+ Lonza Biologics, Inc. 101 International Drive Pease International Tradeport Portsmouth, New Hampshire 03801 E. U. A.
+ Lonza Biologics, plc. 228 Bath Road Slough Berkshire SL1 4DX Reino Unido
+ Alexion Pharmaceuticals, Inc. 352 Knotter Drive Cheshire, Connecticut 06410 E. U. A.
+ Nome e endereço do fabricante responsável pela libertação do lote
+ Almac Pharma Services 22 Seagoe Industrial Estate Craigavon BT63 5QD Reino Unido
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento sujeito a receita médica restrita (ver anexo I: Resumo das Características do Medicamento, secção 4.2).
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO.
+ 1. O titular da AIM deverá acordar com as Autoridades Nacionais Competentes os detalhes de um sistema de distribuição e implementar esse programa a nível nacional, de modo a assegurar que:
+ a dispensa do medicamento apenas seja possível depois da verificação que o doente recebeu • efectivamente uma vacinação meningocócica com confirmação escrita. antes da dispensa, todos os profissionais de saúde estão na posse das informações sobre as • seguintes questões-chave de saúde:
+ Cefaleia o Reacção à perfusão o Infecções gerais e por Neisseria o Risco de hemólise grave na sequência de interrupção do tratamento com eculizumab e gestão o proposta
+ 14 Gravidez e necessidade de utilização de contracepção adequada por mulheres em idade fértil o Imunogenicidade o Insuficiência renal e hepática. o
+ 2. Antes do lançamento, o titular da AIM deverá concordar com a implementação de um sistema de cartões de doente em cada Estado-Membro. Este cartão do doente deverá providenciar detalhes dos sinais e sintomas de infecção, assim como instruções para o doente se dirigir imediatamente ao médico. O cartão deverá também fornecer informação aos profissionais de saúde de que o doente está a receber tratamento com Soliris.
+ 3. O titular da AIM deverá propor uma metodologia detalhada para os Profissionais de Saúde e a vigilância dos doentes. Para além da avaliação da satisfação com a informação sobre o eculizumab fornecida, o questionário proposto irá investigar outros métodos de avaliação da eficácia do programa de minimização do risco (por exemplo, estudos para determinar a adesão à vacinação). A avaliação dos objectivos da distribuição dos materiais educacionais deve também ser considerada.
+ • OUTRAS CONDIÇÕES
+ O titular da Autorização de Introdução no Mercado deverá assegurar que o sistema de farmacovigilância está implementado e em funcionamento antes de o produto ser introduzido no mercado e durante o tempo em que o produto comercializado permanecer em uso.
+ O titular da AIM compromete-se a executar os programas de estudo e as actividades adicionais de farmacovigilância detalhadas no Plano de Farmacovigilância. Deverá ser fornecido um Plano de Gestão de Riscos actualizado, em conformidade com a Directriz do CHMP relativa a Sistemas de Gestão de Riscos para medicamentos para uso humano.
+ 15 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 16 A. ROTULAGEM
+ 17 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO E NO ACONDICIONAMENTO PRIMÁRIO Embalagem de cartão
+ 1. DENOMINAÇÃO DO MEDICAMENTO Soliris 300 mg concentrado para solução para perfusão Eculizumab
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada frasco de 30 ml contém 300 mg de eculizumab (10 mg/ml)
+ O eculizumab é um anticorpo IgG2/4κ monoclonal humanizado produzido numa linha celular de NS0 por tecnologia de ADN recombinante.
+ Após diluição, a concentração final da solução para perfusão é de 5 mg/ml.
+ 3. LISTA DOS EXCIPIENTES Fosfato monossódico, fosfato de sódio dibásico, cloreto de sódio, polissorbato 80 e água para injectáveis.
+ Consultar o Folheto Informativo para mais informações.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Concentrado para solução para perfusão 1 x 30 ml (10 mg/ml)
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Para uso intravenoso. Diluir antes da utilização. Consultar o Folheto Informativo antes da utilização.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL.: Após diluição, o medicamento deve ser utilizado imediatamente, nas 24 horas seguintes. 18 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico (2°C – 8°C). Não congelar. Conservar na embalagem de origem para proteger da luz.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Titular da Autorização de Introdução no Mercado: Alexion Europe SAS 54-56 Avenue Hoche 75008 PARIS França
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/07/393/001 13. NÚMERO DO LOTE Lote: 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE A justificação para não incluir a informação em Braille foi aceite.
+ 19 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ Frasco para injectáveis de vidro de Tipo I de uso único
+ 1. DENOMINAÇÃO DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Soliris 300 mg concentrado para solução para perfusão Eculizumab Para uso intravenoso
+ 2. MODO DE ADMINISTRAÇÃO A diluir antes da utilização. Consultar o Folheto Informativo antes da utilização.
+ 3. PRAZO DE VALIDADE VAL.: 4. NÚMERO DO LOTE Lote 5. CONTEÚDO EM TERMOS DE PESO, VOLUME OU UNIDADE
+ 30 ml (10 mg/ml) 6. OUTRAS 20 B. FOLHETO INFORMATIVO
+ 21 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Soliris 300 mg concentrado para solução para perfusão Eculizumab
+ Leia atentamente este folheto antes de utilizar o medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é Soliris e para que é utilizado 2. Antes de utilizar Soliris 3. Como utilizar Soliris 4. Efeitos secundários possíveis 5. Como conservar Soliris 6. Outras informações
+ 1. O QUE É SOLIRIS E PARA QUE É UTILIZADO
+ A substância activa de Soliris é o eculizumab, que pertence a uma classe de medicamentos denominada anticorpos monoclonais. O eculizumab liga-se e inibe uma proteína específica do organismo que causa inflamação.
+ Soliris é utilizado para o tratamento de doentes com uma doença que afecta o sistema sanguíneo denominada Hemoglobinúria Paroxística Nocturna (HPN). Nos doentes com HPN, os seus glóbulos vermelhos podem ser destruídos, o que leva a valores baixos nas contagens de glóbulos vermelhos (anemia), fadiga, dificuldade de funcionamento, dor, urina escura, falta de ar e coágulos sanguíneos. O eculizumab pode bloquear a resposta inflamatória do organismo e a sua capacidade de atacar e destruir as suas próprias células sanguíneas vulneráveis HPN. Apenas existe experiência no tratamento de doentes com história prévia de transfusões.
+ 2. ANTES DE UTILIZAR SOLIRIS Não utilize Soliris -Se tem alergia (hipersensibilidade) ao eculizumab, a proteínas murinas, ou se teve alguma
+ reacção alérgica a outros anticorpos monoclonais ou a qualquer outro componente de Soliris (ver secção 6, Qual a composição de Soliris).
+ -Se não foi vacinado contra a meningite.
+ -Se tem meningite.
+ -Se tem uma doença que afecta o sistema imunitário.
+ Tome especial cuidado com Soliris Advertência relativa à meningite O tratamento com Soliris pode reduzir a resistência natural a infecções, sobretudo contra determinados organismos causadores de meningite.
+ Consulte o seu médico antes de tomar Soliris para ter a certeza de que é vacinado(a) contra a Neisseria meningitidis, um organismo que causa meningite, pelo menos 2 semanas antes de iniciar o tratamento, ou que a sua vacinação contra a meningite está actualizada. É necessário estar também ciente de que a
+ 22 vacinação pode não prevenir este tipo de infecção. De acordo com as recomendações nacionais, o seu médico poderá considerar que necessita de medidas suplementares para prevenir a infecção.
+ Sintomas da meningite Dada a importância da rapidez na identificação e no tratamento de determinados tipos de infecção em doentes que recebem Soliris, ser-lhe-á fornecido um cartão, que terá de ter sempre consigo, com uma listagem dos sintomas de desencadeamento específicos. Este cartão chama-se “ Cartão de Segurança do Doente ”.
+ Se for afectado(a) por algum dos seguintes sintomas, deve informar de imediato o seu médico:
+ -dores de cabeça incomodativas com náuseas ou vómitos;
+ -dores de cabeça incomodativas com rigidez no pescoço ou nas costas;
+ -febre;
+ -febre e irritação cutânea;
+ -confusão;
+ -dores musculares fortes associadas a sintomas do tipo gripal;
+ -sensibilidade à luz.
+ Tratamento para a meningite em viagem Se estiver a viajar numa região remota, onde não lhe seja possível contactar o seu médico ou onde se encontre temporariamente impossibilitado(a) de receber tratamento médico, o seu médico pode tomar providências no sentido de passar uma receita, como medida de prevenção, para um antibiótico que combata a Neisseria meningitidis e que deve levar consigo. Se for afectado(a) por algum dos sintomas acima referidos, tome um comprimido do antibiótico. Tenha em mente que deve consultar um médico logo que possível, mesmo que se sinta melhor depois de ter tomado os comprimidos de antibiótico.
+ Infecções Informe o seu médico antes de tomar Soliris se sofrer de quaisquer infecções.
+ Reacções alérgicas Soliris contém uma proteína e as proteínas podem causar reacções alérgicas em algumas pessoas.
+ Utilizar Soliris com outros medicamentos Informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica.
+ Utilizar Soliris com alimentos e bebidas Interacções entre o tratamento com Soliris e alimentos ou bebidas são pouco prováveis.
+ Mulheres em idade fértil As mulheres que possam engravidar deverão utilizar um método contraceptivo eficaz durante e até 5 meses depois do tratamento.
+ Gravidez e aleitamento Consulte o seu médico ou farmacêutico antes de usar qualquer medicamento.
+ Gravidez Antes de iniciar o tratamento com Soliris, informe o seu médico se estiver grávida ou se planear engravidar. Soliris não é recomendado durante a gravidez.
+ Aleitamento Soliris pode passar através do leite materno para o bebé. Por esse motivo, não deve amamentar enquanto estiver a utilizar Soliris.
+ Condução de veículos e utilização de máquinas 23 Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas. Tal como acontece com todos os medicamentos, deve procurar aconselhamento junto do seu médico.
+ Idosos Não existem provas que sugiram a necessidade de precauções especiais quando se procede ao tratamento de pessoas idosas (com 65 ou mais anos de idade), embora a experiência ainda seja limitada.
+ Crianças e adolescentes Soliris não foi administrado a doentes com menos de 18 anos de idade.
+ Informações importantes sobre alguns componentes de Soliris Este medicamento contém 5,00 mmol de sódio por dose (1 frasco para injectáveis). Este facto deve ser tomado em consideração pelos doentes sujeitos a uma dieta com restrição de sódio.
+ 3. COMO UTILIZAR SOLIRIS Antes de iniciar o tratamento, o seu médico discutirá consigo a importância de:
+ -receber uma vacina contra a meningite,
+ -se familiarizar com os sintomas associados a infecções, e
+ -ser cuidadosamente vigiado(a) pelo seu médico após eventual abandono do tratamento com
+ Soliris.
+ Pelo menos 14 dias antes de iniciar o tratamento com Soliris, o seu médico administrará uma vacina contra a meningite, se esta não lhe tiver sido previamente administrada ou se o prazo da sua vacinação tiver sido ultrapassado.
+ Instruções para um uso adequado O tratamento será administrado pelo seu médico ou outro prestador de cuidados de saúde através da perfusão de uma diluição do frasco de Soliris a partir de um saco de perfusão, por meio de um tubo, directamente para uma das suas veias. É aconselhável que o início dos seus tratamentos, a chamada fase inicial, se prolongue por 5 semanas e que seja seguida por uma fase de manutenção. Fase inicial • Todas as semanas, ao longo das quatro primeiras semanas, o seu médico administrará uma perfusão intravenosa de Soliris diluído. Cada perfusão consistirá numa dose de 600 mg (2 frascos de 30 ml) e demorará cerca de 30 minutos. • Na quinta semana, o seu médico administrará uma perfusão intravenosa de Soliris diluído numa dose de 900 mg (3 frascos de 30 ml) ao longo de um período de 30 minutos.
+ Fase de manutenção • Após a quinta semana, o seu médico administrará 900 mg de Soliris diluído, de duas em duas semanas, sob a forma de um tratamento a longo prazo.
+ Após cada perfusão, ficará em observação durante cerca de uma hora. As instruções do seu médico devem ser cuidadosamente seguidas.
+ Se receber mais Soliris do que deveria Caso suspeite de que lhe foi administrada acidentalmente uma dose de Soliris superior à prescrita, consulte o seu médico.
+ Caso se tenha esquecido de uma consulta para receber Soliris Caso se esqueça de uma consulta, contacte de imediato o seu médico e consulte a secção abaixo “ Se parar de utilizar Soliris ”.
+ Se parar de utilizar Soliris 24 A interrupção ou a finalização do tratamento com Soliris pode provocar um retorno dos sintomas de HPN, com maior gravidade, pouco depois da interrupção do tratamento com Soliris. Se suspender o tratamento com Soliris, o seu médico discutirá consigo os possíveis efeitos secundários e explicará os riscos. O seu médico continuará a monitorizá-lo(a) de perto.
+ Os riscos da suspensão do tratamento com Soliris incluem um aumento da destruição dos glóbulos vermelhos, o que pode causar:
+ -uma diminuição significativa das contagens de glóbulos vermelhos (anemia),
+ -uma sensação de confusão ou de letargia,
+ -dor torácica ou angina do peito,
+ -um aumento do nível de creatina sérica (problemas com os rins), ou
+ -trombose (coagulação sanguínea).
+ Caso apresente quaisquer destes sintomas, contacte o seu médico.
+ Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou farmacêutico.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como os demais medicamentos, Soliris pode causar efeitos secundários. No entanto, estes não se manifestam em todas as pessoas. Os efeitos secundários de Soliris são habitualmente ligeiros a moderados. O seu médico discutirá consigo os efeitos secundários possíveis e explicará os riscos e benefícios de Soliris antes do tratamento.
+ Se tiver dúvidas sobre o significado dos efeitos secundários abaixo indicados, peça ao seu médico que lhe dê uma explicação.
+ Efeitos secundários muito frequentes (susceptíveis de afectarem mais de 1 em cada 10 doentes) incluem: corrimento nasal ou dores de garganta, infecção do tracto urinário (infecção da bexiga), dores de cabeça, tonturas, náuseas, diarreia, dor de costas, dor nas articulações, febre e hematomas (nódoas negras).
+ Efeitos secundários frequentes (susceptíveis de afectarem 5 ou mais doentes em cada 100 e menos de 10 doentes em cada 100) incluem: herpes simplex, sinusite, infecção viral, gastroenterite, infecção pulmonar, insónia, tosse, dores de garganta, hemorragias nasais, dor abdominal, obstipação, vómitos, dor abdominal superior (dor de estômago), prurido cutâneo (comichão na pele), erupção cutânea, dores musculares, dor nos membros (braços e pernas), cãibras musculares, fadiga e doença do tipo gripal.
+ Se algum destes efeitos secundários se tornar grave, ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe de imediato o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR SOLIRIS Manter fora do alcance das crianças. Conservar no frigorífico (2°C-8ºC). Não congelar. Conservar na embalagem de origem para proteger da luz. Não utilize Soliris após expiração o prazo de validade impresso no rótulo a seguir a “ VAL. ”. Após a diluição, o produto deve ser utilizado imediatamente, nas 24 horas subsequentes.
+ 6. OUTRAS INFORMAÇÕES 25 Qual a composição de Soliris
+ A substância activa é eculizumab (300 mg/30 ml num frasco, correspondentes a uma concentração de 10 mg/ml).
+ Os outros componentes são: -fosfato monossódico
+ -fosfato de sódio dibásico
+ -cloreto de sódio
+ -polissorbato 80 (origem vegetal)
+ Solvente: água para injectáveis Qual o aspecto de Soliris e conteúdo da embalagem Soliris é apresentado na forma de concentrado para solução para perfusão (30 ml num frasco – embalagem com 1 frasco). Soliris é uma solução transparente e incolor.
+ Titular da Autorização de Introdução no Mercado e Fabricante
+ Titular da Autorização de Introdução no Mercado Alexion Europe SAS 54-56 Avenue Hoche 75008 Paris Tel: +33 (0) 1 56 60 52 18 França
+ Fabricante Almac Pharma Service Seagoe Industrial Estate Craigavon BT63 5QD Reino Unido
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do titular da Autorização de Introdução no Mercado:
+ België/Belgique/Belgien Alexion Pharma France 56 avenue Hoche 75008 Paris France
+ Luxembourg/Luxemburg Alexion Pharma France 56 avenue Hoche 75008 Paris France
+ Tél/Tel: +33 (0) 1 56 60 52 18 alexion. france@ alxn. com
+ Tél/Tel: +33 (0) 1 56 60 52 18 alexion. france@ alxn. com
+ България Alexion Pharma France 56 avenue Hoche 75008 Paris Франция
+ Magyarország Alexion Pharma France 56 avenue Hoche 75008 Paris Franciaország
+ Teл.: +33 (0) 1 56 60 52 18 alexion. france@ alxn. com
+ Tel: +33 (0) 1 56 60 52 18 alexion. france@ alxn. com
+ Česká republika Alexion Pharma France 56 avenue Hoche 75008 Paris Francie
+ Malta Alexion Pharma France 56 avenue Hoche 75008 Paris Franza
+ 26 Tel: +33 (0) 1 56 60 52 18 Tel: +33 (0) 1 56 60 52 18 alexion. france@ alxn. com
+ alexion. france@ alxn. com
+ Danmark Alexion Pharma France 56 avenue Hoche 75008 Paris Frankrig
+ Nederland Alexion Pharma France 56 avenue Hoche 75008 Paris Frankrijk
+ Tlf: +33 (0) 1 56 60 52 18 alexion. france@ alxn. com
+ Tel: +33 (0) 1 56 60 52 18 alexion. france@ alxn. com
+ Deutschland Alexion Pharma Germany Landsberger Strasse 155 80687 Munich Deutschland
+ Norge Alexion Pharma France 56 avenue Hoche 75008 Paris Frankrike Tlf: +33 (0) 1 56 60 52 18
+ Tel: +49 89 57 95 96 41 alexion. germany@ alxn. com
+ alexion. france@ alxn. com
+ Eesti Österreich Alexion Pharma France 56 avenue Hoche 75008 Paris Prantsusmaa Tel: +33 (0) 1 56 60 52 18
+ Alexion Pharma Germany Landsberger Strasse 155 80687 Munich Deutschland
+ alexion. france@ alxn. com
+ Tel: +49 89 57 95 96 41 alexion. germany@ alxn. com
+ Ελλάδα Alexion Pharma France 56 avenue Hoche 75008 Paris Γαλλία
+ Polska Alexion Pharma France 56 avenue Hoche 75008 Paris Francja
+ Τηλ: +33 (0) 1 56 60 52 18 alexion. france@ alxn. com
+ Tel: +33 (0) 1 56 60 52 18 alexion. france@ alxn. com
+ España Alexion Pharma Spain World Trade Center Edificio Sur-2a Planta Muelle de Barcelona Barcelona 08039 España
+ Portugal Alexion Pharma Spain World Trade Center Edificio Sur-2a Planta Muelle de Barcelona Barcelona 08039 Espanha
+ Tel: +34 93 344 32 61 alexion. spain@ alxn. com
+ Tel: +34 93 344 32 61 alexion. spain@ alxn. com
+ 27 France Alexion Pharma France 56 avenue Hoche 75008 Paris France
+ România Alexion Pharma France 56 avenue Hoche 75008 Paris Franţa
+ Tel: +33 (0) 1 56 60 52 18 alexion. france@ alxn. com
+ Tel: +33 (0) 1 56 60 52 18 alexion. france@ alxn. com
+ Ireland Alexion Pharma UK 3000 Cathedral Hill Guildford Surrey GU2 7YB
+ Slovenija Alexion Pharma France 56 avenue Hoche 75008 Paris Francija
+ UK Tel: +44 (0) 1 483 24 6641 alexion. uk@ alxn. com
+ Tel: +33 (0) 1 56 60 52 18 alexion. france@ alxn. com
+ Ísland Alexion Pharma France 56 avenue Hoche 75008 Paris Frakkland
+ Slovenská republika Alexion Pharma France 56 avenue Hoche 75008 Paris Francúzsko
+ Sími: +33 (0) 1 56 60 52 18 alexion. france@ alxn. com
+ Tel: +33 (0) 1 56 60 52 18 alexion. france@ alxn. com
+ Italia Alexion Pharma Italy Via Monte di Pieta 21 Milan 20121 Italia
+ Suomi/Finland Alexion Pharma France 56 avenue Hoche 75008 Paris Ranska Puh/Tel: +33 (0) 1 56 60 52 18
+ Tel: +39 02 86 337 325 alexion. italy@ alxn. com
+ alexion. france@ alxn. com
+ Κύπρος Alexion Pharma France 56 avenue Hoche 75008 Paris Γαλλία
+ Sverige Alexion Pharma France 56 avenue Hoche 75008 Paris Frankrike
+ Τηλ: +33 (0) 1 56 60 52 18 alexion. france@ alxn. com
+ Tel: +33 (0) 1 56 60 52 18 alexion. france@ alxn. com
+ Latvija Alexion Pharma France 56 avenue Hoche 75008 Paris Francija
+ United Kingdom Alexion Pharma UK 3000 Cathedral Hill Guildford Surrey GU2 7YB
+ Tel: +33 (0) 1 56 60 52 18 alexion. france@ alxn. com
+ UK Tel: +44 (0) 1 483 24 6641 alexion. uk@ alxn. com
+ Lietuva Alexion Pharma France 28 56 avenue Hoche 75008 Paris Prancūzija
+ Tel: +33 (0) 1 56 60 52 18 alexion. france@ alxn. com
+ Este folheto foi aprovado pela última vez em Junho 2007.
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA): http: //www. emea. europa. eu. Também existem links para outros sites sobre doenças raras e tratamentos.
+ 29 ----------------------------------------------------------------------------------------------------------------------------------
+ Instruções de utilização para profissionais de saúde Manuseamento de Soliris
+ A informação que se segue destina-se apenas aos médicos e aos profissionais de saúde.
+ 1-Como é apresentado Soliris? Cada frasco de Soliris contém 300 mg da substância activa em 30 ml de solução do produto.
+ 2-Antes da administração A reconstituição e a diluição devem ser realizadas de acordo com as regras das boas práticas, em particular no que respeita à assepsia. Soliris deve ser preparado para administração por um profissional de saúde qualificado utilizando técnica asséptica. • Inspeccione visualmente a solução de Soliris para a detecção de partículas e descoloração. • Retire a quantidade necessária de Soliris do(s) frasco(s) utilizando uma seringa estéril. • Transfira a dose recomendada para um saco de perfusão. • Dilua Soliris para uma concentração final de 5 mg/ml (concentração inicial dividida por 2) adicionando a quantidade adequada de diluente ao saco de perfusão. Para doses de 600 mg, use 60 ml de Soliris (10 mg/ml) e adicione o mesmo volume de diluente. Para 900 mg, use 90 ml de Soliris e adicione 90 ml de diluente. O volume final de uma solução diluída com 5 mg/ml de Soliris é de 120 ml para doses de 600 mg ou 180 ml para doses de 900 mg. Os Diluentes são cloreto de sódio a 0,9%, cloreto de sódio a 0,45% ou dextrose a 5% em água. • Agite suavemente o saco de perfusão contendo a solução diluída de Soliris de modo a garantir uma mistura completa do medicamento e do diluente. • Elimine qualquer porção não utilizada deixada no frasco, na medida em que o medicamento não contém conservantes. • As soluções diluídas de Soliris podem ser conservadas a 2°C-8°C por um período máximo de 24 horas antes da administração.
+ 3-Administração • Não administre Soliris como uma injecção intravenosa rápida ou bólus • Soliris só deve ser administrado por perfusão intravenosa e deve ser diluído numa concentração final de 5 mg/ml antes da administração. As soluções diluídas de Soliris são estáveis durante 24 horas a 2°C-8°C. Antes da administração, deixe a solução diluída aquecer até à temperatura ambiente por exposição ao ar ambiente. A solução diluída não pode ser aquecida num microondas, nem com qualquer outra fonte de calor, exceptuando a temperatura do ar ambiente. • A solução diluída de Soliris deve ser administrada por perfusão intravenosa durante 25 a 45 minutos, por linha intravenosa, uma bomba tipo seringa ou uma bomba de perfusão. Não é necessário proteger a solução diluída de Soliris da luz durante a administração ao doente. O doente deve ficar sob observação durante uma hora após a perfusão. No caso da ocorrência de um acontecimento adverso durante a administração de Soliris, a perfusão pode ser abrandada ou interrompida segundo o critério do médico. No caso de diminuição da velocidade da perfusão, o tempo total de administração não pode exceder duas horas.
+ 4-Instruções especiais de manuseamento e conservação Os frascos de Soliris devem ser guardados na embalagem original até ao momento da sua utilização, em condições de refrigeração a 2°C-8°C e ao abrigo da luz. Não utilize após o prazo de validade impresso na embalagem exterior.
+ 30

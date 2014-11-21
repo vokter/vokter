@@ -1,0 +1,776 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. NOME DO MEDICAMENTO
+ Atripla 600 mg/200 mg/245 mg comprimidos revestidos por película
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada comprimido revestido por película contém 600 mg de efavirenz,200 mg de emtricitabina e 245 mg de tenofovir disoproxil (sob a forma de fumarato).
+ Excipiente(s): Cada comprimido revestido por película contém 1 mmol (23,6 mg) de sódio.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Comprimido revestido por película. Comprimido revestido por película, cor-de-rosa, em forma de cápsula, impresso num lado com “ 123 ”, liso no outro lado.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Atripla é uma associação de doses fixas de efavirenz, emtricitabina e tenofovir disoproxil fumarato. É indicado para o tratamento de adultos infectados pelo vírus da imunodeficiência humana do tipo 1 (VIH-1) com níveis de ARN VIH-1 &lt; 50 cópias/ml (em supressão virológica) há mais de três meses na sua actual terapêutica anti-retroviral combinada. Os doentes não podem ter tido falência virológica em qualquer terapêutica anti-retroviral prévia e tem de ser conhecido que não apresentaram estirpes virais com mutações conhecidas que confiram resistência significativa a qualquer um dos três componentes de Atripla antes do início do seu primeiro regime terapêutico anti-retroviral (ver secções 4.4 e 5.1).
+ A demonstração do benefício de Atripla é principalmente baseada em dados de 48 semanas de um estudo clínico, no qual doentes com supressão virológica estável em terapêutica anti-retroviral combinada mudaram para Atripla (ver secção 5.1). Presentemente, não existem dados disponíveis de estudos clínicos com Atripla em doentes sem terapêutica anti-retroviral prévia ou em doentes tratados previamente de forma intensa.
+ Não existem dados que apoiem a associação de Atripla com outros medicamentos anti-retrovirais.
+ 4.2 Posologia e modo de administração A terapêutica deve ser iniciada por um médico com experiência no tratamento da infecção pelo vírus da imunodeficiência humana (VIH).
+ Posologia Adultos: a dose recomendada de Atripla é um comprimido, tomado por via oral, uma vez por dia.
+ Modo de administração Recomenda-se que Atripla seja engolido inteiro com água.
+ 2 Recomenda-se que Atripla seja tomado com o estômago vazio, dado que os alimentos podem aumentar a exposição ao efavirenz e podem conduzir a um aumento da frequência de reacções adversas (ver secções 4.4 e 4.8). Por forma a melhorar a tolerabilidade ao efavirenz no que respeita aos efeitos indesejáveis ao nível do sistema nervoso, recomenda-se a administração ao deitar (ver secção 4.8).
+ Prevê-se que a exposição ao tenofovir diminua em aproximadamente 35% após administração de Atripla num estômago vazio, em comparação com o componente individual tenofovir disoproxil fumarato, quando tomado com alimentos (ver secção 5.2). Em doentes com supressão virológica, pode esperar-se que a relevância clínica desta diminuição seja limitada (ver secção 5.1). Aguardam-se dados adicionais sobre a tradução clínica da diminuição na exposição farmacocinética.
+ Crianças e adolescentes: Atripla não é recomendado em crianças com idade inferior a 18 anos devido à ausência de dados de segurança e eficácia.
+ Idosos: em estudos clínicos sobre os componentes de Atripla foi avaliado um número insuficiente de doentes idosos para determinar se estes respondem de maneira diferente em relação aos doentes mais jovens. Deverá exercer-se precaução ao prescrever Atripla a idosos, tendo em conta a maior frequência da função renal ou hepática diminuída nestes doentes.
+ Ajuste da dose: se Atripla for co-administrado com rifampicina, recomenda-se uma dose adicional de 200 mg/dia (800 mg no total) de efavirenz (ver secção 4.5).
+ Insuficiência renal: Atripla não é recomendado em doentes com compromisso renal moderado ou grave (depuração da creatinina (ClCr) &lt; 50 ml/min). Os doentes com compromisso renal moderado ou grave requerem um ajuste do intervalo entre doses de emtricitabina e tenofovir disoproxil fumarato que não pode ser obtido com a associação num comprimido (ver secções 4.4 e 5.2).
+ Compromisso hepático: a farmacocinética de Atripla não foi estudada em doentes com compromisso hepático. Os doentes com doença hepática ligeira a moderada (Child-Pugh-Turcotte (CPT), Grau A ou B) podem ser tratados com a dose de Atripla que é recomendada normalmente (ver secções 4.3, 4.4 e 5.2). Os doentes devem ser cuidadosamente monitorizados em relação a reacções adversas, especialmente sintomas ao nível do sistema nervoso relacionados com o efavirenz (ver secções 4.3 e 4.4).
+ Em caso de interrupção do tratamento com Atripla em doentes co-infectados com VIH e VHB, estes doentes devem ser cuidadosamente monitorizados para detectar evidências de exacerbação de hepatite (ver secção 4.4).
+ É importante tomar Atripla com base num plano de tomas regular para evitar doses em falta. Os doentes devem ser informados de que, no caso de se esquecerem de tomar Atripla, devem tomar imediatamente a dose em falta, a não ser que faltem menos de 12 horas para a dose do dia seguinte. Neste caso, deve informar-se os doentes de que não podem tomar a dose em falta e devem tomar a dose seguinte à hora habitual.
+ Quando estiver indicada a interrupção terapêutica com um dos componentes de Atripla ou quando for necessário uma modificação da dose, estão disponíveis as formulações separadas de efavirenz, emtricitabina e tenofovir disoproxil fumarato. Por favor consulte o Resumo das Características do Medicamento destes mesmos medicamentos.
+ Se a terapêutica com Atripla for interrompida, deve ter-se em consideração o tempo de semi-vida prolongado de efavirenz (ver secção 5.2) e os tempos de semi-vida intracelular prolongados de tenofovir e emtricitabina. Devido à variabilidade destes parâmetros entre doentes e às preocupações relativas ao desenvolvimento de resistência, devem consultar-se as normas orientadoras para o tratamento do VIH, tendo também em consideração a razão da interrupção.
+ 3 4.3 Contra-indicações
+ Hipersensibilidade às substâncias activas ou a qualquer um dos excipientes.
+ Atripla não pode ser usado em doentes com compromisso hepático grave (CPT, Grau C) (ver secção 5.2).
+ Atripla não pode ser administrado concomitantemente com terfenadina, astemizol, cisaprida, midazolam, triazolam, pimozida, bepridilo ou alcalóides da cravagem de centeio (por exemplo, ergotamina, di-hidroergotamina, ergonovina e metilergonovina), porque a competição em relação ao citocromo P450 (CYP) 3A4 pelo efavirenz pode causar a inibição do metabolismo e criar um potencial para o aparecimento de efeitos indesejáveis graves e/ou que podem acarretar risco de vida (por exemplo, arritmias cardíacas, sedação prolongada ou depressão respiratória) (ver secção 4.5).
+ As preparações de plantas medicinais que contenham hipericão (Hypericum perforatum) não podem ser usadas enquanto se está a tomar Atripla devido ao risco de redução das concentrações plasmáticas e dos efeitos clínicos do efavirenz (ver secção 4.5).
+ O efavirenz diminui significativamente as concentrações plasmáticas do voriconazol, sendo que o voriconazol também aumenta significativamente as concentrações plasmáticas de efavirenz. Como Atripla é um medicamento de associação de doses fixas, a dose de efavirenz não pode ser alterada. Por conseguinte, voriconazol e Atripla não devem ser co-administrados (ver secção 4.5).
+ 4.4 Advertências e precauções especiais de utilização
+ Gerais: como associação fixa, Atripla não deve ser administrado concomitantemente com outros medicamentos que contenham qualquer um dos componentes activos, efavirenz, emtricitabina ou tenofovir disoproxil fumarato. Devido a semelhanças com a emtricitabina, Atripla não deve ser administrado concomitantemente com outros análogos da citidina, como a lamivudina (ver secção 4.5). Atripla não deve ser administrado concomitantemente com adefovir dipivoxil.
+ Os dados actualmente disponíveis indicam uma tendência que, em doentes num regime anti-retroviral baseado em PIs, a mudança para Atripla pode originar uma redução da resposta à terapêutica (ver secção 5.1). Estes doentes devem ser cuidadosamente monitorizados para aumentos da carga viral e, uma vez que o perfil de segurança do efavirenz difere daquele dos inibidores da protease, em relação a reacções adversas.
+ Acidose láctica: foi notificada acidose láctica, geralmente associada a esteatose hepática, com a utilização de análogos nucleosídeos. Os sintomas precoces (hiperlactatemia sintomática) incluem sintomas digestivos benignos (náuseas, vómitos e dor abdominal), mal-estar geral, anorexia, perda de peso, sintomas respiratórios (respiração rápida e/ou profunda) ou sintomas neurológicos (incluindo fraqueza motora). A acidose láctica apresenta uma elevada mortalidade e pode estar associada a pancreatite, insuficiência hepática ou insuficiência renal. A acidose láctica ocorreu, de uma maneira geral, após alguns ou vários meses de tratamento.
+ O tratamento com análogos nucleosídeos tem de ser interrompido se houver hiperlactatemia sintomática e acidose metabólica/láctica, hepatomegália progressiva ou aumento rápido dos níveis séricos de aminotransferases.
+ Deve-se ter especial cuidado quando se administram análogos dos nucleosídeos a qualquer doente (sobretudo mulheres obesas) com hepatomegália, hepatite ou outros factores de risco conhecidos para doença hepática e esteatose hepática (incluindo determinados medicamentos e álcool). A co-infecção com hepatite C e o tratamento com interferão alfa e ribavirina podem constituir um risco especial.
+ Doentes com risco acrescido têm de ser cuidadosamente monitorizados.
+ 4 Infecções oportunistas: os doentes em tratamento com Atripla ou qualquer outra terapêutica anti-retroviral podem continuar a desenvolver infecções oportunistas e outras complicações da infecção pelo VIH e, por conseguinte, devem permanecer sob observação clínica cuidadosa de médicos com experiência no tratamento de doentes com doenças associadas ao VIH.
+ Transmissão de VIH: os doentes têm de ser informados que as terapêuticas anti-retrovirais, incluindo Atripla, não provaram prevenir o risco de transmissão de VIH a outros, através de contacto sexual ou contaminação sanguínea. Terão de continuar a ser utilizadas as precauções adequadas.
+ Doença hepática: a farmacocinética, a segurança e a eficácia de Atripla não foram estabelecidas em doentes com doenças hepáticas significativas subjacentes (ver secção 5.2). Atripla está contra-indicado em doentes com compromisso hepático grave (ver secção 4.3). Uma vez que efavirenz é metabolizado principalmente pelo sistema do citocromo P450 (CYP450), devem ser tomadas precauções ao administrar-se Atripla a doentes com doença hepática ligeira a moderada. Estes doentes devem ser cuidadosamente monitorizados em relação a reacções adversas com efavirenz, especialmente sintomas ao nível do sistema nervoso. Devem realizar-se testes laboratoriais para avaliar a sua doença hepática a intervalos periódicos (ver secção 4.2).
+ Os doentes com disfunção hepática preexistente, incluindo hepatite crónica activa, têm uma frequência aumentada de alterações da função hepática durante a terapêutica anti-retroviral combinada e devem ser monitorizados de acordo com a prática clínica. Se houver evidência de agravamento da doença hepática ou de elevações persistentes das transaminases séricas para um valor superior a 5 vezes o limite superior do intervalo normal, o benefício da continuação da terapêutica com Atripla necessita ser ponderado relativamente aos potenciais riscos de toxicidade hepática significativa. Nestes doentes, tem de considerar-se a interrupção ou a paragem do tratamento (ver secção 4.8).
+ Em doentes tratados com outros medicamentos associados a toxicidade hepática é também recomendada a monitorização das enzimas hepáticas.
+ Doentes co-infectados com VIH e vírus da hepatite B (VHB) ou C (VHC): os doentes com hepatite crónica B ou C e em tratamento com terapêutica anti-retroviral combinada têm um risco acrescido de sofrerem reacções adversas hepáticas graves e potencialmente fatais.
+ Os médicos deverão consultar as normas orientadoras actuais para o tratamento do VIH para um melhor tratamento da infecção pelo VIH em doentes co-infectados com o VHB.
+ No caso de terapêutica antiviral concomitante para a hepatite B ou C, por favor consulte também o Resumo das Características do Medicamento destes medicamentos.
+ A segurança e a eficácia de Atripla não foram estudadas para o tratamento da infecção crónica pelo VHB. A emtricitabina e o tenofovir individualmente e em associação têm demonstrado actividade contra o VHB em estudos farmacodinâmicos (ver secção 5.1). Experiência clínica limitada sugere que a emtricitabina e o tenofovir disoproxil fumarato têm uma actividade anti-VHB quando utilizados em terapêutica anti-retroviral combinada para controlar a infecção pelo VIH. A interrupção do tratamento com Atripla em doentes co-infectados com VIH e VHB pode estar associada a exacerbações agudas graves de hepatite. Os doentes co-infectados com VIH e VHB que interrompem o tratamento com Atripla, têm de ser cuidadosamente monitorizados clínica e laboratorialmente durante, pelo menos, quatro meses após a paragem do tratamento com Atripla. Se apropriado, pode justificar-se o recomeço do tratamento da hepatite B. Em doentes com doença hepática avançada ou cirrose, a interrupção do tratamento não é recomendada, uma vez que a exacerbação da hepatite após o tratamento pode dar origem a uma descompensação hepática.
+ Sintomas psiquiátricos: foram notificadas reacções adversas psiquiátricas em doentes tratados com efavirenz. Os doentes com antecedentes de perturbações psiquiátricas parecem apresentar um risco maior destas reacções adversas psiquiátricas graves. Em particular, a depressão grave foi mais frequente nos doentes com antecedentes de depressão. Houve também notificações, na pós-comercialização, de depressão grave, morte por suicídio, delírio e comportamento mimetizando
+ 5 psicose. Os doentes devem ser avisados de que, no caso de experimentarem sintomas como depressão grave, psicose ou ideação de suicídio, deverão contactar o seu médico imediatamente para avaliar a possibilidade dos sintomas poderem estar relacionados com a utilização do efavirenz, e, nesse caso, determinar se os riscos de terapêutica continuada ultrapassam os benefícios (ver secção 4.8).
+ Sintomas ao nível do sistema nervoso: são frequentemente notificados como efeitos indesejáveis sintomas que não se limitam a, mas incluem, tonturas, insónia, sonolência, incapacidade de concentração e sonhos anormais em doentes que receberam 600 mg de efavirenz por dia em estudos clínicos. Também foram observadas tonturas em estudos clínicos com emtricitabina e tenofovir disoproxil fumarato. Foram notificadas cefaleias em estudos clínicos com emtricitabina (ver secção 4.8). Os sintomas ao nível do sistema nervoso associados ao efavirenz iniciam-se normalmente no primeiro ou nos dois primeiros dias de tratamento e desaparecem normalmente durante as primeiras duas a quatro semanas. Os doentes devem ser informados de que, no caso da ocorrência destes sintomas frequentes, é provável que os mesmos melhorem com a continuação do tratamento e não indiciam o desencadeamento subsequente de qualquer um dos sintomas psiquiátricos menos frequentes.
+ Crises convulsivas: foram observadas convulsões em doentes a tomar efavirenz, geralmente na presença de uma história clínica conhecida de crises convulsivas. Os doentes que estejam concomitantemente a tomar medicamentos anticonvulsivantes principalmente metabolizados pelo fígado, como a fenitoína, carbamazepina e o fenobarbital, podem requerer monitorização periódica dos níveis plasmáticos. Num estudo sobre interacções medicamentosas, as concentrações plasmáticas de carbamazepina diminuíram quando a carbamazepina foi co-administrada com efavirenz (ver secção 4.5). Tem de se ter precaução com qualquer doente com antecedentes de crises convulsivas.
+ Compromisso renal: Atripla não é recomendado em doentes com compromisso renal moderado ou grave. Os doentes com compromisso renal moderado ou grave requerem um ajuste da dose de emtricitabina e de tenofovir disoproxil fumarato que não pode ser obtido com a associação num comprimido (ver secções 4.2 e 5.2). A utilização de Atripla deve ser evitada concomitantemente ou pouco tempo após a utilização de medicamentos nefrotóxicos. Se a utilização concomitante de Atripla e de medicamentos nefrotóxicos (por exemplo, aminoglicosídeos, anfotericina B, foscarneto, ganciclovir, pentamidina, vancomicina, cidofovir, interleucina-2) for inevitável, a função renal tem de ser monitorizada semanalmente (ver secção 4.5).
+ Com a utilização de tenofovir disoproxil fumarato na prática clínica, têm sido notificadas falência renal, compromisso renal, creatinina elevada, hipofosfatemia e tubulopatia proximal (incluindo síndrome de Fanconi) (ver secção 4.8).
+ Recomenda-se que a depuração da creatinina seja calculada em todos os doentes antes do início da terapêutica com Atripla e que a função renal (depuração da creatinina e fosfato sérico) seja também monitorizada a cada quatro semanas, durante o primeiro ano, e depois a cada três meses. Nos doentes com antecedentes de disfunção renal ou naqueles que estão em risco de apresentar disfunção renal, tem de considerar-se uma maior frequência de monitorização da função renal.
+ Se o fosfato sérico for &lt; 1,5 mg/dl (0,48 mmol/l) ou a depuração da creatinina diminuir para valores &lt; 50 ml/min em qualquer doente a receber Atripla, a função renal tem de ser reavaliada dentro de uma semana, incluindo medições dos níveis sanguíneos de glucose e potássio e das concentrações de glucose na urina (ver secção 4.8, tubulopatia proximal). Uma vez que Atripla é um medicamento de associação e o intervalo entre doses dos componentes individuais não pode ser alterado, o tratamento com Atripla tem de ser interrompido em doentes com uma depuração da creatinina &lt; 50 ml/min confirmada ou uma diminuição do fosfato sérico para valores &lt; 1,0 mg/dl (0,32 mmol/l). Quando estiver indicada a interrupção da terapêutica com um dos componentes de Atripla ou quando for necessária uma modificação da dose, estão disponíveis as formulações separadas de efavirenz, emtricitabina e tenofovir disoproxil fumarato.
+ Reacções cutâneas: foi notificada erupção cutânea ligeira a moderada com os componentes individuais de Atripla. A erupção cutânea associada ao componente efavirenz desaparece
+ 6 normalmente com a continuação da terapêutica. Anti-histamínicos e/ou corticosteróides apropriados podem melhorar a tolerabilidade e acelerar a resolução da erupção cutânea. Foi notificada erupção cutânea grave com formação de vesículas, descamação húmida ou ulceração em menos de 1% dos doentes tratados com efavirenz (ver secção 4.8). A incidência de eritema multiforme ou de síndrome de Stevens-Johnson foi, aproximadamente, de 0,1%. Atripla tem de ser interrompido em doentes que desenvolvam uma erupção cutânea grave associada a formação de vesículas, descamação, envolvimento das mucosas ou febre. Os doentes que interromperam o tratamento com outros análogos não nucleosídeos inibidores da transcriptase reversa devido à ocorrência de erupção cutânea podem apresentar um risco aumentado de desenvolverem erupção cutânea durante o tratamento com Atripla.
+ Lipodistrofia e alterações metabólicas: a terapêutica anti-retroviral combinada em doentes infectados pelo VIH foi associada à redistribuição do tecido adiposo corporal (lipodistrofia). As consequências a longo prazo destes efeitos são actualmente desconhecidas. O conhecimento sobre o mecanismo é incompleto. Foi colocada a hipótese de existir uma relação entre a lipomatose visceral e os inibidores da protease (PIs), a lipoatrofia e os análogos nucleosídeos inibidores da transcriptase reversa (NRTIs). Um risco acrescido de lipodistrofia foi associado a factores individuais, tais como idade avançada, e a factores relacionados com o fármaco, como a longa duração da terapêutica anti-retroviral e as perturbações metabólicas associadas. O exame clínico deve incluir a avaliação dos sinais físicos de redistribuição do tecido adiposo. Deverá considerar-se a medição dos níveis de lípidos séricos e da glicémia em jejum. As alterações lipídicas devem ser tratadas de modo clinicamente adequado (ver secção 4.8).
+ Efeito dos alimentos: a administração de Atripla com alimentos pode aumentar a exposição ao efavirenz (ver secção 5.2) e pode conduzir a um aumento da frequência das reacções adversas (ver secção 4.8). Recomenda-se que Atripla seja tomado com o estômago vazio, de preferência ao deitar.
+ Disfunção mitocondrial: os análogos nucleosídeos e nucleótidos demonstraram causar, in vitro e in vivo, lesões mitocondriais de grau variável. Têm sido notificados casos de disfunção mitocondrial em lactentes VIH negativos expostos a análogos nucleosídeos in utero e/ou após o nascimento. Os principais acontecimentos adversos notificados são alterações hematológicas (anemia, neutropenia), alterações metabólicas (hiperlactatémia, hiperlipasémia). Estes acontecimentos são geralmente transitórios. Foram notificadas algumas alterações neurológicas de início tardio (hipertonia, convulsões, comportamento anormal). Desconhece-se actualmente, se as alterações neurológicas são transitórias ou permanentes. Qualquer criança exposta in utero a análogos nucleosídeos e nucleótidos, mesmo crianças VIH negativas, deverá ter seguimento clínico e laboratorial e em caso de sinais e sintomas relevantes deve ser investigada quanto à possibilidade de disfunção mitocondrial. Estes resultados não alteram as recomendações nacionais actuais sobre a utilização de terapêutica anti-retroviral em mulheres grávidas, para prevenir a transmissão vertical do VIH.
+ Síndrome de Reactivação Imunológica: em doentes infectados pelo VIH com deficiência imunológica grave à data da instituição da terapêutica anti-retroviral combinada (TARC), pode ocorrer uma reacção inflamatória a infecções oportunistas assintomáticas ou residuais e causar várias situações clínicas graves, ou o agravamento dos sintomas. Estas reacções foram observadas tipicamente durante as primeiras semanas ou meses após início da TARC. A retinite por citomegalovírus, as infecções micobacterianas generalizadas e/ou focais e a pneumonia causada por Pneumocystis jiroveci (anteriormente conhecido por Pneumocystis carinii) são exemplos relevantes. Qualquer sintoma de inflamação deve ser avaliado e, quando necessário, instituído o tratamento.
+ Osteonecrose: foram notificados casos de osteonecrose, particularmente em doentes com doença por VIH avançada e/ou exposição prolongada a terapêutica anti-retroviral combinada (TARC), apesar da etiologia ser considerada multifactorial (incluindo a utilização de corticosteróides, o consumo de álcool, a imunossupressão grave, um índice de massa corporal aumentado). Os doentes devem ser instruídos a procurar aconselhamento médico caso sintam mal-estar e dor articular, rigidez articular ou dificuldade de movimentos.
+ Osso: num estudo clínico controlado com a duração de 144 semanas que comparou o tenofovir disoproxil fumarato com a estavudina em associação a lamivudina e efavirenz em doentes sem
+ 7 terapêutica anti-retroviral prévia, observaram-se pequenas diminuições na densidade mineral óssea ao nível da bacia e da coluna em ambos os grupos de tratamento. Às 144 semanas, as diminuições nos níveis basais da densidade mineral óssea ao nível da coluna e as alterações nos níveis basais dos biomarcadores ósseos foram significativamente maiores no grupo de tratamento com tenofovir disoproxil fumarato. Neste grupo as diminuições na densidade mineral óssea ao nível da bacia foram significativamente maiores até às 96 semanas. Contudo, durante as 144 semanas não houve um risco aumentado de fracturas ou evidência de alterações ósseas clinicamente relevantes.
+ As anomalias ósseas (contribuindo infrequentemente para fracturas) podem ser associadas a tubulopatia renal proximal (ver secção 4.8). Se houver suspeita de anomalias ósseas deve-se recorrer a consulta apropriada.
+ Outros medicamentos anti-retrovirais: não existem dados sobre a segurança e a eficácia de Atripla em associação com outros medicamentos anti-retrovirais.
+ Didanosina: não se recomenda a co-administração de Atripla e didanosina, uma vez que a exposição à didanosina é significativamente aumentada a seguir à co-administração com tenofovir disoproxil fumarato (ver secção 4.5).
+ Doentes que apresentam estirpes de VIH-1 com mutações: Atripla deve ser evitado em doentes que apresentem estirpes de VIH-1 com as mutações K65R, M184V/I ou K103N (ver secções 4.1 e 5.1).
+ Excipientes: este medicamento contém 1 mmol (23,6 mg) de sódio por dose, o que deve ser tido em consideração em doentes com ingestão controlada de sódio.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Não foram conduzidos estudos de interacção medicamentosa utilizando Atripla. Uma vez que Atripla contém efavirenz, emtricitabina e tenofovir disoproxil fumarato, as interacções que foram identificadas com estes medicamentos individualmente podem ocorrer com Atripla. Os estudos de interacção com estes medicamentos só foram realizados em adultos.
+ Como associação fixa, Atripla não deve ser administrado concomitantemente com outros medicamentos que contenham qualquer um dos componentes, efavirenz, emtricitabina ou tenofovir disoproxil como fumarato. Devido a semelhanças com a emtricitabina, Atripla não deve ser administrado concomitantemente com outros análogos da citidina, tais como a lamivudina. Atripla não deve ser administrado concomitantemente com adefovir dipivoxil.
+ O efavirenz é um indutor do CYP3A4 e um inibidor de algumas isoenzimas CYP450, incluindo o CYP3A4 (ver secção 5.2). Outros compostos que são substratos do CYP3A4 podem apresentar concentrações plasmáticas diminuídas quando co-administrados com efavirenz. A exposição ao efavirenz pode ainda ser alterada quando este é administrado com medicamentos ou alimentos (por exemplo, sumo de toranja) que afectem a actividade do CYP3A4. Os estudos de interacção farmacocinética in vitro e clínica demonstraram que o potencial para interacções mediadas pelo CYP450, envolvendo a emtricitabina e o tenofovir disoproxil fumarato com outros medicamentos, é baixo.
+ Contra-indicações da utilização concomitante Atripla não pode ser administrado concomitantemente com terfenadina, astemizol, cisaprida, midazolam, triazolam, pimozida, bepridilo ou alcalóides da cravagem de centeio (por exemplo, ergotamina, di-hidroergotamina, ergonovina e metilergonovina), uma vez que a inibição dos respectivos metabolismos pode levar a acontecimentos graves, com risco de vida (ver secção 4.3).
+ Voriconazol: a co-administração de doses padrão de efavirenz e voriconazol está contra-indicada. Como Atripla é um medicamento de associação de doses fixas, a dose de efavirenz não pode ser alterada. Por conseguinte, voriconazol e Atripla não devem ser co-administrados (ver secção 4.3 e Tabela 1).
+ 8 Hipericão (Hypericum perforatum): a co-administração de Atripla e de hipericão ou de preparações de plantas medicinais contendo hipericão está contra-indicada (ver secção 4.3).
+ Utilização concomitante não recomendada Atazanavir/ritonavir: não estão disponíveis dados suficientes para fazer uma recomendação posológica de atazanavir/ritonavir em associação com Atripla. Por conseguinte, não se recomenda a co-administração de atazanavir/ritonavir e Atripla (ver Tabela 1).
+ Didanosina: não se recomenda a co-administração de Atripla e didanosina (ver secção 4.4 e Tabela 1).
+ Medicamentos eliminados por via renal: uma vez que a emtricitabina e o tenofovir são principalmente eliminados pelos rins, a co-administração de Atripla com medicamentos que reduzem a função renal ou que competem pela secreção tubular activa (p. ex., cidofovir) pode aumentar as concentrações séricas de emtricitabina, tenofovir e/ou dos medicamentos administrados concomitantemente.
+ Deve evitar-se a utilização de Atripla concomitantemente ou pouco tempo após a utilização de medicamentos nefrotóxicos. Alguns exemplos incluem, mas não estão limitados a, aminoglicosídeos, anfotericina B, foscarneto, ganciclovir, pentamidina, vancomicina, cidofovir ou interleucina-2 (ver secção 4.4).
+ Outras interacções As interacções entre os componentes de Atripla e inibidores da protease, medicamentos anti-retrovirais que não sejam inibidores da protease e outros medicamentos não anti-retrovirais estão indicadas na Tabela 1 abaixo (um aumento é indicado como “ ↑ ”, uma diminuição como “ ↓ ”, sem alteração como “ ↔ ”, duas vezes por dia como “ b. i. d. ”, uma vez por dia como “ q. d. ” e uma vez de 8 em 8 horas como “ q8h ”). Se disponíveis, os intervalos de confiança de 90% são indicados entre parênteses.
+ Tabela 1: Interacções entre os componentes individuais de Atripla e outros medicamentos
+ Medicamento por áreas Efeitos sobre os níveis dos fármacos Recomendação terapêuticas
+ Alteração média em percentagem das respeitante à co-
+ (dose em mg)
+ AUC, Cmax, Cmin com intervalos de confiança de 90% se disponíveis (mecanismo)
+ administração com Atripla (efavirenz 600 mg,
+ emtricitabina 200 mg, tenofovir disoproxil fumarato 300 mg) ANTI-INFECCIOSOS Anti-retrovirais Inibidores da protease Amprenavir/Efavirenz (1.200 b. i. d./600 q. d.)
+ Amprenavir: AUC: ~↓ 40% Cmax: ~↓ 40% Cmin: ~↓ 40% (indução do CYP3A4, o efeito do efavirenz é compensado pelo efeito potenciador do ritonavir na farmacocinética) Para informação sobre a co-administração de efavirenz com doses baixas de ritonavir em associação com um inibidor da protease, consultar abaixo a secção sobre ritonavir.
+ Não se recomenda a co-administração de amprenavir/ritonavir e Atripla.
+ Amprenavir/Emtricitabina Amprenavir/Tenofovir disoproxil fumarato
+ Interacção não estudada. Interacção não estudada.
+ 9 Atazanavir/Ritonavir/Tenofovir disoproxil fumarato (300 q. d./100 q. d./300 q. d.)
+ Atazanavir: AUC: ↓ 25% (↓ 42 a ↓ 3) Cmax: ↓ 28% (↓ 50 a ↑ 5) Cmin: ↓ 26% (↓ 46 a ↑ 10) A co-administração de atazanavir/ritonavir com tenofovir resultou num aumento da exposição ao tenofovir. Concentrações mais elevadas de tenofovir podem potenciar os acontecimentos adversos associados ao tenofovir, incluindo doenças renais.
+ Não se recomenda a co-administração de atazanavir/ritonavir e Atripla.
+ Atazanavir/Ritonavir/Efavirenz A co-administração de efavirenz com atazanavir em associação com doses baixas de ritonavir originou diminuições substanciais na exposição ao atazanavir devido a indução do CYP3A4, sendo necessário um ajuste da dose do atazanavir (consultar o Resumo das Características do Medicamento do medicamento contendo atazanavir). A co-administração de efavirenz e atazanavir em associação com ritonavir pode originar aumento da exposição ao efavirenz, o que pode prejudicar o perfil de tolerabilidade do efavirenz.
+ Atazanavir/Ritonavir/Emtricitabina Interacção não estudada. Indinavir/Efavirenz (800 q8h/200 q. d.)
+ Efavirenz: AUC: ↔ Cmax: ↔ Cmin: ↔
+ Não estão disponíveis dados suficientes para fazer uma recomendação posológica para indinavir
+ Indinavir/Efavirenz (1.000 q8h/600 q. d.)
+ Indinavir: AUC de manhã: ↓ 33%* (↓ 26 a ↓ 39) AUC à tarde: ↓ 37%* (↓ 26 a ↓ 46) AUC à noite: ↓ 46%* (↓ 37 a ↓ 54) Cmax de manhã: ↔* Cmax à tarde: ↔* Cmax à noite: ↓ 29%* (↓ 11 a ↓ 43) Cmin de manhã: ↓ 39%* (↓ 24 a ↓ 51) Cmin à tarde: ↓ 52%* (↓ 47 a ↓ 57) Cmin à noite: ↓ 57%* (↓ 50 a ↓ 63)* quando comparado com indinavir 800 q8h em monoterapia (indução do CYP3A4) Para informação sobre a co-administração de efavirenz com doses baixas de ritonavir em associação com um inibidor da protease, consultar a secção abaixo sobre ritonavir.
+ quando administrado com Atripla. Enquanto não for estabelecido o significado clínico da redução das concentrações de indinavir, deverá ter-se em consideração a dimensão da interacção farmacocinética observada quando se escolhe um regime contendo efavirenz, um componente de Atripla, e indinavir.
+ Indinavir/Emtricitabina (800 q8h/200 q. d.)
+ Indinavir: AUC: ↔ Cmax: ↔ Emtricitabina: AUC: ↔ Cmax: ↔
+ Indinavir/Tenofovir disoproxil fumarato (800 q8h/300 q. d.)
+ Indinavir: AUC: ↔ Cmax: ↔ Tenofovir: AUC: ↔ Cmax: ↔
+ 10 Lopinavir/Ritonavir/Tenofovir disoproxil fumarato (400 b. i. d./100 b. i. d./300 q. d.)
+ Lopinavir/Ritonavir: AUC: ↔ Cmax: ↔ Cmin: ↔ Tenofovir: AUC: ↑ 32% (↑ 25 a ↑ 38) Cmax: ↔ Cmin: ↑ 51% (↑ 37 a ↑ 66) Concentrações mais elevadas de tenofovir podem potenciar acontecimentos adversos associados ao tenofovir, incluindo doenças renais.
+ Não estão disponíveis dados suficientes para fazer uma recomendação posológica para lopinavir/ritonavir quando administrados com Atripla. Não se recomenda a co-administração de lopinavir/ritonavir e Atripla.
+ Lopinavir/Ritonavir/Efavirenz A co-administração de lopinavir/ritonavir com efavirenz resultou numa diminuição substancial na exposição ao lopinavir, necessitando de um ajuste da dose de lopinavir/ritonavir. Quando se associou ao efavirenz e a dois NRTIs, 533/133 mg de lopinavir/ritonavir (cápsulas moles) duas vezes por dia, originou concentrações plasmáticas de lopinavir semelhantes às verificadas com lopinavir/ritonavir (cápsulas moles) 400/100 mg duas vezes por dia sem efavirenz (dados já descritos). Consultar o Resumo das Características do Medicamento dos comprimidos de lopinavir/ritonavir quanto a dados de farmacocinética de quando esta formulação foi administrada com efavirenz. Para informação sobre a co-administração de efavirenz com doses baixas de ritonavir em associação com um inibidor da protease, consultar a secção abaixo sobre ritonavir.
+ Lopinavir/Ritonavir/Emtricitabina Interacção não estudada. Ritonavir/Efavirenz (500 b. i. d./600 q. d.)
+ Ritonavir: AUC de manhã: ↑ 18% (↑ 6 a ↑ 33) AUC à noite: ↔ Cmax de manhã: ↑ 24% (↑ 12 a ↑ 38) Cmax à noite: ↔ Cmin de manhã: ↑ 42% (↑ 9 a ↑ 86) Cmin à noite: ↑ 24% (↑ 3 a ↑ 50) Efavirenz: AUC: ↑ 21% (↑ 10 a ↑ 34) Cmax: ↑ 14% (↑ 4 a ↑ 26) Cmin: ↑ 25% (↑ 7 a ↑ 46) (inibição do metabolismo oxidativo mediado pelo CYP) Quando se administrou efavirenz com 500 mg ou 600 mg de ritonavir duas vezes por dia, a associação não foi bem tolerada (ocorreram, por exemplo, tonturas, náuseas, parestesias e enzimas hepáticas elevadas). Não estão disponíveis dados suficientes relativos à tolerabilidade do efavirenz com ritonavir em baixa dose (100 mg, uma ou duas vezes por dia).
+ Não se recomenda a co-administração de ritonavir em doses de 600 mg e Atripla. Quando se usa Atripla num regime terapêutico que inclui baixa dose de ritonavir, deve ser considerada a possibilidade de aumento da incidência dos acontecimentos adversos associados ao efavirenz, devido à possível interacção farmacodinâmica.
+ Ritonavir/Emtricitabina (600 b. i. d./600 q. d.)
+ Interacção não estudada. Ritonavir/Tenofovir disoproxil fumarato (600 b. i. d./600 q. d.)
+ Interacção não estudada. 11 Saquinavir/Efavirenz (1.200 formulação de cápsulas moles q8h/600 q. d.)
+ Saquinavir: AUC: ↓ 62% (↓ 45 a ↓ 74) Cmax: ↓ 50% (↓ 28 a ↓ 66) Cmin: ↓ 56% (↓ 16 a ↓ 77) (diminuição das concentrações de saquinavir: indução do CYP3A4) Efavirenz: AUC: ↓ 12% (↓ 4 a ↓ 19) Cmax: ↓ 13% (↓ 5 a ↓ 20) Cmin: ↓ 14% (↓ 2 a ↓ 24)
+ Não se recomenda a utilização de Atripla em associação com saquinavir como único inibidor da protease.
+ Saquinavir/Tenofovir disoproxil fumarato (1.000 q. d./300 q. d.)
+ Saquinavir: AUC: ↔ Cmax: ↔ Tenofovir: AUC: ↔ Cmax: ↔ A co-administração de tenofovir disoproxil fumarato com saquinavir potencializado pelo ritonavir também não resultou em interacções farmacocinéticas.
+ Saquinavir/Emtricitabina Interacção não estudada. Saquinavir/Ritonavir/Efavirenz NRTIs e NNRTIs
+ Não existem dados disponíveis sobre as interacções potenciais de efavirenz com a associação de saquinavir e ritonavir. Para informação sobre a co-administração de efavirenz com doses baixas de ritonavir em associação com um inibidor da protease, consultar a secção acima sobre ritonavir.
+ Não estão disponíveis dados suficientes para fazer uma recomendação posológica para saquinavir/ritonavir quando administrados com Atripla. Não se recomenda a co-administração de saquinavir/ritonavir e Atripla.
+ NRTIs/Efavirenz Não foram realizados estudos de interacções específicas com efavirenz e outros NRTIs além da lamivudina (ver secção 4.4), zidovudina e tenofovir disoproxil fumarato. Não serão de prever interacções clinicamente significativas visto que os NRTIs são metabolizados através de uma via diferente da do efavirenz e é improvável que competissem para as mesmas enzimas metabólicas e vias de eliminação.
+ NNRTIs/Efavirenz Interacção não estudada. Desconhece-se o potencial para interacções farmacocinéticas ou farmacodinâmicas.
+ Como a utilização de dois NNRTIs provou não ser benéfica em termos de eficácia e de segurança, não se recomenda a co-administração de Atripla e de outro NNRTI.
+ 12 Didanosina/Tenofovir disoproxil fumarato
+ A co-administração de tenofovir disoproxil fumarato e didanosina resulta num aumento de 40-60% da exposição sistémica à didanosina, o que pode aumentar o risco de acontecimentos adversos relacionados com a didanosina. Têm sido notificados casos raros, ocasionalmente fatais, de pancreatite e acidose láctica. A co-administração de tenofovir disoproxil fumarato e didanosina numa dose diária de 400 mg tem sido associada a uma diminuição significativa na contagem de células CD4, possivelmente devido a um aumento da didanosina fosforilada (i. e. activa) por interacção intracelular. A co-administração de uma dose reduzida de 250 mg de didanosina com tenofovir disoproxil fumarato tem sido associada a notificações de elevada frequência de falência virológica com as várias associações testadas.
+ Não se recomenda a co-administração de Atripla e didanosina (ver secção 4.4).
+ Didanosina/Efavirenz Didanosina/Emtricitabina Antibióticos
+ Interacção não estudada. Interacção não estudada.
+ Claritromicina/Efavirenz (500 b. i. d./400 q. d.)
+ Claritromicina: AUC: ↓ 39% (↓ 30 a ↓ 46) Cmax: ↓ 26% (↓ 15 a ↓ 35) Metabolito 14 hidroxi-claritromicina: AUC: ↑ 34% (↑ 18 a ↑ 53) Cmax: ↑ 49% (↑ 32 a ↑ 69) Efavirenz: AUC: ↔ Cmax: ↑ 11% (↑ 3 a ↑ 19) (indução do CYP3A4) Desenvolveu-se erupção cutânea em 46% de voluntários não infectados que receberam efavirenz e claritromicina.
+ Desconhece-se o significado clínico destas alterações nos níveis plasmáticos de claritromicina. Podem considerar-se alternativas à claritromicina (p. ex. azitromicina). Outros antibióticos macrólidos, como a eritromicina, não foram estudados em associação com Atripla.
+ Claritromicina/Emtricitabina Claritromicina/Tenofovir disoproxil fumarato Antimicobacterianos
+ Interacção não estudada. Interacção não estudada.
+ Rifabutina/Efavirenz (300 q. d./600 q. d.)
+ Rifabutina: AUC: ↓ 38% (↓ 28 a ↓ 47) Cmax: ↓ 32% (↓ 15 a ↓ 46) Cmin: ↓ 45% (↓ 31 a ↓ 56) Efavirenz: AUC: ↔ Cmax: ↔ Cmin: ↓ 12% (↓ 24 a ↑ 1) (indução do CYP3A4)
+ A dose diária de rifabutina deve ser aumentada em 50% quando é administrada com Atripla. Deve considerar-se a duplicação da dose de rifabutina em regimes nos quais a rifabutina seja administrada 2 ou 3 vezes por semana em associação
+ Rifabutina/Emtricitabina Interacção não estudada. com Atripla.
+ Rifabutina/Tenofovir disoproxil fumarato
+ Interacção não estudada. Rifampicina/Efavirenz (600 q. d./600 q. d.)
+ Efavirenz: AUC: ↓ 26% (↓ 15 a ↓ 36) Cmax: ↓ 20% (↓ 11 a ↓ 28) Cmin: ↓ 32% (↓ 15 a ↓ 46) (indução dos CYP3A4 e CYP2B6)
+ Recomenda-se uma dose adicional de 200 mg/dia (800 mg no total) de efavirenz quando a rifampicina é
+ 13 Rifampicina/Tenofovir disoproxil fumarato (600 q. d./300 q. d.) Rifampicina/Emtricitabina Antifúngicos
+ Rifampicina: AUC: ↔ Cmax: ↔ Tenofovir: AUC: ↔ Cmax: ↔ Interacção não estudada.
+ co-administrada com Atripla. Não se recomendam ajustes da dose da rifampicina quando administrada com Atripla.
+ Itraconazol/Efavirenz (200 b. i. d./600 q. d.)
+ Itraconazol: AUC: ↓ 39% (↓ 21 a ↓ 53) Cmax: ↓ 37% (↓ 20 a ↓ 51) Cmin: ↓ 44% (↓ 27 a ↓ 58) (diminuição das concentrações de itraconazol: indução do CYP3A4) Hidroxi-itraconazol: AUC: ↓ 37% (↓ 14 a ↓ 55) Cmax: ↓ 35% (↓ 12 a ↓ 52) Cmin: ↓ 43% (↓ 18 a ↓ 60) Efavirenz: AUC: ↔ Cmax: ↔ Cmin: ↔
+ Não podem ser feitas recomendações posológicas para a utilização de Atripla em associação com o itraconazol. Deve ser instituído um tratamento antifúngico alternativo.
+ Itraconazol/Emtricitabina Itraconazol/Tenofovir disoproxil fumarato
+ Interacção não estudada. Interacção não estudada.
+ Voriconazol/Efavirenz (200 b. i. d./400 q. d.)
+ Voriconazol: AUC: ↓ 77% Cmax: ↓ 61% Efavirenz: AUC: ↑ 44% Cmax: ↑ 38% (inibição competitiva do metabolismo oxidativo) A co-administração de doses padrão de efavirenz e voriconazol está contra-indicada (ver secção 4.3).
+ Como Atripla é um medicamento de associação de doses fixas, a dose de efavirenz não pode ser alterada. Por conseguinte, voriconazol e Atripla não devem ser co-administrados.
+ Voriconazol/Emtricitabina Voriconazol/Tenofovir disoproxil fumarato ANTICONVULSIVANTES
+ Interacção não estudada. Interacção não estudada.
+ Carbamazepina/Efavirenz (400 q. d./600 q. d.)
+ Carbamazepina: AUC: ↓ 27% (↓ 20 a ↓ 33) Cmax: ↓ 20% (↓ 15 a ↓ 24) Cmin: ↓ 35% (↓ 24 a ↓ 44) Efavirenz: AUC: ↓ 36% (↓ 32 a ↓ 40) Cmax: ↓ 21% (↓ 15 a ↓ 26) Cmin: ↓ 47% (↓ 41 a ↓ 53) (diminuição das concentrações de carbamazepina: indução do CYP3A; diminuição das concentrações de efavirenz: indução dos CYP3A4 e CYP2B6) Não foi estudada a co-administração de doses superiores de efavirenz ou de carbamazepina.
+ Não podem ser feitas recomendações posológicas para a utilização de Atripla com carbamazepina. Deve ser instituído um anticonvulsivante alternativo. Os níveis plasmáticos de carbamazepina devem ser monitorizados periodicamente.
+ Carbamazepina/Emtricitabina Carbamazepina/Tenofovir disoproxil fumarato
+ Interacção não estudada. Interacção não estudada.
+ 14 Fenitoína, Fenobarbital e outros anticonvulsivantes que sejam substratos das isoenzimas do CYP450
+ Interacção não estudada com efavirenz, emtricitabina ou tenofovir disoproxil fumarato. Com efavirenz existe um potencial de redução ou aumento das concentrações plasmáticas de fenitoína, fenobarbital e de outros anticonvulsivantes que sejam substratos das isoenzimas do CYP450.
+ Quando Atripla é co-administrado com um anticonvulsivante que é um substrato de isoenzimas do CYP450, deve ser efectuada a monitorização periódica dos níveis de anticonvulsivantes.
+ Vigabatrina/Efavirenz Gabapentina/Efavirenz
+ Interacção não estudada. Não são esperadas interacções clinicamente significativas, uma vez que a vigabatrina e a gabapentina são exclusivamente eliminadas inalteradas na urina e é improvável que compitam para as mesmas enzimas metabólicas e vias de eliminação do efavirenz.
+ Atripla e a vigabatrina ou a gabapentina podem ser co-administrados sem ajuste da dose.
+ Vigabatrina/Emtricitabina Gabapentina/Emtricitabina
+ Interacção não estudada. Vigabatrina/Tenofovir disoproxil fumarato Gabapentina/Tenofovir disoproxil fumarato ANTIDEPRESSORES
+ Interacção não estudada. Inibidores Selectivos da Recaptação da Serotonina (ISRS) Sertralina/Efavirenz (50 q. d./600 q. d.)
+ Sertralina: AUC: ↓ 39% (↓ 27 a ↓ 50) Cmax: ↓ 29% (↓ 15 a ↓ 40) Cmin: ↓ 46% (↓ 31 a ↓ 58) Efavirenz: AUC: ↔ Cmax: ↑ 11% (↑ 6 a ↑ 16) Cmin: ↔ (indução do CYP3A4)
+ Quando co-administrada com Atripla, os aumentos da dose de sertralina deverão ser efectuados de acordo com a resposta clínica.
+ Sertralina/Emtricitabina Sertralina/Tenofovir disoproxil fumarato
+ Interacção não estudada. Interacção não estudada.
+ Paroxetina/Efavirenz (20 q. d./600 q. d.)
+ Paroxetina: AUC: ↔ Cmax: ↔ Cmin: ↔ Efavirenz: AUC: ↔ Cmax: ↔ Cmin: ↔
+ Atripla e a paroxetina podem ser co-administrados sem ajustes da dose.
+ Paroxetina/Emtricitabina Paroxetina/Tenofovir disoproxil fumarato
+ Interacção não estudada. Interacção não estudada.
+ Fluoxetina/Efavirenz Interacção não estudada. Uma vez que a fluoxetina tem um perfil metabólico semelhante ao da paroxetina, i. e., um forte efeito inibidor do CYP2D6, poder-se-á esperar uma semelhante ausência de interacção para a fluoxetina.
+ Atripla e a fluoxetina podem ser co-administrados sem ajustes da dose.
+ Fluoxetina/Emtricitabina Fluoxetina/Tenofovir disoproxil fumarato
+ Interacção não estudada. Interacção não estudada.
+ 15 MEDICAMENTOS CARDIOVASCULARES Bloqueadores dos Canais do Cálcio Diltiazem/Efavirenz (240 q. d./600 q. d.)
+ Diltiazem: AUC: ↓ 69% (↓ 55 a ↓ 79) Cmax: ↓ 60% (↓ 50 a ↓ 68) Cmin: ↓ 63% (↓ 44 a ↓ 75) Diltiazem desacetilo: AUC: ↓ 75% (↓ 59 a ↓ 84) Cmax: ↓ 64% (↓ 57 a ↓ 69) Cmin: ↓ 62% (↓ 44 a ↓ 75) Diltiazem N-monodesmetilo: AUC: ↓ 37% (↓ 17 a ↓ 52) Cmax: ↓ 28% (↓ 7 a ↓ 44) Cmin: ↓ 37% (↓ 17 a ↓ 52) Efavirenz: AUC: ↑ 11% (↑ 5 a ↑ 18) Cmax: ↑ 16% (↑ 6 a ↑ 26) Cmin: ↑ 13% (↑ 1 a ↑ 26) (indução do CYP3A4) O aumento dos parâmetros farmacocinéticos do efavirenz não é considerado clinicamente significativo.
+ Os ajustes da dose do diltiazem quando co-administrado com Atripla devem basear-se na resposta clínica (consultar o Resumo das Características do Medicamento diltiazem).
+ Diltiazem/Emtricitabina Diltiazem/Tenofovir disoproxil fumarato
+ Interacção não estudada. Interacção não estudada.
+ Verapamilo, Felodipina, Nifedipina e Nicardipina MEDICAMENTOS HIPOLIPEMIANTES Inibidores da Redutase da HMG-CoA
+ Interacção não estudada com efavirenz, emtricitabina ou tenofovir disoproxil fumarato. Quando o efavirenz é co-administrado com um bloqueador dos canais de cálcio que é um substrato do complexo enzimático CYP3A4, existe a possibilidade de redução nas concentrações plasmáticas do bloqueador dos canais de cálcio.
+ Os ajustes da dose dos bloqueadores dos canais de cálcio quando co-administrados com Atripla devem basear-se na resposta clínica (consultar o Resumo das Características dos Medicamentos bloqueadores dos canais de cálcio).
+ Atorvastatina/Efavirenz (10 q. d./600 q. d.) Atorvastatina/Emtricitabina Atorvastatina/Tenofovir disoproxil fumarato
+ Atorvastatina: AUC: ↓ 43% (↓ 34 a ↓ 50) Cmax: ↓ 12% (↓ 1 a ↓ 26) 2-hidroxi atorvastatina: AUC: ↓ 35% (↓ 13 a ↓ 40) Cmax: ↓ 13% (↓ 0 a ↓ 23) 4-hidroxi atorvastatina: AUC: ↓ 4% (↓ 0 a ↓ 31) Cmax: ↓ 47% (↓ 9 a ↓ 51) Total de inibidores da redutase da HMG-CoA activos: AUC: ↓ 34% (↓ 21 a ↓ 41) Cmax: ↓ 20% (↓ 2 a ↓ 26) Interacção não estudada. Interacção não estudada.
+ Os níveis de colesterol devem ser monitorizados periodicamente quando a atorvastatina, a pravastatina ou a sinvastatina são administradas com Atripla. Podem ser necessários ajustes da dose das estatinas (consultar o Resumo das Características do Medicamento estatina).
+ Pravastatina/Efavirenz (40 q. d./600 q. d.)
+ Pravastatina: AUC: ↓ 40% (↓ 26 a ↓ 57) Cmax: ↓ 18% (↓ 59 a ↑ 12)
+ Pravastatina/Emtricitabina Pravastatina/Tenofovir disoproxil fumarato
+ Interacção não estudada. Interacção não estudada.
+ 16 Sinvastatina/Efavirenz (40 q. d./600 q. d.)
+ Sinvastatina: AUC: ↓ 69% (↓ 62 a ↓ 73) Cmax: ↓ 76% (↓ 63 a ↓ 79) Sinvastatina ácida: AUC: ↓ 58% (↓ 39 a ↓ 68) Cmax: ↓ 51% (↓ 32 a ↓ 58) Total de inibidores da redutase da HMG-CoA activos: AUC: ↓ 60% (↓ 52 a ↓ 68) Cmax: ↓ 62% (↓ 55 a ↓ 78) Total de inibidores da redutase da HMG-CoA: AUC: ↓ 60% (↓ 54 a ↓ 74) Cmax: ↓ 70% (↓ 58 a ↓ 85) (indução do CYP3A4) A co-administração de efavirenz com atorvastatina, pravastatina ou sinvastatina não afectou os valores da AUC ou da Cmax do efavirenz.
+ Sinvastatina/Emtricitabina Sinvastatina/Tenofovir disoproxil fumarato CONTRACEPTIVOS HORMONAIS
+ Interacção não estudada. Interacção não estudada.
+ Etinilestradiol/Efavirenz (50 µg dose única/400 q. d.)
+ Etinilestradiol: AUC: ↑ 37% (↑ 25 a ↑ 51) Cmax: ↔ Efavirenz: AUC: ↔ Cmax: ↔ (mecanismo desconhecido) Desconhece-se o significado clínico do efeito sobre a AUC do etinilestradiol.
+ Dado que não foi completamente caracterizada a interacção potencial do efavirenz, um componente de Atripla, com os contraceptivos orais, terá que ser utilizado um método de contracepção de barreira fiável para além dos
+ Etinilestradiol/Tenofovir disoproxil Etinilestradiol: contraceptivos orais (ver
+ fumarato
+ AUC: ↔ secção 4.6).
+ (-/300 q. d.)
+ Cmax: ↔ Tenofovir: AUC: ↔ Cmax: ↔ Norgestimato/Etinilestradiol/Emtricitabina IMUNOSSUPRESSORES
+ Interacção não estudada. Tacrolimus/Efavirenz Interacção não estudada. Pode esperar-se uma ↓ exposição do tacrolimus (indução CYP3A4) Não se antecipa que o Tacrolimus tenha impacto na exposição do efavirenz.
+ Podem ser necessários ajustes de dose do tacrolimus. Recomenda-se uma cuidadosa monitorização das concentrações de
+ Tacrolimus/Emtricitabina/Tenofovir Tacrolimus: tacrolimus quando se disoproxil fumarato (0,1 mg/kg q. d./200 mg/300 mg q. d.)
+ AUC: ↔ Cmax: ↔ C24: ↔ Emtricitabina: AUC: ↔ Cmax: ↔ C24: ↔
+ inicia ou interrompe o tratamento com Atripla, durante pelo menos duas semanas (até se atingirem concentrações estáveis).
+ Tenofovir disoproxil fumarato: AUC: ↔ Cmax: ↔ C24: ↔
+ 17 OPIÁCEOS Metadona/Efavirenz (35-100 q. d./600 q. d.)
+ Metadona: AUC: ↓ 52% (↓ 33 a ↓ 66) Cmax: ↓ 45% (↓ 25 a ↓ 59) (indução do CYP3A4) Num estudo realizado em utilizadores de drogas intravenosas infectados por VIH, a co-administração de efavirenz com metadona conduziu a uma diminuição dos níveis plasmáticos de metadona e a sinais de privação de opiáceos. A dose de metadona foi aumentada, em média,22% para aliviar os sintomas de privação.
+ Os doentes a receberem metadona e Atripla concomitantemente devem ser monitorizados em relação a sinais de privação e a sua dose de metadona deve ser aumentada de modo a aliviar os sintomas de privação.
+ Metadona/Tenofovir disoproxil fumarato (40-110 q. d./300 q. d.)
+ Metadona: AUC: ↔ Cmax: ↔ Cmin: ↔ Tenofovir: AUC: ↔ Cmax: ↔ Cmin: ↔
+ Metadona/Emtricitabina EXTRACTOS DE PLANTAS
+ Interacção não estudada. Hipericão (Hypericum perforatum)/Efavirenz
+ Os níveis plasmáticos de efavirenz podem ser diminuídos pelo uso concomitante de
+ A co-administração de Atripla e de hipericão está
+ hipericão, devido à indução das enzimas metabolizadoras e/ou proteínas de transporte do fármaco pelo hipericão.
+ contra-indicada. Se um doente estiver já a tomar hipericão, deve interromper a
+ Hipericão (Hypericum perforatum)/Emtricitabina
+ Interacção não estudada. administração de hipericão, confirmar os
+ Hipericão (Hypericum perforatum)/Tenofovir disoproxil fumarato
+ Interacção não estudada. níveis virais e, se possível, os níveis de efavirenz. Os níveis de efavirenz podem aumentar quando a administração de hipericão é interrompida. O efeito indutor do hipericão pode persistir até 2 semanas após a interrupção do tratamento.
+ Estudos conduzidos com outros medicamentos: não se observaram quaisquer interacções farmacocinéticas clinicamente significativas quando efavirenz foi administrado com azitromicina, cetirizina, lorazepam, nelfinavir, zidovudina, antiácidos de hidróxido de alumínio/magnésio, famotidina ou fluconazol. Não se estudou o potencial de interacções com efavirenz e outros antifúngicos imidazólicos, tais como o cetoconazol.
+ Não se observaram interacções farmacocinéticas clinicamente significativas quando a emtricitabina foi administrada com estavudina, zidovudina ou famciclovir. Não se observaram interacções farmacocinéticas clinicamente significativas quando o tenofovir disoproxil fumarato foi co-administrado com adefovir dipivoxil, emtricitabina, nelfinavir ou ribavirina.
+ 4.6 Gravidez e aleitamento Atripla não deverá ser utilizado durante a gravidez, a menos que tal seja claramente necessário (se não existirem outras opções de tratamento adequadas).
+ Mulheres em idade fértil: a gravidez deve ser evitada em mulheres a receberem Atripla. Deve ser sempre utilizada a contracepção de barreira em associação com outros métodos contraceptivos (por exemplo, contraceptivos orais ou outros contraceptivos hormonais) durante a terapêutica com Atripla. 18 Devido ao tempo de semi-vida longo do efavirenz, recomenda-se a utilização de medidas contraceptivas adequadas durante 12 semanas após a interrupção de Atripla. As mulheres em idade fértil devem fazer um teste de gravidez antes de iniciar a terapêutica com Atripla.
+ Gravidez: não existem estudos suficientes ou bem controlados com Atripla ou os seus componentes em mulheres grávidas. Na experiência pós-comercialização, através de um registo de gravidez com exposição a anti-retrovirais, foram notificadas mais de 200 gravidezes com exposição ao efavirenz durante o primeiro trimestre, num regime anti-retroviral combinado, que não revelou um padrão de malformações específicas. Em análise retrospectiva deste registo, foi notificado um pequeno número de casos de anomalias do tubo neural, incluindo meningomielocele, mas não foi estabelecida uma relação de causalidade. Estudos de efavirenz em animais revelaram toxicidade reprodutiva, incluindo efeitos teratogénicos acentuados (ver secção 5.3).
+ Aleitamento: estudos em ratos demonstraram que o efavirenz e o tenofovir são excretados no leite materno; sendo as concentrações de efavirenz muito superiores às existentes no plasma materno. Desconhece-se se o efavirenz, a emtricitabina ou o tenofovir são excretados no leite humano. Devido ao potencial de transmissão do VIH e o potencial de efeitos indesejáveis graves em crianças amamentadas, as mães devem ser aconselhadas a não amamentarem se estiverem a receber Atripla.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas. No entanto, foram notificadas tonturas durante o tratamento com efavirenz, emtricitabina e tenofovir disoproxil fumarato. O efavirenz também pode causar incapacidade de concentração e/ou sonolência. Os doentes devem ser aconselhados a evitar tarefas potencialmente perigosas tais como conduzir e utilizar máquinas se sentirem estes sintomas.
+ 4.8 Efeitos indesejáveis A avaliação das reacções adversas para a associação fixa de Atripla é baseada na experiência em: • um estudo clínico de 48 semanas de Atripla (ver Tabela 2) • um estudo clínico no qual efavirenz, emtricitabina e tenofovir disoproxil fumarato foram co-administrados (ver Tabela 3) • estudo clínico e experiência pós-comercialização com os componentes individuais de Atripla (ver Tabela 4).
+ Os efeitos indesejáveis são apresentados nas tabelas 2,3 e 4, por ordem decrescente de gravidade dentro de cada classe de frequência. As frequências são definidas como muito frequentes (≥ 1/10), frequentes (≥ 1/100, &lt; 1/10) ou pouco frequentes (≥ 1/1.000, &lt; 1/100).
+ Reacções adversas da experiência de estudos clínicos com Atripla Num estudo clínico de 48 semanas, aleatorizado aberto em doentes infectados pelo VIH, com supressão virológica bem sucedida no seu regime anti-retroviral actual, os doentes ou mudaram para Atripla (n=203) ou continuaram no seu regime de tratamento anti-retroviral original (n=97). As reacções adversas emergentes do tratamento consideradas possível ou provavelmente relacionadas com os fármacos estudados, notificadas em doentes que receberam Atripla no estudo AI266073, estão listadas por classe de sistema de órgãos e frequência na Tabela 2.
+ 19 Tabela 2: Todas as reacções adversas emergentes do tratamento consideradas possível ou provavelmente relacionadas com Atripla, notificadas no estudo AI266073 (durante 48 semanas)
+ Atripla (n=203) Doenças do metabolismo e da nutrição:
+ Frequentes Pouco frequentes
+ anorexia redistribuição do tecido adiposo, hipertrigliceridemia, diminuição de peso, aumento do apetite
+ Perturbações do foro psiquiátrico: Frequentes pesadelos, depressão, humor depressivo, ansiedade, insónia, alterações de humor, sonhos anormais perturbações do sono
+ Pouco frequentes estados de confusão, desorientação, alterações da personalidade, flutuações de humor, diminuição da líbido
+ Doenças do sistema nervoso: Muito frequentes Frequentes Pouco frequentes
+ tonturas sonolência, cefaleias discurso incoerente
+ Afecções oculares: Pouco frequentes visão turva, alterações visuais da percepção de profundidade
+ Afecções do ouvido e do labirinto: Pouco frequentes vertigens
+ Vasculopatias: Frequentes afrontamentos
+ Doenças gastrointestinais: Frequentes Pouco frequentes
+ diarreia, náuseas pancreatite aguda, vómitos, parestesia oral, hipoastesia oral, flatulência, boca seca
+ Afecções hepatobiliares: Pouco frequentes hepatite aguda
+ Afecções dos tecidos cutâneos e subcutâneas:
+ Frequentes Pouco frequentes
+ erupção cutânea, suores nocturnos prurido
+ Afecções musculosqueléticas e dos tecidos conjuntivos:
+ Pouco frequentes mialgia
+ Doenças renais e urinárias: Frequentes elevação da creatinina no sangue
+ Doenças dos órgãos genitais e da mama: Pouco frequentes aumento da mama
+ Perturbações gerais e alterações no local de administração:
+ Frequentes Pouco frequentes
+ fadiga, aumento de energia Sensação anormal, nervosismo, arrepios
+ Reacções adversas da experiência de estudos clínicos com efavirenz+ emtricitabina+ tenofovir disoproxil fumarato Os seguintes dados foram obtidos de um estudo clínico (GS-01-934) em que o efavirenz, a emtricitabina e o tenofovir disoproxil fumarato foram co-administrados, independentemente da toma de alimentos, sob a forma de formulações individuais ou sob a forma de uma associação fixa dupla de emtricitabina e tenofovir disoproxil fumarato com efavirenz.
+ 20 As reacções adversas seleccionadas emergentes do tratamento consideradas possível ou provavelmente relacionadas com os fármacos estudados neste estudo notificadas em doentes, após 144 semanas de tratamento, estão listadas por classe de sistema de órgãos e frequência na Tabela 3.
+ Tabela 3: Reacções adversas seleccionadas emergentes do tratamento consideradas possível ou provavelmente relacionadas com os fármacos estudados (efavirenz, emtricitabina e tenofovir disoproxil fumarato) no estudo clínico GS-01-934 durante 144 semanas
+ Efavirenz+emtricitabina+tenofovir disoproxil fumarato (n=257) Doenças do sangue e do sistema linfático:
+ Pouco frequentes neutropenia
+ Doenças do sistema nervoso:
+ Muito frequentes Frequentes
+ tonturas sonolência, estupor, letargia, cefaleias, perturbações da concentração
+ Pouco frequentes amnésia, ataxia, perturbações do equilíbrio, disgeusia
+ Afecções oculares:
+ Pouco frequentes visão turva
+ Afecções do ouvido e do labirinto:
+ Frequentes vertigens
+ Doenças respiratórias, torácicas e do mediastino:
+ Pouco frequentes dispneia
+ Doenças gastrointestinais:
+ Muito frequentes Frequentes
+ náuseas diarreia, vómitos, dor abdominal, flatulência, distensão abdominal, boca seca
+ Pouco frequentes dispepsia
+ Afecções dos tecidos cutâneos e subcutâneas:
+ Muito frequentes Frequentes Pouco frequentes
+ erupção cutânea prurido, hiperpigmentação cutânea, dermatite urticária, pele seca, eczema
+ Doenças do metabolismo e da nutrição:
+ Frequentes Pouco frequentes
+ diminuição do apetite, aumento do apetite hipertrigliceridemia, anorexia
+ Vasculopatias:
+ Frequentes afrontamentos
+ Perturbações gerais e alterações no local de administração:
+ Frequentes Pouco frequentes
+ fadiga, febre astenia, sensação de embriaguez
+ Perturbações do foro psiquiátrico:
+ Muito frequentes Frequentes
+ sonhos anormais pesadelos, depressão, insónia, perturbações do sono, euforia
+ Pouco frequentes paranóia, agitação psicomotora, delírio, estados de confusão, ansiedade, agressividade, nervosismo, desorientação
+ Alterações laboratoriais: enzimas hepáticas: num estudo clínico de 144 semanas (GS-01-934), as elevações da aspartato aminotransferase (AST &gt; 5 vezes LSN (limite superior do normal )) e da alanina aminotransferase (ALT &gt; 5 vezes LSN) foram notificadas, respectivamente, em 3% e 2% dos doentes tratados com efavirenz, emtricitabina e tenofovir disoproxil fumarato (n=257) e em 3% e 3% dos doentes tratados com efavirenz e com dose fixa de zidovudina/lamivudina (n=254).
+ 21 Reacções adversas associadas aos componentes individuais de Atripla As reacções adversas obtidas em estudos clínicos e na experiência pós-comercialização com os componentes individuais de Atripla na terapêutica anti-retroviral combinada estão listadas na Tabela 4 abaixo por classe de sistema de órgãos e frequência.
+ As reacções adversas mais notórias que foram notificadas em estudos clínicos com efavirenz são erupção cutânea e sintomas ao nível do sistema nervoso. A administração de efavirenz com alimentos pode aumentar a exposição ao efavirenz e pode conduzir a um aumento da frequência de reacções adversas (ver secção 4.4). Houve notificações pós-comercialização relacionadas com tenofovir disoproxil fumarato de doenças renais e urinárias incluindo falência renal, tubulopatia proximal (incluindo síndrome de Fanconi), necrose tubular aguda e diabetes insípida nefrogénica.
+ Tabela 4: Reacções adversas associadas aos componentes individuais de Atripla com base em estudos clínicos e em dados de segurança da experiência pós-comercialização
+ Efavirenz Emtricitabina Tenofovir disoproxil fumarato Doenças do sangue e do sistema linfático: Frequentes Pouco frequentes Doenças do sistema nervoso:
+ neutropenia anemia
+ Muito frequentes Frequentes sonolência, cefaleias, perturbações da concentração, tonturas Pouco frequentes convulsões, amnésia, pensamento anómalo, ataxia, coordenação anómala, agitação Desconhecida* perturbações cerebelosas da coordenação e do equilíbrio Afecções oculares: Pouco frequentes visão turva Afecções do ouvido e do labirinto: Pouco frequentes vertigens Doenças respiratórias, torácicas e do mediastino:
+ cefaleias tonturas
+ tonturas
+ Desconhecida* Doenças gastrointestinais:
+ dispneia
+ Muito frequentes diarreia, náuseas
+ diarreia, vómitos, náuseas
+ Frequentes diarreia, vómitos, dor abdominal, náuseas Pouco frequentes pancreatite aguda
+ elevação da amilase incluindo elevação da amilase pancreática, elevação da lipase sérica, vómitos, dor abdominal, dispepsia
+ flatulência
+ Desconhecida* pancreatite
+ 22
+ Efavirenz Emtricitabina Tenofovir disoproxil fumarato Doenças renais e urinárias: Desconhecida* Afecções dos tecidos cutâneos e subcutâneas: Muito frequentes erupção cutânea (todos os graus,18%)
+ falência renal (aguda e crónica), necrose tubular aguda, tubulopatia renal proximal incluindo síndrome de Fanconi, nefrite, nefrite intersticial aguda, diabetes insípida nefrogénica, elevação da creatinina, proteinúria
+ Frequentes prurido Pouco frequentes síndrome de Stevens-Johnson, eritema multiforme, erupção cutânea grave (&lt; 1%)
+ reacção alérgica, erupção cutânea vesicular, erupção cutânea pustular, erupção cutânea maculopapular, erupção cutânea, prurido, urticária, alterações da pigmentação cutânea (hiperpigmentação)
+ Desconhecida* dermatite fotoalérgica
+ erupção cutânea
+ Afecções musculosqueléticas e dos tecidos conjuntivos: Muito frequentes
+ elevação da creatina cinase
+ Desconhecida* Doenças do metabolismo e da nutrição:
+ rabdomiólise, osteomalacia (manifestada como dores ósseas e contribuindo infrequentemente para fracturas), fraqueza muscular, miopatia
+ Muito frequentes Frequentes
+ hiperglicemia, hipertrigliceridemia
+ hipofosfatemia
+ Desconhecida* acidose láctica, hipocaliemia
+ Perturbações gerais e alterações no local de administração: Frequentes Desconhecida*
+ fadiga
+ dor, astenia
+ astenia
+ Doenças do sistema imunitário: Pouco frequentes
+ hipersensibilidade
+ 23 Efavirenz Emtricitabina Tenofovir disoproxil fumarato Afecções hepatobiliares: Frequentes
+ elevação da aspartato aminotransferase sérica (AST) e/ou da alanina aminotransferase (ALT), hiperbilirrubinemia
+ Pouco frequentes hepatite aguda
+ Desconhecida* insuficiência hepática
+ hepatite, elevação das transaminases, esteatose hepática
+ Doenças dos órgãos genitais e da mama: Pouco frequentes
+ ginecomastia
+ Perturbações do foro psiquiátrico: Frequentes
+ depressão (grave em 1,6%), ansiedade, sonhos anormais, insónia
+ sonhos anormais, insónia
+ Pouco frequentes tentativa de suicídio, ideação de suicídio, mania, paranóia, alucinação, euforia, instabilidade emocional, estados de confusão, agressividade
+ Desconhecida* suicídio consumado, psicose, delírio, neurose
+ * Estas reacções adversas foram identificadas através da vigilância de segurança pós-comercialização e a frequência é desconhecida.
+ As seguintes reacções adversas, listadas dentro de cada classe de sistema de órgãos acima indicada, podem ocorrer como consequência de tubulopatia renal proximal: rabdomiólise, osteomalacia (manifestada como dores ósseas e contribuindo infrequentemente para fracturas), hipocaliemia, fraqueza muscular, miopatia e hipofosfatemia. Na ausência de tubulopatia renal proximal, não se considera que estes acontecimentos tenham uma relação causal com o tratamento com tenofovir disoproxil fumarato.
+ Erupção cutânea com efavirenz: as erupções cutâneas consistiram normalmente em erupções cutâneas maculopapulares ligeiras a moderadas que ocorreram nas primeiras duas semanas do início da terapêutica com efavirenz. Na maioria dos doentes, a erupção cutânea resolveu-se continuando com a terapêutica com efavirenz no período de um mês. Em estudos clínicos, 1,7% dos doentes tratados com efavirenz interromperam a terapêutica devido a erupção cutânea. O efavirenz pode ser reiniciado em doentes que interrompem a terapêutica devido a erupção cutânea. Recomenda-se a utilização de anti-histamínicos e/ou corticosteróides apropriados quando efavirenz é reiniciado.
+ A experiência com efavirenz em doentes que interromperam outros medicamentos anti-retrovirais da classe dos análogos não nucleosídeos inibidores da transcriptase reversa (NNRTIs) é limitada. Dezanove doentes que interromperam nevirapina devido a erupção cutânea foram tratados com efavirenz. Nove destes doentes desenvolveram uma erupção cutânea ligeira a moderada enquanto estavam a receber terapêutica com efavirenz e dois interromperam devido a erupção cutânea.
+ Sintomas psiquiátricos com efavirenz: os doentes com antecedentes de perturbações psiquiátricas parecem apresentar um risco superior das reacções adversas psiquiátricas graves listadas na coluna do
+ 24 efavirenz da Tabela 4, com a frequência de acontecimentos variando entre 0,3% para reacções maníacas e 2,0% para depressão grave e ideação de suicídio.
+ Sintomas ao nível do sistema nervoso com efavirenz: em estudos clínicos controlados, os sintomas ao nível do sistema nervoso de intensidade moderada a grave foram experienciados por 19,4% dos doentes, em comparação com 9,0% dos doentes que estavam a receber regimes de controlo. Estes sintomas foram graves em 2,0% dos doentes a receber 600 mg de efavirenz por dia e em 1,3% dos doentes que receberam regimes de controlo. Nos estudos clínicos, 2,1% dos doentes tratados com 600 mg de efavirenz interromperam a terapêutica devido a sintomas ao nível do sistema nervoso.
+ Os sintomas ao nível do sistema nervoso iniciam-se normalmente durante o primeiro ou dois primeiros dias da terapêutica e resolvem-se normalmente após as primeiras duas a quatro semanas. Os sintomas ao nível do sistema nervoso podem ocorrer mais frequentemente quando o efavirenz é tomado concomitantemente com refeições, possivelmente devido ao aumento dos níveis plasmáticos de efavirenz (ver secção 5.2). A administração ao deitar parece melhorar a tolerabilidade destes sintomas (ver secção 4.2).
+ A análise dos dados a longo prazo de um estudo clínico (mediana do tempo de seguimento foi 180 semanas,102 semanas e 76 semanas para doentes tratados, respectivamente, com efavirenz+ zidovudina+ lamivudina, efavirenz+ indinavir, e indinavir+ zidovudina+ lamivudina) demonstrou que, para além das 24 semanas de terapêutica, as incidências de novos sintomas ao nível do sistema nervoso nos doentes tratados com efavirenz foram de modo geral semelhantes às dos doentes do grupo de controlo.
+ Acidose láctica: a acidose láctica, geralmente associada a esteatose hepática, tem sido notificada com a utilização de análogos nucleosídeos (ver secção 4.4).
+ Doentes co-infectados com VIH e VHB ou VHC: Apenas um número limitado de doentes estavam co-infectados pelo VHB (n=13) ou VHC (n=26) no estudo GS-01-934. O perfil das reacções adversas do efavirenz. da emtricitabina e do tenofovir disoproxil fumarato em doentes co-infectados com VIH/VHB ou VIH/HCV foi idêntico ao observado em doentes infectados pelo VIH sem co-infecção. No entanto, tal como seria de esperar nesta população de doentes, as elevações da AST e ALT ocorreram com maior frequência do que na generalidade da população infectada pelo VIH.
+ Amilase: em estudos clínicos, foram observados aumentos assintomáticos nos níveis de amilase sérica &gt; 1,5 vezes LSN em 10% dos doentes tratados com efavirenz e 6% dos doentes tratados com regimes de controlo. Desconhece-se o significado clínico de aumentos assintomáticos da amilase sérica.
+ Lípidos, lipodistrofia e alterações metabólicas: a terapêutica anti-retroviral combinada foi associada a alterações metabólicas, tais como hipertrigliceridemia, hipercolesterolemia, resistência à insulina, hiperglicemia e hiperlactatemia (ver secção 4.4).
+ A terapêutica anti-retroviral combinada foi associada à redistribuição do tecido adiposo corporal (lipodistrofia) em doentes infectados pelo VIH, incluindo a perda da camada adiposa subcutânea periférica e facial, aumento de tecido adiposo intra-abdominal e visceral, hipertrofia mamária e acumulação de gordura dorso-cervical (bossa de búfalo) (ver secção 4.4).
+ Síndrome de reactivação imunológica: em doentes infectados pelo VIH com deficiência imunológica grave à data de início da TARC, pode ocorrer uma reacção inflamatória a infecções oportunistas assintomáticas ou residuais (ver secção 4.4).
+ Interacção com o doseamento de canabinóides: o efavirenz não se liga aos receptores dos canabinóides. Foram notificados resultados falsos positivos do doseamento de canabinóides na urina em voluntários não infectados que receberam efavirenz. Foram observados resultados falsos positivos do doseamento apenas com o método “ CEDIA DAU Multi-Level THC ”, que é utilizado para rastreio,
+ 25 e não foram observados com outros métodos de doseamento de canabinóides testados, incluindo os testes utilizados para confirmação dos resultados positivos.
+ Osteonecrose: foram notificados casos de osteonecrose, particularmente em doentes com factores de risco identificados, doença por VIH avançada ou exposição prolongada a terapêutica anti-retroviral combinada (TARC). A sua frequência é desconhecida (ver secção 4.4).
+ 4.9 Sobredosagem Alguns doentes que tomaram acidentalmente 600 mg de efavirenz duas vezes por dia notificaram um aumento dos sintomas ao nível do sistema nervoso. Um doente experienciou contracções musculares involuntárias.
+ Se ocorrer sobredosagem, o doente tem de ser monitorizado para pesquisa de toxicidade (ver secção 4.8) e, se necessário, deve ser administrada terapêutica de suporte.
+ Pode efectuar-se a administração de carvão activado para auxiliar a remoção do efavirenz não absorvido. Não existe um antídoto específico para a sobredosagem com efavirenz. Como o efavirenz se encontra altamente ligado às proteínas, é improvável que a diálise remova quantidades significativas deste fármaco do sangue.
+ Por hemodiálise pode remover-se até 30% da dose de emtricitabina e aproximadamente 10% da dose de tenofovir. Desconhece-se se a emtricitabina ou o tenofovir podem ser eliminados por diálise peritoneal.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Antivirais para o tratamento de infecções por VIH, associações, código ATC: J05AR06
+ Mecanismo de acção: o efavirenz é um NNRTI do VIH-1. O efavirenz inibe não competitivamente a transcriptase reversa (TR) do VIH-1 e não inibe significativamente a TR do vírus da imunodeficiência humana do tipo 2 (VIH-2) nem as polimerases (α, β, γ, e δ) do ácido desoxirribonucleico (ADN) celular. A emtricitabina é um análogo nucleosídeo da citidina. O tenofovir disoproxil fumarato é convertido in vivo em tenofovir, que é um análogo nucleosídeo monofosfatado (nucleótido) do monofosfato de adenosina.
+ A emtricitabina e o tenofovir são fosforilados por enzimas celulares para formar o trifosfato de emtricitabina e o difosfato de tenofovir, respectivamente. Estudos in vitro demonstraram que tanto a emtricitabina como o tenofovir podem ser totalmente fosforilados quando ambos estão presentes nas células. O trifosfato de emtricitabina e o difosfato de tenofovir inibem competitivamente a transcriptase reversa do VIH-1, por terminação da cadeia de ADN.
+ Tanto o trifosfato de emtricitabina como o difosfato de tenofovir são fracos inibidores das ADN polimerases dos mamíferos e não houve evidência de toxicidade mitocondrial, in vitro e in vivo.
+ Actividade antiviral in vitro: o efavirenz demonstrou uma actividade antiviral contra a maior parte dos isolados non-clade B (subtipos A, AE, AG, C, D, F, G, J e N) mas apresentou uma actividade antiviral diminuída contra os vírus do grupo O. A emtricitabina exibiu actividade antiviral contra os VIH-1 de clades A, B, C, D, E, F e G. O tenofovir exibiu actividade antiviral contra os VIH-1 de clades A, B, C, D, E, F, G e O. A emtricitabina e o tenofovir apresentaram uma actividade específica de estirpe contra o VIH-2 e uma actividade antiviral contra o VHB.
+ 26 Em estudos de associação que avaliam a actividade antiviral in vitro conjunta do efavirenz e da emtricitabina, o efavirenz e o tenofovir em conjunto, e a emtricitabina e o tenofovir combinados, observaram-se efeitos antivirais de aditivos a sinérgicos.
+ Resistência: a resistência ao efavirenz pode ser seleccionada in vitro e resultou em substituições de aminoácidos únicas ou múltiplas na TR do VIH-1, incluindo L100I, V108I, V179D e Y181C. Durante estudos clínicos do efavirenz, a substituição de K103N na TR foi a observada com maior frequência em isolados virais de doentes que sofreram um aumento na carga viral. Observaram-se também substituições nas posições 98,100,101,108,138,188,190 ou 225 da TR, mas com frequências mais baixas, e muitas vezes apenas em associação com K103N. Os perfis de resistência cruzada para o efavirenz, nevirapina e delavirdina in vitro demonstraram que a substituição de K103N confere uma perda de susceptibilidade aos três NNRTIs.
+ O potencial para uma resistência cruzada entre o efavirenz e os NRTIs é baixo devido aos diferentes locais de ligação no alvo e devido ao mecanismo de acção. O potencial para uma resistência cruzada entre o efavirenz e os PIs é baixo devido aos diferentes alvos enzimáticos envolvidos.
+ Foi observada resistência à emtricitabina ou ao tenofovir in vitro e em alguns doentes infectados pelo VIH-1 devido ao desenvolvimento de uma substituição de M184V ou de M184I da TR associada à emtricitabina ou uma substituição de K65R da TR associada ao tenofovir. Não foram identificados quaisquer outros mecanismos de resistência à emtricitabina ou ao tenofovir. Os vírus com a mutação M184V/I de resistência à emtricitabina apresentaram resistência cruzada à lamivudina, mas mantiveram a sensibilidade à didanosina, estavudina, tenofovir e zidovudina. A mutação K65R pode também ser seleccionada pelo abacavir ou didanosina e resulta numa susceptibilidade reduzida a estes fármacos e à lamivudina, à emtricitabina e ao tenofovir. Em doentes que tenham estirpes de VIH-1 com a mutação K65R deve evitar-se o uso de tenofovir disoproxil fumarato. Ambas as mutações, K65R e M184V/I, permanecem totalmente susceptíveis ao efavirenz.
+ Os doentes com estirpes de VIH-1 com três ou mais mutações da transcriptase reversa associadas a análogos da timidina (TAMs) que incluíam uma substituição de M41L ou de L210W da TR, apresentaram susceptibilidade reduzida ao tenofovir disoproxil fumarato.
+ Resistência in vivo (doentes sem terapêutica anti-retroviral prévia): presentemente, existem dados extremamente limitados de resistência disponíveis em doentes tratados com Atripla. Contudo, num estudo clínico aberto aleatorizado (GS-01-934), de 144 semanas, em doentes sem terapêutica anti-retroviral prévia, no qual se utilizaram formulações individuais de efavirenz, emtricitabina e tenofovir disoproxil fumarato (ou na forma de efavirenz com a combinação fixa de emtricitabina e tenofovir disoproxil fumarato (Truvada) desde a semana 96 até à 144) foi realizada uma genotipagem em isolados de VIH-1 do plasma de todos os doentes com ARN VIH &gt; 400 cópias/ml confirmado na semana 144 ou com interrupção precoce do medicamento estudado (ver secção Experiência clínica). À semana 144:
+ • A mutação M184V/I desenvolveu-se em 2/19 (10,5%) dos isolados analisados de doentes no grupo de efavirenz+ emtricitabina+ tenofovir disoproxil fumarato e em 10/29 (34,5%) dos isolados analisados do grupo de efavirenz+ lamivudina/zidovudina (p &lt; 0,05, Teste Exacto de Fisher comparando o grupo de emtricitabina+ tenofovir disoproxil fumarato ao grupo de lamivudina/zidovudina entre todos os indivíduos). • Nenhum vírus analisado continha a mutação K65R. • A resistência genotípica ao efavirenz, predominantemente a mutação K103N, desenvolveu-se no vírus de 13/19 (68%) doentes no grupo de efavirenz+ emtricitabina+ tenofovir disoproxil fumarato e no vírus de 21/29 (72%) doentes no grupo de efavirenz+ lamivudina/zidovudina. Na tabela 5 encontra-se resumido o desenvolvimento de mutações de resistência.
+ 27 Tabela 5: Desenvolvimento de resistência no estudo GS-01-934 na semana 144
+ Efavirenz+ Efavirenz+lamivudina/ emtricitabina+
+ zidovudina
+ tenofovir disoproxil fumarato (N=244)
+ (N=243)
+ Análise da resistência na semana 144 19 31 Genótipos em terapêutica 1
+ 19 (100%) 29 (100%)
+ Resistência ao efavirenz K103N K101E G190A/S Y188C/H V108I P225H M184V/I K65R 2
+ 13 (68%) 8 (42%) 3 (16%) 2 (10,5%) 1 (5%) 1 (5%) 0 2 (10,5%) 0
+ 21 18* 3 4 2 1 2 10* 0
+ (72%) (62%) (10%) (14%) (7%) (3%) (7%) (34,5%)
+ TAMs 2 (7%)
+ * valor p &lt; 0,05, teste Exacto de Fisher comparando o grupo tratado com efavirenz+ emtricitabina+ tenofovir disoproxil fumarato com o grupo tratado com efavirenz+ lamivudina/zidovudina, entre todos os doentes. 1 Outras mutações de resistência ao efavirenz incluíram A98G (n=1), K103E (n=1), V179D (n=1) e M230L (n=1). 2 As mutações associadas a análogos da timidina incluíram D67N (n=1) e K70R (n=1).
+ Por favor consulte o Resumo das Características do Medicamento dos componentes individuais para informações adicionais referentes à resistência in vivo com estes medicamentos.
+ Experiência clínica Num estudo clínico aleatorizado aberto de 144 semanas (GS-01-934), doentes infectados pelo VIH-1 sem terapêutica anti-retroviral prévia receberam um regime de efavirenz, emtricitabina e tenofovir disoproxil fumarato administrado uma vez por dia, ou uma associação fixa de lamivudina e zidovudina (Combivir), administrada duas vezes por dia, e efavirenz, administrado uma vez por dia (por favor consulte o Resumo das Características do Medicamento de Truvada). Aos doentes que completaram 144 semanas de tratamento em qualquer um dos grupos de tratamento no estudo GS-01-934 foi dada a opção de continuarem numa fase de prolongamento aberta do estudo com Atripla administrado num estômago vazio. Estão disponíveis dados preliminares de 24 semanas de um total de 286 doentes que mudaram para Atripla: 160 tinham recebido previamente efavirenz, emtricitabina e tenofovir disoproxil fumarato e 126 tinham recebido previamente Combivir e efavirenz. A maioria dos doentes dos dois grupos de tratamento inicial mantiveram a supressão virológica após mudarem para Atripla. Em 91% dos doentes, as concentrações plasmáticas de ARN VIH-1 permaneceram &lt; 50 cópias/ml e em 97% &lt; 400 cópias/ml, após 24 semanas de tratamento com Atripla (análise da intenção de tratar (intention to treat analysis, ITT), falta=insucesso).
+ O estudo AI266073 foi um estudo clínico de 48 semanas, aleatorizado aberto, em doentes infectados pelo VIH, que compara a eficácia de Atripla com uma terapêutica anti-retroviral consistindo em pelo menos dois nucleósidos ou nucleótidos inibidores da transcriptase reversa (NRTIs) com um inibidor da protease ou um não nucleósido inibidor da transcriptase reversa; não sendo, no entanto, um regime contendo todos os componentes de Atripla (efavirenz, emtricitabina e tenofovir disoproxil fumarato).
+ 28 Atripla foi administrado num estômago vazio (ver secção 4.2). Os doentes nunca tinham tido falência virológica numa terapêutica anti-retroviral prévia, não tinham mutações conhecidas do VIH-1 que conferissem resistência a qualquer dos três componentes de Atripla e apresentaram uma supressão virológica durante, pelo menos, três meses à data do início do estudo. Os doentes mudaram para Atripla (N=203) ou continuaram com o seu regime inicial anti-retroviral (N=97). Dados de quarenta e oito semanas demonstraram que os níveis elevados de supressão virológica, comparáveis com os do regime terapêutico inicial, se mantiveram em doentes que foram aleatorizados para mudar para Atripla (ver Tabela 6).
+ Tabela 6: Dados de eficácia de 48 semanas do estudo AI266073, no qual Atripla foi administrado a doentes com supressão virológica em terapêutica anti-retroviral combinada
+ Grupo de tratamento
+ Objectivo Atripla (N=203) n/N (%)
+ Mantiveram-se no regime Diferença entre Atripla e o regime terapêutico inicial
+ terapêutico inicial (N=97) n/N (%)
+ (IC 95%)
+ doentes com ARN VIH-1 &lt; 50 cópias/ml PVR (KM)
+ 94,5% 85,5% 8,9% (-7,7% a 25,6%) M=Excluídos M=Insucessos 179/181 (98,9%) 179/203 (88,2%) 85/87 (97,7%) 85/97 (87,6%) 1,2% (-2,3% a 6,7%) 0,5% (-7,0% a 9,3%) LOCF modificado 190/203 (93,6%) 94/97 (96,9%) -3,3% (-8,3% a 2,7%)
+ doentes com ARN VIH-1 &lt; 200 cópias/ml PVR (KM)
+ 98,4% 98,9% -0,5% (-3,2% a 2,2%)
+ M=Excluídos 181/181 (100%) 87/87 (100%) 0% (-2,4% a 4,2%) M=Insucessos 181/203 (89,2%) 87/97 (89,7%) -0,5% (-7,6% a 7,9%)
+ PVR (KM): Resposta virológica pura, avaliada utilizando o método de Kaplan Meier (KM) M: Em falta LOCF modificado: Análise post-hoc, onde os doentes com falência virológica ou que interromperam devido a acontecimentos adversos foram tratados como insucessos; nas outras desistências foi aplicado o método LOCF (last observation carried forward).
+ Quando se analisaram os dois estratos separadamente, as taxas de resposta no estrato com tratamento anterior com PIs foram numericamente inferiores para os doentes que mudaram para Atripla[ 92,4% vs 94% para a PVR (análise de sensibilidade) para doentes em Atripla e SBR (stayed on their baseline regimen) respectivamente; uma diferença (IC 95%) de-1,6% (-10,0%, 6,7%)]. No estrato com tratamento anterior com NNRTI, as taxas de resposta foram 98,9% vs 97,4% para doentes em Atripla e SBR respectivamente; uma diferença (IC 95%) de 1,4% (-4,0%, 6,9%).
+ Presentemente, não existem dados disponíveis de estudos clínicos com Atripla em doentes sem terapêutica anti-retroviral prévia ou em doentes tratados previamente de forma intensa. Não existe experiência clínica com Atripla em doentes que apresentam falência virológica num regime anti-retroviral de primeira linha ou em associação a outros medicamentos anti-retrovirais.
+ Doentes co-infectados com VIH e VHB: experiência clínica limitada em doentes co-infectados com VIH e VHB sugerem que o tratamento com emtricitabina ou tenofovir disoproxil fumarato em terapêutica anti-retroviral combinada para controlar a infecção VIH também resulta numa redução de ADN-VHB (redução de 3 log10 ou redução de 4 a 5 log10, respectivamente) (ver secção 4.4).
+ 5.2 Propriedades farmacocinéticas As formas farmacêuticas separadas de efavirenz, emtricitabina e tenofovir disoproxil fumarato foram utilizadas para determinar a farmacocinética de efavirenz, emtricitabina e tenofovir disoproxil fumarato, administrados separadamente em doentes infectados pelo VIH. A bioequivalência de um comprimido revestido por película de Atripla a um comprimido revestido por película de 600 mg de
+ 29 efavirenz mais uma cápsula de 200 mg de emtricitabina e mais um comprimido revestido por película de 245 mg de tenofovir disoproxil (equivalente a 300 mg de tenofovir disoproxil fumarato) administrados conjuntamente, foi estabelecida após a administração de uma dose única em jejum a indivíduos saudáveis no estudo GS-US-177-0105 (ver Tabela 7).
+ Tabela 7: Resumo dos dados farmacocinéticos obtidos no estudo GS-US-177-0105
+ Efavirenz (n=45) RMG (%) Emtricitabina (n=45) RMG (%)
+ Tenofovir disoproxil fumarato (n=45) RMG (%)
+ Parâmetros Teste Referência (IC 90%) 98,79
+ Teste Referência (IC 90%) 88,84
+ Teste Referência (IC 90%) 91,46
+ Cmax (ng/ml) 2. 264,3 2. 308,6 (92,28,
+ 2. 130,6 2. 384,4 (84,02,
+ 325,1 352,9 (84,64,
+ (26,8)
+ (30,3)
+ 105,76) 95,84 (25,3) (20,4)
+ 93,94) 97,98 (34,2)
+ (29,6)
+ 98,83) 99,29 AUC0-last 125. 623,6 132. 795,7 (25,7) (27,0) (ng· h/ml)
+ (90,73,
+ 10. 682,6 10. 874,4 (18,1) (14,9)
+ (94,90,
+ 1. 948,8 1. 969,0 (32,9) (32,8)
+ (91,02,
+ AUCinf 146. 074,9 155. 518,6 101,23) 95,87 10. 854,9 11. 054,3 101,16) 97,96 2. 314,0 2. 319,4 108,32) 100,45 (33,1) (34,6)
+ (89,63,
+ (17,9) (14,9)
+ (94,86,
+ (29,2) (30,3)
+ (93,22,
+ (ng· h/ml)
+ 102,55) 101,16) 108,23) T1/2 180,6 182,5 14,5 14,6 18,9 17,8 (h)
+ (45,3)
+ (38,3)
+ (53,8)
+ (47,8)
+ (20,8)
+ (22,6)
+ Teste: um único comprimido da associação de dose fixa tomado em condições de jejum. Referência: uma dose única de um comprimido de 600 mg de efavirenz, uma cápsula de 200 mg de emtricitabina e de um comprimido de 300 mg de tenofovir disoproxil fumarato tomados em condições de jejum. Os valores do Teste e da Referência correspondem à média (coeficiente de variação em%). RMG=razão das médias geométricas dos quadrados mínimos, IC=intervalo de confiança
+ Absorção: em doentes infectados pelo VIH, as concentrações plasmáticas máximas de efavirenz foram atingidas ao fim de 5 horas e as concentrações plasmáticas em estado estacionário em 6 a 7 dias. Em 35 doentes que receberam 600 mg de efavirenz uma vez por dia, a concentração máxima (Cmax) em estado estacionário foi de 12,9 ± 3,7 µM (29%)[ média ± desvio padrão (DP) (coeficiente de variação (% CV)], a Cmin em estado estacionário foi de 5,6 ± 3,2 µM (57%) e a AUC foi de 184 ± 73 µM• h (40%).
+ A emtricitabina é rapidamente absorvida, sendo as concentrações plasmáticas máximas atingidas 1 a 2 horas após a administração. A seguir à administração oral de dose múltipla de emtricitabina a 20 doentes infectados pelo VIH, a Cmax em estado estacionário foi de 1,8 ± 0,7 µg/ml (média ± DP) (39% CV), a Cmin em estado estacionário foi de 0,09 ± 0,07 µg/ml (80%) e a AUC foi de 10,0 ± 3,1 µg• h/ml (31%) ao longo de um intervalo entre doses de 24 horas.
+ Após a administração oral de uma dose única de 300 mg de tenofovir disoproxil fumarato a doentes infectados pelo VIH-1 em jejum, as concentrações máximas de tenofovir foram atingidas dentro de uma hora e os valores da Cmax e da AUC (média ± DP) (% CV) foram de 296 ± 90 ng/ml (30%) e 2.287 ± 685 ng• h/ml (30%), respectivamente. A biodisponibilidade oral de tenofovir a partir do tenofovir disoproxil fumarato em doentes em jejum foi de aproximadamente 25%.
+ Efeito dos alimentos: Atripla não foi avaliado na presença de alimentos.
+ A administração de cápsulas de efavirenz com uma refeição rica em lípidos aumentou a AUC e a Cmax médias do efavirenz em 28% e 79%, respectivamente, em comparação com a administração em jejum. Comparativamente com a administração em jejum, a dosagem de tenofovir disoproxil fumarato e emtricitabina em associação com uma refeição rica em lípidos ou uma refeição leve aumentou a AUC e a Cmax médias de tenofovir em 35% e 15%, respectivamente, sem afectar as exposições à emtricitabina.
+ 30 Recomenda-se que Atripla seja administrado com o estômago vazio, dado que os alimentos podem aumentar a exposição ao efavirenz e podem conduzir a um aumento da frequência de reacções adversas (ver secções 4.4 e 4.8). Prevê-se que a exposição ao tenofovir diminua em aproximadamente 35% após administração de Atripla num estômago vazio, em comparação com o componente individual tenofovir disoproxil fumarato, quando tomado com alimentos. Dados de quarenta e oito semanas de um estudo clínico (AI266073) demonstraram a manutenção da supressão virológica no caso de doentes com supressão virológica estável em terapêutica anti-retroviral combinada e que mudaram subsequentemente para Atripla com a recomendação de administração de Atripla num estômago vazio.
+ Distribuição: o efavirenz está altamente ligado (&gt; 99%) às proteínas plasmáticas humanas, predominantemente à albumina.
+ In vitro, a ligação da emtricitabina às proteínas plasmáticas humanas é &lt; 4% e independente das concentrações dentro do intervalo de 0,02 a 200 µg/ml. Após administração intravenosa, o volume de distribuição da emtricitabina foi aproximadamente de 1,4 l/kg. Após administração oral, a emtricitabina é largamente distribuída no organismo. O rácio da concentração média de plasma/sangue foi de aproximadamente 1,0 e o rácio da concentração média de sémen/plasma foi de aproximadamente 4,0.
+ In vitro, a ligação do tenofovir às proteínas plasmáticas ou séricas humanas é &lt; 0,7% e 7,2%, respectivamente, dentro do intervalo de concentrações de tenofovir de 0,01 a 25 µg/ml. Após administração intravenosa, o volume de distribuição de tenofovir foi aproximadamente de 800 ml/kg. Após administração oral, o tenofovir é largamente distribuído no organismo.
+ Biotransformação: estudos em humanos e estudos in vitro utilizando microssomas hepáticos humanos demonstraram que o efavirenz é metabolizado principalmente pelo sistema do citocromo P450 em metabolitos hidroxilados, com glucuronidação subsequente destes metabolitos hidroxilados. Estes metabolitos são essencialmente inactivos contra o VIH-1. Os estudos in vitro sugerem que o CYP3A4 e o CYP2B6 são as principais isoenzimas responsáveis pelo metabolismo do efavirenz e que este inibe as isoenzimas 2C9, 2C19 e 3A4 do P450. Em estudos in vitro, o efavirenz não inibiu o CYP2E1 e inibiu o CYP2D6 e o CYP1A2 apenas em concentrações muito superiores àquelas que são alcançadas clinicamente.
+ A exposição plasmática ao efavirenz pode estar aumentada em doentes homozigóticos com a variante genética G516T da isoenzima CYP2B6. Desconhece-se as implicações clínicas deste tipo de associação; contudo, não se pode excluir o potencial de um aumento da frequência e da gravidade dos acontecimentos adversos associados ao efavirenz.
+ Demonstrou-se que o efavirenz induz as enzimas do P450, resultando na indução do seu próprio metabolismo. Em voluntários não infectados, doses múltiplas de 200 a 400 mg por dia durante 10 dias originaram uma extensão de acumulação inferior à prevista (22 a 42% mais baixa) e um tempo de semi-vida terminal mais curto de 40 a 55 horas (tempo de semi-vida de uma dose única de 52 a 76 horas).
+ O metabolismo da emtricitabina é limitado. A biotransformação da emtricitabina inclui a oxidação da metade tiol para formar os diastereoisómeros 3´-sulfóxido (aproximadamente 9% da dose) e a conjugação com o ácido glucorónico para formar o 2´-O-gluocoronido (aproximadamente 4% da dose). Os estudos in vitro determinaram que nem o tenofovir disoproxil fumarato nem o tenofovir são substratos para as enzimas do CYP450. Nem a emtricitabina nem o tenofovir inibiram in vitro o metabolismo de fármacos mediado por qualquer uma das principais isoformas do CYP450 humano envolvidas na biotransformação de fármacos. A emtricitabina também não inibiu a uridina-5´-difosfato glucoroniltransferase, a enzima responsável pela glucoronidação.
+ Eliminação: o efavirenz tem um tempo de semi-vida terminal relativamente longo, pelo menos de 52 horas após doses únicas (ver também os dados do estudo de bioequivalência acima descrito), e de 40 a 55 horas, após doses múltiplas. Aproximadamente 14 a 34% de uma dose marcada
+ 31 radioactivamente de efavirenz foi recuperada na urina e menos de 1% da dose foi excretada na urina como efavirenz inalterado.
+ O tempo de semi-vida de eliminação da emtricitabina, após administração oral, é de, aproximadamente,10 horas. A emtricitabina é excretada principalmente pelos rins, com uma recuperação total da dose alcançada na urina (aproximadamente 86%) e nas fezes (aproximadamente 14%). Treze por cento da dose de emtricitabina foi recuperada na urina na forma de três metabolitos. A depuração sistémica da emtricitabina foi, em média,307 ml/min.
+ Após administração oral, o tempo de semi-vida de eliminação do tenofovir é de, aproximadamente,12 a 18 horas. O tenofovir é excretado principalmente pelo rim, por filtração e também pelo sistema de transporte tubular activo sendo aproximadamente 70 a 80% da dose excretada na forma inalterada na urina após a administração intravenosa. A média de depuração aparente do tenofovir foi estimada em aproximadamente 307 ml/min. A depuração renal foi estimada como sendo aproximadamente 210 ml/min, a qual excede a taxa de filtração glomerular. Isto indica que a secreção tubular activa é uma parte importante da eliminação do tenofovir.
+ Idade, sexo e etnicidade: a farmacocinética da emtricitabina e do tenofovir é semelhante em doentes do sexo masculino e feminino. Apesar de dados limitados sugerirem que as mulheres, bem como os doentes asiáticos e das ilhas do Pacífico podem ter uma exposição superior ao efavirenz, estes não parecem ser menos tolerantes ao efavirenz.
+ Não foram efectuados estudos farmacocinéticos com efavirenz, emtricitabina ou tenofovir em idosos (com idade superior a 65 anos).
+ Não foram efectuados estudos farmacocinéticos com Atripla em lactentes e em crianças (ver secção 4.2).
+ Compromisso renal: a farmacocinética do efavirenz, da emtricitabina e do tenofovir disoproxil fumarato após a co-administração das formas farmacêuticas separadas ou como Atripla não foi estudada em doentes com compromisso renal infectados pelo VIH.
+ Os parâmetros farmacocinéticos foram determinados após a administração de doses únicas das preparações individuais de 200 mg de emtricitabina ou 245 mg de tenofovir disoproxil a doentes não infectados pelo VIH com graus variáveis de compromisso renal. O grau de compromisso renal foi definido de acordo com os níveis basais da depuração da creatinina (função renal normal quando a depuração da creatinina &gt; 80 ml/min; compromisso renal ligeiro se a depuração da creatinina= 50 a 79 ml/min; compromisso renal moderado se a depuração da creatinina= 30 a 49 ml/min e compromisso renal grave se a depuração da creatinina= 10 a 29 ml/min).
+ A exposição média a emtricitabina (% CV) aumentou de 12 µg• h/ml (25%) em indivíduos com a função renal normal, para 20 µg• h/ml (6%),25 µg• h/ml (23%) e 34 µg• h/ml (6%), em doentes com compromisso renal ligeiro, moderado e grave, respectivamente.
+ A exposição média ao tenofovir (% CV) aumentou de 2.185 ng• h/ml (12%) em doentes com a função renal normal, para 3.064 ng• h/ml (30%), 6.009 ng• h/ml (42%) e 15.985 ng• h/ml (45%), em doentes com compromisso renal ligeiro, moderado e grave, respectivamente.
+ Em doentes com doença renal em fase terminal (End Stage Renal Disease-ESRD) necessitando de hemodiálise, as exposições aos fármacos entre diálise aumentaram substancialmente durante 72 horas para 53 µg• h/ml (19%) de emtricitabina e durante 48 horas para 42.857 ng• h/ml (29%) de tenofovir.
+ A farmacocinética do efavirenz não foi estudada em doentes com compromisso renal. Contudo, menos de 1% de uma dose de efavirenz é excretado inalterado na urina, devendo então ser mínimo o impacto do compromisso renal na exposição ao efavirenz.
+ 32 Atripla não é recomendado em doentes com compromisso renal moderado ou grave (depuração da creatinina &lt; 50 ml/min). Os doentes com compromisso renal moderado ou grave requerem um ajuste do intervalo entre doses de emtricitabina e tenofovir disoproxil fumarato que não pode ser obtido com a associação num comprimido (ver secções 4.2 e 4.4).
+ Compromisso hepático: a farmacocinética de Atripla não foi estudada em doentes com compromisso hepático infectados pelo VIH. Atripla deve ser administrado com precaução a doentes com doença hepática ligeira a moderada (ver secções 4.3 e 4.4).
+ Atripla não pode ser usado em doentes com compromisso hepático grave (ver secção 4.3).
+ No único doente estudado com compromisso hepático grave (CPT, Grau C), verificou-se duplicação do tempo de semi-vida do efavirenz, indicando um potencial para um grau de acumulação muito superior.
+ A farmacocinética da emtricitabina não foi estudada em doentes não infectados pelo VHB com diferentes graus de insuficiência hepática. De um modo geral, a farmacocinética da emtricitabina em doentes infectados pelo VHB foi idêntica à verificada em indivíduos saudáveis e doentes infectados pelo VIH.
+ Uma dose única de 300 mg de tenofovir disoproxil fumarato foi administrada a doentes não infectados pelo VIH com diferentes graus de compromisso hepático definidos de acordo com a classificação CPT. A farmacocinética do tenofovir não foi substancialmente alterada nos indivíduos com compromisso hepático sugerindo que não é necessário um ajuste da dose do tenofovir disoproxil fumarato nestes indivíduos.
+ 5.3 Dados de segurança pré-clínica Observaram-se malformações em 3 de um total de 20 fetos/recém-nascidos de macacos cinomolgos, tratados com efavirenz, aos quais foram administradas doses que produzem concentrações plasmáticas de efavirenz similares àquelas observadas em humanos. Observou-se anencefalia e anoftalmia unilateral com aumento secundário do volume da língua num feto, microftalmia num outro feto, e observou-se fenda do palato num terceiro feto. O efavirenz induziu a resorção fetal em ratos. Não se observaram malformações em fetos de ratos e coelhos tratados com efavirenz.
+ Os estudos convencionais de toxicidade reprodutiva/desenvolvimento com a emtricitabina e o tenofovir disoproxil fumarato não revelaram riscos especiais para o ser humano.
+ Os estudos de carcinogenicidade utilizando efavirenz demonstraram um aumento da incidência de tumores hepáticos e pulmonares em ratinhos fêmea, mas não em ratinhos macho. Não se conhece o mecanismo da formação de tumores e a potencial relevância para o ser humano. Os estudos de carcinogenicidade utilizando efavirenz em ratinhos macho e em ratos macho e fêmea foram negativos. Embora se desconheça o potencial carcinogénico no ser humano, estes dados sugerem que o benefício clínico do efavirenz ultrapassa o potencial risco carcinogénico para o ser humano.
+ O tenofovir disoproxil fumarato não demonstrou qualquer potencial carcinogénico num estudo de carcinogenicidade a longo prazo efectuado em ratos e que utilizou a via de administração oral. Um estudo de carcinogenicidade a longo prazo efectuado em ratinhos que utilizou doses de 600 mg/kg/dia por via oral, demonstrou uma baixa incidência de tumores duodenais, os quais foram considerados provavelmente relacionados com concentrações locais elevadas no tracto gastrointestinal. Enquanto o mecanismo de formação de tumores for duvidoso, estes resultados não são, provavelmente, relevantes para o ser humano.
+ A emtricitabina não demonstrou qualquer potencial carcinogénico em estudos a longo prazo efectuados em ratos e ratinhos.
+ 33 O efavirenz e a emtricitabina foram negativos nos estudos convencionais de genotoxicidade. O tenofovir disoproxil fumarato foi positivo em dois de três estudos de genotoxicidade in vitro mas negativo no teste de micronúcleo in vivo. A associação de emtricitabina e tenofovir disoproxil fumarato teve um resultado positivo no teste de linfoma no ratinho in vitro, com resultados comparáveis aos obtidos com o tenofovir disoproxil fumarato utilizado isoladamente. A associação de emtricitabina e tenofovir disoproxil fumarato teve um resultado negativo no teste de mutação reversa bacteriana (teste de Ames).
+ Observou-se uma hiperplasia biliar em macacos cinomolgos aos quais se administrou efavirenz, durante ≥ 1 ano, numa dose que produziu valores médios de AUC aproximadamente 2 vezes superiores aos dos humanos a quem se administrou a dose recomendada. A hiperplasia biliar regrediu após interrupção da administração. Foi observada fibrose biliar em ratos. Foram observadas convulsões não-prolongadas em alguns macacos a receber efavirenz durante ≥ 1 ano, em doses que originaram valores de AUC plasmática 4 a 13 vezes superiores à dos humanos a quem se administrou a dose recomendada (ver secções 4.4 e 4.8).
+ Os estudos pré-clínicos de tenofovir disoproxil fumarato efectuados em ratos, cães e macacos revelaram efeitos no osso e uma diminuição da concentração sérica de fosfato. A toxicidade óssea foi diagnosticada como osteomalacia (macacos) e redução da densidade mineral óssea (ratos e cães). Os resultados dos estudos, realizados em ratos e em macacos, indicaram que houve uma diminuição, relacionada com a substância, na absorção intestinal de fosfato com potencial redução secundária na densidade mineral óssea. Os mecanismos destas toxicidades não estão completamente esclarecidos.
+ Um estudo em cães com a duração de um mês utilizando a associação de emtricitabina e tenofovir disoproxil fumarato revelou que não existiu exacerbação de efeitos toxicológicos comparativamente com os resultados obtidos pela utilização dos componentes isoladamente.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Núcleo do comprimido: Croscarmelose sódica Hidroxipropilcelulose Estearato de magnésio Celulose microcristalina Laurilsulfato de sódio
+ Película de revestimento: Óxido de ferro negro Óxido de ferro vermelho Macrogol 3350 Álcool polivinílico Talco Dióxido de titânio
+ 6.2 Incompatibilidades Não aplicável. 6.3 Prazo de validade 2 anos. 34 6.4 Precauções especiais de conservação
+ Conservar na embalagem de origem para proteger da humidade. Manter o frasco bem fechado.
+ 6.5 Natureza e conteúdo do recipiente Frasco de polietileno de alta densidade com um fecho de polipropileno resistente à abertura por crianças, contendo 30 comprimidos revestidos por película e um exsicante de sílica gel.
+ Estão disponíveis as seguintes apresentações: embalagens contendo 1 frasco de 30 comprimidos revestidos por película e 3 frascos de 30 comprimidos revestidos por película. É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais de eliminação Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Bristol-Myers Squibb and Gilead Sciences Limited Unit 13, Stillorgan Industrial Park Blackrock Co. Dublin Irlanda
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/07/430/001 EU/1/07/430/002 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 13 de Dezembro de 2007 10. DATA DA REVISÃO DO TEXTO Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu/.
+ 35 ANEXO II
+ A. TITULARES DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEIS PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 36 A TITULARES DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEIS PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço dos fabricantes responsáveis pela libertação do lote
+ Gilead Sciences Limited Unit 13 Stillorgan Industrial Park Blackrock Co. Dublin Irlanda
+ Gilead Sciences Limited IDA Business &amp; Technology Park Carrigtohill Co. Cork Irlanda
+ O folheto informativo que acompanha o medicamento deve mencionar o nome e endereço do fabricante responsável pela libertação do lote em causa.
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento de receita médica restrita, de utilização reservada a certos meios especializados (ver anexo I: Resumo das Características do Medicamento, secção 4.2).
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ O Titular da Autorização de Introdução no Mercado deve assegurar-se que as actividades de minimização do risco adicionais para abordar as preocupações de segurança renal relacionadas com o tenofovir disoproxil fumarato, uma das substâncias activas presentes em Atripla, estão a ser implementadas para esta associação fixa, à semelhança de todos os medicamentos que contêm tenofovir disoproxil fumarato.
+ • OUTRAS CONDIÇÕES
+ Sistema de farmacovigilância O Titular da Autorização deIntrodução no Mercado deve assegurar que o sistema de farmacovigilância, tal como descrito na versão 2.0 (28/02/2008) e incluido na alteração Tipo II (EMEA/H/C/000797/II/0003) está implementado e em funcionamento antes e enquanto o produto estiver no mercado.
+ Plano de Gestão do Risco O Titular da Autorização de Introdução no Mercado compromete-se a efectuar os estudos e as actividades de farmacovigilância adicionais detalhadas no Plano de Farmacovigilância, tal como acordado na versão 3 (Fevereiro de 2008) do Plano de Gestão do Risco (PGR) apresentado com o primeiro RPS e todas as actualizações subsequentes do PGR aprovadas pelo CHMP.
+ De acordo com a Norma Orientadora do CHMP sobre Sistemas de Gestão do Risco para medicamentos de uso humano, o PGR actualizado deve ser submetido ao mesmo tempo que o Relatório Periódico de Segurança (RPS) seguinte.
+ 37 Além disso, deverá ser submetido um PGR actualizado • Quando for recebida nova informação que possa ter impacto nas actuais Especificações de Segurança, no Plano de Farmacovigilência ou nas actividades de minimização do risco correntes • No prazo de 60 dias após ter sido atingido um objectivo importante (farmacovigilância ou minimização do risco) • A pedido da EMEA
+ 38 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 39 A. ROTULAGEM
+ 40 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO E NO ACONDICIONAMENTO PRIMÁRIO
+ ROTULAGEM DO FRASCO E DA EMBALAGEM 1. NOME DO MEDICAMENTO Atripla 600 mg/200 mg/245 mg comprimidos revestidos por película efavirenz, emtricitabina e tenofovir disoproxil
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada comprimido revestido por película contém 600 mg de efavirenz,200 mg de emtricitabina e 245 mg de tenofovir disoproxil (sob a forma de fumarato).
+ 3. LISTA DOS EXCIPIENTES Contém sódio. Consulte o folheto informativo para mais informação.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 30 comprimidos revestidos por película 3 x 30 comprimidos revestidos por película
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar.
+ Via oral. 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar na embalagem de origem para proteger da humidade. Manter o frasco bem fechado.
+ 41 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Bristol-Myers Squibb and Gilead Sciences Limited Unit 13, Stillorgan Industrial Park Blackrock Co. Dublin Irlanda
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/07/430/001 30 comprimidos revestidos por película EU/1/07/430/002 3 x 30 comprimidos revestidos por película
+ 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Atripla[ apenas no acondicionamento secundário]
+ 42 B. FOLHETO INFORMATIVO
+ 43 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Atripla 600 mg/200 mg/245 mg comprimidos revestidos por película efavirenz, emtricitabina e tenofovir disoproxil
+ Leia atentamente este folheto antes de tomar este medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é Atripla e para que é utilizado 2. Antes de tomar Atripla 3. Como tomar Atripla 4. Efeitos secundários possíveis 5. Como conservar Atripla 6. Outras informações
+ 1. O QUE É ATRIPLA E PARA QUE É UTILIZADO
+ Atripla contém três substâncias activas que são utilizadas para tratar a infecção pelo vírus da imunodeficiência humana (VIH):
+ -o efavirenz é um análogo não nucleosídeo inibidor da transcriptase reversa (NNRTI)
+ -a emtricitabina é um análogo nucleosídeo inibidor da transcriptase reversa (NRTI)
+ -o tenofovir é um análogo nucleótido inibidor da transcriptase reversa (NtRTI)
+ Cada uma destas substâncias activas, também conhecidas como medicamentos anti-retrovirais, actuam interferindo com uma enzima (transcriptase reversa) que é fundamental para que o vírus se possa multiplicar.
+ Atripla é utilizado para o tratamento da infecção pelo Vírus da Imunodeficiência Humana (VIH) em adultos com idade igual ou superior a 18 anos que foram previamente tratados com outros medicamentos anti-retrovirais e têm a sua infecção pelo VIH-1 controlada há pelo menos três meses. Os doentes não devem ter tido um insucesso com uma terapêutica prévia contra o VIH.
+ 2. ANTES DE TOMAR ATRIPLA Não tome Atripla -se tem alergia (hipersensibilidade) a efavirenz, emtricitabina, tenofovir, tenofovir disoproxil
+ fumarato, ou a qualquer outro componente de Atripla, descritos no fim deste folheto.
+ -se tiver doença grave do fígado.
+ -se estiver actualmente a tomar qualquer um dos seguintes medicamentos:
+ ----
+ astemizol ou terfenadina (utilizados para tratar febre dos fenos ou outras alergias) bepridilo (utilizado para tratar doenças cardíacas) cisaprida (utilizada para tratar a azia) alcalóides da cravagem de centeio (por exemplo, ergotamina, di-hidroergotamina, ergonovina e metilergonovina) (utilizados para tratar enxaquecas e dor de cabeça em salva)
+ 44 ---
+ midazolam ou triazolam (utilizado para ajudar a adormecer) pimozida (utilizada para tratar determinadas doenças mentais) hipericão (Hypericum perforatum) (um remédio à base de plantas medicinais utilizado para a depressão e ansiedade)
+ -
+ voriconazol (utilizado para tratar infecções fúngicas)
+ Informe o seu médico imediatamente, se estiver a tomar algum destes medicamentos. A toma destes medicamentos com Atripla aumenta a possibilidade de ocorrerem efeitos secundários graves ou que põem em risco de vida, ou impedir que estes medicamentos actuem convenientemente.
+ Tome especial cuidado com Atripla -As mulheres não devem engravidar durante o tratamento com Atripla e durante as
+ 12 semanas seguintes (ver Gravidez e aleitamento).
+ -Não administrar Atripla a crianças e adolescentes com menos de 18 anos de idade. A
+ utilização de Atripla em crianças e adolescentes ainda não foi estudada.
+ -Pode ainda transmitir o VIH enquanto toma este medicamento, portanto, é importante tomar
+ precauções adequadas para evitar infectar outras pessoas através do contacto sexual ou de transferência de sangue. Este medicamento não é uma cura para a infecção pelo VIH. Enquanto tomar Atripla pode desenvolver, na mesma, infecções ou outras doenças associadas com a infecção pelo VIH.
+ -Tem de continuar sob os cuidados do seu médico enquanto estiver a tomar Atripla.
+ -Informe o seu médico:
+ -
+ se estiver a tomar outros medicamentos que contenham efavirenz, emtricitabina, tenofovir disoproxil, lamivudina ou adefovir dipivoxil. Atripla não deve ser tomado com qualquer um destes medicamentos.
+ -
+ se tem ou tiver tido uma doença nos rins, ou se as análises tiverem apresentado alterações relativas aos seus rins. Atripla não é recomendado se tiver doença nos rins moderada a grave.
+ Atripla pode afectar os seus rins. Antes de iniciar o tratamento, o seu médico pode pedir-lhe análises ao sangue para avaliar a função dos seus rins. O seu médico também pode pedir-lhe análises ao sangue durante o tratamento, para verificar se os seus rins estão a funcionar correctamente.
+ Atripla não é geralmente tomado com outros medicamentos que possam prejudicar os seus rins (ver Tomar Atripla com outros medicamentos). Caso isto seja inevitável, o seu médico irá verificar, uma vez por semana, se os seus rins estão a funcionar correctamente.
+ -
+ se tiver antecedentes de doença mental, incluindo depressão, ou de abuso de drogas ou de álcool. Informe imediatamente o seu médico se se sentir deprimido, tiver pensamentos suicidas ou tiver pensamentos estranhos (ver secção 4, Efeitos secundários possíveis).
+ -
+ se tiver antecedentes de convulsões (ataques ou crises convulsivas) ou se estiver a ser tratado com uma terapêutica anticonvulsivante, como a carbamazepina, o fenobarbital e a fenitoína. Se estiver a tomar qualquer um destes medicamentos, o seu médico pode necessitar de verificar os níveis do medicamento anticonvulsivante no seu sangue para se certificar de que não é afectado enquanto estiver a tomar Atripla. O seu médico pode prescrever-lhe um anticonvulsivante diferente.
+ 45
+ -se tiver antecedentes de doença no fígado, incluindo hepatite crónica activa. Os
+ doentes com doença no fígado, incluindo hepatite B ou C crónica, que estejam a ser tratados com medicamentos anti-retrovirais combinados, apresentam um risco superior de sofrerem complicações graves e potencialmente fatais ao nível do fígado. O seu médico pedir-lhe-á análises ao sangue para verificar se o seu fígado está a funcionar correctamente. Se tiver uma doença grave no fígado, não tome Atripla (ver acima na secção 2, Não tome Atripla).
+ Se tem hepatite B, os sintomas podem agravar-se após a interrupção de Atripla. O seu médico pode então pedir análises ao sangue em intervalos regulares para verificar se o seu fígado está a funcionar correctamente (ver secção 3, Se parar de tomar Atripla).
+ -se é diabético, tem excesso de peso ou tem o colesterol elevado. As terapêuticas
+ anti-retrovirais combinadas (incluindo Atripla) podem elevar os níveis de açúcar no sangue, aumentar as gorduras no sangue (hiperlipidemia), causar alterações da gordura corporal e resistência à insulina (ver secção 4, Efeitos secundários possíveis).
+ -se tem mais de 65 anos. Foi estudado um número insuficiente de doentes com mais de
+ 65 anos de idade. Caso tenha mais de 65 anos e lhe seja receitado Atripla, o seu médico irá observá-lo mais frequentemente.
+ -Uma vez que esteja já a tomar Atripla, fique atento a:
+ -possíveis sinais de acidose láctica. Alguns medicamentos para o VIH, incluindo Atripla,
+ que contêm análogos nucleosídeos podem causar acidose láctica (excesso de ácido láctico no seu sangue), juntamente com o aumento de tamanho do fígado. Uma respiração rápida e profunda, sonolência e sintomas tais como sensação de enjôo (náuseas), vómitos e dor de estômago, podem indicar o desenvolvimento de acidose láctica. Este efeito secundário raro, mas grave, tem sido ocasionalmente fatal. A acidose láctica ocorre mais frequentemente em mulheres, particularmente se tiverem excesso de peso, e em pessoas com doença no fígado. Enquanto estiver a ser tratado com Atripla, o seu médico vai observá-lo cuidadosamente para detectar quaisquer sinais de que possa estar a desenvolver acidose láctica. Se notar quaisquer sintomas de acidose láctica, por favor informe imediatamente o seu médico.
+ -sinais de tonturas, dificuldade em adormecer, sonolência, dificuldade em
+ concentrar-se ou sonhos anormais. Estes efeitos secundários podem começar no primeiro ou nos 2 primeiros dias do tratamento e geralmente passam após as primeiras 2 a 4 semanas.
+ -quaisquer sinais de erupção cutânea. As erupções cutâneas podem ser causadas por
+ Atripla. Se observar alguns sinais de uma erupção cutânea grave com bolhas ou febre, pare de tomar Atripla e informe o seu médico imediatamente. Se tiver tido uma erupção cutânea enquanto tomou outro NNRTI, pode ter um risco acrescido de ter uma erupção cutânea com Atripla.
+ -quaisquer sinais de inflamação ou infecção. Em alguns doentes com infecção avançada
+ por VIH (SIDA) e história de infecção oportunista, podem ocorrer sinais e sintomas de inflamação resultantes de infecções anteriores, pouco tempo após o início do tratamento anti-VIH. Pensa-se que estes sintomas se devem a um aumento da resposta imunológica do organismo, habilitando-o a combater infecções que possam ter existido sem sintomas evidentes. Se notar quaisquer sintomas de infecção, por favor informe imediatamente o seu médico.
+ -problemas ósseos. Alguns doentes em terapêutica anti-retroviral combinada podem
+ desenvolver uma doença óssea chamada osteonecrose (morte do tecido ósseo provocada por falta de afluxo de sangue ao osso). A duração da terapêutica anti-retroviral
+ 46 combinada, a utilização de corticosteróides, o consumo de álcool, a imunossupressão grave, um índice de massa corporal aumentado, entre outros, podem ser alguns dos inúmeros factores de risco para o desenvolvimento desta doença. Os sinais de osteonecrose são rigidez, mal-estar e dores nas articulações (especialmente na anca, joelho e ombro) e dificuldade de movimentos. Por favor informe o seu médico se notar qualquer um destes sintomas.
+ Os problemas ósseos (por vezes resultando em fracturas) podem também ocorrer em doentes que desenvolvem lesão nas células tubulares do rim (ver secção 4, Efeitos secundários possíveis).
+ Ao tomar Atripla com outros medicamentos Não deve tomar Atripla com certos medicamentos. Estes estão indicados sob Não tome Atripla, no início da secção 2. Incluem alguns medicamentos comuns e certos remédios à base de plantas medicinais (incluindo hipericão) que podem causar interacções graves.
+ Informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos. Estes incluem medicamentos obtidos sem receita médica e remédios à base de plantas medicinais.
+ Igualmente, não deve tomar Atripla com quaisquer outros medicamentos que contenham efavirenz, emtricitabina, tenofovir disoproxil, lamivudina ou adefovir dipivoxil.
+ Informe o seu médico se estiver a tomar outros medicamentos que possam prejudicar os seus rins. Alguns exemplos incluem:
+ -aminoglicosídeos, vancomicina (medicamentos para infecções bacterianas)
+ -foscarneto, ganciclovir, cidofovir (medicamentos para infecções virais)
+ -anfotericina B, pentamidina (medicamentos para infecções fúngicas)
+ -interleucina-2 (para tratamento do cancro)
+ Atripla pode interagir com outros medicamentos. Como resultado, as quantidades de Atripla ou de outros medicamentos no seu sangue podem ser afectadas. Isto pode fazer com que os seus medicamentos deixem de actuar adequadamente, ou pode fazer com que os efeitos secundários se agravem. Em alguns casos, o seu médico pode necessitar de ajustar a sua dose ou verificar os seus níveis sanguíneos. É importante informar o seu médico se já estiver a tomar qualquer um dos seguintes:
+ -
+ Medicamentos que contêm didanosina (para infecção pelo VIH): tomar Atripla com outros medicamentos antivirais que contêm didanosina pode aumentar os níveis de didanosina no seu sangue e pode reduzir as contagens de células CD4. Foram notificadas raramente inflamação do pâncreas e acidose láctica (excesso de ácido láctico no sangue), que ocasionalmente causou morte, quando foram tomados em conjunto medicamentos contendo tenofovir disoproxil fumarato e didanosina. O seu médico irá considerar cuidadosamente se deverá tratá-lo com medicamentos que contêm tenofovir e didanosina.
+ -
+ Outros medicamentos utilizados para tratar a infecção pelo VIH: os seguintes inibidores da protease: amprenavir, indinavir, lopinavir/ritonavir, ritonavir, ou atazanavir potencializado pelo ritonavir ou saquinavir. O seu médico pode achar que é melhor tomar um medicamento alternativo ou ajustar a dose dos inibidores da protease.
+ -
+ Medicamentos utilizados para reduzir as gorduras no sangue (também chamados estatinas): atorvastatina, pravastatina, sinvastatina. Atripla pode reduzir a quantidade de estatinas no seu sangue. O seu médico verificará os seus níveis de colesterol e considerará o ajuste da dose da sua estatina, caso necessário.
+ -
+ Medicamentos utilizados para tratar convulsões/crises convulsivas (anticonvulsivantes): carbamazepina, fenitoína, fenobarbital. Atripla pode reduzir a quantidade do anticonvulsivante no seu sangue. A carbamazepina pode reduzir a
+ 47 quantidade de efavirenz, um dos componentes de Atripla, no seu sangue. O seu médico pode achar que é melhor dar-lhe um anticonvulsivante diferente.
+ -
+ Medicamentos utilizados para tratar infecções bacterianas, incluindo a tuberculose e a infecção causada pelo complexo Mycobacterium avium relacionado com a SIDA: claritromicina, rifabutina, rifampicina. O seu médico pode achar que é melhor ajustar a sua dose ou dar-lhe um antibiótico alternativo. Para além disso, o seu médico pode achar que é melhor dar-lhe uma dose adicional de efavirenz para tratar a sua infecção pelo VIH.
+ -
+ Medicamentos utilizados para tratar infecções fúngicas (antifúngicos): itraconazol. Atripla pode reduzir a quantidade de itraconazol no seu sangue. O seu médico pode achar que é melhor dar-lhe um antifúngico diferente.
+ -
+ Contraceptivos hormonais (por exemplo, a pílula ou o implante contraceptivo). Como o potencial do efavirenz, um componente de Atripla, para interagir com contraceptivos hormonais ainda não foi totalmente estudado, deve usar sempre um método fiável de contracepção de barreira (por exemplo, um preservativo) para além do contraceptivo hormonal (ver secção Gravidez e aleitamento).
+ -
+ Metadona, um medicamento utilizado para tratar a dependência de opiáceos, uma vez que o seu médico pode achar que é melhor ajustar a sua dose de metadona.
+ -
+ Sertralina, um medicamento utilizado para tratar a depressão, uma vez que o seu médico pode achar que é melhor ajustar a sua dose de sertralina.
+ -
+ Diltiazem ou medicamentos da mesma família (chamados bloqueadores dos canais de cálcio): quando começar a tomar Atripla, o seu médico pode achar necessário ajustar a dose do bloqueador dos canais de cálcio.
+ -
+ Medicamentos contendo tacrolimus (um medicamento utilizado para prevenir a rejeição de órgãos transplantados, também conhecido como imunossupressor). Quando começar ou parar de tomar Atripla, o seu médico irá monitorizar cuidadosamente os seus níveis plasmáticos de tacrolimus e pode ser necessário ajustar a sua dose.
+ Gravidez e aleitamento As mulheres não devem engravidar durante o tratamento com Atripla e durante as 12 semanas seguintes. O seu médico pode pedir que faça um teste de gravidez para se certificar de que não está grávida antes de iniciar o tratamento com Atripla.
+ Se tem a possibilidade de engravidar durante o tratamento com Atripla, deve usar sempre um método fiável de contracepção de barreira (por exemplo, um preservativo) com outros métodos de contracepção, incluindo o oral (pílula) ou outros contraceptivos hormonais (por exemplo, implantes, injecção). O efavirenz, um dos componentes activos de Atripla, pode permanecer no seu sangue durante algum tempo após paragem da terapêutica. Por conseguinte, deverá continuar a usar as medidas contraceptivas, acima indicadas, durante 12 semanas após ter parado de tomar Atripla.
+ Informe imediatamente o seu médico se estiver grávida ou tencionar engravidar. Se estiver grávida, só deverá tomar Atripla se for decidido entre si e o seu médico que é realmente necessário.
+ Observaram-se anomalias congénitas graves em animais pré-natais e em bebés de mulheres tratadas com efavirenz durante a gravidez. Se tomou Atripla durante a sua gravidez, o seu médico pode pedir-lhe para efectuar análises ao sangue e outros testes de diagnóstico regulares para verificar o desenvolvimento da sua criança.
+ Consulte o seu médico ou farmacêutico antes de tomar qualquer medicamento.
+ Não deverá amamentar durante o tratamento com Atripla. Tanto o VIH como os componentes de Atripla podem passar pelo leite materno e causar danos graves no seu bebé.
+ 48 Condução de veículos e utilização de máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas. Atripla pode causar tonturas, incapacidade de concentração e sonolência. No caso de se sentir afectado, não conduza e não utilize quaisquer ferramentas ou máquinas.
+ Informações importantes sobre alguns componentes de Atripla
+ Este medicamento contém 1 mmol (23,6 mg) de sódio por comprimido, o que deve ser tido em consideração se seguir uma dieta com ingestão controlada de sódio.
+ 3. COMO TOMAR ATRIPLA Tomar Atripla sempre de acordo com as indicações do médico. Fale com o seu médico ou farmacêutico se tiver dúvidas.
+ A dose habitual para adultos é de um comprimido por dia, tomado por via oral. Atripla deve ser tomado com o estômago vazio (geralmente define-se como 1 hora antes ou 2 horas após uma refeição). Engula Atripla inteiro com água.
+ Atripla tem de ser tomado todos os dias. Tomar Atripla à hora de deitar pode ajudar. Deste modo, alguns efeitos secundários (por exemplo, tonturas, sonolência) podem ser menos problemáticos.
+ Se o seu médico decidir interromper um dos componentes de Atripla, pode ser-lhe dado efavirenz, emtricitabina e/ou tenofovir disoproxil em separado ou com outros medicamentos para o tratamento da sua infecção pelo VIH.
+ Se tomar mais Atripla do que deveria Se acidentalmente tomar demasiados comprimidos de Atripla, consulte o seu médico ou aconselhe-se junto do serviço de urgência mais próximo. Mantenha o frasco de comprimidos consigo para que facilmente possa descrever o que tomou.
+ Caso se tenha esquecido de tomar Atripla É importante que não falhe nenhuma dose de Atripla.
+ Caso se tenha esquecido de tomar uma dose de Atripla, tome-a o mais rapidamente possível, e depois tome a sua dose seguinte à hora do costume.
+ Se for já quase hora (menos de 12 horas) da sua próxima dose, não tome a dose que falhou. Espere e tome a dose seguinte à hora do costume. Não tome uma dose a dobrar para compensar um comprimido que se esqueceu de tomar.
+ Se vomitar o comprimido (mesmo após a toma de Atripla), deve tomar outro comprimido. Não espere até à hora da sua próxima dose.
+ Se parar de tomar Atripla Não pare de tomar Atripla sem falar com o seu médico. Parar de tomar Atripla pode afectar gravemente a resposta a qualquer tratamento futuro. Se parar Atripla, fale com o seu médico antes de voltar a tomar Atripla em comprimidos. O seu médico pode decidir dar-lhe os componentes de Atripla em separado se estiver a ter problemas ou for necessário ajustar a sua dose.
+ 49 Quando tiver pouca quantidade de Atripla, obtenha mais junto do seu médico ou farmacêutico. Isto é muito importante porque se parar o medicamento, mesmo por um curto período de tempo, a quantidade de vírus pode começar a aumentar. Pode então ser mais difícil combater o vírus.
+ Se tiver ambas, infecção pelo VIH e hepatite B, é particularmente importante não parar o tratamento com Atripla sem previamente consultar o seu médico. Alguns doentes apresentaram análises ao sangue ou sintomas indicativos de que a sua hepatite tinha agravado após paragem do tratamento com emtricitabina ou tenofovir disoproxil fumarato (dois dos três componentes de Atripla). Se o tratamento com Atripla for interrompido, o seu médico pode recomendar-lhe o recomeço do tratamento da hepatite B. Pode necessitar de análises ao sangue para verificar se o seu fígado está a funcionar correctamente durante 4 meses após paragem do tratamento. Em alguns doentes com doença hepática (do fígado) avançada ou cirrose, a interrupção do tratamento não é recomendada, uma vez que pode levar a um agravamento da sua hepatite, o que pode constituir risco de vida.
+ Informe imediatamente o seu médico se surgirem quaisquer sintomas novos ou pouco habituais após parar o tratamento, particularmente sintomas que associaria à sua hepatite B.
+ Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou farmacêutico.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todos os medicamentos, Atripla pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas. Ao tratar a infecção pelo VIH, nem sempre é possível dizer se alguns dos efeitos indesejáveis são provocados por Atripla ou por outros medicamentos que está a tomar ao mesmo tempo, ou pela própria doença por VIH. Informe o seu médico se sentir qualquer um dos seguintes efeitos secundários:
+ Efeitos secundários muito frequentes (Efeitos que ocorrem em mais de 1 utilizador em cada 10)
+ -tonturas, dor de cabeça, diarreia, sentir-se enjoado (náuseas), vómitos
+ -erupções cutâneas (incluindo manchas vermelhas ou pústulas algumas vezes com bolhas e
+ inchaço da pele), que poderão ser reacções alérgicas
+ As análises também podem revelar: -diminuição dos níveis de fosfato no sangue
+ -aumento dos níveis de creatina cinase no sangue que podem resultar em dores e fraqueza
+ musculares
+ Efeitos secundários frequentes (Efeitos que ocorrem em 1 a 10 utilizadores em cada 100)
+ -alterações na cor da pele incluindo escurecimento da pele em manchas que começam
+ frequentemente nas mãos e nas plantas dos pés
+ -dor, dor de estômago
+ -dificuldade em dormir, sonhos anormais, pesadelos, suores nocturnos, dificuldade em
+ concentrar-se, sonolência
+ -sentir-se preocupado ou deprimido, alterações do humor
+ -problemas digestivos que podem resultar em desconforto após as refeições, gases (flatulência)
+ -perda de apetite
+ -afrontamentos
+ -sensação de fraqueza, cansaço e falta de energia
+ -aumento de energia
+ -comichão
+ 50 As análises também podem revelar:
+ -contagem baixa de glóbulos brancos (uma diminuição dos seus glóbulos brancos pode torná-lo
+ mais sujeito a infecções)
+ -aumento dos ácidos gordos (triglicéridos), dos níveis de bilirrubina ou de açúcar no sangue
+ -alterações no fígado e pâncreas
+ Efeitos pouco frequentes (Efeitos que ocorrem em 1 a 10 utilizadores em cada 1.000)
+ -comportamento agressivo, pensamentos suicidas, pensamentos estranhos, paranóia,
+ incapacidade de pensar com clareza, ver ou ouvir coisas que não estão lá (alucinações), tentativas de suicídio, alteração da personalidade, sensação anormal
+ -esquecimento, confusão, problemas com a coordenação, crises convulsivas, desorientação,
+ discurso incoerente, nervosismo
+ -visão turva, perturbações visuais
+ -sensação de tonturas e desiquilíbrio (vertigem)
+ -formigueiro ou dormência da boca, boca seca
+ -reacção alérgica (hipersensibilidade) que pode causar reacções cutâneas graves (síndrome de
+ Stevens-Johnson, eritema multiforme, ver secção 2)
+ -pele ou olhos de cor amarelada, comichão ou dor no abdómen (barriga) causadas por
+ inflamação do fígado
+ -dor no abdómen (barriga) causada por inflamação do pâncreas
+ -redistribuição da gordura, diminuição de peso, aumento do apetite
+ -aumento da mama nos homens
+ -anemia (contagem baixa de glóbulos vermelhos sanguíneos)
+ -diminuição do impulso sexual
+ -dores musculares
+ -arrepios
+ Outros efeitos possíveis (a frequência não pode ser calculada a partir dos dados disponíveis) A acidose láctica (excesso de ácido láctico no sangue) é um efeito secundário grave que pode constituir risco de vida). Os seguintes efeitos secundários podem ser sinais de acidose láctica:
+ -respiração rápida e profunda
+ -cansaço
+ -sentir-se enjoado (náuseas), vómitos e dor de estômago.
+ Caso pense que possa ter acidose láctica, contacte imediatamente o seu médico.
+ Foram notificados efeitos indesejados no rim. Estes incluem alterações na urina, aumento dos níveis de creatinina no seu sangue e dor nas costas causada por problemas de rins, incluindo falência renal e lesão nas células tubulares do rim. O seu médico pode pedir-lhe análises ao sangue para verificar se os seus rins estão a funcionar correctamente. Pode ainda sentir inflamação do rim, aumento da quantidade de urina e sentir sede.
+ Perda de força muscular, perda de resistência dos ossos (com dor nos ossos e por vezes resultando em fracturas), dor muscular, fraqueza muscular e diminuição do potássio ou fosfato no sangue podem também ocorrer em doentes que desenvolvem lesão nas células tubulares do rim.
+ Os efeitos secundários psiquiátricos, para além daqueles descritos anteriormente, incluem delírio (convicções falsas), neurose e psicose (alterações da personalidade). Alguns doentes cometeram suicídio. Estes problemas tendem a ocorrer mais frequentemente em indivíduos com antecedentes de doença mental. Informe sempre o seu médico imediatamente se sentir qualquer um destes sintomas.
+ Outros efeitos indesejados incluem: erupção cutânea com comichão causada pela reacção à luz solar, dificuldade em respirar, fígado gordo, perturbações da coordenação e do equilíbrio.
+ 51 A terapêutica anti-retroviral combinada (como o Atripla) pode alterar a forma do seu corpo, devido a alterações na redistribuição da gordura corporal. Estas alterações podem incluir perda da gordura das pernas, dos braços e da cara; aumento da gordura à volta do abdómen (barriga) e dos órgãos internos; aumento do peito e bossas de gordura na parte de trás do pescoço (“ bossa de búfalo ”). Desconhece-se a causa e os efeitos a longo prazo destas alterações.
+ A terapêutica anti-retroviral combinada pode também causar aumento dos níveis da gordura no sangue (hiperlipidemia) e resistência à insulina. O seu médico irá avaliar estas alterações.
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR ATRIPLA Manter fora do alcance e da vista das crianças.
+ Não utilize Atripla após o prazo de validade impresso no rótulo do frasco e na embalagem exterior após{ VAL.}. O prazo de validade corresponde ao último dia do mês indicado.
+ Conservar na embalagem de origem para proteger da humidade. Manter o frasco bem fechado.
+ Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Atripla -As substâncias activas são efavirenz, emtricitabina e tenofovir disoproxil. Cada comprimido
+ revestido por película de Atripla contém 600 mg de efavirenz,200 mg de emtricitabina e 245 mg de tenofovir disoproxil (sob a forma de fumarato).
+ -Os outros componentes do comprimido são croscarmelose sódica, hidroxipropilcelulose,
+ estearato de magnésio, celulose microcristalina, laurilsulfato de sódio.
+ -Os outros componentes do revestimento por película do comprimido são óxido de ferro negro,
+ óxido de ferro vermelho, macrogol 3350, álcool polivinílico, talco, dióxido de titânio.
+ Qual o aspecto de Atripla e conteúdo da embalagem
+ Atripla comprimidos revestidos por película são comprimidos cor-de-rosa, em forma de cápsula, impressos num lado com o número “ 123 ” e lisos no outro lado. Atripla apresenta-se em frascos de 30 comprimidos (com uma saqueta de sílica gel que tem de ser mantida no frasco para ajudar a proteger os comprimidos). O exsicante de sílica gel está contido numa saqueta separada e não deve ser engolido.
+ Estão disponíveis as seguintes apresentações: embalagens contendo 1 frasco de 30 comprimidos revestidos por película e 3 frascos de 30 comprimidos revestidos por película. É possível que não sejam comercializadas todas as apresentações.
+ 52 Titular da Autorização de Introdução no Mercado e Fabricante
+ Titular da Autorização de Introdução no Mercado: Bristol-Myers Squibb and Gilead Sciences Limited Unit 13, Stillorgan Industrial Park Blackrock Co. Dublin Irlanda
+ Fabricante: Gilead Sciences Limited Unit 13, Stillorgan Industrial Park Blackrock Co. Dublin Irlanda
+ ou
+ Gilead Sciences Limited IDA Business &amp; Technology Park Carrigtohill County Cork Irlanda
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado:
+ België/Belgique/Belgien Gilead Sciences Netherlands B. V. Tél/Tel:+ 31 (0) 20 718 3698
+ Luxembourg/Luxemburg Gilead Sciences Netherlands B. V. Tél/Tel:+ 31 (0) 20 718 3698
+ България Bristol-Myers Squibb Gyógyszerkereskedelmi Kft. Тел.:+ 359 800 12 400
+ Magyarország Bristol-Myers Squibb Gyógyszerkereskedelmi Kft. Tel.:+ 36 1 301 9700
+ Česká republika Bristol-Myers Squibb spol. s r. o. Tel:+ 420 221 016 111
+ Malta Gilead Sciences International Ltd Tel:+ 44 (0) 20 7136 8820
+ Danmark Gilead Sciences Sweden AB Tlf:+ 46 (0) 8 5057 1849
+ Nederland Gilead Sciences Netherlands B. V. Tel:+ 31 (0) 20 718 3698
+ Deutschland Gilead Sciences GmbH Tel:+ 49 (0) 89 899890-0
+ Norge Gilead Sciences Sweden AB Tlf:+ 46 (0) 8 5057 1849
+ Eesti Bristol-Myers Squibb Gyógyszerkereskedelmi Kft. Tel:+ 372 640 1301
+ Österreich Gilead Sciences GesmbH Tel:+ 43 1 260 830
+ Ελλάδα Gilead Sciences Ελλάς Μ. ΕΠΕ. Τηλ:+ 30 210 8930 100
+ Polska Bristol-Myers Squibb Polska Sp. z o. o. Tel.:+ 48 22 5796666
+ 53 Portugal España Gilead Sciences, Lda. Gilead Sciences, S. L. Tel:+ 351 21 7928790 Tel:+ 34 91 378 98 30
+ România France Bristol-Myers Squibb Gyógyszerkereskedelmi Gilead Sciences Kft. Tél:+ 33 (0) 1 42 73 70 70 Tel:+ 40 (0) 21 350 04 88
+ Slovenija Ireland Bristol-Myers Squibb spol. s r. o. Gilead Sciences Ltd Tel:+ 386 1 236 47 00 Tel:+ 44 (0) 1223 897555
+ Ísland Gilead Sciences Sweden AB Sími:+ 46 (0) 8 5057 1849
+ Slovenská republika Bristol-Myers Squibb spol. s r. o. Tel:+ 421 2 59298411
+ Italia Gilead Sciences S. r. l. Tel:+ 39 02 439201
+ Suomi/Finland Gilead Sciences Sweden AB Puh/Tel:+ 46 (0) 8 5057 1849
+ Κύπρος Gilead Sciences Ελλάς Μ. ΕΠΕ. Τηλ:+ 30 210 8930 100
+ Sverige Gilead Sciences Sweden AB Tel:+ 46 (0) 8 5057 1849
+ Latvija Bristol-Myers Squibb Gyógyszerkereskedelmi Kft. Tel:+ 371 67 50 21 85
+ United Kingdom Gilead Sciences Ltd Tel:+ 44 (0) 1223 897555
+ Lietuva Bristol-Myers Squibb Gyógyszerkereskedelmi Kft. Tel:+ 370 5 2790 762
+ Este folheto foi aprovado pela última vez em.
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu/.
+ 54

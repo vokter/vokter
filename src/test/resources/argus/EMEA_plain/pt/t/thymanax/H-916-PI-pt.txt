@@ -1,0 +1,258 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. NOME DO MEDICAMENTO
+ Thymanax 25 mg comprimidos revestidos por película.
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada comprimido revestido por película contém 25 mg de agomelatina.
+ Excipiente: lactose mono-hidratada 61,84 mg
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Comprimido revestido por película[ comprimido]. Comprimido revestido por película amarelo-alaranjado, oblongo com o logotipo da companhia impresso a azul num dos lados.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Tratamento de episódios de depressão major em adultos.
+ 4.2 Posologia e modo de administração A dose recomendada é 25 mg uma vez por dia tomado oralmente ao deitar. Após duas semanas de tratamento, se não houver melhoria dos sintomas, a dose pode ser aumentada para 50 mg uma vez por dia, isto é, dois comprimidos de 25 mg tomados ao deitar.
+ Devem ser realizados testes de função hepática em todos os doentes: no início do tratamento, depois periodicamente após cerca de seis semanas (fim da fase aguda), às doze e vinte quatro semanas (fim da fase de manutenção) e posteriormente quando for clinicamente indicado (ver também secção 4.4).
+ Os doentes com depressão devem ser tratados por um período suficiente de pelo menos 6 meses para assegurar que ficam assintomáticos.
+ Os comprimidos de Thymanax podem ser tomados com ou sem alimentos.
+ Crianças e adolescentes: Thymanax não é recomendado em crianças e adolescentes com idade inferior a 18 anos devido à ausência de dados de segurança e eficácia (ver secção 4.4).
+ Idosos: A eficácia não foi claramente demonstrada nos idosos (≥ 65 anos). Os dados clínicos disponíveis do uso de Thymanax em idosos ≥ 65 anos, com episódios depressivos major, são limitados. Assim, a prescrição de Thymanax, nestes doentes, deve ser feita com cuidado (ver secção 4.4).
+ Doentes com disfunção renal: Não se observaram alterações relevantes nos parâmetros farmacocinéticos da agomelatina em doentes com disfunção renal grave. Contudo, os dados clínicos disponíveis do uso de Thymanax em doentes deprimidos com disfunção renal moderada ou grave são limitados. Portanto, recomenda-se que a prescrição de Thymanax, nestes doentes, seja feita com cuidado.
+ 2 Doentes com disfunção hepática: Thymanax está contraindicado em doentes com disfunção hepática (ver secções 4.3, 4.4 e 5.2).
+ Descontinuação do tratamento: Não é necessário efectuar desmame na descontinuação do tratamento.
+ 4.3 Contra-indicações Hipersensibilidade à substância activa ou a qualquer um dos excipientes. Disfunção hepática (isto é cirrose ou doença hepática activa) (ver secções 4.2 e 4.4). Uso concomitante de inibidores potentes do CYP1A2 (por exemplo fluvoxamina, ciprofloxacina) (ver secção 4.5).
+ 4.4 Advertências e precauções especiais de utilização
+ Uso em crianças e adolescentes: Thymanax não é recomendado no tratamento da depressão em doentes com idade inferior a 18 anos dado que a segurança e eficácia do Thymanax não foi estabelecida neste grupo etário. Nos ensaios clínicos em crianças e adolescentes tratados com outros antidepressivos, observou-se mais frequentemente comportamentos suicidários (tentativa de suicídio e pensamentos suicidas), e de hostilidade (predominantemente agressão, comportamento de oposição e ira) do que nos que receberam placebo.
+ Uso nos idosos com demência: Thymanax não deve ser usado para o tratamento de episódios depressivos graves em doentes idosos com demência uma vez que a segurança e eficácia de Thymanax não foi estabelecida nestes doentes.
+ Mania/Hipomania: Thymanax deve ser utilizado com precaução em doentes com uma história de mania ou hipomania e deve ser descontinuado se um doente desenvolver sintomas maníacos.
+ Suicídio/pensamentos suicidas: A depressão está associada ao aumento do risco de ideação suicida, auto-agressividade e suicídio (acontecimentos relacionados com o suicídio). Este risco prevalece até que ocorra remissão significativa. Como durante as primeiras semanas ou mais de tratamento pode não se verificar qualquer melhoria, os doentes deverão ter uma vigilância mais rigorosa até que essa melhoria ocorra. De acordo com a prática clínica, em geral o risco de suicídio pode aumentar nas fases iniciais da recuperação.
+ Os doentes com história de comportamentos suicidários ou que apresentem um grau significativo de ideação suicida antes do início do tratamento, apresentam também um maior risco de ideação suicida ou de tentativa de suicídio, devendo por este motivo ser cuidadosamente monitorizados durante o tratamento. Uma meta-análise de estudos clínicos com medicamentos anti-depressivos, controlados com placebo, em doentes adultos com doenças psiquiátricas, demonstrou um aumento do risco de comportamentos suicidários em doentes com menos de 25 anos a tomar anti-depressivos, comparativamente aos doentes a tomar placebo.
+ A terapêutica medicamentosa deverá ser acompanhada de uma supervisão rigorosa, em particular nos doentes de maior risco, especialmente na fase inicial do tratamento ou na sequência de alterações posológicas. Os doentes (e os prestadores de cuidados de saúde), devem ser alertados para a necessidade de monitorização relativamente a qualquer agravamento da sua situação clínica, pensamentos ou comportamentos suicidários e para procurar assistência médica imediatamente, caso estes ocorram.
+ 3 Associação com inibidores do CYP1A2(ver secções 4.3 e 4.5) A associação com inibidores potentes do CYP1A2 é contra-indicada. A prescrição de Thymanax com inibidores moderados do CYP1A2 (ex. propranolol, grepafloxacina, enoxacina) deve ser feita com cuidado pois pode resultar num aumento da exposição à agomelatina.
+ Aumento das transaminases séricas: Em estudos clínicos foram observadas elevações das transaminases séricas (&gt; 3 vezes o limite superior do intervalo normal) em doentes com Thymanax particularmente com a dose de 50 mg (ver secção 4.8). Quando Thymanax foi descontinuado nestes doentes, as transaminases séricas voltaram usualmente para os valores normais. Devem ser realizados testes de função hepática em todos os doentes: no início do tratamento, depois periodicamente isto é por volta das seis semanas (fim da fase aguda), das doze e vinte e quatro semanas (fim da fase de manutenção) e sempre que clinicamente indicado. Qualquer doente que apresente aumento das transaminases séricas deve repetir os testes da sua função hepática dentro de 48 horas. A terapêutica deve ser descontinuada se o aumento das transaminases séricas exceder 3X o limite superior do normal e devem ser realizados testes regulares à função hepática até que as transaminases séricas voltem ao normal. Se algum doente apresentar sintomas que sugiram disfunção hepática, devem ser realizados testes da função hepática. A decisão de continuar a terapêutica com Thymanax deve ser orientada por avaliação clínica dependendo dos resultados laboratoriais. A terapêutica deve ser descontinuada se for observada icterícia. Thymanax deve ser prescrito com precaução a doentes que consomem quantidades substanciais de álcool ou que estão a ser tratados com medicamentos associados a risco de afecção hepática.
+ Intolerância à lactose: Thymanax contém lactose. Os doentes com problemas hereditários raros de intolerância à galactose, a deficiência em lactase de Lapp ou má absorção de glucose-galactose, não devem tomar este medicamento.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Interacções potenciais que afectam a agomelatina: A agomelatina é metabolisada pelo citocromo P450 1 A2 (CYP1A2) (90%) e pelo CYP2C9/19 (10%). Os medicamentos que interagem com estas isoenzimas podem diminuir ou aumentar a biodisponibilidade da agomelatina. A fluvoxamina, um inibidor potente do CYP1A2 e inibidor moderado do CYP2C9 inibe fortemente o metabolismo da agomelatina, resultando num aumento de 60 vezes (intervalo 12-412) da exposição à agomelatina. Consequentemente, a co-administração de Thymanax com inibidores potentes do CYP1A2 (por exemplo fluvoxamina, ciprofloxacina) é contraindicada. A associação da agomelatina com estrogénios (inibidores moderados do CYP1A2) resulta num aumento múltiplo da exposição à agomelatina. Embora não tenha havido nenhum sinal específico de segurança em 800 doentes tratados em associação com estrogénios, deve ter-se cuidado na prescrição de agomelatina com outros inibidores moderados do CYP1A2 (ex. propranolol, grepafloxacina, enoxacina) até se ter adquirido mais experiência (ver secção 4.4).
+ Outros medicamentos potencialmente afectados pela agomelatina: A agomelatina não induz as isoenzimas CYP450 in vivo. A agomelatina não inibe nem o CYP1A2 in vivo nem os outros CYP450 in vitro. Portanto a agomelatina não modifica a exposição a outros medicamentos metabolisados pelo CYP 450.
+ Medicamentos que se ligam fortemente às proteínas plasmáticas: A agomelatina não modifica as concentrações livres de medicamentos que se ligam fortemente às proteínas plasmáticas ou vice versa.
+ 4 Outros medicamentos: Nos estudos clínicos de fase I não existiu evidência de interacção farmacocinética ou farmacodinâmica com medicamentos que possam ser prescritos concomitantemente com Thymanax na população alvo: benzodiazepinas, lítio e paroxetina, fluconazol e teofilina.
+ Álcool: Não é aconselhável a combinação de Thymanax com álcool.
+ Terapêutica electroconvulsivante (TEC): Não existe experiência do uso concomitante de agomelatina com TEC. Estudos em animais não mostraram propriedades proconvulsivantes (ver secção 5.3). Portanto, são improváveis consequências clínicas do tratamento concomitante de TEC com Thymanax.
+ 4.6 Gravidez e aleitamento No que respeita à agomelatina, não existem dados clínicos sobre as gravidezes a ela exposta. Os estudos em animais não indicam quaisquer efeitos nefastos directos ou indirectos no que respeita à gravidez, ao desenvolvimento embrionário/fetal, parto ou ao desenvolvimentos pós-natal (ver secção 5.3). Este medicamento só deve ser receitado a mulheres grávidas com precaução.
+ Não se conhece se a agomelatina é excretada no leite humano. A agomelatina ou os seus metabolitos são excretados no leite de ratos-fêmea lactantes. Não foram estabelecidos os potenciais efeitos da agomelatina nos lactentes. Se o tratamento com Thymanax for considerado necessário o aleitamento deve ser descontinuado.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas. No entanto, considerando que as vertigens e sonolência são reacções adversas comums, os doentes devem ter em atenção a sua capacidade para conduzir veículos ou utilizar máquinas.
+ 4.8 Efeitos indesejáveis Em ensaios clínicos, mais de 3900 doentes deprimidos receberam Thymanax. As reacções adversas foram geralmente ligeiras ou moderadas e ocorreram durante as primeiras duas semanas de tratamento. As reacções adversas mais comuns foram náuseas e tonturas. Estas reacções adversas foram normalmente transitórias e não levaram, geralmente, à cessação da terapêutica. Os doentes deprimidos apresentam um número de sintomas associados à própria doença. Portanto, por vezes é difícil distinguir quais os sintomas que são resultado da doença e quais os que são resultado do tratamento com Thymanax. As reacções adversas estão listadas abaixo usando a seguinte convenção: Muito frequentes (≥1/10); frequentes (≥1/100, &lt; 1/10); pouco frequentes (≥1/1000, &lt; 1/100); raros (≥1/10000, &lt; 1/1000); muito raros (&lt; 1/10000), desconhecida (não podem ser calculadas a partir dos dados disponíveis). As frequências não foram corrigidas para o placebo.
+ Doenças do sistema nervoso: Frequentes: cefaleias, tonturas, sonolência, insónias, enxaquecas Pouco frequentes: parestesias
+ Afecções oculares: Pouco frequentes: visão turva
+ Doenças gastrointestinais: Frequentes: náuseas, diarreia, obstipação, epigastralgias
+ Afecções dos tecidos cutâneos e subcutâneas: 5 Frequentes: hiperhidrose Pouco frequentes: eczema Raros: erupção cutânea eritematosa
+ Afecções musculosqueléticas e dos tecidos conjuntivos: Frequentes: lombalgia
+ Perturbações gerais e alterações no local de administração: Frequentes: fadiga
+ Alterações hepato-biliares: Frequentes: aumentos (&gt; 3 vezes o limite superior do intervalo normal) da ALAT e/ou ASAT (isto é 1,1% com agomelatina 25/50 mg vs 0,7% com placebo). Raros: hepatite
+ Perturbações do foro psiquiátrico: Frequentes: ansiedade Frequência desconhecida: Pensamentos ou comportamentos suicidários (ver secção 4.4)
+ 4.9 Sobredosagem A experiência de sobredosagem com agomelatina é limitada. Durante o desenvolvimento clínico, foram relatados alguns casos de sobredosagem com agomelatina tomada isoladamente (até 450 mg) ou em combinação (até 525 mg) com outros medicamentos psicotrópicos. Os sinais e sintomas de sobredosagem foram limitados e incluiram sonolência e epigastralgias.
+ Não são conhecidos antídotos específicos para a agomelatina. A resolução da sobredosagem deve consistir no tratamento dos sintomas clínicos e monitorização de rotina. Recomenda-se o seguimento médico em local especializado.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Outros antidepressivos, Código ATC: N06AX22
+ A agomelatina é um agonista melatoninérgico (receptores MT1 e MT2) e um antagonista 5-HT2c. Estudos de ligação indicam que a agomelatina não tem efeito na absorção das monoaminas nem afinidade para os receptores α, β adrenérgicos, histaminérgicos, colinérgicos, dopaminérgicos e benzodiazepínicos. A agomelatina ressincroniza os ritmos circadianos em modelos animais de alteração dos ritmos circadianos. A agomelatina aumenta a libertação de noradrenalina e dopamina especificamente no cortex frontal e não tem influência nos níveis extracelulares da serotonina. A agomelatina demonstrou um efeito tipo antidepressivo em modelos animais de depressão (teste do desespero aprendido, teste do desespero, stresse crónico ligeiro) bem como em modelos de dessincronização do ritmo circadiano e em modelos relacionados com stresse e ansiedade. No Homem, Thymanax tem propriedades positivas de avanço de fase; induz o avanço da fase do sono, o declínio da temperatura corporal e o aparecimento da melatonina.
+ A eficácia e segurança de Thymanax nos episódios depressivos graves foram estudadas num programa clínico que incluiu 5800 doentes dos quais 3900 foram tratados com Thymanax. Foram realizados seis estudos controlados com placebo para investigar a eficácia a curto prazo de Thymanax na depressão grave: dois estudos com dose flexível e quatro estudos com dose fixa. No final do tratamento (6 ou 8 semanas), foi demonstrada a eficácia significativa da agomelatina 25-50 mg em 3 dos seis estudos de curto prazo controlados com placebo. A agomelatina não se diferenciou do placebo num estudo onde o controlo activo com fluoxetina demonstrou sensibilidade
+ 6 para o ensaio. Em dois outros estudos, não foi possível tirar conclusões porque os controlos activos, paroxetina e fluoxetina falharam a diferenciação do placebo. A eficácia foi também observada em doentes com depressão mais grave (HAM-D≥ 25 no início) em todos os estudos positivos controlados com placebo. As taxas de resposta foram do ponto de vista estatístico, significativamente mais altas com Thymanax do que com placebo. A manutenção da eficácia antidepressiva foi demonstrada num estudo de prevenção de recaídas. Os doentes que responderam a 8/10 semanas de tratamento agudo com Thymanax 25-50 mg em fase aberta uma vez por dia, foram aleatorizados ou para Thymanax 25-50 mg uma vez por dia, ou para placebo, durante mais 6 meses. Thymanax 25-50 mg uma vez por dia mostrou uma superioridade estatisticamente significativa quando comparada com placebo (p=0,0001) no parâmetro de avaliação principal, a prevenção de recaídas da depressão medida pelo tempo até à recaída. A incidência de recaídas durante os 6 meses do período de seguimento em dupla ocultação foi 22% e 47% para o Thymanax e placebo, respectivamente.
+ Thymanax não altera a vigilância diurna nem a memória de voluntários saudáveis. Em doentes deprimidos, o tratamento com Thymanax 25 mg aumentou o sono de ondas lentas sem modificação do sono REM (Rapid Eye Movement) ou da latência do REM. Thymanax 25 mg também induziu um avanço no tempo do início do sono e da frequência cardíaca miníma. A partir da primeira semana de tratamento o aparecimento e a qualidade do sono melhoraram significativamente sem sonolência diurna, avaliada pelos doentes.
+ Num estudo específico comparativo de disfunção sexual com doentes deprimidos em remissão, observou-se com Thymanax uma tendência numérica (estatisticamente não significativa) para menor disfunção sexual emergente do que com a venlafaxina nos parâmetros de excitação ou orgasmo na escala Sex Effects Scale (SEXFX). A análise de um conjunto de estudos usando a Arizona Sexual Experience Scale (ASEX) demonstrou que Thymanax não está associado a disfunção sexual. Em voluntários saudáveis Thymanax preservou a função sexual, em comparação com a paroxetina.
+ Nos estudos clínicos Thymanax demonstrou um efeito neutro no peso corporal, frequência cardíaca e pressão arterial.
+ Num estudo desenhado para avaliar os sintomas de descontinuação pela lista de verificação de “ Discontinuation Emergent Signes and Symptoms (DESS) ” em doentes em remissão, Thymanax não induziu sindrome de descontinuação após interrupção abrupta do tratamento. Thymanax não apresenta potencial de abuso, avaliado em estudos com voluntários saudáveis utilizando uma escala analógica visual específica ou a lista de verificação 49 do “ Addiction Research Center Inventory ” (ARCI).
+ 5.2 Propriedades farmacocinéticas Absorção e biodisponibilidade: A agomelatina é rápida e bem (≥80%) absorvida após adminmistração oral. A biodisponibilidade absoluta é baixa (&lt; 5% com a dose terapêutica oral) e a variabilidade interindividual é substancial. A biodisponibilidade é mais elevada nas mulheres do que nos homens. A biodisponibilidade aumenta com a toma de contraceptivos orais e é reduzida pelo tabaco. A concentração plasmática máxima é atingida ao fim de 1 a 2 horas.
+ No intervalo da dose terapêutica, a exposição sistémica à agomelatina aumenta proporcionalmente com a dose. Com doses mais elevadas, ocorre uma saturação do efeito de primeira passagem. A ingestão de alimentos (refeição normal ou refeição rica em gorduras) não modifica a biodisponibilidade ou a taxa de absorção. A variabilidade aumenta com alimentos ricos em gordura.
+ 7 Distribuição: O volume de distribuição no estado estacionário é cerca de 35l e a ligação às proteínas plasmáticas é de 95% independentemente da concentração e não é modificado nem pela idade nem em doentes com disfunção renal, mas a fracção livre duplica em doentes com disfunção hepática.
+ Biotransformação: Após administração oral, a agomelatina é rapidamente metabolizada principalmente por via hepática CYP1A2; as isoenzimas CYP2C9 e CYP2C19 estão também envolvidas mas com baixa contribuição. Os principais metabolitos, agomelatina hidroxilada e desmetilada, não são activos e são rapidamente conjugados e eliminados pela urina.
+ Eliminação: A eliminação é rápida, a semi-vida plasmática média está compreendida entre 1 a 2 horas e a depuração é elevada (cerca de 1100 ml/min) e essencialmente metabólica. A excreção é essencialmente urinária (80%) na forma de metabolitos, enquanto que a recuperação do composto inalterado na urina é negligenciável. A cinética não é modificada após administração repetida.
+ Disfunção renal: Não foi observada (n=8, dose única de 25 mg) modificação relevante dos parâmetros farmacocinéticos em doentes com disfunção renal grave mas deve ter-se precaução nos doentes com disfunção renal moderada ou grave pois a disponibilidade de dados clínicos nestes doentes doentes é limitada (ver secção 4.2, 4.3 e 4.4).
+ Disfunção hepática: Num estudo específico em doentes com cirrose com disfunção hepática crónica ligeira (Child-Pugh tipo A) ou moderada (Child-Pugh tipo B), a exposição à agomelatina 25 mg foi substancialmente aumentada (70-vezes e 140-vezes, respectivamente) em comparação com voluntários emparelhados (idade, peso e hábitos tabágicos) sem disfunção hepática (ver secção 4.2).
+ Grupos étnicos: Não existem dados sobre a influência da raça na farmacocinética da agomelatina.
+ 5.3 Dados de segurança pré-clínica Em ratinhos, ratos e macacos observaram-se efeitos sedativos após administração única e repetida de doses elevadas. Nos roedores, foi observada uma indução marcada do CYP2B e uma indução moderada do CYP1A e CYP3A a partir de 125 mg/Kg/dia enquanto que nos macacos a indução foi ligeira para o CYP2B e CYP3A com 375 mg/Kg/dia. Não foi observada hepatoxicidade em roedores e macacos em estudos de toxicidade de dose repetida. A agomelatina atravessa a placenta e passa para o feto nos ratos fêmea grávidas. Os estudos de reprodução no rato e coelho não mostraram efeito da agomelatina na fertilidade, no desenvolvimento embriofetal e no desenvolvimento pré e pós natal. Uma bateria de ensaios padrão de genotoxicidade in vitro e in vivo concluiu que não existe potencial mutagénico ou clastogénico para a agomelatina.
+ Nos estudos de carcinogenicidade a agomelatina induziu um aumento da incidência de tumores hepáticos no rato e ratinho, com uma dose pelo menos 110 vezes mais elevada que a dose terapêutica. Os tumores hepáticos estão muito provavelmente relacionados com indução enzimática específica dos roedores. A frequência de fibroadenomas mamários benignos observados no rato aumentou com exposições elevadas (60 vezes a exposição à dose terapêutica) mas permanece no intervalo dos controlos.
+ Os estudos farmacológicos de segurança não mostraram efeito da agomelatina sobre a corrente hERG (human Ether à-go-go Related Gene) ou no potencial de acção das células de Purkinje do cão. A
+ 8 agomelatina não demonstrou propriedades proconvulsivantes em doses até 128 mg/Kg via ip em ratinhos e ratos.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1. Lista dos excipientes Núcleo: Lactose mono-hidratada − Amido de milho − Povidona − Carboximetilamido sódico − Ácido esteárico − Estearato de magnésio − Sílica coloidal anidra −
+ Revestimento por película: Hipromelose − Óxido de ferro amarelo (E172) − Glicerol − Macrogol − Estearato de magnésio − Dióxido de titânio (E171) −
+ Tinta de impressão contendo goma-laca, propilenoglicol e laca de alumínio indigotina(E132).
+ 6.2 Incompatibilidades Não aplicável. 6.3 Prazo de validade 3 anos 6.4 Precauções especiais de conservação
+ Este medicamento não necessita de quaisquer precauções especiais de conservação.
+ 6.5 Natureza e conteúdo do recipiente Blister (calendário) de alumínio/PVC embalado em caixa de cartão Embalagens contendo 7,14,28,42,56,84 e 98 comprimidos revestidos por película. Embalagens de 100 comprimidos revestidos por película para uso hospitalar. É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais de eliminação
+ Não existem requisitos especiais. 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Servier (Ireland) Industries Ltd Gorey Road, Arklow, Co. Wicklow Irlanda
+ 9 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 10. DATA DA REVISÃO DO TEXTO Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu/.
+ 10 ANEXO II
+ A. TITULAR(ES) DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 11 A TITULAR(ES) DE AUTORIZAÇÃO DE FABRICO RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do(s) fabricante(s) responsável(veis) pela libertação do lote
+ Les Laboratoires Servier Industrie,905, route de Saran – 45520 Gidy, França Servier (Ireland) Industries Ltd, Gorey Road-Arklow-Co. Wicklow, Irlanda Przedsiebiorstwo Farmaceutyczne ANPHARM S. A., ul. Annopol 6B – 03-236 Warszawa, Polónia
+ O folheto informativo que acompanha o medicamento deve mencionar o nome e endereço do fabricante responsável pela libertação do lote em causa.
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento sujeito a receita médica. • CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ O Titular da Autorização de Introdução no Mercado (Titular da AIM) deve assegurar, que no lançamento, foi fornecido a todos os profissionais de saúde habilitados a prescrever/usar Thymanax os materiais educacionais contendo o seguinte:
+ Como descrito no PGR, será fornecido aos prescritores actividade adicional de minimização de risco incluindo material educacional.
+ Objectivos do Plano Educacional da agomelatina:
+ O material educacional sobre Thymanax/Thymanax para o prescritor será centrado em:
+ -Riscos potenciais da agomelatina
+ --
+ Aumentos das transaminases Interacções com inibidores potentes do CYP1A2 (ex. fluvoxamina, ciprofloxacina).
+ -Orientações para o exame da função hepática (Necessidade de realização de testes de função
+ hepática em todos os doentes: no início do tratamento, e depois periodicamente após cerca de seis semanas (fim da fase aguda), às doze e vinte e quatro semanas (fim da fase de manutenção) e posteriormente quando clinicamente indicado;
+ -Orientações em caso de sintomas clinícos ou de testes anormais da função hepática;
+ -Deve ser exercida precaução quando a terapêutica é administrada a doentes que consomem
+ quantidades substanciais de álcool ou que são tratados com medicamentos associados a risco de dano hepático;
+ -Contra-indicação em doentes com disfunção hepática (isto é cirrose ou doença hepática activa);
+ -Contra-indicação em doentes a tomar concomitantemente inibidores potentes do CYP1A2.
+ • OUTRAS CONDIÇÕES
+ Sistema de Farmacovigilância 12 O Titular da Autorização de Introdução no Mercado deve assegurar que o sistema de farmacovigilância, tal como descrito na versão 4.0 apresentada no Módulo 1. 8.1. do pedido de Autorização de Introdução no Mercado, está implementado e em funcionamento antes e enquanto o produto estiver no mercado.
+ Plano de Gestão de Risco O Titular da Autorização de Introdução no Mercado compromete-se a efectuar os estudos e as actividades de farmacovigilância adicionais detalhadas no Plano de Farmacovigilância, tal como acordado na versão 4.0 do Plano de Gestão de Risco (PGR) apresentado no Módulo 1. 8.2 do Pedido de Autorização de Introdução no Mercado, assim como todas as actualizações subsequentes do PGR acordadas pelo CHMP.
+ De acordo com a Norma Orientadora do CHMP sobre Sistemas de Gestão de Risco para medicamentos de uso humano, o PGR actualizado deve ser submetido ao mesmo tempo que o Relatório Periódico de Segurança (RPS) seguinte.
+ Além disso, deve ser submetido um PGR actualizado:
+ •
+ Quando for recebida nova informação que possa ter impacto nas actuais Especificações de Segurança, no Plano de Farmacovigilância ou nas actividades de minimização do risco
+ •
+ No período de 60 dias após ter sido atingido um objectivo importante (farmacovigilância ou minimização de risco)
+ •
+ A pedido da EMEA. 13 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 14 A. ROTULAGEM
+ 15 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ Caixa exterior 1. NOME DO MEDICAMENTO Thymanax 25 mg comprimidos revestidos por película Agomelatina
+ 2. DESCRIÇÃO DA SUBSTÂNCIA ACTIVA Cada comprimido contém 25 mg de agomelatina
+ 3. LISTA DOS EXCIPIENTES Contém lactose. Ver folheto informativo para informações adicionais.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 7 comprimidos revestidos por película 14 comprimidos revestidos por película 28 comprimidos revestidos por película 42 comprimidos revestidos por película 56 comprimidos revestidos por película 84 comprimidos revestidos por película 98 comprimidos revestidos por película 100 comprimidos revestidos por película
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar. Uso oral.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP 16 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Servier (Ireland) Industries Ltd Gorey Road, Arklow, Co. Wicklow Irlanda
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/0/00/000/000 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Thymanax 25 mg 17 INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS “ BLISTER ”
+ BLISTER 1. NOME DO MEDICAMENTO Thymanax 25 mg comprimidos Agomelatina 2. NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Servier (Ireland) Industries Ltd 3. PRAZO DE VALIDADE EXP{ MM/YYYY} 4. NÚMERO DO LOTE Lot{ number} 5. OUTRAS SEG TER QUA QUI SEX SAB DOM 18 B. FOLHETO INFORMATIVO
+ 19 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Thymanax 25 mg comprimidos revestidos por película Agomelatina
+ Leia atentamente este folheto antes de tomar utilizar este medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico
+ Neste folheto: 1. O que é Thymanax e para que é utilizado 2. Antes de tomar Thymanax 3. Como tomar Thymanax 4. Efeitos secundários possíveis 5. Como conservar Thymanax 6. Outras informações
+ 1. O QUE É THYMANAX E PARA QUE É UTILIZADO
+ Thymanax pertence a um grupo de medicamentos chamados anti-depressivos e foi-lhe prescrito para tratar a sua depressão.
+ A depressão é uma pertubação contínua do humor que interfere com a sua vida de todos os dias. Os sintomas de depressão variam de pessoa para pessoa, mas incluem na maior parte das vezes tristeza profunda, falta de auto-estima, perda de interesse pelas actividades favoritas, perturbações do sono, sensação de lentidão, ansiedade, alterações de peso.
+ 2. ANTES DE TOMAR THYMANAX Não tome Thymanax -se tem alergia (hipersensibilidade) à agomelatina ou a qualquer outro componente de Thymanax
+ (ver “ Qual a composição de Thymanax” na secção 6).
+ -se estiver a tomar fluvoxamina (outro medicamento usado no tratamento da depressão) ou
+ ciprofloxacina (antibiótico).
+ -se tiver doença de fígado (disfunção hepática).
+ Tome especial cuidado com Thymanax Thymanax pode não ser adequado para si por diversas razões:
+ -Se já tiver tido ou se desenvolver sintomas de mania (um período de excitabilidade e emoções
+ anormalmente elevadas) fale com o seu médico antes de começar a tomar este medicamento ou continuar com este medicamento.
+ -Se estiver actualmente a ser tratado com outro medicamento que possa causar danos no fígado.
+ Peça conselho ao seu médico sobre estes medicamentos. Alguns doentes podem ter aumentos das enzimas hepáticas no sangue durante o tratamento com Thymanax. Portanto, o seu médico mandará fazer análises laboratoriais para verificar se o seu fígado está a funcionar bem no início do tratamento e depois periodicamente, durante o tratamento. Com base na avaliação destes testes o médico decidirá se deve continuar a tomar Thymanax ou não (ver também “ Como tomar Thymanax” na secção 3).
+ -Se sofrer de demência, o seu médico fará uma avaliação individual para saber se é seguro para
+ si tomar Thymanax.
+ 20 Thymanax não se destina ao uso em crianças e adolescentes (com idade inferior a 18 anos).
+ Pensamentos relacionados com o suicídio e agravamento da sua depressão Se está deprimido poderá por vezes ter ideias de auto-agressão ou suicídio. Estes pensamentos podem aumentar no início do tratamento com anti-depressivos, pois estes medicamentos necessitam de tempo para actuarem, normalmente cerca de duas semanas mas por vezes pode demorar mais tempo.
+ Poderá estar mais predisposto a ter este tipo de pensamentos nas seguintes situações:
+ -Se tem antecedentes de ter ideias suicidas ou de auto-agressão.
+ -Se é um jovem adulto. A informação proveniente de estudos clínicos revelou um maior risco de
+ comportamentos suicidários em jovens adultos (com menos de 25 anos) com problemas psiquiátricos tratados com anti-depressivos. Se em qualquer momento vier a ter pensamentos no sentido de auto-agressão ou suicídio deverá contactar o seu médico ou dirigir-se imediatamente ao hospital
+ Poderá ser útil para si comunicar a um amigo próximo ou a um familiar que se encontra deprimido e dar-lhes este folheto a ler. Poderá também solicitar-lhes que o informem caso verifiquem um agravamento do seu estado de depressão, ou se ficarem preocupados com alterações no seu comportamento.
+ Ao tomar Thymanax com outros medicamentos Informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica.
+ Não deve tomar Thymanax em conjunto com certos medicamentos (ver também “ Não tome Thymanax ” na secção 2): fluvoxamina (outro medicamento usado no tratamento da depressão), ciprofloxacina (um antibiótico).
+ Ao tomar Thymanax com alimentos e bebidas Thymanax pode ser tomado com ou sem alimentos. Não é aconselhável a ingestão de álcool durante o tratamento com Thymanax.
+ Gravidez Fale com o seu médico se está grávida (ou se planeia engravidar) enquanto está a tomar Thymanax. Consulte o seu médico ou farmacêutico antes de tomar qualquer medicamento.
+ Aleitamento Fale com o seu médico se está a amamentar ou se planeia amamentar, porque a amamentação deve ser descontinuada se estiver a tomar Thymanax. Consulte o seu médico ou farmacêutico antes de tomar qualquer medicamento.
+ Condução de veículos e utilização de máquinas Pode sentir tonturas ou sonolência que podem afectar a sua capacidade de conduzir ou de operar máquinas. Assegure-se que as suas reacções são normais antes de conduzir ou operar máquinas.
+ Informações importantes sobre alguns componentes de Thymanax Este medicamento contém lactose. Se o seu médico o informou de que tem uma intolerância a alguns açúcares, fale com ele antes de tomar Thymanax.
+ 3. COMO TOMAR THYMANAX Tome sempre Thymanax de acordo com as indicações do médico. Fale com o seu médico ou farmacêutico se tiver dúvidas.
+ A dose recomendada de Thymanax é um comprimido (25 mg) ao deitar. Em alguns casos, o seu médico pode prescrever uma dose mais alta (50 mg), isto é dois comprimidos tomados juntos ao deitar.
+ 21 Na maioria das pessoas deprimidas Thymanax começa a actuar nos sintomas da depressão duas semanas após o início do tratamento. O seu médico pode continuar a receitar-lhe Thymanax mesmo quando já se sentir melhor, para evitar que a sua depressão volte.
+ Não pare de tomar o seu medicamento sem o consentimento do médico mesmo que se sinta melhor.
+ Thymanax destina-se a uso oral. Deve engolir o comprimido com água. Thymanax pode ser tomado com ou sem alimentos.
+ O seu médico mandará fazer testes laboratoriais para verificar se o seu fígado está a funcionar bem, no início do tratamento e depois periodicamente durante o tratamento, usualmente após 6,12 e 24 semanas. Posteriormente, se o médico achar necessário, podem ser realizados mais testes. Não deve tomar Thymanax se o seu fígado não funcionar bem.
+ Se tiver problemas nos rins, o médico fará uma avaliação individual para determinar se é seguro tomar Thymanax.
+ Se tomar mais Thymanax do que deveria Se tomou mais Thymanax do que deveria, ou se por exemplo uma criança tomou este medicamento por acidente, contacte o médico imediatamente. A experiência de sobredosagem com Thymanax é limitada mas os sintomas reportados incluem dor na parte superior do estômago e vertigens.
+ Caso se tenha esquecido de tomar Thymanax Não tome uma dose a dobrar para compensar uma dose que se esqueceu de tomar. Tome a dose seguinte à hora habitual. O calendário impresso no blister que contém os comprimidos ajudará a lembrar-se de quando tomou o último comprimido de Thymanax.
+ Caso ainda tenha dúvidas sobre a utilização deste produto, fale com o seu médico ou farmacêutico.
+ 4. EFEITOS SECUNDÁRIOS POSSIVEIS Como todos os medicamentos, Thymanax pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ A maioria dos efeitos secundários são ligeiros ou moderados. Ocorrem geralmente durante as duas primeiras semanas de tratamento e são normalmente transitórios.
+ A frequência dos efeitos secundários possíveis abaixo listados é definida de acordo com o seguinte sistema: muito frequentes: afectam mais de1 utilizador em cada 10
+ -
+ frequentes: afectam 1 a 10 utilizadores em cada 100
+ -
+ pouco frequentes: afectam 1 a 10 utilizadores em cada 1.000
+ -
+ raros: afectam 1 a 10 utilizadores em cada 10.000
+ -
+ muito raros: afectam menos de 1 utilizador em cada 10.000
+ -
+ desconhecido: a frequência não pode ser calculada a partir dos dados disponíveis
+ -
+ Estes efeitos secundários incluem: Efeitos secundários frequentes: tonturas, sonolência, dificuldade em adormecer (insónia),
+ -
+ enxaqueca, dor de cabeça, má disposição (náusea), diarreia, prisão de ventre, dor abdominal alta, excesso de transpiração (hiperhidrose), dor nas costas, cansaço, ansiedade, aumento dos níveis sanguíneos das enzimas do fígado.
+ 22
+ -Efeitos secundários pouco frequentes: picadas nos dedos das mãos e dos pés (parestesia), visão
+ turva e eczema. Efeitos secundários raros: erupção cutânea grave (erupção cutânea eritematosa), hepatite.
+ -
+ -Outros efeitos secundários possíveis: pensamentos ou comportamentos suicidários (frequência
+ desconhecida).
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR THYMANAX Manter fora do alcance e da vista das crianças.
+ Não utilize Thymanax após o prazo de validade impresso no blister e na embalagem exterior. O prazo de validade corresponde ao último dia do mês indicado.
+ Este medicamento não necessita de quaisquer precauções especiais de conservação.
+ Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Thymanax -A substância activa é a agomelatina. Cada comprimido contém 25 mg de agomelatina.
+ -Os outros componentes são:
+ núcleo do comprimido: lactose mono-hidratada, amido de milho, povidona, • carboximetilamido sódico,, ácido esteárico, estearato de magnésio, sílica coloidal anidra. película de revestimento do comprimido: hipromelose, glicerol, macrogol, estearato de • magnésio, óxido de ferro amarelo (E172), dióxido de titânio (E171). Tinta de impressão contendo goma-laca, propilenoglicol e laca de alumínio indigotina • (E132).
+ Qual o aspecto de Thymanax e conteúdo da embalagem Os comprimidos revestidos por película de Thymanax 25 mg são oblongos, amarelo-alaranjado, com o num dos lados. Os comprimidos revestidos por película logotipo da companhia impresso a azul de Thymanax 25mg apresentam-se em blister calendário. As embalagens contêm 7,14,28,42,56,84 e 98 comprimidos. Também estão disponíveis embalagens de 100 comprimidos revestidos por película para uso hospitalar. É possível que não sejam comercializadas todas as apresentações.
+ Titular da Autorização de Introdução no Mercado e Fabricantes:
+ Titular da Autorização de Introdução no Mercado Servier (Ireland) Industries Ltd Gorey Road, Arklow, Co. Wicklow Irlanda
+ Fabricantes: Les Laboratoires Servier Industrie 905, route de Saran 45520 Gidy França
+ 23 Servier (Ireland) Industries Ltd Gorey road Arklow – Co. Wicklow – Irlanda
+ e
+ Anpharm Przedsiebiorstwo Farmaceutyczne S. A. 03-236 Warszawa ul. Annopol 6B Polónia
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado:
+ België/Belgique/Belgien S. A. Servier Benelux N. V. Tel: +32 (0) 2 529 43 11
+ Luxembourg/Luxemburg S. A. Servier Benelux N. V. Tel: +32 (0) 2 529 43 11
+ България Сервие Медикал ЕООД Тел.: +359 2 921 57 00
+ Magyarország Servier Hungaria Kft. Tel: +36 1 238 7799
+ Česká republika Servier s. r. o. Tel: +420 222 118 111
+ Malta GALEPHARMA Ltd Tel:+ (356) 21 247 082
+ Danmark Servier Danmark A/S Tlf: +45 36 44 22 60
+ Nederland Servier Nederland Farma B. V. Tel: +31 (0) 71 5246700
+ Deutschland Servier Deutschland GmbH Tel: +49 (0) 89 57095 01
+ Norge Servier Danmark A/S Tlf: +45 36 44 22 60
+ Eesti CentralPharmaCommunications OÜ Tel:+ 372 640 0007
+ Österreich Servier Austria GmbH Tel: +43 (1) 524 39 99
+ Eλλάδα ΣΕΡΒΙΕ ΕΛΛΑΣ ΦΑΡΜΑΚΕΥΤΙΚΗ ΕΠΕ Τηλ: +30 210 939 1000
+ Polska Servier Polska Sp. z o. o. Tel: +48 (0) 22 594 90 00
+ España Laboratorios Servier S. L. Tel: +34 91 748 96 30
+ Portugal Servier Portugal, Lda Tel.: +351 21 312 20 00
+ France Les Laboratoires Servier Tel: +33 (0) 1 55 72 60 00
+ România Servier Pharma SRL Tel: +40 21 402 09 11
+ Ireland Servier Laboratories (Ireland) Ltd. Tel: +353 (0) 1 663 8110
+ Slovenija Servier Pharma, d. o. o., Tel.: +386 (0) 1 563 48 11
+ 24 Ísland Servier Laboratories c/o Icepharma hf Sími: +354 540 8000
+ Slovenská republika Servier Slovensko spol. s r. o. Tel.: +421 (2) 5920 41 11
+ Italia Istituto Farmaco Biologico Stroder S. r. l. Tel: +39 (055) 623271
+ Suomi/Finland Servier Finland Oy Puh/Tel: +358 (0) 9 279 80 80
+ Κύπρος Χ. Α. Παπαέλληνας &amp; Σία Λτδ Τηλ: +357 22741741
+ Sverige Servier Sverige AB Tel: +46 (8) 5 225 08 00
+ Latvija SIA Servier Latvia Tel: +371 67502039
+ United Kingdom Servier Laboratories Ltd Tel: +44 (0) 1 753 666409
+ Lietuva UAB “ SERVIER PHARMA ” Tel: +370 (5) 2 63 86 28
+ Este folheto foi aprovado pela última vez em{ MM/AAAA}
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu
+ 25

@@ -1,0 +1,264 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. DENOMINAÇÃO DO MEDICAMENTO
+ Preotact 100 microgramas pó e solvente para solução injectável.
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ O Preotact contém hormona paratiroideia produzida por uma estirpe de Escherichia coli modificada por tecnologia de ADN recombinante.
+ O medicamento é fornecido num cartucho de câmara dupla.
+ A primeira câmara contém 1,61 mg de hormona paratiroideia.
+ Cada dose de 71,4 microlitros contém 100 microgramas de hormona paratiroideia. Cada cartucho contém 14 doses.
+ A segunda câmara contém solvente estéril para reconstituição.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Pó e solvente para solução injectável. Pó branco a esbranquiçado e solvente transparente incolor.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Tratamento da osteoporose em mulheres pós-menopáusicas com elevado risco de fracturas (ver secção 5.1).
+ Demonstrou-se haver uma redução significativa da incidência de fracturas vertebrais, mas não da anca.
+ 4.2 Posologia e modo de administração A dose recomendada é de 100 microgramas de hormona paratiroideia, administrada uma vez ao dia em injecção subcutânea no abdómen.
+ Os doentes devem ser ensinados a utilizar técnicas adequadas de injecção (ver secção 6.6). Juntamente com a caneta Preotact, existe um manual do utilizador para ensinar os doentes a utilizar correctamente a caneta. A caneta não está incluída nas embalagens com os cartuchos.
+ Os doentes devem tomar suplementos de cálcio e de vitamina D caso a ingestão na dieta seja insuficiente.
+ Os dados suportam um tratamento contínuo com Preotact até 24 meses (ver secção 4.4).
+ Após tratamento com Preotact, os doentes podem ser tratados com um bisfosfonato para aumento adicional da densidade mineral óssea (ver secção 5.1).
+ 2 Populações específicas Insuficiência renal Não é necessário um ajuste de dose em doentes com insuficiência renal ligeira a moderada (depuração da creatinina de 30 a 80 ml/min). Não existem dados disponíveis para doentes com insuficiência renal grave. Por esta razão, o Preotact não deve ser utilizado em doentes com insuficiência renal grave (ver secção 4.3).
+ Insuficiência hepática Não é necessário um ajuste de dose em doentes com insuficiência hepática ligeira ou moderada (score total de 7 a 9 na escala de Child-Pugh). Não existem dados disponíveis para doentes com insuficiência hepática grave. Por esta razão, o Preotact não deve ser utilizado em doentes com insuficiência hepática grave (ver secção 4.3).
+ Crianças e adolescentes A segurança e eficácia do Preotact não foram estudadas em doentes com menos de 18 anos de idade. O Preotact não deve ser utilizado em doentes pediátricos nem em adultos jovens.
+ Idosos Não é necessário um ajuste de dose com base na idade (ver secção 5.2).
+ 4.3 Contra-indicações O Preotact está contra-indicado em doentes • com hipersensibilidade à hormona paratiroideia ou a qualquer um dos excipientes (ver secção 6.1) • que tenham previamente sido sujeitos a radioterapia óssea • com hipercalcemia pré-existente e outros distúrbios do metabolismo fosfo-cálcico • com doenças ósseas metabólicas para além da osteoporose primária (incluindo hiperparatiroidismo e doença de Paget dos ossos) • com aumentos inexplicados da fosfatase alcalina específica dos ossos • com insuficiência renal grave • com insuficiência hepática grave
+ 4.4 Advertências e precauções especiais de utilização
+ Os doentes que iniciam a terapêutica com Preotact devem ser monitorizados aos meses 1,3 e 6 para detecção de níveis elevados de cálcio sérico e/ou urinário. A monitorização para além dos 6 meses não está recomendada em doentes cujo cálcio sérico total esteja dentro dos limites normais aos 6 meses.
+ Foi observado um aumento do cálcio sérico durante o tratamento com Preotact. As concentrações séricas de cálcio atingem um máximo entre as 6 e as 8 horas após a administração da dose e voltam aos valores basais às 20 a 24 horas após cada administração de hormona paratiroideia. Por esta razão, caso sejam colhidas amostras de sangue aos doentes para monitorização dos níveis de cálcio, tal deve ser realizado pelo menos 20 horas após a última injecção.
+ Tratamento de níveis séricos de cálcio elevados Os doentes com cálcio sérico elevado persistente (acima do limite superior normal) devem ser avaliados quanto a doenças subjacentes (por ex. hiperparatiroidismo). Caso não se encontre qualquer condição subjacente, devem ser seguidos os seguintes procedimentos de controlo:
+ Os suplementos de cálcio e de vitamina D devem ser retirados • A frequência da posologia do Preotact deve ser alterada para 100 microgramas dia sim, dia • não Caso se mantenham os níveis elevados, deve-se interromper a terapêutica com Preotact e o • doente deve ser monitorizado até que os valores alterados voltem ao normal
+ Doentes com hipercalcemia e/ou hipercalciúria pré-existente
+ 3 O Preotact foi estudado em doentes com hipercalcemia e/ou hipercalciúria pré-existente. Nestes doentes, a probalilidade do tratamento com Preotact de exacerbar a hipercalcemia e/ou hipercalciúria subjacente foi maior.
+ O Preotact não foi estudado em doentes com urolitíase activa. O Preotact deve ser utilizado com precaução em doentes com urolitíase activa ou prévia.
+ Deve-se ter precaução com doentes sob terapêutica com glicosídeos cardíacos (ver secção 4.5).
+ Estudos em ratos indicam uma incidência aumentada de osteosarcoma com a administração prolongada de Preotact (ver secção 5.3). A ocorrência de osteosarcoma apenas ocorreu com doses que originavam exposições sistémicas mais de 27 vezes superiores às observadas no ser humano com a dose de 100 microgramas. Até que estejam disponíveis mais dados clínicos, o período de tratamento recomendado de 24 meses não deve ser ultrapassado.
+ O Preotact contém meta-cresol o qual pode causar reacções alérgicas.
+ Este medicamento contém menos de 1 mmol de sódio (23 mg) por dose.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ A hormona paratiroideia é um péptido natural que não é metabolizado pelas enzimas microssomáticas hepáticas metabolizadoras de fármacos (por ex. isoenzimas do citocromo P450) e também não as inibe. Além disso, a hormona paratiroideia não se liga às proteínas e possui um reduzido volume de distribuição. Por esta razão, não se espera uma interacção com outros medicamentos e não foram realizados estudos específicos de interacção medicamentosa. Não foi identificado um potencial para interacção medicamentosa no programa clínico.
+ Quando se avaliou o endpoint da densidade mineral óssea, a associação da hormona paratiroideia com o alendronato não evidenciou qualquer vantagem relativamente à administração isolada de qualquer um dos tratamentos. (ver secção 5.1).
+ A partir do conhecimento do mecanismo de acção, a utilização concomitante de Preotact e glicosídeos cardíacos pode predispor os doentes a toxicidade digitálica caso ocorra hipercalcemia.
+ 4.6 Gravidez e aleitamento Não estão disponíveis dados sobre a utilização de hormona paratiroideia durante a gravidez e o aleitamento. Os estudos de toxicidade reprodutiva em animais são incompletos (ver secção 5.3).
+ A hormona paratiroideia não deve ser utilizada durante a gravidez nem o aleitamento.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas. Dado terem sido descritos alguns episódios de tontura em doentes tratadas com Preotact, as doentes devem abster-se de conduzir ou de utilizar máquinas até que os sintomas tenham desaparecido.
+ 4.8 Efeitos indesejáveis Os seguintes dados de reacções adversas (RAM) baseiam-se em dois ensaios controlados com placebo que envolveram 2642 mulheres pós-menopáusicas osteoporóticas, das quais 1341 receberam hormona paratiroideia. Cerca de 71,4% das doentes tratadas com hormona paratiroideia notificaram pelo menos uma RAM.
+ A hipercalcemia e/ou hipercalciúria reflectem as acções farmacodinâmicas conhecidas da hormona paratiroideia sobre o tracto gastrointestinal, os rins e os ossos. Foi notificada hipercalcemia em 25,3% 4 das doentes e hipercalciúria em 39,3% das doentes tratadas com Preotact. A hipercalcemia foi transitória e foi notificada com mais frequência nos 3 primeiros meses de tratamento. Foi controlada durante o programa clínico através da monitorização dos valores laboratoriais e da utilização de um algoritmo de controlo pré-especificado (ver secções 4.3, 4.4 e 5.1).
+ A outra RAM notificada com muita frequência foi náuseas.
+ A tabela seguinte mostra de forma geral as RAMs cuja incidência é, pelo menos, 0,5% superior no grupo que recebeu hormona paratiroideia em comparação com o placebo. São utilizadas as seguintes categorias para classificar os efeitos indesejáveis por frequência de ocorrência: muito frequentes (&gt; 1/10); frequentes (&gt; 1/100 e &lt; 1/10); pouco frequentes (&gt; 1/1000 e &lt; 1/100); raros (&gt; 1/10.000 e &lt; 1/1000); e muito raros (&lt; 1/10.000), incluindo comunicações isoladas.
+ Classes de sistemas de órgãos PTH N=1341 (%) Infecções e infestações Pouco frequentes Gripe (Influenza)
+ 0,5 Doenças do metabolismo e da nutrição Muito frequentes
+ Hipercalcemia Frequentes Aumento dos níveis sanguíneos de
+ 25,3 cálcio Pouco frequentes Aumento dos níveis sanguíneos de
+ 3,1 fosfatase alcalina Anorexia Aumento dos níveis sanguíneos de
+ 0,8 0,6 ácido úrico
+ 0,6 Doenças do sistema nervoso Frequentes Cefaleias Tonturas Pouco frequentes
+ 9,3 3,9 Disgeusia Parosmia
+ 0,8 0,7 Cardiopatias Frequentes Palpitações 1,0 Doenças gastrointestinais Muito frequentes
+ Náuseas Frequentes
+ 13,5 Vómitos Obstipação Dispepsia Diarreia Pouco frequentes
+ 2,5 1,8 1,3 1,0 Dor abdominal 0,8 5 Afecções musculosqueléticas e dos tecidos conjuntivos e ósseas Frequentes Cãibras musculares Dor nas extremidades Lombalgias
+ 1,1 1,1 1,0 Doenças renais e urinárias Muito frequentes
+ Hipercalciúria Frequentes Aumento da razão cálcio/creatinina na
+ 39,3 urina Aumento dos níveis de cálcio na urina
+ 2,9 2,2 Perturbações gerais e alterações no local de administração Frequentes Eritema no local da injecção Fadiga Astenia Pouco frequentes
+ 2,6 1,8 1,2 Irritação no local da injecção 0,9 O Preotact aumenta as concentrações séricas de ácido úrico. De todos os indivíduos que receberam 100 microgramas de hormona paratiroideia, foi notificado aumento do ácido úrico no sangue em 8 indivíduos (0,6%) e hiperuricémia em 5 indivíduos (0,4%). Apesar de ter sido notificado gota, artralgia e nefrolitíase como RAMs, a relação entre o aumento do ácido úrico e a administração de Preotact não foi completamente estabelecida.
+ Anticorpos contra a hormona paratiroideia Num grande ensaio clínico de fase III, foram detectados anticorpos contra a hormona paratiroideia em 3% das mulheres tratadas com Preotact em comparação com 0,2% das que receberam o placebo. Nestas mulheres com título positivo, não houve evidência de reacções de hipersensibilidade, reacções alérgicas, efeitos sobre a resposta da densidade mineral óssea, nem efeitos sobre o cálcio sérico.
+ 4.9 Sobredosagem Sinais e sintomas No programa clínico do Preotact, foi notificada sobredosagem acidental em 17 indivíduos.
+ O Preotact foi administrado em doses únicas até 5 microgramas/kg e em doses repetidas até 3 microgramas/kg/dia durante 3 dias e até 2,5 microgramas/kg/dia durante 7 dias. Os efeitos de uma sobredosagem que se podem esperar incluem hipercalcemia retardada, náuseas, vómitos, tonturas e cefaleias.
+ Tratamento da sobredosagem Não existe um antídoto específico para o Preotact. O tratamento de uma sobredosagem suspeita deve incluir uma descontinuação temporária do Preotact, monitorização do cálcio sérico e implementação de medidas apropriadas de suporte, tais como hidratação. Devido à relativamente curta duração da acção farmacológica do Preotact, não devem ser necessárias medidas adicionais.
+ 5. PROPRIEDADES FARMACOLÓGICAS 6 5.1 Propriedades farmacodinâmicas
+ Grupo farmacoterapêutico: hormonas da paratiroide, código ATC: H05 AA03
+ Mecanismo de acção O Preotact contém hormona paratiroideia humana recombinante que é idêntica ao polipéptido fisiológico de 84 aminoácidos de comprimento.
+ As acções fisiológicas da hormona paratiroideia incluem a estimulação da formação óssea através de efeitos directos sobre as células formadoras dos ossos (osteoblastos), aumento indirecto da absorção intestinal de cálcio e aumento da reabsorção tubular de cálcio e da excreção de fosfato pelos rins.
+ Efeitos farmacodinâmicos Os efeitos da hormona paratiroideia sobre os ossos dependem do padrão de exposição sistémica. Os aumentos transitórios dos níveis de hormona paratiroideia após injecção subcutânea de Preotact estimulam a formação de osso novo nas superfícies trabeculares e corticais (periosteais e/ou endosteais) dos ossos através de uma estimulação preferencial da actividade osteoblástica sobre a actividade osteoclástica.
+ Efeitos sobre as concentrações séricas de cálcio A hormona paratiroideia é o principal regulador da homeostase sérica de cálcio. Em resposta às doses subcutâneas de Preotact (100 microgramas de hormona paratiroideia), os níveis séricos de cálcio total aumentam gradualmente e atingem a concentração máxima (aumento médio em 129 doentes, 0,15 mmol/l) cerca das 6 a 8 horas após a administração. No geral, os níveis séricos de cálcio voltam aos valores basais às 24 horas após a administração.
+ Com base em dois ensaios controlados com placebo que envolveram 2642 mulheres pós-menopáusicas osteoporóticas foi notificada hipercalcemia em 25,3% das doentes tratadas com Preotact em comparação com 4,3% das doentes tratadas com placebo. A hipercalcemia foi transitória e foi notificada com mais frequência nos 3 primeiros meses de tratamento. Foi controlada durante o programa clínico através da monitorização dos valores laboratoriais e da utilização de um algoritmo de controlo pré-especificado. (ver secções 4.3 e 4.4).
+ Eficácia clínica Efeito sobre a incidência de fracturas O estudo piloto foi um estudo de fase III (TOP) de 18 meses, em dupla ocultação e controlado com placebo sobre o efeito do Preotact sobre a incidência de fracturas em mulheres pós-menopáusicas osteoporóticas.
+ Um total de 2532 doentes (1286 Preotact e 1246 placebo), com idades compreendidas entre os 45 e os 94 anos (8,1% entre os 45-54 e 11,4% &gt; 75 anos) foi aleatorizado de forma a receber 100 microgramas/dia ou placebo com suplementos diários de cálcio (700 mg) e de vitamina D (400 UI).
+ No geral, cerca de 19% dos indivíduos em cada grupo de tratamento apresentavam pelo menos 1 fractura vertebral prevalente na baseline. O score T lombar médio basal foi de cerca de-3,0 em cada grupo de tratamento.
+ Das 2532 doentes aleatorizadas com intenção de tratar (ITT), um total de 59 tinha tido pelo menos uma nova fractura vertebral, placebo: 42 (3,37%) – Preotact: 17 (1,32%), p=0,001. As doentes no grupo de tratamento com Preotact tiveram uma redução relativa do risco de novas fracturas vertebrais de 61% ao mês 18 quando comparadas com as doentes do grupo de placebo.
+ De forma a prevenir uma ou mais novas fracturas vertebrais,48 mulheres tiveram que ser tratadas durante um período mediano de 18 meses na população geral. No caso de doentes com fracturas pré-existentes, o número necessário tratar (NNT) é de 21 doentes.
+ 7 Não houve uma diferença significativa entre os grupos de tratamento na incidência de quaisquer fracturas clínicas não-vertebrais: 5,52% para o Preotact vs. 5,86% para o placebo.
+ A redução de fracturas mais relevante foi observada nas doentes com elevado risco de fracturas, tal como as doentes com fracturas prévias e doentes com um score T de espinal-medula &lt;-3.
+ Relativamente poucas doentes pós-menopáusicas há menos de 5 anos e com idades entre 45-54 anos foram incluídas no ensaio de fase III (2-3%). Os resultados destas doentes não foram diferentes dos resultados do ensaio no geral.
+ Efeito sobre a densidade mineral óssea (DMO) No ensaio piloto, o Preotact aumentou a DMO na espinal-medula em 6,5% após 18 meses de tratamento em comparação com-0,3% com o placebo (p &lt; 0,001). Foram observados aumentos significativos da DMO na anca (total, colo do fémur, trocânter) no endpoint do estudo; 1,0, 1,8 e 1,0%, respectivamente, com o Preotact versus-1,1,-0,7 e-0,6% com o placebo (p &lt; 0,001).
+ A continuação do tratamento até aos 24 meses numa extensão deste estudo sem ocultação resultou numa continuação do aumento da DMO. O aumento da DMO da espinal-medula e do colo do fémur em relação ao valor basal foi de 6,8% e de 2,2%, respectivamente, em doentes tratadas com Preotact.
+ Os efeitos do Preotact sobre a arquitectura óssea foram avaliados através de tomografia computorizada quantitativa (TCQ) e TCQ periférica. A DMO trabecular volumétrica da espinal-medula aumentou 38% em relação ao valor basal aos 18 meses. De igual forma, a DMO trabecular volumétrica na anca total aumentou 4,7%. Ocorreram aumentos similares no colo do fémur, trocânter e região intertrocanteriana. O tratamento com Preotact reduziu a DMO cortical volumétrica (medida no rádio distal e no eixo médio da tíbia), enquanto que a circunferência periosteal ou os índices de força óssea cortical se mantiveram.
+ No ensaio de 24 meses de terapêutica combinada com alendronato (PaTH), os efeitos do Preotact sobre a arquitectura óssea foram também avaliados através de TCQ. A DMO trabecular volumétrica na espinal-medula aumentou 26,13 e 11% (Preotact, Preotact e alendronato e alendronato, respectivamente) em relação ao valor basal aos 12 meses. De igual forma, a DMO trabecular volumétrica na anca total aumentou 9,6 e 2%, respectivamente, nos 3 grupos.
+ Tratamento da osteoporose com terapêutica combinada e sequencial O estudo PaTH foi promovido pelo NIH, aleatorizado, controlado com placebo, com duração de 2 anos, multicêntrico e em dupla ocultação com Preotact e alendronato em monoterapia e em associação para o tratamento da osteoporose pós-menopáusica. Os critérios de inclusão foram mulheres entre os 55 e os 85 anos de idade com score T de DMO inferiores a-2,5 ou inferiores a-2 e pelo menos um factor de risco adicional para fracturas. Todas as mulheres receberam suplementos de cálcio (400-500 mg) e de vitamina D (400 UI).
+ Um total de 238 mulheres pós-menopáusicas, foi distribuído aleatoriamente por um dos seguintes grupos de tratamento: Preotact (100 microgramas de hormona paratiroideia), alendronato (10 mg) ou uma associação de ambos e foi seguido durante 12 meses. No segundo ano do estudo, as mulheres do grupo original de Preotact foram distribuídas aleatoriamente de forma a receberem alendronato ou placebo e as mulheres dos outros dois grupos receberam alendronato.
+ Na baseline, um total de 165 mulheres (69%) apresentava um score T inferior a – 2,5 e 112 (47%) notificaram pelo menos uma fractura após a menopausa.
+ Um ano de terapêutica apresentou os seguintes resultados: Os aumentos da DMO da espinal-medula acima do valor basal foram idênticos nos grupos de Preotact e de terapêutica combinada (6,3 e 6,1%, respectivamente), mas de alguma forma inferiores no grupo do alendronato (4,6%). Os aumentos da DMO na anca total foram de 0,3, 1,9 e 3,0% nos 3 grupos, respectivamente.
+ 8 No final do ano 2 (12 meses após descontinuação do Preotact), houve um aumento médio de 12,1% da DMO espinal medida por absorciometria de raios-X de dupla energia (DXA) nas doentes que receberam alendronato durante o segundo ano. Nas doentes que receberam placebo durante o segundo ano, a percentagem média de aumento foi de 4,1% em comparação com o valor basal, mas diminuiu ligeiramente em comparação com o final dos 12 meses de tratamento com Preotact. Quanto à alteração média da DMO da anca, houve um aumento de 4,5% em relação ao valor basal com um ano de alendronato em comparação com uma diminuição de 0,1% após um ano de placebo.
+ O Preotact em associação com a terapêutica hormonal de substituição (THS) em 180 mulheres pós-menopáusicas demonstrou aumentar significativamente a DMO da espinal-medula aos 12 meses em comparação com a THS isolada (7,1% vs. 1,1%, p &lt; 0,001). A associação foi eficaz, independentemente da idade, taxa de turnover ósseo ou DMO basais.
+ 5.2 Propriedades farmacocinéticas Absorção A administração subcutânea de 100 microgramas de hormona paratiroideia no abdómen origina um aumento rápido dos níveis plasmáticos de hormona paratiroideia e atinge um pico às 1 a 2 horas após a dosagem. A semi-vida média é de cerca de 1,5 horas. A biodisponibilidade absoluta de 100 microgramas de hormona paratiroideia após administração subcutânea no abdómen é de 55%.
+ Distribuição O volume de distribuição no equilíbrio após administração intravenosa é de cerca de 5,4 l. A variabilidade interindividual do volume de distribuição da hormona paratiroideia é de cerca de 40%.
+ Biotransformação A hormona paratiroideia é eficazmente removida do sangue através de um processo mediado por receptores no fígado e é clivada em fragmentos peptídicos mais pequenos. Os fragmentos derivados dos terminais amino são posteriormente degradados dentro da célula enquanto que os fragmentos derivados dos terminais carboxi são libertados de novo no sangue e eliminados pelos rins. Julga-se que estes fragmentos dos terminais carboxi actuam sobre a regulação da actividade da hormona paratiroideia. Sob condições fisiológicas normais, a hormona paratiroideia completa (1-84) constitui apenas 5-30% das formas circulantes da molécula, enquanto que 70-95% se encontra presente sob a forma de fragmentos dos terminais carboxi. Após administração subcutânea de Preotact, os fragmentos terminais-C totalizam cerca de 60-90% das formas circulantes da molécula. A depuração sistémica da hormona paratiroideia (45,3 l/hora) após administração intravenosa é próxima da do fluxo plasmático normal no fígado e é consistente com um metabolismo hepático extenso da substância activa. A variabilidade interindividual da depuração sistémica é de cerca de 15%.
+ Eliminação A hormona paratiroideia é metabolizada no fígado e em menor extensão nos rins. A hormona paratiroideia não é excretada do organismo na forma intacta. Os fragmentos circulantes dos terminais carboxi são filtrados pelos rins, mas são posteriormente quebrados em fragmentos ainda mais pequenos durante a reabsorção tubular.
+ Insuficiência hepática Verificou-se um aumento moderado, de cerca de 20%, na média dos valores basais da exposição corrigida (AUC) à hormona paratiroideia num ensaio realizado em 6 homens e 6 mulheres com insuficiência hepática moderada quando comparados com um grupo de 12 indivíduos com função hepática normal.
+ Não foram realizados estudos em doentes com insuficiência hepática grave.
+ Insuficiência renal 9 A exposição global e Cmax da hormona paratiroideia aumentaram ligeiramente (22% e 56%, respectivamente) num grupo de 8 indivíduos do sexo masculino e 8 do sexo feminino com insuficiência renal ligeira a moderada (depuração da creatinina de 30 a 80 ml/min) quando comparadas com um grupo de 16 indivíduos com função renal normal.
+ A farmacocinética da hormona paratiroideia em doentes com insuficiência renal grave (depuração da creatinina inferior a 30 ml/min) não foi investigada.
+ Idosos Não foram detectadas diferenças na farmacocinética do Preotact relacionadas com a idade (intervalo de 47-88 anos). Não é necessário ajuste de dose com base na idade.
+ Sexo O medicamento apenas foi estudado em mulheres pós-menopáusicas.
+ 5.3 Dados de segurança pré-clínica Os dados pré-clínicos não revelam riscos especiais para o ser humano, segundo estudos convencionais de farmacologia de segurança, mutagenicidade, toxicidade reprodutiva e tolerância local.
+ Em macacos que receberam doses subcutâneas diárias durante 6 meses, houve um aumento da ocorrência de mineralização tubular renal a níveis de exposição inferiores aos níveis de exposição clínica.
+ Ratos tratados com injecções diárias durante practicamente toda a vida apresentaram uma formação óssea exagerada dependente da dose e uma incidência aumentada de tumores ósseos, incluindo osteosarcoma, muito provavelmente devido a um mecanismo epigenético. Devido às diferenças da fisiologia óssea entre ratos e o ser humano, a relevância clínica destes resultados é provavelmente menor. Não foram observados osteosarcomas em ensaios clínicos.
+ Não existem estudos sobre a toxicidade fetal, de desenvolvimento, perinatal ou pós-natal. Não se sabe se a hormona paratiroideia humana recombinante é excretada no leite de animais a amamentar.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1. Lista dos excipientes Pó Manitol Ácido cítrico mono-hidratado Cloreto de sódio Ácido clorídrico diluído (para ajuste do pH) Hidróxido de sódio 1N (para ajuste do pH)
+ Solvente Meta-cresol Água para preparações injectáveis
+ 6.2 Incompatibilidades Não aplicável. 6.3 Prazo de validade Pó: 30 meses 10 Solução reconstituída: foi demonstrada uma estabilidade química e física de 28 dias a 2-8°C durante a utilização. Durante o período de 28 dias, a solução reconstituída pode ser conservada até 7 dias a temperaturas inferiores a 25°C.
+ 6.4 Precauções especiais de conservação
+ Não conservar acima de 25ºC. Não congelar. Conservar o cartucho dentro da embalagem exterior para proteger da luz.
+ Solução reconstituída: Conservar no frigorífico (2-8°C). Não congelar. Uma vez reconstituído, o cartucho pode ser conservado fora do frigorífico a temperaturas inferiores a 25°C durante 7 dias dentro do período de utilização de 28 dias (ver secção 6.3).
+ 6.5 Natureza e conteúdo do recipiente O sistema de fecho do recipiente é composto por um cartucho de câmara dupla, uma rolha central, um fecho não roscado (contendo um selo de borracha) que sela a primeira câmara que contém o pó liofilizado e uma rolha final que sela a segunda câmara que contém o solvente para a reconstituição.
+ Cartucho: O vidro do cartucho de câmara dupla é do Tipo I
+ Rolha (central e final): A rolha é de borracha de bromobutilo cinzento
+ Fecho não roscado (contendo um selo de borracha). O fecho não roscado é de alumínio e o selo de borracha é de borracha de bromobutilo
+ Cada cartucho de câmara dupla contém 1,61 mg de hormona paratiroideia e 1,13 ml de solvente (14 doses)
+ O Preotact encontra-se disponível em embalagens de 2 e 6 cartuchos. É possível que não sejam comercializadas todas as apresentações.
+ A caneta Preotact e as agulhas não estão incluídas.
+ 6.6 Precauções especiais de eliminação O Preotact é injectado com a caneta reutilizável, caneta Preotact. O conteúdo do cartucho de câmara dupla é reconstituído na caneta Preotact. Após a reconstituição, o líquido deve ser límpido e incolor.
+ NÃO AGITAR; a agitação pode causar a desnaturação da substância activa.
+ Caso a solução reconstituída se encontre turva, com cor ou contenha partículas, o cartucho deve ser retirado da caneta Preotact, devendo ser inserido um novo cartucho.
+ Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Nycomed Danmark ApS Langebjerg 1 DK-4000 Roskilde Dinamarca
+ 11 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/06/339/001-002 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 24. 04.2006 10. DATA DA REVISÃO DO TEXTO 12 ANEXO II
+ A. FABRICANTE DA SUBSTÂNCIA ACTIVA DE ORIGEM BIOLÓGICA E TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 13 A FABRICANTE DA SUBSTÂNCIA ACTIVA DE ORIGEM BIOLÓGICA E TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do fabricante da substância activa de origem biológica
+ Boehringer-Ingelheim GmbH Dr. Boehringer Gasse 5-11 1211 Vienna Áustria
+ Nome e endereço do fabricante responsável pela libertação do lote
+ Nycomed Danmark ApS Langebjerg 1,4000 Roskilde Dinamarca
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento sujeito a receita médica. • CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ Não aplicável. • OUTRAS CONDIÇÕES
+ O titular da Autorização de Introdução no Mercado compromete-se a realizar o estudo e as demais actividades de farmacovigilância descritas no Plano de Farmacovigilância.
+ 14 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 15 A. ROTULAGEM
+ 16 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO E NO ACONDICIONAMENTO PRIMÁRIO
+ Embalagem exterior de cartão (2 e 6 cartuchos de câmara dupla)
+ 1. DENOMINAÇÃO DO MEDICAMENTO Preotact 100 microgramas pó e solvente para solução injectável Hormona paratiroideia
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ Cada cartucho de câmara dupla contém 1,61 mg de hormona paratiroideia. Quando o pó e o solvente são misturados, cada dose de 71,4 microlitros contém 100 microgramas de hormona paratiroideia. Cada cartucho contém 14 doses.
+ 3. LISTA DOS EXCIPIENTES Cloreto de sódio 0,4%, manitol, ácido cítrico mono-hidratado, ácido clorídrico, meta-cresol, hidróxido de sódio, água para preparações injectáveis.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Pó e solvente para solução injectável. Cada cartucho de câmara dupla contém 1,61 mg de hormona paratiroideia sob a forma de pó e 1,13 ml de solvente.
+ 2 cartuchos de câmara dupla por embalagem. 6 cartuchos de câmara dupla por embalagem.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via subcutânea Não agitar a solução reconstituída. Consultar o folheto informativo
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRA(S) ADVERTÊNCIA(S) ESPECIAI(S), SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP MM/AAAA 17 Solução reconstituída: 28 dias
+ 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Pó e solvente: Não conservar acima de 25°C. Não congelar. Conservar o cartucho dentro da embalagem exterior para proteger da luz. Solução reconstituída: Conservar no frigorífico (2-8°C). Não congelar. Não agitar. Uma vez reconstituído, o cartucho pode ser conservado a temperatura inferior a 25°C até 7 dias dentro do período de utilização de 28 dias.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Nycomed Danmark ApS, Langebjerg 1,4000 Roskilde, Dinamarca
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/06/339/001 2 cartuchos de câmara dupla por embalagem. EU/1/06/339/002 6 cartuchos de câmara dupla por embalagem.
+ 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Preotact 18 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ Cartucho de câmara dupla 1. DENOMINAÇÃO DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Preotact 100 microgramas pó e solvente para solução injectável Hormona paratiroideia Via subcutânea
+ 2. MODO DE ADMINISTRAÇÃO Consultar o folheto informativo 3. PRAZO DE VALIDADE EXP MM/AAAA 4. NÚMERO DO LOTE Lote 5. CONTEÚDO EM TERMOS DE PESO, VOLUME OU UNIDADE
+ 1,61 mg de hormona paratiroideia e 1,13 ml de solvente (14 doses)
+ 6. OUTRAS 19 B. FOLHETO INFORMATIVO
+ 20 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Preotact 100 microgramas pó e solvente para solução injectável Hormona paratiroideia
+ Leia atentamente este folheto antes de utilizar o medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico
+ Neste folheto: 1. O que é Preotact e para que é utilizado 2. Antes de utilizar Preotact 3. Como utilizar Preotact 4. Efeitos secundários possíveis 5. Como conservar Preotact 6. Outras informações
+ 1. O QUE É PREOTACT E PARA QUE É UTILIZADO
+ O Preotact é utilizado para o tratamento da osteoporose em mulheres pós-menopáusicas com elevado risco de fracturas. A osteoporose é uma doença que torna os ossos finos e frágeis. É muito comum nas mulheres após a menopausa. A doença progride de forma gradual, pelo que pode não sentir quaisquer sintomas no início. Mas se tiver osteoporose, torna-se mais provável que os ossos partam, principalmente na coluna, anca e pulsos. Pode também causar dores nas costas, perda de altura e costas curvas.
+ O Preotact diminui o risco de fractura dos ossos da coluna, uma vez que aumenta a qualidade e a resistência dos ossos.
+ 2. ANTES DE UTILIZAR PREOTACT Não utilize Preotact: • se tem alergia (hipersensibilidade) à hormona paratiroideia ou a qualquer outro componente do Preotact; • se fez radioterapia aos ossos; • se tem níveis elevados de cálcio e sofre de outros distúrbios do metabolismo fósforo-cálcio; • se tem outras doenças ósseas (incluindo hiperparatiroidismo ou doença de Paget); • se tem níveis elevados de fosfatase alcalina; • se tem problemas graves de rins; • se tem uma doença grave do fígado;
+ Medição dos níveis de cálcio no sangue e/ou urina
+ O seu médico verificará a sua resposta ao tratamento em intervalos regulares. Ele ou ela terão de lhe realizar exames ao sangue e/ou à urina nos meses 1,3 e 6 após ter iniciado o seu tratamento com Preotact.
+ Tome especial cuidado com Preotact: 21 O Preotact deve ser utilizado com precaução se tiver ou tiver tido pedras nos rins.
+ Populações específicas: Crianças e adolescentes O Preotact não deve ser utilizado em crianças nem em adolescentes.
+ Idosos Não são necessárias precauções especiais.
+ Tomar Preotact com outros medicamentos: Informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica.
+ O Preotact deve ser utilizado com precaução se estiver a tomar medicamentos para o coração.
+ Tomar Preotact com alimentos e bebidas Os alimentos e as bebidas não influenciam o efeito do Preotact.
+ Gravidez e aleitamento Não utilize Preotact se estiver grávida ou a amamentar.
+ Condução de solventes e utilização de máquinas:
+ Não foram realizados estudos sobre a capacidade de conduzir ou de utilizar máquinas. Se sentir tonturas, não conduza nem opere máquinas até se sentir melhor.
+ Informações importantes sobre alguns componentes de Preotact:
+ Este medicamento contém menos de 1 mmol de sódio (23 mg) por dose. Isto significa que é essencialmente isento de sódio.
+ 3. COMO UTILIZAR PREOTACT Utilizar Preotact sempre de acordo com as indicações do médico. Fale com o seu médico ou farmacêutico se tiver dúvidas.
+ Posologia A dose habitual de Preotact é de 100 microgramas uma vez ao dia.
+ O seu médico pode aconselhá-lo a tomar suplementos de cálcio e de vitamina D. O seu médico dir-lhe-á quanto deve tomar por dia.
+ Modo de administração O Preotact deve ser utilizado com a caneta Preotact.
+ 22 Quando coloca o cartucho na caneta Preotact, o solvente e o pó misturam-se. A solução fica então pronta a ser injectada no abdómen (debaixo da pele). Coloque a caneta Preotact no frigorífico quando não estiver a ser utilizada.
+ Informação importante quando utiliza Preotact • Administre o Preotact pouco depois de ter retirado a caneta Preotact do frigorífico. • Coloque a caneta Preotact novamente no frigorífico imediatamente após a ter utilizado. Nunca retire da caneta um cartucho que esteja a ser utilizado. • NÃO AGITE a caneta Preotact (nem antes nem após a injecção) uma vez que isso pode destruir o efeito da substância activa. • Utilize uma nova agulha de injecção para cada injecção e deite-a fora após cada utilização. • Nunca guarde a caneta Preotact com a agulha colocada. • Nunca partilhe a sua caneta Preotact com ninguém.
+ Para instruções de utilização da caneta Preotact, leia o Manual do Utilizador da caneta Preotact.
+ Duração do tratamento Continue a utilizar o Preotact enquanto o seu médico lho prescrever – normalmente não mais do que 24 meses.
+ Se utilizar mais Preotact do que deveria:
+ Se, por engano, administrar mais do que uma dose de Preotact num dia, contacte o seu médico ou farmacêutico.
+ Caso se tenha esquecido de utilizar Preotact:
+ Se se esqueceu de tomar Preotact (ou se não pode tomar o Preotact à hora habitual), tome-o assim que se lembrar nesse dia. Nunca tome mais do que uma injecção no mesmo dia. Não tome uma dose a dobrar para compensar uma dose que se esqueceu de tomar.
+ Se parar de utilizar Preotact: Se parar de utilizar o Preotact antes de terminar o tratamento, fale com o seu médico.
+ 4. EFEITOS SECUNDÁRIOS POSSIVEIS Como os demais medicamentos, Preotact pode causar efeitos secundários em algumas pessoas.
+ Os efeitos secudários mais frequentes (em mais de 10% dos doentes) são: aumento do nível de cálcio no sangue, aumento dos níveis de cálcio na urina e náuseas.
+ Os efeitos secundários frequentes (em 1 a 10% dos doentes) são: dores nas costas, obstipação, força muscular diminuída, diarreia, tonturas, eritema no local da injecção, batimentos rápidos ou irregulares do coração, dores de cabeça, cãibras musculares, dor nas extremidades, indisposição gástrica, cansaço, vómitos.
+ Os efeitos secundários pouco frequentes (em 0,1% a 1% dos doentes) são: dor abdominal, gripe, aumento do nível de ácido úrico no sangue, irritação da pele no local da injecção, perda de apetite, disturbios olfativos, e alteração do sabor.
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 23 5. COMO CONSERVAR PREOTACT
+ Manter fora do alcance e da vista das crianças.
+ Não utilize Preotact após o prazo de validade impresso no cartucho após EXP e na embalagem exterior após EXP. O prazo de validade corresponde ao último dia do mês indicado.
+ Cartuchos por utilizar • Não conservar acima de 25ºC. Não congelar. • Mantenha os cartuchos dentro da embalagem exterior de cartão para os proteger da luz.
+ Cartucho em utilização • O cartucho que está a ser utilizado (na caneta Preotact) deve ser conservado no frigorífico (2-8°C). Não congelar. • O cartucho que está a ser utilizado mantém-se durante 28 dias no frigorífico. • Se, por qualquer razão, não puder guardar a caneta Preotact (com o cartucho inserido) no frigorífico durante alguns dias, ele pode ser guardado fora do frigorífico a uma temperatura inferior a 25°C-MAS APENAS DURANTE UM TOTAL DE 7 DIAS dentro do período de utilização de 28 dias. • Se a solução Preotact no cartucho tiver mais de 28 dias ou se não foi guardada de forma correcta, deite-a fora, mesmo que o cartucho não esteja totalmente vazio. • Deite fora o cartucho se a solução Preotact ficar turva ou com cor.
+ Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Preotact O Preotact é fornecido num cartucho de câmara dupla. A primeira câmara contém o pó com a substância activa e a segunda câmara contém o solvente.
+ •
+ A substância activa é a hormona paratiroideia. Cada cartucho contém 1,61 mg de hormona paratiroideia. Quando o pó e o solvente se misturam, a solução injectável contém hormona paratiroideia numa concentração de 1,4 mg/ml.
+ •
+ Outros componentes: O pó contém cloreto de sódio 0,4%, manitol, ácido cítrico mono-hidratado, ácido clorídrico e hidróxido de sódio. O solvente contém meta-cresol e água para preparações injectáveis.
+ Qual o aspecto de Preotact e conteúdo da embalagem
+ Preotact é um pó e solvente para solução injectável. É fornecido num cartucho de câmara dupla que contém 1,61 mg de hormona paratiroideia sob a forma de pó e 1,13 ml de solvente.
+ O Preotact está disponível em embalagens de 2 e 6 cartuchos. É possível que não sejam comercializadas todas as apresentações.
+ Titular da Autorização de Introdução no Mercado e Fabricante
+ Nycomed Danmark ApS Langebjerg 1 DK-4000 Roskilde
+ 24 Tlf: +45 46 77 11 11 info@ nycomed. com
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado:
+ België/Belgique/Belgien Nycomed Belgium SCA/CVA Gentsesteenweg 615 B-1080 Bruxelles/Brussel/Brüssel Tél/Tel: +32 2 464 06 11 nycomed-belgium@ nycomed. com
+ Luxembourg/Luxemburg Nycomed Belgium SCA/CVA Gentsesteenweg 615 B-1080 Bruxelles/Brüssel Belgique/Belgien Tél/Tel: +32 2 464 06 11 nycomed-belgium@ nycomed. com
+ България Nycomed Langebjerg 1 DK-4000 Roskilde Дания Tel: +45 46 77 11 11 info@ nycomed. com
+ Magyarország Nycomed Langebjerg 1 DK-4000 Roskilde Dània Tel: +45 46 77 11 11 info@ nycomed. com
+ Česká republika Nycomed Langebjerg 1 DK-4000 Roskilde Dánsko Tel: +45 46 77 11 11 info@ nycomed. com
+ Malta Nycomed Langebjerg 1 DK-4000 Roskilde Denmark Tel: +45 46 77 11 11 info@ nycomed. com
+ Danmark Nycomed Danmark ApS Langebjerg 1 DK-4000 Roskilde Tlf: +45 46 77 11 11 info@ nycomed. com
+ Nederland Nycomed bv. Nikkelstraat 5 NL-4823 AE Breda Tel: +31 76 548 16 00
+ Deutschland Nycomed Pharma GmbH Molkestr 4 78467 Konstanz Tel: +49 7531 3666 0
+ Norge Nycomed Pharma AS Drammensveien 852 NO-1372 Asker Tlf: +47 6676 3030 infonorge@ nycomed. no
+ Eesti Nycomed SEFA AS Pirita tee 20T EE-10127 Tallinn Tel: +372 6112 569 info@ nycomed. ee
+ Österreich Nycomed Pharma GmbH EURO Plaza, Gebäude F Technologiestrasse 5 A-1120 Wien Tel:+ 43 18 15 02 02 nycomed-austria@ nycomed. com
+ Ελλάδα Nycomed Hellas SA 196 Kifissias Avenue Halandri 152 31, Athens Τηλ: +30 210 6729570 info@ nycomed. gr
+ Polska Nycomed Polska Sp. z. o. o. Dworkowa 3 PL-00-784 Warsaw Tel: +48 2231 31880
+ 25 España Nycomed Pharma, S. A C/Alsasua 20 28023 – Madrid Tlf: +34 917 14 99 00
+ Portugal Nycomed Portugal Productos Farmaceuticos Lda Quinta da Fonte – Edifício Gil Eanes 2770-192 Paço de Arcos Tlf:+ 351 21 44 602 00
+ France Nycomed France SAS 28 rue Pages FR-92150 Suresnes Tel: +33 1 42 04 85 50
+ România Nycomed România Strada Despot Vodă nr. 32A, Sect.2 Bucureşti, Cod 020656-RO Tel:+ 40212123848
+ Ireland Nycomed Products Ltd. 2051 Castle Drive Citywest Business Campus Dublin 24 Tel: +353 (0) 1 6420021
+ Slovenija Nycomed Langebjerg 1 DK-4000 Roskilde Danska Tel: +45 46 77 11 11 info@ nycomed. com
+ Ísland Nycomed Langebjerg 1 DK-4000 Roskilde Danmörk Tel: +45 46 77 11 11 info@ nycomed. com
+ Slovenská republika Nycomed Langebjerg 1 DK-4000 Roskilde Dánsko Tel: +45 46 77 11 11 info@ nycomed. com
+ Italia Nycomed Italy S. r. l. Via Libero Temolo 4 I-20126 Milano Tel: +39 02 64 16 01
+ Suomi/Finland Oy Leiras Finland Ab PL/PB 1406 FIN-00101 Helsinki Puh/Tel: +358 20 746 5000 info@ leirasfinland. fi
+ Sverige Κύπρος Nycomed AB Nycomed Box 27264 Langebjerg 1 SE-102 53 Stockholm DK-4000 Roskilde Tel: +46 8 731 28 00 ∆ανία infosweden@ nycomed. com Tel: +45 46 77 11 11 Latvija Nycomed East Europe Vairoga 4 LV-1039 Riga Tel: +371 784 0082 nycomed@ nycomed. lv
+ United Kingdom Nycomed UK Ltd. Three Globeside Business Park Fieldhouse Lane SL7 1HZ Marlow Buckinghamshire Tel: +44 (0) 1628 646400
+ Lietuva Austrijos bendroves" Nycomed Osteuropa Marketing Service GmbH" atstovybe Seimyniskiu 3 LT-09312 Vilnius Tel: +370 521 09 070 Infor@ nycomed. lt
+ 26 Este folheto foi aprovado pela última vez em MM/YYYY
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia do Medicamento (EMEA) http: //www. emea. eu. int/
+ 27

@@ -1,0 +1,298 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. NOME DO MEDICAMENTO
+ Vectibix 20 mg/ml concentrado para solução para perfusão.
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada ml de concentrado contém 20 mg de panitumumab.
+ Cada frasco para injectáveis contém 100 mg de panitumumab em 5 ml,200 mg em 10 ml ou 400 mg em 20 ml.
+ Quando preparado de acordo com as instruções dadas na secção 6.6, a concentração final de panitumumab não deve exceder 10 mg/ml.
+ Panitumumab é um anticorpo IgG2 monoclonal humano produzido numa linha celular de mamíferos (CHO) por tecnologia de ADN recombinante.
+ Excipientes: Cada ml de concentrado contém 0,150 mmol de sódio, o que corresponde a 3,45 mg de sódio. Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Concentrado para solução para perfusão. Solução incolor que pode conter partículas amorfas visíveis de panitumumab.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas O Vectibix está indicado em monoterapia para os doentes com carcinoma colorectal metastizado, que expresse EGFR e sem mutação (tipo selvagem) do KRAS após insucesso terapêutico com regimes de quimioterapia contendo fluoropirimidina, oxaliplatina e irinotecano.
+ 4.2 Posologia e modo de administração O tratamento com Vectibix deve ser supervisionado por um médico com experiência na utilização de terapêutica antineoplásica.
+ A detecção da expressão de KRAS não mutado deve ser efectuada num laboratório com experiência e utilizando um método de teste validado.
+ A dose recomendada de Vectibix é de 6 mg/kg de peso corporal administrada uma vez de duas em duas semanas. Antes da perfusão, Vectibix deve ser diluído em cloreto de sódio a 0,9% para injectáveis até uma concentração final que não deve exceder os 10 mg/ml (instruções de preparação, ver secção 6.6).
+ Vectibix deve ser administrado na forma de uma perfusão intravenosa (IV) através de uma bomba de perfusão, utilizando um filtro em linha de 0,2 ou 0,22 micrometros, com baixa capacidade de ligação às proteínas, através de uma linha periférica ou cateter de permanência. O tempo de perfusão recomendado é de, aproximadamente,60 minutos. Doses superiores a 1000 mg devem ser perfundidas durante, aproximadamente,90 minutos (instruções de manuseamento, ver secção 6.6).
+ 2 A linha de perfusão deve ser irrigada com uma solução de cloreto de sódio antes e após a administração de Vectibix para evitar misturar com outros medicamentos ou soluções IV.
+ Não administrar por injecção IV ou em bólus.
+ Populações especiais A segurança e eficácia de Vectibix não foram estudadas em doentes com disfunção renal ou hepática.
+ O ajuste da dose não é necessário nos idosos. Nos estudos clínicos, não se observaram diferenças globais na segurança ou eficácia entre os doentes com ≥ 65 anos de idade e os doentes mais jovens.
+ Não existe experiência em crianças, logo Vectibix não deve ser utilizado nos doentes com menos de 18 anos de idade.
+ 4.3 Contra-indicações Hipersensibilidade à substância activa ou a qualquer um dos excipientes.
+ Doentes com pneumonite intersticial ou fibrose pulmonar (ver Secção 4.4).
+ 4.4 Advertências e precauções especiais de utilização
+ Reacções dermatológicas Quase todos os doentes (aproximadamente 90%) tratados com Vectibix (ver secção 4.8) sofrem reacções dermatológicas, um efeito farmacológico observado com inibidores do receptor do factor de crescimento epidérmico (EGFR), sendo estas na sua maioria de natureza ligeira a moderada. Se um doente desenvolver reacções dermatológicas de grau 3 (NCI-CTC/CTCAE) ou superior, ou que sejam consideradas intoleráveis, deverá suspender-se temporariamente a administração de Vectibix até as reacções terem melhorado (≤ grau 2). Assim que melhorarem para ≤ grau 2, poderá retomar a administração de Vectibix a 50% da dose original. Se não houver recorrência das reacções, poderá aumentar a dose de Vectibix em incrementos de 25% até atingir a dose recomendada. Se as reacções não melhorarem (para ≤ grau 2) após a suspensão de 1 ou 2 doses de Vectibix, ou se as reacções forem recorrentes ou se tornarem intoleráveis a 50% da dose original, deve descontinuar-se permanentemente a utilização de Vectibix.
+ Em estudos clínicos, foram notificadas complicações infecciosas incluindo sépsis, conduzindo à morte em casos raros, e abcessos locais que exigiram incisão e drenagem, após o desenvolvimento de reacções dermatológicas graves (incluindo estomatite). Os doentes com reacções dermatológicas graves ou que desenvolvem agravamento das reacções enquanto estão a receber Vectibix devem ser monitorizados para verificar se há desenvolvimento de sequelas inflamatórias ou infecciosas e deve iniciar-se imediatamente um tratamento apropriado. Recomenda-se aos doentes que utilizem protector solar e chapéu e que limitem a exposição ao sol enquanto estiverem a receber Vectibix e sofrerem de toxicidades cutâneas/dermatológicas, pois a luz solar pode exacerbar qualquer reacção cutânea que possa ocorrer.
+ Complicações pulmonares Os doentes com história ou evidência de pneumonite intersticial ou fibrose pulmonar foram excluídos dos estudos clínicos. Como se observou doença pulmonar intersticial (ILD-Interstitial Lung Disease) com inibidores do EGFR, em caso de aparecimento agudo ou agravamento dos sintomas pulmonares, deve interromper-se o tratamento com Vectibix e deve proceder-se a uma investigação imediata destes sintomas. No caso de se diagnosticar pneumonite ou infiltrados pulmonares, deve descontinuar-se o Vectibix e o doente deve ser tratado de forma adequada.
+ 3 Distúrbios electrolíticos
+ Foram observados em alguns doentes uma diminuição progressiva dos níveis séricos de magnésio levando a uma hipomagnesiemia grave (grau 4). Antes do inicio do tratamento com Vectibix os doentes devem ser periodicamente monitorizados para hipomagnesiemia e hipocalcemia, e depois periodicamente até 8 semanas após terminarem o tratamento (ver secção 4.8). É recomendada a reposição de magnésio.
+ Foram também observados outros distúrbios electrolíticos, incluindo hipocaliémia. É também recomendável a reposição destes electrólitos, conforme apropriado.
+ Outras precauções Este medicamento contém 0,150 mmol de sódio (o que corresponde a 3,45 mg de sódio) por ml de concentrado. Este facto deve ser tido em consideração nos doentes a fazerem uma dieta com baixo teor de sódio.
+ Vectibix em combinação com IFL (Irinotecano, 5-fluorouracil e leucovorina)
+ Os doentes a receberem Vectibix em combinação com o regime IFL[ bólus de 5-fluorouracil (500 mg/m2), leucovorina (20 mg/m2) e irinotecano (125 mg/m2)] tiveram uma elevada incidência de diarreia grave (ver secção 4.8), portanto, deve evitar-se a administração de Vectibix em combinação com IFL (ver secção 4.5).
+ Vectibix em combinação com bevacizumab e regimes de quimioterapia
+ Um estudo aleatorizado, aberto, multicêntrico com 1053 doentes avaliou a eficácia de bevacizumab e regimes de quimioterapia contendo oxaliplatina ou irinotecano, com e sem Vectibix, na primeira linha de tratamento do cancro colorectal metastático. Numa análise interina com base em 947 doentes aleatorizados, observou-se um encurtamento do tempo de sobrevida sem progressão e um aumento das mortes em doentes a receberem Vectibix em combinação com bevacizumab e quimioterapia. Observou-se também uma maior frequência de embolias pulmonares, infecções (predominantemente de origem dermatológica), diarreia e desidratação nos braços de tratamento que utilizaram Vectibix em combinação com bevacizumab e quimioterapia. Portanto, deve evitar-se a administração de Vectibix em combinação com combinações quimioterapêuticas contendo bevacizumab (ver secção 4.5 e secção 5.1).
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Não foram realizados estudos de interacção.
+ A utilização concomitante de Vectibix e IFL ou bevacizumab e combinações quimioterapêuticas não é recomendada (ver secções 4.4 e 4.8). Foi observado um aumento do número de mortes quando o panitumumab foi administrado em combinação com bevacizumab e combinações quimioterapêuticas (ver secção 4.4).
+ 4.6 Gravidez e aleitamento Gravidez Não existem dados suficientes sobre a utilização de Vectibix em mulheres grávidas. Os estudos em animais revelaram toxicidade reprodutiva (ver secção 5.3). Desconhece-se o risco potencial para o ser humano. O EGFR foi implicado no controlo do desenvolvimento pré-natal e pode ser essencial a uma organogénese, proliferação e diferenciação normais do embrião em desenvolvimento. Portanto, Vectibix tem o potencial de ser prejudicial para o feto quando administrado a mulheres grávidas.
+ Sabe-se que a IgG humana atravessa a barreira placentária, portanto, panitumumab pode ser
+ 4 transmitido da mãe para o feto em desenvolvimento. As mulheres em risco de engravidar deverão utilizar um método contraceptivo eficaz durante o tratamento com Vectibix e até 6 meses após a última dose. Se Vectibix for utilizado durante a gravidez ou se a doente ficar grávida enquanto estiver a receber este medicamento, ela deverá ser alertada para o potencial risco de perda da gravidez ou dos potenciais riscos para o feto.
+ Aleitamento Desconhece-se se panitumumab é excretado no leite materno de humanos. Como a IgG humana é secretada para o leite materno, panitumumab poderá também sê-lo. Desconhece-se o potencial de absorção e de danos para o bebé após a ingestão. Recomenda-se que as mulheres não amamentem durante o tratamento com Vectibix e até 3 meses após a última dose.
+ Fertilidade Estudos em animais demonstraram efeitos reversíveis no ciclo menstrual e redução da fertilidade feminina em macacos (ver secção 5.3). O panitumumab pode ter impacto na capacidade da mulher engravidar.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas. Se os doentes tiverem sintomas relacionados com o tratamento que afectem a sua visão e/ou capacidade de concentração e reacção, recomenda-se que estes não conduzam nem utilizem máquinas até o efeito desaparecer.
+ 4.8 Efeitos indesejáveis Com base numa análise de todos os doentes a receberem Vectibix em monoterapia (N= 920), as reacções adversas mais frequentemente notificadas são reacções cutâneas que ocorrem em, aproximadamente,90% dos doentes. Estas reacções estão relacionadas com os efeitos farmacológicos de Vectibix, e a maioria são de natureza ligeira a moderada, com aproximadamente 10% grave (grau 3 ou superior, NCI-CTC).
+ Excepto quando indicado, os dados descrevem reacções adversas referidas em estudos clínicos com doentes com carcinoma colorectal metastático que receberam panitumumab como agente único:
+ Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ Sistema de órgãos segundo a base de dados MedDRA
+ Frequência Efeito indesejável Afecções dos tecidos cutâneos e subcutâneas
+ Muito frequentes (≥ 1/10)
+ Erupção cutânea Eritema Esfoliação da pele Prurido Pele seca Fissuras na pele Paroníquia
+ Doenças gastrointestinais Perturbações gerais e alterações no local de administração
+ Diarreia Fadiga Perturbações gerais e alterações no local de administração
+ Frequentes (≥ 1/100 a &lt; 1/10)
+ Reacções à perfusão (pirexia, arrepios) 5 Sistema de órgãos segundo a base de dados MedDRA
+ Frequência Efeito indesejável Doenças do metabolismo e da nutrição Hipomagnesemia Hipocalcemia Hipocalemia Desidratação
+ Doenças gastrointestinais Náuseas Vómitos Doenças respiratórias, torácicas e do mediastino Doenças do sistema nervoso Afecções oculares
+ Dispneia Tosse cefaleia Conjuntivite Crescimento das pestanas Aumento do lacrimejar Hiperemia ocular Olho seco Prurido nos olhos
+ Afecções dos tecidos cutâneos e subcutâneas
+ Estomatite Inflamação das mucosas Onicólise Hipertricose Alopecia Secura nasal Secura da boca
+ Vasculopatias Embolia pulmonar O perfil de segurança de panitumumab em doentes cujos tumores exprimem o KRAS do tipo selvagem (n= 123) foi consistente, na generalidade, com o conjunto global de mCRC em monoterapia descrito acima. As únicas diferenças foram que as náuseas, vómitos, dispneia e tosse foram notificadas como muito frequentes (≥ 1/10) no braço do KRAS do tipo selvagem, enquanto que estas reacções adversas ao fármaco foram notificadas como frequentes (≥ 1/100 to &lt; 1/10) na população global de mCRC em monoterapia.
+ Doenças gastrointestinais A diarreia quando descrita foi principalmente ligeira ou moderada em termos de gravidade. Dois por cento dos doentes com KRAS do tipo selvagem tiveram diarreia descrita como grave.
+ Perturbações gerais e alterações no local de administração
+ Em ensaios clínicos, foram notificadas potenciais reacções à perfusão (que ocorreram num período de 24 horas após a primeira dose) que podem incluir sinais/sintomas tais como arrepios, febre ou dispneia em 2% dos doentes tratados com Vectibix, das quais &lt; 1% foram graves (grau 3). Não houve doentes com reacções à perfusão de Vectibix que tivessem constituído perigo de morte (grau 4) ou que fossem fatais (grau 5). A maior parte dos sintomas das potenciais reacções à perfusão foram ligeiras em termos de intensidade, resolveram-se sem tratamento, foram ocorrências isoladas e não exigiram alteração ou interrupção da administração de Vectibix.
+ Afecções dos tecidos cutâneos e subcutâneas
+ A erupção cutânea ocorreu mais frequentemente na face, na parte superior do peito e no dorso, mas podia estender-se às extremidades. Foram notificadas complicações infecciosas incluindo sépsis, conduzindo à morte em casos raros, e abcessos locais que exigiram incisão e drenagem, após o desenvolvimento de reacções graves da pele e subcutâneas. O tempo médio que decorreu até ao primeiro sintoma de reacção dermatológica foi de 10 dias e o tempo médio até à resolução após a última dose de Vectibix foi de 28 dias.
+ 6 A inflamação ungueal esteve associada a edema das faces laterais da unha dos dedos das mãos e dos pés.
+ 4.9 Sobredosagem Foram testadas doses até 9 mg/kg em ensaios clínicos. Houve notificação de sobredosagens com doses até, aproximadamente, duas vezes a dose terapêutica recomendada. Os acontecimentos adversos observados incluíram toxicidade cutânea, diarreia, desidratação e fadiga e foram consistentes com o perfil de segurança na dose recomendada.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Agentes antineoplásicos, anticorpos monoclonais, código ATC: L01XC08
+ Mecanismo de acção Panitumumab é um anticorpo IgG2 monoclonal recombinante, totalmente humano, que se liga com uma elevada afinidade e especificidade ao EGFR humano. O EGFR é uma glicoproteína transmembranar que é membro de uma subfamília de receptores do tipo I das tirosina cinases incluindo o EGFR (HER1/c-ErbB-1), HER2, HER3, and HER4. O EGFR promove o crescimento celular nos tecidos epiteliais normais, incluindo a pele e o folículo piloso e exprime-se numa variedade de células tumorais.
+ Panitumumab liga-se ao domínio de ligação do ligando do EGFR e inibe a autofosforilação do receptor induzida por todos os ligandos conhecidos do EGFR. A ligação do panitumumab ao EGFR resulta numa internalização do receptor, inibição do crescimento celular, indução da apoptose e diminuição da produção de interleucina 8 e de factor de crescimento vascular endotelial.
+ O gene KRAS (homólogo do oncogene viral sarcoma 2 rat Kirsten) codifica uma pequena proteína de ligação ao GTP que está envolvida na transdução do sinal. Há uma variedade de estímulos, incluindo o do EGFR, que activam o KRAS, que por sua vez estimula outras proteínas intracelulares a promoverem a proliferação celular, a sobrevivência celular e a angiogénese.
+ As mutações de activação do gene KRAS ocorrem frequentemente numa variedade de tumores humanos e estas foram implicadas tanto na oncogénese como na progressão dos tumores.
+ Efeitos farmacodinâmicos Ensaios in vitro e estudos in vivo em animais demonstraram que panitumumab inibe o crescimento e a sobrevivência das células tumorais que exprimem EGFR. Não foram observados efeitos antitumorais de panitumumab em xenoenxertos tumorais humanos sem expressão de EGFR. A adição de panitumumab a radiação, quimioterapia e/ou a outros agentes terapêuticos alvo, em estudos em animais, resultou num aumento dos efeitos antitumorais em comparação com a radiação, quimioterapia ou agentes terapêuticos alvo isolados.
+ Imunogenicidade Avaliaram-se os dados sobre o desenvolvimento de anticorpos anti-panitumumab utilizando dois imunoensaios diferentes (um ELISA que detecta anticorpos de elevada afinidade e um imunoensaio biosensor que detecta anticorpos de elevada e baixa afinidade); os resultados destes ensaios indicaram que a incidência global de uma resposta do anticorpo anti-panitumumab após a dose foi baixa. Foram detectados anticorpos pré-dose em 5 de 636 doentes (&lt; 1%) e em 16/635 doentes (2,5%) testados por ELISA e imunoensaio biosensor, respectivamente. Foram detectados anticorpos neutralizantes pós-dose em 1 de 447 doentes (&lt; 0,2%) e em 7 de 447 doentes (1,6%) testados por ELISA e imunoensaio
+ 7 biosensor, respectivamente. Não se observou qualquer relação entre a presença de anticorpos anti-panitumumab e a farmacocinética, eficácia e segurança, em comparação com os doentes que não desenvolveram anticorpos.
+ A detecção de formação de anticorpos depende da sensibilidade e especificidade do ensaio. A incidência observada de positividade em relação ao anticorpo num ensaio pode ser influenciada por vários factores incluindo o manuseamento da amostra, medicação concomitante e doença subjacente, portanto, a comparação da incidência de anticorpos com outros produtos pode ser enganadora.
+ Eficácia clínica Estudou-se a eficácia de Vectibix em doentes com cancro colorectal metastático (mCRC) com progressão da doença, durante ou após quimioterapia anterior, num ensaio aleatorizado, controlado (463 doentes) e em ensaios abertos, com um único braço (384 doentes). A segurança de Vectibix em doentes com mCRC que receberam pelo menos uma dose de Vectibix foi avaliada em 920 doentes. Foram efectuados estudos adicionais com Vectibix como agente único em doentes com outros tumores sólidos e em combinação com quimioterapia, com e sem bevacizumab, em doentes com mCRC ou em combinação com quimioterapia em doentes com cancro do pulmão de não pequenas células.
+ Conduziu-se um ensaio multinacional, aleatorizado, controlado em 463 doentes com carcinoma do cólon ou recto metastático, com expressão de EGFR, após confirmação de falência de regimes contendo oxaliplatina e irinotecano. Os doentes foram aleatorizados 1: 1 de modo a receberem Vectibix numa dose de 6 mg/kg administrado uma vez de duas em duas semanas, mais os melhores cuidados de suporte (não incluindo quimioterapia) (BSC) ou BSC em monoterapia. Os doentes foram tratados até ocorrer progressão da doença ou toxicidade inaceitável. Aquando da progressão da doença, os doentes com BSC em monoterapia eram elegíveis para cruzamento para um estudo associado e receberem Vectibix numa dose de 6 mg/kg administrada uma vez de duas em duas semanas.
+ Dos 463 doentes,63% eram do sexo masculino. A idade média era de 62 anos (intervalo de 27 a 83) e 99% eram caucasianos. Trezentos e noventa e seis (86%) doentes apresentavam um índice de capacidade funcional ECOG de 0 ou 1, no início (baseline). Sessenta e sete porcento dos doentes tinham cancro do cólon e 33% tinham cancro rectal.
+ O objectivo final principal era a sobrevida sem progressão de doença (PFS-progression-free survival). Numa análise de ajuste para potenciais viés de uma avaliação não prevista, a taxa de progressão da doença ou morte, em doentes que receberam Vectibix, baixou 40% comparativamente aos doentes que receberam BSC[ Razão de Risco= 0,60, (95% IC 0,49; 0,74), log classif. estratificado p &lt; 0,001]. Não foi observada diferença na mediana da sobrevida sem progressão de doença mais do que 50% de doentes progressivos em ambos os grupos de tratamento e antes da primeira visita organizada. A relação da sobrevida sem progressão de doença na primeira visita organizada (semana 8) foi de 45,5% em Vectibix mais BSC e 24,6% em BSC em monoterapia, uma diferença de 20,9%[ 95% IC: 12,4; 29,4]. Não foi observada diferença na sobrevida global. Este facto pode ser devido a doentes que recebem panitumumab após progressão entre aqueles que foram aleatorizados para BSC. A resposta tumoral, de acordo com os critérios RECIST modificados, foi determinada por revisão central. Em termos globais, 9,5%[ 95% IC: 6,1; 14,1] de doentes com Vectibix mais BSC (Best supportive care), e 0%[ 95% IC: 0,0; 1,6] de doentes com BSC em monoterapia tiveram uma resposta objectiva confirmada (resposta parcial), com doença estável em 26% e 10% dos doentes, respectivamente. A taxa de resposta (avaliação pelo investigador) entre os 176 doentes que receberam o Vectibix, após a progressão com BSC em monoterapia, foi de 11,4% (95% IC: 7.1, 17.0).
+ 8 PFS – Todos os doentes
+ 100%
+ 90% Median Treatment Group Grupos de tratamento Acontecimentos/N (%) Mediana em semanas Events/N (%) in Weeks 80% Vectibix+ BSC 193/231 (84)
+ Proporção sem acontecimentos 193/231 (84) 8.0 8,0 Vectibix+BSC
+ BSC monoterapia 208/232 (90) 8.0 8,0 Proportion Event-Free 70% BSC Alone 208/232 (90) 60%
+ Hazardde Risco= 0,60 Razão ratio= 0.60 50% (CI 95%: 0, 49-0,74) (95% CI: 0.49, 0.74) Teste Log classif. estratificado P &lt; 0,0001 Stratified log-rank test p &lt; 0.0001 40%
+ 30%
+ 20%
+ 10%
+ 0% Subjects at risk: Participantes em risco: Vectibix+BSC
+ 2 4 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 42 44 46 48 50 52 Weeks Semanas
+ Vectibix+BSC BSC Monoterapia
+ 23 1 22 8 221 216 212 85 84 65 64 41 40 40 40 22 19 19 19 8 8 8 7 2 2 1 1 BSC Alone 2 32 230 225 2 20 2 16 39 39 20 20 11 10 7 7 4 4 4 4 3 2 2 2 1 1 1 1
+ Avaliações tumorais não previstas foram movidas para o próximo ponto no tempo previsto
+ A relação entre o estado da mutação KRAS determinado em tecido tumoral arquivado, embebido em parafina, e o resultado clínico foi avaliada numa análise retrospectiva.
+ Analisaram-se amostras de tumor obtidas a partir da resseção primária de cancro colorectal para pesquisar a presença das sete mutações de activação mais frequentes nos codões 12 e 13 (Gly12Asp, Gly12Ala, Gly12Val, Gly12Ser, Gly12Arg, Gly12Cys, e Gly13Asp) do gene KRAS utilizando uma reacção da polimerase em cadeia específica para um alelo. 427 (92%) doentes foram avaliados em termos de estado do KRAS, dos quais 184 apresentavam mutações. Numa análise de ajuste para potenciais viés de uma avaliação não prevista a razão de risco para PFS foi de 0,49 (95% IC: 0,37-0,65) a favor do panitumumab, no grupo do KRAS do tipo selvagem, e 1,07 (95% IC: 0, 77-1,48) no grupo de KRAS mutantes. A diferença na mediana da sobrevida sem progressão de doença no grupo KRAS tipo selvagem foi 8 semanas. A relação da sobrevida sem progressão de doença na primeira visita organizada (semana 8) no grupo KRAS tipo selvagem foi de 59,7% em Vectibix mais BSC e 21,0% em BSC em monoterapia, uma diferença de 38,7%[ 95% IC: 27,4; 50,0]. A diferença na mediana da sobrevida sem progressão de doença no grupo KRAS mutante foi 0 semanas. A relação da sobrevida sem progressão de doença na primeira visita organizada (semana 8) no grupo KRAS mutante foi de 21,4% em Vectibix mais BSC e 28,0% em BSC em monoterapia, uma diferença de-6,6%[ 95% IC:-19,0; 5,9]. Não foram observadas diferenças na sobrevida global em nenhum dos grupos. No grupo do KRAS do tipo selvagem a taxa de resposta foi de 17% para o panitumumab e 0% para o BSC. No grupo do KRAS mutante não houve resposta em qualquer um dos braços de tratamento. As taxas de doença estável no grupo do KRAS do tipo selvagem foram de 34% para o panitumumab e 12% para o BSC. As taxas de doença estável no grupo do KRAS mutante foram de 12% para o panitumumab e 8% para o BSC. A taxa de resposta (avaliação pelo investigador) nos doentes que cruzaram para o panitumumab, após progressão com o BSC em monoterapia, foi de 22% (95% IC: 14,0; 31,9) para os que apresentavam tumores KRAS do tipo selvagem e 0% (95% IC: 0,0; 4,3) para os que apresentavam tumores com KRAS mutante.
+ 9 PFS – Doentes com KRAS mutante e tipo selvagem
+ KRAS tipo selvagem Median Treatment Group 100% Grupos de tratamento Acontecimentos/N (%) Mediana em semanas Events/N (%) in Weeks Vectibix+ BSC 115/115/12493)
+ 90% Vectibix+BSC 124 ((93) 16.0 16,0 BSC monoterapia 114/ 114/11996) Porporção sem acontecimentos BSC Alone 119 ((96) 8.0
+ 8,0 80%
+ 70% Proportion Event-Free
+ 60%
+ Hazardde Risco= 0,49 Razão ratio= 0.60 50% (CI 95%: 0, 37-0,65) (95% CI: 0.49, 0.74) Teste Log classif. estratificado P &lt; 0,0001 Stratified log-rank test p &lt; 0.0001 40%
+ 30%
+ 20%
+ 10%
+ 0%
+ Doentes em risco: risk: Subjects at Vectibix+BSC
+ 2 4 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 42 44 46 48 50 52 Semanas Weeks
+ Vectibix+BSC 124 122 116 114 114 69 69 58 58 45 44 44 44 24 20 24 122 116 114 114 69 69 58 58 45 44 44 44 24
+ 20 20 20 124 122 116 114 114 69 69 58 58 45 44 44 44 24 20 20 20 13 13 13 12
+ 6 114 114 69 69 58 58 45 44 44 44 24 20 20 20 13 13 13 12 7 7 6 6
+ 4 BSC Monoterapia
+ BSC Alone 1 19 118 116 116 114 19 19 15 15 11 11 9 9 6 6 6 6
+ 11 9 118 11 6 116 114 19 19 1 5 15 11 11 9 9 6 6 6 6 5 4 3 3
+ 4 19 19 15 15 11 11 9 9 6 6 6 6 5 4
+ 3 3 2 2 2 2 1 Avaliações tumorais não previstas foram movidas para o próximo ponto no tempo previsto
+ KRAS Mutante Median Treatment Group 100% Grupos de tratamento Acontecimentos/N (%) Mediana em semanas Events/N (%) in Weeks
+ 90% Vectibix+ BSC Vectibix+BSC
+ 76/76/84 (90) 84 (90) 8.0 8,0 Proporção sem acontecimentos 80% BSC monoterapia 95 BSC Alone /95/100 (96) 100 (95)
+ 8.0 8,0 70% Proportion Event-Free
+ 60%
+ Razão de Risco= 1,07 50% (CI 95%: 0, 77-1,48) 40%
+ 30%
+ 20%
+ 10%
+ 0%
+ Subjects at risk: 2 4 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 42 44 46 48 50 52 Semanas Weeks
+ Doentes em risco:
+ Vectibix+BSC 84 84 82 81 77 10 9 6 6 5 5 5 5 4 4 4 4 84 8 2 8 1 77 10 9 6 6 5 5 5 5 4 4 4 4 2 2 2 2 2 2 1 1
+ 1 Vectibix+BSC
+ BSC BSC Alone Monoterapia
+ 100 99 9 7 91 90 22 22 10 10 8 7 5 5 4 4 4 4 4 4 4 4 3 2 2 2 2 Avaliações tumorais não previstas foram movidas para o próximo ponto no tempo previsto
+ O estudo PACCE: Neste ensaio clínico aleatorizado, aberto e controlado, foi administrada quimioterapia (oxaliplatina+ irinotecano) e bevacizumab com e sem panitumumab em tratamento de primeira linha de doentes com tumor metastático colorectal. O tratamento com panitumumab foi descontinuado devido a uma redução estatisticamente significativa da sobrevida livre de doença em doentes que receberam panitumumab observada numa análise interina. A Razão de risco da sobrevida livre de doença foi 1,44 (IC 95%: 1, 13; 1,85). A mediana da sobrevida livre de doença foi 8,8 (IC 95%: 8, 3; 9,5) e 10,5 (IC 95%: 9, 4; 12,0) meses nos braços com panitumumab e sem panitumumab,
+ 10 respectivamente. Houve um aumento da mortalidade no braço do Vectibix. A razão do risco para a sobrevida global foi 4,56 (IC 95%: 1, 11; 2,17). A mediana da sobrevida global foi 18,4 (IC 95%: 13,8 não estimada) no braço do panitumumab e não estimável para o braço sem panitumumab.
+ Este medicamento foi sujeito a uma “ autorização de introdução no mercado condicionada ”. Isto significa que se aguarda evidência adicional sobre este medicamento, em particular, é necessária informação para confirmar o efeito em doentes com tumores KRAS do tipo selvagem, que é actualmente suportada por uma análise retrospectiva. É também necessária evidência adicional relativamente ao efeito de panitumab em combinação com quimioterapia na sobrevida livre de doença em doentes com tumores KRAS do tipo selvagem. Estão a decorrer presentemente estudos que estão a investigar este efeito. A Agência Europeia de Medicamentos (EMEA) irá rever anualmente nova informação sobre o medicamento e este RCM será actualizado se necessário.
+ 5.2 Propriedades farmacocinéticas Vectibix administrado como agente único ou em combinação com quimioterapia exibe uma farmacocinética não linear.
+ Após a administração de uma dose única de panitumumab na forma de uma perfusão de 1 hora, a área sob a curva da concentração-tempo (AUC) aumentou de forma superior a um modo proporcional à dose e a depuração (CL) do panitumumab diminuiu de 30,6 para 4,6 ml/dia/kg à medida que a dose aumentou de 0,75 para 9 mg/kg. Contudo, com doses acima de 2 mg/kg, a AUC de panitumumab aumenta de uma forma aproximadamente proporcional à dose.
+ Após o regime posológico recomendado (6 mg/kg administrados uma vez de 2 em 2 semanas, na forma de uma perfusão de 1 hora), as concentrações de panitumumab atingiram níveis de estado estacionário à terceira perfusão com concentrações máximas (± DP) e mínimas de 213 ± 59 e 39 ± 14 mcg/ml, respectivamente. A AUC0-tau e CL médias (± DP) foram de 1306 ± 374 mcg• dia/ml e 4,9 ± 1,4 ml/kg/dia, respectivamente. A semivida de eliminação foi de aproximadamente 7,5 dias (intervalo: 3,6 a 10,9 dias).
+ Efectuou-se uma análise farmacocinética da população para explorar os efeitos potenciais de co-variantes seleccionadas na farmacocinética de panitumumab. Os resultados sugerem que a idade, género, tipo de tumor, etnia, função hepática, função renal, agentes quimioterapêuticos e expressão de EGFR nas células tumorais não tiveram um impacto aparente na farmacocinética de panitumumab.
+ Não foram conduzidos estudos clínicos sobre a farmacocinética de panitumumab em doentes com disfunção renal ou hepática. Não foram observadas diferenças relacionadas com a idade na farmacocinética de panitumumab em estudos clínicos em doentes com 26 a 85 anos de idade.
+ 5.3 Dados de segurança pré-clínica As reacções adversas observadas em animais sujeitos a níveis de exposição análogos aos níveis de exposição clínica e com eventual relevância para a utilização clínica foram as seguintes:
+ A erupção cutânea e a diarreia foram as principais reacções observadas em estudos de toxicidade de dose repetida até 26 semanas de duração em macacos cinomolgos. Estes resultados foram observados em doses aproximadamente equivalentes à dose de exposição recomendada para o ser humano e foram reversíveis ao terminar-se a administração de panitumumab. A erupção cutânea e a diarreia observados nos macacos foram consideradas relacionadas com a acção farmacológica de panitumumab e são consistentes com as toxicidades observadas com outros inibidores anti-EGFR.
+ Não foram efectuados estudos para avaliar o potencial mutagénico e carcinogénico de panitumumab.
+ Os estudos efectuados em animais são insuficientes no que diz respeito ao desenvolvimento embrio-fetal, já que os níveis de exposição do feto ao panitumumab não foram estudados. Panitumumab demonstrou causar abortos fetais e/ou mortes de fetos nos macacos cinomolgos quando administrado
+ 11 durante o período de organogénese com doses aproximadamente equivalentes à recomendada no ser humano.
+ Não foram conduzidos estudos formais de fertilidade masculina; contudo, a avaliação microscópica dos órgãos reprodutores masculinos de estudos de toxicidade dose-repetida em macacos cinomolgos, que receberam panitumumab até 26 semanas em doses até aproximadamente 5 vezes superiores à dose humana, numa base de mg/kg, não revelou quaisquer diferenças em comparação com macacos machos de controlo. Estudos de fertilidade conduzidos em macacos cinomolgos fêmeas demonstraram que panitumumab pode conduzir a ciclos menstruais prolongados e/ou amenorreia e reduzir a taxa de gravidez que ocorreu em todas as doses avaliadas.
+ Não foram conduzidos estudos de desenvolvimento pré-e pós-natal com panitumumab em animais. Todos os doentes devem ser advertidos no que diz respeito ao risco potencial de panitumumab no desenvolvimento pré-e pós-natal antes de se iniciar a terapêutica com Vectibix.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Cloreto de sódio Acetato de sódio trihidratado Ácido acético glacial (para ajuste de PH) Água para preparações injectáveis.
+ 6.2 Incompatibilidades Este medicamento não deve ser misturado com outros medicamentos, excepto os mencionados na secção 6.6.
+ 6.3 Prazo de validade 3 anos. Vectibix não contém nenhum conservante antimicrobiano ou agente bacteriostático. Deve ser utilizado imediatamente após a diluição. Caso não seja utilizado imediatamente, as condições e tempo de armazenamento antes da utilização são da responsabilidade do utilizador e não devem ultrapassar 24 horas a uma temperatura entre 2ºC e 8ºC.
+ 6.4 Precauções especiais de conservação
+ Conservar no frigorífico (2°C – 8°C). Não congelar. Conservar na embalagem de origem para proteger da luz.
+ Condições de conservação do medicamento diluído, ver secção 6.3.
+ 6.5 Natureza e conteúdo do recipiente Frasco para injectáveis (vidro do tipo I) de utilização única com rolha elastomérica, selo de alumínio e tampa destacável de plástico. Um frasco para injectáveis contém: 100 mg de panitumumab em 5 ml,200 mg de panitumumab em 10 ml, ou 400 mg de panitumumab em 20 ml de concentrado para solução para perfusão.
+ Embalagem de 1 frasco para injectáveis contendo 5 ml. Embalagem de 1 frasco para injectáveis contendo 10 ml. Embalagem de 1 frasco para injectáveis contendo 20 ml.
+ 12 É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ Vectibix deve ser diluído em cloreto de sódio a 0,9% para injectáveis pelo profissional de saúde, utilizando técnica asséptica. Não mexa nem agite vigorosamente o frasco para injectáveis. Retire a quantidade necessária de Vectibix para uma dose de 6 mg/kg. Dilua num volume total de 100 ml. A concentração final não deve exceder os 10 mg/ml. Doses superiores a 1000 mg devem ser diluídas em 150 ml de cloreto de sódio a 0,9% para injectáveis (ver secção 4.2). A solução diluída deve ser misturada por inversão suave, não agite.
+ Não foram observadas incompatibilidades entre Vectibix e o cloreto de sódio a 0,9% para injectáveis em sacos de cloreto de polivinil ou em sacos de poliolefina.
+ Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Amgen Europe B. V. Minervum 7061 NL-4817 ZK Breda Holanda
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/07/423/001 EU/1/07/423/002 EU/1/07/423/003
+ 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 3/12/2007 10. DATA DA REVISÃO DO TEXTO Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu/
+ 13 ANEXO II
+ A. FABRICANTE DA SUBSTÂNCIA ACTIVA DE ORIGEM BIOLÓGICA E TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ C. OBRIGAÇÕES ESPECÍFICAS A SEREM CUMPRIDAS PELO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 14 A FABRICANTE DA SUBSTÂNCIA ACTIVA DE ORIGEM BIOLÓGICA E TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do fabricante da substância activa de origem biológica
+ Amgen Inc. 6701 Kaiser Drive Fremont, CA 94555 Estados Unidos da América
+ Nome e endereço do fabricante responsável pela libertação do lote
+ Amgen Europe B. V. Minervum 7061 NL-4817 ZK Breda Holanda
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento de receita médica restrita, de utilização reservada a certos meios especializados (ver anexo I: Resumo das Características do Medicamento, secção 4.2).
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ Não aplicável. • OUTRAS CONDIÇÕES
+ Sistema de Farmacovigilância O titular da AIM deve assegurar que o sistema de farmacovigilância, tal como descrito na versão 3 apresentada no Módulo 1. 8.1 no pedido de Autorização de Introdução no Mercado, está implementado e em funcionamento antes e enquanto o produto estiver no mercado.
+ Plano de Gestão de Risco O titular de AIM compromete-se a efectuar os estudos e as actividades de farmacovigilância adicionais detalhadas no Plano de Farmacovigilância, tal como acordado na versão 3 do Plano de Gestão de Risco (PGR) apresentado no Módulo 1. 8.2 do pedido de Autorização de Introdução no Mercado, assim como todas as actualizações subsequentes do PGR acordadas pelo CHMP.
+ De acordo com a Norma Orientadora do CHMP sobre Sistemas de Gestão de Risco para medicamentos de uso humano, o PGR actualizado deve ser submetido ao mesmo tempo que o Relatório Periódico de Segurança (RPS) seguinte.
+ Adicionalmente, deve ser submetido um PGR actualizado • Quando for recebida nova informação que possa ter impacto nas actuais Especificações de Segurança, no Plano de Farmacovigilâncio ou nas actividades de minimização de risco • No período de 60 dias após ter sido atingido um objectivo importante (farmacovigilância ou minimização de risco) • A pedido da EMEA
+ 15 C. OBRIGAÇÕES ESPECÍFICAS A SEREM CUMPRIDAS PELO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ O Titular da Autorização de Introdução no Mercado deverá executar o programa de estudos abaixo referido dentro dos prazos indicados; os resultados desses estudos estarão na base da reavaliação anual da relação benefício/risco: • Assegurar a disponibilidade do teste kit KRAS até 30 Novembro 2007 • Disponibilizar um plano de análise estatística descrevendo a análise da subpopulação KRAS tipo selvagem para os ensaios clínicos 20050181 e 20050203. Esta análise requere aprovação do CHMP antes da implementação até Q1-2008 • Submeter o relatório clínico dos estudos 20030167 e 20030250, incluindo a análise de segurança-eficácia em relação ao KRAS até Q1-2008 • Submeter o relatório clínico do estudo PACCE (mesmo que interino), incluindo a análise de segurança-eficácia em relação ao KRAS até Q1-2008 • Submeter o resumo do relatório clínico do estudo 20050181 para confirmar a hipótese do KRAS tipo selvagem como biomarcador para selecção de doentes para tratamento até Q4-2008 • Disponibilizar informação sobre Qualidade de Vida do estudo 20050181 até Q4-2008 • Submeter o relatório clínico do estudo STEPP, incluindo a análise de segurança-eficácia em relação ao KRAS até Q1-2009 • Submeter o resumo dos relatórios clínicos dos estudos SPIRITT e PRECEPT, incluindo a análise de segurança-eficácia em relação ao KRAS até Q2-2009 • Submeter o resumo do relatório clínico do estudo 20050203 incluindo a análise de segurança-eficácia em relação ao KRAS até Q4-2009 • Disponibilizar informação adicional sobre a Qualidade de Vida do estudo 20050203 até Q4-2009 • Submeter o resumo do relatório clínico final do estudo 20050203, incluindo a análise de segurança-eficácia em relação ao KRAS até Q1-2010 • Disponibilizar informação adicional sobre a Qualidade de Vida do estudo 20050203 até Q1-2010 • Submeter o resumo do relatório clínico final do estudo 20050181, incluindo a análise de segurança-eficácia em relação ao KRAS até Q1-2010 • Submeter o resumo do relatório clínico final do estudo PACCE 20050181 incluindo, a análise de segurança-eficácia em relação ao KRAS até Q2-2011
+ 16 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 17 A. ROTULAGEM
+ 18 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ EMBALAGEM EXTERIOR 1. NOME DO MEDICAMENTO Vectibix 20 mg/ml concentrado para solução para perfusão Panitumumab
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada frasco para injectáveis contém 100 mg de panitumumab. Cada frasco para injectáveis contém 200 mg de panitumumab. Cada frasco para injectáveis contém 400 mg de panitumumab.
+ 3. LISTA DOS EXCIPIENTES Cloreto de sódio, acetato de sódio trihidratado, ácido acético glacial e água para preparações injectáveis
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 5 ml de concentrado para solução para perfusão. 10 ml de concentrado para solução para perfusão. 20 ml de concentrado para solução para perfusão.
+ x1
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via intravenosa. Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ Não agitar. 8. PRAZO DE VALIDADE EXP: 19 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico. Não congelar. Conservar na embalagem de origem para proteger da luz.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Amgen Europe B. V. Minervum 7061 NL-4817 ZK Breda Holanda
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/07/423/001 EU/1/07/423/002 EU/1/07/423/003
+ 13. NÚMERO DO LOTE Lote: 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Vectibix será administrado apenas por um profissional de saúde e não é necessário incluir a informação em Braille na embalagem (Orientação CE no que respeita às exigências de Braille na rotulagem e no folheto informativo[ Artigo 56a da Directiva 2001/83/CE alterada]).
+ 20 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ RÓTULO DO FRASCO PARA INJECTÁVEIS 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Vectibix 20 mg/ml concentrado estéril Panitumumab IV
+ 2. MODO DE ADMINISTRAÇÃO 3. PRAZO DE VALIDADE EXP: 4. NÚMERO DO LOTE Lot: 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 5 ml 10 ml 20 ml 6. OUTRAS Amgen Europe B. V. 21 B. FOLHETO INFORMATIVO
+ 22 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Vectibix 20 mg/ml concentrado para solução para perfusão panitumumab
+ Leia atentamente este folheto antes de utilizar este medicamento.
+ • Conserve este folheto. Pode ter necessidade de o reler. • Caso ainda tenha dúvidas, fale com o seu médico. • Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes prejudicial mesmo que apresentem os mesmos sintomas. • Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico.
+ Neste folheto: 1. O que é Vectibix e para que é utilizado 2. Antes de utilizar Vectibix 3. Como utilizar Vectibix 4. Efeitos secundários possíveis 5. Como conservar Vectibix 6. Outras informações
+ 1. O QUE É VECTIBIX E PARA QUE É UTILIZADO
+ Vectibix é utilizado para o tratamento do carcinoma metastático colorectal (cancro do intestino) após falência do tratamento com quimioterapia (medicamentos utilizados para tratar o cancro).
+ Vectibix é para uso em adultos com 18 anos de idade ou mais.
+ Vectibix contém a substância activa panitumumab, que pertence a um grupo de medicamentos chamados anticorpos monoclonais. Os anticorpos monoclonais são proteínas que reconhecem e ligam-se especificamente a outras proteínas específicas existentes no corpo.
+ Panitumumab reconhece e liga-se especificamente a uma proteína conhecida por receptor do factor de crescimento epidérmico (EGFR), que se encontra na superfície de algumas células cancerosas. Quando os factores de crescimento (outras proteínas do nosso organismo) se ligam ao EGFR, a célula cancerosa é estimulada a crescer e a dividir-se. Panitumumab liga-se ao EGFR e evita que as células cancerosas recebam as mensagens de que necessitam para crescer e dividirem-se.
+ 2. ANTES DE UTILIZAR VECTIBIX Não utilize Vectibix • se tem alergia (hipersensibildade) ao panitumumab ou a qualquer outro componente de Vectibix.
+ Tome especial cuidado com Vectibix Antes de iniciar o tratamento com Vectibix, informe o seu médico ou enfermeiro se:
+ • teve anteriormente ou tem evidências de pneumonite intersticial (edema pulmonar que provoca tosse e dificuldade em respirar) ou fibrose pulmonar (cicatrização e espessamento do tecido pulmonar acompanhado de dificuldade em respirar);
+ 23 Antes de iniciar o tratamento com Vectibix, o seu médico irá verificar os seus níveis sanguíneos no que respeita a várias substâncias tais como magnésio e outros electrólitos como o cálcio e o potássio. Se estes níveis estiverem demasiadamente baixos, o seu médico pode-lhe prescrever suplementos apropriados.
+ Durante o tratamento com Vectibix Pode ter toxicidades dermatológicas (reacções na pele), se estas se agravarem ou se se tornarem intoleráveis, informe o seu médico ou enfermeiro imediatamente.
+ Recomenda-se que limite a exposição ao sol enquanto estiver a receber Vectibix e se tiver reacções na pele, pois a luz solar pode agravá-las. Utilize protector solar e um chapéu, no caso de se expor ao sol.
+ O seu médico irá pedir-lhe para fazer análises para monitorizar a hipomagnesemia (níveis baixos de magnésio no sangue) e a hipocalcemia (níveis baixos de cálcio no sangue) periodicamente durante o seu tratamento e até 8 semanas depois de ter terminado o seu tratamento.
+ Ao utilizar Vectibix com outros medicamentos
+ Informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica.
+ Gravidez e aleitamento Vectibix não foi testado em mulheres grávidas. É importante informar o seu médico se está grávida, pensa que possa estar grávida ou planeia engravidar. Vectibix pode afectar a sua capacidade de manter a gravidez.
+ Se for uma mulher em idade fértil, deve utilizar métodos adequados de contracepção durante o tratamento com Vectibix e até 6 meses após a última dose.
+ Não amamente o seu bebé durante o tratamento com Vectibix e até 3 meses após a última dose.
+ Consulte o seu médico ou farmacêutico antes de tomar qualquer medicamento.
+ Condução de veículos e utilização de máquinas
+ Não foram efectuados estudos sobre os efeitos na capacidade de conduzir e utilizar máquinas. Deve falar com o seu médico antes de conduzir ou utilizar máquinas, pois alguns efeitos secundários podem afectar a sua capacidade para o fazer em segurança.
+ 3. COMO UTILIZAR VECTIBIX Vectibix será administrado numa unidade de cuidados de saúde sob a supervisão de um médico com experiência na utilização de medicamentos anti-cancerígenos.
+ Vectibix é administrado por via intravenosa (numa veia) com uma bomba de perfusão (um dispositivo que permite uma injecção lenta).
+ A dose recomendada para Vectibix é de 6 mg/kg (miligramas por quilograma de peso corporal) administrada uma vez de duas em duas semanas. O tratamento será geralmente administrado durante um período de aproximadamente 60 minutos.
+ 24 4. EFEITOS SECUNDÁRIOS POSSIVEIS
+ Como todos os medicamentos, Vectibix pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ Os efeitos secundários muito frequentes (observados em mais de 1 em 10 pessoas que tomam Vectibix) foram: • prurido (comichão); eritema (vermelhidão da pele); erupção cutânea; esfoliação da pele (escamação da pele); pele seca; fissuras na pele (rachas na pele); • paroníquia (infecção no leito da unha); • diarreia; • fadiga (cansaço extremo); • náuseas e vómitos; • tosse; dispneia (dificuldades em respirar).
+ Os efeitos secundários frequentes (observados em mais de 1, mas menos de 10 em 100 pessoas que tomam Vectibix) foram: • reacções relacionadas com a perfusão (que podem incluir sinais e sintomas tais como arrepios; e/ou pirexia (febre ou temperatura elevada); • hipomagnesemia (níveis baixos de magnésio no sangue); • hipocalcemia (níveis baixos de cálcio no sangue); • hipocalemia (níveis baixos de potássio no sangue); • desidratação; • dores de cabeça; • conjuntivite (inflamação dos olhos); crescimento das pestanas e aumento do lacrimejar (fluxo de lágrimas); hiperemia ocular (vermelhidão dos olhos); olhos secos; prurido nos olhos (comichão nos olhos); • embolia pulmonar (coágulo sanguíneo no pulmão); • estomatite (aftas e bolhas na boca); inflamação das mucosas (inflamação da boca); boca seca; • onicólise (unhas soltas); • hipertricose (crescimento piloso excessivo); alopecia (perda de cabelo); • secura nasal.
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico.
+ Informações importantes sobre alguns componentes de Vectibix
+ Este medicamento contém 0,150 mmol de sódio (o que corresponde a 3,45 mg de sódio) por ml de concentrado. Este facto deve ser tido em consideração nos doentes a fazerem uma dieta com baixo teor de sódio.
+ 5. COMO CONSERVAR VECTIBIX Vectibix deve ser conservado nas instalações de saúde onde é utilizado.
+ Manter fora do alcance e da vista das crianças.
+ Conservar no frigorífico (2ºC – 8ºC). Não congelar. Conservar na embalagem de origem para proteger da luz.
+ Não utilize Vectibix após o prazo de validade impresso no rótulo e embalagem exterior após EXP. O prazo de validade corresponde ao último dia do mês indicado.
+ 25 Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Vectibix A substância activa é panitumumab 20 mg/ml. Os outros componentes de Vectibix são cloreto de sódio, acetato de sódio trihidratado, ácido acético glacial e água para preparações injectáveis.
+ Qual o aspecto de Vectibix e conteúdo da embalagem
+ Vectibix é um líquido incolor que pode conter partículas visíveis e é fornecido num frasco para injectáveis. Cada embalagem contém um frasco para injectáveis de 5 ml,10 ml ou 20 ml de concentrado.
+ É possível que não sejam comercializadas todas as apresentações.
+ Titular da Autorização de Introdução no Mercado e Fabricante
+ Amgen Europe B. V. Minervum 7061 4817 ZK Breda Holanda
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado:
+ België/Belgique/Belgien s. a. Amgen n. v. Tel/Tél: +32 (0) 2 7752711
+ Luxembourg/Luxemburg s. a. Amgen Belgique/Belgien Tel/Tél: +32 (0) 2 7752711
+ България Б. Браун Медикал ООД Тел:+ 359(2) 8080711
+ Magyarország Amgen Kft. Tel.: +36 1 35 44 700
+ Česká republika Amgen s. r. o Tel: +420 2 21 773 500
+ Malta Amgen B. V. The Netherlands Tel: +31 (0) 76 5732500
+ Danmark Amgen filial af Amgen AB, Sverige Tlf: +45 39617500
+ Nederland Amgen B. V. Tel: +31 (0) 76 5732500
+ Norge Deutschland Amgen AB AMGEN GmbH Tel: +47 23308000 Tel: +49 (0) 89 1490960
+ Eesti Österreich Amgen Switzerland AG Eesti filiaal Tel:+ 372 5125 501
+ Amgen GmbH Tel: +43 (0) 1 50 217 26 Polska Ελλάδα Amgen Sp. z o. o. Genesis Pharma S. A. Tel.: +48 22 581 3000 Τηλ.: +30 210 344 7000
+ Portugal España AMGEN Biofarmacêutica, Lda. Amgen S. A. Tel: +351 21 4220550 Tel: +34 93 600 19 00
+ France Amgen S. A. S Tél: +33 (0) 1 40 88 27 00
+ Suomi/Finland Amgen AB, sivuliike Suomessa/Amgen AB, filial i Finland Puh/Tel: +358 (0) 9 54900500
+ Ireland Amgen Limited United Kingdom Tel: +44 (0) 1223 420305
+ Slovenská republika Amgen Switzerland AG, Slovakia Tel: +42 1 25939 6456
+ Ísland Vistor hf. Sími: +354 535 7000
+ România Mediplus Exim SRL Tel.: +4021 301 74 74
+ Italia Amgen Dompé S. p. A. Tel: +39 02 6241121
+ Slovenija AMGEN zdravila d. o. o. Tel: +386 1 585 1767
+ Sverige Kύπρος Amgen Ελλάς Φαρμακευτικά ΕΠΕ. Τηλ.: 30 210 3447000
+ Amgen AB Tel: +46 (0) 8 6951100 Latvija Amgen Switzerland AG Rīgas filiāle Tel:+ 371 29284 807
+ United Kingdom Amgen Limited Tel: +44 (0) 1223 420305
+ Lietuva Amgen Switzerland AG Vilniaus filialas Tel.+ 370 6983 6600
+ Este folheto foi aprovado pela última vez em
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA): http: //www. emea. europa. eu/
+ A este medicamento foi dada uma “ Autorização de Introdução no Mercado Condicionada ”. Isto significa que se aguarda mais informação sobre este medicamento. A Agência Europeia de Medicamentos (EMEA) irá rever anualmente nova informação sobre o medicamento e este folheto será actualizado se necessário.
+ ---------------------------------------------------------------------------------------------------------------------------
+ A informação que se segue destina-se apenas aos médicos e aos profissionais de saúde:
+ Vectibix deve ser diluído em cloreto de sódio a 0,9% para injectáveis pelo profissional de saúde, utilizando técnica asséptica. Não mexa nem agite vigorosamente o frasco para injectáveis. Retire a quantidade necessária de Vectibix para uma dose de 6 mg/kg. Dilua num volume total de 100 ml. Doses superiores a 1000 mg devem ser diluídas em 150 ml de cloreto de sódio a 0,9% para injectáveis.
+ 27 A concentração final não deve exceder os 10 mg/ml. A solução diluída deve ser misturada por inversão suave, não agite.
+ A linha de perfusão deve ser irrigada com uma solução de cloreto de sódio antes e após a administração de Vectibix para evitar misturar com outros medicamentos ou soluções IV.
+ Vectibix deve ser administrado na forma de uma perfusão intravenosa através de uma bomba de perfusão, utilizando um filtro em linha de 0,2 ou 0,22 micrometros, com baixa capacidade de ligação às proteínas, através de uma linha periférica ou cateter de permanência. O tempo de perfusão recomendado é de, aproximadamente,60 minutos. Doses superiores a 1000 mg devem ser perfundidas durante aproximadamente 90 minutos.
+ Não foram observadas incompatibilidades entre Vectibix e cloreto de sódio a 0,9% para injectáveis em sacos de cloreto de polivinil ou em sacos de poliolefina.
+ 28

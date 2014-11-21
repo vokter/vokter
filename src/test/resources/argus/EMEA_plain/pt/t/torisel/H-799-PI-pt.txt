@@ -1,0 +1,404 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. NOME DO MEDICAMENTO
+ TORISEL 25 mg/ml concentrado e solvente para solução para perfusão.
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ 1 frasco para injectáveis de TORISEL 25 mg/ml concentrado contém: 30 mg de temsirolímus dissolvidos num volume total de 1,2 ml. Assim,1 ml de TORISEL concentrado contém 25 mg de temsirolímus.
+ Após a diluição de TORISEL 25 mg/ml concentrado com 1,8 ml do solvente extraído, a concentração de temsirolímus é de 10 mg/ml.
+ Excipientes: 1 frasco para injectáveis de TORISEL 25 mg/ml concentrado contém 474 mg de etanol anidro. 1 frasco para injectáveis de solvente fornecido contém 358 mg de etanol anidro.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Concentrado e solvente para solução para perfusão.
+ O concentrado é uma solução límpida, incolor a amarelo-claro, essencialmente livre de partículas visíveis.
+ O solvente é uma solução límpida a ligeiramente turva, cor amarelo-claro a amarelo, essencialmente livre de partículas visíveis.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas TORISEL está indicado no tratamento de primeira linha de doentes com carcinoma das células renais avançado que apresentem pelo menos três de seis factores prognósticos de risco (ver secção 5.1).
+ 4.2 Posologia e modo de administração TORISEL deve ser administrado sob supervisão de um médico com experiência na utilização de medicamentos antineoplásicos.
+ O volume total (1,2 ml) de 1 frasco para injectáveis de TORISEL 25 mg/ml concentrado deve ser diluído com 1,8 ml do solvente extraído para obter uma concentração de temsirolímus de 10 mg/ml. Retire a quantidade requerida da mistura de temsirolímus a 10 mg/ml e, de seguida, injecte-a rapidamente em solução injectável de cloreto de sódio a 9 mg/ml (0,9%).
+ Instruções de preparação, ver secção 6.6.
+ A dose de temsirolímus recomendada para o carcinoma das células renais avançado, administrada por via intravenosa, é de 25 mg em perfusão durante 30 a 60 minutos, uma vez por semana (ver secção 6.6 para instruções de diluição, administração e eliminação).
+ Os doentes devem ser tratados com 25 a 50 mg de difenidramina intravenosa (ou um anti-histamínico similar) aproximadamente 30 minutos antes de iniciarem cada dose de temsirolímus. 2 O tratamento com TORISEL deve ser mantido enquanto se observar benefício clínico para o doente ou até ocorrer toxicidade inaceitável. Não é necessário um ajuste posológico em nenhuma das populações estudadas (género, doentes idosos).
+ A resolução de reacções adversas suspeitas pode requerer interrupção temporária da terapêutica com temsirolímus e/ou redução da dose. Se uma reacção suspeita não for resolvida com atrasos na administração da dose, então o temsirolímus pode ser reduzido com diminuições de 5 mg/semana.
+ Doentes pediátricos A experiência em doentes pediátricos é limitada. Não foi estabelecida a segurança e a efectividade em doentes pediátricos. Deste modo, não se recomenda a utilização de TORISEL na população pediátrica até que esteja disponível informação adicional relativa à efectividade e segurança.
+ Doentes idosos Não é necessário um ajuste posológico específico.
+ Compromisso renal Nos doentes com a função renal comprometida não é recomendado um ajuste posológico de temsirolímus. O temsirolímus deve ser utilizado com precaução em doentes com compromisso renal grave (ver secção 4.4).
+ Compromisso hepático O temsirolímus deve ser administrado com precaução em doentes com a função hepática comprometida. Não se recomenda a utilização de temsirolímus em doentes com compromisso hepático grave (ver secção 4.4).
+ 4.3 Contra-indicações Hipersensibilidade ao temsirolímus, aos seus metabolitos (incluindo sirolímus), ao polissorbato 80, ou a qualquer um dos excipientes de TORISEL.
+ 4.4 Advertências e precauções especiais de utilização
+ Pediatria Não se recomenda a utilização de temsirolímus em doentes pediátricos devido à insuficiência de dados sobre segurança.
+ Idosos Com base nos resultados de um estudo clínico de fase 3, os doentes idosos têm maior probabilidade de sofrer certas reacções adversas, incluindo edema e pneumonia.
+ Compromisso renal A eliminação de temsirolímus pelos rins é insignificante; não foram realizados estudos em doentes com compromisso renal variável (ver secções 4.2 e 5.2). TORISEL não foi estudado em doentes submetidos a hemodiálise.
+ Compromisso hepático O temsirolímus é eliminado predominantemente pelo fígado. Não existem dados disponíveis acerca da influência do compromisso hepático e/ou de metástases hepáticas na disponibilidade do temsirolímus (ver secção 4.2).
+ Hemorragia intracerebral Os doentes com tumores do sistema nervoso central (SNC) (tumores primários do SNC ou metástases) e/ou em tratamento com terapêutica anticoagulante poderão apresentar um risco aumentado de desenvolver hemorragia intracerebral (incluindo resultados fatais) durante a terapêutica com temsirolímus.
+ 3 Insuficiência renal Foi observada insuficiência renal (incluindo resultados fatais) em doentes em tratamento com TORISEL no cancro das células renais avançado e/ou com insuficiência renal pré-existente (ver secção 4.8).
+ Cataratas Foram observadas cataratas em alguns doentes tratados com a associação de temsirolímus e interferão-α.
+ Hipersensibilidade/Reacções à perfusão Têm sido associadas à administração de temsirolímus reacções de hipersensibilidade/reacções à perfusão (incluindo algumas com risco de vida e reacções fatais raras), incluindo mas não se limitando a rubor, dor no peito, dispneia, hipotensão, apneia, perda da consciência, hipersensibilidade e anafilaxia (ver secção 4.8). Estas reacções podem ocorrer muito precocemente na primeira perfusão, mas podem também ocorrer nas perfusões subsequentes. Os doentes devem ser monitorizados precocemente durante o decurso da perfusão e devem estar disponíveis os cuidados de suporte apropriados. A perfusão de temsirolímus deve ser interrompida em todos os doentes com reacções graves à perfusão e deve ser administrada a terapêutica médica apropriada. Deve ser feita uma avaliação do risco-benefício antes de continuar a terapêutica com temsirolímus em doentes com reacções graves ou que coloquem a vida em risco.
+ Se um doente desenvolver uma reacção de hipersensibilidade durante a perfusão com TORISEL, apesar da pré-medicação, a perfusão deverá ser interrompida e o doente observado durante pelo menos 30 a 60 minutos (dependendo da gravidade da reacção). Fica ao critério do médico retomar o tratamento após a administração de um antagonista do receptor H1 (difenidramina ou um anti-histamínico similar) e de um antagonista do receptor H2 (20 mg de famotidina intravenosa ou 50 mg de ranitidina intravenosa) aproximadamente 30 minutos antes de re-iniciar a perfusão com TORISEL. Deverá considerar-se a administração de corticosteróides; contudo, não foi estabelecida a eficácia do tratamento com corticosteróides nesta situação. A perfusão pode então ser retomada a uma velocidade mais lenta (até 60 minutos) e deve completar-se no período de seis horas a partir do momento em que TORISEL é inicialmente adicionado à solução injectável de cloreto de sódio a 9 mg/ml (0,9%).
+ Uma vez que se recomenda a administração de um anti-histamínico H1 aos doentes antes de iniciar a perfusão intravenosa com temsirolímus, o temsirolímus deve ser usado com precaução em doentes com hipersensibilidade conhecida a anti-histamínicos ou em doentes que não podem ser medicados com anti-histamínicos por outras razões médicas.
+ Reacções de hipersensibilidade, incluindo reacções anafilácticas/anafilactóides, angioedema, dermatite exfoliativa e vasculite alérgica foram associadas à administração oral de sirolímus.
+ Hiperglicemia/intolerância à glucose/diabetes mellitus Os doentes devem ser informados de que o tratamento com TORISEL pode estar associado a um aumento do nível de glucose no sangue em doentes diabéticos e não diabéticos. Num ensaio clínico,26% dos doentes apresentaram hiperglicemia como acontecimento adverso. Tal pode resultar na necessidade de um aumento da dose, ou o início de tratamento com insulina e/ou com um agente hipoglicemiante. Os doentes devem ser aconselhados a relatar sede excessiva ou qualquer aumento no volume ou frequência de micção.
+ Infecções Os doentes podem estar imunodeprimidos e devem ser cuidadosamente observados para se detectar a ocorrência de infecções, incluindo infecções oportunistas.
+ Doença pulmonar intersticial Registaram-se casos de pneumonite intersticial não-específica, incluindo notificações raras de casos fatais, que ocorreram em doentes em tratamento semanal com TORISEL intravenoso. Alguns doentes
+ 4 eram assintomáticos, tendo a pneumonite sido detectada por exame de tomografia computadorizada ou radiografia ao tórax. Outros apresentaram sintomas como dispneia, tosse e febre. Em alguns doentes foi necessário interromper o TORISEL ou iniciar tratamento com corticosteróides e/ou antibióticos, enquanto outros doentes continuaram o tratamento sem intervenção adicional. Os doentes devem ser monitorizados relativamente a sintomas clínicos respiratórios.
+ Hiperlipidemia A utilização de TORISEL nos doentes com carcinoma das células renais foi associada a um aumento de triglicéridos e colesterol séricos. Num ensaio clínico, a hiperlipidemia foi notificada como acontecimento adverso em 27% dos doentes. Pode ser necessário iniciar ou aumentar a dose de medicamentos antidislipidémicos. Antes e durante o tratamento com TORISEL devem ser determinados os níveis séricos de colesterol e triglicéridos.
+ Complicações na cicatrização de feridas A utilização de TORISEL tem sido associada a uma cicatrização anormal; consequentemente, é necessário precaução na utilização de TORISEL no período peri-cirúrgico.
+ Utilização concomitante de inibidores da enzima de conversão da angiotensina (ECA) Em alguns doentes que receberam concomitantemente temsirolímus e inibidores da ECA observaram-se reacções tipo edema angioneurótico (incluindo reacções tardias ocorrendo no período de dois meses após o início da terapêutica) (ver secção 4.5).
+ Agentes indutores do metabolismo CYP3A Agentes tais como a carbamazepina, fenobarbital, fenitoína, rifampicina, rifabutina, rifapentina, e Hipericão (Erva de S. João) são fortes indutores do CYP3A4/5, o que pode diminuir a exposição às partes activas, temsirolímus e seu metabolito, sirolímus. Assim, deve evitar-se a administração contínua para além de 5-7 dias de agentes com o potencial de indução do CYP3A4/5.
+ Agentes inibidores do metabolismo CYP3A Agentes tais como os inibidores da protease (indinavir, nelfinavir, ritonavir), antifúngicos (p. ex., itraconazol, cetoconazol, voriconazol), bloqueadores dos canais de cálcio (p. ex., diltiazem, verapamil), antibióticos macrólidos (p. ex., claritromicina, eritromicina), e cimetidina, sumo de toranja, aprepitant, fluvoxamina e nefazodona são fortes inibidores do CYP3A4 e podem aumentar as concentrações sanguíneas das partes activas, temsirolímus e seu metabolito, sirolímus. Assim, deve evitar-se o tratamento concomitante com agentes com elevado potencial de inibição do CYP3A4. O tratamento concomitante com agentes com moderado potencial de inibição do CYP3A4 deve ser feito com precaução (ver secção 4.5). Devem considerar-se tratamentos alternativos com agentes sem potencial de inibição do CYP3A4.
+ Vacinação Os imunossupressores podem afectar a resposta à vacinação. Durante o tratamento com TORISEL, a vacinação pode ser menos efectiva. A utilização de vacinas vivas deve ser evitada durante o tratamento com TORISEL. Exemplos de vacinas vivas são: sarampo, parotidite, rubéola, poliomielite oral, BCG, febre amarela, varicela e vacinas tifoides TY21a.
+ Excipientes Este medicamento (mistura concentrado-solvente) contém 35% de volume de etanol (álcool); i. e., até 693,5 mg por dose, equivalente a 17,6 ml de cerveja ou a 7,3 ml de vinho por dose.
+ Prejudicial para doentes que sofram de alcoolismo.
+ A ter em consideração em mulheres grávidas ou a amamentar, crianças e grupos de alto risco, tais como doentes com patologia hepática ou epilepsia.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Os estudos de interacção só foram realizados em adultos.
+ 5 Utilização concomitante de inibidores da enzima de conversão da angiotensina (ECA) Em alguns doentes que receberam concomitantemente temsirolímus e inibidores da ECA observaram-se reacções tipo edema angioneurótico (incluindo reacções tardias ocorrendo no período de dois meses após o início da terapêutica) (ver secção 4.4).
+ Agentes indutores do metabolismo CYP3A A administração concomitante de TORISEL com rifampicina, um potente indutor do CYP3A4/5, não teve efeito significativo na Cmáx (concentração máxima) do temsirolímus e AUC (área sob a curva concentração vs tempo) após administração intravenosa, mas diminuiu a Cmáx do sirolímus em 65% e a AUC em 56%, comparativamente com o tratamento com TORISEL em monoterapia. Por isso, deve evitar-se o tratamento concomitante com agentes com potencial de indução do CYP3A4/5 (ver secção 4.4).
+ Agentes inibidores do metabolismo CYP3A A administração concomitante de TORISEL 5 mg com cetoconazol, um potente inibidor do CYP3A4, não teve efeito significativo na Cmáx do temsirolímus ou AUC; no entanto, a AUC do sirolímus aumentou 3,1 vezes, e a AUCsoma (temsirolímus+ sirolímus) aumentou 2,3 vezes comparativamente ao TORISEL em monoterapia. O efeito nas concentrações de sirolímus não ligado não foi determinado, mas espera-se que seja maior do que o efeito nas concentrações no sangue total devido a uma saturação da ligação aos glóbulos vermelhos. O efeito pode também ser mais pronunciado numa dose de 25 mg. Substâncias que sejam inibidores potentes da actividade do CYP3A4 (p. ex., inibidores da protease, anti-fúngicos, antibióticos macrólidos, nefazodona, inibidores selectivos da recaptação da serotonina) aumentam as concentrações sanguíneas de sirolímus. Deve evitar-se o tratamento concomitante de TORISEL com agentes que tenham forte potencial inibidor do CYP3A4 (ver secção 4.4). O tratamento concomitante com inibidores moderados do CYP3A4 deve ser efectuado com precaução.
+ Interacção com medicamentos metabolizados pelo CYP2D6 Em 23 indivíduos saudáveis, a concentração de desipramina, um substrato do CYP2D6, não foi afectada com a co-administração de 25 mg de temsirolímus. Não são esperados efeitos clinicamente relevantes quando TORISEL é administrado concomitantemente com agentes metabolizados pelo CYP2D6.
+ Interacções com fármacos que são substratos da glicoproteína-P Num estudo in vitro, o temsirolímus inibiu o transporte dos substratos da glicoproteína-P com um valor de IC50 de 2 μM. Desconhece-se a relevância clínica destes resultados.
+ Agentes anfifílicos O temsirolímus tem sido associado a fosfolipidose nos ratos. A fosfolipidose não tem sido observada nos ratinhos e macacos tratados com temsirolímus, nem foi documentada nos doentes tratados com esta substância. Embora a fosfolipidose não se tenha revelado um risco para os doentes tratados com temsirolímus, é possível que a administração concomitante do temsirolímus com outros agentes anfifílicos, como a amiodarona ou estatinas, possa resultar num aumento do risco de toxicidade pulmonar anfifílica.
+ 4.6 Gravidez e aleitamento Não existem dados suficientes sobre a utilização de temsirolímus em mulheres grávidas. Os estudos em animais revelaram toxicidade reprodutiva. Em estudos de reprodução em animais, o temsirolímus causou embrio/fetotoxicidade que se manifestou pela mortalidade e redução do peso do feto (associado a atrasos na ossificação do esqueleto) em ratos e coelhos. Foram observados efeitos teratogénicos (onfalocelo) em coelhos. Em ratos machos, foram relatadas diminuição da fertilidade e reduções parcialmente reversíveis na contagem de espermatozóides (ver secção 5.3).
+ Desconhece-se o risco potencial para o ser humano. O TORISEL não pode ser utilizado durante a gravidez, a não ser que o risco para o embrião seja justificado pelo benefício esperado para a mãe.
+ 6 Devido ao risco desconhecido associado a uma possível exposição durante a fase inicial da gravidez, mulheres em risco de engravidar têm de ser aconselhadas a evitar uma gravidez enquanto estiverem a ser tratadas com TORISEL.
+ Os homens com companheiras em risco de engravidar devem utilizar contracepção adequada durante o tratamento com TORISEL (ver secção 5.3).
+ Desconhece-se se o temsirolímus é excretado no leite materno humano. A excreção do temsirolímus no leite não foi estudada em animais. No entanto, o sirolímus, o principal metabolito do temsirolímus, é excretado no leite de ratos a amamentar. Dado o potencial de reacções adversas do temsirolímus em lactentes amamentados, durante o tratamento deve suspender-se a amamentação.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas.
+ 4.8 Efeitos indesejáveis Um total de 626 doentes foram distribuídos aleatoriamente num ensaio aberto, aleatorizado, de fase 3, de três braços, Interferão-α (IFN-α) agente único, TORISEL agente único e com TORISEL e IFN-α. Receberam tratamento um total de 616 doentes: 200 doentes foram tratados semanalmente com IFN-α; 208 foram tratados semanalmente com TORISEL 25 mg; e 208 doentes foram tratados semanalmente com a associação IFN-α e TORISEL. Baseado nos resultados do ensaio de fase 3, os doentes idosos podem ser mais susceptíveis a determinadas reacções adversas incluindo edema da face e pneumonia.
+ As reacções mais graves observadas com TORISEL são reacções de hipersensibilidade/reacções à perfusão (incluindo algumas com risco de vida e reacções fatais raras), hiperglicemia/intolerância à glucose, infecções, doença pulmonar intersticial, hiperlipidemia, hemorragia intracerebral, insuficiência renal, perfuração intestinal e complicações da cicatrização de feridas.
+ As reacções adversas (todos os graus) mais frequentes (≥ 30%) observadas com TORISEL incluem anemia, náuseas, erupção cutânea (incluindo erupção cutânea, erupção cutânea prurítica, erupção cutânea maculopapular, erupção cutânea pustular) anorexia, edema (incluindo edema facial e edema periférico) e astenia.
+ Foram observadas cataratas em alguns doentes tratados com a associação de temsirolímus e interferão-α.
+ Ver secção 4.4 para informação adicional relativamente a reacções adversas graves, incluindo acções adequadas a serem tomadas se reacções específicas ocorrerem.
+ A tabela seguinte contém as reacções adversas observadas durante o ensaio clínico (Estudo 1). Foram apenas enumerados os acontecimentos para os quais há uma suspeição razoável de uma relação causal com o tratamento intravenoso com TORISEL.
+ Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ As reacções adversas são enumeradas de acordo com as seguintes categorias: Muito frequentes: ≥ 1/10 Frequentes: ≥ 1/100 a &lt; 1/10 Pouco frequentes: ≥ 1/1.000 a &lt; 1/100
+ 7 Reacções adversas no ensaio clínico 1
+ Todos os Grau Classes de Frequência Reacções Adversas Graus 3 &amp; 4 Sistemas de Órgãos
+ n (%)
+ n (%)
+ Exames Muito frequentes Aumento da creatinina no sangue 30 (14) 6 (3) complementares de diagnóstico
+ Frequentes Aspartato aminotransferase aumentada
+ 17 (8) 3 (1) Doenças do Frequentes Muito frequentes Alanina aminotransferase aumentada Trombocitopenia
+ 12 (6) 28 (14) 1 (1) 3 (1) sangue e sistema linfático Doenças do
+ Muito frequentes Frequentes Frequentes Frequentes Muito frequentes
+ Anemia Neutropenia Leucopenia Linfopenia Disgeusia
+ 94 (45) 15 (7) 13 (6) 11 (5) 31 (15)
+ 41 (20) 6 (3) 1 (1) 9 (4) 0 (0) sistema nervoso Afecções Oculares
+ Frequentes Pouco frequentes Frequentes
+ Ageusia Hemorragia intracerebral Conjuntivite (incluindo alterações lacrimais)
+ 11 (5) 1 (1) 15 (7) 0 (0) 1 (1) 1 (1) Cardiopatias Pouco frequentes Derrame pericárdico (incluindo derrames pericárdicos hemodinamicamente significativos requerendo intervenção)
+ 2 (1) 1 (1) Doenças Muito frequentes Dispneia 58 (28) 18 (9) respiratórias, torácicas e do mediastino
+ Muito frequentes Muito frequentes Frequentes
+ Epistaxis Tosse Pneumonite (incluindo pneumonite fatal) (ver secção 4.4)
+ 25 (12) 54 (26) 4 (2) 0 (0) 2 (1) 1 (1) Doenças Frequentes Muito frequentes Derrame pleural Dor abdominal
+ 8 (4) 44 (21) 5 (2) 9 (4) gastrointestinais Doenças renais e urinárias
+ Muito frequentes Muito frequentes Muito frequentes Muito frequentes Frequentes Frequentes Frequentes Frequentes Pouco frequentes Frequentes
+ Vómitos Estomatite Diarreia Náuseas Distensão abdominal Dor oral Gengivite Estomatite aftosa Perfuração intestinal Insuficiência renal (incluindo resultados fatais) (ver secção 4.4)
+ 40 (19) 42 (20) 57 (27) 77 (37) 9 (4) 5 (2) 5 (2) 8 (4) 1 (0,5) 4 (2)
+ 4 (2) 3 (1) 3 (1) 5 (2) 1 (1) 0 (0) 0 (0) 1 (0) 1 (0,5) 2 (1)
+ Afecções dos tecidos cutâneos e subcutâneos
+ Muito frequentes Erupção cutânea (incluindo erupção cutânea, erupção cutânea prurítica, erupção cutânea maculopapular, erupção cutânea pustular)
+ 88 (42) 10 (5) Afecções Muito frequentes Muito frequentes Muito frequentes Muito frequentes Frequentes Muito frequentes
+ Prurido Acne Alterações das unhas Pele seca Dermatite exfoliativa Dor nas costas
+ 40 (19) 21 (10) 28 (14) 22 (11) 16 (8) 41 (20)
+ 1 (1) 0 (0) 0 (0) 1 (1) 0 (0) 6 (3) musculosquelética s e dos tecidos conjuntivos
+ Muito frequentes Artralgias 37 (18) 2 (1) Doenças do Muito frequentes Hipocaliemia 20 (10) 7 (3) 8 Reacções adversas no ensaio clínico 1
+ Todos os Grau Classes de Frequência Reacções Adversas Graus 3 &amp; 4 Sistemas de Órgãos
+ n (%)
+ n (%)
+ metabolismo e da
+ Muito frequentes Hiperglicemia/diabetes mellitus* 53 (26) 22 (11) nutrição Infecções e infestações
+ Muito frequentes Muito frequentes Muito frequentes Frequentes Muito frequentes
+ Hipercolesterolemia Hiperlipidemia Anorexia Hipofosfatemia Infecções bacteriana e viral (incluindo infecção, celulite, herpes zoster, herpes simplex, bronquite, abcesso)
+ 51 (24) 57 (27) 66 (32) 17 (8) 42 (20)
+ 1 (1) 8 (4) 6 (3) 11 (5) 6 (3) Muito frequentes Infecção do tracto urinário (incluindo disúria, hematúria, cistite, alteração da frequência urinária, infecção do tracto urinário)
+ 31 (15) 4 (2) Muito frequentes Muito frequentes Frequentes Frequentes
+ Faringite Rinite Pneumonia Infecção do tracto respiratório superior
+ 25 (12) 20 (10) 17 (8) 14 (7) 0 (0) 0 (0) 5 (2) 0 (0) Vasculopatias Frequentes Frequentes Foliculite Tromboembolismo venoso (incluindo trombose venosa profunda, embolia pulmonar)
+ 4 (2) 5 (2) 0 (0) 3 (1) Perturbações Frequentes Frequentes Muito frequentes
+ Hipertensão Tromboflebite Mucosite
+ 14 (7) 2 (1) 39 (19) 3 (1) 0 (0) 2 (1) gerais e alterações no local de administração
+ Muito frequentes Muito frequentes Muito frequentes
+ Dor Dor no peito Edema (incluindo edema, edema facial, edema periférico)
+ 59 (28) 34 (16) 72 (35) 11 (5) 2 (1) 7 (3) Doenças do sistema imunitário Muito frequentes Muito frequentes Frequentes Frequentes
+ Pirexia Astenia Cicatrização de feridas diminuída Reacções alérgicas/hipersensibilidade
+ 51 (24) 106 (51) 3 (1) 18 (9) 1 (1) 23 (11) 0 (0) 0 (0) * Os doentes devem ser avisados de que o tratamento com TORISEL pode estar associado com o aumento do níveis de glicose sanguínea em doentes diabéticos e não diabéticos.
+ 4.9 Sobredosagem Não existe tratamento específico para sobredosagem com TORISEL intravenoso. O TORISEL tem sido administrado de modo seguro a doentes com cancro renal, em doses intravenosas repetidas de temsirolímus até 220 mg/m2.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Inibidores da Proteína Quinase, código ATC: L01X E09
+ O temsirolímus é um inibidor selectivo do mTOR (alvo da rapamicina do mamífero). O temsirolímus liga-se a uma proteína intracelular (FKBP-12) e o complexo proteína-temsirolímus liga-se e inibe a
+ 9 actividade do mTOR que controla a divisão celular. A inibição da actividade do mTOR resulta numa suspensão da fase G1 do crescimento das células tumorais tratadas, devido a uma disrupção selectiva da tradução de proteínas reguladoras do ciclo celular, tais como, ciclinas tipo D, c-myc e ornitina descarboxilase. O temsirolímus exerce o seu efeito ligando-se num complexo com FKBP-12 e mTOR. Quando o mTOR se liga a este complexo, a sua capacidade de fosforilar e, por conseguinte, de controlar a actividade dos factores de tradução das proteínas (4E-BP1 e S6K, ambas a jusante do mTOR na via P13 quinase/AKT) que controlam a divisão celular, é bloqueada.
+ Além de regular o ciclo celular das proteínas, o mTOR pode regular a tradução dos factores induzidos pela hipóxia, HIF-1 e HIF-2 alfa. Estes factores de transcrição regulam a capacidade do tumor se adaptar a microambientes de hipóxia e de produzir o factor de crescimento vascular endotelial angiogénico (VEGF). Assim, o efeito anti-tumoral do temsirolímus, pode também, em parte, derivar da sua capacidade de diminuir os níveis de HIF e VEGF no tumor ou no microambiente do tumor, comprometendo o desenvolvimento de vasos.
+ Eficácia clínica A segurança e a eficácia do TORISEL no tratamento do carcinoma das células renais avançado (CCR) foram avaliadas nos 2 estudos clínicos, aleatorizados, seguintes:
+ Estudo 1 O Estudo 1 foi um estudo aberto de fase 3, multicêntrico, aleatorizado, com 3 braços, em doentes com carcinoma de células renais avançado não tratados previamente e com 3 ou mais de 6 factores de prognóstico de risco pré-seleccionados (menos de um ano entre a data inicial de diagnóstico de CCR e a aleatorização, grau de actividade de Karnofsky de 60 ou 70, hemoglobina menor que o limite inferior normal, cálcio corrigido superior a 10 mg/dl, lactato desidrogenase 1,5 vezes acima do limite superior normal, mais de um órgão metastizado). O estudo teve como objectivo primário a sobrevida global (OS). Os objectivos secundários incluíram a sobrevida livre de progressão (PFS), a taxa de resposta objectiva (ORR), taxa de benefício clínico, o tempo até falência do tratamento (TTF), e parâmetros da sobrevida ajustada pela qualidade. Os doentes foram estratificados de acordo com o seu estado prévio à nefrectomia dentro de três regiões geográficas e distribuídos aleatoriamente(1: 1: 1) para serem tratados com IFN-α em monoterapia (n= 207), ou com TORISEL em monoterapia (25 mg, semanalmente; n= 209), ou com a associação de IFN-α e TORISEL (n= 210). No Estudo 1, TORISEL 25 mg foi associado a uma vantagem estatisticamente significativa comparativamente ao IFN-α em relação ao objectivo primário de sobrevida global na 2ª análise intermédia pré-especificada (n= 446 eventos, p= 0,0078). O braço correspondente a TORISEL em monoterapia demonstrou um aumento de 49% na mediana de OS comparativamente ao braço correspondente ao IFN-α. TORISEL também foi associado a vantagens estatisticamente significativas sobre o IFN-α nos objectivos secundários de PFS, TTF e taxa de benefício clínico.
+ A associação de 15 mg de TORISEL e IFN-α não resultou num aumento significativo da sobrevida global quando comparada com o IFN-α em monoterapia quer na análise intermédia (mediana 8,4 vs. 7,3 meses, taxa de risco= 0,96, p=0,6965), quer na análise final (mediana 8,4 vs. 7,3 meses, taxa de risco =0,93, p= 0,4902). O tratamento com a associação TORISEL e IFN-α resultou num aumento estatisticamente significativo da incidência de determinados acontecimentos adversos de grau 3-4 (perda de peso, anemia, neutropenia, trombocitopenia e inflamação das mucosas) quando comparado com os acontecimentos adversos observados nos braços do estudo relativos a IFN-α ou TORISEL em monoterapia.
+ 10 Resumo dos resultados de eficácia de TORISEL no Ensaio 1 Valor de Pa
+ Parâmetro TORISEL IFN-α Taxa de Risco (IC 95%) b n= 209
+ n= 207
+ Análise intermédia pré-especificada Mediana da Sobrevida Global Meses (IC 95%) Análise final
+ 10,9 (8,6-12,7) 7,3 (6,1-8,8) 0,0078 0,73 (0,58-0,92) Mediana da sobrevida global Meses (IC 95%) Mediana da Avaliação Independente da
+ 10,9 (8,6-12,7) 7,3 (6,1-8,8) 0,0252 0,78 (0,63-0,97) Sobrevida Livre de Progressão Meses (IC 95%) Mediana da Avaliação pelo Investigador da
+ 5,6 (3,9-7,2) 3,2 (2,2-4,0) 0,0042 0,74 (0,60-0,91) Sobrevida Livre de Progressão Meses (IC 95%) Avaliação independente da taxa
+ 3,8 (3,6-5,2) 1,9 (1,9-2,2) 0,0028 0, 1361c 0,74 (0,60-0,90) de Resposta Global% (IC 95%)
+ 9,1 (5,2-13,0) 5,3 (2,3-8,4) NA IC= intervalo confiança; NA= não aplicável. a. Baseado no teste log-rank estratificado por nefrectomia prévia e região b. Baseado no Modelo de Risco Proporcional de Cox estratificado por nefrectomia prévia e região. c. Baseado no Teste de Cochran-Mantel-Haenszel estratificado por nefrectomia prévia e região.
+ No estudo clínico 1,31% dos doentes tratados com TORISEL tinham idade igual ou superior a 65 anos. Nos doentes com menos de 65 anos, a mediana da sobrevida global foi de 12 meses (IC 95% 9, 9-14,2) com uma taxa de risco de 0,67 (IC 95% 0, 52-0,87) comparativamente aos doentes tratados com IFN-α. Nos doentes com 65 ou mais anos de idade a mediana da sobrevida global foi de 8,6 meses (IC 95% 6, 4-11,5) com uma taxa de risco de 1,15 (IC 95% 0, 78-1,68), comparativamente aos doentes tratados com IFN-α.
+ Estudo 2 O estudo 2 foi um estudo multicêntrico, aleatorizado, duplamente cego, em doentes em ambulatório para avaliar a eficácia, segurança e farmacocinética de três níveis de dose de TORISEL, quando administradas a doentes com CCR avançado, previamente tratados. O objectivo de eficácia primário foi a ORR, e a OS também foi avaliada. Cento e onze doentes (111) foram distribuídos aleatoriamente numa proporção de 1: 1: 1 para serem tratados com 25 mg,75 mg, ou 250 mg de temsirolímus intravenoso semanalmente. No braço dos 25 mg (n= 36), todos os doentes tinham doença metastática; 4 (11%) não tinham sido sujeitos previamente a quimio-ou imunoterapia; 17 (47%) tinham um tratamento anterior e 15 (42%) tinham 2 ou mais tratamentos anteriores para CCR. Vinte e sete (27,75%) tinham sido submetidos a uma nefrectomia. Vinte e quatro (24,67%) tinham um grau de actividade (PS) do Eastern Cooperative Oncology Group (ECOG)= 1 e 12 (33%) um PS ECOG= 0.
+ 11 Nos doentes tratados semanalmente com 25 mg de temsirolímus, a OS foi de 13,8 meses (IC 95%: 9,0
+ -18,7 meses); a ORR foi de 5,6% (IC 95%: 0,7-18,7%).
+ 5.2 Propriedades farmacocinéticas Absorção Após a administração de uma dose única intravenosa de 25 mg de temsirolímus em doentes com cancro, a Cmax média no sangue total foi 585 ng/ml (coeficiente de variação, CV= 14%) e a AUC média no sangue foi de 1627 ng• h/ml (CV= 26%).
+ Distribuição O temsirolímus apresenta um declive poliexponencial nas concentrações de sangue total, sendo a distribuição atribuída à ligação preferencial à FKBP-12 nas células sanguíneas. A média (desvio padrão, DP) da constante de dissociação (kd) da ligação foi de 5,1 (3,0) ng/ml, denotando a concentração na qual 50% dos locais de ligação das células do sangue foram ocupados. A distribuição do temsirolímus é dose-dependente com uma média (percentis 10o, 90o) de ligação específica máxima das células do sangue de 1,4 mg (0,47 a 2,5 mg). Após a dose única de 25 mg de temsirolímus intravenoso, o volume de distribuição médio no estado estacionário no sangue total dos doentes com cancro foi de 172 litros.
+ Metabolismo O sirolímus, um metabolito do temsirolímus igualmente potente, foi observado como sendo o principal metabolito nos seres humanos, após tratamento intravenoso. Durante os estudos in vitro do metabolismo do temsirolímus foram observados, sirolímus, seco-temsirolímus e seco-sirolímus; as vias metabólicas adicionais foram a hidroxilação, redução e desmetilação. Após a dose intravenosa única de 25 mg em doentes com cancro, a AUC do sirolímus foi 2,7 vezes a AUC do temsirolímus, devido principalmente à mais prolongada semi-vida do sirolímus.
+ Eliminação Após uma dose intravenosa única de 25 mg de temsirolímus, a média ± DP da depuração sistémica do temsirolímus foi de 11,4 ± 2,4 l/h. A semi-vida média do temsirolímus e sirolímus foi de 17, 7h e 73, 3h, respectivamente. Após a administração de temsirolímus[ 14C], a excreção foi predominantemente por via fecal (78%), tendo a eliminação renal da substância activa e metabolitos sido estimada em 4,6% da dose administrada.
+ O temsirolímus e sirolímus demonstraram ser substratos da glicoproteína-P (gp-P) in vitro. Não foram investigados os possíveis efeitos da inibição da gp-P na eliminação do temsirolímus e sirolímus in vivo.
+ Populações Especiais Compromisso hepático A farmacocinética do temsirolímus e sirolímus não foi investigada em doentes com compromisso hepático (ver secção 4.2 e 4.4).
+ Género, peso, raça, idade A farmacocinética do temsirolímus e sirolímus não é afectada de modo significativo pelo género ou peso corporal. Não se verificou nenhuma diferença relevante na exposição quando se compararam os dados da população caucasiana com os da população asiática ou negra.
+ Estão disponíveis dados de farmacocinética do temsirolímus e sirolímus em doentes até aos 79 anos de idade. A idade parece não afectar significativamente a farmacocinética do temsirolímus e sirolímus.
+ População pediátrica A farmacocinética do temsirolímus e sirolímus não foi investigada na população pediátrica.
+ 5.3 Dados de segurança pré-clínica 12 As reacções adversas seguintes não foram observadas nos ensaios clínicos, mas sim em animais com níveis de exposição idênticos ou até inferiores aos níveis de exposição clínicos e podem ter relevância clínica: vacuolização da células dos ilhéus pancreáticos (rato), degeneração testicular tubular (ratinho, rato e macaco), atrofia linfóide (ratinho, rato e macaco), inflamação celular mista do cólon/cego (macaco) e fosfolipidose pulmonar (rato).
+ Foi observada, em macacos, diarreia com inflamação celular mista do cego ou cólon tendo esta sido associada a resposta inflamatória, a qual poderá dever-se a um distúrbio da flora intestinal normal.
+ Respostas inflamatórias gerais, indicadas pelo aumento de fibrinogénio e neutrófilos, e/ou alterações das proteínas plasmáticas, foram observadas em ratinhos, ratos e macacos, embora nalguns casos, estas alterações clínicas da patologia sejam atribuídas à inflamação intestinal ou da pele, tal como referido acima. Para alguns animais, não houve observações clínicas específicas ou alterações histológicas que sugiram inflamação.
+ O temsirolímus não demonstrou ser genotóxico numa série de ensaios in vitro (mutação reversa bacteriana em Salmonella typhimurium e Escherichia coli, mutação para diante das células de linfoma no rato e aberrações cromossómicas das células do ovário no hamster chinês) e in vivo (micronúcleo no rato).
+ Não foram efectuados estudos de carcinogenicidade com temsirolímus; no entanto, o sirolímus, o principal metabolito do temsirolímus no ser humano, demonstrou ser carcinogénico em ratinhos e ratos. Nos estudos de carcinogenicidade efectuados em ratinhos e/ou ratos, foram relatados os seguintes efeitos: leucemia granulocítica, linfoma, adenoma e carcinoma hepatocelular e adenoma testicular.
+ Foram observadas reduções do peso testicular e/ou lesões histológicas (p. ex. atrofia tubular e células tubulares gigantes) em ratinhos, ratos e macacos. Em ratos, estas alterações foram acompanhadas por uma diminuição do peso de órgãos sexuais secundários (epidídimo, próstata, vesícula seminal). Em estudos de toxicidade reprodutiva em animais, foram relatadas diminuição da fertilidade e reduções parcialmente reversíveis na contagem de espermatozóides, em ratos. A exposição em animais foi menor que a observada em seres humanos aos quais foram administradas doses clinicamente relevantes de temsirolímus.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1. Lista dos excipientes Concentrado: Etanol anidro DL-Alfa-Tocoferol (E 307) Propilenoglicol Ácido cítrico anidro (E 330)
+ Solvente: Polissorbato 80 (E-433) Macrogol 400 Etanol anidro
+ 6.2 Incompatibilidades Este medicamento não deve ser misturado com outros medicamentos, excepto os mencionados no secção 6.6.
+ 13 TORISEL 25 mg/ml concentrado para solução para perfusão não pode ser adicionado directamente a soluções aquosas para perfusão. A adição directa de TORISEL 25 mg/ml concentrado a soluções aquosas resultará na precipitação do medicamento.
+ Diluir sempre o TORISEL 25 mg/ml concentrado para solução para perfusão com o solvente fornecido antes de adicionar às soluções para perfusão. O TORISEL só pode ser administrado em solução para injectáveis de cloreto de sódio 9 mg/ml (0,9%), após a diluição inicial de TORISEL 25 mg/ml concentrado com 1,8 ml de solvente extraído.
+ TORISEL, quando diluído, contém polissorbato 80, o qual aumenta a taxa de extracção do di-(2-etilhexil) ftalato (DEHP) do cloreto de polivinilo (PVC). Esta incompatibilidade tem de ser tida em consideração durante a preparação e administração de TORISEL. É importante seguir cuidadosamente as recomendações das secções 4.2 e 6.6.
+ Os sacos e os dispositivos médicos com PVC não podem ser utilizados na administração de soluções contendo polissorbato 80, uma vez que o polissorbato 80 remove o DEHP do PVC.
+ 6.3 Prazo de validade 2 anos Após a primeira diluição de TORISEL 25 mg/ml concentrado com 1,8 ml do solvente extraído: 24 horas quando conservado a temperatura inferior a 25°C e protegido da luz.
+ Após diluição posterior da mistura concentrado-solvente com solução para injectáveis de cloreto de sódio 9 mg/ml (0,9%): 6 horas quando conservado a temperatura inferior a 25°C e protegido da luz.
+ 6.4 Precauções especiais de conservação
+ Conservar no frigorífico (2°C-8°C). Não congelar. Manter os frascos para injectáveis na embalagem exterior para proteger da luz.
+ Condições de conservação do medicamento diluído, ver secção 6.3.
+ 6.5 Natureza e conteúdo do recipiente TORISEL 25 mg/ml concentrado: Frasco para injectáveis de vidro transparente (vidro tipo 1) com rolha de borracha butílica, fecho de plástico “ flip-top ” e selo de alumínio.
+ Solvente: Frasco para injectáveis de vidro transparente (vidro tipo 1) com rolha de borracha butílica, fecho de plástico “ flip-top” e selo de alumínio.
+ Apresentação: 1 frasco para injectáveis de 1,2 ml de TORISEL 25 mg/ml concentrado e 1 frasco para injectáveis de 2,2 ml de solvente.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ Durante o manuseamento e preparação de misturas, TORISEL deve ser protegido da luz interior excessiva e da luz solar.
+ TORISEL, quando diluído, contém polissorbato 80, o qual aumenta a taxa de extracção do di-(2-etilhexil) ftalato (DEHP) do cloreto de polivinilo (PVC). 14 Assim, os sacos e os dispositivos médicos com PVC não podem ser utilizados para a preparação, armazenamento e administração de TORISEL soluções para perfusão.
+ Os sacos/recipientes que entrem em contacto com TORISEL têm de ser feitos de vidro, poliolefina ou polietileno.
+ Diluição TORISEL 25 mg/ml concentrado tem de ser diluído com o solvente fornecido antes da administração na solução de cloreto de sódio para perfusão.
+ Durante o processo de preparação da solução, os 2 passos seguintes têm de ser efectuados em condições assépticas, de acordo com os padrões locais de manuseamento de fármacos citotóxicos/citostáticos:
+ PASSO 1: DILUIÇÃO DE TORISEL 25 MG/ML CONCENTRADO COM O SOLVENTE FORNECIDO • Retirar 1,8 ml do solvente fornecido; • Injectar 1,8 ml do solvente no frasco para injectáveis de TORISEL 25 mg/ml concentrado, que contém 30 mg de temsirolímus (1,2 ml de concentrado) • Misturar bem o solvente e o concentrado invertendo o frasco para injectáveis. Deve ser dado tempo suficiente para que as bolhas de ar diminuam. A solução deve ser límpida a ligeiramente turva, incolor a ligeiramente amarelada ou amarela, essencialmente livre de partículas visíveis.
+ Um frasco para injectáveis de 1,2 ml de TORISEL 25 mg/ml concentrado contém 30 mg de temsirolímus: quando 1,2 ml de concentrado são adicionados a 1,8 ml de solvente extraído, obtém-se um volume total de 3,0 ml e a concentração do temsirolímus será de 10 mg/ml. A mistura concentrado-solvente é estável a temperatura inferior a 25°C durante 24 horas.
+ PASSO 2: ADMINISTRAÇÃO DA MISTURA CONCENTRADO-SOLVENTE NA SOLUÇÃO DE CLORETO DE SÓDIO PARA PERFUSÃO • Retirar a quantidade necessária da mistura concentrado-solvente (contendo temsirolímus a 10 mg/ml) do frasco para injectáveis; i. e., 2,5 ml para uma dose de temsirolímus de 25 mg. • Injectar rapidamente o volume extraído em 250 ml de solução para injectáveis de cloreto de sódio 9 mg/ml (0,9%), para garantir uma mistura adequada.
+ Misturar por inversão do saco ou frasco, evitando agitar excessivamente para não causar espuma.
+ A solução resultante deve ser inspeccionada visualmente para detectar eventuais partículas ou descoloração antes da administração, sempre que a solução e o recipiente o permitam. A mistura de TORISEL em solução para injectáveis de cloreto de sódio 9 mg/ml (0,9%) deve ser protegida da luz interior excessiva e da luz solar.
+ Administração • A administração da solução final diluída deve ser completada nas 6 horas a partir do momento em que o TORISEL foi primeiramente adicionado à solução para injectáveis de cloreto de sódio 9 mg/ml (0,9%). • TORISEL é administrado por perfusão durante um período de 30 a 60 minutos, uma vez por semana. A utilização de uma bomba de perfusão é o método de perfusão preferencial, para garantir a administração correcta do medicamento.
+ • O material de administração apropriado tem de ser composto de vidro, poliolefina ou polietileno, para evitar a perda excessiva de medicamento e diminuir a taxa de extracção do DEHP. O material de administração tem de ser composto de tubos sem DEHP e sem PVC e com filtro apropriado. É
+ 15 recomendado, na administração, um filtro em linha de polietersulfona com poro de tamanho não superior a 5 micra para evitar a possibilidade de injectar partículas maiores do que 5 micra. Se o dispositivo de administração disponível não possuir um filtro em linha incorporado, deverá adicionar-se um filtro no final do dispositivo (i. e. um filtro final) antes da mistura chegar à veia do doente. Podem usar-se diferentes tipos de filtro final variando os tamanhos de poro de 0,2 micra até 5 micra. Não se recomenda a utilização simultânea de filtro final e de filtro em linha.
+ • TORISEL, quando diluído, contém polissorbato 80, o qual aumenta a taxa de extracção do DEHP do PVC. Tal deve ser considerado durante a preparação e administração de TORISEL após a preparação. É importante que as recomendações na secção 4.2 sejam seguidas cuidadosamente.
+ Eliminação Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Wyeth Europa Ltd Huntercombe Lane South Taplow, Maidenhead Berkshire SL6 0PH Reino Unido
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/07/424/001 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 19 de Novembro de 2007
+ 10. DATA DA REVISÃO DO TEXTO Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA): http: //www. emea. europa. eu/.
+ 16 ANEXO II
+ A. TITULARES DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEIS PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 17 A. TITULARES DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEIS PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do fabricante responsável pela libertação do lote Wyeth Lederle S. p. A. Via Franco Gorgone Zona Industriale 95100 Catania Itália
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento sujeito a receita médica restrita, de utilização reservada a certos meios especializados (ver anexo I: Resumo das Características do Medicamento, secção 4.2)
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ Não aplicável. • OUTRAS CONDIÇÕES
+ Sistema de Farmacovigilância O Titular da Autorização de Introdução no Mercado deve assegurar que o sistema de farmacovigilância, tal como descrito na versão 1.0 apresentada no Módulo 1. 8.1 do Pedido de Autorização de Introdução no Mercado, está implementado e em funcionamento, antes e enquanto o produto estiver no mercado.
+ Plano de Gestão de Risco O Titular da Autorização de Introdução no Mercado compromete-se a efectuar os estudos e actividades de farmacovigilância adicionais detalhadas no Plano de Farmacovigilância, tal como acordado na versão 1.7 do Plano de Gestão de Risco (PGR), apresentado no Módulo 1. 8.2. do Pedido de Autorização de Introdução no Mercado, assim como todas as actualizações subsequentes acordadas pelo CHMP.
+ De acordo com a Norma Orientadora do CHMP sobre Sistemas de Gestão de Risco para medicamentos de uso humano, o PGR actualizado deve ser submetido ao mesmo tempo que o Relatório Periódico de Segurança (RPS) seguinte. Além disso, deve ser submetido um PGR actualizado • Quando for recebida nova informação que possa ter impacto nas actuais Especificações de Segurança, Plano de Farmacovigilância ou actividades de minimização de risco • No período de 60 dias após ter sido atingido um objectivo importante (farmacovigilância ou minimização de risco) • A pedido da EMEA
+ 18 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 19 A. ROTULAGEM
+ 20 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ EMBALAGEM EXTERIOR 1. NOME DO MEDICAMENTO TORISEL 25 mg/ml concentrado e solvente para solução para perfusão. Temsirolímus.
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada frasco para injectáveis de 1,2 ml de TORISEL 25 mg/ml concentrado contém 30 mg de temsirolímus.
+ Após a primeira diluição de TORISEL 25 mg/ml concentrado com 1,8 ml de solvente extraído, a concentração de temsirolímus é de 10 mg/ml.
+ 3. LISTA DOS EXCIPIENTES Os outros componentes do concentrado são: etanol anidro, DL-alfa-tocoferol (E 307), propilenoglicol, ácido cítrico anidro (E 330).
+ O solvente contém: polissorbato 80 (E 433), macrogol 400 e etanol anidro.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Concentrado e solvente para solução para perfusão:
+ Conteúdo: Um frasco para injectáveis de 1,2 ml de TORISEL, concentrado para solução para perfusão. Um frasco para injectáveis de 2,2 ml de solvente
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Para via intravenosa após diluição e administração por perfusão.
+ Deve diluir-se 1,2 ml de concentrado com 1,8 ml de solvente extraído antes da administração da dose em solução injectável de cloreto de sódio a 9 mg/ml (0,9%).
+ Consultar o folheto informativo antes de utilizar e sobre instruções de diluição.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 21 Contém etanol. Para mais informações consultar o folheto informativo.
+ 8. PRAZO DE VALIDADE EXP Consultar no folheto informativo o prazo de validade do medicamento diluído.
+ 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico. Não congelar. Manter os frascos para injectáveis na embalagem exterior, para proteger da luz.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Wyeth Europa Ltd. Huntercombe Lane South Taplow, Maidenhead Berkshire, SL6 0PH Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/07/424/001 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Foi aceite a justificação para não incluir a informação em Braille. 22 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ FRASCO PARA INJECTÁVEIS DE CONCENTRADO 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ TORISEL 25 mg/ml concentrado. Temsirolímus. i. v. 2. MODO DE ADMINISTRAÇÃO Diluir antes da utilização. 3. PRAZO DE VALIDADE EXP 4. NÚMERO DO LOTE Lot 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 1,2 ml 6. OUTRAS Conservar no frigorífico (2ºC-8ºC) Não congelar. Manter o frasco para injectáveis na embalagem exterior.
+ 23 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ FRASCO PARA INJECTÁVEIS DE SOLVENTE 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Solvente para TORISEL. i. v. 2. MODO DE ADMINISTRAÇÃO Consultar o folheto informativo. 3. PRAZO DE VALIDADE EXP 4. NÚMERO DO LOTE Lot 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 2,2 ml 6. OUTRAS Contém: Polissorbato 80 (E 433), macrogol 400 e etanol anidro.
+ 24 B. FOLHETO INFORMATIVO
+ 25 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ TORISEL 25 mg/ml concentrado e solvente para solução para perfusão Temsirolímus
+ Leia atentamente este folheto antes de utilizar este medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é TORISEL e para que é utilizado 2. Antes de utilizar TORISEL 3. Como utilizar TORISEL 4. Efeitos secundários possíveis 5. Como conservar TORISEL 6. Outras informações
+ 1. O QUE É TORISEL E PARA QUE É UTILIZADO
+ TORISEL é utilizado no tratamento inicial do cancro renal avançado.
+ TORISEL é um inibidor selectivo do mTOR (alvo da rapamicina do mamífero) que bloqueia o crescimento e a divisão das células tumorais.
+ 2. ANTES DE UTILIZAR TORISEL Não utilize TORISEL -se tem alergia (hipersensibilidade) ao temsirolímus, ao polissorbato 80 ou a qualquer outro
+ componente de TORISEL.
+ -se tem alergia (hipersensibilidade) ao sirolímus (usado para prevenir a rejeição do organismo a
+ rins transplantados), uma vez que o sirolímus resulta da libertação do temsirolímus no organismo.
+ Tome especial cuidado com TORISEL -Se tem alergia (hipersensibilidade) a anti-histamínicos ou não pode tomar anti-histamínicos por
+ outras razões médicas.
+ -Se tem colesterol alto, TORISEL pode aumentar os níveis de triglicéridos e/ou do colesterol.
+ Pode necessitar de tratamento com agentes que diminuam os lípidos (medicamentos utilizados na redução do colesterol no sangue).
+ -Se vai ser submetido a uma intervenção cirúrgica, se tiver sido submetido recentemente a uma
+ grande intervenção cirúrgica, ou se ainda tiver uma ferida cirúrgica não cicatrizada, deve informar o seu médico antes de utilizar este medicamento, uma vez que TORISEL pode aumentar o risco de problemas de cicatrização.
+ -Se necessitar de ser vacinado durante o tratamento com TORISEL, esta pode ser menos eficaz.
+ Deve evitar-se o uso de determinadas vacinas durante o tratamento com TORISEL.
+ -Se tem história de insuficiência renal ou problemas nos rins.
+ -Se tem história de problemas hepáticos.
+ -Se é uma criança ou um adolescente com idade inferior a 18 anos, o seu médico irá considerar o
+ benefício deste tratamento face ao risco que pode representar para si.
+ -Se tem idade superior a 65 anos, pode estar mais sujeito a determinados efeitos secundários
+ como inchaço da face e pneumonia.
+ 26
+ -Se tiver tumores no cérebro ou na coluna vertebral, ou se estiver a tomar medicamentos para
+ evitar a coagulação do sangue (como a varfarina), poderá estar mais sujeito à ocorrência de hemorragia cerebral.
+ TORISEL pode também -aumentar os níveis de glucose no sangue e agravar a diabetes mellitus. Tal pode resultar na
+ necessidade de insulina e/ou terapêutica com antidiabético oral. Informe o seu médico se sentir sede excessiva ou aumento na frequência e quantidade de micção.
+ -enfraquecer o seu sistema imunitário; assim, poderá estar mais sujeito a contrair uma infecção
+ durante o tratamento com TORISEL.
+ -causar falta de ar, tosse e febre. Informe o seu médico se apresentar qualquer destes sintomas.
+ -aumentar o risco de hemorragia cerebral (derrame sanguíneo no cérebro).
+ -causar cataratas quando tomado em associação com o interferão-α (um medicamento usado no
+ tratamento da hepatite e do cancro).
+ -causar reacções alérgicas graves. Informe o seu médico se sentir dificuldade em respirar e/ou
+ surgir inchaço na face.
+ Ao utilizar TORISEL com outros medicamentos
+ Alguns medicamentos podem interferir com a decomposição ou metabolização de TORISEL. Em particular, deve informar o seu médico se estiver a tomar algum dos seguintes medicamentos:
+ -inibidores da protease utilizados no tratamento do VIH
+ -antibióticos (incluindo a rifampicina) ou medicamentos antifúngicos (incluindo o cetoconazol)
+ utilizados no tratamento de infecções
+ -nefazodona ou inibidores selectivos da recaptação da serotonina utilizados no tratamento da
+ depressão
+ -medicamentos anti-epilépticos, incluindo a carbamazepina, fenitoína e fenobarbital
+ -rifabutina utilizada no tratamento de infecções em indivíduos com VIH e outras doenças
+ -medicamentos à base de plantas e produtos naturais contendo Erva de S. João ou hipericão
+ (Hypericum perforatum) utilizados no tratamento da depressão ligeira
+ -inibidores da enzima de conversão da angiotensina (IECA) utilizados no tratamento da pressão
+ arterial elevada ou outros problemas cardiovasculares (tais como o enalapril, ramipril e lisinopril), medicamentos anfifílicos utilizados no tratamento de arritmias cardíacas (tais como a amiodarona), ou estatinas utilizadas para tratar o colesterol elevado.
+ Ao utilizar TORISEL com alimentos e bebidas
+ -o sumo de toranja pode aumentar as concentrações sanguíneas de TORISEL e deve ser evitado.
+ Informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica.
+ Gravidez e aleitamento TORISEL não foi estudado em mulheres grávidas e não pode ser utilizado durante a gravidez. É importante que informe o seu médico se está grávida ou planeia engravidar, antes da utilização de TORISEL.
+ Mulheres em risco de engravidar devem evitar uma gravidez utilizando um método contraceptivo eficaz durante o tratamento com TORISEL. Homens com companheiras em risco de engravidar devem utilizar métodos contraceptivos aceitáveis durante o tratamento com TORISEL.
+ As mulheres não devem amamentar durante o tratamento com TORISEL, uma vez que este pode interferir com o crescimento e desenvolvimento do bebé. Fale com o seu médico antes de iniciar a amamentação do seu bebé, uma vez que se desconhece se TORISEL passa para o leite materno.
+ Condução de veículos e utilização de máquinas
+ 27 Não foram efectuados estudos sobre a capacidade de conduzir e utilizar máquinas. No entanto, os efeitos secundários mais comuns incluem sentir-se ou estar indisposto (náuseas e vómitos); assim, não se recomenda que conduza imediatamente após o tratamento.
+ Informações importantes sobre alguns componentes de TORISEL
+ Este medicamento contém etanol (álcool), equivalente a 17,6 ml de cerveja ou a 7,3 ml de vinho por dose. Poder-lhe-á ser prejudicial se sofrer de alcoolismo. Deve ter-se em consideração em mulheres grávidas ou a amamentar, crianças e grupos de alto risco, tais como doentes hepáticos ou com epilepsia.
+ 3. COMO UTILIZAR TORISEL TORISEL será sempre preparado e administrado por perfusão intravenosa (numa veia), por um médico ou outro profissional de saúde.
+ TORISEL 25 mg/ml concentrado tem de ser diluído com 1,8 ml do solvente extraído antes da administração em solução injectável de cloreto de sódio a 9 mg/ml (0,9%) (ver instruções de diluição no final do folheto informativo).
+ A dose recomendada é de 25 mg por perfusão (gota-a-gota) durante 30 a 60 minutos, uma vez por semana.
+ Deverá ser-lhe administrada uma injecção de um anti-histamínico (de modo a prevenir uma reacção adversa ao TORISEL), directamente numa veia, aproximadamente 30 minutos antes da administração de TORISEL.
+ O tratamento com TORISEL deve ser continuado enquanto se mantiver o benefício da terapêutica ou até que surjam efeitos secundários inaceitáveis.
+ Se for administrada uma quantidade excessiva ou se lhe for omitida uma dose de TORISEL
+ Tratando-se de um medicamento preparado e administrado por um profissional de saúde, é pouco provável que lhe seja administrado em excesso.
+ Caso esteja preocupado acerca da possibilidade de ter tomado uma dose excessiva ou se julgar que lhe possa ter sido omitida uma dose, contacte imediatamente o seu médico.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todos os medicamentos, TORISEL pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ Os efeitos adversos graves muito frequentes, observados em mais do que 1 em cada 10 doentes tratados com TORISEL, são:
+ -Diminuição do número de glóbulos brancos no sangue, o que pode aumentar o risco de
+ infecção.
+ Os efeitos adversos graves frequentes, observados em mais do que 1 em cada 100 doentes tratados com TORISEL, são:
+ -Coágulos sanguíneos nas veias.
+ -Reacções alérgicas (hipersensibilidade)/reacções à perfusão (incluindo algumas com risco de
+ vida e reacções fatais raras[ frequência rara é inferior a 1 em 1.000 doentes]). Deve informar o
+ 28 seu médico imediatamente se apresentar sintomas de angioedema como inchaço da face, língua ou faringe, e dificuldade em respirar.
+ -Diminuição do número de células no sangue que ajudam o sangue a coagular.
+ -Derrame pleural (fluído em volta dos pulmões).
+ Os efeitos secundários e frequências seguintes são os que foram observados em doentes tratados com TORISEL:
+ Efeitos secundários muito frequentes, ocorrendo em mais do que 1 em cada 10 doentes são:
+ Sensação generalizada de fraqueza, inchaço devido a retenção de fluídos, dor (incluindo dor abdominal, dor de costas, dor no peito e dor nas articulações), sentir-se ou estar indisposto (náuseas e vómitos), diarreia, febre, dor de garganta, dor e inflamação na boca e/ou no tracto digestivo, tosse, hemorragia nasal, corrimento nasal, erupção cutânea, comichão, alterações nas unhas, acne, pele seca, anorexia, falta de ar, diminuição dos níveis de potássio no sangue (o que pode causar fraqueza muscular), baixa contagem de glóbulos vermelhos, níveis elevados de açúcar no sangue, níveis elevados de colesterol e outros lípidos do sangue, abcesso, infecções, infecções do tracto urinário, alteração da função renal (incluindo insuficiência renal), alteração do paladar.
+ Efeitos secundários frequentes, ocorrendo em menos que 1 em cada 10 doentes, mas em mais que 1 em 100 doentes, são:
+ Vermelhidão e inchaço das gengivas, dor na boca (incluindo úlceras na boca), inchaço no estômago, pressão arterial elevada, vermelhidão e inchaço dos tecidos à volta dos olhos, incluindo olhos lacrimejantes, perda de paladar, vermelhidão e inchaço dos folículos da pele, reacções alérgicas (hipersensibilidade), descamação grave da pele e problemas de cicatrização após cirurgia.
+ Testes sanguíneos que demonstram alterações do funcionamento do fígado, níveis reduzidos de fosfato no sangue, coagulação sanguínea aumentada (incluindo trombose das veias, embolismo nos pulmões), infecções do tracto superior respiratório, pneumonia, doença pulmonar intersticial, diminuição do número de glóbulos brancos, diminuição do número de linfócitos.
+ Efeitos secundários pouco frequentes, ocorrendo em menos que 1 em cada 100 doentes, mas em mais que 1 em 1.000 doentes, são:
+ Derrame pericárdico (fluído em volta do coração que pode requerer drenagem e pode afectar o bombeamento do sangue.
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR TORISEL Manter fora do alcance e da vista das crianças.
+ Não utilizar TORISEL após o prazo de validade impresso no rótulo do frasco para injectáveis e na embalagem exterior. Os primeiros dois números indicam o mês; os restantes quatro números indicam o ano.
+ Conservar no frigorifico (2°C-8°C). Não congelar. Manter o frasco para injectáveis na embalagem exterior, para proteger da luz.
+ 29 Após a primeira diluição de TORISEL 25 mg/ml concentrado com 1,8 ml do solvente extraído, a mistura pode ser conservada durante 24 horas a temperatura inferior a 25ºC e protegida da luz, antes de ser novamente diluída.
+ Após diluição posterior da mistura concentrado-solvente com solução para injectáveis de cloreto de sódio 9 mg/ml (0,9%), a solução pode ser conservada durante 6 horas a temperatura inferior a 25ºC e protegida da luz.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de TORISEL A substância activa é o temsirolímus. Cada frasco para injectáveis de 1,2 ml de TORISEL 25 mg/ml concentrado contém 30 mg de temsirolímus.
+ Os outros componentes de TORISEL são etanol anidro, DL-alfa-tocoferol (E 307), propilenoglicol e acido cítrico anidro (E 330). O solvente contém polissorbato 80 (E 433), macrogol 400 e etanol anidro.
+ Qual o aspecto de TORISEL e conteúdo da embalagem
+ TORISEL é um concentrado para perfusão fornecido com um solvente.
+ O concentrado é uma solução límpida, incolor a amarelo-claro. O solvente é uma solução límpida ou ligeiramente turva, cor amarelo-claro a amarelo. As soluções são essencialmente livres de partículas visíveis.
+ Cada embalagem de TORISEL contém um frasco para injectáveis de 1,2 ml de concentrado e um frasco para injectáveis de 2,2 ml de solvente.
+ Titular da Autorização de Introdução no Mercado e Fabricante Wyeth Europa Ltd Huntercombe Lane South Taplow, Maidenhead Berkshire SL6 0PH Reino Unido
+ Fabricante Wyeth Lederle S. p. A. Via Franco Gorgone Zona Industriale 95100 Catania, Itália
+ 30 Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado:
+ België/Belgique/Belgien Luxembourg/Luxemburg Wyeth Pharmaceuticals S. A./N. V. Tél/Tel: +32 10 49 47 11 Fax: +32 10 49 48 70
+ Magyarország Wyeth Kft Tel: +36 1 453 33 30 Fax: +36 1 240 4632
+ Česká republika Wyeth Whitehall Czech s. r. o. Tel: +420 2 67 294 111 Fax: +420 2 67 294 199
+ Malta Vivian Corporation Ltd. Tel: +35621 344610 Fax: +35621 341087
+ Danmark Wyeth Danmark Tlf: +45 44 88 88 05 Fax: +45 44 88 88 06
+ Nederland Wyeth Pharmaceuticals B. V. Tel: +31 23 567 2567 Fax: +31 23 567 2599
+ Deutschland Wyeth Pharma GmbH Tel: +49 1802-29 93 84 Fax: +49 251 204 1128
+ Polska Wyeth Sp. z o. o. Tel: +48 22 457 1000 Fax: +48 22 457 1001
+ España Wyeth Farma S. A. Tel: +34 91 334 65 65 Fax: +34 91 663 65 53
+ Portugal Wyeth Lederle Portugal (Farma) Lda. Tel: +351 21 412 82 00 Fax: +351 21 412 01 11
+ France Wyeth Pharmaceuticals France Tél: +33 1 41 02 70 00 Fax: +33 1 41 02 70 10
+ Slovenská republika Wyeth Whitehall Export GmbH, organizačná zložka Tel: +42 1 2 654 128 16 Fax: +42 1 2 654 128 17
+ Ireland Wyeth Pharmaceuticals Tel: +353 1 449 3500 Fax: +353 1 449 3522
+ Suomi/Finland Wyeth Puh/Tel: +358 20 7414 870 Fax: +358 20 7414 879
+ Ísland Icepharma hf. Tel: +354 540 8000 Fax: +354 540 8001
+ Sverige Wyeth AB Tel: +46 8 470 3200 Fax: +46 8 730 0666
+ Italia Wyeth Lederle S. p. A. Tel: +39 06 927151 Fax: +39 06 23325555
+ Norge Wyeth Tlf: +47 40 00 23 40 Fax: +47 40 00 23 41
+ Ελλάδα Wyeth Hellas A. E. B. E. Tηλ: +30 2 10 99 81 600 Φαξ: +30 2 10 99 21 994
+ United Kingdom Wyeth Pharmaceuticals Tel: +44 845 367 0098 Fax: +44 1628 414802
+ Κύπρος 31 България/Eesti/Latvija/Lietuva/ Wyeth Hellas (Cyprus Branch) AEBE Tηλ: +357 22 817690 Φαξ: +357 22 751855
+ Österreich/România/Slovenija Wyeth-Lederle Pharma GmbH Tel/Tãlr: +43 1 89 1140 Факс/Faks/Fakss/Faksas/Fax: +43 1 89 114600
+ Este folheto foi aprovado pela última vez em
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu/
+ 32 ________________________________________________________________________________
+ A informação que se segue destina-se apenas aos médicos e aos profissionais de saúde:
+ Durante o manuseamento e preparação de misturas, TORISEL deve ser protegido da luz interior excessiva e da luz solar.
+ Os sacos/recipientes que entrem em contacto com TORISEL têm de ser feitos de vidro, poliolefina ou polietileno.
+ Os sacos e dispositivos médicos de PVC não podem ser utilizados na administração de preparações contendo polissorbato 80, uma vez que o polissorbato 80 remove o DEHP do PVC.
+ Diluição TORISEL 25 mg/ml concentrado tem de ser diluído com 1,8 ml do solvente extraído antes da administração em solução para injectáveis de cloreto de sódio a 9 mg/ml (0,9%).
+ Durante o processo de preparação da solução, os 2 passos seguintes têm de ser efectuados em condições assépticas, de acordo com os padrões locais de manuseamento de fármacos citotóxicos/citostáticos:
+ PASSO 1: DILUIÇÃO DE TORISEL 25 MG/ML CONCENTRADO COM O SOLVENTE FORNECIDO
+ • •
+ Retirar 1,8 ml do solvente fornecido; Injectar 1,8 ml do solvente no frasco para injectáveis de TORISEL 25 mg/ml concentrado, que contém 30 mg de temsirolímus (1,2 ml de concentrado)
+ •
+ Misturar bem o solvente e o concentrado invertendo o frasco para injectáveis. Deve ser dado tempo suficiente para que as bolhas de ar diminuam. A solução deve ser límpida a ligeiramente turva, incolor a ligeiramente amarelada ou amarela, essencialmente livre de partículas visíveis.
+ Um frasco para injectáveis de 1,2 ml de TORISEL 25 mg/ml concentrado contém 30 mg de temsirolímus: quando 1,2 ml de concentrado são adicionados a 1,8 ml de solvente extraído, obtém-se um volume total de 3,0 ml e a concentração do temsirolímus será de 10 mg/ml. A mistura concentrado-solvente é estável a temperatura inferior a 25°C durante 24 horas.
+ PASSO 2: ADMINISTRAÇÃO DA MISTURA CONCENTRADO-SOLVENTE NA SOLUÇÃO DE CLORETO DE SÓDIO PARA PERFUSÃO
+ •
+ Retirar a quantidade necessária da mistura concentrado-solvente (contendo temsirolímus a 10 mg/ml) do frasco para injectáveis; i. e., 2,5 ml para uma dose de temsirolímus de 25 mg.
+ •
+ Injectar rapidamente o volume extraído em 250 ml de solução para injectáveis de cloreto de sódio 9 mg/ml (0,9%), para garantir uma mistura adequada.
+ Misturar por inversão do saco ou frasco, evitando agitar excessivamente para não causar espuma.
+ A solução resultante deve ser inspeccionada visualmente para detectar eventuais partículas ou descoloração antes da administração, sempre que a solução e o recipiente o permitam. A mistura de TORISEL em solução para injectáveis de cloreto de sódio 9 mg/ml (0,9%) deve ser protegida da luz interior excessiva e da luz solar.
+ 33 Administração
+ • A administração da solução final diluída deve ser completada nas 6 horas a partir do momento em que o TORISEL foi primeiramente adicionado à solução para injectáveis de cloreto de sódio 9 mg/ml (0,9%).
+ • TORISEL é administrado por perfusão durante um período de 30 a 60 minutos, uma vez por semana. A utilização de uma bomba de perfusão é o método de perfusão preferencial, para garantir a administração correcta do medicamento.
+ • O material de administração apropriado tem de ser composto de vidro, poliolefina ou polietileno, para evitar a perda excessiva de medicamento e diminuir a taxa de extracção do DEHP. O material de administração tem de ser composto de tubos sem DEHP e sem PVC e com filtro apropriado. É recomendado, na administração, um filtro em linha de polietersulfona com poro de tamanho não superior a 5 micra para evitar a possibilidade de injectar partículas maiores do que 5 micra. Se o dispositivo de administração disponível não possuir um filtro em linha incorporado, deverá adicionar-se um filtro no final do dispositivo (i. e. um filtro final) antes da mistura chegar à veia do doente. Podem usar-se diferentes tipos de filtro final variando os tamanhos de poro de 0,2 micra até 5 micra. Não se recomenda a utilização simultânea de filtro final e de filtro em linha.
+ • TORISEL, quando diluído, contém polissorbato 80, o qual aumenta a taxa de extracção do DEHP do PVC. Esta incompatibilidade tem de ser considerada durante a preparação e administração de TORISEL. É importante que as recomendações das secções 4.2 e 6.6 do RCM sejam seguidas cuidadosamente.
+ Eliminação Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 34

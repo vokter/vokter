@@ -1,0 +1,240 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. NOME DO MEDICAMENTO
+ Luminity 150 microlitros/ml solução para dispersão injectável ou para perfusão
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada ml contém, no máximo, 6,4 x 109 microsferas lipídicas contendo perflutreno com diâmetro médio no intervalo de 1, 1-2,5 micrómetros (μm). A quantidade aproximada de gás perflutreno em cada ml é de 150 microlitros (μl).
+ Excipiente: 2,679 mg de sódio por ml Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Solução para dispersão injectável ou para perfusão
+ Líquido incolor, uniformemente límpido a translúcido.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Este medicamento é apenas para uso em diagnóstico.
+ O Luminity é um agente realçante de contraste de ultra-sons para utilização em doentes cuja ecocardiografia sem contraste foi sub-óptima (sub-óptima é considerada para indicar que, pelo menos, dois dos seis segmentos na vista das 4 ou 2 cavidades do limite ventricular não foram avaliáveis) e que tenham doença arterial coronária suspeita ou estabelecida, para opacificar as cavidades cardíacas e melhorar a delimitação do limite endocárdico do ventrículo esquerdo tanto em repouso como em esforço.
+ 4.2 Posologia e modo de administração O Luminity só deverá ser administrado por médicos experientes com conhecimentos técnicos na realização e interpretação de ecocardiogramas de contraste e, em caso de reacções de hipersensibilidade, deve estar disponível equipamento de reanimação adequado.
+ Antes da administração de Luminity, o produto tem de ser activado utilizando um dispositivo de agitação mecânica, o Vialmix (ver secção 6.6).
+ Este produto só deverá ser administrado por via intravenosa.
+ Injecção intravenosa em bólus utilizando a técnica de imagiologia de contraste não linear em repouso e em esforço:
+ A dose recomendada consiste em injecções múltiplas de 0,1 a 0,4 ml, seguidas de um bólus de 3 a 5 ml de solução injectável de cloreto de sódio 9 mg/ml (0,9%) ou de glucose 50 mg/ml (5%) para manter óptimo o realce do contraste. A dose total não deverá exceder 1,6 ml.
+ Injecção intravenosa em bólus utilizando a técnica de imagiologia fundamental em repouso:
+ 2 A dose recomendada é de 10 microlitros de dispersão/kg por injecção intravenosa em bólus lento, seguida de um bólus de 10 ml de solução injectável de cloreto de sódio 9 mg/ml (0,9%) ou de glucose 50 mg/ml (5%). Se necessário,5 minutos após a primeira injecção, pode ser administrada uma segunda dose de 10 microlitros de dispersão/kg, seguida de um segundo bólus de 10 ml de solução injectável de cloreto de sódio 9 mg/ml (0,9%) ou de glucose 50 mg/ml (5%) para prolongar o realce do contraste.
+ Perfusão intravenosa utilizando a técnica de imagiologia de contraste não linear (repouso e esforço) ou a técnica de imagiologia fundamental em repouso:
+ A dose recomendada é administrada através de uma perfusão intravenosa de 1,3 ml adicionados a 50 ml de solução injectável de cloreto de sódio 9 mg/ml (0,9%) ou de glucose 50 mg/ml (5%). A taxa de perfusão deverá ser iniciada a 4,0 ml/minuto, mas ajustada conforme o necessário para alcançar uma potenciação óptima da imagem, sem exceder 10 ml/minuto.
+ O Luminity não deverá ser utilizado com a técnica de imagiologia fundamental para a ecocardiografia em esforço uma vez que a eficácia e a segurança não foram estabelecidas.
+ Crianças e adolescentes: Luminity não deverá ser utilizado em doentes com idade inferior a 18 anos uma vez que não foi estabelecida a eficácia e a segurança nestes grupos.
+ Doentes com compromisso hepático: o Luminity não foi estudado especificamente em doentes com compromisso hepático.
+ Doentes com compromisso renal: o Luminity não foi estudado especificamente em doentes com compromisso renal.
+ Doentes idosos: o Luminity não foi estudado especificamente em doentes idosos.
+ 4.3 Contra-indicações Hipersensibilidade ao perflutreno ou a qualquer um dos excipientes.
+ 4.4 Advertências e precauções especiais de utilização
+ A segurança do Luminity em doentes com shunts cardíacos da direita para a esquerda, bidireccionais ou temporários da direita para a esquerda não foi ainda estudada. Nestes doentes, as microsferas fosfolipídicas encapsuladas poderão atravessar os pulmões e entrar directamente na circulação arterial. Deverá ter-se precaução ao considerar a administração de Luminity a estes doentes (ver secção 5.3).
+ A segurança das microsferas em doentes com ventilação mecânica não foi estabelecida. Deverá ter-se precaução ao considerar a administração de Luminity a estes doentes.
+ Outros métodos de administração não especificados na secção 4.2 (e. g. injecção por via intra-arterial) não são recomendados.
+ Se o Luminity for administrado directamente ao doente sem passar pelo procedimento de activação mecânica utilizando o Vialmix (ver secção 6.6), o produto não irá produzir o efeito a que se destina.
+ Deverá ter-se precaução em doentes com doença pulmonar clinicamente significativa, incluindo fibrose pulmonar intersticial difusa e doença pulmonar obstrutiva crónica grave, uma vez que não foram realizados estudos nestes doentes.
+ Uma vez que a experiência é limitada em doentes com certos estados graves de doenças pulmonares e cardíacas, o Luminity apenas deve ser utilizado após consideração cuidadosa e tal utilização deve ser cuidadosamente monitorizada durante a administração. Estes estados incluem síndrome de dificuldade respiratória no adulto, insuficiência cardíaca grave (NYHA IV), endocardite, enfarte miocárdico agudo
+ 3 com angina em progressão ou angina instável, coração com válvulas prostéticas, estados agudos de inflamação sistémica ou sepsia, estados conhecidos de sistema hiperactivo de coagulação e/ou trombo-embolismo recorrentes.
+ Após a administração de Luminity foram notificadas reacções de hipersensibilidade imediatas graves (por exemplo: anafilaxia, choque anafiláctico e reacções anafilactóides, hipotensão e angioedema). Os doentes devem ser cuidadosamente monitorizados e a administração deve ser feita sob orientação de um médico experiente no controlo de reacções de hipersensibilidade incluindo reacções alérgicas graves, que podem requerer reanimação. Devem estar prontamente disponíveis equipamento de emergência e pessoal treinado na sua utilização.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Não foram realizados estudos de interacção e não foram identificadas outras formas de interacção.
+ 4.6 Gravidez e aleitamento No que respeita a perflutreno, não existem dados clínicos sobre as gravidezes a ele expostas. Os estudos em animais não indicam efeitos nefastos directos ou indirectos no que respeita à gravidez, ao desenvolvimento embrionário/fetal, parto ou desenvolvimento pós-natal (ver secção 5.3). Este medicamento só deve ser receitado a mulheres grávidas com muita precaução.
+ Não se sabe se o Luminity é excretado no leite materno humano. Por conseguinte, deverá ter-se precaução ao administrar Luminity a mulheres que estejam a amamentar.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Dado que o Luminity não tem qualquer efeito farmacológico, e com base nos seus perfis farmacocinético e farmacodinâmico, é esperado que a influência sobre a capacidade de conduzir ou utilizar máquinas seja nula ou negligenciável.
+ 4.8 Efeitos indesejáveis As reacções adversas observadas após a utilização de Luminity em ensaios de referência e de suporte (total de 2.526 doentes) foram geralmente de intensidade ligeira a moderada, ocorreram minutos após a administração e resolveram-se geralmente sem intervenção terapêutica no prazo de 15 minutos. As reacções adversas mais frequentemente notificadas foram: cefaleias (2,0%), rubor (1,0%) e dor lombar (0,9%).
+ Nos ensaios clínicos com Luminity, as reacções adversas foram notificadas com as seguintes frequências (muito frequentes ≥ 1/10; frequentes ≥ 1/100, &lt; 1/10; pouco frequentes ≥ 1/1.000, &lt; 1/100; raras ≥ 1/10.000, &lt; 1/1.000; muito raras &lt; 1/10.000). Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ 4 Exames complementares de diagnóstico
+ Raros: electrocardiograma anormal Cardiopatias Doenças do sistema nervoso
+ Raros: bradicardia, taquicardia, palpitações Frequentes: cefaleias Pouco frequentes: tontura, disgeusia Raros: parestesia
+ Doenças respiratórias, torácicas e do mediastino Doenças gastrintestinais
+ Pouco frequentes: dispneia, garganta irritada Raros: dificuldade respiratória, tosse, garganta seca Pouco frequentes: dor abdominal, diarreia, náuseas, vómitos Raros: dispepsia
+ Afecções dos tecidos cutâneos e subcutâneos
+ Pouco frequentes: prurido, sudação aumentada Raros: erupção cutânea, urticária, eritema, exantema eritematoso
+ Afecções musculosqueléticas e dos tecidos conjuntivos Vasculopatias
+ Pouco frequentes: dor lombar Raros: artralgia, dor lateral, dor no pescoço, cãimbra muscular Frequentes: rubor Pouco frequentes: hipotensão Raros: síncope, hipertensão, arrefecimento periférico
+ Perturbações gerais e alterações no local de administração
+ Pouco frequentes: dor torácica, fadiga, sensação de calor, dor no local da injecção Raros: pirexia, calafrios
+ As reacções adversas adicionais que se seguem foram notificadas durante a experiência do pós-comercialização; são resultantes de notificações espontâneas e, consequentemente, a frequência destas reacções adversas não é conhecida: Reacções do tipo alérgico (por exemplo: anafilaxia, choque anafiláctico e reacções do tipo anafilactóide, hipotensão e angioedema) (ver secção 4.4) Reacções do sistema nervoso central (incluindo convulsões e reacções do tipo convulsão), que podem estar associadas a reacções de hipersensibilidade imediata Espasmo muscular, dor e desconforto musculosquelético, e mialgia.
+ 4.9 Sobredosagem Não se conhecem as consequências clínicas da sobredosagem com o Luminity. Doses únicas até 100 µl de dispersão/kg e doses múltiplas até 150 µl de dispersão/kg foram bem toleradas nos ensaios clínicos de Fase I. O tratamento de uma sobredosagem deverá ser orientado para o suporte de todas as funções vitais e a instituição rápida de terapêutica sintomática.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: meios de contraste para ultra-sonografia, microsferas de fosfolípidos, Código ATC: V08D A04
+ O produto consiste em microsferas de perflutreno encapsuladas por lípidos. As microsferas no intervalo de diâmetros de 1 a &lt; 10 µm contribuem para o efeito de contraste ao gerarem reflexão (ecos) bastante realçada.
+ Os ecos de ultra-sonografia do sangue e dos tecidos biológicos moles, tais como o tecido adiposo e o muscular, são gerados em interfaces devido a pequenas diferenças nas propriedades ultra-sónicas dos tecidos. As propriedades ultra-sónicas do produto são muito diferentes das dos tecidos moles e geram ecos fortes.
+ 5 Como o Luminity consiste em microsferas que são estáveis e suficientemente pequenas para a passagem transpulmonar, são obtidos sinais de eco realçados no lado esquerdo do coração e na circulação sistémica.
+ Não é possível definir uma relação rigorosa dose/resposta, ainda que as doses mais elevadas tenham demonstrado produzir um efeito de contraste de maior duração.
+ 5.2 Propriedades farmacocinéticas As propriedades farmacocinéticas do Luminity foram avaliadas em indivíduos saudáveis normais e em indivíduos com doença pulmonar obstrutiva crónica (DPOC) após administração intravenosa de uma dose de 50 µl/kg do produto.
+ O componente perflutreno do Luminity foi rapidamente depurado da circulação sistémica através dos pulmões. A percentagem da dose de perflutreno excretada no ar expirado foi de aproximadamente 50% da dose administrada devido às pequenas quantidades de perflutreno administradas e à incapacidade de quantificar os níveis baixos de perflutreno por cromatografia em fase gasosa. Na maior parte dos indivíduos, após 4-5 minutos, o perflutreno foi indetectável no sangue e no ar expirado. As concentrações de perflutreno no sangue mostraram um declínio do tipo mono-exponencial com uma semi-vida média de 1,3 minutos em indivíduos saudáveis e de 1,9 minutos em indivíduos com DPOC. A depuração sistémica de perflutreno foi semelhante em indivíduos saudáveis e em indivíduos com DPOC. A depuração pulmonar total (Clpulm) do perflutreno mostrou não ser diferente em indivíduos saudáveis em comparação com indivíduos com DPOC. Verificou-se que a Clpulm era significativamente reduzida (51%) nas mulheres em comparação com os homens (para todos os indivíduos). Estes resultados sugerem que a eliminação sistémica global do perflutreno é rápida e não é significativamente reduzida nos doentes com DPOC em comparação com indivíduos normais. Foram efectuadas medições Doppler de ultra-sons com o Luminity em conjunto com a avaliação farmacocinética do perflutreno. A intensidade do sinal Doppler teve uma boa correspondência com as concentrações medidas e extrapoladas de perflutreno no sangue. O tempo para a obtenção da intensidade máxima do sinal Doppler tmax mostrou ser semelhante ao tmax para o perflutreno no sangue (1,13 versus 1,77 minutos). A queda de 99% na intensidade do sinal Doppler observado no prazo de 10 minutos (t1/2 aproximadamente 2 minutos) esteve em concordância com o declínio nos níveis sanguíneos mensuráveis de perflutreno.
+ Em estudos clínicos com Luminity foram utilizadas técnicas de imagiologia fundamental e não linear (segunda harmónica, fase multipulso e/ou modulação da amplitude) utilizando aquisição contínua e disparada.
+ Os fosfolípidos naturais presentes no Luminity (ver secção 6.1) são distribuídos pelas reservas lipídicas endógenas do corpo (por exemplo, fígado), enquanto que o componente sintético (MPEG5000) mostrou ser excretado na urina em estudos pré-clínicos. Todos os lípidos são metabolizados em ácidos gordos livres. A farmacocinética e o metabolismo do MPEG5000 DPPE não foram ainda avaliados em humanos.
+ Farmacocinética em grupos populacionais especiais
+ Idosos: a farmacocinética não foi estudada especificamente em idosos.
+ Doença renal: a farmacocinética não foi estudada especificamente em doentes com doença renal.
+ Doença hepática: a farmacocinética não foi estudada especificamente em doentes com doença hepática.
+ 6 5.3 Dados de segurança pré-clínica
+ Os dados não clínicos não revelam qualquer risco particular para os seres humanos com base nos estudos convencionais de genotoxicidade, fertilidade, desenvolvimento embrionário/fetal, parto ou desenvolvimento pós-natal e tolerância local.
+ Em estudos sobre toxicidade com doses únicas e doses repetidas em ratos e macacos, observaram-se respiração alterada, alterações na frequência cardíaca e diminuição da actividade pouco após a injecção intravenosa de Luminity em doses ≥ 0,3 ml/kg. Doses mais elevadas do produto, tipicamente ≥ 1 ml/kg, originaram sinais mais graves, incluindo falta de resposta e ocasionalmente morte. Estes níveis estão substancialmente acima da dose clínica máxima recomendada. Os ratos tratados com Luminity durante 1 mês apresentaram, dependendo da dose, infiltração eosinófila peribrônquiolar e perivascular reversível, acumulação alveolar de macrófagos e aumento do tamanho e do número das células de Goblet nos pulmões. Estes efeitos foram observados com níveis de exposição muito acima da exposição humana máxima, indicando pouca relevância para a utilização clínica.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1. Lista dos excipientes 1, 2-dipalmitoílo-sn-glicero-3-fosfatidilcolina (DPPC) Sal monossódico de 1, 2-dipalmitoílo-sn-glicero-3-ácido fosfatídico (DPPA) Sal monossódico de N-(metoxipolietileno glicol 5000 carbamoílo)-1, 2-dipalmitoílo-sn-glicero-3-fosfatidiletanolamina (MPEG5000 DPPE) Dihidrogenofosfato de sódio mono-hidratado Fosfato de sódio dibásico hepta-hidratado Cloreto de sódio Propilenoglicol Glicerol Água para preparações injectáveis
+ 6.2 Incompatibilidades Na ausência de estudos de compatibilidade, este medicamento não deve ser misturado com outros medicamentos, excepto os mencionados na secção 6.6.
+ 6.3 Prazo de validade Antes da activação: 2 anos. Após a activação: 12 horas. O produto pode ser re-activado até 48 horas após a activação inicial e utilizado até 12 horas após a segunda activação.
+ 6.4 Precauções especiais de conservação
+ Antes da activação: conservar no frigorífico (2°C-8°C). Após a activação: não conservar acima de 30°C.
+ 6.5 Natureza e conteúdo do recipiente Frasco para injectáveis em vidro do tipo I borossilícico, transparente com rolha de liofilização de elastómero clorobutilo e selado com cápsula de alumínio com um botão de plástico do tipo flip-off.
+ O produto é fornecido em embalagens de 1 ou de 4 frascos para injectáveis de dose unitária de 1,5 ml.
+ É possível que não sejam comercializadas todas as apresentações.
+ 7 6.6 Precauções especiais de eliminação e manuseamento
+ É essencial seguir as instruções de utilização e manuseamento do Luminity e aderir a procedimentos assépticos rigorosos durante a preparação. Como os demais produtos parentéricos, os frascos para injectáveis têm de ser inspeccionados visualmente quanto à presença de partículas e à integridade dos frascos para injectáveis. Antes de administrar o produto, este tem de ser activado utilizando o Vialmix, um dispositivo de agitação mecânica. O Vialmix não está incluído na embalagem do Luminity, mas será fornecido aos profissionais dos cuidados de saúde ao encomendar a embalagem.
+ O Luminity é activado utilizando o Vialmix, que tem um tempo de agitação programado de 45 segundos. O Vialmix irá alertar o operador se a frequência de agitação for inferior a 5% ou mais da frequência pretendida. Está também programado para se desligar e fornecer avisos visuais e sonoros se a frequência de agitação exceder a frequência pretendida em 5% ou estiver abaixo da frequência pretendida em 10%.
+ Processo de activação e administração -O frasco para injectáveis deve ser activado utilizando o Vialmix. Imediatamente após a activação, o
+ Luminity tem o aspecto de uma dispersão branca leitosa.
+ Nota: se o produto ficar em repouso durante mais de 5 minutos após a activação, deverá ser re-suspenso com 10 segundos de agitação manual antes de ser retirado, com seringa, do frasco para injectáveis. O Luminity deverá ser utilizado no prazo de 12 horas após a activação. O produto pode ser re-activado até 48 horas após a activação inicial e utilizado até 12 horas após a segunda activação, quer seja conservado sob refrigeração ou à temperatura ambiente. Não conserve o frasco para injectáveis acima dos 30°C após a activação.
+ -A rolha do frasco para injectáveis deve ser perfurada com uma agulha de seringa estéril ou com uma
+ mini-spike não siliconada estéril antes de retirar a dispersão.
+ -A dispersão deve ser retirada do frasco para injectáveis utilizando uma seringa com uma agulha
+ estéril de 18 a 20 gauge ou anexa a uma mini-spike não siliconada estéril. Quando se utilizar uma agulha, esta deverá ser posicionada de forma a retirar o material do meio do líquido no frasco para injectáveis invertido. Não deve ser injectado ar para o interior do frasco para injectáveis. O produto deve ser utilizado imediatamente após ser retirado do frasco para injectáveis.
+ -O Luminity pode ser diluído com solução injectável de cloreto de sódio 9 mg/ml (0,9%) ou solução
+ injectável de glucose 50 mg/ml (5%).
+ O conteúdo do frasco para injectáveis destina-se apenas a utilização única.
+ Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Bristol-Myers Squibb Pharma Belgium Sprl Chaussée de la Hulpe,185/Terhulpsesteenweg 185 B-1170 Bruxelles/Brussel Bélgica
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/06/361/001-002 8 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 20 de Setembro de 2006 10. DATA DA REVISÃO DO TEXTO Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu/.
+ 9 ANEXO II
+ A. TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 10 A TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do fabricante responsável pela libertação do lote
+ Bristol-Myers Squibb S. r. l. Via del Murillo Km 2.800 I-04010 Sermoneta (Latina) Itália
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento de receita médica restrita, de utilização reservada a certos meios especializados (ver anexo I: Resumo das Características do Medicamento, secção 4.2.)
+ CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ Não aplicável. OUTRAS CONDIÇÕES
+ Sistema de farmacovigilância O titular da Autorização de Introdução no Mercado tem de assegurar que o sistema de farmacovigilância, como descrito na versão 3.0 apresentada no módulo 1. 8.1. do pedido de Autorização de Introdução no Mercado, está estabelecido e a funcionar antes e após a comercialização do medicamento.
+ 11 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 12 A. ROTULAGEM
+ 13 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ EMBALAGEM EXTERIOR 1. NOME DO MEDICAMENTO Luminity 150 microlitros/ml solução para dispersão injectável ou para perfusão Perflutreno
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada ml contém, no máximo, 6,4 x 109 microsferas lipídicas contendo perflutreno com diâmetro médio no intervalo de 1, 1-2,5 μm (aproximadamente 150 μl de gás perflutreno por ml).
+ 3. LISTA DOS EXCIPIENTES Excipientes: 1, 2-dipalmitoílo-sn-glicero-3-fosfatidilcolina (DPPC), sal monossódico de 1, 2-dipalmitoílo-sn-glicero-3-ácido fosfatídico (DPPA), sal monossódico de N-(metoxipolietileno glicol 5000 carbamoílo)-1, 2-dipalmitoílo-sn-glicero-3-fosfatidiletanolamina (MPEG5000 DPPE), dihidrogenofosfato de sódio mono-hidratado, fosfato de sódio dibásico hepta-hidratado, cloreto de sódio, propilenoglicol, glicerol, água para preparações injectáveis
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Solução para dispersão injectável ou para perfusão
+ 1 x frascos para injectáveis de dose unitária de 1,5 ml 4 x frascos para injectáveis de dose unitária de 1,5 ml
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via intravenosa Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL 14 Após activação: utilizar em 12 horas
+ 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Antes da activação: conservar no frigorífico Após activação: não conservar acima de 30ºC
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Bristol-Myers Squibb Pharma Belgium Sprl Chaussée de la Hulpe,185/Terhulpsesteenweg 185 B-1170 Bruxelles/Brussel Bélgica
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/06/361/001 4 frascos para injectáveis de dose unitária EU/1/06/361/002 1 frasco para injectáveis de dose unitária
+ 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Como Luminity se destina a ser administrado apenas por profissionais de saúde, não será incluída informação em Braille.
+ 15 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ RÓTULO DO FRASCO PARA INJECTÁVEIS 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Luminity 150 microlitros/ml solução para dispersão injectável ou para perfusão Perflutreno Via intravenosa
+ 2. MODO DE ADMINISTRAÇÃO Consultar o folheto informativo 3. PRAZO DE VALIDADE VAL 4. NÚMERO DO LOTE Lote 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 1,5 ml 6. OUTRAS 16 B. FOLHETO INFORMATIVO
+ 17 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Luminity 150 microlitros/ml solução para dispersão injectável ou para perfusão Perflutreno
+ Leia atentamente este folheto antes deste medicamento lhe ser administrado.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é Luminity e para que é utilizado 2. Antes de Luminity lhe ser administrado 3. Como Luminity lhe é administrado 4. Efeitos secundários possíveis 5. Como conservar Luminity 6. Outras informações
+ 1. O QUE É LUMINITY E PARA QUE É UTILIZADO
+ O Luminity é um agente de contraste para ultra-sonografia, que contém bolhas de gás minúsculas.
+ Potencia as imagens observadas por ultra-sonografia e ajuda o seu médico a obter uma imagem mais nítida (scan) do seu coração.
+ Este medicamento é apenas para uso em diagnóstico.
+ 2. ANTES DE LUMINITY LHE SER ADMINISTRADO
+ Não utilize Luminity-se tem alergia (hipersensibilidade) ao perflutreno ou a qualquer outro componente de Luminity.
+ O Luminity não deve ser utilizado em crianças e adolescentes uma vez que não foi estudado nestes grupos.
+ Informe o seu médico no caso de já ter tido uma reacção alérgica com Luminity ou com outro agente de contraste para ultra-sonografia.
+ Tome especial cuidado com Luminity -se lhe disseram que tem um shunt cardíaco
+ -se tiver doenças pulmonares ou cardíacas graves
+ -se tiver uma válvula artificial no coração
+ -se tiver uma inflamação aguda grave/sepsia
+ -se tiver um sistema hiperactivo de coagulação/ou trombo-embolismo recorrente
+ -se tiver doença hepática
+ -se tiver doença renal
+ Ao utilizar Luminity com outros medicamentos Informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica.
+ 18 Gravidez e aleitamento Informe o seu médico se estiver grávida ou a amamentar e consulte o seu médico ou farmacêutico antes de Luminity lhe ser administrado.
+ Condução de veículos e utilização de máquinas A capacidade de conduzir ou utilizar máquinas não é afectada.
+ Informações importantes sobre alguns componentes de Luminity Este medicamento contém menos de 1 mmol de sódio (23 mg) por dose, i. e. é essencialmente" isento de sódio".
+ 3. COMO LUMINITY LHE É ADMINISTRADO O Luminity é administrado antes ou durante o seu exame de ultra-sonografia por profissionais dos cuidados de saúde, tais como médicos, que têm experiência neste tipo de exame. Estes profissionais dos cuidados de saúde irão calcular a dose adequada para si.
+ O Luminity é para administração por via intravenosa e a dispersão preparada pode ser diluída com uma solução injectável de cloreto de sódio 9 mg/ml (0,9%) ou de glucose 50 mg/ml (5%) e administrada por perfusão durante um período de tempo (gotejamento da solução), ou administrada sem ser diluída como injecção intravenosa (injecção directa na veia).
+ No exame de ultra-sonografia do coração, a dose recomendada consiste em injecções intravenosas múltiplas de 0,1 a 0,4 ml de Luminity, seguidas de uma injecção intravenosa de 3 a 5 ml de solução injectável de cloreto de sódio 9 mg/ml (0,9%) ou de glucose 50 mg/ml (5%). A dose total máxima é de 1,6 ml. O produto também pode ser administrado na dose de 10 microlitros/kg por injecção intravenosa, seguida de uma injecção intravenosa de 10 ml de solução injectável de cloreto de sódio 9 mg/ml (0,9%) ou de glucose 50 mg/ml (5%), dependendo da técnica de ultra-sonografia que o seu médico tenha escolhido utilizar. Em alguns casos, o seu médico também poderá optar por utilizar duas injecções para completar o exame de ultra-sonografia. O seu médico também poderá optar por administrar Luminity através de uma perfusão intravenosa de 1,3 ml adicionados a 50 ml de solução injectável de cloreto de sódio 9 mg/ml (0,9%) ou de glucose 50 mg/ml (5%). O seu médico decidirá qual a velocidade a que a perfusão deverá ser administrada.
+ Se lhe for administrado mais Luminity do que deveria Não se conhece qual é o efeito de uma sobredosagem.
+ 4. EFEITOS SECUNDÁRIOS POSSIVEIS Como todos os medicamentos, Luminity pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ Efeitos secundários frequentes (mais de 1 doente em 100, menos de 1 doente em 10) Cefaleias, rubor (vermelhidão).
+ Efeitos secundários pouco frequentes (mais de 1 doente em 1.000, menos de 1 doente em 100) Tonturas, alteração do paladar, pressão arterial baixa, dificuldade em respirar, garganta irritada, dor abdominal, diarreia, náuseas (sentir-se enjoado), vómitos, comichão, sudação aumentada, dor nas costas (dor lombar), dor no peito (dor torácica), fadiga, sensação de calor e dor no local da injecção.
+ Efeitos secundários raros (mais de 1 doente em 10.000, menos de 1 doente em 1.000) Entorpecimento, sensação de formigueiro ou ardor, frequência cardíaca alterada, palpitações (sentir o coração a bater mais forte ou de forma irregular), sensação de desmaio, aumento da pressão arterial, arrefecimento periférico, problemas respiratórios, tosse, garganta seca, dificuldade em engolir,
+ 19 erupção cutânea, vermelhidão da pele, dor nas articulações, dor lateral, dor no pescoço, cãimbra muscular, febre, rigidez muscular e electrocardiograma anormal.
+ Estes efeitos secundários geralmente desaparecem rapidamente sem qualquer tratamento.
+ Alguns doentes podem sofrer reacções alérgicas de tipo alérgico, tais como inchaço da face. No entanto, existe o risco de que estas reacções do tipo alérgico se tornem graves e possam incluir choque anafiláctico. Adicionalmente, alguns doentes podem ter convulsões, que podem estar associadas a estas reacções alérgicas.
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR LUMINITY Manter fora do alcance e da vista das crianças.
+ Não utilize Luminity após o prazo de validade impresso na embalagem exterior e no rótulo.
+ Antes da activação, conservar no frigorífico (2°C-8°C). Após a activação, não conservar acima de 30°C.
+ A dispersão deve ser-lhe administrada até 12 horas após a activação.
+ O produto pode ser re-activado até 48 horas após a activação inicial e utilizado até 12 horas após a segunda activação.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Luminity A substância activa é o perflutreno. Cada ml contém, no máximo, 6,4 x 109 microsferas lipídicas contendo perflutreno com diâmetro médio no intervalo de 1, 1-2,5 micrómetros. A quantidade aproximada de gás perflutreno em cada ml de Luminity é de 150 microlitros.
+ Os outros componentes são 1, 2-dipalmitoílo-sn-glicero-3-fosfatidilcolina (DPPC), sal monossódico de 1, 2-dipalmitoílo-sn-glicero-3-ácido fosfatídico (DPPA), sal monossódico de N-(metoxipolietileno glicol 5000 carbamoílo)-1, 2-dipalmitoílo-sn-glicero-3-fosfatidiletanolamina (MPEG5000 DPPE), dihidrogenofosfato de sódio mono-hidratado, fosfato de sódio dibásico hepta-hidratado, cloreto de sódio, propilenoglicol, glicerol e água para preparações injectáveis.
+ Qual o aspecto de Luminity e conteúdo da embalagem
+ O Luminity é uma solução para dispersão injectável ou para perfusão e está disponível numa embalagem contendo um ou quatro frascos para injectáveis de dose unitária com 1,5 ml.
+ É possível que não sejam comercializadas todas as apresentações.
+ Antes de activar o conteúdo do frasco para injectável, o Luminity apresenta-se como um líquido incolor, uniformemente límpido a translúcido. Após a activação, o produto tem o aspecto de um líquido branco leitoso.
+ Titular da Autorização de Introdução no Mercado Bristol-Myers Squibb Pharma Belgium Sprl Chaussée de la Hulpe,185/Terhulpsesteenweg 185
+ 20 B-1170 Bruxelles/Brussel Bélgica
+ Fabricante Bristol-Myers Squibb S. r. l. Via del Murillo Km 2,800 04010 Sermoneta (LT) Itália
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado:
+ Belgique/België/Belgien BRISTOL-MYERS SQUIBB BELGIUM S. A./N. V. Tél/Tel:+ 32 2 352 74 60
+ Luxembourg/Luxemburg BRISTOL-MYERS SQUIBB BELGIUM S. A./N. V. Tél/Tel:+ 32 2 352 74 60
+ България BRISTOL-MYERS SQUIBB GYÓGYSZERKERESKEDELMI KFT. Teл.:+ 359 800 12 400
+ Magyarország BRISTOL-MYERS SQUIBB GYÓGYSZERKERESKEDELMI KFT. Tel.:+ 36 1 301 9700
+ Česká republika BRISTOL-MYERS SQUIBB SPOL. S R. O. Tel: +420 221 016 111
+ Malta BRISTOL-MYERS SQUIBB S. R. L. Tel:+ 39 06 50 39 61
+ Danmark BRISTOL-MYERS SQUIBB Tlf:+ 45 45 93 05 06
+ Nederland BRISTOL-MYERS SQUIBB BV Tel:+ 31 34 857 42 22
+ Deutschland BRISTOL-MYERS SQUIBB GMBH &amp; CO. KGAA Tel:+ 49 89 121 42-0
+ Norge BRISTOL-MYERS SQUIBB NORWAY LTD Tlf:+ 47 67 55 53 50
+ Eesti BRISTOL-MYERS SQUIBB GYÓGYSZERKERESKEDELMI KFT. Tel: +372 640 1301
+ Österreich BRISTOL-MYERS SQUIBB GESMBH Tel:+ 43 1 60 14 30
+ Ελλάδα BRISTOL-MYERS SQUIBB A. E. Τηλ:+ 30 210 6074300
+ Polska BRISTOL-MYERS SQUIBB POLSKA SP. Z O. O. Tel.:+ 48 22 5796666
+ España BRISTOL-MYERS SQUIBB, S. A. Tel:+ 34 91 456 53 00
+ Portugal BRISTOL-MYERS SQUIBB FARMACÊUTICA PORTUGUESA, S. A. Tel:+ 351 21 440 70 00
+ France BRISTOL-MYERS SQUIBB SARL Tél:+ 33 (0) 810 410 500
+ România BRISTOL-MYERS SQUIBB GYÓGYSZERKERESKEDELMI KFT. Tel:+ 40 (0) 21 272 16 00
+ Ireland BRISTOL-MYERS SQUIBB PHARMACEUTICALS LTD Tel:+ 353 (1 800) 749 749
+ Slovenija BRISTOL-MYERS SQUIBB SPOL. S R. O. Tel:+ 386 1 236 47 00
+ 21 Ísland VISTOR HF Sími:+ 354 535 7000
+ Slovenská republika BRISTOL-MYERS SQUIBB SPOL. S R. O. Tel:+ 421 2 59298411
+ Italia BRISTOL-MYERS SQUIBB S. R. L. Tel:+ 39 06 50 39 61
+ Suomi/Finland OY BRISTOL-MYERS SQUIBB (FINLAND) AB Puh/Tel:+ 358 9 251 21 230
+ Κύπρος ΑΚΗΣ ΠΑΝΑΓΙΩΤΟΥ &amp; ΥΙΟΣ Ε. Π. Ε. Τηλ:+ 357 22 677038
+ Sverige BRISTOL-MYERS SQUIBB AB Tel:+ 46 8 704 71 00
+ Latvija BRISTOL-MYERS SQUIBB GYÓGYSZERKERESKEDELMI KFT. Tel:+ 371 6750 21 85
+ United Kingdom BRISTOL-MYERS SQUIBB PHARMACEUTICALS LTD Tel:+ 44 (0800) 731 1736
+ Lietuva BRISTOL-MYERS SQUIBB GYÓGYSZERKERESKEDELMI KFT. Tel: +370 5 2790 762
+ Este folheto foi aprovado pela última vez em
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu
+ ---------------------------------------------------------------------------------------------------------------------------A informação que se segue destina-se apenas aos médicos e aos profissionais de saúde:
+ É essencial seguir as instruções de utilização e manuseamento do Luminity e aderir a procedimentos assépticos rigorosos durante a preparação. Como os demais produtos parentéricos, os frascos para injectáveis têm de ser inspeccionados visualmente quanto à presença de partículas e à integridade dos frascos para injectáveis. Antes de administrar o produto, este tem de ser activado utilizando o Vialmix, um dispositivo de agitação mecânica. O Vialmix não está incluído na embalagem do Luminity, mas será fornecido aos profissionais dos cuidados de saúde ao encomendar a embalagem.
+ O Luminity é activado utilizando o Vialmix, que tem um tempo de agitação programado de 45 segundos. O Vialmix irá alertar o operador se a frequência de agitação for inferior a 5% ou mais da frequência pretendida. Está também programado para se desligar e fornecer avisos visuais e sonoros se a frequência de agitação exceder a frequência pretendida em 5% ou estiver abaixo da frequência pretendida em 10%.
+ Processo de activação e administração -O frasco para injectáveis deve ser activado utilizando o Vialmix. Imediatamente após a activação, o
+ Luminity tem o aspecto de uma dispersão branca leitosa.
+ Nota: se o produto ficar em repouso durante mais de 5 minutos após a activação, deverá ser re-suspenso com 10 segundos de agitação manual antes de ser retirado, com seringa, do frasco para injectáveis. O Luminity deverá ser utilizado no prazo de 12 horas após a activação. O produto pode ser re-activado até 48 horas após a activação inicial e utilizado até 12 horas após a segunda activação, quer seja conservado sob refrigeração ou à temperatura ambiente. Não conserve o frasco para injectáveis acima dos 30°C após a activação.
+ 22
+ -A rolha do frasco para injectáveis deve ser perfurada com uma agulha de seringa estéril ou com uma
+ mini-spike não siliconada estéril antes de retirar a dispersão.
+ -A dispersão deve ser retirada do frasco para injectáveis utilizando uma seringa com uma agulha
+ estéril de 18 a 20 gauge ou anexa a uma mini-spike não siliconada estéril. Quando se utilizar uma agulha, esta deverá ser posicionada de forma a retirar o material do meio do líquido no frasco para injectáveis invertido. Não deve ser injectado ar para o interior do frasco para injectáveis. O produto deve ser utilizado imediatamente após ser retirado do frasco para injectáveis.
+ -O Luminity pode ser diluído com solução injectável de cloreto de sódio 9 mg/ml (0,9%) ou solução
+ injectável de glicose 50 mg/ml (5%).
+ O conteúdo do frasco para injectáveis destina-se apenas a utilização única.
+ Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 23

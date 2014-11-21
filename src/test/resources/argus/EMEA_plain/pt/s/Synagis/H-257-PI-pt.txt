@@ -1,0 +1,419 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO 1. NOME DO MEDICAMENTO
+ Synagis 50 mg pó e solvente para solução injectável
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada frasco para injectáveis contém 50 mg de palivizumab, fornecendo 100 mg/ml de palivizumab, após reconstituição segundo as instruções.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Pó e solvente para solução injectável. Aglomerado seco e uniforme, branco ou quase branco.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Synagis é indicado na prevenção de infecções graves do tracto respiratório inferior requerendo hospitalização, causadas pelo vírus sincicial respiratório (RSV), em crianças com risco elevado de doença RSV:
+ • Crianças que nasceram com 35 semanas de gestação ou menos e com menos de 6 meses de idade no início da época do RSV. • Crianças com menos de 2 anos de idade e requerendo tratamento da displasia broncopulmonar nos últimos 6 meses. • Crianças com menos de 2 anos de idade e com doença cardíaca congénita hemodinamicamente importante.
+ 4.2 Posologia e modo de administração Dose recomendada A dose recomendada de palivizumab é de 15 mg/kg de peso corporal, administrados mensalmente durante os períodos em que se prevê o risco de RSV na comunidade. Sempre que possível, a primeira dose deve ser administrada antes do início da época do RSV. As doses subsequentes devem ser administradas mensalmente, durante a época do RSV.
+ A maioria da experiência, incluindo os ensaios clínicos de fase III com palivizumab, foi adquirida com 5 injecções durante uma estação (ver secção 5.1). Os dados apesar de limitados estão também disponíveis em relação a mais de cinco doses (ver secção 4.8 e secção 5.1), por isso o benefício em termos de protecção para além de 5 doses não foi estabelecido.
+ Para diminuir o risco de um novo internamento recomenda-se que as crianças internadas com RSV, que estejam tratadas com palivizumab, continuem a receber doses mensais de palivizumab durante a época do RSV.
+ Em crianças submetidas a bypass cardíaco recomenda-se a administração de uma injecção de 15 mg/kg de peso corporal de palivizumab logo que se verifique estabilização após a cirurgia, para garantir
+ 2 níveis séricos adequados de palivizumab. As doses subsequentes devem ser recomeçadas mensalmente até ao fim da estação RSV nas crianças que continuam em risco elevado de doença pelo RSV (ver secção 5.2)
+ Modo de administração Palivizumab é administrado numa dose mensal de 15 mg/kg de peso corporal por via intramuscular, de preferência na zona anterolateral da coxa. O músculo glúteo não deve ser usado por rotina como local de injecção, devido ao risco de lesão no nervo ciático. A injecção deve ser administrada usando as técnicas padrão de assépsia. Volumes superiores a 1 ml devem ser administrados em doses repartidas.
+ Para informação sobre a reconstituição de Synagis, ver secção 6.6.
+ 4.3 Contra-indicações Hipersensibilidade conhecida à substância activa ou a qualquer um dos excipientes (ver secção 6.1), ou a outros anticorpos monoclonais humanizados.
+ 4.4 Advertências e precauções especiais de utilização
+ Após a administração de palivizumab foram descritas reacções alérgicas incluindo casos muito raros de anafilaxia (ver secção 4.8).
+ Após a administração de palivizumab deverão estar disponíveis, para uso imediato, medicamentos para o tratamento de reacções graves de hipersensibilidade, incluindo anafilaxia.
+ A presença de uma infecção aguda, moderada a grave, ou doença febril pode justificar o adiamento da utilização de palivizumab, a não ser que o médico assistente considere que a não utilização de palivizumab constitua um risco maior. Uma doença febril ligeira, como por exemplo infecção ligeira do tracto respiratório superior, não é geralmente motivo para adiar a administração de palivizumab.
+ Como acontece com qualquer injecção intramuscular, palivizumab deve ser administrado com precaução em doentes com trombocitopenia ou qualquer problema de coagulação.
+ A eficácia de palivizumab quando administrado em doentes num segundo curso de tratamento numa uma época seguinte de RSV não foi formalmente investigada num estudo efectuado com esse objectivo. O possível risco de aumento da infecção pelo RSV na época seguinte àquela em que os doentes foram tratados com palivizumab, não foi conclusivamente excluído nos estudos efectuados tendo como objectivo este aspecto específico.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Não foram realizados estudos formais de interacção com outros medicamentos; no entanto, até à data não foram descritas quaisquer interacções. No estudo de Fase III IMpact-RSV em crianças prematuras e com displasia broncopulmonar, a proporção de doentes nos grupos tratados com placebo e palivizumab que receberam as vacinas de rotina, vacina da gripe, broncodilatadores ou corticosteroides foi semelhante e não se observou aumento nas reacções adversas entre os doentes tratados com estes medicamentos.
+ Considerando que o anticorpo monoclonal é específico para o RSV, não se espera que palivizumab interfira com a resposta imunitária às vacinas.
+ 4.6 Gravidez e aleitamento Não relevante. Synagis não é indicado para uso em adultos. Não estão disponíveis dados relativos à gravidez e aleitamento.
+ 3 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não relevante. 4.8 Efeitos indesejáveis As reacções adversas ao medicamento (ADRs) descritas nos estudos de profilaxia em crianças foram semelhantes nos grupos placebo e palivizumab. A maioria das ADRs foram transitórias e de gravidade ligeira a moderada.
+ Os acontecimentos adversos pelo menos possível e causalmente relacionados com o palivizumab, quer clínicos quer laboratoriais, são descritos por classes de sistemas de orgãos e frequência (frequentes ≥ 1/100, &lt; 1/10; pouco frequentes ≥ 1/1000, &lt; 1/100) em estudos efectuados em crianças prematuras e com displasia broncopulmonar e em doentes com doença cardíaca congénita (respectivamente, quadros 1 e 2). As reacções adversas são apresentadas por ordem decrescente de gravidade dentro de cada classe de frequência.
+ Quadro 1 Efeitos indesejáveis nos estudos clínicos de profilaxia em crianças prematuras e com displasia broncopulmonar
+ Exames complementares de diagnóstico
+ Pouco frequentes Aumento nos níveis de AST Aumento nos níveis de ALT Teste anormal da função hepática
+ Doenças do sangue e do sistema linfático
+ Pouco frequente Leucopenia Doenças respiratórias, torácicas e do mediastino
+ Pouco frequentes Respiração difícil e ruidosa Rinite Tosse
+ Doenças gastrointestinais Frequente Diarreia Pouco frequente Vómitos Afecções dos tecidos cutâneos e subcutâneas
+ Pouco frequente Erupção cutânea Infecções e infestações Pouco frequentes Infecção viral Infecção do tracto respiratório superior
+ Perturbações gerais e alterações no local de administração
+ Frequentes Febre Reacção no local da injecção Dor Pouco frequente
+ Perturbações do foro psiquiátrico
+ Frequente Nervosismo Nos estudos de profilaxia efectuados em crianças prematuras e com displasia broncopulmonar não se verificaram diferenças clinicamente importantes nas ADRs por sistema fisiológico ou quando 4 avaliadas em subgrupos de crianças por categoria clínica, sexo, idade, idade gestacional, país, raça/etnia ou concentração sérica de palivizumab. Não se verificou diferença significativa no perfil de segurança entre as crianças sem infecção por RSV activa e as hospitalizadas devido a RSV. A suspensão permanente do palivizumab devido a ADRs foi rara (0,2%). As mortes foram igualmente distribuídas pelos grupos placebo e palivizumab e não foram relacionadas com o fármaco.
+ Quadro 2 Efeitos indesejáveis no estudo clínico de profilaxia da doença cardíaca congénita
+ Doenças do sistema nervoso Pouco frequentes Sonolência Hiperquinesia Doenças respiratórias, torácicas e do mediastino
+ Pouco frequente Rinite Doenças gastrointestinais Pouco frequentes Vómitos Diarreia Obstipação Afecções dos tecidos cutâneos e subcutâneas
+ Pouco frequentes Erupção cutânea Eczema Infecções e infestações Pouco frequentes Gastroenterite Infecção do tracto respiratório superior
+ Vasculopatias Pouco frequente Hemorragia Perturbações gerais e alterações no local de administração
+ Frequentes Pouco
+ Febre Reacção no local da injecção frequente
+ Astenia Perturbações do foro psiquiátrico
+ Pouco frequente Nervosismo No estudo da doença cardíaca congénita não se observaram diferenças clinicamente importantes nas ADRs por sistema corporal ou quando avaliadas em subgrupos de crianças por categoria clínica. A incidência de efeitos adversos graves foi significativamente inferior no grupo palivizumab relativamente ao grupo placebo. Não foram descritos efeitos adversos graves relacionados com o palivizumab. As incidências de cirurgias cardíacas classificadas como planeado, mais cedo do que planeado ou urgentes foram iguamente distribuídas entre os grupos. Associadas à infecção por RSV ocorreram mortes em 2 doentes no grupo palivizumab e em 4 doentes no grupo placebo, que não foram relacionadas com o fármaco.
+ Experiência pós-comercialização: Durante a experiência pós-comercialização de palivizumab foram descritos os seguintes casos:
+ ADRs raras (&gt; 1/10.000, &lt; 1/1.000): apneia ADRs muito raras (&lt; 1/10.000): anafilaxia, urticária
+ Na pós-comercialização, foram avaliados os efeitos adversos espontâneos e graves, descritos durante o tratamento com palivizumab entre 1998 e 2002 e que abrangeram quatro estações RSV. Foram recebidas 1291 notificações graves nas quais o palivizumab tinha sido administrado como indicado e a duração do tratamento ocorreu durante uma estação. O início do efeito adverso ocorreu após a sexta dose ou superior em apenas 22 destes casos (15 após a sexta dose,6 após a sétima dose e 1 após a oitava dose). Estes efeitos são de tipo semelhante aos observados após as cinco doses iniciais. 5 O esquema de tratamento com palivizumab e os efeitos adversos foram monitorizados num grupo de quase 20.000 crianças seguidas através de um registo da adesão dos doentes ao tratamento entre 1998 e 2000. Neste grupo,1250 das crianças registadas receberam 6 injecções,183 crianças receberam 7 injecções e 27 crianças 8 ou 9 injecções. Os efeitos adversos observados nos doentes após uma sexta dose ou superior foram semelhantes em tipo e frequência aos observados após as 5 doses iniciais.
+ Resposta humana anticorpo anti-humano (HAHA): Observou-se formação de anticorpos ao palivizumab em aproximadamente 1% dos doentes durante o primeiro período de tratamento no estudo IMpact-RSV. Esta ocorrência foi transitória, de baixo título, teve resolução apesar do uso continuado (primeira e segunda épocas) e não foi detectada em 55/56 crianças durante a segunda época (incluindo 2 com título durante a primeira época). As respostas HAHA não parecem pois ter qualquer relevância clínica. No estudo da doença cardíaca congénita não foi estudada a imunogenicidade.
+ 4.9 Sobredosagem Em estudos clínicos, três crianças receberam uma dose superior a 15 mg/kg. Estas doses foram de 20,25 mg/kg, 21,1 mg/kg e 22,27 mg/kg. Não foram identificadas consequências médicas nestes casos.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Imunoglobulinas; Código ATC: J06BB16
+ Palivizumab é um anticorpo monoclonal humanizado IgG1K dirigido para um epítope no local antigénico A da proteina de fusão do vírus respiratório sincicial (RSV). Este anticorpo monoclonal humanizado é composto por sequências de anticorpos humanos (95%) e murinos (5%). Possui uma potente actividade neutralizante e inibitória de fusão contra o subtipo A e estirpes B do RSV.
+ Concentrações séricas de palivizumab de aproximadamente 30 μg/ml provocaram uma diminuição de 99% na replicação pulmonar do RSV, no modelo de rato “ cotton ”.
+ Estudos Clínicos Num ensaio controlado com placebo da profilaxia da doença por RSV (estudo IMpact-RSV) em 1502 crianças de alto risco (1002 Synagis; 500 placebo),5 doses mensais de 15 mg/kg reduziram a incidência de hospitalização relacionada com o RSV em cerca de 55% (p= &lt; 0,001). A percentagem de hospitalização por RSV foi de 10,6% no grupo placebo. Nesta base, a redução de risco absoluta (RRA) é de 5,8%, o que significa que o número necessário para tratar (NNT) é de 17 para prevenir um internamento. A gravidade da doença por RSV em crianças hospitalizadas apesar da profilaxia com palivizumab em termos de dias de permanência na UCI por 100 crianças e dias de ventilação mecânica por 100 crianças não foi afectada.
+ Um total de 222 crianças foram admitidas em dois estudos separados para avaliar a segurança do palivizumab quando foi administrado numa segunda época RSV. Cento e três (103) crianças receberam injecções mensais de palivizumab pela primeira vez e 119 crianças receberam palivizumab durante duas épocas consecutivas. Não se verificaram diferenças entre os grupos relativamente à imunogenicidade em qualquer dos estudos. Não se verificaram diferenças entre os grupos relativamente à imunogenicidade em qualquer dos estudos. No entanto, dado que a eficácia de palivizumab quando administrado em doentes num segundo período de tratamento durante uma época RSV subsequente não foi formalmente investigada através de um estudo com este objectivo, desconhece-se a relevância destes dados para a eficácia.
+ Num ensaio clínico prospectivo aberto destinado a avaliar a farmacocinética, segurança eimunogenicidade após a administração de 7 doses de palivizumab durante uma única estação RSV, os 6 dados de farmacocinética sugeriram que foram alcançados níveis médios adequados de palivizumab em todas as 18 crianças incluídas no estudo. Observaram-se níveis baixos e transitórios de anticorpo anti-palivizumab numa criança após a segunda dose de palivizumab, que desceram para níveis indetectáveis à quinta e sétima doses.
+ Num estudo controlado com placebo efectuado em 1287 doentes com ≤ 24 meses de idade comdoença cardíaca congénita hemodinamicamente importante (639 tratados com Synagis; 648 tratados com placebo), doses de 15 mg/Kg de Synagis administradas durante 5 meses reduziram a incidência de hospitalização por RSV cerca de 45% (p= 0,003) (estudo da doença cardíaca congénita). Os grupos foram igualmente distribuídos entre os doentes cianosados e não cianosados. A taxa de hospitalização por RSV foi de 9,7% no grupo placebo e de 5,3% no grupo Synagis. Os limites de eficácia secundária revelaram reduções importantes no grupo Synagis relativamente ao grupo placebo no total de dias de hospitalização por RSV (56% de redução, p= 0,003) e no total de dias de RSV em que se aumentou o oxigénio suplementar (73% de redução, p= 0,014) em 100 crianças.
+ 5.2 Propriedades farmacocinéticas Em estudos efectuados em voluntários adultos, palivizumab apresentou um perfil de farmacocinética semelhante ao do anticorpo da IgG1 humana relativamente ao volume de distribuição (média 57 ml/kg) e semi-vida (média de 18 dias). Em estudos de profilaxia efectuados em prematuros e com displasia broncopulmonar, a semi-vida média do palivizumab foi de 20 dias e as doses mensais intramusculares de 15 mg/kg alcançaram concentrações séricas médias de substância activa aos 30 dias de aproximadamente 40 μg/ml após a primeira injecção, aproximadamente 60 μg/ml após a segunda injecção, aproximadamente 70 μg/ml após a terceira e quarta injecções. No estudo da doença cardíaca congénita, doses intramusculares mensais de 15 mg/Kg alcançaram concentrações séricas médias de substância activa aos 30 dias de aproximadamente 55 μg/ml após a primeira injecção e aproximadamente 90 μg/ml após a quarta injecção.
+ No estudo de doença cardíaca congénita, entre as 139 crianças tratadas com palivizumab com bypass cardio-pulmonar e para as quais estavam disponíveis amostras duplas de soro, a concentração sérica média de palivizumab era de aproximadamente 100 μg/ml antes do bypass cardíaco e diminuiu para aproximadamente 40 μg/ml após o bypass.
+ 5.3 Dados de segurança pré-clínica Foram efectuados estudos de toxicidade com dose simples em macacos cynomolgus (dose máxima 30 mg/kg), coelhos (dose máxima 50 mg/kg) e ratos (dose máxima 840 mg/kg). Não se observaram achados importantes.
+ Estudos efectuados em roedores não revelaram qualquer aumento na replicação de RSV ou de patologia induzida por RSV ou geração de mutantes do vírus na presença do palivizumab, nas condições experimentais escolhidas.
+ 6. INFORMAÇÕES FARMACÊUTICAS Lista dos excipientes 6.1
+ Pó: Histidina, Glicina, Manitol. Água para preparações injectáveis. 7 6.2 Incompatibilidades
+ Palivizumab não deve ser misturado com quaisquer medicamentos ou diluentes além da água para preparações injectáveis.
+ 6.3 Prazo de validade 3 anos. Após a reconstituição segundo as instruções: 3 horas
+ 6.4 Precauções especiais de conservação
+ Conservar no frigorífico (2º C-8º C). Não congelar. Conservar na embalagem de origem.
+ Condições de conservação do medicamento reconstituído, ver secção 6.3.
+ 6.5 Natureza e conteúdo do recipiente Synagis pó em frasco para injectáveis de vidro tipo I, de 4 ml, transparente, incolor, com rolha de bromobutil e cápsula “ flip-off ” de alumínio contendo 50 mg de palivizumab, fornece 100 mg/ml de palivizumab depois de reconstituído como recomendado.
+ Água para preparações injectáveis em ampola de vidro tipo I, transparente, incolor, contendo 1 ml de água para preparações injectáveis.
+ Cada embalagem contém um frasco para injectáveis de Synagis pó e uma ampola de água para preparações injectáveis.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ LENTAMENTE adicionar 0,6 ml de água para preparações injectáveis ao longo da parede interior do frasco para injectáveis para minimizar a formação de espuma. Depois de adicionar a água, inclinar o frasco para injectáveis ligeiramente e rodar cuidadosamente durante 30 segundos. NÃO AGITAR O FRASCO PARA INJECTÁVEIS. A solução de palivizumab deve ser mantida à temperatura ambiente durante um mínimo de 20 minutos até que a solução fique límpida. A solução de palivizumab não contém conservantes e deve ser administrada no período de 3 horas após a preparação.
+ Depois de reconstituído segundo as instruções, a concentração final é de 100 mg/ml. Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Abbott Laboratories Limited Queenborough, Kent ME11 5EL Reino Unido
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/99/117/001 8 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 13 Agosto 1999 Data da última renovação: 13 Agosto 2004
+ 10. DATA DA REVISÃO DO TEXTO Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu/
+ 9 1. NOME DO MEDICAMENTO
+ Synagis 100 mg pó e solvente para solução injectável
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada frasco para injectáveiscontém 100 mg de palivizumab, fornecendo 100 mg/ml de palivizumab, após reconstituição segundo as instruções.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Pó e solvente para solução injectável. Aglomerado seco e uniforme, branco ou quase branco.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Synagis é indicado na prevenção de infecções graves do tracto respiratório inferior requerendo hospitalização, causadas pelo vírus sincicial respiratório (RSV) em crianças com risco elevado de doença RSV:
+ • Crianças que nasceram com 35 semanas de gestação ou menos ou e com menos de 6 meses de idade no início da época do RSV. • Crianças com menos de 2 anos de idade e requerendo tratamento da displasia broncopulmonar nos últimos 6 meses. • Crianças com menos de 2 anos de idade e com doença cardíaca congénita hemodinamicamente importante.
+ 4.2 Posologia e modo de administração Dose recomendada A dose recomendada de palivizumab é de 15 mg/kg de peso corporal, administrados mensalmente durante os períodos em que se prevê o risco de RSV na comunidade. Sempre que possível, a primeira dose deve ser administrada antes do início da época do RSV. As doses subsequentes devem ser administradas mensalmente, durante a época do RSV.
+ A maioria da experiência, incluindo os ensaios clínicos de fase III com palivizumab, foi adquirida com 5 injecções durante uma estação (ver secção 5.1). Os dados apesar de limitados estão também disponíveis em relação a mais de cinco doses (ver secção 4.8 e secção 5.1), por isso o benefício em termos de protecção para além de 5 doses não foi estabelecido.
+ Para diminuir o risco de um novo internamento recomenda-se que as crianças internadas com RSV, que estejam tratadas com palivizumab, continuem a receber doses mensais de palivizumab durante a época do RSV.
+ Em crianças submetidas a bypass cardíaco recomenda-se a administração de uma injecção de 15 mg/kg de peso corporal de palivizumab logo que se verifique estabilização após a cirurgia, para garantir níveis séricos adequados de palivizumab. As doses subsequentes devem ser recomeçadas
+ 10 mensalmente até ao fim da estação RSV nas crianças que continuam em risco elevado de doença pelo RSV (ver secção 5.2).
+ Modo de administração Palivizumab é administrado numa dose mensal de 15 mg/kg de peso corporal por via intramuscular, de preferência na zona anterolateral da coxa. O músculo glúteo não deve ser usado por rotina como local de injecção, devido ao risco de lesão no nervo ciático. A injecção deve ser administrada usando as técnicas padrão de assépsia. Volumes superiores a 1 ml devem ser administrados em doses repartidas.
+ Para informação sobre a reconstituição de Synagis (ver secção 6.6).
+ 4.3 Contra-indicações Hipersensibilidade conhecida à substância activa ou a qualquer um dos excipientes (ver secção 6.1), ou a outros anticorpos monoclonais humanizados.
+ 4.4 Advertências e precauções especiais de utilização
+ Após a administração de palivizumab foram descritas reacções alérgicas incluindo casos muito raros de anafilaxia (ver secção 4.8)
+ Após a administração de palivizumab deverão estar disponíveis, para uso imediato, medicamentos para o tratamento de reacções graves de hipersensibilidade, incluindo anafilaxia.
+ A presença de uma infecção aguda, moderada a grave, ou doença febril pode justificar o adiamento da utilização de palivizumab, a não ser que o médico assistente considere que a não utilização de palivizumab constitua um risco maior. Uma doença febril ligeira, como por exemplo infecção ligeira do tracto respiratório superior, não é geralmente motivo para adiar a administração de palivizumab.
+ Como acontece com qualquer injecção intramuscular, palivizumab deve ser administrado com precaução em doentes com trombocitopenia ou qualquer problema de coagulação.
+ A eficácia de palivizumab quando administrado em doentes num segundo curso de tratamento numa uma época seguinte de RSV não foi formalmente investigada num estudo efectuado com esse objectivo. O possível risco de aumento da infecção pelo RSV na época seguinte àquela em que os doentes foram tratados com palivizumab, não foi conclusivamente excluído nos estudos efectuados tendo como objectivo este aspecto específico.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Não foram efectuados estudos formais de interacção com outros medicamentos; no entanto, até à data não foram descritas quaisquer interacções. No estudo de Fase III IMpact-RSV em crianças prematuras e com displasia broncopulmonar, a proporção de doentes nos grupos tratados com placebo e palivizumab que receberam as vacinas de rotina, vacina da gripe, broncodilatadores ou corticosteroides foi semelhante e não se observou aumento nas reacções adversas entre os doentes tratados com estes medicamentos.
+ Considerando que o anticorpo monoclonal é específico para o RSV, não se espera que palivizumab interfira com a resposta imunitária às vacinas.
+ 4.6 Gravidez e aleitamento Não relevante. Synagis não é indicado para uso em adultos. Não estão disponíveis dados relativos à gravidez e aleitamento.
+ 11 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não relevante. 4.8 Efeitos indesejáveis As reacções adversas ao medicamento (ADRs) descritas nos estudos de profilaxia em crianças foram semelhantes nos grupos placebo e palivizumab. A maioria das ADRs foram transitórias e de gravidade ligeira a moderada.
+ Os acontecimentos adversos pelo menos possível e causalmente relacionados com o palivizumab, quer clínicos quer laboratoriais, são descritos por classes de sistemas de orgãos e frequência (frequentes ≥ 1/100, &lt; 1/10; pouco frequentes ≥ 1/1000, &lt; 1/100) em estudos efectuados em crianças prematuras e com displasia broncopulmonar e em doentes com doença cardíaca congénita (respectivamente, quadros 1 e 2). As reacções adversas são apresentadas por ordem decrescente de gravidade dentro de cada classe de frequência.
+ Quadro 1 Efeitos indesejáveis nos estudos clínicos de profilaxia em crianças prematuras e com displasia broncopulmonar
+ Exames complementares de diagnóstico
+ Pouco frequentes Aumento níveis de AST Aumento nos níveis de ALT Teste anormal da função hepática
+ Doenças do sangue e do sistema linfático
+ Pouco frequente Leucopenia Doenças respiratórias, torácicas e do mediastino
+ Pouco frequentes Respiração difícil e ruidosa Rinite Tosse
+ Doenças gastrointestinais Frequente Diarreia Pouco frequente Vómitos Afecções dos tecidos cutâneos e subcutâneas
+ Pouco frequentes Erupção cutânea Infecções e infestações Pouco frequentes Infecção viral Infecção do tracto respiratório superior
+ Perturbações gerais e alterações no local de administração
+ Frequentes Febre Reacção no local da injecção Dor Pouco frequente
+ Perturbações do foro psiquiátrico
+ Frequente Nervosismo Nos estudos de profilaxia efectuados em crianças prematuras e com displasia broncopulmonar não se verificaram diferenças clinicamente importantes nas ADRs por sistema fisiológico ou quando 12 avaliadas em subgrupos de crianças por categoria clínica, sexo, idade, idade gestacional, país, raça/etnia ou concentração sérica de palivizumab. Não se verificou diferença significativa no perfil de segurança entre as crianças sem infecção por RSV activa e as hospitalizadas devido a RSV. A suspensão permanente do palivizumab devido a ADRs foi rara (0,2%). As mortes foram igualmente distribuídas pelos grupos placebo e palivizumab e não foram relacionadas com o fármaco.
+ Quadro 2 Efeitos indesejáveis no estudo clínico de profilaxia da doença cardíaca congénita
+ Doenças do sistema nervoso Pouco frequentes Sonolência Hiperquinesia Doenças respiratórias, torácicas e do mediastino
+ Pouco frequente Rinite Doenças gastrointestinais Pouco frequentes Vómitos Diarreia Obstipação Afecções dos tecidos cutâneos e subcutâneas
+ Pouco frequentes Erupção cutânea Eczema Infecções e infestações Pouco frequentes Gastroenterite Infecção do tracto respiratório superior
+ Vasculopatias Pouco frequente Hemorragia Perturbações gerais e alterações no local de administração
+ Frequentes Pouco
+ Febre Reacção no local da injecção frequente
+ Astenia Perturbações do foro psiquiátrico
+ Pouco frequente Nervosismo No estudo da doença cardíaca congénita não se observaram diferenças clinicamente importantes nas ADRs por sistema corporal ou quando avaliadas em subgrupos de crianças por categoria clínica. A incidência de efeitos adversos graves foi significativamente inferior no grupo palivizumab relativamente ao grupo placebo. Não foram descritos efeitos adversos graves relacionados com o palivizumab. As incidências de cirurgias cardíacas classificadas como planeado, mais cedo do que planeado ou urgentes foram igualmente distribuídas entre os grupos. Associadas à infecção por RSV ocorreram mortes em 2 doentes no grupo palivizumab e em 4 doentes no grupo placebo, que não foram relacionadas com o fármaco.
+ Experiência pós-comercialização: Durante a experiência pós-comercialização de palivizumab foram descritos os seguintes casos:
+ ADRs raras (&gt; 1/10.000, &lt; 1/1.000): apneia ADRs muito raras (&lt; 1/10.000): anafilaxia, urticária
+ Na pós-comercialização, foram avaliados os efeitos adversos espontâneos e graves, descritos durante o tratamento com palivizumab entre 1998 e 2002 e que abrangeram quatro estações RSV. Foram recebidas 1291 notificações graves nas quais o palivizumab tinha sido administrado como indicado e a duração do tratamento ocorreu durante uma estação. O início do efeito adverso ocorreu após a sexta dose ou superior em apenas 22 destes casos (15 após a sexta dose,6 após a sétima dose e 1 após a oitava dose). Estes efeitos são de tipo semelhante aos observados após as cinco doses iniciais. 13 O esquema de tratamento com palivizumab e os efeitos adversos foram monitorizados num grupo de quase 20.000 crianças seguidas através de um registo da adesão dos doentes ao tratamento entre 1998 e 2000. Neste grupo,1250 das crianças registadas receberam 6 injecções,183 crianças receberam 7 injecções e 27 crianças 8 ou 9 injecções. Os efeitos adversos observados nos doentes após uma sexta dose ou superior foram semelhantes em tipo e frequência aos observados após as 5 doses iniciais.
+ Resposta humana anticorpo anti-humano (HAHA): Observou-se formação de anticorpos ao palivizumab em aproximadamente 1% dos doentes durante o primeiro período de tratamento no estudo IMpact-RSV. Esta ocorrência foi transitória, de baixo título, teve resolução apesar do uso continuado (primeira e segunda épocas) e não foi detectada em 55/56 crianças durante a segunda época (incluindo 2 com título durante a primeira época). As respostas HAHA não parecem pois ter qualquer relevância clínica. No estudo da doença cardíaca congénita não foi estudada a imunogenicidade.
+ 4.9 Sobredosagem Em estudos clínicos, três crianças receberam uma dose superior a 15 mg/kg. Estas doses foram de 20,25 mg/kg, 21,1 mg/kg e 22,27 mg/kg. Não foram identificadas consequências médicas nestes casos.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Imunoglobulinas; Código ATC: J06BB16
+ Palivizumab é um anticorpo monoclonal humanizado IgG1K dirigido para um epítope no local antigénico A da proteina de fusão do vírus respiratório sincicial (RSV). Este anticorpo monoclonal humanizado é composto por sequências de anticorpos humanos (95%) e murinos (5%). Possui uma potente actividade neutralizante e inibitória de fusão contra o subtipo A e estirpes B do RSV.
+ Concentrações séricas de palivizumab de aproximadamente 30 μg/ml provocaram uma diminuição de 99% na replicação pulmonar do RSV, no modelo de rato “ cotton ”.
+ Estudos Clínicos Num ensaio controlado com placebo da profilaxia da doença por RSV (estudo IMpact-RSV) em 1502 crianças de alto risco (1002 Synagis; 500 placebo),5 doses mensais de 15 mg/kg reduziram a incidência de hospitalização relacionada com o RSV em cerca de 55% (p= &lt; 0,001). A percentagem de hospitalização por RSV foi de 10,6% no grupo placebo. Nesta base, a redução de risco absoluta (RRA) é de 5,8%, o que significa que o número necessário para tratar (NNT) é de 17 para prevenir um internamento. A gravidade da doença por RSV em crianças hospitalizadas apesar da profilaxia com palivizumab em termos de dias de permanência na UCI por 100 crianças e dias de ventilação mecânica por 100 crianças não foi afectada.
+ Um total de 222 crianças foram admitidas em dois estudos separados para avaliar a segurança do palivizumab quando foi administrado numa segunda época RSV. Cento e três (103) crianças receberam injecções mensais de palivizumab pela primeira vez e 119 crianças receberam palivizumab durante duas épocas consecutivas. Não se verificaram diferenças entre os grupos relativamente à imunogenicidade em qualquer dos estudos. No entanto, dado que a eficácia de palivizumab quando administrado em doentes num segundo período de tratamento durante uma época RSV subsequente não foi formalmente investigada através de um estudo com este objectivo, desconhece-se a relevância destes dados para a eficácia.
+ Num ensaio clínico prospectivo aberto destinado a avaliar a farmacocinética, segurança eimunogenicidade após a administração de 7 doses de palivizumab durante uma única estação RSV, os dados de farmacocinética sugeriram que foram alcançados níveis médios adequados de palivizumab 14 em todas as 18 crianças incluídas no estudo. Observaram-se níveis baixos e transitórios de anticorpo anti-palivizumab numa criança após a segunda dose de palivizumab, que desceram para níveis indetectáveis à quinta e sétima doses.
+ Num estudo controlado com placebo efectuado em 1287 doentes com ≤ 24 meses de idade com doença cardíaca congénita hemodinamicamente importante (639 tratados com Synagis; 648 tratados com placebo), doses de 15 mg/Kg de Synagis administradas durante 5 meses reduziram a incidência de hospitalização por RSV cerca de 45% (p= 0,003) (estudo da doença cardíaca congénita). Os grupos foram igualmente distribuídos entre os doentes cianosados e não cianosados. A taxa de hospitalização por RSV foi de 9,7% no grupo placebo e de 5,3% no grupo Synagis. Os limites de eficácia secundária revelaram reduções importantes no grupo Synagis relativamente ao grupo placebo no total de dias de hospitalização por RSV (56% de redução, p= 0,003) e no total de dias de RSV em que se aumentou o oxigénio suplementar (73% de redução, p= 0,014) em 100 crianças.
+ 5.2 Propriedades farmacocinéticas Em estudos efectuados em voluntários adultos, palivizumab apresentou um perfil de farmacocinética semelhante ao do anticorpo da IgG1 humana relativamente ao volume de distribuição (média 57 ml/kg) e semi-vida (média de 18 dias). Em estudos de profilaxia efectuados em prematuros e com displasia broncopulmonar, a semi-vida média do palivizumab foi de 20 dias e as doses mensais intramusculares de 15 mg/kg alcançaram concentrações séricas médias de substância activa aos 30 dias de aproximadamente 40 μg/ml após a primeira injecção, aproximadamente 60 μg/ml após a segunda injecção, aproximadamente 70 μg/ml após a terceira e quarta injecções. No estudo da doença cardíaca congénita, doses intramusculares mensais de 15 mg/Kg alcançaram concentrações séricas médias de substância activa aos 30 dias de aproximadamente 55 μg/ml após a primeira injecção e aproximadamente 90 μg/ml após a quarta injecção.
+ No estudo de doença cardíaca congénita, entre as 139 crianças tratadas com palivizumab com bypass cardio-pulmonar e para as quais estavam disponíveis amostras duplas de soro, a concentração sérica média de palivizumab era de aproximadamente 100 μg/ml antes do bypass cardíaco e diminuiu para aproximadamente 40 μg/ml após o bypass.
+ 5.3 Dados de segurança pré-clínica Foram efectuados estudos de toxicidade com dose simples em macacos cynomolgus (dose máxima 30 mg/kg), coelhos (dose máxima 50 mg/kg) e ratos (dose máxima 840 mg/kg). Não se observaram achados importantes.
+ Estudos efectuados em roedores não revelaram qualquer aumento na replicação de RSV ou de patologia induzida por RSV ou geração de mutantes do vírus na presença do palivizumab, nas condições experimentais escolhidas.
+ 6. INFORMAÇÕES FARMACÊUTICAS Lista dos excipientes 6.1
+ Pó: Histidina, Glicina, Manitol. Água para preparações injectáveis. 15 6.2 Incompatibilidades
+ Palivizumab não deve ser misturado com quaisquer medicamentos ou diluentes além da água para preparações injectáveis.
+ 6.3 Prazo de validade 3 anos. Após a reconstituição segundo as instruções: 3 horas
+ 6.4 Precauções especiais de conservação
+ Conservar no frigorífico (2º C-8º C). Não congelar. Conservar na embalagem de origem.
+ Condições de conservação do medicamento reconstituído, ver secção 6.3.
+ 6.5 Natureza e conteúdo do recipiente Synagis pó em frasco para injectáveis de vidro tipo I, de 10 ml, transparente, incolor, com rolha de bromobutil e cápsula “ flip-off” de alumínio contendo 100 mg de palivizumab, fornece 100 mg/ml de palivizumab depois de reconstituído como recomendado.
+ Água para preparações injectáveis em ampola de vidro tipo I, transparente, incolor, contendo 1 ml de água para preparações injectáveis.
+ Cada embalagem contém um frasco para injectáveis de Synagis pó e uma ampola de água para preparações injectáveis.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ LENTAMENTE adicionar 1,0 ml de água para preparações injectáveis ao longo da parede interior do frasco para injectáveis para minimizar a formação de espuma. Depois de adicionar a água, inclinar o frasco para injectáveis ligeiramente e rodar cuidadosamente durante 30 segundos. NÃO AGITAR O FRASCO PARA INJECTÁVEIS. A solução de palivizumab deve ser mantida à temperatura ambiente durante um mínimo de 20 minutos até que a solução fique límpida. A solução de palivizumab não contém conservantes e deve ser administrada no período de 3 horas após a preparação.
+ Depois de reconstituído segundo as instruções, a concentração final é de 100 mg/ml. Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Abbott Laboratories Limited Queenborough, Kent ME11 5EL Reino Unido
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/99/117/002 16 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 13 Agosto 1999 Data da última renovação: 13 Agosto 2004
+ 10. DATA DA REVISÃO DO TEXTO Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu/
+ 17 ANEXO II
+ A. FABRICANTE(S) DA(S) SUBSTÂNCIA(S) ACTIVA(S) DE ORIGEM BIOLÓGICA E TITULAR(ES) DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 18 A. FABRICANTE(S) DA(S) SUBSTÂNCIA(S) ACTIVA(S) DE ORIGEM BIOLÓGICA E TITULAR(ES) DE AUTORIZAÇÃO DE FABRICO RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do(s) fabricante(s) da substância activa de origem biológica
+ Boehringer Ingelheim Pharma GmbH &amp; Co. KG D-88397 Biberach an der Riss Alemanha
+ Nome e endereço do(s) fabricante(s) responsável(veis) pela libertação do lote
+ Abbott SRL I 104010 Campoverdi di Aprilia (Latina) Itália
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento sujeito a receita médica • CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ Não aplicável. 19 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 20 A. ROTULAGEM
+ 21 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ Cartonagem de SYNAGIS 50 mg 1. NOME DO MEDICAMENTO SYNAGIS 50 mg pó e solvente para solução injectável Palivizumab
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada frasco para injectáveis contém 50 mg de palivizumab, fornecendo 100 mg/ml de palivizumab quando reconstituído de acordo com as instruções.
+ 3. LISTA DOS EXCIPIENTES Contém também histidina, glicina e manitol.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Pó e solvente para solução injectável Contém: 1 Frasco para injectáveis de SYNAGIS 50 mg 1 ampola de 1 ml de água para preparações injectáveis
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Reconstituir LENTAMENTE com 0,6 ml de água para preparações injectáveis. Rodar suavemente. NÃO AGITAR. Deixar descansar durante 20 minutos. Usar no período de 3 horas após reconstituição.
+ Consultar o folheto informativo antes de utilizar.
+ Via intramuscular. 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. 22 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico. Não congelar. Conservar na embalagem de origem.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Abbott Laboratories Ltd Queenborough Kent ME11 5EL Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/99/117/001 13. NÚMERO DO LOTE Lote: 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Foi aceite a justificação para não incluir a informação em Braille
+ 23 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ Rótulo do Frasco para injectáveis SYNAGIS 50 mg
+ 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ SYNAGIS 50 mg pó para solução injectável Palivizumab Via intramuscular
+ 2. MODO DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar
+ 3. PRAZO DE VALIDADE VAL. 4. NÚMERO DO LOTE Lote 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ Palivizumab 50 mg 6. OUTRAS 24 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ Cartonagem de SYNAGIS 100 mg 1. NOME DO MEDICAMENTO SYNAGIS 100 mg pó e solvente para solução injectável Palivizumab
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada frasco para injectáveis contém 100 mg de palivizumab, fornecendo 100 mg/ml de palivizumab quando reconstituído de acordo com as instruções.
+ 3. LISTA DOS EXCIPIENTES Contém também histidina, glicina e manitol.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Pó e solvente para solução injectável Contém: 1 Frasco para injectáveis de SYNAGIS 100 mg 1 ampola de 1 ml de água para preparações injectáveis
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Reconstituir LENTAMENTE com 1,0 ml de água para preparações injectáveis. Rodar suavemente. NÃO AGITAR. Deixar descansar durante 20 minutos. Usar no período de 3 horas após reconstituição.
+ Consultar o folheto informativo antes de utilizar.
+ Via intramuscular. 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. 25 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico. Não congelar. Conservar na embalagem de origem.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Abbott Laboratories Ltd Queenborough Kent ME11 5EL Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/99/117/002 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Foi aceite a justificação para não incluir a informação em Braille
+ 26 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ Rótulo do Frasco para injectáveis SYNAGIS 100 mg
+ 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ SYNAGIS 100 mg pó para solução injectável Palivizumab Via intramuscular
+ 2. MODO DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar
+ 3. PRAZO DE VALIDADE VAL. 4. NÚMERO DO LOTE Lote 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ Palivizumab 100 mg 6. OUTRAS 27 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ SYNAGIS-Rótulo da Ampola de Água para Preparações Injectáveis
+ 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Água para preparações injectáveis 2. MODO DE ADMINISTRAÇÃO 3. PRAZO DE VALIDADE VAL. 4. NÚMERO DO LOTE Lote 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 1 ml 6. OUTRAS 28 B. FOLHETO INFORMATIVO
+ 29 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Synagis 50 mg pó e solvente para solução injectável Palivizumab
+ Leia atentamente este folheto porque ele contém informação importante para si e para o seu filho
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para o seu filho. Não deve dá-lo a outros; o medicamento pode
+ ser-lhes prejudicial mesmo que apresentem os mesmos sintomas que o seu filho.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é Synagis e para que é utilizado 2. Antes de Synagis ser administrado ao seu filho 3. Como irá o meu filho receber Synagis 4. Efeitos secundários possíveis 5. Como conservar Synagis 6. Outras informações
+ 1. O QUE É SYNAGIS E PARA QUE É UTILIZADO
+ Synagis contém uma substância activa chamada palivizumab, que é um anticorpo que actua especificamente contra um vírus chamado vírus sincicial respiratório, RSV.
+ O seu filho corre o risco de ter uma doença causada por um vírus chamado vírus sincicial respiratório (RSV). Synagis é um medicamento que ajuda a proteger o seu filho da doença grave por RSV.
+ 2. ANTES DE SYNAGIS SER ADMINISTRADO AO SEU FILHO
+ Synagis não deverá ser administrado ao seu filho
+ -se tem alergia (hipersensibilidade) à substância activa de Synagis (palivizumab) ou a qualquer
+ outro componente de Synagis (ver lista completa de componentes na secção 6).
+ Tome especial cuidado com Synagis -se o seu filho não estiver bem. Informe o seu médico se o seu filho não estiver bem, porque poderá
+ ser necessário adiar a administração de Synagis.
+ -se o seu filho tiver quaisquer problemas de hemorragias, dado que Synagis é geralmente injectado
+ na coxa.
+ Ao utilizar Synagis com outros medicamentos
+ Desconhece-se se Synagis tem interacção com outros medicamentos; no entanto, deverá informar o seu médico sobre todos os medicamentos que o seu filho esteja a tomar antes de iniciar o tratamento com Synagis.
+ 30 3. COMO IRÁ O MEU FILHO RECEBER SYNAGIS
+ Instruções para uma utilização apropriada
+ Com que frequência será Synagis administrado ao meu filho? Synagis deverá ser administrado ao seu filho numa dose de 15 mg/kg de peso corporal, uma vez por mês, enquanto persistir o risco de infecção por RSV. Para melhor protecção do seu filho é necessário seguir as instruções do médico sobre quando voltar a administrar doses adicionais de Synagis.
+ Se o seu filho tiver que ser submetido a uma cirurgia ao coração (cirurgia por bypass cardíaco), ele pode ter que receber uma dose adicional de Synagis após a cirurgia. O seu filho pode então voltar ao esquema original de injecções como planeado.
+ Como receberá o meu filho o Synagis? Synagis será administrado ao seu filho através de uma injecção num músculo, geralmente na parte exterior da coxa.
+ O que deve fazer se achar que o seu filho adoeceu durante o tratamento com Synagis? Se o seu filho adoecer, deve contactar o seu médico imediatamente.
+ O que fazer se o seu filho falhar uma injecção de Synagis? Se o seu filho falhar uma injecção, deve contactar o seu médico logo que possível. Cada injecção de Synagis só protege o seu filho durante cerca de um mês, antes de ser necessária nova injecção.
+ Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou farmacêutico.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todos os medicamentos, Synagis pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ Que efeitos secundários podem ocorrer durante o tratamento com Synagis? Frequentes (afectam 1 a 10 utilizadores em cada 100): febre; nervosismo; vermelhidão ou inchaço no local da injecção; diarreia.
+ Pouco frequentes (afectam 1 a 100 utilizadores em cada 1.000): constipações; tosse; corrimento nasal; sibilos; vómitos; erupção cutânea; dor; infecção viral; hemorragia; fraqueza; prisão de ventre; sonolência; hiperactividade; redução na contagem de glóbulos brancos; aumento nos testes da função hepática, observado em testes ao sangue.
+ 31 Raros (afectam 1 a 10 utilizadores em cada 10.000): uma pausa respiratória ou outros problemas respiratórios.
+ Muito raros (afectam menos de 1 utilizador em cada 10.000): reacções alérgicas graves.
+ O que deve fazer em caso de ocorrência de efeitos secundários? Se o seu filho apresentar quaisquer efeitos secundários após a administração de Synagis, deve contactar o seu médico. Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, contacte o seu médico.
+ 5. COMO CONSERVAR SYNAGIS Manter fora do alcance e da vista das crianças.
+ Não utilize Synagis após o prazo de validade impresso no rótulo.
+ Conservar no frigorífico (2ºC – 8ºC) até ser utilizado. Não congelar. Conservar no recipiente de origem.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Synagis -A substância activa é o palivizumab.
+ -Cada frasco para injectáveis contém 50 mg de palivizumab, fornecendo 100 mg/ml de
+ palivizumab quando reconstituído de acordo com as instruções.
+ -Os outros componentes são histidina, glicina e manitol.
+ Qual o aspecto de Synagis e o conteúdo da embalagem
+ Synagis é um aglomerado seco uniforme, branco ou quase branco, apresentado em frasco para injectáveis de 4 ml. Este aglomerado é reconstituído com água para preparações injectáveis antes de ser administrado.
+ Titular da Autorização de Introdução no Mercado Abbott Laboratories, Limited Queenborough Kent ME11 5EL Reino Unido
+ Fabricante Abbott SRL I 04010 Campoverde di Aprilia, (Latina) Itália
+ 32 Para quaisquer informações sobre este medicamento, queira contactar o representante local do titular da Autorização de Introdução no Mercado:
+ België/Belgique/Belgien Abbott SA Parc Scientifique Rue du Bosquet,2 B-1348 Louvain-la-Neuve Tél/Tel:+ 32 10 475311
+ Luxembourg/Luxemburg Abbott SA Parc Scientifique Rue du Bosquet,2 B-1348 Louvain-la-Neuve Belgique/Belgien Tél/Tel:+ 32 10 475311
+ България Т. П. Абот Лабораторис С. А. Бизнес Парк Софияр сгр. 8С, ет.7 София 1766 Teл.:+ 359 2 489 19 50
+ Magyarország Abbott Laboratories (Magyarország) Kft. Teve u. 1/a-c. H-1139 Budapest Tel.:+ 36 1 465 2100
+ Česká republika Abbott Laboratories s. r. o. Hadovka Office Park Evropská 2590/33d CZ-160 00 Praha 6 Tel:+ 420 267 292 111
+ Malta V. J. Salomone Pharma Limited 79, Simpson Street, Marsa HMR 14, Malta. Tel:+ 356 22983201
+ Danmark Abbott Laboratories A/S Emdrupvej 28CDK2100 København Ø Tlf:+ 45 39 77-00-00
+ Nederland Abbott B. V Siriusdreef 51 NL-2132 WT Hoofddorp Tel:+ 31 (0) 88 8222 688
+ Deutschland Abbott GmbH &amp; Co. KG Max-Planck-Ring 2 D-65205 Wiesbaden Tel:+ 49 (0) 6122 58-0
+ Norge Abbott Norge AS PO Box 1 N-1330 Fornebu Martin Linges vei 25 N-1367 Snarøya Tlf:+ 47 81 55 99 20
+ Eesti Abbott Laboratories Baltics Vienības 87h LV-1004 Rīga Läti Tel:+ 371 67605580
+ Österreich Abbott Ges. m. b. H. Perfektastraße 84A A-1230 Wien Tel:+ 43 1 891-22
+ Polska Ελλάδα Abbott Laboratories (ΕΛΛΑΣ) Α. Β. Ε. Ε. Λεωφόρος Βουλιαγμένης 512 GR 174 56 Άλιμος, Αθήνα Τηλ:+ 30 21 0 9985-222
+ Abbott Laboratories Poland Sp. z o. o. ul. Postępu 18A PL-02-676 Warszawa Tel.:+ 48 22 606-10-50
+ 33 España Abbott Laboratories, S. A. Avenida de Burgos,91 E-28050 Madrid Tel:+ 34 9 1 337-5200
+ Portugal Abbott Laboratórios, Lda. Estrada de Alfragide, nº 67 Alfrapark, Edifício D, 2610-008 Amadora Tel:+ 351 (0) 21 472 7100
+ France Abbott France 10, rue d’ Arcueil BP 90233 F-94528 Rungis Cedex Tél:+ 33 (0) 1 45 60 25 00
+ România Abbott Laboratories S. A. Bucharest Business Park Şos. Bucureşti-Ploieşti 1A Corp B, etaj 3, sector 1 013681 Bucureşti Tel: +40 21 529 30 00
+ Ireland Abbott Laboratories, Ireland, Ltd 4051 Kingswood Drive Citywest Business Campus IRL – Dublin 24, Tel:+ 353 (0) 1 469-1500
+ Slovenija Abbott Laboratories d. o. o. Dolenjska cesta 242c SI-1000 Ljubljana Tel:+ 386 (1) 23 63 160
+ Ísland Vistor hf. Hörgatún 2 IS-210 Garðabær Tel: +354 535 7000
+ Slovenská republika Abbott Laboratories Slovakia s. r. o. Karadžičova 10SK-821 08 Bratislava 2 Tel:+ 421 (0) 2 4445 4176
+ Italia Abbott SRL I-0401 1 Campoverde di Aprilia (Latina) Tel:+ 39 06 928921
+ Suomi/Finland Abbott OY Pihatörmä 1B/Gårdsbrinken 1B FIN-02240 Espoo/Esbo Puh/Tel:+ 358 (0) 9 7518 4120
+ Κύπρος Lifepharma (Z. A. M.) Ltd Aγ. Νικολάου 8 1055 Λευκωσία Τηλ.: +357 22 34 74 40
+ Sverige Abbott Scandinavia AB Box 509/Gårdsvägen 8 SE-169 29 Solna/SE-169 70 Solna Tel:+ 46 (0) 8 5465 67 00
+ Latvija Abbott Laboratories Baltics Vienības 87h LV-1004 Rīga Tel:+ 371 67605580
+ United Kingdom Abbott Laboratories Ltd Abbott House Vanwall Business Park Maidenhead Berkshire SL6 4XE-UK Tel:+ 44 (0) 1628 773355
+ Lietuva Abbott Laboratories Baltics Vienības 87h LV-1004 Rīga Latvija Tel:+ 371 67605580
+ 34 Este folheto foi aprovado pela última vez em
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu/
+ 35 --------------------------------Destacável do folheto informativo ----------------------------
+ A informação que se segue destina-se apenas aos médicos e aos profissionais de saúde:
+ INSTRUÇÕES PARA QUEM FAZ A ADMINISTRAÇÃO LENTAMENTE adicionar 0,6 ml de água para preparações injectáveis ao longo da parede do frasco para injectáveis para minimizar a formação de espuma. Depois de adicionada água, inclinar ligeiramente o frasco para injectáveis e rodar cuidadosamente durante 30 segundos.
+ NÃO AGITAR O FRASCO PARA INJECTÁVEIS A solução de palivizumab deve ser mantida à temperatura ambiente durante um mínimo de 20 minutos até que a solução fique límpida. A solução de palivizumab não contém conservantes e deve ser administrada no período de 3 horas após a preparação. Após utilização, rejeitar qualquer porção não utilizada.
+ Depois de reconstituído segundo as instruções, a concentração final é de 100 mg/ml.
+ Palivizumab não deve ser misturado com quaisquer medicamentos ou diluentes além da água para preparações injectáveis.
+ Palivizumab é administrado uma vez por mês, por via intramuscular, de preferência na zona anterolateral da coxa. O músculo glúteo não deve ser usado por rotina como local de injecção, devido ao risco de lesão no nervo ciático. A injecção deve ser administrada usando técnicas padrão de assépsia. Volumes superiores a 1 ml devem ser administrados em doses repartidas.
+ A dose mensal de palivizumab (ml)= peso do doente (kg) x dose (15 mg/kg) 100 mg/ml de palivizumab
+ Por exemplo, para um bebé com um peso corporal de 3 kg, o cálculo é:
+ 3 x 15= dose de 0,45 ml de palivizumab por mês 100
+ 36 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Synagis 100 mg pó e solvente para solução injectável Palivizumab
+ Leia atentamente este folheto porque ele contém informação importante para si e para o seu filho
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para o seu filho. Não deve dá-lo a outros; o medicamento pode
+ ser-lhes prejudicial mesmo que apresentem os mesmos sintomas que o seu filho.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é Synagis e para que é utilizado 2. Antes de Synagis ser administrado ao seu filho 3 Como irá o meu filho receber Synagis 4. Efeitos secundários possíveis 5. Como conservar de Synagis 6. Outras informações
+ 1. O QUE É SYNAGIS E PARA QUE É UTILIZADO
+ Synagis contém uma substância activa chamada palivizumab, que é um anticorpo que actua especificamente contra um vírus chamado vírus sincicial respiratório, RSV.
+ O seu filho corre o risco de ter uma doença causada por um vírus chamado vírus sincicial respiratório (RSV). Synagis é um medicamento que ajuda a proteger o seu filho da doença grave por RSV.
+ 2. ANTES DE SYNAGIS SER ADMINISTRADO AO SEU FILHO
+ Synagis não deverá ser administrado ao seu filho
+ -se tem alergia (hipersensibilidade) à substância activa de Synagis (palivizumab) ou a qualquer
+ outro componente de Synagis (ver lista completa de componentes na secção 6).
+ Tome especial cuidado com Synagis -se o seu filho não estiver bem. Informe o seu médico se o seu filho não estiver bem, porque poderá
+ ser necessário adiar a administração de Synagis.
+ -se o seu filho tiver quaisquer problemas de hemorragias, dado que Synagis é geralmente injectado
+ na coxa.
+ Ao utilizar Synagis com outros medicamentos
+ Desconhece-se se Synagis tem interacção com outros medicamentos; no entanto, deverá informar o seu médico sobre todos os medicamentos que o seu filho esteja a tomar antes de iniciar o tratamento com Synagis.
+ 37 3. COMO IRÁ O MEU FILHO RECEBER SYNAGIS
+ Instruções para uma utilização apropriada
+ Com que frequência será Synagis administrado ao meu filho? Synagis deverá ser administrado ao seu filho numa dose de 15 mg/kg de peso corporal, uma vez por mês, enquanto persistir o risco de infecção por RSV. Para melhor protecção do seu filho é necessário seguir as instruções do médico sobre quando voltar a administrar doses adicionais de Synagis.
+ Se o seu filho tiver que ser submetido a uma cirurgia ao coração (cirurgia por bypass cardíaco), ele pode ter que receber uma dose adicional de Synagis após a cirurgia. O seu filho pode então voltar ao esquema original de injecções como planeado.
+ Como receberá o meu filho o Synagis? Synagis será administrado ao seu filho através de uma injecção num músculo, geralmente na parte exterior da coxa
+ O que deve fazer se achar que o seu filho adoeceu durante o tratamento com Synagis? Se o seu filho adoecer, deve contactar o seu médico imediatamente.
+ O que fazer se o seu filho falhar uma injecção de Synagis? Se o seu filho falhar uma injecção, deve contactar o seu médico logo que possível. Cada injecção de Synagis só protege o seu filho durante cerca de um mês, antes de ser necessária nova injecção.
+ Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou farmacêutico.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todos os medicamentos, Synagis pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ Que efeitos secundários podem ocorrer durante o tratamento com Synagis? Frequentes (afectam 1 a 10 utilizadores em cada 100): febre; nervosismo; vermelhidão ou inchaço no local da injecção; diarreia.
+ Pouco frequentes (afectam 1 a 10 utilizadores em cada 1.000): constipações; tosse; corrimento nasal; sibilos; vómitos; erupção cutânea; dor; infecção viral; hemorragia; fraqueza; prisão de ventre; sonolência; hiperactividade; redução na contagem de glóbulos brancos; aumento nos testes da função hepática, observado em testes ao sangue. 38 Raros (afectam 1 a 10 utilizadores em cada 10.000): uma pausa respiratória ou outros problemas respiratórios.
+ Muito raros (afectam menos de 1 utilizador em cada 10.000): reacções alérgicas graves.
+ O que deve fazer em caso de ocorrência de efeitos secundários? Se o seu filho apresentar quaisquer efeitos secundários após a administração de Synagis, deve contactar o seu médico. Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, contacte o seu médico.
+ 5. COMO CONSERVAR SYNAGIS Manter fora do alcance e da vista das crianças.
+ Não utilize Synagis após o prazo de validade impresso no rótulo.
+ Conservar no frigorífico (2ºC – 8ºC) até ser utilizado. Não congelar. Conservar no recipiente de origem.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Synagis -A substância activa é o palivizumab.
+ -Cada frasco para injectáveis contém 100 mg de palivizumab, fornecendo 100 mg/ml de
+ palivizumab quando reconstituído de acordo com as instruções.
+ -Os outros componentes são histidina, glicina e manitol.
+ Qual o aspecto de Synagis e o conteúdo da embalagem
+ Synagis é um aglomerado seco uniforme, branco ou quase branco, apresentado em frasco para injectáveis de 10 ml. Este aglomerado é reconstituído com água para preparações injectáveis antes de ser administrado.
+ Titular da Autorização de Introdução no Mercado Abbott Laboratories, Limited Queenborough Kent ME11 5EL Reino Unido
+ Fabricante Abbott SRL I 04010 Campoverde di Aprilia, (Latina) Itália
+ 39 Para quaisquer informações sobre este medicamento, queira contactar o representante local do titular da Autorização de Introdução no Mercado:
+ België/Belgique/Belgien Abbott SA Parc Scientifique Rue du Bosquet,2 B-1348 Louvain-la-Neuve Tél/Tel:+ 32 10 475311
+ Luxembourg/Luxemburg Abbott SA Parc Scientifique Rue du Bosquet,2 B-1348 Louvain-la-Neuve Belgique/Belgien Tél/Tel:+ 32 10 475311
+ България Т. П. Абот Лабораторис С. А. Бизнес Парк Софияр сгр. 8С, ет. 7София 1766 Teл.:+ 359 2 489 19 50
+ Magyarország Abbott Laboratories (Magyarország) Kft. Teve u. 1/a-c. H-1139 Budapest Tel.:+ 36 1 465 2100
+ Česká republika Abbott Laboratories s. r. o. Hadovka Office Park Evropská 2590/33d CZ-160 00 Praha 6 Tel:+ 420 267 292 111
+ Malta V. J. Salomone Pharma Limited 79, Simpson Street, Marsa HMR 14, Malta. Tel:+ 356 22983201
+ Danmark Abbott Laboratories A/S Emdrupvej 28 CDK DK-2100 København Ø Tlf:+ 45 39 77-00-00
+ Nederland Abbott B. V Siriusdreef 51 NL-2132 WT Hoofddorp Tel:+ 31 (0) 88 8222 688
+ Deutschland Abbott GmbH &amp; Co. KG Max-Planck-Ring 2 Delkenheim D-65205 Wiesbaden Tel:+ 49 (0) 6122 58-0
+ Norge Abbott Norge AS PO Box 1 N-1330 Fornebu Martin Linges vei 25 N-1367 Snarøya Tlf:+ 47 81 55 99 20
+ Eesti Abbott Laboratories Baltics Vienības 87h LV-1004 Rīga Läti Tel:+ 371 67605580
+ Österreich Abbott Ges. m. b. H. Perfektastraße 84A A-1230 Wien Tel:+ 43 1 891-22
+ Polska Ελλάδα Abbott Laboratories (ΕΛΛΑΣ) Α. Β. Ε. Ε. Λεωφόρος Βουλιαγμένης 512 GR 174 56 Άλιμος, Αθήνα Τηλ:+ 30 21 0 9985-222
+ Abbott Laboratories Poland Sp. z o. o. ul. Postępu 18A PL-02-676 Warszawa Tel.:+ 48 22 606-10-50
+ 40 España Abbott Laboratories, S. A. Avenida de Burgos,91 E-28050 Madrid Tel:+ 34 9 1 337-5200
+ Portugal Abbott Laboratórios, Lda. Estrada de Alfragide, nº 67 Alfrapark, Edifício D, 2610-008 Amadora Tel:+ 351 (0) 21 472 7100
+ France Abbott France 10, rue d’ Arcueil BP 90233 F-94528 Rungis Cedex Tél:+ 33 (0) 1 45 60 25 00
+ România Abbott Laboratories S. A. Bucharest Business Park Şos. Bucureşti-Ploieşti 1A Corp B, etaj 3, sector 1 013681 Bucureşti Tel: +40 21 529 30 00
+ Ireland Abbott Laboratories, Ireland, Ltd 4051 Kingswood Drive Citywest Business Campus IRL – Dublin 24, Tel:+ 353 (0) 1 469-1500
+ Slovenija Abbott Laboratories d. o. o. Dolenjska cesta 242c SI-1000 Ljubljana Tel:+ 386 (1) 23 63 160
+ Ísland Vistor hf. Hörgatún 2 IS-210 Garðabær Tel: +354 535 7000
+ Slovenská republika Abbott Laboratories Slovakia s. r. o. Karadžičova 10 SK-821 08 Bratislava 2 Tel:+ 421 (0) 2 4445 4176
+ Italia Abbott SRLI-0401 1 Campoverde di Aprilia (Latina) Tel:+ 39 06 928921
+ Suomi/Finland Abbott OY Pihatörmä 1B/Gårdsbrinken 1B FIN-02240 Espoo/Esbo Puh/Tel:+ 358 (0) 9 7518 4120
+ Κύπρος Lifepharma (Z. A. M.) Ltd Aγ. Νικολάου 8 1055 Λευκωσία Τηλ.: +357 22 34 74 40
+ Sverige Abbott Scandinavia AB Box 509/Gårdsvägen 8 SE-169 29 Solna/SE-169 70 Solna Tel:+ 46 (0) 8 5465 67 00
+ Latvija Abbott Laboratories Baltics Vienības 87h LV-1004, Rīga Tel:+ 371 67605580
+ United Kingdom Abbott Laboratories Ltd Abbott House Vanwall Business Park Maidenhead Berkshire SL6 4XE-UK Tel:+ 44 (0) 1628 773355
+ Lietuva Abbott Laboratories Baltics Vienības 87h LV-1004, Rīga Latvia Tel:+ 371 67605580
+ 41 Este folheto foi aprovado pela última vez em
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu/
+ 42 --------------------------------Destacável do folheto informativo ----------------------------
+ A informação que se segue destina-se apenas aos médicos e aos profissionais de saúde.
+ INSTRUÇÕES PARA QUEM FAZ A ADMINISTRAÇÃO LENTAMENTE adicionar 1,0 ml de água para preparações injectáveis ao longo da parede do frasco para injectáveis para minimizar a formação de espuma. Depois de adicionada água, inclinar ligeiramente o frasco para injectáveis e rodar cuidadosamente durante 30 segundos.
+ NÃO AGITAR O FRASCO PARA INJECTÁVEIS A solução de palivizumab deve ser mantida à temperatura ambiente durante um mínimo de 20 minutos até que a solução fique límpida. A solução de palivizumab não contém conservantes e deve ser administrada no período de 3 horas após a preparação. Após utilização, rejeitar qualquer porção não utilizada.
+ Depois de reconstituído segundo as instruções, a concentração final é de 100 mg/ml.
+ Palivizumab não deve ser misturado com quaisquer medicamentos ou diluentes além da água para preparações injectáveis.
+ Palivizumab é administrado uma vez por mês, por via intramuscular, de preferência na zona anterolateral da coxa. O músculo glúteo não deve ser usado por rotina como local de injecção, devido ao risco de lesão no nervo ciático. A injecção deve ser administrada usando técnicas padrão de assépsia. Volumes superiores a 1 ml devem ser administrados em doses repartidas.
+ A dose mensal de palivizumab (ml)= peso do doente (kg) x dose (15 mg/kg) 100 mg/ml de palivizumab
+ Por exemplo, para um bebé com um peso corporal de 3 kg, o cálculo é:
+ 3 x 15= dose de 0,45 ml de palivizumab por mês 100
+ 43

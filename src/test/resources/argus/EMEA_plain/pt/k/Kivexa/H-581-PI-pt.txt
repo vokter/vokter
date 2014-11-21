@@ -1,0 +1,463 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. NOME DO MEDICAMENTO
+ Kivexa 600 mg/300 mg comprimidos revestidos por película
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada comprimido revestido por película contém 600 mg de abacavir (sob a forma de sulfato) e 300 mg de lamivudina.
+ Excipientes Amarelo alaranjado S (E110) 1,7 mg por comprimido
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Comprimido revestido por película. Comprimidos oblongos, de cor laranja, revestidos por película, com gravação GS FC2 numa das faces.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Kivexa é uma associação de dose fixa de dois análogos dos nucleósidos (abacavir e lamivudina). Está indicado na terapêutica antirretrovírica de associação para o tratamento da infecção pelo Vírus da Imunodeficiência Humana (VIH) em adultos e adolescentes a partir dos 12 anos.
+ A demonstração do benefício da associação abacavir/lamivudina como regime uma vez dia na terapêutica antirretrovírica, baseia-se sobretudo nos resultados de um estudo realizado em doentes adultos assintomáticos sem tratamento antirretrovírico prévio (ver secções 4.4 e 5.1).
+ Antes do início da terapêutica com abacavir, deve ser realizado o teste para detecção da presença do alelo HLA-B* 5701 em qualquer doente infectado pelo VIH, independentemente da sua origem étnica. O abacavir não deve ser utilizado em doentes que se saiba possuírem o alelo HLA-B* 5701, a não ser que não esteja disponível qualquer outra opção terapêutica para estes doentes, com base na história do tratamento prévio e nos testes de resistência (ver secção 4.4 e 4.8)
+ 4.2 Posologia e modo de administração A terapêutica deve ser prescrita por um médico experiente no controlo da infecção VIH.
+ A dose recomendada de Kivexa em adultos e adolescentes é um comprimido, uma vez por dia.
+ Kivexa não deve ser administrado a adultos ou adolescentes com peso inferior a 40 kg, porque a dose do comprimido é fixa e não pode ser reduzida.
+ Kivexa pode ser tomado com ou sem alimentos.
+ Kivexa é um comprimido de dose fixa e não deve ser prescrito a doentes que necessitem de ajuste da dose. Estão disponíveis formulações separadas de abacavir ou lamivudina para os casos em que está indicada a interrupção ou ajuste de dose de uma das substâncias activas. Nestes casos, o médico deverá consultar os respectivos Resumos das Características do Medicamento. 2 Compromisso renal: Não se recomenda a utilização de Kivexa em doentes com depuração da creatinina &lt; 50 ml/min (ver secção 5.2).
+ Compromisso hepático: Não existe informação disponível em doentes com compromisso hepático moderado, e por isso não se recomenda a utilização de Kivexa, a menos que se considere necessário. É necessário monitorizar cuidadosamente os doentes com compromisso hepático ligeiro e moderado e, se possível, recomenda-se a monitorização dos níveis plasmáticos de abacavir (ver secção 4.4 e 5.2). Kivexa está contra-indicado em doentes com compromisso hepático grave (ver secção 4.3).
+ Idosos: Não estão disponíveis, à data, dados farmacocinéticos em doentes de idade superior a 65 anos. Recomenda-se precaução especial neste grupo etário devido a alterações associadas à idade, tais como diminuição da função renal e alterações dos parâmetros hematológicos.
+ Crianças: Kivexa não está recomendado para o tratamento de crianças com idade inferior a 12 anos, uma vez que o necessário ajuste da dose não pode ser feito.
+ 4.3 Contra-indicações Kivexa está contra-indicado em doentes com hipersensibilidade conhecida às substâncias activas ou a qualquer dos excipientes. Ver INFORMAÇÃO SOBRE REACÇÕES DE HIPERSENSIBILIDADE AO ABACAVIR nas secções 4.4 e 4.8.
+ Doentes com compromisso hepático grave. 4.4 Advertências e precauções especiais de utilização
+ As advertências e precauções especiais relevantes ao abacavir e lamivudina estão incluídas nesta secção. Não há advertências ou precauções adicionais relevantes a Kivexa.
+ Reacção de Hipersensibilidade (ver também secção 4.8)
+ Nos ensaios clínicos, aproximadamente 5% dos doentes em tratamento com abacavir desenvolveram uma reacção de hipersensibilidade. Apesar das precauções tomadas, alguns destes casos representaram risco de vida e resultaram em morte.
+ Os estudos demonstraram que a presença do alelo HLA-B* 5701 está associada a um aumento significativo do risco de reacção de hipersensibilidade ao abacavir. Com base no estudo prospectivo CNA106030 (PREDICT-1), a pesquisa do alelo HLA-B* 5701 antes do início do tratamento e subsequentemente evitar o tratamento com abacavir em doentes com este alelo reduziu significativamente a incidência de reacções de hipersensibilidade. Em populações semelhantes às envolvidas no estudo PREDICT-1, estima-se que 48% a 61% dos doentes com o alelo HLA-B* 5701 venham a desenvolver uma reacção de hipersensibilidade durante o tratamento comparado com 0% a 4% dos doentes que não possuem o alelo HLA-B* 5701.
+ Estes resultados são consistentes com os de outros estudos retrospectivos anteriores.
+ Como consequência, antes de iniciar o tratamento com abacavir, a pesquisa da presença do alelo HLA-B* 5701 deve ser realizada em qualquer doente infectado pelo VIH, independentemente da sua origem étnica. O abacavir não deve ser utilizado em doentes que se saiba possuírem o alelo HLA-B* 5701, a não ser que não esteja disponível qualquer outra opção terapêutica para estes doentes, com base na história do tratamento prévio e nos testes de resistência (ver secção 4.1).
+ Em qualquer doente tratado com abacavir, o diagnóstico clínico de suspeita de reacção de hipersensibilidade ao abacavir deve permanecer como base da decisão clínica. É de realçar que entre os doentes com reacção de hipersensibilidade clinicamente suspeita, uma proporção não possuía o
+ 3 HLA-B* 5701. Assim sendo, mesmo na ausência do alelo HLA-B* 5701, é importante descontinuar de modo permanente o abacavir e não reiniciar se a reacção de hipersensibilidade não puder ser excluída por razões clínicas, devido ao potencial de uma reacção grave ou mesmo fatal.
+ O teste de sensibilidade cutânea foi utilizado como uma ferramenta de pesquisa no estudo PREDICT-1 mas não tem utilidade no controlo clínico dos doentes e, portanto, não deve ser utilizado na prática clínica.
+ • Descrição Clínica
+ As reacções de hipersensibilidade são caracterizadas pelo aparecimento de sintomas indicativos de envolvimento multi-sistémico. Em quase todas as reacções de hipersensibilidade ocorrerá febre e/ou erupção cutânea como parte do síndrome.
+ Outros sinais e sintomas poderão incluir sinais e sintomas respiratórios, tais como dispneia, odinofagia, tosse, e observação de imagens torácicas anormais obtidas por raios-x (predominantemente infiltrados, os quais podem ser localizados), sintomas gastrintestinais, tais como náuseas, vómitos, diarreia ou dor abdominal, que poderão confundir o diagnóstico de hipersensibilidade com doença respiratória (pneumonia, bronquite, faringite) ou gastrenterite. Outros sinais ou sintomas da reacção de hipersensibilidade observados frequentemente poderão incluir letargia ou mal-estar e sintomas músculosqueléticos (mialgia, raramente miólise, artralgia).
+ Os sintomas relacionados com esta reacção de hipersensibilidade são agravados com a continuação da terapêutica e podem pôr a vida em risco. Estes sintomas resolvem-se geralmente com a interrupção de abacavir.
+ • Controlo Clínico
+ Os sintomas da reacção de hipersensibilidade ocorrem geralmente nas primeiras seis semanas de tratamento com abacavir, embora estas reacções possam ocorrer em qualquer altura durante a terapêutica. Os doentes devem ser cuidadosamente monitorizados, especialmente durante os dois primeiros meses de tratamento com abacavir, devendo realizar-se uma consulta de duas em duas semanas.
+ Os doentes em que seja diagnosticada reacção de hipersensibilidade durante a terapêutica TÊM que interromper Kivexa imediatamente.
+ Kivexa, ou qualquer outro medicamento contendo abacavir (Ziagen ou Trizivir), NUNCA MAIS PODE ser reintroduzido em doentes que tenham interrompido a terapêutica devido a reacção de hipersensibilidade. A reintrodução de abacavir após reacção de hipersensibilidade resulta no retorno imediato dos sintomas, em algumas horas. Esta recorrência é geralmente mais grave do que a forma inicial e poderá incluir hipotensão potencialmente fatal e morte.
+ De forma a evitar atraso no diagnóstico e minimizar o risco de reacção de hipersensibilidade potencialmente fatal, Kivexa tem que ser interrompido permanentemente no caso de não ser possível excluir hipersensibilidade, mesmo quando são possíveis outros diagnósticos (doenças respiratórias, síndrome gripal, gastrenterite ou reacções a outros medicamentos).
+ É necessário cuidado especial em doentes que iniciem simultaneamente tratamento com Kivexa e com outros medicamentos conhecidos como indutores de toxicidade cutânea (tais como análogos não nucleósidos inibidores da transcriptase reversa-NNRTIs). Esta recomendação deve-se ao facto de ser habitualmente difícil a diferenciação da erupção cutânea induzido por estes medicamentos e reacção de hipersensibilidade relacionada com o abacavir.
+ • Controlo após paragem da terapêutica com Kivexa
+ 4 Caso se tenha interrompido a terapêutica com Kivexa por qualquer razão e se considere a sua reiniciação, a razão para interrupção deve ser estabelecida de forma a avaliar se o doente teve qualquer dos sintomas de reacção de hipersensibilidade. Caso não seja possível excluir a possibilidade de reacção de hipersensibilidade, não se pode reiniciar o tratamento com Kivexa ou com qualquer outro medicamento contendo abacavir (Ziagen ou Trizivir).
+ Ocorreram reacções de hipersensibilidade de início rápido, incluindo reacções com risco de vida, após reiniciar abacavir em doentes que tiveram apenas um dos sintomas chave de hipersensibilidade (erupção cutânea, febre, sintomas gastrintestinais, respiratórios ou constitucionais tais como letargia e mal-estar) previamente à interrupção de abacavir. O sintoma isolado mais frequente de reacção de hipersensibilidade foi erupção cutânea. Além disso, muito raramente, foram notificadas reacções de hipersensibilidade em doentes que reiniciaram a terapêutica e que não tinham apresentado sintomas precedentes de reacção de hipersensibilidade. Em ambas as situações, caso se decida reiniciar abacavir, deve ser feito num local em que sejam facilmente acessíveis cuidados médicos.
+ • Informação essencial para o doente
+ O médico deve assegurar-se que o doente está bem informado relativamente à seguinte informação sobre reacção de hipersensibilidade:
+ -Os doentes devem ter conhecimento da possibilidade de reacção de hipersensibilidade ao
+ abacavir, a qual poderá resultar em risco de vida ou morte.
+ -Os doentes que desenvolvam sinais ou sintomas possivelmente relacionados com reacção de
+ hipersensibilidade TÊM que CONTACTAR o seu médico IMEDIATAMENTE.
+ -Os doentes hipersensíveis ao abacavir devem ser alertados para nunca mais tomarem Kivexa ou
+ qualquer outro medicamento contendo abacavir (Ziagen ou Trizivir).
+ -A fim de evitar a reiniciação de abacavir os doentes que tenham apresentado reacção de
+ hipersensibilidade devem inutilizar os comprimidos de Kivexa não utilizados, de acordo com os requisitos locais e aconselhar-se com o seu médico ou farmacêutico.
+ -Os doentes que tenham interrompido Kivexa por qualquer razão, particularmente se devido a
+ reacções adversas ou doença, devem ser alertados para contactar o seu médico antes de reiniciar a terapêutica.
+ -Os doentes devem ser advertidos sobre a importância de tomar Kivexa regularmente.
+ -Deve aconselhar-se cada doente a ler o Folheto Informativo incluído na embalagem de Kivexa.
+ -Os doentes devem ser alertados para a importância de remover o Cartão de Alerta incluído na
+ embalagem e de o conservar sempre consigo.
+ Acidose láctica: foi notificada acidose láctica, geralmente associada a hepatomegalia e esteatose hepática, com a utilização de análogos de nucleósidos. Os sintomas precoces (hiperlactatemia sintomática) incluem sintomas digestivos benignos (náuseas, vómitos e dor abdominal), mal-estar não específico, perdas de peso e apetite, sintomas respiratórios (respiração rápida e/ou profunda) ou sintomas neurológicos (incluindo fraqueza motora).
+ A acidose láctica conduz a uma elevada taxa de mortalidade e pode estar associada a pancreatite, falência hepática ou falência renal.
+ A acidose láctica ocorreu, geralmente, poucos a vários meses após início do tratamento.
+ O tratamento com análogos de nucleósidos deve ser interrompido caso se estabeleça hiperlactatemia
+ 5 sintomática e acidose láctica/metabólica, hepatomegalia progressiva ou um aumento rápido dos níveis das transaminases.
+ Deve tomar-se precaução na administração de análogos de nucleósidos a qualquer doente (particularmente mulheres obesas) com hepatomegalia, hepatite ou outros factores de risco conhecidos de doença hepática e esteatose hepática (incluindo alguns medicamentos e álcool). Os doentes com co-infecção por hepatite C e tratados com interferão alfa e ribavirina podem constituir um grupo especial de risco.
+ Os doentes de maior risco devem ser seguidos cuidadosamente.
+ Lipodistrofia: a terapêutica de associação antirretrovírica foi associada a redistribuição do tecido adiposo corporal (lipodistrofia) em doentes infectados pelo VIH. As consequências a longo prazo deste efeito são actualmente desconhecidas. O conhecimento sobre o mecanismo é incompleto. Foi colocada a hipótese de existir uma relação entre a lipomatose visceral, os inibidores da protease (IPs), a lipoatrofia e os análogos nucleósidos inibidores da transcriptase reversa (NRTIs). Um risco acrescido de lipodistrofia foi associado com factores individuais, tais como a idade avançada, e com factores relacionados com o fármaco, como a longa duração da terapêutica antirretrovírica e as alterações metabólicas associadas. O exame clínico deve incluir a avaliação dos sinais físicos da redistribuição do tecido adiposo. Deverá considerar-se a medição dos níveis de lípidos séricos e da glicémia em jejum. As alterações lipídicas devem ser tratadas de modo clinicamente apropriado (ver secção 4.8).
+ Pancreatite: foi notificada pancreatite, mas a relação causal com a lamivudina e o abacavir não é clara.
+ Ensaios clínicos: o benefício da associação abacavir e lamivudina como regime uma vez dia, baseia-se principalmente num estudo realizado em doentes adultos sem tratamento prévio com antirretrovíricos, em associação com efavirenze (ver secção 5.1).
+ Terapêutica nucleósida tripla: Tem havido notificações de uma elevada taxa de falência virológica e de aparecimento de resistência, num estadio inicial, quando o abacavir foi associado a tenofovir disoproxil fumarato e lamivudina num regime uma vez dia.
+ Doença hepática: caso a lamivudina esteja a ser utilizada concomitantemente para o tratamento do VIH e VHB, está disponível informação adicional sobre a utilização da lamivudina no tratamento da hepatite B no RCM de Zeffix.
+ A segurança e a eficácia de Kivexa não foram estabelecidas em doentes com disfunção hepática significativa subjacente. Kivexa está contra-indicado em doentes com compromisso hepático grave (ver secção 4.3).
+ Os doentes com hepatite B ou C crónica e tratados com terapêutica de associação antirretrovírica têm um risco acrescido de acontecimentos adversos hepáticos graves e potencialmente fatais. No caso de terapêutica antivírica concomitante para a hepatite B ou C, consultar a informação relevante para estes medicamentos.
+ Caso Kivexa seja interrompido em doentes co-infectados pelo vírus da hepatite B, recomenda-se a monitorização periódica dos testes da função hepática e dos marcadores de replicação do VHB, uma vez que a interrupção da lamivudina pode resultar em exacerbação aguda da hepatite (ver RCM de Zeffix).
+ Os doentes com disfunção hepática pré-existente, incluindo hepatite crónica activa, têm um aumento da frequência de anomalias da função hepática durante a terapêutica de associação antirretrovírica e devem ser monitorizados de acordo com a prática padronizada. Se se verificar nestes doentes um agravamento da doença hepática, deverá ser considerada a paragem ou interrupção do tratamento.
+ Disfunção mitocondrial: os análogos dos nucleósidos e nucleótidos demonstraram causar, in vitro e in vivo, lesões mitrocondriais de grau variável. Existem notificações de disfunção mitocondrial em 6 lactentes VIH negativos, expostos in utero e/ou após o nascimento a análogos dos nucleósidos. Os principais acontecimentos adversos notificados são alterações hematológicas (anemia, neutropenia), doenças metabólicas (hiperlactatemia, hiperlipasemia). Estes acontecimentos são geralmente transitórios. Foram notificadas algumas alterações neurológicas de início tardio (hipertonia, convulsões, comportamento anormal). Desconhece-se até ao momento se as alterações neurológicas são transitórias ou permanentes. Qualquer criança exposta in utero a análogos dos nucleósidos e nucleótidos, mesmo as crianças VIH negativas, deverá ter seguimento clínico e laboratorial e, em caso de sinais ou sintomas relevantes, deve ser investigada quanto à possibilidade de disfunção mitocondrial. Estes resultados não alteram as recomendações nacionais actuais quanto à utilização de terapêutica antirretrovírica em mulheres grávidas, para prevenir a transmissão vertical do VIH.
+ Síndrome de Reactivação Imunológica: Em doentes infectados pelo VIH com deficiência imunitária grave à data da instituição da terapêutica antirretroviral combinada (TARC), pode ocorrer uma reacção inflamatória a infecções oportunistas assintomáticas ou residuais e causar várias situações clínicas graves, ou o agravamento dos sintomas. Tipicamente, estas reacções foram observadas durante as primeiras semanas ou meses após início da TARC. São exemplos relevantes a retinite por citomegalovírus, as infecções micobacterianas generalizadas e/ou focais e a pneumonia por Pneumocystis carinii. Qualquer sintoma de inflamação deve ser avaliado e, quando necessário, instituído o tratamento.
+ Osteonecrose: Foram notificados casos de osteonecrose, particularmente em doentes com doença por VIH avançada e/ou exposição prolongada a terapêutica anti-retroviral combinada (TARC), apesar da etiologia ser considerada multifactorial (incluindo a utilização de corticosteróides, o consumo de álcool, a imunossupressão grave, um índice de massa corporal aumentado). Os doentes devem ser instruídos a procurar aconselhamento médico caso sintam mal-estar e dor articular, rigidez articular ou dificuldade de movimentos.
+ Excipientes: Kivexa contém o corante azo amarelo alaranjado S, o qual pode causar reacções alérgicas.
+ Infecções oportunistas: os doentes devem ser alertados para o facto de que Kivexa, ou qualquer outra terapêutica antirretrovírica, não é uma cura para a infecção VIH, pelo que podem continuar a desenvolver infecções oportunistas e outras complicações da infecção VIH. Devem, portanto, manter-se sob cuidadosa observação clínica por médicos experientes no tratamento destas doenças associadas à infecção VIH.
+ Transmissão do VIH: Os doentes devem ser alertados de que a actual terapêutica antirretrovírica, incluindo Kivexa, não demonstrou prevenir o risco de transmissão do VIH a outros indivíduos por contacto sexual ou transmissão sanguínea. Devem continuar a ser tomadas as precauções adequadas.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Kivexa contém abacavir e lamivudina, pelo que, qualquer interacção identificada para estas substâncias são relevante para o Kivexa. Os ensaios clínicos demostraram que não há interacções clinicamente significativas entre o abacavir e a lamivudina.
+ O abacavir e a lamivudina não são significativamente metabolisados pelas enzimas do citocromo P450 (tais como CYP 3A4, CYP 2C9 ou CYP 2D6) nem inibem ou induzem este sistema enzimático. Deste modo, o potencial para interacções com os antirretrovíricos inibidores das proteases, não nucleósidos e outros medicamentos metabolisados pelas principais enzimas do citocromo P450 é baixo. As interacções listadas em seguida não devem ser consideradas exaustivas, mas representativas das classes de medicamentos que devem ser administrados com precaução.
+ Interacções relevantes ao abacavir Devido à sua acção sobre as UDP-glucuroniltransferases, os indutores enzimáticos potentes tais como a rifampicina, fenobarbital e fenitoína, podem diminuir ligeiramente as concentrações plasmáticas do abacavir.
+ 7 O metabolismo do abacavir é alterado pela ingestão concomitante de etanol, resultando num aumento de cerca de 41% na AUC do abacavir. Estes achados não se consideram clinicamente significativos. O abacavir não tem efeito no metabolismo do etanol.
+ Os compostos retinóicos são eliminados via desidrogenase alcoólica. A interacção com o abacavir é possível mas não foi estudada.
+ Num estudo farmacocinético, a administração concomitante de 600 mg de abacavir, duas vezes por dia com metadona, mostrou uma diminuição de 35% na Cmax do abacavir, e um atraso de 1 hora no tmax, no entanto, a AUC não foi alterada. As alterações na farmacocinética do abacavir não se consideram clinicamente relevantes. Neste estudo, o abacavir aumentou a depuração sistémica média da metadona em cerca de 22%. Portanto, não se pode excluir a possibilidade de indução das enzimas metabolizadoras. Os doentes em tratamento com metadona e abacavir deverão ser monitorizados para evidenciar sintomas de privação indicadores de uso de doses sub-óptimas, assim como, ocasionalmente, poderá ser necessário retitulação da dose de metadona.
+ Interacções relevantes à lamivudina A probabilidade de interacções metabólicas com a lamivudina é baixa devido aos limitados metabolismo e ligação às proteínas plasmáticas e à quase completa depuração renal. Deve considerar-se a possibilidade de interacções com outros medicamentos administrados concomitantemente com Kivexa, particularmente quando a principal via de eliminação é a secreção renal activa, especialmente através do sistema de transporte catiónico, por ex. trimetoprim. Outros medicamentos (por ex. ranitidina, cimetidina) são eliminados apenas em parte por este mecanismo e foi demonstrado não interagirem com a lamivudina. Os análogos dos nucleósidos (por ex. zidovudina e didanosina) não são metabolisados por este mecanismo e não é provável que interajam com a lamivudina.
+ A administração de 160 mg/800 mg de trimetoprim/sulfametoxazol resulta num aumento de 40% na exposição à lamivudina, devido ao componente trimetoprim. No entanto, a menos que o doente tenha compromisso renal, não é necessário ajuste da dose de lamivudina (ver secção 4.2). A farmacocinética do trimetoprim ou do sulfametoxazol não é afectada. Quando a administração concomitante com cotrimoxazol é justificada, os doentes devem ser monitorizados clinicamente. A administração concomitante de Kivexa com doses elevadas de cotrimoxazol para o tratamento da pneumonia a Pneumocystis carinii (PPc) e da toxoplasmose deve ser evitada.
+ A administração concomitante de lamivudina com ganciclovir ou foscarnet por via intravenosa não é recomendada até estar disponível mais informação.
+ A lamivudina poderá inibir a fosforilação intracelular da zalcitabina quando os dois medicamentos forem utilizados concomitantemente. Portanto, não se recomenda a utilização de Kivexa em associação com zalcitabina.
+ 4.6 Gravidez e aleitamento Kivexa não está recomendado durante a gravidez. A segurança de abacavir e lamivudina na gravidez ainda não foi estabelecida. Os estudos com abacavir e lamivudina no animal mostraram toxicidade reprodutiva (ver secção 5.3).
+ É recomendado que as mulheres com infecção VIH não amamentem os seus filhos sob nenhuma circunstância, de modo a evitar a transmissão do VIH. A lamivudina é excretada no leite humano em concentrações semelhantes às detectadas no soro. Apesar de não confirmado, é expectável que o abacavir seja também secretado no leite humano. Portanto, recomenda-se que as mulheres não amamentem os seus filhos enquanto sob tratamento com Kivexa.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ 8 Não foram estudados os efeitos sobre a capacidade de conduzir ou utilizar máquinas. O estado clínico do doente e o perfil de efeitos adversos de Kivexa devem ser tidos em conta quando se considerar a capacidade do doente para conduzir ou utilizar máquinas.
+ 4.8 Efeitos indesejáveis As reacções adversas notificadas para Kivexa foram consistentes com os conhecidos perfis de segurança de abacavir e lamivudina, quando administrados como medicamentos separados. Para muitas destas reacções adversas, não está esclarecida a sua relação com a substância activa, com a grande variedade de medicamentos utilizados no controlo da infecção VIH ou se são resultado da doença subjacente.
+ Hipersensibilidade ao abacavir (ver também secção 4.4)
+ Nos ensaios clínicos, aproximadamente 5% dos doentes tratados com abacavir desenvolveram uma reacção de hipersensibilidade. Nos ensaios clínicos com 600 mg de abacavir uma vez dia, a taxa de hipersensibilidade notificada permaneceu dentro do intervalo registado para 300 mg de abacavir dua vezes dia.
+ Apesar das precauções tomadas, algumas destas reacções de hipersensibilidade representaram risco de vida e resultaram em morte. Esta reacção caracteriza-se pelo aparecimento de sintomas indicativos de envolvimento multi-sistémico.
+ Quase todos os doentes que desenvolveram reacções de hipersensibilidade apresentaram febre e/ou erupção cutânea (geralmente maculopapular ou urticariforme) como parte do síndrome, no entanto, ocorreram reacções sem erupção cutânea ou febre.
+ Os sinais e sintomas desta reacção de hipersensibilidade estão descritos abaixo. Estes foram identificados quer a partir dos ensaios clínicos quer da farmacovigilância pós-comercialização. Aqueles que foram notificados em pelo menos 10% dos doentes com reacção de hipersensibilidade estão a negrito.
+ Erupção cutânea (usualmente maculopapular ou Pele urticariforme)
+ Náuseas, vómitos, diarreia, dor abdominal, ulceração oral Tracto gastrintestinal
+ Dispneia, tosse, odinofagia, síndrome de dificuldade Tracto respiratório respiratória do adulto, falência respiratória
+ Febre, letargia, mal-estar, edema, linfadenopatia, Outros hipotensão, conjuntivite, anafilaxia
+ Cefaleias, parestesia Neurológicos/psiquiátricos
+ Linfopenia Hematológicos
+ Aumento dos valores dos testes da função hepática, Fígado/pâncreas hepatite, falência hepática
+ Mialgia, raramente miólise, artralgia, aumento da Músculosqueléticos creatinafosfoquinase
+ Creatinina elevada, falência renal Urológicos
+ 9 Alguns doentes com reacções de hipersensibilidade pareciam, inicialmente, ter gastrenterite, doença respiratória (pneumonia, bronquite, faringite) ou doença do tipo gripe. Este atraso no diagnóstico de hipersensibilidade, resultou na continuidade do tratamento com abacavir ou na sua reintrodução, conduzindo a reacções de hipersensibilidade mais graves ou morte. Deste modo, o diagnóstico de reacção de hipersensibilidade deverá ser cuidadosamente considerado em doentes que refiram sintomas destas doenças.
+ Os sintomas aparecem usualmente nas primeiras seis semanas (média do tempo para início de 11 dias) após início do tratamento com abacavir, embora estas reacções possam ocorrer em qualquer altura durante a terapêutica. É necessário cuidadosa monitorização durante os 2 primeiros meses, com consulta de duas em duas semanas.
+ É provável que a terapêutica intermitente possa aumentar o risco de desenvolvimento de sensibilização e, portanto, de ocorrência de reacções de hipersensibilidade clinicamente significativas. Por consequência, o doente deve ser advertido sobre a importância de tomar Kivexa regularmente.
+ A re-administração de abacavir após uma reacção de hipersensibilidade, resulta na recorrência rápida dos sintomas em algumas horas. Esta recorrência é geralmente mais grave do que a forma inicial e poderá incluir hipotensão potencialmente fatal e morte. Os doentes que desenvolverem esta reacção de hipersensibilidade têm que interromper Kivexa e nunca mais reiniciar o tratamento com Kivexa, ou com qualquer outro medicamento que contenha abacavir (Ziagen ou Trizivir).
+ De forma a evitar atraso no diagnóstico e minimizar o risco de reacção de hipersensibilidade potencialmente fatal, o abacavir tem que ser interrompido permanentemente caso não se possa excluir hipersensibilidade, mesmo quando são possíveis outros diagnósticos (doenças respiratórias, síndrome gripal, gastrenterite ou reacções a outros medicamentos).
+ Após reinício de abacavir ocorreram reacções de hipersensibilidade de início rápido, incluindo reacções com risco de vida, em doentes que tiveram apenas um dos sintomas chave de hipersensibilidade (erupção cutânea, febre, sintomas gastrintestinais, respiratórios ou constitucionais tais como letargia e mal-estar) previamente à interrupção de abacavir. O sintoma isolado mais comum de reacção de hipersensibilidade foi erupção cutânea. Além disso, muito raramente, foram notificadas reacções de hipersensibilidade em doentes que reiniciaram a terapêutica e que não tinham apresentado sintomas precedentes de reacção de hipersensibilidade. Em ambas as situações, caso se decida reiniciar abacavir, deverá ser feito num local em que sejam facilmente acessíveis cuidados médicos.
+ Cada doente deve ser avisado sobre a reacção de hipersensibilidade ao abacavir.
+ Muitas das reacções adversas listadas na tabela abaixo ocorreram frequentemente (náuseas, vómitos, diarreia, febre, letargia, erupção cutânea) em doentes com hipersensibilidade a abacavir. Assim, os doentes com qualquer destes sintomas devem ser cuidadosamente avaliados para despiste desta reacção de hipersensibilidade. Se Kivexa tiver sido interrompido em doentes que manifestaram qualquer destes sintomas e for tomada a decisão de reinício do tratamento com um medicamento contendo abacavir, tal deve ser realizado num local onde a assistência médica esteja rapidamente disponível (ver secção 4.4). Foram notificados casos muito raros de eritema multiforme, síndrome de Stevens-Johnson ou necrólise epidérmica tóxica em que a hipersensibilidade ao abacavir não pôde ser excluída. Nestas situações os medicamentos contendo abacavir devem ser interrompidos permanentemente.
+ As reacções adversas consideradas no mínimo com nexo de causalidade possível com abacavir ou lamivudina estão listadas abaixo, segundo a classificação por sistema orgânico, classe de órgão e frequência absoluta. Estas frequências estão definidas como Muito frequentes (&gt; 1/10), Frequentes (&gt; 1/100, &lt; 1/10), Pouco frequentes (&gt; 1/1 000, &lt; 1/100), Raros (&gt; 1/10 000, &lt; 1/1 000) e Muito raros (&lt; 1/10 000).
+ 10
+ Classe de órgãos Abacavir Lamivudina Doenças do sangue e do sistema linfático
+ Pouco frequentes: Neutropenia e anemia (ambas ocasionalmente graves), trombocitopenia Muito raros: Aplasia pura dos glóbulos vermelhos
+ Doenças do sistema imunitário Doenças do metabolismo e da nutrição
+ Frequentes: hipersensibilidade Frequentes: anorexia
+ Doenças do sistema nervoso Frequentes: cefaleias Frequentes: Cefaleias, insónia. Muito raros: Foram notificados casos de neuropatia periférica (ou parestesia)
+ Doenças respiratórias, torácicas e do mediastino
+ Frequentes: Tosse, sintomas nasais Doenças gastrointestinais Frequentes: náuseas, vómitos, diarreia Raros: foi notificada pancreatite mas a sua relação causal com o tratamento com abacavir não está determinada
+ Frequentes: Náuseas, vómitos, dor abdominal ou cólicas, diarreia Raros: Aumento da amilase sérica. Foram notificados casos de pancreatite
+ Afecções hepatobiliares Pouco frequentes: Aumento transitório das enzimas hepáticas (AST, ALT) Raros: Hepatite
+ Afecções dos tecidos cutâneos e subcutâneas
+ Frequentes: erupção cutânea (sem sintomas sistémicos) Muito raros: eritema multiforme, síndrome de Stevens-Johnson e necrólise epidérmica tóxica
+ Frequentes: Erupção cutânea, alopecia Afecções musculosqueléticas e dos tecidos conjuntivos
+ Frequentes: Artralgia, alterações musculares Raros: Rabdomiólise
+ Perturbações gerais e alterações no local de administração
+ Frequentes: febre, letargia, fadiga
+ Frequentes: fadiga, mal-estar geral, febre.
+ Foram notificados casos de acidose láctica, por vezes fatal, usualmente associada a hepatomegalia grave e esteatose hepática, com a utilização de análogos de nucleósido (ver secção 4.4).
+ A terapêutica de associação antirretrovírica foi associada à redistribuição do tecido adiposo corporal (lipodistrofia) em doentes infectados pelo VIH, incluindo a perda da camada adiposa subcutânea periférica e facial, aumento de tecido adiposo intra-abdominal e visceral, hipertrofia mamária e acumulação de gordura dorsocervical (nuca de búfalo).
+ A terapêutica de associação antirretrovírica foi associada a alterações metabólicas, tais como hipertrigliceridemia, hipercolesterolemia, resistência à insulina, hiperglicemia e hiperlactacidemia (ver secção 4.4).
+ 11 Em doentes infectados pelo VIH com deficiência imunológica grave à data de início da terapêutica antirretroviral combinada (TARC), pode ocorrer uma reacção inflamatória a infecções oportunistas assintomáticas ou residuais (ver secção 4.4).
+ Foram notificados casos de osteonecrose, particularmente em doentes com factores de risco identificados, doença por VIH avançada ou exposição prolongada a terapêutica anti-retroviral combinada (TARC). A sua frequência é desconhecida (ver secção 4.4).
+ 4.9 Sobredosagem Além dos efeitos indesejáveis já referidos, não foram descritos sinais ou sintomas específicos após sobredosagem aguda com abacavir ou lamivudina.
+ Caso ocorra sobredosagem, o doente deve ser monitorizado quanto a evidência de toxicidade (ver secção 4.8), recomendando-se o tratamento de suporte padrão conforme necessário. Visto que a lamivudina é dialisável, a hemodiálise contínua poderá ser utilizada no tratamento da sobredosagem, embora esta hipótese não tenha sido estudada. Desconhece-se se o abacavir é eliminado por diálise peritoneal ou hemodiálise.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Antivíricos para tratamento de HIV, combinações, código ATC: J05AR02.
+ Mecanismo de acção: o abacavir e a lamivudina são NRTIs e inibidores selectivos e potentes do VIH-1 e do VIH-2. Ambos, abacavir e lamivudina, são metabolizados sequencialmente até o 5 ’-trifosfato (TP) respectivo, que é a fracção activa, pelas cinases intracelulares. A lamivudina-TP e o carbovir-TP (forma trifosfatada activa do abacavir) são substratos para, e inibidores competitivos da transcriptase reversa (TR) do VIH. No entanto, pensa-se que a sua principal actividade antivírica consiste na incorporação da forma monofosfatada na cadeia de ADN vírica, resultando no término da cadeia. Os trifosfatos de abacavir e lamivudina mostram afinidade significativamente inferior para as ADN-polimerases das células do hospedeiro.
+ A lamivudina tem mostrado ser altamente sinérgica com a zidovudina, inibindo a replicação do VIH em culturas celulares. O abacavir mostra sinergismo in vitro em associação com amprenavir, nevirapina e zidovudina. A associação com a didanosina, estavudina e lamivudina tem demonstrado ter efeito aditivo.
+ Resistência in vitro: A resistência do VIH-1 à lamivudina relaciona-se com o desenvolvimento de uma alteração M184I ou, mais frequentemente do aminoácido M184V, próximo do sítio activo da TR vírica.
+ Foram seleccionados in vitro isolados de VIH-1 resistentes ao abacavir, associados com alterações genotípicas específicas na região dos codões para a TR (codão M184V, K65R, L74V e Y115F). A resistência vírica ao abacavir desenvolve-se com relativa lentidão in vitro, sendo necessárias múltiplas mutações para um aumento clinicamente relevante na CE50 do vírus selvagem.
+ Resistência in vivo (Doentes sem terapêutica prévia): As variantes M184V ou M184I surgem em doentes infectados com o VIH-1 tratados com terapêuticas antiretrovíricas contendo lamivudina.
+ Isolados da maioria dos doentes que sofreram falência virológica com um regime contendo abacavir nos ensaios clínicos principais, demonstraram que, ou não tiveram alterações relacionadas com NRTI’ s desde o basal (45%) ou apenas selecção de M184V ou M184I (45%). A frequência de
+ 12 selecção total para M184V ou M184I foi alta (54%), menos comum foi a selecção de L74V (5%), K65R (1%) e Y115F (1%) (ver tabela). Verificou-se que a introdução de zidovudina no regime reduz a frequência de selecção de L74V e K65R na presença de abacavir (com zidovudina: 0/40, sem zidovudina: 15/192,8%).
+ Abacavir+ Abacavir+ lamivudina+ Abacavir+ Terapêutica
+ lamivudina+
+ Total Combivir1 NNRTI IP (ou IP/ritonavir) Número de indivíduos Número de
+ 282 1094 909 2285 Falências Virológicas Número de 43 90 158 306 51 (100%) 2
+ Genótipos em Terapêutica 40 (100%)
+ 141 (100%) 232 (100%) K65R 1 (2%) 2 (1%) 3 (1%) L74V 9 (18%) 3 (2%) 12 (5%) Y115F 2 (4%) 2 (1%) M184V/I 34 (85%) 22 (43%) 70 (50%) 126 (54%) TAMs3 3 (8%) 2 (4%) 4 (3%) 9 (4%) 1. Combivir é uma associação de dose fixa de lamivudina e zidovudina 2. Inclui três falências não virológicas e quatro falências virológicas não confirmadas. 3. Número de indivíduos com mutações dos análogos da timidina ≥1 (TAMs).
+ As TAMs podem ser seleccionadas quando os análogos da timidina são associados ao abacavir. Numa meta-análise de seis ensaios clínicos, as TAM’ s não foram seleccionadas por regimes contendo abacavir sem zidovudina (0/127), mas foram seleccionados por regimes contendo abacavir e o análogo da timidina zidovudina (22/86,26%).
+ Resistência in vivo (Doentes com terapêutica prévia): As variantes M184V ou M184I surgem em doentes infectados com o VIH-1 tratados com terapêuticas antiretrovíricas contendo lamivudina, e conferem um nível elevado de resistência à lamivudina. Os dados in vitro, sugerem que a continuação da lamivudina no regime antirretroviral, apesar do desenvolvimento de M184V, pode originar actividade antirretroviral residual (provavelmente através do compromisso da replicação viral). A relevância clínica destes dados não foi estabelecida. De facto, os dados clínicos disponíveis são muito limitados e impedem quaisquer conclusões fiáveis neste campo. De qualquer forma, deve ser sempre preferida a iniciação de NRTIs susceptíveis, à manutenção da terapêutica com lamivudina. Assim, a manutenção da terapêutica com lamivudina, apesar da emergência da mutação M184V, apenas deve ser considerada em casos onde não estão disponíveis outros NRTIs activos.
+ Foi demonstrada uma redução clinicamente significativa na susceptibilidade ao abacavir, em isolados clínicos de doentes com replicação vírica não controlada, que foram tratados previamente com e são resistentes a outros inibidores dos nucleósidos. Numa meta-análise de cinco ensaios clínicos, onde o abacavir foi adicionado para intensificar a terapêutica, de 166 indivíduos,123 (74%) tiveram M184V/I,50 (30%) tiveram T215Y/F,45 (27%) tiveram M41L,30 (18%) tiveram K70R e 25 (15%) tiveram D67N. O K65R esteve ausente e L74V e Y115F foram pouco frequentes (&lt; 3%). Modelos de regressão logística do valor preditivo para o genótipo (ajustado para ARN VIH-1 plamático[ ARNv] no basal, contagem das células CD4+, número e duração de terapêuticas antirretrovíricas anteriores), demonstraram que a presença de 3 ou mais mutações associadas a resistência a NRTIs, estava associada a uma resposta reduzida à semana 4 (p=0,015) ou a 4 ou mais mutações na semana 24 (p≤0,012). Adicionalmente, o complexo de inserção 69 ou a mutação Q151M, normalmente encontrada em associação com A62V, V751, F77L e F116Y, causam um nível elevado de resistência ao abacavir.
+ 13 Semana 4 Mutações da (n= 166) Transcriptase
+ Reversa no Alteração Percentagem com basal
+ n
+ Média ARNv &lt; 400 cópias/mL
+ (log10 c/mL)
+ ARNv Nenhuma 15 -0,96
+ 40% 75 -0,74
+ 64% Apenas M184V Qualquer
+ mutação NRTI Quaisquer duas mutações
+ 82 -0,72
+ 65% associadas a NRTI Quaisquer três mutações
+ 22 -0,82
+ 32% associadas a NRTI Quatro ou mais mutações
+ 19 -0,30
+ 5% associadas a NRTI
+ 28 -0,07
+ 11% Resistência fenotípica e resistência cruzada: A resistência fenotípica ao abacavir requer M184V com, pelo menos outra mutação ao abacavir, ou M184V com múltiplas TAMs. A resistência fenotípica cruzada a outros NRTI’ s apenas com a mutação M184V ou M184I é limitada. A Zidovudina, didanosina, estavudina e tenofovir mantêm a sua actividade antiretrovírica contra estas variantes HIV-1. A presença de M184V com K65R aumenta a resistência cruzada entre abacavir, tenofovir, didanosina e lamivudina e, M184V com L74V aumenta a resistência cruzada entre abacavir, didanosina e lamivudina. A presença de M184V com Y115F aumenta a resistência cruzada entre abacavir e lamivudina. A utilização apropriada de abacavir pode ser seguida utilizando algoritmos actualmente recomendados para as resistências.
+ Não é provável a ocorrência de resistência cruzada entre o abacavir ou a lamivudina e antirretrovíricos de outras classes como por exemplo os IPs ou os NNRTIs.
+ Experiência clínica Terapêutica em doentes sem terapêutica prévia A associação de abacavir e lamivudina como regime uma vez dia, é apoiada por um ensaio multicêntrico, controlado, em dupla ocultação (CNA30021) de 770 doentes infectados pelo VIH, sem terapêutica prévia. Estes doentes eram principalmente doentes assintomáticos infectados pelo VIH (estadio A do CDC). Os doentes foram randomizados para receber ou 600 mg de abacavir (ABC) uma vez dia, ou 300 mg duas vezes dia, em associação com 300 mg de lamivudina uma vez dia e 600 mg de efavirenze uma vez dia. Os resultados estão sumarizados na tabela abaixo:
+ Resposta virológica com base no ARN VIH-1 plasmático &lt; 50 cópias/ml, na semana 48 ITT-População em Intenção de Tratar
+ Posologia ABC uma vez/dia ABC duas vezes/dia (N= 384)
+ (N= 386)
+ 253/384 (66%) 261/386 (68%) Resposta virológica
+ Observou-se sucesso clínico semelhante (valor estimado para diferença do tratamento:-1,7, IC 95%-
+ 14 8,4, 4,9) para ambos os regimes. A partir destes resultados pode concluir-se com 95% de confiança que a verdadeira diferença não é superior a 8,4% em favor do regime duas vezes dia. Esta potencial diferença é suficientemente pequena para retirar uma conclusão global da não-inferioridade do abacavir uma vez dia relativamente a abacavir duas vezes dia.
+ A incidência da falência virológica foi baixa e, geralmente, semelhante (carga viral &gt; 50 cópias/ml) em ambos os grupos de tratamento, uma e duas vezes dia (10% e 8%, respectivamente). Na pequena amostra para a análise genotípica, verificou-se uma tendência para uma taxa superior de mutações associadas aos NRTIs no regime de abacavir uma vez dia versus duas vezes dia. Devido à limitada informação proveniente deste estudo, não se pode retirar conclusões definitivas. Informações de longo prazo, com abacavir utilizado como regime uma vez dia (superior a 48 semanas) são actualmente limitadas.
+ Doentes com terapêutica prévia No estudo CAL30001,182 doentes com falência virológica, sujeitos a tratamento prévio, foram randomizados e receberam tratamento com Kivexa uma vez dia ou 300 mg de abacavir duas vezes dia, mais 300 mg de lamivudina uma vez dia, ambos em associação com tenofovir e um IP ou um NNRTI durante 48 semanas. Os resultados indicaram que o grupo Kivexa foi não-inferior ao grupo abacavir duas vezes dia, com base em reduções semelhantes no ARN VIH-1, como avaliado pela média da área sob a curva menos valores iniciais (AAUCMB,-1,65 log10 cópias/ml versus-1,83 log10 cópias/ml respectivamente, IC 95%-0,13, 0,38). As porporções com ARN VIH-1 &lt; 50 cópias/ml (50% versus 47%) e &lt; 400 cópias/ml (54% versus 57%) foram também semelhantes em cada grupo (população em intenção de tratar). Contudo, uma vez que no estudo só foram incluidos doentes com terapêutica antirretrovírica prévia moderada com um desequilibrio nos valores iniciais da carga vírica entre os braços do estudo, estes resultados devem ser interpretados com precaução.
+ No estudo ESS30008,260 doentes com controlo virológico numa terapêutica de primeira linha, num regime contendo 300 mg de abacavir mais 150 mg de lamivudina, ambos administrados duas vezes dia e um IP ou NNRTI, foram randomizados para continuar com este regime ou alterar para Kivexa mais um IP ou NNRTI durante 48 semanas. Os resultados indicaram que o grupo Kivexa estava associado com resultados virológicos semelhantes (não-inferior) comparativamente ao grupo abacavir mais lamivudina, com base na percentagem de indivíduos com ARN VIH-1 &lt; 50 cópias/ml (90% e 85%, respectivamente, IC 95%-2,7, 13,5).
+ 5.2 Propriedades farmacocinéticas O comprimido de associação fixa (CDF) abacavir/lamivudina tem demonstrado ser bioequivalente a lamivudina e abacavir administrados separadamente. Este facto foi demonstrado num estudo cruzado de bioequivalência de 3 braços, de dose única de CDF (em jejum), versus 2 x 300 mg de abacavir mais 2 x 150 mg de lamivudina em comprimidos (em jejum), versus CDF administrado com uma refeição rica em gordura, em voluntários saudáveis (n= 30). Em jejum, não se verificou diferença significativa na extensão da absorção, como avaliado pela área sob a curva (AUC) e pela concentração máxima (Cmax) da curva concentração plasmática-tempo, para cada componente. Também não se observaram diferenças clínicas significativas do efeito dos alimentos entre a administração de CDF em jejum ou pós-prandial. Estes resultados indicam que o CDF pode ser tomado com ou sem alimentos. As propriedades farmacocinéticas da lamivudina e do abacavir estão descritas abaixo.
+ Absorção O abacavir e a lamivudina são bem e rapidamente absorvidos no tracto gastrintestinal, após administração oral. A biodisponibilidade oral absoluta do abacavir e da lamivudina no adulto é, cerca de,83% e 80-85%, respectivamente. O tempo médio (tmax) para as concentrações séricas máximas é de aproximadamente 1,5 horas e 1 hora para o abacavir e para a lamivudina, respectivamente. Após administração única de 600 mg de abacavir, a Cmax média (CV) é de 4,26 µg/ml (28%) e a AUC∞ média (CV) é de 11,95 µg. h/ml (21%). Após administração oral de doses múltiplas de 300 mg de lamivudina, uma vez dia, durante sete dias, a Cmax média (CV) no estado estacionário é 2,04 µg/ml (26%) e a AUC24 média (CV) é de 8,87 µg. h/ml (21%).
+ 15 Distribuição
+ Ensaios de administração intravenosa efectuados com abacavir e lamivudina mostraram que o volume de distribuição aparente médio é de 0,8 e 1,3 l/kg, respectivamente. Estudos in vitro de ligação às proteínas plasmáticas indicam que o abacavir se liga apenas pouco a moderadamente (≈ 49%) às proteínas plasmáticas humanas, quando em concentrações terapêuticas. A lamivudina exibe farmacocinética linear em todas as doses terapêuticas e baixa ligação às principais proteínas plasmáticas in vitro (&lt; 36%). Este facto indica uma baixa probabilidade para interacções medicamentosas devidas a deslocação da ligação às proteínas plasmáticas.
+ A informação disponível mostra que o abacavir e a lamivudina penetram no sistema nervoso central (SNC) e atingem o líquido cefalorraquidiano (LCR). Os ensaios clínicos com abacavir demonstraram uma relação LCR/AUC plasmática entre 30 a 44%. Os valores observados para as concentrações máximas são 9 vezes superiores à CI50 do abacavir de 0,08 μg/ml ou 0,26 μM, quando o abacavir é administrado duas vezes por dia, em doses de 600 mg. A média da razão LCR/concentração sérica da lamivudina, 2-4 horas após administração oral, foi de aproximadamente 12%. Desconhece-se o verdadeiro grau de penetração da lamivudina no SNC e a sua relação com qualquer eficácia clínica.
+ Metabolismo O abacavir é metabolizado principalmente por via hepática, sendo excretado por via renal aproximadamente 2% da dose administrada, na forma inalterada. As principais vias metabólicas no ser humano são pela desidrogenase alcoólica e por glucuronidação, com formação do ácido 5 ′-carboxílico e do 5 ′-glucuronido que representam cerca de 66% da dose administrada. Estes metabolitos são excretados na urina.
+ O metabolismo da lamivudina é uma via menor de eliminação. A lamivudina é predominantemente eliminada por excreção renal da forma inalterada. A probabilidade de interacções medicamentosas metabólicas com a lamivudina é baixa devido ao reduzido grau de metabolismo hepático (5-10%).
+ Eliminação O tempo de semi-vida médio do abacavir é de cerca de 1,5 horas. Após administração oral de doses múltiplas de 300 mg de abacavir, duas vezes dia, não há acumulação significativa do abacavir. O abacavir é eliminado por metabolização hepática com excreção subsequente dos metabolitos, principalmente na urina. Cerca de 83% da dose administrada de abacavir é eliminada na urina, inalterada e na forma de metabolitos, o restante é eliminado nas fezes.
+ O tempo de semi-vida de eliminação observado para a lamivudina é 5 a 7 horas. A depuração sistémica média da lamivudina é aproximadamente 0,32 l/h/kg, com predominância da depuração renal (&gt; 70%) através do sistema de transporte catiónico orgânico. Estudos em doentes com insuficiência renal mostraram que a eliminação da lamivudina é afectada pela disfunção renal. É necessário redução da dose em doentes com depuração da creatinina &lt; 50 ml/min (ver secção 4.2).
+ Farmacocinética intracelular Num estudo em 20 doentes com infecção VIH a receberem 300 mg de abacavir duas vezes dia, apenas com uma dose de 300 mg administrada antes do período de amostragem de 24 horas, a média geométrica do tempo de semi-vida intracelular terminal no estado estacionário do carbovir-TP foi de 20,6 h, comparativamente a 2,6 horas da média geométrica plasmática do tempo de semi-vida do abacavir, neste estudo. Num estudo cruzado em 27 doentes infectados com VIH, a exposição intracelular ao carbovir-TP foi superior para o abacavir 600 mg em regime de toma única diária (AUC24, ss+ 32%, Cmax24, ss+ 99% e Cmin+ 18%) comparativamente ao regime de 300 mg duas vezes por dia. Para doentes a receber 300 mg de lamivudina uma vez dia, o tempo de semi-vida intracelular terminal da lamivudina-TP foi prolongado para 16-19 horas, comparativamente ao tempo de semi-vida plasmático da lamivudina de 5-7 horas. Num estudo cruzado em 60 voluntários 16 saudáveis, os parâmetros farmacocinéticos intracelulares para a lamivudina-TP foram similares (AUC24, ss e Cmax24, ss) ou inferiores (Cmin-24%) para a lamivudina 300 mg em regime de toma única diária comparativamente ao regime de lamivudina 150 mg duas vezes por dia. De um modo geral, esta informação sustenta a utilização de 300 mg de lamivudina e 600 mg de abacavir uma vez dia, para o tratamento de doentes infectados pelo VIH. Adicionalmente, a eficácia e segurança desta associação administrada uma vez dia foi demonstrada num ensaio clínico piloto (CNA30021 – Ver Experiência clínica).
+ Populações especiais Compromisso hepático: Não está disponível informação sobre a utilização de Kivexa em doentes com insuficiência hepática. Os dados de farmacocinética foram obtidos para o abacavir e lamivudina isolados.
+ O abacavir é metabolizado principalmente pelo fígado. A farmacocinética do abacavir foi estudada em doentes com insuficiência hepática ligeira (classificação de Child-Pugh 5-6) a tomar uma dose única de 600 mg. Os resultados mostraram que ocorreu um aumento médio de um factor de 1,89 na AUC do abacavir[ 1,32: 2,70], e de um factor de 1,58 no seu tempo de semi-vida de eliminação[ 1,22: 2,04]. Não é possível recomendar redução da dose em doentes com compromisso hepático ligeiro devido à substancial variabilidade da exposição ao abacavir.
+ A informação obtida em doentes com compromisso hepático moderado a grave mostra que a farmacocinética da lamivudina não é significativamente alterada pela disfunção hepática.
+ Compromisso renal: Os dados de farmacocinética foram obtidos para a lamivudina e abacavir isolados. O abacavir é metabolizado principalmente pelo fígado, com aproximadamente 2% excretados na urina na forma inalterada. A farmacocinética do abacavir é semelhante em doentes com doença renal terminal e em doentes com função renal normal. Estudos com a lamivudina mostraram que as concentrações plasmáticas (AUC) estão aumentadas em doentes com disfunção renal, devido à diminuição da depuração. É necessário redução da dose em doentes com depuração da creatinina &lt; 50 ml/min.
+ Idosos: não estão disponíveis dados farmacocinéticos em doentes com idade superior a 65 anos.
+ 5.3 Dados de segurança pré-clínica Não está disponível informação sobre os efeitos da associação abacavir e lamivudina em animais, com excepção do teste negativo, in vivo, de formação de micronúcleos no rato.
+ Mutagenicidade e carcinogenicidade O abacavir e a lamivudina não foram mutagénicos nos testes bacterianos, no entanto, como muitos análogos de nucleósido, mostraram actividade nos testes in vitro em células de mamíferos, tais como o ensaio do linfoma no ratinho. Este facto é consistente com a actividade conhecida de outros análogos de nucleósido. Os resultados de um teste in vivo de formação de micronúcleos no rato, com abacavir e lamivudina em associação foram negativos.
+ A lamivudina não mostrou qualquer actividade genotóxica em estudos in vivo, em doses que originaram concentrações plasmáticas até 30-40 vezes superiores aos níveis plasmáticos clínicos. O abacavir, em concentrações elevadas, tem baixo potencial para induzir danos cromossómicos, in vitro e in vivo.
+ O potencial carcinogénico da associação abacavir e lamivudina não foi estudado. Em estudos de carcinogenicidade a longo prazo no rato e no ratinho, a lamivudina por via oral não mostrou qualquer potencial carcinogénico. Os estudos de carcinogenicidade realizados com administração oral de abacavir em ratinho e rato, mostraram um aumento na incidência de tumores malignos e não malignos. Os tumores malignos ocorreram ao nível da glândula prepucial dos machos e na glândula clitoridiana
+ 17 das fêmeas de ambas as espécies, ao nível da glândula tiróide nos ratos macho e ao nível do fígado, bexiga, nódulos linfáticos e subcútis nos ratos fêmea.
+ A maioria destes tumores ocorreram após administração da dose mais elevada de abacavir de 330 mg/kg/dia no ratinho e de 600 mg/kg/dia no rato. A excepção foram os tumores da glândula prepucial que ocorreram com uma dose de 110 mg/kg nos ratinhos. A exposição sistémica em ratinhos e ratos para o nível de dose tóxica limiar, foi equivalente a 3 a 7 vezes a exposição sistémica terapêutica humana. Embora se desconheça o potencial carcinogénico no ser humano, estes dados sugerem que o risco carcinogénico para o ser humano é superado pelo potencial benefício clínico.
+ Toxicidade após administração reiterada Nos estudos toxicológicos, o abacavir mostrou aumentar o peso do fígado no rato e no macaco. Desconhece-se a relevância clínica deste efeito. Os ensaios clínicos não evidenciaram efeito hepatotóxico para o abacavir. Além disso, no ser humano não se observou auto-indução do metabolismo do abacavir ou indução do metabolismo de outros fármacos metabolizados pelo fígado.
+ Após administração de abacavir durante dois anos, observou-se degeneração ligeira do miocárdio no coração do ratinho e rato. As exposições sistémicas foram equivalentes a 7 a 24 vezes a exposição sistémica expectável no ser humano. Não foi determinada a relevância clínica deste resultado.
+ Toxicidade reprodutiva Em ensaios de toxicidade reprodutiva em animais, a lamivudina e o abacavir demostraram atravessar a placenta.
+ A lamivudina não foi teratogénica nos estudos animais, no entanto, demonstrou causar um aumento de mortes embrionárias precoces no coelho a exposições sistémicas relativamente baixas, comparáveis às atingidas no ser humano. Este efeito não se observou no rato, mesmo a exposição sistémica muito elevada.
+ O abacavir demonstrou toxicidade no desenvolvimento embrionário e fetal no rato, mas não no coelho. Estes achados incluíram diminuição do peso corporal fetal, edema fetal e um aumento de alterações/malformações ósseas, de morte intra-uterina precoce e de nados-mortos. A toxicidade embriofetal observada não permite estabelecer conclusões em relação ao potencial teratogénico do abacavir.
+ Um estudo de fertilidade efectuado no rato mostrou que o abacavir e a lamivudina não tem efeito na fertilidade masculina ou feminina.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Núcleo: estearato de magnésio celulose microcristalina carboximetilamido sódico.
+ Revestimento: Opadry Laranja YS-1-13065-A contendo: hipromelose dióxido de titânio (E171) macrogol 400 polissorbato 80 laca de alumínio amarelo alaranjado S (E110).
+ 18 6.2 Incompatibilidades
+ Não aplicável. 6.3 Prazo de validade 3 anos. 6.4 Precauções especiais de conservação
+ Não conservar acima de 30ºC. 6.5 Natureza e conteúdo do recipiente Embalagem de 30 comprimidos acondicionados em blister opaco branco (PVC/PVDC/Alumínio) ou em frasco branco (HDPE), com fecho resistente à abertura por crianças. Embalagem de 90 (3 x 30) comprimidos acondicionados em blister opaco branco (PVC/PVDC/Alumínio) É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ Não existem requisitos especiais. 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Glaxo Group Ltd Greenford Middlesex UB6 0NN Reino Unido
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/04/298/001-002 EU/1/04/298/003 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 17 Dezembro 2004 10. DATA DA REVISÃO DO TEXTO Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu/
+ .
+ 19 ANEXO II
+ A. TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 20 A. TITULAR(ES) DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do fabricante responsável pela libertação do lote
+ Glaxo Operations UK Ltd (comercializando como Glaxo Wellcome Operations) Priory Street Ware Hertfordshire SG12 0DJ Reino Unido
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento de receita médica restrita, de utilização reservada a certos meios especializados (ver anexo I: Resumo das Características do Medicamento, 4.2.).
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ Não aplicável. 21 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 22 A. ROTULAGEM
+ 23 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ EMBALAGEM EXTERIOR – BLISTER (COM BLUE BOX) (EXCLUINDO EMBALAGENS MÚLTIPLAS)
+ 1. NOME DO MEDICAMENTO Kivexa 600 mg/300 mg comprimidos revestidos por película abacavir/lamivudina
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada comprimido revestido contém: 600 mg de abacavir (sob a forma de sulfato) 300 mg de lamivudina
+ 3. LISTA DOS EXCIPIENTES 4. FORMA FARMACÊUTICA E CONTEÚDO 30 comprimidos revestidos por película 5. MODO E VIA(S) DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar. Via oral
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ Contém amarelo alaranjado S (E110), ver folheto informativo para mais informação.
+ Destaque o Cartão de Alerta incluído, contém informação de segurança importante
+ ATENÇÃO! Em caso de quaisquer sintomas sugestivos de reacção de hipersensibilidade, contacte o seu médico IMEDIATAMENTE.
+ “ Puxe aqui ”
+ 24 8. PRAZO DE VALIDADE
+ VAL. 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Não conservar acima de 30°C 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Glaxo Group Ltd Greenford Middlesex UB6 0NN Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/04/298/002 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE 25 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ EMBALAGEM MÚLTIPLA APENAS-ROTULAGEM EXTERIOR (COM BLUE BOX) 3x30 COMPRIMIDOS ENVOLVIDAS EM PLÁSTICO TRANSPARENTE
+ 1. NOME DO MEDICAMENTO Kivexa 600 mg/300 mg comprimidos revestidos por película abacavir/lamivudina
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada comprimido revestido contém: 600 mg de abacavir (sob a forma de sulfato) 300 mg de lamivudina
+ 3. LISTA DOS EXCIPIENTES 4. FORMA FARMACÊUTICA E CONTEÚDO Embalagem múltipla com 3 embalagens contendo cada uma 30 comprimidos revestidos por película
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar
+ Via oral 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ Contém amarelo alaranjado S (E110), ver folheto informativo para mais informação.
+ ATENÇÃO! Em caso de quaisquer sintomas sugestivos de reacção de hipersensibilidade, contacte o seu médico IMEDIATAMENTE.
+ 8. PRAZO DE VALIDADE VAL. 26 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Não conservar acima de 30°C 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Glaxo Group Ltd Greenford Middlesex UB6 0NN Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/04/298/003 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE 27 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ EMBALAGEM MÚLTIPLA APENAS – EMBALAGEM EXTERIOR – BLISTER (SEM BLUE BOX) 30 COMPRIMIDOS
+ 1. NOME DO MEDICAMENTO Kivexa 600 mg/300 mg comprimidos revestidos por película abacavir/lamivudina
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada comprimido revestido contém: 600 mg de abacavir (sob a forma de sulfato) 300 mg de lamivudina
+ 3. LISTA DOS EXCIPIENTES 4. FORMA FARMACÊUTICA E CONTEÚDO 30 comprimidos revestidos por película Componente de embalagem múltipla composta por 3 embalagens contendo cada uma 30 comprimidos revestidos por película, não pode ser vendido em separado
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar
+ Via oral 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ Contém amarelo alaranjado S (E110), ver folheto informativo para mais informação.
+ Destaque o Cartão de Alerta incluído, contém informação de segurança importante
+ ATENÇÃO! Em caso de quaisquer sintomas sugestivos de reacção de hipersensibilidade, contacte o seu médico IMEDIATAMENTE.
+ “ Puxe aqui ”
+ 28 8. PRAZO DE VALIDADE
+ VAL. 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Não conservar acima de 30°C 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Glaxo Group Ltd Greenford Middlesex UB6 0NN Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE 29 INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS “ BLISTER ” OU FITAS CONTENTORAS
+ 1. NOME DO MEDICAMENTO Kivexa 600 mg/300 mg comprimidos abacavir/lamivudina
+ 2. NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Glaxo Group Ltd 3. PRAZO DE VALIDADE VAL. 4. NÚMERO DO LOTE Lote 5. OUTRAS 30 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO E NO ACONDICIONAMENTO PRIMÁRIO
+ EMBALAGEM EXTERIOR – FRASCO E RÓTULO 1. NOME DO MEDICAMENTO Kivexa 600 mg/300 mg comprimidos revestidos por película abacavir/lamivudina
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada comprimido revestido contém: 600 mg de abacavir (sob a forma de sulfato) 300 mg de lamivudina
+ 3. LISTA DOS EXCIPIENTES 4. FORMA FARMACÊUTICA E CONTEÚDO 30 comprimidos revestidos por película 5. MODO E VIA(S) DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar
+ Via oral 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ Contém amarelo alaranjado S (E110), ver folheto informativo para mais informação.
+ Destaque o Cartão de Alerta incluído, contém informação de segurança importante
+ ATENÇÃO! Em caso de quaisquer sintomas sugestivos de reacção de hipersensibilidade, contacte o seu médico IMEDIATAMENTE.
+ 8. PRAZO DE VALIDADE VAL. 31 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Não conservar acima de 30°C 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Glaxo Group Ltd Greenford Middlesex UB6 0NN Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/04/298/001 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE 32 TEXTO PARA O CARTÃO DE ALERTA (blister e frasco)
+ FACE 1 IMPORTANTE-CARTÃO DE ALERTA Kivexa (sulfato de abacavir/lamivudina) Comprimidos Mantenha este cartão sempre consigo
+ Como Kivexa contém abacavir, alguns doentes a tomar Kivexa podem desenvolver uma reacção de hipersensibilidade (reacção alérgica grave) a qual pode colocar a vida em risco caso continue a tomar Kivexa. CONTACTE O SEU MÉDICO IMEDIATAMENTE para aconselhamento sobre a possível interrupção do tratamento com Kivexa, se: 1) apresentar erupção cutânea OU 2) apresentar um ou mais sintomas de pelo menos DOIS dos seguintes grupos
+ -febre
+ -dificuldade em respirar, dor de garganta ou tosse
+ -náuseas, vómitos, diarreia ou dor abdominal
+ -cansaço acentuado, dores ou sensação de mal-estar geral
+ Caso tenha interrompido o tratamento com Kivexa devido a esta reacção, NUNCA MAIS TOME Kivexa ou qualquer medicamento contendo abacavir (Ziagen ou Trizivir) pois, em algumas horas, pode ocorrer diminuição da pressão arterial com risco de vida ou morte.
+ (ver verso do cartão)
+ FACE 2 Deve contactar o seu médico imediatamente, caso pense ter uma reacção de hipersensibilidade a Kivexa. Anote aqui o contacto do seu médico:
+ Dr: ....................... ……………………… Telef: .. ……………… Caso o seu médico não esteja disponível, deve procurar ajuda médica alternativa com urgência (por ex. o serviço de urgência do hospital mais próximo).
+ Para informação geral sobre Kivexa, contacte ....................
+ 33 B. FOLHETO INFORMATIVO
+ 34 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Kivexa 600 mg/300 mg film-coated tablets abacavir/lamivudina
+ Leia atentamente este folheto antes de tomar este medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode
+ ser-lhes prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ REACÇÃO DE HIPERSENSIBILIDADE
+ Como Kivexa contém abacavir alguns doentes a tomar Kivexa podem desenvolver uma reacção de hipersensibilidade (reacção alérgica grave) a qual pode colocar a vida em risco caso continue a tomar Kivexa. É essencial que leia a informação sobre esta reacção na secção “ Tome especial cuidado com Kivexa ” deste folheto. Inclui-se na embalagem de Kivexa um Cartão de Alerta para lembrar a si e aos profissionais de saúde sobre a hipersensibilidade relacionada com o abacavir. Deve remover este cartão e mantê-lo sempre consigo.
+ CONTACTE O SEU MÉDICO IMEDIATAMENTE para aconselhamento sobre a possível interrupção do tratamento com Kivexa, se:
+ 1) 2)---- apresentar erupção cutânea OU tiver um ou mais sintomas de pelo menos DOIS dos seguintes grupos febre dificuldade em respirar, dor de garganta ou tosse náuseas, vómitos, diarreia ou dor abdominal cansaço acentuado, dores ou sensação de mal-estar geral
+ Caso tenha interrompido o tratamento com Kivexa devido a reacção de hipersensibilidade, NUNCA MAIS TOME Kivexa ou qualquer outro medicamento contendo abacavir (Ziagen ou Trizivir) pois, em algumas horas, poderá ocorrer diminuição da pressão arterial com risco de vida ou morte.
+ Caso seja hipersensível ao abacavir, deve devolver todos os comprimidos de Kivexa não utilizados para que sejam apropriadamente destruídos. Peça aconselhamento ao seu médico ou farmacêutico.
+ Neste folheto: 1. O que é Kivexa e para que é utilizado 2. Antes de tomar Kivexa 3. Como tomar Kivexa 4. Efeitos secundários possíveis 5. Como conservar Kivexa 6. Outras informações
+ 1. O QUE É KIVEXA E PARA QUE É UTILIZADO
+ Kivexa contém abacavir e lamivudina. Estas substâncias também estão disponíveis como medicamentos separados. Pertencem a um grupo de medicamentos antirretrovíricos, os quais são utilizados para o tratamento da infecção pelo Vírus da Imunodeficiência Humana (VIH), denominados análogos nucleósidos inibidores da transcriptase reversa (NRTIs). Estes inibidores são utilizados em associação com outros antirretrovíricos para o tratamento da infecção pelo VIH.
+ 35 Kivexa reduz a quantidade do VIH no sangue (carga vírica) e mantém-na baixa. Aumenta também o número de células sanguíneas CD4. As células CD4 são um tipo de glóbulos brancos que representam um importante papel na manutenção de um sistema imunitário saudável para ajudar no combate à infecção. A resposta ao tratamento com Kivexa varia entre doentes. O seu médico monitorizará a eficácia do seu tratamento.
+ 2. ANTES DE TOMAR KIVEXA Não tome Kivexa: se é alérgico (hipersensível) à substância activa abacavir, a qual também está presente nos
+ -
+ medicamentos Trizivir e Ziagen. se é alérgico à substância activa lamivudina ou a qualquer dos outros componentes de Kivexa.
+ -
+ -caso tenha doença grave do fígado.
+ Se não tem a certeza se deve estar a tomar Kivexa, fale com o seu médico antes de tomar este medicamento.
+ Tome especial cuidado com Kivexa Reacção de hipersensibilidade (reacção alérgica grave): cerca de 5 em cada 100 doentes tratados com abacavir, desenvolvem uma reacção de hipersensibilidade.
+ Através de investigação verificou-se que indivíduos com um gene chamado HLA-B (tipo 5701) estão mais propensos a ter uma reacção de hipersensibilidade ao abacavir. Contudo, mesmo que não tenha este tipo de gene continua a ser possível que desenvolva esta reacção. Se sabe que tem este tipo de gene, certifique-se que informa o seu médico antes de tomar abacavir.
+ Os sintomas mais comuns desta reacção são temperatura elevada (febre) e erupção cutânea. Outros sinais observados frequentemente são náuseas, vómitos, diarreia, dor abdominal e cansaço intenso. Outros sintomas poderão incluir dor muscular ou nas articulações, inchaço do pescoço, dificuldade em respirar, dor de garganta, tosse e dores de cabeça. Ocasionalmente, pode ocorrer inflamação dos olhos (conjuntivite), úlceras na boca ou diminuição da pressão arterial.
+ Os sintomas desta reacção alérgica podem ocorrer em qualquer altura durante o tratamento com abacavir. No entanto, ocorrem geralmente nas primeiras seis semanas de tratamento. Os sintomas agravam com a continuação do tratamento e podem pôr a vida em risco caso se continue o tratamento.
+ CONTACTE O SEU MÉDICO IMEDIATAMENTE para aconselhamento sobre a possível interrupção do tratamento com Kivexa, se: 1) apresentar erupção cutânea OU 2) tiver um ou mais sintomas de pelo menos DOIS dos seguintes grupos
+ -febre
+ -dificuldade em respirar, dor de garganta ou tosse
+ -náuseas, vómitos, diarreia ou dor abdominal
+ -cansaço acentuado, dores ou sensação de mal-estar geral
+ Caso tenha interrompido o tratamento com Kivexa devido a reacção de hipersensibilidade, NUNCA MAIS TOME Kivexa ou qualquer outro medicamento contendo abacavir (Ziagen ou Trizivir), pois, em algumas horas, pode ocorrer diminuição da pressão arterial com risco de vida ou morte.
+ Se parou de tomar Kivexa por qualquer motivo, particularmente porque pensa ter efeitos secundários ou por outra doença, é importante que contacte o seu médico antes de o reiniciar. O seu médico confirmará se algum dos sintomas que teve poderá estar relacionado com esta reacção de hipersensibilidade. Caso o seu médico considere que há possibilidade de relação causal, será aconselhado a nunca mais tomar Kivexa ou qualquer outro medicamento contendo abacavir (Ziagen ou Trizivir). É importante que siga este conselho.
+ 36 Ocorreram, ocasionalmente, reacções de hipersensibilidade com risco de vida quando o abacavir foi reiniciado em doentes que notificaram apenas um dos sintomas do Cartão de Alerta antes de interromperem o tratamento.
+ Muito raramente, foi notificada hipersensibilidade quando o abacavir foi reiniciado em doentes que não tinham tido sintomas de hipersensibilidade antes de interromperem o tratamento.
+ Caso seja hipersensível a abacavir, deve devolver todos os comprimidos de Kivexa não utilizados para que sejam apropriadamente destruídos. Peça aconselhamento ao seu médico ou farmacêutico.
+ Acidose láctica: a classe de medicamentos a que Kivexa pertence (NRTIs) pode causar uma situação denominada acidose láctica (excesso de ácido láctico no sangue), em conjunto com aumento do tamanho do fígado. A acidose láctica, caso ocorra, desenvolve-se usualmente após alguns meses de tratamento. A ocorrência de respiração profunda e rápida, sonolência e sintomas não específicos, tais como náuseas, vómitos e dor no estômago, poderá indicar o desenvolvimento de acidose láctica. Este efeito secundário raro, mas grave, ocorre com mais frequência na mulher, particularmente se obesa. Se tiver doença do fígado poderá também ter risco aumentado de ocorrência deste efeito. O seu médico monitorizá-lo-à regularmente enquanto tomar Kivexa, para controlo de quaisquer sinais de desenvolvimento de acidose láctica.
+ Distribuição da gordura corporal (tecido adiposo): pode ocorrer redistribuição, acumulação ou perda de tecido adiposo corporal nos doentes a receber terapêutica de associação antirretrovírica. Se notar alterações no tecido adiposo corporal, consulte o seu médico.
+ Doença do fígado/hepatite: diga ao seu médico se tiver antecedentes de doença do fígado. Os doentes com hepatite B ou C crónica tratados com antirretrovíricos, têm um risco aumentado de efeitos adversos no fígado graves e potencialmente fatais e poderão requerer análises sanguíneas para monitorização da função hepática.
+ Se tiver hepatite B, não deve interromper Kivexa sem instruções do seu médico, pois poderá ocorrer recidiva da hepatite. A recidiva pode ocorrer devido à interrupção repentina da lamivudina. Esta recidiva poderá ser mais grave se tiver doença do fígado grave.
+ Pancreatite: foi notificada inflamação do pâncreas (pancreatite) em alguns doentes tratados com abacavir e lamivudina, apesar de não se ter clarificado se este efeito foi devido ao medicamento ou à própria infecção VIH.
+ Síndrome de Reactivação Imunológica: Em alguns doentes com infecção avançada por VIH (SIDA) e história de infecção oportunista, podem ocorrer sinais e sintomas de inflamação resultantes de infecções anteriores, pouco tempo após o início do tratamento anti-VIH. Pensa-se que estes sintomas se devem a um aumento da resposta imunitária do organismo, habilitando-o a combater infecções que possam ter existido sem sintomas evidentes. Se notar quaisquer sintomas de infecção, por favor informe imediatamente o seu médico.
+ Problemas ósseos: Alguns doentes em terapêutica anti-retroviral combinada podem desenvolver uma doença óssea chamada osteonecrose (morte do tecido ósseo provocada por falta de afluxo de sangue ao osso). A duração da terapêutica anti-retroviral combinada, a utilização de corticosteróides, o consumo de álcool, a imunossupressão grave, um índice de massa corporal aumentado, entre outros, podem ser alguns dos inúmeros factores de risco para o desenvolvimento desta doença. Os sinais de osteonecrose são rigidez, mal-estar e dores nas articulações (especialmente na anca, joelho e ombro) e dificuldade de movimentos. Por favor informe o seu médico se notar qualquer um destes sintomas.
+ Geral: Kivexa ajuda a controlar a sua doença mas não é uma cura para a infecção VIH. O tratamento com medicamentos antirretrovíricos não demonstrou reduzir o risco de transmissão da infecção VIH a outros por contacto sexual ou transmissão sanguínea. Deve continuar a tomar as precauções apropriadas para prevenir a transmissão da infecção. Poderá continuar a desenvolver outras infecções e 37 outras complicações associadas à infecção VIH. Deve, portanto, manter contacto regular com o seu médico enquanto tomar Kivexa.
+ Tomar Kivexa com outros medicamentos Informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica. O abacavir e a lamivudina presentes no Kivexa podem interagir com determinados medicamentos. Kivexa não deve ser tomado com zalcitabina (utilizada no tratamento do VIH), com doses elevadas de cotrimoxazol (para infecções causadas por Pneumocystis carinii), com injecções de ganciclovir ou foscarnet (utilizadas para o tratamento de infecções causadas por citomegalovírus).
+ O álcool aumenta a concentração de abacavir no seu sangue. Uma vez que abacavir aumenta a velocidade de eliminação da metadona do organismo, os doentes a tomar metadona serão observados para verificação dos sintomas de abstinência, e poderão ter que alterar a dose de metadona.
+ Gravidez e aleitamento Não se recomenda a utilização de Kivexa durante a gravidez. Se engravidar ou estiver a planear engravidar, tem que consultar o seu médico para discutir os potenciais efeitos adversos e os benefícios e riscos da terapêutica antirretrovírica para si e para a criança.
+ Se tomou Kivexa durante a gravidez, o seu médico pode pedir-lhe para efectuar consultas regulares para monitorizar o desenvolvimento da criança. Estas consultas poderão incluir análises ao sangue e outros testes de diagnóstico.
+ Nas crianças cujas mães tomaram análogos dos nucleósidos e nucleótidos durante a gravidez, o benefício da menor possibilidade de infecção pelo VIH é superior ao risco de sofrerem efeitos secundários.
+ Se está a amamentar, deve informar o seu médico. É recomendado que as mulheres infectadas pelo VIH não amamentem os seus filhos, sob nenhuma circunstância, de modo a evitar a transmissão materno-fetal do VIH.
+ Condução de veículos e utilização de máquinas Não foram estudados os efeitos de Kivexa sobre a capacidade de conduzir e utilizar máquinas. No entanto, deve ter em consideração o seu estado de saúde e os possíveis efeitos secundários de Kivexa antes de conduzir ou utilizar máquinas.
+ Informações importantes sobre alguns componentes de Kivexa Kivexa contém um corante denominado amarelo alaranjado S (E110), que pode causar reacções alérgicas em algumas pessoas.
+ 3. COMO TOMAR KIVEXA Tomar Kivexa sempre de acordo com as indicações do médico. Fale com o seu médico ou farmacêutico se tiver dúvidas. Tenha especial cuidado para, se possível, não falhar nenhuma dose. A dose usual em adultos e adolescentes a partir dos 12 anos é um comprimido, uma vez por dia. Tome o comprimido inteiro com água. Kivexa pode ser tomado com ou sem alimentos.
+ Se tomar mais Kivexa do que deveria Se tomar demasiado medicamento acidentalmente, deve informar o seu médico ou farmacêutico ou contactar o serviço de urgência do hospital mais próximo para aconselhamento.
+ Caso se tenha esquecido de tomar Kivexa É importante que tome Kivexa como prescrito, a fim de assegurar o benefício máximo. Caso se esqueça de tomar uma dose de medicamento, deve tomá-la assim que se lembrar e continuar como anteriormente. Não tome uma dose a dobrar para compensar a dose que se esqueceu de tomar. É 38 importante que tome Kivexa regularmente porque a administração irregular poderá aumentar o risco de reacção de hipersensibilidade.
+ Se parar de tomar Kivexa Se parou de tomar Kivexa por qualquer motivo, particularmente porque pensa ter efeitos secundários ou por outra doença, é importante que contacte o seu médico antes de o reiniciar. Nalguns casos, o seu médico pedir-lhe-á que reinicie Kivexa num local em que sejam facilmente acessíveis cuidados médicos, se necessário.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todos os medicamentos, Kivexa pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas. Ao tratar a infecção VIH nem sempre é possível saber se os efeitos indesejáveis que ocorrem são causados por Kivexa, por outros medicamentos que está a tomar simultaneamente ou pela infecção VIH. Por esta razão, é muito importante que informe o seu médico sobre quaisquer alterações na sua saúde. Não fique preocupado com a seguinte lista de possíveis efeitos secundários de Kivexa, pois poderá não os sentir. Kivexa contém abacavir e lamivudina, os efeitos secundários relatados para cada um destes medicamentos estão listados abaixo.
+ Foi notificada reacção de hipersensibilidade (reacção alérgica grave) em cerca de 5 em cada 100 doentes tratados com abacavir. Esta reacção é descrita na secção 2 deste folheto, em “ Tome especial cuidado com Kivexa ”. É importante que leia e compreenda a informação sobre esta reacção grave.
+ Efeitos secundários frequentes (notificados em 1 a 10 doentes em cada 100)
+ -hipersensibilidade ao abacavir, erupção cutânea (sem qualquer outra doença)
+ -naúseas, vómitos, diarreia, dor no estomâgo
+ -dores de cabeça, dor nas articulações, perturbações musculares
+ -tosse, sintomas nasais (irritação, corrimento nasal), temperatura elevada
+ -letargia, cansaço, dificuldade em adormecer, sensação de mal-estar geral, perda de apetite,
+ queda de cabelo.
+ Efeitos secundários pouco frequentes (notificados em 1 a 10 doentes em cada 1000)
+ -elevação das enzimas produzidas pelo fígado
+ -anemia (número de glóbulos vermelhos baixo), neutropenia (número de glóbulos brancos baixo)
+ e redução do número de plaquetas (células do sangue importantes para a coagulação sanguínea).
+ Se a produção de glóbulos vermelhos é reduzida, poderá sentir cansaço ou dificuldade em respirar. A redução do número de glóbulos brancos poderá torná-lo mais susceptível a infecções. Caso tenha um número de plaquetas baixo, poderá notar que forma nódoas negras mais facilmente.
+ Efeitos secundários raros (notificados em menos de 1 doente em cada 1000)
+ -destruição de tecido muscular
+ -elevação de uma enzima denominada amilase
+ -inflamação do pâncreas (pancreatite).
+ Efeitos secundários muito raros (notificados em menos de 1 doente em cada 10000)
+ -reacções dermatológicas graves
+ -dormência, sensação de formigueiro ou de fraqueza nos membros
+ -anemia grave e neutropenia.
+ A terapêutica de associação antirretrovírica pode originar modificações corporais devido a alterações na distribuição de gordura corporal (tecido adiposo). Estas podem incluir perda de tecido adiposo nas pernas, braços e face, acumulação de tecido adiposo no abdómen (barriga) e noutros órgãos internos, aumento de tamanho do peito, nódulos de gordura na parte de trás do pescoço (“ nuca de búfalo ”). Actualmente, não se conhece a causa e o efeito a longo prazo na saúde destas situações. 39 A terapêutica de associação antirretrovírica pode também originar subida da quantidade de ácido láctico e de açúcar no sangue, hiperlipidemia (aumento dos níveis de gordura no sangue) e resistência à insulina.
+ Em alguns doentes em tratamento com NRTIs foram notificados casos de acidose láctica, uma situação em que há aumento do ácido láctico no organismo (ver Tome especial cuidado com Kivexa na secção 2, para informação adicional).
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR KIVEXA Manter Kivexa fora do alcance e da vista das crianças.
+ Não utilize Kivexa após o prazo de validade impresso na embalagem. O prazo de validade corresponde ao último dia do mês indicado.
+ Não conservar acima de 30°C. Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Kivexa -As substâncias activas são: 600 mg de abacavir (sob a forma de sulfato) e 300 mg de
+ lamivudina.
+ -Os outros componentes são estearato de magnésio, celulose microcristalina,
+ carboximetilamino sódico, Opadry laranja YS-1-13065-A contendo hipromelose, dióxido de titânio (E171), macrogol 400, polissorbato 80, e laca de alumínio amarelo alaranjado S (E110).
+ Qual o aspecto de Kivexa e conteúdo da embalagem
+ Os comprimidos são revestidos por película, laranja, oblongos, gravados com GS FC2 numa das faces. São acondicionados em frascos ou blisters contendo 30 comprimidos e embalagem com blister contendo 90 (3x30) comprimidos.
+ Titular da Autorização de Introdução no Mercado e Fabricante
+ Fabricante Titular da Autorização de Introdução no Mercado
+ Glaxo Operations UK Ltd (comercializando como Glaxo Wellcome Operations) Priory Street Ware Hertfordshire SG12 0DJ Reino Unido
+ Glaxo Group Ltd Greenford Middlesex UB6 0NN Reino Unido
+ 40 Para quaisquer informações sobre este medicamento, queira contactar o representante local do titular da autorização de introdução no mercado.
+ België/Belgique/Belgien GlaxoSmithKline s. a./n. v. Tél/Tel:+ 32 (0) 2 656 21 11
+ Luxembourg/Luxemburg GlaxoSmithKline s. a./n. v. Belgique/Belgien Tél/Tel:+ 32 (0) 2 656 21 11
+ България ГлаксоСмитКлайн ЕООД Teл.:+ 359 2 953 10 34
+ Magyarország GlaxoSmithKline Kft. Tel.:+ 36 1 225 5300
+ Česká republika GlaxoSmithKline s. r. o. Tel:+ 420 222 001 111 gsk. czmail@ gsk. com
+ Malta GlaxoSmithKline Malta Tel:+ 356 21 238131
+ Danmark GlaxoSmithKline Pharma A/S Tlf:+ 45 36 35 91 00 info@ glaxosmithkline. dk
+ Nederland GlaxoSmithKline BV Tel:+ 31 (0) 30 6938100 nlinfo@ gsk. com
+ Deutschland GlaxoSmithKline GmbH &amp; Co. KG Tel.:+ 49 (0) 89 36044 8701 produkt. info@ gsk. com
+ Norge GlaxoSmithKline AS Tlf:+ 47 22 70 20 00 firmapost@ gsk. no
+ Eesti GlaxoSmithKline Export Ltd. Eesti filiaal Tel:+ 372 6676 900 estonia@ gsk. com
+ Österreich GlaxoSmithKline Pharma GmbH Tel:+ 43 (0) 1 97075 0 at. info@ gsk. com
+ Ελλάδα GlaxoSmithKline A. E. B. E. Τηλ:+ 30 210 68 82 100
+ Polska GSK Commercial Sp. z o. o. Tel.:+ 48 (0) 22 576 9000
+ España GlaxoSmithKline, S. A. Tel:+ 34 902 202 700 es-ci@ gsk. com
+ Portugal GlaxoSmithKline – Produtos Farmacêuticos, Lda. Tel:+ 351 21 412 95 00 FI. PT@ gsk. com
+ France Laboratoire GlaxoSmithKline Tél:+ 33 (0) 1 39 17 84 44 diam@ gsk. com
+ România GlaxoSmithKline (GSK) S. R. L. Tel:+ 4021 3028 208
+ Ireland GlaxoSmithKline (Ireland) Limited Tel:+ 353 (0) 1 4955000
+ Slovenija GlaxoSmithKline d. o. o. Tel:+ 386 (0) 1 280 25 00 medical. x. si@ gsk. com
+ Ísland GlaxoSmithKline ehf. Simi:+ 354 530 3700
+ Slovenská republika GlaxoSmithKline Slovakia s. r. o. Tel:+ 421 (0) 2 49 10 33 11 recepcia. sk@ gsk. com
+ 41 Italia GlaxoSmithKline S. p. A. Tel:+ 39 (0) 45 9218 111
+ Suomi/Finland GlaxoSmithKline Oy Puh/Tel:+ 358 (0) 10 30 30 30 Finland. tuoteinfo@ gsk. com
+ Κύπρος GlaxoSmithKline Cyprus Ltd Τηλ:+ 357 22 89 95 01
+ Sverige GlaxoSmithKline AB Tel:+ 46 (0) 8 638 93 00 info. produkt@ gsk. com
+ Latvija GlaxoSmithKline Latvia SIA Tel:+ 371 7312687 lv-epasts@ gsk. com
+ United Kingdom GlaxoSmithKline UK Tel:+ 44 (0) 800 221441 customercontactuk@ gsk. com
+ Lietuva GlaxoSmithKline Lietuva UAB Tel:+ 370 5 264 90 00 info. lt@ gsk. com
+ Este folheto foi aprovado pela última vez em:
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu
+ 42

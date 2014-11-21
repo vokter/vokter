@@ -1,0 +1,1041 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. NOME DO MEDICAMENTO
+ Ebixa 10 mg comprimidos revestidos por película.
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada comprimido revestido por película contém 10 mg de cloridrato de memantina, equivalente a 8,31 mg de memantina.
+ Excipiente: Cada comprimido revestido por película contém 166 mg de lactose, ver secção 4.4.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Comprimido revestido por película. Comprimidos revestidos por película brancos a esbranquiçados, oblongos, afunilados centralmente, biconvexos e com uma linha divisória em ambos os lados. O comprimido revestido por película pode ser dividido em metades iguais.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Tratamento de doentes com doença de Alzheimer moderada a grave.
+ 4.2 Posologia e modo de administração O tratamento deve ser iniciado e supervisionado por um médico com experiência no diagnóstico e tratamento da demência de Alzheimer. A terapêutica só deve ser iniciada se estiver disponível um prestador de cuidados para monitorizar regularmente a toma do medicamento pelo doente. O diagnóstico deve ser realizado de acordo com as directrizes actuais.
+ Ebixa deve ser administrado uma vez por dia e deve ser tomado à mesma hora, todos os dias. Os comprimidos revestidos por película podem ser tomados com ou sem alimentos.
+ Adultos: Titulação da dose A dose diária máxima recomendada é de 20 mg por dia. De forma a reduzir o risco de efeitos secundários, a dose de manutenção é atingida através do aumento gradual de 5 mg por semana ao longo das primeiras 3 semanas, segundo o método seguinte:
+ Semana 1 (dia 1-7): O doente deve tomar meio comprimido revestido por película de 10 mg (5 mg) por dia, durante 7 dias.
+ Semana 2 (dia 8-14): O doente deve tomar um comprimido revestido por película de 10 mg (10 mg) por dia, durante 7 dias.
+ 2 Semana 3 (dia 15-21): O doente deve tomar um comprimido revestido por película de 10 mg e meio (15 mg) por dia, durante 7 dias.
+ Semana 4 e seguintes: O doente deve tomar dois comprimidos revestidos por película de 10 mg (20 mg) por dia.
+ Dose de manutenção A dose de manutenção recomendada é de 20 mg por dia.
+ Idosos: Com base nos estudos clínicos, a dose recomendada para doentes de idade superior a 65 anos é de 20 mg por dia (dois comprimidos revestidos por película uma vez por dia) tal como descrito anteriormente.
+ Crianças e adolescentes: Não é recomendada a utilização de Ebixa em crianças com menos de 18 anos devido à inexistência de dados de segurança e eficácia.
+ Compromisso renal: Em doentes com a função renal ligeiramente alterada (depuração da creatinina 50-80 ml/min) não é necessário ajuste de dose. Em doentes com compromisso renal moderado (depuração da creatinina de 30-49 ml/min), a dose diária deverá ser 10 mg por dia. Se bem tolerada após, pelo menos 7 dias de tratamento, a dose deverá ser aumentada até 20 mg/dia de acordo com o esquema de titulação padrão. Em doentes com compromisso renal grave (depuração da creatinina 5-29 ml/min) a dose diária deverá ser de 10 mg por dia.
+ Compromisso hepático: Em doentes com compromisso hepático ligeiro a moderado (Child-Pugh A e Child-Pugh B) não há necessidade de ajuste de dose. Não estão disponíveis dados de utilização de memantina em doentes com compromisso hepático grave. A administração de Ebixa não é recomendada a doentes com compromisso hepático grave.
+ 4.3 Contra-indicações Hipersensibilidade à substância activa ou a qualquer um dos excipientes.
+ 4.4 Advertências e precauções especiais de utilização
+ É recomendada precaução em doentes com epilepsia, com antecedentes de episódios convulsivos ou com factores predisponentes para epilepsia.
+ A utilização concomitante de antagonistas do receptor N-metil-D-aspartato (NMDA), tais como a amantadina, cetamina ou o dextrometorfano, deverá ser evitada. Estas substâncias actuam no mesmo sistema receptor que a memantina e, por essa razão, as reacções adversas principalmente relacionadas com o sistema nervoso central (SNC) poderão ser mais frequentes ou mais acentuadas (ver também a secção 4.5).
+ Alguns factores que podem elevar o pH da urina (ver secção 5.2 “ Eliminação ”) requererão uma monitorização cuidadosa do doente. Estes factores incluem mudanças drásticas na dieta, por exemplo uma mudança de dieta carnívora para vegetariana ou a toma em grande quantidade de produtos gástricos tampão com efeito alcalinizante. Para além disso, o pH da urina pode ser elevado por episódios de acidose tubular renal (ATR) ou infecções graves das vias urinárias provocadas por bactérias Proteus.
+ Na maioria dos estudos clínicos, foram excluídos de participar os doentes com enfarte do miocárdio recente, compromisso cardíaco congestivo descompensado (NYHA III-IV) ou com hipertensão não controlada. Consequentemente, os dados disponíveis são limitados e os doentes nestas condições devem ser supervisionados cuidadosamente.
+ 3 Excipientes: Os comprimidos revestidos por película contêm lactose mono-hidratada. Doentes com problemas hereditários raros de intolerância à galactose, com deficiência de lactase Lapp ou com má absorção de glucose-galactose, não devem tomar este medicamento.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Devido aos efeitos farmacológicos e ao mecanismo de acção da memantina, poderão ocorrer as seguintes interacções:
+ • O modo de acção sugere que os efeitos da L-dopa, dos agonistas dopaminérgicos e dos anticolinérgicos poderão ser amplificados pelo tratamento concomitante com antagonistas NMDA, como a memantina. Os efeitos de barbitúricos e neurolépticos poderão ser reduzidos. A administração concomitante de memantina e dos agentes antiespasmódicos, dantroleno ou baclofeno, pode alterar os efeitos destes medicamentos, podendo ser necessário um ajuste da dose. • A utilização concomitante de memantina e amantadina deverá ser evitada, devido ao risco de psicose farmacotóxica. Ambas as substâncias são antagonistas do NMDA, quimicamente relacionados. A mesma recomendação poderá aplicar-se para a cetamina e o dextrometorfano (ver também secção 4.4). Existe um relatório de caso clínico publicado de um possível risco da combinação da memantina com fenitoína. • Outras substâncias activas, como a cimetidina, ranitidina, procaínamida, quinidina, quinina e nicotina, que utilizam o mesmo sistema de transporte renal de catiões que a amantadina, também poderão interagir com a memantina, conduzindo a um risco potencial de aumento dos seus níveis séricos. • É possível que haja uma redução dos níveis séricos da hidroclorotiazida (HCT), quando esta, ou qualquer combinação contendo hidroclorotiazida, são administradas concomitantemente com memantina. • No âmbito da experiência pós-comercialização foram notificados casos isolados de aumento do quociente normalizado internacional (INR) em doentes tratados concomitantemente com varfarina. Embora não tenha sido comprovada a existência de uma relação causal, aconselha-se uma monitorização rigorosa do tempo de protrombina ou do INR em doentes a tomar simultaneamente anticoagulantes orais.
+ Em estudos farmacocinéticos (PK) de dose única realizados em sujeitos jovens e saudáveis, não se observou qualquer interacção relevante substância activa/substância activa da memantina com gliburide/metformina ou com o donepezilo.
+ Num estudo clínico em indivíduos jovens e saudáveis não se observou qualquer efeito relevante da memantina na farmacocinética da galantamina.
+ A memantina não inibiu as CYP 1A2, 2A6, 2C9, 2D6, 2E1, 3A, a flavina monoxigenase, epóxido hidrolase ou a sulfatação in vitro.
+ 4.6 Gravidez e aleitamento Não existem dados clínicos sobre administração de memantina a grávidas. Estudos em animais, indicam potencialidade para a redução do crescimento intrauterino a níveis de exposição idênticos ou ligeiramente superiores aos níveis humanos (ver secção 5.3). O risco potencial para o ser humano é desconhecido. A memantina não deve ser utilizada durante a gravidez, a menos que seja absolutamente necessária.
+ Não se sabe se a memantina é excretada no leite humano, embora, tendo em consideração a lipofilia da substância, seja provável que esta excreção possa ocorrer. Mulheres que tomem memantina não devem amamentar.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ 4 Normalmente, a doença de Alzheimer moderada a grave provoca perturbações na capacidade de conduzir e utilizar máquinas. Para além disso, os efeitos de Ebixa sobre a capacidade de conduzir e utilizar máquinas são reduzidos ou moderados, pelo que os doentes em ambulatório devem ser avisados para terem cuidados especiais.
+ 4.8 Efeitos indesejáveis Nos estudos clínicos sobre demência ligeira a grave, envolvendo 1.784 doentes tratados com Ebixa e 1595 doentes tratados com placebo, as taxas globais de incidência de reacções adversas com Ebixa não foram diferentes das do tratamento com placebo; as reacções adversas foram normalmente de gravidade ligeira a moderada. As reacções adversas mais frequentes e que registaram uma maior incidência no grupo de Ebixa do que no grupo placebo foram tonturas (6,3% vs 5,6%, respectivamente), cefaleias (5,22% vs 3,9%), obstipação (4,6% vs 2,6%), sonolência (3,4% vs 2,2%) e hipertensão (4,1% vs 2,8%).
+ A tabela seguinte lista todas as reacções adversas registadas durante os estudos clínicos com Ebixa e desde que foi introduzido no mercado. Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ As reacções adversas são classificadas de acordo com as classes de sistemas de órgãos, usando a seguinte convenção: muito frequentes (≥1/10), frequentes (≥1/100 a &lt; 1/10), pouco frequentes (≥1/1.000 a &lt; 1/100), raros (≥1/10.000 a &lt; 1/1.000) e muito raros (&lt; 1/10.000), desconhecido (não pode ser estimado a partir dos dados disponíveis).
+ Cardiopatias Doenças do Sistema Nervoso
+ Pouco frequentes Frequentes Pouco frequentes Muito raros
+ Insuficiência cardíaca Tonturas Alterações do modo de andar Convulsões
+ Doenças gastrointestinais Frequentes Pouco frequentes Desconhecido
+ Obstipação Vómitos Pancreatite2 Infecções e infestações Vasculopatias
+ Pouco frequentes Frequentes Pouco frequentes
+ Infecções fúngicas Hipertensão Trombose venosa/tromboembolia
+ 1 Perturbações gerais e alterações no local de administração Perturbações do foro psiquiátrico
+ Frequentes Pouco frequentes Frequentes Pouco frequentes Pouco frequentes Desconhecido
+ Cefaleia Fadiga Sonolência Confusão Alucinações1 Reacções psicóticas2
+ As alucinações foram essencialmente observadas em doentes com doença de Alzheimer grave. 2 Casos isolados notificados no âmbito da experiência pós-comercialização.
+ A doença de Alzheimer tem sido associada a depressão, ideação suicida e suicídio. Na fase de experiência pós-comercialização estes efeitos foram notificados em doentes tratados com Ebixa.
+ 4.9 Sobredosagem Existe experiência limitada de sobredosagem obtida a partir dos estudos clínicos e experiência pós-comercialização.
+ Sintomas: Sobredosagens relativamente acentuadas (200 mg e 105 mg/dia durante 3 dias, respectivamente) têm sido associadas a sintomas de cansaço, fraqueza e/ou diarreia ou a nenhum sintoma. Em casos de sobredosagem abaixo dos 140 mg, ou de dose desconhecida, os doentes revelaram sintomas com origem no sistema nervoso central (confusão, torpor, sonolência, vertigens, instabilidade
+ 5 psicomotora, agressão, alucinações e alterações na forma de andar) e/ou de origem gastrointestinal (vómitos e diarreia). No caso mais extremo de sobredosagem, o doente sobreviveu a uma toma oral de um total de 2000 mg de memantina com efeitos no sistema nervoso central (coma durante 10 dias, seguido de diplopia e instabilidade psicomotora). O doente recebeu tratamento sintomático e plasmaforese. O doente recuperou sem sequelas permanentes.
+ Num outro caso de sobredosagem acentuada, o doente também sobreviveu e recuperou. O doente recebeu 400 mg de memantina oral. O doente apresentou sintomas relacionados com o sistema nervoso central tais como instabilidade psicomotora, psicose, alucinações visuais, proconvulsões, sonolência, estupor e perda de consciência.
+ Tratamento: Em caso de sobredosagem, o tratamento deverá ser sintomático. Não está disponível nenhum antídoto específico para intoxicações e sobredosagens. Devem ser utilizados sempre que apropriado os procedimentos clínicos standard para a remoção da substância activa, como por exemplo lavagem gástrica, carbo medicinalis (interrupção da recirculação entero-hepática potencial), acidificação da urina ou diurese forçada.
+ Em caso de sinais e sintomas de sobrestimulação geral de Sistema Nervoso Central (SNC), deverá ser considerado um tratamento clínico sintomático cuidadoso.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Outros fármacos anti-demência, código ATC: N06DX01.
+ Existem cada vez mais evidências de que as perturbações na neurotransmissão glutamatérgica, especialmente nos receptores NMDA, contribuem para a expressão dos sintomas e para a evolução da doença na demência neurodegenerativa.
+ A memantina é um antagonista não competitivo de receptores NMDA, de afinidade moderada e dependente da voltagem. Modula os efeitos de níveis tónicos patologicamente elevados de glutamato que poderão levar à disfunção neuronal.
+ Estudos clínicos: Num estudo piloto de utilização da memantina em monoterapia levado a cabo numa população de doentes com doença de Alzheimer moderada a grave (resultados totais basais do mini exame do estado mental (MMSE) compreendidos entre 3 e 14) foi incluído um total de 252 doentes em ambulatório. O estudo demonstrou efeitos benéficos da memantina em comparação com o placebo aos 6 meses (análise dos casos observados pela impressão de alteração baseada na entrevista do clínico (CIBIC-plus): p=0.025; estudo cooperativo da doença de Alzheimer – actividades da vida diária ADCS-ADLsev): p=0.003; painel de avaliação de incapacidade grave (SIB): p=0.002).
+ Um estudo piloto de utilização da memantina em monoterapia no tratamento da doença de Alzheimer ligeira a moderada (resultados totais basais do MMSE compreendidos entre 10 e 22) incluiu 403 doentes. Os doentes tratados com memantina apresentaram um efeito estatisticamente significativo melhor do que os doentes que receberam placebo, relativamente aos parâmetros primários: escala de avaliação da doença de Alzheimer (ADAS-cog) (p=0.003) e CIBIC-plus (p=0.004) na Semana 24 com base na observação mais recente (LOCF). Num outro estudo em monoterapia na doença de Alzheimer ligeira a moderada, foi randomizado um total de 470 doentes (resultados totais basais do MMSE de 11 a 23). Na análise primária definida prospectivamente, não se observou significância estatística relativamente aos parâmetros de eficácia primários na Semana 24.
+ 6 A meta-análise dos dados dos doentes com doença de Alzheimer moderada a grave (resultados totais basais de MMSE abaixo de 20), resultante dos 6 estudos clínicos de fase III, controlados com placebo, com 6 meses de duração (incluindo estudos em monoterapia e estudos nos quais os doentes recebiam uma dose fixa de um inibidor da acetilcolinesterase) demonstrou a existência de um efeito estatisticamente significativo a favor da memantina como tratamento nos domínios cognitivo, global e funcional. Nos casos em que os doentes apresentavam um agravamento simultâneo nos três domínios, verificou-se um benefício estatisticamente significativo da memantina na prevenção do agravamento clínico, uma vez que houve 2 vezes mais doentes do grupo placebo a apresentar sinais de agravamento nos três domínios do que no grupo da memantina (21% vs 11%, p &lt; 0.0001).
+ 5.2 Propriedades farmacocinéticas Absorção: A memantina tem uma biodisponibilidade absoluta de aproximadamente 100%. O tmax situa-se entre 3 e 8 horas. Não existem indicações de que os alimentos influenciem a absorção da memantina.
+ Distribuição: Doses diárias de 20 mg resultam em concentrações plasmáticas de memantina no estado de equilíbrio entre 70 e 150 ng/ml (0,5-1 µmol) com grandes variações interindividuais. Aquando da administração de doses diárias de 5 a 30 mg, foi calculada uma taxa média líquido cefalorraquidiano (LCR)/Soro de 0,52. O volume de distribuição é próximo de 10 l/kg. Cerca de 45% da memantina encontra-se ligada a proteínas plasmáticas.
+ Biotransformação: No ser humano, cerca de 80% das substâncias relacionadas com a memantina em circulação estão presentes como o composto original. Os metabolitos principais no ser humano são o N-3, 5-dimetil-gludantano, a mistura isomérica de 4-e 6-hidroxi-memantina e 1-nitroso-3, 5-dimetil-adamantano. Nenhum destes metabolitos exibe actividade antagonística do NMDA. Não foi detectado metabolismo catalisado pelo citocromo P 450 in vitro.
+ Num estudo com 14C-memantina administrada por via oral, foi recuperada uma média de 84% da dose no intervalo de 20 dias,99% dos quais por excreção renal.
+ Eliminação: A memantina é eliminada de forma monoexponencial com t½ terminal de 60 a 100 horas. Em voluntários com função renal normal, a depuração total (Cltot) tem o valor de 170 ml/min/1,73 m2 e parte da depuração renal total é efectuada por secreção tubular.
+ O tratamento renal também envolve reabsorção tubular, provavelmente mediada por proteínas de transporte de catiões. A taxa de depuração renal da memantina em condições de urina alcalina poderá ser reduzida por um factor de 7 a 9 (ver secção 4.4). A alcalinização da urina pode resultar de mudanças drásticas na dieta, por exemplo uma mudança de dieta carnívora para vegetariana ou uma toma em grande quantidade de substâncias tampão gástricas com efeito alcalinizante.
+ Linearidade: Estudos em voluntários demonstraram farmacocinética linear no intervalo de doses de 10 a 40 mg.
+ Relação farmacocinética/farmacodinâmica: Para uma dose de memantina de 20 mg por dia, os níveis no LCR correspondem ao valor ki (ki= constante de inibição) da memantina, o qual é de 0,5 µmol no córtex frontal humano.
+ 5.3 Dados de segurança pré-clínica Em estudos de curto prazo em ratos, a memantina, tal como outros antagonistas do NMDA, apenas induziu vacuolização e necrose neuronal (lesões de Olney) quando tomada em doses que conduzem a concentrações séricas máximas muito elevadas. A ataxia e outros sinais pré-clínicos precederam a vacuolização e necrose. Uma vez que os efeitos nunca foram observados em estudos a longo prazo em roedores ou não roedores, a relevância clínica destas evidências é desconhecida.
+ 7 Foram observadas inconsistentemente alterações oculares em estudos de toxicidade repetida em roedores e cães, mas não em macacos. Os exames oftalmológicos específicos nos estudos clínicos com memantina não revelaram alterações oculares.
+ Em roedores, foi observada fosfolipidose nos macrófagos pulmonares, devido à acumulação de memantina nos lisossomas. Este efeito é reconhecido noutras substâncias activas com propriedades anfifílicas catiónicas. Existe uma relação possível entre esta acumulação e a vacuolização observada nos pulmões. Este efeito apenas foi observado com doses elevadas em roedores. A relevância clínica destas evidências é desconhecida.
+ Nos estudos padronizados com memantina, não foi observada genotoxicidade. Não existem indícios de carcinogenicidade em estudos de longo prazo em ratinhos e ratos. A memantina não foi teratogénica em ratos e coelhos, mesmo em doses maternas tóxicas, e não foram observados efeitos adversos na fertilidade. Nos ratos, foi observada redução do crescimento do feto, com níveis de exposição idênticos ou ligeiramente superiores aos níveis humanos.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Núcleo do comprimido revestido por película: Lactose mono-hidratada Celulose microcristalina Sílica coloidal anidra Talco Estearato de magnésio
+ Revestimento do comprimido revestido por película: Co-polímero do ácido metacrílico-etilacrilato (1: 1) Laurilsulfato de sódio Polissorbato 80 Talco Triacetina Emulsão de simeticone
+ 6.2 Incompatibilidades Não aplicável. 6.3 Prazo de validade 4 anos. 6.4 Precauções especiais de conservação
+ O medicamento não necessita de quaisquer precauções especiais de conservação.
+ 6.5 Natureza e conteúdo do recipiente Embalagens de blisters contendo 7,10,14 ou 20 comprimidos revestidos por película por fita termossoldada blister (Alu/PP). Embalagens de 14,28,30,42,49 x 1,50,56,56 x 1,70,84,98,98 x 1,100,100 x 1,112,980 (10 x 98) ou 1000 (20 x 50) comprimidos revestidos por película. As embalagens de 49 x 1,56 x 1,98 x 1 e 100 x 1 comprimidos revestidos por película apresentam-se em blister de dose unitária.
+ 8 6.6 Precauções especiais de eliminação
+ Não existem requisitos especiais. 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ H. Lundbeck A/S Ottiliavej 9, DK-2500 Valby Dinamarca
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/02/219/001-3 EU/1/02/219/007-012 EU/1/02/219/014-021
+ 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 15/05/2002 Data da renovação mais recente: 15/05/2007
+ 10. DATA DA REVISÃO DO TEXTO Informação pormenorizada sobre este medicamento está disponível na Internet, no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu
+ 9 1. NOME DO MEDICAMENTO
+ Ebixa 10 mg/g gotas orais, solução. 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ 1 g de solução contém 10 mg de cloridrato de memantina, equivalente a 8,31 mg de memantina. Uma gota de solução é equivalente a 0,5 mg de cloridrato de memantina.
+ Excipientes: 1 g de solução contém 100 mg de sorbitol E420 e 0,5 mg de potássio, ver secção 4.4.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Gotas orais, solução. A solução é límpida e incolor a ligeiramente amarelada.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Tratamento de doentes com doença de Alzheimer moderada a grave.
+ 4.2 Posologia e modo de administração O tratamento deve ser iniciado e supervisionado por um médico com experiência no diagnóstico e tratamento da demência de Alzheimer. A terapêutica só deve ser iniciada se estiver disponível um prestador de cuidados para monitorizar regularmente a toma do medicamento pelo doente. O diagnóstico deve ser realizado de acordo com as directrizes actuais.
+ Ebixa deve ser administrado uma vez por dia e tomado à mesma hora, todos os dias. As gotas podem ser tomadas com ou sem alimentos.
+ Adultos: Titulação da dose A dose diária máxima recomendada é de 20 mg por dia. De forma a reduzir o risco de efeitos secundários, a dose de manutenção é atingida através do aumento gradual de 5 mg por semana ao longo das primeiras 3 semanas, segundo o método seguinte:
+ Semana 1 (dia 1-7): O doente deve tomar 10 gotas (5 mg) por dia, durante 7 dias.
+ Semana 2 (dia 8-14): O doente deve tomar 20 gotas (10 mg) por dia, durante 7 dias.
+ 10 Semana 3 (dia 15-21): O doente deve tomar 30 gotas (15 mg) por dia, durante 7 dias.
+ Semana 4 e seguintes: O doente deve tomar 40 gotas (20 mg) por dia.
+ Dose de manutenção A dose de manutenção recomendada é de 20 mg por dia.
+ Idosos: Com base nos estudos clínicos, a dose recomendada para doentes de idade superior a 65 anos é de 20 mg por dia (40 gotas, uma vez por dia) tal como descrito anteriormente.
+ Crianças e adolescentes: Não é recomendada a utilização de Ebixa em crianças com menos de 18 anos devido à inexistência de dados de segurança e eficácia.
+ Compromisso renal: Em doentes com a função renal ligeiramente alterada (depuração da creatinina 50-80 ml/min) não é necessário ajuste de dose. Em doentes com compromisso renal moderado (depuração da creatinina de 30-49 ml/min), a dose diária deverá ser 10 mg por dia. Se bem tolerada após, pelo menos 7 dias de tratamento, a dose deverá ser aumentada para 20 mg/dia de acordo com o esquema de titulação padrão. Em doentes com insufiência renal grave (depuração da creatinina 5-29 ml/min) a dose diária deverá ser de 10 mg por dia.
+ Compromisso hepático: Em doentes com compromisso hepático ligeiro a moderado (Child-Pugh A e Child-Pugh B) não há necessidade de ajuste de dose. Não estão disponíveis dados de utilização de memantina em doentes com compromisso hepático grave. A administração de Ebixa não é recomendada a doentes com compromisso hepático grave.
+ 4.3 Contra-indicações Hipersensibilidade à substância activa ou a qualquer um dos excipientes.
+ 4.4 Advertências e precauções especiais de utilização
+ É recomendada precaução em doentes com epilepsia, com antecedentes de episódios convulsivos ou com factores predisponentes para epilepsia.
+ A utilização concomitante de outros antagonistas do receptor N-metil-D-aspartato (NMDA), tais como a amantadina, cetamina ou o dextrometorfano, deverá ser evitada. Estas substâncias actuam no mesmo sistema receptor que a memantina e, por essa razão, as reacções adversas (principalmente relacionadas com o sistema nervoso central (SNC) poderão ser mais frequentes ou mais acentuadas (ver também a secção 4.5).
+ Alguns factores que podem elevar o pH da urina (ver secção 5.2 “ Eliminação ”) requererão uma monitorização cuidadosa do doente. Estes factores incluem mudanças drásticas na dieta, por exemplo uma mudança de dieta carnívora para vegetariana ou a toma em grande quantidade de produtos gástricos tampão com efeito alcalinizante. Para além disso, o pH da urina pode ser elevado por episódios de acidose tubular renal (ATR) ou infecções graves das vias urinárias provocadas por bactérias Proteus.
+ Na maioria dos estudos clínicos, foram excluídos de participar os doentes com enfarte do miocárdio recente, compromisso cardíaco congestivo descompensado (NYHA III-IV) ou com hipertensão não controlada. Consequentemente, os dados disponíveis são limitados e os doentes nestas condições devem ser supervisionados cuidadosamente.
+ 11 Excipientes: As gotas orais contêm sorbitol. Doentes com problemas hereditários raros de intolerância à frutose não deverão tomar este medicamento.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Devido aos efeitos farmacológicos e ao mecanismo de acção da memantina, poderão ocorrer as seguintes interacções:
+ • O modo de acção sugere que os efeitos da L-dopa, dos agonistas dopaminérgicos e dos anticolinérgicos poderão ser amplificados pelo tratamento concomitante com antagonistas do NMDA, como a memantina. Os efeitos de barbitúricos e neurolépticos poderão ser reduzidos. A administração concomitante de memantina e dos agentes antiespasmódicos, dantroleno ou baclofeno, pode alterar os efeitos destes medicamentos, podendo ser necessário um ajuste da dose. • A utilização concomitante de memantina e amantadina deverá ser evitada, devido ao risco de psicose farmacotóxica. Ambas as substâncias são antagonistas do NMDA, quimicamente relacionados. A mesma recomendação poderá aplicar-se para a cetamina e o dextrometorfano (ver também secção 4.4). Existe um relatório de caso clínico publicado de um possível risco da combinação da memantina com fenitoína. • Outras substâncias activas, como a cimetidina, ranitidina, procaínamida, quinidina, quinina e nicotina, que utilizam o mesmo sistema de transporte renal de catiões que a amantadina, também poderão interagir com a memantina, conduzindo a um risco potencial de aumento dos seus níveis séricos. • É possível que haja uma redução dos níveis séricos da hidroclorotiazida (HCT) quando esta, ou qualquer combinação contendo hidroclorotiazida, são administradas concomitantemente com memantina. • No âmbito da experiência pós-comercialização foram notificados casos isolados de aumento do quociente normalizado internacional (INR) em doentes tratados concomitantemente com varfarina. Embora não tenha sido comprovada a existência de uma relação causal, aconselha-se uma monitorização rigorosa do tempo de protrombina ou do INR em doentes a tomar simultaneamente anticoagulantes orais.
+ Em estudos farmacocinéticos (PK) de dose única realizados em sujeitos jovens e saudáveis, não se observou qualquer interacção relevante substância activa/substância activa da memantina com gliburide/metformina ou com o donepezilo.
+ A memantina não inibiu as CYP 1A2, 2A6, 2C9, 2D6, 2E1, 3A, a flavina monoxigenase, epóxido hidrolase ou a sulfatação in vitro.
+ 4.6 Gravidez e aleitamento Não existem dados clínicos sobre administração de memantina a grávidas. Estudos em animais indicam potencialidade para a redução do crescimento intrauterino a níveis de exposição, idênticos ou ligeiramente superiores aos níveis humanos (ver secção 5.3). O risco potencial para o ser humano é desconhecido. A memantina não deve ser utilizada durante a gravidez, a menos que seja absolutamente necessária.
+ Não se sabe se a memantina é excretada no leite humano, embora, tendo em consideração a lipofilia da substância, seja provável que esta excreção possa ocorrer. Mulheres que tomem memantina não devem amamentar.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Normalmente, a doença de Alzheimer moderada a grave provoca perturbações na capacidade de conduzir e utilizar máquinas. Para além disso, os efeitos de Ebixa sobre a capacidade de conduzir e
+ 12 utilizar máquinas são reduzidos ou moderados, pelo que os doentes em ambulatório devem ser avisados para ter cuidados especiais.
+ 4.8 Efeitos indesejáveis Nos estudos clínicos sobre demência moderada a grave, envolvendo 1784 doentes tratados com Ebixa e 1595 tratados com placebo, as taxas globais de incidência de reacções adversas com Ebixa não foram diferentes das do tratamento com placebo; as reacções adversas foram normalmente de gravidade ligeira a moderada. As reacções adversas mais frequentes e que registaram uma maior incidência no grupo de Ebixa do que no grupo placebo foram tonturas (6,3% vs 5,6%, respectivamente), cefaleias (5,2% vs 3,9%), obstipação (4,6% vs 2,6%), sonolência (3,4% vs 2,2%) e hipertensão (4,1% vs 2,8%).
+ A tabela seguinte lista todas as reacções adversas registadas durante os estudos clínicos com Ebixa e desde que foi introduzido no mercado. Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ As reacções adversas são classificadas de acordo com as classes de sistemas de órgãos, usando a seguinte convenção: muito frequentes (≥1/10), frequentes (&gt; 1/100 a &lt; 1/10), pouco frequentes (≥1/1.000 a &lt; 1/100), raros (≥1/10.000 a &lt; 1/1.000) e muito raros (&lt; 1/10.000), desconhecido (não pode ser estimado a partir dos dados disponíveis).
+ Cardiopatias Doenças do Sistema Nervoso
+ Pouco frequentes Frequentes Pouco frequentes Muito raros
+ Insuficiência cardíaca Tonturas Alterações do modo de andar Convulsões
+ Doenças gastrointestinais Frequentes Pouco frequentes Desconhecido
+ Obstipação Vómitos Pancreatite2 Infecções e infestações Vasculopatias
+ Pouco frequentes Frequentes Pouco frequentes
+ Infecções fúngicas Hipertensão Trombose venosa/tromboembolia
+ 1 Perturbações gerais e alterações no local de administração Perturbações do foro psiquiátrico
+ Frequentes Pouco frequentes Frequentes Pouco frequentes Pouco frequentes Desconhecido
+ Cefaleia Fadiga Sonolência Confusão Alucinações1 Reacções psicóticas2
+ As alucinações foram essencialmente observadas em doentes com doença de Alzheimer grave. 2 Comunicações isoladas reportadas no âmbito da experiência pós-comercialização
+ A doença de Alzheimer tem sido associada a depressão, ideação suicida e suicídio. Na fase de experiência pós-comercialização estes efeitos foram notificados em doentes tratados com Ebixa.
+ 4.9 Sobredosagem Existe experiência limitada de sobredosagem obtida a partir dos estudos clínicos e experiência pós-comercialização.
+ Sintomas: Sobredosagens relativamente acentuadas (200 mg e 105 mg/dia durante 3 dias, respectivamente) têm sido associadas a sintomas de cansaço, fraqueza e/ou diarreia ou a nenhum sintoma. Em casos de sobredosagem abaixo dos 140 mg ou de dose desconhecida os doentes revelaram sintomas com origem no sistema nervoso central (confusão, torpor, sonolência, vertigens, instabilidade psicomotora, agressão, alucinações e alterações da forma de andar) e/ou de origem gastro-intestinal (vómitos e diarreia).
+ 13 No caso mais extremo de sobredosagem, o doente sobreviveu a uma toma oral de um total de 2000 mg de memantina com efeitos no sistema nervoso central (coma durante 10 dias, seguido de diplopia e instabilidade psicomotora). O doente recebeu tratamento sintomático e plasmaforese. O doente recuperou sem sequelas permanentes.
+ Num outro caso de sobredosagem acentuada, o doente também sobreviveu e recuperou. O doente recebeu 400 mg de memantina oral. O doente apresentou sintomas relacionados com o sistema nervoso central tais como instabilidade psicomotora, psicose, alucinações visuais, proconvulsões, sonolência, estupor e perda de consciência.
+ Tratamento: Em caso de sobredosagem, o tratamento deverá ser sintomático. Não está disponível nenhum antídoto específico para intoxicações e sobredosagens. Devem ser utilizados sempre que apropriado os procedimentos clínicos standard para a remoção da substância activa, como por exemplo lavagem gástrica, carbo medicinalis (interrupção da recirculação entero-hepática potencial), acidificação da urina ou diurese forçada.
+ Em caso de sobrestimulação geral de Sistema Nervoso Central (SNC), deverá ser considerado um tratamento clínico sintomático cuidadoso.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Outros fármacos anti-demência, código ATC: N06DX01.
+ Existem cada vez mais evidências de que as perturbações na neurotransmissão glutamatérgica, especialmente nos receptores NMDA, contribuem para a expressão dos sintomas e para a evolução da doença na demência neurodegenerativa.
+ A memantina é um antagonista não competitivo de receptores NMDA, de afinidade moderada e dependente da voltagem. Modula os efeitos de níveis tónicos patologicamente elevados de glutamato que poderão levar à disfunção neuronal.
+ Estudos clínicos: Num estudo piloto de utilização da memantina em monoterapia levado a cabo numa população de doentes com doença de Alzheimer moderada a grave (resultados totais basais do mini exame do estado mental (MMSE) compreendidos entre 3 e 14) foi incluído um total de 252 doentes em ambulatório. O estudo demonstrou efeitos benéficos da memantina em comparação com o placebo aos 6 meses (análise dos casos observados pela impressão de alteração baseada na entrevista do clínico (CIBIC-plus): p=0.025; estudo cooperativo da doença de Alzheimer – actividades da vida diária (ADCS-ADLsev): p=0.003; painel de avaliação de incapacidade grave (SIB): p=0.002).
+ Um estudo piloto de utilização da memantina em monoterapia no tratamento da doença de Alzheimer ligeira a moderada (resultados totais basais do MMSE compreendidos entre 10 e 22) incluiu 403 doentes. Os doentes tratados com memantina apresentaram um efeito estatisticamente significativo melhor do que os doentes que receberam placebo, relativamente aos parâmetros primários: escala de avaliação da doença de Alzheimer (ADAS-cog) (p=0.003) e CIBIC-plus (p=0.004) na Semana 24 com base na observação mais recente (LOCF). Num outro estudo em monoterapia na doença de Alzheimer ligeira a moderada, foi randomizado um total de 470 doentes (resultados totais basais do MMSE de 11 a 23). Na análise primária definida prospectivamente, não se observou significância estatística relativamente aos parâmetros de eficácia primários na Semana 24.
+ A meta-análise dos dados dos doentes com doença de Alzheimer moderada a grave (resultados totais basais de MMSE abaixo de 20), resultante dos 6 estudos clínicos de fase III, controlados com placebo, com 6 meses de duração (incluindo estudos em monoterapia e estudos nos quais os doentes recebiam
+ 14 uma dose fixa de um inibidor da acetilcolinesterase) demonstrou a existência de um efeito estatisticamente significativo a favor da memantina como tratamento nos domínios cognitivo, global e funcional. Nos casos em que os doentes apresentavam um agravamento simultâneo nos três domínios, verificou-se um benefício estatisticamente significativo da memantina na prevenção do agravamento clínico, uma vez que houve 2 vezes mais doentes do grupo placebo a apresentar sinais de agravamento nos três domínios do que no grupo da memantina (21% vs 11%, p &lt; 0.0001).
+ 5.2 Propriedades farmacocinéticas Absorção: A memantina tem uma biodisponibilidade absoluta de aproximadamente 100%. O tmax situa-se entre 3 e 8 horas. Não existem indicações de que os alimentos influenciem a absorção da memantina.
+ Distribuição: Doses diárias de 20 mg resultam em concentrações plasmáticas de memantina no estado de equilíbrio entre 70 e 150 ng/ml (0,5 – 1 µmol) com grandes variações interindividuais. Aquando da administração de doses diárias de 5 a 30 mg, foi calculada uma taxa média líquido cefalorraquidiano (LCR)/Soro de 0,52. O volume de distribuição é próximo de 10 l/kg. Cerca de 45% da memantina encontra-se ligada a proteínas plasmáticas.
+ Biotransformação: No ser humano, cerca de 80% das substâncias relacionadas com a memantina em circulação estão presentes como o composto original. Os metabolitos principais no ser humano são o N-3, 5-dimetil-gludantano, a mistura isomérica de 4-e 6-hidroxi-memantina e 1-nitroso-3, 5-dimetil-adamantano. Nenhum destes metabolitos exibe actividade antagonística do NMDA. Não foi detectado metabolismo catalisado pelo citocromo P 450 in vitro.
+ Num estudo com 14C-memantina administrada por via oral, foi recuperada uma média de 84% da dose no intervalo de 20 dias,99% dos quais por excreção renal.
+ Eliminação: A memantina é eliminada de forma monoexponencial com t½ terminal de 60 a 100 horas. Em voluntários com função renal normal, a depuração total (Cltot) tem o valor de 170 ml/min/1,73 m2 e parte da depuração renal total é efectuada por secreção tubular.
+ O tratamento renal também envolve reabsorção tubular, provavelmente mediada por proteínas de transporte de catiões. A taxa de depuração renal da memantina em condições de urina alcalina poderá ser reduzida por um factor de 7 a 9 (ver secção 4.4). A alcalinização da urina pode resultar de mudanças drásticas na dieta, por exemplo uma mudança de dieta carnívora para vegetariana ou uma toma em grande quantidade de substâncias tampão gástricas com efeito alcalinizante.
+ Linearidade: Estudos em voluntários demonstraram farmacocinética linear no intervalo de doses de 10 a 40 mg.
+ Relação farmacocinética/farmacodinâmica: Para uma dose de memantina de 20 mg por dia, os níveis no LCR correspondem ao valor ki (ki= constante de inibição) da memantina, o qual é de 0,5 µmol no córtex frontal humano.
+ 5.3 Dados de segurança pré-clínica Em estudos de curto prazo em ratos, a memantina, tal como outros antagonistas do NMDA, apenas induziu vacuolização e necrose neuronal (lesões de Olney) quando tomada em doses que conduzem a concentrações séricas máximas muito elevadas. A ataxia e outros sinais pré-clínicos precederam a vacuolização e necrose. Uma vez que os efeitos nunca foram observados em estudos a longo prazo em roedores ou não roedores, a relevância clínica destas evidências é desconhecida.
+ Foram observadas inconsistentemente alterações oculares em estudos de toxicidade repetida em roedores e cães, mas não em macacos. Os exames oftalmológicos específicos nos estudos clínicos com memantina não revelaram alterações oculares.
+ 15 Em roedores, foi observada fosfolipidose nos macrófagos pulmonares, devido à acumulação de memantina nos lisossomas. Este efeito é reconhecido noutras substâncias activas com propriedades anfifílicas catiónicas. Existe uma relação possível entre esta acumulação e a vacuolização observada nos pulmões. Este efeito apenas foi observado com doses elevadas em roedores. A relevância clínica destas evidências é desconhecida.
+ Nos estudos padronizados com memantina, não foi observada genotoxicidade. Não existem indícios de carcinogenicidade em estudos de longo prazo em ratinhos e ratos. A memantina não foi teratogénica em ratos e coelhos, mesmo em doses maternas tóxicas, e não foram observados efeitos adversos na fertilidade. Nos ratos, foi observada redução do crescimento do feto, com níveis de exposição idênticos ou ligeiramente superiores aos níveis humanos.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Sorbato de potássio Sorbitol E420 Água purificada
+ 6.2 Incompatibilidades Não aplicável. 6.3 Prazo de validade 4 anos. Uma vez aberto, o conteúdo do frasco deve ser utilizado no espaço de 3 meses.
+ 6.4 Precauções especiais de conservação
+ Não conservar acima de 30°C. 6.5 Natureza e conteúdo do recipiente Frascos de vidro castanho (Classe Hidrolítica III) com conta-gotas e 20,50,100 g ou 10 x 50 g de solução.
+ 6.6 Precauções especiais de eliminação Não existem requisitos especiais. 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ H. Lundbeck A/S Ottiliavej 9, DK-2500 Valby Dinamarca
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 16 EU/1/02/219/004-6 EU/1/02/219/013
+ 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 15/05/2002 Data da renovação mais recente: 15/05/2007
+ 10. DATA DA REVISÃO DO TEXTO Informação pormenorizada sobre este medicamento está disponível na Internet, no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu
+ 17 1. NOME DO MEDICAMENTO
+ Ebixa 5 mg comprimidos revestidos por película. Ebixa 10 mg comprimidos revestidos por película. Ebixa 15 mg comprimidos revestidos por película. Ebixa 20 mg comprimidos revestidos por película.
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada comprimido revestido por película contém 5 mg de cloridrato de memantina, equivalente a 4,15 mg de memantina. Cada comprimido revestido por película contém 10 mg de cloridrato de memantina, equivalente a 8,31 mg de memantina. Cada comprimido revestido por película contém 15 mg de cloridrato de memantina, equivalente a 12,46 mg de memantina. Cada comprimido revestido por película contém 20 mg de cloridrato de memantina, equivalente a 16,62 mg de memantina.
+ Excipiente: O comprimido revestido por película de 10mg contém 166 mg de lactose, ver secção 4.4.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Comprimido revestido por película. Os comprimidos revestidos por película de 5 mg são comprimidos revestidos por película, brancos a esbranquiçados, oblongos, com a impressão “ 5 ” de um lado e “ MEM ” no outro. Os comprimidos revestidos por película de 10 mg são comprimidos revestidos por película, brancos a esbranquiçados, oblongos, afunilados centralmente, biconvexos e com uma linha divisória em ambos os lados. O comprimido revestido por película pode ser dividido em metades iguais. Os comprimidos revestidos por película de 15 mg são comprimidos revestidos por película, laranja acinzentados, oblongos, com a impressão “ 15 ” de um lado e “ MEM ” no outro. Os comprimidos revestidos por película de 20 mg são comprimidos revestidos por película, vermelhos acinzentados, oblongos, com a impressão “ 20 ” de um lado e “ MEM ” no outro.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Tratamento de doentes com doença de Alzheimer moderada a grave.
+ 4.2 Posologia e modo de administração O tratamento deve ser iniciado e supervisionado por um médico com experiência no diagnóstico e tratamento da demência de Alzheimer. A terapêutica só deve ser iniciada se estiver disponível um prestador de cuidados para monitorizar regularmente a toma do medicamento pelo doente. O diagnóstico deve ser realizado de acordo com as directrizes actuais.
+ 18 Ebixa deve ser administrado uma vez por dia e deve ser tomado à mesma hora, todos os dias. Os comprimidos revestidos por película podem ser tomados com ou sem alimentos.
+ Adultos: Titulação da dose A dose inicial recomendada é de 5 mg por dia, sendo aumentada gradualmente durante as primeiras 4 semanas de tratamento, atingindo a dose de manutenção recomendada, segundo o método seguinte:
+ Semana 1 (dia 1-7): O doente deve tomar 1 comprimido revestido por película de 5 mg por dia (branco a esbranquiçado, oblongo) durante 7 dias.
+ Semana 2 (dia 8-14): O doente deve tomar 1 comprimido revestido por película de 10 mg por dia (branco a esbranquiçado, oblongo, afunilado centralmente, biconvexo e com uma linha divisória em ambos os lados) durante 7 dias.
+ Semana 3 (dia 15-21): O doente deve tomar 1 comprimido revestido por película de 15 mg por dia (laranja acinzentado, oblongo) durante 7 dias.
+ Semana 4 e seguintes: O doente deve tomar 1 comprimido revestido por película de 20 mg por dia (vermelho acinzentado, oblongo) durante 7 dias.
+ Dose de manutenção A dose de manutenção recomendada é de 20 mg por dia.
+ Idosos: Com base nos estudos clínicos, a dose recomendada para doentes de idade superior a 65 anos é de 20 mg por dia (dois comprimidos revestidos por película, uma vez por dia) tal como descrito anteriormente.
+ Crianças e adolescentes: Não é recomendada a utilização de Ebixa em crianças com menos de 18 anos devido à inexistência de dados de segurança e eficácia.
+ Compromisso renal: Em doentes com a função renal ligeiramente alterada (depuração da creatinina 50-80 ml/min) não é necessário ajuste de dose. Em doentes com compromisso renal moderado (depuração da creatinina de 30-49 ml/min), a dose diária deverá ser 10 mg por dia. Se bem tolerada após, pelo menos,7 dias de tratamento, a dose deverá ser aumentada até 20 mg/dia de acordo com o esquema de titulação padrão. Em doentes com compromisso renal grave (depuração da creatinina 5-29 ml/min) a dose diária deverá ser de 10 mg por dia.
+ Compromisso hepático: Em doentes com compromisso hepático ligeiro a moderado (Child-Pugh A e Child-Pugh B) não há necessidade de ajuste de dose. Não estão disponíveis dados de utilização de memantina em doentes com compromisso hepático grave. A administração de Ebixa não é recomendada a doentes com compromisso hepático grave.
+ 4.3 Contra-indicações Hipersensibilidade à substância activa ou a qualquer um dos excipientes.
+ 4.4 Advertências e precauções especiais de utilização
+ 19 É recomendada precaução em doentes com epilepsia, com antecedentes de episódios convulsivos ou com factores predisponentes para epilepsia.
+ A utilização concomitante de antagonistas do receptor N-metil-D-aspartato (NMDA), tais como a amantadina, cetamina ou o dextrometorfano, deverá ser evitada. Estas substâncias actuam no mesmo sistema receptor que a memantina e, por essa razão, as reacções adversas principalmente relacionadas com o sistema nervoso central (SNC) poderão ser mais frequentes ou mais acentuadas (ver também a secção 4.5).
+ Alguns factores que podem elevar o pH da urina (ver secção 5.2 “ Eliminação ”) requererão uma monitorização cuidadosa do doente. Estes factores incluem mudanças drásticas na dieta, por exemplo uma mudança de dieta carnívora para vegetariana ou a toma em grande quantidade de produtos gástricos tampão com efeito alcalinizante. Para além disso, o pH da urina pode ser elevado por episódios de acidose tubular renal (ATR) ou infecções graves das vias urinárias provocadas por bactérias Proteus.
+ Na maioria dos estudos clínicos, foram excluídos de participar os doentes com enfarte do miocárdio recente, compromisso cardíaco congestivo descompensado (NYHA III-IV) ou com hipertensão não controlada. Consequentemente, os dados disponíveis são limitados e os doentes nestas condições devem ser supervisionados cuidadosamente.
+ Excipientes: Os comprimidos revestidos por película contêm lactose mono-hidratada. Doentes com problemas hereditários raros de intolerância à galactose, com deficiência de lactase Lapp ou com má absorção de glucose-galactose, não devem tomar este medicamento.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Devido aos efeitos farmacológicos e ao mecanismo de acção da memantina, poderão ocorrer as seguintes interacções:
+ • O modo de acção sugere que os efeitos da L-dopa, dos agonistas dopaminérgicos e dos anticolinérgicos poderão ser amplificados pelo tratamento concomitante com antagonistas NMDA, como a memantina. Os efeitos de barbitúricos e neurolépticos poderão ser reduzidos. A administração concomitante de memantina e dos agentes antiespasmódicos, dantroleno ou baclofeno, pode alterar os efeitos destes medicamentos, podendo ser necessário um ajuste da dose. • A utilização concomitante de memantina e amantadina deverá ser evitada, devido ao risco de psicose farmacotóxica. Ambas as substâncias são antagonistas do NMDA, quimicamente relacionados. A mesma recomendação poderá aplicar-se para a cetamina e o dextrometorfano (ver também secção 4.4). Existe um relatório de caso clínico publicado de um possível risco da combinação da memantina com fenitoína. • Outras substâncias activas, como a cimetidina, ranitidina, procaínamida, quinidina, quinina e nicotina, que utilizam o mesmo sistema de transporte renal de catiões que a amantadina, também poderão interagir com a memantina, conduzindo a um risco potencial de aumento dos seus níveis séricos. • É possível que haja uma redução dos níveis séricos da hidroclorotiazida (HCT), quando esta, ou qualquer combinação contendo hidroclorotiazida, são administradas concomitantemente com memantina. • No âmbito da experiência pós-comercialização foram notificados casos isolados de aumento do quociente normalizado internacional (INR) em doentes tratados concomitantemente com varfarina. Embora não tenha sido comprovada a existência de uma relação causal, aconselha-se uma monitorização rigorosa do tempo de protrombina ou do INR em doentes a tomar simultaneamente anticoagulantes orais.
+ 20 Em estudos farmacocinéticos (PK) de dose única realizados em sujeitos jovens e saudáveis, não se observou qualquer interacção relevante substância activa/substância activa da memantina com gliburide/metformina ou com o donepezilo.
+ Num estudo clínico em indivíduos jovens e saudáveis não se observou qualquer efeito relevante da memantina na farmacocinética da galantamina.
+ A memantina não inibiu as CYP 1A2, 2A6, 2C9, 2D6, 2E1, 3A, a flavina monoxigenase, epóxido hidrolase ou a sulfatação in vitro.
+ 4.6 Gravidez e aleitamento Não existem dados clínicos sobre administração de memantina a grávidas. Estudos em animais, indicam potencialidade para a redução do crescimento intrauterino a níveis de exposição idênticos ou ligeiramente superiores aos níveis humanos (ver secção 5.3). O risco potencial para o ser humano é desconhecido. A memantina não deve ser utilizada durante a gravidez, a menos que seja absolutamente necessária.
+ Não se sabe se a memantina é excretada no leite humano, embora, tendo em consideração a lipofilia da substância, seja provável que esta excreção possa ocorrer. Mulheres que tomem memantina não devem amamentar.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Normalmente, a doença de Alzheimer moderada a grave provoca perturbações na capacidade de conduzir e utilizar máquinas. Para além disso, os efeitos de Ebixa sobre a capacidade de conduzir e utilizar máquinas são reduzidos ou moderados, pelo que os doentes em ambulatório devem ser avisados para terem cuidados especiais.
+ 4.8 Efeitos indesejáveis Nos estudos clínicos sobre demência ligeira a grave, envolvendo 1784 doentes tratados com Ebixa e 1595 doentes tratados com placebo, as taxas globais de incidência de reacções adversas com Ebixa não foram diferentes das do tratamento com placebo; as reacções adversas foram normalmente de gravidade ligeira a moderada. As reacções adversas mais frequentes e que registaram uma maior incidência no grupo de Ebixa do que no grupo placebo foram tonturas (6,3% vs 5,6%, respectivamente), cefaleias (5,22% vs 3,9%), obstipação (4,6% vs 2,6%), sonolência (3,4% vs 2,2%) e hipertensão (4,1% vs 2,8%).
+ A tabela seguinte lista todas as reacções adversas registadas durante os estudos clínicos com Ebixa e desde que foi introduzido no mercado. Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ As reacções adversas são classificadas de acordo com as classes de sistemas de órgãos, usando a seguinte convenção: muito frequentes (≥1/10), frequentes (≥1/100 a &lt; 1/10), pouco frequentes (≥1/1.000 a &lt; 1/100), raros (≥1/10.000 a &lt; 1/1.000) e muito raros (&lt; 1/10.000), desconhecido (não pode ser estimado a partir dos dados disponíveis).
+ 21
+ Cardiopatias Doenças do Sistema Nervoso
+ Pouco frequentes Frequentes Pouco frequentes Muito raros
+ Insuficiência cardíaca Tonturas Alterações do modo de andar Convulsões
+ Doenças gastrointestinais Frequentes Pouco frequentes Desconhecido
+ Obstipação Vómitos Pancreatite2 Infecções e infestações Vasculopatias
+ Pouco frequentes Frequentes Pouco frequentes
+ Infecções fúngicas Hipertensão Trombose venosa/tromboembolia
+ 1 Perturbações gerais e alterações no local de administração Perturbações do foro psiquiátrico
+ Frequentes Pouco frequentes Frequentes Pouco frequentes Pouco frequentes Desconhecido
+ Cefaleia Fadiga Sonolência Confusão Alucinações1 Reacções psicóticas2
+ As alucinações foram essencialmente observadas em doentes com doença de Alzheimer grave. 2 Casos isolados notificados no âmbito da experiência pós-comercialização.
+ A doença de Alzheimer tem sido associada a depressão, ideação suicida e suicídio. Na fase de experiência pós-comercialização estes efeitos foram notificados em doentes tratados com Ebixa.
+ 4.9 Sobredosagem Existe experiência limitada de sobredosagem obtida a partir dos estudos clínicos e experiência pós-comercialização.
+ Sintomas: Sobredosagens relativamente acentuadas (200 mg e 105 mg/dia durante 3 dias, respectivamente) têm sido associadas a sintomas de cansaço, fraqueza e/ou diarreia ou a nenhum sintoma. Em casos de sobredosagem abaixo dos 140 mg, ou de dose desconhecida, os doentes revelaram sintomas com origem no sistema nervoso central (confusão, torpor, sonolência, vertigens, instabilidade psicomotora, agressão, alucinações e alterações na forma de andar) e/ou de origem gastrointestinal (vómitos e diarreia).
+ No caso mais extremo de sobredosagem, o doente sobreviveu a uma toma oral de um total de 2000 mg de memantina com efeitos no sistema nervoso central (coma durante 10 dias, seguido de diplopia e instabilidade psicomotora). O doente recebeu tratamento sintomático e plasmaforese. O doente recuperou sem sequelas permanentes.
+ Num outro caso de sobredosagem acentuada, o doente também sobreviveu e recuperou. O doente recebeu 400 mg de memantina oral. O doente apresentou sintomas relacionados com o sistema nervoso central tais como instabilidade psicomotora, psicose, alucinações visuais, proconvulsões, sonolência, estupor e perda de consciência.
+ Tratamento: Em caso de sobredosagem, o tratamento deverá ser sintomático. Não está disponível nenhum antídoto específico para intoxicações e sobredosagens. Devem ser utilizados sempre que apropriado os procedimentos clínicos standard para a remoção da substância activa, como por exemplo lavagem gástrica, carbo medicinalis (interrupção da recirculação entero-hepática potencial), acidificação da urina ou diurese forçada.
+ Em caso de sinais e sintomas de sobrestimulação geral de Sistema Nervoso Central (SNC), deverá ser considerado um tratamento clínico sintomático cuidadoso.
+ 22 5. PROPRIEDADES FARMACOLÓGICAS
+ 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Outros fármacos anti-demência, código ATC: N06DX01.
+ Existem cada vez mais evidências de que as perturbações na neurotransmissão glutamatérgica, especialmente nos receptores NMDA, contribuem para a expressão dos sintomas e para a evolução da doença na demência neurodegenerativa.
+ A memantina é um antagonista não competitivo de receptores NMDA, de afinidade moderada e dependente da voltagem. Modula os efeitos de níveis tónicos patologicamente elevados de glutamato que poderão levar à disfunção neuronal.
+ Estudos clínicos: Num estudo piloto de utilização da memantina em monoterapia levado a cabo numa população de doentes com doença de Alzheimer moderada a grave (resultados totais basais do mini exame do estado mental (MMSE) compreendidos entre 3 e 14) foi incluído um total de 252 doentes em ambulatório. O estudo demonstrou efeitos benéficos da memantina em comparação com o placebo aos 6 meses (análise dos casos observados pela impressão de alteração baseada na entrevista do clínico (CIBIC-plus): p=0.025; estudo cooperativo da doença de Alzheimer – actividades da vida diária ADCS-ADLsev): p=0.003; painel de avaliação de incapacidade grave (SIB): p=0.002).
+ Um estudo piloto de utilização da memantina em monoterapia no tratamento da doença de Alzheimer ligeira a moderada (resultados totais basais do MMSE compreendidos entre 10 e 22) incluiu 403 doentes. Os doentes tratados com memantina apresentaram um efeito estatisticamente significativo melhor do que os doentes que receberam placebo, relativamente aos parâmetros primários: escala de avaliação da doença de Alzheimer (ADAS-cog) (p=0.003) e CIBIC-plus (p=0.004) na Semana 24 com base na observação mais recente (LOCF). Num outro estudo em monoterapia na doença de Alzheimer ligeira a moderada, foi randomizado um total de 470 doentes (resultados totais basais do MMSE de 11 a 23). Na análise primária definida prospectivamente, não se observou significância estatística relativamente aos parâmetros de eficácia primários na Semana 24.
+ A meta-análise dos dados dos doentes com doença de Alzheimer moderada a grave (resultados totais basais de MMSE abaixo de 20), resultante dos 6 estudos clínicos de fase III, controlados com placebo, com 6 meses de duração (incluindo estudos em monoterapia e estudos nos quais os doentes recebiam uma dose fixa de um inibidor da acetilcolinesterase) demonstrou a existência de um efeito estatisticamente significativo a favor da memantina como tratamento nos domínios cognitivo, global e funcional. Nos casos em que os doentes apresentavam um agravamento simultâneo nos três domínios, verificou-se um benefício estatisticamente significativo da memantina na prevenção do agravamento clínico, uma vez que houve 2 vezes mais doentes do grupo placebo a apresentar sinais de agravamento nos três domínios do que no grupo da memantina (21% vs 11%, p &lt; 0.0001).
+ 5.2 Propriedades farmacocinéticas Absorção: A memantina tem uma biodisponibilidade absoluta de aproximadamente 100%. O tmax situa-se entre 3 e 8 horas. Não existem indicações de que os alimentos influenciem a absorção da memantina.
+ Distribuição: Doses diárias de 20 mg resultam em concentrações plasmáticas de memantina no estado de equilíbrio entre 70 e 150 ng/ml (0,5-1 µmol) com grandes variações interindividuais. Aquando da administração de doses diárias de 5 a 30 mg, foi calculada uma taxa média líquido cefalorraquidiano (LCR)/Soro de 0,52. O volume de distribuição é próximo de 10 l/kg. Cerca de 45% da memantina encontra-se ligada a proteínas plasmáticas.
+ Biotransformação: No ser humano, cerca de 80% das substâncias relacionadas com a memantina em circulação estão presentes como o composto original. Os metabolitos principais no ser humano são o
+ 23 N-3, 5-dimetil-gludantano, a mistura isomérica de 4-e 6-hidroxi-memantina e 1-nitroso-3, 5-dimetil-adamantano. Nenhum destes metabolitos exibe actividade antagonística do NMDA. Não foi detectado metabolismo catalisado pelo citocromo P 450 in vitro.
+ Num estudo com 14C-memantina administrada por via oral, foi recuperada uma média de 84% da dose no intervalo de 20 dias,99% dos quais por excreção renal.
+ Eliminação: A memantina é eliminada de forma monoexponencial com t½ terminal de 60 a 100 horas. Em voluntários com função renal normal, a depuração total (Cltot) tem o valor de 170 ml/min/1,73 m2 e parte da depuração renal total é efectuada por secreção tubular.
+ O tratamento renal também envolve reabsorção tubular, provavelmente mediada por proteínas de transporte de catiões. A taxa de depuração renal da memantina em condições de urina alcalina poderá ser reduzida por um factor de 7 a 9 (ver secção 4.4). A alcalinização da urina pode resultar de mudanças drásticas na dieta, por exemplo uma mudança de dieta carnívora para vegetariana ou uma toma em grande quantidade de substâncias tampão gástricas com efeito alcalinizante.
+ Linearidade: Estudos em voluntários demonstraram farmacocinética linear no intervalo de doses de 10 a 40 mg.
+ Relação farmacocinética/farmacodinâmica: Para uma dose de memantina de 20 mg por dia, os níveis no LCR correspondem ao valor ki (ki= constante de inibição) da memantina, o qual é de 0,5 µmol no córtex frontal humano.
+ 5.3 Dados de segurança pré-clínica Em estudos de curto prazo em ratos, a memantina, tal como outros antagonistas do NMDA, apenas induziu vacuolização e necrose neuronal (lesões de Olney) quando tomada em doses que conduzem a concentrações séricas máximas muito elevadas. A ataxia e outros sinais pré-clínicos precederam a vacuolização e necrose. Uma vez que os efeitos nunca foram observados em estudos a longo prazo em roedores ou não roedores, a relevância clínica destas evidências é desconhecida.
+ Foram observadas inconsistentemente alterações oculares em estudos de toxicidade repetida em roedores e cães, mas não em macacos. Os exames oftalmológicos específicos nos estudos clínicos com memantina não revelaram alterações oculares.
+ Em roedores, foi observada fosfolipidose nos macrófagos pulmonares, devido à acumulação de memantina nos lisossomas. Este efeito é reconhecido noutras substâncias activas com propriedades anfifílicas catiónicas. Existe uma relação possível entre esta acumulação e a vacuolização observada nos pulmões. Este efeito apenas foi observado com doses elevadas em roedores. A relevância clínica destas evidências é desconhecida.
+ Nos estudos padronizados com memantina, não foi observada genotoxicidade. Não existem indícios de carcinogenicidade em estudos de longo prazo em ratinhos e ratos. A memantina não foi teratogénica em ratos e coelhos, mesmo em doses maternas tóxicas, e não foram observados efeitos adversos na fertilidade. Nos ratos, foi observada redução do crescimento do feto, com níveis de exposição idênticos ou ligeiramente superiores aos níveis humanos.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Núcleo dos comprimidos revestidos por película de 5/15/20 mg: Celulose microcristalina
+ 24 Croscarmelose sódica Sílica coloidal anidra Estearato de magnésio
+ Revestimento dos comprimidos revestidos por película de 5/15/20 mg: Hipromelose Macrogol 400 Dióxido de titânio (E 171)
+ Adicionalmente para os comprimidos revestidos por película de 15 mg e de 20 mg: Óxido de ferro amarelo e vermelho (E 172)
+ Núcleo do comprimido revestido por película de 10 mg: Lactose mono-hidratada Celulose microcristalina Sílica coloidal anidra Talco Estearato de magnésio
+ Revestimento do comprimido revestido por película de 10 mg: Co-polímero do ácido metacrílico-etilacrilato (1: 1) Laurilsulfato de sódio Polissorbato 80 Talco Triacetina Emulsão de simeticone
+ 6.2 Incompatibilidades Não aplicável. 6.3 Prazo de validade 4 anos. 6.4 Precauções especiais de conservação
+ O medicamento não necessita de quaisquer precauções especiais de conservação.
+ 6.5 Natureza e conteúdo do recipiente Cada embalagem contém 28 comprimidos revestidos por película em 4 blisters de Alu/PVDC/PE/PVC ou de Alu/PP com 7 comprimidos revestidos por película de 5 mg,7 comprimidos revestidos por película de 10 mg,7 comprimidos revestidos por película de 15 mg e 7 comprimidos revestidos por película de 20 mg.
+ 6.6 Precauções especiais de eliminação Não existem requisitos especiais. 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ H. Lundbeck A/S Ottiliavej 9, 25 DK-2500 Valby Dinamarca
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/02/219/022 EU/1/02/219/036 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 08/05/2008 Data da renovação mais recente:
+ 10. DATA DA REVISÃO DO TEXTO Informação pormenorizada sobre este medicamento está disponível na Internet, no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu
+ 26 1. NOME DO MEDICAMENTO
+ Ebixa 20 mg comprimidos revestidos por película.
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada comprimido revestido por película contém 20 mg de cloridrato de memantina, equivalente a 16,62 mg de memantina.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Comprimido revestido por película. Comprimidos revestidos por película, vermelhos claros a vermelhos acinzentados, oblongos, a impressão “ 20 ” de um lado e “ MEM ” no outro.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Tratamento de doentes com doença de Alzheimer moderada a grave.
+ 4.2 Posologia e modo de administração O tratamento deve ser iniciado e supervisionado por um médico com experiência no diagnóstico e tratamento da demência de Alzheimer. A terapêutica só deve ser iniciada se estiver disponível um prestador de cuidados para monitorizar regularmente a toma do medicamento pelo doente. O diagnóstico deve ser realizado de acordo com as directrizes actuais.
+ Ebixa deve ser administrado uma vez por dia e deve ser tomado à mesma hora, todos os dias. Os comprimidos revestido por película podem ser tomados com ou sem alimentos.
+ Adultos: Titulação da dose A dose diária máxima recomendada é de 20 mg por dia. De forma a reduzir o risco de efeitos secundários, a dose de manutenção é atingida através do aumento gradual de 5 mg por semana ao longo das primeiras 3 semanas, segundo o método seguinte:
+ Semana 1 (dia 1-7): O doente deve tomar um comprimido revestido por película de 5 mg por dia, durante 7 dias.
+ Semana 2 (dia 8-14): O doente deve tomar um comprimido revestido por película de 10 mg por dia, durante 7 dias.
+ 27 Semana 3 (dia 15-21): O doente deve tomar um comprimido revestido por película de 15 mg por dia, durante 7 dias.
+ Semana 4 e seguintes: O doente deve tomar um comprimido revestido por película de 20 mg por dia.
+ Dose de manutenção A dose de manutenção recomendada é de 20 mg por dia.
+ Idosos: Com base nos estudos clínicos, a dose recomendada para doentes de idade superior a 65 anos é de 20 mg por dia, tal como descrito anteriormente.
+ Crianças e adolescentes: Não é recomendada a utilização de Ebixa em crianças com menos de 18 anos devido à inexistência de dados de segurança e eficácia.
+ Compromisso renal: Em doentes com a função renal ligeiramente alterada (depuração da creatinina 50-80 ml/min) não é necessário ajuste de dose. Em doentes com compromisso renal moderado (depuração da creatinina de 30-49 ml/min), a dose diária deverá ser 10 mg por dia. Se bem tolerada após, pelo menos 7 dias de tratamento, a dose deverá ser aumentada até 20 mg/dia de acordo com o esquema de titulação padrão. Em doentes com compromisso renal grave (depuração da creatinina 5-29 ml/min) a dose diária deverá ser de 10 mg por dia.
+ Compromisso hepático: Em doentes com compromisso hepático ligeiro a moderado (Child-Pugh A e Child-Pugh B) não há necessidade de ajuste de dose. Não estão disponíveis dados de utilização de memantina em doentes com compromisso hepático grave. A administração de Ebixa não é recomendada a doentes com compromisso hepático grave.
+ 4.3 Contra-indicações Hipersensibilidade à substância activa ou a qualquer um dos excipientes.
+ 4.4 Advertências e precauções especiais de utilização
+ É recomendada precaução em doentes com epilepsia, com antecedentes de episódios convulsivos ou com factores predisponentes para epilepsia.
+ A utilização concomitante de antagonistas do receptor N-metil-D-aspartato (NMDA), tais como a amantadina, cetamina ou o dextrometorfano, deverá ser evitada. Estas substâncias actuam no mesmo sistema receptor que a memantina e, por essa razão, as reacções adversas principalmente relacionadas com o sistema nervoso central (SNC)] poderão ser mais frequentes ou mais acentuadas (ver também a secção 4.5).
+ Alguns factores que podem elevar o pH da urina (ver secção 5.2 “ Eliminação ”) requererão uma monitorização cuidadosa do doente. Estes factores incluem mudanças drásticas na dieta, por exemplo uma mudança de dieta carnívora para vegetariana ou a toma em grande quantidade de produtos gástricos tampão com efeito alcalinizante. Para além disso, o pH da urina pode ser elevado por episódios de acidose tubular renal (ATR) ou infecções graves das vias urinárias provocadas por bactérias Proteus.
+ Na maioria dos estudos clínicos, foram excluídos de participar os doentes com enfarte do miocárdio recente, compromisso cardíaco congestivo descompensado (NYHA III-IV) ou com hipertensão não controlada. Consequentemente, os dados disponíveis são limitados e os doentes nestas condições devem ser supervisionados cuidadosamente.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ 28 Devido aos efeitos farmacológicos e ao mecanismo de acção da memantina, poderão ocorrer as seguintes interacções:
+ • O modo de acção sugere que os efeitos da L-dopa, dos agonistas dopaminérgicos e dos anticolinérgicos poderão ser amplificados pelo tratamento concomitante com antagonistas NMDA, como a memantina. Os efeitos de barbitúricos e neurolépticos poderão ser reduzidos. A administração concomitante de memantina e dos agentes antiespasmódicos, dantroleno ou baclofeno, pode alterar os efeitos destes medicamentos, podendo ser necessário um ajuste da dose. • A utilização concomitante de memantina e amantadina deverá ser evitada, devido ao risco de psicose farmacotóxica. Ambas as substâncias são antagonistas do NMDA, quimicamente relacionados. A mesma recomendação poderá aplicar-se para a cetamina e o dextrometorfano (ver também secção 4.4). Existe um relatório de caso clínico publicado de um possível risco da combinação da memantina com fenitoína. • Outras substâncias activas, como a cimetidina, ranitidina, procaínamida, quinidina, quinina e nicotina, que utilizam o mesmo sistema de transporte renal de catiões que a amantadina, também poderão interagir com a memantina, conduzindo a um risco potencial de aumento dos seus níveis séricos. • É possível que haja uma redução dos níveis séricos da hidroclorotiazida (HCT), quando esta, ou qualquer combinação contendo hidroclorotiazida, são administradas concomitantemente com memantina. • No âmbito da experiência pós-comercialização foram notificados casos isolados de aumento do quociente normalizado internacional (INR) em doentes tratados concomitantemente com varfarina. Embora não tenha sido comprovada a existência de uma relação causal, aconselha-se uma monitorização rigorosa do tempo de protrombina ou do INR em doentes a tomar simultaneamente anticoagulantes orais.
+ Em estudos farmacocinéticos (PK) de dose única realizados em sujeitos jovens e saudáveis, não se observou qualquer interacção relevante substância activa/substância activa da memantina com gliburide/metformina ou com o donepezilo.
+ Num estudo clínico em indivíduos jovens e saudáveis não se observou qualquer efeito relevante da memantina na farmacocinética da galantamina.
+ A memantina não inibiu as CYP 1A2, 2A6, 2C9, 2D6, 2E1, 3A, a flavina monoxigenase, epóxido hidrolase ou a sulfatação in vitro.
+ 4.6 Gravidez e aleitamento Não existem dados clínicos sobre administração de memantina a grávidas. Estudos em animais, indicam potencialidade para a redução do crescimento intrauterino a níveis de exposição idênticos ou ligeiramente superiores aos níveis humanos (ver secção 5.3). O risco potencial para o ser humano é desconhecido. A memantina não deve ser utilizada durante a gravidez, a menos que seja absolutamente necessária.
+ Não se sabe se a memantina é excretada no leite humano, embora, tendo em consideração a lipofilia da substância, seja provável que esta excreção possa ocorrer. Mulheres que tomem memantina não devem amamentar.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Normalmente, a doença de Alzheimer moderada a grave provoca perturbações na capacidade de conduzir e utilizar máquinas. Para além disso, os efeitos de Ebixa sobre a capacidade de conduzir e utilizar máquinas são reduzidos ou moderados, pelo que os doentes em ambulatório devem ser avisados para terem cuidados especiais.
+ 29 4.8 Efeitos indesejáveis
+ Nos estudos clínicos sobre demência ligeira a grave, envolvendo 1784 doentes tratados com Ebixa e 1595 doentes tratados com placebo, as taxas globais de incidência de reacções adversas com Ebixa não foram diferentes das do tratamento com placebo; as reacções adversas foram normalmente de gravidade ligeira a moderada. As reacções adversas mais frequentes e que registaram uma maior incidência no grupo de Ebixa do que no grupo placebo foram tonturas (6,3% vs 5,6%, respectivamente), cefaleias (5,22% vs 3,9%), obstipação (4,6% vs 2,6%), sonolência (3,4% vs 2,2%) e hipertensão (4,1% vs 2,8%).
+ A tabela seguinte lista todas as reacções adversas registadas durante os estudos clínicos com Ebixa e desde que foi introduzido no mercado. Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ As reacções adversas são classificadas de acordo com as classes de sistemas de órgãos, usando a seguinte convenção: muito frequentes (≥1/10), frequentes (≥1/100 a &lt; 1/10), pouco frequentes (≥1/1.000 a &lt; 1/100), raros (≥1/10.000 a &lt; 1/1.000) e muito raros (&lt; 1/10.000), desconhecido (não pode ser estimado a partir dos dados disponíveis).
+ Cardiopatias Doenças do Sistema Nervoso
+ Pouco frequentes Frequentes Pouco frequentes Muito raros
+ Insuficiência cardíaca Tonturas Alterações do modo de andar Convulsões
+ Doenças gastrointestinais Frequentes Pouco frequentes Desconhecido
+ Obstipação Vómitos Pancreatite2 Infecções e infestações Vasculopatias
+ Pouco frequentes Frequentes Pouco frequentes
+ Infecções fúngicas Hipertensão Trombose venosa/tromboembolia
+ Perturbações gerais e alterações no local de administração Perturbações do foro psiquiátrico 1
+ Frequentes Pouco frequentes Frequentes Pouco frequentes Pouco frequentes Desconhecido
+ Cefaleia Fadiga Sonolência Confusão Alucinações1 Reacções psicóticas2
+ As alucinações foram essencialmente observadas em doentes com doença de Alzheimer grave. 2 Casos isolados notificados no âmbito da experiência pós-comercialização.
+ A doença de Alzheimer tem sido associada a depressão, ideação suicida e suicídio. Na fase de experiência pós-comercialização estes efeitos foram notificados em doentes tratados com Ebixa.
+ 4.9 Sobredosagem Existe experiência limitada de sobredosagem obtida a partir dos estudos clínicos e experiência pós-comercialização.
+ Sintomas: Sobredosagens relativamente acentuadas (200 mg e 105 mg/dia durante 3 dias, respectivamente) têm sido associadas a sintomas de cansaço, fraqueza e/ou diarreia ou a nenhum sintoma. Em casos de sobredosagem abaixo dos 140 mg, ou de dose desconhecida, os doentes revelaram sintomas com origem no sistema nervoso central (confusão, torpor, sonolência, vertigens, instabilidade psicomotora, agressão, alucinações e alterações na forma de andar) e/ou de origem gastrointestinal (vómitos e diarreia).
+ 30 No caso mais extremo de sobredosagem, o doente sobreviveu a uma toma oral de um total de 2000 mg de memantina com efeitos no sistema nervoso central (coma durante 10 dias, seguido de diplopia e instabilidade psicomotora). O doente recebeu tratamento sintomático e plasmaforese. O doente recuperou sem sequelas permanentes.
+ Num outro caso de sobredosagem acentuada, o doente também sobreviveu e recuperou. O doente recebeu 400 mg de memantina oral. O doente apresentou sintomas relacionados com o sistema nervoso central tais como instabilidade psicomotora, psicose, alucinações visuais, proconvulsões, sonolência, estupor e perda de consciência.
+ Tratamento: Em caso de sobredosagem, o tratamento deverá ser sintomático. Não está disponível nenhum antídoto específico para intoxicações e sobredosagens. Devem ser utilizados sempre que apropriado os procedimentos clínicos standard para a remoção da substância activa, como por exemplo lavagem gástrica, carbo medicinalis (interrupção da recirculação entero-hepática potencial), acidificação da urina ou diurese forçada.
+ Em caso de sinais e sintomas de sobrestimulação geral de Sistema Nervoso Central (SNC), deverá ser considerado um tratamento clínico sintomático cuidadoso.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Outros fármacos anti-demência, código ATC: N06DX01.
+ Existem cada vez mais evidências de que as perturbações na neurotransmissão glutamatérgica, especialmente nos receptores NMDA, contribuem para a expressão dos sintomas e para a evolução da doença na demência neurodegenerativa.
+ A memantina é um antagonista não competitivo de receptores NMDA, de afinidade moderada e dependente da voltagem. Modula os efeitos de níveis tónicos patologicamente elevados de glutamato que poderão levar à disfunção neuronal.
+ Estudos clínicos: Num estudo piloto de utilização da memantina em monoterapia levado a cabo numa população de doentes com doença de Alzheimer moderada a grave (resultados totais basais do mini exame do estado mental (MMSE) compreendidos entre 3 e 14) foi incluído um total de 252 doentes em ambulatório. O estudo demonstrou efeitos benéficos da memantina em comparação com o placebo aos 6 meses (análise dos casos observados pela impressão de alteração baseada na entrevista do clínico (CIBIC-plus): p=0.025; estudo cooperativo da doença de Alzheimer – actividades da vida diária ADCS-ADLsev): p=0.003; painel de avaliação de incapacidade grave (SIB): p=0.002).
+ Um estudo piloto de utilização da memantina em monoterapia no tratamento da doença de Alzheimer ligeira a moderada (resultados totais basais do MMSE compreendidos entre 10 e 22) incluiu 403 doentes. Os doentes tratados com memantina apresentaram um efeito estatisticamente significativo melhor do que os doentes que receberam placebo, relativamente aos parâmetros primários: escala de avaliação da doença de Alzheimer (ADAS-cog) (p=0.003) e CIBIC-plus (p=0.004) na Semana 24 com base na observação mais recente (LOCF). Num outro estudo em monoterapia na doença de Alzheimer ligeira a moderada, foi randomizado um total de 470 doentes (resultados totais basais do MMSE de 11 a 23). Na análise primária definida prospectivamente, não se observou significância estatística relativamente aos parâmetros de eficácia primários na Semana 24.
+ A meta-análise dos dados dos doentes com doença de Alzheimer moderada a grave (resultados totais basais de MMSE abaixo de 20), resultante dos 6 estudos clínicos de fase III, controlados com placebo, com 6 meses de duração (incluindo estudos em monoterapia e estudos nos quais os doentes recebiam
+ 31 uma dose fixa de um inibidor da acetilcolinesterase) demonstrou a existência de um efeito estatisticamente significativo a favor da memantina como tratamento nos domínios cognitivo, global e funcional. Nos casos em que os doentes apresentavam um agravamento simultâneo nos três domínios, verificou-se um benefício estatisticamente significativo da memantina na prevenção do agravamento clínico, uma vez que houve 2 vezes mais doentes do grupo placebo a apresentar sinais de agravamento nos três domínios do que no grupo da memantina (21% vs 11%, p &lt; 0.0001).
+ 5.2 Propriedades farmacocinéticas Absorção: A memantina tem uma biodisponibilidade absoluta de aproximadamente 100%. O tmax situa-se entre 3 e 8 horas. Não existem indicações de que os alimentos influenciem a absorção da memantina.
+ Distribuição: Doses diárias de 20 mg resultam em concentrações plasmáticas de memantina no estado de equilíbrio entre 70 e 150 ng/ml (0,5-1 µmol) com grandes variações interindividuais. Aquando da administração de doses diárias de 5 a 30 mg, foi calculada uma taxa média líquido cefalorraquidiano (LCR)/Soro de 0,52. O volume de distribuição é próximo de 10 l/kg. Cerca de 45% da memantina encontra-se ligada a proteínas plasmáticas.
+ Biotransformação: No ser humano, cerca de 80% das substâncias relacionadas com a memantina em circulação estão presentes como o composto original. Os metabolitos principais no ser humano são o N-3, 5-dimetil-gludantano, a mistura isomérica de 4-e 6-hidroxi-memantina e 1-nitroso-3, 5-dimetil-adamantano. Nenhum destes metabolitos exibe actividade antagonística do NMDA. Não foi detectado metabolismo catalisado pelo citocromo P 450 in vitro.
+ Num estudo com 14C-memantina administrada por via oral, foi recuperada uma média de 84% da dose no intervalo de 20 dias,99% dos quais por excreção renal.
+ Eliminação: A memantina é eliminada de forma monoexponencial com t½ terminal de 60 a 100 horas. Em voluntários com função renal normal, a depuração total (Cltot) tem o valor de 170 ml/min/1,73 m2 e parte da depuração renal total é efectuada por secreção tubular.
+ O tratamento renal também envolve reabsorção tubular, provavelmente mediada por proteínas de transporte de catiões. A taxa de depuração renal da memantina em condições de urina alcalina poderá ser reduzida por um factor de 7 a 9 (ver secção 4.4). A alcalinização da urina pode resultar de mudanças drásticas na dieta, por exemplo uma mudança de dieta carnívora para vegetariana ou uma toma em grande quantidade de substâncias tampão gástricas com efeito alcalinizante.
+ Linearidade: Estudos em voluntários demonstraram farmacocinética linear no intervalo de doses de 10 a 40 mg.
+ Relação farmacocinética/farmacodinâmica: Para uma dose de memantina de 20 mg por dia, os níveis no LCR correspondem ao valor ki (ki= constante de inibição) da memantina, o qual é de 0,5 µmol no córtex frontal humano.
+ 5.3 Dados de segurança pré-clínica Em estudos de curto prazo em ratos, a memantina, tal como outros antagonistas do NMDA, apenas induziu vacuolização e necrose neuronal (lesões de Olney) quando tomada em doses que conduzem a concentrações séricas máximas muito elevadas. A ataxia e outros sinais pré-clínicos precederam a vacuolização e necrose. Uma vez que os efeitos nunca foram observados em estudos a longo prazo em roedores ou não roedores, a relevância clínica destas evidências é desconhecida.
+ Foram observadas inconsistentemente alterações oculares em estudos de toxicidade repetida em roedores e cães, mas não em macacos. Os exames oftalmológicos específicos nos estudos clínicos com memantina não revelaram alterações oculares.
+ 32 Em roedores, foi observada fosfolipidose nos macrófagos pulmonares, devido à acumulação de memantina nos lisossomas. Este efeito é reconhecido noutras substâncias activas com propriedades anfifílicas catiónicas. Existe uma relação possível entre esta acumulação e a vacuolização observada nos pulmões. Este efeito apenas foi observado com doses elevadas em roedores. A relevância clínica destas evidências é desconhecida.
+ Nos estudos padronizados com memantina, não foi observada genotoxicidade. Não existem indícios de carcinogenicidade em estudos de longo prazo em ratinhos e ratos. A memantina não foi teratogénica em ratos e coelhos, mesmo em doses maternas tóxicas, e não foram observados efeitos adversos na fertilidade. Nos ratos, foi observada redução do crescimento do feto, com níveis de exposição idênticos ou ligeiramente superiores aos níveis humanos.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Núcleo do comprimido revestido por película: Celulose microcristalina Croscarmelose sódica Sílica coloidal anidra Estearato de magnésio
+ Revestimento do comprimido revestido por película: Hipromelose Macrogol 400 Dióxido de titânio (E 171) Óxido de ferro amarelo e vermelho (E 172)
+ 6.2 Incompatibilidades Não aplicável. 6.3 Prazo de validade 4 anos. 6.4 Precauções especiais de conservação
+ O medicamento não necessita de quaisquer precauções especiais de conservação.
+ 6.5 Natureza e conteúdo do recipiente Embalagens de blisters contendo 14 comprimidos revestidos por película por blister de Alu/PVDC/PE/PVC ou de Alu/PP. Embalagens de 14,28,42,49 x 1,56,56 x 1,70,84,98,98 x 1,100 x 1,112 ou 840 (20 x 42) comprimidos revestidos por película. As embalagens de 49 x 1,56 x 1,98 x 1 e 100 x 1 comprimidos revestidos por película apresentam-se em blister de dose unitária.
+ 6.6 Precauções especiais de eliminação Não existem requisitos especiais. 33 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ H. Lundbeck A/S Ottiliavej 9, DK-2500 Valby Dinamarca
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/02/219/023-035 EU/1/02/219/037-049 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 08/05/2008 Data da renovação mais recente:
+ 10. DATA DA REVISÃO DO TEXTO Informação pormenorizada sobre este medicamento está disponível na Internet, no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu
+ 34 ANEXO II
+ A. TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 35 A TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do fabricante responsável pela libertação do lote
+ H. Lundbeck A/S Ottiliavej 9 DK-2500 Valby DINAMARCA
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento de receita médica restrita, de utilização reservada a certos meios especializados (Ver anexo I: Resumo das Características do Medicamento, secção 4.2).
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ Não aplicável. • OUTRAS CONDIÇÕES
+ Sistema de Farmacovigilância O Titular da Autorização de Introdução no Mercado deve assegurar que o sistema de farmacovigilância, tal como descrito na versão 4 (datada de 12 de Novembro de 2007) apresentada no Módulo 1. 8.1 do pedido de Autorização de Introdução no Mercado, está implementado e em funcionamento antes e enquanto o produto estiver no mercado.
+ Plano de Gestão do Risco O Titular da Autorização de Introdução no Mercado compromete-se a efectuar os estudos e as actividades de farmacovigilância adicionais detalhadas no Plano de Farmacovigilância, tal como acordado na versão 4 (datada de 8 de Fevereiro de 2008) do Plano de Gestão do Risco (PGR) apresentado no Módulo1. 8.2 do Pedido de Autorização de Introdução no Mercado, assim como todas as actualizações subsequentes do PGR acordadas com o CHMP.
+ De acordo com a Norma Orientadora do CHMP sobre Sistemas de Gestão do Risco para medicamentos de uso humano, o PGR actualizado deve ser submetido ao mesmo tempo que o Relatório Periódico de Segurança (RPS) seguinte.
+ Além disso, deve ser submetido um PGR actualizado: • Quando for recebida nova informação que possa ter impacto nas actuais Especificações de Segurança, no Plano de Farmacovigilância ou nas actividades de minimização do risco • No período de 60 dias após ter sido atingido um objectivo importante (farmacovigilância ou minimização do risco) • A pedido da EMEA
+ Relatórios Periódicos de Segurança (RPS) actualizados O Titular da Autorização de Introdução no Mercado continuará a submeter RPSs anualmente, excepto se algo em contrário for especificado pelo CHMP.
+ 36 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 37 A. ROTULAGEM
+ 38 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ CARTONAGEM PARA EMBALAGEM DE BLISTERS 1. NOME DO MEDICAMENTO Ebixa 10 mg comprimidos revestidos por película Cloridrato de memantina
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada comprimido revestido por película contém 10 mg de cloridrato de memantina, equivalente a 8,31 mg de memantina.
+ 3. LISTA DOS EXCIPIENTES Os comprimidos revestidos por película também contêm lactose mono-hidratada. Consultar folheto informativo para mais informações.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Comprimidos revestidos por película. 14 comprimidos revestidos por película. 28 comprimidos revestidos por película. 30 comprimidos revestidos por película. 42 comprimidos revestidos por película. 49 x 1 comprimidos revestidos por película. 50 comprimidos revestidos por película. 56 comprimidos revestidos por película. 56 x 1 comprimidos revestidos por película. 70 comprimidos revestidos por película. 84 comprimidos revestidos por película. 98 comprimidos revestidos por película. 98 x 1 comprimidos revestidos por película. 100 comprimidos revestidos por película .. 100 x 1 comprimidos revestidos por película. 112 comprimidos revestidos por película.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral. Consultar o folheto informativo antes de utilizar
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 39 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. { MM/AAAA} 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Não existem instruções especiais de conservação.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ H. Lundbeck A/S Ottiliavej 9, DK-2500 Valby Dinamarca
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/02/219/016 14 comprimidos revestidos por película. EU/1/02/219/007 28 comprimidos revestidos por película. EU/1/02/219/001 30 comprimidos revestidos por película. EU/1/02/219/017 42 comprimidos revestidos por película. EU/1/02/219/010 49 x 1 comprimidos revestidos por película. EU/1/02/219/002 50 comprimidos revestidos por película. EU/1/02/219/008 56 comprimidos revestidos por película. EU/1/02/219/014 56 x 1 comprimidos revestidos por película. EU/1/02/219/018 70 comprimidos revestidos por película. EU/1/02/219/019 84 comprimidos revestidos por película. EU/1/02/219/020 98 comprimidos revestidos por película. EU/1/02/219/015 98 x 1 comprimidos revestidos por película. EU/1/02/219/003 100 comprimidos revestidos por película. EU/1/02/219/011 100 x 1 comprimidos revestidos por película. EU/1/02/219/009 112 comprimidos revestidos por película.
+ 13. NÚMERO DO LOTE Lote{ número} 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 40 15. INSTRUÇÕES DE UTILIZAÇÃO
+ 16. INFORMAÇÃO EM BRAILLE Ebixa 10 mg comprimidos revestidos por película
+ 41 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ CARTONAGEM PARA 98 COMPRIMIDOS REVESTIDOS POR PELÍCULA COMO EMBALAGEM INTERMÉDIA/COMPONENTE DE UMA EMBALAGEM MÚLTIPLA (SEM “ BLUE BOX ”)
+ 1. NOME DO MEDICAMENTO Ebixa 10 mg comprimidos revestidos por película Cloridrato de memantina
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada comprimido revestido por película contém 10 mg de cloridrato de memantina, equivalente a 8,31 mg de memantina.
+ 3. LISTA DOS EXCIPIENTES Os comprimidos revestidos por película também contêm lactose mono-hidratada. Consultar folheto informativo para mais informações.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Comprimidos revestidos por película. 98 comprimidos revestidos por película. Componente de uma embalagem múltipla composta por 10 embalagens, cada uma contendo 98 comprimidos revestidos por película.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral. Consultar o folheto informativo antes de utilizar
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. { MM/AAAA} 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Não existem instruções especiais de conservação.
+ 42 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ H. Lundbeck A/S Ottiliavej 9, DK-2500 Valby Dinamarca
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/02/219/021 98 comprimidos revestidos por película
+ 13. NÚMERO DO LOTE Lote{ número} 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Ebixa 10 mg comprimidos revestidos por película.
+ 43 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ CARTONAGEM PARA 50 COMPRIMIDOS REVESTIDOS POR PELÍCULA COMO EMBALAGEM INTERMÉDIA/COMPONENTE DE UMA EMBALAGEM MÚLTIPLA (SEM “ BLUE BOX ”)
+ 1. NOME DO MEDICAMENTO Ebixa 10 mg comprimidos revestidos por película Cloridrato de memantina
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada comprimido revestido por película contém 10 mg de cloridrato de memantina, equivalente a 8,31 mg de memantina.
+ 3. LISTA DOS EXCIPIENTES Os comprimidos revestidos por película também contêm lactose mono-hidratada. Consultar folheto informativo para mais informações.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Comprimidos revestidos por película. 50 comprimidos revestidos por película. Componente de uma embalagem múltipla composta por 20 embalagens, cada uma contendo 50 comprimidos revestidos por película.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral. Consultar o folheto informativo antes de utilizar
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. { MM/AAAA} 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Não existem instruções especiais de conservação.
+ 44 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ H. Lundbeck A/S Ottiliavej 9, DK-2500 Valby Dinamarca
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/02/219/012 50 comprimidos revestidos por película
+ 13. NÚMERO DO LOTE Lote{ número} 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Ebixa 10 mg comprimidos revestidos por película.
+ 45 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ RÓTULO INVÓLUCRO EXTERIOR EM EMBALAGENS MÚLTIPLAS (10 X 98 COMPRIMIDOS REVESTIDOS POR PELÍCULA) ENVOLVIDAS EM PELÍCULA (INCLUINDO “ BLUE BOX ”)
+ 1. NOME DO MEDICAMENTO Ebixa 10 mg comprimidos revestidos por película Cloridrato de memantina
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada comprimido revestido por película contém 10 mg de cloridrato de memantina, equivalente a 8,31 mg de memantina.
+ 3. LISTA DOS EXCIPIENTES Os comprimidos revestidos por película também contêm lactose mono-hidratada. Consultar folheto informativo para mais informações.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Embalagem múltipla composta por 10 embalagens, cada uma contendo 98 comprimidos revestidos por película.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral. Consultar o folheto informativo antes de utilizar
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. { MM/AAAA} 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Não existem instruções especiais de conservação.
+ 46 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ H. Lundbeck A/S Ottiliavej 9, DK-2500 Valby Dinamarca
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/02/219/021 10 x 98 comprimidos revestidos por película
+ 13. NÚMERO DO LOTE Lote{ número} 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Ebixa 10 mg comprimidos revestidos por película
+ 47 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ RÓTULO INVÓLUCRO EXTERIOR EM EMBALAGENS MÚLTIPLAS (20 X 50 COMPRIMIDOS REVESTIDOS POR PELÍCULA) ENVOLVIDAS EM PELÍCULA (INCLUINDO “ BLUE BOX ”)
+ 1. NOME DO MEDICAMENTO Ebixa 10 mg comprimidos revestidos por película Cloridrato de memantina
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada comprimido revestido por película contém 10 mg de cloridrato de memantina, equivalente a 8,31 mg de memantina.
+ 3. LISTA DOS EXCIPIENTES Os comprimidos revestidos por película também contêm lactose mono-hidratada. Consultar folheto informativo para mais informações.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Embalagem múltipla composta por 20 embalagens, cada uma contendo 50 comprimidos revestidos por película.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral. Consultar o folheto informativo antes de utilizar
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. { MM/AAAA} 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Não existem instruções especiais de conservação.
+ 48 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ H. Lundbeck A/S Ottiliavej 9, DK-2500 Valby Dinamarca
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/02/219/012 20 x 50 comprimidos revestidos por película
+ 13. NÚMERO DO LOTE Lote{ número} 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Ebixa 10 mg comprimidos revestidos por película
+ 49 INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS “ BLISTER ” OU FITAS CONTENTORAS
+ BLISTER PARA COMPRIMIDOS REVESTIDOS POR PELÍCULA
+ 1. NOME DO MEDICAMENTO Ebixa 10 mg comprimidos revestidos por película Cloridrato de memantina
+ 2. NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ H. Lundbeck A/S 3. PRAZO DE VALIDADE VAL. { MM/AAAA} Ver impressão em relevo. 4. NÚMERO DO LOTE Lote{ número} Ver impressão em relevo. 5. OUTRAS 50 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO E NO ACONDICIONAMENTO PRIMÁRIO
+ CARTONAGEM E RÓTULO PARA FRASCO 1. NOME DO MEDICAMENTO Ebixa 10 mg/g gotas orais, solução Cloridrato de memantina
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ 1 g de solução (20 gotas) contém 10 mg de cloridrato de memantina, equivalente a 8,31 mg de memantina.
+ 3. LISTA DOS EXCIPIENTES A solução também contém sorbato de potássio e sorbitol E420. Consultar folheto informativo para mais informações.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Gotas orais, solução. 20 g. 50 g. 100 g. 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral. Consultar o folheto informativo antes de utilizar
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. { MM/AAAA} 51 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Não conservar acima de 30°C. Após abertura, usar no prazo de 3 meses.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ H. Lundbeck A/S Ottiliavej 9, DK-2500 Valby Dinamarca
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/02/219/004 20 g. EU/1/02/219/005 50 g. EU/1/02/219/006 100 g.
+ 13. NÚMERO DO LOTE Lote{ número} 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Ebixa 10 mg/g solução 52 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO E NO ACONDICIONAMENTO PRIMÁRIO
+ CARTONAGEM E RÓTULO PARA FRASCO DE 50 g COMO EMBALAGEM INTERMÉDIA/COMPONENTE DE UMA EMBALAGEM MÚLTIPLA (SEM “ BLUE BOX ”)
+ 1. NOME DO MEDICAMENTO Ebixa 10 mg/g gotas orais, solução Cloridrato de memantina
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ 1 g de solução (20 gotas) contém 10 mg de cloridrato de memantina, equivalente a 8,31 mg de memantina.
+ 3. LISTA DOS EXCIPIENTES A solução também contém sorbato de potássio e sorbitol E420. Consultar folheto informativo para mais informações.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Gotas orais, solução. 50 g. Componente de uma embalagem múltipla composta por 10 embalagens, cada uma contendo um frasco de 50 g de gotas orais, solução.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral. Consultar o folheto informativo antes de utilizar
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. { MM/AAAA} 53 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Não conservar acima de 30°C. Após abertura, usar no prazo de 3 meses.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ H. Lundbeck A/S Ottiliavej 9, DK-2500 Valby Dinamarca
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/02/219/013 13. NÚMERO DO LOTE Lote{ número} 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Ebixa 10 mg/g solução 54 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO E NO ACONDICIONAMENTO PRIMÁRIO
+ RÓTULO DO INVÓLUCRO EXTERIOR EM EMBALAGENS MÚLTIPLAS (10 X 50 g GOTAS) ENVOLVIDAS EM PELÍCULA (INCLUINDO “ BLUE BOX ”)
+ 1. NOME DO MEDICAMENTO Ebixa 10 mg/g gotas orais, solução Cloridrato de memantina
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ 1 g de solução (20 gotas) contém 10 mg de cloridrato de memantina, equivalente a 8,31 mg de memantina.
+ 3. LISTA DOS EXCIPIENTES A solução também contém sorbato de potássio e sorbitol E420. Consultar folheto informativo para mais informações.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Embalagem múltipla composta por 10 embalagens, cada uma contendo um frasco de 50 g de gotas orais, solução.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral. Consultar o folheto informativo antes de utilizar
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. { MM/AAAA} 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Não conservar acima de 30°C. Após abertura, usar no prazo de 3 meses.
+ 55 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ H. Lundbeck A/S Ottiliavej 9, DK-2500 Valby Dinamarca
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/02/219/013 13. NÚMERO DO LOTE Lote{ número} 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Ebixa 10 mg/g solução 56 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ EMBALAGEM DE 28 COMPRIMIDOS REVESTIDOS POR PELÍCULA – EMBALAGEM DE INÍCIO DE TRATAMENTO – PLANO DE TRATAMENTO DE 4 SEMANAS
+ 1. NOME DO MEDICAMENTO Ebixa 5 mg comprimidos revestidos por película. Ebixa 10 mg comprimidos revestidos por película. Ebixa 15 mg comprimidos revestidos por película. Ebixa 20 mg comprimidos revestidos por película.
+ Cloridrato de memantina 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada comprimido revestido por película contém 5 mg de cloridrato de memantina, equivalente a 4,15 mg de memantina. Cada comprimido revestido por película contém 10 mg de cloridrato de memantina, equivalente a 8,31 mg de memantina. Cada comprimido revestido por película contém 15 mg de cloridrato de memantina, equivalente a 12,46 mg de memantina. Cada comprimido revestido por película contém 20 mg de cloridrato de memantina, equivalente a 16,62 mg de memantina.
+ 3. LISTA DOS EXCIPIENTES Ebixa 10 mg comprimidos revestidos por película também contêm lactose mono-hidratada. Consultar folheto informativo para mais informações.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Cada embalagem com 28 comprimidos revestidos por película, para um plano de tratamento de 4 semanas, contém: 7 comprimidos revestidos por película de Ebixa 5 mg. 7 comprimidos revestidos por película de Ebixa 10 mg. 7 comprimidos revestidos por película de Ebixa 15 mg. 7 comprimidos revestidos por película de Ebixa 20 mg.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral. Consultar o folheto informativo antes de utilizar
+ Uma vez por dia Para a continuação do seu tratamento, consulte, por favor, o seu médico.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ 57 Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. { MM/AAAA} 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ H. Lundbeck A/S Ottiliavej 9, DK-2500 Valby Dinamarca
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/02/219/022 7 x 5 mg+ 7 x 10 mg+ 7 x 15 mg 7 x 20 mg comprimidos revestidos por película. EU/1/02/219/036 7 x 5 mg+ 7 x 10 mg+ 7 x 15 mg 7 x 20 mg comprimidos revestidos por película.
+ 13. NÚMERO DO LOTE Lote{ número} 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Ebixa 5 mg,10 mg,15 mg,20 mg comprimidos revestidos por película
+ 58 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ CARTONAGEM PARA EMBALAGEM DE BLISTERS 1. NOME DO MEDICAMENTO Ebixa 20 mg comprimidos revestidos por película Cloridrato de memantina
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada comprimido revestido por película contém 20 mg de cloridrato de memantina, equivalente a 16,62 mg de memantina.
+ 3. LISTA DOS EXCIPIENTES 4. FORMA FARMACÊUTICA E CONTEÚDO Comprimidos revestidos por película. 14 comprimidos revestidos por película. 28 comprimidos revestidos por película. 42 comprimidos revestidos por película. 49 x 1 comprimidos revestidos por película. 56 comprimidos revestidos por película. 56 x 1 comprimidos revestidos por película. 70 comprimidos revestidos por película. 84 comprimidos revestidos por película. 98 comprimidos revestidos por película. 98 x 1 comprimidos revestidos por película. 100 x 1 comprimidos revestidos por película. 112 comprimidos revestidos por película. 840 (20 x 42) comprimidos revestidos por película.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral. Consultar o folheto informativo antes de utilizar
+ Uma vez por dia 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 59 8. PRAZO DE VALIDADE
+ VAL. { MM/AAAA} 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ H. Lundbeck A/S Ottiliavej 9, DK-2500 Valby Dinamarca
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/02/219/023 14 comprimidos revestidos por película. EU/1/02/219/024 28 comprimidos revestidos por película. EU/1/02/219/025 42 comprimidos revestidos por película. EU/1/02/219/026 49 x 1 comprimidos revestidos por película. EU/1/02/219/027 56 comprimidos revestidos por película. EU/1/02/219/028 56 x 1 comprimidos revestidos por película. EU/1/02/219/029 70 comprimidos revestidos por película. EU/1/02/219/030 84 comprimidos revestidos por película. EU/1/02/219/031 98 comprimidos revestidos por película. EU/1/02/219/032 98 x 1 comprimidos revestidos por película. EU/1/02/219/033 100 x 1 comprimidos revestidos por película. EU/1/02/219/034 112 comprimidos revestidos por película. EU/1/02/219/037 14 comprimidos revestidos por película. EU/1/02/219/038 28 comprimidos revestidos por película. EU/1/02/219/039 42 comprimidos revestidos por película. EU/1/02/219/040 49 x 1 comprimidos revestidos por película. EU/1/02/219/041 56 comprimidos revestidos por película. EU/1/02/219/042 56 x 1 comprimidos revestidos por película. EU/1/02/219/043 70 comprimidos revestidos por película. EU/1/02/219/044 84 comprimidos revestidos por película. EU/1/02/219/045 98 comprimidos revestidos por película. EU/1/02/219/046 98 x 1 comprimidos revestidos por película. EU/1/02/219/047 100 x 1 comprimidos revestidos por película. EU/1/02/219/048 112 comprimidos revestidos por película.
+ 13. NÚMERO DO LOTE Lote{ número} 60 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Ebixa 20 mg comprimidos revestidos por película
+ 61 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ CARTONAGEM PARA 42 COMPRIMIDOS REVESTIDOS POR PELÍCULA COMO EMBALAGEM INTERMÉDIA/COMPONENTE DE UMA EMBALAGEM MÚLTIPLA (SEM “ BLUE BOX ”)
+ 1. NOME DO MEDICAMENTO Ebixa 20 mg comprimidos revestidos por película Cloridrato de memantina
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada comprimido revestido por película contém 20 mg de cloridrato de memantina, equivalente a 16,62 mg de memantina.
+ 3. LISTA DOS EXCIPIENTES 4. FORMA FARMACÊUTICA E CONTEÚDO Comprimidos revestidos por película. 42 comprimidos revestidos por película. Componente de uma embalagem múltipla composta por 20 embalagens, cada uma contendo 42 comprimidos revestidos por película. Proibida a venda em separado.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral. Consultar o folheto informativo antes de utilizar
+ Uma vez por dia 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. { MM/AAAA} 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO 62 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ H. Lundbeck A/S Ottiliavej 9, DK-2500 Valby Dinamarca
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/02/219/035 42 comprimidos revestidos por película. EU/1/02/219/049 42 comprimidos revestidos por película.
+ 13. NÚMERO DO LOTE Lote{ número} 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Ebixa 20 mg comprimidos revestidos por película
+ 63 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ RÓTULO INVÓLUCRO EXTERIOR EM EMBALAGENS MÚLTIPLAS (20 X 42 COMPRIMIDOS REVESTIDOS POR PELÍCULA) ENVOLVIDAS EM PELÍCULA (INCLUINDO “ BLUE BOX ”)
+ 1. NOME DO MEDICAMENTO Ebixa 20 mg comprimidos revestidos por película Cloridrato de memantina
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada comprimido revestido por película contém 20 mg de cloridrato de memantina, equivalente a 16,62 mg de memantina.
+ 3. LISTA DOS EXCIPIENTES 4. FORMA FARMACÊUTICA E CONTEÚDO Embalagem múltipla composta por 20 embalagens, cada uma contendo 42 comprimidos revestidos por película.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral. Consultar o folheto informativo antes de utilizar
+ Uma vez por dia 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. { MM/AAAA} 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO 64 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ H. Lundbeck A/S Ottiliavej 9, DK-2500 Valby Dinamarca
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/02/219/035 20 x 42 comprimidos revestidos por película. EU/1/02/219/049 20 x 42 comprimidos revestidos por película.
+ 13. NÚMERO DO LOTE Lote{ número} 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Ebixa 20 mg comprimidos revestidos por película
+ 65 INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS “ BLISTER ” OU FITAS CONTENTORAS
+ BLISTER PARA COMPRIMIDOS REVESTIDOS POR PELÍCULA
+ 1. NOME DO MEDICAMENTO Ebixa 20 mg comprimidos revestidos por película Cloridrato de memantina
+ 2. NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ H. Lundbeck A/S 3. PRAZO DE VALIDADE VAL. { MM/AAAA} Ver impressão em relevo. 4. NÚMERO DO LOTE Lote{ número} Ver impressão em relevo. 5. OUTRAS 66 B. FOLHETO INFORMATIVO
+ 67 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Ebixa 10 mg comprimidos revestidos por película Cloridrato de memantina
+ Leia atentamente este folheto antes de tomar este medicamento
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto 1. O que é Ebixa e para que é utilizado 2. Antes de tomar Ebixa 3. Como tomar Ebixa 4. Efeitos secundários possíveis 5. Como conservar Ebixa 6. Outras informações
+ 1. O QUE É EBIXA E PARA QUE É UTILIZADO
+ Como actua Ebixa Ebixa pertence a um grupo de medicamentos conhecidos como fármacos anti-demência.
+ A perda de memória associada à doença de Alzheimer deve-se a uma perturbação dos sinais mensageiros no cérebro. O cérebro contém receptores do N-metil-D-aspartato (NMDA) envolvidos na transmissão de sinais nervosos importantes na aprendizagem e memória. Ebixa pertence a um grupo de medicamentos denominados antagonistas dos receptores NMDA. Ebixa actua nestes receptores, melhorando a transmissão dos sinais nervosos e a memória.
+ Para que é utilizado Ebixa Ebixa é utilizado para o tratamento de doentes com doença de Alzheimer moderada a grave.
+ 2. ANTES DE TOMAR EBIXA Não tome Ebixa -se tem alergia (hipersensibilidade) ao cloridrato de memantina ou a qualquer outro componente
+ dos comprimidos revestidos por película de Ebixa (ver secção 6)
+ Tome especial cuidado com Ebixa -se tiver uma história de epilepsia
+ -se tiver tido um enfarte do miocárdio (ataque cardíaco) recente ou se sofrer de compromisso
+ cardíaco congestivo ou de hipertensão (pressão arterial alta) não controlada.
+ Nestas situações, o tratamento deve ser supervisionado cuidadosamente e os benefícios clínicos de Ebixa devem ser avaliados pelo seu médico regularmente.
+ 68 Se sofrer de compromisso renal (problemas de rins), o seu médico deverá monitorizar cuidadosamente a sua função renal e, se necessário, adaptar as doses de memantina.
+ A utilização simultânea de medicamentos designados de amantadina (para o tratamento da doença de Parkinson), cetamina (uma substância usada geralmente como anestésico), dextrometorfano (usado geralmente para tratar a tosse) e outros antagonistas do NMDA deve ser evitada.
+ Ebixa não é recomendado para crianças e adolescentes com menos de 18 anos de idade.
+ Utilizar Ebixa com outros medicamentos Informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica.
+ Em especial, os efeitos dos seguintes medicamentos podem ser alterados por Ebixa e o seu médico poderá achar necessário ajustar as respectivas doses:
+ amantadina, cetamina, dextrometorfano dantroleno, baclofeno cimetidina, ranitidina, procaínamida, quinidina, quinina, nicotina hidroclorotiazida (ou qualquer outra combinação com hidroclorotiazida) anticolinérgicos (substâncias geralmente utilizadas para tratar perturbações do movimento ou cãibras intestinais) anticonvulsivantes (substâncias utilizadas para evitar ou atenuar convulsões) barbitúricos (substâncias utilizadas geralmente para induzir o sono) agonistas dopaminérgicos (substâncias como L-dopa, bromocriptina) neurolépticos (substâncias utilizadas no tratamento de perturbações mentais). anticoagulantes orais
+ Se for hospitalizado, informe o seu médico de que está a tomar Ebixa.
+ Tomar Ebixa com alimentos e bebidas Deverá informar o seu médico caso tenha recentemente alterado ou pretenda alterar a sua dieta substancialmente (ex: de uma dieta normal para uma dieta estritamente vegetariana) ou se sofrer de estados de acidose tubular renal (ATR, um excesso de substâncias formadoras de ácido no sangue devido a uma disfunção renal (função dos rins debilitada )) ou infecções graves das vias urinárias (estrutura que transporta a urina), uma vez que poderá ser necessário que o seu médico faça um ajuste da dose do medicamento.
+ Gravidez e aleitamento Consulte o seu médico ou farmacêutico antes de tomar qualquer medicamento.
+ Informe o seu médico caso esteja grávida ou esteja a planear engravidar. A utilização de memantina em grávidas não é recomendada.
+ Mulheres que tomem Ebixa não devem amamentar.
+ Condução de veículos e utilização de máquinas
+ O seu médico irá informá-lo se a sua doença o impede de conduzir e utilizar máquinas com segurança. Para além disso, Ebixa pode alterar a sua capacidade de reacção, tornando a condução ou utilização de máquinas não apropriada.
+ 69 Informações importantes sobre alguns componentes de Ebixa
+ Este medicamento contém lactose. Se foi informado pelo seu médico de que sofre de intolerância a alguns açúcares, contacte o seu médico antes de tomar este medicamento. O seu médico aconselhá-lo-á.
+ 3. COMO TOMAR EBIXA Tome Ebixa sempre de acordo com as indicações do médico. Fale com o seu médico ou farmacêutico se tiver dúvidas.
+ Dose A dose recomendada de Ebixa para doentes adultos e idosos é de 20 mg uma vez por dia. De forma a reduzir o risco de efeitos secundários, esta dose é atingida gradualmente segundo o seguinte esquema de tratamento diário:
+ semana 1
+ metade de um comprimido revestido por película de 10 mg
+ semana 2
+ 1 comprimido revestido por película de 10 mg
+ semana 3
+ 1 comprimido revestido por película e meio de 10 mg
+ semana 4 e seguintes
+ 2 comprimidos revestidos por película de 10 mg por dia
+ A dose inicial habitual corresponde a meio comprimido revestido por película, uma vez por dia (1x5 mg) na primeira semana. Esta dose é aumentada para um comprimido revestido por película, uma vez por dia (1x10 mg) na segunda semana e 1 comprimido revestido por película e meio, uma vez por dia, tomados na terceira semana. A partir da quarta semana, a dose habitual é de 2 comprimidos revestidos por película, uma vez por dia (1x20 mg).
+ Dose em doentes com compromisso da função renal
+ Se tiver compromisso da função renal, o seu médico deverá decidir por uma dose adequada a essa situação. Neste caso, o seu médico deverá monitorizar a sua função renal regularmente.
+ Administração Ebixa deve ser administrado por via oral, uma vez por dia. Para tirar o maior benefício do seu medicamento, deve tomá-lo todos os dias, à mesma hora do dia. Os comprimidos revestidos por película devem ser engolidos com água. Os comprimidos revestidos por película podem ser administrados com ou sem alimentos.
+ Duração do tratamento Continue a tomar Ebixa enquanto tiver um efeito benéfico. O seu médico deve avaliar o tratamento regularmente.
+ 70 Se tomar mais Ebixa do que deveria
+ -De uma forma geral, uma sobredosagem de Ebixa não deve ser prejudicial. Poderá detectar um
+ maior número de sintomas, tal como descrito na secção 4. “ Efeitos secundários possíveis ”.
+ -Se tomar uma dose muito elevada de Ebixa, contacte o seu médico ou procure aconselhamento
+ médico, uma vez que poderá necessitar de cuidados médicos.
+ Caso se tenha esquecido de tomar Ebixa -Se se esquecer de tomar uma dose de Ebixa, espere e tome a dose seguinte à hora habitual.
+ -Não tome uma dose a dobrar para compensar uma dose que se esqueceu de tomar.
+ Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou farmacêutico.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todos os medicamentos, Ebixa pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ De uma forma geral, os efeitos secundários observados são ligeiros a moderados.
+ Frequentes (afecta 1 a 10 pessoas em 100): • Dores de cabeça, sono, prisão de ventre, tonturas e pressão arterial elevada
+ Pouco frequentes ((afecta 1 a 10 pessoas em 1.000): • Cansaço, infecções fúngicas, confusão, alucinações, vómitos, alterações na forma de andar, insuficiência cardíaca e coagulação sanguínea venosa (trombose, tromboembolia)
+ Muito raros (afecta menos de 1 pessoa em 10.000) • Convulsões
+ Desconhecido (a frequência não pode ser estimada a partir dos dados disponíveis) • Inflamação do pâncreas e reacções psicóticas
+ A doença de Alzheimer tem sido associada a depressão, ideação suicida e suicídio. Estes efeitos têm sido notificados com doentes tratados com Ebixa.
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR EBIXA Manter fora da vista e do alcance das crianças.
+ Não utilize Ebixa após o prazo de validade impresso na embalagem exterior e no blister, após VAL. O prazo de validade corresponde ao último dia do mês indicado.
+ O medicamento não necessita de quaisquer precauções especiais de conservação.
+ Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 71 6. OUTRAS INFORMAÇÕES
+ Qual a composição de Ebixa A substância activa é cloridrato de memantina. Cada comprimido revestido por película contém 10 mg de cloridrato de memantina, equivalente a 8,31 mg de memantina.
+ Os outros componentes são lactose mono-hidratada, celulose microcristalina, sílica coloidal anidra, talco e estearato de magnésio, tudo no núcleo do comprimido revestido por película; e co-polímero de ácido metacrílico-etilacrilato (1: 1), laurilsulfato de sódio, polissorbato 80, talco, triacetina e emulsão de simeticone, tudo no revestimento do comprimido revestido por película.
+ Qual o aspecto de Ebixa e conteúdo da embalagem
+ Ebixa comprimidos revestidos por película apresenta-se em comprimidos revestidos por película, brancos a esbranquiçados, oblongos, afunilados centralmente, biconvexos e com uma linha divisória em ambos os lados.
+ Os comprimidos revestidos por película de Ebixa estão disponíveis em embalagens de 14 comprimidos revestidos por película,28 comprimidos revestidos por película,30 comprimidos revestidos por película,42 comprimidos revestidos por película,49 x 1 comprimidos revestidos por película,50 comprimidos revestidos por película,56 comprimidos revestidos por película,56 x 1 comprimidos revestidos por película,70 comprimidos revestidos por película,84 comprimidos revestidos por película,98 comprimidos revestidos por película,98 x 1 comprimidos revestidos por película,100 comprimidos revestidos por película,100 x 1 comprimidos revestidos por película,112 comprimidos revestidos por película,980 (10 x 98) comprimidos revestidos por película ou 1.000 (20 x 50) comprimidos revestidos por película. As embalagens de 49 x 1,56 x 1,98 x 1 e 100 x 1 comprimidos revestidos por película apresentam-se em blisters de dose unitária.
+ É possível que não sejam comercializadas todas as apresentações.
+ Titular da Autorização de Introdução no Mercado
+ H. Lundbeck A/S, Ottiliavej 9, DK-2500 Valby, Dinamarca.
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado.
+ Belgique/België/Belgien Lundbeck S. A./N. V. Avenue Molière 225 B-1050 Bruxelles/Brussel/Brüssel Tél/Tel: +32 2 340 2828
+ Luxembourg/Luxemburg Lundbeck S. A. Avenue Molière 225 B-1050 Bruxelles/Brussel Tél: +32 2 340 2828
+ България Lundbeck Export A/S Representative Office EXPO 2000 Vaptzarov Blvd. 55 Sofia 1407 Tel: +359 2 962 4696
+ Magyarország Lundbeck Hungaria Kft. Montevideo utca 3/B H-1037 Budapest Tel: +36 1 4369980
+ 72 Česká republika Lundbeck Česká republika s. r. o. Bozděchova 7 CZ-150 00 Praha 5 Tel: +420 225 275 600
+ Malta H. Lundbeck A/S Ottiliavej 9 DK-2500 Valby Denmark Tel:+ 45 36301311
+ Danmark Lundbeck Pharma A/S Dalbergstrøget 5 DK-2630 Taastrup Tlf: +45 4371 4270
+ Nederland Lundbeck B. V. Postbus 12021 NL-1100 AA Amsterdam Tel: +31 20 697 1901
+ Deutschland Lundbeck GmbH Karnapp 25 D-21079 Hamburg Tel: +49 40 23649 0
+ Norge H. Lundbeck AS Postboks 361 N-1326 Lysaker Tlf: +47 91 300 800
+ Eesti H. Lundbeck A/S Ottiliavej 9 DK-2500 Valby Taani Tel:+ 45 36301311
+ Österreich Lundbeck Austria GmbH Dresdner Straβe 82 A-1200 Wien Tel: +43 1 331 070
+ Ελλάδα Lundbeck Hellas S. A. Λεωφόρος Κηφισίας 64 GR-151 25 Μαρούσι, Αθήνα Τηλ: +30 210 610 5036
+ Polska Lundbeck Poland Sp. z o. o. ul. Krzywickiego 34 PL-02-078 Warszawa Tel.:+ 48 22 626 93 00
+ España Lundbeck España S. A. Av. Diagonal,605, 9-1a E-08028 Barcelona Tel: +34 93 494 9620
+ Portugal Lundbeck Portugal Lda Quinta da Fonte Edifício D. João I – Piso 0 Ala A P-2770-203 Paço d’ Arcos Tel: +351 21 00 45 900
+ France Lundbeck SAS
+ România Lundbeck Export A/S, 37 Avenue Pierre 1er de Serbie F-75008 Paris Tél: +33 1 53 67 42 00
+ Reprezentanta din Romania Bd. Poligrafiei, No. 3A, 2nd floor Sector 1 Bucuresti 013704-RO Tel: +40 21319 88 26
+ Ireland Lundbeck (Ireland) Limited 7 Riverwalk Citywest Business Campus IRL-Dublin 24 Tel: +353 1 468 9800
+ Slovenija Lundbeck Pharma d. o. o. Titova cesta 8 SI-2000 Maribor Tel.: +386 2 229 4500
+ 73 Ísland Lundbeck Export A/S, útibú á Íslandi Ármúla 1 IS-108 Reykjavík Tel: +354 414 7070
+ Slovenská republika Lundbeck Slovensko s. r. o. Zvolenská 19 SK-821 09 Bratislava 2 Tel: +421 2 53412262
+ Italia Lundbeck Italia S. p. A. Via G. Fara 35 I-20124 Milan Tel: +39 02 677 4171
+ Suomi/Finland Oy H. Lundbeck Ab Itäinen Pitkäkatu 4/Österlånggatan 4 FI-20520 Turku/Åbo Puh/Tel: +358 2 276 5000
+ Κύπρος Lundbeck Hellas A. E Θεμ. Δέρβη-Φλωρίνης STADYL BUILDING CY-1066 Λευκωσία Τηλ.: +357 22490305
+ Sverige H. Lundbeck AB Rundgången 30 B Box 23 S-250 53 Helsingborg Tel: +46 4225 4300
+ Latvija H. Lundbeck A/S Ottiliavej 9 DK-2500 Valby Dānija Tel:+ 45 36301311
+ United Kingdom Lundbeck Limited Lundbeck House Caldecotte Lake Business Park Caldecotte Milton Keynes MK7 8LG-UK Tel: +44 1908 64 9966
+ Lietuva H. Lundbeck A/S Ottiliavej 9 DK-2500 Valby Danija Tel:+ 45 36301311
+ Este folheto foi aprovado pela última vez em
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu
+ 74 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Ebixa 10 mg/g gotas orais, solução Cloridrato de memantina
+ Leia atentamente este folheto antes de tomar este medicamento
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto 1. O que é Ebixa e para que é utilizado 2. Antes de tomar Ebixa 3. Como tomar Ebixa 4. Efeitos secundários possíveis 5. Como conservar Ebixa 6. Outras informações
+ 1. O QUE É EBIXA E PARA QUE É UTILIZADO
+ Como actua Ebixa Ebixa pertence a um grupo de medicamentos conhecidos como fármacos anti-demência.
+ A perda de memória associada à doença de Alzheimer deve-se a uma perturbação dos sinais mensageiros no cérebro. O cérebro contém receptores do N-metil-D-aspartato (NMDA) envolvidos na transmissão de sinais nervosos importantes na aprendizagem e memória. Ebixa pertence a um grupo de medicamentos denominados antagonistas dos receptores NMDA. Ebixa actua nestes receptores do NMDA, melhorando a transmissão dos sinais nervosos e a memória.
+ Para que é utilizado Ebixa Ebixa é utilizado para o tratamento de doentes com doença de Alzheimer moderada a grave.
+ 2. ANTES DE TOMAR EBIXA Não tome Ebixa -se tem alergia (hipersensibilidade) ao cloridrato de memantina ou a qualquer outro componente
+ de Ebixa gotas orais, solução (ver secção 6).
+ Tome especial cuidado com Ebixa -Se tiver uma história de epilepsia
+ -Se tiver tido um enfarte do miocárdio (ataque cardíaco) recente ou se sofrer de compromisso
+ cardíaco congestivo ou de hipertensão (pressão arterial alta) não controlada.
+ Nestas situações, o tratamento deve ser supervisionado cuidadosamente e os benefícios clínicos de Ebixa devem ser avaliados pelo seu médico regularmente. 75 Se sofrer de compromisso renal (problemas de rins), o seu médico deverá monitorizar cuidadosamente a sua função renal e, se necessário, adaptar as doses de memantina.
+ A utilização simultânea de medicamentos designados de amantadina (para o tratamento da doença de Parkinson), cetamina (uma substância usada geralmente como anestésico )), dextrometorfano (usado geralmente para tratar a tosse) e outros antagonistas do NMDA deve ser evitada.
+ Ebixa não é recomendado para crianças e adolescentes com menos de 18 anos de idade.
+ Utilizar Ebixa com outros medicamentos Informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica.
+ Em especial, os efeitos dos seguintes medicamentos podem ser alterados por Ebixa e o seu médico poderá achar necessário ajustar as respectivas doses:
+ amantadina, cetamina, dextrometorfano dantroleno, baclofeno cimetidina, ranitidina, procaínamida, quinidina, quinina, nicotina hidroclorotiazida (ou qualquer outra combinação com hidroclorotiazida) anticolinérgicos (substâncias geralmente utilizadas para tratar perturbações do movimento ou cãibras intestinais) anticonvulsivantes (substâncias utilizadas para evitar ou atenuar convulsões) barbitúricos (substâncias utilizadas geralmente para induzir o sono) agonistas dopaminérgicos (substâncias como L-dopa, bromocriptina) neurolépticos (substâncias utilizadas no tratamento de perturbações mentais). anticoagulantes orais.
+ Se for hospitalizado, informe o seu médico de que está a tomar Ebixa.
+ Tomar Ebixa com alimentos e bebidas Deverá informar o seu médico caso tenha recentemente alterado ou pretenda alterar a sua dieta substancialmente (ex: de uma dieta normal para uma dieta estritamente vegetariana) ou se sofrer de estados de acidose tubular renal (ATR, um excesso de substâncias formadoras de ácido no sangue devido a uma disfunção renal (função dos rins debilitada) ou infecções graves das vias urinárias (estrutura que transporta a urina), uma vez que poderá ser necessário que o seu médico faça um ajuste da dose do medicamento.
+ Gravidez e Aleitamento Consulte o seu médico ou farmacêutico antes de tomar qualquer medicamento.
+ Informe o seu médico caso esteja grávida ou esteja a planear engravidar. A utilização de memantina em grávidas não é recomendada.
+ Mulheres que tomem Ebixa não devem amamentar.
+ Condução de veículos e utilização de máquinas
+ O seu médico irá informá-lo se a sua doença o impede de conduzir e utilizar máquinas com segurança. Para além disso, Ebixa pode alterar a sua capacidade de reacção, tornando a condução ou utilização de máquinas não apropriada.
+ Informações importantes sobre alguns componentes de Ebixa
+ 76 Este medicamento contém lactose. Se foi informado pelo seu médico de que sofre de intolerância a alguns açúcares, contacte o seu médico antes de tomar este medicamento. O seu médico aconselhá-lo-á.
+ Adicionalmente, este medicamento contém potássio, embora numa quantidade inferior a 1 mmol (39 mg) por dose, pelo que se pode considerar livre de potássio.
+ 3. COMO TOMAR EBIXA Tome Ebixa sempre de acordo com as indicações do seu médico. Fale com o seu médico ou farmacêutico se tiver dúvidas.
+ Dose A dose recomendada de Ebixa para doentes adultos e idosos é de 20 mg uma vez por dia. De forma a reduzir o risco de efeitos secundários, esta dose é atingida gradualmente segundo o seguinte esquema de tratamento diário:
+ semana 1
+ 10 gotas semana 2
+ 20 gotas semana 3
+ 30 gotas semana 4 e seguintes
+ 40 gotas A dose inicial normal são 10 gotas uma vez por dia (1x 5 mg) na primeira semana. Esta dose é aumentada para 20 gotas uma vez por dia (1x 10 mg) na segunda semana e 30 gotas uma vez por dia tomadas na terceira semana. A partir da quarta semana, a dose recomendada corresponde a 40 gotas, uma vez por dia (1x 20 mg).
+ Dose em doentes com compromisso da função renal
+ Se tiver compromisso da função renal, o seu médico deverá decidir por uma dose adequada a essa situação. Neste caso, o seu médico deverá monitorizar a sua função renal regularmente.
+ Administração Ebixa deve ser administrado por via oral, uma vez por dia Para tirar o maior benefício do seu medicamento, deve tomá-lo todos os dias, à mesma hora do dia. As gotas devem ser engolidas com água. As gotas podem ser administradas com ou sem alimentos.
+ Duração do tratamento Continue a tomar Ebixa enquanto tiver um efeito. O seu médico deve avaliar o tratamento regularmente.
+ Se tomar mais Ebixa do que deveria -De uma forma geral, uma sobredosagem de Ebixa não deve ser prejudicial. Poderá detectar um
+ maior número de sintomas, tal como descrito na secção 4. “ Efeitos secundários possíveis ”.
+ -Se tomar uma dose muito elevada de Ebixa, contacte o seu médico ou procure aconselhamento
+ médico, uma vez que poderá necessitar de cuidados médicos.
+ 77 Caso se tenha esquecido de tomar Ebixa
+ -Se se esquecer de tomar uma dose de Ebixa, espere e tome a dose seguinte à hora habitual.
+ -Não tome uma dose a dobrar para compensar uma dose que se esqueceu de tomar.
+ Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou farmacêutico.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todos os medicamentos, Ebixa pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ De uma forma geral, os efeitos secundários observados são ligeiros a moderados.
+ Frequentes (afecta 1 a 10 pessoas 100): • Dores de cabeça, sono, prisão de ventre, tonturas e pressão arterial elevada
+ Pouco frequentes (afecta 1 a 10 pessoas em 1000 pessoas): • Cansaço, infecções fúngicas, confusão, alucinações, vómitos, alterações na forma de andar, insuficiência cardíaca e coagulação sanguínea venosa (trombose/tromboembolia)
+ Muito raros (afecta menos de 1 pessoa em 10.000) • Convulsões
+ Desconhecida (a frequência não pode ser estimada a partir dos dados disponíveis) • Inflamação do pâncreas e reacções psicóticas
+ A doença de Alzheimer tem sido associada a depressão, ideação suicida e suicídio. Estes efeitos têm sido notificados com doentes tratados com Ebixa.
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR EBIXA Manter fora da vista e do alcance das crianças.
+ Não utilize Ebixa após o prazo de validade impresso no rótulo e na embalagem exterior, após VAL. O prazo de validade corresponde ao último dia do mês indicado.
+ Não conservar acima de 30°C. Uma vez aberto, os conteúdos do frasco devem ser utilizados no espaço de 3 meses.
+ Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente. 6. OUTRAS INFORMAÇÕES
+ Qual a composição de Ebixa A substância activa é cloridrato de memantina. Cada grama de gotas orais, solução contém 10 mg de cloridrato de memantina, equivalente a 8,31 mg de memantina.
+ 78 Os outros componentes são: sorbato de potássio, sorbitol E420 e água purificada.
+ Qual o aspecto de Ebixa e conteúdo da embalagem
+ Ebixa gotas orais, solução apresenta-se como uma solução clara, incolor a ligeiramente amarelada.
+ Ebixa gotas orais, solução está disponível em frascos de 20,50,100 g ou 10 x 50 g.
+ É possível que não sejam comercializadas todas as apresentações.
+ Titular da Autorização de Introdução no Mercado/Fabricante
+ H. Lundbeck A/S, Ottiliavej 9, DK-2500 Valby, Dinamarca.
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado.
+ Belgique/België/Belgien Lundbeck S. A./N. V. Avenue Molière 225 B-1050 Bruxelles/Brussel/Brüssel Tél/Tel: +32 2 340 2828
+ Luxembourg/Luxemburg Lundbeck S. A. Avenue Molière 225 B-1050 Bruxelles/Brussel Tél: +32 2 340 2828
+ България Lundbeck Export A/S Representative Office EXPO 2000 Vaptzarov Blvd. 55 Sofia 1407 Tel: +359 2 962 4696
+ Magyarország Lundbeck Hungaria Kft. Montevideo utca 3/B H-1037 Budapest Tel: +36 1 4369980
+ Česká republika Lundbeck Česká republika s. r. o. Bozděchova 7 CZ-150 00 Praha 5 Tel: +420 225 275 600
+ Malta H. Lundbeck A/S Ottiliavej 9 DK-2500 Valby Denmark Tel:+ 45 36301311
+ Danmark Lundbeck Pharma A/S Dalbergstrøget 5 DK-2630 Taastrup Tlf: +45 4371 4270
+ Nederland Lundbeck B. V. Postbus 12021 NL-1100 AA Amsterdam Tel: +31 20 697 1901
+ Deutschland Lundbeck GmbH Karnapp 25 D-21079 Hamburg Tel: +49 40 23649 0
+ Norge H. Lundbeck AS Postboks 361 N-1326 Lysaker Tlf: +47 91 300 800
+ 79 Eesti Österreich H. Lundbeck A/S Ottiliavej 9 DK-2500 Valby Taani Tel:+ 45 36301311
+ Lundbeck Austria GmbH Dresdner Straβe 82 A-1200 Wien Tel: +43 1 331 070
+ Ελλάδα Lundbeck Hellas S. A. Λεωφόρος Κηφισίας 64 GR-151 25 Μαρούσι, Αθήνα Τηλ: +30 210 610 5036
+ Polska Lundbeck Poland Sp. z o. o. ul. Krzywickiego 34 PL-02-078 Warszawa Tel.:+ 48 22 626 93 00
+ España Lundbeck España S. A. Av. Diagonal,605, 9-1a E-08028 Barcelona Tel: +34 93 494 9620
+ Portugal Lundbeck Portugal Lda Quinta da Fonte Edifício D. João I – Piso 0 Ala A P-2770-203 Paço d’ Arcos Tel: +351 21 00 45 900
+ France Lundbeck SAS
+ România Lundbeck Export A/S, 37 Avenue Pierre 1er de Serbie F-75008 Paris Tél: +33 1 53 67 42 00
+ Reprezentanta din Romania Bd. Poligrafiei, No. 3A, 2nd floor Sector 1 Bucuresti 013704-RO Tel: +40 21319 88 26
+ Ireland Lundbeck (Ireland) Limited 7 Riverwalk Citywest Business Campus IRL-Dublin 24 Tel: +353 1 468 9800
+ Slovenija Lundbeck Pharma d. o. o. Titova cesta 8 SI-2000 Maribor Tel.: +386 2 229 4500
+ Ísland Lundbeck Export A/S, útibú á Íslandi Ármúla 1 IS-108 Reykjavík Tel: +354 414 7070
+ Slovenská republika Lundbeck Slovensko s. r. o. Zvolenská 19 SK-821 09 Bratislava 2 Tel: +421 2 53412262
+ Italia Lundbeck Italia S. p. A. Via G. Fara 35 I-20124 Milan Tel: +39 02 677 4171
+ Suomi/Finland Oy H. Lundbeck Ab Itäinen Pitkäkatu 4/Österlånggatan 4 FI-20520 Turku/Åbo Puh/Tel: +358 2 276 5000
+ Κύπρος Lundbeck Hellas A. E Θεμ. Δέρβη-Φλωρίνης STADYL BUILDING CY-1066 Λευκωσία Τηλ.: +357 22490305
+ Sverige H. Lundbeck AB Rundgången 30 B Box 23 S-250 53 Helsingborg Tel: +46 4225 4300
+ 80 Latvija H. Lundbeck A/S Ottiliavej 9 DK-2500 Valby Dānija Tel:+ 45 36301311
+ United Kingdom Lundbeck Limited Lundbeck House Caldecotte Lake Business Park Caldecotte Milton Keynes MK7 8LG-UK Tel: +44 1908 64 9966
+ Lietuva H. Lundbeck A/S Ottiliavej 9 DK-2500 Valby Danija Tel:+ 45 36301311
+ Este folheto foi aprovado pela última vez em
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu
+ 81 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Ebixa 5 mg comprimidos revestidos por película Ebixa 10 mg comprimidos revestidos por película Ebixa 15 mg comprimidos revestidos por película Ebixa 20 mg comprimidos revestidos por película Cloridrato de memantina
+ Leia atentamente este folheto antes de tomar este medicamento
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto 1. O que é Ebixa e para que é utilizado 2. Antes de tomar Ebixa 3. Como tomar Ebixa 4. Efeitos secundários possíveis 5. Como conservar Ebixa 6. Outras informações
+ 1. O QUE É EBIXA E PARA QUE É UTILIZADO
+ Como actua Ebixa Ebixa pertence a um grupo de medicamentos conhecidos como fármacos anti-demência.
+ A perda de memória associada à doença de Alzheimer deve-se a uma perturbação dos sinais mensageiros no cérebro. O cérebro contém receptores do N-metil-D-aspartato (NMDA) envolvidos na transmissão de sinais nervosos importantes na aprendizagem e memória. Ebixa pertence a um grupo de medicamentos denominados antagonistas dos receptores NMDA. Ebixa actua nestes receptores, melhorando a transmissão dos sinais nervosos e a memória.
+ Para que é utilizado Ebixa Ebixa é utilizado para o tratamento de doentes com doença de Alzheimer moderada a grave.
+ 2. ANTES DE TOMAR EBIXA Não tome Ebixa -se tem alergia (hipersensibilidade) ao cloridrato de memantina ou a qualquer outro componente
+ dos comprimidos revestidos por película de Ebixa (ver secção 6)
+ Tome especial cuidado com Ebixa -se tiver uma história de epilepsia
+ -se tiver tido um enfarte do miocárdio (ataque cardíaco) recente ou se sofrer de compromisso
+ cardíaco congestivo ou de hipertensão (pressão arterial alta) não controlada.
+ 82 Nestas situações, o tratamento deve ser supervisionado cuidadosamente e os benefícios clínicos de Ebixa devem ser avaliados pelo seu médico regularmente.
+ Se sofrer de compromisso renal (problemas de rins), o seu médico deverá monitorizar cuidadosamente a sua função renal e, se necessário, adaptar as doses de memantina.
+ A utilização simultânea de medicamentos designados de amantadina (para o tratamento da doença de Parkinson), cetamina (uma substância usada geralmente como anestésico), dextrometorfano (usado geralmente para tratar a tosse) e outros antagonistas do NMDA deve ser evitada.
+ Ebixa não é recomendado para crianças e adolescentes com menos de 18 anos de idade.
+ Utilizar Ebixa com outros medicamentos Informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica.
+ Em especial, os efeitos dos seguintes medicamentos podem ser alterados por Ebixa e o seu médico poderá achar necessário ajustar as respectivas doses:
+ amantadina, cetamina, dextrometorfano dantroleno, baclofeno cimetidina, ranitidina, procaínamida, quinidina, quinina, nicotina hidroclorotiazida (ou qualquer outra combinação com hidroclorotiazida) anticolinérgicos (substâncias geralmente utilizadas para tratar perturbações do movimento ou cãibras intestinais) anticonvulsivantes (substâncias utilizadas para evitar ou atenuar convulsões) barbitúricos (substâncias utilizadas geralmente para induzir o sono) agonistas dopaminérgicos (substâncias como L-dopa, bromocriptina) neurolépticos (substâncias utilizadas no tratamento de perturbações mentais). anticoagulantes orais
+ Se for hospitalizado, informe o seu médico de que está a tomar Ebixa.
+ Tomar Ebixa com alimentos e bebidas Deverá informar o seu médico caso tenha recentemente alterado ou pretenda alterar a sua dieta substancialmente (ex: de uma dieta normal para uma dieta estritamente vegetariana) ou se sofrer de estados de acidose tubular renal (ATR, um excesso de substâncias formadoras de ácido no sangue devido a uma disfunção renal (função dos rins debilitada )) ou infecções graves das vias urinárias (estrutura que transporta a urina), uma vez que poderá ser necessário que o seu médico faça um ajuste da dose do medicamento.
+ Gravidez e aleitamento Consulte o seu médico ou farmacêutico antes de tomar qualquer medicamento.
+ Informe o seu médico caso esteja grávida ou esteja a planear engravidar. A utilização de memantina em grávidas não é recomendada.
+ Mulheres que tomem Ebixa não devem amamentar.
+ Condução de veículos e utilização de máquinas
+ O seu médico irá informá-lo se a sua doença o impede de conduzir e utilizar máquinas com segurança. Para além disso, Ebixa pode alterar a sua capacidade de reacção, tornando a condução ou utilização de máquinas não apropriada.
+ 83 Informações importantes sobre alguns componentes de Ebixa
+ Este medicamento contém lactose. Se foi informado pelo seu médico de que sofre de intolerância a alguns açúcares, contacte o seu médico antes de tomar este medicamento. O seu médico aconselhá-lo-á.
+ 3. COMO TOMAR EBIXA A embalagem de início de tratamento com Ebixa só pode ser usado no início do tratamento com Ebixa. Tome Ebixa sempre de acordo com as indicações do médico. Fale com o seu médico ou farmacêutico se tiver dúvidas.
+ A embalagem de início de tratamento com Ebixa só pode ser usado no início do tratamento com Ebixa.
+ Dose A dose de tratamento recomendada de 20 mg por dia é atingida com um aumento gradual da dose de Ebixa, durante as primeiras três semanas de tratamento. O esquema de tratamento também está indicado na embalagem de início de tratamento. Tome um comprimido revestido por película por dia.
+ Semana 1 (dia 1-7): Tomar 1 comprimido revestido por película de 5 mg por dia (branco a esbranquiçado, oblongo) durante 7 dias.
+ Semana 2 (dia 8-14): Tomar 1 comprimido revestido por película de 10 mg por dia (branco a esbranquiçado, oblongo, afunilado centralmente, biconvexo e com uma linha divisória em ambos os lados) durante 7 dias.
+ Semana 3 (dia 15-21): Tomar 1 comprimido revestido por película de 15 mg por dia (laranja acinzentado, oblongo) durante 7 dias.
+ Semana 4 e seguintes: Tomar 1 comprimido revestido por película de 20 mg por dia (vermelho acinzentado, oblongo) durante 7 dias.
+ semana 1
+ comprimido revestido por película de 5 mg
+ semana 2
+ comprimido revestido por película de 10 mg
+ semana 3
+ comprimido revestido por película de 15 mg
+ semana 4 e seguintes
+ comprimidos revestidos por película de 20 mg, uma vez por dia
+ Dose de manutenção A dose de manutenção recomendada é de 20 mg por dia. Para a continuação do seu tratamento, consulte, por favor, o seu médico.
+ 84 Dose em doentes com compromisso da função renal
+ Se tiver compromisso da função renal, o seu médico deverá decidir por uma dose adequada a essa situação. Neste caso, o seu médico deverá monitorizar a sua função renal regularmente.
+ Administração Ebixa deve ser administrado por via oral, uma vez por dia. Para tirar o maior benefício do seu medicamento, deve tomá-lo todos os dias, à mesma hora do dia. Os comprimidos revestidos por película devem ser engolidos com água. Os comprimidos revestidos por película podem ser administrados com ou sem alimentos.
+ Duração do tratamento Continue a tomar Ebixa enquanto tiver um efeito benéfico. O seu médico deve avaliar o tratamento regularmente.
+ Se tomar mais Ebixa do que deveria -De uma forma geral, uma sobredosagem de Ebixa não deve ser prejudicial. Poderá detectar um
+ maior número de sintomas, tal como descrito na secção 4. “ Efeitos secundários possíveis ”.
+ -Se tomar uma dose muito elevada de Ebixa, contacte o seu médico ou procure aconselhamento
+ médico, uma vez que poderá necessitar de cuidados médicos.
+ Caso se tenha esquecido de tomar Ebixa -Se se esquecer de tomar uma dose de Ebixa, espere e tome a dose seguinte à hora habitual.
+ -Não tome uma dose a dobrar para compensar uma dose que se esqueceu de tomar.
+ Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou farmacêutico.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todos os medicamentos, Ebixa pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ De uma forma geral, os efeitos secundários observados são ligeiros a moderados.
+ Frequentes (afecta 1 a 10 pessoas em 100): • Dores de cabeça, sono, prisão de ventre, tonturas e pressão arterial elevada
+ Pouco frequentes ((afecta 1 a 10 pessoas em 1.000): • Cansaço, infecções fúngicas, confusão, alucinações, vómitos, alterações na forma de andar, insuficiência cardíaca e coagulação sanguínea venosa (trombose, tromboembolia)
+ Muito raros (afecta menos de 1 pessoa em 10.000) • Convulsões
+ Desconhecido (a frequência não pode ser estimada a partir dos dados disponíveis) • Inflamação do pâncreas e reacções psicóticas
+ A doença de Alzheimer tem sido associada a depressão, ideação suicida e suicídio. Estes efeitos têm sido notificados com doentes tratados com Ebixa.
+ 85 Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR EBIXA Manter fora da vista e do alcance das crianças.
+ Não utilize Ebixa após o prazo de validade impresso na embalagem exterior e no blister, após VAL. O prazo de validade corresponde ao último dia do mês indicado.
+ O medicamento não necessita de quaisquer precauções especiais de conservação.
+ Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Ebixa A substância activa é cloridrato de memantina. Cada comprimido revestido por película contém 5/10/15/20 mg de cloridrato de memantina, equivalente a 4, 15/8, 31/12, 46/16,62 mg de memantina.
+ Os outros componentes de Ebixa 5/15 e 20 mg comprimidos revestidos por película são celulose microcristalina, croscarmelose sódica, sílica coloidal anidra e estearato de magnésio, tudo no núcleo do comprimido revestido por película; e hipromelose, macrogol 400, dióxido de titânio (E 171) e, adicionalmente, para Ebixa 15 mg comprimidos revestidos por película e Ebixa 20 mg comprimidos revestidos por película são óxido de ferro amarelo e vermelho (E 172), tudo no revestimento do comprimido revestido por película.
+ Os outros componentes de Ebixa 10 mg comprimidos revestidos são lactose mono-hidratada, celulose microcristalina, sílica coloidal anidra, talco e estearato de magnésio, tudo no núcleo do comprimido revestido por película; e co-polímero de ácido metacrílico-etilacrilato (1: 1), laurilsulfato de sódio, polissorbato 80, talco, triacetina e emulsão de simeticone, tudo no revestimento do comprimido revestido por película.
+ Qual o aspecto de Ebixa e conteúdo da embalagem
+ Ebixa 5 mg comprimidos revestidos por película apresentam-se em comprimidos revestidos por película, brancos a esbranquiçados, oblongos, com a impressão “ 5 ” de um lado e “ MEM ” no outro. Ebixa 10 mg comprimidos revestidos por película apresentam-se em comprimidos revestidos por película, brancos a esbranquiçados, oblongos, afunilados centralmente, biconvexos e com uma linha divisória em ambos os lados. O comprimido revestido por película pode ser dividido em metades iguais. Ebixa 15 mg comprimidos revestidos por película apresentam-se em comprimidos revestidos por película, laranja acinzentados, oblongos, com a impressão “ 15 ” de um lado e “ MEM ” no outro. Ebixa 20 mg comprimidos revestidos por película apresentam-se em comprimidos revestidos por película, vermelhos acinzentados, oblongos, com a impressão “ 20 ” de um lado e “ MEM ” no outro. Uma embalagem de início de tratamento contém 28 comprimidos revestidos por película em 4 blisters com 7 comprimidos revestidos por película de Ebixa 5 mg,7 comprimidos revestidos por película de Ebixa 10 mg,7 comprimidos revestidos por película de Ebixa 15 mg e 7 comprimidos revestidos por película de Ebixa 20 mg.
+ Titular da Autorização de Introdução no Mercado
+ 86 H. Lundbeck A/S, Ottiliavej 9, DK-2500 Valby, Dinamarca.
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado.
+ Belgique/België/Belgien Lundbeck S. A./N. V. Avenue Molière 225 B-1050 Bruxelles/Brussel/Brüssel Tél/Tel: +32 2 340 2828
+ Luxembourg/Luxemburg Lundbeck S. A. Avenue Molière 225 B-1050 Bruxelles/Brussel Tél: +32 2 340 2828
+ България Lundbeck Export A/S Representative Office EXPO 2000 Vaptzarov Blvd. 55 Sofia 1407 Tel: +359 2 962 4696
+ Magyarország Lundbeck Hungaria Kft. Montevideo utca 3/B H-1037 Budapest Tel: +36 1 4369980
+ Česká republika Lundbeck Česká republika s. r. o. Bozděchova 7 CZ-150 00 Praha 5 Tel: +420 225 275 600
+ Malta H. Lundbeck A/S Ottiliavej 9 DK-2500 Valby Denmark Tel:+ 45 36301311
+ Danmark Lundbeck Pharma A/S Dalbergstrøget 5 DK-2630 Taastrup Tlf: +45 4371 4270
+ Nederland Lundbeck B. V. Postbus 12021 NL-1100 AA Amsterdam Tel: +31 20 697 1901
+ Deutschland Lundbeck GmbH Karnapp 25 D-21079 Hamburg Tel: +49 40 23649 0
+ Norge H. Lundbeck AS Postboks 361 N-1326 Lysaker Tlf: +47 91 300 800
+ Eesti H. Lundbeck A/S Ottiliavej 9 DK-2500 Valby Taani Tel:+ 45 36301311
+ Österreich Lundbeck Austria GmbH Dresdner Straβe 82 A-1200 Wien Tel: +43 1 331 070
+ Ελλάδα Lundbeck Hellas S. A. Λεωφόρος Κηφισίας 64 GR-151 25 Μαρούσι, Αθήνα Τηλ: +30 210 610 5036
+ Polska Lundbeck Poland Sp. z o. o. ul. Krzywickiego 34 PL-02-078 Warszawa Tel.:+ 48 22 626 93 00
+ 87 España Lundbeck España S. A. Av. Diagonal,605, 9-1a E-08028 Barcelona Tel: +34 93 494 9620
+ Portugal Lundbeck Portugal Lda Quinta da Fonte Edifício D. João I – Piso 0 Ala A P-2770-203 Paço d’ Arcos Tel: +351 21 00 45 900
+ France Lundbeck SAS
+ România Lundbeck Export A/S, 37 Avenue Pierre 1er de Serbie F-75008 Paris Tél: +33 1 53 67 42 00
+ Reprezentanta din Romania Bd. Poligrafiei, No. 3A, 2nd floor Sector 1 Bucuresti 013704-RO Tel: +40 21319 88 26
+ Ireland Lundbeck (Ireland) Limited 7 Riverwalk Citywest Business Campus IRL-Dublin 24 Tel: +353 1 468 9800
+ Slovenija Lundbeck Pharma d. o. o. Titova cesta 8 SI-2000 Maribor Tel.: +386 2 229 4500
+ Ísland Lundbeck Export A/S, útibú á Íslandi Ármúla 1 IS-108 Reykjavík Tel: +354 414 7070
+ Slovenská republika Lundbeck Slovensko s. r. o. Zvolenská 19 SK-821 09 Bratislava 2 Tel: +421 2 53412262
+ Italia Lundbeck Italia S. p. A. Via G. Fara 35 I-20124 Milan Tel: +39 02 677 4171
+ Suomi/Finland Oy H. Lundbeck Ab Itäinen Pitkäkatu 4/Österlånggatan 4 FI-20520 Turku/Åbo Puh/Tel: +358 2 276 5000
+ Κύπρος Lundbeck Hellas A. E Θεμ. Δέρβη-Φλωρίνης STADYL BUILDING CY-1066 Λευκωσία Τηλ.: +357 22490305
+ Sverige H. Lundbeck AB Rundgången 30 B Box 23 S-250 53 Helsingborg Tel: +46 4225 4300
+ Latvija H. Lundbeck A/S Ottiliavej 9 DK-2500 Valby Dānija Tel:+ 45 36301311
+ United Kingdom Lundbeck Limited Lundbeck House Caldecotte Lake Business Park Caldecotte Milton Keynes MK7 8LG-UK Tel: +44 1908 64 9966
+ Lietuva H. Lundbeck A/S Ottiliavej 9 DK-2500 Valby Danija Tel:+ 45 36301311
+ 88 Este folheto foi aprovado pela última vez em
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu
+ 89 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Ebixa 20 mg comprimidos revestidos por película Cloridrato de memantina
+ Leia atentamente este folheto antes de tomar este medicamento
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto 1. O que é Ebixa e para que é utilizado 2. Antes de tomar Ebixa 3. Como tomar Ebixa 4. Efeitos secundários possíveis 5. Como conservar Ebixa 6. Outras informações
+ 1. O QUE É EBIXA E PARA QUE É UTILIZADO
+ Como actua Ebixa Ebixa pertence a um grupo de medicamentos conhecidos como fármacos anti-demência.
+ A perda de memória associada à doença de Alzheimer deve-se a uma perturbação dos sinais mensageiros no cérebro. O cérebro contém receptores do N-metil-D-aspartato (NMDA) envolvidos na transmissão de sinais nervosos importantes na aprendizagem e memória. Ebixa pertence a um grupo de medicamentos denominados antagonistas dos receptores NMDA. Ebixa actua nestes receptores, melhorando a transmissão dos sinais nervosos e a memória.
+ Para que é utilizado Ebixa Ebixa é utilizado para o tratamento de doentes com doença de Alzheimer moderada a grave.
+ 2. ANTES DE TOMAR EBIXA Não tome Ebixa -se tem alergia (hipersensibilidadel) ao cloridrato de memantina ou a qualquer outro componente
+ dos comprimidos revestidos por película de Ebixa (ver secção 6)
+ Tome especial cuidado com Ebixa -se tiver uma história de epilepsia
+ -se tiver tido um enfarte do miocárdio (ataque cardíaco) recente ou se sofrer de compromisso
+ cardíaco congestivo ou de hipertensão (pressão arterial alta) não controlada.
+ Nestas situações, o tratamento deve ser supervisionado cuidadosamente e os benefícios clínicos de Ebixa devem ser avaliados pelo seu médico regularmente.
+ 90 Se sofrer de compromisso renal (problemas de rins), o seu médico deverá monitorizar cuidadosamente a sua função renal e, se necessário, adaptar as doses de memantina.
+ A utilização simultânea de medicamentos designados de amantadina (para o tratamento da doença de Parkinson), cetamina (uma substância usada geralmente como anestésico), dextrometorfano (usado geralmente para tratar a tosse) e outros antagonistas do NMDA deve ser evitada.
+ Ebixa não é recomendado para crianças e adolescentes com menos de 18 anos de idade.
+ Utilizar Ebixa com outros medicamentos Informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica.
+ Em especial, os efeitos dos seguintes medicamentos podem ser alterados por Ebixa e o seu médico poderá achar necessário ajustar as respectivas doses:
+ amantadina, cetamina, dextrometorfano dantroleno, baclofeno cimetidina, ranitidina, procaínamida, quinidina, quinina, nicotina hidroclorotiazida (ou qualquer outra combinação com hidroclorotiazida) anticolinérgicos (substâncias geralmente utilizadas para tratar perturbações do movimento ou cãibras intestinais) anticonvulsivantes (substâncias utilizadas para evitar ou atenuar convulsões) barbitúricos (substâncias utilizadas geralmente para induzir o sono) agonistas dopaminérgicos (substâncias como L-dopa, bromocriptina) neurolépticos (substâncias utilizadas no tratamento de perturbações mentais). anticoagulantes orais
+ Se for hospitalizado, informe o seu médico de que está a tomar Ebixa.
+ Tomar Ebixa com alimentos e bebidas Deverá informar o seu médico caso tenha recentemente alterado ou pretenda alterar a sua dieta substancialmente (ex: de uma dieta normal para uma dieta estritamente vegetariana) ou se sofrer de estados de acidose tubular renal (ATR, um excesso de substâncias formadoras de ácido no sangue devido a uma disfunção renal (função dos rins debilitada )) ou infecções graves das vias urinárias (estrutura que transporta a urina), uma vez que poderá ser necessário que o seu médico faça um ajuste da dose do medicamento.
+ Gravidez e aleitamento Consulte o seu médico ou farmacêutico antes de tomar qualquer medicamento.
+ Informe o seu médico caso esteja grávida ou esteja a planear engravidar. A utilização de memantina em grávidas não é recomendada.
+ Mulheres que tomem Ebixa não devem amamentar.
+ Condução de veículos e utilização de máquinas
+ O seu médico irá informá-lo se a sua doença o impede de conduzir e utilizar máquinas com segurança. Para além disso, Ebixa pode alterar a sua capacidade de reacção, tornando a condução ou utilização de máquinas não apropriada.
+ Informações importantes sobre alguns componentes de Ebixa
+ 91 Este medicamento contém lactose. Se foi informado pelo seu médico de que sofre de intolerância a alguns açúcares, contacte o seu médico antes de tomar este medicamento. O seu médico aconselhá-lo-á.
+ 3. COMO TOMAR EBIXA Tome Ebixa sempre de acordo com as indicações do médico. Fale com o seu médico ou farmacêutico se tiver dúvidas.
+ Dose A dose recomendada de Ebixa para doentes adultos e idosos é de 20 mg uma vez por dia.
+ De forma a reduzir o risco de efeitos secundários, esta dose é atingida gradualmente segundo o seguinte esquema de tratamento diário. Para aumentar a titulação, estão disponíveis outras dosagens de comprimidos revestidos por película.
+ No início do tratamento, começará por tomar Ebixa 5 mg comprimidos revestidos por película uma vez por dia. Esta dose aumentará semanalmente 5 mg até se atingir a dose (manutenção) recomendada. A dose de manutenção recomendada é de 20 mg, uma vez por dia, o que é atingido no início da quarta semana.
+ Dose em doentes com compromisso da função renal
+ Se tiver compromisso da função renal, o seu médico deverá decidir por uma dose adequada a essa situação. Neste caso, o seu médico deverá monitorizar a sua função renal regularmente.
+ Administração Ebixa deve ser administrado por via oral, uma vez por dia. Para tirar o maior benefício do seu medicamento, deve tomá-lo todos os dias, à mesma hora do dia. Os comprimidos revestidos por película devem ser engolidos com água. Os comprimidos revestidos por película podem ser administrados com ou sem alimentos.
+ Duração do tratamento Continue a tomar Ebixa enquanto tiver um efeito benéfico. O seu médico deve avaliar o tratamento regularmente.
+ Se tomar mais Ebixa do que deveria -De uma forma geral, uma sobredosagem de Ebixa não deve ser prejudicial. Poderá detectar um
+ maior número de sintomas, tal como descrito na secção 4. “ Efeitos secundários possíveis ”.
+ -Se tomar uma dose muito elevada de Ebixa, contacte o seu médico ou procure aconselhamento
+ médico, uma vez que poderá necessitar de cuidados médicos.
+ Caso se tenha esquecido de tomar Ebixa -Se se esquecer de tomar uma dose de Ebixa, espere e tome a dose seguinte à hora habitual.
+ -Não tome uma dose a dobrar para compensar uma dose que se esqueceu de tomar.
+ Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou farmacêutico.
+ 92 4. EFEITOS SECUNDÁRIOS POSSÍVEIS
+ Como todos os medicamentos, Ebixa pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ De uma forma geral, os efeitos secundários observados são ligeiros a moderados.
+ Frequentes (afecta 1 a 10 pessoas em 100): • Dores de cabeça, sono, prisão de ventre, tonturas e pressão arterial elevada
+ Pouco frequentes ((afecta 1 a 10 pessoas em 1.000): • Cansaço, infecções fúngicas, confusão, alucinações, vómitos, alterações na forma de andar, insuficiência cardíaca e coagulação sanguínea venosa (trombose, tromboembolia)
+ Muito raros (afecta menos de 1 pessoa em 10.000) • Convulsões
+ Desconhecido (a frequência não pode ser estimada a partir dos dados disponíveis) • Inflamação do pâncreas e reacções psicóticas
+ A doença de Alzheimer tem sido associada a depressão, ideação suicida e suicídio. Estes efeitos têm sido notificados com doentes tratados com Ebixa.
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR EBIXA Manter fora da vista e do alcance das crianças.
+ Não utilize Ebixa após o prazo de validade impresso na embalagem exterior e no blister, após VAL. O prazo de validade corresponde ao último dia do mês indicado.
+ O medicamento não necessita de quaisquer precauções especiais de conservação.
+ Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Ebixa A substância activa é cloridrato de memantina. Cada comprimido revestido por película contém 20 mg de cloridrato de memantina, equivalente a 16,62 mg de memantina.
+ Os outros componentes são celulose microcristalina, croscarmelose sódica, sílica coloidal anidra, estearato de magnésio, tudo no núcleo do comprimido revestido por película; e hipromelose, macrogol 400, dióxido de titânio (E 171), óxido de ferro amarelo e verde (E 172), tudo no revestimento do comprimido revestido por película.
+ Qual o aspecto de Ebixa e conteúdo da embalagem
+ 93 Ebixa comprimidos revestidos por película apresenta-se em comprimidos revestidos por película vermelhos claros a vermelhos acinzentados, oblongos, com a impressão “ 20 ” de um lado e “ MEM ” no outro.
+ Os comprimidos revestidos por película de Ebixa estão disponíveis em embalagens de 14 comprimidos revestidos por película,28 comprimidos revestidos por película,42 comprimidos revestidos por película,49 x 1 comprimidos revestidos por película,56 comprimidos revestidos por película,56 x 1 comprimidos revestidos por película,70 comprimidos revestidos por película,84 comprimidos revestidos por película,98 comprimidos revestidos por película,98 x 1 comprimidos revestidos por película,100 x 1 comprimidos revestidos por película,112 comprimidos revestidos por película ou 840 (20 x 42) comprimidos revestidos por película. As embalagens de 49 x 1,56 x 1,98 x 1 e 100 x 1 comprimidos revestidos por película apresentam-se em blisters de dose unitária.
+ É possível que não sejam comercializadas todas as apresentações.
+ Titular da Autorização de Introdução no Mercado
+ H. Lundbeck A/S, Ottiliavej 9, DK-2500 Valby, Dinamarca.
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado.
+ Belgique/België/Belgien Lundbeck S. A./N. V. Avenue Molière 225 B-1050 Bruxelles/Brussel/Brüssel Tél/Tel: +32 2 340 2828
+ Luxembourg/Luxemburg Lundbeck S. A. Avenue Molière 225 B-1050 Bruxelles/Brussel Tél: +32 2 340 2828
+ България Lundbeck Export A/S Representative Office EXPO 2000 Vaptzarov Blvd. 55 Sofia 1407 Tel: +359 2 962 4696
+ Magyarország Lundbeck Hungaria Kft. Montevideo utca 3/B H-1037 Budapest Tel: +36 1 4369980
+ Česká republika Lundbeck Česká republika s. r. o. Bozděchova 7 CZ-150 00 Praha 5 Tel: +420 225 275 600
+ Malta H. Lundbeck A/S Ottiliavej 9 DK-2500 Valby Denmark Tel:+ 45 36301311
+ Danmark Lundbeck Pharma A/S Dalbergstrøget 5 DK-2630 Taastrup Tlf: +45 4371 4270
+ Nederland Lundbeck B. V. Postbus 12021 NL-1100 AA Amsterdam Tel: +31 20 697 1901
+ 94 Deutschland Lundbeck GmbH Karnapp 25 D-21079 Hamburg Tel: +49 40 23649 0
+ Norge H. Lundbeck AS Postboks 361 N-1326 Lysaker Tlf: +47 91 300 800
+ Eesti H. Lundbeck A/S Ottiliavej 9 DK-2500 Valby Taani Tel:+ 45 36301311
+ Österreich Lundbeck Austria GmbH Dresdner Straβe 82 A-1200 Wien Tel: +43 1 331 070
+ Ελλάδα Lundbeck Hellas S. A. Λεωφόρος Κηφισίας 64 GR-151 25 Μαρούσι, Αθήνα Τηλ: +30 210 610 5036
+ Polska Lundbeck Poland Sp. z o. o. ul. Krzywickiego 34 PL-02-078 Warszawa Tel.:+ 48 22 626 93 00
+ España Lundbeck España S. A. Av. Diagonal,605, 9-1a E-08028 Barcelona Tel: +34 93 494 9620
+ Portugal Lundbeck Portugal Lda Quinta da Fonte Edifício D. João I – Piso 0 Ala A P-2770-203 Paço d’ Arcos Tel: +351 21 00 45 900
+ France Lundbeck SAS
+ România Lundbeck Export A/S, 37 Avenue Pierre 1er de Serbie F-75008 Paris Tél: +33 1 53 67 42 00
+ Reprezentanta din Romania Bd. Poligrafiei, No. 3A, 2nd floor Sector 1 Bucuresti 013704-RO Tel: +40 21319 88 26
+ Ireland Lundbeck (Ireland) Limited 7 Riverwalk Citywest Business Campus IRL-Dublin 24 Tel: +353 1 468 9800
+ Slovenija Lundbeck Pharma d. o. o. Titova cesta 8 SI-2000 Maribor Tel.: +386 2 229 4500
+ Ísland Lundbeck Export A/S, útibú á Íslandi Ármúla 1 IS-108 Reykjavík Tel: +354 414 7070
+ Slovenská republika Lundbeck Slovensko s. r. o. Zvolenská 19 SK-821 09 Bratislava 2 Tel: +421 2 53412262
+ Italia Lundbeck Italia S. p. A. Via G. Fara 35 I-20124 Milan Tel: +39 02 677 4171
+ Suomi/Finland Oy H. Lundbeck Ab Itäinen Pitkäkatu 4/Österlånggatan 4 FI-20520 Turku/Åbo Puh/Tel: +358 2 276 5000
+ 95 Κύπρος Lundbeck Hellas A. E Θεμ. Δέρβη-Φλωρίνης STADYL BUILDING CY-1066 Λευκωσία Τηλ.: +357 22490305
+ Sverige H. Lundbeck AB Rundgången 30 B Box 23 S-250 53 Helsingborg Tel: +46 4225 4300
+ Latvija H. Lundbeck A/S Ottiliavej 9 DK-2500 Valby Dānija Tel:+ 45 36301311
+ United Kingdom Lundbeck Limited Lundbeck House Caldecotte Lake Business Park Caldecotte Milton Keynes MK7 8LG-UK Tel: +44 1908 64 9966
+ Lietuva H. Lundbeck A/S Ottiliavej 9 DK-2500 Valby Danija Tel:+ 45 36301311
+ Este folheto foi aprovado pela última vez em
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu
+ 96

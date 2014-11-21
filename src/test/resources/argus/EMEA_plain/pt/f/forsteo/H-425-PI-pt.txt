@@ -1,0 +1,306 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. NOME DO MEDICAMENTO
+ FORSTEO 20 microgramas/80 microlitros solução injectável em caneta pré-cheia
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada dose contém 20 microgramas de teriparatida. Uma caneta pré-cheia de 2,4 ml contém 600 microgramas de teriparatida (correspondente a 250 microgramas por ml).
+ A teriparatida, rhPTH (1-34), produzida na E. Coli, utilizando a tecnologia de DNA recombinante, é idêntica à sequência do terminal 34 N-amino ácido da hormona paratiroideia endógena humana.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Solução injectável, numa caneta pré-cheia.
+ Solução incolor e límpida. 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas No tratamento da osteoporose estabelecida em mulheres pós-menopáusicas e em homens com risco aumentado de fracturas (ver secção 5.1). Em mulheres pós-menopáusicas foi demonstrada uma redução significativa na incidência de fracturas vertebrais e não-vertebrais, mas não em fracturas da anca.
+ No tratamento da osteoporose associada a terapêutica glucocorticóide sistémica sustentada em mulheres e homens com risco aumentado de fracturas (ver secção 5.1).
+ 4.2 Posologia e modo de administração A dose recomendada de FORSTEO é de 20 microgramas, administrada uma vez por dia, por injecção subcutânea na coxa ou no abdómen.
+ Os doentes devem ser treinados para utilizarem as técnicas de injecção adequadas (ver Secção 6.6). Um Manual do Utilizador também está disponível para instruir o doente sobre a utilização correcta da caneta.
+ A duração máxima do tratamento com FORSTEO deve ser de 24 meses (ver secção 4.4). O período de tratamento de 24 meses com FORSTEO não deve tornar a repetir-se durante a vida do doente.
+ Os doentes devem fazer suplementos de Cálcio e Vitamina D se a dieta que estiverem a fazer for deficitária.
+ Após cessar o tratamento com FORSTEO, os doentes podem continuar com outras terapêuticas para a osteoporose.
+ Utilização no compromisso renal: FORSTEO não deve ser utilizado em doentes com compromisso renal grave (ver secção 4.3). Em doentes com compromisso renal moderado, FORSTEO deve ser utilizado com precaução.
+ 2 Utilização no compromisso hepático: não existem dados disponíveis em doentes com compromisso hepático (ver secção 5.3).
+ Em doentes pediátricos e jovens adultos com epífises abertas: Não existe experiência em doentes pediátricos (idade inferior a 18 anos). FORSTEO não deve ser utilizado em doentes pediátricos (idade inferior a 18 anos) ou jovens adultos com epífises abertas.
+ Doentes idosos: Não é necessário um ajuste de dose com base na idade (ver secção 5.2).
+ 4.3 Contra-indicações • Hipersensibilidade à substância activa ou a qualquer um dos excipientes. • Gravidez e aleitamento (ver secções 4.4 e 4.6) • Hipercalcémia pré-existente • Compromisso renal grave • Doenças ósseas metabólicas que não a osteoporose primária (incluindo hiperparatiroidismo e a Doença de Paget do osso), • Aumentos inexplicáveis da fosfatase alcalina • Prévia radioterapia do esqueleto externa ou por implante. • Doentes com neoplasias ósseas ou metástases ósseas devem ser excluídos do tratamento com teriparatida.
+ 4.4 Advertências e precauções especiais de utilização
+ Em doentes com normocalcémia, foram observadas elevações ligeiras e transitórias do cálcio sérico após injecção de teriparatida. As concentrações séricas de cálcio atingiram um máximo entre 4 a 6 horas e voltaram aos valores basais ao fim de 16 a 24 horas após cada dose de teriparatida. Não é necessária a monitorização de rotina do cálcio sérico durante o tratamento.
+ Assim, qualquer colheita de sangue feita ao doente, deve ser efectuada pelo menos 16 horas após a última injecção de FORSTEO.
+ FORSTEO pode causar ligeiros aumentos na excreção urinária de cálcio, contudo, a incidência de hipercalciúria não diferiu daquela dos doentes tratados em estudos clínicos com placebo.
+ FORSTEO não foi estudado em doentes com urolitíase activa. FORSTEO deverá ser usado com precaução em doentes com urolitíase activa ou recente, dada a possibilidade de exacerbar esta situação.
+ Em estudos clínicos de curta duração com FORSTEO, foram observados episódios isolados e transitórios de hipotensão ortostática. Tipicamente, um episódio começava dentro de 4 horas após a administração e cessava espontaneamente dentro de poucos minutos a poucas horas. Quando a hipotensão ortostática transitória ocorria, tal acontecia nas primeiras doses administradas e aliviava, deitando os indivíduos numa posição inclinada, não impedindo o tratamento contínuo.
+ Devem tomar-se precauções em doentes com compromisso renal moderado.
+ A experiência na população jovem, incluindo em mulheres pré-menopáusicas é insuficiente (ver secção 5.1). O tratamento só deve ser iniciado se, nesta população, o benefício for claramente superior aos riscos.
+ As mulheres em risco de engravidar deverão utilizar um método contraceptivo eficaz durante a utilização de FORSTEO. Se ocorrer uma gravidez, FORSTEO deve ser interrompido.
+ Estudos em ratos indicaram um aumento da incidência de osteosarcoma com a administração a longo prazo de teriparatida (ver Secção 5.3). Até que estejam disponíveis mais dados clínicos, a duração do tratamento recomendada de 24 meses, não deve ser ultrapassada. 3 4.5 Interacções medicamentosas e outras formas de interacção
+ FORSTEO foi avaliado em estudos de interacção farmacodinâmica com hidroclorotiazida. Não foram notadas quaisquer interacções clínicas significativas.
+ A co-administração de raloxifeno ou terapêutica de substituição hormonal com FORSTEO não alterou os efeitos de FORSTEO sobre o cálcio sérico ou urinário ou os acontecimentos adversos.
+ Num estudo com 15 indivíduos saudáveis aos quais se administrou digoxina diariamente até ao estado estacionário, uma dose única de FORSTEO não alterou o efeito cardíaco da digoxina. Contudo, casos esporádicos sugeriram que a hipercalcémia pode predispor os doentes para uma toxicidade aos digitálicos. Dado que FORSTEO aumenta transitoriamente o cálcio sérico, FORSTEO deve ser utilizado com precaução em doentes a tomarem digitálicos.
+ 4.6 Gravidez e aleitamento Recomendações de ordem geral Estudos em coelhos demonstraram toxicidade reprodutiva (ver Secção 5.3). O efeito da teriparatida no desenvolvimento do feto não foi estudado. Desconhece-se o risco potencial para o ser humano. Desconhece-se se a teriparatida é excretada no leite materno.
+ FORSTEO é contra-indicado durante a gravidez ou aleitamento.
+ Mulheres com potencial para engravidar/Contracepção nas mulheres
+ As mulheres em risco de engravidar deverão utilizar um método contraceptivo eficaz durante a utilização de FORSTEO. Se ocorrer uma gravidez, FORSTEO deve ser interrompido.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas. No entanto, nalguns doentes observou-se hipotensão ortostática transitória ou tonturas. Estes doentes deviam evitar conduzir ou utilizar máquinas até que os sintomas diminuam.
+ 4.8 Efeitos indesejáveis Dos doentes em estudos clínicos com teriparatida, 82,8% dos doentes aos quais foi administrado FORSTEO e 84,5% dos doentes com placebo, notificaram, pelo menos um acontecimento adverso.
+ As reacções adversas mais frequentemente notificadas em doentes tratados com FORSTEO são náuseas, dores nos membros, cefaleias e tonturas.
+ As reacções indesejáveis associadas ao uso de teriparatida em estudos clínicos de osteoporose estão resumidas na tabela abaixo. Foi utilizada a seguinte convenção na classificação das reacções adversas: muito frequentes (≥1/10), frequentes (≥1/100 e &lt; 1/10) pouco frequentes (≥1/1.000 e &lt; 1/100), raros (≥1/10.000 e &lt; 1/1.000), muito raros (&lt; 1/10.000), desconhecido (não pode ser calculado a partir dos dados disponíveis).
+ 4 Exames complementares de diagnóstico Pouco frequentes: Aumento de peso, Sopro cardíaco, aumento da fosfatase alcalina Cardiopatias Frequentes: Palpitações Pouco frequentes: Taquicardia Doenças do sangue e do sistema linfático Frequentes: Anemia Doenças do sistema nervoso Frequentes: Tonturas, Cefaleias, Ciática Afecções do ouvido e do labirinto Frequentes: Vertigens Doenças respiratórias, torácicas e do mediastino Frequentes: Dispneia Pouco frequentes: Enfisema Doenças gastrointestinais Frequentes: Náuseas, Vómitos, Hérnia do hiato, Refluxo gastro-esofágico Pouco frequentes: Hemorróidas Doenças renais e urinárias Pouco frequentes: Incontinência urinária, Poliúria, Necessidade urgente de urinar Afecções dos tecidos cutâneos e subcutâneas Frequentes: Aumento da sudação Afecções musculosqueléticas e dos tecidos conjuntivos Muito Frequentes: Dor nos membros Frequentes: Cãibras Pouco frequentes: Mialgia, Artralgia Desconhecido: Cãibras lombares/dor* Doenças do metabolismo e da nutrição Frequentes: Hipercolesterolémia Pouco frequentes: Hipercalcémia superior a 2,76 mmol/l, Hiperuricemia Raros: Hipercalcémia superior a 3,25 mmol/l Vasculopatias Frequentes: Hipotensão Perturbações gerais e alterações no local de administração Frequentes: Fadiga, Dor torácica, Astenia, Reacções ligeiras e transitórias nos locais da injecção, incluindo dor, edema, eritema, equimose localizada, prurido e hemorragia minor no local da injecção. Pouco frequentes: Eritema no local da injecção, Reacção no local da injecção Raros: Possíveis acontecimentos alérgicos logo após a injecção: dispneia aguda, edema oro/facial, urticária generalizada, dor torácica, edema (principalmente periférico). Perturbações do foro psiquiátrico Frequentes: Depressão* Foram notificados casos graves de cãibras lombares ou dor nos minutos a seguir à injecção.
+ Foram notificadas as seguintes reacções em estudos clínicos, com uma diferença ≥1% de diferença na frequência relativamente ao placebo: vertigens, náuseas, dor nos membros, tonturas, depressão, dispneia.
+ FORSTEO aumenta as concentrações séricas do ácido úrico. Em estudos clínicos, 2,8% dos doentes tratados com FORSTEO tinham concentrações de ácido úrico no soro acima do limite superior do normal comparado com 0,7% dos doentes tratados com placebo. Contudo, a hiperuricémia não provocou um aumento de gota, de artralgias ou de urolitíase.
+ Num estudo clínico de grandes dimensões, foram detectados anticorpos que tiveram uma reacção cruzada com teriparatida em 2,8% das mulheres a tomar FORSTEO. De um modo geral, os anticorpos foram inicialmente detectados após 12 meses do tratamento e diminuíram após retirar a terapêutica.
+ 5 Não houve evidência de reacções de hipersensibilidade, reacções alérgicas, efeitos no cálcio sérico ou efeitos na resposta da DMO (densidade mineral óssea).
+ 4.9 Sobredosagem Sinais e sintomas Não foram notificados casos de sobredosagem durante os estudos clínicos. FORSTEO tem sido administrado em doses únicas até 100 microgramas e em doses repetidas até 60 microgramas/dia, durante 6 semanas.
+ Os efeitos de sobredosagem que poderão ser verificados, incluem, hipercalcémia retardada, e risco de hipotensão ortostática. Náusea, vómitos, tonturas e cefaleias podem também ocorrer.
+ Experiência de sobredosagem com base em notificações espontâneas pós-comercialização: Em notificações espontâneas pós-comercialização, houve casos de erros de medicação em que foi administrado, numa única dose, o conteúdo completo da caneta de teriparatida (até 800 µg). Os acontecimentos transitórios notificados incluem náusea, fraqueza/letargia e hipotensão. Nalguns casos, não se verificaram quaisquer acontecimentos como resultado da sobredosagem. Não foram relatadas mortes associadas a sobredosagem.
+ Tratamento da sobredosagem: Não existe um antídoto específico para FORSTEO. O tratamento de suspeita de sobredosagem deverá incluir uma interrupção transitória de FORSTEO, monitorização do cálcio sérico e implementação de medidas de suporte apropriadas, tais como hidratação.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo Farmacoterapêutico: hormonas paratiroideias e análogos. Código ATC: H05 AA03
+ Mecanismo de acção: A Hormona Paratiroideia endógena de 84 aminoácidos (PTH) é o regulador primário do metabolismo do cálcio e do fosfato a nível ósseo e renal. FORSTEO (rhPTH(1-34 )) é o fragmento (1-34) activo da hormona paratiroideia humana endógena. Acções fisiológicas da PTH incluem a estimulação da formação óssea, através de uma acção directa sobre as células formadoras de osso (osteoblastos), aumentando indirectamente a absorção intestinal de cálcio, assim como, aumentando a reabsorção tubular de cálcio e excreção de fosfato pelo rim.
+ Efeitos farmacodinâmicos FORSTEO é um agente formador de osso para tratamento da osteoporose. Os efeitos de FORSTEO a nível do esqueleto dependem de como se processa a exposição sistémica. Uma administração diária de FORSTEO aumenta a deposição de osso novo sobre as superfícies de osso trabecular e cortical por estimulação preferencial da actividade osteoblástica sobre a actividade osteoclástica.
+ Eficácia Clínica Factores de risco Devem ser considerados factores de risco independentes, por exemplo, uma baixa densidade mineral óssea (DMO), idade, existência prévia de fracturas, antecedentes familiares de fracturas da anca, elevada remodelação óssea e baixo índice de massa corporal, de modo a identificar as mulheres e os homens com risco aumentado de fracturas osteoporóticas que poderão vir a beneficiar com o tratamento.
+ 6 Mulheres pré-menopáusicas com osteoporose induzida por glucocorticóides devem considerar-se em risco elevado de fractura se tiverem prevalência de uma fractura ou uma combinação de factores de risco que as possam colocar em risco elevado de fractura (p. ex. uma baixa densidade mineral óssea[ p. ex: um índice T≤-2], uma terapêutica continuada com glucocorticóides em doses elevadas[ p. ex. ≥7,5 mg/dia durante pelo menos 6 meses], uma actividade elevada da doença subjacente, baixos níveis de esteróides.
+ Osteoporose pós-menopáusica: O estudo fundamental incluiu 1637 mulheres pós-menopáusicas (idade média 69,5 anos). No basal, noventa por cento dos doentes apresentavam uma ou mais fracturas vertebrais e em média, a DMO vertebral foi de 0,82 g/cm2 (equivalente a um índice T=-2,6). Todos os doentes receberam 1000 mg de cálcio por dia e pelo menos 400 UI de vitamina D por dia. Os resultados de um período de tratamento até 24 meses (mediana de 19 meses) com FORSTEO, demonstram uma redução de fracturas estatisticamente significativa (Tabela 4). Onze mulheres necessitariam de ser tratadas por um período mediano de 19 meses, de modo a prevenir uma ou mais novas fracturas vertebrais.
+ Tabela 4 Incidência de Fracturas em Mulheres Pós-menopáusicas:
+ Placebo FORSTEO Risco Relativo (N=544) (%)
+ (N=541) (%)
+ (95% CI)
+ vs. placebo 5,0 b
+ Nova fractura vertebral a
+ 14,3 0,35 (0,22; 0,55) (≥1) 1,1 b
+ Fracturas vertebrais 4,9 0,23 múltiplas (≥2) a
+ 2,6% d (0,09; 0,60)
+ Fracturas não-vertebrais c
+ 5,5% 0,47 de fragilidade
+ 1, 5% d (0,25, 0,87)
+ Fracturas não-vertebrais major de fragilidade c (anca, rádio, úmero, costelas e pélvis)
+ 3,9% 0,38 (0,17, 0,86 Abreviaturas: N= número de doentes aleatoriamente incluídos em cada grupo de tratamento; CI= Intervalo de Confiança a A incidência de fracturas vertebrais foi avaliada em 448 doentes a tomar placebo e 444 doentes a tomar Forsteo os quais fizeram radiografias à coluna no início e durante o tratamento. b p≤0,001 comparado com placebo c Não ficou demonstrada uma redução significativa na incidência de fracturas da anca d p≤0,025 comparado com placebo
+ Após 19 meses de tratamento (mediana), a densidade mineral óssea (DMO), aumentou na zona da coluna lombar e no total da anca, em cerca de 9% e 4%, respectivamente, quando comparado com placebo (p &lt; 0,001).
+ Eficácia Pós-tratamento: após tratamento com FORSTEO,1262 mulheres pós-menopáusicas do ensaio principal, participaram num estudo de seguimento, pós-tratamento. O objectivo principal do estudo foi o de recolher dados de segurança de FORSTEO. Durante este período observacional, foram permitidos outros tratamentos para a osteoporose e foi efectuada uma avaliação adicional das fracturas vertebrais.
+ Durante uma mediana de 18 meses após a interrupção do tratamento com FORSTEO, verificou-se uma redução de 41% (p= 0,004) comparativamente com placebo no número de doentes com um mínimo de uma nova fractura vertebral.
+ 7 Num estudo clínico aberto,503 mulheres pós-menopáusicas com osteoporose grave e uma fractura de fragilidade nos 3 anos anteriores (83%) que tinham recebido terapêutica prévia para a osteoporose, foram tratadas com FORSTEO durante um período máximo de 24 meses, Aos 24 meses, o aumento médio desde o início do estudo da DMO na coluna lombar, anca total e colo femoral foi de 10,5%, 2,6% e 3,9%, respectivamente. O aumento médio da DMO entre 18 e 24 meses foi de 1,4%, 1,2% e 1,6% na coluna lombar, anca total e colo femoral, respectivamente.
+ Osteoporose Masculina: 437 doentes do sexo masculino (idade médias 58,7 anos) com osteoporose hipogonadal (definida por uma baixa testosterona livre matinal ou FSH ou LH elevados) ou osteoporose idiopática foram incluídos num estudo clínico. No basal, os índices-T da densidade mineral óssea da coluna e do colo do fémur, foram-2.2 e-2.1, respectivamente. No início do estudo,35% dos doentes tinham uma fractura vertebral e 59% tinham uma fractura não vertebral.
+ Todos os doentes receberam 1000 mg de cálcio e pelo menos 400 UI de vitamina D por dia. A DMO da coluna lombar aumentou significativamente aos 3 meses. Após 12 meses, a DMO, aumentou na coluna lombar e no total da anca em cerca de 5% e 1%, respectivamente, comparativamente com placebo. No entanto, não ficou demonstrado um efeito significativo nos índices de fracturas.
+ Osteoporose induzida por glucocorticóides
+ A eficácia de Forsteo em mulheres e homens (N=428) a receberem terapêutica sustentada sistémica com glucocorticóides (equivalente a 5 mg ou superior de prednisona durante pelo menos 3 meses), ficou demonstrada na primeira fase de 18 meses do estudo clínico de 36 meses, aleatorizado, duplamente cego, controlado por comparador (alendronato 10 mg/dia). Vinte e oito por cento dos doentes tiveram uma ou mais fracturas no início do estudo clínico. Todos os doentes tomaram 1000 mg de cálcio por dia e 800 UI de vitamina D por dia.
+ Este estudo incluiu mulheres pós-menopáusicas (N=277), mulheres pré-menopáusicas (N=67) e homens (N=83). No início do estudo clínico as mulheres tinham uma média de idades de 61 anos, um índice T médio de DMO medular de-2,7, uma prednisona média equivalente a uma dose de 7,5 mg/dia e 34% tinham uma ou mais fracturas vertebrais radiográficas; as mulheres pré-menopáusicas tinham uma média de idades de 37 anos, um índice T médio de DMO medular de-2,5, uma prednisona média equivalente a uma dose de 10 mg/dia e 9% tinham uma ou mais fracturas vertebrais radiográficas; os homens tinham uma média de idades de 57 anos, um índice T médio de DMO medular de-2,2, uma prednisona média equivalente a uma dose de 10 mg/dia e 24% tinham uma ou mais fracturas vertebrais radiográficas.
+ Sessenta e nove por cento dos doentes completaram a primeira fase de 18 meses. No final dos 18 meses, FORSTEO aumentou significativamente a DMO medular média (7,2%) comparativamente com o alendronato (3,4%) (p &lt; 0,001). FORSTEO aumentou a DMO total da anca (3,6%) comparativamente com alendronato (2,2%) (p &lt; 0,01), assim como a cabeça femoral (3,7%) comparativamente com alendronato (2,1%) (p &lt; 0,05). Em doentes tratados com teriparatida, a DMO da coluna lombar, anca total e colo femoral aumentou entre 18 e 24 meses em mais 1,7%, 0,9% e 0,4%, respectivamente.
+ Aos 36 meses, uma análise das radiografias da coluna de 169 doentes a tomarem alendronato e 173 doentes a tomarem FORSTEO mostraram que 13 doentes no grupo do alendronato (7,7%) tiveram uma nova fractura vertebral comparativamente a 3 doentes no grupo do FORSTEO (1,7%) (p=0,01). Além disso 15 das 214 doentes no grupo do alendronato (7%) experimentaram uma fractura não vertebral comparativamente com 16 das 214 doentes no grupo do FORSTEO (7,5%) (p=0,84).
+ Em mulheres pré-menopáusicas, o aumento da DMO desde o início do estudo clínico até ao final dos 18 meses foi significativamente superior no grupo de FORSTEO comparativamente com o grupo de alendronato na coluna lombar (4,2% versus-1,9%; p &lt; 0,001) e anca total (3,8% versus 0,9%; p=0,005). No entanto, não ficou demonstrado um efeito significativo nos índices de fracturas.
+ 8 5.2 Propriedades farmacocinéticas
+ FORSTEO é eliminado através de depuração hepática e extra-hepática (aproximadamente 62 l/h em mulheres e 94 l/h em homens). O volume de distribuição é de aproximadamente 1,7 l/kg. A semi-vida de FORSTEO é de aproximadamente 1 hora quando administrado por via subcutânea, o que reflecte o tempo necessário para a absorção no local da injecção. Não foram efectuados estudos de excreção e de metabolismo com FORSTEO, mas acredita-se que o metabolismo periférico da hormona paratiroideia ocorre predominantemente no fígado e no rim.
+ Características dos Doentes: Geriátricos Não foram detectadas diferenças na farmacocinética de FORSTEO relativamente à idade (dos 31 aos 85 anos). Não é necessário o ajuste da dose baseada na idade.
+ 5.3 Dados de segurança pré-clínica A teriparatida não foi genotóxica numa bateria de testes padrão. Não produziu efeitos teratogénicos em ratos, murganhos ou coelhos. Não se observaram efeitos importantes em ratos fêmeas grávidas ou em ratinhos aos quais se administraram teriparatida em doses diárias entre 30 a 1000 µg/kg. No entanto, ocorreu reabsorção fetal e redução da ninhada em coelhos fêmeas grávidas às quais se administraram doses diárias de 3 a 100 µg/kg. A embriotoxicidade observada em coelhos pode estar relacionada com a muito maior sensibilidade aos efeitos de PTH no cálcio ionizado no sangue comparativamente aos roedores.
+ Ratos tratados, ao longo de praticamente toda a vida, com injecções diárias, apresentaram formação exagerada de osso e aumento da incidência de osteosarcoma, dose dependente, muito provavelmente devida a um mecanismo epigenético. A teriparatida não aumentou a incidência de qualquer outro tipo de neoplasia em ratos. Devido às diferenças na fisiologia do osso dos ratos e dos humanos, a relevância clínica destes achados é provavelmente minor. Não foram detectados tumores ósseos em macacos ooforectomizados, tratados durante 18 meses ou durante um período de 3 anos de seguimento após o final do tratamento. Além disso, não se observaram osteosarcomas nos estudos clínicos ou durante o estudo de seguimento pós-tratamento.
+ Estudos animais demonstraram que uma redução do fluxo sanguíneo hepático, diminui a exposição de PTH ao sistema principal de clivagem (células de Kupffer) e consequentemente a depuração de PTH (1-84).
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Ácido acético glacial Acetato de sódio (anidro) Manitol Metacresol Ácido clorídrico Hidróxido de sódio Água para preparações injectáveis.
+ Soluções de ácido clorídrico e/ou de hidróxido de sódio, podem ter sido adicionadas para ajustar o pH.
+ 9 6.2 Incompatibilidades
+ Dada a ausência de estudos de compatibilidade, este medicamento não deverá ser tomado com outros medicamentos.
+ 6.3 Prazo de Validade 2 anos A estabilidade química, física e microbiológica do produto em uso, ficou demonstrada para 28 dias a 2°C-8°C. Após a primeira administração, o produto deve ser conservado durante um máximo de 28 dias entre 2ºC a 8ºC. Quaisquer outras condições de conservação do produto em uso, são da responsabilidade do utilizador.
+ 6.4 Precauções especiais de conservação
+ Conservar sempre no frigorífico (2ºC a 8ºC). A caneta deve ser colocada no frigorífico imediatamente após utilização. Não congelar.
+ Não guardar a caneta com a agulha colocada.
+ 6.5 Natureza e conteúdo do recipiente 2,4 ml de solução em cartucho (vidro tipo I com silicone) com um êmbolo (borracha halobutílica), selo (borracha de poli-isopreno/bromobutil, laminado)/alumínio numa caneta descartável.
+ FORSTEO está disponível em embalagens com uma ou três canetas. Cada caneta contém 28 doses de 20 microgramas (por 80 microlitros).
+ É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais de eliminação FORSTEO está disponível em caneta pré-cheia. Cada caneta deve ser utilizada por um só doente .. Para cada injecção é necessário uma agulha nova, estéril. Cada embalagem de FORSTEO é fornecida com um Manual do Utilizador que descreve duma forma detalhada como utilizar a caneta. Não são fornecidas agulhas com a caneta. A caneta pode ser utilizada com as com as agulhas para canetas de insulina Após cada injecção, a caneta FORSTEO deve voltar a ser guardada no frigorífico.
+ FORSTEO não deve ser utilizado caso a solução esteja turva, com cor ou contenha partículas sólidas.
+ Por favor consulte o Manual do Utilizador para instruções sobre como utilizar a caneta.
+ Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Eli Lilly Nederland B. V, Grootslag 1-5, NL-3991 RA Houten, Holanda
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/03/247/001-002 10 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 10 Junho 2003
+ 10. DATA DA REVISÃO DO TEXTO 11 ANEXO II
+ A. FABRICANTE(S) DA SUBSTÂNCIA(S) ACTIVA(S) DE ORIGEM BIOLÓGICA E TITULAR(ES) DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 12 A. FABRICANTE(S) DA(S) SUBSTÂNCIA(S) ACTIVA(S) DE ORIGEM BIOLÓGICA E TITULAR(ES) DE AUTORIZAÇÃO DE FABRICO RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do(s) fabricante(s) da(s) substância(s) activa(s) de origem biológica
+ Eli Lilly and Company, Lilly Technology Center, Indianapolis, Indiana 46285, Estados Unidos da América
+ Nome e endereço do(s) fabricante(s) responsável(veis) pela libertação do lote
+ Lilly France S. A., rue du colonel Lilly,67640 Fegersheim, França
+ Lilly S. A., Avda. de la Industria 30,28108 Alcobendas (Madrid), Espanha.
+ O folheto informativo que acompanha o medicamento deve mencionar o nome e endereço do fabricante responsável pela libertação do lote em causa.
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E À UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento sujeito a receita médica. • CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ Não aplicável • OUTRAS CONDIÇÕES
+ O titular da Autorização de Introdução no Mercado compromete-se a submeter os Relatórios Periódicos de Segurança anualmente.
+ Plano de Gestão de Risco O titular da AIM compromete-se a efectuar os estudos e actividades adicionais de farmacovigilância detalhados no Plano de Farmacovigilância, tal como acordado na versão n. 2.5 datada de 17 de Janeiro de 2008 do Plano de Gestão de risco (RMP) apresentado no Módulo 1. 8.2 da Autorização de Introdução no Mercado e quaisquer outras actualizações subsequentes ao RMP acordadas com o CHMP.
+ De acordo com as normas orientadoras do CHMP sobre os Sistemas de Gestão de Risco para medicamentos de uso humano, o RMP actualizado deve ser submetido ao mesmo tempo que o próximo Relatório Periódico de Segurança (RPS).
+ Além disso, deve ser submetido uma actualização ao Plano de Gestão de Risco: • Quando for recebida nova informação que possa ter impacto nas actuais especificações de Segurança, no Plano de Farmacovigilância ou nas actividades de minimização do risco • No prazo de 60 dias após um importante marco (farmacovigilância ou minimização do risco) • A pedido da EMEA
+ 13 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 14 A. ROTULAGEM
+ 15 INDICAÇÕES A INCLUIR NO ACONDICONAMENTO SECUNDÁRIO
+ TEXTO DA CARTONAGEM EXTERIOR 1. NOME DO MEDICAMENTO FORSTEO 20 microgramas/80 microlitros, solução injectável, em caneta pré-cheia Teriparatida
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada ml contém 250 microgramas de teriparatida
+ 3. LISTA DOS EXCIPIENTES Ácido acético glacial, acetato de sódio (anidro), manitol, 3,0 mg/ml de metacresol (conservante), água para preparações injectáveis. Solução de ácido clorídrico e/ou solução de hidróxido de sódio (conforme apropriado).
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Solução injectável. 1 caneta com 2,4 ml de solução. 3 canetas com 2,4 ml de solução cada.
+ Cada caneta contém 28 doses de 20 microgramas (por 80 microlitros).
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via subcutânea CONSULTAR O FOLHETO INFORMATIVO ANTES DE UTILIZAR
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ Esta é uma caneta com novo formato, por favor leia o manual do utilizador antes de administrar a injecção.
+ 8. PRAZO DE VALIDADE VAL. A caneta deve ser deitada fora 28 dias após a primeira utilização. Data da primeira utilização:
+ 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Conservar no frigorífico 16 Não congelar.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Eli Lilly Nederland B. V. Grootslag 1-5, NL-3991 RA Houten Holanda
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/03/247/001 Ou EU/1/03/247/002 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE FORSTEO 17 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ TEXTO DO RÓTULO 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ FORSTEO 20 microgramas/80 microlitros, solução injectável em caneta pré-cheia Teriparatida Via subcutânea
+ 2. MODO DE ADMINISTRAÇÃO Consulte o folheto informativo antes de utilizar
+ 3. PRAZO DE VALIDADE VAL. 4. NÚMERO DO LOTE Lote 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 2,4 ml 6. OUTRAS Conservar no frigorífico 18 B. FOLHETO INFORMATIVO
+ 19 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ FORSTEO 20 microgramas/80 microlitros, solução injectável, em caneta pré-cheia Teriparatida
+ Leia atentamente este folheto antes de utilizar este medicamento
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode
+ ser-lhes prejudicial mesmo que apresentem os mesmos sintomas
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos
+ secundários não mencionados neste folheto, informe o seu médico ou farmacêutico
+ Neste folheto: 1. O que é FORSTEO e para que é utilizado 2. Antes de tomar FORSTEO 3. Como tomar FORSTEO 4. Efeitos secundários possíveis 5 Como conservar FORSTEO 6. Outras informações
+ 1. O QUE É FORSTEO E PARA QUE É UTILIZADO
+ FORSTEO é utilizado para tornar os ossos mais fortes e para reduzir o risco de fracturas (um agente de formação óssea).
+ Este medicamento é utilizado para o tratamento da osteoporose. A osteoporose é uma doença que faz com que os seus ossos se tornem finos e frágeis. Esta doença é especialmente comum em mulheres após a menopausa, mas também pode ocorrer nos homens. A osteoporose também é comum em doentes a receberem corticosteróides.
+ 2. ANTES DE TOMAR FORSTEO Não tome FORSTEO: • Se tem alergia (hipersensibilidade) à teriparatida ou a qualquer outro componente de FORSTEO. • Se sofre de elevados níveis de cálcio (hipercalcémia pré-existente). • Se sofre de problemas graves de rins. • Se lhe tiver sido diagnosticado cancro ósseo ou outros tipos de cancro que se tenham espalhado (metastizado) nos ossos. • Se tiver certas doenças ósseas. Se tiver uma doença óssea, informe o seu médico. • Se tiver níveis inexplicavelmente elevados de fosfatase alcalina no sangue, o que significa que pode ter doença de Paget. Se não tiver a certeza, pergunte ao seu médico. • Se tiver feito radioterapia que envolva os óssos. • Se estiver grávida ou em aleitamento.
+ FORSTEO não deverá ser utilizado em crianças (com menos de 18 anos de idade) ou em adultos em crescimento.
+ Tome especial cuidado com FORSTEO FORSTEO pode causar um aumento de cálcio no sangue. Informe o seu médico se tiver náuseas persistentes, vómitos, obstipação, falta de energia ou fraqueza muscular. Estes sinais podem indicar que você tem demasiado cálcio no sangue.
+ 20 FORSTEO pode causar um aumento da quantidade de cálcio na urina. Informe o seu médico se sofrer de pedra nos rins ou se tiver uma história de pedra nos rins. Informe o seu médico se tiver problemas renais (compromisso renal moderado).
+ Alguns doentes têm tonturas ou ficam com a frequência cardíaca mais rápida após as primeiras doses. Nas primeiras doses, injecte FORSTEO num local onde se possa sentar ou deitar de imediato se ficar com tonturas. A duração do tratamento recomendado de 24 meses, não deve ser ultrapassada.
+ Ao tomar outros medicamentos: Informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica, dado que ocasionalmente estes podem interagir (ex. digoxina/digitálicos, um medicamento utilizado para tratar doenças de coração).
+ Ao utilizar FORSTEO com alimentos e bebidas FORSTEO pode ser administrado com ou sem alimentos
+ Gravidez e aleitamento Não tomar FORSTEO caso esteja grávida ou a amamentar. As mulheres em risco de engravidar deverão utilizar um método contraceptivo eficaz durante a utilização de FORSTEO. Se ocorrer uma gravidez, FORSTEO deve ser interrompido. Consulte o seu médico ou farmacêutico antes de tomar qualquer medicamento.
+ Condução de veículos e utilização de máquinas Alguns doentes podem sentir-se tontos após a injecção de FORSTEO. Se se sentir tonto, não conduza nem utilize máquinas até se sentir melhor.
+ Informações importantes sobre alguns componentes de FORSTEO Este medicamento contém menos de 1 mmol de sódio (23 mg) por dose. Isto significa que é essencialmente “ livre de sódio ”.
+ 3. COMO TOMAR FORSTEO Tome sempre FORSTEO de acordo com as indicações do médico. Fale com o seu médico ou farmacêutico se tiver dúvidas. Nunca partilhe a caneta de FORSTEO com outros.
+ A dose recomendada de FORSTEO é de 20 microgramas, administrada uma vez por dia por injecção debaixo da pele (injecção subcutânea) na coxa ou no abdómen. Para o ajudar a não se esquecer de tomar FORSTEO, injecte-se mais ao menos à mesma hora todos os dias.
+ Tome uma injecção de FORSTEO por dia, durante o período de tempo prescrito pelo seu médico. A duração total do tratamento com FORSTEO não deverá exceder os 24 meses. O tratamento de 24 meses com FORSTEO não deve tornar a repetir-se durante a vida do doente.
+ FORSTEO pode ser injectado à hora das refeições.
+ Consulte o Manual do Utilizador, o qual está incluído na embalagem para instruções sobre o modo de utilizar a caneta FORSTEO.
+ As agulhas não vêm incluídas com a caneta. Pode usar as agulhas para caneta de insulina da Companhia ou da Becton Dickinson.
+ Deverá administrar a injecção de FORSTEO pouco tempo depois de ter retirado a caneta do frigorífico, tal como descrito no Manual do Utilizador. Coloque a caneta de novo no frigorífico, imediatamente após a ter utilizado. Utilize uma agulha nova para cada injecção e desfaça-se dela após cada utilização. Nunca guarde a caneta com a agulha inserida.
+ 21 O seu médico pode aconselhá-lo a tomar FORSTEO com cálcio e vitamina D. O seu médico informa-lo-á da quantidade a tomar diariamente.
+ Se tomar mais FORSTEO do que deveria Se, por engano, tiver tomado mais FORSTEO do que deveria, contacte o seu médico ou farmacêutico.
+ Os efeitos que se podem esperar da sobredosagem incluem náuseas, vómitos, tonturas e dores de cabeça.
+ Caso se tenha esquecido ou não possa tomar FORSTEO no horário habitual, tome assim que possível nesse dia. Não tome uma dose a dobrar para compensar uma dose que se esqueceu de tomar. Não administre mais do que uma injecção no mesmo dia. Não tente compensar uma dose que falhou.
+ Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou farmacêutico.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todos os medicamentos, FORSTEO pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ Os efeitos secundários mais frequentes (afectam mais de 1 utilizador em 10) são: • sentir-se enjoado • dores de cabeça • tonturas e • dores nos membos
+ Efeitos secundários frequentes (1 a10 utilizadores em 100) são: • aumento dos níveis de colesterol no sangue • depressão • dor neuropática na perna • sentir-se desmaiar • batimentos cardíacos irregulares • falta de ar • aumento de sudação • cãibras musculares • perda de energia • cansaço e • dores no peito
+ Efeitos secundários pouco frequentes (1 a 10 utilizadores em 1000) são:
+ • • • • • • • • •
+ aumento dos batimentos cardíacos baixa pressão arterial falta de ar azia (sensação dolorosa de ardor mesmo abaixo do externo) hemorróidas perda acidental ou derrame de urina, aumento da necessidade de urinar, aumento de peso.
+ 22 Outros efeitos secundários pouco frequentes incluem mialgias e artralgias. Algumas pessoas podem experimentar desconforto, como por exemplo, vermelhidão na pele, dor, inchaço, comichão, nódoa negra ou pequeno sangramento à volta do local da injecção. Este sintoma deverá desaparecer dentro de alguns dias ou semanas. Se assim não for, avise o seu médico o mais depressa possível.
+ Caso sinta tonturas (a cabeça leve) após a injecção, deverá deitar-se ou sentar-se até sentir melhoras. Caso não sinta melhoras, deverá chamar um médico antes de continuar com o tratamento.
+ Alguns doentes tratados com FORSTEO tiveram um aumento nos seus níveis de cálcio no sangue.
+ Efeitos secundários raros (afectam 1 a 10 em 10.000): alguns doentes tiveram reacções alérgicas logo após a injecção, que consistiram em falta de ar, inchaço da face, erupção cutânea e dores no peito.
+ Outros efeitos secundários raros incluem inchaço, principalmente nas mãos, pés e pernas.
+ Alguns doentes tiveram cãibras graves nas costas, as quais levaram a hospitalização.
+ FORSTEO também pode causar um aumento numa enzima chamada fosfatase alcalina.
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5 COMO CONSERVAR FORSTEO Manter fora do alcance e da vista das crianças.
+ Não utilize FORSTEO após o prazo de validade impresso na embalagem exterior e na caneta.
+ FORSTEO deve ser conservado sempre no frigorífico (2ºC-8ºC). FORSTEO pode ser utilizado até 28 dias após a primeira injecção, desde que a caneta seja guardada no frigorífico (2ºC-8ºC).
+ Não congelar FORSTEO. Evite colocar as canetas perto do congelador para evitar que congelem. Não utilizar FORSTEO caso esteja ou tenha sido congelado.
+ Cada caneta deve ser deitada fora após 28 dias, mesmo que ainda não esteja completamente vazia.
+ FORSTEO contém uma solução incolor e límpida. Não utilizar FORSTEO caso detecte partículas sólidas ou se a solução estiver turva ou com coloração.
+ Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de FORSTEO -A substância activa é teriparatida. Cada ml da solução injectável contém 250 microgramas de
+ teriparatida.
+ -Os outros componentes são ácido acético glacial, acetato de sódio (anidro), manitol, 3,0 mg/ml
+ de metacresol (conservante) e água para preparações injectáveis. Solução de ácido clorídrico e/ou solução de hidróxido de sódio podem ter sido adicionadas para ajuste da acidez.
+ 23 Qual o aspecto de FORSTEO e conteúdo da embalagem FORSTEO é uma solução incolor e límpida para injectar debaixo da pele (via subcutânea). É fornecido num cartucho contido numa caneta pré-cheia descartável. Cada caneta contém 2,4 ml de solução suficiente para 28 doses. As canetas estão disponíveis em embalagens contendo uma ou três canetas. Poderão não estar disponíveis todas as apresentações.
+ Titular da Autorização de Introdução no Mercado e Fabricante Titular da Autorização de Introdução no Mercado: Eli Lilly Nederland B. V., Grootslag 1-5, NL-3991 RA Houten, Holanda Fabricante: Lilly France S. A. S., Rue du Colonel Lilly, F-67640 Fegersheim, França, ou Lilly S. A., Avda. de la Industria 30,28108 Alcobendas (Madrid), Espanha.
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado.
+ België/Belgique/Belgien Eli Lilly Benelux S. A. Tél/Tel:+ 32-(0) 2 548 84 84
+ Luxembourg/Luxemburg Eli Lilly Benelux S. A. Tél/Tel:+ 32-(0) 2 548 84 84
+ България ТП" Ели Лили Недерланд" Б. В.-България тел.+ 359 2 491 41 40
+ Magyarország Lilly Hungária Kft. Tel:+ 36 1 328 5100
+ Česká republika ELI LILLY ČR, s. r. o. Tel:+ 420 234 664 111
+ Malta Charles de Giorgio Ltd. Tel:+ 356 25600 500
+ Danmark Eli Lilly Danmark A/S Tlf:+ 45 45 26 60 00
+ Nederland Eli Lilly Nederland B. V. Tel:+ 31-(0) 30 60 25 800
+ Deutschland Lilly Deutschland GmbH Tel.+ 49-(0) 6172 273 2222
+ Norge Eli Lilly Norge A. S. Tlf:+ 47 22 88 18 00
+ Eesti Eli Lilly Holdings Limited Eesti filiaal Tel:+ 3726817280
+ Österreich Eli Lilly Ges. m. b. H. Tel:+ 43-(0) 1 711 780
+ Ελλάδα ΦΑΡΜΑΣΕΡΒ-ΛΙΛΛΥ Α. Ε. Β. Ε. Τηλ:+ 30 210 629 4600
+ Polska Eli Lilly Polska Sp. z o. o. Tel:+ 48 (0) 22 440 33 00
+ España Elanco Valquímica S. A. Tel:+ 34-91 623-1732
+ Portugal Lilly Portugal-Produtos Farmacêuticos, Lda Tel:+ 351-21-4126600
+ România France Eli Lilly România S. R. L. Lilly France SAS. Tel:+ 40 21 4023000 Tél:+ 33-(0) 1 55 49 34 34
+ Slovenija Ireland Eli Lilly farmacevtska družba, d. o. o Eli Lilly and Company (Ireland) Limited. Tel: +386 (0) 1 580 00 10 Tel:+ 353-(0) 1 661 4377
+ 24 Ísland Eli Lilly Danmark A/S, Útibú á Íslandi Sími:+ 354 520 34 00 Itália Eli Lilly Italia S. p. A. Tel:+ 39-055 42571
+ Slovenská republika Eli Lilly Slovakia, s. r. o. Tel:+ 421-220 663 111 Suomi/Finland Oy Eli Lilly Finland Ab Puh/Tel:+ 358-(0) 9 85 45 250
+ Κύπρος Phadisco Ltd Τηλ:+ 357 22 715000
+ Sverige Eli Lilly Sweden AB Tel:+ 46-(0) 8 7378800
+ Latvija Eli Lilly Holdings Limited pārstāvniecība Latvijā Tel:+ 371 67364000
+ United Kingdom Eli Lilly and Company Limited Tel:+ 44-(0) 1256 315999
+ Lietuva Eli Lilly Holdings Limited atstovybė Tel.+ 370 (5) 2649600
+ Este folheto foi aprovado pela última vez em{ MM/YYYY}
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu
+ 25 MANUAL DO UTILIZADOR DA CANETA
+ Forsteo ™ FORSTEO,20 microgramas (µg) 80 microlitros, solução injectável em caneta pré-cheia
+ Instruções de Utilização Antes de utilizar a sua nova caneta FORSTEO, leia por favor a secção Instruções de Utilização até ao fim. Siga cuidadosamente todas as instruções quando utilizar a caneta FORSTEO. Leia também o folheto informativo incluso.
+ A sua caneta FORSTEO contém 28 dias de medicação.
+ Componentes da caneta Forsteo* Barra amarela Botão injector preto
+ Lista Corpo Azul Cartucho Tampa branca encarnada
+ com medicamento
+ * Agulhas não incluidas. Podem utilizar-se agulhas
+ Lingueta Capa grande de protecção para canetas da Becton,
+ de papel
+ Agulha da agulha
+ Dickinson and Company tamanho 29 a 31 (diâmetro 0, 25-0,33 mm) e podem utilizar-se agulhas de comprimento 12,7,8 ou 5
+ Pequena protecção da agulha mm. Pergunte ao seu profissional de saúde qual o diâmetro e comprimento da agulha que é melhor para si.
+ Lave sempre as mãos antes de cada injecção. Prepare o local da injecção de acordo com as instruções do seu profissional de saúde.
+ 1 Retire a tampa branca Capa grande de 2 protecção da agulha cover Enrosque uma agulha nova
+ Retire a lingueta de papel
+ Aplique a agulha no cartucho do medicamento, empurrando até ao fim.
+ Enrosque a agulha até estar completamente enroscada
+ Retire a capa grande de protecção da agulha e guarde-a
+ 26 Lista 3 encarnada Marque a dose
+ Pequena protecção da agulha Puxe o botão Verifique Retire a pequena injector preto para fora até parar.
+ se vê a lista encarnada
+ protecção da agulha e deite-a fora
+ Se não conseguir puxar o botão preto para fora, veja “ Problemas com a marcação da dose ”, Problema E
+ 4 Injecte a dose Dobre ligeiramente a pele na coxa ou no abdómen e espete a agulha directamente na pele.
+ Empurre o botão injector preto até parar. Continue a premir o botão e conte até 5 d-e-v-a-g-a-r. Retire então agulha da pele.
+ 5 IMPORTANTE Após completar
+ Você NÂO DEVE ver a injecção:
+ nenhuma parte da barra
+ Confirme a dose Após retirar a agulha da pele, verifique para ter a certeza que o botão injector preto está completamente para dentro. Se a barra amarela não estiver à vista, você completou correctamente a sua injecção.
+ amarela. Se vir e já tiver completado a injecção, não se injecte uma segunda vez no mesmo dia. Em vez disso, você DEVE remarcar outra vez a caneta FORSTEO (veja Problemas com a marcação da dose – Problema A) ”
+ 27 Capa grande de 6 protecção da agulha Retire a agulha
+ Coloque a capa grande de protecção da agulha na agulha.
+ Desenrosque a agulha até ao fim, dando à capa grande de protecção da agulha 3 a 5 voltas completas.
+ Retire a agulha e deite-a fora conforme indicado pelo seu profissional de saúde.
+ Coloque outra vez a tampa branca. Guarde FORSTEO no frigorífico imediatamente após a sua utilização.
+ 28 Forsteo™ FORSTEO,20 microgramas (µg) 80 microlitros de solução injectável, em caneta pré-cheia
+ Resolução de Problemas Problema A. A barra amarela ainda está à vista
+ Solução Para remarcar a FORSTEO, siga os passos descritos abaixo. 1) Se já fez a injecção, NÃO se injecte uma segunda vez no mesmo dia. 2) Retire a agulha.
+ depois de eu empurrar o botão injector preto. Como volto a remarcar a minha FORSTEO?
+ 3) Enrosque uma agulha nova, retire a capa grande de protecção da agulha e guarde-a. 4) Puxe o botão injector preto para fora até parar. Verifique se vê a lista encarnada 5) Retire a pequena protecção da agulha e deite-a fora. 6) Aponte a agulha para dentro de um contentor vazio. Empurre o botão injector preto até parar. Continue a premir o botão e conte até 5 d-e-v-a-g-a-r. Poderá ver um pequeno fluxo ou algumas gotas. Quando tiver terminado, o botão injector preto deve estar todo metido para dentro. 7) Se ainda vir a barra amarela, contacte o seu profissional de saúde. 8) Coloque a capa grande de protecção da agulha na agulha. Desenrosque a agulha completamente dando à capa grande de protecção da agulha 3 a 5 voltas completas. Puxe a protecção da agulha e deite-a fora conforme o seu profissional de saúde lhe ensinou. Coloque outra vez a tampa branca e guarde FORSTEO no frigorífico Você pode evitar este problema utilizando sempre uma agulha NOVA para cada injecção e empurrando o botão injector preto até ao fim e contando até 5 d-e-v-a-g-ar.
+ B. Como sei se a minha FORSTEO
+ A FORSTEO está desenhada para injectar uma dose completa de cada vez que é utilizada de acordo com as indicações da secção “ Instruções de Utilização ”. O
+ funciona?
+ botão injector preto estará completamente metido para dentro para mostrar que a dose completa foi administrada pela FORSTEO.
+ Para ter a certeza de que a sua FORSTEO funciona adequadamente, lembre-se de utilizar uma nova agulha de cada vez que se injectar.
+ Uma pequena bolha de ar não vai afectar a sua dose C. Vejo uma bolha de nem será prejudicial para si. Pode continuar a ar na minha administrar a sua dose como habitualmente. FORSTEO.
+ 1) Coloque a capa grande de protecção da D. Não consigo agulha. retirar a agulha 2) Utilize a capa grande de protecção da agulha
+ 29 para desenroscar a agulha. 3) Desenrosque a agulha completamente, dando à capa grande de protecção da agulha 3 a 5 voltas completas. 4) Se mesmo assim não conseguir retirar a agulha, peça a alguém que o ajude.
+ Mude para uma nova FORSTEO para administrar a E. O que devo fazer sua dose conforme o seu profissional de saúde lhe se não conseguir ensinou. puxar o botão injector preto para fora?
+ Isto indicará que você já esgotou todo o medicamento que pode ser injectado correctamente, embora ainda possa ver algum resto de medicação no cartucho.
+ Limpeza e conservação Limpeza da sua FORSTEO • Limpe a parte exterior da sua FORSTEO com um pano húmido .. • Não ponha a FORSTEO dentro de água, nem a lave ou limpe com qualquer líquido.
+ Conservação da sua FORSTEO • Coloque a FORSTEO no frigorífico imediatamente após cada utilização. Leia e siga as instruções descritas no Folheto Informativo para o Doente sobre Como Conservar a sua medicação. • Não guarde a FORSTEO com a agulha enroscada, pois isso pode causar a formação de bolhas de ar no cartucho do medicamento • Guarde a FORSTEO com a tampa branca colocada. • Nunca guarde a FORSTEO no congelador. • Se o medicamento foi congelado, deite fora a caneta e utilize uma nova FORSTEO • Se a FORSTEO ficou fora do frigorífico, não a deite fora. Volte a colocá-la no frigorífico e contacte o seu profissional de saúde.
+ Como deitar fora as agulhas e a caneta Deitar fora as agulhas e a caneta FORSTEO • Antes de deitar fora a caneta FORSTEO, certifique-se que retirou a agulha. • Deite fora a sua FORSTEO e as agulhas usadas conforme o seu profissional de saúde lhe ensinou. • Deite fora a caneta 28 dias após a primeira utilização.
+ Outras Notas importantes • A FORSTEO contém 28 dias de medicação • Não transfira o medicamento para uma seringa. • Aponte num calendário a data da sua primeira injecção. • Leia e siga as instruções no Folheto Informativo para o doente sobre como utilizar o medicamento. • Verifique o rótulo da FORSTEO para se certificar que tem o medicamento correcto e que não está fora do prazo de validade. • Contacte o seu profissional de saúde se notar alguma das seguintes situações:
+ -A FORSTEO aparecer danificada
+ -O medicamento NÃO estiver límpido, incolor e sem partículas
+ • Utilize uma agulha nova para cada injecção • Durante a injecção, poderá ouvir um ou mais “ clicks ” – isso é uma funcionalidade normal da caneta. • Não partilhe o seu medicamento • Não é recomendada a utilização de FORSTEO por cegos ou pessoas com dificuldades de
+ 30 visão sem a assistência de uma pessoa treinada na utilização correcta da caneta. • Mantenha FORSTEO longe do alcance e da vista das crianças
+ Fabricada por Lilly France, F-67640 Fegersheim, França para a Eli Lilly and Company.
+ 31

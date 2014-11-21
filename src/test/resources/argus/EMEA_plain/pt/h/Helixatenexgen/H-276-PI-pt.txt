@@ -1,0 +1,1009 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. NOME DO MEDICAMENTO
+ Helixate NexGen 250 UI Pó e solvente para solução injectável.
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Factor VIII recombinante de coagulação,250 UI/frasco para injectáveis. DCI.: octocog alfa. O factor VIII recombinante de coagulação é produzido por engenharia genética a partir de células renais de hamster recém-nascido que contêm o gene humano do factor VIII.
+ Solvente: água para preparações injectáveis.
+ O produto reconstituído com os 2,5 ml de água para preparações injectáveis que o acompanham contém aproximadamente 100 UI de octocog alfa/ml.
+ A potência (UI) é determinada empregando o doseamento da coagulação em um estágio contra o Mega padrão da FDA que foi calibrado contra o padrão da OMS em UI. A actividade específica é de aproximadamente 4000 UI/mg de proteína.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Pó e solvente para solução injectável. O pó é fornecido num frasco para injectáveis, na forma de pó ou pastilha de cor branca a ligeiramente amarelada. O solvente é água para preparações injectáveis são fornecidos num frasco para injectáveis.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Tratamento e profilaxia de hemorragias em doentes com hemofilia A (deficiência congénita de factor VIII).
+ Esta preparação não contém o factor von Willebrand, pelo que não está indicada na doença de von Willebrand.
+ 4.2 Posologia e modo de administração O tratamento deve ser iniciado sob a supervisão de um médico com experiência no tratamento da hemofilia.
+ Posologia O número de unidades de factor VIII administradas é expresso em unidades internacionais (UI), relacionadas com o actual padrão da OMS para medicamentos com factor VIII. A actividade do factor VIII no plasma é expressa quer em percentagem (em relação ao valor normal no plasma humano) ou em unidades internacionais (relativamente a um padrão internacional para o factor VIII no plasma). Uma Unidade Internacional (UI) de actividade de factor VIII é equivalente à quantidade de factor VIII em um ml de plasma humano normal. O cálculo da posologia necessária de factor VIII baseia-se na observação empírica de que 1 Unidade Internacional (UI) de factor VIII por kg de peso corporal eleva
+ 2 a actividade plasmática de factor VIII em 1,5% a 2,5% da actividade normal. A posologia necessária é determinada empregando as seguintes fórmulas:
+ I. UI necessárias= peso corporal (kg) x aumento desejado do factor VIII (% do normal) x 0,5
+ II. Aumento previsto do factor VIII (% do normal)= 2 x UI administradas Peso corporal (kg)
+ A posologia e duração da terapêutica de substituição devem ser determinadas individualmente, de acordo com as necessidades do doente (peso corporal, grau de perturbação da função hemostática, local e extensão da hemorragia, o título dos inibidores e o nível de factor VIII desejado).
+ O quadro seguinte apresenta um guia para os níveis sanguíneos mínimos de factor VIII. No caso das situações hemorrágicas indicadas, a actividade do factor VIII não deve ser inferior ao nível indicado (em% do normal) no decurso do período correspondente:
+ 3
+ Grau de hemorragia/Tipo de procedimento cirúrgico Hemorragia
+ Nível requerido de actividade do factor VIII (%) (UI/dl)
+ Frequência das doses (horas)/Duração do tratamento (dias)
+ Hemartrose precoce, hemorragia muscular ou hemorragia oral
+ 20-40 Repetir cada 12 a 24 horas. Pelo menos 1 dia, até o episódio hemorrágico estar ultrapassado como indicado pela dor ou estar curado.
+ Hemartrose mais extensa, hemorragia muscular ou hematoma
+ 30-60 Repetir a injecção cada 12-24 horas durante 3-4 dias ou mais até a dor e a incapacidade estarem resolvidas
+ Hemorragias com risco de vida tais como hemorragias intracranianas, hemorragias da garganta, hemorragias abdominais graves Cirurgia
+ 60-100 Repetir a injecção cada 8 a 24 horas até o perigo estar ultrapassado.
+ Minor incluindo extracção dentária
+ 30-60 Cada 24 horas, pelo menos 1 dia, até ser conseguida a cura.
+ Major 80-100 a) Por bólus intravenoso
+ (pré e
+ pós-operatória)
+ Repetir a injecção cada 8-24 horas até cicatrização adequada da ferida, prosseguir com o tratamento durante pelo menos outros 7 dias para manter a actividade do factor VIII nos 30% a 60%. b) Por perfusão contínua Aumentar a actividade pré-cirurgia do factor VIII com uma injecção inicial por bólus intravenoso seguida imediatamente por uma perfusão contínua (em UI/Kg/h), ajustada de acordo com a depuração diária do doente e níveis pretendidos do factor VIII, durante pelo menos 7 dias.
+ Em cada caso individual a quantidade a administrar e a frequência de administração devem ser sempre adaptadas à efectividade clínica. Em algumas circunstâncias poderão ser necessárias quantidades superiores às calculadas, em especial no caso da dose inicial.
+ Durante o curso do tratamento recomenda-se a determinação dos níveis de factor VIII por forma a servir de guia à dose a ser administrada e à frequência e administração das injecções. Em particular no caso de intervenções cirúrgicas major é indispensável a monitorização precisa do tratamento de substituição através de uma análise de coagulação (actividade de factor VIII plasmática). Doentes individuais podem variar na sua resposta ao factor VIII, alcançando níveis diferentes de recuperação in vivo e demonstrando diferentes semi-vidas. Foi demonstrado, num estudo clínico realizado em doentes adultos com hemofilia A sujeitos a cirurgias major, que o Helixate NexGen pode ser utilizado por perfusão contínua em cirurgias (pré-, durante e pós-operatória). Neste estudo, tal como em qualquer outra perfusão contínua de longo termo, a heparina foi utilizada para prevenir tromboflebite no local de injecção. Para o cálculo da taxa de
+ 4 perfusão inicial, a depuração pode ser obtida por realização da curva de decaimento pré-cirurgia, ou utilizando no início os valores médios da população (3, 0-3,5 ml/h/Kg) e depois ajustar de acordo. Taxa de perfusão (em UI/Kg/h)= Depuração (em ml/h/Kg) x nível de factor VIII pretendido (em UI/ml). A estabilidade da perfusão contínua foi demonstrada na prática clínica e in vitro utilizando bombas de perfusão para ambulatório com reservatório em PVC. O Helixate NexGen contém um baixo nível de polissorbato 80 como excipiente, o qual é conhecido por aumentar a taxa de extracção do di-(2-etilhexil) ftalato (DEHP) a partir de materiais de cloreto de polivinilo (PVC). Este facto deve ser considerado para uma administração por perfusão contínua.
+ Para a profilaxia calendarizada contra hemorragias em doentes com hemofilia A grave, devem ser administradas doses de 20 a 60 UI de Helixate NexGen por kg de peso corporal em intervalos de 2 a 3 dias. Em alguns casos, especialmente em doentes jovens podem ser necessários intervalos menores ou doses mais elevadas. Foram obtidos dados de 61 crianças com idade inferior a 6 anos.
+ Doentes com inibidores Os doentes devem ser monitorizados relativamente ao desenvolvimento de inibidores do factor VIII. Se os níveis plasmáticos de actividade de factor VIII não forem atingidos, ou se a hemorragia não for controlada com uma dose adequada, deve efectuar-se um doseamento para determinar se estão presentes inibidores de factor VIII. Se estiverem presentes inibidores em níveis inferiores a 10 Unidades Bethesda (UB) por ml a administração adicional de factor VIII recombinante de coagulação poderá neutralizar o inibidor e permitir a continuação de um tratamento clinicamente efectivo com Helixate NexGen. Contudo, na presença de inibidores, as doses requeridas são variáveis e devem ser ajustadas de acordo com a resposta clínica e com a monitorização da actividade de factor VIII. Nos doentes com títulos de inibidores acima de 10 UB ou com resposta anamnéstica elevada deve considerar-se a utilização de complexo concentrado (activado) de protrombina (CCP) ou de factor VII recombinante activado (rFVIIa). Estes tratamentos devem ser realizados sob supervisão de um médico com experiência no tratamento de doentes com hemofilia.
+ Administração Dissolver a preparação como descrito em na secção 6.6. Helixate NexGen deve ser injectado ao longo de um período de vários minutos por via intravenosa. A velocidade da administração deve ser determinada pelo nível de conforto do doente (velocidade de perfusão máxima: 2 ml/min). Helixate NexGen pode ser administrado por perfusão contínua. A taxa de perfusão deve ser calculada com base na depuração e no nível de factor VIII pretendido. Exemplo: para um doente com 75 Kg de peso corporal (pc) e com uma depuração de 3 ml/h/Kg, a taxa de perfusão inicial para atingir um nível de 100% de factor VIII deverá ser 3 UI/h/Kg. Para calcular ml/hora, multiplicar a taxa de perfusão em UI/h/Kg por Kg pc/concentração da solução (UI/ml).
+ Depuração: 3 ml/h/Kg Nível de FVIII plasmático pretendido
+ Taxa de perfusão UI/h/Kg Taxa de perfusão para um doente com 75 Kg ml/h Concentração da solução de rFVIII 100 UI/ml 200 UI/ml 400 UI/ml
+ 100% (1 UI/ml) 60% (0,6 UI/ml) 40% (0,4 UI/ml)
+ 3,0 1,8 1,2
+ 2,25 1,125 0,56 1,35 0,68 0,34 0,9 0,45 0,225
+ Poderão ser requeridas taxas de perfusão mais elevadas em condições com depuração acelerada durante grandes hemorragias ou dano tecidular extenso durante intervenções cirúrgicas. As taxas de perfusão subsequentes devem ser calculadas com base em níveis de FVIII actuais e depuração recalculada para cada dia pós-cirurgia de acordo com a equação: depuração= taxa de perfusão/nível de FVIII actual.
+ 5 4.3 Contra-indicações
+ Antecedentes de hipersensibilidade à substância activa, às proteínas de ratinho ou hamster ou a qualquer dos excipientes.
+ 4.4 Advertências e precauções especiais de utilização
+ Como acontece com qualquer produto intravenoso contendo proteínas são possíveis reacções de hipersensibilidade do tipo alérgico. Os doentes devem ser avisados de que a potencial ocorrência durante a perfusão de aperto toráxico, tonturas, hipotensão ligeira e náuseas, podem constituir um indício precoce de hipersensibilidade ou de reacções anafilácticas. Deve instituir-se, de acordo com as necessidades, um tratamento sintomático da hipersensibilidade. Caso ocorram reacções alérgicas ou anafilácticas, a injecção/perfusão deve ser interrompida imediatamente e os doentes devem contactar o seu médico. Em caso de choque devem observar-se os actuais procedimentos médicos usados no tratamento do choque.
+ A formação de anticorpos neutralizantes (inibidores) do factor VIII, é uma complicação conhecida do tratamento de indivíduos com hemofilia A. Estes inibidores são invariavelmente imunoglobulinas IgG dirigidas contra a actividade procoagulante do factor VIII, e que são quantificadas em Unidades Bethesda (UB) Modificadas por ml de plasma. O risco de desenvolver inibidores está correlacionado à exposição ao factor VIII anti-hemofílico e a factores genéticos entre outros, apresentando-se num grau mais elevado nos primeiros 20 dias de exposição. Raramente os inibidores podem desenvolver-se após os primeiros 100 dias de exposição. Foram observados casos de recorrência de inibidores (num título baixo) após mudança de um factor VIII recombinante para outro, em doentes previamente tratados com mais de 100 dias de exposição e com antecedentes de desenvolvimento de inibidores. Os doentes tratados com factor VIII de coagulação recombinante devem ser cuidadosamente vigiados quanto ao desenvolvimento de inibidores através de observações clínicas adequadas e de testes laboratoriais. Ver também a secção 4.8 Efeitos indesejáveis.
+ Num estudo clínico acerca do uso de perfusão contínua em cirurgias, a heparina foi utilizada para prevenir tromboflebite no local de injecção, tal como em qualquer outra perfusão contínua de longo termo.
+ No interesse dos doentes recomenda-se que sempre que possível, de cada vez que Helixate NexGen lhes é administrado, seja registado o nome e o número do lote do produto.
+ Este medicamento contém menos de 1 mmol de sódio (23 mg) por frasco para injectáveis, i. e. é essencialmente “ livre de sódio ”.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Desconhecem-se interacções do Helixate NexGen com outros medicamentos.
+ 4.6 Gravidez e aleitamento Não foram realizados em animais quaisquer estudos de reprodução com o Helixate NexGen.
+ Em virtude da raridade da hemofilia A na mulher, não se dispõe de qualquer experiência sobre o uso de Helixate NexGen durante a gravidez e aleitamento. Por este motivo Helixate NexGen só deve ser utilizado durante a gravidez e aleitamento quando a sua indicação for evidente.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Os efeitos de Helixate NexGen sobre a capacidade de conduzir e utilizar máquinas são nulos.
+ 6 4.8 Efeitos indesejáveis
+ Após a administração de Helixate NexGen, observaram-se efeitos adversos ligeiros a moderados em casos raros tal como apresentado no seguinte quadro.
+ Classe de sistema de órgãos MedDRA Doenças do sangue e do sistema linfático Doenças gastrointestinais
+ Termo MedDRA preferido Inibição do Factor VIII Disgeusia Náuseas
+ Perturbações gerais e alterações no local de administração Doenças do sistema imunitário Exames complementares de diagnóstico Doenças do sistema nervoso Afecções dos tecidos cutâneos e subcutâneas
+ Reacção no local de injecção Pirexia Reacção alérgica/anafiláctica Pressão sanguínea anormal Tonturas Prurido Erupções cutâneas
+ A formação de anticorpos neutralizantes do factor VIII (inibidores) constitui uma complicação conhecida no tratamento de indivíduos com hemofilia A. Em estudos com preparações de factor VIII recombinante o desenvolvimento de inibidores foi observado predominantemente em hemofílicos previamente não tratados. Os doentes devem ser cuidadosamente monitorizados para pesquisa de desenvolvimento de anticorpos inibidores, através de observações clínicas e de testes laboratoriais apropriados.
+ Nos estudos clínicos Helixate NexGen foi usado no tratamento de episódios hemorrágicos em 37 doentes préviamente não tratados (PUPs) e em 23 doentes pediátricos minimamente tratados (MTP, definidos como tendo 4 ou menos dias de exposição). Cinco dos 37 (14%) doentes PUP e 4 dos 23 (17%) doentes MTP tratados com Helixate NexGen desenvolveram inibidores: globalmente 6 em 60 doentes (10%) com um título acima de 10 UB e 3 em 60 (5%) com um título abaixo de 10 UB. A mediana do número de dias de exposição no momento da detecção dos inibidores nestes doentes foi de 9 dias (intervalo entre 3-18 dias)
+ A mediana do número de dias de exposição nos estudos clínicos foi de 114 (intervalo: 4-478). Quatro dos cinco doentes que não alcançaram 20 dias de exposição no final do estudo atingiram mais de 20 dias de exposição no seguimento pós-estudo e um deles desenvolveu um baixo título de inibidores. O quinto doente foi perdido no seguimento.
+ Em estudos clínicos com 73 doentes préviamente tratados (PTP, definidos como tendo mais de 100 dias de exposição) seguidos ao longo de quatro anos, não foram observados inibidores de novo.
+ Nos extensos estudos pós-registo com Helixate NexGen, envolvendo mais de 1000 doentes observou-se o seguinte: menos de 0,2% dos PTP desenvolveram inibidores de novo. No subconjunto definido como tendo menos de 20 dias de exposição ao entrar no estudo menos de 11% desenvolveram inibidores de novo.
+ Durante os estudos nenhum dos doentes desenvolveu títulos clinicamente relevantes de anticorpos contra as quantidades residuais de proteínas de ratinho e de hamster presentes na formulação. Contudo, em alguns doentes predispostos há a possibilidade de reacções alérgicas aos constituintes da formulação ex: traços de proteínas de ratinho e hamster (ver secções 4.3 e 4.4).
+ 4.9 Sobredosagem Não foram observados sintomas de sobredosagem com factor VIII recombinante de coagulação.
+ 7 5. PROPRIEDADES FARMACOLÓGICAS
+ 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: factor VIII de coagulação sanguínea, código ATC B02B D02.
+ O complexo factor VIII/von Willebrand (vWF) consiste em duas moléculas (factor VIII e vWF) com diferentes funções fisiológicas. Quando injectado a um doente hemofílico, o factor VIII liga-se ao vWF da circulação do doente. O factor VIII activado actua como cofactor para o factor IX activado, acelerando a conversão de factor X em factor X activado. O factor X activado converte a protrombina em trombina. A trombina converte então o fibrinogénio em fibrina e o coágulo pode formar-se. A hemofilia A é uma doença hereditária, da coagulação sanguínea, ligada ao sexo, que é devida a uma diminuição dos níveis de factor VIII: C e que resulta em hemorragias nas articulações, músculos e órgãos internos, quer espontaneamente quer como resultado de trauma acidental ou cirúrgico. Através da terapêutica de substituição os níveis plasmáticos de factor VIII são aumentados, permitindo desta forma uma correcção temporária da deficiência do factor e uma correcção das tendências hemorrágicas.
+ A determinação do tempo parcial de tromboplastina activada (aPTT) constitui um método convencional de doseamento in vitro para a avaliação da actividade biológica do factor VIII. O aPTT apresenta-se prolongado em todos os hemofílicos. O grau e normalização de duração da aPTT observado após a administração do Helixate NexGen é semelhante ao conseguido com o factor VIII derivado do plasma.
+ 5.2 Propriedades farmacocinéticas A análise de todas as recuperações registadas in vivo em doentes previamente tratados demonstrou uma elevação média de 2% por UI/kg de peso corporal para o Helixate NexGen. Este resultado é semelhante aos valores relatados para o factor VIII derivado do plasma humano.
+ Após a administração de Helixate NexGen, a redução do pico de actividade do factor VIII processou-se segundo um factor exponencial bifásico, com uma semi-vida terminal média de cerca de 15 horas. Esta é semelhante à do factor VIII derivado do plasma, que apresenta uma semi-vida terminal média de aproximadamente 13 horas. Parâmetros farmacocinéticos adicionais para o Helixate NexGen para injecção por bólus i. v são: tempo médio de residência[ (TMR (0-48)] de cerca de 22 horas e uma depuração de cerca de 160 ml/h. A depuração média na linha basal para 14 doentes adultos sujeitos a cirurgias major com perfusão contínua é de 188 ml/h correspondendo a 3,0 ml/h/Kg (intervalo de 1,6-4,6 ml/h/Kg).
+ 5.3 Dados de segurança pré-clínica Não foi possível demonstrar quaisquer efeitos tóxicos agudos ou subagudos do Helixate NexGen em animais de laboratório (ratinho, rato, coelho e cão), mesmo quando se administram doses múltiplas da dose clínica recomendada (em função do peso corporal).
+ Não foram realizados quaisquer estudos específicos com a administração repetida de octocog alfa, nomeadamente sobre a toxicidade na reprodução, toxicidade crónica e carcinogenicidade, devido à resposta imunitária às proteínas heterólogas presentes em todas as espécies de mamíferos não humanos.
+ Não foram realizados estudos sobre o potencial mutagénico do Helixate NexGen uma vez que não foi detectado qualquer potencial mutagénico tanto in vitro como in vivo para o produto predecessor do Helixate NexGen.
+ 8 6. INFORMAÇÕES FARMACÊUTICAS
+ 6.1. Lista dos excipientes Pó Glicina Cloreto de sódio Cloreto de cálcio Histidina Polissorbato 80 Sacarose
+ Solvente Água para preparações injectáveis
+ 6.2 Incompatibilidades Este medicamento não deve ser misturado com outros medicamentos ou solventes. Apenas podem ser usados os conjuntos de administração fornecidos pois pode ocorrer falha do tratamento como consequência da adsorção do factor VIII de coagulação humano às superfícies internas de alguns equipamentos de perfusão.
+ 6.3 Prazo de validade 30 meses. O produto deve ser utilizado imediatamente após reconstituição. No entanto, foram demonstradas estabilidade química e física durante a utilização a 30ºC por um período de 48 horas.
+ 6.4 Precauções especiais de conservação
+ Conservar no frigorífico (2°C – 8°C). Não congelar. Manter os frascos para injectáveis dentro da embalagem exterior para proteger da luz.
+ Quando mantido dentro da embalagem exterior o produto pode ser conservado à temperatura ambiente (até 25°C) por um período limitado até 3 meses. Neste caso, o produto perde a validade ao fim de 3 meses; a nova data de validade deve ser anotada na parte superior da embalagem.
+ Após a reconstituição não refrigerar. Para administração única. Restos de solução não usada devem ser eliminados.
+ Para as condições de conservação do medicamento reconstituído ver a secção 6.3.
+ 6.5 Natureza e conteúdo do recipiente Cada embalagem de Helixate NexGen contém: • Um frasco para injectáveis com pó (de 10 ml de vidro transparente tipo 1 com rolha de borracha cinzenta bromobutílica sem látex e cápsula de alumínio). • Um frasco para injectáveis com solvente (de 10 ml de vidro transparente tipo 2 com rolha de borracha cinzenta clorobutílica sem látex e cápsula de alumínio). • Uma embalagem adicional com:
+ -1 dispositivo de transferência com filtro 20/20
+ -1 dispositivo de venopunctura
+ -1 seringa de 5 ml descartável
+ -2 compressas estéreis com álcool para utilização única.
+ 9 6.6 Precauções especiais de eliminação e manuseamento
+ No folheto informativo são fornecidas instruções detalhadas para a preparação e administração de Helixate NexGen.
+ Helixate NexGen pó deve apenas ser reconstituído com o solvente fornecido (2,5 ml de água para preparações injectáveis) usando o dispositivo estéril de transferência com filtro fornecido, Mix2Vial. A reconstituição deve ser realizada de acordo com as regras de boas práticas, particularmente no que diz respeito à assepsia. Rodar suavemente o frasco para injectáveis até todo o pó se encontrar dissolvido. Após a reconstituição a solução é transparente. Não usar Helixate NexGen se observar turvação ou partículas visíveis.
+ Após a reconstituição, a solução é retirada usando o dispositivo de transferência com filtro Mix2Vial para a seringa estéril descartável (ambos fornecidos).
+ Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências ocais.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Bayer HealthCare AG D-51368 Leverkusen Alemanha
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/00/144/001 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 04 Agosto 2000 Data da última renovação: 04 Agosto 2005
+ 10. DATA DA REVISÃO DO TEXTO Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia do Medicamento (EMEA) http: //www. emea. europa. eu.
+ 10 1. NOME DO MEDICAMENTO
+ Helixate NexGen 500 UI Pó e solvente para solução injectável.
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Factor VIII recombinante de coagulação,500 UI/frasco para injectáveis. DCI.: octocog alfa. O factor VIII recombinante de coagulação é produzido por engenharia genética a partir de células renais de hamster recém-nascido que contêm o gene humano do factor VIII.
+ Solvente: água para preparações injectáveis.
+ O produto reconstituído com os 2,5 ml de água para preparações injectáveis que o acompanham contém aproximadamente 200 UI de octocog alfa/ml.
+ A potência (UI) é determinada empregando o doseamento da coagulação em um estágio contra o Mega padrão da FDA que foi calibrado contra o padrão da OMS em UI. A actividade específica é de aproximadamente 4000 UI/mg de proteína.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Pó e solvente para solução injectável. O pó é fornecido num frasco para injectáveis, na forma de pó ou pastilha de cor branca a ligeiramente amarelada. O solvente é água para preparações injectáveis são fornecidos num frasco para injectáveis.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Tratamento e profilaxia de hemorragias em doentes com hemofilia A (deficiência congénita de factor VIII).
+ Esta preparação não contém o factor von Willebrand, pelo que não está indicada na doença de von Willebrand.
+ 4.2 Posologia e modo de administração O tratamento deve ser iniciado sob a supervisão de um médico com experiência no tratamento da hemofilia.
+ Posologia O número de unidades de factor VIII administradas é expresso em unidades internacionais (UI), relacionadas com o actual padrão da OMS para medicamentos com factor VIII. A actividade do factor VIII no plasma é expressa quer em percentagem (em relação ao valor normal no plasma humano) ou em unidades internacionais (relativamente a um padrão internacional para o factor VIII no plasma). Uma Unidade Internacional (UI) de actividade de factor VIII é equivalente à quantidade de factor VIII em um ml de plasma humano normal. O cálculo da posologia necessária de factor VIII baseia-se na observação empírica de que 1 Unidade Internacional (UI) de factor VIII por kg de peso corporal eleva
+ 11 a actividade plasmática de factor VIII em 1,5% a 2,5% da actividade normal. A posologia necessária é determinada empregando as seguintes fórmulas:
+ I. UI necessárias= peso corporal (kg) x aumento desejado do factor VIII (% do normal) x 0,5
+ II. Aumento previsto do factor VIII (% do normal)= 2 x UI administradas Peso corporal (kg)
+ A posologia e duração da terapêutica de substituição devem ser determinadas individualmente, de acordo com as necessidades do doente (peso corporal, grau de perturbação da função hemostática, local e extensão da hemorragia, o título dos inibidores e o nível de factor VIII desejado).
+ O quadro seguinte apresenta um guia para os níveis sanguíneos mínimos de factor VIII. No caso das situações hemorrágicas indicadas, a actividade do factor VIII não deve ser inferior ao nível indicado (em% do normal) no decurso do período correspondente:
+ 12
+ Grau de hemorragia/Tipo de procedimento cirúrgico Hemorragia
+ Nível requerido de actividade do factor VIII (%) (UI/dl)
+ Frequência das doses (horas)/Duração do tratamento (dias)
+ Hemartrose precoce, hemorragia muscular ou hemorragia oral
+ 20-40 Repetir cada 12 a 24 horas. Pelo menos 1 dia, até o episódio hemorrágico estar ultrapassado como indicado pela dor ou estar curado.
+ Hemartrose mais extensa, hemorragia muscular ou hematoma
+ 30-60 Repetir a injecção cada 12-24 horas durante 3-4 dias ou mais até a dor e a incapacidade estarem resolvidas
+ Hemorragias com risco de vida tais como hemorragias intracranianas, hemorragias da garganta, hemorragias abdominais graves Cirurgia
+ 60-100 Repetir a injecção cada 8 a 24 horas até o perigo estar ultrapassado.
+ Minor incluindo extracção dentária
+ 30-60 Cada 24 horas, pelo menos 1 dia, até ser conseguida a cura.
+ Major 80-100 a) Por bólus intravenoso
+ (pré e
+ pós-operatória)
+ Repetir a injecção cada 8-24 horas até cicatrização adequada da ferida, prosseguir com o tratamento durante pelo menos outros 7 dias para manter a actividade do factor VIII nos 30% a 60%. b) Por perfusão contínua Aumentar a actividade pré-cirurgia do factor VIII com uma injecção inicial por bólus intravenoso seguida imediatamente por uma perfusão contínua (em UI/Kg/h), ajustada de acordo com a depuração diária do doente e níveis pretendidos do factor VIII, durante pelo menos 7 dias.
+ Em cada caso individual a quantidade a administrar e a frequência de administração devem ser sempre adaptadas à efectividade clínica. Em algumas circunstâncias poderão ser necessárias quantidades superiores às calculadas, em especial no caso da dose inicial.
+ Durante o curso do tratamento recomenda-se a determinação dos níveis de factor VIII por forma a servir de guia à dose a ser administrada e à frequência e administração das injecções. Em particular no caso de intervenções cirúrgicas major é indispensável a monitorização precisa do tratamento de substituição através de uma análise de coagulação (actividade de factor VIII plasmática). Doentes individuais podem variar na sua resposta ao factor VIII, alcançando níveis diferentes de recuperação in vivo e demonstrando diferentes semi-vidas. Foi demonstrado, num estudo clínico realizado em doentes adultos com hemofilia A sujeitos a cirurgias major, que o Helixate NexGen pode ser utilizado por perfusão contínua em cirurgias (pré-, durante e pós-operatória). Neste estudo, tal como em qualquer outra perfusão contínua de longo termo, a heparina foi utilizada para prevenir tromboflebite no local de injecção. Para o cálculo da taxa de
+ 13 perfusão inicial, a depuração pode ser obtida por realização da curva de decaimento pré-cirurgia, ou utilizando no início os valores médios da população (3, 0-3,5 ml/h/Kg) e depois ajustar de acordo. Taxa de perfusão (em UI/Kg/h)= Depuração (em ml/h/Kg) x nível de factor VIII pretendido (em UI/ml). A estabilidade da perfusão contínua foi demonstrada na prática clínica e in vitro utilizando bombas de perfusão para ambulatório com reservatório em PVC. O Helixate NexGen contém um baixo nível de polissorbato 80 como excipiente, o qual é conhecido por aumentar a taxa de extracção do di-(2-etilhexil) ftalato (DEHP) a partir de materiais de cloreto de polivinilo (PVC). Este facto deve ser considerado para uma administração por perfusão contínua.
+ Para a profilaxia calendarizada contra hemorragias em doentes com hemofilia A grave, devem ser administradas doses de 20 a 60 UI de Helixate NexGen por kg de peso corporal em intervalos de 2 a 3 dias. Em alguns casos, especialmente em doentes jovens podem ser necessários intervalos menores ou doses mais elevadas. Foram obtidos dados de 61 crianças com idade inferior a 6 anos.
+ Doentes com inibidores Os doentes devem ser monitorizados relativamente ao desenvolvimento de inibidores do factor VIII. Se os níveis plasmáticos de actividade de factor VIII não forem atingidos, ou se a hemorragia não for controlada com uma dose adequada, deve efectuar-se um doseamento para determinar se estão presentes inibidores de factor VIII. Se estiverem presentes inibidores em níveis inferiores a 10 Unidades Bethesda (UB) por ml a administração adicional de factor VIII recombinante de coagulação poderá neutralizar o inibidor e permitir a continuação de um tratamento clinicamente efectivo com Helixate NexGen. Contudo, na presença de inibidores, as doses requeridas são variáveis e devem ser ajustadas de acordo com a resposta clínica e com a monitorização da actividade de factor VIII. Nos doentes com títulos de inibidores acima de 10 UB ou com resposta anamnéstica elevada deve considerar-se a utilização de complexo concentrado (activado) de protrombina (CCP) ou de factor VII recombinante activado (rFVIIa). Estes tratamentos devem ser realizados sob supervisão de um médico com experiência no tratamento de doentes com hemofilia.
+ Administração Dissolver a preparação como descrito em na secção 6.6. Helixate NexGen deve ser injectado ao longo de um período de vários minutos por via intravenosa. A velocidade da administração deve ser determinada pelo nível de conforto do doente (velocidade de perfusão máxima: 2 ml/min). Helixate NexGen pode ser administrado por perfusão contínua. A taxa de perfusão deve ser calculada com base na depuração e no nível de factor VIII pretendido. Exemplo: para um doente com 75 Kg de peso corporal (pc) e com uma depuração de 3 ml/h/Kg, a taxa de perfusão inicial para atingir um nível de 100% de factor VIII deverá ser 3 UI/h/Kg. Para calcular ml/hora, multiplicar a taxa de perfusão em UI/h/Kg por Kg pc/concentração da solução (UI/ml).
+ Depuração: 3 ml/h/Kg Nível de FVIII plasmático pretendido
+ Taxa de perfusão UI/h/Kg Taxa de perfusão para um doente com 75 Kg ml/h Concentração da solução de rFVIII 100 UI/ml 200 UI/ml 400 UI/ml
+ 100% (1 UI/ml) 60% (0,6 UI/ml) 40% (0,4 UI/ml)
+ 3,0 1,8 1,2
+ 2,25 1,125 0,56 1,35 0,68 0,34 0,9 0,45 0,225
+ Poderão ser requeridas taxas de perfusão mais elevadas em condições com depuração acelerada durante grandes hemorragias ou dano tecidular extenso durante intervenções cirúrgicas. As taxas de perfusão subsequentes devem ser calculadas com base em níveis de FVIII actuais e depuração recalculada para cada dia pós-cirurgia de acordo com a equação: depuração= taxa de perfusão/nível de FVIII actual.
+ 14 4.3 Contra-indicações
+ Antecedentes de hipersensibilidade à substância activa, às proteínas de ratinho ou hamster ou a qualquer dos excipientes.
+ 4.4 Advertências e precauções especiais de utilização
+ Como acontece com qualquer produto intravenoso contendo proteínas são possíveis reacções de hipersensibilidade do tipo alérgico. Os doentes devem ser avisados de que a potencial ocorrência durante a perfusão de aperto toráxico, tonturas, hipotensão ligeira e náuseas, podem constituir um indício precoce de hipersensibilidade ou de reacções anafilácticas. Deve instituir-se, de acordo com as necessidades, um tratamento sintomático da hipersensibilidade. Caso ocorram reacções alérgicas ou anafilácticas, a injecção/perfusão deve ser interrompida imediatamente e os doentes devem contactar o seu médico. Em caso de choque devem observar-se os actuais procedimentos médicos usados no tratamento do choque.
+ A formação de anticorpos neutralizantes (inibidores) do factor VIII, é uma complicação conhecida do tratamento de indivíduos com hemofilia A. Estes inibidores são invariavelmente imunoglobulinas IgG dirigidas contra a actividade procoagulante do factor VIII, e que são quantificadas em Unidades Bethesda (UB) Modificadas por ml de plasma. O risco de desenvolver inibidores está correlacionado à exposição ao factor VIII anti-hemofílico e a factores genéticos entre outros, apresentando-se num grau mais elevado nos primeiros 20 dias de exposição. Raramente os inibidores podem desenvolver-se após os primeiros 100 dias de exposição. Foram observados casos de recorrência de inibidores (num título baixo) após mudança de um factor VIII recombinante para outro, em doentes previamente tratados com mais de 100 dias de exposição e com antecedentes de desenvolvimento de inibidores. Os doentes tratados com factor VIII de coagulação recombinante devem ser cuidadosamente vigiados quanto ao desenvolvimento de inibidores através de observações clínicas adequadas e de testes laboratoriais. Ver também a secção 4.8 Efeitos indesejáveis.
+ Num estudo clínico acerca do uso de perfusão contínua em cirurgias, a heparina foi utilizada para prevenir tromboflebite no local de injecção, tal como em qualquer outra perfusão contínua de longo termo.
+ No interesse dos doentes recomenda-se que sempre que possível, de cada vez que Helixate NexGen lhes é administrado, seja registado o nome e o número do lote do produto.
+ Este medicamento contém menos de 1 mmol de sódio (23 mg) por frasco para injectáveis, i. e. é essencialmente “ livre de sódio ”.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Desconhecem-se interacções do Helixate NexGen com outros medicamentos.
+ 4.6 Gravidez e aleitamento Não foram realizados em animais quaisquer estudos de reprodução com o Helixate NexGen.
+ Em virtude da raridade da hemofilia A na mulher, não se dispõe de qualquer experiência sobre o uso de Helixate NexGen durante a gravidez e aleitamento. Por este motivo Helixate NexGen só deve ser utilizado durante a gravidez e aleitamento quando a sua indicação for evidente.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Os efeitos de Helixate NexGen sobre a capacidade de conduzir e utilizar máquinas são nulos.
+ 15 4.8 Efeitos indesejáveis
+ Após a administração de Helixate NexGen, observaram-se efeitos adversos ligeiros a moderados em casos raros tal como apresentado no seguinte quadro.
+ Classe de sistema de órgãos MedDRA Doenças do sangue e do sistema linfático Doenças gastrointestinais
+ Termo MedDRA preferido Inibição do Factor VIII Disgeusia Náuseas
+ Perturbações gerais e alterações no local de administração Doenças do sistema imunitário Exames complementares de diagnóstico Doenças do sistema nervoso Afecções dos tecidos cutâneos e subcutâneas
+ Reacção no local de injecção Pirexia Reacção alérgica/anafiláctica Pressão sanguínea anormal Tonturas Prurido Erupções cutâneas
+ A formação de anticorpos neutralizantes do factor VIII conhecida no tratamento de indivíduos com hemofilia A.
+ (inibidores) constitui uma complicação Em estudos com preparações de factor VIII
+ recombinante o desenvolvimento de inibidores foi observado predominantemente em hemofílicos previamente não tratados. Os doentes devem ser cuidadosamente monitorizados para pesquisa de desenvolvimento de anticorpos inibidores, através de observações clínicas e de testes laboratoriais apropriados.
+ Nos estudos clínicos Helixate NexGen foi usado no tratamento de episódios hemorrágicos em 37 doentes préviamente não tratados (PUPs) e em 23 doentes pediátricos minimamente tratados (MTP, definidos como tendo 4 ou menos dias de exposição). Cinco dos 37 (14%) doentes PUP e 4 dos 23 (17%) doentes MTP tratados com Helixate NexGen desenvolveram inibidores: globalmente 6 em 60 doentes (10%) com um título acima de 10 UB e 3 em 60 (5%) com um título abaixo de 10 UB. A mediana do número de dias de exposição no momento da detecção dos inibidores nestes doentes foi de 9 dias (intervalo entre 3-18 dias)
+ A mediana do número de dias de exposição nos estudos clínicos foi de 114 (intervalo: 4-478). Quatro dos cinco doentes que não alcançaram 20 dias de exposição no final do estudo atingiram mais de 20 dias de exposição no seguimento pós-estudo e um deles desenvolveu um baixo título de inibidores. O quinto doente foi perdido no seguimento.
+ Em estudos clínicos com 73 doentes préviamente tratados (PTP, definidos como tendo mais de 100 dias de exposição) seguidos ao longo de quatro anos, não foram observados inibidores de novo.
+ Nos extensos estudos pós-registo com Helixate NexGen, envolvendo mais de 1000 doentes observou-se o seguinte: menos de 0,2% dos PTP desenvolveram inibidores de novo. No subconjunto definido como tendo menos de 20 dias de exposição ao entrar no estudo menos de 11% desenvolveram inibidores de novo.
+ Durante os estudos nenhum dos doentes desenvolveu títulos clinicamente relevantes de anticorpos contra as quantidades residuais de proteínas de ratinho e de hamster presentes na formulação. Contudo, em alguns doentes predispostos há a possibilidade de reacções alérgicas aos constituintes da formulação ex: traços de proteínas de ratinho e hamster (ver secções 4.3 e 4.4).
+ 4.9 Sobredosagem Não foram observados sintomas de sobredosagem com factor VIII recombinante de coagulação.
+ 16 5. PROPRIEDADES FARMACOLÓGICAS
+ 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: factor VIII de coagulação sanguínea, código ATC B02B D02.
+ O complexo factor VIII/von Willebrand (vWF) consiste em duas moléculas (factor VIII e vWF) com diferentes funções fisiológicas. Quando injectado a um doente hemofílico, o factor VIII liga-se ao vWF da circulação do doente. O factor VIII activado actua como cofactor para o factor IX activado, acelerando a conversão de factor X em factor X activado. O factor X activado converte a protrombina em trombina. A trombina converte então o fibrinogénio em fibrina e o coágulo pode formar-se. A hemofilia A é uma doença hereditária, da coagulação sanguínea, ligada ao sexo, que é devida a uma diminuição dos níveis de factor VIII: C e que resulta em hemorragias nas articulações, músculos e órgãos internos, quer espontaneamente quer como resultado de trauma acidental ou cirúrgico. Através da terapêutica de substituição os níveis plasmáticos de factor VIII são aumentados, permitindo desta forma uma correcção temporária da deficiência do factor e uma correcção das tendências hemorrágicas.
+ A determinação do tempo parcial de tromboplastina activada (aPTT) constitui um método convencional de doseamento in vitro para a avaliação da actividade biológica do factor VIII. O aPTT apresenta-se prolongado em todos os hemofílicos. O grau e normalização de duração da aPTT observado após a administração do Helixate NexGen é semelhante ao conseguido com o factor VIII derivado do plasma.
+ 5.2 Propriedades farmacocinéticas A análise de todas as recuperações registadas in vivo em doentes previamente tratados demonstrou uma elevação média de 2% por UI/kg de peso corporal para o Helixate NexGen. Este resultado é semelhante aos valores relatados para o factor VIII derivado do plasma humano.
+ Após a administração de Helixate NexGen, a redução do pico de actividade do factor VIII processou-se segundo um factor exponencial bifásico, com uma semi-vida terminal média de cerca de 15 horas. Esta é semelhante à do factor VIII derivado do plasma, que apresenta uma semi-vida terminal média de aproximadamente 13 horas. Parâmetros farmacocinéticos adicionais para o Helixate NexGen para injecção por bólus i. v são: tempo médio de residência[ (TMR (0-48)] de cerca de 22 horas e uma depuração de cerca de 160 ml/h. A depuração média na linha basal para 14 doentes adultos sujeitos a cirurgias major com perfusão contínua é de 188 ml/h correspondendo a 3,0 ml/h/Kg (intervalo de 1,6-4,6 ml/h/Kg).
+ 5.3 Dados de segurança pré-clínica Não foi possível demonstrar quaisquer efeitos tóxicos agudos ou subagudos do Helixate NexGen em animais de laboratório (ratinho, rato, coelho e cão), mesmo quando se administram doses múltiplas da dose clínica recomendada (em função do peso corporal).
+ Não foram realizados quaisquer estudos específicos com a administração repetida de octocog alfa, nomeadamente sobre a toxicidade na reprodução, toxicidade crónica e carcinogenicidade, devido à resposta imunitária às proteínas heterólogas presentes em todas as espécies de mamíferos não humanos.
+ Não foram realizados estudos sobre o potencial mutagénico do Helixate NexGen uma vez que não foi detectado qualquer potencial mutagénico tanto in vitro como in vivo para o produto predecessor do Helixate NexGen.
+ 17 6. INFORMAÇÕES FARMACÊUTICAS
+ 6.1. Lista dos excipientes Pó Glicina Cloreto de sódio Cloreto de cálcio Histidina Polissorbato 80 Sacarose
+ Solvente Água para preparações injectáveis
+ 6.2 Incompatibilidades Este medicamento não deve ser misturado com outros medicamentos ou solventes. Apenas podem ser usados os conjuntos de administração fornecidos pois pode ocorrer falha do tratamento como consequência da adsorção do factor VIII de coagulação humano às superfícies internas de alguns equipamentos de perfusão.
+ 6.3 Prazo de validade 30 meses. O produto deve ser utilizado imediatamente após reconstituição. No entanto, foram demonstradas estabilidade química e física durante a utilização a 30ºC por um período de 48 horas.
+ 6.4 Precauções especiais de conservação
+ Conservar no frigorífico (2°C – 8°C). Não congelar. Manter os frascos para injectáveis dentro da embalagem exterior para proteger da luz.
+ Quando mantido dentro da embalagem exterior o produto pode ser conservado à temperatura ambiente (até 25°C) por um período limitado até 3 meses. Neste caso, o produto perde a validade ao fim de 3 meses; a nova data de validade deve ser anotada na parte superior da embalagem.
+ Após a reconstituição não refrigerar. Para administração única. Restos de solução não usada devem ser eliminados.
+ Para as condições de conservação do medicamento reconstituído ver a secção 6.3.
+ 6.5 Natureza e conteúdo do recipiente Cada embalagem de Helixate NexGen contém: • Um frasco para injectáveis com pó (de 10 ml de vidro transparente tipo 1 com rolha de borracha cinzenta bromobutílica sem látex e cápsula de alumínio). • Um frasco para injectáveis com solvente (de 10 ml de vidro transparente tipo 2 com rolha de borracha cinzenta clorobutílica sem látex e cápsula de alumínio). • Uma embalagem adicional com:
+ -1 dispositivo de transferência com filtro 20/20
+ -1 dispositivo de venopunctura
+ -1 seringa de 5 ml descartável
+ -2 compressas estéreis com álcool para utilização única.
+ 18 6.6 Precauções especiais de eliminação e manuseamento
+ No folheto informativo são fornecidas instruções detalhadas para a preparação e administração de Helixate NexGen.
+ Helixate NexGen pó deve apenas ser reconstituído com o solvente fornecido (2,5 ml de água para preparações injectáveis) usando o dispositivo estéril de transferência com filtro fornecido, Mix2Vial. A reconstituição deve ser realizada de acordo com as regras de boas práticas, particularmente no que diz respeito à assepsia. Rodar suavemente o frasco para injectáveis até todo o pó se encontrar dissolvido. Após a reconstituição a solução é transparente. Não usar Helixate NexGen se observar turvação ou partículas visíveis.
+ Após a reconstituição, a solução é retirada usando o dispositivo de transferência com filtro Mix2Vial para a seringa estéril descartável (ambos fornecidos).
+ Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências ocais.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Bayer HealthCare AG D-51368 Leverkusen Alemanha
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/00/144/002 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 04 Agosto 2000 Data da última renovação: 04 Agosto 2005
+ 10. DATA DA REVISÃO DO TEXTO Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia do Medicamento (EMEA) http: //www. emea. europa. eu.
+ 19 1. NOME DO MEDICAMENTO
+ Helixate NexGen 1000 UI Pó e solvente para solução injectável.
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Factor VIII recombinante de coagulação,1000 UI/frasco para injectáveis. DCI.: octocog alfa. O factor VIII recombinante de coagulação é produzido por engenharia genética a partir de células renais de hamster recém-nascido que contêm o gene humano do factor VIII.
+ Solvente: água para preparações injectáveis.
+ O produto reconstituído com os 2,5 ml de água para preparações injectáveis que o acompanham contém aproximadamente 400 UI de octocog alfa/ml.
+ A potência (UI) é determinada empregando o doseamento da coagulação em um estágio contra o Mega padrão da FDA que foi calibrado contra o padrão da OMS em UI. A actividade específica é de aproximadamente 4000 UI/mg de proteína.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Pó e solvente para solução injectável. O pó é fornecido num frasco para injectáveis, na forma de pó ou pastilha de cor branca a ligeiramente amarelada. O solvente é água para preparações injectáveis são fornecidos num frasco para injectáveis.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Tratamento e profilaxia de hemorragias em doentes com hemofilia A (deficiência congénita de factor VIII).
+ Esta preparação não contém o factor von Willebrand, pelo que não está indicada na doença de von Willebrand.
+ 4.2 Posologia e modo de administração O tratamento deve ser iniciado sob a supervisão de um médico com experiência no tratamento da hemofilia.
+ Posologia O número de unidades de factor VIII administradas é expresso em unidades internacionais (UI), relacionadas com o actual padrão da OMS para medicamentos com factor VIII. A actividade do factor VIII no plasma é expressa quer em percentagem (em relação ao valor normal no plasma humano) ou em unidades internacionais (relativamente a um padrão internacional para o factor VIII no plasma). Uma Unidade Internacional (UI) de actividade de factor VIII é equivalente à quantidade de factor VIII em um ml de plasma humano normal. O cálculo da posologia necessária de factor VIII baseia-se na observação empírica de que 1 Unidade Internacional (UI) de factor VIII por kg de peso corporal eleva
+ 20 a actividade plasmática de factor VIII em 1,5% a 2,5% da actividade normal. A posologia necessária é determinada empregando as seguintes fórmulas:
+ I. UI necessárias= peso corporal (kg) x aumento desejado do factor VIII (% do normal) x 0,5
+ II. Aumento previsto do factor VIII (% do normal)= 2 x UI administradas Peso corporal (kg)
+ A posologia e duração da terapêutica de substituição devem ser determinadas individualmente, de acordo com as necessidades do doente (peso corporal, grau de perturbação da função hemostática, local e extensão da hemorragia, o título dos inibidores e o nível de factor VIII desejado).
+ O quadro seguinte apresenta um guia para os níveis sanguíneos mínimos de factor VIII. No caso das situações hemorrágicas indicadas, a actividade do factor VIII não deve ser inferior ao nível indicado (em% do normal) no decurso do período correspondente:
+ 21
+ Grau de hemorragia/Tipo de procedimento cirúrgico Hemorragia
+ Nível requerido de actividade do factor VIII (%) (UI/dl)
+ Frequência das doses (horas)/Duração do tratamento (dias)
+ Hemartrose precoce, hemorragia muscular ou hemorragia oral
+ 20-40 Repetir cada 12 a 24 horas. Pelo menos 1 dia, até o episódio hemorrágico estar ultrapassado como indicado pela dor ou estar curado.
+ Hemartrose mais extensa, hemorragia muscular ou hematoma
+ 30-60 Repetir a injecção cada 12-24 horas durante 3-4 dias ou mais até a dor e a incapacidade estarem resolvidas
+ Hemorragias com risco de vida tais como hemorragias intracranianas, hemorragias da garganta, hemorragias abdominais graves Cirurgia
+ 60-100 Repetir a injecção cada 8 a 24 horas até o perigo estar ultrapassado.
+ Minor incluindo extracção dentária
+ 30-60 Cada 24 horas, pelo menos 1 dia, até ser conseguida a cura.
+ Major 80-100 a) Por bólus intravenoso
+ (pré e
+ pós-operatória)
+ Repetir a injecção cada 8-24 horas até cicatrização adequada da ferida, prosseguir com o tratamento durante pelo menos outros 7 dias para manter a actividade do factor VIII nos 30% a 60%. b) Por perfusão contínua Aumentar a actividade pré-cirurgia do factor VIII com uma injecção inicial por bólus intravenoso seguida imediatamente por uma perfusão contínua (em UI/Kg/h), ajustada de acordo com a depuração diária do doente e níveis pretendidos do factor VIII, durante pelo menos 7 dias.
+ Em cada caso individual a quantidade a administrar e a frequência de administração devem ser sempre adaptadas à efectividade clínica. Em algumas circunstâncias poderão ser necessárias quantidades superiores às calculadas, em especial no caso da dose inicial.
+ Durante o curso do tratamento recomenda-se a determinação dos níveis de factor VIII por forma a servir de guia à dose a ser administrada e à frequência e administração das injecções. Em particular no caso de intervenções cirúrgicas major é indispensável a monitorização precisa do tratamento de substituição através de uma análise de coagulação (actividade de factor VIII plasmática). Doentes individuais podem variar na sua resposta ao factor VIII, alcançando níveis diferentes de recuperação in vivo e demonstrando diferentes semi-vidas. Foi demonstrado, num estudo clínico realizado em doentes adultos com hemofilia A sujeitos a cirurgias major, que o Helixate NexGen pode ser utilizado por perfusão contínua em cirurgias (pré-, durante e pós-operatória). Neste estudo, tal como em qualquer outra perfusão contínua de longo termo, a heparina foi utilizada para prevenir tromboflebite no local de injecção. Para o cálculo da taxa de
+ 22 perfusão inicial, a depuração pode ser obtida por realização da curva de decaimento pré-cirurgia, ou utilizando no início os valores médios da população (3, 0-3,5 ml/h/Kg) e depois ajustar de acordo. Taxa de perfusão (em UI/Kg/h)= Depuração (em ml/h/Kg) x nível de factor VIII pretendido (em UI/ml). A estabilidade da perfusão contínua foi demonstrada na prática clínica e in vitro utilizando bombas de perfusão para ambulatório com reservatório em PVC. O Helixate NexGen contém um baixo nível de polissorbato 80 como excipiente, o qual é conhecido por aumentar a taxa de extracção do di-(2-etilhexil) ftalato (DEHP) a partir de materiais de cloreto de polivinilo (PVC). Este facto deve ser considerado para uma administração por perfusão contínua.
+ Para a profilaxia calendarizada contra hemorragias em doentes com hemofilia A grave, devem ser administradas doses de 20 a 60 UI de Helixate NexGen por kg de peso corporal em intervalos de 2 a 3 dias. Em alguns casos, especialmente em doentes jovens podem ser necessários intervalos menores ou doses mais elevadas. Foram obtidos dados de 61 crianças com idade inferior a 6 anos.
+ Doentes com inibidores Os doentes devem ser monitorizados relativamente ao desenvolvimento de inibidores do factor VIII. Se os níveis plasmáticos de actividade de factor VIII não forem atingidos, ou se a hemorragia não for controlada com uma dose adequada, deve efectuar-se um doseamento para determinar se estão presentes inibidores de factor VIII. Se estiverem presentes inibidores em níveis inferiores a 10 Unidades Bethesda (UB) por ml a administração adicional de factor VIII recombinante de coagulação poderá neutralizar o inibidor e permitir a continuação de um tratamento clinicamente efectivo com Helixate NexGen. Contudo, na presença de inibidores, as doses requeridas são variáveis e devem ser ajustadas de acordo com a resposta clínica e com a monitorização da actividade de factor VIII. Nos doentes com títulos de inibidores acima de 10 UB ou com resposta anamnéstica elevada deve considerar-se a utilização de complexo concentrado (activado) de protrombina (CCP) ou de factor VII recombinante activado (rFVIIa). Estes tratamentos devem ser realizados sob supervisão de um médico com experiência no tratamento de doentes com hemofilia.
+ Administração Dissolver a preparação como descrito em na secção 6.6. Helixate NexGen deve ser injectado ao longo de um período de vários minutos por via intravenosa. A velocidade da administração deve ser determinada pelo nível de conforto do doente (velocidade de perfusão máxima: 2 ml/min). Helixate NexGen pode ser administrado por perfusão contínua. A taxa de perfusão deve ser calculada com base na depuração e no nível de factor VIII pretendido. Exemplo: para um doente com 75 Kg de peso corporal (pc) e com uma depuração de 3 ml/h/Kg, a taxa de perfusão inicial para atingir um nível de 100% de factor VIII deverá ser 3 UI/h/Kg. Para calcular ml/hora, multiplicar a taxa de perfusão em UI/h/Kg por Kg pc/concentração da solução (UI/ml).
+ Depuração: 3 ml/h/Kg Nível de FVIII plasmático pretendido
+ Taxa de perfusão UI/h/Kg Taxa de perfusão para um doente com 75 Kg ml/h Concentração da solução de rFVIII 100 UI/ml 200 UI/ml 400 UI/ml
+ 100% (1 UI/ml) 60% (0,6 UI/ml) 40% (0,4 UI/ml)
+ 3,0 1,8 1,2
+ 2,25 1,125 0,56 1,35 0,68 0,34 0,9 0,45 0,225
+ Poderão ser requeridas taxas de perfusão mais elevadas em condições com depuração acelerada durante grandes hemorragias ou dano tecidular extenso durante intervenções cirúrgicas. As taxas de perfusão subsequentes devem ser calculadas com base em níveis de FVIII actuais e depuração recalculada para cada dia pós-cirurgia de acordo com a equação: depuração= taxa de perfusão/nível de FVIII actual.
+ 23 4.3 Contra-indicações
+ Antecedentes de hipersensibilidade à substância activa, às proteínas de ratinho ou hamster ou a qualquer dos excipientes.
+ 4.4 Advertências e precauções especiais de utilização
+ Como acontece com qualquer produto intravenoso contendo proteínas são possíveis reacções de hipersensibilidade do tipo alérgico. Os doentes devem ser avisados de que a potencial ocorrência durante a perfusão de aperto toráxico, tonturas, hipotensão ligeira e náuseas, podem constituir um indício precoce de hipersensibilidade ou de reacções anafilácticas. Deve instituir-se, de acordo com as necessidades, um tratamento sintomático da hipersensibilidade. Caso ocorram reacções alérgicas ou anafilácticas, a injecção/perfusão deve ser interrompida imediatamente e os doentes devem contactar o seu médico. Em caso de choque devem observar-se os actuais procedimentos médicos usados no tratamento do choque.
+ A formação de anticorpos neutralizantes (inibidores) do factor VIII, é uma complicação conhecida do tratamento de indivíduos com hemofilia A. Estes inibidores são invariavelmente imunoglobulinas IgG dirigidas contra a actividade procoagulante do factor VIII, e que são quantificadas em Unidades Bethesda (UB) Modificadas por ml de plasma. O risco de desenvolver inibidores está correlacionado à exposição ao factor VIII anti-hemofílico e a factores genéticos entre outros, apresentando-se num grau mais elevado nos primeiros 20 dias de exposição. Raramente os inibidores podem desenvolver-se após os primeiros 100 dias de exposição. Foram observados casos de recorrência de inibidores (num título baixo) após mudança de um factor VIII recombinante para outro, em doentes previamente tratados com mais de 100 dias de exposição e com antecedentes de desenvolvimento de inibidores. Os doentes tratados com factor VIII de coagulação recombinante devem ser cuidadosamente vigiados quanto ao desenvolvimento de inibidores através de observações clínicas adequadas e de testes laboratoriais. Ver também a secção 4.8 Efeitos indesejáveis.
+ Num estudo clínico acerca do uso de perfusão contínua em cirurgias, a heparina foi utilizada para prevenir tromboflebite no local de injecção, tal como em qualquer outra perfusão contínua de longo termo.
+ No interesse dos doentes recomenda-se que sempre que possível, de cada vez que Helixate NexGen lhes é administrado, seja registado o nome e o número do lote do produto.
+ Este medicamento contém menos de 1 mmol de sódio (23 mg) por frasco para injectáveis, i. e. é essencialmente “ livre de sódio ”.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Desconhecem-se interacções do Helixate NexGen com outros medicamentos.
+ 4.6 Gravidez e aleitamento Não foram realizados em animais quaisquer estudos de reprodução com o Helixate NexGen.
+ Em virtude da raridade da hemofilia A na mulher, não se dispõe de qualquer experiência sobre o uso de Helixate NexGen durante a gravidez e aleitamento. Por este motivo Helixate NexGen só deve ser utilizado durante a gravidez e aleitamento quando a sua indicação for evidente.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Os efeitos de Helixate NexGen sobre a capacidade de conduzir e utilizar máquinas são nulos.
+ 24 4.8 Efeitos indesejáveis
+ Após a administração de Helixate NexGen, observaram-se efeitos adversos ligeiros a moderados em casos raros tal como apresentado no seguinte quadro.
+ Classe de sistema de órgãos MedDRA Doenças do sangue e do sistema linfático Doenças gastrointestinais
+ Termo MedDRA preferido Inibição do Factor VIII Disgeusia Náuseas
+ Perturbações gerais e alterações no local de administração Doenças do sistema imunitário Exames complementares de diagnóstico Doenças do sistema nervoso Afecções dos tecidos cutâneos e subcutâneas
+ Reacção no local de injecção Pirexia Reacção alérgica/anafiláctica Pressão sanguínea anormal Tonturas Prurido Erupções cutâneas
+ A formação de anticorpos neutralizantes do factor VIII conhecida no tratamento de indivíduos com hemofilia A.
+ (inibidores) constitui uma complicação Em estudos com preparações de factor VIII
+ recombinante o desenvolvimento de inibidores foi observado predominantemente em hemofílicos previamente não tratados. Os doentes devem ser cuidadosamente monitorizados para pesquisa de desenvolvimento de anticorpos inibidores, através de observações clínicas e de testes laboratoriais apropriados.
+ Nos estudos clínicos Helixate NexGen foi usado no tratamento de episódios hemorrágicos em 37 doentes préviamente não tratados (PUPs) e em 23 doentes pediátricos minimamente tratados (MTP, definidos como tendo 4 ou menos dias de exposição). Cinco dos 37 (14%) doentes PUP e 4 dos 23 (17%) doentes MTP tratados com Helixate NexGen desenvolveram inibidores: globalmente 6 em 60 doentes (10%) com um título acima de 10 UB e 3 em 60 (5%) com um título abaixo de 10 UB. A mediana do número de dias de exposição no momento da detecção dos inibidores nestes doentes foi de 9 dias (intervalo entre 3-18 dias)
+ A mediana do número de dias de exposição nos estudos clínicos foi de 114 (intervalo: 4-478). Quatro dos cinco doentes que não alcançaram 20 dias de exposição no final do estudo atingiram mais de 20 dias de exposição no seguimento pós-estudo e um deles desenvolveu um baixo título de inibidores. O quinto doente foi perdido no seguimento.
+ Em estudos clínicos com 73 doentes préviamente tratados (PTP, definidos como tendo mais de 100 dias de exposição) seguidos ao longo de quatro anos, não foram observados inibidores de novo.
+ Nos extensos estudos pós-registo com Helixate NexGen, envolvendo mais de 1000 doentes observou-se o seguinte: menos de 0,2% dos PTP desenvolveram inibidores de novo. No subconjunto definido como tendo menos de 20 dias de exposição ao entrar no estudo menos de 11% desenvolveram inibidores de novo.
+ Durante os estudos nenhum dos doentes desenvolveu títulos clinicamente relevantes de anticorpos contra as quantidades residuais de proteínas de ratinho e de hamster presentes na formulação. Contudo, em alguns doentes predispostos há a possibilidade de reacções alérgicas aos constituintes da formulação ex: traços de proteínas de ratinho e hamster (ver secções 4.3 e 4.4).
+ 4.9 Sobredosagem Não foram observados sintomas de sobredosagem com factor VIII recombinante de coagulação.
+ 25 5. PROPRIEDADES FARMACOLÓGICAS
+ 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: factor VIII de coagulação sanguínea, código ATC B02B D02.
+ O complexo factor VIII/von Willebrand (vWF) consiste em duas moléculas (factor VIII e vWF) com diferentes funções fisiológicas. Quando injectado a um doente hemofílico, o factor VIII liga-se ao vWF da circulação do doente. O factor VIII activado actua como cofactor para o factor IX activado, acelerando a conversão de factor X em factor X activado. O factor X activado converte a protrombina em trombina. A trombina converte então o fibrinogénio em fibrina e o coágulo pode formar-se. A hemofilia A é uma doença hereditária, da coagulação sanguínea, ligada ao sexo, que é devida a uma diminuição dos níveis de factor VIII: C e que resulta em hemorragias nas articulações, músculos e órgãos internos, quer espontaneamente quer como resultado de trauma acidental ou cirúrgico. Através da terapêutica de substituição os níveis plasmáticos de factor VIII são aumentados, permitindo desta forma uma correcção temporária da deficiência do factor e uma correcção das tendências hemorrágicas.
+ A determinação do tempo parcial de tromboplastina activada (aPTT) constitui um método convencional de doseamento in vitro para a avaliação da actividade biológica do factor VIII. O aPTT apresenta-se prolongado em todos os hemofílicos. O grau e normalização de duração da aPTT observado após a administração do Helixate NexGen é semelhante ao conseguido com o factor VIII derivado do plasma.
+ 5.2 Propriedades farmacocinéticas A análise de todas as recuperações registadas in vivo em doentes previamente tratados demonstrou uma elevação média de 2% por UI/kg de peso corporal para o Helixate NexGen. Este resultado é semelhante aos valores relatados para o factor VIII derivado do plasma humano.
+ Após a administração de Helixate NexGen, a redução do pico de actividade do factor VIII processou-se segundo um factor exponencial bifásico, com uma semi-vida terminal média de cerca de 15 horas. Esta é semelhante à do factor VIII derivado do plasma, que apresenta uma semi-vida terminal média de aproximadamente 13 horas. Parâmetros farmacocinéticos adicionais para o Helixate NexGen para injecção por bólus i. v são: tempo médio de residência[ (TMR (0-48)] de cerca de 22 horas e uma depuração de cerca de 160 ml/h. A depuração média na linha basal para 14 doentes adultos sujeitos a cirurgias major com perfusão contínua é de 188 ml/h correspondendo a 3,0 ml/h/Kg (intervalo de 1,6-4,6 ml/h/Kg).
+ 5.3 Dados de segurança pré-clínica Não foi possível demonstrar quaisquer efeitos tóxicos agudos ou subagudos do Helixate NexGen em animais de laboratório (ratinho, rato, coelho e cão), mesmo quando se administram doses múltiplas da dose clínica recomendada (em função do peso corporal).
+ Não foram realizados quaisquer estudos específicos com a administração repetida de octocog alfa, nomeadamente sobre a toxicidade na reprodução, toxicidade crónica e carcinogenicidade, devido à resposta imunitária às proteínas heterólogas presentes em todas as espécies de mamíferos não humanos.
+ Não foram realizados estudos sobre o potencial mutagénico do Helixate NexGen uma vez que não foi detectado qualquer potencial mutagénico tanto in vitro como in vivo para o produto predecessor do Helixate NexGen.
+ 26 6. INFORMAÇÕES FARMACÊUTICAS
+ 6.1. Lista dos excipientes Pó Glicina Cloreto de sódio Cloreto de cálcio Histidina Polissorbato 80 Sacarose
+ Solvente Água para preparações injectáveis
+ 6.2 Incompatibilidades Este medicamento não deve ser misturado com outros medicamentos ou solventes. Apenas podem ser usados os conjuntos de administração fornecidos pois pode ocorrer falha do tratamento como consequência da adsorção do factor VIII de coagulação humano às superfícies internas de alguns equipamentos de perfusão.
+ 6.3 Prazo de validade 30 meses. O produto deve ser utilizado imediatamente após reconstituição. No entanto, foram demonstradas estabilidade química e física durante a utilização a 30ºC por um período de 48 horas.
+ 6.4 Precauções especiais de conservação
+ Conservar no frigorífico (2°C – 8°C). Não congelar. Manter os frascos para injectáveis dentro da embalagem exterior para proteger da luz.
+ Quando mantido dentro da embalagem exterior o produto pode ser conservado à temperatura ambiente (até 25°C) por um período limitado até 3 meses. Neste caso, o produto perde a validade ao fim de 3 meses; a nova data de validade deve ser anotada na parte superior da embalagem.
+ Após a reconstituição não refrigerar. Para administração única. Restos de solução não usada devem ser eliminados.
+ Para as condições de conservação do medicamento reconstituído ver a secção 6.3.
+ 6.5 Natureza e conteúdo do recipiente Cada embalagem de Helixate NexGen contém: • Um frasco para injectáveis com pó (de 10 ml de vidro transparente tipo 1 com rolha de borracha cinzenta bromobutílica sem látex e cápsula de alumínio). • Um frasco para injectáveis com solvente (de 10 ml de vidro transparente tipo 2 com rolha de borracha cinzenta clorobutílica sem látex e cápsula de alumínio). • Uma embalagem adicional com:
+ -1 dispositivo de transferência com filtro 20/20
+ -1 dispositivo de venopunctura
+ -1 seringa de 5 ml descartável
+ -2 compressas estéreis com álcool para utilização única.
+ 27 6.6 Precauções especiais de eliminação e manuseamento
+ No folheto informativo são fornecidas instruções detalhadas para a preparação e administração de Helixate NexGen.
+ Helixate NexGen pó deve apenas ser reconstituído com o solvente fornecido (2,5 ml de água para preparações injectáveis) usando o dispositivo estéril de transferência com filtro fornecido, Mix2Vial. A reconstituição deve ser realizada de acordo com as regras de boas práticas, particularmente no que diz respeito à assepsia. Rodar suavemente o frasco para injectáveis até todo o pó se encontrar dissolvido. Após a reconstituição a solução é transparente. Não usar Helixate NexGen se observar turvação ou partículas visíveis.
+ Após a reconstituição, a solução é retirada usando o dispositivo de transferência com filtro Mix2Vial para a seringa estéril descartável (ambos fornecidos).
+ Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências ocais.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Bayer HealthCare AG D-51368 Leverkusen Alemanha
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/00/144/003 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 04 Agosto 2000 Data da última renovação: 04 Agosto 2005
+ 10. DATA DA REVISÃO DO TEXTO Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia do Medicamento (EMEA) http: //www. emea. europa. eu.
+ 28 1. NOME DO MEDICAMENTO
+ Helixate NexGen 2000 UI Pó e solvente para solução injectável.
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Factor VIII recombinante de coagulação,2000 UI/frasco para injectáveis. DCI.: octocog alfa. O factor VIII recombinante de coagulação é produzido por engenharia genética a partir de células renais de hamster recém-nascido que contêm o gene humano do factor VIII.
+ Solvente: água para preparações injectáveis.
+ O produto reconstituído com os 5,0 ml de água para preparações injectáveis que o acompanham contém aproximadamente 400 UI de octocog alfa/ml.
+ A potência (UI) é determinada empregando o doseamento da coagulação em um estágio contra o Mega padrão da FDA que foi calibrado contra o padrão da OMS em UI. A actividade específica é de aproximadamente 4000 UI/mg de proteína.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Pó e solvente para solução injectável. O pó é fornecido num frasco para injectáveis, na forma de pó ou pastilha de cor branca a ligeiramente amarelada. O solvente é água para preparações injectáveis são fornecidos num frasco para injectáveis.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Tratamento e profilaxia de hemorragias em doentes com hemofilia A (deficiência congénita de factor VIII).
+ Esta preparação não contém o factor von Willebrand, pelo que não está indicada na doença de von Willebrand.
+ 4.2 Posologia e modo de administração O tratamento deve ser iniciado sob a supervisão de um médico com experiência no tratamento da hemofilia.
+ Posologia O número de unidades de factor VIII administradas é expresso em unidades internacionais (UI), relacionadas com o actual padrão da OMS para medicamentos com factor VIII. A actividade do factor VIII no plasma é expressa quer em percentagem (em relação ao valor normal no plasma humano) ou em unidades internacionais (relativamente a um padrão internacional para o factor VIII no plasma). Uma Unidade Internacional (UI) de actividade de factor VIII é equivalente à quantidade de factor VIII em um ml de plasma humano normal. O cálculo da posologia necessária de factor VIII baseia-se na observação empírica de que 1 Unidade Internacional (UI) de factor VIII por kg de peso corporal eleva
+ 29 a actividade plasmática de factor VIII em 1,5% a 2,5% da actividade normal. A posologia necessária é determinada empregando as seguintes fórmulas:
+ I. UI necessárias= peso corporal (kg) x aumento desejado do factor VIII (% do normal) x 0,5
+ II. Aumento previsto do factor VIII (% do normal)= 2 x UI administradas Peso corporal (kg)
+ A posologia e duração da terapêutica de substituição devem ser determinadas individualmente, de acordo com as necessidades do doente (peso corporal, grau de perturbação da função hemostática, local e extensão da hemorragia, o título dos inibidores e o nível de factor VIII desejado).
+ O quadro seguinte apresenta um guia para os níveis sanguíneos mínimos de factor VIII. No caso das situações hemorrágicas indicadas, a actividade do factor VIII não deve ser inferior ao nível indicado (em% do normal) no decurso do período correspondente:
+ 30
+ Grau de hemorragia/Tipo de procedimento cirúrgico Hemorragia
+ Nível requerido de actividade do factor VIII (%) (UI/dl)
+ Frequência das doses (horas)/Duração do tratamento (dias)
+ Hemartrose precoce, hemorragia muscular ou hemorragia oral
+ 20-40 Repetir cada 12 a 24 horas. Pelo menos 1 dia, até o episódio hemorrágico estar ultrapassado como indicado pela dor ou estar curado.
+ Hemartrose mais extensa, hemorragia muscular ou hematoma
+ 30-60 Repetir a injecção cada 12-24 horas durante 3-4 dias ou mais até a dor e a incapacidade estarem resolvidas
+ Hemorragias com risco de vida tais como hemorragias intracranianas, hemorragias da garganta, hemorragias abdominais graves Cirurgia
+ 60-100 Repetir a injecção cada 8 a 24 horas até o perigo estar ultrapassado.
+ Minor incluindo extracção dentária
+ 30-60 Cada 24 horas, pelo menos 1 dia, até ser conseguida a cura.
+ Major 80-100 a) Por bólus intravenoso
+ (pré e
+ pós-operatória)
+ Repetir a injecção cada 8-24 horas até cicatrização adequada da ferida, prosseguir com o tratamento durante pelo menos outros 7 dias para manter a actividade do factor VIII nos 30% a 60%. b) Por perfusão contínua Aumentar a actividade pré-cirurgia do factor VIII com uma injecção inicial por bólus intravenoso seguida imediatamente por uma perfusão contínua (em UI/Kg/h), ajustada de acordo com a depuração diária do doente e níveis pretendidos do factor VIII, durante pelo menos 7 dias.
+ Em cada caso individual a quantidade a administrar e a frequência de administração devem ser sempre adaptadas à efectividade clínica. Em algumas circunstâncias poderão ser necessárias quantidades superiores às calculadas, em especial no caso da dose inicial.
+ Durante o curso do tratamento recomenda-se a determinação dos níveis de factor VIII por forma a servir de guia à dose a ser administrada e à frequência e administração das injecções. Em particular no caso de intervenções cirúrgicas major é indispensável a monitorização precisa do tratamento de substituição através de uma análise de coagulação (actividade de factor VIII plasmática). Doentes individuais podem variar na sua resposta ao factor VIII, alcançando níveis diferentes de recuperação in vivo e demonstrando diferentes semi-vidas. Foi demonstrado, num estudo clínico realizado em doentes adultos com hemofilia A sujeitos a cirurgias major, que o Helixate NexGen pode ser utilizado por perfusão contínua em cirurgias (pré-, durante e pós-operatória). Neste estudo, tal como em qualquer outra perfusão contínua de longo termo, a heparina foi utilizada para prevenir tromboflebite no local de injecção. Para o cálculo da taxa de
+ 31 perfusão inicial, a depuração pode ser obtida por realização da curva de decaimento pré-cirurgia, ou utilizando no início os valores médios da população (3, 0-3,5 ml/h/Kg) e depois ajustar de acordo. Taxa de perfusão (em UI/Kg/h)= Depuração (em ml/h/Kg) x nível de factor VIII pretendido (em UI/ml). A estabilidade da perfusão contínua foi demonstrada na prática clínica e in vitro utilizando bombas de perfusão para ambulatório com reservatório em PVC. O Helixate NexGen contém um baixo nível de polissorbato 80 como excipiente, o qual é conhecido por aumentar a taxa de extracção do di-(2-etilhexil) ftalato (DEHP) a partir de materiais de cloreto de polivinilo (PVC). Este facto deve ser considerado para uma administração por perfusão contínua.
+ Para a profilaxia calendarizada contra hemorragias em doentes com hemofilia A grave, devem ser administradas doses de 20 a 60 UI de Helixate NexGen por kg de peso corporal em intervalos de 2 a 3 dias. Em alguns casos, especialmente em doentes jovens podem ser necessários intervalos menores ou doses mais elevadas. Foram obtidos dados de 61 crianças com idade inferior a 6 anos.
+ Doentes com inibidores Os doentes devem ser monitorizados relativamente ao desenvolvimento de inibidores do factor VIII. Se os níveis plasmáticos de actividade de factor VIII não forem atingidos, ou se a hemorragia não for controlada com uma dose adequada, deve efectuar-se um doseamento para determinar se estão presentes inibidores de factor VIII. Se estiverem presentes inibidores em níveis inferiores a 10 Unidades Bethesda (UB) por ml a administração adicional de factor VIII recombinante de coagulação poderá neutralizar o inibidor e permitir a continuação de um tratamento clinicamente efectivo com Helixate NexGen. Contudo, na presença de inibidores, as doses requeridas são variáveis e devem ser ajustadas de acordo com a resposta clínica e com a monitorização da actividade de factor VIII. Nos doentes com títulos de inibidores acima de 10 UB ou com resposta anamnéstica elevada deve considerar-se a utilização de complexo concentrado (activado) de protrombina (CCP) ou de factor VII recombinante activado (rFVIIa). Estes tratamentos devem ser realizados sob supervisão de um médico com experiência no tratamento de doentes com hemofilia.
+ Administração Dissolver a preparação como descrito em na secção 6.6. Helixate NexGen deve ser injectado ao longo de um período de vários minutos por via intravenosa. A velocidade da administração deve ser determinada pelo nível de conforto do doente (velocidade de perfusão máxima: 2 ml/min). Helixate NexGen pode ser administrado por perfusão contínua. A taxa de perfusão deve ser calculada com base na depuração e no nível de factor VIII pretendido. Exemplo: para um doente com 75 Kg de peso corporal (pc) e com uma depuração de 3 ml/h/Kg, a taxa de perfusão inicial para atingir um nível de 100% de factor VIII deverá ser 3 UI/h/Kg. Para calcular ml/hora, multiplicar a taxa de perfusão em UI/h/Kg por Kg pc/concentração da solução (UI/ml).
+ Depuração: 3 ml/h/Kg Nível de FVIII plasmático pretendido
+ Taxa de perfusão UI/h/Kg Taxa de perfusão para um doente com 75 Kg ml/h Concentração da solução de rFVIII 100 UI/ml 200 UI/ml 400 UI/ml
+ 100% (1 UI/ml) 60% (0,6 UI/ml) 40% (0,4 UI/ml)
+ 3,0 1,8 1,2
+ 2,25 1,125 0,56 1,35 0,68 0,34 0,9 0,45 0,225
+ Poderão ser requeridas taxas de perfusão mais elevadas em condições com depuração acelerada durante grandes hemorragias ou dano tecidular extenso durante intervenções cirúrgicas. As taxas de perfusão subsequentes devem ser calculadas com base em níveis de FVIII actuais e depuração recalculada para cada dia pós-cirurgia de acordo com a equação: depuração= taxa de perfusão/nível de FVIII actual.
+ 32 4.3 Contra-indicações
+ Antecedentes de hipersensibilidade à substância activa, às proteínas de ratinho ou hamster ou a qualquer dos excipientes.
+ 4.4 Advertências e precauções especiais de utilização
+ Como acontece com qualquer produto intravenoso contendo proteínas são possíveis reacções de hipersensibilidade do tipo alérgico. Os doentes devem ser avisados de que a potencial ocorrência durante a perfusão de aperto toráxico, tonturas, hipotensão ligeira e náuseas, podem constituir um indício precoce de hipersensibilidade ou de reacções anafilácticas. Deve instituir-se, de acordo com as necessidades, um tratamento sintomático da hipersensibilidade. Caso ocorram reacções alérgicas ou anafilácticas, a injecção/perfusão deve ser interrompida imediatamente e os doentes devem contactar o seu médico. Em caso de choque devem observar-se os actuais procedimentos médicos usados no tratamento do choque.
+ A formação de anticorpos neutralizantes (inibidores) do factor VIII, é uma complicação conhecida do tratamento de indivíduos com hemofilia A. Estes inibidores são invariavelmente imunoglobulinas IgG dirigidas contra a actividade procoagulante do factor VIII, e que são quantificadas em Unidades Bethesda (UB) Modificadas por ml de plasma. O risco de desenvolver inibidores está correlacionado à exposição ao factor VIII anti-hemofílico e a factores genéticos entre outros, apresentando-se num grau mais elevado nos primeiros 20 dias de exposição. Raramente os inibidores podem desenvolver-se após os primeiros 100 dias de exposição. Foram observados casos de recorrência de inibidores (num título baixo) após mudança de um factor VIII recombinante para outro, em doentes previamente tratados com mais de 100 dias de exposição e com antecedentes de desenvolvimento de inibidores. Os doentes tratados com factor VIII de coagulação recombinante devem ser cuidadosamente vigiados quanto ao desenvolvimento de inibidores através de observações clínicas adequadas e de testes laboratoriais. Ver também a secção 4.8 Efeitos indesejáveis.
+ Num estudo clínico acerca do uso de perfusão contínua em cirurgias, a heparina foi utilizada para prevenir tromboflebite no local de injecção, tal como em qualquer outra perfusão contínua de longo termo.
+ No interesse dos doentes recomenda-se que sempre que possível, de cada vez que Helixate NexGen lhes é administrado, seja registado o nome e o número do lote do produto.
+ Este medicamento contém menos de 1 mmol de sódio (23 mg) por frasco para injectáveis, i. e. é essencialmente “ livre de sódio ”.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Desconhecem-se interacções do Helixate NexGen com outros medicamentos.
+ 4.6 Gravidez e aleitamento Não foram realizados em animais quaisquer estudos de reprodução com o Helixate NexGen.
+ Em virtude da raridade da hemofilia A na mulher, não se dispõe de qualquer experiência sobre o uso de Helixate NexGen durante a gravidez e aleitamento. Por este motivo Helixate NexGen só deve ser utilizado durante a gravidez e aleitamento quando a sua indicação for evidente.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Os efeitos de Helixate NexGen sobre a capacidade de conduzir e utilizar máquinas são nulos.
+ 33 4.8 Efeitos indesejáveis
+ Após a administração de Helixate NexGen, observaram-se efeitos adversos ligeiros a moderados em casos raros tal como apresentado no seguinte quadro.
+ Classe de sistema de órgãos MedDRA Doenças do sangue e do sistema linfático Doenças gastrointestinais
+ Termo MedDRA preferido Inibição do Factor VIII Disgeusia Náuseas
+ Perturbações gerais e alterações no local de administração Doenças do sistema imunitário Exames complementares de diagnóstico Doenças do sistema nervoso Afecções dos tecidos cutâneos e subcutâneas
+ Reacção no local de injecção Pirexia Reacção alérgica/anafiláctica Pressão sanguínea anormal Tonturas Prurido Erupções cutâneas
+ A formação de anticorpos neutralizantes do factor VIII conhecida no tratamento de indivíduos com hemofilia A.
+ (inibidores) constitui uma complicação Em estudos com preparações de factor VIII
+ recombinante o desenvolvimento de inibidores foi observado predominantemente em hemofílicos previamente não tratados. Os doentes devem ser cuidadosamente monitorizados para pesquisa de desenvolvimento de anticorpos inibidores, através de observações clínicas e de testes laboratoriais apropriados.
+ Nos estudos clínicos Helixate NexGen foi usado no tratamento de episódios hemorrágicos em 37 doentes préviamente não tratados (PUPs) e em 23 doentes pediátricos minimamente tratados (MTP, definidos como tendo 4 ou menos dias de exposição). Cinco dos 37 (14%) doentes PUP e 4 dos 23 (17%) doentes MTP tratados com Helixate NexGen desenvolveram inibidores: globalmente 6 em 60 doentes (10%) com um título acima de 10 UB e 3 em 60 (5%) com um título abaixo de 10 UB. A mediana do número de dias de exposição no momento da detecção dos inibidores nestes doentes foi de 9 dias (intervalo entre 3-18 dias)
+ A mediana do número de dias de exposição nos estudos clínicos foi de 114 (intervalo: 4-478). Quatro dos cinco doentes que não alcançaram 20 dias de exposição no final do estudo atingiram mais de 20 dias de exposição no seguimento pós-estudo e um deles desenvolveu um baixo título de inibidores. O quinto doente foi perdido no seguimento.
+ Em estudos clínicos com 73 doentes préviamente tratados (PTP, definidos como tendo mais de 100 dias de exposição) seguidos ao longo de quatro anos, não foram observados inibidores de novo.
+ Nos extensos estudos pós-registo com Helixate NexGen, envolvendo mais de 1000 doentes observou-se o seguinte: menos de 0,2% dos PTP desenvolveram inibidores de novo. No subconjunto definido como tendo menos de 20 dias de exposição ao entrar no estudo menos de 11% desenvolveram inibidores de novo.
+ Durante os estudos nenhum dos doentes desenvolveu títulos clinicamente relevantes de anticorpos contra as quantidades residuais de proteínas de ratinho e de hamster presentes na formulação. Contudo, em alguns doentes predispostos há a possibilidade de reacções alérgicas aos constituintes da formulação ex: traços de proteínas de ratinho e hamster (ver secções 4.3 e 4.4).
+ 4.9 Sobredosagem Não foram observados sintomas de sobredosagem com factor VIII recombinante de coagulação.
+ 34 5. PROPRIEDADES FARMACOLÓGICAS
+ 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: factor VIII de coagulação sanguínea, código ATC B02B D02.
+ O complexo factor VIII/von Willebrand (vWF) consiste em duas moléculas (factor VIII e vWF) com diferentes funções fisiológicas. Quando injectado a um doente hemofílico, o factor VIII liga-se ao vWF da circulação do doente. O factor VIII activado actua como cofactor para o factor IX activado, acelerando a conversão de factor X em factor X activado. O factor X activado converte a protrombina em trombina. A trombina converte então o fibrinogénio em fibrina e o coágulo pode formar-se. A hemofilia A é uma doença hereditária, da coagulação sanguínea, ligada ao sexo, que é devida a uma diminuição dos níveis de factor VIII: C e que resulta em hemorragias nas articulações, músculos e órgãos internos, quer espontaneamente quer como resultado de trauma acidental ou cirúrgico. Através da terapêutica de substituição os níveis plasmáticos de factor VIII são aumentados, permitindo desta forma uma correcção temporária da deficiência do factor e uma correcção das tendências hemorrágicas.
+ A determinação do tempo parcial de tromboplastina activada (aPTT) constitui um método convencional de doseamento in vitro para a avaliação da actividade biológica do factor VIII. O aPTT apresenta-se prolongado em todos os hemofílicos. O grau e normalização de duração da aPTT observado após a administração do Helixate NexGen é semelhante ao conseguido com o factor VIII derivado do plasma.
+ 5.2 Propriedades farmacocinéticas A análise de todas as recuperações registadas in vivo em doentes previamente tratados demonstrou uma elevação média de 2% por UI/kg de peso corporal para o Helixate NexGen. Este resultado é semelhante aos valores relatados para o factor VIII derivado do plasma humano.
+ Após a administração de Helixate NexGen, a redução do pico de actividade do factor VIII processou-se segundo um factor exponencial bifásico, com uma semi-vida terminal média de cerca de 15 horas. Esta é semelhante à do factor VIII derivado do plasma, que apresenta uma semi-vida terminal média de aproximadamente 13 horas. Parâmetros farmacocinéticos adicionais para o Helixate NexGen para injecção por bólus i. v são: tempo médio de residência[ (TMR (0-48)] de cerca de 22 horas e uma depuração de cerca de 160 ml/h. A depuração média na linha basal para 14 doentes adultos sujeitos a cirurgias major com perfusão contínua é de 188 ml/h correspondendo a 3,0 ml/h/Kg (intervalo de 1,6-4,6 ml/h/Kg).
+ 5.3 Dados de segurança pré-clínica Não foi possível demonstrar quaisquer efeitos tóxicos agudos ou subagudos do Helixate NexGen em animais de laboratório (ratinho, rato, coelho e cão), mesmo quando se administram doses múltiplas da dose clínica recomendada (em função do peso corporal).
+ Não foram realizados quaisquer estudos específicos com a administração repetida de octocog alfa, nomeadamente sobre a toxicidade na reprodução, toxicidade crónica e carcinogenicidade, devido à resposta imunitária às proteínas heterólogas presentes em todas as espécies de mamíferos não humanos.
+ Não foram realizados estudos sobre o potencial mutagénico do Helixate NexGen uma vez que não foi detectado qualquer potencial mutagénico tanto in vitro como in vivo para o produto predecessor do Helixate NexGen.
+ 35 6. INFORMAÇÕES FARMACÊUTICAS
+ 6.1. Lista dos excipientes Pó Glicina Cloreto de sódio Cloreto de cálcio Histidina Polissorbato 80 Sacarose
+ Solvente Água para preparações injectáveis
+ 6.2 Incompatibilidades Este medicamento não deve ser misturado com outros medicamentos ou solventes. Apenas podem ser usados os conjuntos de administração fornecidos pois pode ocorrer falha do tratamento como consequência da adsorção do factor VIII de coagulação humano às superfícies internas de alguns equipamentos de perfusão.
+ 6.3 Prazo de validade 24 meses. O produto deve ser utilizado imediatamente após reconstituição. No entanto, foram demonstradas estabilidade química e física durante a utilização a 30ºC por um período de 48 horas.
+ 6.4 Precauções especiais de conservação
+ Conservar no frigorífico (2°C – 8°C). Não congelar. Manter os frascos para injectáveis dentro da embalagem exterior para proteger da luz.
+ Quando mantido dentro da embalagem exterior o produto pode ser conservado à temperatura ambiente (até 25°C) por um período limitado até 3 meses. Neste caso, o produto perde a validade ao fim de 3 meses; a nova data de validade deve ser anotada na parte superior da embalagem.
+ Após a reconstituição não refrigerar. Para administração única. Restos de solução não usada devem ser eliminados.
+ Para as condições de conservação do medicamento reconstituído ver a secção 6.3.
+ 6.5 Natureza e conteúdo do recipiente Cada embalagem de Helixate NexGen contém: • Um frasco para injectáveis com pó (de 10 ml de vidro transparente tipo 1 com rolha de borracha cinzenta bromobutílica sem látex e cápsula de alumínio). • Um frasco para injectáveis com solvente (de 10 ml de vidro transparente tipo 2 com rolha de borracha cinzenta clorobutílica sem látex e cápsula de alumínio). • Uma embalagem adicional com:
+ -1 dispositivo de transferência com filtro 20/20
+ -1 dispositivo de venopunctura
+ -1 seringa de 5 ml descartável
+ -2 compressas estéreis com álcool para utilização única.
+ 36 6.6 Precauções especiais de eliminação e manuseamento
+ No folheto informativo são fornecidas instruções detalhadas para a preparação e administração de Helixate NexGen.
+ Helixate NexGen pó deve apenas ser reconstituído com o solvente fornecido (5,0 ml de água para preparações injectáveis) usando o dispositivo estéril de transferência com filtro fornecido, Mix2Vial. A reconstituição deve ser realizada de acordo com as regras de boas práticas, particularmente no que diz respeito à assepsia. Rodar suavemente o frasco para injectáveis até todo o pó se encontrar dissolvido. Após a reconstituição a solução é transparente. Não usar Helixate NexGen se observar turvação ou partículas visíveis.
+ Após a reconstituição, a solução é retirada usando o dispositivo de transferência com filtro Mix2Vial para a seringa estéril descartável (ambos fornecidos).
+ Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências ocais.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Bayer HealthCare AG D-51368 Leverkusen Alemanha
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EMEA/H/C/276/X/56/004 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 04 Agosto 2000 Data da última renovação: 04 Agosto 2005
+ 10. DATA DA REVISÃO DO TEXTO Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia do Medicamento (EMEA) http: //www. emea. europa. eu.
+ 37 ANEXO II
+ A. FABRICANTE(S) DA(S) SUBSTÂNCIA(S) ACTIVA(S) DE ORIGEM BIOLÓGICA E TITULAR(ES) DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 38 A. FABRICANTE(S) DA(S) SUBSTÂNCIA(S) ACTIVA(S) DE ORIGEM BIOLÓGICA E TITULAR(ES) DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do fabricante da substância activa de origem biológica
+ Bayer Corporation (license holder) Bayer HealthCare LLC 800 Dwight Way Berkeley, CA 94710 Estados Unidos da América
+ Nome e endereço do fabricante responsável pela libertação do lote
+ Bayer HealthCare Manufacturing S. r. l. Bellaria,35 I-53010 Torri-Sovicille (SI) Itália
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento desujeito a receita médica restrita, de utilização reservada a certos meios especializados (ver anexo I: Resumo das Características do Medicamento, secção 4.2).
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ Não aplicável. • OUTRAS CONDIÇÕES
+ Sistema de Farmacovigilância O titular da AIM deve assegurar que o sistema de farmacovigilância, tal como descrito na versão 2 apresentada no Módulo 1. 8.1 do Pedido de Autorização de Introdução no Mercado, está implementado e em funcionamento antes e enquanto o medicamento estiver no mercado.
+ Plano de Gestão de Risco O titular da AIM compromete-se a realizar os estudos e actividades adicionais de farmacovigilância detalhadas no Plano de Farmacovigilância, de acordo com a versão 1.3 apresentada no Módulo 1. 8.2 do Plano de Gestão de Risco (PGR) do Pedido de Autorização de Introdução no Mercado e com futuras actualizações do PGR acordadas pelo CHMP.
+ De acordo com a norma orientadora do CHMP sobre Sistemas de Gestão de Risco, o PGR actualizado deve ser submetido ao mesmo tempo que o próximo Relatório Periódico de Segurança (RPS).
+ 39 Adicionalmente, deve ser submetido um PGR actualizado: • Quando é recebida nova informação com impacto na Especificação de Segurança actual, no Plano de Farmacovigilância ou nas actividades de minimização de risco; • No intervalo de 60 dias de um acontecimento importante (farmacovigilância ou minimização de risco); • A pedido da EMEA.
+ 40 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 41 A. ROTULAGEM
+ 42 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ EMBALAGEM EXTERIOR 1. NOME DO MEDICAMENTO Helixate NexGen 250 UI Pó e solvente para solução injectável
+ Factor VIII recombinante de coagulação (octocog alfa)
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ 1 frasco para injectáveis: 250 UI de octocog alfa (100 UI/ml após reconstituição).
+ 3. LISTA DOS EXCIPIENTES Glicina, cloreto de sódio, cloreto de cálcio, histidina, polissorbato 80, sacarose.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 1 frasco para injectáveis com pó para solução injectável. 1 frasco para injectáveis com 2,5 ml de água para preparações injectáveis.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Para administração única por via intravenosa. Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP: { MM/AAAA} EXP (se armazenado à temperatura ambiente, tem validade até ao fim de 3 meses): .............. Não usar depois desta data.
+ 43 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico (2°C – 8°C). Não congelar.
+ Manter os frascos para injectáveis dentro da embalagem exterior para proteger da luz.
+ O produto embalado pode ser conservado à temperatura ambiente (até 25°C) por um período único ininterrupto até 3 meses; a nova data de validade deve ser anotada na parte superior da embalagem. A solução reconstituída deve ser usada imediatamente. Após a reconstituição não refrigerar.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Bayer HealthCare AG, D-51368 Leverkusen, Alemanha
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/00/144/001 13. NÚMERO DO LOTE Lote: { Número} 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Helixate NexGen 250 44 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ FRASCO PARA INJECTÁVEIS COM PÓ PARA SOLUÇÃO INJECTÁVEL
+ 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Helixate NexGen 250 UI Pó para solução injectável
+ Factor VIII recombinante de coagulação (octocog alfa)
+ 2. MODO DE ADMINISTRAÇÃO Via intravenosa. 3. PRAZO DE VALIDADE EXP: { MM/AAAA} 4. NÚMERO DO LOTE Lot: { Número} 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 1 frasco para injectáveis: 250 UI de octocog alfa (100 UI/ml após reconstituição).
+ 6. OUTRAS 45 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ FRASCO PARA INJECTÁVEIS COM 2,5 ML DE ÁGUA PARA INJECTÁVEIS
+ 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Água para preparações injectáveis 2,5 ml 2. MODO DE ADMINISTRAÇÃO Para reconstituição de Helixate NexGen, consultar o folheto informativo. Utilizar o conteúdo na totalidade.
+ 3. PRAZO DE VALIDADE EXP: { MM/AAAA} 4. NÚMERO DO LOTE Lot: { Número} 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 6. OUTRAS 46 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ EMBALAGEM EXTERIOR 1. NOME DO MEDICAMENTO Helixate NexGen 500 UI Pó e solvente para solução injectável
+ Factor VIII recombinante de coagulação (octocog alfa)
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ 1 frasco para injectáveis: 500 UI de octocog alfa (200 UI/ml após reconstituição).
+ 3. LISTA DOS EXCIPIENTES Glicina, cloreto de sódio, cloreto de cálcio, histidina, polissorbato 80, sacarose.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 1 frasco para injectáveis com pó para solução injectável. 1 frasco para injectáveis com 2,5 ml de água para preparações injectáveis.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Para administração única por via intravenosa. Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP: { MM/AAAA} EXP (se armazenado à temperatura ambiente, tem validade até ao fim de 3 meses): .............. Não usar depois desta data.
+ 47 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico (2°C – 8°C). Não congelar.
+ Manter os frascos para injectáveis dentro da embalagem exterior para proteger da luz.
+ O produto embalado pode ser conservado à temperatura ambiente (até 25°C) por um período único ininterrupto até 3 meses; a nova data de validade deve ser anotada na parte superior da embalagem. A solução reconstituída deve ser usada imediatamente. Após a reconstituição não refrigerar.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Bayer HealthCare AG, D-51368 Leverkusen, Alemanha
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/00/144/002 13. NÚMERO DO LOTE Lote: { Número} 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Helixate NexGen 500 48 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ FRASCO PARA INJECTÁVEIS COM PÓ PARA SOLUÇÃO INJECTÁVEL
+ 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Helixate NexGen 500 UI Pó para solução injectável
+ Factor VIII recombinante de coagulação (octocog alfa)
+ 2. MODO DE ADMINISTRAÇÃO Via intravenosa. 3. PRAZO DE VALIDADE EXP: { MM/AAAA} 4. NÚMERO DO LOTE Lot: { Número} 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 1 frasco para injectáveis: 500 UI de octocog alfa (200 UI/ml após reconstituição).
+ 6. OUTRAS 49 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ FRASCO PARA INJECTÁVEIS COM 2,5 ML DE ÁGUA PARA INJECTÁVEIS
+ 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Água para preparações injectáveis 2,5 ml 2. MODO DE ADMINISTRAÇÃO Para reconstituição de Helixate NexGen, consultar o folheto informativo. Utilizar o conteúdo na totalidade.
+ 3. PRAZO DE VALIDADE EXP: { MM/AAAA} 4. NÚMERO DO LOTE Lot: { Número} 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 6. OUTRAS 50 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ EMBALAGEM EXTERIOR 1. NOME DO MEDICAMENTO Helixate NexGen 1000 UI Pó e solvente para solução injectável
+ Factor VIII recombinante de coagulação (octocog alfa)
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ 1 frasco para injectáveis: 1000 UI de octocog alfa (400 UI/ml após reconstituição).
+ 3. LISTA DOS EXCIPIENTES Glicina, cloreto de sódio, cloreto de cálcio, histidina, polissorbato 80, sacarose.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 1 frasco para injectáveis com pó para solução injectável. 1 frasco para injectáveis com 2,5 ml de água para preparações injectáveis.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Para administração única por via intravenosa. Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP: { MM/AAAA} EXP (se armazenado à temperatura ambiente, tem validade até ao fim de 3 meses): .............. Não usar depois desta data.
+ 51 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico (2°C – 8°C). Não congelar.
+ Manter os frascos para injectáveis dentro da embalagem exterior para proteger da luz.
+ O produto embalado pode ser conservado à temperatura ambiente (até 25°C) por um período único ininterrupto até 3 meses; a nova data de validade deve ser anotada na parte superior da embalagem. A solução reconstituída deve ser usada imediatamente. Após a reconstituição não refrigerar.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Bayer HealthCare AG, D-51368 Leverkusen, Alemanha
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/00/144/003 13. NÚMERO DO LOTE Lote: { Número} 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Helixate NexGen 1000 52 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ FRASCO PARA INJECTÁVEIS COM PÓ PARA SOLUÇÃO INJECTÁVEL
+ 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Helixate NexGen 1000 UI Pó para solução injectável
+ Factor VIII recombinante de coagulação (octocog alfa)
+ 2. MODO DE ADMINISTRAÇÃO Via intravenosa. 3. PRAZO DE VALIDADE EXP: { MM/AAAA} 4. NÚMERO DO LOTE Lot: { Número} 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 1 frasco para injectáveis: 1000 UI de octocog alfa (400 UI/ml após reconstituição).
+ 6. OUTRAS 53 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ FRASCO PARA INJECTÁVEIS COM 2,5 ML DE ÁGUA PARA INJECTÁVEIS
+ 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Água para preparações injectáveis 2,5 ml 2. MODO DE ADMINISTRAÇÃO Para reconstituição de Helixate NexGen, consultar o folheto informativo. Utilizar o conteúdo na totalidade.
+ 3. PRAZO DE VALIDADE EXP: { MM/AAAA} 4. NÚMERO DO LOTE Lot: { Número} 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 6. OUTRAS 54 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ EMBALAGEM EXTERIOR 1. NOME DO MEDICAMENTO Helixate NexGen 2000 UI Pó e solvente para solução injectável
+ Factor VIII recombinante de coagulação (octocog alfa)
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ 1 frasco para injectáveis: 2000 UI de octocog alfa (400 UI/ml após reconstituição).
+ 3. LISTA DOS EXCIPIENTES Glicina, cloreto de sódio, cloreto de cálcio, histidina, polissorbato 80, sacarose.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 1 frasco para injectáveis com pó para solução injectável. 1 frasco para injectáveis com 5,0 ml de água para preparações injectáveis.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Para administração única por via intravenosa. Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP: { MM/AAAA} EXP (se armazenado à temperatura ambiente, tem validade até ao fim de 3 meses): .............. Não usar depois desta data.
+ 55 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico (2°C – 8°C). Não congelar.
+ Manter os frascos para injectáveis dentro da embalagem exterior para proteger da luz.
+ O produto embalado pode ser conservado à temperatura ambiente (até 25°C) por um período único ininterrupto até 3 meses; a nova data de validade deve ser anotada na parte superior da embalagem. A solução reconstituída deve ser usada imediatamente. Após a reconstituição não refrigerar.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Bayer HealthCare AG, D-51368 Leverkusen, Alemanha
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EMEA/H/C/276/X/56/004 13. NÚMERO DO LOTE Lote: { Número} 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Helixate NexGen 2000 56 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ FRASCO PARA INJECTÁVEIS COM PÓ PARA SOLUÇÃO INJECTÁVEL
+ 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Helixate NexGen 2000 UI Pó para solução injectável
+ Factor VIII recombinante de coagulação (octocog alfa)
+ 2. MODO DE ADMINISTRAÇÃO Via intravenosa. 3. PRAZO DE VALIDADE EXP: { MM/AAAA} 4. NÚMERO DO LOTE Lot: { Número} 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 1 frasco para injectáveis: 2000 UI de octocog alfa (400 UI/ml após reconstituição).
+ 6. OUTRAS 57 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ FRASCO PARA INJECTÁVEIS COM 5,0 ML DE ÁGUA PARA INJECTÁVEIS
+ 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Água para preparações injectáveis 5,0 ml 2. MODO DE ADMINISTRAÇÃO Para reconstituição de Helixate NexGen, consultar o folheto informativo. Utilizar o conteúdo na totalidade.
+ 3. PRAZO DE VALIDADE EXP: { MM/AAAA} 4. NÚMERO DO LOTE Lot: { Número} 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 6. OUTRAS 58 B. FOLHETO INFORMATIVO
+ 59 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Helixate NexGen 250 UI pó e solvente para solução injectável Factor VIII recombinante de coagulação (octocog alfa)
+ Leia atentamente este folheto antes de utilizar este medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é Helixate NexGen 250 UI e para que é utilizado 2. Antes de utilizar Helixate NexGen 250 UI 3. Como utilizar Helixate NexGen 250 UI 4. Efeitos secundários possíveis 5. Como conservar Helixate NexGen 250 UI 6. Outras informações
+ 1. O QUE É Helixate NexGen 250 UI E PARA QUE É UTILIZADO
+ Um frasco para injectáveis com pó para solução injectável contém 250 UI de octocog alfa (UI representam Unidades Internacionais). Após reconstituição com o volume adequado de solvente (água para injectáveis) cada frasco contém 100 UI/ml de octocog alfa.
+ Grupo farmacoterapêutico: factor VIII de coagulação sanguínea (código ATC B02B D02).
+ Tratamento e profilaxia de hemorragias em doentes com hemofilia A (deficiência congénita de factor VIII).
+ Esta preparação não contém o factor von Willebrand, pelo que não está indicada na doença de von Willebrand.
+ 2. ANTES DE UTILIZAR Helixate NexGen 250 UI
+ Não utilize Helixate NexGen 250 UI se é alérgico (hipersensível) ao octocog alfa, às proteínas de ratinho ou hamster ou a qualquer outro componente de Helixate NexGen 250 UI. Se não estiver seguro quanto a este facto pergunte ao seu médico.
+ Tome especial cuidado com Helixate NexGen 250 UI pois existe a possibilidade rara de poder vir a sofrer uma reacção anafiláctica (uma reacção alérgica súbita e grave). Se sentir um aperto no peito, tonturas, sensação de mal estar ou desmaio ou tonturas em pé, poderá estar a desenvolver uma reacção alérgica a Helixate NexGen 250 UI. Nesta situação pare imediatamente a administração do produto e consulte um médico.
+ O seu médico poderá querer efectuar análises para garantir que a dose de Helixate NexGen 250 UI que está a usar é suficiente para alcançar e manter níveis adequados de factor VIII.
+ Se as suas hemorragias não são controladas com Helixate NexGen 250 UI, consulte imediatamente o seu médico. Poderá ter desenvolvido inibidores contra o factor VIII e o seu médico poderá querer realizar análises para confirmar este facto. Os inibidores do factor VIII são anticorpos que existem no sangue e que bloqueiam o factor VIII que utiliza.
+ 60 Isto torna o factor VIII menos efectivo no controle das hemorragias. Se desenvolveu anteriormente inibidores do Factor VIII e se mudou para um Factor VIII diferente, poderá estar em risco de reaparecimento dos inibidores.
+ Utilizar Helixate NexGen com outros medicamentos Não são conhecidas interacções com outros medicamentos. Contudo, informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica.
+ Gravidez e aleitamento Com base na rara ocorrência de hemofilia A em mulheres, não existe experiência relativamente ao uso de Helixate NexGen 250 UI durante a gravidez e aleitamento. Por este motivo, se está grávida ou a amamentar consulte o seu médico antes de usar este produto.
+ Condução de veículos e utilização de máquinas: Não foram observados efeitos sobre a capacidade de conduzir e utilizar máquinas.
+ Informações importantes sobre alguns componentes de Helixate NexGen 250 UI Este medicamento contém menos de 1 mmol de sódio (23 mg) por frasco para injectáveis, i. e. é essencialmente “ livre de sódio ”.
+ 3. COMO UTILIZAR Helixate NexGen 250 UI
+ Helixate NexGen 250 UI destina-se apenas a utilização por via intravenosa e deve ser administrado imediatamente após a reconstituição. A administração deve efectuar-se em condições assépticas (ou seja em condições de perfeita higiene e sem germes). Use apenas os dispositivos médicos para reconstituição e administração fornecidos em cada embalagem de Helixate NexGen 250 UI. Helixate NexGen 250 UI não deve ser misturado com outras soluções injectáveis. Não utilize soluções que contenham partículas visíveis ou que estejam turvas. Siga rigorosamente as instruções fornecidas pelo seu médico e use as instruções abaixo indicadas como guia:
+ 61
+ 1. 2. Lave cuidadosamente as mãos, utilizando água morna e sabão. Antes da abertura aqueça com as mãos os frascos para injectáveis do diluente e do concentrado, até atingirem uma temperatura confortável (sem exceder 37°C).
+ 3. Certifique-se que são retiradas as cápsulas dos frascos para injectáveis do produto e do diluente e que as tampas são tratadas
+ 4 com uma solução asséptica, permitindo que sequem antes da abertura da embalagem do Mix2Vial.
+ 4. 5. Abra a embalagem do Mix2Vial descolando e retirando a aba. Coloque o frasco para injectáveis do diluente numa superfície plana e limpa, segurando-o com firmeza. Pegue no Mix2Vial através da embalagem e encaixe a extremidade azul na tampa do frasco para injectáveis do solvente.
+ 5 6. Retire cuidadosamente a embalagem que contém o Mix2Vial. Certifique-se que apenas retira a embalagem e não o Mix2Vial.
+ 7. Mantendo o frasco para injectáveis do produto firmemente apoiado numa superfície, inverta o frasco para injectáveis do diluente com o sistema acoplado e insira o adaptador transparente na tampa do frasco para injectáveis do produto. O diluente será automaticamente transferido para o frasco para
+ 6 8. injectáveis do produto. Com os frascos para injectáveis do diluente e do produto ainda ligados, rode suavemente o frasco para injectáveis do produto para assegurar a sua completa dissolução. Não agite o frasco para injectáveis.
+ 7 9. Com uma das mãos segure a parte do sistema Mix2Vial acoplada ao produto e com a outra mão segure a parte do sistema Mix2Vial acoplada ao solvente; separe as duas peças do sistema. Insira ar (3 ml) numa seringa estéril vazia. Mantendo o frasco para injectáveis do produto na vertical virado para cima, adapte a seringa no sistema Mix2Vial. Injecte ar no frasco para injectáveis do produto.
+ 8 10. Mantendo o êmbolo da seringa pressionado, inverta o sistema, virando-o para baixo e aspire o concentrado para a seringa puxando o êmbolo devagar para trás.
+ 11. Após o concentrado ter sido transferido para a seringa, segure com firmeza no corpo da seringa (mantendo o êmbolo da seringa virado para baixo) e retire o sistema Mix2Vial da seringa. Segure na seringa virada para cima e empurre o êmbolo até que deixe de existir ar na seringa.
+ 9 12. 13. Aplique um torniquete. Escolha o ponto da injecção e prepare-o com uma compressa antiséptica.
+ 14. Puncione a veia e segure o dispositivo de venopunctura com um adesivo.
+ 10 15. Permita que o fluxo de sangue flua para a extremidade aberta do sistema de venopunctura e, em seguida, encaixe a seringa contendo o concentrado. Certifique-se de que não entra sangue na seringa.
+ 16. 17. Retire o torniquete. Injecte a solução por via intravenosa durante um período de vários minutos, tendo atenção à posição da agulha. A velocidade de administração deve ser determinada pelo conforto do doente (velocidade de perfusão máxima: 2 ml/min).
+ 11 62 18. Se necessitar de administrar uma nova dose utilize uma seringa nova, ligando-a à agulha filtrante e enchendo-a de modo idêntico ao anteriormente descrito. 19. Se não for necessário administrar outra dose, remova o dispositivo de venopunctura e a seringa, segurando firmemente uma compressa sobre o local da injecção, durante aproximadamente 2 minutos, e mantendo o braço do doente esticado. Por último, aplique um penso na ferida, mantendo uma ligeira pressão.
+ A quantidade de Helixate NexGen 250 UI a usar e a frequência da sua utilização depende de muitos factores tais como o seu peso, a gravidade da hemofilia, o local e a extensão da hemorragia, a quantidade de inibidores de factor VIII que possa ter presentes, e o nível de factor VIII exigido.
+ O seu médico irá calcular a dose de Helixate NexGen 250 UI e a frequência com que o deve usar para obter o nível necessário de actividade de factor VIII no seu sangue. Ele determinará isso em função das suas necessidades individuais usando a fórmula abaixo:
+ I. UI necessárias= peso corporal (kg) x aumento desejado do factor VIII (% do normal) x 0,5
+ II. Aumento previsto do Factor VIII (% do normal)= 2 x UI administradas Peso corporal (kg)
+ No quadro que se segue encontra-se indicado um guia para os níveis mínimos de Factor VIII no sangue. No caso das situações hemorrágicas indicadas, a actividade do Factor VIII não deve ser inferior ao nível indicado (em% do normal) no decurso do período correspondente:
+ 63
+ Grau de hemorragia/Tipo de procedimento cirúrgico Hemorragia
+ Nível requerido de actividade do factor VIII (%) (UI/dl)
+ Frequência das doses (horas)/Duração do tratamento (dias)
+ Hemartrose precoce, hemorragia muscular ou hemorragia oral
+ 20-40 Repetir cada 12 a 24 horas. Pelo menos 1 dia, até o episódio hemorrágico estar ultrapassado como indicado pela dor ou estar curado.
+ Hemartrose mais extensa, hemorragia muscular ou hematoma
+ 30-60 Repetir a injecção cada 12-24 horas durante 3-4 dias ou mais até a dor e a incapacidade estarem resolvidas.
+ Hemorragias com risco de vida tais como hemorragias intracranianas, hemorragias da garganta, hemorragias abdominais graves Cirurgia
+ 60-100 Repetir a injecção cada 8 a 24 horas até o perigo estar ultrapassado.
+ Minor Incluindo extracção dentária
+ 30-60 cada 24 horas, pelo menos 1 dia, até ser conseguida a cura.
+ Major 80-100 a) Por bólus intravenoso Repetir a injecção cada 8-24 horas
+ (pré e
+ pós-operatória)
+ até cicatrização adequada da ferida, prosseguir com o tratamento durante pelo menos outros 7 dias para manter a actividade do factor VIII nos 30% a 60%. b) Por perfusão contínua Aumentar a actividade pré-cirurgia do factor VIII com uma injecção inicial por bólus intravenoso seguida imediatamente por uma perfusão contínua (em UI/Kg/h), ajustada de acordo com a depuração diária do doente e níveis pretendidos do factor VIII, durante pelo menos 7 dias.
+ O seu médico deverá sempre adaptar a quantidade de Helixate NexGen 250 UI a administrar e a frequência da administração de acordo com a efectividade clínica no seu caso. Em certas circunstâncias podem ser necessárias quantidades superiores às calculadas, em especial no caso da dose inicial.
+ Se está a usar Helixate NexGen 250 UI para prevenir hemorragias (profilaxia), o seu médico deverá efectuar o cálculo da dose para o seu caso. Esta situa-se geralmente entre 20 e 60 UI de octocog alfa por kg de peso corporal, administrados em intervalos de 2 a 3 dias. Contudo, em alguns casos, especialmente em doentes mais novos podem ser necessárias doses mais elevadas ou intervalos menores.
+ Embora a posologia possa ser estimada com os cálculos acima apresentados, recomenda-se muito especialmente a realização de análises laboratoriais adequadas no plasma em intervalos adequados por forma a garantir que os níveis de factor VIII foram atingidos e mantidos. Em particular no caso de
+ 64 intervenções cirúrgicas major é indispensável uma monitorização precisa do tratamento substitutivo através da análise da coagulação. Caso os níveis plasmáticos de factor VIII não alcancem os níveis esperados, ou no caso de as hemorragias não serem controladas após uma dosagem aparentemente adequada, deve suspeitar-se da presença de inibidores de factor VIII. Através de meios laboratoriais apropriados a presença de inibidores de factor VIII pode ser verificada e quantificada por um médico experiente. Se tem a impressão de que o efeito do Helixate NexGen 250 UI é muito intenso ou muito fraco, fale com o seu médico.
+ Doentes com inibidores Se foi informado(a) pelo seu médico de que desenvolveu inibidores de factor VIII (anticorpos neutralizantes) terá possivelmente necessidade de utilizar uma dose de Helixate NexGen superior à anteriormente usada por forma a controlar as hemorragias. Se esta dose não controlar as hemorragias o seu médico poderá considerar a utilização de um produto adicional, concentrado de factor VIIa ou um concentrado de complexo de protrombrina (activado). Não aumente a dose de Helixate NexGen que utiliza para controlar as hemorragias sem consultar o seu médico. Fale com o seu médico caso deseje saber mais informações. Estes tratamentos são receitados por médicos com experiência no tratamento de doentes com hemofilia A.
+ Helixate NexGen 250 UI deve ser injectado ao longo de um período de vários minutos por via intravenosa. A velocidade da administração deve ser determinada pelo nível de conforto do doente (velocidade máxima de perfusão: 2 ml/min).
+ O seu médico dir-lhe-á com que frequência e a que intervalos Helixate NexGen 250 UI deve ser administrado.
+ Normalmente o tratamento substitutivo com Helixate NexGen 250 UI é para toda a vida.
+ Se usou mais Helixate NexGen 250 UI do que devia: Não foram comunicados sintomas de sobredosagem com o factor VIII recombinante de coagulação. Se usou mais Helixate NexGen 250 UI do que devia, por favor informe o seu médico.
+ Caso se tenha esquecido de utilizar Helixate NexGen 250 UI: • Efectue imediatamente a administração seguinte e continue a intervalos regulares tal como recomendado pelo seu médico. • Não tome uma dose a dobrar para compensar doses individuais que se esqueceu de tomar.
+ Se parar de utilizar Helixate NexGen 250 UI Não pare a utilização de Helixate NexGen sem consultar o seu médico.
+ Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou farmacêutico.
+ 65 4. EFEITOS SECUNDÁRIOS POSSÍVEIS
+ Como todos os medicamentos, Helixate NexGen 250 UI pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas. Em casos raros poderá observar os seguintes efeitos indesejáveis após a administração de Helixate NexGen 250 UI: • Erupção cutânea/pruriginosa, reacção no local de injecção (ex.: sensação de queimadura, rubor temporário) • Reacções de hipersensibilidade (ex.: aperto no peito, sensação geral de mal estar, tonturas, náuseas e ligeira redução da pressão sanguínea, que podem provocar a sensação de desmaio ao permanecer em pé) • Sabor estranho na boca • Febre.
+ Para além disso a possibilidade de choque anafiláctico não deve ser completamente excluída. Se observar algum dos seguintes sintomas durante a injecção/perfusão: • Aperto no peito/sensação geral de mal estar • Tonturas • Hipotensão ligeira (ligeira redução da pressão sanguínea, com possível sensação de desmaio ao permanecer em pé) • Náuseas estes podem ser os primeiros indícios de reacções de hipersensibilidade ou de uma reacção anafiláctica. No caso de ocorrência de reacções alérgicas ou de hipersensibilidade a injecção/perfusão devem ser imediatamente suspensas. Por favor consulte o médico imediatamente.
+ Durante os estudos nenhum dos doentes desenvolveu títulos clinicamente relevantes de anticorpos contra as quantidades residuais de proteínas de ratinho e de hamster presentes na formulação. Contudo, em alguns doentes predispostos há a possibilidade de reacções alérgicas aos constituintes da formulação ex: traços de proteínas de ratinho e hamster.
+ A formação de anticorpos neutralizantes, inibidores do factor VIII (inibidores) constitui uma complicação conhecida no tratamento de indivíduos com hemofilia A. Em estudos com formulações de factor VIII recombinante o desenvolvimento de inibidores foi observado predominantemente em hemofílicos previamente não tratados. Deve ser cuidadosamente monitorizado para pesquisa de desenvolvimento de anticorpos inibidores, por meio de observações clínicas e de testes laboratoriais apropriados.
+ Nos estudos clínicos Helixate NexGen foi usado no tratamento de episódios hemorrágicos em 37 doentes préviamente não tratados (PUPs) e em 23 doentes pediátricos minimamente tratados (MTP, definidos como tendo 4 ou menos dias de exposição). Cinco dos 37 (14%) doentes PUP e 4 dos 23 (17%) doentes MTP tratados com Helixate NexGen desenvolveram inibidores: globalmente 6 em 60 doentes (10%) com um título acima de 10 UB e 3 em 60 (5%) com um título abaixo de 10 UB. A mediana do número de dias de exposição no momento da detecção dos inibidores nestes doentes foi de 9 dias (intervalo entre 3-18 dias)
+ A mediana do número de dias de exposição nos estudos clínicos foi de 114 (intervalo: 4-478). Quatro dos cinco doentes que não alcançaram 20 dias de exposição no final do estudo atingiram mais de 20 dias de exposição no seguimento pós-estudo e um deles desenvolveu um baixo título de inibidores. O quinto doente foi perdido no seguimento.
+ Em estudos clínicos com 73 doentes préviamente tratados (PTP, definidos como tendo mais de 100 dias de exposição) seguidos ao longo de 4 anos, não foram observados inibidores de novo.
+ 66 Nos extensos estudos pós-registo com Helixate NexGen, envolvendo mais de 1000 doentes observou-se o seguinte: menos de 0,2% dos PTP desenvolveram inibidores de novo. No subconjunto definido como tendo menos de 20 dias de exposição ao entrar no estudo menos de 11% desenvolveram inibidores de novo.
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR Helixate NexGen 250 UI
+ Manter fora do alcance e da vista das crianças. Conservar no frigorífico (2°C – 8°C). Não congelar. Manter os frascos para injectáveis dentro da embalagem exterior para proteger da luz. Pode manter o produto embalado à temperatura ambiente (até 25°C), por um período único ininterrupto até 3 meses. Neste caso, o produto perde a validade ao fim de 3 meses; deve anotar a nova data de validade na parte superior da embalagem. Após a reconstituição não refrigerar a solução. A solução reconstituída deve ser usada imediatamente. O produto destina-se apenas a administração única. Quaisquer restos de solução não usada devem ser eliminados. Não utilize Helixate NexGen 250 UI após o prazo de validade impresso no rótulo e na embalagem exterior. O prazo de validade corresponde ao último dia do mês indicado.
+ Não utilize Helixate NexGen 250 UI caso detecte quaisquer partículas visíveis ou turvação na solução.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Helixate NexGen 250 UI
+ Pó: A substância activa é o factor VIII recombinante de coagulação (octocog alfa). Os outros componentes são glicina, cloreto de sódio, cloreto de cálcio, histidina, polissorbato 80 e sacarose.
+ Solvente: Água para preparações injectáveis.
+ Qual o aspecto de Helixate NexGen 250 UI e conteúdo da embalagem
+ Helixate NexGen 250 UI é fornecido na forma de pó e solvente para solução injectável e é um pó seco ou pastilha de cor branca a ligeiramente amarelada. Após a reconstituição a solução é transparente. Com cada embalagem de Helixate NexGen 250 UI são fornecidos dispositivos médicos para reconstituição e administração.
+ Titular da Autorização de Introdução no Mercado e Fabricante
+ Titular da Autorização de Introdução no Mercado Bayer HealthCare AG D-51368 Leverkusen Alemanha
+ Fabricante Bayer HealthCare Manufacturing S. r. l. Bellaria,35 I-53010 Torri-Sovicille (SI) Itália
+ 67 Para quaisquer informações sobre este medicamento, queira contactar o representante local do titular da autorização de introdução no mercado.
+ België/Belgique/Belgien CSL Behring N. V. Tél/Tel: +32-(0) 16 38 80 80 България CSL Behring GmbH Teл.+ 49 6421 39 36 54 Česká republika IBP medica s. r. o. Tel: +42-02-4143 0299 Danmark CSL Behring AB Tlf: +46-(0) 8-54496670 Deutschland CSL Behring GmbH Tel: +49-(0) 69-30584437 Eesti CSL Behring AB Tel: +46-(0) 8-54496670 Ελλάδα CSL Behring ΜΕΠΕ, Τηλ: +30-210 7255 660 +30-210 7255 661
+ Luxembourg/Luxemburg CSL Behring N. V. Tél/Tel: +32-(0) 16 38 80 80 Magyarország Plazmed Kft. Tel: +36-28-59 10 00 Malta AM Mangion Ltd. Phone: +356 2397 6000/6412 Nederland CSL Behring N. V. Tel: +31-(0) 76 523 60 45 Norge CSL Behring AB Tlf: +46-(0) 8-54496670 Österreich CSL Behring GmbH Tel: +43-(0) 1-80101-0 Polska Imed Poland sp. z. o. o. Tel. +48 22 663 43 10
+ España CSL Behring, S. A. Tel: +34 93 367 1870 France CSL Behring S. A. Tél: +33-(0) 1-53585400 Ireland CSL Behring UK Limited Tel: +44-(0) 1444 447400 Ísland CSL Behring AB Simi: +46-(0) 8-54496670 Italia CSL Behring S. p. A. Tel: +39-02-349641 Κύπρος ΑΚΗΣ ΠΑΝΑΓΙΩΤΟΥ &amp; ΥΙΟΣ ΛΤΔ Τηλ. +357-22677038 Latvija CSL Behring AB Tel: +46-(0) 8-54496670 Lietuva CSL Behring AB Tel. +46-(0) 8-54496670
+ Portugal CSL Behring Lda. Tel. +351-21-7826230 România Prisum International Trading srl Tel. +40 21 250 3688 Slovenija MediSanus d. o. o. Tel: +386 1 518 33 97 Slovenská republika TIMED, s. r. o. Tel.: +421 2 555 711 82 Suomi/Finland CSL Behring AB Puh/Tel: +46-(0) 8-54496670 Sverige CSL Behring AB Tel: +46-(0) 8-54496670 United Kingdom CSL Behring UK Limited Tel: +44-(0) 1444 447400
+ Este folheto foi aprovado pela última vez em de.
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia do Medicamento (EMEA) http: //www. emea. europa. eu
+ 68 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Helixate NexGen 500 UI pó e solvente para solução injectável Factor VIII recombinante de coagulação (octocog alfa)
+ Leia atentamente este folheto antes de utilizar este medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é Helixate NexGen 500 UI e para que é utilizado 2. Antes de utilizar Helixate NexGen 500 UI 3. Como utilizar Helixate NexGen 500 UI 4. Efeitos secundários possíveis 5. Como conservar Helixate NexGen 500 UI 6. Outras informações
+ 1. O QUE É Helixate NexGen 500 UI E PARA QUE É UTILIZADO
+ Um frasco para injectáveis com pó para solução injectável contém 500 UI de octocog alfa (UI representam Unidades Internacionais). Após reconstituição com o volume adequado de solvente (água para injectáveis) cada frasco contém 200 UI/ml de octocog alfa.
+ Grupo farmacoterapêutico: factor VIII de coagulação sanguínea (código ATC B02B D02).
+ Tratamento e profilaxia de hemorragias em doentes com hemofilia A (deficiência congénita de factor VIII).
+ Esta preparação não contém o factor von Willebrand, pelo que não está indicada na doença de von Willebrand.
+ 2. ANTES DE UTILIZAR Helixate NexGen 500 UI
+ Não utilize Helixate NexGen 500 UI se é alérgico (hipersensível) ao octocog alfa, às proteínas de ratinho ou hamster ou a qualquer outro componente de Helixate NexGen 500 UI. Se não estiver seguro quanto a este facto pergunte ao seu médico.
+ Tome especial cuidado com Helixate NexGen 500 UI pois existe a possibilidade rara de poder vir a sofrer uma reacção anafiláctica (uma reacção alérgica súbita e grave). Se sentir um aperto no peito, tonturas, sensação de mal estar ou desmaio ou tonturas em pé, poderá estar a desenvolver uma reacção alérgica a Helixate NexGen 500 UI. Nesta situação pare imediatamente a administração do produto e consulte um médico.
+ O seu médico poderá querer efectuar análises para garantir que a dose de Helixate NexGen 500 UI que está a usar é suficiente para alcançar e manter níveis adequados de factor VIII.
+ Se as suas hemorragias não são controladas com Helixate NexGen 500 UI, consulte imediatamente o seu médico. Poderá ter desenvolvido inibidores contra o factor VIII e o seu médico poderá querer realizar análises para confirmar este facto. Os inibidores do factor VIII são anticorpos que existem no sangue e que bloqueiam o factor VIII que utiliza.
+ 69 Isto torna o factor VIII menos efectivo no controle das hemorragias. Se desenvolveu anteriormente inibidores do Factor VIII e se mudou para um Factor VIII diferente, poderá estar em risco de reaparecimento dos inibidores.
+ Utilizar Helixate NexGen com outros medicamentos Não são conhecidas interacções com outros medicamentos. Contudo, informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica.
+ Gravidez e aleitamento Com base na rara ocorrência de hemofilia A em mulheres, não existe experiência relativamente ao uso de Helixate NexGen 500 UI durante a gravidez e aleitamento. Por este motivo, se está grávida ou a amamentar consulte o seu médico antes de usar este produto.
+ Condução de veículos e utilização de máquinas: Não foram observados efeitos sobre a capacidade de conduzir e utilizar máquinas.
+ Informações importantes sobre alguns componentes de Helixate NexGen 500 UI Este medicamento contém menos de 1 mmol de sódio (23 mg) por frasco para injectáveis, i. e. é essencialmente “ livre de sódio ”.
+ 3. COMO UTILIZAR Helixate NexGen 500 UI
+ Helixate NexGen 500 UI destina-se apenas a utilização por via intravenosa e deve ser administrado imediatamente após a reconstituição. A administração deve efectuar-se em condições assépticas (ou seja em condições de perfeita higiene e sem germes). Use apenas os dispositivos médicos para reconstituição e administração fornecidos em cada embalagem de Helixate NexGen 500 UI. Helixate NexGen 500 UI não deve ser misturado com outras soluções injectáveis. Não utilize soluções que contenham partículas visíveis ou que estejam turvas. Siga rigorosamente as instruções fornecidas pelo seu médico e use as instruções abaixo indicadas como guia:
+ 70
+ 1. 2. Lave cuidadosamente as mãos, utilizando água morna e sabão. Antes da abertura aqueça com as mãos os frascos para injectáveis do diluente e do concentrado, até atingirem uma temperatura confortável (sem exceder 37°C).
+ 3. Certifique-se que são retiradas as cápsulas dos frascos para injectáveis do produto e do diluente e que as tampas são tratadas
+ 4 com uma solução asséptica, permitindo que sequem antes da abertura da embalagem do Mix2Vial.
+ 4. 5. Abra a embalagem do Mix2Vial descolando e retirando a aba. Coloque o frasco para injectáveis do diluente numa superfície plana e limpa, segurando-o com firmeza. Pegue no Mix2Vial através da embalagem e encaixe a extremidade azul na tampa do frasco para injectáveis do solvente.
+ 5 6. Retire cuidadosamente a embalagem que contém o Mix2Vial. Certifique-se que apenas retira a embalagem e não o Mix2Vial.
+ 7. Mantendo o frasco para injectáveis do produto firmemente apoiado numa superfície, inverta o frasco para injectáveis do diluente com o sistema acoplado e insira o adaptador transparente na tampa do frasco para injectáveis do produto. O diluente será automaticamente transferido para o frasco para
+ 6 8. injectáveis do produto. Com os frascos para injectáveis do diluente e do produto ainda ligados, rode suavemente o frasco para injectáveis do produto para assegurar a sua completa dissolução. Não agite o frasco para injectáveis.
+ 7 9. Com uma das mãos segure a parte do sistema Mix2Vial acoplada ao produto e com a outra mão segure a parte do sistema Mix2Vial acoplada ao solvente; separe as duas peças do sistema. Insira ar (3 ml) numa seringa estéril vazia. Mantendo o frasco para injectáveis do produto na vertical virado para cima, adapte a seringa no sistema Mix2Vial. Injecte ar no frasco para injectáveis do produto.
+ 8 10. Mantendo o êmbolo da seringa pressionado, inverta o sistema, virando-o para baixo e aspire o concentrado para a seringa puxando o êmbolo devagar para trás.
+ 11. Após o concentrado ter sido transferido para a seringa, segure com firmeza no corpo da seringa (mantendo o êmbolo da seringa virado para baixo) e retire o sistema Mix2Vial da seringa. Segure na seringa virada para cima e empurre o êmbolo até que deixe de existir ar na seringa.
+ 9 12. 13. Aplique um torniquete. Escolha o ponto da injecção e prepare-o com uma compressa antiséptica.
+ 14. Puncione a veia e segure o dispositivo de venopunctura com um adesivo.
+ 10 15. Permita que o fluxo de sangue flua para a extremidade aberta do sistema de venopunctura e, em seguida, encaixe a seringa contendo o concentrado. Certifique-se de que não entra sangue na seringa.
+ 16. 17. Retire o torniquete. Injecte a solução por via intravenosa durante um período de vários minutos, tendo atenção à posição da agulha. A velocidade de administração deve ser determinada pelo conforto do doente (velocidade de perfusão máxima: 2 ml/min).
+ 11 71 18. Se necessitar de administrar uma nova dose utilize uma seringa nova, ligando-a à agulha filtrante e enchendo-a de modo idêntico ao anteriormente descrito. 19. Se não for necessário administrar outra dose, remova o dispositivo de venopunctura e a seringa, segurando firmemente uma compressa sobre o local da injecção, durante aproximadamente 2 minutos, e mantendo o braço do doente esticado. Por último, aplique um penso na ferida, mantendo uma ligeira pressão.
+ A quantidade de Helixate NexGen 500 UI a usar e a frequência da sua utilização depende de muitos factores tais como o seu peso, a gravidade da hemofilia, o local e a extensão da hemorragia, a quantidade de inibidores de factor VIII que possa ter presentes, e o nível de factor VIII exigido.
+ O seu médico irá calcular a dose de Helixate NexGen 500 UI e a frequência com que o deve usar para obter o nível necessário de actividade de factor VIII no seu sangue. Ele determinará isso em função das suas necessidades individuais usando a fórmula abaixo:
+ I. UI necessárias= peso corporal (kg) x aumento desejado do factor VIII (% do normal) x 0,5
+ II. Aumento previsto do Factor VIII (% do normal)= 2 x UI administradas Peso corporal (kg)
+ No quadro que se segue encontra-se indicado um guia para os níveis mínimos de Factor VIII no sangue. No caso das situações hemorrágicas indicadas, a actividade do Factor VIII não deve ser inferior ao nível indicado (em% do normal) no decurso do período correspondente:
+ 72
+ Grau de hemorragia/Tipo de procedimento cirúrgico Hemorragia
+ Nível requerido de actividade do factor VIII (%) (UI/dl)
+ Frequência das doses (horas)/Duração do tratamento (dias)
+ Hemartrose precoce, hemorragia muscular ou hemorragia oral
+ 20-40 Repetir cada 12 a 24 horas. Pelo menos 1 dia, até o episódio hemorrágico estar ultrapassado como indicado pela dor ou estar curado.
+ Hemartrose mais extensa, hemorragia muscular ou hematoma
+ 30-60 Repetir a injecção cada 12-24 horas durante 3-4 dias ou mais até a dor e a incapacidade estarem resolvidas.
+ Hemorragias com risco de vida tais como hemorragias intracranianas, hemorragias da garganta, hemorragias abdominais graves Cirurgia
+ 60-100 Repetir a injecção cada 8 a 24 horas até o perigo estar ultrapassado.
+ Minor Incluindo extracção dentária
+ 30-60 cada 24 horas, pelo menos 1 dia, até ser conseguida a cura.
+ Major 80-100 a) Por bólus intravenoso Repetir a injecção cada 8-24 horas
+ (pré e
+ pós-operatória)
+ até cicatrização adequada da ferida, prosseguir com o tratamento durante pelo menos outros 7 dias para manter a actividade do factor VIII nos 30% a 60%. b) Por perfusão contínua Aumentar a actividade pré-cirurgia do factor VIII com uma injecção inicial por bólus intravenoso seguida imediatamente por uma perfusão contínua (em UI/Kg/h), ajustada de acordo com a depuração diária do doente e níveis pretendidos do factor VIII, durante pelo menos 7 dias.
+ O seu médico deverá sempre adaptar a quantidade de Helixate NexGen 500 UI a administrar e a frequência da administração de acordo com a efectividade clínica no seu caso. Em certas circunstâncias podem ser necessárias quantidades superiores às calculadas, em especial no caso da dose inicial.
+ Se está a usar Helixate NexGen 500 UI para prevenir hemorragias (profilaxia), o seu médico deverá efectuar o cálculo da dose para o seu caso. Esta situa-se geralmente entre 20 e 60 UI de octocog alfa por kg de peso corporal, administrados em intervalos de 2 a 3 dias. Contudo, em alguns casos, especialmente em doentes mais novos podem ser necessárias doses mais elevadas ou intervalos menores.
+ Embora a posologia possa ser estimada com os cálculos acima apresentados, recomenda-se muito especialmente a realização de análises laboratoriais adequadas no plasma em intervalos adequados por forma a garantir que os níveis de factor VIII foram atingidos e mantidos. Em particular no caso de
+ 73 intervenções cirúrgicas major é indispensável uma monitorização precisa do tratamento substitutivo através da análise da coagulação. Caso os níveis plasmáticos de factor VIII não alcancem os níveis esperados, ou no caso de as hemorragias não serem controladas após uma dosagem aparentemente adequada, deve suspeitar-se da presença de inibidores de factor VIII. Através de meios laboratoriais apropriados a presença de inibidores de factor VIII pode ser verificada e quantificada por um médico experiente. Se tem a impressão de que o efeito do Helixate NexGen 500 UI é muito intenso ou muito fraco, fale com o seu médico.
+ Doentes com inibidores Se foi informado(a) pelo seu médico de que desenvolveu inibidores de factor VIII (anticorpos neutralizantes) terá possivelmente necessidade de utilizar uma dose de Helixate NexGen superior à anteriormente usada por forma a controlar as hemorragias. Se esta dose não controlar as hemorragias o seu médico poderá considerar a utilização de um produto adicional, concentrado de factor VIIa ou um concentrado de complexo de protrombrina (activado). Não aumente a dose de Helixate NexGen que utiliza para controlar as hemorragias sem consultar o seu médico. Fale com o seu médico caso deseje saber mais informações. Estes tratamentos são receitados por médicos com experiência no tratamento de doentes com hemofilia A.
+ Helixate NexGen 500 UI deve ser injectado ao longo de um período de vários minutos por via intravenosa. A velocidade da administração deve ser determinada pelo nível de conforto do doente (velocidade máxima de perfusão: 2 ml/min).
+ O seu médico dir-lhe-á com que frequência e a que intervalos Helixate NexGen 500 UI deve ser administrado.
+ Normalmente o tratamento substitutivo com Helixate NexGen 500 UI é para toda a vida.
+ Se usou mais Helixate NexGen 500 UI do que devia: Não foram comunicados sintomas de sobredosagem com o factor VIII recombinante de coagulação. Se usou mais Helixate NexGen 500 UI do que devia, por favor informe o seu médico.
+ Caso se tenha esquecido de utilizar Helixate NexGen 500 UI: • Efectue imediatamente a administração seguinte e continue a intervalos regulares tal como recomendado pelo seu médico. • Não tome uma dose a dobrar para compensar doses individuais que se esqueceu de tomar.
+ Se parar de utilizar Helixate NexGen 500 UI Não pare a utilização de Helixate NexGen sem consultar o seu médico.
+ Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou farmacêutico.
+ 74 4. EFEITOS SECUNDÁRIOS POSSÍVEIS
+ Como todos os medicamentos, Helixate NexGen 500 UI pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas. Em casos raros poderá observar os seguintes efeitos indesejáveis após a administração de Helixate NexGen 500 UI: • Erupção cutânea/pruriginosa, reacção no local de injecção (ex.: sensação de queimadura, rubor temporário) • Reacções de hipersensibilidade (ex.: aperto no peito, sensação geral de mal estar, tonturas, náuseas e ligeira redução da pressão sanguínea, que podem provocar a sensação de desmaio ao permanecer em pé) • Sabor estranho na boca • Febre.
+ Para além disso a possibilidade de choque anafiláctico não deve ser completamente excluída. Se observar algum dos seguintes sintomas durante a injecção/perfusão: • Aperto no peito/sensação geral de mal estar • Tonturas • Hipotensão ligeira (ligeira redução da pressão sanguínea, com possível sensação de desmaio ao permanecer em pé) • Náuseas estes podem ser os primeiros indícios de reacções de hipersensibilidade ou de uma reacção anafiláctica. No caso de ocorrência de reacções alérgicas ou de hipersensibilidade a injecção/perfusão devem ser imediatamente suspensas. Por favor consulte o médico imediatamente.
+ Durante os estudos nenhum dos doentes desenvolveu títulos clinicamente relevantes de anticorpos contra as quantidades residuais de proteínas de ratinho e de hamster presentes na formulação. Contudo, em alguns doentes predispostos há a possibilidade de reacções alérgicas aos constituintes da formulação ex: traços de proteínas de ratinho e hamster.
+ A formação de anticorpos neutralizantes, inibidores do factor VIII (inibidores) constitui uma complicação conhecida no tratamento de indivíduos com hemofilia A. Em estudos com formulações de factor VIII recombinante o desenvolvimento de inibidores foi observado predominantemente em hemofílicos previamente não tratados. Deve ser cuidadosamente monitorizado para pesquisa de desenvolvimento de anticorpos inibidores, por meio de observações clínicas e de testes laboratoriais apropriados.
+ Nos estudos clínicos Helixate NexGen foi usado no tratamento de episódios hemorrágicos em 37 doentes préviamente não tratados (PUPs) e em 23 doentes pediátricos minimamente tratados (MTP, definidos como tendo 4 ou menos dias de exposição). Cinco dos 37 (14%) doentes PUP e 4 dos 23 (17%) doentes MTP tratados com Helixate NexGen desenvolveram inibidores: globalmente 6 em 60 doentes (10%) com um título acima de 10 UB e 3 em 60 (5%) com um título abaixo de 10 UB. A mediana do número de dias de exposição no momento da detecção dos inibidores nestes doentes foi de 9 dias (intervalo entre 3-18 dias)
+ A mediana do número de dias de exposição nos estudos clínicos foi de 114 (intervalo: 4-478). Quatro dos cinco doentes que não alcançaram 20 dias de exposição no final do estudo atingiram mais de 20 dias de exposição no seguimento pós-estudo e um deles desenvolveu um baixo título de inibidores. O quinto doente foi perdido no seguimento.
+ Em estudos clínicos com 73 doentes préviamente tratados (PTP, definidos como tendo mais de 100 dias de exposição) seguidos ao longo de 4 anos, não foram observados inibidores de novo.
+ 75 Nos extensos estudos pós-registo com Helixate NexGen, envolvendo mais de 1000 doentes observou-se o seguinte: menos de 0,2% dos PTP desenvolveram inibidores de novo. No subconjunto definido como tendo menos de 20 dias de exposição ao entrar no estudo menos de 11% desenvolveram inibidores de novo.
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR Helixate NexGen 500 UI
+ Manter fora do alcance e da vista das crianças. Conservar no frigorífico (2°C – 8°C). Não congelar. Manter os frascos para injectáveis dentro da embalagem exterior para proteger da luz. Pode manter o produto embalado à temperatura ambiente (até 25°C), por um período único ininterrupto até 3 meses. Neste caso, o produto perde a validade ao fim de 3 meses; deve anotar a nova data de validade na parte superior da embalagem. Após a reconstituição não refrigerar a solução. A solução reconstituída deve ser usada imediatamente. O produto destina-se apenas a administração única. Quaisquer restos de solução não usada devem ser eliminados. Não utilize Helixate NexGen 500 UI após o prazo de validade impresso no rótulo e na embalagem exterior. O prazo de validade corresponde ao último dia do mês indicado.
+ Não utilize Helixate NexGen 500 UI caso detecte quaisquer partículas visíveis ou turvação na solução.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Helixate NexGen 500 UI
+ Pó: A substância activa é o factor VIII recombinante de coagulação (octocog alfa). Os outros componentes são glicina, cloreto de sódio, cloreto de cálcio, histidina, polissorbato 80 e sacarose.
+ Solvente: Água para preparações injectáveis.
+ Qual o aspecto de Helixate NexGen 500 UI e conteúdo da embalagem
+ Helixate NexGen 500 UI é fornecido na forma de pó e solvente para solução injectável e é um pó seco ou pastilha de cor branca a ligeiramente amarelada. Após a reconstituição a solução é transparente. Com cada embalagem de Helixate NexGen 500 UI são fornecidos dispositivos médicos para reconstituição e administração.
+ Titular da Autorização de Introdução no Mercado e Fabricante
+ Titular da Autorização de Introdução no Mercado Bayer HealthCare AG D-51368 Leverkusen Alemanha
+ Fabricante Bayer HealthCare Manufacturing S. r. l. Bellaria,35 I-53010 Torri-Sovicille (SI) Itália
+ 76 Para quaisquer informações sobre este medicamento, queira contactar o representante local do titular da autorização de introdução no mercado.
+ België/Belgique/Belgien CSL Behring N. V. Tél/Tel: +32-(0) 16 38 80 80 България CSL Behring GmbH Teл.+ 49 6421 39 36 54 Česká republika IBP medica s. r. o. Tel: +42-02-4143 0299 Danmark CSL Behring AB Tlf: +46-(0) 8-54496670 Deutschland CSL Behring GmbH Tel: +49-(0) 69-30584437 Eesti CSL Behring AB Tel: +46-(0) 8-54496670 Ελλάδα CSL Behring ΜΕΠΕ, Τηλ: +30-210 7255 660 +30-210 7255 661
+ Luxembourg/Luxemburg CSL Behring N. V. Tél/Tel: +32-(0) 16 38 80 80 Magyarország Plazmed Kft. Tel: +36-28-59 10 00 Malta AM Mangion Ltd. Phone: +356 2397 6000/6412 Nederland CSL Behring N. V. Tel: +31-(0) 76 523 60 45 Norge CSL Behring AB Tlf: +46-(0) 8-54496670 Österreich CSL Behring GmbH Tel: +43-(0) 1-80101-0 Polska Imed Poland sp. z. o. o. Tel. +48 22 663 43 10
+ España CSL Behring, S. A. Tel: +34 93 367 1870 France CSL Behring S. A. Tél: +33-(0) 1-53585400 Ireland CSL Behring UK Limited Tel: +44-(0) 1444 447400 Ísland CSL Behring AB Simi: +46-(0) 8-54496670 Italia CSL Behring S. p. A. Tel: +39-02-349641 Κύπρος ΑΚΗΣ ΠΑΝΑΓΙΩΤΟΥ &amp; ΥΙΟΣ ΛΤΔ Τηλ. +357-22677038 Latvija CSL Behring AB Tel: +46-(0) 8-54496670 Lietuva CSL Behring AB Tel. +46-(0) 8-54496670
+ Portugal CSL Behring Lda. Tel. +351-21-7826230 România Prisum International Trading srl Tel. +40 21 250 3688 Slovenija MediSanus d. o. o. Tel: +386 1 518 33 97 Slovenská republika TIMED, s. r. o. Tel.: +421 2 555 711 82 Suomi/Finland CSL Behring AB Puh/Tel: +46-(0) 8-54496670 Sverige CSL Behring AB Tel: +46-(0) 8-54496670 United Kingdom CSL Behring UK Limited Tel: +44-(0) 1444 447400
+ Este folheto foi aprovado pela última vez em de.
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia do Medicamento (EMEA) http: //www. emea. europa. eu
+ 77 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Helixate NexGen 1000 UI pó e solvente para solução injectável Factor VIII recombinante de coagulação (octocog alfa)
+ Leia atentamente este folheto antes de utilizar este medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é Helixate NexGen 1000 UI e para que é utilizado 2. Antes de utilizar Helixate NexGen 1000 UI 3. Como utilizar Helixate NexGen 1000 UI 4. Efeitos secundários possíveis 5. Como conservar Helixate NexGen 1000 UI 6. Outras informações
+ 1. O QUE É Helixate NexGen 1000 UI E PARA QUE É UTILIZADO
+ Um frasco para injectáveis com pó para solução injectável contém 1000 UI de octocog alfa (UI representam Unidades Internacionais). Após reconstituição com o volume adequado de solvente (água para injectáveis) cada frasco contém 400 UI/ml de octocog alfa.
+ Grupo farmacoterapêutico: factor VIII de coagulação sanguínea (código ATC B02B D02).
+ Tratamento e profilaxia de hemorragias em doentes com hemofilia A (deficiência congénita de factor VIII).
+ Esta preparação não contém o factor von Willebrand, pelo que não está indicada na doença de von Willebrand.
+ 2. ANTES DE UTILIZAR Helixate NexGen 1000 UI
+ Não utilize Helixate NexGen 1000 UI se é alérgico (hipersensível) ao octocog alfa, às proteínas de ratinho ou hamster ou a qualquer outro componente de Helixate NexGen 1000 UI. Se não estiver seguro quanto a este facto pergunte ao seu médico.
+ Tome especial cuidado com Helixate NexGen 1000 UI pois existe a possibilidade rara de poder vir a sofrer uma reacção anafiláctica (uma reacção alérgica súbita e grave). Se sentir um aperto no peito, tonturas, sensação de mal estar ou desmaio ou tonturas em pé, poderá estar a desenvolver uma reacção alérgica a Helixate NexGen 1000 UI. Nesta situação pare imediatamente a administração do produto e consulte um médico.
+ O seu médico poderá querer efectuar análises para garantir que a dose de Helixate NexGen 1000 UI que está a usar é suficiente para alcançar e manter níveis adequados de factor VIII.
+ Se as suas hemorragias não são controladas com Helixate NexGen 1000 UI, consulte imediatamente o seu médico. Poderá ter desenvolvido inibidores contra o factor VIII e o seu médico poderá querer realizar análises para confirmar este facto. Os inibidores do factor VIII são anticorpos que existem no sangue e que bloqueiam o factor VIII que utiliza.
+ 78 Isto torna o factor VIII menos efectivo no controle das hemorragias. Se desenvolveu anteriormente inibidores do Factor VIII e se mudou para um Factor VIII diferente, poderá estar em risco de reaparecimento dos inibidores.
+ Utilizar Helixate NexGen com outros medicamentos Não são conhecidas interacções com outros medicamentos. Contudo, informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica.
+ Gravidez e aleitamento Com base na rara ocorrência de hemofilia A em mulheres, não existe experiência relativamente ao uso de Helixate NexGen 1000 UI durante a gravidez e aleitamento. Por este motivo, se está grávida ou a amamentar consulte o seu médico antes de usar este produto.
+ Condução de veículos e utilização de máquinas: Não foram observados efeitos sobre a capacidade de conduzir e utilizar máquinas.
+ Informações importantes sobre alguns componentes de Helixate NexGen 1000 UI Este medicamento contém menos de 1 mmol de sódio (23 mg) por frasco para injectáveis, i. e. é essencialmente “ livre de sódio ”.
+ 3. COMO UTILIZAR Helixate NexGen 1000 UI
+ Helixate NexGen 1000 UI destina-se apenas a utilização por via intravenosa e deve ser administrado imediatamente após a reconstituição. A administração deve efectuar-se em condições assépticas (ou seja em condições de perfeita higiene e sem germes). Use apenas os dispositivos médicos para reconstituição e administração fornecidos em cada embalagem de Helixate NexGen 1000 UI. Helixate NexGen 1000 UI não deve ser misturado com outras soluções injectáveis. Não utilize soluções que contenham partículas visíveis ou que estejam turvas. Siga rigorosamente as instruções fornecidas pelo seu médico e use as instruções abaixo indicadas como guia:
+ 79
+ 1. 2. Lave cuidadosamente as mãos, utilizando água morna e sabão. Antes da abertura aqueça com as mãos os frascos para injectáveis do diluente e do concentrado, até atingirem uma temperatura confortável (sem exceder 37°C).
+ 3. Certifique-se que são retiradas as cápsulas dos frascos para injectáveis do produto e do diluente e que as tampas são tratadas
+ 4 com uma solução asséptica, permitindo que sequem antes da abertura da embalagem do Mix2Vial.
+ 4. 5. Abra a embalagem do Mix2Vial descolando e retirando a aba. Coloque o frasco para injectáveis do diluente numa superfície plana e limpa, segurando-o com firmeza. Pegue no Mix2Vial através da embalagem e encaixe a extremidade azul na tampa do frasco para injectáveis do solvente.
+ 5 6. Retire cuidadosamente a embalagem que contém o Mix2Vial. Certifique-se que apenas retira a embalagem e não o Mix2Vial.
+ 7. Mantendo o frasco para injectáveis do produto firmemente apoiado numa superfície, inverta o frasco para injectáveis do diluente com o sistema acoplado e insira o adaptador transparente na tampa do frasco para injectáveis do produto. O diluente será automaticamente transferido para o frasco para
+ 6 8. injectáveis do produto. Com os frascos para injectáveis do diluente e do produto ainda ligados, rode suavemente o frasco para injectáveis do produto para assegurar a sua completa dissolução. Não agite o frasco para injectáveis.
+ 7 9. Com uma das mãos segure a parte do sistema Mix2Vial acoplada ao produto e com a outra mão segure a parte do sistema Mix2Vial acoplada ao solvente; separe as duas peças do sistema. Insira ar (3 ml) numa seringa estéril vazia. Mantendo o frasco para injectáveis do produto na vertical virado para cima, adapte a seringa no sistema Mix2Vial. Injecte ar no frasco para injectáveis do produto.
+ 8 10. Mantendo o êmbolo da seringa pressionado, inverta o sistema, virando-o para baixo e aspire o concentrado para a seringa puxando o êmbolo devagar para trás.
+ 11. Após o concentrado ter sido transferido para a seringa, segure com firmeza no corpo da seringa (mantendo o êmbolo da seringa virado para baixo) e retire o sistema Mix2Vial da seringa. Segure na seringa virada para cima e empurre o êmbolo até que deixe de existir ar na seringa.
+ 9 12. 13. Aplique um torniquete. Escolha o ponto da injecção e prepare-o com uma compressa antiséptica.
+ 14. Puncione a veia e segure o dispositivo de venopunctura com um adesivo.
+ 10 15. Permita que o fluxo de sangue flua para a extremidade aberta do sistema de venopunctura e, em seguida, encaixe a seringa contendo o concentrado. Certifique-se de que não entra sangue na seringa.
+ 16. 17. Retire o torniquete. Injecte a solução por via intravenosa durante um período de vários minutos, tendo atenção à posição da agulha. A velocidade de administração deve ser determinada pelo conforto do doente (velocidade de perfusão máxima: 2 ml/min).
+ 11 80 18. Se necessitar de administrar uma nova dose utilize uma seringa nova, ligando-a à agulha filtrante e enchendo-a de modo idêntico ao anteriormente descrito. 19. Se não for necessário administrar outra dose, remova o dispositivo de venopunctura e a seringa, segurando firmemente uma compressa sobre o local da injecção, durante aproximadamente 2 minutos, e mantendo o braço do doente esticado. Por último, aplique um penso na ferida, mantendo uma ligeira pressão.
+ A quantidade de Helixate NexGen 1000 UI a usar e a frequência da sua utilização depende de muitos factores tais como o seu peso, a gravidade da hemofilia, o local e a extensão da hemorragia, a quantidade de inibidores de factor VIII que possa ter presentes, e o nível de factor VIII exigido.
+ O seu médico irá calcular a dose de Helixate NexGen 1000 UI e a frequência com que o deve usar para obter o nível necessário de actividade de factor VIII no seu sangue. Ele determinará isso em função das suas necessidades individuais usando a fórmula abaixo:
+ I. UI necessárias= peso corporal (kg) x aumento desejado do factor VIII (% do normal) x 0,5
+ II. Aumento previsto do Factor VIII (% do normal)= 2 x UI administradas Peso corporal (kg)
+ No quadro que se segue encontra-se indicado um guia para os níveis mínimos de Factor VIII no sangue. No caso das situações hemorrágicas indicadas, a actividade do Factor VIII não deve ser inferior ao nível indicado (em% do normal) no decurso do período correspondente:
+ 81
+ Grau de hemorragia/Tipo de procedimento cirúrgico Hemorragia
+ Nível requerido de actividade do factor VIII (%) (UI/dl)
+ Frequência das doses (horas)/Duração do tratamento (dias)
+ Hemartrose precoce, hemorragia muscular ou hemorragia oral
+ 20-40 Repetir cada 12 a 24 horas. Pelo menos 1 dia, até o episódio hemorrágico estar ultrapassado como indicado pela dor ou estar curado.
+ Hemartrose mais extensa, hemorragia muscular ou hematoma
+ 30-60 Repetir a injecção cada 12-24 horas durante 3-4 dias ou mais até a dor e a incapacidade estarem resolvidas.
+ Hemorragias com risco de vida tais como hemorragias intracranianas, hemorragias da garganta, hemorragias abdominais graves Cirurgia
+ 60-100 Repetir a injecção cada 8 a 24 horas até o perigo estar ultrapassado.
+ Minor Incluindo extracção dentária
+ 30-60 cada 24 horas, pelo menos 1 dia, até ser conseguida a cura.
+ Major 80-100 a) Por bólus intravenoso Repetir a injecção cada 8-24 horas
+ (pré e
+ pós-operatória)
+ até cicatrização adequada da ferida, prosseguir com o tratamento durante pelo menos outros 7 dias para manter a actividade do factor VIII nos 30% a 60%. b) Por perfusão contínua Aumentar a actividade pré-cirurgia do factor VIII com uma injecção inicial por bólus intravenoso seguida imediatamente por uma perfusão contínua (em UI/Kg/h), ajustada de acordo com a depuração diária do doente e níveis pretendidos do factor VIII, durante pelo menos 7 dias.
+ O seu médico deverá sempre adaptar a quantidade de Helixate NexGen 1000 UI a administrar e a frequência da administração de acordo com a efectividade clínica no seu caso. Em certas circunstâncias podem ser necessárias quantidades superiores às calculadas, em especial no caso da dose inicial.
+ Se está a usar Helixate NexGen 1000 UI para prevenir hemorragias (profilaxia), o seu médico deverá efectuar o cálculo da dose para o seu caso. Esta situa-se geralmente entre 20 e 60 UI de octocog alfa por kg de peso corporal, administrados em intervalos de 2 a 3 dias. Contudo, em alguns casos, especialmente em doentes mais novos podem ser necessárias doses mais elevadas ou intervalos menores.
+ Embora a posologia possa ser estimada com os cálculos acima apresentados, recomenda-se muito especialmente a realização de análises laboratoriais adequadas no plasma em intervalos adequados por forma a garantir que os níveis de factor VIII foram atingidos e mantidos. Em particular no caso de
+ 82 intervenções cirúrgicas major é indispensável uma monitorização precisa do tratamento substitutivo através da análise da coagulação. Caso os níveis plasmáticos de factor VIII não alcancem os níveis esperados, ou no caso de as hemorragias não serem controladas após uma dosagem aparentemente adequada, deve suspeitar-se da presença de inibidores de factor VIII. Através de meios laboratoriais apropriados a presença de inibidores de factor VIII pode ser verificada e quantificada por um médico experiente. Se tem a impressão de que o efeito do Helixate NexGen 1000 UI é muito intenso ou muito fraco, fale com o seu médico.
+ Doentes com inibidores Se foi informado(a) pelo seu médico de que desenvolveu inibidores de factor VIII (anticorpos neutralizantes) terá possivelmente necessidade de utilizar uma dose de Helixate NexGen superior à anteriormente usada por forma a controlar as hemorragias. Se esta dose não controlar as hemorragias o seu médico poderá considerar a utilização de um produto adicional, concentrado de factor VIIa ou um concentrado de complexo de protrombrina (activado). Não aumente a dose de Helixate NexGen que utiliza para controlar as hemorragias sem consultar o seu médico. Fale com o seu médico caso deseje saber mais informações. Estes tratamentos são receitados por médicos com experiência no tratamento de doentes com hemofilia A.
+ Helixate NexGen 1000 UI deve ser injectado ao longo de um período de vários minutos por via intravenosa. A velocidade da administração deve ser determinada pelo nível de conforto do doente (velocidade máxima de perfusão: 2 ml/min).
+ O seu médico dir-lhe-á com que frequência e a que intervalos Helixate NexGen 1000 UI deve ser administrado.
+ Normalmente o tratamento substitutivo com Helixate NexGen 1000 UI é para toda a vida.
+ Se usou mais Helixate NexGen 1000 UI do que devia: Não foram comunicados sintomas de sobredosagem com o factor VIII recombinante de coagulação. Se usou mais Helixate NexGen 1000 UI do que devia, por favor informe o seu médico.
+ Caso se tenha esquecido de utilizar Helixate NexGen 1000 UI: • Efectue imediatamente a administração seguinte e continue a intervalos regulares tal como recomendado pelo seu médico. • Não tome uma dose a dobrar para compensar doses individuais que se esqueceu de tomar.
+ Se parar de utilizar Helixate NexGen 1000 UI Não pare a utilização de Helixate NexGen sem consultar o seu médico.
+ Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou farmacêutico.
+ 83 4. EFEITOS SECUNDÁRIOS POSSÍVEIS
+ Como todos os medicamentos, Helixate NexGen 1000 UI pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas. Em casos raros poderá observar os seguintes efeitos indesejáveis após a administração de Helixate NexGen 1000 UI: • Erupção cutânea/pruriginosa, reacção no local de injecção (ex.: sensação de queimadura, rubor temporário) • Reacções de hipersensibilidade (ex.: aperto no peito, sensação geral de mal estar, tonturas, náuseas e ligeira redução da pressão sanguínea, que podem provocar a sensação de desmaio ao permanecer em pé) • Sabor estranho na boca • Febre.
+ Para além disso a possibilidade de choque anafiláctico não deve ser completamente excluída. Se observar algum dos seguintes sintomas durante a injecção/perfusão: • Aperto no peito/sensação geral de mal estar • Tonturas • Hipotensão ligeira (ligeira redução da pressão sanguínea, com possível sensação de desmaio ao permanecer em pé) • Náuseas estes podem ser os primeiros indícios de reacções de hipersensibilidade ou de uma reacção anafiláctica. No caso de ocorrência de reacções alérgicas ou de hipersensibilidade a injecção/perfusão devem ser imediatamente suspensas. Por favor consulte o médico imediatamente.
+ Durante os estudos nenhum dos doentes desenvolveu títulos clinicamente relevantes de anticorpos contra as quantidades residuais de proteínas de ratinho e de hamster presentes na formulação. Contudo, em alguns doentes predispostos há a possibilidade de reacções alérgicas aos constituintes da formulação ex: traços de proteínas de ratinho e hamster.
+ A formação de anticorpos neutralizantes, inibidores do factor VIII (inibidores) constitui uma complicação conhecida no tratamento de indivíduos com hemofilia A. Em estudos com formulações de factor VIII recombinante o desenvolvimento de inibidores foi observado predominantemente em hemofílicos previamente não tratados. Deve ser cuidadosamente monitorizado para pesquisa de desenvolvimento de anticorpos inibidores, por meio de observações clínicas e de testes laboratoriais apropriados.
+ Nos estudos clínicos Helixate NexGen foi usado no tratamento de episódios hemorrágicos em 37 doentes préviamente não tratados (PUPs) e em 23 doentes pediátricos minimamente tratados (MTP, definidos como tendo 4 ou menos dias de exposição). Cinco dos 37 (14%) doentes PUP e 4 dos 23 (17%) doentes MTP tratados com Helixate NexGen desenvolveram inibidores: globalmente 6 em 60 doentes (10%) com um título acima de 10 UB e 3 em 60 (5%) com um título abaixo de 10 UB. A mediana do número de dias de exposição no momento da detecção dos inibidores nestes doentes foi de 9 dias (intervalo entre 3-18 dias)
+ A mediana do número de dias de exposição nos estudos clínicos foi de 114 (intervalo: 4-478). Quatro dos cinco doentes que não alcançaram 20 dias de exposição no final do estudo atingiram mais de 20 dias de exposição no seguimento pós-estudo e um deles desenvolveu um baixo título de inibidores. O quinto doente foi perdido no seguimento.
+ Em estudos clínicos com 73 doentes préviamente tratados (PTP, definidos como tendo mais de 100 dias de exposição) seguidos ao longo de 4 anos, não foram observados inibidores de novo.
+ 84 Nos extensos estudos pós-registo com Helixate NexGen, envolvendo mais de 1000 doentes observou-se o seguinte: menos de 0,2% dos PTP desenvolveram inibidores de novo. No subconjunto definido como tendo menos de 20 dias de exposição ao entrar no estudo menos de 11% desenvolveram inibidores de novo.
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR Helixate NexGen 1000 UI
+ Manter fora do alcance e da vista das crianças. Conservar no frigorífico (2°C – 8°C). Não congelar. Manter os frascos para injectáveis dentro da embalagem exterior para proteger da luz. Pode manter o produto embalado à temperatura ambiente (até 25°C), por um período único ininterrupto até 3 meses. Neste caso, o produto perde a validade ao fim de 3 meses; deve anotar a nova data de validade na parte superior da embalagem. Após a reconstituição não refrigerar a solução. A solução reconstituída deve ser usada imediatamente. O produto destina-se apenas a administração única. Quaisquer restos de solução não usada devem ser eliminados. Não utilize Helixate NexGen 1000 UI após o prazo de validade impresso no rótulo e na embalagem exterior. O prazo de validade corresponde ao último dia do mês indicado.
+ Não utilize Helixate NexGen 1000 UI caso detecte quaisquer partículas visíveis ou turvação na solução.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Helixate NexGen 1000 UI
+ Pó: A substância activa é o factor VIII recombinante de coagulação (octocog alfa). Os outros componentes são glicina, cloreto de sódio, cloreto de cálcio, histidina, polissorbato 80 e sacarose.
+ Solvente: Água para preparações injectáveis.
+ Qual o aspecto de Helixate NexGen 1000 UI e conteúdo da embalagem
+ Helixate NexGen 1000 UI é fornecido na forma de pó e solvente para solução injectável e é um pó seco ou pastilha de cor branca a ligeiramente amarelada. Após a reconstituição a solução é transparente. Com cada embalagem de Helixate NexGen 1000 UI são fornecidos dispositivos médicos para reconstituição e administração.
+ Titular da Autorização de Introdução no Mercado e Fabricante
+ Titular da Autorização de Introdução no Mercado Bayer HealthCare AG D-51368 Leverkusen Alemanha
+ Fabricante Bayer HealthCare Manufacturing S. r. l. Bellaria,35 I-53010 Torri-Sovicille (SI) Itália
+ 85 Para quaisquer informações sobre este medicamento, queira contactar o representante local do titular da autorização de introdução no mercado.
+ België/Belgique/Belgien CSL Behring N. V. Tél/Tel: +32-(0) 16 38 80 80 България CSL Behring GmbH Teл.+ 49 6421 39 36 54 Česká republika IBP medica s. r. o. Tel: +42-02-4143 0299 Danmark CSL Behring AB Tlf: +46-(0) 8-54496670 Deutschland CSL Behring GmbH Tel: +49-(0) 69-30584437 Eesti CSL Behring AB Tel: +46-(0) 8-54496670 Ελλάδα CSL Behring ΜΕΠΕ, Τηλ: +30-210 7255 660 +30-210 7255 661
+ Luxembourg/Luxemburg CSL Behring N. V. Tél/Tel: +32-(0) 16 38 80 80 Magyarország Plazmed Kft. Tel: +36-28-59 10 00 Malta AM Mangion Ltd. Phone: +356 2397 6000/6412 Nederland CSL Behring N. V. Tel: +31-(0) 76 523 60 45 Norge CSL Behring AB Tlf: +46-(0) 8-54496670 Österreich CSL Behring GmbH Tel: +43-(0) 1-80101-0 Polska Imed Poland sp. z. o. o. Tel. +48 22 663 43 10
+ España CSL Behring, S. A. Tel: +34 93 367 1870 France CSL Behring S. A. Tél: +33-(0) 1-53585400 Ireland CSL Behring UK Limited Tel: +44-(0) 1444 447400 Ísland CSL Behring AB Simi: +46-(0) 8-54496670 Italia CSL Behring S. p. A. Tel: +39-02-349641 Κύπρος ΑΚΗΣ ΠΑΝΑΓΙΩΤΟΥ &amp; ΥΙΟΣ ΛΤΔ Τηλ. +357-22677038 Latvija CSL Behring AB Tel: +46-(0) 8-54496670 Lietuva CSL Behring AB Tel. +46-(0) 8-54496670
+ Portugal CSL Behring Lda. Tel. +351-21-7826230 România Prisum International Trading srl Tel. +40 21 250 3688 Slovenija MediSanus d. o. o. Tel: +386 1 518 33 97 Slovenská republika TIMED, s. r. o. Tel.: +421 2 555 711 82 Suomi/Finland CSL Behring AB Puh/Tel: +46-(0) 8-54496670 Sverige CSL Behring AB Tel: +46-(0) 8-54496670 United Kingdom CSL Behring UK Limited Tel: +44-(0) 1444 447400
+ Este folheto foi aprovado pela última vez em de.
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia do Medicamento (EMEA) http: //www. emea. europa. eu
+ 86 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Helixate NexGen 2000 UI pó e solvente para solução injectável Factor VIII recombinante de coagulação (octocog alfa)
+ Leia atentamente este folheto antes de utilizar este medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é Helixate NexGen 2000 UI e para que é utilizado 2. Antes de utilizar Helixate NexGen 2000 UI 3. Como utilizar Helixate NexGen 2000 UI 4. Efeitos secundários possíveis 5. Como conservar Helixate NexGen 2000 UI 6. Outras informações
+ 1. O QUE É Helixate NexGen 2000 UI E PARA QUE É UTILIZADO
+ Um frasco para injectáveis com pó para solução injectável contém 2000 UI de octocog alfa (UI representam Unidades Internacionais). Após reconstituição com o volume adequado de solvente (água para injectáveis) cada frasco contém 400 UI/ml de octocog alfa.
+ Grupo farmacoterapêutico: factor VIII de coagulação sanguínea (código ATC B02B D02).
+ Tratamento e profilaxia de hemorragias em doentes com hemofilia A (deficiência congénita de factor VIII).
+ Esta preparação não contém o factor von Willebrand, pelo que não está indicada na doença de von Willebrand.
+ 2. ANTES DE UTILIZAR Helixate NexGen 2000 UI
+ Não utilize Helixate NexGen 2000 UI se é alérgico (hipersensível) ao octocog alfa, às proteínas de ratinho ou hamster ou a qualquer outro componente de Helixate NexGen 2000 UI. Se não estiver seguro quanto a este facto pergunte ao seu médico.
+ Tome especial cuidado com Helixate NexGen 2000 UI pois existe a possibilidade rara de poder vir a sofrer uma reacção anafiláctica (uma reacção alérgica súbita e grave). Se sentir um aperto no peito, tonturas, sensação de mal estar ou desmaio ou tonturas em pé, poderá estar a desenvolver uma reacção alérgica a Helixate NexGen 2000 UI. Nesta situação pare imediatamente a administração do produto e consulte um médico.
+ O seu médico poderá querer efectuar análises para garantir que a dose de Helixate NexGen 2000 UI que está a usar é suficiente para alcançar e manter níveis adequados de factor VIII.
+ Se as suas hemorragias não são controladas com Helixate NexGen 2000 UI, consulte imediatamente o seu médico. Poderá ter desenvolvido inibidores contra o factor VIII e o seu médico poderá querer realizar análises para confirmar este facto. Os inibidores do factor VIII são anticorpos que existem no sangue e que bloqueiam o factor VIII que utiliza.
+ 87 Isto torna o factor VIII menos efectivo no controle das hemorragias. Se desenvolveu anteriormente inibidores do Factor VIII e se mudou para um Factor VIII diferente, poderá estar em risco de reaparecimento dos inibidores.
+ Utilizar Helixate NexGen com outros medicamentos Não são conhecidas interacções com outros medicamentos. Contudo, informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica.
+ Gravidez e aleitamento Com base na rara ocorrência de hemofilia A em mulheres, não existe experiência relativamente ao uso de Helixate NexGen 2000 UI durante a gravidez e aleitamento. Por este motivo, se está grávida ou a amamentar consulte o seu médico antes de usar este produto.
+ Condução de veículos e utilização de máquinas: Não foram observados efeitos sobre a capacidade de conduzir e utilizar máquinas.
+ Informações importantes sobre alguns componentes de Helixate NexGen 2000 UI Este medicamento contém menos de 1 mmol de sódio (23 mg) por frasco para injectáveis, i. e. é essencialmente “ livre de sódio ”.
+ 3. COMO UTILIZAR Helixate NexGen 2000 UI
+ Helixate NexGen 2000 UI destina-se apenas a utilização por via intravenosa e deve ser administrado imediatamente após a reconstituição. A administração deve efectuar-se em condições assépticas (ou seja em condições de perfeita higiene e sem germes). Use apenas os dispositivos médicos para reconstituição e administração fornecidos em cada embalagem de Helixate NexGen 2000 UI. Helixate NexGen 2000 UI não deve ser misturado com outras soluções injectáveis. Não utilize soluções que contenham partículas visíveis ou que estejam turvas. Siga rigorosamente as instruções fornecidas pelo seu médico e use as instruções abaixo indicadas como guia:
+ 88
+ 1. 2. Lave cuidadosamente as mãos, utilizando água morna e sabão. Antes da abertura aqueça com as mãos os frascos para injectáveis do diluente e do concentrado, até atingirem uma temperatura confortável (sem exceder 37°C).
+ 3. Certifique-se que são retiradas as cápsulas dos frascos para injectáveis do produto e do diluente e que as tampas são tratadas
+ 4 com uma solução asséptica, permitindo que sequem antes da abertura da embalagem do Mix2Vial.
+ 4. 5. Abra a embalagem do Mix2Vial descolando e retirando a aba. Coloque o frasco para injectáveis do diluente numa superfície plana e limpa, segurando-o com firmeza. Pegue no Mix2Vial através da embalagem e encaixe a extremidade azul na tampa do frasco para injectáveis do solvente.
+ 5 6. Retire cuidadosamente a embalagem que contém o Mix2Vial. Certifique-se que apenas retira a embalagem e não o Mix2Vial.
+ 7. Mantendo o frasco para injectáveis do produto firmemente apoiado numa superfície, inverta o frasco para injectáveis do diluente com o sistema acoplado e insira o adaptador transparente na tampa do frasco para injectáveis do produto. O diluente será automaticamente transferido para o frasco para
+ 6 8. injectáveis do produto. Com os frascos para injectáveis do diluente e do produto ainda ligados, rode suavemente o frasco para injectáveis do produto para assegurar a sua completa dissolução. Não agite o frasco para injectáveis.
+ 7 9. Com uma das mãos segure a parte do sistema Mix2Vial acoplada ao produto e com a outra mão segure a parte do sistema Mix2Vial acoplada ao solvente; separe as duas peças do sistema. Insira ar (3 ml) numa seringa estéril vazia. Mantendo o frasco para injectáveis do produto na vertical virado para cima, adapte a seringa no sistema Mix2Vial. Injecte ar no frasco para injectáveis do produto.
+ 8 10. Mantendo o êmbolo da seringa pressionado, inverta o sistema, virando-o para baixo e aspire o concentrado para a seringa puxando o êmbolo devagar para trás.
+ 11. Após o concentrado ter sido transferido para a seringa, segure com firmeza no corpo da seringa (mantendo o êmbolo da seringa virado para baixo) e retire o sistema Mix2Vial da seringa. Segure na seringa virada para cima e empurre o êmbolo até que deixe de existir ar na seringa.
+ 9 12. 13. Aplique um torniquete. Escolha o ponto da injecção e prepare-o com uma compressa antiséptica.
+ 14. Puncione a veia e segure o dispositivo de venopunctura com um adesivo.
+ 10 15. Permita que o fluxo de sangue flua para a extremidade aberta do sistema de venopunctura e, em seguida, encaixe a seringa contendo o concentrado. Certifique-se de que não entra sangue na seringa.
+ 16. 17. Retire o torniquete. Injecte a solução por via intravenosa durante um período de vários minutos, tendo atenção à posição da agulha. A velocidade de administração deve ser determinada pelo conforto do doente (velocidade de perfusão máxima: 2 ml/min).
+ 11 89 18. Se necessitar de administrar uma nova dose utilize uma seringa nova, ligando-a à agulha filtrante e enchendo-a de modo idêntico ao anteriormente descrito. 19. Se não for necessário administrar outra dose, remova o dispositivo de venopunctura e a seringa, segurando firmemente uma compressa sobre o local da injecção, durante aproximadamente 2 minutos, e mantendo o braço do doente esticado. Por último, aplique um penso na ferida, mantendo uma ligeira pressão.
+ A quantidade de Helixate NexGen 2000 UI a usar e a frequência da sua utilização depende de muitos factores tais como o seu peso, a gravidade da hemofilia, o local e a extensão da hemorragia, a quantidade de inibidores de factor VIII que possa ter presentes, e o nível de factor VIII exigido.
+ O seu médico irá calcular a dose de Helixate NexGen 2000 UI e a frequência com que o deve usar para obter o nível necessário de actividade de factor VIII no seu sangue. Ele determinará isso em função das suas necessidades individuais usando a fórmula abaixo:
+ I. UI necessárias= peso corporal (kg) x aumento desejado do factor VIII (% do normal) x 0,5
+ II. Aumento previsto do Factor VIII (% do normal)= 2 x UI administradas Peso corporal (kg)
+ No quadro que se segue encontra-se indicado um guia para os níveis mínimos de Factor VIII no sangue. No caso das situações hemorrágicas indicadas, a actividade do Factor VIII não deve ser inferior ao nível indicado (em% do normal) no decurso do período correspondente:
+ 90
+ Grau de hemorragia/Tipo de procedimento cirúrgico Hemorragia
+ Nível requerido de actividade do factor VIII (%) (UI/dl)
+ Frequência das doses (horas)/Duração do tratamento (dias)
+ Hemartrose precoce, hemorragia muscular ou hemorragia oral
+ 20-40 Repetir cada 12 a 24 horas. Pelo menos 1 dia, até o episódio hemorrágico estar ultrapassado como indicado pela dor ou estar curado.
+ Hemartrose mais extensa, hemorragia muscular ou hematoma
+ 30-60 Repetir a injecção cada 12-24 horas durante 3-4 dias ou mais até a dor e a incapacidade estarem resolvidas.
+ Hemorragias com risco de vida tais como hemorragias intracranianas, hemorragias da garganta, hemorragias abdominais graves Cirurgia
+ 60-100 Repetir a injecção cada 8 a 24 horas até o perigo estar ultrapassado.
+ Minor Incluindo extracção dentária
+ 30-60 cada 24 horas, pelo menos 1 dia, até ser conseguida a cura.
+ Major 80-100 a) Por bólus intravenoso Repetir a injecção cada 8-24 horas
+ (pré e
+ pós-operatória)
+ até cicatrização adequada da ferida, prosseguir com o tratamento durante pelo menos outros 7 dias para manter a actividade do factor VIII nos 30% a 60%. b) Por perfusão contínua Aumentar a actividade pré-cirurgia do factor VIII com uma injecção inicial por bólus intravenoso seguida imediatamente por uma perfusão contínua (em UI/Kg/h), ajustada de acordo com a depuração diária do doente e níveis pretendidos do factor VIII, durante pelo menos 7 dias.
+ O seu médico deverá sempre adaptar a quantidade de Helixate NexGen 2000 UI a administrar e a frequência da administração de acordo com a efectividade clínica no seu caso. Em certas circunstâncias podem ser necessárias quantidades superiores às calculadas, em especial no caso da dose inicial.
+ Se está a usar Helixate NexGen 2000 UI para prevenir hemorragias (profilaxia), o seu médico deverá efectuar o cálculo da dose para o seu caso. Esta situa-se geralmente entre 20 e 60 UI de octocog alfa por kg de peso corporal, administrados em intervalos de 2 a 3 dias. Contudo, em alguns casos, especialmente em doentes mais novos podem ser necessárias doses mais elevadas ou intervalos menores.
+ Embora a posologia possa ser estimada com os cálculos acima apresentados, recomenda-se muito especialmente a realização de análises laboratoriais adequadas no plasma em intervalos adequados por forma a garantir que os níveis de factor VIII foram atingidos e mantidos. Em particular no caso de
+ 91 intervenções cirúrgicas major é indispensável uma monitorização precisa do tratamento substitutivo através da análise da coagulação. Caso os níveis plasmáticos de factor VIII não alcancem os níveis esperados, ou no caso de as hemorragias não serem controladas após uma dosagem aparentemente adequada, deve suspeitar-se da presença de inibidores de factor VIII. Através de meios laboratoriais apropriados a presença de inibidores de factor VIII pode ser verificada e quantificada por um médico experiente. Se tem a impressão de que o efeito do Helixate NexGen 2000 UI é muito intenso ou muito fraco, fale com o seu médico.
+ Doentes com inibidores Se foi informado(a) pelo seu médico de que desenvolveu inibidores de factor VIII (anticorpos neutralizantes) terá possivelmente necessidade de utilizar uma dose de Helixate NexGen superior à anteriormente usada por forma a controlar as hemorragias. Se esta dose não controlar as hemorragias o seu médico poderá considerar a utilização de um produto adicional, concentrado de factor VIIa ou um concentrado de complexo de protrombrina (activado). Não aumente a dose de Helixate NexGen que utiliza para controlar as hemorragias sem consultar o seu médico. Fale com o seu médico caso deseje saber mais informações. Estes tratamentos são receitados por médicos com experiência no tratamento de doentes com hemofilia A.
+ Helixate NexGen 2000 UI deve ser injectado ao longo de um período de vários minutos por via intravenosa. A velocidade da administração deve ser determinada pelo nível de conforto do doente (velocidade máxima de perfusão: 2 ml/min).
+ O seu médico dir-lhe-á com que frequência e a que intervalos Helixate NexGen 2000 UI deve ser administrado.
+ Normalmente o tratamento substitutivo com Helixate NexGen 2000 UI é para toda a vida.
+ Se usou mais Helixate NexGen 2000 UI do que devia: Não foram comunicados sintomas de sobredosagem com o factor VIII recombinante de coagulação. Se usou mais Helixate NexGen 2000 UI do que devia, por favor informe o seu médico.
+ Caso se tenha esquecido de utilizar Helixate NexGen 2000 UI: • Efectue imediatamente a administração seguinte e continue a intervalos regulares tal como recomendado pelo seu médico. • Não tome uma dose a dobrar para compensar doses individuais que se esqueceu de tomar.
+ Se parar de utilizar Helixate NexGen 2000 UI Não pare a utilização de Helixate NexGen sem consultar o seu médico.
+ Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou farmacêutico.
+ 92 4. EFEITOS SECUNDÁRIOS POSSÍVEIS
+ Como todos os medicamentos, Helixate NexGen 2000 UI pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas. Em casos raros poderá observar os seguintes efeitos indesejáveis após a administração de Helixate NexGen 2000 UI: • Erupção cutânea/pruriginosa, reacção no local de injecção (ex.: sensação de queimadura, rubor temporário) • Reacções de hipersensibilidade (ex.: aperto no peito, sensação geral de mal estar, tonturas, náuseas e ligeira redução da pressão sanguínea, que podem provocar a sensação de desmaio ao permanecer em pé) • Sabor estranho na boca • Febre.
+ Para além disso a possibilidade de choque anafiláctico não deve ser completamente excluída. Se observar algum dos seguintes sintomas durante a injecção/perfusão: • Aperto no peito/sensação geral de mal estar • Tonturas • Hipotensão ligeira (ligeira redução da pressão sanguínea, com possível sensação de desmaio ao permanecer em pé) • Náuseas estes podem ser os primeiros indícios de reacções de hipersensibilidade ou de uma reacção anafiláctica. No caso de ocorrência de reacções alérgicas ou de hipersensibilidade a injecção/perfusão devem ser imediatamente suspensas. Por favor consulte o médico imediatamente.
+ Durante os estudos nenhum dos doentes desenvolveu títulos clinicamente relevantes de anticorpos contra as quantidades residuais de proteínas de ratinho e de hamster presentes na formulação. Contudo, em alguns doentes predispostos há a possibilidade de reacções alérgicas aos constituintes da formulação ex: traços de proteínas de ratinho e hamster.
+ A formação de anticorpos neutralizantes, inibidores do factor VIII (inibidores) constitui uma complicação conhecida no tratamento de indivíduos com hemofilia A. Em estudos com formulações de factor VIII recombinante o desenvolvimento de inibidores foi observado predominantemente em hemofílicos previamente não tratados. Deve ser cuidadosamente monitorizado para pesquisa de desenvolvimento de anticorpos inibidores, por meio de observações clínicas e de testes laboratoriais apropriados.
+ Nos estudos clínicos Helixate NexGen foi usado no tratamento de episódios hemorrágicos em 37 doentes préviamente não tratados (PUPs) e em 23 doentes pediátricos minimamente tratados (MTP, definidos como tendo 4 ou menos dias de exposição). Cinco dos 37 (14%) doentes PUP e 4 dos 23 (17%) doentes MTP tratados com Helixate NexGen desenvolveram inibidores: globalmente 6 em 60 doentes (10%) com um título acima de 10 UB e 3 em 60 (5%) com um título abaixo de 10 UB. A mediana do número de dias de exposição no momento da detecção dos inibidores nestes doentes foi de 9 dias (intervalo entre 3-18 dias)
+ A mediana do número de dias de exposição nos estudos clínicos foi de 114 (intervalo: 4-478). Quatro dos cinco doentes que não alcançaram 20 dias de exposição no final do estudo atingiram mais de 20 dias de exposição no seguimento pós-estudo e um deles desenvolveu um baixo título de inibidores. O quinto doente foi perdido no seguimento.
+ Em estudos clínicos com 73 doentes préviamente tratados (PTP, definidos como tendo mais de 100 dias de exposição) seguidos ao longo de 4 anos, não foram observados inibidores de novo.
+ 93 Nos extensos estudos pós-registo com Helixate NexGen, envolvendo mais de 1000 doentes observou-se o seguinte: menos de 0,2% dos PTP desenvolveram inibidores de novo. No subconjunto definido como tendo menos de 20 dias de exposição ao entrar no estudo menos de 11% desenvolveram inibidores de novo.
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR Helixate NexGen 2000 UI
+ Manter fora do alcance e da vista das crianças. Conservar no frigorífico (2°C – 8°C). Não congelar. Manter os frascos para injectáveis dentro da embalagem exterior para proteger da luz. Pode manter o produto embalado à temperatura ambiente (até 25°C), por um período único ininterrupto até 3 meses. Neste caso, o produto perde a validade ao fim de 3 meses; deve anotar a nova data de validade na parte superior da embalagem. Após a reconstituição não refrigerar a solução. A solução reconstituída deve ser usada imediatamente. O produto destina-se apenas a administração única. Quaisquer restos de solução não usada devem ser eliminados. Não utilize Helixate NexGen 2000 UI após o prazo de validade impresso no rótulo e na embalagem exterior. O prazo de validade corresponde ao último dia do mês indicado.
+ Não utilize Helixate NexGen 2000 UI caso detecte quaisquer partículas visíveis ou turvação na solução.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Helixate NexGen 2000 UI
+ Pó: A substância activa é o factor VIII recombinante de coagulação (octocog alfa). Os outros componentes são glicina, cloreto de sódio, cloreto de cálcio, histidina, polissorbato 80 e sacarose.
+ Solvente: Água para preparações injectáveis.
+ Qual o aspecto de Helixate NexGen 2000 UI e conteúdo da embalagem
+ Helixate NexGen 2000 UI é fornecido na forma de pó e solvente para solução injectável e é um pó seco ou pastilha de cor branca a ligeiramente amarelada. Após a reconstituição a solução é transparente. Com cada embalagem de Helixate NexGen 2000 UI são fornecidos dispositivos médicos para reconstituição e administração.
+ Titular da Autorização de Introdução no Mercado e Fabricante
+ Titular da Autorização de Introdução no Mercado Bayer HealthCare AG D-51368 Leverkusen Alemanha
+ Fabricante Bayer HealthCare Manufacturing S. r. l. Bellaria,35 I-53010 Torri-Sovicille (SI) Itália
+ 94 Para quaisquer informações sobre este medicamento, queira contactar o representante local do titular da autorização de introdução no mercado.
+ België/Belgique/Belgien CSL Behring N. V. Tél/Tel: +32-(0) 16 38 80 80 България CSL Behring GmbH Teл.+ 49 6421 39 36 54 Česká republika IBP medica s. r. o. Tel: +42-02-4143 0299 Danmark CSL Behring AB Tlf: +46-(0) 8-54496670 Deutschland CSL Behring GmbH Tel: +49-(0) 69-30584437 Eesti CSL Behring AB Tel: +46-(0) 8-54496670 Ελλάδα CSL Behring ΜΕΠΕ, Τηλ: +30-210 7255 660 +30-210 7255 661
+ Luxembourg/Luxemburg CSL Behring N. V. Tél/Tel: +32-(0) 16 38 80 80 Magyarország Plazmed Kft. Tel: +36-28-59 10 00 Malta AM Mangion Ltd. Phone: +356 2397 6000/6412 Nederland CSL Behring N. V. Tel: +31-(0) 76 523 60 45 Norge CSL Behring AB Tlf: +46-(0) 8-54496670 Österreich CSL Behring GmbH Tel: +43-(0) 1-80101-0 Polska Imed Poland sp. z. o. o. Tel. +48 22 663 43 10
+ España CSL Behring, S. A. Tel: +34 93 367 1870 France CSL Behring S. A. Tél: +33-(0) 1-53585400 Ireland CSL Behring UK Limited Tel: +44-(0) 1444 447400 Ísland CSL Behring AB Simi: +46-(0) 8-54496670 Italia CSL Behring S. p. A. Tel: +39-02-349641 Κύπρος ΑΚΗΣ ΠΑΝΑΓΙΩΤΟΥ &amp; ΥΙΟΣ ΛΤΔ Τηλ. +357-22677038 Latvija CSL Behring AB Tel: +46-(0) 8-54496670 Lietuva CSL Behring AB Tel. +46-(0) 8-54496670
+ Portugal CSL Behring Lda. Tel. +351-21-7826230 România Prisum International Trading srl Tel. +40 21 250 3688 Slovenija MediSanus d. o. o. Tel: +386 1 518 33 97 Slovenská republika TIMED, s. r. o. Tel.: +421 2 555 711 82 Suomi/Finland CSL Behring AB Puh/Tel: +46-(0) 8-54496670 Sverige CSL Behring AB Tel: +46-(0) 8-54496670 United Kingdom CSL Behring UK Limited Tel: +44-(0) 1444 447400
+ Este folheto foi aprovado pela última vez em de.
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia do Medicamento (EMEA) http: //www. emea. europa. eu
+ 95

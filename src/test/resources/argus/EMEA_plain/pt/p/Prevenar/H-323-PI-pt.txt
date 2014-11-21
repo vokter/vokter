@@ -1,0 +1,623 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. NOME DO MEDICAMENTO
+ Prevenar suspensão injectável Vacina pneumocócica sacárida conjugada, adsorvida
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada dose de 0,5 ml contém: Polissacárido do serotipo 4 do pneumococos* Polissacárido do serotipo 6B do pneumococos* Polissacárido do serotipo 9V do pneumococos* Polissacárido do serotipo 14 do pneumococos* Oligossacárido do serotipo 18C do pneumococos* Polissacárido do serotipo 19F do pneumococos* Polissacárido do serotipo 23F do pneumococos*
+ 2 microgramas 4 microgramas 2 microgramas 2 microgramas 2 microgramas 2 microgramas 2 microgramas
+ * conjugado com a proteína transportadora CRM197 e adsorvido em fosfato de alumínio (0,5 mg)
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Suspensão injectável. A vacina é uma suspensão branca homogénea.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Imunização activa de lactentes e crianças desde os 2 meses até aos 5 anos de idade contra a doença (incluindo septicémia, meningite, pneumonia, bacteriémia e otite média aguda) causada pelos serotipos 4, 6B, 9V,14, 18C, 19F e 23F do Streptococcus pneumoniae (ver secções 4.2, 4.4 e 5.1).
+ Relativamente ao número de doses a administrar nos diferentes grupos etários, ver secção 4.2.
+ A utilização do Prevenar deve ser decidida com base em recomendações oficiais que considerem o impacto da doença invasiva nos diferentes grupos etários, bem como a variabilidade epidemiológica dos serotipos em diferentes zonas geográficas (ver secções 4.4, 4.8 e 5.1).
+ 4.2 Posologia e modo de administração A vacina deve ser dada por injecção intramuscular. De preferência, os locais de injecção são a coxa anterolateral (músculo vastus lateralis) nas crianças até aos 12 meses (lactentes) ou o músculo deltóide na porção superior do braço nas crianças a partir dos 12 meses.
+ Esquemas de imunização: Os esquemas de imunização para o Prevenar devem basear-se em recomendações oficiais.
+ Lactentes com 2-6 meses de idade: A série de imunização primária em lactentes consiste na administração de três doses de 0,5 ml, com início normalmente aos 2 meses de idade, com um intervalo de pelo menos 1 mês entre cada dose. Recomenda-se uma quarta dose no segundo ano de vida.
+ 2 Em alternativa, quando o Prevenar é administrado como parte de um programa de imunização de rotina em lactentes, pode ser considerado um esquema de imunização de duas doses. A primeira dose pode ser administrada a partir dos 2 meses de idade seguida de uma segunda dose pelo menos 2 meses mais tarde e uma terceira dose (reforço) entre os 11 e os 15 meses de idade (ver secção 5.1).
+ Lactentes mais velhos e crianças não vacinados previamente: Lactentes com 7-11 meses de idade: duas doses de 0,5 ml, com um intervalo de pelo menos 1 mês entre cada dose. Recomenda-se uma terceira dose no segundo ano de vida. Crianças com 12-23 meses de idade: duas doses de 0,5 ml, com um intervalo de pelo menos 2 meses entre cada dose. Crianças com 24 meses-5 anos de idade: uma dose única.
+ A necessidade de uma dose de reforço após estes esquemas de vacinação ainda não foi estabelecida.
+ 4.3 Contra-indicações Hipersensibilidade às substâncias activas, a qualquer dos excipientes ou ao toxóide diftérico.
+ 4.4 Advertências e precauções de utilização
+ Como acontece com outras vacinas, a administração de Prevenar deve ser adiada em indivíduos que sofram de uma doença febril aguda grave ou moderada.
+ Como acontece com todas as vacinas injectáveis, devem estar sempre disponíveis cuidados e tratamentos médicos adequados na eventualidade de ocorrer uma reacção anafiláctica rara após a administração da vacina.
+ Deve ser considerado o potencial risco para ocorrência de apneia e a necessidade de monitorização respiratória durante 48-72 horas, quando se administra a primovacinação a lactentes nascidos muito prematuramente (nascidos até às 28 semanas de gestação) e particularmente naqueles com antecedentes de imaturidade respiratória. Como o benefício da vacinação é elevado neste grupo de lactentes, a vacinação não deve deixar de ser realizada, nem deve ser adiada.
+ Prevenar não confere protecção contra outros serotipos do Streptococcus pneumoniae que não os incluídos na vacina, nem contra outros microrganismos causadores de doença invasiva ou otite média.
+ Esta vacina não deve ser administrada a lactentes ou crianças com trombocitopenia ou qualquer alteração da coagulação susceptível de contra-indicar a injecção intramuscular, a menos que os potenciais benefícios superem claramente os riscos da administração.
+ Embora possa ocorrer alguma resposta imunitária à toxina diftérica, a imunização com esta vacina não substitui a imunização de rotina contra a difteria.
+ Em crianças dos 2 aos 5 anos de idade foi usado um esquema de imunização de dose única. Em crianças com mais de 24 meses de idade observou-se uma percentagem superior de reacções locais, comparativamente aos lactentes (ver secção 4.8).
+ Crianças com alteração da resposta imunitária, quer devida à utilização de terapêutica imunossupressora, deficiência genética, infecção por HIV ou outras causas, podem apresentar uma resposta imunológica diminuída à imunização activa.
+ Dados limitados demonstraram que o Prevenar (série de imunização primária de três doses) induz uma resposta imunitária aceitável em lactentes com drepanocitose com um perfil de segurança semelhante ao observado em grupos sem alto risco (ver secção 5.1). Os dados de segurança e imunogenicidade em crianças de outros grupos específicos de alto risco de doença invasiva pneumocócica (p. e. crianças
+ 3 com outra doença esplénica congénita ou adquirida, infecção por HIV, neoplasia, síndrome nefrótico) ainda não estão disponíveis. A vacinação em grupos de alto risco deve ser considerada caso a caso.
+ Crianças com menos de 2 anos de idade devem ser vacinadas com as séries de vacinação de Prevenar em função da idade (ver secção 4.2). O uso da vacina pneumocócica conjugada não substitui o uso de vacinas pneumocócicas polissacáridas com 23 serotipos em crianças com 24 meses de idade ou mais e com condições (tais como drepanocitose, asplenia, infecção por HIV, doença crónica ou imunocomprometidos) que as predispõem a um risco elevado de doença invasiva devida ao Streptococcus pneumoniae. Sempre que for recomendado, crianças de risco com 24 meses de idade ou mais e previamente imunizadas com Prevenar, devem ser vacinadas com uma vacina pneumocócica polissacárida com 23 serotipos. O intervalo entre a vacina pneumocócica conjugada (Prevenar) e a vacina pneumocócica polissacárida com 23 serotipos não deve ser inferior a 8 semanas. Não estão disponíveis dados que indiquem que a administração da vacina pneumocócica polissacárida com 23 serotipos a crianças não vacinadas ou crianças vacinadas com Prevenar possa resultar numa resposta diminuída a novas doses de Prevenar.
+ Quando Prevenar é co-administrado com vacinas hexavalentes (DTaP/Hib (PRP-T)/IPV/HepB), o médico deverá saber que os dados dos estudos clínicos indicam que o número de reacções febris é maior comparativamente ao que ocorre após a administração isolada das vacinas hexavalentes. Estas reacções são, na sua maioria, moderadas (inferior ou igual a 39 ºC) e transitórias (ver secção 4.8).
+ O tratamento antipirético deve ser iniciado de acordo com as recomendações habituais.
+ Recomenda-se medicação antipirética profiláctica:
+ -a todas as crianças que sejam vacinadas com Prevenar e simultaneamente com vacinas celulares
+ contra a tosse convulsa, devido ao aumento de reacções febris (ver secção 4.8);
+ -a crianças com doenças convulsivas ou com antecedentes de convulsões febris.
+ Não administrar o Prevenar por via intravenosa.
+ Como acontece com qualquer vacina, o Prevenar pode não proteger da doença pneumocócica todas as crianças a quem foi administrada. Para além disso, para os serotipos da vacina, é de esperar uma protecção contra a otite média substancialmente inferior à protecção contra a doença invasiva. Como a otite média é causada por muitos organismos para além dos serotipos pneumocócicos incluídos na vacina, é de esperar uma protecção inferior contra todos os tipos de otite média (ver secção 5.1).
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Prevenar pode ser administrado em simultâneo com outras vacinas pediátricas, de acordo com os esquemas de imunização recomendados. As diferentes vacinas injectáveis devem ser sempre administradas em locais de injecção diferentes.
+ A resposta imunitária a vacinas pediátricas de rotina administradas concomitantemente com o Prevenar em locais de injecção diferentes foi avaliada em 7 estudos clínicos controlados. A resposta imunológica às vacinas Hib tétano conjugada com proteína (PRP-T), tétano e Hepatite B (HepB) foi idêntica à dos controlos. Relativamente à vacina Hib conjugada com CRM observou-se uma potenciação da resposta imunológica ao Hib e à difteria nos lactentes. Na dose de reforço observou-se uma certa supressão dos níveis de anticorpos contra o Hib, porém todas as crianças tinham níveis que conferem protecção. Observou-se uma diminuição inconstante na resposta aos antigénios da tosse convulsa e à vacina antipoliomielite inactivada (IPV). Desconhece-se o significado clínico destas interacções. Resultados limitados obtidos em estudos abertos mostraram uma resposta aceitável à MMR e à varicela.
+ Os dados sobre a administração concomitante de Prevenar com Infanrix hexa (vacina DTaP/Hib (PRP-T)/IPV/HepB) demonstraram não haver interferência clinicamente relevante na produção de
+ 4 anticorpos para cada um dos antigénios quando administrada como uma série primária de vacinação de 3 doses. Não existem dados disponíveis suficientes sobre a interferência da administração concomitante de outras vacinas hexavalentes com Prevenar.
+ Num ensaio clínico que comparou as administrações separadas com as administrações concomitantes de Prevenar (três doses aos 2; 3,5 e 6 meses e uma dose de reforço aos 12 meses, aproximadamente) e Meningitec (vacina meningocócica conjugada do grupo C; duas doses aos 2 e 6 meses e uma dose de reforço aos 12 meses, aproximadamente) não houve evidência de interferência na resposta imunitária entre as duas vacinas conjugadas, quer após a conclusão das séries primárias, quer após as doses de reforço.
+ 4.6 Gravidez e aleitamento Prevenar não se destina a adultos. Não existe informação disponível sobre a segurança da vacina utilizada durante a gravidez ou aleitamento.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não relevante. 4.8 Efeitos indesejáveis A segurança da vacina foi avaliada em diferentes estudos clínicos controlados que incluíram mais de 18.000 lactentes saudáveis (6 semanas a 18 meses). A maior parte da experiência de segurança foi obtida com o ensaio de eficácia no qual 17.066 lactentes foram vacinados com 55.352 doses de Prevenar. Foi também avaliada a segurança em crianças mais velhas não vacinadas.
+ Em todos os estudos o Prevenar foi administrado concomitantemente com as vacinas infantis recomendadas.
+ Entre as reacções adversas mais frequentemente notificadas encontram-se as reacções no local de injecção e febre.
+ Não se observou, de modo consistente, aumento de reacções locais ou sistémicas com as doses repetidas ao longo da série de imunização primária, ou com a dose de reforço, com excepção do aumento transitório da sensibilidade local (36,5%) e sensibilidade local que interferia com os movimentos dos membros (18,5%) com a dose de reforço.
+ Em crianças mais velhas vacinadas com uma única dose observou-se uma percentagem superior de reacções locais, comparativamente ao previamente descrito em crianças mais pequenas. Estas reacções foram, na maioria, de natureza transitória. Num estudo efectuado após a autorização de comercialização que envolveu 115 crianças entre os 2 e os 5 anos de idade, foi notificada sensibilidade local em 39,1% das crianças, 15,7% das quais apresentaram sensibilidade local que interferia com os movimentos dos membros. Em 40% das crianças foi notificado rubor e em 32,2% foi notificada induração. Rubor ou induração ≥ 2 cm de diâmetro foram notificados em 22,6% e 13,9% das crianças, respectivamente. No caso de administração simultânea de Prevenar com vacinas hexavalentes (DTaP/Hib (PRP-T)/IPV/HepB), foi notificada febre ≥ 38 ºC por dose administrada em 28,3% a 48,3% dos lactentes, vacinados simultaneamente com Prevenar e a vacina hexavalente, comparativamente a 15,6% a 23,4% no grupo vacinado apenas com a vacina hexavalente. Em 0,6 a 2,8% dos lactentes vacinados com Prevenar e vacinas hexavalentes, observou-se febre superior a 39,5 ºC por dose administrada (ver secção 4.4).
+ Nas crianças vacinadas concomitantemente com vacinas celulares contra a tosse convulsa a reactogenicidade foi superior. Num estudo que incluiu 1.662 crianças foi notificada febre ≥ 38 ºC em
+ 5 41,2% das crianças vacinadas simultaneamente com Prevenar e DTP, comparativamente a 27,9% no grupo de controlo. Foi notificada febre &gt; 39 ºC em 3,3% das crianças comparativamente com 1,2% no grupo de controlo.
+ Os efeitos indesejáveis notificados nos ensaios clínicos ou da experiência pós-comercialização encontram-se listados no quadro seguinte por sistema corporal e frequência, para todos os grupos etários. A frequência é definida em: muito frequentes: ≥ 1/10, frequentes: ≥ 1/100 e &lt; 1/10, pouco frequentes: ≥ 1/1.000 e &lt; 1/100, raras: ≥ 1/10.000 e &lt; 1/1.000, muito raras: &lt; 1/10.000.
+ Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ Doenças do sangue e do sistema linfático: Muito raros:
+ Linfadenopatia localizada na região do local de injecção.
+ Doenças do sistema imunitário: Raros: Reacções de hipersensibilidade tais como reacções anafilácticas/anafilactóides incluindo choque, edema angioneurótico, broncoespasmo, dispneia e edema da face.
+ Doenças do sistema nervoso: Raros: Convulsões, incluindo convulsões febris. Doenças gastrointestinais: Muito frequentes:
+ Vómitos, diarreia, diminuição do apetite.
+ Afecções dos tecidos Pouco frequentes: Muito raros:
+ cutâneos e subcutâneas: Erupção cutânea/urticária. Eritema multiforme.
+ Perturbações gerais e alterações no local de administração: Muito frequentes:
+ Reacções no local de injecção (por ex. eritema, induração/tumefacção, dor/sensibilidade aumentada); febre ≥ 38 ºC, irritabilidade, choro, sonolência, sono agitado.
+ Frequentes: Tumefacção/induração no local de injecção e eritema &gt; 2,4 cm, sensibilidade aumentada que interfere com os movimentos, febre &gt; 39 ºC.
+ Raros: Episódio hipotónico hiporreactivo, reacções de hipersensibilidade no local de injecção (por ex. dermatite, prurido, urticária).
+ Apneia em lactentes muito prematuros (≤ 28 semanas de gestação) (ver secção 4.4).
+ 4.9 Sobredosagem Foram notificados casos de sobredosagem com Prevenar, incluindo casos de administração de uma dose superior à recomendada e casos de doses subsequentes administradas mais cedo que o recomendado relativamente à dose precedente. Na maioria dos indivíduos não foram notificados efeitos indesejáveis. Em geral, os acontecimentos adversos notificados nos casos de sobredosagem foram também notificados com as doses únicas recomendadas de Prevenar.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: vacinas pneumocócicas, código ATC: J07AL02
+ 6 Imunogenicidade
+ Foram observados aumentos significativos dos anticorpos (avaliados por ELISA) para todos os serotipos da vacina após a série de imunização primária de três doses de Prevenar em lactentes e após as doses de reforço, embora as concentrações médias geométricas (GMCs) tenham variado entre os 7 serotipos. Prevenar demonstrou também aumentar os anticorpos funcionais (avaliados por opsonofagocitose) contra todos os serotipos contidos na vacina após a série de imunização primária. Não foi estudada a persistência a longo prazo dos anticorpos após a administração da série primária em lactentes seguida de dose de reforço ou após a administração de doses únicas de imunização primária em crianças mais velhas. A administração de polissacáridos pneumocócicos não conjugados ao 13º mês após a série de imunização primária com Prevenar originou uma resposta imunitária anamnéstica aos 7 serotipos incluídos na vacina, o que é indicativo de imunização primária.
+ A imunogenicidade da série de imunização primária de duas doses em lactentes seguida de dose de reforço por volta de um ano de idade foi descrita em vários estudos. A maioria dos dados indicou que uma proporção mais reduzida de lactentes atingiu concentrações de anticorpos ≥ 0,35 µg/ml (concentração de anticorpos de referência recomendada pela OMS1) contra os serotipos 6B e 23F após a série de imunização primária de duas doses, quando comparada, directa ou indirectamente, com a série de imunização primária de três doses. Além disso, as GMCs foram mais baixas para os anticorpos contra a maioria dos serotipos após a série de imunização primária de duas doses em lactentes do que após a série de imunização de três doses em lactentes. Contudo, as respostas imunitárias às doses de reforço em crianças até aos dois anos de idade após as séries de imunização de duas ou três doses em lactentes foram comparáveis para todos os 7 serotipos da vacina e indicam que ambos os esquemas em lactentes originaram uma resposta imunitária primária adequada.
+ Foram observados aumentos significativos dos anticorpos (avaliados por ELISA) para todos os serotipos da vacina após a administração de doses únicas de Prevenar em crianças entre os 2 e os 5 anos de idade. As concentrações dos anticorpos foram semelhantes às atingidas após a série de imunização de três doses em lactentes e dose de reforço numa idade inferior a 2 anos. Não foram realizados ensaios de eficácia na população dos 2 aos 5 anos de idade.
+ Não foram estabelecidos ensaios clínicos de eficácia para a série de imunização primária de duas doses em lactentes seguidas de dose de reforço e desconhecem-se as consequências clínicas das concentrações de anticorpos mais reduzidas contra os serotipos 6B e 23F após a série de imunização de duas doses em lactentes.
+ Eficácia contra a doença invasiva As estimativas de eficácia contra a doença invasiva foram obtidas na população dos EUA onde a cobertura de serotipos pela vacina variou entre 80 a 89%. Dados epidemiológicos obtidos entre 1988 e 2003 indicam que na Europa a cobertura é inferior e varia de país para país. Consequentemente, o Prevenar deve cobrir entre 54% e 84% dos isolados de doença invasiva pneumocócica (DIP) nas crianças com menos de 2 anos de idade oriundas de países europeus. Nas crianças europeias entre os 2 e os 5 anos de idade, o Prevenar deve cobrir cerca de 62% a 83% dos isolados clínicos responsáveis pela doença invasiva pneumocócica. Estima-se que mais de 80% das estirpes microbianas resistentes devem ser cobertas pelos serotipos incluídos na vacina. A cobertura dos serotipos da vacina na população pediátrica diminui com a idade. A diminuição da incidência de DIP observada nas crianças mais velhas pode ser em parte devida a imunidade adquirida naturalmente.
+ A eficácia contra a doença invasiva foi avaliada num ensaio clínico duplamente cego, aleatório, de larga escala, numa população multi-étnica na Califórnia do Norte (estudo Kaiser Permanente). Mais
+ 1 OMS Relatório Técnico Nº 927,2005; “ Appendix serological criteria for calculation and licensure of new pneumococcal conjugate vaccine for use in infants. ”
+ 7 de 37.816 lactentes foram imunizados com Prevenar ou uma vacina de controlo (vacina meningocócica conjugada do grupo C) aos 2,4,6 e 12-15 meses de idade. Quando o estudo foi realizado os serotipos incluídos na vacina contribuíam 89% para a DIP.
+ Num período de seguimento em ocultação prolongado até 20 de Abril de 1999, o total acumulado de casos de doença invasiva causada por serotipos contidos na vacina era de 52. A eficácia específica para os serotipos da vacina foi estimada em 94% (95% IC: 81,99) na população da intenção de tratar e 97% (95% IC 85,100) na população por protocolo (imunização completa) (40 casos). Na Europa, a efectividade estimada em crianças com idade inferior a 2 anos varia entre 51% e 79%, considerando a cobertura da vacina contra serotipos causadores de doença invasiva.
+ Eficácia contra a pneumonia No estudo Kaiser Permanente, a eficácia contra a pneumonia bacteriémica devida a serotipos de S. pneumoniae contidos na vacina foi de 87,5% (95% IC: 7,99).
+ A efectividade (sem confirmação microbiológica do diagnóstico) contra a pneumonia não bacteriémica foi igualmente avaliada. Em virtude de muitos outros agentes patogénicos, para além dos serotipos de pneumococos contidos na vacina, poderem contribuir para a carga da pneumonia em crianças, espera-se que a protecção contra todas as pneumonias clínicas seja inferior que para a doença pneumocócica invasiva. Na análise efectuada de acordo com o protocolo, a redução estimada do risco para o primeiro episódio de pneumonia clínica com radiografia torácica anormal (definida como a presença de infiltrados para além da área per-hilar, consolidação ou empiema) foi 20,5% (95% IC: 4,4, 34,0). Reduções da pneumonia com radiografia torácica anormal foram superiores no primeiro ano de vida (32,2%; 95% IC 3,3, 52,5) e nos primeiros 2 anos de vida (23,4%; 95% IC: 5,2, 38,1).
+ Eficácia contra a otite média A otite média aguda (OMA), com diferentes etiologias, é uma doença frequente na infância. As bactérias podem ser responsáveis por 60 a 70% dos episódios clínicos de OMA. O pneumococos é responsável por 30-40% de todas as OMA bacterianas e por uma quantidade mais elevada de OMA graves. Teoricamente, o Prevenar pode prevenir cerca de 60-80% dos serotipos causadores de OMA pneumocócicas. Foi estimado que o Prevenar pode prevenir 6-13% de todos os episódios clínicos de OMA.
+ A eficácia do Prevenar contra a otite média aguda (OMA) foi avaliada num ensaio clínico duplamente cego e aleatório com 1.662 crianças finlandesas imunizadas com Prevenar ou com uma vacina controlo (vacina da Hepatite B) aos 2,4,6 e 12 a 15 meses de idade. A eficácia da vacina contra a OMA causada por serotipos nela contidos, objectivo primário do ensaio, foi estimada em 57% (95% IC: 44,67) na análise por protocolo e 54% (95% IC: 41,64) na análise da intenção de tratar. Nos indivíduos imunizados observou-se um aumento de 33% (95% IC:-1,80) na OMA devida a serogrupos não incluídos na vacina. Contudo, o benefício global foi uma redução de 34% (95% IC: 21,45) da incidência de todas as OMA pneumocócicas. O impacto da vacina no número total de episódios de otite média, independentemente da sua etiologia, foi uma diminuição de 6% (95% IC:-4,16).
+ Neste estudo, um subgrupo de crianças foi avaliado até atingirem 4 a 5 anos de idade. Durante este período de seguimento, a eficácia da vacina foi de 18% (95% IC: 1,32) para OM frequentes (definidas como pelo menos 3 episódios em 6 meses),50% (95% IC: 15,71) para otite média crónica com efusão e 39% (95% IC: 4,61) para a inserção de tubo de timpanostomia.
+ No estudo Kaiser Permanente, a eficácia do Prevenar contra OMA foi avaliada como objectivo secundário. As crianças foram avaliadas até aos 3 anos e meio de idade. O impacto da vacina no número total de episódios de otite média, independentemente da sua etiologia, foi uma redução de 7% (95% IC: 4,10). Na análise por protocolo, a vacina teve como efeito uma diminuição de 9%
+ 8 (95% IC: 3,15) na OMA recorrente (definida como 3 episódios em seis meses ou 4 episódios num ano) ou uma diminuição de 23% (95% IC: 7,36) na OMA recorrente (5 episódios em seis meses ou 6 episódios num ano). A inserção de tubo de timpanostomia foi reduzida em 24% (95% IC: 12,35) na análise por protocolo e em 23% (95% IC: 11,34) na análise da intenção de tratar.
+ Efectividade A efectividade do Prevenar contra a DIP (i. e. englobando a protecção proporcionada pela vacinação e pela imunidade de grupo devido à reduzida transmissão dos serotipos da vacina na população) tem sido avaliada em programas nacionais de vacinação que utilizam séries de imunização de duas ou três doses em lactentes seguidas de doses de reforço.
+ No ano 2000 foi introduzida, nos EUA, a vacinação generalizada com Prevenar utilizando uma série de imunização de quatro doses em lactentes e um programa de inclusão de crianças até aos 5 anos de idade. A efectividade da vacina contra a DIP causada pelos serotipos da vacina foi avaliada em crianças entre os 3 e os 59 meses de idade durante os primeiros quatro anos de implementação do programa. Quando comparados com grupos não vacinados, os valores de efectividade estimados para as 2,3 ou 4 doses, administradas em esquemas de imunização em lactentes, foram similares: 96% (95% IC: 88-99); 95% (95% IC: 88-99); e 100% (95% IC: 94-100), respectivamente. Nos EUA, no mesmo intervalo de tempo, houve uma redução de 94% da DIP causada pelos serotipos da vacina em indivíduos com idade inferior a 5 anos, comparativamente com os valores anteriores à vacinação (1998/99). Simultaneamente, houve uma redução de 62% da DIP causada pelos serotipos da vacina em indivíduos com mais de 5 anos de idade. Este efeito indirecto ou de grupo é devido a uma redução na transmissão dos serotipos da vacina das crianças mais novas imunizadas para a restante população e coincide com a diminuição na transmissão nasofaríngea dos serotipos da vacina.
+ No Quebec, Canadá, o Prevenar foi introduzido aos 2,4 e 12 meses de idade com uma dose única no programa de inclusão em crianças até aos 5 anos de idade. Nos primeiros dois anos do programa, com uma cobertura superior a 90%, a efectividade observada contra a DIP causada pelos serotipos da vacina foi de 93% (95% IC: 75-98) para a série de duas doses em lactentes e 100% (95% IC: 91-100) para o esquema de imunização completo.
+ Os dados preliminares de Inglaterra e do País de Gales, notificados até 1 ano após a introdução da imunização de rotina aos 2,4 e 13 meses com uma dose única no programa de inclusão para crianças dos 13 aos 23 meses de idade, sugerem que a efectividade deste esquema de vacinação contra o serotipo 6B pode ser mais reduzida do que contra os restantes serotipos da vacina.
+ A efectividade da série de imunização primária de duas doses contra a pneumonia ou otite média aguda não foi estabelecida.
+ Dados adicionais de imunogenicidade A imunogenicidade do Prevenar foi investigada num estudo aberto multicêntrico 49 lactentes com drepanocitose. As crianças foram vacinadas com Prevenar (3 doses com intervalo de 1 mês a partir dos 2 meses de idade) e destas 46 foram também vacinadas, entre os 15– 18 meses, com uma vacina pneumocócica polissacárida com 23 serotipos. Após a imunização primária, 95,6% das crianças apresentaram níveis mínimos de anticorpos de 0,35 µg/ml para os sete serotipos incluídos em Prevenar. Após a vacinação polissacárida, observou-se um aumento significativo da concentração de anticorpos contra os sete serotipos, o que sugere uma memória imunológica bem estabelecida.
+ 5.2 Propriedades farmacocinéticas A avaliação das propriedades farmacocinéticas não é exigida para as vacinas.
+ 9 5.3 Dados de segurança pré-clínica
+ Um estudo de toxicidade de dose repetida intramuscular (13 semanas,5 injecções, uma a cada três semanas) da vacina pneumocócica conjugada em coelhos não revelou quaisquer efeitos tóxicos locais ou sistémicos importantes.
+ Os estudos de toxicidade de dose repetida subcutânea (13 semanas,7 injecções de dose clínica, uma a cada duas semanas, seguidas por um período de recuperação de 4 semanas) de Prevenar em ratos e macacos não revelaram quaisquer efeitos tóxicos locais ou sistémicos importantes.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Cloreto de sódio. Água para injectáveis. 6.2 Incompatibilidades Na ausência de estudos de compatibilidade, este medicamento não deve ser misturado com outros medicamentos.
+ 6.3 Prazo de validade 3 anos. 6.4 Precauções especiais de conservação
+ Conservar no frigorífico (2ºC-8ºC). Não congelar.
+ 6.5 Natureza e conteúdo do recipiente Frasco para injectáveis (vidro tipo I) com rolha de borracha butílica cinzenta contendo 0,5 ml de suspensão injectável-embalagens de 1 e de 10 frascos para injectáveis sem seringa/agulhas. Embalagens de 1 frasco para injectáveis com seringa e 2 agulhas (1 para retirar a suspensão do frasco para injectáveis,1 para a injecção).
+ É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais de eliminação Durante a conservação, pode observar-se um depósito branco e sobrenadante claro.
+ A vacina deve ser bem agitada para obter uma suspensão homogénea branca e deve ser inspeccionada visualmente quanto à presença de partículas e/ou alteração do aspecto físico antes da administração. Não usar se o conteúdo se apresentar alterado.
+ Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 10 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Wyeth Lederle Vaccines S. A. Rue du Bosquet,15 B-1348 Louvain-la-Neuve Bélgica
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/00/167/001 EU/1/00/167/002 EU/1/00/167/005
+ 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 02/02/2001 Data da última renovação: 12/04/2006
+ 10. DATA DA REVISÃO DO TEXTO 11 1. NOME DO MEDICAMENTO
+ Prevenar suspensão injectável em seringas pré-cheias Vacina pneumocócica sacárida conjugada, adsorvida
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada dose de 0,5 ml contém: Polissacárido do serotipo 4 do pneumococos* Polissacárido do serotipo 6B do pneumococos* Polissacárido do serotipo 9V do pneumococos* Polissacárido do serotipo 14 do pneumococos* Oligossacárido do serotipo 18C do pneumococos* Polissacárido do serotipo 19F do pneumococos* Polissacárido do serotipo 23F do pneumococos*
+ 2 microgramas 4 microgramas 2 microgramas 2 microgramas 2 microgramas 2 microgramas 2 microgramas
+ * conjugado com a proteína transportadora CRM197 e adsorvido em fosfato de alumínio (0,5 mg)
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Suspensão injectável em seringas pré-cheias.
+ A vacina é uma suspensão branca homogénea.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Imunização activa de lactentes e crianças desde os 2 meses até aos 5 anos de idade contra a doença (incluindo septicémia, meningite, pneumonia, bacteriémia e otite média aguda) causada pelos serotipos 4, 6B, 9V,14, 18C, 19F e 23F do Streptococcus pneumoniae (ver secções 4.2, 4.4, e 5.1).
+ Relativamente ao número de doses a administrar nos diferentes grupos etários, ver secção 4.2.
+ A utilização do Prevenar deve ser decidida com base em recomendações oficiais que considerem o impacto da doença invasiva nos diferentes grupos etários, bem como a variabilidade epidemiológica dos serotipos em diferentes zonas geográficas (ver secções 4.4, 4.8 e 5.1).
+ 4.2 Posologia e modo de administração A vacina deve ser dada por injecção intramuscular. De preferência, os locais de injecção são a coxa anterolateral (músculo vastus lateralis) nas crianças até aos 12 meses (lactentes) ou o músculo deltóide na porção superior do braço nas crianças a partir dos 12 meses.
+ Esquemas de imunização: Os esquemas de imunização para o Prevenar devem basear-se em recomendações oficiais.
+ Lactentes com 2-6 meses de idade: A série de imunização primária em lactentes consiste na administração de três doses de 0,5 ml, com início normalmente aos 2 meses de idade, com um intervalo de pelo menos 1 mês entre cada dose. Recomenda-se uma quarta dose no segundo ano de vida.
+ 12 Em alternativa, quando o Prevenar é administrado como parte de um programa de imunização de rotina em lactentes, pode ser considerado um esquema de imunização de duas doses. A primeira dose pode ser administrada a partir dos 2 meses de idade seguida de uma segunda dose pelo menos 2 meses mais tarde e uma terceira dose (reforço) entre os 11 e os 15 meses de idade (ver secção 5.1).
+ Lactentes mais velhos e crianças não vacinados previamente: Lactentes com 7-11 meses de idade: duas doses de 0,5 ml, com um intervalo de pelo menos 1 mês entre cada dose. Recomenda-se uma terceira dose no segundo ano de vida. Crianças com 12-23 meses de idade: duas doses de 0,5 ml, com um intervalo de pelo menos 2 meses entre cada dose. Crianças com 24 meses-5 anos de idade: uma dose única.
+ A necessidade de uma dose de reforço após estes esquemas de vacinação ainda não foi estabelecida.
+ 4.3 Contra-indicações Hipersensibilidade às substâncias activas, a qualquer dos excipientes ou ao toxóide diftérico.
+ 4.4 Advertências e precauções de utilização
+ Como acontece com outras vacinas, a administração de Prevenar deve ser adiada em indivíduos que sofram de uma doença febril aguda grave ou moderada.
+ Como acontece com todas as vacinas injectáveis, devem estar sempre disponíveis cuidados e tratamentos médicos adequados na eventualidade de ocorrer uma reacção anafiláctica rara após a administração da vacina.
+ Deve ser considerado o potencial risco para ocorrência de apneia e a necessidade de monitorização respiratória durante 48-72 horas quando se administra a primovacinação a lactentes nascidos muito prematuramente (nascidos até às 28 semanas de gestação) e particularmente naqueles com antecedentes de imaturidade respiratória. Como o benefício da vacinação é elevado neste grupo de lactentes, a vacinação não deve deixar de ser realizada, nem deve ser adiada.
+ Prevenar não confere protecção contra outros serotipos do Streptococcus pneumoniae que não os incluídos na vacina, nem contra outros microrganismos causadores de doença invasiva ou otite média.
+ Esta vacina não deve ser administrada a lactentes ou crianças com trombocitopenia ou qualquer alteração da coagulação susceptível de contra-indicar a injecção intramuscular, a menos que os potenciais benefícios superem claramente os riscos da administração.
+ Embora possa ocorrer alguma resposta imunitária à toxina diftérica, a imunização com esta vacina não substitui a imunização de rotina contra a difteria.
+ Em crianças dos 2 aos 5 anos de idade foi usado um esquema de imunização de dose única. Em crianças com mais de 24 meses de idade observou-se uma percentagem superior de reacções locais, comparativamente aos lactentes (ver secção 4.8).
+ Crianças com alteração da resposta imunitária, quer devida à utilização de terapêutica imunossupressora, deficiência genética, infecção por HIV ou outras causas, podem apresentar uma resposta imunológica diminuída à imunização activa.
+ Dados limitados demonstraram que o Prevenar (série de imunização primária de três doses) induz uma resposta imunitária aceitável em lactentes com drepanocitose com um perfil de segurança semelhante ao observado em grupos sem alto risco (ver secção 5.1). Os dados de segurança e imunogenicidade em crianças de outros grupos específicos de alto risco de doença invasiva pneumocócica (p. e. crianças
+ 13 com outra doença esplénica congénita ou adquirida, infecção por HIV, neoplasia, síndrome nefrótico) ainda não estão disponíveis. A vacinação em grupos de alto risco deve ser considerada caso a caso.
+ Crianças com menos de 2 anos de idade devem ser vacinadas com as séries de vacinação de Prevenar em função da idade (ver secção 4.2). O uso da vacina pneumocócica conjugada não substitui o uso de vacinas pneumocócicas polissacáridas com 23 serotipos em crianças com 24 meses de idade ou mais e com condições (tais como drepanocitose, asplenia, infecção por HIV, doença crónica ou imunocomprometidos) que as predispõem a um risco elevado de doença invasiva devida ao Streptococcus pneumoniae. Sempre que for recomendado, crianças de risco com 24 meses de idade ou mais e previamente imunizadas com Prevenar, devem ser vacinadas com uma vacina pneumocócica polissacárida com 23 serotipos. O intervalo entre a vacina pneumocócica conjugada (Prevenar) e a vacina pneumocócica polissacárida com 23 serotipos não deve ser inferior a 8 semanas. Não estão disponíveis dados que indiquem que a administração da vacina pneumocócica polissacárida com 23 serotipos a crianças não vacinadas ou crianças vacinadas com Prevenar possa resultar numa resposta diminuída a novas doses de Prevenar.
+ Quando Prevenar é co-administrado com vacinas hexavalentes (DTaP/Hib (PRP-T)/IPV/HepB), o médico deverá saber que os dados dos estudos clínicos indicam que o número de reacções febris é maior comparativamente ao que ocorre após a administração isolada das vacinas hexavalentes. Estas reacções são, na sua maioria, moderadas (inferior ou igual a 39 ºC) e transitórias (ver secção 4.8).
+ O tratamento antipirético deve ser iniciado de acordo com as recomendações habituais.
+ Recomenda-se medicação antipirética profiláctica:
+ -a todas as crianças que sejam vacinadas com Prevenar e simultaneamente com vacinas celulares
+ contra a tosse convulsa, devido ao aumento de reacções febris (ver secção 4.8);
+ -a crianças com doenças convulsivas ou com antecedentes de convulsões febris.
+ Não administrar o Prevenar por via intravenosa.
+ Como acontece com qualquer vacina, o Prevenar pode não proteger da doença pneumocócica todas as crianças a quem foi administrada. Para além disso, para os serotipos da vacina, é de esperar uma protecção contra a otite média substancialmente inferior à protecção contra a doença invasiva. Como a otite média é causada por muitos organismos para além dos serotipos pneumocócicos incluídos na vacina, é de esperar uma protecção inferior contra todos os tipos de otite média (ver secção 5.1).
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Prevenar pode ser administrado em simultâneo com outras vacinas pediátricas, de acordo com os esquemas de imunização recomendados. As diferentes vacinas injectáveis devem ser sempre administradas em locais de injecção diferentes.
+ A resposta imunitária a vacinas pediátricas de rotina administradas concomitantemente com o Prevenar em locais de injecção diferentes foi avaliada em 7 estudos clínicos controlados. A resposta imunológica às vacinas Hib tétano conjugada com proteína (PRP-T), tétano e Hepatite B (HepB) foi idêntica à dos controlos. Relativamente à vacina Hib conjugada com CRM observou-se uma potenciação da resposta imunológica ao Hib e à difteria nos lactentes. Na dose de reforço observou-se uma certa supressão dos níveis de anticorpos contra o Hib, porém todas as crianças tinham níveis que conferem protecção. Observou-se uma diminuição inconstante na resposta aos antigénios da tosse convulsa e à vacina antipoliomielite inactivada (IPV). Desconhece-se o significado clínico destas interacções. Resultados limitados obtidos em estudos abertos mostraram uma resposta aceitável à MMR e à varicela.
+ Os dados sobre a administração concomitante de Prevenar com Infanrix hexa (vacina DTaP/Hib (PRP-T)/IPV/HepB) demonstraram não haver interferência clinicamente relevante na produção de
+ 14 anticorpos para cada um dos antigénios quando administrada como uma série primária de vacinação de 3 doses. Não existem dados disponíveis suficientes sobre a interferência da administração concomitante de outras vacinas hexavalentes com Prevenar.
+ Num ensaio clínico que comparou as administrações separadas com as administrações concomitantes de Prevenar (três doses aos 2; 3,5 e 6 meses e uma dose de reforço aos 12 meses, aproximadamente) e Meningitec (vacina meningocócica conjugada do grupo C; duas doses aos 2 e 6 meses e uma dose de reforço aos 12 meses, aproximadamente) não houve evidência de interferência na resposta imunitária entre as duas vacinas conjugadas, quer após a conclusão das séries primárias, quer após as doses de reforço.
+ 4.6 Gravidez e aleitamento Prevenar não se destina a adultos. Não existe informação disponível sobre a segurança da vacina utilizada durante a gravidez ou aleitamento.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não relevante. 4.8 Efeitos indesejáveis A segurança da vacina foi avaliada em diferentes estudos clínicos controlados que incluíram mais de 18.000 lactentes saudáveis (6 semanas a 18 meses). A maior parte da experiência de segurança foi obtida com o ensaio de eficácia no qual 17.066 lactentes foram vacinados com 55.352 doses de Prevenar. Foi também avaliada a segurança em crianças mais velhas não vacinadas.
+ Em todos os estudos o Prevenar foi administrado concomitantemente com as vacinas infantis recomendadas.
+ Entre as reacções adversas mais frequentemente notificadas encontram-se as reacções no local de injecção e febre.
+ Não se observou, de modo consistente, aumento de reacções locais ou sistémicas com as doses repetidas ao longo da série de imunização primária, ou com a dose de reforço, com excepção do aumento transitório da sensibilidade local (36,5%) e sensibilidade local que interferia com os movimentos dos membros (18,5%) com a dose de reforço.
+ Em crianças mais velhas vacinadas com uma dose única observou-se uma percentagem superior de reacções locais, comparativamente ao previamente descrito em crianças mais pequenas. Estas reacções foram, na maioria, de natureza transitória. Num estudo efectuado após a autorização de comercialização que envolveu 115 crianças entre os 2 e os 5 anos de idade, foi notificada sensibilidade local em 39,1% das crianças, 15,7% das quais apresentaram sensibilidade local que interferia com os movimentos dos membros. Em 40% das crianças foi notificado rubor e em 32,2% foi notificada induração. Rubor ou induração ≥ 2 cm de diâmetro foram notificados em 22,6% e 13,9% das crianças, respectivamente. No caso de administração simultânea de Prevenar com vacinas hexavalentes (DTaP/Hib (PRP-T)/IPV/HepB), foi notificada febre ≥ 38 ºC por dose administrada em 28,3% a 48,3% dos lactentes, vacinados simultaneamente com Prevenar e a vacina hexavalente, comparativamente a 15,6% a 23,4% no grupo vacinado apenas com a vacina hexavalente. Em 0,6 a 2,8% dos lactentes vacinados com Prevenar e vacinas hexavalentes, observou-se febre superior a 39,5 ºC por dose administrada (ver secção 4.4).
+ Nas crianças vacinadas concomitantemente com vacinas celulares contra a tosse convulsa a reactogenicidade foi superior. Num estudo que incluiu 1.662 crianças foi notificada febre ≥ 38 ºC em
+ 15 41,2% das crianças vacinadas simultaneamente com Prevenar e DTP, comparativamente a 27,9% no grupo de controlo. Foi notificada febre &gt; 39 ºC em 3,3% das crianças comparativamente com 1,2% no grupo de controlo.
+ Os efeitos indesejáveis notificados nos ensaios clínicos ou da experiência pós-comercialização encontram-se listados no quadro seguinte por sistema corporal e frequência, para todos os grupos etários. A frequência é definida em: muito frequentes: ≥ 1/10, frequentes: ≥ 1/100 e &lt; 1/10, pouco frequentes: ≥ 1/1.000 e &lt; 1/100, raras: ≥ 1/10.000 e &lt; 1/1.000, muito raras: &lt; 1/10.000.
+ Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ Doenças do sangue e do sistema linfático: Muito raros:
+ Linfadenopatia localizada na região do local de injecção.
+ Doenças do sistema imunitário: Raros: Reacções de hipersensibilidade tais como reacções anafilácticas/anafilactóides incluindo choque, edema angioneurótico, broncoespasmo, dispneia e edema da face.
+ Doenças do sistema nervoso: Raros: Convulsões, incluindo convulsões febris. Doenças gastrointestinais: Muito frequentes:
+ Vómitos, diarreia, diminuição do apetite.
+ Afecções dos tecidos Pouco frequentes: Muito raros:
+ cutâneos e subcutâneas: Erupção cutânea/urticária. Eritema multiforme.
+ Perturbações gerais e alterações no local de administração: Muito frequentes:
+ Reacções no local de injecção (por ex. eritema, induração/tumefacção, dor/sensibilidade aumentada); febre ≥ 38 ºC, irritabilidade, choro, sonolência, sono agitado.
+ Frequentes: Tumefacção/induração no local de injecção e eritema &gt; 2,4 cm, sensibilidade aumentada que interfere com os movimentos, febre &gt; 39 ºC.
+ Raros: Episódio hipotónico hiporreactivo, reacções de hipersensibilidade no local de injecção (por ex. dermatite, prurido, urticária).
+ Apneia em lactentes muito prematuros (≤ 28 semanas de gestação) (ver secção 4.4).
+ 4.9 Sobredosagem Foram notificados casos de sobredosagem com Prevenar, incluindo casos de administração de uma dose superior à recomendada e casos de doses subsequentes administradas mais cedo que o recomendado relativamente à dose precedente. Na maioria dos indivíduos não foram notificados efeitos indesejáveis. Em geral, os acontecimentos adversos notificados nos casos de sobredosagem foram também notificados com as doses únicas recomendadas de Prevenar.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: vacinas pneumocócicas, código ATC: J07AL02
+ 16 Imunogenicidade
+ Foram observados aumentos significativos dos anticorpos (avaliados por ELISA) para todos os serotipos da vacina após a série de imunização primária de três doses de Prevenar em lactentes e após as doses de reforço, embora as concentrações médias geométricas (GMCs) tenham variado entre os 7 serotipos. Prevenar demonstrou também aumentar os anticorpos funcionais (avaliados por opsonofagocitose) contra todos os serotipos contidos na vacina após a série de imunização primária. Não foi estudada a persistência a longo prazo dos anticorpos após a administração da série primária em lactentes seguida de dose de reforço ou após a administração de doses únicas de imunização primária em crianças mais velhas. A administração de polissacáridos pneumocócicos não conjugados ao 13º mês após a série de imunização primária com Prevenar originou uma resposta imunitária anamnéstica aos 7 serotipos incluídos na vacina, o que é indicativo de imunização primária.
+ A imunogenicidade da série de imunização primária de duas doses em lactentes seguida de dose de reforço por volta de um ano de idade foi descrita em vários estudos. A maioria dos dados indicou que uma proporção mais reduzida de lactentes atingiu concentrações de anticorpos ≥ 0,35 µg/ml (concentração de anticorpos de referência recomendada pela OMS1) contra os serotipos 6B e 23F após a série de imunização primária de duas doses, quando comparada, directa ou indirectamente, com a série de imunização primária de três doses. Além disso, as GMCs foram mais baixas para os anticorpos contra a maioria dos serotipos após a série de imunização primária de duas doses em lactentes do que após a série de imunização de três doses em lactentes. Contudo, as respostas imunitárias às doses de reforço em crianças até aos dois anos de idade após as séries de imunização de duas ou três doses em lactentes foram comparáveis para todos os 7 serotipos da vacina e indicam que ambos os esquemas em lactentes originaram uma resposta imunitária primária adequada.
+ Foram observados aumentos significativos dos anticorpos (avaliados por ELISA) para todos os serotipos da vacina após a administração de doses únicas de Prevenar em crianças entre os 2 e os 5 anos de idade. As concentrações dos anticorpos foram semelhantes às atingidas após a série de imunização de três doses em lactentes e dose de reforço numa idade inferior a 2 anos. Não foram realizados ensaios de eficácia na população dos 2 aos 5 anos de idade.
+ Não foram estabelecidos ensaios clínicos de eficácia para a série de imunização primária de duas doses em lactentes seguidas de dose de reforço e desconhecem-se as consequências clínicas das concentrações de anticorpos mais reduzidas contra os serotipos 6B e 23F após a série de imunização de duas doses em lactentes.
+ Eficácia contra a doença invasiva As estimativas de eficácia contra a doença invasiva foram obtidas na população dos EUA onde a cobertura de serotipos pela vacina variou entre 80 a 89%. Dados epidemiológicos obtidos entre 1988 e 2003 indicam que na Europa a cobertura é inferior e varia de país para país. Consequentemente, o Prevenar deve cobrir entre 54% e 84% dos isolados de doença invasiva pneumocócica (DIP) nas crianças com menos de 2 anos de idade oriundas de países europeus. Nas crianças europeias entre os 2 e os 5 anos de idade, o Prevenar deve cobrir cerca de 62% a 83% dos isolados clínicos responsáveis pela doença invasiva pneumocócica. Estima-se que mais de 80% das estirpes microbianas resistentes devem ser cobertas pelos serotipos incluídos na vacina. A cobertura dos serotipos da vacina na população pediátrica diminui com a idade. A diminuição da incidência de DIP observada nas crianças mais velhas pode ser em parte devida a imunidade adquirida naturalmente.
+ A eficácia contra a doença invasiva foi avaliada num ensaio clínico duplamente cego, aleatório, de larga escala, numa população multi-étnica na Califórnia do Norte (estudo Kaiser Permanente). Mais
+ 1 OMS Relatório Técnico Nº 927,2005; “ Appendix serological criteria for calculation and licensure of new pneumococcal conjugate vaccine for use in infants ”.
+ 17 de 37.816 lactentes foram imunizados com Prevenar ou uma vacina de controlo (vacina meningocócica conjugada do grupo C) aos 2,4,6 e 12-15 meses de idade. Quando o estudo foi realizado os serotipos incluídos na vacina contribuíam 89% para a DIP.
+ Num período de seguimento em ocultação prolongado até 20 de Abril de 1999, o total acumulado de casos de doença invasiva causada por serotipos contidos na vacina era de 52. A eficácia específica para os serotipos da vacina foi estimada em 94% (95% IC: 81,99) na população da intenção de tratar e 97% (95% IC: 85,100) na população por protocolo (imunização completa) (40 casos). Na Europa, a efectividade estimada em crianças com idade inferior a 2 anos varia entre 51% e 79%, considerando a cobertura da vacina contra serotipos causadores de doença invasiva.
+ Eficácia contra a pneumonia No estudo Kaiser Permanente, a eficácia contra a pneumonia bacteriémica devida a serotipos de S. pneumoniae contidos na vacina foi de 87,5% (95% IC: 7,99).
+ A efectividade (sem confirmação microbiológica do diagnóstico) contra a pneumonia não bacteriémica foi igualmente avaliada. Em virtude de muitos outros agentes patogénicos, para além dos serotipos de pneumococos contidos na vacina, poderem contribuir para a carga da pneumonia em crianças, espera-se que a protecção contra todas as pneumonias clínicas seja inferior que para a doença pneumocócica invasiva. Na análise efectuada de acordo com o protocolo, a redução estimada do risco para o primeiro episódio de pneumonia clínica com radiografia torácica anormal (definida como a presença de infiltrados para além da área per-hilar, consolidação ou empiema) foi 20,5% (95% IC: 4,4, 34,0). Reduções da pneumonia com radiografia torácica anormal foram superiores no primeiro ano de vida (32,2%; 95% IC 3,3, 52,5) e nos primeiros 2 anos de vida (23,4%; 95% IC: 5,2, 38,1).
+ Eficácia contra a otite média A otite média aguda (OMA), com diferentes etiologias, é uma doença frequente na infância. As bactérias podem ser responsáveis por 60 a 70% dos episódios clínicos de OMA. O pneumococos é responsável por 30-40% de todas as OMA bacterianas e por uma quantidade mais elevada de OMA graves. Teoricamente, o Prevenar pode prevenir cerca de 60-80% dos serotipos causadores de OMA pneumocócicas. Foi estimado que o Prevenar pode prevenir 6-13% de todos os episódios clínicos de OMA.
+ A eficácia do Prevenar contra a otite média aguda (OMA) foi avaliada num ensaio clínico duplamente cego e aleatório com 1.662 crianças finlandesas imunizadas com Prevenar ou com uma vacina controlo (vacina da Hepatite B) aos 2,4,6 e 12 a 15 meses de idade. A eficácia da vacina contra a OMA causada por serotipos nela contidos, objectivo primário do ensaio, foi estimada em 57% (95% IC: 44,67) na análise por protocolo e 54% (95% IC: 41,64) na análise da intenção de tratar. Nos indivíduos imunizados observou-se um aumento de 33% (95% IC:-1,80) na OMA devida a serogrupos não incluídos na vacina. Contudo, o benefício global foi uma redução de 34% (95% IC: 21,45) da incidência de todas as OMA pneumocócicas. O impacto da vacina no número total de episódios de otite média, independentemente da sua etiologia, foi uma diminuição de 6% (95% IC:-4,16).
+ Neste estudo, um subgrupo de crianças foi avaliado até atingirem 4 a 5 anos de idade. Durante este período de seguimento, a eficácia da vacina foi de 18% (95% IC: 1,32) para OM frequentes (definidas como pelo menos 3 episódios em 6 meses),50% (95% IC: 15,71) para otite média crónica com efusão e 39% (95% IC: 4,61) para a inserção de tubo de timpanostomia.
+ No estudo Kaiser Permanente, a eficácia do Prevenar contra OMA foi avaliada como objectivo secundário. As crianças foram avaliadas até aos 3 anos e meio de idade. O impacto da vacina no número total de episódios de otite média, independentemente da sua etiologia, foi uma redução de 7% (95% IC: 4,10). Na análise por protocolo, a vacina teve como efeito uma diminuição de 9%
+ 18 (95% IC: 3,15) na OMA recorrente (definida como 3 episódios em seis meses ou 4 episódios num ano) ou uma diminuição de 23% (95% IC: 7,36) na OMA recorrente (5 episódios em seis meses ou 6 episódios num ano). A inserção de tubo de timpanostomia foi reduzida em 24% (95% IC: 12,35) na análise por protocolo e em 23% (95% IC: 11,34) na análise da intenção de tratar.
+ Efectividade A efectividade do Prevenar contra a DIP (i. e. englobando a protecção proporcionada pela vacinação e pela imunidade de grupo devido à reduzida transmissão dos serotipos da vacina na população) tem sido avaliada em programas nacionais de vacinação que utilizam séries de imunização de duas ou três doses em lactentes seguidas de doses de reforço.
+ No ano 2000 foi introduzida, nos EUA, a vacinação generalizada com Prevenar utilizando uma série de imunização de quatro doses em lactentes e um programa de inclusão de crianças até aos 5 anos de idade. A efectividade da vacina contra a DIP causada pelos serotipos da vacina foi avaliada em crianças entre os 3 e os 59 meses de idade durante os primeiros quatro anos de implementação do programa. Quando comparados com grupos não vacinados, os valores de efectividade estimados para as 2,3 ou 4 doses, administradas em esquemas de imunização em lactentes, foram similares: 96% (95% IC: 88-99); 95% (95% IC: 88-99); e 100% (95% IC: 94-100), respectivamente. Nos EUA, no mesmo intervalo de tempo, houve uma redução de 94% na DIP causada pelos serotipos da vacina em indivíduos com idade inferior a 5 anos, comparativamente com os valores anteriores à vacinação (1998/99). Simultaneamente, houve uma redução de 62% da DIP causada pelos serotipos da vacina em indivíduos com mais de 5 anos de idade. Este efeito indirecto ou de grupo é devido a uma redução na transmissão dos serotipos da vacina das crianças mais novas imunizadas para a restante população e coincide com a diminuição na transmissão nasofaríngea dos serotipos da vacina.
+ No Quebec, Canadá, o Prevenar foi introduzido aos 2,4 e 12 meses de idade com uma dose única no programa de inclusão em crianças até aos 5 anos de idade. Nos primeiros dois anos do programa, com uma cobertura superior a 90%, a efectividade observada contra a DIP causada pelos serotipos da vacina foi de 93% (95% IC: 75-98) para a série de duas doses em lactentes e 100% (95% IC: 91-100) para o esquema de imunização completo.
+ Os dados preliminares de Inglaterra e do País de Gales, notificados até 1 ano após a introdução da imunização de rotina aos 2,4 e 13 meses com uma dose única no programa de inclusão para crianças dos 13 aos 23 meses de idade, sugerem que a efectividade deste esquema de vacinação contra o serotipo 6B pode ser mais reduzida do que contra os restantes serotipos da vacina.
+ A efectividade da série de imunização primária de duas doses contra a pneumonia ou otite média aguda não foi estabelecida.
+ Dados adicionais de imunogenicidade A imunogenicidade do Prevenar foi investigada num estudo aberto multicêntrico com 49 lactentes com drepanocitose. As crianças foram vacinadas com Prevenar (3 doses com intervalo de 1 mês a partir dos 2 meses de idade) e destas 46 foram também vacinadas, entre os 15– 18 meses, com uma vacina pneumocócica polissacárida com 23 serotipos. Após a imunização primária, 95,6% das crianças apresentaram níveis mínimos de anticorpos de 0,35 µg/ml para os sete serotipos incluídos em Prevenar. Após a vacinação polissacárida, observou-se um aumento significativo da concentração de anticorpos contra os sete serotipos, o que sugere uma memória imunológica bem estabelecida.
+ 5.2 Propriedades farmacocinéticas A avaliação das propriedades farmacocinéticas não é exigida para as vacinas.
+ 19 5.3 Dados de segurança pré-clínica
+ Um estudo de toxicidade de dose repetida intramuscular (13 semanas,5 injecções, uma a cada três semanas) da vacina pneumocócica conjugada em coelhos não revelou quaisquer efeitos tóxicos locais ou sistémicos importantes.
+ Os estudos de toxicidade de dose repetida subcutânea (13 semanas,7 injecções de dose clínica, uma a cada duas semanas, seguidas por um período de recuperação de 4 semanas) de Prevenar em ratos e macacos não revelaram quaisquer efeitos tóxicos locais ou sistémicos importantes.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Cloreto de sódio Água para injectáveis 6.2 Incompatibilidades Na ausência de estudos de compatibilidade, este medicamento não deve ser misturado com outros medicamentos.
+ 6.3 Prazo de validade 4 anos. 6.4 Precauções especiais de conservação
+ Conservar no frigorífico (2ºC-8ºC). Não congelar.
+ 6.5 Natureza e conteúdo do recipiente Seringa pré-cheia (vidro tipo I) contendo 0,5 ml de suspensão injectável com êmbolo (polipropileno)-embalagens de 1 e de 10 com ou sem agulha e embalagem múltipla de 5 embalagens de 10 seringas pré-cheias sem agulha.
+ É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais de eliminação Durante a conservação, pode observar-se um depósito branco e sobrenadante claro.
+ A vacina deve ser bem agitada para obter uma suspensão homogénea branca e deve ser inspeccionada visualmente quanto à presença de partículas e/ou alteração do aspecto físico antes da administração. Não usar se o conteúdo se apresentar alterado.
+ Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 20 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Wyeth Lederle Vaccines S. A. Rue du Bosquet,15 B-1348 Louvain-la-Neuve Bélgica
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/00/167/003 EU/1/00/167/004 EU/1/00/167/006 EU/1/00/167/007 EU/1/00/167/008
+ 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 02/02/2001 Data da última renovação: 12/04/2006
+ 10. DATA DA REVISÃO DO TEXTO 21 ANEXO II
+ A. FABRICANTES DAS SUBSTÂNCIAS ACTIVAS DE ORIGEM BIOLÓGICA E TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 22 A. FABRICANTES DAS SUBSTÂNCIAS ACTIVAS DE ORIGEM BIOLÓGICA E TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço dos fabricantes das substâncias activas de origem biológica
+ CRM197, sacáridos activados e conjugados Wyeth Pharmaceuticals, Division of Wyeth Holdings Corporation 4300 Oak Park NC 27330, Sanford, EUA
+ Polissacáridos do pneumococos Wyeth Pharmaceuticals, Division of Wyeth Holdings Corporation 401 North Middletown Road NY 10965, Pearl River, EUA
+ Nome e endereço do fabricante responsável pela libertação do lote
+ John Wyeth &amp; Brother Ltd. Huntercombe Lane South Taplow, Maidenhead Berkshire, SL6 0PH Reino Unido
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E À UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento sujeito a receita médica. • CONDIÇÕES OU RESTRIÇÕES EM RELAÇÃO À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ Não aplicável. • OUTRAS CONDIÇÕES
+ O Titular de Introdução no Mercado deverá assegurar que o sistema de farmacovigilância, submetido em 22 Novembro de 2006 e que consta do Módulo 1. 8.1 do Pedido de Autorização de Introdução no Mercado, está implementado e em funcionamento antes e durante a comercialização do medicamento.
+ Relatórios Periódicos de Segurança (RPSs): O Titular da Autorização de Introdução no Mercado continuará a submeter RPSs em ciclos de 2 anos.
+ Libertação oficial do lote: nos termos do artigo 114. º da Directiva 2001/83/EU do Conselho, com as alterações que lhe foram introduzidas, a libertação oficial do lote será feita por um laboratório estatal ou um laboratório designado para esse efeito.
+ 23 Laboratório Oficial de Controlo dos Medicamentos Agence Française de Sécurité Sanitaire des Produits de Santé Direction des laboratoires et des contrôles Avenue Jean Jaurès 321 F-69007 Lyon França
+ 24 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 25 A. ROTULAGEM
+ 26 Prevenar-frasco para injectáveis para dose única x embalagem de 1
+ INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ TEXTO DA EMBALAGEM EXTERIOR 1. NOME DO MEDICAMENTO Prevenar suspensão injectável Vacina pneumocócica sacárida conjugada, adsorvida
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada dose de 0,5 ml contém 2 microgramas de sacáridos para os serotipos 4, 9V,14, 18C, 19F e 23F,4 microgramas do serotipo 6B por dose (total de 16 microgramas de sacáridos) conjugados com a proteína transportadora CRM197 e adsorvidos em fosfato de alumínio (0,5 mg).
+ 3. LISTA DOS EXCIPIENTES Contém ainda cloreto de sódio e água para injectáveis.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Suspensão injectável. 1 frasco para injectáveis para dose única (0,5 ml).
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via intramuscular. Agitar bem antes de utilizar. Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ Não injectar por via intravenosa. 8. PRAZO DE VALIDADE VAL.: 27 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico. Não congelar. 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Wyeth Lederle Vaccines S. A. Rue du Bosquet,15 B-1348 Louvain-la-Neuve Bélgica
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/00/167/001 13. NÚMERO DO LOTE Lote: 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE 28 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ TEXTO DO FRASCO PARA INJECTÁVEIS 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Prevenar suspensão injectável Vacina pneumocócica sacárida conjugada, adsorvida Via intramuscular.
+ 2. MODO DE ADMINISTRAÇÃO Agitar bem antes de utilizar. 3. PRAZO DE VALIDADE VAL.: 4. NÚMERO DO LOTE Lote: 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 1 dose (0,5 ml) Wyeth Lederle Vaccines S. A. 6. OUTRAS 29 Prevenar-frasco para injectáveis para dose única x embalagem de 10
+ INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ TEXTO DA EMBALAGEM EXTERIOR 1. NOME DO MEDICAMENTO Prevenar suspensão injectável Vacina pneumocócica sacárida conjugada, adsorvida
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada dose de 0,5 ml contém 2 microgramas de sacáridos para os serotipos 4, 9V,14, 18C, 19F e 23F,4 microgramas do serotipo 6B por dose (total de 16 microgramas de sacáridos) conjugados com a proteína transportadora CRM197 e adsorvidos em fosfato de alumínio (0,5 mg).
+ 3. LISTA DOS EXCIPIENTES Contém ainda cloreto de sódio e água para injectáveis.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Suspensão injectável. 10 frascos para injectáveis para dose única (0,5 ml).
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via intramuscular. Agitar bem antes de utilizar. Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ Não injectar por via intravenosa. 8. PRAZO DE VALIDADE VAL.: 30 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico. Não congelar. 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Wyeth Lederle Vaccines S. A. Rue du Bosquet,15 B-1348 Louvain-la-Neuve Bélgica
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/00/167/002 13. NÚMERO DO LOTE Lote: 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE 31 Prevenar-seringa pré-cheia para dose única sem agulha x embalagem de 1
+ INDICAÇÕES A INCLUIR NA EMBALAGEM EXTERIOR
+ TEXTO DA EMBALAGEM EXTERIOR 1. NOME DO MEDICAMENTO Prevenar suspensão injectável em seringas pré-cheias Vacina pneumocócica sacárida conjugada, adsorvida
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada dose de 0,5 ml contém 2 microgramas de sacáridos para os serotipos 4, 9V,14, 18C, 19F e 23F,4 microgramas do serotipo 6B por dose (total de 16 microgramas de sacáridos) conjugados com a proteína transportadora CRM197 e adsorvidos em fosfato de alumínio (0,5 mg).
+ 3. LISTA DOS EXCIPIENTES Contém ainda cloreto de sódio e água para injectáveis.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Suspensão injectável em seringas pré-cheias. 1 seringa pré-cheia para dose única (0,5 ml) sem agulha.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via intramuscular. Agitar bem antes de utilizar. Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ Não injectar por via intravenosa. 8. PRAZO DE VALIDADE VAL.: 32 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico. Não congelar. 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Wyeth Lederle Vaccines S. A. Rue du Bosquet,15 B-1348 Louvain-la-Neuve Bélgica
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/00/167/003 13. NÚMERO DO LOTE Lote: 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE 33 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ TEXTO DA SERINGA PRÉ-CHEIA 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Prevenar suspensão injectável em seringas pré-cheias Vacina pneumocócica sacárida conjugada, adsorvida. Via intramuscular.
+ 2. MODO DE ADMINISTRAÇÃO Agitar bem antes de utilizar. 3. PRAZO DE VALIDADE VAL.: 4. NÚMERO DO LOTE Lote: 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 1 dose (0,5 ml) Wyeth Lederle Vaccines S. A. 6. OUTRAS 34 Prevenar-seringa pré-cheia para dose única sem agulha x embalagem de 10
+ INDICAÇÕES A INCLUIR NA EMBALAGEM EXTERIOR
+ TEXTO DA EMBALAGEM EXTERIOR 1. NOME DO MEDICAMENTO Prevenar suspensão injectável em seringas pré-cheias Vacina pneumocócica sacárida conjugada, adsorvida
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada dose de 0,5 ml contém 2 microgramas de sacáridos para os serotipos 4, 9V,14, 18C, 19F e 23F,4 microgramas do serotipo 6B por dose (total de 16 microgramas de sacáridos) conjugados com a proteína transportadora CRM197 e adsorvidos em fosfato de alumínio (0,5 mg).
+ 3. LISTA DOS EXCIPIENTES Contém ainda cloreto de sódio e água para injectáveis.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Suspensão injectável em seringas pré-cheias. 10 seringas pré-cheias para dose única (0,5 ml) sem agulha.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via intramuscular. Agitar bem antes de utilizar. Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ Não injectar por via intravenosa. 8. PRAZO DE VALIDADE VAL.: 35 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico. Não congelar. 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Wyeth Lederle Vaccines S. A. Rue du Bosquet,15 B-1348 Louvain-la-Neuve Bélgica
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/00/167/004 13. NÚMERO DO LOTE Lote: 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE 36 Prevenar-frasco para injectáveis para dose única com seringa e agulhas x embalagem de 1
+ INDICAÇÕES A INCLUIR NA EMBALAGEM EXTERIOR
+ TEXTO DA EMBALAGEM EXTERIOR 1. NOME DO MEDICAMENTO Prevenar suspensão injectável Vacina pneumocócica sacárida conjugada, adsorvida
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada dose de 0,5 ml contém 2 microgramas de sacáridos para os serotipos 4, 9V,14, 18C, 19F e 23F,4 microgramas do serotipo 6B por dose (total de 16 microgramas de sacáridos) conjugados com a proteína transportadora CRM197 e adsorvidos em fosfato de alumínio (0,5 mg).
+ 3. LISTA DOS EXCIPIENTES Contém ainda cloreto de sódio e água para injectáveis.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Suspensão injectável. 1 frasco para injectáveis para dose única (0,5 ml). 1 seringa individual. 2 agulhas individuais.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via intramuscular. Agitar bem antes de utilizar. Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ Não injectar por via intravenosa. 37 8. PRAZO DE VALIDADE
+ VAL.: 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico. Não congelar. 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Wyeth Lederle Vaccines S. A. Rue du Bosquet,15 B-1348 Louvain-la-Neuve Bélgica
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/00/167/005 13. NÚMERO DO LOTE Lote: 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE 38 Prevenar-seringa pré-cheia para dose única com agulha individual x embalagem de 1.
+ INDICAÇÕES A INCLUIR NA EMBALAGEM EXTERIOR
+ TEXTO DA EMBALAGEM EXTERIOR 1. NOME DO MEDICAMENTO Prevenar suspensão injectável em seringas pré-cheias Vacina pneumocócica sacárida conjugada, adsorvida
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada dose de 0,5 ml contém 2 microgramas de sacáridos para os serotipos 4, 9V,14, 18C, 19F e 23F,4 microgramas do serotipo 6B por dose (total de 16 microgramas de sacáridos) conjugados com a proteína transportadora CRM197 e adsorvidos em fosfato de alumínio (0,5 mg).
+ 3. LISTA DOS EXCIPIENTES Contém ainda cloreto de sódio e água para injectáveis.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Suspensão injectável em seringas pré-cheias. 1 seringa pré-cheia para dose única (0,5 ml) com agulha individual.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via intramuscular. Agitar bem antes de utilizar. Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ Não injectar por via intravenosa. 8. PRAZO DE VALIDADE VAL.: 39 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico. Não congelar. 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Wyeth Lederle Vaccines S. A. Rue du Bosquet,15 B-1348 Louvain-la-Neuve Bélgica
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/00/167/006 13. NÚMERO DO LOTE Lote: 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE 40 Prevenar-seringa pré-cheia para dose única com agulha individual x embalagem de 10.
+ INDICAÇÕES A INCLUIR NA EMBALAGEM EXTERIOR
+ TEXTO DA EMBALAGEM EXTERIOR 1. NOME DO MEDICAMENTO Prevenar suspensão injectável em seringas pré-cheias Vacina pneumocócica sacárida conjugada, adsorvida
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada dose de 0,5 ml contém 2 microgramas de sacáridos para os serotipos 4, 9V,14, 18C, 19F e 23F,4 microgramas do serotipo 6B por dose (total de 16 microgramas de sacáridos) conjugados com a proteína transportadora CRM197 e adsorvidos em fosfato de alumínio (0,5 mg).
+ 3. LISTA DOS EXCIPIENTES Contém ainda cloreto de sódio e água para injectáveis.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Suspensão injectável em seringas pré-cheias. 10 seringas pré-cheias para dose única (0,5 ml) com agulhas individuais.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via intramuscular. Agitar bem antes de utilizar. Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ Não injectar por via intravenosa. 8. PRAZO DE VALIDADE VAL.: 41 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico. Não congelar. 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Wyeth Lederle Vaccines S. A. Rue du Bosquet,15 B-1348 Louvain-la-Neuve Bélgica
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/00/167/007 13. NÚMERO DO LOTE Lote: 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE 42 Prevenar-seringa pré-cheia para dose única sem agulha x 10: embalagem para a apresentação embalagem múltipla 5 x 10, sem blue box.
+ INDICAÇÕES A INCLUIR NA EMBALAGEM EXTERIOR
+ TEXTO DA EMBALAGEM EXTERIOR 1. NOME DO MEDICAMENTO Prevenar suspensão injectável em seringas pré-cheias Vacina pneumocócica sacárida conjugada, adsorvida
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada dose de 0,5 ml contém 2 microgramas de sacáridos para os serotipos 4, 9V,14, 18C, 19F e 23F,4 microgramas do serotipo 6B por dose (total de 16 microgramas de sacáridos) conjugados com a proteína transportadora CRM197 e adsorvidos em fosfato de alumínio (0,5 mg).
+ 3. LISTA DOS EXCIPIENTES Contém ainda cloreto de sódio e água para injectáveis.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Suspensão injectável em seringas pré-cheias. Componente de uma embalagem múltipla com 5 embalagens, cada uma contendo 10 seringas pré-cheias para dose única (0,5 ml) sem agulha. Cada embalagem individual não pode ser vendida em separado.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via intramuscular. Agitar bem antes de utilizar. Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ Não injectar por via intravenosa. 43 8. PRAZO DE VALIDADE
+ VAL.: 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico. Não congelar. 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Wyeth Lederle Vaccines S. A. Rue du Bosquet,15 B-1348 Louvain-la-Neuve Bélgica
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/00/167/008 13. NÚMERO DO LOTE Lote: 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE 44 Prevenar – Rótulo exterior envolvente para aplicar na película transparente da apresentação embalagem múltipla 5 x 10, incluindo a blue box.
+ INDICAÇÕES A INCLUIR NA EMBALAGEM EXTERIOR
+ RÓTULO 1. NOME DO MEDICAMENTO Prevenar suspensão injectável em seringas pré-cheias Vacina pneumocócica sacárida conjugada, adsorvida
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada dose de 0,5 ml contém 2 microgramas de sacáridos para os serotipos 4, 9V,14, 18C, 19F e 23F,4 microgramas do serotipo 6B por dose (total de 16 microgramas de sacáridos) conjugados com a proteína transportadora CRM197 e adsorvidos em fosfato de alumínio (0,5 mg).
+ 3. LISTA DOS EXCIPIENTES Contém ainda cloreto de sódio e água para injectáveis.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Suspensão injectável em seringas pré-cheias. Embalagem múltipla com 5 embalagens, cada uma contendo 10 seringas pré-cheias para dose única (0,5 ml) sem agulha. Cada embalagem individual não pode ser vendida em separado.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via intramuscular. Agitar bem antes de utilizar. Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ Não injectar por via intravenosa. 45 8. PRAZO DE VALIDADE
+ VAL.: 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico. Não congelar. 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Wyeth Lederle Vaccines S. A. Rue du Bosquet,15 B-1348 Louvain-la-Neuve Bélgica
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/00/167/008 13. NÚMERO DO LOTE Lote: 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE 46 B. FOLHETO INFORMATIVO
+ 47 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Prevenar suspensão injectável Vacina pneumocócica sacárida conjugada, adsorvida
+ Leia atentamente este folheto antes desta vacina ser dada à criança.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é Prevenar e para que é utilizado 2. Antes de utilizar Prevenar 3. Como utilizar Prevenar 4. Efeitos secundários possíveis 5. Como conservar Prevenar 6. Outras informações
+ 1. O QUE É PREVENAR E PARA QUE É UTILIZADO
+ Prevenar é uma vacina pneumocócica. Prevenar ajuda a proteger a criança contra doenças tais como: meningite, septicémia ou bacteriémia (bactérias na corrente sanguínea), pneumonia e infecção nos ouvidos causadas por sete tipos da bactéria Streptococcus pneumoniae. A vacina actua auxiliando o organismo a produzir os seus anticorpos, os quais protegem a criança destas doenças.
+ 2. ANTES DE UTILIZAR PREVENAR Não utilize Prevenar: -se a criança tem alergia (hipersensibilidade) às substâncias activas, a qualquer outro componente
+ ou ao toxóide diftérico.
+ Tome especial cuidado com Prevenar: -se a criança tem ou teve algum problema médico após qualquer dose de Prevenar.
+ -se a criança tem algum problema na coagulação do sangue.
+ -se a criança está doente com febre alta.
+ Prevenar protege apenas contra infecções nos ouvidos causadas pelos tipos de Streptococcus pneumoniae para os quais a vacina foi desenvolvida. Não protege contra outros agentes infecciosos que podem causar infecções nos ouvidos.
+ Ao utilizar com outros medicamentos/vacinas: Informe o seu médico, enfermeira ou farmacêutico se a criança estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica ou se lhe tiver sido dada recentemente outra vacina.
+ 3. COMO UTILIZAR PREVENAR O médico ou enfermeira irá administrar a dose recomendada (0,5 ml) da vacina. Prevenar pode ser dado ao mesmo tempo que outras vacinas infantis; neste caso, devem escolher-se locais de administração diferentes.
+ 48 Prevenar não deve ser misturado com quaisquer outras vacinas na mesma seringa.
+ Prevenar será injectado num músculo da criança.
+ Em geral, serão dadas quatro doses da vacina à criança. De acordo com as recomendações oficiais em vigor, o seu profissional de saúde poderá utilizar um esquema de imunização alternativo. Cada dose será dada numa altura diferente. É importante seguir as instruções do médico ou enfermeira para que a criança complete o esquema de vacinação.
+ Se se esqueceu de voltar ao médico ou enfermeira na altura prevista, peça aconselhamento ao médico ou enfermeira.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todas as vacinas, Prevenar pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ A terminologia utilizada para descrever a frequência dos efeitos secundários é a seguinte:
+ Muito comuns: efeitos secundários que podem ocorrer em mais de 1 em 10 crianças. Comuns: efeitos secundários que podem ocorrer em menos de 1 em 10 crianças. Pouco comuns: efeitos secundários que podem ocorrer em menos de 1 em 100 crianças. Raros: efeitos secundários que podem ocorrer em menos de 1 em 1000 crianças. Muito raros: efeitos secundários que podem ocorrer em menos de 1 em 10.000 crianças.
+ • Doenças do sangue e do sistema linfático:
+ Muito raros: aumento dos gânglios linfáticos (linfadenopatia) na região do local de injecção.
+ • Doenças do sistema nervoso:
+ Raros: convulsões, convulsões associadas a febre.
+ • Doenças gastrointestinais:
+ Muito comuns: diminuição do apetite, vómitos, diarreia.
+ • Afecções dos tecidos cutâneos e subcutâneas:
+ Pouco comuns: Muito raros: pele irritada/urticária. eritema multiforme.
+ • Perturbações gerais e alterações no local de administração:
+ Muito comuns: dor, sensibilidade aumentada, vermelhidão ou endurecimento no local de injecção; febre igual ou superior a 38ºC, irritabilidade, choro, sonolência, sono agitado.
+ Comuns: vermelhidão, inchaço ou endurecimento no local de injecção superior a 2,4 cm; sensibilidade aumentada no local de injecção que interfere com os movimentos; febre igual ou superior a 39ºC.
+ Raros: reacções de hipersensibilidade no local de injecção como, por exemplo, pele irritada/urticária ou comichão no local de injecção; episódio hipotónico hiporreactivo (colapso ou estado semelhante a choque).
+ 49 • Doenças do sistema imunitário
+ Raros: hipersensibilidade/reacções alérgicas graves, as quais podem incluir inchaço da cara e/ou lábios, dificuldade em respirar e/ou choque (colapso cardiovascular).
+ Em bebés nascidos muito ocorrer intervalos mais
+ prematuramente (nascidos antes ou às 28 semanas de gestação) podem longos do que o normal entre as respirações durante 2-3 dias após a vacinação.
+ Se tiver quaisquer questões ou preocupações, fale com o seu médico ou farmacêutico. Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR PREVENAR Manter fora do alcance e da vista das crianças.
+ Conservar no frigorífico (2°C – 8°C). Não congelar.
+ Não utilize Prevenar após o prazo de validade impresso na embalagem exterior e no rótulo. O prazo de validade corresponde ao último dia do mês indicado.
+ Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Prevenar As substâncias activas são: Cada dose de 0,5 ml contém: Polissacárido do serotipo 4 do pneumococos* Polissacárido do serotipo 6B do pneumococos* Polissacárido do serotipo 9V do pneumococos* Polissacárido do serotipo 14 do pneumococos* Oligossacárido do serotipo 18C do pneumococos* Polissacárido do serotipo 19F do pneumococos* Polissacárido do serotipo 23F do pneumococos*
+ 2 microgramas 4 microgramas 2 microgramas 2 microgramas 2 microgramas 2 microgramas 2 microgramas
+ * conjugado com a proteína transportadora CRM197 e adsorvido em fosfato de alumínio (0,5 mg)
+ Os outros componentes são: cloreto de sódio e água para injectáveis.
+ Qual o aspecto de Prevenar e conteúdo da embalagem
+ A vacina é uma suspensão injectável fornecida num frasco para injectáveis para dose única (0,5 ml). Embalagens de 1 e de 10 frascos para injectáveis sem seringa/agulhas. Embalagens de 1 frasco para injectáveis com seringa e 2 agulhas (1 para retirar a suspensão do frasco para injectáveis,1 para a injecção).
+ 50 Titular da Autorização de Introdução no Mercado e Fabricante
+ Titular da Autorização de Introdução no Mercado: Wyeth Lederle Vaccines S. A. Rue du Bosquet,15 B-1348 Louvain-la-Neuve Bélgica
+ Titular da Autorização de Fabrico responsável pela libertação do lote: John Wyeth &amp; Brother Ltd. Huntercombe Lane South Taplow, Maidenhead Berkshire, SL6 0PH-UK Reino Unido
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do titular da autorização de introdução no mercado:
+ België/Belgique/Belgien Wyeth Pharmaceuticals S. A./N. V. Tél/Tel:+ 32 10 49 4711 Fax:+ 32 10 49 48 70
+ Latvija Wyeth-Lederle Pharma GmbH Tãlr.:+ 43 1 89 1140 Fakss:+ 43 1 89 114600
+ България Wyeth-Lederle Pharma GmbH Teл:+ 43 1 89 1140 Факс:+ 43 1 89 114600
+ Lietuva Wyeth-Lederle Pharma GmbH Tel:+ 43 1 89 1140 Faksas:+ 43 1 89 114600
+ Česká Republika Wyeth Whitehall Czech s. r. o. Tel:+ 420 2 67 294 111 Fax:+ 420 2 67 294 199
+ Malta Vivian Corporation Ltd. Tel:+ 35621 344610 Fax:+ 35621 341087
+ Danmark Wyeth Danmark Tlf:+ 45 44 88 88 05 Fax:+ 45 44 88 88 06
+ Nederland Wyeth Pharmaceuticals B. V. Tel:+ 31 23 5672567 Fax:+ 31 23 567 2599
+ Deutschland Wyeth-Pharma GmbH Tel:+ 49 1802 299 384 Fax:+ 49 251 204 1128
+ Norge Wyeth Tlf.+ 47 40 00 23 40 Fax:+ 47 40 00 23 41
+ Eesti Wyeth-Lederle Pharma GmbH Tel:+ 43 1 89 1140 Faks:+ 43 1 89 114600
+ Österreich Wyeth-Lederle Pharma GmbH Tel:+ 43 1 891140 Fax:+ 43 1 89 114600
+ 51 Ελλάδα Wyeth Hellas Α. Ε. Β. Ε. Τηλ:+ 30 2 10 99 81 600 Φαξ:+ 30 2 10 99 21 994
+ Polska Wyeth Sp. z o. o. Tel: +48 22 457 1000 Fax:+ 48 22 457 1001
+ España Wyeth Farma, S. A. Tel:+ 34 91 334 65 65 Fax:+ 34 91 663 65 53
+ Portugal Wyeth Lederle Portugal (Farma), Lda. Tel:+ 351 21 412 82 00 Fax:+ 351 21 412 01 11
+ France Wyeth Pharmaceuticals France Tél:+ 33 1 41 02 70 00 Fax:+ 33 1 41 02 70 10
+ România Wyeth-Lederle Pharma GmbH Tel:+ 43 1 89 1140 Fax:+ 43 1 89 114600
+ Ireland Wyeth Vaccines Tel:+ 353 1 449 3500 Fax:+ 353 1 679 3773
+ Slovenská Republika Wyeth Whitehall Export GmbH, organizačná zložka Tel: +42 1 2 654 128 16 Fax: +42 1 2 654 128 17
+ Slovenija Ísland Wyeth-Lederle Pharma GmbH Icepharma hf, Tel:+ 43 1 89 1140 Tel:+ 354 540 8000 Faks:+ 43 1 89 114600 Fax:+ 354 540 8001
+ Italia Wyeth Lederle S. p. A. Tel:+ 39 06 927151 Fax:+ 39 06 23325555
+ Suomi/Finland Wyeth Puh/Tel:+ 358 20 7414 870 Fax:+ 358 9 20 7414 879
+ Kύπρος Wyeth Hellas (Cyprus Branch) AEBE Tηλ: +357 22 817690 Φαξ:+ 357 22 751855
+ Sverige Wyeth AB Tel:+ 46 8 470 3200 Fax:+ 46 8 730 0666
+ Luxembourg/Luxemburg Wyeth Pharmaceuticals S. A./N. V. Tél:+ 32 10 49 4711 Fax: +32 10 49 48 70
+ United Kingdom Wyeth Vaccines Tel:+ 44 1628 415330 Fax:+ 44 1628 414802
+ Magyarország Wyeth Kft Tel:+ 36 1 453 33 30 Fax:+ 36 1 240 4632
+ Este folheto foi revisto pela última vez em _________________________________________________________________________________
+ A informação que se segue destina-se apenas aos médicos e aos profissionais de saúde:
+ 52 A vacina deve ser bem agitada para obter uma suspensão homogénea branca e deve ser inspeccionada visualmente quanto à presença de partículas e/ou alteração do aspecto físico antes da administração. Não usar se o conteúdo se apresentar alterado.
+ Prevenar deve ser administrado unicamente por via intramuscular. Não administrar por via intravenosa. Esta vacina não deve ser administrada a lactentes ou crianças com trombocitopenia ou qualquer alteração da coagulação susceptível de contra-indicar a injecção intramuscular, a menos que os potenciais benefícios superem claramente os riscos da administração.
+ Lactentes com 2-6 meses de idade: A série de imunização primária em lactentes consiste na administração de três doses de 0,5 ml, com início normalmente aos 2 meses de idade e com um intervalo de pelo menos 1 mês entre cada dose. Recomenda-se uma quarta dose no segundo ano de vida.
+ Em alternativa, quando o Prevenar é administrado como parte de um programa de imunização de rotina em lactentes, pode ser considerado um esquema de imunização de duas doses. A primeira dose pode ser administrada a partir dos 2 meses de idade seguida de uma segunda dose pelo menos 2 meses mais tarde e uma terceira dose (reforço) entre os 11 e os 15 meses de idade.
+ Lactentes com 7-11 meses de idade: duas doses de 0,5 ml, com um intervalo de pelo menos 1 mês entre cada dose. Recomenda-se uma terceira dose no segundo ano de vida. Crianças com 12-23 meses de idade: duas doses de 0,5 ml, com um intervalo de pelo menos 2 meses entre cada dose. Crianças com 24 meses-5 anos de idade: uma dose única.
+ A necessidade de uma dose de reforço após estes esquemas de vacinação ainda não foi estabelecida.
+ Tal como com outras vacinas, a administração de Prevenar deve ser adiada em indivíduos com doença febril aguda grave ou moderada.
+ Como acontece com todas as vacinas injectáveis, devem estar sempre disponíveis cuidados e tratamentos médicos adequados na eventualidade de ocorrer uma reacção anafiláctica rara após a administração da vacina.
+ Prevenar não confere protecção contra outros serotipos do Streptococcus pneumoniae que não os incluídos na vacina, nem contra outros microrganismos causadores de doença invasiva ou otite média.
+ Embora possa ocorrer alguma resposta imunitária à toxina diftérica, a imunização com esta vacina não substitui a imunização de rotina contra a difteria.
+ Nas crianças dos 2 anos até aos 5 anos de idade, foi utilizado um esquema imunológico de uma dose única. Foi observada uma taxa mais elevada de reacções locais em crianças com mais de 24 meses de idade, comparativamente aos lactentes.
+ As diferentes vacinas devem ser sempre administradas em locais de injecção diferentes.
+ Dados limitados demonstraram que o Prevenar induz uma resposta imunitária aceitável em lactentes com drepanocitose com um perfil de segurança semelhante ao observado em grupos sem alto risco. Os dados de segurança e imunogenicidade em crianças de outros grupos específicos de alto risco de doença invasiva pneumocócica (p. e. crianças com outra doença esplénica congénita ou adquirida, infecção por HIV, neoplasia, síndrome nefrótico) ainda não estão disponíveis. A vacinação em grupos de alto risco deve ser considerada caso a caso.
+ 53 Crianças com menos de 2 anos de idade (incluindo crianças de alto risco) devem ser vacinadas com as séries de vacinação de Prevenar em função da idade. O uso da vacina pneumocócica conjugada não substitui o uso de vacinas pneumocócicas polissacáridas com 23 serotipos em crianças com 24 meses de idade ou mais e com condições (tais como drepanocitose, asplenia, infecção por HIV, doença crónica ou imunocomprometidos) que as predispõem a um risco elevado de doença invasiva devida ao Streptococcus pneumoniae. Sempre que for recomendado, crianças de risco com 24 meses de idade ou mais e previamente imunizadas com Prevenar devem ser vacinadas com uma vacina pneumocócica polissacárida com 23 serotipos. O intervalo entre a vacina pneumocócica conjugada (Prevenar) e a vacina pneumocócica polissacárida com 23 serotipos não deve ser inferior a 8 semanas.
+ Não estão disponíveis dados que indiquem que a administração da vacina pneumocócica polissacárida com 23 serotipos a crianças não vacinadas ou crianças vacinadas com Prevenar possa resultar numa resposta diminuída a novas doses de Prevenar.
+ Recomenda-se medicação antipirética profiláctica:
+ -a todas as crianças que sejam vacinadas com Prevenar e simultaneamente com vacinas celulares
+ contra a tosse convulsa, devido ao aumento de reacções febris;
+ -a crianças com doenças convulsivas ou com antecedentes de convulsões febris.
+ Deve iniciar-se tratamento antipirético sempre que se justifique ou se a temperatura subir acima de 39ºC.
+ As crianças com alterações da resposta imunitária, quer devido a terapêutica imunossupressora, deficiência genética, infecção por HIV ou outras causas, podem apresentar uma resposta imunológica diminuída à imunização activa.
+ Como acontece com qualquer vacina, o Prevenar pode não proteger da doença pneumocócica todas as crianças a quem foi administrada. Para além disso, para os serotipos da vacina, é de esperar uma protecção contra a otite média substancialmente inferior à protecção contra a doença invasiva. Como a otite média é causada por muitos organismos para além dos serotipos pneumocócicos incluídos na vacina, é de esperar uma protecção inferior contra todos os tipos de otite média.
+ 54 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Prevenar suspensão injectável em seringa pré-cheia Vacina pneumocócica sacárida conjugada, adsorvida
+ Leia atentamente este folheto antes desta vacina ser dada à criança.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é Prevenar e para que é utilizado 2. Antes de utilizar Prevenar 3. Como utilizar Prevenar 4. Efeitos secundários possíveis 5. Como conservar Prevenar 6. Outras informações
+ 1. O QUE É PREVENAR E PARA QUE É UTILIZADO
+ Prevenar é uma vacina pneumocócica. Prevenar ajuda a proteger a criança contra doenças tais como: meningite, septicémia ou bacteriémia (bactérias na corrente sanguínea), pneumonia e infecção nos ouvidos causadas por sete tipos da bactéria Streptococcus pneumoniae. A vacina actua auxiliando o organismo a produzir os seus anticorpos, os quais protegem a criança destas doenças.
+ 2. ANTES DE UTILIZAR PREVENAR Não utilize Prevenar: -se a criança tem alergia (hipersensibilidade) às substâncias activas, a qualquer outro componente
+ ou ao toxóide diftérico.
+ Tome especial cuidado com Prevenar: -se a criança tem ou teve algum problema médico após qualquer dose de Prevenar.
+ -se a criança tem algum problema na coagulação do sangue.
+ -se a criança está doente com febre alta.
+ Prevenar protege apenas contra infecções nos ouvidos causadas pelos tipos de Streptococcus pneumoniae para os quais a vacina foi desenvolvida. Não protege contra outros agentes infecciosos que possam causar infecções nos ouvidos.
+ Ao utilizar com outros medicamentos/vacinas: Informe o seu médico, enfermeira ou farmacêutico se a criança estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica ou se lhe tiver sido dada recentemente outra vacina.
+ 3. COMO UTILIZAR PREVENAR O médico ou enfermeira irá administrar a dose recomendada (0,5 ml) da vacina. Prevenar pode ser dado ao mesmo tempo que outras vacinas infantis; neste caso, devem escolher-se locais de administração diferentes.
+ 55 Prevenar não deve ser misturado com quaisquer outras vacinas na mesma seringa.
+ Prevenar será injectado num músculo da criança.
+ Em geral, serão dadas quatro doses da vacina à criança. De acordo com as recomendações oficiais em vigor, o seu profissional de saúde poderá utilizar um esquema de imunização alternativo. Cada dose será dada numa altura diferente. É importante seguir as instruções do médico ou enfermeira para que a criança complete o esquema de vacinação.
+ Se se esqueceu de voltar ao médico ou enfermeira na altura prevista, peça aconselhamento ao médico ou enfermeira.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todas as vacinas, Prevenar pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ A terminologia utilizada para descrever a frequência dos efeitos secundários é a seguinte:
+ Muito comuns: efeitos secundários que podem ocorrer em mais de 1 em 10 crianças. Comuns: efeitos secundários que podem ocorrer em menos de 1 em 10 crianças. Pouco comuns: efeitos secundários que podem ocorrer em menos de 1 em 100 crianças. Raros: efeitos secundários que podem ocorrer em menos de 1 em 1000 crianças. Muito raros: efeitos secundários que podem ocorrer em menos de 1 em 10.000 crianças.
+ • Doenças do sangue e do sistema linfático:
+ Muito raros: aumento dos gânglios linfáticos (linfadenopatia) na região do local de injecção.
+ • Doenças do sistema nervoso:
+ Raros: convulsões, convulsões associadas a febre.
+ • Doenças gastrointestinais:
+ Muito comuns: diminuição do apetite, vómitos, diarreia.
+ • Afecções dos tecidos cutâneos e subcutâneas:
+ Pouco comuns: Muito raros: pele irritada/urticária. eritema multiforme.
+ • Perturbações gerais e alterações no local de administração:
+ Muito comuns: dor, sensibilidade aumentada, vermelhidão ou endurecimento no local de injecção; febre igual ou superior a 38ºC, irritabilidade, choro, sonolência, sono agitado.
+ Comuns: vermelhidão, inchaço ou endurecimento no local de injecção superior a 2,4 cm; sensibilidade aumentada no local de injecção que interfere com os movimentos; febre igual ou superior a 39ºC.
+ Raros: reacções de hipersensibilidade no local de injecção como, por exemplo, pele irritada/urticária ou comichão no local de injecção; episódio hipotónico hiporreactivo (colapso ou estado semelhante a choque).
+ 56 • Reacções do sistema imunitário:
+ Raros: hipersensibilidade/reacções alérgicas graves, as quais podem incluir inchaço da cara e/ou lábios, dificuldade em respirar e/ou choque (colapso cardiovascular).
+ Em bebés nascidos muito ocorrer intervalos mais
+ prematuramente (nascidos antes ou às 28 semanas de gestação) podem longos do que o normal entre as respirações durante 2-3 dias após a vacinação.
+ Se tiver quaisquer questões ou preocupações, fale com o seu médico ou farmacêutico. Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR PREVENAR Manter fora do alcance e da vista das crianças.
+ Conservar no frigorífico (2°C_ 8°C). Não congelar.
+ Não utilize Prevenar após o prazo de validade impresso na embalagem exterior e no rótulo. O prazo de validade corresponde ao último dia do mês indicado.
+ Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Prevenar As substâncias activas são: Cada dose de 0,5 ml contém: Polissacárido do serotipo 4 do pneumococos* Polissacárido do serotipo 6B do pneumococos* Polissacárido do serotipo 9V do pneumococos* Polissacárido do serotipo 14 do pneumococos* Oligossacárido do serotipo 18C do pneumococos* Polissacárido do serotipo 19F do pneumococos* Polissacárido do serotipo 23F do pneumococos*
+ 2 microgramas 4 microgramas 2 microgramas 2 microgramas 2 microgramas 2 microgramas 2 microgramas
+ * conjugado com a proteína transportadora CRM197 e adsorvido em fosfato de alumínio (0,5 mg)
+ Os outros componentes são: cloreto de sódio e água para injectáveis.
+ Qual o aspecto de Prevenar e conteúdo da embalagem
+ A vacina é uma suspensão injectável fornecida numa seringa pré-cheia para dose única (0,5 ml). Embalagens de 1 e de 10 com ou sem agulha. Embalagem múltipla de 5 embalagens de 10 seringas pré-cheias sem agulha.
+ 57 Titular da Autorização de Introdução no Mercado e Fabricante
+ Titular da Autorização de Introdução no Mercado: Wyeth Lederle Vaccines S. A. Rue du Bosquet,15 B-1348 Louvain-la-Neuve Bélgica
+ Titular da Autorização de Fabrico responsável pela libertação do lote: John Wyeth &amp; Brother Ltd. Huntercombe Lane South Taplow, Maidenhead Berkshire, SL6 0PH-UK Reino Unido
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do titular da autorização de introdução no mercado:
+ België/Belgique/Belgien Wyeth Pharmaceuticals S. A./N. V. Tél/Tel:+ 32 10 49 4711 Fax:+ 32 10 49 48 70
+ Latvija Wyeth-Lederle Pharma GmbH Tãlr.:+ 43 1 89 1140 Fakss:+ 43 1 89 114600
+ България Wyeth-Lederle Pharma GmbH Teл:+ 43 1 89 1140 Факс:+ 43 1 89 114600
+ Lietuva Wyeth-Lederle Pharma GmbH Tel:+ 43 1 89 1140 Faksas:+ 43 1 89 114600
+ Česká Republika Wyeth Whitehall Czech s. r. o. Tel:+ 420 2 67 294 111 Fax:+ 420 2 67 294 199
+ Malta Vivian Corporation Ltd. Tel:+ 35621 344610 Fax:+ 35621 341087
+ Danmark Wyeth Danmark Tlf:+ 45 44 88 88 05 Fax:+ 45 44 88 88 06
+ Nederland Wyeth Pharmaceuticals B. V. Tel:+ 31 23 5672567 Fax:+ 31 23 567 2599
+ Deutschland Wyeth-Pharma GmbH Tel:+ 49 1802 299 384 Fax:+ 49 251 204 1128
+ Norge Wyeth Tlf.+ 47 40 00 23 40 Fax:+ 47 40 00 23 41
+ Eesti Wyeth-Lederle Pharma GmbH Tel:+ 43 1 89 1140 Faks:+ 43 1 89 114600
+ Österreich Wyeth-Lederle Pharma GmbH Tel:+ 43 1 891140 Fax:+ 43 1 89 114600
+ 58 Ελλάδα Wyeth Hellas Α. Ε. Β. Ε. Τηλ:+ 30 2 10 99 81 600 Φαξ:+ 30 2 10 99 21 994
+ Polska Wyeth Sp. z o. o. Tel: +48 22 457 1000 Fax:+ 48 22 457 1001
+ España Wyeth Farma, S. A. Tel:+ 34 91 334 65 65 Fax:+ 34 91 663 65 53
+ Portugal Wyeth Lederle Portugal (Farma), Lda. Tel:+ 351 21 412 82 00 Fax:+ 351 21 412 01 11
+ France Wyeth Pharmaceuticals France Tél:+ 33 1 41 02 70 00 Fax:+ 33 1 41 02 70 10
+ România Wyeth-Lederle Pharma GmbH Tel:+ 43 1 89 1140 Fax:+ 43 1 89 114600
+ Ireland Wyeth Vaccines Tel:+ 353 1 449 3500 Fax:+ 353 1 679 3773
+ Slovenská Republika Wyeth Whitehall Export GmbH, organizačná zložka Tel: +42 1 2 654 128 16 Fax: +42 1 2 654 128 17
+ Slovenija Ísland Wyeth-Lederle Pharma GmbH Icepharma hf, Tel:+ 43 1 89 1140 Tel:+ 354 540 8000 Faks:+ 43 1 89 114600 Fax:+ 354 540 8001
+ Italia Wyeth Lederle S. p. A. Tel:+ 39 06 927151 Fax:+ 39 06 23325555
+ Suomi/Finland Wyeth Puh/Tel:+ 358 20 7414 870 Fax:+ 358 9 20 7414 879
+ Kύπρος Wyeth Hellas (Cyprus Branch) AEBE Tηλ: +357 22 817690 Φαξ:+ 357 22 751855
+ Sverige Wyeth AB Tel:+ 46 8 470 3200 Fax:+ 46 8 730 0666
+ Luxembourg/Luxemburg Wyeth Pharmaceuticals S. A./N. V. Tél:+ 32 10 49 4711 Fax: +32 10 49 48 70
+ United Kingdom Wyeth Vaccines Tel:+ 44 1628 415330 Fax:+ 44 1628 414802
+ Magyarország Wyeth Kft Tel:+ 36 1 453 33 30 Fax:+ 36 1 240 4632
+ Este folheto foi revisto pela última vez em ______________________________________________________________________________
+ A informação que se segue destina-se apenas aos médicos e aos profissionais de saúde:
+ 59 A vacina deve ser bem agitada para obter uma suspensão homogénea branca e deve ser inspeccionada visualmente quanto à presença de partículas e/ou alteração do aspecto físico antes da administração. Não usar se o conteúdo se apresentar alterado.
+ Prevenar deve ser administrado unicamente por via intramuscular. Não administrar por via intravenosa. Esta vacina não deve ser administrada a lactentes ou crianças com trombocitopenia ou qualquer alteração da coagulação susceptível de contra-indicar a injecção intramuscular, a menos que os potenciais benefícios superem claramente os riscos da administração.
+ Lactentes com 2-6 meses de idade: A série de imunização primária em lactentes consiste na administração de três doses de 0,5 ml, com início normalmente aos 2 meses de idade e com um intervalo de pelo menos 1 mês entre cada dose. Recomenda-se uma quarta dose no segundo ano de vida.
+ Em alternativa, quando o Prevenar é administrado como parte de um programa de imunização de rotina em lactentes, pode ser considerado um esquema de imunização de duas doses. A primeira dose pode ser administrada a partir dos 2 meses de idade seguida de uma segunda dose pelo menos 2 meses mais tarde e uma terceira dose (reforço) entre os 11 e os 15 meses de idade.
+ Lactentes com 7-11 meses de idade: duas doses de 0,5 ml, com um intervalo de pelo menos 1 mês entre cada dose. Recomenda-se uma terceira dose no segundo ano de vida. Crianças com 12-23 meses de idade: duas doses de 0,5 ml, com um intervalo de pelo menos 2 meses entre cada dose. Crianças com 24 meses-5 anos de idade: uma dose única.
+ A necessidade de uma dose de reforço após estes esquemas de vacinação ainda não foi estabelecida.
+ Tal como com outras vacinas, a administração de Prevenar deve ser adiada em indivíduos com doença febril aguda grave ou moderada.
+ Como acontece com todas as vacinas injectáveis, devem estar sempre disponíveis cuidados e tratamentos médicos adequados na eventualidade de ocorrer uma reacção anafiláctica rara após a administração da vacina.
+ Prevenar não confere protecção contra outros serotipos do Streptococcus pneumoniae que não os incluídos na vacina, nem contra outros microrganismos causadores de doença invasiva ou otite média.
+ Embora possa ocorrer alguma resposta imunitária à toxina diftérica, a imunização com esta vacina não substitui a imunização de rotina contra a difteria.
+ Nas crianças dos 2 anos até aos 5 anos de idade, foi utilizado um esquema imunológico de uma dose única. Foi observada uma taxa mais elevada de reacções locais em crianças com mais de 24 meses de idade, comparativamente aos lactentes.
+ As diferentes vacinas devem ser sempre administradas em locais de injecção diferentes.
+ Dados limitados demonstraram que o Prevenar induz uma resposta imunitária aceitável em lactentes com drepanocitose com um perfil de segurança semelhante ao observado em grupos sem alto risco. Os dados de segurança e imunogenicidade em crianças de outros grupos específicos de alto risco de doença invasiva pneumocócica (p. e. crianças com outra doença esplénica congénita ou adquirida, infecção por HIV, neoplasia, síndrome nefrótico) ainda não estão disponíveis. A vacinação em grupos de alto risco deve ser considerada caso a caso.
+ 60 Crianças com menos de 2 anos de idade (incluindo crianças de alto risco) devem ser vacinadas com as séries de vacinação de Prevenar em função da idade. O uso da vacina pneumocócica conjugada não substitui o uso de vacinas pneumocócicas polissacáridas com 23 serotipos em crianças com 24 meses de idade ou mais e com condições (tais como drepanocitose, asplenia, infecção por HIV, doença crónica ou imunocomprometidos) que as predispõem a um risco elevado de doença invasiva devida ao Streptococcus pneumoniae. Sempre que for recomendado, crianças de risco com 24 meses de idade ou mais e previamente imunizadas com Prevenar devem ser vacinadas com uma vacina pneumocócica polissacárida com 23 serotipos. O intervalo entre a vacina pneumocócica conjugada (Prevenar) e a vacina pneumocócica polissacárida com 23 serotipos não deve ser inferior a 8 semanas. Não estão disponíveis dados que indiquem que a administração da vacina pneumocócica polissacárida com 23 serotipos a crianças não vacinadas ou crianças vacinadas com Prevenar possa resultar numa resposta diminuída a novas doses de Prevenar.
+ Recomenda-se medicação antipirética profiláctica:
+ -a todas as crianças que sejam vacinadas com Prevenar e simultaneamente com vacinas celulares
+ contra a tosse convulsa, devido ao aumento de reacções febris;
+ -a crianças com doenças convulsivas ou com antecedentes de convulsões febris.
+ Deve iniciar-se tratamento antipirético sempre que se justifique ou se a temperatura subir acima de 39ºC.
+ As crianças com alterações da resposta imunitária, quer devido a terapêutica imunossupressora, deficiência genética, infecção por HIV ou outras causas, podem apresentar uma resposta imunológica diminuída à imunização activa.
+ Como acontece com qualquer vacina, o Prevenar pode não proteger da doença pneumocócica todas as crianças a quem foi administrada. Para além disso, para os serotipos da vacina, é de esperar uma protecção contra a otite média substancialmente inferior à protecção contra a doença invasiva. Como a otite média é causada por muitos organismos para além dos serotipos pneumocócicos incluídos na vacina, é de esperar uma protecção inferior contra todos os tipos de otite média.
+ 61

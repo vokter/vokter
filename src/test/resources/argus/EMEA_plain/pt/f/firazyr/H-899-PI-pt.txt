@@ -1,0 +1,230 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. DENOMINAÇÃO DO MEDICAMENTO
+ Firazyr 30 mg solução injectável em seringa pré-cheia
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada seringa pré-cheia com 3 ml contém acetato de icatibant equivalente a 30 mg de icatibant. Cada ml da solução contém 10 mg de icatibant.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Solução injectável. A solução é um líquido transparente e incolor.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas O Firazyr é indicado para o tratamento sintomático de episódios agudos de angioedema hereditário (AEH) em doentes adultos (com deficiência de funcionamento do inibidor da C1-esterase).
+ 4.2 Posologia e modo de administração A dose recomendada de Firazyr é uma injecção subcutânea de 30 mg administrada por um profissional de saúde, de preferência na zona abdominal, para o tratamento de um episódio de angioedema hereditário.
+ O Firazyr não é indicado para auto-administração.
+ O Firazyr destina-se a administração por via subcutânea, para utilização única.
+ Os doentes com episódios laríngeos necessitam de uma monitorização cuidada numa unidade de saúde adequada, depois da injecção, até que o médico considere seguro conceder-lhes alta.
+ A injecção deve ser administrada lentamente, dado o grande volume a ser administrado (3 ml).
+ Na maioria dos casos, uma única injecção de Firazyr é suficiente para tratar um episódio. Em caso de alívio insuficiente ou de recorrência dos sintomas, pode ser administrada uma segunda injecção de Firazyr passadas 6 horas. Caso a segunda injecção não produza o alívio suficiente, ou se observe uma recorrência dos sintomas, uma terceira injecção de Firazyr pode ser administrada passadas mais 6 horas. Não devem ser administradas mais de 3 injecções de Firazyr num período de 24 horas.
+ Nos ensaios clínicos, não se administraram mais de 8 injecções de Firazyr por mês.
+ Crianças e adolescentes Não existe experiência em crianças.
+ Doentes idosos A informação sobre a utilização em doentes com mais de 65 anos de idade é limitada. Os doentes idosos demonstraram uma exposição sistémica ao icatibant mais elevada. Desconhece-se a relevância deste facto relativamente à segurança do Fizaryr (ver secção 5.2).
+ 2 Disfunção hepática Não são necessários ajustes de posologia em doentes com disfunção hepática.
+ Disfunção renal Não são necessários ajustes de posologia em doentes com disfunção renal.
+ 4.3 Contra-indicações Hipersensibilidade à substância activa ou a qualquer dos excipientes.
+ 4.4 Advertências e precauções especiais de utilização
+ Doença cardíaca isquémica Em condições de isquemia, poderá ocorrer, em teoria, uma deterioração da função cardíaca e uma redução no fluxo sanguíneo coronário, devido a antagonismo do receptor de bradiquinina do tipo 2. Desta forma, deverão ser tomadas precauções na administração de Firazyr a doentes com doença cardíaca isquémica aguda ou angina pectoris instável (ver secção 5.3).
+ Acidente vascular cerebral Apesar de existirem evidências que apoiam um efeito benéfico do bloqueio do receptor B2 imediatamente após um acidente vascular cerebral, existe a possibilidade teórica de que o icatibant possa atenuar os efeitos positivos neuroprotectores de fase tardia da bradiquinina. Deste modo, deve ser realizada com precaução a administração de icatibant a doentes nas semanas seguintes a um acidente vascular cerebral.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Não são previsíveis interacções farmacocinéticas envolvendo CYP450 (ver secção 5.2).
+ A administração concomitante de Firazyr e inibidores da ECA não foi estudada. Os inibidores da ECA são contra-indicados em doentes com AEH devido à possibilidade de aumento dos níveis da bradiquinina.
+ 4.6 Gravidez e amamentação Não existem dados clínicos sobre a exposição ao icatibant durante a gravidez Estudos em animais revelaram efeitos sobre a implantação no útero e sobre o parto (ver secção 5.3), mas o risco potencial para o ser humano é desconhecido. O Firazyr apenas deve ser utilizado durante a gravidez se o benefício potencial justificar o risco potencial para o feto (p. ex. para o tratamento de um episódio laríngico que põe em risco a vida).
+ O icatibant é eliminado no leite de ratos durante a lactação em concentrações semelhantes às verificadas no sangue materno. Não foram detectados efeitos sobre o desenvolvimento pós-natal de crias de ratos.
+ Não é conhecido se o icatibant é eliminado no leite humano. Recomenda-se, no entanto, que mulheres a amamentar se abstenham de amamentar nas 12 horas seguintes ao tratamento com Firazyr.
+ Em animais imaturos, a utilização repetida de icatibant atrasou de forma reversível a maturação sexual (ver secção 5.3).
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Os efeitos do Firazyr sobre a capacidade de conduzir e utilizar máquinas são reduzidos a moderados. Foram referidos casos pouco frequentes de fadiga, letargia, cansaço, sonolência e tonturas na sequência de um tratamento com Firazyr. Estes sintomas podem ocorrer em resultado de um episódio
+ 3 de AEH. No entanto, não pode ser excluída uma relação causal devida ao uso de Firazyr. Os doentes devem ser aconselhados a não conduzir e a não utilizar máquinas caso se sintam cansados ou tontos.
+ 4.8 Efeitos indesejáveis A segurança do icatibant foi estabelecida em 1022 indivíduos tratados com várias doses, regimes e vias de administração durante os estudos de fase I-III, para várias indicações.
+ Sessenta e três doentes (AEH) receberam icatibant em dois ensaios de fase III para tratamento de um episódio na fase controlada,118 doentes foram tratados na fase de ensaio aberto.
+ Quase todos os indivíduos tratados com uma injecção subcutânea de icatibant nos ensaios clínicos desenvolveram reacções no local da injecção, incluindo eritema, inchaço, sensação de calor, ardor, prurido e/ou dor cutânea. Estas reacções foram, em geral, de gravidade ligeira, temporárias e resolveram-se sem outras intervenções.
+ A frequência das reacções adversas indicada no Quadro 1 foi definida de acordo com a seguinte convenção: muito frequentes (&gt; 1/10); frequentes (&gt; 1/100, &lt; 1/10); pouco frequentes (&gt; 1/1.000, &lt; 1/100); raros (&gt; 1/10.000, &lt; 1/1,000); muito raros (&lt; 1/10,000).
+ Nota: Devido ao número reduzido de doentes, cada uma das reacções pouco frequentes foi notificada num único doente
+ Quadro 1: Reacções adversas comunicadas relativamente ao icatibant durante os ensaios clínicos de fase III.
+ Reacções adversas
+ Muito frequentes: Frequentes Pouco frequentes: Afecções congénitas, familiares e genéticas
+ Angioedema hereditário* Doenças gastrointestinais
+ Dor abdominal, náusea Vómito Perturbações gerais e alterações no local de administração
+ Dor cutânea, ardor, prurido, edema, eritema, sensação de calor
+ Astenia Fadiga, pirexia Infecções e infestações Complicações de intervenções, lesões e intoxicações
+ Faringite Contusão Investigações Aumento dos níveis de creatinina fosfocinase, teste de função hepática anormal
+ Aumento do peso, aumento do tempo de protrombina
+ Doenças do metabolismo e da nutrição Distúrbios do sistema nervoso Doenças renais e urinárias
+ Cefaleia, vertigem Hiperuricemia Proteinúria Doenças respiratórias, torácicas e do Congestão nasal Asma, tosse 4 mediastino Afecções dos tecidos cutâneos e subcutâneos
+ Exantema Prurido, eritema Vasculopatias Afrontamentos * Os episódios de AEH foram notificados como reacções adversas. Contudo, com base na altura da ocorrência, a maioria foram episódios recorrentes e não foram relacionados com o tratamento com Firazyr.
+ 4.9 Sobredosagem Não existem dados clínicos relativos à sobredosagem.
+ Uma dose intravenosa de 3,2 mg/kg (aproximadamente 8 vezes a dose terapêutica) causou eritema temporário, prurido ou hipotensão em indivíduos saudáveis. Não foi necessária uma intervenção terapêutica.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: [ a ser determinado] código ATC: [ ainda não atribuído]
+ A AEH (uma doença autossómica dominante) é causada pela ausência ou pelo funcionamento inadequado do inibidor da C1-esterase. Os episódios de AEH são acompanhados por um aumento da libertação de bradiquinina, um mediador-chave do desenvolvimento dos sintomas clínicos.
+ A AEH manifesta-se com episódios intermitentes de edema subcutâneo e/ou submucosa que atingem o tracto respiratório superior, a pele e o tracto gastrointestinal. Um episódio dura habitualmente entre 2 a 5 dias.
+ O icatibant é um antagonista selectivo que compete pelo receptor da bradiquinina de tipo 2 (B2). Trata-se de um decapéptido sintético com uma estrutura semelhante à bradiquinina, mas apresentando 5 aminoácidos não proteinogénicos. Na AEH, as concentrações de bradiquinina são o mediador-chave no desenvolvimento de sintomas clínicos.
+ Em indivíduos jovens saudáveis, o icatibant administrado em doses de 0,8 mg/kg durante um período de 4 horas; 1,5 mg/kg/dia ou 0,15 mg/kg/dia durante 3 dias, evitou o desenvolvimento de hipotensão induzida pela bradiquinina, vasodilatação e taquicardia reflexa. O icatibant demonstrou ser um antagonista competitivo quando a dose de carga de bradiquinina foi aumentada 4 vezes.
+ Os dados de eficácia foram obtidos a partir de um estudo aberto inicial de Fase II e dois estudos multicêntricos aleatorizados controlados em dupla ocultação de Fase III (um controlado com ácido tranexâmico oral como comparação e um controlado por placebo). Exceptuando esse facto, o desenho dos estudos fundamentais de Fase III foi idêntico. Um número total de 130 doentes foi aleatorizado para receber uma dose de 30 mg de icatibant (63 doentes) ou um medicamento comparador (ácido tranexâmico 38 doentes ou placebo 29 doentes). Os episódios subsequentes de AEH foram tratados numa extensão aberta do estudo. Os doentes com sintomas de angioedema laríngico receberam tratamento em regime aberto com icatibant.
+ Nos ensaios de Fase III, o objectivo primário de eficácia foi o tempo até à manifestação do alívio dos sintomas, utilizando-se uma escala visual análoga (EVA). Em ambos os estudos, os doentes tratados com icatibant apresentaram um tempo mediano de manifestação de alívio dos sintomas mais rápido (2,0 e 2,5 horas, respectivamente) em comparação com o ácido tranexâmico (12,0 horas) e com o placebo (4,6 horas). O efeito do tratamento com icatibant foi confirmado por objectivos de eficácia secundários.
+ 5 O quadro seguinte apresenta os resultados dos dois estudos fundamentais.
+ Estudo Clínico Controlado de FIRAZYR vs ácido tranexâmico/placebo: Resultados da Eficácia
+ ESTUDO 1 Ácido ESTUDO 2 Icatibant Icatibant Placebo tranexâmico Número de
+ Número de indivíduos na população ITT EVA de referência
+ 36 38 indivíduos na população ITT EVA de referência
+ 27 29 (mm) Alteração após 4 horas em relação
+ 63,7 61.5 (mm) Alteração após 4 horas em relação
+ 69.3 67.7 aos valores de referência Diferença entre os
+ -41.6
+ -14.6
+ aos valores de referência Diferença entre os
+ -44.6
+ -23.5
+ tratamentos (95%-27.8 (-39.4,-16.2) p &lt; 0.001 tratamentos (95% IC, valor p) CI, valor p) Alteração após 12 Alteração após 12 horas em relação horas em relação
+ -22.3 (-36.1,-9.3)
+ p= 0.002
+ -54.0-30.3 aos valores de aos valores de referência referência Diferença entre os Diferença entre os
+ -53.9
+ -41.0
+ tratamentos (95%-24.1 (-33.6,-14.6) p &lt; 0.001 tratamentos (95% CI, valor p) CI, valor p) Tempo mediano Tempo mediano até à manifestação até à manifestação do alívio dos do alívio dos sintomas (horas) sintomas (horas) Todos os episódios Todos os episódios
+ -14.0 (-27.7,-0.3)
+ p= 0.046
+ 2.0 12.0 (N= 56) (N= 74) Taxa de resposta Taxa de resposta (%, IC) 4 horas (%, IC) 4 horas após o início do após o início do tratamento tratamento
+ 2.5 4.6 Todos os episódios 80.0 30.6 Todos os episódios
+ 66.7 46.4 (N= 74) Tempo mediano até à manifestação do alívio dos sintomas: todos os sintomas (h):
+ (63.1, 91.6)
+ (16.3, 48.1)
+ (N= 56) Tempo mediano até à manifestação do alívio dos sintomas: todos os sintomas
+ (46.0, 83.5)
+ (27.5, 66.1)
+ Dor abdominal Tumefacção da pele
+ 1.6 2.6 3.5 18.1 (h): Dor abdominal Tumefacção da pele
+ 2.0 3.1 3.3 10.2 Dor na pele Tempo mediano até ao alívio quase completo dos sintomas (horas)
+ 1.5 12.0 Dor na pele Tempo mediano até ao alívio quase completo dos sintomas (horas)
+ 1.6 9.0 Todos os episódios Todos os episódios (N= 74)
+ 10.0 51.0 (N= 56)
+ 8.5 23.3 6 Estudo Clínico Controlado de FIRAZYR vs ácido tranexâmico/placebo: Resultados da Eficácia
+ ESTUDO 1 Ácido ESTUDO 2 Icatibant Icatibant Placebo tranexâmico Tempo mediano até à regressão dos sintomas, por doente (horas) Todos os episódios
+ Tempo mediano até à regressão dos sintomas, por doente (horas) Todos os episódios
+ (N= 74) Tempo mediano até à melhoria geral do doente, por médico (horas)
+ 0.8 7.9 (N= 56) Tempo mediano até à melhoria geral do doente, por médico (horas)
+ 0.8 16.9 Todos os episódios Todos os episódios (N= 74)
+ 1.5 6.9 (N= 56)
+ 1.0 5.7 Cento e dezoito doentes foram tratados na fase de extensão aberta do estudo (OLE), tendo sido tratados um número total de 597 episódios independentes. Os resultados de eficácia foram semelhantes aos obtidos na fase controlada dos estudos. A maioria dos episódios (89,3% e 90,9%, respectivamente), em ambos os estudos, necessitaram apenas de uma dose única de icatibant.
+ Um número total de 36 doentes foi tratado relativamente a um total de 61 episódios de AEH afectando a laringe. Os resultados foram, novamente, semelhantes aos observados em doentes com episódios de AEH que não afectaram a laringe, com um tempo mediano até ao início da regressão dos sintomas de 0,6 – 1,0 horas (fase controlada).
+ 5.2 Propriedades farmacocinéticas A farmacocinética do icatibant foi extensamente caracterizada em estudos que utilizaram tanto a administração intravenosa como subcutânea em voluntários saudáveis e em doentes. O perfil farmacocinético do icatibant em doentes com AEH é semelhante ao de voluntários saudáveis.
+ Absorção Na sequência da administração subcutânea, a biodisponibilidade absoluta de icatibant é de 97%. O tempo até à concentração máxima é de aproximadamente 0,5 horas.
+ Distribuição O volume de distribuição (Vss) do icatibant é de cerca de 20-25 L. A ligação às proteínas plasmáticas é de 44%.
+ Eliminação O icatibant é eliminado principalmente pelo metabolismo, sendo menos de 10% da dose eliminada na urina na forma não modificada. A depuração é de cerca de 15-20 l/h e é independente da dose. A semi-vida terminal é de cerca de 1-2 horas.
+ Metabolismo O icatibant é extensivamentee metabolizado por enzimas proteolíticas que o transformam em metabolitos inactivos que são principalmente excretados na urina.
+ Estudos in vitro confirmaram que o icatibant não é degradado pelas vias metabólicas oxidativas, não é um inibidor das principais isoenzimas do citocromo P450 (CYP) (CYP 1A2, 2A6, 2B6, 2C8, 2C9, 2C19, 2D6, 2E1 e 3A4) e não é indutor de CYP 1A2 e 3A4.
+ 7 Populações especiais Os dados sugerem um declínio da depuração (clearance) relacionado com a idade que se traduz numa exposição mais elevada (em cerca de 50-60%) nos doentes idosos (75-80 anos de idade) em comparação com um doente de 40 anos. Os dados sugerem que o sexo e o peso não têm uma influência significativa na farmacocinética do icatibant.
+ Os dados limitados disponíveis sugerem que a exposição ao icatibant não é influenciada por disfunção hepática ou renal. A influência da raça e do peso na farmacocinética do icatibant não foi avaliada. Não existem dados farmacocinéticos em crianças.
+ 5.3 Dados de segurança pré-clínica Foram realizados estudos de dose repetida durante 3 meses em ratos e em cães. As exposições diárias máximas (AUC) nos níveis Sem Efeitos Adversos Observados (No Observed Adverse Effect Levels) no estudo de 3 meses realizado em ratos e no estudo de 4 semanas realizado em cães foram, respectivamente, 3,6 vezes e 9,4 vezes a AUC em seres humanos após uma dose subcutânea de 30 mg.
+ Não foram realizados até à data estudos de longo prazo para determinar o potencial carcinogénico do icatibant.
+ O icatibant não demonstrou ser genotóxico numa bateria padrão de testes in vitro e in vivo,.
+ O icatibant não demonstrou ser teratogénico quando administrado por injecção s. c. durante o desenvolvimento embrionário precoce e fetal do rato (dose máxima de 25 mg/kg/dia) e do coelho (dose máxima 10 mg/kg/dia). O icatibant é um antagonista potente da bradiquinina e, desta forma, em doses elevadas, o tratamento pode ter efeito sobre o processo de implantação no útero e a estabilidade uterina subsequente durante as fases iniciais da gravidez. Estes efeitos uterinos também se manifestam nas fases mais avançadas da gravidez, exibindo o icatibant um efeito tocolítico que resulta no atraso do parto no rato, com o aumento do sofrimento fetal e das mortes perinatais em doses elevadas (10 mg/kg/dia).
+ Em ratos e cães imaturos, a utilização repetida de icatibant atrasou de modo reversível a maturação sexual. Os efeitos relativos aos níveis de gonadotrofinas, revelaram-se secundários às alterações devidas ao icatibant, e foram reversíveis. Foram registados efeitos parecidos com o icatibant nas gonadotrofinas em cães com maturação sexual completa.
+ O icatibant não teve qualquer efeito sobre a fertilidade de ratos e ratinhos machos.
+ O icatibant não provocou quaisquer alterações na condução cardíaca in vitro (canal hERG) ou in vivo em cães normais ou em vários modelos caninos (pacing ventricular, esforço física e ligação coronária) onde não foram observadas alterações hemodinâmicas associadas. O icatibant demonstrou agravar a isquemia cardíaca induzida em vários modelos não clínicos, apesar de não ter sido demonstrado um efeito negativo consistente na isquemia aguda.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Cloreto de sódio Ácido acético glacial (para ajuste do pH) Hidróxido de sódio (para ajuste do pH) Água para preparações injectáveis
+ 6.2 Incompatibilidades Não aplicável. 8 6.3 Prazo de validade
+ 24 meses. 6.4 Precauções especiais de conservação
+ Não conservar acima dos 25○C. Não congelar.
+ 6.5 Natureza e conteúdo do recipiente Uma seringa pré-cheia (vidro tipo I) com êmbolo-rolha (bromobutilo revestido com polímero de fluorocarbono). Uma solução de 3 ml numa seringa com capacidade para 3 ml.
+ Embalagem: 1 x 30 mg (3 ml de solução contida numa seringa de 3 ml) Encontra-se incluída na embalagem uma agulha hipodérmica (25 G,16 mm).
+ 6.6 Precauções especiais de eliminação e manuseamento
+ A solução deve ser transparente e incolor e livre de partículas visíveis. Exclusivamente para utilização única. Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Jerini AG Invalidenstr. 130 D-10115 Berlim Alemanha
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 9 DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 10. DATA DA REVISÃO DO TEXTO Informação pormenorizada sobre este medicamento está disponível na Internet do site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu
+ 9 ANEXO II
+ A. TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 10 A. TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do fabricante responsável pela libertação do lote
+ RENTSCHLER Biotechnologie GmbH Erwin-Rentschler-Strasse 21 D-88471 Laupheim Alemanha
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E À UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento sujeito a receita médica. • CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ Não aplicável. • OUTRAS CONDIÇÕES
+ Sistema de farmacovigilância O Titular da Autorização de Introdução no Mercado deverá garantir que o sistema de farmacovigilância, tal como descrito na versão 5.0 de 11 de Abril de 2008 apresentada no Módulo 1. 8.1. do pedido de Autorização de Introdução no Mercado, será implantado e estará operacional antes e durante o período em que o produto estiver no mercado.
+ Plano de Gestão do Risco O Titular da Autorização de Introdução no Mercado compromete-se a realizar os estudos e as actividades de farmacovigilância suplementares descritos no Plano de Farmacovigilância, tal como estabelecido na versão 1.2 de 15 de Abril de 2008 do Plano de Gestão do Risco apresentada no Módulo 1. 8.2. do pedido de Autorização de Introdução no Mercado, e em todas as actualizações ulteriores do Plano de Gestão do Risco aprovado pelo CHMP.
+ Em conformidade com a “ Norma orientadora relativa a sistemas de gestão do risco para medicamentos de uso humano ”, o Plano de Gestão do Risco actualizado deverá ser enviado em simultâneo com o próximo relatório periódico de actualização da segurança (RPS).
+ Para além disso, deverá ser enviado um plano de gestão do risco actualizado • quando forem recebidas novas informações que possam ter impacto nas especificações em matéria de segurança, no plano de farmacologia ou nas actividades de minimização dos riscos em vigor; • num prazo de 60 dias antes de uma data relevante (evento ligado à farmacologia ou à minimização de riscos); • a pedido da EMEA.
+ 11 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 12 A. ROTULAGEM
+ 13 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO Embalagem exterior
+ 1. DENOMINAÇÃO DO MEDICAMENTO Firazyr 30 mg solução injectável em seringa pré-cheia Icatibant
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ Cada seringa pré-cheia de 3 ml contém acetato de icatibant equivalente a 30 mg de icatibant. Cada ml da solução contém 10 mg de icatibant.
+ 3. LISTA DOS EXCIPIENTES Contém: ácido acético glacial, hidróxido de sódio, cloreto de sódio, água para injectáveis.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Solução injectável 1 seringa pré-cheia. Agulha 25G
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Administração subcutânea Consultar o folheto informativo. Exclusivamente para utilização única.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Não conservar acima dos 25ºC. Não congelar.
+ 14 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Titular da Autorização de Introdução no Mercado Jerini AG Invalidenstrsse. 130 D-10115 Berlim Alemanha
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/0/00/000/000 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Firazyr 30 mg 15 INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS “ BLISTER ” OU FITAS CONTENTORAS
+ { Folha de cobertura da embalagem blister}
+ 1. DENOMINAÇÃO DO MEDICAMENTO Firazyr 30 mg solução injectável em seringa pré-cheia Icatibant
+ 2. NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Jerini 3. PRAZO DE VALIDADE EXP 4. NÚMERO DO LOTE Lote 5. OUTRAS Administração subcutânea 16 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ { Rótulo da seringa}
+ 1. DENOMINAÇÃO DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Firazyr 30 mg Icatibant sc 2. MODO DE ADMINISTRAÇÃO 3. PRAZO DE VALIDADE EXP 4. NÚMERO DO LOTE Lot 5. CONTEÚDO EM TERMOS DE PESO, VOLUME OU UNIDADE
+ 30 mg/3 ml 6. OUTRAS Jerini 17 B. FOLHETO INFORMATIVO
+ 18 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Firazyr 30 mg solução injectável em seringa pré-cheia Icatibant
+ Leia atentamente este folheto antes de utilizar o medicamento
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é Firazyr e para que é utilizado 2. Antes de utilizar Firazyr 3. Como utilizar Firazyr 4. Efeitos secundários possíveis 5. Como conservar Firazyr 6. Outras informações
+ 1. O QUE É FIRAZYR E PARA QUE É UTILIZADO
+ Firazyr é utilizado no tratamento dos sintomas de angioedema hereditário (AEH) em doentes adultos. No AEH os níveis sanguíneos de uma substância denominada bradiquinina aumentam, resultando no aparecimento de sintomas como inchaço, dor, náusea e diarreia.
+ O Firazyr bloqueia a actividade da bradiquinina e, desta forma, impede o agravamento dos sintomas de um episódio de AEH.
+ 2. ANTES DE UTILIZAR FIRAZYR Não utilize Firazyr -Se tem alergia (hipersensibilidade) ao icatibant ou a qualquer outro componente de Firazyr.
+ Tome especial cuidado com Firazyr -
+ Alguns dos efeitos secundários relacionados com o Firazyr são parecidos aos sintomas da sua doença. Informe o seu médico imediatamente se verificar que os seus sintomas do episódio pioram após ter tomado o Firazyr.
+ -
+ Se sofre de angina (irrigação sanguínea insuficiente do músculo cardíaco), consulte o seu médico antes de utilizar Firazyr.
+ -
+ Se sofreu recentemente um acidente vascular cerebral, consulte o seu médico antes de utilizar Firazyr.
+ Utilizar outros medicamentos A interacção do Firazyr com outros medicamentos é desconhecida, mas informe o seu médico ou farmacêutico se está a tomar ou tomou recentemente outros medicamentos, mesmo aqueles que não tenham sido prescritos por um médico. Se está a tomar medicamentos conhecidos, como inibidores da
+ 19 Enzima Conversora da Angiotensina (ECA) (por exemplo: captopril, enalapril, ramipril, quinapril, lisinopril), os quais são utilizados para reduzir a tensão arterial ou por outras razões, deve informar o seu médico antes de utilizar Firazyr.
+ Utilizar Firazyr com alimentos ou bebidas
+ Os alimentos e as bebidas não têm efeito sobre a acção de Firazyr.
+ Gravidez e amamentação Se está grávida ou planeia engravidar, consulte o seu médico antes de começar a utilizar Firazyr. Se está a amamentar, não deve fazê-lo nas 12 horas seguintes à utilização de Firazyr.
+ Condução de veículos e utilização de máquinas
+ Não utilize quaisquer ferramentas ou máquinas caso se sinta cansado ou tonto na sequência do episódio de AEH ou após ter utilizado Firazyr.
+ Informações importantes sobre alguns componentes de Firazyr
+ A solução injectável contém menos de 1 mmol (23 miligramas) de sódio, pelo que pode ser considerada como essencialmente “ isenta de sódio ”.
+ 3. COMO UTILIZAR FIRAZYR Firazyr será sempre injectado pelo médico ou pelo enfermeiro. O seu médico irá informá-lo da altura em que é seguro voltar para casa.
+ Quando utilizar Firazyr e com que frequência?
+ O seu médico terá determinado a dose exacta de Firazyr e dir-lhe-á com que frequência pode ser utilizado. A dose recomendada de Firazyr é o conteúdo de uma injecção (3 ml,30 mg) administrado por via subcutânea (por baixo da pele) logo que se detecte que o episódio de angioedema hereditário se está a tornar moderado ou grave (por exemplo, inchaço na pele, em particular afectando a face e o pescoço, ou aumento da dor abdominal). Caso os sintomas não aliviem passadas 6 horas, pode ser administrada uma injecção adicional de Firazyr (3 ml). Se após mais 6 horas ainda não sentir alívio, poderá receber uma terceira injecção de Firazyr (3 ml).
+ Não deve receber mais de 3 injecções num período de 24 horas, nem mais de 8 injecções de Firazyr por mês.
+ Como deve ser administrado o Firazyr? O Firazyr destina-se a administração por injecção subcutânea (debaixo da pele). Cada seringa deverá ser utilizada apenas uma vez.
+ O Firazyr é injectado por meio de uma agulha curta no tecido gordo por baixo da pele do abdómen (barriga).
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como os demais medicamentos, Firazyr pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas. Quase todos os doentes que recebam Firazyr irão apresentar uma reacção no local da injecção. A reacção poderá incluir ardor, vermelhidão da pele (eritema), dor,
+ 20 inchaço, sensação de calor e prurido (comichão). Estes efeitos são habitualmente ligeiros e desaparecem por si próprios sem necessidade de tratamento adicional.
+ A frequência da eventual ocorrência dos efeitos secundários abaixo mencionados é definida mediante a utilização da seguinte convenção: muito frequentes (afecta entre 1 a 10 doentes), frequentes (afecta entre 1 a 10 em 100 doentes), pouco frequentes (afecta 1 a 10 doentes em 1000 doentes), raros (afecta 1 a 10 doentes em 10 000), muito raros (afecta menos de 1 doente em 10 000), desconhecidos (a frequência não pode ser estimada a partir dos dados disponíveis).
+ Muito frequentes: Reacções no local da injecção (ardor, vermelhidão da pele, dor, inchaço, sensação de calor, prurido.) Frequentes: Resultados anormais de alguns parâmetros laboratoriais (análises ao sangue) Nariz entupido Dor de cabeça Tonturas Fraqueza muscular Náuseas Dor abdominal (de barriga) Erupção, vermelhidão cutânea Pouco Frequentes: Asma Nódoas negras Tosse Febre Afrontamentos Aumento dos níveis de ácido úrico no sangue (indicador de gota) Prurido (comichão) Dor de garganta Teste positivo de proteína na urina Vómito Cansaço Aumento de peso
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Informe imediatamente o seu médico caso note que os sintomas do episódio se estão a agravar depois de ter utilizado Firazyr.
+ 5. COMO CONSERVAR FIRAZYR Manter fora do alcance e da vista das crianças.
+ Não utilize Firazyr após o prazo de validade impresso no rótulo. O prazo de validade corresponde ao último dia do mês indicado.
+ Não conservar acima dos 25○C. Não congelar.
+ Não utilize Firazyr se verificar que a seringa ou a embalagem da seringa estão danificadas ou caso existam quaisquer sinais de deterioração, por exemplo, se a solução se apresentar turva, tiver partículas em suspensão ou se a cor da solução tiver sofrido alterações.
+ Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 21 6. OUTRAS INFORMAÇÕES
+ Qual a composição de Firazyr -A substância activa é icatibant 30 miligramas (na forma de acetato) em 3 ml de solução
+ injectável contida em cada seringa pré-cheia.
+ -Os outros componentes são cloreto de sódio, ácido acético glacial, hidróxido de sódio e água
+ para injectáveis. A solução não contém conservantes.
+ Qual o aspecto de Firazyr e conteúdo da embalagem
+ O Firazyr é apresentado na forma de uma solução injectável transparente e incolor contida numa seringa pré-cheia (3 ml). Uma agulha hipodérmica (25 G,16 mm) encontra-se incluída na embalagem.
+ Titular da Autorização de Introdução no Mercado e Fabricante
+ Jerini AG Invalidenstrasse 130 10115 Berlim Alemanha.
+ 22

@@ -1,0 +1,842 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. NOME DO MEDICAMENTO
+ VELCADE 1 mg pó para solução injectável. 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada frasco para injectáveis contém 1 mg de bortezomib (como éster borónico manitol).
+ Após reconstituição,1 ml de solução injectável contém 1 mg de bortezomib.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Pó para solução injectável. Massa ou pó branco a esbranquiçado. 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas VELCADE em associação com melfalano e prednisona é indicado no tratamento de doentes com mieloma múltiplo não tratados previamente e que não sejam elegíveis para quimioterapia em alta dose com transplante de medula óssea.
+ VELCADE é indicado no tratamento em monoterapia de doentes com mieloma múltiplo em progressão que tenham recebido pelo menos 1 terapêutica prévia e que já tenham sido sujeitos ou que não sejam elegíveis para transplante de medula óssea.
+ 4.2 Posologia e modo de administração O tratamento deve ser iniciado e administrado sob a supervisão de um médico qualificado e experiente no uso de agentes quimioterapêuticos.
+ Posologia para monoterapia A dose inicial recomendada de bortezomib é de 1,3 mg/m2 de área de superfície corporal, duas vezes por semana, durante duas semanas (dias 1,4,8 e 11), seguida por um período de 10 dias de repouso (dias 12-21). Este período de três semanas é considerado um ciclo de tratamento. Devem decorrer pelo menos 72 horas entre doses consecutivas de VELCADE.
+ É recomendado que os doentes com uma resposta completa confirmada recebam dois ciclos adicionais de VELCADE depois da confirmação. É também recomendado que os doentes que respondam ao tratamento e que não tenham alcançado uma remissão completa recebam um total de 8 ciclos de tratamento de VELCADE.
+ Actualmente há dados limitados no que diz respeito à repetição do tratamento com VELCADE.
+ Ajustes posológicos durante o tratamento e o reinício do tratamento para monoterapia
+ O tratamento com VELCADE deve ser interrompido perante o início de qualquer toxicidade não-hematológica de Grau 3 ou qualquer toxicidade hematológica de Grau 4, excluindo neuropatia como mencionado de seguida (ver também secção 4.4). Uma vez resolvidos os sintomas de toxicidade, o 2 tratamento com VELCADE pode ser reiniciado com uma redução de dose de 25% (redução de 1,3 mg/m2 para 1,0 mg/m2; redução de 1,0 mg/m2 para 0,7 mg/m2). Se a toxicidade não desaparecer ou se recorrer com dose mais reduzida, deve ser considerada a descontinuação do tratamento com VELCADE a menos que o benefício do tratamento supere claramente o risco.
+ Os doentes que apresentem dor neuropática e/ou neuropatia periférica relacionada com bortezomib deverão ser tratados como descrito no Quadro 1 (ver secção 4.4). Doentes com neuropatia preexistente grave devem ser tratados com VELCADE apenas após uma avaliação cuidadosa da relação benefício/risco.
+ Quadro 1: Modificações da posologia recomendada* para neuropatia relacionada com bortezomib Gravidade da neuropatia periférica Grau 1 (parestesia, fraqueza e/ou perda de reflexos) sem dor ou perda de função Grau 1 com dor ou Grau 2 (interferência na função mas não com as actividades da vida diária)
+ Modificação da posologia Nenhuma acção Reduzir para 1,0 mg/m2
+ Grau 2 com dor ou Grau 3 (interferência no desempenho das actividades da vida diária)
+ Interromper o tratamento com VELCADE até desaparecerem os sintomas de toxicidade. Quando a toxicidade desaparecer, reiniciar o tratamento com VELCADE, reduzir a dose para 0,7 mg/m2 e alterar o regime posológico para uma vez por semana.
+ Grau 4 (neuropatia sensitiva que é Descontinuar VELCADE incapacitante ou neuropatia motora que coloca a vida em risco ou leva a paralisia) e/ou neuropatia autonómica intensa* Baseado nas modificações de posologia em estudos de Fase II e III de mieloma múltiplo e experiência pós-comercialização.
+ Doentes pediátricos VELCADE não se destina a ser administrado a crianças com menos de 18 anos de idade, devido à falta de dados de segurança e eficácia (ver secções 5.1 e 5.2).
+ Doentes idosos Não há evidência que sugira a necessidade de ajuste posológico em doentes com mais de 65 anos de idade (ver secção 4.8).
+ Compromisso renal A farmacocinética do bortezomib não é influenciada em doentes com compromisso renal ligeiro a moderado[ ClCr (depuração da creatinina) &gt; 20 ml/min/1,73 m2]; por isso, não são necessários ajustes posológicos nestes doentes. É desconhecido se a farmacocinética do bortezomib é influenciada em doentes com compromisso renal grave, que não estão em diálise(ClCr &lt; 20 ml/min/1,73 m2). Uma vez que a diálise pode reduzir as concentrações do bortezomib, VELCADE deve ser administrado após o procedimento de diálise (ver secção 5.2).
+ Compromisso hepático VELCADE não foi estudado em doentes com compromisso hepático. Um compromisso hepático significativo pode ter um impacto na eliminação do bortezomib e pode aumentar a probabilidade de interacções com outras substâncias activas. Doentes com compromisso hepático devem ser tratados com extrema precaução, devendo ser considerada uma redução da dose (ver secção 4.3 e 4.4).
+ 3 Posologia para o tratamento em associação
+ VELCADE (bortezomib) é administrado em associação com melfalano oral e prednisona oral para nove ciclos de tratamento de 6 semanas como apresentado no Quadro 2. Nos Ciclos 1-4, VELCADE é administrado duas vezes por semana (dias 1,4,8,11,22,25,29 e 32). Nos Ciclos 5-9, VELCADE é administrado uma vez por semana (dias 1,8,22 e 29). Melfalano e prednisona devem ser ambos administrados oralmente nos dias 1,2,3 e 4 da primeira semana de cada ciclo.
+ Quadro 2-Regime posológico recomendado de VELCADE em associação com melfalano e prednisona em doentes que não tenham sido sujeitos a tratamento prévio para o mieloma múltiplo. VELCADE duas vezes por semana (Ciclos 1-4)
+ Semana 1 2 3 4 5 6 Dia ----
+ Dia Dia Dia Período Dia Dia Dia Dia Período Vc ( 1.3 mg/m2) 1 4 8 11 de
+ 22 25 29 32 de
+ descanso
+ descanso
+ m(9 mg/m2)
+ Dia Dia Dia Dia ----
+ Período ------ --
+ Período 1 2 3 4 de
+ de
+ p(60 mg/m2)
+ VELCADE uma vez por semana (Ciclos descanso 5-9)
+ descanso
+ Semana 1 2 3 4 5 6 Dia ------
+ Dia Período Dia Dia Período de Vc ( 1.3 mg/m2) 1 8 de descanso 22 29 descanso
+ m(9 mg/m2)
+ Dia Dia Dia Dia --
+ Período ---- Período de p(60 mg/m2)
+ 1 2 3 4 de descanso
+ descanso
+ Vc= VELCADE; m= melfalano, p=prednisona
+ Ajustes posológicos no tratamento em associação
+ Alteração da dose e reinício do tratamento quando VELCADE é administrado em associação com melfalano e prednisona.
+ Antes de iniciar um novo ciclo de tratamento: Contagens de plaquetas devem apresentar valores ≥70 x 109/l e o número absoluto de • neutrófilos deve ser ≥1,0 x 109/L.
+ •
+ As toxicidades não hematológicas devem ser resolvidas para o Grau 1 ou valores iniciais.
+ Quadro 3-Modificações posológicas durante ciclos subsequentes: Toxicidade
+ Modificação da posologia ou atraso Toxicidade hematológica durante o ciclo • Se forem observadas neutropénia, ou trombocitopénia prolongada de grau 4 ou trombocitopénia com hemorragia no ciclo anterior. Se a contagem das plaquetas for ≤30 × 109/l ou
+ Considerar redução da dose em 25% de melfalano no ciclo seguinte.
+ • ANC ≤0,75 x 109/l no dia de administração de VELCADE (excepto no dia 1).
+ O tratamento com VELCADE deve ser interrompida.
+ • Se várias doses de VELCADE num ciclo são interrompidas (≥ 3 doses durante a administração duas vezes por semana ou ≥ 2 doses durante a administração semanal)
+ A dose de VELCADE deve ser reduzida num nível (de 1,3 mg/m2 para 1 mg/m2 ou de 1 mg/m2 para 0,7 mg/m2)
+ 4 Toxicidade
+ Modificação da posologia ou atraso Grau ≥ 3 toxicidade não hematológica. Interromper o tratamento com VELCADE até serem resolvidos os sintomas de toxicidade para Grau 1 ou para valores basais. Posteriormente, VELCADE pode ser reiniciado com uma redução num nível de dose (de 1,3 mg/m2 para 1 mg/m2 ou de 1 mg/m2 para 0,7 mg/m2). Para dor neuropática relacionada com VELCADE e/ou neuropatia periférica, interromper e/ou modificar a dose de VELCADE como descrito no Quadro 1.
+ Para informações adicionais sobre melfalano e prednisona, consultar os respectivos Resumo das Características do Medicamento.
+ Modo de administração: A solução reconstituída é administrada em bólus intravenoso, durante 3-5 segundos, através de um catéter periférico ou central intravenoso seguido por uma lavagem com uma solução cloreto de sódio a 9 mg/ml (0,9%) para injectáveis.
+ 4.3 Contra-indicações Hipersensibilidade ao bortezomib, boro ou a qualquer um dos excipientes. Compromisso hepático (ver secção 4.4). Doença pulmonar aguda difusa infiltrativa e doença pericárdica.
+ 4.4 Advertências e precauções especiais de utilização
+ Toxicidade gastrointestinal A toxicidade gastrointestinal, incluindo náusea, diarreia, vómitos e obstipação, é muito frequente com o tratamento com VELCADE. Foram notificados raramente casos de íleos (ver secção 4.8), pelo que os doentes que apresentem obstipação devem ser cuidadosamente monitorizados.
+ Toxicidade hematológica O tratamento com VELCADE é muito frequentemente associado com toxicidade hematológica (trombocitopenia, neutropenia e anemia). A manifestação mais frequente de toxicidade hematológica é trombocitopenia transitória. O nível mais baixo de plaquetas foi alcançado no dia 11 de cada ciclo de tratamento com VELCADE. Não houve evidência de trombocitopenia cumulativa, incluindo no estudo de extensão de Fase II. O valor mais baixo da mediana da contagem de plaquetas foi de aproximadamente 40% do valor basal. Em doentes com mieloma avançado a gravidade da trombocitopenia foi relacionada com a contagem de plaquetas anterior ao tratamento: para valores basais de plaquetas &lt; 75 000/μl,90% dos 21 doentes apresentaram uma contagem de plaquetas ≤25 000/μl durante o estudo, incluindo 14% com contagem &lt; 10 000/μl; em contraste, para valores basais de plaquetas &gt; 75 000/μl, apenas 14% dos 309 doentes apresentaram uma contagem de plaquetas ≤25x109/l durante o estudo. A contagem de plaquetas deve ser monitorizada antes da administração de cada dose de VELCADE. A terapêutica deve ser descontinuada quando a contagem de plaquetas é &lt; 25 000/μl e reiniciada com uma dose reduzida após restabelecimento (ver secção 4.2). Os benefícios potenciais do tratamento devem ser cuidadosamente ponderados em relação aos riscos, particularmente em casos de trombocitopenia moderada a grave e factores de risco para hemorragia.
+ Assim, o hemograma completo, incluindo contagem de plaquetas, deverá ser monitorizado frequentemente durante o tratamento com VELCADE.
+ Neuropatia periférica 5 O tratamento com VELCADE é muito frequentemente associado a neuropatia periférica, que é predominantemente sensitiva. No entanto, foram notificados casos de neuropatia motora grave com ou sem neuropatia periférica sensitiva. A incidência de neuropatia periférica aumenta no início do tratamento e a sua incidência máxima foi observada durante o quinto ciclo.
+ Recomenda-se que os doentes sejam cuidadosamente monitorizados em relação aos sintomas de neuropatia, tais como a sensação de queimadura, hiperestesia, hipoestesia, parestesia, desconforto dor neuropática ou falta de forças. Doentes que experimentem novo episódio ou agravamento da neuropatia periférica devem ter seguimento da avaliação neurológica e podem necessitar de alterações na dose e no esquema posológico de VELCADE (ver secção 4.2). A neuropatia tem sido tratada com cuidados de suporte e outras terapêuticas. A melhoria ou resolução da neuropatia periférica foi relatada em 51% dos doentes com neuropatia periférica ≥ Grau 2 no estudo de Fase III de mieloma múltiplo com um único agente, e em 71% dos doentes com neuropatia periférica de Graus 3 ou 4, ou neuropatia periférica que conduziu à descontinuação do tratamento, em estudos de Fase II.
+ Para além da neuropatia periférica, a neuropatia autónoma poderá também contribuir para algumas destas reacções adversas, tais como hipotensão postural e obstipação grave com íleos. A informação relativa à neuropatia autónoma e a sua contribuição para estes efeitos indesejáveis é limitada.
+ Convulsões As convulsões foram descritas pouco frequentemente em doentes sem história prévia de convulsões ou epilepsia. Deve-se ter cuidado especial ao tratar doentes com quaisquer factores de risco para convulsões.
+ Hipotensão O tratamento com VELCADE está frequentemente associado a hipotensão ortostática/postural. A maioria dos efeitos indesejáveis são de natureza ligeira a moderada e são observados ao longo do tratamento. Os doentes que desenvolveram hipotensão ortostática com VELCADE não apresentavam evidência de hipotensão ortostática antes do tratamento com VELCADE. A maioria dos doentes necessitaram de tratamento para a sua hipotensão ortostática. Uma minoria dos doentes com hipotensão ortostática experimentaram síncope. A hipotensão ortostática/postural não foi relacionada de forma aguda com a perfusão em bólus de VELCADE. O mecanismo deste acontecimento é desconhecido embora um dos componentes possa estar associado à neuropatia autónoma. A neuropatia autónoma pode estar relacionada com o bortezomib ou o bortezomib pode agravar uma condição subjacente como a neuropatia diabética ou neuropatia amiloidótica. É aconselhada precaução em doentes com história de síncope a tomarem medicação que possa estar associada a hipotensão; ou em doentes desidratados devido a diarreias ou vómitos recorrentes. O tratamento da hipotensão ortostática/postural pode incluir ajuste de medicamentos anti-hipertensores, rehidratação ou administração de mineralocorticóides e/ou simpaticomiméticos. Os doentes devem ser instruídos a obterem aconselhamento médico no caso de apresentarem tonturas, atordoamento ou sensação de desmaio.
+ Insuficiência cardíaca Foram descritas situações de desenvolvimento agudo ou agravamento de insuficiência cardíaca congestiva, e/ou novos sintomas relacionados com diminuição da fracção de ejecção do ventrículo esquerdo durante o tratamento com bortezomib. No estudo comparativo, aleatorizado, de Fase III com um único agente, a incidência de insuficiência cardíaca no grupo tratado com VELCADE foi semelhante à do grupo de dexametasona. A retenção de líquidos pode ser um factor predisponente para os sinais e sintomas da insuficiência cardíaca. Doentes com factores de risco ou doença cardíaca devem ser cuidadosamente monitorizados.
+ Exames complementares de diagnóstico – Electrocardiograma
+ 6 Em ensaios clínicos, ocorreram casos isolados de prolongamento do intervalo QT cuja causalidade não foi estabelecida.
+ Doenças pulmonares Foram notificados raros casos de doença pulmonar aguda difusa infiltrativa de etiologia desconhecida tais como pneumonite, pneumonia intersticial, infiltração pulmonar e síndrome de dificuldade respiratória aguda (SDRA) em doentes a receber tratamento com VELCADE (ver secção 4.8). Alguns destes acontecimentos foram fatais. Antes de iniciar o tratamento, é recomendado o estudo radiológico do tórax, por forma a avaliar a necessidade de realização de exames de diagnóstico complementares, e para servir de base à monitorização de potenciais alterações pulmonares após o tratamento.
+ No caso de novos sintomas pulmonares ou agravamento dos mesmos (por exemplo, tosse, dispneia), deve-se realizar prontamente uma avaliação do diagnóstico e os doentes devem ser tratados adequadamente. Deverá ser avaliada a relação benefício/risco antes da continuação do tratamento com VELCADE.
+ Num ensaio clínico, dois doentes (no total de 2) a receberem tratamento com dose elevada de citarabina (2 g/m2 por dia) por perfusão contínua durante 24 horas associada a daunorubicina e VELCADE, para leucemia mielóide aguda em recaída morreram prematuramente e o estudo foi terminado. Assim não é recomendado este regime específico com administração concomitante de uma dose elevada de citarabina (2 g/m2 por dia) por perfusão contínua, durante 24 horas.
+ Compromisso renal As complicações renais são frequentes em doentes com mieloma múltiplo. Estes doentes devem ser cuidadosamente monitorizados (ver secções 4.2 e 5.2).
+ Compromisso hepático Doentes com compromisso hepático devem ser tratados com extrema precaução e deve ser considerada uma redução da dose (ver secções 4.2, 4.3 e 5.2).
+ Reacções hepáticas Foram notificados casos raros de insuficiência hepática aguda em doentes a receber medicação concomitante múltipla e com condições médicas subjacentes graves. Outras reacções hepáticas relatadas incluem aumento das enzimas hepáticas, hiperbilirrubinémia, e hepatite. Estas alterações podem ser reversíveis após descontinuação de bortezomib (ver secção 4.8).
+ Síndrome de lise tumoral Devido ao facto do bortezomib ser um agente citotóxico e poder matar rapidamente os plasmócitos malignos, podem ocorrer as complicações da síndrome de lise tumoral. Os doentes em risco de síndrome de lise tumoral são aqueles que apresentam elevada carga tumoral antes do tratamento. Estes doentes devem ser cuidadosamente monitorizados e tomadas precauções apropriadas.
+ Amiloidose Desconhece-se o impacto da inibição do proteosoma pelo bortezomib em doenças associadas à acumulação de proteínas, tais como a amiloidose. Nestes doentes recomenda-se precaução.
+ Medicamentos concomitantes Os doentes devem ser cuidadosamente monitorizados quando o bortezomib for administrado em associação com inibidores potentes do CYP3A4. Recomenda-se precaução quando o bortezomib é associado a substractos do CYP3A4 e CYP2C19 (ver secção 4.5). 7 Em doentes tratados com hipoglicemiantes orais recomenda-se precaução devendo ser confirmada a normalidade da função hepática (ver secção 4.5).
+ Reacções potencialmente mediadas por imunocomplexos
+ Reacções potencialmente mediadas por imunocomplexos, tais como reacção de tipo doença do soro, poliartrite com erupção cutânea e glomerulonefrite proliferativa foram relatadas pouco frequentemente. Se ocorrerem reacções graves, o Bortezomib deve ser descontinuado.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Os estudos in vitro indicam que o bortezomib é um inibidor fraco das isoenzimas 1A2, 2C9, 2C19, 2D6 e 3A4 do citocromo P450 (CYP). Com base na contribuição limitada (7%) do CYP2D6 para o metabolismo do bortezomib, não é esperado que o fenotipo de metabolizador lento CYP2D6 afecte a eliminação total do bortezomib.
+ Um estudo de interacção baseado em dados de 12 doentes, que avaliou o efeito do cetoconazol, um inibidor potente do CYP3A4, mostrou um aumento da média da AUC de bortezomib em 35% (CI90%[ 1,032 a 1,772]). Como tal, os doentes devem ser cuidadosamente monitorizados quando o bortezomib for administrado em associação a inibidores potentes do CYP3A4 (ex.: cetoconazol, ritonavir).
+ Num estudo de interacção baseado em dados de 17 doentes, que avaliou o efeito do omeprazol, um inibidor potente do CYP2C19, não se demonstrou efeito significativo na farmacocinética de bortezomib.
+ Os doentes devem ser cuidadosamente monitorizados quando o bortezomib for administrado em associação a inibidores do CYP2C19 (ex.: fluoxetina).
+ Na ausência de estudos de interacção, investigando o efeito dos indutores do CYP3A4 na farmacocinética de bortezomib, os doentes devem ser cuidadosamente monitorizados quando bortezomib for administrado em associação a indutores potentes do CYP3A4 (ex.: rifampicina).
+ Um estudo de interacção, que avaliou o efeito de melfalano-prednisona no bortezomib, baseado em dados de 21 doentes demonstrou um aumento de 17% na média da AUC de bortezomib. Este resultado não é considerado clinicamente relevante.
+ Durante os ensaios clínicos, foram notificados pouco frequentemente e frequentemente casos de hipoglicemia e hiperglicemia em doentes diabéticos que estavam a tomar hipoglicemiantes orais. Doentes sob tratamento com antidiabéticos orais e tratados com VELCADE podem necessitar de monitorização cuidadosa dos seus níveis de glucose no sangue e de ajuste de dose dos antidiabéticos.
+ 4.6 Gravidez e aleitamento O potencial teratogénico do bortezomib não está totalmente investigado.
+ Nos estudos não clínicos, o bortezomib não teve efeitos no desenvolvimento embrionário e fetal dos ratos e coelhos, nas doses maternas toleradas mais elevadas. Não foram efectuados estudos em animais para avaliar os efeitos de bortezomib no parto e no desenvolvimento pós-natal (ver secção 5.3). VELCADE não deverá ser utilizado durante a gravidez, a menos que tal seja claramente necessário.
+ No que respeita a VELCADE, não existem dados clínicos sobre as gravidezes a ele expostas. Homens e mulheres em idade fértil têm de utilizar medidas contraceptivas eficazes durante o tratamento e nos 3 meses após o tratamento com VELCADE. Se VELCADE for administrado durante a gravidez, ou se a doente engravidar enquanto estiver a tomar este medicamento, deverá ser informada sobre os potenciais perigos para o feto.
+ 8 Não é conhecido se o bortezomib é excretado no leite materno. Devido ao potencial para efeitos indesejáveis graves de VELCADE nos lactentes, o aleitamento deverá ser descontinuado durante o tratamento com VELCADE.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ VELCADE pode ter uma influência moderada na capacidade de conduzir e utilizar máquinas. VELCADE pode estar associado muito frequentemente a fadiga, frequentemente a tonturas, pouco frequentemente a síncope e frequentemente a hipotensão ortostática/postural ou a visão turva. Portanto, os doentes devem ter cautela quando manobrarem com máquinas ou quando conduzirem veículos (ver secção 4.8).
+ 4.8 Efeitos indesejáveis Os seguintes efeitos indesejáveis foram considerados, pelos investigadores, como tendo pelo menos uma relação causal possível ou provável com VELCADE, durante 5 estudos clínicos não comparativos de fase II e o estudo clínico de Fase III, internacional, aleatorizado, controlado e comparativo de VELCADE vs. dexametasona, realizado em 663 doentes com mieloma múltiplo em recaída ou refractário, dos quais 331 receberam VELCADE, em monoterapia. A base de dados de segurança compreende dados de doentes com mieloma múltiplo ou leucemia linfocítica crónica das células B (LLC). Os doentes foram tratados com VELCADE, em monoterapia ou em associação com a dexametasona.
+ As reacções adversas estão listadas abaixo por classe de sistemas de órgãos e agrupadas por frequência. As frequências estão definidas como: muito frequentes (≥1/10), frequentes (≥ 1/100 a &lt; 1/10), pouco frequentes (≥1/1000 a &lt; 1/100), raros (≥1/10000 a &lt; 1/1000), muito raros (&lt; 1/10000) e desconhecido (não pode ser estimado a partir dos dados disponíveis).
+ Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ Quadro 4: Reacções adversas em doentes com mieloma múltiplo em recaída ou refractário Infecções e infestações Muito frequentes: herpes zóster (incluindo infecção disseminada) Frequentes: pneumonia, bronquite, sinusite, nasofaringite, herpes simplex. Pouco frequentes: Sepsis, bacteriémia, pneumonia pneumocócica, broncopneumonia, infecção do tracto respiratório superior e inferior, infecção associada a catéter, infecção pleural, infecção por Haemophilus, infecção por citomegalovirus, influenza, mononucleose infecciosa, varicela, infecção do tracto urinário, gastrenterite infecção por Candida, infecção fúngica, nevralgia pós-herpética, candidiase oral, blefarite, infecção.
+ Neoplasias benignas e malignas (incluindo quistos e polipos) Pouco frequentes: síndrome de lise tumoral (ver secção 4.4).
+ Doenças do sangue e do sistema linfático (ver secção 4.4) Muito frequentes: trombocitopenia, neutropenia, anemia. Frequentes: leucopenia, linfopenia. Pouco frequentes: pancitopenia, neutropenia febril, anemia hemolítica, purpura trombocitopénica, linfadenopatia.
+ Doenças do sistema imunitário Pouco frequentes: hipersensibilidade, hipersensibilidade mediada por imunocomplexos, reacções potencialmente mediadas por imunocomplexos, tais como reacção de tipo doença do soro, poliartrite com erupção cutânea e glomerulonefrite proliferativa (ver secção 4.4).
+ Doenças endócrinas 9 Pouco frequentes: secreção inapropriada de hormona antidiurética (HAD).
+ Doenças do metabolismo e da nutrição Muito frequentes: diminuição do apetite. Frequentes: desidratação, hipocaliemia, hiperglicemia. Pouco frequentes: hipercaliemia, caquexia, hipercalcemia, hipocalcemia, hipernatremia, hiponatremia, hipoglicemia, hiperuricemia, deficiência de vitamina B12, aumento do apetite, hipomagnesemia, hipofosfatemia.
+ Perturbações do foro psiquiátrico Frequentes: confusão, depressão, insónia, ansiedade. Pouco frequentes: agitação, delírio, alucinações, inquietação, variações de humor, alterações do estado mental, alterações do sono, irritabilidade, sonhos anormais.
+ Doenças do sistema nervoso (ver secções 4.4 e 4.7) Muito frequentes: neuropatia periférica, neuropatia periférica sensitiva (ver secção 4.4), parestesia, cefaleias. Frequentes: polineuropatia, agravamento de neuropatia periférica, tonturas (excluindo vertigens), disgeusia, disestesia, hipostesia, tremor. Pouco frequentes: paraplegia, hemorragia intracraneana, hemorragia subaracnoidea, convulsões (ver secção 4.4), neuropatia periférica motora, síncope, paresia, perturbação da atenção, aumento da actividade, ageusia, sonolência, enxaqueca, alterações cognitivas, movimentos não controlados, tonturas posturais, ciática, mononeuropatia, alterações no discurso, síndroma de pernas cansadas.
+ Afecções oculares Frequentes: visão turva (ver secção 4.7), dor ocular. Pouco frequentes: hemorragia ocular, visão anormal, xeroftalmia, conjuntivite, lacrimejo, fotofobia, irritação ocular, aumento do lacrimejo, hiperémia conjuntival, olhos inchados.
+ Afecções do ouvido e do labirinto Frequentes: tonturas. Pouco frequentes: surdez, acufenos, hipoacúsia, alterações na audição.
+ Cardiopatias Pouco frequentes: paragem cardíaca, choque cardiogénico, enfarte do miocárdio, angina de peito, angina instável, desenvolvimento ou exacerbação de insuficiênca cardíaca congestiva (ver secção 4.4), insuficiência cardíaca, hipocinésia ventricular, edema pulmonar e edema agudo do pulmão, paragem sinusal, bloqueio auriculo-ventricular completo, taquicardia, taquicardia sinusal, taquicardia supraventricular, arritmia, fibrilhação auricular, palpitações. Raros: sintomas de diminuição da fracção de ejecção do ventrículo esquerdo de novo.
+ 10 Vasculopatias Frequentes: hipotensão, hipotensão ortostática e postural (ver secções 4.4 e 4.7), flebite, hematoma, hipertensão. Pouco frequentes: hemorragia cerebral, vasculite, acidente vascular cerebral, hipertensão pulmonar, petéquias, equimose, púrpura, descoloração venosa, distensão venosa, hemorragia de feridaseritema, vermelhidão.
+ Doenças respiratórias, torácicas e do mediastino Muito frequentes: dispneia. Frequentes: dispneia de esforço, epistaxis, tosse, rinorreia. Pouco frequentes: paragem respiratória, hipoxia, congestão pulmonar, derrame pleural, asma, alcalose respiratória, taquipneia, sibilos, congestão nasal, rouquidão, rinite, hiperventilação, ortopneia, toracalgia, dor sinusal, sensação de aperto na garganta, tosse produtiva.
+ Doenças gastrointestinais (ver secção 4.4) Muito frequentes: vómitos, diarreia, náuseas, obstipação. Frequentes: dor abdominal, estomatite, dispepsia, incontinência fecal, dor abdominal superior, flatulência, distensão abdominal, espasmo diafragmático, ulceração oral, dor faringolaríngea, boca seca. Pouco frequentes: pancreatite aguda, íleos paralítico, colite associada a antibióticos, colite, hematemese, diarreia hemorrágica, hemorragia gastrointestinal, hemorragia rectal, enterite, disfagia, desconforto abdominal, eructação, perturbações da motilidade gastrointestinal, dor oral, vómito seco, alterações dos hábitos intestinais, dor no baço, esofagite, gastrite, refluxo gastroesofágico, dor gastrointestinal, hemorragia gengival, dor gengival, hérnia do hiato, síndroma do cólon irritável, petéquias na mucosa oral, hipersecreção salivar, língua saburrosa, língua pálida, oclusão fecal.
+ Afecções hepatobiliares (ver secção 4.4) Pouco frequentes: hepatite, hemorragia hepática, hipoproteinemia, hiperbilirrubinémia.
+ Afecções dos tecidos cutâneos e subcutâneos Muito frequentes: erupção cutânea. Frequentes: edema periorbitário, urticária, erupção cutânea pruriginosa, prurido, eritema, aumento da sudação, pela seca, eczema. Pouco frequentes: erupção cutânea vasculítica, erupção cutânea eritematosa, reacção de fotossensibilidade, contusão, prurido generalizado, erupção cutânea macular, erupção cutânea papular, psoríase, erupção cutânea generalizada, edema das pálpebras, edema da face, dermatite, alopécia, alterações das unhas, palidez da pele, dermatite atópica, alteração na textura do cabelo, erupção cutânea de calor, sudorese nocturna, pressão do soro, ictiose, nódulos cutâneos.
+ Afecções musculosqueléticas, dos tecidos conjuntivos e dos ossos Muito frequentes: mialgias. Frequentes: fraqueza muscular, dores musculoesqueléticas, dor nos membros, cãibras, artralgia, dor óssea, dores nas costas, edema periférico. Pouco frequentes: espasmos musculares, fasciculações musculares ou sensação de peso, rigidez muscular, edema articular, rigidez articular, dor na região glútea, edema, dor no maxilar.
+ Doenças renais e urinárias Frequentes: compromisso renal, disúria. Pouco frequentes: insuficiência renal aguda, insuficiência renal renal, oliguria, cólica renal, hematúria, proteinúria, retenção urinária, aumento da frequência urinária, dificuldade de micção, cólica renal, incontinência urinária, urgência miccional.
+ Doenças dos órgãos genitais e da mama Pouco frequentes: dor testicular, disfunção eréctil. 11 Perturbações gerais e alterações no local de administração Muito frequente: fadiga (ver secção 4.7), febre. Frequentes: astenia, fraqueza, letargia, arrepios, mal-estar, síndroma gripal, edema periférico, dor torácica, dor, edema. Pouco frequentes: queda, hemorragia das mucosas, inflamação das mucosas, neuralgia, flebite no local de injecção, inflamação relacionada com extravasamento, sensibilidade aumentada, eritema no local de injecção, sensação de frio, sensação de opressão torácica, dor no peito, dor na virilha, sensação de aperto torácico.
+ Exames complementares de diagnóstico Frequentes: diminuição do peso, aumento da desidrogenase láctica sérica. Pouco Frequentes: aumento da alanina aminotransferase, aumento da aspartato aminotransferase, aumento da bilirrubina no sangue, aumento da fosfatase alcalina sérica, aumento da creatinina sérica, aumento da ureia sérica, aumento da gama-glutamiltransferase, aumento da amilase sérica, alterações de provas da função hepática, diminuição da contagem de glóbulos vermelhos, diminuição da contagem de glóbulos brancos, diminuição do bicarbonato plasmático, frequência cardíaca irregular, aumento da proteína C reactiva, diminuição do fosfato no sangue, aumento de peso.
+ Lesões e intoxicações Pouco Frequentes: complicações relacionadas com cateterização, dor após o procedimento, hemorragia após o procedimento, queimaduras.
+ Resumo dos dados de segurança em doentes que não foram sujeitos a nenhum tratamento para o mieloma múltiplo:
+ O quadro seguinte descreve os dados de segurança num estudo prospectivo de fase 3, relativos a 340 doentes em tratamento com VELCADE (1,3 mg/m2) em associação com melfalano (9 mg/m2) e prednisona (60 mg/m2), e que não tinham sido sujeitos a nenhum tratamento prévio para o mieloma múltiplo.
+ Globalmente, o perfil de segurança dos doentes tratados com VELCADE em monoterapia foi semelhante ao observado em doentes tratados com VELCADE em associação com melfalano e prednisona.
+ Quadro 5: Tratamento das reacções adversas emergentes relacionados com o medicamento notificados em ≥ 10% dos doentes tratados com VELCADE em associação com melfalano e prednisona.
+ --------------Vc+M+P --------------(n=340)
+ ----------------M+P ---------------(n=337)
+ Classes de sistemas de órgãos segundo Total Grau de toxicidade, n (%) Total Grau de toxicidade, n (%) a base de dados MedDRA Termos preferenciais Infecções e infestações
+ n (%)
+ 3 ≥4 n (%) 3
+ ≥4
+ Herpes Zoster Doenças do sangue e do sistema linfático
+ 39 (11) 11 (3) 9 (3) 4 (1) Trombocitopénia Neutropénia Anemia Leucopénia Linfopénia Doenças do metabolismo e da nutrição
+ 164 (48) 60 (18) 160 (47) 101 (30) 109 (32) 41 (12) 108 (32) 64 (19) 78 (23) 46 (14)
+ 57 (17) 140 (42) 48 (14) 33 (10) 143 (42) 77 (23) 4 (1) 156 (46) 61 (18) 8 (2) 93 (28) 53 (16) 17 (5) 51 (15) 26 (8)
+ 39 (12) 42 (12) 18 (5) 11 (3) 7 (2)
+ Anorexia 64 (19) 6 (2) 0 19 (6) 0 12 --------------Vc+M+P ------------------------------M+P ---------------
+ (n=340)
+ (n=337)
+ Classes de sistemas de órgãos segundo Total Grau de toxicidade, n (%) Total Grau de toxicidade, n (%) a base de dados MedDRA Termos preferenciais Perturbações do foro psiquiátrico
+ n (%)
+ 3 ≥4 n (%) 3
+ ≥4
+ Insónias Doenças do sistema nervoso
+ 35 (1 0) 1 (&lt; 1) 0 21 (6) 0 Neuropatia periférica 156 (46) 42 (12) 2 (1) 4 (1) Nevralgia Parestesia Doenças gastrointestinais
+ 117 (34) 27 (8) 42 (12) 6 (2)
+ 2 (1) 0 1 (&lt; 1) 4 (1)
+ 0 0 0 0 Náuseas 134 (39) 1 0 (3) 0 70 (21) 1 (&lt; 1) Diarreia 119 (35) 19 (6) 2 (1) 20 (6) 1 (&lt; 1) Vómitos Obstipação Dor do abdómen superior Afecções dos tecidos cutâneos e subcutâneos
+ 87 (26) 77 (23) 34 (10) 13 (4) 2 (1) 1 (&lt; 1) 0 0 0 41 (12) 14 (4) 20 (6) 2 (1) 0 0 0 0 0 Erupção cutânea Perturbações gerais e alterações no local de administração
+ 38 (11) 2 (1) 7 (2) Cansaço Astenia
+ 85 (25) 54 (16) 19 (6) 18 (5) 2 (1) 0 48 (14) 23 (7) 4 (1) 3 (1) 0 0 Pirexia 53 (16) 4 (1) 19 (6) 1 (&lt; 1) 1 (&lt; 1) Reactivação do vírus herpes zoster Num estudo de Fase III em doentes que não foram sujeitos a nenhum tratamento prévio para o mieloma múltiplo,27% dos doentes receberam medicamentos antivirais profilácticos, no braço Vc+M+P. Neste estudo, a reactivação do vírus herpes zoster foi mais frequente nos doentes tratados com Vc+M+P em comparação com M+P (11% vs 3%, respectivamente). Três (3%) dos 91 doentes no grupo de tratamento Vc+M+P, que receberam medicamentos antivirais profilácticos apresentaram reactivação do vírus herpes zoster.
+ Experiência pós-comercialização
+ Reacções adversas clinicamente significativas estão listadas no quadro 6, se foram notificadas durante o uso de VELCADE após aprovação, tendo ou não sido notificadas em ensaios clínicos. A sua frequência é desconhecida.
+ Quadro 6: Reacções adversas dos relatórios de pós-comercialização Infecções e Infestações Desconhecido: Doenças do sistema imunitário
+ Meningoencefalite herpética, choque séptico.
+ Desconhecido: Doenças do sistema nervoso
+ Angioedema Desconhecido: Afecções oculares
+ Encefalopatia, neuropatia autonómica Desconhecido: Cardiopatias
+ Herpes oftálmico Tamponamento cardíaco, pericardite, paragem Desconhecido:
+ cardíaca e cardiopulmonar, arritmias ventriculares, bloqueio aurículo-ventricular
+ Doenças respiratórias, torácicas e do mediastino (ver secção 4.4) Desconhecido: Doenças gastrointestinais
+ Pneumonite, pneumonia, pneumonia intersticial,13 Síndrome de Dificuldade Respiratória Aguda (SDRA), doença pulmonar aguda difusa infiltrativa, hipertensão pulmonar, insuficiência respiratória, hemorragia pulmonar alveolar, edema pulmonar agudo, edema pulmonar, embolia pulmonar, embolia periférica
+ Desconhecido: Afecções hepatobiliares
+ Colite isquémica Desconhecido: Insuficiência hepática 4.9 Sobredosagem Em doentes, a sobredosagem correspondendo a mais do dobro da dose recomendada tem sido associada ao aparecimento agudo de hipotensão sintomática e trombocitopénia que pode resultar em morte. (Para os estudos farmacológicos de segurança cardiovascular pré-clínica, ver secção 5.3).
+ Não é conhecido nenhum antídoto específico para a sobredosagem com bortezomib. No caso de sobredosagem, os sinais vitais dos doentes devem ser monitorizados e devem ser prestados cuidados de suporte apropriados para manter a tensão arterial (tais como os fluídos, pressores e/ou agentes ionotrópicos) e a temperatura corporal (ver secções 4.2 e 4.4).
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Outros agentes antineoplásicos Código ATC: L01XX32
+ Este medicamento foi sujeito a uma “ Autorização de Introdução no Mercado em “ Circunstâncias excepcionais ”. Isto significa que não foi possível obter informação completa sobre este medicamento por razões científicas. A Agência Europeia de Medicamentos (EMEA) irá rever anualmente qualquer nova informação que possa vir a ser disponibilizada sobre o medicamento e este RCM será actualizado se necessário.
+ Mecanismo de acção O bortezomib é um inibidor dos proteosomas. É especificamente concebido para inibir a actividade do tipo quimiotripsina do proteosoma 26S nas células dos mamíferos. O proteosoma 26S é uma proteína grande e complexa que degrada proteínas ubiquitinadas. O mecanismo de acção da via proteosoma ubiquitina tem um papel essencial na regulação do “ turnover ” de proteínas específicas, desse modo mantendo a homeostasia nas células. A inibição do proteosoma 26S evita a proteólise e afecta múltiplos sinais de cascata dentro da célula, resultando na morte de células cancerígenas.
+ O bortezomib é altamente selectivo para o proteosoma. Em concentrações de 10 μM, o bortezomib não inibe nenhum duma grande variedade de receptores e proteases seleccionadas e é 1500 vezes mais selectivo para o proteosoma do que para a enzima preferida seguinte. As cinéticas da inibição do proteosoma foram avaliadas in vitro, e o bortezomib mostrou dissociar-se do proteosoma com um tempo de semivida de 20 minutos, demonstrando que a inibição do proteosoma pelo bortezomib é reversível.
+ A inibição do proteosoma mediada pelo bortezomib afecta as células malignas de múltiplas formas, incluindo, mas não limitada a alteração das proteínas reguladoras, as quais controlam a progressão do ciclo celular e activação do factor nuclear kappa B (NF-kB). A inibição do proteosoma resulta na
+ 14 paragem do ciclo celular e apoptose. O NF-kB é um factor de transcrição cuja activação é necessária para muitos aspectos da tumorigénese, incluindo o crescimento e sobrevida celular, a angiogénese, as interacções célula-célula, e metastização. No mieloma, o bortezomib afecta a capacidade das células do mieloma para interagir com o microambiente da medula óssea.
+ Experiências têm demonstrado que o bortezomib é citotóxico para diversos tipos de células cancerígenas e que as células cancerígenas são mais sensíveis aos efeitos proapoptóticos da inibição do proteosoma do que as células normais. O bortezomib causa redução do crescimento tumoral in vivo em muitos modelos tumorais pré-clínicos, incluindo mieloma múltiplo.
+ Eficácia clínica em mieloma múltiplo não previamente tratado
+ Um estudo clínico prospectivo de Fase III, internacional, aberto e aleatorizado (1: 1) (VISTA), de 682 doentes foi conduzido para determinar se VELCADE (1,3 mg/m2) em associação com melfalano (9 mg/m2) e prednisona (60 mg/m2) resultou na melhoria do tempo até à progressão (TTP) quando comparado com melfalano (9 mg/m2) e prednisona (60 mg/m2) em doentes sem tratamento prévio para o mieloma múltiplo. O tratamento foi administrado para um máximo de 9 ciclos (aproximadamente 54 semanas) e foi precocemente descontinuado por progressão da doença ou por toxicidade inaceitável. Os dados demográficos e as características dos doentes, na avaliação basal, estão resumidos no Quadro 7.
+ Quadro 7: Resumo das características basais dos doentes e da doença no estudo VISTA Características do doente
+ Vc+M+P n=344 M+P n=338 Mediana da idade em anos (intervalo) Sexo: masculino/feminino
+ 71,0 (57,90) 51%/49% 71,0 (48,91) 49%/51% Raça: caucasiana/asiática/negro/outras Pontuação do índice de Karnofsky ≤70 Hemoglobina &lt; 100 g/l Contagem de plaquetas &lt; 75 x 109/l Características da doença
+ 88%/10%/1%/1% 35% 37% &lt; 1%
+ 87%/ 11%/33% 36% 1% 2%/0% Tipo de mieloma (%): IgG/IgA/Cadeia leve Mediana da β2 microglobulina (mg/l)
+ 64%/24%/8% 4,2 62%/ 26%/8% 4,3 Mediana da albumina (g/l) 33,0 33,0 Depuração da creatinina ≤30 ml/min[ n (%)]
+ 20 (6%) 16 (5%) Durante uma análise interina pré-planeada, o resultado (endpoint) primário, tempo até à progressão foi alcançado e aos doentes no braço M+P foi oferecida a possibilidade de transitarem para o tratamento com Vc+M+P. A sobrevivência continuou a ser seguida após a análise interina. A média de seguimento foi de 16,3 meses. Os resultados da eficácia estão descritos no Quadro 8.
+ Quadro 8-Resumo das análises de eficácia no estudo VISTA Resultado (endpoint) de eficácia Tempo até à progressão –
+ Vc+M+P n=344 M+P n=338 Acontecimentos n (%) Medianaa (95% IC)
+ 101 (29) 20,7 mo 152 (45) 15,0 mo Risco relativob (17,6, 24,7)
+ 0,54 (14,1, 17,9)
+ (95% IC) Valor p c Sobrevida livre de progressão
+ (0,42, 0,70) 0,000002
+ Acontecimentos n (%) Medianaa (95% IC)
+ 135 (39) 18,3 mo 190 (56) 14,0 mo Risco relativob (16,6, 21,7)
+ 0,61 (11,1, 15,0)
+ (95% IC)
+ (0,49, 0,76)
+ 15 Resultado (endpoint) de eficácia Vc+M+P n=344 M+P n=338 Valor p c Sobrevida global
+ 0,00001 Acontecimentos (mortes) n (%) Risco relativob
+ 45 (13) 0,61 76 (23) (95% IC) Valor p c Taxa de resposta populaçãoe n= 668
+ N=337 (0,42, 0,88) 0,00782
+ n=331
+ RCf n (%) 102 (30) 12 (4) RPf n (%) nRC n (%) RC+ RPf n (%) Valor pd Redução da proteína-M sérica populaçãog n=667
+ 136 (40) 5 (1) 238 (71) N=336
+ &lt; 10-10
+ 103 (31) 0 115 (35) n=331 &gt; =90% n (%) Tempo até à primeira resposta em RC+ RP
+ 151 (45) 34 (10) Média Medianaa da duração de resposta
+ 1,4 mo 4,2 mo RCf RC+ RPf Tempo até ao tratamento seguinte
+ 24,0 mo 19,9 mo 12,8 mo 13,1 mo Acontecimentos n (%) Médiaa (95% IC)
+ 73 (21) NE 127 (38) 20,8 mo Risco relativob (26,1, NE)
+ 0,52 (18,3, 28,5)
+ (95% CI) Valor p c a Estimativa Kaplan-Meier. b
+ (0,39, 0,70) 0,000009
+ A estimativa do risco relativo é baseada num modelo de risco propocional
+ de Cox ajustado para
+ factores de estratificação: β2-microglobulina, albumina e região. O risco relativo inferior a 1 é indicativo de uma vantagem para o VMP. c valor p baseado no teste log-rank estratificado ajustado para os factores de estratificação: β2-microglobulina, albumina e região. d Valor p para a taxa de resposta (RC+ RP) do teste chi-quadrado Cochran-Mantel-Haenszel ajustado para os factores de estratificação. e População de resposta inclui doentes com doença mensurável na avaliação basal. f Critério EBMT. g Todos os doentes aleatorizados com doença secretora. NE: Não estimado.
+ Eficácia clínica em mieloma múltiplo em recaída ou refractário
+ A segurança e a eficácia de VELCADE foram avaliadas em 2 estudos, nas doses recomendadas de 1. 3mg/m2: um estudo de Fase III, aleatorizado, comparativo com a dexametasoma (DEX), em 669 doentes com mieloma múltiplo em recaída ou refractário, que tinham recebido 1-3 linhas de terapêutica anteriores, e um ensaio de Fase II, aberto, de braço único, com 202 doentes, com mieloma múltiplo em recaída e refractário, que tinham recebido pelo menos 2 terapêuticas anteriores e apresentavam progressão da doença no seu tratamento mais recente (ver Quadros 9,10 e 11).
+ Quadro 9: Esquemas posológicos dos ensaios de Fase II e III Fase
+ Calendário de tratamento Dose 1.3 mg/m2 (bólus
+ Posologia II Vc: Dias 1,4,8,11 (intervalo dias 12-21)
+ intravenoso) 1.3 mg/m2 (bólus
+ Q3 semanas x 8 ciclos (extensão **) III Vc* a) Dias 1,4,8,11 (intervalo dias
+ intravenoso) 16
+ a) Q3 semanas x 8,
+ 12-21) b) Dias 1,8,15,22
+ seguido de b) Q5 semanas x 3
+ III Dex a) Dias 1-4, 9-12, 17-20 b) Dias 1-4
+ 40 mg (oral) a) Q5 semana x 4 b) Q4 semana x 5
+ II Adição de Dex *** 20 mg (oral) Q3 semanas (Dias 1,2,4,5,8,9,11,12)* a) é o tratamento inicial e a) e b) representa o tratamento completo ** Um estudo de extensão autorizou doentes que beneficiavam do tratamento a continuar a receber VELCADE *** Se após 2 a 4 ciclos de tratamento com VELCADE o doente apresentasse doença progressiva ou estável, respectivamente, podia receber dexametasona em associação.
+ Quadro 10: Características dos doentes dos ensaios de Fase II e III
+ Fase II Vc Fase III Vc Fase III Dex Número de doentes, análise ITT Sexo masculino% Mediana da idade, anos (intervalo) Caucasianos Indíce de Karnofsky &gt; 80% Plaquetas &lt; 75 000/μl
+ 202 60 59(34-84) 81% 80% 21%
+ 333 56 61 (33-84) 90% 87% 6%
+ 336 60 61 (27-86) 88% 84% 4% Hemoglobina &lt; 100g/l Mediana da Depuração da Creatinina ml/min (intervalo) Mieloma IgG Mieloma IgA Mieloma de cadeias leves Mediana de tempo desde o diagnóstico (anos)
+ 44% 74 (14-221) 60% 24% 14% 4.0
+ 32% 73.3 (15. 6-170.7) 60% 32% 12% 3.5
+ 28% 73.3 (15. 3-261.1) 59% 24% 13% 3.1
+ Alterações do cromossoma 13 β2 microglobulina média (mg/l) Mediana de tratamentos prévios* (intervalo)
+ 15% 3.5 6 (2-15)
+ 25.7% 3.7 2 (1-7)
+ 25.0% 3.6 2 (1-8) 1 tratamento prévio &gt; 1 tratamento prévio
+ n=132(40%) n=186 (60%)
+ n=119 (35%) n=194 (65%)
+ * Incluindo esteróides, agentes alquilantes, antraciclinas, talidomida e transplante de células estaminais
+ Quadro 11: Exposição dos doentes a tratamento com VELCADE durante os ensaios de Fase II e III
+ Fase II Vc Fase III Vc Fase III Dex Recebeu pelo menos 1 dose Completou 4 ciclos
+ n=202
+ n=331 69%
+ n=332
+ a) todos os ciclos iniciais (número) b) tratamento completo (número) c) extensão*
+ 27% (8 ciclos NA N=63 doentes (média 7 ciclos) ou média total de 14 ciclos (intervalo 7-32)
+ 29% (8 ciclos) 9% (11 ciclos) NA
+ 36% (4 ciclos) 5% (9 ciclos) NA * Em caso de benefício clínico, os doentes podiam continuar o tratamento após terem completado oito ciclos NA= não aplicável
+ No ensaio de Fase III, o tratamento com VELCADE conduziu a um aumento significativo do tempo até progressão, sobrevida e da taxa de resposta significativamente mais elevada, quando comparado 17 com o tratamento com dexametasona (ver Quadro 12), em todos os doentes, bem como em doentes sujeitos a um tratamento anterior. Como resultado de uma análise interina pré-planeada, o braço da dexametasona foi interrompido por recomendação do comité de monitorização dos resultados e todos os doentes aleatorizados no grupo da dexametasona receberam VELCADE, independentemente do estadio da doença. Devido à antecipação do cruzamento, a mediana de duração de seguimento dos doentes sobreviventes é de 8.3 meses. Quer nos doentes refractários à terapêutica anterior, quer nos doentes não refractários, a sobrevida global foi significativamente maior e a taxa de resposta significativamente mais elevada, no braço do tratado com VELCADE.
+ Dos 669 doentes incluídos,245 (37%) tinham mais de 65 anos. Os parâmetros de resposta, bem como o tempo até à progressão (TAP), mostraram resultados significativamente melhores com VELCADE, independentemente da idade. No que respeita a β2 microglobulina, todos os parâmetros de eficácia (tempo até progressão, sobrevida global, bem como a taxa de resposta) foram significativamente melhores no braço do VELCADE, independentemente dos valores basais.
+ Na população refractária do estudo de fase II, as respostas foram determinadas por um comité de revisão independente e foram utilizados os critérios de resposta definidos pelo European Bone Marrow Transplant Group. A mediana da sobrevida para todos os doentes envolvidos foi de 17 meses (intervalo &lt; 1 a 36+ meses). Esta sobrevida foi maior do que a sobrevida mediana de 6 a 9 meses antecipada pelos consultores de investigação clínica para uma população semelhante de doentes. Em análise multivariada, a taxa de resposta foi independente do tipo de mieloma, estado de desempenho, estado de delecção do cromossoma 13 ou número ou tipo de tratamentos prévios. Os doentes que tinham recebido anteriormente dois a três regimes terapêuticos tiveram uma taxa de resposta de 32% (10/32) e doentes que receberam mais do que sete regimes terapêuticos prévios tiveram uma taxa de resposta de 31% (21/67).
+ Quadro 12: Resultado dos resultados dos ensaios de Fase III e II
+ Fase III Fase III Fase III
+ Fase II ≥2 linhas Todos os doentes 1 linha terapêutica prévia &gt; 1 linha terapêutica prévia
+ terapêuticas prévias
+ Acontecimentos Vc Dex Vc Dex Vc Dex Vc dependentes do tempo Tempo até progressão da
+ n=333a
+ n=336a
+ n=132a
+ n=119a 169d
+ n=200a
+ n=217a
+ n=202a
+ doença
+ 189b 106b 212d [ 105,
+ 148b 87b 210 [ 95% CI]
+ [ 148,211]
+ [ 86,128]
+ [ 188,267]
+ 191] [ 129,192]
+ [ 84,107]
+ [ 154,281]
+ Sobrevivência ao 1 ano,
+ %
+ 80d 66d 89d 72d 73 62 60 [ 95% CI]
+ [ 74,85]
+ [ 59,72]
+ [ 82,95]
+ [ 62,83]
+ [ 64,82]
+ [ 53,71]
+ Melhor resposta (%) Vc Dex Vc Dex Vc Dex Vc n=193
+ N=315c 20 (6) b n=312c 2 (&lt; 1) b
+ n=128
+ N=110 n=187
+ n=202
+ RC 41 (13) b 5 (2) b 8 (6) 2 (2) 12 (6) 0 (0) (4) **
+ RC+ qRC RC+ qRC+ RP
+ 121 (38) b 56 (18) b 16 (13) 57 (45) d 4 (4) 29 (26) d 25 (13) 64 (34) b 1 (&lt; 1) 27 (13) b (10) ** (27) **
+ RC+ qRC+ RP+RM Duração média 146 (46) 108 (35) 66 (52) 45 (41) 80 (43) 63 (31) (35) **
+ Dias (meses) Tempo até à resposta 242 (8.0) 169 (5.6) 246 (8.1) 189 (6.2) 238 (7.8) 126 (4.1) 385* a
+ RC+RP (dias) 43 43 44 46 41 27 38* População de Intenção para Tratar (ITT) b Valor de p do teste log-rank estratificado; a análise por linha de terapêutica exclui a estratificação por história terapêutica; p &lt; 0.0001 c A população de respondedores inclui os doentes com doença mensurável no início do estudo e que receberam pelo menos uma dose do fármaco em estudo. d Valor de p do teste qui-quadrado de Cochran-Mantel-Haenszel ajustado para os factores de estratificação; a análise por linha terapêutica exclui a estratificação por história terapêutica.* RC+ RP+RM ** RC=RC, (IF-); qRC=RC (IF+) NA= não aplicável, NE =não estimado
+ No ensaio de Fase II, doentes que não obtiveram uma resposta óptima à monoterapia com VELCADE, foram autorizados a receber dexametasona em doses elevadas, em associação com VELCADE (ver Quadro 9). O protocolo permitia aos doentes receberem dexametasona se não tivessem uma resposta
+ 18 óptima a VELCADE em monoterapia. A dexametasona em associação com VELCADE foi administrada num total de 74 doentes. Dezoito por cento dos doentes tiveram uma resposta melhorada (RM (11%) ou RP (7% )) com a terapêutica associada.
+ 5.2 Propriedades farmacocinéticas Após administração intravenosa em bólus de uma dose de 1,0 mg/m2 e de 1,3 mg/m2 a 11 doentes com mieloma múltiplo e com valores de creatinina superiores a 50 ml/min, a média das concentrações plasmáticas máximas da primeira dose de bortezomib foram de 57 e 112 ng/ml, respectivamente. Em doses subsequentes, a média das concentrações plasmáticas máximas observadas foram de 67 a 106 ng/ml para a dose de 1,0 mg/m2 e 89 a 120 ng/ml, para a dose de 1,3 mg/m2.
+ Distribuição A média do volume de distribuição (Vd) de bortezomib variou de 1659 l a 3294 l após administração de uma dose única ou repetidas de 1,0 mg/m2 ou 1,3 mg/m2 em doentes com mieloma múltiplo. Isto sugere que o bortezomib se distribui mais nos tecidos periféricos. Num intervalo de concentração de bortezomib de 0,01 a 1,0 μg/ml, a ligação proteica média in vitro foi de 82,9% no plasma humano. A fracção de bortezomib ligado às proteínas plasmáticas não foi dependente da concentração.
+ Metabolismo Estudos in vitro em microssomas hepaticos humanos e isoenzimas humanas do citocromo P450 expressos em cDNA, indicam que o bortezomib é primáriamente metabolizado por oxidação, via enzimas do citocromo P450, 3A4, 2C19 e 1A2. A via metabólica major é a deboronização para formar dois metabolitos deboronados, que subsequentemente sofrem hidroxilação formando vários metabolitos. Os metabolitos deboronados de bortezomib são inactivos como inibidores do proteosoma 26S.
+ Eliminação A média da semivida de eliminação de bortezomib após doses múltiplas variou de 40-193 horas. Bortezomib é eliminado mais rapidamente após a primeira dose comparativamente a doses subsequentes. A média de depurações corporais totais foram de 102 e 112 l/h após a primeira dose para doses de 1,0 mg/m2 e 1,3 mg/m2, respectivamente e variam de 15 a 32 l/h e 18 a 32 l/h após doses subsequentes para doses de 1,0 mg/m2 e 1,3 mg/m2, respectivamente.
+ Populações especiais Compromisso hepático Até à data não foram realizados estudos formais em doentes com compromisso hepático grave (ver secção 4.4). Na ausência de dados, VELCADE é contra-indicado em doentes com compromisso hepático grave (ver secção 4.3).
+ Compromisso renal O estudo farmacocinético foi conduzido em doentes com vários graus de compromisso renal, que foram classificados de acordo com os respectivos valores de depuração da creatinina (ClCr), nos seguintes grupos: Normal (ClCr ≥ 60 ml/min/1,73 m2, n=12), Ligeiro (ClCr= 40-59 ml/min/1,73 m2, n=10), Moderado (ClCr= 20-39 ml/min/1,73 m2, n=9) e Grave (ClCr &lt; 20 ml/min/1,73 m2, n=3). Foi também incluído no estudo um grupo de doentes em diálise, nos quais a administração do tratamento foi feita após a diálise (n=8). VELCADE foi administrado por via intravenosa, duas vezes por semana, em doses de 0,7 a 1,3 mg/m2. A exposição ao VELCADE (AUC dose normalizada e Cmáx) foi comparável entre todos os grupos (ver secção 4.2).
+ 19 5.3 Dados de segurança pré-clínica
+ O bortezomib apresentou actividade clastogénica positiva (aberrações estruturais cromossómicas) em ensaios de aberração cromossómica in vitro usando células de ovário de hamster chinês (OHC) em concentrações tão baixas como 3,125 μg/ml, a menor concentração avaliada. O bortezomib não foi genotóxico quando testado em ensaios de mutagenicidade in vitro (teste de Ames) e em ensaio de micronúcleos in vivo em ratinhos.
+ Estudos de toxicidade de desenvolvimento no rato e coelho mostraram letalidade embrionária e fetal em doses tóxicas maternas, mas nenhuma toxicidade directa embrionária e fetal foi demonstrada em doses inferiores às doses tóxicas maternas. Não foram realizados estudos de fertilidade, mas a avaliação dos tecidos reprodutivos foi realizada nos estudos de toxicidade geral. No estudo de 6 meses no rato, foram observados efeitos degenerativos nos testículos e nos ovários. É, por isso, provável que o bortezomib possa ter efeito potencial na fertilidade quer no sexo masculino, quer no sexo feminino. Não foram realizados estudos de desenvolvimento peri-e pós-natal.
+ Em estudos gerais de avaliação de toxicidade em ciclos múltiplos realizados no rato e macaco, os principais orgãos-alvo incluíram o tracto gastrointestinal, resultando em vómitos e/ou diarreia, tecidos hematopoiéticos e linfáticos, resultando em citopénias sanguíneas periféricas, atrofia do tecido linfóide e hipocelularidade hematopoiética da medula óssea; neuropatia periférica (observada nos macacos, ratinhos e cães) envolvendo axónios do nervo sensitivo e alterações renais ligeiras. Todos estes orgãos-alvo mostraram recuperação parcial a completa após a descontinuação do tratamento.
+ Com base nos estudos em animais a penetração do bortezomib através da barreira hemato-encefálica parece ser limitada, e desconhece-se a relevância destes dados para os seres humanos.
+ Estudos farmacológicos de segurança cardiovascular em macacos e cães demonstraram que doses intravenosas correspondendo a, aproximadamente, o dobro ou triplo da dose clínica recomendada em mg/m2 estão associadas a aumento da frequência cardíaca, diminuição da contractilidade, hipotensão e morte. Nos cães, a diminuição da contractilidade cardíaca e hipotensão responderam a uma intervenção aguda com agentes ionotrópico positivo ou pressores. Nos estudos em cães, foi ainda observado um aumento ligeiro do intervalo QT corrigido.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1. Lista dos excipientes Manitol (E 421) Azoto. 6.2 Incompatibilidades Este medicamento não deve ser misturado com outros medicamentos, excepto os mencionados na secção 6.6.
+ 6.3 Prazo de validade 3 anos. Solução reconstituída A solução reconstituída deve ser utilizada imediatamente após a preparação. Se a solução reconstituída não for utilizada imediatamente, o tempo durante o qual é guardada e as condições de armazenamento antes da utilização são da responsabilidade do utilizador. No entanto, foi demonstrada estabilidade química e física da solução reconstituída durante 8 horas a 25ºC, conservado no frasco para injectáveis de origem e/ou seringa antes da administração, com um máximo de 8 horas na seringa.
+ 20 6.4 Precauções especiais de conservação
+ Não conservar acima de 30°C. Conserve o frasco para injectáveis na embalagem exterior de maneira a proteger da luz.
+ Para as condições de conservação do medicamento reconstituído, ver secção 6.3.
+ 6.5 Natureza e conteúdo do recipiente Frasco para injectáveis de vidro de tipo 1, de 5 ml, com tampa de bromobutil cinzenta e um selo de alumínio, com uma tampa verde.
+ O frasco para injectáveis está contido numa embalagem de blister transparente, consistindo num alvéolo com tampa.
+ Cada embalagem contém um frasco para injectáveis para administração única.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ Precauções gerais O bortezomib é um agente citotóxico. Por isso, recomenda-se precaução durante o manuseamento e a preparação de VELCADE. Recomenda-se o uso de luvas e outra roupa de protecção para evitar contacto com a pele.
+ A técnica asséptica deve ser estritamente observada durante o manuseamento de VELCADE, dado que não contém nenhum conservante.
+ Instruções para a reconstituição Cada frasco para injectáveis deve ser reconstituído com 1 ml de cloreto de sódio a 9 mg/ml (0,9%) para injectável. A dissolução do pó liofilizado está completa em menos de 2 minutos.
+ Após a reconstituição, cada ml de solução contém 1 mg de bortezomib. A solução reconstituída é clara e incolor, com um pH final de 4 a 7. A solução reconstituída deve ser inspeccionada visualmente quanto à presença de partículas e descoloração previamente à administração. Se for observada qualquer descoloração ou partículas, a solução reconstituída deve ser rejeitada.
+ Eliminação Apenas para administração única. Qualquer produto não utilizado ou desperdício deve ser eliminado de acordo com os requisitos locais.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ JANSSEN-CILAG INTERNATIONAL NV Turnhoutseweg,30, B-2340 Beerse Bélgica
+ 8. NÚMERO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/04/274/002 21 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 26/04/2004 Data da última renovação:
+ 10. DATA DA REVISÃO DO TEXTO 22 1. NOME DO MEDICAMENTO
+ VELCADE 3,5 mg pó para solução injectável.
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada frasco para injectáveis contém 3,5 mg de bortezomib (como éster borónico manitol).
+ Após reconstituição,1 ml de solução injectável contém 1 mg de bortezomib.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Pó para solução injectável. Massa ou pó branco a esbranquiçado. 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas VELCADE em associação com melfalano e prednisona é indicado no tratamento de doentes com mieloma múltiplo não tratados previamente e que não sejam elegíveis para quimioterapia em alta dose com transplante de medula óssea.
+ VELCADE é indicado no tratamento em monoterapia de doentes com mieloma múltiplo em progressão que tenham recebido pelo menos 1 terapêutica prévia e que já tenham sido sujeitos ou que não sejam elegíveis para transplante de medula óssea.
+ 4.2 Posologia e modo de administração O tratamento deve ser iniciado e administrado sob a supervisão de um médico qualificado e experiente no uso de agentes quimioterapêuticos.
+ Posologia para monoterapia A dose inicial recomendada de bortezomib é de 1,3 mg/m2 de área de superfície corporal, duas vezes por semana, durante duas semanas (dias 1,4,8 e 11), seguida por um período de 10 dias de repouso (dias 12-21). Este período de três semanas é considerado um ciclo de tratamento. Devem decorrer pelo menos 72 horas entre doses consecutivas de VELCADE.
+ É recomendado que os doentes com uma resposta completa confirmada recebam dois ciclos adicionais de VELCADE depois da confirmação. É também recomendado que os doentes que respondam ao tratamento e que não tenham alcançado uma remissão completa recebam um total de 8 ciclos de tratamento de VELCADE.
+ Actualmente há dados limitados no que diz respeito à repetição do tratamento com VELCADE.
+ Ajustes posológicos durante o tratamento e o reinício do tratamento para monoterapia
+ O tratamento com VELCADE deve ser interrompido perante o início de qualquer toxicidade não-hematológica de Grau 3 ou qualquer toxicidade hematológica de Grau 4, excluindo neuropatia como mencionado de seguida (ver também secção 4.4). Uma vez resolvidos os sintomas de toxicidade, o 23 tratamento com VELCADE pode ser reiniciado com uma redução de dose de 25% (redução de 1,3 mg/m2 para 1,0 mg/m2; redução de 1,0 mg/m2 para 0,7 mg/m2). Se a toxicidade não desaparecer ou se recorrer com dose mais reduzida, deve ser considerada a descontinuação do tratamento com VELCADE a menos que o benefício do tratamento supere claramente o risco.
+ Os doentes que apresentem dor neuropática e/ou neuropatia periférica relacionada com bortezomib deverão ser tratados como descrito no Quadro 1 (ver secção 4.4). Doentes com neuropatia preexistente grave devem ser tratados com VELCADE apenas após uma avaliação cuidadosa da relação benefício/risco.
+ Quadro 1: Modificações da posologia recomendada* para neuropatia relacionada com bortezomib Gravidade da neuropatia periférica Grau 1 (parestesia, fraqueza e/ou perda de reflexos) sem dor ou perda de função Grau 1 com dor ou Grau 2 (interferência na função mas não com as actividades da vida diária)
+ Modificação da posologia Nenhuma acção Reduzir para 1,0 mg/m2
+ Grau 2 com dor ou Grau 3 (interferência no desempenho das actividades da vida diária)
+ Interromper o tratamento com VELCADE até desaparecerem os sintomas de toxicidade. Quando a toxicidade desaparecer, reiniciar o tratamento com VELCADE, reduzir a dose para 0,7 mg/m2 e alterar o regime posológico para uma vez por semana.
+ Grau 4 (neuropatia sensitiva que é Descontinuar VELCADE incapacitante ou neuropatia motora que coloca a vida em risco ou leva a paralisia) e/ou neuropatia autonómica intensa* Baseado nas modificações de posologia em estudos de Fase II e III de mieloma múltiplo e experiência pós-comercialização.
+ Doentes pediátricos VELCADE não se destina a ser administrado a crianças com menos de 18 anos de idade, devido à falta de dados de segurança e eficácia (ver secções 5.1 e 5.2).
+ Doentes idosos Não há evidência que sugira a necessidade de ajuste posológico em doentes com mais de 65 anos (ver secção 4.8).
+ Compromisso renal A farmacocinética de bortezomib não é influenciada em doentes com compromisso renal ligeiro a moderado[ ClCr (depuração da creatinina) &gt; 20 ml/min/1,73 m2]; por isso, não são necessários ajustes posológicos nestes doentes. É desconhecido se a farmacocinética do bortezomib é influenciada em doentes com compromisso renal grave, que não estão em diálise (ClCr &lt; 20 ml/min/1,73 m2). Uma vez que a diálise pode reduzir as concentrações do bortezomib, VELCADE deve ser administrado após o procedimento de diálise (ver secção 5.2).
+ Compromisso hepático VELCADE não foi estudado em doentes com compromisso hepático. Um compromisso hepático significativo pode ter um impacto na eliminação do bortezomib e pode aumentar a probabilidade de interacções com outras substâncias activas. Doentes com compromisso hepático devem ser tratados com extrema precaução, devendo ser considerada uma redução da dose (ver secção 4.3 e 4.4).
+ Posologia para o tratamento em associação
+ 24 VELCADE (bortezomib) é administrado em associação com melfalano oral e prednisona oral para nove ciclos de tratamento de 6 semanas como apresentado no Quadro 2. Nos Ciclos 1-4, VELCADE é administrado duas vezes por semana (dias 1,4,8,11,22,25,29 e 32). Nos Ciclos 5-9, VELCADE é administrado uma vez por semana (dias 1,8,22 e 29). Melfalano e prednisona devem ser ambos administrados oralmente nos dias 1,2,3 e 4 da primeira semana de cada ciclo.
+ Quadro 2-Regime posológico recomendado de VELCADE em associação com melfalano e prednisona em doentes que não tenham sido sujeitos a tratamento prévio para o mieloma múltiplo. VELCADE duas vezes por semana (Ciclos 1-4)
+ Semana 1 2 3 4 5 6 Dia ----
+ Dia Dia Dia Período Dia Dia Dia Dia Período Vc ( 1.3 mg/m2) 1 4 8 11 de
+ 22 25 29 32 de
+ descanso
+ descanso
+ m(9 mg/m2)
+ Dia Dia Dia Dia ----
+ Período ------ --
+ Período 2 1 2 3 4 de
+ de
+ p(60 mg/m)
+ VELCADE uma vez por semana (Ciclos descanso 5-9)
+ descanso
+ Semana 1 2 3 4 5 6 Dia ------
+ Dia Período Dia Dia Período de Vc ( 1.3 mg/m2) 1 8 de descanso 22 29 descanso
+ m(9 mg/m2)
+ Dia Dia Dia Dia --
+ Período ---- Período de 2 1 2 3 4 de
+ descanso
+ p(60 mg/m) descanso Vc= VELCADE; m= melfalano, p=prednisona
+ Ajustes posológicos Alteração da dose e reinício do tratamento quando VELCADE é administrado em associação com melfalano e prednisona.
+ Antes de iniciar um novo ciclo de tratamento: Contagens de plaquetas devem apresentar valores ≥70 x 109/l e o número absoluto de • neutrófilos deve ser ≥1,0 x 109/l.
+ •
+ As toxicidades não hematológicas devem ser resolvidas para o Grau 1 ou valores iniciais.
+ Quadro 3-Modificações posológicas durante ciclos subsequentes: Toxicidade
+ Modificação da posologia ou atraso Toxicidade hematológica durante o ciclo • Se forem observadas neutropénia, ou trombocitopénia prolongada de grau 4 ou trombocitopénia com hemorragia no ciclo anterior. Se a contagem das plaquetas for ≤30 × 109/l ou
+ Considerar redução da dose em 25% de melfalano no ciclo seguinte.
+ • ANC ≤0,75 x 109/l no dia de administração de VELCADE (excepto no dia 1).
+ O tratamento com VELCADE deve ser interrompida.
+ • Se várias doses de VELCADE num ciclo são interrompidas (≥ 3 doses durante a administração duas vezes por semana ou ≥ 2 doses durante a administração semanal)
+ A dose de VELCADE deve ser reduzida num nível (de 1,3 mg/m2 para 1 mg/m2 ou de 1 mg/m2 para 0,7 mg/m2)
+ 25 Toxicidade
+ Modificação da posologia ou atraso Grau ≥ 3 toxicidade não hematológica. Interromper o tratamento com VELCADE até serem resolvidos os sintomas de toxicidade para Grau 1 ou para valores basais. Posteriormente, VELCADE pode ser reiniciado com uma redução num nível de dose (de 1,3 mg/m2 para 1 mg/m2 ou de 1 mg/m2 para 0,7 mg/m2). Para dor neuropática relacionada com VELCADE e/ou neuropatia periférica, interromper e/ou modificar a dose de VELCADE como descrito no Quadro 1.
+ Para informações adicionais sobre melfalano e prednisona, consultar os respectivos Resumo das Características do Medicamento.
+ Modo de administração: A solução reconstituída é administrada em bólus intravenoso, durante 3-5 segundos, através de um catéter periférico ou central intravenoso seguido por uma lavagem com uma solução cloreto de sódio a 9 mg/ml (0,9%) para injectáveis.
+ 4.3 Contra-indicações Hipersensibilidade ao bortezomib, boro ou a qualquer um dos excipientes. Compromisso hepático (ver secção 4.4). Doença pulmonar aguda difusa infiltrativa e doença pericárdica.
+ 4.4 Advertências e precauções especiais de utilização
+ Toxicidade gastrointestinal A toxicidade gastrointestinal, incluindo náusea, diarreia, vómitos e obstipação, é muito frequente com o tratamento com VELCADE. Foram notificados raramente casos de íleos (ver secção 4.8), pelo que os doentes que apresentem obstipação devem ser cuidadosamente monitorizados.
+ Toxicidade hematológica O tratamento com VELCADE é muito frequentemente associado com toxicidade hematológica (trombocitopenia, neutropenia e anemia). A manifestação mais frequente de toxicidade hematológica é trombocitopenia transitória. O nível mais baixo de plaquetas foi alcançado no dia 11 de cada ciclo de tratamento com VELCADE. Não houve evidência de trombocitopenia cumulativa, incluindo no estudo de extensão de Fase II. O valor mais baixo da mediana da contagem de plaquetas foi de aproximadamente 40% do valor basal. Em doentes com mieloma avançado a gravidade da trombocitopenia foi relacionada com a contagem de plaquetas anterior ao tratamento: para valores basais de plaquetas &lt; 75 000/μl,90% dos 21 doentes apresentaram uma contagem de plaquetas ≤25 000/μl durante o estudo, incluindo 14% com contagem &lt; 10 000/μl; em contraste, para valores basais de plaquetas &gt; 75 000/μl, apenas 14% dos 309 doentes apresentaram uma contagem de plaquetas ≤25x109/l durante o estudo. A contagem de plaquetas deve ser monitorizada antes da administração de cada dose de VELCADE. A terapêutica deve ser descontinuada quando a contagem de plaquetas é &lt; 25 000/μl e reiniciada com uma dose reduzida após restabelecimento (ver secção 4.2). Os benefícios potenciais do tratamento devem ser cuidadosamente ponderados em relação aos riscos, particularmente em casos de trombocitopenia moderada a grave e factores de risco para hemorragia.
+ Assim, o hemograma completo, incluindo contagem de plaquetas, deverá ser monitorizado frequentemente durante o tratamento com VELCADE.
+ Neuropatia periférica 26 O tratamento com VELCADE é muito frequentemente associado a neuropatia periférica, que é predominantemente sensitiva. No entanto, foram notificados casos de neuropatia motora grave com ou sem neuropatia periférica sensitiva. A incidência de neuropatia periférica aumenta no início do tratamento e a sua incidência máxima foi observada durante o quinto ciclo.
+ Recomenda-se que os doentes sejam cuidadosamente monitorizados em relação aos sintomas de neuropatia, tais como a sensação de queimadura, hiperestesia, hipoestesia, parestesia, desconforto dor neuropática ou falta de forças. Doentes que experimentem novo episódio ou agravamento da neuropatia periférica devem ter seguimento da avaliação neurológica e podem necessitar de alterações na dose e no esquema posológico de VELCADE (ver secção 4.2). A neuropatia tem sido tratada com cuidados de suporte e outras terapêuticas. A melhoria ou resolução da neuropatia periférica foi relatada em 51% dos doentes com neuropatia periférica ≥ Grau 2 no estudo de Fase III de mieloma múltiplo com um único agente, e em 71% dos doentes com neuropatia periférica de Graus 3 ou 4, ou neuropatia periférica que conduziu à descontinuação do tratamento, em estudos de Fase II.
+ Para além da neuropatia periférica, a neuropatia autónoma poderá também contribuir para algumas destas reacções adversas, tais como hipotensão postural e obstipação grave com íleos. A informação relativa à neuropatia autónoma e a sua contribuição para estes efeitos indesejáveis é limitada.
+ Convulsões As convulsões foram descritas pouco frequentemente em doentes sem história prévia de convulsões ou epilepsia. Deve-se ter cuidado especial ao tratar doentes com quaisquer factores de risco para convulsões.
+ Hipotensão O tratamento com VELCADE está frequentemente associado a hipotensão ortostática/postural. A maioria dos efeitos indesejáveis são de natureza ligeira a moderada e são observados ao longo do tratamento. Os doentes que desenvolveram hipotensão ortostática com VELCADE não apresentavam evidência de hipotensão ortostática antes do tratamento com VELCADE. A maioria dos doentes necessitaram de tratamento para a sua hipotensão ortostática. Uma minoria dos doentes com hipotensão ortostática experimentaram síncope. A hipotensão ortostática/postural não foi relacionada de forma aguda com a perfusão em bólus de VELCADE. O mecanismo deste acontecimento é desconhecido embora um dos componentes possa estar associado à neuropatia autónoma. A neuropatia autónoma pode estar relacionada com o bortezomib ou o bortezomib pode agravar uma condição subjacente como a neuropatia diabética ou neuropatia amiloidótica. É aconselhada precaução em doentes com história de síncope a tomarem medicação que possa estar associada a hipotensão; ou em doentes desidratados devido a diarreias ou vómitos recorrentes. O tratamento da hipotensão ortostática/postural pode incluir ajuste de medicamentos anti-hipertensores, rehidratação ou administração de mineralocorticóides e/ou simpaticomiméticos. Os doentes devem ser instruídos a obterem aconselhamento médico no caso de apresentarem tonturas, atordoamento ou sensação de desmaio.
+ Insuficiência cardíaca Foram descritas situações de desenvolvimento agudo ou agravamento de insuficiência cardíaca congestiva, e/ou novos sintomas relacionados com diminuição da fracção de ejecção do ventrículo esquerdo durante o tratamento com bortezomib. No estudo comparativo, aleatorizado, de Fase III com um único agente, a incidência de insuficiência cardíaca no grupo tratado com VELCADE foi semelhante à do grupo de dexametasona. A retenção de líquidos pode ser um factor predisponente para os sinais e sintomas da insuficiência cardíaca. Doentes com factores de risco ou doença cardíaca devem ser cuidadosamente monitorizados.
+ Exames complementares de diagnóstico-Electrocardiograma
+ 27 Em ensaios clínicos, ocorreram casos isolados de prolongamento do intervalo QT cuja causalidade não foi estabelecida.
+ Doenças pulmonares Foram notificados raros casos de doença pulmonar aguda difusa infiltrativa de etiologia desconhecida tais como pneumonite, pneumonia intersticial, infiltração pulmonar e síndrome de dificuldade respiratória aguda (SDRA) em doentes a receber tratamento com VELCADE (ver secção 4.8). Alguns destes acontecimentos foram fatais. Antes de iniciar o tratamento, é recomendado o estudo radiológico do tórax, por forma a avaliar a necessidade de realização de exames de diagnóstico complementares, e para servir de base à monitorização de potenciais alterações pulmonares após o tratamento.
+ No caso de novos sintomas pulmonares ou agravamento dos mesmos (por exemplo, tosse, dispneia), deve-se realizar prontamente uma avaliação do diagnóstico e os doentes devem ser tratados adequadamente. Deverá ser avaliada a relação benefício/risco antes da continuação do tratamento com VELCADE.
+ Num ensaio clínico, dois doentes (no total de 2) a receberem tratamento com dose elevada de citarabina (2 g/m2 por dia) por perfusão contínua durante 24 horas associada a daunorubicina e VELCADE, para leucemia mielóide aguda em recaída morreram prematuramente e o estudo foi terminado. Assim não é recomendado este regime específico com administração concomitante de uma dose elevada de citarabina (2 g/m2 por dia) por perfusão contínua, durante 24 horas.
+ Compromisso renal As complicações renais são frequentes em doentes com mieloma múltiplo. Estes doentes devem ser cuidadosamente monitorizados (ver secções 4.2 e 5.2).
+ Compromisso hepático Doentes com compromisso hepático devem ser tratados com extrema precaução e deve ser considerada uma redução da dose (ver secções 4.2, 4.3 e 5.2).
+ Reacções Hepáticas Foram notificados casos raros de insuficiência hepática aguda em doentes a receber medicação concomitante múltipla e com condições médicas subjacentes graves. Outras reacções hepáticas relatadas incluem aumento das enzimas hepáticas, hiperbilirrubinémia, e hepatite. Estas alterações podem ser reversíveis após descontinuação de bortezomib (ver secção 4.8).
+ Síndrome de lise tumoral Devido ao facto do bortezomib ser um agente citotóxico e poder matar rapidamente os plasmócitos malignos, podem ocorrer as complicações da síndrome de lise tumoral. Os doentes em risco de síndrome de lise tumoral são aqueles que apresentam elevada carga tumoral antes do tratamento. Estes doentes devem ser cuidadosamente monitorizados e tomadas precauções apropriadas.
+ Amiloidose Desconhece-se o impacto da inibição do proteosoma pelo bortezomib em doenças associadas à acumulação de proteínas, tais como a amiloidose. Nestes doentes recomenda-se precaução.
+ Medicamentos concomitantes Os doentes devem ser cuidadosamente monitorizados quando o bortezomib for administrado em associação com inibidores potentes do CYP3A4. Recomenda-se precaução quando o bortezomib é associado a substractos do CYP3A4 e CYP2C19 (ver secção 4.5). 28 Em doentes tratados com hipoglicemiantes orais recomenda-se precaução devendo ser confirmada a normalidade da função hepática (ver secção 4.5).
+ Reacções potencialmente mediadas por imunocomplexos
+ Reacções potencialmente mediadas por imunocomplexos, tais como reacção de tipo doença do soro, poliartrite com erupção cutânea e glomerulonefrite proliferativa foram relatadas pouco frequentemente. Se ocorrerem reacções graves, o Bortezomib deve ser descontinuado.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Os estudos in vitro indicam que o bortezomib é um inibidor fraco das isoenzimas 1A2, 2C9, 2C19, 2D6 e 3A4 do citocromo P450 (CYP). Com base na contribuição limitada (7%) do CYP2D6 para o metabolismo do bortezomib, não é esperado que o fenotipo de metabolizador lento CYP2D6 afecte a eliminação total do bortezomib.
+ Um estudo de interacção baseado em dados de 12 doentes, que avaliou o efeito do cetoconazol, um inibidor potente do CYP3A4, mostrou um aumento da média da AUC de bortezomib em 35% (CI90%[ 1,032 a 1,772]). Como tal, os doentes devem ser cuidadosamente monitorizados quando o bortezomib for administrado em associação a inibidores potentes do CYP3A4 (ex.: cetoconazol, ritonavir).
+ Num estudo de interacção baseado em dados de 17 doentes, que avaliou o efeito do omeprazol, um inibidor potente do CYP2C19, não se demonstrou efeito significativo na farmacocinética de bortezomib.
+ Os doentes devem ser cuidadosamente monitorizados quando o bortezomib for administrado em associação a inibidores do CYP2C19 (ex.: fluoxetina).
+ Na ausência de estudos de interacção, investigando o efeito dos indutores do CYP3A4 na farmacocinética de bortezomib, os doentes devem ser cuidadosamente monitorizados quando bortezomib for administrado em associação a indutores potentes do CYP3A4 (ex.: rifampicina).
+ Um estudo de interacção, que avaliou o efeito de melfalano-prednisona no bortezomib, baseado em dados de 21 doentes demonstrou um aumento de 17% na média da AUC de bortezomib. Este resultado não é considerado clinicamente relevante.
+ Durante os ensaios clínicos, foram notificados pouco frequentemente e frequentemente casos de hipoglicemia e hiperglicemia em doentes diabéticos que estavam a tomar hipoglicemiantes orais. Doentes sob tratamento com antidiabéticos orais e tratados com VELCADE podem necessitar de monitorização cuidadosa dos seus níveis de glucose no sangue e de ajuste de dose dos antidiabéticos.
+ 4.6 Gravidez e aleitamento O potencial teratogénico do bortezomib não está totalmente investigado.
+ Nos estudos não clínicos, o bortezomib não teve efeitos no desenvolvimento embrionário e fetal dos ratos e coelhos, nas doses maternas toleradas mais elevadas. Não foram efectuados estudos em animais para avaliar os efeitos de bortezomib no parto e o desenvolvimento pós-natal (ver secção 5.3). VELCADE não deverá ser utilizado durante a gravidez, a menos que tal seja claramente necessário.
+ No que respeita a VELCADE, não existem dados clínicos sobre as gravidezes a ele expostas. Homens e mulheres em idade fértil têm de utilizar medidas contraceptivas eficazes durante o tratamento e nos 3 meses após o tratamento com VELCADE. Se VELCADE for administrado durante a gravidez, ou se a doente engravidar enquanto estiver a tomar este medicamento, deverá ser informada sobre os potenciais perigos para o feto.
+ 29 Não é conhecido se o bortezomib é excretado no leite materno. Devido ao potencial para efeitos indesejáveis graves de VELCADE nos lactentes, o aleitamento deverá ser descontinuado, durante o tratamento com VELCADE.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ VELCADE pode ter uma influência moderada na capacidade de conduzir e utilizar máquinas. VELCADE pode estar associado muito frequentemente a fadiga, frequentemente a tonturas, pouco frequentemente a síncope e frequentemente a hipotensão ortostática/postural ou a visão turva. Portanto, os doentes devem ter cautela quando manobrarem com máquinas ou quando conduzirem veículos (ver secção 4.8).
+ 4.8 Efeitos indesejáveis Os seguintes efeitos indesejáveis foram considerados, pelos investigadores, como tendo pelo menos uma relação causal possível ou provável com VELCADE, durante 5 estudos clínicos não comparativos de fase II e o estudo clínico de Fase III, internacional, aleatorizado, controlado e comparativo de VELCADE vs. dexametasona, realizado em 663 doentes com mieloma múltiplo em recaída ou refractário, dos quais 331 receberam VELCADE, em monoterapia. A base de dados de segurança compreende dados de doentes com mieloma múltiplo ou leucemia linfocítica crónica das células B (LLC). Os doentes foram tratados com VELCADE, em monoterapia ou em associação com a dexametasona.
+ As reacções adversas estão listadas abaixo por classe de sistemas de órgãos e agrupadas por frequência. As frequências estão definidas como: muito frequentes (≥1/10), frequentes (≥ 1/100 a &lt; 1/10), pouco frequentes (≥1/1000 a &lt; 1/100), raros (≥1/10000 a &lt; 1/1000), muito raros (&lt; 1/10000) e desconhecido (não pode ser estimado a partir dos dados disponíveis) incluindo comunicações isoladas.
+ Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ Quadro 4: Reacções adversas em doentes com mieloma múltiplo em recaída ou refractário Infecções e infestações Muito frequentes: herpes zóster (incluindo infecção disseminada) Frequentes: pneumonia, bronquite, sinusite, nasofaringite, herpes simplex. Pouco frequentes: Sepsis, bacteriémia, pneumonia pneumocócica, broncopneumonia, infecção do tracto respiratório superior e inferior, infecção associada a catéter, infecção pleural, infecção por Haemophilus, infecção por citomegalovirus, influenza, mononucleose infecciosa, varicela, infecção do tracto urinário, gastrenterite infecção por Candida, infecção fúngica, nevralgia pós-herpética, candidiase oral, blefarite, infecção. Neoplasias benignas e malignas (incluindo quistos e polipos) Pouco frequentes: síndrome de lise tumoral (ver secção 4.4).
+ Doenças do sangue e do sistema linfático (ver secção 4.4) Muito frequentes: trombocitopenia, neutropenia, anemia. Frequentes: leucopenia, linfopenia. Pouco frequentes: pancitopenia, neutropenia febril, anemia hemolítica, purpura trombocitopénica, linfadenopatia.
+ Doenças do sistema imunitário Pouco frequentes: hipersensibilidade, hipersensibilidade mediada por imunocomplexos, reacções potencialmente mediadas por imunocomplexos, tais como reacção de tipo doença do soro, poliartrite com erupção cutânea e glomerulonefrite proliferativa (ver secção 4.4).
+ Doenças endócrinas Pouco frequentes: secreção inapropriada de hormona antidiurética (HAD). 30 Doenças do metabolismo e da nutrição Muito frequentes: diminuição do apetite. Frequentes: desidratação, hipocaliemia, hiperglicemia. Pouco frequentes: hipercaliemia, caquexia, hipercalcemia, hipocalcemia, hipernatremia, hiponatremia, hipoglicemia, hiperuricemia, deficiência de vitamina B12, aumento do apetite, hipomagnesemia, hipofosfatemia.
+ Perturbações do foro psiquiátrico Frequentes: confusão, depressão, insónia, ansiedade. Pouco frequentes: agitação, delírio, alucinações, inquietação, variações de humor, alterações do estado mental, alterações do sono, irritabilidade, sonhos anormais.
+ Doenças do sistema nervoso (ver secções 4.4 e 4.7) Muito frequentes: neuropatia periférica, neuropatia periférica sensitiva (ver secção 4.4), parestesia, cefaleias. Frequentes: polineuropatia, agravamento de neuropatia periférica, tonturas (excluindo vertigens), disgeusia, disestesia, hipostesia, tremor. Pouco frequentes: paraplegia, hemorragia intracraneana, hemorragia subaracnoidea, convulsões (ver secção 4.4), neuropatia periférica motora, síncope, paresia, perturbação da atenção, aumento da actividade, ageusia, sonolência, enxaqueca, alterações cognitivas, movimentos não controlados, tonturas posturais, ciática, mononeuropatia, alterações no discurso, síndroma de pernas cansadas.
+ Afecções oculares Frequentes: visão turva (ver secção 4.7), dor ocular. Pouco frequentes: hemorragia ocular, visão anormal, xeroftalmia, conjuntivite, lacrimejo, fotofobia, irritação ocular, aumento do lacrimejo, hiperémia conjuntival, olhos inchados.
+ Afecções do ouvido e do labirinto Frequentes: tonturas. Pouco frequentes: surdez, acufenos, hipoacúsia, alterações na audição.
+ Cardiopatias Pouco frequentes: paragem cardíaca, choque cardiogénico, enfarte do miocárdio, angina de peito, angina instável, desenvolvimento ou exacerbação de insuficiênca cardíaca congestiva (ver secção 4.4), insuficiência cardíaca, hipocinésia ventricular, edema pulmonar e edema agudo do pulmão, paragem sinusal, bloqueio auriculo-ventricular completo, taquicardia, taquicardia sinusal, taquicardia supraventricular, arritmia, fibrilhação auricular, palpitações. Raros: sintomas de diminuição da fracção de ejecção do ventrículo esquerdo de novo.
+ 31 Vasculopatias Frequentes: hipotensão, hipotensão ortostática e postural (ver secções 4.4 e 4.7), flebite, hematoma, hipertensão. Pouco frequentes: hemorragia cerebral, vasculite, acidente vascular cerebral, hipertensão pulmonar, petéquias, equimose, púrpura, descoloração venosa, distensão venosa, hemorragia de feridaseritema, vermelhidão.
+ Doenças respiratórias, torácicas e do mediastino Muito frequentes: dispneia. Frequentes: dispneia de esforço, epistaxis, tosse, rinorreia. Pouco frequentes: paragem respiratória, hipoxia, congestão pulmonar, derrame pleural, asma, alcalose respiratória, taquipneia, sibilos, congestão nasal, rouquidão, rinite, hiperventilação, ortopneia, toracalgia, dor sinusal, sensação de aperto na garganta, tosse produtiva.
+ Doenças gastrointestinais (ver secção 4.4) Muito frequentes: vómitos, diarreia, náuseas, obstipação. Frequentes: dor abdominal, estomatite, dispepsia, incontinência fecal, dor abdominal superior, flatulência, distensão abdominal, espasmo diafragmático, ulceração oral, dor faringolaríngea, boca seca. Pouco frequentes: pancreatite aguda, íleos paralítico, colite associada a antibióticos, colite, hematemese, diarreia hemorrágica, hemorragia gastrointestinal, hemorragia rectal, enterite, disfagia, desconforto abdominal, eructação, perturbações da motilidade gastrointestinal, dor oral, vómito seco, alterações dos hábitos intestinais, dor no baço, esofagite, gastrite, refluxo gastroesofágico, dor gastrointestinal, hemorragia gengival, dor gengival, hérnia do hiato, síndroma do cólon irritável, petéquias na mucosa oral, hipersecreção salivar, língua saburrosa, língua pálida, oclusão fecal.
+ Afecções hepatobiliares (ver secção 4.4) Pouco frequentes: hepatite, hemorragia hepática, hipoproteinemia, hiperbilirrubinémia.
+ Afecções dos tecidos cutâneos e subcutâneos Muito frequentes: erupção cutânea. Frequentes: edema periorbitário, urticária, erupção cutânea pruriginosa, prurido, eritema, aumento da sudação, pela seca, eczema. Pouco frequentes: erupção cutânea vasculítica, erupção cutânea eritematosa, reacção de fotossensibilidade, contusão, prurido generalizado, erupção cutânea macular, erupção cutânea papular, psoríase, erupção cutânea generalizada, edema das pálpebras, edema da face, dermatite, alopécia, alterações das unhas, palidez da pele, dermatite atópica, alteração na textura do cabelo, erupção cutânea de calor, sudorese nocturna, pressão do soro, ictiose, nódulos cutâneos.
+ Afecções musculosqueléticas, dos tecidos conjuntivos e dos ossos Muito frequentes: mialgias. Frequentes: fraqueza muscular, dores musculoesqueléticas, dor nos membros, cãibras, artralgia, dor óssea, dores nas costas, edema periférico. Pouco frequentes: espasmos musculares, fasciculações musculares ou sensação de peso, rigidez muscular, edema articular, rigidez articular, dor na região glútea, edema, dor no maxilar.
+ Doenças renais e urinárias Frequentes: compromisso renal, disúria. Pouco frequentes: insuficiência renal aguda, insuficiência renal, oliguria, cólica renal, hematúria, proteinúria, retenção urinária, aumento da frequência urinária, dificuldade de micção, cólica renal, incontinência urinária, urgência miccional.
+ Doenças dos órgãos genitais e da mama Pouco frequentes: dor testicular, disfunção eréctil. 32 Perturbações gerais e alterações no local de administração Muito frequente: fadiga (ver secção 4.7), febre. Frequentes: astenia, fraqueza, letargia, arrepios, mal-estar, síndroma gripal, edema periférico, dor torácica, dor, edema. Pouco frequentes: queda, hemorragia das mucosas, inflamação das mucosas, neuralgia, flebite no local de injecção, inflamação relacionada com extravasamento, sensibilidade aumentada, eritema no local de injecção, sensação de frio, sensação de opressão torácica, dor no peito, dor na virilha, sensação de aperto torácico.
+ Exames complementares de diagnósticoFrequentes: diminuição do peso, aumento da desidrogenase láctica sérica. Pouco frequentes: aumento da alanina aminotransferase, aumento da aspartato aminotransferase, aumento da bilirrubina no sangue, aumento da fosfatase alcalina sérica, aumento da creatinina sérica, aumento da ureia sérica, aumento da gama-glutamiltransferase, aumento da amilase sérica, alterações de provas da função hepática, diminuição da contagem de glóbulos vermelhos, diminuição da contagem de glóbulos brancos, diminuição do bicarbonato plasmático, frequência cardíaca irregular, aumento da proteína C reactiva, diminuição do fosfato no sangue, aumento de peso.
+ Complicação de intervenções relacionadas com lesões e intoxicações Pouco frequentes: complicações relacionadas com cateterização, dor após o procedimento, hemorragia após o procedimento, queimaduras.
+ Resumo dos dados de segurança em doentes que não foram sujeitos a nenhum tratamento para o mieloma múltiplo:
+ O quadro seguinte descreve os dados de segurança num estudo prospectivo de fase 3, relativos a 340 doentes em tratamento com VELCADE (1,3 mg/m2) em associação com melfalano (9 mg/m2) e prednisona (60 mg/m2), e que não tinham sido sujeitos a nenhum tratamento prévio para o mieloma múltiplo.
+ Globalmente, o perfil de segurança dos doentes tratados com VELCADE em monoterapia foi semelhante ao observado em doentes tratados com VELCADE em associação com melfalano e prednisona.
+ Quadro 5: Tratamento das reacções adversas emergentes relacionados com o medicamento notificados em ≥ 10% dos doentes tratados com VELCADE em associação com melfalano e prednisona.
+ --------------Vc+M+P --------------(n=340)
+ ----------------M+P ---------------(n=337)
+ Classes de sistemas de órgãos segundo Total Grau de toxicidade, n (%) Total Grau de toxicidade, n (%) a base de dados MedDRA Termos preferenciais Infecções e infestações
+ n (%)
+ 3 ≥4 n (%) 3
+ ≥4
+ Herpes Zoster Doenças do sangue e do sistema linfático
+ 39 (11) 11 (3) 9 (3) 4 (1) Trombocitopénia Neutropénia Anemia Leucopénia Linfopénia Doenças do metabolismo e da nutrição
+ 164 (48) 60 (18) 160 (47) 101 (30) 109 (32) 41 (12) 108 (32) 64 (19) 78 (23) 46 (14)
+ 57 (17) 140 (42) 48 (14) 33 (10) 143 (42) 77 (23) 4 (1) 156 (46) 61 (18) 8 (2) 93 (28) 53 (16) 17 (5) 51 (15) 26 (8)
+ 39 (12) 42 (12) 18 (5) 11 (3) 7 (2)
+ Anorexia 64 (19) 6 (2) 0 19 (6) 0 33 --------------Vc+M+P ------------------------------M+P ---------------
+ (n=340)
+ (n=337)
+ Classes de sistemas de órgãos segundo Total Grau de toxicidade, n (%) Total Grau de toxicidade, n (%) a base de dados MedDRA Termos preferenciais Perturbações do foro psiquiátrico
+ n (%)
+ 3 ≥4 n (%) 3
+ ≥4
+ Insónias Doenças do sistema nervoso
+ 35 (1 0) 1 (&lt; 1) 0 21 (6) 0 Neuropatia periférica 156 (46) 42 (12) 2 (1) 4 (1) Nevralgia Parestesia Doenças gastrointestinais
+ 117 (34) 27 (8) 42 (12) 6 (2)
+ 2 (1) 0 1 (&lt; 1) 4 (1)
+ 0 0 0 0 Náuseas 134 (39) 1 0 (3) 0 70 (21) 1 (&lt; 1) Diarreia 119 (35) 19 (6) 2 (1) 20 (6) 1 (&lt; 1) Vómitos Obstipação Dor do abdómen superior Afecções dos tecidos cutâneos e subcutâneos
+ 87 (26) 77 (23) 34 (10) 13 (4) 2 (1) 1 (&lt; 1) 0 0 0 41 (12) 14 (4) 20 (6) 2 (1) 0 0 0 0 0 Erupção cutânea Perturbações gerais e alterações no local de administração
+ 38 (11) 2 (1) 7 (2) Cansaço Astenia
+ 85 (25) 54 (16) 19 (6) 18 (5) 2 (1) 0 48 (14) 23 (7) 4 (1) 3 (1) 0 0 Pirexia 53 (16) 4 (1) 19 (6) 1 (&lt; 1) 1 (&lt; 1) Reactivação do vírus herpes zoster Num estudo de Fase III em doentes que não foram sujeitos a nenhum tratamento prévio para o mieloma múltiplo,27% dos doentes receberam medicamentos antivirais profilácticos, no braço Vc+M+P. Neste estudo, a reactivação do vírus herpes zoster foi mais frequente nos doentes tratados com Vc+M+P em comparação com M+P (11% vs 3%, respectivamente). Três (3%) dos 91 doentes no grupo de tratamento Vc+M+P, que receberam medicamentos antivirais profilácticos apresentaram reactivação do vírus herpes zoster.
+ Experiência pós-comercialização Reacções adversas clinicamente significativas estão listadas no quadro 6, se foram notificadas durante o uso de VELCADE após aprovação, tendo ou não sido notificadas em ensaios clínicos. A sua frequência é desconhecida.
+ Quadro 6: Reacções adversas dos relatórios de pós-comercialização Infecções e Infestações Desconhecido: Doenças do sistema imunitário
+ Meningoencefalite herpética, choque séptico.
+ Desconhecido: Doenças do sistema nervoso
+ Angioedema Desconhecido: Afecções oculares
+ Encefalopatia, neuropatia autonómica Desconhecido: Cardiopatias
+ Herpes oftálmico Tamponamento cardíaco, pericardite, paragem Desconhecido:
+ cardíaca e cardiopulmonar, arritmias ventriculares, bloqueio aurículo-ventricular
+ Doenças respiratórias, torácicas e do mediastino (ver secção 4.4) Pneumonite, pneumonia, pneumonia intersticial, Desconhecido: Síndrome de Dificuldade Respiratória Aguda 34 (SDRA), doença pulmonar aguda difusa infiltrativa, hipertensão pulmonar, insuficiência respiratória, hemorragia pulmonar alveolar, edema pulmonar agudo, edema pulmonar, embolia pulmonar, embolia periférica Doenças gastrointestinais Desconhecido: Afecções hepatobiliares
+ Colite isquémica Desconhecido: Insuficiência hepática 4.9 Sobredosagem Em doentes, a sobredosagem correspondendo a mais do dobro da dose recomendada tem sido associada ao aparecimento agudo de hipotensão sintomática e trombocitopénia que pode resultar em morte. (Para os estudos farmacológicos de segurança cardiovascular pré-clínica, ver secção 5.3).
+ Não é conhecido nenhum antídoto específico para a sobredosagem com bortezomib. No caso de sobredosagem, os sinais vitais dos doentes devem ser monitorizados e devem ser prestados cuidados de suporte apropriados para manter a tensão arterial (tais como os fluídos, pressores e/ou agentes ionotrópicos) e a temperatura corporal (ver secções 4.2 e 4.4).
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Outros agentes antineoplásicos Código ATC: L01XX32
+ Este medicamento foi sujeito a uma “ Autorização de Introdução no Mercado em “ Circunstâncias excepcionais ”. Isto significa que não foi possível obter informação completa sobre este medicamento por razões científicas. A Agência Europeia de Medicamentos (EMEA) irá rever anualmente qualquer nova informação que possa vir a ser disponibilizada sobre o medicamento e este RCM será actualizado se necessário.
+ Mecanismo de acção O bortezomib é um inibidor dos proteosomas. É especificamente concebido para inibir a actividade do tipo quimiotripsina do proteosoma 26S nas células dos mamíferos. O proteosoma 26S é uma proteína grande e complexa que degrada proteínas ubiquitinadas. O mecanismo de acção da via proteosoma ubiquitina tem um papel essencial na regulação do “ turnover ” de proteínas específicas, desse modo mantendo a homeostasia nas células. A inibição do proteosoma 26S evita a proteólise e afecta múltiplos sinais de cascata dentro da célula, resultando na morte de células cancerígenas.
+ O bortezomib é altamente selectivo para o proteosoma. Em concentrações de 10 μM, o bortezomib não inibe nenhum duma grande variedade de receptores e proteases seleccionadas e é 1500 vezes mais selectivo para o proteosoma do que para a enzima preferida seguinte. As cinéticas da inibição do proteosoma foram avaliadas in vitro, e o bortezomib mostrou dissociar-se do proteosoma com um tempo de semivida de 20 minutos, demonstrando que a inibição do proteosoma pelo bortezomib é reversível.
+ A inibição do proteosoma mediada pelo bortezomib afecta as células malignas de múltiplas formas, incluindo, mas não limitada a alteração das proteínas reguladoras, as quais controlam a progressão do ciclo celular e activação do factor nuclear kappa B (NF-kB). A inibição do proteosoma resulta na paragem do ciclo celular e apoptose. O NF-kB é um factor de transcrição cuja activação é necessária para muitos aspectos da tumorigénese, incluindo o crescimento e sobrevida celular, a angiogénese, as
+ 35 interacções célula-célula, e metastização. No mieloma, o bortezomib afecta a capacidade das células do mieloma para interagir com o microambiente da medula óssea.
+ Experiências têm demonstrado que o bortezomib é citotóxico para diversos tipos de células cancerígenas e que as células cancerígenas são mais sensíveis aos efeitos proapoptóticos da inibição do proteosoma do que as células normais. O bortezomib causa redução do crescimento tumoral in vivo em muitos modelos tumorais pré-clínicos, incluindo mieloma múltiplo.
+ Eficácia clínica em mieloma múltiplo não previamente tratado
+ Um estudo clínico prospectivo de Fase III, internacional, aberto e aleatorizado (1: 1) (VISTA), de 682 doentes foi conduzido para determinar se VELCADE (1,3 mg/m2) em associação com melfalano (9 mg/m2) e prednisona (60 mg/m2) resultou na melhoria do tempo até à progressão (TTP) quando comparado com melfalano (9 mg/m2) e prednisona (60 mg/m2) em doentes sem tratamento prévio para o mieloma múltiplo. O tratamento foi administrado para um máximo de 9 ciclos (aproximadamente 54 semanas) e foi precocemente descontinuado por progressão da doença ou por toxicidade inaceitável. Os dados demográficos e as características dos doentes, na avaliação basal, estão resumidos no Quadro 7.
+ Quadro 7: Resumo das características basais dos doentes e da doença no estudo VISTA Características do doente
+ Vc+M+P n=344 M+P n=338 Mediana da idade em anos (intervalo) Sexo: masculino/feminino
+ 71,0 (57,90) 51%/49% 71,0 (48,91) 49%/51% Raça: Caucasiana/asiática/negro/outras Pontuação do índice de Karnofsky ≤70 Hemoglobina &lt; 100 g/l Contagem de plaquetas &lt; 75 x 109/l Características da doença
+ 88%/10%/1%/1% 35% 37% &lt; 1%
+ 87%/ 11%/33% 36% 1% 2%/0% Tipo de mieloma (%): IgG/IgA/Cadeia leve Mediana da β2 microglobulina (mg/l)
+ 64%/24%/8% 4,2 62%/ 26%/8% 4,3 Mediana da albumina (g/l) 33,0 33,0 Depuração da creatinina ≤30 ml/min[ n (%)]
+ 20 (6%) 16 (5%) Durante uma análise interina pré-planeada, o resultado (endpoint) primário, tempo até à progressão foi alcançado e aos doentes no braço M+P foi oferecida a possibilidade de transitarem para o tratamento com Vc+M+P. A sobrevivência continuou a ser seguida após a análise interina. A média de seguimento foi de 16,3 meses. Os resultados da eficácia estão descritos no Quadro 8.
+ Quadro 8-Resumo das análises de eficácia no estudo VISTA Resultado (endpoint) de eficácia Tempo até à progressão –
+ Vc+M+P n=344 M+P n=338 Acontecimentos n (%) Medianaa (95% IC)
+ 101 (29) 20,7 mo 152 (45) 15,0 mo Risco relativob (17,6, 24,7)
+ 0,54 (14,1, 17,9)
+ (95% IC) Valor p c Sobrevida livre de progressão
+ (0,42, 0,70) 0,000002
+ Acontecimentos n (%) Medianaa (95% IC)
+ 135 (39) 18,3 mo 190 (56) 14,0 mo Risco relativob (16,6, 21,7)
+ 0,61 (11,1, 15,0)
+ (95% IC) Valor p c
+ (0,49, 0,76) 0,00001
+ 36 Resultado (endpoint) de eficácia Sobrevida global
+ Vc+M+P n=344 M+P n=338 Acontecimentos (mortes) n (%) Risco relativob
+ 45 (13) 0,61 76 (23) (95% IC) Valor p c Taxa de resposta populaçãoe n= 668
+ N=337 (0,42, 0,88) 0,00782
+ n=331
+ RCf n (%) 102 (30) 12 (4) RPf n (%) nRC n (%) RC+ RPf n (%) Valor pd Redução da proteína-M sérica populaçãog n=667
+ 136 (40) 5 (1) 238 (71) N=336
+ &lt; 10-10
+ 103 (31) 0 115 (35) n=331 &gt; =90% n (%) Tempo até à primeira resposta em RC+ RP
+ 151 (45) 34 (10) Média Medianaa da duração de resposta
+ 1,4 mo 4,2 mo RCf RC+ RPf Tempo até ao tratamento seguinte
+ 24,0 mo 19,9 mo 12,8 mo 13,1 mo Acontecimentos n (%) Médiaa (95% IC)
+ 73 (21) NE 127 (38) 20,8 mo Risco relativob (26,1, NE)
+ 0,52 (18,3, 28,5)
+ (95% CI) Valor p c a Estimativa Kaplan-Meier. b
+ (0,39, 0,70) 0,000009
+ A estimativa do risco relativo é baseada num modelo de risco propocional
+ de Cox ajustado para
+ factores de estratificação: β2-microglobulina, albumina e região. O risco relativo inferior a 1 é indicativo de uma vantagem para o VMP. c valor p baseado no teste log-rank estratificado ajustado para os factores de estratificação: β2-microglobulina, albumina e região. d Valor p para a taxa de resposta (RC+ RP) do teste chi-quadrado Cochran-Mantel-Haenszel ajustado para os factores de estratificação. e População de resposta inclui doentes com doença mensurável na avaliação basal. f Critério EBMT. g Todos os doentes aleatorizados com doença secretora. NE: Não estimado.
+ Eficácia clínica em mieloma múltiplo em recaída ou refractário
+ A segurança e a eficácia de VELCADE foram avaliadas em 2 estudos, nas doses recomendadas de 1. 3mg/m2: um estudo de Fase III, aleatorizado, comparativo com a dexametasoma (DEX), em 669 doentes com mieloma múltiplo em recaída ou refractário, que tinham recebido 1-3 linhas de terapêutica anteriores, e um ensaio de Fase II, aberto, de braço único, com 202 doentes, com mieloma múltiplo em recaída e refractário, que tinham recebido pelo menos 2 terapêuticas anteriores e apresentavam progressão da doença no seu tratamento mais recente (ver Quadros 9,10 e 11).
+ Quadro 9: Esquemas posológicos dos ensaios de Fase II e III Fase
+ Calendário de tratamento Dose 1.3 mg/m2 (bólus
+ Posologia II Vc: Dias 1,4,8,11 (intervalo dias 12-21)
+ intravenoso) 1.3 mg/m2 (bólus
+ Q3 semanas x 8 ciclos (extensão **) III Vc* a) Dias 1,4,8,11 (intervalo dias 12-21)
+ intravenoso) 37
+ c) Q3 semanas x 8, seguido de
+ b) Dias 1,8,15,22
+ d) Q5 semanas x 3
+ III Dex a) Dias 1-4, 9-12, 17-20 b) Dias 1-4
+ 40 mg (oral) c) Q5 semana x 4 d) Q4 semana x 5
+ II Adição de Dex *** 20 mg (oral) Q3 semanas (Dias 1,2,4,5,8,9,11,12)* a) é o tratamento inicial e a) e b) representa o tratamento completo ** Um estudo de extensão autorizou doentes que beneficiavam do tratamento a continuar a receber VELCADE *** Se após 2 a 4 ciclos de tratamento com VELCADE o doente apresentasse doença progressiva ou estável, respectivamente, podia receber dexametasona em associação.
+ Quadro 10: Características dos doentes dos ensaios de Fase II e III
+ Fase II Vc Fase III Vc Fase III Dex Número de doentes, análise ITT Sexo masculino% Mediana da idade, anos (intervalo) Caucasianos Indíce de Karnofsky &gt; 80% Plaquetas &lt; 75 000/μl
+ 202 60 59(34-84) 81% 80% 21%
+ 333 56 61 (33-84) 90% 87% 6%
+ 336 60 61 (27-86) 88% 84% 4% Hemoglobina &lt; 100g/l Mediana da Depuração da Creatinina ml/min (intervalo) Mieloma IgG Mieloma IgA Mieloma de cadeias leves Mediana de tempo desde o diagnóstico (anos)
+ 44% 74 (14-221) 60% 24% 14% 4.0
+ 32% 73.3 (15. 6-170.7) 60% 32% 12% 3.5
+ 28% 73.3 (15. 3-261.1) 59% 24% 13% 3.1
+ Alterações do cromossoma 13 β2 microglobulina média (mg/l) Mediana de tratamentos prévios* (intervalo)
+ 15% 3.5 6 (2-15)
+ 25.7% 3.7 2 (1-7)
+ 25.0% 3.6 2 (1-8) 1 tratamento prévio &gt; 1 tratamento prévio
+ n=132(40%) n=186 (60%)
+ n=119 (35%) n=194 (65%)
+ * Incluindo esteróides, agentes alquilantes, antraciclinas, talidomida e transplante de células estaminais
+ Quadro 11: Exposição dos doentes a tratamento com VELCADE durante os ensaios de Fase II e III
+ Fase II Vc Fase III Vc Fase III Dex Recebeu pelo menos 1 dose Completou 4 ciclos
+ n=202
+ n=331 69%
+ n=332
+ b) todos os ciclos iniciais (número) b) tratamento completo (número) c) extensão*
+ 27% (8 ciclos NA N=63 doentes (média 7 ciclos) ou média total de 14 ciclos (intervalo 7-32)
+ 29% (8 ciclos) 9% (11 ciclos) NA
+ 36% (4 ciclos) 5% (9 ciclos) NA * Em caso de benefício clínico, os doentes podiam continuar o tratamento após terem completado oito ciclos NA= não aplicável
+ No ensaio de Fase III, o tratamento com VELCADE conduziu a um aumento significativo do tempo até progressão, sobrevida e da taxa de resposta significativamente mais elevada, quando comparado com o tratamento com dexametasona (ver Quadro 12), em todos os doentes, bem como em doentes sujeitos a um tratamento anterior. Como resultado de uma análise interina pré-planeada, o braço da 38 dexametasona foi interrompido por recomendação do comité de monitorização dos resultados e todos os doentes aleatorizados no grupo da dexametasona receberam VELCADE, independentemente do estadio da doença. Devido à antecipação do cruzamento, a mediana de duração de seguimento dos doentes sobreviventes é de 8.3 meses. Quer nos doentes refractários à terapêutica anterior, quer nos doentes não refractários, a sobrevida global foi significativamente maior e a taxa de resposta significativamente mais elevada, no braço do tratado com VELCADE.
+ Dos 669 doentes incluídos,245 (37%) tinham mais de 65 anos. Os parâmetros de resposta, bem como o tempo até à progressão (TAP), mostraram resultados significativamente melhores com VELCADE, independentemente da idade. No que respeita a β2 microglobulina, todos os parâmetros de eficácia (tempo até progressão, sobrevida global, bem como a taxa de resposta) foram significativamente melhores no braço do VELCADE, independentemente dos valores basais.
+ Na população refractária do estudo de fase II, as respostas foram determinadas por um comité de revisão independente e foram utilizados os critérios de resposta definidos pelo European Bone Marrow Transplant Group. A mediana da sobrevida para todos os doentes envolvidos foi de 17 meses (intervalo &lt; 1 a 36+ meses). Esta sobrevida foi maior do que a sobrevida mediana de 6 a 9 meses antecipada pelos consultores de investigação clínica para uma população semelhante de doentes. Em análise multivariada, a taxa de resposta foi independente do tipo de mieloma, estado de desempenho, estado de delecção do cromossoma 13 ou número ou tipo de tratamentos prévios. Os doentes que tinham recebido anteriormente dois a três regimes terapêuticos tiveram uma taxa de resposta de 32% (10/32) e doentes que receberam mais do que sete regimes terapêuticos prévios tiveram uma taxa de resposta de 31% (21/67).
+ Quadro 12: Resultado dos resultados dos ensaios de fase III e II
+ Fase III Fase III Fase III
+ Fase II ≥2 linhas Todos os doentes 1 linha terapêutica prévia &gt; 1 linha terapêutica prévia
+ terapêuticas prévias
+ Acontecimentos Vc Dex Vc Dex Vc Dex Vc dependentes do tempo Tempo até progressão da
+ n=333a
+ n=336a
+ n=132a
+ n=119a 169d
+ n=200a
+ n=217a
+ c=202a
+ doença
+ 189b 106b 212d [ 105,
+ 148b 87b 210 [ 95% CI]
+ [ 148,211]
+ [ 86,128]
+ [ 188,267]
+ 191] [ 129,192]
+ [ 84,107]
+ [ 154,281]
+ Sobrevivência ao 1 ano,
+ %
+ 80d 66d 89d 72d 73 62 60 [ 95% CI]
+ [ 74,85]
+ [ 59,72]
+ [ 82,95]
+ [ 62,83]
+ [ 64,82]
+ [ 53,71]
+ Melhor resposta (%) Vc Dex Vc Dex Vc Dex Vc n=193
+ n=315c 20 (6) b
+ N=312c 2 (&lt; 1) b n=128
+ n=110
+ n=187
+ N=202 RC 41 (13) b 5 (2) b 8 (6) 2 (2) 12 (6) 0 (0) (4) **
+ RC+ qRC RC+ qRC+ RP
+ 121 (38) b 56 (18) b 16 (13) 57 (45) d 4 (4) 29 (26) d 25 (13) 64 (34) b 1 (&lt; 1) 27 (13) b (10) ** (27) **
+ RC+ qRC+ RP+RM Duração média 146 (46) 108 (35) 66 (52) 45 (41) 80 (43) 63 (31) (35) **
+ Dias (meses) Tempo até à resposta 242 (8.0) 169 (5.6) 246 (8.1) 189 (6.2) 238 (7.8) 126 (4.1) 385* a
+ RC+RP (dias) 43 43 44 46 41 27 38* População de Intenção para Tratar (ITT) b Valor de p do teste log-rank estratificado; a análise por linha de terapêutica exclui a estratificação por história terapêutica; p &lt; 0.0001 c A população de respondedores inclui os doentes com doença mensurável no início do estudo e que receberam pelo menos uma dose do fármaco em estudo. d Valor de p do teste qui-quadrado de Cochran-Mantel-Haenszel ajustado para os factores de estratificação; a análise por linha terapêutica exclui a estratificação por história terapêutica.* RC+ RP+RM ** RC=RC, (IF-); qRC=RC (IF+) NA= não aplicável, NE =não estimado
+ No ensaio de Fase II, doentes que não obtiveram uma resposta óptima à monoterapia com VELCADE, foram autorizados a receber dexametasona em doses elevadas, em associação com VELCADE (ver Quadro 9). O protocolo permitia aos doentes receberem dexametasona se não tivessem uma resposta óptima a VELCADE em monoterapia. A dexametasona em associação com VELCADE foi
+ 39 administrada num total de 74 doentes. Dezoito por cento dos doentes tiveram uma resposta melhorada (RM (11%) ou RP (7% )) com a terapêutica associada.
+ 5.2 Propriedades farmacocinéticas Após administração intravenosa em bólus de uma dose de 1,0 mg/m2 e de 1,3 mg/m2 a 11 doentes com mieloma múltiplo e com valores de creatinina superiores a 50 ml/min, a média das concentrações plasmáticas máximas da primeira dose de bortezomib foram de 57 e 112 ng/ml, respectivamente. Em doses subsequentes, a média das concentrações plasmáticas máximas observadas foram de 67 a 106 ng/ml para a dose de 1,0 mg/m2 e 89 a 120 ng/ml, para a dose de 1,3 mg/m2.
+ Distribuição A média do volume de distribuição (Vd) de bortezomib variou de 1659 l a 3294 l após administração de uma dose única ou repetidas de 1,0 mg/m2 ou 1,3 mg/m2 em doentes com mieloma múltiplo. Isto sugere que o bortezomib se distribui mais nos tecidos periféricos. Num intervalo de concentração de bortezomib de 0,01 a 1,0 μg/ml, a ligação proteica média in vitro foi de 82,9% no plasma humano. A fracção de bortezomib ligado às proteínas plasmáticas não foi dependente da concentração.
+ Metabolismo Estudos in vitro em microssomas hepaticos humanos e isoenzimas humanas do citocromo P450 expressos em cDNA, indicam que o bortezomib é primáriamente metabolizado por oxidação, via enzimas do citocromo P450, 3A4, 2C19 e 1A2. A via metabólica major é a deboronização para formar dois metabolitos deboronados, que subsequentemente sofrem hidroxilação formando vários metabolitos. Os metabolitos deboronados de bortezomib são inactivos como inibidores do proteosoma 26S.
+ Eliminação A média da semivida de eliminação de bortezomib após doses múltiplas variou de 40-193 horas. Bortezomib é eliminado mais rapidamente após a primeira dose comparativamente a doses subsequentes. A média de depurações corporais totais foram de 102 e 112 l/h após a primeira dose para doses de 1,0 mg/m2 e 1,3 mg/m2, respectivamente e variam de 15 a 32 l/h e 18 a 32 l/h após doses subsequentes para doses de 1,0 mg/m2 e 1,3 mg/m2, respectivamente.
+ Populações especiais Compromisso hepático Até à data não foram realizados estudos formais em doentes com compromisso hepático grave (ver secção 4.4). Na ausência de dados, VELCADE é contra-indicado em doentes com compromisso hepático grave (ver secção 4.3).
+ Compromisso renal O estudo farmacocinético foi conduzido em doentes com vários graus de compromisso renal, que foram classificados de acordo com os seus valores de depuração da creatinina (ClCr), nos seguintes grupos: Normal (ClCr ≥ 60 ml/min/1,73 m2, n=12), Ligeiro (ClCr= 40-59 ml/min/1,73 m2, n=10), Moderado (ClCr= 20-39 ml/min/1,73 m2, n=9) e Grave (ClCr &lt; 20 ml/min/1,73 m2, n=3). Foi também incluído no estudo um grupo de doentes em diálise, nos quais a administração do tratamento foi feita após a diálise (n=8). VELCADE foi administrado por via intravenosa, duas vezes por semana, em doses de 0,7 a 1,3 mg/m2. A exposição ao VELCADE (AUC dose normalizada e Cmáx) foi comparável entre todos os grupos (ver secção 4.2).
+ 5.3 Dados de segurança pré-clínica O bortezomib apresentou actividade clastogénica positiva (aberrações estruturais cromossómicas) em ensaios de aberração cromossómica in vitro usando células de ovário de hamster chinês (OHC) em concentrações tão baixas como 3,125 μg/ml, a menor concentração avaliada. O bortezomib não foi genotóxico quando testado em ensaios de mutagenicidade in vitro (teste de Ames) e em ensaio de micronúcleos in vivo em ratinhos.
+ 40 Estudos de toxicidade de desenvolvimento no rato e coelho mostraram letalidade embrionária e fetal em doses tóxicas maternas, mas nenhuma toxicidade directa embrionária e fetal foi demonstrada em doses inferiores às doses tóxicas maternas. Não foram realizados estudos de fertilidade, mas a avaliação dos tecidos reprodutivos foi realizada nos estudos de toxicidade geral. No estudo de 6 meses no rato, foram observados efeitos degenerativos nos testículos e nos ovários. É, por isso, provável que o bortezomib possa ter efeito potencial na fertilidade quer no sexo masculino, quer no sexo feminino. Não foram realizados estudos de desenvolvimento peri-e pós-natal.
+ Em estudos gerais de avaliação de toxicidade em ciclos múltiplos realizados no rato e macaco, os principais orgãos-alvo incluíram o tracto gastrointestinal, resultando em vómitos e/ou diarreia, tecidos hematopoiéticos e linfáticos, resultando em citopénias sanguíneas periféricas, atrofia do tecido linfóide e hipocelularidade hematopoiética da medula óssea; neuropatia periférica (observada nos macacos, ratinhos e cães) envolvendo axónios do nervo sensitivo e alterações renais ligeiras. Todos estes orgãos-alvo mostraram recuperação parcial a completa após a descontinuação do tratamento.
+ Com base nos estudos em animais a penetração do bortezomib através da barreira hemato-encefálica parece ser limitada, e desconhece-se a relevância destes dados para os seres humanos.
+ Estudos farmacológicos de segurança cardiovascular em macacos e cães demonstraram que doses intravenosas correspondendo a, aproximadamente, o dobro ou triplo da dose clínica recomendada em mg/m2 estão associadas a aumento da frequência cardíaca, diminuição da contractilidade, hipotensão e morte. Nos cães a diminuição da contractilidade cardíaca e hipotensão responderam a uma intervenção aguda com agentes ionotrópico positivo ou pressores. Nos estudos em cães, foi ainda observado um aumento ligeiro do intervalo QT corrigido.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1. Lista dos excipientes Manitol (E 421) Azoto. 6.2 Incompatibilidades Este medicamento não deve ser misturado com outros medicamentos, excepto os mencionados na secção 6.6.
+ 6.3 Prazo de validade 3 anos. Solução reconstituída: A solução reconstituída deve ser utilizada imediatamente após a preparação. Se a solução reconstituída não for utilizada imediatamente, o tempo durante o qual é guardada e as condições de armazenamento antes da utilização são da responsabilidade do utilizador. No entanto, foi demonstrada estabilidade química e física da solução reconstituída durante 8 horas a 25ºC, conservado no frasco para injectáveis de origem e/ou seringa antes da administração, com um máximo de 8 horas na seringa.
+ 6.4 Precauções especiais de conservação
+ Não conservar acima de 30°C. Conserve o frasco para injectáveis na embalagem exterior de maneira a proteger da luz.
+ Para as condições de conservação do medicamento reconstituído, ver secção 6.3.
+ 41 6.5 Natureza e conteúdo do recipiente
+ Frasco para injectáveis de vidro de tipo 1, de 10 ml, com tampa de bromobutil cinzenta e um selo de alumínio, com uma tampa azul.
+ O frasco para injectáveis está contido numa embalagem de blister transparente, consistindo num alvéolo com tampa.
+ Cada embalagem contém um frasco para injectáveis para administração única.
+ 6.6 Precauções especiais de eliminação Precauções gerais O bortezomibé um agente citotóxico. Por isso, recomenda-se precaução durante o manuseamento e a preparação de VELCADE. Recomenda-se o uso de luvas e outra roupa de protecção para evitar contacto com a pele.
+ A técnica asséptica deve ser estritamente observada durante o manuseamento de VELCADE, dado que não contém nenhum conservante.
+ Instruções para a reconstituição Cada frasco para injectáveis deve ser reconstituído com 3,5 ml de cloreto de sódio a 9 mg/ml (0,9%) para injectável. A dissolução do pó liofilizado está completa em menos de 2 minutos.
+ Após a reconstituição, cada ml de solução contém 1 mg de bortezomib. A solução reconstituída é clara e incolor, com um pH final de 4 a 7. A solução reconstituída deve ser inspeccionada visualmente quanto à presença de partículas e descoloração previamente à administração. Se for observada qualquer descoloração ou partículas, a solução reconstituída deve ser rejeitada.
+ Eliminação Apenas para administração única. Qualquer produto não utilizado ou desperdício deve ser eliminado de acordo com os requisitos locais.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ JANSSEN-CILAG INTERNATIONAL NV Turnhoutseweg,30, B-2340 Beerse Bélgica
+ 8. NÚMERO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/04/274/001 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 26/04/2004 Data da última renovação:
+ 10. DATA DA REVISÃO DO TEXTO 42 ANEXO II
+ A. TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ C. OBRIGAÇÕES ESPECÍFICAS A SEREM CUMPRIDAS PELO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 43 A. TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do(s) fabricante(s) responsável(veis) pela libertação do lote:
+ Janssen Pharmaceutica N. V. Turnhoutseweg 30 2340 Beerse Bélgica
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento de receita médica restrita, de utilização reservada a certos meios especializados (ver anexo 1: Resumo das Características do Medicamento, 4.2).
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ Não aplicável. • OUTRAS CONDIÇÕES
+ Plano de Gestão de Risco O Titular da Autorização de Introdução no Mercado compromete-se a efectuar os estudos e as actividades de farmacovigilância adicionais detalhadas no Plano de Farmacovigilância, tal como acordado na versão 2.0 do Plano de Gestão de Risco (PGR) apresentado no módulo 1. 8.2 do pedido de Autorização de Introdução no Mercado, assim como todas as actualizações subsequentes do PGR, acordadas pelo CHMP.
+ De acordo com a Norma Orientadora do CHMP sobre Sistemas de Gestão de Risco para medicamentos de uso humano, o PGR actualizado deve ser submetido ao mesmo tempo que o Relatório Periódico de Segurança (RPS) seguinte.
+ Além disso, deve ser submetido um PGR actualizado: • Quando for recebida nova informação que possa ter impacto nas actuais Especificação de Segurança, no Plano de Farmacovigilância ou nas actividades de minimização do risco. • No período de 60 dias após ter sido atingido um objectivo importante (farmacovigilância ou minimização do risco). • A pedido da EMEA.
+ RPSs O Titular da Autorização de Introdução no Mercado irá submeter RPSs semestralmente, excepto quando indicação em contrário dada pelo CHMP.
+ C. OBRIGAÇÕES ESPECÍFICAS A SEREM PREENCHIDAS PELO TITULAR DA AUTORIZAÇÃO NO MERCADO
+ O Titular da Autorização de Introdução no Mercado deverá executar o programa de estudos abaixo referido dentro dos prazos indicados; os resultados desses estudos estarão na base da reavaliação anual da relação benefício/risco.
+ 44 Área Clínica
+ Descrição Como um complemento ao estudo farmacocinético da população,
+ Data limite Para ser revisto anualmente. incluído no ensaio de Fase III que está a decorrer, o requerente irá conduzir um estudo clínico farmacocinético em 24 doentes com mieloma múltiplo recebendo bortezomib em doses de 1,0
+ Resumo dos resultados finais dos estudos abaixo mencionados até 31 de Dezembro de 2010.
+ e 1,3 mg/m2, duas vezes por semana durante duas semanas, seguido por um período de descanso. O objectivo deste estudo é investigar: a farmacocinética do bortezomib após um tratamento de dose única e múltipla; os mecanismos que estão por detrás das alterações observadas nos parâmetros farmacocinéticos após doses repetidas; quaisquer factores intrínsecos clinicamente plausíveis que podem explicar e reduzir a variabilidade; a relação entre o peso corporal/área da superfície corporal/peso corporal baixo e parâmetros farmacocinéticos desde que o regime posológico seja baseado no BSA; a relação inibição concentração-proteosoma usando o modelo farmacocinético/farmacodinâmico.
+ Estudo de compromisso hepático. Relatório final do estudo esperado para 31 de Dezembro de 2010.
+ Clínica O requerente irá apresentar os resultados do ensaio clínico de Fase I/II planeado (protocolo sobre revisão no NCI) com a finalidade de determinar a possibilidade de que secundariamente à inibição do proteosoma, o tratamento com bortezomib pode aumentar o risco de amiloidose e/ou pode ter um impacto adverso na sua progressão e manifestação nos órgãos. Se este ensaio não for iniciado ou por outro lado falhar na comunicação dos assuntos relevantes, o requerente compromete-se a re-discutir e concordar com o CHMP a possibilidade de conduzir um ensaio aleatorizado controlado (ou concordar num plano alternativo) em doentes com amiloidose.
+ Para ser revisto anualmente. Relatório final do estudo esperado para o 4º trimestre de 2008.
+ 45 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 46 A. ROTULAGEM
+ 47 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ CARTONAGEM, VELCADE 1 mg 1. NOME DO MEDICAMENTO VELCADE 1 mg pó para solução injectável bortezomib
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada frasco para injectáveis contém 1 mg de bortezomib (como um éster borónico manitol). Após reconstituição,1 ml de solução injectável contém 1 mg de bortezomib.
+ 3. LISTA DOS EXCIPIENTES Manitol (E 421), azoto 4. FORMA FARMACÊUTICA E CONTEÚDO Pó para solução injectável 1 frasco para injectáveis.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar.
+ Via intravenosa. 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ CITOTÓXICO. Instruções especiais de manuseamento. Para administração única.
+ 8. PRAZO DE VALIDADE VAL. 48 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Não conservar acima de 30°C. Manter o frasco para injectáveis dentro da embalagem exterior para proteger da luz.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ Qualquer produto que não tenha sido utilizado ou qualquer desperdício deverá ser inutilizado de acordo com as exigências locais.
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ JANSSEN-CILAG INTERNATIONAL NV Turnhoutseweg,30 B-2340 Beerse Bélgica
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/04/274/002 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Foi aceite a justificação para não incluir a informação em braille.
+ 49 INDICAÇÕES
+ MÍNIMAS A INCLUIR EM PEQUENAS UNIDAD
+ AÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO FRASCO PARA INJECTÁVEIS DE VIDRO (5 ml) VELCADE 1 mg
+ 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ VELCADE 1 mg pó para solução injectável bortezomib
+ Via IV 2. MODO DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar.
+ 3. PRAZO DE VALIDADE VAL. 4. NÚMERO DO LOTE Lote 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 1 mg 6. OUTRAS 50 INDICAÇÕES A INCLUIR NA EMBALAGEM EXTERIOR
+ CARTONAGEM, VELCADE 3,5 mg 1. NOME DO MEDICAMENTO VELCADE 3,5 mg pó para solução injectável
+ bortezomib
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada frasco para injectáveis contém 3,5 mg de bortezomib (como um éster borónico manitol). Após reconstituição,1 ml de solução injectável contém 1 mg de bortezomib.
+ 3. LISTA DOS EXCIPIENTES Manitol (E 421), azoto 4. FORMA FARMACÊUTICA E CONTEÚDO Pó para solução injectável 1 frasco para injectáveis
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar. Via intravenosa
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ CITOTÓXICO. Instruções especiais de manuseamento. Para administração única.
+ 8. PRAZO DE VALIDADE VAL. 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ 51 Não conservar acima de 30°C. Manter o frasco para injectáveis dentro da embalagem exterior para proteger da luz.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ Qualquer produto que não tenha sido utilizado ou qualquer desperdício deverá ser inutilizado de acordo com as exigências locais.
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ JANSSEN-CILAG INTERNATIONAL NV Turnhoutseweg,30 B-2340 Beerse Bélgica
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/04/274/001 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Foi aceite a justificação para não inclur a informação em braille.
+ 52 INDICAÇÕES
+ MÍNIMAS A INCLUIR EM PEQUENAS UNIDAD
+ AÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO FRASCO PARA INJECTÁVEIS DE VIDRO (10 ml) VELCADE 3,5 mg
+ 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ VELCADE 3,5 mg pó para solução injectável
+ bortezomib
+ Via intravenosa 2. MODO DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar.
+ 3. PRAZO DE VALIDADE VAL. 4. NÚMERO DO LOTE Lote 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 3,5 mg 6. OUTRAS 53 B. FOLHETO INFORMATIVO
+ 54 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ VELCADE,1 mg, pó para solução injectável
+ VELCADE, 3,5 mg, pó para solução injectável bortezomib
+ Leia atentamente este folheto antes de utilizar este medicamento. • Conserve este folheto. Pode ter necessidade de o reler. • Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico. • Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: O que é VELCADE e para que é utilizado Antes de utilizar VELCADE Como utilizar VELCADE Efeitos secundários possíveis Como conservar VELCADE Outras informações
+ 1. O QUE É VELCADE E PARA QUE É UTILIZADO
+ VELCADE contém a substância activa bortezomib, denominado “ inibidor do proteosoma ”. Os proteosomas têm um papel importante no controlo da função e do crescimento celular. O bortezomib pode matar as células cancerígenas, interferindo com as funções do proteosoma.
+ VELCADE é utilizado no tratamento do mieloma múltiplo (um cancro da medula óssea) em adultos:
+ -em associação com outros medicamentos contendo melfalano e prednisona, para doentes que não
+ tenham sido sujeitos a tratamento prévio para mieloma múltiplo e que não sejam elegíveis para quimioterapia em alta dose com transplante de medula óssea.
+ -sozinho (monoterapia) para doentes cuja doença piorou (progrediu) após ter recebido pelo menos
+ um tratamento e em doentes que já tenham sido sujeitos ou não possam recorrer ao transplante de medula óssea.
+ 2. ANTES DE UTILIZAR VELCADE Não utilize VELCADE: -se tem alergia (hipersensibilidade) à substância activa ou a qualquer outro componente de
+ VELCADE -se tiver problemas graves de fígado-se tiver alguns problemas pulmonares ou de coração
+ considerados graves.
+ Tome especial cuidado com VELCADE Informe o seu médico se tiver alguma das seguintes situações: • níveis baixos de glóbulos vermelhos ou glóbulos brancos • problemas de hemorragia e/ou níveis baixos de plaquetas no sangue • diarreia, prisão de ventre, náusea (enjoo) ou vómitos • se desmaiou, teve tonturas ou se sentiu a cabeça vazia • problemas nos rins • problema no fígado • se tiver tido alguns problemas no passado de dormência, zumbidos, ou dores nas mãos ou pés (neuropatia). 55 • problemas com o seu coração ou a sua pressão arterial • doença chamada amiloidose. • dificuldade em respirar ou tosse.
+ Irá ter que fazer análises regulares ao sangue antes e durante o seu tratamento com VELCADE, de modo a verificar regularmente os números das células sanguíneas.
+ VELCADE não deve ser utilizado em crianças e adolescentes, devido à experiência ser limitada.
+ Ao utilizar VELCADE com outros medicamentos Informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica. Em particular, informe o seu médico se estiver a utilizar medicamentos contendo algumas das seguintes substâncias activas:
+ -cetoconazol, utilizada no tratamento de infecções fúngicas
+ -fluoxetina, utilizada no tratamento da depressão
+ -rifampicina e antibióticos utilizadas no tratamento de infecções bacterianas
+ -Antidiabéticos orais
+ Gravidez e aleitamento: Não deve utilizar VELCADE se estiver grávida, a não ser que seja claramente necessário. Tanto homens como mulheres têm de utilizar medidas contraceptivas eficazes durante o tratamento e nos 3 meses após o tratamento com VELCADE. Se, apesar destas medidas engravidar, informe imediatamente o seu médico.
+ Não deve amamentar durante o tratamento com VELCADE. Fale com o seu médico a partir de quando é seguro amamentar após terminar o seu tratamento. dicamento.
+ Condução de veículos e utilização de máquinas: VELCADE pode causar cansaço, tonturas, desmaios ou visão enevoada. Não conduza nem utilize ferramentas perigosas ou máquinas se tiver estes efeitos secundários; mesmo que não os sinta, deve ter cuidado.
+ 3. COMO UTILIZAR VELCADE O seu médico irá calcular a sua dose de acordo com a sua altura e o seu peso (área de superfície corporal). A dose inicial habitual é de 1,3 mg/m2 da área de superfície corporal. O seu médico poderá alterar a sua dose e número total de ciclos, dependendo da sua resposta ao tratamento e da ocorrência de certos efeitos secundários.
+ Monoterapia Quando VELCADE é administrado sozinho, um ciclo de tratamento com VELCADE consiste num total de 4 doses. As doses são administradas nos dias 1,4,8 e 11, seguidas de um período de descanso de 10 dias, sem receber tratamento. Por isso, a duração de um ciclo de tratamento é de 21 dias (3 semanas).
+ Tratamento em associação Se não tiver recebido tratamentos anteriores para o mieloma múltimo, VELCADE ser-lhe-á administrado em associação com outros dois medicamentos contendo melfalano e prednisona.
+ Neste caso, a duração de um ciclo de tratamento é de 6 semanas. O tratamento consiste num total de 9 ciclos (54 semanas).
+ 56 • Nos Ciclos 1-4, VELCADE é administrado duas vezes por semana (dias 1,4,8,11,22,25,29 e 32). • Nos Ciclos 5-9, VELCADE é administrado uma vez por semana (dias 1,8,22 e 29). O melfalano e a prednisona são ambos administrados oralmente nos dias 1,2,3 e 4 da primeira semana de cada ciclo.
+ Como é que VELCADE é administrado Irá receber VELCADE numa unidade médica especializada sobre a supervisão de um profissional de saúde com experiência na utilização de medicamentos citotóxicos. VELCADE pó tem de ser dissolvido antes da administração. Isto será feito por um profissional de saúde. A solução resultante é depois injectada rapidamente na veia, durante 3 a 5 segundos.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todos os medicamentos, VELCADE pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas. Alguns destes efeitos secundários podem ser graves.
+ O tratamento com VELCADE pode muito frequentemente causar uma diminuição no número de glóbulos brancos, glóbulos vermelhos e plaquetas no sangue. Como tal, irá ter que fazer análises regulares ao sangue antes e durante o seu tratamento com VELCADE, de modo a verificar regularmente os números das células sanguíneas. Poderá verificar uma redução no número de • plaquetas, que poderá predispô-lo mais a ter nódoas negras ou ter hemorragias sem lesão óbvia (por exemplo, hemorragia dos intestinos, estômago, boca e gengivas, hemorragia cerebral ou hemorragia hepática). • glóbulos vermelhos, que pode provocar anemia com sintomas, tais como, cansaço e palidez • glóbulos brancos, que pode predispô-lo mais a infecções ou sintomas gripais.
+ A frequência dos efeitos secundários possíveis listados abaixo é definida da seguinte forma: • muito frequentes: afectam mais de 1 utilizador em cada 10 • frequentes: afectam 1 a 10 utilizadores em cada 100 • pouco frequentes: afectam 1 a 10 utilizadores em cada 1.000 • raros: afectam 1 a 10 utilizadores em cada 10.000 • muito raros: afectam menos de 1 utilizador em cada 10.000 • desconhecido: a frequência não pode ser calculada a partir dos dados disponíveis.
+ Efeitos secundários muito frequentes: • Sensibilidade, dormência, formigueiro na pele ou dor nas mãos ou pés, devido a danos nos nervos • Redução no número de glóbulos vermelhos ou brancos (ver acima) • Febre, tremores • Dificuldade em respirar sem fazer exercício • Enjoo (náuseas) ou vómitos, perda de apetite • Prisão de ventre, com ou sem gases (pode ser grave) • Diarreia: se tal acontecer, é importante que beba mais água do que o habitual. O seu médico pode-lhe dar outro medicamento para controlar a diarreia. • Dor muscular • Cansaço
+ • Dor de cabeça 57 • Infecção por Herpes zóster (incluindo infecção disseminada)
+ Efeitos secundários frequentes: • Diminuição súbita da pressão arterial em pé, que pode levar a desmaio • Depressão, que pode ser grave, confusão • Inchaço à volta dos olhos ou face(que pode ser devido a uma reacção alérgica grave) ou inchaço nos tornozelos, pulsos, braços ou pernas • Sensação de mal estar geral, tonturas, sensação de cabeça leve ou sensação de fraqueza • Alteração do potássio no seu sangue, excesso de açúcar no sangue • Dores no peito ou tosse com expectoração, dificuldade em respirar a fazer exercício • Diferentes tipos de erupção e/ou comichão, altos na pele ou pele seca • Vermelhidão na pele ou vermelhidão e dor no local da injecção • Desidratação • Azia, flatulência, arrotar, gases e dor de estômago • Ferida oral ou labial, boca seca, boca com úlceras ou dor de garganta • Perda de peso, perda de paladar • Cãibras musculares, dores nos ossos, dores nos membros inferiores ou costas • Visão enevoada • Hemorragia nasal • Dificuldade em dormir, suores, ansiedade • Cansaço anormal (fadiga)
+ Efeitos secundários pouco frequentes: • Palpitações (sensação de batimentos cardíacos rápidos ou irregulares), alterações no batimento cardíaco, insuficiência cardíaca, ataque cardíaco, dor no peito, desconforto no peito ou diminuição na capacidade do coração para trabalhar • Hemorragias do intestino ou estômago, hemorragia no cérebro, hemorragia no fígado ou hemorragia nas mucosas, por ex. boca • Paralisia, convulsões • Respiração superficial, difícil ou que pára, pieira, dificuldade em respirar, tosse com expectoração espumosa (com saliva) que pode conter vestígios ou evidência de sangue • Aumento ou diminuição da produção de urina (devido a uma lesão renal), dor ao urinar ou sangue/proteínas na urina • Coloração amarelada dos olhos e pele (icterícia) • Perda de atenção, inquietação ou agitação, alterações no seu estado mental • Vermelhidão na face ou pequenos capilares com derrame • Perda de audição, surdez ou zumbido nos ouvidos • Alteração no cálcio, sódio, magnésio e fosfatos no seu sangue, falta de açúcar no seu sangue. • Anomalia hormonal afectando a absorção do sal e água • Irritação ocular, humidade excessiva ou olhos secos, lacrimejo dos olhos, visão anormal, infecções dos olhos (incluindo herpes zoster), hemorragia dos olhos, ou sensibilidade à luz • Gânglios linfáticos inchados • Rigidez nas articulações ou músculos, espasmos musculares ou contracções, dores na zona da anca • Perda de cabelo • Reacções alérgicas • Dor na boca, regurgitação • Dor de barriga (abdominal) • Aumento de peso
+ Desconhecido • Inflamação do pericárdio (membrana que reveste o coração).
+ 58 Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR VELCADE Manter fora do alcance e da vista das crianças. Não conservar acima de 30°C. Conserve o frasco para injectáveis na embalagem exterior de maneira a proteger da luz.
+ Não utilize após expirar o prazo de validade indicado no frasco para injectáveis e na cartonagem após VAL.
+ A solução reconstituída deve ser utilizada imediatamente após preparação. Se a solução reconstituída não for utilizada imediatamente, os tempos e condições de conservação durante a utilização, antes da administração são da responsabilidade do utilizador. No entanto, a solução reconstituída é estável a 25º C durante 8 horas no frasco para injectáveis de origem e/ou na seringa antes da administração, com um máximo de 8 horas na seringa.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de VELCADE • A substância activa é bortezomib. Cada frasco para injectáveis contém 1 mg ou 3,5 mg (sob a forma de um éster borónico de manitol). Após reconstituição,1 ml de solução injectável contém 1 mg de bortezomib. • Os outros componentes são manitol (E 421) e azoto.
+ Qual o aspecto de VELCADE e conteúdo da embalagem VELCADE pó para solução injectável é uma massa ou pó branco a esbranquiçado.
+ Cada embalagem de VELCADE,1 mg, pó para solução injectável, contém um frasco para injectáveis de vidro, com uma tampa verde, num blister transparente. Cada embalagem de VELCADE, 3,5 mg, pó para solução injectável, contém um frasco para injectáveis de vidro, com uma tampa azul, num blister transparente.
+ Titular da Autorização de Introdução no Mercado: JANSSEN-CILAG INTERNATIONAL N. V. Turnhoutseweg,30 B-2340 Beerse Bélgica
+ Fabricante: Janssen Pharmaceutica N. V. Turnhoutseweg,30 B-2340 Beerse Bélgica
+ 59 Para quaisquer informações sobre este medicamento, por favor queira contactar o representante local do Titular da Autorização de Introdução no Mercado.
+ België/Belgique/Belgien JANSSEN-CILAG N. V./S. A. Roderveldlaan 1 B-2600 Berchem Tél/Tel:+ 32 3 280 54 11
+ Luxembourg/Luxemburg JANSSEN-CILAG N. V./S. A. Roderveldlaan 1 B-2600 Berchem Belgique/Belgien Tél: +32 3 280 54 11
+ България Johnson &amp; Johnson d. o. o. Бизнес Парк София, Младост 4, сграда 4, етаж 3 София 1715 Тел.: +359 2 489 94 00 (05)
+ Magyarország JANSSEN-CILAG Kft. H-2045 Törökbálint, Tó Park Tel: +36 23-513-800
+ Česká republika JANSSEN-CILAG s. r. o. Karla Engliše 3201/6 CZ-15000 Praha 5-Smíchov Česká republika Tel: +420 227 012 222
+ Malta A. M. Mangion Ltd. Mangion Building Triq ġdida fi triq Valletta Luqa LQA 6000 Malta TEL: 00356 2397 6000/6412
+ Danmark JANSSEN-CILAG A/S Hammerbakken 19 Postboks 149 DK-3460 Birkerød Tlf: +45 45 94 82 82
+ Nederland JANSSEN-CILAG B. V. Postbus 90240 NL-5000 LT Tilburg Tel: +31 13 583 73 73
+ Deutschland JANSSEN-CILAG GmbH Raiffeisenstr. 8 D-41470 Neuss Tel: +49 2137-955-0
+ Norge JANSSEN-CILAG A. S. Drammensveien 288 N-0283 Oslo Tlf:+ 47 24 12 65 00
+ Eesti Janssen-Cilag Polska Sp. z. o. o Eesti filiaal Lõõtsa 2 EE-11415 Tallinn Tel: +372 617 7410
+ Österreich JANSSEN-CILAG Pharma Pfarrgasse 75 A-1232 Wien Tel: +43 1 610 300
+ Ελλάδα JANSSEN-CILAG Φαρμακευτική Α. Ε. Β. Ε. Λεωφόρος Ειρήνης 56 GR-151 21 Πεύκη Αθήνα Tηλ: +30 210 61 40 061
+ Polska JANSSEN– CILAG POLSKA SP. Z O. O., WIŚNIOWY BUSINESS PARK BUILDING" F" UL. IŁŻECKA 24 02-135 WARSAW POLAND Tel.:+ 48 22 237 60 00
+ 60 España JANSSEN-CILAG, S. A. Paseo de las Doce Estrellas, 5-7 Campo de las Naciones E-28042 Madrid Tel: +34 91 722 81 00
+ Portugal JANSSEN-CILAG FARMACÊUTICA, LDA. Estrada Consiglieri Pedroso,69 A Queluz de Baixo P-2734-503 Barcarena Tel: +351 21 43 68 835
+ France JANSSEN-CILAG 1, rue Camille Desmoulins TSA 91003 F-92787 Issy Les Moulineaux Cedex 9 Tél: 0 800 25 50 75/+ 33 1 55 00 44 44
+ România Johnson &amp; Johnson d. o. o. Str. Tipografilor nr. 11-15 Clădirea S-Park, Corp A2, Etaj 013714 Bucureşti, ROMANIA Tel: +40 21 207 18 00
+ Ireland JANSSEN-CILAG Ltd. 50-100 Holmers Farm Way High Wycombe Buckinghamshire HP12 4EG United Kingdom Tel: +44 1 494 567 567
+ Slovenija Johnson &amp; Johnson d. o. o. Šmartinska cesta 53 SI-1000, Ljubljana Tel. +386 1 401 18 30
+ Ísland JANSSEN-CILAG c/o Vistor Hörgatún 2 IS-210 Garðabær Sími: +354 535 7000
+ Slovenská republika Johnson &amp; Johnson s. r. o. Plynárenska 7/B SK-824 78 Bratislava 26 Tel: +421 233 552 600
+ Italia JANSSEN-CILAG SpA Via M. Buonarroti,23 I-20093 Cologno Monzese MI Tel: +39 02/2510.1
+ Suomi/Finland JANSSEN-CILAG OY Vaisalantie/Vaisalavägen 2 FIN-02130 Espoo/Esbo Puh/Tel: +358 20 753 1300
+ Κύπρος Βαρνάβας Χατζηπαναγής Λτδ 7 Ανδροκλέους CY-1060 Λευκωσία Tηλ: +357 22 755 214
+ Sverige JANSSEN-CILAG AB Box 7073 S-192 07 Sollentuna Tel +46 8 626 50 00
+ Latvija JANSSEN-CILAG Polska Sp. z o. o. filāle Latvijā Matrožu iela 15, LV-1048, Rīga Tālr. +371 678 93561
+ United Kingdom JANSSEN-CILAG Ltd. 50-100 Holmers Farm Way High Wycombe Buckinghamshire HP12 4EG-UK Tel: +44 1 494 567 567
+ Lietuva UAB ‘ Johnson &amp; Johnson ’ Geležinio Vilko g. 18A LT-08104 Vilnius Tel: +370 5 278 68 88
+ 61 Este folheto foi aprovado pela última vez em
+ Este medicamento foi autorizado sob “ Circunstâncias Excepcionais ”. Isto significa que foi impossível obter informação completa sobre este medicamento por razões científicas. A Agência Europeia de Medicamentos (EMEA) irá rever anualmente qualquer nova informação sobre o medicamento e este folheto será actualizado se necessário.
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu.
+ 62 A INFORMAÇÃO QUE SE SEGUE DESTINA-SE APENAS AOS MÉDICOS E AOS PROFISSIONAIS DE SAÚDE:
+ 1. RECONSTITUIÇÃO Nota: VELCADE é um agente citotóxico. Portanto, recomenda-se precaução durante o manuseamento e preparação. Recomenda-se o uso de luvas e de outro material protector, para evitar contacto com a pele.
+ A TÉCNICA ASSÉPTICA DEVE SER ESTRITAMENTE OBSERVADA DURANTE O MANUSEAMENTO DE VELCADE DADO QUE NÃO CONTÉM NENHUM CONSERVANTE.
+ 1.1 a) Preparação do frasco para injectáveis a 1 mg: adicione 1 ml de solução estéril de cloreto de sódio a 9 mg/ml (0,9%) para injectáveis ao frasco para injectáveis contendo o pó de VELCADE.
+ b) Preparação do frasco para injectáveis a 3,5 mg: adicione 3,5 ml de solução estéril de cloreto de sódio a 9 mg/ml (0,9%) para injectáveis ao frasco para injectáveis contendo o pó de VELCADE.
+ A concentração da solução final será de 1 mg/ml. A solução será límpida e incolor, com um pH final de 4 a 7. Não é necessário verificar o pH final.
+ 1.2 Antes da administração proceda à inspecção visual quanto à existência de partículas e descoloração. Se for observada qualquer descoloração ou a presença de partículas, a solução deve ser rejeitada.
+ 1.3 A solução reconstituída não contém conservantes e deve ser utilizada imediatamente após preparação. A estabilidade química e física da solução reconstituída foi demonstrada para um total de 8 horas, a 25ºC, no frasco para injectáveis de origem e/ou na seringa antes da administração, com um máximo de 8 horas na seringa. Se a solução reconstituída não for utilizada imediatamente, o tempo durante o qual é guardado e as condições de armazenamento antes do uso são da responsabilidade do utilizador.
+ Não é necessário proteger o medicamento reconstituído da luz.
+ 2. ADMINISTRAÇÃO • Verifique a dose na seringa • Injecte a solução na veia em bólus intravenoso de 3-5 segundos, através de um catéter intravenoso periférico ou central. • Lave o catéter intravenoso com uma solução estéril de cloreto de sódio a 9 mg/ml (0,9%) para injectáveis.
+ 3. ELIMINAÇÃO Um frasco para injectáveis é para uma administração única e a solução não utilizada tem de ser eliminada. Qualquer produto não utilizado ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 63 ANEXO IV
+ RAZÕES PARA UMA RNOVAÇÃO ADICIONAL 64 RAZÕES PARA UMA RNOVAÇÃO ADICIONAL
+ Com base nos dados que estão disponíveis desde a obtenção da Autorização de Introdução no Mercado inicial, o CHMP considera que a relação benefício-risco de Velcade permanece positiva, mas considera que o seu perfil de segurança tem de ser monitorizado cuidadosamente pelos seguintes motivos:
+ -Dados adicionais sobre a possibilidade de na sequência da inibição do proteosoma, o
+ tratamento com bortezomib poder aumentar o risco de amiloidose e/ou poder ter impacto na sua progressão e as manifestações nos órgãos são para ser avaliadas como parte de uma obrigação específica. Como tal, este aspecto da segurança deve continuar a ser monitorizado cuidadosamente.
+ -Com base no número e tipo de acontecimentos adversos graves não esperados notificados
+ desde a obtenção da Autorização de Introdução no Mercado de Velcade, é necessária uma monitorização cuidadosa de qualquer novo sinal emergente de segurança.
+ -O CHMP decidiu que o titular da Autorização de Introdução no Mercado deve continuar a
+ submeter RPSs semestrais.
+ Assim sendo, com base no perfil de segurança de VELCADE, que requer a submissão de RPSs semestrais, o CHMP concluiu que o titular da Autorização de Introdução no Mercado deverá submeter uma renovação adicional num período de 5 anos.
+ 65

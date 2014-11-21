@@ -1,5 +1,6 @@
 package argus.reader;
 
+import com.google.common.collect.ImmutableSet;
 import it.unimi.dsi.lang.MutableString;
 import org.codehaus.jackson.JsonFactory;
 import org.codehaus.jackson.JsonNode;
@@ -35,7 +36,7 @@ public class JSONReader implements Reader {
     }
 
     @Override
-    public String getSupportedExtension() {
-        return "json";
+    public ImmutableSet<String> getSupportedExtensions() {
+        return ImmutableSet.of("json");
     }
 }

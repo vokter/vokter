@@ -1,0 +1,227 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. NOME DO MEDICAMENTO
+ Pylobactell 100 mg comprimido solúvel 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada comprimido solúvel contém 100 mg de ureia-C13
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Comprimido solúvel. Comprimido branco, biconvexo.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Este medicamento é apenas para uso em diagnóstico. Para o diagnóstico in vivo da infecção gastroduodenal por Helicobacter pylori (H. pylori).
+ 4.2 Posologia e modo de administração O comprimido de Pylobactell é para administração oral.
+ Adultos: O comprimido tem de ser dissolvido em água e tomado 10 minutos depois do início do procedimento do teste respiratório.
+ O doente deve permanecer em jejum durante pelo menos 4 horas antes do teste, para que o teste seja feito com o estômago vazio. Se o doente tiver comido uma refeição pesada, terá de jejuar durante 6 horas antes do teste.
+ Doentes pediátricos: Pylobactell não é recomendado em crianças e adolescentes com idade inferior a 18 anos devido a dados insuficientes de eficácia.
+ É importante seguir adequadamente as instruções de utilização que estão descritas na secção 6.6, caso contrário a validade do resultado do teste respiratório será duvidosa.
+ 4.3 Contra-indicações Hipersensibilidade à substância activa ou a qualquer um dos excipientes.
+ O teste não deve ser efectuado em doentes com uma infecção gástrica documentada ou suspeita que possa interferir com o teste respiratório da ureia.
+ 4.4 Advertências e precauções especiais de utilização
+ Um teste respiratório da ureia positivo por si só não confirma clinicamente que está indicada uma terapêutica de erradicação. Pode estar indicado o diagnóstico alternativo com métodos endoscópicos invasivos a fim de examinar a presença de outras complicações, como, por exemplo, úlcera gástrica, gastrite auto-imune e neoplasias.
+ 2 Em casos específicos de gastrite atrófica, o resultado do teste respiratório pode ser um falso positivo e podem ser necessários outros testes para confirmar a presença de H. pylori.
+ Se for necessário repetir o teste, só o poderá fazer no dia seguinte.
+ Para doentes que não tolerem a refeição recomendada para o teste, deverá dar-se uma refeição alternativa. É necessário ter cuidado com doentes nos quais o jejum possa ter implicações médicas.
+ Existem dados insuficientes sobre a fiabilidade de diagnóstico do teste Pylobactell para se recomendar a sua utilização em doentes com gastrectomia parcial e em doentes com menos de 18 anos (ver secção 4.2).
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ A validade do resultado do teste pode ser afectada se o doente estiver a ser actualmente tratado com antibióticos ou com um inibidor da bomba de protões, ou se já tiver concluído o tratamento com estes medicamentos. Os resultados podem ser afectados de um modo geral por todos os tratamentos que interagem com o estado do H. pylori ou com a actividade da urease.
+ A supressão do H. pylori pode dar resultados falsos negativos. Por conseguinte, o teste não pode ser efectuado até terem decorrido quatro (4) semanas sem terapêutica antibacteriana sistémica e duas (2) semanas após a última dose de agentes anti-secretores ácidos. Isto é importante especialmente após a terapêutica de erradicação.
+ 4.6 Gravidez e aleitamento A produção endógena de ureia ascende a 25– 35 g/dia. Consequentemente, é improvável que a dose de 100 mg de ureia possa causar qualquer efeito adverso na gravidez e amamentação.
+ Não é de esperar que o teste de Pylobactell seja prejudicial durante a gravidez ou para a saúde do feto/recém-nascido. O Pylobactell pode ser usado durante a gravidez e o aleitamento.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não relevante. 4.8 Efeitos indesejáveis Não se conhece nenhum. 4.9 Sobredosagem É improvável a ocorrência de sobredosagem nas condições clínicas previstas. Não foram descritos casos de sobredosagem.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Outros agentes de diagnóstico, código ATC: V04CX
+ No caso de infecção por H. pylori, a ureia-C13 ingerida oralmente é metabolizada pela enzima urease que existe na H. pylori.
+ H2N(13CO) NH2+ H2O → 2NH3+ 13CO2 3 O dióxido de carbono que é libertado difunde-se nos vasos sanguíneos e é transportado como bicarbonato para os pulmões onde é depois libertado na forma de 13CO2 no ar expirado. A infecção por H. pylori alterará significativamente a relação dos isótopos de carbono 13C/12C.
+ A proporção de 13CO2 nas amostras do ar expirado pode ser determinada por espectrometria de massa da relação isotópica (IRMS) ou por outro método adequadamente validado efectuado por um laboratório qualificado e expressa como uma diferença absoluta (excesso) no valor entre as amostras de ar expirado pré-ureia e pós-ureia (ver secção 6.6).
+ O ponto limite que faz a distinção entre doentes com resultados negativos e positivos no teste de H. pylori é definido para um valor em excesso de 3,5 ou seja &lt; 3,5 é negativo e ≥3,5 é positivo.
+ Em comparação com as técnicas que se baseiam na biopsia para diagnosticar a infecção por H. pylori, utilizando os dados obtidos em dois ensaios terapêuticos, Pylobactell atingiu, em condições diferentes (visitas de pré-estudo e seguimento), estimativas de sensibilidade acima de 95,0% com o limite de confiança de 95% unilateral inferior variando entre 93% e 98%. As estimativas da especificidade encontravam-se todas acima de 90% com os limites de confiança inferiores correspondentes variando entre 85% e 90%.
+ 5.2 Propriedades farmacocinéticas A ureia é rapidamente absorvida pelo tracto gastrintestinal e é distribuída pelos líquidos extracelulares e intracelulares incluindo a linfa, a bílis, o líquido cefalorraquidiano e o sangue. Foi comunicado que atravessa a placenta e penetra nos olhos. É excretada inalterada na urina.
+ 5.3 Dados de segurança pré-clínica O uso clínico do medicamento não gera qualquer tipo de preocupações.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Povidona (E1201) Celulose microcristalina (E460i) Sílica anidra coloidal Benzoato de sódio (E211)
+ 6.2 Incompatibilidades Não aplicável. 6.3 Prazo de validade 3 anos. O comprimido dissolvido deve ser tomado imediatamente.
+ 6.4 Precauções especiais de conservação
+ Não conservar acima de 25°C. 6.5 Natureza e conteúdo do recipiente O conjunto do teste respiratório da ureia-C13 Pylobactell contém uma saqueta selada termicamente de PET/folha de alumínio/LDPE laminada com um comprimido Pylobactell, seis tubos de vidro com tampas e rótulos com código de barras, três rótulos adicionais com código de barras, um copo de 30 ml com 4 tampa para mistura e administração, duas palhinhas, um Folheto Informativo e um Impresso de Pedido de Análise. Também está incluído um rótulo de segurança para tornar a selar o conjunto.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ O doente deve permanecer em jejum durante pelo menos 4 horas antes do teste, para que o teste seja feito com o estômago vazio. Se o doente tiver comido uma refeição pesada, terá de jejuar durante 6 horas antes do teste.
+ Recomenda-se que o teste respiratório seja efectuado com o doente sentado. O procedimento do teste respiratório Pylobactell inclui a administração de uma refeição de teste apropriada. Esta não é fornecida na caixa. Recomenda-se, como melhor refeição de teste,200 ml de sumo de laranja puro não diluído.
+ Instruções para a colheita da amostra t= 0 minutos
+ Anote a hora a que o doente bebe a refeição de teste.
+ t= 5 minutos
+ Colha as amostras do ar expirado pré-ureia. Devem ser obtidos três tubos de ar
+ expirado, respirando normalmente através de uma palhinha que está presa na base de um pequeno tubo (tampa branca). O doente mesmo tempo que o ar está a ser expirado, a palhinha é removida lenta e completamente do tubo que é imediatamente tapado. Estas amostras de respiração são utilizadas para dosear o nível natural de 13C presente no dióxido de carbono do ar expirado.
+ t= 10 minutos
+ Coloca-se o comprimido Pylobactell no frasco de mistura de 30 ml e adiciona-se água
+ até à linha de marcação. Tapa-se o frasco e agita-se bem até dissolver o comprimido. O doente tem de ingerir todo o conteúdo imediatamente. Enche-se mais uma vez o frasco com água até à linha de marcação e o doente ingere novamente todo o conteúdo.
+ t= 40 minutos
+ Colha as amostras do ar expirado pós-ureia (tampa vermelha). Devem obter-se três
+ tubos de ar expirado, que são utilizados para dosear os níveis em excesso de 13C, que estarão presentes se o doente for H. pylori positivo.
+ Ao terminar o teste, guarde uma amostra pré-ureia (tampa branca) e uma pós-ureia (tampa vermelha). Ponha duas amostras pré-ureia e duas amostras pós-ureia na caixa. Elimine de acordo com as normas de segurança o frasco de mistura de 30 ml. Preencha o Impresso de Pedido de Análise; cole um dos três rótulos com código de barras na área assinalada com “ COLE AQUI O RÓTULO COM CÓDIGO DE BARRAS ”. Este código de barras é o número de referência do médico que é utilizado no laboratório de análises para identificar o doente; os dois rótulos com códigos de barras restantes são para o médico utilizar nas notas/ficheiros do doente, etc.
+ Após colocar os quatro tubos das amostras e os documentos na caixa, utilize o rótulo de segurança fornecido para selar a tampa da caixa e envie para um laboratório de análises qualificado.
+ Análise das amostras de ar expirado e especificação do teste
+ A exactidão e precisão do teste depende muito da qualidade da análise, portanto, apenas os laboratórios que têm a certificação apropriada estão qualificados para analisar estas amostras.
+ Demonstrou-se que a especificidade e sensibilidade eram satisfatórias nos estudos clínicos em que o ar expirado foi analisado utilizando a espectrometria de massa da relação de isótopos (IRMS).
+ As amostras de ar expirado colhidas durante um teste devem ser conservadas nos recipientes originais até à análise por IRMS.
+ Os instrumentos de IRMS podem ser de fluxo contínuo ou de uma configuração com entrada dupla.
+ 5 Deve utilizar-se um auto-analisador de posições múltiplas e um leitor de código de barras, de forma a permitir rastrear as amostras durante todo o procedimento de análise.
+ Os parâmetros e a regulação da fonte de IRMS devem ser optimizados diariamente.
+ Os instrumentos devem ser lineares num intervalo amplo de concentrações de CO2, geralmente situadas entre 1, 0-6,0%. A linearidade deve ser verificada como rotina.
+ A precisão analítica interna tem de ser inferior a ± 0,3 ‰ δ13C para 20 duplicados de análise da mesma amostra do gás de referência e manter-se dentro de 3 DP da média das análises do ar expirado.
+ A transferência da amostra do ar expirado através do sistema analítico deve ser realizada sem provocar o fraccionamento dos isótopos.
+ O IRMS deve possuir um colector triplo que permita medir simultaneamente as flutuações de iões com relação de massa/carga igual a 44,45, e 46 entre os isótopos de oxigénio.
+ O desvio do instrumento deve ser corrigido durante a análise.
+ Os gases de referência devem ser padronizados em relação a um padrão internacional adequado, a fim de permitirem a comparação de resultados entre laboratórios.
+ Como alternativa, pode ser utilizado qualquer outro método adequadamente validado, efectuado por um laboratório objectivamente qualificado.
+ Explicação dos resultados: δ13C: Diferença em partes por mil (‰) em relação a um padrão internacional aprovado.
+ Excesso de δ13C: Diferença entre os doseamentos das amostras pré-ureia e pós-ureia.
+ Estado de H. pylori: &lt; 3,5 do excesso de δ13C= Negativo ≥ 3,5 do excesso de δ13C= Positivo
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Torbet Laboratories Limited 14D Wendover Road Rackheath Industrial Estate Norwich NR13 6LH Reino Unido
+ +44 (0) 1603 735200 +44 (0) 1603 735217 customerservices@ typharm. com
+ 8. NÚMERO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/98/064/001 6 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 7 de Maio de 1998
+ Data da mais recente renovação: 7 de Maio de 2003
+ 10. DATA DA REVISÃO DO TEXTO 12/2004 Informação pormenorizada sobre este medicamento está disponível na Internet, no site da Agência Europeia de Medicamentos (EMEA): http: //www. emea. europa. eu.
+ 7 ANEXO II
+ A. TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 8 A TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do(s) fabricante(s) responsável(veis) pela libertação do lote
+ PackPharm Limited 14D Wendover Road Rackheath Industrial Estate Norwich NR13 6LH Reino Unido
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento sujeito a receita médica. • CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ Não aplicável. 9 10 ANEXO III ROTULAGEM E FOLHETO INFOMATIVO
+ 11 A. ROTULAGEM
+ 12 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ EMBALAGEM EXTERIOR 1. NOME DO MEDICAMENTO Pylobactell 100 mg comprimido solúvel ureia-C13
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada comprimido contém: 100 mg de ureia-C13
+ 3. LISTA DOS EXCIPIENTES Povidona (E1201), celulose microcristalina (E460i), sílica anidra coloidal, benzoato de sódio (E211).
+ 4. FORMA FARMACÊUTICA E CONTEÚDO O conjunto contém: Uma saqueta contendo um comprimido solúvel de Pylobactell de 100 mg. Seis tubos de vidro com tampas e rótulos com código de barras. Um copo de vidro de 30 ml com tampa para mistura e administração. Duas palhinhas. Um Impresso de Pedido de Análise. Um Rótulo de Segurança e três rótulos adicionais com código de barras.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Conjunto de teste de diagnóstico. PARA ADMINISTRAÇÃO ORAL. Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 8. PRAZO DE VALIDADE VAL. { MM/AAAA} 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Não conservar acima de 25°C. 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO Torbet Laboratories Ltd, 14D Wendover Road, Rackheath Industrial Estate, Norwich, NR13 6LH, Reino Unido.
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 13 EU/1/98/064/001
+ 13. NÚMERO DO LOTE Lote: 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Pylobactell 14 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ RÓTULO DA SAQUETA 1. NOME DO MEDICAMENTO Pylobactell 100 mg comprimido solúvel Ureia-C13 Via oral
+ 2. MODO DE ADMINISTRAÇÃO Para ser dissolvido em água e ingerido. Consultar o folheto informativo antes de utilizar.
+ 3. PRAZO DE VALIDADE VAL 4. NÚMERO DO LOTE Lote 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ Um comprimido 6. OUTRAS Torbet Laboratories Limited, 14D Wendover Road, Rackheath Industrial Estate, Norwich, NR13 6LH, Reino Unido.
+ EU/1/98/064/001 ARTIGO ADICIONAL DO CONJUNTO: RÓTULO DO COPO DE MISTURA E ADMINISTRAÇÃO
+ RÓTULO Encha com água até à linha. Dissolva o comprimido que se encontra na saqueta. Agite bem até dissolver. Quando dissolvido, beba todo o conteúdo. Torne a encher com água até à linha, agite o frasco e beba. Elimine este frasco após utilizar. Não devolva com o conjunto.
+ ARTIGO ADICIONAL DO CONJUNTO: RÓTULO DE SEGURANÇA
+ 15 RÓTULO
+ Selar a tampa da caixa antes de expedir as amostra para análise.
+ 16 B. FOLHETO INFORMATIVO
+ 17 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Pylobactell 100 mg comprimido solúvel Ureia-C13
+ Leia atentamente este folheto antes de tomar este medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico.
+ Neste folheto: 1. O que é Pylobactell e para que é utilizado 2. Antes de utilizar Pylobactell 3. Como utilizar Pylobactell 4. Efeitos secundários possíveis 5. Como conservar Pylobactell 6. Outras informações
+ 1. O QUE É PYLOBACTELL E PARA QUE É UTILIZADO
+ Pylobactell é um teste respiratório. É utilizado para determinar a presença da bactéria Helicobacter pylori (H. pylori) no aparelho digestivo (estômago e intestino adjacente). Esta bactéria poderá ser a responsável pelos seus problemas de estômago (gástricos).
+ O seu médico aconselhou-o a fazer o teste respiratório da ureia-C13 por uma das seguintes razões:
+ • O seu médico quer confirmar se sofre de uma infecção causada pela H. pylori para ajudar a diagnosticar a sua doença.
+ • Já lhe foi diagnosticada uma infecção causada pela H. pylori e está a tomar medicamentos para eliminar esta infecção. Agora, o médico pretende verificar se o tratamento foi eficaz.
+ Este medicamento é apenas para uso em diagnóstico.
+ Como funciona o teste? Todos os alimentos contêm uma substância chamada “ carbono 13 ” (13C), que está presente em quantidades variáveis. Este 13C pode ser detectado no dióxido de carbono que expira pelos pulmões. A quantidade de 13C no ar expirado dependerá do tipo de alimentos que comeu.
+ Vão-lhe pedir que beba uma “ refeição de teste ”. Esta ajudará a manter a solução de ureia-C13 de teste no seu estômago.
+ Após esta refeição, serão colhidas 3 amostras do ar que expira. Estas amostras serão analisadas para dosear a quantidade normal de 13C que existe no dióxido de carbono da sua respiração.
+ Pedir-lhe-ão, depois, que beba a solução de ureia-C13 Pylobactell. Se a bactéria H. pylori estiver presente e activa no seu estômago, ela fará a decomposição da ureia-C13, o que será detectado no dióxido de carbono que expira.
+ Cerca de 30 minutos mais tarde, serão colhidas mais 3 amostras da sua respiração.
+ 18 A quantidade de 13C existente nestas amostras será comparada com o seu nível normal. Se existir um aumento significativo, isso indicará ao médico que a bactéria H. pylori está presente e activa.
+ 2. ANTES DE UTILIZAR PYLOBACTELL NÃO tome Pylobactell se: tem alergia (hipersensibilidade) à ureia-C13 ou a qualquer outro componentes dos
+ -
+ comprimidos (ver secção 6);
+ -
+ sofre de qualquer doença que pense poder afectar o teste ou ser afectada por ele.
+ Tome especial cuidado É importante que informe o seu médico se: • tiver sido submetido a remoção parcial do estômago (gastrectomia parcial), já que a fiabilidade do teste não foi confirmada nestes doentes; • tiver ou suspeitar de uma infecção gástrica; • tiver problemas de estômago a longo prazo (gastrite atrófica), já que o ar que expira poderá conduzir a resultados errados e podem ser necessários outros testes para confirmar a presença de H. pylori; • jejuar (não comer) pode ter consequências clínicas para si; • tiver menos de 18 anos.
+ Tomar outros medicamentos Informe o seu médico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica.
+ Não utilize o teste se: • Tiver tomado antibióticos ou medicação para tratar a infecção com Helicobacter pylori nos últimos 28 dias.
+ • Tiver tomado inibidores da bomba de protões (para a indigestão) nos últimos 14 dias.
+ • Tiver tomado antagonistas H2 ou antiácidos (aliviam a indigestão) no mesmo dia do teste.
+ Não interrompa a medicação sem pedir conselho ao seu médico.
+ Tomar Pylobactell com alimentos e bebidas Terá de jejuar durante pelo menos 4 horas antes do teste, para que este seja feito com o estômago vazio. Se ingeriu uma refeição pesada, terá de jejuar durante 6 horas antes de fazer o teste. Pode beber água durante o período de jejum. Se fazer jejum puder vir a causar-lhe problemas (por exemplo, no caso de doentes diabéticos), informe o seu médico.
+ Gravidez e amamentação. O Pylobactell pode ser utilizado durante a gravidez e o período de amamentação ..
+ Condução de veículos e utilização de máquinas Este teste não afecta a capacidade de condução ou utilização de máquinas.
+ 3. COMO UTILIZAR PYLOBACTELL O teste demora cerca de 45 minutos. Precisará de beber água. É recomendável que esteja sentado durante a realização do teste respiratório. Não pode fumar antes do teste nem durante a realização do teste.
+ 19 O procedimento do teste compreende os seguintes passos: (Encontrará uma breve descrição destas instruções no verso do Impresso de Pedido de Análise)
+ 1. Jejum: Terá de jejuar durante 4 horas antes de fazer o teste (ver a secção 2, Tomar Pylobactell com alimentos e bebidas)
+ 2. Refeição do Teste: Beba a refeição do teste recomendada. Esta não está incluída no conjunto do teste, mas pode ser fornecida em separado. Caso não lhe forneçam a refeição de teste, a mais adequada consiste em tomar 200 ml de sumo de laranja não diluído. Se não puder tomar a refeição de teste recomendada, o seu médico aconselhá-lo-á sobre qual a melhor refeição de teste alternativa.
+ 3. Aguarde 5 minutos 4. Amostras do ar expirado (3 tubos com tampas brancas) i. Retire a tampa do tubo ii. Expire através da boca para o tubo de amostra, utilizando uma palhinha. iii. Retire gradualmente a palhinha do tubo à medida que expira. iv. Volte a colocar de imediato a tampa. v. Repita o procedimento para os restantes tubos com tampa branca.
+ Não é necessário respirar com força para os tubos. Basta-lhe respirar normalmente e tapá-los rapidamente.
+ Tente evitar que os tubos contenham saliva.
+ Preparação da solução de ureia-carbono13 5. Abra a saqueta do comprimido e deite o seu conteúdo dentro do copo misturador. Acrescente água até ao traço no copo e volte a colocar a tampa. Agite suavemente o copo para dissolver o comprimido. Beba a solução. Tome nota da hora a que a bebeu. Encha de novo o copo até ao traço com água e beba.
+ Aguarde 30 minutos a partir do momento em que bebeu a solução Pylobactell de ureia-C13. Não 6. fume, não beba nem coma durante este período. Isto é importante para um adequado funcionamento do teste.
+ 7. Amostras de ar expirado pós-teste (3 tubos com tampas vermelhas) Utilizando os tubos com tampa vermelha, recolha amostras de ar expirado conforme descrito anteriormente (ver ponto 4.)
+ 8. Impresso de Pedido de Análise Preencha o Impresso de Pedido de Análise, inscrevendo os dados do doente no lado esquerdo do impresso e o nome e o endereço do médico no lado direito.
+ 9. O teste está agora concluído Coloque de novo na embalagem as suas amostras de ar expirado e o Impresso de Pedido de Análise devidamente preenchido e envie para o endereço indicado pelo médico. O seu médico dir-lhe-á quando é que os resultados do teste estão disponíveis e quem é que deve contactar para saber os resultados.
+ Elimine a saqueta vazia, o copo misturador e as palhinhas como lixo normal, mas guarde este folheto para futura consulta.
+ Se for necessário repetir o teste, só o poderá fazer no dia seguinte.
+ 20 4. EFEITOS SECUNDÁRIOS POSSÍVEIS
+ O 13carbono é uma substância inofensiva de ocorrência natural que se encontra no corpo. A ureia é também uma substância inofensiva que se encontra no corpo.
+ Não foram comunicados efeitos secundários do Pylobactell. Se detectar quaisquer efeitos secundários, informe o seu médico ou farmacêutico.
+ O C13 e a ureia são substâncias inofensivas que existem naturalmente no nosso corpo.
+ 5. COMO CONSERVAR PYLOBACTELL Manter fora do alcance e da vista das crianças.
+ Não guarde o conjunto a uma temperatura superior a 25°C. O comprimido deve ser tomado quando for dissolvido.
+ Não utilize Pylobactell após o prazo de validade impresso na embalagem. ´
+ 6. OUTRAS INFORMAÇÕES O que contém o comprimido Pylobactell A substância activa é a ureia-C13. Cada comprimido contém 100 mg ureia-C13.
+ -
+ Os outros componentes são povidona (E1201), celulose microcristalina (E460i), sílica anidra
+ -
+ coloidal e benzoato de sódio (E211).
+ Cada conjunto do Teste Respiratório Pylobactell contém: • 1 Saqueta contendo um comprimido • 6 tubos de vidro,3 com tampas brancas e 3 com tampas vermelhas • Um tubo de vidro de 30 ml para mistura, com tampa • 2 palhinhas • 1 Impresso de Pedido de Análise • 1 Rótulo de Segurança e 3 rótulos adicionais com código de barras.
+ O conteúdo deste conjunto é suficiente para um único teste. Se necessitar de repetir o teste, só o poderá fazer no dia seguinte e precisará de um novo conjunto de teste.
+ Titular da Autorização de Introdução no Mercado
+ Torbet Laboratories Limited, 14D Wendover Road, Rackheath Industrial Estate, Norwich, NR13 6LH, Reino Unido
+ Tel.: +44 (0) 1603 735200 Fax. +44 (0) 1603 735217 E-mail: customerservices@ typharm. com
+ Fabricante PackPharm Limited, 14D Wendover Road, Rackheath Industrial Estate, Norwich, NR13 6LH, Reino Unido 21 Este folheto foi aprovado pela última vez em
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA): http: //www. emea. europa. eu.
+ A informação que se segue destina-se apenas a ser utilizada pelo laboratório:
+ Análise das amostras do ar expirado e especificação dos testes
+ A exactidão e a precisão do teste dependem muito da qualidade da análise do ar expirado, pelo que apenas os laboratórios que possuam certificação apropriada estão qualificados para analisar estas amostras.
+ Demonstrou-se que a especificidade e sensibilidade eram satisfatórias nos estudos clínicos em que o ar expirado foi analisado utilizando a espectrometria de massa da relação de isótopos (IRMS).
+ As amostras de ar expirado colhidas durante um teste devem ser conservadas nos recipientes originais até à análise de IRMS.
+ Os instrumentos de IRMS podem ser de fluxo contínuo ou de uma configuração com entrada dupla.
+ Deve utilizar-se um auto-analisador de posições múltiplas e um leitor de código de barras, de forma a permitir rastrear as amostras durante todo o procedimento de análise
+ Os parâmetros e a regulação da fonte de IRMS devem ser optimizados diariamente.
+ Os instrumentos devem ser lineares num intervalo amplo de concentrações de CO2, geralmente situadas entre 1, 0-6,0%. A linearidade deve ser verificada como rotina.
+ A precisão analítica interna tem de ser inferior a ± 0,3 ‰ δ13C para 20 duplicados de análise da mesma amostra do gás de referência e manter-se dentro de 3 DP da média das análises do ar expirado.
+ A transferência da amostra do ar expirado através do sistema analítico deve ser realizada sem provocar o fraccionamento dos isótopos. O IRMS deve possuir um colector triplo que permita medir simultaneamente as flutuações de iões com relação de massa/carga igual a 44,45, e 46 entre os isótopos de oxigénio.
+ O desvio do instrumento deve ser corrigido durante a análise.
+ Os gases de referência devem ser padronizados em relação a um padrão internacional adequado, a fim de permitirem a comparação de resultados entre laboratórios.
+ Como alternativa, pode ser utilizado qualquer outro método adequadamente validado, efectuado por um laboratório objectivamente qualificado.
+ Explicação dos resultados: δ13C: Diferença em partes por mil (‰) em relação a um padrão internacional aprovado
+ Excesso de δ13C: Diferença entre os doseamentos das amostras pré-ureia e pós-ureia.
+ Estado de H. pylori: &lt; 3,5 do excesso de δ13C= Negativo ≥ 3,5 do excesso de δ13C= Positivo
+ 22 23 IMPRESSO DE PEDIDO DE ANÁLISE:
+ Pylobactell — TESTE RESPIRATÓRIO DA UREIA-[ Carbono13] (TR-UC13) para Helicobacter pylori
+ IMPRESSO DE PEDIDO DE ANÁLISE – Preencha com letras maiúsculas.
+ Escreva com clareza a morada para envio dos resultados:
+ Centro: Nome do doente: Data de nascimento: Referência do doente: Data do Teste: Médico Assistente:
+ COLE AQUI O RÓTULO DE CÓDIGO DE BARRAS COLOQUE O RÓTULO DE CÓDIGO DE BARRAS NOS REGISTOS DO DOENTE, SE APLICÁVEL
+ Número da AIM: EU/1/98/064/001 Titular da Autorização de Introdução no Mercado: Torbet Laboratories Limited, 14D Wendover Road, Rackheath Industrial Estate, Norwich, NR13 6LH, Reino Unido
+ REGISTO DA MEDICAÇÃO LISTA DE VERIFICAÇÃO DO TESTE História da Medicação-o doente Tipo e Min. Lista de verificação do teste Hora tomou:
+ Data (i) antibióticos nos últimos 28 dias?
+ Anote a hora em que o doente t=0 Em caso afirmativo, indique o tipo e quando foram tomados pela última vez.
+ bebe a refeição do teste
+ (ii) inibidores da bomba de protões
+ t=5
+ Colha as amostras pré-ureia (IBP) nos últimos 14 dias? Em caso afirmativo, indique o tipo e quando foram tomados pela última vez.
+ (tampas brancas-3 vezes)
+ (iii) terapêutica de erradicação nos
+ O doente bebe a solução de t= 10 últimos 28 dias? Em caso afirmativo, indique quando terminou o tratamento.
+ ureia, depois enche novamente o frasco até à linha e bebe.
+ (iv) outra medicação (se aplicável)?
+ t= 40
+ Colha as amostras pós-ureia (tampas vermelhas-3 vezes)
+ Verifique (v) Doente em jejum durante .... horas O rótulo do código de barras e Note que (i)-(iii) afectarão os resultados do teste. Para uso exclusivo do Laboratório
+ todas as informações introduzidas no Impresso de Pedido de Análise. 1 x amostras pré/pós-ureia conservadas como reserva 2 x amostras pré/pós-ureia+ este impresso para enviar a um laboratório qualificado.
+ Data da recepção: Comentários: Referência da ficha analítica: Código do laboratório: Amostras registadas por:
+ 24 25

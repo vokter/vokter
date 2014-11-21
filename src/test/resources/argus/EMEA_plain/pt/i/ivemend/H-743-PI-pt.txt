@@ -1,0 +1,367 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. NOME DO MEDICAMENTO
+ IVEMEND 115 mg pó para solução para perfusão
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada frasco para injectáveis contém fosaprepitant dimeglumina equivalente a 115 mg de fosaprepitant. Após reconstituição e diluição,1 ml de solução contém 1 mg de fosaprepitant (ver secção 6.6).
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Pó para solução para perfusão. Pó amorfo de cor branca ou esbranquiçada.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Prevenção da náusea e vómito agudos e tardios associados a quimioterapia antineoplásica altamente emetizante baseada em cisplatina.
+ Prevenção da náusea e vómito associados a quimioterapia antineoplásica moderadamente emetizante.
+ IVEMEND é administrado como parte de uma terapêutica combinada (ver secção 4.2).
+ 4.2 Posologia e modo de administração IVEMEND é um pró-fármaco liofilizado do aprepitant que contém polissorbato 80 (PS80) para administração intravenosa. O aprepitant encontra-se disponível em cápsulas para administração oral.
+ Posologia IVEMEND (115 mg), administrado em perfusão intravenosa durante 15 minutos, pode substituir o aprepitant (125 mg) antes da quimioterapia, apenas no Dia 1 do regime para náusea e vómito associados a quimioterapia antineoplásica (CINV) (ver secção 6.6).
+ O regime posológico de 3 dias para CINV inclui IVEMEND (115 mg) 30 minutos antes do início da quimioterapia ou aprepitant (125 mg) uma hora antes da quimioterapia no Dia 1; aprepitant (80 mg) nos Dias 2 e 3; adicionado a um corticosteróide e a um antagonista da 5-HT3.
+ São recomendados os seguintes regimes terapêuticos para a prevenção da náusea e vómito associados a quimioterapia antineoplásica emetizante, com base nos estudos clínicos com aprepitant:
+ 2 Regime Terapêutico para Quimioterapia Altamente Emetizante
+ Dia 1 Dia 2 Dia 3 Dia 4 IVEMEND 115 mg por via intravenosa --
+ -
+ Aprepitant -
+ 80 mg por via 80 mg por via
+ -
+ oral
+ oral
+ Dexametasona 12 mg por via oral 8 mg por via 8 mg por via oral oral
+ 8 mg por via oral Ondansetron 32 mg por via intravenosa --
+ -
+ Em estudos clínicos: O aprepitant foi administrado por via oral 1 hora antes do início da quimioterapia no Dia 1 e na manhã nos Dias 2 e 3. A dexametasona foi administrada 30 minutos antes do início da quimioterapia no Dia 1 e na manhã nos Dias 2 a 4. A dose de dexametasona foi escolhida tendo em consideração as interacções medicamentosas. O ondansetron foi administrado por via intravenosa 30 minutos antes do início da quimioterapia no Dia 1.
+ Regime Terapêutico para Quimioterapia Moderadamente Emetizante
+ Dia 1 Dia 2 Dia 3 IVEMEND 115 mg por via intravenosa
+ -
+ -
+ Aprepitant -
+ 80 mg por via oral 80 mg por via oral Dexametasona 12 mg por via oral -
+ -
+ Ondansetron 2 x 8 mg por via oral -
+ -
+ Em estudos clínicos: O aprepitant foi administrado por via oral 1 hora antes do início da quimioterapia no Dia 1 e na manhã nos Dias 2 e 3. A dexametasona foi administrada 30 minutos antes do início da quimioterapia no Dia 1. A dose de dexametasona foi escolhida tendo em consideração as interacções medicamentosas. Foi administrada 1 cápsula de 8 mg de ondansetron 30 a 60 minutos antes do início da quimioterapia e 1 cápsula de 8 mg,8 horas após a primeira dose no Dia 1.
+ Informações gerais Os dados relativos à eficácia da associação com outros corticosteróides e antagonistas da 5-HT3 são limitados. Para informações adicionais sobre a co-administração com corticosteróides, ver a secção 4.5.
+ Consultar toda a informação do medicamento dos agentes anti-eméticos administrados concomitantemente.
+ Idosos Não é necessário qualquer ajuste da dose nos idosos.
+ Compromisso Renal Não é necessário qualquer ajuste da dose nos doentes com insuficiência renal ou nos doentes com doença renal terminal a fazer hemodiálise (ver secção 5.2).
+ Compromisso Hepático Não é necessário qualquer ajuste da dose nos doentes com insuficiência hepática ligeira. Os dados relativos a doentes com insuficiência hepática moderada são limitados e não existem dados referentes a doentes com insuficiência hepática grave (ver secções 4.4 e 5.2).
+ 3 Crianças e adolescentes IVEMEND não é recomendado em crianças com idade inferior a 18 anos porque os dados de segurança e eficácia são insuficientes (ver secção 5.2).
+ Modo de Administração IVEMEND deve ser administrado por via intravenosa e não deve ser administrado por via intramuscular ou subcutânea. A administração ocorre preferencialmente por perfusão intravenosa durante 15 minutos (ver secção 6.6). Não administrar IVEMEND em bólus intravenoso ou em solução não diluída.
+ 4.3 Contra-indicações Hipersensibilidade à substância activa, aprepitant, ou ao polissorbato 80 ou a qualquer um dos outros excipientes.
+ Co-administração com pimozida, terfenadina, astemizol ou cisaprida (ver secção 4.5).
+ 4.4 Advertências e precauções especiais de utilização
+ Os dados relativos a doentes com insuficiência hepática moderada são limitados e inexistentes para doentes com insuficiência hepática grave. IVEMEND deve ser usado com precaução nestes doentes (ver secção 5.2).
+ O IVEMEND e o aprepitant por via oral devem ser usados com precaução em doentes com administração concomitante de medicamentos por via oral que são principalmente metabolizados através do CYP3A4 (ver secção 4.5). Adicionalmente, a administração concomitante com irinotecan deve ser efectuada com especial precaução, uma vez que a associação poderá resultar num aumento de toxicidade.
+ A co-administração de fosaprepitant com alcalóides derivados da cravagem de centeio, que são substratos do CYP3A4, pode resultar no aumento das concentrações plasmáticas destes medicamentos. Consequentemente, é aconselha-se precaução devido ao potencial risco de toxicidade relacionada com os alcalóides derivados da cravagem de centeio.
+ A co-administração de aprepitant por via oral com varfarina resulta numa redução do tempo de protrombina, referenciado como Razão Internacional Normalizada (INR). Em doentes em tratamento crónico com varfarina, o INR deve ser cuidadosamente monitorizado durante o tratamento com aprepitant por via oral e nas 2 semanas após cada ciclo de 3 dias de fosaprepitant seguido de aprepitant por via oral para a náusea e vómito induzidos pela quimioterapia (ver secção 4.5).
+ A eficácia dos contraceptivos hormonais pode estar diminuída durante a administração de aprepitant e nos 28 dias seguintes. Deverão ser usados métodos de contracepção alternativos ou de reforço durante o tratamento com fosaprepitant ou aprepitant e durante 2 meses após a última administração de aprepitant (ver secção 4.5).
+ A administração concomitante de fosaprepitant com medicamentos que induzam fortemente a actividade do CYP3A4 (ex. rifampicina, fenitoína, carbamazepina, fenobarbital) deve ser evitada, uma vez que a associação resulta em redução das concentrações plasmáticas de aprepitant (ver secção 4.5). Não é recomendada a administração concomitante de fosaprepitant com Hipericão.
+ A administração concomitante de fosaprepitant com medicamentos que inibam a actividade do CYP3A4 (ex. ritonavir, cetoconazol, claritromicina, telitromicina) deve ser efectuada com precaução, uma vez que da associação resulta um aumento das concentrações plasmáticas de aprepitant (ver secção 4.5).
+ IVEMEND não deve ser administrado em bólus intravenoso, mas deve ser sempre diluído e administrado por perfusão intravenosa lenta (ver secção 4.2). IVEMEND não deve ser administrado
+ 4 por via intramuscular ou subcutânea. Observou-se trombose ligeira no local da injecção com doses superiores (ver secção 4.9). Se ocorrerem sinais ou sintomas de irritação local, a injecção ou perfusão deve ser interrompida e recomeçada noutra veia.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Quando administrado por via intravenosa o fosaprepitant é rapidamente convertido em aprepitant.
+ As interacções medicamentosas decorrentes da administração de fosaprepitant são passíveis de ocorrer com medicamentos que interagem com o aprepitant administrado por via oral. A informação seguinte resultou de dados obtidos com o aprepitant por via oral e de estudos realizados com fosaprepitant e midazolam ou diltiazem.
+ O aprepitant é um substrato, inibidor moderado e indutor do CYP3A4. O aprepitant é também um indutor do CYP2C9. O CYP3A4 é inibido durante o tratamento com aprepitant por via oral. Após o fim do tratamento, o aprepitant por via oral causa uma indução moderada transitória do CYP2C9 e uma indução ligeira transitória do CYP3A4 e da glucuronidação.
+ Efeito do aprepitant na farmacocinética de outros medicamentos Inibição do CYP3A4 Como inibidor moderado do CYP3A4, o aprepitant pode aumentar as concentrações plasmáticas dos medicamentos co-administrados por via oral que são metabolizados via CYP3A4. A AUC dos substratos do CYP3A4 administrados por via oral pode aumentar, aproximadamente, até ao triplo durante o tratamento de 3 dias com fosaprepitant seguido de aprepitant por via oral; espera-se que o aprepitant tenha um efeito menor nas concentrações plasmáticas dos substratos do CYP3A4 administrados por via intravenosa. É aconselhável usar-se de precaução durante a administração concomitante de fosaprepitant e substratos do CYP3A4.
+ O fosaprepitant não pode ser usado concomitantemente com pimozida, terfenadina, astemizol ou cisaprida. A inibição do CYP3A4 pelo aprepitant pode resultar num aumento das concentrações plasmáticas destes medicamentos, podendo causar reacções graves ou ameaçadoras da vida.
+ Indução Como indutor moderado do CYP2C9 e um indutor ligeiro do CYP3A4 e da glucuronidação, o aprepitant pode diminuir as concentrações plasmáticas dos substratos eliminados por estas vias no período de duas semanas após o início da administração do regime terapêutico. Este efeito pode tornar-se visível somente após o final de um regime de 3 dias com fosaprepitant, seguido de aprepitant. Para os substratos do CYP2C9 e do CYP3A4, a indução é transitória, sendo o efeito máximo atingido 3-5 dias após a conclusão do tratamento de 3 dias com aprepitant por via oral. O efeito mantém-se durante alguns dias, diminuindo lentamente a partir daí, tornando-se clinicamente insignificante 2 semanas após a finalização do tratamento com aprepitant por via oral. É também observada indução ligeira da glucuronidação com 80 mg de aprepitant administrado por via oral durante 7 dias. Não há dados sobre os efeitos no CYP2C8 e CYP2C19. É aconselhável precaução quando se administram durante este período varfarina, acenocumarol, tolbutamida, fenitoína ou outros medicamentos que se sabe serem metabolizados pelo CYP2C9.
+ O fosaprepitant ou o aprepitant não parecem interagir com o transportador da glicoproteina-P, como foi demonstrado pela ausência de interacção do aprepitant por via oral com digoxina.
+ Corticosteróides: Dexametasona: A dose habitual de dexametasona por via oral deverá ser reduzida em aproximadamente 50% quando co-administrada com um regime de fosaprepitant seguido de aprepitant. Nos ensaios clínicos que estudaram a náusea e vómito induzidos por quimioterapia, a dose de dexametasona foi seleccionada tendo em consideração as interacções medicamentosas (ver secção 4.2). Quando se co-administrou por via oral o regime terapêutico de 125 mg de aprepitant com 20 mg de dexametasona no Dia 1, e 80 mg/dia de aprepitant com 8 mg de dexametasona do Dia 2 até ao Dia
+ 5 5, verificou-se um aumento da AUC da dexametasona de 2,2 vezes nos Dias 1 e 5, por esta ser um substrato do CYP3A4.
+ Metilprednisolona: A dose habitual de metilprednisolona administrada por via intravenosa deverá ser reduzida em aproximadamente 25%, e a dose habitual de metilprednisolona administrada por via oral deverá ser reduzida em aproximadamente 50% quando co-administrada com um regime de fosaprepitant, seguido de aprepitant. Quando se administrou aprepitant por via oral, num regime posológico de 125 mg no Dia 1 e de 80 mg/dia nos Dias 2 e 3, verificou-se um aumento da AUC da metilprednisolona, um substrato do CYP3A4, de cerca de 1,3 vezes no Dia 1 e de cerca de 2,5 vezes no Dia 3, quando a metilprednisolona foi co-administrada no regime terapêutico de 125 mg no Dia 1 por via intravenosa e de 40 mg nos Dias 2 e 3 por via oral.
+ Durante o tratamento contínuo com metilprednisolona, a AUC da metilprednisolona pode diminuir posteriormente durante 2 semanas após o início da administração de aprepitant por via oral, devido ao efeito indutor do aprepitant no CYP3A4. Pode prever-se um efeito mais pronunciado para a metilprednisolona administrada por via oral.
+ Agentes quimioterápicos: Em estudos de farmacocinética, o aprepitant por via oral, quando administrado num regime de 125 mg no Dia 1 e de 80 mg/dia nos Dias 2 e 3, não influenciou a farmacocinética do docetaxel administrado por via intravenosa no Dia 1 ou da vinorelbina administrada por via intravenosa no Dia 1 ou no Dia 8. Uma vez que o efeito do aprepitant na farmacocinética de substratos do CYP3A4 administrados por via oral é superior ao efeito do aprepitant na farmacocinética de substratos do CYP3A4 administrados por via intravenosa, não pode ser excluída uma interacção com agentes de quimioterapia administrados por via oral metabolizados principalmente ou em parte pelo CYP3A4 (ex., etoposido, vinorelbina). É aconselhável precaução e poderá ser necessária uma monitorização adicional nos doentes que tomem esses fármacos (ver secção 4.4).
+ Midazolam: Os potenciais efeitos do aumento das concentrações plasmáticas de midazolam ou de outras benzodiazepinas metabolizadas através do CYP3A4 (alprazolam, triazolam) devem ser considerados quando estes agentes são co-administrados num regime de tratamento de 3 dias conjuntamente com fosaprepitant, seguido de aprepitant.
+ O fosaprepitant administrado numa dose de 100 mg durante 15 minutos com uma dose única de 2 mg de midazolam, aumentou a AUC do midazolam em 1,6 vezes. Este efeito não foi considerado clinicamente importante.
+ O aprepitant por via oral aumentou a AUC do midazolam em 2,3 vezes no Dia 1 e 3,3 vezes no Dia 5, quando se co-administrou uma dose oral única de 2 mg de midazolam nos Dias 1 e 5 com um regime posológico de 125 mg de aprepitant por via oral no Dia 1 e de 80 mg/dia nos Dias 2 a 5.
+ Num outro estudo de administração intravenosa com midazolam, foi administrado aprepitant por via oral na dosagem de 125 mg no Dia 1 e de 80 mg/dia nos Dias 2 e 3, tendo sido administrado 2 mg de midazolam por via intravenosa antes da administração do regime posológico de aprepitant por via oral com duração de 3 dias, e nos Dias 4,8 e 15. O aprepitant por via oral aumentou a AUC do midazolam em 25% no Dia 4 e diminuiu a AUC do midazolam em 19% no Dia 8 e em 4% no Dia 15. Estes efeitos não foram considerados clinicamente importantes.
+ Num terceiro estudo com administração intravenosa e oral de midazolam, foi administrado aprepitant por via oral na dosagem de 125 mg no Dia 1 e de 80 mg/dia nos Dias 2 e 3, em associação com 32 mg de ondansetron no Dia 1,12 mg de dexametasona no Dia 1 e 8 mg nos Dias 2-4. Esta associação (i. e. aprepitant por via oral, ondansetron e dexametasona) diminuiu a AUC do midazolam administrado por via oral em 16% no Dia 6, em 9% no Dia 8, em 7% no Dia 15 e em 17% no Dia 22. Estes efeitos não foram considerados clinicamente importantes.
+ Terminou um quarto estudo com administração intravenosa de midazolam e de aprepitant por via oral. Foram administrados 2 mg de midazolam por via intravenosa 1 hora após a administração oral de uma
+ 6 dose oral única de 125 mg de aprepitant. A AUC plasmática do midazolam aumentou cerca de 1,5 vezes. Este efeito não foi considerado clinicamente importante.
+ Diltiazem: Em doentes com hipertensão ligeira a moderada, uma perfusão de 100 mg de fosaprepitant durante 15 minutos com 120 mg de diltiazem 3 vezes por dia, resultou num aumento da AUC do diltiazem de 1,4 vezes e numa pequena diminuição, clinicamente significativa, da pressão arterial, mas não resultou numa alteração clinicamente significativa da frequência cardíaca ou do intervalo PR.
+ Varfarina: Nos doentes em tratamento crónico com varfarina, o tempo de protrombina (INR) deverá ser cuidadosamente monitorizado durante o tratamento com aprepitant e nas 2 semanas após cada ciclo de 3 dias para a náusea e vómito induzidos pela quimioterapia (ver secção 4.4). Quando se administrou uma dose oral única de 125 mg de aprepitant no Dia 1 e de 80 mg/dia nos Dias 2 e 3 a indivíduos saudáveis estáveis com terapêutica crónica com varfarina, não se registou qualquer efeito do aprepitant por via oral na AUC plasmática da varfarina R(+) ou S (-) determinada no Dia 3; contudo, houve uma diminuição de 34% na concentração da varfarina S (-) no vale (um substrato do CYP2C9), acompanhada por uma diminuição de cerca de 14% no INR,5 dias depois de terminar a administração oral de aprepitant.
+ Tolbutamida: O aprepitant por via oral, quando administrado na dose de 125 mg no Dia 1 e 80 mg/dia nos Dias 2 e 3, diminuiu a AUC da tolbutamida (um substrato do CYP2C9) em cerca de 23% no Dia 4,28% no Dia 8, e 15% no Dia 15, quando se administrou uma dose única de 500 mg de tolbutamida por via oral antes da administração do regime posológico de aprepitant por via oral durante 3 dias, e nos Dias 4,8 e 15.
+ Contraceptivos orais: A eficácia dos contraceptivos hormonais pode estar diminuída durante a administração oral de aprepitant e nos 28 dias seguintes. Deverão ser usados métodos de contracepção alternativos ou de reforço durante o tratamento com fosaprepitant ou aprepitant por via oral e durante 2 meses após a última administração de aprepitant. O aprepitant, quando administrado uma vez por dia durante 14 dias em cápsulas de 100 mg, juntamente com um contraceptivo oral contendo 35 µg de etinilestradiol e 1 mg de noretindrona, diminuiu a AUC do etinilestradiol em cerca de 43%, e diminuiu a AUC da noretindrona em cerca de 8%.
+ Num outro estudo, foram administradas do Dia 1 até ao Dia 21, doses únicas de um contraceptivo oral contendo etinilestradiol e noretindrona com aprepitant por via oral, num regime terapêutico de 125 mg no Dia 8 e de 80 mg nos Dias 9 e 10, com 32 mg de ondansetron por via intravenosa no Dia 8 e com 12 mg de dexametasona por via oral no Dia 8 e 8 mg/dia nos Dias 9,10 e 11. Neste estudo, do dia 9 ao dia 21, houve uma diminuição da ordem dos 64% nas concentrações no vale do etinil estradiol e uma diminuição da ordem dos 60% nas concentrações no vale de noretindrona.
+ Antagonistas da 5-HT3: Nos estudos clínicos de interacção, o aprepitant não teve efeitos clinicamente importantes na farmacocinética do ondansetron, do granisetron ou do hidrodolasetron (o metabolito activo do dolasetron).
+ Efeito de outros agentes na farmacocinética do aprepitant A administração concomitante de fosaprepitant ou aprepitant com medicamentos que inibam a actividade do CYP3A4 (ex. ritonavir, cetoconazol, claritromicina, telitromicina) deve ser efectuada com precaução, uma vez que da associação resulta um aumento das concentrações plasmáticas do aprepitant.
+ A administração concomitante de fosaprepitant ou de aprepitant com medicamentos que induzam fortemente a actividade do CYP3A4 (ex. rifampicina, fenitoína, carbamazepina, fenobarbital) deve ser evitada, uma vez que da associação resulta uma redução das concentrações plasmáticas do aprepitant, o que poderá diminuir a sua eficácia. Não é recomendada a administração concomitante de fosaprepitant com Erva de S. João.
+ Cetoconazol: Quando se administrou uma dose oral única de 125 mg de aprepitant no Dia 5 de um regime terapêutico de 10 dias com 400 mg/dia de cetoconazol, um forte inibidor do CYP3A4, a AUC
+ 7 do aprepitant aumentou aproximadamente 5 vezes e a semi-vida terminal média do aprepitant aumentou aproximadamente 3 vezes.
+ Diltiazem: A perfusão de 100 mg de fosaprepitant durante 15 minutos com 120 mg de diltiazem 3 vezes ao dia, resultou num aumento da AUC do aprepitant de 1,5 vezes. Este efeito não foi considerado clinicamente importante.
+ Rifampicina: Quando se administrou uma dose oral única de 375 mg de aprepitant no Dia 9 de um regime terapêutico de 14 dias de 600 mg/dia de rifampicina, um forte indutor do CYP3A4, a AUC do aprepitant diminuiu 91% e a semi-vida terminal média diminuiu 68%.
+ 4.6 Gravidez e aleitamento Não há dados clínicos de exposição na gravidez para fosaprepitant e aprepitant.
+ O potencial das toxicidades reprodutivas do fosaprepitant e aprepitant não foi completamente caracterizado, uma vez que nos estudos com animais não se atingiram níveis de exposição superiores aos níveis de exposição terapêuticos em humanos. Estes estudos não indicaram a existência de efeitos prejudiciais directos ou indirectos no que respeita a gravidez, desenvolvimento embrionário/fetal, parto ou desenvolvimento pós-natal (ver secção 5.3). Desconhecem-se os potenciais efeitos das alterações de regulação da neuroquinina na reprodução. IVEMEND não deve ser usado durante a gravidez, excepto se for estritamente necessário.
+ O aprepitant é excretado no leite de ratos lactantes após administração intravenosa de fosaprepitant, bem como após administração oral de aprepitant. Não se sabe se o aprepitant é excretado no leite humano. Consequentemente, o aleitamento não é recomendado durante o tratamento com IVEMEND e aprepitant por via oral.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos de IVEMEND sobre a capacidade de conduzir e utilizar máquinas. No entanto, quando se conduz ou utilizam máquinas deve ter-se em consideração que foram notificadas tonturas e fadiga após utilização de IVEMEND (ver secção 4.8).
+ 4.8 Efeitos indesejáveis Uma vez que o fosaprepitant é convertido em aprepitant, espera-se que as reacções adversas associadas com o aprepitant ocorram com o fosaprepitant. O perfil de segurança do aprepitant foi avaliado em aproximadamente 4.900 indivíduos. Foram administradas várias formulações de fosaprepitant a um total de 729 indivíduos incluindo 347 indivíduos saudáveis e 149 doentes com CINV.
+ As reacções adversas consideradas pelo investigador como relacionadas com o fármaco, foram notificadas em aproximadamente 17% dos doentes tratados com o regime terapêutico contendo aprepitant, em comparação com aproximadamente 13% dos doentes tratados com a terapêutica de referência em doentes que efectuaram quimioterapia altamente emetizante. A administração de aprepitant foi interrompida devido a reacções adversas em 0,6% dos doentes tratados com o regime terapêutico contendo aprepitant, em comparação com 0,4% dos doentes tratados com a terapêutica de referência. Num estudo clínico com doentes que efectuaram quimioterapia moderadamente emetizante, foram notificadas reacções adversas clínicas, aproximadamente, em 21% dos doentes tratados com o regime de tratamento que incluía aprepitant, em comparação com, aproximadamente,20% dos doentes tratados com terapêutica convencional. A administração de aprepitant foi interrompida devido a reacções adversas em 1,1% dos doentes tratados com o regime de aprepitant, em comparação com 0,5% dos doentes tratados com terapêutica de referência.
+ As reacções adversas mais frequentemente notificadas com maior incidência em doentes tratados com o regime terapêutico contendo aprepitant versus as notificadas com a terapêutica de referência em
+ 8 doentes que efectuaram quimioterapia altamente emetizante foram: soluços (4,6%), astenia/fadiga (2,9%), elevação da ALT (2,8%), obstipação (2,2%), cefaleias (2,2%) e anorexia (2,0%). A reacção adversa mais frequentemente notificada com maior incidência em doentes tratados com o regime de aprepitant quando comparada com a terapêutica de referência em doentes que efectuaram quimioterapia moderadamente emetizante foi a fadiga (2,5%).
+ Foram observadas as seguintes reacções adversas em doentes tratados com o regime terapêutico com aprepitant e com uma incidência superior à registada com a terapêutica de referência:
+ As frequências são definidas como: muito frequentes (≥1/10); frequentes (≥1/100 a &lt; 1/10); pouco frequentes (≥1/1.000 a &lt; 1/100); raras (≥1/10.000 a &lt; 1/1.000); muito raras (&lt; 1/10.000), não conhecidas (não podem ser estimadas a partir dos dados disponíveis).
+ Exames complementares de diagnóstico: Frequentes: elevação da ALT, elevação da AST. Pouco frequentes: elevação da fosfatase alcalina, hiperglicémia, hematúria microscópica, hiponatrémia, perda de peso.
+ Cardiopatias: Pouco frequentes: bradicárdia.
+ Doenças do sangue e do sistema linfático: Pouco frequentes: anemia, neutropénia febril.
+ Doenças do sistema nervoso: Frequentes: cefaleias, tonturas. Pouco frequentes: sonhos anómalos, alterações cognitivas.
+ Afecções oculares: Pouco frequentes: conjuntivite.
+ Afecções do ouvido e do labirinto: Pouco frequentes: acufenos.
+ Doenças respiratórias, torácicas e do mediastino: Frequentes: soluços. Pouco frequentes: faringite, espirros, tosse, rinorreia posterior, garganta irritada.
+ Doenças gastrointestinais: Frequentes: obstipação, diarreia, dispepsia, eructações Pouco frequentes: náuseas*, vómitos*, refluxo ácido, disgeusia, desconforto epigástrico, obstipação grave, refluxo gastroesofágico, úlcera duodenal perfurada, dor abdominal, xerostomia, enterocolite, flatulência, estomatite.
+ Doenças renais e urinárias: Pouco frequentes: poliúria, disúria, polaquiúria.
+ Afecções dos tecidos cutâneos e subcutâneos: Pouco frequentes: exantema, acne, fotossensibilidade, hiperhidrose, pele oleosa, prurido, lesões cutâneas.
+ Afecções musculosqueléticas e dos tecidos conjuntivos: Pouco frequente: cãibras musculares, mialgias.
+ Doenças do metabolismo e da nutrição: Frequentes: anorexia. Pouco frequentes: aumento de peso, polidipsia.
+ 9 Infecções e infestações: Pouco frequentes: candidíase, infecção por estafilococcus
+ Vasculopatias: Pouco frequentes: rubor facial/afrontamentos.
+ Perturbações gerais e alterações no local de administração: Frequentes: astenia/fadiga Pouco frequentes: edema, desconforto pré-cordial, letargia, sede.
+ Perturbações do foro psiquiátrico: Pouco frequentes: desorientação, euforia, ansiedade.
+ * A náusea e vómito foram parâmetros de eficácia nos primeiros 5 dias após o tratamento de quimioterapia e foram notificados como reacções adversas apenas a partir daí.
+ Os perfis de reacções adversas durante a extensão dos Ciclos-Múltiplos, até 5 ciclos adicionais de quimioterapia, foram geralmente semelhantes aos observados no Ciclo 1.
+ Foi notificado um caso de síndrome de Stevens-Johnson como um acontecimento adverso grave num doente a receber aprepitant com terapêutica oncológica.
+ Outras reacções adversas frequentes num estudo de bioequivalência, em que 66 doentes receberam 115 mg de fosaprepitant por via intravenosa, foram endurecimento e dor no local de perfusão.
+ Foram observadas reacções adversas adicionais em doentes tratados com aprepitant (40 mg) para a náusea e vómito no pós-operatório e com maior incidência do que com ondansetron: dor abdominal superior, ruídos intestinais anómalos, disartria, dispneia, hipostesia, insónia, miose, náusea, perturbações sensoriais, desconforto gástrico, diminuição da acuidade visual, respiração sibilante.
+ Adicionalmente, foram notificadas duas reacções adversas graves nos estudos clínicos de náusea e vómito no pós-operatório em doentes a tomar uma dose mais elevada de aprepitant: um caso de obstipação e um caso de sub-oclusão.
+ Foi notificado um caso de angioedema e de urticária como acontecimento adverso grave num doente tratado com aprepitant num estudo não relacionado com a prevenção da náusea e vómito no pós-operatório nem a quimioterapia emetizante.
+ 4.9 Sobredosagem Não está disponível informação específica sobre o tratamento da sobredosagem.
+ Foram notificadas sonolência e cefaleias num doente que ingeriu 1.440 mg de aprepitant.
+ Doses únicas de fosaprepitant até 200 mg foram geralmente bem toleradas em indivíduos saudáveis. Três em 33 indivíduos que receberam 200 mg de fosaprepitant apresentaram trombose ligeira no local de injecção.
+ Em caso de sobredosagem, a administração de fosaprepitant deve ser interrompida e deve ser administrado tratamento geral de suporte com monitorização. Devido à actividade anti-emética do aprepitant, a emese induzida por fármacos pode não ser eficaz.
+ O aprepitant não pode ser removido por hemodiálise.
+ 10 5. PROPRIEDADES FARMACOLÓGICAS
+ 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Anti-eméticos e anti-nauseosos, código ATC: A04A D12
+ O fosaprepitant é o pró-fármaco do aprepitant e quando administrado por via intravenosa é rapidamente convertido em aprepitant (ver secção 5.2). Ainda não foi completamente caracterizada a contribuição do fosaprepitant para efeito anti-emético global, mas não pode ser excluída uma contribuição transitória durante a fase inicial. O aprepitant é um antagonista selectivo, de elevada afinidade, dos receptores neuroquinina 1 (NK1) da substância P humana. O efeito farmacológico do fosaprepitant é atribuído ao aprepitant.
+ Em 2 estudos de distribuição aleatória com dupla ocultação que envolveram um total de 1.094 doentes a fazer quimioterapia, que incluía ≥ 70 mg/m2 de cisplatina, comparou-se o aprepitant em associação com um regime terapêutico que incluía ondansetron/dexametasona (ver secção 4.2) com um regime terapêutico de referência (placebo com 32 mg de ondansetron administrado por via intravenosa no Dia 1 com 20 mg de dexametasona administrados por via oral no Dia 1 e 8 mg administrados por via oral, duas vezes ao dia, nos Dias 2 a 4).
+ A eficácia foi baseada na avaliação da seguinte determinação composta: resposta completa (definida como ausência de episódios de emese e ausência de utilização de terapêutica de recurso) principalmente durante o Ciclo 1. Os resultados foram avaliados para cada estudo individual e para os 2 estudos em associação.
+ O Quadro 1 mostra um resumo dos resultados essenciais da análise combinada.
+ Quadro 1 Percentagem de Doentes que Efectuaram Quimioterapia Altamente Emetizante que Responderam, por Grupo e Fase de Tratamento — Ciclo 1
+ Regime Terapêutica de Diferenças* terapêutico com Referência Aprepitant AVALIAÇÕES COMPOSTAS
+ (N=
+ 521) †% (N= 524) †%%
+ (IC 95%)
+ Resposta Completa (sem emese e sem terapêutica de recurso)
+ Global (0-120 horas) 0-24 horas 25-120 horas
+ 67,7 86,0 71,5 47,8 73,2 51,2
+ 19,9 12,7 20,3 (14,0; 25,8) (7,9; 17,6) (14,5; 26,1)
+ AVALIAÇÕES INDIVIDUAIS Sem Emese (sem episódios de emese, independentemente do uso de terapêutica de recurso)
+ Global (0-120 horas) 0-24 horas 25-120 horas
+ 71,9 86,8 76,2
+ 49,7 74,0 53,5 22,2 12,7 20,3 (16,4; 28,0) (8, 0; 17,5) (17,0; 28,2)
+ Sem Náusea Significativa (VAS máximo &lt; 25 mm numa escala de 0-100 mm)
+ Global (0-120 horas) 25-120 horas
+ 72,1 74,0 64,9 66,9 7,2 7,1 (1,6; 12,8) (1,5 12,6)
+ * Os intervalos de confiança foram calculados sem qualquer ajuste para o sexo e terapêutica concomitante, que foram incluídos na análise primária dos rácios de probabilidade e modelos logísticos. † Um doente no Regime Terapêutico com Aprepitant só teve dados na fase aguda e foi excluído da análise total e da fase tardia; um doente da Terapêutica de Referência só teve dados na fase tardia e foi excluído da análise total e da fase aguda.
+ 11 O tempo calculado para a primeira emese na análise combinada é representado pelo diagrama de Kaplan-Meier na Figura 1.
+ Figura 1 Percentagem de Doentes que Efectuaram Quimioterapia Altamente Emetizante Sem Emese Ao Longo Do Tempo – Ciclo 1
+ 100% Aprepitant Regimen (N=520) Esquema com Aprepitant (N=520) Terapêutica de Referência (N=523) Standard Therapy (N=523) 90% Percent of Patients
+ 80%
+ 70%
+ 60%
+ 50%
+ 40% 0
+ 12 24 36 48 60 72 84 96 108 120 Tempo (horas)
+ Foram também observadas diferenças estatisticamente significativas na eficácia em cada um dos 2 estudos individuais.
+ Nos mesmos 2 ensaios clínicos,851 doentes continuaram na extensão de Ciclos-Múltiplos até 5 ciclos adicionais de quimioterapia. A eficácia do regime terapêutico contendo aprepitant manteve-se durante todos os ciclos.
+ Num estudo de distribuição aleatória em dupla ocultação que envolveu um total de 866 doentes (864 mulheres,2 homens) a fazer quimioterapia, que incluía 750-1500 mg/m2 de ciclofosfamida; ou 500-1500 mg/m2 de ciclofosfamida e doxorrubicina (≤60 mg/m2) ou epirrubicina (≤100 mg/m2), comparou-se o aprepitant em associação com um regime de ondansetron/dexametasona (ver secção 4.2) com a terapêutica de referência (placebo e 8 mg de ondansetron administrado por via oral (duas vezes por dia no Dia 1 e de 12 em 12 horas nos Dias 2 e 3) e 20 mg de dexametasona por via oral no Dia 1).
+ A eficácia foi baseada na avaliação dos seguintes resultados compostos: resposta completa (definida como ausência de episódios de emese e ausência de utilização de terapêutica de recurso) principalmente durante o Ciclo 1.
+ No Quadro 2 é apresentado um resumo dos principais resultados do estudo.
+ 12 Quadro 2 Percentagem de Doentes que Responderam, por Grupo e Fase de Tratamento — Ciclo 1 Quimioterapia Moderadamente Emetizante
+ Regime Terapêutica Diferenças* terapêutico com
+ de
+ AVALIAÇÕES COMPOSTAS Aprepitant Referência (N= 433) †
+ (N= 424)
+ %
+ %%
+ (IC 95%)
+ Resposta Completa (sem emese e sem terapêutica de recurso)
+ Global (0-120 horas) 0-24 horas 25-120 horas
+ 50.8 75.7 55.4
+ 42.5 69.0 49.1
+ 8.3 6.7 6.3 (1.6; 15.0) (0.7; 12.7) (-0.4; 13.0)
+ AVALIAÇÕES INDIVIDUAIS Sem Emese (sem episódios de emese, independentemente do uso de terapêutica de recurso)
+ Global (0-120 horas) 0-24 horas 25-120 horas
+ 75.7 87.5 80.8
+ 58.7 77.3 69.1 17.0 10.2 11.7 (10.8; 23.2) (5.1; 15.3) (5.9; 17.5)
+ Sem Náusea Significativa (VAS máximo &lt; 25 mm numa escala de 0-100 mm)
+ Global (0-120 horas) 0-24 horas
+ 60.9 79.5 55.7 78.3 5.3 1.3 (-1.3; 11.9) (-4.2; 6.8)
+ 25-120 horas 65.3 61.5 3.9 (-2.6; 10.3)
+ * Os intervalos de confiança foram calculados sem qualquer ajuste para a faixa etária (&lt; 55 anos, ≥55 anos) e grupo de investigador, que foram incluídos na análise primária dos rácios de probabilidade e modelos logísticos. † Um doente no Regime Terapêutico com Aprepitant só teve dados na fase aguda e foi excluído da análise total e da fase tardia.
+ 13 O tempo calculado para o primeiro episódio de vómitos no estudo é representado pelo diagrama de Kaplan-Meier na Figura 2.
+ Figura 2 Percentagem de Doentes a Receber Quimioterapia Moderadamente Emetizante Sem Emese Ao Longo Do Tempo – Ciclo 1
+ 100
+ Esquema Aprepitant Regimen (N=432) com Aprepitant (N=432) Terapêutica de Referência(N=424) Standard Therapy (N=424) 90
+ 80 Percentagem de doentes
+ 70
+ 60
+ 50
+ 40
+ 1 2 3 4 6 7 8 9 10 12 Tempo (horas)
+ No mesmo ensaio clínico,744 doentes continuaram na extensão de Ciclos-Múltiplos até 3 ciclos adicionais de quimioterapia. A eficácia do regime terapêutico contendo aprepitant, manteve-se durante todos os ciclos.
+ 5.2 Propriedades farmacocinéticas O fosaprepitant, um pró-fármaco do aprepitant, quando administrado por via intravenosa é rapidamente convertido a aprepitant. As concentrações plasmáticas de fosaprepitant estão abaixo dos níveis quantificáveis no período de 30 minutos após finalização da perfusão.
+ Aprepitant após administração de fosaprepitant A AUC do aprepitant após a administração de 115 mg de fosaprepitant foi equivalente à AUC de 125 mg de aprepitant por via oral, enquanto que a Cmáx foi 2,5 vezes superior.
+ Após a administração intravenosa de uma dose única de fosaprepitant numa perfusão de 15 minutos a voluntários saudáveis, a AUC0-24h do aprepitant foi de 19,8 µg• h/ml e a médias das concentrações máximas de aprepitant foi de 3,26 µg/ml. As concentrações plasmáticas médias de aprepitant desde as 4 horas após administração (incluindo a concentração 24 horas após a administração) foram semelhantes entre a dose de 125 mg de aprepitant por via oral e a dose de 115 mg de fosaprepitant por via intravenosa.
+ Distribuição O aprepitant tem uma forte ligação às proteínas, numa média de 97%. A média geométrica do volume de distribuição aparente no estado de equilíbrio (Vdss) é de aproximadamente 66 l no ser humano.
+ Metabolismo O fosaprepitant foi rapidamente convertido em aprepitant em incubações in vitro com preparações de fígado humano. Além disso, o fosaprepitant sofreu uma conversão rápida e quase completa a aprepitant em preparações S9 de outros tecidos humanos, incluindo o rim, pulmão e íleon. Assim, parece que a conversão de fosaprepitant em aprepitant pode ocorrer em múltiplos tecidos. No ser
+ 14 humano, o fosaprepitant administrado por via intravenosa foi rapidamente convertido em aprepitant ao fim de 30 minutos após a finalização da perfusão.
+ O aprepitant sofre uma extensa metabolização. Em adultos jovens saudáveis, o aprepitant representa aproximadamente 19% da radioactividade do plasma durante 72 horas após a administração intravenosa de uma dose única de 100 mg de pró-fármaco do aprepitant-[ 14C], indicando uma presença substancial de metabolitos no plasma. Foram identificados doze metabolitos do aprepitant no plasma humano. O metabolismo do aprepitant ocorre principalmente por oxidação no anel morfolino e nas suas cadeias laterais, e os metabolitos resultantes apresentavam uma fraca actividade. Os estudos in vitro usando microssomas de fígado humano indicam que o aprepitant é metabolizado principalmente pelo CYP3A4 e provavelmente, com uma menor contribuição, pelo CYP1A2 e pelo CYP2C19.
+ Todos os metabolitos observados na urina, fezes e plasma após a administração intravenosa de uma dose de 100 mg de fosaprepitant-[ 14C], foram também observados após a administração de uma dose oral de aprepitant-[ 14C]. Aquando da conversão de 115 mg de fosaprepitant em aprepitant, são libertados 18,3 mg de fosfato do fosaprepitant.
+ Eliminação O aprepitant não é excretado inalterado na urina. Os metabolitos são excretados na urina e nas fezes, através de excreção biliar. Após a administração intravenosa de uma dose única de 100 mg de fosaprepitant-[ 14C] a indivíduos saudáveis,57% da radioactividade foi recuperada na urina e 45% foi recuperada nas fezes.
+ A farmacocinética do aprepitant é não-linear ao longo do intervalo de doses clínicas. A semi-vida terminal variou aproximadamente entre 9 a 13 horas.
+ Farmacocinética nas populações especiais A farmacocinética do fosaprepitant não foi avaliada em populações especiais. Não são esperadas diferenças clinicamente significativas na farmacocinética do aprepitant devido à idade e ao sexo.
+ Doentes pediátricos: O fosaprepitant não foi avaliado em doentes com idade inferior a 18 anos.
+ Insuficiência hepática: O fosaprepitant é metabolizado em vários tecidos extra-hepáticos; logo, não se espera que a insuficiência hepática altere a conversão de fosaprepitant em aprepitant. A insuficiência hepática ligeira (5 a 6 na escala de Child-Pugh) não afecta a farmacocinética do aprepitant de forma clinicamente relevante. Não é necessário qualquer ajuste da dose nos doentes com insuficiência hepática ligeira. A partir dos dados disponíveis não é possível retirar conclusões sobre a influência da insuficiência hepática moderada (7 a 8 na escala de Child-Pugh) na farmacocinética do aprepitant. Não existem dados clínicos ou sobre farmacocinética em doentes com insuficiência hepática grave (&gt; 9 na escala de Child-Pugh).
+ Insuficiência renal: Administrou-se uma dose oral única de 240 mg de aprepitant a doentes com insuficiência renal grave (depuração da creatinina &lt; 30 ml/min) e a doentes com doença renal terminal (ESRD) a necessitarem de hemodiálise.
+ Em doentes com insuficiência renal grave, a AUC0-∞ do aprepitant total (não ligado e ligado às proteínas) diminuiu cerca de 21% e a Cmáx diminuiu cerca de 32%, em comparação com as de indivíduos saudáveis. Em doentes com ESRD a fazer hemodiálise, a AUC0-∞ do aprepitant total diminuiu cerca de 42% e a Cmáx diminuiu cerca de 32%. Devido às moderadas diminuições na ligação do aprepitant às proteínas em doentes com doença renal, a AUC do aprepitant não-ligado farmacologicamente activo não foi significativamente afectada em doentes com insuficiência renal, em comparação com indivíduos saudáveis. A hemodiálise realizada 4 ou 48 horas após a administração não teve efeito significativo na farmacocinética do aprepitant; menos de 0,2% da dose foi recuperada no dialisado.
+ Não é necessário qualquer ajuste da dose em doentes com insuficiência renal ou nos doentes com ESRD a fazer hemodiálise.
+ 15 Relação entre concentração e efeito O fosaprepitant é um pró-fármaco do aprepitant. Através do uso de um sinalizador de elevada especificidade para o receptor NK1, os estudos PET em homens jovens saudáveis após a administração de aprepitant por via oral demonstraram que o aprepitant penetra no cérebro e ocupa os receptores NK1 de modo dependente da dose e da concentração plasmática. Prevê-se que as concentrações plasmáticas de aprepitant atingidas com o regime terapêutico de 3 dias de EMEND causem uma ocupação dos receptores NK1 cerebrais superior a 95%. A relação entre concentração e efeito não foi avaliada após a administração de fosaprepitant.
+ 5.3 Dados de segurança pré-clínica Os dados pré-clínicos obtidos com a administração intravenosa de fosaprepitant e a administração oral de aprepitant não revelam riscos especiais para o ser humano, segundo estudos convencionais de toxicidade de dose única e de dose repetida, genotoxicidade (incluindo testes in vitro) e toxicidade reprodutiva. Em animais de laboratório, o fosaprepitant em formulações não destinadas à comercialização causou toxicidade vascular e hemólise em concentrações inferiores e superiores a 1 mg/ml, dependendo da formulação. Em células sanguíneas humanas lavadas foi também evidenciada hemólise com as formulações não destinadas à comercialização em concentrações de fosaprepitant iguais ou superiores a 2,3 mg/ml, apesar de as análises no sangue total terem sido negativas. Não houve hemólise com a formulação para comercialização até uma concentração de fosaprepitant de 1 mg/ml no sangue total humano e em eritrócitos humanos lavados.
+ O potencial carcinogénico em roedores foi apenas investigado com o aprepitant administrado por via oral. Contudo, deve ser realçado que o valor dos estudos de toxicidade realizados em roedores, coelho e macaco, incluindo os estudos de toxicidade reprodutiva, são limitados uma vez que as exposições sistémicas ao fosaprepitant e aprepitant foram apenas semelhantes ou mesmo inferiores à exposição terapêutica no ser humano. Nos estudos de farmacologia de segurança e toxicologia de dose repetida realizados com cães, a Cmáx do fosaprepitant e os valores de AUC do aprepitant foram, respectivamente, 4-7 vezes e 60-70 vezes superiores aos valores clínicos.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1. Lista dos excipientes Edetato dissódico – (E-386) Polissorbato 80 – (E-433) Lactose anidra Hidróxido de sódio – (E-524) (para ajuste do pH) e/ou Ácido clorídrico diluído – (E-507) (para ajuste do pH)
+ 6.2 Incompatibilidades O IVEMEND é incompatível com quaisquer soluções que contenham catiões divalentes (por ex., Ca2+, Mg2+), incluindo as Soluções de Hartman e Lactato de Ringer. Este medicamento não pode ser misturado com outros medicamentos, excepto os referidos na secção 6.6.
+ 6.3 Prazo de validade 2 anos Após reconstituição ou diluição, foi demonstrada estabilidade química e física durante a utilização num período de 24 horas a 25ºC. Do ponto de vista microbiológico, o produto deve ser usado imediatamente. Se não for usado imediatamente, os tempos de conservação durante a utilização e as condições antes da utilização são da responsabilidade do utilizador e não serão geralmente superiores a 24 horas entre 2 e 8ºC.
+ 16 6.4 Precauções especiais de conservação
+ Conservar no frigorífico (2ºC – 8ºC). Ver secção 6.3. para as condições de armazenamento do medicamento reconstituído ou diluído.
+ 6.5 Natureza e conteúdo do recipiente Frasco para injectáveis transparente de vidro Tipo I de 10 ml com uma rolha de borracha de clorobutilo ou bromobutilo e com um selo em alumínio com uma cápsula de fecho de tipo flip-off de plástico azul.
+ IVEMEND está disponível em embalagens de 1 frasco para injectáveis com 115 mg de fosaprepitant ou 10 frascos para injectáveis com 115 mg de fosaprepitant.
+ É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ Não existem requisitos especiais de eliminação.
+ IVEMEND tem de ser reconstituído e depois diluído antes da administração.
+ Preparação para administração intravenosa:
+ 1. Injectar 5 ml de solução para injectáveis de cloreto de sódio 9 mg/ml (0,9%) no frasco para injectáveis. Assegurar que a solução para injectáveis de cloreto de sódio 9 mg/ml (0,9%) é adicionada ao longo da parede do frasco para injectáveis para evitar a formação de espuma. Agitar o frasco para injectáveis cuidadosamente. Evitar agitar e fazer um jacto de solução para injectáveis de cloreto de sódio 9 mg/ml (0,9%) para dentro do frasco para injectáveis.
+ 2. Preparar um saco para perfusão com 110 ml de solução para injectáveis de cloreto de sódio 9 mg/ml (0,9%) (por exemplo, adicionando 10 ml de solução para injectáveis de cloreto de sódio 9 mg/ml (0,9%) a um saco para perfusão de 100 ml).
+ 3. Retirar o volume total do frasco para injectáveis e transferi-lo para um saco de perfusão que contém 110 ml de solução para injectáveis de cloreto de sódio 9 mg/ml (0,9%) para obter um volume total de 115 ml. Inverter o saco cuidadosamente 2 a 3 vezes.
+ O medicamento não pode ser reconstituído ou misturado com soluções para as quais não se tenha confirmado a estabilidade física e química (ver secção 6.2).
+ O aspecto da solução reconstituída é o mesmo da do solvente.
+ O medicamento deve ser inspeccionado visualmente para detecção de partículas e descoloração antes de ser administrado.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Merck Sharp &amp; Dohme Ltd. Hertford Road, Hoddesdon Hertfordshire EN 11 9BU Reino Unido
+ 17 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/07/437/001 EU/1/07/437/002 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 11 Janeiro 2008 10. DATA DA REVISÃO DO TEXTO Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu/.
+ 18 ANEXO II
+ A. TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 19 A FABRICANTE(S) DA(S) SUBSTÂNCIA(S) ACTIVA(S) DE ORIGEM BIOLÓGICA E &gt; TITULAR(ES) DE AUTORIZAÇÃO DE FABRICO RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do(s) fabricante(s) responsável(veis) pela libertação do lote
+ Merck Sharp &amp; Dohme B. V. Waarderweg 39 2031 BN Haarlem 2003 PC Haarlem Holanda
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento sujeito a receita médica. • CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ Não aplicável. • OUTRAS CONDIÇÕES
+ Sistema de farmacovigilância O Titular de AIM tem de assegurar que o sistema de farmacovigilância, tal como descrito na versão 3.0 apresentada no Módulo 1. 8.1 do Dossier de AIM, está activo e em funcionamento antes e durante a comercialização do medicamento.
+ Plano de Gestão do Risco O Titular de AIM compromete-se a realizar os estudos e actividades de farmacovigilância adicionais detalhadas no Plano de Farmacovigilância, tal como acordado na versão 1.3 do Plano de Gestão de Risco (PGR) apresentado no Módulo 1. 8.2 do Dossier de AIM e quaisquer actualizações subsequentes do PGR acordadas pelo CHMP.
+ De acordo com a Norma Orientadora do CHMP sobre o Sistema de Gestão do Risco para medicamentos de uso humano, deverá ser submetido um PGR actualizado em simultâneo com o próximo Relatório Periódico de Segurança (RPS).
+ Deve também ser submetido um PGR actualizado:
+ •
+ Quando for recebida nova informação que possa ter impacto na actual Especificação de Segurança, no Plano de Farmacovigilância ou nas actividades de minimização do risco
+ •
+ No prazo de 60 dias após a ocorrência de um acontecimento importante (farmacovigilância ou minimização do risco)
+ •
+ Por solicitação da EMEA 20 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 21 A. ROTULAGEM
+ 22 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ CARTONAGEM 1. NOME DO MEDICAMENTO IVEMEND 115 mg pó para solução para perfusão Fosaprepitant dimeglumina
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada frasco para injectáveis contém fosaprepitant dimeglumina equivalente a 115 mg de fosaprepitant.
+ 3. LISTA DOS EXCIPIENTES Edetato dissódico, polissorbato 80, lactose anidra, NaOH e/ou HCl diluído (para ajuste do pH)
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 1 frasco para injectáveis 10 frascos para injectáveis 1 mg/ml
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar. Via intravenosa após reconstituição e diluição. Para utilização única.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Conservar no frigorífico. Após reconstituição e diluição: 24 horas a 25ºC.
+ 23 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Merck Sharp &amp; Dohme Ltd. Hertford Road, Hoddesdon Hertfordshire EN 11 9BU Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/07/437/001 1 x 1 frasco para injectáveis EU/1/07/437/002 1 x 10 frascos para injectáveis
+ 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE IVEMEND 115 mg 24 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ RÓTULO DO FRASCO PARA INJECTÁVEIS 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ IVEMEND 115 mg pó para solução para perfusão Fosaprepitant dimeglumina Via intravenosa
+ 2. MODO DE ADMINISTRAÇÃO 3. PRAZO DE VALIDADE VAL. 4. NÚMERO DO LOTE Lote 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 6. OUTRAS 25 B. FOLHETO INFORMATIVO
+ 26 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ IVEMEND 115 mg pó para solução para perfusão (fosaprepitant dimeglumina)
+ Leia atentamente este folheto antes de utilizar este medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é IVEMEND e para que é utilizado 2. Antes de utilizar IVEMEND 3. Como utilizar IVEMEND 4. Efeitos secundários possíveis 5. Como conservar IVEMEND 6. Outras informações
+ 1. O QUE É IVEMEND E PARA QUE É UTILIZADO
+ IVEMEND é utilizado em conjunto com outros medicamentos para prevenir as náuseas e os vómitos causados pelos tratamentos de quimioterapia (por ex., tratamento do cancro).
+ 2. ANTES DE UTILIZAR IVEMEND Não utilize IVEMEND -Se tem alergia (hipersensibilidade) ao fosaprepitant (que é convertido em aprepitant no seu
+ organismo), aprepitant, ao polissorbato 80 ou a qualquer outro componente de IVEMEND.
+ -Com medicamentos contendo pimozida (usada para tratar doenças psiquiátricas), terfenadina e
+ astemizol (usados para tratar a febre dos fenos e outras doenças alérgicas), cisaprida (usada para tratar distúrbios da motilidade gastrointestinal). Informe o seu médico se está a tomar estes medicamentos, pois esse tratamento deverá ser modificado antes de começar a utilizar IVEMEND.
+ Tome especial cuidado com IVEMEND: -se tem doença de fígado
+ Utilização em crianças e adolescentes Não dê IVEMEND a doentes com menos de 18 anos de idade.
+ Utilizar IVEMEND com outros medicamentos IVEMEND pode afectar outros medicamentos durante e após o tratamento com IVEMEND. Há alguns medicamentos que não devem ser tomados com IVEMEND, ou que necessitam de um acerto da dose (ver também Não utilize IVEMEND). IVEMEND deve ser usado com precaução com diversos outros medicamentos. Como tal, é importante que, antes de começar a utilizar o medicamento, informe o seu médico se estiver a tomar, tiver tomado recentemente ou tencionar tomar outros medicamentos ou preparações de plantas medicinais, incluindo os que foram obtidos sem receita médica.
+ 27 Gravidez e aleitamento Não deve usar IVEMEND durante a gravidez a menos que seja manifestamente necessário. É importante que diga ao seu médico se está grávida ou se está a planear engravidar antes de utilizar IVEMEND.
+ Os medicamentos contraceptivos podem não ser eficazes quando tomados com IVEMEND. Por isso deverá ser usado outro método de contracepção durante o tratamento com IVEMEND e durante 2 meses após a sua utilização.
+ Desconhece-se se IVEMEND é secretado no leite materno; por isso, não se recomenda a amamentação durante o tratamento com IVEMEND. É importante que diga ao seu médico se está a amamentar ou se está a planear amamentar antes de utilizar IVEMEND.
+ Condução de veículos e utilização de máquinas Deve ter-se em consideração que algumas pessoas sentem tonturas ou sonolência após utilizar IVEMEND. Se sentir tonturas ou sonolência, não deve conduzir ou utilizar máquinas após utilizar IVEMEND. (Ver secção 4. EFEITOS SECUNDÁRIOS POSSÍVEIS).
+ 3. COMO UTILIZAR IVEMEND A dose recomendada de IVEMEND é 115 mg de fosaprepitant (IVEMEND) apenas no Dia 1 de um regime de 3 dias.
+ O pó é reconstituído e diluído antes da utilização. A solução para perfusão é administrada por perfusão (via intravenosa) 30 minutos antes do início do tratamento de quimioterapia
+ Nos Dias 2 e 3 após o seu tratamento de quimioterapia, ser-lhe-á administrada uma cápsula de 80 mg de aprepitant em cada manhã.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todos os medicamentos, IVEMEND pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas. Nos estudos, esses efeitos secundários foram, geralmente, ligeiros ou moderados.
+ Os efeitos secundários comuns (os que são passíveis de afectar entre 1 e 10 doentes em cada 100) são: arroto, obstipação (prisão de ventre), diarreia, tonturas, fraqueza, cansaço, dor de cabeça, soluços, indigestão, perda de apetite, dor no local de injecção e aumento das enzimas do fígado.
+ Os efeitos secundários pouco frequentes (os que são passíveis de afectar entre 1 e 10 pessoas em cada 1.000) são: sonhos anómalos, acne, ansiedade, infecção bacteriana, flatulência, sangue na urina, dor no peito, tosse, dificuldade de concentração, desorientação, boca seca, secreções e comichão nos olhos, euforia (sensação de felicidade extrema), transpiração excessiva, sede excessiva, febre com risco aumentado de infecção, infecção fúngica, azia, níveis elevados de açúcar no sangue, aumento da frequência do acto de urinar com dor ou ardor, inflamação do intestino delgado e cólon, comichão, baixos níveis de sódio no sangue, diminuição dos glóbulos vermelhos, presença de muco na região posterior da garganta, dores ou cãibras musculares, náuseas, pele oleosa, libertação de gases intestinais, presença de glóbulos vermelhos na urina, erupção cutânea, vermelhidão facial, zumbidos, sensibilidade à luz, prisão de ventre grave, pulsação lenta, espirros, garganta irritada, irritação na boca, irritação na pele, dor de estômago, úlcera no estômago, inchaço, alterações do paladar, irritação na garganta, vómitos e aumento ou perda de peso.
+ Foram comunicados os seguintes casos únicos: Síndrome de Stevens-Johnson (reacção grave rara na pele), angioedema (inchaço da face, lábios, boca, língua ou garganta, que pode causar dificuldades a engolir ou a respirar) e urticária.
+ 28 Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR IVEMEND Manter fora do alcance e da vista das crianças.
+ Não utilize IVEMEND após o prazo de validade que está impresso na embalagem e no frasco para injectáveis. Os primeiros 2 algarismos indicam o mês; os últimos 4 algarismos indicam o ano.
+ Conservar no frigorífico (2ºC – 8ºC). A solução reconstituída e diluída é estável durante 24 horas a 25ºC.
+ Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de IVEMEND -A substância activa é o fosaprepitant. Cada frasco para injectáveis contém fosaprepitant
+ dimeglumina equivalente a 115 mg de fosaprepitant. Após reconstituição 1 ml de solução contém 1 mg de fosaprepitant.
+ -Os outros componentes são: edetato dissódico (E-386), polissorbato 80 (E433), lactose anidra,
+ hidróxido de sódio (E524) (para ajuste do pH) e/ou ácido clorídrico diluído (E507) (para ajuste do pH).
+ Qual o aspecto de IVEMEND e conteúdo da embalagem IVEMEND é um pó para solução para perfusão branco ou esbranquiçado.
+ O pó está num frasco para injectáveis transparente de vidro, com uma rolha de borracha e com um selo em alumínio com uma cápsula de fecho de tipo flip-off de plástico azul.
+ IVEMEND está disponível em embalagens com 1 ou 10 frascos para injectáveis de 115 mg de fosaprepitant. É possível que não sejam comercializadas todas as apresentações.
+ Titular da Autorização de Introdução no Mercado e Fabricante
+ O Fabricante é: O Titular da Autorização de Introdução no Merck Sharp &amp; Dohme B. V. Mercado é: Waarderweg 39, Postbus 581 Merck Sharp &amp; Dohme Ltd. NL-2003 PC Haarlem Hertford Road, Hoddesdon Holanda UK-Hertfordshire EN11 9BU Reino Unido
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado:
+ 29 Belgique/België/Belgien Merck Sharp &amp; Dohme B. V. Succursale belge/Belgisch bijhuis Tél/Tel: +32 (0) 800 38693 MSDBelgium_ info@ merck. com
+ Luxembourg/Luxemburg Merck Sharp &amp; Dohme B. V. Succursale belge Tél: +32 (0) 800 38693 MSDBelgium_ info@ merck. com
+ България Мерк Шарп и Доум България ЕООД Тел.: +359 2 819 3740 info-msdbg@ merck. com
+ Magyarország MSD Magyarország Kft. Tel.: +361 888 53 00 hungary_ msd@ merck. com
+ Česká republika Merck Sharp &amp; Dohme IDEA, Inc., org. sl. Tel.: +420 233 010 111 msd_ cr@ merck. com
+ Malta A. M. Mangion Ltd. Tel: +356 2397 6100 medinfo_ mt@ merck. com
+ Danmark Merck Sharp &amp; Dohme Tlf: +45 43 28 77 66 dkmail@ merck. com
+ Nederland Merck Sharp &amp; Dohme B. V. Tel: +31 (0) 23 5153153 msdbvnl@ merck. com
+ Deutschland MSD SHARP &amp; DOHME GMBH Tel: +49 (0) 89 4561 2612 Infocenter@ msd. de
+ Norge MSD (Norge) AS Tlf: +47 32 20 73 00 msdnorge@ msd. no
+ Eesti Merck Sharp &amp; Dohme OÜ Tel.: +372 613 9750 msdeesti@ merck. com
+ Österreich Merck Sharp &amp; Dohme G. m. b. H. Tel: +43 (0) 1 26 044 msd-medizin@ merck. com
+ Eλλάδα BIANEΞ Α. Ε Τηλ: +3 0210 80091 11 Mailbox@ vianex. gr
+ Polska MSD Polska Sp. z o. o. Tel.: +48 22 549 51 00 msdpolska@ merck. com
+ España Merck Sharp &amp; Dohme de España, S. A. Tel: +34 91 321 06 00 Ivemend@ msd. es
+ Portugal Merck Sharp &amp; Dohme, Lda Tel: +351 21 4465700 informacao_ doente@ merck. com
+ France Laboratoires Merck Sharp &amp; Dohme – Chibret Tél: +33 (0) 1 47 54 87 00 contact@ msd-france. com
+ România Merck Sharp &amp; Dohme Romania S. R. L. Tel:+ 4021 529 29 00 msdromania@ merck. com
+ Ireland Merck Sharp and Dohme Ireland (Human Health) Limited Tel: +353 (0) 1 2998700 medinfo_ ireland@ merck. com
+ Slovenija Merck Sharp &amp; Dohme, inovativna zdravila d. o. o. Tel:+ 386 1 5204201 msd_ slovenia@ merck. com
+ 30 Ísland Merck Sharp &amp; Dohme Ísland ehf. Simi: +354 520 8600 ISmail@ merck. com
+ Slovenská republika Merck Sharp &amp; Dohme IDEA, Inc. Tel.: +421 2 58282010 msd_ sk@ merck. com
+ Ιtalia Merck Sharp &amp; Dohme (Italia) S. p. A. Tel: +39 06 361911 doccen@ merck. com
+ Suomi/Finland MSD Finland Oy Puh/Tel: +358 (0) 9 804650 info@ msd. fi
+ Κύπρος Merck Sharp &amp; Dohme (Middle East) Limited. Τηλ: +357 22866700 info_ cyprus@ merck. com
+ Sverige Merck Sharp &amp; Dohme (Sweden) AB Tel: +46 (0) 8 626 1400 medicinskinfo@ merck. com
+ Latvija SIA “ Merck Sharp &amp; Dohme Latvija ”. Tel: +371 67364 224 msd_ lv@ merck. com
+ United Kingdom Merck Sharp and Dohme Limited Tel: +44 (0) 1992 467272 medinfo_ uk@ merck. com
+ Lietuva UAB “ Merck Sharp &amp; Dohme ”. Tel.: +370 5 278 02 47 msd_ lietuva@ merck. com
+ Este folheto foi aprovado pela última vez em 01/2008.
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu.
+ 31 ------------------------------------------------------------------------------------------------------------------------------A informação que se segue destina-se apenas aos médicos e aos profissionais de saúde:
+ Instruções para a reconstituição e diluição de IVEMEND:
+ 1. Injectar 5 ml de solução para injectáveis de cloreto de sódio 9 mg/ml (0,9%) para dentro do frasco para injectáveis. Assegurar que a solução para injectáveis de cloreto de sódio 9 mg/ml (0,9%) é adicionada ao longo da parede do frasco para injectáveis para evitar a formação de espuma. Agitar o frasco para injectáveis cuidadosamente. Evitar agitar e fazer um jacto de solução para injectáveis de cloreto de sódio 9 mg/ml (0,9%) para dentro do frasco para injectáveis.
+ 2. Preparar um saco para perfusão com 110 ml de solução para injectáveis de cloreto de sódio 9 mg/ml (0,9%) (por exemplo, adicionando 10 ml de solução para injectáveis de cloreto de sódio 9 mg/ml (0,9%) a um saco para perfusão de 100 ml de solução para injectáveis de cloreto de sódio 9 mg/ml (0,9% )).
+ 3. Retirar o volume total do frasco para injectáveis e transferi-lo para um saco de perfusão contendo 110 ml de solução para injectáveis de cloreto de sódio 9 mg/ml (0,9%) para obter um volume total de 115 ml. Inverter o saco cuidadosamente 2 a 3 vezes (ver secção 3. COMO UTILIZAR IVEMEND).
+ A solução final reconstituída é estável durante 24 horas a 25ºC.
+ Os medicamentos para administração parentérica devem ser inspeccionados visualmente para detecção de partículas e descoloração antes de serem administrados.
+ A solução reconstituída tem o mesmo aspecto do solvente.
+ 32

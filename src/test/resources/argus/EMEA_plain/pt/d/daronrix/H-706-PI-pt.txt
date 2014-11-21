@@ -1,0 +1,624 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. DENOMINAÇÃO DO MEDICAMENTO
+ Daronrix suspensão injectável em seringa pré-cheia Vacina contra a pandemia de gripe (virião inteiro, inactivado, com adjuvante)
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Vacina de virião inteiro de influenza da estirpe pandémica, inactivado contendo antigénio* equivalente a:
+ A/Vietnam/1194/2004 (H5N1) *** 15 microgramas ** por 0,5 ml de dose* propagado em ovos ** hemaglutinina ***
+ 0,45 miligramas de Al3+ com adjuvante fosfato de alumínio 0,05 miligramas de Al3+ e hidróxido de alumínio hidratado
+ Esta vacina cumpre as recomendações da OMS e a decisão da UE para a situação pandémica.
+ Excipientes: Tiomersal 50 microgramas Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Suspensão injectável Suspensão branca turva.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Profilaxia da gripe numa situação pandémica declarada oficialmente. A vacina contra a pandemia de gripe deve ser administrada de acordo com as recomendações oficiais (ver secções 4.2 e 5.1).
+ 4.2 Posologia e modo de administração Daronrix foi avaliado com o conteúdo de hemaglutinina de 15 µg HA por dose em adultos com 18-60 anos de idade seguindo o esquema de vacinação de 0,21 dias.
+ Os adultos dos 18 aos 60 anos de idade irão receber duas doses de Daronrix, a primeira administrada na data escolhida, a segunda pelo menos três semanas após a primeira dose, para eficácia máxima.
+ Não foi gerada informação com Daronrix em menores de 18 anos de idade. Por conseguinte, os prestadores de cuidados de saúde necessitam de avaliar os benefícios e os potenciais riscos da administração da vacina nesta população.
+ Para a mulher grávida, ver secção 4.6. 2 Para mais informações, ver secção 5.1.
+ A imunização deve ser efectuada através de injecção por via intramuscular.
+ 4.3 Contra-indicações História de reacção anafilática (i. e. risco de vida) a qualquer um dos constituintes ou dos vestígios de resíduos (e. g. ovo, proteína de galinha, sulfato de gentamicina) desta vacina. Contudo, numa situação pandémica poderá ser mais apropriado administrar a vacina, assegurando que meios de reanimação se encontram imediatamente disponíveis em caso de necessidade.
+ Ver secção 4.4. 4.4 Advertências e precauções especiais de utilização
+ Recomenda-se precaução quando se administra esta vacina a indivíduos com hipersensibilidade conhecida (outra que não a reacção anafilátca) à substância activa, a qualquer um dos excipientes, ao tiomersal e aos resíduos, por exemplo ovos, proteína de galinha, sulfato de gentamicina.
+ Tal como com todas as vacinas injectáveis, deve sempre dispor-se de supervisão clínica e tratamento médico adequado para utilização imediata, caso ocorram acontecimentos anafilácticos raros após a administração da vacina.
+ Se a situação da pandemia o permitir, a imunização deve ser adiada nos doentes com doença febril grave ou infecção aguda.
+ Daronrix não deve ser administrado por via intravascular em circunstância alguma.
+ A resposta dos anticorpos em doentes com imunossupressão endógena ou iatrogénica pode ser insuficiente.
+ Uma resposta imunitária protectora pode não ser atingida em todos os indivíduos vacinados (ver secção 5.1).
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Daronrix não deve ser administrado na mesma altura que outras vacinas. Contudo, se a administração concomitante com outras vacinas está indicada, a imunização deve ser realizada em membros diferentes. Deve assinalar-se que as reacções adversas podem ser mais intensas.
+ A resposta imunológica pode ser reduzida se o doente estiver a fazer tratamento imunossupressor.
+ Após a vacinação contra a gripe, foram observados resultados falsos-positivos em testes serológicos que utilizaram o método de ELISA para detectar anticorpos contra o VIH-1, hepatite C e especialmente HTLV-1. A técnica Western Blot contradiz estes resultados. A fase transitória das reacções falso-positivas pode dever-se à resposta da IgM induzida pela vacina.
+ 4.6 Gravidez e aleitamento Não foi gerada informação com Daronrix na mulher grávida. Por conseguinte, os prestadores de cuidados de saúde necessitam de avaliar os benefícios e os potenciais riscos da administração da vacina na mulher grávida, tendo em consideração as recomendações oficiais. A informação das vacinações de mulheres grávidas com as vacinas interpandémicas trivalentes não indica que os resultados adversos fetais e maternos foram atribuíveis à vacina.
+ Daronrix pode ser utilizado durante a gravidez.
+ 3 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ É improvável que a vacina produza qualquer efeito sobre a capacidade de conduzir e utilizar máquinas.
+ 4.8 Efeitos indesejáveis • Ensaios clínicos
+ As reacções adversas dos ensaios clínicos com as diferentes formulações (H5N1, H2N2 e H9N2) (N=941) das vacinas mock-up estão referidas seguidamente (ver secção 5.1 para mais informações sobre as vacinas mock-up). Duzentos e um indivíduos receberam a vacina monovalente de vírus inteiro com o adjuvante alumínio (A/H5N1).
+ A incidência dos sintomas observados nos indivíduos com &gt; 60 anos de idade foi inferior comparativamente com a população dos 18-60 anos de idade.
+ Os efeitos indesejáveis notificados encontram-se listados de acordo com as seguintes frequências:
+ Muito frequentes (≥1/10) Frequentes (≥1/100 a &lt; 1/10) Pouco frequentes (≥1/1.000 a &lt; 1/100) Raros (≥1/10.000 a &lt; 1/1.000) Muito raros (&lt; 1/10.000) Desconhecida (não pode ser calculada a partir dos dados disponíveis)
+ Infecções e infestações Pouco frequentes: rinofaringite, rinite
+ Doenças do sistema nervoso Muito frequentes: cefaleias
+ Afecções dos tecidos cutâneos e subcutâneas Frequentes: aumento da sudação, equimoses
+ Afecções musculosqueléticas e dos tecidos conjuntivos Frequentes: mialgia, artralgia
+ Perturbações gerais e alterações no local de administração Muito frequentes: dor e vermelhidão no local de injecção, fadiga Frequentes: tumefacção e endurecimento no loca de injecção, calafrios, febre Pouco frequentes: prurido no local de injecção
+ Estas reacções geralmente desaparecem em 1-2 dias sem tratamento.
+ • Farmacovigilância pós-comercialização
+ Durante a farmacovigilância pós-comercialização das vacinas trivalentes interpandémicas, foram notificados os seguintes acontecimentos adversos:
+ Pouco frequentes (≥1/1.000 a &lt; 1/100): Reacções cutâneas generalizadas, incluindo prurido, urticária ou erupções cutâneas não específicas.
+ Raros (≥1/10.000 a &lt; 1/1.000): Nevralgia, parestesia, convulsões, trombocitopenia transitória. Foram notificadas reacções alérgicas, que em casos raros induziram choque. 4 Muito raros (&lt; 1/10.000): Vasculite com comprometido renal transitório. Perturbações neurológicas, tais como encefalomielite, nevrite e síndrome de Guillain Barré.
+ Este medicamento contem tiomersal (um composto organomercúrico) como conservante e por conseguinte, é possível que possam ocorrer reacções de sensibilização (ver secção 4.4).
+ 4.9 Sobredosagem Não foram observados casos de sobredosagem.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: vacinas da gripe, código ATC: J07BB01
+ Esta secção descreve a experiência clínica com vacinas mock-up após a administração de duas doses.
+ Os mock-up de vacinas contêm antigénios da gripe que são diferentes dos que estão actualmente nos vírus da gripe circulantes. Estes antigénios podem ser considerados como antigénios “ novos ” e simulam uma situação em que a população alvo é imunologicamente naive. A informação obtida com as vacinas mock-up irá suportar uma estratégia da vacinação que provavelmente será utilizada para uma vacina da pandemia: dados de imunogenecidae clínica, segurança e reactogenicidade obtidos com as vacinas mock-up são relevantes para as vacinas contra a pandemia.
+ Um ensaio clínico avaliou a imunogenecidade da vacina monovalente de vírus inteiro com o adjuvante alumínio (A/H5/N1), com o conteúdo de hemaglutina de 15 µg HA por dose, em adultos com 18-60 anos de idade (N=48), seguindo o esquema de vacinação de 0,21 dias.
+ A taxa de seroprotecção, a taxa de seroconversão e o factor de seroconversão para os anticorpos anti-HA, foram os seguintes:
+ Anticorpos anti-HA 21 dias após a 1ª dose 21 dias após a 2ª dose Taxa de seroprotecção* Taxa de seroconversão Factor de seroconversão* anti-HA ≥1: 40
+ 50,0% (95% IC: 35, 2; 64,8) 47,9% (95% IC: 33, 3; 62,8) 6 (95% IC: 3, 5; 10,1)
+ 70,8% (95% IC: 55, 9; 83,0) 70,8% (95% IC: 55, 9; 83,0) 12,4 (95% IC: 7, 1; 21,8)
+ Num ensaio, a imunogenecidade da vacina monovalente de vírus inteiro com o adjuvante alumínio (A/H5/N1) com o conteúdo de hemaglutina de 27 µg HA por dose em adultos com 18-60 anos de idade (N=49) foi também avaliada após o esquema de vacinação de 0,21 dias.
+ A taxa de seroprotecção, a taxa de seroconversão e o factor de seroconversão para os anticorpos anti-HA,21 dias após a primeira dose, foram os seguintes:
+ Anticorpos anti-HA 21 dias após a 1ª dose Taxa de seroprotecção* Taxa de seroconversão Factor de seroconversão* anti-HA ≥1: 40
+ 73,5% (95% IC: 58, 9; 85,0) 69,4% (95% IC: 54, 6; 81,7) 14,5 (95% IC: 8, 3; 25,4)
+ 5 Não foi gerada informação em indivíduos menores de 18 anos de idade.
+ Apesar de não terem sido gerados nenhuns dados clínicos com Daronrix em indivíduos &gt; 60 anos de idade, a imunogenecidade de um mock-up da formulação com uma dose de antigénios diferente da vacina de virião inteiro com o adjuvante alumínio (A/H9N2), administrada aos 0,21 dias, foi avaliada num ensaio clínico realizado nesta população. Estes resultados indicam que pode ser necessário um conteúdo superior de antigénios em indivíduos acima dos 60 anos de idade, comparativamente com a população adulta (18-60 anos de idade), de modo a assegurar protecção óptima.
+ A persistência dos anticorpos para as vacinas mock-up varia. Com as vacinas trivalentes intepandémicas é geralmente de 6-12 meses, mas para Daronrix não há ainda informação disponível com a estirpe H5N1.
+ Num ensaio clínico onde a formulação mock-up da vacina de virião inteiro com o adjuvante alumínio (A/H9N2) contendo 3,8 µg HA foi avaliado após a administração do esquema de 0,10 dias, observou-se que pode ser alcançado um início de protecção mais rápido, comparativamente ao esquema recomendado de 0,21 dias. Contudo, os dados sugerem que a duração de protecção pode ser menor. Nas circunstâncias em que é necessário um início de protecção rápido, uma terceira dose pode ser necessária para assegurar a duração da protecção.
+ A Autorização de Introdução no Mercado de Daronrix foi concedida mediante “ Circunstâncias Excepcionais ”. Isto significa que não foi possível obter informação detalhada sobre este medicamento por questões científicas. A Agência Europeia do Medicamentos (EMEA) irá rever anualmente qualquer nova informação que possa vir a ser disponibilizada sobre o medicamento e este RCM será actualizado se necessário.
+ 5.2 Propriedades farmacocinéticas Não aplicável. 5.3 Dados de segurança pré-clínica Não aplicável. 6. INFORMAÇÕES FARMACÊUTICAS 6.1. Lista dos excipientes Cloreto de sódio Fosfato dissódico dodeca-hidratado Fosfato monopotássico Cloreto de potássio Cloreto de magnésio hexa-hidratado Tiomersal Água para preparações injectáveis
+ Para adjuvantes, ver secção 2. 6.2 Incompatibilidades Na ausência de estudos de compatibilidade, este medicamento não deve ser misturado com outros.
+ 6.3 Prazo de validade 1 ano 6 6.4 Precauções especiais de conservação
+ Conservar no frigorífico (2ºC – 8ºC). Não congelar. Conservar na embalagem de origem para proteger da luz.
+ 6.5 Natureza e conteúdo do recipiente 0,5 ml em seringas pré-cheias (vidro tipo I) com tampa de borracha (butilo) para 1 dose – embalagens de 1 e 10 com ou sem agulhas.
+ É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais de eliminação Antes de ser administrada, a vacina deve atingir a temperatura ambiente. Agitar antes de usar.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ GlaxoSmithKline Biologicals s. a. rue de l' Institut 89 B-1330 Rixensart, Bélgica
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 10. DATA DA REVISÃO DO TEXTO 7 1. DENOMINAÇÃO DO MEDICAMENTO
+ Daronrix suspensão injectável Vacina contra a pandemia de gripe (virião inteiro, inactivado, com adjuvante)
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Vacina de virião inteiro de influenza da estirpe pandémica, inactivado contendo antigénio* equivalente a:
+ A/Vietnam/1194/2004 (H5N1) *** 15 microgramas ** por 0,5 ml de dose* propagado em ovos ** hemaglutinina ***
+ 0,45 miligramas de Al3+ com adjuvante fosfato de alumínio 0,05 miligramas de Al3+ e hidróxido de alumínio hidratado
+ Esta vacina cumpre as recomendações da OMS e a decisão da UE para a situação pandémica.
+ Excipientes: Tiomersal 50 microgramas Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Suspensão injectável Suspensão branca turva.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Profilaxia da gripe numa situação pandémica declarada oficialmente. A vacina contra a pandemia de gripe deve ser administrada de acordo com as recomendações oficiais (ver secções 4.2 e 5.1).
+ 4.2 Posologia e modo de administração Daronrix foi avaliado com o conteúdo de hemaglutinina de 15 µg HA por dose em adultos com 18-60 anos de idade seguindo o esquema de vacinação de 0,21 dias.
+ Os adultos dos 18 aos 60 anos de idade irão receber duas doses de Daronrix, a primeira administrada na data escolhida, a segunda pelo menos três semanas após a primeira dose, para eficácia máxima.
+ Não foi gerada informação com Daronrix em menores de 18 anos de idade. Por conseguinte, os prestadores de cuidados de saúde necessitam de avaliar os benefícios e os potenciais riscos da administração da vacina nesta população.
+ Para a mulher grávida, ver secção 4.6. 8 Para mais informações, ver secção 5.1.
+ A imunização deve ser efectuada através de injecção por via intramuscular.
+ 4.3 Contra-indicações História de reacção anafilática (i. e. risco de vida) a qualquer um dos constituintes ou dos vestígios de resíduos (e. g. ovo, proteína de galinha, sulfato de gentamicina) desta vacina. Contudo, numa situação pandémica poderá ser mais apropriado administrar a vacina, assegurando que meios de reanimação se encontram imediatamente disponíveis em caso de necessidade.
+ Ver secção 4.4. 4.4 Advertências e precauções especiais de utilização
+ Recomenda-se precaução quando se administra esta vacina a indivíduos com hipersensibilidade conhecida (outra que não a reacção anafilátca) à substância activa, a qualquer um dos excipientes, ao tiomersal e aos resíduos, por exemplo ovos, proteína de galinha, sulfato de gentamicina.
+ Tal como com todas as vacinas injectáveis, deve sempre dispor-se de supervisão clínica e tratamento médico adequado para utilização imediata, caso ocorram acontecimentos anafilácticos raros após a administração da vacina.
+ Se a situação da pandemia o permitir, a imunização deve ser adiada nos doentes com doença febril grave ou infecção aguda.
+ Daronrix não deve ser administrado por via intravascular em circunstância alguma.
+ A resposta dos anticorpos em doentes com imunossupressão endógena ou iatrogénica pode ser insuficiente.
+ Uma resposta imunitária protectora pode não ser atingida em todos os indivíduos vacinados (ver secção 5.1).
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Daronrix não deve ser administrado na mesma altura que outras vacinas. Contudo, se a administração concomitante com outras vacinas está indicada, a imunização deve ser realizada em membros diferentes. Deve assinalar-se que as reacções adversas podem ser mais intensas.
+ A resposta imunológica pode ser reduzida se o doente estiver a fazer tratamento imunossupressor.
+ Após a vacinação contra a gripe, foram observados resultados falsos-positivos em testes serológicos que utilizaram o método de ELISA para detectar anticorpos contra o VIH-1, hepatite C e especialmente HTLV-1. A técnica Western Blot contradiz estes resultados. A fase transitória das reacções falso-positivas pode dever-se à resposta da IgM induzida pela vacina.
+ 4.6 Gravidez e aleitamento Não foi gerada informação com Daronrix na mulher grávida. Por conseguinte, os prestadores de cuidados de saúde necessitam de avaliar os benefícios e os potenciais riscos da administração da vacina na mulher grávida, tendo em consideração as recomendações oficiais. A informação das vacinações de mulheres grávidas com as vacinas interpandémicas trivalentes não indica que os resultados adversos fetais e maternos foram atribuíveis à vacina.
+ Daronrix pode ser utilizado durante a gravidez.
+ 9 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ É improvável que a vacina produza qualquer efeito sobre a capacidade de conduzir e utilizar máquinas.
+ 4.8 Efeitos indesejáveis • Ensaios clínicos
+ As reacções adversas dos ensaios clínicos com as diferentes formulações (H5N1, H2N2 e H9N2) (N=941) das vacinas mock-up estão referidas seguidamente (ver secção 5.1 para mais informações sobre as vacinas mock-up). Duzentos e um indivíduos receberam a vacina monovalente de vírus inteiro com o adjuvante alumínio (A/H5N1).
+ A incidência dos sintomas observados nos indivíduos com &gt; 60 anos de idade foi inferior comparativamente com a população dos 18-60 anos de idade.
+ Os efeitos indesejáveis notificados encontram-se listados de acordo com as seguintes frequências:
+ Muito frequentes (≥1/10) Frequentes (≥1/100 a &lt; 1/10) Pouco frequentes (≥1/1.000 a &lt; 1/100) Raros (≥1/10.000 a &lt; 1/1.000) Muito raros (&lt; 1/10.000) Desconhecida (não pode ser calculada a partir dos dados disponíveis)
+ Infecções e infestações Pouco frequentes: rinofaringite, rinite
+ Doenças do sistema nervoso Muito frequentes: cefaleias
+ Afecções dos tecidos cutâneos e subcutâneas Frequentes: aumento da sudação, equimoses
+ Afecções musculosqueléticas e dos tecidos conjuntivos Frequentes: mialgia, artralgia
+ Perturbações gerais e alterações no local de administração Muito frequentes: dor e vermelhidão no local de injecção, fadiga Frequentes: tumefacção e endurecimento no loca de injecção, calafrios, febre Pouco frequentes: prurido no local de injecção
+ Estas reacções geralmente desaparecem em 1-2 dias sem tratamento.
+ • Farmacovigilância pós-comercialização
+ Durante a farmacovigilância pós-comercialização das vacinas trivalentes interpandémicas, foram notificados os seguintes acontecimentos adversos:
+ Pouco frequentes (≥1/1.000 a &lt; 1/100): Reacções cutâneas generalizadas, incluindo prurido, urticária ou erupções cutâneas não específicas.
+ Raros (≥1/10.000 a &lt; 1/1.000): Nevralgia, parestesia, convulsões, trombocitopenia transitória. Foram notificadas reacções alérgicas, que em casos raros induziram choque.
+ 10 Muito raros (&lt; 1/10.000): Vasculite com comprometido renal transitório. Perturbações neurológicas, tais como encefalomielite, nevrite e síndrome de Guillain Barré.
+ Este medicamento contem tiomersal (um composto organomercúrico) como conservante e por conseguinte, é possível que possam ocorrer reacções de sensibilização (ver secção 4.4).
+ 4.9 Sobredosagem Não foram observados casos de sobredosagem.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: vacinas da gripe, código ATC: J07BB01
+ Esta secção descreve a experiência clínica com vacinas mock-up após a administração de duas doses.
+ Os mock-up de vacinas contêm antigénios da gripe que são diferentes dos que estão actualmente nos vírus da gripe circulantes. Estes antigénios podem ser considerados como antigénios “ novos ” e simulam uma situação em que a população alvo é imunologicamente naive. A informação obtida com as vacinas mock-up irá suportar uma estratégia da vacinação que provavelmente será utilizada para uma vacina da pandemia: dados de imunogenecidae clínica, segurança e reactogenicidade obtidos com as vacinas mock-up são relevantes para as vacinas contra a pandemia.
+ Um ensaio clínico avaliou a imunogenecidade da vacina monovalente de vírus inteiro com o adjuvante alumínio (A/H5/N1), com o conteúdo de hemaglutina de 15 µg HA por dose, em adultos com 18-60 anos de idade (N=48), seguindo o esquema de vacinação de 0,21 dias.
+ A taxa de seroprotecção, a taxa de seroconversão e o factor de seroconversão para os anticorpos anti-HA, foram os seguintes:
+ Anticorpos anti-HA 21 dias após a 1ª dose 21 dias após a 2ª dose Taxa de seroprotecção* Taxa de seroconversão Factor de seroconversão* anti-HA ≥1: 40
+ 50,0% (95% IC: 35, 2; 64,8) 47,9% (95% IC: 33, 3; 62,8) 6 (95% IC: 3, 5; 10,1)
+ 70,8% (95% IC: 55, 9; 83,0) 70,8% (95% IC: 55, 9; 83,0) 12,4 (95% IC: 7, 1; 21,8)
+ Num ensaio, a imunogenecidade da vacina monovalente de vírus inteiro com o adjuvante alumínio (A/H5/N1) com o conteúdo de hemaglutina de 27 µg HA por dose em adultos com 18-60 anos de idade (N=49) foi também avaliada após o esquema de vacinação de 0,21 dias.
+ A taxa de seroprotecção, a taxa de seroconversão e o factor de seroconversão para os anticorpos anti-HA,21 dias após a primeira dose, foram os seguintes:
+ Anticorpos anti-HA 21 dias após a 1ª dose Taxa de seroprotecção* Taxa de seroconversão Factor de seroconversão* anti-HA ≥1: 40
+ 73,5% (95% IC: 58, 9; 85,0) 69,4% (95% IC: 54, 6; 81,7) 14,5 (95% IC: 8, 3; 25,4)
+ Não foi gerada informação em indivíduos menores de 18 anos de idade.
+ 11 Apesar de não terem sido gerados nenhuns dados clínicos com Daronrix em indivíduos &gt; 60 anos de idade, a imunogenecidade de um mock-up da formulação com uma dose de antigénios diferente da vacina de virião inteiro com o adjuvante alumínio (A/H9N2), administrada aos 0,21 dias, foi avaliada num ensaio clínico realizado nesta população. Estes resultados indicam que pode ser necessário um conteúdo superior de antigénios em indivíduos acima dos 60 anos de idade, comparativamente com a população adulta (18-60 anos de idade), de modo a assegurar protecção óptima.
+ A persistência dos anticorpos para as vacinas mock-up varia. Com as vacinas trivalentes intepandémicas é geralmente de 6-12 meses, mas para Daronrix não há ainda informação disponível com a estirpe H5N1.
+ Num ensaio clínico onde a formulação mock-up da vacina de virião inteiro com o adjuvante alumínio (A/H9N2) contendo 3,8 µg HA foi avaliado após a administração do esquema de 0,10 dias, observou-se que pode ser alcançado um início de protecção mais rápido, comparativamente ao esquema recomendado de 0,21 dias. Contudo, os dados sugerem que a duração de protecção pode ser menor. Nas circunstâncias em que é necessário um início de protecção rápido, uma terceira dose pode ser necessária para assegurar a duração da protecção.
+ A Autorização de Introdução no Mercado de Daronrix foi concedida mediante “ Circunstâncias Excepcionais ”. Isto significa que não foi possível obter informação detalhada sobre este medicamento por questões científicas. A Agência Europeia do Medicamentos (EMEA) irá rever anualmente qualquer nova informação que possa vir a ser disponibilizada sobre o medicamento e este RCM será actualizado se necessário.
+ 5.2 Propriedades farmacocinéticas Não aplicável. 5.3 Dados de segurança pré-clínica Não aplicável. 6. INFORMAÇÕES FARMACÊUTICAS 6.1. Lista dos excipientes Cloreto de sódio Fosfato dissódico dodeca-hidratado Fosfato de monopotássico Cloreto de potássio Cloreto de magnésio hexa-hidratado Tiomersal Água para preparações injectáveis
+ Para adjuvantes, ver secção 2. 6.2 Incompatibilidades Na ausência de estudos de compatibilidade, este medicamento não deve ser misturado com outros.
+ 6.3 Prazo de validade 1 ano 12 6.4 Precauções especiais de conservação
+ Conservar no frigorífico (2ºC – 8ºC). Não congelar. Conservar na embalagem de origem para proteger da luz.
+ 6.5 Natureza e conteúdo do recipiente 0,5 ml em ampolas (vidro tipo I) para 1 dose – embalagens de 100.
+ 6.6 Precauções especiais de eliminação Antes de ser administrada, a vacina deve atingir a temperatura ambiente. Agitar antes de usar.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ GlaxoSmithKline Biologicals s. a. rue de l' Institut 89 B-1330 Rixensart, Bélgica
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 10. DATA DA REVISÃO DO TEXTO 13 1. DENOMINAÇÃO DO MEDICAMENTO
+ Daronrix suspensão injectável em recipiente multidose Vacina contra a pandemia de gripe (virião inteiro, inactivado, com adjuvante)
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Vacina de virião inteiro de influenza da estirpe pandémica, inactivado contendo antigénio* equivalente a:
+ A/Vietnam/1194/2004 (H5N1) *** 15 microgramas ** por 0,5 ml de dose* propagado em ovos ** hemaglutinina ***
+ 0,45 miligramas de Al3+ com adjuvante fosfato de alumínio 0,05 miligramas de Al3+ e hidróxido de alumínio hidratado
+ Esta vacina cumpre as recomendações da OMS e a decisão da UE para a situação pandémica.
+ Este é um recipiente multidose. Ver a secção 6.5 para o número de doses por frasco para injectáveis.
+ Excipientes: Tiomersal 50 microgramas Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Suspensão injectável Suspensão branca turva.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Profilaxia da gripe numa situação pandémica declarada oficialmente. A vacina contra a pandemia de gripe deve ser administrada de acordo com as recomendações oficiais (ver secções 4.2 e 5.1).
+ 4.2 Posologia e modo de administração Daronrix foi avaliado com o conteúdo de hemaglutinina de 15 µg HA por dose em adultos com 18-60 anos de idade seguindo o esquema de vacinação de 0,21 dias.
+ Os adultos dos 18 aos 60 anos de idade irão receber duas doses de Daronrix, a primeira administrada na data escolhida, a segunda pelo menos três semanas após a primeira dose, para eficácia máxima.
+ Não foi gerada informação com Daronrix em menores de 18 anos de idade. Por conseguinte, os prestadores de cuidados de saúde necessitam de avaliar os benefícios e os potenciais riscos da administração da vacina nesta população.
+ 14 Para a mulher grávida, ver secção 4.6.
+ Para mais informações, ver secção 5.1. A imunização deve ser efectuada através de injecção por via intramuscular.
+ 4.3 Contra-indicações História de reacção anafilática (i. e. risco de vida) a qualquer um dos constituintes ou dos vestígios de resíduos (e. g. ovo, proteína de galinha, sulfato de gentamicina) desta vacina. Contudo, numa situação pandémica poderá ser mais apropriado administrar a vacina, assegurando que meios de reanimação se encontram imediatamente disponíveis em caso de necessidade.
+ Ver secção 4.4. 4.4 Advertências e precauções especiais de utilização
+ Recomenda-se precaução quando se administra esta vacina a indivíduos com hipersensibilidade conhecida (outra que não a reacção anafilátca) à substância activa, a qualquer um dos excipientes, ao tiomersal e aos resíduos, por exemplo ovos, proteína de galinha, sulfato de gentamicina.
+ Tal como com todas as vacinas injectáveis, deve sempre dispor-se de supervisão clínica e tratamento médico adequado para utilização imediata, caso ocorram acontecimentos anafilácticos raros após a administração da vacina.
+ Se a situação da pandemia o permitir, a imunização deve ser adiada nos doentes com doença febril grave ou infecção aguda.
+ Daronrix não deve ser administrado por via intravascular em circunstância alguma.
+ A resposta dos anticorpos em doentes com imunossupressão endógena ou iatrogénica pode ser insuficiente.
+ Uma resposta imunitária protectora pode não ser atingida em todos os indivíduos vacinados (ver secção 5.1).
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Daronrix não deve ser administrado na mesma altura que outras vacinas. Contudo, se a administração concomitante com outras vacinas está indicada, a imunização deve ser realizada em membros diferentes. Deve assinalar-se que as reacções adversas podem ser mais intensas.
+ A resposta imunológica pode ser reduzida se o doente estiver a fazer tratamento imunossupressor.
+ Após a vacinação contra a gripe, foram observados resultados falsos-positivos em testes serológicos que utilizaram o método de ELISA para detectar anticorpos contra o VIH-1, hepatite C e especialmente HTLV-1. A técnica Western Blot contradiz estes resultados. A fase transitória das reacções falso-positivas pode dever-se à resposta da IgM induzida pela vacina.
+ 4.6 Gravidez e aleitamento Não foi gerada informação com Daronrix na mulher grávida. Por conseguinte, os prestadores de cuidados de saúde necessitam de avaliar os benefícios e os potenciais riscos da administração da vacina na mulher grávida, tendo em consideração as recomendações oficiais. A informação das vacinações de mulheres grávidas com as vacinas interpandémicas trivalentes não indica que os resultados adversos fetais e maternos foram atribuíveis à vacina.
+ 15 Daronrix pode ser utilizado durante a gravidez.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ É improvável que a vacina produza qualquer efeito sobre a capacidade de conduzir e utilizar máquinas.
+ 4.8 Efeitos indesejáveis • Ensaios clínicos
+ As reacções adversas dos ensaios clínicos com as diferentes formulações (H5N1, H2N2 e H9N2) (N=941) das vacinas mock-up estão referidas seguidamente (ver secção 5.1 para mais informações sobre as vacinas mock-up). Duzentos e um indivíduos receberam a vacina monovalente de vírus inteiro com o adjuvante alumínio (A/H5N1).
+ A incidência dos sintomas observados nos indivíduos com &gt; 60 anos de idade foi inferior comparativamente com a população dos 18-60 anos de idade.
+ Os efeitos indesejáveis notificados encontram-se listados de acordo com as seguintes frequências:
+ Muito frequentes (≥1/10) Frequentes (≥1/100 a &lt; 1/10) Pouco frequentes (≥1/1.000 a &lt; 1/100) Raros (≥1/10.000 a &lt; 1/1.000) Muito raros (&lt; 1/10.000) Desconhecida (não pode ser calculada a partir dos dados disponíveis)
+ Infecções e infestações Pouco frequentes: rinofaringite, rinite
+ Doenças do sistema nervoso Muito frequentes: cefaleias
+ Afecções dos tecidos cutâneos e subcutâneas Frequentes: aumento da sudação, equimoses
+ Afecções musculosqueléticas e dos tecidos conjuntivos Frequentes: mialgia, artralgia
+ Perturbações gerais e alterações no local de administração Muito frequentes: dor e vermelhidão no local de injecção, fadiga Frequentes: tumefacção e endurecimento no loca de injecção, calafrios, febre Pouco frequentes: prurido no local de injecção
+ Estas reacções geralmente desaparecem em 1-2 dias sem tratamento.
+ • Farmacovigilância pós-comercialização
+ Durante a farmacovigilância pós-comercialização das vacinas trivalentes interpandémicas, foram notificados os seguintes acontecimentos adversos:
+ Pouco frequentes (≥1/1.000 a &lt; 1/100): Reacções cutâneas generalizadas, incluindo prurido, urticária ou erupções cutâneas não específicas.
+ Raros (≥1/10.000 a &lt; 1/1.000): Nevralgia, parestesia, convulsões, trombocitopenia transitória. 16 Foram notificadas reacções alérgicas, que em casos raros induziram choque.
+ Muito raros (&lt; 1/10.000): Vasculite com comprometido renal transitório. Perturbações neurológicas, tais como encefalomielite, nevrite e síndrome de Guillain Barré.
+ Este medicamento contem tiomersal (um composto organomercúrico) como conservante e por conseguinte, é possível que possam ocorrer reacções de sensibilização (ver secção 4.4).
+ 4.9 Sobredosagem Não foram observados casos de sobredosagem.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: vacinas da gripe, código ATC: J07BB01
+ Esta secção descreve a experiência clínica com vacinas mock-up após a administração de duas doses.
+ Os mock-up de vacinas contêm antigénios da gripe que são diferentes dos que estão actualmente nos vírus da gripe circulantes. Estes antigénios podem ser considerados como antigénios “ novos ” e simulam uma situação em que a população alvo é imunologicamente naive. A informação obtida com as vacinas mock-up irá suportar uma estratégia da vacinação que provavelmente será utilizada para uma vacina da pandemia: dados de imunogenecidae clínica, segurança e reactogenicidade obtidos com as vacinas mock-up são relevantes para as vacinas contra a pandemia.
+ Um ensaio clínico avaliou a imunogenecidade da vacina monovalente de vírus inteiro com o adjuvante alumínio (A/H5/N1), com o conteúdo de hemaglutina de 15 µg HA por dose, em adultos com 18-60 anos de idade (N=48), seguindo o esquema de vacinação de 0,21 dias.
+ A taxa de seroprotecção, a taxa de seroconversão e o factor de seroconversão para os anticorpos anti-HA, foram os seguintes:
+ Anticorpos anti-HA 21 dias após a 1ª dose 21 dias após a 2ª dose Taxa de seroprotecção* Taxa de seroconversão Factor de seroconversão* anti-HA ≥1: 40
+ 50,0% (95% IC: 35, 2; 64,8) 47,9% (95% IC: 33, 3; 62,8) 6 (95% IC: 3, 5; 10,1)
+ 70,8% (95% IC: 55, 9; 83,0) 70,8% (95% IC: 55, 9; 83,0) 12,4 (95% IC: 7, 1; 21,8)
+ Num ensaio, a imunogenecidade da vacina monovalente de vírus inteiro com o adjuvante alumínio (A/H5/N1) com o conteúdo de hemaglutina de 27 µg HA por dose em adultos com 18-60 anos de idade (N=49) foi também avaliada após o esquema de vacinação de 0,21 dias.
+ A taxa de seroprotecção, a taxa de seroconversão e o factor de seroconversão para os anticorpos anti-HA,21 dias após a primeira dose, foram os seguintes:
+ Anticorpos anti-HA 21 dias após a 1ª dose Taxa de seroprotecção* Taxa de seroconversão Factor de seroconversão* anti-HA ≥1: 40
+ 73,5% (95% IC: 58, 9; 85,0) 69,4% (95% IC: 54, 6; 81,7) 14,5 (95% IC: 8, 3; 25,4)
+ 17 Não foi gerada informação em indivíduos menores de 18 anos de idade.
+ Apesar de não terem sido gerados nenhuns dados clínicos com Daronrix em indivíduos &gt; 60 anos de idade, a imunogenecidade de um mock-up da formulação com uma dose de antigénios diferente da vacina de virião inteiro com o adjuvante alumínio (A/H9N2), administrada aos 0,21 dias, foi avaliada num ensaio clínico realizado nesta população. Estes resultados indicam que pode ser necessário um conteúdo superior de antigénios em indivíduos acima dos 60 anos de idade, comparativamente com a população adulta (18-60 anos de idade), de modo a assegurar protecção óptima.
+ A persistência dos anticorpos para as vacinas mock-up varia. Com as vacinas trivalentes intepandémicas é geralmente de 6-12 meses, mas para Daronrix não há ainda informação disponível com a estirpe H5N1.
+ Num ensaio clínico onde a formulação mock-up da vacina de virião inteiro com o adjuvante alumínio (A/H9N2) contendo 3,8 µg HA foi avaliado após a administração do esquema de 0,10 dias, observou-se que pode ser alcançado um início de protecção mais rápido, comparativamente ao esquema recomendado de 0,21 dias. Contudo, os dados sugerem que a duração de protecção pode ser menor. Nas circunstâncias em que é necessário um início de protecção rápido, uma terceira dose pode ser necessária para assegurar a duração da protecção.
+ A Autorização de Introdução no Mercado de Daronrix foi concedida mediante “ Circunstâncias Excepcionais ”. Isto significa que não foi possível obter informação detalhada sobre este medicamento por questões científicas. A Agência Europeia do Medicamentos (EMEA) irá rever anualmente qualquer nova informação que possa vir a ser disponibilizada sobre o medicamento e este RCM será actualizado se necessário.
+ 5.2 Propriedades farmacocinéticas Não aplicável. 5.3 Dados de segurança pré-clínica Não aplicável. 6. INFORMAÇÕES FARMACÊUTICAS 6.1. Lista dos excipientes Cloreto de sódio Fosfato dissódico dodeca-hidratado Fosfato monopotássico Cloreto de potássio Cloreto de magnésio hexa-hidratado Tiomersal Água para preparações injectáveis
+ Para adjuvantes, ver secção 2. 6.2 Incompatibilidades Na ausência de estudos de compatibilidade, este medicamento não deve ser misturado com outros.
+ 6.3 Prazo de validade 18 1 ano
+ 6.4 Precauções especiais de conservação
+ Conservar no frigorífico (2ºC – 8ºC). Não congelar. Conservar na embalagem de origem para proteger da luz.
+ 6.5 Natureza e conteúdo do recipiente
+ 5 ml em ampola (vidro tipo I) para 10 doses – embalagens de 50 5 ml em frasco para injectáveis (vidro tipo I) para 10 doses – embalagens de 50 10 ml em frasco para injectáveis (vidro tipo I) para 20 doses – embalagens de 50
+ É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais de eliminação
+ Antes de ser administrada, a vacina deve atingir a temperatura ambiente. Agitar antes de usar.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ GlaxoSmithKline Biologicals s. a. rue de l' Institut 89 B-1330 Rixensart, Bélgica
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 10. DATA DA REVISÃO DO TEXTO 19 ANEXO II
+ A. FABRICANTE DA SUBSTÂNCIA ACTIVA DE ORIGEM BIOLÓGICA E TITULAR DE AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ C. OBRIGAÇÕES ESPECÍFICAS A SEREM CUMPRIDAS PELO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 20 A. FABRICANTE DA SUBSTÂNCIA ACTIVA DE ORIGEM BIOLÓGICA E TITULAR DE AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do fabricante da substância activa de origem biológica
+ Sächsisches Serumwerk Dresden (SSW) Zirkusstraße 40 D-01069 Dresden Alemanha
+ Nome e endereço do fabricante responsável pela libertação do lote
+ Sächsisches Serumwerk Dresden (SSW) Zirkusstraße 40 D-01069 Dresden Alemanha
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento sujeito a receita médica. Daronrix só pode ser comercializado quando existir uma declaração oficial da OMS/UE de uma pandemia da gripe, se o Titular da Autorização de Introdução no Mercado de Daronrix tiver tido em consideração a estirpe da pandemia da gripe declarada oficialmente.
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ Não aplicável. • OUTRAS CONDIÇÕES
+ Libertação oficial do lote: nos termos do artigo 114. º da Directa 2001/83/EC, com as alterações que lhe foram introduzidas, a libertação oficial do lote será feita por um laboratório estatal ou um laboratório designado para esse efeito.
+ Sistema de farmacovigilância O Titular da AIM deve assegurar que o sistema de farmacovigilância está estabelecido e em funcionamento antes do produto ser colocado no mercado e pelo tempo que o produto permanecer no mercado.
+ O Titular da AIM compromete-se a realizar os estudos e as acções de farmacovigilância detalhados no Plano de Farmacovigilância.
+ Submissão de RPS durante a pandemia de gripe: Durante a situação de pandemia, a frequência de submissão dos relatórios periódicos de segurança especificada no Art. 24 do Regulamento (EC) nº 726/2004 não será adequada para monitorização de segurança da vacina contra a pandemia em que são esperados níveis elevados de exposição durante um curto período de tempo. Tal situação requer a rápida notificação da
+ 21 informação de segurança que pode ter grandes implicações na relação risco-benefício numa pandemia. A análise imediata dos dados de segurança cumulativos, à luz da extensa exposição, será crucial para as decisões regulamentares e protecção da população a ser vacinada. Adicionalmente, durante a pandemia, os recursos necessários para uma avaliação mais profunda dos Relatórios Periódicos de Segurança no formato definido no volume 9 das Rules Governing Medicinal Product da União Europeia podem não ser adequados para uma identificação rápida de um novo problema de segurança. Como consequência, assim que a pandemia for declarada (fase 6 do plano de preparação da gripe global da OMS) e a vacina da pandemia utilizada, o Titular da AIM deve submeter os relatórios periódicos de segurança com a periodicidade e formato definido seguidamente:
+ Frequência da submissão -Contagem do tempo inicia-se na primeira segunda-feira após a expedição do primeiro
+ lote da vacina.
+ -Primeira data-lock point é 14 dias depois.
+ -Submissão de Relatório até ao dia 22 (i. e. a segunda-feira seguinte)
+ -Relatórios quinzenais nos primeiros 3 meses da pandemia.
+ -Periodicidade será revista pelo Titular da AIM e pelo (co) Relatores com intervalos de 3
+ meses
+ Formato O relatório deve incluir as seguintes Tabelas com os dados agregados utilizando os modelos acordados: 1. Reacções fatais e/ou de risco de vida – por cada termo preferencial (Preferred Term (PT )), incluindo a proporção de notificações fatais 2. Acontecimentos adversos de especial interesse (PTs) 3. Reacções graves inesperadas (PTs) 4. Todos os acontecimentos que ocorram nas seguintes faixas etárias: 6-23 meses, 2-8 anos, 8-17 anos, 18-60 anos, &gt; 60 anos de vida Todos os acontecimentos que ocorram na mulher grávida 5. Todos os acontecimentos notificados pelos doentes que tenham entrado na base de dados até à data-lock point 6. Síntese cumulativa de todos os acontecimentos notificados durante o período, estratificados de acordo com o tipo de notificação (doentes ou profissionais de saúde), gravidade, expectatividade e se espontâneos ou solicitados.
+ A apresentação da informação terá em consideração as seguintes recomendações:
+ -As reacções graves esperadas serão revistas pelo titular de AIM como parte do seu
+ procedimento de detecção de sinais e irão apenas fazer parte do relatório se levantarem uma questão preocupante.
+ -Todas as tabelas serão baseadas no número de acontecimentos (apresentados por nível de
+ PT, classificados pelo Classes de sistemas de órgãos (SOC )) e não no número de casos.
+ -Tabela 1 a 4 serão baseadas nos acontecimentos notificados apenas pelos profissionais de
+ saúde.
+ -Nas Tabelas 1 a 5 os números serão fornecidos por acontecimentos recebidos durante o
+ período do relatório e cumulativamente.
+ -Todas as tabelas serão baseadas na informação genérica e não na específica do produto. Os
+ dados específicos do produto podem ser avaliados durante o tratamento do sinal.
+ -Uma medida da taxa de notificação relativa dos sinais para cada PT notificado deve ser
+ fornecida, se possível, (e. g. Proportional reporting ratio (PRR), Information Component (IC )) ou Empirical Bayesian Geometric Mean (EBMG);); isto não é obrigatório uma vez que nem todos os Titulares de AIM poderão ter esta capacidade;
+ -Não são requeridas line-listings – estas poderão ser fornecidas nos relatórios de avaliação
+ do sinal, quando necessário.
+ Um pequeno resumo deve também ser fornecido com o relatório periódico de segurança, no qual qualquer área de preocupação deve ser salientada, o tratamento do sinal prioritisado (se
+ 22 acontecimento de múltiplos sinais) e apropriados calendários para a submissão do relatório de avaliação do sinal completo fornecidos. Todos os relatórios de avaliação de sinais devem ser fornecidos, incluindo os que posteriormente não foram identificados como sinais.
+ Um sumário da distribuição da vacina deve ser incluído e fornecidos os detalhes do número de doses de vacina distribuídas em:
+ i. Estado-membro da UE para o período do relatório por número de lote ii. Estados-membros da UE cumulativamente iii. Resto do mundo
+ Plano de gestão de risco
+ Um Plano de Gestão de Risco actualizado deve ser fornecido de acordo com as recomendações do CHMP sobre o Sistema de Gestão do Risco para os medicamentos para uso humano.
+ C. OBRIGAÇÕES ESPECÍFICAS A SEREM CUMPRIDAS PELO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ O titular da autorização de introdução no mercado deverá executar o programa de estudos abaixo referido dentro dos prazos indicados; os resultados desses estudos estarão na base da reavaliação anual da relação risco/benefício.
+ Clínico Durante a pandemia, o requerente irá recolher dados de efectividade e segurança clínicas da vacina contra a pandemia e submeter esta informação para avaliação do CHMP.
+ Dependendo de e após a implementação da vacina quando a primeira pandemia ocorrer
+ Farmacovigilância Durante a pandemia, o requerente irá conduzir um estudo cohorte prospectivo, como identificado no plano de farmacovigilância.
+ Dependendo de e após a implementação da vacina aquando a primeira pandemia ocorrer
+ 23 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 24 A. ROTULAGEM
+ 25 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ APRESENTAÇÃO MONODOSE SERINGA PRÉ-CHEIA X 1 E X 10 COM E SEM AGULHA
+ 1. DENOMINAÇÃO DO MEDICAMENTO Daronrix suspensão injectável em seringa pré-cheia Vacina contra a pandemia de gripe (virião inteiro, inactivado, com adjuvante)
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ Vacina de virião inteiro de influenza da estirpe pandémica, inactivado contendo antigénio* equivalente a:
+ A/Vietnam/1194/2004 (H5N1) *** 15 microgramas ** por 0,5 ml de dose* propagado em ovos ** hemaglutinina ***
+ 0,45 miligramas de Al3+ com adjuvante fosfato de alumínio 0,05 miligramas de Al3+ e hidróxido de alumínio hidratado
+ 3. LISTA DOS EXCIPIENTES Cloreto de sódio Fosfato dissódico dodeca-hidratado Fosfato monopotássico Cloreto de potássio Cloreto de magnésio hexa-hidratado Tiomersal Água para preparações injectáveis
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Suspensão injectável Seringa pré-cheia 1 dose 1 dose (0,5 ml)
+ Seringa pré-cheia Agulha 10 x 1 dose 1 dose (0,5 ml)
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Consultar o folheto informativo. 26 Via intramuscular Agitar antes de usar
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP: MM/AAAA 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico Não congelar Conservar na embalagem de origem para proteger da luz
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ Eliminar de acordo com os requisitos locais.
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ GlaxoSmithKline Biologicals s. a. rue de l' Institut 89 B-1330 Rixensart, Bélgica
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/0/00/000/000 13. NÚMERO DO LOTE Lote: 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 27 15. INSTRUÇÕES DE UTILIZAÇÃO
+ 16. INFORMAÇÃO EM BRAILLE 28 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ AMPOLA X 100 1. DENOMINAÇÃO DO MEDICAMENTO Daronrix suspensão injectável Vacina contra a pandemia de gripe (virião inteiro, inactivado, com adjuvante)
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ Vacina de virião inteiro de influenza da estirpe pandémica, inactivado contendo antigénio* equivalente a:
+ A/Vietnam/1194/2004 (H5N1) *** 15 microgramas ** por 0,5 ml de dose* propagado em ovos ** hemaglutinina ***
+ 0,45 miligramas de Al3+ com adjuvante fosfato de alumínio 0,05 miligramas de Al3+ e hidróxido de alumínio hidratado
+ 3. LISTA DOS EXCIPIENTES Cloreto de sódio Fosfato dissódico dodeca-hidratado Fosfato monopotássico Cloreto de potássio Cloreto de magnésio hexa-hidratado Tiomersal Água para preparações injectáveis
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Suspensão injectável Ampola 100 x 1 dose 1 dose (0,5 ml)
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Consultar o folheto informativo. Via intramuscular Agitar antes de usar
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ 29 Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP: MM/AAAA 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico Não congelar Conservar na embalagem de origem para proteger da luz
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ Eliminar de acordo com os requisitos locais.
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ GlaxoSmithKline Biologicals s. a. rue de l' Institut 89 B-1330 Rixensart, Bélgica
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/0/00/000/000 13. NÚMERO DO LOTE Lote: 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 30 16. INFORMAÇÃO EM BRAILLE
+ 31 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ APRESENTAÇÃO MULTIDOSE FRASCO PARA INJECTÁVEIS (10 DOSES) X 50 FRASCO PARA INJECTÁVEIS (20 DOSES) X 50 AMPOLA (10 DOSES) X 50
+ 1. DENOMINAÇÃO DO MEDICAMENTO Daronrix suspensão injectável Vacina contra a pandemia de gripe (virião inteiro, inactivado, com adjuvante)
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ Vacina de virião inteiro de influenza da estirpe pandémica, inactivado contendo antigénio* equivalente a:
+ A/Vietnam/1194/2004 (H5N1) *** 15 microgramas ** por 0,5 ml de dose* propagado em ovos ** hemaglutinina ***
+ 0,45 miligramas de Al3+ com adjuvante fosfato de alumínio 0,05 miligramas de Al3+ e hidróxido de alumínio hidratado
+ 3. LISTA DOS EXCIPIENTES Cloreto de sódio Fosfato dissódico dodeca-hidratado Fosfato monopotássico Cloreto de potássio Cloreto de magnésio hexa-hidratado Tiomersal Água para preparações injectáveis
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Suspensão injectável Frasco para injectáveis 50 x 10 doses 1 dose (0,5 ml)
+ Frasco para injectáveis 50 x 20 doses 1 dose (0,5 ml)
+ Ampola 50 x 10 doses 1 dose (0,5 ml) 32 5. MODO E VIA(S) DE ADMINISTRAÇÃO
+ Consultar o folheto informativo. Via intramuscular Agitar antes de usar
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP: MM/AAAA 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico Não congelar Conservar na embalagem de origem para proteger da luz
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ Eliminar de acordo com os requisitos locais.
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ GlaxoSmithKline Biologicals s. a. rue de l' Institut 89 B-1330 Rixensart, Bélgica
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/0/00/000/000 13. NÚMERO DO LOTE Lote: 33 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE 34 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ APRESENTAÇÃO MONODOSE 1. DENOMINAÇÃO DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Daronrix suspensão injectável Vacina contra a pandemia de gripe (virião inteiro, inactivado, com adjuvante) I. M.
+ 2. MODO DE ADMINISTRAÇÃO 3. PRAZO DE VALIDADE EXP 4. NÚMERO DO LOTE Lote: 5. CONTEÚDO EM TERMOS DE PESO, VOLUME OU UNIDADE
+ 1 dose (0,5 ml) 6. OUTRAS 35 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ APRESENTAÇÃO MULTIDOSE (10 DOSES) 1. DENOMINAÇÃO DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Daronrix suspensão injectável Vacina contra a pandemia de gripe (virião inteiro, inactivado, com adjuvante) I. M.
+ 2. MODO DE ADMINISTRAÇÃO 3. PRAZO DE VALIDADE EXP 4. NÚMERO DO LOTE Lote: 5. CONTEÚDO EM TERMOS DE PESO, VOLUME OU UNIDADE
+ 10 doses (5 ml) 6. OUTRAS 36 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ APRESENTAÇÃO MULTIDOSE (20 DOSES) 1. DENOMINAÇÃO DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Daronrix suspensão injectável Vacina contra a pandemia de gripe (virião inteiro, inactivado, com adjuvante) I. M.
+ 2. MODO DE ADMINISTRAÇÃO 3. PRAZO DE VALIDADE EXP 4. NÚMERO DO LOTE Lote: 5. CONTEÚDO EM TERMOS DE PESO, VOLUME OU UNIDADE
+ 20 doses (10 ml) 6. OUTRAS 37 B. FOLHETO INFORMATIVO
+ 38 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Daronrix suspensão injectável em seringa pré-cheia Vacina contra a pandemia de gripe (virião inteiro, inactivado, com adjuvante)
+ Leia atentamente este folheto antes de iniciar a administração desta vacina.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Esta vacina foi-lhe receitada a si. Não deve dá-la a outros.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é Daronrix e para que é utilizado 2. Antes de administrar Daronrix 3. Como Daronrix é administrado 4. Efeitos secundários possíveis 5. Como conservar Daronrix 6. Outras informações
+ 1. O QUE É DARONRIX E PARA QUE É UTILIZADO
+ Daronrix é uma vacina administrada nos adultos de 18 a 60 anos de idade para prevenir a gripe numa pandemia de gripe declarada oficialmente. A vacina actua ao levar o organismo a produzir as suas próprias defesas (anticorpos) contra a doença.
+ A pandemia de gripe é um tipo de gripe que ocorre de poucas em poucas décadas e que se propaga rapidamente, afectando a maioria dos países e regiões no mundo. Os sintomas da pandemia de gripe são semelhantes aos da gripe vulgar, mas são geralmente mais graves.
+ 2. ANTES DE ADMINISTRAR DARONRIX Daronrix não deve ser administrado: • se teve anteriormente uma reacção alérgica a Daronrix, ou a qualquer componente (incluindo ovos, proteína da galinha, sulfato de gentamicina (antibiótico )) desta vacina. No final deste Folheto Informativo estão listados as substâncias activas e os outros componentes de Daronrix. Os sinais de uma reacção alérgica podem incluir erupções cutâneas com comichão (prurido), dificuldade em respirar e inchaço da face ou da língua. Contudo, numa situação pandémica, pode ser apropriado administrar a vacina, garantindo que os meios de reanimação estão imediatamente disponíveis, em caso de necessidade.
+ Tome especial cuidado com Daronrix • se tem uma infecção grave com temperatura elevada (acima de 38ºC). Uma pequena infecção, como uma constipação, não deve constituir um problema, mas consulte primeiro o seu médico.
+ Utilizar Daronrix com outros medicamentos Informe o seu médico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica ou se tiver feito recentemente outra vacina. Se está a tomar algum medicamento que reduza a imunidade a infecções ou se está a fazer qualquer outro tipo de tratamento (como radioterapia) que afecta o sistema imunitário, Daronrix pode ainda ser administrado, mas a sua resposta à vacina pode ser fraca.
+ 39 Gravidez e aleitamento Não há informação sobre a utilização de Daronrix na mulher grávida. O seu médico necessita de avaliar os benefícios e os riscos potenciais da administração da vacina se estiver grávida. Informe o seu médico se está grávida.
+ Daronrix pode ser administrado durante o aleitamento.
+ Condução de veículos e utilização de máquinas Após a administração de Daronrix, não é provável que os efeitos secundários o incapacitem de conduzir ou utilizar máquinas.
+ Informações importantes sobre alguns componentes de Daronrix O tiomersal (conservante) está presente neste produto, sendo possível a ocorrência de reacções alérgicas.
+ 3. COMO DARONRIX É ADMINISTRADO T Os adultos de 18 a 60 anos de idade irão receber 2 injecções de Daronrix, a primeira injecção será administrada na data escolhida, a segunda pelo menos três semanas após a primeira injecção.
+ Não existe informação sobre a utilização de Daronrix em menores de 18 anos de idade. Se tem menos de 18 anos de idade, o médico necessita de avaliar os benefícios e os riscos potencias de lhe administrar a vacina.
+ O médico irá administrar Daronrix sob a forma de uma injecção no músculo da parte superior do braço.
+ A vacina nunca deverá ser administrada numa veia.
+ Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou farmacêutico.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como os demais medicamentos, Daronrix pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ ♦ Muito frequentes (mais de 1 por 10 doses da vacina): • Dores de cabeça • Fadiga • Dor e vermelhidão no local de injecção
+ ♦ Frequentes (menos de 1 por 10 mas mais de 1 por 100 doses da vacina): • Aumento do suor, nódoas negras • Músculos doridos, dor nas articulações • Inchaço no local de injecção, inchaço duro • Arrepios, febre
+ ♦ Pouco frequentes (menos de 1 por 100 mas mais de 1 por 1000 doses da vacina): • Nariz e garganta inflamados e desconforto ao engolir, corrimento nasal • Comichão (prurido) no local de injecção
+ Estas reacções geralmente desaparecem em 1-2 dias sem tratamento.
+ 40 Outros efeitos secundários que ocorreram, nos dias ou semanas seguintes à vacinação, com as vacinas da gripe correntes incluem:
+ ♦ Pouco frequentes (menos de 1 por 100 mas mais de 1 por 1000 doses da vacina): • Reacções cutâneas generalizadas, tais como prurido, urticária ou erupções cutâneas
+ ♦ Raros (menos de 1 por 1000 mas mais de 1 por 10.000 doses da vacina): • Sensação intensa de facadas ou de dor pulsátil ao longo de um ou mais nervos • Sensação de formigueiro • Espasmos • Contagem de plaquetas sanguíneas baixa • Reacções alérgicas que levam a uma diminuição perigosa da pressão sanguínea que, se não for tratada, pode originar colapso, coma e morte
+ ♦ Muito raros (menos de 1 por 10.000 doses da vacina): • Estreitamento ou bloqueio dos vasos sanguíneos com problemas renais • Inflamação do cérebro e da coluna vertebral • Inchaço doloroso dos braços e pernas • Inflamação temporária dos nervos que causa dor, fraqueza e paralisia das extremidades, progredindo muitas vezes para o peito (tórax) e face.
+ Não fique alarmado com esta lista de possíveis efeitos secundários. É possível que não tenha quaisquer efeitos secundários com a vacinação.
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR DARONRIX Manter fora do alcance e da vista das crianças.
+ Não utilize Daronrix após o prazo de validade impresso na embalagem exterior. O prazo de validade corresponde ao último dia do mês indicado.
+ Conservar no frigorífico (2ºC – 8ºC). Conservar na embalagem de origem para proteger da luz. Não congelar.
+ Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Daronrix -As substâncias activas são:
+ Vacina de virião inteiro de influenza da estirpe pandémica, inactivado contendo antigénio* equivalente a:
+ A/Vietnam/1194/2004 (H5N1) *** 15 microgramas ** por 0,5 ml de dose
+ 41* propagado em ovos ** hemaglutinina *** 0,45 miligramas de Al3+ com adjuvante fosfato de alumínio 0,05 miligramas de Al3+ e hidróxido de alumínio hidratado
+ Os outros componentes são: cloreto de sódio, fosfato dissódico dodeca-hidratado, fosfato monopotássico, cloreto de potássio, cloreto de magnésio hexa-hidratado, tiomersal, água para preparações injectáveis
+ Qual o aspecto de Daronrix e conteúdo da embalagem
+ Daronrix é um líquido branco, ligeiramente leitoso e apresenta-se numa seringa pré-cheia (0,5 ml) para uma dose em embalagens de 1 e 10 com ou sem agulhas.
+ Nem todas as apresentações poderão estar comercializadas.
+ Titular da Autorização de Introdução no Mercado GlaxoSmithKline Biologicals s. a. Rue de l’ Institut 89 B-1330 Rixensart Bélgica
+ Fabricante Sächsisches Serumwerk Dresden (SSW) Zirkusstraße 40 D-01069 Dresden Alemanha
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado:
+ België/Belgique/Belgien GlaxoSmithKline s. a./n. v. Tél/Tel:+ 32 2 656 21 11
+ Luxembourg/Luxemburg GlaxoSmithKline s. a./n. v. Tél/Tel:+ 32 2 656 21 11
+ България ГлаксоСмитКлайн ЕООД Тел.:+ 359 2 953 10 34
+ Magyarország GlaxoSmithKline Kft. Tel.:+ 36-1-2255300
+ Česká republika GlaxoSmithKline s. r. o. Tel:+ 420 2 22 00 11 11 gsk. czmail@ gsk. com
+ Malta GlaxoSmithKline Malta Tel:+ 356 21 238131
+ Danmark GlaxoSmithKline Pharma A/S Tlf:+ 45 36 35 91 00 info@ glaxosmithkline. dk
+ Nederland GlaxoSmithKline BV Tel:+ 31 (0) 30 69 38 100 nlinfo@ gsk. com
+ Deutschland GlaxoSmithKline GmbH &amp; Co. KG Tel:+ 49 (0) 89 360448701 produkt. info@ gsk. com
+ Norge GlaxoSmithKline AS Tlf:+ 47 22 70 20 00 firmapost@ gsk. no
+ Eesti GlaxoSmithKline Eesti OÜ Tel: +372 667 6900
+ 42 Österreich GlaxoSmithKline Pharma GmbH. Tel:+ 43 1 970 75-0
+ estonia@ gsk. com
+ at. info@ gsk. com
+ Ελλάδα GlaxoSmithKline A. E. B. E Tηλ:+ 30 210 68 82 100
+ Polska GSK Commercial Sp. z o. o. Tel.:+ 48 (22) 576 9000
+ España GlaxoSmithKline, S. A. Tel:+ 34 902 202 700 es-ci@ gsk. com
+ Portugal Smith Kline &amp; French Portuguesa, Produtos Farmacêuticos, Lda. Tel:+ 351 21 412 95 00 FI. PT@ gsk. com
+ France Laboratoire GlaxoSmithKline Tél:+ 33 (0) 1 39 17 84 44 diam@ gsk. com
+ România GlaxoSmithKline (GSK) SRL Tel:+ 40 (0) 21 3028 208 www. gsk. ro
+ Ireland GlaxoSmithKline (Ireland) Ltd Tel:+ 353 (0) 1 4955000
+ Slovenija GlaxoSmithKline d. o. o. Tel:+ 386 (0) 1 280 25 00 medical. x. si@ gsk. com
+ Ísland GlaxoSmithKline ehf. Sími: +354-530 3700
+ Slovenská republika GlaxoSmithKline Slovakia s. r. o. Tel:+ 421 (0) 2 49 10 33 11 recepcia. sk@ gsk. com
+ Italia GlaxoSmithKline S. p. A. Tel:+ 39 04 59 21 81 11
+ Suomi/Finland GlaxoSmithKline Oy Puh/Tel:+ 358 10 30 30 30 Finland. tuoteinfo@ gsk. com
+ Κύπρος GlaxoSmithKline Cyprus Ltd Τηλ:+ 357 22 89 95 01
+ Sverige GlaxoSmithKline AB Tel:+ 46 (0) 8 638 93 00 info. produkt@ gsk. com
+ Latvija GlaxoSmithKline Latvia SIA Tel:+ 371 7312687 lv-epasts@ gsk. com
+ United Kingdom GlaxoSmithKline UK Tel:+ 44 (0) 808 100 9997 customercontactuk@ gsk. com
+ Lietuva GlaxoSmithKline Lietuva UAB Tel. +370 5 264 90 00 info. lt@ gsk. com
+ Este folheto foi aprovado pela última vez em{ MM/AAAA}
+ Daronrix foi autorizado sob “ circunstâncias excepcionais ”. Isto significa que foi impossível obter informação detalhada sobre este medicamento por questões científicas. A Agência Europeia do Medicamento (EMEA) irá rever anualmente qualquer nova informação sobre o medicamento e este folheto será actualizado se necessário.
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia do Medicamento (EMEA) http: //www. emea. europa. eu. 43 44 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Daronrix suspensão injectável Vacina contra a pandemia de gripe (virião inteiro, inactivado, com adjuvante)
+ Leia atentamente este folheto antes de iniciar a administração desta vacina.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Esta vacina foi-lhe receitada a si. Não deve dá-la a outros.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é Daronrix e para que é utilizado 2. Antes de administrar Daronrix 3. Como Daronrix é administrado 4. Efeitos secundários possíveis 5. Como conservar Daronrix 6. Outras informações
+ 1. O QUE É DARONRIX E PARA QUE É UTILIZADO
+ Daronrix é uma vacina administrada nos adultos de 18 a 60 anos de idade para prevenir a gripe numa pandemia de gripe declarada oficialmente. A vacina actua ao levar o organismo a produzir as suas próprias defesas (anticorpos) contra a doença.
+ A pandemia de gripe é um tipo de gripe que ocorre de poucas em poucas décadas e que se propaga rapidamente, afectando a maioria dos países e regiões no mundo. Os sintomas da pandemia de gripe são semelhantes aos da gripe vulgar, mas são geralmente mais graves.
+ 2. ANTES DE ADMINISTRAR DARONRIX Daronrix não deve ser administrado: • se teve anteriormente uma reacção alérgica a Daronrix, ou a qualquer componente (incluindo ovos, proteína da galinha, sulfato de gentamicina (antibiótico )) desta vacina. No final deste Folheto Informativo estão listados as substâncias activas e os outros componentes de Daronrix. Os sinais de uma reacção alérgica podem incluir erupções cutâneas com comichão (prurido), dificuldade em respirar e inchaço da face ou da língua. Contudo, numa situação pandémica, pode ser apropriado administrar a vacina, garantindo que os meios de reanimação estão imediatamente disponíveis, em caso de necessidade.
+ Tome especial cuidado com Daronrix • se tem uma infecção grave com temperatura elevada (acima de 38ºC). Uma pequena infecção, como uma constipação, não deve constituir um problema, mas consulte primeiro o seu médico.
+ Utilizar Daronrix com outros medicamentos Informe o seu médico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica ou se tiver feito recentemente outra vacina. Se está a tomar algum medicamento que reduza a imunidade a infecções ou se está a fazer qualquer outro tipo de tratamento (como radioterapia) que afecta o sistema imunitário, Daronrix pode ainda ser administrado, mas a sua resposta à vacina pode ser fraca.
+ 45 Gravidez e aleitamento Não há informação sobre a utilização de Daronrix na mulher grávida. O seu médico necessita de avaliar os benefícios e os riscos potenciais da administração da vacina se estiver grávida. Informe o seu médico se está grávida.
+ Daronrix pode ser administrado durante o aleitamento.
+ Condução de veículos e utilização de máquinas Após a administração de Daronrix, não é provável que os efeitos secundários o incapacitem de conduzir ou utilizar máquinas.
+ Informações importantes sobre alguns componentes de Daronrix O tiomersal (conservante) está presente neste produto, sendo possível a ocorrência de reacções alérgicas.
+ 3. COMO DARONRIX É ADMINISTRADO Os adultos de 18 a 60 anos de idade irão receber 2 injecções de Daronrix, a primeira injecção será administrada na data escolhida, a segunda pelo menos três semanas após a primeira injecção.
+ Não existe informação sobre a utilização de Daronrix em menores de 18 anos de idade. Se tem menos de 18 anos de idade, o médico necessita de avaliar os benefícios e os riscos potencias de lhe administrar a vacina.
+ O médico irá administrar Daronrix sob a forma de uma injecção no músculo da parte superior do braço.
+ A vacina nunca deverá ser administrada numa veia.
+ Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou farmacêutico.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como os demais medicamentos, Daronrix pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ ♦ Muito frequentes (mais de 1 por 10 doses da vacina): • Dores de cabeça • Fadiga • Dor e vermelhidão no local de injecção
+ ♦ Frequentes (menos de 1 por 10 mas mais de 1 por 100 doses da vacina): • Aumento do suor, nódoas negras • Músculos doridos, dor nas articulações • Inchaço no local de injecção, inchaço duro • Arrepios, febre
+ ♦ Pouco frequentes (menos de 1 por 100 mas mais de 1 por 1000 doses da vacina): • Nariz e garganta inflamados e desconforto ao engolir, corrimento nasal • Comichão (prurido) no local de injecção
+ Estas reacções geralmente desaparecem em 1-2 dias sem tratamento.
+ 46 Outros efeitos secundários que ocorreram, nos dias ou semanas seguintes à vacinação, com as vacinas da gripe correntes incluem:
+ ♦ Pouco frequentes (menos de 1 por 100 mas mais de 1 por 1000 doses da vacina): • Reacções cutâneas generalizadas, tais como prurido, urticária ou erupções cutâneas
+ ♦ Raros (menos de 1 por 1000 mas mais de 1 por 10.000 doses da vacina): • Sensação intensa de facadas ou de dor pulsátil ao longo de um ou mais nervos • Sensação de formigueiro • Espasmos • Contagem de plaquetas sanguíneas baixa • Reacções alérgicas que levam a uma diminuição perigosa da pressão sanguínea que, se não for tratada, pode originar colapso, coma e morte
+ ♦ Muito raros (menos de 1 por 10.000 doses da vacina): • Estreitamento ou bloqueio dos vasos sanguíneos com problemas renais • Inflamação do cérebro e da coluna vertebral • Inchaço doloroso dos braços e pernas • Inflamação temporária dos nervos que causa dor, fraqueza e paralisia das extremidades, progredindo muitas vezes para o peito (tórax) e face.
+ Não fique alarmado com esta lista de possíveis efeitos secundários. É possível que não tenha quaisquer efeitos secundários com a vacinação.
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR DARONRIX Manter fora do alcance e da vista das crianças.
+ Não utilize Daronrix após o prazo de validade impresso na embalagem exterior. O prazo de validade corresponde ao último dia do mês indicado.
+ Conservar no frigorífico (2ºC – 8ºC). Conservar na embalagem de origem para proteger da luz. Não congelar.
+ Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Daronrix -As substâncias activas são:
+ Vacina de virião inteiro de influenza da estirpe pandémica, inactivado contendo antigénio* equivalente a:
+ A/Vietnam/1194/2004 (H5N1) *** 15 microgramas ** por 0,5 ml de dose
+ 47* propagado em ovos ** hemaglutinina *** 0,45 miligramas de Al3+ com adjuvante fosfato de alumínio 0,05 miligramas de Al3+ e hidróxido de alumínio hidratado
+ -Os outros componentes são: cloreto de sódio, fosfato dissódico dodeca-hidratado, fosfato
+ monopotássico, cloreto de potássio, cloreto de magnésio hexa-hidratado, tiomersal, água para preparações injectáveis
+ Qual o aspecto de Daronrix e conteúdo da embalagem
+ Daronrix é um líquido branco, ligeiramente leitoso e apresenta-se numa ampola (0,5 ml) para uma dose em embalagens de 100.
+ Titular da Autorização de Introdução no Mercado GlaxoSmithKline Biologicals s. a. Rue de l’ Institut 89 B-1330 Rixensart Bélgica
+ Fabricante Sächsisches Serumwerk Dresden (SSW) Zirkusstraße 40 D-01069 Dresden Alemanha
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado:
+ België/Belgique/Belgien GlaxoSmithKline s. a./n. v. Tél/Tel:+ 32 2 656 21 11
+ Luxembourg/Luxemburg GlaxoSmithKline s. a./n. v. Tél/Tel:+ 32 2 656 21 11
+ България ГлаксоСмитКлайн ЕООД Тел.:+ 359 2 953 10 34
+ Magyarország GlaxoSmithKline Kft. Tel.:+ 36-1-2255300
+ Česká republika GlaxoSmithKline s. r. o. Tel:+ 420 2 22 00 11 11 gsk. czmail@ gsk. com
+ Malta GlaxoSmithKline Malta Tel:+ 356 21 238131
+ Danmark GlaxoSmithKline Pharma A/S Tlf:+ 45 36 35 91 00 info@ glaxosmithkline. dk
+ Nederland GlaxoSmithKline BV Tel:+ 31 (0) 30 69 38 100 nlinfo@ gsk. com
+ Deutschland GlaxoSmithKline GmbH &amp; Co. KG Tel:+ 49 (0) 89 360448701 produkt. info@ gsk. com
+ Norge GlaxoSmithKline AS Tlf:+ 47 22 70 20 00 firmapost@ gsk. no
+ Eesti Österreich GlaxoSmithKline Eesti OÜ Tel: +372 667 6900 estonia@ gsk. com
+ 48 GlaxoSmithKline Pharma GmbH. Tel:+ 43 1 970 75-0 at. info@ gsk. com
+ Ελλάδα GlaxoSmithKline A. E. B. E Tηλ:+ 30 210 68 82 100
+ Polska GSK Commercial Sp. z o. o. Tel.:+ 48 (22) 576 9000
+ España GlaxoSmithKline, S. A. Tel:+ 34 902 202 700 es-ci@ gsk. com
+ Portugal Smith Kline &amp; French Portuguesa, Produtos Farmacêuticos, Lda. Tel:+ 351 21 412 95 00 FI. PT@ gsk. com
+ France Laboratoire GlaxoSmithKline Tél:+ 33 (0) 1 39 17 84 44 diam@ gsk. com
+ România GlaxoSmithKline (GSK) SRL Tel:+ 40 (0) 21 3028 208 www. gsk. ro
+ Ireland GlaxoSmithKline (Ireland) Ltd Tel:+ 353 (0) 1 4955000
+ Slovenija GlaxoSmithKline d. o. o. Tel:+ 386 (0) 1 280 25 00 medical. x. si@ gsk. com
+ Ísland GlaxoSmithKline ehf. Sími: +354-530 3700
+ Slovenská republika GlaxoSmithKline Slovakia s. r. o. Tel:+ 421 (0) 2 49 10 33 11 recepcia. sk@ gsk. com
+ Italia GlaxoSmithKline S. p. A. Tel:+ 39 04 59 21 81 11
+ Suomi/Finland GlaxoSmithKline Oy Puh/Tel:+ 358 10 30 30 30 Finland. tuoteinfo@ gsk. com
+ Κύπρος GlaxoSmithKline Cyprus Ltd Τηλ:+ 357 22 89 95 01
+ Sverige GlaxoSmithKline AB Tel:+ 46 (0) 8 638 93 00 info. produkt@ gsk. com
+ Latvija GlaxoSmithKline Latvia SIA Tel:+ 371 7312687 lv-epasts@ gsk. com
+ United Kingdom GlaxoSmithKline UK Tel:+ 44 (0) 808 100 9997 customercontactuk@ gsk. com
+ Lietuva GlaxoSmithKline Lietuva UAB Tel. +370 5 264 90 00 info. lt@ gsk. com
+ Este folheto foi aprovado pela última vez em{ MM/AAAA}
+ Daronrix foi autorizado sob “ circunstâncias excepcionais ”. Isto significa que foi impossível obter informação detalhada sobre este medicamento por questões científicas. A Agência Europeia do Medicamento (EMEA) irá rever anualmente qualquer nova informação sobre o medicamento e este folheto será actualizado se necessário.
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia do Medicamento (EMEA) http: //www. emea. europa. eu.
+ 49 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Daronrix suspensão injectável em recipiente multidose Vacina contra a pandemia de gripe (virião inteiro, inactivado, com adjuvante)
+ Leia atentamente este folheto antes de iniciar a administração desta vacina.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Esta vacina foi-lhe receitada a si. Não deve dá-la a outros.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é Daronrix e para que é utilizado 2. Antes de administrar Daronrix 3. Como Daronrix é administrado 4. Efeitos secundários possíveis 5. Como conservar Daronrix 6. Outras informações
+ 1. O QUE É DARONRIX E PARA QUE É UTILIZADO
+ Daronrix é uma vacina administrada nos adultos de 18 a 60 anos de idade para prevenir a gripe numa pandemia de gripe declarada oficialmente. A vacina actua ao levar o organismo a produzir as suas próprias defesas (anticorpos) contra a doença.
+ A pandemia de gripe é um tipo de gripe que ocorre de poucas em poucas décadas e que se propaga rapidamente, afectando a maioria dos países e regiões no mundo. Os sintomas da pandemia de gripe são semelhantes aos da gripe vulgar, mas são geralmente mais graves.
+ 2. ANTES DE ADMINISTRAR DARONRIX Daronrix não deve ser administrado: • se teve anteriormente uma reacção alérgica a Daronrix, ou a qualquer componente (incluindo ovos, proteína da galinha, sulfato de gentamicina (antibiótico )) desta vacina. No final deste Folheto Informativo estão listados as substâncias activas e os outros componentes de Daronrix. Os sinais de uma reacção alérgica podem incluir erupções cutâneas com comichão (prurido), dificuldade em respirar e inchaço da face ou da língua. Contudo, numa situação pandémica, pode ser apropriado administrar a vacina, garantindo que os meios de reanimação estão imediatamente disponíveis, em caso de necessidade.
+ Tome especial cuidado com Daronrix • se tem uma infecção grave com temperatura elevada (acima de 38ºC). Uma pequena infecção, como uma constipação, não deve constituir um problema, mas consulte primeiro o seu médico.
+ Utilizar Daronrix com outros medicamentos Informe o seu médico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica ou se tiver feito recentemente outra vacina. Se está a tomar algum medicamento que reduza a imunidade a infecções ou se está a fazer qualquer outro tipo de tratamento (como radioterapia) que afecta o sistema imunitário, Daronrix pode ainda ser administrado, mas a sua resposta à vacina pode ser fraca.
+ 50 Gravidez e aleitamento Não há informação sobre a utilização de Daronrix na mulher grávida. O seu médico necessita de avaliar os benefícios e os riscos potenciais da administração da vacina se estiver grávida. Informe o seu médico se está grávida.
+ Daronrix pode ser administrado durante o aleitamento.
+ Condução de veículos e utilização de máquinas Após a administração de Daronrix, não é provável que os efeitos secundários o incapacitem de conduzir ou utilizar máquinas.
+ Informações importantes sobre alguns componentes de Daronrix O tiomersal (conservante) está presente neste produto, sendo possível a ocorrência de reacções alérgicas.
+ 3. COMO DARONRIX É ADMINISTRADO Os adultos de 18 a 60 anos de idade irão receber 2 injecções de Daronrix, a primeira injecção será administrada na data escolhida, a segunda pelo menos três semanas após a primeira injecção.
+ Não existe informação sobre a utilização de Daronrix em menores de 18 anos de idade. Se tem menos de 18 anos de idade, o médico necessita de avaliar os benefícios e os riscos potencias de lhe administrar a vacina.
+ O médico irá administrar Daronrix sob a forma de uma injecção no músculo da parte superior do braço.
+ A vacina nunca deverá ser administrada numa veia.
+ Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou farmacêutico.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como os demais medicamentos, Daronrix pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ ♦ Muito frequentes (mais de 1 por 10 doses da vacina): • Dores de cabeça • Fadiga • Dor e vermelhidão no local de injecção
+ ♦ Frequentes (menos de 1 por 10 mas mais de 1 por 100 doses da vacina): • Aumento do suor, nódoas negras • Músculos doridos, dor nas articulações • Inchaço no local de injecção, inchaço duro • Arrepios, febre
+ ♦ Pouco frequentes (menos de 1 por 100 mas mais de 1 por 1000 doses da vacina): • Nariz e garganta inflamados e desconforto ao engolir, corrimento nasal • Comichão (prurido) no local de injecção
+ Estas reacções geralmente desaparecem em 1-2 dias sem tratamento.
+ 51 Outros efeitos secundários que ocorreram, nos dias ou semanas seguintes à vacinação, com as vacinas da gripe correntes incluem:
+ ♦ Pouco frequentes (menos de 1 por 100 mas mais de 1 por 1000 doses da vacina): • Reacções cutâneas generalizadas, tais como prurido, urticária ou erupções cutâneas
+ ♦ Raros (menos de 1 por 1000 mas mais de 1 por 10.000 doses da vacina): • Sensação intensa de facadas ou de dor pulsátil ao longo de um ou mais nervos • Sensação de formigueiro • Espasmos • Contagem de plaquetas sanguíneas baixa • Reacções alérgicas que levam a uma diminuição perigosa da pressão sanguínea que, se não for tratada, pode originar colapso, coma e morte
+ ♦ Muito raros (menos de 1 por 10.000 doses da vacina): • Estreitamento ou bloqueio dos vasos sanguíneos com problemas renais • Inflamação do cérebro e da coluna vertebral • Inchaço doloroso dos braços e pernas • Inflamação temporária dos nervos que causa dor, fraqueza e paralisia das extremidades, progredindo muitas vezes para o peito (tórax) e face.
+ Não fique alarmado com esta lista de possíveis efeitos secundários. É possível que não tenha quaisquer efeitos secundários com a vacinação.
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR DARONRIX Manter fora do alcance e da vista das crianças.
+ Não utilize Daronrix após o prazo de validade impresso na embalagem exterior. O prazo de validade corresponde ao último dia do mês indicado.
+ Conservar no frigorífico (2ºC – 8ºC). Conservar na embalagem de origem para proteger da luz. Não congelar.
+ Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Daronrix -As substâncias activas são:
+ Vacina de virião inteiro de influenza da estirpe pandémica, inactivado contendo antigénio* equivalente a:
+ A/Vietnam/1194/2004 (H5N1) *** 15 microgramas ** por 0,5 ml de dose
+ 52* propagado em ovos ** hemaglutinina *** 0,45 miligramas de Al3+ com adjuvante fosfato de alumínio 0,05 miligramas de Al3+ e hidróxido de alumínio hidratado
+ -Os outros componentes são: cloreto de sódio, fosfato dissódico dodeca-hidratado, fosfato
+ monopotássico, cloreto de potássio, cloreto de magnésio hexa-hidratado, tiomersal, água para preparações injectáveis
+ Qual o aspecto de Daronrix e conteúdo da embalagem
+ Daronrix é um líquido branco, ligeiramente leitoso e apresenta-se da seguinte forma:
+ -em ampola (5 ml) para 10 doses em embalagens de 50
+ -em frasco para injectáveis (5 ml) para 10 doses em embalagens de 50
+ -em frasco para injectáveis (10 ml) para 20 doses em embalagens de 50
+ Nem todas as apresentações poderão estar comercializadas.
+ Titular da Autorização de Introdução no Mercado GlaxoSmithKline Biologicals s. a. Rue de l’ Institut 89 B-1330 Rixensart Bélgica
+ Fabricante Sächsisches Serumwerk Dresden (SSW) Zirkusstraße 40 D-01069 Dresden Alemanha
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado:
+ België/Belgique/Belgien GlaxoSmithKline s. a./n. v. Tél/Tel:+ 32 2 656 21 11
+ Luxembourg/Luxemburg GlaxoSmithKline s. a./n. v. Tél/Tel:+ 32 2 656 21 11
+ България ГлаксоСмитКлайн ЕООД Тел.:+ 359 2 953 10 34
+ Magyarország GlaxoSmithKline Kft. Tel.:+ 36-1-2255300
+ Česká republika GlaxoSmithKline s. r. o. Tel:+ 420 2 22 00 11 11 gsk. czmail@ gsk. com
+ Malta GlaxoSmithKline Malta Tel:+ 356 21 238131
+ Danmark GlaxoSmithKline Pharma A/S Tlf:+ 45 36 35 91 00 info@ glaxosmithkline. dk
+ Nederland GlaxoSmithKline BV Tel:+ 31 (0) 30 69 38 100 nlinfo@ gsk. com
+ Deutschland GlaxoSmithKline GmbH &amp; Co. KG Tel:+ 49 (0) 89 360448701 produkt. info@ gsk. com
+ 53 Norge GlaxoSmithKline AS Tlf:+ 47 22 70 20 00 firmapost@ gsk. no
+ Eesti GlaxoSmithKline Eesti OÜ Tel: +372 667 6900 estonia@ gsk. com
+ Österreich GlaxoSmithKline Pharma GmbH. Tel:+ 43 1 970 75-0 at. info@ gsk. com
+ Ελλάδα GlaxoSmithKline A. E. B. E Tηλ:+ 30 210 68 82 100
+ Polska GSK Commercial Sp. z o. o. Tel.:+ 48 (22) 576 9000
+ España GlaxoSmithKline, S. A. Tel:+ 34 902 202 700 es-ci@ gsk. com
+ Portugal Smith Kline &amp; French Portuguesa, Produtos Farmacêuticos, Lda. Tel:+ 351 21 412 95 00 FI. PT@ gsk. com
+ France Laboratoire GlaxoSmithKline Tél:+ 33 (0) 1 39 17 84 44 diam@ gsk. com
+ România GlaxoSmithKline (GSK) SRL Tel:+ 40 (0) 21 3028 208 www. gsk. ro
+ Ireland GlaxoSmithKline (Ireland) Ltd Tel:+ 353 (0) 1 4955000
+ Slovenija GlaxoSmithKline d. o. o. Tel:+ 386 (0) 1 280 25 00 medical. x. si@ gsk. com
+ Ísland GlaxoSmithKline ehf. Sími: +354-530 3700
+ Slovenská republika GlaxoSmithKline Slovakia s. r. o. Tel:+ 421 (0) 2 49 10 33 11 recepcia. sk@ gsk. com
+ Italia GlaxoSmithKline S. p. A. Tel:+ 39 04 59 21 81 11
+ Suomi/Finland GlaxoSmithKline Oy Puh/Tel:+ 358 10 30 30 30 Finland. tuoteinfo@ gsk. com
+ Κύπρος GlaxoSmithKline Cyprus Ltd Τηλ:+ 357 22 89 95 01
+ Sverige GlaxoSmithKline AB Tel:+ 46 (0) 8 638 93 00 info. produkt@ gsk. com
+ Latvija GlaxoSmithKline Latvia SIA Tel:+ 371 7312687 lv-epasts@ gsk. com
+ United Kingdom GlaxoSmithKline UK Tel:+ 44 (0) 808 100 9997 customercontactuk@ gsk. com
+ Lietuva GlaxoSmithKline Lietuva UAB Tel. +370 5 264 90 00 info. lt@ gsk. com
+ Este folheto foi aprovado pela última vez em{ MM/AAAA}
+ Daronrix foi autorizado sob “ circunstâncias excepcionais ”. Isto significa que foi impossível obter informação detalhada sobre este medicamento por questões científicas.
+ 54 A Agência Europeia do Medicamento (EMEA) irá rever anualmente qualquer nova informação sobre o medicamento e este folheto será actualizado se necessário.
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia do Medicamento (EMEA) http: //www. emea. europa. eu.
+ 55

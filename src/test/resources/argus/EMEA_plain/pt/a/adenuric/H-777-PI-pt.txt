@@ -1,0 +1,461 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. NOME DO MEDICAMENTO
+ ADENURIC 80 mg comprimidos revestidos por película
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada comprimido contém 80 mg de febuxostate.
+ Excipientes: Cada comprimido contém 76,50 mg de lactose mono-hidratada.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Comprimido revestido por película. Comprimidos de cor amarelo-pálida a amarela, revestidos por película, em forma de cápsula, com a gravação “ 80 ” num dos lados.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Tratamento de hiperuricémia crónica em quadros clínicos nos quais já tenha ocorrido deposição de urato (incluindo história, ou presença de, tofo e/ou artrite gotosa).
+ 4.2 Posologia e modo de administração A dose oral recomendada de ADENURIC é de 80 mg uma vez ao dia, independentemente da ingestão de alimentos. Caso o nível de ácido úrico sérico seja &gt; 6 mg/dl (357 µmol/l) após 2-4 semanas, pode considerar-se a administração de ADENURIC 120 mg uma vez ao dia.
+ ADENURIC actua de forma suficientemente rápida para permitir a reavaliação do ácido úrico sérico após 2 semanas. O objectivo terapêutico consiste em diminuir e manter o nível sérico de ácido úrico abaixo de 6 mg/dl (357 µmol/l).
+ Recomenda-se a profilaxia de episódios agudos de gota durante pelo menos 6 meses (ver secção 4.4).
+ Populações especiais Insuficiência renal Não é necessário um ajuste de dose em doentes com disfunção renal ligeira ou moderada. A eficácia e segurança não foram completamente avaliadas em doentes com disfunção renal grave (depuração da creatinina &lt; 30 ml/min, ver secção 5.2).
+ Disfunção hepática A dose recomendada em doentes com disfunção hepática ligeira é de 80 mg. A informação disponível de doentes com disfunção hepática moderada é limitada. A eficácia e segurança do febuxostate não foram estudadas em doentes com disfunção hepática grave (Classe C de Child Pugh).
+ Idosos Não é necessário ajuste de dose em idosos (ver secção 5.2).
+ 2 Crianças e adolescentes Dado não haver experiência em crianças e adolescentes, não se recomenda o uso de febuxostate neste grupo de doentes.
+ Receptores de transplante de órgãos Dado não haver experiência em receptores de transplante de órgãos, não se recomenda o uso de febuxostate neste grupo de doentes (ver secção 5.1).
+ 4.3 Contra-indicações Hipersensibilidade à substância activa ou a qualquer um dos excipientes (ver secção 4.8).
+ 4.4 Advertências e precauções especiais de utilização
+ Afecções cardiovasculares Não se recomenda o tratamento com febuxostate em doentes com doença cardíaca isquémica ou insuficiência cardíaca congestiva (ver secção 4.8).
+ Ataques agudos de gota (episódios agudos de gota) Não deve iniciar-se o tratamento com febuxostate até que o ataque agudo de gota tenha passado completamente. Tal como acontece com outros medicamentos que reduzem o urato, podem ocorrer episódios agudos de gota durante o início do tratamento devido à alteração nos níveis séricos de ácido úrico resultantes da mobilização de urato a partir dos depósitos nos tecidos. No início do tratamento com febuxostate, recomenda-se a profilaxia de episódios agudos durante pelo menos 6 meses com um AINE ou colquicina. Caso ocorra um episódio agudo de gota durante o tratamento com febuxostate, este não deve suspender-se. O episódio agudo de gota deve tratar-se em simultâneo, conforme o apropriado para cada doente em particular. O tratamento continuado com febuxostate diminui a frequência e a intensidade dos episódios agudos de gota.
+ Deposição de xantina Tal como acontece com outros medicamentos que reduzem o urato, em doentes nos quais a taxa de formação de urato aumente grandemente (por ex. doença neoplásica e respectivo tratamento, síndrome de Lesch-Nyhan), a concentração absoluta de xantina na urina pode, em casos raros, aumentar o suficiente para permitir a deposição no tracto urinário. Dado não haver experiência com febuxostate, não se recomenda o respectivo uso nestas populações.
+ Mercaptopurina/azatioprina Não se recomenda o uso de febuxostate em doentes tratados em simultâneo com mercaptopurina/azatioprina (ver secção 4.5).
+ Teofilina O febuxostate deve ser utilizado com cautela em doentes tratados em simultâneo com teofilina e devem vigiar-se os níveis de teofilina nos doentes que estejam a iniciar a terapêutica com febuxostate (ver secção 4.5).
+ Afecções hepáticas Durante os estudos clínicos de fase 3, observaram-se anomalias ligeiras nos testes de função hepática em doentes tratados com febuxostate (3,5%). Recomendam-se testes de função hepática antes do início da terapêutica com febuxostate e periodicamente daí em diante, com base no parecer clínico (ver secção 5.1).
+ Disfunções da tiróide Observaram-se valores aumentados de TSH (&gt; 5,5 µUI/ml) em doentes a fazer tratamento prolongado com febuxostate (5,0%) em estudos de extensão abertos de longo prazo. É necessária cautela ao utilizar febuxostate em doentes com alteração da função tiroideia (ver secção 5.1).
+ 3 Lactose Os comprimidos de febuxostate contêm lactose. Os doentes com problemas hereditários raros de intolerância à lactose, deficiência Lapp-lactase ou má absorção de glicose-galactose não devem tomar este medicamento.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Mercaptopurina/azatioprina Ainda que não tenham sido efectuados estudos de interacção com febuxostate, sabe-se que a inibição da xantina oxidase (XO) aumenta os níveis de mercaptopurina ou azatioprina. Com base no mecanismo de acção de febuxostate sobre a inibição da XO, não se recomenda o seu uso concomitante.
+ Não foram efectuados estudos de interacção medicamentosa do febuxostate com quimioterapia citotóxica. Não estão disponíveis dados relativos à segurança do febuxostate durante a terapêutica citotóxica.
+ Teofilina Ainda que não tenham sido efectuados estudos de interacção com febuxostate, a inibição da XO pode causar um aumento no nível de teofilina (foi notificada inibição do metabolismo de teofilina com outros inibidores da XO). Daí que seja aconselhada cautela caso estas substâncias activas sejam administradas em simultâneo, devendo ser vigiados os níveis de teofilina em doentes que iniciem terapêutica com febuxostate.
+ Naproxeno e outros inibidores da glucuronidação O metabolismo de febuxostate depende das enzimas UGT (UDP-glucuronosil transferases). Os medicamentos que inibem a glucuronidação, tais como os AINEs e probenecide, podem, em teoria, afectar a eliminação do febuxostate. Em indivíduos saudáveis, o uso concomitante de febuxostate e naproxeno 250mg 2xdia (bid) foi associado a um aumento na exposição ao febuxostate (Cmáx 28%, AUC 41% e t1/2 26%). Em estudos clínicos, o uso de naproxeno ou outros AINEs/inibidores da Cox-2 não foi relacionado com qualquer aumento significativo de acontecimentos adversos.
+ O febuxostate pode ser administrado concomitantemente com naproxeno sem que seja necessário qualquer ajuste do febuxostate ou do naproxeno.
+ Indutores da glucuronidação Os indutores potentes de enzimas UGT podem originar um aumento do metabolismo e diminuição da eficácia do febuxostate. Por conseguinte, recomenda-se a vigilância do ácido úrico sérico 1-2 semanas após início de tratamento com um indutor potente da glucuronidação. Inversamente, a interrupção do tratamento com um indutor poderá originar aumento dos níveis plasmáticos de febuxostate.
+ Colquicina/indometacina/hidroclorotiazida/varfarina O febuxostate pode ser co-administrado com colquicina ou indometacina sem que seja necessário qualquer ajuste do febuxostate ou da substância activa administrada concomitantemente.
+ Não é necessário ajuste da dose do febuxostate quando administrado com hidroclorotiazida.
+ Não é necessário ajuste da dose da varfarina quando administrada com febuxostate. Após início da terapêutica com febuxostate, deve considerar-se a vigilância da actividade anticoagulante nos doentes que estejam a fazer varfarina ou agentes semelhantes.
+ Desipramina/substratos da CYP2D6 O febuxostate mostrou ser um inibidor fraco de CYP2D6 in vitro. Num estudo com indivíduos saudáveis,120 mg de ADENURIC 1xdia (qid) originou num aumento médio de 22% da AUC da desipramina, um substrato da CYP2D6, o que indica um potencial efeito inibitório fraco do febuxostate sobre a enzima CYP2D6 in vivo. Portanto, não é de esperar que a co-administração de febuxostate com outros substratos da CYP2D6 exija qualquer ajuste da dose destes compostos.
+ 4 Antiácidos A ingestão concomitante de um antiácido que contenha hidróxido de magnésio e hidróxido de alumínio mostrou retardar a absorção do febuxostate (cerca de 1 hora) e causar uma diminuição de 32% na Cmáx, embora não se tenha observado uma alteração significativa na AUC. Por conseguinte, o febuxostate pode tomar-se independentemente do uso de antiácidos.
+ 4.6 Gravidez e aleitamento Gravidez Os dados relativos a um número muito limitado de gravidezes expostas não indicaram quaisquer efeitos adversos do febuxostate sobre a gravidez ou sobre a saúde do feto/recém-nascido. Os estudos em animais não indicaram efeitos nocivos directos ou indirectos no que respeita à gravidez, desenvolvimento embrionário/fetal ou parto (ver secção 5.3). Desconhece-se o risco potencial para o ser humano. O febuxostate não deve utilizar-se durante a gravidez.
+ Aleitamento Desconhece-se se o febuxostate é excretado no leite materno em seres humanos. Os estudos em animais mostraram a excreção desta substância activa no leite materno e uma anomalia do desenvolvimento nas crias em amamentação. Não pode excluir-se um risco para o bebé em aleitamento. O febuxostate não deve utilizar-se durante a amamentação.
+ 4.7 Efeito sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas. Tal como acontece com outros inibidores da xantina oxidase, foram notificadas reacções adversas como sonolência, tonturas e parestesia. Os doentes devem ter cautela antes de conduzirem, utilizarem máquinas ou participarem em actividades perigosas até estarem razoavelmente seguros de que o ADENURIC não afecta adversamente o seu desempenho.
+ 4.8 Efeitos indesejáveis Um total de 2531 indivíduos receberam pelo menos uma dose de ADENURIC (10 mg – 300 mg) em estudos clínicos.
+ Estudos de fase 3 controlados e aleatorizados Em estudos clínicos de fase 3 controlados e aleatorizados, &gt; 1000 doentes foram tratados com as doses recomendadas de 80 mg ou 120 mg (536 indivíduos envolvidos num estudo de 28 semanas e 507 num estudo de 52 semanas). Os acontecimentos relacionados com o tratamento (reacções adversas medicamentosas, RAMs) foram sobretudo de gravidade ligeira ou moderada.
+ As RAMs notificadas com maior frequência (avaliação do investigador) são alterações da função hepática (3,5%), diarreia (2,7%), cefaleia (1,8%), náuseas (1,7%) e exantema (1,5%).
+ Foi observada uma incidência numericamente superior de acontecimentos cardiovasculares notificados pelo investigador no grupo total de febuxostate comparativamente com o grupo alopurinol na Fase III principal[ 1,3 vs 0,3 acontecimentos por 100 PYs (doentes-ano)] e nos estudos de extensão de longo prazo (1,4 vs 0,7 acontecimentos por 100 PYs), embora não tenham sido detectadas diferenças estatisticamente significativas nem tenha sido estabelecida uma relação causal com o febuxostate. Os factores de risco identificados nestes doentes foram um historial médico de doença ateroesclerótica e/ou enfarte do miocárdio ou de insuficiência cardíaca congestiva.
+ As reacções adversas frequentes (≥ 1/100 a &lt; 1/10), pouco frequentes (≥ 1/1000 a &lt; 1/100) e raras (≥ 1/10.000 a &lt; 1/1000), suspeitas (avaliação do investigador) de estarem relacionadas com o medicamento constatadas nos grupos de tratamento de 80 mg/120 mg e notificadas mais do que uma vez no grupo total de tratamento com febuxostate encontram-se listadas a seguir.
+ 5 Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ Tabela 1: Reacções adversas relacionadas com o tratamento em estudos de fase 3 controlados e aleatorizados Exames complementares de diagnóstico Cardiopatias
+ Pouco frequentes Aumento da amilase sanguínea, diminuição da contagem de plaquetas, aumento da creatinina sérica, diminuição da hemoglobina, aumento da ureia sérica, aumento da LDH, aumento dos triglicéridos Raras Palpitações
+ Doenças do sistema nervoso Frequentes Cefaleia Pouco frequentes Tonturas, parestesia, sonolência, alterações do paladar
+ Doenças gastrointestinais Frequentes Diarreia*, náuseas* Pouco frequentes: Dor abdominal, doença de refluxo gastro-esofágico, vómitos*, boca seca, dispepsia, obstipação, evacuação frequente, flatulência, desconforto gastrointestinal
+ Doenças renais e urinárias Pouco frequentes Nefrolitíase, hematúria, polaquiúria Raras Insuficiência renal
+ Afecções dos tecidos cutâneos e subcutâneas
+ Frequentes Exantema ** Pouco frequentes Dermatite, urticária, prurido
+ Afecções musculosqueléticas e dos tecidos conjuntivos
+ Pouco frequentes Artralgia, artrite, mialgia, cãibras musculares, dor musculosquelética
+ Doenças do metabolismo e da nutrição Vasculopatias
+ Pouco frequentes Aumento de peso, aumento do apetite Pouco frequentes Hipertensão, rubores, afrontamentos
+ Perturbações de ordem geral e alterações no local de administração
+ Pouco frequentes Fadiga, edema, sintomas do tipo gripal Raras Astenia, sede
+ Afecções hepatobiliares Frequentes Anomalias nos testes de função hepática
+ Perturbações do foro psiquiátrico Pouco frequentes Diminuição da líbido Raras Nervosismo, insónia
+ 6* Diarreia, náuseas e vómitos são mais frequentes em doentes tratados em simultâneo com colquicina. ** Não foram notados exantemas graves nem reacções graves de hipersensibilidade nos estudos clínicos.
+ Estudos de extensão abertos de longo prazo Nos estudos de extensão abertos de longo prazo, o número de doentes tratados com febuxostate 80 mg/120 mg até 1 ano foi de 906, até 2 anos foi de 322, até 3 anos foi de 57 e até 4 anos foi de 53. Os acontecimentos relacionados com o tratamento notificados durante os estudos de extensão de longo prazo foram semelhantes aos notificados nos estudos de fase 3 (ver Tabela 1). Os acontecimentos relacionados com o tratamento notificados com maior frequência (avaliação do investigador) são: alterações da função hepática, diarreia, cefaleia, exantema e hipertensão.
+ Os seguintes acontecimentos relacionados com o tratamento foram notificados mais do que uma vez no grupo total de tratamento com febuxostate e foram notificados como sendo pouco frequentes nos indivíduos a tomar febuxostate 80 mg/120 mg nos estudos de extensão de longo prazo (até 4 anos, &gt; 1.900 doentes-anos de exposição). Estes acontecimentos relacionados com o tratamento ou não foram notificados ou foram notificados com uma frequência muito mais baixa para estas doses nos estudos principais de fase 3: diabetes, hiperlipidémia, insónia, hipostesia, alteração do ECG, tosse, dispneia, descoloração cutânea, lesão cutânea, bursite, proteinúria, insuficiência renal, disfunção eréctil, aumento do potássio sanguíneo, aumento da TSH sanguínea, diminuição da contagem de linfócitos, diminuição da contagem de leucócitos.
+ 4.9 Sobredosagem Não foram observados casos de sobredosagem. Os doentes com sobredosagem devem ser tratados através de cuidados sintomáticos e de suporte.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Preparações que inibem a produção de ácido úrico, código ATC: M04AA03
+ Mecanismo de acção O ácido úrico é o produto final do metabolismo das purinas em seres humanos e é gerado na cascata de hipoxantina → xantina → ácido úrico. Ambos os passos das transformações referidas acima são catalizadas pela xantina oxidase (XO). O febuxostate é um derivado do 2-ariltiazol que exerce o seu efeito terapêutico de diminuição do ácido úrico sérico pela inibição selectiva da XO. O febuxostate é um inibidor potente da XO não selectivo para as purinas (NP-SIXO), com um valor Ki de inibição in vitro inferior a um nanomolar. O febuxostate mostrou inibir de forma potente tanto as formas oxidadas como as reduzidas de XO. Em concentrações terapêuticas, o febuxostate não inibe outras enzimas envolvidas no metabolismo das purinas ou das pirimidinas, nomeadamente a guanina desaminase, a hipoxantina guanina fosforibosiltransferase, a orotato fosforibosiltransferase, a orotidina monofosfato descarboxilase ou a purina nucleósido fosforilase.
+ Resultados dos estudos clínicos A eficácia do ADENURIC foi demonstrada em dois estudos principais de fase 3 (estudo APEX e estudo FACT, descritos adiante) que foram realizados em 1832 doentes com hiperuricémia e gota. Em cada um dos estudos principais de fase 3, o ADENURIC mostrou uma capacidade superior para diminuir e manter os níveis séricos de ácido úrico em comparação com alopurinol. O objectivo primário de eficácia em cada estudo foi a proporção de doentes cujos últimos 3 valores mensais dos níveis séricos de ácido úrico eram &lt; 6,0 mg/dl (357 µmol/l). Nestes estudos não foram incluídos doentes com transplante de órgãos (ver secção 4.2).
+ 7 Estudo APEX: Estudo de Eficácia de Febuxostate, Controlado por Placebo e Alopurinol (Allopurinol and Placebo-Controlled Efficacy Study of Febuxostat, APEX) foi um estudo de fase 3, aleatorizado, com dupla ocultação, multicêntrico, com duração de 28 semanas. Foram aleatorizados mil e setenta e dois (1072) doentes: placebo (n= 134), ADENURIC 80 mg qid (n= 267), ADENURIC 120 mg qid (n= 269), ADENURIC 240 mg qid (n= 134) ou alopurinol (300 mg qid[ n= 258] para doentes com um valor basal de creatinina sérica ≤ 1,5 mg/dl ou 100 mg qid[ n= 10] para doentes com um valor basal de creatinina sérica &gt; 1,5 mg/dl e ≤ 2,0 mg/dl). Foi utilizado um valor de duzentos e quarenta mg de febuxostate (o dobro da dose mais elevada recomendada) como dose de avaliação de segurança.
+ O estudo APEX mostrou uma superioridade estatisticamente significativa quer do braço de tratamento com ADENURIC 80 mg qid quer com ADENURIC 120 mg qid versus os braços de tratamento com as doses convencionalmente utilizadas de alopurinol 300 mg (n= 258)/100 mg (n= 10) na redução dos valores séricos de ácido úrico abaixo dos 6 mg/dl (357 µmol/l) (ver Tabela 2 e Figura 1).
+ Estudo FACT: Ensaio com Febuxostate, Controlado por Alopurinol (Febuxostat Allopurinol Controlled Trial, FACT) foi um estudo de fase 3, aleatorizado, com dupla ocultação, multicêntrico, com duração de 52 semanas. Foram aleatorizados setecentos e sessenta (760) doentes: ADENURIC 80 mg qid (n= 256), ADENURIC 120 mg qid (n= 251) ou alopurinol 300 mg qid (n= 253).
+ O estudo FACT mostrou a superioridade estatisticamente significativa quer do braço de tratamento com ADENURIC 80 mg quer com ADENURIC 120 mg qid versus o braço de tratamento com a dose convencionalmente utilizada de alopurinol 300 mg na redução e manutenção dos valores séricos de ácido úrico abaixo de 6 mg/dl (357 µmol/l).
+ A Tabela 2 resume os resultados do parâmetro primário de eficácia:
+ Tabela 2 Proporção de doentes com níveis séricos de ácido úrico &lt; 6,0 mg/dl (357 µmol/l) nas últimas três consultas mensais
+ Alopurinol
+ Estudo ADENURIC ADENURIC 300/ 100 mg qid 1
+ APEX 80 mg qid 48%* 120 mg qid 65%*,# 22% (28
+ semanas) FACT
+ (n= 262) 53%*
+ (n= 269) 62%*
+ (n
+ = 268) 21%
+ (52
+ semanas)
+ (n= 255) 51%*
+ (n= 250) 63%*,#
+ (n
+ = 251)
+ Resultados 22% 1 combinados
+ (n= 517)
+ (n= 519)
+ (n= 519)
+ os resultados dos indivíduos a fazer 100 mg qid (n= 10: doentes com creatinina sérica &gt; 1,5 e ≤ 2,0 mg/dl) ou 300 mg qid (n= 509) foram agrupados para as análises.* p &lt; 0,001 vs alopurinol,# p &lt; 0,001 vs 80 mg
+ A capacidade do ADENURIC para diminuir os níveis séricos de ácido úrico foi rápida e persistente. A redução do nível de ácido úrico para &lt; 6,0 mg/dl (357 µmol/l) foi observada na consulta da Semana 2 e manteve-se ao longo do tratamento. Os níveis séricos médios de ácido úrico ao longo do tempo em cada grupo de tratamento dos estudos principais de fase 3 são apresentados na Figura 1.
+ 8 Figura 1: Níveis séricos médios de ácido úrico em estudos combinados de fase 3
+ 11
+ Nível sérico médio (±SEM) de ácido úrico (mg/dl)
+ 10 Placebo 9 8
+ 7 Alopurinol 6 ADENURIC 80 mg
+ 5
+ 4 ADENURIC 120 mg
+ 3 ADENURIC 240 mg 2
+ BL 2 4 6 8 12 16 20 24 28 32 36 40 44 48 52 Semana
+ BL= nível basal SEM=standard error of the mean Nota: 509 doentes fizeram alopurinol 300 mg qid; 10 doentes com creatinina sérica &gt; 1,5 e &lt; 2,0 mg/dl fizeram a dose de 100 mg qid. (10 dos 268 doentes do estudo APEX). Foram utilizados 240 mg de febuxostate para avaliar a segurança de febuxostate a pelo menos o dobro da dose mais elevada recomendada.
+ Objectivo primário no subgrupo de doentes com disfunção renal O Estudo APEX avaliou a eficácia em 40 doentes com disfunção renal (ou seja, nível basal de creatinina sérica &gt; 1,5 mg/dl e &lt;= 2,0 mg/dl). Para os doentes com disfunção renal que foram aleatorizados para alopurinol, a dose foi limitada a 100 mg qid. O ADENURIC atingiu o objectivo primário de eficácia em 44% (80 mg qid),45% (120 mg qid) e 60% (240 mg qid) dos doentes, em comparação com 0% nos grupos de alopurinol 100 mg qid e de placebo.
+ Não houve diferenças clinicamente significativas na redução percentual da concentração sérica de ácido úrico em indivíduos saudáveis independentemente da respectiva função renal (58% no grupo com função renal normal e 55% no grupo com disfunção renal grave).
+ Objectivo primário no subgrupo de doentes com nível sérico de ácido úrico ≥ 10 mg/dl Cerca de 40% dos doentes (APEX e FACT combinados) tinham um valor basal de ácido úrico sérico ≥ 10 mg/dl. Neste subgrupo, o ADENURIC atingiu o objectivo primário de eficácia em 41% (80 mg qid),48% (120 mg qid) e 66% (240 mg qid) dos doentes, em comparação com 9% no grupo de alopurinol 300 mg/100 mg qid e 0% no grupo de placebo.
+ Resultados clínicos: proporção de doentes que necessitaram de tratamento de um episódio agudo de gota ou alteração de dimensão dos tofos A proporção de indivíduos que necessitaram de tratamento de um episódio agudo de gota (estudos APEX e FACT) foi numericamente inferior nos grupos que atingiram uma média de nível sérico pós-basal de urato &lt; 6,0 mg/dl, &lt; 5,0 mg/dl ou &lt; 4,0 mg/dl em comparação com o grupo que atingiu um nível sérico pós-basal de urato ≥ 6,0 mg/dl durante as últimas 32 semanas do período de tratamento (intervalos da Semana 20 – Semana 24 à Semana 48-52).
+ Dois anos de dados do estudo de extensão aberto de fase 3 mostraram que a manutenção dos níveis séricos de urato &lt; 6 mg/dl (&lt; 357 µmol/l) resultou numa diminuição da incidência de episódios agudos de gota com menos de 3% dos indivíduos a requerer tratamento devido a um episódio agudo (isto é, mais de 97% dos doentes não necessitou de tratamento de um episódio agudo) ao Mês 16-24. Tal
+ 9 esteve associado a uma redução do tamanho do tofo, levando à resolução completa em 54% dos indivíduos ao Mês 24.
+ Durante os estudos clínicos de fase 3, observaram-se anomalias ligeiras nos teste de função hepática em doentes tratados com febuxostate (3,5%). Estas taxas foram semelhantes às notificadas com alopurinol (3,6%) (ver secção 4.4). Observaram-se valores aumentados de TSH (&gt; 5,5 µUI/ml) em doentes a fazer tratamento prolongado com febuxostate (5,0%) e em doentes a fazer alopurinol (5,8%) nos estudos abertos a longo prazo (ver secção 4.4).
+ A exposição total ao ADENURIC em estudos principais de fase 3 e em estudos de extensão de longo prazo é superior a 2700 doentes-anos.
+ 5.2 Propriedades farmacocinéticas Em indivíduos saudáveis, as concentrações plasmáticas máximas (Cmáx) e a área sob a curva da concentração plasmática vs tempo (AUC) do febuxostate aumentaram proporcionalmente à dose após doses únicas e múltiplas de 10 mg a 120 mg. Com doses entre 120 mg e 300 mg, observa-se um aumento mais acentuado na AUC do que o proporcional à dose do febuxostate. Não há uma acumulação apreciável quando se administram doses de 10 mg a 240 mg a cada 24 horas. O febuxostate tem uma semivida de eliminação terminal média aparente (t1/2) de cerca de 5 a 8 horas.
+ Foram realizadas análises de farmacocinética/farmacodinâmica na população em 211 doentes com hiperuricémia e gota, tratados com ADENURIC 40-240 mg qid. Em geral, os parâmetros farmacocinéticos do febuxostate estimados por estas análises são consistentes com os obtidos a partir de indivíduos saudáveis, o que indica que os indivíduos saudáveis são representativos para a avaliação farmacocinética/farmacodinâmica na população de doentes com gota.
+ Absorção O febuxostate é rapidamente (tmáx de 1, 0-1,5 h) e bem (pelo menos 84%) absorvido. Após a administração de doses únicas ou múltiplas de 80 e 120 mg por via oral uma vez ao dia, a Cmáx é de cerca de 2, 8-3,2 µg/ml e de 5, 0-5,3 µg/ml, respectivamente. Não foi estudada a biodisponibilidade absoluta da formulação de febuxostate em comprimidos.
+ Após a administração oral de doses múltiplas de 80 mg uma vez ao dia, ou de uma dose única de 120 mg com uma refeição de teor lipídico elevado, houve uma redução de 49% e 38% da Cmáx e uma redução de 18% e 16% da AUC, respectivamente. Contudo, não se observou uma alteração clinicamente significativa da redução percentual da concentração sérica de ácido úrico, quando analisada (dose múltipla de 80 mg). Por conseguinte, o ADENURIC pode tomar-se independentemente da ingestão de alimentos.
+ Distribuição O volume de distribuição aparente no estado de equilíbrio (Vss/F) do febuxostate varia entre 29 a 75 l após administração oral de doses de 10-300 mg. A ligação do febuxostate às proteínas plasmáticas é de cerca de 99,2% (sobretudo à albumina) e é constante ao longo do intervalo de concentrações atingido com as doses de 80 e 120 mg. A ligação dos metabolitos activos às proteínas plasmáticas varia de cerca de 82% a 91%.
+ Metabolismo O febuxostate é extensivamente metabolizado por conjugação através do sistema enzimático da uridina difosfato glucuronosiltransferase (UDPGT) e oxidação pelo sistema do citocromo P450 (CYP). Foram identificados quatro metabolitos hidroxilo farmacologicamente activos, dos quais três surgem no plasma humano. Os estudos in vitro com microssomas hepáticos humanos mostraram que estes metabolitos oxidativos são formados sobretudo através do CYP1A1, CYP1A2, CYP2C8 ou CYP2C9 e que o glucuronido de febuxostate é formado sobretudo através do UGT 1A1, 1A8 e 1A9.
+ 10 Eliminação O febuxostate é eliminado pelas vias hepática e renal. Após a administração oral de uma dose de 80 mg de febuxostate marcado com 14C, cerca de 49% da dose foi recuperada na urina sob a forma de febuxostate inalterado (3%), acil glucoronido da substância activa (30%), metabolitos oxidativos conhecidos e respectivos conjugados (13%) e outros metabolitos desconhecidos (3%). Adicionalmente à excreção urinária, cerca de 45% da dose foi recuperada nas fezes sob a forma de febuxostate inalterado (12%), acil glucoronido da substância activa (1%), metabolitos oxidativos conhecidos e respectivos conjugados (25%) e outros metabolitos desconhecidos (7%).
+ Populações especiais Insuficiência renal Após a administração de doses múltiplas de 80 mg de ADENURIC a doentes com insuficiência renal ligeira, moderada ou grave, a Cmáx do febuxostate não se alterou relativamente a indivíduos com função renal normal. A AUC total média do febuxostate aumentou cerca de 1,8 vezes, de 7,5 μg⋅h/ml no grupo com função renal normal até 13,2 μg⋅h/ml no grupo com disfunção renal grave. A Cmáx e a AUC dos metabolitos activos aumentou até 2 e 4 vezes, respectivamente. Contudo, não é necessário um ajuste de dose em doentes com disfunção renal ligeira ou moderada.
+ Disfunção hepática Após a administração de doses múltiplas de 80 mg de ADENURIC a doentes com disfunção hepática ligeira (Classe A de Child-Pugh) ou moderada (Classe B de Child-Pugh), a Cmáx e a AUC do febuxostate e respectivos metabolitos não se alterou de forma significativa em comparação com indivíduos com função hepática normal. Não foram realizados estudos em doentes com disfunção hepática grave (Classe C de Child-Pugh).
+ Idade Não se observaram alterações significativas da AUC do febuxostate ou dos respectivos metabolitos após a administração de doses múltiplas de ADENURIC por via oral em idosos, em comparação com indivíduos saudáveis mais jovens.
+ Sexo Após a administração oral de doses múltiplas de ADENURIC, a Cmáx e a AUC foram, respectivamente,24% e 12% mais elevadas nas mulheres do que nos homens. Contudo, os valores da Cmáx e da AUC corrigidos para o peso foram semelhantes entre ambos os sexos. Não é necessário um ajuste de dose com base no sexo.
+ 5.3 Dados de segurança pré-clínica De uma forma geral foram observados efeitos em estudos não clínicos a partir de níveis de exposição excessivos em relação ao nível máximo de exposição humana.
+ Carcinogénese, mutagénese, diminuição da fertilidade Em ratos macho, apenas se encontrou um aumento estatisticamente significativo dos tumores da bexiga (papiloma e carcinoma de células transicionais) em associação com cálculos de xantina no grupo de dose elevada, a cerca de 11 vezes a exposição humana. Não houve aumento significativo em qualquer outro tipo de tumor, quer nos machos quer nas fêmeas de ratinhos ou ratos. Estes achados são considerados como sendo uma consequência do metabolismo das purinas e da composição da urina específicos da espécie, sem relevância para o uso clínico.
+ Uma bateria padronizada de testes de genotoxicidade não revelou quaisquer efeitos genotóxicos biologicamente pertinentes do febuxostate.
+ Doses orais de até 48 mg/kg/dia de febuxostate mostraram não afectar a fertilidade nem o desempenho reprodutivo de ratos macho e fêmea.
+ Não houve evidência de diminuição da fertilidade, efeitos teratogénicos ou danos para o feto devido ao febuxostate. Houve toxicidade materna com doses elevadas, acompanhada por uma redução no índice
+ 11 de desmame e desenvolvimento reduzido na descendência em ratos a cerca de 4,3 vezes a exposição humana. Os estudos teratológicos, efectuados em ratas grávidas a cerca de 4,3 vezes e em coelhas prenhes a cerca de 13 vezes a exposição humana não revelaram quaisquer efeitos teratogénicos.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Núcleo do comprimido Lactose mono-hidratada Celulose microcristalina Estearato de magnésio Hidroxipropilcelulose Croscarmelose sódica Sílica coloidal hidratada
+ Revestimento dos comprimidos Opadry II, Amarelo, 85F42129 contendo: Álcool polivinílico Dióxido de titânio (E171) Macrogol 3350 Talco Óxido de ferro amarelo (E172)
+ 6.2 Incompatibilidades Não aplicável. 6.3 Prazo de validade 3 anos 6.4 Precauções especiais de conservação
+ O medicamento não necessita de quaisquer precauções especiais de conservação.
+ 6.5 Natureza e conteúdo do recipiente Blister transparente (Aclar/PVC/Alumínio) de 14 comprimidos.
+ O ADENURIC 80 mg encontra-se disponível nas apresentações de 28 e 84 comprimidos revestidos por película.
+ É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais de eliminação Não existem requisitos especiais. 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Beaufour Ipsen Pharma 24 rue Erlanger 75781 Paris Cedex 16 France
+ 12 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/08/447/001 EU/1/08/447/002 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 21/04/2008 10. DATA DA REVISÃO DO TEXTO Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu/.
+ 13 1. NOME DO MEDICAMENTO
+ ADENURIC 120 mg comprimidos revestidos por película
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada comprimido contém 120 mg de febuxostate.
+ Excipientes: Cada comprimido contém 114,75 mg de lactose mono-hidratada.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Comprimido revestido por película. Comprimidos de cor amarelo-pálida a amarela, revestidos por película, em forma de cápsula, com a gravação “ 120 ” num dos lados.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Tratamento de hiperuricémia crónica em quadros clínicos nos quais já tenha ocorrido deposição de urato (incluindo história, ou presença de, tofo e/ou artrite gotosa).
+ 4.2 Posologia e modo de administração A dose oral recomendada de ADENURIC é de 80 mg uma vez ao dia, independentemente da ingestão de alimentos. Caso o nível de ácido úrico sérico seja &gt; 6 mg/dl (357 µmol/l) após 2-4 semanas, pode considerar-se a administração de ADENURIC 120 mg uma vez ao dia.
+ ADENURIC actua de forma suficientemente rápida para permitir a reavaliação do ácido úrico sérico após 2 semanas. O objectivo terapêutico consiste em diminuir e manter o nível sérico de ácido úrico abaixo de 6 mg/dl (357 µmol/l).
+ Recomenda-se a profilaxia de episódios agudos de gota durante pelo menos 6 meses (ver secção 4.4).
+ Populações especiais Insuficiência renal Não é necessário um ajuste de dose em doentes com disfunção renal ligeira ou moderada. A eficácia e segurança não foram completamente avaliadas em doentes com disfunção renal grave (depuração da creatinina &lt; 30 ml/min, ver secção 5.2).
+ Disfunção hepática A dose recomendada em doentes com disfunção hepática ligeira é de 80 mg. A informação disponível de doentes com disfunção hepática moderada é limitada. A eficácia e segurança do febuxostate não foram estudadas em doentes com disfunção hepática grave (Classe C de Child Pugh).
+ Idosos Não é necessário ajuste de dose em idosos (ver secção 5.2).
+ 14 Crianças e adolescentes Dado não haver experiência em crianças e adolescentes, não se recomenda o uso de febuxostate neste grupo de doentes.
+ Receptores de transplante de órgãos Dado não haver experiência em receptores de transplante de órgãos, não se recomenda o uso de febuxostate neste grupo de doentes (ver secção 5.1).
+ 4.3 Contra-indicações Hipersensibilidade à substância activa ou a qualquer um dos excipientes (ver secção 4.8).
+ 4.4 Advertências e precauções especiais de utilização
+ Afecções cardiovasculares Não se recomenda o tratamento com febuxostate em doentes com doença cardíaca isquémica ou insuficiência cardíaca congestiva (ver secção 4.8).
+ Ataques agudos de gota (episódios agudos de gota) Não deve iniciar-se o tratamento com febuxostate até que o ataque agudo de gota tenha passado completamente. Tal como acontece com outros medicamentos que reduzem o urato, podem ocorrer episódios agudos de gota durante o início do tratamento devido à alteração nos níveis séricos de ácido úrico resultantes da mobilização de urato a partir dos depósitos nos tecidos. No início do tratamento com febuxostate, recomenda-se a profilaxia de episódios agudos durante pelo menos 6 meses com um AINE ou colquicina. Caso ocorra um episódio agudo de gota durante o tratamento com febuxostate, este não deve suspender-se. O episódio agudo de gota deve tratar-se em simultâneo, conforme o apropriado para cada doente em particular. O tratamento continuado com febuxostate diminui a frequência e a intensidade dos episódios agudos de gota.
+ Deposição de xantina Tal como acontece com outros medicamentos que reduzem o urato, em doentes nos quais a taxa de formação de urato aumente grandemente (por ex. doença neoplásica e respectivo tratamento, síndrome de Lesch-Nyhan), a concentração absoluta de xantina na urina pode, em casos raros, aumentar o suficiente para permitir a deposição no tracto urinário. Dado não haver experiência com febuxostate, não se recomenda o respectivo uso nestas populações.
+ Mercaptopurina/azatioprina Não se recomenda o uso de febuxostate em doentes tratados em simultâneo com mercaptopurina/azatioprina (ver secção 4.5).
+ Teofilina O febuxostate deve ser utilizado com cautela em doentes tratados em simultâneo com teofilina e devem vigiar-se os níveis de teofilina nos doentes que estejam a iniciar a terapêutica com febuxostate (ver secção 4.5).
+ Afecções hepáticas Durante os estudos clínicos de fase 3, observaram-se anomalias ligeiras nos testes de função hepática em doentes tratados com febuxostate (3,5%). Recomendam-se testes de função hepática antes do início da terapêutica com febuxostate e periodicamente daí em diante, com base no parecer clínico (ver secção 5.1).
+ Disfunções da tiróide Observaram-se valores aumentados de TSH (&gt; 5,5 µUI/ml) em doentes a fazer tratamento prolongado com febuxostate (5,0%) em estudos de extensão abertos de longo prazo. É necessária cautela ao utilizar febuxostate em doentes com alteração da função tiroideia (ver secção 5.1).
+ 15 Lactose Os comprimidos de febuxostate contêm lactose. Os doentes com problemas hereditários raros de intolerância à lactose, deficiência Lapp-lactase ou má absorção de glicose-galactose não devem tomar este medicamento.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Mercaptopurina/azatioprina Ainda que não tenham sido efectuados estudos de interacção com febuxostate, sabe-se que a inibição da xantina oxidase (XO) aumenta os níveis de mercaptopurina ou azatioprina. Com base no mecanismo de acção de febuxostate sobre a inibição da XO, não se recomenda o seu uso concomitante.
+ Não foram efectuados estudos de interacção medicamentosa do febuxostate com quimioterapia citotóxica. Não estão disponíveis dados relativos à segurança do febuxostate durante a terapêutica citotóxica.
+ Teofilina Ainda que não tenham sido efectuados estudos de interacção com febuxostate, a inibição da XO pode causar um aumento no nível de teofilina (foi notificada inibição do metabolismo de teofilina com outros inibidores da XO). Daí que seja aconselhada cautela caso estas substâncias activas sejam administradas em simultâneo, devendo ser vigiados os níveis de teofilina em doentes que iniciem terapêutica com febuxostate.
+ Naproxeno e outros inibidores da glucuronidação O metabolismo de febuxostate depende das enzimas UGT (UDP-glucuronosil transferases). Os medicamentos que inibem a glucuronidação, tais como os AINEs e probenecide, podem, em teoria, afectar a eliminação do febuxostate. Em indivíduos saudáveis, o uso concomitante de febuxostate e naproxeno 250mg 2xdia (bid) foi associado a um aumento na exposição ao febuxostate (Cmáx 28%, AUC 41% e t1/2 26%). Em estudos clínicos, o uso de naproxeno ou outros AINEs/inibidores da Cox-2 não foi relacionado com qualquer aumento significativo de acontecimentos adversos.
+ O febuxostate pode ser administrado concomitantemente com naproxeno sem que seja necessário qualquer ajuste do febuxostate ou do naproxeno.
+ Indutores da glucuronidação Os indutores potentes de enzimas UGT podem originar um aumento do metabolismo e diminuição da eficácia do febuxostate. Por conseguinte, recomenda-se a vigilância do ácido úrico sérico 1-2 semanas após início de tratamento com um indutor potente da glucuronidação. Inversamente, a interrupção do tratamento com um indutor poderá originar aumento dos níveis plasmáticos de febuxostate.
+ Colquicina/indometacina/hidroclorotiazida/varfarina O febuxostate pode ser co-administrado com colquicina ou indometacina sem que seja necessário qualquer ajuste do febuxostate ou da substância activa administrada concomitantemente.
+ Não é necessário ajuste da dose do febuxostate quando administrado com hidroclorotiazida.
+ Não é necessário ajuste da dose da varfarina quando administrada com febuxostate. Após início da terapêutica com febuxostate, deve considerar-se a vigilância da actividade anticoagulante nos doentes que estejam a fazer varfarina ou agentes semelhantes.
+ Desipramina/substratos da CYP2D6 O febuxostate mostrou ser um inibidor fraco de CYP2D6 in vitro. Num estudo com indivíduos saudáveis,120 mg de ADENURIC 1xdia (qid) originou num aumento médio de 22% da AUC da desipramina, um substrato da CYP2D6, o que indica um potencial efeito inibitório fraco do febuxostate sobre a enzima CYP2D6 in vivo. Portanto, não é de esperar que a co-administração de febuxostate com outros substratos da CYP2D6 exija qualquer ajuste da dose destes compostos.
+ 16 Antiácidos A ingestão concomitante de um antiácido que contenha hidróxido de magnésio e hidróxido de alumínio mostrou retardar a absorção do febuxostate (cerca de 1 hora) e causar uma diminuição de 32% na Cmáx, embora não se tenha observado uma alteração significativa na AUC. Por conseguinte, o febuxostate pode tomar-se independentemente do uso de antiácidos.
+ 4.6 Gravidez e aleitamento Gravidez Os dados relativos a um número muito limitado de gravidezes expostas não indicaram quaisquer efeitos adversos do febuxostate sobre a gravidez ou sobre a saúde do feto/recém-nascido. Os estudos em animais não indicaram efeitos nocivos directos ou indirectos no que respeita à gravidez, desenvolvimento embrionário/fetal ou parto (ver secção 5.3). Desconhece-se o risco potencial para o ser humano. O febuxostate não deve utilizar-se durante a gravidez.
+ Aleitamento Desconhece-se se o febuxostate é excretado no leite materno em seres humanos. Os estudos em animais mostraram a excreção desta substância activa no leite materno e uma anomalia do desenvolvimento nas crias em amamentação. Não pode excluir-se um risco para o bebé em aleitamento. O febuxostate não deve utilizar-se durante a amamentação.
+ 4.7 Efeito sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas. Tal como acontece com outros inibidores da xantina oxidase, foram notificadas reacções adversas como sonolência, tonturas e parestesia. Os doentes devem ter cautela antes de conduzirem, utilizarem máquinas ou participarem em actividades perigosas até estarem razoavelmente seguros de que o ADENURIC não afecta adversamente o seu desempenho.
+ 4.8 Efeitos indesejáveis Um total de 2531 indivíduos receberam pelo menos uma dose de ADENURIC (10 mg – 300 mg) em estudos clínicos.
+ Estudos de fase 3 controlados e aleatorizados Em estudos clínicos de fase 3 controlados e aleatorizados, &gt; 1000 doentes foram tratados com as doses recomendadas de 80 mg ou 120 mg (536 indivíduos envolvidos num estudo de 28 semanas e 507 num estudo de 52 semanas). Os acontecimentos relacionados com o tratamento (reacções adversas medicamentosas, RAMs) foram sobretudo de gravidade ligeira ou moderada.
+ As RAMs notificadas com maior frequência (avaliação do investigador) são alterações da função hepática (3,5%), diarreia (2,7%), cefaleia (1,8%), náuseas (1,7%) e exantema (1,5%).
+ Foi observada uma incidência numericamente superior de acontecimentos cardiovasculares notificados pelo investigador no grupo total de febuxostate comparativamente com o grupo alopurinol na Fase III principal[ 1,3 vs 0,3 acontecimentos por 100 PYs (doentes-ano)] e nos estudos de extensão de longo prazo (1,4 vs 0,7 acontecimentos por 100 PYs), embora não tenham sido detectadas diferenças estatisticamente significativas nem tenha sido estabelecida uma relação causal com o febuxostate. Os factores de risco identificados nestes doentes foram um historial médico de doença ateroesclerótica e/ou enfarte do miocárdio ou de insuficiência cardíaca congestiva.
+ As reacções adversas frequentes (≥ 1/100 a &lt; 1/10), pouco frequentes (≥ 1/1000 a &lt; 1/100) e raras (≥ 1/10.000 a &lt; 1/1000), suspeitas (avaliação do investigador) de estarem relacionadas com o medicamento constatadas nos grupos de tratamento de 80 mg/120 mg e notificadas mais do que uma vez no grupo total de tratamento com febuxostate encontram-se listadas a seguir.
+ 17 Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ Tabela 1: Reacções adversas relacionadas com o tratamento em estudos de fase 3 controlados e aleatorizados Exames complementares de diagnóstico Cardiopatias
+ Pouco frequentes Aumento da amilase sanguínea, diminuição da contagem de plaquetas, aumento da creatinina sérica, diminuição da hemoglobina, aumento da ureia sérica, aumento da LDH, aumento dos triglicéridos Raras Palpitações
+ Doenças do sistema nervoso Frequentes Cefaleia Pouco frequentes Tonturas, parestesia, sonolência, alterações do paladar
+ Doenças gastrointestinais Frequentes Diarreia*, náuseas* Pouco frequentes: Dor abdominal, doença de refluxo gastro-esofágico, vómitos*, boca seca, dispepsia, obstipação, evacuação frequente, flatulência, desconforto gastrointestinal
+ Doenças renais e urinárias Pouco frequentes Nefrolitíase, hematúria, polaquiúria Raras Insuficiência renal
+ Afecções dos tecidos cutâneos e subcutâneas
+ Frequentes Exantema ** Pouco frequentes Dermatite, urticária, prurido
+ Afecções musculosqueléticas e dos tecidos conjuntivos
+ Pouco frequentes Artralgia, artrite, mialgia, cãibras musculares, dor musculosquelética
+ Doenças do metabolismo e da nutrição Vasculopatias
+ Pouco frequentes Aumento de peso, aumento do apetite Pouco frequentes Hipertensão, rubores, afrontamentos
+ Perturbações de ordem geral e alterações no local de administração
+ Pouco frequentes Fadiga, edema, sintomas do tipo gripal Raras Astenia, sede
+ Afecções hepatobiliares Frequentes Anomalias nos testes de função hepática
+ Perturbações do foro psiquiátrico Pouco frequentes Diminuição da líbido Raras Nervosismo, insónia
+ 18* Diarreia, náuseas e vómitos são mais frequentes em doentes tratados em simultâneo com colquicina. ** Não foram notados exantemas graves nem reacções graves de hipersensibilidade nos estudos clínicos.
+ Estudos de extensão abertos de longo prazo Nos estudos de extensão abertos de longo prazo, o número de doentes tratados com febuxostate 80 mg/120 mg até 1 ano foi de 906, até 2 anos foi de 322, até 3 anos foi de 57 e até 4 anos foi de 53. Os acontecimentos relacionados com o tratamento notificados durante os estudos de extensão de longo prazo foram semelhantes aos notificados nos estudos de fase 3 (ver Tabela 1). Os acontecimentos relacionados com o tratamento notificados com maior frequência (avaliação do investigador) são: alterações da função hepática, diarreia, cefaleia, exantema e hipertensão.
+ Os seguintes acontecimentos relacionados com o tratamento foram notificados mais do que uma vez no grupo total de tratamento com febuxostate e foram notificados como sendo pouco frequentes nos indivíduos a tomar febuxostate 80 mg/120 mg nos estudos de extensão de longo prazo (até 4 anos, &gt; 1.900 doentes-anos de exposição). Estes acontecimentos relacionados com o tratamento ou não foram notificados ou foram notificados com uma frequência muito mais baixa para estas doses nos estudos principais de fase 3: diabetes, hiperlipidémia, insónia, hipostesia, alteração do ECG, tosse, dispneia, descoloração cutânea, lesão cutânea, bursite, proteinúria, insuficiência renal, disfunção eréctil, aumento do potássio sanguíneo, aumento da TSH sanguínea, diminuição da contagem de linfócitos, diminuição da contagem de leucócitos.
+ 4.9 Sobredosagem Não foram observados casos de sobredosagem. Os doentes com sobredosagem devem ser tratados através de cuidados sintomáticos e de suporte.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Preparações que inibem a produção de ácido úrico, código ATC: M04AA03
+ Mecanismo de acção O ácido úrico é o produto final do metabolismo das purinas em seres humanos e é gerado na cascata de hipoxantina → xantina → ácido úrico. Ambos os passos das transformações referidas acima são catalizadas pela xantina oxidase (XO). O febuxostate é um derivado do 2-ariltiazol que exerce o seu efeito terapêutico de diminuição do ácido úrico sérico pela inibição selectiva da XO. O febuxostate é um inibidor potente da XO não selectivo para as purinas (NP-SIXO), com um valor Ki de inibição in vitro inferior a um nanomolar. O febuxostate mostrou inibir de forma potente tanto as formas oxidadas como as reduzidas de XO. Em concentrações terapêuticas, o febuxostate não inibe outras enzimas envolvidas no metabolismo das purinas ou das pirimidinas, nomeadamente a guanina desaminase, a hipoxantina guanina fosforibosiltransferase, a orotato fosforibosiltransferase, a orotidina monofosfato descarboxilase ou a purina nucleósido fosforilase.
+ Resultados dos estudos clínicos A eficácia do ADENURIC foi demonstrada em dois estudos principais de fase 3 (estudo APEX e estudo FACT, descritos adiante) que foram realizados em 1832 doentes com hiperuricémia e gota. Em cada um dos estudos principais de fase 3, o ADENURIC mostrou uma capacidade superior para diminuir e manter os níveis séricos de ácido úrico em comparação com alopurinol. O objectivo primário de eficácia em cada estudo foi a proporção de doentes cujos últimos 3 valores mensais dos níveis séricos de ácido úrico eram &lt; 6,0 mg/dl (357 µmol/l). Nestes estudos não foram incluídos doentes com transplante de órgãos (ver secção 4.2).
+ 19 Estudo APEX: Estudo de Eficácia de Febuxostate, Controlado por Placebo e Alopurinol (Allopurinol and Placebo-Controlled Efficacy Study of Febuxostat, APEX) foi um estudo de fase 3, aleatorizado, com dupla ocultação, multicêntrico, com duração de 28 semanas. Foram aleatorizados mil e setenta e dois (1072) doentes: placebo (n= 134), ADENURIC 80 mg qid (n= 267), ADENURIC 120 mg qid (n= 269), ADENURIC 240 mg qid (n= 134) ou alopurinol (300 mg qid[ n= 258] para doentes com um valor basal de creatinina sérica ≤ 1,5 mg/dl ou 100 mg qid[ n= 10] para doentes com um valor basal de creatinina sérica &gt; 1,5 mg/dl e ≤ 2,0 mg/dl). Foi utilizado um valor de duzentos e quarenta mg de febuxostate (o dobro da dose mais elevada recomendada) como dose de avaliação de segurança.
+ O estudo APEX mostrou uma superioridade estatisticamente significativa quer do braço de tratamento com ADENURIC 80 mg qid quer com ADENURIC 120 mg qid versus os braços de tratamento com as doses convencionalmente utilizadas de alopurinol 300 mg (n= 258)/100 mg (n= 10) na redução dos valores séricos de ácido úrico abaixo dos 6 mg/dl (357 µmol/l) (ver Tabela 2 e Figura 1).
+ Estudo FACT: Ensaio com Febuxostate, Controlado por Alopurinol (Febuxostat Allopurinol Controlled Trial, FACT) foi um estudo de fase 3, aleatorizado, com dupla ocultação, multicêntrico, com duração de 52 semanas. Foram aleatorizados setecentos e sessenta (760) doentes: ADENURIC 80 mg qid (n= 256), ADENURIC 120 mg qid (n= 251) ou alopurinol 300 mg qid (n= 253).
+ O estudo FACT mostrou a superioridade estatisticamente significativa quer do braço de tratamento com ADENURIC 80 mg quer com ADENURIC 120 mg qid versus o braço de tratamento com a dose convencionalmente utilizada de alopurinol 300 mg na redução e manutenção dos valores séricos de ácido úrico abaixo de 6 mg/dl (357 µmol/l).
+ A Tabela 2 resume os resultados do parâmetro primário de eficácia:
+ Tabela 2 Proporção de doentes com níveis séricos de ácido úrico &lt; 6,0 mg/dl (357 µmol/l) nas últimas três consultas mensais
+ Alopurinol
+ Estudo ADENURIC ADENURIC 80 mg qid 120 mg qid 48%* 65%*,#
+ 100 300/mg qid 1 APEX 22% (28
+ semanas) FACT
+ (n= 262) 53%*
+ (n= 269) 62%*
+ (n= 268) 21%
+ (52
+ semanas)
+ (n= 255) 51%*
+ (n= 250) 63%*,#
+ (n= 251)
+ Resultados 22% 1 combinados
+ (n= 517)
+ (n= 519)
+ (n= 519)
+ os resultados dos indivíduos a fazer 100 mg qid (n= 10: doentes com creatinina sérica &gt; 1,5 e ≤ 2,0 mg/dl) ou 300 mg qid (n= 509) foram agrupados para as análises.* p &lt; 0,001 vs alopurinol,# p &lt; 0,001 vs 80 mg
+ A capacidade do ADENURIC para diminuir os níveis séricos de ácido úrico foi rápida e persistente. A redução do nível de ácido úrico para &lt; 6,0 mg/dl (357 µmol/l) foi observada na consulta da Semana 2 e manteve-se ao longo do tratamento. Os níveis séricos médios de ácido úrico ao longo do tempo em cada grupo de tratamento dos estudos principais de fase 3 são apresentados na Figura 1.
+ 20 Figura 1: Níveis séricos médios de ácido úrico em estudos combinados de fase 3
+ 11
+ Nível sérico médio (±SEM) de ácido úrico (mg/dl)
+ 10 Placebo 9 8
+ 7 Alopurinol 6 ADENURIC 80 mg
+ 5
+ 4 ADENURIC 120 mg
+ 3 ADENURIC 240 mg 2
+ BL 2 4 6 8 12 16 20 24 28 32 36 40 44 48 52 Semana
+ BL= nível basal SEM=standard error of the mean Nota: 509 doentes fizeram alopurinol 300 mg qid; 10 doentes com creatinina sérica &gt; 1,5 e &lt; 2,0 mg/dl fizeram a dose de 100 mg qid. (10 dos 268 doentes do estudo APEX). Foram utilizados 240 mg de febuxostate para avaliar a segurança de febuxostate a pelo menos o dobro da dose mais elevada recomendada.
+ Objectivo primário no subgrupo de doentes com disfunção renal O Estudo APEX avaliou a eficácia em 40 doentes com disfunção renal (ou seja, nível basal de creatinina sérica &gt; 1,5 mg/dl e &lt;= 2,0 mg/dl). Para os doentes com disfunção renal que foram aleatorizados para alopurinol, a dose foi limitada a 100 mg qid. O ADENURIC atingiu o objectivo primário de eficácia em 44% (80 mg qid),45% (120 mg qid) e 60% (240 mg qid) dos doentes, em comparação com 0% nos grupos de alopurinol 100 mg qid e de placebo.
+ Não houve diferenças clinicamente significativas na redução percentual da concentração sérica de ácido úrico em indivíduos saudáveis independentemente da respectiva função renal (58% no grupo com função renal normal e 55% no grupo com disfunção renal grave).
+ Objectivo primário no subgrupo de doentes com nível sérico de ácido úrico ≥ 10 mg/dl Cerca de 40% dos doentes (APEX e FACT combinados) tinham um valor basal de ácido úrico sérico ≥ 10 mg/dl. Neste subgrupo, o ADENURIC atingiu o objectivo primário de eficácia em 41% (80 mg qid),48% (120 mg qid) e 66% (240 mg qid) dos doentes, em comparação com 9% no grupo de alopurinol 300 mg/100 mg qid e 0% no grupo de placebo.
+ Resultados clínicos: proporção de doentes que necessitaram de tratamento de um episódio agudo de gota ou alteração de dimensão dos tofos A proporção de indivíduos que necessitaram de tratamento de um episódio agudo de gota (estudos APEX e FACT) foi numericamente inferior nos grupos que atingiram uma média de nível sérico pós-basal de urato &lt; 6,0 mg/dl, &lt; 5,0 mg/dl ou &lt; 4,0 mg/dl em comparação com o grupo que atingiu um nível sérico pós-basal de urato ≥ 6,0 mg/dl durante as últimas 32 semanas do período de tratamento (intervalos da Semana 20 – Semana 24 à Semana 48-52).
+ Dois anos de dados do estudo de extensão aberto de fase 3 mostraram que a manutenção dos níveis séricos de urato &lt; 6 mg/dl (&lt; 357 µmol/l) resultou numa diminuição da incidência de episódios agudos de gota com menos de 3% dos indivíduos a requerer tratamento devido a um episódio agudo (isto é, mais de 97% dos doentes não necessitou de tratamento de um episódio agudo) ao Mês 16-24. Tal
+ 21 esteve associado a uma redução do tamanho do tofo, levando à resolução completa em 54% dos indivíduos ao Mês 24.
+ Durante os estudos clínicos de fase 3, observaram-se anomalias ligeiras nos teste de função hepática em doentes tratados com febuxostate (3,5%). Estas taxas foram semelhantes às notificadas com alopurinol (3,6%) (ver secção 4.4). Observaram-se valores aumentados de TSH (&gt; 5,5 µUI/ml) em doentes a fazer tratamento prolongado com febuxostate (5,0%) e em doentes a fazer alopurinol (5,8%) nos estudos abertos a longo prazo (ver secção 4.4).
+ A exposição total ao ADENURIC em estudos principais de fase 3 e em estudos de extensão de longo prazo é superior a 2700 doentes-anos.
+ 5.2 Propriedades farmacocinéticas Em indivíduos saudáveis, as concentrações plasmáticas máximas (Cmáx) e a área sob a curva da concentração plasmática vs tempo (AUC) do febuxostate aumentaram proporcionalmente à dose após doses únicas e múltiplas de 10 mg a 120 mg. Com doses entre 120 mg e 300 mg, observa-se um aumento mais acentuado na AUC do que o proporcional à dose do febuxostate. Não há uma acumulação apreciável quando se administram doses de 10 mg a 240 mg a cada 24 horas. O febuxostate tem uma semivida de eliminação terminal média aparente (t1/2) de cerca de 5 a 8 horas.
+ Foram realizadas análises de farmacocinética/farmacodinâmica na população em 211 doentes com hiperuricémia e gota, tratados com ADENURIC 40-240 mg qid. Em geral, os parâmetros farmacocinéticos do febuxostate estimados por estas análises são consistentes com os obtidos a partir de indivíduos saudáveis, o que indica que os indivíduos saudáveis são representativos para a avaliação farmacocinética/farmacodinâmica na população de doentes com gota.
+ Absorção O febuxostate é rapidamente (tmáx de 1, 0-1,5 h) e bem (pelo menos 84%) absorvido. Após a administração de doses únicas ou múltiplas de 80 e 120 mg por via oral uma vez ao dia, a Cmáx é de cerca de 2, 8-3,2 µg/ml e de 5, 0-5,3 µg/ml, respectivamente. Não foi estudada a biodisponibilidade absoluta da formulação de febuxostate em comprimidos.
+ Após a administração oral de doses múltiplas de 80 mg uma vez ao dia, ou de uma dose única de 120 mg com uma refeição de teor lipídico elevado, houve uma redução de 49% e 38% da Cmáx e uma redução de 18% e 16% da AUC, respectivamente. Contudo, não se observou uma alteração clinicamente significativa da redução percentual da concentração sérica de ácido úrico, quando analisada (dose múltipla de 80 mg). Por conseguinte, o ADENURIC pode tomar-se independentemente da ingestão de alimentos.
+ Distribuição O volume de distribuição aparente no estado de equilíbrio (Vss/F) do febuxostate varia entre 29 a 75 l após administração oral de doses de 10-300 mg. A ligação do febuxostate às proteínas plasmáticas é de cerca de 99,2% (sobretudo à albumina) e é constante ao longo do intervalo de concentrações atingido com as doses de 80 e 120 mg. A ligação dos metabolitos activos às proteínas plasmáticas varia de cerca de 82% a 91%.
+ Metabolismo O febuxostate é extensivamente metabolizado por conjugação através do sistema enzimático da uridina difosfato glucuronosiltransferase (UDPGT) e oxidação pelo sistema do citocromo P450 (CYP). Foram identificados quatro metabolitos hidroxilo farmacologicamente activos, dos quais três surgem no plasma humano. Os estudos in vitro com microssomas hepáticos humanos mostraram que estes metabolitos oxidativos são formados sobretudo através do CYP1A1, CYP1A2, CYP2C8 ou CYP2C9 e que o glucuronido de febuxostate é formado sobretudo através do UGT 1A1, 1A8 e 1A9.
+ 22 Eliminação O febuxostate é eliminado pelas vias hepática e renal. Após a administração oral de uma dose de 80 mg de febuxostate marcado com 14C, cerca de 49% da dose foi recuperada na urina sob a forma de febuxostate inalterado (3%), acil glucoronido da substância activa (30%), metabolitos oxidativos conhecidos e respectivos conjugados (13%) e outros metabolitos desconhecidos (3%). Adicionalmente à excreção urinária, cerca de 45% da dose foi recuperada nas fezes sob a forma de febuxostate inalterado (12%), acil glucoronido da substância activa (1%), metabolitos oxidativos conhecidos e respectivos conjugados (25%) e outros metabolitos desconhecidos (7%).
+ Populações especiais Insuficiência renal Após a administração de doses múltiplas de 80 mg de ADENURIC a doentes com insuficiência renal ligeira, moderada ou grave, a Cmáx do febuxostate não se alterou relativamente a indivíduos com função renal normal. A AUC total média do febuxostate aumentou cerca de 1,8 vezes, de 7,5 μg⋅h/ml no grupo com função renal normal até 13,2 μg⋅h/ml no grupo com disfunção renal grave. A Cmáx e a AUC dos metabolitos activos aumentou até 2 e 4 vezes, respectivamente. Contudo, não é necessário um ajuste de dose em doentes com disfunção renal ligeira ou moderada.
+ Disfunção hepática Após a administração de doses múltiplas de 80 mg de ADENURIC a doentes com disfunção hepática ligeira (Classe A de Child-Pugh) ou moderada (Classe B de Child-Pugh), a Cmáx e a AUC do febuxostate e respectivos metabolitos não se alterou de forma significativa em comparação com indivíduos com função hepática normal. Não foram realizados estudos em doentes com disfunção hepática grave (Classe C de Child-Pugh).
+ Idade Não se observaram alterações significativas da AUC do febuxostate ou dos respectivos metabolitos após a administração de doses múltiplas de ADENURIC por via oral em idosos, em comparação com indivíduos saudáveis mais jovens.
+ Sexo Após a administração oral de doses múltiplas de ADENURIC, a Cmáx e a AUC foram, respectivamente,24% e 12% mais elevadas nas mulheres do que nos homens. Contudo, os valores da Cmáx e da AUC corrigidos para o peso foram semelhantes entre ambos os sexos. Não é necessário um ajuste de dose com base no sexo.
+ 5.3 Dados de segurança pré-clínica De uma forma geral foram observados efeitos em estudos não clínicos a partir de níveis de exposição excessivos em relação ao nível máximo de exposição humana.
+ Carcinogénese, mutagénese, diminuição da fertilidade Em ratos macho, apenas se encontrou um aumento estatisticamente significativo dos tumores da bexiga (papiloma e carcinoma de células transicionais) em associação com cálculos de xantina no grupo de dose elevada, a cerca de 11 vezes a exposição humana. Não houve aumento significativo em qualquer outro tipo de tumor, quer nos machos quer nas fêmeas de ratinhos ou ratos. Estes achados são considerados como sendo uma consequência do metabolismo das purinas e da composição da urina específicos da espécie, sem relevância para o uso clínico.
+ Uma bateria padronizada de testes de genotoxicidade não revelou quaisquer efeitos genotóxicos biologicamente pertinentes do febuxostate.
+ Doses orais de até 48 mg/kg/dia de febuxostate mostraram não afectar a fertilidade nem o desempenho reprodutivo de ratos macho e fêmea.
+ Não houve evidência de diminuição da fertilidade, efeitos teratogénicos ou danos para o feto devido ao febuxostate. Houve toxicidade materna com doses elevadas, acompanhada por uma redução no índice
+ 23 de desmame e desenvolvimento reduzido na descendência em ratos a cerca de 4,3 vezes a exposição humana. Os estudos teratológicos, efectuados em ratas grávidas a cerca de 4,3 vezes e em coelhas prenhes a cerca de 13 vezes a exposição humana não revelaram quaisquer efeitos teratogénicos.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Núcleo do comprimido Lactose mono-hidratada Celulose microcristalina Estearato de magnésio Hidroxipropilcelulose Croscarmelose sódica Sílica coloidal hidratada
+ Revestimento dos comprimidos Opadry II, Amarelo, 85F42129 contendo: Álcool polivinílico Dióxido de titânio (E171) Macrogol 3350 Talco Óxido de ferro amarelo (E172)
+ 6.2 Incompatibilidades Não aplicável. 6.3 Prazo de validade 3 anos 6.4 Precauções especiais de conservação
+ O medicamento não necessita de quaisquer precauções especiais de conservação.
+ 6.5 Natureza e conteúdo do recipiente Blister transparente (Aclar/PVC/Alumínio) de 14 comprimidos.
+ O ADENURIC 120 mg encontra-se disponível nas apresentações de 28 e 84 comprimidos revestidos por película.
+ É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais de eliminação Não existem requisitos especiais. 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Beaufour Ipsen Pharma 24 rue Erlanger 75781 Paris Cedex 16 France
+ 24 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/08/447/003 EU/1/08/447/004 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 21/04/2008 10. DATA DA REVISÃO DO TEXTO Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu/.
+ 25 ANEXO II
+ A. TITULAR(ES) DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 26 A TITULAR(ES) DE AUTORIZAÇÃO DE FABRICO RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do(s) fabricante(s) responsável(veis) pela libertação do lote
+ Patheon France 40 Boulevard de Champaret FR-38300 Bourgoin Jallieu France
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento sujeito a receita médica. • CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ Não aplicável. • OUTRAS CONDIÇÕES
+ Sistema de Farmacovigilância O Titular da AIM deve de garantir que o sistema de farmacovigilância, conforme descrito na versão 2.0 apresentada no Módulo 1. 8.1 do Pedido de Autorização de Introdução no Mercado, está instalado e a funcionar antes e durante o tempo em que o medicamento estiver a ser comercializado.
+ Plano de Gestão de Risco O Titular da AIM compromete-se a realizar os estudos e as actividades de farmacovigilância adicionais que estão discriminadas no Plano de Farmacovigilância, conforme acordado na versão 2.0 (19 de Fevereiro de 2008) do Plano de Gestão de Risco (PGR) apresentado no Módulo 1. 8.2 do Pedido de Autorização de Introdução no Mercado, assim como qualquer actualização subsequente do PGR aceite pelo CHMP.
+ De acordo com as normas orientadoras do CHMP sobre Sistemas de Gestão de Risco para medicamentos de uso humano, o PGR actualizado deve ser submetido ao mesmo tempo que o próximo Relatório Periódico de Segurança (RPS).
+ Adicionalmente, deve ser submetido um RPS actualizado • Quando é recebida nova informação que possa ter impacto nas actuais Especificações de Segurança, Plano de Farmacovigilância ou actividades de minimização de risco • Dentro de 60 dias após ter sido atingido um objectivo importante (farmacovigilância ou minimização de risco) • A pedido da EMEA
+ 27 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 28 A. ROTULAGEM
+ 29 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO CARTONAGEM EXTERIOR
+ 1. NOME DO MEDICAMENTO ADENURIC 80 mg comprimidos revestidos por película Febuxostate
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada comprimido contém 80 mg de febuxostate.
+ 3. LISTA DOS EXCIPIENTES Contém também lactose mono-hidratada. Consulte o folheto informativo para obter mais informações.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 28 comprimidos revestidos por película 5. MODO E VIA(S) DE ADMINISTRAÇÃO Para uso oral. Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 30 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Titular da Autorização de Introdução no Mercado: Beaufour Ipsen Pharma 24 rue Erlanger 75781 Paris Cedex 16 France
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/08/447/001 13. NÚMERO DO LOTE Lote: 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE ADENURIC 80 mg 31 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO CARTONAGEM EXTERIOR
+ 1. NOME DO MEDICAMENTO ADENURIC 80 mg comprimidos revestidos por película Febuxostate
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada comprimido contém 80 mg de febuxostate.
+ 3. LISTA DOS EXCIPIENTES Contém também lactose mono-hidratada. Consulte o folheto informativo para obter mais informações.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 84 comprimidos revestidos por película 5. MODO E VIA(S) DE ADMINISTRAÇÃO Para uso oral. Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 32 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Titular da Autorização de Introdução no Mercado: Beaufour Ipsen Pharma 24 rue Erlanger 75781 Paris Cedex 16 France
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/08/447/002 13. NÚMERO DO LOTE Lote: 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE ADENURIC 80 mg 33 INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS “ BLISTER ” OU FITAS CONTENTORAS
+ 1. NOME DO MEDICAMENTO ADENURIC 80 mg comprimidos Febuxostate 2. NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Ipsen 3. PRAZO DE VALIDADE VAL 4. NÚMERO DO LOTE Lote 5. OUTRAS Seg Ter Qua Qui Sex Sáb Dom 34 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO CARTONAGEM EXTERIOR
+ 1. NOME DO MEDICAMENTO ADENURIC 120 mg comprimidos revestidos por película Febuxostate
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada comprimido contém 120 mg de febuxostate.
+ 3. LISTA DOS EXCIPIENTES Contém também lactose mono-hidratada. Consulte o folheto informativo para obter mais informações.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 28 comprimidos revestidos por película 5. MODO E VIA(S) DE ADMINISTRAÇÃO Para uso oral. Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 35 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Titular da Autorização de Introdução no Mercado: Beaufour Ipsen Pharma 24 rue Erlanger 75781 Paris Cedex 16 France
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/08/447/003 13. NÚMERO DO LOTE Lote: 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE ADENURIC 120 mg 36 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO CARTONAGEM EXTERIOR
+ 1. NOME DO MEDICAMENTO ADENURIC 120 mg comprimidos revestidos por película Febuxostate
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada comprimido contém 120 mg de febuxostate.
+ 3. LISTA DOS EXCIPIENTES Contém também lactose mono-hidratada. Consulte o folheto informativo para obter mais informações.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 84 comprimidos revestidos por película 5. MODO E VIA(S) DE ADMINISTRAÇÃO Para uso oral. Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 37 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Titular da Autorização de Introdução no Mercado: Beaufour Ipsen Pharma 24 rue Erlanger 75781 Paris Cedex 16 France
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/08/447/004 13. NÚMERO DO LOTE Lote: 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE ADENURIC 120 mg 38 INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS “ BLISTER ” OU FITAS CONTENTORAS
+ 1. NOME DO MEDICAMENTO ADENURIC 120 mg comprimidos Febuxostate 2. NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Ipsen 3. PRAZO DE VALIDADE VAL 4. NÚMERO DO LOTE Lote 5. OUTRAS Seg Ter Qua Qui Sex Sáb Dom 39 B. FOLHETO INFORMATIVO
+ 40 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ ADENURIC 80 mg comprimidos revestidos por película Febuxostate
+ ADENURIC 120 mg comprimidos revestidos por película Febuxostate
+ Leia atentamente este folheto antes de tomar este medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum destes efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é ADENURIC e para que é utilizado 2. Antes de tomar ADENURIC 3. Como tomar ADENURIC 4. Efeitos secundários possíveis 5 Como conservar ADENURIC 6. Outras informações
+ 1. O QUE É ADENURIC E PARA QUE É UTILIZADO
+ Os comprimidos ADENURIC são utilizados para tratar a gota, a qual está associada a um excesso de um composto químico chamado ácido úrico (urato) no organismo. Nalgumas pessoas, a quantidade de ácido úrico acumula-se no sangue e pode tornar-se demasiado elevada para permanecer solúvel. Quando isto acontece, podem formar-se cristais de urato nas articulações e nos rins, bem como em redor dos mesmos. Estes cristais podem causar dor súbita e intensa vermelhidão e inchaço numa articulação (o que é conhecido como ataque de gota). Se for deixado sem tratamento, podem formar-se depósitos maiores, chamados tofos (TÓFOS) nas articulações e em redor das mesmas. Estes tofos podem danificar as articulações e os ossos.
+ O ADENURIC actua reduzindo os níveis de ácido úrico. Ao manter os níveis de ácido úrico baixos com a toma de ADENURIC uma vez ao dia todos os dias, impede a acumulação dos cristais e, ao longo do tempo, reduz os sintomas. Ao manter os níveis de ácido úrico suficientemente baixos durante um período suficientemente prolongado pode também diminuir o tamanho dos tofos.
+ 2. ANTES DE TOMAR ADENURIC Não tome ADENURIC • Se tem alergia (hipersensibilidade) ao febuxostate, o componente activo do ADENURIC, ou a qualquer outro componente destes comprimidos.
+ Tome especial cuidado com ADENURIC Informe o seu médico antes de começar a tomar este medicamento: • Se tem, ou já teve, problemas de coração ou insuficiência cardíaca • Se está a fazer tratamento para os níveis elevados de ácido úrico em resultado de cancro ou síndrome de Lesch-Nyhan (uma doença rara heriditária em que há demasiado ácido úrico no sangue) • Se tem problemas de tiróide
+ 41 Se estiver a ter um ataque de gota (um início súbito de dor intensa, sensibilidade, vermelhidão, calor e inchaço numa articulação), espere que o ataque de gota passe antes de iniciar o tratamento pela primeira vez com ADENURIC.
+ Em algumas pessoas, os ataques de gota podem ter episódios agudos ao iniciar determinados medicamentos que controlam os níveis de ácido úrico. Nem todas as pessoas têm episódios agudos, mas poderá ter um mesmo que esteja a tomar ADENURIC e sobretudo durante as primeiras semanas ou meses de tratamento. É importante continuar a tomar ADENURIC mesmo que tenha um episódio agudo, uma vez que o ADENURIC ainda está a actuar para reduzir o ácido úrico. Ao longo do tempo, os ataques de gota irão ocorrer com menos frequência e serão menos dolorosos se continuar a tomar ADENURIC todos os dias.
+ O seu médico irá receitar-lhe outros medicamentos frequentemente, caso sejam necessários para ajudar a prevenir ou a tratar os sintomas dos ataques (tais como dor ou inchaço numa articulação).
+ O seu médico poderá pedir-lhe para fazer análises ao sangue para verificar se o fígado está a funcionar normalmente.
+ Tomar ADENURIC com outros medicamentos Informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica.
+ É particularmente importante que informe o seu médico ou farmacêutico caso esteja a tomar medicamentos que contenham qualquer das substâncias seguintes, dado que estas podem interagir com ADENURIC e o seu médico poderá querer tomar medidas que sejam necessárias: • Mercaptopurina (utilizada para o tratamento de cancro) • Azatioprina (utilizada para reduzir a resposta imunitária) • Teofilina (utilizada para o tratamento da asma) • Varfarina (utilizada para fluidificar o sangue caso tenha um problema de coração)
+ Tomar ADENURIC com alimentos e bebidas Os comprimidos devem ser ingeridos pela boca e podem ser tomados com ou sem alimentos.
+ Gravidez e aleitamento Não se sabe se ADENURIC poderá prejudicar o bebé que ainda não nasceu. Informe o seu médico se achar que está grávida ou se estiver a planear engravidar, uma vez que ADENURIC não deve ser utilizado durante a gravidez. Não se sabe se ADENURIC é excretado no leite materno humano. Não deve tomar ADENURIC se está a amamentar ou se estiver a planear amamentar.
+ Condução de veículos e utilização de máquinas Não foram estudados os efeitos de ADENURIC sobre a capacidade de conduzir e utilizar máquinas. Contudo, deve estar ciente de que poderá sentir tonturas, sonolência e dormência ou uma sensação de formigueiro durante o tratamento e não deve conduzir nem utilizar máquinas se tiver por estes sintomas.
+ Informações importantes sobre alguns componentes de ADENURIC Os comprimidos ADENURIC contêm lactose (um tipo de açúcar). Se foi informado de que tem intolerância a alguns açúcares, contacte o seu médico antes de tomar este medicamento.
+ 3. COMO TOMAR ADENURIC Tomar ADENURIC sempre de acordo com as indicações do médico. Fale com o seu médico ou farmacêutico se tiver dúvidas.
+ ADENURIC encontra-se disponível sob a forma de comprimido de 80 mg ou comprimido de 120 mg. O seu médico ter-lhe-á receitado a dose mais adequada para si. 42
+ •
+ A dose habitual é de um comprimido por dia. O verso da embalagem “ blister ” está marcada com os dias da semana para o ajudar a verificar se já tomou a dose a cada dia.
+ •
+ Os comprimidos devem ser ingeridos pela boca e podem ser tomados com ou sem alimentos.
+ É importante que não pare de tomar ADENURIC a menos que o seu médico lhe diga para o fazer.
+ Continue a tomar ADENURIC todos os dias, mesmo se não estiver a ter um episódio agudo ou um ataque de gota.
+ O seu médico poderá pedir-lhe para fazer análises ao sangue para verificar se tem o fígado ou a tiróide a funcionarem normalmente.
+ Se tomar mais ADENURIC do que deveria Na eventualidade de uma sobredosagem acidental, pergunte ao seu médico o que fazer, ou contacte as urgências mais próximas.
+ Caso se tenha esquecido de tomar ADENURIC Caso se esqueça de tomar uma dose de ADENURIC, tome-a assim que se recordar, a menos que esteja quase na hora de tomar a sua dose seguinte: nesse caso, não tome a dose esquecida e tome a sua dose seguinte à hora habitual. Não tome uma dose a dobrar para compensar uma dose que se esqueceu de tomar.
+ Se parar de tomar ADENURIC Não pare de tomar ADENURIC sem consultar o seu médico, mesmo que se sinta melhor. Se parar de tomar ADENURIC, os níveis de ácido úrico poderão começar a subir e os sintomas poderão agravar-se devido à formação de novos cristais de urato nas articulações e nos rins, bem como em redor dos mesmos.
+ Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou farmacêutico.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todos os medicamentos, ADENURIC pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ Os efeitos secundários frequentes (mais de 1 em cada 100 doentes, mas menos de 1 em cada 10) são: • alterações nos resultados dos testes ao fígado • diarreia • dor de cabeça • irritações na pele • má disposição
+ Os efeitos secundários pouco frequentes (mais de 1 em cada 1000 doentes, mas menos de 1 em cada 100) são: • ganho de peso, aumento do apetite, alteração dos níveis de açúcar no sangue (diabetes) da qual um sintoma poderá ser sede excessiva, aumento dos níveis de gordura no sangue • dificuldades de erecção e/ou perda de apetite sexual • dificuldade em adormecer • tonturas, sensação de dormência ou formigueiro, sonolência, alteração do paladar, redução do sentido do tacto • traçado anormal no ECG
+ 43
+ •
+ afrontamentos ou rubor (por ex. vermelhidão no rosto ou no pescoço), aumento da tensão arterial
+ • •
+ tosse, falta de ar, sintomas do tipo gripal boca seca, dor/desconforto abdominal ou gases, azia/indigestão, prisão de ventre, eliminação mais frequente de fezes
+ • • •
+ vómitos comichão, urticária, inflamação ou descoloração da pele, outros tipos de problemas de pele cãimbra muscular, dor nos músculos/articulações, bursite ou artrite (inflamação das articulações, geralmente acompanhada de dor, inchaço e/ou rigidez)
+ •
+ sangue na urina, micção frequente anormal, pedras nos rins, alterações nos testes à urina (aumento do nível de proteínas na urina), redução da capacidade dos rins em funcionarem adequadamente
+ • •
+ cansaço, inchaço localizado devido a retenção de líquidos nos tecidos (edema) alterações sanguíneas ou da quantidade de células do sangue (alterações nos resultados das análises ao sangue)
+ Os efeitos secundários raros (mais de 1 em cada 10.000 doentes, mas menos de 1 em cada 1000) são: • fraqueza • nervosismo • sensação de sede • sentir as batidas do coração
+ Se algum destes efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR ADENURIC • •
+ Manter fora do alcance e da vista das crianças. Não utilize após o prazo de validade impresso na embalagem exterior e no alumínio da embalagem “ blister ” de comprimidos, após VAL. O prazo de validade corresponde ao último dia do mês indicado.
+ •
+ O medicamento não necessita de quaisquer precauções especiais de conservação.
+ Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de ADENURIC A substância activa é febuxostate. Cada comprimido contém 80 mg ou 120 mg de febuxostate.
+ Os outros componentes são: Núcleo do comprimido: lactose mono-hidratada, celulose microcristalina, estearato de magnésio, hidroxipropilcelulose, croscarmelose sódica, sílica coloidal hidratada. Revestimento por película: Opadry II amarelo, 85F42129 contendo: álcool polivinílico, dióxido de titânio (E171), macrogol 3350, talco, óxido de ferro amarelo (E172)
+ Qual o aspecto de ADENURIC e conteúdo da embalagem
+ Os comprimidos revestidos por película ADENURIC são de cor amarelo-pálida a amarela e em forma de cápsula.
+ 44 Os comprimidos revestidos por película de 80 mg estão marcados num dos lados com ‘ 80 ’. Os comprimidos revestidos por película de 120 mg estão marcados num dos lados com ‘ 120 ’.
+ ADENURIC é fornecido em 2 “ blisters ” de 14 comprimidos (embalagem de 28 comprimidos) ou 6 “ blisters ” de 14 comprimidos (embalagem de 84 comprimidos). É possível que não sejam comercializadas todas as apresentações.
+ Titular da Autorização de Introdução no Mercado e Fabricante
+ Titular da Autorização de Introdução no Mercado Beaufour Ipsen Pharma 24 rue Erlanger 75781 Paris Cedex 16 France
+ Fabricante Patheon France 40 boulevard de Champaret 38300 Bourgoin Jallieu França
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado:
+ België/Belgique/Belgien, Luxembourg/Luxemburg
+ Latvija Beaufour Ipsen Pharma Ipsen NV S. A. Guldensporenpark 87 B-9820 Merelbeke België/Belgique/Belgien Tél/Tel:+ 32-9-243 9600
+ Bauskas 58 Riga LV 1004 Tel: +371 7622233
+ България Beaufour Ipsen Pharma 24 rue Erlanger F-75781 Paris Cedex 16 France Tél:+ 33-1-44 96 13 13
+ Lietuva Beaufour Ipsen Pharma Lietuvos filialas Betygalos g. 2, LT-47183 Kaunas Tel.+ 370 37 337854
+ Česká republika Beaufour Ipsen Pharma Evropská 810/136 CZ-162 12 Praha 6 Tel:+ 420 220 612 125
+ Magyarország Europharm Trade Kft. Fuvallat u. 37/B H-1163 Budapest Tel.:+ 36-1-402 42 04
+ Danmark, Norge, Suomi/Finland, Sverige, Ísland
+ Nederland Ipsen Farmaceutica B. V. Institut Produits Synthèse (IPSEN) AB Kista Science Tower Färögatan 33 SE-164 51 Kista Sverige/Ruotsi/Svíþjóð Tel/Tlf/Puh/Sími: +46 8 588 370 70
+ Taurusavenue 33b NL-2132 LS Hoofddorp Tel:+ 31 23 55 41 600
+ 45 Deutschland, Österreich Ipsen Pharma GmbH Einsteinstr. 30 D-76275 Ettlingen Deutschland Tel:+ 49-7243 184-80
+ Polska Ipsen Poland Sp z o. o. Al. Jana Pawła II 29 PL-00-867 Warszawa Tel.:+ 48 (0) 22 653 68 00
+ Eesti ESTOBIIN OÜ Udeselja 4-4
+ Portugal Ipsen Portugal-Produtos Farmacêuticos S. A. Alameda Fernão Lopes, no 16-11o, Miraflores
+ 11913 Tallinn Tel: +372 51 55810
+ P-1495-190 Algés Tel:+ 351-21-412 3550
+ Ελλάδα, Κύπρος, Malta Ipsen EΠΕ Αγ. Δημητρίου 63 Άλιμος GR-17456 Αθήνα/Athens ΕΛΛΑΔΑ/GREECE Τηλ/Tel:+ 30-210-984 3324
+ Roumania Beaufour Ipsen Pharma Aleea Alexandru, nr 10, Ap. 2-4, Sct 1 Bucuresti, 011823-RO Tel: +40 21(0) 231 27 20
+ España Ipsen Pharma S. A. Ctra Laurea Miro 395 Sant Feliu de Llobregat E-08980 Barcelona Tel:+ 34-936-858 100
+ Slovenija Pharmaswiss d. o. o Dolenjska cesta 242c SI-1000 Ljubljana Tel:+ 386 1 236 47 00
+ France Beaufour Ipsen Pharma S. A. S. 24 rue Erlanger F-75781 Paris Cedex 16 Tél:+ 33-1-44 96 13 13
+ Slovenská republika Liek s. r. o 19 Hviezdoslavova SK-90301 Senec Tel:+ 421 253 412 018
+ Ireland Ipsen Pharmaceuticals Ltd. 7 Upper Leeson Street IRL-Dublin 4 Tel:+ 353-1-668 1377
+ United Kingdom Ipsen Ltd. 190 Bath Road Slough, Berkshire SL1 3XE Tel:+ 44-(0) 1753-62 77 00
+ Italia Ipsen SpA Via A. Figino,16 I-20156 Milano Tel:+ 39-02-39 22 41
+ Este folheto foi aprovado pela última vez em
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu/.
+ 46

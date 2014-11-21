@@ -1,0 +1,859 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. NOME DO MEDICAMENTO
+ ReFacto AF 250 UI pó e solvente para solução injectável.
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada frasco para injectáveis contém nominalmente 250 UI* de moroctocog alfa **.
+ Após a reconstituição, cada ml da solução contém aproximadamente 62,5 UI de moroctocog alfa.
+ * A potência (Unidades Internacionais) é determinada utilizando o doseamento cromogénico da Farmacopeia Europeia. A actividade específica do ReFacto AF é de 7. 600-13.800 UI/mg de proteína.
+ ** O factor VIII de coagulação humano é produzido por tecnologia do ADN recombinante em células do ovário do hamster chinês (CHO). O moroctocog alfa é uma glicoproteína com 1.438 aminoácidos, cuja sequência é comparável à forma 90+ 80 kDa do factor VIII (i. e. domínio B eliminado) e possui modificações pós-translacionais semelhantes às da molécula derivada do plasma.
+ O processo de fabrico de ReFacto foi modificado de modo a eliminar qualquer proteína exógena, derivada de ser humano ou de animal, do processo de cultura de células, de purificação ou da formulação final; e ao mesmo tempo o nome de fantasia foi alterado para ReFacto AF.
+ Excipientes: Após reconstituição, 1,23 mmol (29 mg) de sódio por frasco para injectáveis.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Pó e solvente para solução injectável. Pó/Aglomerado branco a esbranquiçado. Solvente límpido e incolor.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Tratamento e profilaxia da hemorragia em doentes com hemofilia A (deficiência de factor VIII congénita).
+ ReFacto AF é adequado para utilização em adultos e crianças de todas as idades, incluindo recém-nascidos.
+ ReFacto AF não contém o factor von Willebrand, e não está, portanto, indicado na doença de von Willebrand.
+ 4.2 Posologia e modo de administração O tratamento deve ser iniciado sob vigilância de um médico com experiência no tratamento da hemofilia A.
+ 2 Posologia
+ A potência que consta do rótulo do ReFacto AF baseia-se no doseamento com substrato cromogénico da Farmacopeia Europeia, no qual o padrão para aferir a potência do medicamento fabricado foi calibrado com o Padrão Internacional da OMS, através do doseamento com substrato cromogénico. Durante o tratamento com ReFacto AF, quando se monitorizam os níveis de actividade do factor VIII nos doentes, recomenda-se fortemente a utilização do doseamento com substrato cromogénico da Farmacopeia Europeia. O doseamento cromogénico produz resultados superiores aos obtidos com o doseamento de coagulação de uma só fase. Tipicamente, os resultados do doseamento de coagulação de uma só fase são 20-50% inferiores aos resultados do doseamento com substrato cromogénico. O padrão laboratorial de ReFacto AF pode ser utilizado para corrigir esta discrepância (ver secção 5.2).
+ Outro medicamento contendo moroctocog alfa, aprovado para utilização fora da Europa, possui uma potência diferente atribuída pela utilização de um padrão para aferir a potência do medicamento fabricado calibrado com o Padrão Internacional da OMS, através de um doseamento de coagulação de uma só fase; este produto identifica-se pelo nome comercial XYNTHA. Dada a diferença dos métodos utilizados para atribuir a potência dos medicamentos XYNTHA e ReFacto AF,1 UI de XYNTHA (calibrado por doseamento de uma só fase) é aproximadamente equivalente a 1,38 UI de ReFacto AF (calibrado por doseamento cromogénico). No caso de prescrever ReFacto AF a um doente que habitualmente recebe tratamento com XYNTHA, o médico assistente deve considerar um ajuste das recomendações posológicas com base nos valores de recuperação do factor VIII.
+ Com base no seu regime actual, deve recomendar-se aos indivíduos com hemofilia A para levarem consigo uma quantidade adequada de produto de factor VIII, antecipando as necessidades de tratamento em viagem. Deve recomendar-se aos doentes que consultem o seu médico antes de viajar.
+ A posologia e a duração da terapêutica de substituição dependem da gravidade da deficiência do factor VIII, da localização e da extensão da hemorragia, bem como do estado clínico do doente. As doses que se administram devem ser tituladas de acordo com a resposta clínica do doente. Na presença de um inibidor, podem ser necessárias doses mais elevadas ou um tratamento específico apropriado.
+ O número de unidades administradas de factor VIII é expresso em Unidades Internacionais (UI), as quais estão de acordo com o padrão actual da OMS para os produtos de factor VIII. A actividade do factor VIII no plasma é expressa em percentagem (relativamente ao plasma humano normal) ou em Unidades Internacionais (relativamente ao Padrão Internacional para o factor VIII no plasma). Uma Unidade Internacional (UI) de actividade do factor VIII é equivalente à quantidade de factor VIII num ml de plasma humano normal. O cálculo da dose necessária de factor VIII baseia-se no dado empírico de que 1 Unidade Internacional (UI) de factor VIII por kg de peso corporal aumenta a actividade do factor VIII no plasma em 2 UI/dl. A dose necessária é determinada utilizando a seguinte fórmula:
+ Unidades necessárias (UI)= peso corporal (kg) x aumento desejado do factor VIII (% ou UI/dl) x 0,5 (UI/kg por UI/dl), onde 0,5 UI/kg por UI/dl representa o recíproco da recuperação incremental geralmente observada após as perfusões de factor VIII.
+ A quantidade a administrar e a frequência de administração devem ser sempre orientadas para a efectividade clínica individual.
+ Nas seguintes situações hemorrágicas, a actividade do factor VIII não deve diminuir para valores inferiores aos níveis plasmáticos (em% relativamente ao normal ou em UI/dl) no período correspondente. A tabela seguinte pode ser utilizada para servir de orientação para a dose a administrar em episódios hemorrágicos e durante a cirurgia:
+ 3 Grau de hemorragia/Tipo de procedimento cirúrgico
+ Nível de factor VIII necessário (% ou UI/dl)
+ Frequência das doses (horas)/Duração da terapêutica (dias)
+ Hemorragia Hemartrose precoce, hemorragia muscular ou hemorragia oral
+ 20-40 Repetir cada 12-24 horas. Pelo menos 1 dia, até resolução do episódio hemorrágico, indicada pelo desaparecimento da dor, ou até à cicatrização.
+ Hemartrose mais extensa, hemorragia muscular ou hematoma
+ 30-60 Repetir a perfusão cada 12-24 horas, durante 3-4 dias ou mais até resolução da dor e incapacidade aguda.
+ Repetir a perfusão cada 8-24 horas, até Hemorragias que coloquem a vida em perigo
+ 60-100 resolução da ameaça.
+ Cirurgia “ Minor ” incluindo extracção dentária
+ 30-60 Cada 24 horas, durante pelo menos 1 dia, até à cicatrização.
+ “ Major ”
+ 80-100 (pré-e pós-operatória)
+ Repetir a perfusão cada 8-24 horas até cicatrização adequada da ferida, seguida de terapêutica durante pelo menos mais 7 dias de modo a manter a actividade do factor VIII em 30% a 60% (UI/dl).
+ No decurso do tratamento, recomenda-se a determinação adequada dos níveis de factor VIII para servir de orientação para a dose a administrar e a frequência das sucessivas perfusões. Principalmente no caso das grandes cirurgias, é indispensável a realização de uma monitorização precisa da terapêutica de substituição através da análise de coagulação (actividade do factor VIII plasmático). A resposta ao factor VIII pode variar individualmente, atingindo diferentes níveis de recuperação in vivo e demonstrando semi-vidas diferentes.
+ Para uma profilaxia a longo prazo contra a hemorragia em doentes com hemofilia A grave, as doses habituais são de 20 a 40 UI do factor VIII por kg de peso corporal, com intervalos de 2 a 3 dias. Em alguns casos, especialmente em doentes mais jovens, poderão ser necessários intervalos mais curtos entre as administrações ou doses mais elevadas.
+ Os doentes que recebem terapêutica de substituição com factor VIII devem ser monitorizados de maneira a determinar se desenvolvem inibidores do factor VIII. Se os níveis plasmáticos de actividade do factor VIII esperados não forem atingidos ou se a hemorragia não for controlada com uma dose adequada, deverá efectuar-se uma análise para determinar a presença de inibidores do factor VIII. Dados de ensaios clínicos indicaram que no caso da presença de inibidores em níveis inferiores a 10 Unidades Bethesda (UB), a administração adicional de factor anti-hemofílico poderá neutralizar os inibidores. Em doentes com níveis de inibidores acima de 10 UB, a terapêutica com factor VIII poderá não ser efectiva, pelo que deverão ser consideradas outras opções terapêuticas. O controlo destes doentes deve ser efectuado por médicos com experiência no tratamento de doentes com hemofilia (ver secção 4.4).
+ 4 Populações especiais
+ Compromisso renal ou hepático O ajuste posológico em doentes com compromisso renal ou hepático não foi estudado em ensaios clínicos.
+ Doentes pediátricos Foram efectuados estudos de segurança e eficácia com ReFacto, em crianças e adolescentes previamente tratados (n=31, idades 8-18 anos) e em recém-nascidos, lactentes e crianças que não foram previamente tratados (n=101, idades &lt; 1-52 meses).
+ Deve ser antecipada a necessidade de aumentar a dose de ReFacto AF a utilizar no tratamento de crianças mais novas relativamente à dose utilizada para tratamento de adultos e crianças mais velhas. Num estudo efectuado com ReFacto em crianças com menos de 6 anos de idade, a análise farmacocinética revelou que a semi-vida e a recuperação foram inferiores às observadas em crianças mais velhas e adultos (ver secção 5.2). Durante os ensaios clínicos, para as crianças com menos de 6 anos de idade em regime profiláctico foi utilizada uma dose média de 50 UI/kg de ReFacto, tendo ocorrido em média 6,1 episódios de hemorragia por ano. Nas crianças mais velhas e adultos em regime profiláctico foi utilizada uma dose média de 27 UI/kg tendo ocorrido, em média,10 episódios hemorrágicos por ano. Em ambiente de ensaio clínico a dose média de ReFacto administrado por perfusão para episódios hemorrágicos a crianças com menos de 6 anos de idade foi superior à dose média administrada a crianças mais velhas e adultos (51,3 UI/kg e 29,3 UI/kg, respectivamente).
+ Modo de administração ReFacto AF é administrado por injecção intravenosa durante vários minutos após reconstituição do pó liofilizado injectável com a solução injectável de cloreto de sódio a 9 mg/ml (0,9%) (fornecida). A velocidade de administração deve ser determinada pelo grau de conforto do doente.
+ Recomenda-se que seja prestada formação apropriada aos indivíduos que administrem o medicamento que não sejam profissionais de saúde.
+ No interesse dos doentes, recomenda-se que, sempre que for utilizado ReFacto AF, sejam registados o nome e o número de lote do medicamento.
+ Para instruções de reconstituição antes da administração, ver secção 6.6.
+ 4.3 Contra-indicações Hipersensibilidade à substância activa ou a qualquer um dos excipientes.
+ Hipersensibilidade a proteínas de hamster.
+ 4.4 Advertências e precauções especiais de utilização
+ Tal como acontece com qualquer medicamento de origem proteica de administração intravenosa, são possíveis reacções de hipersensibilidade de tipo alérgico. O medicamento contém vestígios de proteínas de hamster. Os doentes devem ser informados dos sinais precoces de reacções de hipersensibilidade (incluindo urticária, urticária generalizada, sensação de constrição pré-cordial, sibilos, hipotensão) e anafilaxia. Caso ocorram reacções alérgicas ou anafilácticas, a administração de ReFacto AF deve ser imediatamente interrompida e instituir-se um tratamento adequado. Em caso de choque, devem instituir-se os procedimentos médicos padrão para o tratamento do choque. Os doentes devem ser aconselhados a interromper a utilização do medicamento e contactar o seu médico ou dirigir-se de imediato a um serviço de urgência, dependendo do tipo e intensidade da reacção, caso surja algum destes sintomas.
+ 5 A formação de anticorpos neutralizantes (inibidores) do factor VIII é uma complicação conhecida no tratamento de doentes com hemofilia A. Estes inibidores são geralmente imunoglobulinas IgG dirigidas contra a actividade pró-coagulante do factor VIII, as quais são quantificadas em Unidades Bethesda (UB) por ml de plasma, utilizando a versão modificada por Nijmegen do doseamento de Bethesda. O risco de desenvolver inibidores está correlacionado com a exposição ao factor VIII e é maior nos primeiros 20 dias de exposição. Foi observada a presença de inibidores em doentes previamente tratados a receber produtos com factor VIII, incluindo ReFacto AF. Foram observados casos de recorrência de inibidores (título baixo), após mudança de um produto de factor VIII recombinante para outro, em doentes previamente tratados com mais de 100 dias de exposição e com história de desenvolvimento de inibidor. Nos doentes tratados com factor VIII de coagulação recombinante deve ser feita uma monitorização cuidadosa do desenvolvimento de inibidores através de observações clínicas e exames laboratoriais adequados (ver secção 4.8).
+ Foi notificada ausência de efeito, principalmente em doentes em profilaxia, nos ensaios clínicos e após comercialização de ReFacto. Esta ausência de efeito de ReFacto foi descrita como a ocorrência de hemorragias nas articulações alvo, hemorragia em novas articulações, ou sensação subjectiva por parte do doente da ocorrência de novas hemorragias. Quando se prescreve ReFacto AF é importante estabelecer individualmente e monitorizar o nível de factor para cada doente de modo a assegurar uma resposta terapêutica adequada.
+ No interesse da segurança dos doentes, recomenda-se que seja feito um registo do nome do medicamento e número de lote em cada administração do Refacto AF. Os doentes podem afixar um dos rótulos destacáveis do frasco para injectáveis no seu diário para documentar o número de lote ou para notificar quaisquer efeitos secundários.
+ Após a reconstituição este medicamento contém 1,23 mmol (29 mg) de sódio por frasco para injectáveis. Este facto deve ser tido em consideração em doentes com ingestão controlada de sódio.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Não foram realizados estudos de interacção.
+ 4.6 Gravidez e aleitamento Não foram realizados estudos de reprodução em animais com o factor VIII. Devido à ocorrência rara de hemofilia A em mulheres, não existe experiência relativa à utilização de factor VIII durante a gravidez e aleitamento. Assim, o factor VIII só deve ser utilizado durante a gravidez e aleitamento se claramente indicado.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas.
+ 4.8 Efeitos indesejáveis Inibição do Factor VIII A ocorrência de anticorpos neutralizantes (inibidores) do factor VIII é uma complicação bem conhecida do tratamento de doentes com hemofilia A. Tal como com todos os produtos de factor VIII de coagulação, os doentes devem ser monitorizados para o desenvolvimento de inibidores, os quais são quantificados em Unidades Bethesda (UB) utilizando a versão modificada por Nijmegen do doseamento de Bethesda. Se ocorrerem estes inibidores, o problema pode manifestar-se por uma resposta clínica insuficiente. Neste caso, recomenda-se que seja contactado um centro especializado no tratamento da hemofilia.
+ 6 Num estudo clínico com ReFacto AF realizado em doentes previamente tratados (DPT), a incidência de inibidores do factor VIII foi o objectivo primário de segurança. Foram observados dois casos de inibidores transitórios de título baixo e clinicamente silenciosos em 94 doentes com uma exposição mediana de 76 dias de exposição (DE, intervalo entre 1-92), correspondendo a 2,2% dos 89 doentes com pelo menos 50 DE. Num estudo de suporte de ReFacto AF, foram observados 1 inibidor de novo e 2 inibidores recorrentes (todos de título baixo, determinação em laboratório central) em 110 doentes; exposição mediana de 58 DE (intervalo entre 5-140) e 98 doentes tiveram pelo menos 50 DE a Refacto AF. Noventa e oito (98) dos 110 doentes originais continuaram o tratamento num segundo estudo de suporte e tiverem uma exposição prolongada subsequente a ReFacto AF, com uma mediana de 169 DE adicionais (intervalo entre 9-425). Foi observado um (1) inibidor adicional de novo de título baixo. A frequência de inibidores observada nestes estudos está de acordo com o intervalo esperado.
+ Num estudo clínico com ReFacto em DPT, observou-se 1 inibidor entre 113 doentes. Além disso, houve notificações espontâneas pós-comercialização de títulos elevados de inibidores envolvendo doentes previamente tratados.
+ Não há dados clínicos em doentes previamente não tratados (DPNT) com Refacto AF. Contudo, estão planeados ensaios clínicos em doentes previamente não tratados (DPNT) com Refacto AF. Num ensaio clínico,32 em 101 (32%) doentes previamente não tratados (DPNT) desenvolveram inibidores durante o tratamento com ReFacto: 16 em 101 (16%) com um título &gt; 5 UB e 16 em 101 (16%) com um título ≤ 5 UB. O número mediano de dias de exposição até ao desenvolvimento de inibidores, nestes doentes, foi 12 dias (intervalo entre 3-49). Dos 16 doentes com títulos elevados,15 receberam tratamento de tolerância imunitária (TI). Dos 16 doentes com títulos baixos,10 iniciaram tratamento TI. A TI foi eficaz em 73% dos doentes com títulos elevados e em 90% dos doentes com títulos baixos. O número mediano de dias de exposição nos 101 DPNT, independentemente do desenvolvimento de inibidores, foi de 197 dias (entre 1– 1.299 dias).
+ Apresentam-se na tabela abaixo as reacções adversas com base na experiência obtida nos ensaios clínicos com ReFacto ou ReFacto AF, por classes de sistemas de órgãos. Estas frequências foram estimadas por doente e são descritas usando as seguintes categorias: muito frequentes (≥1/10); frequentes (≥1/100 a &lt; 1/10); e pouco frequentes (&gt; 1/1.000 a &lt; 1/100).
+ Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ Frequência de Ocorrência por Doente com ReFacto ou ReFacto AF
+ Classes de Sistemas de Muito frequentes Frequentes Pouco frequentes Órgãos (≥1/10)
+ (≥1/100 a &lt; 1/10)
+ (≥1/1,000 a &lt; 1/100)
+ Doenças do sangue e do sistema linfático
+ Inibidores do factor VIII-DPNT
+ Inibidores do factor VIII-DPT Doenças do metabolismo e da nutrição
+ Anorexia Doenças do sistema nervoso Cardiopatias
+ Cefaleias Neuropatia, tonturas, sonolência, disguesia Angina pectoris, taquicardia, palpitações
+ Vasculopatias Hemorragia/Hematoma Hipotensão, tromboflebite, vasodilatação, rubor
+ 7 Frequência de Ocorrência por Doente com ReFacto ou ReFacto AF
+ Classes de Sistemas de Muito frequentes Frequentes Pouco frequentes Órgãos (≥1/10)
+ (≥1/100 a &lt; 1/10)
+ (≥1/1,000 a &lt; 1/100)
+ Doenças respiratórias, torácicas e do mediastino
+ Dispneia, tosse Doenças gastrointestinais
+ Vómitos Náuseas Dor abdominal, diarreia Afecções dos tecidos cutâneos e subcutâneos
+ Urticária, prurido, erupção cutânea, hiperidrose
+ Afecções musculosqueléticas e dos tecidos conjuntivos
+ Artralgias Mialgias Perturbações gerais e alterações no local de administração
+ Astenia, pirexia Arrepios/sensação de frio, inflamação no local da injecção, reacção no local da injecção, dor no local da injecção
+ Exames complementares de diagnóstico
+ Aspartato aminotransferase aumentada, alanina aminotransferase aumentada, bilirrubina sanguínea aumentada, creatina fosfoquinase aumentada
+ Procedimentos cirúrgicos e médicos
+ Complicações no acesso vascular Foram notificados como estando possivelmente relacionados com o tratamento com ReFacto AF um aparecimento de um quisto num doente de 11 anos de idade e um acontecimento descrito como confusão num doente de 13 anos de idade.
+ A segurança de ReFacto AF foi avaliada em crianças e adolescentes previamente tratados (n=18, idade entre 12-16 num estudo e n=49, idade entre 7-16 num estudo de suporte). Apesar do número limitado de crianças estudadas, existe uma tendência para frequências mais elevadas de acontecimentos adversos em crianças com idades entre os 7-16 anos de idade, comparativamente com as observadas em adultos. Está a decorrer um ensaio clínico que avalia a utilização de moroctocog alfa (AF-CC) em crianças com menos de 6 anos de idade.
+ Também foram notificados os seguintes acontecimentos adversos com ReFacto: parestesias, fadiga, visão turva, acne, gastrite, gastroenterite e dor.
+ Observaram-se raramente com ReFacto reacções de hipersensibilidade ou alérgicas (as quais podem incluir angioedema, sensação de queimadura e ardor no local da perfusão, arrepios, rubor, urticária generalizada, cefaleias, urticária, hipotensão, letargia, náuseas, agitação, taquicardia, sensação de constrição pré-cordial, formigueiro, vómitos, sibilos) que poderão, em alguns casos, progredir para anafilaxia grave, incluindo o choque (ver secção 4.4).
+ Podem estar presentes no ReFacto AF quantidades vestigiais de proteínas de hamster. O desenvolvimento de anticorpos às proteínas de hamster foi observado muito raramente, sem no entanto haver sequelas clínicas. Num estudo com ReFacto, vinte dos 113 (18%) DPT tiveram um
+ 8 aumento no título de anticorpos anti-CHO, sem qualquer efeito clínico aparente.
+ Caso ocorra qualquer reacção adversa que se pense estar relacionada com a administração de ReFacto AF, a velocidade de perfusão deve ser reduzida ou a perfusão dever ser interrompida, de acordo com a resposta do doente (ver secção 4.4).
+ 4.9 Sobredosagem Não foram descritos casos de sobredosagem.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Anti-hemorrágicos: factor VIII de coagulação do sangue; código ATC: B02BD02.
+ ReFacto AF contém o factor VIII de coagulação recombinante (moroctocog alfa) com o domínio B eliminado. É uma glicoproteína com uma massa molecular aproximada de 170.000 Da composta por 1.438 aminoácidos. ReFacto AF possui características funcionais comparáveis às do factor VIII endógeno. A actividade do factor VIII é muito reduzida em doentes com hemofilia A, sendo por isso necessária a terapêutica de substituição.
+ O factor VIII, quando administrado por perfusão num doente hemofílico, liga-se ao factor de von Willebrand presente na circulação do doente.
+ O factor VIII activado actua como um co-factor para o factor IX activado, acelerando a conversão do factor X a factor X activado. Este factor X activado converte a protrombina em trombina. A trombina irá converter o fibrinogénio em fibrina, formando-se um coágulo. A hemofilia A é uma doença da coagulação sanguínea, hereditária, ligada ao sexo, causada pelos níveis diminuídos de factor VIII: C o que provoca hemorragias profusas para as articulações, músculos ou órgãos internos, as quais podem ser espontâneas ou resultantes de um traumatismo acidental ou cirúrgico. Os níveis plasmáticos de factor VIII são aumentados por terapêutica de substituição, permitindo, deste modo, uma correcção temporária da deficiência do factor e uma correcção da tendência hemorrágica.
+ 5.2 Propriedades farmacocinéticas Na tabela seguinte encontram-se enumeradas as propriedades farmacocinéticas de ReFacto, resultantes de um estudo cruzado de ReFacto e de um concentrado de factor VIII derivado do plasma, utilizando o doseamento cromogénico (ver secção 4.2), em 18 doentes previamente tratados.
+ Estimativas dos parâmetros farmacocinéticos de ReFacto em doentes com hemofilia A previamente tratados Parâmetro farmacocinético
+ Média DP Mediana AUCt (UI h/ml) t1/2 (h) CL (ml/h kg) MRT (h) Valor-K (aumento de factor VIII: C em UI/dl por UI/kg de factor VIII administrado)
+ 19,9 14,8 2,4 20,2 2,4
+ 4,9 5,6 0,75 7,4 0,38
+ 19,9 12,7 2,3 18,0 2,5 Abreviaturas: AUCt= área sob a curva de concentração plasmática-tempo desde o zero até às últimas concentrações mensuráveis; t1/2= semi-vida; CL=Depuração; MRT=tempo médio de residência;
+ 9 Valor-K=recuperação incremental; DP=desvio padrão
+ Num estudo no qual a potência de ReFacto AF, de ReFacto e a actividade do factor VIII no plasma de doentes foi medida através do doseamento com substracto cromogénico, o ReFacto AF mostrou ser bioequivalente a ReFacto. As razões entre as médias geométricas dos mínimos quadrados de ReFacto AF e de ReFacto foram de 100,6%, 99,5% e 98,1% em relação ao valor-K, AUCt e AUC∞ (área sob a curva de concentração plasmática desde o tempo zero até o infinito), respectivamente. Os intervalos de confiança de 90% correspondentes às razões de médias geométricas de ReFacto AF e ReFacto estavam dentro do intervalo de bioequivalência de 80 a 125%, demonstrando a bioequivalência de ReFacto AF e de ReFacto.
+ Num estudo cruzado de farmacocinética, os parâmetros de farmacocinética de ReFacto AF foram determinados na linha de base e após o seguimento de 25 doentes previamente tratados (≥ 12 anos) após a administração repetida de ReFacto AF durante 6 meses. As razões das médias geométricas dos mínimos quadrados entre os parâmetros farmacocinéticos no mês 6 e a linha de base foram de 107%,100% e 104%, relativamente ao valor-K, AUCt e AUC∞, respectivamente. Os intervalos de confiança de 90% correspondentes às razões entre os parâmetros farmacocinéticos no mês 6 e a linha de base estavam dentro da janela de equivalência entre 80% e 125%. Este facto indica que não existem alterações dependentes do tempo nas propriedades farmacocinéticas de ReFacto AF.
+ No mesmo estudo, no qual a potência farmacológica de ReFacto AF e de um comparador constituído por factor VIII recombinante completo (FLrFVIII), e a actividade do factor VIII medida em amostras de plasma de doentes, foram todas determinadas através de um doseamento de coagulação de uma só fase, num laboratório central, ReFacto AF mostrou ser farmacocineticamente equivalente a FLrFVIII em 30 doentes previamente tratados (≥12anos de idade), utilizando a abordagem padronizada de bioequivalência.
+ Em DPNT, os parâmetros farmacocinéticos de ReFacto foram avaliados utilizando o doseamento cromogénico. Estes doentes (n=59; mediana de idades de 10 ± 8,3 meses) tiveram um média de recuperação incremental na Semana 0 de 1,5 ± 0,6 UI/dl por UI/kg (no intervalo entre 0,2 a 2,8 UI/dl por UI/kg), a qual foi mais baixa do que a obtida em DPT com ReFacto na Semana 0 com uma média de valor-K de 2,4 ± 0,4 UI/dl por UI/kg (no intervalo entre 1,1 a 3,8 UI/dl por UI/kg). Nos DPNT, a média das recuperações incrementais foi estável no tempo (5 visitas num período de 2 anos) e variaram entre 1,5 a 1,8 UI/dl por UI/kg. A modelação da farmacocinética da população com base nos dados de 44 DPNT permitiu estimar uma média de semi-vidas de 8,0 ± 2,2 horas.
+ 5.3 Dados de segurança pré-clínica Os dados não clínicos não revelam riscos especiais para o ser humano, segundo estudos convencionais de farmacologia de segurança, toxicidade de dose repetida e genotoxicidade.
+ Não foram efectuadas investigações sobre o potencial carcinogénico e a toxicidade reprodutiva.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Pó Sacarose Cloreto de cálcio di-hidratado Histidina Polissorbato 80 Cloreto de sódio
+ 10 Solvente Cloreto de sódio Água para preparações injectáveis
+ 6.2 Incompatibilidades Na ausência de estudos de compatibilidade, este medicamento não pode ser misturado com outros medicamentos, incluindo outras soluções de perfusão.
+ Apenas deve ser utilizado o sistema de perfusão fornecido, uma vez que pode ocorrer insucesso do tratamento em consequência da adsorção do factor VIII de coagulação humana pelas superfícies internas de certos equipamentos de perfusão.
+ 6.3 Prazo de validade Frasco para injectáveis de pó fechado 2 anos. Após reconstituição A estabilidade química e física após reconstituição foi demonstrada durante 3 horas a temperaturas até 25ºC.
+ O medicamento não contém um conservante, e o medicamento reconstituído deve ser utilizado imediatamente, ou no prazo de 3 horas após a reconstituição. Outros períodos e condições de armazenamento durante a utilização são da responsabilidade do utilizador.
+ 6.4 Precauções especiais de conservação
+ Conservar e transportar refrigerado (2°C-8°C). Não congelar de modo a evitar danos na seringa pré-cheia.
+ O medicamento pode ser retirado do local de armazenamento refrigerado durante um período único máximo de 3 meses à temperatura ambiente (até 25º· C). No final deste período de conservação à temperatura ambiente, o medicamento não pode voltar a ser refrigerado, devendo ou ser utilizado ou eliminado.
+ Manter o frasco para injectáveis dentro da embalagem exterior para proteger da luz.
+ Condições de conservação do medicamento reconstituído, ver secção 6.3.
+ 6.5 Natureza e conteúdo do recipiente 250 UI de pó em frasco para injectáveis de 10 ml (vidro do tipo I) com uma rolha de borracha (butílica) e um selo não-roscado (alumínio) e 4 ml de solvente fornecido em seringa pré-cheia (vidro do tipo I) com uma rolha no êmbolo (butílica), um selo na extremidade (butílico), um adaptador para o frasco para injectáveis para a reconstituição, um sistema de perfusão estéril, compressas com álcool, adesivo e penso em gaze.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ O pó liofilizado para injectável contido no frasco para injectáveis tem de ser reconstituído com o solvente fornecido na seringa pré-cheia, solução de cloreto de sódio a 9 mg/ml (0,9%), utilizando-se para a reconstituição o adaptador para o frasco para injectáveis. O frasco para injectáveis deve ser
+ 11 rodado suavemente até que todo o pó esteja dissolvido.
+ O medicamento, após a reconstituição, contém polissorbato-80, que aumenta a taxa de extracção de di-(2-etil-hexil) ftalato (DEHP) do cloreto de polivinilo (PVC). Tal deve ser tido em consideração durante a preparação e administração do medicamento, incluindo o tempo de conservação num recipiente de PVC após a reconstituição. É importante que as recomendações dadas na secção 6.3 sejam rigorosamente seguidas.
+ Após a reconstituição, a solução é retirada para dentro da seringa. A solução será límpida ou ligeiramente opalescente e incolor. A solução deve ser eliminada se apresentar partículas visíveis ou se for observada qualquer alteração na coloração.
+ Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Wyeth Europa Ltd. Huntercombe Lane South Taplow, Maidenhead Berkshire, SL6 0PH Reino Unido
+ 8. NÚMERO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/99/103/001 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 13 de Abril de 1999 Data da última renovação: 15 de Abril de 2009
+ 10. DATA DA REVISÃO DO TEXTO Informação pormenorizada sobre este medicamento está disponível na internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu/
+ 12 1. NOME DO MEDICAMENTO
+ ReFacto AF 500 UI pó e solvente para solução injectável.
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada frasco para injectáveis contém nominalmente 500 UI* de moroctocog alfa **.
+ Após a reconstituição, cada ml da solução contém aproximadamente 125 UI de moroctocog alfa.
+ * A potência (Unidades Internacionais) é determinada utilizando o doseamento cromogénico da Farmacopeia Europeia. A actividade específica do ReFacto AF é de 7. 600-13.800 UI/mg de proteína.
+ ** O factor VIII de coagulação humano é produzido por tecnologia do ADN recombinante em células do ovário do hamster chinês (CHO). O moroctocog alfa é uma glicoproteína com 1.438 aminoácidos, cuja sequência é comparável à forma 90+ 80 kDa do factor VIII (i. e. domínio B eliminado) e possui modificações pós-translacionais semelhantes às da molécula derivada do plasma.
+ O processo de fabrico de ReFacto foi modificado de modo a eliminar qualquer proteína exógena, derivada de ser humano ou de animal, do processo de cultura de células, de purificação ou da formulação final; e ao mesmo tempo o nome de fantasia foi alterado para ReFacto AF.
+ Excipientes: Após reconstituição, 1,23 mmol (29 mg) de sódio por frasco para injectáveis.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Pó e solvente para solução injectável. Pó/Aglomerado branco a esbranquiçado. Solvente límpido e incolor.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Tratamento e profilaxia da hemorragia em doentes com hemofilia A (deficiência de factor VIII congénita).
+ ReFacto AF é adequado para utilização em adultos e crianças de todas as idades, incluindo recém-nascidos.
+ ReFacto AF não contém o factor von Willebrand, e não está, portanto, indicado na doença de von Willebrand.
+ 4.2 Posologia e modo de administração O tratamento deve ser iniciado sob vigilância de um médico com experiência no tratamento da hemofilia A.
+ 13 Posologia
+ A potência que consta do rótulo do ReFacto AF baseia-se no doseamento com substrato cromogénico da Farmacopeia Europeia, no qual o padrão para aferir a potência do medicamento fabricado foi calibrado com o Padrão Internacional da OMS, através do doseamento com substrato cromogénico. Durante o tratamento com ReFacto AF, quando se monitorizam os níveis de actividade do factor VIII nos doentes, recomenda-se fortemente a utilização do doseamento com substrato cromogénico da Farmacopeia Europeia. O doseamento cromogénico produz resultados superiores aos obtidos com o doseamento de coagulação de uma só fase. Tipicamente, os resultados do doseamento de coagulação de uma só fase são 20-50% inferiores aos resultados do doseamento com substrato cromogénico. O padrão laboratorial de ReFacto AF pode ser utilizado para corrigir esta discrepância (ver secção 5.2).
+ Outro medicamento contendo moroctocog alfa, aprovado para utilização fora da Europa, possui uma potência diferente atribuída pela utilização de um padrão para aferir a potência do medicamento fabricado calibrado com o Padrão Internacional da OMS, através de um doseamento de coagulação de uma só fase; este produto identifica-se pelo nome comercial XYNTHA. Dada a diferença dos métodos utilizados para atribuir a potência dos medicamentos XYNTHA e ReFacto AF,1 UI de XYNTHA (calibrado por doseamento de uma só fase) é aproximadamente equivalente a 1,38 UI de ReFacto AF (calibrado por doseamento cromogénico). No caso de prescrever ReFacto AF a um doente que habitualmente recebe tratamento com XYNTHA, o médico assistente deve considerar um ajuste das recomendações posológicas com base nos valores de recuperação do factor VIII.
+ Com base no seu regime actual, deve recomendar-se aos indivíduos com hemofilia A para levarem consigo uma quantidade adequada de produto de factor VIII, antecipando as necessidades de tratamento em viagem. Deve recomendar-se aos doentes que consultem o seu médico antes de viajar.
+ A posologia e a duração da terapêutica de substituição dependem da gravidade da deficiência do factor VIII, da localização e da extensão da hemorragia, bem como do estado clínico do doente. As doses que se administram devem ser tituladas de acordo com a resposta clínica do doente. Na presença de um inibidor, podem ser necessárias doses mais elevadas ou um tratamento específico apropriado.
+ O número de unidades administradas de factor VIII é expresso em Unidades Internacionais (UI), as quais estão de acordo com o padrão actual da OMS para os produtos de factor VIII. A actividade do factor VIII no plasma é expressa em percentagem (relativamente ao plasma humano normal) ou em Unidades Internacionais (relativamente ao Padrão Internacional para o factor VIII no plasma). Uma Unidade Internacional (UI) de actividade do factor VIII é equivalente à quantidade de factor VIII num ml de plasma humano normal. O cálculo da dose necessária de factor VIII baseia-se no dado empírico de que 1 Unidade Internacional (UI) de factor VIII por kg de peso corporal aumenta a actividade do factor VIII no plasma em 2 UI/dl. A dose necessária é determinada utilizando a seguinte fórmula:
+ Unidades necessárias (UI)= peso corporal (kg) x aumento desejado do factor VIII (% ou UI/dl) x 0,5 (UI/kg por UI/dl), onde 0,5 UI/kg por UI/dl representa o recíproco da recuperação incremental geralmente observada após as perfusões de factor VIII.
+ A quantidade a administrar e a frequência de administração devem ser sempre orientadas para a efectividade clínica individual.
+ Nas seguintes situações hemorrágicas, a actividade do factor VIII não deve diminuir para valores inferiores aos níveis plasmáticos (em% relativamente ao normal ou em UI/dl) no período correspondente. A tabela seguinte pode ser utilizada para servir de orientação para a dose a administrar em episódios hemorrágicos e durante a cirurgia:
+ 14 Grau de hemorragia/Tipo de procedimento cirúrgico
+ Nível de factor VIII necessário (% ou UI/dl)
+ Frequência das doses (horas)/Duração da terapêutica (dias)
+ Hemorragia Hemartrose precoce, hemorragia muscular ou hemorragia oral
+ 20-40 Repetir cada 12-24 horas. Pelo menos 1 dia, até resolução do episódio hemorrágico, indicada pelo desaparecimento da dor, ou até à cicatrização.
+ Hemartrose mais extensa, hemorragia muscular ou hematoma
+ 30-60 Repetir a perfusão cada 12-24 horas, durante 3-4 dias ou mais até resolução da dor e incapacidade aguda.
+ Repetir a perfusão cada 8-24 horas, até Hemorragias que coloquem a vida em perigo
+ 60-100 resolução da ameaça.
+ Cirurgia “ Minor ” incluindo extracção dentária
+ 30-60 Cada 24 horas, durante pelo menos 1 dia, até à cicatrização.
+ “ Major ”
+ 80-100 (pré-e pós-operatória)
+ Repetir a perfusão cada 8-24 horas até cicatrização adequada da ferida, seguida de terapêutica durante pelo menos mais 7 dias de modo a manter a actividade do factor VIII em 30% a 60% (UI/dl).
+ No decurso do tratamento, recomenda-se a determinação adequada dos níveis de factor VIII para servir de orientação para a dose a administrar e a frequência das sucessivas perfusões. Principalmente no caso das grandes cirurgias, é indispensável a realização de uma monitorização precisa da terapêutica de substituição através da análise de coagulação (actividade do factor VIII plasmático). A resposta ao factor VIII pode variar individualmente, atingindo diferentes níveis de recuperação in vivo e demonstrando semi-vidas diferentes.
+ Para uma profilaxia a longo prazo contra a hemorragia em doentes com hemofilia A grave, as doses habituais são de 20 a 40 UI do factor VIII por kg de peso corporal, com intervalos de 2 a 3 dias. Em alguns casos, especialmente em doentes mais jovens, poderão ser necessários intervalos mais curtos entre as administrações ou doses mais elevadas.
+ Os doentes que recebem terapêutica de substituição com factor VIII devem ser monitorizados de maneira a determinar se desenvolvem inibidores do factor VIII. Se os níveis plasmáticos de actividade do factor VIII esperados não forem atingidos ou se a hemorragia não for controlada com uma dose adequada, deverá efectuar-se uma análise para determinar a presença de inibidores do factor VIII. Dados de ensaios clínicos indicaram que no caso da presença de inibidores em níveis inferiores a 10 Unidades Bethesda (UB), a administração adicional de factor anti-hemofílico poderá neutralizar os inibidores. Em doentes com níveis de inibidores acima de 10 UB, a terapêutica com factor VIII poderá não ser efectiva, pelo que deverão ser consideradas outras opções terapêuticas. O controlo destes doentes deve ser efectuado por médicos com experiência no tratamento de doentes com hemofilia (ver secção 4.4).
+ 15 Populações especiais
+ Compromisso renal ou hepático O ajuste posológico em doentes com compromisso renal ou hepático não foi estudado em ensaios clínicos.
+ Doentes pediátricos Foram efectuados estudos de segurança e eficácia com ReFacto, em crianças e adolescentes previamente tratados (n=31, idades 8-18 anos) e em recém-nascidos, lactentes e crianças que não foram previamente tratados (n=101, idades &lt; 1-52 meses).
+ Deve ser antecipada a necessidade de aumentar a dose de ReFacto AF a utilizar no tratamento de crianças mais novas relativamente à dose utilizada para tratamento de adultos e crianças mais velhas. Num estudo efectuado com ReFacto em crianças com menos de 6 anos de idade, a análise farmacocinética revelou que a semi-vida e a recuperação foram inferiores às observadas em crianças mais velhas e adultos (ver secção 5.2). Durante os ensaios clínicos, para as crianças com menos de 6 anos de idade em regime profiláctico foi utilizada uma dose média de 50 UI/kg de ReFacto, tendo ocorrido em média 6,1 episódios de hemorragia por ano. Nas crianças mais velhas e adultos em regime profiláctico foi utilizada uma dose média de 27 UI/kg tendo ocorrido, em média,10 episódios hemorrágicos por ano. Em ambiente de ensaio clínico a dose média de ReFacto administrado por perfusão para episódios hemorrágicos a crianças com menos de 6 anos de idade foi superior à dose média administrada a crianças mais velhas e adultos (51,3 UI/kg e 29,3 UI/kg, respectivamente).
+ Modo de administração ReFacto AF é administrado por injecção intravenosa durante vários minutos após reconstituição do pó liofilizado injectável com a solução injectável de cloreto de sódio a 9 mg/ml (0,9%) (fornecida). A velocidade de administração deve ser determinada pelo grau de conforto do doente.
+ Recomenda-se que seja prestada formação apropriada aos indivíduos que administrem o medicamento que não sejam profissionais de saúde.
+ No interesse dos doentes, recomenda-se que, sempre que for utilizado ReFacto AF, sejam registados o nome e o número de lote do medicamento.
+ Para instruções de reconstituição antes da administração, ver secção 6.6.
+ 4.3 Contra-indicações Hipersensibilidade à substância activa ou a qualquer um dos excipientes.
+ Hipersensibilidade a proteínas de hamster.
+ 4.4 Advertências e precauções especiais de utilização
+ Tal como acontece com qualquer medicamento de origem proteica de administração intravenosa, são possíveis reacções de hipersensibilidade de tipo alérgico. O medicamento contém vestígios de proteínas de hamster. Os doentes devem ser informados dos sinais precoces de reacções de hipersensibilidade (incluindo urticária, urticária generalizada, sensação de constrição pré-cordial, sibilos, hipotensão) e anafilaxia. Caso ocorram reacções alérgicas ou anafilácticas, a administração de ReFacto AF deve ser imediatamente interrompida e instituir-se um tratamento adequado. Em caso de choque, devem instituir-se os procedimentos médicos padrão para o tratamento do choque. Os doentes devem ser aconselhados a interromper a utilização do medicamento e contactar o seu médico ou dirigir-se de imediato a um serviço de urgência, dependendo do tipo e intensidade da reacção, caso surja algum destes sintomas.
+ 16 A formação de anticorpos neutralizantes (inibidores) do factor VIII é uma complicação conhecida no tratamento de doentes com hemofilia A. Estes inibidores são geralmente imunoglobulinas IgG dirigidas contra a actividade pró-coagulante do factor VIII, as quais são quantificadas em Unidades Bethesda (UB) por ml de plasma, utilizando a versão modificada por Nijmegen do doseamento de Bethesda. O risco de desenvolver inibidores está correlacionado com a exposição ao factor VIII e é maior nos primeiros 20 dias de exposição. Foi observada a presença de inibidores em doentes previamente tratados a receber produtos com factor VIII, incluindo ReFacto AF. Foram observados casos de recorrência de inibidores (título baixo), após mudança de um produto de factor VIII recombinante para outro, em doentes previamente tratados com mais de 100 dias de exposição e com história de desenvolvimento de inibidor. Nos doentes tratados com factor VIII de coagulação recombinante deve ser feita uma monitorização cuidadosa do desenvolvimento de inibidores através de observações clínicas e exames laboratoriais adequados (ver secção 4.8).
+ Foi notificada ausência de efeito, principalmente em doentes em profilaxia, nos ensaios clínicos e após comercialização de ReFacto. Esta ausência de efeito de ReFacto foi descrita como a ocorrência de hemorragias nas articulações alvo, hemorragia em novas articulações, ou sensação subjectiva por parte do doente da ocorrência de novas hemorragias. Quando se prescreve ReFacto AF é importante estabelecer individualmente e monitorizar o nível de factor para cada doente de modo a assegurar uma resposta terapêutica adequada.
+ No interesse da segurança dos doentes, recomenda-se que seja feito um registo do nome do medicamento e número de lote em cada administração do Refacto AF. Os doentes podem afixar um dos rótulos destacáveis do frasco para injectáveis no seu diário para documentar o número de lote ou para notificar quaisquer efeitos secundários.
+ Após a reconstituição este medicamento contém 1,23 mmol (29 mg) de sódio por frasco para injectáveis. Este facto deve ser tido em consideração em doentes com ingestão controlada de sódio.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Não foram realizados estudos de interacção.
+ 4.6 Gravidez e aleitamento Não foram realizados estudos de reprodução em animais com o factor VIII. Devido à ocorrência rara de hemofilia A em mulheres, não existe experiência relativa à utilização de factor VIII durante a gravidez e aleitamento. Assim, o factor VIII só deve ser utilizado durante a gravidez e aleitamento se claramente indicado.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas.
+ 4.8 Efeitos indesejáveis Inibição do Factor VIII A ocorrência de anticorpos neutralizantes (inibidores) do factor VIII é uma complicação bem conhecida do tratamento de doentes com hemofilia A. Tal como com todos os produtos de factor VIII de coagulação, os doentes devem ser monitorizados para o desenvolvimento de inibidores, os quais são quantificados em Unidades Bethesda (UB) utilizando a versão modificada por Nijmegen do doseamento de Bethesda. Se ocorrerem estes inibidores, o problema pode manifestar-se por uma resposta clínica insuficiente. Neste caso, recomenda-se que seja contactado um centro especializado no tratamento da hemofilia.
+ 17 Num estudo clínico com ReFacto AF realizado em doentes previamente tratados (DPT), a incidência de inibidores do factor VIII foi o objectivo primário de segurança. Foram observados dois casos de inibidores transitórios de título baixo e clinicamente silenciosos em 94 doentes com uma exposição mediana de 76 dias de exposição (DE, intervalo entre 1-92), correspondendo a 2,2% dos 89 doentes com pelo menos 50 DE. Num estudo de suporte de ReFacto AF, foram observados 1 inibidor de novo e 2 inibidores recorrentes (todos de título baixo, determinação em laboratório central) em 110 doentes; exposição mediana de 58 DE (intervalo entre 5-140) e 98 doentes tiveram pelo menos 50 DE a Refacto AF. Noventa e oito (98) dos 110 doentes originais continuaram o tratamento num segundo estudo de suporte e tiverem uma exposição prolongada subsequente a ReFacto AF, com uma mediana de 169 DE adicionais (intervalo entre 9-425). Foi observado um (1) inibidor adicional de novo de título baixo. A frequência de inibidores observada nestes estudos está de acordo com o intervalo esperado.
+ Num estudo clínico com ReFacto em DPT, observou-se 1 inibidor entre 113 doentes. Além disso, houve notificações espontâneas pós-comercialização de títulos elevados de inibidores envolvendo doentes previamente tratados.
+ Não há dados clínicos em doentes previamente não tratados (DPNT) com Refacto AF. Contudo, estão planeados ensaios clínicos em doentes previamente não tratados (DPNT) com Refacto AF. Num ensaio clínico,32 em 101 (32%) doentes previamente não tratados (DPNT) desenvolveram inibidores durante o tratamento com ReFacto: 16 em 101 (16%) com um título &gt; 5 UB e 16 em 101 (16%) com um título ≤ 5 UB. O número mediano de dias de exposição até ao desenvolvimento de inibidores, nestes doentes, foi 12 dias (intervalo entre 3-49). Dos 16 doentes com títulos elevados,15 receberam tratamento de tolerância imunitária (TI). Dos 16 doentes com títulos baixos,10 iniciaram tratamento TI. A TI foi eficaz em 73% dos doentes com títulos elevados e em 90% dos doentes com títulos baixos. O número mediano de dias de exposição nos 101 DPNT, independentemente do desenvolvimento de inibidores, foi de 197 dias (entre 1-1.299 dias).
+ Apresentam-se na tabela abaixo as reacções adversas com base na experiência obtida nos ensaios clínicos com ReFacto ou ReFacto AF, por classes de sistemas de órgãos. Estas frequências foram estimadas por doente e são descritas usando as seguintes categorias: muito frequentes (≥1/10); frequentes (≥1/100 a &lt; 1/10); e pouco frequentes (&gt; 1/1.000 a &lt; 1/100).
+ Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ Frequência de Ocorrência por Doente com ReFacto ou ReFacto AF
+ Classes de Sistemas de Muito frequentes Frequentes Pouco frequentes Órgãos (≥1/10)
+ (≥1/100 a &lt; 1/10)
+ (≥1/1,000 a &lt; 1/100)
+ Doenças do sangue e do sistema linfático
+ Inibidores do factor VIII-DPNT
+ Inibidores do factor VIII-DPT Doenças do metabolismo e da nutrição
+ Anorexia Doenças do sistema nervoso Cardiopatias
+ Cefaleias Neuropatia, tonturas, sonolência, disguesia Angina pectoris, taquicardia, palpitações
+ Vasculopatias Hemorragia/Hematoma Hipotensão, tromboflebite, vasodilatação, rubor
+ 18 Frequência de Ocorrência por Doente com ReFacto ou ReFacto AF
+ Classes de Sistemas de Muito frequentes Frequentes Pouco frequentes Órgãos (≥1/10)
+ (≥1/100 a &lt; 1/10)
+ (≥1/1,000 a &lt; 1/100)
+ Doenças respiratórias, torácicas e do mediastino
+ Dispneia, tosse Doenças gastrointestinais
+ Vómitos Náuseas Dor abdominal, diarreia Afecções dos tecidos cutâneos e subcutâneos
+ Urticária, prurido, erupção cutânea, hiperidrose
+ Afecções musculosqueléticas e dos tecidos conjuntivos
+ Artralgias Mialgias Perturbações gerais e alterações no local de administração
+ Astenia, pirexia Arrepios/sensação de frio, inflamação no local da injecção, reacção no local da injecção, dor no local da injecção
+ Exames complementares de diagnóstico
+ Aspartato aminotransferase aumentada, alanina aminotransferase aumentada, bilirrubina sanguínea aumentada, creatina fosfoquinase aumentada
+ Procedimentos cirúrgicos e médicos
+ Complicações no acesso vascular Foram notificados como estando possivelmente relacionados com o tratamento com ReFacto AF um aparecimento de um quisto num doente de 11 anos de idade e um acontecimento descrito como confusão num doente de 13 anos de idade.
+ A segurança de ReFacto AF foi avaliada em crianças e adolescentes previamente tratados (n=18, idade entre 12-16 num estudo e n=49, idade entre 7-16 num estudo de suporte). Apesar do número limitado de crianças estudadas, existe uma tendência para frequências mais elevadas de acontecimentos adversos em crianças com idades entre os 7-16 anos de idade, comparativamente com as observadas em adultos. Está a decorrer um ensaio clínico que avalia a utilização de moroctocog alfa (AF-CC) em crianças com menos de 6 anos de idade.
+ Também foram notificados os seguintes acontecimentos adversos com ReFacto: parestesias, fadiga, visão turva, acne, gastrite, gastroenterite e dor.
+ Observaram-se raramente com ReFacto reacções de hipersensibilidade ou alérgicas (as quais podem incluir angioedema, sensação de queimadura e ardor no local da perfusão, arrepios, rubor, urticária generalizada, cefaleias, urticária, hipotensão, letargia, náuseas, agitação, taquicardia, sensação de constrição pré-cordial, formigueiro, vómitos, sibilos) que poderão, em alguns casos, progredir para anafilaxia grave, incluindo o choque (ver secção 4.4).
+ Podem estar presentes no ReFacto AF quantidades vestigiais de proteínas de hamster. O desenvolvimento de anticorpos às proteínas de hamster foi observado muito raramente, sem no entanto haver sequelas clínicas. Num estudo com ReFacto, vinte dos 113 (18%) DPT tiveram um
+ 19 aumento no título de anticorpos anti-CHO, sem qualquer efeito clínico aparente.
+ Caso ocorra qualquer reacção adversa que se pense estar relacionada com a administração de ReFacto AF, a velocidade de perfusão deve ser reduzida ou a perfusão dever ser interrompida, de acordo com a resposta do doente (ver secção 4.4).
+ 4.9 Sobredosagem Não foram descritos casos de sobredosagem.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Anti-hemorrágicos: factor VIII de coagulação do sangue; código ATC: B02BD02.
+ ReFacto AF contém o factor VIII de coagulação recombinante (moroctocog alfa) com o domínio B eliminado. É uma glicoproteína com uma massa molecular aproximada de 170.000 Da composta por 1.438 aminoácidos. ReFacto AF possui características funcionais comparáveis às do factor VIII endógeno. A actividade do factor VIII é muito reduzida em doentes com hemofilia A, sendo por isso necessária a terapêutica de substituição.
+ O factor VIII, quando administrado por perfusão num doente hemofílico, liga-se ao factor de von Willebrand presente na circulação do doente.
+ O factor VIII activado actua como um co-factor para o factor IX activado, acelerando a conversão do factor X a factor X activado. Este factor X activado converte a protrombina em trombina. A trombina irá converter o fibrinogénio em fibrina, formando-se um coágulo. A hemofilia A é uma doença da coagulação sanguínea, hereditária, ligada ao sexo, causada pelos níveis diminuídos de factor VIII: C o que provoca hemorragias profusas para as articulações, músculos ou órgãos internos, as quais podem ser espontâneas ou resultantes de um traumatismo acidental ou cirúrgico. Os níveis plasmáticos de factor VIII são aumentados por terapêutica de substituição, permitindo, deste modo, uma correcção temporária da deficiência do factor e uma correcção da tendência hemorrágica.
+ 5.2 Propriedades farmacocinéticas Na tabela seguinte encontram-se enumeradas as propriedades farmacocinéticas de ReFacto, resultantes de um estudo cruzado de ReFacto e de um concentrado de factor VIII derivado do plasma, utilizando o doseamento cromogénico (ver secção 4.2), em 18 doentes previamente tratados.
+ Estimativas dos parâmetros farmacocinéticos de ReFacto em doentes com hemofilia A previamente tratados Parâmetro farmacocinético
+ Média DP Mediana AUCt (UI h/ml) t1/2 (h)
+ 19,9 14,8 4,9 5,6 19,9 12,7 CL (ml/h kg) 2,4 0,75 2,3 MRT (h) 20,2 7,4 18,0 Valor-K (aumento de factor VIII: C em UI/dl por UI/kg de factor VIII administrado)
+ 2,4 0,38 2,5 Abreviaturas: AUCt= área sob a curva de concentração plasmática-tempo desde o zero até às últimas concentrações mensuráveis; t1/2= semi-vida; CL=Depuração; MRT=tempo médio de residência;
+ 20 Valor-K=recuperação incremental; DP=desvio padrão
+ Num estudo no qual a potência de ReFacto AF, de ReFacto e a actividade do factor VIII no plasma de doentes foi medida através do doseamento com substracto cromogénico, o ReFacto AF mostrou ser bioequivalente a ReFacto. As razões entre as médias geométricas dos mínimos quadrados de ReFacto AF e de ReFacto foram de 100,6%, 99,5% e 98,1% em relação ao valor-K, AUCt e AUC∞ (área sob a curva de concentração plasmática desde o tempo zero até o infinito), respectivamente. Os intervalos de confiança de 90% correspondentes às razões de médias geométricas de ReFacto AF e ReFacto estavam dentro do intervalo de bioequivalência de 80 a 125%, demonstrando a bioequivalência de ReFacto AF e de ReFacto.
+ Num estudo cruzado de farmacocinética, os parâmetros de farmacocinética de ReFacto AF foram determinados na linha de base e após o seguimento de 25 doentes previamente tratados (≥ 12 anos) após a administração repetida de ReFacto AF durante 6 meses. As razões das médias geométricas dos mínimos quadrados entre os parâmetros farmacocinéticos no mês 6 e a linha de base foram de 107%,100% e 104%, relativamente ao valor-K, AUCt e AUC∞, respectivamente. Os intervalos de confiança de 90% correspondentes às razões entre os parâmetros farmacocinéticos no mês 6 e a linha de base estavam dentro da janela de equivalência entre 80% e 125%. Este facto indica que não existem alterações dependentes do tempo nas propriedades farmacocinéticas de ReFacto AF.
+ No mesmo estudo, no qual a potência farmacológica de ReFacto AF e de um comparador constituído por factor VIII recombinante completo (FLrFVIII), e a actividade do factor VIII medida em amostras de plasma de doentes, foram todas determinadas através de um doseamento de coagulação de uma só fase, num laboratório central, ReFacto AF mostrou ser farmacocineticamente equivalente a FLrFVIII em 30 doentes previamente tratados (≥12anos de idade), utilizando a abordagem padronizada de bioequivalência.
+ Em DPNT, os parâmetros farmacocinéticos de ReFacto foram avaliados utilizando o doseamento cromogénico. Estes doentes (n=59; mediana de idades de 10 ± 8,3 meses) tiveram um média de recuperação incremental na Semana 0 de 1,5 ± 0,6 UI/dl por UI/kg (no intervalo entre 0,2 a 2,8 UI/dl por UI/kg), a qual foi mais baixa do que a obtida em DPT com ReFacto na Semana 0 com uma média de valor-K de 2,4 ± 0,4 UI/dl por UI/kg (no intervalo entre 1,1 a 3,8 UI/dl por UI/kg). Nos DPNT, a média das recuperações incrementais foi estável no tempo (5 visitas num período de 2 anos) e variaram entre 1,5 a 1,8 UI/dl por UI/kg. A modelação da farmacocinética da população com base nos dados de 44 DPNT permitiu estimar uma média de semi-vidas de 8,0 ± 2,2 horas.
+ 5.3 Dados de segurança pré-clínica Os dados não clínicos não revelam riscos especiais para o ser humano, segundo estudos convencionais de farmacologia de segurança, toxicidade de dose repetida e genotoxicidade.
+ Não foram efectuadas investigações sobre o potencial carcinogénico e a toxicidade reprodutiva.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Pó Sacarose Cloreto de cálcio di-hidratado Histidina Polissorbato 80 Cloreto de sódio
+ 21 Solvente Cloreto de sódio Água para preparações injectáveis
+ 6.2 Incompatibilidades Na ausência de estudos de compatibilidade, este medicamento não pode ser misturado com outros medicamentos, incluindo outras soluções de perfusão.
+ Apenas deve ser utilizado o sistema de perfusão fornecido, uma vez que pode ocorrer insucesso do tratamento em consequência da adsorção do factor VIII de coagulação humana pelas superfícies internas de certos equipamentos de perfusão.
+ 6.3 Prazo de validade Frasco para injectáveis de pó fechado 2 anos. Após reconstituição A estabilidade química e física após reconstituição foi demonstrada durante 3 horas a temperaturas até 25ºC.
+ O medicamento não contém um conservante, e o medicamento reconstituído deve ser utilizado imediatamente, ou no prazo de 3 horas após a reconstituição. Outros períodos e condições de armazenamento durante a utilização são da responsabilidade do utilizador.
+ 6.4 Precauções especiais de conservação
+ Conservar e transportar refrigerado (2°C-8°C). Não congelar de modo a evitar danos na seringa pré-cheia.
+ O medicamento pode ser retirado do local de armazenamento refrigerado durante um período único máximo de 3 meses à temperatura ambiente (até 25º· C). No final deste período de conservação à temperatura ambiente, o medicamento não pode voltar a ser refrigerado, devendo ou ser utilizado ou eliminado.
+ Manter o frasco para injectáveis dentro da embalagem exterior para proteger da luz.
+ Condições de conservação do medicamento reconstituído, ver secção 6.3.
+ 6.5 Natureza e conteúdo do recipiente 500 UI de pó em frasco para injectáveis de 10 ml (vidro do tipo I) com uma rolha de borracha (butílica) e um selo não-roscado (alumínio) e 4 ml de solvente fornecido em seringa pré-cheia (vidro do tipo I) com uma rolha no êmbolo (butílica), um selo na extremidade (butílico), um adaptador para o frasco para injectáveis para a reconstituição, um sistema de perfusão estéril, compressas com álcool, adesivo e penso em gaze.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ O pó liofilizado para injectável contido no frasco para injectáveis tem de ser reconstituído com o solvente fornecido na seringa pré-cheia, solução de cloreto de sódio a 9 mg/ml (0,9%), utilizando-se para a reconstituição o adaptador para o frasco para injectáveis. O frasco para injectáveis deve ser
+ 22 rodado suavemente até que todo o pó esteja dissolvido.
+ O medicamento, após a reconstituição, contém polissorbato-80, que aumenta a taxa de extracção de di-(2-etil-hexil) ftalato (DEHP) do cloreto de polivinilo (PVC). Tal deve ser tido em consideração durante a preparação e administração do medicamento, incluindo o tempo de conservação num recipiente de PVC após a reconstituição. É importante que as recomendações dadas na secção 6.3 sejam rigorosamente seguidas.
+ Após a reconstituição, a solução é retirada para dentro da seringa. A solução será límpida ou ligeiramente opalescente e incolor. A solução deve ser eliminada se apresentar partículas visíveis ou se for observada qualquer alteração na coloração.
+ Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Wyeth Europa Ltd. Huntercombe Lane South Taplow, Maidenhead Berkshire, SL6 0PH Reino Unido
+ 8. NÚMERO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/99/103/002 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 13 de Abril de 1999 Data da última renovação: 15 de Abril de 2009
+ 10. DATA DA REVISÃO DO TEXTO Informação pormenorizada sobre este medicamento está disponível na internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu/
+ 23 1. NOME DO MEDICAMENTO
+ ReFacto AF 1000 UI pó e solvente para solução injectável.
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada frasco para injectáveis contém nominalmente 1.000 UI* de moroctocog alfa **.
+ Após a reconstituição, cada ml da solução contém aproximadamente 250 UI de moroctocog alfa.
+ * A potência (Unidades Internacionais) é determinada utilizando o doseamento cromogénico da Farmacopeia Europeia. A actividade específica do ReFacto AF é de 7. 600-13.800 UI/mg de proteína.
+ ** O factor VIII de coagulação humano é produzido por tecnologia do ADN recombinante em células do ovário do hamster chinês (CHO). O moroctocog alfa é uma glicoproteína com 1.438 aminoácidos, cuja sequência é comparável à forma 90+ 80 kDa do factor VIII (i. e. domínio B eliminado) e possui modificações pós-translacionais semelhantes às da molécula derivada do plasma.
+ O processo de fabrico de ReFacto foi modificado de modo a eliminar qualquer proteína exógena, derivada de ser humano ou de animal, do processo de cultura de células, de purificação ou da formulação final; e ao mesmo tempo o nome de fantasia foi alterado para ReFacto AF.
+ Excipientes: Após reconstituição, 1,23 mmol (29 mg) de sódio por frasco para injectáveis.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Pó e solvente para solução injectável. Pó/Aglomerado branco a esbranquiçado. Solvente límpido e incolor.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Tratamento e profilaxia da hemorragia em doentes com hemofilia A (deficiência de factor VIII congénita).
+ ReFacto AF é adequado para utilização em adultos e crianças de todas as idades, incluindo recém-nascidos.
+ ReFacto AF não contém o factor von Willebrand, e não está, portanto, indicado na doença de von Willebrand.
+ 4.2 Posologia e modo de administração O tratamento deve ser iniciado sob vigilância de um médico com experiência no tratamento da hemofilia A.
+ 24 Posologia
+ A potência que consta do rótulo do ReFacto AF baseia-se no doseamento com substrato cromogénico da Farmacopeia Europeia, no qual o padrão para aferir a potência do medicamento fabricado foi calibrado com o Padrão Internacional da OMS, através do doseamento com substrato cromogénico. Durante o tratamento com ReFacto AF, quando se monitorizam os níveis de actividade do factor VIII nos doentes, recomenda-se fortemente a utilização do doseamento com substrato cromogénico da Farmacopeia Europeia. O doseamento cromogénico produz resultados superiores aos obtidos com o doseamento de coagulação de uma só fase. Tipicamente, os resultados do doseamento de coagulação de uma só fase são 20-50% inferiores aos resultados do doseamento com substrato cromogénico. O padrão laboratorial de ReFacto AF pode ser utilizado para corrigir esta discrepância (ver secção 5.2).
+ Outro medicamento contendo moroctocog alfa, aprovado para utilização fora da Europa, possui uma potência diferente atribuída pela utilização de um padrão para aferir a potência do medicamento fabricado calibrado com o Padrão Internacional da OMS, através de um doseamento de coagulação de uma só fase; este produto identifica-se pelo nome comercial XYNTHA. Dada a diferença dos métodos utilizados para atribuir a potência dos medicamentos XYNTHA e ReFacto AF,1 UI de XYNTHA (calibrado por doseamento de uma só fase) é aproximadamente equivalente a 1,38 UI de ReFacto AF (calibrado por doseamento cromogénico). No caso de prescrever ReFacto AF a um doente que habitualmente recebe tratamento com XYNTHA, o médico assistente deve considerar um ajuste das recomendações posológicas com base nos valores de recuperação do factor VIII.
+ Com base no seu regime actual, deve recomendar-se aos indivíduos com hemofilia A para levarem consigo uma quantidade adequada de produto de factor VIII, antecipando as necessidades de tratamento em viagem. Deve recomendar-se aos doentes que consultem o seu médico antes de viajar.
+ A posologia e a duração da terapêutica de substituição dependem da gravidade da deficiência do factor VIII, da localização e da extensão da hemorragia, bem como do estado clínico do doente. As doses que se administram devem ser tituladas de acordo com a resposta clínica do doente. Na presença de um inibidor, podem ser necessárias doses mais elevadas ou um tratamento específico apropriado.
+ O número de unidades administradas de factor VIII é expresso em Unidades Internacionais (UI), as quais estão de acordo com o padrão actual da OMS para os produtos de factor VIII. A actividade do factor VIII no plasma é expressa em percentagem (relativamente ao plasma humano normal) ou em Unidades Internacionais (relativamente ao Padrão Internacional para o factor VIII no plasma). Uma Unidade Internacional (UI) de actividade do factor VIII é equivalente à quantidade de factor VIII num ml de plasma humano normal. O cálculo da dose necessária de factor VIII baseia-se no dado empírico de que 1 Unidade Internacional (UI) de factor VIII por kg de peso corporal aumenta a actividade do factor VIII no plasma em 2 UI/dl. A dose necessária é determinada utilizando a seguinte fórmula:
+ Unidades necessárias (UI)= peso corporal (kg) x aumento desejado do factor VIII (% ou UI/dl) x 0,5 (UI/kg por UI/dl), onde 0,5 UI/kg por UI/dl representa o recíproco da recuperação incremental geralmente observada após as perfusões de factor VIII.
+ A quantidade a administrar e a frequência de administração devem ser sempre orientadas para a efectividade clínica individual.
+ Nas seguintes situações hemorrágicas, a actividade do factor VIII não deve diminuir para valores inferiores aos níveis plasmáticos (em% relativamente ao normal ou em UI/dl) no período correspondente. A tabela seguinte pode ser utilizada para servir de orientação para a dose a administrar em episódios hemorrágicos e durante a cirurgia:
+ 25 Grau de hemorragia/Tipo de procedimento cirúrgico
+ Nível de factor VIII necessário (% ou UI/dl)
+ Frequência das doses (horas)/Duração da terapêutica (dias)
+ Hemorragia Hemartrose precoce, hemorragia muscular ou hemorragia oral
+ 20-40 Repetir cada 12-24 horas. Pelo menos 1 dia, até resolução do episódio hemorrágico, indicada pelo desaparecimento da dor, ou até à cicatrização.
+ Hemartrose mais extensa, hemorragia muscular ou hematoma
+ 30-60 Repetir a perfusão cada 12-24 horas, durante 3-4 dias ou mais até resolução da dor e incapacidade aguda.
+ Repetir a perfusão cada 8-24 horas, até Hemorragias que coloquem a vida em perigo
+ 60-100 resolução da ameaça.
+ Cirurgia “ Minor ” incluindo extracção dentária
+ 30-60 Cada 24 horas, durante pelo menos 1 dia, até à cicatrização.
+ “ Major ”
+ 80-100 (pré-e pós-operatória)
+ Repetir a perfusão cada 8-24 horas até cicatrização adequada da ferida, seguida de terapêutica durante pelo menos mais 7 dias de modo a manter a actividade do factor VIII em 30% a 60% (UI/dl).
+ No decurso do tratamento, recomenda-se a determinação adequada dos níveis de factor VIII para servir de orientação para a dose a administrar e a frequência das sucessivas perfusões. Principalmente no caso das grandes cirurgias, é indispensável a realização de uma monitorização precisa da terapêutica de substituição através da análise de coagulação (actividade do factor VIII plasmático). A resposta ao factor VIII pode variar individualmente, atingindo diferentes níveis de recuperação in vivo e demonstrando semi-vidas diferentes.
+ Para uma profilaxia a longo prazo contra a hemorragia em doentes com hemofilia A grave, as doses habituais são de 20 a 40 UI do factor VIII por kg de peso corporal, com intervalos de 2 a 3 dias. Em alguns casos, especialmente em doentes mais jovens, poderão ser necessários intervalos mais curtos entre as administrações ou doses mais elevadas.
+ Os doentes que recebem terapêutica de substituição com factor VIII devem ser monitorizados de maneira a determinar se desenvolvem inibidores do factor VIII. Se os níveis plasmáticos de actividade do factor VIII esperados não forem atingidos ou se a hemorragia não for controlada com uma dose adequada, deverá efectuar-se uma análise para determinar a presença de inibidores do factor VIII. Dados de ensaios clínicos indicaram que no caso da presença de inibidores em níveis inferiores a 10 Unidades Bethesda (UB), a administração adicional de factor anti-hemofílico poderá neutralizar os inibidores. Em doentes com níveis de inibidores acima de 10 UB, a terapêutica com factor VIII poderá não ser efectiva, pelo que deverão ser consideradas outras opções terapêuticas. O controlo destes doentes deve ser efectuado por médicos com experiência no tratamento de doentes com hemofilia (ver secção 4.4).
+ 26 Populações especiais
+ Compromisso renal ou hepático O ajuste posológico em doentes com compromisso renal ou hepático não foi estudado em ensaios clínicos.
+ Doentes pediátricos Foram efectuados estudos de segurança e eficácia com ReFacto, em crianças e adolescentes previamente tratados (n=31, idades 8-18 anos) e em recém-nascidos, lactentes e crianças que não foram previamente tratados (n=101, idades &lt; 1-52 meses).
+ Deve ser antecipada a necessidade de aumentar a dose de ReFacto AF a utilizar no tratamento de crianças mais novas relativamente à dose utilizada para tratamento de adultos e crianças mais velhas. Num estudo efectuado com ReFacto em crianças com menos de 6 anos de idade, a análise farmacocinética revelou que a semi-vida e a recuperação foram inferiores às observadas em crianças mais velhas e adultos (ver secção 5.2). Durante os ensaios clínicos, para as crianças com menos de 6 anos de idade em regime profiláctico foi utilizada uma dose média de 50 UI/kg de ReFacto, tendo ocorrido em média 6,1 episódios de hemorragia por ano. Nas crianças mais velhas e adultos em regime profiláctico foi utilizada uma dose média de 27 UI/kg tendo ocorrido, em média,10 episódios hemorrágicos por ano. Em ambiente de ensaio clínico a dose média de ReFacto administrado por perfusão para episódios hemorrágicos a crianças com menos de 6 anos de idade foi superior à dose média administrada a crianças mais velhas e adultos (51,3 UI/kg e 29,3 UI/kg, respectivamente).
+ Modo de administração ReFacto AF é administrado por injecção intravenosa durante vários minutos após reconstituição do pó liofilizado injectável com a solução injectável de cloreto de sódio a 9 mg/ml (0,9%) (fornecida). A velocidade de administração deve ser determinada pelo grau de conforto do doente.
+ Recomenda-se que seja prestada formação apropriada aos indivíduos que administrem o medicamento que não sejam profissionais de saúde.
+ No interesse dos doentes, recomenda-se que, sempre que for utilizado ReFacto AF, sejam registados o nome e o número de lote do medicamento.
+ Para instruções de reconstituição antes da administração, ver secção 6.6.
+ 4.3 Contra-indicações Hipersensibilidade à substância activa ou a qualquer um dos excipientes.
+ Hipersensibilidade a proteínas de hamster.
+ 4.4 Advertências e precauções especiais de utilização
+ Tal como acontece com qualquer medicamento de origem proteica de administração intravenosa, são possíveis reacções de hipersensibilidade de tipo alérgico. O medicamento contém vestígios de proteínas de hamster. Os doentes devem ser informados dos sinais precoces de reacções de hipersensibilidade (incluindo urticária, urticária generalizada, sensação de constrição pré-cordial, sibilos, hipotensão) e anafilaxia. Caso ocorram reacções alérgicas ou anafilácticas, a administração de ReFacto AF deve ser imediatamente interrompida e instituir-se um tratamento adequado. Em caso de choque, devem instituir-se os procedimentos médicos padrão para o tratamento do choque. Os doentes devem ser aconselhados a interromper a utilização do medicamento e contactar o seu médico ou dirigir-se de imediato a um serviço de urgência, dependendo do tipo e intensidade da reacção, caso surja algum destes sintomas.
+ 27 A formação de anticorpos neutralizantes (inibidores) do factor VIII é uma complicação conhecida no tratamento de doentes com hemofilia A. Estes inibidores são geralmente imunoglobulinas IgG dirigidas contra a actividade pró-coagulante do factor VIII, as quais são quantificadas em Unidades Bethesda (UB) por ml de plasma, utilizando a versão modificada por Nijmegen do doseamento de Bethesda. O risco de desenvolver inibidores está correlacionado com a exposição ao factor VIII e é maior nos primeiros 20 dias de exposição. Foi observada a presença de inibidores em doentes previamente tratados a receber produtos com factor VIII, incluindo ReFacto AF. Foram observados casos de recorrência de inibidores (título baixo), após mudança de um produto de factor VIII recombinante para outro, em doentes previamente tratados com mais de 100 dias de exposição e com história de desenvolvimento de inibidor. Nos doentes tratados com factor VIII de coagulação recombinante deve ser feita uma monitorização cuidadosa do desenvolvimento de inibidores através de observações clínicas e exames laboratoriais adequados (ver secção 4.8).
+ Foi notificada ausência de efeito, principalmente em doentes em profilaxia, nos ensaios clínicos e após comercialização de ReFacto. Esta ausência de efeito de ReFacto foi descrita como a ocorrência de hemorragias nas articulações alvo, hemorragia em novas articulações, ou sensação subjectiva por parte do doente da ocorrência de novas hemorragias. Quando se prescreve ReFacto AF é importante estabelecer individualmente e monitorizar o nível de factor para cada doente de modo a assegurar uma resposta terapêutica adequada.
+ No interesse da segurança dos doentes, recomenda-se que seja feito um registo do nome do medicamento e número de lote em cada administração do Refacto AF. Os doentes podem afixar um dos rótulos destacáveis do frasco para injectáveis no seu diário para documentar o número de lote ou para notificar quaisquer efeitos secundários.
+ Após a reconstituição este medicamento contém 1,23 mmol (29 mg) de sódio por frasco para injectáveis. Este facto deve ser tido em consideração em doentes com ingestão controlada de sódio.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Não foram realizados estudos de interacção.
+ 4.6 Gravidez e aleitamento Não foram realizados estudos de reprodução em animais com o factor VIII. Devido à ocorrência rara de hemofilia A em mulheres, não existe experiência relativa à utilização de factor VIII durante a gravidez e aleitamento. Assim, o factor VIII só deve ser utilizado durante a gravidez e aleitamento se claramente indicado.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas.
+ 4.8 Efeitos indesejáveis Inibição do Factor VIII A ocorrência de anticorpos neutralizantes (inibidores) do factor VIII é uma complicação bem conhecida do tratamento de doentes com hemofilia A. Tal como com todos os produtos de factor VIII de coagulação, os doentes devem ser monitorizados para o desenvolvimento de inibidores, os quais são quantificados em Unidades Bethesda (UB) utilizando a versão modificada por Nijmegen do doseamento de Bethesda. Se ocorrerem estes inibidores, o problema pode manifestar-se por uma resposta clínica insuficiente. Neste caso, recomenda-se que seja contactado um centro especializado no tratamento da hemofilia.
+ 28 Num estudo clínico com ReFacto AF realizado em doentes previamente tratados (DPT), a incidência de inibidores do factor VIII foi o objectivo primário de segurança. Foram observados dois casos de inibidores transitórios de título baixo e clinicamente silenciosos em 94 doentes com uma exposição mediana de 76 dias de exposição (DE, intervalo entre 1-92), correspondendo a 2,2% dos 89 doentes com pelo menos 50 DE. Num estudo de suporte de ReFacto AF, foram observados 1 inibidor de novo e 2 inibidores recorrentes (todos de título baixo, determinação em laboratório central) em 110 doentes; exposição mediana de 58 DE (intervalo entre 5-140) e 98 doentes tiveram pelo menos 50 DE a Refacto AF. Noventa e oito (98) dos 110 doentes originais continuaram o tratamento num segundo estudo de suporte e tiverem uma exposição prolongada subsequente a ReFacto AF, com uma mediana de 169 DE adicionais (intervalo entre 9-425). Foi observado um (1) inibidor adicional de novo de título baixo. A frequência de inibidores observada nestes estudos está de acordo com o intervalo esperado.
+ Num estudo clínico com ReFacto em DPT, observou-se 1 inibidor entre 113 doentes. Além disso, houve notificações espontâneas pós-comercialização de títulos elevados de inibidores envolvendo doentes previamente tratados.
+ Não há dados clínicos em doentes previamente não tratados (DPNT) com Refacto AF. Contudo, estão planeados ensaios clínicos em doentes previamente não tratados (DPNT) com Refacto AF. Num ensaio clínico,32 em 101 (32%) doentes previamente não tratados (DPNT) desenvolveram inibidores durante o tratamento com ReFacto: 16 em 101 (16%) com um título &gt; 5 UB e 16 em 101 (16%) com um título ≤ 5 UB. O número mediano de dias de exposição até ao desenvolvimento de inibidores, nestes doentes, foi 12 dias (intervalo entre 3-49). Dos 16 doentes com títulos elevados,15 receberam tratamento de tolerância imunitária (TI). Dos 16 doentes com títulos baixos,10 iniciaram tratamento TI. A TI foi eficaz em 73% dos doentes com títulos elevados e em 90% dos doentes com títulos baixos. O número mediano de dias de exposição nos 101 DPNT, independentemente do desenvolvimento de inibidores, foi de 197 dias (entre 1-1.299 dias).
+ Apresentam-se na tabela abaixo as reacções adversas com base na experiência obtida nos ensaios clínicos com ReFacto ou ReFacto AF, por classes de sistemas de órgãos. Estas frequências foram estimadas por doente e são descritas usando as seguintes categorias: muito frequentes (≥1/10); frequentes (≥1/100 a &lt; 1/10); e pouco frequentes (&gt; 1/1.000 a &lt; 1/100).
+ Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ Frequência de Ocorrência por Doente com ReFacto ou ReFacto AF
+ Classes de Sistemas de Muito frequentes Frequentes Pouco frequentes Órgãos (≥1/10)
+ (≥1/100 a &lt; 1/10)
+ (≥1/1,000 a &lt; 1/100)
+ Doenças do sangue e do sistema linfático
+ Inibidores do factor VIII-DPNT
+ Inibidores do factor VIII-DPT Doenças do metabolismo e da nutrição
+ Anorexia Doenças do sistema nervoso Cardiopatias
+ Cefaleias Neuropatia, tonturas, sonolência, disguesia Angina pectoris, taquicardia, palpitações
+ Vasculopatias Hemorragia/Hematoma Hipotensão, tromboflebite, vasodilatação, rubor
+ 29 Frequência de Ocorrência por Doente com ReFacto ou ReFacto AF
+ Classes de Sistemas de Muito frequentes Frequentes Pouco frequentes Órgãos (≥1/10)
+ (≥1/100 a &lt; 1/10)
+ (≥1/1,000 a &lt; 1/100)
+ Doenças respiratórias, torácicas e do mediastino
+ Dispneia, tosse Doenças gastrointestinais
+ Vómitos Náuseas Dor abdominal, diarreia Afecções dos tecidos cutâneos e subcutâneos
+ Urticária, prurido, erupção cutânea, hiperidrose
+ Afecções musculosqueléticas e dos tecidos conjuntivos
+ Artralgias Mialgias Perturbações gerais e alterações no local de administração
+ Astenia, pirexia Arrepios/sensação de frio, inflamação no local da injecção, reacção no local da injecção, dor no local da injecção
+ Exames complementares de diagnóstico
+ Aspartato aminotransferase aumentada, alanina aminotransferase aumentada, bilirrubina sanguínea aumentada, creatina fosfoquinase aumentada
+ Procedimentos cirúrgicos e médicos
+ Complicações no acesso vascular Foram notificados como estando possivelmente relacionados com o tratamento com ReFacto AF um aparecimento de um quisto num doente de 11 anos de idade e um acontecimento descrito como confusão num doente de 13 anos de idade.
+ A segurança de ReFacto AF foi avaliada em crianças e adolescentes previamente tratados (n=18, idade entre 12-16 num estudo e n=49, idade entre 7-16 num estudo de suporte). Apesar do número limitado de crianças estudadas, existe uma tendência para frequências mais elevadas de acontecimentos adversos em crianças com idades entre os 7-16 anos de idade, comparativamente com as observadas em adultos. Está a decorrer um ensaio clínico que avalia a utilização de moroctocog alfa (AF-CC) em crianças com menos de 6 anos de idade.
+ Também foram notificados os seguintes acontecimentos adversos com ReFacto: parestesias, fadiga, visão turva, acne, gastrite, gastroenterite e dor.
+ Observaram-se raramente com ReFacto reacções de hipersensibilidade ou alérgicas (as quais podem incluir angioedema, sensação de queimadura e ardor no local da perfusão, arrepios, rubor, urticária generalizada, cefaleias, urticária, hipotensão, letargia, náuseas, agitação, taquicardia, sensação de constrição pré-cordial, formigueiro, vómitos, sibilos) que poderão, em alguns casos, progredir para anafilaxia grave, incluindo o choque (ver secção 4.4).
+ Podem estar presentes no ReFacto AF quantidades vestigiais de proteínas de hamster. O desenvolvimento de anticorpos às proteínas de hamster foi observado muito raramente, sem no entanto haver sequelas clínicas. Num estudo com ReFacto, vinte dos 113 (18%) DPT tiveram um
+ 30 aumento no título de anticorpos anti-CHO, sem qualquer efeito clínico aparente.
+ Caso ocorra qualquer reacção adversa que se pense estar relacionada com a administração de ReFacto AF, a velocidade de perfusão deve ser reduzida ou a perfusão dever ser interrompida, de acordo com a resposta do doente (ver secção 4.4).
+ 4.9 Sobredosagem Não foram descritos casos de sobredosagem.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Anti-hemorrágicos: factor VIII de coagulação do sangue; código ATC: B02BD02.
+ ReFacto AF contém o factor VIII de coagulação recombinante (moroctocog alfa) com o domínio B eliminado. É uma glicoproteína com uma massa molecular aproximada de 170.000 Da composta por 1.438 aminoácidos. ReFacto AF possui características funcionais comparáveis às do factor VIII endógeno. A actividade do factor VIII é muito reduzida em doentes com hemofilia A, sendo por isso necessária a terapêutica de substituição.
+ O factor VIII, quando administrado por perfusão num doente hemofílico, liga-se ao factor de von Willebrand presente na circulação do doente.
+ O factor VIII activado actua como um co-factor para o factor IX activado, acelerando a conversão do factor X a factor X activado. Este factor X activado converte a protrombina em trombina. A trombina irá converter o fibrinogénio em fibrina, formando-se um coágulo. A hemofilia A é uma doença da coagulação sanguínea, hereditária, ligada ao sexo, causada pelos níveis diminuídos de factor VIII: C o que provoca hemorragias profusas para as articulações, músculos ou órgãos internos, as quais podem ser espontâneas ou resultantes de um traumatismo acidental ou cirúrgico. Os níveis plasmáticos de factor VIII são aumentados por terapêutica de substituição, permitindo, deste modo, uma correcção temporária da deficiência do factor e uma correcção da tendência hemorrágica.
+ 5.2 Propriedades farmacocinéticas Na tabela seguinte encontram-se enumeradas as propriedades farmacocinéticas de ReFacto, resultantes de um estudo cruzado de ReFacto e de um concentrado de factor VIII derivado do plasma, utilizando o doseamento cromogénico (ver secção 4.2), em 18 doentes previamente tratados.
+ Estimativas dos parâmetros farmacocinéticos de ReFacto em doentes com hemofilia A previamente tratados Parâmetro farmacocinético
+ Média DP Mediana AUCt (UI h/ml) t1/2 (h) CL (ml/h kg) MRT (h) Valor-K (aumento de factor VIII: C em UI/dl por UI/kg de factor VIII administrado)
+ 19,9 14,8 2,4 20,2 2,4
+ 4,9 5,6 0,75 7,4 0,38
+ 19,9 12,7 2,3 18,0 2,5 Abreviaturas: AUCt= área sob a curva de concentração plasmática-tempo desde o zero até às últimas concentrações mensuráveis; t1/2= semi-vida; CL=Depuração; MRT=tempo médio de residência;
+ 31 Valor-K=recuperação incremental; DP=desvio padrão
+ Num estudo no qual a potência de ReFacto AF, de ReFacto e a actividade do factor VIII no plasma de doentes foi medida através do doseamento com substracto cromogénico, o ReFacto AF mostrou ser bioequivalente a ReFacto. As razões entre as médias geométricas dos mínimos quadrados de ReFacto AF e de ReFacto foram de 100,6%, 99,5% e 98,1% em relação ao valor-K, AUCt e AUC∞ (área sob a curva de concentração plasmática desde o tempo zero até o infinito), respectivamente. Os intervalos de confiança de 90% correspondentes às razões de médias geométricas de ReFacto AF e ReFacto estavam dentro do intervalo de bioequivalência de 80 a 125%, demonstrando a bioequivalência de ReFacto AF e de ReFacto.
+ Num estudo cruzado de farmacocinética, os parâmetros de farmacocinética de ReFacto AF foram determinados na linha de base e após o seguimento de 25 doentes previamente tratados (≥ 12 anos) após a administração repetida de ReFacto AF durante 6 meses. As razões das médias geométricas dos mínimos quadrados entre os parâmetros farmacocinéticos no mês 6 e a linha de base foram de 107%,100% e 104%, relativamente ao valor-K, AUCt e AUC∞, respectivamente. Os intervalos de confiança de 90% correspondentes às razões entre os parâmetros farmacocinéticos no mês 6 e a linha de base estavam dentro da janela de equivalência entre 80% e 125%. Este facto indica que não existem alterações dependentes do tempo nas propriedades farmacocinéticas de ReFacto AF.
+ No mesmo estudo, no qual a potência farmacológica de ReFacto AF e de um comparador constituído por factor VIII recombinante completo (FLrFVIII), e a actividade do factor VIII medida em amostras de plasma de doentes, foram todas determinadas através de um doseamento de coagulação de uma só fase, num laboratório central, ReFacto AF mostrou ser farmacocineticamente equivalente a FLrFVIII em 30 doentes previamente tratados (≥12anos de idade), utilizando a abordagem padronizada de bioequivalência.
+ Em DPNT, os parâmetros farmacocinéticos de ReFacto foram avaliados utilizando o doseamento cromogénico. Estes doentes (n=59; mediana de idades de 10 ± 8,3 meses) tiveram um média de recuperação incremental na Semana 0 de 1,5 ± 0,6 UI/dl por UI/kg (no intervalo entre 0,2 a 2,8 UI/dl por UI/kg), a qual foi mais baixa do que a obtida em DPT com ReFacto na Semana 0 com uma média de valor-K de 2,4 ± 0,4 UI/dl por UI/kg (no intervalo entre 1,1 a 3,8 UI/dl por UI/kg). Nos DPNT, a média das recuperações incrementais foi estável no tempo (5 visitas num período de 2 anos) e variaram entre 1,5 a 1,8 UI/dl por UI/kg. A modelação da farmacocinética da população com base nos dados de 44 DPNT permitiu estimar uma média de semi-vidas de 8,0 ± 2,2 horas.
+ 5.3 Dados de segurança pré-clínica Os dados não clínicos não revelam riscos especiais para o ser humano, segundo estudos convencionais de farmacologia de segurança, toxicidade de dose repetida e genotoxicidade.
+ Não foram efectuadas investigações sobre o potencial carcinogénico e a toxicidade reprodutiva.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Pó Sacarose Cloreto de cálcio di-hidratado Histidina Polissorbato 80 Cloreto de sódio
+ 32 Solvente Cloreto de sódio Água para preparações injectáveis
+ 6.2 Incompatibilidades Na ausência de estudos de compatibilidade, este medicamento não pode ser misturado com outros medicamentos, incluindo outras soluções de perfusão.
+ Apenas deve ser utilizado o sistema de perfusão fornecido, uma vez que pode ocorrer insucesso do tratamento em consequência da adsorção do factor VIII de coagulação humana pelas superfícies internas de certos equipamentos de perfusão.
+ 6.3 Prazo de validade Frasco para injectáveis de pó fechado 2 anos. Após reconstituição A estabilidade química e física após reconstituição foi demonstrada durante 3 horas a temperaturas até 25ºC.
+ O medicamento não contém um conservante, e o medicamento reconstituído deve ser utilizado imediatamente, ou no prazo de 3 horas após a reconstituição. Outros períodos e condições de armazenamento durante a utilização são da responsabilidade do utilizador.
+ 6.4 Precauções especiais de conservação
+ Conservar e transportar refrigerado (2°C-8°C). Não congelar de modo a evitar danos na seringa pré-cheia.
+ O medicamento pode ser retirado do local de armazenamento refrigerado durante um período único máximo de 3 meses à temperatura ambiente (até 25º· C). No final deste período de conservação à temperatura ambiente, o medicamento não pode voltar a ser refrigerado, devendo ou ser utilizado ou eliminado.
+ Manter o frasco para injectáveis dentro da embalagem exterior para proteger da luz.
+ Condições de conservação do medicamento reconstituído, ver secção 6.3.
+ 6.5 Natureza e conteúdo do recipiente 1.000 UI de pó em frasco para injectáveis de 10 ml (vidro do tipo I) com uma rolha de borracha (butílica) e um selo não-roscado (alumínio) e 4 ml de solvente fornecido em seringa pré-cheia (vidro do tipo I) com uma rolha no êmbolo (butílica), um selo na extremidade (butílico), um adaptador para o frasco para injectáveis para a reconstituição, um sistema de perfusão estéril, compressas com álcool, adesivo e penso em gaze.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ O pó liofilizado para injectável contido no frasco para injectáveis tem de ser reconstituído com o solvente fornecido na seringa pré-cheia, solução de cloreto de sódio a 9 mg/ml (0,9%), utilizando-se para a reconstituição o adaptador para o frasco para injectáveis. O frasco para injectáveis deve ser
+ 33 rodado suavemente até que todo o pó esteja dissolvido.
+ O medicamento, após a reconstituição, contém polissorbato-80, que aumenta a taxa de extracção de di-(2-etil-hexil) ftalato (DEHP) do cloreto de polivinilo (PVC). Tal deve ser tido em consideração durante a preparação e administração do medicamento, incluindo o tempo de conservação num recipiente de PVC após a reconstituição. É importante que as recomendações dadas na secção 6.3 sejam rigorosamente seguidas.
+ Após a reconstituição, a solução é retirada para dentro da seringa. A solução será límpida ou ligeiramente opalescente e incolor. A solução deve ser eliminada se apresentar partículas visíveis ou se for observada qualquer alteração na coloração.
+ Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Wyeth Europa Ltd. Huntercombe Lane South Taplow, Maidenhead Berkshire, SL6 0PH Reino Unido
+ 8. NÚMERO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/99/103/003 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 13 de Abril de 1999 Data da última renovação: 15 de Abril de 2009
+ 10. DATA DA REVISÃO DO TEXTO Informação pormenorizada sobre este medicamento está disponível na internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu/
+ 34 1. NOME DO MEDICAMENTO
+ ReFacto AF 2000 UI pó e solvente para solução injectável.
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada frasco para injectáveis contém nominalmente 2.000 UI* de moroctocog alfa **.
+ Após a reconstituição, cada ml da solução contém aproximadamente 500 UI de moroctocog alfa.
+ * A potência (Unidades Internacionais) é determinada utilizando o doseamento cromogénico da Farmacopeia Europeia. A actividade específica do ReFacto AF é de 7. 600-13.800 UI/mg de proteína.
+ ** O factor VIII de coagulação humano é produzido por tecnologia do ADN recombinante em células do ovário do hamster chinês (CHO). O moroctocog alfa é uma glicoproteína com 1.438 aminoácidos, cuja sequência é comparável à forma 90+ 80 kDa do factor VIII (i. e. domínio B eliminado) e possui modificações pós-translacionais semelhantes às da molécula derivada do plasma.
+ O processo de fabrico de ReFacto foi modificado de modo a eliminar qualquer proteína exógena, derivada de ser humano ou de animal, do processo de cultura de células, de purificação ou da formulação final; e ao mesmo tempo o nome de fantasia foi alterado para ReFacto AF.
+ Excipientes: Após reconstituição, 1,23 mmol (29 mg) de sódio por frasco para injectáveis.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Pó e solvente para solução injectável. Pó/Aglomerado branco a esbranquiçado. Solvente límpido e incolor.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Tratamento e profilaxia da hemorragia em doentes com hemofilia A (deficiência de factor VIII congénita).
+ ReFacto AF é adequado para utilização em adultos e crianças de todas as idades, incluindo recém-nascidos.
+ ReFacto AF não contém o factor von Willebrand, e não está, portanto, indicado na doença de von Willebrand.
+ 4.2 Posologia e modo de administração O tratamento deve ser iniciado sob vigilância de um médico com experiência no tratamento da hemofilia A.
+ 35 Posologia
+ A potência que consta do rótulo do ReFacto AF baseia-se no doseamento com substrato cromogénico da Farmacopeia Europeia, no qual o padrão para aferir a potência do medicamento fabricado foi calibrado com o Padrão Internacional da OMS, através do doseamento com substrato cromogénico. Durante o tratamento com ReFacto AF, quando se monitorizam os níveis de actividade do factor VIII nos doentes, recomenda-se fortemente a utilização do doseamento com substrato cromogénico da Farmacopeia Europeia. O doseamento cromogénico produz resultados superiores aos obtidos com o doseamento de coagulação de uma só fase. Tipicamente, os resultados do doseamento de coagulação de uma só fase são 20-50% inferiores aos resultados do doseamento com substrato cromogénico. O padrão laboratorial de ReFacto AF pode ser utilizado para corrigir esta discrepância (ver secção 5.2).
+ Outro medicamento contendo moroctocog alfa, aprovado para utilização fora da Europa, possui uma potência diferente atribuída pela utilização de um padrão para aferir a potência do medicamento fabricado calibrado com o Padrão Internacional da OMS, através de um doseamento de coagulação de uma só fase; este produto identifica-se pelo nome comercial XYNTHA. Dada a diferença dos métodos utilizados para atribuir a potência dos medicamentos XYNTHA e ReFacto AF,1 UI de XYNTHA (calibrado por doseamento de uma só fase) é aproximadamente equivalente a 1,38 UI de ReFacto AF (calibrado por doseamento cromogénico). No caso de prescrever ReFacto AF a um doente que habitualmente recebe tratamento com XYNTHA, o médico assistente deve considerar um ajuste das recomendações posológicas com base nos valores de recuperação do factor VIII.
+ Com base no seu regime actual, deve recomendar-se aos indivíduos com hemofilia A para levarem consigo uma quantidade adequada de produto de factor VIII, antecipando as necessidades de tratamento em viagem. Deve recomendar-se aos doentes que consultem o seu médico antes de viajar.
+ A posologia e a duração da terapêutica de substituição dependem da gravidade da deficiência do factor VIII, da localização e da extensão da hemorragia, bem como do estado clínico do doente. As doses que se administram devem ser tituladas de acordo com a resposta clínica do doente. Na presença de um inibidor, podem ser necessárias doses mais elevadas ou um tratamento específico apropriado.
+ O número de unidades administradas de factor VIII é expresso em Unidades Internacionais (UI), as quais estão de acordo com o padrão actual da OMS para os produtos de factor VIII. A actividade do factor VIII no plasma é expressa em percentagem (relativamente ao plasma humano normal) ou em Unidades Internacionais (relativamente ao Padrão Internacional para o factor VIII no plasma). Uma Unidade Internacional (UI) de actividade do factor VIII é equivalente à quantidade de factor VIII num ml de plasma humano normal. O cálculo da dose necessária de factor VIII baseia-se no dado empírico de que 1 Unidade Internacional (UI) de factor VIII por kg de peso corporal aumenta a actividade do factor VIII no plasma em 2 UI/dl. A dose necessária é determinada utilizando a seguinte fórmula:
+ Unidades necessárias (UI)= peso corporal (kg) x aumento desejado do factor VIII (% ou UI/dl) x 0,5 (UI/kg por UI/dl), onde 0,5 UI/kg por UI/dl representa o recíproco da recuperação incremental geralmente observada após as perfusões de factor VIII.
+ A quantidade a administrar e a frequência de administração devem ser sempre orientadas para a efectividade clínica individual.
+ Nas seguintes situações hemorrágicas, a actividade do factor VIII não deve diminuir para valores inferiores aos níveis plasmáticos (em% relativamente ao normal ou em UI/dl) no período correspondente. A tabela seguinte pode ser utilizada para servir de orientação para a dose a administrar em episódios hemorrágicos e durante a cirurgia:
+ 36 Grau de hemorragia/Tipo de procedimento cirúrgico
+ Nível de factor VIII necessário (% ou UI/dl)
+ Frequência das doses (horas)/Duração da terapêutica (dias)
+ Hemorragia Hemartrose precoce, hemorragia muscular ou hemorragia oral
+ 20-40 Repetir cada 12-24 horas. Pelo menos 1 dia, até resolução do episódio hemorrágico, indicada pelo desaparecimento da dor, ou até à cicatrização.
+ Hemartrose mais extensa, hemorragia muscular ou hematoma
+ 30-60 Repetir a perfusão cada 12-24 horas, durante 3-4 dias ou mais até resolução da dor e incapacidade aguda.
+ Hemorragias que coloquem a vida em perigo
+ 60-100 Repetir a perfusão cada 8-24 horas, até resolução da ameaça.
+ Cirurgia “ Minor ” incluindo extracção dentária
+ 30-60 Cada 24 horas, durante pelo menos 1 dia, até à cicatrização.
+ “ Major ”
+ 80-100 (pré-e pós-operatória)
+ Repetir a perfusão cada 8-24 horas até cicatrização adequada da ferida, seguida de terapêutica durante pelo menos mais 7 dias de modo a manter a actividade do factor VIII em 30% a 60% (UI/dl).
+ No decurso do tratamento, recomenda-se a determinação adequada dos níveis de factor VIII para servir de orientação para a dose a administrar e a frequência das sucessivas perfusões. Principalmente no caso das grandes cirurgias, é indispensável a realização de uma monitorização precisa da terapêutica de substituição através da análise de coagulação (actividade do factor VIII plasmático). A resposta ao factor VIII pode variar individualmente, atingindo diferentes níveis de recuperação in vivo e demonstrando semi-vidas diferentes.
+ Para uma profilaxia a longo prazo contra a hemorragia em doentes com hemofilia A grave, as doses habituais são de 20 a 40 UI do factor VIII por kg de peso corporal, com intervalos de 2 a 3 dias. Em alguns casos, especialmente em doentes mais jovens, poderão ser necessários intervalos mais curtos entre as administrações ou doses mais elevadas.
+ Os doentes que recebem terapêutica de substituição com factor VIII devem ser monitorizados de maneira a determinar se desenvolvem inibidores do factor VIII. Se os níveis plasmáticos de actividade do factor VIII esperados não forem atingidos ou se a hemorragia não for controlada com uma dose adequada, deverá efectuar-se uma análise para determinar a presença de inibidores do factor VIII. Dados de ensaios clínicos indicaram que no caso da presença de inibidores em níveis inferiores a 10 Unidades Bethesda (UB), a administração adicional de factor anti-hemofílico poderá neutralizar os inibidores. Em doentes com níveis de inibidores acima de 10 UB, a terapêutica com factor VIII poderá não ser efectiva, pelo que deverão ser consideradas outras opções terapêuticas. O controlo destes doentes deve ser efectuado por médicos com experiência no tratamento de doentes com hemofilia (ver secção 4.4).
+ 37 Populações especiais
+ Compromisso renal ou hepático O ajuste posológico em doentes com compromisso renal ou hepático não foi estudado em ensaios clínicos.
+ Doentes pediátricos Foram efectuados estudos de segurança e eficácia com ReFacto, em crianças e adolescentes previamente tratados (n=31, idades 8-18 anos) e em recém-nascidos, lactentes e crianças que não foram previamente tratados (n=101, idades &lt; 1-52 meses).
+ Deve ser antecipada a necessidade de aumentar a dose de ReFacto AF a utilizar no tratamento de crianças mais novas relativamente à dose utilizada para tratamento de adultos e crianças mais velhas. Num estudo efectuado com ReFacto em crianças com menos de 6 anos de idade, a análise farmacocinética revelou que a semi-vida e a recuperação foram inferiores às observadas em crianças mais velhas e adultos (ver secção 5.2). Durante os ensaios clínicos, para as crianças com menos de 6 anos de idade em regime profiláctico foi utilizada uma dose média de 50 UI/kg de ReFacto, tendo ocorrido em média 6,1 episódios de hemorragia por ano. Nas crianças mais velhas e adultos em regime profiláctico foi utilizada uma dose média de 27 UI/kg tendo ocorrido, em média,10 episódios hemorrágicos por ano. Em ambiente de ensaio clínico a dose média de ReFacto administrado por perfusão para episódios hemorrágicos a crianças com menos de 6 anos de idade foi superior à dose média administrada a crianças mais velhas e adultos (51,3 UI/kg e 29,3 UI/kg, respectivamente).
+ Modo de administração ReFacto AF é administrado por injecção intravenosa durante vários minutos após reconstituição do pó liofilizado injectável com a solução injectável de cloreto de sódio a 9 mg/ml (0,9%) (fornecida). A velocidade de administração deve ser determinada pelo grau de conforto do doente.
+ Recomenda-se que seja prestada formação apropriada aos indivíduos que administrem o medicamento que não sejam profissionais de saúde.
+ No interesse dos doentes, recomenda-se que, sempre que for utilizado ReFacto AF, sejam registados o nome e o número de lote do medicamento.
+ Para instruções de reconstituição antes da administração, ver secção 6.6.
+ 4.3 Contra-indicações Hipersensibilidade à substância activa ou a qualquer um dos excipientes.
+ Hipersensibilidade a proteínas de hamster.
+ 4.4 Advertências e precauções especiais de utilização
+ Tal como acontece com qualquer medicamento de origem proteica de administração intravenosa, são possíveis reacções de hipersensibilidade de tipo alérgico. O medicamento contém vestígios de proteínas de hamster. Os doentes devem ser informados dos sinais precoces de reacções de hipersensibilidade (incluindo urticária, urticária generalizada, sensação de constrição pré-cordial, sibilos, hipotensão) e anafilaxia. Caso ocorram reacções alérgicas ou anafilácticas, a administração de ReFacto AF deve ser imediatamente interrompida e instituir-se um tratamento adequado. Em caso de choque, devem instituir-se os procedimentos médicos padrão para o tratamento do choque. Os doentes devem ser aconselhados a interromper a utilização do medicamento e contactar o seu médico ou dirigir-se de imediato a um serviço de urgência, dependendo do tipo e intensidade da reacção, caso surja algum destes sintomas.
+ 38 A formação de anticorpos neutralizantes (inibidores) do factor VIII é uma complicação conhecida no tratamento de doentes com hemofilia A. Estes inibidores são geralmente imunoglobulinas IgG dirigidas contra a actividade pró-coagulante do factor VIII, as quais são quantificadas em Unidades Bethesda (UB) por ml de plasma, utilizando a versão modificada por Nijmegen do doseamento de Bethesda. O risco de desenvolver inibidores está correlacionado com a exposição ao factor VIII e é maior nos primeiros 20 dias de exposição. Foi observada a presença de inibidores em doentes previamente tratados a receber produtos com factor VIII, incluindo ReFacto AF. Foram observados casos de recorrência de inibidores (título baixo), após mudança de um produto de factor VIII recombinante para outro, em doentes previamente tratados com mais de 100 dias de exposição e com história de desenvolvimento de inibidor. Nos doentes tratados com factor VIII de coagulação recombinante deve ser feita uma monitorização cuidadosa do desenvolvimento de inibidores através de observações clínicas e exames laboratoriais adequados (ver secção 4.8).
+ Foi notificada ausência de efeito, principalmente em doentes em profilaxia, nos ensaios clínicos e após comercialização de ReFacto. Esta ausência de efeito de ReFacto foi descrita como a ocorrência de hemorragias nas articulações alvo, hemorragia em novas articulações, ou sensação subjectiva por parte do doente da ocorrência de novas hemorragias. Quando se prescreve ReFacto AF é importante estabelecer individualmente e monitorizar o nível de factor para cada doente de modo a assegurar uma resposta terapêutica adequada.
+ No interesse da segurança dos doentes, recomenda-se que seja feito um registo do nome do medicamento e número de lote em cada administração do Refacto AF. Os doentes podem afixar um dos rótulos destacáveis do frasco para injectáveis no seu diário para documentar o número de lote ou para notificar quaisquer efeitos secundários.
+ Após a reconstituição este medicamento contém 1,23 mmol (29 mg) de sódio por frasco para injectáveis. Este facto deve ser tido em consideração em doentes com ingestão controlada de sódio.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Não foram realizados estudos de interacção.
+ 4.6 Gravidez e aleitamento Não foram realizados estudos de reprodução em animais com o factor VIII. Devido à ocorrência rara de hemofilia A em mulheres, não existe experiência relativa à utilização de factor VIII durante a gravidez e aleitamento. Assim, o factor VIII só deve ser utilizado durante a gravidez e aleitamento se claramente indicado.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas.
+ 4.8 Efeitos indesejáveis Inibição do Factor VIII A ocorrência de anticorpos neutralizantes (inibidores) do factor VIII é uma complicação bem conhecida do tratamento de doentes com hemofilia A. Tal como com todos os produtos de factor VIII de coagulação, os doentes devem ser monitorizados para o desenvolvimento de inibidores, os quais são quantificados em Unidades Bethesda (UB) utilizando a versão modificada por Nijmegen do doseamento de Bethesda. Se ocorrerem estes inibidores, o problema pode manifestar-se por uma resposta clínica insuficiente. Neste caso, recomenda-se que seja contactado um centro especializado no tratamento da hemofilia.
+ 39 Num estudo clínico com ReFacto AF realizado em doentes previamente tratados (DPT), a incidência de inibidores do factor VIII foi o objectivo primário de segurança. Foram observados dois casos de inibidores transitórios de título baixo e clinicamente silenciosos em 94 doentes com uma exposição mediana de 76 dias de exposição (DE, intervalo entre 1-92), correspondendo a 2,2% dos 89 doentes com pelo menos 50 DE. Num estudo de suporte de ReFacto AF, foram observados 1 inibidor de novo e 2 inibidores recorrentes (todos de título baixo, determinação em laboratório central) em 110 doentes; exposição mediana de 58 DE (intervalo entre 5-140) e 98 doentes tiveram pelo menos 50 DE a Refacto AF. Noventa e oito (98) dos 110 doentes originais continuaram o tratamento num segundo estudo de suporte e tiverem uma exposição prolongada subsequente a ReFacto AF, com uma mediana de 169 DE adicionais (intervalo entre 9-425). Foi observado um (1) inibidor adicional de novo de título baixo. A frequência de inibidores observada nestes estudos está de acordo com o intervalo esperado.
+ Num estudo clínico com ReFacto em DPT, observou-se 1 inibidor entre 113 doentes. Além disso, houve notificações espontâneas pós-comercialização de títulos elevados de inibidores envolvendo doentes previamente tratados.
+ Não há dados clínicos em doentes previamente não tratados (DPNT) com Refacto AF. Contudo, estão planeados ensaios clínicos em doentes previamente não tratados (DPNT) com Refacto AF. Num ensaio clínico,32 em 101 (32%) doentes previamente não tratados (DPNT) desenvolveram inibidores durante o tratamento com ReFacto: 16 em 101 (16%) com um título &gt; 5 UB e 16 em 101 (16%) com um título ≤ 5 UB. O número mediano de dias de exposição até ao desenvolvimento de inibidores, nestes doentes, foi 12 dias (intervalo entre 3-49). Dos 16 doentes com títulos elevados,15 receberam tratamento de tolerância imunitária (TI). Dos 16 doentes com títulos baixos,10 iniciaram tratamento TI. A TI foi eficaz em 73% dos doentes com títulos elevados e em 90% dos doentes com títulos baixos. O número mediano de dias de exposição nos 101 DPNT, independentemente do desenvolvimento de inibidores, foi de 197 dias (entre 1-1.299 dias).
+ Apresentam-se na tabela abaixo as reacções adversas com base na experiência obtida nos ensaios clínicos com ReFacto ou ReFacto AF, por classes de sistemas de órgãos. Estas frequências foram estimadas por doente e são descritas usando as seguintes categorias: muito frequentes (≥1/10); frequentes (≥1/100 a &lt; 1/10); e pouco frequentes (&gt; 1/1.000 a &lt; 1/100).
+ Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ Frequência de Ocorrência por Doente com ReFacto ou ReFacto AF
+ Classes de Sistemas de Muito frequentes Frequentes Pouco frequentes Órgãos (≥1/10)
+ (≥1/100 a &lt; 1/10)
+ (≥1/1,000 a &lt; 1/100)
+ Doenças do sangue e do sistema linfático
+ Inibidores do factor VIII-DPNT
+ Inibidores do factor VIII-DPT Doenças do metabolismo e da nutrição
+ Anorexia Doenças do sistema nervoso Cardiopatias
+ Cefaleias Neuropatia, tonturas, sonolência, disguesia Angina pectoris, taquicardia, palpitações
+ Vasculopatias Hemorragia/Hematoma Hipotensão, tromboflebite, vasodilatação, rubor
+ 40 Frequência de Ocorrência por Doente com ReFacto ou ReFacto AF
+ Classes de Sistemas de Muito frequentes Frequentes Pouco frequentes Órgãos (≥1/10)
+ (≥1/100 a &lt; 1/10)
+ (≥1/1,000 a &lt; 1/100)
+ Doenças respiratórias, torácicas e do mediastino
+ Dispneia, tosse Doenças gastrointestinais
+ Vómitos Náuseas Dor abdominal, diarreia Afecções dos tecidos cutâneos e subcutâneos
+ Urticária, prurido, erupção cutânea, hiperidrose
+ Afecções musculosqueléticas e dos tecidos conjuntivos
+ Artralgias Mialgias Perturbações gerais e alterações no local de administração
+ Astenia, pirexia Arrepios/sensação de frio, inflamação no local da injecção, reacção no local da injecção, dor no local da injecção
+ Exames complementares de diagnóstico
+ Aspartato aminotransferase aumentada, alanina aminotransferase aumentada, bilirrubina sanguínea aumentada, creatina fosfoquinase aumentada
+ Procedimentos cirúrgicos e médicos
+ Complicações no acesso vascular Foram notificados como estando possivelmente relacionados com o tratamento com ReFacto AF um aparecimento de um quisto num doente de 11 anos de idade e um acontecimento descrito como confusão num doente de 13 anos de idade.
+ A segurança de ReFacto AF foi avaliada em crianças e adolescentes previamente tratados (n=18, idade entre 12-16 num estudo e n=49, idade entre 7-16 num estudo de suporte). Apesar do número limitado de crianças estudadas, existe uma tendência para frequências mais elevadas de acontecimentos adversos em crianças com idades entre os 7-16 anos de idade, comparativamente com as observadas em adultos. Está a decorrer um ensaio clínico que avalia a utilização de moroctocog alfa (AF-CC) em crianças com menos de 6 anos de idade.
+ Também foram notificados os seguintes acontecimentos adversos com ReFacto: parestesias, fadiga, visão turva, acne, gastrite, gastroenterite e dor.
+ Observaram-se raramente com ReFacto reacções de hipersensibilidade ou alérgicas (as quais podem incluir angioedema, sensação de queimadura e ardor no local da perfusão, arrepios, rubor, urticária generalizada, cefaleias, urticária, hipotensão, letargia, náuseas, agitação, taquicardia, sensação de constrição pré-cordial, formigueiro, vómitos, sibilos) que poderão, em alguns casos, progredir para anafilaxia grave, incluindo o choque (ver secção 4.4).
+ Podem estar presentes no ReFacto AF quantidades vestigiais de proteínas de hamster. O desenvolvimento de anticorpos às proteínas de hamster foi observado muito raramente, sem no entanto haver sequelas clínicas. Num estudo com ReFacto, vinte dos 113 (18%) DPT tiveram um
+ 41 aumento no título de anticorpos anti-CHO, sem qualquer efeito clínico aparente.
+ Caso ocorra qualquer reacção adversa que se pense estar relacionada com a administração de ReFacto AF, a velocidade de perfusão deve ser reduzida ou a perfusão dever ser interrompida, de acordo com a resposta do doente (ver secção 4.4).
+ 4.9 Sobredosagem Não foram descritos casos de sobredosagem.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Anti-hemorrágicos: factor VIII de coagulação do sangue; código ATC: B02BD02.
+ ReFacto AF contém o factor VIII de coagulação recombinante (moroctocog alfa) com o domínio B eliminado. É uma glicoproteína com uma massa molecular aproximada de 170.000 Da composta por 1.438 aminoácidos. ReFacto AF possui características funcionais comparáveis às do factor VIII endógeno. A actividade do factor VIII é muito reduzida em doentes com hemofilia A, sendo por isso necessária a terapêutica de substituição.
+ O factor VIII, quando administrado por perfusão num doente hemofílico, liga-se ao factor de von Willebrand presente na circulação do doente.
+ O factor VIII activado actua como um co-factor para o factor IX activado, acelerando a conversão do factor X a factor X activado. Este factor X activado converte a protrombina em trombina. A trombina irá converter o fibrinogénio em fibrina, formando-se um coágulo. A hemofilia A é uma doença da coagulação sanguínea, hereditária, ligada ao sexo, causada pelos níveis diminuídos de factor VIII: C o que provoca hemorragias profusas para as articulações, músculos ou órgãos internos, as quais podem ser espontâneas ou resultantes de um traumatismo acidental ou cirúrgico. Os níveis plasmáticos de factor VIII são aumentados por terapêutica de substituição, permitindo, deste modo, uma correcção temporária da deficiência do factor e uma correcção da tendência hemorrágica.
+ 5.2 Propriedades farmacocinéticas Na tabela seguinte encontram-se enumeradas as propriedades farmacocinéticas de ReFacto, resultantes de um estudo cruzado de ReFacto e de um concentrado de factor VIII derivado do plasma, utilizando o doseamento cromogénico (ver secção 4.2), em 18 doentes previamente tratados.
+ Estimativas dos parâmetros farmacocinéticos de ReFacto em doentes com hemofilia A previamente tratados Parâmetro farmacocinético
+ Média DP Mediana AUCt (UI h/ml) t1/2 (h)
+ 19,9 14,8 4,9 5,6 19,9 12,7 CL (ml/h kg) 2,4 0,75 2,3 MRT (h) 20,2 7,4 18,0 Valor-K (aumento de factor VIII: C em UI/dl por UI/kg de factor VIII administrado)
+ 2,4 0,38 2,5 Abreviaturas: AUCt= área sob a curva de concentração plasmática-tempo desde o zero até às últimas concentrações mensuráveis; t1/2= semi-vida; CL=Depuração; MRT=tempo médio de residência;
+ 42 Valor-K=recuperação incremental; DP=desvio padrão
+ Num estudo no qual a potência de ReFacto AF, de ReFacto e a actividade do factor VIII no plasma de doentes foi medida através do doseamento com substracto cromogénico, o ReFacto AF mostrou ser bioequivalente a ReFacto. As razões entre as médias geométricas dos mínimos quadrados de ReFacto AF e de ReFacto foram de 100,6%, 99,5% e 98,1% em relação ao valor-K, AUCt e AUC∞ (área sob a curva de concentração plasmática desde o tempo zero até o infinito), respectivamente. Os intervalos de confiança de 90% correspondentes às razões de médias geométricas de ReFacto AF e ReFacto estavam dentro do intervalo de bioequivalência de 80 a 125%, demonstrando a bioequivalência de ReFacto AF e de ReFacto.
+ Num estudo cruzado de farmacocinética, os parâmetros de farmacocinética de ReFacto AF foram determinados na linha de base e após o seguimento de 25 doentes previamente tratados (≥ 12 anos) após a administração repetida de ReFacto AF durante 6 meses. As razões das médias geométricas dos mínimos quadrados entre os parâmetros farmacocinéticos no mês 6 e a linha de base foram de 107%,100% e 104%, relativamente ao valor-K, AUCt e AUC∞, respectivamente. Os intervalos de confiança de 90% correspondentes às razões entre os parâmetros farmacocinéticos no mês 6 e a linha de base estavam dentro da janela de equivalência entre 80% e 125%. Este facto indica que não existem alterações dependentes do tempo nas propriedades farmacocinéticas de ReFacto AF.
+ No mesmo estudo, no qual a potência farmacológica de ReFacto AF e de um comparador constituído por factor VIII recombinante completo (FLrFVIII), e a actividade do factor VIII medida em amostras de plasma de doentes, foram todas determinadas através de um doseamento de coagulação de uma só fase, num laboratório central, ReFacto AF mostrou ser farmacocineticamente equivalente a FLrFVIII em 30 doentes previamente tratados (≥12anos de idade), utilizando a abordagem padronizada de bioequivalência.
+ Em DPNT, os parâmetros farmacocinéticos de ReFacto foram avaliados utilizando o doseamento cromogénico. Estes doentes (n=59; mediana de idades de 10 ± 8,3 meses) tiveram um média de recuperação incremental na Semana 0 de 1,5 ± 0,6 UI/dl por UI/kg (no intervalo entre 0,2 a 2,8 UI/dl por UI/kg), a qual foi mais baixa do que a obtida em DPT com ReFacto na Semana 0 com uma média de valor-K de 2,4 ± 0,4 UI/dl por UI/kg (no intervalo entre 1,1 a 3,8 UI/dl por UI/kg). Nos DPNT, a média das recuperações incrementais foi estável no tempo (5 visitas num período de 2 anos) e variaram entre 1,5 a 1,8 UI/dl por UI/kg. A modelação da farmacocinética da população com base nos dados de 44 DPNT permitiu estimar uma média de semi-vidas de 8,0 ± 2,2 horas.
+ 5.3 Dados de segurança pré-clínica Os dados não clínicos não revelam riscos especiais para o ser humano, segundo estudos convencionais de farmacologia de segurança, toxicidade de dose repetida e genotoxicidade.
+ Não foram efectuadas investigações sobre o potencial carcinogénico e a toxicidade reprodutiva.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Pó Sacarose Cloreto de cálcio di-hidratado Histidina Polissorbato 80 Cloreto de sódio
+ 43 Solvente Cloreto de sódio Água para preparações injectáveis
+ 6.2 Incompatibilidades Na ausência de estudos de compatibilidade, este medicamento não pode ser misturado com outros medicamentos, incluindo outras soluções de perfusão.
+ Apenas deve ser utilizado o sistema de perfusão fornecido, uma vez que pode ocorrer insucesso do tratamento em consequência da adsorção do factor VIII de coagulação humana pelas superfícies internas de certos equipamentos de perfusão.
+ 6.3 Prazo de validade Frasco para injectáveis de pó fechado 2 anos. Após reconstituição A estabilidade química e física após reconstituição foi demonstrada durante 3 horas a temperaturas até 25ºC.
+ O medicamento não contém um conservante, e o medicamento reconstituído deve ser utilizado imediatamente, ou no prazo de 3 horas após a reconstituição. Outros períodos e condições de armazenamento durante a utilização são da responsabilidade do utilizador.
+ 6.4 Precauções especiais de conservação
+ Conservar e transportar refrigerado (2°C-8°C). Não congelar de modo a evitar danos na seringa pré-cheia.
+ O medicamento pode ser retirado do local de armazenamento refrigerado durante um período único máximo de 3 meses à temperatura ambiente (até 25º· C). No final deste período de conservação à temperatura ambiente, o medicamento não pode voltar a ser refrigerado, devendo ou ser utilizado ou eliminado.
+ Manter o frasco para injectáveis dentro da embalagem exterior para proteger da luz.
+ Condições de conservação do medicamento reconstituído, ver secção 6.3.
+ 6.5 Natureza e conteúdo do recipiente 2.000 UI de pó em frasco para injectáveis de 10 ml (vidro do tipo I) com uma rolha de borracha (butílica) e um selo não-roscado (alumínio) e 4 ml de solvente fornecido em seringa pré-cheia (vidro do tipo I) com uma rolha no êmbolo (butílica), um selo na extremidade (butílico), um adaptador para o frasco para injectáveis para a reconstituição, um sistema de perfusão estéril, compressas com álcool, adesivo e penso em gaze.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ O pó liofilizado para injectável contido no frasco para injectáveis tem de ser reconstituído com o solvente fornecido na seringa pré-cheia, solução de cloreto de sódio a 9 mg/ml (0,9%), utilizando-se para a reconstituição o adaptador para o frasco para injectáveis. O frasco para injectáveis deve ser
+ 44 rodado suavemente até que todo o pó esteja dissolvido.
+ O medicamento, após a reconstituição, contém polissorbato-80, que aumenta a taxa de extracção de di-(2-etil-hexil) ftalato (DEHP) do cloreto de polivinilo (PVC). Tal deve ser tido em consideração durante a preparação e administração do medicamento, incluindo o tempo de conservação num recipiente de PVC após a reconstituição. É importante que as recomendações dadas na secção 6.3 sejam rigorosamente seguidas.
+ Após a reconstituição, a solução é retirada para dentro da seringa. A solução será límpida ou ligeiramente opalescente e incolor. A solução deve ser eliminada se apresentar partículas visíveis ou se for observada qualquer alteração na coloração.
+ Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Wyeth Europa Ltd. Huntercombe Lane South Taplow, Maidenhead Berkshire, SL6 0PH Reino Unido
+ 8. NÚMERO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/99/103/004 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 13 de Abril de 1999 Data da última renovação: 15 de Abril de 2009
+ 10. DATA DA REVISÃO DO TEXTO Informação pormenorizada sobre este medicamento está disponível na internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu/
+ 45 ANEXO II
+ A. FABRICANTE DA SUBSTÂNCIA ACTIVA DE ORIGEM BIOLÓGICA E TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 46 A. FABRICANTE DA SUBSTÂNCIA ACTIVA DE ORIGEM BIOLÓGICA E TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do fabricante da substância activa de origem biológica
+ Biovitrum AB (publ) Strandbergsgatan 49 SE-11276 Estocolmo Suécia
+ Nome e endereço dos fabricantes responsáveis pela libertação do lote
+ Wyeth Farma S. A Carretera A-1 Km 23 Desvio Algete Km 1 28700 San Sebastian de los Reyes Madrid Espanha
+ Ou Wyeth Pharmaceuticals New Lane Havant Hants, PO9 2NG Reino Unido
+ O folheto informativo que acompanha o medicamento deve mencionar o nome e endereço do fabricante responsável pela libertação do lote em causa.
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento de receita médica restrita, de utilização reservada a certos meios especializados (ver anexo I: Resumo das Características do Medicamento, secção 4.2.).
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ O Titular da Autorização de Introdução no Mercado deve assegurar que todos os Profissionais de Saúde que se espera venham a prescrever/utilizar ReFacto AF, todos os laboratórios que se espera venham a monitorizar doentes a receber ReFacto AF e todas as associações de doentes Hemofílicos da UE recebem um pacote educacional, aquando da introdução do medicamento no mercado.
+ O pacote educacional deve conter o seguinte
+ • Resumo das Características do Medicamento e Folheto Informativo do Doente de ReFacto AF • Os materiais educacionais.
+ O pacote educacional dos Profissionais de Saúde deve incluir os materiais educacionais a fornecer pelos médicos prescritores aos doentes antes destes utilizarem ReFacto AF.
+ Os materiais educacionais dos Profissionais de Saúde, doentes e associações de doentes hemofílicos devem incluir os seguintes elementos principais:
+ • As diferenças principais entre ReFacto AF e ReFacto
+ • As alterações assinaladas no Resumo das Características do Medicamento e no Folheto Informativo do Doente de ReFacto AF
+ • Os aspectos visuais que distinguem as embalagens de ReFacto AF versus ReFacto
+ 47 • As instruções específicas relativas a identificação, posologia e monitorização adequadas de ReFacto AF.
+ • Que após a mudança para ReFacto AF, os doentes devem continuar a receber ReFacto AF e não devem mudar para a anterior terapêutica com ReFacto.
+ • Os riscos potenciais dos erros de medicação devido a utilização de métodos de doseamento ou de padrões laboratoriais distintos para a monitorização de doentes. Informação de que a utilização pelos laboratórios de um doseamento com substrato cromogénico é fortemente recomendada quando monitorizarem os doentes a receber ReFacto AF e de que tipicamente os resultados do doseamento de coagulação de uma só fase são 20-50% inferiores aos resultados do doseamento com substrato cromogénico.
+ • A existência de outro medicamento contendo moroctocog alfa a ser utilizado fora da Europa com uma potência diferente atribuída pela utilização de um doseamento de coagulação de uma só fase e a necessidade dos doentes levarem consigo uma quantidade adequada de ReFacto AF antecipando as necessidades de tratamento em viagem. Advertência para que os profissionais de saúde tenham em consideração a possível necessidade de ajustar as doses utilizadas por doentes normalmente tratados fora da Europa com o medicamento Xyntha.
+ • A importância de notificar as suspeitas de reacções adversas (incluindo a ocorrência de inibidores) detalhando o nome e o número de lote do medicamento utilizado. A importância de notificar erros de medicação e as suas causas e consequências.
+ • Instruções sobre o arquivo de registos, com recomendações para registar o nome e o número de lote do medicamento utilizando os rótulos destacáveis dos frascos para injectáveis.
+ • Mensagens adicionais relativas ao plano de transição para a substituição de ReFacto por ReFacto AF no(s) Estado(s) Membro(s).
+ O programa educacional destinado aos laboratórios deverá informar acerca dos elementos principais seguintes:
+ • As diferenças principais entre ReFacto AF e ReFacto
+ • Instruções específicas relativas à monitorização adequada de ReFacto AF.
+ • Os potenciais riscos de erros da medicação devido à utilização de doseamentos ou de padrões laboratoriais distintos na monitorização de doentes.
+ • Forte recomendação para se utilizar um doseamento com substrato cromogénico quando se efectuar a monitorização de doentes. Informação de que tipicamente os resultados do doseamento de coagulação de uma só fase são 20-50% inferiores aos resultados do doseamento com substrato cromogénico.
+ • O propósito do padrão laboratorial. As diferenças entre o novo padrão laboratorial para utilização com ReFacto AF e o padrão laboratorial para utilização com ReFacto e instruções sobre quando efectuar a alteração para o padrão laboratorial de ReFacto AF.
+ • Mensagens adicionais relativas ao plano de transição para substituição de ReFacto por ReFacto AF no(s) Estado(s) Membro(s).
+ O Titular da Autorização de Introdução no Mercado deve acordar com as autoridades nacionais competentes os materiais educacionais em todos os Estados Membros antes da introdução do medicamento no mercado.
+ 48 • OUTRAS CONDIÇÕES
+ Sistema de Farmacovigilância O Titular da Autorização de Introdução no Mercado tem de assegurar que o sistema de farmacovigilância, tal como descrito na versão de 5 de Dezembro de 2005 apresentada no Módulo 1. 8.1. do pedido de Autorização de Introdução no Mercado, está implementado e em funcionamento antes e enquanto o produto estiver no mercado.
+ Plano de Gestão de Risco O Titular da Autorização de Introdução no Mercado compromete-se a efectuar os estudos e as actividades de farmacovigilância adicionais detalhadas no Plano de Farmacovigilância, tal como acordado na versão 4.7 do Plano de Gestão do Risco (PGR) apresentado no Módulo 1. 8.2 do Pedido de Autorização de Introdução no Mercado, assim como todas as actualizações subsequentes do PGR acordadas pelo CHMP.
+ De acordo com a Norma Orientadora do CHMP sobre Sistemas de Gestão do Risco para medicamentos de uso humano, o PGR actualizado deve ser submetido ao mesmo tempo que o Relatório Periódico de Segurança (RPS) seguinte.
+ Além disso, deve ser submetido um PGR actualizado: • Quando for recebida nova informação que possa ter impacto nas actuais Especificações de Segurança, no Plano de Farmacovigilância ou nas actividades de minimização do risco • No período de 60 dias após ter sido atingido um objectivo importante (farmacovigilância ou minimização do risco) • A pedido da EMEA
+ Ciclo de RPS O Titular da Autorização de Introdução no Mercado deve submeter RPSs com intervalos de 6 meses durante os dois primeiros anos. Seguidamente os RPSs devem ser submetidos uma vez por ano durante os 3 anos seguintes.
+ 49 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 50 A. ROTULAGEM
+ 51 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ EMBALAGEM EXTERIOR DE REFACTO AF 1. NOME DO MEDICAMENTO ReFacto AF 250 UI pó e solvente para solução injectável Moroctocog alfa (Factor VIII de coagulação recombinante humano)
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Um frasco para injectáveis contém 250 UI de moroctocog alfa. Após a reconstituição, cada ml da solução contém aproximadamente 62,5 UI de moroctocog alfa.
+ 3. LISTA DOS EXCIPIENTES Sacarose, cloreto de cálcio di-hidratado, histidina, polissorbato 80, cloreto de sódio Consultar o folheto informativo antes de utilizar.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Pó e solvente para solução injectável Cada embalagem contém: 1 frasco para injectáveis com 250 UI de moroctocog alfa 1 seringa pré-cheia com 4 ml de Solvente estéril 1 Adaptador para o Frasco para injectáveis 1 Sistema de Perfusão Estéril 2 Compressas com Álcool 1 Adesivo 1 Gaze
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar.
+ Via intravenosa, após reconstituição. 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 52 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ Não utilizar após o prazo de validade. 8. PRAZO DE VALIDADE EXP Utilizar imediatamente ou no prazo de 3 horas após a reconstituição.
+ 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar e transportar a 2°C-8ºC. Não congelar.
+ Manter o frasco para injectáveis dentro da embalagem de origem para proteger da luz.
+ ReFacto AF pode ser guardado à temperatura ambiente (até 25ºC), por um único período máximo de 3 meses. O medicamento não pode voltar a ser refrigerado após ter sido armazenado à temperatura ambiente.
+ Data em que foi retirado do frigorífico: 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ Eliminar qualquer solução reconstituída não utilizada.
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Wyeth Europa Ltd. Huntercombe Lane South Taplow, Maidenhead Berkshire, SL6 0PH Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/99/103/001 13. NÚMERO DO LOTE Lote 53 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE ReFacto AF 250 54 INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS “ BLISTER ” OU FITAS CONTENTORAS
+ TAMPA DO TABULEIRO DE REFACTO AF 1. NOME DO MEDICAMENTO ReFacto AF 250 UI pó e solvente para solução injectável Moroctocog alfa
+ 2. NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Wyeth Europa Ltd. 3. PRAZO DE VALIDADE EXP 4. NÚMERO DO LOTE Lote 5. OUTRAS Via intravenosa Consultar o folheto informativo antes de utilizar Manter este recipiente dentro da embalagem exterior Conservar no frigorífico
+ 55 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ RÓTULO DO FRASCO PARA INJECTÁVEIS DE REFACTO AF
+ 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ ReFacto AF 250 UI pó para solução injectável Moroctocog alfa Via IV
+ 2. MODO DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar.
+ 3. PRAZO DE VALIDADE EXP 4. NÚMERO DO LOTE Lot 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 6. OUTRAS Conservar no frigorífico 56 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ RÓTULO DA SERINGA PRÉ-CHEIA DE SOLVENTE DE REFACTO AF
+ 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Solvente para ReFacto AF 2. MODO DE ADMINISTRAÇÃO Via IV, após reconstituição 3. PRAZO DE VALIDADE EXP 4. NÚMERO DO LOTE Lot 5. CONTEÚDO EM TERMOS DE PESO, VOLUME OU UNIDADE
+ Contém 4 ml de solução injectável de cloreto de sódio a 9 mg/ml (0,9%)
+ 6. OUTRAS Conservar no frigorífico 57 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ EMBALAGEM EXTERIOR DE REFACTO AF 1. NOME DO MEDICAMENTO ReFacto AF 500 UI pó e solvente para solução injectável Moroctocog alfa (Factor VIII de coagulação recombinante humano)
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Um frasco para injectáveis contém 500 UI de moroctocog alfa. Após a reconstituição, cada ml da solução contém aproximadamente 125 UI de moroctocog alfa.
+ 3. LISTA DOS EXCIPIENTES Sacarose, cloreto de cálcio di-hidratado, histidina, polissorbato 80, cloreto de sódio Consultar o folheto informativo antes de utilizar.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Pó e solvente para solução injectável Cada embalagem contém: 1 frasco para injectáveis com 500 UI de moroctocog alfa 1 seringa pré-cheia com 4 ml de Solvente estéril 1 Adaptador para o Frasco para injectáveis 1 Sistema de Perfusão Estéril 2 Compressas com Álcool 1 Adesivo 1 Gaze
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar.
+ Via intravenosa, após reconstituição. 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 58 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ Não utilizar após o prazo de validade. 8. PRAZO DE VALIDADE EXP Utilizar imediatamente ou no prazo de 3 horas após a reconstituição.
+ 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar e transportar a 2°C-8ºC. Não congelar.
+ Manter o frasco para injectáveis dentro da embalagem de origem para proteger da luz.
+ ReFacto AF pode ser guardado à temperatura ambiente (até 25ºC), por um único período máximo de 3 meses. O medicamento não pode voltar a ser refrigerado após ter sido armazenado à temperatura ambiente.
+ Data em que foi retirado do frigorífico: 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ Eliminar qualquer solução reconstituída não utilizada.
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Wyeth Europa Ltd. Huntercombe Lane South Taplow, Maidenhead Berkshire, SL6 0PH Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/99/103/002 13. NÚMERO DO LOTE Lote 59 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE ReFacto AF 500 60 INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS “ BLISTER ” OU FITAS CONTENTORAS
+ TAMPA DO TABULEIRO DE REFACTO AF 1. NOME DO MEDICAMENTO ReFacto AF 500 UI pó e solvente para solução injectável Moroctocog alfa
+ 2. NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Wyeth Europa Ltd. 3. PRAZO DE VALIDADE EXP 4. NÚMERO DO LOTE Lote 5. OUTRAS Via intravenosa Consultar o folheto informativo antes de utilizar Manter este recipiente dentro da embalagem exterior Conservar no frigorífico
+ 61 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ RÓTULO DO FRASCO PARA INJECTÁVEIS DE REFACTO AF
+ 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ ReFacto AF 500 UI pó para solução injectável Moroctocog alfa Via IV
+ 2. MODO DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar.
+ 3. PRAZO DE VALIDADE EXP 4. NÚMERO DO LOTE Lot 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 6. OUTRAS Conservar no frigorífico 62 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ EMBALAGEM EXTERIOR DE REFACTO AF 1. NOME DO MEDICAMENTO ReFacto AF 1000 UI pó e solvente para solução injectável Moroctocog alfa (Factor VIII de coagulação recombinante humano)
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Um frasco para injectáveis contém 1000 UI de moroctocog alfa. Após a reconstituição, cada ml da solução contém aproximadamente 250 UI de moroctocog alfa.
+ 3. LISTA DOS EXCIPIENTES Sacarose, cloreto de cálcio di-hidratado, histidina, polissorbato 80, cloreto de sódio Consultar o folheto informativo antes de utilizar.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Pó e solvente para solução injectável Cada embalagem contém: 1 frasco para injectáveis com 1000 UI de moroctocog alfa 1 seringa pré-cheia com 4 ml de Solvente estéril 1 Adaptador para o Frasco para injectáveis 1 Sistema de Perfusão Estéril 2 Compressas com Álcool 1 Adesivo 1 Gaze
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar.
+ Via intravenosa, após reconstituição. 63 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ Não utilizar após o prazo de validade. 8. PRAZO DE VALIDADE EXP Utilizar imediatamente ou no prazo de 3 horas após a reconstituição.
+ 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Conservar e transportar a 2°C-8ºC. Não congelar.
+ Manter o frasco para injectáveis dentro da embalagem de origem para proteger da luz.
+ ReFacto AF pode ser guardado à temperatura ambiente (até 25ºC), por um único período máximo de 3 meses. O medicamento não pode voltar a ser refrigerado após ter sido armazenado à temperatura ambiente.
+ Data em que foi retirado do frigorífico: 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ Eliminar qualquer solução reconstituída não utilizada.
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Wyeth Europa Ltd. Huntercombe Lane South Taplow, Maidenhead Berkshire, SL6 0PH Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/99/103/003 64 13. NÚMERO DO LOTE
+ Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE ReFacto AF 1000 65 INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS “ BLISTER ” OU FITAS CONTENTORAS
+ TAMPA DO TABULEIRO DE REFACTO AF 1. NOME DO MEDICAMENTO ReFacto AF 1000 UI pó e solvente para solução injectável Moroctocog alfa
+ 2. NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Wyeth Europa Ltd. 3. PRAZO DE VALIDADE EXP 4. NÚMERO DO LOTE Lote 5. OUTRAS Via intravenosa Consultar o folheto informativo antes de utilizar Manter este recipiente dentro da embalagem exterior Conservar no frigorífico
+ 66 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ RÓTULO DO FRASCO PARA INJECTÁVEIS DE REFACTO AF
+ 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ ReFacto AF 1000 UI pó para solução injectável Moroctocog alfa Via IV
+ 2. MODO DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar.
+ 3. PRAZO DE VALIDADE EXP 4. NÚMERO DO LOTE Lot 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 6. OUTRAS Conservar no frigorífico 67 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ EMBALAGEM EXTERIOR DE REFACTO AF 1. NOME DO MEDICAMENTO ReFacto AF 2000 UI pó e solvente para solução injectável Moroctocog alfa (Factor VIII de coagulação recombinante humano)
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIAS(S) ACTIVA(S)
+ Um frasco para injectáveis contém 2000 UI de moroctocog alfa. Após a reconstituição, cada ml da solução contém aproximadamente 500 UI de moroctocog alfa.
+ 3. LISTA DOS EXCIPIENTES Sacarose, cloreto de cálcio di-hidratado, histidina, polissorbato 80, cloreto de sódio Consultar o folheto informativo antes de utilizar.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Pó e solvente para solução injectável Cada embalagem contém: 1 frasco para injectáveis com 2000 UI de moroctocog alfa 1 seringa pré-cheia com 4 ml de Solvente estéril 1 Adaptador para o Frasco para injectáveis 1 Sistema de Perfusão Estéril 2 Compressas com Álcool 1 Adesivo 1 Gaze
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar. Via intravenosa, após reconstituição.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 68 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ Não utilizar após o prazo de validade. 8. PRAZO DE VALIDADE EXP Utilizar imediatamente ou no prazo de 3 horas após a reconstituição.
+ 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar e transportar a 2°C-8ºC. Não congelar.
+ Manter o frasco para injectáveis dentro da embalagem de origem para proteger da luz.
+ ReFacto AF pode ser guardado à temperatura ambiente (até 25ºC), por um único período máximo de 3 meses. O medicamento não pode voltar a ser refrigerado após ter sido armazenado à temperatura ambiente.
+ Data em que foi retirado do frigorífico: 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ Eliminar qualquer solução reconstituída não utilizada.
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Wyeth Europa Ltd. Huntercombe Lane South Taplow, Maidenhead Berkshire, SL6 0PH Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/99/103/004 13. NÚMERO DO LOTE Lote 69 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE ReFacto AF 2000 70 INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS “ BLISTER ” OU FITAS CONTENTORAS
+ TAMPA DO TABULEIRO DE REFACTO AF 1. NOME DO MEDICAMENTO ReFacto AF 2000 UI pó e solvente para solução injectável Moroctocog alfa
+ 2. NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Wyeth Europa Ltd. 3. PRAZO DE VALIDADE EXP 4. NÚMERO DO LOTE Lote 5. OUTRAS Via intravenosa Consultar o folheto informativo antes de utilizar Manter este recipiente dentro da embalagem exterior Conservar no frigorífico
+ 71 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ RÓTULO DO FRASCO PARA INJECTÁVEIS DE REFACTO AF
+ 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ ReFacto AF 2000 UI pó para solução injectável Moroctocog alfa Via IV
+ 2. MODO DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar.
+ 3. PRAZO DE VALIDADE EXP 4. NÚMERO DO LOTE Lot 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 6. OUTRAS Conservar no frigorífico 72 B. FOLHETO INFORMATIVO
+ 73 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ ReFacto AF 250 UI pó e solvente para solução injectável ReFacto AF 500 UI pó e solvente para solução injectável ReFacto AF 1000 UI pó e solvente para solução injectável ReFacto AF 2000 UI pó e solvente para solução injectável Moroctocog alfa (factor VIII de coagulação recombinante humano)
+ Leia atentamente este folheto antes de utilizar este medicamento.
+ − Conserve este folheto. Pode ter necessidade de o reler. − Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico. − Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes prejudicial mesmo que apresentem os mesmos sintomas. − Se está preocupado com quaisquer efeitos secundários ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é ReFacto AF e para que é utilizado 2. Antes de utilizar ReFacto AF 3. Como utilizar ReFacto AF 4. Efeitos secundários possíveis 5. Como conservar ReFacto AF 6. Outras informações
+ 1. O QUE É REFACTO AF E PARA QUE É UTILIZADO
+ ReFacto AF contém a substância activa moroctocog alfa, o factor VIII de coagulação humano produzido por tecnologia do ADN recombinante. O factor VIII é necessário para que o sangue forme coágulos e para estancar as hemorragias. Nos doentes com hemofilia A (deficiência congénita de factor VIII) este factor está em falta ou não actua adequadamente.
+ ReFacto AF é utilizado para o tratamento e prevenção das hemorragias (profilaxia) em adultos e crianças de todas as idades (incluindo recém-nascidos) com hemofilia A.
+ ReFacto AF não contém o factor de von Willebrand, pelo que não está indicado na doença de von Willebrand.
+ 2. ANTES DE UTILIZAR REFACTO AF Não utilize ReFacto AF − se tem alergia (hipersensibilidade) ao moroctocog alfa ou a qualquer outro componente de ReFacto AF (apresentados na secção 6). − se tem hipersensibilidade às proteínas do hamster.
+ Se não está seguro acerca disto, fale com o seu médico.
+ Tome especial cuidado com ReFacto AF − se sentir reacções alérgicas. Alguns dos sinais de reacções alérgicas (hipersensibilidade) são dificuldade em respirar, falta de ar, inchaço, urticária, comichão, aperto no peito, respiração
+ 74 ruidosa e tensão arterial baixa. A anafilaxia é uma reacção alérgica grave que pode causar dificuldade em engolir e/ou respirar e vermelhidão ou inchaço da face e/ou mãos. Se ocorrer qualquer destes sinais, suspenda a perfusão imediatamente e contacte o seu médico ou procure de imediato um serviço de urgência. No caso de reacções alérgicas graves, deve considerar-se uma terapêutica alternativa.
+ − se a hemorragia não estancar como esperado, contacte o seu médico ou procure de imediato um serviço de urgência.
+ − se a hemorragia não for controlada adequadamente com a dose habitual. Os doentes tratados com produtos de factor VIII podem desenvolver anticorpos contra o factor VIII (também conhecidos como inibidores do factor VIII), os quais podem evitar que o produto de factor VIII actue adequadamente. Enquanto estiver a receber tratamento com ReFacto AF, deverá ser monitorizado para determinar se desenvolveu inibidores do factor VIII.
+ − se é idoso. O seu médico poderá alterar a dose.
+ Ao utilizar ReFacto AF com outros medicamentos
+ Informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica.
+ Gravidez e aleitamento Informe o seu médico se estiver grávida ou a amamentar.
+ O seu médico decidirá se ReFacto AF poderá ser utilizado durante a gravidez e aleitamento.
+ Condução de veículos e utilização de máquinas
+ Não se realizaram estudos sobre a capacidade de conduzir e utilizar máquinas.
+ Informações importantes sobre alguns componentes de ReFacto AF
+ Este medicamento contém 1,23 mmol (ou 29 mg) de sódio por frasco para injectáveis de pó quando reconstituído. Informe o seu médico se está a fazer uma dieta com restrição de sal.
+ 3. COMO UTILIZAR REFACTO AF Utilizar ReFacto AF sempre de acordo com as instruções do seu médico. Fale com o seu médico ou farmacêutico se tiver dúvidas.
+ Cabe ao seu médico decidir qual a dose de ReFacto AF que lhe irá ser administrada. Esta dose e a duração da administração dependem das suas necessidades individuais de terapêutica de substituição do factor VIII.
+ Durante o tratamento, o seu médico poderá decidir alterar a dose de ReFacto AF que lhe vai ser administrada.
+ Consulte o seu médico assistente antes de viajar. Deve levar consigo uma quantidade adequada de produto de factor VIII, antecipando as necessidades de tratamento em viagem.
+ Recomenda-se que, sempre que utilizar ReFacto AF, registe o nome do medicamento inscrito na
+ 75 cartonagem e o número de lote do medicamento. Pode afixar um dos rótulos destacáveis do frasco para injectáveis no seu diário para documentar o número de lote ou para comunicar quaisquer efeitos secundários.
+ Reconstituição e administração Os procedimentos abaixo indicados são fornecidos como orientações para a reconstituição e administração de ReFacto AF. Os doentes devem seguir os procedimentos específicos de reconstituição e administração que lhes foram fornecidos pelos seus médicos.
+ Utilize apenas a seringa pré-cheia fornecida na embalagem para a reconstituição. Outras seringas esterilizadas descartáveis poderão ser utilizadas para a administração.
+ ReFacto AF é administrado por injecção intravenosa (IV) após reconstituição do pó liofilizado para injectável com a seringa de solvente, cloreto de sódio a 9mg/ml (0,9%), fornecida. ReFacto AF não deve ser misturado com outras soluções para perfusão.
+ Lave sempre as mãos antes de efectuar os seguintes procedimentos de reconstituição e administração. Dever-se-á utilizar uma técnica asséptica (limpa e isenta de micróbios) durante o processo de reconstituição.
+ Reconstituição 1. Esperar até que o frasco para injectáveis de pó liofilizado de ReFacto AF e a seringa pré-cheia de solvente atinjam a temperatura ambiente.
+ 2. Retirar a tampa de plástico “ flip-top ” do frasco para injectáveis de ReFacto AF, a fim de expor a parte central da rolha de borracha.
+ 3. Limpar a parte de cima do frasco para injectáveis com a compressa embebida em álcool que é fornecida, ou utilizar outra solução antisséptica, e deixar secar. De seguida, não tocar na rolha de borracha com as mãos, nem permitir que esta toque em qualquer outra superfície.
+ 4. Remover a cobertura da embalagem de plástico transparente que contém o adaptador para o frasco para injectáveis. Não retirar o adaptador da embalagem.
+ 5. Colocar o frasco para injectáveis sobre uma superfície plana. Segurar a embalagem com o adaptador e colocar o adaptador na parte superior do frasco para injectáveis. Pressionar firmemente na embalagem até que o adaptador se fixe no topo do frasco para injectáveis e o perfurador do adaptador penetre na rolha do frasco para injectáveis.
+ 76 6. Retirar e rejeitar a embalagem do adaptador.
+ 7. Adaptar a haste do êmbolo à seringa de solvente inserindo o êmbolo na abertura da tampa da seringa e empurrando e rodando o êmbolo firmemente, até que fique colocado de modo seguro na tampa.
+ 8. Quebrar a tampa protectora de plástico da extremidade da seringa de solvente pela perfuração da mesma. Para tal, dobrar para cima e para baixo a tampa até que a perfuração seja quebrada. Não tocar no interior da tampa protectora nem na extremidade da seringa. A tampa protectora pode ter que ser substituída (se o ReFacto AF reconstituído não for administrado imediatamente), pelo que deve ser colocada de parte e voltada para cima.
+ 9. Colocar o frasco para injectáveis sobre uma superfície plana. Adaptar a seringa de solvente ao adaptador para o frasco para injectáveis inserindo a extremidade da seringa na abertura do adaptador, empurrando e rodando firmemente a seringa no sentido dos ponteiros do relógio até a ligação ficar segura.
+ 10. Carregar lentamente no êmbolo para injectar a totalidade do solvente para dentro do frasco para injectáveis de ReFacto AF.
+ 77 11. Ainda com a seringa ligada ao adaptador, rodar suavemente o frasco para injectáveis até que o pó se dissolva.
+ 12. Antes da administração, a solução final tem de ser inspeccionada para detectar se existem partículas. A solução deve ter um aspecto límpido a ligeiramente opalescente e incolor.
+ Nota: Se se utilizar mais do que um frasco para injectáveis de ReFacto AF por perfusão, cada frasco para injectáveis deverá ser reconstituído de acordo com as instruções acima descritas. A seringa de solvente deverá ser removida, deixando ficar o adaptador para o frasco para injectáveis, e deverá utilizar-se uma seringa única maior com fecho luer para retirar o conteúdo reconstituído de cada um dos frascos para injectáveis.
+ 13. Assegurando que o êmbolo da seringa está completamente pressionado, inverter o frasco para injectáveis. Lentamente retirar a totalidade da solução para dentro da seringa.
+ 14. Retirar a seringa do adaptador para o frasco para injectáveis, puxando lentamente e rodando a seringa no sentido contrário ao dos ponteiros do relógio. Rejeitar o frasco para injectáveis com o adaptador.
+ Nota: Se a solução não for utilizada imediatamente, a tampa protectora da seringa é recolocada cuidadosamente. Não tocar na extremidade da seringa ou no interior da tampa protectora.
+ ReFacto AF tem de ser utilizado no prazo de 3 horas após reconstituição. A solução reconstituída pode ser guardada à temperatura ambiente antes de ser administrada.
+ Administração (Injecção intravenosa): ReFacto AF deve ser administrado utilizando o sistema de perfusão estéril incluído na embalagem e a seringa pré-cheia de solvente fornecida ou uma única seringa esterilizada descartável de plástico com fecho luer.
+ 1. Introduzir a seringa na extremidade adaptadora luer da tubagem do sistema de perfusão.
+ 2. Colocar um torniquete e preparar o local da injecção limpando bem a pele com a compressa com álcool fornecida na embalagem.
+ 78 3. Inserir a agulha do sistema de perfusão na veia conforme indicado pelo seu médico, e retirar o torniquete. Remover qualquer ar da tubagem do sistema de perfusão recuando o êmbolo da seringa. O medicamento reconstituído é para ser injectado intravenosamente ao longo de vários minutos. O seu médico poderá alterar a taxa de perfusão recomendada para aumentar o grau de conforto da perfusão.
+ Rejeitar a solução não utilizada, o(s) frasco(s) para injectáveis vazio(s) e as agulhas e seringas usadas, para um recipiente próprio para resíduos perigosos uma vez que aqueles materiais podem ferir outras pessoas caso não sejam eliminados correctamente.
+ Se utilizar mais ReFacto AF do que deveria
+ Fale com o seu médico ou farmacêutico. Se parar de utilizar ReFacto AF Não interrompa a utilização de ReFacto AF sem consultar o seu médico.
+ Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou farmacêutico.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todos os medicamentos, ReFacto AF pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ Desenvolvimento de inibidores Os doentes com hemofilia A podem desenvolver anticorpos neutralizantes (inibidores) do factor VIII. Um sinal da ocorrência destes inibidores poderá ser o aumento da quantidade de ReFacto AF tipicamente necessária para estancar a hemorragia e/ou a continuação da hemorragia após o tratamento. Nestes casos, recomenda-se que seja contactado um centro especializado no tratamento da hemofilia. O seu médico poderá requerer que seja feita a monitorização do desenvolvimento de inibidores. Num estudo de investigação verificou-se a ocorrência do desenvolvimento de inibidores em aproximadamente 2% dos doentes medicados com ReFacto AF.
+ Caso verifique ser necessário aumentar significativamente a utilização de ReFacto AF de forma a controlar uma hemorragia, deve contactar imediatamente o seu médico.
+ Os efeitos secundários podem ocorrer com certas frequências, que são definidas como se segue: • muito frequentes: afectam mais do que 1 utilizador em 10 • frequentes: afectam 1 a 10 utilizadores em 100 79 • pouco frequentes: afectam 1 a 10 utilizadores em 1.000 • raros: afectam 1 a 10 utilizadores em 10.000 • muito raros: afectam menos de 1 utilizador em 10.000 • desconhecida: a frequência não pode ser estimada a partir dos dados disponíveis.
+ Efeitos secundários muito frequentes: • vómitos • desenvolvimento de inibidores em doentes sem tratamento anterior com medicamentos contendo factor VIII
+ Efeitos secundários frequentes: • hemorragias • desenvolvimento de inibidores em doentes que foram tratados anteriormente com medicamentos contendo factor VIII • dores de cabeça, náuseas • dores nas articulações, dores musculares • fadiga, febre • complicações no acesso venoso do cateter
+ Efeitos secundários pouco frequentes: • reacções alérgicas graves, tonturas, atordoamento, urticária, comichão, erupção cutânea • dores no peito, falta de ar, batimentos rápidos do coração • diarreia, falta de apetite, dores no estômago • alteração do paladar • arrepios, suor, fraqueza muscular • sonolência • tosse • reacções no local da injecção (incluindo sensação de queimadura e picadas no local da perfusão), desconforto e inchaço no local da injecção • aumento ligeiro das enzimas cardíacas • aumento das enzimas do fígado, aumento da bilirrubina
+ Foram ainda comunicadas as seguintes reacções adversas: dormência, visão enevoada, acne, gastroenterite e dor.
+ Reacções alérgicas/hipersensibilidade Se ocorrerem reacções alérgicas graves, súbitas (anafiláticas), a injecção tem de ser interrompida imediatamente. Tem de contactar o seu médico imediatamente se ocorrer qualquer um dos sintomas precoces de reacções alérgicas (hipersensibilidade): • erupção cutânea, urticária, bolhas, comichão generalizada • inchaço dos lábios e língua • difuldade em respirar, respiração ruidosa, sensação de aperto no peito • sensação de mal-estar geral • tonturas e perda de consciência
+ Os sintomas graves, tais como dificuldade em respirar e (quase) desmaio, requerem tratamento de emergência imediato.
+ Se está preocupado com quaisquer efeitos secundários, ou se detectou efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 80 5. COMO CONSERVAR REFACTO AF
+ Manter fora do alcance e da vista das crianças.
+ Não utilize ReFacto AF após o prazo de validade impresso na embalagem exterior e no rótulo do frasco para injectáveis após EXP. O prazo de validade corresponde ao último dia do mês indicado.
+ Conservar e transportar refrigerado (2°C-8°C). Não congelar, a fim de evitar danos na seringa pré-cheia de solvente.
+ Para a sua conveniência, o medicamento pode ser retirado destas condições de conservação durante um único período máximo de 3 meses à temperatura ambiente (até 25°C). No final deste período de conservação à temperatura ambiente, o medicamento não pode voltar a ser refrigerado, devendo ser ou utilizado ou eliminado. Registe na embalagem exterior de ReFacto AF a data em que foi retirado do frigorífico e colocado à temperatura ambiente (até 25°C). Manter o frasco para injectáveis dentro da embalagem exterior para proteger da luz.
+ A solução reconstituída deve ser utilizada no prazo de 3 horas.
+ A solução será límpida a ligeiramente opalescente e incolor. Não utilize ReFacto AF se verificar que a solução está turva ou contém partículas visíveis.
+ Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de ReFacto AF − A substância activa é o moroctocog alfa (factor VIII de coagulação recombinante). Cada frasco para injectáveis de ReFacto AF contém nominalmente 250,500,1000 ou 2000 UI de moroctocog alfa. − Os outros componentes são sacarose, cloreto de cálcio di-hidratado, histidina, polissorbato 80 e cloreto de sódio. O solvente para reconstituição, solução injectável de cloreto de sódio a 9 mg/ml (0,9%), é também fornecido. − Depois de reconstituído com o solvente fornecido, solução de cloreto de sódio a 9 mg/ml (0,9%), cada frasco para injectáveis contém 62,5; 125; 250; ou 500 UI de moroctocog alfa, respectivamente (com base na dosagem de moroctocog alfa i. e.,250,500,1000 ou 2000 UI), por 1 ml da solução injectável preparada.
+ Qual o aspecto de ReFacto AF e conteúdo da embalagem
+ ReFacto AF é fornecido com o pó para injectável em frasco para injectáveis de vidro e um solvente numa seringa pré-cheia.
+ A embalagem contém: − 1 frasco para injectáveis de moroctocog alfa com 250,500,1000 ou 2000 UI de pó − 1 seringa pré-cheia de solvente,4 ml de solução injectável estéril de cloreto de sódio a 9 mg/ml (0,9%) para reconstituição, com um êmbolo − 1 adaptador para o frasco para injectáveis estéril − 1 sistema de perfusão estéril − 2 compressas com álcool
+ 81 − 1 adesivo − 1 penso de gaze
+ Titular da Autorização de Introdução no Mercado
+ Wyeth Europa Ltd. Huntercombe Lane South Taplow, Maidenhead Berkshire, SL6 0PH Reino Unido
+ Fabricantes Wyeth Farma S. A Carretera A-1 Km 23 Desvio Algete Km 1 28700 San Sebastian de los Reyes Madrid Espanha
+ Ou Wyeth Pharmaceuticals New Lane Havant Hants, PO9 2NG Reino Unido
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado.
+ België/Belgique/Belgien Luxembourg/Luxemburg
+ Kύπρος Wyeth Hellas (Cyprus Branch) AEBE Wyeth Pharmaceuticals S. A./N. V. Tél/Tel: +32 10 49 47 11 Fax: +32 10 49 48 70
+ Tηλ: +357 22 817690 Φαξ: +357 22 751855 Česká Republika Wyeth Whitehall Czech s. r. o. Tel: +420 2 67 294 111 Fax: +420 2 67 294 199
+ Magyarország Wyeth Kft Tel: +36 1 453 33 30 Fax: +36 1 240 4632
+ Danmark Wyeth Danmark Tlf: +45 44 88 88 05 Fax: +45 44 88 88 06
+ Malta Vivian Corporation Ltd. Tel: +356 21344616 Fax: +356 21341087
+ Deutschland Wyeth Pharma GmbH Tel: +49 180 2 29 93 84 Fax: +49 251 204 1128
+ Nederland Wyeth Pharmaceuticals B. V. Tel: +31 23 567 2567 Fax: +31 23 567 2599
+ България/Eesti/Latvija/Lietuva/Österreich/România/Slovenija Wyeth-Lederle Pharma GmbH Teл./Tel/Tãlr: +43 1 89 1140 Факс/Faks/Fakss/Faksas/Fax:
+ Norge Wyeth Tlf: +47 40 00 2340 Fax: +47 40 00 2341
+ +43 1 89 114600
+ 82 Ελλάδα Wyeth Hellas A. E. B. E. Tηλ: +30 2 10 99 81 600 Φαξ: +30 2 10 99 21 994
+ Polska Wyeth Sp. z o. o. Tel: +48 22 457 1000 Fax: +48 22 457 1001
+ España Wyeth Farma S. A. Tel: +34 91 334 65 65 Fax: +34 91 663 65 53
+ Portugal Wyeth Lederle Portugal (Farma) Lda. Tel: +351 21 412 82 00 Fax: +351 21 412 01 11
+ France Wyeth-Pharmaceuticals France Tél: +33 1 41 02 70 00 Fax: +33 1 41 02 70 10
+ Slovenská republika Wyeth Whitehall Export GmbH, organizačná zložka Tel: +42 1 2 654 128 16 Fax: +42 1 2 654 128 17
+ Ireland Wyeth Pharmaceuticals Tel: +353 1 449 3500 Fax: +353 1 449 3522
+ Suomi/Finland Wyeth Puh/Tel: +358 20 7414 870 Fax: +358 20 7414 879
+ Ísland Icepharma hf. Tel: +354 540 8000 Fax: +354 540 8001
+ Sverige Wyeth AB Tel: +46 8 470 3200 Fax: +46 8 730 0666
+ Italia Wyeth Lederle S. p. A. Tel: +39 06 927151 Fax: +39 06 23325555
+ United Kingdom Wyeth Pharmaceuticals Tel: +44 845 367 0098 Fax: +44 845 367 0777
+ Este folheto foi aprovado pela última vez em
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu
+ 83 ANEXO IV
+ MOTIVOS PARA UMA RENOVAÇÃO ADICIONAL 84 MOTIVOS PARA UMA RENOVAÇÃO ADICIONAL
+ Com base nos dados disponibilizados desde a concessão da Autorização de Introdução no Mercado inicial, o CHMP considera que a relação benefício-risco de ReFacto AF continua a ser positiva, mas considera que o seu perfil de segurança tem de ser cuidadosamente monitorizado pelas seguintes razões:
+ • para assegurar a monitorização apropriada da introdução do novo Refacto AF no mercado • para assegurar a implementação apropriada do sistema de farmacovigilância/plano de gestão do risco
+ O CHMP decidiu que o Titular da AIM deve continuar a submeter Relatórios Periódicos de Segurança (RPSs) semestralmente.
+ Portanto, com base no perfil de segurança de Refacto AF que requer a submissão de RPS semestrais, o CHMP concluiu que o Titular da AIM deve submeter um pedido de renovação adicional dentro de 5 anos.
+ 85

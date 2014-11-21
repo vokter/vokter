@@ -1,0 +1,1147 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. NOME DO MEDICAMENTO
+ Arava 10 mg comprimidos revestidos por película
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada comprimido revestido por película contém10 mg de leflunomida e 78 mg de lactose.
+ Lista completa de excipientes, ver secção 6.1
+ 3. FORMA FARMACÊUTICA Comprimido revestido por película. Comprimidos revestidos por película redondos, brancos ou quase brancos com um diâmetro de cerca de 7 mm, gravados com ZBN num dos lados.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas A leflunomida está indicada no tratamento de doentes adultos com: • artrite reumatóide activa, como um" medicamento anti-reumático modificador da doença" (MARMD), • artrite psoriática activa.
+ O tratamento recente ou concomitante com MARMD com toxicidade hepática ou hematológica (p. ex. metotrexato) pode aumentar o risco de ocorrência de reacções adversas graves; consequentemente, o início da terapêutica com leflunomida deve ser ponderado com precaução, tendo em consideração estes aspectos de benefício/risco.
+ Para além do mais, uma mudança de tratamento para outro MARMD sem cumprir o procedimento de washout (ver secção 4.4) pode aumentar a possibilidade de riscos aditivos, mesmo durante um longo período de tempo após a alteração.
+ 4.2 Posologia e modo de administração O tratamento deverá ser iniciado e supervisionado por especialistas com experiência no tratamento de artrite reumatóide e artrite psoriática.
+ O efeito terapêutico inicia-se habitualmente após 4 a 6 semanas e a melhoria pode acentuar-se até 4 a 6 meses.
+ O Arava não é recomendado para doentes com idade inferior a 18 anos dado que a segurança e a eficácia não foram estabelecidas na artrite reumatóide juvenil (ARJ) (ver secção 5.1 e 5.2).
+ Devem ser controlados a alanina aminotransferase (ALT) (ou transaminase glutâmico pirúvica sérica SGPT) e hemograma completo, incluindo contagem de glóbulos brancos diferencial e contagem de plaquetas, de forma simultâneamente e com a mesma frequência:
+ • • •
+ antes do início do tratamento com a leflunomida, de 2 em 2 semanas durante os primeiros seis meses de tratamento, e de 8 em 8 semanas posteriormente (ver também secção 4.4)
+ Posologia 2 A terapêutica com leflunomida é iniciada com uma dose de indução de 100 mg, uma vez por dia, durante 3 dias. • A dose de manutenção recomendada para artrite reumatóide é de 10 a 20 mg, uma vez por dia. Os doentes podem iniciar a terapêutica com leflunomida com doses de 10 ou 20 mg dependendo da gravidade (actividade) da doença. • A dose de manutenção recomendada é de 20 mg uma vez por dia para os doentes com artrite psoriática (ver secção 5.1).
+ Não se recomenda ajustamento da dose em doentes com insuficiência renal ligeira.
+ Não é necessário ajustamento da posologia em doentes com idade superior a 65 anos.
+ Administração Os comprimidos de Arava devem ser tomados inteiros, com uma quantidade suficiente de líquido. A extensão da absorção de leflunomida não é afectada pela sua administração em conjunto com os alimentos.
+ 4.3 Contra-indicações • hipersensibilidade à substância activa (sobretudo na presença de antecedentes de síndrome de Stevens-Johnson, necrose epidérmica tóxica ou eritema multiforme) ou a qualquer dos excipientes,
+ • doentes com disfunção hepática,
+ • doentes com estados de imunodeficiência grave, por exemplo, com SIDA,
+ • doentes com insuficiência medular óssea significativa ou anemia, leucopénia, neutropenia ou ltrombocitopénia significativas por outras causas que não as relacionadas com a artrite reumatóide ou artrite psoriática,
+ • doentes com infecções graves (ver secção 4.4),
+ • doentes com insuficiência renal moderada a grave, dado não haver experiência clínica suficiente neste grupo de doentes,
+ • doentes com hipoproteinémia grave, por exemplo no síndrome nefrótico,
+ mulheres grávidas ou mulheres em idade fértil que não utilizam métodos contraceptivos eficazes durante o tratamento com leflunomida, e em seguida enquanto os níveis plasmáticos dos metabolitos activos estiverem acima de 0.02 mg/l (ver também secção 4.6). Deve-se verificar se já existe gravidez antes da administração de leflunomida,
+ • mulheres a amamentar (ver também secção 4.6).
+ 4.4 Advertências e precauções especiais de utilização
+ O Arava apenas deve ser administrado a doentes sob supervisão médica cuidadosa.
+ Não é aconselhável a administração concomitante de MARMDs hepatotóxicos ou hematotóxicos (p. ex. metotrexato).
+ 3 O metabolito activo da leflunomida, A771726, tem uma semi-vida longa (habitualmente 1 a 4 semanas). Podem ocorrer efeitos adversos graves (por exemplo, toxicidade hepática, toxicidade hematológica ou reacções alérgicas-ver a seguir), mesmo quando o tratamento com leflunomida é imterrompido. Consequentemente, quando este tipo de efeitos tóxicos ocorre ou, se por qualquer razão é necessário remover rapidamente do organismo o A771726, o procedimento de washout terá de ser seguido. O procedimento poderá ser repetido se clinicamente necessário. Para mais detalhes sobre os procedimentos de washout e outras medidas recomendadas em caso de gravidez desejada ou inesperada, ver a secção 4.6.
+ Reacções hepáticas Foram relatados casos raros de lesões hepáticas graves, incluindo casos com desfecho fatal, durante o tratamento com leflunomida. A maioria dos casos ocorreu durante os primeiros 6 meses de tratamento. A medicação concomitante com outros medicamentos hepatotóxicos foi observada nestes casos frequentemente. É considerado essencial uma adesão rigorosa às recomendações de monitorização.
+ A ALT (SGPT) deve ser controlada antes do início do tratamento com leflunomida e com a mesma frequência que o hemograma completo (de 2 em 2 semanas), durante os primeiros 6 meses de tratamento, e de 8 em 8 semanas posteriormente.
+ Em caso de elevações da ALT (SGPT) entre 2 a 3 vezes acima do limite superior do normal, pode considerar-se uma redução da dose de 20 mg para 10 mg e a monitorização deverá ser realizada semanalmente. Se persistirem elevações de ALT (SGPT) de mais de 2 vezes acima do limite superior do normal, ou se registarem elevações de ALT superiores a 3 vezes o limite superior do normal, a leflunomida deve ser interrompida e deve ser iniciado o procedimento de washout. É recomendável manter a monitorização das enzimas hepáticas após descontinuação do tratamento com leflunomida, até que os valores das enzimas hepáticas tenham normalizado.
+ Devido a um potencial para efeitos hepatotóxicos aditivos, recomenda-se que o consumo de álcool seja evitado durante o tratamento com leflunomida.
+ Uma vez que o metabolito activo da leflunomida, A771726 está altamente ligado às proteínas e é excretado por metabolismo hepático e secreção biliar, é de esperar que os níveis plasmáticos de A771726 estejam aumentados em doentes com hipoproteinémia. O Arava está contra-indicado em doentes com hipoproteinémia grave ou insuficiência hepática (ver secção 4.3).
+ Reacções hematológicas Antes do início do tratamento com leflunomida, e simultâneamente com a ALT deve ser efectuado um hemograma completo, incluindo a contagem diferencial dos leucócitos e plaquetas. Estas análises devem ser repetidas de 2 em 2 semanas, durante os primeiros 6 meses de terapêutica, e de 8 em 8 semanas, daí em diante.
+ Nos doentes com anemia, leucopénia e/ou trombocitopénia pré-existentes, assim como nos doentes com insuficiência da medula óssea ou nos doentes em risco de supressão medular, o risco de distúrbios hematológicos encontra-se aumentado. Se este tipo de reacção ocorrer, deve ser considerado um período de washout (ver a seguir), de modo a reduzir os níveis plasmáticos de A771726.
+ Nos casos de reacções hematológicas graves, incluindo a pancitopénia, a terapêutica com Arava ou com quaisquer outros fármacos mielossupressores deve ser interrompida, dando-se início a um procedimento de washout da leflunomida.
+ 4 Associação com outras terapêuticas
+ A utilização de leflunomida em conjunto com os antimaláricos utilizados nas doenças reumatológicas (p. ex., cloroquina e hidroxicloroquina), sais de ouro intramusculares e orais, D-penicilamina, azatioprina e outros agentes imunossupressores (com excepção do metotrexato, ver secção 4.5) não foi ainda estudada. O risco associado à terapêutica combinada, em particular nos casos de tratamento a longo prazo, é desconhecido. Uma vez que este tipo de tratamentos pode condicionar toxicidade aditiva, ou mesmo sinérgica (p. ex., toxicidade hepática ou hematológica), a associação com outros MARMD (p. ex., metotrexato) não é aconselhável.
+ É recomendada precaução quando a leflunomida é administrada em conjunto com outros medicamentos (para além dos AINE) metabolizados pelo CYP2C9, tais como a fenitoína, a varfarina, fenprocumon e a tolbutamida.
+ Alteração da terapêutica para outros medicamentos
+ Como a leflunomida persiste durante muito tempo no corpo, a mudança de tratamento para outro MARMD (p. ex., metotrexato) sem cumprir o procedimento de washout (ver a seguir) pode levantar a possibilidade de riscos adicionais mesmo durante um longo período de tempo após a mudança (i. e., interacção cinética, toxicidade orgânica).
+ Do mesmo modo, a realização recente de tratamento com medicamentos com toxicidade hepática ou hematológica (p. ex., metotrexato) pode resultar num aumento dos efeitos indesejáveis; consequentemente, o início da terapêutica com leflunomida deve ser considerado com precaução, tendo em atenção estes aspectos de benefício/risco, e recomenda-se uma monitorização mais rigorosa na fase inicial após a mudança.
+ Reacções cutâneas Em caso de estomatite ulcerosa, a administração de leflunomida deve ser interrompida.
+ Foram descritos casos muito raros de síndrome de Stevens-Johnson ou necrose epidérmica tóxica em doentes medicados com leflunomida. Logo que sejam observadas reacções cutâneas ou nas mucosas suspeitas de qualquer destas graves reacções, a terapêutica com Arava ou com quaisquer outros fármacos possivelmente associados deve ser interrompida, dando-se de imediato início a um procedimento de washout da leflunomida. Nestes casos, é essencial um washout completo e a re-exposição à leflunomida está contra-indicada (ver secção 4.3).
+ Infecções Sabe-se que os medicamentos que possuem propriedades imunosupressoras – como a leflunomida – podem provocar um aumento da susceptibilidade às infecções, incluindo infecções oportunistas. A gravidade das infecções pode ser aumentada e exigir, portanto, um tratamento precoce e enérgico. Na eventualidade de ocorrerem infecções graves e não controladas, poderá ser necessário interromper o tratamento com leflunomida e iniciar um procedimento de washout, tal como descrito a seguir. Os doentes com reacção à tuberculina devem ser cuidadosamente monitorizados, em virtude do risco de reactivação da tuberculose.
+ Reacções respiratórias Foi relatada doença pulmonar intersticial durante o tratamento com a leflunomida (ver secção 4.8). A doença pulmonar intersticial é um distúrbio potencialmente fatal, que pode ocorrer duma forma aguda durante a terapêutica. Sintomas pulmonares, tais como tosse e dispneia, podem ser justificação para descontinuar a terapêutica e além disso fazer uma investigação, como apropriado.
+ 5 Pressão arterial
+ A pressão arterial, deve ser verificada antes do início do tratamento e em seguida, periodicamente.
+ Reprodução (recomendações para os homens)
+ Os doentes do sexo masculino devem ter conhecimento de que há uma toxicidade fetal possível mediada pelos homens. Deve ser assegurada uma contracepção efectiva durante o tratamento com leflunomida.
+ Não existem dados específicos quanto ao risco de toxicidade fetal mediado pelo homem. Contudo, estudos animais para avaliar este risco específico não foram efectuados. Para minimizar qualquer possível risco, os homens que desejam ter um filho, devem considerar a interrupção da leflunomida e tomar 8 g de colestiramina 3 vezes por dia durante 11 dias ou 50 g de carvão activado em pó,4 vezes por dia durante 11 dias.
+ Em qualquer dos casos, a concentração plasmática do A771726 é então medida pela primeira vez. Em seguida, a concentração plasmática do A771726 deve ser determinada novamente após um intervalo de pelo menos 14 dias. Se ambas as concentrações plasmáticas estiverem abaixo de 0.02 mg/l, e após um período de espera de pelo menos 3 meses, o risco de toxicidade fetal é muito baixo.
+ Procedimento de washout: Deve ser administrada uma dose de 8 g de colestiramina 3 vezes por dia. Em alternativa,50 g de carvão em pó activado devem ser administrados 4 vezes por dia. A duração de um procedimento de washout completo é, habitualmente, de 11 dias. A duração do procedimento pode ser modificada, de acordo com variáveis clínicas ou laboratoriais.
+ Lactose O Arava contem lactose. Os doentes com os raros problemas hereditários de intolerância à galactose, de deficiência da lactase de Lapp ou de má absorção da glucose-galactose não devem tomar este medicamento.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Os estudos de interacção só foram efectuados em adultos.
+ Pode registar-se um aumento dos efeitos secundários nos casos de administração recente ou concomitante de medicamentos com toxicidade hepática ou hematológica, ou quando estes medicamentos são administrados após a leflunomida sem um período de washout (ver também as recomendações relativas à associação da leflunomida com outras terapêuticas, secção 4.4). Portanto, recomenda-se uma monitorização mais rigorosa das enzimas hepáticas e dos parâmetros hematológicos na fase inicial após a mudança.
+ Num pequeno estudo (n=30) usando a administração conjunta de leflunomida (10 a 20 mg por dia) e metotrexato (10 a 25 mg por semana),5 dos 30 doentes apresentaram uma elevação de 2 a 3 vezes do nível das enzimas hepáticas. Todas estas elevações desapareceram,2 com a continuação do medicamento e 3 após a interrupção da leflunomida. Aumentos superiores a 3 vezes foram observados noutros 5 doentes. Todos eles desapareceram também,2 com a continuação de ambos os medicamentos e 3 após a interrupção da leflunomida.
+ Em doentes com artrite reumatóide não foi demonstrada qualquer interacção farmacocinética entre a leflunomida (10 a 20 mg por dia) e o metotrexato (15 a 25 mg por semana).
+ 6 Recomenda-se que os doentes medicados com leflunomida não sejam tratados com colestiramina ou carvão activado em pó, uma vez que esta associação determina uma baixa rápida e significativa da concentração plasmática do A771726 (o metabolito activo da leflunomida; ver também secção 5). Supõe-se que este facto seja devido a um mecanismo de interrupção da reciclagem entero-hepática e/ou a uma diálise gastrointestinal do A771726.
+ Se o doente já estiver medicado com anti-inflamatórios não esteróides (AINE) e/ou corticosteróides, estes medicamentos podem ser continuados após o início do tratamento com leflunomida.
+ As enzimas envolvidas no metabolismo da leflunomida e dos seus metabolitos não são conhecidas com precisão. Um estudo de interacção in vivo com a cimetidina (inibidor não específico do citocrómo P450) demonstrou a ausência de uma interacção significativa. Após uma administração concomitante de uma dose única de leflunomida a indivíduos medicados com doses múltiplas de rifampicina (indutor não específico do citocrómo P450), os níveis máximos do A771726 aumentaram cerca de 40%, enquanto que a AUC não se alterou significativamente. O mecanismo deste efeito não está esclarecido.
+ Estudos in vitro indicam que o A771726 inibe a actividade do citocrómo P4502C9 (CYP2C9). Em ensaios clínicos, não foram observados problemas de segurança quando a leflunomida e AINE metabolizados pelo CYP2C9, foram administrados concomitantemente. Recomenda-se precaução quando a leflunomida é administrada em conjunto com medicamentos (para além dos AINE) metabolizados pelo CYP2C9, como a fenitoína, a varfarina, fenprocumon e a tolbutamida.
+ Num estudo em que a leflunomida foi administrada conjuntamente com uma pílula contraceptiva oral trifásica contendo 30 μg de etinilestradiol a voluntários saudáveis, não houve redução da actividade contraceptiva da pílula e a farmacocinética do A771726 esteve dentro dos limites previsíveis.
+ Vacinações Não existem dados clínicos sobre a eficácia e a segurança de vacinações em doentes recebendo leflunomida. Contudo, vacinações com vacinas vivas atenuadas não são recomendadas. A longa semi-vida da leflunomida deve ser considerada quando se encara a administração de uma vacina viva atenuada após interrupção do Arava.
+ 4.6 Gravidez e aleitamento Gravidez O metabolito activo da leflunomida, A 771726 é suspeito de causar deficiências graves nos fetos quando administrado durante a gravidez. O Arava está contraindicado durante a gravidez (ver secção 4.3).
+ As mulheres em idade fértil deverão utilizar métodos contraceptivos eficazes durante e até 2 anos após o tratamento (ver “ Período de espera ” abaixo) ou até 11 dias após o tratamento (ver “ período de washout ” abreviado abaixo).
+ A doente deve ser informada de que qualquer atraso no início do período menstrual ou qualquer outra razão que levante a suspeita de uma gravidez deve ser comunicada imediatamente ao seu médico assistente, para que se efectuem os testes de gravidez. Se estes testes forem positivos, o médico e a doente devem discutir o risco para a gravidez. É possível que a rápida redução dos níveis sanguíneos do metabolito activo, utilizando o método de eliminação do medicamento descrito abaixo, possa diminuir o risco da leflunomida para o feto.
+ Para mulheres tratadas com leflunomida e que desejam engravidar, recomenda-se um dos procedimentos seguintes, a fim de assegurar que o feto não é exposto a concentrações tóxicas de A771726 (concentrações pretendidas abaixo de 0.02 mg/l).
+ 7 Período de espera:
+ É de esperar que níveis plasmáticos de A771726 estejam acima de 0.02 mg/l por um período prolongado. Previsivelmente, a concentração desce para valores inferiores a 0.02 mg/l cerca de 2 anos após a interrupção do tratamento com leflunomida.
+ Após um período de espera de 2 anos, a concentração plasmática de A771726 é medida pela primeira vez. Em seguida, a concentração plasmática deve ser determinada novamente após um intervalo de pelo menos 14 dias. Se ambas as concentrações plasmáticas estiverem abaixo de 0.02 mg/l, não é de esperar risco teratogénico.
+ Para mais informação sobre o teste da amostra, por favor contacte o Titular da Autorização de Introdução no Mercado ou o seu representante local (ver secção 7).
+ Procedimento de washout: Após suspender o tratamento com leflunomida:
+ • administra-se uma dose de 8 g de colestiramina 3 vezes por dia durante um período de 11 dias.
+ • em alternativa,50 g de carvão em pó activado são administrados 4 vezes por dia durante um período de 11 dias.
+ Contudo, também após qualquer dos procedimentos de washout, é necessária uma confirmação, através de 2 testes separados por um intervalo de pelo menos 14 dias, e um período de espera de um mês e meio entre a primeira ocorrência de uma concentração plasmática inferior a 0.02 mg/l e a fertilização.
+ As mulheres em idade fértil devem ser informadas de que é necessário um período de espera de 2 anos após interrupção do tratamento antes de poderem engravidar. Se um período de espera até cerca de 2 anos, sob contracepção segura, não for considerado exequível, pode ser recomendável a instituição profilática de um período de washout.
+ Tanto a colestiramina como o carvão activado em pó podem influenciar a absorção de estrogénios e progestagénios; assim, uma contracepção eficaz com contraceptivos orais pode não estar assegurada durante o procedimento de washout com colestiramina e carvão em pó activado. Recomenda-se a utilização de métodos contraceptivos alternativos.
+ Aleitamento Os estudos de experimentação animal indicam que tanto a leflunomida como os seus metabolitos são excretados pelo leite materno. Consequentemente, mulheres que amamentam não devem ser tratadas com leflunomida.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Em caso de efeitos secundários, tais como tonturas, a capacidade de concentração e de reacção do doente pode ser afectada. Nestes casos, os doentes não deverão conduzir nem utilizar máquinas.
+ 8 4.8 Efeitos indesejáveis
+ Os efeitos indesejáveis notificados com maior frequência (≥ 1/100 a &lt; 1/10) com leflunomida são: aumento moderado da pressão arterial, leucopenia, parestesia, cefaleias, vertigens, diarreia, náusea, vómitos, distúrbios da mucosa oral (ex, estomatite aftosa, ulceração da boca), dor abdominal, aumento da perda de cabelo, eczema, erupção cutânea (incluindo erupção cutânea maculo-papulosa), prurido, pele seca, tenosinuvite, aumento da CPK, anorexia, perda de peso (normalmente insignificante), astenia, reacções alérgicas ligeiras e aumento dos parâmetros hepáticos (transaminases (especialmente ALT), menos frequentemente da gama-GT, fosfatase alcalina, bilirrubinas).
+ Classificação das frequências esperadas: Muito frequentes (≥1/10); frequentes (≥1/100 a &lt; 1/10); pouco frequentes (≥1/1000 a &lt; 1/100); raros (≥1/10.000 a &lt; 1/1.000); muito raros (&lt; 1/10.000), desconhecido (não pode ser calculado a partir dos dados disponíveis)
+ Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ Cardiopatias Frequentes: ligeiro aumento da pressão arterial
+ Raros: grave aumento da pressão arterial
+ Doenças do sangue e do sistema linfático Frequentes: leucopénia (leucócitos &gt; 2 G/l)
+ Pouco frequentes: anemia, trombocitopénia ligeira (plaquetas &lt; 100 G/l)
+ Raros: pancitopénia (provavelmente por mecanismo antiproliferativo), leucopénia (leucócitos &lt; 2 G/l), eosinófilia
+ Muito raros: agranulocitose
+ O uso recente, concomitante ou consecutivo de agentes potencialmente mielotóxicos pode estar associado a um risco mais elevado de efeitos hematológicos.
+ Doenças do sistema nervoso Frequentes: parestesia, cefaleia, tonturas
+ Muito raros: neuropatia periférica
+ Doenças respiratórias, torácicas e do mediastino
+ Raros: doença pulmonar intersticial (incluindo a pneumonite intersticial), que pode ser fatal
+ Doenças gastrointestinais Frequentes: diarreia, náuseas, vómitos, perturbações da mucosa oral (p. e. estomatite aftosa,
+ ulceração da boca), dores abdominais
+ Pouco frequentes: alterações do paladar Muito raros: pancreatite
+ 9 Doenças renais e urinárias Desconhecido: insuficiência renal
+ Afecções dos tecidos cutâneos e subcutâneas
+ Frequentes: aumento da perda de cabelo, eczema, erupção cutânea (incluindo erupção cutânea
+ maculopapulosa), prurido, pele seca
+ Pouco frequentes: urticária Muito raros: necrólise epidérmica tóxica, síndrome de Stevens-Johnson, eritema multiforme
+ Afecções músculo-esqueléticas e dos tecidos conjuntivos
+ Frequentes: tenosinovite
+ Pouco frequentes: ruptura de tendões Doenças do metabolismo e da nutrição Frequentes: aumento da CPK
+ Pouco frequentes: hipocaliémia, hiperlipidemia, hipofosfatemia
+ Raros: aumento das LDH
+ Desconhecido: hipouricemia.
+ Infecções e infestações Raros: infecções graves, incluindo sepsis que pode ser fatal.
+ Tal como outros agentes com potencial imunossupressor, a leflunomida pode aumentar a susceptibilidade a infecções, incluindo infecções oportunistas (ver também secção 4.4). Assim, a incidência global de infecções pode aumentar (em particular rinite, bronquite e pneumonia).
+ Neoplasias benignas, malignas e não especificadas (incl. quistos e pólipos)
+ O risco de malignidade, particularmente em distúrbios linfoproliferativos, aumenta com o uso de alguns agentes imunosupressores.
+ Perturbações gerais e alterações no local de administração
+ Frequentes: anorexia, perda de peso (normalmente insignificante), astenia
+ Doenças do sistema imunitário Frequentes: reacções alérgicas ligeiras
+ Muito raros: reacções anafilácticas/anafilactóides graves, vasculite, incluindo vasculite cutânea necrosante
+ Afecções hepatobiliares 10 Frequentes:
+ elevação dos parâmetros da função hepática (transaminases[ especialmente a
+ ALT]), menos frequentemente a gama-GT, fosfatase alcalina, bilurrubina)
+ Raros: hepatite, icterícia/colestase
+ Muito raramente: lesões hepáticas graves tais como falência hepática e necrose hepática aguda que pode ser fatal
+ Doenças dos órgãos genitais e da mama Desconhecido: diminuição marginal (reversível) na concentração de sémen, contagem total de sémen e motilidade progressiva rápida
+ Perturbações do foro psiquiátrico Pouco frequentes: ansiedade 4.9 Sobredosagem Sintomas Têm sido notificados casos crónicos de sobredosagem em doentes a tomar Arava em doses diárias até 5 vezes a dose recomendada por dia, e notificações de sobredosagem aguda em adultos e crianças. Na maioria dos casos notificados de sobredosagem não se verificou notificação de efeitos indesejáveis. Efeitos indesejáveis consistentes com o perfil de segurança da leflunomida foram: dor abdominal, náuseas, diarreia, aumento das enzimas hepáticas, anemia, leucopenia, prurido e erupção cutânea.
+ Tratamento Na eventualidade de ocorrer sobredosagem significativa ou toxicidade, recomenda-se a administração de colestiramina ou carvão activado, de modo a acelerar a eliminação do medicamento. A administração de uma dose de 8 g de colestiramina por via oral, três vezes por dia, durante 24 horas, a três voluntários saudáveis, provocou uma redução dos níveis plasmáticos de A771726 de cerca de 40% no período de 24 horas e de 49-65% em 48 horas.
+ A administração de carvão activado (pó para suspensão) por via oral ou sonda nasogástrica (50 g em intervalos de 6 horas durante 24 horas), demonstrou reduzir as concentrações plasmáticas do metabolito activo A77 1726 em 37% no período de 24 horas e em 48% no período de 48 horas. Estes procedimentos de washout podem ser repetidos nos casos em que clinicamente se justifique.
+ Estudos em hemodiálise e DPC (diálise peritoneal crónica ambulatória) indicam que o metabolito primário da leflunomida A771726, não é dializável.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: imunossupressores selectivos, código ATC: L04AA13.
+ Farmacologia humana A leflunomida é um agente anti-reumático modificador da doença com propriedades antiproliferativas.
+ 11 Farmacologia Animal
+ A leflunomida é eficaz em modelos animais de artrite e de outras doenças autoimunes e transplantes, principalmente se for utilizada durante a fase de sensibilização. Tem características imunomoduladoras/imunosupressoras, actua como agente antiproliferativo e apresenta propriedades anti-inflamatórias. A leflunomida revela os melhores efeitos protectores em modelos animais de doenças autoimunes quando administrada na fase inicial da progressão da doença. In vivo, é rápida e quase completamente metabolizada em A771726, que é activo in vitro, e se presume ser responsável pelo efeito terapêutico.
+ Modo de acção O A771726, metabolito activo da leflunomida, inibe a enzima humana dihidroorotato desidrogenase (DHODH) e apresenta actividade antiproliferativa.
+ Artrite reumatóide A eficácia do Arava no tratamento da artrite reumatóide foi demonstrada em 4 ensaios controlados (1 em fase II e 3 na fase III). No ensaio da fase II, estudo YU 203, foram aleatorizados 402 doentes com artrite reumatóide activam, para terapêutica com placebo (n=102), leflunomida 5 mg (n=95),10 mg (n=101) ou 25 mg por dia (n=104). A duração do tratamento foi de 6 meses. Todos os doentes medicados com leflunomida nos ensaios da fase III receberam uma dose inicial de 100 mg durante 3 dias. No estudo MN301 foram aleatorizados 358 doentes com artrite reumatóide activa, para terapêutica com leflunomida 20 mg/dia (n=133), sulfasalazina 2 g/dia (n=133) ou placebo (n=92). A duração do tratamento foi de 6 meses. O estudo MN303 foi uma continuação cega opcional de 6 meses do estudo MN301, sem o grupo placebo, resultando numa comparação de 12 meses entre a leflunomida e a sulfasalazina. No estudo MN302 foram aleatorizados 999 doentes com artrite reumatóide activa, para terapêutica com leflunomida 20 mg/dia (n=501) ou metotrexato 7,5 mg/semana, aumentando para 15 mg/semana (n=498). O suplemento de folatos foi opcional e usado só em 10% dos doentes. A duração do tratamento foi de 12 meses. No estudo US301 foram aleatorizados 482 doentes com artrite reumatóide activa, para terapêutica com leflunomida 20 mg/dia (n=182), metotrexato 7,5 mg/semana, aumentando para 15 mg/semana (n=182), ou placebo (n=118). Todos os doentes foram medicados com 1 mg de ácido fólico, duas vezes por dia. A duração do tratamento foi de 12 meses.
+ A leflunomida, numa dose diária de pelo menos 10 mg (10 a 25 mg no estudo YU 303,20 mg nos estudos MN301 e US301) foi superior ao placebo, com uma diferença estatisticamente significativa, na redução dos sinais e sintomas da artrite reumatóide em todos os 3 ensaios controlados por placebo. As taxas de resposta ACR (American College of Rheumatology) no estudo YU 203 foram de 27,7% no grupo placebo, 31,9% no grupo medicado com 5 mg, 50,5% no grupo medicado com 10 mg e de 54,5% no grupo tratado com 25 mg/dia. Nos ensaios de fase III, as taxas de resposta ACR para a leflunomida 20 mg/dia vs. placebo, foram de 54,6% vs. 28,6% (estudo MN301), e de 49.4% vs. 26,3% (estudo US301). Após 12 meses de tratamento activo, as taxas de resposta ACR nos doentes medicados com leflunomida foram de 52,3% (estudos MN301/303), 50.5% (estudo MN302) e 49,4% (estudo US301), comparados com 53,8% nos doentes com sulfasalazina (estudos MN301/303), e 64,8% (estudo MN302) e 43,9% nos doentes medicados com metotrexato. No estudo MN302, a leflunomida foi significativamente menos eficaz do que o metotrexato. Contudo, no estudo US301, não foram observadas diferenças significativas nos parâmetros de eficácia primária entre a leflunomida e o metotrexato. Não foi observada diferença entre a leflunomida e a sulfasalazina (estudo MN301). O efeito do tratamento com leflunomida foi evidente após 1 mês, estabilizou entre os 3 e os 6 meses e continuou durante todo o decurso do tratamento.
+ 12 Um estudo de não inferioridade aleatorizado, com dupla ocultação, de grupos paralelos comparou a eficácia relativa de duas doses de manutenção diferentes de leflunomida,10 e 20 mg. Destes resultados pode concluir-se que, em termos de eficácia a dose de manutenção de 20 mg foi mais favorável, no entanto os resultados de segurança foram mais favoráveis para a dose de manutenção de 10 mg.
+ Pediatria A leflunomida foi estudada num estudo multicêntrico, randomizado, duplamente cego, controlado em 94 doentes (47 por braço) com artrite reumatóide juvenil de evolução poliarticular. Os doentes tinham idades entre os 3 e os 17 anos, com artrite reumatóide juvenil de evolução poliarticular, independetemente do tipo de início ou doentes naive ao metotrexato ou lefluomida. Neste ensaio, a dose utilizada e de manutenção de leflunomida baseou-se em três categorias de peso: &lt; 20 kg, 20-40 kg e &gt; 40 kg. Após 16 semanas de tratamento, a diferença na taxa de resposta foi significativamente a favor do metotrexato para a Definição de Melhoria da ARJ (DOI) ≥ 30% (p=0,02). Nos doentes que responderam, esta resposta foi mantida durante 48 semanas (ver secção 4.2). O padrão de efeitos adversos de leflunomida e metotrexato parece similar, mas a dose utilizada em sujeitos de mais baixo peso resultou numa exposição relativamente baixa (ver secção 5.2). Esta informação não permite a recomendação de uma dose eficaz e segura.
+ Artrite psoriática A eficácia do Arava foi demonstrada num estudo controlado, randomisado, duplamente cego, 3L01 em 188 doentes com artrite psoriática, tratados com 20 mg/dia. A duração do tratamento foi de 6 meses.
+ A leflunomida 20 mg/dia foi significativamente superior ao placebo na redução dos sintomas da artrite em doentes com artrite psoriática: as respostas ao PsARC (Critério de Resposta ao tratamento da Artrite Psoriática) foi de 59% no grupo da leflunomida e de 29,7% no grupo placebo ao fim de 6 meses (p &lt; 0,0001). O efeito da leflunomida na melhoria da função e na redução das lesões na pele foi moderado.
+ 5.2 Propriedades farmacocinéticas A leflunomida é rapidamente convertida no metabolito activo A771726, por metabolismo de primeira passagem (abertura do anel) na parede intestinal e no fígado. Num estudo com leflunomida marcada radioactivamente com 14C, em três voluntários saudáveis, não foi detectada leflunomida inalterada no plasma, urina ou fezes. Noutros estudos, níveis plasmáticos da ordem de ng/ml de leflunomida inalterada foram raramente detectados. O único metabolito plasmático marcado radioactivamente detectado foi o A771726. Este metabolito é responsável por toda a actividade essencial in vivo do Arava.
+ Absorção Os dados da excreção do estudo com 14C indicam que pelo menos cerca de 82 a 95% da dose é absorvida. O tempo para alcançar as concentrações máximas de A771726 é muito variável, podendo ocorrer entre 1 e 24 horas após administração única. A leflunomida pode ser administrada com alimentos, dado que a extensão da absorção é comparável em jejum ou após as refeições. Devido à semi-vida muito longa do A771726 (cerca de 2 semanas), nos estudos clínicos foi usada uma dose de indução de 100 mg durante 3 dias, para facilitar o alcance rápido dos níveis de equilíbrio do A771726. Sem uma dose de indução estima-se que seriam necessários quase 2 meses de administração para atingir as concentrações plasmáticas de equilíbrio. Em estudos de doses múltiplas realizados em doentes com artrite reumatóide, os parâmetros farmacocinéticos foram lineares para um espectro de doses entre 5 e 25 mg. Nestes estudos, o efeito clínico esteve estreitamente associado com as concentrações plasmáticas de A771726 e com a dose diária de leflunomida. Para a dose de 20 mg/dia, a concentração plasmática média do A771726 no estado de equilíbrio foi cerca de 35 μg/ml. No estado
+ 13 de equilíbrio, os níveis plasmáticos acumulam-se cerca de 33 a 35 vezes, quando comparados com os da dose única.
+ Distribuição No plasma humano, A771726 é largamente ligado às proteínas (albumina). A fracção livre de A771726 é de cerca de 0,62%. A ligação do A771726 é linear dentro dos limites da concentrações terapêutica. A ligação do A771726 é ligeiramente diminuída e mais variável no plasma de doentes com artrite reumatóide ou insuficiência renal crónica. A extensa ligação do A771726 às proteínas poderia levar ao deslocamento de outros medicamentos altamente ligados. Contudo, estudos in vitro de interacção de ligação às proteínas plasmáticas com varfarina, em concentrações clinicamente relevantes, não mostraram interacção. Estudos semelhantes mostraram que o ibuprofeno e o diclofenac não deslocaram o A771726, enquanto que a fracção livre do A771726 aumenta de 2 a 3 vezes na presença de tolbutamida. O A771726 deslocou o ibuprofeno, o diclofenac e a tolbutamida, mas a fracção livre destes medicamentos só aumentou 10 a 50%. Não há indicação que estes efeitos apresentem relevância clínica. Em conformidade com a extensa ligação às proteínas, o A771726 tem um baixo volume aparente de distribuição (cerca de 11 litros). Não há captação preferencial pelos eritrócitos.
+ Metabolismo A leflunomida é metabolizada num metabolito importante (A771726 )) e muitos metabolitos menores, incluindo o TFMA (4-trifluorometilanina). A biotransformação da leflunomida em A771726 e o metabolismo subsequente do A771726 não é controlado por uma enzima única e mostrou ocorrer em fracções celulares microsómicas e citosólicas. Estudos de interacção com cimetidina (inibidor não específico do citocrómo P450) e rifampicina (indutor não específico do citocrómo P450) indicam que in vivo as enzimas CYP só estão envolvidas no metabolismo da leflunomida em pequena escala.
+ Eliminação A eliminação do A771726 é lenta e caracterizada por uma clearance aparente de cerca de 31 ml/h. A semi-vida de eliminação em doentes é de cerca de 2 semanas. Após administração de uma dose de leflunomida marcada radioactivamente, a radioactividade foi excretada igualmente nas fezes (provavelmente por eliminação biliar), e na urina. A 771726 foi ainda detectado na urina e nas fezes 36 dias após a administração única. Os metabolitos urinários principais foram produtos glucorónicos derivados da leflunomida (principalmente em amostras de 0 a 24 horas) e um ácido oxanílico derivado do A771726. O componente fecal principal foi o A771726.
+ Foi demonstrado no homem que a administração de uma suspensão oral de pó de carvão activado ou de colestiramina leva a um aumento rápido e significativo da taxa de eliminação e a uma redução das concentrações plasmáticas do A771726 (ver secção 4.9). Supõe-se que isto seja alcançado por mecanismos de diálise gastrointestinal e/ou interrupção da reciclagem entero-hepática.
+ Farmacocinética na insuficiência renal A leflunomida foi administrada numa dose oral única de 100 mg a 3 doentes hemodialisados e a 3 doentes submetidos a diálise peritoneal contínua (DPC). Com a hemodiálise, a eliminação do A771726 foi mais rápida e a sua semi vida mais curta. Os parâmetros farmacocinéticos dos 3 doentes submetidos a DPC foram consistentes com os valores obtidos em voluntários saudáveis
+ Farmacocinética na insuficiência hepática
+ Não se dispõe de dados sobre o tratamento de doentes com insuficiência hepática. O metabolito activo A771726 apresenta uma ampla ligação às proteínas e é eliminado por metabolismo hepático e por secreção biliar. Estes processos podem ser afectados pela disfunção hepática.
+ 14 Farmacocinética na pediatria
+ A farmacocinética de A771726 após a administração oral de leflunomida foi investigada em 73 doentes com artrite reumatóide juvenil de evolução poliarticular (ARJ) num intervalo de idades dos 3 aos 17 anos. O resultado da análise da farmacocinética da população nestes 3 ensaios demonstrou que doentes pediátricos com peso corporal ≤40 kg apresentam uma exposição sistémica reduzida (medida por Css) de A771726 relativamente aos doentes adultos com artrite reumatóide (ver secção 4.2).
+ Farmacocinética nos idosos Os dados farmacocinéticos nos idosos (&gt; 65 anos) são limitados mas consistentes com a farmacocinética de adultos mais jovens.
+ 5.3 Dados de segurança pré-clínica A leflunomida, administrada por via oral e intraperitoneal, foi estudada em estudos de toxicidade aguda em ratinhos e ratos. A administração oral repetida de leflunomida a ratinhos durante um período até 3 meses, a ratos e cães até 6 meses, e a macacos até 1 mês, revelou que os órgãos alvo principais para a toxicidade eram a medula óssea, o sangue, o aparelho gastrointestinal, a pele, o baço, o timo e os gânglios linfáticos. Os efeitos principais foram anemia, leucopénia, redução do número de plaquetas e panmielopatia, o que reflecte o modo de acção básico do composto (inibição de síntese do ADN). Em ratos e cães, foram encontrados corpos de Heinz e/ou Howell-Jolly. Outros efeitos encontrados no coração, fígado, córnea e aparelho respiratório podem ser explicados por infecções devido a imunossupressão. A toxicidade em animais foi observada para doses equivalentes às doses terapêuticas humanas.
+ A leflunomida não foi mutagénica. Contudo, o metabolito menor TFMA (4-trifluorometilanina) provocou clastogenicidade e mutações pontuais in vitro, sendo insuficiente a informação disponível sobre o seu potencial para exercer este efeito in vivo.
+ Num estudo de carcinogenicidade realizado no rato, não foi comprovado qualquer potencial carcinogénico da leflunomida. Num estudo de carcinogenicidade no ratinho, registou-se um aumento da incidência de linfomas malignos nos machos do grupo submetido à dose mais alta, o qual foi atribuível à actividade imunosupressora da leflunomida. No ratinho fêmea, contudo, observou-se um aumento da incidência dependente da dose de adenomas bronquíolo-alveolares e de carcinomas do pulmão. A relevância dos achados em ratinhos relativamente ao uso clínico de leflunomida é incerta.
+ A leflunomida não foi antigénica em modelos animais. A leflunomida foi embriotóxica e teratogénica em ratos e coelhos em doses dentro do espectro posológico utilizado na terapêutica humana, e exerceu efeitos adversos nos órgãos reprodutores dos machos em estudos de toxicidade com doses múltiplas. A fertilidade não foi reduzida.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Núcleo: Amido de milho povidona (E1201) crospovidona (E1202) silica coloidal anidra estearato de magnésio (E470b) lactose monohidratada.
+ Revestimento: 15 Talco (E553b) hipromelose (E 464) dióxido de titânio (E171) macrogol 8000
+ 6.2 Incompatibilidades Não aplicável. 6.3 Prazo de validade 3 anos. 6.4 Precauções especiais de conservação
+ Blister: Frasco: Manter na embalagem original. Manter o recipiente hermeticamente fechado.
+ 6.5 Natureza e conteúdo do recipiente Blister: blister de alumínio/alumínio. Tamanho das embalagens: 30 e 100 comprimidos revestidos por película.
+ Frasco: frasco de boca larga de HDPE,100 ml com tampa de rosca integrando o recipiente de exsicante. Tamanho das embalagens: 30 e 100 comprimidos revestidos por película.
+ É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ Não existem requisitos especiais. 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Sanofi-Aventis Deutschland GmbH, D-65926 Frankfurt am Main, Alemanha
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/99/118/001-004 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 02 Setembro 1999 Data da última renovação: 02 Setembro 2004
+ 10. DATA DA REVISÃO DO TEXTO 16 1. NOME DO MEDICAMENTO
+ Arava 20 mg comprimidos revestidos por película
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada comprimido revestido por película contém 20 mg de leflunomida e 72 mg de lactose.
+ Lista completa de excipientes, ver secção 6.1
+ 3. FORMA FARMACÊUTICA Comprimido revestido por película. Comprimidos revestidos por película triangulares amarelados a ocre, gravados com ZBO num dos lados.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas A leflunomida está indicada no tratamento de doentes adultos com: • artrite reumatóide activa, como um" medicamento anti-reumático modificador da doença" (MARMD), • artrite psoriática activa.
+ O tratamento recente ou concomitante com MARMD com toxicidade hepática ou hematológica (p. ex. metotrexato) pode aumentar o risco de ocorrência de reacções adversas graves; consequentemente, o início da terapêutica com leflunomida deve ser ponderado com precaução, tendo em consideração estes aspectos de benefício/risco.
+ Para além do mais, uma mudança de tratamento para outro MARMD sem cumprir o procedimento de washout (ver secção 4.4) pode aumentar a possibilidade de riscos aditivos, mesmo durante um longo período de tempo após a alteração.
+ 4.2 Posologia e modo de administração O tratamento deverá ser iniciado e supervisionado por especialistas com experiência no tratamento de artrite reumatóide e artrite psoriática.
+ O efeito terapêutico inicia-se habitualmente após 4 a 6 semanas e a melhoria pode acentuar-se até 4 a 6 meses.
+ O Arava não é recomendado para doentes com idade inferior a 18 anos dado que a segurança e a eficácia não foram estabelecidas na artrite reumatóide juvenil (ARJ) (ver secção 5.1 e 5.2).
+ Devem ser controlados a alanina aminotransferase (ALT) (ou transaminase glutâmico pirúvica sérica SGPT) e hemograma completo, incluindo contagem de glóbulos brancos diferencial e contagem de plaquetas, de forma simultâneamente e com a mesma frequência:
+ • • •
+ antes do início do tratamento com a leflunomida, de 2 em 2 semanas durante os primeiros seis meses de tratamento, e de 8 em 8 semanas posteriormente (ver também secção 4.4)
+ 17 Posologia
+ A terapêutica com leflunomida é iniciada com uma dose de indução de 100 mg, uma vez por dia, durante 3 dias. • A dose de manutenção recomendada para artrite reumatóide é de 10 a 20 mg, uma vez por dia. Os doentes podem iniciar a terapêutica com leflunomida com doses de 10 ou 20 mg dependendo da gravidade (actividade) da doença. • A dose de manutenção recomendada é de 20 mg uma vez por dia para os doentes com artrite psoriática (ver secção 5.1).
+ Não se recomenda ajustamento da dose em doentes com insuficiência renal ligeira.
+ Não é necessário ajustamento da posologia em doentes com idade superior a 65 anos.
+ Administração Os comprimidos de Arava devem ser tomados inteiros, com uma quantidade suficiente de líquido. A extensão da absorção de leflunomida não é afectada pela sua administração em conjunto com os alimentos.
+ 4.3 Contra-indicações • hipersensibilidade à substância activa (sobretudo na presença de antecedentes de síndrome de Stevens-Johnson, necrose epidérmica tóxica ou eritema multiforme) ou a qualquer dos excipientes.
+ • doentes com disfunção hepática.
+ • doentes com estados de imunodeficiência grave, por exemplo, com SIDA.
+ • doentes com insuficiência medular óssea significativa ou anemia, leucopénia, neutropenia ou ltrombocitopénia significativas por outras causas que não as relacionadas com a artrite reumatóide ou artrite psoriática.
+ • doentes com infecções graves (ver secção 4.4).
+ • doentes com insuficiência renal moderada a grave, dado não haver experiência clínica suficiente neste grupo de doentes.
+ • doentes com hipoproteinémia grave, por exemplo no síndrome nefrótico.
+ • mulheres grávidas ou mulheres em idade fértil que não utilizam métodos contraceptivos eficazes durante o tratamento com leflunomida, e em seguida enquanto os níveis plasmáticos dos metabolitos activos estiverem acima de 0.02 mg/l (ver também secção 4.6). Deve-se verificar se já existe gravidez antes da administração de leflunomida.
+ • mulheres a amamentar (ver também secção 4.6).
+ 4.4 Advertências e precauções especiais de utilização
+ O Arava apenas deve ser administrado a doentes sob supervisão médica cuidadosa.
+ Não é aconselhável a administração concomitante de MARMDs hepatotóxicos ou hematotóxicos (p. ex. metotrexato).
+ 18 O metabolito activo da leflunomida, A771726, tem uma semi-vida longa (habitualmente 1 a 4 semanas). Podem ocorrer efeitos adversos graves (por exemplo, toxicidade hepática, toxicidade hematológica ou reacções alérgicas-vera seguir), mesmo quando o tratamento com leflunomida é suspenso. Consequentemente, quando este tipo de efeitos tóxicos ocorre ou, se por qualquer razão é necessário remover rapidamente do organismo o A771726, o procedimento de washout terá de ser seguido. O procedimento poderá ser repetido se clinicamente necessário.
+ Para mais detalhes sobre os procedimentos de washout e outras medidas recomendadas em caso de gravidez desejada ou inesperada, ver a secção 4.6.
+ Reacções hepáticas Foram relatados casos raros de lesões hepáticas graves, incluindo casos com desfecho fatal, durante o tratamento com leflunomida. A maioria dos casos ocorreu durante os primeiros 6 meses de tratamento. A medicação concomitante com outros medicamentos hepatotóxicos foi observada nestes casos frequentemente. É considerado essencial uma adesão rigorosa às recomendações de monitorização.
+ A ALT (SGPT) deve ser controlada antes do início do tratamento com a leflunomida e com a mesma frequência que o hemograma completo (de 2 em 2 semanas), durante os primeiros 6 meses de tratamento, e de 8 em 8 semanas posteriormente.
+ Em caso de elevações da ALT (SGPT) entre 2 a 3 vezes acima do limite superior do normal, pode considerar-se uma redução da dose de 20 mg para 10 mg e a monitorização deverá ser realizada semanalmente. Se persistirem elevações de ALT (SGPT) de mais de 2 vezes acima do limite superior do normal, ou se registarem elevações de ALT superiores a 3 vezes o limite superior do normal, a leflunomida deve ser interrompida e deve ser iniciado o procedimento de washout. É recomendável manter a monitorização das enzimas hepáticas após descontinuação do tratamento com leflunomida, até que os valores das enzimas hepáticas tenham normalizado.
+ Devido a um potencial para efeitos hepatotóxicos aditivos, recomenda-se que o consumo de álcool seja evitado durante o tratamento com leflunomida.
+ Uma vez que o metabolito activo da leflunomida, A771726 está altamente ligado às proteínas e é excretado por metabolismo hepático e secreção biliar, é de esperar que os níveis plasmáticos de A771726 estejam aumentados em doentes com hipoproteinémia. O Arava está contra-indicado em doentes com hipoproteinémia grave ou insuficiência hepática (ver secção 4.3).
+ Reacções hematológicas Antes do início do tratamento com leflunomida, e simultâneamente com a ALT deve ser efectuado um hemograma completo, incluindo a contagem diferencial dos leucócitos e plaquetas. Estas análises devem ser repetidas de 2 em 2 semanas, durante os primeiros 6 meses de terapêutica, e de 8 em 8 semanas, daí em diante.
+ Nos doentes com anemia, leucopénia e/ou trombocitopénia pré-existentes, assim como nos doentes com insuficiência da medula óssea ou nos doentes em risco de supressão medular, o risco de distúrbios hematológicos encontra-se aumentado. Se este tipo de reacção ocorrer, deve ser considerado um período de washout (ver a seguir), de modo a reduzir os níveis plasmáticos de A771726.
+ Nos casos de reacções hematológicas graves, incluindo a pancitopénia, a terapêutica com Arava ou com quaisquer outros fármacos mielossupressores deve ser interrompida, dando-se início a um procedimento de washout da leflunomida.
+ 19 Associação com outras terapêuticas
+ A utilização de leflunomida em conjunto com os antimaláricos utilizados nas doenças reumatológicas (p. ex., cloroquina e hidroxicloroquina), sais de ouro intramusculares e orais, D-penicilamina, azatioprina e outros agentes imunossupressores (com excepção do metotrexato, ver secção 4.5) não foi ainda estudada. O risco associado à terapêutica combinada, em particular nos casos de tratamento a longo prazo, é desconhecido. Uma vez que este tipo de tratamentos pode condicionar toxicidade aditiva, ou mesmo sinérgica (p. ex., toxicidade hepática ou hematológica), a associação com outros MARMD (p. ex., metotrexato) não é aconselhável.
+ É recomendada precaução quando a leflunomida é administrada em conjunto com outros medicamentos (para além dos AINE) metabolizados pelo CYP2C9, tais como a fenitoína, a varfarina, fenoprocumon e a tolbutamida.
+ Alteração da terapêutica para outros medicamentos
+ Como a leflunomida persiste durante muito tempo no corpo, a mudança de tratamento para outro MARMD (p. ex., metotrexato) sem cumprir o procedimento de washout (ver a seguir) pode levantar a possibilidade de riscos adicionais mesmo durante um longo período de tempo após a mudança (i. e., interacção cinética, toxicidade orgânica).
+ Do mesmo modo, a realização recente de tratamento com medicamentos com toxicidade hepática ou hematológica (p. ex., metotrexato) pode resultar num aumento dos efeitos indesejáveis; consequentemente, o início da terapêutica com leflunomida deve ser considerado com precaução, tendo em atenção estes aspectos de benefício/risco, e recomenda-se uma monitorização mais rigorosa na fase inicial após a mudança.
+ Reacções cutâneas Em caso de estomatite ulcerosa, a administração de leflunomida deve ser interrompida.
+ Foram descritos casos muito raros de síndrome de Stevens-Johnson ou necrose epidérmica tóxica em doentes medicados com leflunomida. Logo que sejam observadas reacções cutâneas ou nas mucosas suspeitas de qualquer destas graves reacções, a terapêutica com Arava ou com quaisquer outros fármacos possivelmente associados deve ser interrompida, dando-se de imediato início a um procedimento de washout da leflunomida. Nestes casos, é essencial um washout completo e a re-exposição à leflunomida está contra-indicada (ver secção 4.3).
+ Infecções Sabe-se que os medicamentos que possuem propriedades imunosupressoras – como a leflunomida – podem provocar um aumento da susceptibilidade às infecções, incluindo infecções oportunistas. A gravidade das infecções pode ser aumentada e exigir, portanto, um tratamento precoce e enérgico. Na eventualidade de ocorrerem infecções graves e não controladas, poderá ser necessário interromper o tratamento com leflunomida e iniciar um procedimento de washout, tal como descrito a seguir.
+ Os doentes com reacção à tuberculina devem ser cuidadosamente monitorizados, em virtude do risco de reactivação da tuberculose.
+ Reacções respiratórias Foi relatada doença pulmonar intersticial durante o tratamento com a leflunomida (ver secção 4.8). A doença pulmonar intersticial é um distúrbio potencialmente fatal, que pode ocorrer duma forma aguda durante a terapêutica. Sintomas pulmonares, tais como tosse e dispneia, podem ser justificação para descontinuar a terapêutica e além disso fazer uma investigação, como apropriado.
+ 20 Pressão arterial
+ A pressão arterial, deve ser verificada antes do início do tratamento e em seguida, periodicamente.
+ Reprodução (recomendações para os homens)
+ Os doentes do sexo masculino devem ter conhecimento de que há uma toxicidade fetal possível mediada pelos homens. Deve ser assegurada uma contracepção efectiva durante o tratamento com leflunomida. Não existem dados específicos quanto ao risco de toxicidade fetal mediado pelo homem. Contudo, estudos animais para avaliar este risco específico não foram efectuados. Para minimizar qualquer possível risco, os homens que desejam ter um filho, devem considerar a interrupção da leflunomida e tomar 8 g de colestiramina 3 vezes por dia durante 11 dias ou 50 g de carvão activado em pó,4 vezes por dia durante 11 dias.
+ Em qualquer dos casos, a concentração plasmática do A771726 é então medida pela primeira vez. Em seguida, a concentração plasmática do A771726 deve ser determinada novamente após um intervalo de pelo menos 14 dias. Se ambas as concentrações plasmáticas estiverem abaixo de 0.02 mg/l, e após um período de espera de pelo menos 3 meses, o risco de toxicidade fetal é muito baixo.
+ Procedimento de washout: Deve ser administrada uma dose de 8 g de colestiramina 3 vezes por dia. Em alternativa,50 g de carvão em pó activado devem ser administrados 4 vezes por dia. A duração de um procedimento de washout completo é, habitualmente, de 11 dias. A duração do procedimento pode ser modificada, de acordo com variáveis clínicas ou laboratoriais.
+ Lactose O Arava contem lactose. Os doentes com os raros problemas hereditários de intolerância à galactose, de deficiência da lactase de Lapp ou de má absorção da glucose-galactose não devem tomar este medicamento.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Os estudos de interacção só foram efectuados em adultos.
+ Pode registar-se um aumento dos efeitos secundários nos casos de administração recente ou concomitante de medicamentos com toxicidade hepática ou hematológica, ou quando estes medicamentos são administrados após a leflunomida sem um período de washout (ver também as recomendações relativas à associação da leflunomida com outras terapêuticas, secção 4.4). Portanto, recomenda-se uma monitorização mais rigorosa das enzimas hepáticas e dos parâmetros hematológicos na fase inicial após a mudança.
+ Num pequeno estudo (n=30) usando a administração conjunta de leflunomida (10 a 20 mg por dia) e metotrexato (10 a 25 mg por semana),5 dos 30 doentes apresentaram uma elevação de 2 a 3 vezes do nível das enzimas hepáticas. Todas estas elevações desapareceram,2 com a continuação do medicamento e 3 após a interrupção da leflunomida. Aumentos superiores a 3 vezes foram observados noutros 5 doentes. Todos eles desapareceram também,2 com a continuação de ambos os medicamentos e 3 após a interrupção da leflunomida.
+ Em doentes com artrite reumatóide não foi demonstrada qualquer interacção farmacocinética entre a leflunomida (10 a 20 mg por dia) e o metotrexato (15 a 25 mg por semana).
+ 21 Recomenda-se que os doentes medicados com leflunomida não sejam tratados com colestiramina ou carvão activado em pó, uma vez que esta associação determina uma baixa rápida e significativa da concentração plasmática do A771726 (o metabolito activo da leflunomida; ver também secção 5). Supõe-se que este facto seja devido a um mecanismo de interrupção da reciclagem entero-hepática e/ou a uma diálise gastrointestinal do A771726.
+ Se o doente já estiver medicado com anti-inflamatórios não esteróides (AINE) e/ou corticosteróides, estes medicamentos podem ser continuados após o início do tratamento com leflunomida.
+ As enzimas envolvidas no metabolismo da leflunomida e dos seus metabolitos não são conhecidas com precisão. Um estudo de interacção in vivo com a cimetidina (inibidor não específico do citocrómo P450) demonstrou a ausência de uma interacção significativa. Após uma administração concomitante de uma dose única de leflunomida a indivíduos medicados com doses múltiplas de rifampicina (indutor não específico do citocrómo P450), os níveis máximos do A771726 aumentaram cerca de 40%, enquanto que a ASC não se alterou significativamente. O mecanismo deste efeito não está esclarecido.
+ Estudos in vitro indicam que o A771726 inibe a actividade do citocrómo P4502C9 (CYP2C9). Em ensaios clínicos, não foram observados problemas de segurança quando a leflunomida e AINE metabolizados pelo CYP2C9, foram administrados concomitantemente. Recomenda-se precaução quando a leflunomida é administrada em conjunto com medicamentos (para além dos AINE) metabolizados pelo CYP2C9, como a fenitoína, a varfarina, fenoprocumon e a tolbutamida.
+ Num estudo em que a leflunomida foi administrada conjuntamente com uma pílula contraceptiva oral trifásica contendo 30 μg de etinilestradiol a voluntários saudáveis, não houve redução da actividade contraceptiva da pílula e a farmacocinética do A771726 esteve dentro dos limites previsíveis.
+ Vacinações Não existem dados clínicos sobre a eficácia e a segurança de vacinações em doentes recebendo leflunomida. Contudo, vacinações com vacinas vivas atenuadas não são recomendadas. A longa semi-vida da leflunomida deve ser considerada quando se encara a administração de uma vacina viva atenuada após interrupção do Arava.
+ 4.6 Gravidez e aleitamento Gravidez O metabolito activo da leflunomida, A 771726 é supeito de causar deficiências graves nos fetos quando administrado durante a gravidez. O Arava está contraindicado durante a gravidez (ver secção 4.3).
+ As mulheres em idade fértil deverão utilizar métodos contrceptivos eficazes durante e até 2 anos após o tratamento (ver “ Período de espera ” abaixo) ou até 11 dias após o tratamento (ver “ período de washout ” abreviado abaixo).
+ A doente deve ser informada de que qualquer atraso no início do período menstrual ou qualquer outra razão que levante a suspeita de uma gravidez deve ser comunicada imediatamente ao seu médico assistente, para que se efectuem os testes de gravidez. Se estes testes forem positivos, o médico e a doente devem discutir o risco para a gravidez. É possível que a rápida redução dos níveis sanguíneos do metabolito activo, utilizando o método de eliminação do medicamento descrito abaixo, possa diminuir o risco da leflunomida para o feto.
+ Para mulheres tratadas com leflunomida e que desejam engravidar, recomenda-se um dos procedimentos seguintes, a fim de assegurar que o feto não é exposto a concentrações tóxicas de A771726 (concentrações pretendidas abaixo de 0.02 mg/l).
+ 22 Período de espera:
+ É de esperar que níveis plasmáticos de A771726 estejam acima de 0.02 mg/l por um período prolongado. Previsivelmente, a concentração desce para valores inferiores a 0.02 mg/l cerca de 2 anos após a interrupção do tratamento com leflunomida.
+ Após um período de espera de 2 anos, a concentração plasmática de A771726 é medida pela primeira vez. Em seguida, a concentração plasmática deve ser determinada novamente após um intervalo de pelo menos 14 dias. Se ambas as concentrações plasmáticas estiverem abaixo de 0.02 mg/l, não é de esperar risco teratogénico.
+ Para mais informação sobre o teste da amostra, por favor contacte o Titular da Autorização de Introdução no Mercado ou o seu representante local (ver secção 7).
+ Procedimento de washout: Após suspender o tratamento com leflunomida:
+ • administra-se uma dose de 8 g de colestiramina 3 vezes por dia durante um período de 11 dias.
+ • em alternativa,50 g de carvão em pó activado são administrados 4 vezes por dia durante um período de 11 dias.
+ Contudo, também após qualquer dos procedimentos de washout, é necessária uma confirmação, através de 2 testes separados por um intervalo de pelo menos 14 dias, e um período de espera de um mês e meio entre a primeira ocorrência de uma concentração plasmática inferior a 0.02 mg/l e a fertilização.
+ As mulheres em idade fértil devem ser informadas de que é necessário um período de espera de 2 anos após interrupção do tratamento antes de poderem engravidar. Se um período de espera até cerca de 2 anos, sob contracepção segura, não for considerado exequível, pode ser recomendável a instituição profilática de um período de washout.
+ Tanto a colestiramina como o carvão activado em pó podem influenciar a absorção de estrogénios e progestagénios; assim, uma contracepção eficaz com contraceptivos orais pode não estar assegurada durante o procedimento de washout com colestiramina e carvão em pó activado. Recomenda-se a utilização de métodos contraceptivos alternativos.
+ Aleitamento Os estudos de experimentação animal indicam que tanto a leflunomida como os seus metabolitos são excretados pelo leite materno. Consequentemente, mulheres que amamentam não devem ser tratadas com leflunomid
+ 23 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Em caso de efeitos secundários, tais como tonturas, a capacidade de concentração e de reacção do doente pode ser afectada. Nestes casos, os doentes não deverão conduzir nem utilizar máquinas.
+ 4.8 Efeitos indesejáveis Os efeitos indesejáveis notificados com maior frequência (≥ 1/100 a &lt; 1/10) com leflunomida são: aumento moderado da pressão arterial, leucopenia, parestesia, cefaleias, vertigens, diarreia, náusea, vómitos, distúrbios da mucosa oral (ex, estomatite aftosa, ulceração da boca), dor abdominal, aumento da perda de cabelo, eczema, erupção cutânea (incluindo erupção cutânea maculo-papulosa), prurido, pele seca, tenosinuvite, aumento da CPK, anorexia, perda de peso (normalmente insignificante), astenia, reacções alérgicas ligeiras e aumento dos parâmetros hepáticos (transaminases (especialmente ALT), menos frequentemente da gama-GT, fosfatase alcalina, bilirrubinas).
+ Classificação das frequências esperadas: Muito frequentes (≥1/10); frequentes (≥1/100 a &lt; 1/10); pouco frequentes (≥1/1000 a &lt; 1/100); raros (≥1/10.000 a &lt; 1/1.000); muito raros (&lt; 1/10.000), desconhecido (não pode ser calculado a partir dos dados disponíveis)
+ Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ Cardiopatias Frequentes: ligeiro aumento da pressão arterial
+ Raros: grave aumento da pressão arterial
+ Doenças do sangue e do sistema linfático Frequentes: leucopénia (leucócitos &gt; 2 G/l)
+ Pouco frequentes: anemia, trombocitopénia ligeira (plaquetas &lt; 100 G/l)
+ Raros: pancitopénia (provavelmente por mecanismo antiproliferativo), leucopénia (leucócitos &lt; 2 G/l), eosinófilia
+ Muito raros: agranulocitose
+ O uso recente, concomitante ou consecutivo de agentes potencialmente mielotóxicos pode estar associado a um risco mais elevado de efeitos hematológicos.
+ Doenças do sistema nervoso Frequentes: parestesia, cefaleia, tonturas
+ Muito raros: neuropatia periférica
+ Doenças respiratórias, torácicas e do mediastino
+ Raros: fatal doença pulmonar intersticial (incluindo a pneumonite intersticial), que pode ser
+ 24 Doenças gastrointestinais
+ Frequentes: diarreia, náuseas, vómitos, perturbações da mucosa oral (p. e. estomatite aftosa,
+ ulceração da boca), dores abdominais
+ Pouco frequentes: alterações do paladar Muito raros: pancreatite
+ Doenças renais e urinárias Desconhecido: insuficiência renal
+ Afecções dos tecidos cutâneos e subcutâneas
+ Frequentes: aumento da perda de cabelo, eczema, erupção cutânea (incluindo erupção cutânea
+ maculopapulosa), prurido, pele seca
+ Pouco frequentes: urticária Muito raros: necrólise epidérmica tóxica, síndrome de Stevens-Johnson, eritema multiforme
+ Afecções músculo-esqueléticas e dos tecidos conjuntivos
+ Frequentes: tenosinovite
+ Pouco frequentes: ruptura de tendões Doenças do metabolismo e da nutrição Frequentes: aumento da CPK
+ Pouco frequentes: hipocaliémia, hiperlipidemia, hipofosfatemia
+ Raros: aumento das LDH
+ Desconhecido: hipouricemia.
+ Infecções e infestações Raros: infecções graves, incluindo sepsis que pode ser fatal.
+ Tal como outros agentes com potencial imunossupressor, a leflunomida pode aumentar a susceptibilidade a infecções, incluindo infecções oportunistas (ver também secção 4.4). Assim, a incidência global de infecções pode aumentar (em particular rinite, bronquite e pneumonia).
+ Neoplasias benignas, malignas e não especificadas (incl. quistos e pólipos)
+ O risco de malignidade, particularmente em distúrbios linfoproliferativos, aumenta com o uso de alguns agentes imunosupressores.
+ Perturbações gerais e alterações no local de administração
+ Frequentes: anorexia, perda de peso (normalmente insignificante), astenia
+ 25 Doenças do sistema imunitário
+ Frequentes: reacções alérgicas ligeiras
+ Muito raros: necrosante reacções anafilácticas/anafilactóides graves, vasculite, incluindo vasculite cutânea
+ Afecções hepatobiliares Frequentes: elevação dos parâmetros da função hepática (transaminases[ especialmente a ALT]), menos frequentemente a gama-GT, fosfatase alcalina, bilurrubina)
+ Raros: hepatite, icterícia/colestase
+ Muito raramente: lesões hepáticas graves tais como falência hepática e necrose hepática aguda que pode ser fatal
+ Doenças dos órgãos genitais e da mama Desconhecido: diminuição marginal (reversível) na concentração de sémen, contagem total de sémen e motilidade progressiva rápida
+ Perturbações do foro psiquiátrico Pouco frequentes: ansiedade 4.9 Sobredosagem Sintomas Têm sido notificados casos crónicos de sobredosagem em doentes a tomar Arava em doses diárias até 5 vezes a dose recomendada por dia, e notificações de sobredosagem aguda em adultos e crianças. Na maioria dos casos notificados de sobredosagem não se verificou notificação de efeitos indesejáveis. Efeitos indesejáveis consistentes com o perfil de segurança da leflunomida foram: dor abdominal, náuseas, diarreia, aumento das enzimas hepáticas, anemia, leucopenia, prurido e erupção cutânea.
+ Tratamento Na eventualidade de ocorrer sobredosagem significativa ou toxicidade, recomenda-se a administração de colestiramina ou carvão activado, de modo a acelerar a eliminação do medicamento. A administração de uma dose de 8 g de colestiramina por via oral, três vezes por dia, durante 24 horas, a três voluntários saudáveis, provocou uma redução dos níveis plasmáticos de A771726 de cerca de 40% no período de 24 horas e de 49-65% em 48 horas. A administração de carvão activado (pó para suspensão) por via oral ou sonda nasogástrica (50 g em intervalos de 6 horas durante 24 horas), demonstrou reduzir as concentrações plasmáticas do metabolito activo A77 1726 em 37% no período de 24 horas e em 48% no período de 48 horas. Estes procedimentos de washout podem ser repetidos nos casos em que clinicamente se justifique.
+ Estudos em hemodiálise e DPC (diálise peritoneal crónica ambulatória) indicam que o metabolito primário da leflunomida A771726, não é dializável.
+ 26 5. PROPRIEDADES FARMACOLÓGICAS
+ 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: imunossupressores selectivos, código ATC: L04AA13.
+ Farmacologia humana A leflunomida é um agente anti-reumático modificador da doença com propriedades antiproliferativas.
+ Farmacologia Animal A leflunomida é eficaz em modelos animais de artrite e de outras doenças autoimunes e transplantes, principalmente se for utilizada durante a fase de sensibilização. Tem características imunomoduladoras/imunosupressoras, actua como agente antiproliferativo e apresenta propriedades anti-inflamatórias. A leflunomida revela os melhores efeitos protectores em modelos animais de doenças autoimunes quando administrada na fase inicial da progressão da doença.
+ In vivo, é rápida e quase completamente metabolizada em A771726, que é activo in vitro, e se presume ser responsável pelo efeito terapêutico.
+ Modo de acção O A771726, metabolito activo da leflunomida, inibe a enzima humana dihidroorotato desidrogenase (DHODH) e apresenta actividade antiproliferativa.
+ Artrite reumatóide A eficácia do Arava no tratamento da artrite reumatóide foi demonstrada em 4 ensaios controlados (1 em fase II e 3 na fase III). No ensaio da fase II, estudo YU 203, foram aleatorizados 402 doentes com artrite reumatóide activam, para terapêutica com placebo (n=102), leflunomida 5 mg (n=95),10 mg (n=101) ou 25 mg por dia (n=104). A duração do tratamento foi de 6 meses. Todos os doentes medicados com leflunomida nos ensaios da fase III receberam uma dose inicial de 100 mg durante 3 dias. No estudo MN301 foram aleatorizados 358 doentes com artrite reumatóide activa, para terapêutica com leflunomida 20 mg/dia (n=133), sulfasalazina 2 g/dia (n=133) ou placebo (n=92). A duração do tratamento foi de 6 meses. O estudo MN303 foi uma continuação cega opcional de 6 meses do estudo MN301, sem o grupo placebo, resultando numa comparação de 12 meses entre a leflunomida e a sulfasalazina. No estudo MN302 foram aleatorizados 999 doentes com artrite reumatóide activa, para terapêutica com leflunomida 20 mg/dia (n=501) ou metotrexato 7,5 mg/semana, aumentando para 15 mg/semana (n=498). O suplemento de folatos foi opcional e usado só em 10% dos doentes. A duração do tratamento foi de 12 meses. No estudo US301 foram aleatorizados 482 doentes com artrite reumatóide activa, para terapêutica com leflunomida 20 mg/dia (n=182), metotrexato 7,5 mg/semana, aumentando para 15 mg/semana (n=182), ou placebo (n=118). Todos os doentes foram medicados com 1 mg de ácido fólico, duas vezes por dia. A duração do tratamento foi de 12 meses.
+ 27 A leflunomida, numa dose diária de pelo menos 10 mg (10 a 25 mg no estudo YU 303,20 mg nos estudos MN301 e US301) foi superior ao placebo, com uma diferença estatisticamente significativa, na redução dos sinais e sintomas da artrite reumatóide em todos os 3 ensaios controlados por placebo. As taxas de resposta ACR (American College of Rheumatology) no estudo YU 203 foram de 27,7% no grupo placebo, 31,9% no grupo medicado com 5 mg, 50,5% no grupo medicado com 10 mg e de 54,5% no grupo tratado com 25 mg/dia. Nos ensaios de fase III, as taxas de resposta ACR para a leflunomida 20 mg/dia vs. placebo, foram de 54,6% vs. 28,6% (estudo MN301), e de 49,4% vs. 26,3% (estudo US301). Após 12 meses de tratamento activo, as taxas de resposta ACR nos doentes medicados com leflunomida foram de 52,3% (estudos MN301/303), 50,5% (estudo MN302) e 49,4% (estudo US301), comparados com 53,8% nos doentes com sulfasalazina (estudos MN301/303), e 64,8% (estudo MN302) e 43,9% nos doentes medicados com metotrexato. No estudo MN302, a leflunomida foi significativamente menos eficaz do que o metotrexato. Contudo, no estudo US301, não foram observadas diferenças significativas nos parâmetros de eficácia primária entre a leflunomida e o metotrexato. Não foi observada diferença entre a leflunomida e a sulfasalazina (estudo MN301). O efeito do tratamento com leflunomida foi evidente após 1 mês, estabilizou entre os 3 e os 6 meses e continuou durante todo o decurso do tratamento.
+ Um estudo de não inferioridade aleatorizado, com dupla ocultação, de grupos paralelos comparou a eficácia relativa de duas doses de manutenção diferentes de leflunomida,10 e 20 mg. Destes resultados pode concluir-se que, em termos de eficácia a dose de manutenção de 20 mg foi mais favorável, no entanto, os resultados de segurança foram mais favoráveis para a dose de manutenção de 10 mg.
+ Pediatria A leflunomida foi estudada num estudo multicêntrico, randomizado, duplamente cego, controlado em 94 doentes (47 por braço) com artrite reumatóide juvenil de evolução poliarticular. Os doentes tinham idades entre os 3 e os 17 anos, com artrite reumatóide juvenil de evolução poliarticular, independetemente do tipo de início ou doentes naive ao metotrexato ou lefluomida. Neste ensaio, a dose utilizada e de manutenção de leflunomida baseou-se em três categorias de peso: &lt; 20 kg, 20-40 kg e &gt; 40 kg. Após 16 semanas de tratamento, a diferença na taxa de resposta foi significativamente a favor do metotrexato para a Definição de Melhoria da ARJ (DOI) ≥30% (p=0,02). Nos doentes que responderam, esta resposta foi mantida durante 48 semanas (ver secção 4.2). O padrão de efeitos adversos de leflunomida e metotrexato parece similar, mas a dose utilizada em sujeitos de mais baixo peso resultou numa exposição relativamente baixa (ver secção 5.2). Esta informação não permite a recomendação de uma dose eficaz e segura.
+ Artrite psoriática A eficácia do Arava foi demonstrada num estudo controlado, randomisado, duplamente cego, 3L01 em 188 doentes com artrite psoriática, tratados com 20 mg/dia. A duração do tratamento foi de 6 meses.
+ A leflunomida 20 mg/dia foi significativamente superior ao placebo na redução dos sintomas da artrite em doentes com artrite psoriática: as respostas ao PsARC (Critério de Resposta ao tratamento da Artrite Psoriática) foi de 59% no grupo da leflunomida e de 29,7% no grupo placebo ao fim de 6 meses (p &lt; 0,0001). O efeito da leflunomida na melhoria da função e na redução das lesões na pele foi moderado.
+ 5.2 Propriedades farmacocinéticas A leflunomida é rapidamente convertida no metabolito activo A771726, por metabolismo de primeira passagem (abertura do anel) na parede intestinal e no fígado. Num estudo com leflunomida marcada radioactivamente com 14C, em três voluntários saudáveis, não foi detectada leflunomida inalterada no plasma, urina ou fezes. Noutros estudos, níveis plasmáticos da ordem de ng/ml de leflunomida inalterada foram raramente detectados. O único metabolito plasmático marcado radioactivamente detectado foi o A771726. Este metabolito é responsável por toda a actividade essencial in vivo do Arava.
+ 28 Absorção
+ Os dados da excreção do estudo com 14C indicam que pelo menos cerca de 82 a 95% da dose é absorvida. O tempo para alcançar as concentrações máximas de A771726 é muito variável, podendo ocorrer entre 1 e 24 horas após administração única. A leflunomida pode ser administrada com alimentos, dado que a extensão da absorção é comparável em jejum ou após as refeições. Devido à semi-vida muito longa do A771726 (cerca de 2 semanas), nos estudos clínicos foi usada uma dose de indução de 100 mg durante 3 dias, para facilitar o alcance rápido dos níveis de equilíbrio do A771726. Sem uma dose de indução estima-se que seriam necessários quase 2 meses de administração para atingir as concentrações plasmáticas de equilíbrio. Em estudos de doses múltiplas realizados em doentes com artrite reumatóide, os parâmetros farmacocinéticos foram lineares para um espectro de doses entre 5 e 25 mg. Nestes estudos, o efeito clínico esteve estreitamente associado com as concentrações plasmáticas de A771726 e com a dose diária de leflunomida. Para a dose de 20 mg/dia, a concentração plasmática média do A771726 no estado de equilíbrio foi cerca de 35 μg/ml. No estado de equilíbrio, os níveis plasmáticos acumulam-se cerca de 33 a 35 vezes, quando comparados com os da dose única.
+ Distribuição No plasma humano, A771726 é largamente ligado às proteínas (albumina). A fracção livre de A771726 é de cerca de 0,62%. A ligação do A771726 é linear dentro dos limites da concentrações terapêutica. A ligação do A771726 é ligeiramente diminuída e mais variável no plasma de doentes com artrite reumatóide ou insuficiência renal crónica. A extensa ligação do A771726 às proteínas poderia levar ao deslocamento de outros medicamentos altamente ligados. Contudo, estudos in vitro de interacção de ligação às proteínas plasmáticas com varfarina, em concentrações clinicamente relevantes, não mostraram interacção. Estudos semelhantes mostraram que o ibuprofeno e o diclofenac não deslocaram o A771726, enquanto que a fracção livre do A771726 aumenta de 2 a 3 vezes na presença de tolbutamida. O A771726 deslocou o ibuprofeno, o diclofenac e a tolbutamida, mas a fracção livre destes medicamentos só aumentou 10 a 50%. Não há indicação que estes efeitos apresentem relevância clínica. Em conformidade com a extensa ligação às proteínas, o A771726 tem um baixo volume aparente de distribuição (cerca de 11 litros). Não há captação preferencial pelos eritrócitos.
+ Metabolismo A leflunomida é metabolizada num metabolito importante (A771726) e muitos metabolitos menores, incluindo o TFMA (4-trifluorometilanina). A biotransformação da leflunomida em A771726 e o metabolismo subsequente do A771726 não é controlado por uma enzima única e mostrou ocorrer em fracções celulares microsómicas e citosólicas. Estudos de interacção com cimetidina (inibidor não específico do citocrómo P450) e rifampicina (indutor não específico do citocrómo P450) indicam que in vivo as enzimas CYP só estão envolvidas no metabolismo da leflunomida em pequena escala.
+ Eliminação A eliminação do A771726 é lenta e caracterizada por uma clearance aparente de cerca de 31 ml/h. A semi-vida de eliminação em doentes é de cerca de 2 semanas. Após administração de uma dose de leflunomida marcada radioactivamente, a radioactividade foi excretada igualmente nas fezes (provavelmente por eliminação biliar), e na urina. A 771726 foi ainda detectado na urina e nas fezes 36 dias após a administração única. Os metabolitos urinários principais foram produtos glucorónicos derivados da leflunomida (principalmente em amostras de 0 a 24 horas) e um ácido oxanílico derivado do A771726. O componente fecal principal foi o A771726.
+ Foi demonstrado no homem que a administração de uma suspensão oral de pó de carvão activado ou de colestiramina leva a um aumento rápido e significativo da taxa de eliminação e a uma redução das concentrações plasmáticas do A771726 (ver secção 4.9). Supõe-se que isto seja alcançado por mecanismos de diálise gastrointestinal e/ou interrupção da reciclagem entero-hepática.
+ 29 Farmacocinética na insuficiência renal
+ A leflunomida foi administrada numa dose oral única de 100 mg a 3 doentes hemodialisados e a 3 doentes submetidos a diálise peritoneal contínua (DPC). Com a hemodiálise, a eliminação do A771726 foi mais rápida e a sua semi vida mais curta. Os parâmetros farmacocinéticos dos 3 doentes submetidos a DPC foram consistentes com os valores obtidos em voluntários saudáveis.
+ Farmacocinética na insuficiência hepática
+ Não se dispõe de dados sobre o tratamento de doentes com insuficiência hepática. O metabolito activo A771726 apresenta uma ampla ligação às proteínas e é eliminado por metabolismo hepático e por secreção biliar. Estes processos podem ser afectados pela disfunção hepática.
+ Farmacocinética na pediatria A farmacocinética de A771726 após a administração oral de leflunomida foi investigada em 73 doentes com artrite reumatóide juvenil de evolução poliarticular (ARJ) num intervalo de idades dos 3 aos 17 anos. O resultado da análise da farmacocinética da população nestes 3 ensaios demonstrou que doentes pediátricos com peso corporal ≤40 kg apresentam uma exposição sistémica reduzida (medida por Css) de A771726 relativamente aos doentes adultos com artrite reumatóide (ver secção 4.2).
+ Farmacocinética nos idosos Os dados farmacocinéticos nos idosos (&gt; 65 anos) são limitados mas consistentes com a farmacocinética de adultos mais jovens.
+ 5.3 Dados de segurança pré-clínica A leflunomida, administrada por via oral e intraperitoneal, foi estudada em estudos de toxicidade aguda em ratinhos e ratos. A administração oral repetida de leflunomida a ratinhos durante um período até 3 meses, a ratos e cães até 6 meses, e a macacos até 1 mês, revelou que os órgãos alvo principais para a toxicidade eram a medula óssea, o sangue, o aparelho gastrointestinal, a pele, o baço, o timo e os gânglios linfáticos. Os efeitos principais foram anemia, leucopénia, redução do número de plaquetas e panmielopatia, o que reflecte o modo de acção básico do composto (inibição de síntese do ADN). Em ratos e cães, foram encontrados corpos de Heinz e/ou Howell-Jolly. Outros efeitos encontrados no coração, fígado, córnea e aparelho respiratório podem ser explicados por infecções devido a imunossupressão. A toxicidade em animais foi observada para doses equivalentes às doses terapêuticas humanas.
+ A leflunomida não foi mutagénica. Contudo, o metabolito menor TFMA (4-trifluorometilanina) provocou clastogenicidade e mutações pontuais in vitro, sendo insuficiente a informação disponível sobre o seu potencial para exercer este efeito in vivo.
+ Num estudo de carcinogenicidade realizado no rato, não foi comprovado qualquer potencial carcinogénico da leflunomida. Num estudo de carcinogenicidade no ratinho, registou-se um aumento da incidência de linfomas malignos nos machos do grupo submetido à dose mais alta, o qual foi atribuível à actividade imunosupressora da leflunomida. No ratinho fêmea, contudo, observou-se um aumento da incidência dependente da dose de adenomas bronquíolo-alveolares e de carcinomas do pulmão. A relevância dos achados em ratinhos relativamente ao uso clínico de leflunomida é incerta.
+ A leflunomida não foi antigénica em modelos animais. A leflunomida foi embriotóxica e teratogénica em ratos e coelhos em doses dentro do espectro posológico utilizado na terapêutica humana, e exerceu efeitos adversos nos órgãos reprodutores dos machos em estudos de toxicidade com doses múltiplas. A fertilidade não foi reduzida.
+ 30 6. INFORMAÇÕES FARMACÊUTICAS
+ 6.1 Lista dos excipientes Núcleo: Amido de milho povidona (E1201) crospovidona (E1202) silica coloidal anidra estearato de magnésio (E470b) lactose monohidratada.
+ Revestimento: Talco (E553b) hipromelose (E464) dióxido de titânio (E171) macrogol 8000 óxido de ferro amarelo (E172)
+ 6.2 Incompatibilidades Não aplicável. 6.3 Prazo de validade 3 anos. 6.4 Precauções especiais de conservação
+ Blister: Manter na embalagem original. Frasco: Manter o recipiente hermeticamente fechado.
+ 6.5 Natureza e conteúdo do recipiente Blister: blister de alumínio/alumínio. Tamanho das embalagens: 30 e 100 comprimidos revestidos por película.
+ Frasco: frasco de boca larga de HDPE,100 ml com tampa de rosca integrando o recipiente de exsicante. Tamanho das embalagens: 30,50 e 100 comprimidos revestidos por película
+ É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ Não há requisitos especiais. 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Sanofi-Aventis Deutschland GmbH, D-65926 Frankfurt am Main, Alemanha
+ 31 8. NÚMERO(S) DE AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/99/118/005-008 EU/1/99/118/010 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 02 Setembro 1999 Data da última renovação: 02 Setembro 2004
+ 10. DATA DA REVISÃO DO TEXTO 32 1. NOME DO MEDICAMENTO
+ Arava 100 mg comprimidos revestidos por película
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada comprimido revestido por película contém 100 mg de leflunomida e 138,42 mg de lactose.
+ Lista completa de excipientes ver secção 6.1
+ 3. FORMA FARMACÊUTICA Comprimido revestido por película. Comprimidos revestidos por película redondos brancos a quase brancos, com um diâmetro de cerca de 1 cm, gravados com ZBP num dos lados.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas A leflunomida está indicada no tratamento de doentes adultos com: • artrite reumatóide activa, como um" medicamento anti-reumático modificador da doença" (MARMD), • artrite psoriática activa.
+ O tratamento recente ou concomitante com MARMD com toxicidade hepática ou hematológica (p. ex. metotrexato) pode aumentar o risco de ocorrência de reacções adversas graves; consequentemente, o início da terapêutica com leflunomida deve ser ponderado com precaução, tendo em consideração estes aspectos de benefício/risco.
+ Para além do mais, uma mudança de tratamento para outro MARMD sem cumprir o procedimento de washout (ver secção 4.4) pode aumentar a possibilidade de riscos aditivos, mesmo durante um longo período de tempo após a alteração.
+ 4.2 Posologia e modo de administração O tratamento deverá ser iniciado e supervisionado por especialistas com experiência no tratamento de artrite reumatóide e artrite psoriática.
+ O efeito terapêutico inicia-se habitualmente após 4 a 6 semanas e a melhoria pode acentuar-se até 4 a 6 meses.
+ O Arava não é recomendado para doentes com idade inferior a 18 anos dado que a segurança e a eficácia não foram estabelecidas na artrite reumatóide juvenil (ARJ) (ver secção 5.1 e 5.2).
+ Devem ser controlados a alanina aminotransferase (ALT) (ou transaminase glutâmico pirúvica sérica SGPT) e hemograma completo, incluindo contagem de glóbulos brancos diferencial e contagem de plaquetas, de forma simultâneamente e com a mesma frequência: • antes do início do tratamento com a leflunomida, • de 2 em 2 semanas durante os primeiros seis meses de tratamento, e • de 8 em 8 semanas posteriormente (ver também secção 4.4)
+ 33 Posologia
+ A terapêutica com leflunomida é iniciada com uma dose de indução de 100 mg, uma vez por dia, durante 3 dias. • A dose de manutenção recomendada para artrite reumatóide é de 10 a 20 mg, uma vez por dia. Os doentes podem iniciar a terapêutica com leflunomida com doses de 10 ou 20 mg dependendo da gravidade (actividade) da doença. • A dose de manutenção recomendada é de 20 mg uma vez por dia para os doentes com artrite psoriática (ver secção 5.1).
+ Não se recomenda ajustamento da dose em doentes com insuficiência renal ligeira.
+ Não é necessário ajustamento da posologia em doentes com idade superior a 65 anos.
+ Administração Os comprimidos de leflunomida devem ser tomados inteiros, com uma quantidade suficiente de líquido. A extensão da absorção de leflunomida não é afectada pela sua administração em conjunto com os alimentos.
+ 4.3 Contra-indicações • hipersensibilidade à substância activa (sobretudo na presença de antecedentes de síndrome de Stevens-Johnson, necrose epidérmica tóxica ou eritema multiforme) ou a qualquer dos excipientes.
+ • doentes com disfunção hepática.
+ • doentes com estados de imunodeficiência grave, por exemplo, com SIDA.
+ • doentes com insuficiência medular óssea significativa ou anemia, leucopénia, neutropenia ou trombocitopénia significativas por outras causas que não as relacionadas com a artrite reumatóide ou artrite psoriática.
+ • doentes com infecções graves (ver secção 4.4).
+ • doentes com insuficiência renal moderada a grave, dado não haver experiência clínica suficiente neste grupo de doentes.
+ • doentes com hipoproteinémia grave, por exemplo no síndrome nefrótico.
+ • mulheres grávidas ou mulheres em idade fértil que não utilizam métodos contraceptivos eficazes durante o tratamento com leflunomida, e em seguida enquanto os níveis plasmáticos dos metabolitos activos estiverem acima de 0.02 mg/l (ver também secção 4.6). Deve-se verificar se já existe gravidez antes da administração de leflunomida.
+ • mulheres a amamentar (ver também secção 4.6).
+ 4.4 Advertências e precauções especiais de utilização
+ O Arava apenas deve ser administrado a doentes sob supervisão médica cuidadosa.
+ Não é aconselhável a administração concomitante de MARMDs hepatotóxicos ou hematotóxicos (p. ex. metotrexato).
+ 34 O metabolito activo da leflunomida, A771726, tem uma semi-vida longa (habitualmente 1 a 4 semanas). Podem ocorrer efeitos adversos graves (por exemplo, toxicidade hepática, toxicidade hematológica ou reacções alérgicas-ver a seguir), mesmo quando o tratamento com leflunomida é imterrompido. Consequentemente, quando este tipo de efeitos tóxicos ocorre ou, se por qualquer razão é necessário remover rapidamente do organismo o A771726, o procedimento de washout terá de ser seguido. O procedimento poderá ser repetido se clinicamente necessário.
+ Para mais detalhes sobre os procedimentos de washout e outras medidas recomendadas em caso de gravidez desejada ou inesperada, ver a secção 4.6.
+ Reacções hepáticas Foram relatados casos raros de lesões hepáticas graves, incluindo casos com desfecho fatal, durante o tratamento com leflunomida. A maioria dos casos ocorreu durante os primeiros 6 meses de tratamento. A medicação concomitante com outros medicamentos hepatotóxicos foi observada nestes casos frequentemente. É considerado essencial uma adesão rigorosa às recomendações de monitorização.
+ A ALT (SGPT) deve ser controlada antes do início do tratamento com a leflunomida e com a mesma frequência que o hemograma completo (de 2 em 2 semanas), durante os primeiros 6 meses de tratamento, e de 8 em 8 semanas posteriormente.
+ Em caso de elevações da ALT (SGPT) entre 2 a 3 vezes acima do limite superior do normal, pode considerar-se uma redução da dose de 20 mg para 10 mg e a monitorização deverá ser realizada semanalmente. Se persistirem elevações de ALT (SGPT) de mais de 2 vezes acima do limite superior do normal, ou se registarem elevações de ALT superiores a 3 vezes o limite superior do normal, a leflunomida deve ser interrompida e deve ser iniciado o procedimento de washout. É recomendável manter a monitorização das enzimas hepáticas após descontinuação do tratamento com leflunomida, até que os valores das enzimas hepáticas tenham normalizado.
+ Devido a um potencial para efeitos hepatotóxicos aditivos, recomenda-se que o consumo de álcool seja evitado durante o tratamento com leflunomida.
+ Uma vez que o metabolito activo da leflunomida, A771726 está altamente ligado às proteínas e é excretado por metabolismo hepático e secreção biliar, é de esperar que os níveis plasmáticos de A771726 estejam aumentados em doentes com hipoproteinémia. O Arava está contra-indicado em doentes com hipoproteinémia grave ou insuficiência hepática (ver secção 4.3).
+ Reacções hematológicas Antes do início do tratamento com leflunomida, e simultâneamente com a ALT deve ser efectuado um hemograma completo, incluindo a contagem diferencial dos leucócitos e plaquetas. Estas análises devem ser repetidas de 2 em 2 semanas, durante os primeiros 6 meses de terapêutica, e de 8 em 8 semanas, daí em diante.
+ Nos doentes com anemia, leucopénia e/ou trombocitopénia pré-existentes, assim como nos doentes com insuficiência da medula óssea ou nos doentes em risco de supressão medular, o risco de distúrbios hematológicos encontra-se aumentado. Se este tipo de reacção ocorrer, deve ser considerado um período de washout (ver a seguir), de modo a reduzir os níveis plasmáticos de A771726.
+ Nos casos de reacções hematológicas graves, incluindo a pancitopénia, a terapêutica com Arava ou com quaisquer outros fármacos mielossupressores deve ser interrompida, dando-se início a um procedimento de washout da leflunomida.
+ 35 Associação com outras terapêuticas
+ A utilização de leflunomida em conjunto com os antimaláricos utilizados nas doenças reumatológicas (p. ex., cloroquina e hidroxicloroquina), sais de ouro intramusculares e orais, D-penicilamina, azatioprina e outros agentes imunossupressores (com excepção do metotrexato, ver secção 4.5) não foi ainda estudada. O risco associado à terapêutica combinada, em particular nos casos de tratamento a longo prazo, é desconhecido. Uma vez que este tipo de tratamentos pode condicionar toxicidade aditiva, ou mesmo sinérgica (p. ex., toxicidade hepática ou hematológica), a associação com outros MARMD (p. ex., metotrexato) não é aconselhável.
+ É recomendada precaução quando a leflunomida é administrada em conjunto com outros medicamentos (para além dos AINE) metabolizados pelo CYP2C9, tais como a fenitoína, a varfarina, fenoprocumon e a tolbutamida.
+ Alteração da terapêutica para outros medicamentos
+ Como a leflunomida persiste durante muito tempo no corpo, a mudança de tratamento para outro MARMD (p. ex., metotrexato) sem cumprir o procedimento de washout (ver a seguir) pode levantar a possibilidade de riscos adicionais mesmo durante um longo período de tempo após a mudança (i. e., interacção cinética, toxicidade orgânica).
+ Do mesmo modo, a realização recente de tratamento com medicamentos com toxicidade hepática ou hematológica (p. ex., metotrexato) pode resultar num aumento dos efeitos indesejáveis; consequentemente, o início da terapêutica com leflunomida deve ser considerado com precaução, tendo em atenção estes aspectos de benefício/risco, e recomenda-se uma monitorização mais rigorosa na fase inicial após a mudança.
+ Reacções cutâneas Em caso de estomatite ulcerosa, a administração de leflunomida deve ser interrompida.
+ Foram descritos casos muito raros de síndrome de Stevens-Johnson ou necrose epidérmica tóxica em doentes medicados com leflunomida. Logo que sejam observadas reacções cutâneas ou nas mucosas suspeitas de qualquer destas graves reacções, a terapêutica com Arava ou com quaisquer outros fármacos possivelmente associados deve ser interrompida, dando-se de imediato início a um procedimento de washout da leflunomida. Nestes casos, é essencial um washout completo e a re-exposição à leflunomida está contra-indicada (ver secção 4.3).
+ Infecções Sabe-se que os medicamentos que possuem propriedades imunosupressoras – como a leflunomida – podem provocar um aumento da susceptibilidade às infecções, incluindo infecções oportunistas. A gravidade das infecções pode ser aumentada e exigir, portanto, um tratamento precoce e enérgico. Na eventualidade de ocorrerem infecções graves e não controladas, poderá ser necessário interromper o tratamento com leflunomida e iniciar um procedimento de washout, tal como descrito a seguir.
+ Os doentes com reacção à tuberculina devem ser cuidadosamente monitorizados, em virtude do risco de reactivação da tuberculose.
+ Reacções respiratórias Foi relatada doença pulmonar intersticial durante o tratamento com a leflunomida (ver secção 4.8). A doença pulmonar intersticial é um distúrbio potencialmente fatal, que pode ocorrer duma forma aguda durante a terapêutica. Sintomas pulmonares, tais como tosse e dispneia, podem ser justificação para descontinuar a terapêutica e além disso fazer uma investigação, como apropriado.
+ 36 Pressão arterial
+ A pressão arterial, deve ser verificada antes do início do tratamento e em seguida, periodicamente.
+ Reprodução (recomendações para os homens)
+ Os doentes do sexo masculino devem ter conhecimento de que há uma toxicidade fetal possível mediada pelos homens. Deve ser assegurada uma contracepção efectiva durante o tratamento com leflunomida.
+ Não existem dados específicos quanto ao risco de toxicidade fetal mediado pelo homem. Contudo, estudos animais para avaliar este risco específico não foram efectuados. Para minimizar qualquer possível risco, os homens que desejam ter um filho, devem considerar a interrupção da leflunomida e tomar 8 g de colestiramina 3 vezes por dia durante 11 dias ou 50 g de carvão activado em pó,4 vezes por dia durante 11 dias.
+ Em qualquer dos casos, a concentração plasmática do A771726 é então medida pela primeira vez. Em seguida, a concentração plasmática do A771726 deve ser determinada novamente após um intervalo de pelo menos 14 dias. Se ambas as concentrações plasmáticas estiverem abaixo de 0.02 mg/l, e após um período de espera de pelo menos 3 meses, o risco de toxicidade fetal é muito baixo.
+ Procedimento de washout: Deve ser administrada uma dose de 8 g de colestiramina 3 vezes por dia. Em alternativa,50 g de carvão em pó activado devem ser administrados 4 vezes por dia. A duração do procedimento de washout completo é, habitualmente, de 11 dias. A duração do procedimento pode ser modificada, de acordo com variáveis clínicas ou laboratoriais.
+ Lactose O Arava contem lactose. Os doentes com os raros problemas hereditários de intolerância à galactose, de deficiência da lactase de Lapp ou de má absorção da glucose-galactose não devem tomar este medicamento.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Os estudos de interacção só foram efectuados em adultos.
+ Pode registar-se um aumento dos efeitos secundários nos casos de administração recente ou concomitante de medicamentos com toxicidade hepática ou hematológica, ou quando estes medicamentos são administrados após a leflunomida sem um período de washout (ver também as recomendações relativas à associação da leflunomida com outras terapêuticas, secção 4.4). Portanto, recomenda-se uma monitorização mais rigorosa das enzimas hepáticas e dos parâmetros hematológicos na fase inicial após a mudança.
+ Num pequeno estudo (n=30) usando a administração conjunta de leflunomida (10 a 20 mg por dia) e metotrexato (10 a 25 mg por semana),5 dos 30 doentes apresentaram uma elevação de 2 a 3 vezes do nível das enzimas hepáticas. Todas estas elevações desapareceram,2 com a continuação do medicamento e 3 após a interrupção da leflunomida. Aumentos superiores a 3 vezes foram observados noutros 5 doentes. Todos eles desapareceram também,2 com a continuação de ambos os medicamentos e 3 após a interrupção da leflunomida.
+ Em doentes com artrite reumatóide não foi demonstrada qualquer interacção farmacocinética entre a leflunomida (10 a 20 mg por dia) e o metotrexato (15 a 25 mg por semana).
+ 37 Recomenda-se que os doentes medicados com leflunomida não sejam tratados com colestiramina ou carvão activado em pó, uma vez que esta associação determina uma baixa rápida e significativa da concentração plasmática do A771726 (o metabolito activo da leflunomida; ver também secção 5). Supõe-se que este facto seja devido a um mecanismo de interrupção da reciclagem entero-hepática e/ou a uma diálise gastrointestinal do A771726.
+ Se o doente já estiver medicado com anti-inflamatórios não esteróides (AINE) e/ou corticosteróides, estes medicamentos podem ser continuados após o início do tratamento com leflunomida.
+ As enzimas envolvidas no metabolismo da leflunomida e dos seus metabolitos não são conhecidas com precisão. Um estudo de interacção in vivo com a cimetidina (inibidor não específico do citocrómo P450) demonstrou a ausência de uma interacção significativa. Após uma administração concomitante de uma dose única de leflunomida a indivíduos medicados com doses múltiplas de rifampicina (indutor não específico do citocrómo P450), os níveis máximos do A771726 aumentaram cerca de 40%, enquanto que a AUC não se alterou significativamente. O mecanismo deste efeito não está esclarecido.
+ Estudos in vitro indicam que o A771726 inibe a actividade do citocrómo P4502C9 (CYP2C9). Em ensaios clínicos, não foram observados problemas de segurança quando a leflunomida e AINE metabolizados pelo CYP2C9, foram administrados concomitantemente. Recomenda-se precaução quando a leflunomida é administrada em conjunto com medicamentos (para além dos AINE) metabolizados pelo CYP2C9, como a fenitoína, a varfarina, fenoprocumon e a tolbutamida.
+ Num estudo em que a leflunomida foi administrada conjuntamente com uma pílula contraceptiva oral trifásica contendo 30 μg de etinilestradiol a voluntários saudáveis, não houve redução da actividade contraceptiva da pílula e a farmacocinética do A771726 esteve dentro dos limites previsíveis.
+ Vacinações Não existem dados clínicos sobre a eficácia e a segurança de vacinações em doentes recebendo leflunomida. Contudo, vacinações com vacinas vivas atenuadas não são recomendadas. A longa semi-vida da leflunomida deve ser considerada quando se encara a administração de uma vacina viva atenuada após interrupção do Arava.
+ 4.6 Gravidez e aleitamento Gravidez O metabolito activo da leflunomida, A 771726 é supeito de causar deficiências graves nos fetos quando administrado durante a gravidez. O Arava está contraindicado durante a gravidez (ver secção 4.3).
+ As mulheres em idade fértil deverão utilizar métodos contraceptivos eficazes durante e até 2 anos após o tratamento (ver “ Período de espera ” abaixo) ou até 11 dias após o tratamento (ver “ período de washout ” abreviado abaixo).
+ A doente deve ser informada de que qualquer atraso no início do período menstrual ou qualquer outra razão que levante a suspeita de uma gravidez deve ser comunicada imediatamente ao seu médico assistente, para que se efectuem os testes de gravidez. Se estes testes forem positivos, o médico e a doente devem discutir o risco para a gravidez. É possível que a rápida redução dos níveis sanguíneos do metabolito activo, utilizando o método de eliminação do medicamento descrito abaixo, possa diminuir o risco da leflunomida para o feto.
+ Para mulheres tratadas com leflunomida e que desejam engravidar, recomenda-se um dos procedimentos seguintes, a fim de assegurar que o feto não é exposto a concentrações tóxicas de A771726 (concentrações pretendidas abaixo de 0.02 mg/l).
+ 38 Período de espera:
+ É de esperar que níveis plasmáticos de A771726 estejam acima de 0.02 mg/l por um período prolongado. Previsivelmente, a concentração desce para valores inferiores a 0.02 mg/l cerca de 2 anos após a interrupção do tratamento com leflunomida.
+ Após um período de espera de 2 anos, a concentração plasmática de A771726 é medida pela primeira vez. Em seguida, a concentração plasmática deve ser determinada novamente após um intervalo de pelo menos 14 dias. Se ambas as concentrações plasmáticas estiverem abaixo de 0.02 mg/l, não é de esperar risco teratogénico.
+ Para mais informação sobre o teste da amostra, por favor contacte o Titular da Autorização de Introdução no Mercado ou o seu representante local (ver secção 7).
+ Procedimento de washout: Após suspender o tratamento com leflunomida:
+ • administra-se uma dose de 8 g de colestiramina 3 vezes por dia durante um período de 11 dias.
+ • em alternativa,50 g de carvão em pó activado são administrados 4 vezes por dia durante um período de 11 dias.
+ Contudo, também após qualquer dos procedimentos de washout, é necessária uma confirmação, através de 2 testes separados por um intervalo de pelo menos 14 dias, e um período de espera de um mês e meio entre a primeira ocorrência de uma concentração plasmática inferior a 0.02 mg/l e a fertilização.
+ As mulheres em idade fértil devem ser informadas de que é necessário um período de espera de 2 anos após interrupção do tratamento antes de poderem engravidar. Se um período de espera até cerca de 2 anos, sob contracepção segura, não for considerado exequível, pode ser recomendável a instituição profilática de um período de washout.
+ Tanto a colestiramina como o carvão activado em pó podem influenciar a absorção de estrogénios e progestagénios; assim, uma contracepção eficaz com contraceptivos orais pode não estar assegurada durante o procedimento de washout com colestiramina e carvão em pó activado. Recomenda-se a utilização de métodos contraceptivos alternativos.
+ Aleitamento Os estudos de experimentação animal indicam que tanto a leflunomida como os seus metabolitos são excretados pelo leite materno. Consequentemente, mulheres que amamentam não devem ser tratadas com leflunomida.
+ 4.7 Efeitos sobre a capacidade conduzir e utilizar máquinas
+ Em caso de efeitos secundários, tais como tonturas, a capacidade de concentração e de reacção do doente pode ser afectada. Nestes casos, os doentes não deverão conduzir nem utilizar máquinas.
+ 39 4.8 Efeitos indesejáveis
+ Os efeitos indesejáveis notificados com maior frequência (≥ 1/100 a &lt; 1/10) com leflunomida são: aumento moderado da pressão arterial, leucopenia, parestesia, cefaleias, vertigens, diarreia, náusea, vómitos, distúrbios da mucosa oral (ex, estomatite aftosa, ulceração da boca), dor abdominal, aumento da perda de cabelo, eczema, erupção cutânea (incluindo erupção cutânea maculo-papulosa), prurido, pele seca, tenosinuvite, aumento da CPK, anorexia, perda de peso (normalmente insignificante), astenia, reacções alérgicas ligeiras e aumento dos parâmetros hepáticos (transaminases (especialmente ALT), menos frequentemente da gama-GT, fosfatase alcalina, bilirrubinas).
+ Classificação das frequências esperadas: Muito frequentes (≥1/10); frequentes (≥ 1/100 a &lt; 1/10); pouco frequentes (≥1/1000 a &lt; 1/100); raros (≥1/10.000 a &lt; 1/1.000); muito raros (&lt; 1/10.000), desconhecido (não pode ser calculado a partir dos dados disponíveis)
+ Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ Cardiopatias Frequentes: ligeiro aumento da pressão arterial
+ Raros: grave aumento da pressão arterial
+ Doenças do sangue e do sistema linfático Frequentes: leucopénia (leucócitos &gt; 2 G/l)
+ Pouco frequentes: anemia, trombocitopénia ligeira (plaquetas &lt; 100 G/l)
+ Raros: pancitopénia (provavelmente por mecanismo antiproliferativo), leucopénia (leucócitos &lt; 2 G/l), eosinófilia
+ Muito raros: agranulocitose
+ O uso recente, concomitante ou consecutivo de agentes potencialmente mielotóxicos pode estar associado a um risco mais elevado de efeitos hematológicos.
+ Doenças do sistema nervoso Frequentes: parestesia, cefaleia, tonturas
+ Muito raros: neuropatia periférica
+ Doenças respiratórias, torácicas e do mediastino
+ Raros: fatal doença pulmonar intersticial (incluindo a pneumonite intersticial), que pode ser
+ Doenças gastrointestinais Frequentes: diarreia, náuseas, vómitos, perturbações da mucosa oral (p. e. estomatite aftosa, ulceração da boca), dores abdominais
+ Pouco frequentes: alterações do paladar 40 Muito raros:
+ pancreatite
+ Doenças renais e urinárias Desconhecido: insuficiência renal
+ Afecções dos tecidos cutâneos e subcutâneas
+ Frequentes: aumento da perda de cabelo, eczema, erupção cutânea (incluindo erupção cutânea
+ maculopapulosa), prurido, pele seca
+ Pouco frequentes: urticária Muito raros: necrólise epidérmica tóxica, síndrome de Stevens-Johnson, eritema multiforme
+ Afecções músculo-esqueléticas e dos tecidos conjuntivos
+ Frequentes: tenosinovite
+ Pouco frequentes: ruptura de tendões Doenças do metabolismo e da nutrição Frequentes: aumento da CPK
+ Pouco frequentes: hipocaliémia, hiperlipidemia, hipofosfatemia
+ Raros: aumento das LDH Desconhecido: hipouricemia.
+ Infecções e infestações Raros: infecções graves, incluindo sepsis que pode ser fatal.
+ Tal como outros agentes com potencial imunossupressor, a leflunomida pode aumentar a susceptibilidade a infecções, incluindo infecções oportunistas (ver também secção 4.4). Assim, a incidência global de infecções pode aumentar (em particular rinite, bronquite e pneumonia).
+ Neoplasias benignas, malignas e não especificadas (incl. quistos e pólipos)
+ O risco de malignidade, particularmente em distúrbios linfoproliferativos, aumenta com o uso de alguns agentes imunosupressores.
+ Perturbações gerais e alterações no local de administração
+ Frequentes: anorexia, perda de peso (normalmente insignificante), astenia
+ Doenças do sistema imunitário
+ Frequentes: reacções alérgicas ligeiras
+ Muito raros: necrosante reacções anafilácticas/anafilactóides graves, vasculite, incluindo vasculite cutânea
+ 41 Afecções hepatobiliares
+ Frequentes: elevação dos parâmetros da função hepática (transaminases[ especialmente a ALT]), menos frequentemente a gama-GT, fosfatase alcalina, bilurrubina)
+ Raros: hepatite, icterícia/colestase
+ Muito raramente: lesões hepáticas graves tais como falência hepática e necrose hepática aguda que pode ser fatal
+ Doenças dos órgãos genitais e da mama Desconhecido: diminuição marginal (reversível) na concentração de sémen, contagem total de sémen e motilidade progressiva rápida
+ Perturbações do foro psiquiátrico Pouco frequentes: ansiedade 4.9 Sobredosagem Sintomas Têm sido notificados casos crónicos de sobredosagem em doentes a tomar Arava em doses diárias até 5 vezes a dose recomendada por dia, e notificações de sobredosagem aguda em adultos e crianças. Na maioria dos casos notificados de sobredosagem não se verificou notificação de efeitos indesejáveis. Efeitos indesejáveis consistentes com o perfil de segurança da leflunomida foram: dor abdominal, náuseas, diarreia, aumento das enzimas hepáticas, anemia, leucopenia, prurido e erupção cutânea.
+ Tratamento Na eventualidade de ocorrer sobredosagem significativa ou toxicidade, recomenda-se a administração de colestiramina ou carvão activado, de modo a acelerar a eliminação do medicamento. A administração de uma dose de 8 g de colestiramina por via oral, três vezes por dia, durante 24 horas, a três voluntários saudáveis, provocou uma redução dos níveis plasmáticos de A771726 de cerca de 40% no período de 24 horas e de 49-65% em 48 horas.
+ A administração de carvão activado (pó para suspensão) por via oral ou sonda nasogástrica (50 g em intervalos de 6 horas durante 24 horas), demonstrou reduzir as concentrações plasmáticas do metabolito activo A77 1726 em 37% no período de 24 horas e em 48% no período de 48 horas. Estes procedimentos de washout podem ser repetidos nos casos em que clinicamente se justifique.
+ Estudos em hemodiálise e DPC (diálise peritoneal crónica ambulatória) indicam que o metabolito primário da leflunomida A771726, não é dializável.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: imunossupressores selectivos, código ATC: L04AA13.
+ Farmacologia humana A leflunomida é um agente anti-reumático modificador da doença com propriedades antiproliferativas.
+ 42 Farmacologia Animal
+ A leflunomida é eficaz em modelos animais de artrite e de outras doenças autoimunes e transplantes, principalmente se for utilizada durante a fase de sensibilização. Tem características imunomoduladoras/imunosupressoras, actua como agente antiproliferativo e apresenta propriedades anti-inflamatórias. A leflunomida revela os melhores efeitos protectores em modelos animais de doenças autoimunes quando administrada na fase inicial da progressão da doença.
+ In vivo, é rápida e quase completamente metabolizada em A771726, que é activo in vitro, e se presume ser responsável pelo efeito terapêutico.
+ Modo de acção O A771726, metabolito activo da leflunomida, inibe a enzima humana dihidroorotato desidrogenase (DHODH) e apresenta actividade antiproliferativa.
+ Artrite reumatóide A eficácia do Arava no tratamento da artrite reumatóide foi demonstrada em 4 ensaios controlados (1 em fase II e 3 na fase III). No ensaio da fase II, estudo YU 203, foram aleatorizados 402 doentes com artrite reumatóide activam, para terapêutica com placebo (n=102), leflunomida 5 mg (n=95),10 mg (n=101) ou 25 mg por dia (n=104). A duração do tratamento foi de 6 meses. Todos os doentes medicados com leflunomida nos ensaios da fase III receberam uma dose inicial de 100 mg durante 3 dias. No estudo MN301 foram aleatorizados 358 doentes com artrite reumatóide activa, para terapêutica com leflunomida 20 mg/dia (n=133), sulfasalazina 2 g/dia (n=133) ou placebo (n=92). A duração do tratamento foi de 6 meses. O estudo MN303 foi uma continuação cega opcional de 6 meses do estudo MN301, sem o grupo placebo, resultando numa comparação de 12 meses entre a leflunomida e a sulfasalazina. No estudo MN302 foram aleatorizados 999 doentes com artrite reumatóide activa, para terapêutica com leflunomida 20 mg/dia (n=501) ou metotrexato 7,5 mg/semana, aumentando para 15 mg/semana (n=498). O suplemento de folatos foi opcional e usado só em 10% dos doentes. A duração do tratamento foi de 12 meses. No estudo US301 foram aleatorizados 482 doentes com artrite reumatóide activa, para terapêutica com leflunomida 20 mg/dia (n=182), metotrexato 7,5 mg/semana, aumentando para 15 mg/semana (n=182), ou placebo (n=118). Todos os doentes foram medicados com 1 mg de ácido fólico, duas vezes por dia. A duração do tratamento foi de 12 meses.
+ A leflunomida, numa dose diária de pelo menos 10 mg (10 a 25 mg no estudo YU 303,20 mg nos estudos MN301 e US301) foi superior ao placebo, com uma diferença estatisticamente significativa, na redução dos sinais e sintomas da artrite reumatóide em todos os 3 ensaios controlados por placebo. As taxas de resposta ACR (American College of Rheumatology) no estudo YU 203 foram de 27,7% no grupo placebo, 31,9% no grupo medicado com 5 mg, 50,5% no grupo medicado com 10 mg e de 54,5% no grupo tratado com 25 mg/dia. Nos ensaios de fase III, as taxas de resposta ACR para a leflunomida 20 mg/dia vs. placebo, foram de 54,6% vs. 28,6% (estudo MN301), e de 49,4% vs. 26,3% (estudo US301). Após 12 meses de tratamento activo, as taxas de resposta ACR nos doentes medicados com leflunomida foram de 52,3% (estudos MN301/303), 50,5% (estudo MN302) e 49,4% (estudo US301), comparados com 53,8% nos doentes com sulfasalazina (estudos MN301/303), e 64,8% (estudo MN302) e 43,9% nos doentes medicados com metotrexato. No estudo MN302, a leflunomida foi significativamente menos eficaz do que o metotrexato. Contudo, no estudo US301, não foram observadas diferenças significativas nos parâmetros de eficácia primária entre a leflunomida e o metotrexato. Não foi observada diferença entre a leflunomida e a sulfasalazina (estudo MN301). O efeito do tratamento com leflunomida foi evidente após 1 mês, estabilizou entre os 3 e os 6 meses e continuou durante todo o decurso do tratamento.
+ 43 Um estudo de não inferioridade aleatorizado, com dupla ocultação, de grupos paralelos comparou a eficácia relativa de duas doses de manutenção diferentes de leflunomida,10 e 20 mg. Destes resultados pode concluir-se que, em termos de eficácia a dose de manutenção de 20 mg foi mais favorável, no entanto, os resultados de segurança foram mais favoráveis para a dose de manutenção de 10 mg.
+ Pediatria A leflunomida foi estudada num estudo multicêntrico, randomizado, duplamente cego, controlado em 94 doentes (47 por braço) com artrite reumatóide juvenil de evolução poliarticular. Os doentes tinham idades entre os 3 e os 17 anos, com artrite reumatóide juvenil de evolução poliarticular, independetemente do tipo de início ou doentes naive ao metotrexato ou lefluomida. Neste ensaio, a dose utilizada e de manutenção de leflunomida baseou-se em três categorias de peso: &lt; 20 kg, 20-40 kg e &gt; 40 kg. Após 16 semanas de tratamento, a diferença na taxa de resposta foi significativamente a favor do metotrexato para a Definição de Melhoria da ARJ (DOI) ≥30% (p=0,02). Nos doentes que responderam, esta resposta foi mantida durante 48 semanas (ver secção 4.2). O padrão de efeitos adversos de leflunomida e metotrexato parece similar, mas a dose utilizada em sujeitos de mais baixo peso resultou numa exposição relativamente baixa (ver secção 5.2). Esta informação não permite a recomendação de uma dose eficaz e segura.
+ Artrite psoriática A eficácia do Arava foi demonstrada num estudo controlado, randomisado, duplamente cego, 3L01 em 188 doentes com artrite psoriática, tratados com 20 mg/dia. A duração do tratamento foi de 6 meses.
+ A leflunomida 20 mg/dia foi significativamente superior ao placebo na redução dos sintomas da artrite em doentes com artrite psoriática: as respostas ao PsARC (Critério de Resposta ao tratamento da Artrite Psoriática) foi de 59% no grupo da leflunomida e de 29,7% no grupo placebo ao fim de 6 meses (p &lt; 0,0001). O efeito da leflunomida na melhoria da função e na redução das lesões na pele foi moderado.
+ 5.2 Propriedades farmacocinéticas A leflunomida é rapidamente convertida no metabolito activo A771726, por metabolismo de primeira passagem (abertura do anel) na parede intestinal e no fígado. Num estudo com leflunomida marcada radioactivamente com 14C, em três voluntários saudáveis, não foi detectada leflunomida inalterada no plasma, urina ou fezes. Noutros estudos, níveis plasmáticos da ordem de ng/ml de leflunomida inalterada foram raramente detectados. O único metabolito plasmático marcado radioactivamente detectado foi o A771726. Este metabolito é responsável por toda a actividade essencial in vivo do Arava.
+ Absorção Os dados da excreção do estudo com 14C indicam que pelo menos cerca de 82 a 95% da dose é absorvida. O tempo para alcançar as concentrações máximas de A771726 é muito variável, podendo ocorrer entre 1 e 24 horas após administração única. A leflunomida pode ser administrada com alimentos, dado que a extensão da absorção é comparável em jejum ou após as refeições. Devido à semi-vida muito longa do A771726 (cerca de 2 semanas), nos estudos clínicos foi usada uma dose de indução de 100 mg durante 3 dias, para facilitar o alcance rápido dos níveis de equilíbrio do A771726. Sem uma dose de indução estima-se que seriam necessários quase 2 meses de administração para atingir as concentrações plasmáticas de equilíbrio. Em estudos de doses múltiplas realizados em doentes com artrite reumatóide, os parâmetros farmacocinéticos foram lineares para um espectro de doses entre 5 e 25 mg. Nestes estudos, o efeito clínico esteve estreitamente associado com as concentrações plasmáticas de A771726 e com a dose diária de leflunomida. Para a dose de 20 mg/dia, a concentração plasmática média do A771726 no estado de equilíbrio foi cerca de 35 μg/ml. No estado de equilíbrio, os níveis plasmáticos acumulam-se cerca de 33 a 35 vezes, quando comparados com os da dose única.
+ 44 Distribuição
+ No plasma humano, A771726 é largamente ligado às proteínas (albumina). A fracção livre de A771726 é de cerca de 0,62%. A ligação do A771726 é linear dentro dos limites da concentrações terapêutica. A ligação do A771726 é ligeiramente diminuída e mais variável no plasma de doentes com artrite reumatóide ou insuficiência renal crónica. A extensa ligação do A771726 às proteínas poderia levar ao deslocamento de outros medicamentos altamente ligados. Contudo, estudos in vitro de interacção de ligação às proteínas plasmáticas com varfarina, em concentrações clinicamente relevantes, não mostraram interacção. Estudos semelhantes mostraram que o ibuprofeno e o diclofenac não deslocaram o A771726, enquanto que a fracção livre do A771726 aumenta de 2 a 3 vezes na presença de tolbutamida. O A771726 deslocou o ibuprofeno, o diclofenac e a tolbutamida, mas a fracção livre destes medicamentos só aumentou 10 a 50%. Não há indicação que estes efeitos apresentem relevância clínica. Em conformidade com a extensa ligação às proteínas, o A771726 tem um baixo volume aparente de distribuição (cerca de 11 litros). Não há captação preferencial pelos eritrócitos.
+ Metabolismo A leflunomida é metabolizada num metabolito importante (A771726) e muitos metabolitos menores, incluindo o TFMA (4-trifluorometilanina). A biotransformação da leflunomida em A771726 e o metabolismo subsequente do A771726 não é controlado por uma enzima única e mostrou ocorrer em fracções celulares microsómicas e citosólicas. Estudos de interacção com cimetidina (inibidor não específico do citocrómo P450) e rifampicina (indutor não específico do citocrómo P450) indicam que in vivo as enzimas CYP só estão envolvidas no metabolismo da leflunomida em pequena escala.
+ Eliminação A eliminação do A771726 é lenta e caracterizada por uma clearance aparente de cerca de 31 ml/h. A semi-vida de eliminação em doentes é de cerca de 2 semanas. Após administração de uma dose de leflunomida marcada radioactivamente, a radioactividade foi excretada igualmente nas fezes (provavelmente por eliminação biliar), e na urina. A 771726 foi ainda detectado na urina e nas fezes 36 dias após a administração única. Os metabolitos urinários principais foram produtos glucorónicos derivados da leflunomida (principalmente em amostras de 0 a 24 horas) e um ácido oxanílico derivado do A771726. O componente fecal principal foi o A771726.
+ Foi demonstrado no homem que a administração de uma suspensão oral de pó de carvão activado ou de colestiramina leva a um aumento rápido e significativo da taxa de eliminação e a uma redução das concentrações plasmáticas do A771726 (ver secção 4.9). Supõe-se que isto seja alcançado por mecanismos de diálise gastrointestinal e/ou interrupção da reciclagem entero-hepática.
+ Farmacocinética na insuficiência renal A leflunomida foi administrada numa dose oral única de 100 mg a 3 doentes hemodialisados e a 3 doentes submetidos a diálise peritoneal contínua (DPC). Com a hemodiálise, a eliminação do A771726 foi mais rápida e a sua semi vida mais curta. Os parâmetros farmacocinéticos dos 3 doentes submetidos a DPC foram consistentes com os valores obtidos em voluntários sãos.
+ Farmacocinética na insuficiência hepática
+ Não se dispõe de dados sobre o tratamento de doentes com insuficiência hepática. O metabolito activo A771726 apresenta uma ampla ligação às proteínas e é eliminado por metabolismo hepático e por secreção biliar. Estes processos podem ser afectados pela disfunção hepática.
+ 45 Farmacocinética na pediatria
+ A farmacocinética de A771726 após a administração oral de leflunomida foi investigada em 73 doentes com artrite reumatóide juvenil de evolução poliarticular (ARJ) num intervalo de idades dos 3 aos 17 anos. O resultado da análise da farmacocinética da população nestes 3 ensaios demonstrou que doentes pediátricos com peso corporal ≤40 kg apresentam uma exposição sistémica reduzida (medida por Css) de A771726 relativamente aos doentes adultos com artrite reumatóide (ver secção 4.2).
+ Farmacocinética nos idosos Os dados farmacocinéticos nos idosos (&gt; 65 anos) são limitados mas consistentes com a farmacocinética de adultos mais jovens.
+ 5.3 Dados de segurança pré-clínica A leflunomida, administrada por via oral e intraperitoneal, foi estudada em estudos de toxicidade aguda em ratinhos e ratos. A administração oral repetida de leflunomida a ratinhos durante um período até 3 meses, a ratos e cães até 6 meses, e a macacos até 1 mês, revelou que os órgãos alvo principais para a toxicidade eram a medula óssea, o sangue, o aparelho gastrointestinal, a pele, o baço, o timo e os gânglios linfáticos. Os efeitos principais foram anemia, leucopénia, redução do número de plaquetas e panmielopatia, o que reflecte o modo de acção básico do composto (inibição de síntese do ADN). Em ratos e cães, foram encontrados corpos de Heinz e/ou Howell-Jolly. Outros efeitos encontrados no coração, fígado, córnea e aparelho respiratório podem ser explicados por infecções devido a imunossupressão. A toxicidade em animais foi observada para doses equivalentes às doses terapêuticas humanas.
+ A leflunomida não foi mutagénica. Contudo, o metabolito menor TFMA (4-trifluorometilanina) provocou clastogenicidade e mutações pontuais in vitro, sendo insuficiente a informação disponível sobre o seu potencial para exercer este efeito in vivo.
+ Num estudo de carcinogenicidade realizado no rato, não foi comprovado qualquer potencial carcinogénico da leflunomida. Num estudo de carcinogenicidade no ratinho, registou-se um aumento da incidência de linfomas malignos nos machos do grupo submetido à dose mais alta, o qual foi atribuível à actividade imunosupressora da leflunomida. No ratinho fêmea, contudo, observou-se um aumento da incidência dependente da dose de adenomas bronquíolo-alveolares e de carcinomas do pulmão. A relevância dos achados em ratinhos relativamente ao uso clínico de leflunomida é incerta.
+ A leflunomida não foi antigénica em modelos animais. A leflunomida foi embriotóxica e teratogénica em ratos e coelhos em doses dentro do espectro posológico utilizado na terapêutica humana, e exerceu efeitos adversos nos órgãos reprodutores dos machos em estudos de toxicidade com doses múltiplas. A fertilidade não foi reduzida.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Núcleo: Amido de milho povidona (E1201) crospovidona (E1202) talco (E553b) silica coloidal anidra estearato de magnésio (E470b) lactose monohidratada.
+ 46 Revestimento: Talco (E553b) hipromelose (E464) dióxido de titânio (E171) macrogol 8000.
+ 6.2 Incompatibilidades Não aplicável. 6.3 Prazo de validade 3 anos. 6.4 Precauções especiais de conservação
+ Manter na embalagem original. 6.5 Natureza e conteúdo do recipiente Blister de alumínio/alumínio. Tamanho das embalagens: 3 comprimidos comprimidos revestidos por película.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ Não existem requisitos especiais. 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Sanofi-Aventis Deutschland GmbH, D-65926 Frankfurt am Main, Alemanha
+ 8. NÚMERO(S) DE AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/99/118/009 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 02 Setembro 1999 Data da última renovação: 02 Setembro 2004
+ 10. DATA DA REVISÃO DO TEXTO 47 ANEXO II
+ A. TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 48 A. TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do(s) fabricante(s) responsável(veis) pela libertação do lote
+ Sanofi Winthrop Industrie 56, Route de Choisy au Bac F-60205 Compiégne Cedex, França
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E À UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento de receita médica restrita, de utilização reservada a certos meios especializados. (Ver Anexo I: Resumo das Características do Medicamento, ver secção 4.2).
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ Não aplicável. • OUTRAS CONDIÇÕES
+ PSURs: O titular da autorização de introdução no mercado deve submeter RPSs anuais.
+ 49 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 50 A. ROTULAGEM
+ 51 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO EMBALAGEM EXTERIOR/FITA CONTENTORA
+ 1. NOME DO MEDICAMENTO Arava 10 mg comprimidos revestidos por película Leflunomida
+ 2. DESCRIÇÃO DA SUBSTÂNCIA ACTIVA Cada comprimido revestido por película contém 10 mg de leflunomida.
+ 3. LISTA DOS EXCIPIENTES Este medicamento contém lactose (ver o folheto informativo para mais informações).
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 30 comprimidos revestidos por película 100 comprimidos revestidos por película
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar Via oral
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista de crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL (MM/AAAA) 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Manter na embalagem de origem 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 52 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Sanofi-Aventis Deutschland GmbH D-65926 Frankfurt am Main, Alemanha.
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/99/118/001-30 comprimidos EU/1/99/118/002-100 comprimidos
+ 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento de receita médica restrita. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Arava 10 mg 53 INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS “ BLISTER ” OU FITAS CONTENTORAS
+ 1. NOME DO MEDICAMENTO Arava 10 mg comprimidos revestidos por película Leflunomida
+ 2. NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Sanofi-Aventis 3. PRAZO DE VALIDADE VAL.: 4. NÚMERO DO LOTE Lote 5. OUTRAS 54 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO EMBALAGEM EXTERIOR/FRASCO
+ 1. NOME DO MEDICAMENTO Arava 10 mg comprimidos revestidos por película Leflunomida
+ 2. DESCRIÇÃO DA SUBSTÂNCIA ACTIVA Cada comprimido revestido por película contém 10 mg de leflunomida
+ 3. LISTA DOS EXCIPIENTES Este medicamento contém lactose (ver o folheto informativo para mais informações)
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 30 comprimidos revestidos por película 100 comprimidos revestidos por película
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar Via oral
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista de crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL (MM/AAAA) 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Manter o recipiente bem fechado 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 55 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Sanofi-Aventis Deutschland GmbH D-65926 Frankfurt am Main, Alemanha.
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/99/118/003-30 comprimidos EU/1/99/118/004-100 comprimidos
+ 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento de receita médica restrita. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Arava 10 mg 56 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO PRIMÁRIO
+ RÓTULO/FRASCO 1. NOME DO MEDICAMENTO Arava 10 mg comprimidos revestidos por película Leflunomida
+ 2. DESCRIÇÃO DA SUBSTÂNCIA ACTIVA 3. LISTA DOS EXCIPIENTES 4. FORMA FARMACÊUTICA E CONTEÚDO 30 comprimidos revestidos por película 100 comprimidos revestidos por película
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar Via oral
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista de crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL (MM/AAAA) 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Manter o recipiente bem fechado 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 57 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Sanofi-Aventis Deutschland GmbH D-65926 Frankfurt am Main, Alemanha.
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/99/118/003-30 comprimidos EU/1/99/118/004-100 comprimidos
+ 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento de receita médica restrita. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE 58 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO EMBALAGEM EXTERIOR/FITA CONTENTORA
+ 1. NOME DO MEDICAMENTO Arava 20 mg comprimidos revestidos por película Leflunomida
+ 2. DESCRIÇÃO DA SUBSTÂNCIA ACTIVA Cada comprimido revestido por película contém 20 mg de leflunomida
+ 3. LISTA DOS EXCIPIENTES Este medicamento contém lactose (ver o folheto informativo para mais informações)
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 30 comprimidos revestidos por película 100 comprimidos revestidos por película
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar Via oral
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista de crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL (MM/AAAA) 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Manter na embalagem de origem 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 59 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Sanofi-Aventis Deutschland GmbH D-65926 Frankfurt am Main, Alemanha.
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/99/118/005-30 comprimidos EU/1/99/118/006-100 comprimidos
+ 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento de receita médica restrita. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Arava 20 mg 60 INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS “ BLISTER ” OU FITAS CONTENTORAS
+ 1. NOME DO MEDICAMENTO Arava 20 mg comprimidos revestidos por película Leflunomida
+ 2. NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Sanofi-Aventis 3. PRAZO DE VALIDADE VAL.: 4. NÚMERO DO LOTE Lote 5. OUTRAS 61 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO EMBALAGEM EXTERIOR/FRASCO
+ 1. NOME DO MEDICAMENTO Arava 20 mg comprimidos revestidos por película Leflunomida
+ 2. DESCRIÇÃO DA SUBSTÂNCIA ACTIVA Cada comprimido revestido por película contém 20 mg de leflunomida.
+ 3. LISTA DOS EXCIPIENTES Este medicamento contém lactose (ver o folheto informativo para mais informações)
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 30 comprimidos revestidos por película 50 comprimidos revestidos por película 100 comprimidos revestidos por película
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar Via oral
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista de crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL (MM/AAAA) 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Manter o recipiente bem fechado 62 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Sanofi-Aventis Deutschland GmbH D-65926 Frankfurt am Main, Alemanha.
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/99/118/007-30 comprimidos EU/1/99/118/010-50 comprimidos EU/1/99/118/008-100 comprimidos
+ 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento de receita médica restrita. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Arava 20 mg 63 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO RÓTULO/FRASCO
+ 1. NOME DO MEDICAMENTO Arava 20 mg comprimidos revestidos por película Leflunomida
+ 2. DESCRIÇÃO DA SUBSTÂNCIA ACTIVA 3. LISTA DOS EXCIPIENTES 4. FORMA FARMACÊUTICA E CONTEÚDO 30 comprimidos revestidos por película 50 comprimidos revestidos por película 100 comprimidos revestidos por película
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar Via oral
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista de crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL (MM/AAAA) 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Manter o recipiente bem fechado 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 64 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Sanofi-Aventis Deutschland GmbH D-65926 Frankfurt am Main, Alemanha.
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/99/118/007-30 comprimidos EU/1/99/118/010-50 comprimidos EU/1/99/118/008-100 comprimidos
+ 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamentos de receita médica restrita. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE 65 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO PRIMÁRIO
+ EMBALAGEM EXTERIOR/FITA CONTENTORA 1. NOME DO MEDICAMENTO Arava 100 mg comprimidos revestidos por película Leflunomida
+ 2. DESCRIÇÃO DA SUBSTÂNCIA ACTIVA Cada comprimido revestido por película contém 100 mg de leflunomida
+ 3. LISTA DOS EXCIPIENTES Este medicamento contém lactose (ver o folheto informativo para mais informações)
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 3 comprimidos revestidos revestidos por película
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar Via oral
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista de crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL (MM/AAAA) 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Manter na embalagem de origem 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 66 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Sanofi-Aventis Deutschland GmbH D-65926 Frankfurt am Main, Alemanha.
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/99/118/009-3 comprimidos 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento de receita médica restrita. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Arava 100 mg 67 INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS “ BLISTER ” OU FITAS CONTENTORAS
+ 1. NOME DO MEDICAMENTO Arava 100 mg comprimidos revestidos por película Leflunomida
+ 2. NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Sanofi-Aventis 3. PRAZO DE VALIDADE VAL.: 4. NÚMERO DO LOTE Lote 5. OUTRAS 68 B. FOLHETO INFORMATIVO
+ 69 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Arava 10 mg comprimidos revestidos por película Leflunomida
+ Leia atentamente este folheto antes de tomar este medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é o Arava e para que é utilizado 2. Antes de tomar Arava 3. Como tomar Arava 4. Efeitos secundários possíveis 5. Como conservar Arava 6. Outras informações
+ 1. O QUE É O ARAVA E PARA QUE É UTILIZADO
+ O Arava pertence a um grupo de medicamentos designados de anti-reumáticos.
+ O Arava é usado no tratamento de doentes com artrite reumatóide activa ou com artrite psoriática activa.
+ Os sintomas da artrite reumatóide incluem inflamação das articulações, tumefacção, dificuldade de movimentação e dores. Outros sintomas que afectam todo o corpo incluem perda de apetite, febre, perda de energia e anemia (falta de glóbulos vermelhos).
+ Os sintomas da artrite psoriática activa incluem inflamação das articulações, tumefacção, dificuldade de movimentação, dores e manchas vermelhas, pele escamosa (lesões na pele).
+ 2. ANTES DE TOMAR ARAVA Não tome Arava -se teve alguma vez uma reacção alérgica à leflunomida (sobretudo uma reacção cutânea grave
+ muitas vezes acompanhada de febre, dores articulares, manchas vermelhas na pele ou vesículas por ex. o sindroma de Steven-Johnson) ou a qualquer dos outros ingredientes de Arava
+ -se tem problemas hepáticos.
+ -se tem problemas renais de moderados a graves,
+ -se tem um nivel baixo de proteínas no seu sangue (hipoproteinemia),
+ -se sofre de uma doença que afecte o seu sistema imunitário (p. ex.: SIDA),,
+ -se tem algum problema na sua medula óssea ou se o número de glóbulos vermelhos ou brancos do
+ seu sangue ou o número de plaquetas sanguíneas estiver diminuído,
+ -se sofre de uma infecção grave.
+ -se estiver grávida ou a amamentar.
+ 70 Tome especial cuidado com Arava
+ -se alguma vez teve tuberculose (doença dos pulmões).
+ -se é do sexo masculino e pretende ser pai de uma criança, dado que o Arava pode provocar
+ malformações em recém-nascidos. Para minimizar qualquer risco possível, homens que pretendam ser pais de uma criança deverão contactar o seu médico que o poderá aconselhar a parar o tratamento com Arava e a tomar certos medicamentos para acelerar a remoção do Arava do seu organismo. Necessitará depois de um exame ao sangue para ter a certeza que o Arava foi suficientemente removido do seu organismo, e deverá então sperar durante pelo menos três meses adicionais ..
+ O Arava pode ocasionalmente provocar alguns problemas no seu sangue, fígado e pulmões. Pode também causar reacções alérgicas graves, ou aumentar as hipóteses de infecções graves. Para mais informações sobre estes, consulte por favor a secção 4 (Efeitos Secundários Possíveis).
+ O seu médico irá, em intervalos regulares, prescrever-lhe análises clínicas antes e durante o tratamento com Arava, de forma a monitorizar as suas células sanguíneas e o fígado. O seu médico irá também verificar a sua pressão arterial regularmente, dado que o Arava pode provocar um aumento na pressão arterial.
+ O Arava não está recomendado em crianças e adolescentes com idade inferior a 18 anos.
+ Tomar Arava com outros medicamentos Informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica.
+ Isto é especialmente importante se estiver a tomar:
+ -outros medicamentos para a artrite reumatóide tais como anti-maláricos (por es., cloroquina e
+ hidrocloroquina), ouro oral ou intramuscular, D-penicilamina, azatioprina e outros medicamentos imunosupressores (por ex., metotrexato) uma vez que estas combinações não são aconselhadas,
+ -um medicamento chamado de colesteramina (utilizado para reduzir o colestrol elevado) ou
+ carvão activado, uma vez que estes medicamentos podem reduzir a quantidade de Arava que é absorvido pelo organismo,
+ -fenitoína (utilizado no tratamento de epilepsia), varfarina ou fenoprocoumon (utilizados para
+ tornar o sangue mais fluído) ou tolbutamida (utilizado no tratamento da diabetes tipo 2), uma vez que estes medicamentos podem aumentar o risco de efeitos secundários.
+ Se já estiver a tomar medicamentos anti-inflamatórios não esteróides (AINE’ s) e/ou corticosteróides, pode continuar a tomá-los após iniciar a toma de Arava.
+ Vacinações Caso tenha de ser vacinado, peça aconselhamento ao seu médico. Algumas vacinas não deverão ser administradas enquanto estiver a tomar Arava, e durante algum tempo após parar o tratamento.
+ Tomar Arava com alimentos e bebidas Não é recomendável beber álcool durante o tratamento com Arava. Beber álcool enquanto toma Arava pode aumentar as hipóteses de ocorrência de lesões no fígado.
+ Gravidez e aleitamento Não tome Arava se está ou se pensa que pode estar grávida. Mulheres em idade fértil não deverão tomar Arava sem usar medidas contraceptivas de confiança.
+ Informe o seu médico se está a planear uma gravidez após parar o tratamento com Arava, uma vez que será necessário assegurar que todos os resíduos de Arava já não se encontram no seu organismo antes de tentar engravidar. Isto poderá levar até 2 anos. Este período pode ser encurtado para algumas semanas se tomar certos medicamentos que aceleram a remoção do Arava do seu organismo.
+ 71 Em qualquer dos casos, deve ser confirmado por um teste sanguíneo que a eliminação do Arava do seu corpo foi suficiente e deve esperar pelo menos mais um mês antes de ficar grávida.
+ Para mais informação sobre o teste laboratorial, por favor contacte com o Titular da Autorização de Introdução do Mercado ou com o seu representante.
+ Se suspeita de uma gravidez enquanto toma Arava ou nos dois anos após ter parado o tratamento (p. ex., quando o seu período menstrual se atrasar), deve contactar imediatamente o seu médico, de modo a efectuar um teste de gravidez. Se o teste confirmar que está grávida, o seu médico poderá sugerir tratamento com certos medicamentos para acelerar a remoção do Arava do seu organismo, uma vez que isso poderá reduzir o risco para o seu bebé.
+ Não tome Arava se estiver a amamentar, uma vez que a leflunomida passa para o leite materno.
+ Condução de veículos e utilização de máquinas O Arava pode fazê-lo sentir tonto o que pode perturbar a sua capacidade de concentração e reacção. Se se sente afectado afectado, não conduza, ou utilize máquinas.
+ Informações importantes sobre alguns componentes do Arava: O Arava contém lactose. Se o seu médico lhe disse que tem intolerância a alguns acúcares, consulte o seu médico antes de tomar este medicamento.
+ 3. COMO TOMAR ARAVA Tomar Arava sempre de acordo com as indicações do médico. Fale com o seu médico ou farmacêutico se tiver dúvidas.
+ O Arava não está recomendado para o tratamento de crianças e adolescentes com idade inferior a 18 anos.
+ A dose de início habitual de Arava é de um comprimido de 100 mg uma vez por dia durante os primeiros três dias. Em seguida, a maioria dos doentes necessita de: • Para a artrite reumatóide: 10 ou 20 mg de Arava uma vez ao dia, dependendo da gravidade da doença. • Para a artrite psoriática activa: 20 mg de Arava uma vez ao dia.
+ Engula os comprimidos inteiros, com água suficiente.
+ Pode levar cerca de 4 semanas ou mais até começar a sentir uma melhoria do seu estado. Alguns doentes podem ainda continuar a sentir uma acentuação das melhorias após 4 a 6 meses de tratamento. Normalmente, o Arava é tomado durante longos períodos de tempo.
+ Se tomar mais Arava do que deveria: Se tomar mais Arava do que deveria, contacte o seu médico ou procure conselho médico. Se possível, leve consigo os seus comprimidos ou a caixa de embalagem para mostrar ao médico.
+ Caso se tenha esquecido de tomar Arava: Se se esquecer de tomar uma dose, tome-a assim que se lembrar, excepto se for já próximo da dose seguinte. Não tome uma dose a dobrar para compensar uma dose que se esqueceu de tomar.
+ Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou farmacêutico.
+ 72 4. EFEITOS SECUNDÁRIOS POSSÍVEIS
+ Como todos os medicamentos, o Arava pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ Informe o seu médico imediatamente e pare de tomar Arava:
+ -se se sente fraco, com a cabeça leve ou tonto ou se tem dificuldade em respirar, uma vez que
+ podem ser sinais de reacção alérgica grave,
+ -se desenvolveu rash cutâneo ou úlceras na boca, uma vez que estas podem indicar graves, e
+ que podem por vezes ser fatais (p. ex., síndrome de Stevens-Johnson, necrólise epidérmica tóxica, eritema multiforme).
+ Informe o seu médico imediatamente caso tenha sentido os seguintes efeitos indesejáveis:
+ -palidez, cansaço, ou nódoas negras, uma vez que podem indicar problemas no sangue
+ provacadas por um desequilíbrio nos diferentes tipos de células envolvidas no fabrico do sangue;
+ -cansaço, dor abdominal ou icterícia (coloração amarela dos olhos ou da pele), uma vez que
+ estes podem indicar problemas graves tais como falência hepática, que pode ser fatal,
+ -qualquer sintoma de infecção tais como febre, anginas ou tosse, uma vez que o Arava pode
+ aumentar as hipóteses de uma infecção grave que pode ser potencialmente fatal,
+ -tosse ou problemas respiratórios, dado que estes podem indicar inflamação dos pulmões
+ (doença pulmonar intersticial).
+ Efeitos secundários frequentes (pode ocorrer em mais de 1 em cada 100 doentes e menos de 1 em cada 10)
+ -uma diminuição ligeira do número de glóbulos brancos (leucopenia),
+ -reacções alérgicas ligeiras,
+ -perda de apetite, perda de peso (normalmente insignificante),
+ -cansaço (astenia),
+ -cefaleias, tonturas,
+ -sensações anormais na pele como formigueiro (parestesia),
+ -ligeiro aumento da pressão arterial,
+ -diarreia,
+ -náuseas, vómitos,
+ -inflamação da boca ou ulceração da boca,
+ -dores abdominais,
+ -aumento dos valores de alguns testes hepáticos,
+ -aumento da perda de cabelo,
+ -eczema, pele seca, rash, prurido,
+ -tendinite (dor provocada pela inflamação da membrana que envolve os tendões, normalmente nos
+ pés e nas mãos),
+ -um aumento de algumas enzimas no sangue (creatinina fosfoquinase).
+ Efeitos secundários pouco frequentes (podem ocorrer em mais de 1 em cada 1.000 doentes, mas em menos de 1 em cada 100)
+ -uma diminuição do número de glóbulos vermelhos (anemia) e uma diminuição do número de
+ plaquetas (trombocitopenia),
+ -uma diminuição dos níveis de potássio no sangue,
+ -ansiedade,
+ -alterações do paladar,
+ -urticária,
+ -ruptura de tendões,
+ -um aumento nos níveis de gordura no sangue (colesterol e triglicéridos),
+ -uma diminuição dos níveis de fosfato no sangue.
+ 73 Efeitos secundários raros (podem ocorrer em mais de 1 em cada 10.000 doentes mas menos de 1 em cada 1.000 doentes)
+ -um aumento do número de células sanguíneas chamados eosinofílios (eosinofilia); diminuição
+ ligeira do número de glóbulos brancos (leucopenia); diminuição do número de todas células sanguíneas (pancitopenia),
+ -aumento acentuado da pressão arterial,
+ -inflamação pulmonar (doença pulmonar intersticial),
+ -um aumento dos valores de alguns testes do fígado, que pode evoluir para situações graves como
+ hepatite e icterícia,
+ -infecções graves designadas de sepsis que podem ser fatais,
+ -aumento de certas enzimas no sangue (lactato desidrogenase).
+ Efeitos secundários muito raros (podem ocorrer em menos de 1 em cada 10.000 doentes)
+ -uma diminuição marcada de alguns glóbulos brancos (agranulocitose),
+ -reacções alérgicas graves ou potencialmente graves,
+ -inflamação dos pequenos vasos (vasculite, incluindo vasculite cutânea necrosante),
+ -problemas nos nervos dos braços e pernas (neuropatia periférica),
+ -inflamação do pâncreas (pancreatite),
+ -lesões hepáticas graves, tais como falência hepática ou necrólise que podem por vezes ser fatais,
+ -reacções graves que podem por vezes ser fatais (síndrome de Stevens-Johnson, necrólise
+ espidérmica tóxica, eritma multiforme).
+ Outros efeitos secundários tais como falência renal, diminuição dos níveis de ácido úrico no seu sangue, e infertilidade masculina (que é reversível assim que o tratamento com Arava é parado) podem também ocorrer com uma frequência desconhecida.
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionado neste folheto, por favor informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR ARAVA Manter fora do alcance e da vista das crianças.
+ Não utilize Arava após o prazo de validade impresso na embalagem exterior após VAL. O prazo de validade corresponde ao último dia do mês indicado.
+ Blister: Manter na embalagem exterior. Frasco: Manter o recipiente bem fechado. Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Arava -A substância activa é a leflunomida. Um comprimido revestido por película contem 10 mg de
+ leflunomida.
+ -Os outros componentes são: amido de milho, povidona (E1201), crospovidona (E1202), sílica
+ coloidal anidra, estearato de magnésio (E470b), e lactose monohidratada no núcleo assim como talco (E553b), hipromelose (E464), dióxido de titâneo (E171), e macrogol 8000 no revestimento.
+ 74 Qual o aspecto de Arava e conteúdo da embalagem Os comprimidos revestidos por película de Arava 10 mg são redondos, brancos ou quase brancos com um diâmetro de cerca de 7 mm. Imprimido num dos lados: ZBN.
+ Os comprimidos são acondicionados em blisters ou frascos. Os comprimidos estão disponíveis em embalagens de 30 e 100 unidades.
+ É possível que não sejam comercializadas todas as apresentações.
+ Titular de Autorização de Introdução no Mercado Sanofi-Aventis Deutschland GmbH D-65926 Frankfurt am Main, Alemanha
+ Fabricante Sanofi Winthrop Industrie 56, Route de Choisy au Bac F-60205 Compiégne Cedex, França
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado.
+ België/Belgique/Belgien sanofi-aventis Belgium Tél/Tel: +32 (0) 2 710 54 00
+ Luxembourg/Luxemburg sanofi-aventis Belgium Tél/Tel: +32 (0) 2 710 54 00 (Belgique/Belgien)
+ България sanofi-aventis Bulgaria EOOD Тел.: +359 (0) 2 970 53 00
+ Magyarország sanofi-aventis zrt., Magyarország Tel.: +36 1 505 0050
+ Česká republika sanofi-aventis, s. r. o. Tel: +420 233 086 111
+ Malta sanofi-aventis Malta Ltd. Tel: +356 21493022
+ Danmark sanofi-aventis Denmark A/S Tlf: +45 45 16 70 00
+ Nederland sanofi-aventis Netherlands B. V. Tel: +31 (0) 182 557 755
+ Deutschland Sanofi-Aventis Deutschland GmbH Tel: +49 (0) 180 2 222010
+ Norge sanofi-aventis Norge AS Tlf: +47 67 10 71 00
+ Eesti sanofi-aventis Estonia OÜ Tel: +372 627 34 88
+ Österreich sanofi-aventis GmbH Tel: +43 1 80 185 – 0
+ Ελλάδα sanofi-aventis AEBE Τηλ: +30 210 900 16 00
+ Polska sanofi-aventis Sp. z o. o. Tel.: +48 22 541 46 00
+ España sanofi-aventis, S. A. Tel: +34 93 485 94 00
+ Portugal sanofi-aventis-Produtos Farmacêuticos, S. A. Tel: +351 21 35 89 400
+ 75 France sanofi-aventis france Tél: 0 800 222 555 Appel depuis l’ étranger: +33 1 57 63 23 23
+ România sanofi-aventis România S. R. L. Tel: +40 (0) 21 317 31 36
+ Ireland sanofi-aventis Ireland Ltd. Tel: +353 (0) 1 403 56 00
+ Slovenija sanofi-aventis d. o. o. Tel: +386 1 560 48 00
+ Ísland Vistor hf. Sími: +354 535 7000
+ Slovenská republika sanofi-aventis Pharma Slovakia s. r. o. Tel: +421 2 57 103 777
+ Italia sanofi-aventis S. p. A. Tel: +39 02 393 91
+ Suomi/Finland sanofi-aventis Oy Puh/Tel: +358 (0) 201 200 300
+ Κύπρος sanofi-aventis Cyprus Ltd. Τηλ: +357 22 871600
+ Sverige sanofi-aventis AB Tel: +46 (0) 8 634 50 00
+ Latvija sanofi-aventis Latvia SIA Tel: +371 67 33 24 51
+ United Kingdom sanofi-aventis Tel: +44 (0) 1483 505 515
+ Lietuva UAB sanofi-aventis Lietuva Tel: +370 5 2755224
+ Este folheto foi aprovado pela última vez em{ MM/AAAA}
+ 76 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Arava 20 mg comprimidos revestidos por película Leflunomida
+ Leia atentamente este folheto antes de tomar este medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é o Arava e para que é utilizado 2. Antes de tomar Arava 3. Como tomar Arava 4. Efeitos secundários possíveis 5. Como conservar Arava 6. Outras informações
+ 1. O QUE É O ARAVA E PARA QUE É UTILIZADO
+ O Arava pertence a um de medicamentos designados de anti-reumáticos.
+ O Arava é usado no tratamento de doentes com artrite reumatóide activa ou com artrite psoriática activa.
+ Os sintomas da artrite reumatóide incluem inflamação das articulações, tumefacção, dificuldade de movimentação e dores. Outros sintomas que afectam todo o corpo incluem perda de apetite, febre, perda de energia e anemia (falta de glóbulos vermelhos).
+ Os sintomas da artrite psoriática activa incluem inflamação das articulações, tumefacção, dificuldade de movimentação, dores e manchas vermelhas, pele escamosa (lesões na pele).
+ 2. ANTES DE TOMAR ARAVA Não tome Arava -se teve alguma vez uma reacção alérgica à leflunomida (sobretudo uma reacção cutânea grave,
+ muitas vezes acompanhada de febre, dores articulares, manchas vermelhas na pele ou vesículas por ex. o sindroma de Steven-Johnson) ou a qualquer dos outros ingredientes de Arava.
+ -se tem problemas hepáticos.
+ -se tem problemas renais de moderados a garves.
+ -se tem um nível baixo de proteínas no seu sangue (hipoproteinemia)
+ -se sofre de uma doença que afecte o seu sistema imunitário (p. ex.: SIDA).
+ -se tem algum problema na sua medula óssea ou se o número de glóbulos vermelhos ou brancos do
+ seu sangue ou o número de plaquetas sanguíneas estiver diminuído.
+ -se sofre de uma infecção grave.
+ -se estiver grávida ou a amamentar.
+ 77 Tome especial cuidado com Arava
+ -se alguma vez teve tuberculose (doença dos pulmões).
+ -se é do sexo masculino e pretende ser pai de uma criança, dado que o Arava pode provocar
+ malformações em recém-nascidos. Para minimizar qualquer risco possível, homens que pretendam ser pais de uma criança deverão contactar o seu médico que o poderá aconselhar a parar o tratamento com Arava e a tomar certos medicamentos para acelerar a remoção do Arava do seu organismo. Necessitará depois de um exame ao sangue para ter a certeza que o Arava foi suficientemente removido do seu organismo, e deverá então sperar durante pelo menos três meses adicionais ..
+ O Arava pode ocasionalmente provocar alguns problemas no seu sangue, fígado e pulmões. Pode também causar reacções alérgicas graves, ou aumentar as hipóteses de infecções graves. Para mais informações sobre estes, consulte por favor a secção 4 (Efeitos Secundários Possíveis).
+ O seu médico irá, em intervalos regulares, prescrever-lhe análises clínicas antes e durante o tratamento com Arava, de forma a monitorizar as suas células sanguíneas e o fígado. O seu médico irá também verificar a sua pressão arterial regularmente, dado que o Arava pode provocar um aumento na pressão arterial.
+ O Arava não está recomendado em crianças e adolescentes com idade inferior a 18 anos.
+ Tomar Arava com outros medicamentos Informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica.
+ Isto é especialmente importante se estiver a tomar:
+ -outros medicamentos para a artrite reumatóide tais como anti-maláricos (por es., cloroquina e
+ hidrocloroquina), ouro oral ou intramuscular, D-penicilamina, azatioprina e outros medicamentos imunosupressores (por ex., metotrexato) uma vez que estas combinações não são aconselhadas,
+ -um medicamento chamado de colesteramina (utilizado para reduzir o colestrol elevado) ou
+ carvão activado, uma vez que estes medicamentos podem reduzir a quantidade de Arava que é absorvido pelo organismo,
+ -fenitoína (utilizado no tratamento de epilepsia), varfarina ou fenoprocoumon (utilizados para
+ tornar o sangue mais fluído) ou tolbutamida (utilizado no tratamento da diabetes tipo 2), uma vez que estes medicamentos podem aumentar o risco de efeitos secundários.
+ Se já estiver a tomar medicamentos anti-inflamatórios não esteróides (AINE’ s) e/ou corticosteróides, pode continuar a tomá-los após iniciar a toma de Arava.
+ Vacinações Caso tenha de ser vacinado, peça aconselhamento ao seu médico. Algumas vacinas não deverão ser administradas enquanto estiver a tomar Arava, e durante algum tempo após parar o tratamento.
+ Tomar Arava com alimentos e bebidas Não é recomendável beber álcool durante o tratamento com o Arava. Beber álcool enquanto toma Arava pode aumentar as hipóteses de ocorrência de lesões no fígado.
+ Gravidez e aleitamento Não tome Arava se está ou se pensa que pode estar grávida. Mulheres em idade fértil não deverão tomar Arava sem usar medidas contraceptivas de confiança.
+ Informe o seu médico se está a planear uma gravidez após parar o tratamento com Arava, uma vez que será necessário assegurar que todos os resíduos de Arava já não se encontram no seu organismo antes de tentar engravidar. Isto poderá levar até 2 anos. Este período pode ser encurtado para algumas semanas se tomar certos medicamentos que aceleram a remoção do Arava do seu organismo.
+ 78 Em qualquer dos casos, deve ser confirmado por um teste sanguíneo que a eliminação do Arava do seu corpo foi suficiente e deve esperar pelo menos mais um mês antes de ficar grávida.
+ Para mais informação sobre o teste laboratorial, por favor contacte com o Titular da Autorização de Introdução do Mercado ou com o seu representante.
+ Se suspeita de uma gravidez enquanto toma o Arava ou nos dois anos após ter parado o tratamento (p. ex., quando o seu período menstrual se atrasar), deve contactar imediatamente o seu médico, de modo a efectuar um teste de gravidez. Se o teste confirmar que está grávida, o seu médico poderá sugerir tratamento com certos medicamentos para acelerar a remoção do Arava do seu organismo, uma vez que isso poderá reduzir o risco para o seu bebé.
+ Não tome Arava se estiver a amamentar, uma vez que a leflunomida passa para o leite materno.
+ Condução de veículos e utilização de máquinas O Arava pode fazê-lo sentir tonto o que pode perturbar a sua capacidade de concentração e reacção. Se se sente afectado, não conduza, ou utilize máquinas.
+ Informações importantes sobre alguns dos componentes do Arava: O Arava contém lactose. Se o seu médico lhe disse que tem intolerância a alguns acúcares, consulte o seu médico antes de tomar este medicamento.
+ 3. COMO TOMAR ARAVA Tomar Arava sempre de acordo com as indicações do médico. Fale com o seu médico ou farmacêutico se tiver dúvidas.
+ O Arava não está recomendado para o tratamento de crianças e adolescentes com idade inferior a 18 anos.
+ A dose de início habitual de Arava é de um comprimido de 100 mg uma vez por dia durante os primeiros três dias. Em seguida, a maioria dos doentes necessita de: • Para a artrite reumatóide: 10 ou 20 mg de Arava uma vez ao dia dependendo da gravidade da doença. • Para a artrite psoriática activa: 20 mg de Arava uma vez ao dia.
+ Engula os comprimidos inteiros, com água suficiente.
+ Pode levar cerca de 4 semanas ou mais até começar a sentir uma melhoria do seu estado. Alguns doentes podem ainda continuar a sentir uma acentuação das melhorias após 4 a 6 meses de tratamento. Normalmente, o Arava é tomado durante longos períodos de tempo.
+ Se tomar mais Arava do que deveria: Se tomar mais Arava do que deveria, contacte o seu médico ou procure conselho médico. Se possível, leve consigo os seus comprimidos ou a caixa de embalagem para mostrar ao médico.
+ Caso se tenha esquecido de tomar Arava: Se se esquecer de tomar uma dose, tome-a assim que se lembrar, excepto se for já próximo da dose seguinte. Não tome uma dose a dobrar para compensar uma dose que se esqueceu de tomar.
+ Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou farmacêutico.
+ 79 4. EFEITOS SECUNDÁRIOS POSSÍVEIS
+ Como todos os medicamentos, o Arava pode causar efeitos secundários, no enatnto estes não se manifestam em todas as pessoas.
+ Informe o seu médico imediatamente e pare de tomar Arava:
+ -se se sente fraco, com a cabeça leve ou tonto ou se tem dificuldade em respirar, uma vez que
+ podem ser sinais de reacção alérgica grave,
+ -se desenvolveu rash cutâneo ou úlceras na boca, uma vez que estas podem indicar graves, e
+ que podem por vezes ser fatais (p. ex., síndrome de Stevens-Johnson, necrólise epidérmica tóxica, eritema multiforme).
+ Informe o seu médico imediatamente caso tenha sentido os seguintes efeitos indesejáveis:
+ -palidez, cansaço, ou nódoas negras, uma vez que podem indicar problemas no sangue
+ provacadas por um desequilíbrio nos diferentes tipos de células envolvidas no fabrico do sangue;
+ -cansaço, dor abdominal ou icterícia (coloração amarela dos olhos ou da pele), uma vez que
+ estes podem indicar problemas graves tais como falência hepática, que pode ser fatal,
+ -qualquer sintoma de infecção tais como febre, anginas ou tosse, uma vez que o Arava pode
+ aumentar as hipóteses de uma infecção grave que pode ser potencialmente fatal,
+ -tosse ou problemas respiratórios, dado que estes podem indicar inflamação dos pulmões
+ (doença pulmonar intersticial).
+ Efeitos secundários frequentes do Arava (pode ocorrer em mais de 1 em cada 100 doentes e menos de 1 em cada 10):
+ -uma diminuição ligeira do número de glóbulos brancos (leucopenia),
+ -reacções alérgicas ligeiras,
+ -perda de apetite, perda de peso (normalmente insignificante),
+ -cansaço (astenia),
+ -cefaleias, tonturas,
+ -sensações anormais da pele como formigueiro (parestesia),
+ -ligeiro aumento da pressão arterial,
+ -diarreia,
+ -náuseas, vómitos,
+ -inflamação da boca ou ulceração da boca,
+ -dores abdominais,
+ -aumento dos valores de alguns testes hepáticos,
+ -aumento da perda de cabelo,
+ -eczema, pele seca, rash, prurido,
+ -tendinite (dor provocada pela inflamação da membrana que envolve os tendões, normalmente nos
+ pés e nas mãos),
+ -um aumento de algumas enzimas no sangue (creatinina fosfoquinase).
+ Efeitos secundários pouco frequentes do Arava (podem ocorrer em mais de 1 em cada 1.000 doentes, mas em menos de 1 em cada 100)
+ -uma diminuição do número de glóbulos vermelhos (anemia) e uma diminuição do número de
+ plaquetas (trombocitopenia),
+ -uma diminuição dos níveis de potássio no sangue,
+ -ansiedade,
+ -alterações do paladar,
+ -urticária,
+ -ruptura de tendões,
+ -um aumento nos níveis de gordura no sangue (colesterol e triglicéridos),
+ -uma diminuição dos níveis de fosfato na sangue.
+ 80 Efeitos secundários raros do Arava (podem ocorrer em mais de 1 em cada 10.000 doentes mas menos de 1 em cada 1.000 doentes)
+ -um aumento do número de células sanguíneas chamados eosinofílicos (eosinofilia); diminuição
+ ligeira do número de glóbulos brancos (leucopenia); diminuição do número de todas as células sanguíneas (pancitopenia).
+ -aumento acentuado da pressão arterial,
+ -inflamação pulmonar (doença pulmonar intersticial).
+ -um aumento dos valores de alguns testes do fígado, que pode evoluir para situações graves como
+ hepatite e icterícia,
+ -infecções graves designadas de sepsis que podem ser fatais,
+ -um aumento de certas enzimas no sangue (lactato desidrogenase).
+ Efeitos secundários muito raros (podem ocorrer em menos de 1 em cada 10.000 doentes)
+ -uma diminuição marcada de alguns glóbulos brancos (agranulocitose),
+ -reacções alérgicas graves ou potencialmente graves.
+ -inflamação dos pequenos vasos (vasculite, incluindo vasculite cutânea necrosante),
+ -problemas nos nervos dos braços e pernas (neuropatia periférica),
+ -inflamação do pâncreas (pancreatite),
+ -lesões hepáticas graves, tais como falência hepática ou necrólise que podem por vezes ser fatais,
+ -reacções graves que podem por vezes ser fatais (síndrome de Stevens-Johnson, necrólise
+ espidérmica tóxica, eritma multiforme).
+ Outros efeitos secundários tais como falência renal, diminuição dos níveis de ácido úrico no seu sangue, e infertilidade masculina (que é reversível assim que o tratamento com Arava é parado) podem também ocorrer com uma frequência desconhecida.
+ Se algum dos efeitos secundários se gravar ou se detectar quaisquer efeitos secundários não mencionado neste folheto, por favor informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR ARAVA Manter fora do alcance e da vista das crianças.
+ Não utilize Arava após o prazo de validade impresso na embalagem exterior após VAL. O prazo de validade corresponde ao último dia do mês indicado.
+ Blister: Manter na embalagem exterior. Frasco: Manter o recipiente bem fechado. Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Arava -A substância activa é a leflunomida. Um comprimido revestido por película contem 20 mg de
+ leflunomida.
+ -Os outros componentes são: amido de milho, povidona (E1201), crospovidona (E1202), sílica
+ coloidal anidra, estearato de magnésio (E470b), e lactose monohidratada no núcleo assim como talco (E553b), hipromelose (E464), dióxido de titâneo (E171), macrogol 8000 e óxido de ferro amarelo (E172) no revestimento.
+ 81 Qual o aspecto de Arava e conteúdo da embalagem Os comprimidos revestidos por película de Arava 20 mg são são amarelados ou ocre e triangulares. Imprimido num dos lados: ZBN.
+ Os comprimidos são acondicionados em blisters ou frascos. Os comprimidos estão disponíveis em embalagens de 30,50 e 100 unidades.
+ É possível que não sejam comercializadas todas as apresentações.
+ Titular de Autorização de Introdução no Mercado Sanofi-Aventis Deutschland GmbH D-65926 Frankfurt am Main, Alemanha
+ Fabricante Sanofi Winthrop Industrie 56, Route de Choisy au Bac F-60205 Compiégne Cedex, França
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado.
+ België/Belgique/Belgien sanofi-aventis Belgium Tél/Tel: +32 (0) 2 710 54 00
+ Luxembourg/Luxemburg sanofi-aventis Belgium Tél/Tel: +32 (0) 2 710 54 00 (Belgique/Belgien)
+ България sanofi-aventis Bulgaria EOOD Тел.: +359 (0) 2 970 53 00
+ Magyarország sanofi-aventis zrt., Magyarország Tel.: +36 1 505 0050
+ Česká republika sanofi-aventis, s. r. o. Tel: +420 233 086 111
+ Malta sanofi-aventis Malta Ltd. Tel: +356 21493022
+ Danmark sanofi-aventis Denmark A/S Tlf: +45 45 16 70 00
+ Nederland sanofi-aventis Netherlands B. V. Tel: +31 (0) 182 557 755
+ Deutschland Sanofi-Aventis Deutschland GmbH Tel: +49 (0) 180 2 222010
+ Norge sanofi-aventis Norge AS Tlf: +47 67 10 71 00
+ Eesti sanofi-aventis Estonia OÜ Tel: +372 627 34 88
+ Österreich sanofi-aventis GmbH Tel: +43 1 80 185 – 0
+ Ελλάδα sanofi-aventis AEBE Τηλ: +30 210 900 16 00
+ Polska sanofi-aventis Sp. z o. o. Tel.: +48 22 541 46 00
+ España sanofi-aventis, S. A. Tel: +34 93 485 94 00
+ Portugal sanofi-aventis-Produtos Farmacêuticos, S. A. Tel: +351 21 35 89 400
+ 82 France sanofi-aventis france Tél: 0 800 222 555 Appel depuis l’ étranger: +33 1 57 63 23 23
+ România sanofi-aventis România S. R. L. Tel: +40 (0) 21 317 31 36
+ Ireland sanofi-aventis Ireland Ltd. Tel: +353 (0) 1 403 56 00
+ Slovenija sanofi-aventis d. o. o. Tel: +386 1 560 48 00
+ Ísland Vistor hf. Sími: +354 535 7000
+ Slovenská republika sanofi-aventis Pharma Slovakia s. r. o. Tel: +421 2 57 103 777
+ Italia sanofi-aventis S. p. A. Tel: +39 02 393 91
+ Suomi/Finland sanofi-aventis Oy Puh/Tel: +358 (0) 201 200 300
+ Κύπρος sanofi-aventis Cyprus Ltd. Τηλ: +357 22 871600
+ Sverige sanofi-aventis AB Tel: +46 (0) 8 634 50 00
+ Latvija sanofi-aventis Latvia SIA Tel: +371 67 33 24 51
+ United Kingdom sanofi-aventis Tel: +44 (0) 1483 505 515
+ Lietuva UAB sanofi-aventis Lietuva Tel: +370 5 2755224
+ Este folheto foi aprovado pela última vez em{ MM/AAAA}
+ 83 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Arava 100 mg comprimidos revestidos por película Leflunomida
+ Leia atentamente este folheto antes de tomar este medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é o Arava e para que é utilizado 2. Antes de tomar Arava 3. Como tomar Arava 4. Efeitos secundários possíveis 5. Como conservar Arava 6. Outras informações
+ 1. O QUE É O ARAVA E PARA QUE É UTILIZADO
+ O Arava pertence a um grupo de medicamentos designados de anti-reumáticos.
+ O Arava é usado no tratamento de doentes com artrite reumatóide activa ou artrite psoriática activa.
+ Os sintomas da artrite reumatóide incluem inflamação das articulações, tumefacção, dificuldade de movimentação e dores. Outros sintomas que afectam todo o corpo incluem perda de apetite, febre, perda de energia e anemia (falta de glóbulos vermelhos).
+ Os sintomas da artrite psoriática activa incluem inflamação das articulações, tumefacção, dificuldade de movimentação, dores e manchas vermelhas, pele escamossa (lesões na pele).
+ 2. ANTES DE TOMAR ARAVA Não tome Arava -se teve alguma vez uma reacção alérgica à leflunomida (sobretudo uma reacção cutânea grave,
+ muitas vezes acompanhada de febre, dores articulares, manchas vermelhas na pele ou vesículas por ex. o sindroma de Steven-Johnson) ou a qualquer dos outros ingredientes de Arava.
+ -se tem problemas hepáticos.
+ -se tem problemas renais de moderados a graves.
+ -se tem um nível baixo de proteínas no seu sangue (hipoproteinemia).
+ -se sofre de uma doença que afecte o seu sistema imunitário (p. ex.: SIDA).
+ -se tem algum problema na sua medula óssea ou se o número de glóbulos vermelhos ou brancos do
+ seu sangue ou o número de plaquetas sanguíneas estiver diminuído.
+ -se sofre de uma infecção grave.
+ -se tiver grávida ou a amamentar.
+ 84 Tome especial cuidado com Arava
+ -se alguma vez teve tuberculose (doença dos pulmões).
+ -se é do sexo masculino e pretende ser pai de uma criança, dado que o Arava pode provocar
+ malformações em recém-nascidos. Para minimizar qualquer risco possível, homens que pretendam ser pais de uma criança deverão contactar o seu médico que o poderá aconselhar a parar o tratamento com Arava e a tomar certos medicamentos para acelerar a remoção do Arava do seu organismo. Necessitará depois de um exame ao sangue para ter a certeza que o Arava foi suficientemente removido do seu organismo, e deverá então sperar durante pelo menos três meses adicionais.
+ O Arava pode ocasionalmente provocar alguns problemas no seu sangue, fígado e pulmões. Pode também causar reacções alérgicas graves, ou aumentar as hipóteses de infecções graves. Para mais informações sobre estes, consulte por favor a secção 4 (Efeitos Secundários Possíveis).
+ O seu médico irá, em intervalos regulares, prescrever-lhe análises clínicas antes e durante o tratamento com Arava, de forma a monitorizar as suas células sanguíneas e o fígado. O seu médico irá também verificar a sua pressão arterial regularmente, dado que o Arava pode provocar um aumento na pressão arterial.
+ O Arava não está recomendado em crianças e adolescentes com idade inferior a 18 anos.
+ Tomar Arava com outros medicamentos Informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica.
+ Isto é especialmente importante se estiver a tomar:
+ -outros medicamentos para a artrite reumatóide tais como anti-maláricos (por es., cloroquina e
+ hidrocloroquina), ouro oral ou intramuscular, D-penicilamina, azatioprina e outros medicamentos imunosupressores (por ex., metotrexato) uma vez que estas combinações não são aconselhadas,
+ -um medicamento chamado de colesteramina (utilizado para reduzir o colestrol elevado) ou
+ carvão activado, uma vez que estes medicamentos podem reduzir a quantidade de Arava que é absorvido pelo organismo,
+ -fenitoína (utilizado no tratamento de epilepsia), varfarina ou fenoprocoumon (utilizados para
+ tornar o sangue mais fluído) ou tolbutamida (utilizado no tratamento da diabetes tipo 2), uma vez que estes medicamentos podem aumentar o risco de efeitos secundários.
+ Se já estiver a tomar medicamentos anti-inflamatórios não esteróides (AINE’ s) e/ou corticosteróides, pode continuar a tomá-los após iniciar a toma de Arava.
+ Vacinações Caso tenha de ser vacinado, peça aconselhamento ao seu médico. Algumas vacinas não deverão ser administradas enquanto estiver a tomar Arava, e durante algum tempo após parar o tratamento.
+ Tomar Arava com alimentos e bebidas Não é recomendável beber álcool durante o tratamento com o Arava. Beber álcool enquanto toma Arava pode aumentar as hipóteses de ocorrência de lesões no fígado.
+ Gravidez e aleitamento Não tome Arava se está ou se pensa que pode estar grávida. Mulheres em idade fértil não deverão tomar Arava sem usar medidas contraceptivas de confiança.
+ Informe o seu médico se está a planear uma gravidez após parar o tratamento com Arava, uma vez que será necessário assegurar que todos os resíduos de Arava já não se encontram no seu organismo antes de tentar engravidar. Isto poderá levar até 2 anos. Este período pode ser encurtado para algumas semanas se tomar certos medicamentos que aceleram a remoção do Arava do seu organismo.
+ 85 Em qualquer dos casos, deve ser confirmado por um teste sanguíneo que a eliminação do Arava do seu corpo foi suficiente e deve esperar pelo menos mais um mês antes de ficar grávida.
+ Para mais informação sobre o teste laboratorial, por favor contacte com o Titular da Autorização de Introdução do Mercado ou com o seu representante.
+ Se suspeita de uma gravidez enquanto toma o Arava ou nos dois anos após ter parado o tratamento (p. ex., quando o seu período menstrual se atrasar), deve contactar imediatamente o seu médico, de modo a efectuar um teste de gravidez. Se o teste confirmar que está grávida, o seu médico poderá sugerir tratamento com certos medicamentos para acelerar a remoção do Arava do seu organismo, uma vez que isso poderá reduzir o risco para o seu bebé.
+ Não tome Arava se estiver a amamentar, uma vez que a leflunomida passa para o leite materno.
+ Condução de veículos e utilização de máquinas O Arava pode fazê-lo sentir tonto, o que pode perturbar a sua capacidade de concentração e reacção. Se se sente afectado, não conduza ou utilize máquinas.
+ Informações importantes sobre alguns componentes do Arava: O Arava contém lactose .. Se o seu médico lhe disse que tem intolerância a alguns acúcares, consulte o seu médico antes de tomar este medicamento.
+ 3. COMO TOMAR ARAVA Tomar Arava sempre de acordo com as indicações do médico. Fale com o seu médico ou farmacêutico se tiver dúvidas.
+ O Arava não está recomendado no tratamento de crianças e adolescentes com idade inferior a 18 anos.
+ A dose de início habitual de Arava é de um comprimido de 100 mg uma vez por dia durante os primeiros três dias. Em seguida, a maioria dos doentes necessita de: • Para a artrite reumatóide: 10 ou 20 mg de Arava uma vez ao dia dependendo da gravidade da doença. • Para a artrite psoriática activa: 20 mg de Arava uma vez ao dia.
+ Engula os comprimidos inteiros, com água suficiente.
+ Pode levar cerca de 4 semanas ou mais até começar a sentir uma melhoria do seu estado. Alguns doentes podem ainda continuar a sentir uma acentuação das melhorias após 4 a 6 meses de tratamento. Normalmente, o Arava é tomado durante longos períodos de tempo.
+ Se tomar mais Arava do que deveria: Se tomar mais Arava deveria, contacte o seu médico ou procure conselho médico. Se possível, leve consigo os seus comprimidos ou a caixa de embalagem para mostrar ao médico.
+ Caso se tenha esquecido de tomar Arava: Se se esquecer de tomar uma dose, tome-a assim que se lembrar, excepto se for já próximo da dose seguinte. Não tome uma dose a dobrar para compensar uma dose que se esqueceu de tomar.
+ Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou farmacêutico.
+ 86 4. EFEITOS SECUNDÁRIOS POSSÍVEIS
+ Como todos os medicamentos, o Arava pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ Informe o seu médico imediatamente e pare de tomar Arava:
+ -se se sente fraco, com a cabeça leve ou tonto ou se tem dificuldade em respirar, uma vez que
+ podem ser sinais de reacção alérgica grave,
+ -se desenvolveu rash cutâneo ou úlceras na boca, uma vez que estas podem indicar graves, e
+ que podem por vezes ser fatais (p. ex., síndrome de Stevens-Johnson, necrólise epidérmica tóxica, eritema multiforme).
+ Informe o seu médico imediatamente caso tenha sentido os seguintes efeitos indesejáveis:
+ -palidez, cansaço, ou nódoas negras, uma vez que podem indicar problemas no sangue
+ provacadas por um desequilíbrio nos diferentes tipos de células envolvidas no fabrico do sangue;
+ -cansaço, dor abdominal ou icterícia (coloração amarela dos olhos ou da pele), uma vez que
+ estes podem indicar problemas graves tais como falência hepática, que pode ser fatal,
+ -qualquer sintoma de infecção tais como febre, anginas ou tosse, uma vez que o Arava pode
+ aumentar as hipóteses de uma infecção grave que pode ser potencialmente fatal,
+ -tosse ou problemas respiratórios, dado que estes podem indicar inflamação dos pulmões
+ (doença pulmonar intersticial).
+ Efeitos secundários frequentes (pode ocorrer em mais de 1 em cada 100 doentes e menos de 1 em cada 10)
+ -uma diminuição ligeira do número de glóbulos brancos (leucopenia),
+ -reacções alérgicas ligeiras,
+ -perda de apetite, perda de peso (normalmente insignificante),
+ -cansaço (astenia),
+ -cefaleias, tonturas,
+ -sensações anormais da pele como formigueiro (parestesia),
+ -ligeiro aumento da pressão arterial,
+ -diarreia,
+ -náuseas, vómitos,
+ -inflamação da boca ou ulceração da boca,
+ -dores abdominais,
+ -aumento dos valores de alguns testes hepáticos,
+ -aumento da perda de cabelo,
+ -eczema, pele seca, rash, prurido,
+ -tendinite (dor provocada pela inflamação da membrana que envolve os tendões, normalmente nos
+ pés e nas mãos),
+ -um aumento de algumas enzimas no sangue (creatinina fosfoquinase).
+ Efeitos secundários pouco frequentes (podem ocorrer em mais de 1 em cada 1.000 doentes, mas em menos de 1 em cada 100)
+ -uma diminuição do número de glóbulos vermelhos (anemia) e uma diminuição do número de
+ plaquetas (trombocitopenia),
+ -uma diminuição dos níveis de potássio no sangue,
+ -ansiedade,
+ -alterações do paladar,
+ -urticária (nettle rash),
+ -ruptura de tendões,
+ -um aumento nos níveis de gordura no sangue (colesterol e triglicéridos),
+ -uma diminuição dos níveis de fosfato na sangue.
+ 87 Efeitos secundários raros (podem ocorrer em mais de 1 em cada 10.000 doentes mas menos de 1 em cada 1.000 doentes)
+ -um aumento do número de células sanguíneas chamados eosinofílos (eosinofilia); diminuição
+ ligeira do número de glóbulos brancos (leucopenia); diminuição do número de todas as células sanguíneas (pancitopenia),
+ -aumento acentuado da pressão arterial,
+ -inflamação pulmonar (doença pulmonar intersticial).
+ -um aumento dos valores de alguns testes do fígado, que pode evoluir para situações graves como
+ hepatite e icterícia,
+ -infecções graves designadas de sepsis que podem ser fatais,
+ -aumento de certas enzimas no sangue (lactato desidrogenase).
+ Efeitos secundários muito raros (podem ocorrer em menos de 1 em cada 10.000 doentes)
+ -uma diminuição marcada de alguns glóbulos brancos (agranulocitose),
+ -reacções alérgicas graves ou potencialmente graves,
+ -inflamação dos pequenos vasos (vasculite, incluindo vasculite cutânea necrosante),
+ -problemas nos nervos dos braços e pernas (neuropatia periférica),
+ -inflamação do pâncreas (pancreatite),
+ -lesões hepáticas graves, tais como falência hepática ou necrólise que podem por vezes ser fatais,
+ -reacções graves que podem por vezes ser fatais (síndrome de Stevens-Johnson, necrólise
+ espidérmica tóxica, eritma multiforme).
+ Outros efeitos secundários tais como falência renal, diminuição dos níveis de ácido úrico no seu sangue, e infertilidade masculina (que é reversível assim que o tratamento com Arava é parado) podem também ocorrer com uma frequência desconhecida.
+ Se algum dos efeitos secundários se gravar ou se detectar quaisquer efeitos secundários não mencionado neste folheto, por favor informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR ARAVA Manter fora do alcance e da vista das crianças.
+ Não utilize Arava após o prazo de validade impresso na embalagem exterior após VAL. O prazo de validade corresponde ao último dia do mês indicado.
+ Manter o recipiente dentro da embalagem exterior.
+ Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Arava -A substância activa é a leflunomida. Um comprimido revestido por película contem 100 mg de
+ leflunomida.
+ -Os outros componentes são: amido de milho, povidona (E1201), crospovidona (E1202), talco
+ (E553b), sílica coloidal anidra, estearato de magnésio (E470b), e lactose monohidratada, no comprimido assim como talco (E553b), hipromelose (E464), dióxido de titânio (E171) e macrogol 8000 no revestimento.
+ 88 Qual o aspecto de Arava e conteúdo da embalagem Os comprimidos revestidos de 100 mg de Arava são brancos a quase brancos e redondos com um diâmetro de cerca de 1 cm. Imprimido num dos lados: ZBP.
+ Os comprimidos são acondicionados em blisters. Os comprimidos estão disponíveis em embalagens de 3 unidades.
+ Titular da Autorização de Introdução no Mercado: Sanofi-aventis Deutschland GmbH D-65926 Frankfurt am Main, Alemanha
+ Fabricante: Sanofi Winthrop Industrie 56, Route de Choisy au Bac F-60205 Compiegne Cedex, França
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado.
+ België/Belgique/Belgien sanofi-aventis Belgium Tél/Tel: +32 (0) 2 710 54 00
+ Luxembourg/Luxemburg sanofi-aventis Belgium Tél/Tel: +32 (0) 2 710 54 00 (Belgique/Belgien)
+ България sanofi-aventis Bulgaria EOOD Тел.: +359 (0) 2 970 53 00
+ Magyarország sanofi-aventis zrt., Magyarország Tel.: +36 1 505 0050
+ Česká republika sanofi-aventis, s. r. o. Tel: +420 233 086 111
+ Malta sanofi-aventis Malta Ltd. Tel: +356 21493022
+ Danmark sanofi-aventis Denmark A/S Tlf: +45 45 16 70 00
+ Nederland sanofi-aventis Netherlands B. V. Tel: +31 (0) 182 557 755
+ Deutschland Sanofi-Aventis Deutschland GmbH Tel: +49 (0) 180 2 222010
+ Norge sanofi-aventis Norge AS Tlf: +47 67 10 71 00
+ Eesti sanofi-aventis Estonia OÜ Tel: +372 627 34 88
+ Österreich sanofi-aventis GmbH Tel: +43 1 80 185 – 0
+ Ελλάδα sanofi-aventis AEBE Τηλ: +30 210 900 16 00
+ Polska sanofi-aventis Sp. z o. o. Tel.: +48 22 541 46 00
+ España sanofi-aventis, S. A. Tel: +34 93 485 94 00
+ Portugal sanofi-aventis-Produtos Farmacêuticos, S. A. Tel: +351 21 35 89 400
+ 89 France sanofi-aventis france Tél: 0 800 222 555 Appel depuis l’ étranger: +33 1 57 63 23 23
+ România sanofi-aventis România S. R. L. Tel: +40 (0) 21 317 31 36
+ Ireland sanofi-aventis Ireland Ltd. Tel: +353 (0) 1 403 56 00
+ Slovenija sanofi-aventis d. o. o. Tel: +386 1 560 48 00
+ Ísland Vistor hf. Sími: +354 535 7000
+ Slovenská republika sanofi-aventis Pharma Slovakia s. r. o. Tel: +421 2 57 103 777
+ Italia sanofi-aventis S. p. A. Tel: +39 02 393 91
+ Suomi/Finland sanofi-aventis Oy Puh/Tel: +358 (0) 201 200 300
+ Κύπρος sanofi-aventis Cyprus Ltd. Τηλ: +357 22 871600
+ Sverige sanofi-aventis AB Tel: +46 (0) 8 634 50 00
+ Latvija sanofi-aventis Latvia SIA Tel: +371 67 33 24 51
+ United Kingdom sanofi-aventis Tel: +44 (0) 1483 505 515
+ Lietuva UAB sanofi-aventis Lietuva Tel: +370 5 2755224
+ Este folheto foi aprovado pela última vez em{ MM/AAAA}
+ 90

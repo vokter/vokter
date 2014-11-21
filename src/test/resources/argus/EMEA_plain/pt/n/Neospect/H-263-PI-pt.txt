@@ -1,0 +1,189 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. DENOMINAÇÃO DO MEDICAMENTO
+ NeoSpect 47 microgramas. Conjunto para preparações radiofarmacêuticas.
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada frasco para injectáveis contém 47 microgramas de depreotida na forma de trifluoroacetato de depreotida. Lista completa de excipientes, ver secção 6.1.
+ Para reconstituição com solução injectável de pertecnetato (99mTc) de sódio (não incluída neste conjunto para preparação radiofarmacêutica).
+ 3. FORMA FARMACÊUTICA Conjunto para preparações radiofarmacêuticas. Pó branco para solução injectável.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Este medicamento é apenas para uso em diagnóstico. Para imagiologia cintigráfica de tumores malignos suspeitos no pulmão após detecção inicial, em combinação com exame TC ou raios-X toráxico, em doentes com nódulos pulmonares solitários.
+ 4.2 Posologia e modo de administração Este produto é para uso exclusivo hospitalar ou utilização em instalações de Medicina Nuclear designadas, para utilização por pessoal com experiência em diagnóstico imagiológico com radioisótopos. As instruções para reconstituição, manipulação e eliminação são descritas na secção 12. Após reconstituição com solução injectável de pertecnetato (99mTc) de sódio, forma-se o 99mTc-depreotida. 99m Tc-depreotida é administrado por via intravenosa em dose única. A solução pode ser diluída com solução injectável de cloreto de sódio 0.9% p/v de forma a facilitar a injecção. As imagens SPECT (Single Photon Emission Computed Tomography) obtidas 2 a 4 horas após a injecção de 99mTc-depreotida são necessárias para uma óptima interpretação de imagens.
+ Dosagem para adultos A dosagem recomendada é de aproximadamente 47 microgramas de depreotida (um frasco para injectáveis) marcado com 555-740 MBq de tecnécio-99m.
+ Dosagem para idosos (&gt; 65 anos) A experiência obtida em ensaios clínicos indica que não é necessário ajustamento de dose.
+ Crianças 99m Tc-depreotida não é recomendado para pacientes com idade inferior a 18 anos, uma vez que não existem dados disponíveis para este grupo etário.
+ Função renal diminuída Não é requerido ajustamento de dose. Ver secção 4.4
+ 2 Re-administração O 99mTc-depreotida é indicado para utilização única. A administração repetida deve ser evitada.
+ 4.3 Contra-indicações História de reacções de hipersensibilidade ao depreotida, a algum dos excipientes do NeoSpect ou à solução injectável de pertecnetato (99mTc) de sódio. Gravidez e aleitamento.
+ 4.4 Advertências e precauções especiais de utilização
+ O conteúdo do NeoSpect é indicado para uso exclusivo na preparação da solução injectável de 99mTc-depreotida (ver secção 12). O NeoSpect não marcado não deve ser administrado directamente ao paciente.
+ Tal como todos os produtos medicinais injectáveis, reacções anafilácticas e anafilactóides podem ocorrer após a administração. É essencial a familiarização com a prática e as técnicas de reanimação e tratamento da anafilaxia. O tratamento e o equipamento necessários devem estar sempre disponíveis.
+ Devem ser exercidos cuidados especiais em pacientes com diminuição da função renal, devido à diminuição da excreção renal e ao aumento provável da exposição à radioactividade.
+ Devem ser exercidos cuidados especiais em pacientes com diminuição da função hepática.
+ Este radiofármaco deve ser manipulado por pessoal autorizado e em condições clínicas designadas. A recepção, armazenamento, utilização, transferência e eliminação estão sujeitas a regulamentação e/ou a licenças apropriadas emitidas pelas organizações oficiais competentes locais.
+ Os radiofármacos devem ser preparados pelo utilizador de forma a satisfazerem quer a segurança radiológica quer os requerimentos de qualidade farmacêutica. As precauções assépticas apropriadas devem ser tomadas de acordo com os requerimentos das Boas Práticas de Fabrico (BPF) para medicamentos.
+ O 99mTc-depreotida, deve ser manipulado com cuidado e as medidas de segurança apropriadas devem ser tomadas de forma a minimizar a exposição à radiação do pessoal clínico. Devem igualmente ser tomadas precauções para minimizar a exposição à radiação do paciente, consistentes com um correcto manuseamento daquele.
+ Para minimizar a dose de radiação absorvida pela bexiga, deve ser encorajada uma hidratação adequada do paciente para permitir um frequente esvaziamento da bexiga durante as primeiras horas após a injecção.
+ A terapêutica com acetato de octreotido pode produzir hipoglicémia grave em pacientes com insulinomas, enquanto que outros análogos dos receptores da somatostatina são conhecidos por gerar tolerância à glucose. Uma vez que, o depreotida também se liga aos receptores de somatostatina devem ser tomadas precauções quando este medicamento é administrado a pacientes com insulinomas ou diabetes mellitus.
+ O NeoSpect não é recomendado para utilizar em crianças com idade inferior a 18 anos pois não existem dados disponíveis para este grupo etário.
+ Re-administração: Os dados clínicos relativos à segurança e eficácia de injecções múltiplas só estão disponíveis para 13 pacientes. A administração repetida deve ser evitada.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Não foram realizados estudos específicos de interacções com outros produtos medicinais e existem poucos dados disponíveis sobre estas interacções.
+ 3 4.6 Gravidez e aleitamento
+ Gravidez Os procedimentos realizados com radionuclídos em mulheres grávidas envolvem igualmente doses de radiação para o feto. Assim, o 99mTc-depreotida é contra-indicado durante a gravidez. (Ver secção 4.3) Quando for necessário a administração de medicamentos radioactivos a mulheres em idade fértil, deve ser obtida informação sobre uma eventual gravidez. Qualquer mulher a quem tenha faltado um período deve ser assumida como grávida até prova em contrário. Devem ser consideradas técnicas alternativas, que não envolvam a utilização de radiações ionizantes.
+ Aleitamento Não é conhecido de que forma o 99mTc-depreotida é excretado no leite humano, portanto o 99mTc-depreotida está contra-indicado durante o aleitamento.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas.
+ 4.8 Efeitos indesejáveis A maioria das reacções adversas relatadas foram de natureza transitória e de média intensidade. Todas ocorreram em baixa frequência (0,1%-1%). As relatadas com maior frequência foram cefaleias, náuseas, vómitos, diarreia, dor abdominal, tonturas, rubor e fadiga.
+ Para cada paciente, a exposição a radiação ionizante deve ser justificável tendo como base o possível beneficio. A actividade administrada deve ser tal que a dose de radiação resultante seja tão baixa quanto possível mas adequada à aquisição do resultado diagnóstico pretendido. A exposição a radiação ionizante está relacionada com a indução do cancro e com um potencial desenvolvimento de defeitos hereditários. Nos estudos de diagnóstico em medicina nuclear, as evidências actuais sugerem que estes efeitos adversos deverão ocorrer com baixa frequência devido à baixa dose de radiação utilizada. Para a maioria dos estudos de diagnóstico realizados com procedimentos de medicina nuclear, a dose de radiação libertada (dose efectiva equivalente) é menor que 20 mSv. Doses mais elevadas podem ser justificadas em certas circunstâncias clínicas.
+ As alterações observadas nos parâmetros laboratoriais são: aumento do número de leucócitos circulantes, basófilos, eosinófilos, monócitos e neutrófilos, AST, ALT, LDH, bilirrubina total e proteínas totais; diminuição do número de eritrócitos circulantes e proteínas totais.
+ 4.9 Sobredosagem Não foram observados casos de sobredosagem. O tratamento de uma sobredosagem deverá ser dirigido para o suporte das funções vitais.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Radiofármaco de diagnóstico utilizado na detecção tumoral Código ATC: V09I A05
+ A solução injectável de depreotida de tecnécio (99mTc) é um radiofármaco de diagnóstico baseado num péptido sintético que se liga aos receptores da somatostatina. Os dados in vitro e os estudos com animais de laboratório indicam que o 99mTc-depreotida se liga com elevada afinidade aos receptores de somatostatina (SSTR) subtipos 2,3 e 5. Estes receptores são altamente expressos pelos tumores
+ 4 malignos. A afinidade de ligação do 99mTc-depreotida aos SSTR foi demonstrada em estudos de tumores pancreáticos em ratos Lewis e in vitro em membranas tumorais humanas. Os dados indicam que os complexos metálicos do péptido conduzem a ligações de elevada afinidade com os receptores de somatostatina. O péptido sózinho tem uma baixíssima afinidade para aqueles receptores. Num estudo clínico de observação dos efeitos farmacodinâmicos com a dose de péptido recomendada, administrada a voluntários humanos, durante uma prova de tolerância oral à glucose (TOG), não foram registados outros efeitos além da resposta fisiológica normal à alteração da glucose oral.
+ Nos principais estudos, o valor previsível negativo para o NeoSpect em associação com TC para nódulos pulmonares solitários (NPSs) foi de 90-96% para uma prevalência da doença de 30 – 50%. Nos mesmos limites de prevalência o valor predictivo positivo foi de 52-72%. Os valor predictivo negativo e valor predictivo positivo correspondentes para o NeoSpect em associação com os raios-X toráxicos foram de 96-98% e 61-78%, respectivamente.
+ Em estudos clínicos recentes com uma prevalência de maliginidade de 49%, o valor predictivo positivo para o NeoSpect em associação com o TC/Raios-x torácico foi de 84% (IC 63, 1-94,7%) para todos os NPSs e 81,8% para lesões de dimensão igual ou inferior a 3cm. O valor predictivo negativo foi de 87,5% (IC 66, 5-96,7%) para todas as lesões e 87,5% para lesões de dimensão igual ou inferior a 3cm. Contudo, a biópsia para histologia foi predominantemente obtida por aspiração com agulha fina tendo 5 de 49 pacientes sido sujeitos a toracotomia aberta. Tendo em conta a taxa de falsos negativos (relatados 5-8% casos) com a aspiração com agulha fina, a toracotomia é considerada o método de referência. Os pacientes com um resultado negativo por aspiração com agulha fina deverão ser seguidos clinicamente uma vez que algumas das biópsias realizadas por aspiração com agulha fina podem dar resultados negativos.
+ A dose de radiação a partir de 18FDG-PET (Tomografia por Emissão de Positrões com Fluorodeoxiglucose) é mais baixa que a mesma a partir do NeoSpect embora permita uma maior sensibilidade e especificidade. Contudo, o PET não está largamente disponível em toda a Europa.
+ 5.2 Propriedades farmacocinéticas Os estudos em voluntários sãos demonstraram que o traçador apresenta características farmacocinéticas tri-compartimentais com uma semi-vida de distribuição inferior a 5 minutos e com uma semi-vida terminal de cerca de 20 horas e, um volume de distribuição em estado estacionário de 1,5 a 3 l/Kg. A média de clearance total foi de 2 a 4 ml/min/kg. A média da clearance renal foi de cerca de 0,3 ml/min/Kg. A cintigrafia gama externa de corpo inteiro mostrou que a maior localização da radioactividade existia no abdómen. Um a 18% da dose de radioactividade injectada apareceu na urina 4 horas após a injecção.
+ A radioactividade plasmática está predominantemente (&gt; 90%) na forma original, isto é, como 99mTc-depreotida. A maioria da radioactividade excretada na urina está na forma original.
+ O 99mTc-depreotida liga-se numa extensão de aproximadamente 12% às proteínas plasmáticas nos pacientes e nos voluntários sãos.
+ 5.3 Dados de segurança pré-clínica O 99mTc-depreotida não mostrou ser mutagénico in vitro, no teste de Ames ou no teste de linfoma de ratinho e, não mostrou ser clastogénico in vivo, no teste de micronúcleos de ratinho. Os efeitos tóxicos observados nos estudos animais não foram considerados relevantes para a utilização clínica em humanos. Os estudos não foram direccionados para avaliação do potencial carcinogénico ou efeitos na fertilidade.
+ 5 6. INFORMAÇÕES FARMACÊUTICAS
+ 6.1 Lista dos excipientes Cloreto de estanho di-hidratado 50 microgramas (excipiente principal) α-D-gluco-heptonato de sódio di-hidratado Edetato dissódico Ácido clorídrico e/ou hidróxido de sódio (ajustamento do pH).
+ 6.2 Incompatibilidades Na ausência de estudos de incompatibilidade, o 99mTc-depreotida não deve ser misturado com outros produtos medicinais. Deve ser utilizada uma cânula separada.
+ 6.3 Prazo de validade 18 meses. Após reconstituição e radiomarcação, o material deve ser utilizado no prazo de 5 horas uma vez que a pureza radioquímica e a estabilidade têm sido demonstradas para 5 horas a 25 °C.
+ 6.4 Precauções especiais de conservação
+ Guardar no congelador a temperatura igual ou inferior a-10ºC. Guardar a solução reconstituída para injecção por um período não superior a 5 horas a 15 °C-25 °C utilizando protecção contra radiações apropriada. O armazenamento de radiofármacos deve estar de acordo com a regulamentação nacional sobre materiais radioactivos.
+ 6.5 Natureza e conteúdo do recipiente O produto é embalado num frasco para injectáveis tipo I, de vidro, de 5 ml. Os recipientes são fechados com tampa de borracha de butilo e selados com cápsula de alumínio. O NeoSpect é fornecido em embalagens de 1 e 5 frascos para injectáveis, contendo cada frasco 47 microgramas de depreotida. É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais de eliminação Ver secção 12. 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ CIS bio international B. P. 32 91192 GIF sur YVETTE cedex FRANÇA
+ 8. NÚMEROS DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/00/154/001 EU/1/00/154/002 6 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 29. 11.2000/31. 01.2006 10. DATA DA REVISÃO DO TEXTO 11. DOSIMETRIA O tecnécio-99m desintegra-se por transição isomérica com emissão de radiação gama com energia de 140 KeV e uma semi-vida de 6 horas, para tecnécio-99, o qual pode ser considerado praticamente estável.
+ Para este produto, a dose efectiva resultante da administração da actividade de 555-750 MBq é tipicamente 8, 88-11,84 mSv para um indivíduo com 70 Kg de peso.
+ Com base em dados humanos, as doses de radiação absorvidas pelos orgãos individualmente num adulto humano médio (70 Kg) a partir de uma injecção intravenosa deste agente estão listadas a seguir. Os valores estão listados por ordem decrescente em mGy/MBq e assumindo-se que o esvaziamento da bexiga se realiza em 4,8 horas.
+ Dose estimada de radiação absorvida Orgão-alvo Rins Fígado Testículos Glândula tiróide Medula óssea Fígado Superfície óssea Parede do coração Pulmões Glândulas supra-renais Pâncreas Parede da bexiga Útero Intestino delgado Intestino grosso superior Ovários Intestino grosso inferior
+ mGy/MBq 0,090 0,042 0,031 0,024 0,021 0,021 0,015 0,014 0,014 0,012 0,010 0,0089 0,0084 0,0050 0,0050 0,0042 0,0038
+ Os cálculos das doses foram realizados utilizando o método MIRD standard (MIRD Pamphlet Nº 1 rev., Soc. Nucl. Med.,1976). A dose efectiva (DE) calculada de acordo com o ICRP Publicação 60, (Pergamon Press,1991) deu um valor de 0,016 mSv/MBq, correspondente a 11.84 mSv após a administração de 740 MBq.
+ Devido à pequena semi-vida, seis horas para o tecnécio-99m, menos de 0,1% de radioactividade permanece 60 horas após a administração.
+ 12. instruções de preparação de radiofármacos
+ Após utilização, o contentor e qualquer material não utilizado deve ser eliminado como lixo radioactivo de acordo com os requisitos locais.
+ 7 O NeoSpect é utilizado para preparação de solução injectável de depreotida de tecnécio (99mTc). A solução injectável de pertecnetato (99mTc) de sódio (conforme Farmacopeia Europeia) é utilizada para a reconstituição.
+ Instruções para a preparação do 99mTc-depreotida:
+ A administração de radiofármacos cria riscos para outras pessoas devido a radiação externa ou contaminação por salpicos de urina, vomitado, etc. A regulamentação local para materiais radioactivos deve ser aplicada no que respeita à protecção contra radiações e eliminação de resíduos.
+ Utilizar técnica asséptica durante toda a preparação. O utilizador deve vestir luvas impermeáveis e protecção, durante todo o tempo de manipulação do frasco com o reconstituído ou com as seringas contendo o agente radioactivo.
+ A actividade de 99mTc-depreotida administrada ao paciente deve ser medida, utilizando um calibrador de doses adequado, imediatamente antes da administração ao paciente.
+ 1. Preparar um banho de água em ebulição contendo um suporte para frascos com protecção interna de chumbo e equilibrado no banho de água a ferver. Deixar aquecer o frasco do kit até 15 °C-30 °C, coloque-o no contentor de protecção adequado 2. e desinfecte o septo de borracha com uma zaragatoa de desinfecção com álcool. 3. Utilizando uma seringa protegida, injecte a radioactividade requerida até 1,8 GBq com solução injectável de pertecnetato (99mTc) de sódio, (diluído como apropriado com solução injectável de cloreto de sódio 0,9% p/v para um total de 1 ml) para o interior do frasco protegido. Ver em baixo Precauções, notas 1 e 2. Antes de remover a seringa do frasco para injectáveis, deixar sair um volume de gás da parte superior da solução equivalente ao volume de pertecnetato adicionado de forma a normalizar a pressão dentro do frasco para injectáveis. Agitar suavemente durante 10 segundos de forma a permitir a dissolução completa do pó. 4. Transfira imediatamente o frasco de reacção para o recipiente com protecção de chumbo no interior do banho de água fervente, mantendo o frasco para injectáveis em posição vertical. Incubar durante 10 minutos nestas condições. Deixar o frasco para injectáveis atingir a temperatura corporal (cerca de 15 minutos) à temperatura ambiente antes de prosseguir. O frasco para injectáveis não deve ser arrefecido em água corrente, pois tal pode impedir a marcação. 5. Dosear a radioactividade total, completar o rótulo de radiação do utilizador e coloque-o no contentor de chumbo para o frasco para injectáveis. 6. Os produtos medicinais para uso parentérico devem ser inspeccionados visualmente, no que se refere a matérias particulares e descoloração antes da administração, sempre que a solução e o seu contentor o permitam: inspecção visual da solução reconstituída a uma distância de segurança através do vidro de chumbo. Não se deve usar se a solução não estiver clara ou se contiver partículas visíveis de matéria. Armazenar a solução injectável reconstituída na posição vertical, a 15 °C-25 °C, e utilizar 7. durante as 5 horas após a preparação.
+ Notas de Precauções O volume da solução injectável diluída de pertecnetato (99mTc) de sódio, adicionada ao frasco 1. deve ser um mililitro. 2. A quantidade de radioactividade presente no eluato diluído do gerador não deve exceder 1,8 GBq quando adicionada ao frasco. A quantidade de radioactividade é calculada de acordo com a hora marcada para a administração ao paciente, de modo a obter uma dose individual de 555-740 MBq de um frasco para injectáveis totalmente reconstituído. A segurança e eficiência de (99mTc)-depreotida foram estabelecidas utilizando material 3. investigacional no qual tenha sido demonstrado existir pureza radioquímica de pelo menos 90%, determinada por ITLC, antes da administração aos pacientes em estudos clínicos.
+ 8 4. O conteúdo do frasco de NeoSpect não é radioactivo; contudo, após a adição da solução injectável de pertecnetato (99mTc) de sódio, deve ser mantida a preparação final numa protecção adequada. A reacção de marcação envolvida na preparação do (99mTc)-depreotida depende da manutenção 5. do estanho no estado bivalente (reduzido). Qualquer oxidante presente na solução injectável de pertecnetato (99mTc) de sódio pode afectar negativamente a qualidade da preparação. As soluções de pertecnetato (99mTc) de sódio contendo oxidantes não devem ser utilizadas na preparação do produto marcado. 6. A solução injectável de cloreto de sódio 0,9% p/v deve ser usada como diluente. Não utilizar solução injectável de cloreto de sódio bacteriostático como diluente para o pertecnetato, porque pode afectar negativamente a pureza radioquímica e, afectar a distribuição biológica do traçador. 7. O conteúdo do frasco de NeoSpect é estéril. O frasco não contém conservantes bacteriostáticos. É essencial que o utilizador siga cuidadosamente as instruções assim como procedimentos de assépcia durante a preparação do radiofármaco.
+ Controle de Qualidade Pode ser realizado um ensaio de pureza radioquímica na solução injectável utilizando para tal os procedimentos cromatográficos que se seguem.
+ Equipamento e materiais 1. Duas tiras Gelman ITLC-SG (2 cm x 10 cm) 2. Dois tanques de desenvolvimento cromatográfico e respectivas tampas Solução saturada de cloreto de sódio (SSCS) 1 (ver secção 1.) abaixo) 3. 1: 1 (v/v) metanol/acetato de amónio 1M (MAM) 2 (ver secção 2.) abaixo) 4. 5. Uma seringa de 1 ml e agulha de 21G 6. Equipamento de contagem apropriado
+ 1.) Solução saturada de cloreto de sódio (SSCS) Pode ser preparada por adição de cerca de cinco gramas de cloreto de sódio no fundo do tanque de cromatografia; adicionar aproximadamente 10 mililitros de água destilada ao cloreto de sódio sólido e agitar periodicamente durante 10 a 15 minutos. O cloreto de sódio sólido deve permanece no fundo do tanque; se não existirem resíduos, adicionar mais cloreto de sódio sólido e agitar novamente durante 10 a 15 minutos. Continuar até que os resíduos sólidos permaneçam. (A solução saturada de cloreto de sódio pode ser reutilizada. Para subsequente uso adicionar, se necessário, mais água destilada ou cloreto de sódio mantendo sempre algum cloreto de sódio não dissolvido na porção inferior do tanque).
+ 2.) 1: 1 (v/v) metanol/acetato de amónio 1M (MAM) Acetato de amónio 1M. Adicionar 3,9+/-0,1 gramas de acetato de amónio sólido a uma proveta volumétrica de 50 ml. Adicionar aproximadamente 15 ml de água destilada à proveta, fechar e agitar para dissolver o sólido. Adicionar água destilada até à marca de 50 ml e misturar. A solução de acetato de amónio pode ser usada até 1 mês após a sua preparação. Rotular a solução com um mês de validade. 1: 1 (v/v) metanol/acetato de amónio 1M (MAM). Misturar cuidadosamente uma parte de metanol com uma parte de acetato de amónio 1M. O MAM deve ser preparado fresco diariamente.
+ MÉTODO 1. Colocar o MAM e o SSCS até uma altura de 0,5 cm, em tanques de desenvolvimento separados. Tapar os tanques para que se gere o equilíbrio de vapores no seu interior. 2. Marcar duas tiras Gelman ITLC-SG com um lápis de cor, a 1 cm a partir do topo inferior de cada. Aplicar uma gota (aproximadamente 5-10 microlitros) de (99mTc)-depreotida na origem de cada 3. tira usando para tal uma agulha hipodérmica. Não deixar que as gotas sequem. ATENÇÃO: Não permitir que a agulha toque nas tiras.
+ 9 4. Colocar os tanques de desenvolvimento atrás dos protectores de chumbo. 5. Colocar uma tira de ITLC-SG no solvente de desenvolvimento MAM. Colocar a segunda tira no solvente de desenvolvimento SSCS. Colocar as tiras na posição vertical no respectivo solvente de desenvolvimento de tal forma que as gotas fiquem acima da linha de solvente e o topo de cada tira fique apoiada contra o lado do tanque. ATENÇÃO: não permitir que os lados da tira contactem com a superfície do tanque. Tapar os tanques. 6. Permitir que a frente do solvente se desloque até ao topo da tira. 7. Remover a tira do tanque e deixar secar atrás da protecção de chumbo. 8. Cortar as tiras como se descreve a seguir: ITLC-SG MAM: cortar a tira a um Rf 0,40 (40% da distância a partir da origem da frente de solvente) ITLC-SG SSCS: cortar a tira a um Rf 0,75 (75% da distância a partir da origem da frente de solvente) 9. Proceder à contagem de cada secção num calibrador de doses e interpretar os resultados como se segue:
+ Percentagem de material não móvel de tecnécio-99m= A
+ Radioactividade no fundo da tira de ITLC-SG MAM (Rf 0-0,40)
+ A= 100 x ------------------------------------------------------------------------------------------Total de radioactividade em ambas as secções da tira de ITLC-SG MAM
+ Percentagem de tecnécio (99mTc) na forma de pertecnetato, glucoheptonato marcado com
+ tecnécio-99m e edetato marcado com tecnécio-99m= B
+ Radioactividade no topo da tira de ITLC-SG SSCS (Rf 0,75 – 1,0)
+ B= 100 x --------------------------------------------------------------------------------------Total de radioactividade em ambas as secções da tira de ITLC-SG SSCS
+ 10. Percentagem de (99mTc)-depreotida: 100-(A+ B). Um valor de pelo menos 90% deve ser obtido numa preparação considerada satisfatória.
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia do Medicamento (EMEA) http: //www. emea. europa. eu/
+ 10 ANEXO II
+ A. TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 11 A. TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do fabricante responsável pela libertação do lote CIS bio international B. P. 32 91192 GIF sur YVETTE cedex FRANÇA
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento de receita médica restrita (ver anexo I: resumo das características do medicamento, secção 4.2).
+ • CONDIÇÕES OU RESTRIÇÕES EM RELAÇÃO À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ Não aplicável. 12 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 13 A. ROTULAGEM
+ 14 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ 1. DENOMINAÇÃO DO MEDICAMENTO NeoSpect 47 microgramas, conjunto para preparações radiofarmacêuticas Depreotida
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ Cada frasco contém: 47 microgramas de depreotida na forma de trifluoroacetato de depreotida
+ 3. LISTA DOS EXCIPIENTES α-D-gluco-heptonato de sódio di-hidratado, cloreto de estanho di-hidratado, edetato dissódico, ácido clorídrico e/ou hidróxido de sódio q. b.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 1 frasco para injectáveis 5 frascos para injectáveis
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Agente de diagnóstico para cintigrafia. Reconstituir com solução injectável de pertecnetato (99mTc) de sódio Via intravenosa. Consultar o folheto informativo.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP: 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Guardar no congelador a temperatura igual ou inferior a – 10 °C. Após reconstituição, guardar a 15 °C – 25 °C e utilizar nas 5 horas seguintes.
+ 15 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ Após utilização, eliminar como lixo radioactivo.
+ 11. NOME E ENDREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ CIS bio international B. P. 32 91192 GIF sur YVETTE cedex FRANÇA
+ 12. NÚMEROS DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/00/154/001 EU/1/00/154/002 1 frasco para injectáveis 5 frascos para injectáveis
+ 13. NÚMERO DO LOTE Lote: 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PUBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE 16 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ 1. DENOMINAÇÃO DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ NeoSpect 47 microgramas, conjunto para preparações radiofarmacêuticas Depreotida Via intravenosa
+ 2. MODO DE ADMINISTRAÇÃO 99m Reconstituir com solução injectável de pertecnetato (
+ Tc) de sódio 3. PRAZO DE VALIDADE EXP 4. NÚMERO DO LOTE Lote 5. CONTEÚDO EM TERMOS DE PESO, VOLUME OU UNIDADE
+ 6. OUTRAS _____________________________________________________________________________
+ Etiquetas com rótulos para serem coladas após a reconstituição. 99m Tc NeoSpect
+ MBq 99m
+ ml hora/data
+ Tc 17 B. FOLHETO INFORMATIVO
+ 18 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ NeoSpect 47 microgramas. Conjunto para preparações radiofarmacêuticas.
+ Depreotida
+ Por favor leia este folheto cuidadosamente. Este folheto informa-o sobre o seu medicamento. • Conserve este folheto. Pode ter necessidade de o reler. • Caso ainda tenha dúvidas, fale com o seu médico • Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico.
+ Neste folheto: 1. O que é NeoSpect e para que é utilizado 2. Antes de utilizar o NeoSpect 3. Como utilizar o NeoSpect 4. Efeitos secundários possíveis 5. Como conservar NeoSpect 6. Outras informações
+ 1. O QUE É O NeoSpect E PARA QUE É UTILIZADO
+ Tipo de produto O NeoSpect é um produto radiofarmacêutico de diagnóstico. Um radiofármaco de diagnóstico é um produto que quando injectado, é captado temporariamente numa área particular do corpo (por exemplo um tumor). Porque a substância contém uma pequena quantidade de radioactividade, ela pode ser detectada no exterior do corpo usando para tal câmaras especiais, e podendo-se obter uma fotografia, conhecida como scan. Este scan mostrará exactamente a distribuição da radioactividade no interior do corpo. Esta informação pode ser valiosa para que o médico possa localizar um tumor.
+ Para que fim é utilizado o NeoSpect O NeoSpect é para uso exclusivo em diagnóstico .. O NeoSpect é utilizado para fornecer fotografias (scans) as quais mostram a localização do tecido canceroso maligno suspeito (um tumor) no pulmão. Quando injectado, o composto radiomarcado liga-se ao tecido canceroso maligno. O seu médico irá obter uma fotografia (scan) dos seus pulmões utilizando para tal uma camara especial. O local onde o composto radioactivo é fixado, ficará mais brilhante na fotografia e permitirá ao seu médico obter informação sobre a localização do tumor. A avaliação inclui também exames TC e raios-x do tórax.
+ 2. ANTES DE UTILIZAR O NeoSpect Não utilize NeoSpect • Se tem alergia (hipersensibilidade) à depreotida ou a qualquer outro componente de NeoSpect ou ao tecnécio radioactivo. • Se existir a possibilidade de estar grávida. • Se estiver a amamentar.
+ Tome especial cuidado com NeoSpect • Se sofrer de diabetes ou outras condições relacionadas. • Se sofrer de uma doença renal. • Se sofrer de uma doença hepática.
+ 19 Se possuir qualquer das condições acima mencionadas, deve informar o seu médico.
+ O NeoSpect não é recomendado para utilizar em crianças com idade inferior a 18 anos, uma vez que não existem dados disponíveis para este grupo etário.
+ A utilização de NeoSpect envolve a exposição a pequenas quantidades de radioactividade, contudo o seu médico deve sempre ponderar os possíveis riscos e benefícios quando considera a utilização deste produto.
+ Para minimizar a dose de radiação absorvida pela bexiga, deve providenciar-se uma hidratação adequada de forma a permitir o seu esvaziamento frequente durante as primeiras horas após a injecção.
+ Tomar NeoSpect com outros medicamentos Existem apenas dados limitados sobre a interacção com outros medicamentos. Informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica.
+ Gravidez e aleitamento Deve comunicar ao seu médico, se existe alguma possibilidade de estar grávida, ou se está a amamentar.
+ Condução de veículos e utilização de máquinas Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas. Contudo, não é de esperar que o NeoSpect afecte a sua capacidade de conduzir ou utilizar máquinas
+ 3. COMO UTILIZAR O NeoSpect Dosagem e administração O NeoSpect pode ser utilizado em pacientes com idade superior a 18 anos.
+ A dosagem recomendada é de um frasco (aproximadamente 47 microgramas de depreotida) marcado com 555-740 MBq de tecnécio-99m.
+ O NeoSpect é administrado como injecção única por via intravenosa. Após a marcação com a solução injectável de pertecnetato (99mTc) de sódio, o NeoSpect radiomarcado será injectado antes de se obter o scan.
+ A obtenção de scans pode começar 2 – 4 horas após a injecção de NeoSpect.
+ Qualquer 99mTc-depreotida que permaneça no seu corpo, perderá naturalmente a sua radioactividade em 2 a 3 dias.
+ Porque existem leis especificas sobre a utilização, manipulação e eliminação de radioactividade, o NeoSpect será sempre utilizado num hospital ou num local similar. Será apenas manipulado e administrado por pessoal treinado e qualificado para a utilização em segurança de material radioactivo.
+ Sobredosagem Se existir suspeita de sobredosagem, deve ser administrada terapêutica sintomática. O seu médico pode recomendar que ingira grande quantidade de fluídos para acelerar a remoção dos vestígios de radiofármaco do seu organismo.
+ 20 4. EFEITOS SECUNDÁRIOS POSSÍVEIS
+ Como os demais medicamentos, NeoSpect pode causar efeitos secundários em algumas pessoas.
+ A maioria dos efeitos secundários relatados foram transitórios e de baixa intensidade. Os mais frequentemente relatados foram:
+ *
+ dor de cabeça* n
+ * dor de cabeça*
+ náuseas
+ *
+ vómitos* di
+ * vómitos*
+ diarreia
+ *
+ dor abdominal* to
+ * dor abdominal*
+ tonturas
+ *
+ rubor*
+ * rubor*
+ fadiga
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico.
+ 5. COMO CONSERVAR NeoSpect Manter fora do alcance e da vista das crianças.
+ O rótulo do produto inclui as condições de conservação apropriadas e a data de validade para o produto. Não utilize NeoSpect após o prazo de validade impresso no rótulo.
+ O pessoal hospitalar especializado assegurará um correcto armazenamento do NeoSpect.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de NeoSpect • A substância activa é 47 microgramas depreotida sob a forma de trifluoroacetato de depreotida. • Os outros componentes são o gluco-heptonato de sódio di-hidratado, cloreto de estanho di-hidratado, edetato dissódico e ácido clorídrico e/ou hidróxido de sódio para ajustar o pH.
+ Qual o aspecto de NeoSpect e conteúdo da embalagem
+ O produto é um conjunto para preparações radiofarmacêuticas. O NeoSpect é um pó para solução injectável destinado a ser dissolvido e marcado com tecnécio radioactivo antes de ser utilizado. Quando uma solução radioactiva de pertecnetato (99mTc) de sódio é adicionada ao frasco, forma-se o 99mTc-depreotida. Esta solução está pronta a ser injectada por via intravenosa.
+ Apresentação 1 frasco para injetáveis contendo 47 microgramas de depreotida. 5 frascos para injetáveis, cada frasco contendo 47 microgramas de depreotida. É possível que não sejam comercializadas todas as apresentações.
+ Titular da Autorização de Introdução no Mercado
+ CIS bio international B. P. 32 91192 GIF sur YVETTE cedex FRANÇA
+ 21 Fabricante responsável pela libertação de lotes
+ CIS bio international B. P. 32 91192 GIF sur YVETTE cedex FRANÇA
+ Este folheto foi aprovado pela última vez em
+ 22

@@ -1,0 +1,817 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. NOME DO MEDICAMENTO
+ Levemir 100 U/ml solução injectável num cartucho
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ 1 ml contém 100 U de insulina detemir (produzida por tecnologia ADN recombinante em Saccharomyces cerevisiae). 1 cartucho contém 3 ml equivalentes a 300 U.
+ Uma unidade de insulina detemir contém 0,142 mg de insulina detemir anidra isenta de sal. Uma unidade (U) de insulina detemir corresponde a uma UI de insulina humana.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Solução injectável num cartucho. Penfill Solução límpida, incolor, neutra. 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Tratamento da diabetes mellitus. 4.2 Posologia e modo de administração Levemir é um análogo da insulina, solúvel, de acção lenta, utilizado como uma insulina basal.
+ Posologia: Em associação com antidiabéticos orais, é aconselhável iniciar o tratamento com uma administração diária de Levemir, numa dose de 10 U ou 0, 1-0,2 U/kg. A dose de Levemir deve ser titulada com base nas necessidades individuais do doente.
+ Tendo por base os resultados de estudos que foram efectuados, recomenda-se a seguinte norma orientadora para a titulação:
+ Média da GP em Auto-monitorização &gt; 10.0 mmol/L (180 mg/dL) 9. 1-10.0 mmol/L (163-180 mg/dL) 8. 1-9.0 mmol/L (145-162 mg/dL) 7. 1-8.0 mmol/L (127-144 mg/dL) 6. 1-7.0 mmol/L (109-126 mg/dL)
+ Ajuste da dose de Levemir +8 +6 +4 +2 +2
+ Se uma medição de GP for de 3. 1-4.0 mmol/L (56-72 mg/dL) &lt; 3.1 mmol/L (&lt; 56 mg/dL)
+ -2-4
+ Quando Levemir é usado como parte de um regime de insulina basal bólus, Levemir deverá ser administrado uma ou duas vezes ao dia, dependendo das necessidades do doente. A posologia de Levemir deve ser ajustada a nível individual.
+ 2 Para os doentes que precisam de duas doses ao dia para optimizar o controlo da glicémia, a segunda dose pode ser administrada à noite ou ao deitar.
+ Transferência de outras insulinas: A transferência para Levemir a partir de insulinas de acção intermédia ou lenta pode requerer o ajuste da dose e da hora de administração (ver secção 4.4).
+ Tal como acontece com todas as insulinas, recomenda-se uma monitorização cuidadosa da glucose durante a transferência e nas primeiras semanas de utilização.
+ O tratamento antidiabético concomitante pode requerer um ajuste (da dose e/ou da hora de administração dos antidiabéticos orais ou outras insulinas de acção rápida/curta).
+ Tal como acontece com todas as insulinas, nos doentes idosos e nos doentes com insuficiência renal ou hepática, deve intensificar-se a monitorização da glucose e ajustar a dose de insulina detemir com base nas necessidades individuais.
+ A eficácia e a segurança de Levemir foram demonstradas em crianças e adolescentes entre os 6 e os 17 anos em estudos realizados durante 6 meses (ver secção 5.1).
+ A eficácia e a segurança de Levemir não foram estudadas em crianças com idade inferior a 6 anos.
+ Pode também ser necessário um ajuste da dose se os doentes aumentam a actividade física, alteram a sua dieta habitual ou durante uma doença concomitante.
+ Administração: Via subcutânea. Levemir é administrada por via subcutânea através de injecção na coxa, na parede abdominal ou no braço. Tal como com as insulinas humanas, a velocidade e o grau de absorção da insulina detemir podem ser superiores quando esta é administrada por via s. c. no abdómen ou na região deltóide, relativamente à coxa. Os locais de injecção devem ser alternados na mesma região.
+ Levemir Penfill é fornecido com um folheto informativo com instruções detalhadas para a sua utilização.
+ Os cartuchos Levemir Penfill foram concebidos para serem utilizados com os sistemas de administração da Novo Nordisk (dispositivos duráveis para utilização repetida) e com as agulhas NovoFine. Devem seguir-se as instruções pormenorizadas que vêm com o sistema de administração.
+ 4.3 Contra-indicações Hipersensibilidade à insulina detemir ou a qualquer um dos excipientes.
+ 4.4 Advertências e precauções especiais de utilização
+ Uma dose inadequada ou a suspensão do tratamento, especialmente na diabetes tipo 1, pode conduzir a hiperlicemia e cetoacidose diabética. Habitualmente, os primeiros sintomas de hiperlicemia surgem de forma gradual, ao longo de um período de horas ou dias. Podem incluir sede, aumento da frequência urinária, náuseas, vómitos, sonolência, pele seca e avermelhada, boca seca, perda de apetite, bem como hálito cetónico. Na diabetes tipo 1, os episódios hiperglicémicos não tratados podem conduzir eventualmente a uma cetoacidose diabética, que é potencialmente letal.
+ Pode ocorrer um episódio de hipoglicemia se a dose de insulina for demasiado elevada em relação às necessidades de insulina (ver secções 4.8 e 4.9).
+ 3 A omissão de uma refeição ou a realização de exercício físico vigoroso não planeado podem conduzir a hipoglicemia.
+ Quando o controlo da glicémia melhora consideravelmente, por exemplo através de uma terapêutica intensiva com insulina, poderá ocorrer uma alteração nos sintomas habituais de aviso de hipoglicemia, devendo os doentes ser prevenidos deste facto. Os sintomas de aviso habituais poderão desaparecer em doentes com diabetes de longa duração.
+ As doenças concomitantes, especialmente infecções e estados febris, normalmente aumentam as necessidades de insulina do doente.
+ A transferência de um doente para outro tipo ou marca de insulina deve ser efectuada sob rigorosa supervisão médica. As alterações na dosagem, marca (fabricante), tipo, origem (animal, humana, análogos de insulina humana) e/ou no método de fabrico (ADN recombinante versus insulina de origem animal) podem resultar numa necessidade de alteração da dose. Os doentes que estejam a ser tratados com Levemir poderão precisar de uma alteração da dose relativamente à que utilizavam com a insulina habitual. Se for necessário um ajuste, este pode ocorrer logo na primeira dose ou durante as primeiras semanas ou meses de tratamento.
+ Tal como acontece com qualquer terapêutica insulínica, podem ocorrer reacções no local de injecção, incluindo dor, prurido, erupção cutânea, tumefacção e inflamação. A alteração regular do local de injecção numa determinada área pode ajudar a reduzir ou a evitar estas reacções. As reacções desaparecem em alguns dias ou em algumas semanas. Em raras ocasiões, as reacções no local de injecção podem requerer a descontinuação de Levemir.
+ Levemir não deve ser administrada por via intravenosa, uma vez que poderia originar um episódio grave de hipoglicemia.
+ A administração intramuscular deve ser evitada.
+ Se Levemir for misturada com outras preparações de insulina, o perfil de acção de um ou ambos os componentes individuais sofre uma alteração. A mistura de Levemir com um análogo da insulina de acção rápida como a insulina aspart, resulta num perfil de acção com um efeito máximo mais lento e retardado quando comparado com injecções separadas. Assim, a mistura de insulina de acção rápida com Levemir deve ser evitada.
+ Existem poucos dados sobre doentes com hipoalbuminémia grave. Recomenda-se uma monitorização cuidadosa destes doentes.
+ Levemir não se destina a ser usada em bombas perfusoras de insulina.
+ Levemir contém metacresol, o qual pode provocar reacções alérgicas.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Sabe-se que existem alguns medicamentos que podem interagir com o metabolismo da glucose.
+ As seguintes substâncias podem reduzir as necessidades de insulina:
+ Antidiabéticos orais, inibidores da monoaminoxidase (IMAO), bloqueadores beta não-selectivos, inibidores da enzima de conversão da angiotensina (IECA), salicilatos e álcool.
+ As seguintes substâncias podem aumentar as necessidades de insulina: Tiazidas, glucocorticóides, hormonas da tiróide e beta-simpaticomiméticos, hormona do crescimento e danazol.
+ 4 Os bloqueadores beta podem ocultar os sintomas de hipoglicemia e retardar a recuperação de uma situação de hipoglicemia.
+ O octreótido/lanreótido tanto pode aumentar como reduzir as necessidades de insulina.
+ O álcool pode intensificar e prolongar o efeito hipoglicémico da insulina.
+ 4.6 Gravidez e aleitamento Gravidez: Não existe experiência clínica com insulina detemir durante a gravidez.
+ Os estudos de reprodução em animais não revelaram quaisquer diferenças entre a insulina detemir e a insulina humana no que se refere à embriotoxicidade e à teratogenicidade. A prescrição a mulheres grávidas deverá ser feita cautelosamente.
+ Em geral, recomenda-se uma intensificação do controlo da glicémia e da monitorização das mulheres grávidas que sofrem de diabetes durante o período da gravidez e no período que antecede a gravidez. As necessidades de insulina geralmente diminuem durante o primeiro trimestre, aumentando no segundo e terceiro trimestres. Após o parto, é normal que as necessidades de insulina voltem rapidamente aos valores pré-gravidez.
+ Aleitamento: Não existe experiência clínica com insulina detemir durante o aleitamento. A prescrição a mulheres lactantes deverá ser feita cautelosamente. Poderão ser necessários ajustes da dose de insulina e da dieta em mulheres a amamentar.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ A hipoglicemia poderá condicionar a capacidade de concentração e de reacção do doente. Este facto pode constituir um factor de risco em situações nas quais estas capacidades sejam de especial importância (por exemplo, conduzir um automóvel ou utilizar máquinas).
+ Os doentes devem ser aconselhados a tomar precauções de modo a evitar a hipoglicemia durante a condução, o que é particularmente importante nos doentes que têm uma percepção reduzida ou inexistente dos sinais de aviso de hipoglicemia, ou que sofrem de hipoglicemias frequentes. Nestas circunstâncias, deverá reflectir-se se é aconselhável a condução.
+ 4.8 Efeitos indesejáveis As reacções adversas observadas em doentes a tomar Levemir são principalmente dependentes da dose e devem-se ao efeito farmacológico da insulina. A hipoglicemia é um efeito indesejável frequente. Poderá ocorrer se a dose de insulina for superior à dose que é necessária. A partir de investigações clínicas, sabe-se que a hipoglicemia grave, definida como necessidade de intervenção de terceiros, ocorre em aproximadamente 6% dos doentes tratados com Levemir. A hipoglicemia grave pode provocar estado de inconsciência e/ou convulsões, podendo resultar em perturbações da função cerebral temporárias ou permanentes, ou até mesmo morte.
+ Durante o tratamento com Levemir observam-se reacções no local de injecção mais frequentemente do que com a insulina humana. Estas reacções incluem rubor, inflamação, equimose, tumefacção e prurido no local de injecção. A maioria das reacções no local da injecção são ligeiras e de natureza transitória, ou seja, normalmente desaparecem em alguns dias ou semanas com a continuação do tratamento.
+ Estima-se que a percentagem global de doentes tratados que sofrem reacções adversas é de 12%.
+ 5 A frequência de reacções adversas ao medicamento nos ensaios clínicos, consideradas estarem relacionadas com Levemir, são descritas a seguir.
+ Doenças do metabolismo e da nutrição Frequentes (&gt; 1/100, &lt; 1/10) Perturbações gerais e alterações no local de administração
+ Hipoglicemia: Normalmente, os sintomas de hipoglicemia ocorrem subitamente. Podem incluir suores frios, pele pálida e fria, fadiga, nervosismo ou tremores, ansiedade, sensação invulgar de cansaço ou fraqueza, confusão, dificuldade de concentração, sonolência, fome excessiva, alterações na visão, cefaleias, náuseas e palpitações. A hipoglicemia grave pode provocar estado de inconsciência e/ou convulsões, podendo resultar em perturbações da função cerebral temporárias ou permanentes, ou até mesmo morte.
+ Frequentes (&gt; 1/100, &lt; 1/10) Reacções no local de injecção: Reacções no local de injecção (rubor, tumefacção e prurido no local da injecção) podem ocorrer durante o tratamento com insulina. Estas reacções são habitualmente transitórias e normalmente desaparecem com a continuação do tratamento.
+ Pouco frequentes (&gt; 1/1.000, &lt; 1/100) Lipodistrofia: Pode ocorrer lipodistrofia no local de injecção em consequência de não se alternar o local de injecção dentro de uma área. Tumefacção: Pode ocorrer tumefacção no início da terapêutica com insulina. Estes sintomas são normalmente de natureza transitória.
+ Doenças do sistema imunitário Frequentes (&gt; 1/100, &lt; 1/10) Em três estudos clínicos com indivíduos tratados em associação com antidiabéticos orais, foi observada uma maior frequência (2,2%) de reacções alérgicas e reacções potencialmente alérgicas.
+ Pouco frequentes (&gt; 1/1.000, &lt; 1/100) Afecções oculares
+ Reacções alérgicas, reacções potencialmente alérgicas, urticária e erupções cutâneas: Estes sintomas podem ser devidos a hipersensibilidade generalizada. Outros sinais de hipersensibilidade generalizada podem incluir prurido, sudação, alterações gastrintestinais, edema angioneurótico, dificuldade em respirar, palpitações e descida da tensão arterial. As reacções de hipersensibilidade generalizada acarretam um potencial risco de vida (reacções anafilácticas).
+ Pouco frequentes (&gt; 1/1.000, &lt; 1/100) Distúrbios da refracção: Podem ocorrer anomalias de refracção no início
+ 6 da terapêutica com insulina. Estes sintomas são normalmente de natureza transitória. Retinopatia diabética: O bom controlo glicémico prolongado diminui o risco de progressão da retinopatia diabética. No entanto, a intensificação da terapêutica com insulina e a melhoria súbita do controlo glicémico podem estar associadas a um agravamento temporário da retinopatia diabética. Doenças do sistema nervoso
+ Raros (&gt; 1/10.000, &lt; 1/1.000)
+ Neuropatia periférica: A melhoria rápida no controlo da glicémia pode estar relacionada com uma situação designada por" neuropatia dolorosa aguda", a qual é normalmente reversível.
+ 4.9 Sobredosagem Não é possível definir uma sobredosagem específica de insulina, contudo, pode desenvolver-se uma hipoglicemia em etapas sequenciais se forem administradas doses muito elevadas em relação às necessidades do doente:
+ • As hipoglicemias ligeiras podem ser tratadas pela administração oral de glucose ou produtos açucarados. Assim, recomenda-se que o doente diabético tenha sempre consigo produtos que contenham açúcar.
+ • As hipoglicemias graves, em que o doente perde a consciência, podem ser tratadas com glucagom (0,5 a 1 mg) administrado por via intramuscular ou subcutânea por uma pessoa com experiência, ou com glucose administrada por via intravenosa por um profissional de saúde. Também se deve administrar glucose por via intravenosa, se o doente não responder ao glucagom num espaço de tempo de 10 a 15 minutos. Depois do doente ter recuperado a consciência, recomenda-se a administração oral de hidratos de carbono como forma de prevenção de recaídas.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Medicamentos usados na diabetes. Insulinas e análogos injectáveis, de acção lenta. Código ATC: A10AE05. Insulina detemir é um análogo basal da insulina, solúvel, de acção lenta, com uma duração de efeito prolongada.
+ O perfil tempo-acção da insulina detemir é estatística e significativamente menos variável e, portanto, mais previsível, do que o da insulina NPH, tal como é demonstrado nos Coeficientes de Variação (CV) intra-individuais para o efeito farmacodinâmico total e máximo, apresentados no Quadro 1.
+ Quadro 1. Variabilidade intra-individual do perfil tempo-acção da insulina detemir e, da insulina NPH
+ Insulina Insulina Endpoint farmacodinâmico
+ detemir CV (%)
+ NPH CV (%) AUCGIR, 0-24h* GIRmax ** 27 23 7
+ 68 46 * Área sob a curva ** Taxa de perfusão da glucose valor de p &lt; 0,001 para todas as comparações com insulina detemir
+ A acção prolongada da insulina detemir é mediada pela forte auto-associação de moléculas de insulina detemir no local da injecção e pela ligação de albumina através da cadeia secundária de ácidos gordos. A insulina detemir distribui-se mais lentamente nos tecidos-alvo periféricos relativamente à insulina NPH. Estes mecanismos combinados de retardamento proporcionam um perfil de absorção e de acção mais reproduzível da insulina detemir relativamente à insulina NPH.
+ O efeito de diminuição da glucose sanguínea provocado pela insulina detemir deve-se à fácil assimilação da glucose após a ligação da insulina aos receptores das células adiposas e musculares e à inibição simultânea da libertação de glucose pelo fígado.
+ Pharmacodynamic Parameters for Levemir and NPH Glucose infusion rate (mg/kg/min)
+ Duration of action (hr) GIRmax (mg/kg/min) † estimated values
+ U/kg U/kg U/kg IU/kg Time Since Insulin Injection (hours)
+ Levemir … .. 0.2 U/kg 0.3 U/kg.... 0.4 U/kg Figura 1: Perfis de actividade de Levemir em doentes com diabetes tipo1.
+ A duração da acção é de 24 horas no máximo, dependendo da dose, permitindo a opção entre a administração uma vez ou duas vezes ao dia. Se for administrada duas vezes ao dia, o estado estacionário irá ocorrer após a administração de 2-3 doses. Para doses no intervalo de 0, 2-0,4 U/kg, Levemir exerce mais de 50% do seu efeito máximo entre as 3-4 horas após a administração da dose, e o tempo total de duração do efeito é de, aproximadamente,14 horas.
+ Observou-se uma proporcionalidade da dose na resposta farmacodinâmica (efeito máximo, duração da acção, efeito total) após administração subcutânea.
+ Em ensaios clínicos a longo prazo foi demonstrada uma variabilidade diária cada vez menor da GPJ durante o tratamento com Levemir, em comparação com NPH.
+ Os estudos realizados em doentes com diabetes tipo 2, tratados com insulina basal em associação com antidiabéticos orais, demonstraram que o controlo glicémico (HbA1c) com Levemir é comparável ao obtido com NPH e insulina glargina, sendo ainda associado a um menor aumento de peso, ver Quadro 2 abaixo. No estudo versus insulina glargina, em que foram autorizadas uma ou duas administrações diárias de insulina detemir, face a uma única administração diária de insulina glargina,55% dos indivíduos tratados com insulina detemir completaram as 52 semanas de tratamento no regime de duas administrações diárias.
+ Quadro 2. Alteração do peso após o tratamento com insulina Duração do estudo
+ Insulina detemir uma administra-ção diária
+ Insulina detemir duas administra-ções diárias
+ Insulina NPH Insulina glargina 20 semanas 26 semanas +0,7 kg
+ +1,2 kg
+ +1,6 kg +2,8 kg
+ 8 52 semanas +2,3 kg
+ +3,7 kg
+ +4,0 kg
+ Em ensaios realizados com uma terapêutica combinada de antidiabéticos orais-insulina, o tratamento com Levemir apresentou um risco 61-65% inferior de hipoglicemia nocturna menor, quando comparado com a NPH.
+ Em ensaios realizados no decurso de tratamentos de longa duração em doentes com diabetes tipo 1, o nível de glucose plasmática em jejum registou uma melhoria com Levemir relativamente à insulina NPH, quando submetidos a uma terapêutica basal/bólus, inclusivamente nas crianças e adolescentes entre os 6 e os 17 anos. O controlo glicémico (HbA1c) com Levemir é comparável ao da insulina NPH, com um risco menor de hipoglicemia nocturna e sem aumento de peso associado.
+ Em estudos clínicos com terapêutica de insulina em basal bólus, as taxas globais de hipoglicemia com insulina NPH e Levemir foram semelhantes. As análises de hipoglicemia nocturna em doentes com diabetes tipo 1 demonstraram um risco significativamente inferior de hipoglicemia nocturna menor (com capacidade de recuperação autónoma e confirmada por valores de glucose plasmática inferiores a 2,8 mmol/l ou 3,1 mmol/l se for expresso como glucose plasmática) em relação à insulina NPH, mas não foram observadas diferenças na diabetes tipo 2. Além disso, o risco global de hipoglicemia nocturna em crianças e adolescentes entre os 6 e os 17 anos, com diabetes tipo 1, foi significativamente mais baixo com Levemir em comparação com a insulina NPH.
+ Observou-se o desenvolvimento de anticorpos com a utilização de Levemir. No entanto, este facto parece não ter qualquer impacto no controlo glicémico.
+ 5.2 Propriedades farmacocinéticas Absorção: A concentração sérica máxima é atingida entre 6 a 8 horas após a administração.
+ Quando é administrada duas vezes ao dia, as concentrações séricas no estado estacionário atingem-se após a administração de 2-3 doses.
+ A variação intra-individual na absorção é inferior com Levemir do que com outras preparações de insulina basal.
+ Não se registou qualquer diferença clinicamente relevante entre sexos nas propriedades farmacocinéticas da insulina detemir.
+ A biodisponibilidade absoluta da insulina detemir quando administrada por via subcutânea é de aproximadamente 60%.
+ Distribuição: Um volume de distribuição aparente de insulina detemir (aproximadamente 0,1 L/kg) indica que uma fracção elevada de insulina detemir está a circular na corrente sanguínea.
+ Metabolismo: A degradação de insulina detemir é semelhante à da insulina humana; todos os metabolitos formados são inactivos.
+ Os resultados dos ensaios de ligação às proteínas in vitro e in vivo sugerem que não existe uma interacção clinicamente relevante entre a insulina detemir e os ácidos gordos ou outros medicamentos com ligação às proteínas.
+ Eliminação: A semi-vida terminal após a administração subcutânea é determinada pela velocidade de absorção a partir do tecido subcutâneo. A semi-vida terminal situa-se entre 5 e 7 horas dependendo da dose.
+ 9 Linearidade: Observou-se uma proporcionalidade da dose em concentrações séricas (concentração máxima, grau de absorção) após administração subcutânea dentro dos limites da dose terapêutica.
+ Populações especiais: As propriedades farmacocinéticas da insulina detemir foram investigadas em crianças (6– 12 anos) e adolescentes (13– 17 anos) e comparadas com as observadas em adultos com diabetes tipo 1. Não se registou qualquer diferença de relevância clínica nas propriedades farmacocinéticas.
+ Não se constatou diferença clinicamente relevante na farmacocinética da insulina detemir entre indivíduos idosos e indivíduos jovens ou entre indivíduos com insuficiência renal ou hepática e indivíduos saudáveis. Não são esperadas diferenças clinicamente relevantes na farmacocinética da insulina detemir entre indivíduos saudáveis e indivíduos com insuficiência renal ou hepática, com base nos estudos realizados. Uma vez que a farmacocinética da insulina detemir não foi estudada extensivamente nestes populações, recomenda-se a monitorização cuidadosa da glucose plasmática nestas populações.
+ 5.3 Dados de segurança pré-clínica Os dados não clínicos não revelam riscos especiais para o ser humano, segundo estudos convencionais de farmacologia de segurança, toxicidade de dose repetida, genotoxicidade e toxicidade reprodutiva. Os dados sobre a afinidade aos receptores e os ensaios de mitogenicidade in vitro não revelaram evidência de um maior potencial mitogénico em comparação com a insulina humana.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Glicerol Fenol Metacresol Acetato de zinco Fosfato dissódico di-hidratado Cloreto de sódio Ácido clorídrico 2N (ajuste do pH) Hidróxido de sódio 2N (ajuste do pH) Água para preparações injectáveis
+ 6.2 Incompatibilidades As substâncias adicionadas a Levemir podem causar degradação da insulina detemir, por exemplo, se contiverem tióis ou sulfitos. Levemir não deve ser adicionada a líquidos para perfusão.
+ 6.3 Prazo de validade 30 meses. Após a primeira abertura, o produto pode ser conservado durante um máximo de 6 semanas, a temperatura inferior a 30ºC.
+ 6.4 Precauções especiais de conservação
+ Conservar no frigorífico (2°C-8°C) afastado do congelador. Não congelar.
+ Manter o cartucho dentro da embalagem exterior de modo a proteger da luz.
+ 10 Durante a utilização: Não refrigerar. Não guardar a temperaturas superiores a 30ºC.
+ Levemir deve ser protegida do calor excessivo e da luz solar.
+ 6.5 Natureza e conteúdo do recipiente 3 ml de solução num cartucho (vidro tipo 1), com um êmbolo (bromobutil) e uma tampa (bromobutil/poli-isopreno) numa embalagem de cartão. Tamanhos de embalagem: 1,5 e 10 cartuchos.
+ É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ Os cartuchos Levemir Penfill foram concebidos para serem utilizados com os sistemas de administração da Novo Nordisk e com as agulhas NovoFine. Devem seguir-se as instruções pormenorizadas que vêm com o sistema de administração.
+ Levemir destina-se a utilização por uma única pessoa. O cartucho não deve ser enchido novamente.
+ Levemir não deve ser utilizada se não tiver um aspecto límpido e incolor.
+ Se Levemir tiver sido congelada não pode ser utilizada. O doente deverá ser aconselhado a deitar fora a agulha após cada injecção.
+ Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Novo Nordisk A/S Novo Allé DK-2880 Bagsværd Dinamarca
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/04/278/001 EU/1/04/278/002 EU/1/04/278/003
+ 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 1 de Junho de 2004 10. DATA DA REVISÃO DO TEXTO 11 1. NOME DO MEDICAMENTO
+ Levemir 100 U/ml solução injectável numa caneta pré-cheia
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ 1 ml contém 100 U de insulina detemir (produzida por tecnologia ADN recombinante em Saccharomyces cerevisiae). 1 caneta pré-cheia contém 3 ml equivalentes a 300 U.
+ Uma unidade de insulina detemir contém 0,142 mg de insulina detemir anidra isenta de sal. Uma unidade (U) de insulina detemir corresponde a uma UI de insulina humana.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Solução injectável numa caneta pré-cheia. FlexPen
+ Solução límpida, incolor, neutra. 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Tratamento da diabetes mellitus. 4.2 Posologia e modo de administração Levemir é um análogo da insulina, solúvel, de acção lenta, utilizado como uma insulina basal.
+ Posologia: Em associação com antidiabéticos orais, é aconselhável iniciar o tratamento com uma administração diária de Levemir, numa dose de 10 U ou 0, 1-0,2 U/kg. A dose de Levemir deve ser titulada com base nas necessidades individuais do doente.
+ Tendo por base os resultados de estudos que foram efectuados, recomenda-se a seguinte norma orientadora para a titulação:
+ Média da GP em Auto-monitorização &gt; 10.0 mmol/L (180 mg/dL) 9. 1-10.0 mmol/L (163-180 mg/dL) 8. 1-9.0 mmol/L (145-162 mg/dL) 7. 1-8.0 mmol/L (127-144 mg/dL) 6. 1-7.0 mmol/L (109-126 mg/dL)
+ Ajuste da dose de Levemir +8 +6 +4 +2 +2
+ Se uma medição de GP for de 3. 1-4.0 mmol/L (56-72 mg/dL) &lt; 3.1 mmol/L (&lt; 56 mg/dL)
+ -2-4
+ Quando Levemir é usado como parte de um regime de insulina basal bólus, Levemir deverá ser administrado uma ou duas vezes ao dia, dependendo das necessidades do doente. A posologia de Levemir deve ser ajustada a nível individual.
+ 12 Para os doentes que precisam de duas doses ao dia para optimizar o controlo da glicémia, a segunda dose pode ser administrada à noite ou ao deitar.
+ Transferência de outras insulinas: A transferência para Levemir a partir de insulinas de acção intermédia ou lenta pode requerer o ajuste da dose e da hora de administração (ver secção 4.4).
+ Tal como acontece com todas as insulinas, recomenda-se uma monitorização cuidadosa da glucose durante a transferência e nas primeiras semanas de utilização.
+ O tratamento antidiabético concomitante pode requerer um ajuste (da dose e/ou da hora de administração dos antidiabéticos orais ou outras insulinas de acção rápida/curta).
+ Tal como acontece com todas as insulinas, nos doentes idosos e nos doentes com insuficiência renal ou hepática, deve intensificar-se a monitorização da glucose e ajustar a dose de insulina detemir com base nas necessidades individuais.
+ A eficácia e a segurança de Levemir foram demonstradas em crianças e adolescentes entre os 6 e os 17 anos em estudos realizados durante 6 meses (ver secção 5.1).
+ A eficácia e a segurança de Levemir não foram estudadas em crianças com idade inferior a 6 anos.
+ Pode também ser necessário um ajuste da dose se os doentes aumentam a actividade física, alteram a sua dieta habitual ou durante uma doença concomitante.
+ Administração: Via subcutânea. Levemir é administrada por via subcutânea através de injecção na coxa, na parede abdominal ou no braço. Tal como com as insulinas humanas, a velocidade e o grau de absorção da insulina detemir podem ser superiores quando esta é administrada por via s. c. no abdómen ou na região deltóide, relativamente à coxa. Os locais de injecção devem ser alternados na mesma região.
+ Levemir FlexPen é fornecido com um folheto informativo com instruções detalhadas para a sua utilização.
+ 4.3 Contra-indicações Hipersensibilidade à insulina detemir ou a qualquer um dos excipientes.
+ 4.4 Advertências e precauções especiais de utilização
+ Uma dose inadequada ou a suspensão do tratamento, especialmente na diabetes tipo 1, pode conduzir a hiperlicemia e cetoacidose diabética. Habitualmente, os primeiros sintomas de hiperlicemia surgem de forma gradual, ao longo de um período de horas ou dias. Podem incluir sede, aumento da frequência urinária, náuseas, vómitos, sonolência, pele seca e avermelhada, boca seca, perda de apetite, bem como hálito cetónico. Na diabetes tipo 1, os episódios hiperglicémicos não tratados podem conduzir eventualmente a uma cetoacidose diabética, que é potencialmente letal.
+ Pode ocorrer um episódio de hipoglicemia se a dose de insulina for demasiado elevada em relação às necessidades de insulina (ver secções 4.8 e 4.9).
+ A omissão de uma refeição ou a realização de exercício físico vigoroso não planeado podem conduzir a hipoglicemia.
+ 13 Quando o controlo da glicémia melhora consideravelmente, por exemplo através de uma terapêutica intensiva com insulina, poderá ocorrer uma alteração nos sintomas habituais de aviso de hipoglicemia, devendo os doentes ser prevenidos deste facto. Os sintomas de aviso habituais poderão desaparecer em doentes com diabetes de longa duração.
+ As doenças concomitantes, especialmente infecções e estados febris, normalmente aumentam as necessidades de insulina do doente.
+ A transferência de um doente para outro tipo ou marca de insulina deve ser efectuada sob rigorosa supervisão médica. As alterações na dosagem, marca (fabricante), tipo, origem (animal, humana, análogos de insulina humana) e/ou no método de fabrico (ADN recombinante versus insulina de origem animal) podem resultar numa necessidade de alteração da dose. Os doentes que estejam a ser tratados com Levemir poderão precisar de uma alteração da dose relativamente à que utilizavam com a insulina habitual. Se for necessário um ajuste, este pode ocorrer logo na primeira dose ou durante as primeiras semanas ou meses de tratamento.
+ Tal como acontece com qualquer terapêutica insulínica, podem ocorrer reacções no local de injecção, incluindo dor, prurido, erupção cutânea, tumefacção e inflamação. A alteração regular do local de injecção numa determinada área pode ajudar a reduzir ou a evitar estas reacções. As reacções desaparecem em alguns dias ou em algumas semanas. Em raras ocasiões, as reacções no local de injecção podem requerer a descontinuação de Levemir.
+ Levemir não deve ser administrada por via intravenosa, uma vez que poderia originar um episódio grave de hipoglicemia.
+ A administração intramuscular deve ser evitada.
+ Se Levemir for misturada com outras preparações de insulina, o perfil de acção de um ou ambos os componentes individuais sofre uma alteração. A mistura de Levemir com um análogo da insulina de acção rápida como a insulina aspart, resulta num perfil de acção com um efeito máximo mais lento e retardado quando comparado com injecções separadas. Assim, a mistura de insulina de acção rápida com Levemir deve ser evitada.
+ Existem poucos dados sobre doentes com hipoalbuminémia grave. Recomenda-se uma monitorização cuidadosa destes doentes.
+ Levemir não se destina a ser usada em bombas perfusoras de insulina.
+ Levemir contém metacresol, o qual pode provocar reacções alérgicas.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Sabe-se que existem alguns medicamentos que podem interagir com o metabolismo da glucose.
+ As seguintes substâncias podem reduzir as necessidades de insulina:
+ Antidiabéticos orais, inibidores da monoaminoxidase (IMAO), bloqueadores beta não-selectivos, inibidores da enzima de conversão da angiotensina (IECA), salicilatos e álcool.
+ As seguintes substâncias podem aumentar as necessidades de insulina: Tiazidas, glucocorticóides, hormonas da tiróide e beta-simpaticomiméticos, hormona do crescimento e danazol.
+ Os bloqueadores beta podem ocultar os sintomas de hipoglicemia e retardar a recuperação de uma situação de hipoglicemia.
+ O octreótido/lanreótido tanto pode aumentar como reduzir as necessidades de insulina.
+ 14 O álcool pode intensificar e prolongar o efeito hipoglicémico da insulina.
+ 4.6 Gravidez e aleitamento Gravidez: Não existe experiência clínica com insulina detemir durante a gravidez.
+ Os estudos de reprodução em animais não revelaram quaisquer diferenças entre a insulina detemir e a insulina humana no que se refere à embriotoxicidade e à teratogenicidade. A prescrição a mulheres grávidas deverá ser feita cautelosamente.
+ Em geral, recomenda-se uma intensificação do controlo da glicémia e da monitorização das mulheres grávidas que sofrem de diabetes durante o período da gravidez e no período que antecede a gravidez. As necessidades de insulina geralmente diminuem durante o primeiro trimestre, aumentando no segundo e terceiro trimestres. Após o parto, é normal que as necessidades de insulina voltem rapidamente aos valores pré-gravidez.
+ Aleitamento: Não existe experiência clínica com insulina detemir durante o aleitamento. A prescrição a mulheres lactantes deverá ser feita cautelosamente. Poderão ser necessários ajustes da dose de insulina e da dieta em mulheres a amamentar.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ A hipoglicemia poderá condicionar a capacidade de concentração e de reacção do doente. Este facto pode constituir um factor de risco em situações nas quais estas capacidades sejam de especial importância (por exemplo, conduzir um automóvel ou utilizar máquinas). Os doentes devem ser aconselhados a tomar precauções de modo a evitar a hipoglicemia durante a condução, o que é particularmente importante nos doentes que têm uma percepção reduzida ou inexistente dos sinais de aviso de hipoglicemia, ou que sofrem de hipoglicemias frequentes. Nestas circunstâncias, deverá reflectir-se se é aconselhável a condução.
+ 4.8 Efeitos indesejáveis As reacções adversas observadas em doentes a tomar Levemir são principalmente dependentes da dose e devem-se ao efeito farmacológico da insulina. A hipoglicemia é um efeito indesejável frequente. Poderá ocorrer se a dose de insulina for superior à dose que é necessária. A partir de investigações clínicas, sabe-se que a hipoglicemia grave, definida como necessidade de intervenção de terceiros, ocorre em aproximadamente 6% dos doentes tratados com Levemir. A hipoglicemia grave pode provocar estado de inconsciência e/ou convulsões, podendo resultar em perturbações da função cerebral temporárias ou permanentes, ou até mesmo morte.
+ Durante o tratamento com Levemir observam-se reacções no local de injecção mais frequentemente do que com a insulina humana. Estas reacções incluem rubor, inflamação, equimose, tumefacção e prurido no local de injecção. A maioria das reacções no local da injecção são ligeiras e de natureza transitória, ou seja, normalmente desaparecem em alguns dias ou semanas com a continuação do tratamento.
+ Estima-se que a percentagem global de doentes tratados que sofrem reacções adversas é de 12%.
+ A frequência de reacções adversas ao medicamento nos ensaios clínicos, consideradas estarem relacionadas com Levemir, são descritas a seguir.
+ Doenças do metabolismo e da nutrição Frequentes (&gt; 1/100, &lt; 1/10) Hipoglicemia: 15 Normalmente, os sintomas de hipoglicemia ocorrem subitamente. Podem incluir suores frios, pele pálida e fria, fadiga, nervosismo ou tremores, ansiedade, sensação invulgar de cansaço ou fraqueza, confusão, dificuldade de concentração, sonolência, fome excessiva, alterações na visão, cefaleias, náuseas e palpitações. A hipoglicemia grave pode provocar estado de inconsciência e/ou convulsões, podendo resultar em perturbações da função cerebral temporárias ou permanentes, ou até mesmo morte. Perturbações gerais e alterações no local de administração
+ Frequentes (&gt; 1/100, &lt; 1/10) Reacções no local de injecção: Reacções no local de injecção (rubor, tumefacção e prurido no local da injecção) podem ocorrer durante o tratamento com insulina. Estas reacções são habitualmente transitórias e normalmente desaparecem com a continuação do tratamento.
+ Pouco frequentes (&gt; 1/1.000, &lt; 1/100) Lipodistrofia: Pode ocorrer lipodistrofia no local de injecção em consequência de não se alternar o local de injecção dentro de uma área. Tumefacção: Pode ocorrer tumefacção no início da terapêutica com insulina. Estes sintomas são normalmente de natureza transitória.
+ Doenças do sistema imunitário Frequentes (&gt; 1/100, &lt; 1/10) Em três estudos clínicos com indivíduos tratados em associação com antidiabéticos orais, foi observada uma maior frequência (2,2%) de reacções alérgicas e reacções potencialmente alérgicas.
+ Pouco frequentes (&gt; 1/1.000, &lt; 1/100) Afecções oculares
+ Reacções alérgicas, reacções potencialmente alérgicas, urticária e erupções cutâneas: Estes sintomas podem ser devidos a hipersensibilidade generalizada. Outros sinais de hipersensibilidade generalizada podem incluir prurido, sudação, alterações gastrintestinais, tumefacção angioneurótico, dificuldade em respirar, palpitações e descida da tensão arterial. As reacções de hipersensibilidade generalizada acarretam um potencial risco de vida (reacções anafilácticas).
+ Pouco frequentes (&gt; 1/1.000, &lt; 1/100) Distúrbios da refracção: Podem ocorrer anomalias de refracção no início da terapêutica com insulina. Estes sintomas são normalmente de natureza transitória. Retinopatia diabética: O bom controlo glicémico prolongado diminui o risco de progressão da retinopatia diabética. No entanto, a intensificação da terapêutica com
+ 16 insulina e a melhoria súbita do controlo glicémico podem estar associadas a um agravamento temporário da retinopatia diabética. Doenças do sistema nervoso
+ Raros (&gt; 1/10.000, &lt; 1/1.000)
+ Neuropatia periférica: A melhoria rápida no controlo da glicémia pode estar relacionada com uma situação designada por" neuropatia dolorosa aguda", a qual é normalmente reversível.
+ 4.9 Sobredosagem Não é possível definir uma sobredosagem específica de insulina, contudo, pode desenvolver-se uma hipoglicemia em etapas sequenciais se forem administradas doses muito elevadas em relação às necessidades do doente:
+ • As hipoglicemias ligeiras podem ser tratadas pela administração oral de glucose ou produtos açucarados. Assim, recomenda-se que o doente diabético tenha sempre consigo produtos que contenham açúcar.
+ • As hipoglicemias graves, em que o doente perde a consciência, podem ser tratadas com glucagom (0,5 a 1 mg) administrado por via intramuscular ou subcutânea por uma pessoa com experiência, ou com glucose administrada por via intravenosa por um profissional de saúde. Também se deve administrar glucose por via intravenosa, se o doente não responder ao glucagom num espaço de tempo de 10 a 15 minutos. Depois do doente ter recuperado a consciência, recomenda-se a administração oral de hidratos de carbono como forma de prevenção de recaídas.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Medicamentos usados na diabetes. Insulinas e análogos injectáveis, de acção lenta. Código ATC: A10AE05. Insulina detemir é um análogo basal da insulina, solúvel, de acção lenta, com uma duração de efeito prolongada.
+ O perfil tempo-acção da insulina detemir é estatística e significativamente menos variável e, portanto, mais previsível do que o da insulina NPH e da insulina glargina, tal como é demonstrado nos Coeficientes de Variação (CV) intra-individuais para o efeito farmacodinâmico total e máximo, apresentados no Quadro 1.
+ Quadro 1. Variabilidade intra-individual do perfil tempo-acção da insulina detemir e, da insulina NPH
+ Insulina Insulina Endpoint farmacodinâmico detemir CV (%)
+ NPH CV (%) AUCGIR, 0-24h* GIRmax ** 27 23 68 46 * Área sob a curva ** Taxa de perfusão da glucose valor de p &lt; 0,001 para todas as comparações com insulina detemir
+ A acção prolongada da insulina detemir é mediada pela forte auto-associação de moléculas de insulina detemir no local da injecção e pela ligação de albumina através da cadeia secundária de ácidos gordos. 17 A insulina detemir distribui-se mais lentamente nos tecidos-alvo periféricos relativamente à insulina NPH. Estes mecanismos combinados de retardamento proporcionam um perfil de absorção e de acção mais reproduzível da insulina detemir relativamente à insulina NPH.
+ O efeito de diminuição da glucose sanguínea provocado pela insulina detemir deve-se à fácil assimilação da glucose após a ligação da insulina aos receptores das células adiposas e musculares e à inibição simultânea da libertação de glucose pelo fígado.
+ Pharmacodynamic Parameters for Levemir and NPH Glucose infusion rate (mg/kg/min)
+ Duration of action (hr) GIRmax (mg/kg/min) † estimated values
+ U/kg U/kg U/kg IU/kg Time Since Insulin Injection (hours)
+ Levemir … .. 0.2 U/kg 0.3 U/kg.... 0.4 U/kg Figura 1: Perfis de actividade de Levemir em doentes com diabetes tipo1.
+ A duração da acção é de 24 horas no máximo, dependendo da dose, permitindo a opção entre a administração uma vez ou duas vezes ao dia. Se for administrada duas vezes ao dia, o estado estacionário irá ocorrer após a administração de 2-3 doses. Para doses no intervalo de 0, 2-0,4 U/kg, Levemir exerce mais de 50% do seu efeito máximo entre as 3-4 horas após a administração da dose, e o tempo total de duração do efeito é de, aproximadamente,14 horas.
+ Observou-se uma proporcionalidade da dose na resposta farmacodinâmica (efeito máximo, duração da acção, efeito total) após administração subcutânea.
+ Em ensaios clínicos a longo prazo foi demonstrada uma variabilidade cada vez menor da GPJ durante o tratamento com Levemir, em comparação com NPH.
+ Os estudos realizados em doentes com diabetes tipo 2, tratados com insulina basal em associação com antidiabéticos orais, demonstraram que o controlo glicémico (HbA1c) com Levemir é comparável ao obtido com NPH e insulina glargina, sendo ainda associado a um menor aumento de peso, ver Quadro 2 abaixo. No estudo versus insulina glargina, em que foram autorizadas uma ou duas administrações diárias de insulina detemir, face a uma única administração diária de insulina glargina,55% dos indivíduos tratados com insulina detemir completaram as 52 semanas de tratamento no regime de duas administrações diárias.
+ Quadro 2. Alteração do peso após o tratamento com insulina Duração do estudo
+ Insulina detemir uma administra-ção diária
+ Insulina detemir duas administra-ções diárias
+ Insulina NPH Insulina glargina 20 semanas 26 semanas +0,7 kg
+ +1,2 kg
+ +1,6 kg +2,8 kg
+ 52 semanas +2,3 kg
+ +3,7 kg
+ +4,0 kg
+ Em ensaios realizados com uma terapêutica combinada de antidiabéticos orais-insulina, o tratamento com Levemir apresentou um risco 61-65% inferior de hipoglicemia nocturna menor, quando comparado com a NPH.
+ 18 Em ensaios realizados no decurso de tratamentos de longa duração em doentes com diabetes tipo 1, o nível de glucose plasmática em jejum registou uma melhoria com Levemir relativamente à insulina NPH, quando submetidos a uma terapêutica basal/bólus, inclusivamente nas crianças e adolescentes entre os 6 e os 17 anos. O controlo glicémico (HbA1c) com Levemir é comparável ao da insulina NPH, com um risco menor de hipoglicemia nocturna e sem aumento de peso associado.
+ Em estudos clínicos com terapêutica de insulina em basal bólus, as taxas globais de hipoglicemia com insulina NPH e Levemir foram semelhantes. As análises de hipoglicemia nocturna em doentes com diabetes tipo 1 demonstraram um risco significativamente inferior de hipoglicemia nocturna menor (com capacidade de recuperação autónoma e confirmada por valores de glucose plasmática inferiores a 2,8 mmol/l ou 3,1 mmol/l se for expresso como glucose plasmática) em relação à insulina NPH, mas não foram observadas diferenças na diabetes tipo 2. Além disso, o risco global de hipoglicemia nocturna em crianças e adolescentes entre os 6 e os 17 anos, com diabetes tipo 1, foi significativamente mais baixo com Levemir em comparação com a insulina NPH.
+ Observou-se o desenvolvimento de anticorpos com a utilização de Levemir. No entanto, este facto parece não ter qualquer impacto no controlo glicémico.
+ 5.2 Propriedades farmacocinéticas Absorção: A concentração sérica máxima é atingida entre 6 a 8 horas após a administração.
+ Quando é administrada duas vezes ao dia, as concentrações séricas no estado estacionário atingem-se após a administração de 2-3 doses.
+ A variação intra-individual na absorção é inferior com Levemir do que com outras preparações de insulina basal.
+ Não se registou qualquer diferença clinicamente relevante entre sexos nas propriedades farmacocinéticas da insulina detemir.
+ A biodisponibilidade absoluta da insulina detemir quando administrada por via subcutânea é de aproximadamente 60%.
+ Distribuição: Um volume de distribuição aparente de insulina detemir (aproximadamente 0,1 L/kg) indica que uma fracção elevada de insulina detemir está a circular na corrente sanguínea.
+ Metabolismo: A degradação de insulina detemir é semelhante à da insulina humana; todos os metabolitos formados são inactivos.
+ Os resultados dos ensaios de ligação às proteínas in vitro e in vivo sugerem que não existe uma interacção clinicamente relevante entre a insulina detemir e os ácidos gordos ou outros medicamentos com ligação às proteínas.
+ Eliminação: A semi-vida terminal após a administração subcutânea é determinada pela velocidade de absorção a partir do tecido subcutâneo. A semi-vida terminal situa-se entre 5 e 7 horas dependendo da dose.
+ Linearidade: Observou-se uma proporcionalidade da dose em concentrações séricas (concentração máxima, grau de absorção) após administração subcutânea dentro dos limites da dose terapêutica.
+ Populações especiais: 19 As propriedades farmacocinéticas da insulina detemir foram investigadas em crianças (6– 12 anos) e adolescentes (13– 17 anos) e comparadas com as observadas em adultos com diabetes tipo 1. Não se registou qualquer diferença de relevância clínica nas propriedades farmacocinéticas.
+ Não se constatou diferença clinicamente relevante na farmacocinética da insulina detemir entre indivíduos idosos e indivíduos jovens ou entre indivíduos com insuficiência renal ou hepática e indivíduos saudáveis. Não são esperadas diferenças clinicamente relevantes na farmacocinética da insulina detemir entre indivíduos saudáveis e indivíduos com insuficiência renal ou hepática, com base nos estudos realizados. Uma vez que a farmacocinética da insulina detemir não foi estudada extensivamente nestes populações, recomenda-se a monitorização cuidadosa da glucose plasmática nestas populações.
+ 5.3 Dados de segurança pré-clínica Os dados não clínicos não revelam riscos especiais para o ser humano, segundo estudos convencionais de farmacologia de segurança, toxicidade de dose repetida, genotoxicidade e toxicidade reprodutiva. Os dados sobre a afinidade aos receptores e os ensaios de mitogenicidade in vitro não revelaram evidência de um maior potencial mitogénico em comparação com a insulina humana.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Glicerol Fenol Metacresol Acetato de zinco Fosfato dissódico di-hidratado Cloreto de sódio Ácido clorídrico 2N (ajuste do pH) Hidróxido de sódio 2N (ajuste do pH) Água para preparações injectáveis
+ 6.2 Incompatibilidades As substâncias adicionadas a Levemir podem causar degradação da insulina detemir, por exemplo, se contiverem tióis ou sulfitos. Levemir não deve ser adicionada a líquidos para perfusão.
+ 6.3 Prazo de validade 30 meses. Após a primeira abertura, o produto pode ser conservado durante um máximo de 6 semanas, a temperatura inferior a 30ºC.
+ 6.4 Precauções especiais de conservação
+ Conservar no frigorífico (2°C-8°C) afastado do congelador. Não congelar.
+ Manter a tampa da caneta colocada quando Levemir FlexPen não estiver a ser utilizado, de modo a proteger da luz.
+ Durante a utilização: Não refrigerar. Não guardar a temperaturas superiores a 30ºC.
+ Levemir deve ser protegida do calor excessivo e da luz solar.
+ 20 6.5 Natureza e conteúdo do recipiente
+ 3 ml de solução num cartucho (vidro tipo 1) com um êmbolo (bromobutil) e uma tampa (bromobutil/poli-isopreno) contida numa caneta pré-cheia (caneta descartável multi-dose) (polipropileno). Tamanhos de embalagem: 1,5 e 10 canetas pré-cheias.
+ É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ Levemir destina-se a utilização por uma única pessoa. O cartucho não deve ser enchido novamente.
+ Levemir não deve ser utilizada se não tiver um aspecto límpida e incolor.
+ Se Levemir tiver sido congelada não pode ser utilizada. O doente deverá ser aconselhado a deitar fora a agulha após cada injecção.
+ Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Novo Nordisk A/S Novo Allé DK-2880 Bagsværd Dinamarca
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/04/278/004 EU/1/04/278/005 EU/1/04/278/006
+ 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 1 de Junho de 2004 10. DATA DA REVISÃO DO TEXTO 21 1. NOME DO MEDICAMENTO
+ Levemir 100 U/ml, solução injectável numa caneta pré-cheia
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ 1 ml contém 100 U de insulina detemir (produzida por tecnologia ADN recombinante em Saccharomyces cerevisiae). 1 caneta pré-cheia contém 3 ml equivalentes a 300 U.
+ Uma unidade de insulina detemir contém 0,142 mg de insulina detemir anidra isenta de sal. Uma unidade (U) de insulina detemir corresponde a uma UI de insulina humana.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Solução injectável numa caneta pré-cheia. InnoLet
+ Solução límpida, incolor, neutra. 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Tratamento da diabetes mellitus. 4.2 Posologia e modo de administração Levemir é um análogo da insulina, solúvel, de acção lenta, utilizado como uma insulina basal.
+ Posologia: Em associação com antidiabéticos orais, é aconselhável iniciar o tratamento com uma administração diária de Levemir, numa dose de 10 U ou 0, 1-0,2 U/kg. A dose de Levemir deve ser titulada com base nas necessidades individuais do doente.
+ Tendo por base os resultados de estudos que foram efectuados, recomenda-se a seguinte norma orientadora para a titulação:
+ Média da GP em Auto-monitorização &gt; 10.0 mmol/L (180 mg/dL) 9. 1-10.0 mmol/L (163-180 mg/dL) 8. 1-9.0 mmol/L (145-162 mg/dL) 7. 1-8.0 mmol/L (127-144 mg/dL) 6. 1-7.0 mmol/L (109-126 mg/dL)
+ Ajuste da dose de Levemir +8 +6 +4 +2 +2
+ Se uma medição de GP for 3. 1-4.0 mmol/L (56-72 mg/dL) &lt; 3.1 mmol/L (&lt; 56 mg/dL)
+ -2-4
+ Quando Levemir é usado como parte de um regime de insulina basal bólus, Levemir deverá ser administrado uma ou duas vezes ao dia, dependendo das necessidades do doente. A posologia de Levemir deve ser ajustada a nível individual.
+ 22 Para os doentes que precisam de duas doses ao dia para optimizar o controlo da glicémia, a segunda dose pode ser administrada à noite ou ao deitar.
+ Transferência de outras insulinas: A transferência para Levemir a partir de insulinas de acção intermédia ou lenta pode requerer o ajuste da dose e da hora de administração (ver secção 4.4).
+ Tal como acontece com todas as insulinas, recomenda-se uma monitorização cuidadosa da glucose durante a transferência e nas primeiras semanas de utilização.
+ O tratamento antidiabético concomitante pode requerer um ajuste (da dose e/ou da hora de administração dos antidiabéticos orais ou outras insulinas de acção rápida/curta).
+ Tal como acontece com todas as insulinas, nos doentes idosos e nos doentes com insuficiência renal ou hepática, deve intensificar-se a monitorização da glucose e ajustar a dose de insulina detemir com base nas necessidades individuais.
+ A eficácia e a segurança de Levemir foram demonstradas em crianças e adolescentes entre os 6 e os 17 anos em estudos realizados durante 6 meses (ver secção 5.1).
+ A eficácia e a segurança de Levemir não foram estudadas em crianças com idade inferior a 6 anos.
+ Pode também ser necessário um ajuste da dose se os doentes aumentam a actividade física, alteram a sua dieta habitual ou durante uma doença concomitante.
+ Administração: Via subcutânea. Levemir é administrada por via subcutânea através de injecção na coxa, na parede abdominal ou no braço. Tal como com as insulinas humanas, a velocidade e o grau de absorção da insulina detemir podem ser superiores quando esta é administrada por via s. c. no abdómen ou na região deltóide, relativamente à coxa. Os locais de injecção devem ser alternados na mesma região.
+ Levemir InnoLet é fornecido com um folheto informativo com instruções detalhadas para a sua utilização.
+ 4.3 Contra-indicações Hipersensibilidade à insulina detemir ou a qualquer um dos excipientes.
+ 4.4 Advertências e precauções especiais de utilização
+ Uma dose inadequada ou a suspensão do tratamento, especialmente na diabetes tipo 1, pode conduzir a hiperlicemia e cetoacidose diabética. Habitualmente, os primeiros sintomas de hiperlicemia surgem de forma gradual, ao longo de um período de horas ou dias. Podem incluir sede, aumento da frequência urinária, náuseas, vómitos, sonolência, pele seca e avermelhada, boca seca, perda de apetite, bem como hálito cetónico. Na diabetes tipo 1, os episódios hiperglicémicos não tratados podem conduzir eventualmente a uma cetoacidose diabética, que é potencialmente letal.
+ Pode ocorrer um episódio de hipoglicemia se a dose de insulina for demasiado elevada em relação às necessidades de insulina (ver secções 4.8 e 4.9).
+ A omissão de uma refeição ou a realização de exercício físico vigoroso não planeado podem conduzir a hipoglicemia.
+ 23 Quando o controlo da glicémia melhora consideravelmente, por exemplo através de uma terapêutica intensiva com insulina, poderá ocorrer uma alteração nos sintomas habituais de aviso de hipoglicemia, devendo os doentes ser prevenidos deste facto. Os sintomas de aviso habituais poderão desaparecer em doentes com diabetes de longa duração.
+ As doenças concomitantes, especialmente infecções e estados febris, normalmente aumentam as necessidades de insulina do doente.
+ A transferência de um doente para outro tipo ou marca de insulina deve ser efectuada sob rigorosa supervisão médica. As alterações na dosagem, marca (fabricante), tipo, origem (animal, humana, análogos de insulina humana) e/ou no método de fabrico (ADN recombinante versus insulina de origem animal) podem resultar numa necessidade de alteração da dose. Os doentes que estejam a ser tratados com Levemir poderão precisar de uma alteração da dose relativamente à que utilizavam com a insulina habitual. Se for necessário um ajuste, este pode ocorrer logo na primeira dose ou durante as primeiras semanas ou meses de tratamento.
+ Tal como acontece com qualquer terapêutica insulínica, podem ocorrer reacções no local de injecção, incluindo dor, prurido, erupção cutânea, tumefacção e inflamação. A alteração regular do local de injecção numa determinada área pode ajudar a reduzir ou a evitar estas reacções. As reacções desaparecem em alguns dias ou em algumas semanas. Em raras ocasiões, as reacções no local de injecção podem requerer a descontinuação de Levemir.
+ Levemir não deve ser administrada por via intravenosa, uma vez que poderia originar um episódio grave de hipoglicemia.
+ A administração intramuscular deve ser evitada.
+ Se Levemir for misturada com outras preparações de insulina, o perfil de acção de um ou ambos os componentes individuais sofre uma alteração. A mistura de Levemir com um análogo da insulina de acção rápida como a insulina aspart, resulta num perfil de acção com um efeito máximo mais lento e retardado quando comparado com injecções separadas. Assim, a mistura de insulina de acção rápida com Levemir deve ser evitada.
+ Existem poucos dados sobre doentes com hipoalbuminémia grave. Recomenda-se uma monitorização cuidadosa destes doentes.
+ Levemir não se destina a ser usada em bombas perfusoras de insulina.
+ Levemir contém metacresol, o qual pode provocar reacções alérgicas.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Sabe-se que existem alguns medicamentos que podem interagir com o metabolismo da glucose.
+ As seguintes substâncias podem reduzir as necessidades de insulina: Antidiabéticos orais, inibidores da monoaminoxidase (IMAO), bloqueadores beta não-selectivos, inibidores da enzima de conversão da angiotensina (IECA), salicilatos e álcool.
+ As seguintes substâncias podem aumentar as necessidades de insulina: Tiazidas, glucocorticóides, hormonas da tiróide e beta-simpaticomiméticos, hormona do crescimento e danazol.
+ Os bloqueadores beta podem ocultar os sintomas de hipoglicemia e retardar a recuperação de uma situação de hipoglicemia.
+ O octreótido/lanreótido tanto pode aumentar como reduzir as necessidades de insulina.
+ 24 O álcool pode intensificar e prolongar o efeito hipoglicémico da insulina.
+ 4.6 Gravidez e aleitamento Gravidez: Não existe experiência clínica com insulina detemir durante a gravidez.
+ Os estudos de reprodução em animais não revelaram quaisquer diferenças entre a insulina detemir e a insulina humana no que se refere à embriotoxicidade e à teratogenicidade. A prescrição a mulheres grávidas deverá ser feita cautelosamente.
+ Em geral, recomenda-se uma intensificação do controlo da glicémia e da monitorização das mulheres grávidas que sofrem de diabetes durante o período da gravidez e no período que antecede a gravidez. As necessidades de insulina geralmente diminuem durante o primeiro trimestre, aumentando no segundo e terceiro trimestres. Após o parto, é normal que as necessidades de insulina voltem rapidamente aos valores pré-gravidez.
+ Aleitamento: Não existe experiência clínica com insulina detemir durante o aleitamento. A prescrição a mulheres lactantes deverá ser feita cautelosamente. Poderão ser necessários ajustes da dose de insulina e da dieta em mulheres a amamentar.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ A hipoglicemia poderá condicionar a capacidade de concentração e de reacção do doente. Este facto pode constituir um factor de risco em situações nas quais estas capacidades sejam de especial importância (por exemplo, conduzir um automóvel ou utilizar máquinas).
+ Os doentes devem ser aconselhados a tomar precauções de modo a evitar a hipoglicemia durante a condução, o que é particularmente importante nos doentes que têm uma percepção reduzida ou inexistente dos sinais de aviso de hipoglicemia, ou que sofrem de hipoglicemias frequentes. Nestas circunstâncias, deverá reflectir-se se é aconselhável a condução.
+ 4.8 Efeitos indesejáveis As reacções adversas observadas em doentes a tomar Levemir são principalmente dependentes da dose e devem-se ao efeito farmacológico da insulina. A hipoglicemia é um efeito indesejável frequente. Poderá ocorrer se a dose de insulina for superior à dose que é necessária. A partir de investigações clínicas, sabe-se que a hipoglicemia grave, definida como necessidade de intervenção de terceiros, ocorre em aproximadamente 6% dos doentes tratados com Levemir. A hipoglicemia grave pode provocar estado de inconsciência e/ou convulsões, podendo resultar em perturbações da função cerebral temporárias ou permanentes, ou até mesmo morte.
+ Durante o tratamento com Levemir, observam-se reacções no local de injecção mais frequentemente do que com a insulina humana. Estas reacções incluem rubor, inflamação, equimose, tumefacção e prurido no local de injecção. A maioria das reacções no local da injecção são ligeiras e de natureza transitória, ou seja, normalmente desaparecem em alguns dias ou semanas com a continuação do tratamento.
+ Estima-se que a percentagem global de doentes tratados que sofrem reacções adversas é de 12%.
+ A frequência de reacções adversas ao medicamento nos ensaios clínicos, consideradas estarem relacionadas com Levemir, são descritas a seguir.
+ Doenças do metabolismo e da nutrição 25 Frequentes (&gt; 1/100, &lt; 1/10) Perturbações gerais e alterações no local de administração
+ Hipoglicemia: Normalmente, os sintomas de hipoglicemia ocorrem subitamente. Podem incluir suores frios, pele pálida e fria, fadiga, nervosismo ou tremores, ansiedade, sensação invulgar de cansaço ou fraqueza, confusão, dificuldade de concentração, sonolência, fome excessiva, alterações na visão, cefaleias, náuseas e palpitações. A hipoglicemia grave pode provocar estado de inconsciência e/ou convulsões, podendo resultar em perturbações da função cerebral temporárias ou permanentes, ou até mesmo morte.
+ Frequentes (&gt; 1/100, &lt; 1/10) Reacções no local de injecção: Reacções no local de injecção (rubor, tumefacção e prurido no local da injecção) podem ocorrer durante o tratamento com insulina. Estas reacções são habitualmente transitórias e normalmente desaparecem com a continuação do tratamento.
+ Pouco frequentes (&gt; 1/1.000, &lt; 1/100) Lipodistrofia: Pode ocorrer lipodistrofia no local de injecção em consequência de não se alternar o local de injecção dentro de uma área. Tumefacção: Pode ocorrer tumefacção no início da terapêutica com insulina. Estes sintomas são normalmente de natureza transitória.
+ Doenças do sistema imunitário Frequentes (&gt; 1/100, &lt; 1/10) Em três estudos clínicos com indivíduos tratados em associação com antidiabéticos orais, foi observada uma maior frequência (2,2%) de reacções alérgicas e reacções potencialmente alérgicas.
+ Pouco frequentes (&gt; 1/1,000, &lt; 1/100) Afecções oculares
+ Reacções alérgicas, reacções potencialmente alérgicas, urticária e erupções cutâneas: Estes sintomas podem ser devidos a hipersensibilidade generalizada. Outros sinais de hipersensibilidade generalizada podem incluir prurido, sudação, alterações gastrintestinais, tumefacção angioneurótico, dificuldade em respirar, palpitações e descida da tensão arterial. As reacções de hipersensibilidade generalizada acarretam um potencial risco de vida (reacções anafilácticas).
+ Pouco frequentes (&gt; 1/1,000, &lt; 1/100) Distúrbios da refracção: Podem ocorrer anomalias de refracção no início da terapêutica com insulina. Estes sintomas são normalmente de natureza transitória. Retinopatia diabética: O bom controlo glicémico prolongado diminui o risco de progressão da retinopatia diabética. No
+ 26 entanto, a intensificação da terapêutica com insulina e a melhoria súbita do controlo glicémico podem estar associadas a um agravamento temporário da retinopatia diabética. Doenças do sistema nervoso
+ Raros (&gt; 1/10000, &lt; 1/1000)
+ Neuropatia periférica: A melhoria rápida no controlo da glicémia pode estar relacionada com uma situação designada por" neuropatia dolorosa aguda", a qual é normalmente reversível.
+ 4.9 Sobredosagem Não é possível definir uma sobredosagem específica de insulina, contudo, pode desenvolver-se uma hipoglicemia em etapas sequenciais se forem administradas doses muito elevadas em relação às necessidades do doente:
+ • As hipoglicemias ligeiras podem ser tratadas pela administração oral de glucose ou produtos açucarados. Assim, recomenda-se que o doente diabético tenha sempre consigo produtos que contenham açúcar.
+ • As hipoglicemias graves, em que o doente perde a consciência, podem ser tratadas com glucagom (0,5 a 1 mg) administrado por via intramuscular ou subcutânea por uma pessoa com experiência, ou com glucose administrada por via intravenosa por um profissional de saúde. Também se deve administrar glucose por via intravenosa, se o doente não responder ao glucagom num espaço de tempo de 10 a 15 minutos. Depois do doente ter recuperado a consciência, recomenda-se a administração oral de hidratos de carbono como forma de prevenção de recaídas.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Medicamentos usados na diabetes. Insulinas e análogos injectáveis, de acção lenta. Código ATC: A10AE05. Insulina detemir é um análogo basal da insulina, solúvel, de acção lenta, com uma duração de efeito prolongada.
+ O perfil tempo-acção da insulina detemir é estatística e significativamente menos variável e, portanto, mais previsível do que o da insulina NPH e da insulina glargina, tal como é demonstrado nos Coeficientes de Variação (CV) intra-individuais para o efeito farmacodinâmico total e máximo, apresentados no Quadro 1.
+ Quadro 1. Variabilidade intra-individual do perfil tempo-acção da insulina detemir e, da insulina NPH
+ Insulina Insulina Endpoint farmacodinâmico detemir CV (%)
+ NPH CV (%) AUCGIR, 0-24h* GIRmax ** 27 23 68 46 * Área sob a curva ** Taxa de perfusão da glucose valor de p &lt; 0,001 para todas as comparações com insulina detemir
+ 27 A acção prolongada da insulina detemir é mediada pela forte auto-associação de moléculas de insulina detemir no local da injecção e pela ligação de albumina através da cadeia secundária de ácidos gordos. A insulina detemir distribui-se mais lentamente nos tecidos-alvo periféricos relativamente à insulina NPH. Estes mecanismos combinados de retardamento proporcionam um perfil de absorção e de acção mais reproduzível da insulina detemir relativamente à insulina NPH.
+ O efeito de diminuição da glucose sanguínea provocado pela insulina detemir deve-se à fácil assimilação da glucose após a ligação da insulina aos receptores das células adiposas e musculares e à inibição simultânea da libertação de glucose pelo fígado.
+ Pharmacodynamic Parameters for Levemir and NPH Glucose infusion rate (mg/kg/min)
+ Duration of action (hr) GIRmax (mg/kg/min) † estimated values
+ U/kg U/kg U/kg IU/kg Time Since Insulin Injection (hours)
+ Levemir … .. 0.2 U/kg 0.3 U/kg.... 0.4 U/kg Figura 1: Perfis de actividade de Levemir em doentes com diabetes tipo1.
+ A duração da acção é de 24 horas no máximo, dependendo da dose, permitindo a opção entre a administração uma vez ou duas vezes ao dia. Se for administrada duas vezes ao dia, o estado estacionário irá ocorrer após a administração de 2-3 doses. Para doses no intervalo de 0, 2-0,4 U/kg, Levemir exerce mais de 50% do seu efeito máximo entre as 3-4 horas após a administração da dose, e o tempo total de duração do efeito é de, aproximadamente,14 horas.
+ Observou-se uma proporcionalidade da dose na resposta farmacodinâmica (efeito máximo, duração da acção, efeito total) após administração subcutânea.
+ Em ensaios clínicos a longo prazo foi demonstrada uma variabilidade cada vez menor da GPJ durante o tratamento com Levemir, em comparação com NPH.
+ Os estudos realizados em doentes com diabetes tipo 2, tratados com insulina basal em associação com antidiabéticos orais, demonstraram que o controlo glicémico (HbA1c) com Levemir é comparável ao obtido com NPH e insulina glargina, sendo ainda associado a um menor aumento de peso, ver Quadro 2 abaixo. No estudo versus insulina glargina, em que foram autorizadas uma ou duas administrações diárias de insulina detemir, face a uma única administração diária de insulina glargina,55% dos indivíduos tratados com insulina detemir completaram as 52 semanas de tratamento no regime de duas administrações diárias.
+ Quadro 2. Alteração do peso após o tratamento com insulina Duração do estudo
+ Insulina detemir uma administra-ção diária
+ Insulina detemir duas administra-ções diárias
+ Insulina NPH Insulina glargina 20 semanas 26 semanas +0,7 kg
+ +1,2 kg
+ +1,6 kg +2,8 kg
+ 52 semanas +2,3 kg
+ +3,7 kg
+ +4,0 kg
+ 28 Em ensaios realizados com uma terapêutica combinada de antidiabéticos orais-insulina, o tratamento com Levemir apresentou um baixo risco de hipoglicemia nocturna menor, quando comparado com a NPH.
+ Em ensaios realizados no decurso de tratamentos de longa duração em doentes com diabetes tipo 1, o nível de glucose plasmática em jejum registou uma melhoria com Levemir relativamente à insulina NPH, quando submetidos a uma terapêutica basal/bólus, inclusivamente nas crianças e adolescentes entre os 6 e os 17 anos. O controlo glicémico (HbA1c) com Levemir é comparável ao da insulina NPH, com um risco menor de hipoglicemia nocturna e sem aumento de peso associado.
+ Em estudos clínicos com terapêutica de insulina em basal bólus, as taxas globais de hipoglicemia com insulina NPH e Levemir foram semelhantes. As análises de hipoglicemia nocturna em doentes com diabetes tipo 1 demonstraram um risco significativamente inferior de hipoglicemia nocturna menor (com capacidade de recuperação autónoma e confirmada por valores de glucose plasmática inferiores a 2,8 mmol/l ou 3,1 mmol/l se for expresso como glucose plasmática) em relação à insulina NPH, mas não foram observadas diferenças na diabetes tipo 2. Além disso, o risco global de hipoglicemia nocturna em crianças e adolescentes entre os 6 e os 17 anos, com diabetes tipo 1, foi significativamente mais baixo com Levemir em comparação com a insulina NPH.
+ Observou-se o desenvolvimento de anticorpos com a utilização de Levemir. No entanto, este facto parece não ter qualquer impacto no controlo glicémico.
+ 5.2 Propriedades farmacocinéticas Absorção: A concentração sérica máxima é atingida entre 6 a 8 horas após a administração.
+ Quando é administrada duas vezes ao dia, as concentrações séricas no estado estacionário atingem-se após a administração de 2-3 doses.
+ A variação intra-individual na absorção é inferior com Levemir do que com outras preparações de insulina basal.
+ Não se registou qualquer diferença clinicamente relevante entre sexos nas propriedades farmacocinéticas da insulina detemir.
+ A biodisponibilidade absoluta da insulina detemir quando administrada por via subcutânea é de aproximadamente 60%.
+ Distribuição: Um volume de distribuição aparente de insulina detemir (aproximadamente 0,1 L/kg) indica que uma fracção elevada de insulina detemir está a circular na corrente sanguínea.
+ Metabolismo: A degradação de insulina detemir é semelhante à da insulina humana; todos os metabolitos formados são inactivos.
+ Os resultados dos ensaios de ligação às proteínas in vitro e in vivo demonstram que não existe uma interacção clinicamente relevante entre a insulina detemir e os ácidos gordos ou outros medicamentos com ligação às proteínas.
+ Eliminação: A semi-vida terminal após a administração subcutânea é determinada pela velocidade de absorção a partir do tecido subcutâneo. A semi-vida terminal situa-se entre 5 e 7 horas dependendo da dose.
+ Linearidade: 29 Observou-se uma proporcionalidade da dose em concentrações séricas (concentração máxima, grau de absorção) após administração subcutânea dentro dos limites da dose terapêutica.
+ Populações especiais: As propriedades farmacocinéticas da insulina detemir foram investigadas em crianças (6– 12 anos) e adolescentes (13– 17 anos) e comparadas com as observadas em adultos com diabetes tipo 1. Não se registou qualquer diferença de relevância clínica nas propriedades farmacocinéticas.
+ Não se constatou diferença clinicamente relevante na farmacocinética da insulina detemir entre indivíduos idosos e indivíduos jovens ou entre indivíduos com insuficiência renal ou hepática e indivíduos saudáveis. Não são esperadas diferenças clinicamente relevantes na farmacocinética da insulina detemir entre indivíduos saudáveis e indivíduos com insuficiência renal ou hepática, com base nos estudos realizados. Uma vez que a farmacocinética da insulina detemir não foi estudada extensivamente nestes populações, recomenda-se a monitorização cuidadosa da glucose plasmática nestas populações.
+ 5.3 Dados de segurança pré-clínica Os dados não clínicos não revelam riscos especiais para o ser humano, segundo estudos convencionais de farmacologia de segurança, toxicidade de dose repetida, genotoxicidade e toxicidade reprodutiva. Os dados sobre a afinidade aos receptores e os ensaios de mitogenicidade in vitro não revelaram evidência de um maior potencial mitogénico em comparação com a insulina humana.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Glicerol Fenol Metacresol Acetato de zinco Fosfato dissódico di-hidratado Cloreto de sódio Ácido clorídrico 2N (ajuste do pH) Hidróxido de sódio 2N (ajuste do pH) Água para preparações injectáveis
+ 6.2 Incompatibilidades As substâncias adicionadas a Levemir podem causar degradação da insulina detemir, por exemplo, se contiverem tióis ou sulfitos. Levemir não deve ser adicionada a líquidos para perfusão.
+ 6.3 Prazo de validade 30 meses. Após a primeira abertura, o produto pode ser conservado durante um máximo de 6 semanas, a temperatura inferior a 30ºC.
+ 6.4 Precauções especiais de conservação
+ Conservar no frigorífico (2°C-8°C) afastado do congelador. Não congelar.
+ Manter a tampa da caneta colocada quando Levemir Innolet não estiver a ser utilizado, de modo a proteger da luz.
+ 30 Durante a utilização: Não refrigerar. Não guardar a temperaturas superiores a 30ºC.
+ Levemir deve ser protegida do calor excessivo e da luz solar.
+ 6.5 Natureza e conteúdo do recipiente 3 ml de solução num cartucho (vidro tipo 1) com um êmbolo (bromobutil) e uma tampa (bromobutil/poli-isopreno) contida numa caneta pré-cheia (caneta descartável multi-dose) (polipropileno). Tamanhos de embalagem: 1,5 e 10 canetas pré-cheias.
+ É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ Levemir destina-se a utilização por uma única pessoa. O cartucho não deve ser enchido novamente.
+ Levemir não deve ser utilizada se não tiver um aspecto límpido e incolor.
+ Se Levemir tiver sido congelada não pode ser utilizada. O doente deverá ser aconselhado a deitar fora a agulha após cada injecção.
+ Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Novo Nordisk A/S Novo Allé DK-2880 Bagsværd Dinamarca
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/04/278/007 EU/1/04/278/008 EU/1/04/278/009
+ 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 1 de Junho de 2004 10. DATA DA REVISÃO DO TEXTO 31 ANEXO II
+ A. FABRICANTES DA SUBSTÂNCIA ACTIVA DE ORIGEM BIOLÓGICA E TITULARES DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEIS PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 32 A FABRICANTES DA SUBSTÂNCIA ACTIVA DE ORIGEM BIOLÓGICA E TITULARES DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEIS PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço dos fabricantes da substância activa de origem biológica
+ Novo Nordisk A/S Novo Allé DK-2880 Bagsværd Dinamarca
+ Novo Nordisk A/S Hallas Allé DK-4400 Kalundborg Dinamarca
+ Nome e endereço dos fabricantes responsáveis pela libertação do lote
+ Levemir InnoLet Novo Nordisk A/S Novo Allé DK-2880 Bagsværd Dinamarca
+ Levemir Penfill e FlexPen Novo Nordisk A/S Novo Allé DK-2880 Bagsværd Dinamarca
+ Novo Nordisk Production SAS 45, Avenue d’ Orléans F-28002 Chartres França
+ O folheto informativo que acompanha o medicamento deve mencionar o nome e endereço do fabricante responsável pela libertação do lote em causa.
+ B CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento sujeito a receita médica • CONDIÇÕES OU RESTRIÇÕES EM RELAÇÃO À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ Não aplicável. • OUTRAS CONDIÇÕES
+ Não aplicável. 33 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 34 A. ROTULAGEM
+ 35 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO E NO ACONDICIONAMENTO PRIMÁRIO
+ EMBALAGEM EXTERIOR 1. NOME DO MEDICAMENTO Levemir 100 U/ml, solução injectável num cartucho Insulina detemir
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ 1 ml contém 100 U (14,2 mg) de insulina detemir, ADNr,
+ 3. LISTA DOS EXCIPIENTES glicerol, fenol, metacresol, acetato de zinco, fosfato dissódico di-hidratado, cloreto de sódio, ácido clorídrico, hidróxido de sódio e água para preparações injectáveis
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Solução injectável num cartucho. Penfill.
+ 1 x 3 ml 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via subcutânea Cartuchos Levemir Penfill para serem utilizados com os dispositivos de administração de insulina da Novo Nordisk Levemir Penfill destina-se a utilização por uma única pessoa Consultar o folheto informativo antes de utilizar
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. Durante a utilização: utilizar no prazo de 6 semanas
+ 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO 36 Conservar no frigorífico (2°C-8°C) Não congelar Manter o cartucho dentro da embalagem exterior Durante a utilização: não refrigerar nem guardar a temperaturas superiores a 30°C
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Novo Nordisk A/S Novo Allé DK-2880 Bagsværd Dinamarca
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/04/278/001 13. NÚMERO DO LOTE Lote: 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Levemir Penfill 37 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO E NO ACONDICIONAMENTO PRIMÁRIO
+ EMBALAGEM EXTERIOR 1. NOME DO MEDICAMENTO Levemir 100 U/ml, solução injectável num cartucho Insulina detemir
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ 1 ml contém 100 U (14,2 mg) de insulina detemir, ADNr,
+ 3. LISTA DOS EXCIPIENTES glicerol, fenol, metacresol, acetato de zinco, fosfato dissódico di-hidratado, cloreto de sódio, ácido clorídrico, hidróxido de sódio e água para preparações injectáveis
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Solução injectável num cartucho. Penfill 5 x 3 ml 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via subcutânea Cartuchos Levemir Penfill para serem utilizados com os dispositivos de administração de insulina da Novo Nordisk Levemir Penfill destina-se a utilização por uma única pessoa Consultar o folheto informativo antes de utilizar
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. Durante a utilização: utilizar no prazo de 6 semanas
+ 38 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico (2°C-8°C) Não congelar Manter o cartucho dentro da embalagem exterior Durante a utilização: não refrigerar nem guardar a temperaturas superiores a 30°C
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Novo Nordisk A/S Novo Allé DK-2880 Bagsværd Dinamarca
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/04/278/002 13. NÚMERO DO LOTE Lote: 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Levemir Penfill 39 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO E NO ACONDICIONAMENTO PRIMÁRIO
+ EMBALAGEM EXTERIOR 1. NOME DO MEDICAMENTO Levemir 100 U/ml, solução injectável num cartucho Insulina detemir
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ 1 ml contém 100 U (14,2 mg) de insulina detemir, ADNr,
+ 3. LISTA DOS EXCIPIENTES glicerol, fenol, metacresol, acetato de zinco, fosfato dissódico di-hidratado, cloreto de sódio, ácido clorídrico, hidróxido de sódio e água para preparações injectáveis
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Solução injectável num cartucho. Penfill 10 x 3 ml 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via subcutânea Cartuchos Levemir Penfill para serem utilizados com os dispositivos de administração de insulina da Novo Nordisk Levemir Penfill destina-se a utilização por uma única pessoa Consultar o folheto informativo antes de utilizar
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. Durante a utilização: utilizar no prazo de 6 semanas
+ 40 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico (2°C-8°C) Não congelar Manter o cartucho dentro da embalagem exterior Durante a utilização: não refrigerar nem guardar a temperaturas superiores a 30°C
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Novo Nordisk A/S Novo Allé DK-2880 Bagsværd Dinamarca
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/04/278/003 13. NÚMERO DO LOTE Lote: 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Levemir Penfill 41 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ RÓTULO 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Levemir 100 U/ml, solução injectável num cartucho Insulina detemir Via SC
+ 2. MODO DE ADMINISTRAÇÃO Penfill 3. PRAZO DE VALIDADE VAL. 4. NÚMERO DO LOTE Lote: 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 3 ml 6. OUTRAS 42 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO E NO ACONDICIONAMENTO PRIMÁRIO
+ EMBALAGEM EXTERIOR 1. NOME DO MEDICAMENTO Levemir 100 U/ml, solução injectável numa caneta pré-cheia Insulina detemir
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ 1 ml contém 100 U (14,2 mg) de insulina detemir, ADNr,
+ 3. LISTA DOS EXCIPIENTES glicerol, fenol, metacresol, acetato de zinco, fosfato dissódico di-hidratado, cloreto de sódio, ácido clorídrico, hidróxido de sódio e água para preparações injectáveis
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Solução injectável numa caneta pré-cheia. FlexPen
+ 1 x 3 ml 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via subcutânea Concebida para ser usada com as agulhas descartáveis NovoFine ou NovoTwist até 8 mm de comprimento As agulhas não estão incluídas Levemir FlexPen destina-se a utilização por uma única pessoa Consultar o folheto informativo antes de utilizar
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. Durante a utilização: utilizar no prazo de 6 semanas
+ 43 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico (2°C-8°C) Não congelar Manter a tampa da caneta colocada para proteger da luz Durante a utilização: não refrigerar nem guardar a temperaturas superiores a 30°C
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Novo Nordisk A/S Novo Allé DK-2880 Bagsværd Dinamarca
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/04/278/004 13. NÚMERO DO LOTE Lote: 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Levemir FlexPen 44 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO E NO ACONDICIONAMENTO PRIMÁRIO
+ EMBALAGEM EXTERIOR 1. NOME DO MEDICAMENTO Levemir 100 U/ml, solução injectável numa caneta pré-cheia Insulina detemir
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ 1 ml contém 100 U (14,2 mg) de insulina detemir, ADNr,
+ 3. LISTA DOS EXCIPIENTES glicerol, fenol, metacresol, acetato de zinco, fosfato dissódico di-hidratado, cloreto de sódio, ácido clorídrico, hidróxido de sódio e água para preparações injectáveis
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Solução injectável numa caneta pré-cheia. FlexPen
+ 5 x 3 ml 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via subcutânea Concebida para ser usada com as agulhas descartáveis NovoFine ou NovoTwist até 8 mm de comprimento As agulhas não estão incluídas Levemir FlexPen destina-se a utilização por uma única pessoa Consultar o folheto informativo antes de utilizar
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. Durante a utilização: utilizar no prazo de 6 semanas
+ 45 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico (2°C-8°C) Não congelar Manter a tampa da caneta colocada para proteger da luz Durante a utilização: não refrigerar nem guardar a temperaturas superiores a 30°C
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Novo Nordisk A/S Novo Allé DK-2880 Bagsværd Dinamarca
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/04/278/005 13. NÚMERO DO LOTE Lote: 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Levemir FlexPen 46 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO E NO ACONDICIONAMENTO PRIMÁRIO
+ EMBALAGEM EXTERIOR 1. NOME DO MEDICAMENTO Levemir 100 U/ml, solução injectável numa caneta pré-cheia Insulina detemir
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ 1 ml contém 100 U (14,2 mg) de insulina detemir, ADNr,
+ 3. LISTA DOS EXCIPIENTES glicerol, fenol, metacresol, acetato de zinco, fosfato dissódico di-hidratado, cloreto de sódio, ácido clorídrico, hidróxido de sódio e água para preparações injectáveis
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Solução injectável numa caneta pré-cheia. FlexPen
+ 10 x 3 ml 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via subcutânea Concebida para ser usada com as agulhas descartáveis NovoFine ou NovoTwist até 8 mm de comprimento As agulhas não estão incluídas Levemir FlexPen destina-se a utilização por uma única pessoa Consultar o folheto informativo antes de utilizar
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. Durante a utilização: utilizar no prazo de 6 semanas
+ 47 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico (2°C-8°C) Não congelar Manter a tampa da caneta colocada para proteger da luz Durante a utilização: não refrigerar nem guardar a temperaturas superiores a 30°C
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Novo Nordisk A/S Novo Allé DK-2880 Bagsværd Dinamarca
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/04/278/006 13. NÚMERO DO LOTE Lote: 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Levemir FlexPen 48 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ RÓTULO 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Levemir 100 U/ml, solução injectável numa caneta pré-cheia Insulina detemir Via SC
+ 2. MODO DE ADMINISTRAÇÃO FlexPen 3. PRAZO DE VALIDADE VAL. 4. NÚMERO DO LOTE Lote: 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 3 ml 6. OUTRAS 49 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO E NO ACONDICIONAMENTO PRIMÁRIO
+ EMBALAGEM EXTERIOR 1. NOME DO MEDICAMENTO Levemir 100 U/ml, solução injectável numa caneta pré-cheia Insulina detemir
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ 1 ml contém 100 U (14,2 mg) de insulina detemir, ADNr,
+ 3. LISTA DOS EXCIPIENTES glicerol, fenol, metacresol, acetato de zinco, fosfato dissódico di-hidratado, cloreto de sódio, ácido clorídrico, hidróxido de sódio e água para preparações injectáveis
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Solução injectável numa caneta pré-cheia. InnoLet
+ 1 x 3 ml 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via subcutânea Levemir InnoLet foi concebida para ser utilizada com as agulhas NovoFine S As agulhas NovoFine não estão incluídas Levemir InnoLet destina-se a utilização por uma única pessoa Consultar o folheto informativo antes de utilizar
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. Durante a utilização: utilizar no prazo de 6 semanas
+ 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO 50 Conservar no frigorífico (2°C-8°C) Não congelar Manter a tampa da caneta colocada para proteger da luz Durante a utilização: não refrigerar nem guardar a temperaturas superiores a 30°C
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Novo Nordisk A/S Novo Allé DK-2880 Bagsværd Dinamarca
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/04/278/007 13. NÚMERO DO LOTE Lote: 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Levemir InnoLet 51 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO E NO ACONDICIONAMENTO PRIMÁRIO
+ EMBALAGEM EXTERIOR 1. NOME DO MEDICAMENTO Levemir 100 U/ml, solução injectável numa caneta pré-cheia Insulina detemir
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ 1 ml contém 100 U (14,2 mg) de insulina detemir, ADNr,
+ 3. LISTA DOS EXCIPIENTES glicerol, fenol, metacresol, acetato de zinco, fosfato dissódico di-hidratado, cloreto de sódio, ácido clorídrico, hidróxido de sódio e água para preparações injectáveis
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Solução injectável numa caneta pré-cheia. InnoLet
+ 5 x 3 ml 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via subcutânea Levemir InnoLet foi concebida para ser utilizada com as agulhas NovoFine S As agulhas NovoFine não estão incluídas Levemir InnoLet destina-se a utilização por uma única pessoa Consultar o folheto informativo antes de utilizar
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. Durante a utilização: utilizar no prazo de 6 semanas
+ 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO 52 Conservar no frigorífico (2°C-8°C) Não congelar Manter a tampa da caneta colocada para proteger da luz Durante a utilização: não refrigerar nem guardar a temperaturas superiores a 30°C
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Novo Nordisk A/S Novo Allé DK-2880 Bagsværd Dinamarca
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/04/278/008 13. NÚMERO DO LOTE Lote: 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Levemir InnoLet 53 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO E NO ACONDICIONAMENTO PRIMÁRIO
+ EMBALAGEM EXTERIOR 1. NOME DO MEDICAMENTO Levemir 100 U/ml, solução injectável numa caneta pré-cheia Insulina detemir
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ 1 ml contém 100 U (14,2 mg) de insulina detemir, ADNr,
+ 3. LISTA DOS EXCIPIENTES glicerol, fenol, metacresol, acetato de zinco, fosfato dissódico di-hidratado, cloreto de sódio, ácido clorídrico, hidróxido de sódio e água para preparações injectáveis
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Solução injectável numa caneta pré-cheia. InnoLet
+ 10 x 3 ml 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via subcutânea Levemir InnoLet foi concebida para ser utilizada com as agulhas NovoFine S As agulhas NovoFine não estão incluídas Levemir InnoLet destina-se a utilização por uma única pessoa Consultar o folheto informativo antes de utilizar
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. Durante a utilização: utilizar no prazo de 6 semanas
+ 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO 54 Conservar no frigorífico (2°C-8°C) Não congelar Manter a tampa da caneta colocada para proteger da luz Durante a utilização: não refrigerar nem guardar a temperaturas superiores a 30°C
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Novo Nordisk A/S Novo Allé DK-2880 Bagsværd Dinamarca
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/04/278/009 13. NÚMERO DO LOTE Lote: 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Levemir InnoLet 55 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ RÓTULO 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Levemir 100 U/ml, solução injectável numa caneta pré-cheia Insulina detemir Via SC
+ 2. MODO DE ADMINISTRAÇÃO InnoLet 3. PRAZO DE VALIDADE VAL/ 4. NÚMERO DO LOTE Lote: 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 3 ml 6. OUTRAS 56 B. FOLHETO INFORMATIVO
+ 57 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Levemir 100 U/ml solução injectável num cartucho Insulina detemir Penfill
+ Leia atentamente este folheto antes de utilizar este medicamento. – Conserve este folheto. Pode ter necessidade de o reler. – Caso ainda tenha dúvidas, fale com o seu médico, enfermeiro de cuidados diabéticos ou farmacêutico. – Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes prejudicial mesmo que apresentem os mesmos sintomas. – Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico, enfermeiro de cuidados diabéticos ou farmacêutico.
+ 1. O QUE É LEVEMIR E PARA QUE É UTILIZADO
+ Levemir é um análogo de insulina humana para o tratamento da diabetes. É fornecido num cartucho de 3 ml, denominado Penfill, que se insere num sistema de administração de insulina. Levemir é um análogo de insulina humana de acção lenta que faz baixar o nível de glucose no sangue. O efeito tem uma duração máxima de 24 horas, consoante a dose. Pode ser usado em associação com antidiabéticos orais ou com insulinas de acção curta ou rápida administradas em consonância com as refeições.
+ 2. ANTES DE UTILIZAR LEVEMIR Não utilize Levemir ► Se tem alergia (hipersensibilidade) à insulina detemir, a metacresol ou a qualquer outro componente (ver 7 Outras informações). Atenção aos sinais de alergia em 5 Efeitos secundários possíveis. ► Se sentir que está a entrar em hipoglicemia (sintomas de uma baixa de açúcar no sangue). Para mais informações sobre hipoglicemia, ver 4 O que fazer numa situação de emergência
+ Tome especial cuidado com Levemir ► Se tiver problemas de rins ou de fígado, ou nas glândulas supra-renais, pituitária ou tiroideia ► Se beber bebidas alcoólicas: atenção aos sinais de hipoglicemia ► Se está a fazer mais exercício do que é habitual ou se pretende alterar o seu tipo de alimentação ► Se estiver doente: continue a tomar a insulina ► Se vai fazer uma viagem ao estrangeiro: as alterações nos fusos horários podem afectar as horas a que tem que tomar a insulina
+ Gravidez e aleitamento ► Se estiver grávida, a planear uma gravidez ou a amamentar consulte o seu médico
+ Condução de veículos e utilização de máquinas ► Se conduzir um veículo ou utilizar ferramentas ou máquinas: atenção aos sinais de hipoglicemia. A sua capacidade de concentração ou de reacção estará reduzida durante um episódio de hipoglicemia. Nunca deve conduzir ou utilizar máquinas se sentir que está a entrar em hipoglicemia. Se tiver muita tendência para hipoglicemia ou se tiver dificuldade em reconhecer que está a entrar em hipoglicemia, fale com o seu médico a fim de decidir se pode conduzir ou utilizar máquinas.
+ 58 Não existe experiência clínica com Levemir em crianças com idade inferior a 6 anos.
+ Utilizar com outros medicamentos Muitos medicamentos afectam o modo como a glucose actua no seu organismo, o que pode influenciar a sua dose de insulina. Abaixo encontra-se uma lista dos medicamentos mais importantes que podem afectar o seu tratamento com insulina. Fale com o seu médico ou farmacêutico se estiver a tomar ou se mudar para outros medicamentos, mesmo quando não sujeitos a receita médica. As suas necessidades de insulina podem alterar-se se estiver a tomar simultaneamente: antidiabéticos orais; inibidores da monoaminoxidase (IMAO); beta-bloqueadores; inibidores da enzima de conversão da angiotensina (IECA); ácido acetilsalicílico; tiazidas; glucocorticóides; terapêutica hormonal da tiróide; beta-simpaticomiméticos; hormona de crescimento; danazol; octreótido e lanreótido.
+ 3. COMO UTILIZAR LEVEMIR Fale com o seu médico ou enfermeira de cuidados diabéticos sobre as suas necessidades de insulina. Siga atentamente os seus conselhos. Este folheto contém orientações de carácter geral. Se o seu médico o tiver mudado de um tipo ou marca de insulina para outro, a sua dose poderá ter de ser ajustada pelo médico.
+ Antes de utilizar Levemir ► Verifique o rótulo para se certificar de que é o tipo correcto de insulina ► Verifique sempre o cartucho, incluindo o êmbolo de borracha (tampa). Não utilize se houver algum dano visível ou se houver um intervalo entre o êmbolo de borracha e a faixa branca do código de cor. Devolva-o ao seu fornecedor. Para mais informações consulte o manual do seu sistema de administração. ► Desinfecte a membrana de borracha com uma compressa ► Utilize sempre uma agulha nova em cada injecção para evitar uma contaminação.
+ Levemir não deve ser utilizado ► Em bombas perfusoras de insulina ► Se deixar cair, partir ou danificar o cartucho ou o dispositivo que o contém, há o risco de verter insulina ► Se tiver sido armazenada incorrectamente ou se tiver sido congelada (ver 6Como conservar Levemir) ► Se a insulina não parecer límpida e incolor como água.
+ Não encha o cartucho novamente. Os cartuchos Levemir Penfill foram concebidos para serem utilizados com os sistemas de administração de insulina da Novo Nordisk e com as agulhas NovoFine. Se estiver a ser tratado com Levemir Penfill e outro cartucho de insulina Penfill, deve utilizar dois sistemas de administração de insulina, um para cada tipo de insulina.
+ Levemir destina-se a injecção sob a pele (por via subcutânea). Nunca injecte a sua insulina directamente numa veia ou num músculo. Varie sempre o local de injecção na mesma área, a fim de evitar a formação de nódulos (ver 5 Efeitos secundários possíveis). Os melhores pontos para se auto-injectar são: a parte da frente das coxas, a barriga ao nível da cintura (abdómen) ou o braço. Deve medir regularmente o seu nível de açúcar no sangue.
+ Como administrar esta insulina 59 • Injecte a insulina sob a pele. Utilize a técnica de injecção aconselhada pelo seu médico ou enfermeira de cuidados diabéticos e descrita no manual do seu sistema de administração • Mantenha a agulha sob a pele durante pelo menos 6 segundos para se assegurar de que foi administrada a dose completa • Depois de cada injecção não se esqueça de retirar e deitar fora a agulha, bem como de guardar Levemir sem a agulha acoplada. Caso contrário, o líquido pode sair, podendo originar uma administração inadequada.
+ 4. O QUE FAZER NUMA SITUAÇÃO DE EMERGÊNCIA
+ Se entrar em hipoglicemia Entra em hipoglicemia se o seu açúcar no sangue atingir um nível demasiado baixo. Isto pode acontecer: • Se tomar demasiada insulina • Se comer menos do que devia ou se falhar uma refeição • Se fizer mais exercício do que o normal.
+ Os sinais de aviso de uma hipoglicemia podem surgir rapidamente e podem incluir: suores frios; pele pálida e fria; dor de cabeça; batimento cardíaco rápido; enjoo; sensação de fome excessiva; alterações temporárias na visão; sonolência; sensação invulgar de cansaço e fraqueza; nervosismo ou tremores; sensação de ansiedade; sensação de desorientação; dificuldade de concentração. Se sentir que vai entrar em hipoglicemia: coma um alimento muito açucarado e depois meça o seu nível de açúcar no sangue. Traga sempre consigo açúcar, alguns rebuçados, doces, bolachas ou sumo de fruta, para estar prevenido. Se o seu nível de açúcar no sangue for demasiado baixo: coma alguns rebuçados ou alimentos muito açucarados (doces, bolachas, sumo de fruta) e depois descanse. Depois dos sintomas de hipoglicemia terem desaparecido ou após estabilização dos níveis de açúcar no sangue, continue o tratamento com insulina. Informe as pessoas de que tem diabetes e sobre quais poderão ser as consequências, incluindo o risco de poder desmaiar devido a uma hipoglicemia. Informe as pessoas de que, se desmaiar (ficar inconsciente), devem virá-lo de lado e pedir ajuda médica imediatamente. Não lhe devem dar nada para comer ou beber. Podem sufocá-lo. ► Se a hipoglicemia grave prolongada não for tratada, poderá causar uma lesão cerebral (temporária ou permanente) e até mesmo a morte ► Se entrar em hipoglicemia e desmaiar, ou se entrar frequentemente em hipoglicemia, fale com o seu médico. Pode ser necessário ajustar a dose de insulina ou a sua hora de administração, a quantidade de alimentos ou de exercício.
+ Utilizar glucagom Pode recuperar mais rapidamente do estado de inconsciência se lhe for administrada uma injecção da hormona glucagom por uma pessoa que saiba como usar o produto. Se lhe for injectado glucagom também lhe devem dar açúcar ou um alimento açucarado logo que recupere a consciência. Se não responder ao tratamento com glucagom, terá de receber tratamento hospitalar. Contacte o seu médico ou um serviço de urgências após uma injecção de glucagom: é necessário detectar a razão do episódio de hipoglicemia para evitar que se repita.
+ Se o seu nível de açúcar no sangue ficar demasiado elevado
+ O seu nível de açúcar no sangue pode ficar demasiado alto (a isto se chama hiperlicemia). Os sinais de aviso surgem gradualmente. Incluem: aumento da frequência urinária; sensação de sede; perda de apetite; enjoo (náuseas ou vómitos); sensação de sonolência ou cansaço; pele seca e corada, boca seca e um hálito a fruta (cetónico).
+ 60 Se tiver um destes sinais: teste o seu nível de açúcar no sangue, controle a presença de corpos cetónicos na urina, se puder, e depois procure auxílio médico imediato. Podem ser sinais de um problema muito grave chamado cetoacidose diabética. Caso não seja tratado pode resultar em coma diabético e morte.
+ Causas da hiperlicemia • Ter-se esquecido de tomar a insulina • Tomar repetidamente menos insulina do que aquela de que necessita • Uma infecção ou febre • Comer mais do que o habitual • Fazer menos exercício do que o habitual.
+ 5. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todos os medicamentos, Levemir pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas. Tomar quantidade a mais de Levemir pode diminuir o açúcar no sangue (hipoglicemia). Ver o conselho em 4 O que fazer numa situação de emergência.
+ Efeitos secundários frequentes (menos de 1 em 10)
+ Alterações no local da injecção. Podem ocorrer reacções (rubor, tumefacção, inflamação, prurido e equimose) no local de injecção. Estas reacções normalmente desaparecem após algumas semanas a tomar insulina. Se não desaparecerem, consulte o seu médico. Se tiver reacções graves ou contínuas, poderá ter necessidade de parar o tratamento com Levemir e utilizar outra insulina.
+ Em três estudos clínicos em associação com antidiabéticos orais,2 em 100 indivíduos notificaram sinais de alergia (ver sinais de alergia abaixo).
+ Efeitos secundários pouco frequentes (menos de 1 em 100)
+ Sinais de alergia. Podem ocorrer erupções na pele e urticária. Procure auxílio médico imediatamente: ► Se os sinais de alergia anteriores surgirem, ou ► Se subitamente não se sentir bem e se: começar a transpirar; começar a vomitar; sentir dificuldade em respirar; tiver um batimento cardíaco rápido; sentir tonturas.
+ Pode ter uma reacção alérgica grave e muito rara a Levemir ou a um dos seus constituintes (designada por reacção alérgica generalizada). Ver também o aviso em 2 Antes de utilizar Levemir.
+ Problemas de visão. Quando iniciar o seu tratamento com insulina, pode sofrer distúrbios da visão, mas estes distúrbios são normalmente temporários.
+ Alterações no local da injecção (Lipodistrofia). Se se injectar frequentemente no mesmo local, o tecido adiposo sob a pele pode atrofiar (lipoatrofia) ou aumentar de espessura (lipohipertrofia). A alteração do local de cada injecção pode ajudar a evitar estas afecções cutâneas. Se notar que a sua pele está a ficar deformada ou a ficar mais espessa no local de injecção, informe o seu médico ou enfermeira de cuidados diabéticos, uma vez que estas reacções podem agravar-se ou alterar a absorção da insulina nesse local.
+ Articulações inchadas. Quando começar a tomar insulina, a retenção de líquidos pode provocar inchaço nos tornozelos e noutras articulações. Esta situação desaparece rapidamente. 61 Efeitos secundários raros
+ (menos de 1 em 1.000)
+ Distúrbios da sensibilidade Uma melhoria rápida do controlo da glicémia pode perturbar a sensibilidade (dormência, fraqueza ou dor) nos membros. Estes sintomas normalmente desaparecem.
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico, enfermeira de cuidados diabéticos ou farmacêutico.
+ 6. COMO CONSERVAR LEVEMIR Manter fora do alcance e da vista das crianças. Não utilize Levemir após o prazo de validade impresso no rótulo e na embalagem exterior. O prazo de validade corresponde ao último dia do mês indicado. Levemir Penfill que não estiver a ser usada deve ser guardada no frigorífico entre 2°C e 8°C, longe do congelador. Não congelar. Levemir Penfill que estiver a ser usada ou transportada como reserva não deve ser guardada no frigorífico. Pode transportá-la consigo e mantê-la à temperatura ambiente (inferior a 30ºC) durante 6 semanas. Manter o cartucho dentro da embalagem exterior quando não o estiver a usar para o proteger da luz. Levemir deve ser protegida do calor excessivo e da luz solar.
+ Levemir não deve ser eliminado na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 7. OUTRAS INFORMAÇÕES Qual a composição de Levemir • A substância activa é a insulina detemir produzida por tecnologia ADN recombinante. • Os outros componentes são glicerol, fenol, metacresol, acetato de zinco, fosfato dissódico dihidratado, cloreto de sódio, ácido clorídrico, hidróxido de sódio e água para preparações injectáveis.
+ Qual o aspecto de Levemir e conteúdo da embalagem
+ Levemir apresenta-se como uma solução aquosa, transparente e incolor, em embalagens de 1,5 ou 10 cartuchos de 3 ml (é possível que não sejam comercializadas todas as apresentações). 1 ml contém 100 U de insulina detemir,1 cartucho contém 3 ml equivalentes a 300 U.
+ Titular da Autorização de Introdução no Mercado
+ Novo Nordisk A/S Novo Allé DK-2880 Bagsværd, Dinamarca
+ Fabricante O fabricante pode ser identificado pelo número de lote impresso na pala da embalagem exterior e no rótulo:
+ – Se o segundo e terceiro caracteres forem W5, S6, P5, K7 ou ZF Novo Nordisk A/S, Novo Allé, DK-2880 Bagsværd, Dinamarca é o fabricante 62 – Se o segundo e terceiro caracteres forem H7 ou T6 Novo Nordisk Production SAS,45 Avenue d’ Orléans F-28002 Chartres, França é o fabricante.
+ Este folheto foi aprovado pela última vez em
+ 63 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Levemir 100 U/ml solução injectável numa caneta pré-cheia Insulina detemir FlexPen
+ Leia atentamente este folheto antes de utilizar este medicamento. – Conserve este folheto. Pode ter necessidade de o reler. – Caso ainda tenha dúvidas, fale com o seu médico, enfermeiro ou farmacêutico. – Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes prejudicial mesmo que apresentem os mesmos sintomas. – Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico, enfermeiro ou farmacêutico.
+ Neste folheto: 1. O que é Levemir e para que é utilizado 2. Antes de utilizar Levemir 3. Como utilizar Levemir 4. O que fazer numa situação de emergência 5. Efeitos secundários possíveis 6. Como conservar Levemir 7. Outras informações
+ Verso: Como utilizar a sua FlexPen 1. O QUE É LEVEMIR E PARA QUE É UTILIZADO
+ Levemir é um análogo de insulina humana para o tratamento da diabetes. É fornecido numa caneta pré-cheia de 3 ml (denominada FlexPen). Levemir é um análogo de insulina humana de acção lenta que faz baixar o nível de glucose no sangue. O efeito tem uma duração máxima de 24 horas, consoante a dose. Pode ser usado em combinação com antidiabéticos orais ou com insulinas de acção curta ou rápida administradas em consonância com as refeições.
+ 2. ANTES DE UTILIZAR LEVEMIR Não utilize Levemir ► Se tem alergia (hipersensibilidade) à insulina detemir, a metacresol ou a qualquer outro componente (ver 7 Outras informações). Atenção aos sinais de alergia em 5 Efeitos secundários possíveis. ► Se sentir que está a entrar em hipoglicemia (sintomas de uma baixa de açúcar no sangue). Para mais informações sobre hipoglicemia, ver 4 O que fazer numa situação de emergência
+ Tome especial cuidado com Levemir ► Se tiver problemas de rins ou de fígado, ou nas glândulas supra-renais, pituitária ou tiroideia ► Se beber bebidas alcoólicas: atenção aos sinais de hipoglicemia ► Se está a fazer mais exercício do que é habitual ou se pretende alterar o seu tipo de alimentação ► Se estiver doente: continue a tomar a insulina ► Se vai fazer uma viagem ao estrangeiro: as alterações nos fusos horários podem afectar as horas a que tem que tomar a insulina
+ Gravidez e aleitamento 64 ► Se estiver grávida, a planear uma gravidez ou a amamentar consulte o seu médico
+ Condução de veículos e utilização de máquinas ► Se conduzir um veículo ou utilizar ferramentas ou máquinas: atenção aos sinais de hipoglicemia. A sua capacidade de concentração ou de reacção estará reduzida durante um episódio de hipoglicemia. Nunca deve conduzir ou utilizar máquinas se sentir que está a entrar em hipoglicemia. Se tiver muita tendência para hipoglicemia ou se tiver dificuldade em reconhecer que está a entrar em hipoglicemia, fale com o seu médico a fim de decidir se pode conduzir ou utilizar máquinas.
+ Não existe experiência clínica com Levemir em crianças com idade inferior a 6 anos.
+ Utilizar com outros medicamentos Muitos medicamentos afectam o modo como a glucose actua no seu organismo, o que pode influenciar a sua dose de insulina. Abaixo encontra-se uma lista dos medicamentos mais importantes que podem afectar o seu tratamento com insulina. Fale com o seu médico ou farmacêutico se estiver a tomar ou se mudar para outros medicamentos, mesmo quando não sujeitos a receita médica. As suas necessidades de insulina podem alterar-se se estiver a tomar simultaneamente: antidiabéticos orais; inibidores da monoaminoxidase (IMAO); beta-bloqueadores; inibidores da enzima de conversão da angiotensina (IECA); ácido acetilsalicílico; tiazidas; glucocorticóides; terapêutica hormonal da tiróide; beta-simpaticomiméticos; hormona de crescimento; danazol; octreótido e lanreótido.
+ 3. COMO UTILIZAR LEVEMIR Fale com o seu médico ou enfermeiro sobre as suas necessidades de insulina. Siga atentamente os seus conselhos. Este folheto contém orientações de carácter geral. Se o seu médico o tiver mudado de um tipo ou marca de insulina para outro, a sua dose poderá ter de ser ajustada pelo médico.
+ Como administrar a insulina • Para instruções mais pormenorizadas, ver verso da página.
+ Antes de utilizar Levemir FlexPen ► Verifique o rótulo para se certificar de que é o tipo correcto de insulina ► Utilize sempre uma agulha nova em cada injecção para evitar uma contaminação.
+ Levemir não deve ser utilizado ► Em bombas perfusoras de insulina ► Se deixar cair, partir ou danificar a FlexPen, há o risco de verter insulina ► Se tiver sido armazenada incorrectamente ou se tiver sido congelada (ver 6 Conservação de Levemir) ► Se a insulina não parecer límpida e incolor como água.
+ Levemir destina-se a injecção sob a pele (por via subcutânea). Nunca injecte a sua insulina directamente numa veia ou num músculo. Varie sempre o local de injecção na mesma área a fim de evitar a formação de nódulos (ver 5 Efeitos secundários possíveis). Os melhores pontos para se auto-injectar são: a parte da frente das coxas, a barriga ao nível da cintura (abdómen) ou o braço. Deve medir regularmente o seu nível de açúcar no sangue.
+ 65 4. O QUE FAZER NUMA SITUAÇÃO DE EMERGÊNCIA
+ Se entrar em hipoglicemia Entra em hipoglicemia se o seu açúcar no sangue atingir um nível demasiado baixo. Isto pode acontecer: • Se tomar demasiada insulina • Se comer menos do que devia ou se falhar uma refeição • Se fizer mais exercício do que o normal.
+ Os sinais de aviso de uma hipoglicemia podem surgir rapidamente e podem incluir: suores frios; pele pálida e fria; dor de cabeça; batimento cardíaco rápido; enjoo; sensação de fome excessiva; alterações temporárias na visão; sonolência; sensação invulgar de cansaço e fraqueza; nervosismo ou tremores; sensação de ansiedade; sensação de desorientação; dificuldade de concentração. Se sentir que vai entrar em hipoglicemia: coma um alimento muito açucarado e depois meça o seu nível de açúcar no sangue. Traga sempre consigo açúcar, alguns rebuçados, doces, bolachas ou sumo de fruta, para estar prevenido. Se o seu nível de açúcar no sangue for demasiado baixo: coma alguns rebuçados ou alimentos muito açucarados (doces, bolachas, sumo de fruta) e depois descanse. Depois dos sintomas de hipoglicemia terem desaparecido ou após estabilização dos níveis de açúcar no sangue, continue o tratamento com insulina. Informe as pessoas de que tem diabetes e sobre quais poderão ser as consequências, incluindo o risco de poder desmaiar devido a uma hipoglicemia. Informe as pessoas de que, se desmaiar (ficar inconsciente), devem virá-lo de lado e pedir ajuda médica imediatamente. Não lhe devem dar nada para comer ou beber. Podem sufocá-lo. ► Se a hipoglicemia grave prolongada não for tratada, poderá causar uma lesão cerebral (temporária ou permanente) e até mesmo a morte ► Se entrar em hipoglicemia e desmaiar, ou se entrar frequentemente em hipoglicemia, fale com o seu médico. Pode ser necessário ajustar a dose de insulina ou a sua hora de administração, a quantidade de alimentos ou de exercício.
+ Utilizar glucagom Pode recuperar mais rapidamente do estado de inconsciência se lhe for administrada uma injecção da hormona glucagom por uma pessoa que saiba como usar o produto. Se lhe for injectado glucagom também lhe devem dar açúcar ou um alimento açucarado logo que recupere a consciência. Se não responder ao tratamento com glucagom, terá de receber tratamento hospitalar. Contacte o seu médico ou um serviço de urgências após uma injecção de glucagom: é necessário detectar a razão do episódio de hipoglicemia para evitar que se repita.
+ Se o seu nível de açúcar no sangue ficar demasiado elevado
+ O seu nível de açúcar no sangue pode ficar demasiado alto (a isto se chama hiperlicemia). Os sinais de aviso surgem gradualmente. Incluem: aumento da frequência urinária; sensação de sede; perda de apetite; enjoo (náuseas ou vómitos); sensação de sonolência ou cansaço; pele seca e corada, boca seca e um hálito a fruta (cetónico). Se tiver um destes sinais: teste o seu nível de açúcar no sangue, controle a presença de corpos cetónicos na urina, se puder, e depois procure auxílio médico imediato. Podem ser sinais de um problema muito grave chamado cetoacidose diabética. Caso não seja tratado pode resultar em coma diabético e morte.
+ Causas da hiperlicemia • Ter-se esquecido de tomar a insulina • Tomar repetidamente menos insulina do que aquela de que necessita
+ 66 • Uma infecção ou febre • Comer mais do que o habitual • Fazer menos exercício do que o habitual.
+ 5. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todos os medicamentos, Levemir pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas. Tomar quantidade a mais de Levemir pode diminuir o açúcar no sangue (hipoglicemia). Ver o conselho em 4 O que fazer numa situação de emergência.
+ Efeitos secundários frequentes (menos de 1 em 10)
+ Alterações no local da injecção. Podem ocorrer reacções (rubor, tumefacção, inflamação, prurido e equimose) no local de injecção. Estas reacções normalmente desaparecem após algumas semanas a tomar insulina. Se não desaparecerem, consulte o seu médico. Se tiver reacções graves ou contínuas, poderá ter necessidade de parar o tratamento com Levemir e utilizar outra insulina.
+ Em três estudos clínicos em associação com antidiabéticos orais,2 em 100 indivíduos notificaram sinais de alergia (ver sinais de alergia abaixo).
+ Efeitos secundários pouco frequentes (menos de 1 em 100)
+ Sinais de alergia. Podem ocorrer erupções na pele e urticária. Procure auxílio médico imediatamente: ► Se os sinais de alergia anteriores surgirem, ou ► Se subitamente não se sentir bem e se: começar a transpirar; começar a vomitar; sentir dificuldade em respirar; tiver um batimento cardíaco rápido; sentir tonturas.
+ Pode ter uma reacção alérgica grave e muito rara a Levemir ou a um dos seus constituintes (designada por reacção alérgica generalizada). Ver também o aviso em 2 Antes de utilizar Levemir.
+ Problemas de visão. Quando iniciar o seu tratamento com insulina, pode sofrer distúrbios da visão, mas estes distúrbios são normalmente temporários.
+ Alterações no local da injecção (Lipodistrofia). Se se injectar frequentemente no mesmo local, o tecido adiposo sob a pele pode atrofiar (lipoatrofia) ou aumentar de espessura (lipohipertrofia). A alteração do local de cada injecção pode ajudar a evitar estas afecções cutâneas. Se notar que a sua pele está a ficar deformada ou a ficar mais espessa no local de injecção, informe o seu médico ou enfermeiro, uma vez que estas reacções podem agravar-se ou alterar a absorção da insulina nesse local.
+ Articulações inchadas. Quando começar a tomar insulina, a retenção de líquidos pode provocar inchaço nos tornozelos e noutras articulações. Esta situação desaparece rapidamente.
+ Efeitos secundários raros (menos de 1 em 1.000)
+ Distúrbios da sensibilidade Uma melhoria rápida do controlo da glicémia pode perturbar a sensibilidade (dormência, fraqueza ou dor) nos membros. Estes sintomas normalmente desaparecem.
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico, enfermeiro ou farmacêutico. 67 6. COMO CONSERVAR LEVEMIR
+ Manter fora do alcance e da vista das crianças. Não utilize Levemir após o prazo de validade impresso no rótulo e na embalagem exterior. O prazo de validade corresponde ao último dia do mês indicado. Levemir FlexPen que não estiver a ser usada deve ser guardada no frigorífico entre 2°C e 8°C, longe do congelador. Não congelar. Levemir FlexPen que estiver a ser usada ou transportada como reserva não deve ser guardada no frigorífico. Pode transportá-la consigo e mantê-la à temperatura ambiente (inferior a 30ºC) durante 6 semanas. Manter sempre a tampa da caneta FlexPen colocada quando não a estiver a usar para a proteger da luz. Levemir deve ser protegida do calor excessivo e da luz solar.
+ Levemir não deve ser eliminado na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 7. OUTRAS INFORMAÇÕES Qual a composição de Levemir • A substância activa é a insulina detemir produzida por tecnologia ADN recombinante. • Os outros componentes são glicerol, fenol, metacresol, acetato de zinco, fosfato dissódico dihidratado, cloreto de sódio, ácido clorídrico, hidróxido de sódio e água para preparações injectáveis.
+ Qual o aspecto de Levemir e conteúdo da embalagem
+ Levemir apresenta-se como uma solução aquosa, transparente e incolor, em embalagens de 1,5 ou 10 canetas pré-cheias de 3 ml (é possível que não sejam comercializadas todas as apresentações). 1 ml contém 100 U de insulina detemir,1 caneta pré-cheia contém 3 ml equivalentes a 300 U.
+ Titular da Autorização de Introdução no Mercado
+ Novo Nordisk A/S Novo Allé DK-2880 Bagsværd, Dinamarca
+ Fabricante O fabricante pode ser identificado pelo número de lote impresso na pala da embalagem exterior e no rótulo:
+ – Se o segundo e terceiro caracteres forem W5, S6, P5, K7 ou ZF Novo Nordisk A/S, Novo Allé, DK-2880 Bagsværd, Dinamarca é o fabricante
+ – Se o segundo e terceiro caracteres forem H7 ou T6 Novo Nordisk Production SAS,45 Avenue d’ Orléans F-28002 Chartres, França é o fabricante.
+ Agora vire a página para informações sobre como utilizar a sua FlexPen.
+ Este folheto foi aprovado pela última vez em
+ 68 Introdução
+ Leia atentamente as instruções seguintes antes de utilizar a sua Levemir FlexPen.
+ A sua FlexPen é uma caneta de insulina, com um sistema único de marcação de dose. Pode marcar doses de 1 a 60 unidades com aumentos de 1 unidade. A FlexPen foi concebida e testada para ser usada com as agulhas descartáveis NovoFine e NovoTwist até 8 mm de comprimento. Como medida de precaução, transporte sempre consigo um sistema de administração de insulina sobressalente, para o caso de perder ou danificar a sua FlexPen.
+ A cor da caneta na figura é diferente da cor da sua FlexPen.
+ A sua Levemir FlexPen Tampa da caneta
+ Indicador Membrana de
+ Cartucho Escala de dose Selector Botão
+ borracha
+ residual
+ de dose injector
+ Agulha (exemplo) Selo de Protecção
+ Protecção exterior grande da agulha interior da agulha
+ Agulha protecção
+ Manutenção A sua FlexPen foi concebida para funcionar com precisão e segurança. Deve ser manuseada com cuidado. Se a deixar cair ou a partir, há risco de danificar a caneta e de a mesma verter insulina.
+ Pode limpar o exterior da sua FlexPen com uma compressa. Não a ensope, não a lave nem a lubrifique, pois poderá danificar a caneta.
+ Não volte a encher a sua FlexPen. Preparação da sua Levemir FlexPen Verifique o rótulo para se certificar de que a sua FlexPen contém o tipo de insulina correcto.
+ A Retire a tampa da caneta. Desinfecte a membrana de borracha com uma compressa.
+ 69 A
+ B Retire o selo de protecção de uma agulha descartável nova.
+ Enrosque a agulha firmemente e a direito na sua FlexPen.
+ B
+ C Retire a protecção exterior grande da agulha e guarde-a.
+ C
+ D Retire e deite fora a protecção interior da agulha.
+ D
+ • Utilize sempre uma agulha nova em cada injecção para evitar uma contaminação.
+ • Tenha cuidado para não dobrar nem danificar a agulha antes de a utilizar.
+ • Para reduzir o risco de se picar inadvertidamente, nunca volte a colocar a protecção interior da agulha depois de a retirar.
+ Verificação do fluxo de insulina Antes de cada injecção podem acumular-se no cartucho pequenas quantidades de ar durante a utilização normal. Para evitar a injecção de ar e assegurar a posologia adequada:
+ E Rode o selector de dose de forma a seleccionar 2 unidades.
+ 70 E
+ 2 unidades seleccionadas F Segure a sua FlexPen com a agulha virada para cima e dê pequenos toques com o dedo no cartucho algumas vezes, para fazer com que as bolhas de ar se acumulem na parte superior do cartucho.
+ F
+ G Mantendo a agulha virada para cima, pressione completamente o botão injector. O selector de dose volta a 0.
+ Deve aparecer uma gota de insulina na ponta da agulha. Se isso não acontecer, mude a agulha e repita o procedimento no máximo 6 vezes.
+ Se, mesmo assim, continuar a não aparecer uma gota de insulina, a caneta está avariada e deve utilizar uma caneta nova.
+ G
+ Selecção da dose Verifique se o selector de dose está colocado no 0.
+ H Rode o selector de dose para seleccionar o número de unidades que precisa de injectar.
+ 71 A dose pode ser corrigida aumentando ou diminuindo, rodando o selector de dose em qualquer uma das direcções, até a dose correcta estar alinhada com o indicador de dose. Ao rodar o selector de dose, tenha cuidado para não carregar no botão injector, pois a insulina sairá.
+ Não pode marcar uma dose superior ao número de unidades que restam no cartucho.
+ H
+ 5 unidades seleccionadas 24 unidades seleccionadas • Não utilize a escala residual para medir a sua dose de insulina.
+ Injecção Introduza a agulha sob a pele. Utilize a técnica de injecção aconselhada pelo seu médico ou enfermeiro.
+ I Injecte a dose pressionando completamente o botão injector até o 0 ficar alinhado com o indicador de dose. Tenha cuidado para pressionar o botão injector apenas quando estiver a injectar.
+ Rodar o selector de dose não injectará a insulina.
+ I
+ J Depois da injecção, mantenha o botão injector completamente pressionado até retirar a agulha da pele.
+ A agulha deve permanecer sob a pele durante, pelo menos,6 segundos. Isto assegurará que a dose completa é administrada.
+ 72 J
+ K Introduza a agulha na protecção exterior grande da agulha sem tocar nesta última. Quando a agulha estiver tapada, empurre completamente e com cuidado a protecção exterior até ao fim e desenrosque então a agulha.
+ Elimine-a com cuidado e volte a colocar a tampa na caneta.
+ K
+ Retire sempre a agulha depois de cada injecção e guarde a sua FlexPen sem a agulha • acoplada. Caso contrário o líquido pode sair, podendo originar uma administração inadequada.
+ • Os profissionais de saúde devem ter muito cuidado ao manusear agulhas já utilizadas, de modo a eliminar o risco de se picarem nas mesmas.
+ • Elimine com cuidado a FlexPen usada, sem a agulha acoplada.
+ • Não partilhe a sua FlexPen com ninguém.
+ 73 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Levemir 100 U/ml solução inectável numa caneta pré-cheia Insulina detemir InnoLet
+ Leia atentamente este folheto antes de utilizar este medicamento. – Conserve este folheto. Pode ter necessidade de o reler. – Caso ainda tenha dúvidas, fale com o seu médico, enfermeiro de cuidados diabéticos ou farmacêutico. – Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes prejudicial mesmo que apresentem os mesmos sintomas. – Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico, enfermeiro de cuidados diabéticos ou farmacêutico.
+ Neste folheto: 1. O que é Levemir e para que é utilizado 2. Antes de utilizar Levemir 3. Como utilizar Levemir 4. O que fazer numa situação de emergência 5. Efeitos secundários possíveis 6. Como conservar Levemir 7. Outras informações
+ Verso: Como utilizar a sua InnoLet 1. O QUE É LEVEMIR E PARA QUE É UTILIZADO
+ Levemir é um análogo de insulina humana para o tratamento da diabetes. É fornecido numa caneta pré-cheia de 3 ml (denominada InnoLet). Levemir é um análogo de insulina humana de acção lenta que faz baixar o nível de glucose no sangue. O efeito tem uma duração máxima de 24 horas, consoante a dose. Pode ser usado em combinação com antidiabéticos orais ou com insulinas de acção curta ou rápida administradas em consonância com as refeições.
+ 2. ANTES DE UTILIZAR LEVEMIR Não utilize Levemir ► Se tem alergia (hipersensibilidade) à insulina detemir, a metacresol ou a qualquer outro componente (ver 7 Outras informações). Atenção aos sinais de alergia em 5 Efeitos secundários possíveis. ► Se sentir que está a entrar em hipoglicemia (sintomas de uma baixa de açúcar no sangue). Para mais informações sobre hipoglicemia, ver 4 O que fazer numa situação de emergência
+ Tome especial cuidado com Levemir ► Se tiver problemas de rins ou de fígado, ou nas glândulas supra-renais, pituitária ou tiroideia ► Se beber bebidas alcoólicas: atenção aos sinais de hipoglicemia ► Se está a fazer mais exercício do que é habitual ou se pretende alterar o seu tipo de alimentação ► Se estiver doente: continue a tomar a insulina ► Se vai fazer uma viagem ao estrangeiro: as alterações nos fusos horários podem afectar as horas a que tem que tomar a insulina
+ 74 Gravidez e aleitamento ► Se estiver grávida, a planear uma gravidez ou a amamentar consulte o seu médico
+ Condução de veículos e utilização de máquinas ► Se conduzir um veículo ou utilizar ferramentas ou máquinas: atenção aos sinais de hipoglicemia. A sua capacidade de concentração ou de reacção estará reduzida durante um episódio de hipoglicemia. Nunca deve conduzir ou utilizar máquinas se sentir que está a entrar em hipoglicemia. Se tiver muita tendência para hipoglicemia ou se tiver dificuldade em reconhecer que está a entrar em hipoglicemia, fale com o seu médico a fim de decidir se pode conduzir ou utilizar máquinas.
+ Não existe experiência clínica com Levemir em crianças com idade inferior a 6 anos.
+ Utilizar com outros medicamentos Muitos medicamentos afectam o modo como a glucose actua no seu organismo, o que pode influenciar a sua dose de insulina. Abaixo encontra-se uma lista dos medicamentos mais importantes que podem afectar o seu tratamento com insulina. Fale com o seu médico ou farmacêutico se estiver a tomar ou se mudar para outros medicamentos, mesmo quando não sujeitos a receita médica. As suas necessidades de insulina podem alterar-se se estiver a tomar simultaneamente: antidiabéticos orais; inibidores da monoaminoxidase (IMAO); beta-bloqueadores; inibidores da enzima de conversão da angiotensina (IECA); ácido acetilsalicílico; tiazidas; glucocorticóides; terapêutica hormonal da tiróide; beta-simpaticomiméticos; hormona de crescimento; danazol; octreótido e lanreótido.
+ 3. COMO UTILIZAR LEVEMIR Fale com o seu médico ou enfermeira de cuidados diabéticos sobre as suas necessidades de insulina. Siga atentamente os seus conselhos. Este folheto contém orientações de carácter geral. Se o seu médico o tiver mudado de um tipo ou marca de insulina para outro, a sua dose poderá ter de ser ajustada pelo médico.
+ Como administrar a insulina • Para instruções mais pormenorizadas, ver verso da página.
+ Antes de utilizar Levemir InnoLet ► Verifique o rótulo para se certificar de que é o tipo correcto de insulina ► Utilize sempre uma agulha nova em cada injecção para evitar uma contaminação.
+ Levemir não deve ser utilizado ► Em bombas perfusoras de insulina ► Se deixar cair, partir ou danificar a InnoLet, há o risco de verter insulina ► Se tiver sido armazenada incorrectamente ou se tiver sido congelada (ver 6 Conservação de Levemir) ► Se a insulina não parecer límpida e incolor como água.
+ Levemir destina-se a injecção sob a pele (por via subcutânea). Nunca injecte a sua insulina directamente numa veia ou num músculo. Varie sempre o local de injecção na mesma área a fim de evitar a formação de nódulos (ver 5 Efeitos secundários possíveis). Os melhores pontos para se auto-injectar são: a parte da frente das coxas, a barriga ao nível da cintura (abdómen) ou o braço. Deve medir regularmente o seu nível de açúcar no sangue.
+ 75 4. O QUE FAZER NUMA SITUAÇÃO DE EMERGÊNCIA
+ Se entrar em hipoglicemia Entra em hipoglicemia se o seu açúcar no sangue atingir um nível demasiado baixo. Isto pode acontecer: • Se tomar demasiada insulina • Se comer menos do que devia ou se falhar uma refeição • Se fizer mais exercício do que o normal.
+ Os sinais de aviso de uma hipoglicemia podem surgir rapidamente e podem incluir: suores frios; pele pálida e fria; dor de cabeça; batimento cardíaco rápido; enjoo; sensação de fome excessiva; alterações temporárias na visão; sonolência; sensação invulgar de cansaço e fraqueza; nervosismo ou tremores; sensação de ansiedade; sensação de desorientação; dificuldade de concentração. Se sentir que vai entrar em hipoglicemia: coma um alimento muito açucarado e depois meça o seu nível de açúcar no sangue. Traga sempre consigo açúcar, alguns rebuçados, doces, bolachas ou sumo de fruta, para estar prevenido. Se o seu nível de açúcar no sangue for demasiado baixo: coma alguns rebuçados ou alimentos muito açucarados (doces, bolachas, sumo de fruta) e depois descanse. Depois dos sintomas de hipoglicemia terem desaparecido ou após estabilização dos níveis de açúcar no sangue, continue o tratamento com insulina. Informe as pessoas de que tem diabetes e sobre quais poderão ser as consequências, incluindo o risco de poder desmaiar devido a uma hipoglicemia. Informe as pessoas de que, se desmaiar (ficar inconsciente), devem virá-lo de lado e pedir ajuda médica imediatamente. Não lhe devem dar nada para comer ou beber. Pode sufocá-lo. ► Se a hipoglicemia grave prolongada não for tratada, poderá causar uma lesão cerebral (temporária ou permanente) e até mesmo a morte ► Se entrar em hipoglicemia e desmaiar, ou se entrar frequentemente em hipoglicemia, fale com o seu médico. Pode ser necessário ajustar a dose de insulina ou a sua hora de administração, a quantidade de alimentos ou de exercício.
+ Utilizar glucagom Pode recuperar mais rapidamente do estado de inconsciência se lhe for administrada uma injecção da hormona glucagom por uma pessoa que saiba como usar o produto. Se lhe for injectado glucagom também lhe devem dar açúcar ou um alimento açucarado logo que recupere a consciência. Se não responder ao tratamento com glucagom, terá de receber tratamento hospitalar. Contacte o seu médico ou um serviço de urgências após uma injecção de glucagom: é necessário detectar a razão do episódio de hipoglicemia para evitar que se repita.
+ Se o seu nível de açúcar no sangue ficar demasiado elevado
+ O seu nível de açúcar no sangue pode ficar demasiado alto (a isto se chama hiperlicemia). Os sinais de aviso surgem gradualmente. Incluem: aumento da frequência urinária; sensação de sede; perda de apetite; enjoo (náuseas ou vómitos); sensação de sonolência ou cansaço; pele seca e corada, boca seca e um hálito a fruta (cetónico). Se tiver um destes sinais: teste o seu nível de açúcar no sangue, controle a presença de corpos cetónicos na urina, se puder, e depois procure auxílio médico imediato. Podem ser sinais de um problema muito grave chamado cetoacidose diabética. Caso não seja tratado pode resultar em coma diabético e morte.
+ Causas da hiperlicemia 76 • Ter-se esquecido de tomar a insulina • Tomar repetidamente menos insulina do que aquela de que necessita • Uma infecção ou febre • Comer mais do que o habitual • Fazer menos exercício do que o habitual.
+ 5. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todos os medicamentos, Levemir pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas. Tomar quantidade a mais de Levemir pode diminuir o açúcar no sangue (hipoglicemia). Ver o conselho em 4 O que fazer numa situação de emergência.
+ Efeitos secundários frequentes (menos de 1 em 10)
+ Alterações no local da injecção. Podem ocorrer reacções (rubor, tumefacção, inflamação, prurido e equimose) no local de injecção. Estas reacções normalmente desaparecem após algumas semanas a tomar insulina. Se não desaparecerem, consulte o seu médico. Se tiver reacções graves ou contínuas, poderá ter necessidade de parar o tratamento com Levemir e utilizar outra insulina.
+ Em três estudos clínicos em associação com antidiabéticos orais,2 em 100 indivíduos notificaram sinais de alergia (ver sinais de alergia abaixo).
+ Efeitos secundários pouco frequentes (menos de 1 em 100)
+ Sinais de alergia. Podem ocorrer erupções na pele e urticária. Procure auxílio médico imediatamente: ► Se os sinais de alergia anteriores surgirem, ou ► Se subitamente não se sentir bem e se: começar a transpirar; começar a vomitar; sentir dificuldade em respirar; tiver um batimento cardíaco rápido; sentir tonturas.
+ Pode ter uma reacção alérgica grave e muito rara a Levemir ou a um dos seus constituintes (designada por reacção alérgica generalizada). Ver também o aviso em 2 Antes de utilizar Levemir.
+ Problemas de visão. Quando iniciar o seu tratamento com insulina, pode sofrer distúrbios da visão, mas estes distúrbios são normalmente temporários.
+ Alterações no local da injecção (Lipodistrofia). Se se injectar frequentemente no mesmo local, o tecido adiposo sob a pele pode atrofiar (lipoatrofia) ou aumentar de espessura (lipohipertrofia). A alteração do local de cada injecção pode ajudar a evitar estas afecções cutâneas. Se notar que a sua pele está a ficar deformada ou a ficar mais espessa no local de injecção, informe o seu médico ou enfermeira de cuidados diabéticos, uma vez que estas reacções podem agravar-se ou alterar a absorção da insulina nesse local.
+ Articulações inchadas. Quando começar a tomar insulina, a retenção de líquidos pode provocar inchaço nos tornozelos e noutras articulações. Esta situação desaparece rapidamente.
+ Efeitos secundários raros (menos de 1 em 1.000)
+ Distúrbios da sensibilidade Uma melhoria rápida do controlo da glicémia pode perturbar a sensibilidade (dormência, fraqueza ou dor) nos membros. Estes sintomas normalmente desaparecem. 77 Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico, enfermeira de cuidados diabéticos ou farmacêutico.
+ 6. COMO CONSERVAR LEVEMIR Manter fora do alcance e da vista das crianças. Não utilize Levemir após o prazo de validade impresso no rótulo e na embalagem exterior. O prazo de validade corresponde ao último dia do mês indicado. Levemir Innolet que não estiver a ser usada deve ser guardada no frigorífico entre 2°C e 8°C, longe do congelador. Não congelar. Levemir InnoLet que estiver a ser usada ou transportada como reserva não deve ser guardada no frigorífico. Pode transportá-la consigo e mantê-la à temperatura ambiente (inferior a 30ºC) durante 6 semanas. Manter sempre a tampa da caneta InnoLet colocada quando não a estiver a usar para a proteger da luz. Levemir deve ser protegida do calor excessivo e da luz solar.
+ 7. OUTRAS INFORMAÇÕES Qual a composição de Levemir • A substância activa é a insulina detemir produzida por tecnologia ADN recombinante. • Os outros componentes são glicerol, fenol, metacresol, acetato de zinco, fosfato dissódico dihidratado, cloreto de sódio, ácido clorídrico, hidróxido de sódio e água para preparações injectáveis.
+ Qual o aspecto de Levemir e conteúdo da embalagem
+ Levemir apresenta-se como uma solução aquosa, transparente e incolor, em embalagens de 1,5 ou 10 canetas pré-cheias de 3 ml (é possível que não sejam comercializadas todas as apresentações). 1 ml contém 100 U de insulina detemir,1 caneta pré-cheia contém 3 ml equivalentes a 300 U.
+ Titular da Autorização de Introdução no Mercado e Fabricante
+ Novo Nordisk A/S Novo Allé DK-2880 Bagsværd, Dinamarca
+ Agora vire a página para informações sobre como utilizar a sua InnoLet.
+ Este folheto foi aprovado pela última vez
+ 78 INFORMAÇÃO SOBRE A FORMA DE INJECTAR LEVEMIR INNOLET
+ Leia atentamente as instruções que se seguem antes de utilizar a sua Levemir InnoLet.
+ Introdução Levemir InnoLet é uma caneta pré-cheia, simples e compacta que pode administrar 1 a 50 unidades com aumentos de 1 unidade. Levemir InnoLet foi concebida para ser utilizada com agulhas NovoFine S com 8 mm ou menos de comprimento. Procure um S na caixa das agulhas. O S significa tampa curta.
+ Botão injector
+ Mostrador do selector de dose Escala residual Escala de doses Cartucho de insulina Compartimento das agulhas
+ Membrana de borracha
+ Agulha
+ Protecção interior da Selo de Tampa da agulha protecção caneta
+ Protecção exterior grande da agulha
+ Preparação da injecção Verifique o rótulo para se certificar de que a sua Levemir InnoLet contém o tipo de insulina correcto. Retire a tampa da caneta (conforme indicado pela seta).
+ Acoplar a agulha • Desinfecte a membrana de borracha com uma compressa • Utilize sempre uma agulha nova em cada injecção para evitar uma contaminação • Retire o selo de protecção de uma agulha NovoFine S • Enrosque a agulha firmemente e a direito na Levemir InnoLet (figura A) • Utilize sempre uma agulha NovoFine S nova para cada injecção. Não dobre nem danifique a agulha antes de a utilizar • Retire a protecção exterior grande e a protecção interior da agulha. Pode querer guardar a protecção exterior grande da agulha no compartimento.
+ 79 A
+ Preparação para eliminar o ar antes de cada injecção
+ Podem acumular-se na agulha e no cartucho pequenas quantidades de ar durante a utilização normal. Para evitar a injecção de ar e assegurar a dose adequada: • Marque 2 unidades rodando o selector da dose no sentido dos ponteiros do relógio • Segure a Levemir InnoLet com a agulha virada para cima e dê pequenos toques com o dedo no cartucho (figura B) para que as bolhas de ar se acumulem na parte superior do cartucho • Mantendo a agulha virada para cima, pressione completamente o botão injector e o selector de dose volta a zero • Deve aparecer uma gota de insulina na ponta da agulha. Se isso não acontecer, troque de agulha e repita o procedimento no máximo 6 vezes.
+ Se mesmo assim continuar a não aparecer uma gota de insulina, o sistema de administração está avariado e não pode ser utilizado.
+ B
+ Marcação da dose • Certifique-se sempre de que o botão injector está completamente recolhido e que o selector da dose está colocado no zero • Marque o número de unidades necessárias rodando o selector da dose no sentido dos ponteiros do relógio (figura C). Não utilize a escala residual para medir a dose de insulina • Ouvirá um clique por cada unidade marcada. A dose pode ser corrigida rodando o mostrador para qualquer um dos lados.
+ 80 Não pode marcar uma dose superior ao número de unidades que restam no cartucho.
+ C
+ Como administrar a insulina • Introduza a agulha sob a pele. Use a técnica de injecção aconselhada pelo seu médico • Administre a dose pressionando completamente o botão injector (figura D). Ouvirá um clique è medida que o selector da dose regressa ao zero • Depois da injecção, a agulha deve permanecer sob a pele durante pelo menos 6 segundos para garantir que foi administrada a dose completa • Certifique-se de que não está a bloquear o selector da dose enquanto está a injectar, pois o selector da dose tem que poder regressar ao zero quando carregar no botão injector • Deite fora a agulha depois de cada injecção.
+ D
+ Retirar a agulha • Volte a colocar a protecção exterior grande da agulha e desenrosque a agulha (figura E). Elimine-a com todo o cuidado.
+ Utilize uma nova agulha para cada injecção. Não se esqueça de retirar e eliminar a agulha depois de cada injecção, bem como de guardar Levemir InnoLet sem a agulha acoplada. Caso contrário, o líquido pode sair, podendo originar uma administração inadequada.
+ 81 Os profissionais de saúde, familiares e outras pessoas que possam prestar estes cuidados devem seguir as medidas gerais de precaução para retirar e inutilizar agulhas, de modo a eliminar o risco de se picarem nas mesmas. Elimine com cuidado a Levemir InnoLet usada, sem a agulha acoplada.
+ E Manutenção A sua Levemir InnoLet foi concebida para funcionar com precisão e segurança. Deve ser manuseada com cuidado. Se a deixar cair, partir ou danificar, há o risco de verter insulina. Como medida preventiva, transporte sempre consigo um sistema de administração de insulina suplementar para o caso da sua InnoLet se perder ou ficar danificada. Não volte a encher Levemir InnoLet. Pode limpar a sua Levemir InnoLet com uma compressa. Não a ensope em álcool, não a lave nem a lubrifique. Isto poderá danificar o mecanismo.
+ 82

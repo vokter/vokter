@@ -1,0 +1,516 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. NOME DO MEDICAMENTO
+ Herceptin 150 mg Pó para concentrado para solução para perfusão
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ 1 frasco para injectáveis contém 150 mg de trastuzumab, um anticorpo monoclonal IgG1 humanizado, produzido a partir de uma linhagem de células de mamífero (ovário de hamster chinês, CHO) por perfusão contínua. A solução reconstituída de Herceptin contém 21 mg/ml de trastuzumab.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Pó para concentrado para solução para perfusão.
+ Herceptin é um pó liofilizado, branco a amarelo pálido.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Cancro da mama metastático Herceptin está indicado no tratamento de doentes com cancro da mama metastático cujos tumores apresentem sobre-expressão do HER2:
+ a) como monoterapia, no tratamento de doentes com neoplasia metastizada, previamente submetidos a pelo menos dois regimes quimioterápicos para tratamento da neoplasia. A quimioterapia prévia deve incluir pelo menos uma antraciclina e um taxano, a não ser que esse tratamento não seja adequado para o doente. Doentes com receptores hormonais positivos, devem ainda não responder à terapêutica hormonal, a não ser que estes tratamentos não sejam adequados para o doente.
+ b) em associação com paclitaxel, no tratamento de doentes com neoplasia metastizada, não submetidos previamente a quimioterapia e para os quais as antraciclinas não sejam adequadas.
+ c) em associação com docetaxel, no tratamento de doentes com neoplasia metastizada, não submetidos previamente a quimioterapia.
+ d) em associação com um inibidor da aromatase, no tratamento de doentes pós-menopáusicas com cancro da mama metastizado com receptores hormonais positivos, não tratados previamente com trastuzumab.
+ Cancro da mama em fase precoce Herceptin está indicado no tratamento de doentes com cancro da mama HER2 positivo em fase precoce na sequência de cirurgia, quimioterapia (neoadjuvante ou adjuvante) e radioterapia (se aplicável) (ver secção 5.1).
+ Herceptin só deve ser utilizado em doentes cujos tumores apresentem ou sobre-expressão do HER2 ou amplificação do gene HER2, determinadas por um método exacto e validado (ver secção 4.4 e secção 5.1).
+ 2 4.2 Posologia e modo de administração
+ A determinação do HER2 é obrigatória antes do início da terapêutica com Herceptin (ver secção 4.4 e secção 5.1). O tratamento com Herceptin deverá apenas ser iniciado por um médico com experiência na administração de quimioterapia citotóxica (ver secção 4.4).
+ Cancro da mama metastático regime semanal:
+ A dose de carga e as doses subsequentes, a seguir indicadas, são recomendadas para utilização em monoterapia ou em associação com paclitaxel, docetaxel ou um inibidor da aromatase.
+ Dose de carga A dose de carga inicial recomendada de Herceptin é de 4 mg/kg de peso corporal.
+ Doses subsequentes A dose semanal recomendada de Herceptin é de 2 mg/kg de peso corporal, iniciando-se uma semana após a dose de carga.
+ Modo de administração Herceptin é administrado sob a forma de perfusão intravenosa durante 90 minutos. Os doentes devem ser vigiados durante pelo menos seis horas após o início da primeira perfusão e durante duas horas após o início das perfusões subsequentes, relativamente ao aparecimento de sintomas como febre, calafrios ou outros sintomas relacionados com a perfusão (ver secção 4.4 e secção 4.8). A interrupção da perfusão pode ajudar a controlar estes sintomas. A perfusão pode ser retomada após a diminuição dos sintomas. Se a dose de carga inicial for bem tolerada, as doses subsequentes podem ser administradas em perfusão durante 30 minutos. Deve estar disponível equipamento de emergência.
+ Administração em associação com paclitaxel ou docetaxel Nos ensaios principais, o paclitaxel ou o docetaxel foi administrado no dia seguinte à primeira administração de Herceptin (para obter informações sobre a dose consulte o Resumo das Características do Medicamento do paclitaxel ou do docetaxel) e imediatamente após as doses subsequentes de Herceptin se a dose anterior de Herceptin tiver sido bem tolerada.
+ Administração em associação com um inibidor da aromatase No ensaio principal, Herceptin e anastrozol foram administrados desde o dia 1. Não houve restrições quanto aos tempos relativos de administração de Herceptin e anastrozol (para obter informações sobre a dose, consulte o Resumo das Características do Medicamento do anastrozol ou de outro inibidor da aromatase).
+ Duração do tratamento Herceptin deve ser administrado até que se verifique progressão da doença.
+ Cancro da mama metastático regime de 3 em 3 semanas:
+ Em alternativa, a dose de carga e as doses subsequentes a seguir indicadas são recomendadas para utilização em monoterapia ou em associação com paclitaxel, docetaxel ou um inibidor da aromatase.
+ Dose de carga inicial de 8 mg/kg de peso corporal, seguida por 6 mg/kg de peso corporal após 3 semanas e, posteriormente, doses de 6 mg/kg repetidas com intervalos de 3 semanas, administradas em perfusões durante aproximadamente 90 minutos.
+ Duração do tratamento Herceptin deve ser administrado até que se verifique progressão da doença.
+ 3 Cancro da mama em fase precoce regime de 3 em 3 semanas:
+ No ensaio HERA, o Herceptin foi iniciado após o final da quimioterapia standard (mais frequentemente, regimes contendo antraciclinas ou antraciclinas mais um taxano)
+ Dose de carga inicial de 8 mg/kg de peso corporal, seguida por 6 mg/kg de peso corporal após 3 semanas e posteriormente doses de 6 mg/kg repetidas com intervalos de 3 semanas administradas em perfusões durante aproximadamente 90 minutos.
+ Os doentes com cancro da mama em fase precoce devem ser tratados durante 1 ano ou até recorrência da doença.
+ Cancro da mama em fase precoce regime semanal:
+ No contexto adjuvante, Herceptin também foi estudado num regime semanal (uma dose de carga inicial de 4 mg/kg seguida de 2 mg/kg todas as semanas durante um ano) em associação com o paclitaxel[ administrado semanalmente (80 mg/m2) ou de três em três semanas (175 mg/m2) durante um total de 12 semanas] na sequência de quatro ciclos de AC (doxorrubicina 60 mg/m2 por injecção intravenosa rápida e administração concomitante de ciclofosfamida 600 mg/m2 durante 20-30 minutos).
+ Cancro da mama metastático e cancro da mama em fase precoce:
+ Não administrar por injecção intravenosa rápida ou bólus.
+ Para instruções de utilização e manipulação ver secção 6.6.
+ Redução da dose No decurso dos ensaios clínicos não foram feitas reduções da dose de Herceptin. Os doentes podem prosseguir a terapêutica com Herceptin durante os períodos de mielossupressão reversível, induzida pela quimioterapia mas devem ser cuidadosamente monitorizados durante esse período, no que se refere às complicações da neutropenia. Consulte o Resumo das Características do Medicamento do paclitaxel, docetaxel ou do inibidor da aromatase para obter informações sobre a redução da dose ou atraso na sua administração.
+ Omissão de doses durante o regime de 3 em 3 semanas Se o doente falhar uma dose de Herceptin por uma semana ou menos, então a dose habitual de Herceptin (6 mg/kg) deve ser administrada o mais rapidamente possível (não esperar até ao próximo ciclo planeado). As doses de manutenção de Herceptin subsequentes de 6 mg/kg devem ser administradas de 3 em 3 semanas, de acordo com o regime anterior.
+ Se o doente falhar uma dose de Herceptin por mais de uma semana, deverá ser administrada uma dose de re-carga (8 mg/kg durante aproximadamente 90 minutos). As doses de manutenção de Herceptin subsequentes de 6 mg/kg devem ser administradas de 3 em 3 semanas a partir dessa altura.
+ Grupos de doentes especiais Os dados clínicos mostram que a eliminação de Herceptin não é alterada pela idade do doente nem pela creatinina sérica (ver secção 5.2). Nos ensaios clínicos, as doentes idosas não receberam doses inferiores de Herceptin. Não foram realizados estudos farmacocinéticos específicos em idosos ou em insuficientes renais ou hepáticos. Contudo, na análise da farmacocinética da população, a idade e a insuficiência renal não demonstraram afectar a eliminação do trastuzumab.
+ Utilização em Pediatria Herceptin não é recomendado em crianças com idade inferior a 18 anos devido a dados insuficientes de segurança e eficácia.
+ 4 4.3 Contra-indicações
+ Doentes com hipersensibilidade conhecida ao trastuzumab, proteínas murinas ou a qualquer um dos excipientes. Doentes com dispneia grave em repouso, devido a complicações da neoplasia avançada ou que precisem de terapêutica suplementar com oxigénio.
+ 4.4 Advertências e precauções especiais de utilização
+ A determinação do HER2 deve ser realizada num laboratório especializado, que assegure uma validação adequada dos procedimentos do teste (ver secção 5.1).
+ Actualmente não estão disponíveis dados de ensaios clínicos sobre a repetição do tratamento de doentes com exposição anterior ao Herceptin, em contexto adjuvante.
+ A utilização de Herceptin está associada a cardiotoxicidade. Todos os candidatos à terapêutica com Herceptin deverão ser submetidos a uma cuidadosa monitorização cardíaca (ver “ cardiotoxicidade ”). O risco de cardiotoxicidade é maior quando o Herceptin é utilizado em associação com antraciclinas. Assim, não se deve utilizar Herceptin e antraciclinas em associação, excepto no âmbito de ensaios clínicos bem controlados, com monitorização cardíaca. Os doentes que tenham recebido previamente antraciclinas também apresentam risco de cardiotoxicidade com o tratamento com Herceptin, apesar do risco ser menor do que o verificado com a utilização concomitante de Herceptin e antraciclinas.
+ Uma vez que a semi-vida de Herceptin é de aproximadamente 28,5 dias (intervalo de confiança de 95%; 25, 5-32,8 dias), Herceptin pode permanecer em circulação até 24 semanas após a suspensão do tratamento com Herceptin. Os doentes tratados com antraciclinas após suspensão da terapêutica com Herceptin, podem apresentar um risco aumentado de cardiotoxicidade. Se possível, o médico deverá evitar a terapêutica com antraciclinas durante um período até 24 semanas após a suspensão de Herceptin. No caso de se utilizarem antraciclinas a função cardíaca do doente deverá ser cuidadosamente monitorizada (ver “ cardiotoxicidade ”).
+ Em doentes em tratamento com Herceptin observaram-se reacções adversas graves, incluindo reacções à perfusão, hipersensibilidade, reacções do tipo alérgico e acontecimentos pulmonares. Os doentes com dispneia em repouso devido a complicações da neoplasia em estado avançado e patologias associadas, podem apresentar risco aumentado de ocorrência de uma reacção fatal à perfusão. Estas reacções graves foram habitualmente associadas à primeira perfusão de Herceptin e ocorreram, geralmente, durante ou imediatamente após a perfusão. Para alguns doentes, os sintomas agravaram-se progressivamente e conduziram a outras complicações pulmonares. Foram também relatados casos de melhoria inicial, seguidos de deterioração do estado clínico e reacções tardias com rápida deterioração do estado clínico. Ocorreram casos fatais nas horas que se seguiram à perfusão e até uma semana após a perfusão. Em situações muito raras, os doentes começaram a apresentar os sintomas de reacção à perfusão ou os sintomas pulmonares mais de seis horas após o início da perfusão de Herceptin. Os doentes devem ser advertidos da possibilidade de ocorrência tardia do início das reacções e devem ser instruídos a contactar o médico caso estes sintomas ocorram.
+ Reacções à perfusão, reacções do tipo alérgico e hipersensibilidade As reacções adversas graves à perfusão de Herceptin, que foram relatadas pouco frequentemente, incluem dispneia, hipotensão, sibilos, hipertensão, broncospasmo, taquiarritmia supraventricular, diminuição da saturação de oxigénio, anafilaxia, dificuldades respiratórias, urticária e angioedema (ver secção 4.8). A maioria destes acontecimentos ocorre durante a perfusão ou nas 2,5 horas após o início da primeira perfusão. Se ocorrer uma reacção à perfusão, a perfusão de Herceptin deve ser interrompida e o doente deve ser monitorizado até desaparecimento de qualquer sintoma observado (ver secção 4.2). Na maioria dos doentes os sintomas desapareceram e os doentes receberam, subsequentemente, perfusões de Herceptin. As reacções graves foram tratadas com sucesso com terapêutica de suporte como oxigénio, agonistas dos receptores beta e corticosteróides. Raramente, estas reacções estiveram associadas a uma evolução clínica com consequências fatais. Os doentes com dispneia em repouso devido a complicações da neoplasia em estado avançado e patologias associadas,
+ 5 podem apresentar um risco aumentado de ocorrência de uma reacção fatal à perfusão. Assim, estes doentes não devem ser tratados com Herceptin (ver secção 4.3).
+ Acontecimentos pulmonares Após a comercialização do Herceptin, foram notificados, raramente, acontecimentos graves pulmonares (ver secção 4.8). Estes acontecimentos raros tiveram ocasionalmente consequências fatais. Além disto, foram notificados casos raros de infiltrados pulmonares, síndroma de dificuldade respiratória aguda, pneumonia, pneumonite, derrame pleural, dificuldades respiratórias, edema pulmonar agudo e insuficiência respiratória. Estes acontecimentos podem manifestar-se no âmbito da reacção relacionada com a perfusão ou manifestar-se tardiamente. Os doentes com dispneia em repouso devido a complicações da neoplasia em estado avançado e patologias associadas, podem apresentar risco aumentado de ocorrência de acontecimentos pulmonares. Assim, estes doentes não devem ser tratados com Herceptin (ver secção 4.3). Deve ter-se cuidado em relação à ocorrência de pneumonite, especialmente em doentes que estejam a ser tratados concomitantemente com taxanos.
+ Cardiotoxicidade Observou-se insuficiência cardíaca (classe II/IV da “ New York Heart Association[ NYHA]) em doentes em tratamento apenas com Herceptin ou em associação com paclitaxel ou docetaxel, particularmente após quimioterapia com uma antraciclina (doxorrubicina ou epirrubicina). A insuficiência cardíaca pode ser moderada a grave e tem sido associada a morte (ver secção 4.8).
+ Todos os candidatos a tratamento com Herceptin, mas especialmente aqueles com exposição prévia a antraciclinas e ciclofosfamida (AC), devem ser submetidos a cuidadosa avaliação da função cardíaca antes do início do tratamento, incluindo história clínica e exame físico, ECG, ecocardiograma ou MUGA ou imagiologia por ressonância magnética. Deve ser efectuada uma cuidadosa avaliação do risco-benefício antes da tomada de decisão para efectuar um tratamento com Herceptin.
+ Não existem dados acerca do perfil risco-benefício nos seguintes doentes uma vez que foram excluídos do ensaio HERA (cancro da mama em fase precoce), e como tal, não se recomenda o tratamento nos mesmos: • História documentada de ICC • Arritmias não controladas de elevado risco • Angina de peito que necessite de medicação • Doença valvular clinicamente significativa • Evidência de enfarte transmural no ECG • Hipertensão pouco controlada
+ Deverá ser considerada uma avaliação cardiológica formal nos doentes para os quais tenham sido detectadas preocupações cardiovasculares, aquando da avaliação inicial. A função cardíaca deverá ser monitorizada posteriormente durante o tratamento (p. ex. cada três meses). A monitorização pode ajudar a identificar doentes que desenvolvam disfunção cardíaca. No caso de doentes com cancro da mama em fase precoce, a avaliação cardíaca, tal como realizada no início, deverá ser repetida cada 3 meses durante o tratamento e aos 6,12 e 24 meses após a interrupção do tratamento. Os doentes que desenvolvam disfunção cardíaca assintomática podem beneficiar com uma monitorização mais frequente (p. ex. cada 6-8 semanas). Se os doentes apresentarem uma diminuição progressiva da função ventricular esquerda, mas permanecerem assintomáticos, o médico poderá considerar a descontinuação da terapêutica no caso de não se observar benefício clínico da terapêutica com Herceptin. Deve-se ter cuidado ao tratar doentes com insuficiência cardíaca sintomática, história de hipertensão, ou doença coronária arterial comprovada e nos doentes com cancro da mama em fase precoce que apresentem uma fracção de ejecção ventricular esquerda igual ou inferior a 55%.
+ Se a fracção de ejecção ventricular esquerda baixar 10 pontos de ejecção a partir do valor inicial e para um valor inferior a 50%, o Herceptin deverá ser suspenso e deverá efectuar-se uma nova avaliação da fracção de ejecção ventricular esquerda no prazo de aproximadamente 3 semanas. Se a fracção de ejecção ventricular esquerda não tiver melhorado, ou se tiver diminuído mais, deve ser fortemente considerada a interrupção de Herceptin, a menos que os benefícios para o doente ultrapassem os
+ 6 riscos. Todos estes doentes deverão ser referenciados para avaliação e seguimento por um cardiologista.
+ Se se desenvolver insuficiência cardíaca sintomática durante a terapêutica com Herceptin, esta deverá ser tratada com a medicação habitual para este estado clínico. A descontinuação da terapêutica com Herceptin deverá ser fortemente considerada nos doentes que desenvolvam insuficiência cardíaca significativa, excepto se as vantagens para um dado doente sejam consideradas superiores aos riscos.
+ A segurança relativamente à continuação ou ao retomar da administração de Herceptin em doentes que apresentem cardiotoxicidade não foi estudada prospectivamente. No entanto, a maior parte dos doentes que desenvolveram insuficiência cardíaca nos ensaios principais melhoraram com o tratamento médico habitual. O tratamento incluiu diuréticos, glicosidos cardíacos, bloqueadores beta e/ou inibidores da enzima de conversão da angiotensina. A maioria dos doentes com sintomas cardíacos e indícios de benefício clínico com o tratamento com Herceptin prosseguiu a terapêutica semanal com Herceptin sem desenvolvimento de outros acontecimentos clínicos cardíacos.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Não foram realizados estudos de interacção. Não se pode excluir o risco de ocorrência de interacção com a medicação utilizada concomitantemente.
+ 4.6 Gravidez e aleitamento Gravidez Foram realizados estudos de reprodução no macaco cinomolgo, com doses até 25 vezes superiores à dose de manutenção semanal de 2 mg/kg de Herceptin no ser humano, que revelaram a inexistência de diminuição da fertilidade ou de dano no feto. Observou-se que o trastuzumab atravessa a placenta durante o período inicial (dias 20-50 da gestação) e tardio (dias 120-150 da gestação) do desenvolvimento fetal. Desconhece-se se Herceptin pode causar dano fetal quando administrado na mulher grávida ou se pode afectar a capacidade reprodutora. Uma vez que os estudos de reprodução realizados no animal nem sempre permitem prever a resposta humana, deve-se evitar a utilização de Herceptin durante a gravidez, excepto se o benefício potencial para a mãe superar o potencial risco para o feto.
+ Após a comercialização, foram notificados casos de oligohidrâmnios em mulheres grávidas a receber tratamento com Herceptin.
+ Lactação Um estudo realizado no macaco cinomolgo lactante, com doses até 25 vezes superiores à dose de manutenção semanal de 2 mg/kg de Herceptin no ser humano, demonstrou que o trastuzumab é secretado no leite. A presença de trastuzumab no plasma do macaco bebé não foi associada a nenhum efeito adverso no seu crescimento ou desenvolvimento entre o nascimento e 1 mês de idade. Desconhece-se se o trastuzumab é secretado no leite humano. Uma vez que a IgG humana é secretada no leite humano e se desconhece o potencial perigo para o bebé, deve evitar-se o aleitamento durante o tratamento com Herceptin e até 6 meses após a última dose de Herceptin.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade para conduzir e utilizar máquinas. Os doentes com sintomas relacionados com a perfusão devem ser aconselhados a não conduzir nem utilizar máquinas até desaparecimento dos sintomas.
+ 7 4.8 Efeitos indesejáveis
+ Cancro da mama metastático Os dados relativos aos acontecimentos adversos reflectem a experiência de utilização de Herceptin em ensaios clínicos e durante a comercialização, de acordo com o regime posológico recomendado quer como monoterapia quer em associação com paclitaxel.
+ Os doentes receberam Herceptin como monoterapia ou em associação com paclitaxel, nos dois ensaios clínicos principais. As reacções adversas mais frequentes são sintomas relacionados com a perfusão, tais como febre e calafrios, normalmente após a primeira perfusão de Herceptin.
+ As reacções adversas atribuídas a Herceptin em ≥ 10% dos doentes nos dois ensaios clínicos principais foram as seguintes:
+ Organismo como um todo: Gastrointestinais: Músculo-esqueléticos: Pele e apêndices:
+ dor abdominal, astenia, dor torácica, calafrios, febre, cefaleias, dor diarreia, náuseas e vómitos artralgia, mialgia erupção cutânea
+ As reacções adversas atribuídas a Herceptin em &gt; 1% e &lt; 10% dos doentes nos dois ensaios clínicos principais foram as seguintes:
+ Organismo como um todo: estado gripal, lombalgia, infecção, cervicalgia, mal-estar, reacção de hipersensibilidade, mastite, perda de peso
+ Cardiovasculares: vasodilatação, taquiarritmia supraventricular, hipotensão, insuficiência cardíaca, cardiomiopatia, palpitações
+ Gastrointestinais: anorexia, obstipação, dispepsia, hipersensibilidade hepática dolorosa, secura da boca, alterações rectais (hemorróidas)
+ Hematológicas e linfáticas Metabólicas: Músculo-esqueléticas: Nervosas:
+ leucopenia, equimoses edema periférico, edema dor óssea, cãibras nas pernas, artrite tonturas, parestesias, sonolência, hipertonia, neuropatia periférica, tremor
+ Perturbações do foro psiquiátrico
+ ansiedade, depressão, insónia
+ Respiratórias: asma, intensificação da tosse, dispneia, epistaxis, alterações pulmonares, faringite, rinite, sinusite
+ Urogenitais: Pele e apêndices:
+ Infecção urinária Prurido, sudação, alterações ungueais, secura da pele, alopecia, acne, erupção cutânea maculopapulosa
+ Órgãos dos sentidos: Alteração do paladar Num outro ensaio clínico aleatorizado (M77001), os doentes com neoplasia metastizada da mama foram tratados com docetaxel, com ou sem Herceptin. O quadro seguinte indica os acontecimentos adversos notificados em ≥ 10% dos doentes, por tratamento usado no ensaio:
+ 8 Acontecimentos adversos não hematológicos frequentes, relatados em ≥ 10% dos Tabela 1 doentes, por tratamento
+ Herceptin mais docetaxel docetaxel
+ Sistemas de órgãos Acontecimento adverso N= 92 (%) N= 94 (%) Perturbações gerais e astenia edema periférico fadiga Inflamação das mucosas
+ 45 40 24 23
+ 41 35 21 22 alterações no local de
+ piréxia
+ 29 15 administração
+ dor
+ 12 9 Afecções dos tecidos letargia dor torácica síndrome gripal arrepios alopecia
+ 7 11 12 11 67
+ 11 5 2 1 54 cutâneos e
+ alterações ungueais
+ 17 21 subcutâneas
+ erupção cutânea
+ 24 12 Doenças eritema náuseas diarreia vómitos
+ 23 43 43 29
+ 11 41 36 22 gastrointestinais
+ obstipação
+ 27 23 estomatite dor abdominal dispepsia parestesia
+ 20 12 14 32
+ 14 12 5 21 Doenças do sistema nervoso Doenças do sangue e do sistema linfático
+ cefaleias disgeusia hipoestesia neutropenia febril1/sépsis neutropénica
+ 21 14 11 23
+ 18 12 5 17 Afecções musculosqueléticas e dos tecidos conjuntivos
+ mialgia artralgia dor nas extremidades lombalgia dor óssea tosse
+ 27 27 16 10 14 13
+ 26 20 16 14 6 16 Doenças respiratórias, torácicas e do mediastino Infecções e
+ dispneia dor faríngeo-laríngea epistaxis rinorreia
+ 14 16 18 12
+ 15 9 5 1 infestações
+ nasofaringite
+ 15 6 Afecções oculares aumento da lacrimação
+ 21 10 conjuntivite
+ 12 7 9 docetaxel Herceptin mais docetaxel Sistemas de órgãos
+ Acontecimento adverso N= 94 N = 92 (%)
+ (%)
+ Vasculopatias Doenças do edema linfático
+ 11 6 metabolismo e da nutrição
+ anorexia
+ 22 13 Exames complementares de diagnóstico
+ aumento do peso
+ 15 6 Perturbações do foro psiquiátrico Complicações de intervenções
+ insónia
+ 11 4 relacionadas com lesões e intoxicações 1
+ toxicidade ungueal
+ 11 7 Estes valores incluem doentes com “ neutropenia febril ”, “ sépsis neutropénica ” ou “ neutropenia ” associadas a febre (e utilização de antibiótico). Ver também a secção 4.8 Verificou-se um aumento da incidência de acontecimentos adversos graves (AAGs) (40% vs. 31%) e AAs de grau 4 (34% vs. 23%) no braço da associação, comparativamente com o docetaxel em monoterapia.
+ Num outro ensaio clínico aleatorizado (BO16216), os doentes com cancro da mama metastizado HER2 positivo, com receptores hormonais positivos, foram tratados com anastrozol, com ou sem Herceptin. Neste ensaio, não se verificaram alterações no perfil de segurança, em comparação com ensaios anteriores no cancro da mama metastizado. O quadro seguinte indica os acontecimentos adversos notificados em ≥ 10% dos doentes, de acordo com o tratamento usado no estudo:
+ Resumo dos acontecimentos adversos com uma taxa de incidência de, pelo menos, ≥ Tabela 2 10%, de acordo com os braços de tratamento
+ Acontecimento adverso Arimidex mais Herceptin N=103 Nº (%)
+ Arimidex em monoterapia N=104 Nº (%)
+ Fadiga Diarreia Vómitos Artralgia Piréxia Lombalgia Dispneia Náuseas Tosse Cefaleias Nasofaringite Dor óssea Obstipação Arrepios
+ 22 (21) 21 (20) 22 (21) 15 (15) 18 (17) 15 (15) 13 (13) 17 (17) 14 (14) 14 (14) 17 (17) 11 (11) 12 (12) 15 (15)
+ 10 (10) 8 (8) 5 (5) 10 (10) 7 (7) 7 (7) 9 (9) 5 (5) 6 (6) 6 (6) 2 (2) 6 (6) 5 (5)-
+ As percentagens são baseadas no N. As ocorrências múltiplas do mesmo acontecimento adverso, num indivíduo, contaram apenas uma vez. Nota: Em relação aos doentes do braço Arimidex, em monoterapia, que mudaram para Herceptin, são
+ 10 Acontecimento adverso
+ Arimidex mais Herceptin N=103 Nº (%)
+ Arimidex em monoterapia N=104 Nº (%)
+ apenas mostrados os acontecimentos adversos anteriores à primeira administração de Herceptin.
+ Verificou-se um aumento da incidência de acontecimentos adversos graves (23% vs. 6%) e de acontecimentos adversos de grau 3/4 (25% vs. 15%) no braço da associação, comparativamente ao anastrozol em monoterapia.
+ Cancro da mama em fase precoce O ensaio HERA é um estudo aleatorizado sem ocultação em doentes com cancro da mama HER2 positivo em fase precoce (ver secção 5.1 Propriedades farmacodinâmicas). A tabela 3 inclui os acontecimentos adversos que foram notificados ao fim de um ano em ≥ 1% dos doentes, por tratamento.
+ Tabela 3 Acontecimentos adversos notificados ao fim de um ano em ≥ 1% dos doentes, por tratamento do estudo
+ Apenas Herceptin 1 observação ano Acontecimento adverso (AA) N= 1708 N= 1678
+ Sistema de Afecções
+ órgãos No. (%) No. (%) Total de doentes com pelo 792 (46) 1179 (70) menos um AA 2251 5248 Numero total de AAs artralgia* 98 (6) 137 (8) dor nas costas* 59 (3) 91 (5) dor nas extremidades 45 (3) 60 (4) mialgia* 17 (&lt; 1) 63 (4)
+ musculoesqueléticas e dos tecidos conjuntivos
+ dor óssea dor no ombro dor na parede torácica espasmos musculares*
+ 26 (2) 29 (2) 24 (1) 3 (&lt; 1)
+ 49 (3) 30 (2) 26 (2) 45 (3) dor musculoesquelética
+ 11 (&lt; 1) 17 (1) nasofaringite*
+ 43 (3) 135 (8) gripe* infecção das vias respiratórias superiores*
+ 9 (&lt; 1) 20 (1) 69 (4) 46 (3) infecção do tracto urinário
+ 13 (&lt; 1) 39 (2) Infecções e infestações Perturbações gerais e
+ rinite sinusite cistite faringite bronquite herpes zoster fadiga* edema periférico pirexia* astenia*
+ 6 (&lt; 1) 5 (&lt; 1) 11 (&lt; 1) 9 (&lt; 1) 9 (&lt; 1) 9 (&lt; 1) 44 (3) 38 (2) 6 (&lt; 1) 30 (2)
+ 36 (2) 26 (2) 19 (1) 20 (1) 18 (1) 17 (1) 128 (8) 79 (5) 100 (6) 75 (4)
+ alterações no local de administração
+ arrepios* dor torácica* estado gripal edema mal-estar torácico
+ -22 (1) 3 (&lt; 1) 7 (&lt; 1) 2 (&lt; 1)
+ 85 (5) 45 (3) 40 (2) 18 (1) 20 (1) Doenças diarreia*
+ 16 (&lt; 1) 123 (7) 11 Herceptin 1 Apenas ano observação Acontecimento adverso (AA) N= 1678 N= 1708 No. (%)
+ Sistema de órgãos Total de doentes com pelo No. (%) 792 (46) 1179 (70) menos um AA Numero total de AAs
+ 2251 5248 gastrointestinais
+ náusea*
+ 19 (1) 108 (6) vómitos* dor abdominal obstipação dor abdominal alta dispepsia gastrite estomatite
+ 10 (&lt; 1) 16 (&lt; 1) 17 (&lt; 1) 15 (&lt; 1) 9 (&lt; 1) 11 (&lt; 1) 1 (&lt; 1)
+ 58 (3) 40 (2) 33 (2) 29 (2) 30 (2) 20 (1) 26 (2)
+ cefaleia*
+ 49 (3) 161 (10) Doenças do sistema tonturas*
+ 29 (2) 60 (4) nervoso
+ parestesia vertigens afrontamento
+ 11 (&lt; 1) 7 (&lt; 1) 84 (5)
+ 29 (2) 25 (1) 98 (6) Vasculopatias Afecções dos tecidos
+ hipertensão* linfoedema erupção cutânea* prurido
+ 35 (2) 40 (2) 10 (&lt; 1) 10 (&lt; 1)
+ 64 (4) 42 (3) 70 (4) 40 (2) cutâneos e subcutâneas
+ anomalia das unhas*
+ -
+ 43 (3) Doenças respiratórias, onicorréxis eritema tosse* dispneia
+ 1 (&lt; 1) 7 (&lt; 1) 34 (2) 26 (2)
+ 36 (2) 24 (1) 81 (5) 56 (3) torácicas e do
+ dor faringolaríngea
+ 8 (&lt; 1) 32 (2) mediastino
+ dispneia de esforço
+ 15 (&lt; 1) 21 (1) rinorreia epistaxe
+ 5 (&lt; 1) 1 (&lt; 1) 24 (1) 24 (1) Doenças dos órgãos genitais e da mama
+ dor mamária
+ 19 (1) 24 (1) Perturbações do foro insónia
+ 31 (2) 58 (3) psiquiátrico
+ depressão
+ 34 (2) 51 (3) ansiedade palpitações* insuficiência cardíaca
+ 19 (1) 12 (&lt; 1) 39 (2) 48 (3) Cardiopatias congestiva
+ 5 (&lt; 1) 30 (2) taquicardia
+ 5 (&lt; 1) 20 (1) Exames complementares de diagnóstico
+ fracção de ejecção diminuída* diminuição do peso
+ 11 (&lt; 1) 17 (&lt; 1) 58 (3) 29 (2) Doenças renais e urinárias disúria
+ 2 (&lt; 1) 17 (1) * Acontecimentos adversos que foram notificados com uma incidência superior (diferença &gt; 2%) no grupo com Herceptin comparativamente com o grupo de observação e que como tal podem ser atribuídos ao Herceptin.
+ A informação seguinte é relevante para todas as indicações:
+ 12 Reacções Adversas Graves Nos ensaios clínicos, ou no decurso da experiência obtida após a comercialização, ocorreu, em pelo menos um dos doentes tratados apenas com Herceptin ou com Herceptin em associação com a quimioterapia, pelo menos uma das seguintes reacções adversas graves:
+ Sistema de órgãos Acontecimento adverso Organismo como um todo reacção de hipersensibilidade, anafilaxia e choque anafiláctico, angioedema, ataxia, septicemia, calafrios e febre, astenia, febre, rigidez, cefaleias, paresia, dor torácica, fadiga, sintomas relacionados com a perfusão, edema periférico, dor óssea, coma, meningite, edema cerebral, alterações do pensamento, progressão da neoplasia
+ Cardiovasculares cardiomiopatia, insuficiência cardíaca congestiva, agravamento da insuficiência cardíaca congestiva, diminuição da fracção de ejecção, hipotensão, derrame pleural, bradicardia, alterações cerebrovasculares, insuficiência cardíaca, choque cardiogénico, pericardite
+ Gastrointestinais lesão hepatocelular, hipersensibilidade hepática dolorosa, diarreia, naúseas e vómitos, pancreatite, insuficiência hepática, icterícia
+ Hematológicas ou Linfáticas Infecções Metabólicas Músculo-esqueléticas Nervosas Renais Respiratórias
+ leucemia, neutropenia febril, neutropenia, trombocitopenia, anemia, hipoprotrombinemia celulite, erisipela hipercaliemia mialgia degeneração cerebelar paraneoplásica glomerulonefrite membranosa, glomerulonefropatia, insuficiência renal broncospasmo, dificuldade respiratória, edema pulmonar agudo, insuficiência respiratória, dispneia, hipóxia, edema laríngeo, dificuldade respiratória aguda, síndroma de dificuldade respiratória aguda, respiração Cheyne-Stokes, infiltrados pulmonares, pneumonia, pneumonite, fibrose pulmonar
+ Pele e apêndices Órgãos dos sentidos
+ erupção cutânea, dermatite, urticária, síndrome de Stevens-Johnson edema da papila, lacrimejo anómalo, hemorragias na retina, surdez
+ Sintomas associados à perfusão Durante a primeira perfusão com Herceptin, é comum observar-se calafrios e/ou febre. Outros sinais e/ou sintomas podem incluir náuseas, hipertensão, vómitos, dor, rigidez, cefaleias, tosse, tonturas, erupção cutânea e astenia. Estes sintomas são, normalmente, de gravidade ligeira a moderada e ocorrem com pouca frequência nas perfusões seguintes de Herceptin. Estes sintomas podem ser tratados com um analgésico/antipirético como meperidina ou paracetamol, ou com um anti-histamínico como a difenidramina (ver secção 4.2). Algumas reacções adversas à perfusão de Herceptin, incluindo dispneia, hipotensão, sibilos, broncospasmo, taquiarritmia supraventricular, diminuição da saturação de oxigénio e dificuldade respiratória podem ser graves e potencialmente fatais (ver secção 4.4).
+ Reacções de hipersensibilidade e do tipo alérgico Raramente, foi relatada a ocorrência de reacções alérgicas, anafilaxia e choque anafiláctico, urticária e angioedema durante a primeira perfusão de Herceptin. Mais de um terço destes doentes não desenvolveram estas reacções novamente e continuaram o tratamento com Herceptin. Algumas destas reacções podem ser graves e potencialmente fatais (ver secção 4.4).
+ 13 Acontecimentos graves do foro pulmonar Raramente, foram relatados casos isolados de infiltrados pulmonares, pneumonia, fibrose pulmonar, derrame pleural, dificuldade respiratória, edema pulmonar agudo, síndroma de dificuldade respiratória aguda (ARDS) e insuficiência respiratória. Estes acontecimentos foram notificados raramente com desenlace fatal (ver secção 4.4).
+ Toxicidade cardíaca Em doentes tratadas com Herceptin observou-se redução da fracção de ejecção e sinais e sintomas de insuficiência cardíaca tais como dispneia, ortopneia, intensificação da tosse, edema pulmonar e galope ventricular S3 (ver secção 4.4).
+ No quadro seguinte, é apresentada a incidência de acontecimentos adversos cardíacos, a partir de uma análise retrospectiva dos dados provenientes do estudo de terapêutica combinada (Herceptin e paclitaxel versus apenas paclitaxel) e o estudo de Herceptin como monoterapia:
+ Incidência de acontecimentos adversos cardíacos: n,% e[ limites de confiança 95%]
+ Herceptin mais paclitaxel N= 91
+ paclitaxel N= 95
+ Herceptin N= 213 Insuficiência cardíaca 8, 8,8% 4, 4,2% 18, 8,5% sintomática
+ [ 3,9-16,6]
+ [ 1,2-10,4]
+ [ 5,1-13,0]
+ Diagnóstico cardíaco diferente de insuficiência cardíaca
+ 4, 4,4%[ 1,2-10,9] 7, 7,4%[ 3,0-14,6] 7, 3,3%[ 1,3-6,7] No quadro seguinte apresenta-se a incidência de insuficiência cardíaca congestiva sintomática no estudo do Herceptin mais docetaxel versus apenas docetaxel (M77001): Insuficiência cardíaca
+ Herceptin mais docetaxel N= 92
+ docetaxel N= 94
+ sintomática
+ 2 (2,2%) 0% Neste estudo, todos os doentes apresentavam no início uma fracção de ejecção cardíaca superior a 50%. No braço de tratamento com Herceptin mais docetaxel,64% dos doentes tinham recebido previamente uma antraciclina, comparativamente com 55% no braço de tratamento apenas com docetaxel.
+ Resumo dos doentes com diminuição da fracção de ejecção ventricular esquerda de, pelo menos,15% (valor absoluto) desde o início (baseline), e valor absoluto da fracção de ejecção ventricular esquerda inferior a 50%-População de Segurança (antes do crossover)
+ Anastrozol+ Anastrozol Herceptin n=103 (monoterapia) n=104 0a
+ ICC sintomática 1 (&lt; 1%) 0b Diminuição confirmada da fracção de ejecção ventricular esquerda ≥ 15%, desde o início (baseline), e inferior a 50%
+ 1 (&lt; 1%) 0c Pelo menos uma diminuição da fracção de ejecção ventricular esquerda ≥ 15%, desde o início (baseline), e inferior a 50% a
+ 6 (5,8%) Um doente desenvolveu ICC sintomática depois do crossover para o regime contendo Herceptin, após progressão da doença b Dois doentes apresentaram diminuição confirmada da fracção de ejecção ventricular esquerda, depois do crossover para o regime contendo Herceptin, após progressão da doença c Quatro doentes apresentaram uma diminuição da fracção de ejecção ventricular esquerda, depois do cross over para o regime contendo Herceptin, após progressão da doença
+ 14 No ensaio HERA, foi observada insuficiência cardíaca-classe III-IV da NYHA, em 0,6% dos doentes no braço de tratamento de um ano. Foram observados acontecimentos assintomáticos ou ligeiramente sintomáticos da classe I-II da NYHA em 3,0% dos doentes, no braço de tratamento com Herceptin, comparativamente com 0,5% dos doentes no braço de observação. A percentagem de doentes com, pelo menos, uma diminuição significativa da fracção de ejecção ventricular esquerda (diminuição ≥10 pontos da fracção de ejecção e para um valor &lt; 50%), durante o estudo, foi de 7,4% no braço de tratamento de 1 ano com Herceptin versus 2,3% no braço de observação.
+ Toxicidade hematológica A toxicidade hematológica após a administração de Herceptin como monoterapia no contexto metastático é pouco frequente, ocorrendo leucopenia de grau 3 da OMS, trombocitopenia e anemia em &lt; 1% dos doentes. Não se observou toxicidade de grau 4 da OMS.
+ Verificou-se um aumento dos efeitos tóxicos hematológicos, de Grau 3 ou 4 da OMS, nos doentes tratados com a associação de Herceptin e paclitaxel em comparação com os ocorridos em doentes tratados apenas com paclitaxel (34% vs 21%). A toxicidade hematológica também aumentou nos doentes tratados com Herceptin e docetaxel, comparativamente com a observada nos doentes tratados apenas com docetaxel (32% de neutropenia de grau 3/4 versus 22%, usando os critérios da NCI-CTC). De notar que estes valores provavelmente estão subestimados, uma vez que se sabe que o docetaxel numa dose de 100 mg/m2 resultou em neutropenia em 97% dos doentes,76% de grau 4, baseado no nadir da contagem de células sanguíneas. A incidência de neutropenia febril/sépsis neutropénica também aumentou em doentes tratados com Herceptin mais docetaxel (23% versus 17% em doentes tratados apenas com docetaxel).
+ De acordo com os critérios da NCI-CTC, no ensaio HERA, 0,4% dos doentes tratados com Herceptin tiveram uma alteração de 3 ou 4 graus a partir do valor inicial, comparativamente com 0,6% dos doentes no braço de observação.
+ Toxicidade hepática e renal Observou-se toxicidade hepática de Grau 3 ou 4 (da OMS) em 12% dos doentes após a administração de Herceptin como monoterapia, no contexto metastático. Esta toxicidade esteve associada à progressão da doença hepática em 60% destes doentes. Menos frequentemente, observou-se toxicidade hepática de Grau 3 ou 4 da OMS nos doentes em tratamento com Herceptin e paclitaxel do que nos doentes em tratamento com paclitaxel (7% em comparação com 15%). Não se observou toxicidade renal de Grau 3 ou 4 da OMS em doentes em tratamento com Herceptin.
+ Diarreia 27% dos doentes tratados com Herceptin como monoterapia, no contexto metastático, apresentaram diarreia. Observou-se igualmente um aumento da incidência de diarreia, sobretudo de gravidade ligeira a moderada, em doentes em tratamento com Herceptin em associação com paclitaxel ou docetaxel em comparação com os doentes em tratamento apenas com paclitaxel ou docetaxel.
+ No ensaio HERA,7% dos doentes tratados com Herceptin tiveram diarreia.
+ Infecção Observou-se um aumento da incidência de infecções, principalmente infecções ligeiras do tracto respiratório superior com reduzido significado clínico ou infecções associadas ao catéter, principalmente em doentes tratados com Herceptin mais paclitaxel ou docetaxel em comparação com os doentes em tratamento apenas com paclitaxel ou docetaxel.
+ 4.9 Sobredosagem Não existe experiência de sobredosagem em ensaios clínicos. Nos ensaios clínicos, não foram administradas isoladamente doses únicas de Herceptin superiores a 10 mg/Kg. Doses até este limite (10 mg/Kg) foram bem toleradas.
+ 15 5. PROPRIEDADES FARMACOLÓGICAS
+ 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Agente antineoplásico, código ATC: L01XC03
+ O trastuzumab é um anticorpo monoclonal IgG1 humanizado recombinante do receptor-2 do factor de crescimento epidérmico humano (HER2). Observa-se sobre-expressão do HER2 em 20%-30% das neoplasias primárias da mama. Os estudos indicam que os doentes cujos tumores apresentam sobre-expressão do HER2, têm um tempo de sobrevida sem doença menor do que os doentes que não apresentam sobre-expressão do HER2. O domínio extracelular do receptor (ECD, p105) pode libertar-se na corrente sanguínea e pode ser determinado em amostras de soro.
+ Em ensaios in vitro e em estudos no animal, o trastuzumab demonstrou inibir a proliferação de células tumorais humanas com sobre-expressão do HER2. Adicionalmente, o trastuzumab é um mediador potente da citotoxicidade mediada por anticorpos (ADCC – antibody-dependent cell-mediated cytotoxicity). In vitro, a ADCC mediada pelo trastuzumab, tem demonstrado exercer-se preferencialmente nas células neoplásicas com sobre-expressão do HER2, comparativamente com células neoplásicas que não apresentam sobre-expressão do HER2.
+ Detecção da sobre-expressão do HER2 ou da amplificação do gene HER2 Herceptin só deve ser usado no tratamento de doentes cujos tumores apresentem sobre-expressão da proteína HER2 ou amplificação do gene HER2 determinadas por um método exacto e validado. A sobre-expressão do HER2 deve ser determinada pela avaliação imunohistoquímica (IHQ) de fragmentos de biópsia tumoral fixada (ver secção 4.4). A amplificação do gene HER2 deve ser determinada em fragmentos de biópsia tumoral fixada, utilizando a hibridização in situ de fluorescência (FISH) ou a hibridização in situ cromogénica (CISH). Os doentes podem ser recrutados para o tratamento com Herceptin se apresentarem uma sobre-expressão marcada do HER2, com classificação 3+ por IHQ ou apresentarem resultado positivo por FISH ou CISH.
+ Para garantir resultados precisos e reprodutíveis, a determinação deverá ser efectuada num laboratório especializado, que possa garantir a validação dos procedimentos do teste.
+ O sistema de classificação recomendado para avaliar o padrão de coloração do ensaio IHQ é o seguinte:
+ Classificação da intensidade da coloração
+ Padrão de coloração Avaliação da sobre-expressão HER2 Não se observa coloração ou observa-se coloração da membrana em &lt; 10% das células tumorais
+ Negativa 1+ Detecta-se uma coloração ligeira/quase imperceptível da membrana em &gt; 10% das células tumorais. Apenas parte da membrana celular se encontra corada.
+ Negativa 2+ Detecta-se uma coloração completa, fraca a moderada, da membrana em &gt; 10% das células tumorais.
+ Sobre-expressão fraca a moderada 3+ Detecta-se uma coloração completa, moderada a forte, da membrana em &gt; 10% das células tumorais.
+ Sobre-expressão moderada a forte De um modo geral, o teste FISH considera-se positivo se a razão entre o número de cópias do gene HER2 por célula tumoral e o número de cópias do cromossoma 17 for superior ou igual a 2, ou se existirem mais do que 4 cópias do gene HER2 por célula tumoral, no caso de não ser utilizado cromossoma 17 como controlo.
+ De um modo geral, o teste CISH considera-se positivo se existirem mais do que 5 cópias do gene HER2 por núcleo, em mais de 50% das células tumorais.
+ 16 Para instruções detalhadas sobre o modo de realização e interpretação do teste, consulte o folheto informativo dos testes validados FISH e CISH. Podem também ser aplicáveis as recomendações oficiais para a determinação do HER2.
+ Para qualquer outro método que possa seja utilizado na determinação da expressão da proteína ou do gene HER2, os testes devem ser efectuados apenas por laboratórios que utilizem métodos validados, de acordo com o estado da arte. Tais métodos devem ser suficientemente precisos e exactos para demonstrar a sobre-expressão do HER2 e devem permitir a distinção entre a sobre-expressão moderada (conformidade com 2+) e a intensa (conformidade com 3+).
+ Dados clínicos Herceptin tem sido utilizado em ensaios clínicos como monoterapia em doentes com neoplasia metastizada da mama cujos tumores apresentam sobre-expressão do HER2 e que apresentaram falência a um ou a mais regimes quimioterápicos no tratamento da doença metastizada (Apenas Herceptin).
+ Herceptin tem sido também utilizado em associação com paclitaxel ou docetaxel como terapêutica de doentes não submetidos anteriormente a quimioterapia para a doença metastizada. Os doentes que tinham anteriormente sido tratados com quimioterapia adjuvante com antraciclinas, foram tratados com paclitaxel (175 mg/m2 em perfusão durante 3 horas) com ou sem Herceptin. No ensaio principal do docetaxel (100 mg/m2 em perfusão durante 1 hora), com ou sem Herceptin,60% dos doentes tinham sido submetidos a quimioterapia adjuvante com antraciclinas. Os doentes foram tratados com Herceptin até progressão da doença.
+ Não foi estudada a eficácia de Herceptin em associação com paclitaxel em doentes que não foram tratados previamente com antraciclinas em adjuvante. No entanto, Herceptin mais docetaxel foi eficaz em doentes quer tenham ou quer não tenham previamente recebido antraciclinas em adjuvante. O método para determinação da sobre-expressão do HER2, utilizado para determinar a elegibilidade dos doentes para os ensaios clínicos principais de Herceptin em monoterapia e de Herceptin mais paclitaxel, envolveu a marcação imunohistoquímica para HER2 em material fixado obtido na biópsia de tumores mamários, utilizando anticorpos murinos monoclonais CB11 e 4D5. Estes tecidos foram fixados em formalina ou agente fixador de Bouin. Este doseamento para investigação da elegilibilidade para o ensaio clínico, realizado num laboratório central, utilizou uma escala de 0 a 3+. Os doentes classificados com colorações 2+ ou 3+ foram incluídos, enquanto que os que apresentavam colorações 0 ou 1+ foram excluídos. Mais de 70% dos doentes recrutados apresentavam sobre-expressão 3+. Os dados sugerem que os efeitos benéficos foram maiores nos doentes com níveis superiores de sobre-expressão do HER2 (3+).
+ O principal método de ensaio utilizado para determinar a positividade HER2, no ensaio principal do docetaxel, com ou sem Herceptin, foi a imunohistoquímica. Uma minoria de doentes foi submetida a testes de hibridização in situ de fluorescência (FISH). Neste ensaio,87% dos doentes recrutados apresentava doença IHQ3+, e 95% apresentava doença IHQ3+ e/ou FISH-positiva.
+ Eficácia Posologia semanal no cancro da mama metastático
+ Os resultados de eficácia provenientes dos estudos de monoterapia e terapêutica combinada estão resumidos na tabela seguinte:
+ 17 Parâmetro
+ Monoterapia Terapêutica combinada Herceptin1 Herceptin mais paclitaxel2
+ Paclitaxel2 Herceptin mais docetaxel3 Docetaxel3 N=172 N=68 N=77 N=92 N=94 Taxa de 18% 49% 17% 61% 34% resposta (IC 95%)
+ (13-25)
+ (36-61)
+ (9-27)
+ (50-71)
+ (25-45)
+ Duração 9,1 8,3 4,6 11,7 5,7 mediana da resposta (meses) (IC 95%)
+ (5, 6-10,3)
+ (7, 3-8,8)
+ (3, 7-7,4)
+ (9,3 – 15,0)
+ (4,6 – 7,6)
+ TTP mediana 3,2 7,1 3,0 11,7 6,1 (meses) (IC 95%)
+ (2, 6-3,5)
+ (6, 2-12,0)
+ (2, 0-4,4)
+ (9,2 – 13,5)
+ (5,4 – 7,2)
+ Sobrevivência 16,4 24,8 17,9 31,2 22,74 mediana (meses) (IC 95%)
+ (12, 3-ne)
+ (18, 6-33,7)
+ (11, 2-23,8)
+ (27,3 – 40,8)
+ (19,1 – 30,8)
+ TTP= “ time to progression ” (tempo decorrido até progressão da doença); “ ne”= indica que não pode ser estimado ou que não foi ainda obtido. 1. Estudo H0649g: subgrupo de doentes IHQ3+ 2. Estudo H0648g: subgrupo de doentes IHQ3+ 3. Estudo M77001: Análise global (intent-to-treat)
+ Tratamento com Herceptin e anastrozol em associação
+ Herceptin foi estudado em associação com anastrozol no tratamento de primeira linha do cancro da mama metastizado HER2 positivo, em doentes pós-menopáusicas com receptores hormonais positivos (i. e. receptores do estrogénio (RE) e/ou receptores da progesterona (RP )). No braço do Herceptin com anastrozol, a sobrevivência livre de progressão duplicou, quando comparada com o anastrozol (4,8 meses versus 2,4 meses). Relativamente aos outros parâmetros, com a associação obtiveram: resposta global (16,5% versus 6,7%); taxa de benefício clínico (42,7% versus 27,9%); tempo até progressão (4,8 meses versus 2,4 meses). No que diz respeito ao tempo até resposta e duração da resposta, não foram registadas diferenças entre os braços. Nos doentes do braço da associação, a sobrevivência global mediana foi aumentada em 4,6 meses. A diferença não foi estatisticamente significativa; no entanto, mais de metade dos doentes do braço de anastrozol (em monoterapia), mudaram para um regime contendo Herceptin, após progressão da doença.
+ Posologia de 3 em 3 semanas no cancro da mama metastático
+ Os resultados de eficácia provenientes dos estudos não comparativos de monoterapia e terapêutica combinada estão resumidos na tabela seguinte:
+ 18 Parâmetro
+ Monoterapia Terapêutica combinada Herceptin1 Herceptin2 Herceptin mais paclitaxel3 Herceptin mais docetaxel4 N=105 N=72 N=32 N=110 Taxa de resposta (IC 95%) 24% 27% 59% 73% Duração mediana da resposta (meses)
+ (15-35) 10,1
+ (14-43) 7,9
+ (41-76) 10,5
+ (63-81) 13,4
+ (intervalo)
+ (2, 8-35,6)
+ (2, 1-18,8)
+ (1, 8-21)
+ (2, 1-55,1)
+ TTP mediana (meses) 3,4 7,7 12,2 13,6 (IC 95%)
+ (2, 8-4,1)
+ (4, 2-8,3)
+ (6, 2-ne)
+ (11-16)
+ Sobrevivência mediana (meses) (IC 95%)
+ ne
+ ne
+ ne
+ 47,3 (32-ne) TTP= “ time to progression ” (tempo decorrido até progressão da doença); “ ne ” indica que não pode ser estimado ou que não foi ainda obtido. 1. Estudo WO16229: dose de carga de 8 mg/kg, seguida de 6 mg/kg no regime de 3 em 3 semanas 2. Estudo MO16982: dose de carga de 6 mg/kg semanal x 3; seguida de 6 mg/kg no regime de 3 em 3 semanas 3. BO15935 4. MO16419
+ Cancro da mama em fase precoce O cancro da mama em fase precoce é definido como um carcinoma da mama primário invasivo, não metastático. No ensaio HERA, o cancro da mama em fase precoce incluiu apenas adenocarcinoma da mama primário operável, invasivo, com pelo menos 1 cm de diâmetro e gânglios axilares positivos ou negativos.
+ No contexto adjuvante, o Herceptin foi investigado num ensaio multicêntrico e aleatorizado (HERA), desenhado para comparar um ano de tratamento com Herceptin administrado de 3 em 3 semanas versus observação em doentes com cancro da mama HER2 positivo em fase precoce, na sequência de cirurgia, quimioterapia estabelecida e radioterapia (se aplicável). Aos doentes recrutados para receberem Herceptin foi-lhes administrado uma dose de carga inicial de 8 mg/kg, seguido de 6 mg/kg de 3 em 3 semanas durante um ano.
+ Os resultados de eficácia do ensaio HERA encontram-se resumidos na tabela seguinte:
+ 19 Parâmetro Sobrevivência livre de doença
+ Observação N=1693 Herceptin 1 Ano N= 1693 Valor de P vs Observação Probabilidade de risco vs Observação -No. doentes com acontecimento
+ 219 (12,9%) 127 (7,5%) &lt; 0,0001
+ 0,54 -No. doentes sem acontecimento Sobrevivência livre de recorrência
+ 1474 (87,1%) 1566 (92,5%) -No. doentes com acontecimento
+ 208 (12,3%) 113 (6,7%) &lt; 0,0001
+ 0,51 -No. doentes sem acontecimento Sobrevivência livre de metastização à distância
+ 1485 (87,7%) 1580 (93,3%) -No. doentes com acontecimento
+ 184 (10,9%) 99 (5,8%) &lt; 0,0001
+ 0,50 -No. doentes sem acontecimento
+ 1508 (89,1%) 1594 (94,6%) Para o ponto limite (endpoint) primário, sobrevivência livre de doença, a probabilidade de risco traduz-se num benefício absoluto, em termos de taxa de sobrevivência livre de doença a 2 anos, de 7,6 pontos percentuais (85,8% vs 78,2%) a favor do braço com Herceptin.
+ Imunogenicidade Novecentos e três doentes tratados com Herceptin, isolado ou em associação com quimioterapia foram avaliados quanto à produção de anticorpos. Foram detectados anticorpos humanos anti-trastuzumab num doente que não apresentava manifestações alérgicas.
+ Locais de progressão Após terapêutica da neoplasia metastizada da mama, com Herceptin e paclitaxel, em doentes que participaram no ensaio principal, observaram-se os seguintes locais de progressão da doença: Local*
+ Herceptin mais paclitaxel (N= 87)%
+ paclitaxel (N= 92)%
+ valor de p
+ Qualquer local 70,1 95,7 Abdómen Osso Tórax Fígado Pulmão Nódulos distais Mediastino SNC Outros
+ 0 17,2 5,7 21,8 16,1 3,4 4,6 12,6 4,6
+ 0 16,3 13,0 45,7 18,5 6,5 2,2 6,5 9,8
+ -0,986 0,250 0,004 0,915 0,643 0,667 0,377 0,410
+ * Os doentes podiam apresentar vários locais de progressão da doença
+ A frequência de progressão hepática foi significativamente reduzida em doentes tratados com a associação Herceptin e paclitaxel. Houve mais doentes tratados com Herceptin e paclitaxel com progressão no sistema nervoso central do que doentes tratados apenas com paclitaxel.
+ 20 5.2 Propriedades farmacocinéticas
+ A farmacocinética do trastuzumab foi estudada em doentes com cancro da mama metastático e cancro da mama em fase precoce. As perfusões intravenosas, de curta duração, de 10,50,100,250, e 500 mg de trastuzumab, uma vez por semana, realizadas em doentes, revelaram uma farmacocinética dependente da dose. Não foram efectuados estudos de interacção medicamentosa com Herceptin.
+ Semi-vida A semi-vida é de aproximadamente 28,5 dias (intervalo de confiança de 95%; 25, 5-32,8 dias). O período de enfraquecimento (washout) é de 24 semanas (intervalo de confiança de 95%; 18-24 semanas).
+ Concentração no Estado Estacionário A farmacocinética no estado estacionário deverá ser atingida em aproximadamente,20 semanas (intervalo de confiança de 95%; 18-24 semanas). Numa avaliação farmacocinética da população de ensaios clinicos de fase I, II e III no cancro da mama metastático a AUC média estimou-se em 578 mg dia/l e as concentrações médias no pico e no vale estimaram-se em, respectivamente,110 mg/l e 66 mg/l. Em doentes com cancro da mama em fase precoce aos quais foi administrada uma dose de carga de Herceptin de 8 mg/kg seguida cada três semanas por 6 mg/kg foram atingidas concentrações no vale no estado estacionário de 63 mg/l ao fim do ciclo 13 (semana 37). As concentrações foram comparáveis com as reportadas previamente em doentes com cancro da mama metastático.
+ Depuração A depuração diminuiu com o aumento da dose. Nos ensaios clínicos em que se utilizou como dose de carga 4 mg/Kg de trastuzumab e doses semanais subsequentes de 2 mg/Kg, a depuração média foi de 0, 225l/dia.
+ Foi avaliado o efeito das características individuais do doente (como a idade ou a creatinina sérica) na distribuição e depuração do trastuzumab. Os dados sugerem que a distribuição e a depuração do trastuzumab não é alterada em nenhum destes grupos de doentes (ver secção 4.2), no entanto, os estudos não foram especificamente concebidos para investigar o impacto da insuficiência renal na farmacocinética. Volume de Distribuição Em todos os estudos clínicos, o volume de distribuição aproximou-se do volume sérico, 2,95 l.
+ Antigénio livre em circulação (shed antigen) Foram determinadas concentrações séricas detectáveis do domínio extracelular do receptor do HER2 (antigénio livre ou shed antigen) em alguns doentes com neoplasia da mama com sobre-expressão do HER2. A determinação deste antigénio em amostras séricas no início do tratamento revelou que 64% dos doentes (286/447) apresentavam antigénio livre detectável, que variava até um valor máximo de 1880 ng/ml (mediana 11 ng/ml). Os doentes com concentrações superiores deste antigénio no início do estudo apresentavam, mais frequentemente, concentrações plasmáticas mínimas de Herceptin inferiores. Contudo, com a posologia semanal, a maioria dos doentes com concentrações elevadas de antigénio livre atingiram as concentrações séricas desejadas de trastuzumab na 6ª semana e não se observou relação significativa entre os níveis de antigénio livre antes do início do tratamento e a resposta clínica.
+ 5.3 Dados de segurança pré-clínica Em estudos com duração até 6 meses, não se observaram indícios de existência de toxicidade aguda ou de toxicidade relacionada com a administração de doses múltiplas, nem se observou toxicidade reprodutiva em estudos de teratogenicidade, de fertilidade da fêmea ou de toxicidade na fase tardia da gestação/passagem através da placenta. Herceptin não é genotóxico. Um estudo da trealose, um dos principais excipientes da formulação, não revelou toxicidade.
+ Não foram realizados estudos no animal, a longo prazo, para estabelecer o potencial carcinogénico de Herceptin nem para determinar os seus efeitos na fertilidade do macho.
+ 21 6. INFORMAÇÕES FARMACÊUTICAS
+ 6.1. Lista dos excipientes cloridrato de histidina histidina α, α-trealose, di-hidratada polissorbato 20
+ 6.2 Incompatibilidades Não diluir com soluções de glucose uma vez que pode ocorrer a agregação das proteínas.
+ Herceptin não deve ser misturado nem diluído com outros produtos, excepto os mencionados em 6.6.
+ 6.3 Prazo de validade 4 anos. Após reconstituição com água para preparações injectáveis estéril, a solução reconstituída é física e quimicamente estável durante 48 horas a 2ºC-8ºC. A solução reconstituída não utilizada deverá ser eliminada.
+ As soluções de Herceptin para perfusão são física e quimicamente estáveis em sacos de cloreto de polivinilo, de polietileno ou de polipropileno, contendo cloreto de sódio a 0,9%, durante 24 horas, a temperatura não superior a 30 ºC.
+ Do ponto de vista microbiológico, a solução reconstituída e a solução para perfusão de Herceptin deverão ser utilizadas imediatamente. O medicamento não deve ser guardado após a reconstituição e diluição, excepto se a diluição tiver ocorrido sob condições assépticas, controladas e validadas. Se não for utilizado imediatamente, as condições e os tempos de conservação serão da responsabilidade do utilizador.
+ 6.4 Precauções especiais de conservação
+ Conservar no frigorífico (2°C-8°C). Não congelar a solução reconstituída. 6.5 Natureza e conteúdo do recipiente Frasco para injectáveis com Herceptin: Um frasco para injectáveis, de 15 ml, de vidro transparente do tipo I, com tampa de borracha butílica laminada com um filme de fluororesina. Cada embalagem contém um frasco para injectáveis.
+ 6.6 Precauções especiais de eliminação
+ Preparação para administração Deve utilizar-se uma técnica asséptica adequada. Cada frasco para injectáveis com Herceptin deve ser reconstituído com 7,2 ml de água para preparações injectáveis estéril (não é fornecida). Deverá ser evitada a utilização de outros solventes para a reconstituição. Obter-se-á uma solução de 7,4 ml para utilização única contendo aproximadamente 21 mg/ml de trastuzumab com um pH de, aproximadamente, 6,0. Uma sobrecarga de volume de 4% garante que se possa retirar de cada frasco para injectáveis a dose de 150 mg.
+ 22 Herceptin deve ser cuidadosamente manipulado durante a reconstituição. Provocar a formação de uma quantidade excessiva de espuma durante a reconstituição ou agitar a solução reconstituída de Herceptin pode dar origem a problemas relativamente à quantidade de Herceptin que pode ser retirada do frasco para injectáveis.
+ Instruções para a reconstituição: 1) utilizando uma seringa estéril, injectar lentamente 7,2 ml de água para injectáveis estéril no frasco para injectáveis que contém Herceptin liofilizado, dirigindo o jacto para o liofilizado. 2) rodar suavemente o frasco para injectáveis para promover a reconstituição. NÃO AGITE!
+ Não é invulgar a formação de alguma espuma com a reconstituição. Deixe o frasco para injectáveis em repouso durante aproximadamente 5 minutos. Herceptin reconstituído apresenta-se como uma solução transparente, incolor a amarelo pálido, e deverá apresentar-se praticamente isenta de partículas visíveis.
+ Determine o volume de solução necessário: • com base numa dose de carga de 4 mg de trastuzumab/kg de peso corporal ou uma dose subsequente semanal de 2 mg de trastuzumab/kg de peso corporal:
+ Volume (ml)= Peso corporal (kg) x dose (4 mg/kg dose de carga ou 2 mg/kg dose de manutenção) 21 (mg/ml, concentração da solução reconstituída)
+ •
+ com base numa dose de carga de 8 mg de trastuzumab/kg de peso corporal ou uma dose subsequente de 3 em 3 semanas de 6 mg de trastuzumab/kg de peso corporal:
+ Volume (ml)= Peso corporal (kg) x dose (8 mg/kg dose de carga ou 6 mg/kg dose de manutenção) 21 (mg/ml, concentração da solução reconstituída)
+ Deve retirar a quantidade adequada de solução do frasco para injectáveis e adicioná-la a um saco de perfusão contendo 250 ml de cloreto de sódio a 0,9%. Não utilize soluções com glucose (ver secção 6.2). O saco deve ser invertido suavemente para misturar a solução, de forma a evitar a formação de espuma. Os medicamentos que se destinam à administração parentérica devem ser inspeccionados visualmente quanto à presença de partículas sólidas ou de coloração antes da administração. A perfusão deve ser administrada imediatamente após a sua preparação. Se a diluição for realizada em assépsia, a solução pode ser conservada durante 24 horas (não guardar acima de 30ºC).
+ Não se observou incompatibilidade entre Herceptin e os sacos de cloreto de polivinil, de polietileno ou de polipropileno.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Roche Registration Limited 6 Falcon Way Shire Park Welwyn Garden City AL7 1TW Reino Unido
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/00/145/001 23 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 28 de Agosto,2000/28 de Agosto,2005 10. DATA DA REVISÃO DO TEXTO 24 ANEXO II
+ A. FABRICANTE(S) DA(S) SUBSTÂNCIA(S) ACTIVA(S) DE ORIGEM BIOLÓGICA E TITULAR(ES) DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 25 A FABRICANTE(S) DA(S) SUBSTÂNCIA(S) ACTIVA(S) DE ORIGEM BIOLÓGICA E TITULAR(ES) DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do(s) fabricante(s) da(s) substância(s) activa(s) de origem biológica
+ Roche Diagnostics GmbH, Pharma Biotechnology Production Nonnenwald 2 82372 Penzberg Alemanha
+ Genentech Inc. 1000 New Horizons Way Vacaville, CA 95688 EUA
+ Nome e endereço do(s) fabricante(s) responsável(veis) pela libertação do lote
+ Roche Pharma AG Emil-Barell-Strasse 1 D-79639 Grenzach-Wyhlen Alemanha
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento de receita médica restrita, de utilização reservada a certos meios especializados (ver anexo I: Resumo das Características do Medicamento, secção 4.2.)
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ Não aplicável. • OUTRAS CONDIÇÕES
+ O Titular da Autorização de Introdução no Mercado continuará a submeter relatórios periódicos de segurança (RPSs) de seis em seis meses.
+ 26 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 27 A. ROTULAGEM
+ 28 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ CARTONAGEM 1. NOME DO MEDICAMENTO Herceptin 150 mg pó para concentrado para solução para perfusão
+ Trastuzumab 2. DESCRIÇÃO DA(S) SUBSTÂNCIAS(S) ACTIVA(S)
+ O frasco para injectáveis contém 150 mg de trastuzumab. Após reconstituição,1 ml de concentrado contém 21 mg de trastuzumab
+ 3. LISTA DOS EXCIPIENTES Cloridrato de histidina, histidina, polissorbato 20, α, α-trealose di-hidratada.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 1 frasco para injectáveis 5. MODO E VIA(S) DE ADMINISTRAÇÃO Para administração por via intravenosa após reconstituição e diluição Consultar o folheto informativo antes de utilizar
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças
+ 7. OUTRA(S) ADVERTÊNCIA(S) ESPECIAI(S), SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico 29 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Roche Registration Limited 6 Falcon Way Shire Park Welwyn Garden City AL7 1TW Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/00/145/001 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE &lt; Foi aceite a justificação para não incluir a informação em Braille &gt;
+ 30 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ RÓTULO DO FRASCO PARA INJECTÁVEIS 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Herceptin 150 mg pó para concentrado para solução para perfusão
+ Trastuzumab Para administração por via intravenosa 2. MODO DE ADMINISTRAÇÃO 3. PRAZO DE VALIDADE VAL. 4. NÚMERO DO LOTE Lote 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 6. OUTRAS 31 B. FOLHETO INFORMATIVO
+ 32 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Herceptin 150 mg pó para concentrado para solução para perfusão trastuzumab
+ Leia atentamente este folheto antes de utilizar este medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico.
+ Neste folheto: 1. O que é Herceptin e para que é utilizado 2. Antes de utilizar Herceptin 3. Como utilizar Herceptin 4. Efeitos secundários possíveis 5. Como conservar Herceptin 6. Outras informações
+ 1. O QUE É HERCEPTIN E PARA QUE É UTILIZADO
+ Cada embalagem de Herceptin contém um frasco para injectáveis. Este frasco para injectáveis contém um pó para concentrado para solução para perfusão, liofilizado, branco a amarelo pálido. O pó liofilizado deve ser reconstituído e diluído antes de ser utilizado.
+ Herceptin contém a substância activa trastuzumab, que é um anticorpo monoclonal humanizado. Este anticorpo é semelhante aos anticorpos produzidos naturalmente pelo organismo e que o protegem contra as infecções causadas por vírus e bactérias. Os anticorpos monoclonais são proteínas que reconhecem e se ligam especificamente a outras proteínas específicas do organismo denominadas antigénios. O trastuzumab liga-se selectivamente a um antigénio chamado factor de crescimento epidérmico humano 2 (HER2). O HER2 encontra-se em grandes quantidades na superfície de algumas células do cancro, estimulando o seu crescimento. Quando o Herceptin se liga ao HER2, impede o crescimento dessas células.
+ Herceptin é prescrito por médicos para o tratamento de doentes com cancro da mama em fase precoce, sendo utilizado depois de ter terminado a sua quimioterapia, e para o tratamento de doentes com cancro da mama metastático (isto é, cancro da mama que já se disseminou para além do tumor inicial), cujos tumores produzem grandes quantidades de HER2. Em situações em que outros tratamentos não foram bem sucedidos, utiliza-se apenas Herceptin. Herceptin é também utilizado, em associação com quimioterapia com paclitaxel ou docetaxel como tratamento de primeira escolha do cancro da mama metastático. Herceptin também é utilizado em associação com um inibidor da aromatase, no tratamento de doentes com cancro da mama metastizado HER2-positivo com receptores hormonais positivos.
+ Se for tratado com Herceptin e paclitaxel, docetaxel ou um inibidor da aromatase, deverá ler também o Folheto Informativo destes medicamentos.
+ 33 2. ANTES DE UTILIZAR HERCEPTIN
+ Não utilize Herceptin -se tem alergia (hipersensibilidade) ao trastuzumab, a proteínas murinas (de rato) ou a qualquer
+ outro componente de Herceptin;
+ -se tem problemas respiratórios graves em repouso, devido ao cancro, ou se precisar de
+ tratamento com oxigénio.
+ Tome especial cuidado com Herceptin -Se já alguma vez tiver tido insuficiência cardíaca, doença arterial coronária ou tensão arterial
+ alta. Isto é devido ao facto de Herceptin poder causar insuficiência cardíaca.
+ -Se tiver feito quimioterapia com um medicamento chamado doxorrubicina ou um com um
+ medicamento parecido com a doxorrubicina (o seu médico pode aconselhá-la sobre esta questão). Estes medicamentos podem danificar o músculo do coração e aumentar o risco de ter problemas cardíacos com Herceptin.
+ -Se tiver dificuldades de respiração. O Herceptin pode causar dificuldades respiratórias,
+ especialmente quando é administrado pela primeira vez. Esta situação pode ser mais grave se já estiver com dificuldades respiratórias.
+ Para além das dificuldades respiratórias, o Herceptin pode causar febre, calafrios, sintomas semelhantes à gripe, inchaço da face e dos lábios, erupção cutânea, sibilos (“ silvos de gato ”), distúrbios do ritmo cardíaco e alterações da tensão arterial. Estes efeitos ocorrem essencialmente com a primeira perfusão e nas primeiras horas que se seguem ao início da perfusão. Ocasionalmente os sintomas começam mais de 6 horas após o início da perfusão. Por vezes, os sintomas podem melhorar, e mais tarde virem a piorar. Se lhe surgir algum destes problemas, contacte o seu médico imediatamente. Consequentemente, será observado por um profissional de saúde durante a administração da perfusão, durante pelo menos seis horas após o início da primeira perfusão e nas duas horas após o início das perfusões seguintes. Se desenvolver uma reacção, o profissional de saúde irá diminuir ou parar a perfusão e ser-lhe-à administrado tratamento para controlar os efeitos secundários. Muito raramente, os doentes que já apresentavam dificuldades respiratórias graves antes do tratamento morreram quando lhes foi administrado Herceptin. O médico irá acompanhar de perto o tratamento com Herceptin. O tratamento com Herceptin pode afectar o coração. Assim, o funcionamento do seu coração será controlado antes e durante o tratamento com Herceptin. Se desenvolver qualquer sinal de insuficiência cardíaca (isto é, bombeamento irregular do sangue pelo coração), o seu médico poderá ter de parar o Herceptin.
+ A eliminação de Herceptin do organismo pode demorar até 6 meses. Assim, deve informar o seu médico ou farmacêutico de que tomou Herceptin se iniciar qualquer novo medicamento nos 6 meses que se seguirem à suspensão de Herceptin.
+ Ao utilizar Herceptin com outros medicamentos: Informe o seu médico ou farmacêutico se estiver a tomar ou se tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica.
+ Por favor informe o seu médico ou farmacêutico de que lhe foi administrado Herceptin, se iniciar qualquer medicamento nos 6 meses seguintes à suspensão do tratamento com Herceptin.
+ Utilização em crianças e adolescentes Actualmente, o Herceptin não é recomendado para doentes com idade inferior a 18 anos, uma vez que não existe informação suficiente neste grupo de idades.
+ Gravidez e aleitamento Antes de iniciar o tratamento deverá informar o médico se está grávida, se pensa que pode estar grávida ou se pretende engravidar. Em casos raros, foi observada em mulheres grávidas a receber tratamento com Herceptin, uma redução na quantidade de líquido que rodeia o feto em
+ 34 desenvolvimento (amniótico). O seu médico irá aconselhá-la sobre os riscos e benefícios de ser tratada com Herceptin durante a gravidez.
+ Não amamente o seu bebé durante o tratamento com Herceptin nem durante 6 meses após a última dose de Herceptin.
+ Consulte o seu médico ou farmacêutico antes de tomar qualquer medicamento.
+ Condução de veículos e utilização de máquinas Desconhece-se se o Herceptin pode afectar a capacidade de conduzir um veículo ou utilizar máquinas. No entanto, se apresentar sintomas, como calafrios e febre, durante a perfusão de Herceptin (ver secção 4.) não deverá conduzir nem utilizar máquinas até que estes sintomas desapareçam.
+ 3. COMO UTILIZAR HERCEPTIN Dose e frequência de administração O médico prescrever-lhe-á a dose e regime de tratamento adequado ao seu caso. A dose de Herceptin depende do seu peso. O número de perfusões que receber dependerá da sua resposta ao tratamento. O seu médico discutirá consigo este assunto.
+ Para o cancro da mama em fase precoce, Herceptin é administrado de 3 em 3 semanas. A perfusão intravenosa (“ gota a gota ”) será administrada durante aproximadamente 90 minutos.
+ Para o cancro da mama metastático, Herceptin é administrado uma vez por semana. É administrado sob a forma de uma perfusão (“ gota a gota ”) intravenosa por um profissional de saúde. A primeira dose é administrada durante 90 minutos. As doses seguintes poderão ser administradas durante 30 minutos. Também será vigiado durante algum tempo após o final de cada perfusão (ver secção 2. em “ Tome especial cuidado com Herceptin ”).
+ Alternativamente, para o cancro da mama metastático, Herceptin também pode ser administrado de 3 em 3 semanas. A perfusão intravenosa (“ gota a gota ”) será administrada durante aproximadamente 90 minutos.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todos os medicamentos, Herceptin pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas. Alguns desses efeitos secundários podem ser graves e podem levar à hospitalização.
+ Durante uma perfusão de Herceptin, podem ocorrer calafrios, febre e outros sintomas do tipo gripal. Estes efeitos são muito frequentes (mais de 10 em 100 doentes). Ocorrem principalmente com a primeira perfusão e são temporários. Outros sintomas relacionados com a perfusão são: sensação de enjoo (náuseas), vómitos, dor, aumento da tensão muscular e tremor, dor de cabeça, tonturas, dificuldades respiratórias, sibilos (“ silvos de gato ”), tensão arterial alta ou baixa, alterações do ritmo cardíaco (palpitações, coração acelerado ou batimento irregular do coração), inchaço da face e dos lábios, erupção cutânea e sensação de cansaço. Estes sintomas podem ser graves e alguns doentes morreram (ver secção 2. em “ Tome especial cuidado com Herceptin ”). Será observado por um profissional de saúde durante e após cada perfusão. Se se manifestar alguma reacção, o profissional de saúde pode diminuir ou interromper a perfusão e administrar-lhe tratamento de forma a controlar os efeitos secundários. A perfusão poderá continuar se os sintomas melhorarem. Em qualquer altura, durante o tratamento com Herceptin, podem surgir outros efeitos secundários para além dos relacionados com a perfusão. Por vezes podem ocorrer problemas cardíacos e estes podem ser graves. Incluem-se enfraquecimento do músculo cardíaco que pode levar a insuficiência cardíaca, inflamação da membrana que reveste o coração (pericardite) e alterações do ritmo cardíaco. O seu médico irá monitorizar o seu coração regularmente durante o tratamento, mas deve informá-lo
+ 35 imediatamente se sentir dificuldades respiratórias (incluindo dificuldades respiratórias à noite), tosse, retenção de líquidos (inchaço) nas pernas ou braços, ou palpitações (coração acelerado ou batimento irregular do coração).
+ Outros efeitos secundários muito frequentes do Herceptin, que ocorrem em mais de 10 em 100 doentes são: diarreia, fraqueza, erupções cutâneas, dor no peito, dor abdominal, dor articular e dor muscular.
+ Outros efeitos secundários frequentes do Herceptin, que ocorrem em menos de 10 em 100 doentes são: reacções alérgicas, alterações no número das células sanguíneas (anemia, diminuição do número de plaquetas e diminuição do número de glóbulos brancos), obstipação, azia (dispepsia), infecções, incluindo infecções da bexiga e da pele, zona, inflamação da mama, inflamação do pâncreas ou do fígado, alterações no rim, tónus/tensão muscular aumentados (hipertonia), tremor, dormência ou formigueiro nos dedos das mãos e pés, alterações das unhas, queda de cabelo, dificuldade em adormecer (insónia), sonolência, sangramento do nariz, acne, comichão, secura da boca e da pele, olhos secos ou lacrimejantes, sudação, sensação de fraqueza e má disposição, ansiedade, depressão, pensamento anómalo, tonturas, perda de apetite, perda de peso, alteração do paladar, asma, alterações nos pulmões, dor nas costas, dor no pescoço, dor óssea, cãibras nas pernas, hemorróidas, nódoas negras e artrite.
+ Alguns dos efeitos secundários que sentir podem ser devidos ao próprio cancro da mama. Se receber Herceptin em associação com quimioterapia, alguns desses efeitos também podem ser devidos à quimioterapia.
+ Caso sinta algum dos efeitos secundários mencionados neste folheto ou detectar algum dos efeitos secundários não mencionados neste folheto informativo, por favor informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR HERCEPTIN Manter fora do alcance e da vista das crianças.
+ Conservar no frigorífico (2ºC-8ºC). Não utilize este medicamento após o prazo de validade impresso na embalagem exterior e no rótulo do frasco para injectáveis (VAL).
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Herceptin -A substância activa é o trastuzumab. Cada frasco para injectáveis contém 150 mg de
+ trastuzumab. Os outros componentes são cloridrato de histidina, histidina, α, α-trealose di-hidratada,
+ -
+ polissorbato 20.
+ Qual o aspecto de Herceptin e conteúdo da embalagem
+ Herceptin 150 mg Pó para concentrado para solução para perfusão trastuzumab
+ 36 Titular da Autorização de Introdução no Mercado Roche Registration Limited 6 Falcon Way Shire Park Welwyn Garden City AL7 1TW Reino Unido
+ Fabricante Roche Pharma AG Emil-Barell-Strasse 1 D-79639 Grenzach-Wyhlen Alemanha
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado.
+ België/Belgique/Belgien N. V. Roche S. A. Tél/Tel: +32 (0) 2 525 82 11
+ Luxembourg/Luxemburg (Voir/siehe Belgique/Belgien)
+ България Рош България ЕООД Тел: +359 2 818 44 44
+ Magyarország Roche (Magyarország) Kft. Tel: +36-23 446 800
+ Česká republika Roche s. r. o. Tel: +420-2 20382111
+ Malta (See United Kingdom) Danmark Roche a/s Tlf: +45-36 39 99 99
+ Nederland Roche Nederland B. V. Tel: +31 (0) 348 438050
+ Deutschland Roche Pharma AG Tel: +49 (0) 7624 140
+ Norge Roche Norge AS Tlf: +47-22 78 90 00
+ Eesti Österreich Roche Eesti OÜ Tel:+ 372-6 177 380
+ Roche Austria GmbH Tel: +43 (0) 1 27739 Ελλάδα Roche (Hellas) A. E. Τηλ: +30 210 61 66 100
+ Polska Roche Polska Sp. z o. o. Tel: +48-22 345 18 88
+ España Roche Farma S. A. Tel: +34-91 324 81 00
+ Portugal Roche Farmacêutica Química, Lda Tel: +351-21 425 70 00
+ France Roche Tél: +33 (0) 1 46 40 50 00
+ România Roche România S. R. L. Tel: +40 21 206 47 01
+ Ireland Roche Products (Ireland) Ltd. Tel: +353 (0) 1 469 0700
+ Slovenija Roche farmacevtska družba d. o. o. Tel: +386-1 360 26 00
+ 37 Ísland Roche a/s c/o Icepharma hf Sími: +354 540 8000
+ Slovenská republika Roche Slovensko, s. r. o. Tel: +421-2 52638201
+ Italia Roche S. p. A. Tel: +39-039 2471
+ Suomi/Finland Roche Oy Puh/Tel: +358 (0) 10 554 500
+ Kύπρος Γ. Α. Σταμάτης &amp; Σια Λτδ. Τηλ: +357-22 76 62 76
+ Sverige Roche AB Tel: +46 (0) 8 726 1200 Latvija Roche Latvija SIA Tel: +371-7 039831
+ United Kingdom Roche Products Ltd. Tel: +44 (0) 1707 366000
+ Lietuva UAB “ Roche Lietuva ” Tel: +370 5 2546799
+ Este folheto foi revisto pela última vez em
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia do Medicamento (EMEA) http: //www. emea. europa. eu/
+ A informação que se segue destina-se apenas aos médicos e aos profissionais dos cuidados de saúde
+ Mantenha sempre este medicamento na embalagem original fechada a uma temperatura de 2-8 ºC, no frigorífico. Um frasco para injectáveis com Herceptin reconstituído com água para preparações injectáveis (não é fornecida) é estável durante 48 horas a 2-8 ºC após reconstituição e não deve ser congelado.
+ Deve utilizar-se uma técnica asséptica adequada. Cada frasco para injectáveis com Herceptin deve ser reconstituído com 7,2 ml de água para preparações injectáveis estéril (não é fornecida). Deve ser evitada a utilização de outros solventes para a reconstituição. Obter-se-á uma solução de 7,4 ml para utilização única contendo aproximadamente 21 mg/ml de trastuzumab com um pH de, aproximadamente, 6,0. Uma sobrecarga de volume de 4% garante que se possa retirar de cada frasco para injectáveis a dose de 150 mg.
+ Herceptin deve ser cuidadosamente manipulado durante a reconstituição. Provocar a formação de uma quantidade excessiva de espuma durante a reconstituição ou agitar a solução reconstituída de Herceptin pode dar origem a problemas relativamente à quantidade de Herceptin que pode ser retirada do frasco para injectáveis.
+ Instruções para a reconstituição: 1) utilizando uma seringa estéril, injectar lentamente 7,2 ml de água para preparações injectáveis estéril no frasco para injectáveis que contém Herceptin liofilizado, dirigindo o jacto para o liofilizado. 2) rodar suavemente o frasco para injectáveis para promover a reconstituição. NÃO AGITE!
+ Não é invulgar a formação de alguma espuma com a reconstituição. Deixe o frasco para injectáveis em repouso durante aproximadamente 5 minutos. Herceptin reconstituído apresenta-se como uma solução
+ 38 transparente, incolor a amarelo pálido, e deverá apresentar-se praticamente isenta de partículas visíveis.
+ Determine o volume de solução necessário: • com base numa dose de carga de 4 mg de trastuzumab/kg de peso corporal ou uma dose subsequente semanal de 2 mg de trastuzumab/kg de peso corporal:
+ Volume (ml)= Peso corporal (kg) x dose (4 mg/kg dose de carga ou 2 mg/kg dose de manutenção) 21 (mg/ml, concentração da solução reconstituída)
+ •
+ com base numa dose de carga de 8 mg de trastuzumab/kg de peso corporal ou uma dose subsequente de 3 em 3 semanas de 6 mg de trastuzumab/kg de peso corporal:
+ Volume (ml)= Peso corporal (kg) x dose (8 mg/kg dose de carga ou 6 mg/kg dose de manutenção) 21 (mg/ml, concentração da solução reconstituída)
+ Deve retirar a quantidade adequada de solução do frasco para injectáveis e adicioná-la a um saco de perfusão de cloreto de polivinilo, de polietileno ou de polipropileno, contendo 250 ml de cloreto de sódio a 0,9%. Não utilize soluções com glucose. O saco deve ser invertido suavemente para misturar a solução, de forma a evitar a formação de espuma. Os medicamentos que se destinam à administração parentérica devem ser inspeccionados visualmente quanto à presença de partículas sólidas ou de coloração antes da administração. A perfusão deve ser administrada imediatamente após a sua preparação. Se a diluição for realizada em assépsia, a solução pode ser conservada durante 24 horas (não guardar acima de 30ºC).
+ 39

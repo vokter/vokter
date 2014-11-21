@@ -1,0 +1,299 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. DENOMINAÇÃO DO MEDICAMENTO
+ Orfadin 2 mg cápsulas. 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada cápsula contém 2 mg de nitisinona. Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Cápsula. Cápsulas brancas opacas, marcadas com “ NTBC 2mg ” num dos lados da cápsula.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Tratamento de doentes com diagnóstico confirmado de tirosinemia hereditária do tipo 1 (HT-1) em associação com a restrição dietética de tirosina e fenilalanina.
+ 4.2 Posologia e modo de administração O tratamento com nitisinona deve ser iniciado e supervisionado por um médico com experiência no tratamento de doentes com HT-1. O tratamento de todos os genótipos da doença deve ser iniciado o mais precocemente possível para aumentar a sobrevida global e evitar complicações como insuficiência hepática, cancro hepático e doença renal. Como adjuvante do tratamento com nitisinona, é necessária uma dieta com restrição de fenilalanina e tirosina que deve ser controlada pela monitorização dos aminoácidos plasmáticos (ver as secções 4.4 e 4.8).
+ A dose de nitisinona deve ser ajustada em função de cada indivíduo.
+ A dose inicial recomendada é de 1 mg/kg do peso corporal/dia dividida em 2 doses para administração por via oral. A cápsula pode ser aberta e o conteúdo suspenso numa pequena quantidade de água ou na fórmula dietética imediatamente antes da ingestão.
+ Ajuste da dose Durante a monitorização regular, é apropriado seguir a succinilacetona urinária, os valores da função hepática e os níveis da alfa-fetoproteína (ver a secção 4.4). Se a succinilacetona ainda for detectada um mês após o início do tratamento com nitisinona, a dose de nitisinona deve ser aumentada para 1,5 mg/kg do peso corporal/dia e dividida em 2 doses. Pode ser necessária uma dose de 2 mg/kg do peso corporal/dia com base na avaliação de todos os parâmetros bioquímicos. Esta dose deve ser considerada como a dose máxima para todos os doentes.
+ Se a resposta bioquímica for satisfatória, a dose só deve ser ajustada em função do aumento do peso corporal.
+ No entanto, além dos testes acima indicados, durante o início da terapêutica ou no caso de uma deterioração pode ser necessário efectuar um controlo mais rigoroso de todos os parâmetros bioquímicos disponíveis (isto é, succinilacetona plasmática, 5-aminolevulinato (ALA) urinário e a actividade da porfobilinogénio (PBG)-sintase eritrocitária).
+ 2 4.3 Contra-indicações
+ Hipersensibilidade à substância activa ou a qualquer um dos excipientes.
+ As mães medicadas com nitisinona não devem amamentar (ver 4.6 e 5.3).
+ 4.4 Advertências e precauções especiais de utilização
+ Restrição dietética em relação a perturbações visuais Recomenda-se que seja efectuado um exame dos olhos com uma lâmpada de fenda antes do início do tratamento com nitisinona. Um doente que apresente perturbações visuais durante o tratamento com nitisinona deve ser examinado sem demora por um oftalmologista. Deve estabelecer-se que o doente adere ao seu regime dietético e determinar-se a concentração plasmática de tirosina. Deve implementar-se uma dieta com uma maior restrição de tirosina e fenilalanina se o nível plasmático de tirosina for superior a 500 micromoles/l. Não é recomendável diminuir a concentração plasmática de tirosina reduzindo ou interrompendo a nitisinona, dado que o defeito metabólico pode causar a deterioração do estado clínico do doente.
+ Monitorização hepática A função hepática deve ser monitorizada regularmente através de provas da função hepática e de imagiologia do fígado. Recomenda-se também a monitorização da concentração sérica da alfa-fetoproteína. O aumento da concentração sérica da alfa-fetoproteína pode ser um sinal de tratamento insuficiente. Doentes que apresentem níveis crescentes de alfa-fetoproteína ou sinais de nódulos no fígado devem ser sempre avaliados para detecção de malignidade hepática.
+ Monitorização das plaquetas e dos leucócitos Recomenda-se que seja efectuada a monitorização regular das contagens de plaquetas e leucócitos, dado terem sido observados alguns casos de trombocitopenia e leucopenia reversíveis durante a avaliação clínica.
+ Deverão realizar-se visitas de controlo cada seis meses; no caso de serem detectados efeitos adversos, recomenda-se que o intervalo entre as visitas seja reduzido.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Não foram realizados estudos formais de interacção com outros medicamentos.
+ A nitisinona é metabolizada in vitro pelo CYP 3A4 podendo, portanto, ser necessário efectuar ajustes posológicos quando a nitisinona é co-administrada com inibidores ou com indutores desta enzima.
+ Com base em estudos in vitro, não é de esperar que a nitisinona iniba o metabolismo mediado pelos CYP 1A2, 2C9, 2C19, 2D6, 2E1 ou 3A4.
+ Não foram realizados estudos formais de interacções com alimentos. Contudo, a nitisinona foi co-administrada com alimentos durante a produção dos dados de eficácia e segurança. Portanto, recomenda-se que se a nitisinona foi iniciada com alimentos, deve manter-se assim numa base de rotina.
+ 4.6 Gravidez e aleitamento Gravidez Não existem dados suficientes sobre a utilização da nitisinona em mulheres grávidas. Os estudos em animais revelaram toxicidade reprodutiva (ver a secção 5.3). Desconhece-se o risco potencial para o ser humano. A nitisinona não dever ser utilizada durante a gravidez, a menos que tal seja claramente necessário.
+ 3 Aleitamento Não se sabe se a nitisinona é excretada no leite materno. Estudos em animais demonstraram efeitos adversos pós-natais através da exposição à nitisinona no leite. Portanto, as mães medicadas com nitisinona não devem amamentar dado que não se pode excluir um risco para a criança que está a ser amamentada (ver as secções 4.3 e 5.3).
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas.
+ 4.8 Efeitos indesejáveis As reacções adversas consideradas pelo menos possivelmente relacionadas com o tratamento estão indicadas a seguir segundo as classes de sistemas de órgãos e frequência absoluta. As frequências são definidas como frequentes (≥1/100, &lt; 1/10) ou pouco frequentes (≥1/1.000, &lt; 1/100). Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ Doenças do sangue e do sistema linfático Frequentes: trombocitopenia, leucopenia, granulocitopenia Pouco frequentes: leucocitose
+ Afecções oculares Frequentes: conjuntivite, opacidade da cornea, queratite, fotofobia, dor ocular Pouco frequentes: blefarite
+ Afecções dos tecidos cutâneos e subcutâneas Pouco frequentes: dermatite esfoliativa, rash eritematoso, prurido
+ O tratamento com nitisinona está associado a níveis elevados de tirosina. Níveis elevados de tirosina foram associados a opacidades corneanas e lesões hiperqueratósicas. A restrição de tirosina e fenilalanina na dieta deve limitar a toxicidade associada a este tipo de tirosinemia (ver a secção 4.4).
+ 4.9 Sobredosagem Não foram notificados casos de sobredosagem. A ingestão acidental de nitisinona por indivíduos em dietas normais sem restrição de tirosina e fenilalanina produz níveis elevados de tirosina. Níveis elevados de tirosina foram associados a toxicidade ocular, cutânea e do sistema nervoso. A restrição da tirosina e da fenilalanina na dieta deve limitar a toxicidade associada a este tipo de tirosinemia. Não estão disponíveis informações sobre um tratamento específico de sobredosagem.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Outros produtos alimentares e do metabolismo. Código ATC: A16A X04.
+ O defeito bioquímico da tirosinemia hereditária do tipo 1 (HT-1) consiste numa deficiência da fumarilacetoacetato hidrolase, que é a enzima final da via catabólica da tirosina. A nitisinona é um inibidor competitivo da 4-hidroxifenilpiruvato dioxigenase, uma enzima que precede a fumarilacetoacetato hidrolase na via catabólica da tirosina. Através da inibição do catabolismo normal da tirosina em doentes HT-1, a nitisinona impede a acumulação dos produtos intermédios tóxicos maleilacetoacetato e fumarilacetoacetato. Em doentes com HT-1, estes produtos intermédios são convertidos nos metabolitos tóxicos succinilacetona e succinilacetoacetato. A succinilacetona inibe a via de síntese das porfirinas produzindo uma acumulação de 5-aminolevulinato.
+ 4 O tratamento com nitisinona produz um metabolismo normalizado das profirinas com uma actividade normal da PBG-sintase eritrocitária e normalização da 5-ALA urinária, diminuição da excreção urinária da succinilacetona, aumento da concentração plasmática da tirosina e aumento da excreção urinária de ácidos fenólicos. Os dados disponíveis obtidos num estudo clínico indicam que, em mais de 90% dos doentes, a succinilacetona urinária normalizou durante a primeira semana de tratamento. A succinilacetona não deve ser detectada na urina ou no plasma quando a dose de nitisinona é correctamente ajustada.
+ Efeitos sobre a sobrevida global Ao comparar-se com dados relativos a controlos anteriores, observa-se que o tratamento com nitisinona juntamente com a restrição dietética resulta numa melhor probabilidade de sobrevida em todos os fenótipos de HT-1. Este facto é ilustrado na tabela seguinte:
+ Idade no início do Probabilidade de sobrevida tratamento ou na altura do diagnóstico
+ Tratamento com nitisinona Controlo dietético* 5 anos 10 anos 5 anos 10 anos &lt; 2 meses &gt; 2-6 meses &gt; 6 meses
+ 82 95 92 --95 86
+ 28 51 93 --34 59
+ * Segundo a Figura 1, Van Spronsen et al.,1994.
+ Verificou-se também que o tratamento com nitisinona resultava num risco diminuído de desenvolvimento de carcinoma hepatocelular (2,3 a 3,7 vezes) em comparação com dados anteriores baseados no tratamento com restrição dietética isolada. Verificou-se que o início precoce do tratamento resultava numa maior diminuição do risco de desenvolvimento de carcinoma hepatocelular (13,5 vezes quando iniciado antes dos 12 meses de idade).
+ A Autorização de Introdução no Mercado deste medicamento foi concedida mediante “ Circunstâncias Excepcionais ”. Isto significa que não foi possível obter informação detalhada sobre este medicamento devido à raridade da doença. A Agência Europeia do Medicamentos (EMEA) irá rever anualmente qualquer nova informação que possa vir a ser disponibilizada sobre o medicamento e este RCM será actualizado se necessário.
+ 5.2 Propriedades farmacocinéticas Não se realizaram estudos formais de absorção, distribuição, metabolismo e eliminação com a nitisinona. Em 10 voluntários saudáveis do sexo masculino, após a administração de uma dose única de nitisinona em cápsulas (1 mg/kg do peso corporal), a semivida terminal (mediana) da nitisinona no plasma foi de 54 horas. Realizou-se a análise farmacocinética populacional num grupo de 207 doentes com HT-1. A depuração e a semivida foram determinadas como sendo respectivamente de 0,0956 l/kg do peso corporal/dia e de 52,1 horas.
+ Estudos in vitro que utilizaram microssomas de fígado humano e enzimas P450 expressos por cDNA demonstraram um metabolismo mediado pelo CYP 3A4 limitado.
+ 5.3 Dados de segurança pré-clínica A nitisinona demonstrou possuir uma toxicidade embriofetal no ratinho e coelho em níveis de dose clínicamente relevantes. No coelho, a nitisinona induziu um aumento relacionado com a dose de malformações (hérnia umbilical e diastematogastria) a partir de um nível de dose 2,5 vezes superior à dose humana máxima recomendada (2 mg/kg/dia).
+ 5 Um estudo do desenvolvimento pré-e pós-natal no ratinho revelou uma diminuição significativa da sobrevida e do crescimento das crias durante o período do desmame em níveis de dose de 125 e 25 vezes, respectivamente, da dose humana máxima recomendada, com um efeito tendencial na sobrevida das crias a partir da dose de 5mg/kg/dia. Em ratos, a exposição através do leite resultou numa diminuição do peso médio das crias e em lesões corneanas.
+ Não se observou uma actividade mutagénica, embora tenha sido observada uma actividade clastogénica fraca nos estudos in vitro. Não houve qualquer evidência de genotoxicidade in vivo (ensaio do micronúcleo de ratinho e ensaio da síntese de DNA não programado de fígado de ratinho). Não foram realizados estudos de carcinogenicidade.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Conteúdo das cápsulas Amido de milho pré-gelificado
+ Invólucro das cápsulas gelatina dióxido de titânio (E 171) impressão: óxido de ferro preto (E 172), goma laca, propilenoglicol
+ 6.2 Incompatibilidades Não aplicável. 6.3 Prazo de validade 18 meses. 6.4 Precauções especiais de conservação
+ Conservar no frigorífico 2°C – 8°C. Durante o prazo de validade, o doente pode conservar o produto acabado durante um período de 3 meses a uma temperatura não superior a 25°C, após o qual o produto deve ser eliminado.
+ 6.5 Natureza e conteúdo do recipiente Frasco de polietileno de alta densidade com um fecho resistente à abertura de polietileno de baixa densidade, contendo 60 cápsulas.
+ 6.6 Precauções especiais de eliminação Não existem requisitos especiais. Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 6 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Swedish Orphan International AB Drottninggatan 98 SE-111 60 Estocolmo Suécia
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/04/303/001 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 21/02/2005 10. DATA DA REVISÃO DO TEXTO 7 1. DENOMINAÇÃO DO MEDICAMENTO
+ Orfadin 5 mg cápsulas. 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada cápsula contém 5 mg de nitisinona. Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Cápsula. Cápsulas brancas opacas, marcadas com “ NTBC 5mg ” num dos lados da cápsula.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Tratamento de doentes com diagnóstico confirmado de tirosinemia hereditária do tipo 1 (HT-1) em associação com a restrição dietética de tirosina e fenilalanina.
+ 4.2 Posologia e modo de administração O tratamento com nitisinona deve ser iniciado e supervisionado por um médico com experiência no tratamento de doentes com HT-1. O tratamento de todos os genótipos da doença deve ser iniciado o mais precocemente possível para aumentar a sobrevida global e evitar complicações como insuficiência hepática, cancro hepático e doença renal. Como adjuvante do tratamento com nitisinona, é necessária uma dieta com restrição de fenilalanina e tirosina que deve ser controlada pela monitorização dos aminoácidos plasmáticos (ver as secções 4.4 e 4.8).
+ A dose de nitisinona deve ser ajustada em função de cada indivíduo.
+ A dose inicial recomendada é de 1 mg/kg do peso corporal/dia dividida em 2 doses para administração por via oral. A cápsula pode ser aberta e o conteúdo suspenso numa pequena quantidade de água ou na fórmula dietética imediatamente antes da ingestão.
+ Ajuste da dose Durante a monitorização regular, é apropriado seguir a succinilacetona urinária, os valores da função hepática e os níveis da alfa-fetoproteína (ver a secção 4.4). Se a succinilacetona ainda for detectada um mês após o início do tratamento com nitisinona, a dose de nitisinona deve ser aumentada para 1,5 mg/kg do peso corporal/dia e dividida em 2 doses. Pode ser necessária uma dose de 2 mg/kg do peso corporal/dia com base na avaliação de todos os parâmetros bioquímicos. Esta dose deve ser considerada como a dose máxima para todos os doentes.
+ Se a resposta bioquímica for satisfatória, a dose só deve ser ajustada em função do aumento do peso corporal.
+ No entanto, além dos testes acima indicados, durante o início da terapêutica ou no caso de uma deterioração pode ser necessário efectuar um controlo mais rigoroso de todos os parâmetros bioquímicos disponíveis (isto é, succinilacetona plasmática, 5-aminolevulinato (ALA) urinário e a actividade da porfobilinogénio (PBG)-sintase eritrocitária).
+ 8 4.3 Contra-indicações
+ Hipersensibilidade à substância activa ou a qualquer um dos excipientes.
+ As mães medicadas com nitisinona não devem amamentar (ver 4.6 e 5.3).
+ 4.4 Advertências e precauções especiais de utilização
+ Restrição dietética em relação a perturbações visuais Recomenda-se que seja efectuado um exame dos olhos com uma lâmpada de fenda antes do início do tratamento com nitisinona. Um doente que apresente perturbações visuais durante o tratamento com nitisinona deve ser examinado sem demora por um oftalmologista. Deve estabelecer-se que o doente adere ao seu regime dietético e determinar-se a concentração plasmática de tirosina. Deve implementar-se uma dieta com uma maior restrição de tirosina e fenilalanina se o nível plasmático de tirosina for superior a 500 micromoles/l. Não é recomendável diminuir a concentração plasmática de tirosina reduzindo ou interrompendo a nitisinona, dado que o defeito metabólico pode causar a deterioração do estado clínico do doente.
+ Monitorização hepática A função hepática deve ser monitorizada regularmente através de provas da função hepática e de imagiologia do fígado. Recomenda-se também a monitorização da concentração sérica da alfa-fetoproteína. O aumento da concentração sérica da alfa-fetoproteína pode ser um sinal de tratamento insuficiente. Doentes que apresentem níveis crescentes de alfa-fetoproteína ou sinais de nódulos no fígado devem ser sempre avaliados para detecção de malignidade hepática.
+ Monitorização das plaquetas e dos leucócitos Recomenda-se que seja efectuada a monitorização regular das contagens de plaquetas e leucócitos, dado terem sido observados alguns casos de trombocitopenia e leucopenia reversíveis durante a avaliação clínica.
+ Deverão realizar-se visitas de controlo cada seis meses; no caso de serem detectados efeitos adversos, recomenda-se que o intervalo entre as visitas seja reduzido.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Não foram realizados estudos formais de interacção com outros medicamentos.
+ A nitisinona é metabolizada in vitro pelo CYP 3A4 podendo, portanto, ser necessário efectuar ajustes posológicos quando a nitisinona é co-administrada com inibidores ou com indutores desta enzima.
+ Com base em estudos in vitro, não é de esperar que a nitisinona iniba o metabolismo mediado pelos CYP 1A2, 2C9, 2C19, 2D6, 2E1 ou 3A4.
+ Não foram realizados estudos formais de interacções com alimentos. Contudo, a nitisinona foi co-administrada com alimentos durante a produção dos dados de eficácia e segurança. Portanto, recomenda-se que se a nitisinona foi iniciada com alimentos, deve manter-se assim numa base de rotina.
+ 4.6 Gravidez e aleitamento Gravidez Não existem dados suficientes sobre a utilização da nitisinona em mulheres grávidas. Os estudos em animais revelaram toxicidade reprodutiva (ver a secção 5.3). Desconhece-se o risco potencial para o ser humano. A nitisinona não dever ser utilizada durante a gravidez, a menos que tal seja claramente necessário.
+ 9 Aleitamento Não se sabe se a nitisinona é excretada no leite materno. Estudos em animais demonstraram efeitos adversos pós-natais através da exposição à nitisinona no leite. Portanto, as mães medicadas com nitisinona não devem amamentar dado que não se pode excluir um risco para a criança que está a ser amamentada (ver as secções 4.3 e 5.3).
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas.
+ 4.8 Efeitos indesejáveis As reacções adversas consideradas pelo menos possivelmente relacionadas com o tratamento estão indicadas a seguir segundo as classes de sistemas de órgãos e frequência absoluta. As frequências são definidas como frequentes (≥1/100, &lt; 1/10) ou pouco frequentes (≥1/1.000, &lt; 1/100). Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ Doenças do sangue e do sistema linfático Frequentes: trombocitopenia, leucopenia, granulocitopenia Pouco frequentes: leucocitose
+ Afecções oculares Frequentes: conjuntivite, opacidade da cornea, queratite, fotofobia, dor ocular Pouco frequentes: blefarite
+ Afecções dos tecidos cutâneos e subcutâneas Pouco frequentes: dermatite esfoliativa, rash eritematoso, prurido
+ O tratamento com nitisinona está associado a níveis elevados de tirosina. Níveis elevados de tirosina foram associados a opacidades corneanas e lesões hiperqueratósicas. A restrição de tirosina e fenilalanina na dieta deve limitar a toxicidade associada a este tipo de tirosinemia (ver a secção 4.4).
+ 4.9 Sobredosagem Não foram notificados casos de sobredosagem. A ingestão acidental de nitisinona por indivíduos em dietas normais sem restrição de tirosina e fenilalanina produz níveis elevados de tirosina. Níveis elevados de tirosina foram associados a toxicidade ocular, cutânea e do sistema nervoso. A restrição da tirosina e da fenilalanina na dieta deve limitar a toxicidade associada a este tipo de tirosinemia. Não estão disponíveis informações sobre um tratamento específico de sobredosagem.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Outros produtos alimentares e do metabolismo. Código ATC: A16A X04.
+ O defeito bioquímico da tirosinemia hereditária do tipo 1 (HT-1) consiste numa deficiência da fumarilacetoacetato hidrolase, que é a enzima final da via catabólica da tirosina. A nitisinona é um inibidor competitivo da 4-hidroxifenilpiruvato dioxigenase, uma enzima que precede a fumarilacetoacetato hidrolase na via catabólica da tirosina. Através da inibição do catabolismo normal da tirosina em doentes HT-1, a nitisinona impede a acumulação dos produtos intermédios tóxicos maleilacetoacetato e fumarilacetoacetato. Em doentes com HT-1, estes produtos intermédios são convertidos nos metabolitos tóxicos succinilacetona e succinilacetoacetato. A succinilacetona inibe a via de síntese das porfirinas produzindo uma acumulação de 5-aminolevulinato.
+ 10 O tratamento com nitisinona produz um metabolismo normalizado das profirinas com uma actividade normal da PBG-sintase eritrocitária e normalização da 5-ALA urinária, diminuição da excreção urinária da succinilacetona, aumento da concentração plasmática da tirosina e aumento da excreção urinária de ácidos fenólicos. Os dados disponíveis obtidos num estudo clínico indicam que, em mais de 90% dos doentes, a succinilacetona urinária normalizou durante a primeira semana de tratamento. A succinilacetona não deve ser detectada na urina ou no plasma quando a dose de nitisinona é correctamente ajustada.
+ Efeitos sobre a sobrevida global Ao comparar-se com dados relativos a controlos anteriores, observa-se que o tratamento com nitisinona juntamente com a restrição dietética resulta numa melhor probabilidade de sobrevida em todos os fenótipos de HT-1. Este facto é ilustrado na tabela seguinte:
+ Idade no início do Probabilidade de sobrevida tratamento ou na altura do diagnóstico
+ Tratamento com nitisinona Controlo dietético* 5 anos 10 anos 5 anos 10 anos &lt; 2 meses &gt; 2-6 meses &gt; 6 meses
+ 82 95 92 --95 86
+ 28 51 93 --34 59
+ * Segundo a Figura 1, Van Spronsen et al.,1994.
+ Verificou-se também que o tratamento com nitisinona resultava num risco diminuído de desenvolvimento de carcinoma hepatocelular (2,3 a 3,7 vezes) em comparação com dados anteriores baseados no tratamento com restrição dietética isolada. Verificou-se que o início precoce do tratamento resultava numa maior diminuição do risco de desenvolvimento de carcinoma hepatocelular (13,5 vezes quando iniciado antes dos 12 meses de idade).
+ A Autorização de Introdução no Mercado deste medicamento foi concedida mediante “ Circunstâncias Excepcionais ”. Isto significa que não foi possível obter informação detalhada sobre este medicamento devido à raridade da doença. A Agência Europeia do Medicamentos (EMEA) irá reveranualmente qualquer nova informação que possa vir a ser disponibilizada sobre o medicamento e este RCM será actualizado se necessário.
+ 5.2 Propriedades farmacocinéticas Não se realizaram estudos formais de absorção, distribuição, metabolismo e eliminação com a nitisinona. Em 10 voluntários saudáveis do sexo masculino, após a administração de uma dose única de nitisinona em cápsulas (1 mg/kg do peso corporal), a semivida terminal (mediana) da nitisinona no plasma foi de 54 horas. Realizou-se a análise farmacocinética populacional num grupo de 207 doentes com HT-1. A depuração e a semivida foram determinadas como sendo respectivamente de 0,0956 l/kg do peso corporal/dia e de 52,1 horas.
+ Estudos in vitro que utilizaram microssomas de fígado humano e enzimas P450 expressos por cDNA demonstraram um metabolismo mediado pelo CYP 3A4 limitado.
+ 5.3 Dados de segurança pré-clínica A nitisinona demonstrou possuir uma toxicidade embriofetal no ratinho e coelho em níveis de dose clínicamente relevantes. No coelho, a nitisinona induziu um aumento relacionado com a dose de malformações (hérnia umbilical e diastematogastria) a partir de um nível de dose 2,5 vezes superior à dose humana máxima recomendada (2 mg/kg/dia).
+ 11 Um estudo do desenvolvimento pré-e pós-natal no ratinho revelou uma diminuição significativa da sobrevida e do crescimento das crias durante o período do desmame em níveis de dose de 125 e 25 vezes, respectivamente, da dose humana máxima recomendada, com um efeito tendencial na sobrevida das crias a partir da dose de 5mg/kg/dia. Em ratos, a exposição através do leite resultou numa diminuição do peso médio das crias e em lesões corneanas.
+ Não se observou uma actividade mutagénica, embora tenha sido observada uma actividade clastogénica fraca nos estudos in vitro. Não houve qualquer evidência de genotoxicidade in vivo (ensaio do micronúcleo de ratinho e ensaio da síntese de DNA não programado de fígado de ratinho). Não foram realizados estudos de carcinogenicidade.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Conteúdo das cápsulas Amido de milho pré-gelificado
+ Invólucro das cápsulas gelatina dióxido de titânio (E171) impressão: óxido de ferro preto (E172), goma laca, propilenoglicol
+ 6.2 Incompatibilidades Não aplicável. 6.3 Prazo de validade 18 meses. 6.4 Precauções especiais de conservação
+ Conservar no frigorífico 2°C – 8°C. Durante o prazo de validade, o doente pode conservar o produto acabado durante um período de 3 meses a uma temperatura não superior a 25°C, após o qual o produto deve ser eliminado.
+ 6.5 Natureza e conteúdo do recipiente Frasco de polietileno de alta densidade com um fecho resistente à abertura de polietileno de baixa densidade, contendo 60 cápsulas.
+ 6.6 Precauções especiais de eliminação Não existem requisitos especiais. Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 12 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Swedish Orphan International AB Drottninggatan 98 SE-111 60 Estocolmo Suécia
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/04/303/002 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 21/02/2005 10. DATA DA REVISÃO DO TEXTO 13 1. DENOMINAÇÃO DO MEDICAMENTO
+ Orfadin 10 mg cápsulas. 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada cápsula contém 10 mg de nitisinona. Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Cápsula. Cápsulas brancas opacas, marcadas com “ NTBC 10mg ” num dos lados da cápsula.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Tratamento de doentes com diagnóstico confirmado de tirosinemia hereditária do tipo 1 (HT-1) em associação com a restrição dietética de tirosina e fenilalanina.
+ 4.2 Posologia e modo de administração O tratamento com nitisinona deve ser iniciado e supervisionado por um médico com experiência no tratamento de doentes com HT-1. O tratamento de todos os genótipos da doença deve ser iniciado o mais precocemente possível para aumentar a sobrevida global e evitar complicações como insuficiência hepática, cancro hepático e doença renal. Como adjuvante do tratamento com nitisinona, é necessária uma dieta com restrição de fenilalanina e tirosina que deve ser controlada pela monitorização dos aminoácidos plasmáticos (ver as secções 4.4 e 4.8).
+ A dose de nitisinona deve ser ajustada em função de cada indivíduo.
+ A dose inicial recomendada é de 1 mg/kg do peso corporal/dia dividida em 2 doses para administração por via oral. A cápsula pode ser aberta e o conteúdo suspenso numa pequena quantidade de água ou na fórmula dietética imediatamente antes da ingestão.
+ Ajuste da dose Durante a monitorização regular, é apropriado seguir a succinilacetona urinária, os valores da função hepática e os níveis da alfa-fetoproteína (ver a secção 4.4). Se a succinilacetona ainda for detectada um mês após o início do tratamento com nitisinona, a dose de nitisinona deve ser aumentada para 1,5 mg/kg do peso corporal/dia e dividida em 2 doses. Pode ser necessária uma dose de 2 mg/kg do peso corporal/dia com base na avaliação de todos os parâmetros bioquímicos. Esta dose deve ser considerada como a dose máxima para todos os doentes.
+ Se a resposta bioquímica for satisfatória, a dose só deve ser ajustada em função do aumento do peso corporal.
+ No entanto, além dos testes acima indicados, durante o início da terapêutica ou no caso de uma deterioração pode ser necessário efectuar um controlo mais rigoroso de todos os parâmetros bioquímicos disponíveis (isto é, succinilacetona plasmática, 5-aminolevulinato (ALA) urinário e a actividade da porfobilinogénio (PBG)-sintase eritrocitária).
+ 14 4.3 Contra-indicações
+ Hipersensibilidade à substância activa ou a qualquer um dos excipientes.
+ As mães medicadas com nitisinona não devem amamentar (ver 4.6 e 5.3).
+ 4.4 Advertências e precauções especiais de utilização
+ Restrição dietética em relação a perturbações visuais Recomenda-se que seja efectuado um exame dos olhos com uma lâmpada de fenda antes do início do tratamento com nitisinona. Um doente que apresente perturbações visuais durante o tratamento com nitisinona deve ser examinado sem demora por um oftalmologista. Deve estabelecer-se que o doente adere ao seu regime dietético e determinar-se a concentração plasmática de tirosina. Deve implementar-se uma dieta com uma maior restrição de tirosina e fenilalanina se o nível plasmático de tirosina for superior a 500 micromoles/l. Não é recomendável diminuir a concentração plasmática de tirosina reduzindo ou interrompendo a nitisinona, dado que o defeito metabólico pode causar a deterioração do estado clínico do doente.
+ Monitorização hepática A função hepática deve ser monitorizada regularmente através de provas da função hepática e de imagiologia do fígado. Recomenda-se também a monitorização da concentração sérica da alfa-fetoproteína. O aumento da concentração sérica da alfa-fetoproteína pode ser um sinal de tratamento insuficiente. Doentes que apresentem níveis crescentes de alfa-fetoproteína ou sinais de nódulos no fígado devem ser sempre avaliados para detecção de malignidade hepática.
+ Monitorização das plaquetas e dos leucócitos Recomenda-se que seja efectuada a monitorização regular das contagens de plaquetas e leucócitos, dado terem sido observados alguns casos de trombocitopenia e leucopenia reversíveis durante a avaliação clínica.
+ Deverão realizar-se visitas de controlo cada seis meses; no caso de serem detectados efeitos adversos, recomenda-se que o intervalo entre as visitas seja reduzido.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Não foram realizados estudos formais de interacção com outros medicamentos.
+ A nitisinona é metabolizada in vitro pelo CYP 3A4 podendo, portanto, ser necessário efectuar ajustes posológicos quando a nitisinona é co-administrada com inibidores ou com indutores desta enzima.
+ Com base em estudos in vitro, não é de esperar que a nitisinona iniba o metabolismo mediado pelos CYP 1A2, 2C9, 2C19, 2D6, 2E1 ou 3A4.
+ Não foram realizados estudos formais de interacções com alimentos. Contudo, a nitisinona foi co-administrada com alimentos durante a produção dos dados de eficácia e segurança. Portanto, recomenda-se que se a nitisinona foi iniciada com alimentos, deve manter-se assim numa base de rotina.
+ 4.6 Gravidez e aleitamento Gravidez Não existem dados suficientes sobre a utilização da nitisinona em mulheres grávidas. Os estudos em animais revelaram toxicidade reprodutiva (ver a secção 5.3). Desconhece-se o risco potencial para o ser humano. A nitisinona não dever ser utilizada durante a gravidez, a menos que tal seja claramente necessário.
+ 15 Aleitamento Não se sabe se a nitisinona é excretada no leite materno. Estudos em animais demonstraram efeitos adversos pós-natais através da exposição à nitisinona no leite. Portanto, as mães medicadas com nitisinona não devem amamentar dado que não se pode excluir um risco para a criança que está a ser amamentada (ver as secções 4.3 e 5.3).
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas.
+ 4.8 Efeitos indesejáveis As reacções adversas consideradas pelo menos possivelmente relacionadas com o tratamento estão indicadas a seguir segundo as classes de sistemas de órgãos e frequência absoluta. As frequências são definidas como frequentes (≥1/100, &lt; 1/10) ou pouco frequentes (≥1/1.000, &lt; 1/100). Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ Doenças do sangue e do sistema linfático Frequentes: trombocitopenia, leucopenia, granulocitopenia Pouco frequentes: leucocitose
+ Afecções oculares Frequentes: conjuntivite, opacidade da cornea, queratite, fotofobia, dor ocular Pouco frequentes: blefarite
+ Afecções dos tecidos cutâneos e subcutâneas Pouco frequentes: prurido, dermatite esfoliativa, rash eritematoso
+ O tratamento com nitisinona está associado a níveis elevados de tirosina. Níveis elevados de tirosina foram associados a opacidades corneanas e lesões hiperqueratósicas. A restrição de tirosina e fenilalanina na dieta deve limitar a toxicidade associada a este tipo de tirosinemia (ver a secção 4.4).
+ 4.9 Sobredosagem Não foram notificados casos de sobredosagem. A ingestão acidental de nitisinona por indivíduos em dietas normais sem restrição de tirosina e fenilalanina produz níveis elevados de tirosina. Níveis elevados de tirosina foram associados a toxicidade ocular, cutânea e do sistema nervoso. A restrição da tirosina e da fenilalanina na dieta deve limitar a toxicidade associada a este tipo de tirosinemia. Não estão disponíveis informações sobre um tratamento específico de sobredosagem.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Outros produtos alimentares e do metabolismo. Código ATC: A16A X04.
+ O defeito bioquímico da tirosinemia hereditária do tipo 1 (HT-1) consiste numa deficiência da fumarilacetoacetato hidrolase, que é a enzima final da via catabólica da tirosina. A nitisinona é um inibidor competitivo da 4-hidroxifenilpiruvato dioxigenase, uma enzima que precede a fumarilacetoacetato hidrolase na via catabólica da tirosina. Através da inibição do catabolismo normal da tirosina em doentes HT-1, a nitisinona impede a acumulação dos produtos intermédios tóxicos maleilacetoacetato e fumarilacetoacetato. Em doentes com HT-1, estes produtos intermédios são convertidos nos metabolitos tóxicos succinilacetona e succinilacetoacetato. A succinilacetona inibe a via de síntese das porfirinas produzindo uma acumulação de 5-aminolevulinato.
+ 16 O tratamento com nitisinona produz um metabolismo normalizado das profirinas com uma actividade normal da PBG-sintase eritrocitária e normalização da 5-ALA urinária, diminuição da excreção urinária da succinilacetona, aumento da concentração plasmática da tirosina e aumento da excreção urinária de ácidos fenólicos. Os dados disponíveis obtidos num estudo clínico indicam que, em mais de 90% dos doentes, a succinilacetona urinária normalizou durante a primeira semana de tratamento. A succinilacetona não deve ser detectada na urina ou no plasma quando a dose de nitisinona é correctamente ajustada.
+ Efeitos sobre a sobrevida global Ao comparar-se com dados relativos a controlos anteriores, observa-se que o tratamento com nitisinona juntamente com a restrição dietética resulta numa melhor probabilidade de sobrevida em todos os fenótipos de HT-1. Este facto é ilustrado na tabela seguinte:
+ Idade no início do Probabilidade de sobrevida tratamento ou na altura do diagnóstico
+ Tratamento com nitisinona Controlo dietético* 5 anos 10 anos 5 anos 10 anos &lt; 2 meses &gt; 2-6 meses &gt; 6 meses
+ 82 95 92 --95 86
+ 28 51 93 --34 59
+ * Segundo a Figura 1, Van Spronsen et al.,1994.
+ Verificou-se também que o tratamento com nitisinona resultava num risco diminuído de desenvolvimento de carcinoma hepatocelular (2,3 a 3,7 vezes) em comparação com dados anteriores baseados no tratamento com restrição dietética isolada. Verificou-se que o início precoce do tratamento resultava numa maior diminuição do risco de desenvolvimento de carcinoma hepatocelular (13,5 vezes quando iniciado antes dos 12 meses de idade).
+ A Autorização de Introdução no Mercado deste medicamento foi concedida mediante “ Circunstâncias Excepcionais ”. Isto significa que não foi possível obter informação detalhada sobre este medicamento devido à raridade da doença. A Agência Europeia do Medicamentos (EMEA) irá reveranualmente qualquer nova informação que possa vir a ser disponibilizada sobre o medicamento e este RCM será actualizado se necessário.
+ 5.2 Propriedades farmacocinéticas Não se realizaram estudos formais de absorção, distribuição, metabolismo e eliminação com a nitisinona. Em 10 voluntários saudáveis do sexo masculino, após a administração de uma dose única de nitisinona em cápsulas (1 mg/kg do peso corporal), a semivida terminal (mediana) da nitisinona no plasma foi de 54 horas. Realizou-se a análise farmacocinética populacional num grupo de 207 doentes com HT-1. A depuração e a semivida foram determinadas como sendo respectivamente de 0,0956 l/kg do peso corporal/dia e de 52,1 horas.
+ Estudos in vitro que utilizaram microssomas de fígado humano e enzimas P450 expressos por cDNA demonstraram um metabolismo mediado pelo CYP 3A4 limitado.
+ 5.3 Dados de segurança pré-clínica A nitisinona demonstrou possuir uma toxicidade embriofetal no ratinho e coelho em níveis de dose clínicamente relevantes. No coelho, a nitisinona induziu um aumento relacionado com a dose de malformações (hérnia umbilical e diastematogastria) a partir de um nível de dose 2,5 vezes superior à dose humana máxima recomendada (2 mg/kg/dia).
+ 17 Um estudo do desenvolvimento pré-e pós-natal no ratinho revelou uma diminuição significativa da sobrevida e do crescimento das crias durante o período do desmame em níveis de dose de 125 e 25 vezes, respectivamente, da dose humana máxima recomendada, com um efeito tendencial na sobrevida das crias a partir da dose de 5mg/kg/dia. Em ratos, a exposição através do leite resultou numa diminuição do peso médio das crias e em lesões corneanas.
+ Não se observou uma actividade mutagénica, embora tenha sido observada uma actividade clastogénica fraca nos estudos in vitro. Não houve qualquer evidência de genotoxicidade in vivo (ensaio do micronúcleo de ratinho e ensaio da síntese de DNA não programado de fígado de ratinho). Não foram realizados estudos de carcinogenicidade.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Conteúdo das cápsulas Amido de milho pré-gelificado
+ Invólucro das cápsulas gelatina dióxido de titânio (E171) impressão: óxido de ferro preto (E172), goma laca, propilenoglicol
+ 6.2 Incompatibilidades Não aplicável. 6.3 Prazo de validade 18 meses. 6.4 Precauções especiais de conservação
+ Conservar no frigorífico 2°C – 8°C. Durante o prazo de validade, o doente pode conservar o produto acabado durante um período de 3 meses a uma temperatura não superior a 25°C, após o qual o produto deve ser eliminado.
+ 6.5 Natureza e conteúdo do recipiente Frasco de polietileno de alta densidade com um fecho resistente à abertura de polietileno de baixa densidade, contendo 60 cápsulas.
+ 6.6 Precauções especiais de eliminação Não existem requisitos especiais. Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 18 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Swedish Orphan International AB Drottninggatan 98 SE-111 60 Estocolmo Suécia
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/04/303/003 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 21/02/2005 10. DATA DA REVISÃO DO TEXTO 19 ANEXO II
+ A. TITULAR DE AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ C. OBRIGAÇÕES ESPECÍFICAS A SEREM CUMPRIDAS PELO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 20 A. TITULAR DE AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do fabricante responsável pela libertação do lote
+ Apoteket AB Produktion &amp; Laboratorier Prismavägen 2 SE-141 75 Kungens Kurva Suécia
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento sujeito a receita médica restrita (ver anexo I: resumo das características do medicamento, secção 4.2.
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ Não aplicável. C. OBRIGAÇÕES ESPECÍFICAS A SEREM CUMPRIDAS PELO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ O titular da autorização de introdução no mercado deverá executar o programa de estudos abaixo referido dentro dos prazos indicados; os resultados desses estudos estarão na base da reavaliação anual da relação risco/benefício.
+ Área1 Descrição Data prevista2 Clínica A empresa deve estabelecer um Programa de Farmacovigilância
+ Os dados Pós-introdução no Mercado (FPM) para a utilização da nitisinona disponíveis
+ no tratamento da Hipertirosinemia de Tipo I, incluindo o estado hepático, renal, hematológico, neurológico e oftálmico. O
+ serão apresentados
+ protocolo da FPM foi desenvolvido e fornecido ao CHMP. Todos na PSUR de
+ os dados relevantes coligidos neste programa serão resumidos e incluídos no RPS.
+ acordo com o esquema de notificação normal.
+ 1. Áreas: Qualidade, Não clínica, Clínica, Farmacovigilância 2. A data prevista para a medida de seguimento ou para o primeiro relatório preliminar se não puder ser confirmada uma data precisa.
+ 21 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 22 A. ROTULAGEM
+ 23 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO EMBALAGEM EXTERIOR/CAIXA
+ 1. DENOMINAÇÃO DO MEDICAMENTO Orfadin 2 mg cápsulas duras Nitisinona 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ Cada cápsula contém 2 mg de nitisinona. 3. LISTA DOS EXCIPIENTES 4. FORMA FARMACÊUTICA E CONTEÚDO 60 cápsulas duras 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral. Consultar o folheto informativo.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP{ MM/AAAA} 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Conservar no frigorífico. 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 24 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Swedish Orphan International AB Drottninggatan 98, SE-111 60 Stockholm, Sweden
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/04/303/001 13. NÚMERO DO LOTE Lote{ 0000000} 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Orfadin 2 mg 25 INDICAÇÕES A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ ACONDICIONAMENTO PRIMÁRIO/RÓTULO DO FRASCO
+ 1. DENOMINAÇÃO DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Orfadin 2 mg cápsulas duras Nitisinona Via oral
+ 2. MODO DE ADMINISTRAÇÃO 3. NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Swedish Orphan International AB 4. PRAZO DE VALIDADE EXP{ MM/AAAA} 5. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Conservar no frigorífico. Orfadin cápsulas pode ser conservado durante um período de 3 meses a uma temperatura não superior a 25°C, após o qual o produto deve ser eliminado. Data em que foi retirado do frigorífico: _______________
+ 6. NÚMERO DO LOTE Lot{ 0000000} 7. CONTEÚDO EM TERMOS DE UNIDADE 60 cápsulas 26 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ EMBALAGEM EXTERIOR/CAIXA 1. DENOMINAÇÃO DO MEDICAMENTO Orfadin 5 mg cápsulas duras Nitisinona 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ Cada cápsula contém 5 mg de nitisinona. 3. LISTA DOS EXCIPIENTES 4. FORMA FARMACÊUTICA E CONTEÚDO 60 cápsulas duras 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral. Consultar o folheto informativo.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP{ MM/AAAA} 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Conservar no frigorífico. 27 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Swedish Orphan International AB Drottninggatan 98, SE-111 60 Stockholm, Sweden
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/04/303/002 13. NÚMERO DO LOTE Lote{ 0000000} 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Orfadin 5 mg 28 INDICAÇÕES A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ ACONDICIONAMENTO PRIMÁRIO/RÓTULO DO FRASCO
+ 1. DENOMINAÇÃO DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Orfadin 5 mg cápsulas duras Nitisinona Via oral
+ 2. MODO DE ADMINISTRAÇÃO 3. NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Swedish Orphan International AB 4. PRAZO DE VALIDADE EXP{ MM/AAAA} 5. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Conservar no frigorífico. Orfadin cápsulas pode ser conservado durante um período de 3 meses a uma temperatura não superior a 25°C, após o qual o produto deve ser eliminado. Data em que foi retirado do frigorífico: _______________
+ 6. NÚMERO DO LOTE Lot{ 0000000} 7. CONTEÚDO EM TERMOS DE UNIDADE 60 cápsulas 29 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ EMBALAGEM EXTERIOR/CAIXA 1. DENOMINAÇÃO DO MEDICAMENTO Orfadin 10 mg cápsulas duras Nitisinona 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ Cada cápsula contém 10 mg de nitisinona. 3. LISTA DOS EXCIPIENTES 4. FORMA FARMACÊUTICA E CONTEÚDO 60 cápsulas duras 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral. Consultar o folheto informativo.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP{ MM/AAAA} 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Conservar no frigorífico. 30 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Swedish Orphan International AB Drottninggatan 98, SE-111 60 Stockholm, Sweden
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/04/303/003 13. NÚMERO DO LOTE Lote{ 0000000} 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Orfadin 10 mg 31 INDICAÇÕES A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ ACONDICIONAMENTO PRIMÁRIO/RÓTULO DO FRASCO
+ 1. DENOMINAÇÃO DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Orfadin 10 mg cápsulas duras Nitisinona Via oral
+ 2. MODO DE ADMINISTRAÇÃO 3. NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Swedish Orphan International AB 4. PRAZO DE VALIDADE EXP{ MM/AAAA} 5. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Conservar no frigorífico. Orfadin cápsulas pode ser conservado durante um período de 3 meses a uma temperatura não superior a 25°C, após o qual o produto deve ser eliminado. Data em que foi retirado do frigorífico: _______________
+ 6. NÚMERO DO LOTE Lot{ 0000000} 7. CONTEÚDO EM TERMOS DE UNIDADE 60 cápsulas 32 B. FOLHETO INFORMATIVO
+ 33 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Orfadin 2 mg cápsulas duras Orfadin 5 mg cápsulas duras Orfadin 10 mg cápsulas duras nitisinona
+ Leia atentamente este folheto antes de tomar o medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é Orfadin e para que é utilizado 2. Antes de tomar Orfadin 3. Como tomar Orfadin 4. Efeitos secundários possíveis 5 Como conservar Orfadin 6. Outras informações
+ 1. O QUE É ORFADIN E PARA QUE É UTILIZADO
+ Orfadin é utilizado para o tratamento de uma doença chamada tirosinemia do tipo I. Nesta doença, o organismo não é capaz de decompor completamente o aminoácido tirosina. São formadas substâncias nocivas que se acumulam no organismo. Orfadin bloqueia a decomposição de tirosina e ao fazê-lo impede a formação das substâncias nocivas. Contudo, a tirosina permanece no organismo e, por conseguinte, deve ser seguida uma dieta especial (com um teor baixo em tirosina e fenilalanina) quando se toma Orfadin.
+ 2. ANTES DE TOMAR ORFADIN Não tome Orfadin: − Se tem alergia (hipersensibilidade) à nitisinona ou a qualquer outro componente de Orfadin.
+ Tome especial cuidado com Orfadin: − se tiver os olhos vermelhos ou qualquer outro sinal de efeitos a nível dos olhos. Contacte imediatamente o seu médico para que seja efectuado um exame aos olhos. Os problemas oculares podem ser um sinal de um controlo dietético insuficiente.
+ Durante o tratamento, serão colhidas amostras de sangue para que o seu médico possa verificar se o tratamento é adequado e certificar-se de que não existem outros efeitos secundários possíveis que causem perturbações sanguíneas.
+ O seu fígado será controlado em intervalos regulares visto que a doença afecta o fígado.
+ Tomar Orfadin com outros medicamentos Informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica.
+ 34 Gravidez A segurança de Orfadin não foi estudada em mulheres grávidas. Informe o seu médico se planeia engravidar. Se engravidar deve contactar imediatamente o seu médico.
+ Aleitamento A segurança de Orfadin não foi estudada em mulheres que estão a amamentar e, portanto, não deve amamentar enquanto estiver a tomar Orfadin.
+ Condução de veículos e utilização de máquinas: Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas.
+ 3. COMO TOMAR ORFADIN Tomar Orfadin sempre de acordo com as indicações do médico. Fale com o seu médico ou farmacêutico se tiver dúvidas. A dose diária total habitual é de 1 mg/kg de peso corporal/dia, sendo dividida em uma administração de manhã e outra à noite. As cápsulas devem ser engolidas inteiras com água. Se tiver problemas em engolir as cápsulas, estas podem ser abertas e o pó suspenso numa pequena quantidade de água ou na fórmula dietética, imediatamente antes da ingestão.
+ Se tiver a impressão de que Orfadin não está a actuar de forma adequada, informe o seu médico. Não mude a dose nem pare o tratamento sem informar o seu médico.
+ Se tomar mais Orfadin do que deveria Se tiver tomado mais do que devia, contacte imediatamente o seu médico ou farmacêutico.
+ Caso se tenha esquecido de tomar Orfadin Não tome uma dose a dobrar para compensar uma dose que se esqueceu de tomar.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como os demais medicamentos, Orfadin pode ter efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ Os efeitos secundários mais frequentes (mais de 1 em cada 100 doentes e menos de 1 em cada 10 doentes) são: sintomas oculares diferentes (inflamação da conjuntiva, opacidade da córnea, inflamação da córnea, sensibilidade à luz, dores oculares), diminuição do número de plaquetas e de leucócitos, défice de determinados tipos de leucócitos (granulocitopenia).
+ Os efeitos secundários menos frequentes (mais de 1 em cada 1.000 doentes e menos de 1 em cada 100 doentes) são: inflamação da pálpebra, aumento do número de leucócitos, prurido, inflamação da pele (dermatite esfoliativa), exantema cutâneo.
+ Se detectar efeitos secundários relacionados com os olhos, deve contactar imediatamente o seu médico para que seja efectuado um exame dos olhos. Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR ORFADIN Manter fora do alcance e da vista das crianças.
+ Não utilize Orfadin após o prazo de validade impresso no frasco e embalagem exterior a seguir a “ EXP ”. O prazo de validade corresponde ao último dia do mês indicado.
+ 35 Conservar no frigorífico (2°C – 8°C). Orfadin cápsulas pode ser retirado do frigorífico durante um período máximo de 3 meses e conservado a uma temperatura não superior a 25°C, após o qual o produto deve ser eliminado. Não se esqueça de marcar a data no frasco, quando retirar o medicamento do frigorífico.
+ Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Orfadin A substância activa é a nitisinona. Cada cápsula contém 2 mg,5 mg ou 10 mg de nitisinona.
+ Outros componentes: Conteúdo das cápsulas: amido pré-gelatinizado (de milho) Invólucro das cápsulas: gelatina e dióxido de titânio (E 171) Impressão: óxido de ferro (E172), goma laca e propilenoglicol
+ Qual o aspecto de Orfadin e conteúdo da embalagem Orfadin cápsulas são cápsulas de gelatina brancas opacas, gravados com “ NTBC ” e a dosagem de “ 2 mg ”, “ 5 mg ” ou “ 10 mg ”, em preto. A cápsula contém um pó branco a esbranquiçado.
+ As cápsulas estão acondicionadas em frascos de plástico com fechos resistentes à abertura por crianças. Cada frasco contém 60 cápsulas.
+ Titular da Autorização de Introdução no Mercado SWEDISH ORPHAN INTERNATIONAL AB Drottninggatan 98 SE-111 60 Estocolmo Suécia
+ Fabricante Apoteket AB Produktion &amp; Laboratorier Prismavägen 2 SE-141 75 Kungens Kurva Suécia
+ Este folheto foi aprovado pela última vez em
+ Este medicamento foi autorizado sob “ circunstâncias excepcionais ”. Isto significa que foi impossível obter informação detalhada sobre este medicamento devido à raridade desta doença. A Agência Europeia do Medicamento (EMEA) irá rever anualmente qualquer nova informação sobre o medicamento e este folheto será actualizado se necessário.
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia do Medicamento (EMEA) http: //www. emea. europa. eu/.
+ 36
