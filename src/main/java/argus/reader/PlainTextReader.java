@@ -1,5 +1,6 @@
 package argus.reader;
 
+import com.google.common.collect.ImmutableSet;
 import it.unimi.dsi.lang.MutableString;
 
 import java.io.BufferedReader;
@@ -27,7 +28,7 @@ public class PlainTextReader implements Reader {
     }
 
     @Override
-    public String getSupportedExtension() {
-        return "txt";
+    public ImmutableSet<String> getSupportedExtensions() {
+        return ImmutableSet.of("txt");
     }
 }

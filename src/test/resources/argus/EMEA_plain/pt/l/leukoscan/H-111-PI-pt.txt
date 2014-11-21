@@ -1,0 +1,205 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. DENOMINAÇÃO DO MEDICAMENTO
+ LeukoScan 0.31 mg pó para solução injectável
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Kit para a preparação de LeukoScan marcado com 99mTc
+ Cada frasco de 3 ml contém 0.31 mg de sulesomab (fragmentos murídeo Fab ’-SH de anticorpos monoclonais anti-granulocitos IMMU-MN3, para a preparação de 99mTc LeukoScan marcado com radioisótopos. No kit não está incluído o radioisótopo.
+ Excipientes: Sucrose (37, 8mg) Lista completa de excipientes, ver secção 6.1
+ 3. FORMA FARMACÊUTICA Pó para solução injectável. 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Este rádiofármaco tem uso exclusivo no diagnóstico.
+ LeukoScan é indicado, em termos de diagnóstico imagiológico, na localização e extensão da infecção/inflamação óssea em pacientes com suspeita de osteomielite, incluindo os que apresentam úlceras diabéticas nos pés.
+ LeukoScan não foi utilizado ainda em doentes anémicos no diagnóstico da osteomielite.
+ 4.2. Posologia e modo de administração A solução marcada com o agente radioactivo tem uma administração via intravenosa. Após a injecção qualquer quantidade remanescente deverá ser rejeitada. O uso do LeukoScan não está recomendado em crianças.
+ Não foram ainda efectuados estudos em doentes com disfunções renais ou hepáticas. No entanto, devido à baixa dose de proteína administrada, e à baixa semi-vida do agente radioactivo, o ajuste a uma nova dosagem nestes doentes pode não ser necessário.
+ Os radiofármacos só deverão ser manipulados e preparados por técnicos devidamente credenciados, sob autorização governamental para a manipulação de radionúclidos. Este radiofármaco apenas pode ser recebido, usado e administrado por pessoal autorizado e em ambientes clínicos específicos. A sua recepção, armazenamento, uso, transferência e destruição estão sujeitos aos regulamentos e/ou licenças emitidas pelos organismos oficiais e competentes locais.
+ 2 Imediatamente antes do seu uso, o conteúdo do frasco para injectáveis é reconstituído na sua forma não marcada, para a preparação de LeukoScan[ 99mTc]. O conteúdo não-reconstituído do frasco para injectáveis antes da adição dos radioisótopos não deve ser administrado directamente aos doentes.
+ Para instruções de preparação, ver secção 6.6
+ Para readministração ver secção 4.4 4.3. Contra-indicações Doentes com alergias ou hipersensibilidade conhecida às proteínas de ratos. Gravidez.
+ 4.4 Advertências e precauções especiais de utilização
+ A segurança e precisão do diagnóstico em pessoas com idade inferior a 21 anos não foi ainda determinada. A administração de LeukoScan em jovens deverá ser apenas realizada após terem sido considerados os possíveis riscos e benefícios para o doente.
+ Protocolo de imagens recomendado Imunoscintigrafia deve ser feita de uma a oito horas após a injecção.
+ Não existe nenhuma diferença significativa na detecção da presença ou da ausência de osteomielite nos períodos de 1 a 2 horas e de 5 a 8 horas, após a administração do LeukoScan. Este facto, sugere que a imagem pode ser obtida em qualquer momento compreendido no período de 1 a 8 horas após a injecção (de acordo com as necessidades do departamento de medicina nuclear e do doente).
+ Devem obter-se imagens por planos, recorrendo a todos os cortes necessários para visualizar de forma adequada a área afectada no período de 1 a 8 horas após a injecção, utilizando pelo menos 500 unidades K ou 10 minutos por corte. Recomenda-se a aquisição de imagens em modo análogo e/ou digital e a utilização de uma chapa com uma matriz de pelo menos 128 x 128.
+ A tomografia computadorizada de emissão de fotões isolados (TCEFI) pode também ser útil, podendo ajudar a diferenciar a osteomielite das infecções dos tecidos moles. Os parâmetros recomendados para a aquisição de imagens de TCEFI são: 60 projecções, faseadas ao longo de 360º, com 30 segundos por corte, numa matriz de, pelo menos,64 por 64. Recomenda-se também o processamento dos dados através de projecção retrógrada filtrada e a reconstrução em três planos (transaxial, coronal e sagital).
+ Intrepretação de imagens Quando o scan ósseo é positivo e a imagem com LeukoScan é negativa a infecção é pouco provável. Quando o scan ósseo é negativo a imagem com LeukoScan raramente mostra uma resposta positiva e isto poderá indicar o início de uma osteomielite.
+ Hipersensibilidade O desenvolvimento de reacções anafilácticas ou de outras reacções de hipersensibilidade, pode ocorrer sempre que são administrados aos doentes materiais contendo proteínas de rato. A existência de meios adequados de ressuscitação cardiopulmonar e de pessoal treinado, deve ser garantido, para uso imediato na eventualidade de ocorrer uma reacção adversa deste tipo.
+ Anticorpos humanos anti-rato (AHAR) 3 Nos ensaios clínicos realizados, envolvendo mais de 350 doentes, não se verificou qualquer indução da produção de anticorpos humanos anti-ratos (AHAR) dirigidos aos fragmentos dos anticorpos; para além do mais, também não se observou qualquer elevação dos níveis de AHAR nos doentes em que previamente se tinha detectado a existência deste tipo de anticorpos.
+ Os doentes que apresentam uma história de contacto prévio com produtos contendo anticorpos monoclonais de murídeos, têm maior probabilidade de desenvolver AHAR. Em doentes com AHAR, a probabilidade de ocorrerem reacções de hipersensibilidade ou de diminuir a eficácia diagnóstica da técnica de imagem, é maior.
+ Readministração Por enquanto, existem poucos dados relativos à segurança da administração repetida do LeukoScan. A readministração deve ser considerada apenas nos doentes cujo soro não apresenta elevação dos níveis de anticorpos humanos anti-rato (AHAR). Deve também ter-se em conta a quantidade de radiação recebida pelo doente ao longo do tempo.
+ Os títulos de AHAR devem ser determinados antes de se repetir a administração de LeukoScan.
+ Hemoglobinúria paroxística nocturna Não é de se esperar que o LeukoScan se ligue aos leucócitos em doentes com Hemoglobinúria Paroxística Nocturna
+ 4.5 Interacções com outros medicamentos e outras formas de interacção
+ Não foram realizados quaisquer estudos de interacção, mas, até à data, não foram descritas quaisquer interacções medicamentosas, mesmo quando se incluem os doentes medicados com antibióticos.
+ 4.6 Gravidez e aleitamento Mulheres em idade fértil Nos casos em que é necessário administrar produtos médicos radioactivos em mulheres em idade fértil, a existência de uma eventual gravidez deve sempre ser pesquisada. A existência de um período de amenorreia deve implicar, em qualquer mulher em idade fértil, a assunção de gravidez, até que o contrário seja demonstrado. Nos casos em que a dúvida subsiste, a exposição à radiação deve ser a mínima consistente com a obtenção da informação clínica desejada. Devem também considerar-se técnicas alternativas que não envolvam radiações ionizantes.
+ Gravidez O LeukoScan é contra-indicado durante a gravidez. A realização de técnicas com radionuclídeos em mulheres grávidas implica também a exposição do feto às radiações. Assim, o LeukoScan está contra-indicado na gravidez. A administração de 750 MBq de LeukoScan corresponde à absorção estimada de 4.1 mGy pelo embrião ou pelo feto numa fase inicial.
+ Aleitamento Antes da administração de um produto médico radioactivo a uma mulher a amamentar, deve ponderar-se até que ponto é razoável adiar a investigação até que a mãe tenha terminado a amamentação, bem como rever se esta técnica radiofarmacológica tenha sido a escolha mais acertada, tendo em conta a secreção de produtos radioactivos no leite materno. Caso a administração seja considerada necessária, a amamentação
+ 4 deve ser interrompida e o leite materno extraído e inutilizado. O recomeço da amamentação é habitualmente aconselhado quando o nível de produto no leite resulta numa dose radioactiva para a criança inferior a 1 mSv. Devido à curta semi-vida (6 horas) do 99mTc, pode esperar-se, apenas 24 horas após a administração de LeukoScan[ 99mTc], um nível de produto radioactivo no leite materno inferior a 1 mSv.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas. Não existe efeito conhecido.
+ 4.8 Efeitos indesejáveis Foram notificados alguns efeitos indesejáveis, embora em pequeno numero e de duração curta e que poderiam possivelmente estar relacionados com a administração de LeukoScan: eosinofilia (3); rubor facial (1). Nenhum destes efeitos foi considerado grave e foram resolvidos sem apresentarem sequelas.
+ Da experiência de pós-comercialização com cerca de 70 000 frascos comercializados existem apenas reportados 2 casos de reacções alergicas.
+ 1. Nos estudos controlados realizados, observou-se uma redução estatisticamente significativa do número de leucocitos em 24 horas após a injecção, a partir de um valor médio de 8.9 para um valor médio de 8.0 (x 103/mm3), para ficar dentro dos parâmetros normais e voltar aos valores originais na hora de medição dez dias depois. Pelo contrário, em doentes não infectados, observaram-se aumentos transitórios do número de leucócitos nas primeiras 24 horas após a administração do LeukoScan. O número de eosinofilos aumentou de 2.7%-antes da injecção-para 2.9%-após a injecção e para 3.9%,10 dias depois, sendo a amplitude destes dois incrementos estatisticamente significativa. Estas variações foram consideradas pelos investigadores, como clinicamente inconsequentes em termos individuais.
+ Desconhece-se se as alterações observadas no número de leucócitos ou no número de eosinófilos (apesar de não terem qualquer significado clínico) se devem a um efeito transitório na função leucocitária. Se assim for, os resultados clínicos laboratoriais não permitem quaisquer conclusões relativas ao(s) mecanismo(s) subjacente(s) responsável(eis). Contudo, os testes da função granulocitária in vitro não demonstraram alterações significativas quando se adicionou o IMMU-MN3-Fab ’-SH.
+ In vitro, observaram-se dados positivos de 2 a 6% relativamente aos linfocitos. Os efeitos na função linfocitária não foram determinados.
+ 2. HAMA: Não se observou indução da produção de anticorpos humanos anti-rato (AHAR) reactivos ao fragmento em nenhum dos doentes medicados com LeukoScan.
+ 3. A exposição à radiação ionizante deve ser justificada em cada doente, com base no benefício que pode ser esperado. A quantidade de produto radioactivo administrado deve ser a que corresponde à menor dose possível de radiação, tendo em conta a necessidade de obter o resultado diagnóstico pretendido. A exposição a radiação ionizante está ligada à indução da carcinogénese, apresentando também um potencial para o desenvolvimento de defeitos hereditários. Os dados actuais sugerem que os efeitos adversos, determinados pelos exames diagnósticos de medicina nuclear, ocorrem com uma frequência reduzida, devido às reduzidas doses de radiação envolvidas.
+ 5 4. Na maior parte dos exames diagnósticos que utilizam técnicas de medicina nuclear, a dose de radiação administrada (dose efectiva/EDE) é inferior a 20 mSv. Em determinadas circunstâncias clínicas, pode justificar-se o recurso a doses mais elevadas.
+ 4.9 Sobredosagem Não foi ainda determinada a quantidade máxima de LeukoScan[ 99mTc] que pode ser administrada de forma segura. Nos ensaios clínicos realizados, foram administradas doses individuais de 1.0 mg de LeukoScan, marcado com isótopos radioactivos de 99mTc com 900 ± 200 MBq, em 11 doentes com diversas formas de infecção, não se verificando quaisquer efeitos adversos com esta dose.
+ No caso, pouco provável, de ocorrer uma sobredosagem com LeukoScan[ 99mTc], a dose absorvida pelo doente pode ser reduzida através do aumento do aporte oral e intravenoso de líquidos, por forma a promover a excreção do marcador radioactivo
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Meios de Diagnóstico Rádio-farmacológicos; V04D
+ Quando administrado nas concentrações e nível de radioactividade utilizados nos procedimentos diagnósticos, o LeukoScan não parece apresentar quaisquer efeitos farmacodinâmicos.
+ O anticorpo (IMMU-MN3) reconhece a estrutura antigénica partilhada por uma glicoproteína de superfície (NCA-90) dos granulocitos e pelo marcador tumoral CEA (antigénio carcino-embrionário).
+ Num estudo de grupos simples, aberto, não controlado, envolvendo 53 doentes com infecções agudas ou crónicas de origem e extensão desconhecidas, foram avaliadas doses de 0.1 mg a 1.0 mg de LeukoScan. Não se observou qualquer efeito dose-resposta no que respeita à eficácia imagiológica (i. e. sensibilidade ou especificidade) para o espectro de doses estudado.
+ Os estudos in vitro demonstraram que o LeukoScan não apresenta qualquer efeito na regulação superior ou inferior dos granulocitos, embora pareça ligar-se de forma preferencial aos granulocitos activados, quando comparados com os inactivos.
+ Com base em dois ensaios clínicos controlados com LeukoScan, realizados em 175 doentes avaliados com o objectivo de demonstrar a segurança e eficácia deste produto na definição da presença e da localização da osteomielite, observaram-se os seguintes parâmetros: sensibilidade de 88.2%; especificidade de 65.6%; acuidade de 76.6%; valor preditivo positivo de 70.8%; valor preditivo negativo de 85.5%.
+ Num subgrupo de doentes, LeukoScan foi directamente comparado com a técnica de cintigrafia actualmente disponível, utilizando leucócitos autólogos marcados com 111In (ocasionalmente 99mTc); neste estudo, o LeukoScan demonstrou um aumento estatisticamente significativo da sensibilidade, em relação à obtida com a técnica dos leucócitos (87.7% vs. 72.6%, para um p= 0.003 pelo Teste de McNemar), não se observando qualquer diminuição significativa da especificidade (67.1% vs. 69.4%).
+ Os resultados clínicos indicam que LeukoScan pode apresentar resultados diferentes, de acordo com as diversas formas de apresentação clínica da osteomielite.
+ O produto é mais sensível (93.9% vs. 80.6%), mas menos específico (51.6% vs. 72.9%) no diagnóstico da osteomielite em doentes com úlceras diabéticas dos pés, quando comparado com os doentes com outras 6 localizações de osteomielite dos ossos longos. Contudo, observa-se uma acuidade diagnóstica equivalente entre estas duas formas de apresentação (77.5% vs. 75.8%, respectivamente).
+ Esta diferença pode ser possivelmente explicada pelo quadro clínico anatómico e fisiopatologico mais complexo da osteomielite no pé diabético, tornando a diferenciação entre a infecção nos tecidos moles e no osso mais difícil do que noutras formas de apresentação clínica da osteomielite dos ossos longos.
+ Uma avaliação do impacto clínico potencial de LeukoScan, demonstrou que este produto pode alterar a terapêutica clínica em 50.2% dos casos ou melhorar os resultados clínicos em 43.4% dos 175 doentes com suspeita de osteomielite que foram considerados aptos para este estudo. Presume-se que o LeukoScan proporcionou, em 49.7% dos doentes, um benefício clínico impossível de atingir com os outros métodos de diagnóstico imagiológico disponíveis, verificando-se ainda que o diagnóstico poderia ter sido estabelecido em 70.3% dos doentes recorrendo apenas ao LeukoScan. Estes efeitos benéficos acompanharam-se também de uma redução substancial (85.4%) do número de doentes que necessitaram de outros exames imagiológicos de diagnóstico.
+ Uma vez que o LeukoScan apresenta uma reacção cruzada com o CEA, não deve ser esquecido que pode interagir com os tumores produtores daquele marcador.
+ 5.2 Propriedades farmacocinéticas Realizaram-se estudos farmacocinéticos após a administração intravenosa do produto. Uma hora após a perfusão, os níveis sanguíneos correspondiam a 34% dos níveis iniciais; quatro horas depois, eram de 17% e 24 horas depois de 7%, quando comparados com os valores basais. A semi-vida de distribuição foi aproximadamente de 1.5 horas; a via de excreção é essencialmente renal, sendo 41% dos isótopos radioactivos excretados pela urina nas primeiras 24 horas após a administração do produto. 5.3 Dados de segurança pré-clínica
+ Somente estudos não-clínicos muito limitados têm sido realizados com o agente livre ou marcado com radioisótopos. Estes estudos não têm revelado quaisquer resultados com significado. Deve notar-se, contudo, que estes estudos não avaliaram a genotoxicidade, o potencial carcinogénico ou a toxicidade reprodutiva.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Cloreto estanoso, Di-hidratado Ácido Acético, Glacial (traço) Tartarato de Potássio de Sódio, tetra-hidratado Acetato de Sódio, Tri-hidratado
+ Cloreto de Sódio Ácido Hidroclorídrico (traço) Sacarose Nitrogénio
+ 6.2 Incompatibilidades Este radiofármaco não deve ser misturado com outros medicamentos excepto os mencionados na secção 6.6 ou 12
+ 6.3 Prazo de validade Kit-48 meses. 7 Material reconstituído e marcado com radioisótopos – 4 horas.
+ 6.4 Precauções especiais de conservação
+ Kit-Conservar no frigorífico (2ºC-8ºC). Não congelar. Material reconstituído e marcado com radioisótopos – Não consrevar acima de 25º C. Não refrigerar ou congelar
+ 6.5 Natureza e conteúdo do recipiente Um frasco preparado de forma a conter 0.31 mg de liofilizado de fragmentos de anticorpos monoclonais LeukoScan. Os frascos para injectáveis de vidro Tipo 1 são fechados com uma rolha de borracha de butilo cinzenta, apresentando um selo de segurança tipo flip-off, de cor verde. Embalagem: um frasco por caixa de papelão.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ Antes de iniciar o procedimento de preparação, devem ler-se completamente as suas instruções.
+ O LeukoScan é uma fórmula liofilizada, estéril, contendo 0, 31mg de sulesomab por frasco e incluí 0, 22mg de cloreto estanhoso dihidratado, 3, 2mg tartrato de sódio e potássio tetrahidratado, 7,4 mg de acetato de sódio trihidratado, 5, 5mg de cloreto de sódio, ácido acético glacial, ácido hidrocloridrico, 37, 8mg de sucrose, nitrogénio (vácuo). O agente de imagem, 99mTc-LeukoScan (99mTc-Sulesomab) é adquirido por reconstituição do conteúdo do frasco de LeukoScan com 0, 5ml de cloreto de sódio injectável, e adicionando 1100MBq de pertecnetato de sódio (99mTc) em 1ml de cloreto de sódio injectável.
+ Os radiofármacos devem ser preparados pelo usuário de forma a satisfazer as exigências relativas à segurança, em termos de radiação, e à qualidade farmacêutica. Devem ser tomadas medidas de assépsia apropriadas, de acordo com as Boas Práticas de Fabrico-(Good Manufacturing Pratices-GMP) para os produtos farmacêuticos.
+ Radiofármacos reconstituídos devem ser manipulados com luvas à prova de água, com uma protecção adequada contra radioactividade e técnicas de assépsia. Após da reconstituição, o radiofármaco não-usado e o frasco devem ser tratados como lixo radioactivo e descartado de acordo com as normas locais.
+ O produto não usado e os desperdícios deverão ser eliminados de acordo com a legislação local.
+ Método de preparação Obter 900±200 MBq de per-tecnetato de sódio 99mTc purificado de qualquer 1 fornecedor comercial e que foi decantado nas últimas 24 horas. Adicionar a solução salina, por forma a obter uma solução com um volume final de 1.0 ml.
+ 2. Limpar a rolha de borracha de cada um dos frascos com um compresso de álcool. A reconstituição do pó liofilizado deve ser efectuada com uma seringa estéril descartável, injectando 0.50 ml da solução salina no frasco selado de 30 ml de LeukoScan.
+ 3. Rodar e agitar o conteúdo do frasco durante 30 segundos sem usar força para assegurar a dissolução. A marcação com radioisótopos deve acontecer imediatamente após a reconstituição do produto.
+ 8 4. Adicionar o eluido ao frasco selado; agitar o frasco e aguardar cerca de dez minutos, para que a reacção de marcação radioactiva possa prosseguir. O volume total no frasco equivale a 1.5 ml.
+ 5. Com base na actividade medida no calibrador, retirar uma quantidade suficiente de produto para obter a actividade desejada (750-1100 MBq de 99mTc; ver Posologia e Método de Administração). O LeukoScan[ 99mTc] pode ser utilizado ao fim de dez minutos, devendo ser administrado dentro de quatro horas após a preparação. O LeukoScan[ 99mTc] pode ser conservado à temperatura ambiente após a preparação. Não refrigerar após marcação
+ 6. Antes da administração, a solução deve ser inspeccionada visualmente, no que respeita à existência de partículas ou descoloração, e deverá ser efectuado o controlo de qualidade (ver secção 12). Perante a presença de qualquer uma destas alterações, o produto não deve ser utilizado.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Immunomedics GmbH Otto-Röhm-Strasse 69 64293 Darmstadt Alemanha
+ 8. NUMERO(S) DE AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/97/032/001 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 14 de Fevereio de 1997 Data da última renovação: 20. 05.2007
+ 10. DATA DA REVISÃO DO TEXTO Data de aprovação da última variação: MM/AAAA
+ 11. DOSIMETRIA Para estemedicamento, a dose eficaz equivalente resultante da administração de radioisótopos com uma actividade de 750 MBq, num indivíduo com 70 Kg, é tipicamente de 7.7 mSv.
+ O tecnécio[ 99mTc] desintegra-se com a emissão de radiação gama com uma energia de 140 Kev e uma semi-vida de 6 horas-transformando-se em tecnécio[ 99Tc], que pode considerar-se como sendo praticamente estável.
+ A estimativa das doses de radiação absorvidas por um doente adulto médio (70 Kg de peso) em virtude da administração de LeukoScan marcado com 750 MBq de tecnécio-99m são apresentadas na Tabela 1. Estas estimativas de doses, assumem um intervalo de esvaziamento da bexiga de duas horas. Os valores foram
+ 9 calculados de acordo com a Dosimetria de Radiação Interna Médica (Medical Internal Radiation Dosimetry).
+ Tabela 1
+ Resumo da Dosimetria dos Órgãos Normais num Doente Adulto Médio (70 Kg) em função da Administração de uma Dose de LeukoScan Marcada com 750 MBq de Tecnécio-99m[ Dose Estimada com base em 13 doentes e 26 administrações]
+ LeukoScan[ 99mTc]
+ Órgão Dose Média µGy/MBq Rins Parede da Bexiga Baço Parede Cardíaca Pulmões Fígado Superfícies Ósseas Supra-Renais Medula Vermelha Pâncreas Tiróide
+ 44.9 21.5 15.7 11.8 10.0 9.0 8.0 7.2 7.1 6.8 6.7
+ Parede da Vesícula Biliar Útero Ovários Intestino Delgado Estômago Parede do Intestino Grosso Superior Parede do Intestino Grosso Inferior Timo Corpo Total Músculo Testículos Mamas Cérebro Pele
+ 6.2 5.9 4.9 4.8 4.8 4.7 4.7 4.5 4.2 3.5 3.0 2.8 2.4 2.1
+ Dose Eficaz Equivalente* Dose Eficaz
+ 10.3 8.0 * A Dose Eficaz Equivalente e a Dose Eficaz são medidas em µSv/MBq.
+ 12. INSTRUÇÃO PARA A PREPARAÇÃO DE RADIOFÁRMACOS (SE APLICÁVEL)
+ Controlo de qualidade O LeukoScan é reconstituído com 0, 5ml de solução isotónica de cloreto de sódio injectável. Após reconstituição, é adicionado 1ml de pertecnetato de sódio (99mTc).
+ A dose recomendada num adulto são 0, 25mg de fragmento Fab ’ marcado com 900±200 MBq de pertecnetato (99mTc) (aproximadamente 1, 2ml).
+ 10 Após a marcação radioactiva o anticorpo e a diluição de uma amostra de 10 µl numa solução salina de 1.5 ml, determinam imediatamente a pureza radioquímica do produto por Cromatografia Instantânea em Lâmina Fina, sobre tiras de vidro impregnadas de gel de sílica, com 1 x 9 cm de tamanho e utilizando acetona como solvente. Quando a frente do solvente se encontrar a cerca de 1 cm da extremidade superior da tira, esta deve ser removida e cortada ao meio, colocando-se cada uma das metades num tubo de vidro. Estes tubos, são depois introduzidos num contador de cintilações de raios gama, num calibrador de dosagens ou num dispositivo para análise de rádio-cromatogramas, por forma a calcular a percentagem de tecnécio livre, de acordo com a seguinte fórmula:
+ % de tecnécio livre=
+ Actividade na metade superior da tira x 100 Actividade Total
+ O produto marcado com isótopos radioactivos não deve conter mais de 10% de tecnécio livre.
+ Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 11 ANEXO II
+ A. FABRICANTE DA SUBSTÂNCIA DE ORIGEM BIOLÓGICA E TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ C. OBRIGAÇÕES ESPECÍFICAS A SEREM CUMPRIDAS AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ PELO TITULAR DA 12 A. FABRICANTE DA SUBSTÂNCIA ACTIVA DE ORIGEM BIOLÓGICA E TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do fabricante da substância activa de origem biológica
+ Immunomedics, Inc. 300 American Road Morris Plains, New Jersey 07950, USA
+ Nome e endereço do fabricante responsável pela libertação do lote
+ Immunomedics, GmbH Otto Room Straβe 69 D-64293 Darmstadt Alemanha
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento sujeito à receita médica restrita
+ • OUTRAS CONDIÇÕES
+ Não aplicável C. OBRIGAÇÕES ESPECÍFICAS A SEREM CUMPRIDAS AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ PELO TITULAR DA Não aplicável 13 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 14 A. ROTULAGEM
+ 15 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDARIO E NO ACONDICIONAMENTO PRIMÁRIO
+ (RÓTULO DA EMBALAGEM)
+ 1. DENOMINAÇÃO DO MEDICAMENTO LeukoScan 0.31 mg pó para solução injectável
+ 2. DESCRIÇÃO DOS PRINCÍPIOS ACTIVOS 1 frasco para injectáveis contêm 0, 31mg de sulesomab
+ 3. LISTA DOS EXCIPIENTES Cada frasco para injectáveis contém cloreto estanoso, cloreto de sódio, tartarato de potássio e sódio, acetato de sódio, sacarose e nitrogénio
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Pó para solução injectável 0, 31mg sulesomab
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Para utilização intravenosa. Ler o folheto informativo antes de usar o medicamento.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcançe e vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIAS
+ Apenas para uso em diagnóstico. Após adição de técnecio, o produto final deverá ser eliminado como resíduo radioactivo e de acordo com as regulamentações legais locais.
+ 8. PRAZO DE VALIDADE EXP MM/AAAA 16 9. CONDIÇÕES ESPECIAIS DE COBNSERVAÇÃO
+ Conservar no frigorífico (2ºC-8ºC). Não congelar
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO.
+ Após uso, o frasco deverá ser eliminado como resíduo radioactivo.
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Immunomedics, GmbH Otto-Röhm-Straβe 69 D-64293 Darmstadt Alemanha Telefone: +49-6151-66 715 66 Fax: +49-6151-66 715 77
+ 12. NÚMERO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/97/032/001 13. NÚMERO DO LOTE Lote# 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILE 17 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ ROTULAGEM DO FRASCO PARA INJECTÁVEIS 1. DENOMINAÇÃO DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ LeukoScan 0,31 mg pó para solução injectável 0, 31mg de sulesomab liofilizado, cloreto estanoso e conservantes Para utilização intravenosa
+ 2. MODO DE ADMINISTRAÇÃO Para utilização intravenosa. Ler o folheto informativo antes de usar o medicamento.
+ 3. PRAZO DE VALIDADE EXP MM/AAAA 4. NÚMERO DO LOTE lote#
+ 5. CONTEÚDO TERMOS DE PESO, VOLUME OU UNIDADE
+ 0, 31mg de sulesomab liofilizado, cloreto estanoso e conservantes.
+ 6. OUTRAS Rehidratar com pertecnetado de sódio, estéril e apirogénico.
+ 18 B. FOLHETO INFORMATIVO
+ 19 FOLHETO INFORMATIVO: INFORMAÇAOS PARA O UTILIZADOR LeukoScan (0,31 pó para solução injectável) (sulesomab)
+ Leia este folheto cuidadosamente antes de começar a utilizar este medicamento.
+ • Guarde este folheto. Pode necessitar de lê-lo outra vez • Não contém toda a informação acerca deste medicamento, por favor consultar o sumário das características do produto ou pergunte ao seu mécido ou enfermeiro se tiver alguma questão. Este folheto apenas se aplica ao LeukoScan. • Se tiver mais alguma pergunta, por favor, pergunte ao seu médico • Se alguns dos efeitos secundários se tornar sério, ou se notar algum efeito secundário que não esteja mencionado neste folheto, por favor, informe o seu médico.
+ Neste folheto: 1. Para o que é usado o LeukoScan 2. Antes de usar o LeukoScan 3. Como usar o Leukoscan 4. Efeitos secundários possíveis 5. Como armazenar o LeukoScan 6. Mais informações
+ 1. O QUE É O LEUKOSCAN E PARA QUE É USADO
+ Um anticorpo é uma substância natural, produzida pelo organismo, que se liga a substâncias estranhas para facilitar a sua remoção do organismo. O corpo humano produz muitos tipos diferentes de anticorpos.
+ O LeukoScan (sulesomab) constitui uma forma especial de anticorpo, que se liga à superfície de um determinado tipo de células sanguíneas chamadas leucócitos. É produzido em ratos e purificado de forma a poder ser utilizado em seres humanos. Quando combinado com o isótopo radioactivo de tecnécio e injectado numa veia, apresenta a capacidade de localizar e de se ligar a acumulações anormais de leucócitos. Uma a oito horas após a injecção será posicionado numa mesa especial e serão adquiridas imagens como uma camera nuclear standard. Isto vai ajudar o seu médico a diagnosticar e avaliar a extensão da doença. Os médicos efectuam este procedimento recorrendo a uma câmara especial de projecção de imagens, que revela as áreas que apresentam actividade radioactiva para ver onde estão localizadas as infecções. Este medicamento é para uso de diagnóstico apenas.
+ O LeukoScan é utilizado para determinar a presença de infecções em ossos longos. Quase imediatamente após a mistura do LeukoScan com o isótopo radioactivo de tecnécio, o médico procede à injecção do produto numa das suas veias. Uma a oito horas depois, será posicionado numa mesa especial e serão adquiridas imagens como uma camera nuclear standard.
+ O LeukoScan é constituído por um fragmento de anticorpo que é ligado a uma substância radioactiva chamada tecnécio. O LeukoScan é utilizado nos doentes em que se suspeita da presença de uma infecção óssea chamada osteomielite. O anticorpo apresenta a capacidade de se ligar à superfície dos glóbulos brancos, que infiltram a área da infecção. Quando o anticorpo, marcado com a substância radioactiva, se liga aos glóbulos brancos, o médico pode determinar a localização da infecção, através do uso de uma
+ 20 câmara especial de imagens, que revela as áreas com radioactividade. O médico pode também determinar a extensão da doença. Estas informações ajudam o médico a esclarecer se existe uma infecção no osso e a determinar o tipo de tratamento mais adequado.
+ 2. ANTES DE UTILIZAR LEUKOSCAN Não deve usar LeukoScan 0, 31mg, pó solução injectável
+ Se tiver conhecimento de alergias (hipersensibilidade) ao sulesomab ou a quaisquer proteínas de ratos, deve comunicá-lo ao seu médico. Nestes casos, o LeukoScan não lhe pode ser administrado.
+ Deve ter especial cuidado com o LeukoScan
+ •
+ É possível apresentar uma reacção alérgica séria ao LeukoScan. Por isso, o seu médico deve mantê-lo sob observação durante um curto espaço de tempo após a administração deste medicamento.
+ •
+ Se alguma vez recebeu LeukoScan ou outro qualquer anticorpo derivado de um rato o seu médico deve colher uma amostra de sangue para ter a certeza que não desenvolveu alergia.
+ •
+ Se a solução preparada de LeukoScan apresentar descoloração ou particulas suspensas não deve ser utilizado.
+ Utilização de outros medicamentos Até à data, não foram descritas quaisquer interacções com outros medicamentos.
+ Por favor, avise o seu médico se estiver a tomar ou tiver tomado recentemente outros medicamentos incluíndo medicamentos obtidos sem receita médica.
+ Utilização de LeukoScan com alimentos e bebidas
+ Não foram efectuados estudos dos efeitos da comida/bebida
+ Gravidez e amamentação Gravidez • Não lhe deve ser administrado LeukoScan se tiver grávida.
+ Amamentação • Se estiver a amamentar deve parar durante pelo menos 24h após a administração do LeukoScan
+ Uso de Agentes Radiofarmacêuticos • Os agentes radiofarmacêuticos devem ser usados apenas por pessoal qualificado e com a devida autorização do governo para o uso e a manipulação de radionuclídeos.
+ • Esse radiofármaco pode ser recebido, usado e administrado somente por pessoas autorizadas em condições clínicas específicas. A sua recepção, armazenagem, uso, transferência e eliminação estão sujeitos aos regulamentos e/ou às licenças adequadas dos órgãos oficiais locais competentes.
+ 21 • Os radiofármacos devem ser preparados pelo utilizador numa maneira que satisfaça tanto segurança contra radiação como também requisitos de qualidade farmacêutica. As precauções assépticas apropriadas devem ser tomadas para cumprir os requisitos das Boas Práticas de Fabrico(BPF) para fármacos.
+ • Depois do uso, o recipiente deve ser eliminado como lixo radioactivo.
+ Utilização e condução de máquinas Não foram efectuados estudos sobre os efeitos para a capacidade de condução e utilização de máquinas.
+ Informação importante para alguns componentes do LeukoScan
+ Se foi informado pelo seu médico que tem intolerância a alguns açúcares, contacte-o antes de tomar este medicamento.
+ 3. COMO UTILIZAR LEUKOSCAN Posologia Você receberá uma dose única de 0,25 mg de LeukoScan. Esta dose contém o isótopo radioactivo de tecnécio numa quantidade de 740-1100 MBq.
+ Modo e via de administração O seu médico irá preparar o LeukoScan e o isótopo radioactivo de tecnécio num volume de 1,5 ml (correspondendo a 0,25 mg de LeukoScan, marcados com 740-1100 MBq de tecnécio). Este produto será então injectado numa das suas veias. A dose de radioactividade é segura, desaparecendo do seu organismo em cerca de 24 horas.
+ Frequência da Administração O LeukoScan é preparado para uma única injecção. Se o seu médico decidir administrá-lo novamente após algumas semanas ou alguns meses, deverá primeiro realizar algumas análises ao seu sangue, por forma a verificar se você desenvolveu alergia ao LeukoScan.
+ Se lhe for administrada mais dose de LeukoScan do que a devida
+ A máxima quantidade de LeukoScan que pode ser administrado não foi determinada. Doentes já receberam quatro vezes mais a dose que irá receber sem qualquer reacção adversa. No caso de uma administração acidental de uma sobredosagem de radiação com LeukoScan, a dose absorvida pelo doente pode ser reduzida pelo aumento da administração de liquidos via oral ou intravenosa para promover a excreção do radioisótopo.
+ Se parar de usar LeukoScan O LeukoScan é preparado para uma única injecção. Se tiver mais alguma questão sobre a utilização deste medicamento pergunte ao seu médico.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS 22 Como os demais medicamentos, o LeukoScan pode provocar efeitos secundários, no entanto estes não se manifestam em todas as pessoas. Embora raros, têm sido relatados alguns efeitos secundários. Entre eles, incluem-se o aumento ligeiro do número de determinados glóbulos brancos, designados de eosinófilos (sem que surjam quaisquer sintomas) e o desenvolvimento de urticária.
+ Se algum dos efeitos secundários se agravar, ou se detectar quaisquer efeitos secundários não mencionado neste folheto, informe o seu médico.
+ 5. COMO CONSERVAR LEUKOSCAN Manter fora do alcance e vista das crianças
+ Prazo de validade e conservação Kit – 48 meses. Conservar no frigorifico (2ºC-8ºC). Não congelar. Material reconstituído e marcado com radioisótopos – 4 horas. Não conservar acima de 25ºC-Não refrigerar ou congelar.
+ Após utilização o contentor de vidro deverá ser eliminado como resíduo radioactivo.
+ 6. MAIS INFORMAÇÕES O que contém LeukoScan Kit para preparação do LeukoScan marcado com tecnecio 99m. O kit não incluí o radioisótopo.
+ A substância activa é sulesomab Cada frasco para injectáveis de 3ml contém 0, 31mg de Sulesomab (IMMU-MN3 fragmento monoclonal antigranulocitário F’ ab de murino) para preparação de LeukoScan marcado com 99mTc.
+ Os outros componentes são: Cloreto estanoso, dihidratado Ácido acético glacial (vestigios) Tartarato de potássio e sódio, tetrahidratado Sacarose
+ Cloreto de Sódio Ácido hidroclórico (vestígios) Acetato de sódio trihidratado Nidrogenio
+ Qual a aparência do LeukoScan e conteúdo da embalagem
+ Pó para solução injectável. Um frasco para injectáveis preparado de forma a conter 0, 31mg de fragmento de anticorpo monoclonal LeukoScan liofilizado. O frasco para injectáveis de vidro tipo I é fechado com uma rolha de borracha butil cinzento e selado com uma cápsula verde.
+ Tamanho da embalagem: 1 frasco para injectáveis por contentor de cartão.
+ Titular da Autorização de Introdução no Mercado e Fabricante
+ Immunomedics GmbH 23 Otto-Röhm-Straβe 69 D-64293 Darmstadt Alemanha
+ 24

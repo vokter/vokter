@@ -1,0 +1,618 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. DENOMINAÇÃO DO MEDICAMENTO
+ Prialt 100 microgramas/ml solução para perfusão.
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Um ml de solução contém 100 μg de ziconotida (como acetato de ziconotida).
+ Frasco de 1 ml: cada frasco para injectáveis contém 100 μg de ziconotida (sob a forma de acetato de ziconotida).
+ Frasco de 2 ml: cada frasco para injectáveis contém 200 μg de ziconotida (sob a forma de acetato de ziconotida).
+ Frasco de 5 ml: cada frasco para injectáveis contém 500 μg de ziconotida (sob a forma de acetato de ziconotida).
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Solução para perfusão. Solução transparente e incolor, isenta de partículas visíveis.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas A ziconotida está indicada para o tratamento de dor crónica e intensa em doentes que necessitam de analgesia intratecal (IT).
+ 4.2 Posologia e modo de administração O tratamento com ziconotida só deve ser efectuado por médicos com experiência na administração de medicamentos por via intratecal (IT). Prialt destina-se apenas a uso intratecal.
+ Para instruções sobre a utilização e o manuseamento, ver secção 6.6.
+ Adultos (incluindo idosos ≥ 65 anos de idade)
+ A dosagem de ziconotida deve ser iniciada com 2,4 μg/dia e titulada individualmente de acordo com a resposta do doente ao analgésico e as suas reacções adversas. Os doentes devem ser titulados em incrementos de dose ≤ 2,4 μg/dia, até uma dose máxima de 21,6 μg/dia. O intervalo mínimo entre os aumentos de dose é de 24 horas: o intervalo recomendado, por razões de segurança, é de 48 horas ou mais. Se for necessário, a dose pode ser reduzida em qualquer quantidade (incluindo parar a perfusão) para controlo das reacções adversas. Aproximadamente 75% dos doentes que respondem satisfatoriamente ao tratamento necessitam de uma dose ≤ 9,6 μg/dia.
+ A ziconotida deve ser administrada como uma perfusão contínua através de um cateter intratecal, utilizando uma bomba de perfusão mecânica implantada externa ou internamente, capaz de debitar um volume de perfusão exacto. Como o risco de meningite secundária à cateterização prolongada do espaço intratecal é maior com um sistema de perfusão de cateter externo, recomendam-se os sistemas internos para administrar a ziconotida durante períodos prolongados. Um sistema de cateter externo apenas deve ser utilizado quando não é possível implantar um sistema interno.
+ 2 Quando forem necessárias doses pequenas de ziconotida, por exemplo, quando se inicia a titulação, a ziconotida deve ser diluída antes de ser utilizada com solução injectável de cloreto de sódio isenta de conservantes a 9 mg/ml (0,9%). (Ver secção 6.6).
+ Utilização em doentes pediátricos (&lt; 18 anos de idade)
+ Prialt não é recomendado para utilização em crianças com idade inferior a 18 anos devido à ausência de dados de segurança e eficácia. Não existe experiência em crianças.
+ Utilização em doentes com insuficiência hepática
+ Não foram realizados estudos em doentes com insuficiência hepática. A ziconotida deve ser administrada com precaução a doentes com insuficiência hepática.
+ Utilização em doentes com insuficiência renal
+ Não foram realizados estudos em doentes com insuficiência renal. A ziconotida deve ser administrada com precaução a doentes com insuficiência renal.
+ 4.3 Contra-indicações Hipersensibilidade à substância activa ou a qualquer um dos excipientes.
+ A ziconotida está contra-indicada em combinação com quimioterapia IT (ver secção 4.5).
+ 4.4 Advertências e precauções especiais de utilização
+ Embora a ziconotida tenha sido estudada em ensaios clínicos de segurança e eficácia de etiqueta aberta de longo prazo, não foram efectuados estudos controlados com uma duração superior a 3 semanas (ver secção 5.1). Não foram excluídos possíveis efeitos tóxicos locais de longo prazo na espinal medula e os dados pré-clínicos a este respeito são limitados (ver secção 5.3). Por conseguinte, é necessário ter precaução durante o tratamento de longo prazo.
+ A administração de medicamentos por via intratecal (IT) acarreta o risco de infecções potencialmente graves como, por exemplo, meningite, que podem ser fatais. A meningite provocada pela entrada de organismos através do trajecto do cateter ou por contaminação inadvertida do sistema de perfusão é uma complicação conhecida da administração de medicamentos intratecais, especialmente com sistemas externos.
+ Os doentes e os médicos devem estar atentos aos sintomas e sinais típicos de meningite.
+ A colocação intratecal ideal da ponta do cateter não foi estabelecida. A colocação da ponta do cateter num local mais baixo, por exemplo, ao nível lombar, pode reduzir a incidência de reacções adversas neurológicas relacionadas com a ziconotida. Por conseguinte, a colocação da ponta do cateter deve ser cuidadosamente considerada para permitir o acesso adequado a segmentos nociceptivos medulares minimizando ao mesmo tempo concentrações do medicamento a níveis cerebrais.
+ Apenas um pequeno número de doentes fez quimioterapia sistémica e ziconotida IT. A ziconotida deve ser administrada com precaução a doentes que estejam a fazer quimioterapia sistémica (ver secção 4.5).
+ Os aumentos da creatina-quinase, que normalmente são assintomáticos, são frequentes entre os doentes a fazer ziconotida intratecal. O aumento progressivo da creatina-quinase é pouco frequente. Contudo, recomenda-se o controlo da creatina-quinase. No caso de aumento progressivo, ou de aumento clinicamente significativo associado a aspectos clínicos de miopatia ou rabdomiólise, deverá considerar-se a interrupção da administração de ziconotida.
+ 3 Durante os ensaios clínicos não foram observadas reacções de hipersensibilidade, incluindo anafilaxia, e a imunogenicidade da ziconotida administrada por via IT parece ser baixa. Contudo, não se pode excluir o potencial de reacções alérgicas graves.
+ As reacções adversas cognitivas e neuropsiquiátricas, especialmente a confusão, são frequentes em doentes tratados com ziconotida. A diminuição cognitiva manifesta-se tipicamente após várias semanas de tratamento. Em doentes tratados com ziconotida foram referidos episódios de perturbações psiquiátricas agudas como, por exemplo, alucinações, reacções paranóides, hostilidade, delírio, psicose e reacções maníacas. A dose de ziconotida deve ser reduzida ou interrompida se surgirem sinais ou sintomas de diminuição cognitiva ou de reacções adversas neuropsiquiátricas, devendo ser igualmente consideradas outras causas que contribuam para as mesmas. Os efeitos cognitivos da ziconotida são tipicamente reversíveis no período de 1 a 4 semanas após a interrupção do medicamento, embora nalguns casos possam persistir.
+ Alguns doentes apresentaram níveis reduzidos de consciência enquanto estavam a utilizar ziconotida. Normalmente o doente permanece consciente e a respiração não é reduzida. O episódio pode ser autolimitado, mas a ziconotida deve ser interrompida até o episódio estar resolvido. Não se recomenda a reintrodução de ziconotida nestes doentes. A retirada de medicamentos depressores do SNC concomitantes deve ser igualmente considerada uma vez que estes podem contribuir para o nível reduzido de estimulação.
+ Em doentes com dor crónica intensa existe uma maior incidência de suicídio e de tentativas de suicídio do que na população em geral. A ziconotida pode causar ou agravar a depressão com o risco de suicídio em doentes susceptíveis.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Não foram realizados estudos clínicos específicos de interacção medicamentosa com ziconotida. No entanto, as baixas concentrações plasmáticas da ziconotida, o metabolismo por peptidases ubíquas e a ligação relativamente baixa às proteínas plasmáticas (ver secção 5.2) tornam pouco prováveis as interacções metabólicas ou as interacções do tipo de deslocação de proteínas plasmáticas entre a ziconotida e outros medicamentos.
+ Não existem dados clínicos disponíveis sobre a interacção entre a quimioterapia IT e a ziconotida IT. A ziconotida está contra-indicada em combinação com quimioterapia IT (ver secção 4.3).
+ Apenas um pequeno número de doentes fez quimioterapia sistémica e ziconotida IT. A ziconotida deve ser administrada com precaução a doentes que estejam a fazer quimioterapia sistémica (ver secção 4.4).
+ Não é de prever que os medicamentos que afectam peptidases/proteases específicas tenham impacto sobre a exposição plasmática da ziconotida. Com base em investigações clínicas muito limitadas, tanto os inibidores da enzima conversora da angiotensina (por exemplo, benazepril, lisinopril e moexipril) como os inibidores de proteases do VIH (por exemplo, ritonavir, saquinavir, indinavir) não têm efeito imediatamente aparente na exposição plasmática da ziconotida.
+ A ziconotida não interage com receptores de opiáceos. Se se interromperem os opiáceos quando se iniciar a terapêutica com ziconotida, a retirada dos opiáceos deve ser gradual. Para os doentes que vão ser retirados dos opiáceos IT, a dose de perfusão de opiáceos IT deve ser gradualmente reduzida ao longo de algumas semanas e substituída por uma dose farmacologicamente equivalente de opiáceos orais. É possível adicionar ziconotida IT a doses estáveis de morfina IT (ver secção 5.1), mas é necessária uma atenção especial, visto ter sido observada uma elevada taxa de eventos adversos neuropsiquiátricos (confusão/pensamentos anómalos, reacções paranóides e alucinações, e marcha anormal), alguns dos quais graves, no estudo 202 apesar de uma dose baixa de ziconotida. Foram igualmente observados vómitos e anorexia bem como edema periférico quando a ziconotida IT foi
+ 4 adicionada à morfina IT. A adição de morfina IT a doses estáveis de zicotonida IT é melhor tolerada (foi reportado prurido). (Ver secção 5.1).
+ Observou-se um aumento da incidência de sonolência quando a ziconotida é administrada concomitantemente com baclofeno, clonidina, bupivacaína ou propofol sistémicos.
+ Não existem dados disponíveis relativos à utilização concomitante de agonistas opióides parciais (por exemplo, buprenorfina) com ziconotida.
+ 4.6 Gravidez e aleitamento Não existem dados suficientes sobre a utilização de ziconotida em mulheres grávidas. Os estudos em animais revelaram toxicidade reprodutiva (ver secção 5.3). Desconhece-se o risco potencial para o ser humano. A ziconotida não deverá ser utilizada durante a gravidez a menos que tal seja claramente necessário.
+ Não se sabe se a ziconotida é excretada no leite materno, pelo que não deve ser administrada a mulheres durante a fase de aleitamento a menos que seja claramente necessário.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas.
+ A ziconotida pode causar confusão, sonolência e outras reacções adversas neurológicas, pelo que os doentes devem ser aconselhados a não conduzirem nem utilizarem máquinas caso sejam afectados.
+ 4.8 Efeitos indesejáveis A segurança da ziconotida administrada como uma perfusão intratecal contínua foi avaliada em mais de 1400 doentes a participarem em ensaios clínicos de dor aguda e crónica. A duração do tratamento variou de uma perfusão em bólus de uma hora à utilização contínua durante mais de 6 anos. O tempo de exposição mediano foi 43 dias. A velocidade de perfusão da dose variou de 0,03 a 912 μg/dia, com uma taxa da dose final de 7,2 μg/dia em mediana.
+ Nos ensaios clínicos,88% dos doentes manifestaram reacções adversas medicamentosas (RAMs). As RAM referidas com mais frequência nos ensaios clínicos prolongados foram tonturas (42%), náuseas (30%), nistagmo (23%), estado confuso (25%), marcha anormal (16%), diminuição da memória (13%), visão desfocada (14%), cefaleia (12%), astenia (13%), vómitos (11%) e sonolência (10%). A maioria das RAM foram de gravidade ligeira a moderada e resolveram-se ao fim de algum tempo.
+ Todas as RAM referidas nos ensaios clínicos intratecais com ziconotida (exposição curta e prolongada) estão indicadas a seguir por ordem de frequência.
+ Muito frequentes (&gt; 1/10), Frequentes (&gt; 1/100, &lt; 1/10), Pouco frequentes (&gt; 1/1,000, &lt; 1/100)
+ Infecções e infestações Pouco frequentes: sépsis, meningite Doenças do metabolismo e da nutrição Frequentes: diminuição de apetite, anorexia
+ 5 Perturbações do foro psiquiátrico
+ Muito frequentes: estado confuso Frequentes: ansiedade, alucinações auditivas, insónia, agitação, desorientação, alucinações, alucinações visuais, depressão, paranóia, irritabilidade, depressão agravada, nervosismo, instabilidade, alterações do estado mental, ansiedade agravada, confusão agravada
+ Pouco frequentes: delírio, distúrbio psicótico, ideação suicida, tentativa de suicídio, pensamento bloqueado, sonhos anormais
+ Doenças do sistema nervoso Muito frequentes: tonturas, nistagmo, diminuição da memória, cefaleia, sonolência
+ Frequentes: disartria, amnésia, disgeusia, tremor, diminuição do equilíbrio, ataxia, afasia, sensação de ardor, sedação, parestesia, hipoestesia, perturbações da atenção, perturbações da fala, arreflexia, coordenação anormal, tonturas posturais, perturbação cognitiva, hiperestesia, hiporreflexia, ageusia, nível reduzido de consciência, disestesia, parosmia, prostração mental
+ Pouco frequentes: incoerência, perda de consciência, coma, estupor, convulsões, acidente vascular cerebral, encefalopatia
+ Afecções oculares Muito frequentes: visão desfocada Frequentes: diplopia, perturbação visual, fotofobia
+ Afecções do ouvido e do labirinto Frequentes: vertigens, tinido Cardiopatias Pouco frequentes: fibrilhação auricular Vasculopatias Frequentes: hipotensão ortostática, hipotensão
+ Doenças respiratórias, torácicas e do mediastino
+ Frequentes: dispneia Pouco frequentes: insuficiência respiratória
+ Doenças gastrointestinais Muito frequentes: náuseas, vómitos Frequentes: diarreia, boca seca, obstipação, náuseas agravadas, dor na parte superior do abdómen
+ Pouco frequentes: dispepsia 6 Afecções dos tecidos cutâneos e subcutâneas
+ Frequentes: prurido, aumento da transpiração
+ Pouco frequentes: erupção cutânea Afecções musculosqueléticas e dos tecidos conjuntivos
+ Frequentes: dor nos membros, mialgia, espasmos musculares, cãibras musculares, fraqueza muscular, artralgia, edema periférico
+ Pouco frequentes: rabdomiólise, miosite, dor dorsal, contracção espasmódica muscular, dor no pescoço
+ Doenças renais e urinárias Frequentes: retenção urinária, hesitação urinária, disuria, incontinência urinária
+ Pouco frequentes: insuficiência renal aguda
+ Perturbações gerais e alterações no local de administração
+ Muito frequentes: marcha anormal, astenia
+ Frequentes: fadiga, pirexia, letargia, edema periférico, rigidez, queda, dor no peito, sensação de frio, dor, sentir-se a tremer, dor exacerbada
+ Pouco frequentes: dificuldade em andar Exames complementares de diagnóstico Frequentes: creatinafosfoquinase sanguínea aumentada, perda de peso
+ Pouco frequentes: electrocardiograma anormal, aspartato aminotransferase aumentada, creatinafosfoquinase sanguínea MM aumentada, temperatura corporal aumentada
+ Os comentários específicos assim como precauções particulares relativamente à meningite, aumentos da creatina-cinase e acontecimentos adversos do SNC encontram-se na Secção 4.4.
+ 4.9 Sobredosagem Em estudos de perfusão intravenosa, foi administrada a voluntários saudáveis do sexo masculino ziconotida em doses até 70.000 μg/dia ou 3.200 vezes a dose de perfusão intratecal diária máxima recomendada. Foi observada hipotensão postural em quase todos os participantes que receberam doses intravenosas elevadas de ziconotida.
+ A dose intratecal máxima recomendada é de 21,6 μg/dia. A dose intratecal máxima prevista de ziconotida em ensaios clínicos era de 912 μg/dia após o aumento da titulação ao longo de 7 dias.
+ Num estudo clínico, um doente canceroso recebeu uma sobredosagem acidental de ziconotida IT de 744 μg ao longo de um período de 24 horas (31 μg/hora) e retomou o tratamento com a dose prevista após registar uma redução na escala análoga visual de intensidade da dor (VASPI) de 82 para 2,5 mm. Em alguns doentes que receberam doses intratecais superiores à dose máxima recomendada, foram observados efeitos farmacológicos exagerados, como, por exemplo, ataxia, nistagmo, tonturas, estupor, nível reduzido de consciência, espasmos musculares, estado confuso, sedação, hipotensão, afasia, perturbação da fala, náuseas e vómitos. Não houve qualquer indicação de depressão
+ 7 respiratória. A maioria dos doentes em observação recuperou no período de 24 horas após a retirada do medicamento.
+ Devem ser administradas medidas gerais de apoio médico aos doentes que recebem uma sobredosagem até estarem resolvidos os efeitos farmacológicos exagerados do medicamento.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Analgésicos Código ATC: N02BG08
+ A Autorização de Introdução no Mercado deste medicamento foi concedidade mediante “ Circunstâncias Excepcionais ”. Isto significa que não foi possível obter informação detalhada sobre este medicamento devido à raridade da doença. A Agência Europeia do Medicamento (EMEA) reavaliará anualmente quaisquer novas informações sobre o medicamento e actualizará este RCM se necessário.
+ A ziconotida é um análogo sintético de um ω-conopéptido, MVIIA, que se encontra no veneno do caracol marinho Conus magus. Trata-se de um bloqueador dos canais de cálcio de tipo N (NCCB). Os NCC regulam a libertação de neurotransmissores em populações neuronais específicas responsáveis pelo processamento espinal da dor. Na ligação a estes NCC neuronais, a ziconotida inibe a corrente de cálcio sensível à voltagem em aferentes nociceptivos primários que terminam nas camadas superficiais do corno dorsal da espinal medula. Isto, por sua vez, inibe a sua libertação de neurotransmissores (incluindo a substância P) e, por conseguinte, a sinalização espinal da dor.
+ Embora tenham sido observadas relações estatisticamente significativas e uma correlação razoável entre a exposição ao líquido cefalorraquidiano (LCR) (AUC, Cmax) e as medidas de resposta clínica após 1 hora de administração IT, ainda não foram identificadas relações dose-concentração-resposta bem definidas. Muitos doentes que respondem positivamente obtêm uma analgesia praticamente máxima algumas horas após a administração de uma dose adequada. Contudo, em certos doentes, os efeitos máximos podem ser atrasados durante aproximadamente 24 horas. Dada a ocorrência de analgesia e de reacções adversas ao fármaco com doses semelhantes, o intervalo recomendado entre aumentos de dose é de 48 horas ou mais. Se for necessário, a dose pode ser reduzida em qualquer quantidade (incluindo parar a perfusão) para tratamento das reacções adversas ao fármaco.
+ As reacções adversas no sistema nervoso, especialmente as tonturas, as náuseas e a marcha anormal, parecem estar correlacionadas com a exposição ao LCR, embora não tenha sido estabelecida uma relação definitiva.
+ Durante a perfusão IT ocorre uma baixa exposição plasmática devido às baixas velocidades de perfusão IT recomendadas e à clearance plasmática relativamente rápida (ver secção 5.2). Por este motivo, os efeitos farmacológicos relacionados com a exposição sistémica devem ser mínimos.
+ A dose mediana na resposta é de aproximadamente 6,0 μg/dia e aproximadamente 75% dos doentes que respondem positivamente necessitam de ≤ 9,6 μg/dia. Para limitar a ocorrência de reacções adversas graves ao fármaco, recomenda-se uma dose máxima de 21,6 μg/dia. No entanto, foi observado em ensaios clínicos que os doentes que toleram doses de 21,6 μg/dia após uma titulação lenta ao longo de um período de 3 a 4 semanas, geralmente toleram doses superiores até 48,0 μg/dia.
+ Não há evidência de desenvolvimento de tolerância farmacológica à ziconotida nos doentes. Contudo, em vista dos dados limitados, não se pode excluir o desenvolvimento de tolerância. Deve considerar-se o exame da patência do cateter intratecal se a dose necessária de ziconotida aumentar continuamente e não houver benefício nem aumento das reacções ao fármaco.
+ Foram feitos três ensaios clínicos controlados por placebo de ziconotida IT.
+ 8 Dois estudos de curta duração, 95-001 (dor maligna) e 96-002 (dor não maligna), envolvendo 366 doentes, demonstraram a eficácia da ziconotida IT na dor crónica intensa utilizando a alteração percentual na escala análoga de intensidade da dor (VASPI) como a medida de eficácia primária. Estes estudos foram de curta duração,5 e 6 dias respectivamente, e utilizaram um escalonamento de dose mais rápido e doses mais elevadas do que o recomendado na Secção 4.2.
+ Resultados de eficácia do estudo 95-001 Atribuição do tratamento inicial
+ Pontuação Parâmetro média da VASPI Ziconotida (n= 71) 74,1 (± 13,82)
+ Placebo (n= 40) 77,9 (± 13,60) Valor de p-
+ na linha basal em mm (SD)
+ Pontuação média da VASPI no fim da titulação inicial em mm (SD)
+ 35,7 (± 33,27) 61,0 (± 22,91) _
+ % de melhoria na pontuação da VASPI no fim da titulação inicial (SD)
+ 51,4 (± 43,63) 18,1 (± 28,28) &lt; 0,001
+ Respondedora n (%) Dose no fim da titulação (μg/h)
+ 34 (47,9%) 7 (17,5%) 0,001 a
+ Média Mediana Intervalo
+ 0,91 0,60 0,074-9,36 Definiram-se como respondedores os doentes que 1) registaram uma descida ≥ 30% na pontuação VASPI relativamente à linha basal; 2) mantiveram estáveis ou reduziram os analgésicos opióides concomitantes; e 3) não sofreram alterações no tipo de opiáceo a partir da preperfusão caso estivessem a receber opiáceos. SD – Desvio padrão.
+ Resultados de eficácia do estudo 96-002 Atribuição do tratamento inicial Ziconotida (n= 169) b
+ Parâmetro Placebo (n= 86) Valor de p Pontuação média da VASPI
+ 80,1 (± 15,10) 76,9 (± 14,58) -
+ na linha basal em mm (SD)
+ Pontuação média da VASPI no fim da titulação inicial em mm (SD)
+ 54,4 (± 29,30) 71,9 (± 30,93) _
+ % de melhoria na pontuação da VASPI no fim da titulação inicial (SD)
+ 31,2 (± 38,69) 6,0 (± 42,84) &lt; 0,001
+ Respondedora n (%) Dose no fim da titulação (μg/h)
+ 57 (33,7%) 11 (12,8%) &lt; 0,001
+ a
+ Média Mediana Intervalo
+ 1,02 0,50 0,019-9,60 Definiram-se como respondedores os doentes que 1) registaram uma descida ≥ 30% na pontuação VASPI relativamente à linha basal; 2) mantiveram analgésicos opióides concomitantes estáveis ou reduzidos; e 3) não sofreram alterações no tipo de opiáceo a partir da preperfusão caso estivessem a receber opiáceos. b 164 doentes forneceram pontuações VASPI para a ziconotida no fim da titulação. SD – Desvio padrão.
+ 9 As etiologias de dor nos estudos 95-001 (dor maligna) e 96-002 (dor não maligna) foram variadas e incluíram dor óssea (n= 38) na maioria devida a metástases ósseas (n= 34), mielopatia (n= 38), metade das quais tinham lesões na medula espinal com paralisia (n= 19), neuropatia (n= 79), radiculopatia (n= 24), dor espinal (n= 91) na maioria devido a operação às costas falhada (n= 82), e outras etiologias (n= 82). Alguns doentes tinham mais de uma causa de dor. A eficácia da ziconotida IT foi aparente em todos os grupos.
+ O estudo 301 (n= 220) foi de maior duração (21 dias), envolveu titulação ascendente mais cuidadosa e doses menores de ziconotida IT, e dele fizeram parte a população de doentes mais refractária estudada nos três estudos. Todos os doentes do estudo 301 tinham falhado a terapêutica IT com combinações de analgésicos e os seus médicos consideravam que 97% dos doentes eram refractários aos tratamentos actualmente disponíveis. A maioria tinha dor espinal (n= 134), especialmente operação às costas falhada (n= 110); uma proporção mais baixa tinha neuropatia (n= 36). Apenas cinco tinham dor maligna. O ponto final primário foi a alteração percentual na pontuação da VASPI. A eficácia da ziconotida IT no estudo 301 foi mais baixa do que nos dois estudos anteriores de curta duração. A frequência e a gravidade de eventos adversos foram também mais baixas.
+ Resultados de eficácia do estudo 301 Atribuição do tratamento inicial
+ Parâmetro Ziconotida (n= 112) Placebo (n= 108) Valor de p Pontuação média da VASPI na linha basal em mm (SD)
+ 80,7 (± 14,98) 80,7 (± 14,91) -
+ Pontuação média da VASPI no fim da titulação inicial em mm (SD)
+ 67,9 (± 22,89) 74,1 (± 21,28) _
+ % de melhoria na pontuação da VASPI no fim da titulação inicial (SD)
+ 14,7 (± 27,71) 7,2 (± 24,98) 0,0360 Respondedora n (%) Dose no fim da titulação (μg/h)
+ 18 (16,1%) 13 (12,0%) 0,390 a
+ Média Mediana Intervalo
+ 0,29 0,25 0,0-0,80 Definiram-se como respondedores os doentes que registaram uma descida ≥ 30% na pontuação VASPI relativamente à linha basal. SD – Desvio padrão.
+ Estudos de combinação com morfina IT Os estudos clínicos 201 e 202 indicam que a combinação da ziconotida IT com a morfina IT pode reduzir eficazmente a dor e diminuir a utilização sistémica de opióides durante um período de tempo sustentado para doentes cuja dor for inadequadamente controlada com a sua dose máxima tolerada de ziconotida IT (mediana 8,7 μg/dia, média 25,7 μg/dia – estudo 201) ou só com morfina IT (estudo 202). Quando se adiciona ziconotida IT a doses estáveis de morfina IT, como com a iniciação da monoterapêutica com ziconotida IT, poderão surgir eventos adversos psicóticos (exemplo, alucinações, reacções paranóides) ou poderá ter de interromper a terapêutica devido ao aumento de eventos adversos. (Ver secção 4.5).
+ 5.2 Propriedades farmacocinéticas A farmacocinética da ziconotida no LCR foi estudada após uma hora de perfusões IT de 1 a 10 μg de ziconotida em doentes com dor crónica. Foi igualmente estudada a farmacocinética plasmática após doses intravenosas (0,3 a 10 μg/kg/24 h). Os dados IT e da farmacocinética intravenosa encontram-se resumidos a seguir.
+ 10 Farmacocinética no LCR e plasmática da ziconotida[ média ± SD (mediana)]
+ Via de Matriz Número CL (ml/min) Vd (ml) t½ (h)
+ administração
+ do
+ de
+ líquido
+ doentes
+ Intratecal LCR 23 0,38 ± 0,56 (0,26) 155 ± 263 (99) 4,6 ± 0,9 (4,5) Intravenosa Plasma 21 270 ± 44 (260) 30.460 ± 6.366 (29.320) 1,3 ± 0,3 (1,3) CL= clearance; Vd= volume de distribuição; t½= semi-vida
+ Absorção: Após uma hora de administração IT (1 – 10 μg), tanto os valores da exposição cumulativa (AUC; intervalo: 83,6 – 608 ng/h/ml) como da exposição máxima (Cmax; intervalo: 16,4 – 132 ng/ml) eram variáveis e dependentes da dose, mas pareciam apenas aproximadamente proporcionais à dose. As concentrações plasmáticas após perfusão IT (≤ 21,6 μg/dia) contínua (≥ 48 h) parecem ser relativamente baixas e tipicamente indetectáveis (isto é, cerca de 80% das amostras de plasma colhidas nos doentes da dor não contêm medicamento quantificável; &lt; 0,04 ng/ml). Não foi observada acumulação de ziconotida no plasma após administração IT prolongada (até 9 meses).
+ Distribuição: A ziconotida mediana no volume de distribuição LCR (Vd: 99 ml) situa-se entre o volume de LCR na espinal medula (aproximadamente 75 ml) e o volume total de LCR (aproximadamente 130 ml). A ziconotida parece distribuir-se principalmente no LCR até ser transferida para a circulação sistémica. Uma vez chegada à circulação sistémica, a ziconotida parece ser distribuída de uma forma mais extensa, baseada num volume de distribuição plasmática de aproximadamente 30 l e liga-se (não especificamente) apenas cerca de 53% às proteínas plasmáticas humanas.
+ Biotransformação: A ziconotida é um péptido constituído por 25 aminoácidos de ocorrência natural da configuração L, não parecendo ser metabolizada de forma apreciável no LCR. Após a passagem para a circulação sistémica, prevê-se que a ziconotida seja principalmente susceptível à clivagem proteolítica por diversas peptidases/proteases ubíquas presentes na maioria dos órgãos (por exemplo, rim, fígado, pulmão, músculo, etc.) e, portanto, degradada em fragmentos de péptidos e nos seus aminoácidos livres constituintes individuais. Prevê-se que os aminoácidos livres produzidos sejam captados por sistemas transportadores celulares e submetidos ao metabolismo intermédio normal ou utilizados como substratos para processos biossintéticos constitutivos. Devido à ampla distribuição destas peptidases, não se prevê que a insuficiência hepática ou renal afecte a clearance sistémica da ziconotida. A actividade biológica dos diversos produtos de degradação proteolítica previstos não foi avaliada. É pouco provável que os produtos de degradação da ziconotida tenham uma actividade biológica significativa, uma vez que se descobriu que os péptidos constituídos pelas estruturas circulares de péptidos individuais têm afinidades de ligação pelos canais do cálcio sensíveis à voltagem de tipo N que são várias ordens de grandeza inferiores à do composto original (ziconotida).
+ Eliminação: A clearance média da ziconotida (0,38 ml/min) aproxima-se da velocidade de renovação do LCR humano adulto (0,3 – 0,4 ml/min). Assim, a ziconotida parece ser principalmente eliminada do LCR (t½ média= 4,6 h) pelo fluxo do LCR para fora do SNC através das vilosidades aracnóides com a transferência subsequente para a circulação sistémica. É possível observar concentrações plasmáticas muito baixas de ziconotida em circulação após a administração IT devido tanto à baixa velocidade de perfusão IT como à clearance plasmática relativamente rápida. A semi-vida (t½) média de eliminação plasmática é de 1,3 h. A ziconotida é um péptido de peso molecular relativamente reduzido (PM= 2.639) e é filtrada pelo glomérulo do rim, mas apenas quantidades mínimas de ziconotida (&lt; 1%) são recuperadas na urina humana após perfusão intravenosa. Tal sucede porque quase toda a substância activa filtrada é rapidamente sujeita a endocitose e por último transportada outra vez para a circulação sistémica.
+ Populações específicas: Embora existam apenas dados limitados, não há nenhum efeito óbvio da raça, altura, peso, sexo ou idade na exposição da ziconotida no LCR após administração IT. Não foram 11 realizados quaisquer estudos formais de avaliação do impacto da disfunção renal ou hepática; no entanto, considerando que as peptidases estão presentes em diversos órgãos, não se prevê que a disfunção renal ou hepática tenha um impacto significativo na exposição sistémica da ziconotida.
+ 5.3 Dados de segurança pré-clínica Foram observados efeitos tóxicos pré-clínicos relacionados com a administração de ziconotida apenas em exposições consideradas suficientemente superiores relativamente à exposição humana para indicar um risco reduzido no uso clínico.
+ Em estudos de perfusão intratecal contínua subcrónica em ratos e cães, foram observados efeitos comportamentais com doses ≥ 8 vezes à dose de perfusão intratecal clínica recomendada de 21,6 μg/dia (numa base de mg/kg). Estes efeitos foram definidos por acções farmacológicas exageradas da ziconotida e não por lesões neurotóxicas ou toxicidade dos órgãos-alvo. As observações incluíram efeitos neurológicos transitórios e reversíveis consistindo de tremores, movimentos descoordenados e hiper e hipoactividade.
+ As consequências a longo prazo para a função neuronal do bloqueio contínuo dos canais de cálcio de tipo N não foram demonstradas em animais experimentais. As alterações na sinalização neurológica não foram estudadas em animais experimentais. A ziconotida não induziu mutação genética bacteriana e não foi genotóxica. Não foram realizados estudos crónicos em animais para avaliar o potencial carcinogénico da ziconotida. No entanto, a ziconotida não induziu transformação celular na análise in vitro do embrião do hamster sírio (SHE) e não aumentou a proliferação celular (formação de lesões pré-neoplásticas) nem a apoptose após exposição intratecal subcrónica em cães.
+ Em estudos de fertilidade realizados em ratos, não se registaram efeitos nos machos mas foram observadas reduções nos corpos lúteos, nos locais de implantação e no número de embriões vivos nas fêmeas. Não foram observados efeitos adversos na reprodução das fêmeas e no desenvolvimento pós-natal em ratos com exposições sistémicas até 2.300 vezes superiores às exposições humanas com a dose intratecal máxima recomendada.
+ A ziconotida não foi teratogénica nos ratos e nos coelhos com exposições &lt; 100 vezes os níveis plasmáticos humanos.
+ Estes resultados não indicam um risco significativo para os humanos devido às exposições sistémicas relativamente elevadas necessárias para provocar estes efeitos em ratos e coelhos.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Metionina Cloreto de sódio Água para preparações injectáveis Ácido clorídrico (ajuste de pH) Hidróxido de sódio (ajuste de pH)
+ 6.2 Incompatibilidades Este medicamento não deve ser misturado com outros, excepto os mencionados na secção 6.6.
+ 12 6.3 Prazo de validade
+ 3 anos A estabilidade química e física durante a utilização foi demonstrada durante 60 dias a 37°C.
+ De um ponto de vista microbiológico, se o produto for diluído deve ser imediatamente transferido para a bomba de perfusão. Se não for utilizado imediatamente, os tempos de conservação durante a utilização e as condições anteriores à utilização são da responsabilidade do utilizador e normalmente não devem ultrapassar as 24 horas a uma temperatura de 2 a 8ºC, a não ser que a diluição tenha sido feita em condições assépticas controladas e validadas.
+ 6.4 Precauções especiais de conservação
+ Conservar no frigorífico (2°C-8°C). Não congelar. Manter o frasco dentro da embalagem exterior para proteger da luz.
+ Para condições de conservação do medicamento diluído, ver secção 6.3.
+ 6.5 Natureza e conteúdo do recipiente Frascos de vidro do tipo I para uma única utilização com tampas de borracha de butilo revestidas de polímero fluorado.
+ Cada frasco para injectáveis contém 1,2 ou 5 ml de solução para perfusão.
+ Um frasco para injectáveis por embalagem.
+ É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais para eliminação
+ Se for necessária diluição, o Prialt deve ser diluído assepticamente com solução injectável de cloreto de sódio isenta de conservantes a 9 mg/ml (0,9%) antes de ser utilizado. A concentração da solução utilizada na bomba de perfusão não deve ser inferior a 5 μg/ml de ziconotida numa bomba externa e 25 μg/ml numa bomba interna.
+ Deverão ser adoptados procedimentos assépticos rigorosos durante a preparação e a manipulação da solução para perfusão e o reenchimento da bomba. O doente e os profissionais de saúde devem estar familiarizados com a manipulação do sistema de perfusão externo ou interno e devem estar cientes da necessidade de se protegerem de infecções.
+ Foi demonstrado que o Prialt é química e fisicamente compatível com a bomba Synchromed implantável e com a bomba CADD-Micro externa, aos níveis de concentração indicados acima. Foi demonstrada estabilidade química e física em utilização durante 14 dias a 37ºC na bomba Synchromed, sem que a bomba tivesse sido anteriormente exposta ao medicamento. O enchimento inicial deve portanto ser substituído ao fim de 14 dias.
+ O Prialt revelou-se estável durante 60 dias a 37°C na bomba Synchromed anteriormente exposta ao medicamento. Foi demonstrada estabilidade durante 21 dias à temperatura ambiente na bomba CADD-Micro.
+ É necessário solicitar aos fabricantes instruções específicas para utilização das bombas. Na administração do Prialt devem ser utilizadas bombas com marcação CE equivalentes à bomba Synchromed e à bomba CADD-Micro. As bombas anteriormente utilizadas para administrar outros medicamentos devem ser lavadas três vezes com solução injectável de cloreto de sódio a 9 mg/ml
+ 13 (0,9%) (isenta de conservantes) antes de serem cheias com Prialt. A introdução de ar no reservatório ou no cartucho da bomba deve ser minimizada, uma vez que o oxigénio pode degradar a ziconotida.
+ Antes do início da terapêutica, uma bomba interna deve ser lavada três vezes com 2 ml de Prialt a 25 μg/ml. A concentração de Prialt numa bomba que nunca tenha sido utilizada pode ser reduzida devido à adsorção nas superfícies do dispositivo e/ou à diluição pelo espaço residual do dispositivo. Por este motivo, após a primeira utilização de Prialt, o reservatório deve ser esvaziado e reenchido ao fim de 14 dias. A partir daí, a bomba deve ser esvaziada e reenchida de 60 em 60 dias.
+ O Prialt é uma solução transparente e incolor. Antes de ser administrado, deve ser inspeccionado visualmente para verificar se contém partículas ou sinais de descoloração. A solução não deve ser utilizada se se apresentar descolorada ou turva, ou se se observarem partículas.
+ Para utilização única. Qualquer solução não utilizada deve ser eliminada de acordo com a regulamentação local.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Eisai Ltd.,3 Shortlands London W6 8EE Reino Unido
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/04/302/001 – 1 ml solução para perfusão. EU/1/04/302/002 – 2 ml solução para perfusão. EU/1/04/302/003 – 5 ml solução para perfusão.
+ 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 21 de Fevereiro de 2005 10. DATA DA REVISÃO DO TEXTO Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia do Medicamento (EMEA) www. emea. europa. eu
+ 14 1. DENOMINAÇÃO DO MEDICAMENTO
+ Prialt 25 microgramas/ml solução para perfusão.
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Um ml de solução contém 25 μg de ziconotida (como acetato de ziconotida).
+ Cada frasco para injectáveis contém 500 μg de ziconotida (sob a forma de acetato de ziconotida).
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Solução para perfusão. Solução transparente e incolor, isenta de partículas visíveis.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas A ziconotida está indicada para o tratamento de dor crónica e intensa em doentes que necessitam de analgesia intratecal (IT).
+ 4.2 Posologia e modo de administração O tratamento com ziconotida só deve ser efectuado por médicos com experiência na administração de medicamentos por via intratecal (IT). Prialt destina-se apenas a uso intratecal.
+ Para instruções sobre a utilização e o manuseamento, ver secção 6.6.
+ Adultos (incluindo idosos ≥ 65 anos de idade)
+ A dosagem de ziconotida deve ser iniciada com 2,4 μg/dia e titulada individualmente de acordo com a resposta do doente ao analgésico e as suas reacções adversas. Os doentes devem ser titulados em incrementos de dose ≤ 2,4 μg/dia, até uma dose máxima de 21,6 μg/dia. O intervalo mínimo entre os aumentos de dose é de 24 horas: o intervalo recomendado, por razões de segurança, é de 48 horas ou mais. Se for necessário, a dose pode ser reduzida em qualquer quantidade (incluindo parar a perfusão) para controlo das reacções adversas. Aproximadamente 75% dos doentes que respondem satisfatoriamente ao tratamento necessitam de uma dose ≤ 9,6 μg/dia.
+ A ziconotida deve ser administrada como uma perfusão contínua através de um cateter intratecal, utilizando uma bomba de perfusão mecânica implantada externa ou internamente, capaz de debitar um volume de perfusão exacto. Como o risco de meningite secundária à cateterização prolongada do espaço intratecal é maior com um sistema de perfusão de cateter externo, recomendam-se os sistemas internos para administrar a ziconotida durante períodos prolongados. Um sistema de cateter externo apenas deve ser utilizado quando não é possível implantar um sistema interno.
+ Quando forem necessárias doses pequenas de ziconotida, por exemplo, quando se inicia a titulação, a ziconotida deve ser diluída antes de ser utilizada com solução injectável de cloreto de sódio isenta de conservantes a 9 mg/ml (0,9%). (Ver secção 6.6).
+ 15 Utilização em doentes pediátricos (&lt; 18 anos de idade)
+ Prialt não é recomendado para utilização em crianças com idade inferior a 18 anos devido à ausência de dados de segurança e eficácia. Não existe experiência em crianças.
+ Utilização em doentes com insuficiência hepática
+ Não foram realizados estudos em doentes com insuficiência hepática. A ziconotida deve ser administrada com precaução a doentes com insuficiência hepática.
+ Utilização em doentes com insuficiência renal
+ Não foram realizados estudos em doentes com insuficiência renal. A ziconotida deve ser administrada com precaução a doentes com insuficiência renal.
+ 4.3 Contra-indicações Hipersensibilidade à substância activa ou a qualquer um dos excipientes.
+ A ziconotida está contra-indicada em combinação com quimioterapia IT (ver secção 4.5).
+ 4.4 Advertências e precauções especiais de utilização
+ Embora a ziconotida tenha sido estudada em ensaios clínicos de segurança e eficácia de etiqueta aberta de longo prazo, não foram efectuados estudos controlados com uma duração superior a 3 semanas (ver secção 5.1). Não foram excluídos possíveis efeitos tóxicos locais de longo prazo na espinal medula e os dados pré-clínicos a este respeito são limitados (ver secção 5.3). Por conseguinte, é necessário ter precaução durante o tratamento de longo prazo.
+ A administração de medicamentos por via intratecal (IT) acarreta o risco de infecções potencialmente graves como, por exemplo, meningite, que podem ser fatais. A meningite provocada pela entrada de organismos através do trajecto do cateter ou por contaminação inadvertida do sistema de perfusão é uma complicação conhecida da administração de medicamentos intratecais, especialmente com sistemas externos.
+ Os doentes e os médicos devem estar atentos aos sintomas e sinais típicos de meningite.
+ A colocação intratecal ideal da ponta do cateter não foi estabelecida. A colocação da ponta do cateter num local mais baixo, por exemplo, ao nível lombar, pode reduzir a incidência de reacções adversas neurológicas relacionadas com a ziconotida. Por conseguinte, a colocação da ponta do cateter deve ser cuidadosamente considerada para permitir o acesso adequado a segmentos nociceptivos medulares minimizando ao mesmo tempo concentrações do medicamento a níveis cerebrais.
+ Apenas um pequeno número de doentes fez quimioterapia sistémica e ziconotida IT. A ziconotida deve ser administrada com precaução a doentes que estejam a fazer quimioterapia sistémica (ver secção 4.5).
+ Os aumentos da creatina-quinase, que normalmente são assintomáticos, são frequentes entre os doentes a fazer ziconotida intratecal. O aumento progressivo da creatina-quinase é pouco frequente. Contudo, recomenda-se o controlo da creatina-quinase. No caso de aumento progressivo, ou de aumento clinicamente significativo associado a aspectos clínicos de miopatia ou rabdomiólise, deverá considerar-se a interrupção da administração de ziconotida.
+ Durante os ensaios clínicos não foram observadas reacções de hipersensibilidade, incluindo anafilaxia, e a imunogenicidade da ziconotida administrada por via IT parece ser baixa. Contudo, não se pode excluir o potencial de reacções alérgicas graves.
+ 16 As reacções adversas cognitivas e neuropsiquiátricas, especialmente a confusão, são frequentes em doentes tratados com ziconotida. A diminuição cognitiva manifesta-se tipicamente após várias semanas de tratamento. Em doentes tratados com ziconotida foram referidos episódios de perturbações psiquiátricas agudas como, por exemplo, alucinações, reacções paranóides, hostilidade, delírio, psicose e reacções maníacas. A dose de ziconotida deve ser reduzida ou interrompida se surgirem sinais ou sintomas de diminuição cognitiva ou de reacções adversas neuropsiquiátricas, devendo ser igualmente consideradas outras causas que contribuam para as mesmas. Os efeitos cognitivos da ziconotida são tipicamente reversíveis no período de 1 a 4 semanas após a interrupção do medicamento, embora nalguns casos possam persistir.
+ Alguns doentes apresentaram níveis reduzidos de consciência enquanto estavam a utilizar ziconotida. Normalmente o doente permanece consciente e a respiração não é reduzida. O episódio pode ser autolimitado, mas a ziconotida deve ser interrompida até o episódio estar resolvido. Não se recomenda a reintrodução de ziconotida nestes doentes. A retirada de medicamentos depressores do SNC concomitantes deve ser igualmente considerada uma vez que estes podem contribuir para o nível reduzido de estimulação.
+ Em doentes com dor crónica intensa existe uma maior incidência de suicídio e de tentativas de suicídio do que na população em geral. A ziconotida pode causar ou agravar a depressão com o risco de suicídio em doentes susceptíveis.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Não foram realizados estudos clínicos específicos de interacção medicamentosa com ziconotida. No entanto, as baixas concentrações plasmáticas da ziconotida, o metabolismo por peptidases ubíquas e a ligação relativamente baixa às proteínas plasmáticas (ver secção 5.2) tornam pouco prováveis as interacções metabólicas ou as interacções do tipo de deslocação de proteínas plasmáticas entre a ziconotida e outros medicamentos.
+ Não existem dados clínicos disponíveis sobre a interacção entre a quimioterapia IT e a ziconotida IT. A ziconotida está contra-indicada em combinação com quimioterapia IT (ver secção 4.3).
+ Apenas um pequeno número de doentes fez quimioterapia sistémica e ziconotida IT. A ziconotida deve ser administrada com precaução a doentes que estejam a fazer quimioterapia sistémica (ver secção 4.4).
+ Não é de prever que os medicamentos que afectam peptidases/proteases específicas tenham impacto sobre a exposição plasmática da ziconotida. Com base em investigações clínicas muito limitadas, tanto os inibidores da enzima conversora da angiotensina (por exemplo, benazepril, lisinopril e moexipril) como os inibidores de proteases do VIH (por exemplo, ritonavir, saquinavir, indinavir) não têm efeito imediatamente aparente na exposição plasmática da ziconotida.
+ A ziconotida não interage com receptores de opiáceos. Se se interromperem os opiáceos quando se iniciar a terapêutica com ziconotida, a retirada dos opiáceos deve ser gradual. Para os doentes que vão ser retirados dos opiáceos IT, a dose de perfusão de opiáceos IT deve ser gradualmente reduzida ao longo de algumas semanas e substituída por uma dose farmacologicamente equivalente de opiáceos orais. É possível adicionar ziconotida IT a doses estáveis de morfina IT (ver secção 5.1), mas é necessária uma atenção especial, visto ter sido observada uma elevada taxa de eventos adversos neuropsiquiátricos (confusão/pensamentos anómalos, reacções paranóides e alucinações, e marcha anormal), alguns dos quais graves, no estudo 202 apesar de uma dose baixa de ziconotida. Foram igualmente observados vómitos e anorexia bem como edema periférico quando a ziconotida IT foi adicionada à morfina IT. A adição de morfina IT a doses estáveis de zicotonida IT é melhor tolerada (foi reportado prurido). (Ver secção 5.1).
+ Observou-se um aumento da incidência de sonolência quando a ziconotida é administrada concomitantemente com baclofeno, clonidina, bupivacaína ou propofol sistémicos.
+ 17 Não existem dados disponíveis relativos à utilização concomitante de agonistas opióides parciais (por exemplo, buprenorfina) com ziconotida.
+ 4.6 Gravidez e aleitamento Não existem dados suficientes sobre a utilização de ziconotida em mulheres grávidas. Os estudos em animais revelaram toxicidade reprodutiva (ver secção 5.3). Desconhece-se o risco potencial para o ser humano. A ziconotida não deverá ser utilizada durante a gravidez a menos que tal seja claramente necessário.
+ Não se sabe se a ziconotida é excretada no leite materno, pelo que não deve ser administrada a mulheres durante a fase de aleitamento a menos que seja claramente necessário.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas.
+ A ziconotida pode causar confusão, sonolência e outras reacções adversas neurológicas, pelo que os doentes devem ser aconselhados a não conduzirem nem utilizarem máquinas caso sejam afectados.
+ 4.8 Efeitos indesejáveis A segurança da ziconotida administrada como uma perfusão intratecal contínua foi avaliada em mais de 1400 doentes a participarem em ensaios clínicos de dor aguda e crónica. A duração do tratamento variou de uma perfusão em bólus de uma hora à utilização contínua durante mais de 6 anos. O tempo de exposição mediano foi 43 dias. A velocidade de perfusão da dose variou de 0,03 a 912 μg/dia, com uma taxa da dose final de 7,2 μg/dia em mediana.
+ Nos ensaios clínicos,88% dos doentes manifestaram reacções adversas medicamentosas (RAMs). As RAM referidas com mais frequência nos ensaios clínicos prolongados foram tonturas (42%), náuseas (30%), nistagmo (23%), estado confuso (25%), marcha anormal (16%), diminuição da memória (13%), visão desfocada (14%), cefaleia (12%), astenia (13%), vómitos (11%) e sonolência (10%). A maioria das RAM foram de gravidade ligeira a moderada e resolveram-se ao fim de algum tempo.
+ Todas as RAM referidas nos ensaios clínicos intratecais com ziconotida (exposição curta e prolongada) estão indicadas a seguir por ordem de frequência.
+ Muito frequentes (&gt; 1/10), Frequentes (&gt; 1/100, &lt; 1/10), Pouco frequentes (&gt; 1/1,000, &lt; 1/100)
+ Infecções e infestações Pouco frequentes: sépsis, meningite Doenças do metabolismo e da nutrição Frequentes: diminuição de apetite, anorexia
+ Perturbações do foro psiquiátrico Muito frequentes: estado confuso Frequentes: ansiedade, alucinações auditivas, insónia, agitação, desorientação, alucinações, alucinações visuais, depressão, paranóia, irritabilidade, depressão agravada, nervosismo, instabilidade, alterações do estado mental, ansiedade agravada, confusão agravada
+ Pouco frequentes: delírio, distúrbio psicótico, ideação suicida, tentativa de suicídio, pensamento bloqueado, sonhos anormais
+ 18 Doenças do sistema nervoso
+ Muito frequentes: tonturas, nistagmo, diminuição da memória, cefaleia, sonolência
+ Frequentes: disartria, amnésia, disgeusia, tremor, diminuição do equilíbrio, ataxia, afasia, sensação de ardor, sedação, parestesia, hipoestesia, perturbações da atenção, perturbações da fala, arreflexia, coordenação anormal, tonturas posturais, perturbação cognitiva, hiperestesia, hiporreflexia, ageusia, nível reduzido de consciência, disestesia, parosmia, prostração mental
+ Pouco frequentes: incoerência, perda de consciência, coma, estupor, convulsões, acidente vascular cerebral, encefalopatia
+ Afecções oculares Muito frequentes: visão desfocada Frequentes: diplopia, perturbação visual, fotofobia
+ Afecções do ouvido e do labirinto Frequentes: vertigens, tinido Cardiopatias Pouco frequentes: fibrilhação auricular Vasculopatias Frequentes: hipotensão ortostática, hipotensão
+ Doenças respiratórias, torácicas e do mediastino
+ Frequentes: dispneia Pouco frequentes: insuficiência respiratória
+ Doenças gastrointestinais Muito frequentes: náuseas, vómitos Frequentes: diarreia, boca seca, obstipação, náuseas agravadas, dor na parte superior do abdómen
+ Pouco frequentes: dispepsia Afecções dos tecidos cutâneos e subcutâneas
+ Frequentes: prurido, aumento da transpiração
+ Pouco frequentes: erupção cutânea Afecções musculosqueléticas e dos tecidos conjuntivos
+ Frequentes: dor nos membros, mialgia, espasmos musculares, cãibras musculares, fraqueza muscular, artralgia, edema periférico
+ 19 Pouco frequentes: rabdomiólise, miosite, dor dorsal, contracção espasmódica muscular, dor no pescoço
+ Doenças renais e urinárias Frequentes: retenção urinária, hesitação urinária, disuria, incontinência urinária
+ Pouco frequentes: insuficiência renal aguda
+ Perturbações gerais e alterações no local de administração
+ Muito frequentes: marcha anormal, astenia
+ Frequentes: fadiga, pirexia, letargia, edema periférico, rigidez, queda, dor no peito, sensação de frio, dor, sentir-se a tremer, dor exacerbada
+ Pouco frequentes: dificuldade em andar Exames complementares de diagnóstico Frequentes: creatinafosfoquinase sanguínea aumentada, perda de peso
+ Pouco frequentes: electrocardiograma anormal, aspartato aminotransferase aumentada, creatinafosfoquinase sanguínea MM aumentada, temperatura corporal aumentada
+ Os comentários específicos assim como precauções particulares relativamente à meningite, aumentos da creatina-cinase e acontecimentos adversos do SNC encontram-se na Secção 4.4.
+ 4.9 Sobredosagem Em estudos de perfusão intravenosa, foi administrada a voluntários saudáveis do sexo masculino ziconotida em doses até 70.000 μg/dia ou 3.200 vezes a dose de perfusão intratecal diária máxima recomendada. Foi observada hipotensão postural em quase todos os participantes que receberam doses intravenosas elevadas de ziconotida.
+ A dose intratecal máxima recomendada é de 21,6 μg/dia. A dose intratecal máxima prevista de ziconotida em ensaios clínicos era de 912 μg/dia após o aumento da titulação ao longo de 7 dias.
+ Num estudo clínico, um doente canceroso recebeu uma sobredosagem acidental de ziconotida IT de 744 μg ao longo de um período de 24 horas (31 μg/hora) e retomou o tratamento com a dose prevista após registar uma redução na escala análoga visual de intensidade da dor (VASPI) de 82 para 2,5 mm. Em alguns doentes que receberam doses intratecais superiores à dose máxima recomendada, foram observados efeitos farmacológicos exagerados, como, por exemplo, ataxia, nistagmo, tonturas, estupor, nível reduzido de consciência, espasmos musculares, estado confuso, sedação, hipotensão, afasia, perturbação da fala, náuseas e vómitos. Não houve qualquer indicação de depressão respiratória. A maioria dos doentes em observação recuperou no período de 24 horas após a retirada do medicamento.
+ Devem ser administradas medidas gerais de apoio médico aos doentes que recebem uma sobredosagem até estarem resolvidos os efeitos farmacológicos exagerados do medicamento.
+ 20 5. PROPRIEDADES FARMACOLÓGICAS
+ 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Analgésicos Código ATC: N02BG08
+ A Autorização de Introdução no Mercado deste medicamento foi concedidade mediante “ Circunstâncias Excepcionais ”. Isto significa que não foi possível obter informação detalhada sobre este medicamento devido à raridade da doença.. A Agência Europeia do Medicamento (EMEA) reavaliará anualmente quaisquer novas informações sobre o medicamento e actualizará este RCM se necessário.
+ A ziconotida é um análogo sintético de um ω-conopéptido, MVIIA, que se encontra no veneno do caracol marinho Conus magus. Trata-se de um bloqueador dos canais de cálcio de tipo N (NCCB). Os NCC regulam a libertação de neurotransmissores em populações neuronais específicas responsáveis pelo processamento espinal da dor. Na ligação a estes NCC neuronais, a ziconotida inibe a corrente de cálcio sensível à voltagem em aferentes nociceptivos primários que terminam nas camadas superficiais do corno dorsal da espinal medula. Isto, por sua vez, inibe a sua libertação de neurotransmissores (incluindo a substância P) e, por conseguinte, a sinalização espinal da dor.
+ Embora tenham sido observadas relações estatisticamente significativas e uma correlação razoável entre a exposição ao líquido cefalorraquidiano (LCR) (AUC, Cmax) e as medidas de resposta clínica após 1 hora de administração IT, ainda não foram identificadas relações dose-concentração-resposta bem definidas. Muitos doentes que respondem positivamente obtêm uma analgesia praticamente máxima algumas horas após a administração de uma dose adequada. Contudo, em certos doentes, os efeitos máximos podem ser atrasados durante aproximadamente 24 horas. Dada a ocorrência de analgesia e de reacções adversas ao fármaco com doses semelhantes, o intervalo recomendado entre aumentos de dose é de 48 horas ou mais. Se for necessário, a dose pode ser reduzida em qualquer quantidade (incluindo parar a perfusão) para tratamento das reacções adversas ao fármaco.
+ As reacções adversas no sistema nervoso, especialmente as tonturas, as náuseas e a marcha anormal, parecem estar correlacionadas com a exposição ao LCR, embora não tenha sido estabelecida uma relação definitiva.
+ Durante a perfusão IT ocorre uma baixa exposição plasmática devido às baixas velocidades de perfusão IT recomendadas e à clearance plasmática relativamente rápida (ver secção 5.2). Por este motivo, os efeitos farmacológicos relacionados com a exposição sistémica devem ser mínimos.
+ A dose mediana na resposta é de aproximadamente 6,0 μg/dia e aproximadamente 75% dos doentes que respondem positivamente necessitam de ≤ 9,6 μg/dia. Para limitar a ocorrência de reacções adversas graves ao fármaco, recomenda-se uma dose máxima de 21,6 μg/dia. No entanto, foi observado em ensaios clínicos que os doentes que toleram doses de 21,6 μg/dia após uma titulação lenta ao longo de um período de 3 a 4 semanas, geralmente toleram doses superiores até 48,0 μg/dia.
+ Não há evidência de desenvolvimento de tolerância farmacológica à ziconotida nos doentes. Contudo, em vista dos dados limitados, não se pode excluir o desenvolvimento de tolerância. Deve considerar-se o exame da patência do cateter intratecal se a dose necessária de ziconotida aumentar continuamente e não houver benefício nem aumento das reacções ao fármaco.
+ Foram feitos três ensaios clínicos controlados por placebo de ziconotida IT.
+ Dois estudos de curta duração, 95-001 (dor maligna) e 96-002 (dor não maligna), envolvendo 366 doentes, demonstraram a eficácia da ziconotida IT na dor crónica intensa utilizando a alteração percentual na escala análoga de intensidade da dor (VASPI) como a medida de eficácia primária. Estes estudos foram de curta duração,5 e 6 dias respectivamente, e utilizaram um escalonamento de dose mais rápido e doses mais elevadas do que o recomendado na Secção 4.2.
+ 21 Resultados de eficácia do estudo 95-001
+ Atribuição do tratamento inicial
+ Pontuação Parâmetro média da VASPI Ziconotida (n= 71) 74,1 (± 13,82)
+ Placebo (n= 40) 77,9 (± 13,60) Valor de p-
+ na linha basal em mm (SD)
+ Pontuação média da VASPI no fim da titulação inicial em mm (SD)
+ 35,7 (± 33,27) 61,0 (± 22,91) _
+ % de melhoria na pontuação da VASPI no fim da titulação inicial (SD)
+ 51,4 (± 43,63) 18,1 (± 28,28) &lt; 0,001
+ Respondedora n (%) Dose no fim da titulação (μg/h)
+ 34 (47,9%) 7 (17,5%) 0,001 a
+ Média Mediana Intervalo
+ 0,91 0,60 0,074-9,36 Definiram-se como respondedores os doentes que 1) registaram uma descida ≥ 30% na pontuação VASPI relativamente à linha basal; 2) mantiveram estáveis ou reduziram os analgésicos opióides concomitantes; e 3) não sofreram alterações no tipo de opiáceo a partir da preperfusão caso estivessem a receber opiáceos. SD – Desvio padrão.
+ Resultados de eficácia do estudo 96-002 Atribuição do tratamento inicial Ziconotida (n= 169) b
+ Parâmetro Placebo (n= 86) Valor de p Pontuação média da VASPI
+ 80,1 (± 15,10) 76,9 (± 14,58) -
+ na linha basal em mm (SD)
+ Pontuação média da VASPI no fim da titulação inicial em mm (SD)
+ 54,4 (± 29,30) 71,9 (± 30,93) _
+ % de melhoria na pontuação da VASPI no fim da titulação inicial (SD)
+ 31,2 (± 38,69) 6,0 (± 42,84) &lt; 0,001
+ Respondedora n (%) Dose no fim da titulação (μg/h)
+ 57 (33,7%) 11 (12,8%) &lt; 0,001
+ a
+ Média Mediana Intervalo
+ 1,02 0,50 0,019-9,60 Definiram-se como respondedores os doentes que 1) registaram uma descida ≥ 30% na pontuação VASPI relativamente à linha basal; 2) mantiveram analgésicos opióides concomitantes estáveis ou reduzidos; e 3) não sofreram alterações no tipo de opiáceo a partir da preperfusão caso estivessem a receber opiáceos. b 164 doentes forneceram pontuações VASPI para a ziconotida no fim da titulação. SD – Desvio padrão.
+ As etiologias de dor nos estudos 95-001 (dor maligna) e 96-002 (dor não maligna) foram variadas e incluíram dor óssea (n= 38) na maioria devida a metástases ósseas (n= 34), mielopatia (n= 38), metade das quais tinham lesões na medula espinal com paralisia (n= 19), neuropatia (n= 79), radiculopatia (n= 24), dor espinal (n= 91) na maioria devido a operação às costas falhada (n= 82), e outras etiologias (n= 82). Alguns doentes tinham mais de uma causa de dor. A eficácia da ziconotida IT foi aparente em todos os grupos.
+ 22 O estudo 301 (n= 220) foi de maior duração (21 dias), envolveu titulação ascendente mais cuidadosa e doses menores de ziconotida IT, e dele fizeram parte a população de doentes mais refractária estudada nos três estudos. Todos os doentes do estudo 301 tinham falhado a terapêutica IT com combinações de analgésicos e os seus médicos consideravam que 97% dos doentes eram refractários aos tratamentos actualmente disponíveis. A maioria tinha dor espinal (n= 134), especialmente operação às costas falhada (n= 110); uma proporção mais baixa tinha neuropatia (n= 36). Apenas cinco tinham dor maligna. O ponto final primário foi a alteração percentual na pontuação da VASPI. A eficácia da ziconotida IT no estudo 301 foi mais baixa do que nos dois estudos anteriores de curta duração. A frequência e a gravidade de eventos adversos foram também mais baixas.
+ Resultados de eficácia do estudo 301 Atribuição do tratamento inicial
+ Parâmetro Ziconotida (n= 112) Placebo (n= 108) Valor de p Pontuação média da VASPI na linha basal em mm (SD)
+ 80,7 (± 14,98) 80,7 (± 14,91) -
+ Pontuação média da VASPI no fim da titulação inicial em mm (SD)
+ 67,9 (± 22,89) 74,1 (± 21,28) _
+ % de melhoria na pontuação da VASPI no fim da titulação inicial (SD)
+ 14,7 (± 27,71) 7,2 (± 24,98) 0,0360 Respondedora n (%) Dose no fim da titulação (μg/h)
+ 18 (16,1%) 13 (12,0%) 0,390 a
+ Média Mediana Intervalo
+ 0,29 0,25 0,0-0,80 Definiram-se como respondedores os doentes que registaram uma descida ≥ 30% na pontuação VASPI relativamente à linha basal. SD – Desvio padrão.
+ Estudos de combinação com morfina IT Os estudos clínicos 201 e 202 indicam que a combinação da ziconotida IT com a morfina IT pode reduzir eficazmente a dor e diminuir a utilização sistémica de opióides durante um período de tempo sustentado para doentes cuja dor for inadequadamente controlada com a sua dose máxima tolerada de ziconotida IT (mediana 8,7 μg/dia, média 25,7 μg/dia – estudo 201) ou só com morfina IT (estudo 202). Quando se adiciona ziconotida IT a doses estáveis de morfina IT, como com a iniciação da monoterapêutica com ziconotida IT, poderão surgir eventos adversos psicóticos (exemplo, alucinações, reacções paranóides) ou poderá ter de interromper a terapêutica devido ao aumento de eventos adversos. (Ver secção 4.5).
+ 5.2 Propriedades farmacocinéticas A farmacocinética da ziconotida no LCR foi estudada após uma hora de perfusões IT de 1 a 10 μg de ziconotida em doentes com dor crónica. Foi igualmente estudada a farmacocinética plasmática após doses intravenosas (0,3 a 10 μg/kg/24 h). Os dados IT e da farmacocinética intravenosa encontram-se resumidos a seguir.
+ 23 Farmacocinética no LCR e plasmática da ziconotida[ média ± SD (mediana)]
+ Via de Matriz Número CL (ml/min) Vd (ml) t½ (h)
+ administração
+ do
+ de
+ líquido
+ doentes
+ Intratecal LCR 23 0,38 ± 0,56 (0,26) 155 ± 263 (99) 4,6 ± 0,9 (4,5) Intravenosa Plasma 21 270 ± 44 (260) 30.460 ± 6.366 (29.320) 1,3 ± 0,3 (1,3) CL= clearance; Vd= volume de distribuição; t½= semi-vida
+ Absorção: Após uma hora de administração IT (1 – 10 μg), tanto os valores da exposição cumulativa (AUC; intervalo: 83,6 – 608 ng/h/ml) como da exposição máxima (Cmax; intervalo: 16,4 – 132 ng/ml) eram variáveis e dependentes da dose, mas pareciam apenas aproximadamente proporcionais à dose. As concentrações plasmáticas após perfusão IT (≤ 21,6 μg/dia) contínua (≥ 48 h) parecem ser relativamente baixas e tipicamente indetectáveis (isto é, cerca de 80% das amostras de plasma colhidas nos doentes da dor não contêm medicamento quantificável; &lt; 0,04 ng/ml). Não foi observada acumulação de ziconotida no plasma após administração IT prolongada (até 9 meses).
+ Distribuição: A ziconotida mediana no volume de distribuição LCR (Vd: 99 ml) situa-se entre o volume de LCR na espinal medula (aproximadamente 75 ml) e o volume total de LCR (aproximadamente 130 ml). A ziconotida parece distribuir-se principalmente no LCR até ser transferida para a circulação sistémica. Uma vez chegada à circulação sistémica, a ziconotida parece ser distribuída de uma forma mais extensa, baseada num volume de distribuição plasmática de aproximadamente 30 l e liga-se (não especificamente) apenas cerca de 53% às proteínas plasmáticas humanas.
+ Biotransformação: A ziconotida é um péptido constituído por 25 aminoácidos de ocorrência natural da configuração L, não parecendo ser metabolizada de forma apreciável no LCR. Após a passagem para a circulação sistémica, prevê-se que a ziconotida seja principalmente susceptível à clivagem proteolítica por diversas peptidases/proteases ubíquas presentes na maioria dos órgãos (por exemplo, rim, fígado, pulmão, músculo, etc.) e, portanto, degradada em fragmentos de péptidos e nos seus aminoácidos livres constituintes individuais. Prevê-se que os aminoácidos livres produzidos sejam captados por sistemas transportadores celulares e submetidos ao metabolismo intermédio normal ou utilizados como substratos para processos biossintéticos constitutivos. Devido à ampla distribuição destas peptidases, não se prevê que a insuficiência hepática ou renal afecte a clearance sistémica da ziconotida. A actividade biológica dos diversos produtos de degradação proteolítica previstos não foi avaliada. É pouco provável que os produtos de degradação da ziconotida tenham uma actividade biológica significativa, uma vez que se descobriu que os péptidos constituídos pelas estruturas circulares de péptidos individuais têm afinidades de ligação pelos canais do cálcio sensíveis à voltagem de tipo N que são várias ordens de grandeza inferiores à do composto original (ziconotida).
+ Eliminação: A clearance média da ziconotida (0,38 ml/min) aproxima-se da velocidade de renovação do LCR humano adulto (0,3 – 0,4 ml/min). Assim, a ziconotida parece ser principalmente eliminada do LCR (t½ média= 4,6 h) pelo fluxo do LCR para fora do SNC através das vilosidades aracnóides com a transferência subsequente para a circulação sistémica. É possível observar concentrações plasmáticas muito baixas de ziconotida em circulação após a administração IT devido tanto à baixa velocidade de perfusão IT como à clearance plasmática relativamente rápida. A semi-vida (t½) média de eliminação plasmática é de 1,3 h. A ziconotida é um péptido de peso molecular relativamente reduzido (PM= 2.639) e é filtrada pelo glomérulo do rim, mas apenas quantidades mínimas de ziconotida (&lt; 1%) são recuperadas na urina humana após perfusão intravenosa. Tal sucede porque quase toda a substância activa filtrada é rapidamente sujeita a endocitose e por último transportada outra vez para a circulação sistémica.
+ Populações específicas: Embora existam apenas dados limitados, não há nenhum efeito óbvio da raça, altura, peso, sexo ou idade na exposição da ziconotida no LCR após administração IT. Não foram 24 realizados quaisquer estudos formais de avaliação do impacto da disfunção renal ou hepática; no entanto, considerando que as peptidases estão presentes em diversos órgãos, não se prevê que a disfunção renal ou hepática tenha um impacto significativo na exposição sistémica da ziconotida.
+ 5.3 Dados de segurança pré-clínica Foram observados efeitos tóxicos pré-clínicos relacionados com a administração de ziconotida apenas em exposições consideradas suficientemente superiores relativamente à exposição humana para indicar um risco reduzido no uso clínico.
+ Em estudos de perfusão intratecal contínua subcrónica em ratos e cães, foram observados efeitos comportamentais com doses ≥ 8 vezes à dose de perfusão intratecal clínica recomendada de 21,6 μg/dia (numa base de mg/kg). Estes efeitos foram definidos por acções farmacológicas exageradas da ziconotida e não por lesões neurotóxicas ou toxicidade dos órgãos-alvo. As observações incluíram efeitos neurológicos transitórios e reversíveis consistindo de tremores, movimentos descoordenados e hiper e hipoactividade.
+ As consequências a longo prazo para a função neuronal do bloqueio contínuo dos canais de cálcio de tipo N não foram demonstradas em animais experimentais. As alterações na sinalização neurológica não foram estudadas em animais experimentais. A ziconotida não induziu mutação genética bacteriana e não foi genotóxica. Não foram realizados estudos crónicos em animais para avaliar o potencial carcinogénico da ziconotida. No entanto, a ziconotida não induziu transformação celular na análise in vitro do embrião do hamster sírio (SHE) e não aumentou a proliferação celular (formação de lesões pré-neoplásticas) nem a apoptose após exposição intratecal subcrónica em cães.
+ Em estudos de fertilidade realizados em ratos, não se registaram efeitos nos machos mas foram observadas reduções nos corpos lúteos, nos locais de implantação e no número de embriões vivos nas fêmeas. Não foram observados efeitos adversos na reprodução das fêmeas e no desenvolvimento pós-natal em ratos com exposições sistémicas até 2.300 vezes superiores às exposições humanas com a dose intratecal máxima recomendada.
+ A ziconotida não foi teratogénica nos ratos e nos coelhos com exposições &lt; 100 vezes os níveis plasmáticos humanos.
+ Estes resultados não indicam um risco significativo para os humanos devido às exposições sistémicas relativamente elevadas necessárias para provocar estes efeitos em ratos e coelhos.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Metionina Cloreto de sódio Água para preparações injectáveis Ácido clorídrico (ajuste de pH) Hidróxido de sódio (ajuste de pH)
+ 6.2 Incompatibilidades Este medicamento não deve ser misturado com outros, excepto os mencionados na secção 6.6.
+ 25 6.3 Prazo de validade
+ 3 anos A estabilidade química e física durante a utilização foi demonstrada durante 60 dias a 37°C.
+ De um ponto de vista microbiológico, se o produto for diluído deve ser imediatamente transferido para a bomba de perfusão. Se não for utilizado imediatamente, os tempos de conservação durante a utilização e as condições anteriores à utilização são da responsabilidade do utilizador e normalmente não devem ultrapassar as 24 horas a uma temperatura de 2 a 8ºC, a não ser que a diluição tenha sido feita em condições assépticas controladas e validadas.
+ 6.4 Precauções especiais de conservação
+ Conservar no frigorífico (2°C-8°C). Não congelar. Manter o frasco dentro da embalagem exterior para proteger da luz.
+ Para condições de conservação do medicamento diluído, ver secção 6.3.
+ 6.5 Natureza e conteúdo do recipiente Frascos de vidro do tipo I para uma única utilização com tampas de borracha de butilo revestidas de polímero fluorado.
+ Cada frasco para injectáveis contém 20 ml de solução para perfusão.
+ Um frasco para injectáveis por embalagem.
+ 6.6 Precauções especiais para eliminação
+ Se for necessária diluição, o Prialt deve ser diluído assepticamente com solução injectável de cloreto de sódio isenta de conservantes a 9 mg/ml (0,9%) antes de ser utilizado. A concentração da solução utilizada na bomba de perfusão não deve ser inferior a 5 μg/ml de ziconotida numa bomba externa e 25 μg/ml numa bomba interna.
+ Deverão ser adoptados procedimentos assépticos rigorosos durante a preparação e a manipulação da solução para perfusão e o reenchimento da bomba. O doente e os profissionais de saúde devem estar familiarizados com a manipulação do sistema de perfusão externo ou interno e devem estar cientes da necessidade de se protegerem de infecções.
+ Foi demonstrado que o Prialt é química e fisicamente compatível com a bomba Synchromed implantável e com a bomba CADD-Micro externa, aos níveis de concentração indicados acima. Foi demonstrada estabilidade química e física em utilização durante 14 dias a 37ºC na bomba Synchromed, sem que a bomba tivesse sido anteriormente exposta ao medicamento. O enchimento inicial deve portanto ser substituído ao fim de 14 dias.
+ O Prialt revelou-se estável durante 60 dias a 37°C na bomba Synchromed anteriormente exposta ao medicamento. Foi demonstrada estabilidade durante 21 dias à temperatura ambiente na bomba CADD-Micro.
+ É necessário solicitar aos fabricantes instruções específicas para utilização das bombas. Na administração do Prialt devem ser utilizadas bombas com marcação CE equivalentes à bomba Synchromed e à bomba CADD-Micro. As bombas anteriormente utilizadas para administrar outros medicamentos devem ser lavadas três vezes com solução injectável de cloreto de sódio a 9 mg/ml (0,9%) (isenta de conservantes) antes de serem cheias com Prialt. A introdução de ar no reservatório ou no cartucho da bomba deve ser minimizada, uma vez que o oxigénio pode degradar a ziconotida.
+ 26 Antes do início da terapêutica, uma bomba interna deve ser lavada três vezes com 2 ml de Prialt a 25 μg/ml. A concentração de Prialt numa bomba que nunca tenha sido utilizada pode ser reduzida devido à adsorção nas superfícies do dispositivo e/ou à diluição pelo espaço residual do dispositivo. Por este motivo, após a primeira utilização de Prialt, o reservatório deve ser esvaziado e reenchido ao fim de 14 dias. A partir daí, a bomba deve ser esvaziada e reenchida de 60 em 60 dias.
+ O Prialt é uma solução transparente e incolor. Antes de ser administrado, deve ser inspeccionado visualmente para verificar se contém partículas ou sinais de descoloração. A solução não deve ser utilizada se se apresentar descolorada ou turva, ou se se observarem partículas.
+ Para utilização única. Qualquer solução não utilizada deve ser eliminada de acordo com a regulamentação local.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Eisai Ltd.,3 Shortlands London W6 8EE Reino Unido
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/04/302/004 – 20 ml solução para perfusão.
+ 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 20/03/2006 10. DATA DA REVISÃO DO TEXTO Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia do Medicamento (EMEA) www. emea. europa. eu
+ 27 ANEXO II
+ A. TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ C. OBRIGAÇÕES ESPECÍFICAS A SEREM CUMPRIDAS PELO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 28 A. TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do fabricante responsável pela libertação do lote
+ Eisai Manufacturing Limited European Knowledge Centre Mosquito Way Hatfield Herts AL10 9SN Reino Unido
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento sujeito a receita médica restrita (ver anexo I: resumo das características do medicamento, secção 4.2)
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ Não se aplica. C. OBRIGAÇÕES ESPECÍFICAS A SEREM CUMPRIDAS PELO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ O titular da autorização de introdução no mercado deverá executar o programa de estudos abaixo referido dentro dos prazos indicados; os resultados desses estudos estarão na base da reavaliação anual da relação risco/benefício.
+ Aspectos clínicos Será efectuado um estudo de registo após introdução no mercado (PRIME). Este consistirá num registo aberto, que proporcionará os dados de eficácia e segurança a longo prazo da ziconotida IT administrada a doentes com dor maligna e não maligna, crónica intensa. Serão realizadas análises dos resultados dos doentes através da etiologia da dor (maligna e não maligna), mecanismo da dor (neuropática e não neuropática) e intensidade da dor (classificação VASPI superior ou inferior a 50 mm como valor de base). O registo ajudará a definir a utilização de zicotonida no enquadramento clínico, por exemplo, o regime de dosagem ideal e o possível desenvolvimento de tolerância. A utilização de zicotonida em associação com morfina ou com baclofeno, a medicação de recurso, a avaliação de qualidade relacionada com saúde de vida e a análise de efeitos adversos serão também tidas em consideração. A inclusão no registo continuará até pelo menos 150 doentes terem recebido Prialt. O titular da AIM deve fornecer actualização anuais da inclusão de doentes no registo PRIME na altura da reavaliação anual e da análise preliminar. Este estudo foi iniciado em Março de 2008. Após a finalização do estudo, o titular da AIM deve entregar o relatório final do estudo ao Comité Permanente dos Medicamentos de Uso Humano e considerar a necessidade de uma apresentação de uma variação ao RCM para quaisquer resultados significativos resultantes deste estudo.
+ 29 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 30 A. ROTULAGEM
+ 31 INDICAÇÕES A INCLUIR NA EMBALAGEM EXTERIOR
+ EMBALAGEM EXTERIOR 1. DENOMINAÇÃO DO MEDICAMENTO Prialt 100 microgramas/ml solução para perfusão ziconotida
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ 1 ml: Cada ml contém 100 microgramas de ziconotida (sob a forma de acetato) (100 microgramas por frasco),
+ 2 ml: Cada ml contém 100 microgramas de ziconotida (sob a forma de acetato) (200 microgramas por frasco),
+ 5 ml: Cada ml contém 100 microgramas de ziconotida (sob a forma de acetato) (500 microgramas por frasco),
+ 3. LISTA DOS EXCIPIENTES metionina, cloreto de sódio, água para injectáveis, ácido clorídrico e hidróxido de sódio.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Solução para perfusão. 1 ml: 1 ml (1 x frasco de 1 ml) 2 ml: 2 ml (1 x frasco de 2 ml) 5 ml: 5 ml (1 x frasco de 5 ml) 5. MODO E VIA(S) DE ADMINISTRAÇÃO Apenas para utilização intratecal Ler o folheto informativo antes de utilizar o medicamento.
+ 32 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP: { MM/AAAA} 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico (2°C – 8°C). Não congelar. Manter o frasco dentro da embalagem exterior para proteger da luz.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Eisai Ltd. 3 Shortlands London W6 8EE Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 1 ml: EU/1/04/302/001 2 ml: EU/1/04/302/002 5 ml: EU/1/04/302/003 13. NÚMERO DO LOTE Lote: 33 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE 34 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ RÓTULO DO FRASCO 1. DENOMINAÇÃO DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Prialt 100 μg/ml 2. MODO DE ADMINISTRAÇÃO Perfusão intratecal 3. PRAZO DE VALIDADE EXP: { MM/AAAA} 4. NÚMERO DO LOTE Lote: 5. CONTEÚDO EM TERMOS DE PESO, VOLUME OU UNIDADE
+ 1 ml: 1 ml 2 ml: 2 ml 5 ml: 5 ml 6. OUTRAS 35 INDICAÇÕES A INCLUIR NA EMBALAGEM EXTERIOR
+ EMBALAGEM EXTERIOR 1. DENOMINAÇÃO DO MEDICAMENTO Prialt 25 microgramas/ml solução para perfusão ziconotida
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ Cada ml contém 25 micrograms de ziconotida (sob a forma de acetato de ziconotida), (500 microgramas por frasco),
+ 3. LISTA DOS EXCIPIENTES metionina, cloreto de sódio, água para injectáveis, ácido clorídrico e hidróxido de sódio.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Solução para perfusão. 20 ml (1 x frasco de 20 ml) 5. MODO E VIA(S) DE ADMINISTRAÇÃO Apenas para utilização intratecal Ler o folheto informativo antes de utilizar o medicamento.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP: { MM/AAAA} 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Conservar no frigorífico (2°C – 8°C). Não congelar. Manter o frasco dentro da embalagem exterior para proteger da luz.
+ 36 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Eisai Ltd. 3 Shortlands London W6 8EE Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/04/302/004 13. NÚMERO DO LOTE Lote: 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE 37 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ RÓTULO DO FRASCO 1. DENOMINAÇÃO DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Prialt 25 μg/ml 2. MODO DE ADMINISTRAÇÃO Perfusão intratecal 3. PRAZO DE VALIDADE EXP: { MM/AAAA} 4. NÚMERO DO LOTE Lote: 5. CONTEÚDO EM TERMOS DE PESO, VOLUME OU UNIDADE
+ 20 ml 6. OUTRAS 38 B. FOLHETO INFORMATIVO
+ 39 FOLHETO INFORMATIVO: INFORMAÇÕES PARA O UTILIZADOR
+ Prialt 100 microgramas/ml, solução para perfusão. Ziconotida
+ Leia atentamente este folheto antes de utilizar o medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso tenha outras dúvidas, fale com o seu médico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros. O medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se qualquer um dos efeitos secundários se agravar ou se detectar efeitos secundários não
+ indicados neste folheto, informe o seu médico.
+ Neste folheto: 1. O que é Prialt e para que é utilizado 2. Antes de utilizar Prialt 3. Como utilizar Prialt 4. Efeitos secundários possíveis 5. Como conservar Prialt 6. Outras informações
+ 1. O QUE É PRIALT E PARA QUE É UTILIZADO
+ O Prialt contém uma substância designada por ziconotida. Trata-se de uma substância de um grupo de medicamentos designados por analgésicos. O Prialt é utilizado para o tratamento da dor prolongada quando o tratamento existente não se revela eficaz ou provoca efeitos secundários graves.
+ 2. ANTES DE UTILIZAR PRIALT Não utilize Prialt: se tem alergia (hipersensibilidade) à ziconotida ou a qualquer outro ingrediente do Prialt. se lhe estiver a ser administrado um medicamento contra o cancro no espaço em volta da espinal medula.
+ Tome especial cuidado com Prialt: -se lhe estiverem a administrar Prialt através de uma bomba usada fora do seu corpo, é
+ importante que verifique uma vez por dia se há sinais de infecção no ponto onde o tubo entra no seu corpo.
+ -se observar sinais de infecção em volta do tubo, como, por exemplo, vermelhidão da pele,
+ inchaço, dor ou secreção, deve informar o seu médico imediatamente para ser tratado da infecção.
+ -se a área em volta do tubo ficar sensível embora sem sinais de infecção, deve consultar o seu
+ médico o mais rapidamente possível uma vez que a sensibilidade pode ser um sinal inicial de infecção.
+ -se lhe estiver a ser administrado Prialt através de uma bomba usada fora do seu corpo e qualquer
+ parte da tubagem de perfusão se desligar, deve contactar imediatamente o seu médico.
+ -se tiver um destes sintomas: febre alta, dor de cabeça, rigidez do pescoço, cansaço, confusão,
+ sensação de enjoo, vómitos ou crises ocasionais, poderão ser sinais de meningite. Deve informar imediatamente o seu médico se notar algum dos sintomas acima referidos.
+ -e notar qualquer alteração adversa no seu raciocínio, humor ou memória, informe o seu médico.
+ -informe o seu médico se estiver a fazer quimioterapia.
+ -não é recomendado para utilização em crianças e adolescentes.
+ 40 Tomar Prialt com outros medicamentos:
+ Informe o seu médico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica. É possível que sinta sonolência se tomar Prialt com alguns outros medicamentos utilizados para tratar a dor.
+ Gravidez e aleitamento: Se estiver grávida, se pensar que pode estar grávida ou se estiver a amamentar, consulte o seu médico antes de tomar qualquer medicamento.
+ O Prialt não deve ser utilizado durante a gravidez a menos que seja claramente necessário.
+ Condução de veículos e utilização de máquinas:
+ Foi referido que a utilização de Prialt provoca confusão e sonolência. Consulte o seu médico antes de conduzir ou utilizar máquinas.
+ 3. COMO UTILIZAR PRIALT O seu tratamento com Prialt será gerido por um médico com experiência na administração de medicamentos no espaço em volta da espinal medula e na utilização de bombas de perfusão internas e externas.
+ O Prialt é administrado como uma injecção contínua muito lenta no espaço que rodeia a espinal medula. O medicamento será administrado de forma contínua a partir de uma bomba implantada na sua parede abdominal ou colocada externamente numa bolsa com cinto. O seu médico discutirá consigo o tipo de bomba mais adequado para si e quando terá de reencher a sua bomba.
+ A dose inicial recomendada é no máximo de 2,4 microgramas por dia. O seu médico ajustará a dose de Prialt de acordo com a gravidade da dor em incrementos de dose ≤ 2,4 microgramas/dia. A dose máxima é de 21,6 microgramas/dia. No início do seu tratamento, o médico pode aumentar a sua dose a intervalos de 1 a 2 dias ou mais. Em caso de necessidade, pode reduzir-se a dose ou parar-se a injecção se os efeitos secundários forem demasiado grandes.
+ Se achar que ainda tem muitas dores enquanto está a utilizar o Prialt, ou que os efeitos secundários são muito grandes, fale com o seu médico.
+ Antes de lhe receitar Prialt, o seu médico pode decidir de, lentamente, deixar de lhe administrar opiáceos na sua medula espinal substituindo-os por medicamentos alternativos de combate à dor.
+ Se utilizar mais Prialt do que deveria: Se lhe for administrado mais Prialt do que o seu médico pretendia, pode sentir-se indisposto com sinais como, por exemplo, confusão, problemas com a fala, dificuldade em encontrar palavras, tremura excessiva, atordoamento, sonolência excessiva, sensação de enjoo ou vómitos. Se tal acontecer, consulte imediatamente o seu médico ou hospital.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como os demais medicamentos, Prialt pode ter efeitos secundários, embora não se manifestem em todas as pessoas.
+ Os efeitos secundários referidos com muita frequência (que ocorrem em mais de 1 de 10 doentes nos ensaios clínicos) incluem: confusão, tonturas, visão desfocada, dor de cabeça, movimento rápido dos 41 olhos para trás e para a frente, perda ou diminuição da memória (esquecimento), dificuldade em andar, vómitos, náuseas, fraqueza geral e sonolência.
+ Os efeitos secundários referidos com frequência (que ocorrem em mais de 1 de 100 doentes nos ensaios clínicos) incluem: falta de apetite, ansiedade ou ansiedade agravada, alucinações, incapacidade para adormecer ou para dormir, agitação, desorientação, depressão ou depressão agravada, nervosismo, alterações de humor, alterações do estado mental (pensamento anormal, confusão), paranóia, irritabilidade, confusão agravada, dificuldades de aprendizagem, memória ou pensamento, ausência ou diminuição dos reflexos, problemas de expressão ou compreensão de palavras, articulação deficiente das palavras, dificuldade em falar ou perda da capacidade de falar, lentidão, diminuição do equilíbrio ou coordenação, sensação de ardor, aumento da sensibilidade à dor, nível reduzido de consciência (falta de resposta ou quase inconsciente), sedação, dificuldade de concentração, problemas como o sentido do olfacto, sentido do paladar esquisito ou inexistente, tremura, formigueiro, visão dupla, perturbações visuais, intolerância à luz, zumbido nos ouvidos (tinido), tonturas ou sensação de girar, atordoamento ou tonturas ao levantar, tensão arterial baixa, falta de ar, boca seca, dor abdominal, náuseas agravadas, diarreia, prisão de ventre, transpiração, comichão, fraqueza muscular, espasmos musculares, cãibras musculares, dores musculares ou articulares, urinar (micção) difícil ou doloroso, dificuldade em iniciar ou controlar a urina (micção), sensação de tremer, quedas, dor ou dor exacerbada, fadiga, sensação de frio, inchaço da face, pernas ou pés, dor no peito, febre, alterações químicas sanguíneas, prostração mental e perda de peso.
+ Se algum dos efeitos secundários se agravar ou se detectar efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR PRIALT Manter fora do alcance e da vista das crianças.
+ Não utilize Prialt após a data de validade indicada no rótulo e na embalagem após EXP. O prazo de validade refere-se ao último dia desse mês.
+ Conservar o frasco por abrir no frigorífico (2°C – 8°C). Não congelar. Manter o frasco dentro da embalagem exterior para proteger da luz.
+ A estabilidade química e física durante a utilização foi demonstrada durante 60 dias a 37°C.
+ De um ponto de vista microbiológico, se o produto for diluído deve ser imediatamente transferido para a bomba de perfusão. Se não for utilizado imediatamente, os tempos de conservação durante a utilização e as condições anteriores à utilização são da responsabilidade do utilizador e normalmente não devem ultrapassar as 24 horas a uma temperatura de 2 a 8ºC, a não ser que a diluição tenha sido feita em condições assépticas controladas e validadas.
+ 42 6. OUTRAS INFORMAÇÕES
+ Qual a composição de Prialt -A substância activa é a ziconotida.
+ -Um ml de solução contém 100 microgramas de ziconotida (sob a forma de acetato).
+ -Um frasco de 1 ml contém 100 microgramas; um frasco de 2 ml contém 200 microgramas; um
+ frasco de 5 ml contém 500 microgramas.
+ -Os outros ingredientes são metionina, cloreto de sódio, água para injectáveis, ácido clorídrico e
+ hidróxido de sódio.
+ Qual o aspecto de Prialt e conteúdo da embalagem
+ O Prialt é uma solução para perfusão. A solução é transparente e incolor. O Prialt é fornecido em embalagens contendo um único frasco de 1 ml,2 ml ou 5 ml. É possível que não sejam comercializadas todas as apresentações.
+ Titular da autorização de introdução no mercado e fabricante
+ Titular da autorização de introdução no mercado: Eisai Ltd. 3 Shortlands London W6 8EE Reino Unido
+ Fabricante: Eisai Manufacturing Limited European Knowledge Centre Mosquito Way Hatfield Herts AL10 9SN Reino Unido
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado:
+ België/Belgique/Belgien Eisai Europe Ltd. Tél/Tel:+ 32 (0) 2 735 45 34
+ Luxembourg/Luxemburg Eisai Europe Ltd. Tél/Tel:+ 32 (0) 2 735 45 34 (Belgique/Belgien)
+ България Eisai Ltd. Teл.:+ 44 208 600 1400 (Великобритания)
+ Magyarország Eisai GmbH Tel.:+ 36 1 230 43 20
+ Česká republika Eisai GmbH Tel:+ 420 602 311 962
+ Malta Associated Drug Company Ltd Tel: +356 (0) 227 780 00
+ Danmark Eisai AB Tlf: +46 (0) 8 501 01 600 (Sverige)
+ Nederland Eisai Europe Ltd. Tel:+ 32 (0) 2 735 45 34 (België/Belgique)
+ 43 Deutschland Eisai GmbH Tel:+ 49 (0) 69 66 58 50
+ Norge Eisai AB Tlf:+ 46 (0) 8 501 01 600 (Sverige)
+ Eesti Eisai Ltd. Tel:+ 44 208 600 1400 (Ühendkuningriik)
+ Österreich Eisai GmbH Tel:+ 43 (0) 1 535 1980-0
+ Ελλάδα Arriani Pharmaceuticals Τηλ: +30 (0) 210 668 3000
+ Polska Eisai Ltd. Tel.:+ 44 208 600 1400 (Wielka Brytania)
+ España Eisai Farmacéutica, S. A. Tel: +(34) 91 455 94 55
+ Portugal EF-Eisai Farmacêutica, Unipessoal Lda Tel:+ 351 214 875 540
+ France Eisai SAS Tél:+ (33) 1 47 67 00 05
+ România Eisai Ltd. Tel:+ 44 208 600 1400 (Marea Britanie)
+ Ireland Eisai Ltd. Tel:+ 44 208 600 1400 (United Kingdom)
+ Slovenija Eisai Ltd. Tel:+ 44 208 600 1400 (Velika Britanija)
+ Ísland Eisai AB Sími:+ 46 (0) 8 501 01 600 (Svíþjóð)
+ Slovenská republika Eisai GmbH Tel:+ 420 602 311 962
+ Italia Eisai S. r. l. Tel:+ 39 02 5181401
+ Suomi/Finland Eisai AB Puh/Tel:+ 46 (0) 8 501 01 600 (Ruotsi)
+ Κύπρος Eisai Ltd. Τηλ:+ 44 208 600 1400 (Ηνωµένο Βασίλειο)
+ Sverige Eisai AB Tel:+ 46 (0) 8 501 01 600
+ Latvija Eisai Ltd. Tel:+ 44 208 600 1400 (Lielbritānija)
+ United Kingdom Eisai Ltd. Tel: 0208 600 1400
+ Lietuva Eisai Ltd. Tel.+ 44 208 600 1400 (Jungtinė Karalystė)
+ Este folheto foi aprovado pela última vez em{ MM/AAAA}
+ 44 Este medicamento foi autorizado sob “ circunstâncias excepcionais ”. Isto significa que foi impossível obter informação detalhada sobre este medicamento devido à raridade desta doença. A Agência Europeia do Medicamentos (EMEA) irá rever anualmente qualquer nova informação sobre o medicamento e este folheto será actualizado se necessário.
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu. Também existem links para outros sites sobre doenças raras e tratamentos.
+ ------------------------------------------------------------------------------------------------------------------------------
+ A informação que se segue destina-se apenas aos médicos e aos profissionais dos cuidados de saúde:
+ Instruções de utilização e manipulação O Prialt é fornecido como uma solução transparente e incolor em frascos de utilização única. Antes de ser administrado, deve ser inspeccionado visualmente para verificar se contém partículas ou sinais de descoloração. A solução não deve ser utilizada se se apresentar descolorada ou turva, ou se se observarem partículas.
+ Para utilização única. Qualquer solução não utilizada deve ser eliminada de acordo com a regulamentação local.
+ Se for necessária diluição, o Prialt deve ser diluído assepticamente com solução injectável de cloreto de sódio isenta de conservantes a 9 mg/ml (0,9%) antes de ser utilizado. A concentração da solução utilizada na bomba de perfusão não deve ser inferior a 5 μg/ml de ziconotida numa bomba externa e 25 μg/ml numa bomba interna.
+ Deverão ser adoptados procedimentos assépticos rigorosos durante a preparação e a manipulação da solução para perfusão e o reenchimento da bomba. O doente e os profissionais de saúde devem estar familiarizados com a manipulação do sistema de perfusão externo ou interno e devem estar cientes da necessidade de se protegerem de infecções.
+ Foi demonstrado que o Prialt é química e fisicamente compatível com a bomba Synchromed implantável e com a bomba CADD-Micro externa, aos níveis de concentração indicados acima. Foi demonstrada estabilidade química e física em utilização durante 14 dias a 37ºC na bomba Synchromed, sem que a bomba tivesse sido anteriormente exposta ao medicamento. O enchimento inicial deve portanto ser substituído ao fim de 14 dias.
+ O Prialt revelou-se estável durante 60 dias a 37°C na bomba Synchromed anteriormente exposta ao medicamento. Foi demonstrada estabilidade durante 21 dias à temperatura ambiente na bomba CADD-Micro.
+ É necessário solicitar aos fabricantes instruções específicas para utilização das bombas. Na administração do Prialt devem ser utilizadas bombas com marcação CE equivalentes à bomba Synchromed e à bomba CADD-Micro. As bombas anteriormente utilizadas para administrar outros medicamentos devem ser lavadas três vezes com solução injectável de cloreto de sódio a 9 mg/ml (0,9%) (isenta de conservantes) antes de serem cheias com ziconotida. A introdução de ar no reservatório ou no cartucho da bomba deve ser minimizada, uma vez que o oxigénio pode degradar a ziconotida.
+ Antes do início da terapêutica, uma bomba interna deve ser lavada três vezes com 2 ml da solução a 25 μg/ml. A concentração de Prialt numa bomba que nunca tenha sido utilizada pode ser reduzida devido à adsorção nas superfícies do dispositivo e/ou à diluição pelo espaço residual do dispositivo. Por este motivo, após a primeira utilização de Prialt, o reservatório deve ser esvaziado e reenchido ao fim de 14 dias. A partir daí, a bomba deve ser esvaziada e reenchida de 60 em 60 dias.
+ 45 FOLHETO INFORMATIVO: INFORMAÇÕES PARA O UTILIZADOR
+ Prialt 25 microgramas/ml, solução para perfusão. Ziconotida
+ Leia atentamente este folheto antes de utilizar o medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso tenha outras dúvidas, fale com o seu médico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros. O medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se qualquer um dos efeitos secundários se agravar ou se detectar efeitos secundários não
+ indicados neste folheto, informe o seu médico.
+ Neste folheto: 1. O que é Prialt e para que é utilizado 2. Antes de utilizar Prialt 3. Como utilizar Prialt 4. Efeitos secundários possíveis 5. Como conservar Prialt 6. Outras informações
+ 1. O QUE É PRIALT E PARA QUE É UTILIZADO
+ O Prialt contém uma substância designada por ziconotida. Trata-se de uma substância de um grupo de medicamentos designados por analgésicos. O Prialt é utilizado para o tratamento da dor prolongada quando o tratamento existente não se revela eficaz ou provoca efeitos secundários graves.
+ 2. ANTES DE UTILIZAR PRIALT Não utilize Prialt: -se tem alergia (hipersensibilidade) à ziconotida ou a qualquer outro ingrediente do Prialt.
+ -se lhe estiver a ser administrado um medicamento contra o cancro no espaço em volta da espinal
+ medula.
+ Tome especial cuidado com Prialt: -se lhe estiverem a administrar Prialt através de uma bomba usada fora do seu corpo, é
+ importante que verifique uma vez por dia se há sinais de infecção no ponto onde o tubo entra no seu corpo.
+ -se observar sinais de infecção em volta do tubo, como, por exemplo, vermelhidão da pele,
+ inchaço, dor ou secreção, deve informar o seu médico imediatamente para ser tratado da infecção.
+ -se a área em volta do tubo ficar sensível embora sem sinais de infecção, deve consultar o seu
+ médico o mais rapidamente possível uma vez que a sensibilidade pode ser um sinal inicial de infecção.
+ -se lhe estiver a ser administrado Prialt através de uma bomba usada fora do seu corpo e qualquer
+ parte da tubagem de perfusão se desligar, deve contactar imediatamente o seu médico.
+ -se tiver um destes sintomas: febre alta, dor de cabeça, rigidez do pescoço, cansaço, confusão,
+ sensação de enjoo, vómitos ou crises ocasionais, poderão ser sinais de meningite. Deve informar imediatamente o seu médico se notar algum dos sintomas acima referidos.
+ -e notar qualquer alteração adversa no seu raciocínio, humor ou memória, informe o seu médico.
+ -informe o seu médico se estiver a fazer quimioterapia.
+ -não é recomendado para utilização em crianças e adolescentes.
+ 46 Tomar Prialt com outros medicamentos:
+ Informe o seu médico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica. É possível que sinta sonolência se tomar Prialt com alguns outros medicamentos utilizados para tratar a dor.
+ Gravidez e aleitamento: Se estiver grávida, se pensar que pode estar grávida ou se estiver a amamentar, consulte o seu médico antes de tomar qualquer medicamento.
+ O Prialt não deve ser utilizado durante a gravidez a menos que seja claramente necessário.
+ Condução de veículos e utilização de máquinas:
+ Foi referido que a utilização de Prialt provoca confusão e sonolência. Consulte o seu médico antes de conduzir ou utilizar máquinas.
+ 3. COMO UTILIZAR PRIALT O seu tratamento com Prialt será gerido por um médico com experiência na administração de medicamentos no espaço em volta da espinal medula e na utilização de bombas de perfusão internas e externas.
+ O Prialt é administrado como uma injecção contínua muito lenta no espaço que rodeia a espinal medula. O medicamento será administrado de forma contínua a partir de uma bomba implantada na sua parede abdominal ou colocada externamente numa bolsa com cinto. O seu médico discutirá consigo o tipo de bomba mais adequado para si e quando terá de reencher a sua bomba.
+ A dose inicial recomendada é no máximo de 2,4 microgramas por dia. O seu médico ajustará a dose de Prialt de acordo com a gravidade da dor em incrementos de dose ≤ 2,4 microgramas/dia. A dose máxima é de 21,6 microgramas/dia. No início do seu tratamento, o médico pode aumentar a sua dose a intervalos de 1 a 2 dias ou mais. Em caso de necessidade, pode reduzir-se a dose ou parar-se a injecção se os efeitos secundários forem demasiado grandes.
+ Se achar que ainda tem muitas dores enquanto está a utilizar o Prialt, ou que os efeitos secundários são muito grandes, fale com o seu médico.
+ Antes de lhe receitar Prialt, o seu médico pode decidir de, lentamente, deixar de lhe administrar opiáceos na sua medula espinal substituindo-os por medicamentos alternativos de combate à dor.
+ Se utilizar mais Prialt do que deveria: Se lhe for administrado mais Prialt do que o seu médico pretendia, pode sentir-se indisposto com sinais como, por exemplo, confusão, problemas com a fala, dificuldade em encontrar palavras, tremura excessiva, atordoamento, sonolência excessiva, sensação de enjoo ou vómitos. Se tal acontecer, consulte imediatamente o seu médico ou hospital.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como os demais medicamentos, Prialt pode ter efeitos secundários, embora não se manifestem em todas as pessoas.
+ Os efeitos secundários referidos com muita frequência (que ocorrem em mais de 1 de 10 doentes nos ensaios clínicos) incluem: confusão, tonturas, visão desfocada, dor de cabeça, movimento rápido dos 47 olhos para trás e para a frente, perda ou diminuição da memória (esquecimento), dificuldade em andar, vómitos, náuseas, fraqueza geral e sonolência.
+ Os efeitos secundários referidos com frequência (que ocorrem em mais de 1 de 100 doentes nos ensaios clínicos) incluem: falta de apetite, ansiedade ou ansiedade agravada, alucinações, incapacidade para adormecer ou para dormir, agitação, desorientação, depressão ou depressão agravada, nervosismo, alterações de humor, alterações do estado mental (pensamento anormal, confusão), paranóia, irritabilidade, confusão agravada, dificuldades de aprendizagem, memória ou pensamento, ausência ou diminuição dos reflexos, problemas de expressão ou compreensão de palavras, articulação deficiente das palavras, dificuldade em falar ou perda da capacidade de falar, lentidão, diminuição do equilíbrio ou coordenação, sensação de ardor, aumento da sensibilidade à dor, nível reduzido de consciência (falta de resposta ou quase inconsciente), sedação, dificuldade de concentração, problemas como o sentido do olfacto, sentido do paladar esquisito ou inexistente, tremura, formigueiro, visão dupla, perturbações visuais, intolerância à luz, zumbido nos ouvidos (tinido), tonturas ou sensação de girar, atordoamento ou tonturas ao levantar, tensão arterial baixa, falta de ar, boca seca, dor abdominal, náuseas agravadas, diarreia, prisão de ventre, transpiração, comichão, fraqueza muscular, espasmos musculares, cãibras musculares, dores musculares ou articulares, urinar (micção) difícil ou doloroso, dificuldade em iniciar ou controlar a urina (micção), sensação de tremer, quedas, dor ou dor exacerbada, fadiga, sensação de frio, inchaço da face, pernas ou pés, dor no peito, febre, alterações químicas sanguíneas, prostração mental e perda de peso.
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR PRIALT Manter fora do alcance e da vista das crianças.
+ Não utilize Prialt após a data de validade indicada no rótulo e na embalagem após EXP. O prazo de validade refere-se ao último dia desse mês.
+ Conservar o frasco por abrir no frigorífico (2°C – 8°C). Não congelar. Manter o frasco dentro da embalagem exterior para proteger da luz.
+ A estabilidade química e física durante a utilização foi demonstrada durante 60 dias a 37°C.
+ De um ponto de vista microbiológico, se o produto for diluído deve ser imediatamente transferido para a bomba de perfusão. Se não for utilizado imediatamente, os tempos de conservação durante a utilização e as condições anteriores à utilização são da responsabilidade do utilizador e normalmente não devem ultrapassar as 24 horas a uma temperatura de 2 a 8ºC, a não ser que a diluição tenha sido feita em condições assépticas controladas e validadas.
+ 48 6. OUTRAS INFORMAÇÕES
+ Qual a composição de Prialt A substância activa é a ziconotida. Um ml de solução contém 25 microgramas de ziconotida
+ -
+ (sob a forma de acetato). Um frasco de 20 ml contém 500 microgramas. Os outros ingredientes são metionina, cloreto de sódio, água para injectáveis, ácido clorídrico e
+ -
+ hidróxido de sódio.
+ Qual o aspecto de Prialt e conteúdo da embalagem
+ Prialt é uma solução para perfusão. A solução é transparente e incolor. Prialt é fornecido em embalagens de um único frasco de 20 ml.
+ Titular da autorização de introdução no mercado e fabricante
+ Titular da autorização de introdução no mercado: Eisai Ltd. 3 Shortlands London W6 8EE Reino Unido
+ Fabricante: Eisai Manufacturing Limited European Knowledge Centre Mosquito Way Hatfield Herts AL10 9SN Reino Unido
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado:
+ België/Belgique/Belgien Eisai Europe Ltd. Tél/Tel:+ 32 (0) 2 735 45 34
+ Luxembourg/Luxemburg Eisai Europe Ltd. Tél/Tel:+ 32 (0) 2 735 45 34 (Belgique/Belgien)
+ България Eisai Ltd. Teл.:+ 44 208 600 1400 (Великобритания)
+ Magyarország Eisai GmbH Tel.:+ 36 1 230 43 20
+ Česká republika Eisai GmbH Tel:+ 420 602 311 962
+ Malta Associated Drug Company Ltd Tel: +356 (0) 227 780 00
+ Danmark Eisai AB Tlf: +46 (0) 8 501 01 600 (Sverige)
+ Nederland Eisai Europe Ltd. Tel:+ 32 (0) 2 735 45 34 (België/Belgique)
+ 49 Deutschland Eisai GmbH Tel:+ 49 (0) 69 66 58 50
+ Norge Eisai AB Tlf:+ 46 (0) 8 501 01 600 (Sverige)
+ Eesti Eisai Ltd. Tel:+ 44 208 600 1400 (Ühendkuningriik)
+ Österreich Eisai GmbH Tel:+ 43 (0) 1 535 1980-0
+ Ελλάδα Arriani Pharmaceuticals Τηλ: +30 (0) 210 668 3000
+ Polska Eisai Ltd. Tel.:+ 44 208 600 1400 (Wielka Brytania)
+ España Eisai Farmacéutica, S. A. Tel: +(34) 91 455 94 55
+ Portugal EF-Eisai Farmacêutica, Unipessoal Lda Tel:+ 351 214 875 540
+ France Eisai SAS Tél:+ (33) 1 47 67 00 05
+ România Eisai Ltd. Tel:+ 44 208 600 1400 (Marea Britanie)
+ Ireland Eisai Ltd. Tel:+ 44 208 600 1400 (United Kingdom)
+ Slovenija Eisai Ltd. Tel:+ 44 208 600 1400 (Velika Britanija)
+ Ísland Eisai AB Sími:+ 46 (0) 8 501 01 600 (Svíþjóð)
+ Slovenská republika Eisai GmbH Tel:+ 420 602 311 962
+ Italia Eisai S. r. l. Tel:+ 39 02 5181401
+ Suomi/Finland Eisai AB Puh/Tel:+ 46 (0) 8 501 01 600 (Ruotsi)
+ Κύπρος Eisai Ltd. Τηλ:+ 44 208 600 1400 (Ηνωµένο Βασίλειο)
+ Sverige Eisai AB Tel:+ 46 (0) 8 501 01 600
+ Latvija Eisai Ltd. Tel:+ 44 208 600 1400 (Lielbritānija)
+ United Kingdom Eisai Ltd. Tel: 0208 600 1400
+ Lietuva Eisai Ltd. Tel.+ 44 208 600 1400 (Jungtinė Karalystė)
+ Este folheto foi aprovado pela última vez em{ MM/AAAA} 50 Este medicamento foi autorizado sob “ circunstâncias excepcionais ”. Isto significa que foi impossível obter informação detalhada sobre este medicamento devido à raridade desta doença. A Agência Europeia do Medicamentos (EMEA) irá rever anualmente qualquer nova informação sobre o medicamento e este folheto será actualizado se necessário.
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu. Também existem links para outros sites sobre doenças raras e tratamentos.
+ ------------------------------------------------------------------------------------------------------------------------------
+ A informação que se segue destina-se apenas aos médicos e aos profissionais dos cuidados de saúde:
+ Instruções de utilização e manipulação O Prialt é fornecido como uma solução transparente e incolor em frascos de utilização única. Antes de ser administrado, deve ser inspeccionado visualmente para verificar se contém partículas ou sinais de descoloração. A solução não deve ser utilizada se se apresentar descolorada ou turva, ou se se observarem partículas.
+ Para utilização única. Qualquer solução não utilizada deve ser eliminada de acordo com a regulamentação local.
+ Se for necessária diluição, o Prialt deve ser diluído assepticamente com solução injectável de cloreto de sódio isenta de conservantes a 9 mg/ml (0,9%) antes de ser utilizado. A concentração da solução utilizada na bomba de perfusão não deve ser inferior a 5 μg/ml de ziconotida numa bomba externa e 25 μg/ml numa bomba interna.
+ Deverão ser adoptados procedimentos assépticos rigorosos durante a preparação e a manipulação da solução para perfusão e o reenchimento da bomba. O doente e os profissionais de saúde devem estar familiarizados com a manipulação do sistema de perfusão externo ou interno e devem estar cientes da necessidade de se protegerem de infecções.
+ Foi demonstrado que o Prialt é química e fisicamente compatível com a bomba Synchromed implantável e com a bomba CADD-Micro externa, aos níveis de concentração indicados acima. Foi demonstrada estabilidade química e física em utilização durante 14 dias a 37ºC na bomba Synchromed, sem que a bomba tivesse sido anteriormente exposta ao medicamento. O enchimento inicial deve portanto ser substituído ao fim de 14 dias.
+ O Prialt revelou-se estável durante 60 dias a 37°C na bomba Synchromed anteriormente exposta ao medicamento. Foi demonstrada estabilidade durante 21 dias à temperatura ambiente na bomba CADD-Micro.
+ É necessário solicitar aos fabricantes instruções específicas para utilização das bombas. Na administração do Prialt devem ser utilizadas bombas com marcação CE equivalentes à bomba Synchromed e à bomba CADD-Micro. As bombas anteriormente utilizadas para administrar outros medicamentos devem ser lavadas três vezes com solução injectável de cloreto de sódio a 9 mg/ml (0,9%) (isenta de conservantes) antes de serem cheias com ziconotida. A introdução de ar no reservatório ou no cartucho da bomba deve ser minimizada, uma vez que o oxigénio pode degradar a ziconotida.
+ Antes do início da terapêutica, uma bomba interna deve ser lavada três vezes com 2 ml da solução a 25 μg/ml. A concentração de Prialt numa bomba que nunca tenha sido utilizada pode ser reduzida devido à adsorção nas superfícies do dispositivo e/ou à diluição pelo espaço residual do dispositivo.
+ 51 Por este motivo, após a primeira utilização de Prialt, o reservatório deve ser esvaziado e reenchido ao fim de 14 dias. A partir daí, a bomba deve ser esvaziada e reenchida de 60 em 60 dias.
+ 52

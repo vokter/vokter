@@ -1,0 +1,359 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. NOME DO MEDICAMENTO
+ Posaconazole SP 40 mg/ml suspensão oral 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada ml de suspensão oral contém 40 mg de posaconazol.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Suspensão oral Suspensão de cor branca 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Posaconazole SP está indicado no tratamento das seguintes infecções fúngicas nos adultos (ver secção 5.1):
+ -Aspergilose invasiva em doentes com doença refractária à anfotericina B ou a itraconazol ou em
+ doentes com intolerância a estes medicamentos;
+ -Fusariose em doentes com doença refractária à anfotericina B ou em doentes com intolerância a
+ anfotericina B;
+ -Cromoblastomicose e micetoma em doentes com doença refractária a itraconazol ou em doentes
+ com intolerância a itraconazol;
+ -Coccidioidomicose em doentes com doença refractária à anfotericina B, a itraconazol ou a
+ fluconazol ou em doentes com intolerância a estes medicamentos;
+ -Candidíase orofaríngea: como terapêutica de primeira linha em doentes com doença grave ou
+ imunodeprimidos, nos quais se espera uma fraca resposta a uma terapêutica tópica.
+ Por doença refractária entende-se a progressão da infecção ou a incapacidade de obter melhorias após um período mínimo de 7 dias de administração prévia de doses terapêuticas de um tratamento antifúngico eficaz.
+ Posaconazole SP está igualmente indicado na profilaxia de infecções fúngicas invasivas nos seguintes doentes:
+ -Doentes que recebem quimioterapia de remissão-indução para leucemia mielogénica aguda
+ (LMA) ou síndromes mielodisplásicas (SMD), que se espera resultar numa neutropenia prolongada e que apresentam um risco elevado de desenvolver infecções fúngicas invasivas;
+ -Receptores de transplantes de células estaminais hematopoiéticas (TCEH) submetidos a uma
+ terapêutica imunossupressora em doses elevadas para a doença de enxerto contra hospedeiro e que apresentam um risco elevado de desenvolver infecções fúngicas invasivas.
+ 4.2 Posologia e modo de administração O tratamento deve ser iniciado por um médico experiente no tratamento de infecções fúngicas ou na terapêutica de suporte nos doentes de alto risco para os quais o posaconazol está indicado na profilaxia.
+ A posologia recomendada é apresentada no Quadro 1.
+ 2 Quadro 1. Dose recomendada de acordo com a indicação
+ Indicação Dose e duração da terapêutica Infecções Fúngicas Invasivas (IFI) Refractárias/Doentes intolerantes com IFI
+ 400 mg (10 ml) duas vezes por dia. Nos doentes que não conseguem tolerar uma refeição ou um suplemento nutricional, Posaconazole SP deve ser administrado numa dose de 200 mg (5 ml) quatro vezes por dia. A duração da terapêutica deverá fundamentar-se na gravidade da doença subjacente, na recuperação de estados de imunossupressão e na resposta clínica.
+ Candidíase Orofaríngea Dose de carga de 200 mg (5 ml) uma vez por dia no primeiro dia, seguida de 100 mg (2,5 ml) uma vez por dia durante 13 dias. Cada dose de Posaconazole SP deve ser administrada em conjunto com uma refeição, ou com um suplemento nutricional em doentes que não conseguem tolerar alimentos, por forma a potenciar a absorção oral e a assegurar uma exposição adequada.
+ Profilaxia de Infecções Fúngicas Invasivas
+ 200 mg (5 ml) três vezes por dia. Cada dose de Posaconazole SP deve ser administrada em conjunto com uma refeição, ou com um suplemento nutricional em doentes que não conseguem tolerar alimentos, por forma a potenciar a absorção oral e a assegurar uma exposição adequada. A duração da terapêutica é baseada na recuperação de neutropenia ou de imunossupressão. Em doentes com leucemia mielogénica aguda ou síndromes mielodisplásicas, a profilaxia com Posaconazole SP deverá começar vários dias antes do início previsto da neutropenia e continuar por 7 dias após a contagem de neutrófilos estar acima de 500 células por mm3.
+ Os dados de farmacocinética em doentes com disfunção gastrointestinal grave (tal como diarreia grave) são limitados. Doentes com diarreia grave ou vómitos devem ser cuidadosamente vigiados para detecção do aparecimento de infecções fúngicas.
+ A suspensão oral tem de ser bem agitada antes da utilização.
+ Uso em insuficiência renal: Não é previsível que a insuficiência renal exerça qualquer efeito sobre a farmacocinética de posaconazol, não se recomendando qualquer ajuste posológico (ver secção 5.2).
+ Uso em insuficiência hepática: Os dados de farmacocinética em doentes com insuficiência hepática são limitados, não sendo, consequentemente, possível efectuar qualquer recomendação no que se refere a ajustes posológicos. No reduzido número de indivíduos com insuficiência hepática estudados, registou-se um aumento da exposição e da semi-vida com redução da função hepática (ver secções 4.4 e 5.2).
+ Uso em crianças: A segurança e eficácia nas crianças e adolescentes com menos de 18 anos de idade não foram estabelecidas. Consequentemente, não se recomenda o uso de posaconazol nos doentes com menos de 18 anos de idade (ver secções 4.4 e 5.2).
+ 4.3 Contra-indicações 3 Hipersensibilidade à substância activa ou a qualquer um dos excipientes. Administração concomitante de alcalóides ergotamínicos (ver secção 4.5).
+ Administração concomitante dos substratos do CYP3A4, terfenadina, astemizol, cisaprida, pimozida, halofantrina ou quinidina, dado que esta administração pode produzir aumentos das concentrações plasmáticas destes medicamentos, conduzindo a prolongamento do intervalo QTc e casos raros de torsades de pointes (ver secções 4.4 e 4.5).
+ Administração concomitante de inibidores da HMG-CoA redutase, sinvastatina, lovastatina e atorvastatina (ver secção 4.5).
+ 4.4 Advertências e precauções especiais de utilização
+ Hipersensibilidade: Não se dispõe de informação sobre sensibilidade cruzada entre posaconazol e outros agentes antifúngicos dos azóis. Recomenda-se precaução quando se prescreve Posaconazole SP a doentes com hipersensibilidade a outros azóis.
+ Toxicidade hepática: Foram notificadas reacções hepáticas (por exemplo elevações ligeiras a moderadas dos níveis de ALT, AST, fosfatase alcalina, bilirrubina total e/ou hepatite clínica) durante o tratamento com posaconazol. As elevações nos valores dos testes da função hepática demonstraram ser geralmente reversíveis com a interrupção da terapêutica e, nalguns casos, os valores normalizaram sem a interrupção da terapêutica. Raramente, foram notificadas reacções hepáticas mais graves, com resultados fatais. Posaconazol deve ser utilizado com precaução nos doentes que apresentem insuficiência hepática grave. Nestes doentes, o prolongamento da semi-vida de eliminação poderá conduzir a um aumento da exposição.
+ Monitorização da função hepática: Os doentes que desenvolvem alterações nos testes de função hepática durante a terapêutica com Posaconazole SP, deverão ser monitorizados por rotina para despiste do desenvolvimento de lesões hepáticas mais graves. O tratamento dos doentes deverá incluir uma avaliação laboratorial da função hepática (em especial, testes da função hepática e determinação dos níveis de bilirrubina). Dever-se-á ponderar a interrupção do tratamento com Posaconazole SP caso os sinais e sintomas clínicos sejam consistentes com o desenvolvimento de doença hepática.
+ Prolongamento do intervalo QTc: Alguns azóis têm sido associados a um prolongamento do intervalo QTc. Posaconazole SP não deve ser administrado com fármacos que sejam substrato para o CYP3A4 e que prolonguem, reconhecidamente, o intervalo QTc (ver secções 4.3 e 4.5). Posaconazole SP deve ser administrado com precaução nos doentes com patologias pro-arrítmicas, tais como: • Prolongamento congénito ou adquirido do intervalo QTc • Cardiomiopatia, em especial em presença de insuficiência cardíaca • Bradicardia sinusal • Arritmias sintomáticas pré-existentes • Administração concomitante de medicamentos que prolonguem, reconhecidamente, o intervalo QTc (para além dos mencionados na secção 4.3). As alterações dos electrólitos, em especial envolvendo os níveis de potássio, magnésio ou cálcio, devem ser monitorizadas e corrigidas conforme necessário, antes e durante a terapêutica com posaconazol.
+ Posaconazol é um inibidor do CYP3A4 e só deve ser tomado em circunstâncias específicas durante o tratamento com outros medicamentos que são metabolizados pelo CYP3A4 (ver secção 4.5).
+ Rifabutina: O uso concomitante com posaconazol deve ser evitado excepto nos casos em que os benefícios para o doente suplantem os riscos (ver secção 4.5).
+ Antibacterianos da rifamicina (rifampicina, rifabutina), determinados anticonvulsivantes (fenitoína, carbamazepina, fenobarbital, primidona) efavirenz e cimetidina: as concentrações de posaconazol
+ 4 poderão registar uma redução significativa durante a administração concomitante; consequentemente, o uso concomitante com posaconazol deverá ser evitado excepto nos casos em que os benefícios para o doente suplantem os riscos (ver secção 4.5).
+ Este medicamento contém aproximadamente 1,75 g de glucose em 5 ml de suspensão. Doentes com problemas de má absorção de glucose-galactose não devem tomar este medicamento.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Efeitos de outros medicamentos sobre posaconazol: Posaconazol é metabolizado por glucuronidação do UDP (enzimas de fase 2) e é um substrato, in vitro, para o efluxo da p-glicoproteína (P-gp). Assim, os inibidores (por exemplo, verapamilo, ciclosporina, quinidina, claritromicina, eritromicina, etc.) ou indutores (por exemplo, rifampicina, rifabutina, determinados anticonvulsivantes, etc.) destas vias de depuração poderão aumentar ou diminuir as concentrações plasmáticas de posaconazol, respectivamente.
+ A rifabutina (300 mg uma vez por dia) reduziu a Cmáx (concentração plasmática máxima) e a AUC (área sob a curva de concentração plasmática versus tempo) de posaconazol para 57% e 51%, respectivamente. O uso concomitante de posaconazol e rifabutina e de indutores semelhantes (por exemplo rifampicina) deverá ser evitado, excepto nos casos em que os benefícios para o doente suplantem os riscos. Consultar em baixo também, sobre o efeito de posaconazol nos níves plasmáticos da rifabutina.
+ Efavirenz (400 mg uma vez por dia) reduziu a Cmáx e a AUC de posaconazol, respectivamente em 45% e 50%. Deve ser evitado a administração concomitante de posaconazol e efavirenz, excepto se os benefícios para o doente superarem os riscos.
+ A fenitoína (200 mg uma vez por dia) reduziu a Cmáx e a AUC de posaconazol em 41% e 50%, respectivamente. O uso concomitante de posaconazol e fenitoína e de indutores semelhantes (por exemplo carbamazepina, fenobarbital, primidona) deverá ser evitado, excepto nos casos em que os benefícios para o doente suplantem os riscos.
+ Antagonistas dos receptores H2 e inibidores da bomba de protões: As concentrações plasmáticas de posaconazol (Cmáx e AUC) desceram 39% quando posaconazol foi administrado com cimetidina (400 mg duas vezes por dia) devido a uma redução da absorção, possivelmente secundária a uma redução da produção ácida gástrica. O uso concomitante de posaconazol e cimetidina deve ser evitado excepto nos casos em que os benefícios para o doente suplantem os riscos. Não foi estudado o efeito de outros antagonistas dos receptores H2 (por exemplo famotidina, ranitidina) e inibidores da bomba de protões (por exemplo omeprazol) que possam suprimir a acidez gástrica durante várias horas, sobre os níveis plasmáticos de posaconazol, mas poderá ocorrer uma diminuição da biodisponibilidade, pelo que se deve evitar a administração concomitante se possível.
+ Efeitos de posaconazol sobre outros medicamentos: Posaconazol é um potente inibidor do CYP3A4. A administração concomitante de posaconazol com substratos de CYP3A4 pode resultar num grande aumento da exposição aos substratos do CYP3A4 como exemplificado pelo efeito sobre tacrolímus, sirolímus, atazanavir e midazolam. Recomenda-se precaução durante a administração concomitante de posaconazol com os substratos de CYP3A4 administrados por via intravenosa e poderá ser necessário reduzir a dose do substrato de CYP3A4. Se posaconazol for administrado concomitantemente com substratos de CYP3A4 administrados por via oral, e para os quais um aumento das concentrações plasmáticas está associado a efeitos adversos inaceitáveis, deve-se monitorizar cuidadosamente as concentrações plasmáticas do substrato de CYP3A4 e/ou os eventos adversos, e ajustar a dose de acordo com a necessidade. Vários dos estudos de interacção foram conduzidos em voluntários saudáveis nos quais ocorre uma exposição superior a posaconazol em comparação com os doentes administrados com a mesma dose. O efeito de posaconazol sobre os substratos de CYP3A4 em doentes pode ser inferior nalguns casos aos observados em voluntários saudáveis, e é expectável que seja variável entre os doentes devido à 5 variável exposição de posaconazol nos doentes. O efeito da administração concomitante com posaconazol no nível plasmático dos substratos CYP3A4 também pode ser variável no mesmo doente, excepto se posaconazol for administrado de um modo rigorosamente padronizado com a alimentação, dado o grande efeito da alimentação na exposição de posaconazol (ver secção 5.2).
+ Terfenadina, astemizol, cisaprida, pimozida, halofantrina e quinidina (substratos do CYP3A4): A administração concomitante de posaconazol e terfenadina, astemizol, cisaprida, pimozida, halofantrina ou quinidina está contra-indicada. A co-administração poderá resultar num aumento das concentrações plasmáticas destes medicamentos, conduzindo a um prolongamento do intervalo QTc e a ocorrências raras de torsades de pointes (ver secção 4.3).
+ Alcalóides ergotamínicos: Posaconazol pode aumentar a concentração plasmática dos alcalóides ergotamínicos (ergotamina e di-hidroergotamina), podendo conduzir a ergotismo. A administração concomitante de posaconazol e de alcalóides ergotamínicos está contra-indicada (ver secção 4.3).
+ Inibidores da HMG-CoA redutase metabolizados através do CYP3A4 (por exemplo sinvastatina, lovastatina e atorvastatina): Posaconazol poderá aumentar substancialmente os níveis plasmáticos dos inibidores da HMG-CoA redutase metabolizados pelo CYP3A4. O tratamento com estes inibidores da HMG-CoA redutase deve ser suspenso durante o tratamento com posaconazol, uma vez que o aumento dos níveis tem sido associado a rabdomiólise (ver secção 4.3).
+ Alcalóides da vinca: Posaconazol pode aumentar a concentração plasmática dos alcalóides da vinca (por exemplo vincristina e vinblastina), podendo conduzir a neurotoxicidade. Consequentemente, o uso concomitante com posaconazol e de alcalóides da vinca deve ser evitado excepto nos casos em que os benefícios para o doente suplantem os riscos. Em caso de administração concomitante, recomenda-se ponderar o ajuste posológico dos alcalóides da vinca.
+ Rifabutina: Posaconazol aumentou a Cmáx e a AUC de rifabutina em 31% e 72%, respectivamente. O uso concomitante de posaconazol e de rifabutina deve ser evitado excepto nos casos em que os benefícios para o doente suplantem os riscos (ver também em cima sobre o efeito da rifabutina nos níveis plasmáticos de posaconazol). Quando se procede à administração concomitante destes medicamentos, recomenda-se proceder a uma monitorização cuidadosa dos hemogramas completos e dos efeitos adversos relacionados com o aumento dos níveis de rifabutina (por exemplo uveíte).
+ Ciclosporina: Nos doentes submetidos a transplante cardíaco e tratados com doses estabilizadas de ciclosporina, posaconazol 200 mg uma vez por dia aumentou as concentrações de ciclosporina, tornando necessário proceder a reduções da dose. Nos estudos de eficácia clínica, foram notificados casos de níveis elevados de ciclosporina, resultando em efeitos adversos graves, incluindo nefrotoxicidade e um caso de leucoencefalopatia fatal. Quando se inicia o tratamento com posaconazol em doentes que já estejam a receber ciclosporina, a dose de ciclosporina deverá ser reduzida (por exemplo para cerca de três quartos da dose actual). Seguidamente, os níveis sanguíneos de ciclosporina deverão ser cuidadosamente controlados durante a administração concomitante e à altura da interrupção do tratamento com posaconazol, procedendo-se ao ajuste da dose de ciclosporina conforme necessário.
+ Tacrolímus: Posaconazol aumentou a Cmáx e a AUC do tacrolímus (dose única de 0,05 mg/kg de peso corporal) em 121% e 358%, respectivamente. Nos estudos sobre eficácia clínica, foram notificadas interacções clinicamente significativas, que resultaram em hospitalização e/ou em interrupção do tratamento com posaconazol. Quando se inicia o tratamento com posaconazol em doentes já tratados com tacrolímus, a dose de tacrolímus deve ser reduzida (por exemplo para cerca de um terço da dose actual). A partir desse momento os níveis sanguíneos de tacrolímus devem ser cuidadosamente monitorizados durante a administração concomitante e à altura da interrupção do tratamento com posaconazol, procedendo-se ao ajuste da dose de tacrolímus conforme necessário.
+ Sirolímus: A administração de dose repetida de posaconazol por via oral (400 mg duas vezes dia durante 16 dias) aumentou a Cmáx e AUC de sirolímus (2 mg em dose única) numa média respectivamente de 6,7 vezes e 8,9 vezes (gama de 3,1 a 17,5 vezes), em indivíduos saudáveis.
+ 6 Desconhece-se o efeito de posaconazol sobre sirolímus em doentes, mas espera-se ser variável devido à variabilidade da exposição de posaconazol em doentes. Não é recomendada a administração concomitante de posaconazol e sirolímus e sempre que possível deve ser evitada. Se for considerado que não é possível evitar a administração concomitante, recomenda-se que a dose de sirolímus seja largamente reduzida na altura do início do tratamento de posaconazol e que com muita frequência seja monitorizado os níveis de concentrações de sirolímus no sangue completo. As concentrações de sirolímus devem ser determinadas no início, durante a administração concomitante e descontinuação do tratamento de posaconazol, com as doses de sirolímus devidamente ajustadas. Na co-administração com sirolimus, deve ser tido em conta que a relação entre a concentração e AUC se altera .. Como resultado, a concentração de sirolimus, que se deve situar dentro da janela terapêutica, é reduzida para níveis subterapêuticos. Assim, devem estabelecer-se como alvo, concentrações que se situem acima do intervalo terapêutico e monitorizar cuidadosamente sinais e sintomas clínicos, parâmetros laboratoriais e biópsias tecidulares.
+ Inibidores da protease VIH: Uma vez que os inibidores da protease VIH são substratos do CYP3A4, é expectável que posaconazol aumente os níveis plasmáticos destes agentes anti-retrovíricos. Após a administração concomitante de posaconazol por via oral (400 mg duas vezes por dia) e de atazanavir (300 mg toma única diária) durante 7 dias em indivíduos saudáveis, a Cmáx e AUC de atazanavir aumentaram numa média, respectivamente de 2,6 vezes e 3,7 vezes (gama de 1,2 a 26 vezes). Após a administração concomitante de posaconazol por via oral (400 mg duas vezes por dia) com atazanavir e ritonavir (300/100 mg toma única diária) durante 7 dias em indivíduos saudáveis, a Cmáx e AUC de atazanavir aumentaram numa média, respectivamente de 1,5 vezes e 2,5 vezes (gama de 0,9 a 4,1 vezes). A adição de posaconazol à terapêutica com atazanavir ou com atazanavir e ritonavir foi associada aos aumentos dos níveis de bilirrubina plasmática. Durante a administração concomitante de posaconazol, é recomendada a monitorização frequente de eventos adversos e toxicidade relacionada com agentes anti-retrovíricos que sejam substratos de CYP3A4.
+ Midazolam e outras benzodiazepinas metabolizadas pelo CYP3A4: Num estudo realizado em voluntários saudáveis posaconazol (200 mg em toma única diária durante 10 dias) aumentou a exposição (AUC) de midazolam IV (0,05 mg/kg) em 83%. Num outro estudo realizado em voluntários saudáveis, a administração de doses repetidas de posaconazol oral (200 mg duas vezes dia durante 7 dias) aumentou a Cmáx e AUC de midazolam IV (0,4 mg em dose única) numa média, respectivamente em 1,3 e 4,6 vezes (gama de 1,7 a 6,4 vezes); Posaconazol 400 mg duas vezes dia durante 7 dias aumentou a Cmáx e AUC de midazolam IV, respectivamente em 1,6 e 6,2 vezes (gama de 1,6 a 7,6 vezes). Ambas as doses de posaconazol aumentaram a Cmáx e AUC de midazolam por via oral (2 mg em dose oral única), respectivamente em 2,2 e 4,5 vezes. Adicionalmente, posaconazol oral (200 mg ou 400 mg), durante a administração concomitante, prolongou a semi-vida final média de midazolam desde aproximadamente de 3-4 horas para 8-10 horas. Devido ao risco de sedação prolongada recomenda-se que os ajustes de dose sejam considerados quando posaconazol é administrado concomitantemente com qualquer benzodiazepina que seja metabolizada pelo CYP3A4 (por exemplo midazolam, triazolam, alprazolam). Bloqueadores dos canais de cálcio metabolizados através do CYP3A4 (por exemplo diltiazem, verapamilo, nifedipina, nisoldipina): Recomenda-se proceder à monitorização frequente para despiste de efeitos adversos e de toxicidade relacionada com os bloqueadores dos canais de cálcio, durante a administração concomitante com posaconazol. Poderá ser necessário proceder ao ajuste posológico dos bloqueadores dos canais de cálcio.
+ Digoxina: A administração de outros azóis tem-se apresentado associada a aumentos dos níveis de digoxina. Consequentemente, posaconazol pode aumentar a concentração plasmática de digoxina e os níveis de digoxina deverão ser monitorizados quando se inicia ou interrompe o tratamento com posaconazol.
+ Sulfonilureias: As concentrações de glucose verificadas em alguns voluntários saudáveis registaram uma redução quando se procedeu à administração concomitante de glipizida com posaconazol. Recomenda-se proceder à monitorização das concentrações de glucose nos doentes diabéticos.
+ 7 4.6 Gravidez e aleitamento
+ Não existem informações suficientes sobre a utilização de posaconazol em mulheres grávidas. Os estudos em animais revelaram toxicidade reprodutiva (ver secção 5.3). Desconhece-se o risco potencial para o ser humano.
+ As mulheres em risco de engravidar deverão utilizar um método contraceptivo eficaz durante o tratamento. Posaconazol não pode ser utilizado durante a gravidez, excepto nos casos em que os benefícios para a mãe sejam claramente superiores aos riscos potenciais para o feto.
+ Posaconazol é excretado no leite de fêmeas de rato em aleitamento (ver secção 5.3). A excreção de posaconazol no leite humano não foi devidamente investigada. O aleitamento deverá ser interrompido quando se inicia o tratamento com posaconazol.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos de posaconazol sobre a capacidade de conduzir e utilizar máquinas.
+ 4.8 Efeitos indesejáveis
+ A segurança do posaconazol foi avaliada em &gt; 2.400 doentes e voluntários saudáveis envolvidos em ensaios clínicos, e através da experiência pós-comercialização. Os acontecimentos adversos graves relacionados mais frequentemente notificados incluíram náuseas, vómitos, diarreia, pirexia e aumento da bilirrubina.
+ Quadro 2. Acontecimentos adversos relacionados com o tratamento (AERT), por sistema orgânico e frequência Frequentes (≥1/100, &lt; 1/10); pouco frequentes (≥1/1.000, &lt; 1/100); raros (≥1/10.000, &lt; 1/1.000) Doenças do sangue e do sistema linfático Frequentes: Pouco frequentes:
+ neutropenia trombocitopenia, leucopenia, anemia, eosinofilia, linfadenopatia
+ Raros: síndrome urémico hemolítico, púrpura trombocitopénica trombótica, pancitopenia, coagulopatia, hemorragia
+ Doenças do sistema imunitário Pouco frequentes: Raros: Doenças endócrinas
+ reacção alérgica reacção de hipersensibilidade
+ Raros: Doenças do metabolismo e da nutrição
+ insuficiência supra-renal, gonadotrofina sanguínea diminuída
+ Frequentes: Pouco frequentes:
+ alteração do equilíbrio electrolítico, anorexia hiperglicemia
+ Perturbações do foro psiquiátrico Raros: Doenças do sistema nervoso
+ perturbação psicótica, depressão
+ Frequentes: Pouco frequentes: Raros:
+ parestesia, tonturas, sonolência, cefaleia convulsões, neuropatia, hipoestesia, tremor acidente cerebrovascular, encefalopatia, neuropatia periférica, síncope
+ 8 Afecções oculares Pouco frequentes: Raros: Afecções do ouvido e do labirinto
+ visão desfocada diplopia, escotoma
+ Raros: Cardiopatias Pouco frequentes:
+ défice auditivo síndrome de QT prolongado§, electrocardiograma alterado§, palpitações
+ Raros: Vasculopatias
+ torsade de pointes, morte súbita, taquicardia ventricular, paragem cardio-respiratória, insuficiência cardíaca, enfarte do miocárdio
+ Pouco frequentes: Raros:
+ hipertensão, hipotensão embolismo pulmonar, trombose venosa profunda
+ Doenças respiratórias, torácicas e do mediastino
+ Raros: Doenças gastrointestinais
+ hipertensão pulmonar, pneumonia intersticial, pneumonite
+ Frequentes: vómitos, nauseas, dor abdominal, diarreia, dispepsia, xerostomia, flatulência
+ Pouco frequentes: Raros: Afecções hepatobiliares
+ pancreatite hemorragia gastrointestinal, oclusão intestinal
+ Frequentes: testes de função hepática aumentados (ALT aumentada, AST aumentada, bilirrubina aumentada, fosfatase alcalina aumentada, GGT aumentada)
+ Pouco frequentes: Raros: Afecções dos tecidos cutâneos e subcutâneas
+ lesões hepatocelulares*, hepatite, icterícia, hepatomegalia insuficiência hepática, hepatite colestática, colestase, hepatosplenomegalia, hipersensibilidade hepática, asterixe
+ Frequentes: Pouco frequentes: Raros:
+ erupção cutânea úlceras orais, alopecia síndrome de Stevens Johnson, erupção cutânea vesicular
+ Afecções musculosqueléticas e dos tecidos conjuntivos
+ Pouco frequentes: Doenças renais e urinárias
+ dorsalgia
+ Pouco frequentes: insuficiência renal aguda, insuficiência renal, aumento da creatininemia
+ Raros: Doenças dos órgãos genitais e da mama
+ acidose tubular renal, nefrite intersticial
+ Pouco frequentes: Raros: perturbação menstrual mastalgia
+ Perturbações gerais e alterações no local de administração Frequentes: Pouco frequentes: Raros:
+ pirexia (febre), astenia, fadiga edema, dor, arrepios, mal-estar edema da língua, edema facial
+ 9 Exames complementares de diagnóstico Pouco frequentes: § Ver secção 4.4.
+ alterações dos níveis de fármacos
+ * Durante a vigilância pós-comercialização foi notificada lesão hepática grave, com resultado fatal (ver secção 4.4).
+ 4.9 Sobredosagem Durante os ensaios clínicos, os doentes tratados com posaconazol em doses não superiores a 1.600 mg/dia não apresentaram reacções adversas diferentes das referidas nos doentes tratados com as doses inferiores. Observou-se um caso de sobredosagem acidental num doente que tomou 1.200 mg duas vezes por dia, durante 3 dias. Não se observaram quaisquer reacções adversas pelo investigador.
+ Posaconazol não é removido por hemodiálise.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Antimicóticos para uso sistémico– derivados dos triazóis, código ATC: J02A C04
+ Mecanismo de acção Posaconazol inibe a enzima lanosterol 14α-demetilase (CYP51), que cataliza um passo essencial na biosíntese do ergosterol. Microbiologia Posaconazol tem demonstrado, in vitro, ser activo contra os seguintes microrganismos: espécies de Aspergillus (Aspergillus fumigatus, A. flavus, A. terreus, A. nidulans, A. niger, A. ustus), espécies de Candida (Candida albicans, C. glabrata, C. krusei, C. parapsilosis, C. tropicalis, C. dubliniensis, C. famata, C. inconspicua, C. lipolytica, C. norvegensis, C. pseudotropicalis), Coccidioides immitis, Fonsecaea pedrosoi, e espécies de Fusarium, Rhizomucor, Mucor e Rhizopus. Os dados microbiológicos sugerem que o posaconazol é eficaz contra Rhizomucor, Mucor e Rhizopus. No entanto, os dados clínicos são actualmente muito limitados para avaliar a eficácia do posaconazol contra estes agentes causais.
+ Resistência Foram identificados isolados clínicos com sensibilidade reduzida a posaconazol. O mecanismo básico de resistência reside na aquisição de substituições na proteína alvo, CYP51.
+ Associações com outros agentes antifúngicos O uso de associações terapêuticas antifúngicas não deverá reduzir a eficácia tanto de posaconazol como das outras terapêuticas; contudo, não existem presentemente indícios clínicos de que a associação terapêutica possa proporcionar quaisquer benefícios adicionais.
+ Relações de farmacocinética/Farmacodinamia: Observou-se uma correlação entre a exposição total ao medicamento dividida pela CIM (AUC/CIM) e o resultado final clínico. O rácio crítico para os doentes com infecções a Aspergillus foi ∼200. É particularmente importante tentar assegurar a obtenção de níveis plasmáticos máximos em doentes infectados por Aspergillus (ver secções 4.2 e 5.2 relativas aos regimes posológicos recomendados e aos efeitos dos alimentos na absorção).
+ Experiência clínica Aspergilose invasiva Procedeu-se à avaliação de posaconazol oral 800 mg/dia em doses repartidas no tratamento de aspergilose invasiva em indivíduos com doença refractária a anfotericina B (incluindo formulações
+ 10 lipossómicas) ou itraconazol, ou em doentes que apresentavam intolerância a estes medicamentos num ensaio não comparativo sobre terapêutica de último recurso. Os resultados clínicos foram comparados com os de um grupo de controlo externo resultante de uma revisão retrospectiva de registos clínicos. O grupo de controlo externo incluíu 86 doentes submetidos a terapêutica disponível (como acima), maioritariamente nas mesmas alturas e nos mesmos locais que os doentes tratados com posaconazol. A maioria dos casos de aspergilose foram considerados refractários à terapêutica prévia, tanto no grupo de posaconazol (88%) como no grupo de controlo externo (79%).
+ Conforme indicado no Quadro 3, uma resposta com êxito (resolução completa ou parcial) no final do tratamento foi observada em 42% dos doentes tratados com posaconazol, versus 26% no grupo externo. No entanto, este não foi um estudo prospectivo, aleatorizado, controlado e portanto todas as comparações com o grupo de controlo externo devem ser lidas com precaução. Quadro 3. Eficácia global de posaconazol no final do tratamento para a aspergilose invasiva, comparativamente com um grupo de controlo externo
+ Posaconazol Grupo de controlo externo Resposta Global Êxito por Espécies Todas confirmadas micologicamente
+ 45/107 (42%) 22/86 (26%) Aspergillus spp.1 A. fumigatus A. flavus A. terreus A. niger
+ 34/76 12/29 10/19 4/14 3/5
+ (45%) (41%) (53%) (29%) (60%)
+ 19/74 (26%) 12/34 (35%) 3/16 (19%) 2/13 (15%) 2/7 (29%)
+ Fusarium spp.: 11 de 24 doentes, em que a fusariose foi comprovada ou provável, foram tratados com êxito com posaconazol 800 mg/dia em doses repartidas, durante uma mediana de 124 dias e até um máximo de 212 dias. Entre os dezoito doentes que demonstraram ser intolerantes ou tiveram infecções refractárias à anfotericina B ou a itraconazol, sete foram classificados como respondedores.
+ Cromoblastomicose/Micetoma: 9 de 11 doentes foram tratados com êxito com posaconazol 800 mg/dia em doses repartidas, durante uma mediana de 268 dias e até um máximo de 377 dias. Cinco destes doentes apresentavam cromoblastomicose devido a Fonsecaea pedrosoi e 4 apresentavam micetoma, maioritariamente devido a espécies de Madurella.
+ Coccidioidomicose: 11 de 16 doentes foram tratados com êxito (resolução parcial ou completa dos sinais e sintomas presentes no início do estudo no final do tratamento) com posaconazol 800 mg/dia em doses repartidas, durante um período mediano de 296 dias, e até um máximo de 460 dias.
+ Tratamento de Candidíase Orofaríngea (COF) sensível a azóis Um estudo aleatorizado, controlado, com avaliação cega, foi completado em doentes infectados por VIH com candidíase orofaríngea sensível a azóis (a maioria dos doentes estudados tinha C. albicans isolada no início do estudo). A variável de eficácia primária foi a taxa de sucesso clínico (definida como cura ou melhoria) após 14 dias de tratamento. Os doentes foram tratados com suspensão oral de posaconazol ou fluconazol (ambos os fármacos foram administrados da seguinte forma: 100 mg duas vezes por dia durante 1 dia, seguidas de 100 mg uma vez por dia durante 13 dias).
+ As taxas de resposta clínica do estudo acima referido estão indicadas no Quadro 4 abaixo. Foi demonstrada a não inferioridade do posaconazol face ao fluconazol para as taxas de sucesso clínico no Dia 14, assim como às 4 semanas após o fim do tratamento.
+ Quadro 4. Taxas de sucesso clínico na Candidíase Orofaríngea Variável
+ Posaconazol Fluconazol Taxa de sucesso clínico no Dia 14 91,7% (155/169) 92,5% (148/160) 1 Inclui outras espécies menos comuns ou espécies desconhecidas
+ 11 Taxa de sucesso clínico 4 semanas após o fim do tratamento
+ 68,5% (98/143) 61,8% (84/136) A taxa de sucesso clínico foi definida como o número de casos avaliados como tendo uma resposta clínica (cura ou melhoria) dividido pelo número total de casos elegíveis para análise.
+ Profilaxia de Infecções Fúngicas Invasivas (IFIs) (Estudos 316 e 1899) Dois estudos em profilaxia aleatorizados, controlados, foram conduzidos em doentes que apresentavam risco elevado para o desenvolvimento de infecções fúngicas invasivas.
+ O Estudo 316 foi um ensaio em dupla ocultação, aleatorizado, de suspensão oral de posaconazol (200 mg três vezes ao dia) vs cápsulas de fluconazol (400 mg uma vez por dia) em receptores de transplantes de células estaminais hematopoiéticas alogénicas com doença de enxerto contra hospedeiro (graft-versus-host disease: GVHD). A variável de eficácia primária foi a incidência de IFIs comprovadas/prováveis 16 semanas após a aleatorização, conforme determinado por um painel de peritos externo, cego e independente. Uma variável secundária crítica foi a incidência de IFIs comprovadas/prováveis durante o período de tratamento (desde a primeira dose à última dose do medicamento experimental+ 7 dias). A maioria dos doentes (377/600,[ 63%]) incluídos apresentavam GVHD aguda de Grau 2 ou 3 ou crónica extensa (195/600,[ 32,5%]) no início do estudo. A duração média da terapêutica foi de 80 dias para o posaconazol e 77 dias para o fluconazol.
+ O Estudo 1899 foi um estudo aleatorizado, com avaliação cega, de suspensão oral de posaconazol (200 mg três vezes por dia) vs suspensão de fluconazol (400 mg uma vez por dia) ou solução oral de itraconazol (200 mg duas vezes por dia) em doentes com neutropenia que estavam a receber quimioterapia citotóxica para leucemia mielogénica aguda ou síndromes mielodisplásicas. A variável de eficácia primária foi a incidência de IFIs comprovadas/prováveis, conforme determinado por um painel de peritos externo, cego e independente, durante o período de tratamento. Uma variável secundária crítica foi o aumento da incidência de IFIs comprovadas/prováveis 100 dias após a aleatorização. Os novos diagnósticos de leucemia mielogénica aguda foram as situações subjacentes mais frequentes (435/602,[ 72%]). A duração média da terapêutica foi de 29 dias para o posaconazol e 25 dias para o fluconazol/itraconazol.
+ Em ambos os estudos de profilaxia, a aspergilose foi a forma mais comum de infecção. Os resultados de ambos os estudos são apresentados nos Quadros 5 e 6. Surgiram menos infecções por Aspergillus em doentes a receber posaconazol para profilaxia do que em doentes do grupo controlo.
+ Quadro 5. Resultados de estudos clínicos na profilaxia de Infecções Fúngicas Invasivas. Controloa
+ Estudo Posaconazol Valor de P Proporção (%) de doentes com IFIs comprovadas/prováveis Período em tratamentob 1899d 316e
+ 7/304 (2) 7/291 (2) 25/298 (8) 22/288 (8)
+ 0,0009 0,0038 Período de tempo fixoc 1899d 316 d
+ 14/304 (5) 16/301 (5) 33/298 (11) 27/299 (9)
+ 0,0031 0,0740 FLU= fluconazol; ITZ= itraconazol; POS= posaconazol. a: FLU/ITZ (1899); FLU (316). b: No Estudo 1899 corresponde ao período desde a aleatorização a última dose do medicamento experimental mais 7 dias; no Estudo 316 corresponde ao período desde a primeira dose à última dose administrada do medicamento experimental mais 7 dias. c: No Estudo 1899 corresponde ao período desde a aleatorização até 100 dias após a aleatorização; no Estudo 316 corresponde ao período desde o dia da linha de base até 111 dias após a linha de base. d: Todos os aleatorizados e: Todos os tratados
+ Quadro 6. Resultados de estudos clínicos na profilaxia de Infecções Fúngicas Invasivas. Controloa
+ Estudo Posaconazol 12 Proporção (%) de doentes com Aspergilose comprovada/provável Período em tratamentob 1899d 316e
+ 2/304 (1) 3/291 (1) 20/298 (7) 17/288 (6) Periodo de tempo fixoc 1899d 316 d
+ 4/304 (1) 7/301 (2) 26/298 (9) 21/299 (7) FLU= fluconazol; ITZ= itraconazol; POS= posaconazol. a: FLU/ITZ (1899); FLU (316). b: No Estudo 1899 corresponde ao período desde a aleatorização a última dose do medicamento experimental mais 7 dias; no Estudo 316 corresponde ao período desde a primeira dose à última dose administrada do medicamento experimental mais 7 dias. c: No Estudo 1899 corresponde ao período desde a aleatorização até 100 dias após a aleatorização; no Estudo 316 corresponde ao período desde o dia da linha de base até 111 dias após a linha de base. d: Todos os aleatorizados e: Todos os tratados
+ No Estudo 1899, foi observada uma diminuição significativa na mortalidade por todas as causas favorável ao posaconazol[ POS 49/304 (16%) vs FLU/ITZ 67/298 (22%) p= 0,048]. Com base nas estimativas de Kaplan-Meier, a probabilidade de sobrevivência até ao dia 100 após a aleatorização, foi significativamente maior para os doentes a receber posaconazol; este beneficio na sobrevivência foi demonstrado quando a análise considerou todas as causas de morte (P=0,0354), bem como as mortes relacionadas com IFIs (P=0,0209).
+ No Estudo 316, a mortalidade global foi semelhante (POS,25%; FLU,28%); no entanto, a proporção de mortes relacionadas com IFIs foi significativamente menor no grupo POS (4/301) comparado com o grupo FLU (12/299; P=0,0413).
+ Uso em doentes pediátricos Dezasseis doentes com 8-17 anos de idade foram tratados com 800 mg/dia num estudo para infecções fungicas invasivas. O perfil de segurança aparenta ser semelhante ao dos doentes com idades ≥ 18 anos, com base nos dados disponíveis de 16 destes doentes pediátricos.
+ Adicionalmente, doze doentes com 13-17 anos de idade receberam 600 mg/dia para profilaxia de infecções fúngicas invasivas (Estudos 316 e 1899). O perfil de segurança nestes doentes com idade &lt; 18 anos aparenta ser semelhante ao perfil de segurança observado em adultos. Com base em dados de farmacocinética em 10 destes doentes pediátricos, o perfil farmacocinético aparenta ser semelhante ao de doentes com idades ≥ 18 anos.
+ A segurança e a eficácia nas crianças e adolescentes com menos de 18 anos de idade não foram estabelecidas.
+ Avaliação electrocardiográfica Obtiveram-se múltiplos ECGs sincronizados ao longo de um período de 12 horas, antes e durante a administração de posaconazol (400 mg duas vezes por dia, concomitantemente com refeições de alto teor lipídico), em 173 voluntários saudáveis do sexo masculino e feminino, com idades compreendidas entre os 18 os 85 anos. Não se observaram alterações clinicamente relevantes no intervalo QTc médio (Fridericia), relativamente aos valores basais.
+ 5.2 Propriedades farmacocinéticas Absorção Posaconazol apresenta uma absorção com uma mediana de tmáx correspondente a 3 horas (doentes alimentados). A farmacocinética de posaconazol é linear após a administração de uma dose única e de doses múltiplas de até 800 mg, quando administradas concomitantemente com uma refeição de alto teor lipídico. Não se observaram quaisquer aumentos adicionais do nível de exposição quando se
+ 13 administraram doses superiores a 800 mg por dia em doentes e voluntários saudáveis. No estado de jejum a AUC aumentou menos em proporção à dose administrada acima das 200 mg. Nos voluntários saudáveis em condições de jejum, a divisão da dose diária total (800 mg) em 200 mg quatro vezes por dia, comparativamente com 400 mg duas vezes por dia, demonstrou produzir um aumento da exposição de posaconazol em 58% ao longo de um período de 48 horas.
+ Efeitos dos alimentos sobre a absorção oral em voluntários saudáveis A AUC de posaconazol é cerca de 2,6 vezes superior quando administrada com uma refeição não lipídica ou com um suplemento nutricional (14 gramas de lípidos) e 4 vezes superior quando administrada com uma refeição com elevado teor de lípidos (~ 50 gramas de lípidos), comparativamente com a AUC obtida em jejum. Posaconazol deve ser administrado concomitantemente com alimentos ou com um suplemento nutricional (ver secção 4.2).
+ Distribuição Posaconazol é absorvido e eliminado lentamente, com um grande volume de distribuição aparente (1.774 litros) e apresenta uma forte ligação às proteínas (&gt; 98%), predominantemente à albumina sérica.
+ Metabolismo Posaconazol não possui quaisquer metabolitos circulantes major e é pouco provável que as suas concentrações sejam alteradas pelos inibidores das enzimas do CYP450. Dos metabolitos circulantes, a maioria é conjugada do glucuronido de posaconazol, observando-se apenas pequenas quantidades de metabolitos oxidativos (mediados pelo CYP450). Os metabolitos excretados na urina e nas fezes perfazem aproximadamente 17% da dose radiomarcada administrada.
+ Excreção Posaconazol sofre uma eliminação lenta, com uma semi-vida (t1/2) de 35 horas (limites de 20 a 66 horas). Após a administração de 14C-posaconazol, a radioactividade foi predominantemente recuperada nas fezes (77% da dose radiomarcada), tendo como principal componente o composto original (66% da dose radiomarcada). A depuração renal constitui uma via de eliminação minor, sendo 14% da dose radiomarcada excretada na urina (&lt; 0,2% da dose radiomarcada corresponde ao composto original). O estado estacionário é atingido 7 a 10 dias após a administração de dose múltipla.
+ Farmacocinética em populações especiais Crianças (&lt; 18 anos) Após a administração de 800 mg por dia de posaconazol sob a forma de dose repartida para tratamento de infecções fúngicas invasivas, as concentrações plasmáticas médias no vale obtidas em 12 doentes com idades entre os 8 – 17 anos de idade (776 ng/ml) foram semelhantes às concentrações obtidas em 194 doentes com idades compreendidas entre os 18-64 anos de idade (817 ng/ml). Não existem à disposição quaisquer dados farmacocinéticos de doentes pediátricos com menos de 8 anos de idade. Igualmente, em estudos de profilaxia, a concentração média de posaconazol no estado estacionário (Cmed) foi comparável entre dez adolescentes (13-17 anos de idade) com a Cmed alcançada em adultos (≥ 18 anos de idade).
+ Sexo A farmacocinética do posaconazol é semelhante no homem e na mulher.
+ Idosos (≥ 65 anos) Observou-se um aumento da Cmáx (26%) e da AUC (29%) nos doentes idosos (24 doentes ≥ 65 anos de idade) quando comparados com os doentes mais jovens (24 doentes dos 18 aos 45 anos de idade). No entanto, em ensaios clínicos de eficácia, o perfil de segurança do posaconazol entre jovens e idosos foi semelhante.
+ Raça Registou-se uma ligeira redução (16%) na AUC e na Cmáx de posaconazol nos indivíduos de raça negra, quando comparados com os indivíduos caucasianos. O perfil de segurança de posaconazol nos doentes de raça negra foi, contudo, semelhante ao perfil de segurança nos doentes caucasianos.
+ 14 Compromissorenal Após a administração de uma dose única, não se observou qualquer efeito da insuficiência renal ligeira e moderada (n=18, Cl cr ≥ 20 ml/min/1,73 m2) sobre a farmacocinética de posaconazol; consequentemente, não é necessário proceder a qualquer ajuste posológico. Nos indivíduos com insuficiência renal grave (n=6, Cl cr &lt; 20 ml/min/1,73 m2), a AUC de posaconazol apresentou valores de grande variabilidade[ &gt; 96% CV (coeficiente de variância)] quando comparada com outros grupos com alterações renais[ &lt; 40% CV]. Contudo, uma vez que posaconazol não sofre uma eliminação renal significativa, não se antecipa qualquer efeito da insuficiência renal grave sobre a farmacocinética de posaconazol, nem se recomenda qualquer ajuste posológico. Posaconazol não é removido por hemodiálise.
+ Compromisso hepático Num estudo realizado num número reduzido de indivíduos (n=12) que apresentavam insuficiência hepática, registou-se um aumento da exposição associada ao prolongamento da semi-vida nos doentes com insuficiência hepática (26,6, 35,3, e 46,1 horas nos grupos com insuficiência ligeira, moderada e grave, respectivamente, comparado com 22,1 horas nos indivíduos com função hepática normal). Calcula-se que haja um aumento aproximadamente duplo da AUC no estado estacionário, nos doentes com insuficiência hepática grave. Em virtude do número limitado de dados farmacocinéticos em doentes com insuficiência hepática, posaconazol deve ser utilizado com precaução nos doentes com insuficiência hepática grave, uma vez que o potencial prolongamento da semi-vida conduzirá a um aumento da exposição.
+ 5.3 Dados de segurança pré-clínica Tal como o observado com outros agentes antifúngicos dos azóis, registaram-se efeitos relacionados com a inibição da síntese da hormona esteróide nos estudos sobre toxicidade de dose repetida realizados com posaconazol. Foram observados efeitos de supressão supra-renal nos estudos sobre toxicidade no rato e no cão, com exposições iguais ou superiores às obtidas com as doses terapêuticas nos seres humanos.
+ Registou-se fosfolipidose neuronal nos cães tratados durante um período ≥ 3 meses, com exposições sistémicas menores que as obtidas com as doses terapêuticas humanas. Esta situação não foi observada nos macacos tratados durante um período de um ano. Nos estudos sobre neurotoxicidade, com a duração de doze meses, realizados no cão e no macaco, não se observaram quaisquer efeitos funcionais sobre os sistemas nervosos central e periférico, com exposições sistémicas superiores às obtidas terapeuticamente.
+ Observou-se fosfolipidose pulmonar, responsável por dilatação e obstrução dos alvéolos, no estudo de 2 anos realizado no rato. Estas observações não são necessariamente indicativas de um potencial para alterações funcionais no homem.
+ Não se observaram quaisquer efeitos a nível dos electrocardiogramas, incluindo os intervalos QT e QTc, num estudo de farmacologia de segurança de dose repetida realizado no macaco, com exposições sistémicas 4,6 vezes superiores às exposições obtidas com as doses terapêuticas no homem. Os estudos ecocardiográficos não revelaram qualquer indicação de descompensação cardíaca num estudo de farmacologia de segurança de dose repetida, realizado no rato, com uma exposição sistémica 1,4 vezes superior à obtida terapeuticamente. Observaram-se aumentos das pressões sistólica e arterial (até 29 mmHg) no rato e macaco cujas exposições sistémicas foram 1,4 vezes e 4,6 vezes superiores, respectivamente, às obtidas com as doses terapêuticas.
+ Realizaram-se estudos sobre reprodução e sobre desenvolvimento peri e pós-natal, no rato. Com exposições menores que as obtidas com as doses terapêuticas no homem, posaconazol provocou alterações esqueléticas e malformações, distocia, prolongamento do período de gestação, redução do tamanho médio da ninhada e da viabilidade pós-natal. No coelho, posaconazol revelou ser embriotóxico com exposições superiores às obtidas com doses terapêuticas. Tal como observado com
+ 15 outros agentes antifúngicos dos azóis, estes efeitos sobre a reprodução foram considerados como sendo devidos a um efeito sobre a esteroidogénese relacionado com o tratamento.
+ Posaconazol não revelou genotoxicidade nos estudos in vitro e in vivo. Os estudos de carcinogenicidade não revelaram riscos especiais para o ser humano.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Polissorbato 80 Simeticone Benzoato de sódio (E211) Citrato de sódio di-hidratado Ácido cítrico mono-hidratado Glicerol Goma xantana Glucose líquida Dióxido de titânio (E171) Essência artificial de cereja, contendo álcool benzílico e propilenoglicol Água purificada
+ 6.2 Incompatibilidades Não aplicável. 6.3 Prazo de validade Embalagem fechada: 2 anos Após a primeira abertura da embalagem: 4 semanas.
+ 6.4 Precauções especiais de conservação
+ Não congelar. 6.5 Natureza e conteúdo do recipiente 105 ml de suspensão oral em frasco de 123 ml (vidro âmbar de tipo IV) fechado com tampa de segurança à prova de criança, em plástico (polipropileno) e colher doseadora (polistireno) com duas graduações: 2,5 ml e 5 ml.
+ 16 6.6 Precauções especiais de eliminação
+ Não existem requisitos especiais. 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ SP Europe Rue de Stalle,73 B-1180 Bruxelles Bélgica
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/05/321/001 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 25 de Outubro de 2005 10. DATA DA REVISÃO DO TEXTO Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu/
+ 17 ANEXO II
+ A. TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 18 A TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do fabricante responsável pela libertação do lote
+ Schering-Plough S. A.,2, rue Louis Pasteur; 14200 Hérouville St Clair, França
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento de receita médica restrita, de utilização reservada a certos meios especializados (ver anexo I: Resumo das Características do Medicamento, secção 4.2).
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ Não aplicável. 19 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 20 A. ROTULAGEM
+ 21 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ FRASCO (Cartonagem Exterior) 1. NOME DO MEDICAMENTO Posaconazole SP 40 mg/ml suspensão oral posaconazol
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada ml de suspensão oral contém 40 mg de posaconazol.
+ 3. LISTA DOS EXCIPIENTES Contém também glucose líquida. Consultar o folheto informativo para informação adicional.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Um frasco de 105 ml de suspensão oral Colher de medição
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral Agitar bem antes de usar. Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. Qualquer produto remanescente quatro semanas após a abertura do frasco deve ser eliminado.
+ 22 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Não congelar. 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ SP Europe Rue de Stalle,73 B-1180 Bruxelles, Bélgica
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/05/321/001 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Posaconazole SP 23 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO PRIMÁRIO
+ FRASCO (Rótulo do frasco) 1. NOME DO MEDICAMENTO Posaconazole SP 40 mg/ml suspensão oral posaconazol
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada ml de suspensão oral contém 40 mg de posaconazol.
+ 3. LISTA DOS EXCIPIENTES Contém também glucose líquida. Consultar o folheto informativo para informação adicional.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Um frasco de 105 ml de suspensão oral Colher de medição
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral Agitar bem antes de usar. Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. Qualquer produto remanescente quatro semanas após a abertura do frasco deve ser eliminado.
+ 24 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Não congelar. 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ SP Europe Rue de Stalle,73 B-1180 Bruxelles, Bélgica
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/05/321/001 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 25 B. FOLHETO INFORMATIVO
+ 26 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Posaconazole SP 40 mg/ml suspensão oral posaconazol
+ Leia atentamente este folheto antes de tomar este medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é Posaconazole SP e para que é utilizado 2. Antes de tomar Posaconazole SP 3. Como tomar Posaconazole SP 4. Efeitos secundários possíveis 5. Como conservar Posaconazole SP 6. Outras informações
+ 1. O QUE É POSACONAZOLE SP E PARA QUE É UTILIZADO
+ Posaconazole SP pertence a um grupo de medicamentos denominados agentes antifúngicos dos triazóis. Estes medicamentos são utilizados para prevenir e tratar uma ampla diversidade de infecções fúngicas. Posaconazole SP actua por eliminação ou interrupção do desenvolvimento de alguns tipos de fungos que podem provocar infecções em seres humanos.
+ Posaconazole SP pode ser utilizado no tratamento dos seguintes tipos de infecções fúngicas no adulto:
+ -Infecções causadas por fungos da família do Aspergillus, que não melhoraram durante o
+ tratamento com os medicamentos antifúngicos anfotericina B ou itraconazol, ou quando o tratamento com estes medicamentos teve que ser interrompido;
+ -Infecções causadas por fungos da família do Fusarium, que não melhoraram durante o
+ tratamento com anfotericina B, ou quando o tratamento com anfotericina B teve que ser interrompido;
+ -Infecções causadas por fungos que provocam as doenças conhecidas como cromoblastomicose e
+ micetoma, que não melhoraram durante o tratamento com itraconazol, ou quando o tratamento com itraconazol teve que ser interrompido;
+ -Infecções causadas por fungos denominados Coccidioides, que não melhoraram durante o
+ tratamento com um ou mais dos medicamentos anfotericina B, itraconazol ou fluconazol, ou quando o tratamento com estes medicamentos teve que ser interrompido;
+ -Infecções na área da boca ou garganta (conhecidas como “ sapinhos ”) causadas por fungos
+ denominados Candida, que são infecções iniciais.
+ Posaconazole SP pode ser utilizado para prevenir infecções fúngicas em doentes cujos sistemas imunitários possam estar enfraquecidos devido a outros medicamentos ou doenças.
+ 2. ANTES DE TOMAR POSACONAZOLE SP Não tome Posaconazole SP -Se tem alergia (hipersensibilidade) ao posaconazol ou a qualquer outro componente de
+ Posaconazole SP.
+ -Se está a tomar medicamentos contendo alcalóides ergotamínicos (utilizados para tratar
+ enxaquecas). Posaconazol pode aumentar os níveis destes medicamentos no sangue, o que pode levar a reduções graves no fluxo sanguíneo para algumas partes do corpo e danificar os tecidos. 27
+ -Se está a tomar qualquer um dos medicamentos seguintes. Posaconazol pode aumentar os níveis
+ destes medicamentos no sangue, o que pode levar a distúrbios muito graves no ritmo cardíaco: • terfenadina (utilizada para tratar alergias) • astemizol (utilizado para tratar alergias) • cisaprida (utilizada para tratar problemas gástricos) • pimozida (utilizada para tratar os sintomas da Síndrome de Tourette) • halofantrina (utilizada para tratar malária) • quinidina (utilizada para tratar perturbações do ritmo cardíaco).
+ -Se está a tomar sinvanstatina, lovastatina, atorvastatina e alguns medicamentos semelhantes
+ (denominados inibidores da HMG-CoA redutase ou estatinas) que são utilizados para tratamento dos níveis elevados de colesterol no sangue.
+ Consulte, por favor, a secção “ Tomar Posaconazole SP com outros medicamentos ” para informação sobre outros medicamentos que podem interagir com Posaconazole SP.
+ Tome especial cuidado com Posaconazole SP Consulte o seu médico ou farmacêutico antes de tomar qualquer medicamento. Para além dos medicamentos mencionados em cima que não devem ser tomados com posaconazol devido ao risco de alterações do ritmo cardíaco, existem outros em que o risco de alterações do ritmo cardíaco pode ser maior quando são administrados com posaconazol. Por favor, não se esqueça de informar o seu médico sobre todos os medicamentos que está a tomar (prescritos ou não prescritos).
+ Advirta o seu médico assistente: -Se alguma vez sofreu uma reacção alérgica a outros medicamentos da família dos azóis ou
+ triazóis. Estes incluem cetoconazol, fluconazol, itraconazol e voriconazol.
+ -Se sofre ou sofreu de quaisquer problemas hepáticos (no fígado). Pode necessitar que sejam
+ efectuados testes especiais ao sangue enquanto estiver a tomar Posaconazole SP.
+ -Se sofre de problemas renais e está a tomar medicamentos que afectam o rim.
+ -Se desenvolver diarreia grave ou vómitos, uma vez que estas situações podem limitar a eficácia
+ de Posaconazole SP.
+ -Caso tenha sido advertido de que sofre de qualquer das doenças seguintes:
+ •
+ Um registo alterado de ritmo cardíaco (ECG), que demonstre um problema denominado intervalo QTc longo
+ • • • •
+ Uma fraqueza do músculo cardíaco ou insuficiência cardíaca Um batimento cardíaco muito lento Qualquer perturbação do ritmo cardíaco Qualquer problema com os níveis de potássio, magnésio ou cálcio no seu sangue.
+ Repare que Posaconazole SP se destina a ser utilizado apenas em adultos (com mais de 18 anos de idade).
+ Ao tomar Posaconazole SP com outros medicamentos Informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica. Por favor verifique a lista, acima fornecida, de medicamentos que não podem ser tomados enquanto estiver a tomar Posaconazole SP. Existem outros medicamentos que podem, por vezes, ser administrados enquanto está a tomar Posaconazole SP, mas podem ser necessárias precauções especiais.
+ Alguns medicamentos poderão aumentar (possivelmente aumentando o risco de efeitos secundários) ou diminuir (possivelmente provocando falta de eficácia) os níveis de posaconazol no sangue. Os medicamentos que podem diminuir os níveis de posaconazol no sangue incluem: • Rifabutina e rifampicina (utilizadas para tratar determinadas infecções). Se está já a ser tratado com rifabutina, as suas contagens de células do sangue e alguns possíveis efeitos secundários à rifabutina terão de ser vigiados.
+ 28 • Alguns medicamentos utilizados para tratar ou prevenir convulsões, tais como fenitoína, carbamazepina, fenobarbital, primidona. • Efavirenz, que é utilizado no tratamento da infecção a VIH. • Medicamentos utilizados para diminuir a acidez do estômago, tais como cimetidina e ranitidina ou omeprazol e medicamentos semelhantes denominados inibidores da bomba de protões.
+ Posaconazole SP pode aumentar (possivelmente aumentado o risco de efeitos secundários) os níveis de alguns outros medicamentos no sangue. Estes incluem: • Vincristina, vinblastina e outros alcalóides da vinca (utilizados no tratamento do cancro) • Ciclosporina (utilizada na cirurgia de transplante) • Tacrolímus e sirolímus (utilizados na cirurgia de transplante) • Rifabutina (utilizada para tratar determinadas infecções) • Medicamentos utilizados para tratar o VIH, denominados inibidores da protease (incluindo lopinavir e atazanavir que são administrados com ritonavir) e inibidores não nucleosidos da transcriptase reversa (INNTRs) • Midazolam, triazolam, alprazolam e alguns medicamentos semelhantes denominados benzodiazepinas (utilizados como sedativos ou relaxante musculares) • Diltiazem, verapamilo, nifedipina, nisoldipina e alguns outros medicamentos denominados bloqueadores dos canais de cálcio (utilizados para tratar a hipertensão arterial) • Digoxina (utilizada para tratar a insuficiência cardíaca) • Sulfonilureias tal como a glipizida (utilizadas para tratar os níveis elevados de açúcar no sangue).
+ Ao tomar Posaconazole SP com alimentos e bebidas Cada dose de Posaconazole SP deve ser tomada com alimentos ou com um suplemento nutricional, se não for capaz de tolerar alimentos, por forma a aumentar a absorção oral. Consulte a secção 3 deste folheto para mais informação sobre como tomar a suspensão.
+ Gravidez e aleitamento Informe o seu médico se está grávida ou pensa engravidar antes de iniciar o tratamento com Posaconazole SP. Não tome Posaconazole SP durante a gravidez, excepto se indicado pelo seu médico assistente. Se é uma mulher em idade fértil deverá utilizar métodos contraceptivos eficazes enquanto estiver a tomar Posaconazole SP. Contacte imediatamente o seu médico caso engravide durante o tratamento com Posaconazole SP.
+ Não amamente durante o tratamento com Posaconazole SP.
+ Condução de veículos e utilização de máquinas Não existem quaisquer informações sobre o efeito de Posaconazole SP sobre a capacidade de conduzir e utilizar máquinas. Informe o seu médico caso sofra quaisquer efeitos que lhe possam causar problemas com a condução ou com o uso de máquinas, por exemplo sonolência ou visão desfocada.
+ Informações importantes sobre alguns componentes de Posaconazole SP Posaconazole SP contém aproximadamente 1,75 g de glucose em 5 ml de suspensão. Não deve tomar este medicamento se sofre de uma doença denominada má absorção de glucose-galactose e deve registar esta quantidade de glucose se, por qualquer razão, necessita de controlar a quantidade de açúcar que ingere.
+ 3. COMO TOMAR POSACONAZOLE SP Tomar Posaconazole SP sempre de acordo com as indicações do médico. O seu médico vigiará a sua resposta e o seu estado clínico, por forma a determinar durante quanto tempo necessitará de tomar Posaconazole SP e se será necessária qualquer alteração na sua dose diária.
+ 29 Indicação Tratamento de Infecções Fúngicas refractárias
+ Dose Tome 400 mg (duas colheres cheias de 5 ml) da suspensão duas vezes por dia, com alimentos ou um suplemento nutricional se não for capaz de tolerar alimentos. Se não pode ingerir alimentos ou suplementos nutricionais, o seu médico irá instruí-lo para tomar 200 mg (uma colher cheia de 5 ml) quatro vezes por dia.
+ Tratamento inicial da Candidíase
+ No primeiro dia de tratamento tome 200 mg (uma colher cheia de 5 ml) uma vez. Após o primeiro dia, tome 100 mg (2,5 ml) uma vez por dia, com alimentos ou um suplemento nutricional se não for capaz de tolerar alimentos.
+ Prevenção de Infecções Fúngicas graves
+ Tome 200 mg (uma colher cheia de 5 ml) três vezes por dia, com alimentos ou um suplemento nutricional se não for capaz de tolerar alimentos.
+ Se tomar mais Posaconazole SP do que deveria Caso considere ter tomado uma quantidade excessiva de Posaconazole SP, contacte imediatamente o seu médico ou profissional de saúde.
+ Caso se tenha esquecido de tomar Posaconazole SP Caso tenha omitido uma dose, tome-a logo que se lembrar e prossiga o tratamento como recomendado. No entanto, se estiver quase na hora da dose seguinte, tome essa dose na altura devida. Não tome uma dose a dobrar para compensar uma dose que se esqueceu de tomar.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todos os medicamentos, Posaconazole SP pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ Efeitos secundários frequentes (ocorrem em pelo menos 1 em cada 100 doentes) são: Dores de cabeça, tonturas, dormência ou formigueiro Sonolência Náuseas (sentir-se ou estar enjoado), perda de apetite, dor no estômago, diarreia, perturbações no estômago, vómitos, flatulência, secura da boca Testes da função do fígado alterados Erupção na pele Fraqueza, cansaço Uma redução nos glóbulos brancos (que pode aumentar o risco de infecções) Febre Quantidades de sais no sangue alteradas.
+ Efeitos secundários pouco frequentes (ocorrem em pelo menos 1 em cada 1.000 doentes) são: Anemia, números reduzidos de células denominadas plaquetas que auxiliam o sangue a coagular, números reduzidos de alguns tipos de glóbulos brancos, aumento dos gânglios linfáticos Reacção alérgica Níveis elevados de glucose no sangue Perturbações de sensibilidade ou locomoção, tremor, convulsões Problemas no ritmo cardíaco incluindo batimento cardíaco muito rápido (palpitações), alterações nos exames ao coração (como por ex. nos ECGs que avaliam o ritmo cardíaco) Pressão arterial alta ou baixa Inflamação do pâncreas Inflamação hepática (do fígado), lesões hepáticas (do fígado), icterícia (coloração amarela da pele ou dos olhos) Problemas com a função renal, insuficiência renal Perturbações menstruais
+ 30 Visão turva Perda de cabelo, comichão Úlceras na boca Calafrios, sensação geral de mal-estar ou fraqueza Dor difusa no corpo, incluindo nos músculos e articulações, dor nas costas Retenção de líquidos, níveis de medicamentos alterados.
+ Efeitos secundários raros (ocorrem em pelo menos 1 em cada 10.000 doentes) são: Pneumonia e outras lesões nos pulmões Números reduzidos de todas as células do sangue, alteração na coagulação do sangue, hemorragia Reacções alérgicas graves, incluindo erupção na pele com bolhas, generalizada, e descamação da pele Mau funcionamento da glândula supra-renal Alteração da função do cérebro, desmaio Alterações súbitas de comportamento, problemas com o pensamento ou a fala Dor, fraqueza, dormência ou formigueiro nos braços ou nas pernas Depressão Visão dupla, um ponto sem visibilidade ou negro no campo visual Problemas de audição Insuficiência ou paragem cardíaca, perturbações do ritmo cardíaco Acidente vascular cerebral, coágulos sanguíneos no cérebro, membros ou pulmões Hemorragia intestinal Inflamação ou insuficiência hepática (do fígado), raramente causando a morte Aumento do fígado e do baço, hipersensibilidade no fígado Erupção na pele com bolhas, grandes manchas roxas na pele causadas por hemorragias por baixo da pele Inflamação dos rins Dor na mama Inchaço da face ou língua.
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR POSACONAZOLE SP Manter fora do alcance e da vista das crianças.
+ Não congelar. Não utilize Posaconazole SP após o prazo de validade impresso no rótulo. O prazo de validade corresponde ao último dia do mês indicado.
+ Se restou suspensão num frasco mais de quatro semanas após este ter sido aberto pela primeira vez, não deverá tomá-la. Por favor devolva o frasco contendo qualquer suspensão remanescente ao seu farmacêutico.
+ Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Posaconazole SP -A substância activa de Posaconazole SP suspensão oral é o posaconazol. Cada mililitro de
+ suspensão oral contém 40 miligramas de posaconazol.
+ 31
+ -Os outros componentes da suspensão são polissorbato 80, simeticone, benzoato de sódio
+ (E211), citrato de sódio di-hidratado, ácido cítrico mono-hidratado, glicerol, goma xantana, glucose líquida, dióxido de titânio (E171), essência artificial de cereja contendo álcool benzílico e propilenoglicol, e água purificada.
+ Qual o aspecto de Posaconazole SP e conteúdo da embalagem
+ Posaconazole SP é uma suspensão oral de cor branca, com sabor a cereja, embalada em frascos de vidro âmbar com 105 ml. Cada frasco é fornecido com uma colher doseadora, para medição das doses de 2,5 ml e 5 ml da suspensão oral.
+ Titular da Autorização de Introdução no Mercado e Fabricante
+ Titular da Autorização de Introdução no Mercado: SP Europe Rue de Stalle,73 B-1180 Bruxelles Bélgica
+ Fabricante: SP S. A. 2, rue Louis Pasteur F-14200 Hérouville St Clair França
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado:
+ Luxembourg/Luxemburg België/Belgique/Belgien Rue de Stalle/Stallestraat 73 B-1180 Bruxelles/Brussel/Brüssel Tél/Tel:+ 32-(0) 2 370 92 11
+ Rue de Stalle 73 B-1180 Bruxelles/Brüssel Belgique/Belgien Tél/Tel:+ 32-(0) 2 370 92 11
+ България Ийст Парк Трейд Център Бул. „ Н. Й. Вапцаров ” 53А, ет. 2 BG-София 1407 Тел.: +359 2 806 3030
+ Magyarország Alkotás u. 53. H-1123 Budapest Tel.: +36 1 457-8500
+ Česká republika Na Příkopě 25 CZ-110 00 Praha 1 Tel: +420 221771250
+ Malta 168 Christopher Street MT-VLT02 Valletta Tel:+ 356-21 23 21 75
+ Danmark Lautrupbjerg 2 DK-2750 Ballerup Tlf:+ 45-44 39 50 00
+ Nederland Maarssenbroeksedijk 4 NL-3542 DN Utrecht Tel:+ 31-(0) 800 778 78 78
+ 32 Deutschland Thomas-Dehler-Straße 27 D-81737 München Tel:+ 49-(0) 89 627 31-0
+ Norge Pb.398 N-1326 Lysaker Tel: +47 67 16 64 50
+ Eesti Österreich Järvevana tee 9 EE-11314 Tallinn Tel:+ 372 654 96 86
+ Am Euro Platz 2 A-1120 Wien Tel:+ 43-(0) 1 813 12 31
+ Ελλάδα Αγίου Δημητρίου 63 GR-174 55 Άλιμος Tηλ.:+ 30-210 98 97 300
+ Polska Ul. Taśmowa 7 PL-02-677 Warszawa Tel.:+ 48-(0) 22 478 41 50
+ España Km. 36, Ctra. Nacional I E-28750 San Agustín de Guadalix – Madrid Tel:+ 34-91 848 85 00
+ Portugal Rua Agualva dos Açores 16 P-2735-557 Agualva-Cacém Tel: +351-21 433 93 00
+ France 92 rue Baudin F-92300 Levallois-Perret Tél:+ 33-(0) 1 41 06 35 00
+ România Şos. Bucureşti-Ploieşti, nr. 17-21, Băneasa Center, et. 8, sector 1 RO-013682 Bucureşti Tel.+ 40 21 233 35 30
+ Ireland Shire Park Welwyn Garden City Hertfordshire AL7 1TW Tel: +44-(0) 1 707 363 636
+ Slovenija Dunajska 22 SI-1000 Ljubljana Tel:+ 386 01 3001070
+ Ísland Hörgatún 2 IS-210 Garðabær Sími:+ 354 535 70 00
+ Slovenská republika Strakova 5 SK-811 01 Bratislava Tel:+ 421 (2) 5920 2712
+ Italia Via fratelli Cervi snc, Centro Direzionale Milano Due Palazzo Borromini I-20090 Segrate (Milano) Tel:+ 39-02 21018.1
+ Suomi/Finland PL 86/PB 86 FIN-02151 Espoo/Esbo Puh/Tel:+ 358-(0) 20-7570 300
+ 33 Κύπρος Οδός Αγίου Νικολάου,8 CY-1055 Λευκωσία Τηλ: +357-22 757188
+ Sverige Box 6185 S-102 33 Stockholm Tel:+ 46-(0) 8 522 21 500
+ Latvija Bauskas 58°-401 Rīga LV-1004 Tel:+ 371-7 21 38 25
+ United Kingdom Shire Park Welwyn Garden City Hertfordshire AL7 1TW-UK Tel:+ 44-(0) 1 707 363 636
+ Lietuva Kęstučio g. 65/40 LT-08124 Vilnius Tel.+ 370 52 101868
+ Este folheto foi aprovado pela última vez em
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu/
+ 34

@@ -1,0 +1,48 @@
+ CONCLUSÕES CIENTÍFICAS E FUNDAMENTOS DA ALTERAÇÃO DO RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO E DO FOLHETO INFORMATIVO APRESENTADOS PELA EMEA
+ CONCLUSÕES CIENTÍFICAS RESUMO GERAL DA AVALIAÇÃO CIENTÍFICA O Protopy é um medicamento dermatológico que contém o inibidor da calcineurina tacrolimus nas concentrações de 0,1% e 0,03%. O Protopy 0,1% está indicado para o tratamento da dermatite atópica moderada a grave (AD) em adultos que não respondem adequadamente ou são intolerantes às terapêuticas convencionais e Protopy 0,03% está indicado no tratamento da dermatite atópica moderada a grave em adultos ou crianças (idade igual ou superior a 2 anos) que não responderam adequadamente às terapêuticas convencionais.
+ o No dia 21 de Abril de 2005, tendo em consideração o potencial risco de malignidades, a Comissão Europeia solicitou o parecer do CHMP sobre o perfil de risco/benefício do Protopy. Na sequência
+ ad desse pedido, o CHMP analisou os dados disponíveis sobre esta matéria de segurança, incluindo relatórios de farmacovigilância, dados de estudos não clínicos, ensaios clínicos e estudos
+ riz epidemiológicos.
+ to O linfoma é um efeito adverso reconhecido e referenciado para medicamentos inibidores da calcineurina administrados por via sistémica. Pensa-se que o efeito é mediado pela imunossupressão au que ocorre na sequência de um tratamento sistémico com o medicamento. A exposição sistémica é limitada aquando da utilização tópica do tacrolimus, contudo não é possível excluir a possibilidade de o um efeito imunossupressor ao nível da pele. nã
+ Foram relatados casos de malignidades (incluindo cancro da pele, linfoma das células T cutâneo (CTCL), linfoma não Hodgkin (NHL) e malignidades sistémicas) durante o desenvolvimento clínico e já
+ a experiência de farmacovigilância em associação com o uso de Protopy. Os dados apresentados não demonstraram uma associação comprovada com o linfoma ou qualquer outra malignidade. Contudo, to
+ verificou-se um aumento do número de doentes com CTCL relativamente ao que seria de esperar. O CHMP concordou que o diagnóstico destas malignidades cutâneas é difícil, já que podem emular a en
+ AD. No entanto, após a recepção dos dados disponíveis, o CHMP concluiu que nem todos os casos poderiam ser considerados casos de doença maligna pré-existente e, nalguns dos casos, não foi m
+ possível excluir uma associação com o tacrolimus. a
+ Relativamente aos cancros da pele, o CHMP concluiu que não é provável que o tratamento com ic
+ tacrolimus tenha causado estas malignidades cutâneas. Contudo, considerando que o tacrolimus é ed
+ eficaz através da supressão das células T envolvidas na vigilância do sistema imunológico, é possível que o tacrolimus possa ter um efeito sobre o comportamento das lesões cutâneas que são pré-malignas ou casos de malignidade precoce. Está determinado que o tacrolimus, no seu mecanismo de acção, M
+ inibe as vias cálcio-dependentes de transdução de sinais, nas células T, impedindo assim a transcrição e síntese da IL-2, IL-3, IL-4, IL-5 e outras citoquinas. Dado que o tacrolimus é um imunossupressor eficaz que actua através da supressão dos linfócitos T na pele, o CHMP considerou que não era possível excluir o efeito do tacrolimus no desenvolvimento ou na progressão de uma série de lesões cutâneas.
+ Após a análise dos dados disponíveis, o CHMP concluiu que a relação entre os riscos e os benefícios do Protopy pode ser considerada favorável. Quanto às questões de segurança levantadas relativamente aos casos de malignidades, o CHMP concluiu que o Folheto Informativo do medicamento deverá incluir advertências sobre os casos de malignidades, bem como referência à necessidade de monitorização dos doentes tratados com Protopy. A fim de reduzir a probabilidade de diagnóstico incorrecto e para melhor garantir a utilização adequada do medicamento, o CHMP chamou particularmente a atenção para a necessidade de o Folheto Informativo indicar que o diagnóstico e a prescrição iniciais devem ser efectuados por médicos com experiência no tratamento da AD. Adicionalmente, o CHMP concluiu que o Protopy não deve ser utilizado em adultos ou crianças imunocomprometidos e que o Protopy não
+ 1 deve ser aplicado em lesões consideradas potencialmente malignas ou pré-malignas e que os casos de linfadenopatia no início da terapêutica deverão ser investigados e controlados regularmente. O CHMP manifestou igualmente a sua preocupação relativamente ao nível de uso de Protopy em crianças com menos de 2 anos de idade (uso não aprovado), quando o sistema imunológico está ainda em desenvolvimento. Por conseguinte, o CHMP solicitou ao titular da AIM que tome as medidas adequadas no sentido de garantir que o Protopy não é utilizado neste grupo etário.
+ O CHMP concluiu ainda que são necessários dados adicionais para melhor esclarecer a segurança do Protopy a longo prazo no que toca à sua associação com malignidades. O CHMP aprovou o estudo de registo em curso apresentado pelo titular da Autorização de Introdução no Mercado – o estudo APPLES (registo pediátrico). O CHMP solicitou ao titular da AIM que apresente actualizações semestrais sobre a situação de recrutamento deste estudo. O CHMP concluiu igualmente que o risco de malignidades cutâneas deverá ser avaliado através de estudos de controlo de casos. O CHMP concluiu ainda que o potencial papel do tacrolimus na patogénese do CTCL deve ser investigado com maior pormenor através de estudos mecanísticos.
+ o ad FUNDAMENTOS DA ALTERAÇÃO DO RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO E DO FOLHETO INFORMATIVO
+ riz Considerando que:
+ to
+ -o Comité considerou o procedimento ao abrigo do artigo 20º do Regulamento (CE) n. º
+ au 726/2004 relativamente ao Protopy; o
+ -o Comité teve conhecimento de relatos de casos de malignidade (incluindo cancro cutâneo e
+ nã
+ linfoma) em doentes tratados com Protopy. Tendo em conta os dados disponíveis (incluindo dados pré-clínicos, clínicos e epidemiológicos), o CHMP concluiu que uma potencial associação com a utilização do Protopy não pode ser excluída, pelo que são necessários dados já
+ adicionais para garantir um perfil de segurança aceitável a longo prazo, to
+ -o Comité concluiu que as seguintes informações deverão ser incluídas no Resumo das
+ Características do Medicamento e nas secções pertinentes do Folheto Informativo do Protopy: en
+ •
+ O tratamento com Protopy só deve ser recomendado por médicos com m
+ experiência no diagnóstico e tratamento de dermatite atópica. a
+ •
+ O tratamento deve ser intermitente e não contínuo.
+ ic
+ • ed
+ Uma declaração que chame a atenção para o facto de o tacrolimus não dever ser aplicado em lesões consideradas potencialmente malignas ou pré-malignas. M
+ •
+ O Protopy não deve ser utilizado em adultos ou crianças imunocomprometidos.
+ •
+ Advertência relativa à necessidade de investigação e monitorização continuada de qualquer linfadenopatia presente antes do início da terapêutica.
+ •
+ Declaração no sentido de que o Protopy não deve ser utilizado em crianças com menos de 2 anos de idade.
+ •
+ Declaração com indicação dos casos de malignidades relatados na fase de farmacovigilância.
+ 2 O CHMP recomendou a alteração dos termos da Autorização de Introdução no Mercado do Protopy, cujos Resumo das Características do Medicamento e Folheto Informativo constam, respectivamente, dos anexos I e IIIB.
+ o ad riz to au o nã já to en m a ic ed M
+ 3

@@ -1,0 +1,442 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. NOME DO MEDICAMENTO
+ Cerezyme 200 U Pó para concentrado para solução para perfusão
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada frasco contém 200 unidades* de imiglucerase **.
+ Após a reconstituição, a solução contém 40 unidades de imiglucerase por ml (200 U/5 ml).
+ * Uma unidade de enzima (U) é definida como a quantidade de enzima que catalisa a hidrólise de uma micromole de substrato sintético para-nitrofenil-β-D-glucopiranosido (pNP-Glc) por minuto, a 37°C. ** forma modificada de glucocerebrosidase produzida nas células do ovário de Hamster Chinês através de tecnologia de ADN recombinante.
+ Excipientes: Lista completa de excipientes, ver secção 6.1. Este medicamento contém sódio e é administrado numa solução intravenosa de cloreto de sódio a 0,9% (ver secção 6.6). Após a reconstituição, a solução contém 0,62 mmol de sódio (200 U/5 ml). A ser tomado em consideração por doentes com uma dieta de sódio controlado.
+ 3. FORMA FARMACÊUTICA Pó para concentrado para solução para perfusão. Cerezyme é um pó branco a esbranquiçado.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Cerezyme (imiglucerase) está indicado para utilização como terapêutica enzimática de substituição de longa duração em doentes com um diagnóstico confirmado de doença de Gaucher não neuronopática (Tipo 1) ou neuronopática crónica (Tipo 3) e que apresentam manifestações não neurológicas clinicamente significativas da doença.
+ As manifestações não neurológicas da doença de Gaucher incluem uma ou mais das seguintes condições: • anemia após exclusão de outras causas, como, por exemplo, deficiência em ferro • trombocitopenia • doença óssea, após exclusão de outras causas, como, por exemplo, deficiência de vitamina D • hepatomegalia ou esplenomegalia
+ 4.2 Posologia e modo de administração A terapêutica deve ser orientada por médicos com conhecimento no tratamento da doença de Gaucher.
+ Posologia para adultos, crianças e idosos Devido à heterogeneidade e à natureza multi-sistémica da doença de Gaucher, a dosagem deve ser individualizada para cada doente, com base na avaliação do conjunto das manifestações clínicas da doença.
+ Uma gama de regimes posológicos demonstrou ser eficaz em relação a algumas ou todas as manifestações não neurológicas da doença. A utilização inicial de uma dose de 60 U/kg de peso
+ 2 corporal, de 2 em 2 semanas, permitiu obter a melhoria dos parâmetros hematológicos e viscerais num período de 6 meses após o início da terapêutica, e a administração prolongada parou a progressão ou melhorou a doença óssea.
+ Demonstrou-se que a administração de doses baixas tais como 2,5 U/kg,3 vezes por semana, ou de 15 U/kg de peso corporal de 2 em 2 semanas, resulta na melhoria dos parâmetros hematológicos e das organomegalias, mas não dos parâmetros ósseos.
+ A frequência de administração de uma perfusão de 2 em 2 semanas é a mais comum e a mais conveniente para o doente, sendo aquela para a qual existe um maior número de resultados disponíveis.
+ A resposta clínica do doente deve ser avaliada por rotina e a dosagem deve ser ajustada (aumentada ou diminuída) com base numa avaliação exaustiva da resposta, no que respeita à totalidade das manifestações clínicas. Uma vez estabelecida e estabilizada a resposta individual de cada doente, no que respeita a todas as manifestações clínicas relevantes, a dosagem poderá ser ajustada, de modo a obter uma terapêutica eficaz de manutenção, sempre acompanhada pela monitorização dos parâmetros de resposta e pelos sinais de bem estar do doente. Os intervalos de monitorização variam de 6 a 12 meses.
+ A eficácia de Cerezyme nos sintomas neurológicos de pessoas com doença de Gaucher neuropática crónica não foi estabelecida e não pode recomendar-se nenhum regime posológico especial para estas manifestações (ver secção 5.1).
+ Após a reconstituição e diluição (ver secção 6.6), a preparação é administrada por perfusão intravenosa ao longo de 1 a 2 horas. Em alternativa, pode administrar-se a dose apropriada de Cerezyme a uma taxa de perfusão não superior a 1 unidade por kg de peso corporal por minuto.
+ Os médicos ou os profissionais de cuidados de saúde são encorajados a registarem os doentes com a doença de Gaucher, incluindo aqueles com manifestações neuronopáticas crónicas da doença, no “ Registo de Gaucher do ICGG ” (ver secção 5.1).
+ 4.3 Contra-indicações Hipersensibilidade à substância activa ou a qualquer um dos excipientes. (ver secção 4.4).
+ 4.4 Advertências e precauções especiais de utilização
+ Hipersensibilidade Dados actuais indicam que aproximadamente 15% dos doentes tratados desenvolvem anticorpos (IgG) anti-imiglucerase durante o primeiro ano de tratamento, mais frequentemente durante os primeiros seis meses e só muito raramente após 12 meses de terapêutica. Foi sugerido que os doentes, nos quais se suspeita de uma resposta diminuída ao tratamento, sejam monitorizados periodicamente para detecção de anticorpos IgG contra à imiglucerase. Tal como acontece com qualquer produto proteico administrado por via intravenosa, são possíveis reacções graves de hipersensibilidade de tipo alérgico. Caso ocorram estas reacções, recomenda-se a descontinuação imediata da perfusão de Cerezyme e deve iniciar-se tratamento médico apropriado. Devem observar-se as actuais normas médicas para o tratamento de emergência.
+ Os doentes que desenvolvem anticorpos anti-Cerezyme (imiglucerase) apresentam um risco superior de sofrerem uma reacção de hipersensibilidade. (ver secção 4.8). Se um doente manifestar uma reacção que sugira hipersensibilidade, é aconselhável fazer mais análises quanto aos anticorpos anti-imiglucerase. Em casos raros foram notadas reacções do tipo anafilático. Tratamentos posteriores com Cerezyme (imiglucerase) devem ser conduzidos com precaução. A maior parte dos doentes retomam com sucesso a terapêutica, após tratamento prévio com anti-histamínicos e/ou corticosteróides e de uma redução na velocidade de perfusão.
+ 3 Os doentes que desenvolveram anticorpos ou sintomas de hipersensibilidade à Ceredase (alglucerase) devem ser tratados com precaução com Cerezyme (imiglucerase).
+ Hipertensão pulmonar A hipertensão pulmonar é uma complicação conhecida da doença de Gaucher. Foi observada tanto em doentes que recebem como nos que não recebem terapêutica de substituição de enzimas. Não foi estabelecida qualquer relação com a terapêutica de substituição de enzimas. Os doentes com sintomas respiratórios devem ser avaliados quanto à presença de hipertensão pulmonar.
+ Excipientes Este medicamento contém sódio e é administrado numa solução intravenosa de cloreto de sódio a 0,9% (ver secção 6.6). Deve ser dada especial atenção aos doentes em dieta com cloreto de sódio.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Não foram realizados estudos de interacção.
+ 4.6 Gravidez e aleitamento Existe uma experiência limitada com base no resultado de 150 gravidezes (principalmente fundamentada em notificações espontâneas e revisões da literatura) que sugere que a utilização de Cerezyme é benéfica no controlo da doença de Gaucher subjacente durante a gravidez. Para além disso, estes dados indicam não haver toxicidade de Cerezyme relacionada com malformações do feto, embora as evidências estatísticas sejam baixas. Raramente foi notificada morte do feto, embora não seja claro se este facto está relacionado com a utilização de Cerezyme ou com a doença de Gaucher subjacente.
+ Não foram efectuados estudos em animais no que respeita à avaliação dos efeitos de Cerezyme na gravidez, desenvolvimento embrionário/fetal, parto e desenvolvimento pós-natal. Não se sabe se Cerezyme passa para o feto em desenvolvimento através da placenta.
+ É necessário realizar uma avaliação do risco-benefício do tratamento para cada gravidez, nas mulheres com doença de Gaucher grávidas e naquelas que tencionam engravidar. As mulheres com doença de Gaucher que engravidam podem passar por um período de aumento da actividade da doença durante a gravidez e o puerpério. Este inclui um aumento do risco de manifestações esqueléticas, exacerbação citopenia, hemorragia e um aumento da necessidade de transfusões. Sabe-se que tanto a gravidez como a lactação afectam a homeostasia do cálcio materna e aceleram a renovação óssea. Isto pode contribuir para a carga representada pelas afecções ósseas na doença de Gaucher.
+ As mulheres sem tratamento prévio devem ser aconselhadas a considerar iniciar a terapêutica antes da concepção de modo a obter-se um estado de saúde óptimo. Nas mulheres a receberem Cerezyme, deve considerar-se a continuação do tratamento durante a gravidez. É necessário proceder à monitorização rigorosa da gravidez e das manifestações clínicas da doença de Gaucher para se individualizar a posologia de acordo com as necessidades da doente e a resposta à terapêutica.
+ Desconhece-se se a substância activa é excretada no leite humano, contudo, é provável que a enzima seja digerida no tracto gastrointestinal da criança.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Os efeitos de Cerezyme sobre a capacidade de conduzir e utilizar máquinas são nulos ou desprezíveis.
+ 4 4.8 Efeitos indesejáveis
+ As reacções adversas ao medicamento encontram-se listadas por classe e frequência do sistema de órgãos (frequentes (≥1/100 a &lt; 1/10) e pouco frequentes (≥1/1.000 a &lt; 1/100 )). Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ Doenças do sistema nervoso Cardiopatias
+ Pouco Frequentes: Tonturas, cefaleia, parestesia Vasculopatias Pouco Frequentes: Taquicardia, cianose Doenças respiratórias, torácicas e do Doenças gastrointestinais
+ Pouco Frequentes: mediastino Frequentes:
+ Rubor, hipotensão Alterações respiratórias
+ Afecções dos tecidos cutâneos e subcutâneas
+ Pouco Frequentes: Vómitos, náusea, cãibras abdominais, diarreia
+ Afecções musculosqueléticas e dos tecidos conjuntivos
+ Frequentes: Urticária/angioedema, prurido, erupção cutânea
+ Perturbações gerais e alterações no local de administração
+ Pouco Frequentes: Artralgia Pouco Frequentes: Desconforto no local da perfusão, ardor no local da perfusão, edema no local da perfusão, abcesso estéril no local da injecção, desconforto no peito, febre, calafrios, fadiga
+ Em alguns casos verificam-se efeitos adversos relacionados com a via de administração, nomeadamente: mal-estar, prurido, sensação de queimadura, edema local ou formação de abcesso estéril no local da punção venosa. Em alguns casos verificaram-se sintomas sugestivos de hipersensibilidade em cerca de 3% dos doentes, que tiveram início durante ou pouco tempo depois das perfusões. Estes sintomas incluem prurido, rubor, urticária/angioedema, desconforto torácico, taquicárdia, pele cianótica, alterações respiratórias e parestesia. Embora raramente, também foi notificada hipotensão associada à hipersensibilidade. Geralmente, estas alterações respondem a tratamento com anti-histamínicos e/ou corticosteróides. Assim deve ser recomendado aos doentes que interrompam a perfusão do produto e entrem em contacto com os seus médicos assistentes, caso venham a manifestar tais sintomas.
+ 4.9 Sobredosagem Não foram descritos casos de sobredosagem.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Enzimas-imiglucerase (β-glucocerebrosidase, obtida por recombinação genética e marcada para o macrófago), código ATC: A16AB02.
+ 5 A imiglucerase (β-glucocerebrosidase, obtida por recombinação genética e marcada para o macrófago) catalisa a hidrólise do glicolípido glucocerebrosido em glucose e ceramida, segundo a via normal de degradação dos lípidos de membrana.
+ O glucocerebrosido é basicamente, derivado do metabolismo das células hematopoiéticas. A doença de Gaucher caracteriza-se por uma deficiência funcional da actividade enzimática da β-glucocerebrosidase com a consequente acumulação do lípido glucocerebrosido nos macrófagos dos tecidos, sendo estes macrófagos em repleção designados por células de Gaucher.
+ As células de Gaucher encontram-se, predominantemente, no fígado, baço e medula óssea e, ocasionalmente, nos pulmões, rins e intestino. As sequelas hematológicas secundárias incluem anemia e trombocitopenia, além da característica hepatoesplenomegalia progressiva. As complicações ósseas são comuns e frequentemente constituem o aspecto mais debilitante e incapacitante da doença de Gaucher. As possíveis complicações ósseas incluem: osteonecrose, osteopenia com fracturas patológicas secundárias, falência da remodelação, osteosclerose e dores ósseas.
+ Não foram conduzidos estudos clínicos controlados sobre a eficácia de Cerezyme nas manifestações neurológicas da doença. Por isso não podem ser retiradas conclusões sobre o efeito da terapêutica enzimática de substituição nas manifestações neurológicas da doença.
+ Os médicos ou os profissionais de cuidados de saúde são encorajados a registarem os doentes com a doença de Gaucher, incluindo aqueles com manifestações neuronopáticas crónicas da doença, no “ Registo de Gaucher do ICGG ”. Os dados dos doentes serão reunidos anonimamente neste registo. Os objectivos do “ Registo de Gaucher do ICGG ” são de aumentar a compreensão da doença de Gaucher e avaliar a eficácia da terapêutica enzimática de substituição, levando finalmente ao aperfeiçoamento da utilização segura e eficaz de Cerezyme.
+ 5.2 Propriedades farmacocinéticas Durante 1 hora de perfusão endovenosa de 4 dosagens diferentes (7,5,15,30,60 U/kg) de imiglucerase o estado de equilíbrio da actividade enzimática foi atingido ao fim de 30 minutos. Após a perfusão a actividade enzimática no plasma diminui rapidamente, apresentando uma semi-vida entre 3,6 a 10,4 minutos. A depuração plasmática variou de 9,8 até 20,3 ml/min/kg de peso corporal (média ± desvio padrão, 14,5 ± 4,0 l/min/kg). O volume de distribuição corrigido para o peso, variou de 0,09 a 0,15 l/kg (média ± desvio padrão 0,12 ± 0,02 l/kg). Estas variáveis não parecem ser influenciadas pela dose ou duração da perfusão. Contudo, apenas foram estudados 1 ou 2 doentes para cada valor de dose e velocidade de perfusão.
+ 5.3 Dados de segurança pré-clínica Os dados não clínicos não revelam riscos particulares para o ser humano com base nos estudos convencionais de farmacologia de segurança, toxicidade de dose única e repetida, e genotoxicidade.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Manitol Citrato de sódio (para ajustar o pH) Ácido cítrico mono-hidratado (para ajustar o pH) Polissorbato 80
+ 6 6.2 Incompatibilidades
+ Na ausência de estudos de compatibilidade, este medicamento não deve ser misturado com outros medicamentos.
+ 6.3 Prazo de validade Frascos para injectáveis não abertos: 2 anos.
+ Solução diluída: De um ponto de vista de segurança microbiológica, o produto deve ser utilizado imediatamente. Caso não seja imediatamente utilizado, a conservação durante a utilização e as condições antes da utilização são da responsabilidade do utilizador e não devem exceder as 24 horas a 2ºC-8ºC, com protecção da luz.
+ 6.4 Precauções especiais de conservação
+ Conservar no frigorífico (2°C – 8°C). 6.5 Natureza e conteúdo do recipiente Cerezyme é fornecido em frascos de vidro borossilicatado de tipo I (transparente) de 20 ml. A tampa do frasco é constituída por uma rolha de borracha butílica siliconada e um dispositivo de segurança destacável.
+ Cada frasco contém um pequeno excedente de 0,3 ml de forma a obter o volume necessário para permitir que seja retirado o volume exacto.
+ Tamanho das embalagens: 1 ou 25 frascos por embalagem cartonada. Nem todos os tamanhos de embalagem poderão estar comercializados.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ Cada frasco para injectáveis de Cerezyme destina-se a utilização única apenas. Após a reconstituição, cada frasco para injectáveis de Cerezyme contém 200 unidades de imiglucerase em 5,0 ml (40 unidades por ml).
+ O pó para concentrado para solução para perfusão deve ser reconstituído com água esterilizada para preparações injectáveis e posterior diluição numa solução endovenosa de cloreto de sódio a 0,9% para administração através de perfusão endovenosa.
+ Calcular o número de frascos a reconstituir com base na dosagem e regime do doente e retirá-los do ambiente refrigerado.
+ Ocasionalmente, pode ser efectuado um pequeno ajustamento da dose para evitar desperdiçar um frasco parcialmente cheio de produto. A dosagem poderá ser ajustada, desde que a dose mensal permaneça inalterada.
+ Utilizar uma técnica asséptica Reconstituição Reconstituir cada frasco com 5,1 ml de água para preparações injectáveis; evitar o contacto brusco da água para preparações injectáveis com o pó, misturando suavemente, de forma a evitar que a solução produza espuma; o volume reconstituído é de 5,3 ml. O pH da solução reconstituída é, aproximadamente, de 6,1.
+ 7 Após a reconstituição, apresenta-se como um líquido límpido, incolor, sem matérias estranhas. A solução reconstituída tem de sofrer uma diluição adicional. Antes da diluição seguinte o produto reconstituído deve ser visualmente inspeccionado quanto à presença de partículas estranhas ou descoloração. Não utilizar nessas circunstâncias. Após reconstituição, o produto deve ser diluído imediatamente e não armazenado para utilização posterior.
+ Diluição A solução reconstituída contém 40 unidades de imiglucerase por ml. O volume reconstituído permite retirar com precisão 5,0 ml (equivalente a 200 unidades) de cada frasco para injectáveis. Retirar 5,0 ml de solução reconstituída de cada frasco misturar as soluções dos diferentes frascos. Em seguida, diluir esta mistura com uma solução endovenosa de cloreto de sódio a 0,9% para um volume total de 100 a 200 ml. Misturar suavemente a solução para perfusão.
+ Recomenda-se a administração da solução diluída no prazo de 3 horas. O produto diluído numa solução endovenosa de cloreto de sódio a 0,9% mantém a estabilidade química quando conservado até 24 horas, a uma temperatura a 2°C e 8°C, ao abrigo da luz; no entanto, a segurança microbiológica depende da reconstituição e da diluição terem sido efectuadas em condições assépticas.
+ Cerezyme não contém conservantes. Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Genzyme Europe B. V., Gooimeer 10,1411 DD Naarden, Holanda.
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/97/053/001 EU/1/97/053/002 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 17 de Novembro de 1997 Data da última renovação: 17 de Setembro de 2007
+ 10. DATA DA REVISÃO DO TEXTO Informação detalhada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu/
+ 8 1. NOME DO MEDICAMENTO
+ Cerezyme 400 U Pó para concentrado para solução para perfusão
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada frasco contém 400 unidades* de imiglucerase **.
+ Após a reconstituição, a solução contém 40 unidades de imiglucerase por ml (400 U/10 ml).
+ * Uma unidade de enzima (U) é definida como a quantidade de enzima que catalisa a hidrólise de uma micromole de substrato sintético para-nitrofenil-β-D-glucopiranosido (pNP-Glc) por minuto, a 37°C. ** forma modificada de glucocerebrosidase produzida nas células do ovário de Hamster Chinês através de tecnologia de ADN recombinante.
+ Excipientes: Lista completa de excipientes, ver secção 6.1. Este medicamento contém sódio e é administrado numa solução intravenosa de cloreto de sódio a 0,9% (ver secção 6.6). Após a reconstituição, a solução contém 1,24 mmol de sódio (400 U/5 ml). A ser tomado em consideração por doentes com uma dieta de sódio controlado.
+ 3. FORMA FARMACÊUTICA Pó para concentrado para solução para perfusão. Cerezyme é um pó branco a esbranquiçado.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Cerezyme (imiglucerase) está indicado para utilização como terapêutica enzimática de substituição de longa duração em doentes com um diagnóstico confirmado de doença de Gaucher não neuronopática (Tipo 1) ou neuronopática crónica (Tipo 3) e que apresentam manifestações não neurológicas clinicamente significativas da doença.
+ As manifestações não neurológicas da doença de Gaucher incluem uma ou mais das seguintes condições: • anemia após exclusão de outras causas, como, por exemplo, deficiência em ferro • trombocitopenia • doença óssea, após exclusão de outras causas, como, por exemplo, deficiência de vitamina D • hepatomegalia ou esplenomegalia
+ 4.2 Posologia e modo de administração A terapêutica deve ser orientada por médicos com conhecimento no tratamento da doença de Gaucher.
+ Posologia para adultos, crianças e idosos Devido à heterogeneidade e à natureza multi-sistémica da doença de Gaucher, a dosagem deve ser individualizada para cada doente, com base na avaliação do conjunto das manifestações clínicas da doença.
+ Uma gama de regimes posológicos demonstrou ser eficaz em relação a algumas ou todas as manifestações não neurológicas da doença. A utilização inicial de uma dose de 60 U/kg de peso
+ 9 corporal, de 2 em 2 semanas, permitiu obter a melhoria dos parâmetros hematológicos e viscerais num período de 6 meses após o início da terapêutica, e a administração prolongada parou a progressão ou melhorou a doença óssea.
+ Demonstrou-se que a administração de doses baixas tais como 2,5 U/kg,3 vezes por semana, ou de 15 U/kg de peso corporal de 2 em 2 semanas, resulta na melhoria dos parâmetros hematológicos e das organomegalias, mas não dos parâmetros ósseos.
+ A frequência de administração de uma perfusão de 2 em 2 semanas é a mais comum e a mais conveniente para o doente, sendo aquela para a qual existe um maior número de resultados disponíveis.
+ A resposta clínica do doente deve ser avaliada por rotina e a dosagem deve ser ajustada (aumentada ou diminuída) com base numa avaliação exaustiva da resposta, no que respeita à totalidade das manifestações clínicas. Uma vez estabelecida e estabilizada a resposta individual de cada doente, no que respeita a todas as manifestações clínicas relevantes, a dosagem poderá ser ajustada, de modo a obter uma terapêutica eficaz de manutenção, sempre acompanhada pela monitorização dos parâmetros de resposta e pelos sinais de bem estar do doente. Os intervalos de monitorização variam de 6 a 12 meses.
+ A eficácia de Cerezyme nos sintomas neurológicos de pessoas com doença de Gaucher neuropática crónica não foi estabelecida e não pode recomendar-se nenhum regime posológico especial para estas manifestações (ver secção 5.1).
+ Após a reconstituição e diluição (ver secção 6.6), a preparação é administrada por perfusão intravenosa ao longo de 1 a 2 horas. Em alternativa, pode administrar-se a dose apropriada de Cerezyme a uma taxa de perfusão não superior a 1 unidade por kg de peso corporal por minuto.
+ Os médicos ou os profissionais de cuidados de saúde são encorajados a registarem os doentes com a doença de Gaucher, incluindo aqueles com manifestações neuronopáticas crónicas da doença, no “ Registo de Gaucher do ICGG ” (ver secção 5.1).
+ 4.3 Contra-indicações Hipersensibilidade à substância activa ou a qualquer um dos excipientes. (ver secção 4.4).
+ 4.4 Advertências e precauções especiais de utilização
+ Hipersensibilidade Dados actuais indicam que aproximadamente 15% dos doentes tratados desenvolvem anticorpos (IgG) anti-imiglucerase durante o primeiro ano de tratamento, mais frequentemente durante os primeiros seis meses e só muito raramente após 12 meses de terapêutica. Foi sugerido que os doentes, nos quais se suspeita de uma resposta diminuída ao tratamento, sejam monitorizados periodicamente para detecção de anticorpos IgG contra à imiglucerase. Tal como acontece com qualquer produto proteico administrado por via intravenosa, são possíveis reacções graves de hipersensibilidade de tipo alérgico. Caso ocorram estas reacções, recomenda-se a descontinuação imediata da perfusão de Cerezyme e deve iniciar-se tratamento médico apropriado. Devem observar-se as actuais normas médicas para o tratamento de emergência.
+ Os doentes que desenvolvem anticorpos anti-Cerezyme (imiglucerase) apresentam um risco superior de sofrerem uma reacção de hipersensibilidade. (ver secção 4.8). Se um doente manifestar uma reacção que sugira hipersensibilidade, é aconselhável fazer mais análises quanto aos anticorpos anti-imiglucerase. Em casos raros foram notadas reacções do tipo anafilático. Tratamentos posteriores com Cerezyme (imiglucerase) devem ser conduzidos com precaução. A maior parte dos doentes retomam com sucesso a terapêutica, após tratamento prévio com anti-histamínicos e/ou corticosteróides e de uma redução na velocidade de perfusão.
+ 10 Os doentes que desenvolveram anticorpos ou sintomas de hipersensibilidade à Ceredase (alglucerase) devem ser tratados com precaução com Cerezyme (imiglucerase).
+ Hipertensão pulmonar A hipertensão pulmonar é uma complicação conhecida da doença de Gaucher. Foi observada tanto em doentes que recebem como nos que não recebem terapêutica de substituição de enzimas. Não foi estabelecida qualquer relação com a terapêutica de substituição de enzimas. Os doentes com sintomas respiratórios devem ser avaliados quanto à presença de hipertensão pulmonar.
+ Excipientes Este medicamento contém sódio e é administrado numa solução intravenosa de cloreto de sódio a 0,9% (ver secção 6.6). Deve ser dada especial atenção aos doentes em dieta com cloreto de sódio.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Não foram realizados estudos de interacção.
+ 4.6 Gravidez e aleitamento Existe uma experiência limitada com base no resultado de 150 gravidezes (principalmente fundamentada em notificações espontâneas e revisões da literatura) que sugere que a utilização de Cerezyme é benéfica no controlo da doença de Gaucher subjacente durante a gravidez. Para além disso, estes dados indicam não haver toxicidade de Cerezyme relacionada com malformações do feto, embora as evidências estatísticas sejam baixas. Raramente foi notificada morte do feto, embora não seja claro se este facto está relacionado com a utilização de Cerezyme ou com a doença de Gaucher subjacente.
+ Não foram efectuados estudos em animais no que respeita à avaliação dos efeitos de Cerezyme na gravidez, desenvolvimento embrionário/fetal, parto e desenvolvimento pós-natal. Não se sabe se Cerezyme passa para o feto em desenvolvimento através da placenta.
+ É necessário realizar uma avaliação do risco-benefício do tratamento para cada gravidez, nas mulheres com doença de Gaucher grávidas e naquelas que tencionam engravidar. As mulheres com doença de Gaucher que engravidam podem passar por um período de aumento da actividade da doença durante a gravidez e o puerpério. Este inclui um aumento do risco de manifestações esqueléticas, exacerbação citopenia, hemorragia e um aumento da necessidade de transfusões. Sabe-se que tanto a gravidez como a lactação afectam a homeostasia do cálcio materna e aceleram a renovação óssea. Isto pode contribuir para a carga representada pelas afecções ósseas na doença de Gaucher.
+ As mulheres sem tratamento prévio devem ser aconselhadas a considerar iniciar a terapêutica antes da concepção de modo a obter-se um estado de saúde óptimo. Nas mulheres a receberem Cerezyme, deve considerar-se a continuação do tratamento durante a gravidez. É necessário proceder à monitorização rigorosa da gravidez e das manifestações clínicas da doença de Gaucher para se individualizar a posologia de acordo com as necessidades da doente e a resposta à terapêutica.
+ Desconhece-se se a substância activa é excretada no leite humano, contudo, é provável que a enzima seja digerida no tracto gastrointestinal da criança.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Os efeitos de Cerezyme sobre a capacidade de conduzir e utilizar máquinas são nulos ou desprezíveis.
+ 11 4.8 Efeitos indesejáveis
+ As reacções adversas ao medicamento encontram-se listadas por classe e frequência do sistema de órgãos (frequentes (≥1/100 a &lt; 1/10) e pouco frequentes (≥1/1.000 a &lt; 1/100 )). Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ Doenças do sistema nervoso Cardiopatias
+ Pouco Frequentes: Tonturas, cefaleia, parestesia Vasculopatias Pouco Frequentes: Taquicardia, cianose Pouco Frequentes: Rubor, hipotensão Doenças respiratórias, torácicas e do mediastino Doenças gastrointestinais
+ Frequentes: Alterações respiratórias Afecções dos tecidos cutâneos e subcutâneas
+ Pouco Frequentes: Vómitos, náusea, cãibras abdominais, diarreia
+ Afecções musculosqueléticas e dos tecidos conjuntivos
+ Frequentes: Urticária/angioedema, prurido, erupção cutânea
+ Perturbações gerais e alterações no local de administração
+ Pouco Frequentes: Artralgia Pouco Frequentes: Desconforto no local da perfusão, ardor no local da perfusão, edema no local da perfusão, abcesso estéril no local da injecção, desconforto no peito, febre, calafrios, fadiga
+ Em alguns casos verificam-se efeitos adversos relacionados com a via de administração, nomeadamente: mal-estar, prurido, sensação de queimadura, edema local ou formação de abcesso estéril no local da punção venosa. Em alguns casos verificaram-se sintomas sugestivos de hipersensibilidade em cerca de 3% dos doentes, que tiveram início durante ou pouco tempo depois das perfusões. Estes sintomas incluem prurido, rubor, urticária/angioedema, desconforto torácico, taquicárdia, pele cianótica, alterações respiratórias e parestesia. Embora raramente, também foi notificada hipotensão associada à hipersensibilidade. Geralmente, estas alterações respondem a tratamento com anti-histamínicos e/ou corticosteróides. Assim deve ser recomendado aos doentes que interrompam a perfusão do produto e entrem em contacto com os seus médicos assistentes, caso venham a manifestar tais sintomas.
+ 4.9 Sobredosagem Não foram descritos casos de sobredosagem.
+ 12 5. PROPRIEDADES FARMACOLÓGICAS
+ 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Enzimas-imiglucerase (β-glucocerebrosidase, obtida por recombinação genética e marcada para o macrófago), código ATC: A16AB02.
+ A imiglucerase (β-glucocerebrosidase, obtida por recombinação genética e marcada para o macrófago) catalisa a hidrólise do glicolípido glucocerebrosido em glucose e ceramida, segundo a via normal de degradação dos lípidos de membrana.
+ O glucocerebrosido é basicamente, derivado do metabolismo das células hematopoiéticas. A doença de Gaucher caracteriza-se por uma deficiência funcional da actividade enzimática da β-glucocerebrosidase com a consequente acumulação do lípido glucocerebrosido nos macrófagos dos tecidos, sendo estes macrófagos em repleção designados por células de Gaucher.
+ As células de Gaucher encontram-se, predominantemente, no fígado, baço e medula óssea e, ocasionalmente, nos pulmões, rins e intestino. As sequelas hematológicas secundárias incluem anemia e trombocitopenia, além da característica hepatoesplenomegalia progressiva. As complicações ósseas são comuns e frequentemente constituem o aspecto mais debilitante e incapacitante da doença de Gaucher. As possíveis complicações ósseas incluem: osteonecrose, osteopenia com fracturas patológicas secundárias, falência da remodelação, osteosclerose e dores ósseas.
+ Não foram conduzidos estudos clínicos controlados sobre a eficácia de Cerezyme nas manifestações neurológicas da doença. Por isso não podem ser retiradas conclusões sobre o efeito da terapêutica enzimática de substituição nas manifestações neurológicas da doença.
+ Os médicos ou os profissionais de cuidados de saúde são encorajados a registarem os doentes com a doença de Gaucher, incluindo aqueles com manifestações neuronopáticas crónicas da doença, no “ Registo de Gaucher do ICGG ”. Os dados dos doentes serão reunidos anonimamente neste registo. Os objectivos do “ Registo de Gaucher do ICGG ” são de aumentar a compreensão da doença de Gaucher e avaliar a eficácia da terapêutica enzimática de substituição, levando finalmente ao aperfeiçoamento da utilização segura e eficaz de Cerezyme.
+ 5.2 Propriedades farmacocinéticas Durante 1 hora de perfusão endovenosa de 4 dosagens diferentes (7,5,15,30,60 U/kg) de imiglucerase o estado de equilíbrio da actividade enzimática foi atingido ao fim de 30 minutos. Após a perfusão a actividade enzimática no plasma diminui rapidamente, apresentando uma semi-vida entre 3,6 a 10,4 minutos. A depuração plasmática variou de 9,8 até 20,3 ml/min/kg de peso corporal (média ± desvio padrão, 14,5 ± 4,0 l/min/kg). O volume de distribuição corrigido para o peso, variou de 0,09 a 0,15 l/kg (média ± desvio padrão 0,12 ± 0,02 l/kg). Estas variáveis não parecem ser influenciadas pela dose ou duração da perfusão. Contudo, apenas foram estudados 1 ou 2 doentes para cada valor de dose e velocidade de perfusão.
+ 5.3 Dados de segurança pré-clínica Os dados não clínicos não revelam riscos particulares para o ser humano com base nos estudos convencionais de farmacologia de segurança, toxicidade de dose única e repetida, e genotoxicidade.
+ 13 6. INFORMAÇÕES FARMACÊUTICAS
+ 6.1 Lista dos excipientes Manitol Citrato de sódio (para ajustar o pH) Ácido cítrico mono-hidratado (para ajustar o pH) Polissorbato 80
+ 6.2 Incompatibilidades Na ausência de estudos de compatibilidade, este medicamento não deve ser misturado com outros medicamentos ..
+ 6.3 Prazo de validade Frascos para injectáveis não abertos: 2 anos.
+ Solução diluída: De um ponto de vista de segurança microbiológica, o produto deve ser utilizado imediatamente. Caso não seja imediatamente utilizado, a conservação durante a utilização e as condições antes da utilização são da responsabilidade do utilizador e não devem exceder as 24 horas a 2ºC-8ºC, com protecção da luz.
+ 6.4 Precauções especiais de conservação
+ Conservar no frigorífico (2°C – 8°C). 6.5 Natureza e conteúdo do recipiente Cerezyme é fornecido em frascos de vidro borossilicatado de tipo I (transparente), de 20 ml. A tampa do frasco é constituída por uma rolha de borracha butílica siliconada e um dispositivo de segurança destacável.
+ Cada frasco contém um pequeno excedente de 0,6 ml de forma a obter o volume necessário para permitir que seja retirado o volume exacto.
+ Tamanho das embalagens: 1,5 ou 25 frascos por embalagem cartonada. Nem todos os tamanhos de embalagem poderão estar comercializados.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ Cada frasco para injectáveis de Cerezyme destina-se a utilização única apenas. Após a reconstituição, cada frasco para injectáveis de Cerezyme contém 400 unidades de imiglucerase em 10,0 ml (40 unidades por ml).
+ O pó para concentrado para solução para perfusão deve ser reconstituído com água esterilizada para preparações injectáveis e posterior diluição numa solução endovenosa de cloreto de sódio a 0,9% para administração através de perfusão endovenosa.
+ Calcular o número de frascos a reconstituir com base na dosagem e regime do doente e retirá-los do ambiente refrigerado.
+ 14 Ocasionalmente, pode ser efectuado um pequeno ajustamento da dose para evitar desperdiçar um frasco parcialmente cheio de produto. A dosagem poderá ser ajustada, desde que a dose mensal permaneça inalterada.
+ Utilizar uma técnica asséptica Reconstituição Reconstituir cada frasco com 10,2 ml de água para preparações injectáveis; evitar o contacto brusco da água para preparações injectáveis com o pó, misturando suavemente, de forma a evitar que a solução produza espuma; o volume reconstituído é de 10,6 ml. O pH da solução reconstituída é, aproximadamente, de 6,1.
+ Após a reconstituição, apresenta-se como um líquido límpido, incolor, sem matérias estranhas. A solução reconstituída tem de sofrer uma diluição adicional. Antes da diluição seguinte o produto reconstituído deve ser visualmente inspeccionado quanto à presença de partículas estranhas ou descoloração. Não utilizar nessas circunstâncias. Após reconstituição, o produto deve ser diluído imediatamente e não armazenado para utilização posterior.
+ Diluição A solução reconstituída contém 40 unidades de imiglucerase por ml. O volume reconstituído permite retirar com precisão 10,0 ml (equivalente a 400 unidades) de cada frasco para injectáveis. Retirar 10,0 ml de solução reconstituída de cada frasco misturar as soluções dos diferentes frascos. Em seguida, diluir esta mistura com uma solução endovenosa de cloreto de sódio a 0,9% para um volume total de 100 a 200 ml. Misturar suavemente a solução para perfusão.
+ Recomenda-se a administração da solução diluída no prazo de 3 horas. O produto diluído numa solução endovenosa de cloreto de sódio a 0,9% mantém a estabilidade química quando conservado até 24 horas, a uma temperatura a 2°C e 8°C, ao abrigo da luz; no entanto, a segurança microbiológica depende da reconstituição e da diluição terem sido efectuadas em condições assépticas.
+ Cerezyme não contém conservantes. Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Genzyme Europe B. V., Gooimeer 10,1411 DD Naarden, Holanda.
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/97/053/003 EU/1/97/053/004 EU/1/97/053/005
+ 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 17 de Novembro de 1997 Data da última renovação: 17 de Setembro de 2007
+ 15 10. DATA DA REVISÃO DO TEXTO
+ Informação detalhada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu/
+ 16 ANEXO II
+ A. FABRICANTE(S) DA SUBSTÂNCIA ACTIVA DE ORIGEM BIOLÓGICA E TITULAR(ES) DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 17 A FABRICANTE(S) DA SUBSTÂNCIA ACTIVA DE ORIGEM BIOLÓGICA E TITULAR(ES) DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do(s) fabricante(s) da substância activa de origem biológica
+ Genzyme Corporation 500 Soldiers Field Road – Allston, MA 02134 – E. U. A.
+ Nome e endereço do(s) fabricante(s) responsável(veis) pela libertação do lote
+ Genzyme Ltd. 37 Hollands Road – Haverhill, Suffolk CB9 8PU – R. U.
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento de receita médica restrita, de utilização reservada a certos meios especializados (ver Anexo I: Resumo das Características do Medicamento, secção 4.2)
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ Não aplicável. 18 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 19 A. ROTULAGEM
+ 20 INDICAÇÕES A INCLUIR NO
+ ACONDICIONAMENTO ES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO E
+ NO ACONDICIONAMENTO PRIMÁRIO EMBALAGEM EXTERNA/FRASCO PARA INJECTÁVEIS
+ 1. NOME DO MEDICAMENTO Cerezyme 200 U pó para concentrado para solução para perfusão. imiglucerase
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada frasco para injectáveis de pó contém 200 unidades de imiglucerase.
+ 3. LISTA DOS EXCIPIENTES Excipientes: Manitol, Citrato de sódio, Ácido cítrico mono-hidratado e Polissorbato 80.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 1 frasco para injectáveis de pó para concentrado para solução para perfusão. 25 frascos para injectáveis de pó para concentrado para solução para perfusão.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Para perfusão intravenosa. Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ Exclusivamente para utilização única. 8. PRAZO DE VALIDADE EXP. 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico. 21 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ Qualquer solução não utilizada deve ser eliminada de forma apropriada.
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Titular da Autorização de Introdução no Mercado: Genzyme Europe B. V. Gooimeer 10 1411 DD Naarden-NL
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/97/053/001 EU/1/97/053/002 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Cerezyme 200 U 22 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ RÓTULO/FRASCO PARA INJECTÁVEIS 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Cerezyme 200 U pó para concentrado para solução para perfusão. imiglucerase
+ 2. MODO DE ADMINISTRAÇÃO Para perfusão intravenosa. 3. PRAZO DE VALIDADE EXP: 4. NÚMERO DO LOTE Lote: 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ Cada frasco para injectáveis contém 200 unidades de imiglucerase.
+ 6. OUTRAS Genzyme Europe B. V.-NL Conservar no frigorífico. 23 INDICAÇÕES A INCLUIR NA EMBALAGEM EXTERIOR E NO ACONDICIONAMENTO PRIMÁRIO
+ EMBALAGEM EXTERNA/FRASCO PARA INJECTÁVEIS
+ 1. NOME DO MEDICAMENTO Cerezyme 400 U pó para concentrado para solução para perfusão. imiglucerase
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada frasco para injectáveis de pó contém 400 unidades de imiglucerase.
+ 3. LISTA DOS EXCIPIENTES Excipientes: Manitol, Citrato de sódio, Ácido cítrico mono-hidratado e Polissorbato 80.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 1 frasco para injectáveis de pó para concentrado para solução para perfusão. 5 frascos para injectáveis de pó para concentrado para solução para perfusão. 25 frascos para injectáveis de pó para concentrado para solução para perfusão.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Para perfusão intravenosa. Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ Exclusivamente para utilização única. 8. PRAZO DE VALIDADE EXP: 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ 24 Conservar no frigorífico.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ Qualquer solução não utilizada deve ser eliminada de forma apropriada.
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Titular da Autorização de Introdução no Mercado: Genzyme Europe B. V. Gooimeer 10 1411 DD Naarden-NL
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/97/053/003 EU/1/97/053/004 EU/1/97/053/005
+ 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO GERAL QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Cerezyme 400 U. 25 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ RÓTULO/FRASCO PARA INJECTÁVEIS 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Cerezyme 400 U pó para concentrado para solução para perfusão. imiglucerase
+ 2. MODO DE ADMINISTRAÇÃO Para perfusão intravenosa. 3. PRAZO DE VALIDADE EXP 4. NÚMERO DO LOTE Lote 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ Cada frasco para injectáveis contém 400 unidades de imiglucerase.
+ 6. OUTRAS Genzyme Europe B. V.-NL Conservar no frigorífico. 26 B. FOLHETO INFORMATIVO
+ 27 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Cerezyme 200 U pó para concentrado para solução para perfusão. Imiglucerase
+ Leia atentamente este folheto antes de utilizar este medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial, mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar, ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é Cerezyme e para que é utilizado. 2. Antes de utilizar Cerezyme. 3. Como utilizar Cerezyme. 4. Efeitos secundários possíveis. 5. Como conservar Cerezyme. 6. Outras informações.
+ 1. O QUE É CEREZYME E PARA QUE É UTILIZADO
+ Cerezyme é utilizado para o tratamento de doentes com um diagnóstico confirmado de doença de Gaucher de Tipo I ou Tipo 3, e que apresentem sinais da doença como por exemplo: anemia (número reduzido de glóbulos vermelhos), tendência para sangrar facilmente (devido a número reduzido de plaquetas – um tipo de células do sangue), aumento do baço ou do fígado ou doença óssea.
+ As pessoas com doença de Gaucher têm níveis baixos de uma enzima chamada β-glucocerebrosidase. Esta enzima ajuda o organismo a controlar os níveis de glucocerebrosido. Um glucocerebrosido é uma substância natural do organismo, constituída por açúcar e gordura. Na doença de Gaucher, os níveis de glucocerebrosido podem atingir níveis demasiado elevados.
+ Cerezyme é uma enzima artificial chamada imiglucerase – esta pode substituir a enzima β-glucocerebrosidase natural, que está ausente ou não é suficientemente activa nos doentes com doença de Gaucher.
+ A informação deste folheto aplica-se a todos os grupos, incluindo as crianças, adolescentes, adultos e idosos.
+ 2. ANTES DE UTILIZAR CEREZYME Não utilize Cerezyme: -Se tem alergia (hipersensibilidade) à imiglucerase ou
+ -se tem alergia a qualquer outro componente de Cerezyme.
+ Tome especial cuidado com Cerezyme: -Se for tratado com Cerezyme, poderá ter uma reacção alérgica enquanto o medicamento lhe está
+ a ser administrado, ou algum tempo depois. Caso tenha uma reacção deste tipo, deve informar imediatamente o seu médico. O seu médico poderá fazer um teste para saber se você tem uma reacção alérgica à imiglucerase.
+ -Alguns doentes com doença de Gaucher têm pressão arterial elevada nos pulmões (hipertensão
+ pulmonar). A causa pode ser desconhecida, ou pode dever-se a problemas no coração, nos
+ 28 pulmões ou no fígado. Pode ocorrer quer os doentes sejam tratados com Cerezyme ou não. Mas, caso sofra de qualquer falta de ar, deve informar o seu médico.
+ Ao utilizar Cerezyme com outros medicamentos: Informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica.
+ Cerezyme não deve administrar-se conjuntamente com outros medicamentos na mesma perfusão.
+ Gravidez e aleitamento Caso esteja grávida ou pense que poderá estar, consulte o seu médico ou farmacêutico antes de utilizar este medicamento. Recomenda-se cuidado na utilização de Cerezyme durante a gravidez e aleitamento.
+ 3. COMO UTILIZAR CEREZYME Instruções para uma utilização apropriada Cerezyme é administrado através de soro numa veia (por perfusão intravenosa).
+ É fornecido sob a forma de pó, que é misturado com água esterilizada antes da administração.
+ Cerezyme é utilizado apenas sob a supervisão de um médico com conhecimento do tratamento da doença de Gaucher.
+ A sua dose será específica para si. O seu médico irá determinar a sua dose com base na gravidade dos seus sintomas e em outros factores. A dose recomendada de Cerezyme é de 60 unidades/kg de peso corporal, administradas uma vez a cada 2 semanas.
+ O seu médico irá verificar atentamente a sua resposta ao tratamento, e poderá alterar a sua dose (aumentar ou diminuir a dose) até encontrar a melhor dose para controlar os seus sintomas.
+ Assim que tiver encontrado esta dose, o seu médico irá ainda continuar a verificar as suas respostas para se certificar de que está a utilizar a dose certa. Isto poderá ocorrer a cada 6 ou 12 meses.
+ Não existe informação acerca do efeito de Cerezyme nos sintomas cerebrais de doentes com doença de Gaucher neuropática crónica. Por conseguinte, não pode recomendar-se nenhum regime posológico especial.
+ O Registo de Gaucher do ICGG Pode pedir ao seu médico que registe os seus dados clínicos no “ Registo de Gaucher do ICGG ”. Os objectivos deste registo consistem em aumentar a compreensão da doença de Gaucher e verificar até que ponto a terapêutica de substituição enzimática, como Cerezyme, tem bons resultados. Tal deve conduzir a uma melhoria na utilização segura e eficaz de Cerezyme. Os seus dados clínicos serão registados de forma anónima – ninguém saberá que as informações são sobre si.
+ Se utilizar mais Cerezyme do que deveria Não se registaram casos de sobredosagem com Cerezyme.
+ Caso se tenha esquecido de utilizar Cerezyme Caso tenha falhado uma perfusão, contacte o seu médico.
+ Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou farmacêutico.
+ 29 4. EFEITOS SECUNDÁRIOS POSSIVEIS
+ Como todos os medicamentos, Cerezyme pode provocar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ Caso sinta quaisquer efeitos secundários graves ou efeitos secundários que não estejam mencionados a seguir, informe imediatamente o seu médico.
+ Os efeitos secundários frequentes (que ocorrem em mais de 1 em 100 doentes) são:
+ -falta de ar
+ -urticária/inchaço localizado na pele ou no revestimento da boca ou da garganta
+ -comichão
+ -pele irritada
+ Os efeitos secundários pouco frequentes (que ocorrem em mais de 1 em 1000 doentes) são:
+ -tonturas
+ -dor de cabeça
+ -sensação de formigueiro, picadas, ardor ou dormência da pele
+ -frequência cardíaca aumentada
+ -pele azulada
+ -rubor
+ -diminuição da pressão arterial
+ -vómitos
+ -náusea
+ -cãibras abdominais
+ -diarreia
+ -dor nas articulações
+ -desconforto no local de perfusão
+ -ardor no local de perfusão
+ -inchaço no local de perfusão
+ -abcesso estéril no local da injecção
+ -desconforto torácico
+ -febre
+ -arrepios
+ -fadiga
+ Alguns efeitos secundários observados primariamente durante a administração do medicamento ou pouco tempo depois Estes incluíram comichão, rubor, urticária/inchaço localizado na pele ou no revestimento da boca ou garganta, desconforto torácico, frequência cardíaca aumentada, pele azulada, falta de ar, uma sensação de formigueiro, picadas, ardor ou dormência da pele e diminuição da pressão arterial. Caso sinta algum destes sintomas, informe imediatamente o seu médico. Pode necessitar que lhe sejam administrados medicamentos adicionais para prevenir uma reacção alérgica (por ex. anti-histamínicos e/ou corticosteróides).
+ Se algum destes efeitos secundários se agravar, ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR CEREZYME Manter fora do alcance e da vista das crianças.
+ Frascos para injectáveis não abertos: Conservar no frigorífico (2°C – 8°C). Não utilize Cerezyme após o prazo de validade impresso no rótulo a seguir a" VAL". O prazo de validade corresponde ao último dia do mês indicado.
+ 30 Solução diluída: Recomenda-se que Cerezyme seja utilizado imediatamente após ter sido reconstituído com água para preparação de injectáveis. A solução não pode ser conservada no frasco para injectáveis e deve ser prontamente diluída num saco de perfusão; só a solução diluída pode conservar-se até 24 horas se for mantida a (2°C – 8°C) e em local escuro.
+ Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Cerezyme -A substância activa é imiglucerase. A imiglucerase é uma forma modificada da enzima humana
+ β-glucocerebrosidase, produzida através de tecnologia de ADN recombinante. Um frasco para injectáveis contém 200 unidades de imiglucerase. Após a reconstituição, a solução contém 40 unidades de imiglucerase por ml.
+ -Os outros componentes são:
+ ----
+ Manitol Citrato de sódio Ácido cítrico mono-hidratado Polissorbato 80
+ Informações importantes sobre alguns componentes de Cerezyme Este medicamento contém sódio e é administrado numa solução intravenosa de cloreto de sódio a 0,9%. A ser tomado em consideração por doentes com uma dieta com controle de sódio.
+ Qual o aspecto de Cerezyme e conteúdo da embalagem Cerezyme,200 U, apresenta-se sob a forma de pó para concentrado para solução para perfusão (numa embalagem com 1 ou 25 frascos para injectáveis). É possível que não sejam comercializadas todas as apresentações.
+ Cerezyme é fornecido como um pó branco a esbranquiçado. Após a reconstituição, apresenta-se como um líquido límpido, incolor, sem partículas estranhas. A solução reconstituída tem de sofrer uma diluição adicional.
+ Titular da Autorização de Introdução no Mercado e Fabricante
+ Titular da Autorização de Introdução no Mercado Genzyme Europe B. V., Gooimeer 10,1411 DD, Naarden, Holanda
+ Fabricante Genzyme Ltd.,37 Hollands Road, Haverhill, Suffolk CB9 8PU, Reino Unido
+ 31 Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado.
+ België/Belgique/Belgien/Luxembourg/Luxemburg Genzyme Belgium nv/sa (Belgique/Belgien), Tél/Tel: +32 2 714 17 11
+ Magyarország Genzyme Europe B. V. Képviselet Tel: +36 1 310 7440
+ България Търговско представителство на Genzyme CEE GmbH Тел. +359 2 971 1001
+ Nederland Genzyme Europe BV, Tel: +31 35 6991200
+ Česká Republika/Slovenská Republika/Slovenija Genzyme Europe B. V. organizační složka (Česká Republika, Republika Češka) Tel: +420 227 133 665
+ Österreich Genzyme Austria GmbH, Tel: +43 1 774 65 38
+ Danmark/Norge/Sverige/Suomi/Finland/Ísland Genzyme A/S, (Danmark/Tanska/Danmörk), Tlf/Puh./Sími: +45 32712600 Deutschland Genzyme GmbH, Tel: +49 610236740 Ελλάδα/Κύπρος Genzyme Hellas Ltd. (Ελλάδα) Τηλ: +30 210 99 49 270 España Genzyme, S. L., Tel: +34 91 6591670
+ Polska/Eesti/Latvija/Lietuva Genzyme Polska Sp. z o. o. (Poola/Polija/Lenkija), Tel: +48 22 516 24 30 Portugal Genzyme Portugal, Tel: +351 21 422 0100 România Genzyme CEE GmbH-Reprezentanta pentru Romania Tel: +40212434228
+ France Genzyme S. A. S, Tél:+ 33 (0) 825 825 863 Italia/Malta Genzyme Srl (Italia/Italja), Tel: +39 059 349811
+ United Kingdom/Ireland Genzyme Therapeutics (United Kingdom), Tel: +44 1865 405200
+ Este folheto foi aprovado pela última vez em:
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA): http: //www. emea. europa. eu/. Também existem links para outros sites sobre doenças raras e tratamentos.
+ &lt; --------------------------------------------------------------------------------------------------------------------------
+ A informação que se segue destina-se apenas aos médicos e aos profissionais de saúde:
+ Instruções de utilização – reconstituição, diluição e administração Cada frasco para injectáveis de Cerezyme destina-se a utilização única apenas. Após a reconstituição, cada frasco para injectáveis de Cerezyme contém 200 unidades de imiglucerase em 5,0 ml (40 unidades por ml).
+ 32 Calcular o número de frascos a reconstituir com base na dosagem e regime do doente e retirá-los do ambiente refrigerado.
+ Utilizar uma técnica asséptica Reconstituição Reconstituir cada frasco com 5,1 ml de água para preparações injectáveis; evitar o contacto brusco da água para preparações injectáveis com o pó, misturando suavemente, de forma a evitar que a solução produza espuma; o volume reconstituído é de 5,3 ml. O pH da solução reconstituída é, aproximadamente, de 6,1.
+ Após a reconstituição, apresenta-se como um líquido límpido, incolor, sem matérias estranhas. A solução reconstituída tem de sofrer uma diluição adicional. Antes da diluição seguinte o produto reconstituído deve ser visualmente inspeccionado quanto à presença de partículas estranhas ou descoloração. Não utilizar nessas circunstâncias. Após reconstituição, o produto deve ser diluído imediatamente e não armazenado para utilização posterior.
+ Diluição A solução reconstituída contém 40 unidades de imiglucerase por ml. O volume reconstituído permite retirar com precisão 5,0 ml (equivalente a 200 unidades) de cada frasco para injectáveis. Retirar 5,0 ml de solução reconstituída de cada frasco misturar as soluções dos diferentes frascos. Em seguida, diluir esta mistura com uma solução endovenosa de cloreto de sódio a 0,9% para um volume total de 100 a 200 ml. Misturar suavemente a solução para perfusão.
+ Administração Recomenda-se a administração da solução diluída no prazo de 3 horas. O produto diluído numa solução endovenosa de cloreto de sódio a 0,9% mantém a estabilidade química quando conservado até 24 horas, a uma temperatura a 2°C e 8°C, ao abrigo da luz; no entanto, a segurança microbiológica depende da reconstituição e da diluição terem sido efectuadas em condições assépticas.
+ A Cerezyme não contém conservantes. Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências.
+ 33 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Cerezyme 400 U pó para concentrado para solução para perfusão. Imiglucerase
+ Leia atentamente este folheto antes de utilizar este medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial, mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar, ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é Cerezyme e para que é utilizado. 2. Antes de utilizar Cerezyme. 3. Como utilizar Cerezyme. 4. Efeitos secundários possíveis. 5. Como conservar Cerezyme. 6. Outras informações.
+ 1. O QUE É CEREZYME E PARA QUE É UTILIZADO
+ Cerezyme é utilizado para o tratamento de doentes com um diagnóstico confirmado de doença de Gaucher de Tipo I ou Tipo 3, e que apresentem sinais da doença como por exemplo: anemia (número reduzido de glóbulos vermelhos), tendência para sangrar facilmente (devido a número reduzido de plaquetas – um tipo de células do sangue), aumento do baço ou do fígado ou doença óssea.
+ As pessoas com doença de Gaucher têm níveis baixos de uma enzima chamada β-glucocerebrosidase. Esta enzima ajuda o organismo a controlar os níveis de glucocerebrosido. Um glucocerebrosido é uma substância natural do organismo, constituída por açúcar e gordura. Na doença de Gaucher, os níveis de glucocerebrosido podem atingir níveis demasiado elevados.
+ Cerezyme é uma enzima artificial chamada imiglucerase – esta pode substituir a enzima β-glucocerebrosidase natural, que está ausente ou não é suficientemente activa nos doentes com doença de Gaucher.
+ A informação deste folheto aplica-se a todos os grupos, incluindo as crianças, adolescentes, adultos e idosos.
+ 2. ANTES DE UTILIZAR CEREZYME Não utilize Cerezyme: -Se tem alergia (hipersensibilidade) à imiglucerase ou
+ -se tem alergia a qualquer outro componente de Cerezyme.
+ Tome especial cuidado com Cerezyme: -Se for tratado com Cerezyme, poderá ter uma reacção alérgica enquanto o medicamento lhe está
+ a ser administrado, ou algum tempo depois. Caso tenha uma reacção deste tipo, deve informar imediatamente o seu médico. O seu médico poderá fazer um teste para saber se você tem uma reacção alérgica à imiglucerase.
+ -Alguns doentes com doença de Gaucher têm pressão arterial elevada nos pulmões (hipertensão
+ pulmonar). A causa pode ser desconhecida, ou pode dever-se a problemas no coração, nos
+ 34 pulmões ou no fígado. Pode ocorrer quer os doentes sejam tratados com Cerezyme ou não. Mas, caso sofra de qualquer falta de ar, deve informar o seu médico.
+ Ao utilizar Cerezyme com outros medicamentos: Informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica.
+ Cerezyme não deve administrar-se conjuntamente com outros medicamentos na mesma perfusão.
+ Gravidez e aleitamento Caso esteja grávida ou pense que poderá estar, consulte o seu médico ou farmacêutico antes de utilizar este medicamento. Recomenda-se cuidado na utilização de Cerezyme durante a gravidez e aleitamento.
+ 3. COMO UTILIZAR CEREZYME Instruções para uma utilização apropriada Cerezyme é administrado através de soro numa veia (por perfusão intravenosa).
+ É fornecido sob a forma de pó, que é misturado com água esterilizada antes da administração.
+ Cerezyme é utilizado apenas sob a supervisão de um médico com conhecimento do tratamento da doença de Gaucher.
+ A sua dose será específica para si. O seu médico irá determinar a sua dose com base na gravidade dos seus sintomas e em outros factores. A dose recomendada de Cerezyme é de 60 unidades/kg de peso corporal, administradas uma vez a cada 2 semanas.
+ O seu médico irá verificar atentamente a sua resposta ao tratamento, e poderá alterar a sua dose (aumentar ou diminuir a dose) até encontrar a melhor dose para controlar os seus sintomas.
+ Assim que tiver encontrado esta dose, o seu médico irá ainda continuar a verificar as suas respostas para se certificar de que está a utilizar a dose certa. Isto poderá ocorrer a cada 6 ou 12 meses.
+ Não existe informação acerca do efeito de Cerezyme nos sintomas cerebrais de doentes com doença de Gaucher neuropática crónica. Por conseguinte, não pode recomendar-se nenhum regime posológico especial.
+ O Registo de Gaucher do ICGG Pode pedir ao seu médico que registe os seus dados clínicos no “ Registo de Gaucher do ICGG ”. Os objectivos deste registo consistem em aumentar a compreensão da doença de Gaucher e verificar até que ponto a terapêutica de substituição enzimática, como Cerezyme, tem bons resultados. Tal deve conduzir a uma melhoria na utilização segura e eficaz de Cerezyme. Os seus dados clínicos serão registados de forma anónima – ninguém saberá que as informações são sobre si.
+ Se utilizar mais Cerezyme do que deveria Não se registaram casos de sobredosagem com Cerezyme.
+ Caso se tenha esquecido de utilizar Cerezyme Caso tenha falhado uma perfusão, contacte o seu médico.
+ Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou farmacêutico.
+ 35 4. EFEITOS SECUNDÁRIOS POSSIVEIS
+ Como todos os medicamentos, Cerezyme pode provocar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ Caso sinta quaisquer efeitos secundários graves ou efeitos secundários que não estejam mencionados a seguir, informe imediatamente o seu médico.
+ Os efeitos secundários frequentes (que ocorrem em mais de 1 em 100 doentes) são:
+ -falta de ar
+ -urticária/inchaço localizado na pele ou no revestimento da boca ou da garganta
+ -comichão
+ -pele irritada
+ Os efeitos secundários pouco frequentes (que ocorrem em mais de 1 em 1000 doentes) são:
+ -tonturas
+ -dor de cabeça
+ -sensação de formigueiro, picadas, ardor ou dormência da pele
+ -frequência cardíaca aumentada
+ -pele azulada
+ -rubor
+ -diminuição da pressão arterial
+ -vómitos
+ -náusea
+ -cãibras abdominais
+ -diarreia
+ -dor nas articulações
+ -desconforto no local de perfusão
+ -ardor no local de perfusão
+ -inchaço no local de perfusão
+ -abcesso estéril no local da injecção
+ -desconforto torácico
+ -febre
+ -arrepios
+ -fadiga
+ Alguns efeitos secundários observados primariamente durante a administração do medicamento ou pouco tempo depois Estes incluíram comichão, rubor, urticária/inchaço localizado na pele ou no revestimento da boca ou garganta, desconforto torácico, frequência cardíaca aumentada, pele azulada, falta de ar, uma sensação de formigueiro, picadas, ardor ou dormência da pele e diminuição da pressão arterial. Caso sinta algum destes sintomas, informe imediatamente o seu médico. Pode necessitar que lhe sejam administrados medicamentos adicionais para prevenir uma reacção alérgica (por ex. anti-histamínicos e/ou corticosteróides).
+ Se algum destes efeitos secundários se agravar, ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR CEREZYME Manter fora do alcance e da vista das crianças.
+ Frascos para injectáveis não abertos: Conservar no frigorífico (2°C – 8°C). Não utilize Cerezyme após o prazo de validade impresso no rótulo a seguir a" VAL". O prazo de validade corresponde ao último dia do mês indicado.
+ 36 Solução diluída: Recomenda-se que Cerezyme seja utilizado imediatamente após ter sido reconstituído com água para preparação de injectáveis. A solução não pode ser conservada no frasco para injectáveis e deve ser prontamente diluída num saco de perfusão; só a solução diluída pode conservar-se até 24 horas se for mantida a (2°C – 8°C) e em local escuro.
+ Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Cerezyme -A substância activa é imiglucerase. A imiglucerase é uma forma modificada da enzima humana
+ β-glucocerebrosidase, produzida através de tecnologia de ADN recombinante. Um frasco para injectáveis contém 400 unidades de imiglucerase. Após a reconstituição, a solução contém 40 unidades de imiglucerase por ml.
+ -Os outros componentes são:
+ ----
+ Manitol Citrato de sódio Ácido cítrico mono-hidratado Polissorbato 80
+ Informações importantes sobre alguns componentes de Cerezyme Este medicamento contém sódio e é administrado numa solução intravenosa de cloreto de sódio a 0,9%. A ser tomado em consideração por doentes com uma dieta com controle de sódio.
+ Qual o aspecto de Cerezyme e conteúdo da embalagem Cerezyme,400 U, apresenta-se sob a forma de pó para concentrado para solução para perfusão (numa embalagem com 1,5 ou 25 frascos para injectáveis). É possível que não sejam comercializadas todas as apresentações.
+ Cerezyme é fornecido como um pó branco a esbranquiçado. Após a reconstituição, apresenta-se como um líquido límpido, incolor, sem partículas estranhas. A solução reconstituída tem de sofrer uma diluição adicional.
+ Titular da Autorização de Introdução no Mercado e Fabricante
+ Titular da Autorização de Introdução no Mercado Genzyme Europe B. V., Gooimeer 10,1411 DD, Naarden, Holanda
+ Fabricante Genzyme Ltd.,37 Hollands Road, Haverhill, Suffolk CB9 8PU, Reino Unido
+ 37 Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado.
+ België/Belgique/Belgien/Luxembourg/Luxemburg Genzyme Belgium nv/sa (Belgique/Belgien), Tél/Tel: +32 2 714 17 11
+ Magyarország Genzyme Europe B. V. Képviselet Tel: +36 1 310 7440
+ България Търговско представителство на Genzyme CEE GmbH Тел. +359 2 971 1001
+ Nederland Genzyme Europe BV, Tel: +31 35 6991200
+ Česká Republika/Slovenská Republika/Slovenija Genzyme Europe B. V. organizační složka (Česká Republika, Republika Češka) Tel: +420 227 133 665
+ Österreich Genzyme Austria GmbH, Tel: +43 1 774 65 38
+ Danmark/Norge/Sverige/Suomi/Finland/Ísland Genzyme A/S, (Danmark/Tanska/Danmörk), Tlf/Puh./Sími: +45 32712600 Deutschland Genzyme GmbH, Tel: +49 610236740 Ελλάδα/Κύπρος Genzyme Hellas Ltd. (Ελλάδα) Τηλ: +30 210 99 49 270 España Genzyme, S. L., Tel: +34 91 6591670
+ Polska/Eesti/Latvija/Lietuva Genzyme Polska Sp. z o. o. (Poola/Polija/Lenkija), Tel: +48 22 516 24 30 Portugal Genzyme Portugal, Tel: +351 21 422 0100 România Genzyme CEE GmbH-Reprezentanta pentru Romania Tel: +40212434228
+ France Genzyme S. A. S, Tél:+ 33 (0) 825 825 863 Italia/Malta Genzyme Srl (Italia/Italja), Tel: +39 059 349811
+ United Kingdom/Ireland Genzyme Therapeutics (United Kingdom), Tel: +44 1865 405200
+ Este folheto foi aprovado pela última vez em:
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA): http: //www. emea. europa. eu/. Também existem links para outros sites sobre doenças raras e tratamentos.
+ &lt; --------------------------------------------------------------------------------------------------------------------------
+ A informação que se segue destina-se apenas aos médicos e aos profissionais de saúde:
+ Instruções de utilização – reconstituição, diluição e administração Cada frasco para injectáveis de Cerezyme destina-se a utilização única apenas. Após a reconstituição, cada frasco para injectáveis de Cerezyme contém 400 unidades de imiglucerase em 10,0 ml (40 unidades por ml).
+ 38 Calcular o número de frascos a reconstituir com base na dosagem e regime do doente e retirá-los do ambiente refrigerado.
+ Utilizar uma técnica asséptica Reconstituição Reconstituir cada frasco com 10,2 ml de água para preparações injectáveis; evitar o contacto brusco da água para preparações injectáveis com o pó, misturando suavemente, de forma a evitar que a solução produza espuma; o volume reconstituído é de 10,6 ml. O pH da solução reconstituída é, aproximadamente, de 6,1.
+ Após a reconstituição, apresenta-se como um líquido límpido, incolor, sem matérias estranhas. A solução reconstituída tem de sofrer uma diluição adicional. Antes da diluição seguinte o produto reconstituído deve ser visualmente inspeccionado quanto à presença de partículas estranhas ou descoloração. Não utilizar nessas circunstâncias. Após reconstituição, o produto deve ser diluído imediatamente e não armazenado para utilização posterior.
+ Diluição A solução reconstituída contém 40 unidades de imiglucerase por ml. O volume reconstituído permite retirar com precisão 10,0 ml (equivalente a 400 unidades) de cada frasco para injectáveis. Retirar 10,0 ml de solução reconstituída de cada frasco misturar as soluções dos diferentes frascos. Em seguida, diluir esta mistura com uma solução endovenosa de cloreto de sódio a 0,9% para um volume total de 100 a 200 ml. Misturar suavemente a solução para perfusão.
+ Administração Recomenda-se a administração da solução diluída no prazo de 3 horas. O produto diluído numa solução endovenosa de cloreto de sódio a 0,9% mantém a estabilidade química quando conservado até 24 horas, a uma temperatura a 2°C e 8°C, ao abrigo da luz; no entanto, a segurança microbiológica depende da reconstituição e da diluição terem sido efectuadas em condições assépticas.
+ A Cerezyme não contém conservantes. Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências.
+ 39

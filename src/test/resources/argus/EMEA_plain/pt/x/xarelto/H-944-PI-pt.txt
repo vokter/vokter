@@ -1,0 +1,260 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. NOME DO MEDICAMENTO
+ Xarelto 10 mg comprimidos revestidos por película
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada comprimido revestido por película contém 10 mg de rivaroxabano.
+ Excipientes: Cada comprimido revestido por película contém 27,9 mg de lactose monohidratada, ver secção 4.4.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Comprimidos revestidos por película (comprimido). Comprimidos redondos, de cor vermelho claro, gravados com a cruz-Bayer numa das faces e “ 10 ” e um triângulo na outra face.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Prevenção do tromboembolismo venoso (TEV) em doentes adultos submetidos a artroplastia electiva da anca ou joelho.
+ 4.2 Posologia e modo de administração A posologia recomendada é de 10 mg de rivaroxabano, administrados, por via oral, uma vez ao dia. A posologia inicial deve ser administrada 6 a 10 horas após a cirurgia, desde que a hemostase tenha sido estabelecida.
+ A duração do tratamento depende do risco individual do doente para tromboembolismo venoso, a qual é determinada pelo tipo de cirurgia ortopédica. • É recomendada uma duração de tratamento de 5 semanas em doentes submetidos a grande cirurgia da anca. • É recomendada uma duração de tratamento de 2 semanas em doentes submetidos a grande cirurgia do joelho.
+ Se for esquecida uma dose, o doente deverá tomar Xarelto imediatamente e depois continuar no dia seguinte com a toma uma vez ao dia, tal como anteriormente.
+ Xarelto pode ser tomado com ou sem alimentos.
+ Compromisso renal Não é necessário ajuste posológico em doentes com compromisso renal ligeiro (taxa de depuração da creatinina entre 50-80 ml/min.) ou compromisso renal moderado (taxa de depuração da creatinina entre 30-49 ml/min.) (ver secção 5.2). Dados clínicos limitados em doentes com compromisso renal grave (taxa de depuração da creatinina 15-29 ml/min.) indicam que as concentrações plasmáticas de rivaroxabano estão significativamente aumentadas nesta população de doentes, pelo que, Xarelto deve ser utilizado com precaução nestes doentes. Não é recomendada a utilização em doentes com taxa de depuração da creatinina &lt; 15 ml/min. (ver secções 4.4 e 5.2).
+ 2 Compromisso hepático Xarelto está contra-indicado em doentes com doença hepática associada a coagulopatia e risco de hemorragia clinicamente relevante (ver secções 4.3 e 5.2). Xarelto pode ser utilizado com precaução em doentes com cirrose e com compromisso hepático moderado (Child Pugh B) se não estiver associado a coagulopatia (ver secções 4.4 e 5.2). Não é necessário ajuste posológico em doentes com outras doenças hepáticas.
+ Doentes com idade superior a 65 anos Não é necessário ajuste posológico.
+ Peso corporal Não é necessário ajuste posológico.
+ Sexo Não é necessário ajuste posológico. Crianças e adolescentes Xarelto não é recomendado para utilização em crianças ou adolescentes com idades inferiores a 18 anos devido à ausência de dados de segurança e eficácia.
+ 4.3 Contra-indicações Hipersensibilidade à substância activa ou a qualquer um dos excipientes.
+ Hemorragia activa clinicamente siginificativa.
+ Doença hepática associada a coagulopatia e risco de hemorragia clinicamente relevante (ver secção 5.2).
+ Gravidez e lactação (ver secção 4.6). 4.4 Advertências e precauções especiais de utilização
+ Risco hemorrágico Vários sub-grupos de doentes, como abaixo detalhado, apresentam um risco aumentado de hemorragia. Estes doentes devem ser cuidadosamente monitorizados quanto a sinais de complicações hemorrágicas após o inicio do tratamento. Isto pode ser feito através do exame fisico regular dos doentes, observação cuidadosa da drenagem de ferida cirúrgica e medições periódicas da hemoglobina. Qualquer diminuição inexplicável da hemoglobina ou da pressão sanguínea deve conduzir a uma pesquisa de um local hemorrágico.
+ Compromisso renal Em doentes com compromisso renal grave (taxa de depuração da creatinina &lt; 30 ml/min.) os níveis plasmáticos de rivaroxabano podem aumentar significativamente, o que pode originar um aumento do risco de hemorragia. A utilização não é recomendada em doentes com uma taxa de depuração de creatinina &lt; 15 ml/min .. Xarelto deve ser utilizado com precaução em doentes com uma taxa de depuração de creatinina de 15 – 29 ml/min. (ver secções 4.2 e 5.2). Xarelto deve ser usado com precaução em doentes com compromisso renal moderado (taxa de depuração da creatinina de 30 – 49 ml/min.) a receber concomitantemente outros medicamentos que aumentam as concentrações plasmáticas de rivaroxabano (ver secção 4.5).
+ 3 Compromisso hepático Em doentes com cirrose e com compromisso hepático moderado (classificados como Child Pugh B), os níveis plasmáticos de rivaroxabano podem aumentar significativamente, o que pode originar um aumento do risco de hemorragia. Xarelto está contra-indicado em doentes com doença hepática associada a coagulopatia e risco de hemorragia clinicamente relevante. Xarelto pode ser utilizado com precaução em doentes com cirrose e com compromisso hepático moderado (Child Pugh B) se não estiver associado a coagulopatia (ver secções 4.2, 4.3 e 5.2).
+ Interacção com outros medicamentos A utilização de Xarelto não é recomendada em doentes a receber tratamento sistémico concomitante com antimicóticos azólicos (tais como cetoconazol, itraconazol, voriconazol e posaconazol) ou inibidores da protease do VIH (ex.: ritonavir). Estas substâncias activas são potentes inibidores do CYP3A4 e da glicoproteína P (gp-P) e por este motivo podem aumentar as concentrações plasmáticas de rivaroxabano até um grau clinicamente relevante que pode originar um aumento do risco hemorrágico (ver secção 4.5). Prevê-se que o fluconazol tenha menos efeito na exposição ao rivaroxabano e pode ser co-administrado com precaução.
+ Deve ter-se precaução se os doentes são concomitantemente tratados com medicamentos que afectem a hemostase tais como fármacos anti-inflamatórios não esteróides (AINEs), ácido acetilsalicílico, inibidores da agregação plaquetária ou outros agentes antitrombóticos (ver secção 4.5).
+ Outros factores de risco hemorrágico Rivaroxabano, tal como outros agentes antitrombóticos, deverá ser utilizado com precaução em doentes com risco aumentado de hemorragia, tais como: • doenças hemorrágicas congénitas ou adquiridas • hipertensão arterial grave não controlada • doença ulcerosa gastrintestinal activa • ulcerações gastrintestinais recentes • retinopatia vascular • hemorragia intracerebral e intracraniana recente • alterações vasculares intracerebrais ou intraespinais • recente cirurgia oftálmica, da coluna vertebral ou cerebral.
+ Cirurgia por fractura da anca Rivaroxabano não foi estudado em ensaios clínicos em doentes submetidos a cirurgia por fractura da anca, para avaliar a eficácia e segurança nestes doentes. Consequentemente, rivaroxabano não é recomendado nestes doentes.
+ Punção ou anestesia espinal/epidural Quando é empregue anestesia neuraxial (anestesia epidural/espinal) ou punção epidural/espinal, os doentes tratados com agentes antitrombóticos para a prevenção de complicações tromboembólicas apresentam risco de desenvolverem um hematoma espinal ou epidural, o que pode resultar em paralisia prolongada ou permanente. O risco destes eventos poderá ser aumentado pela utilização pós-operatória de catéteres epidurais internos ou pela utilização concomitante de medicamentos que afectam a hemostase. O risco pode também ser aumentado pela punção espinal ou epidural repetida ou traumática. Os doentes devem ser frequentemente monitorizados relativamente a sinais e sintomas de alteração neurológica (ex.: dormência ou fraqueza das pernas, disfunção da bexiga ou intestino). Se fôr observada alteração neurológica, são necessários o diagnóstico e o tratamento urgentes. Antes da intervenção neuraxial, o médico deve considerar o potencial benefício versus o risco em doentes tratados com anticoagulantes ou em doentes que irão ser tratados com anticoagulantes para a tromboprofilaxia. Um catéter epidural não deverá ser retirado antes de 18 horas após a última administração de rivaroxabano. A próxima dose de rivaroxabano não deve ser administrada no prazo inferior a 6 horas após remoção do catéter. Se ocorrer punção traumática, a administração do rivaroxabano deve ser adiada por 24 horas.
+ 4 Interacção com indutores do CYP3A4 A utilização concomitante de rivaroxabano com potentes indutores do CYP3A4 (ex.: rifampicina, fenitoína, carbamazepina, fenobarbital ou hipericão) pode originar a redução das concentrações plasmáticas de rivaroxabano. Os indutores potentes do CYP3A4 devem ser co-administrados com precaução (ver secção 4.5).
+ Informação sobre excipientes Xarelto contém lactose. Os doentes com problemas hereditários raros de intolerância à galactose, deficiência de lactase Lapp ou má absorção de glucose-galactose não devem tomar este medicamento.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Inibidores do CYP3A4 e da gp-P A co-administração de rivaroxabano com cetoconazol (400 mg uma vez ao dia[ od]) ou ritonavir (600 mg duas vezes ao dia[ bid]) originou um aumento de 2,6 vezes/2,5 vezes da média da AUC do rivaroxabano e um aumento de 1,7 vezes/1,6 vezes da média da Cmax do rivaroxabano, com aumentos significativos nos efeitos farmacodinâmicos o que pode originar um aumento do risco hemorrágico. Deste modo, a utilização de Xarelto não é recomendada em doentes submetidos a tratamento sistémico concomitante com antimicóticos azólicos tais como cetoconazol, itraconazol, voriconazol, posaconazol ou inibidores da protease do VIH. Estas substâncias activas são potentes inibidores do CYP3A4 e da gp-P (ver secção 4.4). Prevê-se que o fluconazol tenha menos efeito na exposição ao rivaroxabano e pode ser co-administrado com precaução.
+ Prevê-se que substâncias activas que inibam fortemente apenas uma das vias de eliminação de rivaroxabano, quer o CYP3A4 quer a gp-P, aumentem em menor grau as concentrações plasmáticas de rivaroxabano. A claritromicina (500 mg duas vezes ao dia), por exemplo, considerada como um potente inibidor do CYP3A4 e um inibidor moderado da gp-P, originou um aumento de 1,5 vezes da média da AUC do rivaroxabano e um aumento de 1,4 vezes na Cmax. Este aumento não é considerado clinicamente relevante. A eritromicina (500 mg três vezes ao dia[ tid]), que inibe moderamente o CYP3A4 e a gp-P, originou um aumento de 1,3 vezes da média da AUC e da Cmax, do rivaroxabano. Este aumento não é considerado clinicamente relevante.
+ Anticoagulantes Após a administração combinada de enoxaparina (dose única de 40 mg) com rivaroxabano (dose única de 10 mg), foi observado um efeito aditivo sobre a actividade do anti-Factor Xa, sem quaisquer efeitos adicionais sobre os testes de coagulação (TP, aPTT). A enoxaparina não afectou as propriedades farmacocinéticas do rivaroxabano. Devido ao aumento do risco de hemorragia, deve ter-se precaução se os doentes são tratados concomitantemente com quaisquer outros anticoagulantes (ver secção 4.4).
+ AINEs/inibidores da agregação plaquetária Não foi observado nenhum prolongamento, clinicamente relevante, do tempo de hemorragia, após a administração de rivaroxabano e de 500 mg de naproxeno. Contudo, poderão existir indivíduos com uma resposta farmacodinâmica mais pronunciada. Não foram observadas interacções farmacocinéticas nem farmacodinâmicas clinicamente significativas quando rivaroxabano foi co-administrado com 500 mg de ácido acetilsalicílico. O clopidogrel (dose de carga de 300 mg, seguida da dose de manutenção de 75 mg) não mostrou nenhuma interacção farmacocinética, contudo, foi observado um aumento relevante no tempo de hemorragia num subgrupo de doentes não correlacionado com a agregação plaquetária, nem com os níveis de P-selectina ou dos receptores GPIIb/IIIa. Deve ter-se precaução nos doentes tratados concomitantemente com AINEs (incluindo ácido acetilsalicílico) e inibidores da agregação plaquetária, porque estes medicamentos aumentam, normalmente, o risco de hemorragia (ver secção 4.4).
+ Indutores do CYP3A4 5 A co-administração de rivaroxabano com rifampicina, um potente indutor do CYP3A4, originou uma diminuição aproximada de 50% da média da AUC do rivaroxabano, com diminuições paralelas nos seus efeitos farmacodinâmicos. O uso concomitante de rivaroxabano com outros indutores potentes do CYP3A4 (ex.: fenitoína, carbamazepina, fenobarbital ou hipericão) pode originar também a redução das concentrações plasmáticas do rivaroxabano. Os indutores potentes do CYP3A4 devem ser co-administrados com precaução.
+ Outros tratamentos concomitantes Não foram observadas interacções farmacocinéticas ou farmacodinâmicas clinicamente relevantes quando o rivaroxabano foi co-administrado com midazolam (substracto do CYP3A4), digoxina (substracto da gp-P) ou atorvastatina (substracto do CYP3A4 e da gp-P). O rivaroxabano não inibe nem induz nenhuma isoforma importante do CYP, como o CYP3A4. Não se observou nenhuma interacção clinicamente relevante com os alimentos (ver secção 4.2).
+ Parâmetros laboratoriais Os parâmetros de coagulação (ex.: TP, aPTT, HepTest) são afectados conforme esperado pelo modo de acção do rivaroxabano (ver secção 5.1).
+ 4.6 Gravidez e aleitamento Gravidez Não existem dados da utilização de rivaroxabano em mulheres grávidas. Estudos em animais têm demonstrado toxicidade reprodutiva (ver secção 5.3). Devido à potencial toxicidade reprodutiva, ao risco intrínseco de hemorragia e à evidência de que o rivaroxabano atravessa a placenta, Xarelto está contra-indicado durante a gravidez (ver secção 4.3). As mulheres em idade fértil devem evitar engravidar durante o tratamento com rivaroxabano.
+ Lactação Não se dispõe de dados sobre a utilização de rivaroxabano em lactantes. Os dados obtidos em animais indicam que rivaroxabano é excretado no leite. Deste modo, Xarelto está contra-indicado durante a lactação (ver secção 4.3). Deve decidir-se se se deve interromper a amamentação ou interromper/abster do tratamento.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram realizados estudos sobre os efeitos na capacidade de conduzir e utilizar máquinas. Foram notificadas síncopes e tonturas no período pós-operatório que podem afectar a capacidade de conduzir e utilizar máquinas. Estas reacções adversas foram notificadas como pouco frequentes (ver secção 4.8). Os doentes com estas reacções adversas não devem conduzir ou utilizar máquinas.
+ 6 4.8 Efeitos indesejáveis
+ A segurança de rivaroxabano 10 mg foi avaliada em três estudos de fase III, incluindo 4571 doentes expostos a rivaroxabano submetidos a grande cirurgia ortopédica dos membros inferiores (substituição total da anca ou do joelho) tratados por períodos até 39 dias. No total cerca de 14% dos doentes tratados experimentaram reacções adversas. Em aproximadamente 3,3 e 1% dos doentes ocorreram hemorragias ou anemia respectivamente. Outras reacções adversas frequentes foram náuseas, aumento da GGT e um aumento das transaminases. As reacções adversas devem ser interpretadas no contexto cirúrgico. Devido ao modo de acção farmacológico, a utilização de Xarelto pode estar associada a um risco acrescido de hemorragia oculta ou evidente de qualquer tecido ou órgão, que pode resultar em anemia pós-hemorrágica. Os sinais, sintomas e gravidade (incluindo um possível desfecho fatal) irão variar de acordo com a localização e o grau ou a extensão da hemorragia. O risco de hemorragias pode ser aumentado em certos grupos de doentes, ex. doentes com hipertensão arterial grave não controlada e/ou tratamento concomitante com outros medicamentos, afectando a hemostase (ver Risco hemorrágico na secção 4.4). As complicações hemorrágicas poderão apresentar-se como fraqueza, astenia, palidez, tontura, cefaleias ou edema inexplicável. Por este motivo, ao avaliar-se o estado de qualquer doente tratado com anticoagulantes, deverá ser considerada a possibilidade de hemorragia.
+ As reacções adversas nos três estudos de fase III são apresentados no quadro 1 abaixo, por classe de sistema de órgãos (em MedDRA) e por frequência.
+ As frequências são definidas como: Frequentes: Pouco Frequentes: Raras: Muito raras: Desconhecidas:
+ ≥ 1/100 a &lt; 1/10 ≥ 1/1.000 a &lt; 1/100 ≥ 1/10.000 a &lt; 1/1.000 &lt; 1/10.000 não pode ser estimado a partir dos dados disponíveis.
+ Quadro 1. Reacções adversas emergentes do tratamento Frequentes
+ Pouco frequentes Raras Desconhecidas* Exames complementares de diagnóstico Aumento da GGT, Aumento da lipase, aumento das aumento da amilase, transaminases aumento da (incl. aumento da bilirrubina no sangue, ALT, aumento da aumento da HDL, AST) aumento da fosfatase alcalina Doenças cardíacas Taquicardia Doenças do sangue e do sistema linfático Anemia (incl. Trombocitopenia parâmetros (incl. aumento da laboratoriais contagem de respectivos) plaquetas) Doenças do sistema nervoso Síncope (incl. perda de consciência), tonturas, cefaleias Doenças gastrintestinais Náuseas Obstipação, diarreia, dores abdominais e gastrintestinais (incl.
+ Aumento da bilirrubina conjugada (com ou sem aumento concomitante da ALT)
+ 7 Frequentes Pouco frequentes Raras Desconhecidas* dor abdominal superior, e desconforto no estômago), dispepsia (incl. desconforto epigástrico), boca seca, vómitos
+ Doenças renais e urinárias Compromisso renal (incl. aumento da creatinina no sangue, aumento de ureia no sangue) Afecções dos tecidos cutâneo e subcutâneo Prurido (incl. casos raros de prurido generalizado), exantema, urticária (incl. casos raros de urticária generalizada), contusão Afecções músculo-esqueléticas e do tecido conjuntivo Dor nas extremidades Complicações de intervenções relacionadas com lesões e intoxicações Secreção da ferida Vasculopatias Hemorragia pós-intervenção (incl. anemia pós-operatória e hemorragia da ferida)
+ Hemorragia (incl. hematoma e casos raros de hemorragia muscular), hemorragia do tracto gastrintestinal (incl. hemorragia gengival, hemorragia rectal, hematémese), hematúria (incl. presença de sangue na urina), hemorragia do tracto genital (incl. menorragia), hipotensão (incl. diminuição da pressão arterial, hipotensão intraoperatória), hemorragia nasal
+ Hemorragia num orgão crítico (ex.: cérebro), hemorragia adrenal, hemorragia conjuntival, hemoptises
+ Perturbações gerais e alterações no local de administração Edema localizado, edema periférico, sensação de mal-estar (incl. fadiga, astenia), febre
+ 8 Frequentes Pouco frequentes Raras Desconhecidas* Doenças do sistema imunitário Afecções hepatobiliares
+ Dermatite alérgica Hipersensibilidade Anomalias da função hepática Icterícia * Foram notificados efeitos adversos em outros ensaios clínicos para além dos estudos de fase III em doentes submetidos a grande cirurgia ortopédica dos membros inferiores
+ 4.9 Sobredosagem A sobredosagem após a administração de rivaroxabano poderá originar complicações hemorrágicas devido às suas propriedades farmacodinâmicas. Não existe um antídoto especifico antagonizando o efeito farmacodinâmico do rivaroxabano. Em caso de sobredosagem com rivaroxabano, poderá ser considerada a utilização de carvão activado para reduzir a absorção. Caso ocorra hemorragia, o seu tratamento poderá incluir os seguintes passos: • atraso na próxima administração do rivaroxabano ou interrupção do tratamento se se considerar adequado. Rivaroxabano tem semi-vidas terminais médias entre 7 e 11 horas (ver secção 5.2). • deve considerar-se o tratamento sintomático adequado, ex.: compressão mecânica, intervenção cirúrgica, reposição hídrica e apoio hemodinâmico, transfusão de componentes ou derivados do sangue. Se a hemorragia potencialmente fatal não puder ser controlada com as medidas anteriores, pode considerar-se a administração de factor VIIa recombinante. Contudo, não existe actualmente experiência com a utilização de factor VIIa recombinante em indivíduos tratados com rivaroxabano. A recomendação é baseada nos dados não clínicos limitados. O ajuste da dose de factor VIIa recombinante deve ser considerado e titulado em função do melhoria da hemorragia.
+ Não se espera que o sulfato de protamina e a vitamina K afectem a actividade anticoagulante do rivaroxabano. Não existe nem justificação científica sobre o benefício nem experiência com a utilização de hemostáticos sistémicos (ex.: desmopressina, aprotinina, ácido tranexâmico, ácido aminocapróico) em indivíduos tratados com rivaroxabano. Devido à elevada ligação às proteínas, não é esperado que o rivaroxabano seja dialisável.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Outros agentes antitrombóticos, código ATC: B01AX06
+ Mecanismo de acção O rivaroxabano é um inibidor directo do factor Xa, altamente selectivo, com biodisponibilidade oral. A inibição do Factor Xa interrompe as vias intrínseca e extrínseca da cascata de coagulação sanguínea, inibindo a formação de trombina e o desenvolvimento de trombos. O rivaroxabano não inibe a trombina (factor II activado) e não foram demonstrados efeitos sobre as plaquetas.
+ Efeitos farmacodinâmicos No ser humano foi observada inibição dose dependente da actividade do Factor Xa. O tempo de protrombina (TP) é influenciado pelo rivaroxabano de uma forma dependente da dose, com uma estreita correlação com as concentrações plasmáticas (valor r igual a 0,98) quando se emprega Neoplastin para o ensaio. Outros reagentes originariam resultados diferentes. A leitura do TP deve ser feita em segundos, porque TIN (Taxa Internacional Normalizada) está apenas calibrada e validada para os cumarínicos e não pode ser usada para nenhum outro anticoagulante. Em doentes submetidos a
+ 9 grande cirurgia ortopédica, os percentis 5/95 de TP (Neoplastin) 2-4 horas após a ingestão do comprimido (ou seja, no momento do efeito máximo) variaram de 13 a 25 seg. (valores basais antes da cirurgia 12 a 15 seg.). O tempo de tromboplastina parcial activada (aPPT) e o HepTest são igualmente prolongados, de forma dose-dependente; contudo, não são recomendados para avaliar o efeito farmacodinâmico do rivaroxabano. A actividade Anti-Factor Xa é também influenciada pelo rivaroxabano; porém, nenhum padrão para a calibração está disponível. Não há necessidade de monitorização dos parâmetros da coagulação durante o tratamento com rivaroxabano na pratica clínica.
+ Eficácia clínica e segurança O programa clínico de rivaroxabano foi concebido para demonstrar a eficácia de rivaroxabano para a prevenção de TEV, ou seja, trombose venosa profunda proximal e distal (TVP) e embolia pulmonar (EP), em doentes submetidos a grande cirurgia ortopédica dos membros inferiores. Mais de 9.500 doentes (7.050 submetidos a cirurgia de substituição total da anca e 2.531 submetidos a cirurgia de substituição total do joelho) foram estudados em estudos clínicos de fase III, controlados, aleatorizados, e de dupla ocultação, o programa RECORD. O rivaroxabano 10 mg uma vez por dia (1 x ao dia), iniciado não antes de 6 horas após a intervenção foi comparado com a enoxaparina 40 mg, uma vez ao dia, iniciada 12 horas antes da intervenção. Em todos os três estudos de fase III (ver quadro 2) rivaroxabano reduziu significativamente a taxa global de TEV (qualquer DTP, EP venograficamente detectada ou sintomática não fatal e morte) e TEV grave (DTP proximal, EP não fatal e TEV relacionada com a morte), os principais marcadores pré-definidos de eficácia primária e secundária. Além disso, nos três estudos, a taxa de TEV sintomática (DVP sintomática, EP não fatais, TEV relacionada com a morte) foi menor nos doentes tratados com rivaroxabano, em comparação com os doentes tratados com enoxaparina. O principal marcador de segurança, hemorragia grave, apresentou taxas comparáveis para os doentes tratados com 10 mg de rivaroxabano comparado com 40 mg de enoxaparina.
+ Quadro 2: Resultados de segurança e eficácia dos estudos clínicos de fase III
+ RECORD 1 RECORD 2 RECORD 3 População do estudo Posologia e duração do tratamento após cirurgia TEV total TEV grave
+ 4541 doentes submetidos a cirurgia de substituição total da anca Rivaroxabano Enoxaparina p 10 mg uma 40 mg uma vez ao dia vez ao dia 35 ± 4 dias 35 ± 4 dias 18 (1,1%) 58 (3,7%) &lt; 0,001 4 (0,2%) 33 (2,0%) &lt; 0,001
+ 2509 doentes submetidos a cirurgia de substituição total da anca Rivaroxabano Enoxaparina p 10 mg uma 40 mg uma vez ao dia 35 vez ao dia ± 4 dias 12 ± 2 dias 17 (2,0%) 81 (9,3%) &lt; 0,001 6 (0,6%) 49 (5,1%) &lt; 0,001
+ 2531 doentes submetidos a cirurgia de substituição total do joelho Rivaroxabano Enoxaparina p 10 mg uma 40 mg uma vez ao dia vez ao dia 12 ± 2 dias 12 ± 2 dias 79 (9,6%) 166 (18,9%) &lt; 0,001 9 (1,0%) 24 (2,6%) 0,01
+ TEV sintomática 6 (0,4%) 11 (0,7%) 3 (0,4%) 15 (1,7%) 8 (1,0%) 24 (2,7%) Hemorragias grave 6 (0,3%) 2 (0,1%) 1 (0,1%) 1 (0,1%) 7 (0,6%) 6 (0,5%) A análise dos resultados agrupados dos ensaios clínicos de Fase III corroborou os dados obtidos em estudos individuais sobre a redução de TEV total, TEV grave e sintomática com 10 mg de rivaroxabano, uma vez por dia, em comparação com 40 mg de enoxaparina, uma vez por dia.
+ 5.2 Propriedades farmacocinéticas Absorção A biodisponibilidade absoluta do rivaroxabano é elevada (80%-100%) para a dose de 10 mg. Rivaroxabano é rapidamente absorvido e atinge as concentrações máximas (Cmax) 2 a 4 horas após a ingestão do comprimido. A ingestão com alimentos não afecta a AUC ou a Cmax da dose de 10 mg de rivaroxabano. A dose de 10 mg de rivaroxabano pode ser tomada com ou sem alimentos. A farmacocinética do rivaroxabano é aproximadamente linear até cerca de 15 mg uma vez ao dia. Em doses superiores, o rivaroxabano revela uma absorção limitada pela dissolução com uma diminuição da biodisponibilidade e uma diminuição da taxa de absorção com o aumento da dose. Esta é mais acentuada em jejum do que no estado alimentado. A variabilidade na farmacocinética do rivaroxabano
+ 10 é moderada com variabilidade inter-individual (CV%) variando entre os 30% e os 40%, com excepção do dia da cirurgia e do dia seguinte quando a variabilidade na exposição é elevada (70%).
+ Distribuição A ligação às proteínas plasmáticas no Homem é elevada, de aproximadamente 92% a 95%, sendo a albumina sérica o principal componente de ligação. O volume de distribuição é moderado sendo o Vd de aproximadamente 50 litros.
+ Metabolismo e Eliminação Da dose de rivaroxabano administrada, aproximadamente 2/3 sofre degradação metabólica, sendo metade da qual eliminada por via renal e a outra metade eliminada por via fecal. O 1/3 final da dose administrada sofre excreção renal directa como substância activa inalterada na urina, principalmente por secreção renal activa. O rivaroxabano é metabolizado através do CYP3A4, CYP2J2 e por mecanismos independentes do CYP. Os principais locais de biotransformação são a degradação oxidativa da porção da morfolinona e hidrólise das ligações de amida. Com base em investigações in vitro, o rivaroxabano é um substrato das proteínas transportadoras gp-P (glicoproteína P) e Bcrp (proteína de resistência do cancro da mama). O rivaroxabano inalterado é o composto mais importante no plasma humano, sem que estejam presentes outros metabolitos circulantes activos ou de relevo. Com uma taxa de depuração sistémica de aproximadamente 10 l/h, o rivaroxabano pode ser classificado como um fármaco com baixa taxa de depuração. Após a administração intravenosa de uma dose de 1 mg a semi-vida de eliminação é de cerca de 4,5 horas. Após a administração oral de uma dose de 10 mg, a eliminação torna-se limitada pela taxa de absorção com semi-vidas terminais médias de 7 a 11 horas.
+ Populações especiais Sexo/Idosos (acima de 65 anos) Os doentes idosos apresentaram concentrações plasmáticas mais elevadas do que doentes mais jovens, com valores médios de AUC de aproximadamente 1,5 vezes superiores, devido principalmente a uma redução (aparente) na taxa de depuração total e renal. Não são necessários ajustes posológicos. Não se verificaram diferenças clinicamente relevantes na farmacocinética e farmacodinâmica entre doentes do sexo masculino ou feminino.
+ Diferentes categorias de peso Os extremos no peso corporal (&lt; 50 kg ou &gt; 120 kg) tiveram apenas uma pequena influência sobre as concentrações plasmáticas do rivaroxabano (menos de 25%). Não são necessários ajustes posológicos.
+ Diferenças Inter-étnicas Não foram observadas diferenças inter-étnicas clinicamente relevantes em relação à farmacocinética e farmacodinâmica, entre os doentes Caucasianos, Africano-Americanos, Hispânicos, Japoneses ou Chineses.
+ Compromisso hepático Os doentes com cirrose e com compromisso hepático ligeiro (classificados como Child Pugh A) apresentaram, apenas, pequenas alterações na farmacocinética do rivaroxabano (aumento de 1,2 vezes da AUC do rivaroxabano, em média), quase comparável ao grupo controlo saudável correspondente. Em doentes com cirrose e com compromisso hepático moderado (classificados como Child Pugh B), a média da AUC do rivaroxabano foi significativamente aumentada em 2,3 vezes, em comparação com voluntários saudáveis. A AUC não ligada foi aumentada 2,6 vezes. Estes doentes tiveram também diminuição da eliminação renal do rivaroxabano, semelhante aos doentes com compromisso renal moderado. Não existem dados em doentes com compromisso hepático grave. A inibição da actividade do Factor Xa aumentou de um factor de 2,6 em doentes com compromisso hepático moderado em comparação com voluntários saudáveis; de forma semelhante, o prolongamento do TP aumentou de um factor de 2,1. Doentes com insuficiência hepática moderada foram mais sensíveis ao rivaroxabano resultando numa relação farmacocinética/farmacodinâmica mais acentuada entre a concentração e o TP.
+ 11 Xarelto está contra-indicado em doentes com doença hepática associada a coagulopatia e risco de hemorragia clinicamente relevante. Xarelto pode ser utilizado com precaução em doentes com cirrose e com compromisso hepático moderado (Child Pugh B) se não estiver associado a coagulopatia (ver secções 4.3 e 4.4).
+ Compromisso renal Verificou-se um aumento da exposição a rivaroxabano correlacionado com a diminuição da função renal, avaliada através das determinações da taxa de depuração da creatinina. Nos indivíduos com compromisso renal ligeiro (taxa de depuração da creatinina de 50-80 ml/min.), moderado (taxa de depuração da creatinina 30-49 ml/min.) e grave (taxa de depuração da creatinina 15 – 29 ml/min.), as concentrações plasmáticas (AUC) de rivaroxabano aumentaram 1,4, 1,5 e 1,6 vezes, respectivamente. Os aumentos correspondentes nos efeitos farmacodinâmicos foram mais acentuados. Em indivíduos com compromisso renal ligeiro, moderado e grave a inibição total da actividade do factor Xa aumentou por um factor de 1,5, 1,9 e 2,0, respectivamente, em comparação com voluntários saudáveis; o prolongamento do TP aumentou, de forma semelhante, por um factor de 1,3, 2,2 e 2,4 respectivamente. Não existem dados em doentes com uma taxa de depuração de creatinina &lt; 15 ml/min .. Devido à elevada ligação às proteínas plasmáticas, não se espera que o rivaroxabano seja dialisável. A utilização não é recomendada em doentes com uma taxa de depuração de creatinina &lt; 15 ml/min .. Xarelto deve ser usado com precaução em doentes com uma taxa de depuração de creatinina entre 15 – 29 ml/min. (ver secção 4.4).
+ Relação farmacocinética/farmacodinâmica A relação farmacocinética/farmacodinâmica entre a concentração plasmática de rivaroxabano e os diversos marcadores farmacodinâmicos (inibição do Factor Xa, aPTT, Heptest) tem sido avaliada após a administração de um amplo intervalo de doses (5-30 mg duas vezes ao dia). 10 mg de rivaroxabano uma vez ao dia resulta numa Cmax de cerca de 125 μg/l no estado estacionário. A relação entre a concentração de rivaroxabano e a actividade do Factor Xa foi melhor descrita por um modelo Emax. Para TP, os dados são, geralmente, melhor descritos pelo modelo de intersecção linear. Dependendo dos diferentes reagentes TP utilizados, o declive diferiu consideravelmente. Quando foi utilizada TP Neoplastin, TP no estado basal foi de cerca de 13 seg. e o declive foi de 3 a 4 seg. (100 μg/l). Os resultados das análises farmacocinéticas/farmacodinâmicas na fase II foram consistentes com os dados estabelecidos nos indivíduos saudáveis. Nos doentes, o Factor Xa e TP no estado basal foram influenciados pela cirurgia, resultando numa diferença no declive concentração-TP entre o dia após a cirurgia e o estado estacionário.
+ 5.3 Dados de segurança pré-clínica Os dados não clinícos com base nos estudos convencionais de farmacologia de segurança, toxicidade por dose única, fototoxicidade e genotoxicidade, não revelaram nenhum risco especial para o Homem. Os efeitos observados em estudos de toxicidade de dose repetida foram devidos principalmente à actividade farmacodinâmica exagerada do rivaroxabano. Nos ratos, o aumento dos níveis plasmáticos de IgG e IgA foram observados em níveis de exposição clinicamente relevantes. Os estudos em animais demonstraram toxicidade reprodutiva relacionada com o modo de acção farmacológico de rivaroxabano (ex. complicações hemorrágicas). Em concentrações plasmáticas clinicamente relevantes foram observados toxicidade embrio-fetal (perda pós-implantação, ossificação retardada/desenvolvida, múltiplas manchas hepáticas de cor clara) e um aumento da incidência de malformações frequentes, bem como alterações placentárias. No estudo pré-e pós-natal em ratos, observou-se redução da viabilidade da descendência em doses que foram tóxicas para as mães.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1. Lista dos excipientes Núcleo do comprimido: Celulose microcristalina 12 Croscarmelose sódica Lactose mono-hidratada Hipromelose Laurilsulfato de sódio Estearato de magnésio
+ Revestimento do comprimido: Macrogol 3350 Hipromelose Dióxido de titânio (E171) Óxido de ferro vermelho (E172)
+ 6.2 Incompatibilidades Não aplicável. 6.3 Prazo de validade 3 anos 6.4 Precauções especiais de conservação
+ Este medicamento não necessita de condições especiais de conservação.
+ 6.5 Natureza e conteúdo do recipiente Blisters de PP/folha alumínio ou blisters PVC/PVDC/folha alumínio em embalagens de 5,10,30 e 100 comprimidos. É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ Não existem requisitos especiais. 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Bayer HealthCare AG D-51368 Leverkusen Alemanha
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ { DD/MM/AAAA}
+ 10. DATA DA REVISÃO DO TEXTO { MM/AAAA}
+ 13 14 ANEXO II
+ A. TITULAR(ES) DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 15 A TITULAR(ES) DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do(s) fabricante(s) responsável(veis) pela libertação do lote
+ Bayer HealthCare AG D-51368 Leverkusen Alemanha
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento sujeito a receita médica. • CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ Não aplicável • OUTRAS CONDIÇÕES
+ Sistema de farmacovigilância O Titular da Autorização de Introdução no Mercado deve garantir que o sistema de farmacovigilância, tal como descrito na versão 9.2, apresentado no Módulo 1. 8.1 do Pedido de Autorização de Introdução no Mercado, está implementado e em funcionamento antes e durante a comercialização do produto.
+ Plano de Gestão de Risco O Titular da Autorização de Introdução no Mercado compromete-se a realizar os estudos e actividades adicionais de farmacovigilância descritos no Plano de Farmacovigilância, tal como acordado na versão 1.4 do Plano de Gestão de Risco (PGR), apresentado no Módulo 1. 8.2. do Pedido de Autorização de Introdução no Mercado e quaisquer actualizações subsequentes do PGR acordadas pelo CHMP
+ De acordo com a Norma Orientadora do CHMP relativa aos Sistemas de Gestão do Risco para medicamentos de uso humano, o PGR actualizado deve ser submetido simultaneamente com o Relatório Periódico de Segurança (RPS) seguinte.
+ Adicionalmente, deve ser submetido um PGR actualizado • Quando é recebida nova informação que possa ter impacto na actual Especificação de Segurança, Plano de Farmacovigilância ou actividades para minimização do risco. • No prazo máximo de 60 dias após se alcançar um resultado importante (em farmacovigilância ou minimização do risco) • Após pedido da EMEA
+ 16 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 17 A. ROTULAGEM
+ 18 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ Cartonagem exterior 1. NOME DO MEDICAMENTO Xarelto 10 mg comprimidos revestidos por película Rivaroxabano
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada comprimido revestido por película contém 10 mg rivaroxabano.
+ 3. LISTA DOS EXCIPIENTES Contém lactose. Ver folheto informativo para mais informações.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 5 comprimidos revestidos por película 10 comprimidos revestidos por película 30 comprimidos revestidos por película 100 comprimidos revestidos por película
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral. Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 19 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Bayer HealthCare AG, D-51368 Leverkusen, Alemanha
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/00/000/000 13. NÚMERO DO LOTE Lot 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Xarelto 10 mg 20 INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS “ BLISTER ” OU FITAS CONTENTORAS
+ Blister 1. NOME DO MEDICAMENTO Xarelto 10 mg comprimidos Rivaroxabano 2. NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Bayer (logo) 3. PRAZO DE VALIDADE EXP 4. NÚMERO DO LOTE Lot 5. OUTRAS 21 B. FOLHETO INFORMATIVO
+ 22 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Xarelto 10 mg comprimidos revestidos por película Rivaroxabano
+ Leia atentamente este folheto antes de tomar este medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é Xarelto e para que é utilizado 2. Antes de tomar Xarelto 3. Como tomar Xarelto 4. Efeitos secundários possíveis 5. Como conservar Xarelto 6. Outras informações
+ 1. O QUE É XARELTO E PARA QUE É UTILIZADO
+ Xarelto é usado para prevenir a formação de coágulos de sangue nas suas veias após artoplastia da anca ou joelho. O seu médico receitou-lhe este medicamento porque após uma cirurgia tem um risco aumentado de formação de coágulos de sangue.
+ Xarelto pertence a um grupo de medicamentos chamados agentes antitrombóticos. Actua através do bloqueio a um factor de coagulação sanguínea (factor Xa) reduzindo assim a tendência do sangue para formar coágulos.
+ 2. ANTES DE TOMAR XARELTO Não tome Xarelto -se é alérgico (hipersensível) ao rivaroxabano ou a qualquer outro componente de Xarelto. Os
+ componentes são apresentados no fim deste folheto
+ -se está a sangrar excessivamente
+ -se tem uma doença no fígado, que leva a um aumento do risco de hemorragias
+ -se está grávida ou a amamentar
+ Não tome Xarelto e informe o seu médico se alguma destas situações se aplica a si.
+ Tome especial cuidado com Xarelto -se tem uma doença moderada ou grave nos rins
+ -se tem uma doença do fígado moderada
+ -se tem um risco aumentado de hemorragia, tais como:
+ ▪ ▪ ▪ ▪
+ alterações da coagulação tensão arterial muito alta, não controlada por tratamento médico úlcera activa ou úlcera recente do estômago ou intestino um problema com os vasos sanguíneos do fundo do olho (retinopatia)
+ ▪ ▪
+ hemorragia cerebral recente (hemorragia intracraniana ou intracerebral) problemas com os vasos sanguíneos do cérebro ou medula espinal
+ ▪
+ uma cirurgia recente ao cérebro, à coluna vertebral ou aos olhos
+ 23 Se algumas destas situações se aplica a si, informe o seu médico antes de tomar Xarelto. O seu médico decidirá se deve ser tratado com Xarelto e se deve ser mantido sob uma observação mais atenta.
+ -Xarelto não é recomendado após uma cirurgia de uma fractura da anca.
+ -em crianças e adolescentes, Xarelto não é recomendado para pessoas com idade inferior a
+ 18 anos. Não existe informação suficiente sobre a sua utilização em crianças e adolescentes.
+ -se a cirurgia envolve a colocação de um catéter ou injecção na coluna vertebral (ex.:
+ anestesia epidural ou espinal ou redução da dor):
+ ▪
+ é muito importante tomar Xarelto antes e após a injecção ou remoção do catéter, exactamente às horas que o seu médico lhe indicou
+ ▪
+ informe imediatamente o seu médico se apresentar adormecimento ou fraqueza das pernas ou problemas com o seu intestino ou bexiga após terminar a anestesia, porque é necessário um cuidado urgente.
+ Ao tomar Xarelto com outros medicamentos Informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica.
+ -Se está a tomar:
+ ▪
+ alguns medicamentos para as infecções fúngicas (ex.: cetoconazol, itraconazol, voriconazol, posaconazol, fluconazol), a menos que seja apenas aplicado na pele
+ ▪ ▪
+ alguns medicamentos anti-virais para VIH/SIDA (ex.: ritonavir) outros medicamentos para diminuir a coagulação sanguínea (ex.: enoxaparina ou clopidogrel)
+ ▪
+ anti-inflamatórios e medicamentos para aliviar a dor (ex.: naproxeno ou ácido acetilsalicílico)
+ Informe o seu médico antes de tomar Xarelto, porque o seu efeito pode estar aumentado. O
+ seu médico decidirá se deve ser tratado com Xarelto e se deve ser mantido sob uma observação mais atenta.
+ -Se está a tomar:
+ ▪
+ alguns medicamentos para o tratamento da epilepsia (fenitoína, carbamazepina, fenobarbital),
+ ▪ ▪ Informe
+ hipericão, um produto à base de plantas utilizado para a depressão, rifampicina, um antibiótico o seu médico antes de tomar Xarelto, porque o seu efeito pode estar aumentado. O
+ seu médico decidirá se deve ser tratado com Xarelto e se deve ser mantido sob uma observação mais atenta.
+ Ao tomar Xarelto com alimentos e bebidas Xarelto pode ser tomado com ou sem alimentos.
+ Gravidez e aleitamento Se está grávida ou a amamentar não tome Xarelto. Se existe a possibilidade de poder ficar grávida, utilize um contraceptivo fiável, enquanto toma Xarelto. Se engravidar, enquanto está a tomar Xarelto, informe imediatamente o seu médico, que decidirá como deverá ser tratada.
+ Condução de veículos e utilização de máquinas Não foram realizados estudos sobre os efeitos na capacidade de conduzir e utilizar máquinas. Contudo, Xarelto pode causar efeitos indesejáveis tais como tonturas ou desmaio. Não deve conduzir ou utilizar máquinas se fôr afectado por estes sintomas. Para o Xarelto, estes efeitos indesejáveis são pouco frequentes (ver secção 4 “ Efeitos secundários possíveis ”).
+ Informações importantes sobre alguns componentes de Xarelto
+ 24 Xarelto contém lactose. Se lhe foi dito pelo seu médico que tem intolerância a alguns açúcares, contacte o seu médico antes de tomar Xarelto.
+ 3. COMO TOMAR XARELTO Tome sempre Xarelto de acordo com as indicações do médico. Fale com o seu médico ou farmacêutico se tiver dúvidas.
+ Que quantidade tomar A dose habitual é 1 comprimido (10 mg) uma vez ao dia. Engolir o comprimido de preferência com água. Xarelto pode ser tomado com ou sem alimentos.
+ Quando tomar Xarelto Tome o primeiro comprimido entre 6-10 horas após a operação. Depois, tome um comprimido todos os dias, até que o seu médico lhe diga para parar. Tente tomar o comprimido sempre à mesma hora, todos os dias, para ajudá-lo a lembrar-se da sua toma. Se foi submetido a uma grande cirurgia da anca, tomará normalmente os comprimidos durante 5 semanas. Se foi submetido a uma grande cirurgia do joelho, tomará normalmente os comprimidos durante 2 semanas.
+ Se tomar mais Xarelto do que deveria Contacte imediatamente o seu médico se tiver tomado demasiados comprimidos de Xarelto. Tomar Xarelto em excesso aumenta o risco de hemorragia.
+ Caso se tenha esquecido de tomar Xarelto Caso se tenha esquecido de uma dose, tome-a assim que se lembrar. Tome o próximo comprimido no dia seguinte e, em seguida, continue a tomar o comprimido uma vez ao dia como habitualmente. Não tome uma dose a dobrar para compensar um comprimido que se esqueceu de tomar.
+ Se parar de tomar Xarelto Não pare de tomar Xarelto sem falar primeiro com o seu médico, porque Xarelto impede o desenvolvimento de uma situação grave.
+ Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou farmacêutico.
+ 4. EFEITOS SECUNDÁRIOS POSSIVEIS Como todos os medicamentos, Xarelto pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ Como outros medicamentos similares (agentes antitrombóticos), Xarelto pode causar hemorragias que podem potencialmente apresentar risco de vida. Em alguns casos, estas hemorragias não são óbvias. Informe o seu médico, se sofre de algum dos seguintes efeitos adversos: − perda de sangue prolongada ou excessiva − excepcional fraqueza, cansaço, palidez, tontura, dores de cabeça ou inchaço inexplicado. O seu médico pode decidir mantê-lo sob uma observação mais atenta ou alterar a forma como está a ser tratado.
+ A frequência dos possíveis efeitos indesejáveis listados em baixo é definida utilizando a seguinte convenção:
+ 25 muito frequentes (afectam mais de 1 utilizador em 10) frequentes (afectam 1 a 10 utilizadores em 100) pouco frequentes (afectam 1 a 10 utilizadores em 1.000) raros (afectam 1 a 10 utilizadores em 10.000) muito raros (afectam menos de 1 utilizador em 10.000) não conhecidas (frequência não pode ser estimada a partir dos dados disponíveis).
+ Efeitos secundários frequentes -perda de sangue após cirurgia
+ -redução dos glóbulos vermelhos o que pode provocar palidez da pele e causar fraqueza ou falta de
+ fôlego
+ -sensação de enjoo
+ -testes sanguíneos poderão demonstrar um aumento das enzimas do fígado
+ Efeitos secundários pouco frequentes -perda de sangue do estômago ou intestino, perda de sangue genital, perda de sangue pelo nariz
+ -hemorragia num tecido ou uma cavidade do seu corpo (hematoma, nódoas negras)
+ -sangue na urina
+ -secreção de sangue ou fluído de uma ferida cirúrgica
+ -aumento do batimento cardíaco
+ -tensão arterial baixa
+ -sensação de mal-estar (fraqueza, cansaço), dores de cabeça, tonturas, desmaio
+ -dor de estômago, indigestão, prisão de ventre, diarreia, má disposição
+ -boca seca
+ -inchaço localizado, inchaço dos membros
+ -febre
+ -dor nos membros
+ -erupção cutânea, comichão na pele, urticária
+ -alteração da função dos rins
+ -testes sanguíneos poderão demonstrar um aumento da bilirrubina, de algumas enzimas pancreáticas
+ ou do número de plaquetas
+ Efeitos adversos raros -alteração da função do fígado
+ -reacções cutâneas alérgicas
+ Efeitos secundários onde a frequência não é conhecida
+ -hemorragia num órgão crítico (ex.: o seu cérebro)
+ -hemorragia supra-renal
+ -hemorragia da parte branca dos olhos
+ -tossir sangue
+ -amarelecimento da pele e dos olhos (icterícia)
+ -hipersensibilidade
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR XARELTO Manter fora do alcance e da vista das crianças.
+ Não utilize Xarelto após o prazo de validade impresso na embalagem exterior e em cada blister após EXP. O prazo de validade corresponde ao último dia do mês indicado.
+ Este medicamento não necessita de condições especiais de conservação.
+ 26 Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Xarelto -A substância activa é o rivaroxabano. Cada comprimido contém 10 mg de rivaroxabano.
+ -Os outros componentes são:
+ Núcleo do comprimido: celulose microcristalina, croscarmelose sódica, lactose monohidratada, hipromelose, laurilsulfato de sódio, estearato de magnésio. Revestimento do comprimido: macrogol 3350, hipromelose, dióxido de titânio (E171), óxido de ferro vermelho (E172).
+ Qual o aspecto de Xarelto e conteúdo da embalagem Os comprimidos revestidos por película são de cor vermelho claro, redondos e gravados com cruz Bayer numa das faces e na outra face “ 10 ” e um triângulo. São apresentados em blisters, em embalagens de 5,10,30 e 100 comprimidos. É possível que não sejam comercializadas todas as apresentações.
+ Titular da Autorização de Introdução no Mercado e Fabricante
+ Bayer HealthCare AG D-51368 Leverkusen Alemanha
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado:
+ Luxembourg/Luxemburg België/Belgique/Belgien Bayer S. A./N. V. Bayer S. A./N. V. Tél/Tel: +32 2 535 63 11 България Байер България ЕООД
+ Tél/Tel: +32 2 535 63 11 Magyarország Bayer Hungária KFT
+ Тел: +359 02 81 401 01 Česká republika Bayer s. r. o.
+ Tel: +36 14 87 41 00 Malta Alfred Gera and Sons Ltd.
+ Tel: +420 2 71 73 06 61 Danmark Bayer A/S
+ Tel: +356 21 44 62 05 Nederland Bayer B. V., Bayer Schering Pharma
+ Tlf: +45 45 23 50 00 Deutschland Bayer Vital GmbH
+ Tel: +31 297 28 06 66 Norge Bayer AS Tel: +49 214 30 513 48 Eesti UAB Bayer Eesti filiaal
+ Tlf. +47 24 11 18 00 Österreich Bayer Austria Ges. m. b. H.
+ Tel: +372 655 85 65 Ελλάδα Bayer Ελλάς ΑΒΕΕ
+ Tel: +43 1 711 46 0 Polska Bayer Sp. z o. o.
+ Τηλ: +30 210 618 75 00 España Química Farmacéutica Bayer S. L.
+ Tel.: +48 22 572 35 00 Portugal Bayer Portugal S. A
+ Tel: +34 93 495 65 00 Tel: +351 21 416 42 00 27 France Bayer Santé Tél: +33 3 20 20 80 80 Ireland Bayer Limited Tel: +353 1 299 93 13 Ísland Vistor hf. Sími: +354 535 70 00 Italia Bayer S. p. A. Tel: +39 02 397 81 Κύπρος NOVAGEM Limited Τηλ:+ 357 22 74 77 47 Latvija UAB Bayer Latvijas filiāle Tel: +371 67 84 55 63 Lietuva UAB Bayer, Bayer Schering Pharma Tel. +37 05 23 36 868
+ România SC Bayer SRL Tel: +40 21 528 59 00 Slovenija Bayer d. o. o. Tel.: +386 1 58 14 400 Slovenská republika Bayer, spol. s r. o. Tel: +42 12 59 21 31 11 Suomi/Finland Bayer Oy, Bayer Schering Pharma Puh/Tel: +358 20 785 21 Sverige Bayer AB Tel: +46 8 580 223 00 United Kingdom Bayer plc Tel: +44 1635 563000
+ Este folheto foi aprovado pela última vez em{ MM/AAAA}
+ 28

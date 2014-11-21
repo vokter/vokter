@@ -1,0 +1,235 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. DENOMINAÇÃO DO MEDICAMENTO
+ Pedea 5 mg/ml solução injectável 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada mililitro contém 5 mg de ibuprofeno. Cada ampola de 2 ml contém 10 mg de ibuprofeno.
+ Excipientes, ver secção 6.1. 3. FORMA FARMACÊUTICA Solução injectável. Solução límpida, incolor a ligeiramente amarelada.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas No tratamento da persistência do canal arterial hemodinamicamente significativa em recém-nascidos pré-termo com idade gestacional inferior a 34 semanas.
+ 4.2 Posologia e modo de administração Apenas para via intravenosa. O tratamento com Pedea deve apenas ser realizado numa unidade de cuidados intensivos neonatais sob supervisão de um neonatologista experiente. Cada ciclo terapêutico consiste em três doses intravenosas de Pedea administradas com 24 horas de intervalo. A dose de ibuprofeno é ajustada ao peso corporal da seguinte forma:
+ -1a injecção: 10 mg/kg,
+ -2a e 3a injecções: 5 mg/kg.
+ Caso o canal arterial não encerre nas 48 horas posteriores à última injecção ou se este vier a reabrir poderá ser iniciado um segundo ciclo terapêutico, com três doses, tal como acima indicado. Se a condição permanecer inalterada após o segundo ciclo terapêutico, poderá ser necessário recorrer a cirurgia do canal arterial.
+ Modo de administração: Pedea deve ser administrado na forma de uma curta perfusão, ao longo de 15 minutos, de preferência não diluído. Se necessário, o volume de injecção pode ser ajustado com solução injectável de cloreto de sódio 9 mg/ml (0,9%) ou com solução injectável de glicose 50 mg/ml (5%). Qualquer porção de solução não utilizada deve ser rejeitada. O volume total de solução injectado deve ter em consideração o volume total diário de fluidos administrado.
+ Caso ocorra anúria ou manifesta oligúria após a primeira ou segunda dose, deve suspender-se a dose seguinte até que o débito de urina retorne aos níveis normais.
+ 4.3 Contra-indicações Pedea está contra-indicado em recém-nascidos com:
+ -infecção potencialmente fatal;
+ -hemorragia activa, especialmente intracraniana ou hemorragia gastrointestinal;
+ 2
+ -trombocitopenia ou anomalias da coagulação;
+ -função renal seriamente comprometida;
+ -doença cardíaca congénita na qual a persistência do canal arterial é necessária para a
+ manutenção de um fluxo sanguíneo pulmonar ou sistémico satisfatório (por exemplo, atresia da pulmonar, formas graves de tetralogia de Fallot, coarctação grave da aorta);
+ -enterocolite necrosante conhecida ou suspeitada;
+ -hipersensibilidade ao ibuprofeno ou a qualquer dos excipientes.
+ 4.4 Advertências e precauções especiais de utilização
+ Antes da administração de Pedea deve ser realizado um exame ecocardiográfico apropriado por forma a detectar uma persistência do canal arterial hemodinamicamente significativa e excluir a hipertensão pulmonar e a cardiopatia congénita para a qual a persistência do canal arterial apresente vantagens.
+ Uma vez que a sua utilização profiláctica nos primeiros 3 dias de vida (com início nas primeiras 6 horas após o nascimento) em recém-nascidos pré-termo, com idade gestacional inferior a 28 semanas, foi associada a um aumento nos episódios adversos pulmonares e renais, Pedea não deve ser utilizado profilacticamente (ver secções 4.8 e 5.1). Em particular, foram relatados casos graves de hipoxemia com hipertensão pulmonar em 3 crianças na primeira hora após a primeira perfusão a qual foi revertida nos primeiros 30 minutos após o início da terapêutica com óxido nítrico por inalação.
+ Uma vez que o ibuprofeno demonstrou deslocar in vitro a bilirrubina do seu local de ligação na albumina, o risco de encefalopatia por bilirrubina em recém-nascidos prematuros pode estar aumentado (ver secção 5.2). Deste modo, o ibuprofeno não deve ser utilizado em crianças com hiperbilirubinémia não-conjugada pronunciada.
+ Sendo um fármaco anti-inflamatório não esteróide (AINE), o ibuprofeno pode mascarar os sinais e sintomas habituais de uma infecção. Deste modo, Pedea deve ser utilizado com precaução na presença de uma infecção.
+ Pedea deve ser administrado de forma cuidadosa de modo a evitar o extravasamento e a potencialmente decorrente irritação dos tecidos.
+ Uma vez que o ibuprofeno pode inibir a agregação plaquetária, os recém-nascidos prematuros devem ser monitorizados relativamente a sinais de hemorragia.
+ Como o ibuprofeno pode diminuir a remoção dos aminoglicosídeos, recomenda-se um controlo rigoroso dos seus níveis séricos durante a co-administração com o ibuprofeno.
+ Tal como outros AINEs, recomenda-se uma monitorização cuidadosa tanto da função renal como gastrointestinal.
+ Em recém-nascidos pré-termo com idade gestacional inferior a 27 semanas, demonstrou-se que a taxa de encerramento do canal arterial era baixa com o regime de dosagem recomendado (ver secção 5.1).
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Sendo um AINE, o ibuprofeno pode interagir com os seguintes medicamentos:
+ -diuréticos: o ibuprofeno pode reduzir o efeito dos diuréticos; os diuréticos podem aumentar o risco
+ de nefrotoxicidade dos AINEs em doentes desidratados.
+ -anticoagulantes: o ibuprofeno pode aumentar o efeito dos anticoagulantes e pode aumentar o risco
+ de hemorragia.
+ -corticosteróides: o ibuprofeno pode aumentar o risco de hemorragia gastrointestinal.
+ -óxido nítrico: uma vez que ambos os medicamentos inibem a função plaquetária, a sua conjugação
+ pode, em teoria, aumentar o risco de ocorrência de hemorragias.
+ -outros AINEs: a utilização concomitante de mais de um AINE deve ser evitada devido ao risco
+ aumentado de reacções adversas.
+ 3
+ -aminoglicosídeos: uma vez que o ibuprofeno pode diminuir a remoção dos aminoglicosídeos, a sua
+ co-administração pode aumentar o risco de nefrotoxicidade e ototoxicidade (ver secção 4.4)
+ 4.6 Gravidez e aleitamento Não relevante 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não relevante 4.8 Efeitos indesejáveis Estão presentemente disponíveis dados relativos a cerca de 1.000 recém-nascidos pré-termo tanto em publicações científicas com o ibuprofeno como em ensaios clínicos com Pedea. A relação de causalidade dos episódios adversos relatados em recém-nascidos pré-termo é difícil de avaliar uma vez que estes podem estar relacionados com as consequências hemodinâmicas da persistência do canal arterial ou com os efeitos directos do ibuprofeno.
+ Os episódios adversos relatados encontram-se listados abaixo, por classe de sistema de órgãos e por frequência. As frequências são definidas como: muito frequentes (&gt; 1/10), frequentes (&gt; 1/100, &lt; 1/10) e pouco frequentes (&gt; 1/1.000, &lt; 1/100).
+ Doenças do sangue e do sistema linfático Doenças do sistema nervoso
+ Muito frequentes: Trombocitopenia, Neutropenia Frequentes: Hemorragia intraventricular, Leucomalácia periventricular
+ Doenças respiratórias, torácicas e do mediastino
+ Muito frequentes: Displasia broncopulmonar Frequentes: Hemorragia pulmonar Pouco frequentes: Hipoxemia
+ Doenças gastrointestinais Frequentes: Enterocolite necrosante, Perfuração intestinal Pouco frequentes: Hemorragia gastrointestinal
+ Doenças renais e urinárias Frequentes: Oligúria, Retenção de fluidos, Hematúria Pouco frequentes: Insuficiência renal aguda
+ Exames complementares de diagnóstico Muito frequentes: Creatinina sérica aumentada, Sódio sérico diminuído
+ Num ensaio clínico de tratamento envolvendo
+ 175 recém-nascidos pré-termo com idade gestacional
+ inferior a 35 semanas, a incidência de displasia broncopulmonar às 36 semanas de idade pós-concepcional era de 13/81 (16%) para a indometacina e de 23/94 (24%) para o ibuprofeno.
+ Num ensaio clínico em que Pedea foi administrado profilacticamente durante as primeiras 6 horas de vida, foram relatados casos graves de hipoxemia com hipertensão pulmonar em 3 recém-nascidos com idade gestacional inferior a 28 semanas. Esta situação ocorreu na primeira hora após a primeira perfusão e foi revertida nos primeiros 30 minutos após a inalação de óxido nítrico.
+ 4.9 Sobredosagem Não foram observados casos de sobredosagem com o ibuprofeno intravenoso em recém-nascidos pré-termo.
+ No entanto, foi relatada a sobredosagem em bebés e crianças aos quais foram administrados o ibuprofeno oral: foram observados casos de depressão do SNC, convulsões, perturbações gastrointestinais, bradicardia, hipotensão, apneia, anomalias da função renal e hematúria. Sobredosagens massivas (até mais de 1000 mg/kg) foram relatadas como tendo induzido coma, acidose metabólica, e falência renal transitória. Todos os doentes recuperaram com tratamento
+ 4 convencional. Foi publicado apenas o registo de uma morte: após uma sobredosagem de 469 mg/kg, uma criança com 16 meses de idade desenvolveu um episódio apneico com convulsões e pneumonia de aspiração fatal.
+ A gestão de uma sobredosagem com o ibuprofeno incide sobretudo nos cuidados de apoio.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: outros agentes cardíacos, código ATC: C01 EB16
+ O ibuprofeno é um AINE que possui actividade anti-inflamatória, analgésica e antipirética. O ibuprofeno é uma mistura racémica dos enantiómeros S(+) e R (-). Estudos in vivo e in vitro indicam que o isómero S(+) é o responsável pela actividade clínica. O ibuprofeno é um inibidor não-selectivo da ciclo-oxigenase, conduzindo a uma redução na síntese das prostaglandinas. Uma vez que as prostaglandinas estão envolvidas na persistência do canal arterial após o nascimento, crê-se que este efeito represente o principal modo de acção do ibuprofeno nesta indicação.
+ Num estudo dose-resposta de Pedea em 40 recém-nascidos pré-termo, a taxa de encerramento do canal arterial associada ao regime de dosagem de 10-5-5 mg/kg era de 75% (6/8) em recém-nascidos com 27-29 semanas de gestação e de 33% (2/6) em recém-nascidos com 24-26 semanas de gestação.
+ A utilização profiláctica de Pedea nos primeiros 3 dias de vida (com início nas primeiras 6 horas após o nascimento) em recém-nascidos pré-termo com idade gestacional inferior a 28 semanas foi associada a um aumento na incidência de falência renal e a episódios adversos pulmonares incluindo hipóxia, hipertensão pulmonar e hemorragia pulmonar, em comparação com uma utilização terapêutica. Por outro lado, a utilização profiláctica de Pedea foi associada a uma mais baixa incidência de hemorragia intraventricular neonatal de grau III-IV e de ligação cirúrgica.
+ 5.2 Propriedades farmacocinéticas Apesar de se observar uma grande variabilidade na população prematura, são medidas concentrações plasmáticas de pico de cerca de 35-40 mg/l após uma dose inicial de 10 mg/kg bem como após a última dose de manutenção, independentemente da idade gestacional ou pós-natal. As concentrações residuais são na ordem de 10-15 mg/l 24 horas após a última dose de 5 mg/kg. As concentrações plasmáticas do enantiómero-S são muito mais elevadas que as do enantiómero-R reflectindo uma rápida inversão quiral da forma R-para a S numa proporção semelhante à dos adultos (aproximadamente 60%).
+ O volume de distribuição aparente é, em média, de 200 ml/kg (62 a 350 de acordo com vários estudos). O volume de distribuição central pode depender do estado do canal arterial e pode diminuir à medida que o canal se fecha.
+ A taxa de eliminação é significativamente inferior nas crianças mais velhas e nos adultos, com uma semi-vida de eliminação calculada em aproximadamente 30 horas (16-43). A depuração de ambos os enantiómeros aumenta com a idade gestacional, pelo menos no intervalo das 24 às 28 semanas.
+ Estudos in vitro sugerem que, da mesma forma que outros AINEs, o ibuprofeno se encontra-se extensamente ligado à albumina plasmática, apesar de esta ligação parecer ser significativamente inferior (95%) à observada no plasma de adultos (99%). O ibuprofeno compete com a bilirrubina para a ligação à albumina sérica em recém-nascidos podendo, deste modo, a fracção livre de bilirrubina estar aumentada para concentrações elevadas de ibuprofeno.
+ 5 Em recém-nascidos pré-termo o ibuprofeno reduz significativamente as concentrações plasmáticas das prostaglandinas e dos seus metabolitos, particularmente da PGE2 e da 6-ceto-PGF-1-alfa. Os níveis demonstraram permanecer baixos durante até 72 horas em recém-nascidos a receber 3 doses de ibuprofeno, enquanto que se observaram aumentos subsequentes 72 horas após uma dose única de ibuprofeno.
+ 5.3 Dados de segurança pré-clínica Não existem quaisquer dados pré-clínicos considerados relevantes para a segurança clínica para além dos dados incluídos em outras secções deste Resumo das Características do Medicamento. Com a excepção de um estudo de toxicidade aguda, não foi realizado qualquer estudo adicional em animais juvenis com Pedea.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Trometamol, cloreto de sódio, hidróxido de sódio (para ajuste de pH), ácido clorídrico 25% (para ajuste de pH), água para injectáveis.
+ 6.2 Incompatibilidades Este medicamento não deve ser misturado com outros, excepto os mencionados no secção 6.6.
+ A solução de Pedea não deve entrar em contato com soluções ácidas tais como alguns antibióticos ou diuréticos. Deve ser realizada uma lavagem do tubo de perfusão entre cada administração do produto (ver secção 6.6).
+ 6.3 Prazo de validade 4 anos. 6.4 Precauções especiais de conservação
+ O medicamento não necessita de quaisquer precauções especiais de conservação.
+ 6.5 Natureza e conteúdo do recipiente Ampola de vidro incolor tipo 1. Pedea é distribuído em embalagens de 4 ampolas de 2 ml.
+ 6.6 Instruções de utilização e manipulação
+ Tal como todos os produtos parentéricos, as ampolas de Pedea devem ser visualmente inspeccionadas quanto à existência de partículas visíveis e integridade do recipiente antes da sua utilização. As ampolas destinam-se apenas a uma única utilização, qualquer porção não utilizada deve ser rejeitada.
+ A zona de quebra da ampola não pode ser desinfectada com cloro-hexidina uma vez que esta não é compatível com a solução de Pedea. Desta forma, para assegurar a assepsia da ampola antes da sua utilização recomenda-se a utilização de álcool etílico 60% ou isopropílico 70%.
+ 6 Ao desinfectar a zona de quebra da ampola com um anti-séptico, por forma a evitar qualquer interacção com a solução de Pedea, deve assegurar-se de que a ampola está completamente seca antes de abrir.
+ O volume requerido para ser administrado a uma criança deve ser determinado de acordo com o peso corporal, e deve ser injectado por via intravenosa através de uma curta perfusão, ao longo de 15 minutos, de preferência não diluído.
+ Utilizar apenas solução injectável de cloreto de sódio 9 mg/ml (0,9%) ou solução de glicose 50 mg/ml (5%) para ajustar o volume de injecção. O volume total de solução injectado em recém-nascidos pré-termo deve levar em consideração o volume total diário de fluidos administrado. Deve normalmente ser respeitado um volume máximo de 80 ml/kg/dia no primeiro dia de vida; este valor deve ser progressivamente aumentado nas 1-2 semanas seguintes (cerca de 20 ml/kg peso-de-nascimento/dia) até um volume máximo de 180 ml/kg peso-de-nascimento/dia.
+ Antes e depois da administração de Pedea, para evitar o contato com qualquer solução ácida, deve-se efectuar uma lavagem do tubo de perfusão durante 15 minutos com 1,5 a 2 ml de solução injectável de cloreto de sódio 9 mg/ml (0.9%) ou de glicose 50 mg/ml (5%).
+ Após a primeira abertura de uma ampola, qualquer porção não utilizada deve ser rejeitada.
+ Do ponto de vista microbiológico, o produto deve ser utilizado de imediato.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Orphan Europe SARL Immeuble “ Le Wilson ” F-92058 Paris La Défense-França
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/04/284/001 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 29 de Julho de 2004 10. DATA DA REVISÃO DO TEXTO 7 ANEXO II
+ A. TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 8 A TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do fabricante responsável pela libertação do lote
+ Orphan Europe SARL, Immeuble “ Le Wilson ” 70 avenue du Général de Gaulle F-92800 Puteaux França.
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento de receita médica restrita (ver anexo I: resumo das características do medicamento, 4.2.)
+ • OUTRAS CONDIÇÕES
+ O titular desta autorização de introdução no mercado deve informar a Comissão Europeia sobre os planos de comercialização do medicamento autorizado pela presente decisão.
+ 9 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 10 A. ROTULAGEM
+ 11 INDICAÇÕES A INCLUIR NA EMBALAGEM EXTERIOR OU, CASO ESTA NÃO EXISTA, NO ACONDICIONAMENTO PRIMÁRIO
+ TEXTO DA EMBALAGEM EXTERIOR 1. DENOMINAÇÃO DO MEDICAMENTO Pedea 5 mg/ml solução injectável Ibuprofeno
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ Cada mililitro contém 5 mg de ibuprofeno. Cada ampola de 2 ml contém 10 mg de ibuprofeno.
+ 3. LISTA DOS EXCIPIENTES Excipientes: trometamol, cloreto de sódio, hidróxido de sódio (para ajuste de pH), ácido clorídrico 25% (para ajuste de pH), água para injectáveis.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 4 ampolas de 2 ml 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via intravenosa na forma de perfusão curta Ler o folheto informativo antes de usar Do ponto de vista microbiológico, o produto deve ser utilizado de imediato.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ 12 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ Após a abertura inicial de uma ampola, qualquer porção não utilizada deve ser rejeitada.
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Orphan Europe SARL Immeuble “ Le Wilson ” F-92058 Paris La Défense-França
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/04/284/001 13. NÚMERO DO LOTE DE FABRICO Lote 14. CLASSIFICAÇÃO GERAL RELATIVA AO FORNECIMENTO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 13 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ TEXTO DAS AMPOLAS EM VIDRO (etiqueta branca aposta na ampola)
+ 1. DENOMINAÇÃO DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Pedea 5 mg/ml solução injectável Ibuprofeno IV
+ 2. MODO DE ADMINISTRAÇÃO Ver folheto 3. PRAZO DE VALIDADE VAL. 4. NÚMERO DO LOTE Lote 5. CONTEÚDO EM TERMOS DE PESO, VOLUME OU UNIDADE
+ 2 ml 6. NOME DA EMPRESA Orphan Europe SARL 14 B. FOLHETO INFORMATIVO
+ 15 FOLHETO INFORMATIVO
+ Leia atentamente este folheto antes de este medicamento ser administrado ao seu bebé.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso tenha dúvidas, consulte o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para o seu bebé e não deve dá-lo a outros. O medicamento
+ pode ser-lhes prejudicial mesmo que apresentem os mesmos sintomas que o seu bebé.
+ Neste folheto: 1. O que é Pedea e para que é utilizado 2. Antes de Pedea ser administrado ao seu bebé 3. Como é utilizado Pedea 4. Efeitos secundários possíveis 5. Conservação de Pedea 6. Outras informações
+ Pedea 5 mg/ml solução injectável Ibuprofeno
+ -A substância activa é o ibuprofeno. Cada mililitro contém 5 mg de ibuprofeno. Cada ampola de
+ 2 ml contém 10 mg de ibuprofeno.
+ -Os outros ingredientes são: trometamol, cloreto de sódio, hidróxido de sódio (para ajuste de
+ pH), ácido clorídrico 25% (para ajuste de pH), água para injectáveis.
+ Titular da Autorização de Introdução no Mercado e Fabricante: Orphan Europe SARL Immeuble “ Le Wilson ” F-92058 Paris La Défense-França
+ 1. O QUE É PEDEA E PARA QUE É UTILIZADO
+ Pedea é uma solução injectável disponível em embalagens com quatro ampolas de 2 ml.
+ Enquanto um bebé está no útero materno não precisa de utilizar os pulmões. Antes do nascimento, os bebés possuem um vaso sanguíneo chamado canal arterial próximo do coração que permite ao sangue do bebé desviar-se dos pulmões e circular pelo resto do corpo. Quando o bebé nasce e começa a utilizar os pulmões o canal arterial normalmente encerra. No entanto, em alguns casos isto não acontece. O termo médico para esta condição é ‘ persistência do canal arterial ’, ou seja, o canal arterial permanece aberto. Este facto pode provocar problemas cardíacos ao seu bebé. Esta condição é muito mais frequente em recém-nascidos prematuros que em bebés de termo. Pedea, quando administrado ao seu bebé, pode ajudar a fechar o canal arterial.
+ Pedea encerra o canal arterial inibindo a produção de prostaglandina, um composto químico que existe naturalmente no corpo e que mantém o canal arterial aberto.
+ 2. ANTES DE PEDEA SER ADMINISTRADO AO SEU BEBÉ
+ Pedea não pode ser administrado a bebés: -caso apresentem uma infecção potencialmente fatal que não foi tratada;
+ -caso apresentem hemorragias, especialmente se a hemorragia for dentro do crânio ou nos
+ intestinos;
+ -caso apresentem problemas com a coagulação do seu sangue;
+ 16
+ -caso apresentem problemas renais;
+ -caso apresentem outros problemas cardíacos que requeiram a permanência do canal arterial
+ aberto de modo a que se mantenha uma circulação sanguínea adequada;
+ -caso apresentem certos problemas com os seus intestinos;
+ -caso sejam hipersensíveis (alérgicos) ao ibuprofeno ou a qualquer dos excipientes.
+ Devem ser tomados cuidados especiais com Pedea
+ Antes de Pedea ser administrado ao seu bebé, o coração dele será examinado para confirmar que canal arterial está aberto.
+ Pedea não deve ser administrado nas primeiras 6 horas de vida.
+ O tratamento com Pedea não deve ser utilizado caso se suspeite que o seu bebé tenha uma doença hepática, sinais e sintomas da qual incluem o amarelecimento da pele e dos olhos.
+ Se seu bebé está presentemente a ser tratado para uma infecção, o médico irá apenas tratar o seu bebé com Pedea após uma cuidadosa avaliação da situação do seu bebé.
+ Pedea deve ser cuidadosamente administrado ao seu bebé por um profissional de saúde por forma a evitar danos na pele e tecidos circundantes.
+ O ibuprofeno pode reduzir a capacidade de coagulação do sangue do seu bebé. Desta forma, o seu bebé deve ser vigiado para detectar sinais de hemorragias prolongadas.
+ O seu bebé pode desenvolver hemorragias provenientes dos intestinos e dos rins. Para as detectar, as fezes e a urina do seu bebé podem ser analisadas para determinar a presença de sangue.
+ Pedea pode reduzir a quantidade de urina que seu bebé elimina. Caso esta diminuição seja significativa, o tratamento do seu bebé pode ser interrompido até que o volume de urina retorne ao normal.
+ Pedea pode ser menos eficaz em bebés muito prematuros.
+ Utilização com outros medicamentos Certos medicamentos, se administrados em conjunto com Pedea, podem causar efeitos secundários. Estes são indicados a seguir:
+ -o seu bebé pode ter dificuldade de urinar e podem ter-lhe sido receitados diuréticos. O
+ ibuprofeno pode reduzir o efeito destes medicamentos.
+ -o seu bebé pode estar a tomar anticoagulantes (medicamentos que evitam a coagulação do
+ sangue). O ibuprofeno pode aumentar o efeito anti-agregante destes medicamentos.
+ -o seu bebé pode estar a receber óxido nítrico para melhorar a oxigenação do sangue. O
+ ibuprofeno pode aumentar o risco de hemorragias.
+ -o seu bebé pode estar a tomar corticosteróides para prevenir inflamações. O ibuprofeno pode
+ aumentar o risco de hemorragias no estômago e nos intestinos.
+ -ao seu bébé podem ser dados aminosídeos (uma família de antibióticos) para tratar infecções.
+ O ibuprofeno pode aumentar as concentrações sanguíneas destes, e assim aumentar o risco de toxicidade no rim e no ouvido.
+ 3. COMO É UTILIZADO PEDEA 17 Pedea será apenas administrado ao seu bebé numa unidade especial de cuidados intensivos neonatais por um profissional de saúde qualificado.
+ Cada ciclo terapêutico consiste em três doses intravenosas de Pedea administradas com 24 horas de intervalo. A dose a ser administrada será calculada com base no peso do seu bebé. Esta é de 10 mg/kg para a primeira administração e de 5 mg/kg para a segunda e terceira administração.
+ A quantidade calculada será administrada por perfusão numa veia ao longo de um período de 15 minutos. Caso após este primeiro ciclo de tratamento o canal arterial não encerrar ou se vier a reabrir, o médico do seu bebé pode decidir administrar um segundo ciclo de tratamento.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todos os medicamentos, Pedea pode provocar efeitos secundários. No entanto, é difícil distinguir estes efeitos de complicações frequentes que ocorrem em bebés prematuros e de complicações devidas à própria doença. Foram relatados os seguintes efeitos secundários com Pedea:
+ -problemas com a coagulação sanguínea que resultaram em complicações hemorrágicas tais
+ como hemorragias intestinais e hemorragias intracranianas;
+ -problemas respiratórios e hemorragias pulmonares;
+ -problemas com o sistema digestivo tais como obstrução e perfuração do intestino;
+ -problemas renais tais como a eliminação de um volume reduzido de urina, sangue na urina e
+ insuficiência aguda da função renal.
+ Caso detecte efeitos secundários não mencionado neste folheto, por favor, informe o médico do seu bebé ou o seu farmacêutico.
+ 5. CONSERVAÇÃO DE PEDEA Manter fora do alcance e da vista das crianças.
+ O medicamento não necessita de quaisquer precauções especiais de conservação.
+ Não utilize após expirar o prazo de validade indicado no rótulo.
+ 6. OUTRAS INFORMAÇÕES Para quaisquer informações sobre este medicamento, queira contactar o representante local do titular da autorização de introdução no mercado.
+ Belgique/België/Belgien Orphan Europe Benelux Koning Albert I laan 48 bus 3 B-1780 Wemmel Belgique/België/Belgien Tél/Tel: +32 2 461 01 36
+ Luxembourg/Luxemburg Orphan Europe Benelux Koning Albert I laan 48 bus 3 B-1780 Wemmel Belgique/België/Belgien Tél/Tel: +32 2 461 01 36
+ 18 България Orphan Europe (Germany) GmbH Max-Planck Str. 6 D-63128 Dietzenbach Германия Teл.:+ 49 6074 812160
+ Magyarország Orphan Europe GmbH Max-Planck Str. 6 D-63128 Dietzenbach Németország Tel: +49 (0) 6074 812160
+ Česká republika Orphan Europe GmbH Max-Planck Str. 6 D-63128 Dietzenbach Německo Tel: +49 (0) 6074 812160
+ Malta Orphan Europe SARL Immeuble “ Le Wilson ” F-92058 Paris La Défense France Tel: +33 1 47 73 64 58
+ Danmark Orphan Europe Nordic AB Banérgatan 37 S-11522 Stockholm Sverige Tel: +46 8 545 80 230
+ Nederland Orphan Europe Benelux Koning Albert I laan 48 bus 3 B-1780 Wemmel Belgique/België/Belgien Tél/Tel: +32 2 461 01 36
+ Deutschland Orphan Europe GmbH Max-Planck Str. 6 D-63128 Dietzenbach Tel: +49 (0) 6074 812160
+ Norge Orphan Europe Nordic AB Banérgatan 37 S-11522 Stockholm Sverige Tel: +46 8 545 80 230
+ Eesti Österreich Orphan Europe Nordic AB Banérgatan 37 S-11522 Stockholm Rootsi Tlf: +46 8 545 80 230
+ Orphan Europe GmbH Max-Planck Str. 6 D-63128 Dietzenbach Deutschland Tel: +49 6074 812160
+ Ελλαδα Orphan Europe SARL Immeuble “ Le Wilson ” F-92058 Paris La Défense Γαλλία Τηλ: +33 1 47 73 64 58
+ Polska Orphan Europe GmbH Max-Planck Str. 6 D-63128 Dietzenbach Niemcy Tel: +49 6074 812160
+ España Orphan Europe, S. L. Gran via de les Cortes Catalanes,649 Despacho n°1 E – 08010 Barcelona Tel: +34 93 244 09 30
+ Portugal Orphan Europe, S. L. Gran via de les Cortes Catalanes,649 Despacho n°1 E – 08010 Barcelona-Espanha Tel: +34 93 244 09 30
+ France Orphan Europe SARL Immeuble “ Le Wilson ” F-92058 Paris La Défense Tél.: +33 1 47 73 64 58
+ România Orphan Europe (Germany) GmbH Max-Planck Str. 6 D-63128 Dietzenbach Germania
+ 19 Tel:+ 49 6074 812160
+ Ireland Orphan Europe (UK) Ltd. Isis House,43 Station road Henley-on-Thames Oxfordshire RG9 1AT, UK United Kingdom Tel: +44 1491 414333
+ Slovenija Orphan Europe (Germany) GmbH Max-Planck Str. 6 D-63128 Dietzenbach Nemčija Tel: +49 6074 812160
+ Ísland Orphan Europe Nordic AB Banérgatan 37 S-11522 Stockholm Svíþjóð Tel:+ 46 8 545 80 230
+ Slovenská republika Orphan Europe (Germany) GmbH Max-Planck Str. 6 D-63128 Dietzenbach Nemecko Tel: +49 6074 812160
+ Italia Orphan Europe (Italy) Srl Via Cellini 11 I-20090 Segrate (Milano) Tel: +39 02 26 95 01 39
+ Suomi/Finland Orphan Europe Nordic AB Banérgatan 37 S-11522 Stockholm Ruotsi Tel:+ 46 8 545 80 230
+ Κύπρος Orphan Europe SARL Immeuble “ Le Wilson ” F-92058 Paris La Défense Γαλλία Τηλ: +33 1 47 73 64 58
+ Sverige Orphan Europe Nordic AB Banérgatan 37 S-11522 Stockholm Tel:+ 46 8 545 80 230
+ Latvija Orphan Europe Nordic AB Banérgatan 37 S-11522 Stockholm Zviedrija Tel:+ 46 8 545 80 230
+ United Kingdom Orphan Europe (UK) Ltd. Isis House,43 Station road Henley-on-Thames Oxfordshire RG9 1AT, UK Tel: +44 1491 414333
+ Lietuva Orphan Europe Nordic AB Banérgatan 37 S-11522 Stockholm Švedija Tel:+ 46 8 545 80 230
+ Este folheto foi aprovado pela última vez em
+ A informação que se segue destina-se apenas aos médicos e aos profissionais dos cuidados de saúde:
+ Tal como todos os produtos parentéricos, as ampolas de Pedea devem ser visualmente inspeccionadas para a existência de partículas visíveis e integridade do recipiente antes da sua utilização. As ampolas destinam-se apenas a uma única utilização, qualquer porção não utilizada deve ser rejeitada.
+ Posologia e modo de administração 20 Apenas para via intravenosa. O tratamento com Pedea deve apenas ser levado a cabo numa unidade de cuidados intensivos neonatais sob supervisão de um neonatologista experiente. Cada ciclo terapêutico consiste em três doses intravenosas de Pedea administradas com 24 horas de intervalo. A dose de ibuprofeno é ajustada ao peso corporal da seguinte forma:
+ -1a injecção: 10 mg/kg,
+ -2a e 3a injecções: 5 mg/kg.
+ Caso o canal arterial não encerre nas 48 horas posteriores à última injecção ou se este vier a reabrir poderá ser iniciado um segundo ciclo terapêutico, com três doses, tal como acima indicado. Se a condição permanecer inalterada após o segundo ciclo terapêutico, poderá ser necessário recorrer a cirurgia do canal arterial.
+ Modo de administração: Pedea deve ser administrado na forma de uma curta perfusão, ao longo de 15 minutos, de preferência não diluído. Para facilitar a administração pode ser utilizada uma bomba de perfusão. Se necessário, o volume de injecção pode ser ajustado com solução injectável de cloreto de sódio 9 mg/ml (0,9%) ou com solução injectável de glicose 50 mg/ml (5%). Qualquer porção de solução não utilizada deve ser rejeitada. O volume total de solução injectado a recém-nascidos pré-termo deve levar em consideração o volume total diário de fluidos administrado. Deve normalmente ser respeitado um volume máximo de 80 ml/kg/dia no primeiro dia de vida; este valor deve ser progressivamente aumentado nas 1-2 semanas seguintes (cerca de 20 ml/kg peso-de-nascimento/dia) até um volume máximo de 180 ml/kg peso-de-nascimento/dia.
+ Incompatibilidades A zona de quebra da ampola não pode ser desinfectada com cloro-hexidina uma vez que esta não é compatível com a solução de Pedea. Desta forma, para assegurar a assepsia da ampola antes da sua utilização recomenda-se a utilização de álcool etílico 60% ou isopropílico 70%. Ao desinfectar a zona de quebra da ampola com um anti-séptico, por forma a evitar qualquer interacção com a solução de Pedea, deve assegurar-se de que a ampola está completamente seca antes de abrir.
+ Este medicamento não deve ser misturado com outros, excepto com solução injectável de cloreto de sódio 9 mg/ml (0,9%) ou com solução de glicose 50 mg/ml (5%).
+ Por forma a evitar variações substanciais no pH devidas à presença de medicamentos ácidos que poderiam permanecer na linha de perfusão, esta última deve ser perfundida antes e depois da administração de Pedea com 1,5 a 2 ml de solução injectável de cloreto de sódio 9 mg/ml (0,9%) ou solução de glicose 50 mg/ml (5%).
+ 21

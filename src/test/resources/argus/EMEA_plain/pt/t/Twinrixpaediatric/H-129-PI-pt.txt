@@ -1,0 +1,617 @@
+ ANEXO 1
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. NOME DO MEDICAMENTO
+ Twinrix Pediátrico, suspensão injectável Vacina (adsorvida) contra a hepatite A (inactivada) e hepatite B (ADNr) (HAB)
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ 1 dose (0,5 ml) contém: Vírus da hepatite A (inactivado) 1,2 Antigénio de superfície da hepatite B3,4 1 Produzido em células diplóides humanas (MRC-5) 2
+ 360 Unidades ELISA 10 microgramas 0,025 miligramas Al3+ Adsorvido em hidróxido de alumínio hidratado 3 Produzido em células de levedura (Saccharomyces cerevisiae) por tecnologia de ADN recombinante 4 0,2 miligramas Al3+ Adsorvido em fosfato de alumínio
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Suspensão injectável. Suspensão branca e turva.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Twinrix Pediátrico está indicado para utilização em lactentes, crianças e adolescentes não imunes, desde 1 ano até aos 15 anos de idade, inclusive, que estejam em risco de contrair infecções por ambos os vírus da hepatite A e hepatite B.
+ 4.2 Posologia e modo de administração Posologia -Dose
+ A dose recomendada em lactentes, crianças e adolescentes desde 1 ano até aos 15 anos de idade, inclusive, é de 0,5 ml (360 Unidades ELISA de HA e 10 μg do AgHBS).
+ -Esquema de primovacinação
+ O esquema padrão de primovacinação com Twinrix Pediátrico consiste em três doses, a primeira administrada na data seleccionada, a segunda administrada um mês depois e a terceira seis meses após a primeira dose. Deve seguir-se o esquema recomendado. Uma vez iniciado, o esquema de primovacinação deve ser completado com a mesma vacina.
+ -Dose de reforço
+ Estão disponíveis dados de persistência a longo prazo de anticorpos até 48 meses após vacinação com Twinrix Pediátrico. Os títulos de anticorpos anti-VHA e anti-VHBs observados
+ 2 após a primovacinação com a vacina combinada são sobreponíveis aos títulos observados com as vacinas monovalentes. As cinéticas de diminuição do título de anticorpos são também similares. As recomendações gerais para a vacinação de reforço podem ser baseadas nos dados da experiência adquirida com as vacinas monovalentes.
+ Hepatite B Não foi estabelecida a necessidade de uma dose de reforço da vacina contra a hepatite B em indivíduos saudáveis que completaram o esquema de primovacinação. No entanto, alguns programas oficiais de vacinação incluem a recomendação de administração de uma dose de reforço desta vacina, a qual deve ser respeitada.
+ Deve ser considerada uma medida preventiva para alguns indivíduos ou doentes expostos ao VHB (ex. doentes hemodializados ou imunodeprimidos), de modo a assegurar um nível protector de anticorpos ≥10 UI/l.
+ Hepatite A Não está ainda completamente estabelecido que os indivíduos imunodeficientes que responderam à vacinação contra a hepatite A necessitem de doses de reforço, uma vez que a protecção na ausência de títulos de anticorpos detectáveis, pode ser assegurada através de memória imunológica. As recomendações para a vacinação de reforço são baseadas no pressuposto de que estes anticorpos são requeridos para protecção; antevê-se que os anticorpos anti-VHA persistam, durante pelo menos 10 anos.
+ A vacina Twinrix Pediátrico pode ser administrada numa situação em que é considerada necessária uma dose de reforço contra ambas as hepatites A e B. Em alternativa, poderá ser administrada uma dose de reforço de ambas as vacinas monovalentes aos indivíduos que receberam Twinrix Pediátrico na primovacinação.
+ Modo de administração Twinrix Pediátrico deve ser administrado por via intramuscular, de preferência na região deltóide em adolescentes e crianças e em lactentes na região antero-lateral da coxa.
+ Excepcionalmente, a vacina pode ser administrada por via subcutânea em doentes com trombocitopenia ou outra alteração da coagulação. Contudo, esta via de administração pode resultar numa resposta imunológica sub-óptima à vacina (ver secção 4.4).
+ 4.3 Contra-indicações Hipersensibilidade às substâncias activas ou a qualquer um dos excipientes ou à neomicina.
+ Hipersensibilidade após administração anterior de vacinas da hepatite A e/ou hepatite B.
+ A administração de Twinrix Pediátrico deve ser protelada nos indivíduos com síndrome febril grave.
+ 4.4 Advertências e precauções especiais de utilização
+ É possível que alguns indivíduos estejam no período de incubação da infecção pelo vírus da hepatite A ou B no momento da vacinação. Nestes casos, não se sabe se o Twinrix Pediátrico previne as hepatites A e B.
+ A vacina não previne infecções causadas por outros vírus, nomeadamente hepatites C e E e por outros patogénios conhecidos que possam infectar o fígado.
+ 3 Twinrix Pediátrico não está recomendado na profilaxia pós-exposição (por ex. picada de agulha acidental).
+ A vacina não foi testada em doentes com a de função imunológica comprometida. Em doentes submetidos a diálise, em indivíduos a administrar tratamento imunossupressor e em indivíduos imunodeficientes podem não ser obtidos níveis adequados de anti-VHA ou anti-VHB, após a primovacinação. Assim, estes doentes podem necessitar de doses adicionais de vacina; apesar disso, os doentes imunodeprimidos podem não atingir uma resposta adequada.
+ Tal como acontece com todas as vacinas injectáveis, deve dispor-se de supervisão clínica e tratamento médico adequado para utilização imediata, caso ocorram reacções anafilácticas após a administração da vacina.
+ Uma vez que a administração da vacina por via intradérmica ou intramuscular no músculo glúteo pode não conduzir a uma resposta adequada, devem evitar-se estas vias de administração. Contudo, excepcionalmente, Twinrix Pediátrico pode ser administrado por via subcutânea a indivíduos com trombocitopenia ou outras alterações da coagulação, uma vez que a administração intramuscular pode causar hemorragia nesses indivíduos (ver secção 4.2).
+ EM SITUAÇÃO ALGUMA TWINRIX PEDIÁTRICO DEVERÁ SER ADMINISTRADO POR VIA INTRAVENOSA.
+ Tal como com qualquer procedimento injectável, pode ocorrer, pouco frequentemente, síncope vasovagal após administração de Twinrix Pediátrico em adultos e adolescentes.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Não existem dados sobre a administração concomitante de Twinrix Pediátrico com imunoglobulina específica da hepatite A ou imunoglobulina específica da hepatite B. No entanto, quando as vacinas monovalentes contra a hepatite A e hepatite B foram administradas concomitantemente com imunoglobulinas específicas, não se observou qualquer influência na seroconversão, embora possa originar títulos de anticorpos mais baixos.
+ Como a administração concomitante de Twinrix Pediátrico com outras vacinas não foi especificamente estudada, é aconselhável que esta vacina não seja administrada ao mesmo tempo que as outras vacinas.
+ 4.6 Gravidez e aleitamento Gravidez O efeito de Twinrix Pediátrico na sobrevivência e desenvolvimento embrio-fetal, peri-natal e pós-natal foi avaliado em ratos. Este estudo não indicou quaisquer efeitos nefastos directos ou indirectos no que respeita à fertilidade, gravidez, ao desenvolvimento embrionário/fetal, parto ou ao desenvolvimento pós-natal.
+ O efeito de Twinrix Pediátrico na sobrevivência e desenvolvimento embrio-fetal, peri-natal e pós-natal não foi avaliado prospectivamente em ensaios clínicos.
+ Os dados relativos aos resultados de um número limitado de gravidezes de mulheres vacinadas não revelaram quaisquer efeitos adversos de Twinrix Pediátrico sobre a gravidez ou a saúde do feto/recém-nascido. Apesar de não ser expectável que o antigénio de superfície do vírus da hepatite B recombinante tenha efeitos adversos sobre a gravidez ou feto, recomenda-se que a vacinação deva ser adiada até após o parto, excepto em caso de necessidade urgente de proteger a mãe contra a hepatite B.
+ 4 Aleitamento
+ Desconhece-se se Twinrix Pediátrico é excretado no leite materno humano. A excreção de Twinrix Pediátrico no leite não foi estudada no animal. A decisão de continuar/descontinuar a amamentação ou continuar/descontinuar o tratamento com Twinrix Pediátrico deve ser tomada tendo em consideração o benefício da amamentação para a criança e o benefício do tratamento com Twinrix Pediátrico para a mulher.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Os efeitos de Twinrix Pediátrico sobre a capacidade de conduzir e utilizar máquinas são nulos ou desprezíveis.
+ 4.8 Efeitos indesejáveis • Ensaios Clínicos
+ A formulação actual de Twinrix não contém tiomersal (composto organomercúrico) ou qualquer conservante. Num ensaio clínico realizado com a formulação actual a incidência de dor, rubor, tumefacção, fadiga, gastrenterite, cefaleias e febre foi comparável à incidência observada com a formulação anterior da vacina com tiomersal e conservante. Os efeitos indesejáveis seguintes foram notificados após uma vasta utilização da formulação anterior.
+ O perfil de segurança seguidamente apresentado baseia-se em dados de aproximadamente 800 indivíduos.
+ A frequência dos efeitos indesejáveis é reportada do seguinte modo: ≥1/10 Muito frequentes: ≥1/100 a &lt; 1/10 Frequentes: ≥1/1.000 a &lt; 1/100 Pouco frequentes: ≥1/10.000 a &lt; 1/1.000 Raros: Muito raros:
+ &lt; 1/10.000
+ * refere-se a reacções adversas observadas em ensaios clínicos com a formulação para adultos
+ Doenças do sangue e do sistema linfático Raros: linfadenopatia
+ Doenças do sistema nervoso Frequentes: sonolência, cefaleias Raros: hipoestesia*, parestesia*, tonturas
+ Doenças gastrointestinais Frequentes: sintomas gastrointestinais, náuseas Pouco frequentes: diarreia, vómitos, dor abdominal
+ Afecções dos tecidos cutâneos e subcutâneas Pouco frequentes: erupções cutâneas Raros: urticária, prurido*
+ Perturbações dos tecidos musculoesquelético e conjuntivo Pouco frequentes: mialgia* Raros: artralgia*
+ Doenças do metabolismo e da nutrição Frequentes: perda de apetite
+ 5 Infecções e infestações Pouco frequentes: infecções do trato respiratório superior*
+ Vasculopatias Raros: hipotensão* Perturbações gerais e alterações no local de administração Muito frequentes: dor e vermelhidão no local da injecção Frequentes: tumefacção no local da injecção, reacções no local da injecção (tais como nódoas negras), fadiga, mal-estar, febre (≥ 37, 5ºC) Raros: sintomas semelhantes à gripe*, arrepios*
+ Perturbações Psiquiátricas: Frequentes: irritabilidade
+ • Farmacovigilância pós-comercialização
+ As seguintes reacções adversas foram notificadas tanto com Twinrix como com as vacinas monovalentes da hepatite A ou B da GlaxoSmithKline:
+ Doenças do sangue e do sistema linfático Trombocitopenia, púrpura trombocitopénica
+ Doenças do sistema nervoso Encefalite, encefalopatia, neurite, neuropatia, paralisia, convulsões
+ Afecções dos tecidos cutâneos e subcutâneas Edema angioneurotico, líquen plano, eritema multiforme
+ Perturbações dos tecidos musculoesquelético e conjuntivo Artrite, fraqueza muscular
+ Infecções e infestações Meningite Vasculopatias Vasculite Doenças do sistema imunitário Anafilaxia, reacções alérgicas incluindo reacções anafilactóides e síndrome semelhante à doença do soro
+ Após longa utilização de vacinas monovalentes contra a hepatite A e/ou hepatite B, foram notificados adicionalmente os seguintes efeitos indesejáveis numa associação temporal com a vacinação
+ Exames complementares de diagnóstico Alterações dos testes da função hepática
+ Doenças do sistema nervoso Esclerose múltipla, mielite, paralisia facial, polinevrites tais como síndrome de Guillain-Barré (com paralisia ascendente), nevrite óptica
+ 4.9 Sobredosagem 6 Foram notificados casos de sobredosagem durante a farmacovigilância pós-comercialização. Os acontecimentos adversos notificados após sobredosagem foram semelhantes aos notificados após a administração normal da vacina.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Vacinas contra os vírus da hepatite, Código ATC J07BC20.
+ Twinrix Pediátrico é uma vacina combinada formulada a partir da associação de preparações a granel do vírus inactivado purificado da hepatite A (HA) e do antigénio de superfície purificado da hepatite B (AgHBs), separadamente adsorvidos em hidróxido de alumínio e fosfato de alumínio. O vírus HA é propagado em células diplóides humanas MCR5. O AgHBs é produzido em cultura de células de levedura geneticamente modificadas num meio selectivo. Twinrix Pediátrico confere imunidade contra as infecções por VHA e VHB por induzir a formação de anticorpos específicos anti-VHA e anti-VHB.
+ A protecção contra a hepatite A e a hepatite B obtém-se num período de 2 a 4 semanas. Nos estudos clínicos, observaram-se anticorpos humorais específicos contra a hepatite A em aproximadamente 89% dos indivíduos, um mês após a primeira dose e, em 100% um mês após a terceira dose (i. e. mês 7). Os anticorpos humorais específicos contra a hepatite B foram observados em 67% dos indivíduos após a primeira dose, e aproximadamente em 100% após a terceira dose.
+ Em ensaios clínicos de longa duração, observou-se existir, na maioria dos vacinados, persistência dos anticorpos anti-VHA e anti-VHB até 48 meses após o início do esquema de vacinação primário com Twinrix Pediátrico (ver secção 4.2). Demonstrou-se que as cinéticas de diminuição dos anticorpos anti-VHA e anti-VHB são similares às das vacinas monovalentes.
+ Esta informação foi obtida com a formulação anterior de Twinrix contendo tiomersal e um conservante. Um ensaio clínico realizado com a formulação actual de Twinrix em adultos mostrou que a formulação actual apresenta taxas de seroprotecção e seroconversão semelhantes, comparativamente à formulação anterior.
+ 5.2 Propriedades farmacocinéticas A avaliação das propriedades farmacocinéticas não é requerida em vacinas.
+ 5.3 Dados de segurança pré-clínica Os dados não clínicos não revelam riscos especiais para o ser humano, segundo estudos gerais de segurança (ver secção 4.6).
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Cloreto de sódio Água para preparações injectáveis
+ Para adjuvantes, ver secção 2. 6.2 Incompatibilidades 7 Na ausência de estudos de compatibilidade, este medicamento não deve ser misturado com outros medicamentos.
+ 6.3 Prazo de validade 3 anos. 6.4 Precauções especiais de conservação
+ Conservar no frigorífico (2°C-8°C). Não congelar. Conservar na embalagem de origem para proteger da luz.
+ 6.5 Natureza e conteúdo do recipiente 0,5 ml de suspensão num frasco para injectáveis (vidro tipo 1) com tampa de borracha (butilo).
+ Embalagens de 1,3 e 10. Nem todas as apresentações serão comercializadas.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ Após armazenagem, poderá apresentar um depósito branco fino com sobrenadante cristalino.
+ Antes da administração, a vacina deverá ser bem agitada de modo a obter uma suspensão branca ligeiramente opaca e inspeccionada visualmente para detectar qualquer partícula estranha e/ou alteração do aspecto físico. Caso se verifique qualquer destas alterações, deve inutilizar-se a vacina.
+ Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 7. TITULAR DE AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ GlaxoSmithKline Biologicals s. a. rue de l' Institut 89 B-1330 Rixensart, Bélgica
+ 8. NÚMEROS DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/97/029/003 EU/1/97/029/004 EU/1/97/029/005
+ 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 10 de Fevereiro de 1997 Data da última renovação: 10 de Fevereiro de 2007
+ 8 10. DATA DA REVISÃO DO TEXTO
+ 9 1. NOME DO MEDICAMENTO
+ Twinrix Pediátrico, suspensão injectável em seringa pré-cheia Vacina (adsorvida) contra a hepatite A (inactivada) e hepatite B (ADNr) (HAB)
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ 1 dose (0,5 ml) contém: Vírus da hepatite A (inactivado) 1,2 Antigénio de superfície da hepatite B3,4 1 Produzido em células diplóides humanas (MRC-5) 2
+ 360 Unidades ELISA 10 microgramas 0,025 miligramas Al3+ Adsorvido em hidróxido de alumínio hidratado 3 Produzido em células de levedura (Saccharomyces cerevisiae) por tecnologia de ADN recombinante 4 0,2 miligramas Al3+ Adsorvido em fosfato de alumínio
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Suspensão injectável em seringa pré-cheia. Suspensão branca e turva.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Twinrix Pediátrico está indicado para utilização em lactentes, crianças e adolescentes não imunes, desde 1 ano até aos 15 anos de idade, inclusive, que estejam em risco de contrair infecções por ambos os vírus da hepatite A e hepatite B.
+ 4.2 Posologia e modo de administração Posologia -Dose
+ A dose recomendada em lactentes, crianças e adolescentes desde 1 ano até aos 15 anos de idade, inclusive, é de 0,5 ml (360 Unidades ELISA de HA e 10 μg do AgHBS).
+ -Esquema de primovacinação
+ O esquema padrão de primovacinação com Twinrix Pediátrico consiste em três doses, a primeira administrada na data seleccionada, a segunda administrada um mês depois e a terceira seis meses após a primeira dose. Deve seguir-se o esquema recomendado. Uma vez iniciado, o esquema de primovacinação deve ser completado com a mesma vacina.
+ -Dose de reforço
+ Estão disponíveis dados de persistência a longo prazo de anticorpos até 48 meses após vacinação com Twinrix Pediátrico. Os títulos de anticorpos anti-VHA e anti-VHBs observados
+ 10 após a primovacinação com a vacina combinada são sobreponíveis aos títulos observados com as vacinas monovalentes. As cinéticas de diminuição do título de anticorpos são também similares. As recomendações gerais para a vacinação de reforço podem ser baseadas nos dados da experiência adquirida com as vacinas monovalentes.
+ Hepatite B Não foi estabelecida a necessidade de uma dose de reforço da vacina contra a hepatite B em indivíduos saudáveis que completaram o esquema de primovacinação. No entanto, alguns programas oficiais de vacinação incluem a recomendação de administração de uma dose de reforço desta vacina, a qual deve ser respeitada.
+ Deve ser considerada uma medida preventiva para alguns indivíduos ou doentes expostos ao VHB (ex. doentes hemodializados ou imunodeprimidos), de modo a assegurar um nível protector de anticorpos ≥10 UI/l.
+ Hepatite A Não está ainda completamente estabelecido que os indivíduos imunodeficientes que responderam à vacinação contra a hepatite A necessitem de doses de reforço, uma vez que a protecção na ausência de títulos de anticorpos detectáveis, pode ser assegurada através de memória imunológica. As recomendações para a vacinação de reforço são baseadas no pressuposto de que estes anticorpos são requeridos para protecção; antevê-se que os anticorpos anti-VHA persistam, durante pelo menos 10 anos.
+ A vacina Twinrix Pediátrico pode ser administrada numa situação em que é considerada necessária uma dose de reforço contra ambas as hepatites A e B. Em alternativa, poderá ser administrada uma dose de reforço de ambas as vacinas monovalentes aos indivíduos que receberam Twinrix Pediátrico na primovacinação.
+ Modo de administração Twinrix Pediátrico deve ser administrado por via intramuscular, de preferência na região deltóide em adolescentes e crianças e em lactentes na região antero-lateral da coxa.
+ Excepcionalmente, a vacina pode ser administrada por via subcutânea em doentes com trombocitopenia ou outra alteração da coagulação. Contudo, esta via de administração pode resultar numa resposta imunológica sub-óptima à vacina (ver secção 4.4).
+ 4.3 Contra-indicações Hipersensibilidade às substâncias activas ou a qualquer um dos excipientes ou à neomicina.
+ Hipersensibilidade após administração anterior de vacinas da hepatite A e/ou hepatite B.
+ A administração de Twinrix Pediátrico deve ser protelada nos indivíduos com síndrome febril grave.
+ 4.4 Advertências e precauções especiais de utilização
+ É possível que alguns indivíduos estejam no período de incubação da infecção pelo vírus da hepatite A ou B no momento da vacinação. Nestes casos, não se sabe se o Twinrix Pediátrico previne as hepatites A e B.
+ A vacina não previne infecções causadas por outros vírus, nomeadamente hepatites C e E e por outros patogénios conhecidos que possam infectar o fígado.
+ 11 Twinrix Pediátrico não está recomendado na profilaxia pós-exposição (por ex. picada de agulha acidental).
+ A vacina não foi testada em doentes com a função imunológica comprometida. Em doentes submetidos a diálise, em indivíduos a administrar tratamento imunossupressor em indivíduos imunodeficientes podem não ser obtidos níveis adequados de anti-VHA ou anti-VHB, após a primovacinação. Assim, estes doentes podem necessitar de doses adicionais de vacina; apesar disso, os doentes imunodeprimidos podem não atingir uma resposta adequada.
+ Tal como acontece com todas as vacinas injectáveis, deve dispor-se de supervisão clínica e tratamento médico adequado para utilização imediata, caso ocorram reacções anafilácticas após a administração da vacina.
+ Uma vez que a administração da vacina por via intradérmica ou intramuscular no músculo glúteo pode não conduzir a uma resposta adequada, devem evitar-se estas vias de administração. Contudo, excepcionalmente, Twinrix Pediátrico pode ser administrado por via subcutânea a indivíduos com trombocitopenia ou outras alterações da coagulação, uma vez que a administração intramuscular pode causar hemorragia nesses indivíduos (ver secção 4.2).
+ EM SITUAÇÃO ALGUMA TWINRIX PEDIÁTRICO DEVERÁ SER ADMINISTRADO POR VIA INTRAVENOSA.
+ Tal como com qualquer procedimento injectável, pode ocorrer, pouco frequentemente, síncope vasovagal após administração de Twinrix Pediátrico em adultos e adolescentes.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Não existem dados sobre a administração concomitante de Twinrix Pediátrico com imunoglobulina específica da hepatite A ou imunoglobulina específica da hepatite B. No entanto, quando as vacinas monovalentes contra a hepatite A e hepatite B foram administradas concomitantemente com imunoglobulinas específicas, não se observou qualquer influência na seroconversão, embora possa originar títulos de anticorpos mais baixos.
+ Como a administração concomitante de Twinrix Pediátrico com outras vacinas não foi especificamente estudada, é aconselhável que esta vacina não seja administrada ao mesmo tempo que as outras vacinas.
+ 4.6 Gravidez e aleitamento Gravidez O efeito de Twinrix Pediátrico na sobrevivência e desenvolvimento embrio-fetal, peri-natal e pós-natal foi avaliado em ratos. Este estudo não indicou quaisquer efeitos nefastos directos ou indirectos no que respeita à fertilidade, gravidez, ao desenvolvimento embrionário/fetal, parto ou ao desenvolvimento pós-natal.
+ O efeito de Twinrix Pediátrico na sobrevivência e desenvolvimento embrio-fetal, peri-natal e pós-natal não foi avaliado prospectivamente em ensaios clínicos.
+ Os dados relativos aos resultados de um número limitado de gravidezes de mulheres vacinadas não revelaram quaisquer efeitos adversos de Twinrix Pediátrico sobre a gravidez ou a saúde do feto/recém-nascido. Apesar de não ser expectável que o antigénio de superfície do vírus da hepatite B recombinante tenha efeitos adversos sobre a gravidez ou feto, recomenda-se que a vacinação deva ser adiada até após o parto, excepto em caso de necessidade urgente de proteger a mãe contra a hepatite B.
+ 12 Aleitamento
+ Desconhece-se se Twinrix Pediátrico é excretado no leite materno humano. A excreção de Twinrix Pediátrico no leite não foi estudada no animal. A decisão de continuar/descontinuar a amamentação ou continuar/descontinuar o tratamento com Twinrix Pediátrico deve ser tomada tendo em consideração o benefício da amamentação para a criança e o benefício do tratamento com Twinrix Pediátrico para a mulher.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Os efeitos de Twinrix Pediátrico sobre a capacidade de conduzir e utilizar máquinas são nulos ou desprezíveis.
+ 4.8 Efeitos indesejáveis • Ensaios Clínicos
+ A formulação actual de Twinrix não contém tiomersal (composto organomercúrico) ou qualquer conservante. Num ensaio clínico realizado com a formulação actual a incidência de dor, rubor, tumefacção, fadiga, gastrenterite, cefaleias e febre foi comparável à incidência observada com a formulação anterior da vacina com tiomersal e conservante. Os efeitos indesejáveis seguintes foram notificados após uma vasta utilização da formulação anterior.
+ O perfil de segurança seguidamente apresentado baseia-se em dados de aproximadamente 800 indivíduos.
+ A frequência dos efeitos indesejáveis é reportada do seguinte modo: ≥1/10 Muito frequentes: ≥1/100 a &lt; 1/10 Frequentes: ≥1/1.000 a &lt; 1/100 Pouco frequentes: ≥1/10.000 a &lt; 1/1.000 Raros: Muito raros:
+ &lt; 1/10.000
+ * refere-se a reacções adversas observadas em ensaios clínicos com a formulação para adultos
+ Doenças do sangue e do sistema linfático Raros: linfadenopatia
+ Doenças do sistema nervoso Frequentes: sonolência, cefaleias Raros: hipoestesia*, parestesia*, tonturas
+ Doenças gastrointestinais Frequentes: sintomas gastrointestinais, náuseas Pouco frequentes: diarreia, vómitos, dor abdominal
+ Afecções dos tecidos cutâneos e subcutâneas Pouco frequentes: erupções cutâneas Raros: urticária, prurido*
+ Perturbações dos tecidos musculoesquelético e conjuntivo Pouco frequentes: mialgia* Raros: artralgia*
+ Doenças do metabolismo e da nutrição Frequentes: perda de apetite
+ 13 Infecções e infestações Pouco frequentes: infecções do trato respiratório superior*
+ Vasculopatias Raros: hipotensão* Perturbações gerais e alterações no local de administração Muito frequentes: dor e vermelhidão no local da injecção Frequentes: tumefacção no local da injecção, reacções no local da injecção (tais como nódoas negras), fadiga, mal-estar, febre (≥ 37, 5ºC) Raros: sintomas semelhantes à gripe*, arrepios*
+ Perturbações Psiquiátricas: Frequentes: irritabilidade
+ • Farmacovigilância pós-comercialização
+ As seguintes reacções adversas foram notificadas tanto com Twinrix como com as vacinas monovalentes da hepatite A ou B da GlaxoSmithKline:
+ Doenças do sangue e do sistema linfático Trombocitopenia, púrpura trombocitopénica
+ Doenças do sistema nervoso Encefalite, encefalopatia, neurite, neuropatia, paralisia, convulsões
+ Afecções dos tecidos cutâneos e subcutâneas Edema angioneurotico, líquen plano, eritema multiforme
+ Perturbações dos tecidos musculoesquelético e conjuntivo Artrite, fraqueza muscular
+ Infecções e infestações Meningite Vasculopatias Vasculite Doenças do sistema imunitário Anafilaxia, reacções alérgicas incluindo reacções anafilactóides e síndrome semelhante à doença do soro
+ Após longa utilização de vacinas monovalentes contra a hepatite A e/ou hepatite B, foram notificados adicionalmente os seguintes efeitos indesejáveis numa associação temporal com a vacinação
+ Exames complementares de diagnóstico Alterações dos testes da função hepática
+ Doenças do sistema nervoso Esclerose múltipla, mielite, paralisia facial, polinevrites tais como síndrome de Guillain-Barré (com paralisia ascendente), nevrite óptica
+ 4.9 Sobredosagem 14 Foram notificados casos de sobredosagem durante a farmacovigilância pós-comercialização. Os acontecimentos adversos notificados após sobredosagem foram semelhantes aos notificados após a administração normal da vacina.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Vacinas contra os vírus da hepatite, Código ATC J07BC20.
+ Twinrix Pediátrico é uma vacina combinada formulada a partir da associação de preparações a granel do vírus inactivado purificado da hepatite A (HA) e do antigénio de superfície purificado da hepatite B (AgHBs), separadamente adsorvidos em hidróxido de alumínio e fosfato de alumínio. O vírus HA é propagado em células diplóides humanas MCR5. O AgHBs é produzido em cultura de células de levedura geneticamente modificadas num meio selectivo. Twinrix Pediátrico confere imunidade contra as infecções por VHA e VHB por induzir a formação de anticorpos específicos anti-VHA e anti-VHB.
+ A protecção contra a hepatite A e a hepatite B obtém-se num período de 2 a 4 semanas. Nos estudos clínicos, observaram-se anticorpos humorais específicos contra a hepatite A em aproximadamente 89% dos indivíduos, um mês após a primeira dose e, em 100% um mês após a terceira dose (i. e. mês 7). Os anticorpos humorais específicos contra a hepatite B foram observados em 67% dos indivíduos após a primeira dose, e aproximadamente em 100% após a terceira dose.
+ Em ensaios clínicos de longa duração, observou-se existir, na maioria dos vacinados, persistência dos anticorpos anti-VHA e anti-VHB até 48 meses após o início do esquema de vacinação primário com Twinrix Pediátrico (ver secção 4.2). Demonstrou-se que as cinéticas de diminuição dos anticorpos anti-VHA e anti-VHB são similares às das vacinas monovalentes.
+ Esta informação foi obtida com a formulação anterior de Twinrix contendo tiomersal e um conservante. Um ensaio clínico realizado com a formulação actual de Twinrix em adultos mostrou que a formulação actual apresenta taxas de seroprotecção e seroconversão semelhantes, comparativamente à formulação anterior.
+ 5.2 Propriedades farmacocinéticas A avaliação das propriedades farmacocinéticas não é requerida em vacinas.
+ 5.3 Dados de segurança pré-clínica Os dados não clínicos não revelam riscos especiais para o ser humano, segundo estudos gerais de segurança (ver secção 4.6).
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Cloreto de sódio Água para preparações injectáveis
+ Para adjuvantes, ver secção 2. 6.2 Incompatibilidades 15 Na ausência de estudos de compatibilidade, este medicamento não deve ser misturado com outros medicamentos.
+ 6.3 Prazo de validade 3 anos. 6.4 Precauções especiais de conservação
+ Conservar no frigorífico (2°C-8°C). Não congelar. Conservar na embalagem de origem para proteger da luz.
+ 6.5 Natureza e conteúdo do recipiente 0,5 ml de suspensão numa seringa pré-cheia (vidro tipo 1) com tampa de borracha (butilo).
+ Embalagens de 1,10 e 50 com ou sem agulhas.
+ Nem todas as apresentações serão comercializadas.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ Após armazenagem, poderá apresentar um depósito branco fino com sobrenadante cristalino.
+ Antes da administração, a vacina deverá ser bem agitada de modo a obter uma suspensão branca ligeiramente opaca e inspeccionada visualmente para detectar qualquer partícula estranha e/ou alteração do aspecto físico. Caso se verifique qualquer destas alterações, deve inutilizar-se a vacina.
+ Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 7. TITULAR DE AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ GlaxoSmithKline Biologicals s. a. rue de l' Institut 89 B-1330 Rixensart, Bélgica
+ 8. NÚMEROS DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/97/029/001 EU/1/97/029/002 EU/1/97/029/006 EU/1/97/029/007 EU/1/97/029/008 EU/1/97/029/009 EU/1/97/029/010
+ 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 16 Data da primeira autorização: 10 de Fevereiro de 1997 Data da última renovação: 10 de Fevereiro de 2007
+ 10. DATA DA REVISÃO DO TEXTO 17 ANEXO II
+ A. FABRICANTE DA SUBSTÂNCIA ACTIVA DE ORIGEM BIOLÓGICA E TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 18 A. FABRICANTE DA SUBSTÂNCIA ACTIVA DE ORIGEM BIOLÓGICA E TITULAR DE AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do fabricante da substância activa de origem biológica
+ GlaxoSmithKline Biologicals s. a. Rue de l’ Institut 89,1330 Rixensart Bélgica
+ Nome e endereço do fabricante responsável pela libertação do lote
+ GlaxoSmithKline Biologicals s. a. Rue de l’ Institut 89,1330 Rixensart Bélgica
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO SER CUMPRIDAS PELO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento sujeito a receita médica. • CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ Não aplicável. • OUTRAS CONDIÇÕES
+ Libertação oficial do lote: nos termos do artigo 114. º da Directa 2001/83/EC, com as alterações que lhe foram introduzidas, a libertação oficial do lote será feita por um laboratório estatal ou um laboratório designado para esse efeito.
+ RPS: O Titular da Autorização de Introdução no Mercado irá continuar a submeter os Relatórios Periódicos de Segurança anualmente.
+ 19 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 20 A. ROTULAGEM
+ 21 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ 1. NOME DO MEDICAMENTO Twinrix Pediátrico-Suspensão injectável Vacina (adsorvida) contra a hepatite A (inactivada) e hepatite B (ADNr) (HAB)
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ 1 dose (0,5 ml): Vírus da hepatite A (inactivado) 1,2 Antigénio de superfície da hepatite B3,4 1 Produzido em células diplóides humanas (MRC-5) 2
+ 360 Unidades ELISA 10 microgramas 0,025 miligramas Al3+ Adsorvido em hidróxido de alumínio hidratado 3 Produzido em células de levedura (Saccharomyces cerevisiae) por tecnologia de ADN recombinante 4 0,2 miligramas Al3+ Adsorvido em fosfato de alumínio
+ 3. LISTA DOS EXCIPIENTES Cloreto de sódio Água para preparações injectáveis
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Suspensão injectável 1 frasco para injectáveis 1 dose (0,5 ml)
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar. Via intramuscular Agitar antes de usar
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL.: MM/AAAA 22 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico Não congelar Conservar na embalagem de origem para proteger da luz
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ Eliminar de acordo com as exigências locais.
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ GlaxoSmithKline Biologicals s. a. Rue de l’ Institut 89 B-1330 Rixensart, Bélgica
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/97/029/003 13. NÚMERO DO LOTE Lote: 14. CLASSIFICAÇÃO GERAL RELATIVA AO FORNECIMENTO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Foi aceite a justificação para não incluir a informação em Braille
+ 23 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ 1. NOME DO MEDICAMENTO Twinrix Pediátrico-Suspensão injectável Vacina (adsorvida) contra a hepatite A (inactivada) e hepatite B (ADNr) (HAB)
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ 1 dose (0,5 ml): Vírus da hepatite A (inactivado) 1,2 Antigénio de superfície da hepatite B3,4 1 Produzido em células diplóides humanas (MRC-5) 2
+ 360 Unidades ELISA 10 microgramas Adsorvido em hidróxido de alumínio hidratado 3
+ 0,025 miligramas Al3+
+ Produzido em células de levedura (Saccharomyces cerevisiae) por tecnologia de ADN recombinante 4 0,2 miligramas Al3+ Adsorvido em fosfato de alumínio
+ 3. LISTA DOS EXCIPIENTES Cloreto de sódio Água para preparações injectáveis
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Suspensão injectável 3 frascos para injectáveis 3 × 1 dose 1 dose (0,5 ml)
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar. Via intramuscular Agitar antes de usar
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 24 8. PRAZO DE VALIDADE
+ VAL.: MM/AAAA 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico Não congelar Conservar na embalagem de origem para proteger da luz
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ Eliminar de acordo com as exigências locais.
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ GlaxoSmithKline Biologicals s. a. Rue de l’ Institut 89 B-1330 Rixensart, Bélgica
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/97/029/004 13. NÚMERO DO LOTE Lote: 14. CLASSIFICAÇÃO GERAL RELATIVA AO FORNECIMENTO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Foi aceite a justificação para não incluir a informação em Braille
+ 25 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ 1. NOME DO MEDICAMENTO Twinrix Pediátrico-Suspensão injectável Vacina (adsorvida) contra a hepatite A (inactivada) e hepatite B (ADNr) (HAB)
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ 1 dose (0,5 ml): Vírus da hepatite A (inactivado) 1,2 Antigénio de superfície da hepatite B3,4 1 Produzido em células diplóides humanas (MRC-5) 2
+ 360 Unidades ELISA 10 microgramas Adsorvido em hidróxido de alumínio hidratado 3
+ 0,025 miligramas Al3+
+ Produzido em células de levedura (Saccharomyces cerevisiae) por tecnologia de ADN recombinante 4 0,2 miligramas Al3+ Adsorvido em fosfato de alumínio
+ 3. LISTA DOS EXCIPIENTES Cloreto de sódio Água para preparações injectáveis
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Suspensão injectável 10 frascos para injectáveis 10 × 1 dose 1 dose (0,5 ml)
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar. Via intramuscular Agitar antes de usar
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 26 8. PRAZO DE VALIDADE
+ VAL.: MM/AAAA 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico Não congelar Conservar na embalagem de origem para proteger da luz
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ Eliminar de acordo com as exigências locais.
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ GlaxoSmithKline Biologicals s. a. Rue de l’ Institut 89 B-1330 Rixensart, Bélgica
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/97/029/005 13. NÚMERO DO LOTE Lote: 14. CLASSIFICAÇÃO GERAL RELATIVA AO FORNECIMENTO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Foi aceite a justificação para não incluir a informação em Braille
+ 27 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ 1. NOME DO MEDICAMENTO Twinrix Pediátrico-Suspensão injectável Vacina (adsorvida) contra a hepatite A (inactivada) e hepatite B (ADNr) (HAB)
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ 1 dose (0,5 ml): Vírus da hepatite A (inactivado) 1,2 Antigénio de superfície da hepatite B3,4 1 Produzido em células diplóides humanas (MRC-5) 2
+ 360 Unidades ELISA 10 microgramas Adsorvido em hidróxido de alumínio hidratado 3
+ 0,025 miligramas Al3+
+ Produzido em células de levedura (Saccharomyces cerevisiae) por tecnologia de ADN recombinante 4 0,2 miligramas Al3+ Adsorvido em fosfato de alumínio
+ 3. LISTA DOS EXCIPIENTES Cloreto de sódio Água para preparações injectáveis
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Suspensão injectável 1 seringa 1 dose (0,5 ml)
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar. Via intramuscular Agitar antes de usar
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL.: MM/AAAA 28 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico Não congelar Conservar na embalagem de origem para proteger da luz
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ Eliminar de acordo com as exigências locais.
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ GlaxoSmithKline Biologicals s. a. Rue de l’ Institut 89 B-1330 Rixensart, Bélgica
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/97/029/001 13. NÚMERO DO LOTE Lote: 14. CLASSIFICAÇÃO GERAL RELATIVA AO FORNECIMENTO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Foi aceite a justificação para não incluir a informação em Braille
+ 29 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ 1. NOME DO MEDICAMENTO Twinrix Pediátrico-Suspensão injectável Vacina (adsorvida) contra a hepatite A (inactivada) e hepatite B (ADNr) (HAB)
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ 1 dose (0,5 ml): Vírus da hepatite A (inactivado) 1,2 Antigénio de superfície da hepatite B3,4 1 Produzido em células diplóides humanas (MRC-5) 2
+ 360 Unidades ELISA 10 microgramas Adsorvido em hidróxido de alumínio hidratado 3
+ 0,025 miligramas Al3+
+ Produzido em células de levedura (Saccharomyces cerevisiae) por tecnologia de ADN recombinante 4 0,2 miligramas Al3+ Adsorvido em fosfato de alumínio
+ 3. LISTA DOS EXCIPIENTES Cloreto de sódio Água para preparações injectáveis
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Suspensão injectável 10 seringas 10 × 1 dose 1 dose (0,5 ml)
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar. Via intramuscular Agitar antes de usar
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 30 8. PRAZO DE VALIDADE
+ VAL.: MM/AAAA 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico Não congelar Conservar na embalagem de origem para proteger da luz
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ Eliminar de acordo com as exigências locais.
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ GlaxoSmithKline Biologicals s. a. Rue de l’ Institut 89 B-1330 Rixensart, Bélgica
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/97/029/002 13. NÚMERO DO LOTE Lote: 14. CLASSIFICAÇÃO GERAL RELATIVA AO FORNECIMENTO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Foi aceite a justificação para não incluir a informação em Braille
+ 31 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ 1. NOME DO MEDICAMENTO Twinrix Pediátrico-Suspensão injectável Vacina (adsorvida) contra a hepatite A (inactivada) e hepatite B (ADNr) (HAB)
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ 1 dose (0,5 ml): Vírus da hepatite A (inactivado) 1,2 Antigénio de superfície da hepatite B3,4 1 Produzido em células diplóides humanas (MRC-5) 2
+ 360 Unidades ELISA 10 microgramas Adsorvido em hidróxido de alumínio hidratado 3
+ 0,025 miligramas Al3+
+ Produzido em células de levedura (Saccharomyces cerevisiae) por tecnologia de ADN recombinante 4 0,2 miligramas Al3+ Adsorvido em fosfato de alumínio
+ 3. LISTA DOS EXCIPIENTES Cloreto de sódio Água para preparações injectáveis
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Suspensão injectável 50 seringas 50 × 1 dose 1 dose (0,5 ml)
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar. Via intramuscular Agitar antes de usar
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 32 8. PRAZO DE VALIDADE
+ VAL.: MM/AAAA 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico Não congelar Conservar na embalagem de origem para proteger da luz
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ Eliminar de acordo com as exigências locais.
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ GlaxoSmithKline Biologicals s. a. Rue de l’ Institut 89 B-1330 Rixensart, Bélgica
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/97/029/008 13. NÚMERO DO LOTE Lote: 14. CLASSIFICAÇÃO GERAL RELATIVA AO FORNECIMENTO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Foi aceite a justificação para não incluir a informação em Braille
+ 33 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ 1. NOME DO MEDICAMENTO Twinrix Pediátrico-Suspensão injectável Vacina (adsorvida) contra a hepatite A (inactivada) e hepatite B (ADNr) (HAB)
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ 1 dose (0,5 ml): Vírus da hepatite A (inactivado) 1,2 Antigénio de superfície da hepatite B3,4 1 Produzido em células diplóides humanas (MRC-5) 2
+ 360 Unidades ELISA 10 microgramas 0,025 miligramas Al3+ Adsorvido em hidróxido de alumínio hidratado 3 Produzido em células de levedura (Saccharomyces cerevisiae) por tecnologia de ADN recombinante 4 0,2 miligramas Al3+ Adsorvido em fosfato de alumínio
+ 3. LISTA DOS EXCIPIENTES Cloreto de sódio Água para preparações injectáveis
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Suspensão injectável 1 seringa 1 agulha 1 dose (0,5 ml)
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar. Via intramuscular Agitar antes de usar
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 34 8. PRAZO DE VALIDADE
+ VAL.: MM/AAAA 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico Não congelar Conservar na embalagem de origem para proteger da luz
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ Eliminar de acordo com as exigências locais.
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ GlaxoSmithKline Biologicals s. a. Rue de l’ Institut 89 B-1330 Rixensart, Bélgica
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/97/029/006 13. NÚMERO DO LOTE Lote: 14. CLASSIFICAÇÃO GERAL RELATIVA AO FORNECIMENTO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Foi aceite a justificação para não incluir a informação em Braille
+ 35 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ 1. NOME DO MEDICAMENTO Twinrix Pediátrico-Suspensão injectável Vacina (adsorvida) contra a hepatite A (inactivada) e hepatite B (ADNr) (HAB)
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ 1 dose (0,5 ml): Vírus da hepatite A (inactivado) 1,2 Antigénio de superfície da hepatite B3,4 1 Produzido em células diplóides humanas (MRC-5) 2
+ 360 Unidades ELISA 10 microgramas Adsorvido em hidróxido de alumínio hidratado 3
+ 0,025 miligramas Al3+
+ Produzido em células de levedura (Saccharomyces cerevisiae) por tecnologia de ADN recombinante 4 0,2 miligramas Al3+ Adsorvido em fosfato de alumínio
+ 3. LISTA DOS EXCIPIENTES Cloreto de sódio Água para preparações injectáveis
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Suspensão injectável 10 seringas 10 agulhas 10 × 1 dose 1 dose (0,5 ml)
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar. Via intramuscular Agitar antes de usar
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 36 8. PRAZO DE VALIDADE
+ VAL.: MM/AAAA 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico Não congelar Conservar na embalagem de origem para proteger da luz
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ Eliminar de acordo com as exigências locais.
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ GlaxoSmithKline Biologicals s. a. Rue de l’ Institut 89 B-1330 Rixensart, Bélgica
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/97/029/007 13. NÚMERO DO LOTE Lote: 14. CLASSIFICAÇÃO GERAL RELATIVA AO FORNECIMENTO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Foi aceite a justificação para não incluir a informação em Braille
+ 37 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ 1. NOME DO MEDICAMENTO Twinrix Pediátrico-Suspensão injectável Vacina (adsorvida) contra a hepatite A (inactivada) e hepatite B (ADNr) (HAB)
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ 1 dose (0,5 ml): Vírus da hepatite A (inactivado) 1,2 Antigénio de superfície da hepatite B3,4 1 Produzido em células diplóides humanas (MRC-5) 2
+ 360 Unidades ELISA 10 microgramas 0,025 miligramas Al3+ Adsorvido em hidróxido de alumínio hidratado 3 Produzido em células de levedura (Saccharomyces cerevisiae) por tecnologia de ADN recombinante 4 0,2 miligramas Al3+ Adsorvido em fosfato de alumínio
+ 3. LISTA DOS EXCIPIENTES Cloreto de sódio Água para preparações injectáveis
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Suspensão injectável 1 seringa 2 agulhas 1 dose (0,5 ml)
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar. Via intramuscular Agitar antes de usar
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 38 8. PRAZO DE VALIDADE
+ VAL.: MM/AAAA 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico Não congelar Conservar na embalagem de origem para proteger da luz
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ Eliminar de acordo com as exigências locais.
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ GlaxoSmithKline Biologicals s. a. Rue de l’ Institut 89 B-1330 Rixensart, Bélgica
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/97/029/009 13. NÚMERO DO LOTE Lote: 14. CLASSIFICAÇÃO GERAL RELATIVA AO FORNECIMENTO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Foi aceite a justificação para não incluir a informação em Braille
+ 39 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ 1. NOME DO MEDICAMENTO Twinrix Pediátrico-Suspensão injectável Vacina (adsorvida) contra a hepatite A (inactivada) e hepatite B (ADNr) (HAB)
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ 1 dose (0,5 ml): Vírus da hepatite A (inactivado) 1,2 Antigénio de superfície da hepatite B3,4 1 Produzido em células diplóides humanas (MRC-5) 2
+ 360 Unidades ELISA 10 microgramas 0,025 miligramas Al3+ Adsorvido em hidróxido de alumínio hidratado 3 Produzido em células de levedura (Saccharomyces cerevisiae) por tecnologia de ADN recombinante 4 0,2 miligramas Al3+ Adsorvido em fosfato de alumínio
+ 3. LISTA DOS EXCIPIENTES Cloreto de sódio Água para preparações injectáveis
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Suspensão injectável 10 seringas 20 agulhas 10 × 1 dose 1 dose (0,5 ml)
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar. Via intramuscular Agitar antes de usar
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 40 8. PRAZO DE VALIDADE
+ VAL.: MM/AAAA 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico Não congelar Conservar na embalagem de origem para proteger da luz
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ Eliminar de acordo com as exigências locais.
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ GlaxoSmithKline Biologicals s. a. Rue de l’ Institut 89 B-1330 Rixensart, Bélgica
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/97/029/010 13. NÚMERO DO LOTE Lote: 14. CLASSIFICAÇÃO GERAL RELATIVA AO FORNECIMENTO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Foi aceite a justificação para não incluir a informação em Braille
+ 41 INDICAÇÕES MÍNIMAS A INCLUIR ACONDICIONAMENTO PRIMÁRIO
+ EM PEQUENAS UNIDADES DE 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Twinrix Pediátrico, suspensão injectável Vacina HAB IM
+ 2. MODO DE ADMINISTRAÇÃO 3. PRAZO DE VALIDADE VAL.: 4. NÚMERO DO LOTE Lote: 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 1 dose (0,5 ml) 6. OUTRAS 42 B. FOLHETO INFORMATIVO
+ 43 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Twinrix Pediátrico, Suspensão injectável Vacina (adsorvida) contra a hepatite A (inactivada) e hepatite B (ADNr) (HAB)
+ Leia atentamente este folheto antes de você ou a sua criança iniciarem esta vacina
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Esta vacina foi receitada para você ou para a sua criança. Não deve dá-la a outros.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários
+ não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é Twinrix Pediátrico e para que é utilizado 2. Antes de você ou da sua criança receberem Twinrix Pediátrico 3. Como é administrado Twinrix Pediátrico 4. Possíveis efeitos secundários 5. Como conservar Twinrix Pediátrico 6. Outras informações
+ 1. O QUE É TWINRIX PEDIÁTRICO E PARA QUE É UTILIZADO
+ Twinrix Pediátrico é uma vacina usada em lactentes, crianças e adolescentes desde 1 ano até aos 15 anos de idade, inclusive, para prevenir duas doenças: hepatite A e hepatite B. A vacina actua fazendo com que seja o organismo a produzir as suas próprias defesas (anticorpos) contra estas doenças.
+ • Hepatite A: A hepatite A é uma doença infecciosa que pode afectar o fígado. Esta doença é causada pelo vírus da hepatite A. O vírus da hepatite A pode ser transmitido de pessoa para pessoa através dos alimentos e bebidas, ou por se nadar em água contaminada por esgoto. Os sintomas da hepatite A aparecem 3 a 6 semanas após o contacto com o vírus. Os sintomas consistem em náuseas (sensação de mal-estar), febre e dor. Após alguns dias, a parte branca dos olhos e a pele podem apresentar um tom amarelado (icterícia). A gravidade e tipo de sintomas podem variar. Crianças mais jovens podem não ter icterícia. A maioria das pessoas recupera totalmente, mas a doença é normalmente suficientemente grave para justificar uma ausência ao trabalho de cerca de um mês.
+ • Hepatite B: A hepatite B é causada pelo vírus da hepatite B. Causa inchaço do fígado (inflamação). O vírus é encontrado nos fluidos corporais, tais como o sangue, sémen, secreções vaginais ou saliva das pessoas infectadas.
+ A vacinação é a melhor forma de protecção contra estas doenças. Nenhum dos componentes da vacina é infeccioso.
+ 2. ANTES DE VOCÊ OU DA SUA CRIANÇA RECEBEREM TWINRIX PEDIÁTRICO
+ Twinrix Pediátrico não deve ser administrado:
+ • se anteriormente você/a sua criança tiveram uma reacção alérgica a Twinrix Pediátrico ou a qualquer outro componente desta vacina. No final deste folheto, existe uma lista das substâncias activas e dos outros componentes de Twinrix Pediátrico. Os sinais de alergia incluem erupção cutânea com comichão, dificuldade em respirar e inchaço da face ou da língua.
+ 44 • se você/a sua criança já tiveram uma reacção alérgica a qualquer vacina contra a hepatite A ou hepatite B. • se você/a sua criança tiverem uma infecção grave com temperatura elevada (acima de 38°C). Uma infecção ligeira, tal como uma constipação, não deve ser um problema, mas fale primeiro com o médico.
+ Tome especial cuidado com Twinrix Pediátrico:
+ • se você/a sua criança já tiveram problemas de saúde após a administração anterior de uma vacina. • se você/a sua criança têm qualquer problema de coagulação do sangue ou fazem nódoas negras com facilidade.
+ Utilizar com outros medicamentos ou vacinas Informe o seu médico se você/a sua criança estiverem a tomar ou tiverem tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica ou se lhe administraram recentemente outra vacina.
+ Gravidez e aleitamento Tenha especial cuidado com Twinrix Pediátrico se está ou pensa estar grávida ou se pretende vir a estar grávida. O seu médico irá conversar consigo sobre os possíveis riscos e benefícios de lhe ser administrado Twinrix Pediátrico durante a gravidez. Não se sabe se Twinrix Pediátrico passa para o leite materno, contudo não é esperado que a vacina cause problemas na criança amamentada.
+ Informações importantes sobre alguns componentes de Twinrix Pediátrico Informe o seu médico se já teve uma reacção alérgica à neomicina (antibiótico).
+ 3. COMO É ADMINISTRADO TWINRIX PEDIÁTRICO
+ Você/a sua criança irão receber um total de três injecções durante 6 meses. Cada injecção é dada em consultas separadas. A primeira dose será administrada na data escolhida. As restantes duas doses serão administradas um mês e seis meses após a primeira dose.
+ • • •
+ Primeira dose: Segunda dose: Terceira dose:
+ na data escolhida 1 mês depois 6 meses após a primeira dose
+ Se forem necessárias doses adicionais ou dose de reforço, o médico informá-lo-á.
+ Se você/a sua criança faltarem a uma administração programada, fale com o seu médico e combine outra consulta.
+ Certifique-se que você/a sua criança completam o esquema de vacinação de três administrações. Caso contrário, você/a sua criança poderão não ficar completamente protegidos contra as doenças.
+ O médico irá administrar-lhe Twinrix Pediátrico sob a forma de injecção no músculo da parte superior do braço e no caso da sua criança na região antero-lateral da coxa.
+ A vacina nunca deverá ser administrada numa veia.
+ 45 4. POSSÍVEIS EFEITOS SECUNDÁRIOS
+ Como todos os medicamentos, Twinrix Pediátrico pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ Os efeitos secundários que ocorreram durante os ensaios clínicos ou administração de rotina da vacina ou com as vacinas individuais da hepatite A e hepatite B incluem:
+ Muito frequentes (Estes podem ocorrer em 1 por 10 doses ou mais de vacina): • Dor e vermelhidão no local da injecção Frequentes (Estes podem ocorrer em até 1 por 10 doses de vacina): • Sonolência, dores de cabeça • Náuseas • Perda de apetite • Inchaço ou nódoas negras no local de injecção • Mal-estar geral, fadiga • Febre igual ou superior a 37, 5ºC • Irritabilidade Pouco frequentes (Estes podem ocorrer em até 1 por 100 doses de vacina): • Diarreia, vómitos, dores de estômago • Erupções cutâneas • Dores musculares • Infecção do trato respiratório superior Raros (Estes podem ocorrer em até 1 por 1000 doses de vacina): • Gânglios inchados no pescoço, axilas ou virilhas (linfadenopatia) • Tonturas • Perda de sensibilidade da pele à dor ou tacto (hipoestesia) • Sensação de picadas ou formigueiro (parestesia) • Urticária, comichão • Dores nas articulações • Diminuição da pressão sanguínea • Sintomas semelhantes à gripe tais como febre alta, garganta irritada, corrimento nasal, tosse e arrepios Muito raros (Estes podem ocorrer em até 1 em 10.000 doses de vacina): • Redução do número de plaquetas no sangue, o que aumenta o risco de hemorragia e de nódoas negras (trombocitopenia) • Manchas vermelho-acastanhadas ou roxas visíveis pela pele (púrpura trombocitopénica) • Inchaço ou infecção do cérebro (encefalite) • Doença degenerativa do cérebro (encefalopatia) • Inflamação dos nervos (nevrite) • Entorpecimento ou fraqueza dos braços e pernas (neuropatia), paralisia • Convulsões • Inchaço da face, boca ou garganta (edema angioneurotico) • Altos roxos ou roxo-avermelhados na pele (líquen plano), erupções cutâneas graves (eritema multiforme) • Inchaço nas articulações, fraqueza muscular • Infecção à volta do cérebro que pode desencadear dores de cabeça graves com rigidez do pescoço e sensibilidade à luz (meningite) • Inflamação de alguns vasos sanguíneos (vasculite) • Reacções alérgicas graves (anafilaxia, reacções anafilactóides e síndrome semelhante à doença do soro). Os sinais de reacções alérgicas graves podem ser erupções cutâneas que podem dar comichão ou formar bolhas, inchaço dos olhos e face, dificuldade em respirar ou em engolir, uma quebra súbita na pressão sanguínea e perda de
+ 46 consciência. Estas reacções podem ocorrer antes de sair do consultório médico. Contudo, deverá contactar o médico imediatamente caso surja algum destes sintomas.
+ • • • •
+ Resultados laboratoriais anormais nos testes hepáticos Esclerose múltipla, inchaço da espinha dorsal (mielite) Pálpebra descaída ou músculos descaídos de um dos lados da face (paralisia facial) Inflamação temporária dos nervos, causando dor, fraqueza ou paralisia nas extremidades e progredindo frequentemente para a o peito e face (síndrome de Guillain-Barré)
+ •
+ Uma doença dos nervos dos olhos (neurite ocular)
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR TWINRIX PEDIÁTRICO Manter fora do alcance e vista das crianças.
+ Não utilize Twinrix Pediátrico após o prazo de validade impresso na embalagem. O prazo de validade corresponde ao último dia do mês indicado.
+ Conservar no frigorífico (2ºC – 8ºC). Conservar na embalagem de origem para proteger da luz. Não congelar. A congelação destrói a vacina.
+ Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Twinrix Pediátrico -As substâncias activas são:
+ Vírus da hepatite A (inactivado) 1,2 Antigénio de superfície da hepatite B3,4 1 Produzido em células diplóides humanas (MRC-5) 2
+ 360 Unidades ELISA 10 microgramas 0,025 miligramas Al3+ Adsorvido em hidróxido de alumínio hidratado 3 Produzido em células de levedura (Saccharomyces cerevisiae) por tecnologia de ADN recombinante 4 0,2 miligramas Al3+ Adsorvido em fosfato de alumínio
+ -Os outros componentes de Twinrix Pediátrico são: cloreto de sódio, água para
+ preparações injectáveis
+ Qual o aspecto de Twinrix Pediátrico e conteúdo da embalagem
+ Suspensão injectável. Twinrix Pediátrico apresenta-se como um líquido branco, ligeiramente leitoso, presente num frasco para injectáveis de vidro (0,5 ml)
+ Twinrix Pediátrico está disponível em embalagens de 1,3 e 10.
+ Nem todas as apresentações poderão estar comercializadas.
+ 47 Titular da Autorização de Introdução no Mercado e Fabricante
+ GlaxoSmithKline Biologicals s. a. rue de l' Institut 89 B-1330 Rixensart Bélgica
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do titular da autorização de introdução no mercado
+ België/Belgique/Belgien GlaxoSmithKline s. a./n. v. Tél/Tel:+ 32 2 656 21 11
+ Luxembourg/Luxemburg GlaxoSmithKline s. a./n. v. Tél/Tel:+ 32 2 656 21 11
+ България ГлаксоСмитКлайн ЕООД Тел.:+ 359 2 953 10 34
+ Magyarország GlaxoSmithKline Kft. Tel.:+ 36-1-2255300
+ Česká republika GlaxoSmithKline s. r. o. Tel:+ 420 2 22 00 11 11 gsk. czmail@ gsk. com
+ Malta GlaxoSmithKline Malta Tel:+ 356 21 238131
+ Danmark GlaxoSmithKline Pharma A/S Tlf:+ 45 36 35 91 00 info@ glaxosmithkline. dk
+ Nederland GlaxoSmithKline BV Tel:+ 31 (0) 30 69 38 100 nlinfo@ gsk. com
+ Deutschland GlaxoSmithKline GmbH &amp; Co. KG Tel:+ 49 (0) 89 360448701 produkt. info@ gsk. com
+ Norge GlaxoSmithKline AS Tlf:+ 47 22 70 20 00 firmapost@ gsk. no
+ Eesti GlaxoSmithKline Eesti OÜ Tel: +372 667 6900 estonia@ gsk. com
+ Österreich GlaxoSmithKline Pharma GmbH. Tel:+ 43 1 970 75-0 at. info@ gsk. com
+ Ελλάδα GlaxoSmithKline A. E. B. E Tηλ:+ 30 210 68 82 100
+ Polska GSK Commercial Sp. z o. o. Tel.:+ 48 (22) 576 9000
+ España GlaxoSmithKline, S. A. Tel:+ 34 902 202 700 es-ci@ gsk. com
+ Portugal Smith Kline &amp; French Portuguesa, Produtos Farmacêuticos, Lda. Tel:+ 351 21 412 95 00 FI. PT@ gsk. com
+ France Laboratoire GlaxoSmithKline Tél:+ 33 (0) 1 39 17 84 44 diam@ gsk. com
+ România GlaxoSmithKline (GSK) SRL Tel:+ 40 (0) 21 3028 208
+ 48 Ireland GlaxoSmithKline (Ireland) Ltd Tel:+ 353 (0) 1 4955000
+ Slovenija GlaxoSmithKline d. o. o. Tel:+ 386 (0) 1 280 25 00 medical. x. si@ gsk. com
+ Ísland GlaxoSmithKline ehf. Sími: +354-530 3700
+ Slovenská republika GlaxoSmithKline Slovakia s. r. o. Tel: +421 (0) 2 48 26 11 11 recepcia. sk@ gsk. com
+ Italia GlaxoSmithKline S. p. A. Tel:+ 39 04 59 21 81 11
+ Suomi/Finland GlaxoSmithKline Oy Puh/Tel:+ 358 10 30 30 30 Finland. tuoteinfo@ gsk. com
+ Κύπρος GlaxoSmithKline (Cyprus) Ltd Τηλ:+ 357 22 89 95 01
+ Sverige GlaxoSmithKline AB Tel:+ 46 (0) 8 638 93 00 info. produkt@ gsk. com
+ Latvija GlaxoSmithKline Latvia SIA Tel:+ 371 67312687 lv-epasts@ gsk. com
+ United Kingdom GlaxoSmithKline UK Tel:+ 44 (0) 808 100 9997 customercontactuk@ gsk. com
+ Lietuva GlaxoSmithKline Lietuva UAB Tel. +370 5 264 90 00 info. lt@ gsk. com
+ Este folheto foi aprovado pela última vez em
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu/.
+ A informação que se segue destina-se apenas aos médicos e aos profissionais de saúde:
+ Após armazenagem, poderá apresentar um depósito branco fino com sobrenadante cristalino.
+ Antes da administração, a vacina deverá ser bem agitada de modo a obter uma suspensão branca ligeiramente opaca e inspeccionada visualmente para detectar qualquer partícula estranha e/ou alteração do aspecto físico. Caso se verifique qualquer destas alterações, deve inutilizar-se a vacina.
+ 49 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Twinrix Pediátrico, Suspensão injectável em seringa pré-cheia Vacina (adsorvida) contra a hepatite A (inactivada) e hepatite B (ADNr) (HAB)
+ Leia atentamente este folheto antes de você ou a sua criança iniciarem esta vacina
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Esta vacina foi receitada para você ou para a sua criança. Não deve dá-la a outros.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários
+ não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é Twinrix Pediátrico e para que é utilizado 2. Antes de você ou da sua criança receberem Twinrix Pediátrico 3. Como é administrado Twinrix Pediátrico 4. Possíveis efeitos secundários 5. Como conservar Twinrix Pediátrico 6. Outras informações
+ 1. O QUE É TWINRIX PEDIÁTRICO E PARA QUE É UTILIZADO
+ Twinrix Pediátrico é uma vacina usada em lactentes, crianças e adolescentes desde 1 ano até aos 15 anos de idade, inclusive, para prevenir duas doenças: hepatite A e hepatite B. A vacina actua fazendo com que seja o organismo a produzir as suas próprias defesas (anticorpos) contra estas doenças.
+ • Hepatite A: A hepatite A é uma doença infecciosa que pode afectar o fígado. Esta doença é causada pelo vírus da hepatite A. O vírus da hepatite A pode ser transmitido de pessoa para pessoa através dos alimentos e bebidas, ou por se nadar em água contaminada por esgoto. Os sintomas da hepatite A aparecem 3 a 6 semanas após o contacto com o vírus. Os sintomas consistem em náuseas (sensação de mal-estar), febre e dor. Após alguns dias, a parte branca dos olhos e a pele podem apresentar um tom amarelado (icterícia). A gravidade e tipo de sintomas podem variar. Crianças mais jovens podem não ter icterícia. A maioria das pessoas recupera totalmente, mas a doença é normalmente suficientemente grave para justificar uma ausência ao trabalho de cerca de um mês.
+ • Hepatite B: A hepatite B é causada pelo vírus da hepatite B. Causa inchaço do fígado (inflamação). O vírus é encontrado nos fluidos corporais, tais como o sangue, sémen, secreções vaginais ou saliva das pessoas infectadas.
+ A vacinação é a melhor forma de protecção contra estas doenças. Nenhum dos componentes da vacina é infeccioso.
+ 2. ANTES DE VOCÊ OU DA SUA CRIANÇA RECEBEREM TWINRIX PEDIÁTRICO
+ Twinrix Pediátrico não deve ser administrado:
+ • se anteriormente você/a sua criança tiveram uma reacção alérgica a Twinrix Pediátrico ou a qualquer outro componente desta vacina. No final deste folheto, existe uma lista das substâncias activas e dos outros componentes de Twinrix Pediátrico. Os sinais de alergia incluem erupção cutânea com comichão, dificuldade em respirar e inchaço da face ou da língua.
+ 50 • se você/a sua criança já tiveram uma reacção alérgica a qualquer vacina contra a hepatite A ou hepatite B. • se você/a sua criança tiverem uma infecção grave com temperatura elevada (acima de 38°C). Uma infecção ligeira, tal como uma constipação, não deve ser um problema, mas fale primeiro com o médico.
+ Tome especial cuidado com Twinrix Pediátrico:
+ • se você/a sua criança já tiveram problemas de saúde após a administração anterior de uma vacina. • se você/a sua criança têm qualquer problema de coagulação do sangue ou fazem nódoas negras com facilidade.
+ Utilizar com outros medicamentos ou vacinas Informe o seu médico se você/a sua criança estiverem a tomar ou tiverem tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica ou se lhe administraram recentemente outra vacina.
+ Gravidez e aleitamento Tenha especial cuidado com Twinrix Pediátrico se está ou pensa estar grávida ou se pretende vir a estar grávida. O seu médico irá conversar consigo sobre os possíveis riscos e benefícios de lhe ser administrado Twinrix Pediátrico durante a gravidez. Não se sabe se Twinrix Pediátrico passa para o leite materno, contudo não é esperado que a vacina cause problemas na criança amamentada.
+ Informações importantes sobre alguns componentes de Twinrix Pediátrico Informe o seu médico se já teve uma reacção alérgica à neomicina (antibiótico).
+ 3. COMO É ADMINISTRADO TWINRIX PEDIÁTRICO
+ Você/a sua criança irão receber um total de três injecções durante 6 meses. Cada injecção é dada em consultas separadas. A primeira dose será administrada na data escolhida. As restantes duas doses serão administradas um mês e seis meses após a primeira dose.
+ • • •
+ Primeira dose: Segunda dose: Terceira dose:
+ na data escolhida 1 mês depois 6 meses após a primeira dose
+ Se forem necessárias doses adicionais ou dose de reforço, o médico informá-lo-á.
+ Se você/a sua criança faltarem a uma administração programada, fale com o seu médico e combine outra consulta.
+ Certifique-se que você/a sua criança completam o esquema de vacinação de três administrações. Caso contrário, você/a sua criança poderão não ficar completamente protegidos contra as doenças.
+ O médico irá administrar-lhe Twinrix Pediátrico sob a forma de injecção no músculo da parte superior do braço e no caso da sua criança na região antero-lateral da coxa.
+ A vacina nunca deverá ser administrada numa veia.
+ 51 4. POSSÍVEIS EFEITOS SECUNDÁRIOS
+ Como todos os medicamentos, Twinrix Pediátrico pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ Os efeitos secundários que ocorreram durante os ensaios clínicos ou administração de rotina da vacina ou com as vacinas individuais da hepatite A e hepatite B incluem:
+ Muito frequentes (Estes podem ocorrer em 1 por 10 doses ou mais de vacina): • Dor e vermelhidão no local da injecção Frequentes (Estes podem ocorrer em até 1 por 10 doses de vacina): • Sonolência, dores de cabeça • Náuseas • Perda de apetite • Inchaço ou nódoas negras no local de injecção • Mal-estar geral, fadiga • Febre igual ou superior a 37, 5ºC • Irritabilidade Pouco frequentes (Estes podem ocorrer em até 1 por 100 doses de vacina): • Diarreia, vómitos, dores de estômago • Erupções cutâneas • Dores musculares • Infecção do trato respiratório superior Raros (Estes podem ocorrer em até 1 por 1000 doses de vacina): • Gânglios inchados no pescoço, axilas ou virilhas (linfadenopatia) • Tonturas • Perda de sensibilidade da pele à dor ou tacto (hipoestesia) • Sensação de picadas ou formigueiro (parestesia) • Urticária, comichão • Dores nas articulações • Diminuição da pressão sanguínea • Sintomas semelhantes à gripe tais como febre alta, garganta irritada, corrimento nasal, tosse e arrepios Muito raros (Estes podem ocorrer em até 1 em 10.000 doses de vacina): • Redução do número de plaquetas no sangue, o que aumenta o risco de hemorragia e de nódoas negras (trombocitopenia) • Manchas vermelho-acastanhadas ou roxas visíveis pela pele (púrpura trombocitopénica) • Inchaço ou infecção do cérebro (encefalite) • Doença degenerativa do cérebro (encefalopatia) • Inflamação dos nervos (nevrite) • Entorpecimento ou fraqueza dos braços e pernas (neuropatia), paralisia • Convulsões • Inchaço da face, boca ou garganta (edema angioneurotico) • Altos roxos ou roxo-avermelhados na pele (líquen plano), erupções cutâneas graves (eritema multiforme) • Inchaço nas articulações, fraqueza muscular • Infecção à volta do cérebro que pode desencadear dores de cabeça graves com rigidez do pescoço e sensibilidade à luz (meningite) • Inflamação de alguns vasos sanguíneos (vasculite) • Reacções alérgicas graves (anafilaxia, reacções anafilactóides e síndrome semelhante à doença do soro). Os sinais de reacções alérgicas graves podem ser erupções cutâneas que podem dar comichão ou formar bolhas, inchaço dos olhos e face, dificuldade em respirar ou em engolir, uma quebra súbita na pressão sanguínea e perda de
+ 52 consciência. Estas reacções podem ocorrer antes de sair do consultório médico. Contudo, deverá contactar o médico imediatamente caso surja algum destes sintomas.
+ • • • •
+ Resultados laboratoriais anormais nos testes hepáticos Esclerose múltipla, inchaço da espinha dorsal (mielite) Pálpebra descaída ou músculos descaídos de um dos lados da face (paralisia facial) Inflamação temporária dos nervos, causando dor, fraqueza ou paralisia nas extremidades e progredindo frequentemente para a o peito e face (síndrome de Guillain-Barré)
+ •
+ Uma doença dos nervos dos olhos (neurite ocular)
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR TWINRIX PEDIÁTRICO Manter fora do alcance e vista das crianças.
+ Não utilize Twinrix Pediátrico após o prazo de validade impresso na embalagem. O prazo de validade corresponde ao último dia do mês indicado.
+ Conservar no frigorífico (2ºC – 8ºC). Conservar na embalagem de origem para proteger da luz. Não congelar. A congelação destrói a vacina.
+ Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Twinrix Pediátrico -As substâncias activas são:
+ Vírus da hepatite A (inactivado) 1,2 Antigénio de superfície da hepatite B3,4 1 Produzido em células diplóides humanas (MRC-5) 2
+ 360 Unidades ELISA 10 microgramas 0,025 miligramas Al3+ Adsorvido em hidróxido de alumínio hidratado 3 Produzido em células de levedura (Saccharomyces cerevisiae) por tecnologia de ADN recombinante 4 0,2 miligramas Al3+ Adsorvido em fosfato de alumínio
+ -Os outros componentes de Twinrix Pediátrico são: cloreto de sódio, água para
+ preparações injectáveis
+ Qual o aspecto de Twinrix Pediátrico e conteúdo da embalagem
+ Suspensão injectável em seringa pré-cheia.
+ Twinrix Pediátrico apresenta-se como um líquido branco, ligeiramente leitoso, presente numa seringa pré-cheia de vidro (0,5 ml)
+ Twinrix Pediátrico está disponível em embalagens de 1,10 e 50 com ou sem agulhas.
+ Nem todas as apresentações poderão estar comercializadas.
+ 53 Titular da Autorização de Introdução no Mercado e Fabricante
+ GlaxoSmithKline Biologicals s. a. rue de l' Institut 89 B-1330 Rixensart Bélgica
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do titular da autorização de introdução no mercado
+ België/Belgique/Belgien GlaxoSmithKline s. a./n. v. Tél/Tel:+ 32 2 656 21 11
+ Luxembourg/Luxemburg GlaxoSmithKline s. a./n. v. Tél/Tel:+ 32 2 656 21 11
+ България ГлаксоСмитКлайн ЕООД Тел.:+ 359 2 953 10 34
+ Magyarország GlaxoSmithKline Kft. Tel.:+ 36-1-2255300
+ Česká republika GlaxoSmithKline s. r. o. Tel:+ 420 2 22 00 11 11 gsk. czmail@ gsk. com
+ Malta GlaxoSmithKline Malta Tel:+ 356 21 238131
+ Danmark GlaxoSmithKline Pharma A/S Tlf:+ 45 36 35 91 00 info@ glaxosmithkline. dk
+ Nederland GlaxoSmithKline BV Tel:+ 31 (0) 30 69 38 100 nlinfo@ gsk. com
+ Deutschland GlaxoSmithKline GmbH &amp; Co. KG Tel:+ 49 (0) 89 360448701 produkt. info@ gsk. com
+ Norge GlaxoSmithKline AS Tlf:+ 47 22 70 20 00 firmapost@ gsk. no
+ Eesti GlaxoSmithKline Eesti OÜ Tel: +372 667 6900 estonia@ gsk. com
+ Österreich GlaxoSmithKline Pharma GmbH. Tel:+ 43 1 970 75-0 at. info@ gsk. com
+ Ελλάδα GlaxoSmithKline A. E. B. E Tηλ:+ 30 210 68 82 100
+ Polska GSK Commercial Sp. z o. o. Tel.:+ 48 (22) 576 9000
+ España GlaxoSmithKline, S. A. Tel:+ 34 902 202 700 es-ci@ gsk. com
+ Portugal Smith Kline &amp; French Portuguesa, Produtos Farmacêuticos, Lda. Tel:+ 351 21 412 95 00 FI. PT@ gsk. com
+ France Laboratoire GlaxoSmithKline Tél:+ 33 (0) 1 39 17 84 44 diam@ gsk. com
+ România GlaxoSmithKline (GSK) SRL Tel:+ 40 (0) 21 3028 208
+ 54 Ireland GlaxoSmithKline (Ireland) Ltd Tel:+ 353 (0) 1 4955000
+ Slovenija GlaxoSmithKline d. o. o. Tel:+ 386 (0) 1 280 25 00 medical. x. si@ gsk. com
+ Ísland GlaxoSmithKline ehf. Sími: +354-530 3700
+ Slovenská republika GlaxoSmithKline Slovakia s. r. o. Tel: +421 (0) 2 48 26 11 11 recepcia. sk@ gsk. com
+ Italia GlaxoSmithKline S. p. A. Tel:+ 39 04 59 21 81 11
+ Suomi/Finland GlaxoSmithKline Oy Puh/Tel:+ 358 10 30 30 30 Finland. tuoteinfo@ gsk. com
+ Κύπρος GlaxoSmithKline (Cyprus) Ltd Τηλ:+ 357 22 89 95 01
+ Sverige GlaxoSmithKline AB Tel:+ 46 (0) 8 638 93 00 info. produkt@ gsk. com
+ Latvija GlaxoSmithKline Latvia SIA Tel:+ 371 67312687 lv-epasts@ gsk. com
+ United Kingdom GlaxoSmithKline UK Tel:+ 44 (0) 808 100 9997 customercontactuk@ gsk. com
+ Lietuva GlaxoSmithKline Lietuva UAB Tel. +370 5 264 90 00 info. lt@ gsk. com
+ Este folheto foi aprovado pela última vez em
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu/.
+ A informação que se segue destina-se apenas aos médicos e aos profissionais de saúde:
+ Após armazenagem, poderá apresentar um depósito branco fino com sobrenadante cristalino.
+ Antes da administração, a vacina deverá ser bem agitada de modo a obter uma suspensão branca ligeiramente opaca e inspeccionada visualmente para detectar qualquer partícula estranha e/ou alteração do aspecto físico. Caso se verifique qualquer destas alterações, deve inutilizar-se a vacina.
+ 55

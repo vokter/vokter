@@ -1,0 +1,645 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. NOME DO MEDICAMENTO
+ Cubicin 350 mg pó para concentrado para solução para perfusão
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada frasco para injectáveis contém 350 mg de daptomicina.
+ Um ml contém 50 mg de daptomicina após reconstituição com 7 ml de solução de cloreto de sódio a 9 mg/ml (0,9%) ou água para preparações injectáveis.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Pó para concentrado para solução para perfusão.
+ Um pó liofilizado amarelo pálido a castanho claro.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Cubicin está indicado para o tratamento das seguintes infecções em adultos (ver as secções 4.4 e 5.1).
+ -Infecções complicadas da pele e dos tecidos moles (ICPTM).
+ -Endocardite Infecciosa do lado direito do coração (EID) causada por Staphylococcus aureus.
+ Recomenda-se que a decisão do uso da daptomicina tenha em conta a susceptibilidade do organismo e deve ser baseada em recomendações de profissionais com experiência. Ver secção 4.4 e 5.1.
+ -Bacteriemia por Staphylococcus aureus (SAB) quando associada a EID ou a ICPTM.
+ A daptomicina é activa apenas contra bactérias Gram-positivas (ver a secção 5.1). Em infecções mistas nas quais existe a suspeita de bactérias Gram-negativas e/ou de certos tipos de bactérias anaeróbias, Cubicin deve ser co-administrado com o(s) agente(s) antibacteriano(s) apropriado(s).
+ Deve ter-se em consideração a orientação oficial sobre a utilização apropriada de agentes antibacterianos.
+ 4.2 Posologia e modo de administração Posologia -ICPTM não associada a bacteriemia por Staphylococcus aureus: A dose recomendada é de
+ 4 mg/kg administrada uma vez de 24 em 24 horas durante 7-14 dias ou até à resolução da infecção (ver a secção 5.1).
+ -ICPTM associada a bacteriemia por Staphylococcus aureus: A dose recomendada é de 6 mg/kg
+ administrada uma vez de 24 em 24 horas. Ver abaixo os ajustes da dose em doentes com insuficiência renal. A duração da terapêutica pode ter de ser superior a 14 dias de acordo com o risco previsto ou observado de complicações no doente.
+ -Endocardite Infecciosa do lado direito do coração (EID) causada por Staphylococcus aureus
+ conhecida ou suspeita: A dose recomendada é de 6 mg/kg administrada uma vez de 24 em 24 horas. Ver abaixo os ajustes da dose em doentes com insuficiência renal. A duração do tratamento deve estar de acordo com as recomendações oficiais disponíveis.
+ 2 Insuficiência renal A daptomicina é eliminada principalmente pelo rim.
+ Devido ao facto da experiência clínica ser limitada (ver a tabela e a legenda abaixo), Cubicin deve apenas ser utilizado em doentes com qualquer grau de insuficiência renal (Cr Cl &lt; 80 ml/min) quando se considera que o benefício clínico se sobrepõe ao risco potencial. A resposta ao tratamento e a função renal devem ser cuidadosamente monitorizados em todos os doentes com algum grau de insuficiência renal) (ver também as secções 4.4 e 5.2).
+ Ajustes de dose em doentes com insuficiência renal por indicação terapêutica e depuração da creatinina
+ Indicação para a utilização (1)
+ Depuração da creatinina (1) Dose recomendada (1) Comentários ICPTM sem ≥ 30 ml/min bacteriemia por S. aureus
+ 4 mg/kg uma vez por dia
+ Ver secção 5.1 EID ou ICPTM &lt; 30 ml/min ≥ 50 ml/min
+ 4 mg/kg de 48 em 48 horas (1,2)
+ associada a bacteriemia por S. aureus
+ 6 mg/kg uma vez por dia
+ (3)
+ (1) A segurança e a eficácia do ajuste do intervalo de doses não foram avaliadas clinicamente e a recomendação baseia-se em dados de modelos farmacocinéticos (ver secções 4.4 e 5.2).
+ (2) É recomendado o mesmo ajuste de dose, que também é baseado apenas nos dados de modelos, nos doentes em hemodiálise ou em diálise peritoneal ambulatória contínua (DPAC). Cubicin deve ser administrado, sempre que possível, após terminar a diálise nos dias de diálise (ver a secção 5.2).
+ (3) Não estão disponíveis dados suficientes que suportem uma recomendação da dose em doentes com EID ou ICPTM associada a bacteriemia por Staphylococcus aureus que apresentam uma depuração da creatinina &lt; 50 ml/min. Não existem dados disponíveis que suportem a eficácia da administração diária de 4 mg/kg em doentes com EID ou ICPTM associada a bacteriemia por Staphylococcus aureus que apresentem valores de depuração da creatinina entre 30-49 ml/min ou para suportar o uso de 4 mg/kg de 48 em 48 horas em doentes com uma depuração da creatinina &lt; 30 ml/min.
+ Insuficiência hepática Não é necessário qualquer ajuste posológico quando se administra Cubicin a doentes com insuficiência hepática ligeira ou moderada (Classe B de Child-Pugh) (ver a secção 5.2). Não existem dados relativos a doentes com insuficiência hepática grave (Classe C de Child-Pugh). Portanto, devem tomar-se precauções se Cubicin for administrado a este tipo de doentes.
+ Doentes idosos As doses recomendadas devem ser utilizadas em doentes idosos com excepção daqueles com insuficiência renal grave (ver acima e a secção 4.4). Contudo, existem dados limitados sobre a segurança e a eficácia da daptomicina em doentes com mais de 65 anos, devendo tomar-se precauções se Cubicin for administrado a estes doentes.
+ Crianças e adolescentes (menos de 18 anos) Cubicin não é recomendado em crianças e adolescentes (menos de 18 anos) devido à ausência de dados de segurança e eficácia. Ver secção 5.2.
+ 3 Modo de administração Cubicin é administrado por perfusão intravenosa (ver a secção 6.6) durante um período de 30 minutos.
+ 4.3 Contra-indicações Hipersensibilidade à substância activa ou ao excipiente.
+ 4.4 Advertências e precauções especiais de utilização
+ Se após o início da terapêutica com Cubicin for identificado um foco de infecção que não seja ICPTM ou EID, deve considerar-se a instituição de uma terapêutica antibiótica alternativa que tenha demonstrado ser eficaz no tratamento do tipo específico de infecção presente.
+ Demonstrou-se em ensaios clínicos que Cubicin não é eficaz no tratamento da pneumonia.
+ Os dados clínicos acerca da utilização de Cubicin em doentes com EID causada por Staphylococcus aureus estão limitados a 19 doentes (ver “ Informação obtida em ensaios clínicos ” na secção 5.1).
+ Não foi demonstrada a eficácia de Cubicin em doentes com infecções em válvulas prostéticas ou com endocardite infecciosa do lado esquerdo do coração causada por Staphylococcus aureus.
+ Doentes com infecções estabelecidas devem ser submetidos às intervenções cirúrgicas necessárias (ex. desbridamento, remoção de aparelhos prostéticos, cirurgia de substituição de válvula) o mais rapidamente possível.
+ Não existe evidência suficiente que permita tirar conclusões quanto à possível eficácia clínica de Cubicin contra infecções por Enterococci, incluindo Enterococcus faecalis e Enterococcus faecium. Para além disso, não foram identificados os regimes posológicos de daptomicina que pudessem ser apropriados para o tratamento de infecções enterocócicas, com ou sem bacteriemia.
+ Foram notificados casos de insucesso com daptomicina no tratamento de infecções por enterococcus, a maioria acompanhadas por bacteriemia. Nalguns casos o insucesso do tratamento foi associado à selecção de organismos com susceptibilidade reduzida ou resistentes à daptomicina (ver secção 5.1).
+ Creatinafosfoquinase e miopatia Foram reportados aumentos dos níveis plasmáticos de creatinafosfoquinase (CPK; isoenzima MM) associados a dores musculares e/ou a fraqueza muscular e casos de miosite, mioglobinemia e rabdomiólise durante a terapêutica com Cubicin (ver secções 4.5, 4.8 e 5.3). Em estudos clínicos, aumentos acentuados da CPK plasmática para mais de 5 vezes o Limite Superior dos Valores Normais (LSVN) sem sintomas musculares ocorreram com mais frequência em doentes tratados com Cubicin (1,9%) do que naqueles que receberam comparadores (0,5%). Portanto, recomenda-se que: • A CPK plasmática seja determinada no início e em intervalos regulares (pelo menos uma vez por semana) durante a terapêutica em todos os doentes. • Não se pode excluir que os doentes com níveis iniciais de CPK superiores a 5 vezes o Limite Superior dos Valores Normais no início podem estar em risco acrescido de novos aumentos durante a terapêutica com daptomicina. Deve ter-se este facto em consideração ao iniciar-se a terapêutica com daptomicina e, se esta for administrada, estes doentes devem ser monitorizados com uma frequência superior a uma vez por semana. • A CPK deve ser determinada com uma frequência superior a uma vez por semana em doentes que estão num risco mais elevado de desenvolverem miopatia. Estes incluem doentes com insuficiência renal grave (depuração da creatinina &lt; 30 ml/min; ver também a secção 4.2) e os doentes que tomam outras medicações que se sabe estarem associadas a miopatia (ex. inibidores da HMG-CoA redutase, fibratos e ciclosporina). • Cubicin não deve ser administrado a doentes que estão a tomar outras medicações associadas a
+ 4 miopatia a não ser que se considere que o benefício para o doente supera o risco. • Os doentes devem ser examinados com regularidade durante a terapêutica para detecção de sinais ou sintomas que possam representar miopatia. • Todos os doentes que desenvolvam dor muscular, sensação dolorosa, fraqueza ou cãibra inexplicadas devem ser submetidos a monitorização dos níveis da CPK de 2 em 2 dias. Cubicin deve ser interrompido na presença de sintomas musculares inexplicados se o nível de CPK atingir um valor superior a 5 vezes o limite superior dos valores normais.
+ Neuropatia periférica Os doentes que desenvolvam sinais ou sintomas que possam representar uma neuropatia periférica durante a terapêutica com Cubicin devem ser investigados, devendo ter-se em consideração a interrupção da daptomicina (ver as secções 4.8 e 5.3).
+ Insuficiência renal Foi reportada insuficiência renal durante o tratamento com Cubicin. A insuficiência renal grave também pode por si própria predispor a elevações dos níveis da daptomicina que podem aumentar o risco de desenvolvimento de miopatia (ver acima).
+ É necessário efectuar o ajuste posológico em doentes com ICPTM sem bacteriemia cuja depuração da creatinina é inferior a 30 ml/min (ver as secções 4.2 e 5.2). A segurança e a eficácia das directrizes para o ajuste do intervalo de doses indicadas na secção 4.2 baseiam-se em modelos farmacocinéticos e não foram avaliadas clinicamente. Adicionalmente, não existem dados disponíveis que suportem o uso de 6 mg/kg de daptomicina uma vez por dia em doentes com EID ou ICPTM associada a bacteriemia cuja depuração de creatinina seja &lt; 50 ml/min. Cubicin só deve ser utilizado nestes doentes quando se considera que o benefício clínico esperado supera o risco potencial.
+ Aconselha-se precaução quando se administra Cubicin a doentes que já têm um certo grau de insuficiência renal (depuração da creatinina &lt; 80 ml/min) antes do início da terapêutica com Cubicin. Aconselha-se a monitorização regular da função renal (ver secção 5.2).
+ Aconselha-se também a monitorização regular da função renal durante a administração concomitante de agentes potencialmente nefrotóxicos, independentemente da função renal anterior do doente (ver secção 4.5).
+ Em indivíduos obesos com um Índice de Massa Corporal (IMC) superior a 40 kg/m2 mas com depuração da creatinina superior a 70 ml/min, a AUC0-∞ da daptomicina estava significativamente aumentada (em média 42% mais elevada) em comparação com controlos correspondentes não obesos. A informação sobre a segurança e a eficácia da daptomicina é limitada nos muito obesos e, portanto, recomenda-se precaução. Contudo, não existe presentemente evidência de que é necessária uma diminuição da dose (ver a secção 5.2).
+ A utilização de antibióticos pode facilitar o crescimento excessivo de microrganismos não sensíveis. Se ocorrer superinfecção durante a terapêutica devem ser tomadas as medidas apropriadas.
+ Foram reportadas colite associada a antibióticos e colite pseudomembranosa com quase todos os antibióticos, podendo a sua gravidade variar entre ligeira a com risco de vida. Portanto, é importante considerar este diagnóstico em doentes que se apresentam com diarreia durante ou pouco depois do tratamento.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ A daptomicina sofre pouco a nenhum metabolismo mediado pelo Citocromo P450 (CYP450). Estudos in vitro determinaram que a daptomicina não inibe nem induz as actividades das isoformas dos citocromos humanos clinicamente significativas (1A2, 2A6, 2C9, 2C19, 2D6, 2E1, 3A4). Portanto, não são de esperar interacções medicamentosas relacionadas com o CYP450.
+ A experiência relacionada com a administração concomitante de daptomicina com outros
+ 5 medicamentos que podem desencadear miopatia é limitada. Contudo, ocorreram alguns casos de aumentos marcados dos níveis da CPK e casos de rabdomiólise em doentes que tomaram um destes medicamentos simultaneamente com Cubicin. Recomenda-se que, durante o tratamento com Cubicin, sejam temporariamente interrompidos, se possível, outros medicamentos associados a miopatia a não ser que os benefícios da administração concomitante superem o risco. Se a co-administração não puder ser evitada, os níveis da CPK devem ser determinados com uma frequência superior a uma vez por semana e os doentes devem ser monitorizados regularmente para detecção de sinais ou sintomas que possam representar miopatia. Ver as secções 4.4, 4.8 e 5.3.
+ A daptomicina é eliminada principalmente por filtração renal e, portanto, os níveis plasmáticos podem aumentar durante a co-administração com medicamentos que diminuem a filtração renal (ex., AINEs e inibidores da COX-2). Além disso, existe o potencial de ocorrer interacção farmacodinâmica durante a co-administração devido a efeitos renais aditivos. Por conseguinte, aconselha-se precaução quando a daptomicina é co-administrada com outros medicamentos que se sabe que diminuem a filtração renal.
+ Durante a farmacovigilância após introdução no mercado, foram reportados casos de interferência entre a daptomicina e reagentes específicos utilizados em alguns ensaios do Tempo de protrombina/Razão Normalizada Internacional – International Normalised Ratio (TP/INR). Esta interferência produziu um prolongamento aparente do TP e uma elevação da IRN. Se forem observadas anomalias de TP/INR em doentes medicados com daptomicina, deve considerar-se a possibilidade de interacção in vitro com o teste laboratorial. A possibilidade de resultados falsos pode ser minimizada pela recolha de amostras para os testes de TP e INR aproximadamente na altura em que ocorrem as concentrações plasmáticas mínimas de daptomicina.
+ 4.6 Gravidez e aleitamento No que respeita à daptomicina, não existem dados clínicos sobre as gravidezes a ela expostas. Os estudos em animais não indicam quaisquer efeitos nefastos, directos ou indirectos, no que respeita à fertilidade, gravidez, ao desenvolvimento embrionário/fetal, parto ou ao desenvolvimento pós-natal (ver a secção 5.3).
+ Cubicin não deve ser utilizado durante a gravidez, a menos que tal seja claramente necessário, isto é, apenas se o potencial benefício superar o possível risco.
+ Não se sabe se a daptomicina é excretada no leite humano. Portanto, a amamentação deve ser interrompida durante o tratamento com Cubicin.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas.
+ Com base nas reacções adversas medicamentosas notificadas, pensa-se que não é provável que Cubicin produza qualquer efeito sobre a capacidade de conduzir ou utilizar máquinas.
+ 4.8 Efeitos indesejáveis Estudos clínicos Em estudos clínicos, foram medicados 2.011 indivíduos com Cubicin. Nestes estudos, 1.221 indivíduos receberam uma dose diária de 4 mg/kg, dos quais 1.108 eram doentes e 113 eram voluntários saudáveis; 460 indivíduos receberam uma dose diária de 6 mg/kg, dos quais 304 eram doentes e 156 eram voluntários saudáveis. Foram reportadas reacções adversas (isto é, consideradas pelo investigador como possível, provável ou definitivamente relacionadas com o medicamento) com frequências similares para Cubicin e para os regimes de comparação.
+ No que respeita aos indivíduos que receberam Cubicin, as reacções adversas que foram reportadas com mais frequência durante a terapêutica e o seguimento foram: cefaleias, náuseas, vómitos, diarreia, infecções fúngicas, erupção cutânea, reacção no local da perfusão, aumento da creatinafosfoquinase
+ 6 (CPK) e valores anormais das enzimas hepáticas alanina-aminotransferase (ALT), aspartato-aminotransferase (AST) e fosfatase alcalina.
+ As seguintes reacções adversas foram reportadas durante a terapêutica e o seguimento com frequências que corresponderam a: Frequentes= ≥ 1/100-&lt; 1/10, Pouco frequentes= &gt; 1/1.000-&lt; 1/100, Raros= &gt; 1/10.000-&lt; 1/1.000 e Muito raros= ≤ 1/10.000:
+ Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ Infecções e infestações Frequentes: Infecções fúngicas Pouco frequentes: Infecção das vias urinárias
+ Doenças do sangue e do sistema linfático Pouco frequentes: Trombocitemia, anemia, eosinofilia
+ Doenças do metabolismo e da nutrição Pouco frequentes: Anorexia, hiperglicemia
+ Perturbações do foro psiquiátrico Pouco frequentes: Ansiedade, insónia
+ Doenças do sistema nervoso Frequentes: Cefaleias Pouco frequentes: Tonturas, parestesias, perturbação do paladar
+ Cardiopatias Pouco frequentes: Taquicardia supraventricular, extra-sistolia
+ Vasculopatias Pouco frequentes: Rubores cutâneos, hipertensão, hipotensão
+ Doenças gastrointestinais Frequentes: Náuseas, vómitos, diarreia Pouco frequentes: Obstipação, dores abdominais, dispepsia, glossite
+ Afecções hepatobiliares Pouco frequentes: Icterícia
+ Afecções dos tecidos cutâneos e subcutâneas Frequentes: Erupção cutânea Pouco frequentes: Prurido, urticária
+ Afecções musculosqueléticas, dos tecidos conjuntivos e doenças ósseas: Pouco frequentes: Miosite, fraqueza muscular, mialgias, artralgias
+ Doenças renais e urinárias Pouco frequentes: Insuficiência renal, incluindo falência renal
+ Doenças dos órgãos genitais e da mama Pouco frequentes: Vaginite
+ Perturbações gerais e alterações no local de administração Frequentes: Reacções no local de perfusão Pouco frequentes: Pirexia, fraqueza, fadiga, dor
+ 7 Exames complementares de diagnóstico: Frequentes: Provas da função hepática anormais (aumento da AST, da ALT e da fosfatase alcalina), aumento da CPK Pouco frequentes: Desequilíbrio electrolítico, aumento da creatinina sérica, aumento da mioglobina, aumento da desidrogenase láctica (LDH).
+ Após introdução no mercado As reacções adversas que foram reportadas após a introdução no mercado e que não estão acima indicadas são:
+ Doenças do sistema imunitário Hipersensibilidade, manifestada por notificações espontâneas isoladas que incluíram mas não se limitaram a eosinofilia pulmonar, exantema vesico-bolhoso com envolvimento das membranas mucosas e sensação de edema da orofaringe. Anafilaxia Reacções à perfusão incluindo os seguintes sintomas: taquicardia, pieira, pirexia, arrepios, rubor generalizado, vertigens, síncope e sabor metálico.
+ Afecções musculosqueléticas, dos tecidos conjuntivos e doenças ósseas: Rabdomiólise Assim que ficaram disponíveis informações clínicas sobre os doentes para permitir uma avaliação, aproximadamente 50% dos casos ocorreram em doentes com insuficiência renal anterior ou naqueles que estavam a receber medicações concomitantes que se sabe que causam rabdomiólise.
+ Doenças do sistema nervoso Neuropatia periférica
+ Exames complementares de diagnóstico Em alguns casos de miopatia que envolveram aumento da CPK e sintomas musculares, os doentes também apresentaram transaminases elevadas. Estes aumentos a nível das transaminases estavam provavelmente relacionados com os efeitos a nível do músculo esquelético. A maior parte das elevações das transaminases consistiram numa toxicidade de Grau 1 a 3 e resolveram-se após interrupção do tratamento.
+ 4.9 Sobredosagem No caso de sobredosagem, aconselha-se que sejam administrados cuidados de suporte. A daptomicina é eliminada lentamente do organismo por hemodiálise (aproximadamente 15% da dose administrada é removida num período de 4 horas) ou por diálise peritoneal (aproximadamente 11% da dose administrada é removida num período de 48 horas)
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Antibacterianos para uso sistémico, Outros antibacterianos, código ATC: J01XX09
+ Modo de acção A daptomicina é um produto natural da classe dos lipopeptídeos cíclicos que é activo apenas contra bactérias Gram-positivas.
+ O mecanismo de acção envolve ligação (na presença de iões de cálcio) a membranas bacterianas tanto de células em fase de crescimento como de células em fase estacionária causando despolarização e induzindo a inibição rápida da síntese de proteínas, do DNA e do RNA, resultando na morte da célula bacteriana com lise celular insignificante.
+ 8 Relação entre farmacocinética e farmacodinâmica A daptomicina apresenta uma actividade bactericida contra microorganismos Gram-positivos sensíveis in vitro, rápida e dependente da concentração. Em modelos animais, a AUC/CMI e a Cmax/CMI estão relacionadas com eficácia e com a morte bacteriana prevista in vivo em doses únicas equivalentes a doses humanas de 4 mg/kg e 6 mg/kg uma vez por dia.
+ Mecanismos de resistência Durante o tratamento foram reportadas estirpes com susceptibilidade diminuída à daptomicina, especialmente em doentes com infecções difíceis de tratar e/ou após administração durante períodos prolongados. Em particular, existiram notificações de insucessos do tratamento em doentes infectados com Staphylococcus aureus, Enterococcus faecalis ou Enterococcus faecium, incluindo doentes com bacteriemia, que foram associados à selecção de organismos com susceptibilidade reduzida ou resistentes à daptomicina durante o tratamento.
+ O mecanismo de resistência à daptomicina não foi ainda identificado.
+ Concentrações críticas de sensibilidade As concentrações críticas de sensibilidade das concentrações mínimas inibidoras (CMI) estabelecidas pela Comissão Europeia de Antibiogramas (European Committee on Antimicrobial Susceptibility Testing-EUCAST) para os estafilococos e estreptococos (excepto o S. pneumoniae) são Sensível ≤ 1 mg/l e Resistente &gt; 1 mg/l.
+ Sensibilidade A prevalência da resistência pode variar geograficamente e com o decorrer do tempo em espécies seleccionadas e a informação local sobre resistência é conveniente especialmente quando se tratam infecções graves. Deve obter-se o conselho de peritos, de acordo com a necessidade, quando a prevalência local da resistência é tal que a utilidade do agente em pelo menos alguns tipos de infecção é duvidosa.
+ Espécies frequentemente sensíveis Staphylococcus aureus* Staphylococcus haemolyticus Estafilococos coagulase-negativos Streptococcus agalactiae* Streptococcus dysgalactiae subsp equisimilis* Streptococcus pyogenes* Estreptococos do Grupo G Clostridium perfringens Peptostreptococcus spp Microrganismos inerentemente resistentes Microorganismos Gram-negativos* indica espécies contras as quais se considera que a actividade foi satisfatoriamente demonstrada em estudos clínicos.
+ Informação obtida em ensaios clínicos Nos dois ensaios clínicos acima mencionados de infecções complicadas da pele e dos tecidos moles,36% dos doentes tratados com Cubicin satisfizeram os critérios relativos ao sindroma da resposta inflamatória sistémica (systemic inflammatory response syndrome-SIRS). O tipo mais frequente de infecção tratada foi a infecção de feridas (38% dos doentes), enquanto 21% tinha abcessos grandes. Estas limitações da população de doentes tratados devem ser consideradas ao tomar-se uma decisão relativa à utilização de Cubicin.
+ Num estudo aberto, aleatorizado e controlado em 235 doentes com bacteriemia por Staphylococcus aureus (isto é, no mínimo uma hemocultura positiva para Staphylococcus aureus antes de terem recebido a primeira dose),19 dos 120 doentes tratados com Cubicin apresentavam critérios para EID.
+ 9 Destes 19 doentes,11 estavam infectados com Staphylococcus aureus sensível à meticilina e 8 com Staphylococcus aureus resistente à meticilina. As taxas de sucesso em doentes com EID encontram-se na tabela seguinte.
+ Diferenças no População
+ Daptomicina Comparador Sucesso População ITT (intention to treat) n/N (%) n/N (%)
+ Taxas (95% CI) EID População PP (per protocol)
+ 8/19 (42,1%) 7/16 (43,8%) -1,6% (-34,6; 31,3)
+ EID 6/12 (50,0%) 4/8 (50,0%) 0,0% (-44,7; 44,7) Foi observado insucesso terapêutico devido a infecções persistentes ou a recidivas por Staphylococcus aureus em 19/120 (15,8%) dos doentes tratados com Cubicin, em 9/53 (16,7%) dos doentes tratados com vancomicina e 2/62 (3,2%) dos doentes tratados com penicilina semi-sintética anti-estafilocócica. De entre estes casos de insucesso terapêutico, seis doentes tratados com Cubicin e um doente tratado com vancomicina estavam infectados com Staphylococcus aureus que desenvolveram um aumento da CMI da daptomicina durante ou após a terapêutica (ver “ Mecanismos de resistência ” acima). A maioria dos doentes que não apresentaram melhorias devido a infecções persistentes ou a recidivas por Staphylococcus aureus, apresentavam infecção estabelecida e não foram submetidos à intervenção cirúrgica necessária.
+ 5.2 Propriedades farmacocinéticas A farmacocinética da daptomicina é geralmente linear e independente do tempo em doses de 4 a 12 mg/kg administradas sob a forma de uma dose diária única durante 14 dias em voluntários saudáveis. Atingem-se concentrações em estado de equilíbrio na terceira dose diária.
+ Estudos em animais revelaram que a daptomicina não é absorvida numa extensão significativa após administração oral.
+ Distribuição O volume de distribuição em estado de equilíbrio da daptomicina foi aproximadamente de 0,1 l/kg em voluntários adultos saudáveis, o que está de acordo com a distribuição principalmente no espaço extracelular. Os estudos de distribuição tecidular em animais demonstraram que a daptomicina distribui-se preferencialmente em tecidos altamente vascularizados e, em menor grau, penetra na barreira hemato-encefálica e na barreira placentária após doses únicas e múltiplas.
+ A daptomicina liga-se de forma reversível às proteínas plasmáticas humanas de maneira dependente da concentração. Em voluntários saudáveis e em doentes tratados com daptomicina, a ligação às proteínas foi em média de cerca de 90% incluindo indivíduos com insuficiência renal.
+ Metabolismo Estudos in vitro demonstraram que, no ser humano, a daptomicina não é sujeita a metabolismo mediado pelos microsomas hepáticos ou apenas a um metabolismo limitado e que o envolvimento do CYP450 no metabolismo da daptomicina é mínimo. Análises de amostras de plasma de indivíduos aos quais foi administrada uma dose de 6 mg/kg de daptomicina não revelaram quaisquer vestígios de metabolismo, sugerindo pouco a nenhum metabolismo sistémico.
+ Além disso, não foram observados metabolitos no plasma após administração do fármaco radiomarcado a seres humanos com base nas concentrações totais de radiomarcador e microbiologicamente activas. Dos quatro metabolitos de menor importância detectados na urina, dois são metabolitos oxidativos de Fase I presentes em baixas concentrações.
+ 10 Eliminação A daptomicina é excretada principalmente pelos rins. A administração concomitante de probenecid e de daptomicina não teve qualquer efeito na farmacocinética da daptomicina no ser humano sugerindo uma secreção tubular de daptomicina mínima a não activa.
+ Após administração intravenosa, a depuração plasmática da daptomicina é aproximadamente de 7 a 9 ml/h/kg e a sua depuração renal é de 4 a 7 ml/h/kg.
+ Num estudo de equilíbrio de massa utilizando material radiomarcado,78% da dose administrada foi recuperada da urina com base na radioactividade total, enquanto que a recuperação urinária de daptomicina inalterada correspondeu aproximadamente a 50% da dose. Cerca de 5% do radiomarcador administrado foi excretado nas fezes.
+ Populações especiais Idosos Não é necessário o ajuste posológico com base apenas na idade. Contudo, a função renal deve ser avaliada e a dose deve ser diminuída se houver evidência de insuficiência renal grave.
+ Crianças e adolescentes (menos de 18 anos) Os perfis farmacocinéticos foram obtidos após uma administração intravenosa única de 4 mg/kg de daptomicina em doentes pediátricos, divididos em três grupos etários (2-6 anos, 7-11 anos e 12-17 anos), com infecção Gram-positiva comprovada ou suspeita. A farmacocinética da daptomicina após uma dose única de 4 mg/kg em adolescentes com idade compreendida entre os 12-17 anos é geralmente semelhante à dos indivíduos adultos saudáveis com função renal normal com tendência a uma AUC e Cmax inferior nos adolescentes. Nos grupos etários mais novos (2-6 anos e 7-11 anos) a exposição (Cmax e AUC) e o tempo de semi-vida de eliminação para a mesma dose mg/kg foram menores comparativamente aos adolescentes.
+ Obesidade Relativamente a indivíduos não obesos, a exposição sistémica à daptomicina determinada pela AUC aumenta em cerca de 28% em indivíduos moderadamente obesos (Índice da Massa Corporal de 25 a 40 kg/m2) e em 42% em indivíduos extremamente obesos (Índice da Massa Corporal &gt; 40 kg/m2). Contudo, não se considera necessário o ajuste posológico com base apenas na obesidade.
+ Sexo Não se observaram diferenças clinicamente significativas relacionadas com o sexo na farmacocinética da daptomicina.
+ Insuficiência renal Após administração de uma dose única de 4 mg/kg ou 6 mg/kg de daptomicina a indivíduos com vários graus de insuficiência renal, a depuração da daptomicina (CL) diminuiu e a exposição sistémica (AUC) aumentou. Em indivíduos com insuficiência renal grave (CLcr &lt; 30 ml/min) e com doença renal em estadio terminal, a exposição (AUC) e a semivida de eliminação aumentaram entre 2 a 3 vezes em relação aos indivíduos saudáveis. Ver a secção 4.2 no que respeita à necessidade de ajuste posológico.
+ Insuficiência hepática A farmacocinética da daptomicina não se altera em indivíduos com insuficiência hepática moderada (Classe B de Child-Pugh da insuficiência hepática) em comparação com voluntários saudáveis com sexo, idade e peso correspondentes, após uma dose única de 4 mg/kg dose. Não é necessário ajuste posológico quando se administra daptomicina a doentes com insuficiência hepática moderada. Não foi avaliada a farmacocinética da daptomicina em doentes com insuficiência hepática grave (Classe C de Child-Pugh).
+ 11 5.3 Dados de segurança pré-clínica
+ Em estudos com uma duração clinicamente relevante (14-28 dias), a administração da daptomicina foi associada a alterações degenerativas/regenerativas mínimas a ligeiras do músculo esquelético no rato e no cão. As alterações microscópicas no músculo esquelético foram mínimas (aproximadamente 0,05% de miofibras afectadas) e nas doses mais elevadas foram geralmente acompanhadas por elevações na CPK. Não foi observada fibrose ou rabdomiólise. Dependendo da duração do estudo, todos os efeitos no músculo, incluindo alterações microscópicas, foram totalmente reversíveis num período de 1-3 meses após a interrupção do tratamento. Não se observaram alterações funcionais ou patológicas no músculo liso ou cardíaco.
+ O nível de efeito observado mais baixo (LOEL) para a miopatia nos ratos e cães ocorreu com níveis de exposição de 0,8 a 2,3 vezes em relação aos níveis terapêuticos humanos de 6 mg/kg para doentes com uma função renal normal. Um estudo com cães demonstrou que a miopatia esquelética diminuiu após uma administração única diária comparativamente à administração de uma dose fraccionada da mesma dose total diária, sugerindo que os efeitos miopáticos em animais estavam primariamente relacionados com o intervalo entre as doses.
+ Observaram-se efeitos a nível dos nervos periféricos em doses mais elevadas do que as doses associadas aos efeitos no músculo esqueléticos em ratos e cães adultos, estando principalmente relacionados com a Cmax plasmática. As alterações a nível dos nervos periféricos caracterizaram-se por degenerescência axonial mínima a ligeira, sendo frequentemente acompanhadas por alterações funcionais. A reversão dos efeitos microscópicos e funcionais foi completa ao fim de 6 meses pós-dose. O intervalo de segurança para os efeitos nos nervos periféricos nos ratos e cães são 8-e 6-vezes respectivamente baseados em comparações dos valores de Cmáx no Nível Sem Efeitos Adversos Observados (NOAEL) com as Cmáx obtidas com dosagens de 6 mg/kg uma vez por dia em doentes com função renal normal.
+ Em contraste com os cães adultos, os cães jovens pareceram ser mais sensíveis às lesões dos nervos periféricos em comparação com a miopatia esquelética. Os cães jovens desenvolveram lesões dos nervos periféricos e raquidianos com doses mais baixas do que as doses associadas à toxicidade do músculo esquelético.
+ Os testes de toxicidade reprodutiva não revelaram qualquer evidência de efeitos na fertilidade e no desenvolvimento embriofetal ou pós-natal. Contudo, a daptomicina pode atravessar a placenta em ratos fêmeas gestantes (ver a secção 5.2). Não foi estudada a excreção da daptomicina no leite em animais lactantes.
+ Não foram realizados estudos de carcinogenicidade a longo prazo em roedores. A daptomicina não foi mutagénica ou clastogénica numa bateria de testes de genotoxicidade in vivo e in vitro.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1. Lista dos excipientes Hidróxido de sódio. 6.2 Incompatibilidades Cubicin não é física ou quimicamente compatível com soluções contendo glucose. Este medicamento não deve ser misturado com outros medicamentos, excepto os mencionados na secção 6.6.
+ 12 6.3 Prazo de validade
+ 3 anos Após reconstituição: A estabilidade física e química em uso da solução reconstituída no frasco para injectáveis foi demonstrada durante 12 horas a 25°C e até 48 horas a 2°C-8°C. A estabilidade química e física da solução diluída em sacos de perfusão foi estabelecida em 12 horas a 25°C ou em 24 horas a 2°C-8°C. O tempo combinado de conservação (solução reconstituída no frasco para injectáveis e solução diluída no saco de perfusão: ver a secção 6.6) a 25°C não deve exceder 12 horas (ou 24 horas a 2°C-8°C).
+ Sob o ponto de vista microbiológico, o produto deve ser utilizado imediatamente. Se não for imediatamente utilizado, os períodos de conservação em uso são da responsabilidade do utilizador e, normalmente, não devem ser superiores a 24 horas entre 2 a 8°C, a não ser que a reconstituição e diluição tenham sido efectuadas em condições assépticas controladas e validadas.
+ 6.4 Precauções especiais de conservação
+ Conservar no frigorífico (2°C-8°C). Condições de conservação do medicamento reconstituído diluído, ver secção 6.3.
+ 6.5 Natureza e conteúdo do recipiente Frascos para injectáveis de vidro transparente tipo 1 de 10 ml para utilização única, com tampas de borracha tipo 1 e fechos de alumínio com cápsulas de destacar de plástico amarelo.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ Obtém-se uma concentração de 50 mg/ml após reconstituição com 7 ml de solução para injectáveis de cloreto de sódio a 9 mg/ml (0,9%) ou de água para preparações injectáveis.
+ Deve utilizar-se uma técnica asséptica para reconstituir Cubicin liofilizado. A cápsula de destacar de polipropileno deve ser removida para expor a porção central da tampa de borracha. 7 ml de solução para injectáveis de cloreto de sódio a 9 mg/ml ou de água para preparações injectáveis devem ser lentamente injectados através do centro da tampa de borracha no frasco para injectáveis apontando a agulha na direcção da parede do frasco para injectáveis. O frasco para injectáveis deve ser rodado suavemente para assegurar o humedecimento completo do produto, deixando depois repousar durante 10 minutos. Finalmente, o frasco para injectáveis deve ser rodado suavemente durante alguns minutos conforme necessário até se obter uma solução reconstituída transparente. Deve evitar-se uma agitação vigorosa para impedir a formação de espuma. A reconstituição está normalmente completa ao fim de 15 minutos.
+ Antes da utilização, a solução reconstituída deve ser cuidadosamente verificada para assegurar que o produto está dissolvido e deve ser inspeccionada visualmente para verificar a ausência de partículas.
+ A solução reconstituída de Cubicin tem uma cor que varia entre o amarelo pálido e o castanho claro.
+ A solução reconstituída deve ser depois diluída com cloreto de sódio para perfusão intravenosa (volume típico de 50 ml) e administrada durante 30 minutos, de acordo com as instruções na secção 4.2.
+ Verificou-se que são compatíveis quando adicionados a soluções de perfusão contendo Cubicin: aztreonam, ceftazidima, ceftriaxona, gentamicina, fluconazol, levofloxacina, dopamina, heparina e lidocaína.
+ 13 Os frascos para injectáveis de Cubicin são apenas para utilização única.
+ Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Novartis Europharm Limited Wimblehurst Road Horsham West Sussex, RH12 5AB Reino Unido
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/05/328/001 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 19 Janeiro 2006 10. DATA DA REVISÃO DO TEXTO 14 1. NOME DO MEDICAMENTO
+ Cubicin 500 mg pó para concentrado para solução para perfusão
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada frasco para injectáveis contém 500 mg de daptomicina.
+ Um ml contém 50 mg de daptomicina após reconstituição com 10 ml de solução de cloreto de sódio a 9 mg/ml (0,9%) ou água para preparações injectáveis.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Pó para concentrado para solução para perfusão.
+ Um pó liofilizado amarelo pálido a castanho claro.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Cubicin está indicado para o tratamento das seguintes infecções em adultos (ver as secções 4.4 e 5.1).
+ -Infecções complicadas da pele e dos tecidos moles (ICPTM).
+ -Endocardite Infecciosa do lado direito do coração (EID) causada por Staphylococcus aureus.
+ Recomenda-se que a decisão do uso da daptomicina tenha em conta a susceptibilidade do organismo e deve ser baseada em recomendações de profissionais com experiência. Ver secção 4.4 e 5.1.
+ -Bacteriemia por Staphylococcus aureus (SAB) quando associada a EID ou a ICPTM.
+ A daptomicina é activa apenas contra bactérias Gram-positivas (ver a secção 5.1). Em infecções mistas nas quais existe a suspeita de bactérias Gram-negativas e/ou de certos tipos de bactérias anaeróbias, Cubicin deve ser co-administrado com o(s) agente(s) antibacteriano(s) apropriado(s).
+ Deve ter-se em consideração a orientação oficial sobre a utilização apropriada de agentes antibacterianos.
+ 4.2 Posologia e modo de administração Posologia -ICPTM não associada a bacteriemia por Staphylococcus aureus: A dose recomendada é de
+ 4 mg/kg administrada uma vez de 24 em 24 horas durante 7-14 dias ou até à resolução da infecção (ver a secção 5.1).
+ -ICPTM associada a bacteriemia por Staphylococcus aureus: A dose recomendada é de 6 mg/kg
+ administrada uma vez de 24 em 24 horas. Ver abaixo os ajustes da dose em doentes com insuficiência renal. A duração da terapêutica pode ter de ser superior a 14 dias de acordo com o risco previsto ou observado de complicações no doente.
+ -Endocardite Infecciosa do lado direito do coração (EID) causada por Staphylococcus aureus
+ conhecida ou suspeita: A dose recomendada é de 6 mg/kg administrada uma vez de 24 em 24 horas. Ver abaixo os ajustes da dose em doentes com insuficiência renal. A duração do tratamento deve estar de acordo com as recomendações oficiais disponíveis.
+ 15 Insuficiência renal A daptomicina é eliminada principalmente pelo rim.
+ Devido ao facto da experiência clínica ser limitada (ver a tabela e a legenda abaixo), Cubicin deve apenas ser utilizado em doentes com qualquer grau de insuficiência renal (Cr Cl &lt; 80 ml/min) quando se considera que o benefício clínico se sobrepõe ao risco potencial. A resposta ao tratamento e a função renal devem ser cuidadosamente monitorizados em todos os doentes com algum grau de insuficiência renal) (ver também as secções 4.4 e 5.2).
+ Ajustes de dose em doentes com insuficiência renal por indicação terapêutica e depuração da creatinina
+ Indicação para a utilização (1)
+ Depuração da creatinina (1) Dose recomendada (1) Comentários ICPTM sem ≥ 30 ml/min bacteriemia por S. aureus
+ 4 mg/kg uma vez por dia
+ Ver secção 5.1 EID ou ICPTM &lt; 30 ml/min ≥ 50 ml/min
+ 4 mg/kg de 48 em 48 horas (1,2)
+ associada a bacteriemia por S. aureus
+ 6 mg/kg uma vez por dia
+ (3)
+ (1) A segurança e a eficácia do ajuste do intervalo de doses não foram avaliadas clinicamente e a recomendação baseia-se em dados de modelos farmacocinéticos (ver secções 4.4 e 5.2).
+ (2) É recomendado o mesmo ajuste de dose, que também é baseado apenas nos dados de modelos, nos doentes em hemodiálise ou em diálise peritoneal ambulatória contínua (DPAC). Cubicin deve ser administrado, sempre que possível, após terminar a diálise nos dias de diálise (ver a secção 5.2).
+ (3) Não estão disponíveis dados suficientes que suportem uma recomendação da dose em doentes com EID ou ICPTM associada a bacteriemia por Staphylococcus aureus que apresentam uma depuração da creatinina &lt; 50 ml/min. Não existem dados disponíveis que suportem a eficácia da administração diária de 4 mg/kg em doentes com EID ou ICPTM associada a bacteriemia por Staphylococcus aureus que apresentem valores de depuração da creatinina entre 30-49 ml/min ou para suportar o uso de 4 mg/kg de 48 em 48 horas em doentes com uma depuração da creatinina &lt; 30 ml/min.
+ Insuficiência hepática Não é necessário qualquer ajuste posológico quando se administra Cubicin a doentes com insuficiência hepática ligeira ou moderada (Classe B de Child-Pugh) (ver a secção 5.2). Não existem dados relativos a doentes com insuficiência hepática grave (Classe C de Child-Pugh). Portanto, devem tomar-se precauções se Cubicin for administrado a este tipo de doentes.
+ Doentes idosos As doses recomendadas devem ser utilizadas em doentes idosos com excepção daqueles com insuficiência renal grave (ver acima e a secção 4.4). Contudo, existem dados limitados sobre a segurança e a eficácia da daptomicina em doentes com mais de 65 anos, devendo tomar-se precauções se Cubicin for administrado a estes doentes.
+ Crianças e adolescentes (menos de 18 anos) Cubicin não é recomendado em crianças e adolescentes (menos de 18 anos) devido à ausência de dados de segurança e eficácia. Ver secção 5.2.
+ 16 Modo de administração Cubicin é administrado por perfusão intravenosa (ver a secção 6.6) durante um período de 30 minutos.
+ 4.3 Contra-indicações Hipersensibilidade à substância activa ou ao excipiente.
+ 4.4 Advertências e precauções especiais de utilização
+ Se após o início da terapêutica com Cubicin for identificado um foco de infecção que não seja ICPTM ou EID, deve considerar-se a instituição de uma terapêutica antibiótica alternativa que tenha demonstrado ser eficaz no tratamento do tipo específico de infecção presente.
+ Demonstrou-se em ensaios clínicos que Cubicin não é eficaz no tratamento da pneumonia.
+ Os dados clínicos acerca da utilização de Cubicin em doentes com EID causada por Staphylococcus aureus estão limitados a 19 doentes (ver “ Informação obtida em ensaios clínicos ” na secção 5.1).
+ Não foi demonstrada a eficácia de Cubicin em doentes com infecções em válvulas prostéticas ou com endocardite infecciosa do lado esquerdo do coração causada por Staphylococcus aureus.
+ Doentes com infecções estabelecidas devem ser submetidos às intervenções cirúrgicas necessárias (ex. desbridamento, remoção de aparelhos prostéticos, cirurgia de substituição de válvula) o mais rapidamente possível.
+ Não existe evidência suficiente que permita tirar conclusões quanto à possível eficácia clínica de Cubicin contra infecções por Enterococci, incluindo Enterococcus faecalis e Enterococcus faecium. Para além disso, não foram identificados os regimes posológicos de daptomicina que pudessem ser apropriados para o tratamento de infecções enterocócicas, com ou sem bacteriemia.
+ Foram notificados casos de insucesso com daptomicina no tratamento de infecções por enterococcus, a maioria acompanhadas por bacteriemia. Nalguns casos o insucesso do tratamento foi associado à selecção de organismos com susceptibilidade reduzida ou resistentes à daptomicina (ver secção 5.1).
+ Creatinafosfoquinase e miopatia Foram reportados aumentos dos níveis plasmáticos de creatinafosfoquinase (CPK; isoenzima MM) associados a dores musculares e/ou a fraqueza muscular e casos de miosite, mioglobinemia e rabdomiólise durante a terapêutica com Cubicin (ver secções 4.5, 4.8 e 5.3). Em estudos clínicos, aumentos acentuados da CPK plasmática para mais de 5 vezes o Limite Superior dos Valores Normais (LSVN) sem sintomas musculares ocorreram com mais frequência em doentes tratados com Cubicin (1,9%) do que naqueles que receberam comparadores (0,5%). Portanto, recomenda-se que: • A CPK plasmática seja determinada no início e em intervalos regulares (pelo menos uma vez por semana) durante a terapêutica em todos os doentes. • Não se pode excluir que os doentes com níveis iniciais de CPK superiores a 5 vezes o Limite Superior dos Valores Normais no início podem estar em risco acrescido de novos aumentos durante a terapêutica com daptomicina. Deve ter-se este facto em consideração ao iniciar-se a terapêutica com daptomicina e, se esta for administrada, estes doentes devem ser monitorizados com uma frequência superior a uma vez por semana. • A CPK deve ser determinada com uma frequência superior a uma vez por semana em doentes que estão num risco mais elevado de desenvolverem miopatia. Estes incluem doentes com insuficiência renal grave (depuração da creatinina &lt; 30 ml/min; ver também a secção 4.2) e os doentes que tomam outras medicações que se sabe estarem associadas a miopatia (ex. inibidores da HMG-CoA redutase, fibratos e ciclosporina). • Cubicin não deve ser administrado a doentes que estão a tomar outras medicações associadas a miopatia a não ser que se considere que o benefício para o doente supera o risco. • Os doentes devem ser examinados com regularidade durante a terapêutica para detecção de
+ 17 sinais ou sintomas que possam representar miopatia. • Todos os doentes que desenvolvam dor muscular, sensação dolorosa, fraqueza ou cãibra inexplicadas devem ser submetidos a monitorização dos níveis da CPK de 2 em 2 dias. Cubicin deve ser interrompido na presença de sintomas musculares inexplicados se o nível de CPK atingir um valor superior a 5 vezes o limite superior dos valores normais.
+ Neuropatia periférica Os doentes que desenvolvam sinais ou sintomas que possam representar uma neuropatia periférica durante a terapêutica com Cubicin devem ser investigados, devendo ter-se em consideração a interrupção da daptomicina (ver as secções 4.8 e 5.3).
+ Insuficiência renal Foi reportada insuficiência renal durante o tratamento com Cubicin. A insuficiência renal grave também pode por si própria predispor a elevações dos níveis da daptomicina que podem aumentar o risco de desenvolvimento de miopatia (ver acima).
+ É necessário efectuar o ajuste posológico em doentes com ICPTM sem bacteriemia cuja depuração da creatinina é inferior a 30 ml/min (ver as secções 4.2 e 5.2). A segurança e a eficácia das directrizes para o ajuste do intervalo de doses indicadas na secção 4.2 baseiam-se em modelos farmacocinéticos e não foram avaliadas clinicamente. Adicionalmente, não existem dados disponíveis que suportem o uso de 6 mg/kg de daptomicina uma vez por dia em doentes com EID ou ICPTM associada a bacteriemia cuja depuração de creatinina seja &lt; 50 ml/min. Cubicin só deve ser utilizado nestes doentes quando se considera que o benefício clínico esperado supera o risco potencial.
+ Aconselha-se precaução quando se administra Cubicin a doentes que já têm um certo grau de insuficiência renal (depuração da creatinina &lt; 80 ml/min) antes do início da terapêutica com Cubicin. Aconselha-se a monitorização regular da função renal (ver secção 5.2).
+ Aconselha-se também a monitorização regular da função renal durante a administração concomitante de agentes potencialmente nefrotóxicos, independentemente da função renal anterior do doente (ver secção 4.5).
+ Em indivíduos obesos com um Índice de Massa Corporal (IMC) superior a 40 kg/m2 mas com depuração da creatinina superior a 70 ml/min, a AUC0-∞ da daptomicina estava significativamente aumentada (em média 42% mais elevada) em comparação com controlos correspondentes não obesos. A informação sobre a segurança e a eficácia da daptomicina é limitada nos muito obesos e, portanto, recomenda-se precaução. Contudo, não existe presentemente evidência de que é necessária uma diminuição da dose (ver a secção 5.2).
+ A utilização de antibióticos pode facilitar o crescimento excessivo de microrganismos não sensíveis. Se ocorrer superinfecção durante a terapêutica devem ser tomadas as medidas apropriadas.
+ Foram reportadas colite associada a antibióticos e colite pseudomembranosa com quase todos os antibióticos, podendo a sua gravidade variar entre ligeira a com risco de vida. Portanto, é importante considerar este diagnóstico em doentes que se apresentam com diarreia durante ou pouco depois do tratamento.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ A daptomicina sofre pouco a nenhum metabolismo mediado pelo Citocromo P450 (CYP450). Estudos in vitro determinaram que a daptomicina não inibe nem induz as actividades das isoformas dos citocromos humanos clinicamente significativas (1A2, 2A6, 2C9, 2C19, 2D6, 2E1, 3A4). Portanto, não são de esperar interacções medicamentosas relacionadas com o CYP450.
+ A experiência relacionada com a administração concomitante de daptomicina com outros medicamentos que podem desencadear miopatia é limitada. Contudo, ocorreram alguns casos de aumentos marcados dos níveis da CPK e casos de rabdomiólise em doentes que tomaram um destes
+ 18 medicamentos simultaneamente com Cubicin. Recomenda-se que, durante o tratamento com Cubicin, sejam temporariamente interrompidos, se possível, outros medicamentos associados a miopatia a não ser que os benefícios da administração concomitante superem o risco. Se a co-administração não puder ser evitada, os níveis da CPK devem ser determinados com uma frequência superior a uma vez por semana e os doentes devem ser monitorizados regularmente para detecção de sinais ou sintomas que possam representar miopatia. Ver as secções 4.4, 4.8 e 5.3.
+ A daptomicina é eliminada principalmente por filtração renal e, portanto, os níveis plasmáticos podem aumentar durante a co-administração com medicamentos que diminuem a filtração renal (ex., AINEs e inibidores da COX-2). Além disso, existe o potencial de ocorrer interacção farmacodinâmica durante a co-administração devido a efeitos renais aditivos. Por conseguinte, aconselha-se precaução quando a daptomicina é co-administrada com outros medicamentos que se sabe que diminuem a filtração renal.
+ Durante a farmacovigilância após introdução no mercado, foram reportados casos de interferência entre a daptomicina e reagentes específicos utilizados em alguns ensaios do Tempo de protrombina/Razão Normalizada Internacional – International Normalised Ratio (TP/INR). Esta interferência produziu um prolongamento aparente do TP e uma elevação da IRN. Se forem observadas anomalias de TP/INR em doentes medicados com daptomicina, deve considerar-se a possibilidade de interacção in vitro com o teste laboratorial. A possibilidade de resultados falsos pode ser minimizada pela recolha de amostras para os testes de TP e INR aproximadamente na altura em que ocorrem as concentrações plasmáticas mínimas de daptomicina.
+ 4.6 Gravidez e aleitamento No que respeita à daptomicina, não existem dados clínicos sobre as gravidezes a ela expostas. Os estudos em animais não indicam quaisquer efeitos nefastos, directos ou indirectos, no que respeita à fertilidade, gravidez, ao desenvolvimento embrionário/fetal, parto ou ao desenvolvimento pós-natal (ver a secção 5.3).
+ Cubicin não deve ser utilizado durante a gravidez, a menos que tal seja claramente necessário, isto é, apenas se o potencial benefício superar o possível risco.
+ Não se sabe se a daptomicina é excretada no leite humano. Portanto, a amamentação deve ser interrompida durante o tratamento com Cubicin.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas.
+ Com base nas reacções adversas medicamentosas notificadas, pensa-se que não é provável que Cubicin produza qualquer efeito sobre a capacidade de conduzir ou utilizar máquinas.
+ 4.8 Efeitos indesejáveis Estudos clínicos Em estudos clínicos, foram medicados 2.011 indivíduos com Cubicin. Nestes estudos, 1.221 indivíduos receberam uma dose diária de 4 mg/kg, dos quais 1.108 eram doentes e 113 eram voluntários saudáveis; 460 indivíduos receberam uma dose diária de 6 mg/kg, dos quais 304 eram doentes e 156 eram voluntários saudáveis. Foram reportadas reacções adversas (isto é, consideradas pelo investigador como possível, provável ou definitivamente relacionadas com o medicamento) com frequências similares para Cubicin e para os regimes de comparação.
+ No que respeita aos indivíduos que receberam Cubicin, as reacções adversas que foram reportadas com mais frequência durante a terapêutica e o seguimento foram: cefaleias, náuseas, vómitos, diarreia, infecções fúngicas, erupção cutânea, reacção no local da perfusão, aumento da creatinafosfoquinase (CPK) e valores anormais das enzimas hepáticas alanina-aminotransferase (ALT), aspartato-aminotransferase (AST) e fosfatase alcalina.
+ 19 As seguintes reacções adversas foram reportadas durante a terapêutica e o seguimento com frequências que corresponderam a: Frequentes= ≥ 1/100-&lt; 1/10, Pouco frequentes= &gt; 1/1.000-&lt; 1/100, Raros= &gt; 1/10.000-&lt; 1/1.000 e Muito raros= ≤ 1/10.000:
+ Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ Infecções e infestações Frequentes: Infecções fúngicas Pouco frequentes: Infecção das vias urinárias
+ Doenças do sangue e do sistema linfático Pouco frequentes: Trombocitemia, anemia, eosinofilia
+ Doenças do metabolismo e da nutrição Pouco frequentes: Anorexia, hiperglicemia
+ Perturbações do foro psiquiátrico Pouco frequentes: Ansiedade, insónia
+ Doenças do sistema nervoso Frequentes: Cefaleias Pouco frequentes: Tonturas, parestesias, perturbação do paladar
+ Cardiopatias Pouco frequentes: Taquicardia supraventricular, extra-sistolia
+ Vasculopatias Pouco frequentes: Rubores cutâneos, hipertensão, hipotensão
+ Doenças gastrointestinais Frequentes: Náuseas, vómitos, diarreia Pouco frequentes: Obstipação, dores abdominais, dispepsia, glossite
+ Afecções hepatobiliares Pouco frequentes: Icterícia
+ Afecções dos tecidos cutâneos e subcutâneas Frequentes: Erupção cutânea Pouco frequentes: Prurido, urticária
+ Afecções musculosqueléticas, dos tecidos conjuntivos e doenças ósseas: Pouco frequentes: Miosite, fraqueza muscular, mialgias, artralgias
+ Doenças renais e urinárias Pouco frequentes: Insuficiência renal, incluindo falência renal
+ Doenças dos órgãos genitais e da mama Pouco frequentes: Vaginite
+ Perturbações gerais e alterações no local de administração Frequentes: Reacções no local de perfusão Pouco frequentes: Pirexia, fraqueza, fadiga, dor
+ 20 Exames complementares de diagnóstico: Frequentes: Provas da função hepática anormais (aumento da AST, da ALT e da fosfatase alcalina), aumento da CPK Pouco frequentes: Desequilíbrio electrolítico, aumento da creatinina sérica, aumento da mioglobina, aumento da desidrogenase láctica (LDH).
+ Após introdução no mercado As reacções adversas que foram reportadas após a introdução no mercado e que não estão acima indicadas são:
+ Doenças do sistema imunitário Hipersensibilidade, manifestada por notificações espontâneas isoladas que incluíram mas não se limitaram a eosinofilia pulmonar, exantema vesico-bolhoso com envolvimento das membranas mucosas e sensação de edema da orofaringe. Anafilaxia Reacções à perfusão incluindo os seguintes sintomas: taquicardia, pieira, pirexia, arrepios, rubor generalizado, vertigens, síncope e sabor metálico.
+ Afecções musculosqueléticas, dos tecidos conjuntivos e doenças ósseas: Rabdomiólise Assim que ficaram disponíveis informações clínicas sobre os doentes para permitir uma avaliação, aproximadamente 50% dos casos ocorreram em doentes com insuficiência renal anterior ou naqueles que estavam a receber medicações concomitantes que se sabe que causam rabdomiólise.
+ Doenças do sistema nervoso Neuropatia periférica
+ Exames complementares de diagnóstico Em alguns casos de miopatia que envolveram aumento da CPK e sintomas musculares, os doentes também apresentaram transaminases elevadas. Estes aumentos a nível das transaminases estavam provavelmente relacionados com os efeitos a nível do músculo esquelético. A maior parte das elevações das transaminases consistiram numa toxicidade de Grau 1 a 3 e resolveram-se após interrupção do tratamento.
+ 4.9 Sobredosagem No caso de sobredosagem, aconselha-se que sejam administrados cuidados de suporte. A daptomicina é eliminada lentamente do organismo por hemodiálise (aproximadamente 15% da dose administrada é removida num período de 4 horas) ou por diálise peritoneal (aproximadamente 11% da dose administrada é removida num período de 48 horas)
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Antibacterianos para uso sistémico, Outros antibacterianos, código ATC: J01XX09
+ Modo de acção A daptomicina é um produto natural da classe dos lipopeptídeos cíclicos que é activo apenas contra bactérias Gram-positivas.
+ O mecanismo de acção envolve ligação (na presença de iões de cálcio) a membranas bacterianas tanto de células em fase de crescimento como de células em fase estacionária causando despolarização e
+ 21 induzindo a inibição rápida da síntese de proteínas, do DNA e do RNA, resultando na morte da célula bacteriana com lise celular insignificante.
+ Relação entre farmacocinética e farmacodinâmica A daptomicina apresenta uma actividade bactericida contra microorganismos Gram-positivos sensíveis in vitro, rápida e dependente da concentração. Em modelos animais, a AUC/CMI e a Cmax/CMI estão relacionadas com eficácia e com a morte bacteriana prevista in vivo em doses únicas equivalentes a doses humanas de 4 mg/kg e 6 mg/kg uma vez por dia.
+ Mecanismos de resistência Durante o tratamento foram reportadas estirpes com susceptibilidade diminuída à daptomicina, especialmente em doentes com infecções difíceis de tratar e/ou após administração durante períodos prolongados. Em particular, existiram notificações de insucessos do tratamento em doentes infectados com Staphylococcus aureus, Enterococcus faecalis ou Enterococcus faecium, incluindo doentes com bacteriemia, que foram associados à selecção de organismos com susceptibilidade reduzida ou resistentes à daptomicina durante o tratamento.
+ O mecanismo de resistência à daptomicina não foi ainda identificado.
+ Concentrações críticas de sensibilidade As concentrações críticas de sensibilidade das concentrações mínimas inibidoras (CMI) estabelecidas pela Comissão Europeia de Antibiogramas (European Committee on Antimicrobial Susceptibility Testing-EUCAST) para os estafilococos e estreptococos (excepto o S. pneumoniae) são Sensível ≤ 1 mg/l e Resistente &gt; 1 mg/l.
+ Sensibilidade A prevalência da resistência pode variar geograficamente e com o decorrer do tempo em espécies seleccionadas e a informação local sobre resistência é conveniente especialmente quando se tratam infecções graves. Deve obter-se o conselho de peritos, de acordo com a necessidade, quando a prevalência local da resistência é tal que a utilidade do agente em pelo menos alguns tipos de infecção é duvidosa.
+ Espécies frequentemente sensíveis Staphylococcus aureus* Staphylococcus haemolyticus Estafilococos coagulase-negativos Streptococcus agalactiae* Streptococcus dysgalactiae subsp equisimilis* Streptococcus pyogenes* Estreptococos do Grupo G Clostridium perfringens Peptostreptococcus spp Microrganismos inerentemente resistentes Microorganismos Gram-negativos* indica espécies contras as quais se considera que a actividade foi satisfatoriamente demonstrada em estudos clínicos.
+ Informação obtida em ensaios clínicos Nos dois ensaios clínicos acima mencionados de infecções complicadas da pele e dos tecidos moles,36% dos doentes tratados com Cubicin satisfizeram os critérios relativos ao sindroma da resposta inflamatória sistémica (systemic inflammatory response syndrome-SIRS). O tipo mais frequente de infecção tratada foi a infecção de feridas (38% dos doentes), enquanto 21% tinha abcessos grandes. Estas limitações da população de doentes tratados devem ser consideradas ao tomar-se uma decisão relativa à utilização de Cubicin.
+ Num estudo aberto, aleatorizado e controlado em 235 doentes com bacteriemia por Staphylococcus
+ 22 aureus (isto é, no mínimo uma hemocultura positiva para Staphylococcus aureus antes de terem recebido a primeira dose),19 dos 120 doentes tratados com Cubicin apresentavam critérios para EID. Destes 19 doentes,11 estavam infectados com Staphylococcus aureus sensível à meticilina e 8 com Staphylococcus aureus resistente à meticilina. As taxas de sucesso em doentes com EID encontram-se na tabela seguinte.
+ Diferenças no População
+ Daptomicina Comparador Sucesso População ITT (intention to treat) n/N (%) n/N (%)
+ Taxas (95% CI) EID População PP (per protocol)
+ 8/19 (42,1%) 7/16 (43,8%) -1,6% (-34,6; 31,3)
+ EID 6/12 (50,0%) 4/8 (50,0%) 0,0% (-44,7; 44,7) Foi observado insucesso terapêutico devido a infecções persistentes ou a recidivas por Staphylococcus aureus em 19/120 (15,8%) dos doentes tratados com Cubicin, em 9/53 (16,7%) dos doentes tratados com vancomicina e 2/62 (3,2%) dos doentes tratados com penicilina semi-sintética anti-estafilocócica. De entre estes casos de insucesso terapêutico, seis doentes tratados com Cubicin e um doente tratado com vancomicina estavam infectados com Staphylococcus aureus que desenvolveram um aumento da CMI da daptomicina durante ou após a terapêutica (ver “ Mecanismos de resistência ” acima). A maioria dos doentes que não apresentaram melhorias devido a infecções persistentes ou a recidivas por Staphylococcus aureus, apresentavam infecção estabelecida e não foram submetidos à intervenção cirúrgica necessária.
+ 5.2 Propriedades farmacocinéticas A farmacocinética da daptomicina é geralmente linear e independente do tempo em doses de 4 a 12 mg/kg administradas sob a forma de uma dose diária única durante 14 dias em voluntários saudáveis. Atingem-se concentrações em estado de equilíbrio na terceira dose diária.
+ Estudos em animais revelaram que a daptomicina não é absorvida numa extensão significativa após administração oral.
+ Distribuição O volume de distribuição em estado de equilíbrio da daptomicina foi aproximadamente de 0,1 l/kg em voluntários adultos saudáveis, o que está de acordo com a distribuição principalmente no espaço extracelular. Os estudos de distribuição tecidular em animais demonstraram que a daptomicina distribui-se preferencialmente em tecidos altamente vascularizados e, em menor grau, penetra na barreira hemato-encefálica e na barreira placentária após doses únicas e múltiplas.
+ A daptomicina liga-se de forma reversível às proteínas plasmáticas humanas de maneira dependente da concentração. Em voluntários saudáveis e em doentes tratados com daptomicina, a ligação às proteínas foi em média de cerca de 90% incluindo indivíduos com insuficiência renal.
+ Metabolismo Estudos in vitro demonstraram que, no ser humano, a daptomicina não é sujeita a metabolismo mediado pelos microsomas hepáticos ou apenas a um metabolismo limitado e que o envolvimento do CYP450 no metabolismo da daptomicina é mínimo. Análises de amostras de plasma de indivíduos aos quais foi administrada uma dose de 6 mg/kg de daptomicina não revelaram quaisquer vestígios de metabolismo, sugerindo pouco a nenhum metabolismo sistémico.
+ Além disso, não foram observados metabolitos no plasma após administração do fármaco radiomarcado a seres humanos com base nas concentrações totais de radiomarcador e microbiologicamente activas. Dos quatro metabolitos de menor importância detectados na urina, dois são metabolitos oxidativos de Fase I presentes em baixas concentrações.
+ 23 Eliminação A daptomicina é excretada principalmente pelos rins. A administração concomitante de probenecid e de daptomicina não teve qualquer efeito na farmacocinética da daptomicina no ser humano sugerindo uma secreção tubular de daptomicina mínima a não activa.
+ Após administração intravenosa, a depuração plasmática da daptomicina é aproximadamente de 7 a 9 ml/h/kg e a sua depuração renal é de 4 a 7 ml/h/kg.
+ Num estudo de equilíbrio de massa utilizando material radiomarcado,78% da dose administrada foi recuperada da urina com base na radioactividade total, enquanto que a recuperação urinária de daptomicina inalterada correspondeu aproximadamente a 50% da dose. Cerca de 5% do radiomarcador administrado foi excretado nas fezes.
+ Populações especiais Idosos Não é necessário o ajuste posológico com base apenas na idade. Contudo, a função renal deve ser avaliada e a dose deve ser diminuída se houver evidência de insuficiência renal grave.
+ Crianças e adolescentes (menos de 18 anos) Os perfis farmacocinéticos foram obtidos após uma administração intravenosa única de 4 mg/kg de daptomicina em doentes pediátricos, divididos em três grupos etários (2-6 anos, 7-11 anos e 12-17 anos), com infecção Gram-positiva comprovada ou suspeita. A farmacocinética da daptomicina após uma dose única de 4 mg/kg em adolescentes com idade compreendida entre os 12-17 anos é geralmente semelhante à dos indivíduos adultos saudáveis com função renal normal com tendência a uma AUC e Cmax inferior nos adolescentes. Nos grupos etários mais novos (2-6 anos e 7-11 anos) a exposição (Cmax e AUC) e o tempo de semi-vida de eliminação para a mesma dose mg/kg foram menores comparativamente aos adolescentes.
+ Obesidade Relativamente a indivíduos não obesos, a exposição sistémica à daptomicina determinada pela AUC aumenta em cerca de 28% em indivíduos moderadamente obesos (Índice da Massa Corporal de 25 a 40 kg/m2) e em 42% em indivíduos extremamente obesos (Índice da Massa Corporal &gt; 40 kg/m2). Contudo, não se considera necessário o ajuste posológico com base apenas na obesidade.
+ Sexo Não se observaram diferenças clinicamente significativas relacionadas com o sexo na farmacocinética da daptomicina.
+ Insuficiência renal Após administração de uma dose única de 4 mg/kg ou 6 mg/kg de daptomicina a indivíduos com vários graus de insuficiência renal, a depuração da daptomicina (CL) diminuiu e a exposição sistémica (AUC) aumentou. Em indivíduos com insuficiência renal grave (CLcr &lt; 30 ml/min) e com doença renal em estadio terminal, a exposição (AUC) e a semivida de eliminação aumentaram entre 2 a 3 vezes em relação aos indivíduos saudáveis. Ver a secção 4.2 no que respeita à necessidade de ajuste posológico.
+ Insuficiência hepática A farmacocinética da daptomicina não se altera em indivíduos com insuficiência hepática moderada (Classe B de Child-Pugh da insuficiência hepática) em comparação com voluntários saudáveis com sexo, idade e peso correspondentes, após uma dose única de 4 mg/kg dose. Não é necessário ajuste posológico quando se administra daptomicina a doentes com insuficiência hepática moderada. Não foi avaliada a farmacocinética da daptomicina em doentes com insuficiência hepática grave (Classe C de Child-Pugh).
+ 24 5.3 Dados de segurança pré-clínica
+ Em estudos com uma duração clinicamente relevante (14-28 dias), a administração da daptomicina foi associada a alterações degenerativas/regenerativas mínimas a ligeiras do músculo esquelético no rato e no cão. As alterações microscópicas no músculo esquelético foram mínimas (aproximadamente 0,05% de miofibras afectadas) e nas doses mais elevadas foram geralmente acompanhadas por elevações na CPK. Não foi observada fibrose ou rabdomiólise. Dependendo da duração do estudo, todos os efeitos no músculo, incluindo alterações microscópicas, foram totalmente reversíveis num período de 1-3 meses após a interrupção do tratamento. Não se observaram alterações funcionais ou patológicas no músculo liso ou cardíaco.
+ O nível de efeito observado mais baixo (LOEL) para a miopatia nos ratos e cães ocorreu com níveis de exposição de 0,8 a 2,3 vezes em relação aos níveis terapêuticos humanos de 6 mg/kg para doentes com uma função renal normal. Um estudo com cães demonstrou que a miopatia esquelética diminuiu após uma administração única diária comparativamente à administração de uma dose fraccionada da mesma dose total diária, sugerindo que os efeitos miopáticos em animais estavam primariamente relacionados com o intervalo entre as doses.
+ Observaram-se efeitos a nível dos nervos periféricos em doses mais elevadas do que as doses associadas aos efeitos no músculo esqueléticos em ratos e cães adultos, estando principalmente relacionados com a Cmax plasmática. As alterações a nível dos nervos periféricos caracterizaram-se por degenerescência axonial mínima a ligeira, sendo frequentemente acompanhadas por alterações funcionais. A reversão dos efeitos microscópicos e funcionais foi completa ao fim de 6 meses pós-dose. O intervalo de segurança para os efeitos nos nervos periféricos nos ratos e cães são 8-e 6-vezes respectivamente baseados em comparações dos valores de Cmáx no Nível Sem Efeitos Adversos Observados (NOAEL) com as Cmáx obtidas com dosagens de 6 mg/kg uma vez por dia em doentes com função renal normal.
+ Em contraste com os cães adultos, os cães jovens pareceram ser mais sensíveis às lesões dos nervos periféricos em comparação com a miopatia esquelética. Os cães jovens desenvolveram lesões dos nervos periféricos e raquidianos com doses mais baixas do que as doses associadas à toxicidade do músculo esquelético.
+ Os testes de toxicidade reprodutiva não revelaram qualquer evidência de efeitos na fertilidade e no desenvolvimento embriofetal ou pós-natal. Contudo, a daptomicina pode atravessar a placenta em ratos fêmeas gestantes (ver a secção 5.2). Não foi estudada a excreção da daptomicina no leite em animais lactantes.
+ Não foram realizados estudos de carcinogenicidade a longo prazo em roedores. A daptomicina não foi mutagénica ou clastogénica numa bateria de testes de genotoxicidade in vivo e in vitro.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1. Lista dos excipientes Hidróxido de sódio. 6.2 Incompatibilidades Cubicin não é física ou quimicamente compatível com soluções contendo glucose. Este medicamento não deve ser misturado com outros medicamentos, excepto os mencionados na secção 6.6.
+ 6.3 Prazo de validade 3 anos 25 Após reconstituição: A estabilidade física e química em uso da solução reconstituída no frasco para injectáveis foi demonstrada durante 12 horas a 25°C e até 48 horas a 2°C-8°C. A estabilidade química e física da solução diluída em sacos de perfusão foi estabelecida em 12 horas a 25°C ou em 24 horas a 2°C-8°C. O tempo combinado de conservação (solução reconstituída no frasco para injectáveis e solução diluída no saco de perfusão: ver a secção 6.6) a 25°C não deve exceder 12 horas (ou 24 horas a 2°C-8°C).
+ Sob o ponto de vista microbiológico, o produto deve ser utilizado imediatamente. Se não for imediatamente utilizado, os períodos de conservação em uso são da responsabilidade do utilizador e, normalmente, não devem ser superiores a 24 horas entre 2 a 8°C, a não ser que a reconstituição e diluição tenham sido efectuadas em condições assépticas controladas e validadas.
+ 6.4 Precauções especiais de conservação
+ Conservar no frigorífico (2°C-8°C). Condições de conservação do medicamento reconstituído diluído, ver secção 6.3.
+ 6.5 Natureza e conteúdo do recipiente Frascos para injectáveis de vidro transparente tipo 1 de 10 ml para utilização única, com tampas de borracha tipo 1 e fechos de alumínio com cápsulas de destacar de plástico azul.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ Obtém-se uma concentração de 50 mg/ml após reconstituição com 10 ml de solução para injectáveis de cloreto de sódio a 9 mg/ml (0,9%) ou de água para preparações injectáveis.
+ Deve utilizar-se uma técnica asséptica para reconstituir Cubicin liofilizado. A cápsula de destacar de polipropileno deve ser removida para expor a porção central da tampa de borracha. 10 ml de solução para injectáveis de cloreto de sódio a 9 mg/ml ou de água para preparações injectáveis devem ser lentamente injectados através do centro da tampa de borracha no frasco para injectáveis apontando a agulha na direcção da parede do frasco para injectáveis. O frasco para injectáveis deve ser rodado suavemente para assegurar o humedecimento completo do produto, deixando depois repousar durante 10 minutos. Finalmente, o frasco para injectáveis deve ser rodado suavemente durante alguns minutos conforme necessário até se obter uma solução reconstituída transparente. Deve evitar-se uma agitação vigorosa para impedir a formação de espuma. A reconstituição está normalmente completa ao fim de 15 minutos.
+ Antes da utilização, a solução reconstituída deve ser cuidadosamente verificada para assegurar que o produto está dissolvido e deve ser inspeccionada visualmente para verificar a ausência de partículas.
+ A solução reconstituída de Cubicin tem uma cor que varia entre o amarelo pálido e o castanho claro.
+ A solução reconstituída deve ser depois diluída com cloreto de sódio para perfusão intravenosa (volume típico de 50 ml) e administrada durante 30 minutos, de acordo com as instruções na secção 4.2.
+ Verificou-se que são compatíveis quando adicionados a soluções de perfusão contendo Cubicin: aztreonam, ceftazidima, ceftriaxona, gentamicina, fluconazol, levofloxacina, dopamina, heparina e lidocaína.
+ Os frascos para injectáveis de Cubicin são apenas para utilização única.
+ Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 26 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Novartis Europharm Limited Wimblehurst Road Horsham West Sussex, RH12 5AB Reino Unido
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/05/328/002 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 19 Janeiro 2006 10. DATA DA REVISÃO DO TEXTO 27 ANEXO II
+ A. TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 28 A TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do fabricante responsável pela libertação do lote
+ Novartis Pharmaceuticals UK Limited Wimblehurst Road Horsham West Sussex, RH12 5AB Reino Unido
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento sujeito a receita médica. • CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ Não aplicável. • OUTRAS CONDIÇÕES
+ Sistema de Farmacovigilância O Titular da AIM deve assegurar que o sistema de farmacovigilância, tal como descrito na versão alterada a 4 de Dezembro de 06 incluido no Módulo 1. 8.1 do pedido de Autorização de Introdução no Mercado, está implementado e em funcionamento antes e enquanto o produto se encontrar no mercado.
+ Plano de Gestão de Risco O Titular da AIM compromete-se a efectuar os estudos e as actividades adicionais de farmacovigilância descritas no Plano de Farmacovigilância, como descrito na versão 2.1 de 18 de Julho de 07 do Plano de Gestão de Risco (PGR) incluido no Módulo 1. 8.2. do pedido de Autorização de Introdução no Mercado e em todas as actualizações posteriores ao PGR acordado com o CHMP.
+ De acordo com a Guideline do CHMP sobre Sistemas de Gestão de Risco para medicamentos de uso humano, o PGR actualizado deve ser submetido em simultâneo com o próximo Relatório Periódico de Segurança (RPS).
+ Para além disso, deve ser submetido um PGR actualizado • Quando existe informação nova com possível impacto na actual Especificação de Segurança, Plano de Farmacovigilância ou actividades de minimização de risco. • 60 dias após terem sido encontrados dados importantes (farmacoviogilância e minimização de risco). • A pedido da EMEA.
+ 29 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 30 A. ROTULAGEM
+ 31 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ CAIXA 1. NOME DO MEDICAMENTO Cubicin 350 mg pó para concentrado para solução para perfusão daptomicina
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada frasco para injectáveis contém 350 mg de daptomicina.
+ 3. LISTA DOS EXCIPIENTES Hidróxido de sódio 4. FORMA FARMACÊUTICA E CONTEÚDO 1 frasco para injectáveis 5. MODO E VIA(S) DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar para as instruções de reconstituição.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP Ler o folheto informativo no que respeita ao prazo de validade do produto reconstituído
+ 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Conservar no frigorífico. 32 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ Elimine de acordo com as exigências locais.
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Novartis Europharm Limited Wimblehurst Road Horsham West Sussex, RH12 5AB Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/05/328/001 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE 33 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ FRASCO PARA INJECTÁVEIS 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Cubicin 350 mg pó para concentrado para solução para perfusãol daptomicina
+ Via intravenosa. 2. MODO DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar.
+ 3. PRAZO DE VALIDADE EXP 4. NÚMERO DO LOTE Lot 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ Cada frasco para injectáveis contém 350 mg de daptomicina.
+ 6. OUTRAS 34 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ CAIXA 1. NOME DO MEDICAMENTO Cubicin 500 mg pó para concentrado para solução para perfusão daptomicina
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada frasco para injectáveis contém 500 mg de daptomicina.
+ 3. LISTA DOS EXCIPIENTES Hidróxido de sódio 4. FORMA FARMACÊUTICA E CONTEÚDO 1 frasco para injectáveis 5. MODO E VIA(S) DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar para as instruções de reconstituição.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP Ler o folheto informativo no que respeita ao prazo de validade do produto reconstituído
+ 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Conservar no frigorífico. 35 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ Elimine de acordo com as exigências locais.
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Novartis Europharm Limited Wimblehurst Road Horsham West Sussex, RH12 5AB Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/05/328/002 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE 36 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ FRASCO PARA INJECTÁVEIS 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Cubicin 500 mg pó para concentrado para solução para perfusãol daptomicina
+ Via intravenosa. 2. MODO DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar.
+ 3. PRAZO DE VALIDADE EXP 4. NÚMERO DO LOTE Lot 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ Cada frasco para injectáveis contém 500 mg de daptomicina.
+ 6. OUTRAS 37 B. FOLHETO INFORMATIVO
+ 38 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Cubicin 350 mg pó para concentrado para solução para perfusão daptomicina
+ Leia atentamente este folheto antes de utilizar este medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico, enfermeiro ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico, enfermeiro ou farmacêutico.
+ Neste folheto: 1. O que é Cubicin e para que é utilizado 2. Antes de lhe ser administrado Cubicin 3. Como é que Cubicin é administrado 4. Efeitos secundários possíveis 5. Como conservar Cubicin 6. Outras informações
+ 1. O QUE É CUBICIN E PARA QUE É UTILIZADO
+ A substância activa presente em Cubicin pó para concentrado para solução para perfusão é a daptomicina. A daptomicina é um antibiótico que pode parar o crescimento de certas bactérias. Cubicin é utilizado em adultos para tratar infecções da pele e de tecidos que estão sob a pele. Também é usado em adultos para tratar infecções nos tecidos que revestem o interior do coração (incluindo as válvulas cardíacas) que são causadas por uma bactéria que se denomina Staphyloccocus aureus e para tratar infecções no sangue causadas pela mesma bactéria quando associadas a uma infecção na pele ou coração.
+ Dependendo do tipo de infecção(ões) que tem, o seu médico também pode prescrever outros antibióticos durante o seu tratamento com Cubicin.
+ 2. ANTES DE LHE SER ADMINISTRADO CUBICIN
+ Não lhe deve ser administrado Cubicin Se tem alergia (hipersensibilidade) à daptomicina ou ao hidróxido de sódio. Se tal se aplicar, informe o seu médico ou enfermeiro. Se achar que pode ser alérgico, peça aconselhamento ao seu médico ou enfermeiro.
+ Tome especial cuidado com Cubicin -Se tem ou tiver tido problemas renais. O seu médico pode precisar de mudar a dose de Cubicin
+ (ver a secção 3 deste folheto).
+ -Ocasionalmente, os doentes medicados com Cubicin podem desenvolver uma sensação dolorosa
+ ou dores nos músculos ou fraqueza muscular (ver a secção 4 deste folheto para mais informações). Nesta eventualidade informe o seu médico. O seu médico pedir-lhe-á para efectuar uma análise de sangue e decidirá se deve continuar o tratamento com Cubicin. Os sintomas desaparecem geralmente alguns dias depois de parar o tratamento com Cubicin.
+ -Se tiver um peso excessivo. Há uma possibilidade de que os seus níveis sanguíneos de Cubicin
+ sejam mais elevados do que os níveis detectados em pessoas com peso mediano e pode necessitar de uma monitorização cuidadosa caso ocorram efeitos secundários. Se qualquer das situações se aplicar a si, informe o seu médico ou enfermeiro antes de lhe ser administrado Cubicin.
+ 39 Informe o seu médico se desenvolver algum dos seguintes sintomas:
+ -Qualquer formigueiro ou adormecimento anormal das mãos ou pés, perda de sensação ou
+ dificuldades com os movimentos. Se tal acontecer, informe o seu médico, ele decidirá se deve continuar o tratamento.
+ -Diarreia, especialmente se se observar sangue.
+ -Cubicin pode interferir com os testes laboratoriais que determinam se o seu sangue está a
+ coagular bem. Os resultados podem sugerir uma má coagulação quando, de facto, não há qualquer problema. Portanto é importante que o seu médico tenha em consideração que está a ser medicado com Cubicin. Por favor informe o seu médico que está a ser medicado com Cubicin.
+ O seu médico pedir-lhe-á análises ao sangue para monitorizar a saúde dos seus músculos antes de iniciar o tratamento e frequentemente durante o tratamento com Cubicin.
+ Uso em crianças A utilização de Cubicin em crianças não é recomendada devido ao facto de não ter sido estudada.
+ Uso em idosos A pessoas com idade superior a 65 anos pode ser-lhes administrada a mesma dose que é administrada aos outros adultos, desde que os seus rins estejam a funcionar bem.
+ Utilizar Cubicin com outros medicamentos Por favor informe o seu médico, enfermeiro ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica. É particularmente importante que mencione o seguinte:
+ -Medicamentos chamados estatinas ou fibratos (para baixar o colesterol) ou ciclosporina. É
+ possível que o risco de efeitos secundários que afectam os músculos seja mais elevado quando é tomado qualquer um destes medicamentos (e alguns outros que podem afectar os músculos) durante o tratamento com Cubicin. O seu médico pode decidir não lhe dar Cubicin ou parar o outro medicamento durante algum tempo.
+ -Medicamentos para as dores chamados anti-inflamatórios não esteróides (AINEs) ou inibidores
+ da COX-2 (ex. celecoxib). Estes podem interferir com os efeitos do Cubicin no rim.
+ Gravidez e aleitamento Cubicin não deve geralmente ser administrado a mulheres. Informe o seu médico se está ou pensa que pode estar grávida ou está a planear engravidar.
+ Não amamente se estiver a ser medicada com Cubicin porque este pode passar para o seu leite e afectar o bebé.
+ Condução de veículos e utilização de máquinas Cubicin não apresenta efeitos conhecidos na capacidade de conduzir ou de utilizar máquinas.
+ 3. COMO É QUE CUBICIN É ADMINISTRADO O Cubicin ser-lhe-á administrado geralmente por um médico ou um enfermeiro.
+ A dose irá depender do seu peso e do tipo de infecção a ser tratada. A dose normal para adultos é de 4 mg por cada kilograma (kg) de peso corporal uma vez ao dia para infecções da pele ou 6 mg por cada kg de peso corporal uma vez ao dia para infecções cardíacas ou sanguíneas associadas a infecções da pele ou do coração. Esta dose é administrada directamente na corrente sanguínea (numa veia) durante um período de cerca de 30 minutos. É recomendada a mesma dose para pessoas com mais de 65 anos de idade desde que os seus rins estejam a funcionar bem.
+ Se os seus rins não funcionam bem, pode ser-lhe administrado Cubicin menos frequentemente, ex.
+ 40 uma vez em dias alternados. Se estiver a fazer diálise e a sua dose seguinte de Cubicin for num dia de diálise ser-lhe-á administrado Cubicin normalmente depois da sessão de diálise.
+ Um ciclo de tratamento dura normalmente 1 a 2 semanas no caso das infecções da pele. No caso das infecções sanguíneas ou cardíacas e da pele, o seu médico decidirá durante quanto tempo será tratado.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todos os medicamentos, Cubicin pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ Alguns efeitos adversos são muito raros (observados em menos de 1 em 10.000 doentes a tomar Cubicin) Foi notificada uma reacção de hipersensibilidade (reacção alérgica grave incluindo anafilaxia), nalguns casos durante a perfusão. Esta reacção alérgica grave necessita de atenção médica imediata. Informe imediatamente o seu médico ou enfermeiro se tiver algum dos seguintes sintomas:
+ -Dor ou aperto no peito
+ -Erupção cutânea com formação de vesículas que por vezes afectam a boca e os órgãos genitais
+ -Inchaço na região da garganta
+ -Pulso acelerado ou fraco
+ -Dificuldade em respirar
+ -Febre
+ -Arrepios e tremor
+ -Afrontamentos
+ -Tonturas
+ -Perda de consciência
+ -Sabor metálico na boca
+ Informe o seu médico se sentir dores, sensação dolorosa ou fraqueza nos músculos que não consegue explicar. Em casos muito raros (observados em menos de 1 em cada 10.000 doentes), os problemas musculares podem ser graves, incluindo degradação muscular (rabdomiólise), que pode causar lesão dos rins.
+ Cubicin também pode ter outros efeitos secundários:
+ Alguns efeitos secundários são frequentes (comunicados em mais de 1 em 100 doentes aos quais foi administrado Cubicin)
+ -Infecções fungícas como por exemplo sapinhos,
+ -Dor de cabeça,
+ -Diarreia, enjoo (náuseas ou vómitos),
+ -Erupção cutânea,
+ -Dor, comichão ou vermelhidão no local da perfusão,
+ -Análises sanguíneas que mostrem níveis elevados de enzimas do fígado ou da creatina
+ fosfoquinase (CPK).
+ Alguns efeitos secundários são pouco frequentes (comunicados em mais de 1 em 1.000 doentes, mas em menos de 1 em 100 doentes aos quais foi administrado Cubicin)
+ -Infecção das vias urinárias,
+ -Alterações sanguíneas (ex. aumento do número de pequenas partículas do sangue chamadas
+ plaquetas, que podem aumentar a tendência para a formação de coágulos de sangue, diminuição dos níveis de glóbulos vermelhos no sangue, que se designa por anemia, ou níveis elevados de certos tipos de glóbulos brancos),
+ -Diminuição do apetite,
+ -Tonturas, ansiedade, dificuldade em dormir, sensação de formigueiro ou de adormecimento das
+ mãos ou dos pés, perturbação do paladar,
+ -Alterações no ritmo cardíaco, afrontamentos, tensão arterial elevada ou baixa,
+ 41
+ -Obstipação, dor abdominal, indigestão, inflamação da língua,
+ -Amarelecimento da pele e olhos,
+ -Comichão
+ -Dor ou fraqueza muscular, dores articulares,
+ -Problemas renais,
+ -Inflamação ou irritação da vagina,
+ -Dor ou fraqueza generalizada, febre, cansaço,
+ -Análises sanguíneas que mostrem níveis elevados de açúcar no sangue, da creatinina plasmática,
+ da mioglobulina, ou da desidrogenase láctica (LDH), ou alteração das quantidades de sais.
+ Se algum dos efeitos secundários se agravar ou se detectar efeitos secundários não mencionados neste folheto, informe o seu médico, enfermeiro ou farmacêutico.
+ 5. COMO CONSERVAR CUBICIN O seu médico, enfermeiro ou farmacêutico sabe como conservar adequadamente Cubicin.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Cubicin -A substância activa é a daptomicina.
+ -O outro componente é o hidróxido de sódio.
+ Qual o aspecto de Cubicin e conteúdo da embalagem Cubicin é fornecido como um pó amarelo pálido a castanho claro num frasco para injectáveis de vidro. Antes de ser administrado é misturado com um solvente para produzir um líquido.
+ Cubicin também está disponível em embalagens que contêm 1 frasco para injectáveis.
+ Titular da Autorização de Introdução no Mercado Novartis Europharm Limited Wimblehurst Road Horsham West Sussex, RH12 5AB Reino Unido
+ Fabricante Novartis Pharmaceutical UK Limited Wimblehurst Road Horsham West Sussex, RH12 5AB Reino Unido
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado:
+ België/Belgique/Belgien Novartis Pharma N. V. Tél/Tel: +32 2 246 16 11
+ Luxembourg/Luxemburg Novartis Pharma GmbH Tél/Tel: +49 911 273 0
+ България Novartis Pharma Services Inc. Тел.: +359 2 489 98 28
+ Magyarország Novartis Hungária Kft. Pharma Tel.: +36 1 457 65 00
+ 42 Česká republika Novartis s. r. o. Tel: +420 225 775 111
+ Malta Novartis Pharma Services Inc. Tel: +356 2298 3217
+ Danmark Novartis Healthcare A/S Tlf: +45 39 16 84 00
+ Nederland Novartis Pharma B. V. Tel: +31 26 37 82 111
+ Deutschland Novartis Pharma GmbH Tel: +49 911 273 0
+ Norge Novartis Norge AS Tlf: +47 23 05 20 00
+ Eesti Novartis Pharma Services Inc. Tel: +372 60 62 400
+ Österreich Novartis Pharma GmbH Tel: +43 1 86 6570
+ Ελλάδα Novartis (Hellas) A. E. B. E. Τηλ: +30 210 281 17 12
+ Polska Novartis Poland Sp. Z o. o. Tel.: +48 22 550 8888
+ España Novartis Farmacéutica, S. A. Tel: +34 93 306 42 00
+ Portugal Novartis Farma – Produtos Farmacêuticos, S. A. Tel: +351 21 000 8600
+ Belgique Novartis Pharma S. A. S. Tél: +33 1 55 47 66 00
+ România Novartis Pharma Services Inc. Tel: +40 21 31299 01
+ Ireland Novartis Ireland Limited Tel: +353 1 260 12 55
+ Slovenija Novartis Pharma Services Inc. Tel: +386 1 300 75 77
+ Ísland Vistor hf. Sími: +354 535 7000
+ Slovenská republika Novartis Slovakia s. r. o. Tel: +421 2 5542 5439
+ Italia Novartis Farma S. p. A. Tel: +39 02 96 54 1
+ Suomi/Finland Novartis Finland Oy Puh/Tel: +358 9 61 33 22 11
+ Κύπρος Δημητριάδης και Παπαέλληνας Λτδ Τηλ: +357 22 690 690
+ Sverige Novartis Sverige AB Tel: +46 8 732 32 00
+ Latvija Novartis Pharma Services Inc. Tel: +371 7 887 070
+ United Kingdom Novartis Pharmaceuticals UK Ltd. Tel: +44 1276 698370
+ Lietuva Novartis Pharma Services Inc. Tel: +370 5 269 16 50
+ Este folheto foi aprovado pela última vez em
+ 43 INFORMAÇÃO PARA O PROFISSIONAL DE SAÚDE
+ Importante: Consultar o Resumo das Características do Medicamento antes de prescrever
+ Instruções de utilização e manipulação Apresentação de 350 mg: Pode obter-se uma concentração de 50 mg/ml reconstituindo com 7 ml de solução intravenosa de cloreto de sódio a 0,9%.
+ Os frascos para injectáveis de 350 mg/frasco para injectáveis também podem ser reconstituídos com água para preparações injectáveis estéril. Cubicin (daptomicina) não é física ou quimicamente compatível com soluções contendo glucose.
+ Deve utilizar-se uma técnica asséptica para reconstituir Cubicin liofilizado. A cápsula de destacar de polipropileno deve ser removida para expor a porção central da tampa de borracha. 7 ml de solução para injectáveis de cloreto de sódio a 9 mg/ml ou de água para preparações injectáveis devem ser lentamente injectados através do centro da tampa de borracha no frasco para injectáveis apontando a agulha na direcção da parede do frasco para injectáveis. O frasco para injectáveis deve ser rodado suavemente para assegurar o humedecimento completo do produto, deixando depois repousar durante 10 minutos. Finalmente, o frasco para injectáveis deve ser rodado suavemente durante alguns minutos conforme necessário até se obter uma solução reconstituída transparente. Deve evitar-se uma agitação vigorosa para impedir a formação de espuma. A reconstituição está normalmente completa ao fim de 15 minutos.
+ Antes da utilização, a solução reconstituída deve ser cuidadosamente verificada para assegurar que o produto está dissolvido e deve ser inspeccionada visualmente para verificar a ausência de partículas.
+ A solução reconstituída de Cubicin tem uma cor que varia entre o amarelo pálido e o castanho claro.
+ A solução reconstituída deve ser depois diluída com cloreto de sódio para perfusão intravenosa (volume típico de 50 ml) e perfundida durante 30 minutos.
+ A estabilidade física e química em uso da solução reconstituída no frasco para injectáveis foi demonstrada durante 12 horas a 25°C e até 48 horas se conservada no frigorífico (2 a 8°C). O tempo combinado (frasco para injectáveis e saco de perfusão) a 25°C não deve ser exceder 12 horas (24 horas se refrigerado).
+ A estabilidade da solução diluída em sacos de perfusão foi estabelecida em 12 horas a 25°C ou em 24 horas se conservada no frigorífico a 2°C – 8°C.
+ Sob o ponto de vista microbiológico, o produto deve ser utilizado imediatamente. Se não for imediatamente utilizado, os períodos de conservação em uso são da responsabilidade do utilizador e, normalmente, não devem ser superiores a 24 horas entre 2 a 8°C, a não ser que a reconstituição e diluição tenham sido efectuadas em condições assépticas controladas e validadas.
+ Cubicin não é física ou quimicamente compatível com soluções contendo glucose. Verificou-se que os seguintes são compatíveis quando adicionados a soluções de perfusão contendo Cubicin: aztreonam, ceftazidima, ceftriaxona, gentamicina, fluconazol, levofloxacina, dopamina, heparina e lidocaína.
+ Este medicamento não deve ser misturado com outros medicamentos, com excepção dos acima mencionados.
+ Os frascos para injectáveis de Cubicin são apenas para utilização única. O produto não utilizado que reste no frasco para injectáveis deve ser eliminado.
+ 44 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Cubicin 500 mg pó para concentrado para solução para perfusão daptomicina
+ Leia atentamente este folheto antes de utilizar este medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico, enfermeiro ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico, enfermeiro ou farmacêutico.
+ Neste folheto: 1. O que é Cubicin e para que é utilizado 2. Antes de lhe ser administrado Cubicin 3. Como é que Cubicin é administrado 4. Efeitos secundários possíveis 5. Como conservar Cubicin 6. Outras informações
+ 1. O QUE É CUBICIN E PARA QUE É UTILIZADO
+ A substância activa presente em Cubicin pó para concentrado para solução para perfusão é a daptomicina. A daptomicina é um antibiótico que pode parar o crescimento de certas bactérias. Cubicin é utilizado em adultos para tratar infecções da pele e de tecidos que estão sob a pele. Também é usado em adultos para tratar infecções nos tecidos que revestem o interior do coração (incluindo as válvulas cardíacas) que são causadas por uma bactéria que se denomina Staphyloccocus aureus e para tratar infecções no sangue causadas pela mesma bactéria quando associadas a uma infecção na pele ou coração.
+ Dependendo do tipo de infecção(ões) que tem, o seu médico também pode prescrever outros antibióticos durante o seu tratamento com Cubicin.
+ 2. ANTES DE LHE SER ADMINISTRADO CUBICIN
+ Não lhe deve ser administrado Cubicin Se tem alergia (hipersensibilidade) à daptomicina ou ao hidróxido de sódio. Se tal se aplicar, informe o seu médico ou enfermeiro. Se achar que pode ser alérgico, peça aconselhamento ao seu médico ou enfermeiro.
+ Tome especial cuidado com Cubicin -Se tem ou tiver tido problemas renais. O seu médico pode precisar de mudar a dose de Cubicin
+ (ver a secção 3 deste folheto).
+ -Ocasionalmente, os doentes medicados com Cubicin podem desenvolver uma sensação dolorosa
+ ou dores nos músculos ou fraqueza muscular (ver a secção 4 deste folheto para mais informações). Nesta eventualidade informe o seu médico. O seu médico pedir-lhe-á para efectuar uma análise de sangue e decidirá se deve continuar o tratamento com Cubicin. Os sintomas desaparecem geralmente alguns dias depois de parar o tratamento com Cubicin.
+ -Se tiver um peso excessivo. Há uma possibilidade de que os seus níveis sanguíneos de Cubicin
+ sejam mais elevados do que os níveis detectados em pessoas com peso mediano e pode necessitar de uma monitorização cuidadosa caso ocorram efeitos secundários. Se qualquer das situações se aplicar a si, informe o seu médico ou enfermeiro antes de lhe ser administrado Cubicin.
+ 45 Informe o seu médico se desenvolver algum dos seguintes sintomas:
+ -Qualquer formigueiro ou adormecimento anormal das mãos ou pés, perda de sensação ou
+ dificuldades com os movimentos. Se tal acontecer, informe o seu médico, ele decidirá se deve continuar o tratamento.
+ -Diarreia, especialmente se se observar sangue.
+ -Cubicin pode interferir com os testes laboratoriais que determinam se o seu sangue está a
+ coagular bem. Os resultados podem sugerir uma má coagulação quando, de facto, não há qualquer problema. Portanto é importante que o seu médico tenha em consideração que está a ser medicado com Cubicin. Por favor informe o seu médico que está a ser medicado com Cubicin.
+ O seu médico pedir-lhe-á análises ao sangue para monitorizar a saúde dos seus músculos antes de iniciar o tratamento e frequentemente durante o tratamento com Cubicin.
+ Uso em crianças A utilização de Cubicin em crianças não é recomendada devido ao facto de não ter sido estudada.
+ Uso em idosos A pessoas com idade superior a 65 anos pode ser-lhes administrada a mesma dose que é administrada aos outros adultos, desde que os seus rins estejam a funcionar bem.
+ Utilizar Cubicin com outros medicamentos Por favor informe o seu médico, enfermeiro ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica. É particularmente importante que mencione o seguinte:
+ -Medicamentos chamados estatinas ou fibratos (para baixar o colesterol) ou ciclosporina. É
+ possível que o risco de efeitos secundários que afectam os músculos seja mais elevado quando é tomado qualquer um destes medicamentos (e alguns outros que podem afectar os músculos) durante o tratamento com Cubicin. O seu médico pode decidir não lhe dar Cubicin ou parar o outro medicamento durante algum tempo.
+ -Medicamentos para as dores chamados anti-inflamatórios não esteróides (AINEs) ou inibidores
+ da COX-2 (ex. Celecoxib). Estes podem interferir com os efeitos do Cubicin no rim.
+ Gravidez e aleitamento Cubicin não deve geralmente ser administrado a mulheres. Informe o seu médico se está ou pensa que pode estar grávida ou está a planear engravidar.
+ Não amamente se estiver a ser medicada com Cubicin porque este pode passar para o seu leite e afectar o bebé.
+ Condução de veículos e utilização de máquinas Cubicin não apresenta efeitos conhecidos na capacidade de conduzir ou de utilizar máquinas.
+ 3. COMO É QUE CUBICIN É ADMINISTRADO O Cubicin ser-lhe-á administrado geralmente por um médico ou um enfermeiro.
+ A dose irá depender do seu peso e do tipo de infecção a ser tratada. A dose normal para adultos é de 4 mg por cada kilograma (kg) de peso corporal uma vez ao dia para infecções da pele ou 6 mg por cada kg de peso corporal uma vez ao dia para infecções cardíacas ou sanguíneas associadas a infecções da pele ou do coração. Esta dose é administrada directamente na corrente sanguínea (numa veia) durante um período de cerca de 30 minutos. É recomendada a mesma dose para pessoas com mais de 65 anos de idade desde que os seus rins estejam a funcionar bem.
+ Se os seus rins não funcionam bem, pode ser-lhe administrado Cubicin menos frequentemente, ex.
+ 46 Uma vez em dias alternados. Se estiver a fazer diálise e a sua dose seguinte de Cubicin for num dia de diálise ser-lhe-á administrado Cubicin normalmente depois da sessão de diálise.
+ Um ciclo de tratamento dura normalmente 1 a 2 semanas no caso das infecções da pele. No caso das infecções sanguíneas ou cardíacas e da pele, o seu médico decidirá durante quanto tempo será tratado.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todos os medicamentos, Cubicin pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ Alguns efeitos adversos são muito raros (observados em menos de 1 em 10.000 doentes a tomar Cubicin) Foi notificada uma reacção de hipersensibilidade (reacção alérgica grave incluindo anafilaxia), nalguns casos durante a perfusão. Esta reacção alérgica grave necessita de atenção médica imediata. Informe imediatamente o seu médico ou enfermeiro se tiver algum dos seguintes sintomas:
+ -Dor ou aperto no peito
+ -Erupção cutânea com formação de vesículas que por vezes afectam a boca e os órgãos genitais
+ -Inchaço na região da garganta
+ -Pulso acelerado ou fraco
+ -Dificuldade em respirar
+ -Febre
+ -Arrepios e tremor
+ -Afrontamentos
+ -Tonturas
+ -Perda de consciência
+ -Sabor metálico na boca
+ Informe o seu médico se sentir dores, sensação dolorosa ou fraqueza nos músculos que não consegue explicar. Em casos muito raros (observados em menos de 1 em cada 10.000 doentes), os problemas musculares podem ser graves, incluindo degradação muscular (rabdomiólise), que pode causar lesão dos rins.
+ Cubicin também pode ter outros efeitos secundários:
+ Alguns efeitos secundários são frequentes (comunicados em mais de 1 em 100 doentes aos quais foi administrado Cubicin)
+ -Infecções fungícas como por exemplo sapinhos,
+ -Dor de cabeça,
+ -Diarreia, enjoo (náuseas ou vómitos),
+ -Erupção cutânea,
+ -Dor, comichão ou vermelhidão no local da perfusão,
+ -Análises sanguíneas que mostrem níveis elevados de enzimas do fígado ou da creatina
+ fosfoquinase (CPK).
+ Alguns efeitos secundários são pouco frequentes (comunicados em mais de 1 em 1.000 doentes, mas em menos de 1 em 100 doentes aos quais foi administrado Cubicin)
+ -Infecção das vias urinárias,
+ -Alterações sanguíneas (ex. Aumento do número de pequenas partículas do sangue chamadas
+ plaquetas, que podem aumentar a tendência para a formação de coágulos de sangue, diminuição dos níveis de glóbulos vermelhos no sangue, que se designa por anemia, ou níveis elevados de certos tipos de glóbulos brancos),
+ -Diminuição do apetite,
+ -Tonturas, ansiedade, dificuldade em dormir, sensação de formigueiro ou de adormecimento das
+ mãos ou dos pés, perturbação do paladar,
+ -Alterações no ritmo cardíaco, afrontamentos, tensão arterial elevada ou baixa,
+ 47
+ -Obstipação, dor abdominal, indigestão, inflamação da língua,
+ -Amarelecimento da pele e olhos,
+ -Comichão
+ -Dor ou fraqueza muscular, dores articulares,
+ -Problemas renais,
+ -Inflamação ou irritação da vagina,
+ -Dor ou fraqueza generalizada, febre, cansaço,
+ -Análises sanguíneas que mostrem níveis elevados de açúcar no sangue, da creatinina plasmática,
+ da mioglobulina, ou da desidrogenase láctica (LDH), ou alteração das quantidades de sais.
+ Se algum dos efeitos secundários se agravar ou se detectar efeitos secundários não mencionados neste folheto, informe o seu médico, enfermeiro ou farmacêutico.
+ 5. COMO CONSERVAR CUBICIN O seu médico, enfermeiro ou farmacêutico sabe como conservar adequadamente Cubicin.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Cubicin -A substância activa é a daptomicina.
+ -O outro componente é o hidróxido de sódio.
+ Qual o aspecto de Cubicin e conteúdo da embalagem Cubicin é fornecido como um pó amarelo pálido a castanho claro num frasco para injectáveis de vidro. Antes de ser administrado é misturado com um solvente para produzir um líquido.
+ Cubicin também está disponível em embalagens que contêm 1 frasco para injectáveis.
+ Titular da Autorização de Introdução no Mercado Novartis Europharm Limited Wimblehurst Road Horsham West Sussex, RH12 5AB Reino Unido
+ Fabricante Novartis Pharmaceutical UK Limited Wimblehurst Road Horsham West Sussex, RH12 5AB Reino Unido
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado:
+ België/Belgique/Belgien Novartis Pharma N. V. Tél/Tel: +32 2 246 16 11
+ Luxembourg/Luxemburg Novartis Pharma GmbH Tél/Tel: +49 911 273 0
+ България Novartis Pharma Services Inc. Тел.: +359 2 489 98 28
+ Magyarország Novartis Hungária Kft. Pharma Tel.: +36 1 457 65 00
+ 48 Česká republika Novartis s. r. o. Tel: +420 225 775 111
+ Malta Novartis Pharma Services Inc. Tel: +356 2298 3217
+ Danmark Novartis Healthcare A/S Tlf: +45 39 16 84 00
+ Nederland Novartis Pharma B. V. Tel: +31 26 37 82 111
+ Deutschland Novartis Pharma GmbH Tel: +49 911 273 0
+ Norge Novartis Norge AS Tlf: +47 23 05 20 00
+ Eesti Novartis Pharma Services Inc. Tel: +372 60 62 400
+ Österreich Novartis Pharma GmbH Tel: +43 1 86 6570
+ Ελλάδα Novartis (Hellas) A. E. B. E. Τηλ: +30 210 281 17 12
+ Polska Novartis Poland Sp. z o. o. Tel.: +48 22 550 8888
+ España Novartis Farmacéutica, S. A. Tel: +34 93 306 42 00
+ Portugal Novartis Farma-Produtos Farmacêuticos, S. A. Tel: +351 21 000 8600
+ France Novartis Pharma S. A. S. Tél: +33 1 55 47 66 00
+ România Novartis Pharma Services Inc. Tel: +40 21 31299 01
+ Ireland Novartis Ireland Limited Tel: +353 1 260 12 55
+ Slovenija Novartis Pharma Services Inc. Tel: +386 1 300 75 77
+ Ísland Vistor hf. Sími: +354 535 7000
+ Slovenská republika Novartis Slovakia s. r. o. Tel: +421 2 5542 5439
+ Italia Novartis Farma S. p. A. Tel: +39 02 96 54 1
+ Suomi/Finland Novartis Finland Oy Puh/Tel: +358 9 61 33 22 11
+ Κύπρος Δημητριάδης και Παπαέλληνας Λτδ Τηλ: +357 22 690 690
+ Sverige Novartis Sverige AB Tel: +46 8 732 32 00
+ Latvija Novartis Pharma Services Inc. Tel: +371 7 887 070
+ United Kingdom Novartis Pharmaceuticals UK Ltd. Tel: +44 1276 698370
+ Lietuva Novartis Pharma Services Inc. Tel: +370 5 269 16 50
+ Este folheto foi aprovado pela última vez em
+ 49 INFORMAÇÃO PARA O PROFISSIONAL DE SAÚDE
+ Importante: Consultar o Resumo das Características do Medicamento antes de prescrever
+ Instruções de utilização e manipulação Apresentação de 500 mg: Pode obter-se uma concentração de 50 mg/ml reconstituindo com 10 ml de solução intravenosa de cloreto de sódio a 0,9%.
+ Os frascos para injectáveis de 500 mg/frasco para injectáveis também podem ser reconstituídos com água para preparações injectáveis estéril. Cubicin (daptomicina) não é física ou quimicamente compatível com soluções contendo glucose.
+ Deve utilizar-se uma técnica asséptica para reconstituir Cubicin liofilizado. A cápsula de destacar de polipropileno deve ser removida para expor a porção central da tampa de borracha. 10 ml de solução para injectáveis de cloreto de sódio a 9 mg/ml ou de água para preparações injectáveis devem ser lentamente injectados através do centro da tampa de borracha no frasco para injectáveis apontando a agulha na direcção da parede do frasco para injectáveis. O frasco para injectáveis deve ser rodado suavemente para assegurar o humedecimento completo do produto, deixando depois repousar durante 10 minutos. Finalmente, o frasco para injectáveis deve ser rodado suavemente durante alguns minutos conforme necessário até se obter uma solução reconstituída transparente. Deve evitar-se uma agitação vigorosa para impedir a formação de espuma. A reconstituição está normalmente completa ao fim de 15 minutos.
+ Antes da utilização, a solução reconstituída deve ser cuidadosamente verificada para assegurar que o produto está dissolvido e deve ser inspeccionada visualmente para verificar a ausência de partículas.
+ A solução reconstituída de Cubicin tem uma cor que varia entre o amarelo pálido e o castanho claro.
+ A solução reconstituída deve ser depois diluída com cloreto de sódio para perfusão intravenosa (volume típico de 50 ml) e perfundida durante 30 minutos.
+ A estabilidade física e química em uso da solução reconstituída no frasco para injectáveis foi demonstrada durante 12 horas a 25°C e até 48 horas se conservada no frigorífico (2 a 8°C). O tempo combinado (frasco para injectáveis e saco de perfusão) a 25°C não deve ser exceder 12 horas (24 horas se refrigerado).
+ A estabilidade da solução diluída em sacos de perfusão foi estabelecida em 12 horas a 25°C ou em 24 horas se conservada no frigorífico a 2°C-8°C.
+ Sob o ponto de vista microbiológico, o produto deve ser utilizado imediatamente. Se não for imediatamente utilizado, os períodos de conservação em uso são da responsabilidade do utilizador e, normalmente, não devem ser superiores a 24 horas entre 2 a 8°C, a não ser que a reconstituição e diluição tenham sido efectuadas em condições assépticas controladas e validadas.
+ Cubicin não é física ou quimicamente compatível com soluções contendo glucose. Verificou-se que os seguintes são compatíveis quando adicionados a soluções de perfusão contendo Cubicin: aztreonam, ceftazidima, ceftriaxona, gentamicina, fluconazol, levofloxacina, dopamina, heparina e lidocaína.
+ Este medicamento não deve ser misturado com outros medicamentos, com excepção dos acima mencionados.
+ Os frascos para injectáveis de Cubicin são apenas para utilização única. O produto não utilizado que reste no frasco para injectáveis deve ser eliminado.
+ 50

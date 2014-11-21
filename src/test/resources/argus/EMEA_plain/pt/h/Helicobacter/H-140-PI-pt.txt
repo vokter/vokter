@@ -1,0 +1,694 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. NOME DO MEDICAMENTO
+ Helicobacter Test INFAI,75 mg pó para solução oral.
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Um reservatório contem 75 mg de 13C-ureia pó Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Pó para solução oral. Solução incolor e límpida
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas O Helicobacter Test INFAI pode ser utilizado para o diagnóstico in vivo da infecção gastroduodenal por Helicobacter pylori em:
+ -adultos,
+ -adolescentes, com possível úlcera péptica.
+ Este medicamento é apenas para diagnóstico.
+ 4.2 Posologia e modo de administração Este produto médico deve ser administrado por um profissional de saúde e sob supervisão médica apropriada.
+ Helicobacter Test INFAI é um teste de respiração para uma única administração. Os adultos e os adolescentes dos 12 aos 17 anos tomam o conteúdo de um boião de 75 mg. Para a realização do teste são necessários 200 ml de sumo de laranja 100% puro ou 1g de ácido cítrico dissolvido em 200ml de água (como refeição antes do teste) bem como água da torneira (para dissolução do pó de 13C-ureia). O paciente tem de estar em jejum durante as 6 horas que precedem o teste, de preferência desde a noite anterior. O teste demora aproximadamente 40 minutos.
+ Em caso de necessidade de repetição do teste, este não deve ser realizado até no dia seguinte.
+ A supressão do Helicobacter pylori pode dar lugar a resultados negativos falsos. Nestas condições o teste deve ser realizado depois de pelo menos 4 semanas sem terapia anti bacteriana sistémica e 2 semanas depois da última dose de agentes anti-secretores ácidos. Ambos podem interferir com a situação do Helicobacter pylori. Isto é particularmente importante depois de uma terapêutica de erradicação de Helicobacter.
+ É importante seguir adequadamente as instruções de utilização descritas no ponto 6.6, senão pode tornar-se questionável a validade do resultado.
+ 4.3 Contra-indicações Este teste não deve ser utilizado em pacientes com infecção gástrica, ou gastrite atrófica, documentada ou suspeita, que poderia interferir com o teste de respiração da ureia. Consultar, por favor, o ponto 4.2 (Posologia e modo de administração).
+ 2 4.4 Advertências e precauções especiais de utilização
+ Um teste positivo não constitui por si só indicação para terapia de erradicação. Pode estar indicado um diagnóstico diferencial com métodos invasivos endoscópicos, de forma a examinar a presença de quaisquer outras complicações, por exemplo, úlcera, gastrite auto-imune ou tumores malignos.
+ Existem dados insuficientes sobre a capacidade de diagnostico do teste INFAI para recomendar a sua utilização em pacientes com gastrectomia e em pacientes menores aos 12 anos. Para crianças a partir dos 3 anos, está disponível o Teste do Helicobacter INFAI dos 3 aos 11 anos.
+ Em casos isolados de gastrite-A (gastrite atrófica) o teste de respiração pode dar resultados falsos positivos; podem ser requeridos outros ensaios para confirmar o estado do Helicobacter pylori.
+ Se o paciente vomitar durante a realização do teste, sendo necessária a repetição do mesmo, esta só se pode realizar no dia seguinte, em jejum, como se indica no ponto 4.2.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Helicobacter Test INFAI será afectado por todos os tratamentos que interfiram com o estado do Helicobacter pylori ou com a actividade da urease.
+ 4.6 Gravidez e aleitamento Não é de esperar que o procedimento de teste possa ser prejudicial durante a gravidez ou lactação.
+ É recomendável tomar nota da informação do produto, dos produtos de terapêutica de erradicação para a sua utilização durante a gravidez e lactação.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ O Helicobacter Test INFAI não tem influência na condução e utilização de máquinas.
+ 4.8 Efeitos indesejáveis Não se conhecem. 4.9 Sobredosagem Tendo em conta que são ingeridas apenas 75 mg de 13C-ureia, não são esperados problemas de sobre dosagem.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo fármaco-terapêutico: Outros agentes de diagnóstico, Código ATC: VO4CX
+ Para a quantidade de 75 mg de 13C-ureia, quando administrada em toma única no decorrer do teste de respiração, não está descrita qualquer actividade farmacodinâmica.
+ Após ingestão oral, a ureia marcada atinge a mucosa gástrica. Na presença do Helicobacter pylori, a 13 C-ureia é metabolizada pelo enzima urease do Helicobacter pylori.
+ 2H2N(13CO) NH2+ 2H2O enzima urease
+ 4NH3+ 2 13CO2 3 O dióxido de carbono difunde-se dentro dos vasos sanguíneos, sendo transportado sob a forma de bicarbonato até aos pulmões, sendo depois libertado como 13CO2 com o ar expirado.
+ Na presença da urease bacteriana a razão dos isótopos de carbono 13C/12C é alterada significativamente. A proporção de 13CO2 nas amostras de ar expirado é determinada por espectrometria de massa de relação de isótopos (IRMS) e é expressa como a diferença absoluta (valor Δδ) entre os valores dos 00 e dos 30 minutos.
+ A urease é produzida no estômago apenas pela Helicobacter pylori. Raramente foram encontradas outras bactérias produtoras de urease na flora gástrica.
+ O ponto crítico para catalogar pacientes como Helicobacter pylori negativos ou positivos é determinado por um valor Δδ de 4 ‰, o que significa que um aumento do valor Δδ em mais de 4 ‰ é indicador de infecção. Em comparação com os diagnósticos bióticos de uma infecção por Helicobacter pylori, o teste de respiração atinge, em ensaios clínicos com 457 pacientes, uma sensibilidade no intervalo entre 96,5% e 97,9%[ 95%-CI: 94,05%-99,72%], e um raio de especificidade entre 96,7% e 100,0%[ 95%-CI: 94,17%-103,63%]. Em ensaios clínicos com 93 adolescentes dos 12 aos 17 anos, o teste de respiração atinge uma sensibilidade de 97,7%[ 90%-CI: 91,3%], e uma especificidade de 96,7%[ 90%-CI: 89,7%].
+ Na ausência de urease bacteriana, toda a ureia administrada, após reabsorção no tracto gastro-intestinal, será metabolizada como a ureia endógena. O amoníaco resultante da hidrólise bacteriana é incluído no metabolismo como NH4+.
+ 5.2 Propriedades farmacocinéticas A 13C-ureia administrada oralmente é metabolizada em dióxido de carbono e amoníaco ou é integrada no ciclo metabólico da ureia. Qualquer aumento do 13CO2 será medido por análise isotópica.
+ A absorção e distribuição de 13CO2 é mais rápida do que a reacção da urease. Nestas condições, o passo de limitação de velocidade de todo o processo é a clivagem da 13C-ureia pela urease do Helicobacter.
+ Apenas nos pacientes Helicobacter pylori positivos a administração de 75 mg de ureia marcada leva, dentro dos primeiros 30 minutos, a um aumento significativo de 13CO2 na amostra de ar expirado.
+ 5.3 Dados da segurança pré-clínica Não há preocupações relacionadas com a utilização clínica do produto.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Nenhum. 6.2 Incompatibilidades Não aplicavel. 6.3 Prazo de validade 3 anos 6.4 Precauções especiais de conservação
+ Não conservar acima de 25°C. 4 6.5 Natureza e conteúdo do recipiente
+ Um conjunto de teste contém as seguintes partes:
+ Nº Componente Quantidade 1. Boião (10 ml de volume, poliestireno com tampa estriada de polietileno) contendo 75 mg de 13C-ureia em pó para solução oral
+ 1 2. Recipientes de amostragem rotulados de vidro ou plástico para amostragem, conservação e transporte das amostras de ar para análise:
+ Tempo de amostragem: 00-minutos-valor Tempo de amostragem: 30-minutos-valor
+ 2 2 3 Palhinha dobrável para recolha das amostras de ar directamente para os recipientes de amostragem correspondentes
+ 1 4 5 6 Folha de dados para documentação do doente Folheto para o paciente Folha com rótulos e adesivo
+ 1 1 1 6.6 Precauções especiais de eliminação e manuseamento
+ 1. O teste deve realizar-se na presença duma pessoa qualificada. 2. Cada paciente deve estar documentado de acordo com a folha de dados fornecida. Recomenda-se que o teste seja realizado com o paciente em posição de repouso. 3. O teste inicia-se com a recolha de amostras para determinação do valor basal (00-minutos-valor):
+ •
+ Retire a palhinha dobrável e os 2 recipientes de amostragem com o rótulo: ” tempo de amostragem: 00-minutos-valor ” do conjunto de teste.
+ •
+ Retire a tampa de um dos recipientes de amostragem, desembrulhe a palhinha dobrável e coloque a palhinha no recipiente.
+ •
+ Respire agora com suavidade através da palhinha até que a superficie interna do recipiente fique condensada no recipiente de amostra
+ •
+ Sem nunca deixar de respirar, retire a palhinha e feche de imediato o recipiente de amostragem com a sua tampa. (se o recipiente de amostragem permanecer aberto durante mais de 30 segundos, os resultados do teste podem ficar falseados).
+ •
+ Mantenha o recipiente de amostragem em posição vertical e cole o rótulo com código de barras legendado ” 00-minutos-valor ” em torno do recipiente de amostragem de modo a que as linhas do código barras fiquem horizontais.
+ 4. Encher o segundo recipiente de amostragem (Rótulo: “ tempo de amostragem: 00-minutos-
+ valor ”) com a expiração e seguindo o mesmo procedimento. 5. Neste momento devem ser bebidos sem demora 200 ml de sumo de laranja 100% ou 1 g de ácido cítrico dissolvido em 200ml de água 6. Segue agora a preparação da solução de teste: Retire do conjunto de teste o boião etiquetado com" pó de 13C-ureia", abrir e encher com • água da torneira até três quartos do seu volume.
+ • •
+ Feche o boiãoe agitar cuidadosamente até completa dissolução do pó. Despeje o conteúdo para um copo. Encha de novo o boião de 13C-ureia com água até à marca uma segunda e uma terceira vezes e juntar os conteúdos ao copo (o volume total de água deve ser aproximadamente 30 ml).
+ 7. Esta solução de teste deve ser bebida imediatamente pelo paciente e a hora da ingestão deve ser anotada. 8. Trinta minutos após a ingestão da solução de teste (ponto 7.), recolha as amostras valor-30-minutos nos 2 recipientes de amostragem colocados no conjunto de teste, (Rótulo: “ Tempo de amostragem: 30-minutos-valor ”), como descrito nos pontos 3. a 4. Usar as etiquetas com código barras marcadas “ 30-minutos-valor ” para estas amostras. 9. Coloque o rótulo com código de barras relevante na folha de dados para documentação do paciente. Finalmente, sele a embalagem com o adesivo.
+ 5 10. Os recipientes com as amostras devem ser enviados na embalagem original para análise num laboratório qualificado.
+ Análise de amostras de respiração e especificações de teste para laboratórios
+ As amostras de respiração, recolhidas nos recipientes de amostra de 10 ml de vidro ou plástico, são analizadas mediante espectrometria de massa de relação de isótopos (IRMS).
+ A análise de razão 13C/12C do dióxido de carbono na respiração é uma parte integrada do kit de diagnóstico Helicobacter Test INFAI. A exactidão do teste depende fundamentalmente da qualidade de análise da respiração. A especificação dos parâmetros do espectrómetro de massa, tais como a lineariedade, a estabilidade (precisão do gás de referência) e a precisão da medição são fundamentais para a exactidão do sistema.
+ É necessário assegurar-se de que a análise seja efectuada por laboratorios qualificados. O método validado no pedido é o seguinte:
+ • Preparação da amostra para IRMS
+ Para determinar a razão 13C/12C do dióxido de carbono existente na respiração, mediante análise de espectrometria de massa, o dióxido de carbono deverá ser separado a partir da respiração e introduzido no espectrómetro de massa. O sistema de preparação automática, no caso dos espectrómetros de massa isotópicos dedicado à análise do teste da respiração, baseia-se numa técnica cromatográfica gasosa de separação de fluxo contínuo.
+ A água elimina-se da amostra através de um dreno de água Nafion ou pelo sistema de preparação cromatográfico gasoso, que separa os gases individuais numa coluna cromatográfica gasosa com o Hélio como eluente. Passando para a coluna, as espécies separadas de gás da respiração são detectadas por meio dum detector de ionização. A fracção do gás dióxido de carbono, identificada pelo seu período característico de retenção, é introduzida no espectrómetro de massa.
+ • Análise espectrométrica de massa
+ Para analizar a amostra separada do gás dióxido de carbono, as suas moléculas deverão ser ionizadas, formadas num feixe, aceleradas por un campo eléctrico, deflectidas num campo magnético e, finalmente, detectadas. Estes cinco processos realizam-se no analizador dum espectrómetro de massa que possui três secções diferentes: a fonte, o tubo de trajectória e o colector. A ionização, a formação em feixe e a aceleração têm lugar na fonte; a deflexão magnética processa-se no tubo de trajectória e a detecção é realizada no colector
+ • Introdução de amostras
+ Estão disponíveis muitos sistemas de introdução de amostras para a introdução do dióxido de carbono no analizador. Quanto à análise do teste de respiração, é essencial a calibragem individual do dióxido de carbono da amostra a um gás de referência padrão. Isto assegura a grande precisão deste sistema uma vez que o calculo do conteúdo isotópico em dióxido de carbono se realiza em relação a um padrão independente.
+ • Especificações para a determinação da relação 13C/12C
+ O conceito do teste de respiração bascia-se na administração de uma ureia especificamente marcada 13 C-, cuja utilização metabólica é monitorizada mediante medição do 13CO2, no gás da respiração expirada.
+ O espectrómetro de massa deverá ser capaz de:
+ A análise replicada múltipla: Um mínimo de 3 análises replicadas sobre a mesma amostra durante a
+ 6 operação. segurança de acessos: Ajustamento:
+ Conservação dos parâmetros operacionais e dos resultados sob segurança de acessos para evitar manipulações posteriores. Razão 13C/12C, relativamente ao PDB (Pee Dee Beliminate).
+ Ciclo da amostra espécime: &lt; 200 µl.
+ Os principais testes para verificar as especificações são: lineariedade, estabilidade (precisão do gás de referência) e precisão da medição.
+ Todos os espectrómetros de massa para análise do respiração devem estar conformes às seguintes especificações:
+ ≤ 0,5 ‰ para amostras de respiração, variando entre 1% e 7% de Lineariedade: concentração de CO2. ≤ 0,2 ‰ em 10 pulsações consecutivas. Estabilidade: ≤ 0,3 ‰ do 13C no seu conteúdo natural, utilizando um recipiente de Precisão de medição: 10 ml de amostra de respiração com uma concentração de 3% de CO2 na respiração.
+ Está-se na presença de uma infecção por Helicobacter pylori se a diferença na razão 13C/12C entre o valor basal e o valor aos 30 minutos exceder 4 ‰.
+ Também pode ser utilizado qualquer outro método adequado validado, desde que seja utilizado por um laboratório objectivamente qualificado.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Alemanha
+ 8. NÚMERO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/97/045/001 9. DATA DA PRIMERA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 14. 08. 1997/14. 08.2007 10. DATA DA REVISÃO DO TEXTO 7 1. NOME DO MEDICAMENTO
+ Helicobacter Test INFAI,75 mg pó para solução oral.
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Um boião contém 75 mg de 13C-ureia pó: Lista de excipientes, ver secção 6.1 3. FORMA FARMACÊUTICA Pó para solução oral. Solução incolor e límpida
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas O Helicobacter Test INFAI pode ser utilizado para o diagnóstico in vivo da infecção gastroduodenal por Helicobacter pylori em:
+ -adultos,
+ -adolescentes, com possível úlcera péptica.
+ Este medicamento é apenas para diagnóstico.
+ 4.2 Posologia e modo de administração Este produto médico deve ser administrado por um profissional de saúde e sob supervisão médica apropriada.
+ Helicobacter Test INFAI é um teste de respiração realizado para uma única administração. Os pacientes a partir dos 12 anos de idade tomam o conteúdo de um boião de 75 mg..
+ Para a realização do teste são necessários 200 ml de sumo de laranja 100% puro ou 1g de ácido cítrico dissolvido em 200ml de água (como refeição antes do teste) bem como água da torneira (para dissolução do pó de 13C-ureia). O paciente tem de estar em jejum durante as 6 horas que precedem o teste, de preferência desde a noite anterior. O teste demora aproximadamente 40 minutos.
+ Em caso de necessidade de repetição do teste, este não deve ser realizado até no dia seguinte.
+ A supressão do Helicobacter pylori pode dar lugar a resultados negativos falsos. Nestas condições o teste deve ser realizado depois de pelo menos 4 semanas sem terapia anti bacteriana sistémica e 2 semanas depois da última dose de agentes anti-secretores ácidos. Ambos podem interferir com a situação do Helicobacter pylori. Isto é particularmente importante depois de uma terapêutica de erradicação de Helicobacter.
+ É importante seguir adequadamente as instruções de utilização descritas no ponto 6.6, senão pode tornar-se questionável a validade do resultado.
+ 8 4.3 Contra-indicações
+ Este teste não deve ser utilizado em pacientes com infecção gástrica, ou gastrite atrófica, documentada ou suspeita, que poderia interferir com o teste de respiração da ureia. Consultar, por favor, o ponto 4.2 (Posologia e modo de administração).
+ 4.4 Advertências e precauções especiais de utilização
+ Um teste positivo não constitui por si só indicação para terapia de erradicação. Pode estar indicado um diagnóstico diferencial com métodos invasivos endoscópicos, de forma a examinar a presença de quaisquer outras complicações, por exemplo, úlcera, gastrite auto-imune ou tumores malignos.
+ Existem dados insuficientes sobre a capacidade de diagnostico do teste INFAI para recomendar a sua utilização em pacientes com gastrectomia e em pacientes menores aos 12 anos. Para crianças a partir dos 3 anos, está disponível o Teste do Helicobacter INFAI dos 3 aos 11 anos.
+ Em casos isolados de gastrite-A (gastrite atrófica) o teste de respiração pode dar resultados falsos positivos; podem ser requeridos outros ensaios para confirmar o estado do Helicobacter pylori.
+ Se o paciente vomitar durante a realização do teste, sendo necessária a repetição do mesmo, esta só se pode realizar no dia seguinte, em jejum, como se indica no ponto 4.2.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Helicobacter Test INFAI será afectado por todos os tratamentos que interfiram com o estado do Helicobacter pylori ou com a actividade da urease.
+ 4.6 Gravidez e aleitamento Não é de esperar que o procedimento de teste possa ser prejudicial durante a gravidez ou lactação.
+ É recomendável tomar nota da informação do produto, dos produtos de terapêutica de erradicação para a sua utilização durante a gravidez e lactação.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ O Helicobacter Test INFAI não tem influência na condução e utilização de máquinas.
+ 4.8 Efeitos indesejáveis Não se conhecem. 4.9 Sobredosagem Tendo em conta que são ingeridas apenas 75 mg de 13C-ureia, não são esperados problemas de sobre dosagem.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo fármaco-terapêutico: Outros agentes de diagnóstico, Código ATC: VO4CX
+ Para a quantidade de 75 mg de 13C-ureia, quando administrada em toma única no decorrer do teste de respiração, não está descrita qualquer actividade farmacodinâmica.
+ 9 Após ingestão oral, a ureia marcada atinge a mucosa gástrica. Na presença do Helicobacter pylori, a 13 C-ureia é metabolizada pelo enzima urease do Helicobacter pylori.
+ 2H2N(13CO) NH2+ 2H2O enzima urease
+ 4NH3+ 2 13CO2 O dióxido de carbono difunde-se dentro dos vasos sanguíneos, sendo transportado sob a forma de bicarbonato até aos pulmões, sendo depois libertado como 13CO2 com o ar expirado.
+ Na presença da urease bacteriana a razão dos isótopos de carbono 13C/12C é alterada significativamente. A proporção de 13CO2 nas amostras de ar expirado é determinada por espectrometria de infravermelhos não dispersiva (NDIR) e é expressa como a diferença absoluta (valor Δδ) entre os valores dos 00 e dos 30 minutos.
+ A urease é produzida no estômago apenas pela Helicobacter pylori. Raramente foram encontradas outras bactérias produtoras de urease na flora gástrica.
+ O ponto crítico para catalogar pacientes como Helicobacter pylori negativos ou positivos é determinado por um valor Δδ de 4 ‰, o que significa que um aumento do valor Δδ em mais de 4 ‰ é indicador de infecção. Em comparação com os diagnósticos bióticos de uma infecção por Helicobacter pylori, o teste de respiração atinge, em ensaios clínicos com 457 pacientes, uma sensibilidade no intervalo entre 96,5% e 97,9%[ 95%-CI: 94,05%-99,72%], e um raio de especificidade entre 96,7% e 100,0%[ 95%-CI: 94,17%-103,63%].
+ Na ausência de urease bacteriana, toda a ureia administrada, após reabsorção no tracto gastro-intestinal, será metabolizada como a ureia endógena. O amoníaco resultante da hidrólise bacteriana é incluído no metabolismo como NH4+.
+ 5.2 Propriedades farmacocinéticas A 13C-ureia administrada oralmente é metabolizada em dióxido de carbono e amoníaco ou é integrada no ciclo metabólico da ureia. Qualquer aumento do 13CO2 será medido por análise isotópica.
+ A absorção e distribuição de 13CO2 é mais rápida do que a reacção da urease. Nestas condições, o passo de limitação de velocidade de todo o processo é a clivagem da 13C-ureia pela urease do Helicobacter.
+ Apenas nos pacientes Helicobacter pylori positivos a administração de 75 mg de ureia marcada leva, dentro dos primeiros 30 minutos, a um aumento significativo de 13CO2 na amostra de ar expirado.
+ 5.3 Dados da segurança pré-clínica Não há preocupações relacionadas com a utilização clínica do produto.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Nenhum. 6.2 Incompatibilidades Não aplicavel. 10 6.3 Prazo de validade
+ 3 anos 6.4 Precauções especiais de conservação
+ Não conservar acima de 25°C. 6.5 Natureza e conteúdo do recipiente Um conjunto de teste contem 1 boião com os componentes adicionais:
+ Componente Quantidade 1. Boião (10 ml de volume, poliestireno com tampa estriada de polietileno) contendo 75 mg de 13C-ureia em pó para solução oral
+ 1 2. Sacos de recolha de ar: Tempo de amostragem: 00-minutos-valor Tempo de amostragem: 30-minutos – valor
+ 1 1 3 Palhinha dobrável para recolha das amostras de ar directamente para os recipientes de amostragem correspondentes
+ 1 4 5 6 Folha de dados para documentação do doente Folheto para o paciente Rótulos com código de barras e adesivo
+ 1 1 1 Uma caixa de testes contem 50 reservatórios com os componentes adicionais:
+ Componente Quantidade 1. Boião (10 ml de volume, poliestireno com tampa estriada de polietileno) contendo 75 mg de 13C-ureia em pó para solução oral
+ 50 2. Sacos de recolha de ar: Tempo de amostragem: 00-minutos-valor Tempo de amostragem: 30-minutos – valor
+ 50 50 3 Palhinha dobrável para recolha das amostras de ar directamente para os recipientes de amostragem correspondentes
+ 50 4 5 6 Folha de dados para documentação do doente Folheto para o paciente Rótulos com código de barras e adesivo
+ 50 50 50 6.6 Precauções especiais de eliminação e manuseamento
+ 1. O teste deve realizar-se na presença duma pessoa qualificada. 2. Cada paciente deve estar documentado de acordo com a folha de dados fornecida. Recomenda-se que o teste seja realizado com o paciente em posição de repouso. 3. O teste inicia-se com a recolha da amostra para determinação do valor basal (00-minutos-valor):
+ •
+ Retire a palhinha dobrável e o saco de recolha de ar com o rótulo: ” tempo de amostragem: 00-minutos-valor ” do conjunto de teste.
+ •
+ Retire a tampa do saco de recolha de ar, desembrulhe a palhinha dobrável e coloque a palhinha no saco.
+ • •
+ Respire agora com suavidade através da palhinha no saco de recolha de ar Sem nunca deixar de respirar, retire a palhinha e feche de imediato o saco com a sua tampa.
+ (Se o saco de recolha de ar permanecer aberto durante mais de 30 segundos, os resultados do teste podem ficar falseados). Mantenha o saco de recolha de ar em posição vertical e cole o rótulo com código de barras legendado ” 00-minutos-valor ” em torno do sacode. 4. Neste momento devem ser bebidos sem demora 200 ml de sumo de laranja 100% ou 1g de
+ 11 ácido cítrico dissolvido em 200ml de água. 5. Segue agora a preparação da solução de teste: Retire do conjunto de teste o boião etiquetado com" pó de 13C-ureia", abrir e encher com • água da torneira até três quartos do seu volume.
+ • •
+ Feche o boiãoe agitar cuidadosamente até completa dissolução do pó. Despeje o conteúdo para um copo. Encha de novo o boião de 13C-ureia com água até à marca uma segunda e uma terceira vezes e juntar os conteúdos ao copo (o volume total de água deve ser aproximadamente 30 ml).
+ 6. Esta solução de teste deve ser bebida imediatamente pelo paciente e a hora da ingestão deve ser anotada. 7. Trinta minutos após a ingestão da solução de teste (ponto 6.), recolha a amostra valor-30-minutos no saco de recolha de ar colocado no conjunto de teste, (Rótulo: “ Tempo de amostragem: 30-minutos-valor ”), como descrito no ponto 3. Usar a etiqueta com código barras marcada “ 30-minutos-valor ” para esta amostra. 8. Coloque o rótulo com código de barras relevante na folha de dados para documentação do paciente. Finalmente, sele a embalagem com o adesivo. 9. Os sacos de recolha de ar devem ser enviados na embalagem original para análise num laboratório qualificado.
+ Análise de amostras de respiração e especificações de teste para laboratórios
+ As amostras de respiração, colhidas em sacos de recolha de ar, são analizadas mediante espectrometria de infravermelhos não dispersiva (NDIR).
+ A análise de razão 13C/12C do dióxido de carbono na respiração é uma parte integrada do kit de diagnóstico Helicobacter Test INFAI. A exactidão do teste depende fundamentalmente da qualidade de análise da respiração. A especificação dos parâmetros da análise da respiração, tais como a lineariedade, a estabilidade (precisão do gás de referência) e a precisão da medição são fundamentais para a exactidão do sistema.
+ É necessário assegurar-se de que a análise seja efectuada por laboratorios qualificados. Após colheita da amostra, recomenda-se que a medição seja efectuada o mais breve possivel, em caso algum demorar mais de 4 semanas.
+ O método validado no pedido é o seguinte:
+ • Preparação da amostra para a espectrometria de infravermelhos
+ A determinação da razão 13C/12C no dióxido de carbono existente nas amostras de respiração é efectuada directamente na respiração. O ar expirado recolhido nos sacos é introduzido no espectrómetro de NDIR mediante uma bomba de gás variável. O teor de água da amostra de respiração manter-se-á praticamente sempre constante graças ao separador de água Nafion. Para efeitos de calibragem e medição, o ar isento de CO2 necessário (gás zero) será produzido através de um absorvente de CO2 integrado no analisador.
+ • Análise espectrométrica por infravermelhos
+ Para analisar o dióxido de carbono na respiração, um feixe de radiações infravermelhas de banda larga, emitido por uma fonte de radiação infravermelha, é enviado alternadamente através da câmara de mediação e de uma câmara de referência mediante um interruptor de raios. Os raios infravermelhos modulados entram, então, nos detectores de infravermelhos, que são detectores de transmissão de camada dupla com uma câmara frontal e uma posterior, cada uma contendo um dos gases isotopicamente puros (13CO2 ou 12CO2, respectivamente) a medir. A radiação infravermelha na câmara de medição é enfraquecida pelo componente do gás a medir. Assim, o equilíbrio da radiação entre o raio de medição e o comparativo é perturbado. Consequentemente, ocorre uma flutuação de temperatura que, por seu turno, provoca uma flutuação na pressão da câmara frontal do detector de
+ 12 infravermelhos. Um condensador de membrana ligado a esta câmara, exposto a uma tensão directa de alta resistência, transforma estas flutuações de pressão numa tensão alterna, que constitui a medida da composição isotópica do dióxido de carbono na respiração.
+ • Introdução de amostras
+ Um sistema de introdução de amostras semi-automático injecta o gás de medição em quantidades definidas no gás zero que circula no circuito de gás do espectrómetro de infravermelhos. Isto permite medir a razão 13C/12C em qualquer concentração superior a 1%.
+ Especificações para a determinação da relação 13C/12C •
+ O conceito do teste de respiração baseia-se na administração oral de uma ureia marcada 13C, cuja hidrólise enzimática é monitorizada mediante medição do 13CO2 na respiração utilizando a espectrometria de infravermelhos não dispersiva.
+ Os espectrómetros de infravermelhos para análise da respiração têm de cumprir as seguintes especificações:
+ A análise replicada múltipla: Um mínimo de três análises replicadas de uma mesma amostra durante a operação Segurança de acessos:
+ Conservação dos parâmetros operacionais sob segurança de acessos para evitar manipulações posteriores
+ Para verificar as especificações, a linearidade, a estabilidade e a precisão de medição têm de ser testadas.
+ Ajuste do ponto zero dos detectores através do gás zero gerado no espectrómetro. Ajuste do ponto zero dos detectores através de gases de calibragem em concentrações bem definidas. ≤ 0.5 ‰ para amostras de respiração variando entre 1% e 7% de Linearidade: concentração de CO2 ≤ 0.3 ‰ em 10 pulsações consecutivas Estabilidade: ≤ 0.5 ‰ do 13C no seu conteúdo natural, utilizando um saco de recolha Precisão de medição: de ar expirado de 100ml com uma concentração de 3% de CO2 na respiração
+ Está-se na presença de uma infecção por Helicobacter pylori se a diferença na razão entre o valor basal e o valor aos 30 minutos exceder 4 ‰.
+ Também pode ser utilizado qualquer outro método adequado validado, desde que seja utilizado por um laboratório objectivamente qualificado.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Alemanha
+ 8. NÚMERO NO REGISTO COMUNITÁRIO DE MEDICAMENTOS
+ EU 1/97/045/002 EU 1/97/045/004 13 9. DATA DA PRIMERA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 14. 08. 1997/14. 08.2007 10. DATA DA REVISÃO DO TEXTO 14 1. NOME DO MEDICAMENTO
+ Teste Helicobacter INFAI para crianças dos 3 aos 11 anos de idade,45 mg, pó para solução oral
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Um reservatório contem 45 mg de 13C-ureia pó
+ Para ver a lista de excipientes, consulte o ponto 6.1
+ 3. FORMA FARMACÊUTICA Pó para solução oral. Solução incolor e límpida
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas O Teste Helicobacter INFAI para crianças dos 3 aos 11 anos de idade pode utilizar-se para o diagnóstico" in vivo" da infecção gastroduodenal por Helicobacter Pylori.
+ para a avaliação do sucesso do tratamento de erradicação, ou
+ -
+ quanto testes invasivos não podem ser realizados, ou
+ -
+ quanto surgem resultatos discordantes em testes invasivos
+ -
+ Este medicamento é apenas para diagnóstico.
+ 4.2 Posologia e modo de administração
+ Este produto médico deve ser administrado por um profissional de saúde e sob supervisão médica apropriada.
+ Teste Helicobacter INFAI para crianças dos 3 aos 11 anos de idade é um teste de respiração para uma única administração. Os pacientes dos 3 aos 11 anos tomam o conteúdo de um boião de 45 mg ..
+ Para a realização do teste são necessários 100 ml de sumo de laranja 100% puro (como refeição antes do teste) bem como água da torneira (para dissolução do pó de 13C-ureia). O paciente tem de estar em jejum durante as 6 horas que precedem o teste, de preferência desde a noite anterior. O teste demora aproximadamente 40 minutos.
+ Em caso de necessidade de repetição do teste, este não deve ser realizado até no dia seguinte.
+ A supressão do Helicobacter pylori pode dar lugar a resultados negativos falsos. Nestas condições o teste deve ser realizado depois de pelo menos 4 semanas sem terapia anti bacteriana sistémica e 2 semanas depois da última dose de agentes anti-secretores ácidos. Ambos podem interferir com a situação do Helicobacter pylori. Isto é particularmente importante depois de uma terapêutica de erradicação de Helicobacter.
+ É importante seguir adequadamente as instruções de utilização descritas no ponto 6.6, senão pode tornar-se questionável a validade do resultado.
+ 15 4.3 Contra-indicações
+ Este teste não deve ser utilizado em pacientes com infecção gástrica, ou gastrite atrófica, documentada ou suspeita, que poderia interferir com o teste de respiração da ureia. Consultar, por favor, o ponto 4.2 (Posologia e modo de administração).
+ 4.4 Advertências e precauções especiais de utilização
+ Um teste positivo não constitui por si só indicação para terapia de erradicação. Pode estar indicado um diagnóstico diferencial com métodos invasivos endoscópicos, de forma a examinar a presença de quaisquer outras complicações, por exemplo, úlcera, gastrite auto-imune ou tumores malignos.
+ Existem dados insuficientes sobre a capacidade de diagnostico do teste INFAI para recomendar a sua utilização em pacientes com gastrectomia.
+ Em casos isolados de gastrite-A (gastrite atrófica) o teste de respiração pode dar resultados falsos positivos; podem ser requeridos outros ensaios para confirmar o estado do Helicobacter pylori.
+ Se o paciente vomitar durante a realização do teste, sendo necessária a repetição do mesmo, esta só se pode realizar no dia seguinte, em jejum, como se indica no ponto 4.2.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Teste Helicobacter INFAI para crianças dos 3 aos 11 anos de idade será afectado por todos os tratamentos que interfiram com o estado do Helicobacter pylori ou com a actividade da urease.
+ 4.6 Gravidez e aleitamento Não aplicável. 4.7 Efeitos sobre a capacidade de conduzir e utilizar maquinas
+ Não aplicável. 4.8 Efeitos indesejáveis Não se conhecem. 4.9 Sobredosagem Tendo em conta que são ingeridas apenas 45 mg de 13C-ureia, não são esperados problemas de sobre dosagem.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo fármaco-terapêutico: Outros agentes de diagnóstico, Código ATC: VO4CX
+ 16 Para a quantidade de 45 mg de 13C-ureia, quando administrada em toma única no decorrer do teste de respiração, não está descrita qualquer actividade farmacodinâmica.
+ Após ingestão oral, a ureia marcada atinge a mucosa gástrica. Na presença do Helicobacter pylori, a 13 C-ureia é metabolizada pelo enzima urease do Helicobacter pylori.
+ 2H2N(13CO) NH2+ 2H2O enzima urease
+ 4NH3+ 2 13CO2 O dióxido de carbono difunde-se dentro dos vasos sanguíneos, sendo transportado sob a forma de bicarbonato até aos pulmões, sendo depois libertado como 13CO2 com o ar expirado.
+ Na presença da urease bacteriana a razão dos isótopos de carbono 13C/12C é alterada significativamente. A proporção de 13CO2 nas amostras de ar expirado é determinada por espectrometria de massa de relação de isótopos (IRMS) e é expressa como a diferença absoluta (valor Δδ) entre os valores dos 00 e dos 30 minutos.
+ A urease é produzida no estômago apenas pela Helicobacter pylori. Raramente foram encontradas outras bactérias produtoras de urease na flora gástrica.
+ O ponto crítico para catalogar pacientes como Helicobacter pylori negativos ou positivos é determinado por um valor Δδ de 4 ‰, o que significa que um aumento do valor Δδ em mais de 4 ‰ é indicador de infecção. Em comparação com os diagnósticos bióticos de uma infecção por Helicobacter pylori, o teste de respiração atinge, em ensaios clínicos com 168 pacientes dos 3 aos 11 anos, uma sensibilidade de 98,4%[ 90%-CI: ≥93,9%], e uma especificidade de 98,1%[ 90%-CI: ≥95,1%].
+ Na ausência de urease bacteriana, toda a ureia administrada, após reabsorção no tracto gastro-intestinal, será metabolizada como a ureia endógena. O amoníaco resultante da hidrólise bacteriana é incluído no metabolismo como NH4+.
+ 5.2 Propriedades farmacocinéticas A 13C-ureia administrada oralmente é metabolizada em dióxido de carbono e amoníaco ou é integrada no ciclo metabólico da ureia. Qualquer aumento do 13CO2 será medido por análise isotópica.
+ A absorção e distribuição de 13CO2 é mais rápida do que a reacção da urease. Nestas condições, o passo de limitação de velocidade de todo o processo é a clivagem da 13C-ureia pela urease do Helicobacter.
+ Apenas nos pacientes Helicobacter pylori positivos a administração de 45 mg de ureia marcada leva, dentro dos primeiros 30 minutos, a um aumento significativo de 13CO2 na amostra de ar expirado.
+ 5.3 Dados da segurança pré-clínica Não há preocupações relacionadas com a utilização clínica do produto.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Nenhum. 6.2 Incompatibilidades Não aplicavel. 17 6.3 Prazo de validade
+ 3 anos. 6.4 Precauções especiais de conservação
+ Não conservar acima de 25°C. 6.5 Natureza e conteúdo do recipiente
+ Um conjunto de teste contém as seguintes partes:
+ Nº 1. Componente Boião (10 ml de volume, poliestireno com tampa estriada de polietileno) contendo 45 mg de 13C-ureia em pó para solução oral
+ Quantidade 1 2. Recipientes de amostragem rotulados de vidro ou plástico para amostragem, conservação e transporte das amostras de ar para análise:
+ Tempo de amostragem: 00-minutos-valor Tempo de amostragem: 30-minutos-valor
+ 2 2 3 Palhinha dobrável para recolha das amostras de ar directamente para os recipientes de amostragem correspondentes
+ 1 4 5 6 Folha de dados para documentação do doente Folheto para o paciente Folha com rótulos e adesivo
+ 1 1 1 6.6 Precauções especiais de eliminação e manuseamento
+ 1. O teste deve realizar-se na presença duma pessoa qualificada. 2. Cada paciente deve estar documentado de acordo com a folha de dados fornecida. Recomenda-se que o teste seja realizado com o paciente em posição de repouso. 3. O teste inicia-se com a recolha de amostras para determinação do valor basal (00-minutos-valor):
+ •
+ Retire a palhinha dobrável e os 2 recipientes de amostragem com o rótulo: ” tempo de amostragem: 00-minutos-valor ” do conjunto de teste.
+ •
+ Retire a tampa de um dos recipientes de amostragem, desembrulhe a palhinha dobrável e coloque a palhinha no recipiente.
+ •
+ Respire agora com suavidade através da palhinha até que a superficie interna do recipiente fique condensada no recipiente de amostra
+ •
+ Sem nunca deixar de respirar, retire a palhinha e feche de imediato o recipiente de amostragem com a sua tampa. (se o recipiente de amostragem permanecer aberto durante mais de 30 segundos, os resultados do teste podem ficar falseados).
+ •
+ Mantenha o recipiente de amostragem em posição vertical e cole o rótulo com código de barras legendado ” 00-minutos-valor ” em torno do recipiente de amostragem de modo a que as linhas do código barras fiquem horizontais.
+ 4. Encher o segundo recipiente de amostragem (Rótulo: “ tempo de amostragem: 00-minutos-valor ”) com a expiração e seguindo o mesmo procedimento. 5. Neste momento devem ser bebidos sem demora 100 ml de sumo de laranja 100%. 6. Segue agora a preparação da solução de teste: Retire do conjunto de teste o boião etiquetado com" pó de 13C-ureia", abrir e encher com água • da torneira até três quartos do seu volume.
+ • •
+ Feche o boião e agite cuidadosamente até completa dissolução do pó. Despeje o conteúdo para um copo. Encha de novo o boião de 13C-ureia com água até à marca uma segunda e uma terceira vezes e juntar os conteúdos ao copo (o volume total de água deve ser aproximadamente 30 ml).
+ 7. Esta solução de teste deve ser bebida imediatamente pelo paciente e a hora da ingestão deve ser
+ 18 anotada. 8. Trinta minutos após a ingestão da solução de teste (ponto 7.), recolha as amostras valor-30-minutos nos 2 recipientes de amostragem colocados no conjunto de teste, (Rótulo: “ Tempo de amostragem: 30-minutos-valor ”), como descrito nos pontos 3. a 4. Usar as etiquetas com código barras marcadas “ 30-minutos-valor ” para estas amostras. 9. Coloque o rótulo com código de barras relevante na folha de dados para documentação do paciente. Finalmente, sele a embalagem com o adesivo. 10. Os recipientes com as amostras devem ser enviados na embalagem original para análise num laboratório qualificado.
+ Análise de amostras de respiração e especificações de teste para laboratórios
+ As amostras de respiração, recolhidas nos recipientes de amostra de 10 ml de vidro ou plástico, são analizadas mediante espectrometria de massa de relação de isótopos (IRMS).
+ A análise de razão 13C/12C do dióxido de carbono na respiração é uma parte integrada do kit de diagnóstico Teste Helicobacter INFAI para crianças dos 3 aos 11 anos de idade. A exactidão do teste depende fundamentalmente da qualidade de análise da respiração. A especificação dos parâmetros do espectrómetro de massa, tais como a lineariedade, a estabilidade (precisão do gás de referência) e a precisão da medição são fundamentais para a exactidão do sistema.
+ É necessário assegurar-se de que a análise seja efectuada por laboratórios qualificados. O método validado no pedido é o seguinte:
+ • Preparação da amostra para IRMS
+ Para determinar a razão 13C/12C do dióxido de carbono existente na respiração, mediante análise de espectrometria de massa, o dióxido de carbono deverá ser separado a partir da respiração e introduzido no espectrómetro de massa. O sistema de preparação automática, no caso dos espectrómetros de massa isotópicos dedicado à análise do teste da respiração, baseia-se numa técnica cromatográfica gasosa de separação de fluxo contínuo.
+ A água elimina-se da amostra através de um dreno de água Nafion ou pelo sistema de preparação cromatográfico gasoso, que separa os gases individuais numa coluna cromatográfica gasosa com o Hélio como eluente. Passando para a coluna, as espécies separadas de gás da respiração são detectadas por meio dum detector de ionização. A fracção do gás dióxido de carbono, identificada pelo seu período característico de retenção, é introduzida no espectrómetro de massa.
+ • Análise espectrométrica de massa
+ Para analizar a amostra separada do gás dióxido de carbono, as suas moléculas deverão ser ionizadas, formadas num feixe, aceleradas por un campo eléctrico, deflectidas num campo magnético e, finalmente, detectadas. Estes cinco processos realizam-se no analizador dum espectrómetro de massa que possui três secções diferentes: a fonte, o tubo de trajectória e o colector. A ionização, a formação em feixe e a aceleração têm lugar na fonte; a deflexão magnética processa-se no tubo de trajectória e a detecção é realizada no colector.
+ • Introdução de amostras
+ Estão disponíveis muitos sistemas de introdução de amostras para a introdução do dióxido de carbono no analizador. Quanto à análise do teste de respiração, é essencial a calibragem individual do dióxido de carbono da amostra a um gás de referência padrão. Isto assegura a grande precisão deste sistema
+ 19 uma vez que o cálculo do conteúdo isotópico em dióxido de carbono se realiza em relação a um padrão independente.
+ Especificações para a determinação da relação 13C/12C •
+ O conceito do teste de respiração baseia-se na administração de uma ureia especificamente marcada 13 C-, cuja utilização metabólica é monitorizada mediante medição do 13CO2, no gás da respiração expirada.
+ O espectrómetro de massa deverá ser capaz de:
+ Análise replicada múltipla: Um mínimo de 3 análises replicadas sobre a mesma amostra durante a operação.
+ Segurança de acessos: Ajustamento:
+ Conservação dos parâmetros operacionais e dos resultados sob segurança de acessos para evitar manipulações posteriores. Razão 13C/12C, relativamente ao PDB (Pee Dee Beliminate).
+ Ciclo da amostra espécime: &lt; 200 µl.
+ Os principais testes para verificar as especificações são: lineariedade, estabilidade (precisão do gás de referência) e precisão da medição.
+ Todos os espectrómetros de massa para análise de respiração devem estar conformes às seguintes especificações: ≤ 0,5 ‰ para amostras de respiração, variando entre 1% e 7% de Lineariedade: concentração de CO2. ≤ 0,2 ‰ em 10 pulsações consecutivas. Estabilidade: ≤ 0,3 ‰ do 13C no seu conteúdo natural, utilizando um recipiente de 10 Precisão de medição: ml de amostra de respiração com uma concentração de 3% de CO2 na respiração.
+ Está-se na presença de uma infecção por Helicobacter pylori se a diferença na razão 13C/12C entre o valor basal e o valor aos 30 minutos exceder 4 ‰.
+ Também pode ser utilizado qualquer outro método adequado validado, desde que seja utilizado por um laboratório objectivamente qualificado.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Alemanha
+ 8. NÚMERO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU 1/97/045/003 9. DATA DA PRIMERA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 14. 08. 1997/14. 08.2007 20 10. DATA DA REVISÃO DO TEXTO
+ 21 ANEXO II
+ A. TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 22 A TITULAR(ES) DE AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do fabricante responsável pela libertação do lote
+ INFAI, Institut für biomedizinische Analytik &amp; NMR Imaging GmbH Universitätsstraße 142 D – 44799 Bochum AlemanhaAlemanha
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento sujeito a receita médica. • CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ Não aplicável. 23 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 24 A. ROTULAGEM
+ 25 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO PRIMÁRIO
+ ACONDICIONAMENTO PRIMÁRIO 1 BOIÃO/50 BOIÃES
+ 1. NOME DO MEDICAMENTO Helicobacter Test INFAI 75 mg pó para solução oral 13 C-ureia
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Um boião contem 75 mg de 13C-ureia 3. LISTA DOS EXCIPIENTES Nenhum 4. FORMA FARMACÊUTICA E CONTEÚDO Pó para solução oral 1 Conjunto de Teste Diagnóstico: 1 boião contendo 75 mg de 13C-Ureia em pó para solução oral 4 recipientes para amostras de ar expirado 1 palhinha dobrável Folheto Informativo Folha de dados para documentação do doente Folha de rótulos e adesivo
+ 1 Conjunto de Teste Diagnóstico: 1 boião contendo 75 mg de 13C-Ureia em pó para solução oral 2 sacos de recolha de ar para amostragem 1 palhinha dobrável Folheto Informativo Folha de dados para documentação do doente Folha de rótulos e adesivo
+ 1 Conjunto de Teste Diagnóstico: 50 boiães contendo 75 mg de 13C-Ureia em pó para solução oral 100 sacos de recolha de ar para amostragem 50 palhinha dobrável 50 Folheto Informativo 50 Folha de dados para documentação do doente 50 Folha de rótulos e adesivo
+ 26 5. MODO E VIA(S) DE ADMINISTRAÇÃO
+ Via oral Para espectrómetro de massa Para espectroscopia por infra vermelhos
+ Por Favor leia as instruções de utilização
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ Nenhum 8. PRAZO DE VALIDADE VAL. { MM/AAAA} 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Não conservar acima de 25°C. 27 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ INFAI Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstr. 142 D – 44799 Bochum Alemanha
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/97/045/001 EU 1/97/045/004 13. NÚMERO DO LOTE Lote{ número} 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Helicobacter Test INFAI 75 mg 28 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ ACONDICIONANMENTO SECUNDÁRIO, BOIÃES 1. NOME DO MEDICAMENTO Helicobacter Test INFAI 75 mg pó para solução oral 13 C-ureia
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVO(S)
+ Um boião contem 75 mg de 13C-ureia 3. LISTA DOS EXCIPIENTES Nenhum 4. FORMA FARMACÊUTICA E CONTEÚDO Pó para solução oral CLINIPAC 50 50 boiães com solução oral de 75 mg 13C ureia em pó para solução oral
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ Nenhum 8. PRAZO DE VALIDADE VAL. { MM/AAAA} 29 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Não conservar acima de 25°C. 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ INFAI Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstr. 142 D – 44799 Bochum Alemanha
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU 1/97/045/004 13. NÚMERO DO LOTE Lote{ número} 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Helicobacter Test INFAI 75 mg 30 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ ETIQUETA DO BOIÃO 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Helicobacter Test INFAI 75 mg pó para solução oral 13 C-Ureia via oral
+ 2. MODO DE ADMINISTRAÇÃO 3. PRAZO DE VALIDADE VAL. 4. NÚMERO DO LOTE Lote{ número} 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 75 mg 13C-Ureia/frasco 6. OUTRAS Teste Único Pó para solução oral. Leia as instruções de utilização Manter fora do alcance e da vista das crianças. Não conservar acima de 25°C. Medicamento sujeito a receita médica. Número(s) da autorização de introdução no mercado EU 1/97/045/001 EU 1/97/045/002
+ INFAI Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstr. 142 D – 44799 Bochum Alemanha
+ 31 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO PRIMÁRIO
+ ACONDICIONAMENTO PRIMÁRIO 1. NOME DO MEDICAMENTO Teste Helicobacter INFAI para crianças dos 3 aos 11 anos de idade,45 mg, pó para solução oral
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Um boião contem 45 mg de 13C-ureia 3. LISTA DOS EXCIPIENTES Nenhum 4. FORMA FARMACÊUTICA E CONTEÚDO Pó para solução oral 1 Conjunto de Teste Diagnóstico: 1 boião contendo 45 mg de 13C-Ureia em pó para solução oral 4 recipientes para amostras de ar expirado 1 palhinha dobrável Folheto Informativo Folha de dados para documentação do doente Folha de rótulos e adesivo
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral Leia as instruções de utilização
+ 32 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. { MM/AAAA} 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Não conservar acima de 25°C. 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ INFAI Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstr. 142 D – 44799 Bochum Alemanha
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/97/045/003 13. NÚMERO DO LOTE Lote{ número} 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 33 16. INFORMAÇÃO EM BRAILLE
+ Helicobacter Test INFAI 45 mg 34 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ ETIQUETA DA BOIÃO 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Teste Helicobacter INFAI para crianças dos 3 aos 11 anos de idade,45 mg, pó para solução oral 13 C-ureia Via oral
+ 2. MODO DE ADMINISTRAÇÃO 3. PRAZO DE VALIDADE &lt; VAL. &gt; &lt; EXP &gt;{ MM/AAAA}
+ 4. NÚMERO DO LOTE Lote{ número} 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ Um boião contem 45 mg de 13C-ureia 6. OUTRAS Teste Único Pó para solução oral Leia as instruções de utilização Manter fora do alcance e da vista das crianças. Não conservar acima de 25°C. Medicamento sujeito a receita médica. Número da Autorizção de Introdução no Mercado: EU/1/97/045/003
+ INFAI, Institut für biomedizinische Analytik und NMR Imaging GmbH Universitätsstraße 142 44799 Bochum Alemanha
+ 35 INDICAÇÕES MÍNIMAS A INCLUIR EM UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ BOIÃO PARA AMOSTRAS DE AR EXPIRADO: VIDRO OU PLASTICO
+ 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Teste Helicobacter INFAI 2. NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ INFAI, Institut für biomedizinische Analytik und NMR Imaging GmbH Universitätsstraße 142 44799 Bochum Alemanha
+ 3. PRAZO DE VALIDADE &lt; VAL. &gt; &lt; EXP &gt;{ MM/AAAA}
+ 4. NÚMERO DO LOTE Lote{ número} 5. OUTRAS Boião para amostras de ar expirado valores aos 00 minutos valores aos 30 minutos
+ Por favor colar etiqueta com código de barras
+ 36 INDICAÇÕES MÍNIMAS A INCLUIR EM
+ PAGINA DE ETIQUETAS E AUTOCOLANTE 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Teste Helicobacter INFAI 2. NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ INFAI, Institut für biomedizinische Analytik und NMR Imaging GmbH Universitätsstraße 142 44799 Bochum Alemanha
+ 3. PRAZO DE VALIDADE &lt; VAL. &gt; &lt; EXP &gt;{ MM/AAAA}
+ 4. NÚMERO DO LOTE Lote{ número} 5. OUTRAS Página de etiquetas e autocolante Código de barras para a folha informática para documentação do doente Selo autocolante Códigos de barras para valores aos 00 minutos Códigos de barras para valores aos 30 minutos
+ 37 B. FOLHETO INFORMATIVO
+ 38 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR Helicobacter Test INFAI 75 mg pó para solução oral 13 C-ureia
+ Leia atentamente este folheto antes de tomar este medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é Helicobacter Test INFAI e para que é utilizado 2. Antes de tomar Helicobacter Test INFAI 3. Como tomar Helicobacter Test INFAI 4. Efeitos secundários possíveis 5. Como conservar Helicobacter Test INFAI 6. Outras informações
+ 1. O QUE É HELICOBACTER TEST INFAI E PARA QUE É UTILIZADO
+ Helicobacter Test INFAI é apenas para uso em diagnóstico.
+ O Helicobacter Test INFAI é um teste de respiração que pode ser utilizado em adolescentes a partir dos 12 anos de idade e em adultos para determinar se têm uma infecção no estômago provocada pela bactéria Helicobacter pylori.
+ Porque tem de fazer o Helicobacter Test INFAI? Poderá ter uma infecção gástrica causada por uma bactéria chamada Helicobacter pylori. O seu médico recomendou que realizasse o Teste do Helicobacter INFAI por uma das seguintes razões:
+ O seu médico quer confirmar se sofre de infecção provocada por Helicobacter pylori para auxiliar no diagnóstico da sua condução.
+ Já lhe foi diagnosticada uma infecção por Helicobacter pylori e tem estado a ser medicado para eliminar a infecção. O seu médico pretende ver, agora, se o tratamento foi bem sucedido.
+ Como funciona o teste? Todos os alimentos contêm uma substância designada por 13C (1% 13C). Este 13C pode ser detectado no dióxido de carbono expirado dos nossos pulmões. A quantidade de 13C na respiração dependerá do tipo de alimento que ingeriu. Ser-lhe-á solicitado que ingira a “ refeição de teste ”, após o que serão recolhidas amostras da sua respiração (consulte “ Instruções especiais de utilização ”).
+ Estas amostras serão analisadas para determinar a quantidade “ normal ” de 13C no dióxido de carbono existente na sua respiração.
+ Em seguida, ser-lhe-á pedido que beba uma solução de 13C-ureia.
+ Trinta minutos mais tarde, serão recolhidas mais amostras da sua respiração e a razão de 13C nas amostras será medida como anteriormente. Os resultados serão comparados e um aumento significativo de 13C no segundo conjunto de amostras sugerirá ao seu médico que a bactéria Helicobacter pylori se encontra presente.
+ 39 2. ANTES DE TOMAR HELICOBACTER TEST INFAI
+ Informe o seu médico se sofre de algum problema médico que pense que possa afectar ou ser afectado pelo teste. É, também, importante que diga ao seu médico se alguma das seguintes circunstâncias se aplica a si:
+ Não tome Helicobacter Test INFAI Se tem ou se se suspeita que tem uma infecção gástrica ou uma gastrite atrópica (tipo especial de gastrite) pois isso pode interferir com o teste respiratório de ureia.
+ Tome especial cuidado com Helicobacter Test INFAI Mesmo que o resultado do Teste do Helicobacter INFAI seja positivo outros testes podem ser necessários antes de se poder iniciar um tratamento com o Helicobacter Pylori (terapia de erradicação). Vários testes de diagnóstico, incluindo testes invasivos de endoscopia podem ser necessários para verificar a presença de quaisquer outras complicações como, por exemplo, ulcera gástrica, infecção da mucosa gástrica causadas por reacções auto-imunes e tumores.
+ Existem dados insuficientes sobre a capacidade de diagnóstico do teste INFAI para recomendar a sua utilização em pacientes com gastrectomia.
+ Em casos isolados de gastrite-A (gastrite atrófica) o teste de respiração pode dar lugar a
+ -
+ resultados falsos positivos; podem, por isso, ser requeridas outras provas para confirmar a presença do Helicobacter pylori. Se o paciente vomitar durante a realização do teste, sendo necessária a repetição do teste, este
+ -
+ só se deve realizar no dia seguinte, em jejum.
+ Tomar Helicobacter Test INFAI com outros medicamentos O Helicobacter Test INFAI é afectado por todas as medicações relacionadas com o Helicobacter pylori ou com a actividade da urease.
+ Informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica.
+ Gravidez e aleitamento Consulte o seu médico ou farmacêutico antes de tomar qualquer medicamento. Não se espera que a realização do teste de respiração durante a gravidez e o aleitamento tenha um efeito prejudicial. Se você está a tomar um medicamento numa terapia de erradicação, é recomendável que verifique na documentação desse medicamento o que se refere aos detalhes sobre a gravidez e o aleitamento.
+ Condução de veículos e utilização de máquinas Os efeitos de Helicobacter Test INFAI sobre a capacidade de conduzir e utilizar máquinas são nulos ou desprezíveis.
+ 3. COMO TOMAR HELICOBACTER TEST INFAI
+ Tomar Helicobacter Test INFAI sempre de acordo com as indicações do médico. Fale com o seu médico ou farmacêutico se tiver dúvidas
+ O teste deve realizar-se na presença do seu médico ou de outra pessoa qualificada.
+ Posologia A informação seguinte é válida, a menos que Helicobacter Test INFAI lhe tenha sido receitado pelo seu médico de outra forma. Por favor, siga as instruções de uso pois de outra forma o Helicobacter Test INFAI pode não funcionar adequadamente.
+ 40 Quanto se deve tomar Helicobacter Test INFAI e com que frequência Os adultos e os adolscentes dos 12 aos 17 anos tomam o conteúdo de um boião para um teste.
+ Como e quando se deve tomar Helicobacter Test INFAI Você deve estar em jejum durante as 6 horas que precedem o teste, de preferência desde a noite anterior. O teste demora aproximadamente 40 minutos. O teste deve ser realizado depois de pelo menos 4 semanas sem terapia anti-bacteriana e 2 semanas depois da última administração de qualquer medicamento antisecretor. Ambos tipos de produtos podem influir nos resultados do Helicobacter Test INFAI. Isto é particularmente certo depois de uma terapêutica de erradicação de Helicobacter. É importante que siga exactamente as instruções de utilização descritas, senão o resultado poderá ser questionável.
+ Artigos essenciais não fornecidos com o Helicobacter Test INFAI Antes de ser efectuado o teste de respiração, é ingerida uma refeição de teste líquida, para retardar o esvaziamento do estômago. A refeição de teste não é fornecida com o kit. Poderá ser utilizado sumo de laranja puro (200 ml) ou uma solução de ácido cítrico (1 g em 200 ml de água) como refeição de teste. Se por algum motivo médico (ou outro) não puder tomar nenhuma destas refeições de teste, informe o seu médico, que lhe sugerirá uma alternativa. É necessário um copo de água para dissolver o pó de 13C-ureia. Se tiver de repetir o teste, só deverá fazê-lo no dia seguinte.
+ Instruções especiais de utilização para a espectrometria de massa Este produto médico deve ser utilizado por um profissional de saúde e sob supervisão médica apropriada. Cada paciente deve estar documentado de acordo com a folha de dados fornecida. Recomenda-se que realize o teste em posição de repouso.
+ 1. O paciente deve estar em jejum durante as 6 horas que precedem o teste, de preferência desde a noite anterior. Se o teste for realizado mais tarde no dia, é recomendável tomar só uma pequena refeição, de chá e torradas, por exemplo. 2. O teste inicia-se com a recolha de amostras para determinação dos valores basais. • Retire do conjunto de teste a palhinha dobrável e os tubos de amostras com o rótulo: “ Tempo de amostragem: 00-minutos-valor ”. • Retire a tampa de um dos recipentes de amostra, desembrulhe a palhinha dobrável, e introduza a palhinha no recipiente de amostra. • Respire agora com suavidade através da palhinha no recipiente de amostra • Sem nunca deixar de respirar retire a palhinha e feche de imediato o recipiente com a sua tampa. • O recipiente de amostragem deverá ser mantido em posição vertical e o rótulo com código de barras legendado de “ 00-minutos-valor ” deverá ser colado em torno do recipiente de amostragem de modo que as linhas do código barra fiquem horizontais. 3. Encha agora o segundo tubo de amostra (rótulo: “ Tempo de amostragem: 00-minutos-valor ”), com a expiração e seguindo o mesmo procedimento. 4. Beba agora os 200 ml de sumo de laranja 100% ou a solução do ácido cítrico como refeição antes do teste. 5. Segue-se agora a preparação da solução do teste: • Retirar do conjunto o boião etiquetado com “ pó de 13C-ureia ”, abrir e encher com água da torneira até três cuartos do seu volume. • Fechar o boião e agitar cuidadosamente até dissolver completamente o pó. • Despeje o conteúdo para um copo. Encha o boião uma segunda e uma terceira vezes e transfira o conteúdo para o copo até obter cerca de 30 ml de solução de teste. 6. Deve beber a solução de teste imediatamente. A hora da ingestão tem de ser anotada. 7. 30 minutos depois da ingestão da solução de teste (ponto 6) recolher amostras “ 30-minutos-valor ” para os 2 recipientes de amostragem que ficaram no conjunto de teste (rotulados: “ Tempo de amostra: 30-minutos-valor ”), como descrito nos pontos 2 a 3. Usar os rótulos com código de barras legendados “ 30-minutos-valor ” para estas amostras 8. O rótulo com o código de barras relevante tem de ser colocado na folha de dados para documentação do paciente. Os quatro recipientes com as amostras devem ser colocadas na embalagem original. Esta embalagem deve ser selada com o restante adesivo. 9. A embalagem deve ser enviada para análise num laboratório qualificado.
+ 41 Se tomar mais Helicobacter Test INFAI do que deveria Uma vez que apenas são fornecidas 75 mg de 13C-ureia, não são esperados problemas de sobredosagem.
+ 4. EFEITOS SECUNDÁRIOS POSSIVEIS Não se conhecem efeitos secundários. 5. COMO CONSERVAR HELICOBACTER TEST INFAI
+ Manter fora do alcance e da vista das crianças.
+ Não utilize Helicobacter Test INFAI após o prazo de validade impresso no rótulo e na embalagem.
+ Não conservar acima de 25°C. Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Helicobacter Test INFAI A substância activa é a 13C-ureia. Um reservatório contem 75 mg de 13C-ureia Não há qualquer outro tipo de componente.
+ Qual o aspecto de Helicobacter Test INFAI e conteúdo da embalagem Teste do Helicobacter INFAI, é uma solução oral incolor e inócua em pó. Um conjunto de teste para a espectrometria de massa contém as seguintes partes:
+ No. Componente Quantidade 1 Boião (10 ml de volume, poliestireno com tampa estriada de polietileno) contendo 75 mg de 13C-ureia em pó para solução oral
+ 1 2 Recipientes de amostragem de vidro – ou plástico – etiquetados, para amostragem, conservação e transporte das amostras de ar para análise:
+ Tempo de amostragem: 00-minutos-valor Tempo de amostragem: 30-minutos-valor
+ 2 2 3 Palhinha dobrável para recolha das amostras de ar directamente para os recipientes de amostragem correspondentes
+ 1 4 5 6 Folha de dados para documentação do doente Folheto da embalagem Folha com rótulos e adesivo
+ 1 1 1 Titular da Autorização de Introdução no Mercado e Fabricante INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstr. 142 D-44799 Bochum Alemanha
+ 42 Para quaisquer informações sobre este medicamento, queira contactar o representante local do titular da autorização de introdução no mercado.
+ België/Belgique/Belgien INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Tél/Tel: +49 234 971130 България INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Teл.: +49 234 971130 Česká republika INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Tel: +49 234 971130 Danmark BioCare Nordic ApS Langebjergvaenget 8A DK-4000 Roskilde Tlf: +45 4646 1191
+ Luxembourg/Luxemburg INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Tél/Tel: +49 234 971130 Magyarország INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Tel.: +49 234 971130 Malta INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Tel: +49 234 971130 Nederland INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Tel: +49 234 971130
+ Deutschland INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Tel: +49 234 971130 Eesti INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Tel: +49 234 971130 Ελλάδα: NEOFARAN S. A. Αχαϊας και Τροιζηνίας GR-14564 Νέα Κηφισιά Τηλ: +30 210 626 9200
+ Norge INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Tlf: +49 234 971130 Österreich INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Tel: +49 234 971130 Polska INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Tel.: +49 234 971130
+ España INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Tel: +49 234 971130
+ Portugal MEDICALAND, LDA. Av. de Roma n° 30 – 3° Dto. P-1000 – 266 Lisboa Tel.: +351 21 849 3979
+ 43 France INFAI France SARL Eurocentre Tertiaire 50, avenue d’ Alsace F-68027 Colmar Tél: +33 389 204382 Ireland TECHNOPHARM Ltd. Pharmapark, Chapelizod IRL-Dublin 20 Tel: +353 1 626 5006
+ România INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Tel: +49 234 971130 Slovenija PLIVA Ljubljana d. o. o. Pot k sejmišču 35 SI-1231 Ljubljana-Črnuče Tel: +386 1 58 90 390
+ Ísland INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Sími: +49 234 971130
+ Slovenská republika ALLMEDICAL s. r. o. Popradská 7 SK-040 01 Košice Tel: +421 57 44 50030
+ Italia INFAI Italia S. r. l. via Borgogna 2 I-20112 Milano Tel.: +39 0481 790350
+ Suomi/Finland INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Puh/Tel: +49 234 971130
+ Κύπρος INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Τηλ: +49 234 971130 Latvija INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Deutschland/Germany Tel: +49 234 971130 Lietuva INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Deutschland/Germany Tel: +49 234 971130
+ Sverige INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Tel: +49 234 971130 United Kingdom INFAI UK Ltd. York Science Park (Innovation Centre) University Road, Heslington York YO10 5DG Tel.: +44 1904 435 228
+ Este folheto foi aprovado pela última vez em{ MM/AAAA}.
+ A informação que se segue destina-se apenas aos médicos e aos profissionais de saúde
+ Análise de amostras de respiração e especificações de teste para laboratórios
+ As amostras de respiração, recolhidas nos recipientes de amostras de 10 ml de vidro ou plástico, são analizadas mediante espectrometria de massa de relação de isótopos (IRMS).
+ 44 A análise da razão 13C/12C do dióxido de carbono existente na respiração é uma parte integrada do kit de diagnóstico Helicobacter Test INFAI. A exactidão do teste depende fundamentalmente da qualidade de análise da respiração. A especificação dos parâmetros do espectrómetro de massa, tais como a linearidade, a estabilidade (precisão do gás de referência), e a precisão da medição são fundamentais para a exactidão do sistema.
+ É necessário assegurar-se de que a análise seja efectuada por laboratórios qualificados. O método validado no pedido é o seguinte:
+ • Preparação da amostra para IRMS
+ Para determinar a razão 13C/12C do dióxido de carbono existente na respiração, mediante análise de espectrometria de massa, o dióxido de carbono deverá ser separado a partir da respiração e introduzido no espectrómetro de massa. O sistema de preparação automática, no caso dos espectrómetros de massa isotópicos dedicados à análise do teste de respiração baseia-se numa técnica cromatográfica gasosa de separação de fluxo contínuo.
+ A água elimina-se do espécime através de um dreno de água Nafion ou pelo sistema de preparação por cromatográfico gasoso, que separa os gases individuais numa coluna cromatográfica gasosa com o Hélio como eluente. Passando para a coluna, as espécies separadas de gás da respiração são detectadas por meio dum detector de ionização. A fracção do gás dióxido de carbono, identificada pelo seu período característico de retenção, é introduzida no espectrómetro de massa.
+ • Análise espectrométrica de massa
+ Para analizar a amostra separada do gás dióxido de carbono, as suas moléculas deverão ser ionizadas, formadas num feixe, aceleradas por un campo eléctrico, deflectidas num campo magnético, e finalmente detectadas. Estes cinco processos realizam-se no analizador dum espectrómetro de massa, que possui três secções diferentes: a fonte, o tubo de trajectória e o colector. A ionização, a formação em feixe e a aceleração têm lugar na fonte, o desvio magnético processa-se no tubo de trajectória e a detecção é realizada no colector.
+ • Introdução da amostra
+ Estão disponíveis muitos sistemas de introdução de amostras para a introdução do dióxido de carbono no analizador. Quanto à análise do teste de respiração é essencial a calibragem individual do dióxido de carbono da amostra a um gás de referência padrão. Isto assegura a grande precisão deste sistema uma vez que o cálculo do conteúdo isotópico em dióxido de carbono se realiza em relação a um padrão independente.
+ • Especificações para a determinação da relação 13C/12C
+ O conceito do teste de respiração baseia-se na administração duma ureia especificamente marcada 13C, cuja utilização metabólica é monitorizada mediante medição do 13CO2 no gás de respiração expirada.
+ O espectrómetro de massa deverá ser capaz de:
+ A análise replicada múltipla: Um mínimo de 3 análises replicadas sobre a mesma amostra durante a operação
+ Segurança de acessos: Ajustamento:
+ Conservação dos parâmetros operacionais e dos resultados sob segurança de acessos para evitar manipulacões posteriores Razão 13C/12C relativamente ao PDB (Pee Dee Beliminate)
+ Ciclo de amostra: &lt; 200 µl
+ Os principais testes para verificar las especificações são a linearidade, a estabilidade (precisão do gás de referência), e precisão da medição.
+ Todos os espectrómetros de massa para a análise da respiração devem estar conformes às seguintes especificações:
+ 45 ≤ 0.5 ‰ para as amostras de respiração, variando entre 1% e 7% de Linearidade: concentração de CO2 ≤ 0.2 ‰ sobre 10 pulsações consecutivas Estabilidade: ≤ 0.3 ‰ do 13C no seu conteúdo natural, utilizando um recipiente de Precisão da medição: 10 ml de amostra de respiração, com uma concentração de 3% de CO2 na respiração.
+ Está-se na presença de uma infecção por Helicobacter pylori se a diferença na razão entre o valor basal e o valor aos 30 minutos exceder 4 ‰.
+ Também pode ser utilizado qualquer outro método adequado validado, desde que seja utilizado por um laboratório objectivamente qualificado.
+ 46 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ FOLHA DE DADOS PARA DODUMENTAÇÃO DA DOENTE
+ 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Teste Helicobacter INFAI 2. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ INFAI, Institut für biomedizinische Analytik und NMR Imaging GmbH Universitätsstraße 142 44799 Bochum Alemanha
+ 3. PRAZO DE VALIDADE &lt; VAL. &gt; &lt; EXP &gt;{ MM/AAAA}
+ 4. NÚMERO DO LOTE Lote{ número} 5. OUTRAS Data do teste Nome completo do paciente Data de Nascimento Código de barras Morada Médico/Hospital
+ 47 FOLHETO INFORMATIVO Helicobacter Test INFAI 75 mg pó para solução oral 13 C-ureia
+ Leia atentamente este folheto antes de tomar este medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é Helicobacter Test INFAI e para que é utilizado 2. Antes de tomar Helicobacter Test INFAI 3. Como tomar Helicobacter Test INFAI 4. Efeitos secundários possíveis 5. Como conservar Helicobacter Test INFAI 6. Outras informações
+ 1. O QUE É HELICOBACTER TEST INFAI E PARA QUE É UTILIZADO
+ Helicobacter Test INFAI é apenas para uso em diagnóstico.
+ O Helicobacter Test INFAI é um teste de respiração que pode ser utilizado em adolescentes a partir dos 12 anos de idade e em adultos para determinar se têm uma infecção no estômago provocada pela bactéria Helicobacter pylori.
+ Porque tem de fazer o Helicobacter Test INFAI? Poderá ter uma infecção gástrica causada por uma bactéria chamada Helicobacter pylori. O seu médico recomendou que realizasse o Teste do Helicobacter INFAI por uma das seguintes razões:
+ O seu médico quer confirmar se sofre de infecção provocada por Helicobacter pylori para auxiliar no diagnóstico da sua condução.
+ Já lhe foi diagnosticada uma infecção por Helicobacter pylori e tem estado a ser medicado para eliminar a infecção. O seu médico pretende ver, agora, se o tratamento foi bem sucedido.
+ Como funciona o teste? Todos os alimentos contêm uma substância designada por 13C (1% 13C). Este 13C pode ser detectado no dióxido de carbono expirado dos nossos pulmões. A quantidade de 13C na respiração dependerá do tipo de alimento que ingeriu. Ser-lhe-á solicitado que ingira a “ refeição de teste ”, após o que serão recolhidas amostras da sua respiração (consulte “ Instruções especiais de utilização ”).
+ Estas amostras serão analisadas para determinar a quantidade “ normal ” de 13C no dióxido de carbono existente na sua respiração.
+ Em seguida, ser-lhe-á pedido que beba uma solução de 13C-ureia.
+ Trinta minutos mais tarde, serão recolhidas mais amostras da sua respiração e a razão de 13C nas amostras será medida como anteriormente. Os resultados serão comparados e um aumento significativo de 13C no segundo conjunto de amostras sugerirá ao seu médico que a bactéria Helicobacter pylori se encontra presente.
+ 48 2. ANTES DE TOMAR HELICOBACTER TEST INFAI
+ Informe o seu médico se sofre de algum problema médico que pense que possa afectar ou ser afectado pelo teste. É, também, importante que diga ao seu médico se alguma das seguintes circunstâncias se aplica a si:
+ Não tome Helicobacter Test INFAI Se tem ou se se suspeita que tem uma infecção gástrica ou uma gastrite atrópica (tipo especial de gastrite) pois isso pode interferir com o teste respiratório de ureia.
+ Tome especial cuidado com Helicobacter Test INFAI: Mesmo que o resultado do Teste do Helicobacter INFAI seja positivo outros testes podem ser necessários antes de se poder iniciar um tratamento com o Helicobacter Pylori (terapia de erradicação). Vários testes de diagnóstico, incluindo testes invasivos de endoscopia podem ser necessários para verificar a presença de quaisquer outras complicações como, por exemplo, ulcera gástrica, infecção da mucosa gástrica causadas por reacções auto-imunes e tumores.
+ Existem dados insuficientes sobre a capacidade de diagnóstico do teste INFAI para recomendar a sua utilização em pacientes com gastrectomia.
+ Em casos isolados de gastrite-A (gastrite atrófica) o teste de respiração pode dar lugar a
+ -
+ resultados falsos positivos; podem, por isso, ser requeridas outras provas para confirmar a presença do Helicobacter pylori. Se o paciente vomitar durante a realização do teste, sendo necessária a repetição do teste, este
+ -
+ só se deve realizar no dia seguinte, em jejum.
+ Tomar Helicobacter Test INFAI com outros medicamentos: O Helicobacter Test INFAI é afectado por todas as medicações relacionadas com o Helicobacter pylori ou com a actividade da urease. Se tem alguma dúvida pergunte ao seu médico.
+ Lembre-se de que esta informação pode ser também aplicável a medicamentos utilizados recentemente.
+ Gravidez e aleitamento: Não se espera que a realização do teste de respiração durante a gravidez e o aleitamento tenha um efeito prejudicial. Se você está a tomar um medicamento numa terapia de erradicação, é recomendável que verifique na documentação desse medicamento o que se refere aos detalhes sobre a gravidez e o aleitamento.
+ Condução de veículos e utilização de máquinas: Os efeitos de Helicobacter Test INFAI sobre a capacidade de conduzir e utilizar máquinas são nulos ou desprezíveis.
+ 3. COMO TOMAR HELICOBACTER TEST INFAI
+ O teste deve realizar-se na presença do seu médico ou de outra pessoa qualificada.
+ Posologia A informação seguinte é válida, a menos que Helicobacter Test INFAI lhe tenha sido receitado pelo seu médico de outra forma. Por favor, siga as instruções de uso pois de outra forma o Helicobacter Test INFAI pode não funcionar adequadamente.
+ Quanto se deve tomar Helicobacter Test INFAI e com que frequência? Os adultos e os adolscentes dos 12 aos 17 anos tomam o conteúdo de um boião para um teste.
+ 49 Como e quando se deve tomar Helicobacter Test INFAI Você deve estar em jejum durante as 6 horas que precedem o teste, de preferência desde a noite anterior. O teste demora aproximadamente 40 minutos. O teste deve ser realizado depois de pelo menos 4 semanas sem terapia anti-bacteriana e 2 semanas depois da última administração de qualquer medicamento antisecretor. Ambos tipos de produtos podem influir nos resultados do Helicobacter Test INFAI. Isto é particularmente certo depois de uma terapêutica de erradicação de Helicobacter. É importante que siga exactamente as instruções de utilização descritas, senão o resultado poderá ser questionável.
+ Artigos essenciais não fornecidos com o Helicobacter Test INFAI Antes de ser efectuado o teste de respiração, é ingerida uma refeição de teste líquida, para retardar o esvaziamento do estômago. A refeição de teste não é fornecida com o kit. Poderá ser utilizado sumo de laranja puro (200 ml) ou uma solução de ácido cítrico (1 g em 200 ml de água) como refeição de teste. Se por algum motivo médico (ou outro) não puder tomar nenhuma destas refeições de teste, informe o seu médico, que lhe sugerirá uma alternativa. É necessário um copo de água para dissolver o pó de 13C-ureia. Se tiver de repetir o teste, só deverá fazê-lo no dia seguinte.
+ Instruções especiais de utilização Este produto médico deve ser utilizado por um profissional de saúde e sob supervisão médica apropriada. Cada paciente deve estar documentado de acordo com a folha de dados fornecida. Recomenda-se que realize o teste em posição de repouso.
+ 1. O paciente deve estar em jejum durante as 6 horas que precedem o teste, de preferência desde a noite anterior. Se o teste for realizado mais tarde no dia, é recomendável tomar só uma pequena refeição, de chá e torradas, por exemplo. 2. O teste inicia-se com a recolha da amostra para determinação do valor basal. • Retire do conjunto de teste a palhinha dobrável e o saco de recolha de ar com o rótulo: “ Tempo de amostragem: 00-minutos-valor ”. • Retire a tampa do saco, desembrulhe a palhinha dobrável, e introduza a palhinha no saco de recolha de ar. • Respire agora com suavidade através da palhinha no saco de recolha de ar. • Sem nunca deixar de respirar retire a palhinha e feche de imediato o saco com a sua tampa. O saco de recolha de ar deverá ser mantido em posição vertical e o rótulo com código de barras legendado de “ 00-minutos-valor ” deverá ser colado em torno do saco. 3. Beba agora os 200 ml de sumo de laranja 100% ou a solução do ácido cítrico como refeição antes do teste. 4. Segue-se agora a preparação da solução do teste: • Retirar do conjunto o boião etiquetado com “ pó de 13C-ureia ”, abrir e encher com água da torneira até três cuartos do seu volume. • Fechar o boião e agitar cuidadosamente até dissolver completamente o pó. • Despeje o conteúdo para um copo. Encha o boião uma segunda e uma terceira vezes e transfira o conteúdo para o copo até obter cerca de 30ml de solução de teste. 5. Deve beber a solução de teste imediatamente. A hora da ingestão tem de ser anotada. 6. 30 minutos depois da ingestão da solução de teste (ponto 5) recolher amostras “ 30-minutos-valor ” no saco de recolha de ar que fica no conjunto de teste (rotulado: “ Tempo de amostra: 30-minutos-valor ”), como descrito acima. Usar o rótulo com código de barras legendado “ 30-minutos-valor ” para esta amostra. 7. O rótulo com o código de barras relevante tem de ser colocado na folha de dados para documentação do paciente. Os dois sacos de recolha de ar devem ser colocados na embalagem original. Esta embalagem deve ser selada com o restante adesivo. 8. A embalagem deve ser enviada para análise num laboratório qualificado.
+ Se tomar mais Helicobacter Test INFAI do que deveria: Uma vez que apenas são fornecidas 75 mg de 13C-ureia, não são esperados problemas de sobredosagem.
+ 50 4. EFEITOS SECUNDÁRIOS POSSIVEIS
+ Não se conhecem efeitos secundários. 5. CONSERVAR HELICOBACTER TEST INFAI Manter fora do alcance e da vista das crianças.
+ Não utilize Helicobacter Test INFAI após o prazo de validade impresso no rótulo e na embalagem.
+ Não conservar acima de 25°C. Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Helicobacter Test INFAI A substância activa é a 13C-ureia. Um reservatório contem 75 mg de 13C-ureia Não há qualquer outro tipo de composto.
+ Qual o aspecto de Helicobacter Test INFAI e conteúdo da embalagem Teste do Helicobacter INFAI, é uma solução oral incolor e inócua em pó.
+ Um teste contem 1 reservatório: Componente Quantidade 1. Boião (10 ml de volume, poliestireno com tampa estriada de polietileno) contendo 75 mg de 13C-ureia em pó para solução oral
+ 1 2. Sacos de recolha de ar para amostragem, conservação e transporte das amostras de ar para análise:
+ Tempo de amostragem: 00-minutos-valor Tempo de amostragem: 30-minutos – valor
+ 1 1 3 Palhinha dobrável para recolha das amostras de ar directamente para os recipientes de amostragem correspondentes
+ 1 4 5 6 Folha de dados para documentação do doente Folheto para o paciente Rótulos com código de barras e adesivo
+ 1 1 1 Uma caixa de testes contem 50 reservatórios
+ 51
+ Componente Quantidade 1. Boião (10 ml de volume, poliestireno com tampa estriada de polietileno) contendo 75 mg de 13C-ureia em pó para solução oral
+ 50 2. Sacos de recolha de ar: Tempo de amostragem: 00-minutos-valor Tempo de amostragem: 30-minutos – valor
+ 50 50 3 Palhinha dobrável para recolha das amostras de ar directamente para os recipientes de amostragem correspondentes
+ 50 4 5 6 Folha de dados para documentação do doente Folheto para o paciente Rótulos com código de barras e adesivo
+ 50 50 50 Titular da Autorização de Introdução no Mercado e Fabricante INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstr. 142 D-44799 Bochum Alemanha
+ 52 Para quaisquer informações sobre este medicamento, queira contactar o representante local do titular da autorização de introdução no mercado.
+ België/Belgique/Belgien INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Tél/Tel: +49 234 971130 България INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Teл.: +49 234 971130 Česká republika INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Tel: +49 234 971130 Danmark BioCare Nordic ApS Langebjergvaenget 8A DK-4000 Roskilde Tlf: +45 4646 1191
+ Luxembourg/Luxemburg INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Tél/Tel: +49 234 971130 Magyarország INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Tel.: +49 234 971130 Malta INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Tel: +49 234 971130 Nederland INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Tel: +49 234 971130
+ Deutschland INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Tel: +49 234 971130 Eesti INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Tel: +49 234 971130 Ελλάδα: NEOFARAN S. A. Αχαϊας και Τροιζηνίας GR-14564 Νέα Κηφισιά Τηλ: +30 210 626 9200
+ Norge INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Tlf: +49 234 971130 Österreich INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Tel: +49 234 971130 Polska INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Tel.: +49 234 971130
+ España INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Tel: +49 234 971130
+ Portugal MEDICALAND, LDA. Av. de Roma n° 30 – 3° Dto. P-1000 – 266 Lisboa Tel.: +351 21 849 3979
+ 53 France INFAI France SARL Eurocentre Tertiaire 50, avenue d’ Alsace F-68027 Colmar Tél: +33 389 204382 Ireland TECHNOPHARM Ltd. Pharmapark, Chapelizod IRL-Dublin 20 Tel: +353 1 626 5006
+ România INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Tel: +49 234 971130 Slovenija PLIVA Ljubljana d. o. o. Pot k sejmišču 35 SI-1231 Ljubljana-Črnuče Tel: +386 1 58 90 390
+ Ísland INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Sími: +49 234 971130
+ Slovenská republika ALLMEDICAL s. r. o. Popradská 7 SK-040 01 Košice Tel: +421 57 44 50030
+ Italia INFAI Italia S. r. l. via Borgogna 2 I-20112 Milano Tel.: +39 0481 790350
+ Suomi/Finland INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Puh/Tel: +49 234 971130
+ Κύπρος INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Τηλ: +49 234 971130 Latvija INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Deutschland/Germany Tel: +49 234 971130 Lietuva INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Deutschland/Germany Tel: +49 234 971130
+ Sverige INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Tel: +49 234 971130 United Kingdom INFAI UK Ltd. York Science Park (Innovation Centre) University Road, Heslington York YO10 5DG Tel.: +44 1904 435 228
+ Este folheto foi aprovado pela última vez em: 04. 03.2004
+ A informação que se segue destina-se apenas aos médicos e aos profissionais de saúde
+ Análise de amostras de respiração e especificações de teste para laboratórios
+ As amostras de respiração, colhidas em sacos de recolha de ar de 100 ml, são analizadas mediante espectrometria de infravermelhos não dispersiva (NDIR).
+ 54 A análise da razão 13C/12C do dióxido de carbono existente na respiração é uma parte integrada do kit de diagnóstico Helicobacter Test INFAI. A exactidão do teste depende fundamentalmente da qualidade de análise da respiração. A especificação dos parâmetros da análise da respiração, tais como a linearidade, a estabilidade (precisão do gás de referência), e a precisão da medição são fundamentais para a exactidão do sistema.
+ É necessário assegurar-se de que a análise seja efectuada por laboratórios qualificados. Após colheita da amostra, recomenda-se que a medição seja efectuada o mais breve possivel, em caso algum demorar mais de 4 semanas.
+ O método validado no pedido é o seguinte:
+ • Preparação da amostra para a espectrométrica por infravermelhos
+ A determinação da razão 13C/12C no dióxido de carbono existente nas amostras de respiração é efectuada directamente na respiração. O ar expirado recolhido nos sacos é introduzido no espectrómetro de NDIR mediante uma bomba de gás variável. O teor de água da amostra de respiração manter-se-á praticamente sempre constante graças ao separador de água Nafion. Para efeitos de calibragem e medição, o ar isento de CO2 necessário (gás zero) será produzido através de um absorvente de CO2 integrado no analisador.
+ • Análise espectrométrica por infravermelhos
+ Para analisar o dióxido de carbono na respiração, um feixe de radiações infravermelhas de banda larga, emitido por uma fonte de radiação infravermelha, é enviado alternadamente através da câmara de medição e de uma câmara de referência mediante um interruptor de raios. Os raios infravermelhos modulados entram, então, nos detectores de infravermelhos, que são detectores de transmissão de camada dupla com uma câmara frontal e uma posterior, cada uma contendo um dos gases isotopicamente puros (13CO2 ou 12CO2, respectivamente) a medir. A radiação infravermelha na câmara de medição é enfraquecida pelo componente do gás a medir. Assim, o equilíbrio da radiação entre o raio de medição e o comparativo é perturbado. Consequentemente, ocorre uma flutuação de temperatura que, por seu turno, provoca uma flutuação na pressão da câmara frontal do detector de infravermelhos. Um condensador de membrana ligado a esta câmara, exposto a uma tensão directa de alta resistência, transforma estas flutuações de pressão numa tensão alterna, que constitui a medida da composição isotópica do dióxido de carbono na respiração.
+ • Introdução da amostra
+ Um sistema de introdução de amostras semi-automático injecta o gás de medição em quantidades definidas no gás zero que circula no circuito de gás do espectrómetro de infravermelhos. Isto permite medir a razão 13C/12C em qualquer concentração superior a 1%.
+ • Especificações para a determinação da relação 13C/12C
+ O conceito do teste de respiração baseia-se na administração oral de uma ureia marcada 13C, cuja hidrólise enzimática é monitorizada mediante medição do 13CO2 na respiração utilizando a espectrometria de infravermelhos não dispersiva.
+ Os espectrómetros de infravermelhos para análise da respiração têm de cumprir as seguintes especificações:
+ A análise replicada múltipla: Um mínimo de três análises replicadas de uma mesma amostra durante a operação Segurança de acessos:
+ Conservação dos parâmetros operacionais sob segurança de acessos para evitar manipulações posteriores
+ 55 Para verificar as especificações, a linearidade, a estabilidade e a precisão de medição têm de ser testadas.
+ Ajustamento do ponto zero dos detectores através do gás zero gerado no espectrómetro. Ajustamento do ponto zero dos detectores através de gases de calibragem em concentrações bem definidas. ≤ 0.5 ‰ para amostras de respiração variando entre 1% e 7% de Linearidade: concentração de CO2 ≤ 0.3 ‰ em 10 pulsações consecutivas Estabilidade: ≤ 0.5 ‰ do 13C no seu conteúdo natural, utilizando um saco de recolha Precisão de medição: de ar expirado de 100ml com uma concentração de 3% de CO2 na respiração
+ Está-se na presença de uma infecção por Helicobacter pylori se a diferença na razão entre o valor basal e o valor aos 30 minutos exceder 4 ‰.
+ Também pode ser utilizado qualquer outro método adequado validado, desde que seja utilizado por um laboratório objectivamente qualificado.
+ 56 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ FOLHA DE DADOS PARA DODUMENTAÇÃO DA DOENTE
+ 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Teste Helicobacter INFAI 2. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ INFAI, Institut für biomedizinische Analytik und NMR Imaging GmbH Universitätsstraße 142 44799 Bochum Alemanha
+ 3. PRAZO DE VALIDADE &lt; VAL. &gt; &lt; EXP &gt;{ MM/AAAA}
+ 4. NÚMERO DO LOTE Lote{ número} 5. OUTRAS Data do teste Nome completo do paciente Data de Nascimento Código de barras Morada Médico/Hospital
+ 57 FOLHETO INFORMATIVO Teste Helicobacter INFAI para crianças dos 3 aos 11 anos de idade,45 mg, pó para solução oral 13 C-ureia
+ Leia atentamente este folheto antes de tomar este medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é Helicobacter Test INFAI para crianças dos 3 aos 11 anos de idade e para que é utilizado 2. Antes de tomar Helicobacter Test INFAI para crianças dos 3 aos 11 anos de idade 3. Como tomar Helicobacter Test INFAI para crianças dos 3 aos 11 anos de idade 4. Efeitos secundários possíveis 5. Como conservar Helicobacter Test INFAI para crianças dos 3 aos 11 anos de idade 6. Outras informações
+ 1. O QUE É TESTE HELICOBACTER INFAI PARA CRIANÇAS DOS 3 AOS 11 ANOS DE IDADE E PARA QUE É UTILIZADO
+ Teste Helicobacter INFAI para crianças dos 3 aos 11 anos de idade é apenas para uso em diagnóstico.
+ O Teste Helicobacter INFAI para crianças dos 3 aos 11 anos de idade pode ser utilizado para determinar se há uma infecção no estômago ou duodeno causado pela bactéria Helicobacter pylori.
+ O vosso médico usará o teste -Para acompanhar os resultados do tratamento;
+ -Ou quanto testes invasivos não podem ser realizados ou se obtenham resultados
+ contraditórios.
+ Porque tem de fazer o Helicobacter Test INFAI? Poderá ter uma infecção gástrica causada por uma bactéria chamada Helicobacter pylori O seu médico recomendou que realizasse o Teste do Helicobacter INFAI por uma das seguintes razões:
+ O seu médico quer confirmar se sofre de infecção provocada por Helicobacter pylori para auxiliar no diagnóstico da sua condição.
+ Já lhe foi diagnosticada uma infecção por Helicobacter pylori e tem estado a ser medicado para eliminar a infecção. O seu médico pretende ver, agora, se o tratamento foi bem sucedido.
+ Como funciona o teste? Todos os alimentos contêm uma substância designada por 13C (1% 13C). Este 13C pode ser detectado no dióxido de carbono expirado dos nossos pulmões. A quantidade de 13C na respiração dependerá do tipo de alimento que ingeriu. Ser-lhe-á solicitado que ingira a “ refeição de teste ”, após o que serão recolhidas amostras da sua respiração (consulte “ Instruções especiais de utilização ”).
+ Estas amostras serão analisadas para determinar a quantidade “ normal ” de 13C no dióxido de carbono existente na sua respiração.
+ Em seguida, ser-lhe-á pedido que beba uma solução de 13C-ureia.
+ Trinta minutos mais tarde, serão recolhidas mais amostras da sua respiração e a razão de 13C nas amostras será medida como anteriormente. Os resultados serão comparados e um aumento
+ 58 significativo de 13C no segundo conjunto de amostras sugerirá ao seu médico que a bactéria Helicobacter pylori se encontra presente.
+ 2. ANTES DE TOMAR TESTE HELICOBACTER INFAI PARA CRIANÇAS DOS 3 AOS 11 ANOS DE IDADE
+ Informe o seu médico se sofre de algum problema médico que pense que possa afectar ou ser afectado pelo teste. É, também, importante que diga ao seu médico se alguma das seguintes circunstâncias se aplica a si:
+ Não tome Teste Helicobacter INFAI para crianças dos 3 aos 11 anos de idade: Se tem ou se se suspeita que tem uma infecção gástrica ou uma gastrite atrópica (tipo especial de gastrite) pois isso pode interferir com o teste respiratório de ureia.
+ Tome especial cuidado com TESTE HELICOBACTER INFAI PARA CRIANÇAS DOS 3 AOS 11 ANOS DE IDADE: Mesmo que o resultado do Teste do Helicobacter INFAI seja positivo outros testes podem ser necessários antes de se poder iniciar um tratamento com o Helicobacter Pylori (terapia de erradicação). Vários testes de diagnóstico, incluindo testes invasivos de endoscopia podem ser necessários para verificar a presença de quaisquer outras complicações como, por exemplo, ulcera gástrica, infecção da mucosa gástrica causadas por reacções auto-imunes e tumores.
+ Existem dados insuficientes sobre a capacidade de diagnóstico do teste INFAI para recomendar a sua utilização em pacientes com gastrectomia.
+ Em casos isolados de gastrite-A (gastrite atrófica) o teste de respiração pode dar lugar a
+ -
+ resultados falsos positivos; podem, por isso, ser requeridas outras provas para confirmar a presença do Helicobacter pylori. Se o paciente vomitar durante a realização do teste, sendo necessária a repetição do teste, este
+ -
+ só se deve realizar no dia seguinte, em jejum.
+ Tomar Teste Helicobacter INFAI para crianças dos 3 aos 11 anos de idade com outros medicamentos: O Teste Helicobacter INFAI para crianças dos 3 aos 11 anos de idade é afectado por todas as medicações relacionadas com o Helicobacter pylori ou com a actividade da urease. Se tem alguma dúvida pergunte ao seu médico.
+ Lembre-se de que esta informação pode ser também aplicável a medicamentos utilizados recentemente.
+ Gravidez e aleitamento: Não aplicável. Condução de veículos e utilização de máquinas: Não aplicável.
+ 3. COMO TOMAR TESTE HELICOBACTER INFAI PARA CRIANÇAS DOS 3 AOS 11 ANOS DE IDADE
+ O teste deve realizar-se na presença do seu médico ou de outra pessoa qualificada.
+ Posologia A informação seguinte é válida, a menos que Teste Helicobacter INFAI para crianças dos 3 aos 11 anos de idade lhe tenha sido receitado pelo seu médico de outra forma. Por favor, siga as instruções de
+ 59 uso pois de outra forma o Teste Helicobacter INFAI para crianças dos 3 aos 11 anos de idade pode não funcionar adequadamente.
+ Quanto se deve tomar Teste Helicobacter INFAI para crianças dos 3 aos 11 anos de idade e com que frequência? Os pacientes dos 3 aos 11 anos tomam o conteúdo de um boião para um teste.
+ Como e quando se deve tomar Teste Helicobacter INFAI para crianças dos 3 aos 11 anos de idade Você deve estar em jejum durante as 6 horas que precedem o teste, de preferência desde a noite anterior. O teste demora aproximadamente 40 minutos. O teste deve ser realizado depois de pelo menos 4 semanas sem terapia anti-bacteriana e 2 semanas depois da última administração de qualquer medicamento antisecretor. Ambos tipos de produtos podem influir nos resultados do Teste Helicobacter INFAI para crianças dos 3 aos 11 anos de idade. Isto é particularmente certo depois de uma terapêutica de erradicação de Helicobacter. É importante que siga exactamente as instruções de utilização descritas, senão o resultado poderá ser questionável.
+ Artigos essenciais não fornecidos com o Teste Helicobacter INFAI para crianças dos 3 aos 11 anos de idade Antes de ser efectuado o teste de respiração, é ingerida uma refeição de teste líquida, para retardar o esvaziamento do estômago. A refeição de teste não é fornecida com o kit. Utilizar-se-á sumo de laranja puro (100 ml) como refeição de teste. Se por algum motivo médico (ou outro) não puder tomar esta refeição de teste, informe o seu médico, que lhe sugerirá uma alternativa. É necessário um copo de água para dissolver o pó de 13C-ureia. Se tiver de repetir o teste, só deverá fazê-lo no dia seguinte.
+ Instruções especiais de utilização Cada paciente deve estar documentado de acordo com a folha de dados fornecida. Recomenda-se que realize o teste em posição de repouso.
+ 1. O paciente deve estar em jejum durante as 6 horas que precedem o teste, de preferência desde a noite anterior. Se o teste for realizado mais tarde no dia, é recomendável tomar só uma pequena refeição, de chá e torradas, por exemplo. 2. O teste inicia-se com a recolha de amostras para determinação dos valores basais.
+ •
+ Retire do conjunto de teste a palhinha dobrável e os tubos de amostras com o rótulo: “ Tempo de amostragem: 00-minutos-valor ”.
+ •
+ Retire a tampa de um dos recipentes de amostra, desembrulhe a palhinha dobrável, e introduza a palhinha no recipiente de amostra.
+ • •
+ Respire agora com suavidade através da palhinha no recipiente de amostra Sem nunca deixar de respirar retire a palhinha e feche de imediato o recipiente com a sua tampa.
+ •
+ O recipiente de amostragem deverá ser mantido em posição vertical e o rótulo com código de barras legendado de “ 00-minutos-valor ” deverá ser colado em torno do recipiente de amostragem de modo que as linhas do código barra fiquem horizontais.
+ 3. Encha agora o segundo tubo de amostra (rótulo: “ Tempo de amostragem: 00-minutos-valor ”), com a expiração e seguindo o mesmo procedimento. 4. Beba agora os 100 ml de sumo de laranja 100% como refeição antes do teste. 5. Segue-se agora a preparação da solução do teste:
+ •
+ Retirar do conjunto o boião etiquetado com “ pó de 13C-ureia ”, abrir e encher com água da torneira até três cuartos do seu volume.
+ • •
+ Fechar o boião e agitar cuidadosamente até dissolver completamente o pó. Despeje o conteúdo para um copo. Encha o boião uma segunda e uma terceira vezes e transfira o conteúdo para o copo até obter cerca de 30 ml de solução de teste.
+ 6. Deve beber a solução de teste imediatamente. A hora da ingestão tem de ser anotada. 7. 30 minutos depois da ingestão da solução de teste (ponto 6) recolher amostras “ 30-minutos-valor ” para os 2 recipientes de amostragem que ficaram no conjunto de teste (rotulados: “ Tempo de amostra: 30-minutos-valor ”), como descrito nos pontos 2 a 3. Usar os rótulos com código de barras legendados “ 30-minutos-valor ” para estas amostras 60 8. O rótulo com o código de barras relevante tem de ser colocado na folha de dados para documentação do paciente. Os quatro recipientes com as amostras devem ser colocadas na embalagem original. Esta embalagem deve ser selada com o restante adesivo. 9. A embalagem deve ser enviada para análise num laboratório qualificado.
+ Se tomar mais Teste Helicobacter INFAI para crianças dos 3 aos 11 anos de idade do que deveria: Uma vez que apenas são fornecidas 45 mg de 13C-ureia, não são esperados problemas de sobredosagem.
+ 4. EFEITOS SECUNDÁRIOS POSSIVEIS Não se conhecem efeitos secundários. 5. CONSERVAR HELICOBACTER INFAI PARA CRIANÇAS DOS 3 AOS 11 ANOS DE IDADE
+ Manter fora do alcance e da vista das crianças.
+ Não utilize Helicobacter Test INFAI após o prazo de validade impresso no rótulo e na embalagem.
+ Não conservar acima de 25°C. Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 6. OUTRAS INFORMAÇÕES A substância activa é a 13C-ureia. Um reservatório contem 45 mg de 13C-ureia Não há qualquer outro tipo de composto.
+ O conjunto do teste contém: No. 1 Componente Boião (10 ml de volume, poliestireno com tampa estriada de polietileno) contendo 45 mg de 13C-ureia em pó para solução oral
+ Quantidade 1 2 Recipientes de amostragem de vidro – ou plástico – etiquetados, para amostragem, conservação e transporte das amostras de ar para análise:
+ Tempo de amostragem: 00-minutos-valor Tempo de amostragem: 30-minutos-valor
+ 2 2 3 Palhinha dobrável para recolha das amostras de ar directamente para os recipientes de amostragem correspondentes
+ 1 4 5 6 Folha de dados para documentação do doente Folheto da embalagem Folha com rótulos e adesivo
+ 1 1 1 61 Titular da Autorização de Introdução no Mercado e Fabricante INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstr. 142 D-44799 Bochum Alemanha
+ 62 Para quaisquer informações sobre este medicamento, queira contactar o representante local do titular da autorização de introdução no mercado.
+ België/Belgique/Belgien INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Tél/Tel: +49 234 971130 България INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Teл.: +49 234 971130 Česká republika INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Tel: +49 234 971130 Danmark BioCare Nordic ApS Langebjergvaenget 8A DK-4000 Roskilde Tlf: +45 4646 1191
+ Luxembourg/Luxemburg INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Tél/Tel: +49 234 971130 Magyarország INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Tel.: +49 234 971130 Malta INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Tel: +49 234 971130 Nederland INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Tel: +49 234 971130
+ Deutschland INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Tel: +49 234 971130 Eesti INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Tel: +49 234 971130 Ελλάδα: NEOFARAN S. A. Αχαϊας και Τροιζηνίας GR-14564 Νέα Κηφισιά Τηλ: +30 210 626 9200
+ Norge INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Tlf: +49 234 971130 Österreich INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Tel: +49 234 971130 Polska INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Tel.: +49 234 971130
+ España INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Tel: +49 234 971130
+ Portugal MEDICALAND, LDA. Av. de Roma n° 30 – 3° Dto. P-1000 – 266 Lisboa Tel.: +351 21 849 3979
+ 63 France INFAI France SARL Eurocentre Tertiaire 50, avenue d’ Alsace F-68027 Colmar Tél: +33 389 204382 Ireland TECHNOPHARM Ltd. Pharmapark, Chapelizod IRL-Dublin 20 Tel: +353 1 626 5006
+ România INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Tel: +49 234 971130 Slovenija PLIVA Ljubljana d. o. o. Pot k sejmišču 35 SI-1231 Ljubljana-Črnuče Tel: +386 1 58 90 390
+ Ísland INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Sími: +49 234 971130
+ Slovenská republika ALLMEDICAL s. r. o. Popradská 7 SK-040 01 Košice Tel: +421 57 44 50030
+ Italia INFAI Italia S. r. l. via Borgogna 2 I-20112 Milano Tel.: +39 0481 790350
+ Suomi/Finland INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Puh/Tel: +49 234 971130
+ Κύπρος INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Τηλ: +49 234 971130 Latvija INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Deutschland/Germany Tel: +49 234 971130 Lietuva INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Deutschland/Germany Tel: +49 234 971130
+ Sverige INFAI, Institut für biomedizinische Analytik und NMR-Imaging GmbH Universitätsstraße 142 D-44799 Bochum Tel: +49 234 971130 United Kingdom INFAI UK Ltd. York Science Park (Innovation Centre) University Road, Heslington York YO10 5DG Tel.: +44 1904 435 228
+ Este folheto foi aprovado pela última vez em 04. 03.2004
+ A informação que se segue destina-se apenas aos médicos e aos profissionais de saúde:
+ Análise de amostras de respiração e especificações de teste para laboratórios
+ As amostras de respiração, recolhidas nos recipientes de amostras de 10 ml de vidro ou plástico, são analizadas mediante espectrometria de massa de relação de isótopos (IRMS).
+ 64 A análise da razão 13C/12C do dióxido de carbono existente na respiração é uma parte integrada do kit de diagnóstico Helicobacter Test INFAI. A exactidão do teste depende fundamentalmente da qualidade de análise da respiração. A especificação dos parâmetros do espectrómetro de massa, tais como a linearidade, a estabilidade (precisão do gás de referência), e a precisão da medição são fundamentais para a exactidão do sistema.
+ É necessário assegurar-se de que a análise seja efectuada por laboratórios qualificados. O método validado no pedido é o seguinte:
+ • Preparação da amostra para IRMS
+ Para determinar a razão 13C/12C do dióxido de carbono existente na respiração, mediante análise de espectrometria de massa, o dióxido de carbono deverá ser separado a partir da respiração e introduzido no espectrómetro de massa. O sistema de preparação automática, no caso dos espectrómetros de massa isotópicos dedicados à análise do teste de respiração baseia-se numa técnica cromatográfica gasosa de separação de fluxo contínuo.
+ A água elimina-se do espécime através de um dreno de água Nafion ou pelo sistema de preparação por cromatográfico gasoso, que separa os gases individuais numa coluna cromatográfica gasosa com o Hélio como eluente. Passando para a coluna, as espécies separadas de gás da respiração são detectadas por meio dum detector de ionização. A fracção do gás dióxido de carbono, identificada pelo seu período característico de retenção, é introduzida no espectrómetro de massa.
+ • Análise espectrométrica de massa
+ Para analizar a amostra separada do gás dióxido de carbono, as suas moléculas deverão ser ionizadas, formadas num feixe, aceleradas por un campo eléctrico, deflectidas num campo magnético, e finalmente detectadas. Estes cinco processos realizam-se no analizador dum espectrómetro de massa, que possui três secções diferentes: a fonte, o tubo de trajectória e o colector. A ionização, a formação em feixe e a aceleração têm lugar na fonte, o desvio magnético processa-se no tubo de trajectória e a detecção é realizada no colector.
+ • Introdução da amostra
+ Estão disponíveis muitos sistemas de introdução de amostras para a introdução do dióxido de carbono no analizador. Quanto à análise do teste de respiração é essencial a calibragem individual do dióxido de carbono da amostra a um gás de referência padrão. Isto assegura a grande precisão deste sistema uma vez que o cálculo do conteúdo isotópico em dióxido de carbono se realiza em relação a um padrão independente.
+ • Especificações para a determinação da relação 13C/12C
+ O conceito do teste de respiração baseia-se na administração duma ureia especificamente marcada 13C, cuja utilização metabólica é monitorizada mediante medição do 13CO2 no gás de respiração expirada.
+ O espectrómetro de massa deverá ser capaz de:
+ A análise replicada múltipla: Um mínimo de 3 análises replicadas sobre a mesma amostra durante a operação
+ Segurança de acessos: Ajustamento:
+ Conservação dos parâmetros operacionais e dos resultados sob segurança de acessos para evitar manipulacões posteriores Razão 13C/12C relativamente ao PDB (Pee Dee Beliminate)
+ Ciclo de amostra: &lt; 200 µl
+ Os principais testes para verificar las especificações são a linearidade, a estabilidade (precisão do gás de referência), e precisão da medição.
+ Todos os espectrómetros de massa para a análise da respiração devem estar conformes às seguintes especificações:
+ 65 ≤ 0.5 ‰ para as amostras de respiração, variando entre 1% e 7% de Linearidade: concentração de CO2 ≤ 0.2 ‰ sobre 10 pulsações consecutivas Estabilidade: ≤ 0.3 ‰ do 13C no seu conteúdo natural, utilizando um recipiente de Precisão da medição: 10 ml de amostra de respiração, com uma concentração de 3% de CO2 na respiração.
+ Está-se na presença de uma infecção por Helicobacter pylori se a diferença na razão entre o valor basal e o valor aos 30 minutos exceder 4 ‰.
+ Também pode ser utilizado qualquer outro método adequado validado, desde que seja utilizado por um laboratório objectivamente qualificado.
+ 66 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ FOLHA DE DADOS PARA DODUMENTAÇÃO DA DOENTE
+ 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Teste Helicobacter INFAI 2. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ INFAI, Institut für biomedizinische Analytik und NMR Imaging GmbH Universitätsstraße 142 44799 Bochum Alemanha
+ 3. PRAZO DE VALIDADE &lt; VAL. &gt; &lt; EXP &gt;{ MM/AAAA}
+ 4. NÚMERO DO LOTE Lote{ número} 5. OUTRAS Data do teste Nome completo do paciente Data de Nascimento Código de barras Morada Médico/Hospital
+ 67

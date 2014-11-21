@@ -1,0 +1,406 @@
+ o ad riz to au ANEXO I ão RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO án j to n me a dic Me
+ 1 1. DENOMINAÇÃO DO MEDICAMENTO
+ Zenapax 5 mg/ml concentrado para solução para perfusão
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Daclizumab* ………… 5 mg por 1 ml de perfusão Um frasco para injectáveis de 5 ml contém 25 mg de daclizumab* (5 mg/ml).
+ o* Anticorpo anti-Tac IgG1 humanizado, recombinante, produzido a partir de uma linhagem de células
+ ad de mieloma murino NSO utilizando um sistema de expressão (NS_ GSO) de glutamina sintetase (GS) por tecnologia de ADN recombinante.
+ riz Excipientes: Lista completa de excipientes, ver secção 6.1.
+ to 3. FORMA FARMACÊUTICA
+ au Concentrado para solução para perfusão.
+ Liquido transparente a ligeiramente opalescente, incolor a ligeiramente amarelado. ão 4. INFORMAÇÕES CLÍNICAS án
+ 4.1 Indicações terapêuticas Zenapax está indicado na profilaxia da rejeição aguda do órgão, em doentes submetidos a transplante j
+ renal de novo. Zenapax é utilizado concomitantemente com um regime imunossupressor que inclui to
+ ciclosporina e corticosteróides em doentes que não se encontrem hiperimunizados.
+ 4.2 Posologia e modo de administração n me
+ Zenapax deverá ser prescrito apenas por médicos com experiência de utilização de terapêuticas imunossupressoras após transplante de órgãos.
+ A dose recomendada de Zenapax nos doentes adultos e pediátricos é de 1 mg/kg. O volume de a
+ Zenapax que contém a dose apropriada, é adicionado a 50 ml de solução salina a 0,9% estéril, sendo administrado por via intravenosa durante um período de 15 minutos. A administração pode ser feita dic
+ numa veia periférica ou numa veia central.
+ A 1ª dose de Zenapax deve ser administrada nas 24 horas que antecedem o transplante. A dose Me
+ seguinte, e cada uma das doses subsequentes, deve ser administrada com intervalos de catorze dias, num total de cinco doses.
+ Idosos A experiência de administração de Zenapax em doentes idosos (com idade superior a 65 anos) é limitada, devido ao número reduzido de doentes idosos submetidos a transplante renal. No entanto, não existem indícios de que os doentes idosos necessitem uma posologia diferente da dos doentes mais jovens.
+ Doentes com insuficiência renal grave 2 Não é necessário ajuste da dose em doentes com insuficiência renal grave.
+ Doentes com insuficiência hepática grave Não existem dados disponíveis relativamente à utilização em doentes com insuficiência hepática grave.
+ As instruções para a preparação da perfusão de Zenapax encontram-se descritas na secção 6.6.
+ 4.3 Contra-indicações o Zenapax está contra-indicado em doentes com hipersensibilidade conhecida ao daclizumab ou a
+ ad qualquer um dos excipientes deste medicamento (ver secção 6.1).
+ Zenapax está contra-indicado durante o aleitamento (ver secção 4.6).
+ riz 4.4 Advertências e precauções especiais de utilização
+ to Não existe experiência da utilização de Zenapax em doentes hiperimunizados.
+ au Podem ocorrer reacções anafilácticas após a administração de proteínas. Raramente, foram reportadas reacções de hipersensibilidade graves e agudas (inicio em 24 horas) quer após a primeira utilização, quer nas utilizações subsequentes de Zenapax. As manifestações clínicas destas reacções incluem hipotensão, taquicardia, hipoxia, dispneia, sibilos, edema laríngeo, edema pulmonar, rubor, diaforese, ão aumento de temperatura, rash e prurido. Os medicamentos destinados ao tratamento de reacções graves de hipersensibilidade devem estar disponíveis para utilização imediata. án
+ Os doentes a fazerem terapêutica imunossupressora após o transplante, apresentam um risco aumentado de desenvolver doenças linfoproliferativas (DLP) e infecções oportunistas. Apesar de Zenapax ser um fármaco imunossupressor, até à data, não se observou aumento da incidência de DLP nem de infecções oportunistas em doentes tratados com Zenapax. j to
+ Não existe experiência de exposição de indivíduos transplantados a um segundo tratamento ou a ciclos subsequentes de tratamento com Zenapax. n
+ Num ensaio clínico controlado e com distribuição aleatória, realizado em indivíduos submetidos a me
+ transplante cardíaco, que comparou Zenapax com placebo, cada um deles em associação com micofenolato mofetil (CellCept 1,5 g administrado duas vezes por dia), ciclosporina e corticosteróides, verificou-se um maior número de mortes associadas a infecção entre os doentes tratados com Zenapax. Um ano após o transplante,14 de 216 doentes (6,5%) tratados com Zenapax e 4 de 207 (1,9%) a
+ doentes tratados com placebo morreram devido a infecção, uma diferença de 4,6% (IC 95%: 0,3%, 8,8%). Destes 14 doentes tratados com Zenapax,4 morreram mais de 90 dias depois de terem recebido dic
+ a última dose de Zenapax, tornando improvável que este tenha tido influência na morte associada a infecção. Globalmente, a utilização de terapêutica com anticorpos policlonais anti-linfocitários (OKT3, ATG, ATGAM) foi idêntica nos doentes tratados com Zenapax e nos doentes tratados com Me
+ placebo, 18,5% e 17,9% respectivamente. No entanto, dos 40 doentes tratados com Zenapax e terapêutica anti-linfocitária,8 (20,0%) morreram, tendo ocorrido duas mortes (5,4%) entre os 37 doentes tratados com placebo e com terapêutica anti-linfocitária. A administração concomitante de Zenapax e outra terapêutica com anticorpos anti-linfocitários, no contexto de uma imunosupressão intensiva com ciclosporina, micofenolato mofetil e corticosteróides pode ser um factor desencadeante de infecção fatal.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Uma vez que Zenapax é uma imunoglobulina, não são esperadas interacções metabólicas do tipo fármaco-fármaco.
+ 3 Em ensaios clínicos, foram administrados com Zenapax, sem que tenha ocorrido interacção, os seguintes fármacos utilizados na terapêutica do transplante: ciclosporina, micofenolato mofetil, ganciclovir, aciclovir, tacrolimus, azatioprina, imunoglobulina antitimócito, muromonab-CD3 (OKT3) e corticosteróides.
+ 4.6 Gravidez e aleitamento Gravidez Não existem dados suficientes sobre a utilização de daclizumab em mulheres grávidas. Um estudo no macaco cynomolgus não revelou a existência de efeitos teratogénicos mas revelou um aumento da perda pré-natal precoce que se mantém dentro da taxa de aborto espontâneo histórica (ver secção 5.3).
+ o Desconhece-se a relevância clínica destes resultados.
+ ad Zenapax não deve ser utilizado durante a gravidez, a menos que tal seja claramente necessário.
+ riz As mulheres que possam vir a engravidar devem utilizar um método contraceptivo eficaz durante o tratamento com Zenapax e continuar a utilização do mesmo durante um período adicional de 4 meses após a última administração de Zenapax.
+ to Aleitamento
+ au O daclizumab é excretado no leite do macaco cynomolgus (ver secção 5.3). Desconhece-se se o Zenapax é excretado no leite humano. No entanto, devido ao potencial efeito nefasto no recém-nascido, o aleitamento está contra-indicado durante o tratamento e até 4 meses depois da administração da última dose de Zenapax. ão 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas án
+ Os efeitos de Zenapax sobre a capacidade de conduzir e utilizar máquinas são nulos.
+ 4.8 Efeitos indesejáveis j
+ Estudou-se o perfil de segurança de Zenapax, em comparação com placebo, em doentes a receber to
+ concomitantemente esquemas terapêuticos imunossupressores contendo ciclosporina e corticosteróides apenas, em associação com azatioprina ou em associação com micofenolato mofetil. Os dados dos quatro estudos (O14392, O14393, O14874 e O15301) mostraram que a incidência e o tipo de n
+ acontecimentos adversos foram semelhantes nos doentes tratados com placebo e nos doentes tratados me
+ com Zenapax. Foram relatados efeitos adversos em 95% dos doentes tratados com placebo e em 96% dos doentes tratados com daclizumab. Foram relatados acontecimentos adversos graves em 44,4% dos doentes do grupo tratado com placebo e em 39,9% dos doentes do grupo tratado com Zenapax. a
+ Encontram-se apresentados a seguir, os acontecimentos adversos que ocorreram com uma frequência ≥2% nos doentes em qualquer dos grupos, durante os primeiros 3 meses pós-transplante. dic
+ Dentro de cada classe de sistema de órgãos, os efeitos indesejáveis são apresentados por frequência, utilizando as seguintes categorias: muito frequentes (≥1/10); frequentes (≥1/100, &lt; 1/10); pouco Me
+ frequentes (≥1/1.000, &lt; 1/100); raros (≥1/10.000 a &lt; 1/1.000); muito raros (&lt; 1/10.000), desconhecido (não pode ser estimado a partir dos dados disponíveis). Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ Placeb Classes de sistemas
+ Frequência Acontecimento adverso Zenapax o
+ de órgãos
+ (%) n=336
+ (%) n=293
+ Infecções e infestações Frequentes Faringite Rinite
+ 2,4 3,0 3,8 3,1 Doenças do metabolismo e da
+ Frequentes Diabetes mellitus Sobrecarga de líquidos
+ 3,3 3,3 4,8 5,8 4 Placeb Classes de sistemas
+ Frequência Acontecimento adverso Zenapax o
+ de órgãos
+ (%) n=336
+ (%) n=293
+ nutrição
+ Desidratação 3,0 3,1 Perturbações do foro psiquiátrico Muito frequentes Insónia 12,5 13,7 Frequentes Depressão Ansiedade
+ 3,3 2,1 2,0 5,5 Doenças do sistema Muito Tremor 19,3 15,7 o nervoso
+ frequentes Frequentes
+ Cefaleias Tonturas
+ 15,5 5,1 14,7 4,4 ad
+ Parestesia 3,6 0,9 Afecções oculares Cardiopatias Frequentes Frequentes Vista turva Taquicardia
+ 2,7 6,5 4,4 6,8 riz Vasculopatias
+ Muito frequentes Hipertensão (incl. agravamento) 32,1 27,7 Frequentes Hipotensão 8,6 10,2 to
+ Hemorragia Linfocele
+ 7,4 7,4 10,6 6,5 au
+ Trombose 5,4 4,4 Doenças respiratórias, Muito frequentes Dispneia 11,9 15,4 torácicas e do
+ Frequentes Edema pulmonar ão
+ 6,3 4,4 mediastino
+ Derrame pleural Atelectasia án
+ 2,1 3,3 1,4 3,8 j
+ Hipóxia Congestão das vias respiratórias Ralas Tosse
+ 2,7 3,3 3,3 5,1 3,1 3,8 1,4 4,8 to
+ Sons respiratórios anormais 2,7 1,7 Doenças Muito frequentes Obstipação 34,8 37,9 gastrointestinais
+ n
+ Diarreia Vómitos
+ 15,2 14,9 16,4 14,3 me
+ Náuseas 27,4 25,9 Dispepsia (incl. pirose) 15,1 14,7 a
+ Frequentes Distenção abdominal Gastrite Dor abdominal
+ 5,7 2,4 9,8 4,4 0,7 13,0 dic
+ Dor abdominal superior (dor 5,4 3,8 epigástrica)
+ Hemorróidas Flatulência
+ 2,1 3,9 0,7 4,1 Afecções dos tecidos Me Frequentes Erupção cutânea 3,3 4,4 cutâneos e subcutâneas
+ Acne Prurido Suores nocturnos Hiperhidrose Hirsutismo
+ 8,9 3,9 2,1 2,1 4,8
+ 7,2 5,8 2,0 1,7 2,0 Afecções musculoesqueléticas
+ Muito frequentes Dor musculoesquelética 12,3 12,5 e dos tecidos conjuntivos
+ Frequentes Dorsalgia Espasmos musculares Artralgia Mialgia
+ 6,5 2,4 2,7 2,1 8,2 1,4 2,7 1,0 5 Placeb Classes de sistemas Frequência Acontecimento adverso Zenapax o
+ de órgãos
+ (%) n=336
+ (%) n=293
+ Perturbações gerais e alterações no local de administração
+ Muito frequentes Edema Edema periférico Dificuldade de cicatrização (sem infecção)
+ 15,8 28,0 12,2 18,4 30,0 10,2 Frequentes Dor torácica Dor
+ 8,6 7,1 8,9 8,2 o
+ Fadiga Reacção no local da aplicação
+ 7,4 4,8 9,6 5,1 ad
+ Pirexia Astenia Arrepios
+ 5,4 3,3 3,0 10,2 2,7 5,1 riz Doenças renais e urinárias
+ Frequentes Insuficiência renal Necrose tubular renal Hidronefrose
+ 3,6 7,4 2,1 3,3 6,8 4,4 to
+ Doença renal (lesão) Hemorragia do tracto urinário
+ 4,5 2,1 7,8 3,4 au
+ Retenção urinária Anomalia do tracto urinário Oligúria ão
+ 2,1 2,7 9,5 3,1 2,4 10,6 Disúria 6,0 12,3 Complicações de intervenções Frequentes Dor pós-traumática 20,8 20,1 án
+ relacionadas com lesões e intoxicações
+ Incidência de doenças malignas: Três anos após o tratamento, a incidência de doenças malignas foi de j
+ 7,8% no grupo placebo em comparação com 6,4% no grupo tratado com Zenapax. A adição de Zenapax não aumentou o número de linfomas após o transplante que ocorreram com uma frequência to
+ de 1,5% no grupo tratado com placebo e de 0,7% no grupo tratado com Zenapax. n
+ Hiperglicemia: Não foram observadas diferenças anómalas nos resultados dos testes laboratoriais me
+ hematológicos e químicos entre o grupo tratado com placebo e o grupo tratado com Zenapax com excepção da glicemia em jejum. A glicemia em jejum foi determinada num número reduzido de doentes tratados com placebo e com Zenapax. Um total de 16% (10 em 64 doentes) dos doentes tratados com placebo e 32% (28 em 88 doentes) dos doentes tratados com Zenapax apresentavam a
+ valores elevados da glicemia em jejum. A maioria destes valores elevados ocorreram no primeiro dia após o transplante quando os doentes receberam elevadas doses de corticosteróides ou em doentes dic
+ com diabetes.
+ Foi relatada a ocorrência de morte, durante os primeiros 6 meses após o transplante, em 3,4% do Me
+ grupo tratado com placebo e em 0,6% do grupo tratado com Zenapax. A mortalidade, aos 12 meses, foi de 4,4% no grupo tratado com placebo e de 1,5% no grupo tratado com Zenapax.
+ Foi relatada a ocorrência de episódios infecciosos, incluindo infecções virais, infecções fúngicas, bacteremia e septicemia, e pneumonia, em 72% dos doentes tratados com placebo e em 68% dos doentes tratados com Zenapax. O tipo de infecções relatadas foi semelhante nos grupos tratados com Zenapax e nos grupos tratados com placebo. Em 16% dos doentes do grupo placebo e em 13% dos doentes do grupo Zenapax, foi relatada a ocorrência de infecção por citomegalovirus.
+ Raramente, foram relatados casos de reacção de hipersensibilidade grave após a administração de Zenapax (ver secção 4.4).
+ 6 Doentes pediátricos: O perfil de segurança da utilização de Zenapax em doentes pediátricos mostrou ser comparável ao observado em doentes adultos. No entanto, os eventos adversos seguintes ocorreram mais frequentemente nos doentes pediátricos: diarreia (41%), dor no pós-operatório (38%), febre (33%), vómitos (33%), hipertensão (28%), prurido (21%) e infecções do tracto respiratório superior (20%) e do tracto urinário (18%).
+ 4.9 Sobredosagem A dose máxima tolerada não foi determinada em doentes e não foi possível obtê-la em animais que receberam Zenapax. Administrou-se uma dose de 1,5 mg/kg a indivíduos submetidos a transplante da medula óssea sem que tenham ocorrido quaisquer efeitos adversos associados. Num estudo de
+ o toxicidade por dose única, administrou-se uma dose de 125 mg/kg, por via intravenosa, no ratinho,
+ ad não se tendo registado indícios de toxicidade.
+ riz 5. PROPRIEDADES FARMACOLÓGICAS
+ 5.1 Propriedades farmacodinâmicas to Grupo farmacoterapêutico: Fármacos imunossupressores selectivos
+ au Código ATC: L04A A08
+ Farmacologia Clínica Zenapax contém daclizumab, um anticorpo anti-Tac IgG1 humanizado, recombinante, que actua como ão antagonista do receptor da interleucina 2 (IL-2). O daclizumab liga-se, com grande especificidade, às sub-unidades alfa ou Tac do complexo receptor IL-2 com elevada afinidade (expresso nas células T activadas), inibindo a ligação e a actividade biológica da IL-2. A administração de Zenapax inibe a án
+ activação dos linfócitos mediada pela IL-2, uma etapa fundamental na resposta imunitária da célula, envolvida na rejeição do transplante. O daclizumab satura o receptor Tac durante cerca de 90 dias, com o regime posológico recomendado para a maioria dos doentes. Desenvolveram-se anticorpos anti-daclizumab em cerca de 9% dos doentes tratados com Zenapax, no decurso dos ensaios clínicos, j
+ embora pareça que tal não afecte a eficácia, a segurança, os níveis séricos do daclizumab nem to
+ qualquer outro dos parâmetros clinicamente relevantes investigados.
+ Não foram observadas, por análise de fluorescência de células marcadas (FACS), alterações relevantes n
+ do número de linfócitos circulantes nem dos fenótipos celulares, para além da diminuição transitória me
+ esperada das células Tac+.
+ Terapêutica combinada em indivíduos submetidos a transplante renal alogénico a
+ Em ensaios de Fase III, Zenapax foi adicionado a um regime imunossupressor standard, com ciclosporina (5 mg/kg), esteróides (prednisona ou metilprednisolona), com ou sem adição de dic
+ azatioprina (4 mg/kg).
+ Ambos os ensaios demonstraram uma superioridade estatisticamente significativa comparativamente Me
+ com placebo, na redução da taxa de rejeição aguda, confirmada por biópsia, do transplante renal alogénico, seis meses após o transplante. Um ano após o transplante, a análise da totalidade dos dados disponíveis mostrou que a diferença na taxa de rejeição aguda (43% comparativamente com 28%) confirmada por biópsia, se manteve estatisticamente significativa. Após 3 anos, as taxas de sobrevida do enxerto foram significativamente superiores nos doentes que não apresentaram rejeição aguda (n=345) no primeiro ano após o transplante, quando comparadas com as dos doentes em que ocorreu rejeição aguda durante o primeiro ano (n=190), independentemente do tratamento. A sobrevida do enxerto após 3 anos, não foi significativamente diferente entre o placebo e o daclizumab no ensaio com regime imunosupressor triplo (83% vs 84%) ou no ensaio com regime imunosupressor duplo (78% vs 82%). No ensaio com regime imunosupressor duplo a sobreviva dos doentes, após três anos foi significativamente diferente entre o placebo e o daclizumab (88% vs 96%; p= 0.017), mas isso não se verificou no ensaio com regime imunosupressor triplo (94% vs 92%).
+ 7 Três anos após o transplante, a função renal, avaliada pela creatinina sérica e pela taxa de filtração glomerular (TFG), foi idêntica em ambos os grupos.
+ Três anos após o transplante, o efeito benéfico da profilaxia com Zenapax sobre a incidência da rejeição aguda após transplante renal não foi associada a sequelas clínicas adversas, incluindo o desenvolvimento de doença linfoproliferativa pós transplante (DLPT).
+ 5.2 Propriedades farmacocinéticas Nos ensaios clínicos envolvendo doentes com transplante renal, tratados com 1 mg/kg de Zenapax, de
+ o 14 em 14 dias, num total de 5 doses, a média das concentrações séricas máximas (média ± desvio
+ ad padrão) variou entre a primeira dose (21 ± 14 µg/ml) e a quinta dose (32 ± 22 µg/ml). A média ± desvio padrão da concentração sérica mínima, antes da administração da quinta dose, foi de 7,6 ± 4,0 µg/ml. São necessários níveis séricos de 0,5 a 0,9 µg/ml para saturar o receptor da IL-2 e níveis de
+ riz 5-10 µg/ml para inibir a actividade biológica mediada pela IL-2. O regime recomendado de daclizumab manterá as concentrações séricas num nível suficiente para saturar os receptores alfa da IL-2R, nos linfócitos T activados, durante mais de 90 dias após o transplante, na maioria dos doentes.
+ to Estes primeiros três meses são os mais críticos do período pós-transplante.
+ au A semi-vida de eliminação terminal calculada para o daclizumab variou entre 270 e 919 horas (em média,480 horas) nos doentes com transplante renal e é equivalente à observada para a IgG humana, que variou entre 432-552 horas (em média,480 horas,), o que é atribuível à humanização da proteína. ão A análise da farmacocinética populacional demonstrou que a depuração sistémica do daclizumab era influenciada pelo peso corporal total, idade, sexo, proteinúria e pela raça. án
+ A influência do peso corporal na depuração sistémica, sustenta o facto da administração de Zenapax ser feita com base em mg/kg de peso, mantendo a exposição ao fármaco num nível até 30% da exposição obtida com a dose de referência, em grupos de doentes com características demográficas muito variadas. Nos doentes com transplantes renais alogénicos, não são necessários ajustes de dose j
+ baseados noutras co-variáveis identificadas (sexo, proteinúria, raça e idade). to
+ Doentes pediátricos: As propriedades farmacocinéticas e farmacodinâmicas foram avaliadas em 61 doentes pediátricos tratados com uma dose de 1 mg/kg de Zenapax, por via intravenosa, de 14 em 14 n
+ dias, num total de 5 doses. Os valores da concentração plasmática máxima (máxima+ desvio padrão) me
+ aumentaram entre a primeira dose (16 ± 12 µg/ml) e a quinta dose (21 ± 14 µg/ml). O valor médio das concentrações plasmáticas no vale, antes da quinta dose, era de 5,0 ± 2,7 µg/ml. A sub-unidade Tac do receptor da IL-2 foi saturada imediatamente após a primeira dose de 1,0 mg/kg de daclizumab, tendo permanecido saturada durante pelo menos os primeiros três meses que se seguiram ao transplante. A a
+ saturação da sub-unidade Tac do receptor da IL-2 foi semelhante à observada em doentes adultos em dic
+ tratamento com o mesmo regime posológico.
+ Não existe qualquer interacção farmacocinética entre Zenapax e o ácido micofenólico, o metabolito activo do micofenolato mofetil (CellCept). Me
+ 5.3 Dados de segurança pré-clínica Daclizumab foi bem tolerado após a administração de doses únicas em bólus intravenoso ou após administração de doses subcutâneas que variaram entre 50 e 125 mg/kg, no ratinho, no rato e no coelho e após 28 dias de administração de 15 mg/kg no macaco. Um dos 18 macacos apresentou uma reacção anafiláctica ao daclizumab. Mantiveram-se níveis séricos apreciáveis de daclizumab, excepto em 2 dos 18 macacos que desenvolveram anticorpos anti-daclizumab. Não se observou reactividade cruzada in vitro entre o daclizumab e cortes congelados provenientes de 28 órgãos humanos, para concentrações até 56 mg/ml, o que demonstra a ausência de ligação não específica. Daclizumab não revelou genotoxicidade nos testes habituais.
+ 8 Um estudo não-clínico de toxicidade reprodutiva, no macaco cynomolgus, com daclizumab revelou um risco aumentado de perda pré-natal precoce, comparativamente com placebo. No entanto, os dados revelaram variações consideráveis inter-animal e encontram-se dentro dos intervalos de controlo histórico para estas espécies. As perdas pré-natal globais para a totalidade do período gestacional variaram de 20% a 45%. A incidência de nados-mortos, cesariana e parto com apresentação de nádegas foram comparáveis entre os grupos de tratamento e de controlo.
+ No mesmo estudo não-clínico de toxicidade reprodutiva com o daclizumab, quatro de sete macacos cynomolgus lactantes, aos quais foi administrada uma dose 5-10 vezes múltipla (10 mg/kg) da dose normal humana, secretaram níveis muito baixos de daclizumab (0, 17-0,28% dos níveis séricos maternos) no leite mamário.
+ o ad 6. INFORMAÇÕES FARMACÊUTICAS
+ riz 6.1. Lista dos excipientes
+ Polissorbato 80 to Cloreto de sódio Dihidrogenofosfato de sódio, anidro
+ au Fosfato dissódico, anidro Ácido clorídrico, concentrado Hidróxido de sódio Água para injectáveis ão 6.2 Incompatibilidades án
+ Não se observou incompatibilidade entre Zenapax e os sacos de cloreto de polivinilo nem entre o Zenapax e os sistemas de perfusão.
+ 6.3 Prazo de validade j to
+ 3 anos. Após diluição é recomendada a utilização imediata. Durante a utilização, foi demonstrada estabilidade n
+ química e física durante 24 horas a 2 ºC – 8 ºC ou durante 4 horas a 25ºC. No entanto, do ponto de me
+ vista microbiológico, o produto diluído deve ser utilizado imediatamente. O produto não deve ser guardado após a diluição, excepto se esta ocorrer em condições de assepsia, controladas e validadas. Se o produto após diluição não for utilizado imediatamente, o período de tempo e as condições de armazenamento até à sua utilização, são da inteira responsabilidade do utilizador a
+ 6.4 Precauções especiais de conservação dic
+ -Conservar no frigorífico (2 ºC – 8 ºC).
+ -Não congelar.
+ Me
+ -Conservar na embalagem de origem para proteger da luz.
+ 6.5 Natureza e conteúdo do recipiente Frasco para injectáveis com 5 ml (vidro tipo I). Embalagens com 1 ou 3 frascos.
+ É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Instruções especiais de eliminação e manuseamento
+ Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 9 Instruções de utilização e manipulação
+ Zenapax NÃO se destina a ser injectado directamente. Zenapax deve ser diluído em 50 ml de solução de cloreto de sódio a 0,9% estéril, antes de ser administrado aos doentes por via intravenosa. Não deve agitar a solução para a misturar, mas sim inverter cuidadosamente o saco, a fim de evitar a formação de espuma. Deve ter cuidado para garantir a esterilidade da solução preparada, dado que o medicamento não contém nenhum conservante antimicrobiano nem agentes bacteriostáticos. Zenapax é uma solução incolor que se apresenta em frascos para injectáveis destinados a uma única utilização. Os medicamentos destinados a administração parentérica devem ser cuidadosamente observados antes da sua administração, relativamente à existência de eventuais partículas em suspensão ou de coloração. A solução de perfusão deve ser administrada, imediatamente após a sua preparação, por via
+ o intravenosa. Se a diluição decorrer em condições de assepsia, a solução pode ser guardada durante 24
+ ad horas, se for mantida a temperatura entre os 2 ºC-8 ºC ou durante 4 horas a 25 ºC.
+ Não se devem adicionar nem administrar, simultaneamente, pela mesma linha de perfusão, outros
+ riz medicamentos/substâncias.
+ to 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ au Roche Registration Limited 6 Falcon Way Shire Park Welwyn Garden City ão AL7 1TW Reino Unido án
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/99/098/001 (embalagem de 1 frascos para injectáveis) j
+ EU/1/99/098/002 (embalagem de 3 frascos para injectáveis) to
+ 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE n
+ INTRODUÇÃO NO MERCADO me
+ Data da primeira autorização: 26 Fevereiro 1999 Data da renovação: 14 Abril 2004 a
+ 10. DATA DA REVISÃO DO TEXTO dic Me
+ 10 o ad riz to au ANEXO II ão A. FABRICANTE(S) DA SUBSTÂNCIA ACTIVA DE ORIGEM BIOLÓGICA E TITULAR(ES) DA AUTORIZAÇÃO DE án
+ FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO j to n me a dic Me
+ 11 A FABRICANTE(S) DA SUBSTÂNCIA ACTIVA DE ORIGEM BIOLÓGICA E TITULAR(ES) DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do fabricante da substância activa de origem biológica
+ Hoffmann-La Roche Inc. 340 Kingsland Street Nutley New Jersey EUA
+ o ad Nome e endereço do fabricante responsável pela libertação do lote
+ Roche Pharma AG riz Emil-Barell-Str. 1 D-79639 Grenzach-Wyhlen ALEMANHA
+ to au B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO ão Medicamento sujeito a receita médica restrita (ver anexo I: resumo das características do medicamento, secção 4.2) án
+ • CONDIÇÕES OU RESTRIÇÕES EM RELAÇÃO À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO j
+ Não aplicável. to
+ • OUTRAS CONDIÇÕES n me a dic Me
+ 12 o ad riz to au ANEXO III ão ROTULAGEM E FOLHETO INFORMATIVO án j to n me a dic Me
+ 13 Me dic ame nto
+ 14 ján A. ROTULAGEM ão au
+ to
+ riz ad o
+ INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ EMBALAGEM EXTERIOR 1. DENOMINAÇÃO DO MEDICAMENTO Zenapax 5 mg/ml concentrado para solução para perfusão Daclizumab
+ o ad 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ riz Daclizumab* ………… 5 mg por 1 ml de perfusão
+ Um frasco para injectáveis de 5 ml contém 25 mg de daclizumab* (5 mg/ml).
+ to* Anticorpo anti-Tac IgG1 humanizado, recombinante, produzido a partir de uma linhagem de células de mieloma murino NSO utilizando um sistema de expressão (NS_ GSO) de glutamina sintetase (GS)
+ au por tecnologia de ADN recombinante. 3. LISTA DOS EXCIPIENTES
+ ão
+ Polissorbato 80, cloreto de sódio, dihidrogenofosfato de sódio anidro, fosfato dissódico anidro, ácido án
+ clorídrico concentrado, hidróxido de sódio, água para injectáveis.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO j to
+ 1 frasco para injectáveis de 5 ml n
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO me
+ Via intravenosa, para perfusão após diluição Consultar o Folheto Informativo a dic
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças Me
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ 15 Conservar no frigorífico (2ºC-8ºC) Não congelar Conservar na embalagem de origem para proteger da luz
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ o 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+ ad MERCADO
+ Roche Registration Limited riz 6 Falcon Way Shire Park Welwyn Garden City
+ to AL7 1TW Reino Unido
+ au 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO ão EU/1/99/098/001 án
+ 13. NÚMERO DO LOTE Lote j to
+ 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO n
+ Medicamento sujeito a receita médica me
+ 15. INSTRUÇÕES DE UTILIZAÇÃO a dic
+ 16. INFORMAÇÃO EM BRAILLE Me 16 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ EMBALAGEM EXTERIOR 1. DENOMINAÇÃO DO MEDICAMENTO Zenapax 5 mg/ml concentrado para solução para perfusão Daclizumab
+ o ad 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ riz Daclizumab* ………… 5 mg por 1 ml de perfusão
+ Um frasco para injectáveis de 5 ml contém 25 mg de daclizumab* (5 mg/ml).
+ to* Anticorpo anti-Tac IgG1 humanizado, recombinante, produzido a partir de uma linhagem de células de mieloma murino NSO utilizando um sistema de expressão (NS_ GSO) de glutamina sintetase (GS)
+ au por tecnologia de ADN recombinante. 3. LISTA DOS EXCIPIENTES
+ ão
+ Polissorbato 80, cloreto de sódio, dihidrogenofosfato de sódio anidro, fosfato dissódico anidro, ácido án
+ clorídrico concentrado, hidróxido de sódio, água para injectáveis.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO j to
+ 3 frascos para injectáveis de 5 ml cada n
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO me
+ Via intravenosa, para perfusão após diluição Antes de utilizar leia o Folheto Informativo a dic
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças Me
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ 17 Conservar no frigorífico (2ºC-8ºC) Não congelar Conservar na embalagem de origem para proteger da luz
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ o 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO
+ ad MERCADO
+ Roche Registration Limited riz 6 Falcon Way Shire Park Welwyn Garden City
+ to AL7 1TW Reino Unido
+ au 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO ão EU/1/99/098/002 án
+ 13. NÚMERO DO LOTE Lote j to
+ 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO n
+ Medicamento sujeito a receita médica me
+ 15. INSTRUÇÕES DE UTILIZAÇÃO a dic
+ 16. INFORMAÇÃO EM BRAILLE Me 18 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ FRASCO PARA INJECTÁVEIS 1. DENOMINAÇÃO DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Zenapax 5 mg/ml concentrado para solução para perfusão Daclizumab
+ o ad 2. MODO DE ADMINISTRAÇÃO
+ riz Para administração intravenosa após diluição Consultar o Folheto Informativo
+ to 3. PRAZO DE VALIDADE
+ au VAL. ão 4. NÚMERO DO LOTE
+ Lote án
+ 5. CONTEÚDO EM TERMOS DE PESO, VOLUME OU UNIDADE j
+ 5 ml to n
+ 6. OUTRAS me a dic Me
+ 19 Me dic ame nto
+ 20 ján ão B. FOLHETO INFORMATIVO au
+ to
+ riz ad o
+ FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Zenapax 5 mg/ml concentrado para solução para perfusão Daclizumab
+ Leia atentamente este folheto antes de utilizar o medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ o mencionados neste folheto, informe o seu médico ou farmacêutico.
+ ad Neste folheto:
+ riz 1. O que é Zenapax e para que é utilizado 2. Antes de utilizar Zenapax 3. Como utilizar Zenapax
+ to 4. Efeitos secundários possíveis 5. Como conservar Zenapax
+ au 6. Outras informações ão 1. O QUE É ZENAPAX E PARA QUE É UTILIZADO
+ O daclizumab pertence a um grupo de medicamentos designados por imunossupressores. Estes án
+ medicamentos ajudam a suprimir o mecanismo natural de defesa do organismo que tende a rejeitar o órgão transplantado.
+ O daclizumab é um anticorpo monoclonal humanizado produzido a partir de uma linhagem de células j
+ de mieloma murino NSO utilizando um sistema de expressão (NS_ GSO) de glutamina sintetase (GS) to
+ por tecnologia de ADN recombinante. Os anticorpos monoclonais são proteínas que reconhecem e se ligam a outras proteínas específicas, existentes no organismo, que se designam por antigénios. O daclizumab liga-se a um antigénio que se encontra na superfície de determinados glóbulos brancos, n
+ denominados linfócitos T. Esta actividade suprime a resposta imunológica natural do seu organismo me
+ que, de outro modo, poderia originar a rejeição do transplante.
+ Zenapax é utilizado para evitar que o seu organismo rejeite o rim transplantado. Zenapax é utilizado juntamente com outros fármacos imunossupressores, incluindo a ciclosporina e corticosteróides. a dic
+ 2. ANTES DE UTILIZAR ZENAPAX Não utilize Zenapax Me -se tem alergia (hipersensibilidade) ao daclizumab ou a qualquer outro componente de Zenapax
+ -se estiver a amamentar.
+ Por favor leia o ponto abaixo sobre aleitamento.
+ Tome especial cuidado com ZENAPAX -se já teve uma reacção alérgica a outros medicamentos imunossupressores, que ajudam a
+ suprimir os mecanismos naturais de defesa do organismo
+ A terapêutica com medicamentos que ajudam a suprimir os mecanismos naturais de defesa do organismo pode aumentar o risco de desenvolvimento de doenças malignas ou de infecções. O
+ 21 Zenapax não aumenta este risco, quando é utilizado juntamente com outros medicamentos imunosupressores, incluindo a ciclosporina e os corticosteróides.
+ Podem ocorrer reacções alérgicas graves após a administração de proteínas. Raramente foram reportadas reacções alérgicas após a perfusão intravenosa de Zenapax. No caso de desenvolver uma reacção alérgica, o seu médico irá tratá-lo com a medicação adequada.
+ Tomar outros medicamentos Por favor informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente quaisquer outros medicamentos, incluindo os que obteve sem receita médica. Isto é extremamente importante uma vez que tomar mais do que um medicamento ao mesmo tempo pode aumentar ou
+ o diminuir o efeito dos medicamentos que estiver a tomar. Assim, o Zenapax não deve ser utilizado com
+ ad outros medicamentos sem o consentimento do seu médico.
+ Gravidez e aleitamento riz Não deve utilizar este medicamento se estiver a amamentar.
+ Não deve utilizar este medicamento se estiver grávida a menos que o seu médico decida que ele é
+ to necessário para si.
+ au Zenapax pode causar danos no feto ou no bebé em amamentação. Informe o seu médico de imediato se estiver grávida, a amamentar, ficar grávida ou planear iniciar uma família num futuro próximo.
+ O seu médico deve aconselhá-la acerca da utilização de contracepção antes do inicio do tratamento ão com Zenapax, durante o tratamento com Zenapax e por um período adicional de 4 meses após a última dose de Zenapax. án
+ Condução de veículos e utilização de máquinas Não existem indícios que indiquem que o Zenapax tenha efeitos sobre a sua capacidade de conduzir um carro ou de operar máquinas. j to
+ 3. COMO UTILIZAR ZENAPAX Zenapax NÃO deve ser injectado directamente. Antes da administração ao doente, Zenapax deve ser n
+ diluído em 50 ml de solução estéril de cloreto de sódio a 0,9%. me
+ Um profissional de saúde dar-lhe-á uma dose adequada (habitualmente 1 mg/kg de peso corporal) sob a forma de uma perfusão intravenosa, durante 15 minutos. A primeira dose é administrada nas 24 horas que antecedem o transplante. Vai receber 4 doses subsequentes, com intervalos de 14 dias entre a
+ cada uma. No total, deverá receber 5 doses de Zenapax para completar um ciclo de tratamento. Um ciclo de tratamento dura habitualmente 8 semanas. dic
+ Pode receber as perfusões intravenosas posteriores ao transplante, no período compreendido entre o dia anterior e o dia seguinte ao dia previsto para a sua administração. Me
+ Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou farmacêutico.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como os demais medicamentos, Zenapax pode causar efeitos secundários em algumas pessoas.
+ Informe o seu médico imediatamente se detectar a ocorrência de qualquer dos seguintes efeitos secundários: tosse e dificuldade em respirar, incluindo quando se deita, vómitos, confusão e urinar
+ 22 menos que o normal. Estes efeitos secundários podem ocorrer quando utilizar Zenapax. Estes efeitos secundários podem ser graves e pode necessitar de assistência médica urgente.
+ Os efeitos secundários muito frequentes (que ocorrem em 1 ou mais doentes em cada 10) são:
+ -dificuldade em dormir
+ -tremer (tremor)
+ -dor de cabeça
+ -tensão arterial alta (hipertensão)
+ -dificuldade em respirar
+ -prisão de ventre; diarreia; vómitos; náuseas ou azia
+ -dor nas articulações e nos músculos
+ o
+ -excesso de liquido no corpo (edema); inchaço das pernas e dos braços (edema periférico)
+ ad
+ -problemas com a cicatrização de feridas
+ Os efeitos secundários frequentes (que ocorrem entre 1 e 10 doentes em cada 100) são inflamação da
+ riz garganta (faringite); corrimento nasal (rinite); diabetes mellitus; açúcar elevado no sangue (hiperglicemia); sobrecarga de líquidos; desidratação; ansiedade; depressão; tonturas; sensação de formigueiro; vista turva; batimento cardíaco acelerado (taquicardia); perda de sangue (hemorragia);
+ to coágulos no sangue (trombose); tensão arterial baixa (hipotensão); acumulação de liquido linfático numa parte do corpo (linfocele); grave dificuldade respiratória, incluindo quando estiver deitado à
+ au noite (edema pulmonar); líquido nos pulmões (derrame pleural); colapso dos pulmões (atelectasia); falta de oxigénio no corpo (hipoxia); congestão; tosse; sons respiratórios barulhentos ou anormais, incluindo sons respiratórios com estalidos; enfartamento no estômago; dor ou desconforto no estômago; flatulência; hemorróidas; irritação da pele; comichão na pele; acne; suores nocturnos; ão aumento da produção de suor; crescimento excessivo de pêlos (hirsutismo); dores nas costas; cãibras musculares, particularmente nas pernas; dores nas articulações (artralgia); dores nos músculos (mialgia); dor no peito; dor geral; cansaço; irritação da pele no local da injecção; febre; arrepios; án
+ fraqueza geral; dores nos rins e alterações ou dificuldade na passagem da urina (hidronefrose); sangue na urina; dor ao urinar (disúria); diminuição da quantidade de urina (oligúria); dor após cirurgia.
+ Podem ocorrer, raramente, reacções alérgicas (hipersensibilidade) com Zenapax. j to
+ Alguns efeitos secundários têm uma maior probabilidade de ocorrência nas crianças que nos adultos, incluindo diarreia, dor após a cirurgia, febre, vómitos, tensão arterial alta, comichão na pele, infecções no nariz e garganta e infecções na urina. n me
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico. a
+ 5. COMO CONSERVAR ZENAPAX dic
+ Manter fora do alcance e da vista das crianças.
+ Conservar no frigorífico (2ºC – 8ºC). Me
+ Manter o frasco para injectáveis dentro da embalagem exterior para proteger da luz.
+ Não congelar. Não utilize Zenapax após o prazo de validade impresso na embalagem exterior e no rótulo do frasco, a seguir a VAL. O prazo de validade corresponde ao último dia do mês indicado.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Zenapax 23
+ -A substância activa é o daclizumab.
+ -Os outros componentes são polissorbato 80, cloreto de sódio, dihidrogenofosfato de sódio
+ anidro, fosfato dissódico anidro, ácido clorídrico concentrado, hidróxido de sódio, água para injectáveis.
+ Qual o aspecto de Zenapax e conteúdo da embalagem
+ Zenapax 5 mg/ml concentrado para solução para perfusão é um líquido transparente, incolor a ligeiramente amarelado que é fornecido em frascos para injectáveis contendo 5 ml de solução. Um frasco para injectáveis com 5 ml de concentrado para solução para perfusão contém 25 mg de
+ o daclizumab.
+ ad Zenapax está disponível em embalagens de 1 ou de 3 frascos para injectáveis. É possível que não sejam comercializadas todas as apresentações.
+ riz Titular da Autorização de Introdução no Mercado e Fabricante
+ to Titular da Autorização de Introdução no Mercado
+ au Roche Registration Limited 6 Falcon Way Shire Park Welwyn Garden City ão AL7 1TW Reino Unido án
+ Fabricante Roche Pharma AG Emil-Barell-Strassee 1 D-79639 Grenzach-Wyhlen j
+ Alemanha to
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do titular da autorização de introdução no mercado. n me
+ België/Belgique/Belgien N. V. Roche S. A. Tél/Tel: +32 (0) 2 525 82 11 a
+ Luxembourg/Luxemburg (Voir/siehe Belgique/Belgien)
+ България Рош България ЕООД dic
+ Magyarország Roche (Magyarország) Kft. Тел: +359 2 818 44 44 Tel: +36-23 446 800 Česká republika Me Malta (See United Kingdom) Roche s. r. o. Tel: +420-2 20382111 Danmark Roche a/s Tlf: +45-36 39 99 99
+ Nederland Roche Nederland B. V. Tel: +31 (0) 348 438050
+ Deutschland Roche Pharma AG Tel: +49 (0) 7624 140
+ Norge Roche Norge AS Tlf: +47-22 78 90 00
+ 24 Österreich Eesti Roche Austria GmbH Roche Eesti OÜ Tel: +43 (0) 1 27739 Tel:+ 372-6 112 401
+ Polska Ελλάδα Roche Polska Sp. z o. o. Roche (Hellas) A. E. Tel: +48-22 345 18 88 Τηλ: +30 210 61 66 100
+ España Roche Farma S. A. Tel: +34-91 324 81 00
+ Portugal Roche Farmacêutica Química, Lda Tel: +351-21 425 70 00
+ o ad France Roche Tél: +33 (0) 1 46 40 50 00
+ România Roche România S. R. L. Tel: +40 21 206 47 01
+ riz Slovenija Ireland Roche farmacevtska družba d. o. o. Roche Products (Ireland) Ltd.
+ to Tel: +386-1 360 26 00 Tel: +353 (0) 1 469 0700
+ au Slovenská republika Ísland Roche Slovensko, s. r. o. Roche a/s Tel: +421-2 52638201 c/o Icepharma hf Tel: +354 540 8000 ão Suomi/Finland Italia Roche Oy Roche S. p. A. án
+ Puh/Tel: +358 (0) 9 525 331 Tel: +39-039 2471
+ Kύπρος Γ. Α. Σταµάτης &amp; Σια Λτδ.
+ j
+ Sverige Roche AB Tel: +46 (0) 8 726 1200 Τηλ: +357-22 76 62 76 to
+ United Kingdom Latvija Roche Products Ltd. Roche Latvija SIA n
+ Tel: +44 (0) 1707 366000 Tel: +371-7 039831 me
+ Lietuva UAB “ Roche Lietuva ” Tel: +370 5 2546799 a dic
+ Este folheto foi aprovado pela última vez em{ MM/AAAA} Me
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia do Medicamento (EMEA) http: //www. emea. eu. int/
+ 25

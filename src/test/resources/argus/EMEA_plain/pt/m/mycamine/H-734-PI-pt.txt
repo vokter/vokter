@@ -1,0 +1,633 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. NOME DO MEDICAMENTO
+ Mycamine 50 mg pó para solução para perfusão
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada frasco para injectáveis contém 50 mg de micafungina (sódica). Após a reconstituição, cada ml contém 10 mg de micafungina (sódica).
+ Excipientes: Cada frasco para injectáveis de 50 mg contém 200 mg de lactose. Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Pó para solução para perfusão. Pó compacto de cor branca ..
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Mycamine é indicado em: Adultos, adolescentes ≥ 16 anos de idade e idosos:
+ -Tratamento de candidíase invasiva.
+ -Tratamento de candidíase esofágica em doentes para quem a terapêutica intravenosa seja
+ apropriada.
+ -Profilaxia de infecção por Candida em doentes submetidos a transplante hematopoiético de
+ células estaminais ou doentes onde é esperada neutropenia (contagem absoluta de neutrófilos &lt; 500 células/µl) por 10 ou mais dias.
+ Crianças (incluindo recém nascidos) e adolescentes &lt; 16 anos de idade:
+ -Tratamento de candidíase invasiva.
+ -Profilaxia de infecção por Candida em doentes submetidos a transplante hematopoiético de
+ células estaminais ou doentes onde é esperada neutropenia (contagem absoluta de neutrófilos &lt; 500 células/µl) por 10 ou mais dias.
+ A decisão de usar Mycamine deve ter em consideração um potencial risco de desenvolvimento de tumores hepáticos (ver secção 4.4). Por conseguinte, Mycamine só deve ser usado se outros antifúngicos não forem adequados.
+ 4.2 Posologia e modo de administração Deve ter-se em consideração a directiva oficial/nacional sobre o uso adequado de agentes antifúngicos.
+ O tratamento com Mycamine deve ser iniciado por um médico com experiência no tratamento de infecções fúngicas.
+ Antes da terapêutica devem ser obtidos espécimes para cultura de fungos e outros testes laboratoriais relevantes (incluindo histopatologia) para isolar e identificar o(s) organismo(s) em causa. A terapêutica pode ser instituída antes de serem conhecidos os resultados das culturas e de outros testes
+ 2 laboratoriais. No entanto, assim que estes resultados estejam disponíveis, a terapia antifúngica deverá ser ajustada de acordo com os mesmos.
+ O regime de dosagem de Mycamine depende do peso corporal do doente, como indicado nas seguintes tabelas:
+ Utilização em adultos, adolescentes ≥ 16 anos de idade e idosos
+ Indicação Peso corporal &gt; 40 kg Peso corporal ≤ 40 kg Tratamento de candidíase invasiva Tratamento de candidíase esofágica Profilaxia de infecção por Candida* Se a resposta do doente não for adequada, por exemplo a melhorar, a dose poderá ser aumentada para 200 mg/dia em doentes que pesem ≤ 40 kg.
+ 100 mg/dia* 150 mg/dia 50 mg/dia persistência de culturas ou se doentes que pesem &gt; 40 kg ou 4
+ 2 mg/kg/dia* 3 mg/kg/dia 1 mg/kg/dia a condição clínica não mg/kg/dia em
+ Duração do tratamento Candidíase invasiva: A duração do tratamento de infecção por Candida deve ser, no mínimo, de 14 dias. O tratamento antifúngico deve continuar durante pelo menos uma semana após serem obtidas duas culturas sanguíneas negativas seguidas e após desaparecimento dos sinais e sintomas clínicos de infecção.
+ Candidíase esofágica: Para o tratamento da candidíase esofágica, Mycamine deve ser administrado até, pelo menos, uma semana após desaparecimento dos sinais e sintomas clínicos.
+ Profilaxia de infecções por Candida: Para a profilaxia de infecção por Candida, Mycamine deve ser administrado até pelo menos uma semana após recuperação dos neutrófilos.
+ Utilização em crianças (incluindo neonatos) e adolescentes &lt; 16 anos de idade
+ Indicação Peso corporal &gt; 40 kg Peso corporal ≤ 40 kg Tratamento de candidíase invasiva Profilaxia de infecção por Candida* Se a resposta do doente não for adequada, por exemplo a melhorar, a dose poderá ser aumentada para 200 mg/dia em doentes que pesem ≤ 40 kg.
+ 100 mg/dia* 50 mg/dia persistência de culturas ou se doentes que pesem &gt; 40 kg ou 4
+ 2 mg/kg/dia* 1 mg/kg/dia a condição clínica não mg/kg/dia em
+ Duração do tratamento Candidíase invasiva: A duração do tratamento de infecção por Candida deve ser, no mínimo, de 14 dias. O tratamento antifúngico deve continuar durante pelo menos uma semana após serem obtidas duas culturas sanguíneas negativas seguidas e após desaparecimento dos sinais e sintomas clínicos de infecção.
+ Profilaxia de infecções por Candida: Para a profilaxia de infecção por Candida, Mycamine deve ser administrado até pelo menos uma semana após recuperação dos neutrófilos. A experiência com Mycamine em doentes com menos de 2 anos de idade é limitada.
+ Género/Raça Não são necessários ajustes na dose baseados no género ou na raça (ver secção 5.2).
+ Utilização em doentes com disfunção hepática Não são necessários ajustes na dose em doentes com insuficiência hepática ligeira ou moderada (ver secção 5.2). Neste momento, não existem dados disponíveis para a utilização do Mycamine em doentes com insuficiência hepática grave e a sua utilização nestes doentes não é recomendada (ver secção 4.4).
+ 3 Utilização em doentes com insuficiência renal Não são necessários ajustes na dose em doentes com insuficiência renal (ver secção 5.2).
+ Após a reconstituição e a diluição, a solução deve ser administrada por perfusão intravenosa durante aproximadamente uma hora. Perfusões mais rápidas podem resultar em reacções mediadas pela histamina mais frequentes. Para instruções de reconstituição, ver secção 6.6.
+ 4.3 Contra-indicações Hipersensibilidade à substância activa ou a qualquer um dos excipientes.
+ 4.4 Advertências e precauções especiais de utilização
+ Efeitos hepáticos: Observou-se em ratos o desenvolvimento de focos de hepatócitos alterados (FHA) e tumores hepatocelulares após um período de tratamento de 3 meses ou mais. O limiar identificado para o desenvolvimento de tumores nos ratos situa-se, aproximadamente, no intervalo da exposição clínica. A relevância desta descoberta para a utilização terapêutica em seres humanos não pode ser excluída. A função hepática deve ser monitorizada cuidadosamente durante o tratamento com micafungina. Para minimizar o risco de regeneração adaptativa e, potencialmente, a subsequente formação de tumores hepáticos, recomenda-se a descontinuição precoce, no caso de uma subida significativa e persistente das ALT/AST. O tratamento com micafungina deve ser efectuado após uma cuidadosa avaliação do risco/benefício, especialmente em doentes com disfunção hepática grave ou doenças hepáticas crónicas, conhecidas por representar condições pré-neoplásicas, como a fibrose hepática avançada, cirrose, hepatite viral, doença hepática neonatal ou deficiências enzimáticas congénitas, ou submetidos a uma terapêutica concomitante com propriedades hepatotóxicas e/ou genotóxicas.
+ O tratamento da micafungina esteve associado a uma incapacidade significativa da função hepática (subida das ALT, AST ou bilirrubina total &gt; 3 vezes o limite normal superior) tanto em voluntários saudáveis como em doentes. Nalguns doentes, foram registados casos de disfunção hepática mais grave, hepatite ou falência hepática, incluindo casos fatais. Os doentes pediátricos &lt; 1 ano de idade podem ser mais propensos a lesões hepáticas (ver secção 4.8).
+ Não existem dados suficientes sobre a farmacocinética da micafungina em doentes com insuficiência hepática grave (ver secção 5.2).
+ Durante a administração de micafungina poderão ocorrer reacções anafilactóides, incluindo choque. Se ocorrerem estas reacções, a perfusão de micafungina deve ser descontinuada e administrado o tratamento adequado.
+ Foram notificados casos raros de hemolise, que incluem hemolise intravascular aguda ou anemia hemolítica, em doentes tratados com micafungina. Durante a terapêutica com micafungina, os doentes que desenvolvam sinais clínicos ou laboratoriais de hemolise, deverão ser monitorizados atentamente quanto a sinais de agravamento destas patologias e avaliados relativamente ao risco/benefício da continuação da terapêutica com micafungina.
+ A micafungina pode causar problemas renais, falha renal e testes de função renal anormais. Os doentes devem ser monitorizados atentamente relativamente a sinais de agravamento da função renal.
+ A incidência de algumas reacções adversas foi mais elevada nos doentes pediátricos do que nos doentes adultos (ver secção 4.8).
+ 4 Este medicamento de uso intravenoso contém lactose. Os doentes com problemas hereditários raros de intolerância à galactose, a deficiência de lactase de Lapp ou má absorção de glucose-galactose não devem utilizar este medicamento.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ A micafungina tem um baixo potencial de interacção com medicamentos metabolizados pelas vias mediadas pelo CYP3A.
+ Foram realizados estudos de interacção medicamentosa em seres humanos saudáveis para avaliar o potencial de interacção entre a micafungina e micofenolato mofetil, ciclosporina, tacrolimus, prednisolona, sirolimus, nifedipina, fluconazol, ritonavir, rifampicina, itraconazol, voriconazol, e anfotericina B. Nestes estudos, não foi observada prova de alteração da farmacocinética da micafungina. Não são necessários ajustes da dose quando estes medicamentos são administrados concomitantemente. A exposição (AUC) do itraconazol, sirolimus e nifedipina foi ligeiramente aumentada (22%,21% e 18%, respectivamente), na presença da micafungina.
+ Doentes a receber sirolimus, nifedipina ou itraconazol combinado com Mycamine devem ser monitorizados em relação à toxicidade do sirolimus, nifedipina ou itraconazol, e a dosagem de sirolimus, nifedipina ou itraconazol deverá ser reduzida, se necessário.
+ 4.6 Gravidez e aleitamento Não existem dados relativos à utilização de micafungina em mulheres grávidas. Nos estudos em animais, a micafungina atravessou a barreira placentária e foi observada toxicidade reprodutiva (ver secção 5.3). Desconhece-se o risco potencial para o ser humano. Mycamine não deve ser utilizado durante a gravidez, a menos que tal seja claramente necessário.
+ Não se sabe se a micafungina é excretada no leite humano. Os estudos em animais revelaram excreção de micafungina no leite humano. A decisão de continuar/descontinuar o aleitamento ou continuar/descontinuar a terapêutica com Mycamine deve ser tomada, tendo em conta o benefício do aleitamento para o bebé e o benefício da terapêutica com Mycamine para a mãe.
+ Foi observada toxicidade testicular em estudos realizados em animais (ver secção 5.3). A micafungina pode ter o potencial de afectar a fertilidade masculina nos humanos.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas. No entanto, podem ocorrer reacções adversas que podem influenciar a capacidade de conduzir e utilizar máquinas (ver secção 4.8).
+ 4.8 Efeitos indesejáveis O perfil de segurança de micafungina é baseado em 3.028 doentes tratados com micafungina em ensaios clínicos: 2.002 doentes com infecções por Candida (incluindo candidemia, cadidíase invasiva e candidíase esofágica),375 com aspergilose invasiva (maioritariamente infecções refractárias) e 651 para a profilaxia de infecções fúngicas sistémicas.
+ Os doentes tratados com micafungina nos estudos clínicos representam uma população com um estado de saúde crítico e que requerem múltiplos medicamentos, incluindo quimioterapia antineoplásica, potentes imunossupressores sistémicos e antibióticos de largo espectro. Estes doentes tinham uma grande variedade de patologias subjacentes complexas, tais como malignidades hematológicas e infecção por VIH, ou eram receptores de transplante e/ou tratados nos cuidados intensivos. Os doentes tratados profilaticamente com micafungina foram aqueles que, tendo sido submetidos a transplante hematopoiético de células estaminais (HSCT), apresentavam alto risco de contraírem infecções fúngicas.
+ 5 Um total de 32,2% dos doentes sofreu reacções adversas à medicação. As reacções adversas mais frequentemente notificadas foram náuseas (2,8%), fosfatase alcalina sanguínea elevada (2,7%), flebite (2,5%, maioritariamente em doentes infectados com VIH e com cateteres periféricos), vómitos (2,5%) e aspartato aminotransferase elevada (2,3%). Não foram observadas diferenças clínicas significativas quando a informação de segurança foi analisada por género ou raça.
+ Na tabela seguinte, as reacções adversas encontram-se listadas pelo sistema de classificação de órgãos e pelo termo MedDRA adequado. Dentro de cada grupo de frequência, os efeitos indesejáveis encontram-se apresentados por ordem de gravidade decrescente.
+ Classe de Frequentes Pouco frequentes Raros Desconhecido sistemas de
+ ≥
+ 1/100, &lt; 1/10 ≥ 1/1.000, &lt; 1/100
+ ≥
+ 1/10.000, (a frequência
+ órgãos
+ &lt; 1/1.000
+ não pode ser calculada a partir dos dados disponíveis)
+ Doenças do leucopenia,
+ pancitopenia,
+ anemia
+ sangue e do
+ neutropenia, anemia
+ trombocitopenia,
+ hemolítica,
+ sistema linfático
+ eosinofilia,
+ hemolise (ver
+ Doenças do sistema imunitário Doenças endócrinas
+ hipoalbuminemia reacção anafiláctica/anafilactóide (ver secção 4.4), hipersensibilidade hiperhidrose
+ secção 4.4)
+ Doenças do hipocalemia,
+ hiponatremia,
+ metabolismo e
+ hipomagnesemia,
+ hipercaliemia,
+ da nutrição Perturbações do foro psiquiátrico
+ hipocalcemia
+ hipofosfatemia, anorexia insónia, ansiedade, confusão
+ Doenças do sistema nervoso Cardiopatias
+ cefaleia
+ sonolência, tremores, tonturas, disgeusia taquicardia, palpitações, bradicardia
+ Vasculopatias Doenças respiratórias, torácicas e do mediastino
+ flebite
+ hipotensão, hipertensão, rubor dispneia
+ choque
+ Doenças gastrointestinais
+ náuseas, vómitos, diarreia, dor abdominal
+ dispepsia, obstipação
+ 6 Classe de
+ Frequentes Pouco frequentes Raros Desconhecido sistemas de
+ ≥
+ 1/100, &lt; 1/10 ≥ 1/1.000, &lt; 1/100
+ ≥
+ 1/10.000, (a frequência
+ órgãos
+ &lt; 1/1.000
+ não pode ser calculada a partir dos dados disponíveis)
+ Afecções fosfatase alcalina
+ falência hepática (ver
+ lesão
+ hepatobiliares
+ sanguínea elevada,
+ secção 4.4), gama-
+ hepatocelular,
+ aspartato aminotransferase elevada, alanina aminotransferase elevada, bilirrubina sanguínea elevada (incluindo, hiperbilirubinemia), teste de função hepática anormal
+ glutamiltransferase elevada, icterícia, colestase, hepatomegalia, hepatite
+ incluindo casos fatais (ver secção 4.4)
+ Afecções dos tecidos cutâneos e subcutâneas
+ exantema
+ urticária, prurido, eritema
+ Doenças renais e creatinina sanguínea
+ insuficiência
+ urinárias
+ elevada, ureia
+ renal (ver
+ Perturbações gerais e alterações no local de administração Exames complementares de diagnóstico
+ pirexia, calafrios
+ sanguínea elevada, insuficiência renal agravada trombose no local da administração, inflamação no local da perfusão, dor no local da administração, edema periférico lactato desidrogenase sanguínea aumentado
+ secção 4.4), falência renal aguda
+ Sintomas do tipo alérgico possíveis Sintomas, como exantema e calafrios, foram reportados em ensaios clínicos. A maioria foi de intensidade ligeira a moderada e não limitou o tratamento. Reacções graves (por exemplo, reacção anafilactóide: 0,2%, 6/3.028) foram pouco frequentemente reportadas durante a terapêutica com micafungina e apenas em doentes com patologias subjacentes graves (por exemplo, SIDA em estado avançado, neoplasias) que requeiram múltipla medicação concomitante.
+ Reacções adversas hepáticas A incidência total de reacções adversas hepáticas, em doentes tratados com micafungina em ensaios clínicos, foi de 8,6% (260/3.028). A maioria das reacções adversas hepáticas foi ligeira e moderada. As reacções mais frequentes foram aumentos na fosfatase alcalina (FA) (2,7%), AST (2,3%), ALT (2,0%), bilirrubina sanguínea (1,6%) e teste de função hepática anormal (1,5%). Poucos doentes (1,1%; 0,4% graves) descontinuaram o tratamento devido a um evento hepático. Casos de disfunção hepática grave ocorreram pouco frequentemente (ver secção 4.4).
+ Reacções no local da administração Nenhuma reacção adversa no local da administração limitou o tratamento.
+ 7 Doentes pediátricos A incidência de algumas reacções adversas (descritas na seguinte tabela) foi mais elevada em doentes pediátricos do que em doentes adultos. Adicionalmente, os doentes pediátricos &lt; 1 ano de idade tiveram duas vezes mais frequentemente uma subida nas ALT, AST e FA do que os doentes pediátricos mais velhos (ver secção 4.4). A razão mais provável para estas diferenças foram as diferentes condições subjacentes, comparativamente aos adultos ou doentes pediátricos mais velhos, observadas nos ensaios clínicos. No início do estudo, a proporção de doentes pediátricos com neutropenia era muito superior à de doentes adultos (40,2% de crianças e 7,3% de adultos, respectivamente), assim como com HSCT alogénico (29,4% e 13,4%, respectivamente) e malignidade hematológica (29,1% e 8,7%, respectivamente).
+ Doenças do sangue e do sistema linfático trombocitopenia frequentes
+ Cardiopatias taquicardia pouco frequentes
+ Vasculopatias hipertensão, hipotensão frequentes
+ Afecções hepatobiliares hiperbilirrubinemia, hepatomegalia frequentes
+ Doenças renais e urinárias insuficiência renal aguda, ureia sanguínea elevada frequentes
+ 4.9 Sobredosagem Foram administradas, em ensaios clínicos, doses diárias repetidas até 8 mg/kg (dose máxima total 896 mg) em doentes adultos sem ser reportada qualquer toxicidade que limitasse a dose. Foi reportado um caso de dosagem errada de 7,8 mg/kg/dia, durante 7 dias, num doente recém-nascido. Não foram associados nenhumas reacções adversas a esta dosagem elevada. Não há experiência de sobredosagens de micafungina. Em caso de sobredosagem, devem ser administradas medidas de apoio gerais e um tratamento sintomático. A micafungina liga-se fortemente às proteínas e não é dialisável.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Outros antimicóticos para utilização sistémica, código ATC: J02AX05
+ Modo de acção A micafungina inibe de forma não competitiva a síntese do 1, 3-β-D glucano que é um componente essencial da parede dos fungos. O 1, 3-β-D-glucano não se encontra presente em células de mamíferos. A micafungina demonstra actividade fungicida contra a maioria das espécies de Candida e proeminentemente inibe activamente o crescimento da hifa das espécies Aspergillus.
+ Relação farmacocinética/farmacodinâmica No modelo de aspergilose pulmonar no ratinho, foi encontrada uma interacção farmacodinâmica sinérgica ou aditiva entre a micafungina e anfotericina B (imunossupressão com hidrocortisona, infecção intranasal com Aspergillus fumigatus).
+ Mecanismo(s) de resistência 8 Como acontece com todos os agentes antimicrobianos, foram registados casos de reduzida susceptibilidade e resistência e não pode ser excluída uma resistência cruzada com outras equinocandinas. Uma reduzida susceptibilidade às equinocandinas esteve associada a mutações na codificação do gene Fks1 para uma importante subunidade da síntese de glucano.
+ Breakpoints Os testes de susceptibilidade foram realizados com alterações de acordo com os métodos do Clinical and Laboratory Standards Institute (CLSI) M27-A2 (espécies Candida) e M3-A (espécies Aspergillus), respectivamente. Até à data, ainda não haviam sido estabelecidas técnicas padronizadas de testes de susceptibilidade a inibidores da síntese do 1, 3-β-D-glucano e os resultados dos testes de susceptibilidade não se correlacionam necessariamente com o resultado clínico.
+ Apesar de não terem sido estabelecidos quaisquer breakpoints de concentração mínima inibitória (MIC-Minimum Inhibitory Concentration) para as equinocandinas, uma MIC de ≤ 2 mg/l abrange &gt; 99% de todos os isolados clínicos de Candida spp. sem bisseccionar qualquer grupo de espécie e representa uma concentração que é facilmente mantida durante o intervalo da dosagem. Neste intervalo de MIC, as infecções causadas por Candida spp. respondem normalmente à terapêutica.
+ A prevalência da resistência pode variar geograficamente e com tempo para as espécies seleccionadas, e é desejável ter informações locais sobre a resistência, especialmente quando se trata de infecções graves. Esta informação é apenas um guia para as probabilidades de os microrganismos serem susceptíveis ou não à micafungina. Onde aplicável, a informação sobre o intervalo europeu da resistência adquirida para microrganismos individuais está indicada entre parêntesis.
+ Espécies frequentemente susceptíveis[ intervalos de MIC na Europa, mg/l] Candida albicans[ 0, 007-0,25] Candida glabrata[ 0, 007-0,12] Candida tropicalis[ 0, 007-0,12] Candida krusei[ 0, 015-0,12] Candida kefyr[ 0, 03-0,06] Candida parapsilosis[ 0, 12-2] Candida guilliermondii[ 0,5] Candida lusitaniae[ 0, 12-0,25] Candida spp. [ 0, 015-0,5] (incluindo C. famata, C. dubliniensis, C. lipolytica, C. pelliculosa, C. rugosa, C. stellatoidea e C. zeylanoides)
+ Aspergillus fumigatus Aspergillus flavus Aspergillus niger Aspergillus terreus Aspergillus nidulans Aspergillus versicolor
+ A forma micelial do fungo dimórfico (por exemplo, Histoplasma capsulatum, Blastomyces dermatitidis, Coccidioides immitis)
+ Espécies para as quais a resistência adquirida pode ser um problema Nenhuma
+ Organismos resistentes de forma inerente Cryptococcus spp. Pseudallescheria spp. Scedosporium spp. Fusarium spp. Trichosporon spp.
+ 9 Zygomycetes spp.
+ Informação sobre estudos clínicos Candidemia e candidíase invasiva: a micafungina (100 mg/dia ou 2 mg/kg/dia) foi tão eficaz e melhor tolerada do que a anfotericina B lipossómica (3 mg/kg) como tratamento de primeira linha da candidemia e candidíase invasiva num estudo aleatório, duplamente cego, multinacional de não-inferioridade. A micafungina e a anfotericina B lipossómica foram administradas durante um período médio de 15 dias (intervalo de 4 a 42 dias em adultos; 12 a 42 dias em crianças). A não-inferioridade foi provada em doentes adultos, e foram demonstrados resultados similares nas subpopulações pediátricas (incluindo neonatos e bebés prematuros). Os achados de eficácia foram consistentes, independentemente da espécie de Candida causadora da infecção, do local primário da infecção e do estado de neutropenia (ver Tabela). Durante o tratamento, a micafungina demonstrou uma menor diminuição média no pico da taxa de filtração glomerular estimada (p &lt; 0,001) e uma menor incidência de reacções relacionadas com a perfusão (p=0,001) do que a anfotericina B lipossómica.
+ Sucesso Global do Tratamento por Protocolo, Estudo de Candidíase Invasiva
+ Doentes Adultos Micafungina N n (%)
+ Anfotericina B lipossómica N n (%)
+ % Diferença[ 95% IC]
+ Sucesso Global do Tratamento 202 181 (89,6) 190 170 (89,5) 0,1[-5,9; 6,1] † Sucesso Global do Tratamento pelo Estado de Neutropenia
+ Neutropenia na linha de base 24 18 (75,0) 15 12 (80,0) 0,7[-5,3; 6,7] ‡ Sem neutropenia na linha de base 178 163 (91,6) 175 158 (90,3) Doentes Pediátricos
+ Sucesso Global do Tratamento 48 35 (72,9) 50 38 (76,0) -2,7[-17,3; 11,9] §
+ &lt; 2 anos
+ 26 21 (80,8) 31 24 (77,4) 6 (66,7) Bebés prematuros 10 7 (70,0) 9 4 (80) Neonatos (0 dias a &lt; 4 semanas) 7 7 (100) 5 2 a 15 anos 22 14 (63,6) 19 14 (73,7) Adultos e Crianças Combinados, Sucesso Global do Tratamento da espécie Candida
+ Candida albicans 102 91 (89,2) 98 89 (90,8) Espécies não-albicans: todas 151 133 (88,1) 140 123 (87,9) 49 (96,1) C. tropicalis 59 54 (91,5) 51 C. parapsilosis 48 41 (85,4) 44 35 (79,5) C. glabrata 23 19 (82,6) 17 14 (82,4) C. krusei 9 8 (88,9) 7 6 (85,7) † Taxa de micafungina menos a taxa de anfotericina B lipossómica, intervalo de confiança de dois lados de 95% para a diferença na taxa de sucesso global, baseada na aproximação normal de grandes amostras. ‡ Ajustado para o estado de neutropenia; objectivo primário. § A população pediátrica não foi dimensionada de forma a testar a não-inferioridade. ¶ A eficácia cínica também foi observada (&lt; 5 doentes) nas seguintes espécies Candida: C. guilliermondii, C. famata, C. lusitaniae, C. utilis, C. inconspicua e C. dubliniensis.
+ Candidíase Esofágica: Num estudo aleatório e duplamente cego, que comparou a micafungina com o fluconazol, no tratamento de primeira linha de candidíase esofágica,518 doentes receberam, pelo menos, uma dose do medicamento em estudo. A duração média do tratamento foi de 14 dias e a dose diária média foi de 150 mg para a micafungina (N=260) e 200 mg para o fluconazol (N=258). No fim do tratamento, foi observado um grau endoscópico de 0 (cura endoscópica) em 87,7% (228/260) e 88,0% (227/258) dos doentes nos grupos da micafungina e do fluconazol, respectivamente (IC 95% para a diferença: [-5,9%; 5,3%]). O limite inferior do IC 95% foi acima da margem de não-inferioridade predefinida de-10%, provando a não-inferioridade. A natureza e a incidência de reacções adversas foram similares entre os dois grupos de tratamento.
+ Profilaxia: A micafungina foi mais eficaz do que o fluconazol na prevenção de infecções fúngicas invasivas numa população de doentes com elevado risco de desenvolver uma infecção fúngica
+ 10 sistémica (doentes submetidos a transplante hematopoiético de células estaminais[ HSCT], num estudo aleatório, duplamente cego e multicêntrico). O sucesso do tratamento foi definido como a ausência de uma infecção fúngica sistémica provada, provável ou suspeita durante o tratamento e até ao final do tratamento e a ausência de uma infecção fúngica sistémica provada ou provável durante o tratamento e até ao fim do estudo. A maioria dos doentes (97%, N=882) tinha neutropenia na linha de base (&lt; 200 neutrófilos/µL). A neutropenia persistiu por um período médio de 13 dias. Houve uma dose diária fixa de 50 mg (1,0 mg/kg) para a micafungina e de 400 mg (8 mg/kg) para o fluconazol. A duração média do tratamento foi de 19 dias para a micafungina e de 18 dias para o fluconazol na população adulta (N=798), e de 23 dias para ambos os grupos de tratamento na população pediátrica (N=84). A taxa de sucesso do tratamento foi estatística e significativamente superior na micafungina do que no fluconazol (1,6% versus 2,4% de infecções surgidas). O surgimento de infecções por Aspergillus foi observado em 1 versus 7 doentes e o surgimento de infecções comprovadas ou prováveis por Candida foi observado em 4 versus 2 doentes, nos grupos da micafungina e do fluconazol, respectivamente. As outras infecções que surgiram foram causadas por Fusarium (1 e 2 doentes, respectivamente) e Zygomycetes (1 e 0 doentes, respectivamente). A natureza e a incidência de reacções adversas foram similares entre os dois grupos de tratamento.
+ 5.2 Propriedades farmacocinéticas Absorção A micafungina é um medicamento administrado por via intravenosa. A farmacocinética é linear no intervalo de dose diária de 12,5 mg a 200 mg e 3 mg/kg a 8 mg/kg. Não existem provas de acumulação sistémica com a administração repetida e o estado estacionário é geralmente atingido entre 4 a 5 dias.
+ Distribuição Após administração intravenosa, as concentrações de micafungina mostram um declínio biexponencial. O medicamento é rapidamente distribuído pelos tecidos. Na circulação sistémica, a micafungina liga-se fortemente às proteínas plasmáticas (&gt; 99%), maioritariamente à albumina. A ligação à albumina é independente da concentração de micafungina (10-100 µg/ml). O volume de distribuição no estado estacionário (Vss) foi aproximadamente de 18-19 litros.
+ Metabolismo A micafungina inalterada é o principal componente na circulação sistémica. Foi demonstrado que a micafungina é metabolizada em vários componentes; destes, foram detectados na circulação sistémica, o M-1 (forma catecol), o M-2 (forma metoxi de M-1) e o M-5 (hidroxilação na cadeia lateral) da micafungina. A exposição a estes metabolitos é baixa e os metabolitos não contribuem para a eficácia global da micafungina. Embora a micafungina seja um substrato para o CYP3A in vitro, a hidroxilação pelo CYP3A não é uma importante via de metabolização da micafungina in vivo.
+ Eliminação e excreção O tempo médio de semivida terminal é aproximadamente de 10-17 horas e mantém-se consistente em doses até 8 mg/kg e após administrações únicas e repetidas. A depuração total em sujeitos saudáveis e doentes adultos foi de 0, 15-0,3 ml/min/kg e é independente da dose após administração única e repetida. Após uma dose única intravenosa de 14C-micafungina (25 mg) em voluntários saudáveis, 11,6% da radioactividade foi recuperada na urina e 71,0% nas fezes, ao longo de 28 dias. Estes dados indicam que a eliminação da micafungina é maioritariamente não renal. Foram detectados apenas vestígios dos metabolitos M-1 e M-2 no plasma, e o metabolito M-5, o mais abundante, corresponde a um total de 6,5% relativamente ao composto que lhe deu origem.
+ Populações especiais 11 Doentes pediátricos: Em doentes pediátricos, os valores da AUC foram proporcionais à dosagem num intervalo de 0, 5-4 mg/kg. A depuração foi influenciada pela idade, com os valores médios de depuração em crianças mais novas (2-11 anos) aproximadamente 1,3 vezes superiores aos de crianças mais velhas (12-17 anos). As crianças mais velhas tiveram valores de depuração semelhantes aos apurados em doentes adultos. A depuração média nos bebés prematuros (idade gestacional aproximada de 26 semanas) é aproximadamente 5 vezes superior à dos adultos.
+ Idosos: Quando administrada uma dose de 50 mg, como perfusão única, durante 1 hora, a farmacocinética da micafungina no idoso (idades 66-78 anos) foi semelhante à dos indivíduos jovens (20-24 anos). Não é necessário um ajuste da dose nos idosos.
+ Doentes com disfunção hepática: Num estudo realizado com doentes com insuficiência hepática moderada (Score 7-9 de “ Child-Pugh ”), (n=8), a farmacocinética da micafungina não diferiu significativamente da farmacocinética em sujeitos saudáveis (n=8). Por conseguinte, não são necessários ajustes na dose para doentes com insuficiência hepática ligeira a moderada. A farmacocinética da micafungina não foi estudada em doentes com insuficiência hepática grave.
+ Doentes com insuficiência renal: A insuficiência renal grave (Taxa de Filtração Glomerular[ TFG] &lt; 30 ml/min) não influencia significativamente a farmacocinética da micafungina. Não é necessário ajustar a dose em doentes com insuficiência renal.
+ Género/Raça: O género e a raça (caucasiana, negra e oriental) não influenciam significativamente os parâmetros farmacocinéticos de micafungina. Não é necessário ajustar a dose relativamente ao género ou raça.
+ 5.3 Dados de segurança pré-clínica O desenvolvimento de focos de hepatócitos alterados (FAH) e tumores hepatocelulares nos ratos esteve dependente tanto da dose como da duração do tratamento com a micafungina. Os FAH registados após um tratamento de 13 semanas ou mais, persistiram depois de um período de retirada de 13 semanas e desenvolveram-se em tumores hepatocelulares, após um período sem tratamento, que abrangeu a esperança de vida dos ratos. Não se realizaram estudos padrão de carcinogenicidade, mas o desenvolvimento dos FAH foi avaliado nos ratos fêmeas, decorridos até 20 e 18 meses após a cessação de um tratamento de 3 e 6 meses, respectivamente. Em ambos os estudos, foi observado um aumento das incidências/números dos tumores hepatocelulares após o período sem tratamento de 18 e 20 meses, no grupo da dose mais elevada de 32 mg/kg/dia, assim como no grupo de dose mais baixa (apesar de não ser estatisticamente significativo). A exposição plasmática, no suposto limiar para o desenvolvimento de tumores nos ratos, (i. e., a dose onde não foram detectados quaisquer FAH ou tumores hepáticos) situou-se no mesmo intervalo que a exposição clínica. Desconhece-se a relevância do potencial hepatocarcinogénico da micafungina para a utilização terapêutica em seres humanos.
+ A toxicologia da micafungina, após uma administração intravenosa repetida em ratos e/ou cães, demonstrou respostas adversas no fígado, no tracto urinário, nos glóbulos vermelhos e nos órgãos reprodutores masculinos. Os níveis de exposição, em que tais efeitos não ocorreram (NOAEL), situaram-se no mesmo intervalo, comparativamente aos níveis da exposição clínica, ou num intervalo inferior. Consequentemente, pode ser esperada a ocorrência destas respostas adversas com o uso clínico da micafungina em humanos.
+ Em testes padrão de segurança farmacológica, os efeitos cardiovasculares e de libertação de histaminas da micafungina em doses elevadas foram evidentes e foram aparentemente dependentes do tempo acima do limite superior. O prolongamento do tempo de perfusão, reduzindo o pico de concentração plasmática, reduziu aparentemente estes efeitos.
+ Nos estudos realizados sobre a toxicidade das doses repetidas nos ratos, os sinais de hepatotoxicidade consistiram num aumento das enzimas hepáticas e em alterações degenerativas dos hepatócitos, acompanhadas por sinais de regeneração compensatória. No cão, os efeitos hepáticos consistiram num
+ 12 aumento do peso e hipertrofia centrolobular; não tendo sido observadas quaisquer alterações degenerativas dos hepatócitos.
+ Nos ratos, foi observada a vacuolação do epitélio pélvico renal, assim como a vacuolação e espessamento (hiperplasia) do epitélio da bexiga, em estudos de 26 semanas com doses repetidas. Num segundo estudo de 26 semanas, a hiperplasia das células de transição na bexiga tiveram uma incidência muito mais baixa. Estes achados mostraram reversibilidade durante um período de seguimento de 18 meses. A duração da administração da micafungina, nestes estudos com ratos (6 meses), excede a duração habitual da administração da micafungina em doentes (ver secção 5.1).
+ A micafungina hemolisou o sangue do coelho, in vitro. Nos ratos, foram observados sinais de anemia hemolítica após uma injecção repetida em bólus de micafungina. Nos estudos realizados em cães com doses repetidas, não foi observada anemia hemolítica.
+ Nos estudos da toxicidade reprodutiva e do desenvolvimento, foi registado um peso reduzido das crias, à nascença. Nos coelhos, ocorreu um aborto com 32 mg/kg/dia. Os ratos machos, tratados por via intravenosa durante 9 semanas, demonstraram vacuolação das células do epitélio do ducto do epidídimo, aumento de peso do epidídimo e um número reduzido de células espermáticas (em 15%). No entanto, em estudos de 13 e 26 semanas, estas alterações não ocorreram. Nos cães adultos, observou-se atrofia dos túbulos seminíferos com vacuolação do epitélio seminífero e diminuição do esperma nos epidídimos, após um tratamento prolongado (39 semanas), mas não após 13 semanas de tratamento. Nos cães jovens, o tratamento de 39 semanas, dependendo da dose, não induziu lesões nos testículos e nos epidídimos, no fim do tratamento, mas, após um período sem tratamento de 13 semanas, foi registado um aumento dependente da dose destas lesões nos grupos de recuperação tratados. Não foi observada qualquer limitação na fertilidade feminina ou masculina, nos estudos de fertilidade e de desenvolvimento embrionário precoce nos ratos.
+ A micafungina não foi mutagénica nem clastogénica, quando avaliada numa bateria de testes padrão in vivo e in vitro, incluindo um estudo in vitro sobre a síntese inesperada do ADN, utilizando hepatócitos de ratos.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1. Lista dos excipientes Lactose mono-hidratada Ácido cítrico anidro (para ajustar o pH) Hidróxido de sódio (para ajustar o pH)
+ 6.2 Incompatibilidades Este medicamento não deve ser misturado ou co-administrado com outros medicamentos, excepto os mencionados na secção 6.6.
+ 6.3 Prazo de validade Frasco para injectáveis selado: 3 anos. Concentrado reconstituído no frasco para injectáveis: A estabilidade química e física foi comprovada para até 48 horas, a 25ºC, quando reconstituído com cloreto de sódio a 9 mg/ml (0,9%) de solução para perfusão ou glucose a 50 mg/ml (5%) de solução para perfusão.
+ Solução diluída para perfusão: 13 A estabilidade química e física foi comprovada para 96 horas, a 25ºC, quando protegida da luz e quando diluída com cloreto de sódio a 9 mg/ml (0,9%) de solução para perfusão ou glucose a 50 mg/ml (5%) de solução para perfusão.
+ Mycamine não contém conservantes. Do ponto de vista microbiológico, as soluções reconstituídas e diluídas devem ser utilizadas de imediato. Se não forem utilizadas de imediato, os tempos de estabilidade e as condições prévias à utilização são da responsabilidade do utilizador e não deverão ser mais longas que 24 horas de 2 a 8ºC, a menos que a reconstituição e diluição tenham sido realizadas em condições de assepsia controladas e validadas.
+ 6.4 Precauções especiais de conservação
+ Frascos para injectáveis selados: Este medicamento não requer condições de armazenamento especiais.
+ Condições de conservação do medicamento reconstituído e diluído, ver secção 6.3.
+ 6.5 Natureza e conteúdo do recipiente
+ Frasco para injectáveis de 10 ml, de vidro do Tipo I, com uma rolha vedante de borracha de isobutileno-isopropeno (Teflon-laminado) e tampa exterior. O frasco para injectáveis está envolvido numa película protectora de raios UV.
+ Fornecido em embalagens de 1 frasco para injectáveis.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ Qualquer produto não utilizado ou resíduo deve ser eliminado de acordo com os requisitos locais.
+ Mycamine não deve ser misturado ou co-administrado com outros medicamentos, excepto aqueles mencionados abaixo. Utilizando técnicas de assepsia e à temperatura ambiente, Mycamine é reconstituído e diluído da seguinte forma:
+ 1. A tampa de plástico deve ser removida do frasco e a rolha vedante desinfectada com álcool. 2. Cinco ml de cloreto de sódio a 9 mg/ml (0,9%) de solução para perfusão ou glucose a 50 mg/ml (5%) de solução para perfusão (tirado de uma garrafa/saco de 100 ml); a solução deverá ser asséptica e lentamente injectada em cada frasco para injectáveis, ao longo do lado da parede interna. Embora o concentrado faça espuma, deverão ser feitos todos os esforços para minimizar a quantidade de espuma criada. Deverão ser reconstituídos um número suficiente de frascos de Mycamine para obter a dose desejada (ver Tabela abaixo). 3. O frasco para injectáveis deve ser girado suavemente. NÃO AGITAR. O pó dissolver-se-á completamente. O concentrado deve ser imediatamente utilizado. O frasco para injectáveis é para uso único. Assim, por favor, elimine imediatamente qualquer concentrado reconstituído e não utilizado. 4. Todo o concentrado reconstituído deve ser retirado de cada frasco para injectáveis e reposto na garrafa/saco de perfusão de onde foi inicialmente tirado. A perfusão com a solução diluída deve ser utilizada de imediato. A estabilidade química e física de utilização foi comprovada para 96 horas, a 25ºC, quando protegida da luz e diluída da forma acima descrita. 5. A garrafa/saco de perfusão deve ser suavemente invertida(o) de maneira a dispersar a solução diluída, mas NÃO agitar de forma a evitar a formação de espuma. Não utilizar, se a solução se encontrar turva ou precipitada. 6. A garrafa/saco de perfusão, que contém a solução com a perfusão diluída, deve ser colocada(o) num saco opaco que se possa fechar de forma a proteger da luz.
+ Preparação da solução para perfusão
+ 14
+ Dose (mg) Frasco de Mycamine utilizado (mg/frasco)
+ Volume do cloreto de sódio (0,9%) ou glucose (5%) a ser adicionado por frasco
+ Volume (concentração) de pó reconstituído
+ Perfusão padrão (adicionada até 100 ml) Concentração final
+ 50 100 150 200 1 x 50 1 x 100 1 x 100+ 1 x 50 2 x 100
+ 5 ml 5 ml 5 ml 5 ml
+ aprox. 5 ml (10 mg/ml) aprox. 5 ml (20 mg/ml) aprox. 10 ml aprox. 10 ml
+ 0,5 mg/ml 1,0 mg/ml 1,5 mg/ml 2,0 mg/ml Após a reconstituição e a diluição, a solução deve ser administrada por perfusão intravenosa durante uma hora, aproximadamente.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Astellas Pharma Europe B. V. Elisabethhof 19 2353 EW Leiderdorp Países Baixos
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/08/448/001 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 25/04/2008 10. DATA DA REVISÃO DO TEXTO Informação pormenorizada sobre este medicamento está disponível na Internet, no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu/.
+ 15 1. NOME DO MEDICAMENTO
+ Mycamine 100 mg pó para solução para perfusão
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada frasco para injectáveis contém 100 mg de micafungina (sódica). Após a reconstituição, cada ml contém 20 mg de micafungina (sódica).
+ Excipientes: Cada frasco para injectáveis de 100 mg contém 200 mg de lactose. Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Pó para solução para perfusão. Pó compacto de cor branca ..
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Mycamine é indicado em: Adultos, adolescentes ≥ 16 anos de idade e idosos:
+ -Tratamento de candidíase invasiva.
+ -Tratamento de candidíase esofágica em doentes para quem a terapêutica intravenosa seja
+ apropriada.
+ -Profilaxia de infecção por Candida em doentes submetidos a transplante hematopoiético de
+ células estaminais ou doentes onde é esperada neutropenia (contagem absoluta de neutrófilos &lt; 500 células/µl) por 10 ou mais dias.
+ Crianças (incluindo recém nascidos) e adolescentes &lt; 16 anos de idade:
+ -Tratamento de candidíase invasiva.
+ -Profilaxia de infecção por Candida em doentes submetidos a transplante hematopoiético de
+ células estaminais ou doentes onde é esperada neutropenia (contagem absoluta de neutrófilos &lt; 500 células/µl) por 10 ou mais dias.
+ A decisão de usar Mycamine deve ter em consideração um potencial risco de desenvolvimento de tumores hepáticos (ver secção 4.4). Por conseguinte, Mycamine só deve ser usado se outros antifúngicos não forem adequados.
+ 4.2 Posologia e modo de administração Deve ter-se em consideração a directiva oficial/nacional sobre o uso adequado de agentes antifúngicos.
+ O tratamento com Mycamine deve ser iniciado por um médico com experiência no tratamento de infecções fúngicas.
+ Antes da terapêutica devem ser obtidos espécimes para cultura de fungos e outros testes laboratoriais relevantes (incluindo histopatologia) para isolar e identificar o(s) organismo(s) em causa. A terapêutica pode ser instituída antes de serem conhecidos os resultados das culturas e de outros testes
+ 16 laboratoriais. No entanto, assim que estes resultados estejam disponíveis, a terapia antifúngica deverá ser ajustada de acordo com os mesmos.
+ O regime de dosagem de Mycamine depende do peso corporal do doente, como indicado nas seguintes tabelas:
+ Utilização em adultos, adolescentes ≥ 16 anos de idade e idosos
+ Indicação Peso corporal &gt; 40 kg Peso corporal ≤ 40 kg Tratamento de candidíase invasiva Tratamento de candidíase esofágica Profilaxia de infecção por Candida
+ 100 mg/dia* 150 mg/dia 50 mg/dia
+ 2 mg/kg/dia* 3 mg/kg/dia 1 mg/kg/dia * Se a resposta do doente não for adequada, por exemplo a persistência de culturas ou se a condição clínica não melhorar, a dose poderá ser aumentada para 200 mg/dia em doentes que pesem &gt; 40 kg ou 4 mg/kg/dia em doentes que pesem ≤ 40 kg.
+ Duração do tratamento Candidíase invasiva: A duração do tratamento de infecção por Candida deve ser, no mínimo, de 14 dias. O tratamento antifúngico deve continuar durante pelo menos uma semana após serem obtidas duas culturas sanguíneas negativas seguidas e após desaparecimento dos sinais e sintomas clínicos de infecção.
+ Candidíase esofágica: Para o tratamento da candidíase esofágica, Mycamine deve ser administrado até, pelo menos, uma semana após desaparecimento dos sinais e sintomas clínicos.
+ Profilaxia de infecções por Candida: Para a profilaxia de infecção por Candida, Mycamine deve ser administrado até pelo menos uma semana após recuperação dos neutrófilos.
+ Utilização em crianças (incluindo neonatos) e adolescentes &lt; 16 anos de idade
+ Indicação Peso corporal &gt; 40 kg Peso corporal ≤ 40 kg Tratamento de candidíase invasiva Profilaxia de infecção por Candida
+ 100 mg/dia* 50 mg/dia 2 mg/kg/dia* 1 mg/kg/dia * Se a resposta do doente não for adequada, por exemplo a persistência de culturas ou se a condição clínica não melhorar, a dose poderá ser aumentada para 200 mg/dia em doentes que pesem &gt; 40 kg ou 4 mg/kg/dia em doentes que pesem ≤ 40 kg.
+ Duração do tratamento Candidíase invasiva: A duração do tratamento de infecção por Candida deve ser, no mínimo, de 14 dias. O tratamento antifúngico deve continuar durante pelo menos uma semana após serem obtidas duas culturas sanguíneas negativas seguidas e após desaparecimento dos sinais e sintomas clínicos de infecção.
+ Profilaxia de infecções por Candida: Para a profilaxia de infecção por Candida, Mycamine deve ser administrado até pelo menos uma semana após recuperação dos neutrófilos. A experiência com Mycamine em doentes com menos de 2 anos de idade é limitada.
+ Género/Raça Não são necessários ajustes na dose baseados no género ou na raça (ver secção 5.2).
+ Utilização em doentes com disfunção hepática Não são necessários ajustes na dose em doentes com insuficiência hepática ligeira ou moderada (ver secção 5.2). Neste momento, não existem dados disponíveis para a utilização do Mycamine em doentes com insuficiência hepática grave e a sua utilização nestes doentes não é recomendada (ver secção 4.4).
+ 17 Utilização em doentes com insuficiência renal Não são necessários ajustes na dose em doentes com insuficiência renal (ver secção 5.2).
+ Após a reconstituição e a diluição, a solução deve ser administrada por perfusão intravenosa durante aproximadamente uma hora. Perfusões mais rápidas podem resultar em reacções mediadas pela histamina mais frequentes. Para instruções de reconstituição, ver secção 6.6.
+ 4.3 Contra-indicações Hipersensibilidade à substância activa ou a qualquer um dos excipientes.
+ 4.4 Advertências e precauções especiais de utilização
+ Efeitos hepáticos: Observou-se em ratos o desenvolvimento de focos de hepatócitos alterados (FHA) e tumores hepatocelulares após um período de tratamento de 3 meses ou mais. O limiar identificado para o desenvolvimento de tumores nos ratos situa-se, aproximadamente, no intervalo da exposição clínica. A relevância desta descoberta para a utilização terapêutica em seres humanos não pode ser excluída. A função hepática deve ser monitorizada cuidadosamente durante o tratamento com micafungina. Para minimizar o risco de regeneração adaptativa e, potencialmente, a subsequente formação de tumores hepáticos, recomenda-se a descontinuição precoce, no caso de uma subida significativa e persistente das ALT/AST. O tratamento com micafungina deve ser efectuado após uma cuidadosa avaliação do risco/benefício, especialmente em doentes com disfunção hepática grave ou doenças hepáticas crónicas, conhecidas por representar condições pré-neoplásicas, como a fibrose hepática avançada, cirrose, hepatite viral, doença hepática neonatal ou deficiências enzimáticas congénitas, ou submetidos a uma terapêutica concomitante com propriedades hepatotóxicas e/ou genotóxicas.
+ O tratamento da micafungina esteve associado a uma incapacidade significativa da função hepática (subida das ALT, AST ou bilirrubina total &gt; 3 vezes o limite normal superior) tanto em voluntários saudáveis como em doentes. Nalguns doentes, foram registados casos de disfunção hepática mais grave, hepatite ou falência hepática, incluindo casos fatais. Os doentes pediátricos &lt; 1 ano de idade podem ser mais propensos a lesões hepáticas (ver secção 4.8).
+ Não existem dados suficientes sobre a farmacocinética da micafungina em doentes com insuficiência hepática grave (ver secção 5.2).
+ Durante a administração de micafungina poderão ocorrer reacções anafilactóides, incluindo choque. Se ocorrerem estas reacções, a perfusão de micafungina deve ser descontinuada e administrado o tratamento adequado.
+ Foram notificados casos raros de hemolise, que incluem hemolise intravascular aguda ou anemia hemolítica, em doentes tratados com micafungina. Durante a terapêutica com micafungina, os doentes que desenvolvam sinais clínicos ou laboratoriais de hemolise, deverão ser monitorizados atentamente quanto a sinais de agravamento destas patologias e avaliados relativamente ao risco/benefício da continuação da terapêutica com micafungina.
+ A micafungina pode causar problemas renais, falha renal e testes de função renal anormais. Os doentes devem ser monitorizados atentamente relativamente a sinais de agravamento da função renal.
+ A incidência de algumas reacções adversas foi mais elevada nos doentes pediátricos do que nos doentes adultos (ver secção 4.8).
+ 18 Este medicamento de uso intravenoso contém lactose. Os doentes com problemas hereditários raros de intolerância à galactose, a deficiência de lactase de Lapp ou má absorção de glucose-galactose não devem utilizar este medicamento.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ A micafungina tem um baixo potencial de interacção com medicamentos metabolizados pelas vias mediadas pelo CYP3A.
+ Foram realizados estudos de interacção medicamentosa em seres humanos saudáveis para avaliar o potencial de interacção entre a micafungina e micofenolato mofetil, ciclosporina, tacrolimus, prednisolona, sirolimus, nifedipina, fluconazol, ritonavir, rifampicina, itraconazol, voriconazol, e anfotericina B. Nestes estudos, não foi observada prova de alteração da farmacocinética da micafungina. Não são necessários ajustes da dose quando estes medicamentos são administrados concomitantemente. A exposição (AUC) do itraconazol, sirolimus e nifedipina foi ligeiramente aumentada (22%,21% e 18%, respectivamente), na presença da micafungina.
+ Doentes a receber sirolimus, nifedipina ou itraconazol combinado com Mycamine devem ser monitorizados em relação à toxicidade do sirolimus, nifedipina ou itraconazol, e a dosagem de sirolimus, nifedipina ou itraconazol deverá ser reduzida, se necessário.
+ 4.6 Gravidez e aleitamento Não existem dados relativos à utilização de micafungina em mulheres grávidas. Nos estudos em animais, a micafungina atravessou a barreira placentária e foi observada toxicidade reprodutiva (ver secção 5.3). Desconhece-se o risco potencial para o ser humano. Mycamine não deve ser utilizado durante a gravidez, a menos que tal seja claramente necessário.
+ Não se sabe se a micafungina é excretada no leite humano. Os estudos em animais revelaram excreção de micafungina no leite humano. A decisão de continuar/descontinuar o aleitamento ou continuar/descontinuar a terapêutica com Mycamine deve ser tomada, tendo em conta o benefício do aleitamento para o bebé e o benefício da terapêutica com Mycamine para a mãe.
+ Foi observada toxicidade testicular em estudos realizados em animais (ver secção 5.3). A micafungina pode ter o potencial de afectar a fertilidade masculina nos humanos.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas. No entanto, podem ocorrer reacções adversas que podem influenciar a capacidade de conduzir e utilizar máquinas (ver secção 4.8).
+ 4.8 Efeitos indesejáveis O perfil de segurança de micafungina é baseado em 3.028 doentes tratados com micafungina em ensaios clínicos: 2.002 doentes com infecções por Candida (incluindo candidemia, cadidíase invasiva e candidíase esofágica),375 com aspergilose invasiva (maioritariamente infecções refractárias) e 651 para a profilaxia de infecções fúngicas sistémicas.
+ Os doentes tratados com micafungina nos estudos clínicos representam uma população com um estado de saúde crítico e que requerem múltiplos medicamentos, incluindo quimioterapia antineoplásica, potentes imunossupressores sistémicos e antibióticos de largo espectro. Estes doentes tinham uma grande variedade de patologias subjacentes complexas, tais como malignidades hematológicas e infecção por VIH, ou eram receptores de transplante e/ou tratados nos cuidados intensivos. Os doentes tratados profilaticamente com micafungina foram aqueles que, tendo sido submetidos a transplante hematopoiético de células estaminais (HSCT), apresentavam alto risco de contraírem infecções fúngicas.
+ 19 Um total de 32,2% dos doentes sofreu reacções adversas à medicação. As reacções adversas mais frequentemente notificadas foram náuseas (2,8%), fosfatase alcalina sanguínea elevada (2,7%), flebite (2,5%, maioritariamente em doentes infectados com VIH e com cateteres periféricos), vómitos (2,5%) e aspartato aminotransferase elevada (2,3%). Não foram observadas diferenças clínicas significativas quando a informação de segurança foi analisada por género ou raça.
+ Na tabela seguinte, as reacções adversas encontram-se listadas pelo sistema de classificação de órgãos e pelo termo MedDRA adequado. Dentro de cada grupo de frequência, os efeitos indesejáveis encontram-se apresentados por ordem de gravidade decrescente.
+ Classe de Frequentes Pouco frequentes Raros Desconhecido sistemas de
+ ≥
+ 1/100, &lt; 1/10 ≥ 1/1.000, &lt; 1/100
+ ≥
+ 1/10.000, (a frequência
+ órgãos
+ &lt; 1/1.000
+ não pode ser calculada a partir dos dados disponíveis)
+ Doenças do leucopenia,
+ pancitopenia,
+ anemia
+ sangue e do
+ neutropenia, anemia
+ trombocitopenia,
+ hemolítica,
+ sistema linfático
+ eosinofilia,
+ hemolise (ver
+ Doenças do sistema imunitário Doenças endócrinas
+ hipoalbuminemia reacção anafiláctica/anafilactóide (ver secção 4.4), hipersensibilidade hiperhidrose
+ secção 4.4)
+ Doenças do hipocalemia,
+ hiponatremia,
+ metabolismo e
+ hipomagnesemia,
+ hipercaliemia,
+ da nutrição Perturbações do foro psiquiátrico
+ hipocalcemia
+ hipofosfatemia, anorexia insónia, ansiedade, confusão
+ Doenças do sistema nervoso Cardiopatias
+ cefaleia
+ sonolência, tremores, tonturas, disgeusia taquicardia, palpitações, bradicardia
+ Vasculopatias Doenças respiratórias, torácicas e do mediastino
+ flebite
+ hipotensão, hipertensão, rubor dispneia
+ choque
+ Doenças gastrointestinais
+ náuseas, vómitos, diarreia, dor abdominal
+ dispepsia, obstipação
+ 20 Classe de
+ Frequentes Pouco frequentes Raros Desconhecido sistemas de
+ ≥
+ 1/100, &lt; 1/10 ≥ 1/1.000, &lt; 1/100
+ ≥
+ 1/10.000, (a frequência
+ órgãos
+ &lt; 1/1.000
+ não pode ser calculada a partir dos dados disponíveis)
+ Afecções fosfatase alcalina
+ falência hepática (ver
+ lesão
+ hepatobiliares
+ sanguínea elevada,
+ secção 4.4), gama-
+ hepatocelular,
+ aspartato aminotransferase elevada, alanina aminotransferase elevada, bilirrubina sanguínea elevada (incluindo, hiperbilirubinemia), teste de função hepática anormal
+ glutamiltransferase elevada, icterícia, colestase, hepatomegalia, hepatite
+ incluindo casos fatais (ver secção 4.4)
+ Afecções dos tecidos cutâneos e subcutâneas
+ exantema
+ urticária, prurido, eritema
+ Doenças renais e creatinina sanguínea
+ insuficiência
+ urinárias
+ elevada, ureia
+ renal (ver
+ Perturbações gerais e alterações no local de administração Exames complementares de diagnóstico
+ pirexia, calafrios
+ sanguínea elevada, insuficiência renal agravada trombose no local da administração, inflamação no local da perfusão, dor no local da administração, edema periférico lactato desidrogenase sanguínea aumentado
+ secção 4.4), falência renal aguda
+ Sintomas do tipo alérgico possíveis Sintomas, como exantema e calafrios, foram reportados em ensaios clínicos. A maioria foi de intensidade ligeira a moderada e não limitou o tratamento. Reacções graves (por exemplo, reacção anafilactóide: 0,2%, 6/3.028) foram pouco frequentemente reportadas durante a terapêutica com micafungina e apenas em doentes com patologias subjacentes graves (por exemplo, SIDA em estado avançado, neoplasias) que requeiram múltipla medicação concomitante.
+ Reacções adversas hepáticas A incidência total de reacções adversas hepáticas, em doentes tratados com micafungina em ensaios clínicos, foi de 8,6% (260/3.028). A maioria das reacções adversas hepáticas foi ligeira e moderada. As reacções mais frequentes foram aumentos na fosfatase alcalina (FA) (2,7%), AST (2,3%), ALT (2,0%), bilirrubina sanguínea (1,6%) e teste de função hepática anormal (1,5%). Poucos doentes (1,1%; 0,4% graves) descontinuaram o tratamento devido a um evento hepático. Casos de disfunção hepática grave ocorreram pouco frequentemente (ver secção 4.4).
+ Reacções no local da administração Nenhuma reacção adversa no local da administração limitou o tratamento.
+ 21 Doentes pediátricos A incidência de algumas reacções adversas (descritas na seguinte tabela) foi mais elevada em doentes pediátricos do que em doentes adultos. Adicionalmente, os doentes pediátricos &lt; 1 ano de idade tiveram duas vezes mais frequentemente uma subida nas ALT, AST e FA do que os doentes pediátricos mais velhos (ver secção 4.4). A razão mais provável para estas diferenças foram as diferentes condições subjacentes, comparativamente aos adultos ou doentes pediátricos mais velhos, observadas nos ensaios clínicos. No início do estudo, a proporção de doentes pediátricos com neutropenia era muito superior à de doentes adultos (40,2% de crianças e 7,3% de adultos, respectivamente), assim como com HSCT alogénico (29,4% e 13,4%, respectivamente) e malignidade hematológica (29,1% e 8,7%, respectivamente).
+ Doenças do sangue e do sistema linfático trombocitopenia frequentes
+ Cardiopatias taquicardia pouco frequentes
+ Vasculopatias hipertensão, hipotensão frequentes
+ Afecções hepatobiliares hiperbilirrubinemia, hepatomegalia frequentes
+ Doenças renais e urinárias insuficiência renal aguda, ureia sanguínea elevada frequentes
+ 4.9 Sobredosagem Foram administradas, em ensaios clínicos, doses diárias repetidas até 8 mg/kg (dose máxima total 896 mg) em doentes adultos sem ser reportada qualquer toxicidade que limitasse a dose. Foi reportado um caso de dosagem errada de 7,8 mg/kg/dia, durante 7 dias, num doente recém-nascido. Não foram associados nenhumas reacções adversas a esta dosagem elevada. Não há experiência de sobredosagens de micafungina. Em caso de sobredosagem, devem ser administradas medidas de apoio gerais e um tratamento sintomático. A micafungina liga-se fortemente às proteínas e não é dialisável.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Outros antimicóticos para utilização sistémica, código ATC: J02AX05
+ Modo de acção A micafungina inibe de forma não competitiva a síntese do 1, 3-β-D glucano que é um componente essencial da parede dos fungos. O 1, 3-β-D-glucano não se encontra presente em células de mamíferos. A micafungina demonstra actividade fungicida contra a maioria das espécies de Candida e proeminentemente inibe activamente o crescimento da hifa das espécies Aspergillus.
+ Relação farmacocinética/farmacodinâmica No modelo de aspergilose pulmonar no ratinho, foi encontrada uma interacção farmacodinâmica sinérgica ou aditiva entre a micafungina e anfotericina B (imunossupressão com hidrocortisona, infecção intranasal com Aspergillus fumigatus).
+ Mecanismo(s) de resistência 22 Como acontece com todos os agentes antimicrobianos, foram registados casos de reduzida susceptibilidade e resistência e não pode ser excluída uma resistência cruzada com outras equinocandinas. Uma reduzida susceptibilidade às equinocandinas esteve associada a mutações na codificação do gene Fks1 para uma importante subunidade da síntese de glucano.
+ Breakpoints Os testes de susceptibilidade foram realizados com alterações de acordo com os métodos do Clinical and Laboratory Standards Institute (CLSI) M27-A2 (espécies Candida) e M3-A (espécies Aspergillus), respectivamente. Até à data, ainda não haviam sido estabelecidas técnicas padronizadas de testes de susceptibilidade a inibidores da síntese do 1, 3-β-D-glucano e os resultados dos testes de susceptibilidade não se correlacionam necessariamente com o resultado clínico.
+ Apesar de não terem sido estabelecidos quaisquer breakpoints de concentração mínima inibitória (MIC-Minimum Inhibitory Concentration) para as equinocandinas, uma MIC de ≤ 2 mg/l abrange &gt; 99% de todos os isolados clínicos de Candida spp. sem bisseccionar qualquer grupo de espécie e representa uma concentração que é facilmente mantida durante o intervalo da dosagem. Neste intervalo de MIC, as infecções causadas por Candida spp. respondem normalmente à terapêutica.
+ A prevalência da resistência pode variar geograficamente e com tempo para as espécies seleccionadas, e é desejável ter informações locais sobre a resistência, especialmente quando se trata de infecções graves. Esta informação é apenas um guia para as probabilidades de os microrganismos serem susceptíveis ou não à micafungina. Onde aplicável, a informação sobre o intervalo europeu da resistência adquirida para microrganismos individuais está indicada entre parêntesis.
+ Espécies frequentemente susceptíveis[ intervalos de MIC na Europa, mg/l] Candida albicans[ 0, 007-0,25] Candida glabrata[ 0, 007-0,12] Candida tropicalis[ 0, 007-0,12] Candida krusei[ 0, 015-0,12] Candida kefyr[ 0, 03-0,06] Candida parapsilosis[ 0, 12-2] Candida guilliermondii[ 0,5] Candida lusitaniae[ 0, 12-0,25] Candida spp. [ 0, 015-0,5] (incluindo C. famata, C. dubliniensis, C. lipolytica, C. pelliculosa, C. rugosa, C. stellatoidea e C. zeylanoides)
+ Aspergillus fumigatus Aspergillus flavus Aspergillus niger Aspergillus terreus Aspergillus nidulans Aspergillus versicolor
+ A forma micelial do fungo dimórfico (por exemplo, Histoplasma capsulatum, Blastomyces dermatitidis, Coccidioides immitis)
+ Espécies para as quais a resistência adquirida pode ser um problema Nenhuma
+ Organismos resistentes de forma inerente Cryptococcus spp. Pseudallescheria spp. Scedosporium spp. Fusarium spp. Trichosporon spp.
+ 23 Zygomycetes spp.
+ Informação sobre estudos clínicos Candidemia e candidíase invasiva: a micafungina (100 mg/dia ou 2 mg/kg/dia) foi tão eficaz e melhor tolerada do que a anfotericina B lipossómica (3 mg/kg) como tratamento de primeira linha da candidemia e candidíase invasiva num estudo aleatório, duplamente cego, multinacional de não-inferioridade. A micafungina e a anfotericina B lipossómica foram administradas durante um período médio de 15 dias (intervalo de 4 a 42 dias em adultos; 12 a 42 dias em crianças). A não-inferioridade foi provada em doentes adultos, e foram demonstrados resultados similares nas subpopulações pediátricas (incluindo neonatos e bebés prematuros). Os achados de eficácia foram consistentes, independentemente da espécie de Candida causadora da infecção, do local primário da infecção e do estado de neutropenia (ver Tabela). Durante o tratamento, a micafungina demonstrou uma menor diminuição média no pico da taxa de filtração glomerular estimada (p &lt; 0,001) e uma menor incidência de reacções relacionadas com a perfusão (p=0,001) do que a anfotericina B lipossómica.
+ Sucesso Global do Tratamento por Protocolo, Estudo de Candidíase Invasiva
+ Doentes Adultos Micafungina N n (%)
+ Anfotericina B lipossómica N n (%)
+ % Diferença[ 95% IC]
+ Sucesso Global do Tratamento 202 181 (89,6) 190 170 (89,5) 0,1[-5,9; 6,1] † Sucesso Global do Tratamento pelo Estado de Neutropenia
+ Neutropenia na linha de base 24 18 (75,0) 15 12 (80,0) 0,7[-5,3; 6,7] ‡ Sem neutropenia na linha de base 178 163 (91,6) 175 158 (90,3) Doentes Pediátricos
+ Sucesso Global do Tratamento 48 35 (72,9) 50 38 (76,0) -2,7[-17,3; 11,9] §
+ &lt; 2 anos
+ 26 21 (80,8) 31 24 (77,4) 6 (66,7) Bebés prematuros 10 7 (70,0) 9 4 (80) Neonatos (0 dias a &lt; 4 semanas) 7 7 (100) 5 2 a 15 anos 22 14 (63,6) 19 14 (73,7) Adultos e Crianças Combinados, Sucesso Global do Tratamento da espécie Candida
+ Candida albicans 102 91 (89,2) 98 89 (90,8) Espécies não-albicans: todas 151 133 (88,1) 140 123 (87,9) 49 (96,1) C. tropicalis 59 54 (91,5) 51 C. parapsilosis 48 41 (85,4) 44 35 (79,5) C. glabrata 23 19 (82,6) 17 14 (82,4) C. krusei 9 8 (88,9) 7 6 (85,7) † Taxa de micafungina menos a taxa de anfotericina B lipossómica, intervalo de confiança de dois lados de 95% para a diferença na taxa de sucesso global, baseada na aproximação normal de grandes amostras. ‡ Ajustado para o estado de neutropenia; objectivo primário. § A população pediátrica não foi dimensionada de forma a testar a não-inferioridade. ¶ A eficácia cínica também foi observada (&lt; 5 doentes) nas seguintes espécies Candida: C. guilliermondii, C. famata, C. lusitaniae, C. utilis, C. inconspicua e C. dubliniensis.
+ Candidíase Esofágica: Num estudo aleatório e duplamente cego, que comparou a micafungina com o fluconazol, no tratamento de primeira linha de candidíase esofágica,518 doentes receberam, pelo menos, uma dose do medicamento em estudo. A duração média do tratamento foi de 14 dias e a dose diária média foi de 150 mg para a micafungina (N=260) e 200 mg para o fluconazol (N=258). No fim do tratamento, foi observado um grau endoscópico de 0 (cura endoscópica) em 87,7% (228/260) e 88,0% (227/258) dos doentes nos grupos da micafungina e do fluconazol, respectivamente (IC 95% para a diferença: [-5,9%; 5,3%]). O limite inferior do IC 95% foi acima da margem de não-inferioridade predefinida de-10%, provando a não-inferioridade. A natureza e a incidência de reacções adversas foram similares entre os dois grupos de tratamento.
+ Profilaxia: A micafungina foi mais eficaz do que o fluconazol na prevenção de infecções fúngicas invasivas numa população de doentes com elevado risco de desenvolver uma infecção fúngica
+ 24 sistémica (doentes submetidos a transplante hematopoiético de células estaminais[ HSCT], num estudo aleatório, duplamente cego e multicêntrico). O sucesso do tratamento foi definido como a ausência de uma infecção fúngica sistémica provada, provável ou suspeita durante o tratamento e até ao final do tratamento e a ausência de uma infecção fúngica sistémica provada ou provável durante o tratamento e até ao fim do estudo. A maioria dos doentes (97%, N=882) tinha neutropenia na linha de base (&lt; 200 neutrófilos/µL). A neutropenia persistiu por um período médio de 13 dias. Houve uma dose diária fixa de 50 mg (1,0 mg/kg) para a micafungina e de 400 mg (8 mg/kg) para o fluconazol. A duração média do tratamento foi de 19 dias para a micafungina e de 18 dias para o fluconazol na população adulta (N=798), e de 23 dias para ambos os grupos de tratamento na população pediátrica (N=84). A taxa de sucesso do tratamento foi estatística e significativamente superior na micafungina do que no fluconazol (1,6% versus 2,4% de infecções surgidas). O surgimento de infecções por Aspergillus foi observado em 1 versus 7 doentes e o surgimento de infecções comprovadas ou prováveis por Candida foi observado em 4 versus 2 doentes, nos grupos da micafungina e do fluconazol, respectivamente. As outras infecções que surgiram foram causadas por Fusarium (1 e 2 doentes, respectivamente) e Zygomycetes (1 e 0 doentes, respectivamente). A natureza e a incidência de reacções adversas foram similares entre os dois grupos de tratamento.
+ 5.2 Propriedades farmacocinéticas Absorção A micafungina é um medicamento administrado por via intravenosa. A farmacocinética é linear no intervalo de dose diária de 12,5 mg a 200 mg e 3 mg/kg a 8 mg/kg. Não existem provas de acumulação sistémica com a administração repetida e o estado estacionário é geralmente atingido entre 4 a 5 dias.
+ Distribuição Após administração intravenosa, as concentrações de micafungina mostram um declínio biexponencial. O medicamento é rapidamente distribuído pelos tecidos. Na circulação sistémica, a micafungina liga-se fortemente às proteínas plasmáticas (&gt; 99%), maioritariamente à albumina. A ligação à albumina é independente da concentração de micafungina (10-100 µg/ml). O volume de distribuição no estado estacionário (Vss) foi aproximadamente de 18-19 litros.
+ Metabolismo A micafungina inalterada é o principal componente na circulação sistémica. Foi demonstrado que a micafungina é metabolizada em vários componentes; destes, foram detectados na circulação sistémica, o M-1 (forma catecol), o M-2 (forma metoxi de M-1) e o M-5 (hidroxilação na cadeia lateral) da micafungina. A exposição a estes metabolitos é baixa e os metabolitos não contribuem para a eficácia global da micafungina. Embora a micafungina seja um substrato para o CYP3A in vitro, a hidroxilação pelo CYP3A não é uma importante via de metabolização da micafungina in vivo.
+ Eliminação e excreção O tempo médio de semivida terminal é aproximadamente de 10-17 horas e mantém-se consistente em doses até 8 mg/kg e após administrações únicas e repetidas. A depuração total em sujeitos saudáveis e doentes adultos foi de 0, 15-0,3 ml/min/kg e é independente da dose após administração única e repetida. Após uma dose única intravenosa de 14C-micafungina (25 mg) em voluntários saudáveis, 11,6% da radioactividade foi recuperada na urina e 71,0% nas fezes, ao longo de 28 dias. Estes dados indicam que a eliminação da micafungina é maioritariamente não renal. Foram detectados apenas vestígios dos metabolitos M-1 e M-2 no plasma, e o metabolito M-5, o mais abundante, corresponde a um total de 6,5% relativamente ao composto que lhe deu origem.
+ Populações especiais 25 Doentes pediátricos: Em doentes pediátricos, os valores da AUC foram proporcionais à dosagem num intervalo de 0, 5-4 mg/kg. A depuração foi influenciada pela idade, com os valores médios de depuração em crianças mais novas (2-11 anos) aproximadamente 1,3 vezes superiores aos de crianças mais velhas (12-17 anos). As crianças mais velhas tiveram valores de depuração semelhantes aos apurados em doentes adultos. A depuração média nos bebés prematuros (idade gestacional aproximada de 26 semanas) é aproximadamente 5 vezes superior à dos adultos.
+ Idosos: Quando administrada uma dose de 50 mg, como perfusão única, durante 1 hora, a farmacocinética da micafungina no idoso (idades 66-78 anos) foi semelhante à dos indivíduos jovens (20-24 anos). Não é necessário um ajuste da dose nos idosos.
+ Doentes com disfunção hepática: Num estudo realizado com doentes com insuficiência hepática moderada (Score 7-9 de “ Child-Pugh ”), (n=8), a farmacocinética da micafungina não diferiu significativamente da farmacocinética em sujeitos saudáveis (n=8). Por conseguinte, não são necessários ajustes na dose para doentes com insuficiência hepática ligeira a moderada. A farmacocinética da micafungina não foi estudada em doentes com insuficiência hepática grave.
+ Doentes com insuficiência renal: A insuficiência renal grave (Taxa de Filtração Glomerular[ TFG] &lt; 30 ml/min) não influencia significativamente a farmacocinética da micafungina. Não é necessário ajustar a dose em doentes com insuficiência renal.
+ Género/Raça: O género e a raça (caucasiana, negra e oriental) não influenciam significativamente os parâmetros farmacocinéticos de micafungina. Não é necessário ajustar a dose relativamente ao género ou raça.
+ 5.3 Dados de segurança pré-clínica O desenvolvimento de focos de hepatócitos alterados (FAH) e tumores hepatocelulares nos ratos esteve dependente tanto da dose como da duração do tratamento com a micafungina. Os FAH registados após um tratamento de 13 semanas ou mais, persistiram depois de um período de retirada de 13 semanas e desenvolveram-se em tumores hepatocelulares, após um período sem tratamento, que abrangeu a esperança de vida dos ratos. Não se realizaram estudos padrão de carcinogenicidade, mas o desenvolvimento dos FAH foi avaliado nos ratos fêmeas, decorridos até 20 e 18 meses após a cessação de um tratamento de 3 e 6 meses, respectivamente. Em ambos os estudos, foi observado um aumento das incidências/números dos tumores hepatocelulares após o período sem tratamento de 18 e 20 meses, no grupo da dose mais elevada de 32 mg/kg/dia, assim como no grupo de dose mais baixa (apesar de não ser estatisticamente significativo). A exposição plasmática, no suposto limiar para o desenvolvimento de tumores nos ratos, (i. e., a dose onde não foram detectados quaisquer FAH ou tumores hepáticos) situou-se no mesmo intervalo que a exposição clínica. Desconhece-se a relevância do potencial hepatocarcinogénico da micafungina para a utilização terapêutica em seres humanos.
+ A toxicologia da micafungina, após uma administração intravenosa repetida em ratos e/ou cães, demonstrou respostas adversas no fígado, no tracto urinário, nos glóbulos vermelhos e nos órgãos reprodutores masculinos. Os níveis de exposição, em que tais efeitos não ocorreram (NOAEL), situaram-se no mesmo intervalo, comparativamente aos níveis da exposição clínica, ou num intervalo inferior. Consequentemente, pode ser esperada a ocorrência destas respostas adversas com o uso clínico da micafungina em humanos.
+ Em testes padrão de segurança farmacológica, os efeitos cardiovasculares e de libertação de histaminas da micafungina em doses elevadas foram evidentes e foram aparentemente dependentes do tempo acima do limite superior. O prolongamento do tempo de perfusão, reduzindo o pico de concentração plasmática, reduziu aparentemente estes efeitos.
+ Nos estudos realizados sobre a toxicidade das doses repetidas nos ratos, os sinais de hepatotoxicidade consistiram num aumento das enzimas hepáticas e em alterações degenerativas dos hepatócitos, acompanhadas por sinais de regeneração compensatória. No cão, os efeitos hepáticos consistiram num
+ 26 aumento do peso e hipertrofia centrolobular; não tendo sido observadas quaisquer alterações degenerativas dos hepatócitos.
+ Nos ratos, foi observada a vacuolação do epitélio pélvico renal, assim como a vacuolação e espessamento (hiperplasia) do epitélio da bexiga, em estudos de 26 semanas com doses repetidas. Num segundo estudo de 26 semanas, a hiperplasia das células de transição na bexiga tiveram uma incidência muito mais baixa. Estes achados mostraram reversibilidade durante um período de seguimento de 18 meses. A duração da administração da micafungina, nestes estudos com ratos (6 meses), excede a duração habitual da administração da micafungina em doentes (ver secção 5.1).
+ A micafungina hemolisou o sangue do coelho, in vitro. Nos ratos, foram observados sinais de anemia hemolítica após uma injecção repetida em bólus de micafungina. Nos estudos realizados em cães com doses repetidas, não foi observada anemia hemolítica.
+ Nos estudos da toxicidade reprodutiva e do desenvolvimento, foi registado um peso reduzido das crias, à nascença. Nos coelhos, ocorreu um aborto com 32 mg/kg/dia. Os ratos machos, tratados por via intravenosa durante 9 semanas, demonstraram vacuolação das células do epitélio do ducto do epidídimo, aumento de peso do epidídimo e um número reduzido de células espermáticas (em 15%). No entanto, em estudos de 13 e 26 semanas, estas alterações não ocorreram. Nos cães adultos, observou-se atrofia dos túbulos seminíferos com vacuolação do epitélio seminífero e diminuição do esperma nos epidídimos, após um tratamento prolongado (39 semanas), mas não após 13 semanas de tratamento. Nos cães jovens, o tratamento de 39 semanas, dependendo da dose, não induziu lesões nos testículos e nos epidídimos, no fim do tratamento, mas, após um período sem tratamento de 13 semanas, foi registado um aumento dependente da dose destas lesões nos grupos de recuperação tratados. Não foi observada qualquer limitação na fertilidade feminina ou masculina, nos estudos de fertilidade e de desenvolvimento embrionário precoce nos ratos.
+ A micafungina não foi mutagénica nem clastogénica, quando avaliada numa bateria de testes padrão in vivo e in vitro, incluindo um estudo in vitro sobre a síntese inesperada do ADN, utilizando hepatócitos de ratos.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1. Lista dos excipientes Lactose mono-hidratada Ácido cítrico anidro (para ajustar o pH) Hidróxido de sódio (para ajustar o pH)
+ 6.2 Incompatibilidades Este medicamento não deve ser misturado ou co-administrado com outros medicamentos, excepto os mencionados na secção 6.6.
+ 6.3 Prazo de validade Frasco para injectáveis selado: 3 anos. Concentrado reconstituído no frasco para injectáveis: A estabilidade química e física foi comprovada para até 48 horas, a 25ºC, quando reconstituído com cloreto de sódio a 9 mg/ml (0,9%) de solução para perfusão ou glucose a 50 mg/ml (5%) de solução para perfusão.
+ Solução diluída para perfusão: 27 A estabilidade química e física foi comprovada para 96 horas, a 25ºC, quando protegida da luz e quando diluída com cloreto de sódio a 9 mg/ml (0,9%) de solução para perfusão ou glucose a 50 mg/ml (5%) de solução para perfusão.
+ Mycamine não contém conservantes. Do ponto de vista microbiológico, as soluções reconstituídas e diluídas devem ser utilizadas de imediato. Se não forem utilizadas de imediato, os tempos de estabilidade e as condições prévias à utilização são da responsabilidade do utilizador e não deverão ser mais longas que 24 horas de 2 a 8ºC, a menos que a reconstituição e diluição tenham sido realizadas em condições de assepsia controladas e validadas.
+ 6.4 Precauções especiais de conservação
+ Frascos para injectáveis selados: Este medicamento não requer condições de armazenamento especiais.
+ Condições de conservação do medicamento reconstituído e diluído, ver secção 6.3.
+ 6.5 Natureza e conteúdo do recipiente
+ Frasco para injectáveis de 10 ml, de vidro do Tipo I, com uma rolha vedante de borracha de isobutileno-isopropeno (Teflon-laminado) e tampa exterior. O frasco para injectáveis está envolvido numa película protectora de raios UV.
+ Fornecido em embalagens de 1 frasco para injectáveis.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ Qualquer produto não utilizado ou resíduo deve ser eliminado de acordo com os requisitos locais.
+ Mycamine não deve ser misturado ou co-administrado com outros medicamentos, excepto aqueles mencionados abaixo. Utilizando técnicas de assepsia e à temperatura ambiente, Mycamine é reconstituído e diluído da seguinte forma:
+ 1. A tampa de plástico deve ser removida do frasco e a rolha vedante desinfectada com álcool. 2. Cinco ml de cloreto de sódio a 9 mg/ml (0,9%) de solução para perfusão ou glucose a 50 mg/ml (5%) de solução para perfusão (tirado de uma garrafa/saco de 100 ml); a solução deverá ser asséptica e lentamente injectada em cada frasco para injectáveis, ao longo do lado da parede interna. Embora o concentrado faça espuma, deverão ser feitos todos os esforços para minimizar a quantidade de espuma criada. Deverão ser reconstituídos um número suficiente de frascos de Mycamine para obter a dose desejada (ver Tabela abaixo). 3. O frasco para injectáveis deve ser girado suavemente. NÃO AGITAR. O pó dissolver-se-á completamente. O concentrado deve ser imediatamente utilizado. O frasco para injectáveis é para uso único. Assim, por favor, elimine imediatamente qualquer concentrado reconstituído e não utilizado. 4. Todo o concentrado reconstituído deve ser retirado de cada frasco para injectáveis e reposto na garrafa/saco de perfusão de onde foi inicialmente tirado. A perfusão com a solução diluída deve ser utilizada de imediato. A estabilidade química e física de utilização foi comprovada para 96 horas, a 25ºC, quando protegida da luz e diluída da forma acima descrita. 5. A garrafa/saco de perfusão deve ser suavemente invertida(o) de maneira a dispersar a solução diluída, mas NÃO agitar de forma a evitar a formação de espuma. Não utilizar, se a solução se encontrar turva ou precipitada. 6. A garrafa/saco de perfusão, que contém a solução com a perfusão diluída, deve ser colocada(o) num saco opaco que se possa fechar de forma a proteger da luz.
+ Preparação da solução para perfusão
+ 28
+ Dose (mg) Frasco de Mycamine utilizado (mg/frasco)
+ Volume do cloreto de sódio (0,9%) ou glucose (5%) a ser adicionado por frasco
+ Volume (concentração) de pó reconstituído
+ Perfusão padrão (adicionada até 100 ml) Concentração final
+ 50 100 150 200 1 x 50 1 x 100 1 x 100+ 1 x 50 2 x 100
+ 5 ml 5 ml 5 ml 5 ml
+ aprox. 5 ml (10 mg/ml) aprox. 5 ml (20 mg/ml) aprox. 10 ml aprox. 10 ml
+ 0,5 mg/ml 1,0 mg/ml 1,5 mg/ml 2,0 mg/ml Após a reconstituição e a diluição, a solução deve ser administrada por perfusão intravenosa durante uma hora, aproximadamente.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Astellas Pharma Europe B. V. Elisabethhof 19 2353 EW Leiderdorp Países Baixos
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/08/448/002 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 25/04/2008 10. DATA DA REVISÃO DO TEXTO Informação pormenorizada sobre este medicamento está disponível na Internet, no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu/.
+ 29 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 30 A. ROTULAGEM
+ 31 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ EMBALAGEM DE CARTÃO 1. NOME DO MEDICAMENTO Mycamine 50 mg pó para solução para perfusão
+ Micafungina 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada frasco para injectáveis contém 50 mg de micafungina (sódica). Após a reconstituição, cada ml contém 10 mg de micafungina (sódica).
+ 3. LISTA DOS EXCIPIENTES Lactose monohidratada, ácido cítrico anidro e hidróxido de sódio. Consultar o folheto informativo para mais informações.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 1 frasco para injectáveis 5. MODO E VIA(S) DE ADMINISTRAÇÃO Para perfusão intravenosa após diluição e reconstituição. Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL.: 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO 32 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Astellas Pharma Europe B. V. Elisabethhof 19 2353 EW Leiderdorp Países Baixos
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/08/448/001 13. NÚMERO DO LOTE Lote: 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Foi aceite a justificação para não incluir a informação em Braille.
+ 33 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ FRASCO PARA INJECTÁVEIS 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Mycamine 50 mg pó para solução para perfusão Micafungina Via intravenosa.
+ 2. MODO DE ADMINISTRAÇÃO 3. PRAZO DE VALIDADE VAL.: 4. NÚMERO DO LOTE Lote: 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 50 mg 6. OUTRAS 34 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ EMBALAGEM DE CARTÃO 1. NOME DO MEDICAMENTO Mycamine 100 mg pó para solução para perfusão
+ Micafungina 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada frasco para injectáveis contém 100 mg de micafungina (sódica). Após a reconstituição, cada ml contém 20 mg de micafungina (sódica).
+ 3. LISTA DOS EXCIPIENTES Lactose monohidratada, ácido cítrico anidro e hidróxido de sódio. Consultar o folheto informativo para mais informações.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 1 frasco para injectáveis 5. MODO E VIA(S) DE ADMINISTRAÇÃO Para perfusão intravenosa após diluição e reconstituição. Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL.: 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO 35 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Astellas Pharma Europe B. V. Elisabethhof 19 2353 EW Leiderdorp Países Baixos
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/08/448/002 13. NÚMERO DO LOTE Lote: 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Foi aceite a justificação para não incluir a informação em Braille.
+ 36 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ FRASCO PARA INJECTÁVEIS 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Mycamine 100 mg pó para solução para perfusão Micafungina Via intravenosa.
+ 2. MODO DE ADMINISTRAÇÃO 3. PRAZO DE VALIDADE VAL.: 4. NÚMERO DO LOTE Lote: 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 100 mg 6. OUTRAS 37 B. FOLHETO INFORMATIVO
+ 38 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Mycamine 50 mg pó para solução para perfusão Mycamine 100 mg pó para solução para perfusão Micafungina
+ Leia atentamente este folheto antes de utilizar este medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é Mycamine e para que é utilizado 2. Antes de utilizar Mycamine 3. Como utilizar Mycamine 4. Efeitos secundários possíveis 5. Como conservar Mycamine 6. Outras informações
+ 1. O QUE É MYCAMINE E PARA QUE É UTILIZADO
+ Mycamine é considerado um medicamento antifúngico porque é usado para tratar infecções causadas por células fúngicas. Mycamine é utilizado para tratar infecções fúngicas causadas por células de fungos ou de leveduras denominadas por Candida. Mycamine é eficaz no tratamento de infecções sistémicas (as que já penetraram no organismo). Interfere com a produção de uma parte da parede celular do fungo. É necessária uma parede celular intacta para que o fungo sobreviva e cresça. Mycamine causa defeitos na parede celular do fungo, tornando o fungo incapaz de sobreviver e crescer.
+ O seu médico prescreveu-lhe Mycamine nas seguintes circunstâncias, visto que não há outros tratamentos antifúngicos adequados disponíveis (ver secção 2):
+ • Para tratar adultos, adolescentes e crianças que tenham uma infecção fúngica grave denominada candidíase invasiva (infecção que penetrou no organismo). • Para tratar adultos e adolescentes ≥ 16 anos de idade que tenham uma infecção fúngica na garganta (esófago), quando o tratamento numa veia (intravenoso) seja adequado. • Para tratar adultos, adolescentes e crianças que estejam em risco de desenvolver uma infecção fúngica por Candida, que possa vir a penetrar no organismo.
+ 2. ANTES DE UTILIZAR MYCAMINE Não utilize Mycamine -se tem alergia (hipersensibilidade) à micafungina ou a qualquer outro componente de
+ Mycamine.
+ Tome especial cuidado com Mycamine Nos ratos, o tratamento a longo prazo com a micafungina causou lesões no fígado e subsequentes tumores hepáticos. Desconhece-se o potencial risco de desenvolvimento de tumores no fígado em humanos, e o seu médico avaliará os benefícios e os riscos do tratamento com Mycamine, antes de
+ 39 iniciar o medicamento. Por favor, informe o seu médico se tem problemas graves no fígado (por exemplo, falência hepática ou hepatite) ou teve testes de função hepática anormais. Durante o tratamento, as suas funções hepáticas serão monitorizadas atentamente.
+ -se tem anemia hemolítica (anemia devido à destruição de glóbulos vermelhos) ou hemolise
+ (destruição dos glóbulos vermelhos).
+ -se tem problemas renais (por exemplo, falência renal e testes de função renal anormais). Se isto
+ acontecer, o seu médico pode decidir monitorizar atentamente a sua função renal.
+ Utilizar Mycamine com outros medicamentos Informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica.
+ Utilizar Mycamine com alimentos e bebidas Como o Mycamine é administrado por via intravenosa (numa veia), não são necessárias restrições relativas à comida ou bebidas.
+ Gravidez e aleitamento Consulte o seu médico ou farmacêutico antes de tomar qualquer medicamento. Mycamine não deve ser utilizado durante a gravidez a menos que seja estritamente necessário. Se utilizar Mycamine não deve amamentar.
+ Condução de veículos e utilização de máquinas Não existe informação sobre o efeito de Mycamine na capacidade de conduzir ou utilizar máquinas. Por favor, informe o seu médico, se sentir algum efeito que lhe possa causar problemas na condução de veículos ou na utilização de máquinas.
+ Informação importante sobre alguns dos componentes de Mycamine Se o médico o informou que pode ter intolerância a alguns açúcares, contacte o seu médico antes de utilizar este medicamento.
+ 3. COMO UTILIZAR MYCAMINE Mycamine deve ser preparado e administrado por um médico ou por outro profissional de saúde. Mycamine deve ser administrado uma vez por dia através de uma perfusão intravenosa lenta (numa veia). O seu médico irá determinar quanto Mycamine lhe deverá ser administrado cada dia.
+ Uso em adultos, adolescentes ≥ 16 anos de idade e idosos
+ -A dose habitual, para tratar uma infecção invasiva por Candida, é de 100 mg por dia, para doentes
+ que pesem 40 kg ou mais, e de 2 mg/kg por dia para doentes que pesem 40 kg ou menos.
+ -A dose, para tratar uma infecção do esófago por Candida, é de 150 mg para doentes que pesem
+ mais de 40 kg e de 3 mg/kg por dia para doentes que pesem 40 kg ou menos.
+ -A dose habitual, para prevenir infecções invasivas por Candida, é de 50 mg por dia para doentes
+ que pesem mais de 40 kg e de 1 mg/kg por dia para doentes que pesem 40 kg ou menos.
+ Uso em crianças (incluindo recém-nascidos) e adolescentes &lt; 16 anos de idade
+ -A dose habitual, para tratar uma infecção invasiva por Candida, é de 100 mg por dia, para doentes
+ que pesem 40 kg ou mais, e de 2 mg/kg por dia para doentes que pesem 40 kg ou menos.
+ -A dose habitual, para prevenir infecções invasivas por Candida, é de 50 mg por dia para doentes
+ que pesem mais de 40 kg e de 1 mg/kg por dia para doentes que pesem 40 kg ou menos.
+ Se utilizar mais Mycamine do que deveria O seu médico irá monitorizar a sua resposta e estado de saúde para determinar a dose de Mycamine necessária. No entanto, se achar que lhe foi administrado demasiado Mycamine, fale de imediato com o seu médico ou outro profissional de saúde.
+ 40 Caso se tenha esquecido de utilizar Mycamine O seu médico irá monitorizar a sua resposta e estado de saúde para determinar a dose de Mycamine necessária. No entanto, se achar que falhou uma dose, fale de imediato com o seu médico ou outro profissional de saúde.
+ Se parar de utilizar Mycamine Não existem sintomas de abstinência conhecidos.
+ Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou farmacêutico.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todos os medicamentos, o Mycamine pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ A segurança de Mycamine foi avaliada em ensaios clínicos. Nesses ensaios, os doentes estavam gravemente doentes, tinham uma grande variedade de outras patologias e necessitavam de muitos outros medicamentos.
+ Mycamine pode causar os seguintes efeitos secundários:
+ Frequentes (afecta 1 a 10 doentes em 100)
+ -análises sanguíneas alteradas (número reduzido de glóbulos brancos[ leucopenia; neutropenia]);
+ número reduzido de glóbulos vermelhos (anemia)
+ -potássio reduzido no sangue (hipocaliemia); magnésio reduzido no sangue (hipomagnesemia);
+ cálcio reduzido no sangue (hipocalcemia)
+ -dor de cabeça
+ -inflamação da parede da veia (no local da administração)
+ -náuseas (ênjoos); vómitos; diarreia; dor abdominal
+ -testes da função hepática anormais (aumento da fosfatase alcalina, da aspartato-aminotransferase e
+ da alanina-aminotransferase)
+ -bilirrubina elevada no sangue (hiperbilirrubinemia)
+ -exantema
+ -febre
+ -tremores (arrepios)
+ Pouco Frequentes (afecta 1 a 10 doentes em 1.000)
+ -análises sanguíneas alteradas (diminuição dos glóbulos[ pancitopenia]); diminuição das plaquetas
+ sanguíneas (trombocitopenia); aumentos em certos tipos de glóbulos brancos; chamados eosinófilos; redução da albumina no sangue (hipoalbuminemia)
+ -crise alérgica (reacção anafiláctica/choque anafilactóide); hipersensibilidade
+ -sudação excessiva
+ -redução de sódio no sangue (hiponatremia); aumento de potássio no sangue (hipercaliemia);
+ redução de fosfatos no sangue (hipofosfatemia); anorexia (distúrbio alimentar)
+ -insónia (dificuldade em dormir); ansiedade; confusão
+ -sensação de letargia (sonolência); tremores; tonturas; alterações de paladar
+ -ritmo cardíaco elevado; batimento cardíaco mais forte; batimento cardíaco irregular
+ -tensão alta ou baixa; vermelhidão
+ -falta de ar
+ -indigestão; prisão de ventre
+ -falência hepática; aumentos nas enzimas hepáticas (gamaglutamiltransferase); icterícia
+ (amarelamento da pele ou das partes brancas dos olhos, causado por problemas de fígado ou de sangue); bilirrubina reduzida no intestino (colestase); fígado dilatado; inflamação do fígado
+ -exantema com prurido (urticária); comichão; vermelhidão (eritema)
+ 41
+ -testes da função renal anormais (creatinina sanguínea elevada; ureia elevada no sangue); falência
+ renal agravada
+ -aumento numa enzima chamada lactato desidrogenase
+ -coagulação na veia no local da administração; inflamação no local da administração; dor no local
+ da administração; retenção de líquidos no organismo
+ Raros (afecta 1 a 10 doentes em 10.000) -anemia devido à destruição dos glóbulos vermelhos (anemia hemolítica); destruição dos glóbulos
+ vermelhos (hemólise)
+ Desconhecido (a frequência não pode ser calculada a partir dos dados disponíveis)
+ -choque
+ -danos nas células do fígado; incluindo morte
+ -problemas renais; falência renal aguda
+ As seguintes reacções foram relatadas mais frequentemente em doentes pediátricos do que em doentes adultos: Frequentes (afecta 1 a 10 doentes em 100)
+ -diminuição das plaquetas sanguíneas (trombocitopenia)
+ -ritmo cardíaco elevado (taquicardia)
+ -tensão alta ou baixa
+ -bilirrubina elevada no sangue (hiperbilirrubinemia); fígado dilatado
+ -falência renal aguda; ureia elevada no sangue
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR MYCAMINE Manter fora do alcance e da vista das crianças.
+ Não utilize Mycamine após o prazo de validade impresso na embalagem exterior e no frasco para injectáveis. O prazo de validade corresponde ao último dia do mês indicado.
+ O frasco injectáveis selado não requer condições especiais de armazenamento. O concentrado reconstituído e a solução com a perfusão diluída devem ser utilizados de imediato.
+ Não utilize a solução para perfusão diluída, se verificar que esta se encontra turva ou precipitada.
+ De forma a proteger da luz a garrafa/saco de perfusão, que contém a solução para perfusão, esta deve ser colocada dentro de um saco opaco que se possa fechar.
+ O frasco para injectáveis é para uso único. Assim, por favor, elimine de imediato qualquer concentrado reconstituído e não utilizado.
+ Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ Mycamine reconstituído deve ser utilizado de imediato, pois não contém quaisquer conservantes para evitar a contaminação bacteriana. Só um profissional de saúde experiente, que tenha lido correctamente todas as instruções, pode preparar este medicamento para ser utilizado.
+ 6. OUTRAS INFORMAÇÕES 42 Qual a composição do Mycamine
+ -A substância activa é a micafungina sódica.
+ 1 frasco para injectáveis contém 50 mg ou 100 mg de micafungina (sódica).
+ -Os outros componentes são lactose monohidratada, ácido cítrico anidro e hidróxido de sódio.
+ Qual o aspecto de Mycamine e conteúdo da embalagem
+ Mycamine 50 mg ou 100 mg pó para solução para perfusão é um pó liofilizado, compacto de cor branca. Mycamine é apresentado numa caixa que contém 1 frasco para injectáveis.
+ Titular da Autorização de Introdução no Mercado Astellas Pharma Europe B. V. Elisabethhof 19 2353 EW Leiderdorp Países Baixos
+ Fabricante Astellas Ireland Co., Ltd. Killorglin, County Kerry Irlanda
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado:
+ België/Belgique/Belgien Astellas Pharma B. V. Branch Erasmus Park/Parc Erasme Square Marie Curie 50 B-1070 Brüssel/Bruxelles Tél/Tel: +32 (0) 2 5580737
+ Luxembourg/Luxemburg Astellas Pharma B. V. Branch Erasmus Park/Parc Erasme Square Marie Curie 50 B-1070 Brüssel/Bruxelles Belgique/Belgien Tél/Tel: +32 (0) 2 5580737
+ България Астелас Фарма Юръп Б. В./ЕВАГ ул. ” Бигла ” 6 София 1407 Teл.: +359 2 862 53 72
+ Magyarország Astellas Pharma Kft. Kelenhegyi út 43 H-1118 Budapest/B. III Tel.: +36 (06) 1 3614673
+ Česká republika Astellas Pharma s. r. o. Meteor Centre Office Park Sokolovskà 100/94 CZ-18600 Praha 8 Tel: +420 236 080300
+ Malta E. J. Busuttil Ltd. Niche Triq ix-Xorrox MT-B' kara BKP 12 Tel: +356 21 447184
+ Danmark Astellas Pharma a/s Naverland 4 DK-2600 Glostrup Tlf: +45 43 430355
+ Nederland Astellas Pharma B. V. Elisabethhof 19 NL-2353 EW Leiderdorp Tel: +31 (0) 71 5455745
+ Deutschland Astellas Pharma GmbH Georg-Brauchle-Ring 64 – 66
+ Norge Astellas Pharma Solbråveien 47 43 D-80992 München Tel: +49 (0) 89 454401
+ N-1383 Asker Tlf: +47 6676 4600 Eesti Algol Pharma OÜ Peterburi tee 44 EE-11415 Tallinn Tel: +372 6 056 014
+ Österreich Astellas Pharma Ges. m. b. H. Linzer Straße 221/E02 A-1140 Wien Tel: +43 (0) 1 8772668
+ Ελλάδα Astellas Pharmaceuticals AEBE 10ο χλµ Εθνικής Οδού, Αθηνών-Λαµίας GR-14451 Μεταµόρφωση Αττικής, Τηλ.: +30 210 2812640
+ Polska Astellas Pharma Sp. z o. o. ul. Poleczki 21 PL-02-822 Warszawa Tel.: +48 (0) 225451 111
+ España Astellas Pharma S. A. Paseo del Club Deportivo n° 1 Bloque 14-2a Planta E-28223 Pozuelo de Alarcón, Madrid Tel: +34 91 4952700
+ Portugal Astellas Farma, Lda. Edifício Cinema Rua José Fontana, n. °1, 1°Andar P-2770-101 Paço de Arcos Tel: +351 21 4401320
+ France Astellas Pharma S. A. S. 114 rue Victor Hugo F-92300 Levallois Perret Tél: +33 (0) 1 55917500
+ România Astellas Pharma Internaţional Detalii de contact pentru România Şoseaua Bucureşti-Ploieşti 42-44 Clădire 1, Parter 013696-Bucureşti-RO Tel: +40 (0) 21 361 04 95
+ Ireland Astellas Pharma Co. Ltd. 25, The Courtyard Kilcarbery Business Park Nangor Road Clondalkin IRL-Dublin 22 Tel: +353 (0) 1 4671555
+ Slovenija Veldos d. o. o. Germova 3 SI-8000 Novo Mesto Tel: +386 733 80420
+ Ísland Vistor hf. Hörgatúni 2 IS-210 Garðabær Tel: +354 535 7000
+ Slovenská republika Astellas Pharma s. r. o., organizačná zložka Záborského ul. 29 SK-831 03 Bratislava 3 Tel: +421 2 4444 2157
+ Italia Astellas Pharma S. p. A. Via delle Industrie 1 I-20061 Carugate (Milano) Tel: +39 (0) 2 921381
+ Suomi/Finland Algol Pharma Oy PL 13 FIN-02611 Espoo/Esbo Puh/Tel: +358 9 50991
+ Κύπρος Astellas Pharmaceuticals AEBE 10ο χλµ Εθνικής Οδού, Αθηνών-Λαµίας GR-14451 Μεταµόρφωση Αττικής, Τηλ.: +30 210 2812640
+ Sverige Astellas Pharma AB Haraldsgatan 5 S-41314 Göteborg Tel: +46 (0) 31 7416160
+ 44 Latvija SIA Algol Pharma „ Asarīši-3 ”, Mārupes pag. Rīgas raj., LV-2167 Tel: +371 67619365
+ United Kingdom Astellas Pharma Ltd. Lovett House Lovett Road, Staines Middlesex, TW18 3AZ Tel: +44 (0) 1784 419615
+ Lietuva UAB Algol Pharma 9-ojo Forto g. 70 LT-48179 Kaunas Tel: +370 37 408 681
+ Este folheto foi aprovado pela última vez em{ MM/AAAA}
+ Informação pormenorizada sobre este medicamento está disponível na Internet, no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu/.
+ ---------------------------------------------------------------------------------------------------------------------------
+ 45 A informação que se segue destina-se apenas aos médicos e aos profissionais de saúde:
+ Mycamine não deve ser misturado ou co-administrado com outros medicamentos excepto aqueles mencionados abaixo. Utilizando técnicas de assepsia e à temperatura ambiente, Mycamine é reconstituído e diluído da seguinte forma:
+ 1. A tampa de plástico deve ser removida do frasco e a rolha vedante desinfectada com álcool. 2. Cinco ml de cloreto de sódio a 9 mg/ml (0,9%) de solução para perfusão ou glucose a 50 mg/ml (5%) de solução para perfusão (tirado de uma garrafa/saco de 100 ml); a solução deverá ser asséptica e lentamente injectada em cada frasco para injectáveis, ao longo do lado da parede interna. Embora o concentrado faça espuma, deverão ser feitos todos os esforços para minimizar a quantidade de espuma criada. Deverão ser reconstituídos um número suficiente de frascos de Mycamine para obter a dose desejada (ver Tabela abaixo). 3. O frasco para injectáveis deve ser girado suavemente. NÃO AGITAR. O pó dissolver-se-á completamente. O concentrado deve ser imediatamente utilizado. O frasco para injectáveis é para uso único. Assim, por favor, elimine imediatamente qualquer concentrado reconstituído e não utilizado. 4. Todo o concentrado reconstituído deve ser retirado de cada frasco para injectáveis e reposto na garrafa/saco de perfusão de onde foi inicialmente tirado. A perfusão com a solução diluída deve ser utilizada de imediato. A estabilidade química e física de utilização foi comprovada para 96 horas, a 25ºC, quando protegida da luz e diluída da forma acima descrita. 5. A garrafa/saco de perfusão deve ser suavemente invertida(o) de forma a dispersar a solução diluída, mas NÃO agitar de forma a evitar a formação de espuma. Não utilizar, se a solução se encontrar turva ou precipitada. 6. A garrafa/saco de perfusão, que contém a solução com a perfusão diluída, deve ser colocada(o) num saco opaco que se possa fechar de forma a proteger da luz.
+ Preparação da solução para perfusão
+ Dose (mg) Frasco de Mycamine utilizado (mg/frasco)
+ Volume do cloreto de sódio (0,9%) ou glucose (5%) a ser adicionado por frasco
+ Volume (concentração) de pó reconstituído
+ Perfusão padrão (adicionada até 100 ml) Concentração Final
+ 50 100 150 200 1 x 50 1 x 100 1 x 100+ 1 x 50 2 x 100
+ 5 ml 5 ml 5 ml 5 ml
+ aprox. 5 ml (10 mg/ml) aprox. 5 ml (20 mg/ml) aprox. 10 ml aprox. 10 ml
+ 0,5 mg/ml 1,0 mg/ml 1,5 mg/ml 2,0 mg/ml 46

@@ -1,0 +1,581 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. NOME DO MEDICAMENTO
+ Nplate 250 microgramas, pó para solução injectável
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada frasco para injectáveis contém 250 µg de romiplostim. Após reconstituição um volume de administração de 0,5 ml de solução contém 250 µg de romiplostim (500 µg/ml). Adicionalmente incluí-se um acréscimo de solução em cada frasco para garantir que podem ser administrados 250 µg de romiplostim.
+ Romiplostim é produzido por Escherichia coli (E. coli) por tecnologia de ADN recombinante.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Pó para solução injectável. Pó branco. 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Nplate está indicado em doentes adultos esplenectomizados com púrpura trombocitopénica imune (PTI) (idiopática) crónica, refractários a outros tratamentos (ex. corticosteróides, imunoglobulinas).
+ Nplate pode ser considerado um tratamento de segunda linha em doentes adultos não esplenectomizados nos quais a cirurgia é contra-indicada.
+ 4.2 Posologia e modo de administração O tratamento deve ser feito sob a supervisão de um médico com experiência no tratamento de doenças hematológicas.
+ Nplate deve ser administrado uma vez por semana por injecção subcutânea.
+ Dose inicial A dose inicial de romiplostim é de 1 µg/kg com base no peso corporal.
+ Cálculo da dose Dose semanal inicial ou subsequente: Volume a administrar:
+ Peso* em kg x Dose em µg/kg= Dose individual por doente em µg= Quantidade a injectar em ml Dose em µg x 1 ml 500 µg
+ 2 Exemplo:
+ Inicia-se um doente de 75 kg com 1 µg/kg de romiplostim. A dose individual por doente= 75 kg x 1 µg= 75 µg A quantidade correspondente de solução Nplate a injectar= 75 µg x 1 ml= 0,15 ml 500 µg
+ * Deve utilizar-se sempre o peso corporal ao calcular a dose de romiplostim no início do tratamento. Os ajustes posteriores da dose baseiam-se apenas nas alterações da contagem de plaquetas e são feitos em aumentos de 1 µg (ver tabela abaixo).
+ Ajuste da dose Deve ser usado o peso corporal de um indivíduo no início da terapêutica para calcular a dose. A dose semanal de romiplostim deve ser aumentada com incrementos de 1 µg/kg até o doente atingir uma contagem de plaquetas ≥ 50 x 109/l. A contagem de plaquetas deve ser analisada semanalmente até se atingir uma contagem de plaquetas estável (≥ 50 x 109/l durante pelo menos 4 semanas sem ajuste da dose). Daí em diante deve ser feita mensalmente uma contagem de plaquetas. Não deve ser excedida a dose semanal máxima de 10 μg/kg.
+ Ajuste da dose: Contagem plaquetária (x 109/l)
+ Acção &lt; 50 &gt; 200 durante duas semanas consecutivas
+ Aumentar a dose semanal 1 μg/kg Reduzir a dose semanal 1 μg/kg
+ Não administrar, continuar a avaliar a contagem de plaquetas semanalmente &gt; 400 Depois da contagem de plaquetas ter descido para &lt; 200 x 109/l, retomar com uma dose semanal reduzida em 1 μg/kg
+ Uma perda de resposta ou inibição da manutenção de resposta plaquetária com romiplostim dentro do intervalo de doses recomendado deve desencadear uma procura dos factores causais (ver secção 4.4, perda de resposta a romiplostim).
+ Método de administração Após a reconstituição do pó, a solução de Nplate para injectável é administrada subcutaneamente. O volume de injecção pode ser muito pequeno. Deve ser utilizada uma seringa graduada em 0,01 ml.
+ Para instruções sobre a reconstituição do Nplate, ver secção 6.6.
+ Descontinuação do tratamento O tratamento com romiplostim deve ser descontinuado se a contagem de plaquetas não aumentar para um nível suficiente para evitar uma hemorragia clinicamente significativa, após quatro semanas de terapêutica com romiplostim com a dose semanal mais elevada de 10 μg/kg.
+ Os doentes devem ser avaliados clinicamente de forma periódica e a continuação do tratamento deve ser decidida pelo médico de forma individual. É previsível que haja recorrência da trombocitopenia quando se descontinua o tratamento (ver secção 4.4).
+ 3 Doentes idosos (≥ 65 anos de idade)
+ Não se observou qualquer diferença global em termos de segurança ou de eficácia nos doentes com idade &lt; 65 e ≥ 65 anos (ver secção 5.1). Embora, com base nestes dados, não seja necessário fazer qualquer ajuste da dose em doentes idosos, aconselha-se precaução tendo em consideração o baixo número de doentes idosos incluídos até à data nos ensaios clínicos.
+ Crianças e adolescentes (&lt; 18 anos de idade)
+ Nplate não é recomendado em crianças com idade inferior a 18 anos devido a dados insuficientes de segurança ou eficácia. Não é possível fornecer qualquer conselho sobre a dose para esta população de doentes.
+ Disfunção hepática e renal Não foram efectuados quaisquer estudos clínicos formais nestas populações de doentes. Nplate deve ser utilizado com precaução nestas populações.
+ 4.3 Contra-indicações Hipersensibilidade à substância activa ou a qualquer um dos excipientes ou a proteínas derivadas de E. coli.
+ 4.4 Advertências e precauções especiais de utilização
+ As seguintes advertências e precauções especiais foram observadas ou são potenciais efeitos de classe baseados no mecanismo de acção farmacológico dos estimuladores do receptor da trombopoietina (TPO).
+ Recorrência da trombocitopenia e hemorragia após paragem do tratamento
+ É provável que haja recorrência da trombocitopenia após a descontinuação do tratamento com romiplostim. Existe um risco aumentado de hemorragia se o tratamento com romiplostim for descontinuado na presença de agentes anticoagulantes ou antiplaquetários. Aquando da descontinuação do tratamento com romiplostim, os doentes devem ser cuidadosamente monitorizados para verificar se há uma redução na contagem de plaquetas e controlados medicamente para evitar uma hemorragia. No caso de se descontinuar o tratamento com romiplostim, recomenda-se que se reinicie o tratamento da PTI de acordo com as normas orientadoras de tratamento actuais. Uma decisão médica adicional pode incluir a cessação da terapêutica anticoagulante e/ou antiplaquetária, reversão da anticoagulação ou suporte plaquetário.
+ Aumento da reticulina da medula óssea Pensa-se que o aumento da reticulina da medula óssea seja o resultado da estimulação do receptor da TPO, o que leva a um aumento do número de megacariócitos na medula óssea, os quais poderão subsequentemente libertar citocinas. O aumento da reticulina pode ser sugerido por alterações morfológicas nas células do sangue periférico e pode ser detectado por biopsia da medula óssea. Assim, recomenda-se que se façam exames para pesquisa de alterações da morfologia celular utilizando esfregaços de sangue periférico e que se efectue um hemograma completo antes e durante o tratamento com romiplostim. Ver secção 4.8 para informação sobre o aumento da reticulina observada nos ensaios clínicos com romiplostim.
+ No caso de se observar uma perda de eficácia e alterações no esfregaço de sangue periférico, deve descontinuar-se a administração de romiplostim, efectuar-se um exame físico e considerar-se ainda fazer uma biopsia da medula óssea com uma coloração apropriada para a reticulina. Caso seja possível, deve fazer-se uma comparação com uma biopsia anterior da medula óssea. No caso de se manter a eficácia e caso se observem alterações no esfregaço de sangue periférico dos doentes, o
+ 4 médico deve seguir um critério clínico adequado, incluindo considerar fazer uma biopsia da medula óssea e reavaliar o risco-benefício de romiplostim e opções alternativas de tratamento da PTI.
+ Complicações trombóticas/tromboembólicas Uma contagem de plaquetas acima do intervalo normal de referência constitui um risco teórico para a ocorrência de complicações trombóticas/tromboembólicas. A incidência de acontecimentos trombóticos/tromboembólicos observados nos ensaios clínicos foi similar entre o romiplostim e o placebo e não se observou qualquer relação entre estes acontecimentos e uma contagem elevada de plaquetas. Devem seguir-se as directrizes para ajuste da dose (ver secção 4.2).
+ Progressão de doenças hematopoiéticas malignas ou de Síndromas Mielodisplásicas (SMD)
+ Os estimuladores do receptor da TPO são factores de crescimento que levam à expansão das células progenitoras da trombopoiese, à diferenciação e à produção de plaquetas. O receptor da TPO exprime-se predominantemente na superfície das células da linhagem mielóide. No caso dos estimuladores do receptor da TPO, existe a preocupação teórica de que os mesmos possam estimular a progressão de doenças hematopoiéticas malignas ou de SMD.
+ Romiplostim não deve ser usado fora do âmbito de ensaios clínicos no tratamento da trombocitopenia devido a SMD ou a outra causa de trombocitopenia além da PTI. O risco-benefício do romiplostim não foi estabelecido no SMD ou em outra população de doentes não PTI. Num ensaio clínico com um só braço, aberto, do tratamento de doentes com SMD com romiplostim, foram notificados casos de progressão de leucemia mielóide aguda (LMA). No entanto, este é um resultado clínico esperado do SMD e não é clara a relação com o tratamento com romiplostim. Adicionalmente, observaram-se nestes estudos aumentos transitórios de células blásticas. O aumento transitório das células blásticas foi reversível após descontinuação do romiplostim. Assim, esta observação é inconsistente com a progressão de LMA. Não é possível distinguir blastos leucémicos de blastos normais.
+ Perda de resposta ao romiplostim Uma perda de resposta ou um insucesso na manutenção da resposta plaquetária no tratamento com romiplostim no intervalo de dose recomendado deve desencadear a pesquisa imediata de factores causais, incluindo imunogenicidade (ver secção 4.8) e aumento da reticulina da medula óssea (ver acima).
+ Efeitos do romiplostim em glóbulos vermelhos e brancos
+ Foram observadas alterações nos parâmetros dos glóbulos vermelhos (redução) e brancos (aumento) em estudos toxicológicos não clinicos (rato e macaco) mas não em doentes com PTI. A monitorização destes parâmetros deve ser considerada em doentes tratados com romiplostim.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Não foram realizados estudos de interacção. As interacções potenciais por ligação às proteínas plasmáticas entre romiplostim e fármacos co-administrados continua desconhecido.
+ Em estudos clínicos, os medicamentos utilizados em combinação com romiplostim para o tratamento da PTI incluíram corticosteróides, danazol e/ou azatioprina, imunoglobulina intravenosa polivalente (IVIG) e imunoglobulina anti-D. A contagem de plaquetas deve ser monitorizada quando se combina romiplostim com outras terapêuticas medicamentosas para o tratamento da PTI, de modo a evitar que uma contagem de plaquetas caia fora do intervalo de referência recomendado (ver secção 4.2).
+ A utilização de corticosteróides, danazol e azatioprina pode ser reduzida ou descontinuada quando administrada em combinação com romiplostim (ver secção 5.1). As contagens plaquetárias devem ser monitorizadas quando se reduz ou descontinua qualquer tratamento para a PTI de forma a evitar níveis plaquetários inferiores aos recomendados (ver secção 4.2).
+ 5 4.6 Gravidez e aleitamento
+ No que respeita ao romiplostim, não existem dados clínicos sobre as gravidezes a ele expostas.
+ Os estudos em animais revelaram toxicidade reprodutiva, tal como passagem transplacentária e aumento da contagem de plaquetas fetais em ratos (ver secção 5.3). Desconhece-se o risco potencial para o ser humano.
+ Romiplostim não deverá ser utilizado durante a gravidez, a menos que tal seja claramente necessário.
+ Não existem dados relativos à excreção de romiplostim no leite materno. Contudo é provável que haja excreção e não se pode excluir o risco para a criança lactante.
+ Deve ser tomada uma decisão relativa a continuar/descontinuar a amamentação ou continuar/descontinuar o romiplostim tendo em atenção o benefício da amamentação para a criança e o benefício do romiplostim para a mulher.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas. Contudo, os doentes devem ser informados que em alguns doentes em ensaios clínicos ocorreram episódios transitórios de tonturas, o que pode afectar a capacidade de conduzir e de utilizar máquinas.
+ 4.8 Efeitos indesejáveis Com base numa análise de todos os doentes adultos com PTI que receberam romiplostim em 4 estudos clínicos controlados e 5 não controlados, a incidência global dos acontecimentos adversos em doentes tratados com romiplostim foi de 95,1% (248/271). A duração média de exposição da população ao romiplostim nestes estudos foi de 50 semanas.
+ Os acontecimentos adversos listados no quadro abaixo são atribuíveis pelos investigadores ao tratamento e ocorrem com uma incidência &gt; 1% (n= 271).
+ As frequências são definidas como: Muito Frequentes (≥ 1/10) e Frequentes (≥ 1/100 a &lt; 1/10). Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência e de cada classe de sistemas de órgãos da MedDRA.
+ Classes de sistemas de órgãos MedDRA Muito Frequentes Frequentes Doenças do sangue e do sistema linfático Perturbações do foro psiquiátrico
+ Alterações da medula óssea* Trombocitopenia* Insónia
+ Doenças do sistema nervoso Cefaleias Tonturas Parestesias Enxaqueca Vasculopatias Doenças respiratórias, torácicas e do mediastino
+ Vermelhidão Embolia pulmonar* Doenças gastrointestinais Naúsea Diarreia Dor abdominal Dispepsia Obstipação
+ 6 Classes de sistemas de órgãos MedDRA
+ Muito Frequentes Frequentes Afecções dos tecidos cutâneos e subcutâneas
+ Prurido Equimose Erupção cutânea Afecções músculosqueléticas e dos tecidos conjuntivos
+ Artralgia Mialgia Dor nas extremidades Espasmo muscular Dor nas costas Dor nos ossos
+ Perturbações gerais e alterações no local de administração
+ Fadiga Queimadura no local de injecção Dor no local de injecção Edema periférico Sintomas de gripe Dor Astenia Pirexia Arrepios Hematoma no local de administração Edema no local de administração
+ Complicações de intervenções relacionadas com lesões e intoxicações* ver secção 4.4
+ Contusão Considerou-se adicionalmente que os acontecimentos abaixo descritos estão relacionados com o tratamento com romiplostim.
+ Trombocitose Com base numa análise de todos os doentes adultos com PTI que receberam romiplostim em 4 estudos clínicos controlados e 5 não controlados, foram notificadas 3 ocorrências de trombocitose, n= 271. Não foram notificadas sequelas clínicas em associação com o aumento da contagem plaquetária em nenhum dos 3 indivíduos.
+ Trombocitopenia após paragem do tratamento
+ Com base numa análise de todos os doentes adultos com PTI que receberam romiplostim em 4 estudos clínicos controlados e 5 não controlados, foram notificadas 4 ocorrências de trombocitopenia após conclusão do tratamento, n= 271 (ver secção 4.4).
+ Aumento da reticulina da medula óssea Em estudos clínicos, o tratamento com romiplostim foi descontinuado em 4 de 271 doentes devido à deposição de reticulina na medula óssea. Noutros 6 doentes, observou-se reticulina quando se efectuou a biopsia da medula óssea (ver secção 4.4).
+ Imunogenicidade Nos estudos clínicos foram observados os anticorpos contra o romiplostim. Dos 271 doentes adultos com PTI a receberem romiplostim em programas clínicos para a PTI, um doente desenvolveu anticorpos capazes de neutralizar a actividade de romiplostim, mas estes anticorpos não reagiram de forma cruzada com a TPO endógena. Aproximadamente 4 meses mais tarde, os resultados dos testes do doente foram negativos para os anticorpos neutralizantes do romiplostim.
+ 7 Assim como com todas as proteínas terapêuticas, existe um potencial para imunogenicidade. No caso de se suspeitar de formação de anticorpos neutralizantes, deverá ser contactado o representante local do Titular da Autorização de Introdução no Mercado (ver secção 6 do Folheto Informativo) para se efectuarem testes de anticorpos.
+ 4.9 Sobredosagem Nos primeiros estudos clínicos efectuados, a dose máxima de romiplostim foi de 30 µg/kg. Posteriormente, esta dose foi reduzida para 10 µg/kg devido à ausência de benefícios clínicos adicionais com as doses acima deste nível.
+ Não se observaram quaisquer reacções adversas em ratos que receberam uma dose única de 1000 μg/kg ou em macacos após a administração repetida de romiplostim a 500 µg/kg (100 ou 50 vezes a dose clínica máxima de 10 µg/kg, respectivamente).
+ No caso de uma sobredosagem, a contagem de plaquetas pode aumentar acima do intervalo normal. A contagem de plaquetas deve ser monitorizada e deve administrar-se um tratamento apropriado (ver secção 4.2).
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: anti-hemorrágico; código ATC: B02BX04
+ Romiplostim é uma proteína de fusão de um péptido-Fc (pepticorpo) que sinaliza e activa as vias de transcrição intracelular através do receptor da trombopoietina (TPO) (também conhecido por cMpl) para aumentar a produção de plaquetas. A molécula do pepticorpo é constituída pelo domínio Fc de uma imunoglobulina IgG1 humana, com cada subunidade de cadeia simples covalentemente ligada pelo terminal C a uma cadeia peptídica que contém dois domínios de ligação do receptor da TPO.
+ Romiplostim não apresenta qualquer homologia com a sequência de aminoácidos da TPO endógena. Em estudos pré-clinicos e clínicos nenhum anticorpo anti-romiplostim reagiu de forma cruzada com a TPO endógena.
+ Dados clínicos A segurança e eficácia do romiplostim foram avaliadas durante 3 anos de tratamento contínuo. Em estudos clínicos, o tratamento com romiplostim resultou em aumentos da contagem de plaquetas dependentes da dose. O tempo até se atingir o efeito máximo em termos de contagem de plaquetas é, aproximadamente, 10-14 dias e é independente da dose. Após uma dose única subcutânea de romiplostim de 1 a 10 µg/kg em doentes com PTI, a contagem máxima de plaquetas ao longo de um período de 2 a 3 semanas foi 1,3 a 14,9 vezes superior à contagem de plaquetas no início do tratamento (baseline) e a resposta foi variável entre os doentes. A contagem de plaquetas nos doentes com PTI que receberam 6 doses semanais de 1 a 3 µg/kg de romiplostim situou-se no intervalo de 50 a 450 x 109/l para a maioria dos doentes. Dos 271 doentes que receberam romiplostim em estudos clínicos da PTI,55 (20%) tinham 65 anos de idade ou mais e 27 (10%) tinham 75 anos ou mais. Não se observaram quaisquer diferenças globais em termos de segurança ou de eficácia entre os doentes mais idosos e os mais jovens nos estudos controlados por placebo.
+ Resultados de estudos principais controlados por placebo
+ A segurança e eficácia de romiplostim foram avaliadas em dois estudos controlados por placebo, em dupla ocultação, em adultos com PTI que completaram pelo menos um tratamento antes da entrada no estudo e que são representativos de todo o espectro de doentes com PTI.
+ 8 O estudo S1 (212) avaliou doentes não esplenectomizados, que tiveram uma resposta inadequada ou que foram intolerantes a terapêuticas anteriores. Os doentes tinham sido diagnosticados com PTI durante aproximadamente 2 anos antes da entrada no estudo. A mediana do número de tratamentos para a PTI feitos pelos doentes (intervalo de 1 a 7) antes da entrada no estudo foi 3. Os tratamentos anteriores incluíram corticosteróides (90% de todos os doentes), imunoglobulinas (76%), rituximab (29%), terapêuticas citotóxicas (21%), danazol (11%) e azatioprina (5%). A mediana da contagem de plaquetas dos doentes na altura da entrada no estudo foi 19 X 109/l.
+ O estudo S2 (105) avaliou doentes esplenectomizados e que continuaram a ter trombocitopenia. Os doentes tinham sido diagnosticados com PTI durante aproximadamente 8 anos antes da entrada no estudo. Para além de uma esplenectomia, a mediana do número de tratamentos para a PTI feitos pelos doentes (intervalo de 3 a 10) antes da entrada no estudo foi 6. Os tratamentos anteriores incluíram corticosteróides (98% de todos os doentes), imunoglobulinas (97%), rituximab (71%), danazol (37%), terapêuticas citotóxicas (68%) e azatioprina (24%). A mediana da contagem de plaquetas dos doentes na altura da entrada no estudo foi 14 x 109/l.
+ Ambos os estudos apresentavam um desenho similar. Os doentes (≥ 18 anos de idade) foram aleatorizados numa razão de 2: 1 de modo a receberem uma dose inicial de romiplostim de 1 µg/kg ou placebo. Os doentes receberam injecções subcutâneas semanais durante 24 semanas. As doses foram ajustadas de modo a manter a contagem de plaquetas entre 50 a 200 x 109/l. Em ambos os estudos, a eficácia foi determinada por um aumento na proporção de doentes que atingiram uma resposta plaquetária duradoura. A dose semanal média para os doentes esplenectomizados foi de 3 µg/kg e para os doentes não esplenectomizados foi de 2 µg/kg.
+ Em ambos os estudos, uma proporção significativamente superior de doentes a receberem romiplostim atingiu uma resposta plaquetária duradoura comparativamente com os doentes a receberem placebo. Nos estudos controlados por placebo, após as primeiras 4 semanas de estudo, o romiplostim manteve a contagem de plaquetas ≥ 50 x 109/l entre 50% a 70% dos doentes durante o período de tratamento de 6 meses. No grupo do placebo,0% a 7% dos doentes conseguiram atingir uma resposta em termos de contagem de plaquetas, durante os 6 meses de tratamento. Abaixo encontra-se um resumo dos principais resultados de eficácia.
+ Resumo dos principais resultados de eficácia dos estudos controlados por placebo
+ Estudo 1 Estudo 2 Estudos 1 e 2 combinados doentes não doentes esplenectomizados esplenectomizados Nº (%) de doentes com
+ romiplostim (n= 41)
+ Placebo romiplostim (n= 21) (n= 42)
+ Placebo romiplostim (n= 21) (n= 83)
+ Placebo (n= 42) uma resposta plaquetária duradouraa
+ 25 (61%) 1 (5%) 16 (38%) 0 (0%) 41 (50%) 1 (2%) (95% IC)
+ (45%,76%)
+ (0%,24%)
+ (24%,54%)
+ (0%,16%)
+ (38%,61%)
+ (0%,13%)
+ p Nº (%) de doentes com
+ &lt; 0,0001
+ 0,0013 &lt; 0,0001
+ uma resposta plaquetária globalb
+ 36 (88%) 3 (14%) 33 (79%) 0 (0%) 69 (83%) 3 (7%) (95% IC)
+ (74%,96%)
+ (3%,36%)
+ (63%,90%)
+ (0%,16%)
+ (73%,91%)
+ (2%,20%)
+ p
+ &lt; 0,0001 &lt; 0,0001
+ &lt; 0,0001
+ 9
+ Estudo 1 Estudo 2 Estudos 1 e 2 combinados doentes não doentes esplenectomizados esplenectomizados Nº médio de semanas com
+ romiplostim (n= 41)
+ Placebo romiplostim Placebo romiplostim (n= 21) (n= 42) (n= 21) (n= 83)
+ Placebo (n= 42) resposta plaquetáriac
+ 15 1 12 0 14
+ 1 (DP)
+ 3,5 7,5 7,9 0,5 7,8
+ 2,5 p Nº (%) de doentes a precisarem de
+ &lt; 0,0001
+ &lt; 0,0001
+ &lt; 0,0001
+ terapêuticas de emergênciad
+ 8(20%) 13 (62%) 11 (26%) 12 (57%) 19 (23%) 25 (60%) (43%, (95% IC)
+ (9%,35%)
+ (38%,82%)
+ (14%,42%)
+ (34%,78%)
+ (14%,33%)
+ 74%) p Nº (%) de doentes com resposta
+ 0,001 0,0175 &lt; 0,0001
+ plaquetária duradoura com uma dose estávele
+ 21 (51%) 0 (0%) 13 (31%) 0 (0%) 34 (41%) 0 (0%) (95% IC)
+ (35%,67%)
+ (0%,16%)
+ (18%,47%) (0%,16%) (30%,5
+ (0%,16%) (18%,47%) (0%,16%)
+ (30%,52%)
+ (0%,8%)
+ p a
+ 0,0001 0,0046 &lt; 0,0001
+ Resposta plaquetária duradoura foi definida como uma contagem plaquetária semanal ≥ 50 x 109/l durante 6 ou mais vezes durante as semanas de estudo 18-25, na ausência de terapêutica de emergência em qualquer altura durante o período de tratamento. b Resposta plaquetária global foi definida como a obtenção de respostas plaquetárias duradouras ou transitórias. Resposta plaquetária transitória foi definida como uma contagem plaquetária semanal ≥ 50 x 109/l durante 4 ou mais vezes nas semanas de estudo 2-25, mas sem resposta plaquetária duradoura. O doente pode não ter obtido uma resposta semanal num período de 8 semanas depois de receber qualquer medicamento de emergência. c Número de semanas com resposta plaquetária foi definido como sendo o número de semanas com uma contagem de plaquetas ≥ 50 x 109/l durante as semanas de estudo 2-25. O doente podia não apresentar uma resposta semanal num período de 8 semanas depois de receber qualquer medicamento de emergência. d Terapêutica de emergência foi definida como sendo qualquer terapêutica administrada para elevar a contagem de plaquetas. Os doentes que precisaram de receber medicamentos de emergência não foram considerados para a resposta plaquetária duradoura. As terapêuticas de emergência permitidas no estudo foram IVIG (Imunoglobulina Intravenosa), transfusões de plaquetas, imunoglobulina anti-D e corticosteróides. e Dose estável foi definida como a dose mantida entre ± 1 µg/kg durante as últimas 8 semanas de tratamento.
+ Redução das terapêuticas medicamentosas concomitantes permitidas para a PTI
+ Em ambos os estudos controlados por placebo, em dupla ocultação, foi permitido aos doentes que já estavam a receber terapêuticas medicamentosas para a PTI com uma posologia constante continuarem a receber estes tratamentos medicamentosos durante todo o estudo (corticosteróides, danazol e/ou azatioprina). Vinte e um doentes não esplenectomizados e 18 doentes esplenectomizados receberam no início do estudo tratamentos medicamentosos permitidos no estudo para a PTI (principalmente corticosteróides). Todos (100%) os doentes esplenectomizados que estavam a receber romiplostim conseguiram reduzir a dose em mais de 25% ou descontinuaram as terapêuticas medicamentosas 10 concomitantes para a PTI no final do período de tratamento, em comparação com 17% dos doentes tratados com placebo. Setenta e três por cento dos doentes não esplenectomizados a receberem romiplostim conseguiram reduzir a dose em mais de 25% ou descontinuaram no final do estudo as terapêuticas medicamentosas concomitantes para a PTI, em comparação com 50% dos doentes tratados com placebo (ver secção 4.5).
+ Acontecimentos hemorrágicos Observou-se uma relação inversa entre os acontecimentos hemorrágicos e a contagem de plaquetas em todo o programa clínico da PTI. Todos os acontecimentos hemorrágicos clinicamente significativos (≥ grau 3) ocorreram com uma contagem de plaquetas &lt; 30 x 109/l. Todos os acontecimentos hemorrágicos ≥ grau 2 ocorreram com uma contagem de plaquetas &lt; 50 x 109/l. Não foram observadas diferenças estatisticamente significativas na globalidade dos acontecimentos hemorrágicos entre os doentes tratados com Nplate e o placebo.
+ Nos dois estudos controlados por placebo,9 doentes referiram um acontecimento hemorrágico que foi considerado grave (5[ 6,0%] romiplostim,4[ 9,8%] placebo); taxa de probabilidade[ romiplostim/placebo]= 0,59; 95% IC= (0,15, 2,31 )) Os acontecimentos hemorrágicos de grau 2 ou superior foram notificados por 15% dos doentes tratados com romiplostim e 34% dos doentes tratados com placebo. (Taxa de probabilidade;[ romiplostim/placebo]= 0,35; 95% CI= (0,14, 0,85 )).
+ 5.2 Propriedades farmacocinéticas A farmacocinética de romiplostim envolve a disposição mediada pelo alvo, sendo presumivelmente mediada por receptores da TPO nas plaquetas e noutras células da linhagem trombopoiética, tais como os megacariócitos.
+ Absorção Após a administração subcutânea de 3 a 15 μg/kg de romiplostim, obtiveram-se níveis séricos máximos de romiplostim nos doentes com PTI após 7-50 horas (média de 14 horas). As concentrações séricas variaram entre doentes e não se correlacionaram com a dose administrada. Os níveis séricos de romiplostim parecem relacionar-se inversamente com a contagem de plaquetas.
+ Distribuição O volume de distribuição de romiplostim após uma administração intravenosa de romiplostim diminuiu de forma não linear de 122, para 78,8 e para 48,2 ml/kg para doses intravenosas de 0,3; 1,0 e 10 μg/kg, respectivamente, em indivíduos saudáveis. Esta redução não linear do volume de distribuição está em linha com a ligação de romiplostim mediada em função do alvo (megacariócitos e plaquetas), a qual pode ficar saturada para as doses mais elevadas aplicadas.
+ Eliminação A semi-vida de eliminação de romiplostim em doentes com PTI variou entre 1 a 34 dias (média de 3,5 dias). A eliminação de romiplostim sérico depende em parte do receptor da TPO nas plaquetas. Como resultado para uma dada dose, os doentes com uma contagem de plaquetas elevada estão associados a concentrações séricas baixas e vice-versa. Noutro estudo clínico com PTI, não se observou acumulação nas concentrações séricas após 6 doses semanais de romiplostim (3 μg/kg).
+ Populações especiais de doentes A farmacocinética de romiplostim em doentes com insuficiência renal e hepática não foi investigada. A farmacocinetica do romiplostim parece não ser afectada pela idade, peso e sexo numa extensão clinicamente significativa.
+ 11 5.3 Dados de segurança pré-clínica
+ Foram realizados estudos toxicológicos em ratos com doses múltiplas de romiplostim durante 4 semanas e em macacos até 6 meses. Em geral, os efeitos observados durante estes estudos estavam relacionados com a actividade trombopoiética de romiplostim e foram similares independentemente da duração do estudo. As reacções no local de injecção também estavam relacionadas com a administração de romiplostim. Observou-se mielofibrose na medula óssea de ratos com todos os níveis de dose testados. Nestes estudos não se observou mielofibrose em animais após um período de recuperação pós-tratamento de 4 semanas, indicando haver reversibilidade.
+ Num estudo toxicológico de 1 mês em ratos e macacos, foi observado um ligeiro decréscimo na contagem dos glóbulos vermelhos, hematócrito e hemoglobina. Houve também um efeito estimulador da produção dos leucócitos, porque houve um ligeiro aumento da contagem de neutrófilos, linfócitos, monócitos e eosinófilos no sangue periférico. Em estudos crónicos de longa duração em macacos, onde o romiplostim foi administrado durante 6 meses e onde a administração de romiplostim foi reduzida de três vezes por semana para uma vez por semana, não houve qualquer efeito nas linhagens eritrocitária e leucocitária. Adicionalmente, na terceira fase dos estudos fundamentais, romiplostim não afectou as linhagens dos glóbulos vermelhos e brancos comparativamente com os animais tratados com placebo.
+ Devido à formação de anticorpos neutralizantes, os efeitos farmacodinâmicos de romiplostim em ratos frequentemente diminuíram para durações de administração prolongadas .. Os estudos de toxicocinética não mostraram haver quaisquer interacções dos anticorpos com as concentrações medidas. Embora tenham sido testadas doses elevadas nos estudos com animais, não é possível estimar margens de segurança com fiabilidade, dadas as diferenças entre as espécies laboratoriais e o ser humano no que diz respeito à sensibilidade, ao efeito farmacodinâmico de romiplostim e ao efeito dos anticorpos neutralizantes.
+ Carcinogénese: Não foi avaliado o potencial carcinogénico de romiplostim. Assim, o risco de potencial carcinogenicidade de romiplostim no ser humano continua a ser desconhecido.
+ Toxicidade reprodutiva: Em todos os estudos de desenvolvimento formaram-se anticorpos neutralizantes que podem ter inibido os efeitos de romiplostim. Em estudos de desenvolvimento embriofetal em ratinhos e ratos, só se observaram reduções no peso corporal materno do ratinho. No ratinho houve evidências de aumento de perda pós-implantação. Num estudo do desenvolvimento pré-natal e pós-natal em ratos observou-se um aumento na duração da gestação e um ligeiro aumento na incidência de mortalidade peri-natal das crias. Sabe-se que romiplostim atravessa a barreira placentária nos ratos e pode ser transmitido da mãe para o feto em desenvolvimento e estimular a produção de plaquetas no feto. Romiplostim não teve qualquer efeito observável na fertilidade dos ratos.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Manitol (E421) Sacarose L-Histidina Ácido clorídrico (para acerto do pH) Polissorbato 20
+ 6.2 Incompatibilidades Na ausência de estudos de compatibilidade, este medicamento não deve ser misturado com outros medicamentos, excepto aqueles mencionados na secção 6.6.
+ 12 6.3 Prazo de validade
+ 3 anos. Após reconstituição: Demonstrou-se a existência de estabilidade química e física na utilização durante 24 horas a 25°C e durante 24 horas entre 2°C – 8°C, quando protegido da luz e mantido no frasco para injectáveis original.
+ Do ponto de vista microbiológico, o produto deve ser utilizado imediatamente. Se não for utilizado imediatamente, os tempos de conservação durante a utilização e as condições antes de utilizar são da responsabilidade do utilizador e não deverão, normalmente, exceder as 24 horas a 25ºC ou 24 horas num frigorífico (2ºC – 8ºC), protegido da luz.
+ 6.4 Precauções especiais de conservação
+ Conservar no frigorífico (2°C – 8°C). Não congelar. Conservar na embalagem de origem para proteger da luz.
+ Condições de conservação do medicamento reconstituído, ver secção 6.3.
+ 6.5 Natureza e conteúdo do recipiente Frasco para injectáveis de 5 ml (em vidro transparente do tipo I) com rolha (borracha de clorobutilo), selo (alumínio) e tampa descartável (polipropileno).
+ Embalagem contendo 1 ou 4 frascos para injectáveis de 250 µg de romiplostim.
+ É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ Nplate é um produto estéril, contudo sem conservantes, e destina-se apenas a uma única utilização. O Nplate deve ser reconstituído de acordo com as boas práticas de assepsia.
+ Nplate 250 µg pó para solução injectável deve ser reconstituído com 0,72 ml de água para injectáveis estéril, providenciando um volume de 0,5 ml. Adicionalmente inclui-se um acrescimo de solução em cada frasco de forma a garantir que são administrados 250 µg de romiplostim.
+ Não devem ser utilizadas soluções de cloreto de sódio ou água bacteriostática ao reconstituir o medicamento.
+ Deve injectar-se água para injectáveis no frasco para injectáveis de Nplate. O conteúdo do frasco para injectáveis pode ser cuidadosamente rodado e invertido durante a dissolução. O frasco não deve ser sacudido ou fortemente agitado. Geralmente, a dissolução de Nplate demora menos de 2 minutos. A solução deve ser visualmente inspecionada para ver se existe matéria na forma de partículas e descoloração antes da administração. A solução reconstituída deve ser límpida e incolor e não deve ser administrada no caso de se observarem partículas e/ou descoloração.
+ Para informações sobre as condições de conservação do produto reconstituído ver secção 6.3.
+ Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 13 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Amgen Europe B. V. Minervum 7061 4817 ZK Breda Países Baixos
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/08/497/001 EU/1/08/497/003 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 4 Fevereiro 2009 10. DATA DA REVISÃO DO TEXTO Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu/.
+ 14 1. NOME DO MEDICAMENTO
+ Nplate 500 microgramas, pó para solução injectável
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada frasco para injectáveis contém 500 µg de romiplostim. Após reconstituição um volume de administração de 1 ml de solução contém 500 µg de romiplostim (500 µg/ml). Adicionalmente incluí-se um acréscimo de solução em cada frasco para garantir que podem ser administrados 500 µg de romiplostim.
+ Romiplostim é produzido por Escherichia coli (E. coli) por tecnologia de ADN recombinante.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Pó para solução injectável. Pó branco. 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Nplate está indicado em doentes adultos esplenectomizados com púrpura trombocitopénica imune (PTI) (idiopática) crónica, refractários a outros tratamentos (ex. corticosteróides, imunoglobulinas).
+ Nplate pode ser considerado um tratamento de segunda linha em doentes adultos não-esplenectomizados nos quais a cirurgia é contra-indicada.
+ 4.2 Posologia e modo de administração O tratamento deve ser feito sob a supervisão de um médico com experiência no tratamento de doenças hematológicas.
+ Nplate deve ser administrado uma vez por semana por injecção subcutânea.
+ Dose inicial A dose inicial de romiplostim é de 1 µg/kg com base no peso corporal.
+ Cálculo da dose Dose semanal inicial ou subsequente: Volume a administrar:
+ Peso* em kg x Dose em µg/kg= Dose individual por doente em µg= Quantidade a injectar em ml Dose em µg x 1 ml 500 µg
+ 15 Exemplo:
+ Inicia-se um doente de 75 kg com 1 µg/kg de romiplostim. A dose individual por doente= 75 kg x 1 µg= 75 µg A quantidade correspondente de solução Nplate a injectar= 75 µg x 1 ml= 0,15 ml 500 µg
+ * Deve utilizar-se sempre o peso corporal ao calcular a dose de romiplostim no início do tratamento. Os ajustes posteriores da dose baseiam-se apenas nas alterações da contagem de plaquetas e são feitos em aumentos de 1 µg (ver tabela abaixo).
+ Ajuste da dose Deve ser usado o peso corporal de um indivíduo no início da terapêutica para calcular a dose. A dose semanal de romiplostim deve ser aumentada com incrementos de 1 µg/kg até o doente atingir uma contagem de plaquetas ≥ 50 x 109/l. A contagem de plaquetas deve ser analisada semanalmente até se atingir uma contagem de plaquetas estável (≥ 50 x 109/l durante pelo menos 4 semanas sem ajuste da dose). Daí em diante deve ser feita mensalmente uma contagem de plaquetas. Não deve ser excedida a dose semanal máxima de 10 μg/kg.
+ Ajuste da dose: Contagem plaquetária (x 109/l)
+ Acção &lt; 50 &gt; 200 durante duas semanas consecutivas
+ Aumentar a dose semanal 1 μg/kg Reduzir a dose semanal 1 μg/kg
+ Não administrar, continuar a avaliar a contagem de plaquetas semanalmente &gt; 400 Depois da contagem de plaquetas ter descido para &lt; 200 x 109/l, retomar com uma dose semanal reduzida em 1 μg/kg
+ Uma perda de resposta ou inibição da manutenção de resposta plaquetária com romiplostim dentro do intervalo de doses recomendado deve desencadear uma procura dos factores causais (ver secção 4.4, perda de resposta a romiplostim).
+ Método de administração Após a reconstituição do pó, a solução de Nplate para injectável é administrada subcutaneamente. O volume de injecção pode ser muito pequeno. Deve ser utilizada uma seringa graduada em 0,01 ml.
+ Para instruções sobre a reconstituição do Nplate, ver secção 6.6.
+ Descontinuação do tratamento O tratamento com romiplostim deve ser descontinuado se a contagem de plaquetas não aumentar para um nível suficiente para evitar uma hemorragia clinicamente significativa, após quatro semanas de terapêutica com romiplostim com a dose semanal mais elevada de 10 μg/kg.
+ Os doentes devem ser avaliados clinicamente de forma periódica e a continuação do tratamento deve ser decidida pelo médico de forma individual. É previsível que haja recorrência da trombocitopenia quando se descontinua o tratamento (ver secção 4.4).
+ 16 Doentes idosos (≥ 65 anos de idade)
+ Não se observou qualquer diferença global em termos de segurança ou de eficácia nos doentes com idade &lt; 65 e ≥ 65 anos (ver secção 5.1). Embora, com base nestes dados, não seja necessário fazer qualquer ajuste da dose em doentes idosos, aconselha-se precaução tendo em consideração o baixo número de doentes idosos incluídos até à data nos ensaios clínicos.
+ Crianças e adolescentes (&lt; 18 anos de idade)
+ Nplate não é recomendado em crianças com idade inferior a 18 anos devido a dados insuficientes de segurança e eficácia. Não é possível fornecer qualquer conselho sobre a dose para esta população de doentes.
+ Disfunção hepática e renal Não foram efectuados quaisquer estudos clínicos formais nestas populações de doentes. Nplate deve ser utilizado com precaução nestas populações.
+ 4.3 Contra-indicações Hipersensibilidade à substância activa, ou a qualquer um dos excipientes ou a proteínas derivadas de E. coli.
+ 4.4 Advertências e precauções especiais de utilização
+ As seguintes advertências e precauções especiais foram observadas ou são potenciais efeitos de classe baseados no mecanismo de acção farmacológico dos estimuladores do receptor da trombopoietina (TPO).
+ Recorrência da trombocitopenia e hemorragia após paragem do tratamento
+ É provável que haja recorrência da trombocitopenia após a descontinuação do tratamento com romiplostim. Existe um risco aumentado de hemorragia se o tratamento com romiplostim for descontinuado na presença de agentes anticoagulantes ou antiplaquetários. Aquando da descontinuação do tratamento com romiplostim, os doentes devem ser cuidadosamente monitorizados para verificar se há uma redução na contagem de plaquetas e controlados medicamente para evitar uma hemorragia. No caso de se descontinuar o tratamento com romiplostim, recomenda-se que se reinicie o tratamento da PTI de acordo com as normas orientadoras de tratamento actuais. Uma decisão médica adicional pode incluir a cessação da terapêutica anticoagulante e/ou antiplaquetária, reversão da anticoagulação ou suporte plaquetário.
+ Aumento da reticulina da medula óssea Pensa-se que o aumento da reticulina da medula óssea seja o resultado da estimulação do receptor da TPO o que leva a um aumento do número de megacariócitos na medula óssea, os quais poderão subsequentemente libertar citocinas. O aumento da reticulina pode ser sugerido por alterações morfológicas nas células do sangue periférico e pode ser detectado por biopsia da medula óssea. Assim, recomenda-se que se façam exames para pesquisa de alterações da morfologia celular utilizando esfregaços de sangue periférico e que se efectue um hemograma completo antes e durante o tratamento com romiplostim. Ver secção 4.8 para informação sobre o aumento da reticulina observada nos ensaios clínicos com romiplostim.
+ No caso de se observar uma perda de eficácia e alterações no esfregaço de sangue periférico, deve descontinuar-se a administração de romiplostim, efectuar-se um exame físico e considerar-se ainda fazer uma biopsia da medula óssea com uma coloração apropriada para a reticulina. Caso seja possível, deve fazer-se uma comparação com uma biopsia anterior da medula óssea. No caso de se manter a eficácia e caso se observem alterações no esfregaço de sangue periférico dos doentes, o
+ 17 médico deve seguir um critério clínico adequado, incluindo considerar fazer uma biopsia da medula óssea e reavaliar o risco-benefício de romiplostim e opções alternativas de tratamento da PTI.
+ Complicações trombóticas/tromboembólicas Uma contagem de plaquetas acima do intervalo normal de referência constitui um risco teórico para a ocorrência de complicações trombóticas/tromboembólicas. A incidência de acontecimentos trombóticos/tromboembólicos observados nos ensaios clínicos foi similar entre o romiplostim e o placebo e não se observou qualquer relação entre estes acontecimentos e uma contagem elevada de plaquetas. Devem seguir-se as directrizes para ajuste da dose (ver secção 4.2).
+ Progressão de doenças hematopoiéticas malignas ou de Síndroma Mielodisplásicas (SMD)
+ Os estimuladores do receptor da TPO são factores de crescimento que levam à expansão das células progenitoras da trombopoiese, à diferenciação e à produção de plaquetas. O receptor da TPO exprime-se predominantemente na superfície das células da linhagem mielóide. No caso dos estimuladores do receptor da TPO, existe a preocupação teórica de que os mesmos possam estimular a progressão de doenças hematopoiéticas malignas ou de SMD.
+ Romiplostim não deve ser usado fora do âmbito de ensaios clínicos no tratamento da trombocitopenia devido a SMD ou a outra causa de trombocitopenia além da PTI. O risco-benefício do romiplostim não foi estabelecido no SMD ou em outra população de doentes não PTI. Num ensaio clínico com um só braço, aberto do tratamento de doentes com SMD com romiplostim, foram notificados casos de progressão de leucemia mielóide aguda (LMA). No entanto, este é um resultado clínico esperado do SMD e não é clara a relação com o tratamento com romiplostim. Adicionalmente, observaram-se nestes estudos aumentos transitórios de células blásticas. O aumento transitório das células blásticas foi reversível após descontinuação do romiplostim. Assim, esta observação é inconsistente com a progressão de LMA. Não é possível distinguir blastos leucémicos de blastos normais.
+ Perda de resposta ao romiplostim Uma perda de resposta ou um insucesso na manutenção da resposta plaquetária no tratamento com romiplostim no intervalo de dose recomendado deve desencadear a pesquisa imediata de factores causais, incluindo imunogenicidade (ver secção 4.8) e aumento da reticulina da medula óssea (ver acima).
+ Efeitos do romiplostim em glóbulos vermelhos e brancos
+ Foram observadas alterações nos parâmetros dos glóbulos vermelhos (redução) e brancos (aumento) em estudos toxicológicos não clinicos (rato e macaco) mas não em doentes com PTI. A monitorização destes parâmetros deve ser considerada em doentes tratados com romiplostim.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Não foram realizados estudos de interacção. As interacções potenciais por ligação às proteínas plasmáticas entre romiplostim e fármacos co-administrados continua desconhecido.
+ Em estudos clínicos, os medicamentos utilizados em combinação com romiplostim para o tratamento da PTI incluíram corticosteróides, danazol e/ou azatioprina, imunoglobulina intravenosa (IVIG) e imunoglobulina anti-D. A contagem de plaquetas deve ser monitorizada quando se combina romiplostim com outras terapêuticas medicamentosas para o tratamento da PTI, de modo a evitar que uma contagem de plaquetas caia fora do intervalo de referência recomendado (ver secção 4.2).
+ A utilização de corticosteróides, danazol e azatioprina pode ser reduzida ou descontinuada quando administrada em combinação com romiplostim (ver secção 5.1). As contagens plaquetárias devem ser monitorizadas quando se reduz ou descontinua qualquer tratamento para a PTI de forma a evitar níveis plaquetários inferiores aos recomendados (ver secção 4.2).
+ 18 4.6 Gravidez e aleitamento
+ No que respeita ao romiplostim, não existem dados clínicos sobre as gravidezes a ele expostas.
+ Os estudos em animais revelaram toxicidade reprodutiva, tal como passagem transplacentária e aumento da contagem de plaquetas fetais em ratos (ver secção 5.3). Desconhece-se o risco potencial para o ser humano.
+ Romiplostim não deverá ser utilizado durante a gravidez, a menos que tal seja claramente necessário.
+ Não existem dados relativos à excreção de romiplostim no leite materno. Contudo é provável que haja excreção e não se pode excluir o risco para a criança lactante.
+ Deve ser tomada uma decisão relativa a continuar/descontinuar a amamentação ou continuar/descontinuar o romiplostim tendo em atenção o benefício da amamentação para a criança e o benefício do romiplostim para a mulher.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas. Contudo, os doentes devem ser informados que em alguns doentes em ensaios clínicos ocorreram episódios transitórios de tonturas, o que pode afectar a capacidade de conduzir e de utilizar máquinas.
+ 4.8 Efeitos indesejáveis Com base numa análise de todos os doentes adultos com PTI que receberam romiplostim em 4 estudos clínicos controlados e 5 não controlados, a incidência global dos acontecimentos adversos em doentes tratados com romiplostim foi de 95,1% (248/271). A duração média de exposição da população ao romiplostim nestes estudos foi de 50 semanas.
+ Os acontecimentos adversos listados no quadro abaixo são atribuíveis pelos investigadores ao tratamento e ocorrem com uma incidência &gt; 1% (n= 271).
+ As frequências são definidas como: Muito Frequentes (≥ 1/10) e Frequentes (≥ 1/100 a &lt; 1/10). Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência e de cada classe de sistemas de órgãos da MedDRA.
+ Classes de sistemas de órgãos MedDRA Muito Frequentes Frequentes Doenças do sangue e do sistema linfático Perturbações do foro psiquiátrico
+ Alterações da medula óssea* Trombocitopenia* Insónia
+ Doenças do sistema nervoso Cefaleias Tonturas Parestesias Enxaqueca Vasculopatias Doenças respiratórias, torácicas e do mediastino
+ Vermelhidão Embolia pulmonar* Doenças gastrointestinais Naúsea Diarreia Dor abdominal Dispepsia Obstipação
+ 19 Classes de sistemas de órgãos MedDRA
+ Muito Frequentes Frequentes Afecções dos tecidos cutâneos e subcutâneas
+ Prurido Equimose Erupção cutânea Afecções músculosqueléticas e dos tecidos conjuntivos
+ Artralgia Mialgia Dor nas extremidades Espasmo muscular Dor nas costas Dor nos ossos
+ Perturbações gerais e alterações no local de administração
+ Fadiga Queimadura no local de injecção Dor no local de injecção Edema periférico Sintomas de gripe Dor Astenia Pirexia Arrepios Hematoma no local de administração Edema no local de administração
+ Complicações de intervenções relacionadas com lesões e intoxicações* ver secção 4.4
+ Contusão Considerou-se adicionalmente que os acontecimentos abaixo descritos estão relacionados com o tratamento com romiplostim.
+ Trombocitose Com base numa análise de todos os doentes adultos com PTI que receberam romiplostim em 4 estudos clínicos controlados e 5 não controlados, foram notificadas 3 ocorrências de trombocitose, n= 271. Não foram notificadas sequelas clínicas em associação com o aumento da contagem plaquetária em nenhum dos 3 indivíduos.
+ Trombocitopenia após paragem do tratamento
+ Com base numa análise de todos os doentes adultos com PTI que receberam romiplostim em 4 estudos clínicos controlados e 5 não controlados, foram notificadas 4 ocorrências de trombocitopenia após conclusão do tratamento, n= 271 (ver secção 4.4).
+ Aumento da reticulina da medula óssea Em estudos clínicos, o tratamento com romiplostim foi descontinuado em 4 de 271 doentes devido à deposição de reticulina na medula óssea. Noutros 6 doentes, observou-se reticulina quando se efectuou a biopsia da medula óssea (ver secção 4.4).
+ Imunogenicidade Nos estudos clínicos foram observados os anticorpos contra o romiplostim. Dos 271 doentes adultos com PTI a receberem romiplostim em programas clínicos para a PTI, um doente desenvolveu anticorpos capazes de neutralizar a actividade de romiplostim, mas estes anticorpos não reagiram de forma cruzada com a TPO endógena. Aproximadamente 4 meses mais tarde, os resultados dos testes do doente foram negativos para os anticorpos neutralizantes do romiplostim.
+ 20 Assim como com todas as proteínas terapêuticas, existe um potencial para imunogenicidade. No caso de se suspeitar de formação de anticorpos neutralizantes, deverá ser contactado o representante local do Titular da Autorização de Introdução no Mercado (ver secção 6 do Folheto Informativo) para se efectuarem testes de anticorpos.
+ 4.9 Sobredosagem Nos primeiros estudos clínicos efectuados, a dose máxima de romiplostim foi de 30 µg/kg. Posteriormente, esta dose foi reduzida para 10 µg/kg devido à ausência de benefícios clínicos adicionais com as doses acima deste nível.
+ Não se observaram quaisquer reacções adversas em ratos que receberam uma dose única de 1000 μg/kg ou em macacos após a administração repetida de romiplostim a 500 µg/kg (100 ou 50 vezes a dose clínica máxima de 10 µg/kg, respectivamente).
+ No caso de uma sobredosagem, a contagem de plaquetas pode aumentar acima do intervalo normal. A contagem de plaquetas deve ser monitorizada e deve administrar-se um tratamento apropriado (ver secção 4.2).
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: anti-hemorrágico; código ATC: B02BX04
+ Romiplostim é uma proteína de fusão de um péptido-Fc (pepticorpo) que sinaliza e activa as vias de transcrição intracelular através do receptor da trombopoietina (TPO) (também conhecido por cMpl) para aumentar a produção de plaquetas. A molécula do pepticorpo é constituída pelo domínio Fc de uma imunoglobulina IgG1 humana, com cada subunidade de cadeia simples covalentemente ligada pelo terminal C a uma cadeia peptídica que contém dois domínios de ligação do receptor da TPO.
+ Romiplostim não apresenta qualquer homologia com a sequência de aminoácidos da TPO endógena. Em estudos pré-clinicos e clínicos nenhum anticorpo anti-romiplostim reagiu de forma cruzada com a TPO endógena.
+ Dados clínicos A segurança e eficácia do romiplostim foram avaliadas durante 3 anos de tratamento contínuo. Em estudos clínicos, o tratamento com romiplostim resultou em aumentos da contagem de plaquetas dependentes da dose. O tempo até se atingir o efeito máximo em termos de contagem de plaquetas é, aproximadamente, 10-14 dias e é independente da dose. Após uma dose única subcutânea de romiplostim de 1 a 10 µg/kg em doentes com PTI, a contagem máxima de plaquetas ao longo de um período de 2 a 3 semanas foi 1,3 a 14,9 vezes superior à contagem de plaquetas no início do tratamento (baseline) e a resposta foi variável entre os doentes. A contagem de plaquetas nos doentes com PTI que receberam 6 doses semanais de 1 a 3 µg/kg de romiplostim situou-se no intervalo de 50 a 450 x 109/l para a maioria dos doentes. Dos 271 doentes que receberam romiplostim em estudos clínicos da PTI,55 (20%) tinham 65 anos de idade ou mais e 27 (10%) tinham 75 anos ou mais. Não se observaram quaisquer diferenças globais em termos de segurança ou de eficácia entre os doentes mais idosos e os mais jovens nos estudos controlados por placebo.
+ Resultados de estudos principais controlados por placebo
+ A segurança e eficácia de romiplostim foram avaliadas em dois estudos controlados por placebo, em dupla ocultação, em adultos com PTI que completaram pelo menos um tratamento antes da entrada no estudo e que são representativos de todo o espectro de doentes com PTI.
+ 21 O estudo S1 (212) avaliou doentes não esplenectomizados, que tiveram uma resposta inadequada ou que foram intolerantes a terapêuticas anteriores. Os doentes tinham sido diagnosticados com PTI durante aproximadamente 2 anos antes da entrada no estudo. A mediana do número de tratamentos para a PTI feitos pelos doentes (intervalo de 1 a 7) antes da entrada no estudo foi 3 .. Os tratamentos anteriores incluíam corticosteróides (90% de todos os doentes), imunoglobulinas (76%), rituximab (29%), terapêuticas citotóxicas (21%), danazol (11%) e azatioprina (5%). A mediana da contagem de plaquetas dos doentes na altura da entrada no estudo foi 19 x 109/l.
+ O estudo S2 (105) avaliou doentes esplenectomizados, e que continuaram a ter trombocitopenia. Os doentes tinham sido diagnosticados com PTI durante aproximadamente 8 anos antes da entrada no estudo. Para além de uma esplenectomia, a mediana do número de tratamentos para a PTI feitos pelos doentes (intervalo de 3 a 10) antes da entrada no estudo foi 6. Os tratamentos anteriores incluíam corticosteróides (98% de todos os doentes), imunoglobulinas (97%), rituximab (71%), danazol (37%), terapêuticas citotóxicas (68%) e azatioprina (24%). A mediana da contagem de plaquetas dos doentes na altura da entrada no estudo foi 14 x 109/l.
+ Ambos os estudos apresentavam um desenho similar. Os doentes (≥ 18 anos de idade) foram aleatorizados numa razão de 2: 1 de modo a receberem uma dose inicial de romiplostim de 1 µg/kg ou placebo. Os doentes receberam injecções subcutâneas semanais durante 24 semanas. As doses foram ajustadas de modo a manter a contagem de plaquetas entre 50 a 200 x 109/l. Em ambos os estudos, a eficácia foi determinada por um aumento na proporção de doentes que atingiram uma resposta plaquetária duradoura. A dose semanal média para os doentes esplenectomizados foi de 3 µg/kg e para os doentes não esplenectomizados foi de 2 µg/kg.
+ Em ambos os estudos, uma proporção significativamente superior de doentes a receberem romiplostim atingiu uma resposta plaquetária duradoura comparativamente com os doentes a receberem placebo. Nos estudos controlados por placebo, após as primeiras 4 semanas de estudo, o romiplostim manteve a contagem de plaquetas ≥ 50 x 109/l entre 50% a 70% dos doentes durante o período de tratamento de 6 meses. No grupo do placebo,0% a 7% dos doentes conseguiram atingir uma resposta em termos de contagem de plaquetas, durante os 6 meses de tratamento. Abaixo encontra-se um resumo dos principais resultados de eficácia.
+ Resumo dos principais resultados de eficácia dos estudos controlados por placebo
+ Estudo 1 Estudo 2 Estudos 1 e 2 combinados doentes não doentes esplenectomizados esplenectomizados Nº (%) de doentes com
+ romiplostim (n= 41)
+ Placebo romiplostim Placebo romiplostim (n= 21) (n= 42) (n= 21) (n= 83)
+ Placebo (n= 42) uma resposta plaquetária duradouraa
+ 25 (61%) 1 (5%) 16 (38%) 0 (0%) 41 (50%)
+ 1 (2%) (95% IC)
+ (45%,76%)
+ (0%,24%)
+ (24%,54%)
+ (0%,16%)
+ (38%,61%)
+ (0%,13%)
+ p Nº (%) de doentes com
+ &lt; 0,0001
+ 0,0013 &lt; 0,0001
+ uma resposta plaquetária globalb
+ 36 (88%) 3 (14%) 33 (79%) 0 (0%) 69 (83%) 3 (7%) (95% IC)
+ (74%,96%)
+ (3%,36%)
+ (63%,90%)
+ (0%,16%)
+ (73%,91%)
+ (2%,20%)
+ p
+ &lt; 0,0001 &lt; 0,0001
+ &lt; 0,0001
+ 22
+ Estudo 1 Estudo 2 Estudos 1 e 2 combinados doentes não doentes esplenectomizados esplenectomizados Nº médio de semanas com
+ romiplostim (n= 41)
+ Placebo romiplostim Placebo romiplostim (n= 21) (n= 42) (n= 21) (n= 83)
+ Placebo (n= 42) resposta plaquetáriac
+ 15 1 12 0 14
+ 1 (DP)
+ 3,5 7,5 7,9 0,5 7,8
+ 2,5 p Nº (%) de doentes a precisarem de
+ &lt; 0,0001
+ &lt; 0,0001
+ &lt; 0,0001
+ terapêuticas de emergênciad
+ 8(20%) 13 (62%) 11 (26%) 12 (57%) 19 (23%) 25 (60%) (43%, (95% IC)
+ (9%,35%)
+ (38%,82%)
+ (14%,42%)
+ (34%,78%)
+ (14%,33%)
+ 74%) p Nº (%) de doentes com resposta
+ 0,001 0,0175 &lt; 0,0001
+ plaquetária duradoura com uma dose estávele
+ 21 (51%) 0 (0%) 13 (31%) 0 (0%) 34 (41%) 0 (0%) (95% IC)
+ (35%,67%)
+ (0%,16%)
+ (18%,47%) (0%,16%) (30%,5
+ (0%,16%) (18%,47%) (0%,16%)
+ (30%,52%)
+ (0%,8%)
+ p a
+ 0,0001 0,0046 &lt; 0,0001
+ Resposta plaquetária duradoura foi definida como uma contagem plaquetária semanal ≥ 50 x 109/l durante 6 ou mais vezes durante as semanas de estudo 18-25, na ausência de terapêutica de emergência em qualquer altura durante o período de tratamento. b Resposta plaquetária global foi definida como a obtenção de respostas plaquetárias duradouras ou transitórias. Resposta plaquetária transitória foi definida como uma contagem plaquetária semanal ≥ 50 x 109/l durante 4 ou mais vezes nas semanas de estudo 2-25, mas sem resposta plaquetária duradoura. O doente pode não ter obtido uma resposta semanal num período de 8 semanas depois de receber qualquer medicamento de emergência. c Número de semanas com resposta plaquetária foi definido como sendo o número de semanas com uma contagem de plaquetas ≥ 50 x 109/l durante as semanas de estudo 2-25. O doente podia não apresentar uma resposta semanal num período de 8 semanas depois de receber qualquer medicamento de emergência. d Terapêutica de emergência foi definida como sendo qualquer terapêutica administrada para elevar a contagem de plaquetas. Os doentes que precisaram de receber medicamentos de emergência não foram considerados para a resposta plaquetária duradoura. As terapêuticas de emergência permitidas no estudo foram IVIG (Imunoglobulina Intravenosa), transfusões de plaquetas, imunoglobulina anti-D e corticosteróides. e Dose estável foi definida como a dose mantida entre ± 1 µg/kg durante as últimas 8 semanas de tratamento.
+ Redução das terapêuticas medicamentosas concomitantes permitidas para a PTI
+ Em ambos os estudos controlados por placebo, em dupla ocultação, foi permitido aos doentes que já estavam a receber terapêuticas medicamentosas para a PTI com uma posologia constante continuarem a receber estes tratamentos medicamentosos durante todo o estudo (corticosteróides, danazol e/ou azatioprina). Vinte e um doentes não esplenectomizados e 18 doentes esplenectomizados receberam no início do estudo tratamentos medicamentosos permitidos no estudo para a PTI (principalmente corticosteróides). Todos (100%) os doentes esplenectomizados que estavam a receber romiplostim conseguiram reduzir a dose em mais de 25% ou descontinuaram as terapêuticas medicamentosas 23 concomitantes para a PTI no final do período de tratamento em comparação com 17% dos doentes tratados com placebo. Setenta e três por cento dos doentes não esplenectomizados a receberem romiplostim conseguiram reduzir a dose em mais de 25% ou descontinuaram no final do estudo as terapêuticas medicamentosas concomitantes para a PTI, em comparação com 50% dos doentes tratados com placebo (ver secção 4.5).
+ Acontecimentos hemorrágicos Observou-se uma relação inversa entre os acontecimentos hemorrágicos e a contagem de plaquetas em todo o programa clínico da PTI. Todos os acontecimentos hemorrágicos clinicamente significativos (≥ grau 3) ocorreram com uma contagem de plaquetas &lt; 30 x 109/l. Todos os acontecimentos hemorrágicos ≥ grau 2 ocorreram com uma contagem de plaquetas &lt; 50 x 109/l. Não foram observadas diferenças estatisticamente significativas na globalidade dos acontecimentos hemorrágicos entre os doentes tratados com Nplate e o placebo.
+ Nos dois estudos controlados por placebo,9 doentes referiram um acontecimento hemorrágico que foi considerado grave (5[ 6,0%] romiplostim,4[ 9,8%] placebo); taxa de probabilidade[ romiplostim/placebo]= 0,59; 95% IC= (0,15, 2,31 )) Os acontecimentos hemorrágicos de grau 2 ou superior foram notificados por 15% dos doentes tratados com romiplostim e 34% dos doentes tratados com placebo. (Taxa de probabilidade;[ romiplostim/placebo]= 0,35; 95% CI= (0,14, 0,85 )).
+ 5.2 Propriedades farmacocinéticas A farmacocinética de romiplostim envolve a disposição mediada pelo alvo, sendo presumivelmente mediada por receptores da TPO nas plaquetas e noutras células da linhagem trombopoiética, tais como os megacariócitos.
+ Absorção Após a administração subcutânea de 3 a 15 μg/kg de romiplostim, obtiveram-se níveis séricos máximos de romiplostim nos doentes com PTI após 7-50 horas (média de 14 horas). As concentrações séricas variaram entre doentes e não se correlacionaram com a dose administrada. Os níveis séricos de romiplostim parecem relacionar-se inversamente com a contagem de plaquetas.
+ Distribuição O volume de distribuição de romiplostim após uma administração intravenosa de romiplostim diminuiu de forma não linear de 122, para 78,8 e para 48,2 ml/kg para doses intravenosas de 0,3; 1,0 e 10 μg/kg, respectivamente em indivíduos saudáveis. Esta redução não linear do volume de distribuição está em linha com a ligação de romiplostim mediada em função do alvo (megacariócitos e plaquetas), a qual pode ficar saturada para as doses mais elevadas aplicadas.
+ Eliminação A semi-vida de eliminação de romiplostim em doentes com PTI variou entre 1 a 34 dias (média de 3,5 dias). A eliminação de romiplostim sérico depende em parte do receptor da TPO nas plaquetas. Como resultado para uma dada dose, os doentes com uma contagem de plaquetas elevada estão associados a concentrações séricas baixas e vice-versa. Noutro estudo clínico com PTI, não se observou acumulação nas concentrações séricas após 6 doses semanais de romiplostim (3 μg/kg).
+ Populações especiais de doentes A farmacocinética de romiplostim em doentes com insuficiência renal e hepática não foi investigada. A farmacocinetica do romiplostim parece não ser afectada pela idade, peso e sexo numa extensão clinicamente significativa.
+ 24 5.3 Dados de segurança pré-clínica
+ Foram realizados estudos toxicológicos em ratos com doses múltiplas de romiplostim durante 4 semanas e em macacos até 6 meses. Em geral, os efeitos observados durante estes estudos estavam relacionados com a actividade trombopoiética de romiplostim e foram similares independentemente da duração do estudo. As reacções no local de injecção também estavam relacionadas com a administração de romiplostim. Observou-se mielofibrose na medula óssea de ratos com todos os níveis de dose testados. Nestes estudos não se observou mielofibrose em animais após um período de recuperação pós-tratamento de 4 semanas, indicando haver reversibilidade.
+ Num estudo toxicológico de 1 mês em ratos e macacos, foi observado um ligeiro decréscimo na contagem dos glóbulos vermelhos, hematócrito e hemoglobina. Houve também um efeito estimulador da produção dos leucócitos, porque houve um ligeiro aumento da contagem de neutrófilos, linfócitos, monócitos e eosinófilos no sangue periférico. Em estudos crónicos de longa duração em macacos, onde o romiplostim foi administrado durante 6 meses e onde a administração de romiplostim foi reduzida de três vezes por semana para uma vez por semana não houve qualquer efeito nas linhagens eritrocitária e leucocitária. Adicionalmente, na terceira fase dos estudos fundamentais, romiplostim não afectou as linhagens dos glóbulos vermelhos e brancos comparativamente com os animais tratados com placebo.
+ Devido à formação de anticorpos neutralizantes, os efeitos farmacodinâmicos de romiplostim em ratos frequentemente diminuíram para durações de administração prolongadas. Os estudos de toxicocinética não mostraram haver quaisquer interacções dos anticorpos com as concentrações medidas. Embora tenham sido testadas doses elevadas nos estudos com animais, não é possível estimar margens de segurança com fiabilidade, dadas as diferenças entre as espécies laboratoriais e o ser humano no que diz respeito à sensibilidade, ao efeito farmacodinâmico de romiplostim e ao efeito dos anticorpos neutralizantes.
+ Carcinogénese: Não foi avaliado o potencial carcinogénico de romiplostim. Assim, o risco de potencial carcinogenicidade de romiplostim no ser humano continua a ser desconhecido.
+ Toxicidade reprodutiva: Em todos os estudos de desenvolvimento formaram-se anticorpos neutralizantes que podem ter inibido os efeitos de romiplostim. Em estudos de desenvolvimento embriofetal em ratinhos e ratos, só se observaram reduções no peso corporal materno do ratinho. No ratinho houve evidências de aumento de perda pós-implantação. Num estudo do desenvolvimento pré-natal e pós-natal em ratos observou-se um aumento na duração da gestação e um ligeiro aumento na incidência de mortalidade peri-natal das crias. Sabe-se que romiplostim atravessa a barreira placentária nos ratos e pode ser transmitido da mãe para o feto em desenvolvimento e estimular a produção de plaquetas no feto. Romiplostim não teve qualquer efeito observável na fertilidade dos ratos.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Manitol (E421) Sacarose L-Histidina Ácido clorídrico (para acerto do pH) Polissorbato 20
+ 6.2 Incompatibilidades Na ausência de estudos de compatibilidade, este medicamento não deve ser misturado com outros medicamentos, excepto aqueles mencionados na secção 6.6.
+ 25 6.3 Prazo de validade
+ 3 anos. Após reconstituição: Demonstrou-se a existência de estabilidade química e física na utilização durante 24 horas a 25°C e durante 24 horas entre 2°C – 8°C, quando protegido da luz e mantido no frasco para injectáveis original.
+ Do ponto de vista microbiológico, o produto deve ser utilizado imediatamente. Se não for utilizado imediatamente, os tempos de conservação durante a utilização e as condições antes de utilizar são da responsabilidade do utilizador e não deverão, normalmente, exceder as 24 horas a 25ºC ou 24 horas num frigorífico (2ºC – 8ºC), protegido da luz.
+ 6.4 Precauções especiais de conservação
+ Conservar no frigorífico (2°C – 8°C). Não congelar. Conservar na embalagem de origem para proteger da luz.
+ Condições de conservação do medicamento reconstituído, ver secção 6.3.
+ 6.5 Natureza e conteúdo do recipiente Frasco para injectáveis de 5 ml (em vidro transparente do tipo I) com rolha (borracha de clorobutilo), selo (alumínio) e tampa descartável (polipropileno).
+ Embalagem contendo 1 ou 4 frascos para injectáveis de 500 µg de romiplostim.
+ É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ Nplate é um produto estéril, contudo sem conservantes, e destina-se apenas a uma única utilização. O Nplate deve ser reconstituído de acordo com as boas práticas de assepsia.
+ Nplate 500 µg pó para solução injectável deve ser reconstituído com 1,2 ml de água para injectáveis estéril, providenciando um volume de 1 ml. Adicionalmente inclui-se um acréscimo de solução em cada frasco de forma a garantir que são administrados 500 µg de romiplostim.
+ Não devem ser utilizadas soluções de cloreto de sódio ou água bacteriostática ao reconstituir o medicamento.
+ Deve injectar-se água para injectáveis no frasco para injectáveis de Nplate. O conteúdo do frasco para injectáveis pode ser cuidadosamente rodado e invertido durante a dissolução. O frasco não deve ser sacudido ou fortemente agitado. Geralmente, a dissolução de Nplate demora menos de 2 minutos. A solução deve ser visualmente inspecionada para ver se existe matéria na forma de partículas e descoloração antes da administração. A solução reconstituída deve ser límpida e incolor e não deve ser administrada no caso de se observarem partículas e/ou descoloração.
+ Para informações sobre as condições de conservação do produto reconstituído ver secção 6.3.
+ Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 26 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Amgen Europe B. V. Minervum 7061 4817 ZK Breda Países Baixos
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/08/497/002 EU/1/08/497/004 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 4 Fevereiro 2009 10. DATA DA REVISÃO DO TEXTO Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu/.
+ 27 ANEXO II
+ A. FABRICANTE(S) DA(S) SUBSTÂNCIA(S) ACTIVA(S) DE ORIGEM BIOLÓGICA E TITULAR(ES) DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 28 A. FABRICANTE(S) DA(S) SUBSTÂNCIA(S) ACTIVA(S) DE ORIGEM BIOLÓGICA E TITULAR(ES) DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do(s) fabricante(s) da substância activa de origem biológica
+ Amgen Inc One Amgen Center Drive Thousand Oaks, CA 91320 EUA
+ Amgen, Inc. 5550 Airport Boulevard Boulder, CO 80301 EUA
+ Amgen Inc. 4000 Nelson Road Longmont, CO 80503 EUA
+ Nome e endereço do(s) fabricante(s) responsável(veis) pela libertação do lote
+ Amgen Europe B. V. Minervum 7061 NL-4817 ZK Breda Países Baixos
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento de receita médica restrita, de utilização reservada a certos meios especializados (ver anexo I: Resumo das Características do Medicamento, secção 4.2).
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ O Titular da AIM deve acordar os detalhes de um programa educacional com as Autoridades Nacionais Competentes e deve implementar este programa nacionalmente de forma a garantir que, antes da prescrição, todos os médicos recebam um pacote de informação para profissionais de saúde com a seguinte informação: • Material educacional • Resumo das Características do Medicamento (RCM) e Folheto Informativo e Rotulagem
+ Elementos principais a serem incluídos no material educacional
+ • Posologia • Obrigações do profissional de saúde relativamente à prescrição do romiplostim e a necessidade de aconselhar os doentes sobre a relação risco-benefício. • Os documentos devem informar os seguintes riscos potenciais e identificados:
+ -
+ A incidência nos ensaios clínicos e a possibilidade de recorrência de trombocitopenia após cessação do tratamento. Deve fornecer conselho acerca de como tratar os doentes após terminar o tratamento com romiplostim.
+ 29 -
+ Informação de suporte sobre a reticulina na medula óssea. Os níveis de reticulina na medula óssea em doentes com PTI, a incidência observada e o potencial mecanismo de acção da deposição de reticulina como resposta ao romiplostim pode desencadear uma fibrose da medula óssea. Tomar atenção que, apesar de não existirem dados, a deposição da reticulina como resposta ao tratamento com romiplostim pode ser o aparecimento de fibrose da medula óssea. Deve ser prestado aconselhamento acerca da adequação de investigações adicionais e biopsia à medula óssea.
+ -
+ A incidência nos ensaios clínicos de complicações trombóticas/tromboembólicas. Deve ser aconselhado seguir as recomendações de ajuste da dose para evitar contagens plaquetárias acima do normal.
+ -
+ A incidência de anticorpos neutralizantes do romiplostim em ensaios clínicos. As implicações das reacções cruzadas dos anticorpos neutralizantes do romiplostim com a trombopoietina endógena (TPO). Teste de anticorpos disponível a pedido médico, contactos das pessoas a contactar para obtenção do teste.
+ -
+ O romiplostim pode induzir a progressão da existência de alterações hematológicas e síndroma mielodisplásica (SMD). Assim, não deve ser usado nestas indicações fora do contexto de ensaio clínico. Dados provenientes dos ensaios clínicos em SMD sobre o aumento da incidência de células blásticas e progressão para AML.
+ -
+ Confirmação que o risco-benefício do tratamento da trombocitopenia em populações de doentes não PTI não foi ainda estabelecido. Esclarecimento de que o risco-benefício no tratamento pediátrico da PTI ainda não foi determinado ..
+ -
+ A incidência de erros de medicação nos ensaios clínicos. Providenciar um calculador de dose para simplificar o cálculo da dose correcta e guia para a correcta reconstituição e administração.
+ • OUTRAS CONDIÇÕES
+ Sistema de farmacovigilancia O Titular da AIM deve garantir que o sistema de farmacovigilância, tal como descrito na versão 3, datada de 26 de Junho de 2008 apresentado no módulo 1. 8.1. do dossier de submissão do pedido de AIM, existe e está em funcionamento antes e enquanto o produto estiver no mercado.
+ Plano de Gestão de Risco O Titular da AIM compromete-se a realizar os estudos bem como as actividades adicionais de farmacovigilancia detalhadas no Plano de Farmacovigilância, tal como acordado na secção 5, datada de 14 de Novembro de 2008, do Plano de Gestão de Risco (PGR) apresentado no módulo 1. 8.2. do dossier de submissão do pedido de AIM bem como actualizações subsequentes ao PGR acordado pela CHMP.
+ De acordo com as directrizes da CHMP sobre Sistemas de Gestão de Risco para medicamentos de uso humano, a actualização do PGR deve ser submetida simultaneamente com o Relatório Periódico de Segurança (RPS) seguinte.
+ Adicionalmente, deve ser submetida uma actualização do PGR • Quando se recebe informação nova que possa criar impacto nas actuais especificações de segurança, Plano de Farmacovigilância ou actividades de minimização de risco • 60 dias antes de uma data importante (farmacovigilância ou minimização de risco) • A pedido da EMEA.
+ 30 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 31 A. ROTULAGEM
+ 32 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ EMBALAGEM EXTERIOR 1. NOME DO MEDICAMENTO Nplate 250 microgramas, pó para solução injectável romiplostim
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada frasco para injectáveis contém 250 microgramas de romiplostim. Após reconstituição, um volume de administração de 0,5 ml de solução contém 250 microgramas de romiplostim (500 microgramas/ml).
+ 3. LISTA DOS EXCIPIENTES Manitol (E421), sacarose, l-histidina, ácido clorídrico (para acertar o pH) e polissorbato 20.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Pó para solução injectável. 1 frasco. 4 frascos.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar. Via subcutânea.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP: Após reconstituição: pode ser conservado durante 24 horas quando armazenado a 25ºC ou no frigorífico (2ºC – 8ºC) se conservado na embalagem original e protegido da luz.
+ 33 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico. Não congelar. Conservar na embalagem de origem para proteger da luz.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Amgen Europe B. V. Minervum 7061 4817 ZK Breda Países Baixos
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/08/497/001 EU/1/08/497/003 13. NÚMERO DO LOTE Lote: 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE nplate 250
+ 34 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ RÓTULO DO FRASCO PARA INJECTÁVEIS 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Nplate 250 µg pó para solução injectável romiplostim SC
+ 2. MODO DE ADMINISTRAÇÃO 3. PRAZO DE VALIDADE EXP: 4. NÚMERO DO LOTE Lot: 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 250 µg 6. OUTRAS Amgen Europe B. V. 35 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ EMBALAGEM EXTERIOR 1. NOME DO MEDICAMENTO Nplate 500 microgramas, pó para solução injectável romiplostim
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada frasco para injectáveis contém 500 microgramas de romiplostim. Após reconstituição, um volume de administração de 1 ml de solução contém 500 microgramas de romiplostim (500 microgramas/ml).
+ 3. LISTA DOS EXCIPIENTES Manitol (E421), sacarose, l-histidina, ácido clorídrico (para acertar o pH) e polissorbato 20.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Pó para solução injectável. 1 frasco. 4 frascos.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar. Via subcutânea.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP: Após reconstituição: pode ser conservado durante 24 horas quando armazenado a 25ºC ou no frigorífico (2ºC – 8ºC) se conservado na embalagem original e protegido da luz.
+ 36 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico. Não congelar. Conservar na embalagem de origem para proteger da luz.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Amgen Europe B. V. Minervum 7061 4817 ZK Breda Países Baixos
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/08/497/002 EU/1/08/497/004 13. NÚMERO DO LOTE Lote: 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE nplate 500
+ 37 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ RÓTULO DO FRASCO PARA INJECTÁVEIS 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Nplate 500 µg pó para solução injectável romiplostim SC
+ 2. MODO DE ADMINISTRAÇÃO 3. PRAZO DE VALIDADE EXP: 4. NÚMERO DO LOTE Lot: 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 500 µg 6. OUTRAS Amgen Europe B. V. 38 B. FOLHETO INFORMATIVO
+ 39 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Nplate 250 microgramas pó para solução injectável Nplate 500 microgramas pó para solução injectável Romiplostim
+ Leia atentamente este folheto antes de utilizar este medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico.
+ -Este medicamento foi-lhe receitado para si. Não deve dá-lo a outros; o medicamento pode ser-
+ lhes prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico.
+ Neste folheto: 1. O que é Nplate e para que é utilizado 2. Antes de utilizar Nplate 3. Como utilizar Nplate 4. Efeitos secundários possíveis 5. Como conservar Nplate 6. Outras informações
+ 1. O QUE É NPLATE E PARA QUE É UTILIZADO
+ Nplate é uma proteína utilizada para tratar o número de plaquetas baixo em doentes com púrpura trombocitopénica imune (idiopática) (chamada PTI). A PTI é uma doença em que o sistema imunitário do seu organismo destrói as suas próprias plaquetas. As plaquetas são as células do sangue que ajudam a cicatrizar feridas e a formar coágulos de sangue. Um número de plaquetas muito baixo pode levar à formação de nódoas negras e à ocorrência de hemorragias graves.
+ Nplate é utilizado em doentes adultos (18 anos de idade ou mais) com PTI crónica aos quais foi removido o baço após tratamento sem efeito com corticosteróides e imunoglobulinas.
+ Nplate pode também ser utilizado para tratar doentes adultos (18 anos de idade ou mais) com PTI crónica nos quais não é possível a cirurgia para retirar o baço.
+ Nplate estimula a medula óssea (a parte do osso que produz as células do sangue) a produzir mais plaquetas. Isto ajudará a prevenir a formação de nódoas negras e hemorragias associadas à PTI.
+ 2. ANTES DE UTILIZAR NPLATE NÃO utilize Nplate • se tem alergia (hipersensibilidade) ao romiplostim ou a qualquer outro componente de Nplate.
+ • se tem alergia a outros medicamentos produzidos por tecnologia de ADN utilizando o microrganismo Escherichia coli (E. coli.).
+ Tome especial cuidado com Nplate Se tem um número baixo de plaquetas (trombocitopenia) é provável que o mesmo volte a • ocorrer se deixar de tomar Nplate. O seu número de plaquetas terá de ser vigiado e o seu médico conversará consigo sobre as precauções apropriadas que deverá tomar.
+ 40 Se tem um número muito elevado de plaquetas no sangue, pois este medicamento pode • aumentar o risco de coagulação do sangue. O seu médico ajustará a sua dose de Nplate para se assegurar de que o seu número de plaquetas não aumenta demasiado.
+ Ao utilizar Nplate com outros medicamentos
+ Se também está a tomar medicamentos que impedem a formação de coágulos de sangue (anticoagulantes ou terapêutica antiplaquetária) existe um risco maior de hemorragia. O seu médico conversará sobre isto consigo.
+ Se tiver a tomar corticosteróides, danazol e/ou azatioprina, as doses destes podem ser reduzidas ou interrompidas quando tomadas conjuntamente com Nplate.
+ Informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica.
+ Gravidez e aleitamento É importante informar o seu médico se está grávida, pensa que possa estar grávida ou planeia engravidar. A utilização de Nplate não é recomendada se estiver grávida, a menos que tal seja indicado pelo seu médico.
+ Não se sabe se romiplostim é excretado no leite humano. A utilização de Nplate não é recomendada se está a amamentar. A decisão sobre a possível descontinuação da amamentação ou descontinuação da terapêutica com romiplostim deve ser tomada tendo em consideração o benefício da amamentação para a criança e o benefício da terapêutica com romiplostim para si.
+ Consulte o seu médico ou farmacêutico antes de tomar qualquer medicamento.
+ Condução de veículos e utilização de máquinas
+ Não foram efectuados estudos sobre os efeitos na capacidade de conduzir e utilizar máquinas. Deve conversar com o seu médico antes de conduzir ou utilizar máquinas, uma vez que alguns efeitos secundários podem impedir que o faça com segurança.
+ 3. COMO UTILIZAR NPLATE Nplate será administrado sob a supervisão directa do seu médico, que irá controlar de perto a dose de Nplate que lhe vai ser administrada.
+ Nplate é administrado na forma de uma injecção sob a pele (via subcutânea).
+ A sua dose inicial é de 1 micrograma de Nplate por quilograma de peso corporal, uma vez por semana. O seu médico dir-lhe-á a quantidade que lhe deverá ser administrada. Nplate deve ser injectado uma vez por semana de modo a manter o seu número de plaquetas elevado. Ser-lhe-ão feitas colheitas de sangue regulares para medir a forma como as suas plaquetas estão a responder e poder ajustar a sua dose se necessário.
+ Assim que o seu número de plaquetas estiver controlado, continuarão a ser feitas análises regulares ao seu sangue. A sua dose pode ser ainda ajustada adicionalmente de modo a manter um controlo a longo prazo do seu número de plaquetas.
+ 41 Se utilizar mais Nplate do que deveria
+ O seu médico vai garantir que lhe é administrada a quantidade certa de Nplate. Se lhe foi dado mais Nplate do que deveria, contacte o seu médico imediatamente. Recomenda-se que seja vigiado para ver se existem quaisquer sinais ou sintomas de efeitos secundários e para que lhe seja dado imediatamente um tratamento apropriado.
+ Caso se tenha esquecido de utilizar Nplate
+ Se não tomou uma dose de Nplate, o seu médico dir-lhe-á quando deverá tomar a sua dose seguinte.
+ Se parar de utilizar Nplate Se parar de utilizar Nplate é provável que o número de plaquetas no seu sangue volte a baixar (trombocitopenia). O seu médico decidirá se deve parar a utilização de Nplate.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todos os medicamentos, Nplate pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ Efeitos secundários muito frequentes (observados em mais de 1 em cada 10 pessoas a tomar Nplate): • dores de cabeça.
+ Efeitos secundários frequentes (observados em mais de 1 em cada 100 pessoas a tomar Nplate): • alterações da medula óssea, incluindo aumento das fibras da medula óssea (reticulina); • dificuldade em dormir (insónia); • tonturas; • formigueiro ou adormecimento das mãos ou pés (parestesia); • enxaquecas; • vermelhidão na pele (rubor); • rolhão de sangue numa artéria pulmonar (embolia pulmonar); • náusea (enjoo); • diarreia; • dor abdominal; • indigestão (dispepsia); • prisão de ventre; • comichão na pele (prurido); • sangramento por baixo da pele (equimose); • nódoa negra (contusão); • eritema cutâneo; • dor nas articulações (artralgia); • dor muscular ou fraqueza (mialgia); • dor nas mãos ou pés; • espasmo muscular; • dor nas costas; • dor nos ossos • cansaço (fadiga); • nódoa negra no local de injecção; • dor no local de injecção; • inchaço no local da injecção; • inchaço das mãos ou pés (edema periférico); • sintomas semelhantes aos da gripe (doença semelhante à gripe)
+ 42 • dor; • fraqueza (astenia); • febre (pirexia); • arrepios; • contusão • contagem de plaquetas reduzida (trombocitopenia) e contagem de plaquetas reduzida (trombocitopenia) após interrupção do Nplate; • contagem de plaquetas mais elevada que o normal (trombocitose).
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR NPLATE Manter fora do alcance e da vista das crianças.
+ Não utilize Nplate após o prazo de validade impresso na embalagem exterior e no rótulo do frasco para injectáveis (EXP). O prazo de validade corresponde ao último dia do mês indicado.
+ Conservar no frigorífico (2°C – 8°C). Não congelar. Conservar na embalagem de origem para proteger da luz.
+ Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Nplate -A substância activa é o romiplostim.
+ Cada frasco de Nplate com 250 microgramas de pó para solução injectável contém 250 microgramas de romiplostim. Após reconstituição, um volume de 0,5 ml de solução contém 250 microgramas de romiplostim (500 microgramas/ml).
+ Cada frasco de Nplate com 500 microgramas de pó para solução injectável contém 500 microgramas de romiplostim. Após reconstituição, um volume de 1 ml de solução contém 500 microgramas de romiplostim (500 microgramas/ml).
+ -Os outros ingredientes são manitol (E421), sacarose, L-histidina, ácido clorídrico (para acertar o
+ pH) e polissorbato 20.
+ Qual o aspecto de Nplate e conteúdo da embalagem
+ Nplate é um pó branco para solução injectável fornecido num frasco de vidro de 5 ml.
+ Caixa contendo 1 ou 4 frascos de 250 microgramas ou de 500 microgramas de romiplostim.
+ É possível que não sejam comercializadas todas as apresentações.
+ 43 Titular da Autorização de Introdução no Mercado e Fabricante Amgen Europe B. V. Minervum 7061 4817 ZK Breda Países Baixos
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado.
+ België/Belgique/Belgien s. a. Amgen n. v. Tel/Tél: +32 (0) 2 7752711
+ Luxembourg/Luxemburg s. a. Amgen Belgique/Belgien Tel/Tél: +32 (0) 2 7752711
+ България Б. Браун Медикал ООД Тел:+ 359(2) 8080711
+ Magyarország Amgen Kft. Tel.: +36 1 35 44 700
+ Česká republika Amgen s. r. o Tel: +420 2 21 773 500
+ Malta Amgen B. V. The Netherlands Tel: +31 (0) 76 5732500
+ Danmark Amgen filial af Amgen AB, Sverige Tlf: +45 39617500
+ Nederland Amgen B. V. Tel: +31 (0) 76 5732500
+ Deutschland AMGEN GmbH Tel: +49 (0) 89 1490960
+ Norge Amgen AB Tel: +47 23308000 Eesti Amgen Switzerland AG Eesti filiaal Tel:+ 372 5125 501
+ Österreich Amgen GmbH Tel: +43 (0) 1 50 217
+ Ελλάδα Amgen Ελλάς Φαρμακευτικά Ε. Π. Ε. Τηλ.: +30 210 3447000
+ Polska Amgen Sp. z o. o. Tel.: +48 22 581 3000
+ España Amgen S. A. Tel: +34 93 600 19 00
+ Portugal AMGEN Biofarmacêutica, Lda. Tel: +351 21 4220550
+ France Amgen S. A. S Tél: +33 (0) 1 40 88 27 00
+ România Mediplus Exim SRL Tel.: +4021 301 74 74
+ Ireland Amgen Limited United Kingdom Tel: +44 (0) 1223 420305
+ Slovenija AMGEN zdravila d. o. o. Tel: +386 1 585 1767
+ Ísland Vistor hf. Sími: +354 535 7000
+ Slovenská republika Amgen Switzerland AG, Slovakia Tel: +42 1 25939 6456
+ 44 Italia Amgen Dompé S. p. A. Tel: +39 02 6241121
+ Suomi/Finland Amgen AB, sivuliike Suomessa/Amgen AB, filial i Finland Puh/Tel: +358 (0) 9 54900500
+ Kύπρος Amgen Ελλάς Φαρμακευτικά Ε. Π. Ε. Τηλ.: +30 210 3447000
+ Sverige Amgen AB Tel: +46 (0) 8 6951100 Latvija Amgen Switzerland AG Rīgas filiāle Tel:+ 371 29284 807
+ United Kingdom Amgen Limited Tel: +44 (0) 1223 420305
+ Lietuva Amgen Switzerland AG Vilniaus filialas Tel.+ 370 6983 6600
+ Este folheto foi aprovado pela última vez em{ MM/AAAA}.
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA): http: //www. emea. europa. eu/.
+ ---------------------------------------------------------------------------------------------------------------------------
+ A informação que se segue destina-se apenas aos médicos e aos profissionais de saúde:
+ Nplate é um produto estéril, mas sem conservantes, e destina-se a apenas uma única utilização. Nplate deve ser reconstituído seguindo as boas práticas de assépsia.
+ • Nplate 250 microgramas pó para solução injectável deve ser reconstituído com 0,72 ml de água para injectáveis estéril, apresentando um volume de administração de 0,5 ml. Em cada frasco inclui-se um acrescimo de solução para garantir que possam ser administrados 250 µg de romiplostim. ou • Nplate 500 microgramas pó para solução injectável deve ser reconstituído com 1,2 ml de água para injectáveis estéril, apresentando um volume de administração de 1 ml. Em cada frasco inclui-se um acrescimo de solução para garantir que possam ser administrados 500 µg de romiplostim.
+ Não utilize soluções de cloreto de sódio ou água bacteriostática ao reconstituir o medicamento.
+ Deve injectar-se água para injectáveis no frasco para injectáveis de Nplate. O conteúdo do frasco para injectáveis pode ser cuidadosamente rodado e invertido durante a dissolução. O frasco não deve ser sacudido nem agitado vigorosamente. Geralmente, a dissolução de Nplate demora menos de 2 minutos. Inspeccione visualmente a solução para ver se existe matéria na forma de partículas e descoloração antes da administração. Nplate reconstituído deve ser límpido e incolor. Nplate não deve ser administrado no caso de se observarem partículas e/ou descoloração.
+ Do ponto de vista microbiológico, o produto deve ser utilizado imediatamente. Se não for usado imediatamente, o tempo de armazenamento e as condições que antecedem a utilização são da responsabilidade do utilizador e normalmente não devem exceder as 24 horas a 25ºC ou 24 horas no frigorífico (2ºC – 8ºC) protegido da luz.
+ Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 45 ANEXO IV
+ CONDIÇÕES OU RESTRIÇÕES NO QUE RESPEITA À UTILIZAÇÃO SEGURA E EFECTIVA DO MEDICAMENTO A SER IMPLEMENTADA PELOS ESTADOS MEMBROS
+ 46 CONDIÇÕES OU RESTRIÇÕES NO QUE RESPEITA À UTILIZAÇÃO SEGURA E EFECTIVA DO MEDICAMENTO A SER IMPLEMENTADA PELOS ESTADOS MEMBROS
+ Os Estados Membros devem garantir, no que diz respeito ao uso seguro e eficaz dos medicamentos, que todas as condições abaixo descritas são implementadas:
+ O Titular da AIM deve acordar os detalhes de um programa educacional com as Autoridades Competentes Nacionais e deve implementar este programa nacionalmente por forma a garantir que, antes da prescrição, todos os médicos recebam um pacote de informação para profissionais de saúde com a seguinte informação: • Material educacional • Resumo das Características do Medicamento (RCM) e Folheto Informativo e Rotulagem
+ Elementos principais a serem incluídos no material educacional
+ • Posologia • Obrigações do profissional de saúde relativamente à prescrição do romiplostim e a necessidade de aconselhar os doentes sobre a relação risco-benefício. • Os documentos devem informar os seguintes riscos potenciais e identificados:
+ -
+ A incidência nos ensaios clínicos e a possibilidade de recorrência de trombocitopenia após cessação do tratamento. Deve fornecer conselho em como tratar os doentes após terminar o tratamento com romiplostim.
+ -
+ Informação de suporte sobre a reticulina na medula óssea. Os níveis de reticulina na medula óssea em doentes com PTI, a incidência observada e o potencial mecanismo de acção da deposição de reticulina como resposta ao romiplostim pode desencadear uma fibrose da medula óssea. Tomar atenção que, apesar de não existirem dados, a deposição da reticulina como resposta ao tratamento com romiplostim pode ser o aparecimento de fibrose da medula óssea. Deve ser dado um conselho acerca de quando investigações adicionais e biopsia à medula óssea são apropriadas.
+ -
+ A incidência nos ensaios clínicos de complicações trombóticas/tromboembólicas. Deve ser dado aconselhado seguir as recomendações de ajuste da dose para evitar contagens plaquetárias acima do normal.
+ -
+ A incidência de anticorpos neutralizantes do romiplostim em ensaios clínicos. As implicações das reacções cruzadas dos anticorpos neutralizantes do romiplostim com a trombopoietina endógena (TPO). Teste de anticorpos disponível a pedido médico, contactos das pessoas a contactar para obtenção do teste.
+ -
+ O romiplostim pode induzir a progressão da existência de alterações hematológicas e síndroma mielodisplásica (SMD). Assim, não deve ser usado nestas indicações fora do contexto de ensaio clínico. Dados provenientes dos ensaios clínicos em SMD sobre o aumento da incidência de células blásticas e progressão para AML.
+ -
+ Reiteração que o risco-benefício do tratamento da trombocitopenia em populações de doentes não PTI não foi ainda estabelecida. Esclarecimento de que o risco-benefício no tratamento pediátrico da PTI ainda não foi determinado.
+ -
+ A incidência de erros de medicação nos ensaios clínicos. Providenciar um calculador de dose para simplificar o cálculo da dose correcta e guia para a correcta reconstituição e administração.
+ 47

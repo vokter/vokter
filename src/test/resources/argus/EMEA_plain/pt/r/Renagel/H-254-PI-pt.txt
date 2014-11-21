@@ -1,0 +1,516 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. DENOMINAÇÃO DO MEDICAMENTO
+ Renagel 400 mg comprimidos revestidos por película.
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada comprimido contém 400 mg de sevelamer. Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Comprimidos revestidos por película. Os comprimidos ovais esbranquiçados têm impresso Renagel 400 num dos seus lados.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas O Renagel está indicado para o controlo da hiperfosfatemia em doentes adultos submetidos a hemodiálise ou diálise peritoneal. O Renagel deverá ser utilizado no contexto de uma abordagem terapêutica múltipla, que pode incluir suplementos de cálcio ou suplementos de vitamina D, para controlar o desenvolvimento de doença óssea renal.
+ 4.2 Posologia e modo de administração Crianças A segurança e eficácia deste medicamento não foram estabelecidas em doentes com menos de 18 anos.
+ Adultos e idosos (&gt; 65 anos) Em doentes não tratados com captadores de fósforo, a posologia é determinada de acordo com cada caso individual, com base na concentração sérica de fósforo, tal como indicado no quadro seguinte:
+ Nível sérico de fósforo em doentes não tratados com captadores de fósforo 176-2,42 mmol/l (5,5-7,5 mg/dl) 2,42 – 2,91 mmol/l (7,5 – 9 mg/dl) &gt; 2,91 mmol/l (&gt; 9 mg/dl)
+ Dose inicial de Renagel (Comprimidos de 400 mg) 2 comprimidos três vezes por dia 3 comprimidos três vezes por dia 4 comprimidos três vezes por dia
+ Se for prescrito como um captador de fósforo alternativo, o Renagel deverá ser administrado em doses equivalentes (em mg) em comparação com o anterior captador à base de cálcio administrado ao doente.
+ Os níveis séricos de fósforo devem ser monitorizados rigorosamente e a dose de Renagel ajustada de acordo com os mesmos, com o objectivo de reduzir o fósforo sérico para 1,76 mmol/l (5,5 mg/dl), ou inferior. O fósforo sérico deve ser determinado em intervalos de duas a três semanas até ser atingido um nível estável, e, em seguida, numa base regular.
+ As doses podem variar entre 1 e 10 comprimidos de 400 mg por refeição. A dose média diária efectiva, utilizada na fase crónica de um estudo clínico de um ano, foi de 7 gramas de sevelamer.
+ Os doentes devem tomar Renagel às refeições e respeitar as dietas prescritas. Os comprimidos têm de ser deglutidos inteiros. Não mastigar.
+ 2 4.3 Contra-indicações
+ • Hipersensibilidade ao sevelamer ou a qualquer um dos excipientes do medicamento. • Hipofosfatemia ou obstrução intestinal.
+ 4.4 Advertências e precauções de utilização
+ A eficácia e segurança do Renagel não foram estudadas quer em crianças quer em doentes em pré-diálise.
+ A eficácia e segurança do Renagel não foram estudadas em doentes com perturbações da deglutição, paresia gástrica não tratada ou grave e com retenção do conteúdo gástrico. O Renagel só deve ser utilizado nestes doentes após uma avaliação cuidadosa do benefício e dos riscos.
+ A eficácia e segurança do Renagel não foram estudadas em doentes com doença inflamatória intestinal, perturbações da motilidade gastrintestinal, peristaltismo irregular ou anormal, ou história clínica de cirurgia gastrintestinal grave, pelo que se devem tomar precauções quando é utilizado em doentes com estas perturbações.
+ Em casos muito raros, doentes tratados com Renagel desenvolvem obstrução intestinal e íleos/subíleos. A obstipação pode ser um sintoma precedente. Os doentes com obstipação devem ser cuidadosamente monitorizados durante o tratamento com Renagel. O tratamento com Renagel deve ser re-avaliado em doentes que desenvolvem uma obstipação grave ou outros sintomas gastrointestinais graves.
+ O Renagel isolado não está indicado para controlo do hiperparatiroidismo. Em doentes com hiperparatiroidismo secundário, o Renagel deve ser utilizado no contexto de uma abordagem terapêutica múltipla que pode incluir suplementos de cálcio, 1, 25-di-hidroxi-Vitamina D3 ou um dos seus análogos, para reduzir os níveis de hormona paratiroideia intacta (iPTH).
+ Os doentes com insuficiência renal podem desenvolver hipocalcemia ou hipercalcemia. O Renagel não contém cálcio. Os níveis séricos de cálcio devem ser monitorizados como é habitual fazer no seguimento normal de um doente em diálise. Em caso de hipocalcemia, devem ser administrados suplementos de cálcio.
+ Dependendo da dieta e da natureza da insuficiência renal, os doentes submetidos a diálise podem desenvolver níveis baixos das vitaminas A, D, E e K. Em estudos pré-clinicos, sevelamer equivalente a 10 vezes a dose máxima permitida a humanos, demonstrou reduzir a absorção das vitaminas D, E e K e de ácido fólico (ver também 5.3 Dados de segurança pré-clinica). Assim, em doentes que não estejam a ser suplementados, deve considerar-se a monitorização dos níveis das vitaminas A, D e E e a avaliação do estado da vitamina K através da determinação do tempo de tromboplastina. Suplementos vitamínicos devem ser administrados quando necessário. Recomenda-se que nos doentes em diálise peritoneal seja efectuada uma monitorização adicional das vitaminas e do ácido fólico, dado que a avaliação dos níveis de vitamina A, D, E e K não foi efectuada no ensaio clínico.
+ Presentemente, existem dados insuficientes para excluir a possibilidade de deficiência de folatos durante o tratamento prolongado com Renagel.
+ Os níveis de cloro sérico podem aumentar durante o tratamento com Renagel, porque, ao captar o fósforo, o sevelamer liberta cloro no lúmen intestinal. Embora nos estudos clínicos não se tenha observado um aumento do cloro sérico clinicamente significativo, os seus níveis devem ser monitorizados como é habitual fazer na avaliação de rotina do doente em diálise. Uma grama de Renagel contém aproximadamente 180 mg (5,1 mEq) de cloro.
+ Os doentes com insuficiência renal crónica têm predisposição para desenvolver acidose metabólica. Em estudos em que se observaram níveis de bicarbonato mais baixos em doentes tratados com
+ 3 sevelamer comparativamente aos doentes tratados com captadores de fósforo à base de cálcio, registou-se um agravamento da acidose aquando da alteração de outros captadores de fósforo para sevelamer. Por esta razão recomenda-se uma monitorização atenta dos níveis séricos de bicarbonato.
+ Foram reportados casos muito raros de hipotiroidismo em doentes com administração concomitante de Renagel e levotiroxina. A monitorização minuciosa dos níveis de TSH é por isso recomendada em doentes em tratamento com ambos os fármacos.
+ Os doentes em tratamento com medicamentos anti-arritmícos e anti-epilépticos para controlo de arritmias e de epilepsia foram excluídos dos ensaios clínicos. A prescrição de Renagel a doentes que estejam a tomar qualquer desses medicamentos deve ser cuidadosamente ponderada.
+ Os doentes submetidos a diálise encontram-se sujeitos a certos riscos de infecção que são específicos da modalidade de diálise. A peritonite é uma complicação comum em doentes submetidos a diálise peritoneal (DP) e num ensaio clínico com Renagel foi comunicado um conjunto de casos de peritonite. Assim sendo, os doentes em DP devem ser monitorizados de perto por forma a garantir a utilização fiável de técnica de assepsia apropriada com o reconhecimento e gestão imediata de quaisquer sinais e sintomas associados com a peritonite.
+ Como não estão ainda disponíveis dados sobre a utilização de sevelamer durante mais de um ano, não pode ser totalmente excluída a potencial absorção e acumulação de sevelamer durante o tratamento crónico prolongado (ver a secção 5.2 Farmacocinética).
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Não foram realizados estudos de interacção em doentes submetidos a diálise.
+ Em estudos de interacção em voluntários saudáveis, o Renagel não teve qualquer efeito sobre a biodisponibilidade da digoxina, varfarina, enalapril ou metoprolol. Contudo, a biodisponibilidade da ciprofloxacina diminuiu aproximadamente 50% quando co-administrada com Renagel, num estudo de dose única. Consequentemente, o Renagel não deve ser tomado em simultâneo com a ciprofloxacina.
+ O Renagel pode afectar a biodisponibilidade de outros medicamentos. Foi comunicada uma diminuição dos níveis de ciclosporina, de micofenolato mofetil e de tacrolimus em doentes transplantados em tratamento concomitante com Renagel, sem quaisquer consequências clínicas (i. e. rejeição do enxerto). Não se pode excluir a possibilidade de uma interacção, pelo que a monitorização cuidadosa das concentrações séricas de micofenolato mofetil, de ciclosporina e de tacrolimus durante o tratamento combinado e após a sua suspensão deve ser considerada.
+ Ao administrar qualquer medicamento cuja redução da biodisponibilidade possa ter um efeito clinicamente significativo no seu perfil de segurança ou eficácia, o medicamento deve ser administrado pelo menos uma hora antes ou três horas após o Renagel, ou o médico deve considerar a monitorização dos níveis séricos do doente.
+ 4.6 Gravidez e aleitamento A segurança do Renagel não foi estabelecida em mulheres grávidas ou durante o aleitamento. Em estudos em animais não houve qualquer evidência de que o Renagel induzisse toxicidade embriofetal. O Renagel só deverá ser administrado a mulheres grávidas ou em fase de aleitamento se for claramente necessário e depois de ser efectuada uma análise cuidadosa do risco/benefício, tanto em relação à mãe, como em relação ao feto ou ao lactente (Ver 5.3 Dados de segurança pré-clínica).
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram realizados estudos sobre os efeitos sobre a capacidade de conduzir e utilizar máquinas.
+ 4 4.8 Efeitos indesejáveis
+ Em estudos de desenho paralelo envolvendo 202 doentes em hemodiálise tratados até 54 semanas e 97 doentes em diálise peritoneal tratados durante 12 semanas, os efeitos indesejáveis possivelmente ou provavelmente relacionados com Renagel que ocorreram mais frequentemente (&gt; 5% dos doentes) foram os do foro gastrintestinal. Os efeitos indesejáveis reportados nesses estudos (299 doentes) e em ensaios clínicos não controlados (384 doentes) encontram-se enumerados na tabela que se segue, classificados como muito frequentes (≥1/10), frequentes (≥1/100, &lt; 1/10), pouco frequentes (≥1/1,000, &lt; 1/100), raros (≥1/10,000, &lt; 1/1,000) e muito raros (&lt; 1/10,000), incluindo efeitos indesejáveis reportados isoladamente.
+ Doenças gastrintestinais Muito frequentes(≥1/10): náuseas, vómitos Frequentes(≥1/100, &lt; 1/10): diarreia, dispepsia, flatulência, dor na região superior do abdómen, obstipação
+ A maioria destes efeitos são frequentemente observados em doentes no estadio 5 de insuficiência renal crónica e não são necessariamente atribuíveis ao Renagel.
+ Experiência após introdução no mercado: Em casos muito raros, observaram-se obstrução intestinal e íleos/subíleos em doentes submetidos a tratamento com Renagel.
+ 4.9 Sobredosagem Não foram observados casos de sobredosagem. O Renagel foi administrado a voluntários saudáveis até 14 gramas, o que é equivalente a trinta e cinco cápsulas de 403 mg (equivalente a trinta e cinco comprimidos de 400 mg) por dia, durante oito dias, sem efeitos indesejáveis.
+ 5 PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Tratamento da hiperfosfatemia. Código ATC: V03AE02.
+ O Renagel contém sevelamer, um polímero não absorvido de poli (cloridrato de alilamina) de ligação a fosfatos, isento de metal e cálcio. Contém aminas múltiplas separadas por um carbono do esqueleto polimérico. Estas aminas são parcialmente protonadas a nível do intestino e interagem com moléculas de fosfato através de ligações iónicas e de hidrogénio. O sevelamer diminui a concentração sérica de fósforo, através da sua ligação a fosfatos no tracto gastrointestinal.
+ Em estudos clínicos, o sevelamer demonstrou ser eficaz na redução do fósforo sérico em doentes sujeitos a hemodiálise ou a diálise peritoneal.
+ O tratamento com sevelamer diminui a incidência de crises hipercalcémicas, comparativamente com os doentes que utilizam unicamente captadores de fosfatos à base de cálcio, provavelmente porque o produto em si não contém cálcio. Um estudo de acompanhamento de doentes durante um ano, comprovou que os efeitos sobre o fosfato e o cálcio se mantiveram.
+ Demonstrou-se que o sevelamer se liga aos ácidos biliares in vitro e in vivo em modelos experimentais animais. A ligação aos ácidos biliares por resinas permutadoras de iões é um método bem estabelecido para diminuir o colesterol sanguíneo. Em ensaios clínicos, a média do colesterol total e de baixa densidade (LDL) diminuiu em 15-31%, sendo este efeito observado após 2 semanas e mantendo-se durante tratamento prolongado. Não houve alterações nos triglicéridos, no colesterol de alta densidade (HDL), nem na albumina.
+ 5 Nos estudos clínicos realizados em doentes submetidos a hemodiálise, o sevelamer isolado não teve um efeito consistente nem clinicamente significativo sobre os níveis séricos da hormona paratiroideia (iPTH). Contudo, no estudo de 12 semanas envolvendo doentes submetidos a tratamento de diálise peritoneal, reduções similares de iPTH foram observadas comparativamente com o grupo em tratamento com acetato de cálcio. Em doentes com hiperparatiroidismo secundário, o Renagel deverá ser utilizado no contexto de uma abordagem terapêutica múltipla, que pode incluir suplementos de cálcio, 1, 25-di-hidroxi-Vitamina D3 ou um dos seus análogos, para diminuir os níveis séricos de hormona paratiroideia.
+ Num ensaio clínico com a duração de um ano, Renagel não apresentou nenhum efeito adverso na renovação óssea nem na mineralização, em comparação com o carbonato de cálcio.
+ 5.2 Propriedades farmacocinéticas O Renagel não é absorvido no tracto gastrintestinal, de acordo com um estudo farmacocinético de dose única efectuado em voluntários saudáveis. Não se efectuaram estudos farmacocinéticos em doentes com insuficiência renal (ver a secção 4.4 Advertências e precauções especiais de utilização).
+ 5.3 Dados de segurança pré-clínica Em estudos pré-clínicos realizados em ratos e cães, o Renagel, numa dose 10 vezes superior às doses máximas usadas em humanos, reduziu a absorção das vitaminas lipossolúveis D, E e K, assim como do ácido fólico.
+ Num estudo realizado em ratos, ao administrar-se sevelamer numa dose 15-30 vezes superior à dose utilizada em humanos, detectou-se um aumento do cobre sérico. Este aumento não foi confirmado num estudo efectuado em cães ou em ensaios clínicos.
+ Não estão actualmente disponíveis dados formais de carcinogenicidade. Contudo, estudos in vitro e in vivo indicaram que o Renagel não tem potencial genotóxico. Além disso, o medicamento não é absorvido no tracto gastrintestinal.
+ Em estudos de reprodução, não houve qualquer evidência de que o sevelamer induzisse embrioletalidade, fetotoxicidade ou teratogenicidade nas doses testadas (até 1 g/kg/dia em coelhos e até 4,5 g/kg/dia em ratos). Observaram-se défices na ossificação esquelética em várias localizações em fetos de ratos fêmea a que se administraram doses de sevelamer 8-20 vezes superiores à dose humana máxima de 200 mg/kg. Os efeitos podem ser secundários à depleção de vitamina D e/ou de vitamina K nestas doses elevadas.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Cada comprimido contém: Sílica, anidra coloidal Ácido esteárico
+ O revestimento do comprimido contém: Hipromelose Monoglicéridos diacetilados
+ A tinta de impressão contém: Óxido de ferro preto (E172) Propilenoglicol Hipromelose 6 6.2 Incompatibilidades
+ Não aplicável. 6.3 Prazo de validade 2 anos. 6.4 Precauções de conservação Não conservar acima de 25ºC. Manter o recipiente bem fechado.
+ 6.5 Natureza e conteúdo do recipiente Frascos de polietileno de alta densidade, com tampa de polipropileno com um vedante por indução resistente à abertura por crianças. As dimensões das embalagens são:
+ Comprimidos de 400 mg 1 x 360 comprimidos 2 x 360 comprimidos 3 x 360 comprimidos
+ É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais de eliminação Não existem requisitos especiais. Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Genzyme Europe B. V., Gooimeer 10,1411 DD Naarden, Países Baixos
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/99/123/005 EU/1/99/123/006 EU/1/99/123/007
+ 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 28/01/2000 Data da renovação: 26/01/2005 10. DATA DA REVISÃO DO TEXTO Informação pormenorizada sobre este medicamento está disponível no site da Agência Europeia do Medicamento (EMEA). http: //www. emea. europa. eu/
+ 7 1. DENOMINAÇÃO DO MEDICAMENTO
+ Renagel 800 mg comprimidos revestidos por película.
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada comprimido contém 800 mg de sevelamer. Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Comprimido revestido por película. Os comprimidos ovais esbranquiçados têm impresso Renagel 800 num dos seus lados.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas O Renagel está indicado para o controlo da hiperfosfatemia em doentes adultos submetidos a hemodiálise ou diálise peritoneal. O Renagel deverá ser utilizado no contexto de uma abordagem terapêutica múltipla, que pode incluir suplementos de cálcio ou suplementos de vitamina D ,, para controlar o desenvolvimento de doença óssea renal.
+ 4.2 Posologia e modo de administração Crianças A segurança e eficácia deste medicamento não foram estabelecidas em doentes com menos de 18 anos.
+ Adultos e idosos (&gt; 65 anos) Em doentes não tratados com captadores de fósforo, a posologia é determinada de acordo com cada caso individual, com base na concentração sérica de fósforo, tal como indicado no quadro seguinte:
+ Nível sérico do fósforo em doentes não tratados com captadores de fósforo 1,76-2,42 mmol/l (5,5 – 7,5 mg/dl) &gt; 2,42 mmol/l (&gt; 7,5 mg/dl)
+ Dose inicial de Renagel (Comprimidos de 800 mg) 1 comprimido três vezes por dia 2 comprimidos três vezes por dia
+ Se for prescrito como um captador de fósforo alternativo, o Renagel deverá ser administrado em doses equivalentes (em mg) em comparação com o anterior captador à base de cálcio administrado ao doente.
+ Os níveis séricos de fósforo devem ser monitorizados rigorosamente e a dose de Renagel ajustada de acordo com os mesmos, com o objectivo de reduzir o fósforo sérico para 1,76 mmol/l (5,5 mg/dl), ou inferior. O fósforo sérico deve ser determinado em intervalos de duas a três semanas até ser atingido um nível estável, e, em seguida, numa base regular.
+ As doses podem variar entre 1 e 5 comprimidos de 800 mg por refeição. A dose média diária efectiva, utilizada na fase crónica de um estudo clínico de um ano, foi de 7 gramas de sevelamer.
+ Os doentes devem tomar Renagel às refeições e respeitar as dietas prescritas. Os comprimidos têm de ser deglutidos inteiros. Não mastigar.
+ 8 4.3 Contra-indicações
+ • Hipersensibilidade ao sevelamer ou a qualquer um dos excipientes do medicamento. • Hipofosfatemia ou obstrução intestinal.
+ 4.4 Advertências e precauções de utilização
+ A eficácia e segurança do Renagel não foram estudadas quer em crianças quer em doentes em pré-diálise.
+ A eficácia e segurança do Renagel não foram estudadas em doentes com perturbações da deglutição, paresia gástrica não tratada ou grave e com retenção do conteúdo gástrico. O Renagel só deve ser utilizado nestes doentes após uma avaliação cuidadosa do benefício e dos riscos.
+ A eficácia e segurança do Renagel não foram estudadas em doentes com doença inflamatória intestinal, perturbações da motilidade gastrintestinal, peristaltismo irregular ou anormal ou história clínica de cirurgia gastrintestinal grave, pelo que se devem tomar precauções quando é utilizado em doentes com estas perturbações.
+ Em casos muito raros, doentes tratados com Renagel desenvolvem obstrução intestinal e íleos/subíleos. A obstipação pode ser um sintoma precedente. Os doentes com obstipação devem ser cuidadosamente monitorizados durante o tratamento com Renagel. O tratamento com Renagel deve ser re-avaliado em doentes que desenvolvem uma obstipação grave ou outros sintomas gastrointestinais graves.
+ O Renagel isolado não está indicado para controlo do hiperparatiroidismo. Em doentes com hiperparatiroidismo secundário, o Renagel deve ser utilizado no contexto de uma abordagem terapêutica múltipla que pode incluir suplementos de cálcio, 1, 25-di-hidroxi-Vitamina D3 ou um dos seus análogos, para reduzir os níveis de hormona paratiroideia intacta (iPTH).
+ Os doentes com insuficiência renal podem desenvolver hipocalcemia ou hipercalcemia. O Renagel não contém cálcio. Os níveis séricos de cálcio devem ser monitorizados como é habitual fazer no seguimento normal de um doente em diálise. Em caso de hipocalcemia, devem ser administrados suplementos de cálcio.
+ Dependendo da dieta e da natureza da insuficiência renal, os doentes submetidos a diálise podem desenvolver níveis baixos das vitaminas A, D, E e K. Em estudos pré-clinicos, sevelamer equivalente a 10 vezes a dose máxima permitida a humanos, demonstrou reduzir a absorção das vitaminas D, E e K e de ácido fólico (ver também 5.3 Dados de segurança pré-clinica). Assim, em doentes que não estejam a ser suplementados, deve considerar-se a monitorização dos níveis das vitaminas A, D e E e a avaliação do estado da vitamina K através da determinação do tempo de tromboplastina. Suplementos vitamínicos devem ser administrados quando necessário. Recomenda-se que nos doentes em diálise peritoneal seja efectuada uma monitorização adicional das vitaminas e do ácido fólico, dado que a avaliação dos níveis de vitamina A, D, E e K não foi efectuada no ensaio clínico.
+ Presentemente, existem dados insuficientes para excluir a possibilidade de deficiência de folatos durante o tratamento prolongado com Renagel.
+ Os níveis de cloro sérico podem aumentar durante o tratamento com Renagel, porque, ao captar o fósforo, o sevelamer liberta cloro no lúmen intestinal. Embora nos estudos clínicos não se tenha observado um aumento do cloro sérico clinicamente significativo, os seus níveis devem ser monitorizados como é habitual fazer na avaliação de rotina do doente em diálise. Uma grama de Renagel contém aproximadamente 180 mg (5,1 mEq) de cloro.
+ Os doentes com insuficiência renal crónica têm predisposição para desenvolver acidose metabólica. Em estudos em que se observaram níveis de bicarbonato mais baixos em doentes tratados com
+ 9 sevelamer comparativamente aos doentes tratados com captadores de fósforo à base de cálcio, registou-se um agravamento da acidose aquando da alteração de outros captadores de fósforo para sevelamer. Por esta razão recomenda-se uma monitorização atenta dos níveis séricos de bicarbonato.
+ Foram reportados casos muito raros de hipotiroidismo em doentes com administração concomitante de Renagel e levotiroxina. A monitorização minuciosa dos níveis de TSH é por isso recomendada em doentes em tratamento com ambos os fármacos.
+ Os doentes em tratamento com medicamentos anti-arritmícos e anti-epilépticos para controlo de arritmias e de epilepsia foram excluídos dos ensaios clínicos. A prescrição de Renagel a doentes que estejam a tomar qualquer desses medicamentos deve ser cuidadosamente ponderada.
+ Os doentes submetidos a diálise encontram-se sujeitos a certos riscos de infecção que são específicos da modalidade de diálise. A peritonite é uma complicação comum em doentes submetidos a diálise peritoneal (DP) e num ensaio clínico com Renagel foi comunicado um conjunto de casos de peritonite. Assim sendo, os doentes em DP devem ser monitorizados de perto por forma a garantir a utilização fiável de técnica de assepsia apropriada com o reconhecimento e gestão imediata de qualquer sinais e síntomas associados com a peritonite.
+ Como não estão ainda disponíveis dados sobre a utilização de sevelamer durante mais de um ano, não pode ser totalmente excluída a potencial absorção e acumulação de sevelamer durante o tratamento crónico prolongado (ver a secção 5.2 Farmacocinética).
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Não foram realizados estudos de interacção em doentes submetidos a diálise.
+ Em estudos de interacção em voluntários saudáveis, o Renagel não teve qualquer efeito sobre a biodisponibilidade da digoxina, varfarina, enalapril ou metoprolol. Contudo, a biodisponibilidade da ciprofloxacina diminuiu aproximadamente 50% quando co-administrada com Renagel, num estudo de dose única. Consequentemente, o Renagel não deve ser tomado em simultâneo com a ciprofloxacina.
+ O Renagel pode afectar a biodisponibilidade de outros medicamentos. Foi comunicada uma diminuição dos níveis de ciclosporina e de micofenolato mofetil e de tacrolimus em doentes transplantados em tratamento concomitante com Renagel, sem quaisquer consequências clínicas (i. e. rejeição do enxerto). Não se pode excluir a possibilidade de uma interacção, pelo que a monitorização cuidadosa das concentrações séricas de micofenolato mofetil, de ciclosporina e de tacrolimus durante o tratamento combinado e após a sua suspensão deve ser considerada.
+ Ao administrar qualquer medicamento cuja redução da biodisponibilidade possa ter um efeito clinicamente significativo no seu perfil de segurança ou eficácia, o medicamento deve ser administrado pelo menos uma hora antes ou três horas após o Renagel, ou o médico deve considerar a monitorização dos níveis séricos do doente.
+ Em estudos realizados em animais, a co-administração de uma dose única de Renagel com verapamil, quinidina, calcitriol, tetraciclina, varfarina, ácido valpróico, digoxina, propranolol, estrona e L-tiroxina não alteraram as concentrações séricas máximas, nem a área sob a curva das concentrações séricas destes medicamentos.
+ 4.6 Gravidez e aleitamento A segurança do Renagel não foi estabelecida em mulheres grávidas ou durante o aleitamento. Em estudos em animais não houve qualquer evidência de que o Renagel induzisse toxicidade embriofetal. O Renagel só deverá ser administrado a mulheres grávidas ou em fase de aleitamento se for claramente necessário e depois de ser efectuada uma análise cuidadosa do risco/benefício, tanto em relação à mãe, como em relação ao feto ou ao lactente (Ver 5.3 Dados de segurança pré-clínica).
+ 10 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram realizados estudos sobre a capacidade de conduzir e utilizar máquinas.
+ 4.8 Efeitos indesejáveis Em estudos de desenho paralelo envolvendo 244 doentes em hemodiálise tratados até 54semanas e 97 doentes em diálise peritoneal tratados durante 12 semanas, os efeitos indesejáveis possivelmente ou provavelmente relacionados com Renagel que ocorreram mais frequentemente (&gt; 5% dos doentes) foram os do foro gastrintestinal. Os efeitos indesejáveis reportados nesses estudos (299 doentes) e em ensaios clínicos não controlados (384 doentes) encontram-se enumerados na tabela que se segue, classificados como muito frequentes (≥1/10), frequentes (≥1/100, &lt; 1/10), pouco frequentes (≥ &gt; 1/1.000, &lt; 1/100), raros (≥1/10.000, &lt; 1/1.000) e muito raros (&lt; 1/10.000), incluíndo efeitos indesejáveis reportados isoladamente.
+ Doenças gastrintestinais Muito frequentes (≥1/10): náuseas, vómitos Frequentes (≥1/100, &lt; 1/10): diarreia, dispepsia, flatulência, dor na região superior do abdómen, obstipação
+ A maioria destes efeitos são frequentemente observados em doentes no estadio 5 de insuficiência renal crónica e não são necessariamente atribuíveis ao Renagel.
+ Experiência após introdução no mercado: Em casos muito raros, observaram-se obstrução intestinal e íleos/subíleos em doentes submetidos a tratamento com Renagel.
+ 4.9 Sobredosagem Não foram observados casos de sobredosagem. O Renagel foi administrado a voluntários saudáveis até 14 gramas, o que é o equivalente a 35 comprimidos de 403 mg (equivalente a dezassete comprimidos de 800 mg), por dia, durante oito dias, sem efeitos indesejáveis.
+ 5 PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Tratamento da hiperfosfatemia. Código ATC: V03AE02.
+ O Renagel contém sevelamer, um polímero não absorvido de poli (cloridrato de alilamina) de ligação a fosfatos, isento de metal e cálcio. Contém aminas múltiplas separadas por um carbono do esqueleto polimérico. Estas aminas são parcialmente protonadas a nível do intestino e interagem com moléculas de fosfato através de ligações iónicas e de hidrogénio. O sevelamer diminui a concentração sérica de fósforo, através da sua ligação a fosfatos no tracto gastrointestinal.
+ Em estudos clínicos, o sevelamer demonstrou ser eficaz na redução do fósforo sérico em doentes sujeitos a hemodiálise ou a diálise peritoneal.
+ O tratamento com sevelamer diminui a incidência de crises hipercalcémicas, comparativamente com os doentes que utilizam unicamente captadores de fosfatos à base de cálcio, provavelmente porque o produto em si não contém cálcio. Um estudo de acompanhamento de doentes, durante um ano, comprovou que os efeitos sobre o fósforo e o cálcio se mantiveram.
+ Demonstrou-se que o sevelamer se liga aos ácidos biliares in vitro e in vivo em modelos experimentais animais. A ligação aos ácidos biliares por resinas permutadoras de iões é um método bem estabelecido
+ 11 para diminuir o colesterol sanguíneo. Em ensaios clínicos, a média do colesterol total e de baixa densidade (LDL) diminuiu em 15-31%, sendo este efeito observado após 2 semanas e mantendo-se durante tratamento prolongado. Não houve alterações nos triglicéridos, no colesterol de alta densidade (HDL), nem na albumina.
+ Nos estudos clínicos realizados em doentes submetidos a hemodiálise, o sevelamer isolado não teve um efeito consistente nem clinicamente significativo sobre os níveis séricos da hormona paratiroideia (iPTH). Contudo, no estudo de 12 semanas envolvendo doentes submetidos a tratamento de diálise peritoneal, reduções similares de iPTH foram observadas comparativamente com o grupo em tratamento com acetato de cálcio. Em doentes com hiperparatiroidismo secundário, o Renagel deverá ser utilizado no contexto de uma abordagem terapêutica múltipla, que pode incluir suplementos de cálcio, 1, 25-di-hidroxi-Vitamina D3 ou um dos seus análogos, para diminuir os níveis séricos de hormona paratiroideia.
+ Num ensaio clínico com a duração de um ano, Renagel não apresentou nenhum efeito adverso na renovação óssea nem na mineralização, em comparação com o carbonato de cálcio.
+ 5.2 Propriedades farmacocinéticas O Renagel não é absorvido no tracto gastrintestinal, de acordo com um estudo farmacocinético de dose única efectuado em voluntários saudáveis. Não se efectuaram estudos farmacocinéticos em doentes com insuficiência renal (ver a secção 4.4 Advertências e precauções especiais de utilização).
+ 5.3 Dados de segurança pré-clínica Em estudos pré-clínicos realizados em ratos e cães, o Renagel, numa dose 10 vezes superior às doses máximas usadas em humanos, reduziu a absorção das vitaminas lipossolúveis D, E e K, assim como do ácido fólico.
+ Num estudo realizado em ratos, ao administrar-se sevelamer numa dose 15-30 vezes superior à dose utilizada em humanos, detectou-se um aumento do cobre sérico. Este aumento não foi confirmado num estudo efectuado em cães ou em ensaios clínicos.
+ Não estão actualmente disponíveis dados formais de carcinogenicidade. Contudo, estudos in vitro e in vivo indicaram que o Renagel não tem potencial genotóxico. Além disso, o medicamento não é absorvido no tracto gastrintestinal.
+ Em estudos de reprodução, não houve qualquer evidência de que o sevelamer induzisse embrioletalidade, fetotoxicidade ou teratogenicidade nas doses testadas (até 1 g/kg/dia em coelhos e até 4,5 g/kg/dia em ratos). Observaram-se défices na ossificação esquelética em várias localizações em fetos de ratos fêmea a que se administraram doses de sevelamer 8-20 vezes superiores à dose humana máxima de 200 mg/kg. Os efeitos podem ser secundários à depleção de vitamina D e/ou de vitamina K nestas doses elevadas.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Cada comprimido contém: Sílica, anidra coloidal Ácido esteárico
+ O revestimento do comprimido contém: Hipromelose Monoglicéridos diacetilados
+ 12 A tinta de impressão contém: Óxido de ferro preto (E172) Propileno-glicol Hipromelose
+ 6.2 Incompatibilidades Não aplicável. 6.3 Prazo de validade 2 anos. 6.4 Precauções de conservação Não conservar acima de 25ºC. Manter o recipiente bem fechado.
+ 6.5 Natureza e conteúdo do recipiente Frascos de polietileno de alta densidade, com tampa de polipropileno com um vedante por indução resistente à abertura por crianças. As dimensões das embalagens são:
+ Comprimidos de 800 mg 6 x 30 comprimidos 1 x 100 comprimidos 1 x 180 comprimidos 2 x 180 comprimidos 3 x 180 comprimidos
+ É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais de eliminação Não existem requisitos especiais. Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Genzyme Europe B. V., Gooimeer 10,1411 DD Naarden, Países Baixos
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/99/123/008 EU/1/99/123/009 EU/1/99/123/010 EU/1/99/123/011 EU/1/99/123/012 EU/1/99/123/013
+ 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 13 28/01/2000 Data da renovação: 26/01/2005
+ 10. DATA DA REVISÃO DO TEXTO Informação pormenorizada sobre este medicamento está disponível no site da Agência Europeia do Medicamento (EMEA). http: //www. emea. europa. eu/
+ 14 ANEXO II
+ A. TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 15 A. TITULAR(ES) DE AUTORIZAÇÃO DE FABRICO RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do fabricante responsável pela libertação do lote
+ Genzyme Limited,12 Rookwood Way, Haverhill, Suffolk CB9 8PB, Reino Unido
+ Genzyme Ireland Ltd., IDA Industrial Park, Old Kilmeaden Road, Waterford, Irlanda
+ O folheto informativo que acompanha o medicamento deve mencionar o nome e endereço do fabricante responsável pela libertação do lote em causa.
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E À UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento sujeito a receita médica. • CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ Não aplicável • OUTRAS CONDIÇÕES
+ O MAH (Titular de Autorização de Introdução no Mercado) compromete-se a realizar um estudo de registo e actividades adicionais de farmacovigilância conforme detalhado no Plano de Farmacovigilância.
+ Em conformidade com a Directiva CHMP sobre Sistemas de Gestão de Risco para medicamentos para Uso Humano, deverá ser entregue um Plano actualizado de Gestão de Risco.
+ O MAH submeterá PSURs de 6 meses, excepto se houver indicação contrária do CHMP.
+ 16 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 17 A. ROTULAGEM
+ 18 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO E NO ACONDICIONAMENTO PRIMÁRIO
+ EMBALAGEM EXTERIOR-FRASCO DE 360 COMPRIMIDOS 400 mg
+ 1. DENOMINAÇÃO DO MEDICAMENTO Renagel 400 mg comprimidos revestidos por película sevelamer
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ Cada comprimido contém 400 mg da substância activa sevelamer.
+ 3. LISTA DOS EXCIPIENTES O comprimido também contém dióxido de ferro preto (E172) e propilenoglicol.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 360 comprimidos revestidos por película. 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral. Os comprimidos devem ser ingeridos inteiros. Não mastigar. Consultar o folheto informativo antes da administração.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. { MM/AAAA} 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Não conservar acima de 25°C. Manter o recipiente bem fechado.
+ 19 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Genzyme Europe B. V. Gooimeer 10 1411 DD Naarden Países Baixos
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/99/123/005 13. NÚMERO DO LOTE Lote{ número} 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILE Renagel 400mg sevelamer 20 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO E NO ACONDICIONAMENTO PRIMÁRIO
+ EMBALAGEM EXTERIOR-2 FRASCOS DE 360 COMPRIMIDOS 400 mg
+ 1. DENOMINAÇÃO DO MEDICAMENTO Renagel 400 mg comprimidos revestidos por película sevelamer
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ Cada comprimido contém 400 mg da substância activa sevelamer.
+ 3. LISTA DOS EXCIPIENTES O comprimido também contém dióxido de ferro preto (E172) e propilenoglicol.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 2 frascos de 360 comprimidos revestidos por película.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral. Os comprimidos devem ser ingeridos inteiros. Não mastigar. Consultar o folheto informativo antes da administração.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. { MM/AAAA} 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Não conservar acima de 25°C. Manter o recipiente bem fechado.
+ 21 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Genzyme Europe B. V. Gooimeer 10 1411 DD Naarden Países Baixos
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/99/123/006 13. NÚMERO DO LOTE Lote{ número} 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILE Renagel 400mg sevelamer 22 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO E NO ACONDICIONAMENTO PRIMÁRIO
+ EMBALAGEM EXTERIOR-3 FRASCOS DE 360 COMPRIMIDOS 400 mg
+ 1. DENOMINAÇÃO DO MEDICAMENTO Renagel 400 mg comprimidos revestidos por película sevelamer
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ Cada comprimido contém 400 mg da substância activa sevelamer.
+ 3. LISTA DOS EXCIPIENTES O comprimido também contém dióxido de ferro preto (E172) e propilenoglicol.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 3 frascos de 360 comprimidos revestidos por película.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral. Os comprimidos devem ser ingeridos inteiros. Não mastigar. Consultar o folheto informativo antes da administração.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. { MM/AAAA} 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Não conservar acima de 25°C. Manter o recipiente bem fechado.
+ 23 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Genzyme Europe B. V. Gooimeer 10 1411 DD Naarden Países Baixos
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/99/123/007 13. NÚMERO DO LOTE Lote{ número} 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILE Renagel 400mg sevelamer 24 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO E NO ACONDICIONAMENTO PRIMÁRIO
+ ETIQUETA-FRASCO DE 360 COMPRIMIDOS 400 mg
+ 1. DENOMINAÇÃO DO MEDICAMENTO Renagel 400 mg comprimidos revestidos por película sevelamer
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ Cada comprimido contém 400 mg da substância activa sevelamer.
+ 3. LISTA DOS EXCIPIENTES O comprimido também contém dióxido de ferro preto (E172) e propilenoglicol.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 360 comprimidos revestidos por película. 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral. Os comprimidos devem ser ingeridos inteiros. Não mastigar. Consultar o folheto informativo antes da administração.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. { MM/AAAA} 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Não conservar acima de 25°C. Manter o recipiente bem fechado.
+ 25 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Genzyme Europe B. V. Gooimeer 10 1411 DD Naarden Países Baixos
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/99/123/005 13. NÚMERO DO LOTE Lote{ número} 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILE Renagel 400mg sevelamer 26 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ EMBALAGEM EXTERIOR-6 FRASCOS DE 30 COMPRIMIDOS 800 mg
+ 1. DENOMINAÇÃO DO MEDICAMENTO Renagel 800 mg comprimidos revestidos por película sevelamer
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ Cada comprimido contém 800 mg de sevelamer.
+ 3. LISTA DOS EXCIPIENTES O comprimido também contém dióxido de ferro preto (E172) e propileno-glicol.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 6 frascos de 30 comprimidos revestidos por película.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral. Os comprimidos devem ser ingeridos inteiros. Não mastigar. Consultar o folheto informativo antes da administração.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. { MM/AAAA} 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Não conservar acima de 25°C. Manter o recipiente bem fechado.
+ 27 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Genzyme Europe B. V. Gooimeer 10 1411 DD Naarden Países Baixos
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/99/123/013 13. NÚMERO DO LOTE Lote{ número} 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILE Renagel 800mg sevelamer 28 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO E NO ACONDICIONAMENTO PRIMÁRIO
+ EMBALAGEM EXTERIOR-FRASCO DE 100 COMPRIMIDOS 800 mg
+ 1. DENOMINAÇÃO DO MEDICAMENTO Renagel 800 mg comprimidos revestidos por película sevelamer
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ Cada comprimido contém 800 mg da substância activa sevelamer.
+ 3. LISTA DOS EXCIPIENTES O comprimido também contém dióxido de ferro preto (E172) e propilenoglicol.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 100 comprimidos revestidos por película. 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral. Os comprimidos devem ser ingeridos inteiros. Não mastigar. Consultar o folheto informativo antes da administração.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. { MM/AAAA} 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Não conservar acima de 25°C. Manter o recipiente bem fechado.
+ 29 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Genzyme Europe B. V. Gooimeer 10 1411 DD Naarden Países Baixos
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/99/123/011 13. NÚMERO DO LOTE Lote{ número} 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILE Renagel 400mg sevelamer 30 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO E NO ACONDICIONAMENTO PRIMÁRIO
+ EMBALAGEM EXTERIOR-FRASCO DE 180 COMPRIMIDOS 800 mg
+ 1. DENOMINAÇÃO DO MEDICAMENTO Renagel 800 mg comprimidos revestidos por película sevelamer
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ Cada comprimido contém 800 mg de sevelamer.
+ 3. LISTA DOS EXCIPIENTES O comprimido também contém dióxido de ferro preto (E172) e propilenoglicol.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 180 comprimidos revestidos por película. 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral. Os comprimidos devem ser ingeridos inteiros. Não mastigar. Consultar o folheto informativo antes da utilização.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. { MM/AAAA} 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Não conservar acima de 25°C. Manter o recipiente bem fechado.
+ 31 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Genzyme Europe B. V. Gooimeer 10 1411 DD Naarden Países Baixos
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/99/123/008 13. NÚMERO DO LOTE Lote{ número} 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILE Renagel 800mg Sevelamer 32 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO E NO ACONDICIONAMENTO PRIMÁRIO
+ EMBALAGEM EXTERIOR-2 FRASCOS DE 180 COMPRIMIDOS 800 mg
+ 1. DENOMINAÇÃO DO MEDICAMENTO Renagel 800 mg comprimidos revestidos por película sevelamer
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ Cada comprimido contém 800 mg da substância activa sevelamer.
+ 3. LISTA DOS EXCIPIENTES O comprimido também contém dióxido de ferro preto (E172) e propileno-glicol.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 2 frascos de 180 comprimidos revestidos por película.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral. Os comprimidos devem ser ingeridos inteiros. Não mastigar. Consultar o folheto informativo antes da administração.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. { MM/AAAA} 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Não conservar acima de 25°C. Manter o recipiente bem fechado.
+ 33 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Genzyme Europe B. V. Gooimeer 10 1411 DD Naarden Países Baixos
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/99/123/009 13. NÚMERO DO LOTE Lote{ número} 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILE Renagel 800mg Sevelamer 34 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ EMBALAGEM EXTERIOR-3 FRASCOS DE 180 COMPRIMIDOS 800 mg
+ 1. DENOMINAÇÃO DO MEDICAMENTO Renagel 800 mg comprimidos revestidos por película sevelamer
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ Cada comprimido contém 800 mg de sevelamer.
+ 3. LISTA DOS EXCIPIENTES O comprimido também contém dióxido de ferro preto (E172) e propileno-glicol.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 3 frascos de 180 comprimidos revestidos por película.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral. Os comprimidos devem ser ingeridos inteiros. Não mastigar. Consultar o folheto informativo antes da administração.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. { MM/AAAA} 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Não conservar acima de 25°C. Manter o recipiente bem fechado.
+ 35 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Genzyme Europe B. V. Gooimeer 10 1411 DD Naarden Países Baixos
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/99/123/010 13. NÚMERO DO LOTE Lote{ número} 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILE Renagel 800mg sevelamer 36 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO E NO ACONDICIONAMENTO PRIMÁRIO
+ ETIQUETA-FRASCO DE 30 COMPRIMIDOS 800 mg
+ 1. DENOMINAÇÃO DO MEDICAMENTO Renagel 800 mg comprimidos revestidos por película sevelamer
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ Cada comprimido contém 800 mg da substância activa sevelamer.
+ 3. LISTA DOS EXCIPIENTES O comprimido também contém dióxido de ferro preto (E172) e propileno-glicol.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 30 comprimidos revestidos por película. 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral. Os comprimidos devem ser ingeridos inteiros. Não mastigar. Consultar o folheto informativo antes da administração.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. { MM/AAAA} 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Não conservar acima de 25°C. Manter o recipiente bem fechado.
+ 37 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Genzyme Europe B. V. Gooimeer 10 1411 DD Naarden Países Baixos
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/99/123/013 13. NÚMERO DO LOTE Lote{ número} 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILE Renagel 800 mg sevelamer 38 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO E NO ACONDICIONAMENTO PRIMÁRIO
+ ETIQUETA-FRASCO DE 100 COMPRIMIDOS 800 mg
+ 1. DENOMINAÇÃO DO MEDICAMENTO Renagel 800 mg comprimidos revestidos por película sevelamer
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ Cada comprimido contém 800 mg da substância activa sevelamer.
+ 3. LISTA DOS EXCIPIENTES O comprimido também contém dióxido de ferro preto (E172) e propileno-glicol.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 100 comprimidos revestidos por película. 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral. Os comprimidos devem ser ingeridos inteiros. Não mastigar. Consultar o folheto informativo antes da administração.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. { MM/AAAA} 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Não conservar acima de 25°C. Manter o recipiente bem fechado.
+ 39 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Genzyme Europe B. V. Gooimeer 10 1411 DD Naarden Países Baixos
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/99/123/011 13. NÚMERO DO LOTE Lote{ número} 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILE Renagel 800 mg sevelamer 40 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO E NO ACONDICIONAMENTO PRIMÁRIO
+ ETIQUETA-FRASCO DE 180 COMPRIMIDOS 800 mg (COM EMBALAGEM EXTERIOR)
+ 1. DENOMINAÇÃO DO MEDICAMENTO Renagel 800 mg comprimidos revestidos por película sevelamer
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ Cada comprimido contém 800 mg da substância activa sevelamer.
+ 3. LISTA DOS EXCIPIENTES O comprimido também contém dióxido de ferro preto (E172) e propileno-glicol.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 180 comprimidos revestidos por película. 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral. Os comprimidos devem ser ingeridos inteiros. Não mastigar. Consultar o folheto informativo antes da administração.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. { MM/AAAA} 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Não conservar acima de 25°C. Manter o recipiente bem fechado.
+ 41 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Genzyme Europe B. V. Gooimeer 10 1411 DD Naarden Países Baixos
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/99/123/008 13. NÚMERO DO LOTE Lote{ número} 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILE Renagel 800mg sevelamer 42 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO E NO ACONDICIONAMENTO PRIMÁRIO
+ ETIQUETA-FRASCO DE 180 COMPRIMIDOS 800 mg (SEM EMBALAGEM EXTERIOR)
+ 1. DENOMINAÇÃO DO MEDICAMENTO Renagel 800 mg comprimidos revestidos por película sevelamer
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ Cada comprimido contém 800 mg da substância activa sevelamer.
+ 3. LISTA DOS EXCIPIENTES O comprimido também contém dióxido de ferro preto (E172) e propileno-glicol.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 180 comprimidos revestidos por película. 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral. Os comprimidos devem ser ingeridos inteiros. Não mastigar. Consultar o folheto informativo antes da administração.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. { MM/AAAA} 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Não conservar acima de 25°C. Manter o recipiente bem fechado.
+ 43 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Genzyme Europe B. V. Gooimeer 10 1411 DD Naarden Países Baixos
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/99/123/012 13. NÚMERO DO LOTE Lote{ número} 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILE Renagel 800mg sevelamer 44 B. FOLHETO INFORMATIVO
+ 45 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Renagel 400 mg comprimidos revestidos por película sevelamer
+ Leia atentamente este folheto antes de tomar este medicamento • Conserve este folheto. Pode ter necessidade de o reler. • Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico. • Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes prejudicial mesmo que apresentem os mesmos sintomas. • Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto 1. O que é Renagel e para que é utilizado. 2. Antes de tomar Renagel. 3. Como tomar Renagel. 4. Efeitos secundários possíveis. 5. Como conservar Renagel. 6. Outras informações.
+ 1. O QUE É RENAGEL E PARA QUE É UTILIZADO
+ Renagel contém sevelamer como ingrediente activo. Liga-se ao fosfato existente nos alimentos no tubo digestivo e reduz, assim, os níveis de fósforo sérico no sangue.
+ O Renagel está indicado para o controlo dos níveis de fosfatos em doentes adultos submetidos a hemodiálise ou diálise peritoneal.
+ O Renagel não contém cálcio. Os episódios de níveis elevados de cálcio no sangue serão, portanto, menos frequentes do que quando se tomam apenas comprimidos com cálcio para regular os níveis de fosfato no sangue.
+ O Renagel também se liga aos ácidos biliares e assim diminui os níveis do colesterol LDL (‘ mau ’) no seu sangue.
+ Pode ser necessário utilizar Renagel em conjunto com outros medicamentos, que podem incluir suplementos de cálcio ou suplementos de vitamina D, para controlar o desenvolvimento de doença óssea renal.
+ 2. ANTES DE TOMAR RENAGEL Não tome Renagel • se tiver níveis baixos de fosfato no sangue • se tiver obstrução intestinal. • se for alérgico (hipersensível) ao sevelamer ou a qualquer outro componente do medicamento (ver Secção 6: Mais informações).
+ 46 Tome especial cuidado com Renagel Crianças: A segurança e eficácia deste medicamento não foram estabelecidas em crianças. Portanto, se tiver menos de 18 anos deve consultar o seu médico antes de tomar Renagel.
+ Adultos: Se alguma das seguintes situações se aplicar a si, deve consultar o seu médico antes de tomar Renagel: • não está a fazer diálise. • tem problemas da deglutição • perturbações da motilidade (movimentos) gástrica e intestinal • retenção do conteúdo do estômago • inflamação activa do intestino • foi submetido a uma importante cirurgia ao estômago ou intestino.
+ Tratamentos adicionais: Em consequência da sua condição renal ou do seu tratamento por diálise, pode: • desenvolver um nível baixo ou alto de cálcio no sangue. Como o Renagel não contém cálcio, o seu médico pode também receitar-lhe comprimidos de cálcio. • pode ter uma quantidade baixa de Vitamina D no sangue. Portanto, o seu médico pode ter de controlar os níveis sanguíneos de Vitamina D e receitar-lhe também Vitamina D, se necessário. Se não tomar um suplemento multivitamínico, pode também desenvolver níveis baixos das vitaminas A, E, K e de ácido fólico no sangue e, portanto, o seu médico pode monitorizar estes níveis e receitar vitaminas como suplemento, se necessário.
+ Mudança de tratamento: Ao mudar de outro captador de fósforo para Renagel, o seu médico pode decidir monitorizar com maior frequência os níveis de bicarbonato no seu sangue porque o Renagel pode diminuir os níveis de bicarbonato.
+ Nota especial para doentes em diálise peritoneal Poderá desenvolver peritonite (infecção do seu fluido abdominal) associada com a sua diálise peritoneal. Este risco pode ser reduzido pelo cumprimento rigoroso das técnicas de assepsia durante a troca de sacos. Deve informar de imediato o seu médico caso tenha quaisquer novos sinais ou sintomas de distúrbios abdominais, inchaço abdominal, dor abdominal, sensibilidade abdominal ou rigidez abdominal, obstipação, febres, tremores, náuseas ou vómitos. Deverá ainda ser monitorizado com maior cuidado para detecção de problemas relacionados com baixos níveis de vitaminas A, D, E, K e ácido fólico.
+ Tomar Renagel com outros medicamentos Informe o seu médico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica.
+ O Renagel não deve ser tomado em conjunto com a ciprofloxacina (um antibiótico).
+ Se estiver a tomar medicamentos para arritmias cardíacas ou para a epilepsia, consulte o seu médico quando tomar Renagel.
+ O efeito de certos medicamentos, tais como ciclosporina, micofenolato mofetil e tacrolimus (medicamentos utilizados em doentes transplantados), pode ser reduzido pelo Renagel. Se estiver a tomar esses medicamentos, o seu médico aconselhá-lo-á ..
+ O seu médico poderá controlar periodicamente as interacções entre o Renagel e outros medicamentos.
+ Tomar Renagel com alimentos e bebidas Deve tomar os comprimidos de Renagel com as refeições. Contudo, deve seguir a dieta e o consumo de líquidos prescritos. Não mastigar. Os comprimidos devem ser ingeridos inteiros.
+ 47 Gravidez e Aleitamento Se estiver grávida ou a amamentar, consulte o seu médico ou farmacêutico antes de tomar Renagel.
+ Condução de veículos e utilização de máquinas É improvável que o Renagel afecte a sua capacidade de conduzir ou de utilizar máquinas.
+ Informações importantes sobre alguns componentes de Renagel Não aplicável
+ 3. COMO TOMAR RENAGEL Deve tomar Renagel tal como prescrito pelo seu médico. O seu médico determinará a dose com base no nível sérico do fósforo. A dose inicial recomendada de Renagel para adultos e idosos (&gt; 65 anos) é de dois a quatro comprimidos com cada refeição,3 vezes por dia.
+ Em alguns casos nos quais o Renagel deve ser administrado ao mesmo tempo que outro fármaco, o seu médico poderá aconselhá-lo a tomar o referido fármaco 1 hora antes ou 3 horas após a administração do Renagel ou pode decidir monitorizar os níveis sanguíneos desse fármaco.
+ O seu médico efectuará um controlo periódico dos níveis de fosfato no seu sangue e pode ajustar a dose de Renagel quando for necessário (entre 1 e 10 comprimidos de 400 mg por refeição) para atingir o nível recomendado de fosfato.
+ Se tomar mais Renagel do que deveria Não foram comunicados casos de sobredosagem em doentes. Na eventualidade de uma possível sobredosagem, consulte o seu médico imediatamente.
+ Caso se tenha esquecido de tomar Renagel No caso de se ter esquecido de tomar uma dose, ela deve ser omitida e a dose seguinte tomada à hora habitual, com a refeição. Não tome uma dose extra para compensar a que se esqueceu de tomar.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como os demais medicamentos, o Renagel pode ter efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ Os seguintes efeitos secundários foram reportados em doentes a tomar Renagel: Muito frequentes (passíveis de ocorrência em mais de 1 em cada 10 doentes): náuseas, vómitos., Frequentes: (passíveis de ocorrência em menos de 1 em cada 10 doentes e mais de 1 em cada 100 doentes): diarreia, indigestão, dores abdominais, obstipação, flatulência Muito raros (passíveis de ocorrência em menos de 1 em cada 10000 doentes): obstrução intestinal.
+ A maior parte destes acontecimentos são também frequentemente observados em doentes com insuficiência renal crónica e não são necessariamente devidos ao Renagel.
+ Como a obstipação pode ser um sintoma precedente em casos muito raros de obstrução intestinal, informe o seu médico ou farmacêutico.
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 48 5. COMO CONSERVAR RENAGEL
+ Manter fora do alcance e da vista das crianças.
+ Não conservar acima de 25°C. Manter o recipiente bem fechado.
+ Não utilize Renagel após expirar o prazo de validade indicado no rótulo após as letras: “ EXP ”.
+ Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Renagel A substância activa é o sevelamer. Os outros componentes são a sílica, anidra coloidal e ácido esteárico. O revestimento do comprimido contém hipromelose e monoglicéridos diacetilados. A tinta de impressão contém óxido de ferro preto (E172), hipromelose e propileno-glicol.
+ Qual o aspecto de Renagel e conteúdo da embalagem
+ Comprimidos ovais esbranquiçados revestidos por película com o código Renagel 400 impresso num dos lados. Os comprimidos são acondicionados em frascos de plástico de alta densidade, com uma tampa de plástico com vedante por indução, resistente à abertura por crianças.
+ Os tamanhos das embalagens são de: 1 x 360 comprimidos 2 x 360 comprimidos 3 x 360 comprimidos
+ Titular da Autorização de Introdução no Mercado e Fabricante
+ Titular da autorização de introdução no mercado: Genzyme Europe B. V. Gooimeer 10 1411 DD Naarden Países Baixos
+ Titulares da autorização de fabrico responsável pela libertação do lote: Genzyme Ltd. 12 Rookwood Way Haverhill, Suffolk CB9 8PB Reino Unido
+ Genzyme Ireland Ltd. IDA Industrial Park Old Kilmeaden Road Waterford Irlanda
+ 49 Para quaisquer informações sobre este medicamento, queira contactar o representante local do titular da autorização de introdução no mercado.
+ België/Belgique/Belgien/Luxembourg/Luxemburg Genzyme Belgium nv/sa (Belgique/Belgien), Tél/Tel:+ 32 2 714 17 11
+ Ísland Vistor hf., Tel: +354 535 7000 България Търговско представителство на Genzyme CEE GmbH Тел. +359 2 971 1001
+ Magyarország Genzyme Europe B. V. Képviselet, Tel: +36 1 310 7440
+ Česká republika/Slovenská republika Genzyme Europe B. V. organizační složka (Česká republika) Tel: +420 227 133 665
+ Nederland Genzyme Europe BV, Tel: +31 35 6991200
+ Danmark/Norge/Sverige/Suomi/Finland Genzyme A/S, (Danmark/Tanska), Tlf/Puh.:+ 45 32712600
+ Österreich Genzyme Austria GmbH, Tel:+ 43 1 774 65 38
+ Deutschland Genzyme GmbH, Tel: +49 610236740
+ Polska/Eesti/Latvija/Lietuva Genzyme Polska sp. z o. o. (Poola/Polija/Lenkija), Tel: +48 22 516 24 32
+ Ελλάδα/Κύπρος Genzyme Hellas Ltd. (Ελλάδα), Τηλ: +30 210 99 49 270
+ Portugal Genzyme Portugal S. A., Tel: +351 21 422 0100
+ España Genzyme, S. L., Tel: +34 91 6591670
+ România Genzyme CEE GmbH-Reprezentanta pentru Romania Tel: +40 21 243 42 28
+ France Genzyme S. A. S, Tél:+ 33 (0) 825 825 863
+ Slovenija Genzyme Europe B. V. Predstavništvo za Hrvaško in Slovenijo (Hrvaška), Tel: +385 1 6386 250
+ Italia/Malta Genzyme Srl (Italia/Italja), Tel: +39 059 349811
+ United Kingdom/Ireland Genzyme Therapeutics (United Kingdom), Tel: +44 1865 405200
+ Este folheto foi revisto pela última vez em{ MM/AAAA}.
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia do Medicamento (EMEA) http: //www. emea. europa. eu
+ 50 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Renagel 800 mg comprimidos revestidos por película sevelamer
+ Leia atentamente este folheto antes de tomar este medicamento • Conserve este folheto. Pode ter necessidade de o reler. • Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico. • Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes prejudicial mesmo que apresentem os mesmos sintomas. • Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto 1. O que é Renagel e para que é utilizado. 2. Antes de tomar Renagel. 3. Como tomar Renagel. 4. Efeitos secundários possíveis. 5. Como conservar Renagel. 6. Outras informações.
+ 1. O QUE É RENAGEL E PARA QUE É UTILIZADO
+ Renagel contém sevelamer como ingrediente activo. Liga-se ao fosfato existente nos alimentos no tubo digestivo e reduz, assim, os níveis de fósforo sérico no sangue.
+ O Renagel está indicado para o controlo dos níveis de fosfatos em doentes adultos submetidos a hemodiálise ou diálise peritoneal.
+ O Renagel não contém cálcio. Os episódios de níveis elevados de cálcio no sangue serão, portanto, menos frequentes do que quando se tomam apenas comprimidos de cálcio para regular os níveis de fosfato no sangue.
+ O Renagel também se liga aos ácidos biliares e assim diminui os níveis do colesterol LDL (‘ mau ’) no seu sangue.
+ Pode ser necessário utilizar Renagel em conjunto com outros medicamentos, que podem incluir suplementos de cálcio, ou suplementos de vitamina D, para controlar o desenvolvimento de doença óssea renal.
+ 2. ANTES DE TOMAR RENAGEL Não tome Renagel • se tiver níveis baixos de fosfato no sangue • se tiver obstrução intestinal. • se for alérgico (hipersensível) ao sevelamer ou a qualquer outro componente do medicamento (ver Secção 6: Mais informações).
+ 51 Tome especial cuidado com Renagel Crianças: A segurança e eficácia deste medicamento não foram estabelecidas em crianças. Portanto, se tiver menos de 18 anos deve consultar o seu médico antes de tomar Renagel.
+ Adultos: Se alguma das seguintes situações se aplicar a si, deve consultar o seu médico antes de tomar Renagel: • não está a fazer diálise. • tem problemas da deglutição • perturbações da motilidade (movimentos) gástrica e intestinal • retenção do conteúdo do estômago • inflamação activa do intestino • foi submetido a uma importante cirurgia ao estômago ou intestino.
+ Tratamentos adicionais: Em consequência da sua condição renal ou do seu tratamento por diálise, pode: • desenvolver um nível baixo ou alto de cálcio no sangue. Como o Renagel não contém cálcio, o seu médico pode também receitar-lhe comprimidos de cálcio. • pode ter uma quantidade baixa de Vitamina D no sangue. Portanto, o seu médico pode ter de controlar os níveis sanguíneos de Vitamina D e receitar-lhe também Vitamina D, se necessário. Se não tomar um suplemento multivitamínico, pode também desenvolver níveis baixos das vitaminas A, E, K e de ácido fólico no sangue e, portanto, o seu médico pode monitorizar estes níveis e receitar vitaminas como suplemento, se necessário.
+ Mudança de tratamento: Ao mudar de outro captador de fósforo para Renagel, o seu médico pode decidir monitorizar com maior frequência os níveis de bicarbonato no seu sangue porque o Renagel pode diminuir os níveis de bicarbonato.
+ Nota especial para doentes em diálise peritoneal Poderá desenvolver peritonite (infecção do seu fluido abdominal) associada com a sua diálise peritoneal. Este risco pode ser reduzido pelo cumprimento rigoroso das técnicas de assepsia durante a troca de sacos. Deve informar de imediato o seu médico caso tenha quaisquer novos sinais ou sintomas de distúrbios abdominais, inchaço abdominal, dor abdominal, sensibilidade abdominal ou rigidez abdominal, obstipação, febres, tremores, náuseas ou vómitos. Deverá ainda ser monitorizado com maior cuidado para detecção de problemas relacionados com baixos níveis de vitaminas A, D, E, K e ácido fólico.
+ Tomar Renagel com outros medicamentos Informe o seu médico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica.
+ O Renagel não deve ser tomado em conjunto com a ciprofloxacina (um antibiótico).
+ Se estiver a tomar medicamentos para arritmias cardíacas ou para a epilepsia, consulte o seu médico quando tomar Renagel.
+ O efeito de certos medicamentos, tais como ciclosporina, micofenolato mofetil e tacrolimus (medicamentos utilizados em doentes transplantados), pode ser reduzido pelo Renagel. Se estiver a tomar esses medicamentos, o seu médico aconselhá-lo-á ..
+ O seu médico poderá controlar periodicamente as interacções entre o Renagel e outros medicamentos.
+ Tomar Renagel com alimentos e bebidas Deve tomar os comprimidos de Renagel com as refeições. Contudo, deve seguir a dieta e o consumo de líquidos prescritos. Não mastigar. Os comprimidos devem ser ingeridos inteiros.
+ 52 Gravidez e Aleitamento Se estiver grávida ou a amamentar, consulte o seu médico ou farmacêutico antes de tomar Renagel.
+ Condução de veículos e utilização de máquinas É improvável que o Renagel afecte a sua capacidade de conduzir ou de utilizar máquinas.
+ Informações importantes sobre alguns componentes de Renagel Não aplicável
+ 3. COMO TOMAR RENAGEL Deve tomar Renagel tal como prescrito pelo seu médico. O seu médico determinará a dose com base no nível sérico do fósforo. A dose inicial recomendada de Renagel para adultos e idosos (&gt; 65 anos) é de um ou dois comprimidos com cada refeição,3 vezes por dia.
+ Em alguns casos nos quais o Renagel deve ser administrado ao mesmo tempo que outro fármaco, o seu médico poderá aconselhá-lo a tomar o referido fármaco 1 hora antes ou 3 horas após a administração do Renagel ou pode decidir monitorizar os níveis sanguíneos desse fármaco.
+ O seu médico efectuará um controlo periódico dos níveis de fosfato no seu sangue e pode ajustar a dose de Renagel quando for necessário (entre 1 e 5 comprimidos de 800 mg por refeição) para atingir o nível recomendado de fosfato.
+ Se tomar mais Renagel do que deveria Não foram comunicados casos de sobredosagem em doentes. Na eventualidade de uma possível sobredosagem, consulte o seu médico imediatamente.
+ Caso se tenha esquecido de tomar Renagel No caso de se ter esquecido de tomar uma dose, ela deve ser omitida e a dose seguinte tomada à hora habitual, com a refeição. Não tome uma dose extra para compensar a que se esqueceu de tomar.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como os demais medicamentos, o Renagel pode ter efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ Os seguintes efeitos secundários foram reportados em doentes a tomar Renagel: Muito frequentes (passíveis de ocorrência em mais de 1 em cada 10 doentes): náuseas, vómitos.,. Frequentes: (passíveis de ocorrência em menos de 1 em cada 10 doentes e mais de 1 em cada 100 doentes): diarreia, indigestão, dores abdominais, obstipação, flatulência. Muito raros (passíveis de ocorrência em menos de 1 em cada 10000 doentes): obstrução intestinal.
+ A maior parte destes acontecimentos são também frequentemente observados em doentes com insuficiência renal crónica e não são necessariamente devidos ao Renagel.
+ Como a obstipação pode ser um sintoma precedente em casos muito raros de obstrução intestinal, informe o seu médico ou farmacêutico.
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 53 5. COMO CONSERVAR RENAGEL
+ Manter fora do alcance e da vista das crianças.
+ Não conservar acima de 25°C. Manter o recipiente bem fechado.
+ Não utilize Renagel após expirar o prazo de validade indicado no rótulo após as letras: “ EXP ”.
+ Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Renagel A substância activa é o sevelamer. Os outros componentes são a sílica, anidra coloidal e ácido esteárico. O revestimento do comprimido contém hipromelose e monoglicéridos diacetilados. A tinta de impressão contém óxido de ferro preto (E172), hipromelose e propileno-glicol.
+ Qual o aspecto de Renagel e conteúdo da embalagem
+ Comprimidos ovais esbranquiçados revestidos por película com o código Renagel 800 impresso num dos lados. Os comprimidos são acondicionados em frascos de plástico de alta densidade, com uma tampa de plástico com vedante por indução, resistente à abertura por crianças.
+ Os tamanhos das embalagens são de: 6 x 30 comprimidos 1 x 100 comprimidos 1 x 180 comprimidos 2 x 180 comprimidos 3 x 180 comprimidos
+ Titular da Autorização de Introdução no Mercado e Fabricante
+ Titular da autorização de introdução no mercado: Genzyme Europe B. V. Gooimeer 10 1411 DD Naarden Países Baixos
+ Titulares da autorização de fabrico responsável pela libertação do lote: Genzyme Ltd. 12 Rookwood Way Haverhill, Suffolk CB9 8PB Reino Unido
+ Genzyme Ireland Ltd. IDA Industrial Park Old Kilmeaden Road Waterford Irlanda
+ 54 Para quaisquer informações sobre este medicamento, queira contactar o representante local do titular da autorização de introdução no mercado.
+ België/Belgique/Belgien/Luxembourg/Luxemburg Genzyme Belgium nv/sa (Belgique/Belgien), Tél/Tel:+ 32 2 714 17 11
+ Ísland Vistor hf., Tel: +354 535 7000 България Търговско представителство на Genzyme CEE GmbH Тел. +359 2 971 1001
+ Magyarország Genzyme Europe B. V. Képviselet, Tel: +36 1 310 7440
+ Česká republika/Slovenská republika Genzyme Europe B. V. organizační složka (Česká republika) Tel: +420 227 133 665
+ Nederland Genzyme Europe BV, Tel: +31 35 6991200
+ Danmark/Norge/Sverige/Suomi/Finland Genzyme A/S, (Danmark/Tanska), Tlf/Puh.:+ 45 32712600
+ Österreich Genzyme Austria GmbH, Tel:+ 43 1 774 65 38
+ Deutschland Genzyme GmbH, Tel: +49 610236740
+ Polska/Eesti/Latvija/Lietuva Genzyme Polska sp. z o. o. (Poola/Polija/Lenkija), Tel: +48 22 516 24 32
+ Ελλάδα/Κύπρος Genzyme Hellas Ltd. (Ελλάδα), Τηλ: +30 210 99 49 270
+ Portugal Genzyme Portugal S. A., Tel: +351 21 422 0100
+ España Genzyme, S. L., Tel: +34 91 6591670
+ România Genzyme CEE GmbH-Reprezentanta pentru Romania Tel: +40 21 243 42 28
+ France Genzyme S. A. S, Tél:+ 33 (0) 825 825 863
+ Slovenija Genzyme Europe B. V. Predstavništvo za Hrvaško in Slovenijo (Hrvaška), Tel: +385 1 6386 250
+ Italia/Malta Genzyme Srl (Italia/Italja), Tel: +39 059 349811
+ United Kingdom/Ireland Genzyme Therapeutics (United Kingdom), Tel: +44 1865 405200
+ Este folheto foi revisto pela última vez em{ MM/AAAA}.
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia do Medicamento (EMEA) http: //www. emea. europa. eu
+ 55

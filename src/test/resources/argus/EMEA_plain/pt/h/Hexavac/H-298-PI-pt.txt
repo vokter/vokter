@@ -1,0 +1,439 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. DENOMINAÇÃO DO MEDICAMENTO
+ HEXAVAC suspensão injectável em seringa pré-carregada.
+ Vacina anti-difteria, tétano, tosse convulsa acelular, poliomielite inactivada, hepatite B (recombinante) e Haemophilus influenza tipo b conjugada, com adjuvante.
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada dose de 0,5 ml com adjuvante contém:
+ Substâncias activas: Toxóide diftérico purificado ....................................................................... igual ou superior a 20 U. I.* (30 Lf) Toxóide tetânico purificado ........................................................................ igual ou superior a 40 U. I.* (10 Lf) Toxóide pertussis purificado ..................................................................... 25 microgramas Hemaglutinina filamentosa de pertussis purificada .................................. 25 microgramas Antigénio de superfície da hepatite B ** ................................................... 5,0 microgramas Poliovírus inactivado Tipo 1 (Mahoney) ................................................... antigénio D^: 40 unidades † Poliovírus inactivado Tipo 2 (MEF 1) ....................................................... antigénio D^: 8 unidades † Poliovírus inactivado Tipo 3 (Saukett) ....................................................... antigénio D^: 32 unidades † Polissacárido de Haemophilus influenzae tipo b (fosfato de polirribosilribitol) 12 microgramas conjugado com toxóide tetânico (24 microgramas)
+ Adjuvada em hidróxido de alumínio (0,3 mg)
+ * Como limite inferior de confiança (p= 0,95) ** Antigénio de superfície da hepatite B produzido a partir da estirpe recombinante 2150-2-3 da levedura Saccharomyces cerevisae.^ Quantidade de antigénio no produto final em bulk, de acordo com a OMS (TRS 673,1992) † Ou quantidade antigénica equivalente determinada por um método imunoquímico adequado
+ Excipientes, ver 6.1. 3. FORMA FARMACÊUTICA Suspensão injectável em seringa pré-carregada. HEXAVAC é uma suspensão branca e ligeiramente opaca.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Esta vacina combinada está indicada para a vacinação primária e de reforço de crianças contra a difteria, tétano, tosse convulsa, hepatite B provocada por todos os sub-tipos de vírus conhecidos, poliomielite e doenças sistémicas provocada pelo Haemophilus influenzae tipo b.
+ 4.2 Posologia e modo de administração
+ Vacinação primária: O esquema de vacinação primária consiste em duas ou três doses de 0,5 ml, administradas durante o primeiro ano de vida, de acordo com as recomendações oficiais. Deverá haver um intervalo de 1 mês, no mínimo, entre as doses: tal como 2,3,4 meses; 2,4,6 meses; 3,5 meses. Reforço:
+ 2 Após uma vacinação primária com duas doses de HEXAVAC (i. e. 3,5 meses), deve ser administrada uma dose de reforço entre os 11 e os 13 meses de idade; após uma vacinação primária com 3 doses de HEXAVAC (P. e 2,3,4 meses; 2,4,6 meses), tem de ser administrada uma dose de reforço entre os 12 e os 18 meses de idade, de acordo com as recomendações oficiais. HEXAVAC pode ser usado para a dose de reforço desde que a criança tenha recebido um esquema de vacinação primária completo de cada um dos antigénios contidos em HEXAVAC, independentemente se foram administrados na forma de vacinas monovalentes ou combinadas produzidas pela Sanofi Pasteur MSD.
+ Modo de administração HEXAVAC deve ser administrado por via intramuscular no quadricípite ou deltóide de preferência em locais alternados para as injecções subsequentes.
+ Esta vacina não pode ser utilizada em recém-nascidos, adolescentes ou adultos
+ 4.3 Contra-indicações Hipersensibilidade conhecida a qualquer componente da vacina ou reacção grave após uma administração prévia da vacina.
+ Encefalopatia nos 7 dias seguintes à administração de uma dose de qualquer vacina que contenha antigénios de pertussis (vacinas anti-tosse convulsa de célula completa ou acelulares).
+ Nestas circunstâncias a vacinação deverá ser prosseguida com uma vacina não contendo o componente da tosse convulsa. A vacinação deverá ser adiada em caso de febre ou doença aguda.
+ 4.4 Advertências e precauções especiais de utilização
+ Esta vacina não deverá ser utilizada em recém-nascidos, adolescentes ou adultos.
+ Lactentes nascidos de mães antigénio de superfície de vírus da Hepatite B (AgHBs)-positivas deverão receber Imunoglobulina Hepatite B (HBIG) e vacina anti-hepatite B (recombinante) à nascença e deverão completar a série vacinal de hepatite B. Não foi estudada a administração subsequente de HEXAVAC para a conclusão da série vacinal de hepatite B em lactentes nascidos de mães AgHBs-positivas e que receberam HBIG ou lactentes nascidos de mães de estatuto desconhecido. HEXAVAC não deverá ser utilizado para a dose à nascença ou doses subsequentes durante o primeiro ano de vida em crianças nascidas de mães AgHBs positivas.
+ HEXAVAC deverá ser administrado com precaução em indivíduos com trombocitopénia ou doenças de coagulação, dado que poderá ocorrer hemorragia após a administração intramuscular nestes indivíduos.
+ HEXAVAC não deve em circunstância alguma ser administrado por via intravascular. As vias intradérmica ou subcutânea também não devem ser utilizadas.
+ Se houver conhecimento que qualquer dos seguintes efeitos tenham acontecido numa relação temporal à administração da vacina, a decisão de administrar outras doses de vacinas que contenham o componente pertussis deverão ser cuidadosamente consideradas: Temperatura ≥ 40.0 °C no espaço de 48 horas, sem outra causa aparente Colapso ou estado tipo choque (episódio hipotónico-hiporeactivo) no espaço de 48 horas após a vacinação. Choro persistente inconsolável, com duração ≥ 3 horas, ocorrendo no espaço de 48 horas após a vacinação. Convulsões com ou sem febre, ocorrendo no espaço de 3 dias após a vacinação. O tratamento antipirético deve ser iniciado de acordo com as recomendações locais.
+ 3 Tal como para todas as vacinas injectáveis, deverão estar disponíveis tratamento e supervisão médica adequadas para uso imediato em caso de reacção anafiláctica rara após a administração da vacina.
+ Em indivíduos com história de reacção grave no espaço de 48 horas após uma injecção anterior de uma vacina contendo componentes semelhantes, deverá ser cuidadosamente considerado o ciclo de vacinação.
+ Devido ao longo período de incubação da hepatite B, é possível que esteja presente uma infecção inaparente de hepatite B na altura da imunização, neste caso a vacina poderá não proteger contra a infecção de hepatite.
+ HEXAVAC não previne a infecção de hepatite causada por outros agentes como a hepatite A, hepatite C e hepatite E ou outros patogénios hepáticos.
+ HEXAVAC não protege contra doença sistémica devida a outros serotipos além do Haemophilus influenzae tipo b ou contra meningites de outra origem.
+ Dado que cada dose contém vestígios indetectáveis de neomicina, estreptomicina e polimixina B, deverá ser exercida precaução quando a vacina é administrada em indivíduos com hipersensibilidade a estes antibióticos.
+ A imunogenicidade de HEXAVAC poderá ser reduzida por tratamento imunossupressor ou imunodeficiência. Em tais casos, recomenda-se adiar a vacinação até ao fim da referida doença ou tratamento. No entanto, recomenda-se a vacinação em indivíduos com imunodeficiência crónica, tal como infecção por VIH, mesmo que a resposta de anticorpos seja limitada.
+ Actualmente, não estão disponíveis dados suficientes, relativos à imunogenicidade da administração simultânea de HEXAVAC com PREVENAR (vacina pneumocócica sacárida conjugada, adsorvida). No entanto, quando HEXAVAC foi co-administrado com PREVENAR (vacina pneumocócica sacárida conjugada, adsorvida), em ensaios clínicos, a frequência de reacções febris foi superior, por comparação com as reacções febris que ocorrem após a administração das vacinas hexavalentes, isoladamente. Estas reacções foram essencialmente moderadas (inferiores ou iguais a 39ºC) e transitórias.
+ HEXAVAC não deve ser misturado na mesma seringa com outras vacinas ou outros medicamentos de administração parentérica.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Excepto no caso de tratamento imunossupressor (ver 4.4 Advertências e precauções especiais de utilização), não estão documentadas interacções clinicas significativas com outros tratamentos ou produtos biológicos.
+ Não existem dados sobre a eficácia e segurança da administração concomitante de HEXAVAC com vacina viva anti-sarampo, papeira e rubéola, viva.
+ Actualmente, não estão disponíveis dados suficientes relativos à imunogenicidade da administração simultânea de HEXAVAC com PREVENAR (vacina pneumocócica sacárida conjugada, adsorvida).
+ 4.6 Gravidez e aleitamento Não aplicável. 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não aplicável. 4 4.8 Efeitos indesejáveis
+ • Experiência dos ensaios clínicos
+ Em ensaios clínicos, mais de 3,900 crianças pequenas e 4,400 crianças (dos 12 aos 20 meses de idade) receberam HEXAVAC.
+ As reacções reportadas mais comuns incluem rubor e/ou endurecimento/tumefacção/dor no local de injecção, febre igual ou superior a 38 °C, irritabilidade, sonolência, perda de apetite, insónia, diarreia e vómitos. Menos comum, foi reportado, febre igual ou superior a 40 °C, parestesia no local de injecção, choro prolongado inconsolável e rubor e/ou endurecimento &gt; 7 cm no local de injecção ou inchaço de todo o membro. Foi raramente reportada convulsão febril e choro estridente. Foi reportada uma única reacção edematosa bilateral dos membros inferiores e um único caso de hipotonia hiporreactiva.
+ Estes sinais e sintomas apareceram normalmente nas 48 horas após a vacinação. Foram na sua maioria ligeiras, durando geralmente até 72 horas e desapareceram espontaneamente.
+ Não foi observado aumento do número de reacções indesejáveis entre a primeira, segunda e terceira dose da vacinação primária, excepto um aumento da taxa de febre igual ou superior a 38 °C após a segunda dose da série primária.
+ A taxa de febre igual ou superior a 40 °C aumentou após a dose de reforço, mas permaneceu &lt; 1%. Rubor e/ou endurecimento &gt; 7 cm no local de injecção aumentou após a dose de reforço mas permaneceu &lt; 1%. Em ocasiões raras, estes casos estavam associados com inchaço do membro inteiro.
+ • Experiência pós-comercialização
+ Foram reportados os seguintes efeitos indesejáveis adicionais, após uma utilização de HEXAVAC mais alargada. Frequentes (&gt; 1/100 e &lt; 1/10) Distúrbios no local de administração (reacções no local da injecção): Edema/prurido/urticária.
+ Raros (&gt; 1/10000 e &lt; 1/1000) Organismo em geral – Distúrbios gerais: Choro prolongado ou fora do vulgar.
+ Muito raros (&lt; 1/10000) Organismo em geral – Distúrbios gerais: Reacções alérgicas/Arrepios/Fadiga/Episódio hipotónico hiporesponsivo/Mal-estar/Edema/Palidez/Tumefacção ou edema do(s) membro(s) inteiro(s)/Tumefacção local e transitória dos nódulos linfáticos.
+ Distúrbios do sistema nervoso central e periférico: Convulsões (febris e não febris)/Encefalite/Encefalopatia com edema cerebral agudo/Olhos revirados/Síndroma de Guillain Barré/Hipotonia/Neurite.
+ Distúrbios do sistema gastrointestinal: Dor abdominal/Meteorismo/Náusea.
+ Distúrbios da coagulação, hemorragia e plaquetas: Petéquias/Púrpura/Púrpura trombocitopénica/Trombocitopénia.
+ Distúrbios psiquiátricos: Agitação/Perturbação do sono.
+ Distúrbios do Sistema Respiratório: Dispneia ou Estridor inspiratório.
+ Distúrbios da pele e apêndices cutâneos: Angioedema/Eritema/Prurido/Exantema/Urticária.
+ 5 Distúrbios vasculares (extracardíacos): Rubor.
+ • Efeitos indesejáveis potenciais
+ Além disso, foram reportados outros efeitos indesejáveis com o uso comercial de vacinas estreitamente relacionadas com o HEXAVAC.
+ Os efeitos indesejáveis reportados em ensaios clínicos e decorrentes do uso, até à data, da vacina adsorvida anti-difteria, tétano, tosse convulsa acelular, Haemophilus influenzae tipo b e poliomielite inactivada da Sanofi Pasteur MSD estão incluídos na lista de efeitos adversos do HEXAVAC. Reacções muito raras após o uso da vacina anti-hepatite B (recombinante) da Sanofi Pasteur MSD incluem, alopécia, hipotensão, neurite óptica, paralisia facial, eritema multiforme, e anafilaxia. Tal como acontece com outras vacinas anti-hepatite B, em muitos casos, a relação causal com a vacina não foi estabelecida.
+ 4.9 Sobredosagem Não aplicável. 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Vacinas bacterianas e virais, combinadas, código ATC: J07CA
+ Os toxóides diftéricos e tetânicos são preparados a partir das toxinas de culturas de Corynebacterium diphteriae e Clostridium tetani mediante destoxificação com formaldeído seguido de purificação. O antigénio de superfície do vírus da hepatite B é produzido por cultura de uma estirpe recombinada de células de levedura (Saccharomyces cerevisae).
+ A vacina anti-poliomielítica é obtida por propagação de vírus da poliomielite tipos 1,2 e 3 em células Vero, purificados e posteriormente inactivados por formaldeído.
+ Os componentes acelulares pertussis (toxina de pertussis: PT e hemaglutinina filamentosa: FHA) são extraídos de culturas de Bordetella pertussis e depois purificados separadamente. A toxina de pertussis (PT) é destoxificada separadamente com gluteraldeído para originar o toxóide (PTxd). O FHA não é destoxificado. Demonstrou-se que o PTxd e FHA têm um papel importante na protecção contra a tosse convulsa. Esta vacina contém o polissacárido capsular purificado (fosfato de poliribosilribitol: PRP) do Haemophilus influenzae tipo b conjugado com toxóide tetânico. Quando administrado isolado, o PRP induz uma resposta serológica, mas é fracamente imunogénico em crianças pequenas. A ligação covalente de PRP ao toxóide tetânico torna-o um antigénio dependente de células-T que induz uma resposta IgG especifica anti-PRP em crianças pequenas e induz memória imunitária.
+ Esta vacina induz anticorpos humorais específicos frente ao HBsAg (anti-HBs) e frente aos toxóides diftéricos e tetânicos (anti-D e anti-T). O desenvolvimento de um título anti-HBs igual ou superior a 10 mUI/ml e de anti-D e anti-T igual ou superior a 0,01 mUI/ml determinados aos 1-2 meses após a terceira injecção, correlaciona-se com protecção contra a infecção de hepatite B e contra a difteria e tétano respectivamente.
+ Resposta imunitária após vacinação primária No estudo clinico principal, todas as crianças pequenas (100%) desenvolveram um nível de anticorpos seroprotectores (igual ou superior a 0,01 U. I/ml) frente aos antigénios de difteria e tétano um mês depois de completar a série primária. Para a tosse convulsa, 91,8 e 90,5% das crianças pequenas atingiram um aumento de quatro vezes nos títulos de anticorpos frente a PT e FHA respectivamente. O aumento de 4 vezes nos títulos pós-imunização é considerado um sinal de
+ 6 seroconversão cujo significado clinico é desconhecido na ausência de uma correlação serológica de protecção. Foram atingidos níveis protectores de anti-HBs (igual ou superior a 10 mUI/ml) em 96,6% dos lactentes pequenas; os títulos médios geométricos (TMG' s) estavam diminuídos em relação ao grupo de controlo. Foram desenvolvidos títulos anti-poliovírus superiores ao limiar de 5 (reciproco da diluição em seroneutralização) contra os poliovírus tipo 1,2 e 3 em 100% dos lactentes e estes foram considerados protegidos contra a poliomielite. Após a vacinação primária, 93,7% dos lactentes tinham um título anti-PRP igual ou superior a 0,15 µg/ml; os TMG' s estavam diminuídos em relação ao grupo de controlo (2.06 µg/ml versus 3.69 µg/ml).
+ Resposta imunitária após a dose de reforço No estudo clinico principal, onde as crianças receberam HEXAVAC como dose de reforço após terem sido primovacinadas com HEXAVAC, atingiram-se títulos de anticorpo iguais ou superiores a 0,1 U. I/ml em todas as crianças contra o tétano e em 98,8% contra a difteria. Atingiu-se um aumento médio de 7,4 e 4,3 vezes nos títulos de anticorpos contra a PT e FHA respectivamente e todas as crianças desenvolveram títulos de anticorpos protectores contra o poliovírus tipo 1,2 e 3. Mesmo antes da injecção de reforço os TMGs anti-PRP eram de 0,40 µg/ml e 0,64 µg/ml para HEXAVAC e grupo de controlo respectivamente. Após o reforço, os TMGs aumentaram para 16,7 µg/ml e 23,0 µg/ml em cada grupo respectivamente, indicando uma forte resposta anamnéstica. Atingiram-se títulos anti-PRP iguais ou superiores a 0,15 µg/ml e iguais ou superiores a 1 µg/ml em 100% e 96,6% das crianças respectivamente. Após a dose de reforço, 96,6% das crianças desenvolveram títulos anti-HBs iguais ou superiores a 10 mUI/ml. Observou-se um aumento médio de 20,5 vezes do título de anticorpos contra HBs após a dose de reforço. Outros ensaios obtiveram resultados semelhantes ou superiores. Estão a decorrer ensaios de vigilância e de persistência a longo prazo de anticorpos que irão fornecer informação adicional no que respeita a duração da protecção. Após um esquema de vacinação a 3,5 e 12 meses, as respostas imunitárias foram compatíveis com a protecção clínica esperada e tiveram a mesma magnitude das reportadas previamente para o HEXAVAC, ou outras vacinas combinadas registadas, durante o segundo ano de vida.
+ 5.2 Propriedades farmacocinéticas Não é necessária a avaliação das propriedades farmacocinéticas para as vacinas.
+ 5.3 Dados de segurança pré-clínica Dados pré-clínicos que incluem estudos de toxicidade de dose única, dose repetida e de tolerância local, não revelaram achados inesperados e nenhuma toxicidade nos órgãos alvo.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1. Lista dos excipientes A formulação contém hidróxido de alumínio, uma solução tamponada de fosfato dissódico, fosfato monopotássico, carbonato de sódio, bicarbonato de sódio, trometamol, sacarose, meio 199 (uma mistura complexa de aminoácidos, sais minerais, vitaminas e outros ingredientes) e água para injectáveis.
+ 6.2 Incompatibilidades A vacina não deve ser misturada na mesma seringa com outras vacinas ou substâncias de administração parentérica.
+ 6.3 Prazo de validade 36 meses 6.4 Precauções especiais de conservação
+ 7 Guardar a 2 °C – 8 °C (no frigorifico). Não congelar.
+ 6.5 Natureza e conteúdo do recipiente 0,5 ml de suspensão em seringa pré-carregada (vidro tipo I) com êmbolo (clorobromobutil) com agulha incorporada-embalagens com 1,10,25 e 50. 0,5 ml de suspensão em seringa pré-carregada (vidro tipo I) com êmbolo (clorobromobutil) sem agulha incorporada-embalagens com 1,10,25 e 50. 0,5 ml de suspensão em seringa pré-carregada (vidro tipo I) com êmbolo (clorobromobutil), com 1 ou 2 agulhas separadas-embalagens com 1 e 10.
+ É possivel que não sejam comercializadas todas as apresentações.
+ 6.6 Instruções de utilização e manipulação
+ Antes de usar, a vacina deve ser bem agitada de forma a obter uma suspensão branca homogénea ligeiramente opaca.
+ Para as seringas sem agulha incorporada, a agulha deve ser empurrada com firmeza na direcção da extremidade da seringa e rodada até 90 graus.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Sanofi Pasteur MSD SNC 8, rue Jonas Salk F-69007 Lyon
+ 8. NÚMERO(S) NO REGISTO COMUNITÁRIO DE MEDICAMENTOS
+ EU/1/00/147/001-012 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 23 de Outubro de 2000 10. DATA DA REVISÃO DO TEXTO 8 ANEXO II
+ A. FABRICANTES DAS SUBSTÂNCIAS ACTIVAS DE ORIGEM BIOLÓGICA E TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 9 A. FABRICANTES DAS SUBSTÂNCIAS ACTIVAS DE ORIGEM BIOLÓGICA E TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço dos fabricantes das substâncias activas de origem biológica
+ Antigénio de superfície da hepatite B: Merck &amp; Co., Inc. Sumneytown Pike West Point, Pennsylvania 19486, EUA
+ Outros componentes: Sanofi Pasteur SA Campus Mérieux 1541, Avenue Marcel Mérieux F-69280 Marcy L’ Etoile
+ Nome e endereço do fabricante responsável pela libertação do lote
+ Sanofi Pasteur SA Campus Mérieux 1541, Avenue Marcel Mérieux F-69280 Marcy L’ Etoile
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento sujeito a receita médica. • OUTRAS CONDIÇÕES
+ O titular desta autorização de introdução no mercado deve informar a Comissão Europeia sobre os planos de comercialização do medicamento autorizado pela presente decisão.
+ Libertação oficial do lote: nos termos do artigo 114. º da Directiva 2001/83/EC, a libertação oficial do lote será feita por um laboratório estatal ou um laboratório designado para esse efeito.
+ 10 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 11 A. ROTULAGEM
+ 12 INDICAÇÕES A INCLUIR NA EMBALAGEM EXTERIOR OU, CASO ESTA NÃO EXISTA, NO ACONDICIONAMENTO PRIMÁRIO
+ HEXAVAC-seringa pré-carregada unidose com agulha incorporada-Caixa de 1
+ 1. DENOMINAÇÃO DO MEDICAMENTO HEXAVAC suspensão injectável em seringa pré-carregada
+ Vacina anti-difteria, tétano, tosse convulsa acelular, poliomielite inactivada, hepatite B (recombinante) e Haemophilus influenza tipo b conjugada, com adjuvante
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ 1 dose com adjuvante (0,5 ml) contém: ≥ 20 U. I. Toxóide diftérico purificado ....................................................................... ≥ 40 U. I. Toxóide tetânico purificado ........................................................................ Toxóide pertussis purificado ..................................................................... Hemaglutinina filamentosa purificada de pertussis purificada ................. Antigénio de superfície da hepatite B ....................................................... Poliovírus inactivado Tipo 1 ...................................................................... Poliovírus inactivado Tipo 2 ...................................................................... Poliovírus inactivado Tipo 3 ...................................................................... Haemophilus influenza tipo b conjugado com toxóide tetânico ............
+ 25 µg 25 µg 5,0 µg 40 unidades D 8 unidades D 32 unidades D 12 µg
+ 3. LISTA DOS EXCIPIENTES Excipientes: hidróxido de alumínio e uma solução tamponada de fosfato dissódico, fosfato monopotássico, carbonato de sódio, bicarbonato de sódio, trometamol, sacarose, meio 199 (uma mistura complexa de aminoácidos, sais minerais, vitaminas e outros ingredientes) e água para injectáveis.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Seringa pré-carregada unidose de 0,5 ml, com agulha incorporada. Suspensão injectável em seringa pré-carregada.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO, SE NECESSÁRIO
+ Agitar bem antes de usar. Uso intramuscular.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 13 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP. 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Guardar a 2 °C – 8 °C (no frigorífico) Não congelar
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E MORADA DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Sanofi Pasteur MSD SNC 8, rue Jonas Salk F-69007 Lyon
+ 12. NÚMERO(S) NO REGISTO COMUNITÁRIO DE MEDICAMENTOS
+ EU/1/00/147/001 13. NÚMERO DO LOTE DE FABRICO Lote 14. CLASSIFICAÇÃO GERAL RELATIVA AO FORNECIMENTO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 14 INDICAÇÕES A INCLUIR NA EMBALAGEM EXTERIOR OU, CASO ESTA NÃO EXISTA, NO ACONDICIONAMENTO PRIMÁRIO
+ HEXAVAC-seringa pré-carregada unidose sem agulha incorporada-Caixa de 1
+ 1. DENOMINAÇÃO DO MEDICAMENTO HEXAVAC suspensão injectável em seringa pré-carregada
+ Vacina anti-difteria, tétano, tosse convulsa acelular, poliomielite inactivada, hepatite B (recombinante) e Haemophilus influenza tipo b conjugada, com adjuvante
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ 1 dose com adjuvante (0,5 ml) contém: ≥ 20 U. I. Toxóide diftérico purificado ....................................................................... ≥ 40 U. I. Toxóide tetânico purificado ........................................................................ Toxóide pertussis purificado ...................................................................... Hemaglutinina filamentosa de pertussis purificada ................................... Antigénio de superfície da hepatite B ........................................................ Poliovírus inactivado Tipo 1 ....................................................................... Poliovírus inactivado Tipo 2 ....................................................................... Poliovírus inactivado Tipo 3 ....................................................................... Haemophilus influenza tipo b conjugado com toxóide tetânico .............
+ 25 µg 25 µg 5,0 µg 40 unidades D 8 unidades D 32 unidades D 12 µg
+ 3. LISTA DOS EXCIPIENTES Excipientes: hidróxido de alumínio e uma solução tamponada de fosfato dissódico, fosfato monopotássico, carbonato de sódio, bicarbonato de sódio, trometamol, sacarose, meio 199 (uma mistura complexa de aminoácidos, sais minerais, vitaminas e outros ingredientes) e água para injectáveis.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Seringa pré-carregada unidose de 0,5 ml, sem agulha incorporada. Suspensão injectável em seringa pré-carregada.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO, SE NECESSÁRIO
+ Agitar bem antes de usar. Uso intramuscular.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 15 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP. 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Guardar a 2 °C – 8 °C (no frigorífico). Não congelar
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E MORADA DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Sanofi Pasteur MSD SNC 8, rue Jonas Salk F-69007 Lyon
+ 12. NÚMERO(S) NO REGISTO COMUNITÁRIO DE MEDICAMENTOS
+ EU/1/00/147/005 13. NÚMERO DO LOTE DE FABRICO Lote 14. CLASSIFICAÇÃO GERAL RELATIVA AO FORNECIMENTO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO 16 INDICAÇÕES A INCLUIR NA EMBALAGEM EXTERIOR OU, CASO ESTA NÃO EXISTA, NO ACONDICIONAMENTO PRIMÁRIO
+ HEXAVAC-seringa pré-carregada unidose com 1 agulha separada-Caixa de 1
+ 1. DENOMINAÇÃO DO MEDICAMENTO HEXAVAC suspensão injectável em seringa pré-carregada
+ Vacina anti-difteria, tétano, tosse convulsa acelular, poliomielite inactivada, hepatite B (recombinante) e Haemophilus influenza tipo b conjugada, com adjuvante
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ 1 dose com adjuvante (0,5 ml) contém: ≥ 20 U. I. Toxóide diftérico purificado ....................................................................... ≥ 40 U. I. Toxóide tetânico purificado ........................................................................ Toxóide pertussis purificado ...................................................................... Hemaglutinina filamentosa de pertussis purificada ................................... Antigénio de superfície da hepatite B ........................................................ Poliovírus inactivado Tipo 1 ....................................................................... Poliovírus inactivado Tipo 2 ....................................................................... Poliovírus inactivado Tipo 3 ....................................................................... Haemophilus influenza tipo b conjugado com toxóide tetânico .............
+ 25 µg 25 µg 5,0 µg 40 unidades D 8 unidades D 32 unidades D 12 µg
+ 3. LISTA DOS EXCIPIENTES Excipientes: hidróxido de alumínio e uma solução tamponada de fosfato dissódico, fosfato monopotássico, carbonato de sódio, bicarbonato de sódio, trometamol, sacarose, meio 199 (uma mistura complexa de aminoácidos, sais minerais, vitaminas e outros ingredientes) e água para injectáveis.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Seringa pré-carregada unidose de 0,5 ml, com 1 agulha separada. Suspensão injectável em seringa pré-carregada.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO, SE NECESSÁRIO
+ Agitar bem antes de usar. Uso intramuscular.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 17 8. PRAZO DE VALIDADE
+ EXP. 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Guardar a 2 °C – 8 °C (no frigorífico). Não congelar
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E MORADA DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Sanofi Pasteur MSD SNC 8, rue Jonas Salk F-69007 Lyon
+ 12. NÚMERO(S) NO REGISTO COMUNITÁRIO DE MEDICAMENTOS
+ EU/1/00/147/009 13. NÚMERO DO LOTE DE FABRICO Lote 14. CLASSIFICAÇÃO GERAL RELATIVA AO FORNECIMENTO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO 18 INDICAÇÕES A INCLUIR NA EMBALAGEM EXTERIOR OU, CASO ESTA NÃO EXISTA, NO ACONDICIONAMENTO PRIMÁRIO
+ HEXAVAC-seringa pré-carregada unidose com 2 agulhas separadas-Caixa de 1
+ 1. DENOMINAÇÃO DO MEDICAMENTO HEXAVAC suspensão injectável em seringa pré-carregada
+ Vacina anti-difteria, tétano, tosse convulsa acelular, poliomielite inactivada, hepatite B (recombinante) e Haemophilus influenza tipo b conjugada, com adjuvante
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ 1 dose com adjuvante (0,5 ml) contém: ≥ 20 U. I. Toxóide diftérico purificado ....................................................................... ≥ 40 U. I. Toxóide tetânico purificado ........................................................................ Toxóide pertussis purificado ...................................................................... Hemaglutinina filamentosa de pertussis purificada ................................... Antigénio de superfície da hepatite B ........................................................ Poliovírus inactivado Tipo 1 ....................................................................... Poliovírus inactivado Tipo 2 ....................................................................... Poliovírus inactivado Tipo 3 ....................................................................... Haemophilus influenza tipo b conjugado com toxóide tetânico .............
+ 25 µg 25 µg 5,0 µg 40 unidades D 8 unidades D 32 unidades D 12 µg
+ 3. LISTA DOS EXCIPIENTES Excipientes: hidróxido de alumínio e uma solução tamponada de fosfato dissódico, fosfato monopotássico, carbonato de sódio, bicarbonato de sódio, trometamol, sacarose, meio 199 (uma mistura complexa de aminoácidos, sais minerais, vitaminas e outros ingredientes) e água para injectáveis.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Seringa pré-carregada unidose de 0,5 ml, com 2 agulhas separadas. Suspensão injectável em seringa pré-carregada.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO, SE NECESSÁRIO
+ Agitar bem antes de usar. Uso intramuscular.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 19 8. PRAZO DE VALIDADE
+ EXP. 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Guardar a 2 °C – 8 °C (no frigorífico). Não congelar
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E MORADA DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Sanofi Pasteur MSD SNC 8, rue Jonas Salk F-69007 Lyon
+ 12. NÚMERO(S) NO REGISTO COMUNITÁRIO DE MEDICAMENTOS
+ EU/1/00/147/010 13. NÚMERO DO LOTE DE FABRICO Lote 14. CLASSIFICAÇÃO GERAL RELATIVA AO FORNECIMENTO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO 20 INDICAÇÕES A INCLUIR NA EMBALAGEM EXTERIOR OU, CASO ESTA NÃO EXISTA, NO ACONDICIONAMENTO PRIMÁRIO
+ HEXAVAC-seringa pré-carregada unidose com agulha incorporada-Caixa de 10
+ 1. DENOMINAÇÃO DO MEDICAMENTO HEXAVAC suspensão injectável em seringa pré-carregada
+ Vacina anti-difteria, tétano, tosse convulsa acelular, poliomielite inactivada, hepatite B (recombinante) e Haemophilus influenza tipo b conjugada, com adjuvante
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ 1 dose com adjuvante (0,5 ml) contém: ≥ 20 U. I. Toxóide diftérico purificado ....................................................................... ≥ 40 U. I. Toxóide tetânico purificado ........................................................................ Toxóide pertussis purificado ...................................................................... Hemaglutinina filamentosa de pertussis purificada ................................... Antigénio de superfície da hepatite B ........................................................ Poliovírus inactivado Tipo 1 ....................................................................... Poliovírus inactivado Tipo 2 ....................................................................... Poliovírus inactivado Tipo 3 ....................................................................... Haemophilus influenza tipo b conjugado com toxóide tetânico .............
+ 25 µg 25 µg 5,0 µg 40 unidades D 8 unidades D 32 unidades D 12 µg
+ 3. LISTA DOS EXCIPIENTES Excipientes: hidróxido de alumínio e uma solução tamponada de fosfato dissódico, fosfato monopotássico, carbonato de sódio, bicarbonato de sódio, trometamol, sacarose, meio 199 (uma mistura complexa de aminoácidos, sais minerais, vitaminas e outros ingredientes) e água para injectáveis.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 10 seringas pré-carregadas unidose de 0,5 ml, com agulha incorporada. Suspensão injectável em seringa pré-carregada.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO, SE NECESSÁRIO
+ Agitar bem antes de usar. Uso intramuscular.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 21 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP. 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Guardar a 2 °C – 8 °C (no frigorífico). Não congelar
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E MORADA DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Sanofi Pasteur MSD SNC 8, rue Jonas Salk F-69007 Lyon
+ 12. NÚMERO(S) NO REGISTO COMUNITÁRIO DE MEDICAMENTOS
+ EU/1/00/147/002 13. NÚMERO DO LOTE DE FABRICO Lote 14. CLASSIFICAÇÃO GERAL RELATIVA AO FORNECIMENTO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO 22 INDICAÇÕES A INCLUIR NA EMBALAGEM EXTERIOR OU, CASO ESTA NÃO EXISTA, NO ACONDICIONAMENTO PRIMÁRIO
+ HEXAVAC-seringa pré-carregada unidose sem agulha incorporada-Caixa de 10
+ 1. DENOMINAÇÃO DO MEDICAMENTO HEXAVAC suspensão injectável em seringa pré-carregada
+ Vacina anti-difteria, tétano, tosse convulsa acelular, poliomielite inactivada, hepatite B (recombinante) e Haemophilus influenza tipo b conjugada, com adjuvante
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ 1 dose com adjuvante (0,5 ml) contém: ≥ 20 U. I. Toxóide diftérico purificado ....................................................................... ≥ 40 U. I. Toxóide tetânico purificado ........................................................................ Toxóide pertussis purificado ...................................................................... Hemaglutinina filamentosa de pertussis purificada ................................... Antigénio de superfície da hepatite B ........................................................ Poliovírus inactivado Tipo 1 ....................................................................... Poliovírus inactivado Tipo 2 ....................................................................... Poliovírus inactivado Tipo 3 ....................................................................... Haemophilus influenza tipo b conjugado com toxóide tetânico .............
+ 25 µg 25 µg 5,0 µg 40 unidades D 8 unidades D 32 unidades D 12 µg
+ 3. LISTA DOS EXCIPIENTES Excipientes: hidróxido de alumínio e uma solução tamponada de fosfato dissódico, fosfato monopotássico, carbonato de sódio, bicarbonato de sódio, trometamol, sacarose, meio 199 (uma mistura complexa de aminoácidos, sais minerais, vitaminas e outros ingredientes) e água para injectáveis.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 10 seringas pré-carregadas unidose de 0,5 ml, sem agulha incorporada. Suspensão injectável em seringa pré-carregada.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO, SE NECESSÁRIO
+ Agitar bem antes de usar. Uso intramuscular.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 23 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP. 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Guardar a 2 °C – 8 °C (no frigorífico) Não congelar
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E MORADA DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Sanofi Pasteur MSD SNC 8, rue Jonas Salk F-69007 Lyon
+ 12. NÚMERO(S) NO REGISTO COMUNITÁRIO DE MEDICAMENTOS
+ EU/1/00/147/006 13. NÚMERO DO LOTE DE FABRICO Lote 14. CLASSIFICAÇÃO GERAL RELATIVA AO FORNECIMENTO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO 24 INDICAÇÕES A INCLUIR NA EMBALAGEM EXTERIOR OU, CASO ESTA NÃO EXISTA, NO ACONDICIONAMENTO PRIMÁRIO
+ HEXAVAC – seringa pré-carregada unidose com 1 agulha separada-Caixa de 10
+ 1. DENOMINAÇÃO DO MEDICAMENTO HEXAVAC suspensão injectável em seringa pré-carregada
+ Vacina anti-difteria, tétano, tosse convulsa acelular, poliomielite inactivada, hepatite B (recombinante) e Haemophilus influenza tipo b conjugada, com adjuvante
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ 1 dose com adjuvante (0,5 ml) contém: ≥ 20 U. I. Toxóide diftérico purificado ....................................................................... ≥ 40 U. I. Toxóide tetânico purificado ........................................................................ Toxóide pertussis purificado ...................................................................... Hemaglutinina filamentosa de pertussis purificada ................................... Antigénio de superfície da hepatite B ........................................................ Poliovírus inactivado Tipo 1 ....................................................................... Poliovírus inactivado Tipo 2 ....................................................................... Poliovírus inactivado Tipo 3 ....................................................................... Haemophilus influenza tipo b conjugado com toxóide tetânico .............
+ 25 µg 25 µg 5,0 µg 40 unidades D 8 unidades D 32 unidades D 12 µg
+ 3. LISTA DOS EXCIPIENTES Excipientes: hidróxido de alumínio e uma solução tamponada de fosfato dissódico, fosfato monopotássico, carbonato de sódio, bicarbonato de sódio, trometamol, sacarose, meio 199 (uma mistura complexa de aminoácidos, sais minerais, vitaminas e outros ingredientes) e água para injectáveis.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 10 seringas pré-carregadas unidose de 0,5 ml, com 1 agulha separada (para cada seringa) Suspensão injectável em seringa pré-carregada
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO, SE NECESSÁRIO
+ Agitar bem antes de usar. Uso intramuscular.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 25 8. PRAZO DE VALIDADE
+ EXP. 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Guardar a 2 °C – 8 °C (no frigorífico) Não congelar
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E MORADA DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Sanofi Pasteur MSD SNC 8, rue Jonas Salk F-69007 Lyon
+ 12. NÚMERO(S) NO REGISTO COMUNITÁRIO DE MEDICAMENTOS
+ EU/1/00/147/011 13. NÚMERO DO LOTE DE FABRICO Lote 14. CLASSIFICAÇÃO GERAL RELATIVA AO FORNECIMENTO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO 26 INDICAÇÕES A INCLUIR NA EMBALAGEM EXTERIOR OU, CASO ESTA NÃO EXISTA, NO ACONDICIONAMENTO PRIMÁRIO
+ HEXAVAC-seringa pré-carregada unidose com 2 agulhas separadas-Caixa de 10
+ 1. DENOMINAÇÃO DO MEDICAMENTO HEXAVAC suspensão injectável em seringa pré-carregada
+ Vacina anti-difteria, tétano, tosse convulsa acelular, poliomielite inactivada, hepatite B (recombinante) e Haemophilus influenza tipo b conjugada, com adjuvante
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ 1 dose com adjuvante (0,5 ml) contém: ≥ 20 U. I. Toxóide diftérico purificado ....................................................................... ≥ 40 U. I. Toxóide tetânico purificado ........................................................................ Toxóide pertussis purificado ...................................................................... Hemaglutinina filamentosa de pertussis purificada ................................... Antigénio de superfície da hepatite B ........................................................ Poliovírus inactivado Tipo 1 ....................................................................... Poliovírus inactivado Tipo 2 ....................................................................... Poliovírus inactivado Tipo 3 ....................................................................... Haemophilus influenza tipo b conjugado com toxóide tetânico .............
+ 25 µg 25 µg 5,0 µg 40 unidades D 8 unidades D 32 unidades D 12 µg
+ 3. LISTA DOS EXCIPIENTES Excipientes: hidróxido de alumínio e uma solução tamponada de fosfato dissódico, fosfato monopotássico, carbonato de sódio, bicarbonato de sódio, trometamol, sacarose, meio 199 (uma mistura complexa de aminoácidos, sais minerais, vitaminas e outros ingredientes) e água para injectáveis.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 10 seringas pré-carregadas unidose de 0,5 ml, com 2 agulhas separadas (para cada seringa) Suspensão injectável em seringa pré-carregada.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO, SE NECESSÁRIO
+ Agitar bem antes de usar. Uso intramuscular.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 27 8. PRAZO DE VALIDADE
+ EXP. 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Guardar a 2 °C – 8 °C (no frigorífico) Não congelar
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E MORADA DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Sanofi Pasteur MSD SNC 8, rue Jonas Salk F-69007 Lyon
+ 12. NÚMERO(S) NO REGISTO COMUNITÁRIO DE MEDICAMENTOS
+ EU/1/00/147/012 13. NÚMERO DO LOTE DE FABRICO Lote 14. CLASSIFICAÇÃO GERAL RELATIVA AO FORNECIMENTO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO 28 INDICAÇÕES A INCLUIR NA EMBALAGEM EXTERIOR OU, CASO ESTA NÃO EXISTA, NO ACONDICIONAMENTO PRIMÁRIO
+ HEXAVAC-seringa pré-carregada unidose com agulha incorporada-Caixa de 25
+ 1. DENOMINAÇÃO DO MEDICAMENTO HEXAVAC suspensão injectável em seringa pré-carregada
+ Vacina anti-difteria, tétano, tosse convulsa acelular, poliomielite inactivada, hepatite B (recombinante) e Haemophilus influenza tipo b conjugada, com adjuvante
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ 1 dose com adjuvante (0,5 ml) contém: ≥ 20 U. I. Toxóide diftérico purificado ....................................................................... ≥ 40 U. I. Toxóide tetânico purificado ........................................................................ Toxóide pertussis purificado ...................................................................... Hemaglutinina filamentosa de pertussis purificada ................................... Antigénio de superfície da hepatite B ........................................................ Poliovírus inactivado Tipo 1 ....................................................................... Poliovírus inactivado Tipo 2 ....................................................................... Poliovírus inactivado Tipo 3 ....................................................................... Haemophilus influenza tipo b conjugado com toxóide tetânico .............
+ 25 µg 25 µg 5,0 µg 40 unidades D 8 unidades D 32 unidades D 12 µg
+ 3. LISTA DOS EXCIPIENTES Excipientes: hidróxido de alumínio e uma solução tamponada de fosfato dissódico, fosfato monopotássico, carbonato de sódio, bicarbonato de sódio, trometamol, sacarose, meio 199 (uma mistura complexa de aminoácidos, sais minerais, vitaminas e outros ingredientes) e água para injectáveis.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 25 seringas pré-carregadas unidose de 0,5 ml, com agulha incorporada. Suspensão injectável em seringa pré-carregada.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO, SE NECESSÁRIO
+ Agitar bem antes de usar. Uso intramuscular.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 29 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP. 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Guardar a 2 °C – 8 °C (no frigorífico) Não congelar
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E MORADA DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Sanofi Pasteur MSD SNC 8, rue Jonas Salk F-69007 Lyon
+ 12. NÚMERO(S) NO REGISTO COMUNITÁRIO DE MEDICAMENTOS
+ EU/1/00/147/003 13. NÚMERO DO LOTE DE FABRICO Lote 14. CLASSIFICAÇÃO GERAL RELATIVA AO FORNECIMENTO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO 30 INDICAÇÕES A INCLUIR NA EMBALAGEM EXTERIOR OU, CASO ESTA NÃO EXISTA, NO ACONDICIONAMENTO PRIMÁRIO
+ HEXAVAC-seringa pré-carregada unidose sem agulha incorporada-Caixa de 25
+ 1. DENOMINAÇÃO DO MEDICAMENTO HEXAVAC suspensão injectável em seringa pré-carregada
+ Vacina anti-difteria, tétano, tosse convulsa acelular, poliomielite inactivada, hepatite B (recombinante) e Haemophilus influenza tipo b conjugada, com adjuvante
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ 1 dose com adjuvante (0,5 ml) contém: ≥20 U. I. Toxóide diftérico purificado ....................................................................... ≥ 40 U. I. Toxóide tetânico purificado ........................................................................ Toxóide pertussis purificado ...................................................................... Hemaglutinina filamentosa de pertussis purificada ................................... Antigénio de superfície da hepatite B ........................................................ Poliovírus inactivado Tipo 1 ....................................................................... Poliovírus inactivado Tipo 2 ....................................................................... Poliovírus inactivado Tipo 3 ....................................................................... Haemophilus influenza tipo b conjugado com toxóide tetânico .............
+ 25 µg 25 µg 5,0 µg 40 unidades D 8 unidades D 32 unidades D 12 µg
+ 3. LISTA DOS EXCIPIENTES Excipientes: hidróxido de alumínio e uma solução tamponada de fosfato dissódico, fosfato monopotássico, carbonato de sódio, bicarbonato de sódio, trometamol, sacarose, meio 199 (uma mistura complexa de aminoácidos, sais minerais, vitaminas e outros ingredientes) e água para injectáveis.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 25 seringas pré-carregadas unidose de 0,5 ml, sem agulha incorporada. Suspensão injectável em seringa pré-carregada.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO, SE NECESSÁRIO
+ Agitar bem antes de usar. Uso intramuscular.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 31 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP. 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Guardar a 2 °C – 8 °C (no frigorífico) Não congelar
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E MORADA DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Sanofi Pasteur MSD SNC 8, rue Jonas Salk F-69007 Lyon
+ 12. NÚMERO(S) NO REGISTO COMUNITÁRIO DE MEDICAMENTOS
+ EU/1/00/147/007 13. NÚMERO DO LOTE DE FABRICO Lote 14. CLASSIFICAÇÃO GERAL RELATIVA AO FORNECIMENTO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO 32 INDICAÇÕES A INCLUIR NA EMBALAGEM EXTERIOR OU, CASO ESTA NÃO EXISTA, NO ACONDICIONAMENTO PRIMÁRIO
+ HEXAVAC-seringa pré-carregada unidose com agulha incorporada-Caixa de 50
+ 1. DENOMINAÇÃO DO MEDICAMENTO HEXAVAC suspensão injectável em seringa pré-carregada
+ Vacina anti-difteria, tétano, tosse convulsa acelular, poliomielite inactivada, hepatite B (recombinante) e Haemophilus influenza tipo b conjugada, com adjuvante
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ 1 dose com adjuvante (0,5 ml) contém: ≥ 20 U. I. Toxóide diftérico purificado ....................................................................... ≥ 40 U. I. Toxóide tetânico purificado ........................................................................ Toxóide pertussis purificado ...................................................................... Hemaglutinina filamentosa de pertussis purificada ................................... Antigénio de superfície da hepatite B ........................................................ Poliovírus inactivado Tipo 1 ....................................................................... Poliovírus inactivado Tipo 2 ....................................................................... Poliovírus inactivado Tipo 3 ....................................................................... Haemophilus influenza tipo b conjugado com toxóide tetânico .............
+ 25 µg 25 µg 5,0 µg 40 unidades D 8 unidades D 32 unidades D 12 µg
+ 3. LISTA DOS EXCIPIENTES Excipientes: hidróxido de alumínio e uma solução tamponada de fosfato dissódico, fosfato monopotássico, carbonato de sódio, bicarbonato de sódio, trometamol, sacarose, meio 199 (uma mistura complexa de aminoácidos, sais minerais, vitaminas e outros ingredientes) e água para injectáveis.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 50 seringas pré-carregadas unidose de 0,5 ml, com agulha incorporada. Suspensão injectável em seringa pré-carregada.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO, SE NECESSÁRIO
+ Agitar bem antes de usar. Uso intramuscular.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 33 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP. 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Guardar a 2 °C – 8 °C (no frigorífico) Não congelar
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E MORADA DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Sanofi Pasteur MSD SNC 8, rue Jonas Salk F-69007 Lyon
+ 12. NÚMERO(S) NO REGISTO COMUNITÁRIO DE MEDICAMENTOS
+ EU/1/00/147/004 13. NÚMERO DO LOTE DE FABRICO Lote 14. CLASSIFICAÇÃO GERAL RELATIVA AO FORNECIMENTO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO 34 INDICAÇÕES A INCLUIR NA EMBALAGEM EXTERIOR OU, CASO ESTA NÃO EXISTA, NO ACONDICIONAMENTO PRIMÁRIO
+ HEXAVAC-seringa pré-carregada unidose sem agulha incorporada-Caixa de 50
+ 1. DENOMINAÇÃO DO MEDICAMENTO HEXAVAC suspensão injectável em seringa pré-carregada
+ Vacina anti-difteria, tétano, tosse convulsa acelular, poliomielite inactivada, hepatite B (recombinante) e Haemophilus influenza tipo b conjugada, com adjuvante
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ 1 dose com adjuvante (0,5 ml) contém: ≥ 20 U. I. Toxóide diftérico purificado ....................................................................... ≥ 40 U. I. Toxóide tetânico purificado ........................................................................ Toxóide pertussis purificado ...................................................................... Hemaglutinina filamentosa de pertussis purificada ................................... Antigénio de superfície da hepatite B ........................................................ Poliovírus inactivado Tipo 1 ....................................................................... Poliovírus inactivado Tipo 2 ....................................................................... Poliovírus inactivado Tipo 3 ....................................................................... Haemophilus influenza tipo b conjugado com toxóide tetânico .............
+ 25 µg 25 µg 5,0 µg 40 unidades D 8 unidades D 32 unidades D 12 µg
+ 3. LISTA DOS EXCIPIENTES Excipientes: hidróxido de alumínio e uma solução tamponada de fosfato dissódico, fosfato monopotássico, carbonato de sódio, bicarbonato de sódio, trometamol, sacarose, meio 199 (uma mistura complexa de aminoácidos, sais minerais, vitaminas e outros ingredientes) e água para injectáveis.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 50 seringas pré-carregadas unidose de 0,5 ml, sem agulha incorporada. Suspensão injectável em seringa pré-carregada.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO, SE NECESSÁRIO
+ Agitar bem antes de usar. Uso intramuscular.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 35 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP. 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Guardar a 2 °C – 8 °C (no frigorífico) Não congelar
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E MORADA DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Sanofi Pasteur MSD SNC 8, rue Jonas Salk F-69007 Lyon
+ 12. NÚMERO(S) NO REGISTO COMUNITÁRIO DE MEDICAMENTOS
+ EU/1/00/147/008 13. NÚMERO DO LOTE DE FABRICO Lote 14. CLASSIFICAÇÃO GERAL RELATIVA AO FORNECIMENTO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO 36 INDICAÇÕES
+ MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES
+ AÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO 1. DENOMINAÇÃO DO ADMINISTRAÇÃO MEDICAMENTO E, SE NECESSÁRIO, VIA(S) DE HEXAVAC Uso intramuscular 2. MODO DE ADMINISTRAÇÃO Conservar a 2 °C – 8 °C Não congelar Agitar bem antes de usar
+ 3. PRAZO DE VALIDADE EXP 4. NÚMERO DO LOTE Lote 5. CONTEÚDO EM TERMOS DE PESO, VOLUME OU UNIDADE
+ 1 dose= 0,5 ml Sanofi Pasteur MSD SNC 37 B. FOLHETO INFORMATIVO
+ 38 FOLHETO INFORMATIVO
+ Leia atentamente este folheto antes do seu filho ser vacinado.
+ -Conserve este folheto. Pode ter necessidade de o ler novamente.
+ -Caso tenha dúvidas, consulte o seu médico ou farmacêutico
+ -Esta vacina foi receitada ao seu filho e não deverá dá-la a outros.
+ Neste folheto: 1. O que é HEXAVAC e para que é utilizado 2. Antes de usar HEXAVAC 3. Como utilizar HEXAVAC 4. Efeitos secundários possíveis 5. Conservação de HEXAVAC 6. Outras informações
+ HEXAVAC suspensão injectável em seringa pré-carregada. Vacina anti-difteria, tétano, tosse convulsa acelular, poliomielite inactivada, hepatite B (recombinante) e Haemophilus influenzae tipo b conjugada, com adjuvante.
+ As substância activas são: Toxóide diftérico purificado ....................................................................... igual ou superior a 20 U. I.* (30 Lf) Toxóide tetânico purificado ........................................................................ igual ou superior a 40 U. I.* (10 Lf) Toxóide pertussis purificado ..................................................................... 25 microgramas Hemaglutinina filamentosa de pertussis purificada .................................. 25 microgramas Antigénio de superfície da hepatite B ** ................................................... 5,0 microgramas Poliovírus inactivado Tipo 1 (Mahoney) ................................................... antigénio D^: 40 unidades † Poliovírus inactivado Tipo 2 (MEF 1) ....................................................... antigénio D^: 8 unidades † Poliovírus inactivado Tipo 3 (Saukett) ....................................................... antigénio D^: 32 unidades † Polissacárido de Haemophilus influenzae tipo b (fosfato de polirribosilribitol) 12 microgramas conjugado com toxóide tetânico (24 microgramas) para uma dose com adjuvante de 0,5 ml
+ * Como limite inferior de confiança (p= 0,95) ** Antigénio de superfície da hepatite B produzido a partir da estirpe recombinante 2150-2-3 da levedura Saccharomyces cerevisae.^ Quantidade de antigénio no produto final em bulk, de acordo com a OMS (TRS 673,1992) † Ou quantidade antigénica equivalente determinada por um método imunoquímico adequado
+ Os outros ingredientes são: hidróxido de alumínio, uma solução tamponada de fosfato dissódico, fosfato monopotássico, carbonato de sódio, bicarbonato de sódio, trometamol, sacarose, meio 199 (uma mistura complexa de aminoácidos, sais minerais, vitaminas e outros ingredientes) e água para injectáveis.
+ Detentor da Autorização de Introdução no Mercado: Sanofi Pasteur MSD SNC,8 rue Jonas Salk, F-69007 Lyon Fabricado por: Sanofi Pasteur SA, F-69280 Marcy l' Etoile
+ 1. O QUE É HEXAVAC E PARA QUE É UTILIZADO
+ HEXAVAC é uma vacina injectável apresentada numa seringa unidose de 0,5 ml.
+ HEXAVAC está indicado para ajudar a proteger o seu filho contra a difteria, tétano, tosse convulsa, poliomielite, contra infecção do fígado provocado por todos os sub-tipos conhecidos do vírus da hepatite B e doença sistémica (infecção no tecidos cerebrais e da medula espinal, infecção no sangue,
+ 39 etc.) provocada pela bactéria Haemophilus influenzae tipo b (Hib) em crianças de 8 semanas a 18 meses de idade.
+ Hexavac está disponível em embalagens de 1,10,25 e 50 seringas com ou sem agulha.
+ 2. ANTES DE UTILIZAR HEXAVAC Não utilize HEXAVAC: -Se o seu filho é alérgico a qualquer componente da vacina.
+ -No caso dos recém-nascidos, adolescentes ou adultos.
+ -Se o seu filho tiver febre ou outras doenças, particularmente tosse, constipação ou gripe (a
+ vacinação deverá ser adiada).
+ -Se o seu filho tiver sofrido de danos cerebrais (encefalopatia) após uma dose prévia de vacina
+ anti-tosse convulsa de célula inteira ou acelular.
+ Tome especial cuidado com HEXAVAC: -Se o seu filho tiver hipersensibilidade à neomicina, estreptomicina e polimixina B, devido ao
+ uso destas substâncias durante o fabrico.
+ -Se o seu filho tiver doenças de coagulação ou trombocitopénia dado que poderá ocorrer
+ hemorragia após a administração intramuscular nestes indivíduos.
+ -Se tiver ocorrido qualquer dos seguintes efeitos numa relação temporal à administração da
+ vacina. (A decisão de administrar outras doses de vacinas que contenham o componente pertussis deverão ser cuidadosamente consideradas.): Temperatura ≥ 40,0 ºC no espaço de 48 horas, sem outra causa aparente Colapso ou estado tipo choque (episódio hipotónico-hiporeactivo) no espaço de 48 horas após a vacinação. Choro persistente inconsolável, com duração ≥ 3 horas, ocorrendo no espaço de 48 horas após a vacinação. Convulsões com ou sem febre, ocorrendo no espaço de 3 dias após a vacinação
+ -Se o seu filho teve quaisquer problemas médicos no passado ou presente ou alergias, incluindo
+ reacções alérgicas após qualquer dose de HEXAVAC.
+ -Se for mãe antigénio de superfície do vírus de Hepatite B (AgHBs)-positiva, o seu filho deverá
+ receber Imunoglobulina Hepatite B (HBIG) e vacina anti-hepatite B (recombinante) à nascença e deverá completar a série de vacinação de hepatite B. Não foi estudada a administração subsequente de HEXAVAC para a conclusão da série de vacinação de hepatite B em crianças nascidas de mães AgHBs-positivas e que receberam IGHB ou crianças nascidas de mães de estatuto desconhecido. HEXAVAC não deve ser utilizado como a dose à nascença ou doses subsequentes durante o primeiro ano de vida em crianças nascidas de mães AgHBs positivas.
+ -Dado que, conforme acontece com outras vacinas semelhantes, poderão ocorrer casos de doença
+ devido ao Haemophilus influenzae tipo b na semana seguinte à vacinação, antes do inicio do efeito protector da vacina.
+ -Dado que a infecção da Hepatite B, poderá não ser detectada durante um longo período de
+ tempo, é possível que um indivíduo poderá já estar infectado na altura em que a vacina é administrada. A vacina poderá não proteger contra a hepatite B nestes indivíduos.
+ Utilizar outras vacinas Não existem actualmente dados disponíveis suficientes, relativos à resposta imunitária, resultante da administração simultânea de HEXAVAC com PREVENAR (vacina pneumocócica sacárida conjugada, adsorvida). Contudo, quando o HEXAVAC foi co-administrado em ensaios clínicos, a frequência de reacções febris foi superior, por comparação com a ocorrida após a administração de vacinas hexavalentes, isoladamente. Estas reacções foram essencialmente moderadas e transitórias. Caso o seu filho tenha de ser vacinado com HEXAVAC e outras vacinas simultaneamente, consulte o seu médico para obter mais informações.
+ 40 3. COMO UTILIZAR HEXAVAC
+ O esquema de vacinação primária consiste em duas ou três doses de 0,5 ml, administradas durante o primeiro ano de vida, de acordo com as recomendações oficiais. Deverá haver um intervalo de 1 mês, no mínimo, entre as doses: tal como 2,3,4 meses; 2,4,6 meses; 3,5 meses. Após uma vacinação primária com duas doses de HEXAVAC (i. e. 3,5 meses), deve ser administrada uma dose de reforço entre os 11 e os 13 meses de idade; após uma vacinação primária com 3 doses de HEXAVAC (P. e 2,3,4 meses; 2,4,6 meses), tem de ser administrada uma dose de reforço entre os 12 e os 18 meses de idade, de acordo com as recomendações oficiais. HEXAVAC pode ser usado para a dose de reforço desde que a criança tenha recebido um esquema de vacinação primária completo de cada um dos antigénios contidos no Hexavac, independentemente se foram administrados na forma de vacinas monovalentes ou combinadas produzidas pela Sanofi Pasteur MSD.
+ HEXAVAC deverá ser administrado no quadricípite ou no músculo deltóide de preferência em locais alternados nas injecções subsequentes. HEXAVAC não deve em circunstância alguma ser administrado por via intravascular. As vias intradérmica ou subcutânea também não devem ser utilizadas.
+ HEXAVAC não deve ser misturado na mesma seringa com outras vacinas ou outros medicamentos de administração parentérica.
+ Para as seringas sem agulha incorporada, a agulha deve ser empurrada com firmeza na direcção da extremidade da seringa e rodada até 90 graus.
+ Caso se tenha esquecido de tomar HEXAVAC: O seu médico decidirá quando deverá ser administrada a dose em falta.
+ 4. EFEITOS SECUNDÁRIOS POSSIVEIS Como as outras vacinas, HEXAVAC pode ter efeitos secundários. HEXAVAC tem sido geralmente bem tolerado nos ensaios clínicos. Os efeitos secundários incluem reacções no local de injecção como sensibilidade, vermelhidão, inchaço e dor. Outros efeitos secundários incluem irritabilidade, sonolência, febre, falta de sono, diarreia, vómitos, perda de apetite e choro prolongado em que a criança não foi consolável.
+ Após uma utilização de HEXAVAC mais alargada, foram reportados efeitos indesejáveis adicionais: Entre as reacções no local de injecção foram também reportadas comichão e urticária. Raramente, o doente pode apresentar choro prolongado ou fora do vulgar. Muito raramente podem ocorrer reacções alérgicas; arrepios; fadiga; mal-estar; edema; tumefacção do(s) membro(s) inteiro(s); Síndroma de Guillain Barré; episódio hipotónico hiporesponsivo; palidez; convulsões (febris e não febris); inflamação cerebral; edema cerebral agudo; olhos revirados; diminuição do tónus muscular; neurite; náusea; gases e/ou dor abdominal; baixa contagem de plaquetas; manchas púrpura ou castanho avermelhadas visíveis através da pele; agitação; dificuldade em dormir; dificuldade em respirar; pieira; tumefacção da cara, lábios, boca, língua ou garganta que poderá originar dificuldade em engolir ou respirar; exantema; vermelhidão da pele; urticária generalizada; comichão generalizada; rubor; tumefacção local e transitória dos nódulos linfáticos;
+ Informe o seu médico sobre estes sintomas. Se os sintomas persistirem ou piorarem, leve a sua criança ao médico.
+ Adicionalmente, informe o seu médico se o seu filho tiver qualquer sintoma que sugira uma reacção alérgica, como exantema, vermelhidão, comichão, palidez ou edema após qualquer dose do esquema de vacinação.
+ 41 Se notar quaisquer efeitos secundários que não constem deste folheto, por favor informe o seu médico ou farmacêutico.
+ 5. CONSERVAÇÃO DE HEXAVAC Manter fora do alcance e da vista das crianças. Guardar a 2 °C – 8 °C (no frigorífico). Não congelar. Não utilize HEXAVAC após expirar o prazo de validade indicado no rótulo.
+ 6. OUTRAS INFORMAÇÕES Para quaisquer informações sobre este medicamento, queira contactar o representante local do titular da autorização de introdução no mercado.
+ België/Belgique/Belgien Sanofi Pasteur MSD sa/nv Tél: 32. 2. 726. 95.84
+ Luxembourg/Luxemburg Sanofi Pasteur MSD sa/nv Tél: 32. 2. 726. 95.84
+ Česká republika AVENTIS PASTEUR OFFICE PRAHA Tel: 420 222 522 523
+ Magyarország AVENTIS PASTEUR Representative Office Tel.: 36 13 28 39 80
+ Danmark Sanofi Pasteur MSD sa/nv Tél: 32. 2. 726. 95.84
+ Malta CHERUBINO LTD Tel: 356 21 343 270 Deutschland Sanofi Pasteur MSD GmbH Tel: 49. 6224. 594.0
+ Nederland Sanofi Pasteur MSD sa/nv branch Tel: 32. 2. 726. 95.84
+ Eesti Norge AS Oriola – Tallinn Tel: 370 5 273 0967
+ Sanofi Pasteur MSD sa/nv Tlf: +32. 2. 726. 95.84
+ Ελλάδα ΒΙΑΝΕΞ Α. Ε. Τηλ. 30. 210.8009111
+ Österreich Sanofi Pasteur MSD GmbH Tel: 43. 1. 866. 70. 22.202
+ España Sanofi Pasteur MSD SA Tel: 349. 1. 371. 78.00
+ Polska AVENTIS PASTEUR Sp. Z. o. o. Tel.: 48 22 661 55 39
+ France Sanofi Pasteur MSD SNC Tél: 33. 4. 37. 28. 40.00
+ Portugal UCB PHARMA Lda Tel: 351. 21. 302. 53.00
+ Ireland Sanofi Pasteur MSD Ltd Tel: 3531. 295.2226
+ Slovenija Aventis Pasteur GmbH Representative Tel: 386 4 33 74 14
+ 42 Ísland Sanofi Pasteur MSD sa/nv Tel: +32. 2. 726. 95.84
+ Slovenská republika Aventis Pasteur GmbH Tel: 421 41 700 2711
+ Italia Sanofi Pasteur MSD SpA Tel: 390. 6. 664. 092.11
+ Suomi/Finland Sanofi Pasteur MSD sa/nv Tél: 32. 2. 726. 95.84
+ Κύπρος XANTOS LYSSIOTIS AND SON Τηλ: 357 22 34 80 06
+ Sverige Sanofi Pasteur MSD SNC France Filial i Sverige Tél: 32. 2. 726. 95.84
+ Latvija AVENTIS PASTEUR GmbH Tel: 370 5 273 0967
+ United Kingdom Sanofi Pasteur MSD Ltd Tel: 44. 1. 628. 785.291
+ Lietuva AVENTIS PASTEUR Representative Office Tel. 370 5 273 0967
+ Este folheto foi aprovado pela última vez em
+ 43

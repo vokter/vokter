@@ -1,0 +1,722 @@
+ o ad riz to au ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO o nã já to en m a ic ed M
+ 1 1. NOME DO MEDICAMENTO
+ Neupopeg 6 mg solução injectável 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada seringa pré-cheia contém 6 mg de pegfilgrastim* em 0,6 ml de solução injectável. Considerando apenas a parte proteica, a concentração é de 10 mg/ml **.
+ * Produzido por tecnologia ADN recombinante em células de Escherichia coli, seguido de conjugação com polietilenoglicol (PEG). ** A concentração é de 20 mg/ml, se a parte do PEG for incluída.
+ A potência deste medicamento não deve ser comparada à potência de outra proteína peguilada ou não peguilada da mesma classe terapêutica. Para mais informações, ver secção 5.1.
+ o ad Excipientes:
+ riz Excipientes conhecidos por terem uma acção confirmada: sorbitol E420, acetato de sódio (ver secção 4.4).
+ to Lista completa de excipientes, ver secção 6.1. au 3. FORMA FARMACÊUTICA o nã
+ Solução injectável. Solução injectável límpida e incolor. já to
+ 4. INFORMAÇÕES CLÍNICAS en
+ 4.1 Indicações terapêuticas m
+ Redução da duração da neutropenia e da incidência da neutropenia febril em doentes tratados com a
+ quimioterapia citotóxica para doença maligna (com excepção da leucemia mielóide crónica e de síndromes mielodisplásicos). ic ed
+ 4.2 Posologia e modo de administração M
+ O tratamento com Neupopeg deve ser iniciado e supervisionado por médicos com experiência em oncologia e/ou hematologia.
+ Recomenda-se uma dose de 6 mg (uma única seringa pré-cheia) de Neupopeg por cada ciclo de quimioterapia, administrada por injecção subcutânea aproximadamente 24 horas após a quimioterapia citotóxica.
+ Neupopeg não é recomendado em crianças com idade inferior a 18 anos devido a dados insuficientes de segurança e eficácia.
+ Disfunção renal: não é recomendada qualquer alteração à dose em doentes com disfunção renal, incluindo os doentes com insuficiência renal terminal.
+ 2 4.3 Contra-indicações
+ Hipersensibilidade à substância activa ou a qualquer um dos excipientes.
+ 4.4 Advertências e precauções especiais de utilização
+ Dados clínicos limitados sugerem um efeito comparável entre o pegfilgrastim e filgrastim, no tempo de recuperação da neutropenia severa em doentes com leucemia mielóide aguda de novo (ver secção 5.1). No entanto, os efeitos a longo prazo de Neupopeg não foram ainda estabelecidos na leucemia mielóide aguda; pelo que, deve ser utilizado com precaução nesta população de doentes.
+ O factor de estimulação de colónias de granulócitos pode promover o crescimento de células mielóides in vitro e podem também ser observados in vitro efeitos similares em algumas células não mielóides.
+ A segurança e eficácia de Neupopeg não foram investigadas em doentes com síndromes
+ o mielodisplásicos, leucemia mielógena aguda e em doentes com leucemia mielóide aguda (LMA)
+ ad secundária; desta forma, não deve ser administrado nestes doentes. Deve ter-se especial cuidado na distinção de um diagnóstico de transformação blástica de leucemia mielóide aguda em leucemia
+ riz mielóide crónica.
+ to A segurança e eficácia da administração de Neupopeg não foi estabelecida em doentes com LMA de novo e idade &lt; 55 anos, com citogenética t(15; 17). au A segurança e a eficácia de Neupopeg não foram investigadas em doentes submetidos a quimioterapia em doses elevadas. o nã
+ Foram notificados raros efeitos adversos pulmonares (≥ 1/10 000, &lt; 1/1 000), em particular pneumonia intersticial, após administração de G-CSF. Doentes com história recente de infiltrados pulmonares ou pneumonia podem ter um risco superior. já
+ O aparecimento de sinais pulmonares, tais como tosse, febre e dispneia em associação com sinais to
+ radiológicos de infiltração pulmonar e deterioração da função pulmonar concomitantemente com o en
+ aumento do número de neutrófilos, podem ser sinais preliminares indicativos do síndrome de dificuldade respiratória aguda no adulto (SDRA). Nestas circunstâncias, a administração do Neupopeg deve ser interrompida, consoante critério médico, e aplicado o tratamento apropriado. m a
+ Após a administração de pegfilgrastim foram notificados casos frequentes (≥ 1/100, &lt; 1/10), mas geralmente assintomáticos de esplenomegália e casos muito raros (&lt; 1/10 000) de ruptura esplénica, ic
+ incluindo alguns casos fatais. Como tal, as dimensões do baço devem ser cuidadosamente ed
+ monitorizadas (por exemplo, exame clínico, ultrasonografia). Um diagnóstico de possível ruptura esplénica deve ser considerado em dadores e/ou doentes que apresentem dor abdominal no quadrante M
+ superior esquerdo ou dor em pontada no ombro esquerdo.
+ O tratamento isolado com Neupopeg não exclui a possibilidade de trombocitopenia e de anemia, uma vez que é mantida dose completa de quimioterapia mielossupressiva no programa de prescrição. Recomenda-se a monitorização regular da contagem plaquetária e do hematócrito.
+ O Neupopeg não deve ser utilizado para aumentar a dose de quimioterapia citotóxica para além dos regimes posológicos estabelecidos.
+ Foi associado com a administração de pegfilgrastim crises de células falciformes em doentes com anemia das células falciformes. Assim, os clínicos devem ter um cuidado especial quando administram Neupopeg a doentes com anemia das células falciformes, devendo efectuar-se uma monitorização apropriada dos parâmetros clínicos e laboratoriais e ter atenção a uma possível associação do Neupopeg com o aumento do volume do baço e com uma crise veno-oclusiva.
+ 3 Observaram-se contagens de glóbulos brancos, iguais ou superiores a 100 x 109/l em menos de 1% dos doentes que receberam Neupopeg. Não foram notificados quaisquer efeitos adversos directamente atribuíveis a este grau de leucocitose. Este aumento de glóbulos brancos é transitório, tipicamente observado 24 a 48 horas após a administração, e é consistente com os efeitos farmacodinâmicos de Neupopeg.
+ Não foram avaliadas, de maneira adequada, a segurança e a eficácia do Neupopeg para a mobilização de células progenitoras do sangue (CPS) tanto em doentes como em dadores saudáveis.
+ A protecção da agulha da seringa pré-cheia contém borracha natural seca (um derivado do látex), que pode causar reacções alérgicas.
+ O aumento da actividade hematopoiética da medula óssea em resposta à terapêutica com factor de crescimento, tem sido associada a resultados imagiológicos positivos e transitórios do osso. Este facto deve ser considerado aquando da interpretação de resultados imagiológicos do osso.
+ o Neulasta contém sorbitol. Este medicamento não deve ser administrado a doentes com problemas
+ ad hereditários de intolerância à frutose.
+ riz Neulasta contém menos de 1 mmol (23 mg) de sódio por 6 mg de dose, isto é, essencialmente “ sódio-livre ”.
+ to 4.5 Interacções medicamentosas e outras formas de interacção au Devido à potencial sensibilidade das células mielóides em divisão rápida à quimioterapia citotóxica, o Neupopeg deve ser administrado aproximadamente 24 horas após a administração da quimioterapia o citotóxica. Em ensaios clínicos, o Neupopeg foi administrado com segurança até 14 dias antes da nã
+ quimioterapia. A administração concomitante do Neupopeg com agentes quimioterapêuticos não foi estudada em doentes. Em modelos animais, a administração concomitante do Neupopeg e 5-fluorouracilo (5-FU) ou outros antimetabolitos demonstrou potenciar a mielosupressão. já
+ Interacções possíveis com outros factores de estimulação hematopoiéticos e com citocinas não foram to
+ investigadas especificamente em ensaios clínicos. en
+ O potencial de interacção com o lítio, que também favorece a libertação de neutrófilos, não foi investigada especificamente. Não há qualquer evidência de que este tipo de interacção seja nociva. m a
+ A segurança e a eficácia do Neupopeg não foram avaliadas em doentes que receberam quimioterapia associada com uma mielossupressão mais tardia (e. g. nitrosoureias). ic ed
+ Não foram efectuados estudos específicos de interacções ou de metabolismo, no entanto, os ensaios clínicos não indicaram a existência de interacções do Neupopeg com qualquer outro medicamento. M
+ 4.6 Gravidez e aleitamento Não existem dados suficientes sobre a utilização de pegfilgrastim em mulheres grávidas. Os estudos em animais revelaram toxicidade reprodutiva (ver secção 5.3). Desconhece-se o risco potencial para o ser humano.
+ Neupopeg não deverá ser utilizado durante a gravidez, a menos que seja claramente necessário.
+ Não existe experiência clínica com mulheres a amamentar. Assim sendo, o Neupopeg não deve ser administrado a mulheres que estejam a amamentar.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas.
+ 4 4.8 Efeitos indesejáveis
+ Em ensaios clínicos aleatorizados efectuados em doentes com doença maligna a receber Neupopeg após quimioterapia citotóxica, a maioria dos efeitos indesejáveis foram causados pela doença subjacente ou pela quimioterapia citotóxica.
+ O efeito indesejável, relacionado com o fármaco em estudo, muito frequente e notificado com maior frequência foi a dor óssea. Em termos de gravidade, a dor óssea foi na generalidade ligeira a moderada, passageira e, na maioria dos doentes, pôde ser controlada com os analgésicos convencionais.
+ Foram notificadas reacções do tipo alérgico, incluindo anafilaxia, rash cutâneo, urticária, angioedema, dispneia, hipotensão, reacções no local de administração, eritema e rubor durante o período inicial ou subsequente ao tratamento com Neupopeg. Nalguns casos, os sintomas recorreram com a reexposição, sugerindo uma relação causal. Se ocorrer uma reacção alérgica grave, deve ser utilizada a terapêutica
+ o adequada, com acompanhamento próximo do doente durante vários dias. Pegfilgrastim deve ser
+ ad permanentemente interrompido nos doentes que manifestaram reacções alérgicas graves.
+ riz Nos doentes que receberam Neupopeg após quimioterapia citotóxica, foram frequentes (≥ 1/100, &lt; 1/10) os aumentos, ligeiros a moderados, reversíveis do ácido úrico e da fosfatase alcalina, sem
+ to efeitos clínicos associados; foram muito frequentes (≥ 1/10) os aumentos, ligeiros a moderados, reversíveis da lactato-desidrogenase, sem efeitos clínicos associados. au Observaram-se náuseas em voluntários saudáveis e em doentes a receber quimioterapia.
+ Após administração pegfilgrastim foram notificados casos frequentes (≥ 1/100, &lt; 1/10), mas o geralmente assintomáticos de esplenomegália e casos muito raros de ruptura esplénica, incluindo nã
+ alguns casos fatais (ver secção 4.4). Outros efeitos secundários notificados de forma frequente incluem dor, dor no local de injecção; dor torácica (não cardíaca); enxaqueca; artralgia; mialgia; dor nas costas, membros, musculo-esqueléticas e no pescoço. já
+ Foram notificados efeitos adversos pulmonares raros (≥ 1/10 000, &lt; 1/1 000) incluindo, pneumonia to
+ intersticial, edema pulmonar, infiltrados e fibrose pulmonares. Alguns destes casos notificados en
+ resultaram em insuficiência respiratória e Sindrome de Dificuldade Respiratória do Adulto (SDRA), que podem ser fatais (ver secção 4.4). m
+ Foram notificados casos raros (≥ 1/10 000, &lt; 1/1 000) de trombocitopenia e leucocitose. a
+ Foram notificados casos raros (≥ 1/10 000, &lt; 1/1 000) de Síndrome de Sweet, embora em alguns casos ic
+ doenças malignas hematológicas subjacentes possam contribuir para a sua ocorrência. ed
+ Foram notificados em doentes tratados com Neupopeg casos muito raros (&lt; 1/10 000) de vasculite M
+ cutânea. Não é conhecido o mecanismo da vasculite em doentes que recebem Neupopeg.
+ Foram observadas, muito raramente (&lt; 1/10 000), alterações dos testes de função hepática, nomeadamente elevações da ALT (alanina aminotransferase) ou AST (aspartato aminotransferase) em doentes a receber pegfilgrastim após quimioterapia citotóxica. Estas elevações foram transitórias e retornaram aos valores basais.
+ Foram notificados casos isolados de crises de células falciformes em doentes com anemia das células falciformes (ver secção 4.4).
+ 4.9 Sobredosagem Não existe experiência em humanos com sobredosagem com o Neupopeg.
+ 5 5. PROPRIEDADES FARMACOLÓGICAS
+ 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Citocinas, código ATC: L03AA
+ O factor de estimulação das colónias de granulócitos humano (G-CSF) é uma glicoproteína que regula a produção e a libertação de neutrófilos da medula óssea. O pegfilgrastim é um conjugado covalente do G-CSF humano recombinante (r-metHuG-CSF) com uma molécula única de polietilenoglicol (PEG) de 20 kd. O pegfilgrastim permite prolongar a acção do filgrastim devido à diminuição da depuração renal.
+ O pegfilgrastim e o filgrastim demonstraram ter mecanismos de acção idênticos causando, num espaço de 24 horas, um aumento marcado do número de neutrófilos no sangue periférico, com aumentos mínimos dos monócitos e/ou linfócitos. Tal como com o filgrastim, os neutrófilos produzidos em resposta ao pegfilgrastim apresentam função normal ou aumentada, como demonstrado em ensaios
+ o sobre as funções fagocítica e quimiotáxica. Tal como com outros factores de crescimento
+ ad hematopoiéticos, o G-CSF demonstrou in vitro possuir propriedades estimuladoras das células endoteliais humanas. O G-CSF pode promover o crescimento de células mielóides, incluindo células
+ riz malignas, in vitro e podem observar-se efeitos similares em algumas células não mielóides in vitro.
+ to Em dois estudos clínicos, aleatorizados, com dupla ocultação em doentes de alto risco com cancro da mama em estadio II-IV, submetidos a quimioterapia mielossupressora composta por doxorrubicina e au docetaxel, o uso do pegfilgrastim, uma única vez por ciclo, reduziu a duração da neutropenia e a de incidência da neutropenia febril de forma semelhante ao observado com as administrações diárias de filgrastim (mediana igual a 11 administrações diárias). Na ausência de tratamento de suporte com o factor de crescimento, foi referida com este regime uma neutropenia de grau 4 com duração média de nã
+ 5 a 7 dias e uma incidência de neutropenia febril de 30-40%. Num dos estudos (n=157) em que se utilizou uma dose fixa de 6 mg de pegfilgrastim a duração média da neutropenia de grau 4 foi de 1,8 dias para o grupo do pegfilgrastim e de 1,6 dias no grupo do filgrastim (diferença 0,23 dias, IC 95% de já
+ -0,15; 0,63). Durante todo o estudo, a taxa de neutropenia febril foi de 13% nos doentes tratados com pegfilgrastim e de 20% nos doentes tratados com filgrastim (diferença 7%, IC 95% de – 19%; 5%). to
+ Num segundo estudo (n=310), em que se utilizou uma dose ajustada ao peso (100 microgramas/kg), a en
+ duração média da neutropenia de grau 4 para o grupo com pegfilgrastim foi 1,7 dias e de 1,8 dias no grupo com filgrastim (diferença 0,03 dias, IC 95% de – 0,36; 0,30). A taxa global de neutropenia febril foi de 9% nos doentes tratados com pegfilgrastim e de 18% nos doentes tratados com filgrastim m
+ (diferença 9%, IC 95% de – 16,8%;-1,1%). a
+ Num estudo clínico, com dupla ocultação controlado com placebo, em doentes com cancro da mama ic
+ foi avaliado o efeito do pegfilgrastim sobre a incidência da neutropenia febril, após a administração de ed
+ um regime de quimioterapia associado a uma taxa de neutropenia febril de 10-20% (docetaxel 100mg/m2 de 3 em 3 semanas durante 4 ciclos). Novecentos e vinte e oito doentes foram aleatorizados M
+ para receber uma dose única de pegfilgrastim ou placebo aproximadamente 24 horas (dia 2) após quimioterapia em cada ciclo. A incidência da neutropenia febril foi inferior nos doentes aleatorizados para receber pegfilgrastim quando comparados com o grupo placebo (1% contra 17%, p &lt; 0.001). A incidência de hospitalizações e do uso de fármacos anti-infecciosos IV associados ao diagnóstico clínico de neutropenia febril foi inferior no grupo pegfilgrastim quando comparado com o grupo placebo (1% contra 14%, p &lt; 0.001; e 2% contra 10%, p &lt; 0.001).
+ Um estudo pequeno (n= 83), de fase II, aleatorizado, em dupla ocultação realizado em doentes a receber quimioterapia para a leucemia mielóide aguda de novo, comparou o pegfilgrastim (dose única de 6 mg) com filgrastim, administrados durante a quimioterapia de indução. O tempo mediano para recuperação da neutropenia febril foi estimado em 22 dias, nos 2 grupos de tratamento. O resultado a longo prazo não foi estudado (ver Secção 4.4).
+ 6 5.2 Propriedades farmacocinéticas
+ Após uma administração subcutânea única de pegfilgrastim a concentração sérica máxima do pegfilgrastim ocorre entre as 16 e 120 horas após a administração e as concentrações séricas do pegfilgrastim mantêm-se durante o período de neutropenia após a quimioterapia mielossupressora. A eliminação do pegfilgrastim tem uma relação não linear com a dose; a depuração sérica do pegfilgrastim diminui com o aumento da dose. A eliminação do pegfilgrastim é atribuída a uma depuração mediada pelos percursores dos neutrófilos, que fica saturada com doses mais elevadas. Consistente com um mecanismo de depuração auto-regulador, a concentração sérica de pegfilgrastim diminui rapidamente após o início da recuperação dos neutrófilos (ver figura 1).
+ Figura 1. Perfil da Mediana da Concentração Sérica de Pegfilgrastim e Contagem Absoluta de Neutrófilos em Doentes Tratados com Quimioterapia Após uma Injecção Única de 6 mg Mediana da Conc. Sérica de Pegfilgrastim (ng/ml)
+ Mediana da Contagem Absoluta de Neutrófilos[ CAN]
+ 1000 100 o Conc. de pegfilgrastim
+ ad CAN
+ 100
+ riz 10
+ (células x 10) 9 to 10
+ 1 nã
+ o
+ au
+ 1 0.1 0.1 3 6 9 12 15 18 21 já
+ Dia do Estudo to
+ Devido ao mecanismo de depuração mediada pelos neutrófilos não se espera que a farmacocinética do pegfilgrastim seja afectada pela insuficiência renal ou hepática. Num ensaio clínico aberto com dose en
+ única (n=31), os vários estadios de disfunção renal, incluindo a insuficiência renal terminal, não tiveram impacto na farmacocinética do pegfilgrastim. m
+ Os dados indicam que a farmacocinética do pegfilgrastim em indivíduos idosos (&gt; 65 anos) foi a
+ semelhante à dos adultos. ic ed
+ 5.3 Dados de segurança pré-clínica M
+ Os dados pré-clínicos, obtidos a partir de estudos convencionais de toxicidade com doses repetidas, revelou os efeitos farmacológicos esperados incluindo aumentos da contagem leucocitária, hiperplasia mielóide da medula óssea, hematopoiese extramedular e hipertrofia esplénica.
+ Não se observaram efeitos adversos na descendência de ratos gestantes aos quais se administrou pegfilgrastim por via subcutânea, mas demonstrou-se que, em coelhos, o pegfilgrastim causou toxicidade embriofetal (perda de embriões) em doses subcutâneas baixas. Em estudos com ratos, demonstrou-se que o pegfilgrastim pode atravessar a placenta. Desconhece-se qual é a importância destas observações para humanos.
+ 7 6. INFORMAÇÕES FARMACÊUTICAS
+ 6.1. Lista dos excipientes Acetato de sódio* Sorbitol (E420) Polissorbato 20 Água para preparações injectáveis
+ * O acetato de sódio é formado por titulação de ácido acético glacial com hidróxido de sódio.
+ 6.2 Incompatibilidades Este medicamento não deve ser misturado com outros, particularmente com soluções de cloreto de sódio.
+ o 6.3 Prazo de validade
+ ad 30 meses.
+ riz 6.4 Precauções especiais de conservação
+ to Conservar no frigorífico (2°C – 8°C). au Neupopeg pode ser exposto à temperatura ambiente (não acima dos 30ºC) por um único período máximo de 72 horas. O Neupopeg exposto à temperatura ambiente por mais de 72 horas deve ser o eliminado. nã
+ Não congelar. Uma exposição acidental a temperaturas de congelação por um único período inferior a 24 horas não afecta negativamente a estabilidade do Neupopeg. já
+ Conservar na embalagem de origem para proteger da luz. to en
+ 6.5 Natureza e conteúdo do recipiente 0,6 ml de solução injectável em seringa pré-cheia (vidro Tipo I), com um êmbolo de borracha e com m
+ uma agulha de aço inoxidável. Embalagens de 1 seringa pré-cheia, disponíveis quer em embalagens a
+ blister, quer em embalagens não blister. Apenas para administração única. ic
+ A protecção da agulha da seringa pré-cheia contém borracha natural seca (um derivado do látex) (ver ed
+ secção 4.4). M
+ É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais de eliminação
+ Antes da administração, a solução de Neupopeg deve ser inspeccionada visualmente para se assegurar que não contém partículas. Devem apenas administrar-se soluções que sejam límpidas e incolores.
+ A agitação excessiva pode produzir a agregação do pegfilgrastim, tornando-o biologicamente inactivo.
+ Retirar a seringa pré-cheia do frigorífico para atingir a temperatura ambiente antes de administrar a injecção.
+ Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 8 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Dompé Biotec S. p. A. Via San Martino 12 I-20122 Milan Itália
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/02/228/001-002 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ o Data da primeira autorização: 22 Agosto 2002
+ ad Data da última renovação: 16 Julho 2007
+ riz 10. DATA DA REVISÃO DO TEXTO
+ to 17 Janeiro 2008 au Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência o Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu/nã já to en m a ic ed M
+ 9 1. NOME DO MEDICAMENTO
+ Neupopeg 6 mg solução injectável em caneta pré-cheia
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada caneta pré-cheia contém 6 mg de pegfilgrastim* em 0,6 ml de solução injectável. Considerando apenas a parte proteíca, a concentração é de 10 mg/ml **.
+ Produzido por tecnologia ADN recombinate em células de Escherichia. coli, seguido de conjugação com polietilenoglicol (PEG). ** A concentração é de 20 mg/ml, se a parte do PEG for incluída.
+ A potência deste medicamento não deve ser comparada à potência de outra proteína peguilada ou não peguilada da mesma classe terapêutica. Para mais informação, ver secção 5.1.
+ o ad Excipientes: Excipientes conhecidos por terem uma acção confirmada: sorbitol E420, acetato de sódio (ver secção
+ riz 4.4).
+ to Lista completa de excipientes, ver secção 6.1.
+ au 3. FORMA FARMACÊUTICA o Solução injectável em caneta pré-cheia (SureClick). nã
+ Solução injectável límpida e incolor. já
+ 4. INFORMAÇÕES CLÍNICAS to en
+ 4.1 Indicações terapêuticas Redução da duração da neutropenia e da incidência da neutropenia febril em doentes tratados com m
+ quimioterapia citotóxica para doença maligna (com excepção da leucemia mielóide crónica e de a
+ síndromes mielodisplásicos). ic
+ 4.2 Posologia e modo de administração ed
+ O tratamento com Neupopeg deve ser iniciado e supervisionado por médicos com experiência em M
+ oncologia e/ou hematologia.
+ Recomenda-se uma dose de 6 mg (uma única caneta pré-cheia) de Neupopeg (SureClick) por cada ciclo de quimioterapia, administrada por injecção subcutânea aproximadamente 24 horas após a quimioterapia citotóxica.
+ Neupopeg não é recomendado em crianças com idade inferior a 18 anos devido a dados insuficientes de segurança e de eficácia.
+ Disfunção renal: não é recomendada qualquer alteração à dose em doentes com disfunção renal, incluindo os doentes com insuficiência renal terminal.
+ 4.3 Contra-indicações Hipersensibilidade à substância activa ou a qualquer um dos excipientes.
+ 10 4.4 Advertências e precauções especiais de utilização
+ Dados clínicos limitados sugerem um efeito comparável entre o pegfilgrastim e filgrastim, no tempo de recuperação da neutropenia severa em doentes com leucemia mielóide aguda de novo (ver secção 5.1). No entanto, os efeitos a longo prazo de Neupopeg não foram ainda estabelecidos na leucemia mielóide aguda; pelo que, deve ser utilizado com precaução nesta população de doentes.
+ O factor de estimulação de colónias de granulócitos pode promover o crescimento de células mielóides in vitro e podem também ser observados in vitro efeitos similares em algumas células não mielóides.
+ A segurança e eficácia de Neupopeg não foram investigadas em doentes com síndromes mielodisplásicos, leucemia mielógena aguda e em doentes com leucemia mielóide aguda (LMA) secundária; desta forma, não deve ser administrado nestes doentes. Deve ter-se especial cuidado na distinção de um diagnóstico de transformação blástica de leucemia mielóide aguda em leucemia
+ o mielóide crónica.
+ ad A segurança e eficácia da administração de Neupopeg não foi estabelecida em doentes com LMA de
+ riz novo e idade &lt; 55 anos, com citogenética t(15; 17).
+ to A segurança e a eficácia de Neupopeg não foram investigadas em doentes submetidos a quimioterapia em doses elevadas. au Foram notificados raros efeitos adversos pulmonares (≥ 1/10 000, &lt; 1/1 000), em particular pneumonia intersticial, após administração de G-CSF. Doentes com história recente de infiltrados o pulmonares ou pneumonia podem ter um risco superior. nã
+ O aparecimento de sinais pulmonares, tais como tosse, febre e dispneia em associação com sinais radiológicos de infiltração pulmonar e deterioração da função pulmonar concomitantemente com o já
+ aumento do número de neutrófilos, podem ser sinais preliminares indicativos do síndrome de dificuldade respiratória aguda no adulto (SDRA). Nestas circunstâncias, a administração do Neupopeg to
+ deve ser interrompida, consoante critério médico, e aplicado o tratamento apropriado. en
+ Após a administração de pegfilgrastim foram notificados casos frequentes (≥ 1/100, &lt; 1/10), mas geralmente assintomáticos de esplenomegália e casos muito raros (&lt; 1/10 000) de ruptura esplénica, m
+ incluindo alguns casos fatais. Como tal, as dimensões do baço devem ser cuidadosamente a
+ monitorizadas (por exemplo, exame clínico, ultrasonografia). Um diagnóstico de possível ruptura esplénica deve ser considerado em dadores e/ou doentes que apresentem dor abdominal no quadrante ic
+ superior esquerdo ou dor em pontada no ombro esquerdo. ed
+ O tratamento isolado com Neupopeg não exclui a possibilidade de trombocitopenia e de anemia, uma M
+ vez que é mantida dose completa de quimioterapia mielossupressiva no programa de prescrição. Recomenda-se a monitorização regular da contagem plaquetária e do hematócrito.
+ O Neupopeg não deve ser utilizado para aumentar a dose de quimioterapia citotóxica para além dos regimes posológicos estabelecidos.
+ Foi associado com a administração de pegfilgrastim crises de células falciformes em doentes com anemia das células falciformes. Assim, os clínicos devem ter um cuidado especial quando administram Neupopeg a doentes com anemia das células falciformes, devendo efectuar-se uma monitorização apropriada dos parâmetros clínicos e laboratoriais e ter atenção a uma possível associação do Neupopeg com o aumento do volume do baço e com uma crise veno-oclusiva.
+ Observaram-se contagens de glóbulos brancos, iguais ou superiores a 100 x 109/l em menos de 1% dos doentes que receberam Neupopeg. Não foram notificados quaisquer efeitos adversos directamente atribuíveis a este grau de leucocitose. Este aumento de glóbulos brancos é transitório, tipicamente
+ 11 observado 24 a 48 horas após a administração, e é consistente com os efeitos farmacodinâmicos de Neupopeg.
+ Não foram avaliadas, de maneira adequada, a segurança e a eficácia do Neupopeg para a mobilização de células progenitoras do sangue (CPS) tanto em doentes como em dadores saudáveis.
+ A protecção da agulha da caneta pré-cheia contém borracha natural seca (um derivado do látex), que pode causar reacções alérgicas.
+ O aumento da actividade hematopoiética da medula óssea em resposta à terapêutica com factor de crescimento, tem sido associada a resultados imagiológicos positivos e transitórios do osso. Este facto deve ser considerado aquando da interpretação de resultados imagiológicos do osso.
+ Neupopeg contém sorbitol. Este medicamento não deve ser administrado a doentes com problemas hereditários de intolerância à frutose.
+ o Neupopeg contém menos de 1 mmol (23 mg) de sódio por 6 mg de dose, isto é, essencialmente
+ ad “ sódio-livre ”.
+ riz 4.5 Interacções medicamentosas e outras formas de interacção
+ to Devido à potencial sensibilidade das células mielóides em divisão rápida à quimioterapia citotóxica, o Neupopeg deve ser administrado aproximadamente 24 horas após a administração da quimioterapia au citotóxica. Em ensaios clínicos, o Neupopeg foi administrado com segurança até 14 dias antes da quimioterapia. A administração concomitante do Neupopeg com agentes quimioterapêuticos não foi estudada em doentes. Em modelos animais, a administração concomitante do Neupopeg e o 5-fluorouracilo (5-FU) ou outros antimetabolitos demonstrou potenciar a mielosupressão. nã
+ Interacções possíveis com outros factores de estimulação hematopoiéticos e com citocinas não foram investigadas especificamente em ensaios clínicos. já
+ O potencial de interacção com o lítio, que também favorece a libertação de neutrófilos, não foi to
+ investigada especificamente. Não há qualquer evidência de que este tipo de interacção seja nociva. en
+ A segurança e a eficácia do Neupopeg não foram avaliadas em doentes que receberam quimioterapia associada com uma mielossupressão mais tardia (e. g. nitrosoureias). m a
+ Não foram efectuados estudos específicos de interacções ou de metabolismo, no entanto, os ensaios clínicos não indicaram a existência de interacções do Neupopeg com qualquer outro medicamento. ic ed
+ 4.6 Gravidez e aleitamento M Não existem dados suficientes sobre a utilização de pegfilgrastim em mulheres grávidas. Os estudos em animais revelaram toxicidade reprodutiva (ver secção 5.3). Desconhece-se o potencial risco para os humanos.
+ Neupopeg não deverá ser utilizado durante a gravidez, a menos que seja claramente necessário.
+ Não existe experiência clínica com mulheres a amamentar. Assim sendo, o Neupopeg não deve ser administrado a mulheres que estejam a amamentar.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas.
+ 12 4.8 Efeitos indesejáveis
+ Em ensaios clínicos aleatorizados efectuados em doentes com doença maligna a receber Neupopeg após quimioterapia citotóxica, a maioria dos efeitos indesejáveis foram causados pela doença subjacente ou pela quimioterapia citotóxica.
+ O efeito indesejável, relacionado com o fármaco em estudo, muito frequente e notificado com maior frequência foi a dor óssea. Em termos de gravidade, a dor óssea foi na generalidade ligeira a moderada, passageira e, na maioria dos doentes, pôde ser controlada com os analgésicos convencionais.
+ Foram notificadas reacções do tipo alérgico, incluindo anafilaxia, rash cutâneo, urticária, angioedema, dispneia, hipotensão, reacções no local de administração, eritema e rubor durante o período inicial ou subsequente ao tratamento com Neupopeg. Nalguns casos, os sintomas recorreram com a reexposição, sugerindo uma relação causal. Se ocorrer uma reacção alérgica grave, deve ser utilizada a terapêutica adequada, com acompanhamento próximo do doente durante vários dias. Pegfilgrastim deve ser
+ o permanentemente interrompido nos doentes que manifestaram reacções alérgicas graves.
+ ad Nos doentes que receberam Neupopeg após quimioterapia citotóxica, foram frequentes (≥ 1/100,
+ riz &lt; 1/10) os aumentos, ligeiros a moderados, reversíveis do ácido úrico e da fosfatase alcalina, sem efeitos clínicos associados; foram muito frequentes (≥ 1/10) os aumentos, ligeiros a moderados,
+ to reversíveis da lactato-desidrogenase, sem efeitos clínicos associados. Observaram-se náuseas em voluntários saudáveis e em doentes a receber quimioterapia. au Após administração de pegfilgrastim foram notificados casos frequentes (≥ 1/100, &lt; 1/10), mas geralmente assintomáticos de esplenomegália e casos muito raros de ruptura esplénica, incluindo o alguns casos fatais (ver secção 4.4). Outros efeitos secundários notificados de forma frequente incluem nã
+ dor, dor no local de injecção; dor torácica (não cardíaca); enxaqueca; artralgia; mialgia; dor nas costas, membros, musculo-esqueléticas e no pescoço. já
+ Foram notificados efeitos adversos pulmonares raros (≥ 1/10 000, &lt; 1/1 000), incluindo, pneumonia intersticial, edema pulmonar, infiltrados e fibrose pulmonares. Alguns destes casos notificados to
+ resultaram em insuficiência respiratória e Sindrome de Dificuldade Respiratória do Adulto (SDRA), en
+ que podem ser fatais (ver secção 4.4).
+ Foram notificados casos raros (≥ 1/10 000, &lt; 1/1 000) de trombocitopenia e leucocitose. m a
+ Foram notificados casos raros (≥ 1/10 000, &lt; 1/1 000) de Síndrome de Sweet, embora em alguns casos doenças malignas hematológicas subjacentes possam contribuir para a sua ocorrência. ic ed
+ Foram notificados em doentes tratados com Neupopeg casos muito raros (&lt; 1/10 000) de vasculite cutânea. Não é conhecido o mecanismo da vasculite em doentes que recebem Neupopeg. M
+ Foram observadas, muito raramente (&lt; 1/10 000), alterações dos testes de função hepática, nomeadamente elevações da ALT (alanina aminotransferase) ou AST (aspartato aminotransferase) em doentes a receber pegfilgrastim após quimioterapia citotóxica. Estas elevações foram transitórias e retornaram aos valores basais.
+ Foram notificados casos isolados de crises de células falciformes em doentes com anemia das células falciformes (ver secção 4.4).
+ 4.9 Sobredosagem Não existe experiência em humanos com sobredosagem com o Neupopeg.
+ 5. PROPRIEDADES FARMACOLÓGICAS 13 5.1 Propriedades farmacodinâmicas
+ Grupo farmacoterapêutico: Citocinas, código ATC: L03AA
+ O factor de estimulação das colónias de granulócitos humano (G-CSF) é uma glicoproteína que regula a produção e a libertação de neutrófilos da medula óssea. O pegfilgrastim é um conjugado covalente do G-CSF humano recombinante (r-metHuG-CSF) com uma molécula única de polietilenoglicol (PEG) de 20 kd. O pegfilgrastim permite prolongar a acção do filgrastim devido à diminuição da depuração renal.
+ O pegfilgrastim e o filgrastim demonstraram ter mecanismos de acção idênticos causando, num espaço de 24 horas, um aumento marcado do número de neutrófilos no sangue periférico, com aumentos mínimos dos monócitos e/ou linfócitos. Tal como com o filgrastim, os neutrófilos produzidos em resposta ao pegfilgrastim apresentam função normal ou aumentada, como demonstrado em ensaios sobre as funções fagocítica e quimiotáxica. Tal como com outros factores de crescimento
+ o hematopoiéticos, o G-CSF demonstrou in vitro possuir propriedades estimuladoras das células
+ ad endoteliais humanas. O G-CSF pode promover o crescimento de células mielóides, incluindo células malignas, in vitro e podem observar-se efeitos similares em algumas células não mielóides in vitro.
+ riz Em dois estudos clínicos, aleatorizados, com dupla ocultação em doentes de alto risco com cancro da
+ to mama em estadio II-IV, submetidos a quimioterapia mielossupressora composta por doxorrubicina e docetaxel, o uso do pegfilgrastim, uma única vez por ciclo, reduziu a duração da neutropenia e a de au incidência da neutropenia febril de forma semelhante ao observado com as administrações diárias de filgrastim (mediana igual a 11 administrações diárias). Na ausência de tratamento de suporte com factor de crescimento, foi referida com este regime uma neutropenia de grau 4 com duração média de o 5 a 7 dias e uma incidência de neutropenia febril de 30-40%. Num dos estudos (n=157) em que se nã
+ utilizou uma dose fixa de 6 mg de pegfilgrastim a duração média da neutropenia de grau 4 foi de 1,8 dias para o grupo do pegfilgrastim e de 1,6 dias no grupo do filgrastim (diferença 0,23 dias, IC 95% de-0,15; 0,63). Durante todo o estudo, a taxa de neutropenia febril foi de 13% nos doentes tratados com já
+ pegfilgrastim e de 20% nos doentes tratados com filgrastim (diferença 7%, IC 95% de – 19%; 5%). Num segundo estudo (n=310), em que se utilizou uma dose ajustada ao peso (100 microgramas/kg), a to
+ duração média da neutropenia de grau 4 para o grupo com pegfilgrastim foi 1,7 dias e de 1,8 dias no en
+ grupo com filgrastim (diferença 0,03 dias, IC 95% de – 0,36; 0,30). A taxa global de neutropenia febril foi de 9% nos doentes tratados com pegfilgrastim e de 18% nos doentes tratados com filgrastim (diferença 9%, IC 95% de – 16,8%;-1,1%). m a
+ Num estudo clínico, com dupla ocultação controlado com placebo, em doentes com cancro da mama foi avaliado o efeito do pegfilgrastim sobre a incidência da neutropenia febril, após a administração de ic
+ um regime de quimioterapia associado a uma taxa de neutropenia febril de 10-20% (docetaxel ed
+ 100mg/m2 de 3 em 3 semanas durante 4 ciclos). Novecentos e vinte e oito doentes foram aleatorizados para receber uma dose única de pegfilgrastim ou placebo aproximadamente 24 horas (dia 2) após M
+ quimioterapia em cada ciclo. A incidência da neutropenia febril foi inferior nos doentes aleatorizados para receber pegfilgrastim quando comparados com o grupo placebo (1% contra 17%, p &lt; 0.001). A incidência de hospitalizações e do uso de fármacos anti-infecciosos IV associados ao diagnóstico clínico de neutropenia febril foi inferior no grupo pegfilgrastim quando comparado com o grupo placebo (1% contra 14%, p &lt; 0.001; e 2% contra 10%, p &lt; 0.001).
+ Um estudo pequeno (n= 83), de fase II, aleatorizado, em dupla ocultação realizado em doentes a receber quimioterapia para a leucemia mielóide aguda de novo, comparou o pegfilgrastim (dose única de 6 mg) com filgrastim, administrados durante a quimioterapia de indução. O tempo mediano para recuperação da neutropenia febril foi estimado em 22 dias, nos 2 grupos de tratamento. O resultado a longo prazo não foi estudado (ver Secção 4.4).
+ 5.2 Propriedades farmacocinéticas 14 Após uma administração subcutânea única de pegfilgrastim a concentração sérica máxima do pegfilgrastim ocorre entre as 16 e 120 horas após a administração e as concentrações séricas do pegfilgrastim mantêm-se durante o período de neutropenia após a quimioterapia mielossupressora. A eliminação do pegfilgrastim tem uma relação não linear com a dose; a depuração sérica do pegfilgrastim diminui com o aumento da dose. A eliminação do pegfilgrastim é atribuída a uma depuração mediada pelos percursores dos neutrófilos, que fica saturada com doses mais elevadas. Consistente com um mecanismo de depuração auto-regulador, a concentração sérica de pegfilgrastim diminui rapidamente após o início da recuperação dos neutrófilos (ver figura 1).
+ Figura 1. Perfil da Mediana da Concentração Sérica de Pegfilgrastim e Contagem Absoluta de Neutrófilos em Doentes Tratados com Quimioterapia Após uma Injecção Única de 6 mg Mediana da Conc. Sérica de Pegfilgrastim (ng/ml)
+ Mediana da Contagem Absoluta de Neutrófilos[ CAN]
+ 1000 Conc. de pegfilgrastim CAN 100 o 100
+ ad 10
+ (células x 10) 9 riz 10
+ to 1
+ au 1 o
+ 0.1 nã
+ 0.1 3 6 9 12 15 18 21 Dia do Estudo já
+ Devido ao mecanismo de depuração mediada pelos neutrófilos não se espera que a farmacocinética do pegfilgrastim seja afectada pela insuficiência renal ou hepática. Num ensaio clínico aberto com dose to
+ única (n=31), os vários estadios de disfunção renal, incluindo a insuficiência renal terminal, não tiveram impacto na farmacocinética do pegfilgrastim. en
+ Os dados indicam que a farmacocinética do pegfilgrastim em indivíduos idosos (&gt; 65 anos) foi m
+ semelhante à dos adultos. a
+ 5.3 Dados de segurança pré-clínica ic ed
+ Os dados pré-clínicos, obtidos a partir de estudos convencionais de toxicidade com doses repetidas, revelou os efeitos farmacológicos esperados incluindo aumentos da contagem leucocitária, hiperplasia M
+ mielóide da medula óssea, hematopoiese extramedular e hipertrofia esplénica.
+ Não se observaram efeitos adversos na descendência de ratos gestantes aos quais se administrou pegfilgrastim por via subcutânea, mas demonstrou-se que, em coelhos, o pegfilgrastim causou toxicidade embriofetal (perda de embriões) em doses subcutâneas baixas. Em estudos com ratos, demonstrou-se que o pegfilgrastim pode atravessar a placenta. Desconhece-se qual é a importância destas observações para humanos.
+ 15 6. INFORMAÇÕES FARMACÊUTICAS
+ 6.1. Lista dos excipientes Acetato de sódio* Sorbitol (E420) Polissorbato 20 Água para preparações injectáveis
+ * O acetato de sódio é formado por titulação de ácido acético glacial com hidróxido de sódio.
+ 6.2 Incompatibilidades Este medicamento não deve ser misturado com outros, particularmente com soluções de cloreto de sódio.
+ o 6.3 Prazo de validade
+ ad 30 meses.
+ riz 6.4 Precauções especiais de conservação
+ to Conservar no frigorífico (2°C – 8°C). au Neupopeg pode ser exposto à temperatura ambiente (não acima dos 30ºC) por um único período máximo de 72 horas. O Neupopeg exposto à temperatura ambiente por mais de 72 horas deve ser o eliminado. nã
+ Não congelar. Uma exposição acidental a temperaturas de congelação por um único período inferior a 24 horas não afecta negativamente a estabilidade do Neupopeg. já
+ Conservar na embalagem de origem para proteger da luz. to en
+ 6.5 Natureza e conteúdo do recipiente A seringa no interior da caneta é feita de vidro Tipo I com um êmbolo de borracha e com uma agulha m
+ de aço inoxidável: contém 0,6 ml de solução injectável. Embalagem de 1 caneta pré-cheia, apenas a
+ para administração única. ic
+ A protecção da agulha da caneta pré-cheia contém borracha natural seca (um derivado do látex) (ver ed
+ secção 4.4). M
+ 6.6 Precauções especiais de eliminação
+ A embalagem contém um folheto informativo com instruções completas de uso e manipulação.
+ O Neupopeg (SureClick) é uma solução estéril mas sem conservantes
+ Antes da administração, a solução de Neupopeg deve ser inspeccionada visualmente para se assegurar que não contém partículas visíveis. Devem apenas administrar-se soluções que sejam límpidas e incolores. Cada caneta deve apenas ser utilizada uma única vez.
+ A agitação excessiva pode produzir a agregação do pegfilgrastim, tornando-o biologicamente inactivo.
+ Retirar a caneta pré-cheia do frigorífico para atingir a temperatura ambiente antes de administrar a injecção.
+ 16 Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Dompé Biotec S. p. A. Via San Martino 12 I-20122 Milan Itália
+ 9. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/02/228/003 o 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE
+ ad INTRODUÇÃO NO MERCADO
+ riz Data da primeira autorização: 22 Agosto 2002 Data da última renovação: 16 Julho 2007
+ to au 10. DATA DA REVISÃO DO TEXTO
+ 17 Janeiro 2008 o nã
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu/já to en m a ic ed M
+ 17 o ad riz to ANEXO II
+ au A. FABRICANTE DA SUBSTÂNCIA ACTIVA DE ORIGEM BIOLÓGICA E TITULAR DA AUTORIZAÇÃO DE o FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE nã
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO já to en ma ic ed M
+ 18 A. FABRICANTE DA SUBSTÂNCIA ACTIVA DE ORIGEM BIOLÓGICA E TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do fabricante da substância activa de origem biológica
+ Amgen Inc. One Amgen Center Drive Thousand Oaks CA 91320 EUA
+ Amgen Manufacturing Limited P. O Box 4060 Road 31 km. 24.6 Juncos Puerto Rico 00777-4060
+ o EUA
+ ad Nome e endereço do fabricante responsável pela libertação do lote
+ riz Amgen Europe BV
+ to Minervum 7061 NL-4817 ZK Breda au Holanda o B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO nã
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E já
+ UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO to
+ Medicamento de receita médica restrita, de utilização reservada a certos meios especializados (ver en
+ anexo I: Resumo das Características do Medicamento, secção 4.2.).
+ • m
+ CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO a ic
+ Não aplicável. ed M 19 o ad riz to au ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO o nã já to en m a ic ed M
+ 20 M ed ic am en to
+ 21 já nã A. ROTULAGEM o au to riz ad o INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO EMBALAGEM EXTERIOR
+ 1. NOME DO MEDICAMENTO Neupopeg 6 mg solução injectável Pegfilgrastim
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada seringa pré-cheia contém 6 mg de pegfilgrastim em 0,6 ml (10 mg/ml) de solução injectável.
+ 3. LISTA DOS EXCIPIENTES Excipientes: acetado de sódio, sorbitol (E420), polissorbato 20 e água para preparações injectáveis.
+ o ad Excipientes conhecidos por terem uma acção confirmada: sorbitol (E420), acetato de sódio.
+ riz Consultar o folheto informativo para mais informação.
+ to 4. FORMA FARMACÊUTICA E CONTEÚDO
+ au Solução injectável em seringa pré-cheia para administração única. (0,6 ml). Embalagem de 1 seringa. o 5. MODO E VIA(S) DE ADMINISTRAÇÃO nã
+ Para administração subcutânea. Consultar o folheto informativo antes de utilizar. já
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO to
+ FORA DO ALCANCE E DA VISTA DAS CRIANÇAS en
+ Manter fora do alcance e da vista das crianças. m
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO a
+ Evitar uma agitação vigorosa. ic ed
+ 8. PRAZO DE VALIDADE M EXP.: 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico. Não congelar. Manter dentro da embalagem exterior, para proteger da luz ..
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 22 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Dompé Biotec S. p. A. Via San Martino 12 I-20122 Milan Itália
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/02/228/001 13. NÚMERO DO LOTE Lote: o ad 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ riz Medicamento sujeito a receita médica.
+ to 15. INSTRUÇÕES DE UTILIZAÇÃO
+ au 16. INFORMAÇÃO EM BRAILLE o nã
+ Neulasta já to en m a ic ed M
+ 23 INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS “ BLISTER ” OU FITAS CONTENTORAS EMBALAGEM BLISTER COM SERINGA PRÉ-CHEIA
+ 1. NOME DO MEDICAMENTO Neupopeg 6 mg injectável Pegfilgrastim 2. NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Dompé Biotec S. p. A. 3. PRAZO DE VALIDADE o EXP.:
+ ad 4. NÚMERO DO LOTE
+ riz Lote:
+ to au 5. OUTRAS o nã já to en m a ic ed M
+ 24 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO RÓTULO DA SERINGA PRÉ-CHEIA
+ 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Neupopeg 6 mg Pegfilgrastim SC 2. MODO DE ADMINISTRAÇÃO 3. PRAZO DE VALIDADE o EXP.:
+ ad 4. NÚMERO DO LOTE
+ riz Lot:
+ to au 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 0,6 ml o nã
+ 6. OUTRAS Dompé Biotec S. p. A. já to en m a ic ed M
+ 25 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO EMBALAGEM DA SERINGA NÃO ACONDICIONADA EM BLISTER
+ 1. NOME DO MEDICAMENTO Neupopeg 6 mg solução injectável Pegfilgrastim
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada seringa pré-cheia contém 6 mg de pegfilgrastim em 0,6 ml (10 mg/ml) de solução injectável.
+ 3. LISTA DOS EXCIPIENTES Excipientes: acetado de sódio, sorbitol (E420), polissorbato 20 e água para preparações injectáveis.
+ o ad Excipientes conhecidos por terem uma acção confirmada: sorbitol (E420), acetato de sódio.
+ riz Consultar o folheto informativo para mais informação.
+ to 4. FORMA FARMACÊUTICA E CONTEÚDO
+ au Solução injectável em seringa pré-cheia para administração única (0,6 ml). Embalagem de 1 seringa. o nã
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Para administração subcutânea já
+ Consultar o folheto informativo antes de utilizar. to
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS en
+ Manter fora do alcance e da vista das crianças. m a
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO ic
+ Evitar uma agitação vigorosa. ed
+ 8. PRAZO DE VALIDADE M EXP.: 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico. Não congelar. Manter dentro da embalagem exterior, para proteger da luz ..
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 26 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Dompé Biotec S. p. A. Via San Martino 12 I-20122 Milan Itália
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/02/228/002 13. NÚMERO DO LOTE Lote: o ad 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ riz Medicamento sujeito a receita médica.
+ to 15. INSTRUÇÕES DE UTILIZAÇÃO
+ au 16. INFORMAÇÃO EM BRAILLE o nã
+ Neulasta já to en m a ic ed M
+ 27 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO RÓTULO DA SERINGA PRÉ-CHEIA NÃO ACONDICIONADA EM BLISTER
+ 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Neupopeg 6 mg injectável Pegfilgrastim SC
+ 2. MODO DE ADMINISTRAÇÃO 3. PRAZO DE VALIDADE o EXP.:
+ ad 4. NÚMERO DO LOTE
+ riz Lot:
+ to au 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 0,6 ml o nã
+ 6. OUTRAS Dompé Biotec S. p. A. já to en m a ic ed M
+ 28 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO EMBALAGEM EXTERIOR
+ 1. NOME DO MEDICAMENTO Neupopeg 6 mg solução injectável em caneta pré-cheia Pegfilgrastim
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada caneta pré-cheia contém 6 mg de pegfilgrastim em 0,6 ml (10 mg/ml) de solução injectável.
+ 3. LISTA DOS EXCIPIENTES Excipientes: acetado de sódio, sorbitol (E420), polissorbato 20 e água para preparações injectáveis.
+ o ad Excipientes conhecidos por terem uma acção confirmada: sorbitol (E420), acetato de sódio.
+ riz Consultar o folheto informativo para mais informação.
+ to 4. FORMA FARMACÊUTICA E CONTEÚDO
+ au Solução injectável em caneta pré-cheia para administração única (0,6 ml). Embalagem de 1 caneta. o nã
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Para administração subcutânea. já
+ Consultar o folheto informativo antes de utilizar. to
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS en
+ Manter fora do alcance e da vista das crianças. m a
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO ic
+ Evitar uma agitação vigorosa. ed
+ 8. PRAZO DE VALIDADE M EXP.: 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico. Não congelar. Manter dentro da embalagem exterior, para proteger da luz ..
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 29 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Dompé Biotec S. p. A. Via San Martino 12 I-20122 Milan Itália
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/02/228/003 13. NÚMERO DO LOTE Lote: o ad 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ riz Medicamento sujeito a receita médica.
+ to 15. INSTRUÇÕES DE UTILIZAÇÃO
+ au 16. INFORMAÇÃO EM BRAILLE o Neulasta nã já to en m a ic ed M
+ 30 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO RÓTULO DA CANETA PRÉ-CHEIA
+ 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Neupopeg 6 mg injectável Pegfilgrastim SC
+ 2. MODO DE ADMINISTRAÇÃO o 3. PRAZO DE VALIDADE
+ ad EXP.:
+ riz 4. NÚMERO DO LOTE
+ to Lot: au 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE o nã
+ 0,6 ml 6. OUTRAS já
+ Dompé Biotec S. p. A. to en m a ic ed M
+ 31 M ed ic am en to
+ 32 já nã
+ o
+ B. FOLHETO INFORMATIVO au to riz ad
+ o
+ FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Neupopeg 6 mg solução injectável em seringa pré-cheia pegfilgrastim
+ Leia atentamente este folheto antes de utilizar este medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ o Neste folheto
+ ad 1. O que é Neupopeg e para que é utilizado
+ riz 2. Antes de utilizar Neupopeg 3. Como utilizar Neupopeg
+ to 4. Efeitos secundários possíveis 5. Como conservar Neupopeg au 6. Outras informações o 1. O QUE É NEUPOPEG E PARA QUE É UTILIZADO nã
+ O Neupopeg é utilizado para reduzir a duração da neutropenia (baixo número de glóbulos brancos) e a ocorrência da neutropenia febril (baixo número de glóbulos brancos com febre) que podem ser já
+ causadas pela administração de quimioterapia citotóxica (medicamentos que destroem as células com crescimento acelerado). Os glóbulos brancos são importantes uma vez que ajudam o seu corpo a to
+ combater as infecções. Estas células são muito sensíveis aos efeitos da quimioterapia que pode en
+ provocar uma diminuição do número destas células no seu corpo. Se o número de glóbulos brancos diminuir até um nível muito baixo podem não ser suficientes para combater as bactérias e pode correr um risco aumentado de infecção. m a
+ O seu médico prescreveu-lhe o Neupopeg para estimular a sua medula óssea (parte do osso que produz as células do sangue) a produzir mais glóbulos brancos, que ajudarão o seu corpo a combater as ic
+ infecções. ed M
+ 2. ANTES DE UTILIZAR NEUPOPEG Não utilize Neupopeg • se tem alergia (hipersensibilidade) ao pegfilgrastim, filgrastim, proteínas derivadas da E. coli, ou a qualquer outro componente do Neupopeg.
+ Tome especial cuidado com Neupopeg Por favor diga ao seu médico: • se tem tosse, febre e dificuldade em respirar;
+ • se tem anemia falciforme;
+ 33 • se tem dor abdominal no quadrante superior esquerdo ou dor em pontada no ombro esquerdo;
+ • se souber que é alérgico ao látex. A protecção da agulha da seringa pré-cheia contém um derivado do látex que pode causar reacções alérgicas graves.
+ Utilizar Neupopeg com outros medicamentos
+ Informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos sem receita médica.
+ Gravidez e aleitamento Consulte o seu médico ou farmacêutico antes de tomar qualquer medicamento. O Neupopeg não foi testado em mulheres grávidas. É importante que informe o seu médico se:
+ o • estiver grávida;
+ ad • pensa poder estar grávida; ou
+ riz • planeia engravidar.
+ to Deve interromper o aleitamento se for utilizar o Neupopeg. au Condução de veículos e utilização de máquinas o Os efeitos do Neupopeg sobre a capacidade de conduzir e utilizar máquinas não são conhecidos. nã
+ Informações importantes sobre alguns componentes de Neupopeg já
+ Neupopeg contém sorbitol (um tipo de açúcar). Se o seu médico lhe disse que tem intolerância a alguns açucares, contacte o seu médico antes de utilizar Neupopeg. Neupopeg é essencialmente sódio-to
+ livre. en m
+ 3. COMO UTILIZAR NEUPOPEG a
+ O Neupopeg é para ser administrado a adultos com 18 ou mais anos de idade. ic
+ Utilize Neupopeg sempre de acordo com as indicações do médico. Fale com o seu médico ou ed
+ farmacêutico se tiver dúvidas. A dose habitual é uma injecção subcutânea (sob a pele) de 6 mg utilizando a seringa pré-cheia e deverá ser administrada aproximadamente 24 horas após a última dose M
+ de quimioterapia, no final de cada ciclo de quimioterapia.
+ Não agite vigorosamente Neupopeg, uma vez que pode afectar a actividade do fármaco.
+ Administrar a si próprio a injecção de Neupopeg
+ O seu médico poderá decidir que é melhor para si administrar você mesmo a injecção de Neupopeg. Se assim for, o médico ou enfermeiro demonstrarão como deve injectar o Neupopeg a si próprio. Não tente injectar a si próprio o medicamento se não foi devidamente treinado.
+ Leia a secção no fim deste folheto para obter mais informações sobre como administrar o Neupopeg a si mesmo.
+ 34 Se utilizar mais Neupopeg do que deveria
+ Se utilizar mais Neupopeg do que a dose prescrita deverá contactar o seu médico, enfermeiro ou farmacêutico.
+ Caso se tenha esquecido de tomar Neupopeg
+ No caso de se esquecer de uma dose de Neupopeg, deverá contactar o seu médico para decidir quando deverá ser administrada a dose seguinte.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todos os medicamentos, o Neupopeg pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ o Um efeito secundário muito frequente (provável de ocorrer em mais de 1 em cada 10 doentes) é a dor
+ ad óssea. O seu médico dir-lhe-á o que deverá tomar para aliviar a dor óssea.
+ riz Os efeitos secundários frequentes (provável de ocorrer em menos de 1 em cada 10 doentes) incluem: dor e vermelhidão no local de administração, dores de cabeça, dores generalizadas e dores nas
+ to articulações, músculos, tórax, membros, pescoço ou nas costas. Um efeito secundário pouco frequente (provável de ocorrer em menos de 1 em cada 100 doentes) é a náusea. au Foram notificadas raras (provável de ocorrer em menos de 1 em cada 1 000 doentes) reacções do tipo alérgico associadas ao Neupopeg, incluindo vermelhidão e rubor, erupção cutânea, comichão em áreas o inchadas da pele e anafilaxia (fraqueza, baixa da pressão arterial, dificuldade em respirar, inchaço nã
+ daface).
+ Aumento do tamanho do baço e casos muito raros (provável de ocorrer em menos de 1 em cada 10 já
+ 000 doentes) de ruptura esplénica foram notificados em após a utilização de Neupopeg. Alguns casos de ruptura esplénica foram fatais. to en
+ É importante que contacte imediatamente o seu médico se sentir dor na parte superior esquerda do seu abdómen ou dor tipo pontada no ombro esquerdo, já que estas dores podem reflectir problemas com o seu baço. m a
+ Foram notificados casos raros (provável de ocorrer em menos de 1 em cada 1 000 doentes) de problemas de respiratórios, após tomar G-CSFs. Por favor, contacte o seu médico se tiver tosse, febre ic
+ ou dificuldade em respirar. ed
+ Algumas alterações podem ocorrer no seu sangue, mas estas alterações serão detectadas nas suas M
+ análises sanguíneas periódicas. Pode também ocorrer diminuição do número de plaquetas, podendo originar o aperecimento de nódoas negras. Durante um período curto de tempo a sua contagem de glóbulos brancos pode ser superior.
+ Em casos raros (provável de ocorrer em menos de 1 em cada 1 000 doentes) verificou-se a ocorrência de Síndrome de Sweet (lesões dolorosas, inchadas, de cor acizentada, nos membros e, por vezes, na face e pescoço, acompanhadas de febre), mas outros factores poderão ter contribuído para esta ocorrência.
+ Em doentes a utilizar Neupopeg ocorreram casos muito raros (provável de ocorrer em menos de 1 em cada 10 000 doentes) de vasculite cutânea (inflamação dos vasos sanguíneos na pele).
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 35 5. COMO CONSERVAR NEUPOPEG
+ Manter fora do alcance e da vista das crianças.
+ Não utilize Neupopeg após o prazo de validade impresso na embalagem exterior e no rótulo da seringa após a abreviatura EXP. O prazo de validade corresponde ao último dia do mês indicado.
+ Conservar no frigorífico (2°C – 8°C). Pode retirar o Neupopeg do frigorífico e mantê-lo à temperatura ambiente (não acima dos 30°C) por um período não superior a 3 dias. Quando uma seringa é retirada do frigorífico e atingiu a temperatura ambiente (não acima dos 30°C), deve ser utilizada dentro dos próximos 3 dias ou deve ser eliminada.
+ Não congelar. Neupopeg pode ser utilizado se tiver sido congelado acidentalmente, durante um período inferior a 24 horas
+ o ad Manter o recipiente dentro da embalagem exterior para proteger da luz.
+ riz Não use o Neupopeg se estiver turvo ou com partículas no interior.
+ to Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a au proteger o ambiente. o 6. OUTRAS INFORMAÇÕES nã
+ Qual a composição de Neupopeg já
+ O Neupopeg contém a substância activa pegfilgrastim. O pegfilgrastim é uma proteína produzida por biotecnologia numa bactéria chamada E. coli. Pertence a um grupo de proteínas denominadas to
+ citocinas, e é muito semelhante a uma proteína natural (factor de estimulação das colónias de en
+ granulócitos) produzida pelo nosso próprio corpo.
+ A substância activa é o pegfilgrastim. Cada seringa pré-cheia contém 6 mg de pegfilgrastim em 0,6 ml m
+ de solução. a ic
+ Os outros componentes são acetato de sódio, sorbitol (E420), polissorbato 20 e água para preparações injectáveis. ed
+ Qual o aspecto de Neupopeg e conteúdo da embalagem M
+ Neupopeg é uma solução injectável acondicionada numa seringa pré-cheia (6 mg/0,6 ml).
+ Cada embalagem contém 1 seringa pré-cheia. As seringas podem estar disponíveis quer em embalagens blister, quer em embalagens não blister. É uma solução límpida e incolor.
+ Fabricante: Amgen Europe B. V. Minervum 7061 4817 ZK Breda Holanda
+ 36 Titular da Autorização de Introdução no Mercado Dompé Biotec S. p. A. Via San Martino 12 I-20122 Milan Itália
+ Informação adicional Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado:
+ Este folheto foi aprovado pela última vez em Janeiro 2008.
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu/
+ o ad Informação de como administrar a si próprio uma injecção de Neupopeg seringa pré-cheia
+ riz Esta secção contém informação sobre como deve injectar o Neupopeg a si próprio. É importante salientar que não deve tentar injectar-se se não tiver recebido o devido treino por parte do seu médico,
+ to enfermeiro ou farmacêutico. Se tiver alguma dúvida sobre a auto-administração, deve contactar o seu médico, enfermeiro ou farmacêutico para obter os esclarecimentos necessários. au Como é que você ou outra pessoa que faça a injecção, deve utilizar Neupopeg seringa pré-cheia? o Necessitará de administrar a si próprio a injecção no tecido sob a pele. Este processo é conhecido pelo nã
+ nome de injecção subcutânea. já
+ Equipamento de que necessita Para administrar a si próprio uma injecção irá necessitar de: to en
+ • Uma seringa pré-cheia de Neupopeg; e
+ • m
+ Compressas embebidas em álcool ou equivalentes. a
+ O que devo fazer antes de administrar a mim próprio uma injecção subcutânea de Neupopeg? ic
+ 1. Retirar a seringa pré-cheia de Neupopeg do frigorífico. ed
+ 2. Não agitar a seringa pré-cheia. M
+ 3. Não remova a protecção da seringa até estar pronto para se injectar.
+ 4. Verificar a data de validade no rótulo da seringa pré-cheia (EXP.). Não utilize se a data já tiver expirado, isto é, se já tiver passado o último dia do mês de referência.
+ 5. Verificar o aspecto do Neupopeg. Deve ser um líquido límpido e transparente. Se estiver turvo ou com partículas no interior, não deverá utilizá-lo.
+ 6. Para uma administração mais confortável da injecção, deixe a seringa pré-cheia durante 30 minutos à temperatura ambiente ou segure a seringa cuidadosamente na sua mão durante alguns minutos. Não aqueça o Neupopeg de outra forma que não as indicadas (por exemplo, no microondas ou em água quente).
+ 7. Lavar bem as mãos. 37 8. Instale-se num local confortável, bem iluminado, e coloque tudo o que necessita ao seu alcance.
+ Como devo preparar a minha injecção de Neupopeg?
+ Antes de injectar o Neupopeg deverá fazer o seguinte:
+ 1. Segure a seringa e retire gentilmente a protecção da agulha sem torcer. Puxe a direito como mostram as figuras 1 e 2. Não toque na agulha ou empurre o êmbolo.
+ 2. Pode observar uma pequena bolha de ar na seringa pré-cheia. Não tem que remover a bolha de ar antes de se injectar. Injectar a solução com a bolha de ar é inofensivo.
+ 3. Poderá agora utilizar a seringa pré-cheia.
+ o ad Onde devo administrar a injecção?
+ riz Os locais ideais para administrar a si próprio a injecção são os seguintes:
+ to
+ • •
+ na parte superior da coxa; e no abdómen, excepto a zona à volta do umbigo. au
+ Se for outra pessoa a administrar a injecção, esta poderá ser administrada também na
+ parte de trás do braço. o nã
+ Como administro a injecção? 1. Desinfecte a pele, limpando com uma compressa embebida em álcool, e agarre a pele entre o já
+ dedo polegar e o indicativo sem apertar. to
+ 2. Espete a agulha completamente na pele tal como lhe foi explicado pelo seu enfermeiro ou pelo en
+ seu médico.
+ 3. Puxe levemente o êmbolo de forma a verificar que não perfurou nenhuma veia. Se entrar sangue m
+ para dentro da seringa retire a agulhe e espete-a num sítio diferente. a ic
+ 4. Injecte o líquido devagar e numa velocidade constante, segurando sempre a pele entre os dois dedos. ed
+ 5. Após injectar o líquido, retire a agulha e liberte a pele. M
+ 6. Se notar uma mancha de sangue no local de administração, pode pressionar com algodão ou gaze. Não esfregue no local da injecção. Se necessário poderá cobrir o local da injecção com uma gaze.
+ 7. Cada seringa deverá ser utilizada apenas para uma injecção e a quantidade de Neupopeg que ficar na seringa não deverá ser utilizada posteriormente.
+ Lembre-se Se tiver algum problema ou dúvida não hesite em contactar o seu médico ou enfermeiro para obter esclarecimentos adicionais.
+ 38 Eliminação das seringas usadas
+ • Não volte a colocar a protecção em seringas utilizadas.
+ • Manter as seringas fora do alcance e da vista das crianças.
+ • A seringa pré-cheia utilizada deve ser eliminada de acordo com os requisitos locais. Pergunte ao seu farmacêutico como eliminar os medicamentos que já não são necessários. Estas medidas irão ajudar a proteger o ambiente.
+ o ad riz to au o nã já to en m a ic ed M
+ 39 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Neupopeg 6 mg solução injectável em caneta pré-cheia pegfilgrastim
+ Leia atentamente este folheto antes de utilizar este medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ o Neste folheto
+ ad 1. O que é Neupopeg e para que é utilizado
+ riz 2. Antes de utilizar Neupopeg 3. Como utilizar Neupopeg
+ to 4. Efeitos secundários possíveis 5. Como conservar Neupopeg au 6. Outras informações o 1. O QUE É NEUPOPEG E PARA QUE É UTILIZADO nã
+ O Neupopeg é utilizado para reduzir a duração da neutropenia (baixo número de glóbulos brancos) e a ocorrência da neutropenia febril (baixo número de glóbulos brancos com febre) que podem ser já
+ causadas pela administração de quimioterapia citotóxica (medicamentos que destroem as células com crescimento acelerado). Os glóbulos brancos são importantes uma vez que ajudam o seu corpo a to
+ combater as infecções. Estas células são muito sensíveis aos efeitos da quimioterapia que pode en
+ provocar uma diminuição do número destas células no seu corpo. Se o número de glóbulos brancos diminuir até um nível muito baixo podem não ser suficientes para combater as bactérias e pode correr um risco aumentado de infecção. m a
+ O seu médico prescreveu-lhe o Neupopeg para estimular a sua medula óssea (parte do osso que produz as células do sangue) a produzir mais glóbulos brancos, que ajudarão o seu corpo a combater as ic
+ infecções. ed M
+ 2. ANTES DE UTILIZAR NEUPOPEG Não utilize Neupopeg • se tem alergia (hipersensibilidade) ao pegfilgrastim, filgrastim, proteínas derivadas da E. coli, ou a qualquer outro componente do Neupopeg.
+ Tome especial cuidado com Neupopeg Por favor diga ao seu médico: • se tem tosse, febre e dificuldade em respirar;
+ • se tem anemia falciforme;
+ 40 • se tem dor abdominal no quadrante superior esquerdo ou dor em pontada no ombro esquerdo;
+ • se souber que é alérgico ao látex. A protecção da agulha da seringa pré-cheia contém um derivado do látex que pode causar reacções alérgicas graves.
+ Utilizar Neupopeg com outros medicamentos
+ Informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos sem receita médica.
+ Gravidez e aleitamento Consulte o seu médico ou farmacêutico antes de tomar qualquer medicamento. O Neupopeg não foi testado em mulheres grávidas. É importante que informe o seu médico se:
+ • estiver grávida;
+ o ad • pensa poder estar grávida; ou
+ riz • planeia engravidar.
+ to Deve interromper o aleitamento se for utilizar o Neupopeg.
+ au Condução de veículos e utilização de máquinas o Os efeitos do Neupopeg sobre a capacidade de conduzir e utilizar máquinas não são conhecidos. nã
+ Informações importantes sobre alguns componentes de Neupopeg já
+ Neupopeg contém sorbitol (um tipo de açúcar). Se o seu médico lhe disse que tem intolerância a alguns açucares, contacte o seu médico antes de utilizar Neupopeg. Neupopeg é essencialmente sódio-livre. to en
+ 3. COMO UTILIZAR NEUPOPEG (SURECLICK) m
+ O Neupopeg é para ser administrado a adultos com 18 ou mais anos de idade. a ic
+ Utilize Neupopeg sempre de acordo com as indicações do seu médico. Fale com o seu médico ou farmacêutico se tiver dúvidas. A dose habitual é uma injecção subcutânea (sob a pele) de 6 mg ed
+ utilizando a seringa pré-cheia e deverá ser administrada aproximadamente 24 horas após a última dose de quimioterapia, no final de cada ciclo de quimioterapia. M
+ Não agite vigorosamente Neupopeg, uma vez que pode afectar a actividade do fármaco.
+ Administrar a si próprio a injecção de Neupopeg
+ O seu médico poderá decidir que é melhor para si administrar você mesmo a injecção de Neupopeg. Se assim for, o médico ou enfermeiro demonstrarão como deve injectar o Neupopeg a si próprio. Não tente injectar a si próprio o medicamento se não foi devidamente treinado.
+ Leia a secção no fim deste folheto para obter mais informações sobre como administrar o Neupopeg a si mesmo.
+ 41 Se utilizar mais Neupopeg do que deveria
+ Se utilizar mais Neupopeg do que a dose prescrita deverá contactar o seu médico, enfermeiro ou farmacêutico.
+ Caso se tenha esquecido de tomar Neupopeg
+ No caso de se esquecer de uma dose de Neupopeg, deverá contactar o seu médico para decidir quando deverá ser administrada a dose seguinte.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todos os medicamentos, o Neupopeg pode causar ter efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ o Um efeito secundário muito frequente (provável de ocorrer em mais de 1 em cada 10 doentes) é a dor
+ ad óssea. O seu médico dir-lhe-á o que deverá tomar para aliviar a dor óssea.
+ riz Os efeitos secundários frequentes (provável de ocorrer em menos de 1 em cada 10 doentes) incluem: dor e vermelhidão no local de administração, dores de cabeça, dores generalizadas e dores nas
+ to articulações, músculos, tórax, membros, pescoço ou nas costas. Um efeito secundário pouco frequente (provável de ocorrer em menos de 1 em cada 100 doentes) é a náusea. au Foram notificadas raras (provável de ocorrer em menos de 1 em cada 1 000 doentes) reacções do tipo alérgico associadas ao Neupopeg, incluindo vermelhidão e rubor, erupção cutânea, comichão em áreas o inchadas da pele e anafilaxia (fraqueza, baixa da pressão arterial, dificuldade em respirar, inchaço nã
+ daface).
+ Aumento do tamanho do baço e casos muito raros (provável de ocorrer em menos de 1 em cada 10 já
+ 000 doentes) de ruptura esplénica foram notificados após a utilização de Neupopeg. Alguns casos de ruptura esplénica foram fatais. to en
+ É importante que contacte imediatamente o seu médico se sentir dor na parte superior esquerda do seu abdómen ou dor tipo pontada no ombro esquerdo, já que estas dores podem reflectir problemas com o seu baço. m a
+ Foram notificados casos raros (provável de ocorrer em menos de 1 em cada 1 000 doentes) de problemas de respiratórios, após tomar G-CSFs. Por favor, contacte o seu médico se tiver tosse, febre ic
+ ou dificuldade em respirar. ed
+ Algumas alterações podem ocorrer no seu sangue, mas estas alterações serão detectadas nas suas M
+ análises sanguíneas periódicas. Pode também ocorrer diminuição do número de plaquetas, podendo originar o aperecimento de nódoas negras. Durante um período curto de tempo a sua contagem de glóbulos brancos pode ser superior.
+ Em casos raros provável de ocorrer em menos de 1 em cada 1 000 doentes) verificou-se a ocorrência de Síndrome de Sweet (lesões dolorosas, inchadas, de cor acizentada, nos membros e, por vezes, na face e pescoço, acompanhadas de febre), mas outros factores poderão ter contribuído para esta ocorrência.
+ Em doentes a utilizar Neupopeg ocorreram casos muito raros (provável de ocorrer em menos de 1 em cada 10 000 doentes) de vasculite cutânea (inflamação dos vasos sanguíneos na pele).
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 42 5. COMO CONSERVAR NEUPOPEG
+ Manter fora do alcance e da vista das crianças.
+ Não utilize Neupopeg após o prazo de validade impresso na embalagem exterior e no rótulo da caneta após a abreviatura EXP .. O prazo de validade corresponde ao último dia do mês indicado.
+ Conservar no frigorífico (2°C – 8°C). Pode retirar o Neupopeg do frigorífico e mantê-lo à temperatura ambiente (não acima dos 30°C) por um período não superior a 3 dias. Quando uma caneta é retirada do frigorífico e atingiu a temperatura ambiente (não acima dos 30°C), deve ser utilizada dentro dos próximos 3 dias ou deve ser eliminada.
+ Não congelar. Neupopeg pode ser utilizado se tiver sido congelado acidentalmente, durante um período inferior a 24 horas
+ o ad Manter o recipiente dentro da embalagem exterior para proteger da luz.
+ riz Não use o Neupopeg se estiver turvo ou com partículas no interior.
+ to Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a au proteger o ambiente. o 6. OUTRAS INFORMAÇÕES nã
+ Qual a composição de Neupopeg já
+ O Neupopeg contém a substância activa pegfilgrastim. O pegfilgrastim é uma proteína produzida por biotecnologia numa bactéria chamada E. coli. Pertence a um grupo de proteínas denominadas to
+ citocinas, e é muito semelhante a uma proteína natural (factor de estimulação das colónias de en
+ granulócitos) produzida pelo nosso próprio corpo.
+ A substância activa é o pegfilgrastim. Cada caneta pré-cheia contém 6 mg de pegfilgrastim em 0,6 ml m
+ de solução. a ic
+ Os outros componentes são acetato de sódio, sorbitol (E420), polissorbato 20 e água para preparações injectáveis. ed
+ Qual o aspecto de Neupopeg e conteúdo da embalagem M
+ Neupopeg é uma solução injectável acondicionada numa seringa pré-cheia(6 mg/0,6 ml).
+ Cada embalagem contém 1 caneta pré-cheia. É uma solução límpida e incolor.
+ Fabricante: Amgen Europe B. V. Minervum 7061 4817 ZK Breda Holanda
+ 43 Titular da Autorização de Introdução no Mercado Dompé Biotec S. p. A. Via San Martino 12 I-20122 Milan Itália
+ Informação adicional Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado.
+ Este folheto foi aprovado pela última vez em Janeiro 2008.
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu/
+ o ad Informação de como administrar a si próprio uma injecção de Neupopeg caneta pré-cheia (SureClick)
+ riz Esta secção contém informação sobre como deve injectar o Neupopeg a si próprio, utilizando a caneta
+ to pré-cheia. É importante salientar que não deve tentar injectar-se se não tiver recebido o devido treino por parte do seu médico ou enfermeiro. Se tiver alguma dúvida sobre a auto-administração, deve au contactar o seu médico ou enfermeiro para obter os esclarecimentos necessários. o Como é que você ou outra pessoa que faça a injecção, deve utilizar Neupopeg caneta pré-cheia (Sureclick)? nã
+ Necessitará de administrar a si próprio a injecção no tecido sob a pele. Este processo é conhecido pelo já
+ nome de injecção subcutânea. to
+ Equipamento: en Para administrar a si próprio uma injecção irá necessitar de:
+ • m
+ Uma caneta pré-cheia de Neupopeg; e a
+ • Compressas embebidas em álcool ou equivalentes. ic ed
+ Preparação para a injecção de Neupopeg? 1. Retirar a caneta pré-cheia de Neupopeg do frigorífico. M
+ 2. Não agitar a caneta pré-cheia. 3. Não remova a peça cinzenta de protecção da agulha da caneta pré-cheia até estar pronto para se injectar.
+ 4. Verificar o prazo de validade no rótulo da caneta pré-cheia (EXP.). Não utilize se a data já tiver expirado, isto é, se já tiver passado o último dia do mês de referência.
+ 5. Verificar o aspecto do Neupopeg através da janela de verificação da caneta pré-cheia. Deve ser um líquido límpido e transparente. Se estiver turvo ou com partículas no interior, não deverá utilizá-lo.
+ 44 6. Para uma administração mais confortável da injecção, deixe a caneta pré-cheia durante 30 minutos à temperatura ambiente. Não aqueça o Neupopeg de outra forma que não as indicadas (por exemplo, no microondas ou em água quente).
+ 7. Lavar bem as mãos. 8. Instale-se num local confortável, bem iluminado, e coloque tudo o que necessita ao seu alcance.
+ o ad riz to au Antes utilização (com peça cinzenta
+ Antes utilização (sem peça cinzenta Após utilização (cobertura de de protecção agulha) de protecção agulha) o nã
+ segurança da agulha para baixo)
+ Onde devo administrar a injecção? Para realizar uma injecção com sucesso é necessário uma área firme para aplicar a injecção. já
+ Os locais recomendados para a injecção, utilizando a caneta pré-cheia são to
+ 1 a parte superior da coxa e a parte detrás do braço se administrado por uma enfermeiro ou prestador de cuidados (ver figura 1). en
+ O abdómen pode ser considerado quando a coxa e a parte detrás do braço m
+ são considerados pelo profissional de saúde como inapropriados. a ic ed
+ Como dar uma injecção na coxa ou na parte detrás do braço? M
+ • Desinfecte a pele com uma compressa embebida em álcool. 2
+ • Remova a peça cinzenta de protecção da agulha (ver figura 2).
+ 45 • A caneta pré-cheia tem uma protecção que o protege de picadas de agulha ou perda de medicamento por choques ou toques acidentais. 3 Informação importante para o passo A do processo de injecção. Pressione a caneta pré-cheia com firmeza suficiente contra a pele para que o dispositivo de segurança vá completamente para dentro (ver figura 3).
+ Dispositivo segurança Dispositivo segurança para fora
+ completamente para dnetro
+ A. Posicione a caneta pré-cheia no local de administração fazendo um
+ ângulo recto (90 graus) e pressione com firmeza contra a pele. Espere
+ Inicialmente, mantenha o o
+ (ver figura).
+ dedo polegar for a do botão
+ ad verde A
+ riz to au o 2 liberte nã
+ B. Enquanto segura no local a caneta pré-cheia, (1) pressione e (2) liberte 1 pressione o botão verde no topo. Irá ouvir um “ estalido ”. Não levante a caneta já
+ pré-cheia.
+ en
+ to
+ B m a
+ C. Após o segundo “ estalido ” (ou contagem até 15) levante a caneta pré-ic
+ C cheia do local de administração. ed M
+ Se sentir dificuldades escolha um local com maior firmeza para aplicar a injecção.
+ A cobertura de segurança da agulha irá movimentar-se para baixo ao longo da agulha até bloquear. A janela de verificação ficará verde, confirmando que a injecção foi completa.
+ Se notar uma mancha de sangue no local de administração, pode pressionar com algodão ou gaze. Não esfregue no local da injecção. Se necessário poderá cobrir o local da injecção com uma gaze.
+ Utilize uma caneta pré-cheia de Neupopeg apenas para uma injecção.
+ 46 4 Como injectar no abdómen?
+ Técnica importante de fazer uma prega na pele 5 O objectivo da técnica de fazer uma prega na pele é o de criar uma zona firme para a injecção.
+ Escolha um local a pelo menos a 5 cm de distância do umbigo (ver figura 4).
+ Faça uma prega abdominal com firmeza, pressionando entre os dedos polegar e indicador, no sentido
+ o de criar uma área de pele de, pelo menos 3 cm de largura (duas vezes a largura da ponta da caneta pré-
+ ad cheia). Mantenha com firmeza a prega de pele durante todo o procedimento (ver figura 5).
+ riz 6 Informação importante para o passo A do processo de injecção.
+ to Pressione a caneta pré-cheia com firmeza suficiente contra a pele para que o dispositivo de segurança vá completamente para dentro (ver figura 6). au A caneta pré-cheia tem uma protecção que o protege de picadas de agulha o ou perda de medicamento por choques ou toques acidentais. nã
+ Dispositivo Dispositivo já
+ segurança para fora
+ segurança para dentro
+ A Inicialmente, mantenha o
+ A. to dedo polegar for a do
+ Centre a caneta pré-cheia na área da pele com prega fazendo um ângulo recto (90 graus) e pressione com firmeza contra a pele. en
+ botão verde
+ Espere. m a ic
+ 2 liberte
+ B. B Mantendo com firmeza a prega da pele, (1) pressione e (2) liberte o ed
+ 1 pressione
+ botão verde no topo. Irá ouvir um “ estalido ”. Não levante a caneta pré-cheia. M
+ C. Após o segundo “ estalido ” (ou contagem até 15) levante a caneta C pré-cheia do local de administração.
+ Se sentir dificuldades escolha um local com maior firmeza para aplicar a injecção.
+ A cobertura de segurança da agulha irá movimentar-se para baixo ao longo da agulha até bloquear. A janela de verificação ficará verde, confirmando que a injecção foi completa.
+ 47 Se notar uma mancha de sangue no local de administração, pode pressionar com algodão ou gaze. Não esfregue no local da injecção. Se necessário poderá cobrir o local da injecção com uma gaze.
+ Utilize uma caneta pré-cheia de Neupopeg apenas para uma injecção.
+ Lembre-se Se tiver algum problema, não tenha receio em perguntar ao seu médico ou enfermeiro para o ajudar ou aconselhar.
+ Eliminação das canetas pré-cheias usadas • Devido à cobertura de segurança, não é recomendado colocar novamente a peça cinzenta de protecção da agulha na caneta pré-cheia usada.
+ • Mantenha as canetas fora do alcance e da vista das crianças.
+ o ad • A caneta pré-cheia usada deve ser eliminada de acordo com os requisitos locais. Pergunte ao seu farmacêutico como eliminar os medicamentos que já não são necessários. Estas medidas irão
+ riz ajudar a proteger o ambiente.
+ to au o nã já to en m a ic ed M
+ 48

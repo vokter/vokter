@@ -1,0 +1,248 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. NOME DO MEDICAMENTO
+ Tygacil 50 mg pó para solução para perfusão.
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada frasco para injectáveis de Tygacil contém 50 mg de tigeciclina. Após reconstituição,1 ml contém 10 mg de tigeciclina.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Pó para solução para perfusão. Pó ou grumo liofilizado alaranjado. 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações Terapêuticas O Tygacil está indicado no tratamento das seguintes infecções (ver secções 4.4 e 5.1):
+ • Infecções complicadas da pele e tecidos moles • Infecções complicadas intra-abdominais
+ Devem ser tidas em consideração as recomendações oficiais referentes ao uso adequado de agentes antibacterianos.
+ 4.2 Posologia e modo de administração Posologia A dose recomendada em adultos é uma dose inicial de 100 mg, seguida de 50 mg de 12 em 12 horas durante 5 a 14 dias.
+ A duração da terapêutica deve ser determinada em função da gravidade, do local de infecção e da resposta clínica do doente.
+ Insuficiência hepática Em doentes com compromisso hepático ligeiro a moderado (Child Pugh A e Child Pugh B) não é necessário ajuste posológico.
+ Em doentes com compromisso hepático grave (Child Pugh C), a dose de Tygacil deve ser diminuída para 25 mg de 12 em 12 horas após a dose inicial de 100 mg. Os doentes com compromisso hepático grave (Child Pugh C) devem ser tratados com precaução e a resposta ao tratamento deve ser monitorizada (ver secções 4.4 e 5.2).
+ Insuficiência renal Não é necessário ajuste posológico em doentes com compromisso renal ou em doentes submetidos a hemodiálise (ver secção 5.2).
+ 2 Doentes Idosos Não é necessário ajuste posológico em doentes idosos (ver secção 5.2).
+ Doentes pediátricos A utilização de Tygacil não é recomendada em crianças e adolescentes com menos de 18 anos devido à inexistência de dados de segurança e de eficácia (ver secções 5.2 e 4.4).
+ Modo de administração Tygacil é administrado apenas por perfusão intravenosa durante 30 a 60 minutos (ver secção 6.6).
+ 4.3 Contra-indicações Hipersensibilidade à substância activa ou a qualquer um dos excipientes. Doentes hipersensíveis aos antibióticos da classe das tetraciclinas podem ser hipersensíveis à tigeciclina.
+ 4.4 Advertências e precauções especiais de utilização
+ Têm sido notificados casos de reacções anafilácticas/anafilactóides, potencialmente fatais, com a tigeciclina (ver secções 4.3 e 4.8).
+ Os antibióticos da classe das glicilciclinas são estruturalmente semelhantes aos antibióticos da classe das tetraciclinas. A tigeciclina pode causar reacções adversas semelhantes às dos antibióticos da classe das tetraciclinas. Tais reacções podem incluir fotossensibilidade, pseudotumor cerebral, pancreatite e acção anti-anabólica que levou ao aumento do azoto ureico do sangue (AUS), azotemia, acidose e hiperfosfatemia (ver secção 4.8).
+ Ocorreu pancreatite aguda, a qual pode ser grave (frequência: pouco frequente) associada ao tratamento com tigeciclina (ver secção 4.8). O diagnóstico de pancreatite aguda deverá ser considerado em doentes tratados com tigeciclina que desenvolvem sintomas clínicos, sinais, ou alterações laboratoriais sugestivas de pancreatite aguda. A maioria dos casos notificados surgiram após, pelo menos, uma semana de tratamento. Foram notificados casos em doentes sem factores de risco conhecidos para pancreatite. Os doentes geralmente melhoram após descontinuação da tigeciclina. Deverá ser tida em consideração a interrupção do tratamento com tigeciclina em casos em que se suspeita de desenvolvimento de pancreatite.
+ A experiência da utilização da tigeciclina no tratamento de infecções em doentes com patologias graves subjacentes é limitada.
+ Em ensaios clínicos no tratamento de infecções complicadas da pele e tecidos moles, o tipo de infecção mais frequente nos doentes tratados com tigeciclina foi celulite (59%) seguido de abcessos major (27,5%). Doentes com patologia subjacente grave, tal como os imunocomprometidos, doentes com infecções ulcerosas de decúbito ou doentes que apresentavam infecções requerendo uma duração de tratamento superior a 14 dias (por exemplo, fasceíte necrosante), não foram incluídos. Foi incluído um número reduzido de doentes com infecções de pé diabético (5%). Foi incluído um número limitado de doentes com factores de co-morbilidade, tais como diabetes (20%), doença vascular periférica (7%), consumo de drogas por via intravenosa (2%) e infecção VIH positiva (1%). A experiência no tratamento de doentes com bacteriemia concomitante é também limitada (3%). Assim, aconselha-se precaução no tratamento destes doentes.
+ Em ensaios clínicos no tratamento de infecções complicadas intra-abdominais, o tipo de infecção mais frequente nos doentes tratados com tigeciclina foi apendicite complicada (51%), seguida de outros diagnósticos notificados com menor frequência, tais como colecistite complicada (14%), abcesso intra-abdominal (10%), perfuração intestinal (10%) e perfuração ulcerosa gástrica ou duodenal em menos
+ 3 de 24 horas (5%). Destes doentes,76% apresentavam peritonite difusa associada (peritonite cirurgicamente aparente). Houve um número limitado de doentes com doença grave subjacente, tal como doentes imunocomprometidos, doentes com resultados na escala APACHE II &gt; 15 (4%) ou com abcessos intra-abdominais múltiplos cirurgicamente aparentes (10%). A experiência relativa ao tratamento de doentes com bacteriemia concomitante é também limitada (6%). Assim, aconselha-se precaução no tratamento destes doentes.
+ Deve ser tida em consideração a utilização de terapêutica antibacteriana combinada quando a tigeciclina é administrada a indivíduos gravemente doentes com infecções complicadas intra-abdominais (cIAI) secundárias a perfuração intestinal clinicamente aparente ou doentes com sépsis incipiente ou choque séptico (ver secção 4.8).
+ O efeito da colestase na farmacocinética da tigeciclina não foi adequadamente estabelecido. A excreção biliar constitui aproximadamente 50% da excreção total da tigeciclina. Assim, doentes que apresentem colestase devem ser devidamente monitorizados.
+ Se a tigeciclina for administrada com anticoagulantes deve ser utilizado o tempo de protrombina ou outro teste apropriado para monitorização dos doentes (ver secção 4.5).
+ A colite pseudomembranosa tem sido notificada com quase todos os agentes antibacterianos, podendo ser de gravidade moderada ou colocar a vida em risco. Assim, é importante considerar este diagnóstico em doentes que apresentem diarreia durante ou subsequentemente à administração de qualquer agente antibacteriano (ver secção 4.8).
+ A utilização de tigeciclina pode originar proliferação de organismos não susceptíveis, incluindo fungos. Os doentes devem ser cautelosamente monitorizados durante a terapêutica. Se ocorrer uma superinfecção devem ser tomadas as medidas apropriadas (ver secção 4.8).
+ Resultados de estudos com tigeciclina em ratos demostraram descoloração óssea. A tigeciclina pode ser associada a descoloração permanente dos dentes em humanos, se utilizada durante o desenvolvimento dos dentes (ver secção 4.8).
+ O Tygacil não deve ser utilizado em crianças com menos de 8 anos de idade devido à descoloração dentária e não se recomenda em adolescentes com menos de 18 anos devido à inexistência de dados de segurança e de eficácia (ver secções 4.2 e 4.8).
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Os estudos de interacção só foram realizados em adultos.
+ A administração concomitante de tigeciclina e varfarina (25 mg em dose única) a indivíduos saudáveis resultou na diminuição da depuração da R-varfarina e da S-varfarina em 40% e 23%, e no aumento da área sob a curva (AUC) em 68% e 29%, respectivamente. O mecanismo desta interacção ainda não é conhecido. Os dados disponíveis não sugerem que esta interacção possa originar alterações significativas da razão normalizada internacional (INR). No entanto, uma vez que a tigeciclina pode prolongar o tempo de protrombina (TP) e o tempo de tromboplastina parcial activada (TTPa), os testes relevantes de coagulação devem ser cuidadosamente monitorizados quando a tigeciclina é administrada concomitantemente com anti-coagulantes (ver secção 4.4). A varfarina não afectou o perfil farmacocinético da tigeciclina.
+ A tigeciclina não é extensamente metabolizada. Assim, não é previsível que a depuração da tigeciclina seja afectada por substâncias inibidoras ou indutoras da actividade das isoformas do CYP450. In vitro, a
+ 4 tigeciclina não é um inibidor competitivo nem um inibidor irreversível das enzimas do CYP450 (ver secção 5.2).
+ Quando administrada em adultos saudáveis nas doses recomendadas, a tigeciclina não afectou a taxa ou o grau de absorção, nem a depuração da digoxina (0,5 mg seguido de 0,25 mg diariamente). A digoxina não afectou o perfil farmacocinético da tigeciclina. Assim, não é necessário ajuste posológico quando a tigeciclina é administrada com a digoxina.
+ Em estudos in vitro não foi observado antagonismo entre a tigeciclina e outras classes de antibióticos frequentemente utilizadas.
+ O uso concomitante de antibióticos e contraceptivos orais pode reduzir a efectividade dos contraceptivos orais.
+ 4.6 Gravidez e aleitamento Não existem dados suficientes sobre a utilização de tigeciclina em mulheres grávidas. Resultados obtidos em estudos com animais demonstraram que a tigeciclina pode causar dano fetal quando administrada durante a gravidez (ver secção 5.3). Desconhece-se o risco potencial para o ser humano. Tal como já é conhecido para os antibióticos da classe das tetraciclinas, a tigeciclina também pode induzir danos permanentes nos dentes (descoloração e defeitos no esmalte) e um atraso nos processos de ossificação nos fetos, expostos in útero durante a 2ª metade da gestação, e em crianças menores de oito anos de idade devido ao enriquecimento dos tecidos com um elevado turnover de cálcio e formação de complexos de quelatos de cálcio (ver secção 4.4). A tigeciclina não deverá ser utilizada durante a gravidez, a menos que tal seja claramente necessário.
+ Desconhece-se se este medicamento é excretado no leite materno. Em estudos em animais a tigeciclina é excretada no leite de ratos que amamentam. Uma vez que não pode ser excluído o risco potencial nas crianças amamentadas, durante o tratamento com tigeciclina deve ser tomada precaução e considerar a interrupção da amamentação (ver secção 5.3).
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos da tigeciclina sobre a capacidade de conduzir e utilizar máquinas. Podem ocorrer tonturas, o que poderá ter efeito na capacidade de conduzir e utilizar máquinas (ver secção 4.8).
+ 4.8 Efeitos indesejáveis O número total de doentes tratados com tigeciclina em ensaios clínicos de Fase 3 foi de 1415. Foram notificadas reacções adversas em aproximadamente 41% dos doentes tratados com tigeciclina. O tratamento foi descontinuado em 5% dos doentes devido a reacções adversas.
+ Em ensaios clínicos, as reacções adversas mais frequentes emergentes do tratamento com o medicamento foram náusea reversível (20%) e vómitos (14%), que de uma maneira geral ocorreram precocemente (dias 1 ou 2 do tratamento) e geralmente foram de gravidade ligeira ou moderada.
+ As seguintes reacções adversas foram notificadas com Tygacil, incluindo ensaios clínicos e experiência pós-comercialização:
+ 5 As categorias de frequência são expressas como: Muito frequentes (≥1/10); Frequentes (≥1/100 a &lt; 1/10); Pouco frequentes (≥1/1.000 a &lt; 1/100); Raras (≥1/10.000 a &lt; 1/1.000); Muito raras (&lt; 1/10.000)
+ Para reacções adversas identificadas a partir da experiência pós-comercialização com Tygacil provenientes de notificações espontâneas, e para as quais a frequência não pôde ser estimada, o grupo de frequência foi categorizado como desconhecido.
+ Infecções e infestações: Frequentes: Abcesso, infecções Pouco frequentes: Sépsis/choque séptico
+ Em ensaios clínicos de Fase 3, acontecimentos adversos relacionados com infecção foram mais frequentemente notificados em indivíduos tratados com tigeciclina (6,7%) vs os comparadores (4,6%). Foram observadas diferenças significativas na sépsis/choque séptico com tigeciclina (1,5%) vs os comparadores (0.5%).
+ Doenças do sangue e do sistema linfático: Frequentes: Prolongação do tempo de tromboplastina parcial activada (TTPa), prolongação do tempo de protrombina (TP) Pouco frequentes: Aumento da Razão Normalizada Internacional (INR) Desconhecidas: trombocitopenia
+ Doenças do sistema imunitário: Desconhecidas: reacções anafilácticas/anafilactóides (ver secção 4.3 e 4.4)
+ Doenças do metabolismo e da nutrição: Pouco frequentes: Hipoproteinemia
+ Doenças do sistema nervoso: Frequentes: Tonturas
+ Vasculopatias: Frequentes: Flebite Pouco frequentes: Tromboflebite
+ Doenças gastrointestinais: Muito frequentes: Náusea, vómitos, diarreia Frequentes: Dor abdominal, dispepsia, anorexia Pouco frequentes: Pancreatite aguda
+ Afecções hepatobiliares: Frequentes: Aumento da aspartato aminotransferase (AST) no soro e aumento da alaninaminotransferase (ALT) no soro, hiperbilirrubinemia
+ A AST e a ALT anormais em doentes tratados com Tygacil foram notificadas mais frequentemente no período pós-terapêutico que nos doentes tratados com comparador, em que ocorreu mais frequentemente durante o período terapêutico.
+ Pouco frequentes: Icterícia, lesão hepática maioritariamente colestática
+ Afecções dos tecidos cutâneos e subcutâneas: Frequentes: Prurido, erupção cutânea
+ 6 Perturbações gerais e alterações no local de administração: Frequentes: Cefaleia Pouco frequentes: Reacção no local de injecção, inflamação no local de injecção, dor no local de injecção, edema no local de injecção, flebite no local de injecção
+ Exames complementares de diagnóstico: Frequentes: Aumento da amilase no soro, aumento do azoto ureico do sangue (AUS)
+ Em ensaios de Fase 3 nas infecções complicadas da pele e tecidos moles (cSSSI) e nas infecções complicadas intra-abdominais (cIAI) faleceram 2,3% (32/1383) dos doentes tratados com tigeciclina e 1,6% (22/1375) dos doentes tratados com medicamentos comparadores.
+ Efeito de classe dos antibióticos: Colite pseudomembranosa a qual pode variar numa escala de gravidade de ligeira a potencialmente fatal (ver secção 4.4). Crescimento exacerbado de organismos não-susceptíveis, incluindo fungos (ver secção 4.4).
+ Efeito de classe das tetraciclinas: Os antibióticos da classe das glicilciclinas são estruturalmente similares aos antibióticos da classe das tetraciclinas. As reacções adversas da classe das tetraciclinas podem incluir fotossensibilidade, pseudotumor cerebral, pancreatite, e acção anti-anabólica a qual desencadeia AUS aumentado, azotémia, acidose, e hiperfosfatémia (ver secção 4.4).
+ A tigeciclina pode estar associada à descoloração permanente dos dentes, se usada durante o desenvolvimentos da dentição (ver secção 4.4).
+ 4.9 Sobredosagem Não existe informação específica disponível sobre o tratamento de sobredosagem. A administração intravenosa de uma dose única de 300 mg de tigeciclina durante 60 minutos em voluntários saudáveis resultou num aumento da incidência de náusea e vómitos. A tigeciclina não é removida em quantidades significativas por hemodiálise.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Tetraciclinas, código ATC: J01AA12.
+ Modo de acção A tigeciclina, um antibiótico do grupo das glicilciclinas, inibe a tradução proteica em bactérias através da ligação à sub-unidade ribossomal 30S e bloqueio da entrada de moléculas amino-acil tRNA para o local A do ribossoma. Tal previne a incorporação de resíduos de aminoácidos na elongação das cadeias peptídicas.
+ De um modo geral, a tigeciclina é considerada um bacteriostático. Com 4 vezes a concentração inibitória mínima (MIC) foi observada uma redução 2-log da contagem de colónias com tigeciclina contra o Enterococcus spp., o Staphylococcus aureus e a Escherichia coli.
+ Mecanismo de resistência A tigeciclina tem a capacidade de ultrapassar os dois mais importantes mecanismos de resistência às tetraciclinas, protecção ribossomal e bomba de efluxo. No entanto, é vulnerável a bombas de efluxo
+ 7 multi-fármaco cromossomicamente codificadas de Proteeae (ver abaixo) e Pseudomonas aeruginosa (sistema de efluxo MexXY-OprM). Não há resistência cruzada ao nível do alvo entre a tigeciclina e a maioria das classes de antibióticos.
+ Patogénios da família Proteeae (Proteus spp., Providencia spp., e Morganella spp.) são geralmente menos susceptíveis à tigeciclina que outros membros da família Enterobacteriaceae. Concomitantemente, algumas resistências adquiridas foram detectadas em Klebsiella pneumoniae, Enterobacter aerogenes e Enterobacter cloacae. A diminuição da susceptibilidade em ambos os grupos foi atribuída à expressão excessiva de bombas de efluxo multi-fármaco AcrAB não específicas. A diminuição da susceptibilidade em Acinetobacter baumannii foi atribuída à expressão excessiva de bomba de efluxo AdeABC.
+ Limites Os limites de Concentração inibitória mínima (MIC) estabelecidos pelo Comité Europeu de Avaliação de Susceptibilidade Antimicrobiana (EUCAST) são os seguintes:
+ Staphylococcus spp. S ≤ 0,5 mg/L e R &gt; 0,5 mg/L Streptococcus spp. que não o S. pneumoniae S ≤ 0,25 mg/L e R &gt; 0,5 mg/L Enterococcus spp. S ≤ 0.25 mg/L e R &gt; 0,5 mg/L Enterobacteriaceae S ≤ 1(^) mg/L e R &gt; 2 mg/L
+ (^) A tigeciclina tem actividade reduzida in vitro contra Proteus, Providencia e Morganella spp.
+ Para bactérias anaeróbias existe evidência clínica de eficácia em infecções intra-abdominais polimicrobianas, mas falta de correlação entre valores MIC, dados PK/PD e resultado clínico. Assim, não é atribuído um limite de susceptibilidade. De referir que as distribuições das MIC para os microorganismos dos géneros Bacteroides e Clostridium apresentam grande variabilidade podendo ser superiores a 2 mg/L para a tigeciclina.
+ A evidência de eficácia clínica da tigeciclina contra Enterococos é limitada. No entanto, em ensaios clínicos as infecções intra-abdominais polimicrobianas demonstraram responder ao tratamento com tigeciclina.
+ Susceptibilidade A prevalência de resistência adquirida pode variar geograficamente e temporalmente para espécies seleccionadas e é desejável a existência de informação local sobre resistências, particularmente aquando do tratamento de infecções graves. De acordo com a necessidade, deve procurar-se aconselhamento especializado quando a prevalência local da resistência é tal que a utilidade do agente, em pelo menos alguns tipos de infecções, seja questionável.
+ Patogénio Espécies Frequentemente Susceptíveis Enterococcus spp. † Staphylococcus aureus* Staphylococcus epidermidis Staphylococcus haemolyticus Streptococcus agalactiae* Streptococcus anginosus grp.* (inclui S. anginosus, S. intermedius e S. constellatus) Streptococcus pyogenes* Estreptococos do grupo Viridans Citrobacter freundii* Citrobacter koseri Enterobacter aerogenes Enterobacter cloacae*
+ 8 Escherichia coli* Klebsiella oxytoca* Klebsiella pneumoniae* Serratia marcescens Clostridium perfringens † Peptostreptococcus spp. † Prevotella spp.
+ Espécies em que resistência adquirida pode ser um problema Acinetobacter baumannii Bacteroides do grupo fragilis † Burkholderia cepacia Morganella morganii Providencia spp. Proteus spp. Stenotrophomonas maltophilia
+ Organismos com resistência inerente Pseudomonas aeruginosa* indica espécies contra as quais se considera que a actividade foi demonstrada de uma forma satisfatória em estudos clínicos. † ver secção anterior 5.1 Limites.
+ 5.2 Propriedades farmacocinéticas Absorção A tigeciclina é administrada por via intravenosa tendo uma biodisponibilidade de 100%.
+ Distribuição A ligação in vitro da tigeciclina às proteínas plasmáticas varia aproximadamente entre 71% a 89% em concentrações observadas em ensaios clínicos (0,1 a 1,0 µg/ml). Estudos farmacocinéticos em animais e humanos demostraram que a tigeciclina se distribui prontamente nos tecidos.
+ Em ratos tratados com doses únicas ou múltiplas de 14C-tigeciclina, a radioactividade foi uniformemente distribuída para a maioria dos tecidos, com a exposição global mais elevada registada na medula óssea, glândulas salivares, tiróide, baço e rim. Em humanos, o volume de distribuição da tigeciclina no estado estacionário variou entre 500 a 700 L (7 a 9 L/kg), indicando que a tigeciclina é extensamente distribuída para além do volume plasmático e se concentra nos tecidos.
+ Não existem dados disponíveis acerca da capacidade da tigeciclina atravessar a barreira hemato-encefálica em humanos.
+ Em estudos de farmacologia clínica com utilização de regimes de dosagem terapêutica de 100 mg seguidos de 50 mg cada 12h, a Cmax em estado estacionário da tigeciclina no soro foi 866±233 ng/ml para infusões de 30 minutos e 634±97 ng/ml para infusões de 60 minutos. A AUC0-12h em estado estacionário foi de 2349±850 ng• h/ml.
+ Metabolismo Em média estima-se que menos de 20% de tigeciclina é metabolizada antes da excreção. Em voluntários masculinos saudáveis, após a administração de 14C-tigeciclina, a tigeciclina inalterada foi o principal material 14C marcado recuperado na urina e nas fezes, mas estavam também presentes um glucoronido, um metabolito N-acetil e um epímero de tigeciclina.
+ 9 Estudos in vitro em microssomas de fígado humano indicam que a tigeciclina não inibe o metabolismo mediado por qualquer uma das seguintes 6 isoformas do citocromo P450 (CYP): 1A2, 2C8, 2C9, 2C19, 2D6 e 3A4, por inibição competitiva. Adicionalmente, a tigeciclina não demonstrou dependência ao NADPH na inibição da CYP2C9, CYP2C19, CYP2D6 e CYP3A, sugerindo a ausência de inibição baseada no mecanismo destas enzimas CYP.
+ Eliminação A recuperação da totalidade da radioactividade nas fezes e urina após a administração de 14C-tigeciclina indica que 59% da dose é eliminada através de excreção biliar/fecal e 33% é excretada na urina. Em suma, a via principal de eliminação da tigeciclina é a excreção biliar da tigeciclina inalterada. A glucuronidação e a excreção renal da tigeciclina inalterada são vias secundárias.
+ Após perfusão intravenosa a depuração total da tigeciclina é de 24 L/h. A depuração renal é de aproximadamente 13% da depuração total. A tigeciclina demonstra uma eliminação poliexponencial do soro, com uma semi-vida terminal de eliminação média, após doses múltiplas, de 42 horas, embora exista uma elevada variabilidade interindividual.
+ Populações especiais Insuficiência Hepática A disponibilidade farmacocinética de uma dose única de tigeciclina não se alterou em doentes com compromisso hepático ligeiro. No entanto, a depuração sistémica da tigeciclina foi reduzida em 25% e 55% e a semi-vida da tigeciclina foi prolongada em 23% e 43% em doentes com compromisso hepático moderado ou grave (Child Pugh B e C), respectivamente (ver secção 4.2).
+ Insuficiência Renal A disponibilidade farmacocinética de uma dose única de tigeciclina não se alterou em doentes com insuficiência renal (depuração da creatinina &lt; 30 ml/min, n=6). No compromisso renal grave, a AUC foi 30% mais elevada que em indivíduos com uma função renal normal (ver secção 4.2).
+ Doentes Idosos Não se verificaram diferenças globais significativas na farmacocinética entre indivíduos idosos saudáveis e indivíduos mais jovens (ver secção 4.2).
+ Doentes Pediátricos A farmacocinética da tigeciclina em doentes menores de 18 anos de idade não foi estabelecida (ver secção 4.2).
+ Género Não existiram diferenças clinicamente significativas na depuração da tigeciclina entre homens e mulheres. Estimou-se que a AUC é 20% mais elevada em mulheres que em homens.
+ Raça Não existiram diferenças na depuração da tigeciclina baseadas na raça.
+ Peso A depuração, a depuração normalizada para o peso e a AUC não diferiram apreciavelmente entre doentes com diferentes pesos corporais, incluindo os que apresentavam um peso ≥ a 125 kg. A AUC foi 24% menor em doentes com peso ≥ a 125 kg. Não existem dados disponíveis para doentes com peso igual ou superior a 140 kg.
+ 10 5.3 Dados de segurança pré-clínica
+ Em estudos de toxicidade repetida em ratos e cães, a deplecção/atrofia linfóide dos nódulos linfáticos, baço e timo, diminuição dos eritrócitos, reticulócitos, leucócitos e plaquetas, em associação com hipocelularidade da medula óssea e efeitos adversos renais e gastrointestinais, foram observados com a tigeciclina em exposições 8 e 10 vezes a dose diária humana baseada na AUC em ratos e cães, respectivamente. Estas alterações mostraram ser reversíveis duas semanas após a administração.
+ Observou-se descoloração óssea não reversível em ratos duas semanas após a administração.
+ Resultados de estudos em animais indicam que a tigeciclina atravessa a placenta e é detectada em tecidos fetais. Em estudos de toxicidade reprodutiva com a tigeciclina observou-se a diminuição dos pesos fetais em ratos e coelhos (com atrasos associados na ossificação) e perda fetal em coelhos. A tigeciclina não foi teratogénica no rato ou no coelho.
+ Resultados de estudos em animais que utilizaram tigeciclina 14C-marcada indicam que a tigeciclina é excretada prontamente através do leite de ratos a amamentar. A limitada biodisponibilidade oral da tigeciclina é consistente com a diminuta ou inexistente exposição sistémica à tigeciclina nas crias em amamentação como resultado da exposição através do leite materno.
+ Não foram efectuados estudos a longo prazo em animais para avaliar o potencial carcinogénico da tigeciclina, mas estudos de genotoxicidade da tigeciclina a curto prazo foram negativos.
+ A administração intravenosa da tigeciclina por bólus foi associada a uma resposta histamínica em estudos animais. Estes efeitos foram observados com exposições de 14 e 3 vezes a dose diária humana baseada na AUC em ratos e cães, respectivamente.
+ Não foi observada evidência de fotossensibilidade em ratos após a administração de tigeciclina.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Lactose mono-hidratada. Ácido clorídrico, hidróxido de sódio (para ajuste de pH).
+ 6.2 Incompatibilidades As seguintes substâncias activas não devem ser administradas simultaneamente com o Tygacil através do mesmo conector em Y: Anfotericina B, Anfotericina B complexo lipídico e diazepam.
+ Na ausência de estudos de compatibilidade, o Tygacil não deve ser misturado com outros medicamentos (ver secção 6.6).
+ 6.3 Prazo de validade 18 meses. Uma vez reconstituída e diluída, no saco ou outro recipiente para perfusão adequado (p. e. frasco de vidro), a tigeciclina deve ser utilizada imediatamente.
+ 11 6.4 Precauções especiais de conservação
+ Conservar a temperatura igual ou inferior a 25ºC. Para informação acerca das condições de conservação do produto reconstituído ver secção 6.3.
+ 6.5 Natureza e conteúdo do recipiente Frascos para injectáveis de 5 ml em vidro transparente Tipo 1 cerrados com rolhas de borracha butílica cinzentas e selos de alumínio frisado tipo “ snap-off ”. O Tygacil é distribuído em embalagens contendo um tabuleiro com 10 frascos para injectáveis.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ O pó liofilizado deve ser reconstituído com 5,3 ml de solução injectável de cloreto de sódio 9 mg/ml (0,9%) ou solução injectável de dextrose 50 mg/ml (5%) para obter uma concentração de 10 mg/ml de tigeciclina. O frasco para injectáveis deve ser agitado suavemente até à dissolução do medicamento. Em seguida, devem ser imediatamente retirados do frasco para injectáveis 5 ml da solução reconstituída e adicionados a um saco de 100 ml para administração intravenosa ou outro recipiente para perfusão adequado (p. e. frasco de vidro).
+ Para uma dose de 100 mg, reconstituir usando dois frascos para injectáveis para um saco de 100 ml para administração intravenosa ou outro recipiente para perfusão adequado (p. e. frasco de vidro). Nota: O frasco para injectáveis contém uma sobrecarga de 6%. Assim,5 ml de solução reconstituída equivalem a 50 mg de substância activa. A solução reconstituída deve ser amarelo-alaranjada, caso contrário deve ser rejeitada. Os produtos para uso parentérico devem ser inspeccionados visualmente antes da administração para avaliar a presença de partículas e descoloração (p. e. coloração verde ou preta).
+ O Tygacil pode ser administrado por via intravenosa através de um sistema de perfusão exclusivo ou de um conector em Y. Se for utilizado o mesmo sistema para perfusão sequencial de diferentes fármacos, o sistema de perfusão deve ser limpo, antes e depois da perfusão de Tygacil, com solução injectável de cloreto de sódio 9 mg/ml (0,9%) ou solução injectável de dextrose 50 mg/ml (5%). A injecção deve ser feita com uma solução para perfusão compatível com a tigeciclina e quaisquer outros medicamentos, administrados através deste sistema de perfusão comum (ver secção 6.2).
+ Este medicamento é para utilização única; qualquer solução não utilizada deve ser rejeitada.
+ Soluções intravenosas compatíveis incluem: solução injectável de cloreto de sódio 9 mg/ml (0,9%) e solução injectável de dextrose 50 mg/ml (5%).
+ Quando administrado através de um conector em Y, a compatibilidade do Tygacil diluído em solução injectável de cloreto de sódio 0,9% é demonstrada com os seguintes medicamentos ou solventes: amicacina, dobutamina, cloridrato de dopamina, gentamicina, haloperidol, lactato de Ringer, cloridrato de lidocaína, morfina, norepinefrina, piperacilina/tazobactam (formulação com EDTA), cloreto de potássio, propofol, cloridrato de ranitidina, teofilina e tobramicina.
+ 12 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Wyeth Europa Ltd. Huntercombe Lane South Taplow, Maidenhead Berkshire, SL6 0PH Reino Unido
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/06/336/001 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 24 de Abril de 2006.
+ 10. DATA DA REVISÃO DO TEXTO 13 ANEXO II
+ A. TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 14 A TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do fabricante responsável pela libertação do lote
+ Wyeth Pharmaceuticals New Lane Havant Hampshire, PO9 2NG Reino Unido
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento sujeito a receita médica. • CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ Não aplicável. • OUTRAS CONDIÇÕES
+ O Titular da Autorização de Introdução no Mercado deve assegurar que o sistema de farmacovigilância está em vigor e em funcionamento antes do lançamento do produto no mercado.
+ O Titular da Autorização de Introdução no Mercado compromete-se a realizar os estudos e as actividades adicionais de farmacovigilância detalhados no Plano de Farmacovigilância.
+ 15 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 16 A. ROTULAGEM
+ 17 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ EMBALAGEM EXTERNA 1. NOME DO MEDICAMENTO Tygacil 50 mg pó para solução para perfusão Tigeciclina
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada frasco para injectáveis contém 50 mg de tigeciclina.
+ 3. LISTA DOS EXCIPIENTES Cada frasco para injectáveis contém 100 mg de lactose mono-hidratada. O pH é ajustado com ácido clorídrico e, se necessário, com hidróxido de sódio.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 10 frascos para injectáveis 5. MODO E VIA(S) DE ADMINISTRAÇÃO Consultar o folheto informativo antes da utilização relativamente às instruções de reconstituição e diluição. Para utilização por via intravenosa, após reconstituição e diluição.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP 18 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar a temperatura igual ou inferior a 25ºC.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Wyeth Europa Ltd. Huntercombe Lane South Taplow, Maidenhead Berkshire, SL6 0PH Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/06/336/001 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Foi aceite a justificação para não incluir a informação em Braille.
+ 19 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ RÓTULO DO FRASCO PARA INJECTÁVEIS 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Tygacil 50 mg pó para perfusão Tigeciclina Apenas para uso IV
+ 2. MODO DE ADMINISTRAÇÃO 3. PRAZO DE VALIDADE EXP 4. NÚMERO DO LOTE Lot 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 6. OUTRAS 20 B. FOLHETO INFORMATIVO
+ 21 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Tygacil 50 mg pó para solução para perfusão tigeciclina
+ Leia atentamente este folheto antes de utilizar este medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é Tygacil e para que é utilizado 2. Antes de utilizar Tygacil 3. Como utilizar Tygacil 4. Efeitos secundários possíveis 5. Como conservar Tygacil 6. Outras informações
+ 1. O QUE É TYGACIL E PARA QUE É UTILIZADO
+ Tygacil é um antibiótico do grupo das glicilciclinas que actua parando o crescimento de bactérias causadoras de infecções.
+ O seu médico prescreveu Tygacil para tratar um dos seguintes tipos de infecção grave:
+ • Infecção complicada da pele e tecidos moles • Infecção complicada do abdómen
+ 2. ANTES DE UTILIZAR TYGACIL Não utilize Tygacil • Se tem alergia (hipersensibilidade) à tigeciclina, a substância activa do Tygacil. Se tem alergia a antibióticos da classe das tetraciclinas (p. e., minociclina, doxiciclina, etc.), pode ser alérgico à tigeciclina.
+ Tome especial cuidado com Tygacil • Informe imediatamente o seu médico caso desenvolva sintomas de uma reacção alérgica. • Informe imediatamente o seu médico se desenvolver dores abdominais intensas, náuseas e vómitos. Estes podem ser sintomas de pancreatite aguda. • Se sofre de diarreia informe o seu médico antes que lhe seja administrado Tygacil. Se desenvolver diarreia durante ou após o tratamento, informe o seu médico imediatamente. Não tome medicamentos para a diarreia sem primeiro consultar o seu médico. • Informe o seu médico se tem ou já teve qualquer efeito secundário devido a antibióticos da classe das tetraciclinas (p. e., sensibilização da pele à exposição solar, manchas nos dentes em desenvolvimento, inflamação do pâncreas e alteração de certos resultados laboratoriais destinados a avaliar a coagulação do seu sangue). • Em certas infecções graves, o seu médico pode considerar a utilização do Tygacil em combinação com outros antibióticos.
+ 22 • Informe o seu médico se estiver a tomar medicamentos (denominados anticoagulantes) destinados a evitar uma coagulação excessiva do sangue (ver também neste folheto Utilizar Tygacil com outros medicamentos). • Informe o seu médico se estiver a tomar a pílula contraceptiva pois pode necessitar de um método contraceptivo adicional durante o tratamento com Tygacil (ver também neste folheto Utilizar Tygacil com outros medicamentos). • Informe o seu médico se tem ou já teve problemas hepáticos. Consoante a condição do seu fígado, o seu médico pode reduzir a dose para evitar possíveis efeitos secundários. • Enquanto os antibióticos, incluindo o Tygacil, combatem certas bactérias, outras bactérias e fungos podem continuar a crescer. Isto é designado por superinfecção. O seu médico irá acompanhá-lo relativamente a quaisquer infecções possíveis e irá tratá-lo se necessário. • Tygacil não deverá ser utilizado em crianças ou adolescentes (com menos de 18 anos de idade). Em crianças com menos de 8 anos, a tigeciclina pode induzir defeitos permanentes nos dentes em desenvolvimento, como por exemplo manchas.
+ Ao utilizar Tygacil com outros medicamentos Informe sempre o seu médico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica.
+ Tygacil pode prolongar certos testes destinados a avaliar a coagulação do seu sangue. É importante que informe o seu médico se estiver a tomar medicamentos destinados a evitar uma coagulação excessiva do sangue. Se for o caso, o seu médico irá acompanhá-lo de perto.
+ Tygacil pode interferir com a pílula contraceptiva (pílula para evitar a gravidez). Fale com o seu médico acerca da necessidade de usar um método contraceptivo adicional durante o tratamento com Tygacil.
+ Gravidez e aleitamento Tygacil pode causar danos ao feto. Se estiver grávida ou está a planear engravidar, fale com o seu médico antes de utilizar Tygacil.
+ Desconhece-se se Tygacil passa para o leite materno nos seres humanos. Peça conselho ao seu médico antes de amamentar o seu bébé.
+ Condução de veículos e utilização de máquinas Tygacil pode causar efeitos secundários tais como tonturas. Tal facto pode prejudicar a sua capacidade de conduzir ou operar máquinas.
+ 3. COMO UTILIZAR TYGACIL Tygacil ser-lhe-á administrado por um médico ou um enfermeiro.
+ A dose recomendada é de 100 mg administrada inicialmente, seguida de 50 mg de 12 em 12 horas. Esta dose é administrada intravenosamente (directamente na corrente sanguínea) durante um período de 30 a 60 minutos.
+ O tratamento dura geralmente 5 a 14 dias. O seu médico decidirá qual a duração do seu tratamento.
+ Se utilizar mais Tygacil do que deveria Se pensa que pode ter sido administrado demasiado Tygacil, fale com o seu médico ou enfermeiro imediatamente.
+ 23 Caso se tenha esquecido de administrar uma dose de Tygacil Se pensa que se pode ter esquecido de administrar uma dose, fale com o seu médico ou enfermeiro imediatamente.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todos os medicamentos, Tygacil pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ Os efeitos secundários mais frequentes, referidos em pelo menos 1 em cada 10 doentes tratados com Tygacil são: • Náusea, vómitos e diarreia.
+ Os efeitos secundários frequentes, referidos em pelo menos 1 em cada 100 doentes, mas em menos de 1 em cada 10 doentes tratados com Tygacil são: • Abcesso (acumulação de pus), infecções • Análises laboratoriais com resultados de diminuição da capacidade de formação de coágulos sanguíneos • Tonturas • Irritação no local da injecção incluindo dor, inflamação, inchaço e formação de coágulos • Dor abdominal, dispepsia (dor de estômago e indigestão), anorexia (perda de apetite) • Aumento das enzimas do fígado, hiperbilirrubinemia (excesso de pigmento biliar no sangue) • Prurido (comichão), erupção cutânea • Dor de cabeça • Aumento da amilase, que é uma enzima presente nas glândulas salivares e no pâncreas e aumento do azoto ureico no sangue.
+ Os efeitos secundários pouco frequentes, referidos em pelo menos 1 em cada 1.000 doentes, mas em menos de 1 em cada 100 doentes tratados com Tygacil são: • Sépsis (infecção grave no organismo e corrente sanguínea)/choque séptico (situação médica grave que pode levar a falha múltipla de órgãos e morte como resultado da sépsis) • Níveis baixos de proteínas no sangue • Pancreatite aguda (inflamação do pâncreas que pode causar dor abdominal intensa, náuseas e vómitos) • Icterícia, inflamação do fígado • Reacções no local de injecção (dor, vermelhidão, inflamação).
+ Outros efeitos secundários referidos (frequência desconhecida) em doentes tratados com Tygacil são: • Reacções anafilácticas/anafilactóides (que podem variar numa escala de gravidade de ligeira a grave, incluindo reacção alérgica generalizada e súbita que pode levar a choque potencialmente fatal[ ex. dificuldade em respirar, descida da pressão arterial, pulso rápido]). • Redução do nível de plaquetas no sangue (o qual pode levar a um aumento da tendência para a hemorragia e formação de nódoas negras/hematomas).
+ A colite pseudomembranosa pode ocorrer com a maioria dos antibióticos, incluindo o Tygacil. Tal consiste em diarreia grave, persistente ou diarreia com sangue, associada a dor abdominal ou febre, o que pode ser sinal de inflamação grave dos intestinos, podendo ocorrer durante ou depois do tratamento.
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 24 5. COMO CONSERVAR TYGACIL
+ Manter fora do alcance e da vista das crianças.
+ Tygacil deve ser conservado a temperatura igual ou inferior a 25ºC. Não use Tygacil após o prazo de validade mencionado no frasco para injectáveis.
+ Conservação após a preparação Após a reconstituição do pó em solução e posterior diluição, o medicamento está pronto a utilizar e deve ser-lhe administrado quase imediatamente.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Tygacil A substância activa é a tigeciclina. Cada frasco para injectáveis contém 50 mg de tigeciclina.
+ Os outros componentes são lactose mono-hidratada, ácido clorídrico e hidróxido de sódio.
+ Qual o aspecto de Tygacil e conteúdo da embalagem Tygacil é fornecido num frasco para injectáveis e tem o aspecto de um pó ou aglomerado alaranjado antes de diluído. Estes frascos para injectáveis são fornecidos ao hospital em embalagens contendo um tabuleiro com dez frascos. O pó deve ser misturado no frasco para injectáveis com uma pequena quantidade de solução. O frasco para injectáveis deve ser agitado suavemente até que o medicamento se dissolva. Em seguida, a solução deve ser de imediato retirada do frasco para injectáveis e adicionada a um saco de 100 ml para administração intravenosa ou outro recipiente para perfusão adequado no hospital.
+ A solução de Tygacil deve ser de coloração amarelo-alaranjada após a dissolução, caso contrário a solução deve ser rejeitada.
+ Titular da Autorização de Introdução
+ no Mercado: Wyeth Europa Ltd. Huntercombe Lane South Taplow, Maidenhead Berkshire, SL6 0PH Reino Unido
+ Fabricante: Wyeth Pharmaceuticals New Lane Havant Hampshire PO9 2NG Reino Unido
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado.
+ België/Belgique/Belgien Luxembourg/Luxemburg
+ Kύπρος Wyeth Hellas (Cyprus Branch) AEBE Wyeth Pharmaceuticals S. A./N. V. Tél/Tel: +32 10 49 47 11 Fax: +32 10 49 48 70
+ Tηλ: +357 22 817690 Φαξ: +357 22 751855 Česká republika Wyeth Whitehall Czech s. r. o. Tel: +420 2 67 294 111 Fax: +420 2 67 294 199
+ Magyarország Wyeth Kft. Tel: +36 1 453 33 30 Fax: +36 1 240 4632
+ 25
+ Danmark Wyeth Danmark Tlf: +45 44 88 88 05 Fax: +45 44 88 88 06
+ Malta V. J. Salomone Pharma Ltd. Tel: +35621 220174 Fax: +35621 243026
+ Deutschland Wyeth Pharma GmbH Tel: +49 180 2 29 93 84 Fax: +49 251 204 1128
+ Nederland Wyeth Pharmaceuticals B. V. Tel: +31 23 567 2567 Fax: +31 23 567 2599
+ България/Eesti/Latvija/Lietuva/Österreich/România/Slovenija
+ Norge Wyeth Wyeth-Lederle Pharma GmbH Teл./Tel/Tãlr: +43 1 89 1140 Факс/Faks/Fakss/Faksas/Fax: +43 1 89 114600
+ Tlf: +47 40 00 2340 Fax: +47 40 00 2341 Ελλάδα Wyeth Hellas A. E. B. E. Tηλ: +30 2 10 99 81 600 Φαξ: +30 2 10 99 21 994
+ Polska Wyeth Sp. z o. o. Tel: +48 22 457 1000 Fax: +48 22 457 1001
+ España Wyeth Farma S. A. Tel: +34 91 334 65 65 Fax: +34 91 663 65 53
+ Portugal Wyeth Lederle Portugal (Farma) Lda. Tel: +351 21 412 82 00 Fax: +351 21 412 01 11
+ France Wyeth Pharmaceuticals France Tél: +33 1 41 02 70 00 Fax: +33 1 41 02 70 10
+ Slovenská republika Wyeth Whitehall Export GmbH, organizačná zložka Tel: +42 1 2 654 128 16 Fax: +42 1 2 654 128 17
+ Ireland Wyeth Pharmaceuticals Tel: +353 1 449 3500 Fax: +353 1 449 3522
+ Suomi/Finland Wyeth Puh/Tel: +358 20 7414 870 Fax: +358 20 7414 879
+ Ísland Icepharma hf. Tel: +354 540 8000 Fax: +354 540 8001
+ Sverige Wyeth AB Tel: +46 8 470 3200 Fax: +46 8 730 0666
+ Italia Wyeth Lederle S. p. A. Tel: +39 06 927151 Fax: +39 06 23325555
+ United Kingdom Wyeth Pharmaceuticals Tel: +44 845 367 0098 Fax: +44 1628 414802
+ Este folheto foi aprovado pela última vez em{ MM/AAAA}.
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu
+ 26 A informação que se segue destina-se apenas aos médicos e aos profissionais de saúde:
+ Instruções de utilização e manipulação (ver também neste folheto 3. COMO UTILIZAR TYGACIL)
+ O pó liofilizado deve ser reconstituído com 5,3 ml de solução injectável de cloreto de sódio 9 mg/ml (0,9%) ou solução injectável de dextrose 50 mg/ml (5%) para obter uma concentração de 10 mg/ml de tigeciclina. O frasco para injectáveis deve ser agitado suavemente até à dissolução da substância activa. Em seguida,5 ml da solução reconstituída deve ser imediatamente retirada do frasco para injectáveis e adicionada a um saco de 100 ml para administração intravenosa ou outro recipiente para perfusão adequado (p. e. frasco de vidro).
+ Para uma dose de 100 mg, reconstituir usando dois frascos para injectáveis num saco de 100 ml para administração intravenosa ou outro recipiente para perfusão adequado (p. e. frasco de vidro).
+ Nota: O frasco para injectáveis contém uma sobrecarga de 6%. Assim,5 ml de solução reconstituída equivalem a 50 mg da substância activa. A solução reconstituída deve ser amarelo-alaranjada, caso contrário deve ser rejeitada. Os produtos para uso parentérico devem ser visualmente inspeccionados relativamente à presença de partículas e descoloração (p. e. coloração verde ou preta) antes da administração.
+ O Tygacil pode ser administrado por via intravenosa através de um sistema de perfusão exclusivo ou de um conector em Y. Se for utilizado o mesmo sistema para perfusão sequencial de diferentes fármacos, o sistema de perfusão deve ser limpo antes e depois da perfusão de Tygacil com solução injectável de cloreto de sódio 9 mg/ml (0,9%) ou solução injectável de dextrose 50 mg/ml (5%). A injecção deve ser feita com uma solução para perfusão compatível com a tigeciclina e quaisquer outros medicamentos, administrados através deste sistema de perfusão comum.
+ As soluções intravenosas compatíveis são: solução injectável de cloreto de sódio 9 mg/ml (0,9%) e solução injectável de dextrose 50 mg/ml (5%).
+ Quando administrado através de um conector em Y, o Tygacil diluído em solução injectável de cloreto de sódio 0,9% é compatível com os seguintes medicamentos ou solventes: amicacina, dobutamina, cloridrato de dopamina, gentamicina, haloperidol, lactato de Ringer, cloridrato de lidocaína, morfina, norepinefrina, piperacilina/tazobactam (formulação com EDTA), cloreto de potássio, propofol, cloridrato de ranitidina, teofilina e tobramicina.
+ Uma vez reconstituída e diluída no saco ou outro recipiente para perfusão adequado (p. e. frasco de vidro), a tigeciclina deve ser utilizada imediatamente.
+ Para administração única; qualquer solução não utilizada deve ser rejeitada.
+ 27

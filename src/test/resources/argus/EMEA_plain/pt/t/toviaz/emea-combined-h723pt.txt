@@ -1,0 +1,449 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. NOME DO MEDICAMENTO
+ TOVIAZ 4 mg comprimidos de libertação prolongada
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada comprimido de libertação prolongada contém 4 mg de fumarato de fesoterodina equivalente a 3,1 mg de fesoterodina.
+ Excipientes: Cada comprimido de libertação prolongada de 4 mg contém 0,525 mg de lecitina de soja e 91,125 mg de lactose mono-hidratada.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Comprimido de libertação prolongada Os comprimidos de 4 mg são azuis-claros, ovais, biconvexos, revestidos por película e num dos lados têm gravado as letras ‘ FS ’.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Tratamento dos sintomas (aumento da frequência e/ou urgência urinária e/ou incontinência de urgência) que possam ocorrer em doentes com síndrome de bexiga hiperactiva.
+ 4.2 Posologia e modo de administração Adultos (incluindo idosos) A dose inicial recomendada é de 4 mg uma vez por dia. Com base na resposta individual a dose pode ser aumentada para 8 mg uma vez por dia. A dose diária máxima é de 8 mg.
+ O efeito total do tratamento foi observado entre a 2ª e 8ª semana. Consequentemente, após 8 semanas de tratamento é recomendada reavaliação da eficácia para o doente individual.
+ O comprimido deve ser tomado uma vez por dia com líquido e deglutido inteiro. TOVIAZ pode ser administrado com ou sem alimentos.
+ Em indivíduos com as funções renal e hepática normais a receberem tratamento concomitante com potentes inibidores do CYP3A4, a dose diária máxima de TOVIAZ deve ser 4 mg uma vez por dia (ver secção 4.5). Durante a administração concomitante com inibidores moderados do CYP3A4, o aumento da dose para 8 mg deve ser precedido de uma avaliação da resposta e tolerabilidade individual (ver secções 4.4 e 4.5).
+ Compromisso renal e hepático A tabela seguinte indica a dose diária recomendada para indivíduos com compromisso renal e hepático na ausência e na presença de inibidores moderados e potentes do CYP3A4 (ver secções 4.3, 4.4, 4.5 e 5.2).
+ 2 Inibidores moderados (3) ou potentes (4) do CYP3A4
+ (1)
+ Nenhum 4 8 mg(2) Moderados Potentes Compromisso renal Ligeira 4 mg Deve ser evitada Moderada 4 8 Grave mg(2) 4 mg
+ 4 mg Deve ser evitada Contra-indicada Contra-indicada Compromisso Ligeira 4 8 mg(2) 4 mg Deve ser evitada hepático
+ Moderada 4 mg Deve ser evitada Contra-indicada (1) TFG ligeira (50-80 ml/min); TFG moderada (30-50 ml/min); TFG grave (&lt; 30 ml/min) (2) Aumento da dose com precaução. Ver secções 4.4, 4.5 e 5.2 (3) Não foram realizados estudos com inibidores moderados do CYP3A4. Ver secção 4.5 (4) Inibidores potentes do CYP3A4. Ver secções 4.3, 4.4 e 4.5
+ TOVIAZ está contra-indicado em indivíduos com compromisso hepático grave (ver secção 4.3).
+ População pediátrica TOVIAZ não é recomendado para utilização em crianças e adolescentes com idade inferior a 18 anos devido à ausência de dados de segurança e eficácia (ver secção 5.2).
+ 4.3 Contra-indicações • Hipersensibilidade à substância activa ou ao amendoim ou soja ou a qualquer um dos excipientes • Retenção urinária • Retenção gástrica • Glaucoma de ângulo fechado não controlado • Miastenia grave • Compromisso hepático grave (Child Pugh classe C) • Indivíduos com compromisso hepático moderado ou grave ou compromisso renal a receberem tratamento concomitante com inibidores potentes do CYP3A • Colite ulcerosa grave • Megacólon tóxico
+ 4.4 Advertências e precauções especiais de utilização
+ TOVIAZ deve ser utilizado com precaução em doentes com: • Obstrução do fluxo da bexiga, clinicamente significativa, em risco de retenção urinária (ver secção 4.3) • Distúrbios obstrutivos gastrointestinais (p. e., estenose pilórica) • Refluxo gastro-esofágico e/ou indivíduos que estejam a tomar simultaneamente medicamentos (tais como bifosfonatos orais) que possam causar ou exacerbar a esofagite • Diminuição da motilidade gastrointestinal • Neuropatia do sistema nervoso autónomo • Glaucoma de ângulo fechado não controlado
+ Devem ser tomadas precauções quando se prescreve ou se aumenta gradualmente a dosagem de fesoterodina a doentes nos quais é esperado um aumento da exposição ao metabolito activo (ver secção 5.1):
+ −-Compromisso hepático (ver secções 4.2, 4.3 e 5.2) −-Compromisso renal (ver secções 4.2, 4.3 e 5.2) −-Tratamento concomitante com inibidores moderados ou potentes do CYP3A4 (ver secções 4.2 e 4.5) −-Tratamento concomitante com um inibidor potente do CYP2D6 (ver secções 4.5 e 5.2).
+ 3 Pode ocorrer uma exposição adicional aumentada, em doentes com uma combinação destes factores. É provável que ocorram efeitos adversos antimuscarínicos dose dependentes. Em populações onde a dose pode ser aumentada para 8 mg uma vez por dia, o aumento de dose deve ser precedido de uma avaliação da resposta e tolerabilidade individual.
+ Assim como para os demais medicamentos indicados para ao tratamento de bexiga hiperactiva, devem ser excluídas as causas orgânicas antes de ser considerado o tratamento com antimuscarínicos. A segurança e a eficácia ainda não foram estabelecidas em doentes com uma causa neurogénica para a hiperactividade do detrusor.
+ Antes do tratamento com fesoterodina devem ser avaliadas outras causas para a micção frequente (tratamento da insuficiência cardíaca ou da doença renal). Na presença de infecção do tracto urinário deve ser feita uma abordagem médica adequada/deve ser iniciado um tratamento antibacteriano.
+ Não é recomendado o tratamento concomitante de fesoterodina com um indutor potente do CYP3A4 (i. e. carbamazepina, rifampicina, fenobarbital, fenitoína, hipericão) (ver secção 4.5).
+ Como com outros antimuscarínicos, a fesoterodina deve ser utilizada com precaução em doentes com risco de prolongamento do intervalo QT (por ex. hipocaliemia, bradicardia e administração concomitante de medicamentos que possam prolongar o intervalo QT) e com doenças cardíacas pré-existentes relevantes (por ex. isquémia do miocárdio, arritmia, insuficiência cardíaca congestiva), (ver secção 4.8). Isto é especialmente válido quando se tomam inibidores potentes do CYP3A4 (ver secções 4.2, 4.5 e 5.1).
+ Lactose TOVIAZ comprimidos de libertação prolongada contém lactose. Este medicamento não deve ser administrado a doentes com problemas hereditários raros de intolerância à galactose, deficiência em lactase de Lapp ou má absorção de glucose-galactose.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Interacções farmacológicas Deve ter-se cuidado na co-administração de fesoterodina com outros agentes antimuscarínicos e medicamentos com propriedades anticolinérgicas (p. ex., amantadina, antidepressivos tricíclicos, alguns neurolépticos), uma vez que podem acentuar os efeitos terapêuticos e adversos (p. ex., obstipação, secura da boca, sonolência, retenção urinária). A fesoterodina pode reduzir o efeito dos medicamentos que estimulam a motilidade do tracto gastrointestinal, como a metoclopromida.
+ Interacções farmacocinéticas Dados in vitro demonstram que o metabolito activo da fesoterodina não inibe o CYP 1A2, 2B6, 2C8, 2C9, 2C19, 2D6, 2E1, ou 3A4, ou induz o CYP 1A2, 2B6, 2C9, 2C19 ou 3A4 em concentrações plasmáticas clinicamente relevantes. Assim, é pouco provável que a fesoterodina altere a depuração dos medicamentos que são metabolizados por estas enzimas.
+ Inibidores do CYP3A4 Inibidores potentes do CYP3A4 Após a inibição do CYP3A4 mediante a co-administração de 200 mg de cetoconazol duas vezes por dia, a Cmax e a AUC do metabolito activo da fesoterodina aumentaram 2,0 e 2,3 vezes nos metabolizadores potentes do CYP2D6 e 2,1 e 2,5 vezes nos metabolizadores fracos do CYP2D6, respectivamente. A dose máxima de fesoterodina deve, portanto, ser restringida a 4 mg quando utilizada concomitantemente com inibidores potentes do CYP3A4 (p. ex., atazanavir, claritromicina, indinavir, itraconazol, cetoconazol, nefazodona, nelfinavir, ritonavir (e todas as terapêuticas com IP potenciados pelo ritonavir), saquinavir e telitromicina) (ver secções 4.2 e 4.4).
+ 4 Inibidores moderados do CYP3A4 Não foram realizados estudos de avaliação do efeito de um inibidor moderado do CYP3A4 (p. ex., amprenavir, aprepitan, diltiazem, eritromicina, fluconazol, fosamprenavir, sumo de toranja, verapamilo) na farmacocinética da fesoterodina. No entanto, é esperado um aumento na exposição do metabolito activo da fesoterodina, embora um aumento mais pequeno do que o observado com o inibidor potente do CYP3A4 (ver secções 4.2 e 4.4 )).
+ Indutores do CYP3A4 Após a administração oral de 8 mg de fesoterodina, seguido da indução do CYP3A4 mediante a co-administração de 600 mg de rifampicina uma vez por dia, a Cmax e a AUC do metabolito activo da fesoterodina diminuíram em aproximadamente 70% e 75%, respectivamente.
+ A indução do CYP3A4 pode conduzir a níveis plasmáticos subterapêuticos. Não é recomendada a utilização concomitante com indutores do CYP3A4 (p. ex., carbamazepina, rifampicina, fenobarbital, fenitoína, hipericão) (ver secção 4.4).
+ Inibidores do CYP2D6 A interacção com CYP2D6 não foi testada clinicamente. A Cmax média e a AUC média do metabolito activo são 1,7 e 2 vezes superiores, respectivamente, em metabolizadores fracos do CYP2D6 comparativamente a metabolizadores potentes. A co-administração de um inibidor potente do CYP2D6 pode resultar num aumento da exposição e acontecimentos adversos. Pode ser necessária uma redução da dose para 4 mg (ver secção 4.4).
+ Contraceptivos orais A fesoterodina não diminui o efeito de inibição da ovulação da contracepção hormonal oral. Na presença de fesoterodina não existem alterações nas concentrações plasmáticas dos contraceptivos orais combinados, contendo etinilestradiol e levonorgestrel.
+ 4.6 Gravidez e aleitamento Gravidez Não existe informação suficiente sobre a utilização de fesoterodina na mulher grávida. Estudos de toxicidade reprodutiva em animais, com fesoterodina, apresentam uma embriotoxicidade pouco significativa (ver secção 5.3). Desconhece-se o risco potencial para o ser humano. Durante a gravidez não é recomendada a utilização de TOVIAZ.
+ Aleitamento Desconhece-se se a fesoterodina é excretada no leite materno; consequentemente, a amamentação não é recomendada durante o tratamento com TOVIAZ.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram realizados estudos dos efeitos sobre a capacidade de conduzir e utilizar máquinas. Como os demais agentes antimuscarínicos, deve ter-se cuidado ao conduzir ou utilizar máquinas devido à possível ocorrência de efeitos adversos tais como visão desfocada, tonturas e sonolência (ver secção 4.8).
+ 4.8 Efeitos indesejáveis Foi avaliada a segurança da fesoterodina em estudos clínicos controlados com placebo, num total de 2859 doentes com bexiga hiperactiva, dos quais 780 receberam placebo.
+ A fesoterodina, devido às suas propriedades farmacológicas, pode causar efeitos antimuscarínicos ligeiros a moderados, como secura da boca, olhos secos, dispepsia e obstipação.
+ O único efeito adverso muito frequente, secura da boca, ocorreu com uma frequência de 28,8% no grupo tratado com fesoterodina comparativamente aos 8,5% no grupo placebo. A maioria dos efeitos
+ 5 adversos ocorreu durante o primeiro mês de tratamento com excepção de casos, classificados como retenção urinária ou valor de urina residual após eliminação superior a 200 ml, que podem ocorrer após um tratamento de longa duração e foi mais comum em indivíduos do sexo masculino do que do sexo feminino. A tabela seguinte indica a frequência das reacções adversas resultantes do tratamento durante os ensaios clínicos controlados com placebo. As reacções adversas descritas nesta tabela são os efeitos que são muito frequentes (≥ 1/10), frequentes (≥ 1/100 a &lt; 1/10) ou pouco frequentes (≥ 1/1.000 a &lt; 1/100).
+ Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ Classes de sistemas de órgãos
+ Muito frequentes Frequentes Pouco frequentes* Cardiopatias Taquicardia Doenças do sistema nervoso Afecções oculares Afecções do ouvido e do labirinto
+ Tonturas; Cefaleia Olhos secos
+ Disgeusia; Sonolência Vertigens Doenças respiratórias, torácicas e do mediastino
+ Garganta seca Dor faringolaríngea; Tosse; Secura nasal Doenças gastrointestinais Secura da boca Dor abdominal; Diarreia; Dispepsia; Obstipação; Náuseas
+ Desconforto abdominal, Flatulência Doenças renais e urinárias Disúria Retenção urinária (incluindo sensação de urina residual; perturbações da micção); Hesitação urinária
+ Afecções dos tecidos cutâneo e subcutâneo Infecções e infestações
+ Erupção cutânea; Pele seca Infecção das vias urinárias
+ Perturbações gerais e alterações no local de administração
+ Fadiga Afecções hepatobiliares Aumento da ALT; Aumento da Gama Glutamil Transpeptidase (GGT)
+ Perturbações do foro psiquiátrico* 5 ou mais casos
+ Insónia Nos ensaios clínicos da fesoterodina, foram descritos casos de enzimas hepáticas acentuadamente elevadas, não sendo a frequência de ocorrência diferente do grupo placebo. A relação com o tratamento com fesoterodina não está esclarecida.
+ Foram obtidos electrocardiogramas de 782 doentes tratados com 4 mg, de 785 tratados com 8 mg, de 222 tratados com 12 mg de fesoterodina e de 780 doentes com placebo. O intervalo QT corrigido para frequência cardíaca em doentes tratados com fesoterodina não divergiu do observado nos doentes tratados com placebo. As taxas de incidência de QTc≥ 500 ms após o início do estudo ou aumento de 6 QTc ≥ 60 ms são de 1,9%, 1,3%, 1,4% e 1,5% para 4 mg,8 mg e 12 mg de fesoterodina e placebo, respectivamente. A relevância clínica destes resultados vai depender dos factores de risco do doente individual e de susceptibilidades presentes (ver secção 4.4).
+ 4.9 Sobredosagem A sobredosagem com agentes antimuscarínicos, incluindo a fesoterodina, pode resultar em efeitos anticolinérgicos graves. O tratamento deve ser sintomático e de suporte. Em caso de sobredosagem é recomendada a monitorização por ECG e devem ser adoptadas medidas padrão de suporte para controlo do prolongamento do intervalo QT. A fesoterodina tem sido administrada com segurança em ensaios clínicos com doses até 28 mg/dia.
+ Uma situação de sobredosagem com fesoterodina deve tratar-se com lavagem gástrica e administração de carvão activado. Tratar os sintomas da seguinte forma:
+ • Efeitos anticolinérgicos centrais graves (p. ex., alucinações, excitação grave): administrar fisostigmina • Convulsões ou excitação pronunciada: administrar benzodiazepinas • Compromisso respiratório: efectuar respiração artificial • Taquicardia: administrar bloqueadores beta • Retenção urinária: efectuar cateterização • Midríase: administrar colírio de pilocarpina e/ou colocar o doente em ambiente escuro.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Antiespasmódicos urinários, código ATC: G04B D11.
+ A fesoterodina é um antagonista competitivo, específico dos receptores muscarínicos. É hidrolisada rápida e extensivamente pelas esterases plasmáticas não específicas no derivado 5-hidroximetil, o seu metabolito activo primário, que é o princípio activo farmacológico principal da fesoterodina.
+ A eficácia das doses fixas de fesoterodina 4 mg e 8 mg foi avaliada em dois ensaios de fase 3, aleatorizados, com dupla ocultação, controlados com placebo e com a duração de 12 semanas. Foram incluídos doentes do sexo feminino (79%) e masculino (21%), com uma idade média de 58 anos (intervalo 19-91 anos). Um total de 33% dos doentes tinham ≥ 65 anos de idade e 11% tinham ≥ 75 anos de idade.
+ Os doentes tratados com fesoterodina tiveram reduções, estatisticamente significativas, da média do número de micções por 24 horas e do número de episódios de incontinência de urgência por 24 horas, no final do tratamento, comparativamente ao placebo. Do mesmo modo, a taxa de resposta (% de doentes que referiram que a sua doença “ melhorou significativamente ” ou “ melhorou ” utilizando uma escala de benefício do tratamento com 4 pontos) foi significativamente superior com a fesoterodina comparativamente ao placebo. Além disso, a fesoterodina melhorou a variação média do volume vazio por micção e a variação média do número de dias de continência por semana (ver tabela 1 em baixo).
+ Tabela 1: Variações médias, desde o início até ao fim do tratamento, para os objectivos primários e secundários seleccionados
+ Estudo 1 Estudo 2 Parâmetro Placebo Fesoterodina Fesoterodina 4 mg 8 mg
+ Comparado Placebo Fesoterodina r activo 4 mg
+ Fesoterodina 8 mg Número de micções por 24 horas#
+ N=27 9 N=265 N=276 N=283 N=266 N=267 N=267 7 Início 12,0 11,6 11,9 11,5 12,2 12,9 12,0 Variação desde o ínicio -1,02
+ -1,74
+ -1,94
+ -1,69-1,02
+ -1,86
+ -1,94
+ valor p
+ &lt; 0,001 &lt; 0,001
+ 0,032 &lt; 0,001
+ Taxa de respondedores (resposta ao tratamento)#
+ N=27 9 N=265 N=276 N=283 N=266 N=267 N=267 Taxa de respondedo res 53,4% 74,7% 79,0% 72,4% 45,1% 63,7% 74,2% valor p
+ &lt; 0,001
+ &lt; 0,001
+ &lt; 0,001
+ &lt; 0,001
+ Número de episódios de incontinência de urgência por 24 horas
+ N=21 1 N=199 N=223 N=223 N=205 N=228 N=218 Início Variação desde o ínicio
+ 3,7-1,20 3,8-2,06 3,7 3,8-2,27-1,83 3,7-1,00 3,9-1,77 3,9-2,42 valor p
+ 0,001 &lt; 0,001
+ 0,003 &lt; 0,001
+ Número de dias de continência por semana
+ N=21 1 N=199 N=223 N=223 N=205 N=228 N=218 Início Variação desde o ínicio
+ 0,8 2,1 0,8 2,8 0,6 0,6 3,4 2,5 0,6 1,4 0,7 2,4 0,7 2,8 valor p
+ 0,007 &lt; 0,001
+ &lt; 0,001
+ &lt; 0,001
+ Volume excretado por micção (ml)
+ N=27 9 N=265 N=276 N=283 N=266 N=267 N=267 Início Variação desde o ínicio
+ 150 10 160 27 154 33 154 24 159 8 152 17 156 33 valor p
+ &lt; 0,001
+ &lt; 0,001
+ 0,150 &lt; 0,001
+ # objectivos primários
+ Electrofisiologia cardíaca: O efeito de 4 mg e 28 mg de fesoterodina sobre o intervalo QT foi avaliado exaustivamente num ensaio paralelo com um grupo de dupla ocultação, aleatorizado, controlado com placebo e com um grupo controlo positivo (monofloxacina 400 mg), com um tratamento de uma vez por dia durante um período de 3 dias em 261 indivíduos do sexo masculino e feminino com idades compreendidas entre 45 e 65 anos. As alterações no QTc inicial, com base no método de correcção Fridericia, não diferiram entre o placebo e os grupos de tratamento.
+ 5.2 Propriedades farmacocinéticas Absorção Após administração oral, devido à rápida e extensa hidrólise pelas esterases plasmáticas não específicas, não foi detectada fesoterodina no plasma.
+ A biodisponibilidade do metabolito activo é de 52%. Após administração oral de uma dose única ou de doses múltiplas de fesoterodina com doses desde 4 mg a 28 mg, as concentrações plasmáticas do metabolito activo são proporcionais à dose. Os níveis plasmáticos máximos são alcançados após
+ 8 aproximadamente 5 horas. Os níveis plasmáticos terapêuticos são alcançados após a primeira administração de fesoterodina. Após a administração de doses múltiplas não ocorre acumulação.
+ Distribuição A ligação do metabolito activo às proteínas plasmáticas é baixa, com aproximadamente 50% ligado à albumina e à alfa-1 glicoproteína ácida. O volume médio de distribuição no estado de equilíbrio após perfusão intravenosa do metabolito activo é de 169 l.
+ Metabolismo Após a administração oral, a fesoterodina é rápida e extensivamente hidrolisada no seu metabolito activo. O metabolito activo é adicionalmente metabolizado no fígado nos seus metabolitos carboxilo, carboxi-N-desisopropilo e N-desisopropilo, com envolvimento do CYP2D6 e do CYP3A4. Nenhum destes metabolitos contribui significativamente para a actividade antimuscarínica da fesoterodina. A Cmax média e a AUC média do metabolito activo são 1,7 e 2 vezes superiores, respectivamente, nos metabolizadores fracos do CYP2D6 quando comparadas com metabolizadores potentes.
+ Eliminação O metabolismo hepático e a excreção renal contribuem significativamente para a eliminação do metabolito activo. Após a administração oral da fesoterodina, aproximadamente 70% da dose administrada foi recuperada na urina na forma de metabolito activo (16%), metabolito carboxilo (34%), metabolito carboxi-N-desisopropilo (18%) ou metabolito N-desisopropilo (1%) e uma quantidade mais pequena (7%) foi recuperada nas fezes. A semi-vida terminal do metabolito activo após a administração oral é de aproximadamente 7 horas e a sua taxa de absorção limitada.
+ Idade e sexo Não são recomendados ajustes da dose nestas subpopulações. A farmacocinética da fesoterodina não é significativamente influenciada pela idade e pelo sexo.
+ Doentes pediátricos A farmacocinética da fesoterodina não foi avaliada em doentes pediátricos.
+ Compromisso renal Em doentes com compromisso renal ligeiro ou moderado (TFG 30-80 ml/min), a Cmax e a AUC do metabolito activo aumentaram até 1,5 e 1,8 vezes, respectivamente, em comparação com indivíduos saudáveis. Em doentes com compromisso renal grave (TFG &lt; 30 ml/min), a Cmax e a AUC aumentaram 2,0 e 2,3 vezes, respectivamente.
+ Compromisso hepático Em doentes com compromisso hepático moderado (Child Pugh classe B), a Cmax e a AUC do metabolito activo aumentaram 1,4 e 2,1 vezes, respectivamente, em comparação com indivíduos saudáveis. A farmacocinética da fesoterodina não foi estudada em doentes com compromisso hepático grave.
+ 5.3 Dados de segurança pré-clínica Em estudos não clínicos de farmacologia de segurança, toxicidade geral, genotoxicidade e carcinogenicidade não foram observados efeitos clinicamente relevantes, excepto os que estão relacionados com o efeito farmacológico da substância activa. Os estudos de reprodução demonstraram uma embriotoxicidade pouco significativa, com doses próximas das doses maternotóxicas (aumento do número de re-absorções, perdas pré-implantação e pós-implantação). Demonstrou-se que as concentrações supraterapêuticas do metabolito activo da fesoterodina inibem a corrente de K+ em canais dos genes humanos clonados (hERG-ether-à-go-go-related gene) e prolongam a duração do potencial de acção (70% e 90% de repolarização) em fibras de Purkinje caninas isoladas. No entanto, em cães conscientes, o metabolito activo não teve efeito sobre o intervalo QT, nem sobre o intervalo QTc, em exposições plasmáticas pelo menos 33 vezes superiores
+ 9 ao pico médio da concentração plasmática livre, em indivíduos que são metabolizadores potentes e 21 vezes superiores à medida em indivíduos que são metabolizadores fracos do CYP2D6 após a administração oral única diária de 8 mg de fesoterodina.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Núcleo do comprimido Xilitol Lactose mono-hidratada Celulose microcristalina Hipromelose Dibehenato de glicerilo Talco
+ Revestimento por película Álcool polivinílico Dióxido de titânio (E171) Macrogol (3350) Talco Lecitina de soja Laca de alumínio de indigotina (E132)
+ 6.2 Incompatibilidades Não aplicável. 6.3 Prazo de validade 2 anos 6.4 Precauções especiais de conservação
+ Não conservar acima de 25ºC. Conservar na embalagem de origem de modo a proteger da humidade.
+ 6.5 Natureza e conteúdo do recipiente Os comprimidos de TOVIAZ 4 mg estão acondicionados em blisters de alumínio-alumínio em embalagens contendo 7,14,28,56,84 ou 98 comprimidos. Os comprimidos de TOVIAZ 4 mg estão também acondicionados em frascos de HDPE contendo 30 ou 90 comprimidos.
+ É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais de eliminação Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Pfizer Limited Ramsgate Road Sandwich 10 Kent CT13 9NJ Reino Unido
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DA INTRODUÇÃO NO MERCADO
+ EU/1/07/386/001-005 EU/1/07/386/011 EU/1/07/386/013-014
+ 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 20/04/2007 10. DATA DA REVISÃO DO TEXTO { MM/AAAA}
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu/
+ 11 1. NOME DO MEDICAMENTO
+ TOVIAZ 8 mg comprimidos de libertação prolongada
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada comprimido de libertação prolongada contém 8 mg de fumarato de fesoterodina equivalente a 6,2 mg de fesoterodina.
+ Excipientes: Cada comprimido de libertação prolongada de 8 mg contém 0,525 mg de lecitina de soja e 58,125 mg de lactose mono-hidratada.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Comprimido de libertação prolongada Os comprimidos de 8 mg são azuis, ovais, biconvexos, revestidos por película e num dos lados têm gravado as letras ‘ FT ’.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Tratamento dos sintomas (aumento da frequência e/ou urgência urinária e/ou incontinência de urgência) que possam ocorrer em doentes com síndrome de bexiga hiperactiva.
+ 4.2 Posologia e modo de administração Adultos (incluindo idosos) A dose inicial recomendada é de 4 mg uma vez por dia. Com base na resposta individual a dose pode ser aumentada para 8 mg uma vez por dia. A dose diária máxima é de 8 mg.
+ O efeito total do tratamento foi observado entre a 2ª e 8ª semana. Consequentemente, após 8 semanas de tratamento é recomendada reavaliação da eficácia para o doente individual.
+ O comprimido deve ser tomado uma vez por dia com líquido e deglutido inteiro. TOVIAZ pode ser administrado com ou sem alimentos.
+ Em indivíduos com as funções renal e hepática normais a receberem tratamento concomitante com potentes inibidores do CYP3A4, a dose diária máxima de TOVIAZ deve ser 4 mg uma vez por dia (ver secção 4.5). Durante a administração concomitante com inibidores moderados do CYP3A4, o aumento da dose para 8 mg deve ser precedido de uma avaliação da resposta e tolerabilidade individual (ver secções 4.4 e 4.5).
+ Compromisso renal e hepático A tabela seguinte indica a dose diária recomendada para indivíduos com compromisso renal e hepático na ausência e na presença de inibidores moderados e potentes do CYP3A4 (ver secções 4.3, 4.4, 4.5 e 5.2).
+ 12 Inibidores moderados (3) ou potentes (4) do CYP3A4
+ (1)
+ Nenhum 4 8 mg(2) Moderados Potentes Compromisso renal Ligeira 4 mg Deve ser evitada Moderada 4 8 Grave mg(2) 4 mg
+ 4 mg Deve ser evitada Contra-indicada Contra-indicada Compromisso Ligeira 4 8 mg(2) 4 mg Deve ser evitada hepático
+ Moderada 4 mg Deve ser evitada Contra-indicada (5) TFG ligeira (50-80 ml/min); TFG moderada (30-50 ml/min); TFG grave (&lt; 30 ml/min) (6) Aumento da dose com precaução. Ver secções 4.4, 4.5 e 5.2 (7) Não foram realizados estudos com inibidores moderados do CYP3A4. Ver secção 4.5 (8) Inibidores potentes do CYP3A4. Ver secções 4.3, 4.4 e 4.5
+ TOVIAZ está contra-indicado em indivíduos com compromisso hepático grave (ver secção 4.3).
+ População pediátrica TOVIAZ não é recomendado para utilização em crianças e adolescentes com idade inferior a 18 anos devido à ausência de dados de segurança e eficácia (ver secção 5.2).
+ 4.3 Contra-indicações • Hipersensibilidade à substância activa ou ao amendoim ou soja ou a qualquer um dos excipientes • Retenção urinária • Retenção gástrica • Glaucoma de ângulo fechado não controlado • Miastenia grave • Compromisso hepático grave (Child Pugh classe C) • Indivíduos com compromisso hepático moderado ou grave ou compromisso renal a receberem tratamento concomitante com inibidores potentes do CYP3A • Colite ulcerosa grave • Megacólon tóxico
+ 4.4 Advertências e precauções especiais de utilização
+ TOVIAZ deve ser utilizado com precaução em doentes com: • Obstrução do fluxo da bexiga, clinicamente significativa, em risco de retenção urinária (ver secção 4.3) • Distúrbios obstrutivos gastrointestinais (p. e., estenose pilórica) • Refluxo gastro-esofágico e/ou indivíduos que estejam a tomar simultaneamente medicamentos (tais como bifosfonatos orais) que possam causar ou exacerbar a esofagite • Diminuição da motilidade gastrointestinal • Neuropatia do sistema nervoso autónomo • Glaucoma de ângulo fechado não controlado
+ Devem ser tomadas precauções quando se prescreve ou se aumenta gradualmente a dosagem de fesoterodina a doentes nos quais é esperado um aumento da exposição ao metabolito activo (ver secção 5.1):
+ −-Compromisso hepático (ver secções 4.2, 4.3 e 5.2) −-Compromisso renal (ver secções 4.2, 4.3 e 5.2) −-Tratamento concomitante com inibidores moderados ou potentes do CYP3A4 (ver secções 4.2 e 4.5) −-Tratamento concomitante com um inibidor potente do CYP2D6 (ver secções 4.5 e 5.2).
+ 13 Pode ocorrer uma exposição adicional aumentada, em doentes com uma combinação destes factores. É provável que ocorram efeitos adversos antimuscarínicos dose dependentes. Em populações onde a dose pode ser aumentada para 8 mg uma vez por dia, o aumento de dose deve ser precedido de uma avaliação da resposta e tolerabilidade individual.
+ Assim como para os demais medicamentos indicados para ao tratamento de bexiga hiperactiva, devem ser excluídas as causas orgânicas antes de ser considerado o tratamento com antimuscarínicos. A segurança e a eficácia ainda não foram estabelecidas em doentes com uma causa neurogénica para a hiperactividade do detrusor.
+ Antes do tratamento com fesoterodina devem ser avaliadas outras causas para a micção frequente (tratamento da insuficiência cardíaca ou da doença renal). Na presença de infecção do tracto urinário deve ser feita uma abordagem médica adequada/deve ser iniciado um tratamento antibacteriano.
+ Não é recomendado o tratamento concomitante de fesoterodina com um indutor potente do CYP3A4 (i. e. carbamazepina, rifampicina, fenobarbital, fenitoína, hipericão) (ver secção 4.5).
+ Como com outros antimuscarínicos, a fesoterodina deve ser utilizada com precaução em doentes com risco de prolongamento do intervalo QT (por ex. hipocaliemia, bradicardia e administração concomitante de medicamentos que possam prolongar o intervalo QT) e com doenças cardíacas pré-existentes relevantes (por ex. isquémia do miocárdio, arritmia, insuficiência cardíaca congestiva), (ver secção 4.8). Isto é especialmente válido quando se tomam inibidores potentes do CYP3A4 (ver secções 4.2, 4.5 e 5.1).
+ Lactose TOVIAZ comprimidos de libertação prolongada contém lactose. Este medicamento não deve ser administrado a doentes com problemas hereditários raros de intolerância à galactose, deficiência em lactase de Lapp ou má absorção de glucose-galactose.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Interacções farmacológicas Deve ter-se cuidado na co-administração de fesoterodina com outros agentes antimuscarínicos e medicamentos com propriedades anticolinérgicas (p. ex., amantadina, antidepressivos tricíclicos, alguns neurolépticos), uma vez que podem acentuar os efeitos terapêuticos e adversos (p. ex., obstipação, secura da boca, sonolência, retenção urinária). A fesoterodina pode reduzir o efeito dos medicamentos que estimulam a motilidade do tracto gastrointestinal, como a metoclopromida.
+ Interacções farmacocinéticas Dados in vitro demonstram que o metabolito activo da fesoterodina não inibe o CYP 1A2, 2B6, 2C8, 2C9, 2C19, 2D6, 2E1, ou 3A4, ou induz o CYP 1A2, 2B6, 2C9, 2C19 ou 3A4 em concentrações plasmáticas clinicamente relevantes. Assim, é pouco provável que a fesoterodina altere a depuração dos medicamentos que são metabolizados por estas enzimas.
+ Inibidores do CYP3A4 Inibidores potentes do CYP3A4 Após a inibição do CYP3A4 mediante a co-administração de 200 mg de cetoconazol duas vezes por dia, a Cmax e a AUC do metabolito activo da fesoterodina aumentaram 2,0 e 2,3 vezes nos metabolizadores potentes do CYP2D6 e 2,1 e 2,5 vezes nos metabolizadores fracos do CYP2D6, respectivamente. A dose máxima de fesoterodina deve, portanto, ser restringida a 4 mg quando utilizada concomitantemente com inibidores potentes do CYP3A4 (p. ex., atazanavir, claritromicina, indinavir, itraconazol, cetoconazol, nefazodona, nelfinavir, ritonavir (e todas as terapêuticas com IP potenciados pelo ritonavir), saquinavir e telitromicina) (ver secções 4.2 e 4.4).
+ 14 Inibidores moderados do CYP3A4 Não foram realizados estudos de avaliação do efeito de um inibidor moderado do CYP3A4 (p. ex., amprenavir, aprepitan, diltiazem, eritromicina, fluconazol, fosamprenavir, sumo de toranja, verapamilo) na farmacocinética da fesoterodina. No entanto, é esperado um aumento na exposição do metabolito activo da fesoterodina, embora um aumento mais pequeno do que o observado com o inibidor potente do CYP3A4 (ver secções 4.2 e 4.4 )).
+ Indutores do CYP3A4 Após a administração oral de 8 mg de fesoterodina, seguido da indução do CYP3A4 mediante a co-administração de 600 mg de rifampicina uma vez por dia, a Cmax e a AUC do metabolito activo da fesoterodina diminuíram em aproximadamente 70% e 75%, respectivamente.
+ A indução do CYP3A4 pode conduzir a níveis plasmáticos subterapêuticos. Não é recomendada a utilização concomitante com indutores do CYP3A4 (p. ex., carbamazepina, rifampicina, fenobarbital, fenitoína, hipericão) (ver secção 4.4).
+ Inibidores do CYP2D6 A interacção com CYP2D6 não foi testada clinicamente. A Cmax média e a AUC média do metabolito activo são 1,7 e 2 vezes superiores, respectivamente, em metabolizadores fracos do CYP2D6 comparativamente a metabolizadores potentes. A co-administração de um inibidor potente do CYP2D6 pode resultar num aumento da exposição e acontecimentos adversos. Pode ser necessária uma redução da dose para 4 mg (ver secção 4.4).
+ Contraceptivos orais A fesoterodina não diminui o efeito de inibição da ovulação da contracepção hormonal oral. Na presença de fesoterodina não existem alterações nas concentrações plasmáticas dos contraceptivos orais combinados, contendo etinilestradiol e levonorgestrel.
+ 4.6 Gravidez e aleitamento Gravidez Não existe informação suficiente sobre a utilização de fesoterodina na mulher grávida. Estudos de toxicidade reprodutiva em animais, com fesoterodina, apresentam uma embriotoxicidade pouco significativa (ver secção 5.3). Desconhece-se o risco potencial para o ser humano. Durante a gravidez não é recomendada a utilização de TOVIAZ.
+ Aleitamento Desconhece-se se a fesoterodina é excretada no leite materno; consequentemente, a amamentação não é recomendada durante o tratamento com TOVIAZ.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram realizados estudos dos efeitos sobre a capacidade de conduzir e utilizar máquinas. Como os demais agentes antimuscarínicos, deve ter-se cuidado ao conduzir ou utilizar máquinas devido à possível ocorrência de efeitos adversos tais como visão desfocada, tonturas e sonolência (ver secção 4.8).
+ 4.8 Efeitos indesejáveis Foi avaliada a segurança da fesoterodina em estudos clínicos controlados com placebo, num total de 2859 doentes com bexiga hiperactiva, dos quais 780 receberam placebo.
+ A fesoterodina, devido às suas propriedades farmacológicas, pode causar efeitos antimuscarínicos ligeiros a moderados, como secura da boca, olhos secos, dispepsia e obstipação.
+ O único efeito adverso muito frequente, secura da boca, ocorreu com uma frequência de 28,8% no grupo tratado com fesoterodina comparativamente aos 8,5% no grupo placebo. A maioria dos efeitos
+ 15 adversos ocorreu durante o primeiro mês de tratamento com excepção de casos, classificados como retenção urinária ou valor de urina residual após eliminação superior a 200 ml, que podem ocorrer após um tratamento de longa duração e foi mais comum em indivíduos do sexo masculino do que do sexo feminino. A tabela seguinte indica a frequência das reacções adversas resultantes do tratamento durante os ensaios clínicos controlados com placebo. As reacções adversas descritas nesta tabela são os efeitos que são muito frequentes (≥ 1/10), frequentes (≥ 1/100 a &lt; 1/10) ou pouco frequentes (≥ 1/1.000 a &lt; 1/100).
+ Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ Classes de sistemas de órgãos
+ Muito frequentes Frequentes Pouco frequentes* Cardiopatias Taquicardia Doenças do sistema nervoso Afecções oculares Afecções do ouvido e do labirinto
+ Tonturas; Cefaleia Olhos secos
+ Disgeusia; Sonolência Vertigens Doenças respiratórias, torácicas e do mediastino
+ Garganta seca Dor faringolaríngea; Tosse; Secura nasal Doenças gastrointestinais Secura da boca Dor abdominal; Diarreia; Dispepsia; Obstipação; Náuseas
+ Desconforto abdominal, Flatulência Doenças renais e urinárias Disúria Retenção urinária (incluindo sensação de urina residual; perturbações da micção); Hesitação urinária
+ Afecções dos tecidos cutâneo e subcutâneo Infecções e infestações
+ Erupção cutânea; Pele seca Infecção das vias urinárias
+ Perturbações gerais e alterações no local de administração
+ Fadiga Afecções hepatobiliares Aumento da ALT; Aumento da Gama Glutamil Transpeptidase (GGT)
+ Perturbações do foro psiquiátrico* 5 ou mais casos
+ Insónia Nos ensaios clínicos da fesoterodina, foram descritos casos de enzimas hepáticas acentuadamente elevadas, não sendo a frequência de ocorrência diferente do grupo placebo. A relação com o tratamento com fesoterodina não está esclarecida.
+ Foram obtidos electrocardiogramas de 782 doentes tratados com 4 mg, de 785 tratados com 8 mg, de 222 tratados com 12 mg de fesoterodina e de 780 doentes com placebo. O intervalo QT corrigido para frequência cardíaca em doentes tratados com fesoterodina não divergiu do observado nos doentes tratados com placebo. As taxas de incidência de QTc≥ 500 ms após o início do estudo ou aumento de 16 QTc ≥ 60 ms são de 1,9%, 1,3%, 1,4% e 1,5% para 4 mg,8 mg e 12 mg de fesoterodina e placebo, respectivamente. A relevância clínica destes resultados vai depender dos factores de risco do doente individual e de susceptibilidades presentes (ver secção 4.4).
+ 4.9 Sobredosagem A sobredosagem com agentes antimuscarínicos, incluindo a fesoterodina, pode resultar em efeitos anticolinérgicos graves. O tratamento deve ser sintomático e de suporte. Em caso de sobredosagem é recomendada a monitorização por ECG e devem ser adoptadas medidas padrão de suporte para controlo do prolongamento do intervalo QT. A fesoterodina tem sido administrada com segurança em ensaios clínicos com doses até 28 mg/dia.
+ Uma situação de sobredosagem com fesoterodina deve tratar-se com lavagem gástrica e administração de carvão activado. Tratar os sintomas da seguinte forma:
+ • Efeitos anticolinérgicos centrais graves (p. ex., alucinações, excitação grave): administrar fisostigmina • Convulsões ou excitação pronunciada: administrar benzodiazepinas • Compromisso respiratório: efectuar respiração artificial • Taquicardia: administrar bloqueadores beta • Retenção urinária: efectuar cateterização • Midríase: administrar colírio de pilocarpina e/ou colocar o doente em ambiente escuro.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Antiespasmódicos urinários, código ATC: G04B D11.
+ A fesoterodina é um antagonista competitivo, específico dos receptores muscarínicos. É hidrolisada rápida e extensivamente pelas esterases plasmáticas não específicas no derivado 5-hidroximetil, o seu metabolito activo primário, que é o princípio activo farmacológico principal da fesoterodina.
+ A eficácia das doses fixas de fesoterodina 4 mg e 8 mg foi avaliada em dois ensaios de fase 3, aleotorizados, em dupla ocultação, controlados com placebo e com a duração de 12 semanas. Foram incluídos doentes do sexo feminino (79%) e masculino (21%), com uma idade média de 58 anos (intervalo 19-91 anos). Um total de 33% dos doentes tinham ≥ 65 anos de idade e 11% tinham ≥ 75 anos de idade.
+ Os doentes tratados com fesoterodina tiveram reduções, estatisticamente significativas, da média do número de micções por 24 horas e do número de episódios de incontinência de urgência por 24 horas, no final do tratamento, comparativamente ao placebo. Do mesmo modo, a taxa de resposta (% de doentes que referiram que a sua doença “ melhorou significativamente ” ou “ melhorou ” utilizando uma escala de benefício do tratamento com 4 pontos) foi significativamente superior com a fesoterodina comparativamente ao placebo. Além disso, a fesoterodina melhorou a variação média do volume vazio por micção e a variação média do número de dias de continência por semana (ver tabela 1 em baixo).
+ Tabela 1: Variações médias, desde o início até ao fim do tratamento, para os objectivos primários e secundários seleccionados
+ Estudo 1 Estudo 2 Parâmetro Placebo Fesoterodina Fesoterodina 4 mg 8 mg
+ Comparado Placebo Fesoterodina r activo 4 mg
+ Fesoterodina 8 mg Número de micções por 24 horas#
+ N=27 9 N=265 N=276 N=283 N=266 N=267 N=267 17 Início 12,0 11,6 11,9 11,5 12,2 12,9 12,0 Variação desde o ínicio -1,02
+ -1,74
+ -1,94
+ -1,69-1,02
+ -1,86
+ -1,94
+ valor p
+ &lt; 0,001 &lt; 0,001
+ 0,032 &lt; 0,001
+ Taxa de respondedores (resposta ao tratamento)#
+ N=27 9 N=265 N=276 N=283 N=266 N=267 N=267 Taxa de respondedo res 53,4% 74,7% 79,0% 72,4% 45,1% 63,7% 74,2% valor p
+ &lt; 0,001
+ &lt; 0,001
+ &lt; 0,001
+ &lt; 0,001
+ Número de episódios de incontinência de urgência por 24 horas
+ N=21 1 N=199 N=223 N=223 N=205 N=228 N=218 Início Variação desde o ínicio
+ 3,7-1,20 3,8-2,06 3,7 3,8-2,27-1,83 3,7-1,00 3,9-1,77 3,9-2,42 valor p
+ 0,001 &lt; 0,001
+ 0,003 &lt; 0,001
+ Número de dias de continência por semana
+ N=21 1 N=199 N=223 N=223 N=205 N=228 N=218 Início Variação desde o ínicio
+ 0,8 2,1 0,8 2,8 0,6 0,6 3,4 2,5 0,6 1,4 0,7 2,4 0,7 2,8 valor p
+ 0,007 &lt; 0,001
+ &lt; 0,001
+ &lt; 0,001
+ Volume excretado por micção (ml)
+ N=27 9 N=265 N=276 N=283 N=266 N=267 N=267 Início Variação desde o ínicio
+ 150 10 160 27 154 33 154 24 159 8 152 17 156 33 valor p
+ &lt; 0,001
+ &lt; 0,001
+ 0,150 &lt; 0,001
+ # objectivos primários
+ Electrofisiologia cardíaca: O efeito de 4 mg e 28 mg de fesoterodina sobre o intervalo QT foi avaliado exaustivamente num ensaio paralelo com um grupo de dupla ocultação, aleatorizado, controlado com placebo e com um grupo controlo positivo (monofloxacina 400 mg), com um tratamento de uma vez por dia durante um período de 3 dias em 261 indivíduos do sexo masculino e feminino com idades compreendidas entre 45 e 65 anos. As alterações no QTc inicial, com base no método de correcção Fridericia, não diferiram entre o placebo e os grupos de tratamento.
+ 5.2 Propriedades farmacocinéticas Absorção Após administração oral, devido à rápida e extensa hidrólise pelas esterases plasmáticas não específicas, não foi detectada fesoterodina no plasma.
+ A biodisponibilidade do metabolito activo é de 52%. Após administração oral de uma dose única ou de doses múltiplas de fesoterodina com doses desde 4 mg a 28 mg, as concentrações plasmáticas do metabolito activo são proporcionais à dose. Os níveis plasmáticos máximos são alcançados após
+ 18 aproximadamente 5 horas. Os níveis plasmáticos terapêuticos são alcançados após a primeira administração de fesoterodina. Após a administração de doses múltiplas não ocorre acumulação.
+ Distribuição A ligação do metabolito activo às proteínas plasmáticas é baixa, com aproximadamente 50% ligado à albumina e à alfa-1 glicoproteína ácida. O volume médio de distribuição no estado de equilíbrio após perfusão intravenosa do metabolito activo é de 169 l.
+ Metabolismo Após a administração oral, a fesoterodina é rápida e extensivamente hidrolisada no seu metabolito activo. O metabolito activo é adicionalmente metabolizado no fígado nos seus metabolitos carboxilo, carboxi-N-desisopropilo e N-desisopropilo, com envolvimento do CYP2D6 e do CYP3A4. Nenhum destes metabolitos contribui significativamente para a actividade antimuscarínica da fesoterodina. A Cmax média e a AUC média do metabolito activo são 1,7 e 2 vezes superiores, respectivamente, nos metabolizadores fracos do CYP2D6 quando comparadas com metabolizadores potentes.
+ Eliminação O metabolismo hepático e a excreção renal contribuem significativamente para a eliminação do metabolito activo. Após a administração oral da fesoterodina, aproximadamente 70% da dose administrada foi recuperada na urina na forma de metabolito activo (16%), metabolito carboxilo (34%), metabolito carboxi-N-desisopropilo (18%) ou metabolito N-desisopropilo (1%) e uma quantidade mais pequena (7%) foi recuperada nas fezes. A semi-vida terminal do metabolito activo após a administração oral é de aproximadamente 7 horas e a sua taxa de absorção limitada.
+ Idade e sexo Não são recomendados ajustes da dose nestas subpopulações. A farmacocinética da fesoterodina não é significativamente influenciada pela idade e pelo sexo.
+ Doentes pediátricos A farmacocinética da fesoterodina não foi avaliada em doentes pediátricos.
+ Compromisso renal Em doentes com compromisso renal ligeiro ou moderado (TFG 30-80 ml/min), a Cmax e a AUC do metabolito activo aumentaram até 1,5 e 1,8 vezes, respectivamente, em comparação com indivíduos saudáveis. Em doentes com compromisso renal grave (TFG &lt; 30 ml/min), a Cmax e a AUC aumentaram 2,0 e 2,3 vezes, respectivamente.
+ Compromisso hepática Em doentes com compromisso hepático moderado (Child Pugh classe B), a Cmax e a AUC do metabolito activo aumentaram 1,4 e 2,1 vezes, respectivamente, em comparação com indivíduos saudáveis. A farmacocinética da fesoterodina não foi estudada em doentes com compromisso hepático grave.
+ 5.3 Dados de segurança pré-clínica Em estudos não clínicos de farmacologia de segurança, toxicidade geral, genotoxicidade e carcinogenicidade não foram observados efeitos clinicamente relevantes, excepto os que estão relacionados com o efeito farmacológico da substância activa. Os estudos de reprodução demonstraram uma embriotoxicidade pouco significativa, com doses próximas das doses maternotóxicas (aumento do número de re-absorções, perdas pré-implantação e pós-implantação). Demonstrou-se que as concentrações supraterapêuticas do metabolito activo da fesoterodina inibem a corrente de K+ em canais dos genes humanos clonados (hERG-ether-à-go-go-related gene) e prolongam a duração do potencial de acção (70% e 90% de repolarização) em fibras de Purkinje caninas isoladas. No entanto, em cães conscientes, o metabolito activo não teve efeito sobre o intervalo QT, nem sobre o intervalo QTc, em exposições plasmáticas pelo menos 33 vezes superiores
+ 19 ao pico médio da concentração plasmática livre, em indivíduos que são metabolizadores potentes e 21 vezes superiores à medida em indivíduos que são metabolizadores fracos do CYP2D6 após a administração oral única diária de 8 mg de fesoterodina.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Núcleo do comprimido Xilitol Lactose mono-hidratada Celulose microcristalina Hipromelose Dibehenato de glicerilo Talco
+ Revestimento por película Álcool polivinílico Dióxido de titânio (E171) Macrogol (3350) Talco Lecitina de soja Laca de alumínio de indigotina (E132)
+ 6.2 Incompatibilidades Não aplicável. 6.3 Prazo de validade 2 anos 6.4 Precauções especiais de conservação
+ Não conservar acima de 25ºC. Conservar na embalagem de origem de modo a proteger da humidade.
+ 6.5 Natureza e conteúdo do recipiente Os comprimidos de TOVIAZ 8 mg estão acondicionados em blisters de alumínio-alumínio em embalagens contendo 7,14,28,56,84 ou 98 comprimidos. Os comprimidos de TOVIAZ 8 mg estão também acondicionados em frascos de HDPE contendo 30 ou 90 comprimidos.
+ É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais de eliminação Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Pfizer Limited Ramsgate Road Sandwich Kent CT13 9NJ Reino Unido
+ 20 8. NÚMERO(S) DA AUTORIZAÇÃO DA INTRODUÇÃO NO MERCADO
+ EU/1/07/386/006-010 EU/1/07/386/012 EU/1/07/386/015-016
+ 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 20/04/2007 10. DATA DA REVISÃO DO TEXTO { MM/AAAA}
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu/
+ 21 ANEXO II
+ A. FABRICANTE(S) DA(S) SUBSTÂNCIA(S) ACTIVA(S) DE ORIGEM BIOLÓGICA E &gt; TITULAR(ES) DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 22 A TITULAR(ES) DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do fabricante responsável pela libertação do lote
+ Pfizer Manufacturing Deutschland GmbH Heinrich Mack Str. 35 89257 Illertissen Alemanha
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento sujeito a receita médica. • CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ Não aplicável. • OUTRAS CONDIÇÕES
+ Sistema de Farmacovigilância O Titular da Autorização de Introdução no Mercado tem de assegurar que o sistema de farmacovigilância, como descrito na versão 1.1 incluída no Módulo 1. 8.1 do pedido de Autorização de Introdução no Mercado, está implementado e em funcionamento antes do início da comercialização do medicamento.
+ 23 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 24 A. ROTULAGEM
+ 25 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO E NO ACONDICIONAMENTO PRIMÁRIO
+ Embalagem exterior 4 mg 1. NOME DO MEDICAMENTO TOVIAZ 4 mg comprimidos de libertação prolongada fumarato de fesoterodina
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVAS(S)
+ 1 comprimido contém 4 mg de fumarato de fesoterodina
+ 3. LISTA DOS EXCIPIENTES Contém lactose e lecitina de soja: ver folheto informativo para mais informação.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 7 comprimidos de libertação prolongada 14 comprimidos de libertação prolongada 28 comprimidos de libertação prolongada 56 comprimidos de libertação prolongada 84 comprimidos de libertação prolongada 98 comprimidos de libertação prolongada
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral. Consultar o folheto informativo antes de utilizar
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ Embalagem selada Não usar em caso de embalagem aberta
+ 8. PRAZO DE VALIDADE VAL.: 26 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Não conservar acima de 25°C. Conservar na embalagem de origem de modo a proteger da humidade.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Pfizer Limited Ramsgate Road Sandwich Kent CT13 9NJ Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/07/386/001 7 comprimidos EU/1/07/386/002 14 comprimidos EU/1/07/386/003 28 comprimidos EU/1/07/386/004 56 comprimidos EU/1/07/386/005 98 comprimidos EU/1/07/386/011 84 comprimidos
+ 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE TOVIAZ 4 mg 27 INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS “ BLISTER ”
+ Blister 4 mg 1. NOME DO MEDICAMENTO TOVIAZ 4 mg comprimidos de libertação prolongada fumarato de fesoterodina
+ 2. NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Pfizer Ltd 3. PRAZO DE VALIDADE VAL.: 4. NÚMERO DO LOTE Lote 5. OUTRAS Segunda-feira Terça-feira Quarta-feira Quinta-feira Sexta-feira Sábado Domingo
+ 28 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO E NO ACONDICIONAMENTO PRIMÁRIO
+ Rótulo do frasco de HDPE-4 mg 1. NOME DO MEDICAMENTO TOVIAZ 4 mg comprimidos de libertação prolongada fumarato de fesoterodina
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVAS(S)
+ 1 comprimido contém 4 mg de fumarato de fesoterodina
+ 3. LISTA DOS EXCIPIENTES Contém lactose e lecitina de soja: ver folheto informativo para mais informação.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 30 comprimidos de libertação prolongada 90 comprimidos de libertação prolongada
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral. Consultar o folheto informativo antes de utilizar
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL.: 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Não conservar acima de 25°C. Conservar na embalagem de origem de modo a proteger da humidade.
+ 29 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Pfizer Limited Ramsgate Road Sandwich Kent CT13 9NJ Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/07/386/013 30 comprimidos EU/1/07/386/014 90 comprimidos
+ 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE 30 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO E NO ACONDICIONAMENTO PRIMÁRIO
+ Embalagem exterior 8mg 1. NOME DO MEDICAMENTO TOVIAZ 8 mg comprimidos de libertação prolongada fumarato de fesoterodina
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVAS(S) 1 comprimido contém 8 mg de fumarato de fesoterodina
+ 3. LISTA DOS EXCIPIENTES Contém lactose e lecitina de soja: ver folheto informativo para mais informação.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 7 comprimidos de libertação prolongada 14 comprimidos de libertação prolongada 28 comprimidos de libertação prolongada 56 comprimidos de libertação prolongada 84 comprimidos de libertação prolongada 98 comprimidos de libertação prolongada
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral. Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ Embalagem selada Não usar em caso de embalagem aberta
+ 8. PRAZO DE VALIDADE VAL.: 31 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Não conservar acima de 25°C. Conservar na embalagem de origem de modo a proteger da humidade.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Pfizer Limited Ramsgate Road Sandwich Kent CT13 9NJ Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DA INTRODUÇÃO NO MERCADO
+ EU/1/07/386/006 7 comprimidos EU/1/07/386/007 14 comprimidos EU/1/07/386/008 28 comprimidos EU/1/07/386/009 56 comprimidos EU/1/07/386/010 98 comprimidos EU/1/07/386/012 84 comprimidos
+ 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE TOVIAZ 8 mg 32 INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS “ BLISTER ”
+ Blister 8mg 1. NOME DO MEDICAMENTO TOVIAZ 8 mg comprimidos de libertação prolongada fumarato de fesoterodina
+ 2. NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Pfizer Ltd 3. PRAZO DE VALIDADE VAL.: 4. NÚMERO DO LOTE Lote 5. OUTRAS Segunda-feira Terça-feira Quarta-feira Quinta-feira Sexta-feira Sábado Domingo
+ 33 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO E NO ACONDICIONAMENTO PRIMÁRIO
+ Rótulo do frasco de HDPE-8 mg 1. NOME DO MEDICAMENTO TOVIAZ 8 mg comprimidos de libertação prolongada fumarato de fesoterodina
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVAS(S)
+ 1 comprimido contém 8 mg de fumarato de fesoterodina
+ 3. LISTA DOS EXCIPIENTES Contém lactose e lecitina de soja: ver folheto informativo para mais informação.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 30 comprimidos de libertação prolongada 90 comprimidos de libertação prolongada
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral. Consultar o folheto informativo antes de utilizar
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL.: 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Não conservar acima de 25°C. Conservar na embalagem de origem de modo a proteger da humidade.
+ 34 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Pfizer Limited Ramsgate Road Sandwich Kent CT13 9NJ Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/07/386/015 30 comprimidos EU/1/07/386/016 90 comprimidos
+ 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE 35 B. FOLHETO INFORMATIVO
+ 36 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ TOVIAZ 4 mg Comprimidos de libertação prolongada TOVIAZ 8 mg Comprimidos de libertação prolongada
+ fumarato de fesoterodina
+ Leia atentamente este folheto antes de tomar este medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é TOVIAZ e para que é utilizado 2. Antes de tomar TOVIAZ 3. Como tomar TOVIAZ 4. Efeitos secundários possíveis 5. Como conservar TOVIAZ 6. Outras informações
+ 1. O QUE É TOVIAZ E PARA QUE É UTILIZADO
+ TOVIAZ é um medicamento denominados antimuscarínico, que reduz a actividade da bexiga hiperactiva e trata os seus sintomas.
+ TOVIAZ trata os sintomas da bexiga hiperactiva tais como • não ser capaz de controlar quando esvazia a bexiga (a denominada incontinência de urgência) • necessitar repentinamente de esvaziar a bexiga (a denominada urgência) • ter de esvaziar a bexiga mais do que o habitual (o denominado aumento da frequência urinária)
+ 2. ANTES DE TOMAR TOVIAZ Não tome TOVIAZ • se tem alergia (hipersensibilidade) à fesoterodina, ao amendoim ou à soja ou a qualquer outro componente de TOVIAZ (ver secção 2, “ Informações importantes sobre alguns componentes de TOVIAZ ”) • se não for capaz de esvaziar completamente a bexiga (retenção urinária) • se o estômago se esvaziar lentamente (retenção gástrica) • se tiver uma doença ocular denominada glaucoma de ângulo fechado (pressão elevada no olho) que não esteja controlada • se tiver uma fraqueza excessiva dos músculos (miastenia grave) • se tiver ulceração e inflamação do cólon (colite ulcerosa grave) • se tiver dilatação anormal ou distensão do cólon (megacólon tóxico) • se tiver problemas hepáticos graves.
+ Tome especial cuidado com TOVIAZ Fesoterodina nem sempre pode ser adequada para si. Consulte o seu médico antes de tomar TOVIAZ se algum dos pontos mencionados de seguida se aplicar a si:
+ 37 • se tiver dificuldades em esvaziar completamente a bexiga • se já sentiu uma diminuição nos movimentos intestinais ou se sofrer de obstipação grave • se estiver a ser tratado a uma doença ocular denominada glaucoma de ângulo fechado • se tiver problemas sérios renais ou hepáticos, o seu médico poderá ter de ajustar a sua dose • se tiver uma doença denominada neuropatia do sistema nervoso autónomo na qual você observa sintomas tais como alterações na pressão arterial, ou perturbações nas funções intestinal ou sexual • se tiver uma doença gastrointestinal que afecte a passagem e/ou digestão dos alimentos • se tiver azia ou necessidade de arrotar.
+ Problemas cardíacos: Fale com o seu médico se sofrer de algumas das seguintes condições:
+ • tiver um ECG (gráfico dos batimentos cardíacos) irregular conhecido como prolongamento do intervalo QT ou estiver a tomar algum medicamento conhecido por causar este prolongamento • tiver uma taxa de batimento cardíaco fraco (bradicardia) • sofrer de uma doença cardíaca como isquémia do miocárdio (insuficiente fornecimento do sangue ao músculo cardíaco), batimento cardíaco irregular ou insuficiência cardíaca • tiver níveis invulgarmente baixos de potássio no sangue.
+ Ao tomar TOVIAZ com outros medicamentos Informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica. O seu médico informá-lo-á se pode tomar TOVIAZ com outros medicamentos.
+ Informe o seu médico se estiver a tomar algum dos medicamentos da lista abaixo. O tratamento concomitante com a fesoterodina pode potenciar efeitos secundários tais como secura da boca, obstipação, dificuldade em esvaziar completamente a bexiga ou sonolência, ou fazer com que ocorram mais frequentemente. − medicamentos que contêm a substância activa amantadina (para o tratamento da Doença de Parkinson) − alguns medicamentos utilizados para melhorar a motilidade gastrointestinal ou aliviar as cãibras ou espasmos estomacais e prevenir os enjoos em viagem − alguns medicamentos utilizados para tratar doenças psiquiátricas. − Informe também o seu médico se estiver a tomar algum dos seguintes medicamentos: − medicamentos que contêm algumas das seguintes substâncias activas podem aumentar a decomposição química da fesoterodina e assim diminuir o seu efeito: hipericão (medicamento à base de plantas), rifampicina (utilizada no tratamento antibacteriano), carbamazepina, fenitoína e fenobarbital (utilizados, entre outros, para o tratamento da epilepsia) − medicamentos que contêm algumas das seguintes substâncias activas podem aumentar os níveis sanguíneos da fesoterodina: itraconazol ou cetoconazol (utilizados para o tratamento de infecções fúngicas), ritonavir, atazanavir, indinavir, saquinavir ou nelfinavir (medicação antivírica para o tratamento do VIH), claritromicina ou telitromicina (utilizados no tratamento antibacteriano) e nefazodona (utilizados no tratamento da depressão) − medicamentos que contêm algumas das seguintes substâncias activas podem também aumentar ligeiramente os níveis sanguíneos da fesoterodina: amprenavir ou fosamprenavir (medicação antivírica para o tratamento do VIH), fluconazol (utilizado no tratamento de infecções fúngicas), eritromicina (utilizada no tratamento antibacteriano), aprepitant (medicamento para prevenir as naúseas), diltiazem e verapamilo (para tratamento da angina de peito e hipertensão) − medicamentos que contêm a substância activa metadona (utilizado no tratamento de dor grave e depêndencias).
+ Ao tomar TOVIAZ com alimentos e bebidas TOVIAZ pode ser tomado com ou sem alimentos. No entanto, o sumo de toranja deve ser evitado pois poderá alterar o efeito do medicamento.
+ 38 Gravidez e aleitamento Não deve tomar TOVIAZ se estiver grávida, uma vez que se desconhecem os efeitos da fesoterodina na gravidez e no feto. Informe o seu médico se estiver grávida ou se planeia ficar grávida.
+ Desconhece-se se a fesoterodina é excretada no leite materno; consequentemente, a amamentação não é recomendada durante o tratamento com TOVIAZ.
+ Consulte o seu médico ou farmacêutico antes de tomar qualquer medicamento.
+ Condução de veículos e utilização de máquinas TOVIAZ pode provocar visão desfocada, tonturas e sonolência. Se sentir um destes efeitos, não conduza nem utilize quaisquer ferramentas ou máquinas.
+ Informação importante sobre alguns componentes de TOVIAZ TOVIAZ contém lactose. Se foi informado pelo seu médico que tem intolerância a alguns açúcares, contacte-o antes de tomar este medicamento. TOVIAZ contém óleo de soja. Se for alérgico ao amendoim ou à soja, não tome este medicamento.
+ 3. COMO TOMAR TOVIAZ Tomar TOVIAZ sempre de acordo com as indicações do médico. Fale com o seu médico ou farmacêutico se tiver dúvidas.
+ A dose inicial recomendada de TOVIAZ é um comprimido de 4 mg por dia. Com base na sua resposta ao medicamento, o seu médico poderá prescrever uma dose mais elevada; um comprimido de 8 mg por dia.
+ Deve engolir o seu comprimido inteiro com um copo de água. Não mastigue o comprimido.
+ Para ajudar a recordar-se de tomar TOVIAZ, pode achar mais fácil tomá-lo sempre à mesma hora do dia.
+ Se tomar mais TOVIAZ do que deveria Se tiver tomado mais comprimidos do que lhe disseram para tomar, ou se outra pessoa tomar acidentalmente os seus comprimidos, consulte de imediato o seu médico ou dirija-se ao hospital. Mostre-lhes a sua embalagem de comprimidos.
+ Caso se tenha esquecido de tomar TOVIAZ Caso se tenha esquecido de tomar um comprimido, tome-o logo que se lembre, mas não tome mais do que um comprimido por dia. Não tome uma dose a dobrar para compensar um comprimido que se esqueceu de tomar.
+ Se parar de tomar TOVIAZ Não pare de tomar TOVIAZ sem falar com o seu médico, uma vez que os seus sintomas de bexiga hiperactiva podem voltar ou piorar quando deixar de tomar TOVIAZ.
+ Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou farmacêutico.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todos os medicamentos, TOVIAZ pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ 39 Efeitos secundários muito frequentes (que ocorrem em mais de um em 10 doentes) Pode ficar com a boca seca. Este efeito é geralmente ligeiro ou moderado. Tal pode levar a um risco elevado de cáries dentárias. Consequentemente, deve lavar os dentes regularmente com pasta fluorídrica duas vezes por dia.
+ Efeitos secundários frequentes (que ocorrem de um em 100 doentes a um em 10 doentes) • olhos secos • obstipação • problemas na digestão de alimentos (dispepsia) • esforço ou dor ao esvaziar a bexiga (disúria) • tonturas • dor de cabeça • dor de estômago • diarreia • sensação de enjoo (náuseas) • dificuldades em adormecer (insónia) garganta seca •
+ Efeitos secundários pouco frequentes (que ocorrem de 1 em 1.000 a 1 em 100 doentes) • infecção das vias urinárias • sonolência • distorção do paladar (disgeusia) • vertigens • erupção cutânea • pele seca • sensação desconfortável no estômago • gases (flatulência) • dificuldade em esvaziar completamente a bexiga (retenção urinária) • atraso na passagem da urina (hesitação urinária) • cansaço extremo (fadiga) • aumento do batimento cardíaco (taquicardia) • problemas hepáticos • tosse • secura nasal • dor de garganta
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR TOVIAZ Manter fora do alcance e da vista das crianças.
+ Não utilize TOVIAZ após o prazo de validade impresso na embalagem exterior e no blister a seguir a “ VAL ”. O prazo de validade corresponde ao último dia do mês indicado.
+ Não conservar acima de 25 ºC. Conservar na embalagem de origem de modo a proteger da humidade.
+ Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 40 6. OUTRAS INFORMAÇÕES
+ Qual a composição de TOVIAZ • A substância activa é o fumarato de fesoterodina.
+ TOVIAZ 4 mg Um comprimido de libertação prolongada contém 4 mg de fumarato de fesoterodina, equivalente a 3,1 mg de Fesoterodina. TOVIAZ 8 mg Um comprimido de libertação prolongada contém 8 mg de fumarato de fesoterodina, equivalente a 6,2 mg de Fesoterodina.
+ • Os outros componentes são: Núcleo do comprimido: xilitol, lactose mono-hidratada, celulose microcristalina, hipromelose, dibeenato de glicerol, talco. Revestimento: álcool polivinílico, dióxido de titânio, macrogol (3350), talco, lecitina de soja, laca de alumínio de carmim índigo (E132).
+ Qual o aspecto de TOVIAZ e conteúdo da embalagem
+ TOVIAZ 4 mg comprimidos de libertação prolongada são azuis-claros, ovais, com uma curvatura para fora de ambos os lados, revestidos por película e com a gravação das letras ‘ FS ’ de um dos lados.
+ TOVIAZ 8 mg comprimidos de libertação prolongada são azuis, ovais, com uma curvatura para fora de ambos os lados, revestidos por película e com a gravação das letras ‘ FT ’ de um dos lados.
+ TOVIAZ está disponível em embalagens blister de 7,14,28,56,84 e 98 comprimidos de libertação prolongada. TOVIAZ está também disponível em frascos de HDPE de 30 e 90 comprimidos.
+ É possível que não sejam comercializadas todas as apresentações.
+ Titular da Autorização de Introdução no Mercado
+ Pfizer Limited Ramsgate Road Sandwich Kent CT13 9NJ Reino Unido
+ Fabricante Pfizer Manufacturing Deutschland GmbH Heinrich Mack Str. 35 89257 Illertissen Alemanha
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado:
+ België/Belgique/Belgien Pfizer S. A./N. V. Tél/Tel: +32 (0) 2 554 62 11
+ Luxembourg/Luxemburg Pfizer S. A. Tél/Tel: +32 (0) 2 554 62 11
+ 41 България Пфайзер Люксембург САРЛ, Клон България Тел.: +359 2 970 4333
+ Magyarország Pfizer Kft. Tel.:+ 36 1 488 37 00
+ Česká republika Pfizer s. r. o. Tel: +420-283-004-111
+ Malta V. J. Salomone Pharma Ltd. Tel:+ 356 21 22 01 74
+ Danmark Pfizer ApS Tlf: +45 44 20 11 00
+ Nederland Pfizer bv Tel: +31 (0) 10 406 43 01
+ Deutschland Pfizer Pharma GmbH Tel: +49 (0) 30 550055 51000
+ Norge Pfizer AS Tlf: +47 67 52 61 00 Eesti Österreich Pfizer Luxembourg SARL, Eesti filiaal Tel: +372 6 405 328
+ Pfizer Corporation Austria Ges. m. b. H. Tel: +43 (0) 1 521 15-0
+ Ελλάδα Pfizer Hellas A. E. Τηλ: +30 210 6785800
+ Polska Pfizer Polska Sp. z o. o. Tel.: +48 22 335 61 00
+ España Pfizer S. A. Tel: +34 91 490 99 00
+ Portugal Laboratórios Pfizer, Lda. Tel: +351 21 423 5500
+ France Pfizer Tél: +33 (0) 1 58 07 34 40
+ România Pfizer România S. R. L. Tel: +40 (0) 21 207 28 00
+ Ireland Pfizer Healthcare Ireland Tel: 1800 633 363 (toll free) Tel: +44 (0) 1304 616161
+ Slovenija Pfizer Luxembourg SARL, Pfizer, podružnica za svetovanje s področja farmacevtske dejavnosti, Ljubljana Tel:+ 386 (0) 1 52 11 400
+ Ísland Vistor hf. Sími:+ 354 535 7000
+ Slovenská republika Pfizer Luxembourg SARL, organizačná zložka Tel: +421– 2– 3355 5500
+ Italia Pfizer Italia S. r. l. Tel: +39 06 33 18 21
+ Suomi/Finland Pfizer Oy Puh/Tel: +358(0) 9 43 00 40
+ Κύπρος GEO. PAVLIDES &amp; ARAOUZOS LTD Τηλ: +35722818087
+ Sverige Pfizer AB Tel: +46 (0) 8 550 520 00
+ Latvija Pfizer Luxembourg SARL, filiāle Latvijā Tel: +371 670 35 775
+ United Kingdom Pfizer Limited Tel: +44 (0) 1304 616161
+ 42 Lietuva Pfizer Luxembourg SARL, filialas Lietuvoje Tel. +3705 2514000
+ Este folheto foi aprovado pela última vez em{ MM/AAAA}.
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA): http: //www. emea. europa. eu/.
+ 43

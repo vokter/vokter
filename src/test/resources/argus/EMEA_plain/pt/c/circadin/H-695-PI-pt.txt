@@ -1,0 +1,219 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. NOME DO MEDICAMENTO
+ Circadin 2 mg comprimidos de libertação prolongada
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada comprimido de libertação prolongada contém 2 mg de melatonina. Excipiente: cada comprimido de libertação prolongada contém 80 mg de lactose monohidratada. Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Comprimido de libertação prolongada Comprimidos biconvexos redondos de cor branca a branco sujo
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Circadin é indicado em monoterapia para o tratamento a curto prazo da insónia primária caracterizada por sono de má qualidade em doentes com idade igual ou superior a 55 anos.
+ 4.2 Posologia e modo de administração Via oral. Os comprimidos devem ser deglutidos inteiros.
+ A dose recomendada é de um comprimido de 2 mg uma vez por dia,1 a 2 horas antes da hora de deitar e depois de comer. Esta dosagem deverá manter-se durante três semanas.
+ Uso pediátrico Circadin não é recomendado em crianças e adolescentes com idade inferior a 18 anos devido a dados insuficientes de segurança e eficácia.
+ Insuficiência renal O efeito de qualquer estadio de insuficiência renal na farmacocinética da melatonina não foi estudado. Deverão tomar-se precauções quando se administra melatonina a tais doentes.
+ Compromisso hepático Não há experiência de utilização de Circadin em doentes com insuficiência hepática. Os dados publicados demonstram níveis endógenos acentuadamente elevados de melatonina durante as horas do dia com luz devido à depuração reduzida em doentes com compromisso hepático. Por este motivo, não é recomendada a utilização de Circadin em doentes com compromisso hepático.
+ 4.3 Contra-indicações Hipersensibilidade à substância activa ou a qualquer um dos excipientes.
+ 4.4 Advertências e precauções especiais de utilização
+ Circadin pode provocar sonolência. Assim, o medicamento deverá ser utilizado com precaução caso os efeitos da sonolência possam pôr em risco a segurança.
+ 2 Não existem dados clínicos sobre a utilização de Circadin em indivíduos com doenças autoimunes. Por este motivo, não é recomendada a utilização de Circadin em doentes com doenças autoimunes.
+ Os doentes com problemas hereditários raros de intolerância à galactose, deficiência de lactase de LAPP ou malabsorção de glucose-galactose não devem tomar este medicamento.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Interacções farmacocinéticas
+ • Observou-se que a melatonina induz o CYP3A in vitro em concentrações supra-terapêuticas. Desconhece-se a relevância clínica desta observação. Caso a indução ocorra, esta pode dar origem a concentrações plasmáticas reduzidas de medicamentos administrados concomitantemente. • A melatonina não induz as enzimas CYP1A in vitro a concentrações supra-terapêuticas. Assim, as interacções entre a melatonina e outras substâncias activas em consequência do efeito da melatonina sobre as enzimas CYP1A não deverão ser significativas. • O metabolismo da melatonina é principalmente mediado pelas enzimas CYP1A. Por este motivo, é possível que se registem interacções entre a melatonina e outras substâncias activas em consequência do seu efeito sobre as enzimas CYP1A. • Deverá agir-se com precaução no caso de doentes a tomar fluvoxamina, pois esta aumenta os níveis de melatonina (AUC 17 vezes superior e Cmax sérica 12 vezes superior), inibindo o seu metabolismo pelas isoenzimas CYP1A2 e CYP2C19 do citocromo hepático P450 (CYP). Esta combinação deve ser evitada. • Deverá agir-se com precaução no caso de doentes a tomar 5 ou 8-metoxipsoraleno (5 e 8-MOP), que aumenta os níveis de melatonina, inibindo o seu metabolismo. • Deverá agir-se com precaução no caso de doentes a tomar cimetidina, um inibidor do CYP2D, que aumenta os níveis plasmáticos da melatonina, inibindo o seu metabolismo. • O tabagismo pode diminuir os níveis de melatonina devido à indução do CYP1A2. • Deverá agir-se com precaução no caso de doentes a tomar estrogénios (por exemplo, contraceptivos ou terapêutica hormonal de substituição), que aumentam os níveis de melatonina inibindo o seu metabolismo pelo CYP1A1 e pelo CYP1A2. • Os inibidores do CYP1A2, como as quinolonas, podem dar origem a uma maior exposição à melatonina. • Os indutores do CYP1A2, como a carbamazepina e a rifampicina, podem dar origem a concentrações plasmáticas reduzidas de melatonina. • Existe uma grande quantidade de informação na literatura da especialidade sobre o efeito dos agonistas/antagonistas adrenérgicos, agonistas/antagonistas opiáceos, medicamentos antidepressivos, inibidores das prostaglandinas, benzodiazepinas, triptofano e álcool sobre a secreção endógena de melatonina. Não foi ainda estudado se estas substâncias activas interferem ou não nos efeitos dinâmicos ou cinéticos do Circadin ou vice-versa.
+ Interacções farmacodinâmicas
+ • Não deve ingerir-se álcool com Circadin, uma vez que reduz a eficácia de Circadin sobre o sono. • Circadin pode potenciar as propriedades sedativas das benzodiazepinas e dos hipnóticos não benzodiazepínicos, como o zaleplom, o zolpidem e o zopiclona. Num ensaio clínico, foi clara a evidência de interacção farmacodinâmica transitória entre Circadin e zolpidem uma hora após a utilização concomitante. A administração concomitante aumentou a falta de atenção, de memória e de coordenação em comparação com zolpidem administrado isoladamente. • Circadin foi administrado concomitantemente em estudos com tioridazina e imipramina, substâncias activas que afectam o sistema nervoso central. Não foram detectadas interacções farmacocinéticas clinicamente significativas em nenhum destes casos. No
+ 3 entanto, a administração concomitante com Circadin resultou no aumento de sensações de tranquilidade e de dificuldade na realização de tarefas em comparação com a imipramina administrada isoladamente, e no aumento das sensações de" cabeça confusa" em comparação com a tioridazina administrada isoladamente.
+ 4.6 Gravidez e aleitamento No que respeita à melatonina, não existem dados clínicos sobre as gravidezes a ela expostas. Os estudos em animais não indicam quaisquer efeitos nefastos directos ou indirectos no que respeita à gravidez, ao desenvolvimento embrionário/fetal, parto ou ao desenvolvimento pós-natal (ver secção 5.3). Tendo em vista a falta de dados clínicos, não é recomendada a utilização em mulheres grávidas e em mulheres que pretendem engravidar.
+ Foi detectada melatonina endógena no leite materno humano, pelo que a melatonina exógena será provavelmente secretada para o leite humano. Existem dados em modelos animais, incluindo roedores, ovinos, bovinos e primatas, que indicam a transferência materna de melatonina para o feto através da placenta ou no leite. Assim, o aleitamento não é recomendado em mulheres que estejam em tratamento com melatonina.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Os efeitos de Circadin sobre a capacidade de conduzir e utilizar máquinas são moderados. Circadin pode causar sonolência, pelo que o medicamento deverá ser utilizado com precaução se os efeitos da sonolência puderem pôr em risco a segurança.
+ 4.8 Efeitos indesejáveis Em ensaios clínicos (nos quais um total de 1361 doentes estava a tomar Circadin e 1247 doentes estavam a tomar placebo), 37,0% dos doentes a tomar Circadin referiram uma reacção adversa em comparação com 31,8% dos que estavam a tomar um placebo. Comparando a taxa de doentes com reacções adversas por 100 doente-semanas, a taxa foi mais elevada para o placebo do que para o Circadin (8,21 – placebo vs. 3,17 – Circadin). As reacções adversas mais frequentes foram a cefaleia, a faringite, as dores nas costas e a astenia, que foram frequentes, segundo a definição de MedDRA, tanto nos grupos tratados com Circadin como com placebo.
+ As seguintes reacções adversas foram referidas nos ensaios clínicos e foram definidas como estando possível, provável ou definitivamente relacionadas com o tratamento. Um total de 6,9% dos indivíduos a receber Circadin referiu uma reacção adversa, em comparação com 5,9% dos indivíduos a tomar placebo. No quadro abaixo apenas foram incluídas as reacções adversas ocorridas com uma frequência igual ou superior às ocorridas com placebo.
+ Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ Muito frequentes (≥ 1/10); Frequentes (≥ 1/100 a &lt; 1/10); Pouco frequentes (≥ 1/1.000 a &lt; 1/100); Raros (≥ 1/10.000 a &lt; 1/1.000); Muito raros (&lt; 1/10.000), Desconhecido (não pode ser calculado a partir dos dados disponíveis).
+ Classes de Muito Frequentes Pouco frequentes Raros sistemas de órgãos
+ frequentes
+ Infecções e infestações
+ Herpes zóster Doenças do sangue e do sistema linfático
+ Leucopenia, Trombocitopenia 4 Doenças do metabolismo e da nutrição
+ Hipertrigliceridemia Perturbações do foro psiquiátrico
+ Irritabilidade, Nervosismo, Inquietação, Insónia, Sonhos anómalos
+ Alterações do humor, Agressividade, Agitação, Choro, Despertar muito cedo, Aumento da libido
+ Doenças do sistema nervoso
+ Enxaqueca, Hiperactividade psicomotora, Tonturas, Sonolência
+ Perturbação da memória, Perturbação da atenção, Sono de má qualidade
+ Afecções oculares Acuidade visual reduzida, Visão desfocada, Aumento da lacrimação
+ Afecções do ouvido e do labirinto
+ Vertigem posicional Vasculopatias Afrontamentos Doenças gastrointestinais
+ Dor abdominal, Obstipação, Boca seca
+ Doenças gastrointestinais, Desconforto gastrointestinal, Vómitos, Ruídos intestinais anómalos, Flatulência, Hiper-secreção salivar, Halitose
+ Afecções hepatobiliares Hiperbilirrubinemia Aumento das enzimas hepáticas, Resultado anómalo do teste da função hepática, Análises laboratoriais anómalas
+ Afecções dos tecidos cutâneos e subcutâneas
+ Hiperhidrose Eczema, Eritema, Erupção cutânea prurítica, Prurido, Pele seca, Disfunção nas unhas, Suores nocturnos
+ Afecções musculosqueléticas e dos tecidos conjuntivos
+ Cãibras musculares, Dores no pescoço Doenças dos órgãos genitais e da mama
+ Priapismo Perturbações gerais e alterações no local de administração
+ Astenia Fadiga Exames complementares de diagnóstico
+ Aumento de peso 5 4.9 Sobredosagem
+ Não foram descritos casos de sobredosagem. Circadin foi administrado em doses diárias de 5 mg em ensaios clínicos durante 12 meses sem alterar significativamente a natureza das reacções adversas referidas.
+ A administração de doses diárias até 300 mg de melatonina sem causar reacções adversas clinicamente significativas tem sido referida na literatura.
+ Em caso de sobredosagem, é de esperar uma certa sonolência. Prevê-se que a clearance da substância activa ocorra 12 horas após a ingestão. Não é necessário qualquer tratamento especial.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Agonistas do Receptor da Melatonina, código ATC: N05CH01
+ A melatonina é uma hormona produzida naturalmente pela glândula pineal e está estruturalmente relacionada com a serotonina. Fisiologicamente, a secreção de melatonina aumenta pouco depois de começar a escurecer, atinge o seu pico entre as 2 e as 4 horas da manhã e diminui durante a segunda metade da noite. A melatonina está associada ao controlo dos ritmos circadianos e à indução do ciclo luz-escuro. Está também associada a um efeito hipnótico e ao aumento da propensão para dormir.
+ Mecanismo de acção Pensa-se que a actividade da melatonina nos receptores MT1, MT2 e MT3 contribua para as suas propriedades promotoras do sono, uma vez que estes receptores (sobretudo o MT1 e o MT2) estão envolvidos na regulação dos ritmos circadianos e na regulação do sono.
+ Critério de utilização Devido ao papel que a melatonina desempenha na regulação do sono e do ritmo circadiano, e à diminuição, em função da idade, da produção endógena de melatonina, esta pode melhorar eficazmente a qualidade do sono, sobretudo em doentes com mais de 55 anos que sofram de insónia primária.
+ Eficácia clínica Nos ensaios clínicos em que doentes sofrendo de insónia primária receberam Circadin 2 mg todas as noites durante 3 semanas, foram observados benefícios nos doentes tratados comparativamente com os que receberam um placebo na latência do sono (conforme medida por meios objectivos e subjectivos) e na qualidade subjectiva do sono e no funcionamento durante o dia (sono reparador) sem afectar a vigilância durante o dia.
+ Num estudo polisomnográfico (PSG) com uma fase de iniciação de 2 semanas (cego com tratamento por placebo), seguido de um período de tratamento de 3 semanas (concepção duplamente cega, controlada por placebo, de grupos paralelos) e um intervalo de segurança de 3 semanas, a latência do sono (LS) foi encurtada em 9 minutos em comparação com o placebo. Não se verificaram quaisquer modificações no padrão de sono nem qualquer efeito na duração do sono REM por parte do Circadin. Não ocorreram modificações no funcionamento diurno com Circadin 2 mg.
+ Num estudo realizado em doentes em ambulatório com um período inicial de 2 semanas com placebo, um período de 3 semanas de tratamento aleatorizado, duplamente cego, controlado por placebo e de grupos paralelos e um intervalo de segurança de 2 semanas com placebo, a taxa de doentes que revelou uma melhoria clinicamente significativa, tanto na qualidade do sono como no estado de alerta matinal, foi de 47% no grupo de Circadin em comparação com 27% no grupo de placebo. Além disso, a qualidade do sono e o estado de alerta matinal melhoraram significativamente com Circadin em comparação com o placebo. As variáveis do sono foram regressando gradualmente aos valores de
+ 6 referência sem dependência, sem aumento dos acontecimentos adversos e sem aumento dos sintomas de abstinência.
+ Num segundo estudo realizado em doentes em ambulatório com um período inicial de duas semanas com placebo e um período de tratamento de 3 semanas, aleatorizado, duplamente cego, controlado por placebo e de grupos paralelos, a taxa de doentes que revelou uma melhoria clinicamente significativa tanto na qualidade do sono como no estado de alerta matinal foi de 26% no grupo de Circadin em comparação com 15% no grupo de placebo. O Circadin encurtou a latência do sono referida pelos doentes em 24,3 minutos contra 12,9 minutos com placebo. Além disso, a qualidade do sono, o número de vezes que acordaram e o estado de alerta matinal, referidos pelos doentes, melhoraram significativamente com Circadin em comparação com o placebo. A qualidade de vida melhorou significativamente com Circadin 2 mg em comparação com o placebo.
+ 5.2 Propriedades farmacocinéticas Absorção A absorção de melatonina ingerida oralmente é total nos adultos e poderá diminuir até 50% nos idosos. A cinética da melatonina é linear num intervalo de 2 a 8 mg.
+ A biodisponibilidade é da ordem dos 15%. Existe um efeito de primeira passagem significativo com um metabolismo de primeira passagem estimado de 85%. O Tmax ocorre 3 horas após a ingestão de alimentos. A taxa de absorção da melatonina e a Cmax após administração oral de Circadin 2 mg é afectada pelos alimentos. A presença de alimentos atrasou a absorção da melatonina tendo como resultado um pico de concentração plasmática tardio (Tmax=3,0 h contra Tmax=0,75 h) e menor (Cmax=1020 pg/ml contra Cmax=1176 pg/ml) no caso de ingestão de alimentos.
+ Distribuição A ligação da melatonina às proteínas plasmáticas in vitro é de 60%. Circadin liga-se principalmente à albumina, à alfa1-glicoproteína ácida e à lipoproteína de alta densidade.
+ Biotransformação Dados experimentais sugerem que as isoenzimas CYP1A1, CYP1A2 e, possivelmente, CYP2C19 do sistema do citocromo P450 estão envolvidas no metabolismo da melatonina. O principal metabolito é 6-sulfatoxi-melatonina (6-S-MT), que é inactivo. O local de biotransformação é o fígado. A excreção do metabolito é concluída num prazo de 12 horas após a ingestão.
+ Eliminação A semi-vida terminal (t½) é de 3, 5-4 horas. A eliminação faz-se por excreção renal de metabolitos,89% sob a forma de conjugados sulfatados e glucoronídios de 6-hidroximelatonina e 2% é excretado sob a forma de melatonina (fármaco inalterado).
+ Género Verifica-se um aumento de 3 a 4 vezes da Cmax nas mulheres em comparação com os homens. Foi igualmente observada uma variabilidade de cinco vezes da Cmax entre diferentes membros do mesmo sexo. No entanto, não foram detectadas diferenças farmacodinâmicas entre homens e mulheres apesar das diferenças nos níveis sanguíneos.
+ Populações especiais Idosos Sabe-se que o metabolismo da melatonina diminui com a idade. Foram referidos níveis mais elevados de AUC e Cmax num intervalo de doses em indivíduos mais velhos em comparação com indivíduos mais novos, reflectindo a diminuição do metabolismo da melatonina nos idosos. Níveis de Cmax na ordem dos 500 pg/ml em adultos (18-45) contra 1200 pg/ml em idosos (55-69); níveis de AUC em torno de 3000 pg* h/ml em adultos em comparação com 5000 pg* h/ml nos idosos.
+ 7 Compromisso renal Dados da empresa indicam que não há acumulação de melatonina após dosagem repetida. Este resultado é compatível com a curta semi-vida da melatonina nos seres humanos. Os níveis avaliados no sangue dos doentes às 23: 00 horas (2 horas após a administração), após 1 e 3 semanas de administração diária, foram de 411,4 ± 56,5 e 432,00 ± 83,2 pg/ml respectivamente e são semelhantes aos observados em voluntários saudáveis após uma dose única de Circadin 2 mg.
+ Compromisso hepático O fígado é o principal local do metabolismo da melatonina, pelo que a insuficiência hepática resulta em níveis endógenos de melatonina mais elevados. Os níveis plasmáticos de melatonina em doentes com cirrose aumentaram significativamente durante as horas do dia com luz. Os doentes tinham uma excreção total de 6-sulfatoxi-melatonina significativamente reduzida em comparação com os controlos.
+ 5.3 Dados de segurança pré-clínica Os dados não clínicos não revelam riscos especiais para o ser humano, segundo estudos convencionais de farmacologia de segurança, toxicidade de dose repetida e genotoxicidade.
+ O nível a que não se observaram efeitos adversos (NOAEL) a 15 mg/kg/dia em ratos é equivalente a uma AUC que é consideravelmente mais elevada (x 15000) do que a exposição humana após a ingestão de Circadin 2 mg.
+ O estudo de carcinogenicidade em ratos não revelou qualquer efeito que possa ser relevante para os seres humanos.
+ Na toxicologia reprodutiva, a administração oral de melatonina a fêmeas grávidas de ratinhos, ratos ou coelhos não provocou efeitos adversos nas crias, avaliados em termos de viabilidade fetal, anomalias esqueléticas e viscerais, proporção de sexos, peso à nascença e posterior desenvolvimento físico, funcional e sexual. Foi detectado um ligeiro efeito no crescimento pós-natal e na viabilidade em ratos, apenas com doses muito elevadas, equivalentes a aproximadamente 2000 mg/dia nos seres humanos.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Metacrilato de amónio copolímero tipo B Fosfato de cálcio dibásico Lactose mono-hidratada Sílica coloidal anidra Talco Estearato de magnésio
+ 6.2 Incompatibilidades Não aplicável. 6.3 Prazo de validade 5 anos 6.4 Precauções especiais de conservação
+ Não conservar acima de 25°C. Conservar na embalagem de origem para proteger da luz.
+ 8 6.5 Natureza e conteúdo do recipiente
+ Os comprimidos são embalados em blisters opacos de PVC/PVDC com forro de folha de alumínio. A embalagem consiste num blister contendo 20 ou 21 comprimidos. Os blisters são depois embalados em caixas de cartão.
+ É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais de eliminação Os medicamentos que já não são necessários não devem ser eliminados na canalização ou no lixo doméstico. Devolva-os a uma farmácia ou pergunte ao farmacêutico como deve eliminá-los de acordo com os normativos nacionais. Estas medidas irão ajudar a proteger o ambiente.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ RAD Neurim Pharmaceuticals EEC Limited One Forbury Square The Forbury Reading Berkshire RG1 3EB Reino Unido e-mail: neurim@ neurim. com
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/07/392/001 EU/1/07/392/002 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 29/06/2007 10. DATA DA REVISÃO DO TEXTO Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu
+ 9 ANEXO II
+ A. TITULARES DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEIS PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 10 A. TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do fabricante responsável pela libertação do lote
+ Penn Pharmaceutical Services Ltd Units 23-24 Tafarnaubach Industrial Estate Tredegar Gwent NP22 3AA Reino Unido
+ Catalent Germany Schorndorf GmbH Steinbeisstrasse 2 D-73614 Schorndorf Alemanha
+ O folheto informativo que acompanha o medicamento deve mencionar o nome e endereço do fabricante responsável pela libertação do lote em causa.
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento sujeito a receita médica. • CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ Não aplicável. • OUTRAS CONDIÇÕES
+ Sistema de farmacovigilância O Titular da AIM deve certificar-se da implementação e funcionamento do sistema de farmacovigilância antes de colocar o produto no mercado.
+ Sistema de Gestão do Risco O Titular da AIM compromete-se a realizar o estudo especificado no plano de farmacovigilância.
+ Deve ser fornecido um plano de gestão de riscos actualizado de acordo com a Directiva do Comité dos Medicamentos para Uso Humano (CHMP) relativa ao sistema de gestão de riscos para medicamentos para uso humano.
+ 11 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 12 A. ROTULAGEM
+ 13 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ EMBALAGEM 1. NOME DO MEDICAMENTO Circadin 2 mg comprimidos de libertação prolongada melatonina
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada comprimido contém 2 mg de melatonina.
+ 3. LISTA DOS EXCIPIENTES Contém lactose mono-hidratada. Consultar o folheto para mais informações.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Comprimidos de libertação prolongada 20 comprimidos 21 comprimidos
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar. Via oral.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP: 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Não conservar acima de 25°C. Conservar na embalagem de origem para proteger da luz.
+ 14 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ RAD Neurim Pharmaceuticals EEC Limited One Forbury Square The Forbury Reading Berkshire RG1 3EB Reino Unido e-mail: neurim@ neurim. com
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/07/392/001 21 comprimidos EU/1/07/392/002 20 comprimidos
+ 13. NÚMERO DO LOTE Lote: 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Circadin 2 mg 15 INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS “ BLISTER ” OU FITAS CONTENTORAS
+ BLISTER 1. NOME DO MEDICAMENTO Circadin 2 mg comprimidos de libertação prolongada melatonina
+ 2. NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ RAD Neurim Pharmaceuticals EEC Limited 3. PRAZO DE VALIDADE EXP: 4. NÚMERO DO LOTE Lote: 5. OUTRAS 16 B. FOLHETO INFORMATIVO
+ 17 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Circadin 2 mg comprimidos de libertação prolongada Melatonina
+ Leia atentamente este folheto antes de tomar este medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros. O medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é Circadin e para que é utilizado 2. Antes de tomar Circadin 3. Como tomar Circadin 4. Efeitos secundários possíveis 5. Como conservar Circadin 6. Outras informações
+ 1. O QUE É CIRCADIN E PARA QUE É UTILIZADO
+ A substância activa de Circadin, melatonina, pertence a um grupo natural de hormonas produzidas pelo organismo.
+ Circadin é utilizado como monoterapia para o tratamento a curto prazo da insónia primária (dificuldade em adormecer ou em ficar adormecido, ou sono de má qualidade durante, pelo menos, um mês) caracterizada por sono de má qualidade em doentes com idade igual e superior a 55 anos.
+ 2. ANTES DE TOMAR CIRCADIN Não tome Circadin -se tem alergia (hipersensibilidade) à melatonina ou a qualquer outro componente de Circadin.
+ Tome especial cuidado com Circadin -se a sonolência pode pôr em risco a sua segurança;
+ -se tiver problemas de fígado;
+ -se tiver problemas de rins;
+ -se sofrer de alguma doença autoimune (em que o organismo é" atacado" pelo seu próprio
+ sistema imunitário).
+ Ao tomar Circadin com outros medicamentos
+ Informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente quaisquer outros medicamentos, incluindo medicamentos obtidos sem receita médica, ANTES de iniciar o tratamento, dado que estes podem afectar a acção do Circadin. Estes medicamentos incluem hipnóticos e tranquilizantes (por exemplo, benzodiazepinas), fluvoxamina, tioridazina e imipramina (utilizados no tratamento da depressão ou de problemas psiquiátricos), estrogénio (contraceptivos ou terapêutica hormonal de substituição), cimetidina e psoralenos (utilizados no tratamento de problemas da pele, por exemplo, psoríase).
+ 18 Ao tomar Circadin com alimentos e bebidas Tome Circadin depois de ter comido. Não beba álcool antes, durante ou depois de tomar Circadin.
+ Gravidez e aleitamento Consulte o seu médico ou farmacêutico antes de tomar qualquer medicamento. Não é recomendada a utilização de Circadin se estiver grávida ou se suspeita que pode estar grávida. Não é recomendável tomar Circadin se estiver a amamentar.
+ Condução de veículos e utilização de máquinas Circadin pode provocar sonolência. No caso de ser afectado, não deve conduzir nem utilizar máquinas. Se sofrer de sonolência contínua, consulte o seu médico.
+ Informações importantes sobre alguns componentes de Circadin Cada comprimido de libertação prolongada contém 80 mg de lactose monohidratada. Se o seu médico lhe disse que sofre de intolerância a alguns açúcares, contacte o seu médico antes de tomar Circadin.
+ 3. COMO TOMAR CIRCADIN Tomar Circadin sempre de acordo com as indicações do médico. Fale com o seu médico ou farmacêutico se tiver dúvidas. A dose é de um comprimido de Circadin por dia por via oral, depois de comer,1 a 2 horas antes da hora de deitar, durante 3 semanas. Deve engolir o comprimido inteiro. Os comprimidos de Circadin não devem ser esmagados nem cortados ao meio.
+ Se tomar mais Circadin do que deveria Se, acidentalmente, tiver tomado mais do seu medicamento do que devia, contacte o seu médico ou farmacêutico logo que possível.
+ Tomar mais do que a dose diária recomendada poderá fazê-lo sentir-se sonolento.
+ Caso se tenha esquecido de tomar Circadin Caso se tenha esquecido de tomar um comprimido, tome outro assim que se lembrar, antes de se deitar, ou espere até serem horas de tomar a sua próxima dose e, a partir daí, continue como anteriormente.
+ Não tome uma dose a dobrar para compensar uma dose que se esqueceu de tomar.
+ Se parar de tomar Circadin Não há quaisquer efeitos negativos conhecidos se o tratamento for interrompido ou terminado antecipadamente. Não são conhecidos quaisquer efeitos de privação após a conclusão do tratamento com Circadin.
+ Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou farmacêutico.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todos os medicamentos, Circadin pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas. Os efeitos seguintes são considerados como pouco frequentes (isto é, com probabilidade de ocorrerem em menos de 1 em 100 doentes):
+ Irritabilidade, nervosismo, agitação, insónia, sonhos anormais, enxaqueca, hiperactividade psicomotora (agitação associada a maior actividade), tonturas, sonolência (cansaço), dor abdominal, obstipação, boca seca, hiperbilirrubinemia (alterações na composição sanguínea que poderão causar o amarelecimento da pele ou dos olhos (icterícia )), hiperhidrose (transpiração excessiva), astenia (sensação de fraqueza) e aumento de peso.
+ 19 Os efeitos seguintes são considerados raros (isto é, com probabilidade de ocorrerem em menos de 1 em 1000 doentes):
+ Herpes Zóster (zona), leucopenia, trombocitopenia, hipertrigliceridemia, alterações de humor, agressividade, agitação, choro, despertar muito cedo, aumento da libido (aumento do apetite sexual), perturbação da memória, perturbação da atenção, sono de má qualidade, acuidade visual reduzida (perturbações visuais), visão desfocada, aumento da lacrimação (olhos lacrimejantes), vertigem posicional (tonturas ao levantar), afrontamentos, desconforto gastrointestinal, vómitos, ruídos intestinais anómalos, flatulência (gases), hiper-secreção salivar (produção excessiva de saliva), halitose (mau hálito), resultado anómalo de teste da função hepática (aumento das enzimas hepáticas), eczema, eritema (rash cutâneo), rash prurítico (rash com comichão), prurido (comichão), pele seca, doença das unhas, suores nocturnos, cãibras musculares, dores no pescoço, priapismo (maior duração da erecção) e fadiga (cansaço).
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR CIRCADIN Manter fora do alcance e da vista das crianças.
+ Não utilize Circadin após o prazo de validade impresso na embalagem exterior. O prazo de validade corresponde ao último dia do mês indicado.
+ Não conservar acima de 25°C. Conservar na embalagem de origem para proteger da luz.
+ Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Circadin -A substância activa é a melatonina. Cada comprimido de libertação prolongada contém 2 mg de
+ melatonina.
+ -Os outros componentes são metacrilato de amónio copolímero tipo B, fosfato de cálcio dibásico
+ dihidratado, lactose mono-hidratada, silica (coloidal anidra), talco e estearato de magnésio.
+ Qual o aspecto de Circadin e conteúdo da embalagem Circadin 2 mg comprimidos de libertação prolongada está disponível sob a forma de comprimidos biconvexos redondos de cor branca a branco sujo. Cada embalagem de comprimidos contém um blister de 20 ou 21 comprimidos. É possível que não sejam comercializadas todas as apresentações.
+ Titular da Autorização de Introdução no Mercado e Fabricante
+ Titular da Autorização de Introdução no Mercado:
+ RAD Neurim Pharmaceuticals EEC Limited One Forbury Square The Forbury Reading Berkshire RG1 3EB Reino Unido e-mail: neurim@ neurim. com
+ 20 Fabricante:
+ Centros responsáveis pela libertação dos lotes no EEE:
+ Penn Pharmaceutical Services Ltd Units 23-24 Tafarnaubach Industrial Estate Tredegar Gwent NP22 3AA Reino Unido
+ Catalent Germany Schorndorf GmbH Steinbeisstrasse 2 D-73614 Schorndorf Alemanha
+ Este folheto foi aprovado pela última vez em{ MM/AAAA}.
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado
+ België/Belgique/Belgien Nycomed Belgium Chaussée de Gand 615 Gentsesteenweg B-1080 Bruxelles/Brussel/Brüssel Tél/Tel: +32 2 464 06 11 nycomed-belgium@ nycomed. com
+ Luxembourg/Luxemburg Nycomed Belgium Chaussée de Gand 615, Gentsesteenweg B-1080 Bruxelles/Brüssel Belgique/Belgien Tél/Tel: +32 2 464 06 11 nycomed-belgium@ nycomed. com
+ България Lundbeck Export A/S Representative Office EXPO 2000 Vaptzarov Blvd. 55 Sofia 1407 Tel: +359 2 962 4696
+ Magyarország Lundbeck Hungaria Kft. Montevideo utca 3/B H-1037 Budapest, Tel: +36 1 4369980
+ Česká republika Lundbeck Česká republika s. r. o. Bozděchova 7 CZ-150 00 Praha 5 Tel: +420 225 275 600
+ Malta H. Lundbeck A/S Ottiliavej 9 DK-2500 Valby Id-Danimarka Tel:+ 45 36301311
+ Danmark Nycomed Danmark ApS Langebjerg 1 DK-4000 Roskilde Tlf: +45 46 77 11 11 info@ nycomed. com
+ Nederland Nycomed Nederland B. V. Jupiterstraat 250 NL-2132 HK Hoofddorp Tel: +31 23 566 8777 infonl@ nycomed. com
+ 21 Deutschland Lundbeck GmbH Karnapp 25 D-21079 Hamburg Tel: +49 40 23649 0
+ Norge Nycomed Pharma AS Drammensveien 852 N-1372 Asker Tlf: +47 6676 3030 infonorge@ nycomed. no
+ Eesti Nycomed SEFA AS Pirita tee 20T EE-10127 Tallinn Tel: +372 6112 569 info@ nycomed. ee
+ Österreich Nycomed Pharma GmbH EURO PLAZA, Gebäude F Technologiestraße 5 A-1120 Wien Tel:+ 43 1 815 0202-0 nycomed-austria@ nycomed. com
+ Ελλάδα Nycomed Hellas SA 196 Kifissias Avenue Halandri 152 31, Athens Τηλ: +30 210 6729570 info@ nycomed. gr
+ Polska Lundbeck Poland Sp. z o. o. ul. Krzywickiego 34 PL-02-078 Warszawa Tel.:+ 48 22 626 93 00
+ España Lundbeck España S. A. Av. Diagonal,605, 9-1a E-08028 Barcelona Tel: +34 93 494 9620
+ Portugal Lundbeck Portugal Lda Quinta da Fonte Edifício D. João I – Piso 0 Ala A P-2770-203 Paço d’ Arcos Tel: +351 21 00 45 900
+ France Lundbeck SAS
+ România Lundbeck Export A/S, 37 Avenue Pierre 1er de Serbie F-75008 Paris Tél: +33 1 53 67 42 00
+ Reprezentanta din Romania Bd. Poligrafiei, No. 3A, 2nd floor Sector 1 Bucuresti 013704-RO Tel: +40 21319 88 26
+ Ireland Lundbeck (Ireland) Limited 7 Riverwalk Citywest Business Campus IRL-Dublin 24 Tel: +353 1 468 9800
+ Slovenija Lundbeck Pharma d. o. o. Titova cesta 8 SI-2000 Maribor Tel.: +386 2 229 4500
+ Ísland Nycomed Langebjerg 1 DK-4000 Roskilde Danmörk Simi: +45 46 77 11 11 info@ nycomed. com
+ Slovenská republika Lundbeck Slovensko s. r. o. Zvolenská 19 SK-821 09 Bratislava 2 Tel: +421 2 53412262
+ Italia Lundbeck Italia S. p. A. Via G. Fara 35 I-20124 Milan
+ 22 Suomi/Finland Oy Leiras Finland Ab PL/PB 1406 FIN-00101 Helsinki
+ Tel: +39 02 677 4171 Puh/Tel: +358 20 746 5000 info@ leiras. fi Κύπρος Lundbeck Hellas A. E Θεµ. ∆έρβη-Φλωρίνης STADYL BUILDING CY-1066 Λευκωσία Τηλ.: +357 22490305
+ Sverige Nycomed AB Box 27264 SE-102 53 Stockholm Tel: +46 8 731 28 00 infosweden@ nycomed. com
+ Latvija SIA Nycomed Latvia Duntes iela 6 Rīga, LV 1013 Tel: +371 784 0082 nycomed@ nycomed. lv
+ United Kingdom Lundbeck Limited Lundbeck House Caldecotte Lake Business Park Caldecotte Milton Keynes MK7 8LG-UK Tel: +44 1908 64 9966
+ Lietuva" Nycomed", UAB Gynéjų 16 LT-01109 Vilnius Tel: +370 521 09 070 Info@ nycomed. lt
+ 23

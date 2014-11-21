@@ -1,0 +1,196 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. NOME DO MEDICAMENTO
+ Kepivance 6,25 mg pó para solução injectável.
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada frasco para injectáveis contém 6,25 mg de palifermina.
+ Palifermina é um factor de crescimento dos queratinócitos humanos (KGF), produzido através de tecnologia de ADN recombinante na Escherichia coli.
+ Após reconstituição, o Kepivance contém 5 mg/ml de palifermina.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Pó para solução injectável (pó para uso injectável).
+ Pó liofilizado branco. 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Kepivance é indicado na diminuição da incidência, duração e severidade da mucosite oral, em doentes com doenças hematológicas malignas submetidos a terapêutica mieloablativa associada a uma incidência elevada de mucosite grave e que requerem administração autóloga de células estaminais hematopoiéticas.
+ 4.2 Posologia e modo de administração O tratamento com Kepivance deve ser supervisionado por um médico experiente na utilização de terapêutica anti-neoplásica.
+ Adultos A dose recomendada de Kepivance é de 60 microgramas/kg/dia, administrada como bólus intravenoso, durante três dias consecutivos antes e três dias consecutivos depois da terapêutica mieloablativa, num total de seis doses (ver abaixo). Kepivance não deve ser administrado por via subcutânea, devido à sua fraca tolerabilidade local.
+ Após reconstituição, o Kepivance não deve ser exposto à temperatura ambiente por mais de uma hora, e deve ser protegido da acção da luz. Antes da administração, a solução deve ser inspeccionada visualmente, para detecção de partículas em suspensão e descoloração (ver secção 6.6).
+ Antes da terapêutica mieloablativa: As três primeiras doses devem ser administradas antes da terapêutica mieloablativa, com administração da terceira dose 24 a 48 horas antes da terapêutica mieloablativa.
+ Após a terapêutica mieloablativa: As últimas três doses devem ser administradas após a terapêutica mieloablativa. A primeira destas doses deve ser administrada após a perfusão de células estaminais
+ 2 hematopoiéticas, mas no mesmo dia desta perfusão e, no mínimo, quatro dias após a administração mais recente de Kepivance.
+ Ver secção 4.4. Crianças e adolescentes A segurança e a eficácia de Kepivance não foram demonstradas em crianças e adolescentes. Kepivance não deve ser utilizado em crianças e adolescentes até que mais informação fique disponível.
+ Compromisso renal Não é necessário o ajuste posológico em doentes com compromisso renal (ver secção 5.2).
+ Compromisso hepático A segurança e eficácia não foram avaliadas em doentes com compromisso hepático (ver secção 5.2).
+ Idosos A segurança e eficácia não foram avaliadas em doentes idosos (ver secção 5.2).
+ 4.3 Contra-indicações Hipersensibilidade à palifermina ou a qualquer um dos excipientes, ou a proteínas derivadas da Escherichia coli.
+ 4.4 Advertências e precauções especiais de utilização
+ O Kepivance não deve ser administrado nas 24 horas que antecedem a administração da quimioterapia citotóxica, nas 24 horas que se seguem, nem durante a administração da referida quimioterapia. Durante um ensaio clínico, a administração de Kepivance a menos de 24 horas da quimioterapia resultou num aumento da gravidade e da duração da mucosite oral.
+ No caso de se utilizar heparina para manter o acesso intravenoso desobstruído, deve recorrer-se a uma solução de cloreto de sódio para lavar o acesso intravenoso antes e após a administração de Kepivance (ver secção 6.2).
+ É conhecido que os receptores KGF existem nas células epiteliais do cristalino. No entanto, em ensaios clínicos que incluíram doentes submetidos a tratamento com Kepivance, não se observou um aumento da opacidade do cristalino. Não são conhecidos, por enquanto, os efeitos a longo prazo.
+ A segurança a longo prazo do Kepivance não foi completamente avaliada, nomeadamente, no que diz respeito à sobrevida global, sobrevida livre de progressão e neoplasias secundárias.
+ Kepivance é um factor de crescimento que estimula a proliferação de células epiteliais que expressam receptores KGF. A segurança e a eficácia do Kepivance não foram demonstradas em doentes com doenças oncológicas não hematológicas que apresentem receptores KGF.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Não foram realizados estudos de interacção com o Kepivance. Sendo uma proteína terapêutica, o risco de interacção do Kepivance com outros medicamentos é reduzido.
+ 3 Dados in-vitro e in-vivo sugerem que a palifermina se liga a heparinas não fraccionadas e de baixo peso molecular, as quais devem ser utilizadas com cuidado em doentes a quem se administra concomitantemente palifermina. A relevância clínica não é clara.
+ 4.6 Gravidez e aleitamento Não existe informação adequada sobre a utilização do Kepivance em mulheres grávidas. Estudos em animais revelaram toxicidade ao nível da reprodução e do desenvolvimento (ver secção 5.3). Não se conhece o potencial risco para o embrião ou feto humano. O Kepivance não deve ser utilizado durante a gravidez, a menos que seja estritamente necessário.
+ Desconhece-se se o Kepivance é excretado no leite humano, não devendo por isso ser administrado a mulheres que estejam a amamentar.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas.
+ 4.8 Efeitos indesejáveis Os dados de segurança baseiam-se em 3 estudos clínicos, aleatorizados e controlados por placebo e num estudo farmacocinético, com a participação de 650 doentes com doenças hemato-oncológicas.
+ Os doentes receberam Kepivance (n= 409) ou placebo (n= 241) antes, ou antes e após a quimioterapia mielotóxica, com ou sem irradiação corporal total e suporte de células hematopoiéticas progenitoras do sangue periférico (PBPC-peripheral blood progenitor cell).
+ As reacções adversas observadas estão de acordo com a acção farmacológica de Kepivance na pele e no epitélio oral (ver Tabela 1). Estas reacções apresentaram, na maioria dos casos, uma gravidade ligeira a moderada e foram reversíveis. O tempo mediano até ao início do seu aparecimento foi de 6 dias após a primeira das 3 doses de Kepivance em dias consecutivos, com uma duração mediana de 5 dias. As reacções adversas de dor e artralgia estão relacionadas com o facto dos doentes tratados com Kepivance terem recebido menos analgesia opióide do que os doentes tratados com placebo (ver tabela 2).
+ Tabela 1. Reacções adversas no grupo tratado com Kepivance com uma incidência ≥ 5% à do grupo placebo
+ Classes de Sistemas de órgãos Efeito indesejável Muito frequentes (&gt; 1/10)
+ Doenças do sistema nervoso Doenças gastrointestinais Afecções dos tecidos cutâneos e subcutâneos Afecções musculoesqueléticas e dos tecidos conjuntivos
+ Alteração do paladar Espessamento ou descoloração da boca/língua Erupção cutânea, prurido e eritema Artralgia
+ Perturbações gerais e alterações no local de administração
+ Edema, dor e febre A recuperação hematopoética após a perfusão com PBPC foi idêntica nos doentes que receberam Kepivance ou placebo, e não se observaram diferenças ao nível da progressão da doença ou na sobrevida.
+ Kepivance pode provocar nalguns doentes aumento dos níveis de lipase e amilase, com ou sem sintomas de dor abdominal ou lombar. No grupo tratado com Kepivance, a incidência destas alterações foi, comparativamente com placebo, de 28% versus 23%, no caso da lipase, e de 62% versus 54%, no caso da amilase. Não foram registados casos explícitos de pancreatite nesta população
+ 4 de doentes. O fraccionamento dos níveis elevados de amilase revelou que este aumento tem uma origem predominantemente salivar.
+ Foram observadas toxicidades limitantes da dose em 36% (5 em 14) dos doentes que receberam 6 doses de 80 microgramas/kg/dia administradas por via intravenosa durante 2 semanas (3 doses antes e 3 doses após a terapêutica mieloablativa). Estes acontecimentos foram semelhantes aos observados com as doses clínicas recomendadas mas apresentaram, em geral, maior gravidade.
+ No período pós-comercialização do Kepivance foram notificadas as seguintes reacções adversas: alterações na língua (ex: vermelhidão, lesões nodulares, edema); edema da face e edema da boca; hiperpigmentação da pele; e reacções alérgicas//anafiláticas.
+ 4.9 Sobredosagem Não existe experiência clínica com doses de Kepivance superiores a 80 microgramas/kg/dia administradas a doentes por via intravenosa, por um período superior a 2 semanas (3 doses antes e 3 doses após a terapêutica mieloablativa).
+ Para obter informações sobre as doses limitantes de toxicidade, ver secção 4.8.
+ A administração intravenosa de uma dose única de 250 microgramas/kg a 8 voluntários saudáveis não provocou reacções adversas graves.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Agente destoxificante para tratamento anti-neoplásico, código ATC: V03A F08
+ Palifermina é uma proteína com 140 aminoácidos com um peso molecular de 16,3 kilodaltons. Difere do KGF humano endógeno pelo facto dos 23 primeiros aminoácidos do seu terminal N terem sido removidos, de forma a aumentar a estabilidade da proteína.
+ Mecanismo de acção O KGF é uma proteína que actua ao nível das células epiteliais através da ligação a receptores específicos da superfície celular, estimulando a proliferação, a diferenciação e a regulação positiva de mecanismos citoprotectores (p. ex. a indução de enzimas antioxidantes). O KGF endógeno é um factor de crescimento específico das células epiteliais que é produzido pelas células mesenquimatosas e que é naturalmente sujeito a regulação positiva em resposta a lesões do tecido epitelial.
+ Farmacologia A proliferação das células epiteliais foi avaliada por coloração imunohistoquímica de Ki67 em indivíduos saudáveis. Verificou-se que a coloração da Ki67 aumentou três vezes ou mais nas biópsias bucais de três de um total de seis indivíduos saudáveis que receberam 40 microgramas/kg/dia de palifermina por via intravenosa durante três dias, de acordo com a medição efectuada 24 horas após a terceira dose. A proliferação dependente da dose de células epiteliais foi observada em indivíduos saudáveis 48 horas depois de terem recebido doses intravenosas individuais de 120 a 250 microgramas/kg.
+ 5 Ensaios clínicos
+ O programa de ensaios clínicos de palifermina no âmbito da terapêutica mielotóxica que requer perfusão de células estaminais hematopoéticas (CEH) incluiu 650 doentes com doenças hemato-oncológicas que participaram em três ensaios clínicos aleatorizados e controlados por placebo, bem como num estudo de farmacocinética.
+ A eficácia e a segurança de palifermina foram demonstradas num estudo aleatório, controlado por placebo e efectuado em dupla ocultação no qual os doentes receberam doses elevadas de terapêutica citotóxica. Essa terapêutica consistiu em irradiação corporal total fraccionada (dose total de 12 Gy), doses elevadas de etoposido (60 mg/kg) e doses elevadas de ciclofosfamida (100 mg/kg), seguidas por perfusão de PBPC no tratamento de doenças malignas hematológicas (Linfoma não Hodgkin (LNH), Doença de Hodgkin, Leucemia Mielóide Aguda (LMA), Leucemia Linfoblástica Aguda (LLA), Leucemia Mielóide Crónica (LMC), Leucemia Linfocítica Crónica (LLC) ou mieloma múltiplo). Neste estudo, foram incluídos 212 doentes que receberam palifermina ou placebo. Palifermina foi administrada através de uma injecção intravenosa diária de 60 microgramas/kg durante três dias consecutivos antes do início da terapêutica citotóxica e durante três dias consecutivos após a perfusão de células hematopoéticas progenitoras periféricas.
+ O parâmetro de avaliação final de eficácia principal do estudo consistiu no número de dias durante os quais os doentes apresentaram mucosite oral grave (grau 3/4 da escala da Organização Mundial de Saúde – OMS). Outros parâmetros de avaliação final incluíram a incidência, a duração e a gravidade da mucosite oral e a necessidade de recorrer a analgesia opióide. Não foi observado qualquer atraso no tempo de recuperação hematopoética nos doentes que receberam palifermina, em comparação com os doentes que receberam placebo. Os resultados relativos à eficácia estão apresentados na tabela 2.
+ Tabela 2. Mucosite oral e Efeitos Clínicos Relacionados – Estudo com Transplante de CEH
+ valor p*
+ Placebo n= 106 Palifermina (60 microgramas/kg/dia) n= 106
+ Mediana (percentil 25, percentil 75) dos dias com mucosite oral de Grau 3/4 da escala da OMS **
+ 9 (6,13) 3 (0,6) &lt; 0,001
+ Incidência de mucosite oral de Grau 3/4 da escala da OMS nos doentes
+ 98% 63% &lt; 0,001
+ Mediana (percentil 25, percentil 75) dos dias com mucosite oral de grau 3/4 da escala da OMS nos doentes afectados
+ 9 (6,13) (n= 104) 6 (3,8) (n= 67) Incidência de mucosite oral de Grau 4 da escala da OMS nos doentes
+ 62% 20% &lt; 0,001
+ Mediana (percentil 25, percentil 75) dos dias com mucosite oral de Grau 2/3/4 da escala da OMS Analgesia opióide para a mucosite oral:
+ 14 (11,19) 8 (4,12) &lt; 0,001
+ Mediana (percentil 25, percentil 75) dos dias Mediana (percentil 25, percentil 75)
+ 11 (8,14) 7 (1,10) &lt; 0,001
+ da dose acumulada (mg equivalentes de morfina)
+ 535 (269,1429) 212 (3,558) &lt; 0,001
+ Incidência de Nutrição Parental Total (TPN) nos doentes
+ 55% 31% &lt; 0,001
+ 6 valor p*
+ Placebo n= 106 Palifermina (60 microgramas/kg/dia) n= 106
+ Incidência de neutropenia febril nos doentes
+ 92% 75% &lt; 0,001
+ * Usando o teste Cochran-Mantel-Haenszel (CMH) estratificado por centro. ** Escala da OMS para a Mucosite Oral: Grau 1= dor/eritema; Grau 2= eritema, úlceras, ingestão de sólidos possível; Grau 3= úlceras, necessidade de dieta líquida; Grau 4= ingestão de alimentos impossível
+ Neste ensaio clínico de Fase 3, o tratamento com palifermina demonstrou benefícios significativos dos casos referidos pelos doentes de dores na boca e na garganta, bem como da capacidade para deglutir, beber, comer e falar. Estes resultados apresentados pelos doentes estavam intimamente relacionados com o grau de mucosite oral determinado pelo médico segundo a escala da OMS.
+ 5.2 Propriedades farmacocinéticas A farmacocinética de palifermina foi estudada em voluntários saudáveis e doentes com doenças malignas hematológicas. Após doses únicas por via intravenosa de 20 a 250 microgramas/kg (em voluntários saudáveis) e de 60 microgramas/kg (em doentes com cancro), a palifermina apresentou uma rápida distribuição extravascular. Em doentes com doenças malignas hematológicas o Vss médio foi de 5 l/kg e a depuração média cerca de 1300 ml/hora/kg, com uma semi-vida terminal média de aproximadamente 4,5 horas. Após administração a voluntários saudáveis de uma dose única até 250 microgramas/kg, observou-se uma farmacocinética proporcional e aproximadamente linear à dose. Não ocorreu acumulação de palifermina após 3 administrações diárias consecutivas de 20 e 40 microgramas/kg (em voluntários saudáveis) ou de 60 microgramas/kg (em doentes com cancro). A variabilidade interindividual foi elevada com um CV% (coeficiente de variação) de cerca de 50% para a depuração e de 60% para o Vss.
+ Não foram observadas diferenças ao nível da farmacocinética de palifermina relacionadas com o sexo. O compromisso renal ligeiro a moderado (clearance de creatinina 30-80 ml/min) não influenciou a farmacocinética de palifermina. Em doentes com compromisso renal grave (clearance de creatinina &lt; 30 ml/min), o valor de depuração decresceu até 22% (n=5). Em doentes com compromisso renal em fase terminal (que requerem diálise) a depuração de palifermina decresceu até 10% (n=6). O perfil farmacocinético de palifermina não foi avaliado em populações pediátricas e geriátricas (idade acima de 70 anos), nem em doentes com insuficiência hepática.
+ 5.3 Dados de segurança pré-clínica Os efeitos mais relevantes observados em estudos toxicológicos com ratos e macacos foram, na maioria dos casos, atribuídos à actividade farmacológica de palifermina, particularmente à proliferação dos tecidos epiteliais.
+ Em estudos sobre a toxicidade ao nível da fertilidade e da reprodução em geral, realizados em ratos, o tratamento com palifermina com doses iguais ou superiores a 300 microgramas/kg/dia foi associado a toxicidade sistémica (sinais clínicos e/ou alterações do peso corporal) e a efeitos adversos nos parâmetros de reprodução/fertilidade de machos e fêmeas. Não foram observados efeitos adversos nos parâmetros de reprodução/fertilidade, com doses inferiores a 100 microgramas/kg/dia. As exposições sistémicas associadas a estas doses, em que não foram observados efeitos adversos (NOAEL-No Observed Adverse Effect Level), foram até 2,5 vezes superiores à exposição clínica prevista.
+ Em estudos de toxicidade no desenvolvimento embrionário e fetal, realizados em ratos e coelhos, o tratamento com palifermina com doses de 500 e 150 microgramas/kg/dia, respectivamente, foi associado ao aparecimento de toxicidade (aumento da mortalidade embrionária, diminuição do tamanho das ninhadas e/ou redução do peso dos fetos). O tratamento com estas doses foi igualmente
+ 7 associado a efeitos maternos (sinais clínicos e/ou alterações do peso corporal/consumo de alimentos), sugerindo que palifermina não foi selectivamente tóxica para o desenvolvimento em qualquer das espécies estudadas. Não foram observados efeitos adversos ao nível do desenvolvimento em ratos e coelhos, com doses inferiores a 300 e 60 microgramas/kg/dia, respectivamente. As exposições sistémicas (baseadas em valores de AUC) associadas a estas doses NOAEL foram até 9,7 e 2,1 vezes superiores à exposição clínica prevista, respectivamente. Não foram estudados os efeitos sobre o desenvolvimento peri-ou pós-natal.
+ Palifermina é um factor de crescimento que estimula principalmente as células epiteliais através dos receptores do KGF. As doenças hemato-oncológicas não apresentam receptores KGF. Contudo, os doentes tratados com quimioterapia e/ou radioterapia apresentam um maior risco de desenvolvimento de tumores secundários, alguns dos quais podem apresentar receptores KGF e, teoricamente, ser estimulados por ligandos dos receptores KGF. Não foram observados aumentos de incidência de lesões neoplásicas relacionadas com o tratamento, num estudo para avaliar o potencial de carcinogénese em ratos transgénicos rasH2.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista de excipientes L-histidina Manitol Sacarose Polissorbato 20 Ácido clorídrico diluído
+ 6.2 Incompatibilidades Na ausência de estudos de compatibilidade, este medicamento não deve ser misturado com outros medicamentos.
+ No caso de se utilizar heparina para manter o acesso intravenoso desobstruído, deve recorrer-se a uma solução de cloreto de sódio para lavar o acesso intravenoso antes e após a administração de Kepivance, uma vez que foi demonstrado in vitro que a palifermina se liga à heparina.
+ 6.3 Prazo de validade 3 anos. Após a reconstituição: 24 horas entre 2ºC e 8ºC, conservado ao abrigo da luz.
+ 6.4 Precauções especiais de conservação
+ Conservar no frigorífico (2°C-8°C). Não congelar.
+ Conservar na embalagem de origem para proteger da luz.
+ 6.5 Natureza e conteúdo do recipiente 6,25 mg de pó num frasco para injectáveis (vidro do tipo I) com uma rolha de borracha, uma cápsula de alumínio e uma tampa destacável de plástico do tipo flip-off.
+ Caixa de cartão contendo 6 frascos para injectáveis.
+ 8 6.6 Precauções especiais de eliminação
+ O Kepivance é estéril, mas trata-se de um produto sem conservantes, destinando-se apenas a uma única utilização.
+ O Kepivance deve ser reconstituído com 1,2 ml de água para preparações injectáveis. O solvente deve ser injectado lentamente no frasco para injectáveis de Kepivance. O conteúdo deve ser agitado cuidadosamente durante a dissolução. Não agitar vigorosamente o frasco para injectáveis.
+ Geralmente, a dissolução do Kepivance ocorre em menos de 5 minutos. Antes da administração, a solução deve ser inspeccionada visualmente, para detecção de partículas em suspensão e descoloração. O Kepivance não deve ser administrado no caso de se observar descoloração ou partículas em suspensão.
+ Antes da administração, o Kepivance pode atingir a temperatura ambiente (durante 1 hora, no máximo), devendo durante este período ser protegido da acção da luz. Deve rejeitar-se o Kepivance que tenha sido exposto à temperatura ambiente por mais de 1 hora. Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Biovitrum AB (publ) SE-112 76 Stockholm Suécia
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/05/314/001 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 25/10/2005 10. DATA DA REVISÃO DO TEXTO Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu/
+ 9 ANEXO II
+ A. FABRICANTES DA SUBSTÂNCIA ACTIVA DE ORIGEM BIOLÓGICA E TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 10 A FABRICANTE DA SUBSTÂNCIA ACTIVA DE ORIGEM BIOLÓGICA E TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do fabricante da substância activa de origem biológica
+ Amgen Inc 5550 Airport Boulevard Boulder, Colorado 80301 Estados Unidos da América
+ Amgen Inc 4000 Nelson Road Longmont, Colorado 80503 Estados Unidos da América
+ Nome e endereço do fabricante responsável pela libertação do lote
+ Amgen Europe B. V. Minervum 7061 4817 ZK Breda Holanda
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento de receita médica restrita, de utilização reservada a certos meios especializados (ver anexo I: resumo das características do medicamento, secção 4.2.).
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ Não aplicável. 11 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 12 A. ROTULAGEM
+ 13 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ EMBALAGEM EXTERIOR 1. NOME DO MEDICAMENTO Kepivance 6,25 mg pó para solução injectável Palifermina
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada frasco para injectáveis contém 6,25 mg de palifermina.
+ 3. LISTA DOS EXCIPIENTES L-histidina, manitol, sacarose, polissorbato 20 e ácido clorídrico diluído
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 6 frascos para injectáveis contendo pó para solução injectável
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Para administração por via intravenosa Apenas para utilização única Consultar o folheto informativo antes de utilizar
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL.: 14 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico. Não congelar. Conservar na embalagem de origem para proteger da luz. Após reconstituição, conservar no frigorífico e utilizar no prazo de 24 horas.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Biovitrum AB (publ) SE-112 76 Stockholm Suécia
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/05/314/001 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE 15 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ ROTULAGEM DO FRASCO PARA INJECTÁVEIS 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Kepivance 6,25 mg pó para injectável Palifermina
+ 2. MODO DE ADMINISTRAÇÃO 3. PRAZO DE VALIDADE VAL. 4. NÚMERO DO LOTE Lote 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 6,25 mg 6. OUTRAS Biovitrum AB (publ) 16 B. FOLHETO INFORMATIVO
+ 17 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Kepivance 6,25 mg pó para solução injectável palifermina
+ Leia atentamente este folheto antes de utilizar este medicamento.
+ Conserve este folheto. Pode ter necessidade de o reler.
+ Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes prejudicial mesmo que apresentem os mesmos sintomas.
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é Kepivance e para que é utilizado 2. Antes de utilizar Kepivance 3. Como utilizar Kepivance 4. Efeitos secundários possíveis 5 Como conservar Kepivance 6. Outras informações
+ 1. O QUE É KEPIVANCE E PARA QUE É UTILIZADO
+ Kepivance deve ser apenas utilizado em adultos com idade superior a 18 anos.
+ Kepivance contém como substância activa a palifermina, proteína produzida por biotecnologia numa bactéria, a Escherichia coli. A palifermina é idêntica a uma proteína designada como factor de crescimento dos queratinócitos (KGF), que é produzida naturalmente em pequenas quantidades pelo organismo humano. A palifermina actua da mesma forma que o KGF, por estimulação do crescimento de células específicas, as células epiteliais, que constituem o tecido que reveste a boca e o tracto digestivo, assim como outros tecidos, como a pele.
+ Kepivance é utilizado para diminuir a frequência, duração e severidade da mucosite oral (feridas, secura e inflamação na boca) e melhorar os sintomas relacionados, observados em doentes com doenças malignas hematológicas (cancro do sangue), que são submetidos a certos tipos de quimioterapia e/ou radioterapia, que requerem a administração autóloga de células estaminais hematopoéticas (células do seu organismo responsáveis pela produção do sangue).
+ 2. ANTES DE UTILIZAR KEPIVANCE Não utilize Kepivance: • Se tem alergia (hipersensibilidade) à palifermina, ou a qualquer outro componente do Kepivance, ou a proteínas derivadas da Escherichia coli.
+ Ao utilizar Kepivance com outros medicamentos
+ Informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica.
+ 18 Gravidez e aleitamento
+ O Kepivance não foi testado em mulheres grávidas. É importante informar o seu médico se:
+ • estiver grávida;
+ • suspeitar que possa estar grávida; ou
+ • planeia engravidar.
+ Desconhece-se se o Kepivance é excretado no leite humano. Não utilize Kepivance se estiver a amamentar.
+ Consulte o seu médico ou farmacêutico antes de tomar qualquer medicamento.
+ Condução de veículos e utilização de máquinas
+ Desconhece-se o efeito do Kepivance sobre a capacidade de conduzir e utilizar máquinas.
+ 3. COMO UTILIZAR KEPIVANCE Como o Kepivance é um pó, deve ser dissolvido em água para injectáveis antes de ser administrado por injecção intravenosa (numa veia).
+ A dose diária habitual é de 60 microgramas de Kepivance por quilograma de peso corporal. Esta dose é administrada por injecção intravenosa (numa veia) durante três dias consecutivos antes da quimioterapia e/ou radioterapia e durante três dias consecutivos a seguir à quimioterapia e/ou radioterapia, num total de seis doses.
+ Antes da administração, o Kepivance pode atingir a temperatura ambiente (durante 1 hora, no máximo), devendo ser protegido da acção da luz durante este período. Deve rejeitar-se o Kepivance que tenha sido exposto à temperatura ambiente por mais de 1 hora.
+ Não agitar o Kepivance. 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todos os medicamentos, Kepivance pode ter efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ Efeitos secundários muito frequentes (mais de 1 em cada 10 doentes) incluem: • erupção cutânea, comichão e vermelhidão (prurido e eritema); • aumento da espessura da boca e da língua; • alteração da cor da boca e da língua; • inchaço generalizado (edema); • dor; • febre; • dor nas articulações (artralgia); e • alteração do paladar.
+ Outros efeitos secundários observados em doentes foram: • vermelhidão, saliências ou inchaço da língua;
+ 19 • inchaço (edema) da face ou da boca; • escurecimento de partes da pele (hiperpigmentação); e • reacções alérgicas
+ Alguns doentes apresentaram um aumento dos níveis sanguíneos de lipase e de amilase (enzimas digestivas), para o qual não foi necessário tratamento. Normalmente, esses níveis voltam aos valores normais após interrupção do tratamento com Kepivance.
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu méico ou farmacêutico.
+ 5. COMO CONSERVAR KEPIVANCE Manter fora do alcance e da vista das crianças.
+ Não utilize Kepivance após o prazo de validade impresso na embalagem exterior e no rótulo do frasco para injectáveis, após VAL. O prazo de validade corresponde ao último dia do mês indicado.
+ Conservar no frigorífico (2 °C – 8 °C). Não congelar. Conservar na embalagem de origem para proteger da luz.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Kepivance A substância activa é a palifermina. Cada frasco para injectáveis contém 6,25 mg de palifermina.
+ Os outros componentes do Kepivance são o manitol, sacarose, L-histidina, polissorbato 20 e ácido clorídrico diluído.
+ Qual o aspecto de Kepivance e conteúdo da embalagem
+ Kepivance é um pó branco acondicionado em frascos para injectáveis. Cada embalagem contém 6 frascos para injectáveis.
+ Fabricante: Amgen Europe B. V. Minervum 7061 4817 ZK Breda Holanda
+ Titular da Autorização de Introdução no Mercado Biovitrum AB (publ) SE-112 76 Stockholm Suécia
+ Este folheto foi aprovado pela última vez em
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu/
+ 20 ---------------------------------------------------------------------------------------------------------------------------
+ A informação que se segue destina-se apenas aos médicos e aos profissionais dos cuidados de saúde:
+ O Kepivance deve ser reconstituído com 1,2 ml de água para preparações injectáveis. O solvente deve ser injectado lentamente no frasco para injectáveis de Kepivance. O conteúdo deve ser agitado cuidadosamente durante a dissolução. Não agitar vigorosamente o frasco para injectáveis.
+ Geralmente, a dissolução do Kepivance ocorre em menos de 5 minutos. Antes da administração, a solução deve ser inspeccionada visualmente, para detecção de partículas em suspensão e descoloração. O Kepivance não deve ser administrado no caso de se observar descoloração ou partículas em suspensão.
+ Antes da administração, o Kepivance pode atingir a temperatura ambiente (durante 1 hora, no máximo), devendo durante este período ser protegido da acção da luz. Deve rejeitar-se o Kepivance que tenha sido exposto à temperatura ambiente por mais de 1 hora.
+ 21

@@ -1,0 +1,402 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. NOME DO MEDICAMENTO
+ Ventavis 10 microgramas/ml solução para inalação por nebulização.
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ 1 ml de solução contém 10 microgramas de iloprost (sob a forma de iloprost-trometamol). Cada ampola de 1 ml contém 10 microgramas de iloprost. Cada ampola de 2 ml contém 20 microgramas de iloprost.
+ Excipientes: Etanol 96% 0,81 mg por ml. Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Solução para inalação por nebulização. Solução transparente, incolor.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Tratamento de doentes com hipertensão pulmonar primária, classificada como classe funcional III da NYHA, para melhorar a capacidade de exercício e os sintomas.
+ 4.2 Posologia e modo de administração O Ventavis só deve ser iniciado sob a supervisão de um médico com experiência no tratamento da hipertensão pulmonar.
+ Ventavis destina-se a ser administrado por via inalatória por nebulização (ver secção 6.6).
+ Adultos • Dose por sessão de inalação:
+ A dose recomendada é 2,5 microgramas ou 5,0 microgramas de iloprost inalado (conforme administrado no aplicador bucal do dispositivo de inalação), começando com uma dose baixa de 2,5-microgramas para a primeira inalação, seguida de 5,0 microgramas para a segunda inalação. Em caso de baixa tolerabilidade à dose de 5,0 microgramas, a dose deve ser reduzida para 2,5 microgramas.
+ Foi demonstrado que dois sistemas de nebulização de ar comprimido, HaloLite e Prodose, são nebulizadores adequados para a administração de Ventavis. Com ambos os sistemas, o diâmetro médio aerodinâmico da massa da gotícula de aerossol (MMAD) com iloprost situou-se entre 2,6 e 2,7 micrómetros. Para cada sessão de inalação, o conteúdo de uma ampola contendo 2 ml de Ventavis solução para inalação por nebulização será transferido para a câmara da medicação do nebulizador imediatamente antes da utilização. HaloLite e Prodose são sistemas dosimétricos. Param automaticamente assim que tiver sido administrada a dose pré-definida. O tempo de inalação depende do padrão respiratório do doente.
+ 2
+ Dispositivo Dose de iloprost no Tempo de inalação calculado aplicador bucal 2,5 microgramas
+ (frequência de 15 respirações por minuto) 4 a 5 min
+ HaloLite 5 microgramas 2,5 microgramas
+ 8 a 10 min 4 a 5 min Prodose 5 microgramas 8 a 10 min Para uma dose de 5 microgramas de iloprost no aplicador bucal, recomenda-se que sejam completados dois ciclos de inalação com programa de dose pré-definida de 2,5 microgramas com o conteúdo de uma ampola contendo 2 ml de Ventavis solução para inalação por nebulização, que apresenta dois anéis de cor (branco – rosa).
+ Para além disso, demonstrou-se que Venta-Neb, um nebulizador ultra-sónico portátil alimentado a bateria, é igualmente adequado para a administração de Ventavis. O MMAD medido das gotículas de aerossol era de 2,6 micrómetros. Para cada sessão de inalação será transferido o conteúdo de uma ampola contendo 2 ml de Ventavis solução para inalação por nebulização e apresentando dois anéis de cor (branco – rosa) para a câmara de medicamento do nebulizador imediatamente antes da sua utilização.
+ Podem funcionar dois programas: P1 Programa 1: 5,0 microgramas de substância activa no aplicador bucal para 25 ciclos de inalação. P2 Programa 2: 2,5 microgramas de substância activa no aplicador bucal para 10 ciclos de inalação. A selecção do programa pré-definido é feita pelo médico.
+ O Venta-Neb indica ao doente que deve inalar mediante um sinal óptico e acústico. O nebulizador pára após a dose pré-definida ter sido administrada. Para obter o tamanho de gotícula ideal para a administração de Ventavis deve utilizar a placa deflectora verde. Para obter pormenores, por favor consulte o manual de instruções do nebulizador Venta-Neb. Para mais pormenores consulte o manual de instruções do nebulizador Venta-Neb.
+ Dispositivo Dose de iloprost no aplicador bucal
+ Tempo de inalação calculado 2,5 microgramas 4 min Venta-Neb 5 microgramas 8 min O sistema I-Neb AAD é um sistema nebulizador portátil, manual, com tecnologia de rede vibratória. Este sistema cria gotículas por ultra-sons, que forçam a solução através de uma rede. O nebulizador I-Neb AAD é igualmente adequado para a administração de Ventavis. O MMAD medido das gotículas de aerossol era de 2,1 micrómetros. Este nebulizador monitoriza o padrão respiratório para determinar o tempo de pulsação necessário para fornecer a dose pré-definida de 2,5 ou 5 microgramas de iloprost.
+ A dose pré-definida fornecida pelo sistema I-Neb AAD é controlada pela câmara de medicamento em combinação com um disco de controlo. Existem duas câmaras de medicamento codificadas por cores. Para cada câmara de medicação existe um disco de controlo codificado com a cor correspondente: A câmara de medicamento com a lingueta vermelha é utilizada juntamente com o disco de controlo vermelho para a dose de 2,5 microgramas (350 microlitros). A câmara de medicamento com a lingueta roxa é utilizada juntamente com o disco de controlo roxo para a dose de 5 microgramas (650 microlitros).
+ Para cada sessão de inalação com o sistema I-Neb AAD, o conteúdo de uma ampola de 1 ml de Ventavis, apresentando três anéis de cor (rosa – vermelho – vermelho), será transferido para a câmara de medicamento adequada imediatamente antes da sua utilização. 3
+ Dispositivo Dose de iloprost no aplicador bucal
+ Tempo de inalação calculado I-Neb AAD 2,5 microgramas 5 microgramas
+ 3,2 min 6,5 min Uma vez que foi demonstrado que o nebulizador I-Neb produz um aerossol com características físicas ligeiramente diferentes dos produzidos pelos dispositivos HaloLite, Prodose e Venta-Neb e de rápida libertação da solução (ver secção 5.2), os doentes que tenham estabilizado com um nebulizador não devem trocar para outro nebulizador sem a supervisão do médico assistente.
+ Não foram estabelecidas a eficácia e a tolerabilidade do iloprost inalado quando administrado com outros sistemas nebulizadores, que proporcionam características diferentes de nebulização da solução de iloprost.
+ • Dose diária:
+ A dose por sessão de inalação deve ser administrada 6 a 9 vezes por dia de acordo com a necessidade e a tolerabilidade individuais.
+ • Duração do tratamento:
+ A duração do tratamento depende do estado clínico e é deixado ao critério do médico. Caso o estado do doente se deteriore com este tratamento, deverá considerar-se o tratamento com prostaciclina por via intravenosa.
+ Doentes com disfunção hepática A eliminação do iloprost é reduzida em doentes com disfunção hepática (ver secção 5.2).
+ Para evitar acumulação indesejável ao longo do dia, é necessário tomar especial cuidado com estes doentes durante a titulação da dose inicial. Inicialmente, deverão ser administradas doses de 2,5 microgramas com intervalos entre dosagens de pelo menos 3 horas (corresponde à administração máxima de 6 vezes ao dia). Depois disso, os intervalos entre doses poderão ser encurtados com cuidado, com base na tolerabilidade individual. Se estiver indicado um novo aumento da dose até um máximo de 5,0 microgramas, mais uma vez se deve optar por intervalos entre dosagens de pelo menos 3 horas inicialmente, que serão encurtados posteriormente de acordo com a tolerabilidade individual. Não é provável uma nova acumulação indesejada do medicamento na sequência de um tratamento de vários dias devido à interrupção nocturna da administração do medicamento.
+ Doentes com disfunção renal Não há necessidade de se fazer uma adaptação da dose em doentes com uma depuração da creatinina &gt; 30 ml/min (conforme determinado a partir da creatinina sérica utilizando as fórmulas Cockroft e Gault). Não foram investigados nos ensaios clínicos doentes com uma clearance da creatinina ≤ 30 ml/min. Crianças e adolescentes
+ Não existe experiência com Ventavis em crianças e adolescentes.
+ 4.3 Contra-indicações − Hipersensibilidade à substância activa ou a qualquer dos excipientes. Situações em que os efeitos do Ventavis sobre as plaquetas podem aumentar o risco de hemorragia (por exemplo, úlceras pépticas activas, trauma, hemorragia intracraniana). − Doença coronária grave ou angina instável.
+ 4 − Enfarte do miocárdio nos últimos seis meses. − Insuficiência cardíaca descompensada se não se encontrar sob vigilância médica rigorosa. − Arritmias graves; acidentes cerebrovasculares (por exemplo, acidente isquémico transitório, acidente vascular cerebral) nos últimos 3 meses. − Hipertensão pulmonar devido a doença oclusiva venosa. − Defeitos valvulares congénitos ou adquiridos com perturbações da função do miocárdio clinicamente relevantes não relacionadas com hipertensão pulmonar. − Gravidez e aleitamento (ver secção 4.6).
+ 4.4 Advertências e precauções especiais de utilização
+ A utilização de Ventavis não é recomendada em doentes com hipertensão pulmonar instável, com insuficiência cardíaca direita avançada. Em caso de deterioração ou agravamento da insuficiência cardíaca direita, deverá considerar-se a transferência para outros medicamentos.
+ O efeito vasodilatador pulmonar do iloprost administrado por inalação é de curta duração (no espaço de uma a duas horas). Os doentes em que ocorrer síncope associada a hipertensão pulmonar devem evitar quaisquer esforços suplementares, por exemplo, durante a prática de exercício físico. Antes de praticar exercício físico poderá ser útil fazer uma inalação. A ocorrência de uma síncope nocturna ou resultante de esforço reflecte falhas terapêuticas e/ou eficácia insuficiente, devendo portanto considerar-se a necessidade de adaptar e/ou alterar a terapêutica (ver secção 4.8).
+ A inalação com Ventavis poderá implicar o risco de induzir broncospasmo, especialmente em doentes com hiperactividade brônquica (ver secção 4.8 Efeitos indesejáveis). Contudo, não foram estabelecidos os benefícios de Ventavis em doentes que apresentem concomitantemente Doença Pulmunar Obstrutiva Crónica (DPOC) e asma grave. Doentes que apresentem concomitatemente DOPC, infecções pulmonares agudas e asma grave deverão ser cuidadosamente vigiados.
+ Em doentes com tensão arterial sistémica baixa, deverão ser tomadas precauções para evitar mais situações de hipotensão. Ventavis não deve ser iniciado em doentes com hipotensão arterial sistólica inferior a 85 mmHg.
+ Se ocorrerem sinais de edema pulmonar quando é administrado iloprost por inalação em doentes com hipertensão pulmonar, deverá considerar-se a possibilidade de existência de doença pulmonar veno-oclusiva. O tratamento deve ser interrompido.
+ No caso da interrupção da terapêutica com Ventavis, o risco de efeitos de dependência não está formalmente excluído. Deve manter-se uma vigilância cuidadosa do doente quando se interrompe a terapêutica com iloprost por inalação, devendo considerar-se um tratamento alternativo em doentes em estado crítico.
+ A eliminação de iloprost é reduzida em doentes com disfunção hepática e em doentes com insuficiência renal que necessitem de diálise (ver secção 5.2). É recomendável uma titulação de dose inicial cautelosa, utilizando intervalos de dosagem de pelo menos 3 horas (ver secção 4.2).
+ Tratamento por via oral prolongado até um máximo de um ano com claterato de iloprost em cães esteve associado a níveis de glicose sérica em jejum ligeiramente aumentados. Não é possível excluir que tal também possa ser relevante no ser humano em caso de terapêutica prolongada com Ventavis.
+ Para minimizar a exposição acidental, recomenda-se que o Ventavis seja utilizado com nebulizadores com sistemas activados por inalação (HaloLite/Prodose) e que se mantenha a divisão bem ventilada.
+ Ventavis solução para inalação por nebulização não deverá entrar em contacto com a pele e os olhos; a ingestão oral da solução de Ventavis deverá ser evitada. Durante a sessão de nebulização deve evitar-se a máscara facial e utilizar-se apenas um aplicador bucal.
+ 5 4.5 Interacções medicamentosas e outras formas de interacção
+ Iloprost pode aumentar o efeito de vasodilatadores e de agentes antihipertensivos.
+ O iloprost pode inibir a função plaquetária e a sua utilização com anticoagulantes (como os anticoagulantes do tipo heparina e cumarina), ou outros inibidores de agregação plaquetária (como o ácido acetilsalicílico, medicamentos anti-inflamatórios não esteróides, ticlopidina, clopidogrel e antagonistas da glicoproteína IIb/IIIa: abciximab, eptifibatido e tirofibano) podem aumentar o risco de hemorragia. Recomenda-se uma vigilância cuidadosa dos doentes a tomar anticoagulantes, de acordo com a prática clínica habitual. A utilização concomitante de outros inibidores plaquetários deve ser evitada em doentes que estejam a tomar anticoagulantes.
+ A perfusão intravenosa de iloprost não tem qualquer efeito quer sobre a farmacocinética de doses orais múltiplas de digoxina em doentes quer sobre a farmacocinética de activador do plasminogénio (t-PA) co-administrado. Embora não tenham sido realizados estudos clínicos, estudos in vitro investigando o potencial inibitório do iloprost sobre a actividade de enzimas do citocromo P450 revelaram que não é de prever qualquer inibição relevante do metabolismo do fármaco através destas enzimas por parte do iloprost.
+ 4.6 Gravidez e aleitamento Não existem dados suficientes sobre a utilização do Ventavis em mulheres grávidas. Os estudos em animais revelaram toxicidade reprodutiva (ver secção 5.3). Desconhece-se o risco potencial para o ser humano. O Ventavis é contra-indicado durante a gravidez (ver secção 4.3). As mulheres em risco de engravidar deverão utilizar métodos contraceptivos eficazes durante o tratamento.
+ Não se sabe se o Ventavis é excretado no leite materno. O medicamento não deve ser administrado a mães que estejam a amamentar (ver secção 4.3).
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Deve tomar-se cuidado durante a iniciação da terapêutica até terem sido determinados quaisquer efeitos sobre o indivíduo. Em doentes com sintomas hipotensivos tais como tonturas, a capacidade de conduzir ou de utilizar máquinas pode ser afectada.
+ 4.8 Efeitos indesejáveis Além de efeitos locais resultantes da administração de iloprost por inalação como, por exemplo, o aumento de tosse, as reacções adversas com iloprost estão relacionadas com as propriedades farmacológicas das prostaciclinas.
+ As reacções adversas mais frequentemente observadas em ensaios clínicos incluem vasodilatação, hipotensão, cefaleia e aumento da tosse.
+ As frequências das reacções adversas são as seguintes: muito frequentes ≥1/10; frequentes ≥1/100 a &lt; 1/10; pouco frequentes ≥1/1,000 a &lt; 1/100, raras ≥1/10,000 a &lt; 1/1,000; muito raras &lt; 1/10,000.
+ A tabela abaixo indica reacções adversas por classes de sistemas de orgãos MedDRA (MedDRA SOCs). As incidências são baseadas em dados de ensaios clínicos.
+ Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ 6 Classes de sistemas de orgãos
+ Muito frequentes Frequentes Doenças do sistema nervoso Cefaleia Vasculopatias Vasodilatação, Sincope, Doenças respiratórias, torácicas e do mediastino
+ Hipotensão Aumento da tosse
+ Tonturas relacionadas com hipotensão Afecções musculosqueléticas e dos tecidos conjuntivos
+ Dor no maxilar/trismo A síncope é um sintoma frequente da própria doença, mas também pode ocorrer durante a terapêutica. A maior frequência de ocorrência de síncopes pode estar relacionada com a deterioração da doença ou com a insuficiente efectividade do produto (ver secção 4.4).
+ O edema periférico é um sintoma muito frequente da própria doença, mas também pode ocorrer durante a terapêutica. A ocorrência de edema periférico pode estar relacionada com a deterioração da doença ou com a insuficiente efectividade do produto.
+ Os casos de hemorragia (essencialmente hematomas) foram frequentes nesta população de doentes com uma elevada percentagem a tomar co-medicação anticoagulante. A frequência dos casos de hemorragia não diferiu entre os doentes tratados com iloprost e os doentes tratados com placebo.
+ Experiência pós-comercialização Vómitos, náuseas, diarreia e dispneia têm sido notificados após inalação com Ventavis.
+ Broncoespasmos e pieira têm sido notificadas em doentes tratados com Ventavis inalação (ver secção 4.4 Advertências e precauções especiais de utilização).
+ Acontecimentos adversos em voluntários saudáveis
+ Num estudo aleatorizado, controlado com placebo em 160 voluntários saudáveis, as doses inaladas de solução de iloprost foram administradas com um dose fixa de 2,5 microgramas de iloprost 6 vezes ao dia (dose diária total de 15 microgramas) ou começando com 5,0 microgramas e aumentando até 20 microgramas ou até à dose mais alta tolerada num total de 6 doses inaladas (dose diária total de 70 microgramas).
+ No grupo da dose fixa de 2,5 microgramas por inalação, a dor de peito ou o desconforto no peito (32,5%), a dor faringolaríngea ou irritação da garganta (22,5%) e as náuseas (7,5%) (todos sem gravidade e de intensidade ligeira) ocorreram com maior frequência em comparação com os acontecimentos adversos obtidos nos estudos de fase II e III controlados com placebo em doentes com doses de 2,5 microgramas ou 5 microgramas por inalação.
+ Cinco voluntários foram incapazes de aumentar a dose até 20 microgramas por inalação devido a dor no peito ou desconforto no peito transitório ligeiro a moderado, habitualmente acompanhados por cefaleia, tonturas e náuseas.
+ 7 4.9 Sobredosagem
+ • Sintomas
+ Não foram observados casos de sobredosagem. Pode prever-se reacção hipotensiva/vasovagal bem como cefaleia, rubor, náuseas, vómitos e diarreia.
+ • Terapêutica
+ Não existe qualquer antídoto específico. Recomenda-se a interrupção da sessão de inalação, a monitorização e medidas sintomáticas.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Inibidores de agregação plaquetária excluindo a heparina, código ATC: B01AC11
+ Este medicamento foi sujeito a uma Autorização de Introdução no Mercado em “ Circunstâncias Excepcionais ”. Isto significa que não foi possível obter informação completa sobre este medicamento devido à raridade da doença. A Agência Europeia do Medicamentos (EMEA) irá rever anualmente qualquer nova informação que possa vir a ser disponibilizada sobre o medicamento e este RCM será actualizado se necessário. Iloprost, o princípio activo do Ventavis, é um análogo de prostaciclina sintético. Foram observados os seguintes efeitos farmacológicos in vitro:
+ • Inibição de agregação plaquetária, aderência de plaquetas e reacção de libertação
+ • Dilatação de arteríolas e vénulas
+ • Aumento da densidade capilar e redução da permeabilidade vascular aumentada causada por mediadores como a serotonina ou a histamina na microcirculação
+ • Estimulação do potencial fibrinolítico endógeno
+ Os efeitos farmacológicos após inalação do Ventavis são:
+ Ocorreu vasodilatação directa do leito arterial pulmonar com melhoria significativa consecutiva da pressão arterial pulmonar, resistência vascular pulmonar e débito cardíaco, bem como saturação de oxigénio no sangue venoso misto.
+ Não há dados clínicos disponíveis comparando directamente, em observações intra-doentes, a resposta hemodinâmica aguda após administração intravenosa com a resposta após administração do iloprost por inalação. A hemodinâmica observada sugere uma resposta aguda com efeito preferencial do tratamento por inalação sobre o vasos pulmonares. O efeito vasodilatador pulmonar de cada inalação regride no prazo de uma a duas horas. No entanto, o valor predictivo destes dados hemodinâmicos agudos é considerado de valor limitado uma vez que a resposta aguda não se correlaciona, em todos os casos, com os benefícios a longo prazo do tratamento com iloprost por inalação.
+ 8 • Eficácia em doentes adultos com hipertensão pulmonar
+ Foi realizado um estudo de fase III (estudo RRA02997), randomizado, duplamente cego, multicêntrico, controlado com placebo, em 203 doentes adultos (iloprost inalado: N=101; placebo: n=102) com hipertensão pulmonar estável. O iloprost inalado (ou placebo) foi adicionado à terapêutica habitual dos doentes, que podia incluir uma combinação de anticoagulantes, vasodilatadores (ex. bloqueadores dos canais de cálcio), diuréticos, oxigénio, e digitálicos, mas não PGI2 (prostaciclina ou os seus análogos). Foi diagnosticado a 108 dos doentes incluídos hipertensão pulmonar primária, a 95 foi diagnosticado hipertensão pulmonar secundária, dos quais 56 foram associados a doença tromboembólica crónica,34 com doença do tecido conjuntivo (incluindo CREST e esclerodermia) e 4 foram considerados relacionados com fármacos anorexígenos. Os valores iniciais do teste da marcha de 6 minutos reflectiram uma limitação moderada ao exercício: no grupo iloprost, a média foi 332 metros (valor mediano: 340 metros) e no grupo placebo a média foi de 315 metros (valor mediano: 321 metros). No grupo iloprost, a dose mediana diária inalada foi 30 microgramas (intervalo 12,5 a 45 microgramas/dia). Para este estudo, o objectivoprimário de eficácia definido foi um critério de respostas combinadas que consistiam na melhoria da capacidade de exercício (teste da marcha de 6 minutos) às 12 semanas de pelo menos 10% versus o inicial, e melhoria de pelo menos uma classe NYHA às 12 semanas versus o inicial, e a não deterioração da hipertensão pulmonar ou morte em qualquer altura anterior às 12 semanas. A taxa de respostas ao iloprost foi 16,8% (17/101) e a taxa de resposta no grupo placebo foi 4,9% (5/102) (p=0,007).
+ No grupo iloprost, a alteração média na distância após 12 semanas de tratamento no teste da marcha de 6 minutos foi um aumento de 22 metros (-3,3 metros no grupo placebo, sem imputação de dados por mortes ou valores em falta).
+ No grupo iloprost, a classe NYHA foi melhorada em 26% dos doentes (placebo: 15%) (p=0,032), manteve-se em 67,7% dos doentes (placebo: 76%) e piorou em 6,3% dos doentes (placebo: 9%). Os parâmetros hemodinâmicos invasivos foram avaliados no início e após 12 semanas de tratamento.
+ A análise de subgrupos demonstrou que não foi observado efeito terapêutico comparado com o placebo no teste da marcha de 6 minutos no subgrupo de doentes com hipertensão pulmonar secundária. O aumento médio no teste da marcha de 6 minutos de 44,7 metros de um valor médio inicial de 329 metros versus uma alteração de-7,4 metros de um valor inicial médio de 324 metros no grupo placebo (sem imputação de dados por mortes ou valores em falta) foi observado no subgrupo de 49 doentes com hipertensão pulmonar primária a receber tratamento com iloprost inalado durante 12 semanas (46 doentes no grupo placebo).
+ Não foram realizados estudos com Ventavis em crianças com hipertensão pulmonar.
+ 5.2 Propriedades farmacocinéticas • Absorção
+ Quando o iloprost é administrado por meio de inalação em doentes com hipertensão pulmonar (dose de iloprost no aplicador bucal: 5 microgramas), foram observados níveis séricos máximos de 100 a 200 picogramas/ml no fim da sessão de inalação. Estes níveis diminuem com semi-vidas entre aproximadamente 5 e 25 minutos. Ao fim de 30 minutos a 1 hora após o fim da inalação, o iloprost não é detectável no compartimento central (limite de quantificação 25 picogramas/ml).
+ • Distribuição
+ Não foram realizados estudos após a inalação.
+ Após perfusão intravenosa, o volume de distribuição aparente em condições de estabilidade era de 0,6 a 0,8 l/kg em participantes saudáveis. A ligação total do iloprost às proteínas do plasma é
+ 9 independente da concentração na gama de 30 a 3000 picogramas/ml e totaliza aproximadamente 60%, dos quais 75% se devem à ligação à albumina.
+ • Metabolismo
+ Não foram realizados estudos após a inalação.
+ O iloprost é extensamente metabolizado principalmente por meio de oxidação beta da cadeia lateral de carboxil. Não é eliminada nenhuma substância inalterada. O principal metabolito é o tetranor-iloprost, que se encontra na urina na forma livre e conjugada em 4 diastereoisómeros. O tetranor-iloprost é farmacologicamente inactivo conforme demonstrado nas experiências realizadas em animais. Resultados de estudos in vitro revelam que o metabolismo dependente de CYP 450 desempenha apenas um papel de menor importância na biotransformação do iloprost. Outros estudos in vitro sugerem que o metabolismo do iloprost nos pulmões é semelhante após administração intravenosa ou inalação.
+ • Eliminação
+ Não foram realizados estudos após a inalação.
+ Em indivíduos com função renal e hepática normal, a eliminação do iloprost após perfusão intravenosa é caracterizada, na maior parte dos casos, por um perfil de duas fases com semi-vidas médias de 3 a 5 minutos e de 15 a 30 minutos.
+ Foi realizado um estudo de equilíbrio de massa utilizando 3H-iloprost em indivíduos saudáveis. Após perfusão intravenosa, a recuperação de radioactividade total é de 81% e as respectivas recuperações na urina e fezes são de 68% e 12%. Os metabolitos são eliminados do plasma e urina em 2 fases, para as quais foram calculadas semi-vidas de cerca de 2 e 5 horas (plasma) e 2 e 18 horas (urina).
+ • Farmacocinética após utilização com diferentes nebulizadores
+ Num estudo aleatorizado, cruzado com 20 adultos saudáveis, foi investigada a farmacocinéticaapós inalação de Ventavis (5 mcg iloprost) através do I-Neb AAD em comparação com o ProDose Nebulizador. Foram encontrados níveis séricos superiores (Cmax.) e de exposição sistémica (AUC (0-tlast )) bem como um curto espaço de tempo (tmax) para alcançar concentrações séricas máximas, após a inalação com Ventavis através I-NebAAD em comparação com o ProDose nebulizador. Os resultados farmacocinéticos reflectem as ligeiras diferenças das características in vitro destes nebulizadores (ver secção 4.2).
+ Parâmetros de Farmacovigilância de Iloprost depois da inalação de 5 mcg de iloprost através do I-Neb AAD vs ProDose
+ Cmax tmax
+ AUC(0-tlast) (pg/mL)
+ (h),
+ (pg· h/mL)
+ significado geométrico
+ mediana (intervalo)
+ significado
+ (CV%)
+ geométrico(CV%)
+ I-Neb 119 (41.2%) 0.147 (0.086 – 0.268) 28.9 (47.4%) ProDose 80.0 (46.7%) 0.183 (0.133 – 0.279) 18.7 (50.5%) AUC(0-tlast)= area sob a Curva de tempo – concentração das 0h até ao ultimo nível sérico mensurável. CV= coeficiente de variação
+ 10 • Características nos doentes
+ Disfunção renal: Num estudo com perfusão intravenosa de iloprost, os doentes com insuficiência renal em fase terminal a fazerem tratamento de diálise intermitente, demonstraram uma clearance significativamente mais baixa (CL média= 5 ± 2 ml/minuto/kg) do que a observada em doentes com insuficiência renal que não estavam a fazer tratamento de diálise intermitente (CL média= 18 ± 2 ml/minuto/kg).
+ Disfunção hepática: Como o iloprost é extensamente metabolizado pelo fígado, os níveis plasmáticos da substância activa são influenciados por alterações na função hepática. Num estudo intravenoso, os resultados obtidos envolveram 8 doentes com cirrose hepática. A clearance média do iloprost está estimada em 10 ml/minuto/kg.
+ Idade e sexo: A idade e o sexo não são clinicamente relevantes para a farmacocinética do iloprost.
+ 5.3 Dados de segurança pré-clínica • Toxicidade sistémica
+ Em estudos de toxicidade aguda, doses únicas intravenosas e orais de iloprost produziram sintomas de intoxicação graves ou morte (IV) a doses cerca de duas ordens de grandeza acima da dose terapêutica intravenosa. Considerando a elevada potência farmacológica do iloprost e as doses absolutas necessárias para fins terapêuticos, os resultados obtidos em estudos de toxicidade aguda não indicam um risco de efeitos adversos agudos nos seres humanos. Conforme seria de esperar de uma prostaciclina, o iloprost produziu efeitos hemodinâmicos (vasodilatação, vermelhidão da pele, hipotensão, inibição da função plaquetária, dificuldades respiratórias) e sinais gerais de intoxicação como apatia, perturbações da marcha e alterações posturais.
+ A perfusão contínua IV/SC de iloprost até 26 semanas em roedores e não roedores não causou qualquer toxicidade nos órgãos a níveis de dosagem que excederam a exposição sistémica terapêutica humana entre 14 e 47 vezes (com base nos níveis plasmáticos). Apenas foram observados efeitos farmacológicos previstos como, por exemplo, hipotensão, vermelhidão da pele, dispneia e aumento da motilidade intestinal.
+ Com base nos valores de Cmax em ratos, a exposição sistémica nestes estudos parentéricos foi aproximadamente 3,5 vezes superior à exposição máxima alcançável após inalação. A dose máxima alcançável de 48,7 microgramas/kg/dia foi também o “ nível a que não se observam efeitos secundários ” (NOAEL) conforme avaliado nos estudos de toxicidade por inalação realizados em ratos com uma duração máxima de 26 semanas. Após inalação, a exposição sistémica baseada em valores da AUC em ratos excedeu aproximadamente 13 vezes a exposição terapêutica correspondente em doentes humanos.
+ • Potencial genotóxico, tumorigenicidade
+ O iloprost não é um agente mutagénico de genes em células bacterianas e mamíferas in vitro e não é clastogénico em linfócitos humanos até concentrações citotóxicas e no ensaio de micronúcleo in vivo.
+ Não foi demonstrado qualquer potencial tumorigénico do iloprost em estudos de tumorigenicidade realizados em ratos e ratinhos.
+ 11 • Toxicologia reprodutiva
+ Em estudos de toxicidade embrio-fetal realizados em ratos, a administração intravenosa contínua de iloprost originou anomalias, falanges únicas nas patas da frente em alguns fetos/crias, sem dependência da dose.
+ Estas alterações não são consideradas como verdadeiros efeitos teratogénicos, mas estão muito provavelmente relacionadas com o atraso de crescimento induzido pelo iloprost na organogénese tardia devido a alterações hemodinâmicas na unidade fetoplacentária. Em estudos de embriotoxicidade comparáveis realizados em coelhos e macacos não foram observadas as referidas anomalias nos dedos ou outras anomalias estruturais flagrantes nos fetos/crias até à dose mais elevada testada.
+ Nos ratos, foi observada uma passagem de níveis extremamente baixos de iloprost para o leite.
+ • Tolerância local, sensibilização de contacto e potencial de antigenicidade
+ Nos estudos de inalação realizados em ratos, a administração de uma formulação de iloprost com uma concentração de 20 microgramas/ml até 26 semanas não provocou qualquer irritação local do tracto respiratório superior e inferior.
+ Uma sensibilização dérmica (teste de maximização) e um estudo de antigenicidade em porquinhos-da-índia não revelaram qualquer potencial de sensibilização.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Trometamol, Etanol a 96%, Cloreto de sódio, Ácido clorídrico (para ajuste de pH), Água para preparações injectáveis
+ 6.2 Incompatibilidades Na ausência de estudos de compatibilidade, este medicamento não deve ser misturado com outros.
+ 6.3 Prazo de validade 2 anos. 6.4 Precauções especiais de conservação
+ O medicamento não necessita de quaisquer precauções especiais de conservação.
+ 6.5 Natureza e conteúdo do recipiente Ampolas de 1 ml, vidro incolor de tipo I, contendo 1 ml de solução para inalação por nebulização, codificadas com três anéis de cor (rosa – vermelho – vermelho). Ampolas de 3 ml, vidro incolor de tipo I, contendo 2 ml de solução para inalação por nebulização, codificadas com dois anéis de cor (branco-rosa).
+ Solução para inalação por nebulização de 1 ml: Embalagens contendo 30 ou 168 ampolas.
+ 12 Solução para inalação por nebulização de 2 ml: Embalagens contendo 30,90,100 e 300 ampolas.
+ É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ Para cada sessão de inalação, o conteúdo de uma ampola de Ventavis aberta tem que ser transferido para a câmara do nebulizador imediatamente antes da utilização.
+ Após cada sessão de inalação, qualquer solução que tenha ficado no nebulizador deve ser eliminada. Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Bayer Schering Pharma AG D-13342 Berlim Alemanha
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/03/255/001 EU/1/03/255/002 EU/1/03/255/003 EU/1/03/255/004 EU/1/03/255/005 EU/1/03/255/006 EU/1/03/255/007 EU/1/03/255/008
+ 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 16 de Setembro de 2003 Data da última renovação: 16 de Setembro de 2008
+ 10. DATA DA REVISÃO DO TEXTO Informação detalha sobre medicamento está disponível no website da Agência Europeia de Medicamentos (EMEA) http: www. emea. europa. eu/.
+ 13 ANEXO II
+ A. TITULARES DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEIS PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ C. OBRIGAÇÕES ESPECÍFICAS A SEREM CUMPRIDAS PELO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 14 A. TITULARES DA AUTORIZAÇÃO DA FABRICO RESPONSÁVEIS PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço dos fabricantes responsáveis pela libertação do lote
+ Berlimed. S. A., Poligono Industrial Santa Rosa s/n,28806 Alcalá de Henarez, Madrid, Espanha
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E À UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento sujeito a receita médica restrita, de utilização reservada a certos meios especilaizados ver anexo I: resumo das características do medicamento, secção 4.2.).
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ Não aplicável. • OUTRAS CONDIÇÕES
+ O Titular de AIM irá submeter RPS anuais, salvo indicações em contrário por parte do CHMP.
+ C. OBRIGAÇÕES ESPECÍFICAS A SEREM CUMPRIDAS PELO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ O titular da autorização de introdução no mercado deverá executar o programa de estudos abaixo referido dentro dos prazos indicados; os resultados desses estudos estarão na base da reavaliação anual da relação risco/benefício.
+ Aspectos clínicos: Em Julho de 2004, O CHMP e o MAH concordaram num protocolo para um estudo de observação 308120 para reunirem dados a longo prazo sobre a segurança e a eficácia de Ventavis (ilprost). O primeiro doente será recrutado o mais tardar em Abril de 2005. Serão fornecidos relatórios do progresso juntamente com a submissão dos PSUR. O relatório final do estudo será fornecido no prazo de seis meses após o último doente ter sido completado e enviado para revisão pelo CHMP, sendo a data prevista de 4Q 2011
+ 15 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 16 A. ROTULAGEM
+ 17 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ (EMBALAGEM COM 30 AMPOLAS EM CAIXA COM 90 (3 X 30) AMPOLAS COM 2 ML) (EMBALAGEM COM 30 AMPOLAS EM CAIXA COM 300 (10 X 30) AMPOLAS COM 2 ML)
+ 1. NOME DO MEDICAMENTO Ventavis 10 microgramas/ml, solução para inalação por nebulização Iloprost
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ Cada ampola com 2 ml contém 20 microgramas de iloprost (sob a forma de iloprost-trometamol).
+ 3. LISTA DOS EXCIPIENTES Excipientes: trometamol, etanol a 96%, cloreto de sódio, ácido clorídrico (para ajuste do pH), água para preparações injectáveis.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Solução para inalação por nebulização. 30 ampolas com 2 ml. Parte de uma caixa contendo 90 ampolas com 2 ml. As embalagens individuais não podem ser comercializadas individualmente. Parte de uma caixa contendo 300 ampolas com 2 ml. As embalagens individuais não podem ser comercializadas individualmente.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via inalatória. Consultar o folheto informativo.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRA(S) ADVERTÊNCIA(S) ESPECIAI(S), SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL{ MM/AAAA} 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO 18 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Bayer Schering Pharma AG D-13342 Berlim Alemanha
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/03/255/007 EU/1/03/255/008 [ 90 (3 x 30) x 2 ml][ 300 (10 x 30) x 2 ml]
+ 13. NÚMERO DO LOTE Lote{ número} 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Ventavis 2 ml 19 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO (ACONDICIONAMENTO SECUNDÁRIO 30 AMPOLAS COM 2 ML 90 AMPOLAS COM 2 ML 90 (3 x 30) AMPOLAS COM 2 ML 100 AMPOLAS COM 2 ML 300 AMPOLAS COM 2 ML 300 (10 x 30) AMPOLAS COM 2 ML)
+ 1. NOME DO MEDICAMENTO Ventavis 10 microgramas/ml, solução para inalação por nebulização Iloprost
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ 1 ml de solução contém 10 microgramas de iloprost (sob a forma de iloprost-trometamol). Cada ampola com 2 ml contém 20 microgramas de iloprost.
+ 3. LISTA DOS EXCIPIENTES Excipientes: trometamol, etanol a 96%, cloreto de sódio, ácido clorídrico (para ajuste do pH), água para preparações injectáveis.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Solução para inalação por nebulização. 30 ampolas com 2 ml. 90 ampolas com 2 ml. 90 (3 x 30) ampolas com 2 ml. 100 ampolas com 2 ml. 300 ampolas com 2 ml. 300 (10 x 30) ampolas com 2 ml.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via inalatória. Consultar o folheto informativo.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRA(S) ADVERTÊNCIA(S) ESPECIAI(S), SE NECESSÁRIO
+ 20 8. PRAZO DE VALIDADE
+ VAL{ MM/AAAA} 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Bayer Schering Pharma AG D-13342 Berlim Alemanha
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/03/255/001 EU/1/03/255/006 EU/1/03/255/007 EU/1/03/255/002 EU/1/03/255/003 EU/1/03/255/008
+ (30 x 2 ml) (90 x 2 ml) (90 (3 x 30) x 2 ml) (100 x 2 ml) (300 x 2 ml) (300 (10 x 30) x 2 ml)
+ 13. NÚMERO DO LOTE Lote{ número} 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Ventavis 2 ml 21 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ (EMBALAGEM COM 42 AMPOLAS EM CAIXA COM 168 (4 X 42) AMPOLAS COM 1 ML)
+ 1. NOME DO MEDICAMENTO Ventavis 10 microgramas/ml, solução para inalação por nebulização Iloprost
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ Cada ampola com 1 ml contém 10 microgramas de iloprost (sob a forma de iloprost-trometamol).
+ 3. LISTA DOS EXCIPIENTES Excipientes: trometamol, etanol a 96%, cloreto de sódio, ácido clorídrico (para ajuste do pH), água para preparações injectáveis.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Solução para inalação por nebulização. 42 ampolas com 1 ml. Parte de uma caixa contendo 168 ampolas com 1 ml. As embalagens individuais não podem ser comercializadas individualmente.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via inalatória. Consultar o folheto informativo.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRA(S) ADVERTÊNCIA(S) ESPECIAI(S), SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL{ MM/AAAA} 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO 22 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Bayer Schering Pharma AG D-13342 Berlim Alemanha
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/03/255/005 13. NÚMERO DO LOTE Lote{ número} 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Ventavis 1 ml 23 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ (ACONDICIONAMENTO SECUNDÁRIO/30 AMPOLAS COM 1 ML 168 AMPOLAS COM 1 ML)
+ 1. NOME DO MEDICAMENTO Ventavis 10 microgramas/ml, solução para inalação por nebulização Iloprost
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ Cada ampola com 1 ml contém 10 microgramas de iloprost (sob a forma de iloprost-trometamol).
+ 3. LISTA DOS EXCIPIENTES Excipientes: trometamol, etanol a 96%, cloreto de sódio, ácido clorídrico (para ajuste do pH), água para preparações injectáveis.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Solução para inalação por nebulização. 30 ampolas com 1 ml. 168 ampolas com 1 ml.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via inalatória. Consultar o folheto informativo.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRA(S) ADVERTÊNCIA(S) ESPECIAI(S), SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL{ MM/AAAA} 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO 24 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Bayer Schering Pharma AG D-13342 Berlim Alemanha
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/03/255/004 EU/1/03/255/005 (30 x 1ml) (168 x 1 ml)
+ 13. NÚMERO DO LOTE Lote{ número} 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO Para administração com o nebulizador I-Neb.
+ 16. INFORMAÇÃO EM BRAILLE Ventavis 1 ml 25 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ (AMPOLA COM 2 ML)
+ 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Ventavis 10 microgramas/ml, solução para inalação por nebulização Iloprost Via inalatória
+ 2. MODO DE ADMINISTRAÇÃO Consultar o folheto informativo. 3. PRAZO DE VALIDADE VAL{ MM/AAAA} 4. NÚMERO DO LOTE Lote{ número} 5. CONTEÚDO EM TERMOS DE PESO, VOLUME OU UNIDADE
+ 2 ml 6. OUTRAS 26 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ (AMPOLA COM 1 ML)
+ 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Ventavis 10 microgramas/ml, solução para inalação por nebulização Iloprost Via inalatória
+ 2. MODO DE ADMINISTRAÇÃO Consultar o folheto informativo. 3. PRAZO DE VALIDADE VAL{ MM/AAAA} 4. NÚMERO DO LOTE Lote{ número} 5. CONTEÚDO EM TERMOS DE PESO, VOLUME OU UNIDADE
+ 1 ml 6. OUTRAS 27 B. FOLHETO INFORMATIVO
+ 28 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Ventavis 10 microgramas/ml solução para inalação por nebulização Iloprost
+ Leia atentamente este folheto antes de utilizar o medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é o Ventavis e para que é utilizado 2. Antes de utilizar o Ventavis 3. Como utilizar o Ventavis 4. Efeitos secundários possíveis 5 Como conservar Ventavis 6. Outras informações
+ 1. O QUE É O VENTAVIS E PARA QUE É UTILIZADO
+ O que é o Ventavis: Ventavis é uma solução para inalação por nebulização. Esta solução é transformada em vapores de aerossol por meio de uma máquina especial chamada nebulizador. Respirar os vapores transporta Ventavis para os pulmões, onde pode actuar com maior eficácia na artéria entre o coração e os pulmões.
+ Como o Ventavis funciona: Ventavis imita uma substância natural existente no organismo chamada prostaciclina. O Ventavis e a prostaciclina inibem o bloqueio ou o estreitamento indesejado de vasos sanguíneos e permitem um maior fluxo de sangue através das artérias.
+ Para que é utilizado o Ventavis: O Ventavis é utilizado para casos moderados de hipertensão pulmonar primária (HPP). Trata-se de um problema de saúde em que a tensão arterial é demasiado alta nos vasos sanguíneos entre o coração e os pulmões.
+ O Ventavis tem tendência a baixar a tensão arterial dentro da artéria pulmonar, melhorando o fluxo sanguíneo. Isto significa menos trabalho para o coração. Um fluxo sanguíneo melhorado conduz a um melhor fornecimento de oxigénio ao organismo e a uma esforço mais reduzido do coração. O coração pode assim funcionar mais eficazmente.
+ 2. ANTES DE UTILIZAR O VENTAVIS Não utilize o Ventavis: Se acha que alguma das circunstâncias abaixo se aplicam a si, informe o seu médico:
+ •
+ Se tem alergia (hipersensibilidade) ao iloprost ou a qualquer outro componente de Ventavis.
+ 29
+ •
+ Se estiver em risco de hemorragia – por exemplo, úlceras de estômago activas, ferimentos ou outros tipos de hemorragia.
+ • •
+ Se houver acumulação de fluido nos pulmões, com dificuldade em respirar. Se a sua doença é devida mais a um bloqueio ou estreitamento de uma veia do que a um bloqueio ou estreitamento de uma artéria.
+ •
+ Se teve um acidente vascular cerebral nos últimos 3 meses ou qualquer outra interrupção do fluxo sanguíneo ao cérebro.
+ •
+ Se tem um problema cardíaco, por exemplo:-um ataque cardíaco nos últimos seis meses-alterações graves na frequência cardíaca-se, por vezes, tem dores no peito-fluxo deficiente de sangue para os músculos do coração (doença coronária)-qualquer doença de coração que não esteja a ser devidamente tratada ou não esteja sob vigilância médica apertada-foi-lhe diagnosticada uma deficiência cardíaca como, por exemplo, um problema numa válvula cardíaca que faça com que o coração funcione deficientemente.
+ •
+ Se estiver grávida ou a amamentar (ver secção 2. Tome especial cuidado, Gravidez e Aleitamento).
+ Tome especial cuidado com Ventavis:
+ − Se tiver uma infecção pulmonar, asma grave ou outra doença pulmonar. Inalar Ventavis poderá causar dificuldades de respiração. − Se a sua tensão arterial for demasiado baixa (inferior a 85 mmHg) não deve iniciar o tratamento com Ventavis.
+ Em alguns casos poderá necessitar de vigilância médica especial:
+ -Regra geral, vai precisar de tomar especial cuidado para tentar evitar o desmaio ou outros
+ efeitos da tensão arterial baixa, como as tonturas: • Levante-se devagar quando sair de cadeiras ou da cama. Isso ajudará o seu organismo a habituar-se à mudança de posição e da tensão arterial. • Se tiver tendência a desmaiar assim que sai da cama, pode ser útil tomar a sua primeira dose do dia enquanto ainda está deitado. • Evite qualquer esforço excepcional como, por exemplo, exercício físico; pode ser útil inalar Ventavis antes do exercício físico. • Peça a alguém que esteja de prevenção para o vigiar, se for possível. Avise-os de que devem chamar um médico se desmaiar. O médico aconselhará o que fazer e, possivelmente, receitará um tratamento • Se os episódios de desmaio se agravarem devido à doença subjacente, informe o seu médico. O médico poderá considerar uma mudança de tratamento. − Se tiver problemas hepáticos, poderá ser-lhe prescrita uma dose mais baixa de Ventavis do que para outros doentes. − Se tiver problemas renais graves, consulte o seu médico. − Se o seu estado geral se agravar, consulte o seu médico.
+ Se tiver menos de 18 anos, assegure-se de que o seu médico conhece a sua idade. O Ventavis ainda não foi testado em crianças e adolescentes.
+ Ao utilizar Ventavis com outros medicamentos
+ Informe o seu médico ou farmacêutico se estiver a tomar ou se tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica. O Ventavis e alguns outros medicamentos podem ter influência uns sobre os outros na forma como actuam no seu organismo. Tenha especial cuidado em mencionar qualquer dos seguintes: • Medicamentos utilizados para tratar a tensão arterial elevada ou doença cardíaca
+ 30 • Medicamentos que inibem a coagulação sanguínea (estes incluem ácido acetilsalicílico, uma substância presente em muitos medicamentos que baixam a febre e aliviam as dores, bem como outros). O seu médico ou farmacêutico possuem mais informações sobre medicamentos com os quais há que ter cuidado ou mesmo evitar quando estiver a utilizar Ventavis, por isso, deverá sempre informá-los caso esteja a tomar outros medicamentos.
+ Gravidez: •
+ Se está, ou pensa que pode estar grávida, informe imediatamente o seu médico. Ventavis não deve ser usado por mulheres grávidas (ver secção 2. Não utilizar Ventavis) ..
+ •
+ Se tiver possibilidades de engravidar, use um contraceptivo fiável desde o início do tratamento e durante o tratamento (consulte o seu médico).
+ Aleitamento: Pare de amamentar quando iniciar o tratamento com Ventavis. Ventavis não deve ser administrado a mulheres que estejam a amamentar, uma vez que não se sabe se o princípio activo passa através do leite materno. Consulte o seu médico ou farmacêutico antes de tomar qualquer medicamento.
+ Recém-nascidos, lactentes e mulheres grávidas não deverão ser expostos ao Ventavis do ar ambiente.
+ Este grupo de pessoas não deverá permanecer numa sala fechada onde Ventavis esteja a ser administrado a um doente.
+ Condução de veículos e utilização de máquinas
+ Ventavis provoca uma descida da tensão arterial e pode provocar tonturas ou vertigens em algumas pessoas. Não conduza nem opere quaisquer ferramentas ou máquinas se sentir estes efeitos da tensão arterial baixa.
+ Informação importante sobre alguns componentes do Ventavis:
+ Este medicamento contém uma pequena quantidade (menos de 100 mg por dose) de etanol (álcool).
+ 3. COMO UTILIZAR O VENTAVIS Como utilizar o Ventavis: Utilizar Ventavis sempre de acordo com as indicações do seu médico. A solução para inalação por nebulização de Ventavis é inalada utilizando os nebulizadores que o seu médico prescreveu (ou o sistema HaloLite, ou o Prodose, ou o Venta-Neb, ou o sistema I-Neb AAD). Estes nebulizadores transformam a solução de Ventavis numa névoa que você inspira através da boca.
+ Siga cuidadosamente todas as instruções adicionais que acompanham o nebulizador. Fale com o seu médico ou farmacêutico se tiver dúvidas.
+ A solução de Ventavis que não utilizar numa sessão de inalação deve ser deitada fora.
+ Que quantidade inalar: A dose de Ventavis certa para si depende do seu estado individual e será calculada pelo seu médico.
+ 31 A maior parte das pessoas farão 6 a 9 sessões de inalação distribuídas ao longo do dia. Uma sessão de inalação durará geralmente cerca de 4 a 10 minutos, dependendo da dose prescrita. No caso de problemas hepáticos ou se tiver problemas renais graves, o seu médico iniciá-lo-á gradualmente no Ventavis e, possivelmente, prescreverá um menor número de inalações diárias.
+ Se tiver a impressão de que o efeito do Ventavis é demasiado forte ou demasiado fraco, fale com o seu médico ou farmacêutico.
+ Sistemas HaloLite e ProDose: Imediatamente antes de começar a inalar, quebre o recipiente de vidro contendo 2 ml de solução, que apresenta dois anéis de cor (branco-rosa), para o abrir e transfira todo o conteúdo para a câmara de medicamento do nebulizador. Deve executar o ciclo de inalação duas vezes se necessitar de uma dose elevada (5 microgramas) e uma vez se necessitar de uma dose baixa (2,5 microgramas). Independentemente da dose, o volume de enchimento é sempre o conteúdo de um recipiente de vidro.
+ O tempo de inalação depende do seu padrão respiratório.
+ Dispositivo Dose de iloprost no aplicador bucal
+ Tempo de inalação calculado (frequência de 15 respirações por minuto)
+ HaloLite 2,5 microgramas 5 microgramas
+ 4 a 5 min 8 a 10 min Prodose 2,5 microgramas 5 microgramas
+ 4 a 5 min 8 a 10 min Sistema Venta-Neb: Imediatamente antes de começar a inalar, quebre o recipiente de vidro para o abrir e transfira todo o conteúdo para a câmara de medicamento do nebulizador.
+ Podem funcionar dois programas: O seu médico regulará o Venta-Neb para o programa adequado para que receba a dose que lhe foi prescrita. P1 Programa 1: 5,0 microgramas de substância activa no aplicador bucal para 25 ciclos de inalação. P2 Programa 2: 2,5 microgramas de substância activa no aplicador bucal para 10 ciclos de inalação. Para obter o tamanho de gotícula ideal para a administração de Ventavis deve utilizar a placa deflectora verde.
+ Dispositivo Dose de iloprost no aplicador bucal
+ Tempo de inalação calculado Venta-Neb 2,5 microgramas 5 microgramas
+ 4 min 8 min Sistema I-Neb AAD: Imediatamente antes de começar a inalar, quebre o recipiente de vidro contendo 1 ml de solução, que apresenta três anéis de cor (rosa – vermelho-vermelho), para o abrir e transfira todo o conteúdo para a câmara de medicamento do nebulizador.
+ A dose pré-definida fornecida pelo sistema I-Neb AAD é controlada pela câmara de medicamento em combinação com um disco de controlo. Existem duas câmaras de medicamento codificadas por cores. Para cada câmara de medicação existe um disco de controlo codificado com a cor correspondente: A câmara de medicamento com a lingueta vermelha é utilizada juntamente com o disco de controlo vermelho para a dose de 2,5 microgramas (350 microlitros). A câmara de medicamento com a lingueta roxa é utilizada juntamente com o disco de controlo roxo para a dose de 5 microgramas (650 microlitros).
+ 32 Deve certificar-se de que utiliza a câmara de medicamento com a lingueta vermelha para a dose de 2,5 microgramas ou a câmara de medicamento com a lingueta roxa para a dose de 5 microgramas. Deve igualmente certificar-se de que a cor da lingueta da câmara de medicamento corresponde à cor do disco de controlo utilizado, de modo a receber a dose prescrita.
+ Dispositivo Dose de iloprost no aplicador bucal
+ Tempo de inalação calculado I-Neb AAD 2,5 microgramas 5 microgramas
+ 3,2 min 6,5 min Para obter mais pormenores, por favor consulte o manual de instruções dos dispositivos de nebulização ou consulte o seu médico.
+ Peça ao seu médico que indique alguém que o ajude a familiarizar-se com a utilização do nebulizador. Não deve trocar de nebulizador sem consultar o seu médico assistente.
+ Cuidado: Não deixe a solução de Ventavis entrar em contacto com a sua pele ou olhos. Se acontecer, lave imediatamente a pele ou os olhos com água. Não beba a solução de Ventavis. Se a beber acidentalmente, beba grandes quantidades de água e fale com o seu médico. Beber Ventavis também pode dar origem a uma sobredosagem temporária-ver “ Se utilizar mais Ventavis do que deveria".
+ Se utilizar mais Ventavis do que deveria:
+ Utilizar mais Ventavis do que deveria pode provocar uma diminuição na pressão arterial com sintomas como tonturas ou desmaios. Também pode sentir uma dor de cabeça forte, vermelhidão da face (rubor), sensação de enjoos (náuseas), vómitos ou diarreia. Se acontecer: − Pare a sessão de inalação − Fale com o seu médico
+ Consulte também a secção 2, Tome especial cuidado com Ventavis, para orientação sobre o que deve fazer se tiver episódios de queda de tensão ou desmaios.
+ Caso se tenha esquecido de tomar uma dose:
+ Não deve tomar uma dose a dobrar para compensar uma dose que se esqueceu de tomar. Pergunte ao seu medico o que deve fazer.
+ Se parar de tomar Ventavis Se parar ou desejar parar o tratamento, deve discuti-lo primeiro com o seu médico.
+ Ventilação da divisão: Certifique-se de que ventila ou areja a divisão em que fez o tratamento com Ventavis. Outras pessoas poderão ser acidentalmente expostas ao Ventavis através do ar ambiente. Em especial, recém-nascidos, lactentes e mulheres grávidas não deverão ser sujeitos ao Ventavis.
+ Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou farmacêutico.
+ 33 4. EFEITOS SECUNDÁRIOS POSSÍVEIS
+ Como os demais medicamentos, o Ventavis pode causar efeitos secundários no entanto estes não se manifestam em todas as pessoas. Abaixo apresentamos uma lista dos efeitos secundários, de acordo com a respectiva probabilidade de ocorrência.
+ Muito frequentes: afectam mais do que 1 em cada 10 utilizadores. Frequentes: afectam 1 a 10 utilizadores em 100.
+ • Efeitos secundários muito frequentes
+ − Dilatação dos vasos sanguíneos (vasodilatação). Os sintomas podem ser rubor ou vermelhidão da face. − Aumento da tosse − Tensão arterial baixa (hipotensão).
+ edema periférico é um sintoma muito frequente da própria doença, mas também pode ocorrer durante o tratamento com Ventavis.
+ • Efeitos secundários frequentes s − Cefaleias. − Dor no maxilar/espasmo dos músculos dos maxilares (trismo) − Tonturas relacionadas com tensão arterial baixa (hipotensão). − Desmaio (síncope)
+ O desmaio (síncope) é um sintoma frequente da própria doença, mas também pode ocorrer durante o tratamento com Ventavis. Ver também a secção 2, Tome especial cuidado com Ventavis, para orientação sobre o que pode fazer para tentar evitar que tal aconteça.
+ • Outros efeitos possíveis
+ Se também estiver a tomar medicamentos para diluir o sangue (anticoagulantes) é provável que ocorram episódios frequentes de hemorragias. Neste caso, consulte o seu médico.
+ Vómitos, náuseas, tonturas, diarreia e dificuldade em respirar têm sido notificados em doentes que utilizam Ventavis.
+ Dificuldade em respirar e pieira têm sido notificados após utilização de Ventavis. Especialmente em doentes com infecções nos pulmões, asma grave ou outras doenças pulmonares.
+ • Acontecimentos adversos em voluntários saudáveis
+ Dores, desconforto no peito (32,5%), dor ao engolir (dor faringolaríngea, irritação da garganta (22,5% )) e náuseas (7,5%) foram reacções adversas que ocorreram em voluntários saudáveis num estudo especial, quando receberam doses fixas de 2,5 microgramas 6 vezes ao dia. Todos estes acontecimentos adversos foram sem gravidade e de intensidade ligeira.
+ Se algum destes efeitos se agravar, ou se detectar quaisquer efeitos secundários não o mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR VENTAVIS Manter fora do alcance e da vista das crianças. Não utilize Ventavis após o prazo de validade impresso na embalagem. Não existem instruções especiais de conservação.
+ 34 Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Ventavis:
+ •
+ A substância activa é o iloprost. 1 ml de solução contém 10 microgramas de iloprost (na forma de iloprost trometamol). Cada ampola com 1 ml contém 10 microgramas de iloprost. Cada ampola com 2 ml contém 20 microgramas de iloprost.
+ •
+ Os outros componentes são trometamol, etanol a 96%, cloreto de sódio, ácido clorídrico para o ajuste do pH e água preparações para injectáveis.
+ Ventavis é fornecido em ampolas incolores (vidro do tipo I), contendo 1 ml ou 2 ml de solução para inalação por nebulização.
+ Qual o aspecto de Ventavis e conteúdo da embalagem:
+ Ventavis é uma solução incolor para inalação por nebulização.
+ Ventavis está disponível em embalagens contendo:
+ -30,90,100 ou 300 ampolas com 2 ml para a utilização com HaloLite, Prodose e Venta-Neb. As
+ ampolas contendo 2 ml apresentam dois anéis de cor (branco-rosa).
+ -ou 30 ou 168 ampolas com 1 ml para a utilização com o nebulizador I-Neb. As ampolas contendo
+ 1 ml apresentam três anéis de cor (rosa – vermelho – vermelho).
+ Nem todas as embalagens poderão ser comercializadas.
+ Titular da Autorização de Introdução no Mercado: Bayer Schering Pharma AG, D-13342 Berlim, Alemanha
+ Fabricante: Berlimed S. A., Poligono Industrial Santa Rosa s/n,28806 Alcalá de Henares, Madrid, Espanha
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado:
+ 35 België/Belgique/Belgien Bayer S. A./N. V. Tél/Tel: +32-(0) 2-5356311 България Байер България ЕООД тел.+ 359 (0) 2 81 401 01 Česká republika Bayer s. r. o. Schering s. r. o. Tel:+ 420 271 730 661
+ Luxembourg/Luxemburg Bayer S. A./N. V. Tél/Tel: +32-(0) 2-5356311 Magyarország Bayer Hugária KFT Tel.: +36-1487-4100 Malta Alfred Gera and Sons Ltd. Tel: +356-21446205
+ Danmark Bayer A/S Tlf: +45-45 235000 Deutschland Bayer Vital GmbH Tel: +49-(0) 214-3051348 Eesti UAB Bayer Eesti filiaal Tel: +372 655 8565 Ελλάδα Bayer Ελλάς ΑΒΕΕ Τηλ: +30 210 6187500 España Química Farmacéutica Bayer S. L. Tel: +34-93-4956500 France Bayer Santé Tél.: +33 3-20 20 80 80 Ireland Bayer Limited Tel:+ 353 1 2999313
+ Nederland Bayer B. V., Bayer Schering Pharma Tel: +31-(0) 297-280666 Norge Bayer AS Tlf: +47 24 11 18 00 Österreich Bayer Austria Ges. m. b. H. Tel: +43-(0) 1-71146-0 Polska Bayer Sp. z o. o. Tel.: +48 22 5723 500 Portugal Bayer Portugal S. A. Tel: +351-21-4164200 Romania SC Bayer SRL Tel.: +40 21 528 59 00 Slovenija Bayer d. o. o. Tel:+ 386 1 58 14 400
+ Ísland Icepharma hf. Sími:+ 354 540 80 00 Italia Italfarmaco S. p. A. Tel: +39 02 644 31 Κύπρος NOVAGEM Limited Τηλ:+ 357 22747747
+ Slovenská republika Bayer spol. s r. o. Tel. +421 2-59 21 31 11 Suomi/Finland Bayer Oy, Bayer Schering Pharma Puh/Tel: ±358-20-78521 Sverige Bayer AB Tel: +46-(0) 8-580 223 00
+ Latvija UAB Bayer Latvijas filiāle Tel: +371 67845563 Lietuva UAB Bayer, BayerScheringPharma Tel. +370 5 233 68 68
+ United Kingdom Bayer plc Tel: +44-(0) 1635-563000
+ Este folheto foi aprovado pela última vez em
+ A este medicamento foi dada uma autorização de Introdução no Mercado Condicionada. Isto significa que se aguarda mais informação completa sobre este medicamento devido à raridade desta doença.
+ 36 A Agência Europeia do Medicamento (EMEA) irá rever anualmente qualquer nova informação sobre o medicamento e este folheto será actualizado se necessário. ------------------------------------------------------------------------------------------------------------------------------
+ A informação que se segue destina-se apenas aos médicos e aos profissionais dos cuidados de saúde:
+ Instruções de utilização e manipulação Foi demonstrado que dois sistemas de nebulização de ar comprimido, HaloLite e Prodose, são nebulizadores adequados para a administração de Ventavis. Para cada sessão de inalação, o conteúdo de uma ampola contendo 2 ml de Ventavis solução para inalação por nebulização será transferido para a câmara da medicação do nebulizador imediatamente antes da utilização. HaloLite e Prodose são sistemas dosimétricos. Param automaticamente assim que tiver sido administrada a dose pré-definida. O tempo de inalação depende do padrão respiratório do doente.
+ Dispositivo Dose de iloprost no Tempo de inalação calculado aplicador bucal
+ (frequência
+ de 15 respirações por minuto)
+ 2,5 microgramas 4 a 5 min HaloLite 5 microgramas 8 a 10 min 2,5 microgramas 4 a 5 min Prodose 5 microgramas 8 a 10 min Para uma dose de 5 microgramas de iloprost no aplicador bucal, recomenda-se que sejam completados dois ciclos de inalação com programa de dose pré-definida de 2,5 microgramas com o conteúdo de uma ampola contendo 2 ml de Ventavis solução para inalação por nebulização, que apresenta dois anéis de cor (branco— rosa).
+ Para mais pormenores, consulte os manuais de instruções dos nebulizadores HaloLite e Prodose.
+ Para além disso, demonstrou-se que Venta-Neb, um nebulizador ultra-sónico portátil alimentado a bateria, é igualmente adequado para a administração de Ventavis. O MMAD medido das gotículas de aerossol era de 2,6 micrómetros. Para cada sessão de inalação será transferido o conteúdo de uma ampola contendo 2 ml de Ventavis solução para inalação por nebulização e apresentando dois anéis de cor (branco – rosa) para a câmara de medicamento do nebulizador imediatamente antes da sua utilização.
+ Podem funcionar dois programas: P1 Programa 1: 5,0 microgramas de substância activa no aplicador bucal para 25 ciclos de inalação. P2 Programa 2: 2,5 microgramas de substância activa no aplicador bucal para 10 ciclos de inalação. A selecção do programa pré-definido é feito pelo médico.
+ O Venta-Neb indica ao doente que deve inalar mediante um sinal óptico e acústico. O nebulizador pára após a dose pré-definida ter sido administrada. Para obter o tamanho de gotícula ideal para a administração de Ventavis deve utilizar a placa deflectora verde. Para obter mais pormenores, consulte o manual de instruções do nebulizador Venta-Neb.
+ Dispositivo Dose de iloprost no aplicador bucal
+ Tempo de inalação calculado 2,5 microgramas 4 min Venta-Neb 5 microgramas 8 min O sistema I-Neb AAD é um sistema nebulizador portátil, manual, com tecnologia de rede vibratória. Este sistema cria gotículas por ultra-sons, que forçam a solução através de uma rede. O nebulizador I-Neb AAD é igualmente adequado para a administração de Ventavis. O MMAD medido das gotículas de aerossol era de 2,1 micrómetros.
+ 37 Este nebulizador monitoriza o padrão respiratório para determinar o tempo de pulsação necessário para fornecer a dose pré-definida de 2,5 ou 5 microgramas de iloprost.
+ A dose pré-definida fornecida pelo sistema I-Neb AAD é controlada pela câmara de medicamento em combinação com um disco de controlo. Existem duas câmaras de medicamento codificadas por cores. Para cada câmara de medicação existe um disco de controlo codificado com a cor correspondente: A câmara de medicamento com a lingueta vermelha é utilizada juntamente com o disco de controlo vermelho para a dose de 2,5 microgramas (350 microlitros). A câmara de medicamento com a lingueta roxa é utilizada juntamente com o disco de controlo roxo para a dose de 5 microgramas (650 microlitros).
+ Para cada sessão de inalação com o sistema I-Neb AAD, o conteúdo de uma ampola de 1 ml de Ventavis, apresentando três anéis de cor (rosa – vermelho – vermelho), será transferido para a câmara de medicamento adequada imediatamente antes da sua utilização.
+ Dispositivo Dose de iloprost no aplicador bucal
+ Tempo de inalação calculado I-Neb AAD 2,5 microgramas 5 microgramas
+ 3,2 min 6,5 min Uma vez que o I-Neb nebulizador demonstrou ter produzido um aerossol com caracteristicas físicas ligeiramente diferentes em relação ao HaloLite, ProDose e o dispositivo VentaNeb e uma rápida libertação da solução, os doentes que utilizem um nebulizador não devem trocar por outro sem supervisão médica. Não foram estabelecidas a eficácia e a tolerabilidade do iloprost inalado quando administrado com outros sistemas nebulizadores, que proporcionam características diferentes de nebulização da solução de iloprost.
+ 38

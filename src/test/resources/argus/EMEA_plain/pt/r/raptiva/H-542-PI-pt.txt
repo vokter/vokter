@@ -1,0 +1,348 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. NOME DO MEDICAMENTO
+ Raptiva 100 mg/ml pó e solvente para solução injectável
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada frasco para injectáveis contém uma quantidade recuperável de 125 mg de efalizumab. Após reconstituição com o solvente, a solução contém 100 mg/ml de efalizumab.
+ Efalizumab é um anticorpo monoclonal humanizado recombinante, produzido por engenharia genética aplicada a células de ovário de hamster chinês (CHO). Efalizumab é uma imunoglobulina kappa IgG1, contendo sequências humanas na região constante e sequências murinas na região complementar determinante, tanto na cadeia leve como na pesada.
+ Excipientes: 2,5 mg de polisorbato 20, 3,55 mg de histidina, 5,70 mg de cloridrato de histidina monohidratado, 102,7 mg de sacarose.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Pó e solvente para solução injectável. O pó é uma pastilha compactada branca a esbranquiçada. O solvente é um líquido límpido e incolor.
+ O pH da solução reconstituída é de 5,9 – 6,5.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Tratamento do doente adulto com psoríase crónica em placas, moderada a grave, que não responde, ou tem uma contra-indicação ou não tolera outras terapêuticas sistémicas, incluindo ciclosporina, metotrexato e PUVA (ver secção 5.1 – Eficácia Clínica).
+ 4.2 Posologia e modo de administração O tratamento com Raptiva deve ser iniciado por um médico especialista em dermatologia.
+ A dose inicial única é de 0,7 mg/kg de peso corporal, seguida de injecções semanais de 1,0 mg/kg de peso corporal (a dose única máxima não deve exceder um total de 200 mg). O volume a injectar deve ser calculado do seguinte modo:
+ Dose Volume a injectar por 10 kg de peso corporal
+ Dose inicial única: 0,7 mg/kg
+ 0,07 ml Doses subsequentes: 1 mg/kg 0,1 ml A duração do tratamento é de 12 semanas. O tratamento deve continuar apenas nos doentes que responderam ao mesmo (PGA bem ou melhor). Quanto à interrupção do tratamento, ver secção 4.4.
+ 2 Crianças e adolescentes (&lt; 18 anos) Raptiva não é recomendado em crianças com idade inferior a 18 anos devido a ausência de dados de segurança e eficácia.
+ Utilização no idoso (≥ 65 anos) O esquema posológico e de administração no idoso deve ser o mesmo que o dos adultos (ver também a secção 4.4).
+ Doentes com insuficiência renal ou hepática Não foram efectuados estudos em doentes com insuficiência renal ou hepática. Raptiva deve ser utilizado com precaução nesta população de doentes.
+ Modo de administração Raptiva administra-se por via subcutânea. Deve mudar-se o local de injecção. Para instruções de utilização ver secção 6.6.
+ Após treino apropriado nas técnicas de reconstituição e de injecção, os doentes podem auto-injectar Raptiva, desde que o médico considere adequado.
+ 4.3 Contra-indicações Hipersensibilidade ao efalizumab ou a qualquer dos excipientes. Doentes com história de neoplasias malignas. Doentes com tuberculose activa ou outras infecções graves. Doentes com formas específicas de psoríase, como gutata, pustulosa ou eritrodérmica, desde que seja a única forma de psoríase ou a forma predominante. Doentes com imunodeficiências.
+ 4.4 Advertências e precauções especiais de utilização
+ Efeitos no sistema imunitário a) Infecções Raptiva é um imunossupressor selectivo que altera a função dos linfócitos-T e pode afectar as defesas do hospedeiro contra infecções. Tem potencial para aumentar o risco ou a gravidade de infecções, por exº., tuberculose pulmonar e de reactivar infecções crónicas latentes, como por ex: infecção por virus JC. Os doentes que desenvolvam uma infecção durante o tratamento com Raptiva, devem ser monitorizados e, em função da gravidade, deve interromper-se o tratamento. Raptiva deve utilizar-se com precaução em doentes com história de infecções recorrentes clinicamente significativa.
+ A utilização de Raptiva pode estar associada a um aumento de risco de Leucoencefalopatia Multifocal Progressiva (PML). Foi notificado, na vigilância pós-comercialização, um caso de infecção pelo virus JC, resultando numa PML, num doente com psoríase a receber Raptiva (ver secção 4.8). Os doentes têm de ser monitorizados, em intervalos regulares, relativamente a qualquer sintoma neurológico novo ou agravamento de um sintoma já existente que sugiram uma PML (tais como, dificuldades cognitivas, distúrbios da visão, hemiparesias, alterações do estado mental ou alterações comportamentais) No caso de suspeita de uma PML, a administração tem de ser suspensa até exclusão deste diagnóstico. O médico deverá avaliar o doente para determinar se os sintomas são indicativos de uma disfunção neurológica e, neste caso, se esses sintomas são passíveis de sugerir uma PML. Se existirem dúvidas, deverá ser considerada uma avaliação complementar incluindo uma ressonância magnética, de preferência com contraste, a pesquisa de DNA viral do JC no líquido cérebro-espinal e repetição da avaliação neurológica. Os doentes deverão também ser aconselhados a informar os seus acompanhantes ou prestadores de cuidados, do tratamento que estão a fazer, já que estes podem detectar sintomas que o próprio doente não se apercebe. Se um doente desenvolver uma PML, Raptiva tem de ser descontinuado de forma permanente.
+ 3 b) Vacinas Os dados disponíveis são limitados quanto a efeitos da vacinação. A administração de neo-vacinações durante o tratamento com Raptiva pode induzir níveis de anticorpos inferiores aos observados em indivíduos não-tratados, mas o significado clínico deste facto é desconhecido. Os doentes não devem receber vacinas vivas e vivas-atenuadas enquanto estiverem em tratamento com Raptiva. Antes da vacinação, deve interromper-se o tratamento com Raptiva durante 8 semanas, podendo depois ser retomado 2 semanas após a vacinação (ver secção 4.5).
+ c) Neoplasias malignas e alterações linfoproliferativas Desconhece-se ainda se Raptiva aumenta, ou não, o risco de alterações linfoproliferativas ou outras neoplasias malignas em doentes com psoríase. Raptiva deve ser interrompido caso se desenvolva uma neoplasia maligna enquanto o doente está sob tratamento (ver secções 4.3 e 4.8). Raptiva não foi estudado em combinação com medicamentos antipsoriásicos sistémicos imunossupressores. Por conseguinte, não se recomenda o tratamento combinado com estes medicamentos (ver secção 4.5).
+ Anemia hemolítica imunonologicamente mediada Na vigilância pós-comercialização, foram reportados casos isolados de anemia hemolítica grave durante o tratamento com Raptiva. Em tais circunstâncias, Raptiva deve ser descontinuado.
+ Trombocitopénia Durante o tratamento com Raptiva pode ocorrer trombocitopénia, a qual pode estar associada a sinais clínicos, tais como equimoses, contusões espontâneas ou hemorragias do tecido músculo-cutâneo. Se ocorrerem estas manifestações, deve interromper-se Raptiva imediatamente, devendo efectuar-se uma contagem plaquetária e instituir-se imediatamente tratamento sintomático adequado (ver secção 4.8). Recomenda-se a realização de contagem de plaquetas no início e periodicamente durante o tratamento com Raptiva. Recomenda-se que as avaliações sejam mais frequentes no início da terapêutica (por exº, uma vez por mês) podendo diminuir de frequência com a continuação do tratamento (por exº, de 3 em 3 meses).
+ Poliradiculoneuropatia inflamatória Casos de poliradiculoneuropatia inflamatória foram observados durante a vigilância pós-comercialização ,, em doentes a tomar Raptiva (ver secção 4.8). Os doentes recuperaram após a descontinuação de Raptiva. Deste modo, o tratamento com Raptiva deverá ser interrompido, logo que seja diagnosticada uma poliradiculoneuropatia inflamatória.
+ Hipersensibilidade e reacções alérgicas Como qualquer produto recombinante, Raptiva é potencialmente imunogénico. Por conseguinte, se ocorrer hipersensibilidade grave ou uma reacção alérgica, Raptiva deve ser imediatamente suspenso e instituída terapêutica apropriada (ver secções 4.3 e 4.8).
+ Artrite Foram observados casos de artrite durante o tratamento, ou após a descontinuação de Raptiva. Recomenda-se a interrupção do tratamento com Raptiva, em caso de artrite
+ Psoríase Durante o tratamento com Raptiva, foram observados casos de exacerbação da psoríase, incluindo os subtipos pustulosa, eritrodérmico e gutata (ver secção 4.8). Em tais circunstâncias, aconselha-se a interrupção do tratamento com Raptiva. A interrupção do tratamento pode causar uma recidiva ou exacerbação da psoríase em placas, incluindo a psoríase eritrodérmica e pustulosa, especialmente em doentes que não respondem ao tratamento. A redução gradual da dose ou frequência das doses não parece ser benéfica.
+ Interrupção O seguimento dos doentes que suspendem Raptiva inclui uma observação rigorosa. No caso de recidiva ou exacerbação da doença, assim como em doentes que descontinuaram Raptiva e não
+ 4 respondem ao tratamento, o médico deverá instituir a terapêutica da psoríase que considerar mais adequada às necessidades do doente. No caso de estar indicado o re-início do tratamento com Raptiva, deve seguir-se a mesma orientação mencionada em “ Posologia e modo de administração ”. O re-início do tratamento pode estar associado com uma resposta inferior ou inadequada a Raptiva comparativamente com os períodos de tratamento anteriores. O tratamento deve continuar apenas nos doentes que responderam adequadamente ao mesmo.
+ Populações especiais de doentes Não se observaram diferenças na segurança ou eficácia entre os doentes idosos (≥ 65 anos) e os doentes mais jovens. Dado que a incidência de infecções na população idosa em geral é mais elevada, esta deve ser tratada com precaução. Raptiva não foi estudado em doentes com insuficiência renal ou hepática, devendo portanto ser utilizado com precaução nesses doentes. Relativamente a efeitos sobre a função hepática, ver a secção 4.8.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Não foram efectuados estudos formais de interacções medicamentosas com Raptiva.
+ Os dados disponíveis são limitados quanto aos efeitos da vacinação em doentes a tomar Raptiva. As respostas imunitárias durante e após o tratamento com Raptiva foram investigadas num estudo com 66 doentes com psoríase em placas moderada. Após vacinação antitetânica de reforço (antigénio de anulação), a capacidade de desenvolvimento de uma resposta imunitária à anatoxina tetânica estava preservada nos doentes em tratamento com Raptiva. Após 35 dias de tratamento com Raptiva, a proporção de indivíduos tratados com efalizumab com reacções positivas a testes cutâneos à Candida, estava significativamente reduzida em comparação com o grupo placebo. A resposta mediada por anticorpos a um neo-antigénio experimental (ØX174) diminuiu durante a terapêutica com Raptiva, mas começou a normalizar 6 semanas após a descontinuação da terapêutica com Raptiva e não demonstrou indução de tolerância. Uma vacina pneumocócica administrada 6 semanas após a descontinuação de Raptiva produziu resultados normais. A administração de neo-vacinações durante o tratamento com Raptiva pode induzir níveis de anticorpos inferiores aos observados em indivíduos não-tratados, mas o significado clínico deste facto é desconhecido. Os doentes não devem receber vacinas vivas e vivas-atenuadas enquanto estiverem em tratamento com Raptiva (ver secção 4.4).
+ Dado o mecanismo de acção de efalizumab, o seu efeito sobre o sistema imunitário pode ser potenciado pelos imunossupressores sistémicos habitualmente utilizados no tratamento da psoríase (ver secção 4.4).
+ Raptiva tem sido utilizado em combinação com corticosteróides tópicos em doentes com psoríase, sem causar efeitos indesejáveis, além de que não se verifica um efeito benéfico significativo desta terapêutica combinada face à monoterapia com efalizumab.
+ 4.6 Gravidez e aleitamento Gravidez Em geral, sabe-se que as imunoglobulinas atravessam a barreira placentária. Não existem dados suficientes sobre a utilização de efalizumab em mulheres grávidas. Os estudos em animais revelam alteração da função imunitária do recém-nascido (ver secção 5.3).
+ As mulheres grávidas não devem ser tratadas com Raptiva. As mulheres em risco de engravidar deverão utilizar um método contraceptivo eficaz durante o tratamento.
+ Aleitamento Não foi investigada a excreção de efalizumab no leite humano, porém é de esperar que as imunoglobulinas sejam excretadas por essa via. Além disso, observou-se que um anticorpo análogo a
+ 5 efalizumab era excretado no leite de ratinhos. As mulheres não devem amamentar durante o tratamento com Raptiva.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas. Com base no mecanismo farmacológico de acção de efalizumab, não é de esperar que a utilização de Raptiva afecte a capacidade de conduzir e utilizar máquinas.
+ 4.8 Efeitos indesejáveis As reacções adversas sintomáticas mais frequentemente observadas durante o tratamento com Raptiva são sintomas pseudogripais agudos, ligeiros ou moderados, relacionados com a dose, incluindo cefaleia, febre, calafrios, náuseas e mialgias. Em ensaios clínicos extensos controlados com placebo, com a duração de 12 semanas, estas reacções observaram-se em aproximadamente 41% dos doentes tratados com Raptiva e 24% dos doentes tratados com placebo. Após o início da terapêutica, estas reacções foram geralmente menos frequentes e ocorreram em percentagens similares às observadas no grupo placebo a partir da terceira injecção e subsequentes. Foram detectados anticorpos ao efalizumab em apenas 6% dos doentes. Neste pequeno número de doentes, não se observaram diferenças na farmacocinética, farmacodinâmica, reacções adversas clinicamente relevantes ou eficácia clínica.
+ As reacções adversas (Termos Preferidos) na população total estudada clinicamente com Raptiva encontram-se descritas a seguir por frequência de ocorrência e de acordo com as Classes de Sistemas de Órgãos MedDRA. Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ Classes de Muito Frequentes Pouco Muito Frequentes Pouco Raros Muito
+ Desconhecidos sistemas de órgãos
+ frequentes (≥1/10)
+ (≥1/100, &lt; 1/10)
+ frequentes (≥1/1.000,
+ (≥1/10.000 &lt; 1/1.000)
+ raros (&lt; 1/
+ Infecções e infestações
+ &lt; 1/100)
+ 10.000) Meningite asséptica*, Infecções graves*, Infecção pelo virus JC, resultando numa leucoencefalopatia multifocal progressiva*
+ Doenças do Leucocitose Trombocito- Anemia hemolítica sangue e do sistema linfático Doenças do sistema imunitário
+ e linfocitose
+ Reacções de hipersensib i-lidade pénia
+ imunologica-mente mediada*
+ Doenças do Paralisia Poliradiculo- sistema
+ facial
+ neuropatia
+ nervoso
+ (paralisia de Bell)
+ inflamatória*
+ 6 Pneumonia Doenças intersticial* respiratórias, torácicas e do mediastino Afecções dos tecidos cutâneos e subcutâneos Afecções musculosque-léticas e dos tecidos conjuntivos
+ Psoríase Artralgia Artrite/Artrite psoriásica (exacerbaçã o/surto)
+ Urticária Eritema polimórfico* Perturbações Sintomas Dor Reacções no gerais e
+ pseudo-
+ lombar,
+ local de
+ alterações no local de injecção
+ gripais, incluindo febre, cefaleias, calafrios, náuseas e mialgia
+ Astenia injecção
+ Elevação Exames da fosfatase complementa alcalina-res de Elevação diagnóstico da ALT* Acontecimentos identificados durante a vigilância pós-comercialização.
+ O perfil de segurança na população alvo, conforme definido na secção 4.1, é similar ao perfil de segurança na população total tratada durante o desenvolvimento clínico de Raptiva, descrito anteriormente.
+ Informação adicional Exposição a longo prazo: A análise após o tratamento prolongado num estudo coorte de 339 doentes com psoríase moderada a grave, a receber 1 mg/kg/semana de Raptiva, no qual 166 doentes foram tratados por mais de 2 e até 3 anos, não mostrou diferenças dignas de menção quanto à frequência de reacções adversas, comparativamente com 12 semanas de exposição a Raptiva.
+ Leucocitose e linfocitose: Em ensaios clínicos extensos controlados com placebo e a longo prazo, entre 40 e 50% dos doentes desenvolveram linfocitose assintomática sustentada durante o tratamento com Raptiva. Todos os valores oscilaram entre 2,5 vezes e 3,5 vezes o LSN (Limite Superior do Normal). A contagem linfocitária voltou à linha de base após a interrupção da terapêutica. Numa proporção menor de doentes observou-se uma elevação ligeira do número absoluto de neutrófilos e de eosinófilos.
+ Trombocitopénia: Na base de dados de segurança com dados combinados de 3291 de doentes tratados com Raptiva, quando da aprovação do medicamento, registaram-se nove casos (0,3%) de trombocitopénia com menos de 52.000 células por µl. Quatro destes doentes apresentavam sinais clínicos de trombocitopénia. Com base nas contagens plaquetárias disponíveis, o início do declínio no número de plaquetas ocorreu entre as 8 e 12 semanas após a primeira dose de Raptiva em 5 doentes, mas ocorreu
+ 7 mais tarde nos outros doentes. Num doente, a trombocitopénia ocorreu 3 semanas depois da interrupção do tratamento. No tratamento a longo prazo até 3 anos, foi observada uma pequena e gradual diminuição na contagem média de plaquetas dentro dos valores normais. Na mesma população, observaram-se 2 casos de trombocitopenia grave (0,6%) e de rápido desenvolvimento (ver secção 4.4).
+ Psoríase: Nas primeiras 12 semanas dos estudos controlados com placebo, a frequência de acontecimentos adversos relacionados com a psoríase foi de 3,2% no grupo de doentes tratados com Raptiva e de 1,4% no grupo de doentes tratados com placebo. Num total de 3291 doentes da base de dados combinada de segurança,39 doentes apresentaram uma psoríase eritrodérmica ou pustular (1,2%). Dezassete destes acontecimentos ocorreram depois da interrupção do tratamento com Raptiva, enquanto que 22 ocorreram durante o tratamento. Entre os casos que ocorreram durante o tratamento, a maior parte (16/22) ocorreu em doentes que não responderam a Raptiva. Os casos ocorridos após a suspensão, foram observados tanto em doentes que responderam como em doentes que não responderam ao tratamento com Raptiva.
+ Artrite/Artrite psoriásica: Nas primeiras 12 semanas dos estudos controlados com placebo, foi observada artrite e exacerbação ou surto de artrite em 1,8% dos doentes tratados com Raptiva e dos que estavam com placebo. Nestes estudos, a incidência de outros tipos de acontecimentos adversos relacionados com a artrite foi similar nos grupos tratados com Raptiva ou placebo.
+ Sintomas pseudogripais: Em estudos clínicos extensos controlados com placebo, aproximadamente 20% dos doentes (excesso sobre o placebo) apresentou sintomas pseudogripais incluindo cefaleia, calafrios, febre, náuseas e mialgia. A percentagem de doentes com sintomas pseudogripais foi maior com a primeira injecção e diminuíu mais de 50% com a segunda injecção. Estes sintomas diminuíram posteriormente até uma percentagem comparável à dos doentes tratados com placebo. A cefaleia foi o mais frequente dos sintomas pseudogripais. Nenhum destes acontecimentos foi considerado muito grave e menos de 5% foram considerados graves. Globalmente, menos de 1% dos doentes suspenderam a terapêutica devido a sintomas pseudogripais agudos.
+ Hipersensibilidade e reacções alérgicas: Em estudos clínicos extensos controlados com placebo, a percentagem de doentes com um acontecimento adverso indicativo de hipersensibilidade, incluindo urticária, rash e reacções alérgicas foi ligeiramente superior no grupo Raptiva (8%) do que no grupo placebo (7%) (ver secção 4.4) A longo prazo, os acontecimentos adversos relacionados com hipersensibilidade não apresentaram aumento.
+ Elevação da fosfatase alcalina: Em estudos clínicos extensos controlados com placebo, aproximadamente 4,5% dos doentes apresentaram uma elevação sustentada da fosfatase alcalina durante o tratamento com Raptiva, em comparação com 1% no grupo placebo. Todos os valores oscilaram entre 1,5 vezes e 3 vezes o LSN e voltaram aos níveis da linha de base após a interrupção do tratamento.
+ Elevação da ALT: Cerca de 5,7% dos doentes desenvolveram elevação da ALT durante o tratamento com Raptiva em comparação com 3,5% no grupo do placebo. Todas os casos foram assintomáticos e os valores acima de 2,5 vezes o LSN não foram mais frequentes no grupo Raptiva do que no grupo placebo. Todos os valores voltaram aos níveis da linha de base após a interrupção do tratamento.
+ Infecções: Outros tratamentos que alteram a função dos linfócitos-T têm sido associados com um risco aumentado de desenvolvimento de infecções graves. Em ensaios clínicos controlados com placebo, a taxa de infecção nos doentes tratados com Raptiva foi de aproximadamente 27,3% versus 24,0% nos
+ 8 doentes do grupo placebo. Na população alvo do estudo IMP 24011, a taxa de infecção nos doentes tratados com Raptiva foi de aproximadamente 25,7% versus 23,3% nos doentes do grupo placebo. No que respeita a infecções graves, tanto nos estudos controlados como nos não controlados até 12 semanas, a incidência global foi de 2,8 por 100 doentes-anos nos doentes tratados com Raptiva em comparação com 1,4 por 100 doentes-anos nos doentes tratados com placebo. As infecções graves mais frequentes foram pneumonia, celulite, infecções não especificadas de outro modo e sepsis. No tratamento a longo prazo, a incidência de infecções graves foi de 1,8 por 100 doentes ano. (ver secção 4.). Foi reportado, na vigilância pós-comercialização, um caso de infecção pelo virus JC, resultando numa PML num doente com psoríase a receber Raptiva (ver secção 4.4).
+ Reacções adversas de classe Neoplasias benignas e malignas: Uma maior frequência de cancro tem sido associada a terapêuticas que afectam o sistema imunitário. Em ensaios clínicos controlados com placebo, a incidência global de neoplasias malignas (a maioria das quais foi cancro da pele distinto de melanoma) foi similar nos doentes tratados com Raptiva e nos doentes tratados com placebo. Além disso, a incidência de tumores específicos nos doentes com Raptiva era semelhante à observada em populações de controlo com psoríase. Não há evidência de um maior risco de desenvolvimento de qualquer malignidade particular ao longo do tempo, com excepção do carcinoma da pele não melanoma (0,3 vs. 0,9 por 100 doentes ano, nos tratamentos a curto prazo e longo prazo, respectivamente) (ver secção 4.4).
+ Poliradiculoneuropatia inflamatória: Foram observados casos isolados, durante a vigilância pós-comercialização (ver secção 4.4).
+ 4.9 Sobredosagem Num estudo clínico, em que os indivíduos foram expostos a doses mais altas de efalizumab (até 10 mg/kg por via intravenosa), um indivíduo que recebeu uma dose de 3 mg/kg por via intravenosa apresentou hipertensão, calafrios e febre no dia da administração do fármaco em estudo, que requereu hospitalização. Outro indivíduo, que recebeu uma dose de 10 mg/kg por via intravenosa, apresentou vómitos intensos após a administração de efalizumab, que também requereu hospitalização. Ambos os incidentes resolveram totalmente sem sequelas. Foram administradas doses até 4 mg/kg/semana por via subcutânea durante 10 semanas sem nenhum efeito tóxico.
+ Não existe nenhum antídoto conhecido para Raptiva nem nenhum tratamento específico para a sobredosagem com Raptiva a não ser a suspensão do tratamento e a observação do doente. No caso de sobredosagem, recomenda-se a monitorização do doente sob rigorosa vigilância médica e a instituição imediata de tratamento sintomático apropriado.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: agentes imunossupressores selectivos, código ATC: L04AA21
+ Mecanismo de acção Efalizumab é um anticorpo monoclonal humanizado recombinante que se liga especificamente à subunidade CD11a do LFA-1 (antigénio-1 associado à função linfocitária), uma proteína de superfície dos leucócitos.
+ Por este mecanismo, efalizumab inibe a ligação do LFA-1 ao ICAM-1, o que interfere com a adesão dos linfócitos T a outros tipos celulares. O LFA-1 está presente nos linfócitos T activados, e o ICAM-1 tem uma elevada expressão nas células endoteliais e queratinocitos na psoríase em placas. Ao
+ 9 impedir a ligação LFA-1/ICAM, efalizumab pode aliviar os sinais e sintomas da psoríase, inibindo vários estádios da cascata imunológica.
+ Efeitos farmacodinâmicos Em estudos em que se utilizou uma injecção inicial de 0,7 mg/kg seguida de 11 injecções semanais de 1,0 mg/kg, efalizumab reduziu ao máximo a expressão de CD11a nos linfócitos T circulantes até aproximadamente 15-30% dos valores basais pré-administração e saturou os pontos de ligação CD11a até &lt; 5% dos disponíveis na linha de base. O efeito completo foi observado 24 a 48 horas após a primeira dose e manteve-se entre as injecções semanais. Nas 5 a 8 semanas após a décima segunda e última injecção de efalizumab, na dose de 1,0 mg/kg/semana, os níveis de CD11a regressaram a um intervalo de ± 25% dos valores da linha de base.
+ Outro marcador farmacodinâmico, consistente com o mecanismo de acção de efalizumab, foi o aumento do número absoluto de leucócitos circulantes observado durante o tratamento com efalizumab. A elevação do número absoluto observou-se dentro de 24 horas após a primeira dose, permaneceu elevado com a administração semanal e regressou aos valores da linha de base após a conclusão do tratamento. A maior elevação foi a do número absoluto de linfócitos circulantes. Nos ensaios clínicos, o número médio de leucócitos aproximadamente duplicou em relação ao valor da linha de base nos indivíduos que receberam 1,0 mg/kg/semana de Raptiva. O incremento incluíu os linfócitos T CD4, os linfócitos T CD8, os linfócitos B e as células citotóxicas naturais (NK), se bem que o número de células NK e CD4 aumentou menos do que outros tipos celulares. Com uma dose de efalizumab por via subcutânea de 1,0 mg/kg/semana, os níveis de linfócitos regressaram aos 10% da linha de base às 8 semanas após a última administração.
+ Eficácia clínica A eficácia de Raptiva versus outras terapêuticas sistémicas em doentes com psoríase moderada a grave não foi directamente avaliada em estudos comparativos de Raptiva com outras terapêuticas sistémicas. Os resultados actuais de Raptiva versus placebo durante 12 semanas de tratamento com diferentes populações indicam uma resposta PASI 75 ao Raptiva em 22% de 39% de doentes (ver Tabela 2). Com base nos dados de desenvolvimento clínico (ver Tabela 1) e na experiência a longo prazo, Raptiva é recomendado para utilização em doentes conforme definido na secção 4.1.
+ O insucesso de terapêuticas sistémicas prévias é definido como resposta insuficiente (PASI &lt; 50 ou PGA menos do que bem), ou agravamento da doença em doentes sob tratamento que receberam as doses adequadas durante um período suficientemente longo para permitir a avaliação da resposta com cada um dos 3 principais tratamentos sistémicos disponíveis.
+ A segurança e eficácia de Raptiva em doentes com psoríase em placas moderada a grave foi demonstrada em cinco estudos aleatorizados, por dupla ocultação, comparativos com placebo na dose recomendada (n=1742). Não há dados comparativos de Raptiva versus outras terapêuticas sistémicas da psoríase. O maior estudo IMP24011 (n=793) incluíu doentes (n=526) que não estavam controlados com dois ou mais tratamentos sistémicos, ou tinham contra-indicações ou intolerância aos mesmos, conforme se pode confirmar na sua história clínica. Em todos os estudos, a variável principal de eficácia foi a proporção de doentes com uma melhoria ≥ 75% na pontuação da escala PASI “ Área de Psoríase e Índice de Gravidade ” (uma resposta PASI 75) relativamente à linha de base, uma semana após um ciclo de tratamento de 12 semanas. As variáveis secundárias incluíram a proporção de indivíduos que alcançaram uma qualificação de Afectação Mínima ou Nula numa avaliação global estática realizada pelo médico, a Gravidade Global das Lesões (OLS), a proporção de doentes com uma melhoria ≥ 50% na PASI (uma resposta PASI 50) em relação à linha de base após 12 semanas de tratamento, o período de tempo da melhoria na percentagem média de PASI desde a linha de base, melhoria no Índice de Qualidade de Vida em Dermatologia (DLQI), alteração na Avaliação dos Sintomas da Psoríase (PSA), na Avaliação Global do Médico (PGA), alteração no componente de espessura do PASI e alteração na área de superfície corporal afectada.
+ Nos cinco estudos, os doentes aleatorizados para o grupo Raptiva alcançaram respostas estatística e significativamente melhores do que os do grupo placebo na variável principal. Os mesmos resultados
+ 10 foram confirmados em doentes que não tinham indicação para outros tratamentos sistémicos (ver Tabela 1).
+ Tabela 1 Variável principal de Avaliação: Proporção de indivíduos com uma melhoria ≥ 75% na PASI após 12 semanas de Tratamento (PASI 75) Efalizumab a
+ População de doentes do estudo IMP24011 Placebo 1,0 mg/kg/sem. Efeito do tratamento[ 95% IC]
+ Todos os doentes 4% 31% 27% (n=529) b
+ Doentes que não estão controlados com dois ou
+ (n=264) 3%
+ 30% [ 22%,32%] 27%
+ (n=342) b a
+ mais tratamentos sistémicos, ou têm contra-indicações, ou intolerância aos mesmos*
+ (n=184)
+ [ 21%,32%]
+ valores de p ao comparar efalizumab com placebo, utilizando regressão logística incluindo a pontuação PASI da linha de base, o tratamento anterior da psoriase e a região geográfica como covariantes. b p &lt; 0,001.* Conforme se pode verificar nas histórias dos doentes.
+ Nos cinco estudos, os doentes aleatorizados para o grupo Raptiva alcançaram respostas estatística e significativamente melhores do que os do grupo placebo na variável principal (resposta PASI 75) (ver Tabela 2 abaixo) e em todas as variáveis secundárias de eficácia.
+ Tabela 2 Variável principal de eficácia: Proporção de Indivíduos com melhoria ≥ 75% na PASI após 12 semanas de Tratamento (PASI 75)
+ Efalizumab a
+ Estudo Placebo 1,0 mg/kg/sem. Efeito do tratamento[ 95% IC]
+ ACD2390g* 4% 27% 22% (n=369) b
+ (n=187)
+ [ 16%,29%]
+ ACD2058g 2% 39% 37% (n=162) b
+ (n=170)
+ [ 28%,46%]
+ 5% 22% 17% (n=232) b
+ ACD2059g* (n=122)
+ [ 9%,27%]
+ ACD2600g* 3% 24% 21% (n=450) b
+ (n=236)
+ [ 15%,27%]
+ IMP24011* 4% 31% 27% (n=529) b
+ a
+ (n=264)
+ [ 22%,32%]
+ IMP 24011: valores p ao comparar efalizumab com placebo utilizando como covariantes a regressão logística, incluindo a pontuação PASI da linha de base, tratamento anterior da psoríase e região geográfica. Outros estudos: valores p ao compar cada grupo de efalizumab com placebo utilizando a prova exacta de Fisher em cada estudo. b p &lt; 0,001.
+ *
+ O efalizumab utilizado neste estudo é o produzido pela Genentech.
+ O tempo até à recidiva (≥ 50% perda de melhoria) foi avaliado nos estudos ACD2058g e IMP 24011 para doentes que responderam à terapêutica (≥ 75% de melhoria no PASI) após 12 semanas de tratamento. O tempo médio até à recidiva entre os que mostraram resposta PASI oscilou entre 58 e 74 dias após a última dose de Raptiva no período de tratamento inicial. No estudo IMP24011, aproximadamente
+ 11 metade dos doentes (46,8%) que responderam parcialmente à terapêutica (50% a 74% de incremento no PASI, idêntico a um PGA bom), atingiram um PASI 75 na semana 24.
+ Tratamento a longo prazo: Dados de um tratamento prolongado (mais de 12 semanas) foram obtidos em estudos abertos e não controlados com 4311 doentes. Mais de 600 doentes foram tratados por mais de 1 ano incluíndo 166 doentes tratados por mais de 2 anos e até 3 anos. Aproximadamente metade dos doentes tratados por mais de 1 ano atingiram uma resposta PASI 75 (todos os dropouts foram considerados como doentes que não responderam à terapêutica).
+ 5.2 Propriedades farmacocinéticas Absorção: Após administração subcutânea de efalizumab, as concentrações plasmáticas máximas foram alcançadas após 1 a 2 dias. A comparação com os dados da via intravenosa indicam uma biodisponibilidade média de cerca de 50% com a dose recomendada de 1,0 mg/kg/semana por via subcutânea.
+ Distribuição: O estado estacionário foi alcançado na semana 4. Com uma dose de 1 mg/kg/semana (com uma dose inicial de 0,7 mg/kg na primeira semana) o valor médio mínimo dos níveis plasmáticos de efazilumab foi de 11,1 ± 7,9 µg/ml. Os resultados do volume de distribuição do compartimento central após uma dose única por via intravenosa foram de 110 ml/kg com a dose de 0,03 mg/kg e 58 ml/kg com a dose de 10 mg/kg.
+ Biotransformação: O metabolismo de efalizumab realiza-se por internalização seguido por degradação intracelular como consequência da ligação ao CD11a da superfície celular ou mediante endocitose. Os produtos de degradação esperados são pequenos peptidos e aminoácidos individuais que são eliminados por filtração glomerular. As enzimas do citocromo P450 e as reacções de conjugação não intervêm no metabolismo de efalizumab.
+ Eliminação: A eliminação de elalizumab é saturável e não linear (dependente da dose). A depuração média em estado estacionário é de 24 ml/kg/dia (intervalo 5-76 ml/kg/dia) com uma dose de 1 mg/kg/semana por via subcutânea. A semi-vida de eliminação foi cerca de 5,5 – 10,5 dias com uma dose de 1 mg/kg/semana por via subcutânea. O Tfinal em estado estacionário é de 25 dias (intervalo 13-35 dias). O peso é a covariável mais significativa que afecta a depuração de efalizumab.
+ Não-linearidade: Efalizumab mostra uma farmacocinética não-linear dependente da dose, que pode ser explicada pela sua ligação saturável e específica, aos receptores CD11a da superfície celular. Aparentemente a depuração de efalizumab mediada por receptores satura-se quando as concentrações plasmáticas de efalizumab forem superiores a 1 µg/ml.
+ Através da análise farmacocinética de populações, verificou-se que o peso afecta a depuração de efalizumab. As covariáveis tais como o PASI e o número de linfocitos na linha de base e a idade apresentaram efeito ligeiro na depuração; o sexo e origem étnica não produziram efeito. Não foi estudada a farmacocinética de efalizumab em doentes pediátricos. O efeito da insuficiência renal ou hepática na farmacocinética de efalizumab não foi estudado.
+ Detectaram-se anticorpos contra efalizumab em apenas 6% dos doentes avaliados. Neste pequeno número de doentes não se observaram diferenças nos parâmetros farmacodinâmicos ou farmacocinéticos.
+ 12 5.3 Dados de segurança pré-clínica
+ Efalizumab não apresenta reacção cruzada com o CD11a de espécies distintas do homem e do chimpazé. Portanto, os dados não-clínicos convencionais de segurança com este medicamento são limitados e não permitem uma avaliação exaustiva da segurança. Foram observados efeitos inibidores sobre a resposta imune, tanto humoral como a dependente das células T. Nas crias de ratinhos tratados com um anticorpo análogo a efalizumab, observou-se uma diminuição da imunidade dependente das células T, pelo menos até às 11 semanas de idade. Só às 25 semanas de idade esta diminuição deixou de ser significativa. Por outro lado, os efeitos observados nos estudos não-clínicos podiam estar relacionados com a farmacologia de efalizumab. Não se observaram linfomas após 6 meses de tratamento com um anticorpo análogo a efalizumab num estudo com a duração de 6 meses, em ratinhos de tipo natural p53 +/+. Não se observaram efeitos teratogénicos em ratinhos durante a organogénese.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista de excipientes Pó para solução injectável: Polisorbato 20 Histidina Cloridrato de histidina monohidratado Sacarose
+ Solvente: Água para preparações injectáveis
+ 6.2 Incompatibilidades Na ausência de estudos de compatibilidade, este medicamento não deve ser misturado com outros.
+ 6.3 Prazo de validade 4 anos. Após reconstituição recomenda-se a utilização imediata (ver também secção 6.4).
+ 6.4 Precauções especiais de conservação
+ Conservar no frigorífico (2ºC – 8ºC). Não congelar.
+ Conservar na embalagem de origem para proteger da luz.
+ Do ponto de vista microbiológico, o produto deve ser utilizado imediatamente após a primeira abertura e reconstituição. Se não for utilizado imediatamente, o tempo de conservação em-uso e as condições antes da utilização, são da responsabilidade do utilizador, e não devem exceder 24 horas a 2ºC – 8ºC, excepto se a reconstituição tiver tido lugar em condições assépticas controladas e validadas. Foi demonstrada a estabilidade físico-química do produto reconstituído durante 24 horas a 2ºC – 8ºC (no frigorífico).
+ 6.5 Natureza e conteúdo do recipiente Pó: Frasco para injectáveis de vidro Tipo I incolor, com uma tampa de borracha de butilo, com um anel de alumínio e capa flip-off de plástico.
+ 13 Solvente: Seringa pré-cheia de vidro Tipo I.
+ Raptiva está disponível em: Embalagens com 1 frasco para injectáveis de pó,1 seringa pré-cheia de solvente,1 adaptador EasyMIX para a reconstituição e 1 agulha para injecção. Embalagens com 4 frascos para injectáveis de pó,4 seringas pré-cheias de solvente,4 adaptadores EasyMIX para a reconstituição e 4 agulhas para injecção. Embalagens com 12 frascos para injectáveis de pó,12 seringas pré-cheias de solvente,12 adaptadores EasyMIX para a reconstituição e 12 agulhas para injecção.
+ É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ Raptiva é apenas para administração única.
+ Um frasco para injectáveis de Raptiva deve ser reconstituído com o solvente antes da utilização. A reconstituição do frasco para utilização única com 1,3 ml da água para injectáveis fornecida, dá aproximadamente 1,5 ml de solução, para proporcionar a administração de 100 mg por 1 ml de Raptiva. A dose máxima recuperável é de 125 mg por 1,25 ml de Raptiva.
+ A reconstituição não deve demorar mais de 5 minutos. A solução reconstituída é uma solução límpida ou ligeiramente opalescente, incolor ou amarelo pálido e não deve ser administrada se contiver partículas ou não estiver límpida.
+ As instruções de utilização detalhadas figuram no folheto informativo.
+ Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Serono Europe Ltd. 56 Marsh Wall London E14 9TP Reino Unido
+ 8. NÚMEROS DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/04/291/001 EU/1/04/291/002 EU/1/04/291/003
+ 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO
+ Data da primeira autorização: 20 de Setembro de 2004
+ 10. DATA DA REVISÃO DO TEXTO 14 ANEXO II
+ A. FABRICANTE(S) DA SUBSTÂNCIA ACTIVA DE ORIGEM BIOLÓGICA E TITULAR(ES) DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 15 A. FABRICANTE(S) DA SUBSTÂNCIA ACTIVA DE ORIGEM BIOLÓGICA E TITULAR(ES) DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do fabricante da substância activa de origem biológica
+ Genentech, Inc. 1 DNA Way, South San Francisco, CA 94080-4990 E. U. A.
+ Nome e endereço do fabricante responsável pela libertação do lote
+ Merck Serono, S. p. A. Via L. Einaudi 11,00012 Guidonia Montecelio (Roma) Itália
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento de receita médica restrita, de utilização reservada a certos meios especializados (ver anexo I: Resumo das Características do Medicamento, secção 4.2) CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ Não aplicável 16 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 17 A. ROTULAGEM
+ 18 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ CAIXA COM 1 FRASCO PARA INJECTÁVEIS E 1 SERINGA PRÉ-CHEIA CAIXA COM 4 FRASCOS PARA INJECTÁVEIS E 4 SERINGAS PRÉ-CHEIAS CAIXA COM 12 FRASCOS PARA INJECTÁVEIS E 12 SERINGAS PRÉ-CHEIAS
+ 1. NOME DO MEDICAMENTO Raptiva 100 mg/ml pó e solvente para solução injectável Efaluzimab
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIAS(S) ACTIVA(S)
+ Um frasco para injectáveis contém uma quantidade recuperável de 125 mg de efalizumab.
+ 3. LISTA DOS EXCIPIENTES Polisorbato 20, histidina, cloridrato de histidina monohidratado e sacarose. Solvente: água para preparações injectáveis.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 1 frasco de pó para solução injectável 1 seringa pré-cheia de 1,3 ml de solvente 1 adaptador EasyMIX para a reconstituição 1 agulha para a injecção
+ 4 frascos de pó para solução injectável 4 seringas pré-cheias de 1,3 ml de solvente 4 adaptadores EasyMIX para a reconstituição 4 agulhas para a injecção
+ 12 frascos de pó para solução injectável 12 seringas pré-cheias de 1,3 ml de solvente 12 adaptadores EasyMIX para a reconstituição 12 agulhas para a injecção
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via subcutânea. Ler o folheto informativo antes da utilização.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 19 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. Utilizar imediatamente após reconstituição.
+ 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico. Não congelar. Conservar na embalagem de origem para proteger da luz.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ Rejeitar qualquer solução não utilizada. 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Serono Europe Ltd. 56 Marsh Wall London E14 9TP Reino Unido
+ 12. NÚMERO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/04/291/001 EU/1/04/291/002 EU/1/04/291/003
+ 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO GERAL RELATIVA AO FORNECIMENTO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 20 16. INFORMAÇÃO EM BRAILLE
+ raptiva 100 mg/ml
+ 21 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ RAPTIVA 100 mg/ml RÓTULO DO FRASCO PARA INJECTÁVEIS
+ 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Raptiva 100 mg/ml Pó para solução injectável Efalizumab Via subcutânea
+ 2. MODO DE ADMINISTRAÇÃO 3. PRAZO DE VALIDADE VAL. 4. NÚMERO DO LOTE Lote 5. CONTEÚDO EM TERMOS DE PESO, VOLUME OU UNIDADE
+ 125 mg de conteúdo recuperável 6. OUTRAS 22 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ SOLVENTE-RÓTULO DA SERINGA PRÉ-CHEIA 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Solvente para utilização com Raptiva Água para preparações injectáveis
+ 2. MODO DE ADMINISTRAÇÃO 3. PRAZO DE VALIDADE VAL. 4. NÚMERO DO LOTE Lote 5. CONTEÚDO EM TERMOS DE PESO, VOLUME OU UNIDADE
+ 1,3 ml em seringa pré-cheia. 6. OUTRAS 23 B. FOLHETO INFORMATIVO
+ 24 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Raptiva 100 mg/ml pó e solvente para solução injectável Efalizumab
+ Leia atentamente este folheto antes de tomar este medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é Raptiva e para que é utilizado 2. Antes de tomar Raptiva 3. Como tomar Raptiva 4. Efeitos secundários possíveis 5. Como conservar Raptiva 6. Outras informações
+ 1. O QUE É RAPTIVA E PARA QUE É UTILIZADO
+ Raptiva é um medicamento para tratamento sistémico da psoríase. As terapêuticas sistémicas são medicamentos, quer tomados por via oral quer administrados por injecção e, como tal, encontram-se presentes e afectam o corpo inteiro.
+ Raptiva é um medicamento que contém efalizumab, fabricado mediante biotecnologia. É produzido em células de mamífero modificadas por engenharia genética. Efalizumab é um anticorpo monoclonal. Os anticorpos monoclonais são proteínas que reconhecem e que se ligam a outras proteínas específicas do corpo humano. Efalizumab reduz a inflamação das lesões psoriásicas, resultando na melhoria das áreas afectadas da pele.
+ Indicações terapêuticas Tratamento do adulto com psoríase crónica em placas, moderada a grave, que não respondeu, ou tem uma contra-indicação ou intolerância a outras terapêuticas sistémicas, incluindo ciclosporina, metrotexato e PUVA. Esta restrição da indicação de Raptiva é baseada nos dados actuais de eficácia e na limitada experiência a longo prazo com Raptiva.
+ 2. ANTES DE TOMAR RAPTIVA Consulte o seu médico ou farmacêutico antes de tomar qualquer medicamento.
+ Não tome Raptiva -Se tem alergia (hipersensibilidade) a efalizumab ou a qualquer outro componente de Raptiva.
+ -Se tem, ou tiver tido, qualquer tipo de cancro.
+ -Se tem tuberculose activa ou outras infecções graves. Os sintomas que podem indicar que tem
+ uma infecção são febre, feridas, sensação de cansaço, problemas nos dentes, uma tosse intensa que dura há mais de 2 semanas, dor no peito ou expectoração com sangue ou muco.
+ -Se tem formas de psoríase distintas da psoríase em placas (por exemplo, outras formas mais
+ graves de psoríase, conforme diagnosticado pelo seu médico).
+ -Se lhe foi diagnosticada alguma alteração do seu sistema imunitário.
+ 25 É importante informar o seu médico se tiver tido ou tiver alguma das situações acima mencionadas.
+ Tome especial cuidado com RAPTIVA -Se sentir hipersensibilidade ou reacções alérgicas, tais como comichão em todo o corpo,
+ urticária, vermelhidão da pele ou erupção cutânea, informe o seu médico imediatamente, ou dirija-se a um serviço de urgência.
+ -Pode contrair infecções mais facilmente. Se desenvolver uma nova infecção, ou se notar alguma
+ alteração nova ou súbita na forma de pensar, no equilíbrio, na força, na forma de conversar, na forma de andar ou ao nível da visão, contacte o seu médico que decidirá se tem de controlar o seu tratamento ou se tem de parar Raptiva.
+ -Se desenvolver um cancro enquanto está sob tratamento, contacte o seu médico que decidirá se
+ tem de parar Raptiva.
+ -Se desenvolver sinais e sintomas associados com anemia (uma diminuição dos glóbulos
+ vermelhos no sangue que pode tornar a pele pálida e causar fraqueza ou falta de ar) enquanto está sob tratamento, fale com o seu médico que decidirá se tem de parar Raptiva.
+ -Se desenvolver quaisquer sinais e sintomas associados com uma diminuição das plaquetas no
+ sangue, tais como gengivas que sangram frequentemente, feridas ou pequenas pintas vermelhas na pele, informe imediatamente o seu médico. Este decidirá se tem de controlar o tratamento ou se tem de parar Raptiva.
+ -Alguns doentes tiveram reacções que incluíram dor de cabeça, febre, náuseas e vómitos nos dois
+ dias após as duas primeiras injecções. Estas reacções foram em geral ligeiras a moderadas. Se verificar que alguma destas reacções não desaparece após a segunda injecção, informe o seu médico.
+ -Se interromper o tratamento com Raptiva (e tal aplica-se principalmente a doentes que não
+ respondem ao tratamento), a sua psoríase pode piorar significativamente. O seu médico poderá decidir controlá-lo de perto e indicar-lhe um tratamento apropriado.
+ -Se sentir que a sua psoríase piora ou se desenvolver artrite, informe o seu médico. Este decidirá
+ se deve interromper o tratamento com Raptiva ou continuar o tratamento sob observação mais apertada.
+ -Se vai ser vacinado, fale com o seu médico. Não deve receber certos tipos de vacinas durante o
+ tratamento com Raptiva. Pode vir a ser necessário interromper o tratamento com Raptiva 8 semanas antes da vacinação.
+ -Se o seu peso se alterar inesperadamente, contacte o seu médico. Este calculará a dose correcta
+ com base no seu novo peso.
+ Informe o seu médico se tiver insuficiência renal ou hepática.
+ Ao tomar Raptiva com outros medicamentos Informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica.
+ Consulte o seu médico se estiver previsto receber alguma vacina (ver “ Tome especial cuidado com Raptiva ”).
+ Durante o tratamento com Raptiva, pode tornar-se mais vulnerável às infecções (ver “ Tome especial cuidado com Raptiva ”). Este efeito pode ser acentuado por outros medicamentos utilizados no tratamento da psoríase que também o tornam mais vulnerável às infecções. Confirme com o seu médico se estiver a tomar outros medicamentos para o tratamento da psoríase.
+ Raptiva pode ser utilizado em combinação com corticosteróides tópicos.
+ Gravidez Não se sabe se Raptiva pode causar dano ao seu bebé se estiver grávida, nem se pode afectar a capacidade de engravidar. Portanto, se estiver grávida informe o seu médico imediatamente.
+ Se é uma mulher em idade de ter filhos, recomenda-se não engravidar e utilizar medidas anticoncepcionais adequadas enquanto estiver a tomar Raptiva.
+ 26 Aleitamento É possível que efalizumab seja excretado no leite humano. Se estiver a amamentar, o seu médico vai recomendar-lhe que interrompa a amamentação ou que suspenda Raptiva enquanto estiver a amamentar.
+ Condução de veículos e utilização de máquinas Não se espera que a utilização de Raptiva afecte a capacidade de conduzir e utilizar máquinas.
+ 3. COMO TOMAR RAPTIVA Tomar Raptiva sempre de acordo com as indicações do médico. Fale com o seu médico ou farmacêutico se tiver dúvidas.
+ Posologia no adulto (18 – 64 anos) e no idoso (≥ 65 anos) A dose habitual é uma injecção única inicial de 0,7 mg/kg, seguida da administração de injecções de 1,0 mg/kg, uma vez por semana. O seu médico informará que quantidade deve injectar. A duração do tratamento é de 12 semanas. A terapêutica deve continuar apenas em doentes que responderam ao tratamento. O seu médico comentará consigo o grau da sua resposta ao tratamento.
+ Modo e via de administração Raptiva é para ser injectado sob a pele (via subcutânea). É apenas para administração única. A injecção pode ser auto-administrada ou dada por outra pessoa, por exemplo, um familiar ou o seu médico. Deve continuar com a administração das injecções de Raptiva conforme as instruções do seu médico.
+ O pó do frasco para injectáveis destina-se a ser reconstituído (misturado) com o solvente.
+ Se auto-injectar Raptiva, leia cuidadosamente as seguintes instruções e siga-as passo a passo: • Lave as mãos. É importante que as suas mãos e os utensílios que vai utilizar estejam o mais limpos possível. • Retire o Raptiva do frigorífico e coloque numa superfície limpa tudo o que vai necessitar: o um frasco para injectáveis contendo o pó Raptiva o uma seringa pré-cheia contendo o solvente o um adaptador EasyMIX para a reconstituição o dois bocados de algodão embebidos em álcool o agulha para a injecção subcutânea o um recipiente adequado para rejeitar as agulhas usadas.
+ • Remova as tampas protectoras do frasco para injectáveis de Raptiva e da seringa pré-carregada de solvente. Limpe a parte superior do frasco com um bocado de algodão embebido em álcool. • Segurando na tampa exterior do EasyMIX, cuidadosamente retire o filme protector utizando a paleta. Tal vai expôr um espigão de plástico que será utilizado para perfurar o frasco para injectáveis. Não deverá tocar nesta zona. • Segurando na tampa exterior do EasyMIX, coloque-o na parte superior do frasco para injectáveis, pressione de forma a que o espigão plástico perfure a tampa de borracha do frasco para injectáveis. • Assegure-se que o adaptador EasyMIX está firmemente colocado no frasco para injectáveis, antes de remover a tampa exterior.
+ 27 • Retire a película protectora da seringa pré-cheia. • Enrosque a seringa pré-cheia, contendo o solvente, ao adaptador EasyMIX com um movimento de “ empurrar e rodar ”.
+ • Empurre, muito lentamente, o êmbolo da seringa para injectar todo o solvente no frasco para injectáveis de Raptiva. • Sem retirar a seringa, rode lentamente o frasco para injectáveis para dissolver o medicamento no solvente.
+ Não agite (a agitação produziria espuma na solução de Raptiva). Geralmente, a reconstituição requer menos de 5 minutos. Após a dissolução do pó, verifique se a solução resultante não contém partículas e não está descolorada. A solução reconstituída deve ser transparente ou de cor amarelo pálido e não deve conter partículas. Não devem ser adicionados outros medicamentos à solução contendo Raptiva e não deve reconstituir-se Raptiva com outros solventes. • Inverta o frasco com a seringa ainda colocada. Aspire, lentamente, a solução para dentro da seringa, numa quantidade superior à que deve ser administrada. Podem ficar no frasco algumas bolhas ou espuma. Com a seringa ainda colocada no frasco para injectáveis, verifique se existem bolhas de ar dentro da seringa. • Dê pequenos toques na seringa até todas as bolhas se juntarem na parte superior.
+ • Empurre então lentamente o êmbolo da seringa até à dose correcta a injectar. Assim as bolhas de ar são também expelidas para fora da seringa e para dentro do frasco. Se introduzir no frasco para injectáveis uma quantidade de solução superior ao desejável, repita o processo e continue.
+ 28 • Verifique se tem a dose correcta, depois retire a seringa do adaptador EasyMIX usando um movimento de “ puxar e rodar ”.
+ Está agora pronto para colocar a agulha para injecção. • Pegue na agulha de injecção e, sem retirar a respectiva a capa, enrosque-a cuidadosamente no local apropriado da seringa.
+ Está agora pronto para seleccionar e preparar o seu local de injecção: O seu médico ou enfermeiro já lhe indicaram onde administrar a injecção. As zonas para a auto-administração incluem as nádegas, coxa, abdómen ou parte superior do braço. Os locais de injecção devem ser rodados. • Limpe o local de injecção com um algodão embebido em álcool. Retire a capa de injecção. • Imediatamente injecte a solução como se segue: Aperte a pele com firmeza e insira a agulha com um ângulo de 45º-90º, com um movimento similar ao dos dardos. Injecte sob a pele, conforme as instruções recebidas. Não injecte directamente numa veia. Puxe o êmbolo muito lentamente para trás. Se entrar sangue na seringa, a agulha penetrou num vaso sanguíneo. Não injecte, retire a agulha e repita o procedimento de injecção. Injecte a solução pressionando suavemente sobre o êmbolo. Utilize todo o tempo que necessitar até injectar a totalidade da solução. Retire imediatamente a agulha e limpe a pele com um algodão embebido em álcool, utilizando um movimento circular.
+ • Desperdice todo o material: uma vez finalizada a injecção, deite imediatamente fora todas as agulhas e frascos vazios num recipiente adequado. Deve rejeitar qualquer solução não utilizada.
+ Se tomar mais Raptiva do que deveria Se injectou mais Raptiva do que o que o seu médico lhe indicou, contacte o seu médico ou farmacêutico. Recomenda-se que seja seguido para verificar se aparecem sintomas ou sinais de efeitos adversos e administrar imediatamente o tratamento sintomático apropriado.
+ Caso se tenha esquecido de tomar Raptiva Não tome uma dose a dobrar para compensar a dose que se esqueceu de tomar. Contacte o seu médico, se se esqueceu de tomar 2 ou mais injecções de Raptiva.
+ Se parar de tomar Raptiva Se interromper o tratamento com Raptiva sem substituí-lo por outro tratamento, a sua psoríase pode piorar significativamente (ver “ Tome especial cuidado com Raptiva ”).
+ 29 No caso de ser necessário re-iniciar o tratamento com Raptiva, deve seguir as orientações do seu médico. O re-início do tratamento pode estar associado com uma resposta inferior ou inadequada a Raptiva, relativamente aos períodos de tratamento prévios. A terapêutica deve continuar apenas quando se observa uma resposta adequada. O seu médico indicará o que deve fazer quando se observar uma resposta insuficiente ao tratamento ou um agravamento da doença (ver também “ Tome especial cuidado com Raptiva ”).
+ Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou farmacêutico.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todos os medicamentos, Raptiva pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ Os efeitos secundários descritos nesta secção são apresentados em função de uma estimativa da frequência com a qual podem ocorrer. Para tal, foi utilizada a seguinte classificação: • Muito frequentes: Efeitos secundários que podem ocorrer em mais de 1 em cada 10 doentes; • Frequentes: Efeitos secundários que podem ocorrer em 1 a 10 de cada 100 doentes; • Pouco frequentes: Efeitos secundários que podem ocorrer em 1 a 10 de cada 1.000 doentes; • Raros: Efeitos secundários que podem ocorrer em 1 a 10 de cada 10.000 doentes; • Muito raros: Efeitos secundários que podem ocorrer em menos de 1 de cada 10.000 doentes.
+ Raptiva pode causar sintomas semelhantes aos da gripe, ligeiros a moderados, incluindo dor de cabeça, calafrios, náuseas, dores musculares e ocasionalmente febre nas 48 horas seguintes à primeira injecção. Estes sintomas são muito frequentes e, a maior parte das vezes, ocorrem após as primeiras duas doses e diminuem com o uso continuado. Se algum destes sintomas é intenso ou duradouro, deve contactar o seu médico. Nos ensaios clínicos, foram pouco frequentes os efeitos adversos visíveis no local de injecção e a dor no local de injecção.
+ Contacte o seu médico ou dirija-se a um serviço de urgência e interrompa imediatamente o tratamento se: • Tem hipersensibilidade ou reacções alérgicas graves, tais como anafilaxia. Os sintomas de uma reacção alérgica são frequentes e geralmente incluem comichão em todo o corpo, urticária, vermelhidão da pele ou rash. A anafilaxia é uma reacção alérgica mais grave que pode envolver enjoo, vómitos, tensão arterial baixa e dificuldade em respirar. São necessários cuidados médicos urgentes, uma vez que as reacções alérgicas podem ser potencialmente um perigo de vida. • Tem sintomas associados à baixa de plaquetas, tais como sangrar das gengivas, contusões ou pequenos pontos vermelhos na pele. Estes sintomas são pouco frequentes. • Notar alterações tais como formigueiros ou diminuição da força nos braços ou nas pernas ou alguma nova ou súbita alteração na forma de pensar, no equilíbrio, na força, na forma de conversar, na forma de andar ou ao nível da visão • Sentir dor de cabeça forte acompanhada de rigidez da nuca. Este sintoma pode ocorrer raramente, em particular no início do tratamento. • Se lhe foi diagnosticado um cancro. • Se desenvolver uma erupção cutânea difusa ou bolhas na cavidade bucal.
+ Comunique ao seu médico e comente com ele o seu estado geral de saúde, se verificar alguma das seguintes situações: • Dor nas costas, dor nas articulações, dor de cabeça, vómitos, debilidade, fadiga ou erupção cutânea. Estes efeitos adversos frequentes não foram claramente associados a Raptiva, mas foram observados durante a sua utilização. O seu médico pode decidir vigiá-lo mais de perto e fazer análises ao sangue.
+ 30 • Febre ou se pensa que tem uma infecção. Raptiva actua sobre o sistema imunitário, o que pode aumentar potencialmente o risco de doenças infecciosas ou pode reactivar infecções antigas. As infecções são muito frequentes. • Uma recidiva ou surto, ou forte agravamento da psoríase ou placas psoriásicas vermelhas, inflamadas, que podem ser acompanhadas de inchaço dos braços ou pernas, ou inflamação das articulações, especialmente após interrupção do tratamento com Raptiva. Estes efeitos adversos são frequentes. • Falta de ar ou quaisquer dificuldades respiratórias persistentes. • Sinais de paralisia facial, habitualmente num dos lados da face (tais como sensação de fragilidade dos músculos da face e aumento do nível de saliva, que resulta num constante engolir) possivelmente precedidos por dor na área do ouvido. Geralmente, os doentes com paralisia facial recuperam em poucas semanas sem qualquer tratamento específico.
+ Podem alterar-se alguns testes laboratoriais, tais como o número de glóbulos brancos (incluindo leucócitos e linfócitos), assim como os valores de fosfatase alcalina e ALT (parâmetros da análise de sangue). Estas alterações, que podem estar associadas à utilização de Raptiva, geralmente só se detectam mediante análises ao sangue.
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR RAPTIVA Manter fora do alcance e da vista das crianças.
+ Conservar no frigorífico (2ºC – 8ºC). Não congelar.
+ Conservar na embalagem de origem para proteger da luz.
+ Não utilize Raptiva após o prazo de validade impresso nos rótulos e na embalagem, após VAL. O prazo de validade corresponde ao último dia do mês indicado.
+ Não utilize Raptiva se verificar que a solução não se encontra límpida ou contém partículas.
+ Para manter a esterilidade, Raptiva deve ser utilizado imediatamente após a primeira abertura e reconstituição.
+ Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Raptiva • A substância activa é efalizumab, cada frasco para injectáveis contém uma dose recuperável de 125 mg de efalizumab • Os outros componentes são polisorbato 20, histidina, cloridrato de histidina monohidratado e sacarose. • Cada seringa pré-cheia de solvente contém água para preparações injectáveis suficiente para reconstituir a solução para injecção.
+ Qual o aspecto de Raptiva e conteúdo da embalagem Raptiva é apresentado como um pó e solvente para solução injectável. O pó é uma pastilha compactada branca a esbranquiçada e o solvente é um líquido incolor. O medicamento é fornecido em
+ 31 embalagens com 1 frasco para injectáveis de pó,1 seringa pré-carregada de solvente,1 adaptador EasyMIX para a reconstituição e 1 agulha para a injecção, embalagens com 4 frascos para injectáveis de pó,4 seringas pré-carregadas de solvente,4 adaptadores EasyMIX para a reconstituição e 4 agulhas para a injecção e embalagens com 12 frascos para injectáveis de pó,12 seringas pré-carregadas de solvente,12 adaptadores EasyMIX para a reconstituição e 12 agulhas para a injecção. É possível que não sejam comercializadas todas as apresentações.
+ Titular da Autorização de Introdução no Mercado Serono Europe Ltd. 56 Marsh Wall London E14 9TP Reino Unido
+ Fabricante Merck Serono S. p. A. Via Luidgi Einaudi 11 00012 Guidonia Montecelio/Roma Itália
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado.
+ België/Belgique/Belgien MERCK NV/SA Brusselsesteenweg 288 B-3090 Overijse Tél/Tel: +32-2-686 07 11
+ Luxembourg/Luxemburg MERCK NV/SA Brusselsesteenweg 288 B-3090 Overijse, Belgique/Belgien Tél/Tel: +32-2-686 07 11
+ България Magyarország MERCK d. o. o. Dunajska cesta 119 SI 1000 Любляна, Словения Teл: +386 1 560 3 800
+ Merck Kft. Bocskai út 134-146. H-1113 Budapest Tel: +36-1-463-8100
+ Česká republika Merck spol. s. r. o Zděbradská 72 CZ-251 01 Říčany-Jažlovice Tel. +420 323619211
+ Malta Cherubino Ltd Delf Building Sliema Road MT-GZR 06 Gzira Malta Tel: +356-21-343270/1/2/3/4
+ Danmark Serono Nordic AB Strandvejen 102 B, 4th DK-2900 Hellerup Tlf: +45 35253550
+ Nederland Serono Benelux BV Tupolevlaan 41-61 NL-1119 NW Schiphol-Rijk Tel: +31-20-6582800
+ Deutschland Serono GmbH Alsfelder Straße 17 D-64289 Darmstadt Tel: +49-6151-6285-0
+ Norge Merck Serono Norge Luhrtoppen 2 1470 Lørenskog Tlf: +47 67 90 35 90
+ 32 Eesti Österreich Merck Serono Esindaja C/o Ares Trading SA Baltic States Zamenhofo 11-3, LT-44287 Kaunas, Leedu Tel: +370 37320603
+ Merck GesmbH. Zimbagasse 5 A-1147 Wien Tel: +43 1 57600-0
+ Ελλάδα Merck A. E. Κηφισίας 41-45, Κτίριο Β GR-151 23 Μαρούσι Αθήνα T: +30-210-61 65 100
+ Polska Merck Sp. z o. o. Al. Jerozolimskie 178 02-486 Warszawa Polska Tel.: +48 22 53 59 700
+ España Merck Farma y Química, S. L. María de Molina,40 E-28006 Madrid Línea de Información: 900 200 400 Tel: +34-91-745 44 00
+ Portugal Merck, s. a. Rua Alfredo da Silva, 3-C P-1300-040 Lisboa Tel: +351-21-361 35 00
+ France Merck Lipha Santé s. a. s. 37, rue Saint-Romain F-69379 Lyon cedex 08 Tél.: +33-4-72 78 25 25 Numéro vert: 0 800 888 024
+ România MERCK d. o. o., Dunajska cesta 119 SI-1000 Lubliana, Slovenia Tel: +386 1 560 3 800
+ Ireland Merck Serono Ltd Bedfont Cross, Stanwell Road Feltham, Middlesex TW14 8NX United Kingdom Tel: +44-20 8818 7200
+ Slovenija MERCK d. o. o. Dunajska cesta 119 SI-1000 Ljubljana Tel: +386 1 560 3 800
+ Ísland Gróco ehf. Þverholti 14 IS-105 Reykjavík Sími: +354-568-8533
+ Slovenská republika Merck spol. s r. o. Tuhovská 3 SK-831 06 Bratislava Tel:+ 421 2 49 267 111
+ Italia Merck Serono S. p. A. Via Casilina 125 I-00176 Roma Tel: +39-06-70 38 41
+ Suomi/Finland Merck Oy Pihatörmä 1 C FI-02240 Espoo Puh/Tel: +358-9-8678 700
+ Κύπρος Akis Panayiotou &amp; Son Ltd Γιάννου Κρανιδιώτη 4 CY-225 78, Λευκωσία Τηλ: +357-22677038
+ Sverige Serono Nordic AB S-195 87 Stockholm Tel: +46-8-562 445 00
+ 33 Latvija Merck Serono Pārstāvniecība C/o Ares Trading SA Baltic States Zamenhofo 11-3, LT-44287 Kauņa, Lietuva Tel: +370 37320603
+ United Kingdom Merck Serono Ltd Bedfont Cross, Stanwell Road Feltham, Middlesex TW14 8NX Tel: +44-20 8818 7200
+ Lietuva Merck Serono Atstovybė C/o Ares Trading SA Baltic States Zamenhofo 11-3, LT-44287 Kaunas Tel: +370 37320603
+ Este folheto foi aprovado pela última vez em
+ 34

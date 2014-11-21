@@ -1,0 +1,228 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. NOME DO MEDICAMENTO
+ Thyrogen 0,9 mg pó para solução injectável
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada frasco para injectáveis de Thyrogen contém um valor nominal de 0,9 mg de tirotropina alfa. Após reconstituição, cada frasco para injectáveis de Thyrogen contém 0,9 mg de tirotropina alfa em 1,0 ml.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Pó para solução injectável. Pó liofilisado, branco a esbranquiçado.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas O Thyrogen (tirotropina alfa) está indicado na determinação da tiroglobulina (Tg) sérica, com ou sem associação a cintigrafia corporal com radio-iodo, com o objectivo de detectar tecido tiroideu residual e persistência ou recidiva de carcinoma diferenciado da tiróide em doentes submetidos a tiroidectomia e mantidos sob terapêutica de supressão hormonal da tiróide (THST). Doentes com carcinoma diferenciado da tiróide de baixo risco, com níveis não detectáveis de Tg sérica quando medicados com THST e sem aumento dos níveis de Tg após estimulação pela rhTSH podem ser seguidos efectuando o doseamento dos níveis de Tg após estimulação pela rhTSH.
+ O Thyrogen (tirotropina alfa) está indicado na estimulação pré-terapêutica em doentes de baixo risco (ver secção 5.1), após-tiroidectomia e em manutenção da terapêutica de supressão hormonal (THST), para a ablação de restos da tiróide em associação com 100 mCi (3,7 GBq) de iodo radioactivo (131I).
+ 4.2 Posologia e modo de administração O regime posológico recomendado é de duas doses de 0,9 mg de tirotropina alfa administradas por injecção intramuscular, com um intervalo de 24 horas.
+ A terapêutica deverá ser supervisionada por médicos com experiência em carcinoma da tiróide.
+ Após reconstituição com água para injectáveis, deverá ser administrado 1,0 ml de solução (0,9 mg de tirotropina alfa) por injecção intramuscular na nádega. Para instruções sobre manuseamento, ver secção 6.6.
+ Para efectuar cintigrafias corporais ou ablação, a administração de rádio-iodo deverá ser feita 24 horas após a última injecção de Thyrogen. A cintigrafia para diagnóstico deverá ser realizada 48 a 72 horas
+ 2 após a administração de rádio-iodo, enquanto que a cintigrafia pós-ablação pode ser adiada mais uns dias para permitir que a actividade anterior diminua.
+ Na determinação da tiroglobulina (Tg) sérica para seguimento do diagnóstico, a amostra de soro deverá ser colhida 72 horas após a última injecção de Thyrogen.
+ Devido a dados insuficientes sobre a utilização de Thyrogen em crianças, este produto só deverá ser administrado a crianças em circunstâncias excepcionais.
+ A utilização de Thyrogen em doentes com insuficiência hepática não requer cuidados especiais.
+ A informação da vigilância pós-comercialização, bem como da informação publicada, sugere que a eliminação de Thyrogen é significativamente mais lenta nos doentes com insuficiência renal em fase terminal dependente de diálise, resultando na elevação prolongada dos níveis de TSH durante vários dias após o tratamento. Isso poderá conduzir a risco aumentado de cefaleia e náusea. Não existem estudos de regimes posológicos alternativos de Thyrogen em doentes com insuficiência renal terminal para orientar a redução da dose nesta população.
+ Em doentes com insuficiência renal significativa, a actividade de rádio-iodo deve ser cuidadosamente seleccionada pelo especialista de medicina nuclear.
+ No seguimento de doentes com carcinoma diferenciado da tiróide, após tiroidectomia, a utilização de Thyrogen na determinação da Tg, deve estar em conformidade com as normas orientadoras oficiais.
+ 4.3 Contra-indicações · Hipersensibilidade à hormona de estimulação da tiróide, bovina ou humana, ou a qualquer um dos
+ excipientes.
+ · Gravidez.
+ 4.4 Advertências e precauções especiais de utilização
+ O Thyrogen não deve ser administrado por via endovenosa.
+ Quando utilizado como uma alternativa à suspensão da terapêutica hormonal, a combinação de cintigrafia corporal com radio-iodo com a determinação da Tg após administração de Thyrogen, assegura uma maior sensibilidade na detecção de tecido tiroideu residual e de persistência ou recidiva de carcinoma diferenciado da tiróide. Com Thyrogen podem ocorrer resultados falsamente negativos. Se persistir uma suspeita elevada de existência de doença metastática, deve considerar-se a hipótese de recolher nova amostra para determinação da Tg e de efectuar nova cintigrafia corporal. A presença de anticorpos contra a Tg (Tg Ab) pode acontecer em 18-40% dos doentes com carcinoma diferenciado da tiróide podendo causar o aparecimento de resultados falsamente negativos nas determinações da Tg sérica. Portanto, é necessário efectuar os doseamentos dos TgAb e da Tg.
+ 3 Efeito sobre o crescimento e/ou tamanho tumoral: Nos doentes com carcinoma da tiróide, os vários casos de estimulação de crescimento tumoral, detectado durante a suspensão da terapêutica de supressão hormonal da tiróide para proceder a exames de diagnóstico, foram atribuídos à manutenção prolongada de níveis elevados da hormona estimuladora da tiróide (TSH). Existe a possibilidade teórica de que o Thyrogen, tal como a suspensão da hormona tiroideia, possa induzir um crescimento tumoral. Nos ensaios clínicos com tirotropina alfa, que produz um aumento de curta duração nos níveis séricos de TSH, não foi referido qualquer caso de crescimento tumoral. Devido à elevação dos níveis de TSH após a administração de Thyrogen-em casos com carcinoma metastático da tiróide, especialmente quando localizado em espaços confinados, tais como o cérebro, medula espinal e órbita, ou com infiltração no pescoço-podem surgir edema ou hemorragia focal no local onde se encontram estas metástases, resultando num aumento do tumor. Isto pode conduzir a sintomas agudos, que dependem da sua localização anatómica, por ex., hemiplegia, hemiparesia e perda de visão em doentes com metástases no SNC. Recomenda-se que se considere o pré-tratamento com corticóides nos casos em que a expansão local do tumor possa comprometer estruturas anatómicas vitais.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Não foram realizados estudos de interacção entre Thyrogen e outros medicamentos. Nos ensaios clínicos, não foram observadas interacções entre Thyrogen e a terapêutica com as hormonas da tiróide
+ -triiodotironina (T3) e tiroxina (T4)-quando administrados simultaneamente.
+ A utilização de Thyrogen permite a realização de cintigrafias corporais com radio-iodo em eutiroidismo, mantendo a terapêutica de supressão hormonal da tiróide. Dados sobre a cinética do radio-iodo indicam que a sua eliminação é aproximadamente 50% superior em eutiroidismo comparativamente ao hipotiroidismo quando a função renal está reduzida, resultando numa menor retenção de radio-iodo no organismo aquando da obtenção de imagens. Este factor deve ser considerado quando se selecciona a actividade do radio-iodo a utilizar na cintigrafia corporal, apesar de apenas ter sido testada uma actividade de 3,7 GBq de 131I no ensaio de estimulação pré-terapêutica.
+ 4.6 Gravidez e aleitamento Não foram efectuados estudos de reprodução animal utilizando Thyrogen.
+ Não se sabe se o Thyrogen pode causar lesões fetais quando administrado a uma mulher grávida ou se o Thyrogen pode afectar a capacidade reprodutiva.
+ Devido à consequente exposição do feto a uma elevada dose de matéria radioactiva, o Thyrogen em combinação com a cintigrafia corporal com radio-iodo de diagnóstico está contra-indicado na gravidez. As doentes não devem amamentar.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas.
+ 4 4.8 Efeitos indesejáveis
+ Os efeitos indesejáveis mais frequentemente notificados são náuseas e cefaleias, que ocorrem em aproximadamente 11% e 6% dos doentes, respectivamente. Os efeitos indesejáveis mencionados no primeiro quadro, foram aqueles considerados relacionados com a administração de Thyrogen, ocorrendo em ≥1/1.000 doentes, em três ensaios clínicos prospectivos (N=442). O segundo quadro inclui efeitos indesejáveis que foram notificados à Genzyme após a autorização do Thyrogen. A seguir aos quadros, é apresentada uma descrição de alguns outros efeitos adicionais.
+ Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ Classes de sistemas de órgãos Doenças gastrointestinais
+ Incidência nos doentes Muito frequentes (&gt; 1/10) Frequentes (&gt; 1/100, ≤1/10)
+ Reacção adversa ao fármaco Náuseas Vómitos
+ Perturbações gerais e alterações no local de administração
+ Frequentes (&gt; 1/100, ≤1/10) Pouco frequentes (&gt; 1/1,000, ≤1/100)
+ Fadiga Sintomas gripais, astenia, febre, arrepios, lombalgias
+ Doenças do sistema nervoso Frequentse (&gt; 1/100, ≤1/10) Pouco frequentes (&gt; 1/1,000, ≤1/100)
+ Tonturas, cefaleias Parestesia Afecções dos tecidos cutâneos e Pouco frequentes (&gt; 1/1,000, subcutâneas ≤1/10)
+ Urticária, erupção cutânea Vasculopatias Pouco frequentes (&gt; 01/1,000, ≤1/100)
+ Sensação de calor Durante a experiência de pós-comercialização, foram notificados a seguinte lista de efeitos indesejáveis, considerados relacionados com o tratamento com Thyrogen:
+ Classes de sistemas de órgãos Cardiopatias Doenças gastrointestinais Perturbações gerais e alterações no local de administração
+ Incidência nos doentes Muito raros (&lt; 1/10,000) Raros (&gt; 1/10.000, ≤1/1.000) Muito raros (≤1/10.000)
+ Reacção adversa ao fármaco Palpitações Vómitos, náuseas, diarreia Sintomas gripais, astenia, febre, fadiga, arrepios, dores
+ Exames complementares de diagnóstico
+ Muito raros (≤1/10.000%) Diminuição da TSH Afecções musculosqueléticas e dos tecidos conjuntivos
+ Muito raros (≤1/10.000) Artralgia, mialgias Neoplasias benignas, malignas e não especificadas (incl. quistos e polipos)
+ Muito raros (≤1/10.000) , Dores metastáticas, edema da neoplasia
+ Doenças do sistema nervoso Raros (&gt; 1/10.000, ≤1/1.000) Muito raros (≤1/10.000)
+ Tonturas, cefaleias Tremores Doenças respiratórias, torácicas e do mediastino
+ Muito raros (≤1/10.000) Dispneia Afecções dos tecidos cutâneos e Muito raros (≤1/10.000) subcutâneas Vasculopatias Muito raros (≤1/10.000)
+ Urticária, erupção cutânea, prurido, hiperhidrose Rubor
+ 5 Foram, muito raramente, notificadas efeitos indesejáveis relacionados com a via de administração, incluindo desconforto, dor, prurido, erupção cutânea e urticária no local da injecção intramuscular.
+ Foram observados casos muito raros de hipertiroidismo ou de fibrilhação auricular ao administrar 0,9 mg de Thyrogen a doentes com presença parcial ou total da glândula tiróide.
+ As manifestações de hipersensibilidade foram relatadas com pouca frequência tanto no contexto de ensaios clínicos como após a introdução no mercado. Estas reacções consistiram em urticária, exantema cutâneo, prurido, rubores e sinais e sintomas respiratórios. Em ensaios clínicos envolvendo 442 doentes, nenhum doente desenvolveu anticorpos contra a tirotropina alfa quer após utilização única quer após utilização repetida e limitada (27 doentes) do medicamento. Não se pode excluir a hipótese de ocorrência de anticorpos que possam interferir com a determinação da TSH endógena.
+ 4.9 Sobredosagem Os dados sobre exposição, acima da dose recomendada, são limitados a estudos clínicos e a um programa de tratamento especial. Três doentes a participarem em ensaios clínicos, e um doente no programa de tratamento especial experimentaram sintomas após terem-lhes sido administradas doses de Thyrogen superiores às doses recomendadas. Dois doentes sentiram náuseas após ter-lhes sido administrada uma dose de 2,7 mg IM, e num destes doentes, o efeito foi também acompanhado por fraqueza, tonturas e cefaleias. O terceiro doente experimentou náuseas, vómitos e rubor após ter-lhe sido administrada uma dose de 3,6 mg IM. No programa de tratamento especial, um doente de 77 anos de idade com um carcinoma metastático da tiroíde, que ainda não tinha efectuado tiroidectomia, recebeu 4 doses de 0,9 mg de Thyrogen ao longo de 6 dias, desenvolveu fibrilhação auricular, descompensação cardíaca e enfarte do miocárdio fatal,2 dias mais tarde.
+ Outro doente participante num ensaio clínico sentiu efeitos após ter recebido Thyrogen por via endovenosa. Este doente recebeu 0,3 mg de Thyrogen como um único bolus endovenoso e após 15 minutos sentiu graves náuseas, vómitos, diaforese, hipotensão e taquicardia.
+ O tratamento sugerido em caso de sobredosagem é o restabelecimento do equilíbrio de fluidos, podendo considerar-se a administração de um antiemético.
+ 6 5. PROPRIEDADES FARMACOLÓGICAS
+ 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Hormonas do Lóbulo Anterior da Pituitária e Análogos, código ATC: H01AB01
+ A tirotropina alfa (hormona estimuladora da tiróide humana recombinante) é uma glicoproteína heterodimérica produzida pela tecnologia do ADN recombinante. É constituída por duas subunidades ligadas de forma não covalente. Os cADN’ s codificam uma subunidade alfa de 92 resíduos de aminoácidos contendo dois locais de glicosilação amina e uma subunidade beta de 118 resíduos contendo um local de glicosilação amina. Possui propriedades bioquímicas comparáveis à hormona estimuladora da tiróide (TSH) humana endógena. A associação da tirotropina alfa com os receptores da TSH nas células epiteliais da tiróide estimula a captação de iodo e a sua organificação, bem como a síntese e libertação de tiroglobulina, triiodotironina (T3) e tiroxina (T4).
+ Em doentes com carcinoma diferenciado da tiróide, é efectuada uma tiroidectomia quase total ou mesmo total. Para um diagnóstico eficaz dos resíduos da tiróide ou de carcinoma da tiróide, através da produção de imagens por radio-iodo ou do doseamento da tiroglobulina, e para a terapêutica dos resíduos da tiróide com radio-iodo, é necessário um nível sérico de TSH elevado para estimular a captação de radio-iodo e/ou a libertação de tiroglobulina. A abordagem padrão para atingir níveis de TSH elevados tem sido retirar os doentes da terapêutica de supressão hormonal da tiróide (THST), o que geralmente faz com que os doentes tenham os sinais e os sintomas próprios do hipotiroidismo. Com a utilização de Thyrogen, a estimulação de TSH necessária à captação de radio-iodo e à libertação de tiroglobulina é atingida quando os doentes são mantidos em estado de eutiroidismo com a THST, evitando assim a morbilidade associada ao hipotiroidismo.
+ Uso diagnóstico A eficácia e segurança do Thyrogen para utilização na determinação da tiroglobulina sérica juntamente com a cintigrafia corporal com radio-iodo, para o diagnóstico de tecido tiroideu residual e de persistência ou recidiva de carcinoma diferenciado da tiróide, foi demonstrada em dois estudos. Num dos estudos foram examinados dois regimes: 0,9 mg por via intramuscular com intervalo de 24 horas entre as duas doses (0,9 mg x 2) e 0,9 mg por via intramuscular com intervalos de 72 horas entre as três doses (0,9 mg x 3). Ambos os regimes de dosagem foram eficazes, não sendo diferentes em termos estatísticos da suspensão da terapêutica hormonal, na estimulação da captação de radio-iodo para a produção de imagens de diagnóstico. Ambos os regimes de dosagem melhoraram a sensibilidade, precisão e valor preditivo negativo da determinação da tiroglobulina estimulada por Thyrogen, isoladamente ou em combinação com a cintigrafia corporal com radio-iodo, quando comparados com as análises efectuadas enquanto os doentes permaneciam na terapêutica de supressão hormonal da tiróide.
+ Em ensaios clínicos, em doentes tiroidectomizados, para avaliação da detecção de tecido tiroideu residual e de persistência ou recidiva de carcinoma diferenciado da tiróide utilizando um método de doseamento da tiroglobulina com um nível inferior de detecção de 0,5 ng/ml, os níveis de tiroglobulina estimulados por Thyrogen foram de 3 ng/ml,2 ng/ml e 1 ng/ml, correspondendo aos níveis de tiroglobulina após suspensão da terapêutica de supressão hormonal da tiróide de 10 ng/ml,5 ng/ml e 2 ng/ml, respectivamente. Nestes estudos descobriu-se, também, que a determinação da tiroglobulina com Thyrogen era mais sensível do que as determinações da tiroglobulina mantendo a THST. Especificamente, num estudo de Fase III em que estiveram envolvidos 164 doentes, a taxa de detecção de tecido de origem tiroideia após doseamento da tiroglobulina com Thyrogen situou-se entre 73-87%, ao passo que, o doseamento da tiroglobulina com THST situou-se entre 42-62% relativamente aos mesmos valores limite e padrões de referência.
+ 7 A doença metastática foi confirmada através de cintigrafia corporal após tratamento com radio-iodo ou por biópsia dos gânglios linfáticos em 35 doentes. Os níveis de tiroglobulina estimulados por Thyrogen foram superiores a 2 ng/ml nos 35 doentes, enquanto que a tiroglobulina com THST foi superior a 2 ng/ml em 79% destes doentes.
+ Estimulação pré-terapêutica Num estudo comparativo envolvendo 60 doentes de baixo risco, as taxas de ablação bem sucedida dos resíduos da tiróide, utilizando 100 mCi de radio-iodo em doentes com carcinoma da tiróide tiroidectomizados, foram comparáveis entre os doentes tratados após suspensão da THST e os doentes tratados após a administração de Thyrogen. Os doentes estudados eram adultos (&gt; 18 anos de idade), com diagnóstico recente de carcinoma diferenciado da tiróide-papilar ou folicular, incluindo a variante papilar-folicular, caracterizada principalmente (54 em 60) como T1-T2, NO-N1, MO (classificação TNM). O êxito da ablação dos resíduos da tiróide foi avaliado por imagiologia com radio-iodo e por análise da tiroglobulina sérica 8 meses após o tratamento. Os 28 doentes (100%) tratados após suspensão da THST e os 32 doentes (100%) tratados após a administração de Thyrogen não apresentaram qualquer captação visível de radio-iodo no leito da tiróide ou, se visível, a captação no leito da tiróide foi &lt; 0,1% da actividade de radio-iodo administrada. O êxito da ablação dos resíduos da tiróide foi também avaliado, apenas em doentes que não apresentavam anticorpos de interferência anti-Tg, pela comprovação do nível de Tg sérica &lt; 2 ng/ml após estimulação com Thyrogen, oito meses após a ablação. Utilizando-se este critério de Tg, 18/21 doentes (86%) e 23/24 doentes (96%) tiveram uma ablação bem sucedida dos resíduos da tiróide nos grupos de suspensão da THST e de tratamento com Thyrogen, respectivamente. Existem evidências na literatura de uma menor eficácia com a administração de Thyrogen em comparação com a suspensão da THST ao utilizar-se 30 mCi. Por conseguinte, a eficácia de Thyrogen com doses de 131I &lt; 100 mCi não está estabelecida.
+ A qualidade de vida ficou significativamente reduzida após suspensão da terapêutica de supressão hormonal da tiróide, mas manteve-se inalterada após qualquer um dos regimes de dosagem com Thyrogen, em ambas as indicações.
+ 5.2 Propriedades farmacocinéticas A farmacocinética do Thyrogen foi estudada em doentes com carcinoma diferenciado da tiróide após uma única injecção intramuscular de 0,9 mg. Após injecção, o nível do pico médio (C max) obtido foi de 116 ± 38mU/l e ocorreu aproximadamente 13 ± 8 horas após administração. A semi-vida de eliminação foi de 22 ± 9 horas. Pensa-se que a via principal de eliminação da tirotropina alfa é renal e, em menor grau, hepática.
+ 5.3 Dados de segurança pré-clínica Os dados não clínicos de utilização de Thyrogen são limitados mas não revelam riscos especiais para o ser humano.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Manitol Fosfato de sódio monobásico, mono-hidrato Fosfato de sódio dibásico, heptahid-rato Cloreto de sódio
+ 8 6.2 Incompatibilidades
+ Na ausência de estudos de compatibilidade, o Thyrogen não deve ser misturado com outros medicamentos na mesma injecção.
+ 6.3 Prazo de validade Frascos para injectáveis não abertos 3 anos. Prazo de validade após reconstituição Recomenda-se que a solução de Thyrogen seja injectada no período de tempo de três horas. A solução reconstituída pode ser guardada até 24 horas a uma temperatura de 2°C-8°C, protegida da luz e evitando-se a contaminação microbiana.
+ 6.4 Precauções especiais de conservação
+ Conservar no frigorífico (2°C-8°C). Manter o frasco para injectáveis dentro da embalagem exterior, para proteger da luz. Condições de conservação do medicamento reconstituído, ver secção 6.3.
+ 6.5 Natureza e conteúdo do recipiente O Thyrogen é fornecido em frascos para injectáveis de vidro transparente de Tipo I de 5 ml. O fecho é constituído por um tampão de butilo siliconizado com uma tampa removível inviolável. Cada frasco para injectáveis de Thyrogen contém 1,1 mg de tirotropina alfa. Após reconstituição com 1,2 ml de água para injectáveis, retira-se 1,0 ml de solução (equivalente a 0,9 mg de Thyrogen) e administra-se ao doente.
+ Para proporcionar um volume suficiente para permitir dispensar correctamente o produto, cada frasco para injectáveis de Thyrogen é formulado de modo a conter um excesso de 0,2 ml.
+ Tamanho da embalagem: um e dois frascos para injectáveis de Thyrogen por embalagem.
+ 9 6.6 Precauções especiais de eliminação e manuseamento
+ O pó para solução injectável tem de ser reconstituído com água para injectáveis. Só é necessário um frasco para injectáveis de Thyrogen para cada injecção. Cada frasco para injectáveis de Thyrogen é destinado a uma única utilização.
+ Utilizar a técnica asséptica Adicionar 1,2 ml de água para linjectáveis ao pó de Thyrogen no frasco para injectáveis. Mexer o conteúdo do frasco para injectáveis fazendo movimentos circulares suaves com a mão até que todo o material se encontre dissolvido. Não agitar a solução. Quando o pó estiver dissolvido, o volume total no frasco para injectáveis é de 1,2 ml. O pH da solução de Thyrogen é de aproximadamente 7.0.
+ Inspeccionar visualmente a solução de Thyrogen no frasco para verificar se contém partículas estranhas e se existe coloração. A solução de Thyrogen deve ser transparente e incolor. Não utilizar frascos para injectáveis que contenham partículas estranhas ou que se apresentem turvos ou com coloração.
+ Retirar 1,0 ml de solução de Thyrogen do frasco para injectáveis. Isto equivale a 0,9 mg de tirotropina alfa a injectar.
+ O Thyrogen não contém conservantes. Eliminar imediatamente qualquer solução não utilizada. Não existem requisitos especiais para eliminação.
+ A solução de Thyrogen deve ser injectada no prazo de três horas. No entanto a solução de Thyrogen manter-se-á quimicamente estável durante um máximo de 24 horas, se for guardada no frigorífico (entre 2°C e 8°C). É importante estar ciente de que a segurança microbiológica depende das condições assépticas durante a preparação da solução.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Genzyme Europe B. V., Gooimeer 10,1411 DD Naarden, Países Baixos.
+ 8. NÚMEROS DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/99/122/001 EU/1/99/122/002 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 9 Março 2000 Data da última renovação: 16 Março 2005
+ 10. DATA DA REVISÃO DO TEXTO 10 11 ANEXO II
+ A. FABRICANTE DA(S) SUBSTÂNCIA(S) ACTIVA(S) DE ORIGEM BIOLÓGICA E TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 12 A. FABRICANTE DA(S) SUBSTÂNCIA(S) ACTIVA(S) DE ORIGEM BIOLÓGICA E TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do fabricante da(s) substância(s) activa(s) de origem biológica
+ Genzyme Corp. 51 New York Avenue Framingham, MA 01701-9322 USA
+ Nome e endereço do fabricante responsável pela libertação do lote
+ Genzyme Ltd. 37 Hollands Road Haverhill Suffolk CB9 8PU Reino Unido
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO • IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento de receita médica restrita, de utilização reservada a certos meios especializados (ver anexo I: Resumo das Características do Medicamento, secção 4.2).
+ CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ • DO MEDICAMENTO
+ Não aplicável. 13 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 14 A. ROTULAGEM
+ 15 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ EMBALAGEM EXTERIOR (EMBALAGEM DE 1 FRASCO PARA INJECTÁVEIS)
+ 1. NOME DO MEDICAMENTO Thyrogen 0,9 mg pó para solução injectável Tirotropina alfa
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada frasco para injectáveis contém 0,9 mg/ml de tirotropina alfa quando reconstituída com 1,2 ml de água para preparações injectáveis. Apenas 1ml deve ser retirado equivalente a 0,9 mg de tirotropina alfa.
+ 3. LISTA DOS EXCIPIENTES Excipientes: Manitol Fosfato de sódio monobásico, mono-hidrato Fosfato de sódio dibásico, hepta-hidrato Cloreto de sódio Consultar o folheto informativo para mais informações
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 1 frasco para injectáveis de pó para solução injectável.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Apenas para injecção intramuscular. Administração no período de 3 horas após a reconstituição. Consultar o folheto informativo antes de utilizar
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 16 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP. { mês/ano} 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Conservar no frigorífico (2°C-8°C). Manter o frasco para injectáveis dentro da embalagem exterior.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ Destina-se a ser utilizado apenas uma vez. Qualquer solução não utilizada deve ser eliminada de forma apropriada.
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Genzyme Europe B. V. Gooimeer 10 1411 DD Naarden Países Baixos
+ 12. NÚMERO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/99/122/001 13. NÚMERO DO LOTE Lote{ número} 17 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Foi aceite a justificação para não incluir a informação em Braille
+ 18 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ EMBALAGEM EXTERIOR (EMBALAGEM DE 2 FRASCOS)
+ 1. NOME DO MEDICAMENTO Thyrogen 0,9 mg pó para solução injectável Tirotropina alfa
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada frasco para injectáveis contém 0,9 mg/ml de tirotropina alfa quando reconstituída com 1,2 ml de água para preparações injectáveis. Apenas 1ml deve ser retirado equivalente a 0,9 mg de tirotropina alfa.
+ 3. LISTA DOS EXCIPIENTES Excipientes: Manitol Fosfato de sódio monobásico, mono-hidrato Fosfato de sódio dibásico, hepta-hidrato Cloreto de sódio Consultar o folheto informativo para mais informações
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 2 frascos para injectáveis de pó para solução para injecção equivalem a 2 doses para serem administradas com um intervalo de 24 horas.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Apenas para injecção intramuscular. Administração no período de 3 horas após a reconstituição. Consultar o folheto informativo antes de utilizar
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 19 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP. { mês/ano} 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Conservar no frigorífico (2°C-8°C). Manter o frasco para injectáveis dentro da embalagem exterior.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ Destina-se a ser utilizado apenas uma vez. Qualquer solução não utilizada deve ser eliminada de forma apropriada.
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Genzyme Europe B. V. Gooimeer 10 1411 DD Naarden Países Baixos
+ 12. NÚMERO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/99/122/002 13. NÚMERO DO LOTE Lote{ número} 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 20 15. INSTRUÇÕES DE UTILIZAÇÃO
+ 16. INFORMAÇÃO EM BRAILLE Foi aceite a justificação para não incluir a informação em Braille
+ 21 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ { RÓTULO}
+ 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Thyrogen 0,9 mg pó para solução injectável Tirotropina alfa Via intramuscular
+ 2. MODO DE ADMINISTRAÇÃO 3. PRAZO DE VALIDADE EXP.{ mês/ano} 4. NÚMERO DO LOTE Lote{ número} 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 6. OUTRAS Conservar no frigorífico (2°C-8°C). Genzyme Europe B. V.-NL 22 B. FOLHETO INFORMATIVO
+ 23 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR Thyrogen 0,9 mg pó para solução injectável Tirotropina alfa
+ Leia atentamente este folheto antes de utilizar este medicamento. • Conserve este folheto. Pode ter necessidade de o reler. • Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico. • Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é Thyrogen e para que é utilizado 2. Antes de utilizar Thyrogen 3. Como utilizar Thyrogen 4. Efeitos secundários possíveis 5. Como conservar Thyrogen 6. Outras informações
+ 1. O QUE É THYROGEN E PARA QUE É UTILIZADO
+ A tirotropina alfa é uma hormona de estimulação da tiróide humana produzida pela tecnologia do ADN recombinante. A tirotropina alfa estimula o tecido da tiróide a fazer a captação de iodo e a produzir tiroglobulina (Tg) e hormonas da tiróide (triiodotironina (T3) e tiroxina (T4 )).
+ O Thyrogen (tirotropina alfa) destina-se à utilização na determinação de tiroglobulina (Tg) sérica em associação ou não com a cintigrafia corporal com radio-iodo. Estes exames de diagnóstico são utilizados para detectar certos tipos de carcinoma da tiróide em doentes após remoção da glândula da tiróide e que mantêm uma terapêutica com hormonas tiroideias. Doentes com carcinoma diferenciado da tiróide de baixo risco com níveis não detectáveis de Tg durante a terapêutica com hormona da tiróide e sem aumento dos níveis de Tg, após estimulação com tirotropina alfa, podem ser seguidos utilizando tirotropina alfa para a determinação dos níveis de Tg.
+ Para eliminação (ablação) do tecido da tiróide residual que permaneceu após a remoção cirúrgica da glândula tiroideia em doentes de baixo risco, deverá utilizar-se o Thyrogen (tirotropina alfa) em associação com o tratamento com radio-iodo e mantendo a terapêutica com hormonas tiroideias.
+ O tratamento deve ser vigiado por um médico especializado em carcinoma da tiróide.
+ 24 2. ANTES DE UTILIZAR THYROGEN
+ Não utilize Thyrogen Deverá informar o seu médico se alguma vez teve uma reacção alérgica (por exemplo, “ erupção cutânea ” ou comichão) à hormona estimuladora da tiróide (TSH) humana ou bovina, ou a quaisquer outros componentes antes de começar a tomar este medicamento. Não deve utilizar o Thyrogen durante a gravidez.
+ Tome especial cuidado com Thyrogen A injecção com Thyrogen nunca deve ser injectada numa veia.
+ Efeito sobre o crescimento tumoral Em doentes com cancro da glândula tiroideia, foi assinalado um crescimento tumoral durante a retirada de hormonas tiroideias para fins de diagnóstico. Acredita-se que este facto esteja relacionado com os elevados níveis de hormona estimuladora da glândula tiroideia (TSH) durante um período de tempo prolongado. É possível que o Thyrogen também provoque o crescimento tumoral. Isto não foi observado em ensaios clínicos.
+ Devido ao aumento dos níveis de TSH após Thyrogen, os doentes com metástases podem sofrer edema e hemorragias locais nos locais destas metástases. Como resultado, as metástases podem tornar-se maiores. Se as metástases se encontrarem em espaços reduzidos, por exemplo, no espaço intracerebral (no cérebro) ou na medula espinal, os doentes podem sofrer sintomas agudos tais como hemiparesia (paralisia parcial que afecta um lado do corpo) ou perda de visão. O seu médico decidirá se pertence a um grupo específico de doentes para os quais deve se considerar a hipótese de um tratamento prévio com corticosteróides (por exemplo, doentes com metástases intracerebrais ou na medula espinal). Se tiver alguma preocupação, contacte imediatamente o seu médico.
+ Utilizar Thyrogen com outros medicamentos Não há conhecimento de interacção com as hormonas da tiróide da terapêutica recomendada.
+ O seu médico de medicina nuclear determinará qual a actividade exacta de rádioiodo que deve ser utilizada para a cintigrafia corporal ou para ablação, tendo em consideração o facto de estar a manter uma terapêutica com hormonas da tiróide.
+ Gravidez Não utilizar Thyrogen durante a gravidez. Se estiver grávida, consulte o seu médico.
+ Aleitamento Não utilizar Thyrogen enquanto estiver a amamentar. Só deve começar a amamentar quando o seu médico aconselhar.
+ Informações importantes sobre alguns componentes de Thyrogen Este medicamento contém menos do que 1mmol (23 mg) de sódio por injecção, ou seja, é praticamente “ isento de sódio ”
+ 25 3. COMO UTILIZAR THYROGEN
+ O pó do Thyrogen deve ser dissolvido em água para preparações injectáveis. Só é necessário um frasco para injectáveis de Thyrogen para cada injecção. A injecção deve ser administrada por via intramuscular. O seu médico, enfermeiro ou farmacêutico preparará a injecção. Para instruções, ver o final do folheto informativo.
+ Qual a dose de Thyrogen recomendada? A dose recomendada de Thyrogen é de duas doses de 0,9 mg de tirotropina alfa administradas com um intervalo de 24 horas. O seu médico ou enfermeiro injectará 1,0 ml de solução de Thyrogen (0,9 mg de tirotropina alfa).
+ O Thyrogen deve ser administrado apenas no músculo da nádega. A solução de Thyrogen nunca deve ser injectada numa veia.
+ O pediatra do seu filho decidirá se o Thyrogen pode ser administrado ao seu filho.
+ Não misture o Thyrogen com outros medicamentos na mesma injecção.
+ Mesmo que sofra de insuficiência hepática, poderá receber Thyrogen.
+ Se tiver doença renal e necessitar de diálise, o seu médico decidirá quanto Thyrogen deverá ser-lhe administrado. Poderá ter maior probabilidade se sentir cefaleias e náuseas após receber Thyrogen.
+ Se tiver a função renal diminuída, o seu médico decidirá a quantidade de rádio-iodo a ser administrada.
+ Quando for submetido/a a cintigrafia corporal com rádio-iodo ou a ablação, o seu médico administrará o rádio-iodo 24 horas após a última injecção de Thyrogen. A produção da imagem de diagnóstico deverá ser efectuada 48 a 72 horas após a administração de rádio-iodo (72 a 96 horas após a última injecção de Thyrogen), enquanto que a cintigrafia pós-terapêutica poderá ser adiada por uns dias para permitir que a actividade de fundo decline.
+ Para a determinação da tiroglobulina (Tg) sérica, o seu médico ou enfermeiro fará a colheita de uma amostra de soro 72 horas após a última injecção de Thyrogen.
+ Se utilizar mais Thyrogen do que deveria Os doentes que receberam acidentalmente demasiado Thyrogen sentiram náuseas, fraqueza, tonturas, dores de cabeça, vómitos e rubor.
+ Caso sinta que lhe foi administrado demasiado Thyrogen, contacte o seu médico.
+ 4. EFEITOS SECUNDÁRIOS POSSIVEIS Como todos os medicamentos, Thyrogen pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ 26 Foram assinalados os seguintes efeitos em estudos clínicos com Thyrogen: Muito frequentes (1 em cada 10 doentes): náusea Frequentes (1 a 10 em cada 100 doentes) vómitos, fadiga, tonturas e dor de cabeça. Raros (1 a 10 em cada 1.000 doentes): sintomas gripais, parestesia (sensação de picada ou formigueiro), fadiga, febre, urticária, erupção cutânea, calafrios, dor nas costas, sensação de calor.
+ Num número limitado de doentes, foram referidos efeitos secundários relacionados com o local da injecção, incluindo vermelhidão, desconforto, comichão, dor local ou ardor e erupção cutânea com comichão. Alguns efeitos secundários adicionais foram notificados muito raramente (1 a 10 em 10.000 doentes) depois do Thyrogen poder ser prescrito pelos médicos. Estes incluem: inchaço do tumor, palpitações, falta de ar, diarreia, dor (incluindo dor no local das metástases (secundárias), dores musculares ou articulares, TSH baixa, suor excessivo, prurido (comichão) e rubores.
+ Foram notificados casos muito raros de hipertiroidismo (actividade aumentada da glândula tiroideia) quando o Thyrogen foi administrado a doentes que tinham sido submetidos a uma remoção parcial ou total da glândula tiroideia.
+ Foram notificadas reacções ligeiras sugestivas de hipersensibilidade (reacções alérgicas) em muito poucos doentes. Estas reacções podem consistir em urticária, prurido (comichão), rubores, dificuldade em respirar e “ erupção ” cutânea. Em estudos clínicos, nenhum doente desenvolveu anticorpos contra a tirotropina alfa. Caso se desenvolvam anticorpos, estes podem vir a dificultar a interpretação de exames de medição de TSH.
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR THYROGEN Manter fora do alcance e da vista das crianças.
+ Não utilize Thyrogen após o prazo de validade impresso no.
+ Conservar no frigorífico (2°C-8°C). Manter o frasco para injectáveis dentro da embalagem exterior para proteger da luz.
+ Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 27 6. OUTRAS INFORMAÇÕES
+ Qual a composição de Thyrogen A substância activa no Thyrogen é a tirotropina alfa. Cada frasco para injectável contém 0,9 mg/ml de tirrotropina alfa quando reconstituída com 1,2 ml de água para injectáveis. Apenas 1ml deve ser retirado equivalente a 0,9 mg de tirotropina alfa.
+ Os outros componentes são: manitol fosfato de sódio monobásico, mono-hidrato fosfato de sódio dibásico, hepta-hidrato cloreto de sódio
+ Qual o aspecto de Thyrogen e conteúdo da embalagem
+ Pó para solução injectável. Pó liofilisado, branco a esbranquiçado. Tamanho da embalagem: um e dois frascos para injectáveis de Thyrogen por embalagem.
+ Titular da Autorização de Introdução no Mercado Genzyme Europe B. V., Gooimeer 10,1411 DD Naarden, Países Baixos.
+ Fabricante Genzyme Ltd.,37 Hollands Road, Haverhill, Suffolk CB9 8PU, Reino Unido
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado:
+ België/Belgique/Belgien/Luxembourg/Luxemburg Genzyme Belgium nv/sa (Belgique/Belgien) Tél/Tel:+ 32 2 714 17 11
+ Ísland Vistor hf Sími: +354 535 7000 България Търговско представителство на Genzyme CEE GmbH Тел. +359 2 971 1001
+ Magyarország Genzyme Europe B. V. Képviselet Tel: +36 1 310 7440
+ Česká republika/Slovenská republika Genzyme Europe B. V. organizační složka (Česká Republika) Tel: +420 227 133 655
+ Nederland Genzyme Europe BV Tel: +31 35 6991200
+ Danmark/Norge/Sverige/Suomi/Finland Genzyme A/S, (Danmark/Tanska) Tlf/Puh./Sími:+ 45 32712600
+ Österreich Genzyme Austria GmbH Tel:+ 43 1 774 65 38
+ 28 Deutschland Genzyme GmbH Tel: +49 610236740
+ Polska/Eesti/Latvija/Lietuva Genzyme Polska Sp. z o. o. (Poola/Polija/Lenkija) Tel:+ 48 22516 24 30
+ Ελλάδα/Κύπρος Genzyme Hellas Ltd (Ελλάδα) Τηλ: +30 210 99 49 270
+ Portugal Genzyme Portugal Tel: +351 21 422 0100
+ España Genzyme, S. L. Tel: +34 91 6591670
+ România Genzyme CEE GmbH-Reprezentanta pentru Romania Tel: +40 31 805 2960
+ France Genzyme S. A. S Tél: +33 (0) 825 825 863
+ Slovenija Genzyme Europe B. V. Predstavništvo za Hrvatsku (Hrvaška) Tel: +385 1464 5357
+ Italia/Malta Genzyme Srl (Italia/Italja) Tel: +39 059 349811
+ United Kingdom/Ireland Genzyme Therapeutics (United Kingdom) Tel: +44 1865 405200
+ Este folheto foi aprovado pela última vez em
+ A informação que se segue destina-se apenas aos médicos e aos profissionais de saúde:
+ O regime posológico recomendado de Thyrogen é de duas injecções intramusculares de 0,9 mg de tirotropina alfa administradas com um intervalo de 24 horas. Utilizar a técnica asséptica Adicionar 1,2 ml de água para injectáveis ao Thyrogen em pó existente no frasco para injectáveis. Mexer suavemente o conteúdo do frasco para injectáveis, com movimentos circulares da mão, até todo o material se encontrar dissolvido. Não agitar a solução. Depois do pó estar dissolvido, o volume total do frasco para injectáveis é de 1,2 ml. O pH da solução de Thyrogen é aproximadamente 7,0. Inspeccionar visualmente a solução de Thyrogen no frasco para injectáveis para verificar se contém partículas estranhas e se existe coloração. A solução de Thyrogen deve ser uma solução transparente e incolor. Não utilizar frascos para injectáveis com partículas estranhas, que estejam turvos ou que apresentem coloração. Retirar 1,0 ml da solução de Thyrogen do frasco para injectáveis do produto. Isto equivale a 0,9 mg de tirotropina alfa a ser injectado. O Thyrogen não contém conservantes. Eliminar imediatamente, qualquer solução não utilizada. Após a reconstituição a solução deve ser injectada no prazo de três horas; contudo, a solução de Thyrogen permanecerá quimicamente estável durante um período até 24 horas, quando conservada entre 2°C e 8°C e protegida da luz. É importante estar ciente de que a segurança microbiológica depende das condições de assepsia durante a preparação da solução.
+ 29

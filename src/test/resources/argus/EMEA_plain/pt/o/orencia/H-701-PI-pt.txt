@@ -1,0 +1,354 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. DENOMINAÇÃO DO MEDICAMENTO
+ ORENCIA 250 mg pó para concentrado para solução para perfusão
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada frasco para injectáveis contém 250 mg de abatacept. Após reconstituição, cada ml contém 25 mg de abatacept.
+ Abatacept é uma proteína de fusão produzida pela tecnologia de ADN recombinante em células de ovário de hamster Chinês.
+ Excipiente: sódio: 0,375 mmol por frasco para injectáveis
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Pó para concentrado para solução para perfusão.
+ O pó apresenta-se como um aglomerado inteiro ou fragmentado, branco a esbranquiçado.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas ORENCIA, em associação com o metotrexato, é indicado no tratamento da artrite reumatóide activa moderada a grave em doentes adultos que tenham tido uma resposta insuficiente ou intolerância a outros fármacos anti-reumatismais modificadores da doença, incluindo pelo menos um inibidor do factor de necrose tumoral (FNT). O abatacept demonstrou reduzir a progressão das lesões articulares e melhorar a função física durante o tratamento em associação com metotrexato.
+ 4.2 Posologia e modo de administração O tratamento deve ser iniciado e supervisionado por médicos especialistas com experiência no diagnóstico e tratamento da artrite reumatóide.
+ Adultos Administração em perfusão intravenosa de 30 minutos na dose especificada na Tabela 1. Após a administração inicial, ORENCIA deve ser administrado 2 a 4 semanas após a primeira perfusão, e depois cada 4 semanas. a
+ Tabela Peso 1: corporal do Dose de ORENCIA Número de frascos para injectáveisb doente
+ Dose &lt; 60 kg
+ 500 mg 2 ≥ 60 kg to ≤ 100 kg
+ 750 mg 3 a
+ &gt; 100 kg
+ 1.000 mg 4 Aproximadamente 10 mg/kg. b Cada frasco para injectáveis fornece 250 mg of abatacept para administração.
+ Cada frasco para injectáveis de ORENCIA 250 mg tem de ser reconstituído com 10 ml de água para preparações injectáveis, utilizando a seringa sem silicone fornecida. A solução reconstituída tem de ser
+ 2 diluída até 100 ml com solução injectável de cloreto de sódio 9 mg/ml (0,9%) antes da perfusão intravenosa (ver secção 6.6).
+ Não é necessário acerto posológico quando se utilizar em associação com outros DMARs, corticosteróides, salicilatos, fármacos anti-inflamatórios não esteróides (AINEs) ou analgésicos.
+ Se não se verificar resposta ao abatacept no período de 6 meses de tratamento, devem ser avaliados os potenciais benefícios da continuação do tratamento, os riscos conhecidos e potenciais e as alternativas terapêuticas (ver secção 5.1).
+ Doentes idosos Não é necessário acerto posológico.
+ Doentes pediátricos Não há experiência em crianças ou adolescentes. Consequentemente, não se recomenda a utilização de ORENCIA em crianças ou adolescentes até estarem disponíveis dados adicionais.
+ Compromisso renal e hepático ORENCIA não foi estudado nestas populações de doentes. Não se podem fazer recomendações posológicas.
+ 4.3 Contra-indicações Hipersensibilidade à substância activa ou a qualquer um dos excipientes.
+ Infecções graves e não controladas como sépsis e infecções oportunistas (ver secção 4.4).
+ 4.4 Advertências e precauções especiais de utilização
+ Associação com fármacos inibidores do FNT A experiência da utilização do abatacept com fármacos inibidores do FNT é limitada (ver secção 5.1). Nos ensaios clínicos controlados por placebo, os doentes que receberam a associação de fármacos inibidores do FNT com abatacept tiveram um aumento de infecções e infecções graves em comparação com os doentes tratados com fármacos inibidores do FNT e placebo (ver secção 4.5). O abatacept não é recomendado para utilização em associação com fármacos inibidores do FNT.
+ Durante a transição da terapêutica com fármacos inibidores do FNT para a terapêutica com ORENCIA, os doentes devem ser monitorizados quanto a sinais de infecção.
+ Reacções alérgicas As reações alérgicas foram notificadas pouco frequentemente com a administração de abatacept nos ensaios clínicos em que os doentes não necessitaram de ser pré-tratados para prevenir reacções alérgicas (ver secção 4.8). Deverá ter-se precaução especial nos doentes com história de reacções alérgicas ao abatacept ou a qualquer um dos excipientes. Se ocorrer qualquer reacção alérgica ou anafiláctica graves, a terapêutica com ORENCIA deve ser interrompida imediatamente e iniciada terapêutica adequada.
+ Efeitos no sistema imunitário Os medicamentos que afectam o sistema imunitário, incluindo o ORENCIA, podem afectar as defesas contra infecções e neoplasias e a resposta à vacinação.
+ A co-administração de ORENCIA com fármacos imunossupressores ou imunomoduladores biológicos pode potenciar os efeitos de ORENCIA no sistema imunitário. Não há evidência suficiente para avaliar a segurança e a eficácia de ORENCIA em associação com anacinra ou rituximab.
+ 3 Infecções Foram notificadas infecções graves com abatacept (ver secção 4.8). O tratamento com ORENCIA não deve ser iniciado em doentes com infecções activas até que as infecções estejam controladas. Os médicos deverão ter precaução quando considerarem a utilização de ORENCIA em doentes com história de infecções recorrentes ou condições subjacentes que os poderão predispôr para infecções. Os doentes que desenvolvam uma nova infecção durante o tratamento com ORENCIA devem ser cuidadosamente monitorizados. A administração de ORENCIA deve ser interrompida se um doente desenvolver uma infecção grave.
+ Não foi observado aumento da tuberculose nos estudos fundamentais controlados por placebo. No entanto, os doentes devem ser despistados para tuberculose latente antes de iniciarem ORENCIA. Deverão também ser tidas em consideração as orientações médicas disponíveis.
+ As terapêuticas anti-reumatismais foram associadas à re-activação da hepatite B. Consequentemente, antes do inicío da terapêutica com ORENCIA, deverá ser efectuada a despistagem da hepatite vírica de acordo com os orientações publicadas.
+ Neoplasias Nos ensaios clínicos controlados por placebo, a frequência de neoplasias nos doentes tratados com abatacept e com placebo foi de 1,4% e de 1,1%, respectivamente (ver secção 4.8). Os doentes com neoplasias conhecidas não foram incluídos nestes ensaios clínicos. Nos estudos de carcinogenicidade em ratinhos, foi observado um aumento nos linfomas e nos tumores mamários. O significado clínico desta observação não é conhecido (ver secção 5.3). Não é conhecido o papel potencial de ORENCIA no desenvolvimento de neoplasias, incluindo linfoma.
+ Vacinação Não devem ser dadas vacinas vivas concomitantemente com ORENCIA, ou até 3 meses após a sua interrupção. Não estão disponíveis dados sobre a transmissão secundária de infecções de pessoas a receber vacinas vivas para doentes a receber ORENCIA. Os dados disponíveis sobre os efeitos da vacinação nos doentes a receber ORENCIA são insuficientes. Os medicamentos que afectam o sistema imunitário, incluindo ORENCIA, podem atenuar a eficácia de algumas imunizações.
+ Doentes idosos Um total de 323 doentes de idade igual ou superior a 65 anos, incluindo 53 doentes de idade igual ou superior a 75 anos, receberam abatacept nos ensaios clínicos controlados por placebo. Foi observada eficácia semelhante nestes doentes e nos doentes mais jovens. A frequência de infecção grave e de neoplasias em relação ao placebo foi superior nos doentes com mais de 65 anos tratados com abatacept em comparação com os doentes de idade inferior a 65 anos. Uma vez que a incidência de infecções e de neoplasias em geral é superior nos idosos, deverá ter-se precaução quando se tratar doentes idosos (ver secção 4.8).
+ Processos auto-imunes Existe a hipótese de que o tratamento com ORENCIA possa aumentar o risco para processos auto-imunes, por exemplo deterioração da esclerose múltipla. Nos ensaios clínicos controlados por placebo, o tratamento com abatacept não levou ao aumento da formação de anticorpos, tais como anticorpos antinucleares e anti-ADN, em relação ao tratamento com placebo (ver secção 4.8).
+ Teste da glicemia Os medicamentos injectáveis que contêm maltose podem interferir com a leitura dos monitores da glicemia que utilizam as fitas teste com glucose desidrogenase pirroloquinolinequinona. Os sistema de monitorização da glucose baseados na glucose desidrogenase pirroloquinolinequinona podem reagir com a maltose presente no ORENCIA, resultando em leituras de glicemia falsamente elevadas no dia da perfusão. Os doentes que necessitem de monitorizar a glicemia quando estiverem a receber ORENCIA devem ser avisados para considerarem métodos alternativos que não reajam com a maltose, tais como os métodos baseados na glucose desidrogenase nicotina adenina dinucleótido, glucose oxidase ou glucose hexocinase.
+ 4 Doentes com ingestão de sódio controlada Este medicamento contém 1,5 mmol (ou 34,5 mg) de sódio por dose máxima de 4 frascos para injectáveis (0,375 mmol ou 8,625 mg de sódio por frasco para injectável). Este facto deverá ser tido em consideração no tratamento de doentes com ingestão de sódio controlada.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Associação com fármacos inibidores do FNT A experiência da utilização de abatacept em associação com fármacos inibidores do FNT é limitada (ver secção 5.1). Enquanto os fármacos inibidores do FNT não influenciaram a depuração do abatacept nos ensaios clínicos controlados por placebo, os doentes a receber tratamento concomitante com abatacept e fármacos inibidores do FNT tiveram mais infecções e infecções graves do que os doentes tratados apenas com fármacos inibidores do FNT. Consequentemente, não é recomendada a terapêutica concomitante com ORENCIA e um fármaco inibidor do FNT.
+ Associação com outro medicamentos A análise da farmacocinética populacional não detectou qualquer efeito do metotrexato, AINEs e corticosteróides na depuração do abatacept (ver secção 5.2). Não foram identificados problemas graves de segurança com a utilização do abatacept em associação com sulfassalazina, hidroxicloroquina ou leflunomida.
+ Ver secção 4.4 relativamente à associação com outros medicamentos que afectam o sistema imunitário e com vacinação.
+ 4.6 Gravidez e aleitamento Não há dados adequados da utilização de abatacept na mulher grávida. Em estudos de desenvolvimento embrio-fetal não foram observados efeitos indesejáveis com doses até 29 vezes uma dose de 10 mg/kg no ser humano baseada na AUC. Num estudo de desenvolvimento pré e pós-natal foram observadas alterações limitadas na função imunitária com dose 11 vezes uma dose de 10 mg/kg no ser humano baseada na AUC (ver secção 5.3). ORENCIA não deve ser utilizado em mulheres grávidas, a não ser que seja claramente necessário. As mulheres em risco de engravidar devem utilizar métodos contraceptivos eficazes durante o tratamento com ORENCIA e nas 14 semanas depois da última dose do tratamento com abatacept.
+ Utilização durante o aleitamento O abatacept mostrou estar presente no leite de rato. Desconhece-se se o abatacept é excretado no leite humano. As mulheres não devem amamentar durante o tratamento com ORENCIA e nas 14 semanas depois da última dose do tratamento com abatacept.
+ Fertilidade Não foram realizados estudos formais sobre o potencial efeito de ORENCIA na fertilidade humana. Nos ratos, o abatacept não teve efeitos indesejáveis na fertilidade masculina ou feminina (ver secção 5.3).
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas.
+ 4.8 Efeitos indesejáveis O abatacept foi estudado em doentes com artrite reumatóide activa em ensaios clínicos controlados por placebo (1.955 doentes com abatacept,989 doentes com placebo). Os ensaios tiveram um período em dupla ocultação, controlado por placebo, de 6 meses (258 doentes com abatacept,133 doentes com placebo) ou um período de 1 ano (1.697 doentes com abatacept,856 com placebo). A maioria dos doentes nestes ensaios estavam a tomar metotrexato (81,9% com abatacept, 83,3% com placebo). Outras medicações concomitantes incluíram: AINEs (83,9% com abatacept, 85,1% com placebo);
+ 5 corticosteróides sistémicos (74,7% com abatacept, 75,8% com placebo); terapêutica com fármacos anti-reumatismais modificadores da doença não biológicos, mais frequentemente cloroquina/hidroxicloroquina, leflunomida e/ou sulfassalazina (26,9% com abatacept, 32,1% com placebo); fármacos inibidores do FNT, principalmente etanercept (9,4% com abatacept, 12,3% com placebo); e anacinra (1,1% com abatacept, 1,6% com placebo).
+ Nos ensaios clínicos com abatacept controlados por placebo, as reacções adversas medicamentosas (RAMs) foram notificadas em 52,2% dos doentes tratados com abatacept e 46,1% dos doentes tratados com placebo. As reacções adversas medicamentosas mais frequentemente notificadas (≥ 5%) nos doentes tratados com abatacept foram cefaleias e náuseas. A proporção de doentes que interromperam o tratamento devido a RAMs foi de 3,4% para os doentes tratados com abatacept e de 2,2% para os doentes tratados com placebo.
+ Estão listadas na Tabela 2 as reacções adversas medicamentosas que ocorreram com maior frequência (diferença &gt; 0,2%) nos doentes tratados com abatacept do que nos doentes tratados com placebo. A lista é apresentada por sistema corporal e frequência, utilizando as seguintes categorias: muito frequentes (≥ 1/10); frequentes (≥ 1/100, &lt; 1/10); pouco frequentes (≥ 1/1.000, &lt; 1/100); raras (≥ 1/10.000, &lt; 1/1,000); muito raras (&lt; 1/10.000). Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ Tabela 2: Efeitos Indesejáveis nos ensaios controlados por placebo
+ Exames complementares de diagnóstico
+ Frequentes Tensão arterial aumentada, prova da função hepática anormal (incluindo transaminases aumentadas) Pouco frequentes Tensão arterial diminuída, peso aumentado
+ Cardiopatias Pouco frequentes Taquicardia, bradicardia, palpitações Doenças do sangue e do sistema linfático
+ Pouco frequentes Trombocitopenia, leucopenia Doenças do sistema nervoso Muito frequentes Frequentes Pouco frequentes
+ Cefaleias Tonturas Parestesia Afeccções oculares Pouco frequentes Conjuntivite, acuidade visual diminuída Afecções do ouvido e do labirinto Pouco frequentes Vertigens Doenças respiratórias, torácicas e do mediastino
+ Frequentes Tosse Doenças gastrointestinais Frequentes Pouco frequentes Dor abdominal, diarreia, náuseas, dispepsia Gastrite, ulceração bucal, estomatite aftosa
+ Afecções dos tecidos cutâneos e subcutâneas
+ Frequentes Erupção cutânea (incluindo dermatite) Pouco frequentes Tendência aumentada para contusões, alopécia, pele seca
+ 6 Afecções musculosqueléticas e dos tecidos conjuntivos
+ Pouco frequentes Artralgia, dores nas extremidades Infecções e infestações Frequentes Infecções das vias respiratórias inferiores (incluindo bronquites), infecções das vias urinárias, herpes simplex, infecções das vias respiratórias superiores (incluindo traqueítes, nasofaringite), rinites
+ Pouco frequentes Infecção dental, úlcera cutânea infectada, onicomicoses
+ Neoplasias benignas, malignas e não especificadas (incl. quistos e polipos)
+ Pouco frequentes Carcinoma das células basais Vasculopatias Frequentes Pouco frequentes Hipertensão, rubor Hipotensão, rubor quente
+ Perturbações gerais e alterações no local de administração
+ Frequentes Fatiga, astenia Pouco frequentes Sintomas gripais Doenças dos órgãos genitais e da mama
+ Pouco frequentes Amenorreia Perturbações do foro psiquiátrico Pouco frequentes Depressão, ansiedade As RAMs notificadas nos doentes tratados com abatacept que não ocorreram com um excesso de incidência (i. e. a diferença não foi &gt; 0,2%) em relação ao placebo, mas que foram consideradas como medicamente relevantes incluem os seguintes acontecimentos:
+ Frequentes: herpes zoster; Pouco frequentes: pneumonia, hipersensibilidade, pielonefrite, broncospasmo, urticária, psoríase, cistite, cefaleias, rigidez do pescoço, secura do olho; Raras: sépsis, bacteremia.
+ Informação adicional Infecções Nos ensaios clínicos controlados por placebo foram notificadas infecções possivelmente relacionadas com o tratamento em 23,2% dos doentes tratados com abatacept e em 19,5% dos doentes tratados com placebo.
+ Foram notificadas infecções graves possivelmente relacionadas com o tratamento em 1,8% dos doentes tratados com abatacept e em 1,0% dos doentes tratados com placebo. As infecções graves notificadas em, pelo menos, um doente tratado com abatacept (0,05% dos doentes) incluíram as seguintes: pneumonia, bronquite, celulite, pielonefrite aguda, infecções do tracto urinário, diverticulite, abcesso intestinal, infecção localizada, abcesso cutâneo, infecções musculosqueléticas, sépsis, empiema, hepatite E e tuberculose (ver secção 4.4).
+ 7 Neoplasias Nos ensaios clínicos controlados por placebo foram notificadas neoplasias em 27 dos 1.955 doentes tratados com abatacept observados durante o correspondente a 1.687 doentes por ano e em 11 dos 989 doentes tratados com placebo observados durante o correspondente a 794 doentes por ano.
+ Nos ensaios clínicos, em dupla ocultação e sem ocultação, foram notificadas neoplasias em 66 dos 2.688 doentes tratados com abatacept durante o correspondente a 4.764 doentes por ano. Estes incluíram 33 doentes com cancro cutâneo não melanoma,28 doentes com cancros de órgãos sólidos e 6 doentes com neoplasias hematológicas (4 com linfomas e 2 com síndromes mielodisplásticos). O cancro de órgãos sólidos notificado com maior frequência foi o cancro do pulmão (11 casos). O tipo e o padrão das neoplasias notificadas durante o período do ensaio sem ocultação foram similares aos notificados para o período em dupla ocultação.
+ O número de neoplasias observadas foi consistente com o esperado para a população com artrite reumatóide equivalente em idade e sexo (ver secção 4.4).
+ Reacções relacionadas com a perfusão Os acontecimentos agudos relacionados com a perfusão (reacções adversas que ocorreram até 1 hora após o início da perfusão) nos estudos II, III e IV (ver secção 5.1) foram mais frequentes nos doentes tratados com abatacept do que nos doentes tratados com placebo (9,8% para abatacept, 6,7% para placebo). Os acontecimentos adversos notificados com maior frequência com o abatacept (1-2%) foram tonturas, cefaleias e hipertensão.
+ Os acontecimentos agudos relacionados com a perfusão que foram notificados em &gt; 0,1% e ≤ 1% dos doentes tratados com abatacept incluíram sintomas cardiopulmonares, tais como hipotensão, aumento da pressão sanguínea, diminuição da pressão sanguínea e dispneia; outros sintomas incluíram náuseas, rubor, urticária, tosse, hipersensibilidade, prurido, erupção cutânea e respiração ofegante. A maioria destas reacções foram ligeiras a moderadas.
+ As reacções de hipersensibilidade foram pouco frequentes. Em 2.688 doentes tratados com abatacept correspondendo a 4.764 doentes-ano houve 1 caso de anafilaxia. Outros acontecimentos potencialmente associados com hipersensibilidade ao medicamento, tais como hipotensão, urticária e dispneia, cada um ocorreu em menos de 0,6% dos doentes tratados com abatacept.
+ A interrupção do tratamento devido a uma reacção aguda relacionada com a perfusão ocorreu em 0,4% dos doentes a receber abatacept e em 0,2% dos doentes tratados com placebo.
+ Reacções adversas medicamentosas em doentes com doença pulmonar obstrutiva crónica (DPOC) No estudo IV houve 37 doentes com DPOC tratados com abatacept e 17 tratados com placebo. Os doentes com DPOC tratados com abatacept desenvolveram reacções adversas medicamentosas com maior frequência do que os tratados com placebo (51,4% vs. 47,1%, respectivamente). As perturbações respiratórias ocorreram com maior frequência nos doentes tratados com abatacept do que nos doentes tratados com placebo (10,8% vs. 5,9%, respectivamente); estas incluíram exacerbação do DPOC e dispneia. Uma percentagem superior de doentes com DPOC tratados com abatacept em relação aos doentes com DPOC tratados com placebo desenvolveu uma reacção adversa grave (5,4% vs. 0%), incluindo exacerbação da DPOC (1 de 37 doentes[ 2,7%]) e bronquite (1 de 37 doentes[ 2,7%]).
+ Auto-anticorpos A terapêutica com abatacept em comparação com placebo não levou ao aumento da formação de auto-anticorpos, i. e., anticorpos antinucleares e anti-ADN.
+ Imunogenicidade Os anticorpos direccionados contra a molécula de abatacept foram avaliados por ensaios ELISA em doentes com artrite reumatóide tratados até 3 anos com abatacept. Sessenta e dois de 2.237 doentes (2,8%) desenvolveram anticorpos de ligação. Nos doentes avaliados para anticorpos pelo menos 56 dias após interrupção do abatacept,15 de 203 doentes (7,4%) desenvolveram anticorpos.
+ 8 As amostras com actividade de ligação ao CTLA-4 confirmada foram avaliadas quanto à presença de anticorpos de neutralização. Oito dos 13 doentes avaliáveis mostraram ter anticorpos de neutralização.
+ No total, não houve correlação aparente do desenvolvimento de anticorpos à resposta clínica ou acontecimentos adversos. No entanto, o número de doentes que desenvolveram anticorpos foi demasiado limitado para fazer uma avaliação definitiva. Desconhece-se a potencial relevância clínica da formação de anticorpos de neutralização. Uma vez que as análises de imunogenicidade são específicas do produto, não é adequada a comparação de taxas de anticorpos com as de outros produtos.
+ Informação de segurança relacionada com a classe farmacológica O abatacept é o primeiro modulador selectivo de co-estimulação. Na secção 5.1 está resumida a informação sobre a segurança relativa num ensaio clínico versus o infliximab.
+ 4.9 Sobredosagem Foram administradas doses até 50 mg/kg sem efeito tóxico aparente. Em caso de sobredosagem, recomenda-se que o doente seja monitorizado quanto aos sinais ou sintomas de reacções adversas e instituído tratamento sintomático adequado.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: agentes imunossupressores selectivos, código ATC: L04AA24
+ O abatacept é uma proteína de fusão que consiste no domínio extracelular do antigénio 4 associado ao linfócito T citotóxico humano (CTLA-4), ligado a uma porção Fc modificada da imunoglobulina humana G1 (IgG1). O abatacept é produzido através da tecnologia de ADN recombinante em células do ovário de hamster Chinês.
+ Mecanismo de acção O abatacept modula selectivamente um sinal fundamental de co-estimulação, necessário para a activação completa dos linfócitos T que expressam o CD28. A activação completa dos linfócitos T requer dois sinais fornecidos pelas células que apresentam antigénio: reconhecimento de um antigénio específico por um receptor da célula T (sinal 1) e um segundo, o sinal de co-estimulação. Uma das vias principais de co-estimulação envolve a ligação das moléculas CD80 e CD86 na superfície das células que apresentam antigénio ao receptor CD28 nos linfócitos T (sinal 2). O abatacept inibe selectivamente esta via de co-estimulação ao ligar-se especificamente à CD80 e à CD86. Os estudos indicam que as respostas dos linfócitos T naive são mais afectadas pelo abatacept do que as respostas dos linfócitos T memória.
+ Os estudos in vitro e em modelos animais demonstram que o abatacept modula as respostas dos anticorpos e a inflamação dependentes dos linfócitos T. In vitro, o abatacept atenua a activação dos linfócitos T humanos, tal como medido pela diminuição da proliferação e da produção de citocinas. O abatacept diminui a produção de FNTα, interferão-γ e interleucina-2 específicos do antigénio pelos linfócitos T.
+ Efeitos farmacodinâmicos Com o abatacept foram observadas reduções dependentes da dose em níveis séricos do receptor solúvel da interleucina-2, um marcador da activação dos linfócitos T; interleucina-6 sérica, um produto dos macrófagos sinoviais activados e das células sinoviais tipo fibroblasto na artrite reumatóide; factor reumatóide, um auto-anticorpo produzido pelas células plasmáticas; e proteína C-reactiva, um reagente da fase aguda da inflamação. Adicionalmente, os níveis séricos da matriz da
+ 9 metaloproteinase-3, que produz a destruição da cartilagem e a remodelação do tecido, tiveram uma diminuição. Também foram observadas reduções do FNTα sérico.
+ Eficácia e segurança clínica A eficácia e segurança do abatacept foram avaliadas em ensaios clínicos aleatorizados, em dupla ocultação, controlados por placebo, realizados com doentes adultos com artrite reumatóide activa, diagnosticada de acordo com os critérios de resposta do American College of Rheumatology (ACR). Os estudos I, II, III e V exigiam que os doentes apresentassem, pelo menos,12 articulações sensíveis ao toque e 10 articulações edemaciadas, no momento da aleatorização. O estudo IV não exigia um número específico de articulações sensíveis ao toque ou edemaciadas.
+ Nos estudos I, II e V a eficácia e segurança do abatacept em comparação com o placebo foram avaliadas em doentes com uma resposta inadequada ao metotrexato e que continuaram a tomar a sua dose fixa de metotrexato. Adicionalmente, o estudo V comparou a eficácia e segurança do abatacept ou do infliximab em relação ao placebo. No estudo III, a eficácia e segurança de abatacept foram avaliadas em doentes com uma resposta inadequada a um agente bloqueador do FNT, sendo o agente bloqueador do FNT suspenso antes da aleatorização; foram permitidos outros DMARDs (fármacos antirreumatismais modificadores da doença). O estudo IV avaliou em primeiro lugar a segurança nos doentes com artrite reumatóide activa com necessidade de intervenção adicional apesar da terapêutica actual com DMARDs não biológicos e/ou biológicos; todos os DMARDs usados à altura do recrutamento foram continuados.
+ Os doentes do estudo I foram aleatorizados para receber 2 ou 10 mg/kg de abatacept ou placebo durante 12 meses. Os doentes do estudo II, III e IV foram aleatorizados para receber uma dose fixa de aproximadamente 10 mg/kg de abatacept ou placebo durante 12 (estudos II e IV) ou 6 meses (estudo III). A dose de abatacept foi de 500 mg para doentes com peso inferior a 60 kg,750 mg para doentes com peso entre 60 e 100 kg, e 1 grama para doentes com peso superior a 100 kg. Os doentes do estudo V foram aleatorizados para receber esta mesma dose fixa de abatacept ou 3 mg/kg de infliximab ou placebo durante 6 meses. O estudo V continuou por mais 6 meses apenas com os grupos do abatacept e do infliximab.
+ Os estudos I, II, III, IV e V avaliaram 339,638,389, 1.441 e 431 doentes, respectivamente.
+ Resposta clínica Resposta ACR Na tabela 3 é apresentada a percentagem de doentes tratados com abatacept que alcançaram respostas ACR 20,50 e 70 no estudo II (doentes com resposta inadequada ao metotrexato) e no estudo III (doentes com resposta inadequada ao agente bloqueador do FNT).
+ Nos doentes tratados com abatacept, nos estudos II e III, após a administração da primeira dose (dia 15) foi observada uma melhoria estatisticamente significativa na resposta ACR 20 versus placebo, e esta melhoria manteve-se significativa enquanto duraram os estudos. No estudo II,43% dos doentes que não tinham alcançado uma resposta ACR 20 aos 6 meses, desenvolveram uma resposta ACR 20 aos 12 meses.
+ 10 Tabela 3:
+ Respostas ACR em ensaios controlados por placebo
+ Percentagem de doentes Resposta inadequada ao Resposta inadequada ao agente metotrexato (MTX) bloqueador do FNT Estudo II Estudo III Abatacepta Abatacepta Placebo Placebo +DMARDsb +DMARDsb +MTX +MTX
+ Taxa de resposta ACR 20 n= 424 n= 214 n= 256 n= 133 23%* 18% **
+ Dia 15 14% 5% 68% *** 50% ***
+ Mês 6 40% 20% 73% *** NDd NDd
+ Mês 12 ACR 50 40% 40% *** 20% ***
+ Mês 6 17% 4% 48% *** NDd NDd
+ Mês 12 ACR 70 18% 20% *** 10% **
+ Mês 6 7% 2% 29% *** NDd NDd
+ Mês 12 Principal resposta clínicac*
+ 6% 14% *** NDd NDd 2%
+ p &lt; 0,005, abatacept vs. placebo. ** p &lt; 0,01, abatacept vs. placebo. *** p &lt; 0,001, abatacept vs. placebo. a Dose fixa de aproximadamente 10 mg/kg (ver secção 4.2). b Os DMARDs concomitantes incluíram um ou mais dos seguintes: metotrexato, cloroquina/hidroxicloroquina, sulfassalazina, leflunomida, azatioprina, ouro e anacinra. c A principal resposta clínica é definida como a obtenção de uma resposta ACR 70 durante um período contínuo de 6 meses. d Ao fim de 6 meses, foi dada aos doentes a oportunidade de entrarem num estudo sem ocultação.
+ Na extensão, sem ocultação, dos estudos I, II e III, foram observadas respostas ACR 20,50 e 70 duradouras e mantidas durante 48,24 e 18 meses, respectivamente, do tratamento com abatacept. No estudo I, aos 48 meses, foram observadas respostas ACR 20 em 71% (42/59) dos doentes, ACR 50 em 41% (24/59) e ACR 70 em 31% (18/58). No estudo II, aos 24 meses, foram observadas respostas ACR 20 em 88% (291/332) dos doentes, ACR 50 em 62% (205/332) e ACR 70 em 38% (127/334). No estudo III, aos 18 meses, foram observadas respostas ACR 20 em 70% (118/167) dos doentes, ACR 50 em 43% (73/168) e ACR 70 em 22% (37/169).
+ Foram observadas melhorias maiores com o abatacept do que com o placebo noutras medidas da actividade da artrite reumatóide não incluídas nos critérios da resposta ACR, tais como a rigidez matinal.
+ Resposta DAS28 A actividade da doença foi também avaliada usando o índice Disease Activity Score 28 (DAS28). Nos estudos II, III e V houve uma melhoria significativa no DAS em comparação com o placebo.
+ Estudo V: abatacept ou infliximab versus placebo Foi realizado um estudo aleatorizado, em dupla ocultação, para avaliar a eficácia e a segurança do abatacept ou do infliximab versus placebo em doentes com resposta inadequada ao metotrexato (estudo V). O resultado principal foi a alteração média na actividade da doença nos doentes tratados com abatacept em comparação com os doentes tratados com placebo aos 6 meses com uma avaliação subsequente em dupla ocultação da segurança e eficácia do abatacept e do infliximab aos 12 meses. Aos seis meses, no grupo do ensaio controlado por placebo foi observada uma melhoria superior (p &lt; 0,001) no DAS28 com o abatacept e o infliximab em comparação com o placebo; os resultados
+ 11 entre os grupos do abatacept e do infliximab foram similares. As respostas ACR no estudo V foram consistentes com o índice DAS28. Foi observada uma melhoria adicional com o abatacept aos 12 meses. Aos 6 meses a incidência de acontecimentos adversos de infecções foi de 48,1% (75), 52,1% (86), e de 51,8% (57) e a incidência de acontecimentos adversos graves de infecções foi de 1,3% (2), 4,2% (7), e de 2,7% (3) para os grupos de abatacept, infliximab e placebo, respectivamente. Aos 12 meses, a incidência de acontecimentos adversos de infecções foi de 59,6% (93), 68,5% (113), e a incidência de acontecimentos adversos graves de infecções foi de 1,9% (3) e de 8,5% (14) para os grupos de abatacept e infliximab, respectivamente.
+ Resposta radiográfica No estudo II foi avaliada a deterioração estrutural da articulação através de radiografias durante um período de dois anos. Os resultados foram medidos usando a Pontuação Total de Sharp (TSS) modificada por Genant e seus componentes, pontuação da erosão e pontuação do estreitamento do espaço articular (EEA). A TSS basal média foi de 31,7 nos doentes tratados com abatacept e de 33,4 nos doentes tratados com placebo. O abatacept/metotrexato reduziu a taxa de progressão das lesões estruturais em comparação com o placebo/metotrexato após 12 meses de tratamento, tal como indicado na Tabela 4. A taxa de progressão de lesão estrutural no ano 2 foi significativamente inferior do que no ano 1 para os doentes aleatorizados para o abatacept (p &lt; 0,0001).
+ Tabela 4: Alterações radiográficas médias ao longo de 12 meses Abatacept/MTX Placebo/MTX
+ no estudo II Valor P a
+ Parâmetro n= 391 n= 195
+ Pontuação Total de Sharp 1,21 2,32 0,012 Pontuação da erosão Pontuação EEA a
+ 0,63 1,14 0,58 1,18
+ 0,029 0,009 Baseado numa análise não paramétrica.
+ Resposta da função física A melhoria na função física foi medida pelo Índice de Incapacidade do Questionário de Avaliação da Saúde (Health Assessment Questionnaire Disability Index-HAQ-DI) nos estudos II, III, IV e V, e pelo HAQ-DI modificado no estudo I. Os resultados obtidos nos estudos II e III são apresentados na Tabela 5.
+ 12
+ Tabela 5: Melhoria na função física nos ensaios controlados por Resposta inadequada ao
+ placebo Resposta inadequada ao
+ metrotexato Estudo II
+ agente bloqueador do FNT Estudo III
+ Abatacepta Abatacepta Índice de incapacidade do Placebo Placebo QASc +MTX
+ +MTX
+ +DMARDsb
+ +DMARDsb
+ Basal (Média) Melhoria média desde o basal (Referência)
+ 1,69 (n= 422) 1,69 (n= 212) 1,83 (n= 249) 1,82 (n= 130) 0,59 *** 0,45 *** Mês 6 0,40 0,11 Mês 12 Proporção de doentes com melhoria clinicamente significativad
+ (n= 420) 0,66 *** (n= 422)
+ (n= 211) 0,37 (n= 212)
+ (n= 249) NDe
+ (n= 130) NDe
+ Mês 6 61% *** 45% 47% *** 23% ***
+ Mês 12 64% *** 39% NDe NDe p &lt; 0,001, abatacept vs. placebo. a Dose fixa de aproximadamente 10 mg/kg (ver secção 4.2). b Os DMARDs concomitantes incluíram um ou mais dos seguintes: metotrexato, cloroquina/hidroxicloroquina, sulfassalazina, leflunomida, azatioprina, ouro e anacinra. c Questionário de Avaliação da Saúde; 0= melhor,3= pior; 20 perguntas; 8 categorias: vestir-se e arranjar-se, levantar-se, comer, andar, fazer a higiene, alcançar, agarrar e actividades. d Redução no HAQ-DI de ≥ 0,3 unidades em relação aos valores do basal. e Ao fim de seis meses, foi dada aos doentes a oportunidade de entrarem num estudo sem ocultação.
+ No estudo II, dos doentes com melhoria clinicamente significativa ao mês 12,88% mantiveram a resposta ao mês 18, e 85% mantiveram a resposta ao mês 24. Durante o período sem ocultação dos estudos I, II e III, a melhoria na função física foi mantida durante 48,24 e 18 meses, respectivamente.
+ Resultados relacionados com a saúde e qualidade de vida A qualidade de vida relacionada com a saúde foi avaliada pelo questionário SF-36 aos 6 meses nos estudos I, II e III, e aos 12 meses nos estudos I e II. Nestes estudos foi observada uma melhoria estatisticamente e clinicamente significativa no grupo do abatacept, em comparação com o grupo do placebo em todos os 8 domínios do SF-36 (4 domínios físicos: função física, desempenho físico, dores no corpo, saúde em geral; e 4 domínios mentais: vitalidade, função social, desempenho emocional e saúde mental), bem como no Resumo dos Componentes Físicos e no Resumo dos Componentes Mentais.
+ 5.2 Propriedades farmacocinéticas Após perfusões intravenosas múltiplas (dias 1,15,30 e depois cada 4 semanas), a farmacocinética do abatacept nos doentes com artrite reumatóide mostrou aumentos da Cmax e AUC proporcionais à dose, no intervalo posológico de 2 mg/kg a 10 mg/kg. Com 10 mg/kg, a média da semi-vida terminal foi de 13,1 dias, variando entre 8 e 25 dias. O volume de distribuição médio (Vss) foi de 0,07 l/kg e variou entre 0,02 e 0,13 l/kg. A depuração sistémica foi de aproximadamente 0,22 ml/h/kg. As concentrações médias no estado estacionário foram de, aproximadamente,25 μg/ml, e as concentrações Cmax médias de 290 μg/ml. Em doentes com artrite reumatóide não ocorreu acumulação sistémica do abatacept com o tratamento continuado com 10 mg/kg a intervalos mensais.
+ As análises farmacocinéticas populacionais revelaram que existia uma tendência para uma maior depuração do abatacept com o aumento do peso corporal. A idade e o sexo (quando corrigidos para o
+ 13 peso corporal) não afectaram a depuração. O metotrexato, os AINEs, os corticosteróides e os agentes bloqueadores do FNT não mostraram influenciar a depuração do abatacept.
+ A farmacocinética do abatacept não foi estudada em crianças e adolescentes. Não foram realizados estudos para examinar os efeitos do compromisso renal ou hepático na farmacocinética do abatacept.
+ 5.3 Dados de segurança pré-clínicos Não se observou mutagenicidade ou clastogenicidade com o abatacept numa série de estudos in vitro. Num estudo de carcinogenicidade no ratinho, ocorreu aumento na incidência de linfomas malignos e tumores nas glândulas mamárias (nas fêmeas). O aumento na incidência de linfomas e tumores mamários observados nos ratinhos tratados com abatacept pode ter estado associado com a diminuição do controlo do vírus da leucemia em murinos e do vírus do tumor mamário nos ratinhos, respectivamente, na presença de imunomodulação a longo prazo. Num estudo de toxicidade com a duração de um ano, realizado em macacos cinomolgos, o abatacept não esteve associado a nenhuma toxicidade significativa. Os efeitos farmacológicos reversíveis consistiram em decréscimos transitórios mínimos no nível de IgG sérico e na depleção linfóide mínima a grave dos centros germinais dos nódulos do baço e/ou linfóides. Não foi observada evidência de linfomas ou alterações morfológicas pre-neoplásicas, apesar da presença de um vírus, linfocriptovírus, que é conhecido por causar este tipo de lesões nos macacos imunodeprimidos, dentro do período de tempo deste estudo. Desconhece-se a relevância destes resultados para a utilização clínica de ORENCIA.
+ Nos ratos, o abatacept não causou efeitos indesejáveis na fertilidade dos machos ou das fêmeas. Foram realizados estudos de desenvolvimento embriofetal com o abatacept em ratinhos, ratos e coelhos, com doses 20 a 30 vezes superiores à dose humana de 10 mg/kg, não tendo sido observados efeitos indesejáveis nas crias. Nos ratos e coelhos, a exposição ao abatacept foi de até 29 vezes uma exposição humana de 10 mg/kg, com base na AUC. O abatacept mostrou atravessar a placenta em ratos e coelhos. Num estudo de desenvolvimento pré-e pós-natal com abatacept em ratos, não foram observados efeitos indesejáveis nas crias das fêmeas que tinham recebido abatacept em doses até 45 mg/kg, representando uma exposição 3 vezes superior à exposição humana de 10 mg/kg, com base na AUC. Com uma dose de 200 mg/kg, representando uma exposição 11 vezes superior à exposição humana de 10 mg/kg com base na AUC, foram observadas alterações limitadas na função imunitária (um aumento de 9 vezes na resposta média dos anticorpos dependentes das células T, nas crias do sexo feminino e inflamação da tiróide de uma cria do sexo feminino em cada 10 crias do sexo masculino e 10 crias do sexo feminino, avaliadas com esta dose).
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1. Lista dos excipientes Maltose Dihidrogenofosfato de sódio mono-hidratado Cloreto de sódio
+ 6.2 Incompatibilidades Na ausência de estudos de compatibilidade, este medicamento não deve ser misturado com outros medicamentos. A perfusão de ORENCIA não deverá ser feita concomitantemente com outros medicamentos na mesma linha intravenosa. ORENCIA NÃO deve ser utilizado com seringas siliconisadas (ver secção 6.6).
+ 6.3 Prazo de validade Frascos para injectáveis antes da abertura: 3 anos
+ 14 Após reconstituição: foi demonstrada estabilidade química e física durante 24 horas a 2°C-8°C. Do ponto de vista microbiológico, a solução reconstituída deve ser diluída de imediato.
+ Após diluição: quando a solução reconstituída é diluída de imediato, foi demonstrada estabilidade química e física durante 24 horas a 2°C-8°C. Do ponto de vista microbiológico, o medicamento deve ser utilizado de imediato.
+ 6.4 Precauções especiais de conservação
+ Conservar no frigorífico (2°C-8°C). Conservar na embalagem de origem para proteger da luz. Condições de conservação do medicamento reconstituído, ver secção 6.3.
+ 6.5 Natureza e conteúdo do recipiente 250 mg de pó num frasco para injectáveis (vidro do Tipo 1) com rolha (borracha de halobutilo) e selo" flip off" (alumínio) com uma seringa sem silicone (polietileno).
+ Embalagens com 1,2 ou 3 frascos para injectáveis (de 15 ml) e 1,2 ou 3 seringas sem silicone, respectivamente.
+ É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ A reconstituição e a diluição devem ser realizadas de acordo com as boas práticas, nomeadamente em relação à assépsia.
+ Reconstituição 1. Determinar a dose e o número de frascos para injectáveis de ORENCIA necessários (ver secção 4.2).
+ 2. Sob condições assépticas, reconstituir cada frasco para injectáveis com 10 ml de água para preparações injectáveis, utilizando a seringa sem silicone fornecida com cada frasco para injectáveis (ver secção 6.2) e uma agulha de 18-21 gauge.
+ -Remover a tampa do frasco para injectáveis e limpar o topo com um algodão embebido em álcool.
+ -Inserir a agulha da seringa no frasco para injectáveis pelo centro da rolha de borracha e direccionar o
+ jacto de água para preparações injectáveis para a parede de vidro do frasco para injectáveis.
+ -Não utilizar o frasco para injectáveis se não houver vácuo.
+ -Remover a seringa e a agulha após a introdução de 10 ml de água para preparações injectáveis.
+ -Para minimizar a formação de espuma nas soluções de ORENCIA, o frasco para injectáveis deve ser
+ suavemente rodado com movimentos circulares até o conteúdo estar completamente dissolvido. Não agitar. Evitar agitação prolongada ou vigorosa.
+ -Após completa dissolução do pó, a rolha do frasco para injectáveis deve ser perfurada com uma
+ agulha para dissipar qualquer espuma que possa estar presente.
+ -Após reconstituição a solução deve ser transparente e incolor a amarelo pálido. Não utilizar se
+ estiverem presentes partículas opacas, alteração da cor ou outras partículas.
+ Diluição 3. Imediatamente após a reconstituição, o medicamento tem de ser ainda diluído para 100 ml com solução injectável de cloreto de sódio 9 mg/ml (0,9%).
+ -De um saco ou frasco para perfusão de 100 ml retirar um volume de solução injectável de cloreto de
+ sódio 9 mg/ml (0,9%) igual ao volume dos fracos para injectáveis reconstituídos (para 2 frascos para injectáveis retirar 20 ml, para 3 frascos para injectáveis retirar 30 ml, para 4 frascos para injectáveis retirar 40 ml).
+ 15
+ -Lentamente, adicionar a solução de ORENCIA reconstituída de cada frasco para injectáveis para o
+ saco ou frasco de perfusão utilizando a mesma seringa sem silicone fornecida com cada frasco para injectáveis.
+ -Misturar suavemente. A concentração da solução de ORENCIA no saco ou frasco para perfusão,
+ após diluição total, será de aproximadamente 5, 7,5 ou 10 mg de abatacept por ml de solução, dependendo se são utilizados 2,3 ou 4 frascos para injectáveis.
+ -Qualquer solução não utilizada tem de ser imeditatamente rejeitada de acordo com as exigências
+ locais.
+ 4. Quando a reconstituição e a diluição são realizadas sob condições assépticas, a solução para perfusão de ORENCIA pode ser utilizada imediatamente ou até 24 horas se refrigerada de 2°C-8°C. Antes de ser administrada, a solução de ORENCIA deve ser inspeccionada visualmente quanto a partículas e a coloração. Rejeitar a solução se forem observadas partículas ou alteração da cor. Toda a solução de ORENCIA após diluição total deve ser administrada durante um período de 30 minutos e tem de ser administrada com um sistema de perfusão e um filtro esterilizado, apirogénico, com baixa ligação às proteínas (tamanho dos poros de 0,2 a 1,2 μm).
+ -Não conservar qualquer porção da solução para perfusão não utilizada para re-utilização.
+ Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Bristol-Myers Squibb Pharma EEIG Uxbridge Business Park Sanderson Road Uxbridge UB8 1DH Reino Unido
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/07/389/001-003 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 21/05/2007 10. DATA DA REVISÃO DO TEXTO Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia do Medicamento (EMEA) http: //www. emea. europa. eu/.
+ 16 ANEXO II
+ A. FABRICANTES DA SUBSTÂNCIA ACTIVA DE ORIGEM BIOLÓGICA E TITULAR DE AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 17 A FABRICANTES DA SUBSTÂNCIA ACTIVA DE ORIGEM BIOLÓGICA E TITULAR DE AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço dos fabricantes da substância activa de origem biológica
+ Bristol-Myers Squibb Company 6000 Thompson Road, East Syracuse New York 13057 EUA
+ Lonza Biologics Inc. 101 International Drive Portsmouth, NH 03801-2815 EUA
+ Nome e endereço do fabricante responsável pela libertação do lote
+ Bristol-Myers Squibb S. R. L. Contrada Fontana del Ceraso 03012 Anagni Itália
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento sujeito a receita médica restrita (ver anexo I: resumo das características do medicamento, secção 4.2).
+ • CONDIÇÕES OU RESTRIÇÕES relativas À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ O CHMP considera que um Cartão de Alerta do Doente deve ser fornecido e este está incluído no Anexo III.
+ • OUTRAS CONDIÇÕES
+ Sistema de Farmacovigilância O Titular da Autorização de Introdução no Mercado tem de assegurar que o sistema de farmacovigilância está estabelecido e a funcionar antes de colocar o medicamento no mercado.
+ Plano de Gestão do Risco O Titular da Autorização de Introdução no Mercado compromete-se a realizar os estudos e as actividades de farmacovigilância adicionais detalhadas no Plano de Farmacovigilância.
+ Deve ser fornecido um Plano de Gestão do Risco actualizado de acordo com a" Guideline on Risk Management Systems for medicinal products for human use" do Comité dos Medicamento para Uso Humano.
+ 18 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 19 A. ROTULAGEM
+ 20 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ EMBALAGEM EXTERIOR 1. DENOMINAÇÃO DO MEDICAMENTO ORENCIA 250 mg pó para concentrado para solução para perfusão Abatacept
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ Cada frasco para injectáveis contém 250 mg de abatacept.
+ 3. LISTA DOS EXCIPIENTES Excipientes: maltose, dihidrogenofosfato de sódio mono-hidratado e cloreto de sódio
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Pó para concentrado para solução para perfusão
+ 1 frasco para injectáveis 1 seringa esterilizada sem silicone
+ 2 frascos para injectáveis 2 seringas esterilizadas sem silicone
+ 3 frascos para injectáveis 3 seringas esterilizadas sem silicone
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via intravenosa após reconstituição e diluição. Consultar o folheto informativo antes de reconstituir e utilizar. Apenas para uma utilização. Para a reconstituição utilizar a seringa descartável sem silicone incluída na embalagem.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP 21 Ler o folheto informativo quanto à validade do medicamento após reconstituição.
+ 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico. Conservar na embalagem de origem para proteger da luz.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ Rejeitar qualquer solução não utilizada. 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Bristol-Myers Squibb Pharma EEIG Uxbridge Business Park Sanderson Road Uxbridge UB8 1 DH Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/07/389/001 EU/1/07/389/002 EU/1/07/389/003
+ 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE A justificação para não incluir a informação em Braille foi aceite
+ 22 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ RÓTULO DO TABULEIRO 1. DENOMINAÇÃO DO MEDICAMENTO ORENCIA 250 mg pó para concentrado para solução para perfusão Abatacept
+ 2. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Bristol-Myers Squibb Pharma EEIG 3. PRAZO DE VALIDADE EXP 4. NÚMERO DO LOTE Lote 5. OUTRAS Para a reconstituição utilizar a seringa descartável sem silicone incluída na embalagem. Conservar no frigorífico. Conservar na embalagem de origem para proteger da luz.
+ 23 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ RÓTULO DO FRASCO PARA INJECTÁVEIS 1. DENOMINAÇÃO DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ ORENCIA 250 mg pó para concentrado para solução para perfusão Abatacept Via intravenosa
+ 2. MODO DE ADMINISTRAÇÃO Consultar o folheto informativo. 3. PRAZO DE VALIDADE EXP 4. NÚMERO DO LOTE Lot 5. CONTEÚDO EM TERMOS DE PESO, VOLUME OU UNIDADE
+ 250 mg de abatacept 6. OUTRAS Para a reconstituição utilizar a seringa descartável sem silicone incluída na embalagem.
+ Bristol-Myers Squibb Pharma EEIG 24 TEXTO PARA O CARTÃO DE ALERTA DO DOENTE
+ Cartão de Alerta do doente sobre Orencia Infecções − Este cartão de alerta contém informação de segurança importante que necessitará de saber antes de ORENCIA lhe ser administrado e durante o tratamento com ORENCIA. • Mostre este cartão a qualquer médico
+ Se desenvolver sintomas sugestivos de infecções, tais como febre, tosse persistente, perda de peso ou apatia, procure cuidados médicos de imediato.
+ envolvido no seu tratamento.
+ Datas do tratamento com ORENCIA: Infecções Início: ORENCIA aumenta o risco de infecções. ____________________
+ -Não deve ser tratado com ORENCIA se
+ Mais recente: tiver infecções graves.
+ -Deve ser examinado quanto a certas ____________________
+ infecções antes do tratamento com ORENCIA, de acordo com orientações • Ver o folheto Informativo de ORENCIA relevantes. para informação adicional. • Certifique-se que também tem consigo uma Tuberculose: Desconhece-se a segurança de lista de todos os seus outros medicamentos ORENCIA em indivíduos com tuberculose quando procurar um profissional de saúde. latente. Deve ser examinado quanto a tuberculose latente antes do tratamento com Nome do Doente: ____________________ ORENCIA. É muito importante que informe Nome do Médico: ____________________ o seu médico caso já tenha tido tuberculose, ou se esteve em contacto próximo com Telefone do Médico: ____________________ alguém que teve tuberculose.
+ Hepatite: As terapêuticas anti-reumatismais foram associadas à re-activação da hepatite B. Deve ser examinado quanto a hepatite vírica de acordo com orientações publicadas.
+ Mantenha este cartão consigo durante 3 meses após a última dose de ORENCIA, uma vez que os efeitos secundários podem ocorrer muito tempo após a última dose de ORENCIA.
+ 25 B. FOLHETO INFORMATIVO
+ 26 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR ORENCIA 250 mg pó para concentrado para solução para perfusão Abatacept
+ Leia atentamente este folheto antes de utilizar o medicamento. Conserve este folheto. Pode ter necessidade de o reler. Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico. Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes prejudicial mesmo que apresentem os mesmos sintomas. Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é ORENCIA e para que é utilizado 2. Antes de utilizar ORENCIA 3. Como utilizar ORENCIA 4. Efeitos secundários possíveis 5. Como conservar ORENCIA 6. Outras informações
+ 1. O QUE É ORENCIA E PARA QUE É UTILIZADO
+ ORENCIA é um tratamento administrado por perfusão para adultos com artrite reumatóide moderada a grave e é utilizado em associação com um medicamento denominado metotrexato. O componente activo de ORENCIA, o abatacept, é uma proteína produzida em culturas celulares.
+ A artrite reumatóide é uma doença sistémica progressiva de longo prazo que, se não for tratada, pode levar a consequências graves, tais como destruição das articulações e aumento da incapacidade para realizar as actividades diárias. Nas pessoas com artrite reumatóide, o próprio sistema imunitário ataca os tecidos normais causando dor e inchaço das articulações. Esta situação pode causar lesão nas articulações. ORENCIA diminui o ataque do sistema imunitário aos tecidos normais interferindo com as células imunitárias (denominadas células T) que contribuem para o desenvolvimento de artrite reumatóide.
+ ORENCIA é utilizado após outro grupo de medicamentos denominados inibidores FNT. ORENCIA é utilizado para:
+ -atrasar a lesão nas articulações
+ -melhorar a função física
+ 2. ANTES DE UTILIZAR ORENCIA Não utilize ORENCIA Se tem alergia (hipersensibilidade) ao abatacept ou a qualquer outro componente. Se tem uma infecção grave ou não controlada, a terapêutica com ORENCIA não pode ser iniciada. A presença de uma infecção pode colocá-lo em risco de ter efeitos secundários graves com ORENCIA.
+ Tome especial cuidado com ORENCIA Se teve reacções alérgicas como aperto no peito, respiração ruidosa, tonturas graves ou atordoamento, inchaço ou erupção cutânea, informe o seu médico imediatamente. Se tem qualquer tipo de infecção, incluindo infecção de longa duração ou localizada, ou se tem infecções frequentemente. É importante que avise o seu médico se tiver quaisquer sintomas de infecção (ex. febre, mal-estar, problemas nos doentes). ORENCIA também pode diminuir a capacidade do organismo em combater infecções e o tratamento pode torná-lo mais susceptível a ter infecções ou agravar qualquer infecção que tenha.
+ 27 Se já teve tuberculose ou tem sintomas de tuberculose (tosse persistente, perda de peso, apatia, febre ligeira) informe o seu médico. Antes de utilizar ORENCIA, o seu médico irá examiná-lo quanto a uma possível tuberculose ou fazer um teste cutâneo. Se já teve hepatite viral informe o seu médico. Antes de utilizar ORENCIA, o seu médico poderá examiná-lo quanto a uma possível hepatite. Se já teve cancro. O seu médico decidirá se ORENCIA lhe poderá ser administrado. Se foi vacinado recentemente ou se planeia ser vacinado. Algumas vacinas não devem ser administradas durante o tratamento com ORENCIA. Confirme com o seu médico antes de receber quaisquer vacinas. Se está a utilizar um aparelho de medição de glucose no sangue para controlar os níveis de glucose no sangue. ORENCIA contém maltose, que é um tipo de açúcar que, com alguns aparelhos de medição de glucose no sangue, pode levar a falsas leituras de níveis elevados de glucose no sangue. O seu médico poderá recomendar um método diferente para monitorizar os seus níveis de glucose no sangue.
+ ORENCIA e idosos ORENCIA pode ser utilizado por pessoas com idade superior a 65 anos sem alteração na dose. Uma vez que os idosos são mais susceptíveis a infecções e cancro, ORENCIA deverá ser utilizado com precaução nesta população de doentes.
+ ORENCIA e crianças/adolescentes ORENCIA não foi estudado em doentes de idade inferior a 18 anos, pelo que ORENCIA não é recomendado nesta população de doentes.
+ Utilizar ORENCIA com outros medicamentos Informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica. ORENCIA não se destina a ser utilizado com medicamentos biológicos para a artrite reumatóide incluindo adalimumab, etanercept e infliximab; não há evidência suficiente para recomendar a co-administração com anacinra e rituximab. ORENCIA pode ser utilizado com outros medicamentos frequentemente utilizados no tratamento da artrite reumatóide, tais como esteróides ou medicamentos para as dores incluindo anti-inflamatórios não esteróides tais como o ibuprofeno ou diclofenac. Consulte o seu médico ou farmacêutico antes de tomar qualquer medicamento durante o tratamento com ORENCIA.
+ Gravidez e aleitamento Os efeitos de ORENCIA na gravidez não são conhecidos, pelo que não deverá utilizar ORENCIA se estiver grávida, a não ser que seja especificamente recomendado pelo seu médico. A gravidez deverá ser evitada durante o tratamento com ORENCIA. O seu médico irá aconselhá-la sobre os métodos contraceptivos adequados durante o tratamento com ORENCIA e nas 14 semanas após a última dose. Se engravidar durante o tratamento com ORENCIA informe o seu médico.
+ Desconhece-se se o abatacept, o componente activo, passa para o leite humano. Deverá interromper o aleitamento se estiver a ser medicada com ORENCIA e nas 14 semanas após a última dose.
+ Condução de veículos e utilização de máquinas Se se sentir cansado, ou se não se sentir bem após ter recebido ORENCIA, não deverá conduzir nem operar máquinas. Desconhece-se se ORENCIA irá afectar a capacidade de conduzir ou utilizar máquinas.
+ Informações importantes sobre alguns componentes de ORENCIA Este medicamento contém 1,5 mmol (ou 34,5 mg) de sódio por dose máxima de 4 frascos para injectáveis (0,375 mmol ou 8,625 mg de sódio por frasco para injectável). Deverá ser tido em consideração pelos doentes que estejam com uma dieta de ingestão de sódio controlada.
+ 28 3. COMO UTILIZAR ORENCIA
+ ORENCIA é fornecido como um pó para solução para perfusão. Assim, antes de ORENCIA ser administrado tem de ser dissolvido em água para preparações injectáveis, e depois ainda diluído em solução injectável de cloreto de sódio 9 mg/ml (0,9%).
+ A dose recomendada de abatacept é baseada no seu peso corporal:
+ Peso Dose Frascos para injectáveis Menos de 60 kg 60 kg-100 kg 500 mg 750 mg 2 3 Mais de 100 kg 1.000 mg 4 Como ORENCIA lhe é administrado
+ ORENCIA é administrado numa veia, habitualmente no braço, durante um período de 30 minutos. Este procedimento é chamado perfusão. Enquanto estiver a receber a perfusão de ORENCIA será monitorizado por profissionais de saúde.
+ Com que frequência ORENCIA lhe é administrado ORENCIA deverá ser-lhe novamente administrado 2 e 4 semanas após a primeira perfusão. Depois irá receber uma dose cada 4 semanas. O seu médico irá aconselhá-lo sobre a duração do tratamento e sobre os medicamentos que poderá continuar a tomar durante o tratamento com ORENCIA.
+ Se utilizar mais ORENCIA do que deveria No caso desta situação acontecer, o seu médico irá monitorizá-lo quanto a quaisquer sinais ou sintomas de efeitos secundários, e, caso necessário, tratar estes sintomas.
+ Caso se tenha esquecido de utilizar ORENCIA Caso não tenha recebido ORENCIA na altura devida, pergunte ao seu médico para calendarizar a próxima dose.
+ Se parar de utilizar ORENCIA A decisão de parar de utilizar ORENCIA deve ser discutida com o seu médico.
+ Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou farmacêutico.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como os demais medicamentos, ORENCIA pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas. Os efeitos secundários mais frequentes com ORENCIA são cefaleias e náuseas. Como os demais medicamentos que afectam o sistema imunitário, ORENCIA pode causar efeitos secundários graves que podem necessitar de tratamento.
+ Os possíveis efeitos secundários graves incluem infecções graves, neoplasias e reacções alérgicas.
+ Informe imediatamente o seu médico se detectar quaisquer dos seguintes: Erupção cutânea grave, urticária ou outros sinais de reacção alérgica Face, mãos ou pés inchados Dificuldades em respirar ou engolir
+ Informe o seu médico logo que possível se detectar quaisquer dos seguintes: Sinais de infecção, tais como febre, mal-estar, problemas nos dentes, sensação de ardor durante a micção, erupção cutânea dolorosa, vesícula cutânea dolorosa, tosse
+ 29 Os sintomas acima descritos podem ser sinais dos efeitos secundários abaixo listados, tendo sido todos observados com ORENCIA em ensaios clínicos:
+ Efeitos secundários muito frequentes (pelo menos 1 em 10 doentes): cefaleias.
+ Efeitos secundários frequentes (pelo menos 1 em 100 doentes e menos do que 1 em 10 doentes): infecções do nariz, garganta e pulmões, infecções urinárias, vesículas cutâneas dolorosas (herpes), rinite, tonturas, tensão arterial aumentada, rubor, tosse, náuseas, diarreia, mal-estar do estômago, dor abdominal, dor, erupção cutânea, fadiga, fraqueza e provas da função hepática anormais.
+ Efeitos frequentes pouco frequentes (pelo menos 1 em 1.000 doentes e menos do que 1 em 100 doentes): infecção nos doentes, úlcera cutânea infectada, infecções fúngicas das unhas, cancro cutâneo, contagem baixa das plaquetas, contagem baixa das células sanguíneas, reacções alérgicas, ansiedade, entorpecimento, urticária, inflamação ocular, secura do olho, diminuição da visão, palpitações, batimento cardíaco rápido, batimento cardíaco lento, rubor quente, úlceras na boca, tendência aumentada para contusões, perda de cabelo, secura da pele, dor nas articulações, dor nas extremidades, sintomas gripais, peso aumentado, reacções relacionadas com a perfusão, depressão, ausência de menstruação, enxaqueca, infecção renal, psoríase, dificuldade em respirar e aperto na garganta.
+ Efeitos secundários raros (pelo menos 1 em 10.000 e menos do que 1 em 1.000 doentes): infecção no sangue.
+ O seu médico também poderá efectuar testes para examinar os valores sanguíneos.
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR ORENCIA Manter fora do alcance e da vista das crianças.
+ Não utilize ORENCIA após o prazo de validade impresso no rótulo e na embalagem exterior, a seguir a EXP. O prazo de validade corresponde ao último dia do mês indicado.
+ Conservar no frigorífico (2ºC-8ºC). Conservar na embalagem de origem para proteger da luz.
+ Após reconstituição e diluição, a solução para perfusão é estável durante 24 horas no frigorífico, mas, por razões bacteriológicas é para ser utilizada imediatamente.
+ Não utilize ORENCIA se verificar partículas opacas, alteração da cor ou outras partículas na solução para perfusão.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de ORENCIA A substância activa é o abatacept. Cada frasco para injectáveis contém 250 mg de abatacept. Após reconstituição, cada ml contém 25 mg de abatacept.
+ Os outros componentes são maltose, dihidrogenofosfato de sódio mono-hidratado e cloreto de sódio.
+ 30 Qual o aspecto de ORENCIA e conteúdo da embalagem ORENCIA pó para concentrado para solução para perfusão é um pó branco a esbranquiçado que se pode apresentar sólido ou fragmentado em pedaços. ORENCIA está disponível em embalagens de 1,2 ou 3 frascos para injectáveis e é fornecido com, respectivamente,1,2 ou 3 seringas sem silicone.
+ É possível que não sejam comercializadas todas as apresentações.
+ Titular da Autorização de Introdução no Mercado e Fabricante Titular da Autorização de Introdução no Mercado: Bristol-Myers Squibb Pharma EEIG Uxbridge Business Park Sanderson Road Uxbridge UB8 1DH Reino Unido
+ Fabricante: Bristol-Myers Squibb S. R. L. Contrada Fontana del Ceraso I-03012 Anagni-Frosinone Itália
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado:
+ Belgique/België/Belgien BRISTOL-MYERS SQUIBB BELGIUM S. A./N. V. Tél/Tel:+ 32 2 352 74 60
+ Luxembourg/Luxemburg BRISTOL-MYERS SQUIBB BELGIUM S. A./N. V. Tél/Tel:+ 32 2 352 74 60
+ България BRISTOL-MYERS SQUIBB GYÓGYSZERKERESKEDELMI KFT. Teл.:+ 359 800 12 400
+ Magyarország BRISTOL-MYERS SQUIBB GYÓGYSZERKERESKEDELMI KFT. Tel.:+ 36 1 301 9700
+ Česká republika BRISTOL-MYERS SQUIBB SPOL. S R. O. Tel:+ 420 221 016 111
+ Malta BRISTOL-MYERS SQUIBB S. R. L. Tel:+ 39 06 50 39 61
+ Danmark BRISTOL-MYERS SQUIBB Tlf:+ 45 45 93 05 06
+ Nederland BRISTOL-MYERS SQUIBB BV Tel:+ 31 34 857 42 22
+ Deutschland BRISTOL-MYERS SQUIBB GMBH &amp; CO. KGAA Tel:+ 49 89 121 42-0
+ Norge BRISTOL-MYERS SQUIBB NORWAY LTD Tlf:+ 47 67 55 53 50
+ Eesti BRISTOL-MYERS SQUIBB GYÓGYSZERKERESKEDELMI KFT. Tel:+ 372 640 1301
+ Österreich BRISTOL-MYERS SQUIBB GESMBH Tel:+ 43 1 60 14 30
+ Ελλάδα BRISTOL-MYERS SQUIBB A. E. Τηλ:+ 30 210 6074300
+ Polska BRISTOL-MYERS SQUIBB POLSKA SP. Z O. O. Tel.:+ 48 22 5796666
+ 31 España BRISTOL-MYERS SQUIBB, S. A. Tel:+ 34 91 456 53 00
+ Portugal BRISTOL-MYERS SQUIBB FARMACÊUTICA PORTUGUESA, S. A. Tel:+ 351 21 440 70 00
+ France BRISTOL-MYERS SQUIBB SARL Tél:+ 33 (0) 810 410 500
+ România BRISTOL-MYERS SQUIBB GYÓGYSZERKERESKEDELMI KFT. Tel:+ 40 (0) 21 272 16 00
+ Ireland BRISTOL-MYERS SQUIBB PHARMACEUTICALS LTD Tel:+ 353 (1 800) 749 749
+ Slovenija BRISTOL-MYERS SQUIBB SPOL. S R. O. Tel:+ 386 1 236 47 00
+ Ísland VISTOR HF Sími:+ 354 535 7000
+ Slovenská republika BRISTOL-MYERS SQUIBB SPOL. S R. O. Tel:+ 421 2 59298411
+ Italia BRISTOL-MYERS SQUIBB S. R. L. Tel:+ 39 06 50 39 61
+ Suomi/Finland OY BRISTOL-MYERS SQUIBB (FINLAND) AB Puh/Tel:+ 358 9 251 21 230
+ Κύπρος ΑΚΗΣ ΠΑΝΑΓΙΩΤΟΥ &amp; ΥΙΟΣ Ε. Π. Ε. Τηλ:+ 357 22 677038
+ Sverige BRISTOL-MYERS SQUIBB AB Tel:+ 46 8 704 71 00
+ Latvija BRISTOL-MYERS SQUIBB GYÓGYSZERKERESKEDELMI KFT. Tel:+ 371 67 50 21 85
+ United Kingdom BRISTOL-MYERS SQUIBB PHARMACEUTICALS LTD Tel:+ 44 (0800) 731 1736
+ Lietuva BRISTOL-MYERS SQUIBB GYÓGYSZERKERESKEDELMI KFT. Tel:+ 370 5 2790 762
+ Este folheto foi aprovado pela última vez em{ MM/AAAA}
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia do Medicamento (EMEA) http: //www. emea. europa. eu
+ A informação que se segue destina-se apenas aos médicos e aos profissionais de saúde:
+ A reconstituição e a diluição devem ser realizadas de acordo com as boas práticas, nomeadamente em relação à assépsia.
+ Selecção da dose: ver secção 3" Como utilizar ORENCIA" do Folheto Informativo.
+ Reconstituição dos frascos para injectáveis: sob condições assépticas, reconstituir cada frasco para injectáveis com 10 ml de água para preparações injectáveis, utilizando a seringa sem silicone fornecida com cada frasco para injectáveis e uma agulha de 18-21 gauge. Remover a tampa do frasco para injectáveis e limpar o topo com um algodão embebido em álcool. Inserir a agulha da seringa no frasco para injectáveis pelo centro da rolha de borracha e direccionar o jacto de água para preparações injectáveis para a parede de vidro do frasco para injectáveis. Não utilizar o frasco para injectáveis se não houver vácuo. Remover a seringa e a agulha após a introdução de 10 ml de água
+ 32 para preparações injectáveis. Para minimizar a formação de espuma nas soluções de ORENCIA, o frasco para injectáveis deve ser suavemente rodado com movimentos circulares até o conteúdo estar completamente dissolvido. Não agitar. Evitar agitação prolongada ou vigorosa. Após completa dissolução do pó, a rolha do frasco para injectáveis deve ser perfurada com uma agulha para dissipar qualquer espuma que possa estar presente. Após reconstituição a solução deve ser transparente e incolor a amarelo pálido. Não utilizar se estiverem presentes partículas opacas, alteração da cor ou outras partículas.
+ Preparação da perfusão: imediatamente após a reconstituição, o medicamento tem de ser ainda diluído para 100 ml com solução injectável de cloreto de sódio 9 mg/ml (0,9%). De um saco ou frasco para perfusão de 100 ml retirar um volume de solução injectável de cloreto de sódio 9 mg/ml (0,9%) igual ao volume dos fracos para injectáveis de ORENCIA reconstituídos (para 2 frascos para injectáveis retirar 20 ml, para 3 frascos para injectáveis retirar 30 ml, para 4 frascos para injectáveis retirar 40 ml). Lentamente, adicionar a solução de ORENCIA reconstituída de cada frasco para injectáveis para o saco ou frasco de perfusão utilizando a mesma seringa sem silicone fornecida com cada frasco para injectáveis. Misturar suavemente. A concentração da solução de ORENCIA no saco ou frasco para perfusão, após diluição total, será de aproximadamente 5, 7,5 ou 10 mg de abatacept por ml de solução, dependendo se são utilizados 2,3 ou 4 frascos para injectáveis.
+ Administração: quando a reconstituição e a diluição são realizadas sob condições assépticas, a solução para perfusão de ORENCIA pode ser utilizada imediatamente ou até 24 horas se refrigerada de 2ºC a 8ºC. No entanto, por razões microbiológicas, deve ser utilizada imediatamente. Antes de ser administrada, a solução de ORENCIA deve ser visualmente inspeccionada quanto a partículas e a coloração. Rejeitar a solução se forem observadas partículas ou alteração da cor. Toda a solução de ORENCIA após diluição total deve ser administrada durante um período de 30 minutos e tem de ser administrada com um sistema de perfusão e um filtro esterilizado, apirogénico, com baixa ligação às proteínas (tamanho dos poros de 0,2 a 1,2 μm). Não conservar qualquer porção da solução para perfusão não utilizada para re-utilização.
+ Outros medicamentos: ORENCIA não deve ser misturado com outros medicamentos e a perfusão não deverá ser feita concomitantemente com outros medicamentos na mesma linha intravenosa. Não foram efectuados estudos de compatibilidade física ou bioquímica para avaliar a co-administração de ORENCIA com outros agentes.
+ Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 33

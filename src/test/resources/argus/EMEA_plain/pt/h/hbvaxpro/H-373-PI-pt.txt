@@ -1,0 +1,915 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. NOMEDO MEDICAMENTO
+ HBVAXPRO 5 microgramas/0,5 ml Suspensão injectável Vacina contra a hepatite B (ADNr)
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Uma dose (0,5 ml) contém: Antigénio de superfície do vírus da hepatite B, recombinante (AgHBs)* --------------5,00 microgramas Adsorvido em sulfato de hidroxifosfato de alumínio amorfo (0,25 miligrama Al+).
+ * produzido a partir da estirpe recombinante da levedura Saccharomyces cerevisiae (estirpe 2150-2-3)
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Suspensão injectável Suspensão ligeiramente opaca e branca.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Esta vacina está indicada na imunização activa contra a infecção provocada por todos os subtipos conhecidos do vírus da hepatite B, em crianças e adolescentes (desde a nascença até aos 15 anos de idade) considerados em situação de risco de exposição ao vírus da Hepatite B.
+ Os grupos de risco específico a serem imunizados devem ser determinados com base em recomendações oficiais.
+ É de esperar que a hepatite D seja igualmente prevenida pela imunização com HBVAXPRO pois a hepatite D (causada pelo agente delta) não ocorre na ausência de infecção com hepatite B.
+ 4.2 Posologia e modo de administração Posologia Crianças e adolescentes (desde o nascimento até aos 15 anos de idade): deve ser usada 1 dose (5 µg) de 0,5 ml em cada injecção.
+ Vacinação primária: O regime de vacinação deve incluir pelo menos três injecções.
+ Podem ser recomendados dois esquemas de imunização primária:
+ 0,1,6 meses: duas injecções com um intervalo de 1 mês; a terceira injecção é administrada 6 meses depois da primeira administração.
+ 0,1,2,12 meses: três injecções com um intervalo de um mês; a quarta dose deve ser administrada ao 12º mês.
+ 2 Recomenda-se que a vacina seja administrada de acordo com os esquemas indicados. Os lactentes que receberem o esquema acelerado (esquema de vacinação dos 0,1,2 meses) devem receber o reforço dos 12 meses, de forma a induzir títulos de anticorpos mais elevados.
+ Doses de Reforço: Vacinados imunocompetentes Não foi estabelecida a necessidade de uma dose de reforço em individuos saudáveis que receberam um primeiro regime de vacinação primária completo. Contudo, alguns esquemas nacionais de vacinação incluem actualmente uma recomendação de uma dose de reforço, devendo os mesmos ser respeitados.
+ Vacinados imuno-incompetentes (ex. doentes pré-diálise, doentes transplantados)
+ Em vacinados com sistema imunitário deficiente, deve ser considerada a administração de doses adicionais de vacina caso o nível de anticorpos contra o antigénio de superfície do vírus da hepatite B (anti-AgHBs) seja inferior a 10 UI/l.
+ Revacinação de não respondedores Quando indivíduos, que não respondem à série vacinal primária, são revacinados, 15-25% produzem uma resposta de anticorpos adequada após uma dose adicional e 30-50% após três doses adicionais. No entanto, dado existirem dados insuficientes relativamente à segurança da vacina anti-hepatite B quando se administram doses superiores à da série recomendada, a revacinação após completa a série primária não é por rotina recomendada. A revacinação deverá ser considerada para indivíduos em elevado risco, após a avaliação dos benefícios da vacinação contra o risco potencial de aumento de ocorrência de reacções adversas locais ou sistémicas.
+ Recomendações especiais de posologia: Recomendações de posologia para recém-nascidos de mães portadoras de vírus da hepatite B
+ -À nascença (no prazo de 24 horas), administrar uma dose de imunoglobulina da hepatite B.
+ -A primeira dose de vacina deve ser administrada nos 7 dias que se seguem ao nascimento,
+ podendo ser administrada em simultâneo com a imunoglobulina da hepatite B, à nascença, desde que em locais de injecção diferentes.
+ -As doses subsequentes de vacina deverão ser administradas de acordo com o esquema nacional
+ de vacinação.
+ Recomendação de posologia para exposição conhecida ou presumível ao vírus da hepatite B (p. e. através de agulha contaminada)
+ -A imunoglobulina da hepatite B deve ser administrada o mais cedo possível após a exposição
+ (no espaço de 24 horas).
+ -A primeira dose da vacina deve ser administrada no espaço de 7 dias após a exposição e pode
+ ser administrada simultaneamente com a imunoglobulina da hepatite B, mas num local de injecção diferente.
+ -Também se recomenda a análise serológica, com a administração de doses subsequentes da
+ vacina, caso sejam necessárias (i. e. dependendo da situação serológica do doente), para protecção a curto e longo prazo.
+ -No caso de indivíduos não vacinados ou incompletamente vacinados, doses adicionais devem
+ ser administradas de acordo com o esquema de imunização recomendado. Pode ser proposto o esquema acelerado, incluindo a dose de reforço dos 12 meses.
+ Modo de administração Esta vacina deve ser administrada por via intramuscular.
+ 3 A zona anterolateral da coxa é o local recomendado para a injecção intramuscular nos recém-nascidos e lactentes. O músculo deltóide é o local preferido para a injecção intramuscular, em crianças e adolescentes.
+ Não administrar por via intravenosa. Excepcionalmente, esta vacina pode ser injectada por via subcutânea a doentes com trombocitopénia ou com perturbações da coagulação.
+ Para instruções de preparação, ver secção 6.6.
+ 4.3 Contra-indicações -Hipersensibilidade à substância activa ou a qualquer um dos excipientes.
+ -Doença febril grave.
+ 4.4 Advertências e precauções especiais de utilização
+ Devido ao longo período de incubação da hepatite B, pode estar presente uma infecção não reconhecida à data da vacinação. Em tais casos, a vacina poderá não proteger da infecção da hepatite B.
+ A vacina não impedirá a infecção provocada por outros agentes, tais como os vírus da hepatite A, da hepatite C e da hepatite E, e de outros patogénicos que possam infectar o fígado.
+ Tal como em todas as vacinas injectáveis, deve ter-se sempre disponível, para uso imediato, tratamento médico adequado, no caso de se darem reacções anafilácticas raras após a administração da vacina.
+ Esta vacina pode conter vestígios de formaldeído e tiocianato de potássio que são utilizados durante o processo de fabrico. Por este motivo, podem ocorrer reacções de sensibilização.
+ Deve ser considerado o potencial risco para a ocorrência de apneia e a necessidade de monitorização respiratória durante 48-72 horas quando se administra a primovacinação a crianças nascidas muito prematuramente (nascidas &lt; de 28 semanas de gestação) e particularmente naquelas com antecedentes de imaturidade respiratória. Como o benefício da vacinação é elevado neste grupo pediátrico, a vacinação não deve deixar de ser realizada, nem deve ser adiada.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Esta vacina pode ser administrada: -com a imunoglobulina da hepatite B, mas em local de injecção diferente.
+ -para completar uma imunização primária, ou como dose de reforço em indivíduos pré-vacinados
+ com outra vacina contra a hepatite B.
+ -concomitantemente com outras vacinas, usando seringas e locais de administração diferentes.
+ A administração concomitante da vacina pneumocócica conjugada (PREVENAR) com a vacina contra a hepatite B utilizando os esquemas 0,1 e 6 e 0,1,2 e 12 meses não foi suficientemente estudada.
+ 4.6 Gravidez e aleitamento Não aplicável. 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não relevante. 4.8 Efeitos indesejáveis 4 Foram registados os seguintes efeitos adversos após o uso alargado da vacina.
+ Tal como acontece com outras vacinas contra a hepatite B, em muitos casos, não foi estabelecida qualquer relação causal entre estes efeitos e a vacina.
+ Doenças do sangue e do sistema linfático Muito raros (&lt; 1/10000) Trombocitopénia, linfadenopatia
+ Doenças do sistema imunitário Muito raros (&lt; 1/10000) Doença do soro, anafilaxia, poliarterite nodosa
+ Doenças do sistema nervoso Muito raros (&lt; 1/10000) Parestesia, paralisia de Bell, neuropatias periféricas (poliradiculoneurite, paralisia facial), neurite (incluindo síndroma de Guillain-Barré, neurite óptica, mielite incluindo mielite transversa), encefalite, doença desmielinizante do sistema nervoso central, exacerbação da esclerose múltipla, esclerose múltipla, convulsões, cefaleias, tonturas, sincope
+ Vasculopatias Muito raros (&lt; 1/10000) Hipotensão, vasculite
+ Doenças respiratórias, torácicas e do mediastino Muito raros (&lt; 1/10000) Sintomas semelhantes aos do broncospasmo, apneia em crianças nascidas muito prematuramente (&lt; 28 semanas de gestação) (ver secção 4.4).
+ Doenças gastrointestinais Muito raros (&lt; 1/10000) Vómitos, náuseas, diarreia, dores abdominais
+ Afecções dos tecidos cutâneos e subcutâneas Muito raros (&lt; 1/10000) Exantema, alopécia, prurido, urticária, eritema multiforme, angioedema, eczema
+ Afecções musculoesqueléticas e dos tecidos conjuntivos Muito raros (&lt; 1/10000) Artralgia, artrite, mialgia, dor nas extremidades
+ Perturbações gerais e alterações no local de administração Frequentes (&gt; 1/100, &lt; 1/10) Reacções locais (no local de injecção): dor transitória, eritema, endurecimento Muito raros (&lt; 1/10000) Fadiga, febre, mal-estar, sintomas semelhantes aos da gripe
+ Exames complementares de diagnóstico Muito raros (&lt; 1/10000) Aumento de enzimas hepáticos
+ 4.9 Sobredosagem Não foram observados casos de sobredosagem.
+ 5 5. PROPRIEDADES FARMACOLÓGICAS
+ 5.1 Propriedades farmacodinâmicas Gurpo farmaco-terapêutico: Anti-infeccioso, código ATC: J07BC01
+ A vacina induz anticorpos humorais específicos contra o antigénio de superfície do vírus da hepatite B (anti-AgHBs). O desenvolvimento de um título de anticorpos contra o antigénio de superfície do vírus da hepatite B (anti-AgHBs) igual ou superior a 10 IU/I, medido 1 a 2 meses após a última injecção, correlaciona-se com a protecção contra a infecção pelo vírus da hepatite B.
+ Estudos clínicos revelaram que 96% dos 1497 lactentes, crianças, adolescentes e adultos saudáveis, vacinados com as três doses de uma formulação anterior de vacina anti-hepatite B recombinante da Merck, desenvolveram um nível protector de anticorpos contra o antigénio de superfície do vírus da hepatite B (≥ 10 UI/I). Em dois ensaios clínicos, conduzidos em lactentes, utilizando esquemas posológicos diferentes e vacinas concomitantes, as proporções de lactentes com níveis protectores de antigénios foram 97,5% e 97,2% com títulos geométricos médios de 214 e 297 UI/l, respectivamente. A eficácia protectora de uma dose de imunoglobulina de hepatite B à nascença, seguida de 3 doses de uma formulação anterior de vacina anti-hepatite B recombinante da Merck, tem sido demonstrada em recém-nascidos de mães positivas para ambos, antigénio de superfície do vírus da hepatite B (AgHBs) e antigénio e do vírus da hepatite B (AgHBe). Entre os 130 lactentes vacinados, a eficácia estimada na prevenção da infecção crónica por hepatite B foi de 95%, comparada com a taxa de infecção registada nos controles não tratados.
+ Embora se desconheça a duração do efeito protector de uma formulação anterior de vacina anti-hepatite B recombinante da Merck nos vacinados saudáveis, estudos de seguimento, com duração de 5-9 anos, realizados em aproximadamente 3000 indivíduos de alto risco, a quem foi administrada uma vacina semelhante, derivada do plasma, revelaram a ausência, clinicamente aparente, de casos de infecção por hepatite B.
+ Além disso, a persistência da memória imunológica, em relação ao antigénio de superfície do vírus da hepatite B (AgHBs), induzida pela vacina, tem sido demonstrada através de uma resposta de anticorpos, anamnéstica, à dose de reforço de uma formulação anterior de vacina anti-hepatite B recombinante da Merck. Tal como para outras vacinas contra a hepatite B, a duração do efeito protector em vacinados saudáveis é actualmente desconhecida. A necessidade de uma dose de reforço de HBVAXPRO para além do reforço dos 12 meses requerido no esquema acelerado dos 0,1 e 2 meses ainda não está definida. Redução do risco de Carcinoma Hepatocelular O carcinoma hepatocelular é uma complicação grave da infecção por vírus da hepatite B. Estudos demonstraram a ligação entre a infecção crónica de hepatite B e o carcinoma hepatocelular e 80% dos carcinomas hepatocelulares são provocados pela infecção por vírus da hepatite B. A vacina anti-hepatite B foi reconhecida como a primeira vacina contra o cancro dado que pode prevenir o cancro primário do fígado.
+ 5.2 Propriedades farmacocinéticas Não se aplica 5.3 Dados de segurança pré-clínica Não se realizaram estudos no âmbito da reprodução animal, com a vacina.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1. Lista dos excipientes 6 Cloreto de sódio Bórax Água para preparações injectáveis
+ 6.2 Incompatibilidades Na ausência de estudos de compatibilidade, este medicamento não deve ser misturado com outros medicamentos.
+ 6.3 Prazo de validade 3 anos. 6.4 Precauções especiais de conservação
+ Conservar no frigorífico (2ºC – 8ºC). Não congelar.
+ 6.5 Natureza e conteúdo do recipiente 0,5 ml de suspensão em frasco para injectáveis (vidro tipo I). Embalagem de 1,10
+ 0,5 ml de suspensão em frasco para injectáveis (vidro tipo I) e uma seringa para injectáveis estéril, vazia, com agulha. Embalagem de 1. É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais de eliminação Antes de ser utilizada, a vacina deve ser agitada vigorosamente. Uma vez perfurado o frasco para injectáveis, a vacina retirada deve ser utilizada de imediato e o frasco para injectáveis deve ser rejeitado. Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ SANOFI PASTEUR MSD SNC 8, rue Jonas Salk F-69007 Lyon França
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/01/183/001 EU/1/01/183/018 EU/1/01/183/019
+ 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 27/04/2001 Data da última renovação: 04/08/2006
+ 7 10. DATA DA REVISÃO DO TEXTO
+ 8 1. NOME DO MEDICAMENTO
+ HBVAXPRO 5 microgramas/0,5 ml Suspensão injectável em seringa pré-cheia. Vacina contra a hepatite B (ADNr)
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Uma dose (0,5 ml) contém: Antigénio de superfície do vírus da hepatite B, recombinante (AgHBs)* --------------5,00 microgramas Adsorvido em sulfato de hidroxifosfato de alumínio amorfo (0,25 miligrama Al+).
+ * produzido a partir da estirpe recombinante da levedura Saccharomyces cerevisiae (estirpe 2150-2-3)
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Suspensão injectável em seringa pré-cheia. Suspensão ligeiramente opaca e branca.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Esta vacina está indicada na imunização activa contra a infecção provocada por todos os subtipos conhecidos do vírus da hepatite B, em crianças e adolescentes (desde a nascença até aos 15 anos de idade) considerados em situação de risco de exposição ao vírus da Hepatite B.
+ Os grupos de risco específico a serem imunizados devem ser determinados com base em recomendações oficiais.
+ É de esperar que a hepatite D seja igualmente prevenida pela imunização com HBVAXPRO pois a hepatite D (causada pelo agente delta) não ocorre na ausência de infecção com hepatite B.
+ 4.2 Posologia e modo de administração Posologia Crianças e adolescentes (desde o nascimento até aos 15 anos de idade): deve ser usada 1 dose (5 µg) de 0,5 ml em cada injecção.
+ Vacinação primária: O regime de vacinação deve incluir pelo menos três injecções.
+ Podem ser recomendados dois esquemas de imunização primária:
+ 0,1,6 meses: duas injecções com um intervalo de 1 mês; a terceira injecção é administrada 6 meses depois da primeira administração.
+ 0,1,2,12 meses: três injecções com um intervalo de um mês; a quarta dose deve ser administrada ao 12º mês.
+ 9 Recomenda-se que a vacina seja administrada de acordo com os esquemas indicados. Os lactentes que receberem o esquema acelerado (esquema de vacinação dos 0,1,2 meses) devem receber o reforço dos 12 meses, de forma a induzir títulos de anticorpos mais elevados.
+ Doses de Reforço: Vacinados imunocompetentes Não foi estabelecida a necessidade de uma dose de reforço em individuos saudáveis que receberam um primeiro regime de vacinação primária completo. Contudo, alguns esquemas nacionais de vacinação incluem actualmente uma recomendação de uma dose de reforço, devendo os mesmos ser respeitados.
+ Vacinados imuno-incompetentes (ex. doentes pré-diálise, doentes transplantados)
+ Em vacinados com sistema imunitário deficiente, deve ser considerada a administração de doses adicionais de vacina caso o nível de anticorpos contra o antigénio de superfície do vírus da hepatite B (anti-AgHBs) seja inferior a 10 UI/l.
+ Revacinação de não respondedores Quando indivíduos, que não respondem à série vacinal primária, são revacinados, 15-25% produzem uma resposta de anticorpos adequada após uma dose adicional e 30-50% após três doses adicionais. No entanto, dado existirem dados insuficientes relativamente à segurança da vacina anti-hepatite B quando se administram doses superiores à da série recomendada, a revacinação após completa a série primária não é por rotina recomendada. A revacinação deverá ser considerada para indivíduos em elevado risco, após a avaliação dos benefícios da vacinação contra o risco potencial de aumento de ocorrência de reacções adversas locais ou sistémicas.
+ Recomendações especiais de posologia: Recomendações de posologia para recém-nascidos de mães portadoras de vírus da hepatite B
+ -À nascença (no prazo de 24 horas), administrar uma dose de imunoglobulina da hepatite B.
+ -A primeira dose de vacina, deve ser administrada nos 7 dias que se seguem ao nascimento,
+ podendo ser administrada em simultâneo com a imunoglobulina da hepatite B, à nascença, desde que em locais de injecção diferentes.
+ -As doses subsequentes de vacina deverão ser administradas de acordo com o esquema nacional
+ de vacinação.
+ Recomendação de posologia para exposição conhecida ou presumível ao vírus da hepatite B (p. e. através de agulha contaminada)
+ -A imunoglobulina da hepatite B deve ser administrada o mais cedo possível após a exposição
+ (no espaço de 24 horas).
+ -A primeira dose da vacina deve ser administrada no espaço de 7 dias após a exposição e pode
+ ser administrada simultaneamente com a imunoglobulina da hepatite B, mas num local de injecção diferente.
+ -Também se recomenda a análise serológica, com a administração de doses subsequentes da
+ vacina, caso sejam necessárias (i. e. dependendo da situação serológica do doente), para protecção a curto e longo prazo.
+ -No caso de indivíduos não vacinados ou incompletamente vacinados, doses adicionais devem
+ ser administradas de acordo com o esquema de imunização recomendado. Pode ser proposto o esquema acelerado, incluindo a dose de reforço dos 12 meses.
+ Modo de administração Esta vacina deve ser administrada por via intramuscular.
+ 10 A zona anterolateral da coxa é o local recomendado para a injecção intramuscular nos recém-nascidos e lactentes. O músculo deltóide é o local preferido para a injecção intramuscular, em crianças e adolescentes.
+ Não administrar por via intravenosa. Excepcionalmente, esta vacina pode ser injectada por via subcutânea a doentes com trombocitopénia ou com perturbações da coagulação.
+ Para instruções de preparação, ver secção 6.6.
+ 4.3 Contra-indicações -Hipersensibilidade à substância activa ou a qualquer um dos excipientes.
+ -Doença febril grave
+ 4.4 Advertências e precauções especiais de utilização
+ Devido ao longo período de incubação da hepatite B, pode estar presente uma infecção não reconhecida à data da vacinação. Em tais casos, a vacina poderá não proteger da infecção da hepatite B.
+ A vacina não impedirá a infecção provocada por outros agentes, tais como os vírus da hepatite A, da hepatite C e da hepatite E, e de outros patogénios que possam infectar o fígado.
+ Tal como em todas as vacinas injectáveis, deve ter-se sempre disponível, para uso imediato, tratamento médico adequado, no caso de se darem reacções anafilácticas raras após a administração da vacina.
+ Esta vacina pode conter vestígios de formaldeído e tiocianato de potássio que são utilizados durante o processo de fabrico. Por este motivo, podem ocorrer reacções de sensibilização.
+ Deve ser considerado o potencial risco para a ocorrência de apneia e a necessidade de monitorização respiratória durante 48-72 horas quando se administra a primovacinação a crianças nascidas muito prematuramente (nascidas &lt; de 28 semanas de gestação) e particularmente naquelas com antecedentes de imaturidade respiratória. Como o benefício da vacinação é elevado neste grupo pediátrico, a vacinação não deve deixar de ser realizada, nem deve ser adiada.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Esta vacina pode ser administrada: -com a imunoglobulina da hepatite B, mas em local de injecção diferente.
+ -para completar uma imunização primária, ou como dose de reforço em indivíduos pré-vacinados
+ com outra vacina contra a hepatite B.
+ -concomitantemente com outras vacinas, usando seringas e locais de administração diferentes.
+ A administração concomitante da vacina pneumocócica conjugada (PREVENAR) com a vacina contra a hepatite B utilizando os esquemas 0,1 e 6 e 0,1,2 e 12 meses não foi suficientemente estudada.
+ 4.6 Gravidez e aleitamento Não aplicável. 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ 11 Não relevante.
+ 4.8 Efeitos indesejáveis Foram registados os seguintes efeitos adversos após o uso alargado da vacina.
+ Tal como acontece com outras vacinas contra a hepatite B, em muitos casos, não foi estabelecida qualquer relação causal entre estes efeitos e a vacina.
+ Doenças do sangue e do sistema linfático Muito raros (&lt; 1/10000) Trombocitopénia, linfadenopatia
+ Doenças do sistema imunitário Muito raros (&lt; 1/10000) Doença do soro, anafilaxia, poliarterite nodosa
+ Doenças do sistema nervoso Muito raros (&lt; 1/10000) Parestesia, paralisia de Bell, neuropatias periféricas (poliradiculoneurite, paralisia facial), neurite (incluindo síndroma de Guillain-Barré, neurite óptica, mielite incluindo mielite transversa), encefalite, doença desmielinizante do sistema nervoso central, exacerbação da esclerose múltipla, esclerose múltipla, convulsões, cefaleias, tonturas, sincope
+ Vasculopatias Muito raros (&lt; 1/10000) Hipotensão, vasculite
+ Doenças respiratórias, torácicas e do mediastino Muito raros (&lt; 1/10000) Sintomas semelhantes aos do broncospasmo, apneia em crianças nascidas muito prematuramente (&lt; 28 semanas de gestação) (ver secção 4.4).
+ Doenças gastrointestinais Muito raros (&lt; 1/10000) Vómitos, náuseas, diarreia, dores abdominais
+ Afecções dos tecidos cutâneos e subcutâneas Muito raros (&lt; 1/10000) Exantema, alopécia, prurido, urticária, eritema multiforme, angioedema, eczema
+ Afecções musculoesqueléticas e dos tecidos conjuntivos Muito raros (&lt; 1/10000) Artralgia, artrite, mialgia, dor nas extremidades
+ Perturbações gerais e alterações no local de administração Frequentes (&gt; 1/100, &lt; 1/10) Reacções locais (no local de injecção): dor transitória, edema, endurecimento Muito raros (&lt; 1/10000) Fadiga, febre, mal-estar, sintomas semelhantes aos da gripe
+ Exames complementares de diagnóstico Muito raros (&lt; 1/10000) Aumento de enzimas hepáticos
+ 4.9 Sobredosagem 12 Não foram observados casos de sobredosagem.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmaco-terapêutico: Anti-infeccioso, código ATC: J07BC01
+ A vacina induz anticorpos humorais específicos contra o antigénio de superfície do vírus da hepatite B (anti-AgHBs). O desenvolvimento de um título de anticorpos contra o antigénio de superfície do vírus da hepatite B (anti-AgHBs) igual ou superior a 10 IU/I, medido 1 a 2 meses após a última injecção, correlaciona-se com a protecção contra a infecção pelo vírus da hepatite B.
+ Estudos clínicos revelaram que 96% dos 1497 lactentes, crianças, adolescentes e adultos saudáveis, vacinados com as três doses de uma formulação anterior de vacina anti-hepatite B recombinante da Merck, desenvolveram um nível protector de anticorpos contra o antigénio de superfície do vírus da hepatite B (≥ 10 UI/I). Em dois ensaios clínicos, conduzidos em lactentes, utilizando esquemas posológicos diferentes e vacinas concomitantes, as proporções de lactentes com níveis protectores de antigénios foram 97,5% e 97,2% com títulos geométricos médios de 214 e 297 UI/l, respectivamente.
+ A eficácia protectora de uma dose de imunoglobulina de hepatite B à nascença, seguida de 3 doses de uma formulação anterior de vacina anti-hepatite B recombinante da Merck, tem sido demonstrada em recém-nascidos de mães positivas para ambos, antigénio de superfície do vírus da hepatite B (AgHBs) e antigénio e do vírus da hepatite B (AgHBe). Entre os 130 lactentes vacinados, a eficácia estimada na prevenção da infecção crónica por hepatite B foi de 95%, comparando com a taxa de infecção registada nos controles não tratados.
+ Embora se desconheça a duração do efeito protector de uma formulação anterior de vacina anti-hepatite B recombinante da Merck nos vacinados saudáveis, estudos de seguimento, com duração de 5-9 anos, realizados em aproximadamente 3000 indivíduos de alto risco, a quem foi administrada uma vacina semelhante, derivada do plasma, revelaram a ausência, clinicamente aparente, de casos de infecção por hepatite B.
+ Além disso, a persistência da memória imunológica, em relação ao antigénio de superfície do vírus da hepatite B (AgHBs), induzida pela vacina, tem sido demonstrada através de uma resposta de anticorpos, anamnéstica, à dose de reforço de uma formulação anterior de vacina anti-hepatite B recombinante da Merck. Tal como para outras vacinas contra a hepatite B, a duração do efeito protector em vacinados saudáveis é actualmente desconhecida. A necessidade de uma dose de reforço de HBVAXPRO para além do reforço dos 12 meses requerido no esquema acelerado dos 0,1 e 2 meses ainda não está definida.
+ Redução do risco de Carcinoma Hepatocelular O carcinoma hepatocelular é uma complicação grave da infecção por vírus da hepatite B. Estudos demonstraram a ligação entre a infecção crónica de hepatite B e o carcinoma hepatocelular e 80% dos carcinomas hepatocelulares são provocados pela infecção por vírus da hepatite B. A vacina anti-hepatite B foi reconhecida como a primeira vacina contra o cancro dado que pode prevenir o cancro primário do fígado.
+ 5.2 Propriedades farmacocinéticas Não se aplica 5.3 Dados de segurança pré-clínica Não se realizaram estudos no âmbito da reprodução animal, com a vacina.
+ 13 6. INFORMAÇÕES FARMACÊUTICAS
+ 6.1. Lista dos excipientes Cloreto de sódio Bórax Água para preparações injectáveis
+ 6.2 Incompatibilidades Na ausência de estudos de compatibilidade, este medicamento não deve ser misturado com outros medicamentos.
+ 6.3 Prazo de validade 3 anos. 6.4 Precauções especiais de conservação
+ Conservar no frigorífico (2ºC – 8ºC). Não congelar.
+ 6.5 Natureza e conteúdo do recipiente 0,5 ml de suspensão em seringa pré-cheia (vidro tipo I) sem agulha incorporada, com rolha êmbolo (clorobutilo). Embalagem de 1,10,20,50. 0,5 ml de suspensão em seringa pré-cheia (vidro tipo I), com uma agulha separada, com rolha êmbolo (clorobutilo). Embalagem de 1,10. 0,5 ml de suspensão em seringa pré-cheia (vidro tipo I), com duas agulhas separadas, com rolha êmbolo (clorobutilo). Embalagem de 1,10. É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais de eliminação Antes de ser utilizada, a vacina deve ser agitada vigorosamente. Segure a seringa e insira a agulha rodando na direcção dos ponteiros do relógio até que a agulha se fixe, com segurança, na seringa. Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ SANOFI PASTEUR MSD SNC 8, rue Jonas Salk F-69007 Lyon França
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/01/183/004 EU/1/01/183/005 EU/1/01/183/020 EU/1/01/183/021 EU/1/01/183/022
+ 14 EU/1/01/183/023 EU/1/01/183/024 EU/1/01/183/025
+ 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 27/04/2001 Data da última renovação: 04/08/2006
+ 10. DATA DA REVISÃO DO TEXTO 15 1. NOME DO MEDICAMENTO
+ HBVAXPRO 10 microgramas/ml Suspensão injectável Vacina contra a hepatite B (ADNr)
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Uma dose (1 ml) contém: Antigénio de superfície do vírus da hepatite B, recombinante (AgHBs)* ------10,00 microgramas Adsorvido em sulfato de hidroxifosfato de alumínio amorfo (0,50 miligrama Al+).
+ * produzido a partir da estirpe recombinante da levedura Saccharomyces cerevisiae (estirpe 2150-2-3)
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Suspensão injectável Suspensão ligeiramente opaca e branca.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Esta vacina está indicada na imunização activa contra a infecção provocada por todos os subtipos conhecidos do vírus da hepatite B, em adultos e adolescentes (idade igual ou superior a 16 anos) considerados em situação de risco de exposição ao vírus da Hepatite B.
+ Os grupos de risco específico a serem imunizados devem ser determinados com base em recomendações oficiais.
+ É de esperar que a hepatite D seja igualmente prevenida pela imunização com HBVAXPRO pois a hepatite D (causada pelo agente delta) não ocorre na ausência de infecção com hepatite B.
+ 4.2 Posologia e modo de administração Posologia Adultos e adolescentes (idade igual ou superior a 16 anos): deve ser usada 1 dose (10 µg) de 1 ml em cada injecção.
+ Vacinação primária: O regime de vacinação deve incluir, pelo menos, três injecções.
+ Podem ser recomendados dois esquemas de imunização primária:
+ 0,1,6 meses: duas injecções com um intervalo de 1 mês; a terceira injecção é administrada 6 meses depois da 1ª dose.
+ 0,1,2,12 meses: três injecções com um intervalo de um mês; a quarta dose deve ser administrada ao 12 mês.
+ 16 Recomenda-se que a vacina seja administrada de acordo com os esquemas indicados. Os que receberem o esquema acelerado (esquema de vacinação dos 0,1,2 meses) devem receber o reforço dos 12 meses, de forma a induzir títulos de anticorpos mais elevados.
+ Doses de Reforço: Vacinados imunocompetentes Não foi estabelecida a necessidade de uma dose de reforço em individuos saudáveis que receberam um primeiro regime de vacinação primária completo. Contudo, alguns esquemas nacionais de vacinação incluem actualmente uma recomendação de uma dose de reforço, devendo os mesmos ser respeitados.
+ Vacinados imuno-incompetentes (ex. Doentes em diálise, doentes transplantados)
+ Em vacinados com sistema imunitário deficiente, deve ser considerada a administração de doses adicionais de vacina caso o nível de anticorpos contra o antigénio de superfície do vírus da hepatite B (anti-AgHBs) seja inferior a 10 UI/l.
+ Revacinação de não respondedores Quando indivíduos, que não respondem à série vacinal primária, são revacinados, 15-25% produzem uma resposta de anticorpos adequada após uma dose adicional e 30-50% após três doses adicionais. No entanto, dado existirem dados insuficientes relativamente à segurança da vacina anti-hepatite B quando se administram doses em excesso da série recomendada, a revacinação após completa a série primária não é por rotina recomendada. A revacinação deverá ser considerada para indivíduos em elevado risco, após a avaliação dos benefícios da vacinação contra o risco potencial de aumento de ocorrência de reacções adversas locais ou sistémicas.
+ Recomendações especiais de posologia para exposição conhecida ou suspeita ao vírus da hepatite B (ex.: através de uma agulha contaminada):
+ -A imunoglobulina da hepatite B deve ser administrada logo que possível após a exposição (no
+ prazo de 24 horas).
+ -A primeira dose da vacina deve ser administrada nos 7 dias que se seguem à exposição,
+ podendo ser administrada em simultâneo com a imunoglobulina da hepatite B, desde que em locais de injecção diferentes.
+ -Também se recomenda a análise serológica, com a administração de doses subsequentes da
+ vacina, caso sejam necessárias (ie, dependendo da situação serológica do doente), para protecção a curto e longo prazo.
+ -No caso de indivíduos não vacinados ou incompletamente vacinados, doses adicionais devem
+ ser administradas de acordo com o esquema de imunização recomendado. Pode ser proposto o esquema de vacinação acelerado, incluindo a dose de reforço dos 12 meses.
+ Modo de administração Esta vacina deve ser administrada por via intramuscular. O músculo deltóide é o local preferido para a injecção intramuscular, em adultos e adolescentes.
+ Não administrar por via intravenosa. Excepcionalmente, esta vacina pode ser injectada por via subcutânea a doentes com trombocitopénia ou com perturbações da coagulação.
+ Para instruções de preparação, ver secção 6.6.
+ 4.3 Contra-indicações -Hipersensibilidade à substância activa ou a qualquer um dos excipientes.
+ 17
+ -Doença febril grave.
+ 4.4 Advertências e precauções especiais de utilização
+ Devido ao longo período de incubação da hepatite B, pode estar presente uma infecção não reconhecida à data da vacinação. Em tais casos, a vacina poderá não proteger da infecção da hepatite B.
+ Observou-se um número de factores que reduzem a resposta imunológica às vacinas contra a hepatite B. Estes factores incluem idade avançada, sexo masculino, obesidade, fumar, via de administração e algumas doenças crónicas subjacentes. Deve-se considerar a análise serológica dos indivíduos que possam estar em risco de não atingirem seroprotecção após um esquema completo de HBVAXPRO. Pode ser necessário considerar doses adicionais para pessoas que não respondam ou que tenham uma resposta sub-óptima a um esquema completo de vacinação.
+ A vacina não impedirá a infecção provocada por outros agentes, tais como os vírus da hepatite A, da hepatite C e da hepatite E, e de outros patogénicos que possam infectar o fígado.
+ Tal como em todas as vacinas injectáveis, deve ter-se sempre disponível tratamento médico adequado, para uso imediato, em caso de se darem reacções anafiláticas raras após a administração da vacina.
+ Esta vacina pode conter vestígios de formaldeído e tiocianato de potássio que são utilizados durante o processo de fabrico. Por este motivo, podem ocorrer reacções de sensibilização.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Esta vacina pode ser administrada: -com a imunoglobulina da hepatite B, mas em local de injecção diferente.
+ -para completar uma imunização primária, ou como dose de reforço em indivíduos pré-vacinados
+ com outra vacina contra a hepatite B.
+ -concomitantemente com outras vacinas habitualmente administradas nos adolescentes e adultos,
+ usando seringas e locais de administração diferentes.
+ 4.6 Gravidez e aleitamento No que respeita a antigénio de superfície do vírus da hepatite B (AgHBs), não existem dados clínicos sobre as gravidezes a ele expostas. No entanto, tal como acontece com todas as vacinas de vírus inactivado, não se espera que prejudique o feto. A sua utilização durante a gravidez, requer que os potenciais benefícios justifiquem os potenciais riscos para o feto. Este medicamento só deve ser receitado a mulheres grávidas com muita precaução.
+ Não foi avaliado o efeito, em lactentes, da administração da vacina a mães que amamentam; não foi estabelecida nenhuma contra-indicação.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas. No entanto, alguns efeitos raros mencionados no capítulo" Efeitos indesejáveis" poderão afectar a capacidade de condução ou utilização de máquinas.
+ 4.8 Efeitos indesejáveis Foram registados os seguintes efeitos adversos após o uso alargado da vacina.
+ Tal como acontece com outras vacinas contra a hepatite B, em muitos casos, não foi estabelecida qualquer relação causal entre estes efeitos e a vacina.
+ 18 Doenças do sangue e do sistema linfático Muito raros (&lt; 1/10000) Trombocitopénia, linfadenopatia
+ Doenças do sistema imunitário Muito raros (&lt; 1/10000) Doença do soro, anafilaxia, poliarterite nodosa
+ Doenças do sistema nervoso Muito raros (&lt; 1/10000) Parestesia, paralisia de Bell, neuropatias periféricas (poliradiculoneurite, paralisia facial), neurite (incluindo síndroma de Guillain-Barré, neurite óptica, mielite incluindo mielite transversa), encefalite, doença desmielinizante do sistema nervoso central, exacerbação da esclerose múltipla, esclerose múltipla, convulsões, cefaleias, tonturas, sincope
+ Vasculopatias Muito raros (&lt; 1/10000) Hipotensão, vasculite
+ Doenças respiratórias, torácicas e do mediastino Muito raros (&lt; 1/10000) Sintomas semelhantes aos do broncospasmo
+ Doenças gastrointestinais Muito raros (&lt; 1/10000) Vómitos, náuseas, diarreia, dores abdominais
+ Afecções dos tecidoscutâneos e subcutâneas Muito raros (&lt; 1/10000) Exantema, alopécia, prurido, urticária, eritema multiforme, angioedema, eczema
+ Afecções musculoesqueléticas e dos tecidos conjuntivos Muito raros (&lt; 1/10000) Artralgia, artrite, mialgia, dor nas extremidades
+ Perturbações gerais e alterações no local de administração Frequentes (&gt; 1/100, &lt; 1/10) Reacções locais (no local de injecção): dor transitória, edema, endurecimento Muito raros (&lt; 1/10000) Fadiga, febre, mal-estar, sintomas semelhantes aos da gripe
+ Exames complementares de diagnóstico Muito raros (&lt; 1/10000) Aumento de enzimas hepáticos
+ 4.9 Sobredosagem Não foram observados casos de sobredosagem.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmaco-terapêutico: Anti-infeccioso, código ATC: J07BC01
+ 19 A vacina induz anticorpos humorais específicos contra o antigénio de superfície do vírus da hepatite B (anti-AgHBs). O desenvolvimento de um título de anticorpos contra o antigénio de superfície do vírus da hepatite B (anti-AgHBs) igual ou superior a 10 IU/I, medido 1 a 2 meses após a última injecção, correlaciona-se com a protecção contra a infecção pelo vírus da hepatite B.
+ Estudos clínicos revelaram que 96% dos 1497 lactentes, crianças, adolescentes e adultos saudáveis, vacinados com as três doses de uma formulação anterior de vacina anti-hepatite B recombinante da Merck, desenvolveram um nível protector de anticorpos contra o antigénio de superfície do vírus da hepatite B (≥ 10 UI/I). Em dois ensaios clínicos, conduzidos em adolescentes de mais idade e adultos, 95, 6-97,5% dos vacinados desenvolveram um nível protector de anticorpos, com títulos geométricos médios nestes ensaios clínicos entre 535 – 793 UI/l.
+ Embora se desconheça a duração do efeito protector de uma formulação anterior de vacina anti-hepatite B recombinante da Merck nos vacinados saudáveis, estudos de seguimento, com duração de 5-9 anos, realizados em aproximadamente 3000 indivíduos de elevado risco, a quem foi administrada uma vacina semelhante, derivada do plasma, revelaram a ausência de casos de infecção por hepatite B clinicamente aparente.
+ Além disso, a persistência da memória imunológica, em relação ao antigénio de superfície do vírus da hepatite B (AgHBs), induzida pela vacina, tem sido demonstrada através de uma resposta de anticorpos, anamnéstica, à dose de reforço de uma formulação anterior de vacina anti-hepatite B recombinante da Merck, em adultos saudáveis. Tal como para outras vacinas contra a hepatite B, a duração do efeito protector em vacinados saudáveis é actualmente desconhecida. A necessidade de uma dose de reforço de HBVAXPRO para além do reforço dos 12 meses requerido no esquema acelerado dos 0,1 e 2 meses ainda não está definida. Redução do risco de Carcinoma Hepatocelular O carcinoma hepatocelular é uma complicação grave da infecção por vírus da hepatite B. Estudos demonstraram a ligação entre a infecção crónica de hepatite B e o carcinoma hepatocelular e 80% dos carcinomas hepatocelulares são provocados pela infecção por vírus da hepatite B. A vacina anti-hepatite B foi reconhecida como a primeira vacina contra o cancro dado que pode prevenir o cancro primário do fígado.
+ 5.2 Propriedades farmacocinéticas Não se aplica 5.3 Dados de segurança pré-clínica Não se realizaram estudos no âmbito da reprodução animal, com a vacina.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1. Lista dos excipientes Cloreto de sódio Bórax Água para preparações injectáveis
+ 6.2 Incompatibilidades Na ausência de estudos de compatibilidade, este medicamento não deve ser misturado com outros medicamentos.
+ 6.3 Prazo de validade 20 3 anos.
+ 6.4 Precauções especiais de conservação
+ Conservar no frigorífico (2ºC – 8ºC). Não congelar.
+ 6.5 Natureza e conteúdo do recipiente 1 ml de suspensão em frasco para injectáveis (vidro tipo I). Embalagem de 1,10. É possivel que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais de eliminação Antes de ser utilizada, a vacina deve ser agitada vigorosamente. Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ SANOFI PASTEUR MSD SNC 8, rue Jonas Salk F-69007 Lyon França
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/01/183/007 EU/1/01/183/008 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 27/04/2001 Data da última renovação: 04/08/2006
+ 10. DATA DA REVISÃO DO TEXTO 21 1. NOME DO MEDICAMENTO
+ HBVAXPRO 10 microgramas/ml Suspensão injectável em seringa pré-cheia. Vacina contra ahepatite B (ADNr)
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Uma dose (1 ml) contém: Antigénio de superfície do vírus da hepatite B, recombinante (AgHBs)* ------10,00 microgramas Adsorvido em sulfato de hidroxifosfato de alumínio amorfo (0,50 miligrama Al+).
+ * produzido a partir da estirpe recombinante da levedura Saccharomyces cerevisiae (estirpe 2150-2-3)
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Suspensão injectável em seringa pré-cheia. Suspensão ligeiramente opaca e branca.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Esta vacina está indicada na imunização activa contra a infecção provocada por todos os subtipos conhecidos do vírus da hepatite B, em adultos e adolescentes (idade igual ou superior a 16 anos) considerados em situação de risco de exposição ao vírus da Hepatite B.
+ Os grupos de risco específico a serem imunizados devem ser determinados com base em recomendações oficiais.
+ É de esperar que a hepatite D seja igualmente prevenida pela imunização com HBVAXPRO pois a hepatite D (causada pelo agente delta) não ocorre na ausência de infecção com hepatite B.
+ 4.2 Posologia e modo de administração Posologia Adultos e adolescentes (idade igual ou superior a 16 anos): deve ser usada 1 dose (10 µg) de 1 ml em cada injecção.
+ Vacinação primária: O regime de vacinação deve incluir, pelo menos, três injecções.
+ Podem ser recomendados dois esquemas de imunização primária:
+ 0,1,6 meses: duas injecções com um intervalo de 1 mês; a terceira injecção é administrada 6 meses depois da 1ª dose.
+ 0,1,2,12 meses: três injecções com um intervalo de um mês; a quarta dose deve ser administrada ao 12º mês.
+ 22 Recomenda-se que a vacina seja administrada de acordo com os esquemas indicados. Os que receberem o esquema acelerado (esquema de vacinação dos 0,1,2 meses) devem receber o reforço dos 12 meses, de forma a induzir títulos de anticorpos mais elevados.
+ Doses de Reforço: Vacinados imunocompetentes Não foi estabelecida a necessidade de uma dose de reforço em indivíduos saudáveis que receberam um primeiro regime de vacinação primária completo. Contudo, alguns esquemas nacionais de vacinação incluem actualmente uma recomendação de uma dose de reforço, devendo os mesmos ser respeitados.
+ Vacinados imuno-incompetentes (ex. Doentes em diálise, doentes transplantados)
+ Em vacinados com sistema imunitário deficiente, deve ser considerada a administração de doses adicionais de vacina caso o nível de anticorpos contra o antigénio de superfície do vírus da hepatite B (anti-AgHBs) seja inferior a 10 UI/l.
+ Revacinação de não respondedores Quando indivíduos, que não respondem à série vacinal primária, são revacinados, 15-25% produzem uma resposta de anticorpos adequada após uma dose adicional e 30-50% após três doses adicionais. No entanto, dado existirem dados insuficientes relativamente à segurança da vacina anti-hepatite B quando se administram doses em excesso da série recomendada, a revacinação após completa a série primária não é por rotina recomendada. A revacinação deverá ser considerada para indivíduos em elevado risco, após a avaliação dos benefícios da vacinação contra o risco potencial de aumento de ocorrência de reacções adversas locais ou sistémicas.
+ Recomendações especiais de posologia para exposição conhecida ou suspeita ao vírus da hepatite B (ex.: através de uma agulha contaminada)
+ -A imunoglobulina da hepatite B deve ser administrada logo que possível após a exposição (no
+ prazo de 24 horas).
+ -A primeira dose da vacina deve ser administrada nos 7 dias que se seguem à exposição,
+ podendo ser administrada em simultâneo com a imunoglobulina da hepatite B, desde que em locais de injecção diferentes.
+ -Também se recomenda a análise serológica, com a administração de doses subsequentes da
+ vacina, caso sejam necessárias (i. e., dependendo da situação serológica do doente), para protecção a curto e longo prazo.
+ -No caso de indivíduos não vacinados ou incompletamente vacinados, doses adicionais devem
+ ser administradas de acordo com o esquema de imunização recomendado. Pode ser proposto o esquema de vacinação acelerado, incluindo a dose de reforço dos 12 meses.
+ Modo de administração Esta vacina deve ser administrada por via intramuscular. O músculo deltóide é o local preferido para a injecção intramuscular, em adultos e adolescentes.
+ Não administrar por via intravenosa. Excepcionalmente, esta vacina pode ser injectada por via subcutânea a doentes com trombocitopénia ou com perturbações da coagulação.
+ Para instruções de preparação, ver secção 6.6.
+ 4.3 Contra-indicações -Hipersensibilidade à substância activa ou a qualquer um dos excipientes.
+ 23
+ -Doença febril grave.
+ 4.4 Advertências e precauções especiais de utilização
+ Devido ao longo período de incubação da hepatite B, pode estar presente uma infecção não reconhecida à data da vacinação. Em tais casos, a vacina poderá não proteger da infecção da hepatite B.
+ Observou-se um número de factores que reduzem a resposta imunológica às vacinas contra a hepatite B. Estes factores incluem idade avançada, sexo masculino, obesidade, fumar, via de administração e algumas doenças crónicas subjacentes. Deve-se considerar a análise serológica dos indivíduos que possam estar em risco de não atingirem seroprotecção após um esquema completo de HBVAXPRO. Pode ser necessário considerar doses adicionais para pessoas que não respondam ou que tenham uma resposta sub-óptima a um esquema completo de vacinação.
+ A vacina não impedirá a infecção provocada por outros agentes, tais como os vírus da hepatite A, da hepatite C e da hepatite E, e de outros patogénios que possam infectar o fígado.
+ Tal como em todas as vacinas injectáveis, deve ter-se sempre disponível tratamento médico adequado, para uso imediato, em caso de se darem reacções anafiláticas raras após a administração da vacina.
+ Esta vacina pode conter vestígios de formaldeído e tiocianato de potássio que são utilizados durante o processo de fabrico. Por este motivo, podem ocorrer reacções de sensibilização.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Esta vacina pode ser administrada: -com a imunoglobulina da hepatite B, mas em local de injecção diferente.
+ -para completar uma imunização primária, ou como dose de reforço em indivíduos pré-vacinados
+ com outra vacina contra a hepatite B.
+ -concomitantemente com outras vacinas habitualmente administradas nos adolescentes e adultos,
+ usando seringas e locais de administração diferentes.
+ 4.6 Gravidez e aleitamento No que respeita a antigénio de superfície do vírus da hepatite B (AgHBs), não existem dados clínicos sobre as gravidezes a ele expostas. No entanto, tal como acontece com todas as vacinas de vírus inactivado, não se espera que prejudique o feto. A sua utilização durante a gravidez, requer que os potenciais benefícios justifiquem os potenciais riscos para o feto. Este medicamento só deve ser receitado a mulheres grávidas com muita precaução.
+ Não foi avaliado o efeito, em lactentes, da administração da vacina a mães que amamentam; não foi estabelecida nenhuma contra-indicação.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas. No entanto, alguns efeitos raros mencionados no capítulo" Efeitos indesejáveis" poderão afectar a capacidade de condução ou utilização de máquinas.
+ 4.8 Efeitos indesejáveis Foram registados os seguintes efeitos adversos após o uso alargado da vacina.
+ Tal como acontece com outras vacinas contra a hepatite B, em muitos casos, não foi estabelecida qualquer relação causal entre estes efeitos e a vacina.
+ 24 Doenças do sangue e do sistema linfático Muito raros (&lt; 1/10000) Trombocitopénia, linfadenopatia
+ Doenças do sistema imunitário Muito raros (&lt; 1/10000) Doença do soro, anafilaxia, poliarterite nodosa
+ Doenças do sistema nervoso Muito raros (&lt; 1/10000) Parestesia, paralisia de Bell, neuropatias periféricas (poliradiculoneurite, paralisia facial), neurite (incluindo síndroma de Guillain-Barré, neurite óptica, mielite incluindo mielite transversa), encefalite, doença desmielinizante do sistema nervoso central, exacerbação da esclerose múltipla, esclerose múltipla, convulsões, cefaleias, tonturas, sincope
+ Vasculopatias Muito raros (&lt; 1/10000) Hipotensão, vasculite
+ Doenças respiratórias, torácicas e do mediastino Muito raros (&lt; 1/10000) Sintomas semelhantes aos do broncospasmo
+ Doenças gastrointestinais Muito raros (&lt; 1/10000) Vómitos, náuseas, diarreia, dores abdominais
+ Afecções dos tecidos cutâneos e subcutâneas Muito raros (&lt; 1/10000) Exantema, alopécia, prurido, urticária, eritema multiforme, angioedema, eczema
+ Afecções musculoesqueléticas e dos tecidos conjuntivos Muito raros (&lt; 1/10000) Artralgia, artrite, mialgia, dor nas extremidades
+ Perturbações gerais e alterações no local de administração Frequentes (&gt; 1/100, &lt; 1/10) Reacções locais (no local de injecção): dor transitória, edema, endurecimento Muito raros (&lt; 1/10000) Fadiga, febre, mal-estar, sintomas semelhantes aos da gripe
+ Exames complementares de diagnóstico Muito raros (&lt; 1/10000) Aumento de enzimas hepáticos
+ 4.9 Sobredosagem Não foram observados casos de sobredosagem.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmaco-terapêutico: Anti-infeccioso, código ATC: J07BC01
+ 25 A vacina induz anticorpos humorais específicos contra o antigénio de superfície do vírus da hepatite B (anti-AgHBs). O desenvolvimento de um título de anticorpos contra o antigénio de superfície do vírus da hepatite B (anti-AgHBs) igual ou superior a 10 IU/I, medido 1 a 2 meses após a última injecção, correlaciona-se com a protecção contra a infecção pelo vírus da hepatite B.
+ Estudos clínicos revelaram que 96% dos 1497 lactentes, crianças, adolescentes e adultos saudáveis, vacinados com as três doses de uma formulação anterior de vacina anti-hepatite B recombinante da Merck, desenvolveram um nível protector de anticorpos contra o antigénio de superfície do vírus da hepatite B (≥ 10 UI/I). Em dois ensaios clínicos, conduzidos em adolescentes de mais idade e adultos, 95, 6-97,5% dos vacinados desenvolveram um nível protector de anticorpos, com títulos geométricos médios nestes ensaios clínicos entre 535 – 793 UI/l.
+ Embora se desconheça a duração do efeito protector de uma formulação anterior de vacina anti-hepatite B recombinante da Merck nos vacinados saudáveis, estudos de seguimento, com duração de 5-9 anos, realizados em aproximadamente 3000 indivíduos de elevado risco, a quem foi administrada uma vacina semelhante, derivada do plasma, revelaram a ausência de casos de infecção por hepatite B clinicamente aparente.
+ Além disso, a persistência da memória imunológica, em relação ao antigénio de superfície do vírus da hepatite B (AgHBs), induzida pela vacina, tem sido demonstrada através de uma resposta de anticorpos, anamnéstica, à dose de reforço de uma formulação anterior de vacina anti-hepatite B recombinante da Merck, em adultos saudáveis. Tal como para outras vacinas contra a hepatite B, a duração do efeito protector em vacinados saudáveis é actualmente desconhecida. A necessidade de uma dose de reforço de HBVAXPRO para além do reforço dos 12 meses requerido no esquema acelerado dos 0,1 e 2 meses ainda não está definida.
+ Redução do risco de Carcinoma Hepatocelular O carcinoma hepatocelular é uma complicação grave da infecção por vírus da hepatite B. Estudos demonstraram a ligação entre a infecção crónica de hepatite B e o carcinoma hepatocelular e 80% dos carcinomas hepatocelulares são provocados pela infecção por vírus da hepatite B. A vacina anti-hepatite B foi reconhecida como a primeira vacina contra o cancro dado que pode prevenir o cancro primário do fígado.
+ 5.2 Propriedades farmacocinéticas Não se aplica 5.3 Dados de segurança pré-clínica Não se realizaram estudos no âmbito da reprodução animal, com a vacina.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1. Lista dos excipientes Cloreto de sódio Bórax Água para preparações injectáveis
+ 6.2 Incompatibilidades Na ausência de estudos de compatibilidade, este medicamento não deve ser misturado com outros medicamentos.
+ 6.3 Prazo de validade 26 3 anos.
+ 6.4 Precauções especiais de conservação
+ Conservar no frigorífico (2 ºC – 8 ºC). Não congelar.
+ 6.5 Natureza e conteúdo do recipiente 1 ml de suspensão em seringa pré-cheia (vidro tipo I) sem agulha incorporada, com rolha êmbolo (clorobutil). Embalagem de 1,10. 1 ml de suspensão em seringa pré-cheia (vidro tipo I) com uma agulha separada, com rolha êmbolo (clorobutil). Embalagem de 1,10. 1 ml de suspensão em seringa pré-cheia (vidro tipo I) com duas agulhas separadas, com rolha êmbolo (clorobutil). Embalagem de 1,10. É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais de eliminação Antes de ser utilizada, a vacina deve ser agitada vigorosamente. Segure a seringa e insira a agulha rodando na direcção dos ponteiros do relógio, até que a agulha se fixe, com segurança, na seringa. Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ SANOFI PASTEUR MSD SNC 8, rue Jonas Salk F-69007 Lyon França
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/01/183/011 EU/1/01/183/013 EU/1/01/183/026 EU/1/01/183/027 EU/1/01/183/028 EU/1/01/183/029
+ 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 27/04/2001 Data da última renovação: 04/08/2006
+ 10. DATA DA REVISÃO DO TEXTO 27 1. NOME DO MEDICAMENTO
+ HBVAXPRO 40 microgramas/ml Suspensão injectável Vacina contra a hepatite B (ADNr)
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Uma dose (1 ml) contém: Antigénio de superfície do vírus da hepatite B, recombinante (AgHBs)* -----40,00 microgramas Adsorvido em sulfato de hidroxifosfato de alumínio amorfo (0,50 miligrama Al+).
+ * produzido a partir da estirpe recombinante da levedura Saccharomyces cerevisiae (estirpe 2150-2-3)
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Suspensão injectável Suspensão ligeiramente opaca e branca.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Esta vacina está indicada na imunização activa contra a infecção provocada por todos os subtipos conhecidos do vírus da hepatite B, em doentes adultos em pré-diálise e diálise
+ É de esperar que a hepatite D seja igualmente prevenida pela imunização com HBVAXPRO pois a hepatite D (causada pelo agente delta) não ocorre na ausência de infecção com hepatite B.
+ 4.2 Posologia e modo de administração Posologia Doentes adultos em pré-diálise e diálise: deve ser usada 1 dose (40 µg) de 1 ml em cada administração.
+ Vacinação primária: Um regime de vacinação deve incluir três injecções: Esquema 0,1,6 meses: duas injecções com um intervalo de 1 mês; a terceira injecção é administrada 6 meses depois da 1ª dose.
+ Doses de reforço: Deve-se considerar uma dose de reforço nestes vacinados, caso o nível de anticorpos contra o antigénio de superfície do vírus da hepatite B (anti-AgHBs), após a série primária, seja inferior a 10 UI/l.
+ De acordo com a prática clínica padrão para a administração de vacina contra a Hepatite B, deve-se efectuar a determinação regular de anticorpos em doentes em hemodiálise. Deve ser administrada uma dose de reforço quando os níveis de anticorpos diminuem abaixo de 10 UI/l.
+ 28 Recomendação de posologia para exposição conhecida ou presumível ao vírus da hepatite B (p. e. através de agulha contaminada):
+ -A imunoglobulina da hepatite B deve ser administrada o mais cedo possível após a exposição
+ (no espaço de 24 horas).
+ -A primeira dose da vacina deve ser administrada no espaço de 7 dias após a exposição e pode
+ ser administrada simultaneamente com a imunoglobulina da hepatite B, mas num local de injecção diferente.
+ -Também se recomenda a análise serológica, com a administração de doses subsequentes da
+ vacina, caso sejam necessárias (i. e., dependendo da situação serológica do doente), para protecção a curto e longo prazo.
+ -No caso de indivíduos não vacinados ou incompletamente vacinados, doses adicionais devem
+ ser administradas de acordo com o esquema de imunização recomendado.
+ Modo de administração Esta vacina deve ser administrada por via intramuscular. O músculo deltóide é o local preferido para a injecção intramuscular, em adultos.
+ Não administrar por via intravenosa. Excepcionalmente, esta vacina pode ser injectada por via subcutânea a doentes com trombocitopénia ou com perturbações da coagulação.
+ Para instruções de preparação, ver secção 6.6.
+ 4.3 Contra-indicações -Hipersensibilidade à substância activa ou a qualquer um dos excipientes.
+ -Doença febril grave.
+ 4.4 Advertências e precauções especiais de utilização
+ Devido ao longo período de incubação da hepatite B, pode estar presente uma infecção não reconhecida à data da vacinação. Em tais casos, a vacina poderá não proteger da infecção da hepatite B.
+ A vacina não impedirá a infecção provocada por outros agentes, tais como os vírus da hepatite A, da hepatite C e da hepatite E, e de outros patogénios que possam infectar o fígado.
+ Tal como em todas as vacinas injectáveis, deve ter-se sempre disponível tratamento médico adequado, para uso imediato, em caso de se darem reacções anafiláticas raras após a administração da vacina.
+ Esta vacina pode conter vestígios de formaldeído e tiocianato de potássio que são utilizados durante o processo de fabrico. Por este motivo, podem ocorrer reacções de sensibilização.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Esta vacina pode ser administrada: -com a imunoglobulina da hepatite B, mas em local de injecção diferente.
+ -para completar uma imunização primária, ou como dose de reforço em indivíduos pré-vacinados
+ com outra vacina contra a hepatite B.
+ -concomitantemente com outras vacinas habitualmente administradas nos adolescentes e adultos,
+ usando seringas e locais de administração diferentes.
+ 4.6 Gravidez e aleitamento 29 No que respeita a antigénio de superfície do vírus da hepatite B (AgHBs), não existem dados clínicos sobre as gravidezes a ele expostas. No entanto, tal como acontece com todas as vacinas de vírus inactivado, não se espera que prejudique o feto. A sua utilização durante a gravidez, requer que os potenciais benefícios justifiquem os potenciais riscos para o feto. Este medicamento só deve ser receitado a mulheres grávidas com muita precaução.
+ Não foi avaliado o efeito, em lactentes, da administração da vacina a mães que amamentam; não foi estabelecida nenhuma contra-indicação.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os ofeitos sobre a capacidade de conduzir e utilizar máquinas. No entanto, alguns efeitos raros mencionados no capítulo" Efeitos indesejáveis" poderão afectar a capacidade de condução ou utilização de máquinas.
+ 4.8 Efeitos indesejáveis Foram registados os seguintes efeitos adversos após o uso alargado da vacina.
+ Tal como acontece com outras vacinas contra a hepatite B, em muitos casos, não foi estabelecida qualquer relação causal entre estes efeitos e a vacina.
+ Doenças do sangue e do sistema linfático Muito raros (&lt; 1/10000) Trombocitopénia, linfadenopatia
+ Doenças do sistema imunitário Muito raros (&lt; 1/10000) Doença do soro, anafilaxia, poliarterite nodosa
+ Doenças do sistema nervoso Muito raros (&lt; 1/10000) Parestesia, paralisia de Bell, neuropatias periféricas (poliradiculoneurite, paralisia facial), neurite (incluindo síndroma de Guillain-Barré, neurite óptica, mielite incluindo mielite transversa), encefalite, doença desmielinizante do sistema nervoso central, exacerbação da esclerose múltipla, esclerose múltipla, convulsões, cefaleias, tonturas, sincope
+ Vasculopatias Muito raros (&lt; 1/10000) Hipotensão, vasculite
+ Doenças respiratórias, torácicas e do mediastino Muito raros (&lt; 1/10000) Sintomas semelhantes aos do broncospasmo
+ Doenças gastrointestinais Muito raros (&lt; 1/10000) Vómitos, náuseas, diarreia, dores abdominais
+ Afecções dos tecidos cutâneos e subcutâneas Muito raros (&lt; 1/10000) Exantema, alopécia, prurido, urticária, eritema multiforme, angioedema, eczema
+ Afecções musculoesqueléticas e do tecido conjuntivo Muito raros (&lt; 1/10000) Artralgia, artrite, mialgia, dor nas extremidades
+ 30 Perturbações gerais e alterações no local de administração Frequentes (&gt; 1/100, &lt; 1/10) Reacções locais (no local de injecção): dor transitória, edema, endurecimento Muito raros (&lt; 1/10000) Fadiga, febre, mal-estar, sintomas semelhantes aos da gripe
+ Exames complementares de diagnóstico Muito raros (&lt; 1/10000) Aumento de enzimas hepáticos
+ 4.9 Sobredosagem Não foram observados casos de sobredosagem.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmaco-terapêutico: Anti-infeccioso, código ATC: J07BC01
+ A vacina induz anticorpos humorais específicos contra o antigénio de superfície do vírus da hepatite B (anti-AgHBs). O desenvolvimento de um título de anticorpos contra o antigénio de superfície do vírus da hepatite B (anti-AgHBs) igual ou superior a 10 IU/I, medido 1 a 2 meses após a última injecção, correlaciona-se com a protecção contra a infecção pelo vírus da hepatite B.
+ Estudos clínicos revelaram que 96% dos 1497 lactentes, crianças, adolescentes e adultos saudáveis, vacinados com as três doses de uma formulação anterior de vacina anti-hepatite B recombinante da Merck, desenvolveram um nível protector de anticorpos contra o antigénio de superfície do vírus da hepatite B (≥ 10 UI/I).
+ Embora se desconheça a duração do efeito protector de uma formulação anterior de vacina anti-hepatite B recombinante da Merck nos vacinados saudáveis, estudos de seguimento, com duração de 5-9 anos, realizados em aproximadamente 3000 indivíduos de elevado risco, a quem foi administrada uma vacina semelhante, derivada do plasma, revelaram a ausência de casos de infecção por hepatite B clinicamente aparente.
+ Além disso, a persistência da memória imunológica, em relação ao antigénio de superfície do vírus da hepatite B (AgHBs), induzida pela vacina, tem sido demonstrada através de uma resposta de anticorpos, anamnéstica, à dose de reforço de uma formulação anterior de vacina anti-hepatite B recombinante da Merck, em adultos saudáveis.
+ De acordo com a prática clínica padrão para a administração de vacina contra a Hepatite B, deve-se efectuar a determinação regular de anticorpos nos doentes em hemodiálise. Deve ser administrada uma dose de reforço quando os níveis de anticorpos diminuem abaixo de 10 UI/l. Nos indivíduos em que são atingidos títulos insuficientes de anticorpos após o reforço, deve ser considerada a utilização de vacinas contra a Hepatite B alternativas.
+ Redução do risco de Carcinoma Hepatocelular O carcinoma hepatocelular é uma complicação grave da infecção por vírus da hepatite B. Estudos demonstraram a ligação entre a infecção crónica de hepatite B e o carcinoma hepatocelular e 80% dos carcinomas hepatocelulares são provocados pela infecção por vírus da hepatite B. A vacina anti-hepatite B foi reconhecida como a primeira vacina contra o cancro dado que pode prevenir o cancro primário do fígado.
+ 5.2 Propriedades farmacocinéticas 31 Não se aplica.
+ 5.3 Dados de segurança pré-clínica Não se realizaram estudos no âmbito da reprodução animal, com a vacina.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1. Lista dos excipientes Cloreto de sódio Bórax Água para preparações injectáveis
+ 6.2 Incompatibilidades Na ausência de estudos de compatibilidade, este medicamento não deve ser misturado com outros medicamentos.
+ 6.3 Prazo de validade 3 anos. 6.4 Precauções especiais de conservação
+ Conservar no frigorífico (2 ºC – 8 ºC). Não congelar.
+ 6.5 Natureza e conteúdo do recipiente 1 ml de suspensão em frasco para injectáveis (vidro Tipo I)-Embalagem de 1.
+ 6.6 Precauções especiais de eliminação
+ Antes de ser utilizada, a vacina deve ser agitada vigorosamente. Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ SANOFI PASTEUR MSD SNC 8, rue Jonas Salk F-69007 Lyon França.
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/01/183/015 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 27/04/2001 Data da última renovação: 04/08/2006
+ 32 10. DATA DA REVISÃO DO TEXTO
+ 33 ANEXO II
+ A. FABRICANTE(S) DA(S) SUBSTÂNCIA(S) ACTIVA(S) DE ORIGEM BIOLÓGICA E TITULAR(ES) DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 34 A. FABRICANTE(S) DA(S) SUBSTÂNCIA(S) ACTIVA(S) DE ORIGEM BIOLÓGICA E TITULAR(ES) DE AUTORIZAÇÃO DE FABRICO RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do(s) fabricante(s) da substância activa de origem biológica
+ MERCK &amp; Co., Inc. Sumneytown Pike West POINT, Pennsylvania 19486 USA
+ Nome e endereço do(s) fabricante(s) responsável(veis) pela libertação do lote
+ MERCK Manufacturing Division Haarlem Waaderweg 39, P. O. Box 581 2031 BN,20030 PC Haarlem Países Baixos
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ •
+ CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E À UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento sujeito a receita médica. •
+ OUTRAS CONDIÇÕES Libertação oficial do lote: nos termos do artigo 114. º da Directa 2001/83/EC, com as alterações que lhe foram introduzidas, a libertação oficial do lote será feita por um laboratório estatal ou um laboratório designado para esse efeito. RPS: O titular da autorização de introdução no mercado continuará a submeter os relatórios periódicos de segurança em ciclos de 1 ano.
+ 35 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 36 A. ROTULAGEM
+ 37 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO HBVAXPRO 5 microgramas/0, 5ml-frasco para injectáveis unidose-Embalagem de 1,10
+ 1. NOME DO MEDICAMENTO HBVAXPRO 5 microgramas/0,5 ml Suspensão injectável Vacina contra a hepatite B (ADNr)
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Uma dose (0,5 ml) contém: Antigénio de superfície do vírus da hepatite B, recombinante (AgHBs)* --------------5,00 microgramas Adsorvido em hidróxifosfato sulfato de alumínio amorfo (0,25 miligrama Al+)
+ * produzido a partir da estirpe recombinante da levedura Saccharomyces cerevisiae. (estirpe 2150-2-3)
+ 3. LISTA DOS EXCIPIENTES Cloreto de sódio, bórax e água para preparações injectáveis.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Suspensão injectável 1 frasco para injectáveis unidose de 0,5 ml 10 frascos para injectáveis unidose de 0,5 ml
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Agitar antes de usar. Consultar o folheto informativo antes de utilizar. Uso intramuscular.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças
+ 7. OUTRA(S) ADVERTÊNCIA(S) ESPECIAL(AIS), SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP 38 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico Não congelar 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ SANOFI PASTEUR MSD SNC 8, rue Jonas Salk F-69007 Lyon França
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/01/183/001 1 frasco para injectáveis EU/1/01/183/018 10 frascos para injectáveis
+ 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE 39 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO HBVAXPRO 5 microgramas/0,5 ml-frasco para injectáveis unidose+ seringa com agulha-Embalagem de 1
+ 1. NOME DO MEDICAMENTO HBVAXPRO 5 microgramas/0,5 ml Suspensão injectável Vacina contra a hepatite B (ADNr)
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Uma dose (0,5 ml) contém: Antigénio de superfície do vírus da hepatite B, recombinante (AgHBs)* --------------5,00 microgramas Adsorvido em hidróxifosfato sulfato de alumínio amorfo (0,25 miligrama Al+)
+ * produzido a partir da estirpe recombinante da levedura Saccharomyces cerevisiae (estirpe 2150-2-3)
+ 3. LISTA DOS EXCIPIENTES Cloreto de sódio, bórax e água para preparações injectáveis.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Suspensão injectável 1 frascos para injectáveis unidose de 0,5 ml 1 seringa para injectáveis estéril, com agulha.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Agitar antes de usar. Consultar o folheto informativo antes de utilizar. Uso intramuscular.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças
+ 7. OUTRA(S) ADVERTÊNCIA(S) ESPECIAL(AIS), SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP 40 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico Não congelar 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ SANOFI PASTEUR MSD SNC 8, rue Jonas Salk F-69007 Lyon França
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/01/183/019 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE 41 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO HBVAXPRO 5 microgramas/0,5 ml
+ 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ HBVAXPRO 5 µg/0,5 ml Suspensão injectável Vacina contra a hepatite B (ADNr) Uso IM
+ 2. MODO DE ADMINISTRAÇÃO Agitar bem antes de usar 3. PRAZO DE VALIDADE EXP 4. NÚMERO DO LOTE Lot 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 0,5 ml 6. OUTRAS SANOFI PASTEUR MSD SNC 42 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO HBVAXPRO 5 microgramas/0,5 ml-seringa pré-cheia unidose sem agulha incorporada-Embalagem de 1,10,20,50
+ 1. NOME DO MEDICAMENTO HBVAXPRO 5 microgramas/0,5 ml Suspensão injectável em seringa pré-cheia Vacina contra a hepatite B (ADNr)
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Uma dose (0,5 ml) contém: Antigénio de superfície do vírus da hepatite B, recombinante (AgHBs)* --------------5,00 microgramas Adsorvido em sulfato de hidroxifosfato de alumínio amorfo (0,25 miligramas Al+)
+ * produzido a partir da estirpe recombinante da levedura Saccharomyces cerevisiae (estirpe 2150-2-3)
+ 3. LISTA DOS EXCIPIENTES Cloreto de sódio, bórax e água para preparações injectáveis.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Suspensão injectável 1 seringa pré-cheia unidose de 0,5 ml sem agulha incorporada 10 seringas pré-cheias unidose de 0,5 ml sem agulha incorporada 20 seringas pré-cheias unidose de 0,5 ml sem agulha incorporada 50 seringas pré-cheias unidose de 0,5 ml sem agulha incorporada
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Agitar antes de usar. Consultar o folheto informativo antes de utilizar. Uso intramuscular.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças
+ 7. OUTRA(S) ADVERTÊNCIA(S) ESPECIAL(AIS), SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP 43 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico Não congelar 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ SANOFI PASTEUR MSD SNC 8, rue Jonas Salk F-69007 Lyon França
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/01/183/004 1 seringa pré-cheia EU/1/01/183/005 10 seringas pré-cheias EU/1/01/183/020 20 seringas pré-cheias EU/1/01/183/021 50 seringas pré-cheias
+ 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE 44 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO HBVAXPRO 5 microgramas/0,5 ml-seringa pré-cheia unidose com 1 agulha separada-Embalagem de 1,10
+ 1. NOME DO MEDICAMENTO HBVAXPRO 5 microgramas/0,5 ml Suspensão injectável em seringa pré-cheia Vacina contra a hepatite B (ADNr)
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Uma dose (0,5 ml) contém: Antigénio de superfície do vírus da hepatite B, recombinante (AgHBs)* --------------5,00 microgramas Adsorvido em sulfato de hidroxifosfato de alumínio amorfo (0,25 miligrama Al+)
+ * produzido a partir da estirpe recombinante da levedura Saccharomyces cerevisiae. (estirpe 2150-2-3)
+ 3. LISTA DOS EXCIPIENTES Cloreto de sódio, bórax e água para preparações injectáveis.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Suspensão injectável 1 seringa pré-cheia unidose de 0,5 ml com 1 agulha separada 10 seringas pré-cheias unidose de 0,5 ml com 1 agulha separada (para cada seringa)
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Agitar antes de usar. Consultar o folheto informativo antes de utilizar. Uso intramuscular.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças
+ 7. OUTRA(S) ADVERTÊNCIA(S) ESPECIAL(AIS), SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP 45 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico Não congelar 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ SANOFI PASTEUR MSD SNC 8, rue Jonas Salk F-69007 Lyon França
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/01/183/022 1 seringa pré-cheia EU/1/01/183/023 10 seringas pré-cheias
+ 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE 46 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO HBVAXPRO 5 microgramas/0,5 ml-seringa pré-cheia unidose com 2 agulhas separadas-Embalagem de 1,10
+ 1. NOME DO MEDICAMENTO HBVAXPRO 5 microgramas/0,5 ml Suspensão injectável em seringa pré-cheia Vacina contra a hepatite B (ADNr)
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Uma dose (0,5 ml) contém: Antigénio de superfície do vírus da hepatite B, recombinante (AgHBs)* --------------5,00 microgramas Adsorvido em sulfato de hidroxifosfato de alumínio amorfo (0,25 miligrama Al+)
+ * produzido a partir da estirpe recombinante da levedura Saccharomyces cerevisiae. (estirpe 2150-2-3)
+ 3. LISTA DOS EXCIPIENTES Cloreto de sódio, bórax e água para preparações injectáveis.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Suspensão injectável 1 seringa pré-cheia unidose de 0,5 ml com 2 agulhas separadas 10 seringas pré-cheias unidose de 0,5 ml com 2 agulhas separadas (para cada seringa)
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Agitar antes de usar. Consultar o folheto informativo antes de utilizar. Uso intramuscular.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças
+ 7. OUTRA(S) ADVERTÊNCIA(S) ESPECIAL(AIS), SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP 47 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico Não congelar 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ SANOFI PASTEUR MSD SNC 8, rue Jonas Salk F-69007 Lyon França
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/01/183/024 1 seringa pré-cheia EU/1/01/183/025 10 seringas pré-cheias
+ 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO 15. INFORMAÇÃO EM BRAILLE 48 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO HBVAXPRO 5 microgramas/0,5 ml
+ 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ HBVAXPRO 5 µg/0,5 ml Suspensão injectável Vacina contra a hepatite B (ADNr) Uso IM
+ 2. MODO DE ADMINISTRAÇÃO Agitar bem antes de usar 3. PRAZO DE VALIDADE EXP 4. NÚMERO DO LOTE Lot 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 0,5 ml 6. OUTRAS SANOFI PASTEUR MSD SNC 49 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO HBVAXPRO 10 microgramas/ml-frasco para injectáveis unidose-Embalagem de 1,10
+ 1. NOME DO MEDICAMENTO HBVAXPRO 10 microgramas/ml Suspensão injectável Vacina contra a hepatite B (ADNr)
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Uma dose (1 ml) contém: Antigénio de superfície do vírus da hepatite B, recombinante (AgHBs)* -------10,00 microgramas Adsorvido em sulfato de hidroxifosfato de alumínio amorfo (0,50 miligrama Al+)
+ * produzido a partir da estirpe recombinante da levedura Saccharomyces cerevisiae. (estirpe 2150-2-3)
+ 3. LISTA DOS EXCIPIENTES Cloreto de sódio, bórax e água para preparações injectáveis.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Suspensão injectável 1 frasco para injectáveis unidose de 1 ml 10 frascos para injectáveis unidose de 1 ml
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Agitar antes de usar Consultar o folheto informativo antes de utilizar. Uso intramuscular
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças
+ 7. OUTRA(S) ADVERTÊNCIA(S) ESPECIAL(AIS), SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP 50 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico Não congelar 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ SANOFI PASTEUR MSD SNC 8, rue Jonas Salk F-69007 Lyon França
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/01/183/007 1 frasco para injectáveis EU/1/01/183/008 10 frascos para injectáveis
+ 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE 51 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO HBVAXPRO 10 microgramas/ml
+ 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ HBVAXPRO 10 µg/ml Suspensão injectável Vacina contra a hepatite B (ADNr)
+ Uso IM 2. MODO DE ADMINISTRAÇÃO Agitar bem antes de usar 3. PRAZO DE VALIDADE EXP 4. NÚMERO DO LOTE Lot 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 1 ml 6. OUTRAS SANOFI PASTEUR SNC 52 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO HBVAXPRO 10 microgramas/ml-seringa pré-cheia unidose sem agulha incorporada-Embalagem de 1,10
+ 1. NOME DO MEDICAMENTO HBVAXPRO 10 microgramas/ml Suspensão injectável em seringa pré-cheia Vacina contra a hepatite B (ADNr)
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Uma dose (1 ml) contém: Antigénio de superfície do vírus da hepatite B, recombinante (AgHBs)* -------10,00 microgramas Adsorvido em sulfato de hidróxifosfato de alumínio amorfo (0,50 miligrama Al+)
+ * produzido a partir da estirpe recombinante da levedura Saccharomyces cerevisiae. (estirpe 2150-2-3)
+ 3. LISTA DOS EXCIPIENTES Cloreto de sódio, bórax e água para preparações injectáveis.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Suspensão injectável 1 seringa pré-cheia unidose de 1 ml sem agulha incorporada 10 seringas pré-cheias unidose de 1 ml sem agulha incorporada
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Agitar antes de usar Consultar o folheto informativo antes de utilizar. Uso intramuscular
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças
+ 7. OUTRA(S) ADVERTÊNCIA(S) ESPECIAL(AIS), SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP 53 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico Não congelar 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ SANOFI PASTEUR MSD SNC 8, rue Jonas Salk F-69007 Lyon França
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/01/183/011 1 seringa pré-cheia EU/1/01/183/013 10 seringas pré-cheias
+ 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE 54 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO HBVAXPRO 10 microgramas/ml-seringa pré-cheia unidose com 1 agulha separada-Embalagem de 1,10
+ 1. NOME DO MEDICAMENTO HBVAXPRO 10 microgramas/ml Suspensão injectável em seringa pré-cheia Vacina contra a hepatite B (ADNr)
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Uma dose (1 ml) contém: Antigénio de superfície do vírus da hepatite B, recombinante (AgHBs)* -------10,00 microgramas Adsorvido em sulfato de hidróxifosfato de alumínio amorfo (0,50 miligrama Al+)
+ * produzido a partir da estirpe recombinante da levedura Saccharomyces cerevisiae. (estirpe 2150-2-3)
+ 3. LISTA DOS EXCIPIENTES Cloreto de sódio, bórax e água para preparações injectáveis.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Suspensão injectável 1 seringa pré-cheia unidose de 1 ml com 1 agulha separada 10 seringas pré-cheias unidose de 1 ml com 1 agulha separada (para cada seringa)
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Agitar antes de usar Consultar o folheto informativo antes de utilizar Uso intramuscular
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças
+ 7. OUTRA(S) ADVERTÊNCIA(S) ESPECIAL(AIS), SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP 55 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico Não congelar 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ SANOFI PASTEUR MSD SNC 8, rue Jonas Salk F-69007 Lyon França
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/01/183/026 1 seringa pré-cheia EU/1/01/183/027 10 seringas pré-cheias
+ 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE 56 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO HBVAXPRO 10 microgramas/ml-seringa pré-cheia unidose com 2 agulhas separadas-Embalagem de 1,10
+ 1. NOME DO MEDICAMENTO HBVAXPRO 10 microgramas/ml Suspensão injectável em seringa pré-cheia Vacina contra a hepatite B (ADNr)
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Uma dose (1 ml) contém: Antigénio de superfície do vírus da hepatite B, recombinante (AgHBs)* -------10,00 microgramas Adsorvido em sulfato de hidróxifosfato de alumínio amorfo (0,50 miligrama Al+)
+ * produzido a partir da estirpe recombinante da levedura Saccharomyces cerevisiae. (estirpe 2150-2-3)
+ 3. LISTA DOS EXCIPIENTES Cloreto de sódio, bórax e água para preparações injectáveis.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Suspensão injectável 1 seringa pré-cheia unidose de 1 ml com 2 agulhas separadas 10 seringas pré-cheias unidose de 1 ml com 2 agulhas separadas (para cada seringa)
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Agitar antes de usar Consultar o folheto informativo antes de utilizar. Uso intramuscular
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças
+ 7. OUTRA(S) ADVERTÊNCIA(S) ESPECIAL(AIS), SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP 57 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico Não congelar 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ SANOFI PASTEUR MSD SNC 8, rue Jonas Salk F-69007 Lyon França
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/01/183/028 1 seringa pré-cheia EU/1/01/183/029 10 seringas pré-cheias
+ 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE 58 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO HBVAXPRO 10 microgramas/ml
+ 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ HBVAXPRO 10 µg/ml Suspensão injectável Vacina contra a hepatite B (ADNr)
+ Uso IM 2. MODO DE ADMINISTRAÇÃO Agitar bem antes de usar 3. PRAZO DE VALIDADE EXP 4. NÚMERO DO LOTE Lot 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 1 ml 6. OUTRAS SANOFI PASTEUR MSD SNC 59 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO HBVAXPRO 40 microgramas/ml-frasco para injectáveis unidose-Embalagem de 1
+ 1. NOME DO MEDICAMENTO HBVAXPRO 40 microgramas/ml Suspensão injectável Vacina contra a hepatite B (ADNr)
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Uma dose (1 ml), contém: Antigénio de superfície do vírus da hepatite B, recombinante (AgHBs)* -------40,00 microgramas Adsorvido em sulfato de hidroxifosfato de alumínio amorfo (0,50 miligrama Al+)
+ * produzido a partir da estirpe recombinante da levedura Saccharomyces cerevisiae. (estirpe 2150-2-3)
+ 3. LISTA DOS EXCIPIENTES Cloreto de sódio, bórax e água para preparações injectáveis.
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Suspensão injectável 1 frasco para injectáveis unidose de 1 ml
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Agitar antes de usar Consultar o folheto informativo antes de utilizar. Uso intramuscular
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças
+ 7. OUTRA(S) ADVERTÊNCIA(S) ESPECIAL(AIS), SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE EXP 60 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico Não congelar 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ SANOFI PASTEUR MSD SNC 8, rue Jonas Salk F-69007 Lyon França
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/01/183/015 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO GERAL QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE 61 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO HBVAXPRO 40 microgramas/ml
+ 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ HBVAXPRO 40 µg/ml Suspensão injectável Vacina contra a hepatite B (ADNr) Uso IM
+ 2. MODO DE ADMINISTRAÇÃO Agitar bem antes de usar 3. PRAZO DE VALIDADE EXP 4. NÚMERO DO LOTE Lot 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 1 ml 6. OUTRAS SANOFI PASTEUR MSD SNC 62 B. FOLHETO INFORMATIVO
+ 63 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR HBVAXPRO 5 microgramas/0,5 ml, suspensão injectável Vacina contra a hepatite B (ADNr)
+ Leia atentamente este folheto antes da sua criança ser vacinada.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é HBVAXPRO 5 microgramas/0,5 ml e para que é utilizado 2. Antes de utilizar HBVAXPRO 5 microgramas/0,5 ml 3. Como utilizar HBVAXPRO 5 microgramas/0,5 ml 4. Efeitos secundários possíveis 5. Como conservar HBVAXPRO 5 microgramas/0,5 ml 6. Outras informações
+ 1. O QUE É HBVAXPRO 5 microgramas/0,5 ml E PARA QUE É UTILIZADO
+ Esta vacina está indicada na imunização activa contra a infecção provocada por todos os subtipos conhecidos do vírus da hepatite B em crianças e adolescentes (desde a nascença até aos 15 anos de idade) considerados em situação de risco de exposição ao vírus da Hepatite B.
+ É de esperar que a hepatite D seja igualmente prevenida pela imunização com HBVAXPRO pois a hepatite D não ocorre na ausência de infecção com hepatite B.
+ A vacina não impedirá a infecção provocada por outros agentes, tais como os vírus da hepatite A, da hepatite C e da hepatite E e de outros patogénicos que possam infectar o fígado.
+ 2. ANTES DE UTILIZAR HBVAXPRO 5 microgramas/0,5 ml
+ Não utilize HBVAXPRO 5 microgramas/0,5 ml:
+ -Se o seu filho tem alergia (hipersensibilidade) ao antigénio de superfície da hepatite B ou a
+ qualquer outro componente de HBVAXPRO (ver secção 6.)
+ -Se o seu filho tem doença febril aguda
+ Utilização com outras vacinas: Esta vacina pode ser administrada simultaneamente com imunoglobulina da hepatite B, mas em local de administração diferente. Esta vacina pode ser utilizada para completar uma primeira imunização, ou como dose de reforço em indivíduos pré-vacinados com outra vacina contra a hepatite B. Esta vacina pode ser administrada concomitantemente com algumas outras vacinas, usando seringas e locais de administração diferentes.
+ Informe o seu médico ou farmacêutico se o seu filho estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica.
+ 64 3. COMO UTILIZAR HBVAXPRO 5 microgramas/0,5 ml
+ Posologia: A dose recomendada para cada injecção (0,5 ml) é de 5 microgramas para crianças e adolescentes (desde o nascimento até aos 15 anos de idade):
+ O esquema de vacinação deverá incluir pelo menos três injecções.
+ Poderão ser recomendados dois esquemas de imunização:
+ -duas injecções com um intervalo de um mês e uma terceira dose 6 meses após a primeira
+ administração (0,1,6 meses).
+ -três injecções com um intervalo de um mês e uma quarta dose um ano mais tarde, se for
+ necessária uma imunidade rápida (0,1,2,12 meses).
+ Em caso de exposição recente ao vírus da hepatite B, poderá ser administrada uma primeira dose de HBVAXPRO juntamente com a dose apropriada de imunoglobulina.
+ Alguns esquemas locais actualmente incluem recomendações para uma dose de reforço. O seu médico ou farmacêutico informá-lo-á se deverá ser administrada a dose de reforço.
+ Modo de administração: Deverá ser bem agitada até obter-se uma suspensão branca ligeiramente opaca. Uma vez perfurado o frasco para injectáveis, a vacina retirada deve ser utilizada de imediato e o frasco para injectáveis deve ser rejeitado. O médico irá administrar a vacina na forma de injecção no músculo. A parte superior da coxa é o local preferencial para a injecção intramuscular nos recém-nascidos e nos lactentes. O músculo superior do braço é o local preferido para a injecção intramuscular, em crianças e adolescentes.
+ A vacina nunca deverá ser administrada numa veia.
+ Excepcionalmente, esta vacina pode ser injectada por via subcutânea a doentes com trombocitopénia (diminuição das plaquetas no sangue) ou a pessoas em risco de hemorragia.
+ Caso se tenha esquecido de utilizar uma dose de HBVAXPRO 5 microgramas/0,5 ml:
+ Se faltar a uma injecção programada, o seu médico decidirá quando deverá ser administrada a dose em falta.
+ Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou farmacêutico.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todos os medicamentos, HBVAXPRO pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ Tal como para outras vacinas anti-hepatite B, em muitos dos casos, a relação causal dos efeitos secundários com a vacina não foi estabelecida.
+ HBVAXPRO é geralmente bem tolerado. Os efeitos secundários mais frequentemente observados são as reacções no local de administração: dor, vermelhidão e endurecimento.
+ 65 Outros efeitos secundários são notificados muito raramente: baixa contagem de plaquetas, doença dos nódulos linfáticos, reacções alérgicas, doenças do sistema nervoso tais como sensação de formigueiro ou picada, paralisia facial, inflamação de nervos incluindo síndrome de Guillain-Barré, inflamação do nervo ocular que leva a alterações da visão, encefalite, exacerbação de esclerose múltipla, esclerose múltipla, convulsões, dores de cabeça, tonturas e enfraquecimento, pressão arterial baixa, inflamação de vasos sanguíneos, sintomas semelhantes à asma, vómitos, náuseas, diarreia, dor abdominal, reacções na pele tais como eczema, exantema, queda de cabelo, comichão, urticária e elementos vesiculares na pele, dor nas articulações, artrite, dor muscular, dor nas extremidades, fadiga, febre, mal-estar, sintomas semelhantes aos da gripe, e aumento de enzimas hepáticos.
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR HBVAXPRO 5 microgramas/0,5 ml
+ Manter fora do alcance e da vista das crianças.
+ Não utilize HBVAXPRO após o prazo de validade impresso no rótulo.
+ Conservar no frigorífico (2ºC – 8ºC) Não congelar.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de HBVAXPRO 5 microgramas/0,5 ml
+ A substância activa é, para uma dose de 0,5 ml: Antigénio de superfície da hepatite B, recombinante (AgHBs)* ……………… .. 5,00 microgramas Adsorvido em sulfato de hidroxifosfato de alumínio amorfo (0,25 miligrama Al+)
+ * produzido a partir da estirpe recombinante da levedura Saccharomyces cerevisiae (estirpe 2150-2-3)
+ Os outros ingredientes são: cloreto de sódio, bórax e água para preparações injectáveis.
+ Qual o aspecto de HBVAXPRO 5 microgramas/0,5 ml e conteúdo da embalagem
+ Cada dose contém 0,5 ml de suspensão injectável em frasco para injectáveis. Embalagens de 1 e 10 frascos para injectáveis sem seringa/agulha. Embalagem de 1 frasco para injectáveis com seringa e agulha. É possível que não sejam comercializadas todas as apresentações.
+ Titular da Autorização de Introdução no Mercado e Fabricante
+ Titular da Autorização de Introdução no Mercado: Sanofi Pasteur MSD SNC,8 rue Jonas Salk, F-69007 Lyon, França
+ Fabricante Responsável pela Libertação de Lote: Merck Sharp &amp; Dohme, B. V., Waarderweg,39,2031 BNHaarlem, Holanda
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do titular da autorização de introdução no mercado.
+ 66 België/Belgique/Belgien: Sanofi Pasteur MSD, Tél/Tel: +32. 2. 726. 95.84 България: Мерк Шарп и Доум България ЕООД, Тел.+ 359 2 8193740 Česká republika: Merck Sharp &amp; Dohme, IDEA, Inc. Tel.: +420. 233. 010.111 Danmark: Sanofi Pasteur MSD, Tlf: +45. 45. 26. 77.00 Deutschland: Sanofi Pasteur MSD GmbH, Tel: +49. 6224.5940 Eesti: Merck Sharp &amp; Dohme OÜ, Tel: +372. 613.9750 Ελλάδα: ΒΙΑΝΕΞ Α. Ε., Τηλ: +30. 210.8009111 España: Sanofi Pasteur MSD S. A., Tel: +34. 91. 371. 78.00 France: Sanofi Pasteur MSD SNC, Tél: +33. 4. 37. 28. 40.00 Ireland: Sanofi Pasteur MSD Ltd, Tel: +3531.4685600 Ísland: Sanofi Pasteur MSD, Tel: +32. 2. 726. 95.84 Italia: Sanofi Pasteur MSD Spa, Tel: +39. 06. 664. 092.11 Kύπρος: Merck Sharp &amp; Dohme (Middle East) Limited., Τηλ: +357 22866700 Latvija: SIA Merck Sharp &amp; Dohme Latvija, Tel: +371. 7364.224 Lietuva: UAB Merck Sharp &amp; Dohme, Tel.: +370. 5. 2780.247 Luxembourg/Luxemburg: Sanofi Pasteur MSD, Tél: +32. 2. 726. 95.84 Magyarország: MSD Magyarország Kft, Tel.:+ 36. 1. 888.5300 Malta: MSD Interpharma, Tel:+ 33. 1. 30. 82. 10.00 Nederland: Sanofi Pasteur MSD, Tel: +31. 23. 567. 96.00 Norge: Sanofi Pasteur MSD, Tlf: +47. 67. 50. 50.20 Österreich: Sanofi Pasteur MSD GmbH, Tel: +43. 1. 86. 67. 02. 22.02 Polska: MSD Polska Sp. z o. o., Tel.: +48. 22. 549. 51.00 Portugal: Sanofi Pasteur MSD, SA, Tel: +351 21 470 45 50 România: Merck Sharp &amp; Dohme Romania S. R. L., Tel:+ 4021 529 29 00 Slovenija: Merck Sharp &amp; Dohme inovativna zdravila d. o. o., Tel: +386. 1. 520.4201 Slovenská republika: Merck Sharp &amp; Dohme IDEA, Inc., Tel: +421. 2.58282010 Suomi/Finland: Sanofi Pasteur MSD, Puh/Tel: +358. 9. 565. 88.30 Sverige: Sanofi Pasteur MSD, Tel: +46. 8. 564. 888.60 United Kingdom: Sanofi Pasteur MSD Ltd, Tel: +44 1628 785 291
+ Este folheto foi aprovado pela última vez em ………
+ 67 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR HBVAXPRO 5 microgramas/0,5 ml, suspensão injectável em seringa pré-cheia Vacina contra a hepatite B (ADNr)
+ Leia atentamente este folheto antes da sua criança ser vacinada.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é HBVAXPRO 5 microgramas/0,5 ml e para que é utilizado 2. Antes de utilizar HBVAXPRO 5 microgramas/0,5 ml 3. Como utilizar HBVAXPRO 5 microgramas/0,5 ml 4. Efeitos secundários possíveis 5. Como conservar HBVAXPRO 5 microgramas/0,5 ml 6. Outras informações
+ 1. O QUE É HBVAXPRO 5 microgramas/0,5 ml E PARA QUE É UTILIZADO
+ Esta vacina está indicada na imunização activa contra a infecção provocada por todos os subtipos conhecidos do vírus da hepatite B em crianças e adolescentes (desde a nascença até aos 15 anos de idade) considerados em situação de risco de exposição ao vírus da Hepatite B.
+ É de esperar que a hepatite D seja igualmente prevenida pela imunização com HBVAXPRO pois a hepatite D não ocorre na ausência de infecção com hepatite B.
+ A vacina não impedirá a infecção provocada por outros agentes, tais como os vírus da hepatite A, da hepatite C e da hepatite E e de outros patogénicos que possam infectar o fígado.
+ 2. ANTES DE UTILIZAR HBVAXPRO 5 microgramas/0,5 ml
+ Não utilize HBVAXPRO 5 microgramas/0,5 ml:
+ -Se o seu filho tem alergia (hipersensibilidade) ao antigénio de superfície da hepatite B ou a
+ qualquer outro componente de HBVAXPRO (ver secção 6.)
+ -Se o seu filho tem doença febril aguda
+ Utilização com outras vacinas: Esta vacina pode ser administrada simultaneamente com imunoglobulina da hepatite B, mas em local de injecção diferente. Esta vacina pode ser utilizada para completar uma primeira imunização, ou como dose de reforço em indivíduos pré-vacinados com outra vacina contra a hepatite B. Esta vacina pode ser administrada concomitantemente com algumas outras vacinas, usando seringas e locais de administração diferentes.
+ Informe o seu médico ou farmacêutico se o seu filho estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica.
+ 68 3. COMO UTILIZAR HBVAXPRO 5 microgramas/0,5 ml
+ Posologia: A dose recomendada para cada injecção (0,5 ml) é de 5 microgramas para crianças e adolescentes (desde o nascimento até aos 15 anos de idade).
+ O esquema de vacinação deverá incluir pelo menos três injecções.
+ Poderão ser recomendados dois esquemas de imunização:
+ -duas injecções com um intervalo de um mês e uma terceira dose 6 meses após a primeira
+ administração (0,1,6 meses).
+ -três injecções com um intervalo de um mês e uma quarta dose um ano mais tarde, se for
+ necessária uma imunidade rápida (0,1,2,12 meses).
+ Em caso de exposição recente ao vírus da hepatite B, poderá ser administrada uma primeira dose de HBVAXPRO juntamente com a dose apropriada de imunoglobulina.
+ Alguns esquemas locais actualmente incluem recomendações para uma dose de reforço. O seu médico ou farmacêutico informá-lo-á se deverá ser administrada a dose de reforço.
+ Modo de administração: Deverá ser bem agitada até obter-se uma suspensão branca ligeiramente opaca. A agulha é inserida rodando na direcção dos ponteiros do relógio, até que a agulha se fixe, com segurança, na agulha. O médico irá administrar a vacina na forma de injecção no músculo. A parte superior da coxa é o local preferencial para a injecção intramuscular nos recém-nascidos e nos lactentes. O músculo superior do braço é o local preferido para a injecção intramuscular, em crianças e adolescentes.
+ A vacina nunca deverá ser administrada numa veia.
+ Excepcionalmente, esta vacina pode ser injectada por via subcutânea a doentes com trombocitopénia (diminuição das plaquetas no sangue) ou a pessoas em risco de hemorragia.
+ Caso se tenha esquecido de utilizar uma dose de HBVAXPRO 5 microgramas/0,5 ml:
+ Se faltar a uma injecção programada, o seu médico decidirá quando deverá ser administrada a dose em falta
+ Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou farmacêutico.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todos os medicamentos, HBVAXPRO pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ Tal como para outras vacinas anti-hepatite B, em muitos dos casos, a relação causal dos efeitos secundários com a vacina não foi estabelecida.
+ HBVAXPRO é geralmente bem tolerado. Os efeitos secundários mais frequentemente observados são as reacções no local de administração: dor, vermelhidão e endurecimento.
+ 69 Outros efeitos secundários são notificados muito raramente: baixa contagem de plaquetas, doença dos nódulos linfáticos, reacções alérgicas, doenças do sistema nervoso tais como sensação de formigueiro ou picada, paralisia facial, inflamação de nervos incluindo síndrome de Guillain-Barré, inflamação do nervo ocular que leva a alterações da visão, encefalite, exacerbação de esclerose múltipla, esclerose múltipla, convulsões, dores de cabeça, tonturas e enfraquecimento, pressão arterial baixa, inflamação de vasos sanguíneos, sintomas semelhantes à asma, vómitos, náuseas, diarreia, dor abdominal, reacções na pele tais como eczema, exantema, queda de cabelo, comichão, urticária e elementos vesiculares na pele, dor nas articulações, artrite, dor muscular, dor nas extremidades, fadiga, febre, mal-estar, sintomas semelhantes aos da gripe, e aumento de enzimas hepáticos.
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR HBVAXPRO 5 microgramas/0,5 ml
+ Manter fora do alcance e da vista das crianças.
+ Não utilize HBVAXPRO após o prazo de validade impresso no rótulo.
+ Conservar no frigorífico (2ºC – 8ºC) Não congelar.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de HBVAXPRO 5 microgramas/0,5 ml
+ A substância activa é, para uma dose de 0,5 ml: Antigénio de superfície da hepatite B, recombinante (AgHBs)* ……………… .. 5,00 microgramas Adsorvido em sulfato de hidroxifosfato de alumínio amorfo (0,25 miligrama Al+)
+ * produzido a partir da estirpe recombinante da levedura Saccharomyces cerevisiae (estirpe 2150-2-3)
+ Os outros ingredientes são: cloreto de sódio, bórax e água para preparações injectáveis.
+ Qual o aspecto de HBVAXPRO 5 microgramas/0,5 ml e conteúdo da embalagem
+ Cada dose contém 0.5 ml de suspensão injectável em seringa pré-cheia. Embalagens de 1,10,20 e 50 seringas pré-cheias sem agulha incorporada, Embalagens de 1 e 10 seringas pré-cheias com 1 ou 2 agulhas separadas. É possível que não sejam comercializadas todas as apresentações.
+ Titular da Autorização de Introdução no Mercado e Fabricante
+ Titular da Autorização de Introdução no Mercado: Sanofi Pasteur MSD SNC,8 rue Jonas Salk, F-69007 Lyon, França
+ Fabricante Responsável pela Libertação de Lote: Merck Sharp &amp; Dohme, B. V., Waarderweg,39,2031 BN Haarlem, Holanda
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado.
+ 70 België/Belgique/Belgien: Sanofi Pasteur MSD, Tél/Tel: +32. 2. 726. 95.84 България: Мерк Шарп и Доум България ЕООД, Тел.+ 359 2 8193740 Česká republika: Merck Sharp &amp; Dohme, IDEA, Inc. Tel.: +420. 233. 010.111 Danmark: Sanofi Pasteur MSD, Tlf: +45. 45. 26. 77.00 Deutschland: Sanofi Pasteur MSD GmbH, Tel: +49. 6224.5940 Eesti: Merck Sharp &amp; Dohme OÜ, Tel: +372. 613.9750 Ελλάδα: ΒΙΑΝΕΞ Α. Ε., Τηλ: +30. 210.8009111 España: Sanofi Pasteur MSD S. A., Tel: +34. 91. 371. 78.00 France: Sanofi Pasteur MSD SNC, Tél: +33. 4. 37. 28. 40.00 Ireland: Sanofi Pasteur MSD Ltd, Tel: +3531.4685600 Ísland: Sanofi Pasteur MSD, Tel: +32. 2. 726. 95.84 Italia: Sanofi Pasteur MSD Spa, Tel: +39. 06. 664. 092.11 Kύπρος: Merck Sharp &amp; Dohme (Middle East) Limited., Τηλ: +357 22866700 Latvija: SIA Merck Sharp &amp; Dohme Latvija, Tel: +371. 7364.224 Lietuva: UAB Merck Sharp &amp; Dohme, Tel.: +370. 5. 2780.247 Luxembourg/Luxemburg: Sanofi Pasteur MSD, Tél: +32. 2. 726. 95.84 Magyarország: MSD Magyarország Kft, Tel.:+ 36. 1. 888.5300 Malta: MSD Interpharma, Tel:+ 33. 1. 30. 82. 10.00 Nederland: Sanofi Pasteur MSD, Tel: +31. 23. 567. 96.00 Norge: Sanofi Pasteur MSD, Tlf: +47. 67. 50. 50.20 Österreich: Sanofi Pasteur MSD GmbH, Tel: +43. 1. 86. 67. 02. 22.02 Polska: MSD Polska Sp. z o. o., Tel.: +48. 22. 549. 51.00 Portugal: Sanofi Pasteur MSD, SA, Tel: +351 21 470 45 50 România: Merck Sharp &amp; Dohme Romania S. R. L., Tel:+ 4021 529 29 00 Slovenija: Merck Sharp &amp; Dohme inovativna zdravila d. o. o., Tel: +386. 1. 520.4201 Slovenská republika: Merck Sharp &amp; Dohme IDEA, Inc., Tel: +421. 2.58282010 Suomi/Finland: Sanofi Pasteur MSD, Puh/Tel: +358. 9. 565. 88.30 Sverige: Sanofi Pasteur MSD, Tel: +46. 8. 564. 888.60 United Kingdom: Sanofi Pasteur MSD Ltd, Tel: +44 1628 785 291
+ Este folheto foi aprovado pela última vez em ………
+ 71 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR HBVAXPRO 10 microgramas/ml, suspensão injectável Vacina contra a hepatite B (ADNr)
+ Leia atentamente este folheto antes de ser vacinado.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Se algum dos efeitos secundários se agravar ou detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é HBVAXPRO 10 microgramas/ml e para que é utilizado 2. Antes de utilizar HBVAXPRO 10 microgramas/ml 3. Como utilizar HBVAXPRO 10 microgramas/ml 4. Efeitos secundários possíveis 5. Como conservar HBVAXPRO 10 microgramas/ml 6. Outras informações
+ 1. O QUE É HBVAXPRO 10 microgramas/ml E PARA QUE É UTILIZADO
+ Esta vacina está indicada na imunização activa contra a infecção provocada por todos os subtipos conhecidos do vírus da hepatite B em adultos e adolescentes (idade igual ou superior a 16 anos) considerados em situação de risco de exposição ao vírus da Hepatite B.
+ É de esperar que a hepatite D seja igualmente prevenida pela imunização com HBVAXPRO pois a hepatite D não ocorre na ausência de infecção com hepatite B.
+ A vacina não impedirá a infecção provocada por outros agentes, tais como os vírus da hepatite A, da hepatite C e da hepatite E e de outros patogénicos que possam infectar o fígado.
+ 2. ANTES DE UTILIZAR HBVAXPRO 10 microgramas/ml
+ Não utilize HBVAXPRO 10 microgramas/ml: -se tem alergia (hipersensibilidade) ao antigénio de superfície da hepatite B ou a qualquer outro
+ componente de HBVAXPRO (ver secção 6.)
+ -se tem doença febril grave
+ Tome especial cuidado com HBVAXPRO 10 microgramas/ml:
+ Gravidez e Aleitamento Este medicamento só deve ser receitado a mulheres grávidas com muita precaução. O aleitamento não é uma contra-indicação. Consulte o seu médico ou farmacêutico antes de tomar qualquer medicamento.
+ Condução e utilização de máquinas Alguns dos efeitos raros poderão afectar a capacidade de condução ou utilização de máquinas.
+ Utilização com outras vacinas Esta vacina pode ser administrada simultaneamente com imunoglobulina da hepatite B, mas em local de injecção diferente. Esta vacina pode ser utilizada para completar uma primeira imunização, ou como dose de reforço em indivíduos pré-vacinados com outra vacina contra a hepatite B. Esta vacina pode ser administrada concomitantemente com outras vacinas, usando seringas e locais de administração diferentes.
+ 72 Informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica.
+ 3. COMO UTILIZAR HBVAXPRO 10 microgramas/ml
+ Posologia: A dose recomendada para cada injecção (1 ml) é de 10 microgramas para adultos e adolescentes (idade igual ou superior a 16 anos)
+ O esquema de vacinação deverá incluir pelo menos três injecções.
+ Poderão ser recomendados dois esquemas de imunização:
+ -duas injecções com um intervalo de um mês e uma terceira dose 6 meses após a primeira
+ administração (0,1,6 meses).
+ -três injecções com um intervalo de um mês e uma quarta dose um ano mais tarde, se for
+ necessária uma imunidade rápida (0,1,2,12 meses).
+ Em caso de exposição recente ao vírus da hepatite B, poderá ser administrada uma primeira dose de HBVAXPRO juntamente com a dose apropriada de imunoglobulina.
+ Alguns esquemas locais actualmente incluem recomendações para uma dose de reforço. O seu médico ou farmacêutico informá-lo-á se deverá ser administrada a dose de reforço.
+ Modo de administração: Deverá ser bem agitada até obter-se uma suspensão branca ligeiramente opaca. O médico irá administrar a vacina na forma de injecção no músculo. O músculo superior do braço é o local preferencial para a injecção intramuscular nos adultos e adolescentes.
+ A vacina nunca deverá ser administrada numa veia.
+ Excepcionalmente, esta vacina pode ser injectada por via subcutânea a doentes com trombocitopénia (diminuição das plaquetas no sangue) ou a pessoas em risco de hemorragia.
+ Caso se tenha esquecido de utilizar uma dose de HBVAXPRO 10 microgramas/ml:
+ Se faltar a uma injecção programada, o seu médico decidirá quando deverá ser administrada a dose em falta.
+ Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou farmacêutico.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todos os medicamentos, HBVAXPRO pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ Tal como para outras vacinas anti-hepatite B, em muitos dos casos, a relação causal com a vacina não foi estabelecida.
+ HBVAXPRO é geralmente bem tolerado. 73 Os efeitos secundários mais frequentemente observados são as reacções no local de administração: dor, vermelhidão e endurecimento. Outros efeitos secundários são notificados muito raramente: baixa contagem de plaquetas, doença dos nódulos linfáticos, reacções alérgicas, doenças do sistema nervoso tais como sensação de formigueiro ou picada, paralisia facial, inflamação de nervos incluindo síndrome de Guillain-Barré, inflamação do nervo ocular que leva a alterações da visão, encefalite, exacerbação de esclerose múltipla, esclerose múltipla, convulsões, dores de cabeça, tonturas e enfraquecimento, pressão arterial baixa, inflamação de vasos sanguíneos, sintomas semelhantes à asma, vómitos, náuseas, diarreia, dor abdominal, reacções na pele tais como eczema, exantema, queda de cabelo, comichão, urticária e elementos vesiculares na pele, dor nas articulações, artrite, dor muscular, dor nas extremidades, fadiga, febre, mal-estar, sintomas semelhantes aos da gripe, e aumento de enzimas hepáticos.
+ Se algum dos efeitoas secundários se agravar ou detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR HBVAXPRO 10 microgramas/ml
+ Manter fora do alcance e da vista das crianças.
+ Não utilize HBVAXPRO após o prazo de validade impresso no rótulo.
+ Conservar no frigorifico (2ºC – 8ºC) Não congelar.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de HBVAXPRO 10 microgramas/ml
+ A substância activa é, para uma dose de 1 ml: Antigénio de superfície da hepatite B, recombinante (AgHBs)* ……………… .. 10,00 microgramas Adsorvido em sulfato de hidroxifosfato de alumínio amorfo (0,5 miligrama Al+)
+ * produzido a partir da estirpe recombinante da levedura Saccharomyces cerevisiae (estirpe 2150-2-3)
+ Os outros ingredientes são: cloreto de sódio, bórax e água para preparações injectáveis.
+ Qual o aspecto de HBVAXPRO 10 microgramas/ml e conteúdo da embalagem
+ Cada dose contém 1 ml de suspensão injectável em frasco para injectáveis. Embalagens de 1,10 frascos para injectáveis. É possível que não sejam comercializadas todas as apresentações.
+ Titular da Autorização de Introdução no Mercado e Fabricante
+ Titular da Autorização de Introdução no Mercado: Sanofi Pasteur MSD SNC,8 rue Jonas Salk, F-69007 Lyon, França
+ Fabricante Responsável pela Libertação de Lote: Merck Sharp &amp; Dohme, B. V., Waarderweg,39,2031 BN Haarlem, Holanda
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado.
+ 74 België/Belgique/Belgien: Sanofi Pasteur MSD, Tél/Tel: +32. 2. 726. 95.84 България: Мерк Шарп и Доум България ЕООД, Тел.+ 359 2 8193740 Česká republika: Merck Sharp &amp; Dohme, IDEA, Inc. Tel.: +420. 233. 010.111 Danmark: Sanofi Pasteur MSD, Tlf: +45. 45. 26. 77.00 Deutschland: Sanofi Pasteur MSD GmbH, Tel: +49. 6224.5940 Eesti: Merck Sharp &amp; Dohme OÜ, Tel: +372. 613.9750 Ελλάδα: ΒΙΑΝΕΞ Α. Ε., Τηλ: +30. 210.8009111 España: Sanofi Pasteur MSD S. A., Tel: +34. 91. 371. 78.00 France: Sanofi Pasteur MSD SNC, Tél: +33. 4. 37. 28. 40.00 Ireland: Sanofi Pasteur MSD Ltd, Tel: +3531. 468.5600 Ísland: Sanofi Pasteur MSD, Tel: +32. 2. 726. 95.84 Italia: Sanofi Pasteur MSD Spa, Tel: +39. 06. 664. 092.11 Kύπρος: Merck Sharp &amp; Dohme (Middle East) Limited., Τηλ: +357 22866700 Latvija: SIA Merck Sharp &amp; Dohme Latvija, Tel: +371. 7364.224 Lietuva: UAB Merck Sharp &amp; Dohme, Tel.: +370. 5. 2780.247 Luxembourg/Luxemburg: Sanofi Pasteur MSD, Tél: +32. 2. 726. 95.84 Magyarország: MSD Magyarország Kft, Tel.:+ 36. 1. 888.5300 Malta: MSD Interpharma, Tel:+ 33. 1. 30. 82. 10.00 Nederland: Sanofi Pasteur MSD, Tel: +31. 23. 567. 96.00 Norge: Sanofi Pasteur MSD, Tlf: +47. 67. 50. 50.20 Österreich: Sanofi Pasteur MSD GmbH, Tel: +43. 1. 86. 67. 02. 22.02 Polska: MSD Polska Sp. z o. o., Tel.: +48. 22. 549. 51.00 Portugal: Sanofi Pasteur MSD, SA, Tel: +351 21 470 45 50 România: Merck Sharp &amp; Dohme Romanian S. R. L., Tel:+ 4021 529 29 00 Slovenija: Merck Sharp &amp; Dohme inovativna zdravila d. o. o. Limited, Tel: +386. 1. 520.4201 Slovenská republika: Merck Sharp &amp; Dohme IDEA, Inc., Tel: +421. 2.58282010 Suomi/Finland: Sanofi Pasteur MSD, Puh/Tel: +358. 9. 565. 88.30 Sverige: Sanofi Pasteur MSD, Tel: +46. 8. 564. 888.60 United Kingdom: Sanofi Pasteur MSD Ltd, Tel: +44 1628 785 291
+ Este folheto foi aprovado pela última vez em ……… ..
+ 75 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR HBVAXPRO 10 microgramas/ml, suspensão injectável em seringa pré-cheia Vacina contra a hepatite B (ADNr)
+ Leia atentamente este folheto antes de ser vacinado.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Se algum dos efeitos secundários de agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é HBVAXPRO 10 microgramas/ml e para que é utilizado 2. Antes de utilizar HBVAXPRO 10 microgramas/ml 3. Como utilizar HBVAXPRO 10 microgramas/ml 4. Efeitos secundários possíveis 5. Como conservar HBVAXPRO 10 microgramas/ml 6. Outras informações
+ 1. O QUE É HBVAXPRO 10 microgramas/ml E PARA QUE É UTILIZADO
+ Esta vacina está indicada na imunização activa contra a infecção provocada por todos os subtipos conhecidos do vírus da hepatite B em adultos e adolescentes (idade igual ou superior a 16 anos) considerados em situação de risco de exposição ao vírus da Hepatite B.
+ É de esperar que a hepatite D seja igualmente prevenida pela imunização com HBVAXPRO pois a hepatite D não ocorre na ausência de infecção com hepatite B.
+ A vacina não impedirá a infecção provocada por outros agentes, tais como os vírus da hepatite A, da hepatite C e da hepatite E e de outros patogénicos que possam infectar o fígado.
+ 2. ANTES DE UTILIZAR HBVAXPRO 10 microgramas/ml
+ Não utilize HBVAXPRO 10 microgramas/ml: -se tem alergia (hipersensibilidade) ao antigénio de superfície da hepatite B ou a qualquer outros
+ componente de HBVAXPRO (ver secção 6.)
+ -se tem doença febril grave
+ Tome especial cuidado com HBVAXPRO 10 microgramas/ml:
+ Gravidez e Aleitamento: Este medicamento só deve ser receitado a mulheres grávidas com muita precaução. O aleitamento não é uma contra-indicação. Consulte o seu médico ou farmacêutico antes de tomar qualquer medicamento.
+ Condução e utilização de máquinas: Alguns dos efeitos raros poderão afectar a capacidade de condução ou utilização de máquinas.
+ Utilização com outras vacinas: Esta vacina pode ser administrada simultaneamente com imunoglobulina da hepatite B, mas em local de injecção diferente. Esta vacina pode ser utilizada para completar uma primeira imunização, ou como dose de reforço em indivíduos pré-vacinados com outra vacina contra a hepatite B. Esta vacina pode ser administrada concomitantemente com outras vacinas, usando seringas e locais de administração diferentes.
+ 76 Informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica.
+ 3. COMO UTILIZAR HBVAXPRO 10 microgramas/ml
+ Posologia: A dose recomendada para cada injecção (1 ml) é de 10 microgramas para adultos e adolescentes (idade igual ou superior a 16 anos)
+ O esquema de vacinação deverá incluir pelo menos três injecções.
+ Poderão ser recomendados dois esquemas de imunização:
+ -duas injecções com um intervalo de um mês e uma terceira dose 6 meses após a primeira
+ administração (0,1,6 meses).
+ -três injecções com um intervalo de um mês e uma quarta dose um ano mais tarde, se for
+ necessária uma imunidade rápida (0,1,2,12 meses).
+ Em caso de exposição recente ao vírus da hepatite B, poderá ser administrada uma primeira dose de HBVAXPRO juntamente com a dose apropriada de imunoglobulina.
+ Alguns esquemas locais actualmente incluem recomendações para uma dose de reforço. O seu médico ou farmacêutico informá-lo-á se deverá ser administrada a dose de reforço.
+ Modo de administração: Deverá ser bem agitada até obter-se uma suspensão branca ligeiramente opaca. A agulha é inserida rodando na direcção dos ponteiros do relógio, até que a agulha se fixe, com segurança, na agulha. O médico irá administrar a vacina na forma de injecção no músculo. O músculo superior do braço é o local preferencial para a injecção intramuscular nos adultos e adolescentes.
+ A vacina nunca deverá ser administrada numa veia.
+ Excepcionalmente, esta vacina pode ser injectada por via subcutânea a doentes com trombocitopénia (diminuição das plaquetas no sangue) ou a pessoas em risco de hemorragia.
+ Caso se tenha esquecido de utilizar uma dose de HBVAXPRO 10 microgramas/ml:
+ Se faltar a uma injecção programada, o seu médico decidirá quando deverá ser administrada a dose em falta
+ Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou farmacêutico.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todos os medicamentos, HBVAXPRO pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ Tal como para outras vacinas anti-hepatite B, em muitos dos casos, a relação causal dos efeitos secundários com a vacina não foi estabelecida.
+ HBVAXPRO é geralmente bem tolerado. 77 Os efeitos secundários mais frequentemente observados são as reacções no local de administração: dor, vermelhidão e endurecimento. Outros efeitos secundários são notificados muito raramente: baixa contagem de plaquetas, doença dos nódulos linfáticos, reacções alérgicas, doenças do sistema nervoso tais como sensação de formigueiro ou picada, paralisia facial, inflamação de nervos incluindo síndrome de Guillain-Barré, inflamação do nervo ocular que leva a alterações da visão, encefalite, exacerbação de esclerose múltipla, esclerose múltipla, convulsões, dores de cabeça, tonturas e enfraquecimento, pressão arterial baixa, inflamação de vasos sanguíneos, sintomas semelhantes à asma, vómitos, náuseas, diarreia, dor abdominal, reacções na pele tais como eczema, exantema, queda de cabelo, comichão, urticária e elementos vesiculares na pele, dor nas articulações, artrite, dor muscular, dor nas extremidades, fadiga, febre, mal-estar, sintomas semelhantes aos da gripe, e aumento de enzimas hepáticos.
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR HBVAXPRO 10 microgramas/ml
+ Manter fora do alcance e da vista das crianças.
+ Não utilize HBVAXPRO após o prazo de validade impresso no rótulo.
+ Conservar no frigorifico (2ºC – 8ºC) Não congelar.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de HBVAXPRO 10 microgramas/ml
+ A substância activa é, para uma dose de 1 ml: Antigénio de superfície da hepatite B, recombinante (AgHBs)* ……………… .. 10,00 microgramas Adsorvido em sulfato de hidroxifosfato de alumínio amorfo (0,5 miligrama Al+)
+ * produzido a partir da estirpe recombinante da levedura Saccharomyces cerevisiae (estirpe 2150-2-3)
+ Os outros ingredientes são: cloreto de sódio, bórax e água para preparações injectáveis.
+ Qual o aspecto de HBVAXPRO 10 microgramas/ml e conteúdo da embalagem
+ Cada dose contém 1 ml de suspensão injectável em seringa pré-cheia. Embalagens de 1 e 10 seringas pré-cheias sem agulha ou com 1 ou 2 agulhas separadas. É possível que não sejam comercializadas todas as apresentações.
+ Titular da Autorização de Introdução no Mercado e Fabricante
+ Titular da Autorização de Introdução no Mercado: Sanofi Pasteur MSD SNC,8 rue Jonas Salk, F-69007 Lyon, França
+ Fabricante Responsável pela Libertação de Lote: Merck Sharp &amp; Dohme, B. V., Waarderweg,39,2031 BN Haarlem, Holanda
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no mercado.
+ 78 België/Belgique/Belgien: Sanofi Pasteur MSD, Tél/Tel: +32. 2. 726. 95.84 България: Мерк Шарп и Доум България ЕООД, Тел.+ 359 2 8193740 Česká republika: Merck Sharp &amp; Dohme, IDEA, Inc. Tel.: +420. 233. 010.111 Danmark: Sanofi Pasteur MSD, Tlf: +45. 45. 26. 77.00 Deutschland: Sanofi Pasteur MSD GmbH, Tel: +49. 6224.5940 Eesti: Merck Sharp &amp; Dohme OÜ, Tel: +372. 613.9750 Ελλάδα: ΒΙΑΝΕΞ Α. Ε., Τηλ: +30. 210.8009111 España: Sanofi Pasteur MSD S. A., Tel: +34. 91. 371. 78.00 France: Sanofi Pasteur MSD SNC, Tél: +33. 4. 37. 28. 40.00 Ireland: Sanofi Pasteur MSD Ltd, Tel: +3531. 468.5600 Ísland: Sanofi Pasteur MSD, Tel: +32. 2. 726. 95.84 Italia: Sanofi Pasteur MSD Spa, Tel: +39. 06. 664. 092.11 Kύπρος: Merck Sharp &amp; Dohme (Middle East) Limited., Τηλ: +357 22866700 Latvija: SIA Merck Sharp &amp; Dohme Latvija, Tel: +371. 7364.224 Lietuva: UAB Merck Sharp &amp; Dohme, Tel.: +370. 5. 2780.247 Luxembourg/Luxemburg: Sanofi Pasteur MSD, Tél: +32. 2. 726. 95.84 Magyarország: MSD Magyarország Kft, Tel.:+ 36. 1. 888.5300 Malta: MSD Interpharma, Tel:+ 33. 1. 30. 82. 10.00 Nederland: Sanofi Pasteur MSD, Tel: +31. 23. 567. 96.00 Norge: Sanofi Pasteur MSD, Tlf: +47. 67. 50. 50.20 Österreich: Sanofi Pasteur MSD GmbH, Tel: +43. 1. 86. 67. 02. 22.02 Polska: MSD Polska Sp. z o. o., Tel.: +48. 22. 549. 51.00 Portugal: Sanofi Pasteur MSD, SA, Tel: +351 21 470 45 50 România: Merck Sharp &amp; Dohme Romania S. R. L., Tel:+ 4021 529 29 00 Slovenija: Merck Sharp &amp; Dohme inovativna zdravila d. o. o., Tel: +386. 1. 520.4201 Slovenská republika: Merck Sharp &amp; Dohme IDEA, Inc., Tel: +421. 2.58282010 Suomi/Finland: Sanofi Pasteur MSD, Puh/Tel: +358. 9. 565. 88.30 Sverige: Sanofi Pasteur MSD, Tel: +46. 8. 564. 888.60 United Kingdom: Sanofi Pasteur MSD Ltd, Tel: +44 1628 785 291
+ Este folheto foi aprovado pela última vez em ………
+ 79 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ HBVAXPRO 40 microgramas/ml, suspensão injectável Vacina contra a hepatite B (ADNr)
+ Leia atentamente este folheto antes de ser vacinado.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é HBVAXPRO 40 microgramas/ml e para que é utilizado 2. Antes de utilizar HBVAXPRO 40 microgramas/ml 3. Como utilizar HBVAXPRO 40 microgramas/ml 4. Efeitos secundários possíveis 5. Como conservar HBVAXPRO 40 microgramas/ml 6. Outras informações
+ 1. O QUE É HBVAXPRO 40 microgramas/ml E PARA QUE É UTILIZADO
+ Esta vacina está indicada na imunização activa contra a infecção provocada por todos os subtipos conhecidos do vírus da hepatite B em indivíduos em pré-diálise e diálise.
+ É de esperar que a hepatite D seja igualmente prevenida pela imunização com HBVAXPRO pois a hepatite D não ocorre na ausência de infecção com hepatite B.
+ A vacina não impedirá a infecção provocada por outros agentes, tais como os vírus da hepatite A, da hepatite C e da hepatite E e de outros patogénicos que possam infectar o fígado.
+ 2. ANTES DE UTILIZAR HBVAXPRO 40 microgramas/ml
+ Não utilize o HBVAXPRO 40 microgramas/ml:
+ -Se tem alergia (hipersensibilidade) ao antigénio de superfície da hepatite B ou a qualquer outro
+ componente de HBVAXPRO (ver secção 6.)
+ -Se tem doença febril grave
+ Tome especial cuidado com HBVAXPRO 40 microgramas/ml:
+ Gravidez e Aleitamento Este medicamento só deve ser receitado a mulheres grávidas com muita precaução. O aleitamento não é uma contra-indicação. Consulte o seu médico ou farmacêutico antes de tomar qualquer medicamento.
+ Condução e utilização de máquinas Alguns dos efeitos raros poderão afectar a capacidade de condução ou utilização de máquinas.
+ Utilização com outras vacinas Esta vacina pode ser administrada simultaneamente com imunoglobulina da hepatite B, mas em local de injecção diferente. Esta vacina pode ser utilizada para completar uma primeira imunização, ou como dose de reforço em indivíduos pré-vacinados com outra vacina contra a hepatite B.
+ 80 Esta vacina pode ser administrada concomitantemente com outras vacinas, usando seringas e locais de administração diferentes.
+ Informe o seu médico ou farmacêutico se o seu filho estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica.
+ 3. COMO UTILIZAR HBVAXPRO 40 microgramas/ml
+ Posologia: A dose recomendada para cada injecção (1 ml) é de 40 microgramas para adultos em pré-diálise e diálise.
+ O esquema de vacinação deverá incluir pelo menos três injecções.
+ O esquema de vacinação é de duas injecções com um intervalo de um mês e uma terceira injecção 6 meses após a primeira administração (0,1,6 meses)
+ Deve-se considerar uma dose de reforço nestes vacinados, caso o nível de anticorpos contra o antigénio de superfície do vírus da hepatite B seja inferior a 10 UI/l.
+ Modo de administração: Deverá ser bem agitada até obter-se uma suspensão branca ligeiramente opaca. O médico irá administar a vacina na forma de injecção no músculo. O músculo superior do braço é o local preferencial para a injecção intramuscular nos adultos.
+ A vacina nunca deverá ser administrada numa veia.
+ Excepcionalmente, esta vacina pode ser injectada por via subcutânea a doentes com trombocitopénia (diminuição das plaquetas no sangue) ou a pessoas em risco de hemorragia.
+ Caso se tenha esquecido de utilizar uma dose de HBVAXPRO 40 microgramas/ml:
+ Se faltar a uma injecção programada, o seu médico decidirá quando deverá ser administrada a dose em falta
+ Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou farmacêutico.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todos os medicamentos, HBVAXPRO pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ Tal como para outras vacinas anti-hepatite B, em muitos dos casos, a relação causal dos efeitos secundários com a vacina não foi estabelecida.
+ HBVAXPRO é geralmente bem tolerado. Os efeitos secundários mais frequentemente observados são as reacções no local de administração: dor, vermelhidão e endurecimento. Outros efeitos secundários são notificados muito raramente: baixa contagem de plaquetas, doença dos nódulos linfáticos, reacções alérgicas, doenças do sistema nervoso tais como sensação de formigueiro ou picada, paralisia facial, inflamação de nervos incluindo síndrome de Guillain-Barré, inflamação do nervo ocularque leva a alterações da visão, encefalite, exacerbação de esclerose múltipla, esclerose
+ 81 múltipla, convulsões, dores de cabeça, tonturas e enfraquecimento, pressão arterial baixa, inflamação de vasos sanguíneos, sintomas semelhantes à asma, vómitos, náuseas, diarreia, dor abdominal, reacções na pele tais como eczema, exantema, queda de cabelo, comichão, urticária e elementos vesiculares na pele, dor nas articulações, artrite, dor muscular, dor nas extremidades, fadiga, febre, mal-estar, sintomas semelhantes aos da gripe, e aumento de enzimas hepáticos.
+ Se algum dos efeitos secundários de agravar ou se detectar efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR HBVAXPRO 40 microgramas/ml
+ Manter fora do alcance e da vista das crianças.
+ Não utilize HBVAXPRO após o prazo de validade impresso no rótulo.
+ Conservar no frigorifico (2ºC – 8ºC) Não congelar.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de HBVAXPRO 40 microgramas/ml
+ A substância activa é, para uma dose de 1 ml: Antigénio de superfície da hepatite B, recombinante (AgHBs)* ……………… .. 40,00 microgramas Adsorvido em sulfato de hidroxifosfato de alumínio amorfo (0,5 miligrama Al+)
+ * produzido a partir da estirpe recombinante da levedura Saccharomyces cerevisiae (estirpe 2150-2-3)
+ Os outros ingredientes são: cloreto de sódio, bórax e água para preparações injectáveis.
+ Qual o aspecto de HBVAXPRO 40 microgramas/ml e conteúdo da embalagem
+ Cada dose contém 1 ml de suspensão injectável em frasco para injectáveis. Embalagem de 1 frasco para injectáveis.
+ Titular da Autorização de Introdução no Mercado e Fabricante
+ Titular da Autorização de Introdução no Mercado: Sanofi Pasteur MSD SNC,8 rue Jonas Salk, F-69007 Lyon, França
+ Fabricante Responsável pela Libertação de Lote: Merck Sharp &amp; Dohme, B. V., Waarderweg,39,2031 BN Haarlem, Holanda
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no mercado.
+ 82 België/Belgique/Belgien: Sanofi Pasteur MSD, Tél/Tel: +32. 2. 726. 95.84 България: Мерк Шарп и Доум България ЕООД, Тел.+ 359 2 8193740 Česká republika: Merck Sharp &amp; Dohme, IDEA, Inc. Tel.: +420. 233. 010.111 Danmark: Sanofi Pasteur MSD, Tlf: +45. 45. 26. 77.00 Deutschland: Sanofi Pasteur MSD GmbH, Tel: +49. 6224.5940 Eesti: Merck Sharp &amp; Dohme OÜ, Tel: +372. 613.9750 Ελλάδα: ΒΙΑΝΕΞ Α. Ε., Τηλ: +30. 210.8009111 España: Sanofi Pasteur MSD S. A., Tel: +34. 91. 371. 78.00 France: Sanofi Pasteur MSD SNC, Tél: +33. 4. 37. 28. 40.00 Ireland: Sanofi Pasteur MSD Ltd, Tel: +3531. 468.5600 Ísland: Sanofi Pasteur MSD, Tel: +32. 2. 726. 95.84 Italia: Sanofi Pasteur MSD Spa, Tel: +39. 06. 664. 092.11 Kύπρος: Merck Sharp &amp; Dohme (Middle East) Limited., Τηλ: +357 22866700 Latvija: SIA Merck Sharp &amp; Dohme Latvija, Tel: +371. 7364.224 Lietuva: UAB Merck Sharp &amp; Dohme, Tel.: +370. 5. 2780.247 Luxembourg/Luxemburg: Sanofi Pasteur MSD, Tél: +32. 2. 726. 95.84 Magyarország: MSD Magyarország Kft, Tel.:+ 36. 1. 888.5300 Malta: MSD Interpharma, Tel:+ 33. 1. 30. 82. 10.00 Nederland: Sanofi Pasteur MSD, Tel: +31. 23. 567. 96.00 Norge: Sanofi Pasteur MSD, Tlf: +47. 67. 50. 50.20 Österreich: Sanofi Pasteur MSD GmbH, Tel: +43. 1. 86. 67. 02. 22.02 Polska: MSD Polska Sp. z o. o., Tel.: +48. 22. 549. 51.00 Portugal: Sanofi Pasteur MSD, SA, Tel: +351 21 470 45 50 România: Merck Sharp &amp; Dohme Romania S. R. L., Tel:+ 4021 529 29 00 Slovenija: Merck Sharp &amp; Dohme inovativna zdravila d. o. o., Tel: +386. 1. 520.4201 Slovenská republika: Merck Sharp &amp; Dohme IDEA, Inc., Tel: +421. 2.58282010 Suomi/Finland: Sanofi Pasteur MSD, Puh/Tel: +358. 9. 565. 88.30 Sverige: Sanofi Pasteur MSD, Tel: +46. 8. 564. 888.60 United Kingdom: Sanofi Pasteur MSD Ltd, Tel: +44 1628 785 291
+ Este folheto foi aprovado pela última vez em ………
+ 83

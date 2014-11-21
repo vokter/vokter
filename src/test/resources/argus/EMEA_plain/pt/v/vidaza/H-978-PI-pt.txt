@@ -1,0 +1,303 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. NOME DO MEDICAMENTO
+ Vidaza 25 mg/ml pó para suspensão injectável
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada frasco para injectáveis contém 100 mg de azacitidina. Após reconstituição, cada ml de suspensão contém 25 mg de azacitidina.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Pó para suspensão injectável. Pó liofilizado branco. 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Vidaza é indicado para o tratamento de doentes adultos que não são elegíveis para transplantação de células estaminais hematopoiéticas com: • síndromes mielodisplásicas (SMD) de risco intermédio 2 e de alto risco de acordo com o Sistema de Classificação de Prognóstico Internacional (International Prognostic Scoring System
+ -IPSS)
+ • leucemia mielomonocítica crónica (Chronic Myelomonocytic Leukaemia-CMML) com 10-29% de blastos na medula óssea sem doença mieloproliferativa, • leucemia mielóide aguda (LMA) com 20-30% de blastos e displasia multi-série, de acordo com a classificação da Organização Mundial da Saúde (OMS).
+ 4.2 Posologia e modo de administração O tratamento com Vidaza deve ser iniciado e monitorizado sob a supervisão de um médico experiente na utilização de agentes quimioterapêuticos. Os doentes devem ser pré-medicados com antieméticos para as náuseas e vómitos.
+ Posologia A dose inicial recomendada para o primeiro ciclo de tratamento, para todos os doentes independentemente dos valores laboratoriais hematológicos iniciais, é de 75 mg/m2 da área de superfície corporal, injectada por via subcutânea, diariamente durante 7 dias, seguida de um período de descanso de 21 dias (ciclo de tratamento de 28 dias).
+ Recomenda-se que os doentes sejam tratados durante um mínimo de 6 ciclos. O tratamento deve continuar enquanto o doente beneficiar do mesmo ou até à progressão da doença.
+ Os doentes devem ser monitorizados para detecção de resposta/toxicidade hematológica e de toxicidade renal (ver secção 4.4), podendo ser necessário adiar o início do ciclo seguinte ou diminuir a dose como se descreve abaixo.
+ 2 Ajuste posológico devido a toxicidade hematológica A toxicidade hematológica é definida como a contagem mais baixa atingida num dado ciclo (nadir) se as plaquetas diminuírem para um valor inferior a 50,0 x 109/l e/ou a contagem absoluta de neutrófilos (CAN) diminuir para um valor inferior a 1 x 109/l.
+ A recuperação é definida como um aumento da(s) linha(s) celular(es) onde se observou toxicidade hematológica de pelo menos metade da diferença do nadir e da contagem inicial mais a contagem de nadir (isto é, contagem sanguínea da recuperação ≥ Contagem de Nadir+ (0,5 x[ Contagem inicial – Contagem de Nadir]).
+ Doentes sem diminuição das contagens sanguíneas iniciais (isto é, leucócitos &gt; 3,0 x 109/l, CAN &gt; 1,5 x 109/l e plaquetas &gt; 75,0 x 109/l) antes do primeiro tratamento No caso de se observar toxicidade hematológica após o tratamento com Vidaza, o ciclo seguinte de terapêutica com Vidaza deve ser adiado até a contagem plaquetária e a CAN terem recuperado. Se a recuperação for atingida num período de 14 dias, não é necessário um ajuste posológico. Contudo, se a recuperação não for atingida num período de 14 dias, a dose deve ser diminuída de acordo com a tabela seguinte. Após as modificações da dose, a duração dos ciclos deve voltar a ser de 28 dias.
+ Contagens de nadir % da dose no ciclo seguinte se a recuperação*
+ CAN (x 109/l) Plaquetas (x 109/l) não for atingida num período de 14 dias
+ ≤ 1,0 &gt; 1,0
+ ≤ 50,0 &gt; 50,0
+ 50% 100% * Recuperação= contagens ≥ Contagem de Nadir+ (0,5 x[ Contagem inicial – Contagem de Nadir])
+ Doentes com diminuição das contagens sanguíneas iniciais (isto é, leucócitos &lt; 3,0 x 109/l ou CAN &lt; 1,5 x 109/l ou plaquetas &lt; 75,0 x 109/l) antes do primeiro tratamento Depois do tratamento com Vidaza, se a diminuição de leucócitos, da CAN ou de plaquetas em relação às contagens antes do tratamento for inferior a 50%, ou for superior a 50% mas com uma melhoria da diferenciação de qualquer uma das linhas celulares, o ciclo seguinte não deve ser adiado e não deve ser efectuado nenhum ajuste posológico.
+ Se a diminuição de leucócitos, da CAN ou de plaquetas for superior a 50% em relação às contagens antes do tratamento, sem melhoria na diferenciação das linhas celulares, o ciclo seguinte de terapêutica com Vidaza deve ser adiado até a contagem plaquetária e a CAN terem recuperado. Se a recuperação for atingida num período de 14 dias, não é necessário um ajuste posológico. Contudo, se a recuperação não ocorrer num período de 14 dias, deve determinar-se a celularidade da medula óssea. Se a celularidade da medula óssea for &gt; 50%, não devem ser efectuados ajustes posológicos. Se a celularidade da medula óssea for ≤ 50%, o tratamento deve ser adiado e a dose diminuída de acordo com a tabela seguinte:
+ Celularidade da medula óssea % da dose no ciclo seguinte se a recuperação não for atingida num período de 14 dias Recuperação* Recuperação* ≤ 21 dias &gt; 21 dias
+ 15-50% &lt; 15% 100% 50% 100% 33%
+ * Recuperação= contagens ≥ Contagem de Nadir+ (0,5 x[ Contagem inicial – Contagem de Nadir])
+ Após as modificações da dose, a duração dos ciclos deve voltar a ser de 28 dias.
+ 3 Populações especiais Compromisso renal: não foram realizados estudos formais em doentes com função renal diminuída. Os doentes com compromisso renal grave devem ser monitorizados cuidadosamente para detecção de acontecimentos adversos. Não se recomenda uma modificação específica da dose inicial em doentes com compromisso renal (por exemplo, valores iniciais da creatinina sérica ou do azoto ureico sanguíneo[ AUS] ≥ 2 vezes mais que o limite superior do normal[ LSN] ou bicarbonato sérico inferior a 20 mmol/l) antes do início do tratamento; as modificações subsequentes da dose devem ser efectuadas com base nos valores laboratoriais hematológicos e renais. Se ocorrerem diminuições inexplicadas dos níveis do bicarbonato sérico para menos de 20 mmol/l, a dose deve ser diminuída em 50% no ciclo seguinte. Se ocorrerem aumentos inexplicados da creatinina sérica ou do AUS para valores ≥ 2 vezes mais que os valores iniciais e acima do LSN, o ciclo seguinte deve ser adiado até os valores normalizarem ou voltarem aos valores iniciais e a dose deve ser diminuída em 50% no ciclo de tratamento seguinte (ver secção 4.4).
+ Compromisso hepático: não foram realizados estudos formais em doentes com compromisso hepático (ver secções 4.4). Os doentes com compromisso hepático grave devem ser monitorizados cuidadosamente para detecção de acontecimentos adversos. Não se recomenda uma modificação específica da dose inicial em doentes com compromisso hepático antes do início do tratamento; as modificações subsequentes da dose devem ser efectuadas com base nos valores laboratoriais hematológicos. Vidaza é contra-indicado em doentes com tumores hepáticos malignos em estado avançado (ver secções 4.3 e 4.4).
+ Idosos: não se recomendam ajustes posológicos específicos para os idosos. Como os doentes idosos têm uma maior probabilidade de ter a função renal diminuída, pode ser útil monitorizar esta função.
+ Crianças e adolescentes: Vidaza não é recomendado em crianças com idade inferior a 18 anos devido a dados insuficientes de segurança e eficácia.
+ Análises laboratoriais As provas da função hepática e a creatinina sérica devem ser determinadas antes do início da terapêutica e antes de cada ciclo de tratamento. Devem ser efectuados hemogramas completos antes do início da terapêutica e sempre que necessário para monitorizar a resposta e a toxicidade ou, no mínimo, antes de cada ciclo de tratamento.
+ Modo de administração Vidaza reconstituído deve ser administrado por via subcutânea no antebraço, na coxa ou no abdómen. Deve efectuar-se a rotação dos locais de injecção. As injecções seguintes devem ser administradas pelo menos a 2,5 cm do local anterior e nunca em zonas com dor, equimose, rubor ou endurecimento do local.
+ As instruções pormenorizadas sobre o procedimento de reconstituição e administração de Vidaza são apresentadas na secção 6.6.
+ 4.3 Contra-indicações Hipersensibilidade conhecida à substância activa ou a qualquer um dos excipientes.
+ Tumores hepáticos malignos em estado avançado (ver secção 4.4).
+ Aleitamento (ver secção 4.6). 4.4 Advertências e precauções especiais de utilização
+ Toxicidade hematológica O tratamento com azacitidina está associado a anemia, neutropenia e trombocitopenia, especialmente durante os dois primeiros ciclos (ver secção 4.8). Devem ser efectuados hemogramas completos para monitorizar a resposta e a toxicidade sempre que necessário ou pelo menos antes de cada ciclo de
+ 4 tratamento. Após administração da dose recomendada no primeiro ciclo, a dose dos ciclos subsequentes deve ser diminuída ou a sua administração adiada com base nas contagens de nadir e na resposta hematológica (ver secção 4.2). Os doentes devem ser aconselhados a notificar imediatamente episódios febris. Os doentes e os médicos também devem ser aconselhados a estarem atentos aos sinais e sintomas de hemorragia.
+ Compromisso hepático Não foram realizados estudos formais em doentes com compromisso hepático. Em doentes com uma carga tumoral extensiva devida a doença metastática foram notificados casos raros de coma hepático progressivo e morte durante o tratamento com azacitidina, especialmente naqueles com valores iniciais de albumina sérica &lt; 30 g/l. A azacitidina é contra-indicada em doentes com tumores hepáticos malignos em estado avançado (ver secção 4.3).
+ Compromisso renal Foram notificadas, raramente, anomalias renais, que variam desde uma creatinina sérica elevada até insuficiência renal e morte, em doentes tratados com azacitidina intravenosa em associação com outros agentes quimioterapêuticos. Além disso, desenvolveu-se acidose tubular renal, definida como uma diminuição do bicarbonato sérico para valores &lt; 20 mmol/l associada a uma urina alcalina e a hipocaliemia (potássio sérico &lt; 3 mmol/l), em 5 indivíduos com leucemia mielogénica crónica (LMC) tratados com azacitidina e etoposido. Se ocorrerem diminuições inexplicadas do bicarbonato sérico (&lt; 20 mmol/l) ou aumentos da creatinina sérica ou do AUS inexplicados, a dose deve ser diminuída ou a sua administração adiada (ver secção 4.2).
+ Os doentes com compromisso renal devem ser monitorizados regularmente para detecção de toxicidade porque a azacitidina e/ou os seus metabolitos são excretados principalmente pelo rim (ver secção 4.2).
+ Cardiopatia e doença pulmonar Os doentes com antecedentes de insuficiência cardíaca congestiva grave, com cardiopatia clinicamente instável ou com doença pulmonar foram excluídos do estudo clínico de referência; portanto, a segurança e a eficácia de Vidaza nestes doentes não foram estabelecidas.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Com base em dados in vitro, o metabolismo da azacitidina não parece ser mediado pelas isoenzimas do citocromo P450 (CYPs) e pelas UDP-glucuronosiltransferases (UGTs), sulfotransferases (SULTs) e glutationa-transferases (GSTs); interacções in vivo relacionadas com estas enzimas metabolizadoras são, portanto, consideradas pouco prováveis.
+ São pouco prováveis efeitos inibitórios ou indutores clinicamente significativos da azacitidina a nível das enzimas do citocromo P450 (ver secção 5.2).
+ Não foram realizados estudos clínicos formais de interacção da azacitidina com outros medicamentos.
+ 4.6 Gravidez e aleitamento Gravidez Não existem dados adequados sobre a utilização de azacitidina em mulheres grávidas. Os estudos em ratinhos revelaram toxicidade reprodutiva (ver secção 5.3). Desconhece-se o risco potencial para o ser humano. Com base em resultados de estudos em animais e no seu mecanismo de acção, a azacitidina não deve ser utilizada durante a gravidez, especialmente durante o primeiro trimestre, a menos que tal seja claramente necessário. Os benefícios do tratamento devem ser cuidadosamente ponderados em relação ao risco possível para o feto, considerando cada caso em particular.
+ Os homens e as mulheres com potencial para engravidar deverão utilizar um método contraceptivo eficaz durante e até 3 meses após o tratamento.
+ 5 Aleitamento Não se sabe se a azacitidina ou os seus metabolitos são excretados no leite humano. Devido às potenciais reacções adversas graves que podem ocorrer no lactente, a amamentação é contra-indicada durante a terapêutica com azacitidina.
+ Fertilidade Não existem dados do ser humano sobre os efeitos da azacitidina na fertilidade. Em animais, foram documentados efeitos adversos da azacitidina na fertilidade dos machos (ver secção 5.3). Os homens devem ser aconselhados a não conceber uma criança durante o tratamento e têm de utilizar uma contracepção eficaz durante e até 3 meses após o tratamento. Antes do início do tratamento, os doentes do sexo masculino devem ser aconselhados a procurar aconselhamento sobre conservação de espermatozóides.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas. Os doentes devem ser advertidos de que durante o tratamento poderão ter efeitos indesejáveis, como fadiga. Portanto, deverá recomendar-se precaução durante a condução de veículos ou utilização de máquinas.
+ 4.8 Efeitos indesejáveis As reacções adversas consideradas como possível ou provavelmente relacionadas com a administração de Vidaza ocorreram em 97% dos doentes.
+ As reacções adversas notificadas com mais frequência com o tratamento com azacitidina foram reacções hematológicas (71,4%) incluindo trombocitopenia, neutropenia e leucopenia (geralmente de Grau 3−4), acontecimentos gastrointestinais (60,6%) incluindo náuseas e vómitos (geralmente de Grau 1−2) ou reacções no local de injecção (77,1%; geralmente de Grau 1−2).
+ As reacções adversas graves mais frequentes (&gt; 2%) observadas no estudo de referência (AZA PH GL 2003 CL 001) e também notificadas nos estudos de apoio (CALGB 9221 e CALGB 8921) incluíram neutropenia febril (8,0%) e anemia (2,3%). Outras reacções adversas notificadas menos frequentemente (&lt; 2%) incluíram sépsis neutropénica, pneumonia, trombocitopenia e acontecimentos hemorrágicos (por exemplo, hemorragia cerebral).
+ A tabela seguinte contém as reacções adversas para as quais se pode estabelecer, de forma plausível, uma relação causal com o tratamento com a azacitidina. As frequências indicadas baseiam-se nas observações efectuadas durante o estudo clínico de referência ou nos dois estudos clínicos de apoio.
+ As frequências são definidas como: muito frequentes (≥ 1/10), frequentes (≥ 1/100 a &lt; 1/10), pouco frequentes (≥ 1/1.000 a &lt; 1/100), raras (≥ 1/10.000 a &lt; 1/1.000), muito raras (&lt; 1/10.000), desconhecidas (não pode ser calculada a partir dos dados disponíveis). Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ 6 Classe de sistemas de órgãos
+ Muito frequentes Frequentes Pouco frequentes Infecções e pneumonia,
+ sépsis neutropénica,
+ infestações
+ nasofaringite
+ infecção das vias respiratórias superiores, infecção das vias urinárias, sinusite, faringite, rinite, herpes simplex
+ Doenças do neutropenia febril,
+ insuficiência da medula
+ sangue e do sistema linfático Doenças do sistema imunitário
+ neutropenia, leucopenia, trombocitopenia, anemia
+ óssea, pancitopenia
+ reacções de hipersensibilidade
+ Doenças do metabolismo e da nutrição Perturbações do foro psiquiátrico
+ anorexia
+ hipocaliemia estado confusional, ansiedade, insónia
+ Doenças do sistema nervoso Afecções oculares Vasculopatias
+ tonturas, cefaleias
+ hemorragia intracraniana, letargia hemorragia ocular, hemorragia conjuntival hipertensão, hipotensão, hematoma
+ Doenças respiratórias, torácicas e do mediastino
+ dispneia
+ dispneia de esforço, dor faringolaríngea
+ Doenças diarreia, vómitos,
+ hemorragia gastrointestinal,
+ gastrointestinais
+ obstipação, náuseas,
+ hemorragia hemorroidal,
+ dor abdominal
+ estomatite, hemorragia gengival, dispepsia
+ Afecções dos petéquias, prurido,
+ púrpura, alopecia, eritema,
+ tecidos cutâneos e subcutâneas
+ exantema cutâneo, equimose
+ exantema cutâneo macular
+ Afecções musculosquelétic as e dos tecidos conjuntivos Doenças renais e urinárias
+ artralgia
+ mialgia, dor musculosquelética hematúria
+ Perturbações fadiga, pirexia, dor
+ local de injecção:
+ gerais e
+ torácica, eritema no
+ equimose, hematoma,
+ alterações no
+ local de injecção, dor
+ induração, exantema
+ local de
+ no local de injecção,
+ cutâneo, prurido,
+ administração
+ reacção no local de
+ inflamação, descoloração,
+ Exames complementares de diagnóstico injecção (não especificada)
+ nódulo e hemorragia. Mal-estar diminuição do peso
+ 7 Reacções adversas hematológicas As reacções adversas notificadas com mais frequência associadas ao tratamento com azacitidina foram reacções hematológicas incluindo trombocitopenia, neutropenia e leucopenia, geralmente de Grau 3 ou 4. Verifica-se um maior risco de ocorrência destes acontecimentos durante os dois primeiros ciclos, após os quais ocorrem com menos frequência em doentes com restabelecimento da função hematológica. A maior parte das reacções adversas hematológicas foram controladas efectuando a monitorização de rotina de hemogramas completos e adiando a administração de azacitidina no ciclo seguinte, administrando antibióticos profiláticos e/ou tratamento de suporte com factores de crescimento (por exemplo, G-CSF) para a neutropenia e transfusões para a anemia ou trombocitopenia, conforme necessário.
+ Infecções A mielossupressão pode causar neutropenia e um risco acrescido de infecção. Foram notificadas reacções adversas graves como sépsis neutropénica (0,8%) e pneumonia (2,5%) em doentes medicados com azacitidina. As infecções podem ser controladas utilizando anti-infecciosos e tratamento de suporte com factores de crescimento (por exemplo, G-CSF) para a neutropenia.
+ Hemorragia Pode ocorrer hemorragia em doentes medicados com azacitidina. Foram notificadas reacções adversas graves como hemorragia gastrointestinal (0,8%) e hemorragia intracraniana (0,5%). Os doentes devem ser monitorizados para detecção de sinais e sintomas de hemorragia, especialmente aqueles com trombocitopenia anterior ou com trombocitopenia relacionada com o tratamento.
+ Hipersensibilidade Foram notificadas reacções de hipersensibilidade graves (0,25%) em doentes medicados com azacitidina. No caso de uma reacção de tipo anafiláctico, o tratamento com azacitidina deve ser imediatamente suspenso e iniciado o tratamento sintomático apropriado.
+ Reacções adversas cutâneas e subcutâneas A maioria das reacções adversas cutâneas e subcutâneas foram associadas com o local de injecção. Nenhuma destas reacções adversas levou à suspensão temporária ou permanente da azacitidina ou à diminuição da dose da azacitidina no estudo de referência. A maioria das reacções adversas ocorreu durante os dois primeiros ciclos e tenderam a diminuír com os ciclos subsequentes. As reacções adversas subcutâneas, como exantema/inflamação/prurido no local de injecção, exantema cutâneo, eritema e lesão cutânea podem exigir tratamento com medicamentos concomitantes, como anti-histamínicos, corticosteróides e anti-inflamatórios não esteróides (AINEs).
+ Reacções adversas gastrointestinais As reacções adversas gastrointestinais notificadas com mais frequência associadas ao tratamento com azacitidina incluíram obstipação, diarreia, náuseas e vómitos. Estas reacções adversas foram tratadas sintomaticamente com antieméticos para as náuseas e vómitos, com antidiarreicos para a diarreia e com laxantes e/ou amolecedores das fezes para a obstipação.
+ 4.9 Sobredosagem Foi notificado um caso de sobredosagem com azacitidina durante os ensaios clínicos. Um doente teve diarreia, náuseas e vómitos após receber uma dose intravenosa única de aproximadamente 290 mg/m2, quase 4 vezes a dose inicial recomendada.
+ Na eventualidade de uma sobredosagem, deve monitorizar-se o doente efectuando as contagens sanguíneas apropriadas e administrar-se o tratamento de suporte, conforme necessário. Não existe um antídoto específico conhecido para a sobredosagem com a azacitidina.
+ 8 5. PROPRIEDADES FARMACOLÓGICAS
+ 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: agente antineoplásico, análogos da pirimidina; código ATC: L01BC07
+ Mecanismo de acção Pensa-se que a azacitidina exerce os seus efeitos antineoplásicos através de mecanismos múltiplos incluindo citotoxicidade a nível das células hematopoiéticas anormais na medula óssea e por hipometilação do ADN. Os efeitos citotóxicos da azacitidina podem ser causados por mecanismos múltiplos, incluindo inibição do ADN, ARN e síntese proteica, incorporação no ARN e ADN e por activação das vias de lesão do ADN. As células não proliferativas são relativamente insensíveis à azacitidina. A incorporação da azacitidina no ADN resulta na inactivação das metiltransferases do ADN causando a hipometilação do ADN. A hipometilação do ADN de genes metilados de forma aberrante envolvidos nas vias normais de regulação, diferenciação e morte do ciclo celular pode resultar na reexpressão de genes e no restabelecimento das funções supressoras tumorais em células cancerosas. A importância relativa da hipometilação do ADN em relação à citotoxicidade ou a outras actividades da azacitidina para a evolução clínica não foi estabelecida.
+ Eficácia e segurança clínicas A eficácia e a segurança de Vidaza foram estudadas num estudo internacional comparativo de Fase 3, com grupos paralelos, aleatorizado, aberto, controlado e multicêntrico (AZA PH GL 2003 CL 001) em doentes com: SMD de risco intermédio 2 e de alto risco de acordo com o Sistema de Classificação de Prognóstico Internacional (International Prognostic Scoring System-IPSS), anemia refractária com excesso de blastos (AREB), anemia refractária com excesso de blastos em transformação (AREB-T) e leucemia mielomonocítica crónica modificada (m-CMML), de acordo com o sistema de classificação Francês Americano Britânico (FAB). Os doentes com AREB-T (21-30% de blastos) são presentemente considerados doentes com LMA segundo o sistema de classificação actual da OMS. Azacitidina mais os melhores cuidados de suporte (Best Supportive Care-BSC) foram comparados com regimes de cuidados convencionais (Conventional Care Regimens-CCR) (n= 179). Os CCR consistiram em BSC isolados (n= 105), citarabina em dose baixa mais BSC (n= 49) ou quimioterapia de indução padrão mais BSC (n= 25). Os doentes foram pré-seleccionados pelos seus médicos para um dos três CCR antes da aleatorização. Os doentes receberam este regime pré-seleccionado se não tivessem sido aleatorizados para Vidaza. Como parte dos critérios de inclusão, era necessário que os doentes tivessem um estado de desempenho do Grupo Oncológico Cooperativo do Leste (Eastern Cooperative Oncology Group-ECOG) de 0-2. Os doentes com SMD secundária foram excluídos do estudo. O critério de avaliação primário do estudo foi a sobrevida global. Vidaza foi administrado numa dose subcutânea de 75 mg/m2 por dia durante 7 dias, seguida de um período de descanso de 21 dias (ciclo de tratamento de 28 dias) numa mediana de 9 ciclos (intervalo= 1-39) e uma média de 10,2 ciclos. Na população de Intenção de Tratar (ITT), a idade mediana foi de 69 anos (intervalo de 38 a 88 anos).
+ Na análise ITT de 358 doentes (azacitidina: 179 e CCR: 179), o tratamento com Vidaza foi associado a uma sobrevida mediana de 24,46 meses em relação a 15,02 meses nos doentes submetidos a tratamento com CCR, uma diferença de 9,4 meses, com um valor p de 0,0001 pelo teste de log-rank estratificado. A taxa de risco (hazard ratio) do efeito do tratamento foi de 0,58 (IC 95%: 0,43; 0,77). As taxas de sobrevida ao fim de dois anos foram de 50,8% em doentes medicados com azacitidina versus 26,2% em doentes submetidos a CCR (p &lt; 0,0001).
+ 9 Valor p (log-rank)= 0,0001 HR 0,58[ IC 95%: 0, 43-0,77] Mortes: AZA= 82, CCR= 113 Proporção de sobreviventes
+ meses
+ meses
+ Tempo (meses) desde a Aleatorização N. º em risco
+ CHAVE: AZA= azacitidina; CCR= regimes de cuidados convencionais; IC= intervalo de confiança; HR= hazard ratio (taxa de risco)
+ Os benefícios de sobrevida obtidos com Vidaza foram consistentes, independentemente da opção de tratamento com CCR (BSC isolados, citarabina em dose baixa mais BSC ou quimioterapia de indução padrão mais BSC) utilizada no grupo de controlo.
+ Quando os subgrupos citogenéticos IPSS foram analisados, observaram-se resultados semelhantes em termos da sobrevida global mediana em todos os grupos (citogenética boa, intermédia e fraca, incluindo monossomia 7).
+ Ao analisarem-se os subgrupos etários observou-se um aumento da sobrevida global mediana em todos os grupos (&lt; 65 anos, ≥ 65 anos e ≥ 75 anos).
+ O tratamento com Vidaza foi associado a um tempo mediano até à morte ou transformação em LMA de 13,0 meses versus 7,6 meses nos doentes submetidos a tratamento com CCR, uma melhoria de 5,4 meses com um valor de p de 0,0025 pelo teste do log-rank estratificado.
+ O tratamento com Vidaza também foi associado a uma diminuição de citopenias e dos sintomas com elas relacionados. O tratamento com Vidaza diminuiu a necessidade de transfusões de eritrócitos e de plaquetas. Quarenta e cinco por cento dos doentes do grupo da azacitidina que no início dependiam de transfusões de eritrócitos passaram a não depender de transfusões de eritrócitos durante o período de tratamento em comparação com 11,4% dos doentes nos grupos de CCR combinados (uma diferença estatisticamente significativa (p &lt; 0,0001) de 33,6% (IC 95%: 22,4; 44,6 )). Nos doentes que no início dependiam de transfusões de eritrócitos e que passaram a não depender, a duração mediana da independência de transfusões de eritrócitos foi de 13 meses no grupo da azacitidina.
+ A resposta foi avaliada pelo investigador ou pela Comissão de Avaliação Independente (Independent Review Committee-IRC). A resposta global (remissão completa[ RC]+ remissão parcial[ RP]) determinada pelo investigador foi de 29% no grupo da azacitidina e de 12% no grupo de CCR combinados (p= 0,0001). A resposta global (RC+ RP) determinada pela IRC no estudo AZA PH GL 2003 CL 001 foi de 7% (12/179) no grupo da azacitidina em comparação com 1% (2/179) no grupo de CCR combinados (p= 0,0113). As diferenças nas avaliações da resposta da IRC e
+ 10 do investigador resultaram de critérios do Grupo Internacional de Trabalho (International Working Group-IWG) que exigiam melhorias das contagens de sangue periférico e a manutenção destas melhorias durante um mínimo de 56 dias. Também se demonstrou um benefício na sobrevida em doentes que não tinham obtido uma resposta completa/parcial após o tratamento com azacitidina. A melhoria hematológica (em maior ou menor grau) determinada pela IRC foi obtida em 49% dos doentes medicados com azacitidina em comparação com 29% dos doentes tratados com CCR combinados (p &lt; 0,0001).
+ Em doentes com uma ou mais anomalias citogenéticas no início, a percentagem de doentes com uma resposta citogenética mais importante foi semelhante nos grupos da azacitidina e de CCR combinados. Respostas citogenéticas menos importantes foram mais elevadas, de forma estatisticamente significativa (p= 0,0015), no grupo da azacitidina (34%) do que no grupo de CCR combinados (10%).
+ 5.2 Propriedades farmacocinéticas A farmacocinética da azacitidina foi estudada após administração de doses únicas de 75 mg/m2 por via subcutânea e intravenosa.
+ Absorção A azacitidina foi rapidamente absorvida após administração subcutânea, ocorrendo concentrações plasmáticas máximas de azacitidina de 750 ± 403 ng/ml meia hora (o primeiro ponto de colheita) após a administração. A biodisponibilidade absoluta da azacitidina após administração subcutânea em relação à administração intravenosa foi aproximadamente de 89% com base na área sob a curva (AUC).
+ Distribuição Após administração intravenosa, o volume de distribuição foi de 76 ± 26 l e a depuração sistémica foi de 147 ± 47 l/h.
+ Metabolismo Com base em dados in vitro, o metabolismo da azacitidina não parece ser mediado pelas isoenzimas do citocromo P450 (CYPs) e pelas UDP-glucuronosiltransferases (UGTs), sulfotransferases (SULTs) e glutationa-transferases (GSTs).
+ O metabolismo da azacitidina efectua-se por hidrólise espontânea e por desaminação mediada por uma citidina desaminase. Em fracções S9 de fígado humano, a formação de metabolitos foi independente do NADPH implicando que qualquer tipo de metabolismo seria catalisado por enzimas citosólicas. Estudos in vitro da azacitidina em culturas de hepatócitos humanos indicam que, em concentrações de 1,0 µM a 100 µM (isto é, até aproximadamente 30 vezes mais elevadas do que as concentrações clinicamente praticáveis), a azacitidina não induz as isoenzimas do P450 (CYP) 1A2, 2C19, 3A4 ou 3A5. Num estudo efectuado para avaliar a inibição de uma série de isoenzimas do P450 (CYP 1A2, 2C9, 2C19, 2D6, 2E1 e 3A4) incubadas com azacitidina a 100 µM, não puderam ser determinados os valores da CI50; portanto, a inibição enzimática pela azacitidina em concentrações clinicamente praticáveis é improvável. O potencial para inibir a CYP2B6 ou a CYP2C8 não foi estudado.
+ Excreção A azacitidina é eliminada rapidamente do plasma com uma semivida de eliminação média (t½) após administração subcutânea de 41 ± 8 minutos. A excreção urinária é a principal via de eliminação da azacitidina e/ou dos seus metabolitos. Após administração intravenosa e subcutânea de 14C-azacitidina,50%-85% da radioactividade administrada foi recuperada na urina enquanto que &lt; 1% foi recuperado nas fezes.
+ Populações especiais Não foram realizados estudos formais sobre os efeitos do compromisso renal ou hepático (ver secção 4.2), sexo, idade ou raça na farmacocinética da azacitidina.
+ 11 Farmacogenómica O efeito de polimorfismos conhecidos de citidina desaminases no metabolismo da azacitidina não foi formalmente investigado.
+ 5.3 Dados de segurança pré-clínica A azacitidina induz tanto mutações genéticas como anomalias cromossómicas em sistemas de células bacterianas e mamíferas in vitro. A carcinogenicidade potencial da azacitidina foi avaliada em ratinhos e ratos. A azacitidina induziu tumores do sistema hematopoiético em ratinhos fêmea, quando administrada por via intraperitoneal 3 vezes por semana durante 52 semanas. Uma maior incidência de tumores do sistema linforeticular, pulmão, glândula mamária e pele foi observada em ratinhos tratados com azacitidina administrada por via intraperitoneal durante 50 semanas. Um estudo de tumorigenicidade em ratos revelou uma maior incidência de tumores testiculares.
+ Estudos de embriotoxicidade precoce em ratinhos revelaram uma frequência de 44% de morte embrionária intra-uterina (reabsorção aumentada) após injecção intraperitoneal única de azacitidina durante a organogénese. Detectaram-se anomalias do desenvolvimento a nível cerebral em ratinhos a que se administrou azacitidina antes ou na altura do encerramento da abóbada palatina. A azacitidina não causou efeitos adversos em ratos quando administrada na fase pré-implantação, mas foi claramente embriotóxica quando administrada durante a organogénese. As anomalias fetais causadas durante a organogénese incluíram: anomalias do SNC (exencefalia/encefalocelo), anomalias dos membros (micromelia, pé boto, sindactilia, oligodactilia) e outras (micrognatia, gastroquise, edema e anomalias das costelas).
+ A administração de azacitidina a ratinhos macho antes do acasalamento com ratinhos fêmea não tratados resultou numa diminuição da fertilidade e perda de descendência durante o desenvolvimento embrionário e pós-natal subsequente. O tratamento de ratos macho resultou numa diminuição do peso dos testículos e dos epidídimos, na diminuição das contagens de espermatozóides, em taxas de gravidez diminuídas e no aumento de embriões anormais e da perda de embriões nas fêmeas acasaladas (ver secção 4.4).
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Manitol (E421) 6.2 Incompatibilidades Este medicamento não deve ser misturado com outros medicamentos, excepto os mencionados na secção 6.6.
+ 6.3 Prazo de validade Frasco para injectáveis de pó não aberto: 4 anos
+ Após reconstituição: A estabilidade química e física em uso do medicamento reconstituído foi demonstrada a 25°C durante 45 minutos e entre 2°C e 8°C durante 8 horas.
+ Sob o ponto de vista microbiológico, o medicamento reconstituído deve ser utilizado imediatamente. Se não for imediatamente utilizado, os períodos e as condições de conservação em uso antes da utilização são da responsabilidade do utilizador e não devem ser superiores a 8 horas entre 2°C e 8°C.
+ 12 6.4 Precauções especiais de conservação
+ O medicamento não necessita de quaisquer precauções especiais de conservação.
+ Condições de conservação do medicamento reconstituído, ver secção 6.3.
+ 6.5 Natureza e conteúdo do recipiente Frasco para injectáveis de vidro tipo I incolor de 30 ml fechado com uma rolha de elastómero de butilo e uma cápsula de alumínio com tampa de plástico de polipropileno.
+ Apresentação: 1 frasco para injectáveis de 100 mg de azacitidina.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ Recomendações para o manuseamento seguro Vidaza é um medicamento citotóxico e, como com outros compostos potencialmente tóxicos, devem tomar-se precauções durante o manuseamento e preparação das suspensões de azacitidina. Devem utilizar-se os procedimentos adequados para o manuseamento e preparação de medicamentos antineoplásicos. Se a azacitidina reconstituída entrar em contacto com a pele, lave imediatamente e muito bem com água e sabão. Se entrar em contacto com membranas mucosas, lave muito bem com água.
+ Procedimento de reconstituição 1. Devem reunir-se os seguintes acessórios:
+ •
+ frasco(s) para injectáveis de azacitidina, frasco(s) para injectáveis de água para preparações injectáveis, luvas cirúrgicas não esterilizadas,
+ •
+ toalhetes com álcool, seringa(s) para injecção de 5 ml e agulha(s).
+ 2. Devem retirar-se 4 ml de água para preparações injectáveis com a seringa, certificando-se de que elimina todo o ar retido na seringa. 3. A agulha da seringa contendo 4 ml de água para preparações injectáveis deve ser introduzida através da rolha de borracha do frasco para injectáveis de azacitidina seguida da injecção da água para preparações injectáveis no frasco. 4. Após remoção da seringa e da agulha, o frasco para injectáveis deve ser agitado vigorosamente até se obter uma suspensão turva uniforme. Após reconstituição, cada ml de suspensão conterá 25 mg de azacitidina (100 mg/4 ml). O medicamento reconstituído é uma suspensão turva, homogénea, sem aglomerados. A suspensão deve ser eliminada se contiver partículas grandes ou aglomerados. 5. Deve limpar-se a rolha de borracha e introduzir-se uma nova seringa com agulha. Nesta altura, o frasco para injectáveis deve ser virado de cima para baixo, certificando-se de que a ponta da agulha está abaixo do nível do líquido. Deve então puxar-se o êmbolo para retirar a quantidade de medicamento necessária para perfazer a dose correcta, certificando-se de que elimina todo o ar retido na seringa. A seringa com a agulha deve então ser retirada do frasco para injectáveis e a agulha eliminada. 6. Depois, uma nova agulha subcutânea (recomenda-se uma agulha de calibre 25) deve ser introduzida com firmeza na seringa. A agulha não deve ser irrigada antes da injecção, a fim de diminuir a incidência de reacções locais no local de injecção. 7. Se necessário (para doses superiores a 100 mg) devem repetir-se todos os passos acima descritos para a preparação da suspensão. Para doses superiores a 100 mg (4 ml), a dose deve ser igualmente dividida por 2 seringas (por exemplo, dose de 150 mg= 6 ml,2 seringas com 3 ml em cada seringa). 8. O conteúdo da seringa de administração deve ser ressuspendido imediatamente antes da administração. A temperatura da suspensão na altura de injecção deve ser aproximadamente de 20ºC-25ºC. Para efectuar a ressuspensão, role vigorosamente a seringa entre as palmas das mãos até obter uma suspensão turva, uniforme. A suspensão deve ser eliminada se contiver partículas grandes ou aglomerados.
+ 13 A suspensão da Vidaza deve ser preparada imediatamente antes da utilização e a suspensão reconstituída deve ser administrada num período de 45 minutos. Se o tempo decorrido for superior a 45 minutos, a suspensão reconstituída deve ser eliminada de maneira adequada e preparada uma nova dose. Como alternativa, se o medicamento necessitar de ser reconstituído algum tempo antes da administração, deve ser colocado no frigorífico (2°C a 8°C) imediatamente após a reconstituição e mantido no frigorífico durante um máximo de 8 horas. Se o tempo decorrido no frigorífico for superior a 8 horas, a suspensão deve ser eliminada de maneira adequada e preparada nova dose. A seringa com a suspensão reconstituída deve aguardar até 30 minutos antes da administração para que a temperatura da seringa atinja a temperatura ambiente de aproximadamente 20ºC-25ºC. Se o tempo decorrido for superior a 30 minutos, a suspensão deve ser eliminada de maneira adequada e preparada uma nova dose.
+ Cálculo de uma dose individual A dose total de acordo com a área de superfície corporal (ASC) pode ser calculada como se segue:
+ Dose total (mg)= Dose (mg/m2) x ASC (m2)
+ A tabela seguinte é apresentada apenas a título de exemplo sobre como calcular doses individuais de azacitidina com base num valor médio da ASC de 1,8 m2.
+ Dose mg/m2 (% da dose inicial
+ Dose total baseada no valor da área de
+ Número de frascos para injectáveis necessários
+ Volume total de suspensão reconstituída recomendada)
+ superfície corporal de
+ necessário para
+ 1,8 m2 injecção subcutânea
+ 75 mg/m2 (100%) 135 mg 2 frascos para injectáveis 5,4 ml 37,5 mg/m2 (50%) 67,5 mg 1 frasco para injectáveis 2,7 ml 25 mg/m2 (33%) 45 mg 1 frasco para injectáveis 1,8 ml Modo de administração Vidaza reconstituído deve ser injectado por via subcutânea (introduzir a agulha num ângulo de 45o-90o) utilizando uma agulha de calibre 25 no antebraço, coxa ou abdómen.
+ Doses superiores a 4 ml devem ser injectadas em dois locais separados.
+ Deve efectuar-se a rotação dos locais de injecção. As injecções seguintes devem ser administradas pelo menos a 2,5 cm do local anterior e nunca em zonas com dor, equimose, rubor ou endurecimento do local.
+ Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Celgene Europe Ltd Riverside House Riverside Walk Windsor SL4 1NA Reino Unido Tel: +44 1753 240600 Fax: +44 1753 240656
+ 14 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 10. DATA DA REVISÃO DO TEXTO 15 ANEXO II
+ A. TITULARES DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEIS PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 16 A. TITULARES DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEIS PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço dos fabricantes responsáveis pela libertação do lote
+ Catalent UK Packaging Ltd. Sedge Close Headway, Great Oakley Corby, Northhants NN18 8HS Reino Unido
+ Baxter Oncology GmbH Kantstrasse 2 33790 Halle/Westfalen Alemanha
+ O folheto informativo que acompanha o medicamento deve mencionar o nome e endereço do fabricante responsável pela libertação do lote em causa.
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento de receita médica restrita, de utilização reservada a certos meios especializados (ver anexo I: Resumo das Características do Medicamento, secção 4.2).
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ Não aplicável. • OUTRAS CONDIÇÕES
+ Sistema de farmacovigilância O Titular da Autorização de Introdução no Mercado deve assegurar que o sistema de farmacovigilância, tal como descrito na versão 5.1 apresentada no Módulo 1. 8.1 do pedido de Autorização de Introdução no Mercado, está implementado e em funcionamento antes e enquanto o produto estiver no mercado.
+ Plano de Gestão do Risco O Titular da Autorização de Introdução no Mercado compromete-se a efectuar os estudos e as actividades de farmacovigilância adicionais detalhadas no Plano de Farmacovigilância, tal como acordado na versão 3.0 do Plano de Gestão do Risco (PGR) apresentado no Módulo 1. 8.2. do Pedido de Autorização de Introdução no Mercado, assim como todas as actualizações subsequentes do PGR acordadas pelo CHMP.
+ De acordo com a Norma Orientadora do CHMP sobre Sistemas de Gestão do Risco para medicamentos de uso humano, o PGR actualizado deve ser submetido ao mesmo tempo que o Relatório Periódico de Segurança (RPS) seguinte.
+ Além disso, deve ser submetido um PGR actualizado: • Quando for recebida nova informação que possa ter impacto nas actuais Especificações de Segurança, no Plano de Farmacovigilância ou nas actividades de minimização do risco
+ 17 • No período de 60 dias após ter sido atingido um objectivo importante (farmacovigilância ou minimização do risco) • A pedido da EMEA.
+ 18 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 19 A. ROTULAGEM
+ 20 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ EMBALAGEM EXTERIOR 1. NOME DO MEDICAMENTO Vidaza 25 mg/ml pó para suspensão injectável Azacitidina
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ 100 mg. Após reconstituição, cada ml de suspensão contém 25 mg de azacitidina.
+ 3. LISTA DOS EXCIPIENTES Também contém manitol. 4. FORMA FARMACÊUTICA E CONTEÚDO Pó para suspensão injectável. 1 frasco para injectáveis-100 mg
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar. Apenas para administração única. Agitar vigorosamente a suspensão antes da administração. Via subcutânea.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. Após reconstituição: A suspensão pode ser conservada a 25°C durante 45 minutos ou entre 2°C e 8°C durante 8 horas.
+ 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ 21 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Celgene Europe Ltd Riverside House Riverside Walk Windsor SL4 1NA Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Foi aceite a justificação para não incluir a informação em Braille.
+ 22 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ Rótulo do frasco para injectáveis 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Vidaza 25 mg/ml pó para suspensão injectável Azacitidina Via subcutânea
+ 2. MODO DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar.
+ 3. PRAZO DE VALIDADE VAL. 4. NÚMERO DO LOTE Lot 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 100 mg 6. OUTRAS 23 B. FOLHETO INFORMATIVO
+ 24 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Vidaza 25 mg/ml pó para suspensão injectável Azacitidina
+ Leia atentamente este folheto antes de lhe ser administrado este medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou enfermeiro.
+ Neste folheto: 1. O que é Vidaza e para que é utilizado 2. Antes de utilizar Vidaza 3. Como utilizar Vidaza 4. Efeitos secundários possíveis 5 Como conservar Vidaza 6. Outras informações
+ 1. O QUE É VIDAZA E PARA QUE É UTILIZADO
+ Vidaza contém a substância activa azacitidina. Actua impedindo o crescimento das células cancerígenas.
+ Vidaza é utilizado em adultos que não são elegíveis para transplantação de células estaminais para tratar:
+ • síndromes mielodisplásicas (SMD) de risco mais elevado, um grupo de doenças da medula óssea que causam a produção de muito poucas células sanguíneas. • leucemia mielomonocítica crónica (CMML). • leucemia mielóide aguda (LMA).
+ Fale com o seu médico se tem quaisquer dúvidas sobre como actua Vidaza ou porque é que este medicamento lhe foi receitado.
+ 2. ANTES DE UTILIZAR VIDAZA Não utilize Vidaza • se tem alergia (hipersensibilidade) à azacitidina ou a qualquer outro componente de Vidaza (ver secção 6). • se tem um cancro avançado do fígado. • se está a amamentar.
+ Tome especial cuidado com Vidaza Consulte o seu médico ou enfermeiro antes de utilizar este medicamento • se tem uma diminuição da contagem de plaquetas e de glóbulos vermelhos ou brancos. • se tem uma doença do rim. • se tem uma doença do fígado.
+ Se não tiver a certeza se qualquer uma das situações acima mencionadas lhe é aplicável, fale com o seu médico ou enfermeiro antes de lhe ser administrado Vidaza.
+ Vidaza não é recomendado em crianças e adolescentes com idade inferior a 18 anos.
+ 25 Terá de fazer análises ao sangue antes de começar o tratamento com Vidaza e no início de cada período de tratamento (chamado um “ ciclo ”). Estas análises são feitas para verificar que tem o número suficiente de células do sangue e que o seu fígado e rins estão a funcionar bem.
+ Para os homens medicados com Vidaza, ver a secção abaixo “ Gravidez e aleitamento ”.
+ Ao utilizar Vidaza com outros medicamentos Informe o seu médico ou enfermeiro se estiver a utilizar ou tiver utilizado recentemente outros medicamentos incluindo medicamentos obtidos sem receita médica e medicamentos à base de plantas. Esta informação é necessária porque Vidaza pode afectar o modo como outros medicamentos actuam. Além disso, alguns medicamentos podem afectar o modo como Vidaza actua.
+ Gravidez e aleitamento Não deve utilizar Vidaza durante a gravidez porque pode ser nocivo para o bebé. Utilize um método de contracepção eficaz durante o tratamento com Vidaza e nos 3 meses seguintes. Informe imediatamente o seu médico se engravidar durante o tratamento com Vidaza.
+ Não deve utilizar Vidaza se estiver a amamentar. Desconhece-se se Vidaza passa para o leite materno, portanto não deve amamentar o seu bebé durante o tratamento.
+ Os homens não devem conceber uma criança durante o tratamento com Vidaza. Utilize um método de contracepção eficaz durante o tratamento com Vidaza e nos 3 meses seguintes. Fale com o seu médico se quiser conservar o seu sémen antes de iniciar este tratamento.
+ Condução de veículos e utilização de máquinas Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas. Algumas pessoas podem sentir-se cansadas após a administração de Vidaza. Nesta eventualidade, não conduza nem utilize ferramentas ou máquinas.
+ 3. COMO UTILIZAR VIDAZA O seu médico administrar-lhe-á outro medicamento para evitar náuseas e vómitos no início de cada ciclo de tratamento, antes de lhe administrar Vidaza.
+ A dose normal é de 75 mg por m2 da área de superfície corporal. O seu médico decidirá qual a • dose de Vidaza, dependendo do seu estado geral, altura e peso. O seu médico controlará o seu progresso e pode mudar a dose se necessário. • Vidaza ser-lhe-á administrado todos os dias durante uma semana, seguindo-se um período de descanso de 3 semanas. Este “ ciclo de tratamento ” será repetido todas as 4 semanas. Normalmente, será submetido a pelo menos 6 ciclos de tratamento.
+ Vidaza ser-lhe-á administrado sob a forma de uma injecção sob a pele (por via subcutânea) por um médico ou enfermeiro. Pode ser-lhe administrado sob a pele na coxa, barriga ou antebraço.
+ Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou enfermeiro.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todos os medicamentos, Vidaza pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ 26 Informe imediatamente o seu médico se detectar qualquer um dos seguintes efeitos secundários:
+ • Febre. Esta pode ser devida a uma infecção em consequência de ter níveis baixos de glóbulos brancos. • Dor no peito ou falta de ar que podem ser acompanhadas de febre. Estas podem ser devidas a uma infecção dos pulmões chamada “ pneumonia ”. • Hemorragia. Como por exemplo sangue nas fezes devido a hemorragia no estômago ou nos intestinos. • Dificuldade em respirar, inchaço dos lábios, comichão ou lesão na pele. Estes podem ser devidos a uma reacção alérgica (de hipersensibilidade).
+ Os efeitos secundários podem ocorrer com determinadas frequências que são definidas a seguir:
+ muito frequentes: frequentes: pouco frequentes: raros: muito raros: desconhecido:
+ afectam mais de 1 utilizador em cada 10 afectam 1 a 10 utilizadores em cada 100 afectam 1 a 10 utilizadores em cada 1.000 afectam 1 a 10 utilizadores em cada 10.000 afectam menos de 1 utilizador em cada 10.000 a frequência não pode ser calculada a partir dos dados disponíveis
+ Efeitos secundários muito frequentes • Diminuição da contagem de glóbulos vermelhos (anemia). Pode sentir-se cansado e pálido. • Diminuição da contagem de glóbulos brancos. Esta diminuição pode ser acompanhada por febre. Tem mais possibilidades de ter infecções. • Contagem das plaquetas baixa (trombocitopenia). Tem mais tendência para sangrar e fazer nódoas negras. • Prisão de ventre, diarreia, náuseas, vómitos. • Pneumonia. • Dor no peito, falta de ar. Cansaço (fadiga). • Reacção no local da injecção, que inclui vermelhidão, dor ou uma reacção da pele. • Perda de apetite. • Dores nas articulações. • Formação de nódoas negras. • Lesão na pele. • Manchas vermelhas ou roxas sob a pele. • Dor de barriga (dor abdominal). • Comichão. • Febre. • Dores no nariz e garganta. • Tonturas. • Dores de cabeça.
+ Efeitos secundários frequentes • Hemorragia no interior da cabeça. • Uma infecção do sangue causada por bactérias (sépsis). Esta pode ser devida aos níveis baixos de glóbulos brancos no sangue. • Falência da medula óssea. Pode causar níveis baixos de glóbulos vermelhos e brancos e de plaquetas. • Um tipo de anemia na qual o número de glóbulos vermelhos e brancos e de plaquetas está diminuído. • Uma infecção na urina. • Uma infecção por vírus que causa feridas nos lábios (herpes labial). 27 • Hemorragia das gengivas, hemorragia no estômago ou intestino, hemorragia a nível do ânus causada por hemorróidas (hemorragia hemorroidal), hemorragia nos olhos, hemorragia por baixo da pele ou no seu interior (hematoma). • Sangue na urina. • Úlceras da boca ou língua. • Alterações da pele no local de injecção. Estas incluem inchaço, um caroço duro, nódoas negras, hemorragia no interior da pele (hematoma), lesão na pele, comichão e alterações da cor da pele. • Vermelhidão da pele. • Uma infecção do nariz ou da garganta ou dores de garganta. • Dores nos seios nasais ou corrimento nasal (sinusite). • Níveis baixos de potássio no sangue. • Tensão arterial alta ou baixa (hipertensão ou hipotensão). • Ter falta de ar ao movimentar-se. • Dor na garganta e laringe. • Indigestão. • Perda de peso. • Letargia. • Sensação geral de mal-estar. • Dores musculares. • Ansiedade ou dificuldade em dormir (insónia). • Estar confuso. • Queda de cabelo.
+ Efeitos secundários pouco frequentes • Reacção alérgica (de hipersensibilidade).
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou enfermeiro.
+ 5. COMO CONSERVAR VIDAZA Manter fora do alcance e da vista das crianças.
+ Não utilize Vidaza após o prazo de validade impresso no rótulo do frasco para injectáveis e na embalagem exterior. O prazo de validade corresponde ao último dia do mês indicado.
+ Este medicamento não necessita de quaisquer precauções especiais de conservação. A suspensão reconstituída pode ser conservada a 25°C durante 45 minutos ou entre 2°C e 8°C durante 8 horas.
+ O seu médico ou farmacêutico são responsáveis pela conservação de Vidaza. Também são responsáveis pela eliminação correcta de Vidaza não utilizado.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Vidaza • A substância activa é a azacitidina. 1 frasco para injectáveis contém 100 mg de azacitidina. Após reconstituição com 4 ml de água para preparações injectáveis, a suspensão reconstituída contém 25 mg/ml de azacitidina. • O outro componente é o manitol (E421).
+ 28 Qual o aspecto de Vidaza e conteúdo da embalagem Vidaza é um pó branco para suspensão injectável e é apresentado num frasco para injectáveis de vidro que contém 100 mg de azacitidina.
+ Titular da Autorização de Introdução no Mercado Celgene Europe Ltd Riverside House Riverside Walk Windsor SL4 1NA Reino Unido
+ Fabricante Baxter Oncology GmbH Kantstrasse 2 33790 Halle/Westfalen Alemanha OU Catalent UK Packaging Limited Sedge Close Headway Great Oakley Corby Northamptonshire NN18 8HS Reino Unido
+ Este folheto foi aprovado pela última vez em
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA): http: //www. emea. europa. eu/. Também existem links para outros sites sobre doenças raras e tratamentos.
+ &lt; ----------------------------------------------------------------------------------------------------------------------A informação que se segue destina-se apenas aos médicos e aos profissionais de saúde:
+ Recomendações para o manuseamento seguro Vidaza é um medicamento citotóxico e, como com outros compostos potencialmente tóxicos, devem tomar-se precauções durante o manuseamento e preparação das suspensões de azacitidina. Devem utilizar-se os procedimentos adequados para o manuseamento e preparação de medicamentos antineoplásicos. Se a azacitidina reconstituída entrar em contacto com a pele, lave imediatamente e muito bem com água e sabão. Se entrar em contacto com membranas mucosas, lave muito bem com água.
+ Incompatibilidades Este medicamento não deve ser misturado com outros medicamentos, excepto os mencionados abaixo em “ Procedimento de reconstituição ”.
+ Procedimento de reconstituição 1. Devem reunir-se os seguintes acessórios:
+ •
+ frasco(s) para injectáveis de azacitidina, frasco(s) para injectáveis de água para preparações injectáveis, luvas cirúrgicas não esterilizadas,
+ •
+ toalhetes com álcool, seringa(s) para injecção de 5 ml e agulha(s).
+ 2. Devem retirar-se 4 ml de água para preparações injectáveis com a seringa, certificando-se de
+ que elimina todo o ar retido na seringa.
+ 29 3. A agulha da seringa contendo 4 ml de água para preparações injectáveis deve ser introduzida através da rolha de borracha do frasco para injectáveis de azacitidina seguida da injecção da água para preparações injectáveis no frasco. 4. Após remoção da seringa e da agulha, o frasco para injectáveis deve ser agitado vigorosamente até se obter uma suspensão turva uniforme. Após reconstituição, cada ml de suspensão conterá 25 mg de azacitidina (100 mg/4 ml). O medicamento reconstituído é uma suspensão turva, homogénea, sem aglomerados. A suspensão deve ser eliminada se contiver partículas grandes ou aglomerados. 5. Deve limpar-se a rolha de borracha e introduzir-se uma nova seringa com agulha. Nesta altura, o frasco para injectáveis deve ser virado de cima para baixo, certificando-se de que a ponta da agulha está abaixo do nível do líquido. Deve então puxar-se o êmbolo para retirar a quantidade de medicamento necessária para perfazer a dose correcta, certificando-se de que elimina todo o ar retido na seringa. A seringa com a agulha deve então ser retirada do frasco para injectáveis e a agulha eliminada. 6. Depois, uma nova agulha subcutânea (recomenda-se uma agulha de calibre 25) deve ser introduzida com firmeza na seringa. A agulha não deve ser irrigada antes da injecção, a fim de diminuir a incidência de reacções locais no local de injecção. 7. Se necessário (para doses superiores a 100 mg) devem repetir-se todos os passos acima descritos para a preparação da suspensão. Para doses superiores a 100 mg (4 ml), a dose deve ser igualmente dividida por 2 seringas (por exemplo, dose de 150 mg= 6 ml,2 seringas com 3 ml em cada seringa). 8. O conteúdo da seringa de administração deve ser ressuspendido imediatamente antes da administração. A temperatura da suspensão na altura de injecção deve ser aproximadamente de 20ºC-25ºC. Para efectuar a ressuspensão, role vigorosamente a seringa entre as palmas das mãos até obter uma suspensão turva, uniforme. A suspensão deve ser eliminada se contiver partículas grandes ou aglomerados.
+ A suspensão da Vidaza deve ser preparada imediatamente antes da utilização e a suspensão reconstituída deve ser administrada num período de 45 minutos. Se o tempo decorrido for superior a 45 minutos, a suspensão reconstituída deve ser eliminada de maneira adequada e preparada uma nova dose. Como alternativa, se o medicamento necessitar de ser reconstituído algum tempo antes da administração, deve ser colocado no frigorífico (2°C a 8°C) imediatamente após a reconstituição e mantido no frigorífico durante um máximo de 8 horas. Se o tempo decorrido no frigorífico for superior a 8 horas, a suspensão deve ser eliminada de maneira adequada e preparada nova dose. A seringa com a suspensão reconstituída deve aguardar até 30 minutos antes da administração para que a temperatura da seringa atinja a temperatura ambiente de aproximadamente 20ºC-25ºC. Se o tempo decorrido for superior a 30 minutos, a suspensão deve ser eliminada de maneira adequada e preparada uma nova dose.
+ Cálculo de uma dose individual A dose total de acordo com a área de superfície corporal (ASC) pode ser calculada como se segue:
+ Dose total (mg)= Dose (mg/m2) x ASC (m2)
+ A tabela seguinte é apresentada apenas a título de exemplo sobre como calcular doses individuais de azacitidina com base num valor médio da ASC de 1,8 m2.
+ 30 Dose mg/m2 (% da dose inicial
+ Dose total baseada no valor da área de
+ Número de frascos para injectáveis necessários
+ Volume total de suspensão reconstituída recomendada)
+ superfície corporal de
+ necessário para
+ 1,8 m2 injecção subcutânea
+ 75 mg/m2 (100%) 135 mg 2 frascos para injectáveis 5,4 ml 37,5 mg/m2 (50%) 67,5 mg 1 frasco para injectáveis 2,7 ml 25 mg/m2 (33%) 45 mg 1 frasco para injectáveis 1,8 ml Modo de administração Vidaza reconstituído deve ser injectado por via subcutânea (introduzir a agulha num ângulo de 45o-90o) utilizando uma agulha de calibre 25 no antebraço, coxa ou abdómen.
+ Doses superiores a 4 ml devem ser injectadas em dois locais separados.
+ Deve efectuar-se a rotação dos locais de injecção. As injecções seguintes devem ser administradas pelo menos a 2,5 cm do local anterior e nunca em zonas com dor, equimose, rubor ou endurecimento do local.
+ Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 31

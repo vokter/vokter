@@ -1,0 +1,263 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. NOME DO MEDICAMENTO
+ Aldurazyme 100 U/ml, concentrado para solução para perfusão.
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ 1 ml contém 100 U (aproximadamente 0,58 mg) de laronidase. Cada frasco para injectáveis de 5 ml contém 500 U de laronidase.
+ A unidade de actividade (U) é definida como a hidrólise de um micromole de substrato (4 MUI) por minuto.
+ A laronidase é uma forma recombinante da α-L-iduronidase humana produzida por tecnologia de ADN recombinante em cultura de células de mamífero do ovário de hamster chinês.
+ Excipientes Cada frasco para injectáveis de 5 ml contém 1,29 mmol de sódio.
+ Lista completa de excipientes, ver a secção 6.1.
+ 3. FORMA FARMACÊUTICA Concentrado para solução para perfusão. Solução límpida a ligeiramente opalescente, incolor a amarelo pálido.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Aldurazyme é indicado na terapêutica enzimática de substituição de longa duração em doentes com um diagnóstico confirmado de Mucopolissacaridose I (MPS I; deficiência de α-L-iduronidase) para tratar as manifestações não neurológicas da doença (ver a secção 5.1).
+ 4.2 Posologia e modo de administração O tratamento com Aldurazyme deve ser supervisionado por um médico com experiência no tratamento de doentes com MPS I ou com outras doenças metabólicas hereditárias. A administração de Aldurazyme deve ser efectuada num enquadramento clínico apropriado no qual está rapidamente disponível equipamento de reanimação para tratar emergências médicas.
+ O regime posológico recomendado de Aldurazyme é de 100 U/kg de peso corporal, administradas uma vez por semana, por perfusão intravenosa. O ritmo de perfusão inicial de 2 U/kg/h pode ser aumentado gradualmente de quinze em quinze minutos, se tolerado, até um máximo de 43 U/kg/h. O volume total da administração deve ser perfundido em aproximadamente 3-4 horas. Para informações sobre o pré-tratamento ver a secção 4.4 e para mais instruções ver a secção 6.6.
+ A segurança e a eficácia de Aldurazyme em doentes com mais de 65 anos não foram estabelecidas, não se podendo recomendar um regime posológico nestes doentes.
+ A segurança e a eficácia de Aldurazyme em doentes com insuficiência renal e hepática não foram avaliadas, não se podendo recomendar um regime posológico nestes doentes.
+ 2 4.3 Contra-indicações
+ Hipersensibilidade grave (por exemplo, reacção anafiláctica) à substância activa ou a qualquer um dos excipientes (ver as secções 4.4 e 4.8).
+ 4.4 Advertências e precauções especiais de utilização
+ Os doentes tratados com Aldurazyme podem desenvolver reacções associadas à perfusão, que são definidas como qualquer reacção adversa relacionada que ocorre durante a perfusão intravenosa ou até ao fim do dia da perfusão (ver a secção 4.8). Algumas destas reacções associadas à perfusão podem ser graves (ver abaixo).
+ Os doentes tratados com Aldurazyme devem ser monitorizados com regularidade e notificados todos os casos de reacções associadas à perfusão, reacções retardadas e possíveis reacções imunológicas. O estado de anticorpos deve ser monitorizado com regularidade e comunicado.
+ Foram notificadas reacções graves associadas à perfusão em doentes com comprometimento anterior grave subjacente das vias aéreas e, portanto, estes doentes em particular deverão continuar a ser monitorizados regularmente podendo apenas a administração endovenosa de Aldurazyme ser efectuada num enquadramento clínico específico onde exista rapidamente disponível equipamento de reanimação para tratar as emergências médicas.
+ Doentes com uma intercorrência aguda subjacente no momento da perfusão com Aldurazyme parecem correr maior risco de reacções associadas à perfusão. O estado clínico do doente deve ser cuidadosamente considerado antes da administração de Aldurazyme.
+ Com base no ensaio clínico de fase 3, espera-se que quase todos os doentes desenvolvam anticorpos IgG à laronidase, principalmente no período de 3 meses após o início do tratamento. Os doentes que desenvolveram anticorpos ou sintomas de reacções associadas à perfusão devem ser tratados com precaução, quando se lhes administra Aldurazyme (ver as secções 4.3 e 4.8). Nos estudos clínicos, as reacções associadas à perfusão foram controladas geralmente diminuindo o ritmo da perfusão e tratando previamente o doente com anti-histamínicos e/ou antipiréticos (paracetamol ou ibuprofeno), permitindo deste modo que o doente continuasse o tratamento.
+ Como existe pouca experiência com o restabelecimento do tratamento após uma interrupção prolongada, tome precauções devido ao risco acrescido teórico de uma reacção de hipersensibilidade após a interrupção do tratamento.
+ No caso de administração inicial de Aldurazyme ou de readministração após interrupção do tratamento, recomenda-se que sejam administradas aos doentes medicamentos de pré-tratamento (anti-histamínicos e/ou antipiréticos), aproximadamente 60 minutos antes do início da perfusão, para minimizar a ocorrência potencial de reacções associadas à perfusão. Se estiver clinicamente indicado, deve considerar-se a administração de medicamentos de pré-tratamento com perfusões subsequentes de Aldurazyme.
+ No caso de uma reacção associada à perfusão ligeira ou moderada, deve considerar-se o tratamento com anti-histamínicos e paracetamol/ibuprofeno e/ou a redução da taxa de perfusão para metade da taxa de perfusão no qual ocorreu a reacção. No caso apenas de uma reacção grave associada à perfusão, a perfusão deve ser interrompida até à resolução dos sintomas e deve considerar-se o tratamento com anti-histamínicos e paracetamol/ibuprofeno. A perfusão pode ser reiniciada com uma redução da taxa de perfusão para metade a um quarto da taxa de perfusão no qual ocorreu a reacção. No caso de uma reacção associada à perfusão moderada recorrente ou de provocação repetida após uma reacção grave associada à perfusão, deve considerar-se o pré-tratamento (anti-histamínicos e paracetamol/ibuprofeno e/ou corticosteróides) e uma redução da taxa de perfusão para metade a um quarto da taxa de perfusão no qual ocorreu a reacção.
+ 3 Como com qualquer produto proteico intravenoso, são possíveis reacções de hipersensibilidade graves de tipo alérgico. Se estas reacções ocorrerem, recomenda-se a interrupção imediata de Aldurazyme, devendo ser iniciado o tratamento médico apropriado. Têm de se seguir as directrizes médicas actuais para tratamento de emergência.
+ Este medicamento contém sódio e é administrado numa solução intravenosa de cloreto de sódio a 0,9% (ver secção 6.6). A ser tido em consideração pelos doentes a fazerem uma dieta de sódio controlado.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Não foram realizados estudos de interacção. Com base no seu metabolismo, a laronidase é um candidato improvável a interacções mediadas pelo citocromo P450.
+ Aldurazyme não deve ser administrado simultâneamente com cloroquina ou procaína, devido a um risco potencial de interferência com a captação intracelular de laronidase.
+ 4.6 Gravidez e aleitamento Não existem dados suficientes sobre a utilização de Aldurazyme em mulheres grávidas. Estudos em animais não indicam quaisquer efeitos nefastos directos ou indirectos no que respeita à gravidez, ao desenvolvimento embrionário/fetal, parto ou ao desenvolvimento pós-natal (ver a secção 5.3). Desconhece-se o risco potencial para o ser humano. Portanto, Aldurazyme não deve ser utilizado durante a gravidez, a menos que tal seja claramente necessário.
+ É possível que a laronidase seja excretada no leite. Como não existem dados em recém-nascidos expostos à laronidase através do leite materno, recomenda-se parar o aleitamento durante o tratamento com Aldurazyme.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas.
+ 4.8 Efeitos indesejáveis Nos ensaios clínicos, a maioria dos acontecimentos adversos relacionados com o medicamento foram classificados como sendo reacções associadas à perfusão (RAPs); estas reacções ocorreram em 53% dos doentes no estudo de Fase 3 (tratados por um período de até 4 anos) e em 35% dos doentes no estudo realizado em idades abaixo dos 5 anos (até 1 ano de tratamento). Ao longo do tempo, o número de reacções deste tipo diminuiu. A maioria das RAPs foi de intensidade ligeira a moderada. As reacções adversas medicamentosas (RAMs) mais frequentes foram: cefaleia, náuseas, dores abdominais, erupções cutâneas, artralgia, lombalgia, dor nas extremidades, rubor, pirexia, reacções no local de perfusão, aumento da pressão arterial, redução da saturação em oxigénio, taquicardia e calafrios.
+ As RAMs ao Aldurazyme, notificadas durante o estudo de Fase 3 e no respectivo prolongamento, num total de 45 doentes com idade igual ou superior a 5 anos e tratados durante um período até 4 anos, estão indicadas na tabela seguinte, utilizando as seguintes categorias de frequência: muito frequentes (≥1/10); frequentes (≥1/100 a &lt; 1/10). Devido à reduzida população de doentes, uma reacção adversa medicamentosa notificada num único doente é classificada como frequente.
+ 4 Frequênci Classes de sistemas de órgãos segundo a base de dados MedDRA
+ aumento da
+ Termo preferido MedDRA temperatura corporal,
+ a
+ frequentes Exames complementares de diagnóstico diminuição da saturação em oxigénio
+ Cardiopatias taquicardia
+ frequentes
+ cefaleia
+ muito frequentes
+ Doenças do sistema nervoso
+ parestesia, tonturas,
+ frequentes
+ Doenças respiratórias, torácicas e do mediastino Doenças gastrointestinais
+ dificuldades respiratórias, dispneia, tosse náuseas, dores abdominais
+ frequentes muito frequentes
+ vómitos, diarreia Erupções cutâneas
+ frequentes muito frequentes
+ Afecções dos tecidos cutâneos e subcutâneas edema angioneurótico, edema facial, urticária, prurido, suores frios, alopécia, frequentes hiperidrose
+ artropatia, artralgia, lombalgia, dor nas
+ muito
+ Afecções musculoesqueléticas e dos tecidos xtremidades conjuntivos
+ frequentes
+ dor musculosquelética rubor Vasculopatias
+ frequentes muito frequentes
+ hipotensão, palidez, extremidades frias frequentes muito pirexia, reacção no local de perfusão frequentes Perturbações gerais e alterações no local de calafrios, sensação de calor, sensação de administração frio, fadiga, sintomatologia semelhante frequentes a gripe
+ Doenças do sistema imunitário reacção anafiláctica
+ frequentes
+ Perturbações do foro psiquiátrico agitação
+ frequentes
+ A maior parte das RAMs foi de gravidade ligeira a moderada. Apenas um doente com compromisso anterior das vias aéreas, desenvolveu uma reacção grave três horas depois do início da perfusão (na semana 62 do tratamento) que consistiu em urticária e obstrução das vias aéreas e que exigiu traqueostomia. Este paciente apresentou resultados positivos para IgE.
+ A experiência pós-comercialização em relação a reacções associadas à perfusão revelou notificações regulares de pirexia, calafrios e vómitos, a maioria de intensidade ligeira a moderada. Adicionalmente, alguns doentes com uma história anterior de comprometimento grave pulmonar e das vias aéreas superiores decorrente da MPS I, apresentaram reacções graves incluindo broncospasmo, paragem respiratória e edema facial (ver a secção 4.4).
+ População pediátrica Durante um estudo de Fase 2, com um total de 20 doentes com idade inferior a 5 anos principalmente do fenotipo grave e tratados durante um período até 12 meses, foram notificadas as reacções adversas medicamentosas (RAMs) a Aldurazyme que são apresentadas na tabela abaixo. As RAMs foram de gravidade ligeira a moderada.
+ 5 Classes
+ de sistemas de órgãos segundo a
+ Termo preferido Frequência base de dados MedDRA
+ MedDRA Exames complementares de diagnóstico aumento da pressão arterial diminuição da saturação de oxigénio
+ Muito frequentes Muito frequentes Cardiopatias taquicardia pirexia
+ Muito frequentes Muito frequentes Perturbações gerais e alterações no local de
+ administração
+ calafrios
+ Muito frequentes Num estudo de fase 4,33 doentes com MPS1 foram submetidos a 1 de 4 regimes posológicos: 100 U/Kg IV todas as semanas (dose recomendada),200 U/Kg IV todas as semanas,200 U/Kg IV de 2 em 2 semanas ou 300 U/Kg IV de 2 em 2 semanas. No grupo da dose recomendada verificou-se o menor número de doentes com reacções adversas e reacções associadas à perfusão. O tipo das reacções associadas à perfusão foi semelhante ao observado nos outros ensaios clínicos.
+ Imunogenicidade Quase todos os doentes desenvolveram anticorpos IgG anti-laronidase. Ocorreu seroconversão na maioria dos doentes, num prazo de 3 meses após o início do tratamento. No entanto, a seroconversão em doentes com menos de 5 anos de idade e com o fenotipo mais grave ocorreu principalmente no prazo de 1 mês (26 dias, em média, contra 45 dias para doentes de idade igual ou superior a 5 anos). No final do estudo de fase 3 (ou na altura da saída precoce do estudo), 13/45 doentes não apresentavam anticorpos detectáveis através da análise de radioimunoprecipitação (RIP), incluindo 3 doentes que nunca fizeram a seroconversão. Os doentes com ausência de anticorpos ou níveis baixos apresentaram uma redução robusta no nível de GAG urinários, enquanto nos doentes com títulos elevados de anticorpos se verificou uma redução variável de GAG urinários. Desconhece-se o significado clínico deste achado, uma vez que não se verificaram relações consistentes entre o nível de anticorpos IgG e os parâmetros finais de avaliação da eficácia clínica.
+ Além disso, em 60 doentes nos estudos de Fase 2 e Fase 3 foram realizadas análises para detecção de efeitos neutralizantes in vitro. Quatro doentes (três no estudo de Fase 3 e um no estudo de Fase 2) apresentaram um nível entre marginal e baixo na inibição in vitro da actividade enzimática da laronidase, o que aparentemente não teve impacto sobre a eficácia clínica e/ou a redução de GAG urinários.
+ A presença de anticorpos não pareceu estar relacionada com a incidência de reacções associadas à perfusão, ainda que o desencadeamento de RAPs tenha coincidido tipicamente com a formação de anticorpos IgG. A ocorrência de anticorpos IgE não foi completamente explorada.
+ 4.9 Sobredosagem Não foram descritos casos de sobredosagem.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Enzimas. Código ATC: A16AB05.
+ As tesaurismoses de mucopolissacáridos são causadas pela deficiência de enzimas lisossómicos específicos, necessários para o catabolismo dos glicosaminoglicanos (GAGs). A MPS I é uma doença heterogénea e multissistémica caracterizada pela deficiência da α-L-iduronidase, uma hidrolase lisossómica que cataliza a hidrólise dos resíduos α-L-idurónicos terminais do sulfato de dermatano e do sulfato do heparano. A redução ou ausência da actividade da α-L-iduronidase resulta na
+ 6 acumulação dos GAGs, sulfato de dermatano e sulfato do heparano em vários tipos de células e tecidos.
+ A justificação racional para a terapêutica enzimática de substituição é a de restabelecer um nível de actividade enzimática suficiente para hidrolisar o substrato acumulado e prevenir acumulação ulterior. Após perfusão intravenosa, a laronidase é rapidamente removida da circulação e captada pelas células para o interior dos lisossomas, mais provavelmente através dos receptores da manose-6-fosfato.
+ A laronidase purificada é uma glicoproteína com um peso molecular de aproximadamente 83 kD. A laronidase é composta por 628 aminoácidos após clivagem da extremidade N-terminal. A molécula contém 6 locais de modificação dos oligossacarídeos ligados ao Azoto.
+ Realizaram-se três ensaios clínicos com Aldurazyme para confirmar a sua eficácia e segurança. Um estudo clínico centrou-se principalmente na avaliação dos efeitos do Aldurazyme nas manifestações sistémicas da MPS I, tais como baixa resistência, doença pulmonar restritiva, obstrução das vias aéreas superiores, amplitude reduzida de movimentos articulares, hepatomegália e diminuição da acuidade visual. Um estudo incidiu particularmente sobre a segurança e farmacocinética do Aldurazyme em doentes com idade inferior a 5 anos, embora também tenham sido incluídas algumas avaliações de eficácia. O terceiro estudo foi realizado para avaliar a farmacodinâmica e a segurança de diferentes regimes posológicos de Aldurazyme. Até à data, não existem dados clínicos que demonstrem qualquer benefício sobre as manifestações neurológicas da doença.
+ A segurança e a eficácia de Aldurazyme foram avaliadas num estudo de Fase 3, aleatorizado, com dupla ocultação, controlado com placebo, envolvendo 45 doentes com idades entre os 6 e os 43 anos. Embora tivessem sido recrutados doentes que representavam a gama completa do espectro da doença, a maioria dos doentes tinha um fenotipo intermédio, apenas um doente apresentava um fenotipo grave. Os doentes foram recrutados com uma Capacidade Vital Forçada (CVF) inferior a 80% do valor previsto para a sua estatura e tinham de ser capazes de estar de pé durante 6 minutos e de percorrer uma distância de 5 metros. Os doentes foram tratados semanalmente com 100 U/kg de Aldurazyme ou com placebo, durante um total de 26 semanas. Os parâmetros primários de avaliação de eficácia foram as alterações percentuais da capacidade vital forçada normal (CVF) esperada e a distância absoluta percorrida na prova de marcha de seis minutos (TM 6 min). Todos os doentes que foram subsequentemente incluídos num prolongamento aberto do estudo foram todos medicados com 100 U/kg de Aldurazyme uma vez por semana por um período adicional de 3 anos e meio (182 semanas).
+ Após 26 semanas de terapêutica, os doentes tratados com Aldurazyme apresentaram, em comparação com o placebo, uma melhoria da função respiratória e da capacidade de marcha, tal como indicado abaixo.
+ Fase 3, após 26 semanas de tratamento comparação com o placebo
+ Valor de p Intervalo de confiança (95%) Percentagem prevista de média
+ 5,6 -
+ CVF (pontos em percentagem)
+ mediana
+ 3,0 0,009 0,9 – 8,6 TM 6 min média
+ 38,1 -
+ (metros)
+ mediana
+ 38,5 0,066 -2,0 – 79,0
+ O prolongamento aberto do estudo mostrou uma melhoria e/ou manutenção destes efeitos por um período até 208 semanas no grupo Aldurazyme/Aldurazyme e até 182 semanas no grupo Placebo/Aldurazyme, tal como indicado na tabela abaixo.
+ 7
+ Alteração média relativamente à situação basal pré-tratamento
+ Aldurazyme/Aldurazyme Às 208 semanas
+ Placebo/Aldurazyme Às 182 semanas Percentagem prevista de CVF (%) 1 TM 6 min (metros) Índice de Apneia/Hipopneia (IAH) Amplitude de movimentos de flexão do
+ -1,2+ 39,2-4,0
+ -3,3+ 19,4-4,8
+ 1 ombro (graus) Índice de incapacidade CHAQ/HAQ2
+ + 13,1-0,43
+ + 18,3-0,26
+ A diminuição na percentagem prevista de CVF não é clinicamente significativa ao longo deste período e os volumes pulmonares absolutos continuaram a aumentar, em proporção com as alterações na estatura, nos doentes pediátricos em crescimento. 2 Ambos os grupos excederam a diferença mínima com importância clínica (-0,24)
+ Dos 26 doentes com volumes hepáticos alterados na linha de base pré-tratamento,22 (85%) conseguiram atingir um volume hepático normal no final do estudo. Houve uma redução rápida na excreção urinária de GAG (µg/mg de creatinina) nas primeiras 4 semanas, que se manteve durante o restante período do estudo. Os níveis de GAG urinários diminuíram em 77% e 66% nos grupos Placebo/Aldurazyme e Aldurazyme/Aldurazyme, respectivamente; no final do estudo, um terço dos doentes (15 em 45) tinha atingido níveis urinários normais de GAG.
+ Para dar resposta à heterogeneidade na manifestação da doença entre o grupo de doentes, utilizou-se como critério um conjunto de parâmetros de avaliação final que resumiu as alterações clinicamente significativas em cinco variáveis de eficácia (percentagem prevista de CVF normal, distância percorrida no TM 6 min, amplitude de movimentos de flexão do ombro, IAH e acuidade visual), a resposta global consistiu numa melhoria em 26 doentes (58%), ausência de alteração em 10 doentes (22%) e uma deterioração em 9 doentes (20%).
+ Foi realizado um estudo aberto de Fase 2 com a duração de um ano, que analisou principalmente a segurança e farmacocinética do Aldurazyme, em 20 doentes com idade inferior a 5 anos no momento da inclusão (16 doentes com o fenotipo grave e 4 com o intermédio). Os doentes tinham programadas perfusões semanais de Aldurazyme 100 U/kg no decurso de um total de 52 semanas. Quatro doentes foram submetidos a aumentos de dose para 200 U/kg durante as últimas 26 semanas, devido aos níveis elevados de GAG urinários à Semana 22. Dezoito doentes completaram o estudo. Aldurazyme foi bem tolerado em ambas as doses. O nível médio de GAG urinários diminuiu em 50% à Semana 13 e foi reduzido em 61% no final do estudo. Ao concluir o estudo, todos os doentes apresentavam reduções do volume hepático e 50% (9/18) apresentavam volume hepático normal. A proporção de doentes com hipertrofia ventricular esquerda ligeira diminuiu de 53% (10/19) para 17% (3/18) e a massa ventricular esquerda, ajustada para a área de superfície corporal, diminuiu em 0,9 no Z-Score (n= 17). Diversos doentes apresentaram um crescimento na estatura (n= 7) e no peso (n= 3) para Z-Score de idade. Os doentes mais novos com o fenotipo grave (&lt; 2,5 anos) e os 4 doentes com fenotipo intermédio apresentaram uma taxa normal de desenvolvimento mental, enquanto nos doentes mais velhos com um fenotipo grave se verificaram ganhos limitados ou ausentes na capacidade cognitiva.
+ Foi realizado um estudo de fase 4 para avaliar os efeitos farmacodinâmicos de diferentes regimes posológicos de Aldurazyme nos GAG urinários, no volume do fígado e na prova dos 6 minutos de marcha (6MWT). Neste estudo aberto com duração de 26 semanas,31 doentes com MPS1 foram submetidos a 1 de 4 regimes posológicos de Aldurazyme: 100 U/Kg IV todas as semanas (dose recomendada),200 U/Kg IV todas as semanas,200 U/Kg IV de 2 em 2 semanas ou 300 U/Kg IV de 2 em 2 semanas. Não foi verificada nenhuma vantagem clara das doses mais elevadas relativamente à dose recomendada. O regime de 200 U/Kg IV de 2 em 2 semanas poderá ser uma alternativa aceitável para doentes com dificuldades em receber perfusões semanais; no entanto, não há evidência de que a eficácia clínica a longo prazo destes dois regimes posológicos seja equivalente.
+ 8 A Autorização de Introdução no Mercado deste medicamento foi concedida mediante “ Circunstâncias Excepcionais ”. Isto significa que não foi possível obter informação detalhada sobre este medicamento devido à raridade da doença. A Agência Europeia de Medicamentos (EMEA) irá rever anualmente qualquer nova informação que possa vir a ser disponibilizada sobre o medicamento e este RCM será actualizado se necessário.
+ 5.2 Propriedades farmacocinéticas Após a administração intravenosa de laronidase num tempo de perfusão de 240 minutos e numa dose de 100 U/kg de peso corporal, determinaram-se as propriedades farmacocinéticas nas Semanas 1,12 e 26.
+ Parâmetro Perfusão 1 Média ± DP Perfusão 12 Média ± DP Perfusão 26 Média ± DP Cmax (U/ml) 0,197 ± 0,052 0,210 ± 0,079 0,302 ± 0,089 AUC∞ (h• U/ml) 0,930 ± 0,214 0,913 ± 0,445 1,191 ± 0,451 CL (ml/min/kg) 1,96 ± 0,495 2,31 ± 1,13 1,68 ± 0,763 Vz (l/kg) 0,604 ± 0,172 0,307 ± 0,143 0,239 ± 0,128 Vss (l/kg) 0,440 ± 0,125 0,252 ± 0,079 0,217 ± 0,081 t1/2 (h)
+ 3,61 ± 0,894 2,02 ± 1,26 1,94 ± 1,09 A Cmax aumentou ao longo do tempo. O volume de distribuição diminuiu com a continuação do tratamento, o que está possivelmente relacionado com a formação de anticorpos e/ou a diminuição do volume hepático. O perfil farmacocinético nos doentes de idade inferior a 5 anos foi similar ao verificado nos doentes mais velhos e menos gravemente afectados.
+ Sendo uma proteína, espera-se que a laronidase seja metabolicamente degradada através de hidrólise peptídica. Em consequência, não é de prever que uma função hepática comprometida afecte a farmacocinética da laronidase de modo clinicamente significativo. Considera-se que a eliminação renal da laronidase constitui uma via de depuração de menor importância (ver a secção 4.2).
+ 5.3 Dados de segurança pré-clínica Os dados não clínicos não revelam riscos especiais para o ser humano, segundo estudos convencionais de farmacologia de segurança, toxicidade de dose única, toxicidade de dose repetida e toxicidade reprodutiva. Não é de esperar qualquer potencial genotóxico ou carcinogénico.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Cloreto de sódio Fosfato monobásico de sódio, mono-hidratado Fosfato dibásico de sódio, hepta-hidratado Polissorbato 80 Água para preparações injectáveis
+ 6.2 Incompatibilidades Na ausência de estudos de compatibilidade, este medicamento não deve ser misturado com outros medicamentos, excepto os mencionados na secção 6.6.
+ 9 6.3 Prazo de validade
+ Frascos para injectáveis não abertos: 3 anos
+ Soluções diluídas: Sob o ponto de vista de segurança microbiológica, o produto deve ser utilizado imediatamente. No caso de não ser utilizado imediatamente, o período de conservação não deve ultrapassar as 24 horas a 2°C-8°C, pressupondo que a diluição tenha sido efectuada em condições assépticas controladas e validadas.
+ 6.4 Precauções especiais de conservação
+ Conservar no frigorífico (2°C – 8°C). Condições de conservação do medicamento diluído ver secção 6.3.
+ 6.5 Natureza e conteúdo do recipiente 5 ml de concentrado para solução num frasco para injectáveis (vidro de tipo I) com uma tampa (borracha de clorobutilo siliconisada) e um selo (alumínio) com uma cápsula destacável (polipropileno).
+ Tamanho das embalagens: 1,10 e 25 frascos para injectáveis. É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ Cada frasco para injectáveis de Aldurazyme destina-se apenas a utilização única. O concentrado para solução para perfusão tem de ser diluído com solução de cloreto de sódio de 9 mg/ml (0,9%) para perfusão utilizando uma técnica asséptica. Recomenda-se que a solução diluída de Aldurazyme seja administrada aos doentes utilizando um conjunto de perfusão equipado com um filtro em linha de 0,2 µm.
+ Preparação da perfusão de Aldurazyme (utilização de uma técnica asséptica) • Determine o número de frascos para injectáveis que tem de ser diluído com base no peso individual de cada doente. Retire os frascos para injectáveis necessários do frigorífico aproximadamente 20 minutos antes, a fim de permitir que atinjam a temperatura ambiente (inferior a 30˚C). • Antes da diluição, inspeccione visualmente cada frasco para injectáveis quanto à presença de partículas e alteração da cor. A solução límpida a ligeiramente opalescente e incolor a amarelo pálido deve estar isenta de partículas visíveis. Não utilize frascos para injectáveis que apresentem partículas estranhas ou alteração da cor. • Determine o volume total da perfusão com base no peso individual de cada doente,100 ml (se o peso corporal for inferior ou igual a 20 kg) ou 250 ml (se o peso corporal for superior a 20 kg) de solução de cloreto de sódio de 9 mg/ml (0,9%) para perfusão. • Extraia e elimine, um volume da solução de cloreto de sódio de 9 mg/ml (0,9%) para perfusão do saco de perfusão igual ao volume total de Aldurazyme a ser adicionado. • Extraia o volume necessário dos frascos para injectáveis de Aldurazyme e junte os volumes extraídos. • Adicione os volumes combinados de Aldurazyme à solução de cloreto de sódio de 9 mg/ml (0,9%) para perfusão. • Misture cuidadosamente a solução para perfusão. • Antes de utilizar, inspeccione visualmente a solução quanto à presença de partículas. Devem utilizar-se apenas soluções límpidas e incolores sem partículas visíveis.
+ 10 Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Genzyme Europe B. V., Gooimeer 10, NL-1411 DD Naarden, Países Baixos
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/03/253/001-003 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 10/06/2003 Data da última renovação:
+ 10. DATA DA REVISÃO DO TEXTO Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu/. 0H
+ 11 ANEXO II
+ A. FABRICANTE DA SUBSTÂNCIA ACTIVA DE ORIGEM BIOLÓGICA E TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ C. OBRIGAÇÕES ESPECÍFICAS A SEREM CUMPRIDAS PELO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 12 A. FABRICANTE(S) DA(S) SUBSTÂNCIA(S) ACTIVA(S) DE ORIGEM BIOLÓGICA E TITULAR(ES) DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL(VEIS) PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do(s) fabricante(s) da(s) substância(s) activa(s) de origem biológica
+ BioMarin Pharmaceutical Inc, Galli Drive Facility,46 Galli Drive, Novato, CA 94949, EUA.
+ Nome e endereço do(s) fabricante(s) responsável(veis) pela libertação do lote
+ Genzyme Ltd.,37 Hollands Road, Haverhill, Suffolk CB9 8PU, Reino Unido.
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento de receita médica restrita, de utilização reservada a certos meios especializados (ver anexo I: Resumo das Características do Medicamento, secção 4.2.).
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ Não aplicável. • OUTRAS CONDIÇÕES
+ O Titular da Autorização de Introdução no Mercado continuará a apresentar Relatórios Periódicos de Segurança anualmente, salvo especificação em contrário pelo CHMP.
+ C. OBRIGAÇÕES ESPECÍFICAS A SEREM CUMPRIDAS PELO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ O Titular da Autorização de Introdução no Mercado deverá executar o programa de estudos abaixo referido dentro dos prazos indicados; os resultados desses estudos estarão na base da reavaliação anual da relação benefício/risco.
+ Aspectos clínicos: 1. No que se refere ao registo da MPS I já implementado, este coligirá os dados de segurança e de eficácia a longo prazo em doentes tratados com Aldurazyme assim como os dados sobre a progressão natural da doença em doentes que não estão em tratamento. Na altura das reavaliações anuais serão apresentadas actualizações referentes a esse período.
+ 13 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 14 A. ROTULAGEM
+ 15 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ EMBALABEM EXTERIOR (1 FRASCO PARA INJECTÁVEIS,10 FRASCOS PARA INJECTÁVEIS 25 FRASCOS PARA INJECTÁVEIS)
+ 1. NOME DO MEDICAMENTO Aldurazyme 100 U/ml, concentrado para solução para perfusão. Laronidase
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ 1 ml contém 100 U de laronidase Cada frasco para injectáveis de 5 ml contém 500 U de laronidase
+ 3. LISTA DOS EXCIPIENTES Excipientes: Cloreto de sódio, Fosfato monobásico de sódio mono-hidratado, Fosfato dibásico de sódio hepta-hidratado, Polissorbato 80, Água para preparações injectáveis
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 1 frasco para injectáveis de concentrado para solução para perfusão. 10 frascos para injectáveis de concentrado para solução para perfusão. 25 frascos para injectáveis de concentrado para solução para perfusão.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via intravenosa. Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ Apenas para utilização única. 16 8. PRAZO DE VALIDADE
+ VAL. 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico (2°C – 8°C). 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ Toda a solução não utilizada deve ser eliminada.
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Titular da Autorização de Introdução no Mercado: Genzyme Europe B. V. Gooimeer 10 NL-1411 DD Naarden Países Baixos
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/03/253/001 1 FRASCO PARA INJECTÁVEIS EU/1/03/253/002 10 FRASCOS PARA INJECTÁVEIS EU/1/03/253/003 25 FRASCOS PARA INJECTÁVEIS
+ 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE 17 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ FRASCO PARA INJECTÁVEIS 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Aldurazyme 100 U/ml, concentrado para solução para perfusão. Laronidase Via intravenosa
+ 2. MODO DE ADMINISTRAÇÃO Consultar o folheto informativo antes da utilização
+ 3. PRAZO DE VALIDADE VAL. 4. NÚMERO DO LOTE Lote 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 5 ml 6. OUTRAS Conservar no frigorífico (2°C – 8°C). Genzyme Europe B. V.-NL 18 B. FOLHETO INFORMATIVO
+ 19 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Aldurazyme. 100 U/ml concentrado para solução para perfusão, Laronidase
+ Leia atentamente este folheto antes de utilizar este medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial, mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é Aldurazyme e para que é utilizado 2. Antes de utilizar Aldurazyme 3. Como utilizar Aldurazyme 4. Efeitos secundários possíveis 5. Como conservar Aldurazyme 6. Outras informações
+ 1. O QUE É ALDURAZYME E PARA QUE É UTILIZADO
+ Aldurazyme é utilizado para tratar doentes com a doença MPS I (Mucopolissacaridose I). É administrado para tratar as manifestações não neurológicas da doença.
+ As pessoas com MPS I apresentam um nível baixo ou ausente de um enzima chamado α-L-iduronidase, que degrada substâncias específicas (glicosaminoglicanos) no organismo. Em consequência, estas substâncias não são degradadas e processadas pelo organismo como deviam. Acumulam-se em muitos tecidos do organismo, o que provoca os sintomas de MPS I.
+ Aldurazyme é uma enzima artificial, chamada laronidase. Este enzima consegue substituir o enzima natural, que está ausente na doença MPS I.
+ 2. ANTES DE UTILIZAR ALDURAZYME Não utilize Aldurazyme Se tem alergia (hipersensibilidade) a qualquer dos componentes do Aldurazyme ou se tiver sofrido uma reacção alérgica grave à laronidase.
+ Tome especial cuidado com Aldurazyme Se for tratado com Aldurazyme, pode desenvolver reacções associadas à perfusão. Uma reacção associada à perfusão é qualquer efeito secundário que ocorra durante a perfusão ou até ao fim do dia da perfusão (ver 4 “ Efeitos secundários possíveis ”). Algumas destas reacções podem ser graves. Se ocorrer uma reacção deste tipo, deve contactar imediatamente o seu médico.
+ Na eventualidade de ocorrência destas reacções, a perfusão de Aldurazyme deve ser imediatamente interrompida e o seu médico irá iniciar um tratamento apropriado. Estas reacções poderão ser particularmente graves caso tenha uma obstrução pré-existente das vias aéreas, relacionada com a MPS I. Poderá ser-lhe administrada medicação adicional, tal como anti-histamínicos e paracetamol, para ajudar a prevenir as reacções de tipo alérgico.
+ 20 Utilizar Aldurazyme com outros medicamentos: Informe o seu médico se estiver a tomar medicamentos que contêm cloroquina ou procaína, devido a um possível risco de redução da acção de Aldurazyme.
+ Informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica.
+ Gravidez e aleitamento Não há experiência suficiente com a utilização de Aldurazyme em mulheres grávidas. Aldurazyme não deve ser utilizado durante a gravidez, a menos que claramente indicado. Consulte o seu médico ou farmacêutico antes de tomar qualquer medicamento.
+ Não se sabe se o Aldurazyme é segregado no leite materno. É recomendado suspender o aleitamento durante o tratamento com Aldurazyme. Consulte o seu médico ou farmacêutico antes de tomar qualquer medicamento.
+ Condução de veículos e utilização de máquinas: Não foram estudados os efeitos na capacidade de conduzir ou de utilizar máquinas.
+ Informações importantes sobre alguns componentes de Aldurazyme Este medicamento contém 1,29 mmol de sódio por frasco para injectáveis. A ser tido em consideração pelos doentes a fazerem uma dieta de sódio controlado.
+ 3. COMO UTILIZAR ALDURAZYME Instruções de utilização-diluição e administração O concentrado para solução para perfusão tem de ser diluído antes da administração e é administrado por via intravenosa (ver a informação para os profissionais de cuidados de saúde). A administração de Aldurazyme deve ser efectuada num enquadramento clínico apropriado no qual está rapidamente disponível equipamento de reanimação para tratar emergências médicas.
+ Posologia O regime posológico recomendado de Aldurazyme é de 100 U/kg de peso corporal, administradas uma vez por semana, sob a forma de uma perfusão intravenosa. A taxa de perfusão inicial de 2 U/kg/h pode ser aumentado gradualmente de quinze em quinze minutos, se tolerado, até um máximo de 43 U/kg/h. O volume total da administração deve ser dado em aproximadamente 3-4 horas.
+ Caso se tenha esquecido de utilizar Aldurazyme Contacte o seu médico se tiver faltado a uma perfusão de Aldurazyme.
+ Se utilizar mais Aldurazyme do que deveria Não foram comunicados casos de sobredosagem com Aldurazyme.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todos os medicamentos, o Aldurazyme pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas. Os efeitos secundários observaram-se sobretudo enquanto o medicamento estava a ser administrado ou pouco tempo depois (reacções associadas à perfusão). Caso tenha alguma reacção deste tipo, deve contactar o seu médico imediatamente. O número de reacções deste tipo diminuiu com o aumento do tempo em que os doentes estiveram a receber Aldurazyme. A maioria destas reacções foi de intensidade ligeira ou moderada. Contudo, alguns doentes com uma história anterior de comprometimento grave pulmonar e das vias aéreas superiores relacionado com a MPS I tiveram reacções graves incluindo broncoespasmo, paragem respiratória e inchaço da face.
+ 21 Em ensaios clínicos foram comunicados os seguintes efeitos secundários: Muito frequentes (ocorrem em mais de 1 em 10 doentes): • dor de cabeça • náuseas • dores abdominais • erupção cutânea • doença articular, dor nas articulações, dor nas costas, dor nos braços ou pernas • rubor • febre • arrepios • aumento da frequência cardíaca • aumento da pressão arterial • menos oxigénio no sangue • reacção no local de perfusão
+ Frequentes (ocorrem em mais de 1 em 100 doentes e em menos de 1 em 10 doentes) • aumento da temperatura corporal • formigueiro • tonturas • tosse • dificuldade em respirar que pode ser extrema • vómitos • diarreia • inchaço da face ou do pescoço • urticária • comichão • queda de cabelo • suores frios, suores intensos • dor muscular • pressão arterial baixa • palidez • mãos ou pés frios • sensação de calor, sensação de frio • fadiga • doença semelhante a gripe • reacção alérgica • agitação
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR ALDURAZYME Manter fora do alcance e da vista das crianças.
+ Não utilize Aldurazyme após o prazo de validade impresso no rótulo, após as letras VAL.
+ Frascos para injectáveis não abertos: Conservar no frigorífico (2°C – 8°C).
+ Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 22 6. OUTRAS INFORMAÇÕES
+ Qual a composição de Aldurazyme -A substância activa é laronidase. Um ml da solução no frasco para injectáveis contém 100 U de
+ laronidase. Cada frasco para injectáveis de 5 ml contém 500 U de laronidase.
+ -Os outros componentes são:
+ Cloreto de sódio, Fosfato monobásico de sódio mono-hidratado, Fosfato dibásico de sódio hepta-hidratado, Polissorbato 80, Água para preparações injectáveis
+ Qual o aspecto de Aldurazyme e conteúdo da embalagem Aldurazyme é um concentrado para solução para perfusão. É uma solução límpida a ligeiramente opalescente, incolor a amarelo pálido.
+ Tamanho da embalagem: 1,10,25 frascos para injectáveis por embalagem. É possível que não sejam comercializadas todas as apresentações ..
+ Titular da Autorização de Introdução no Mercado Genzyme Europe B. V., Gooimeer 10, NL-1411 DD, Naarden, Países Baixos
+ Fabricante Genzyme Ltd,37 Hollands Road, Haverhill, Suffolk CB9 8PU, Reino Unido
+ 23 Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado:
+ België/Belgique/Belgien/Luxembourg/Luxemburg
+ Magyarország Genzyme Europe B. V. Képviselet,
+ Genzyme Belgium nv/sa (Belgique/Belgien), Tél/Tel:+ 32 2 714 17 11
+ Tel: +36 1 310 7440 България Търговско представителство на Genzyme CEE GmbH Тел. +359 2 971 1001
+ Nederland Genzyme Europe BV, Tel: +31 35 6991200
+ Česká republika/Slovenská republika/Slovenija
+ Österreich Genzyme Austria GmbH, Genzyme Europe B. V. organizační složka (Česká Republika) Tel: +420 227 133 665
+ Tel:+ 43 1 774 65 38 Danmark/Norge/Sverige/Suomi/Finland/Ísland
+ Polska/Eesti/Latvija/Lietuva Genzyme Polska Sp. z o. o.
+ Genzyme A/S, (Danmark/Tanska/Danmörk), Tlf/Puh./Sími:+ 45 32712600
+ (Poola/Polija/Lenkija), Tel: +48 22 516 24 30
+ Deutschland Genzyme GmbH, Tel: +49 610236740
+ Portugal Genzyme Portugal, Tel: +351 21 422 0100
+ Ελλάδα/Κύπρος Genzyme Hellas Ltd. (Ελλάδα) Τηλ: +30 210 99 49 270
+ România Genzyme CEE GmbH-Reprezentanta pentru Romania Tel: +40 21 243 42 28
+ España Genzyme, S. L., Tel: +34 91 6591670
+ United Kingdom/Ireland Genzyme Therapeutics (United Kingdom) Tel: +44 1865 405200
+ France Genzyme S. A. S, Tél:+ 33 (0) 825 825 863
+ Italia/Malta Genzyme Srl (Italia/Italja), Tel: +39 059 349811
+ Este folheto foi aprovado pela última vez em
+ &lt; Este medicamento foi autorizado sob “ circunstâncias excepcionais ”. Isto significa que foi impossível obter informação detalhada sobre este medicamento devido à raridade desta doença. A Agência Europeia de Medicamentos (EMEA) irá rever anualmente qualquer nova informação sobre o medicamento e este folheto será actualizado se necessário.
+ 24 Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu/. Também existem links para outros sites sobre 1H2
+ doenças raras e tratamentos.
+ -----------------------------------------------------------------------------------------------------------------------
+ A informação que se segue destina-se apenas aos médicos e aos profissionais de cuidados de saúde:
+ Cada frasco para injectáveis de Aldurazyme destina-se apenas a utilização única. O concentrado para solução para perfusão tem de ser diluído com solução de cloreto de sódio de 9 mg/ml (0,9%) para perfusão utilizando uma técnica asséptica. Recomenda-se que a solução diluída de Aldurazyme seja administrada aos doentes utilizando um conjunto de perfusão equipado com um filtro em linha de 0,2 µm.
+ Sob o ponto de vista de segurança microbiológica, o produto deve ser utilizado imediatamente. No caso de não ser utilizado imediatamente, o período de conservação não deve ultrapassar as 24 horas a 2°C-8°C, pressupondo que a diluição tenha sido efectuada em condições assépticas controladas e validadas.
+ Aldurazyme não deve ser misturado com outros medicamentos na mesma perfusão.
+ Preparação da perfusão de Aldurazyme (utilização de uma técnica asséptica) • Determine o número de frascos para injectáveis que tem de ser diluído com base no peso individual de cada doente. Retire os frascos para injectáveis necessários do frigorífico aproximadamente 20 minutos antes, a fim de permitir que atinjam a temperatura ambiente (inferior a 30˚C). • Antes da diluição, inspeccione visualmente cada frasco para injectáveis quanto à presença de partículas e alteração da cor. A solução límpida a ligeiramente opalescente e incolor a amarelo pálido deve estar isenta de partículas visíveis. Não utilize frascos para injectáveis que apresentem partículas estranhas ou alteração da cor. • Determine o volume total da perfusão com base no peso individual de cada doente,100 ml (se o peso corporal for inferior ou igual a 20 kg) ou 250 ml (se o peso corporal for superior a 20 kg) de solução de cloreto de sódio de 9 mg/ml (0,9%) para perfusão. • Extraia e elimine um volume da solução de cloreto de sódio de 9 mg/ml (0,9%) para perfusão do saco de perfusão igual ao volume total de Aldurazyme a ser adicionado. • Extraia o volume necessário dos frascos para injectáveis de Aldurazyme e junte os volumes extraídos. • Adicione os volumes combinados de Aldurazyme à solução de cloreto de sódio de 9 mg/ml (0,9%) para perfusão. • Misture cuidadosamente a solução para perfusão. • Antes de utilizar, inspeccione visualmente a solução quanto à presença de partículas. Devem utilizar-se apenas soluções límpidas e incolores sem partículas visíveis.
+ Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 25

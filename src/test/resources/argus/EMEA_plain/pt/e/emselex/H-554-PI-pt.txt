@@ -1,0 +1,564 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. NOME DO MEDICAMENTO
+ Emselex 7,5 mg comprimidos de libertação prolongada
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada comprimido contém 7,5 mg de darifenacina (na forma de bromidrato)
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Comprimidos de libertação prolongada Comprimido branco, redondo e convexo, com “ DF ” gravado num dos lados e “ 7.5 ” no lado oposto.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Tratamento sintomático da incontinência urinária de urgência e/ou aumento da frequência e urgência das micções que podem ocorrer em doentes com síndroma de bexiga hiperactiva.
+ 4.2 Posologia e modo de administração Via oral. Adultos (≥ 18 anos) A dose inicial recomendada é de 7,5 mg por dia. Os doentes deverão ser reavaliados duas semanas após início do tratamento. Para os doentes que requerem maior alívio dos sintomas, a dose pode ser aumentada para 15 mg por dia, com base na resposta individual.
+ Emselex deve ser tomado uma vez por dia com líquidos. Os comprimidos podem ser tomados com ou sem alimentos, e devem ser engolidos inteiros, sem serem mastigados, divididos ou esmagados.
+ Doentes idosos (≥ 65 anos) A dose recomendada para início do tratamento em doentes idosos é de 7,5 mg por dia. Os doentes deverão ser reavaliados duas semanas após início do tratamento quanto à eficácia e segurança. Nos doentes que tenham um perfil de tolerabilidade aceitável mas que necessitem maior alívio dos sintomas, a dose pode ser aumentada para 15 mg por dia, com base na resposta individual (ver secção 5.2).
+ Crianças Emselex não é recomendado em crianças com idade inferior a 18 anos devido à ausência de dados de segurança e eficácia.
+ Utilização no compromisso renal Não é necessário um ajuste de dose nos doentes com compromisso renal. No entanto, recomenda-se precaução ao tratar esta população de doentes (ver secção 5.2).
+ Utilização no compromisso hepático Não é necessário um ajuste de dose nos doentes com compromisso hepático ligeiro (Child-Pugh A). No entanto, existe um risco de exposição aumentada nesta população (ver secção 5.2).
+ 2 Em doentes com compromisso hepático moderado (Child-Pugh B), os doentes apenas devem ser tratados se o benefício compensar o risco, e a dose nestes doentes deve ser restringida a 7,5 mg por dia (ver secção 5.2).
+ Doentes a receberem tratamento concomitante com substâncias que sejam inibidores potentes da CYP2D6 ou inibidores moderados da CYP3A4 Em doentes a receber substâncias que sejam inibidores potentes da CYP2D6 tais como paroxetina, terbinafina, quinidina e cimetidina, o tratamento deve ser iniciado com a dose de 7,5 mg. A dose pode ser ajustada para 15 mg por dia para obter uma melhoria da resposta clínica desde que a dose seja bem tolerada. No entanto, devem ser tomadas precauções.
+ Em doentes a receber substâncias que sejam inibidores moderados da CYP3A4 tais como fluconazol, sumo de toranja e eritromicina, a dose inicial recomendada é de 7,5 mg por dia. A dose pode ser ajustada para 15 mg por dia para obter uma melhoria da resposta clínica desde que a dose seja bem tolerada. No entanto, devem ser tomadas precauções.
+ 4.3 Contra-indicações Emselex está contra-indicado em doentes com:
+ -Hipersensibilidade à substância activa ou a qualquer um dos excipientes.
+ -Retenção urinária.
+ -Retenção gástrica.
+ -Glaucoma de ângulo fechado, não controlado.
+ -Miastenia gravis.
+ -Compromisso hepático grave (Child Pugh C).
+ -Colite ulcerosa grave.
+ -Megacólon tóxico.
+ -Tratamento concomitante com inibidores potentes da CYP3A4 (ver secção 4.5).
+ 4.4 Advertências e precauções especiais de utilização
+ Emselex deve ser administrado com precaução em doentes com neuropatia autónoma, hérnia do hiato, obstrução do fluxo da bexiga clinicamente significativo, risco de retenção urinária, obstipação grave ou distúrbios gastrointestinais obstrutivos, tais como estenose pilórica.
+ Emselex deve ser utilizado com precaução em doentes em tratamento para o glaucoma de ângulo fechado (ver secção 4.3).
+ Devem ser avaliadas outras causas de micção frequentes (insuficiência cardíaca ou doença renal) antes do tratamento com Emselex. Se estiver presente infecção do tracto urinário, deve ser iniciada a terapêutica antibacteriana apropriada.
+ Emselex deve ser usado com precaução em doentes com risco de motilidade gastrointestinal reduzida, refluxo gastro-esofágico e/ou que estejam a tomar concomitantemente medicamentos (tais como bifosfonatos orais) que causem ou exacerbem esofagite.
+ A segurança e eficácia não foram ainda estabelecidas em doentes com causa neurogénica para a hiperactividade do detrusor.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Efeitos de outros medicamentos sobre a darifenacina O metabolismo da darifenacina é primariamente mediado pelas enzimas CYP2D6 e CYP3A4 do citocromo P450. Assim, os inibidores destas enzimas podem aumentar a exposição à darifenacina.
+ 3 Inibidores da CYP2D6 Em doentes a receber substâncias que sejam inibidores potentes da CYP2D6 (ex: paroxetina, terbinafina, cimetidina e quinidina), a dose inicial recomendada é de 7,5 mg por dia. A dose pode ser ajustada para 15 mg por dia para obter uma melhoria da resposta clínica desde que a dose seja bem tolerada. O tratamento concomitante com inibidores potentes da CYP2D6 resulta num aumento da exposição (ex: de 33% com 20 mg de paroxetina para uma dose de 30 mg de darifenacina).
+ Inibidores da CYP3A4 A darifenacina não deve ser usada concomitantemente com inibidores potentes da CYP3A4 (ver secção 4.3) tais como inibidores da protease (ex: ritonavir), cetoconazol e itraconazol. Inibidores potentes da glicoproteína P, tais como ciclosporina e verapamilo devem também ser evitados. A co-administração de 7,5 mg de darifenacina com 400 mg do inibidor potente da CYP3A4 cetoconazol resultou num aumento em 5 vezes da AUC da darifenacina no estado estacionário. Em indivíduos que sejam metabolizadores fracos, a exposição à darifenacina aumentou em aproximadamente 10 vezes. Devido a uma maior contribuição da CYP3A4 após doses elevadas de darifenacina, é expectável que a magnitude do efeito seja ainda mais pronunciada quando se associar cetoconazol com 15 mg de darifenacina.
+ Quando co-administrada com inibidores moderados da CYP3A4 tais como eritromicina, claritromicina, telitromicina, fluconazol e sumo de toranja, a dose inicial recomendada deve ser de 7,5 mg por dia. A dose pode ser ajustada para 15 mg por dia para obter uma melhoria da resposta clínica desde que a dose seja bem tolerada. Os valores de AUC24 e Cmax para doses de 30 mg uma vez por dia de darifenacina oral, em doentes que eram metabolizadores extensivos, foram 95% e 128% superiores quando foi co-administrada eritromicina (inibidor moderado da CYP3A4) com darifenacina do que quando a darifenacina foi administrada isoladamente.
+ Indutores enzimáticos É provável que substâncias são indutores da CYP3A4 tais como rifampicina, carbamazepina, barbitúricos e hipericão (Hypericum perforatum) diminuam as concentrações plasmáticas de darifenacina.
+ Efeitos da darifenacina sobre outros medicamentos Substratos da CYP2D6 A darifenacina é um inibidor moderado da enzima CYP2D6. Devem tomar-se precauções quando a darifenacina é utilizada concomitantemente com medicamentos que são predominantemente metabolizados pela CYP2D6 e que têm uma janela terapêutica estreita, tais como flecainida, tioridazina, ou antidepressivos tricíclicos como a imipramina. Os efeitos da darifenacina no metabolismo de substratos da CYP2D6 são na sua maioria clinicamente relevantes para os substratos da CYP2D6, cujas doses são ajustadas individualmente.
+ Substratos da CYP3A4 O tratamento com darifenacina resultou num aumento modesto na exposição ao substrato da CYP3A4, midazolam. A interacção com o midazolam carece de relevância clínica mas é indicativa de uma ligeira inibição da CYP3A4 pela darifenacina.
+ Varfarina A monitorização terapêutica padrão do tempo de protrombina deve ser continuada. O efeito da varfarina no tempo de protrombina não foi alterado quando administrada concomitantemente com a darifenacina.
+ Digoxina A monitorização terapêutica da digoxina deve ser feita quando se inicia ou termina o tratamento com darifenacina, bem como quando se altera a dose de darifenacina. A administração concomitante de 30 mg de darifenacina uma vez por dia (duas vezes a dose diária recomendada) com digoxina no estado estacionário resultou num pequeno aumento na exposição à digoxina (AUC: 16% e Cmax: 20%). O aumento na exposição à digoxina poderá ser causado pela competição entre a darifenacina e
+ 4 a digoxina para a glicoproteína P. Outras interacções relacionadas com os transportadores não podem ser excluídas.
+ Agentes antimuscarínicos Tal como para qualquer fármaco antimuscarínico, a utilização concomitante com produtos medicinais possuindo propriedades antimuscarínicas, tais como oxibutinina, tolterodina e flavoxato, pode resultar em efeitos terapêuticos e efeitos secundários mais pronunciados. Pode também ocorrer potenciação dos efeitos anticolinérgicos com os medicamentos antiparkinsónicos e antidepressores tricíclicos, caso os fármacos antimuscarínicos sejam utilizados concomitantemente com estes medicamentos. No entanto, não foram efectuados estudos sobre a interacção com medicamentos antiparkinsónicos e antidepressores tricíclicos.
+ 4.6 Gravidez e aleitamento Gravidez Não existem estudos com a darifenacina em mulheres grávidas. Estudos em animais revelaram toxicidade no parto e no desenvolvimento peri e pós-natal (ver secção 5.3). Emselex não é recomendado durante a gravidez.
+ Aleitamento A darifenacina é excretada no leite materno de ratos. Não é conhecido se a darifenacina é excretada no leite humano, portanto, deve-se ter precaução antes de se administrar Emselex a mulheres a amamentar.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos de Emselex sobre a capacidade de conduzir e utilizar máquinas. Tal como para outros fármacos antimuscarínicos, Emselex poderá causar efeitos indesejáveis, tais como tonturas, visão turva, insónia e sonolência. Os doentes que sofrerem estes efeitos indesejáveis não deverão conduzir nem utilizar máquinas. Com Emselex, estes efeitos indesejáveis foram pouco frequentes.
+ 4.8 Efeitos indesejáveis Consistente com o perfil farmacológico, as reacções adversas medicamentosas mais frequentemente notificadas foram xerostomia (20,2% e 35% para a dose de 7,5 mg e 15 mg, respectivamente, 18,7% após titulação flexível de dose, e 8%-9% para o placebo) e obstipação (14,8% e 21% para a dose de 7,5 mg e 15 mg, respectivamente, 20,9% após titulação flexível de dose, e 5,4%-7,9% para o placebo). Os efeitos anti-colinérgicos, em geral, são dose-dependentes.
+ No entanto, a taxa de doentes que interromperam a terapêutica devido a estas reacções adversas foi baixa (xerostomia: 0%-0,9% e obstipação: 0,6%-2,2% para a darifenacina, dependendo da dose; e 0% e 0,3% para o placebo, para a xerostomia e a obstipação, respectivamente).
+ Tabela 1: Reacções adversas com Emselex comprimidos de libertação prolongada a 7,5 mg e 15 mg
+ Estimativas de frequência: muito frequentes (≥1/10), frequentes (≥1/100 a &lt; 1/10), pouco frequentes (≥1/1.000 a &lt; 1/100), desconhecido (não pode ser calculado a partir dos dados disponíveis).
+ Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ Infecções e Infestações Pouco frequentes Perturbações do foro psiquiátrico
+ Infecção do tracto urinário Pouco frequentes Insónia, alterações do raciocínio Doenças do sistema nervoso 5 Frequentes Pouco frequentes Afecções oculares
+ Cefaleias Tonturas, disgeusia, sonolência
+ Frequentes Pouco frequentes Vasculopatias
+ Xeroftalmia Perturbações da visão, incluindo visão turva
+ Pouco frequentes Hipertensão Doenças respiratórias, torácicas e do mediastino Pouco frequentes Doenças gastrointestinais
+ Dispneia, tosse, rinite Muito frequentes Frequentes Pouco frequentes
+ Obstipação, xerostomia Dor abdominal, náuseas, dispepsia Flatulência, diarreia, estomatite ulcerativa
+ Afecções dos tecidos cutâneos e subcutâneas Pouco frequentes Desconhecido Doenças renais e urinárias
+ Erupção cutânea, pele seca, prurido, hiperidrose Angioedema
+ Pouco frequentes Doenças dos órgãos genitais e da mama
+ Retenção urinária, perturbações do tracto urinário, dor vesical
+ Pouco frequentes Disfunção eréctil, vaginite Perturbações gerais e alterações no local de administração Pouco frequentes Exames complementares de diagnóstico
+ Edema periférico, astenia, edema da face, edema
+ Pouco frequentes Aspartato aminotransferase aumentada, alanina aminotransferase aumentada
+ Complicações de intervenções relacionadas com lesões e intoxicações Pouco frequentes
+ Lesão Nos principais ensaios clínicos com doses de 7,5 mg e 15 mg de Emselex, foram notificadas reacções adversas tal como referidas na tabela acima. A maioria das reacções adversas foram de intensidade ligeira a moderada e não resultaram na interrupção do tratamento na maioria dos doentes.
+ O tratamento com Emselex pode encobrir sintomas associados a doença da vesícula biliar. No entanto, não houve associação entre a ocorrência de efeitos indesejáveis relacionados com o sistema biliar em doentes tratados com darifenacina e a idade.
+ A incidência de acontecimentos adversos com doses de 7,5 mg e 15 mg de Emselex diminuiu durante um período de tratamento superior a 6 meses. Também se observa uma tendência semelhante na taxa de interrupção.
+ Experiência pós-comercialização Os acontecimentos adversos que se referem de seguida, associados à utilização com darifenacina, foram notificados no âmbito da utilização pós-comercialização, a nível mundial: reacções de hipersensibilidade generalizada incluindo angioedema. Uma vez que estes acontecimentos adversos notificados espontaneamente se referem à experiência pós-comercialização a nível mundial, a frequência dos mesmos não pode ser determinada a partir dos dados disponíveis.
+ 4.9 Sobredosagem Em ensaios clínicos, Emselex foi administrado em doses até 75 mg (cinco vezes a dose terapêutica máxima). Os acontecimentos adversos mais comuns foram xerostomia, obstipação, cefaleias, dispepsia e secura nasal. No entanto, a sobredosagem com darifenacina pode potencialmente levar a efeitos anticolinérgicos graves e deve ser devidamente tratada. A terapêutica deve ser focada na reversão dos
+ 6 sintomas anticolinérgicos sob cuidadosa supervisão médica. A utilização de agentes como a fisiostigmina pode ajudar na reversão destes sintomas.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Anti-espasmódico urinário, código ATC: G04B D10
+ A darifenacina é um antagonista selectivo dos receptores muscarínicos M3 (M3 SRA), in vitro. O receptor M3 é o subtipo maioritário que controla a contracção do músculo urinário da bexiga. Não é conhecido se esta selectividade para o receptor M3 se traduz em qualquer vantagem clínica no tratamento dos sintomas da síndrome de bexiga hiperactiva.
+ Estudos cistométricos efectuados com darifenacina em doentes com contracções involuntárias da bexiga mostraram um aumento da capacidade da bexiga, aumento do limiar de volume para contracções instáveis e diminuição da frequência das contracções instáveis do detrusor.
+ O tratamento com Emselex, administrado em doses de 7,5 mg e 15 mg por dia foi investigado em quatro ensaios clínicos controlados, em dupla ocultação, de Fase III, aleatorizados, em doentes de ambos os sexos, com sintomas de bexiga hiperactiva. Como apresentado na Tabela 2 abaixo, uma análise dos resultados agrupados de 3 ensaios clínicos, em que foram administradas doses de 7,5 mg e 15 mg de Emselex, mostrou uma melhoria estatisticamente significativa no parâmetro de avaliação primário, redução do número de episódios de incontinência versus o placebo.
+ Tabela 2: Análise dos resultados agrupados de três ensaios clínicos de Fase III, avaliando doses fixas de 7,5 mg e 15 mg de Emselex
+ Dose N Valores basais Episódios de incontinência por semana Semana 12 Alteração Diferenças (mediana) versus valores versus placebo1
+ 95% IC Valor P (mediana)
+ basais
+ (mediana)
+ (mediana) Emselex 7,5 mg uma vez por dia
+ 335 16,0 4,9 -8,8 (-68%)
+ -2,0
+ (-3,6;-0,7)
+ 0,004 Placebo 271 16,6 7,9 -7,0 (-54%)
+ --
+ --
+ --
+ Emselex 15 mg uma vez por dia 330 16,9 4,1 -10,6 (-77%)
+ -3,2
+ (-4,5;-2,0)
+ &lt; 0,001
+ Placebo 1 384 16,6 6,4 -7,5 (-58%)
+ --
+ --
+ --
+ Estimativa de Hodges Lehmann: mediana da diferença versus placebo na alteração dos valores basais 2 Wilcoxon teste estratificado para diferenças versus placebo.
+ As doses de 7,5 mg e 15 mg de Emselex reduziram significativamente tanto a gravidade como o número de episódios de urgência urinária e o número de micções, enquanto aumentaram significativamente o volume médio de urina expelido, em relação aos valores basais.
+ As doses de 7,5 mg e 15 mg de Emselex foram associadas a melhoria estatisticamente significativa face ao placebo nalguns aspectos de qualidade de vida, conforme medido pelo Kings Health Questionnaire, incluindo o impacto da incontinência, limitações da actividade quotidiana, limitações sociais e medidas de contingência.
+ Para ambas as doses de 7,5 mg e 15 mg, a percentagem mediana de redução do número de episódios semanais de incontinência, relativamente aos valores basais, foi similar entre homens e mulheres. As diferenças observadas nos doentes do sexo masculino em relação ao placebo comparativamente às das
+ 7 doentes do sexo feminino, em termos de percentagem e valores absolutos, nos episódios de incontinência foram inferiores.
+ O efeito do tratamento com 7,5 mg e 15 mg de darifenacina no intervalo QT/QTc foi avaliado num estudo em 179 adultos saudáveis (44% homens: 56% mulheres) com idades entre os 18 e os 65 anos, durante 6 dias (até ao estado estacionário). A administração de doses terapêuticas e supra-terapêuticas de darifenacina não resultou em prolongamento do intervalo QT/QTc relativamente aos valores basais, comparativamente ao placebo, para a exposição máxima à darifenacina.
+ 5.2 Propriedades farmacocinéticas A darifenacina é metabolizada pelas enzimas CYP3A4 e pela CYP2D6. Devido a diferenças genéticas, cerca de 7% da população caucasiana não possui a enzima CYP2D6, pelo que são considerados metabolizadores fracos. Uma pequena percentagem da população aumentou os níveis da enzima CYP2D6 (metabolizadores ultra-rápidos). As informações abaixo aplica-se aos indivíduos com uma actividade da CYP2D6 normal (metabolizadores extensivos) excepto quando é feita referência em contrário.
+ Absorção Devido ao extensivo metabolismo de primeira passagem, a darifenacina tem uma biodisponibilidade de aproximadamente 15% e 19%, após doses diárias de 7,5 mg e 15 mg, no estado estacionário. Os níveis plasmáticos máximos são atingidos aproximadamente 7 horas após a primeira administração dos comprimidos de libertação prolongada e os níveis plasmáticos no estado estacionário são atingidos ao sexto dia de administração. No estado estacionário, as flutuações pico-vale (FPV) das concentrações de darifenacina são pequenas (FPV: 0,87 para a dose de 7,5 mg e 0,76 para a de 15 mg), mantendo-se assim níveis plasmáticos terapêuticos no intervalo posológico. Os alimentos não têm efeito sobre a farmacocinética da darifenacina durante a administração de múltiplas doses dos comprimidos de libertação prolongada.
+ Distribuição A darifenacina é uma base lipofílica e liga-se às proteínas plasmáticas em 98% (primariamente à alfa-1-acido-glicoproteína). O volume de distribuição (Vss) no estado estacionário estima-se ser de 163 litros.
+ Metabolismo A darifenacina é extensivamente metabolizada pelo fígado após administração oral.
+ A darifenacina é extensivamente metabolizada pelo citocromo CYP3A4 e CYP2D6 no fígado e pelo CYP3A4 na parede intestinal. As três principais vias de metabolização são as seguintes: monohidroxilação no anel do dihidrobenzofurano; abertura do anel do dihidrobenzofurano e N-desalquilação do azoto de pirrolidina.
+ Os produtos iniciais das vias de hidroxilação e N-desalquilação são os metabolitos maioritários em circulação, mas nenhum contribui significativamente para o efeito clínico global da darifenacina.
+ A farmacocinética da darifenacina no estado estacionário é dependente da dose, devido à saturação da enzima CYP2D6.
+ A duplicação da dose de darifenacina de 7,5 mg para 15 mg resulta em 150% de aumento da exposição no estado estacionário. Esta dependência da dose é provavelmente causada pela saturação do metabolismo catalisado pela CYP2D6 conjuntamente com alguma saturação do metabolismo da CYP3A4 da parede intestinal.
+ Excreção Após a administração de uma dose oral de solução de 14C-darifenacina a voluntários saudáveis, aproximadamente 60% da radioactividade foi recuperada na urina e 40% nas fezes. Apenas uma
+ 8 pequena percentagem da dose excretada era darifenacina inalterada (3%). A depuração estimada da darifenacina é de 40 litros/hora. A semi-vida de eliminação da darifenacina após administração crónica é aproximadamente 13-19 horas.
+ Populações especiais de doentes Sexo Uma análise dos dados de farmacocinética da população de doentes indicou que a exposição à darifenacina foi 23% mais baixa nos homens do que nas mulheres (ver secção 5.1).
+ Doentes idosos Uma análise dos dados de farmacocinética da população de doentes indicou uma tendência para diminuição da depuração com a idade (19% por década, com base na análise farmacocinética da população dos ensaios clínicos de Fase III com idades entre 60 e 89 anos), ver secção 4.2.
+ Doentes pediátricos A farmacocinética da darifenacina não foi estabelecida na população pediátrica.
+ Metabolizadores fracos da CYP2D6 O metabolismo da darifenacina em metabolizadores fracos da CYP2D6 é principalmente mediado pela CYP3A4. Num estudo farmacocinético, a exposição no estado estacionário em metabolizadores fracos foi 164% e 99% superior durante o tratamento com 7,5 mg e 15 mg, uma vez por dia, respectivamente. No entanto, a análise da população farmacocinética dos estudos de Fase III indicou que, em média, a exposição no estado estacionário é 66% superior nos metabolizadores fracos, em relação aos metabolizadores extensivos. Existe uma sobreposição considerável entre os intervalos de exposição observados nestas duas populações (ver secção 4.2).
+ Compromisso renal Um estudo com um número limitado de doentes (n=24) com variados graus de compromisso renal (depuração da creatinina entre 10 ml/min. e 136 ml/min.), aos quais foram administrados 15 mg de darifenacina uma vez por dia até ao estado estacionário, demonstrou não haver relação entre a função renal e a depuração da darifenacina (ver secção 4.2).
+ Compromisso hepático A farmacocinética da darifenacina foi investigada em indivíduos com compromisso da função hepática ligeiro (Child Pugh A) a moderada (Child Pugh B) aos quais foram administrados 15 mg de darifenacina uma vez por dia até ao estado estacionário. O compromisso hepático ligeiro não teve efeito na farmacocinética da darifenacina. Contudo, a ligação proteica da darifenacina foi afectada pelo compromisso hepático moderado. A exposição à darifenacina não ligada estimou-se ser 4,7 vezes superior em indivíduos com compromisso hepático moderado do que em indivíduos com a função hepática normal (ver secção 4.2).
+ 5.3 Dados de segurança pré-clínica Os dados pré-clínicos não revelam riscos especiais para o ser humano, segundo estudos convencionais de farmacologia de segurança, toxicidade de dose repetida, genotoxicidade e potencial carcinogénico.
+ Estudos em animais não indicam efeitos prejudiciais directos ou indirectos no que respeita à fertilidade, gravidez, desenvolvimento embrionário/fetal, parto e/ou desenvolvimento pós-natal. Em estudos peri e pós-natais em ratos, foram observados distocia, aumento das mortes fetais in útero e toxicidade no desenvolvimento pós-natal (peso corporal da cria e sinais de maturação) para níveis de exposição sistémica até 11 vezes superiores à exposição clínica esperada.
+ 9 6. INFORMAÇÕES FARMACÊUTICAS
+ 6.1 Lista dos excipientes Núcleo do comprimido: Hidrogenofosfato de cálcio, anidro Hipromelose Estearato de magnésio
+ Revestimento: Polietilenoglicol Hipromelose Dióxido de titânio (E171) Talco
+ 6.2 Incompatibilidades Não aplicável. 6.3 Prazo de validade 3 anos 6.4 Precauções especiais de conservação
+ Manter os blisters dentro da embalagem exterior para proteger da luz.
+ 6.5 Natureza e conteúdo do recipiente Blister transparente de PVC/CTFE/alumínio ou PVC/PVDC/alumínio, em caixas contendo 7,14,28,49,56 ou 98 comprimidos como embalagem unitária ou em embalagens múltiplas contendo 10 embalagens, cada uma contendo 14 comprimidos.
+ É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais de eliminação Não existem requisitos especiais. 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Novartis Europharm Limited Wimblehurst Road Horsham West Sussex, RH12 5AB Reino Unido
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/04/294/001-006 EU/1/04/294/013 EU/1/04/294/015-020 EU/1/04/294/027
+ 10 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 22. 10.2004 10. DATA DA REVISÃO DO TEXTO 11 1. NOME DO MEDICAMENTO
+ Emselex 15 mg comprimidos de libertação prolongada
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada comprimido contém 15 mg de darifenacina (na forma de bromidrato)
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Comprimidos de libertação prolongada Comprimido cor-de-laranja claro, redondo e convexo, com “ DF ” gravado num dos lados e “ 15 ” no lado oposto.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Tratamento sintomático da incontinência urinária de urgência e/ou aumento da frequência e urgência das micções que podem ocorrer em doentes com síndroma de bexiga hiperactiva.
+ 4.2 Posologia e modo de administração Via oral. Adultos (≥ 18 anos) A dose inicial recomendada é de 7,5 mg por dia. Os doentes deverão ser reavaliados duas semanas após início do tratamento. Para os doentes que requerem maior alívio dos sintomas, a dose pode ser aumentada para 15 mg por dia, com base na resposta individual.
+ Emselex deve ser tomado uma vez por dia com líquidos. Os comprimidos podem ser tomados com ou sem alimentos, e devem ser engolidos inteiros, sem serem mastigados, divididos ou esmagados.
+ Doentes idosos (≥ 65 anos) A dose recomendada para início do tratamento em doentes idosos é de 7,5 mg por dia. Os doentes deverão ser reavaliados duas semanas após início do tratamento quanto à eficácia e segurança. Nos doentes que tenham um perfil de tolerabilidade aceitável mas que necessitem maior alívio dos sintomas, a dose pode ser aumentada para 15 mg por dia, com base na resposta individual (ver secção 5.2).
+ Crianças Emselex não é recomendado em crianças com idade inferior a 18 anos devido à ausência de dados de segurança e eficácia.
+ Utilização no compromisso renal Não é necessário um ajuste de dose nos doentes com compromisso renal. No entanto, recomenda-se precaução ao tratar esta população de doentes (ver secção 5.2).
+ Utilização no compromisso hepático Não é necessário um ajuste de dose nos doentes com compromisso hepático ligeiro (Child-Pugh A). No entanto, existe um risco de exposição aumentada nesta população (ver secção 5.2).
+ 12 Em doentes com compromisso hepático moderado (Child-Pugh B), os doentes apenas devem ser tratados se o benefício compensar o risco, e a dose nestes doentes deve ser restringida a 7,5 mg por dia (ver secção 5.2).
+ Doentes a receberem tratamento concomitante com substâncias que sejam inibidores potentes da CYP2D6 ou inibidores moderados da CYP3A4 Em doentes a receber substâncias que sejam inibidores potentes da CYP2D6 tais como paroxetina, terbinafina, quinidina e cimetidina, o tratamento deve ser iniciado com a dose de 7,5 mg. A dose pode ser ajustada para 15 mg por dia para obter uma melhoria da resposta clínica desde que a dose seja bem tolerada. No entanto, devem ser tomadas precauções.
+ Em doentes a receber substâncias que sejam inibidores moderados da CYP3A4 tais como fluconazol, sumo de toranja e eritromicina, a dose inicial recomendada é de 7,5 mg por dia. A dose pode ser ajustada para 15 mg por dia para obter uma melhoria da resposta clínica desde que a dose seja bem tolerada. No entanto, devem ser tomadas precauções.
+ 4.3 Contra-indicações Emselex está contra-indicado em doentes com:
+ -Hipersensibilidade à substância activa ou a qualquer um dos excipientes.
+ -Retenção urinária.
+ -Retenção gástrica.
+ -Glaucoma de ângulo fechado, não controlado.
+ -Miastenia gravis.
+ -Compromisso hepático grave (Child Pugh C).
+ -Colite ulcerosa grave.
+ -Megacólon tóxico.
+ -Tratamento concomitante com inibidores potentes da CYP3A4 (ver secção 4.5).
+ 4.4 Advertências e precauções especiais de utilização
+ Emselex deve ser administrado com precaução em doentes com neuropatia autónoma, hérnia do hiato, obstrução do fluxo da bexiga clinicamente significativo, risco de retenção urinária, obstipação grave ou distúrbios gastrointestinais obstrutivos, tais como estenose pilórica.
+ Emselex deve ser utilizado com precaução em doentes em tratamento para o glaucoma de ângulo fechado (ver secção 4.3).
+ Devem ser avaliadas outras causas de micção frequentes (insuficiência cardíaca ou doença renal) antes do tratamento com Emselex. Se estiver presente infecção do tracto urinário, deve ser iniciada a terapêutica antibacteriana apropriada.
+ Emselex deve ser usado com precaução em doentes com risco de motilidade gastrointestinal reduzida, refluxo gastro-esofágico e/ou que estejam a tomar concomitantemente medicamentos (tais como bifosfonatos orais) que causem ou exacerbem esofagite.
+ A segurança e eficácia não foram ainda estabelecidas em doentes com causa neurogénica para a hiperactividade do detrusor.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Efeitos de outros medicamentos sobre a darifenacina O metabolismo da darifenacina é primariamente mediado pelas enzimas CYP2D6 e CYP3A4 do citocromo P450. Assim, os inibidores destas enzimas podem aumentar a exposição à darifenacina.
+ 13 Inibidores da CYP2D6 Em doentes a receber substâncias que sejam inibidores potentes da CYP2D6 (ex: paroxetina, terbinafina, cimetidina e quinidina), a dose inicial recomendada é de 7,5 mg por dia. A dose pode ser ajustada para 15 mg por dia para obter uma melhoria da resposta clínica desde que a dose seja bem tolerada. O tratamento concomitante com inibidores potentes da CYP2D6 resulta num aumento da exposição (ex: de 33% com 20 mg de paroxetina para uma dose de 30 mg de darifenacina).
+ Inibidores da CYP3A4 A darifenacina não deve ser usada concomitantemente com inibidores potentes da CYP3A4 (ver secção 4.3) tais como inibidores da protease (ex: ritonavir), cetoconazol e itraconazol. Inibidores potentes da glicoproteína P, tais como ciclosporina e verapamilo devem também ser evitados. A co-administração de 7,5 mg de darifenacina com 400 mg do inibidor potente da CYP3A4 cetoconazol resultou num aumento em 5 vezes da AUC da darifenacina no estado estacionário. Em indivíduos que sejam metabolizadores fracos, a exposição à darifenacina aumentou em aproximadamente 10 vezes. Devido a uma maior contribuição da CYP3A4 após doses elevadas de darifenacina, é expectável que a magnitude do efeito seja ainda mais pronunciada quando se associar cetoconazol com 15 mg de darifenacina.
+ Quando co-administrada com inibidores moderados da CYP3A4 tais como eritromicina, claritromicina, telitromicina, fluconazol e sumo de toranja, a dose inicial recomendada deve ser de 7,5 mg por dia. A dose pode ser ajustada para 15 mg por dia para obter uma melhoria da resposta clínica desde que a dose seja bem tolerada. Os valores de AUC24 e Cmax para doses de 30 mg uma vez por dia de darifenacina oral, em doentes que eram metabolizadores extensivos, foram 95% e 128% superiores quando foi co-administrada eritromicina (inibidor moderado da CYP3A4) com darifenacina do que quando a darifenacina foi administrada isoladamente.
+ Indutores enzimáticos É provável que substâncias são indutores da CYP3A4 tais como rifampicina, carbamazepina, barbitúricos e hipericão (Hypericum perforatum) diminuam as concentrações plasmáticas de darifenacina.
+ Efeitos da darifenacina sobre outros medicamentos Substratos da CYP2D6 A darifenacina é um inibidor moderado da enzima CYP2D6. Devem tomar-se precauções quando a darifenacina é utilizada concomitantemente com medicamentos que são predominantemente metabolizados pela CYP2D6 e que têm uma janela terapêutica estreita, tais como flecainida, tioridazina, ou antidepressivos tricíclicos como a imipramina. Os efeitos da darifenacina no metabolismo de substratos da CYP2D6 são na sua maioria clinicamente relevantes para os substratos da CYP2D6, cujas doses são ajustadas individualmente.
+ Substratos da CYP3A4 O tratamento com darifenacina resultou num aumento modesto na exposição ao substrato da CYP3A4, midazolam. A interacção com o midazolam carece de relevância clínica mas é indicativa de uma ligeira inibição da CYP3A4 pela darifenacina.
+ Varfarina A monitorização terapêutica padrão do tempo de protrombina deve ser continuada. O efeito da varfarina no tempo de protrombina não foi alterado quando administrada concomitantemente com a darifenacina.
+ Digoxina A monitorização terapêutica da digoxina deve ser feita quando se inicia ou termina o tratamento com darifenacina, bem como quando se altera a dose de darifenacina. A administração concomitante de 30 mg de darifenacina uma vez por dia (duas vezes a dose diária recomendada) com digoxina no estado estacionário resultou num pequeno aumento na exposição à digoxina (AUC: 16% e Cmax: 20%). O aumento na exposição à digoxina poderá ser causado pela competição entre a darifenacina e
+ 14 a digoxina para a glicoproteína P. Outras interacções relacionadas com os transportadores não podem ser excluídas.
+ Agentes antimuscarínicos Tal como para qualquer fármaco antimuscarínico, a utilização concomitante com produtos medicinais possuindo propriedades antimuscarínicas, tais como oxibutinina, tolterodina e flavoxato, pode resultar em efeitos terapêuticos e efeitos secundários mais pronunciados. Pode também ocorrer potenciação dos efeitos anticolinérgicos com os medicamentos antiparkinsónicos e antidepressores tricíclicos, caso os fármacos antimuscarínicos sejam utilizados concomitantemente com estes medicamentos. No entanto, não foram efectuados estudos sobre a interacção com medicamentos antiparkinsónicos e antidepressores tricíclicos.
+ 4.6 Gravidez e aleitamento Gravidez Não existem estudos com a darifenacina em mulheres grávidas. Estudos em animais revelaram toxicidade no parto e no desenvolvimento peri e pós-natal (ver secção 5.3). Emselex não é recomendado durante a gravidez.
+ Aleitamento A darifenacina é excretada no leite materno de ratos. Não é conhecido se a darifenacina é excretada no leite humano, portanto, deve-se ter precaução antes de se administrar Emselex a mulheres a amamentar.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos de Emselex sobre a capacidade de conduzir e utilizar máquinas. Tal como para outros fármacos antimuscarínicos, Emselex poderá causar efeitos indesejáveis, tais como tonturas e visão turva, insónia e sonolência. Os doentes que sofrerem estes efeitos indesejáveis não deverão conduzir nem utilizar máquinas. Com Emselex, estes efeitos indesejáveis foram pouco frequentes.
+ 4.8 Efeitos indesejáveis Consistente com o perfil farmacológico, as reacções adversas medicamentosas mais frequentemente notificadas foram xerostomia (20,2% e 35% para a dose de 7,5 mg e 15 mg, respectivamente, 18,7% após titulação flexível de dose, e 8%-9% para o placebo) e obstipação (14,8% e 21% para a dose de 7,5 mg e 15 mg, respectivamente, 20,9% após titulação flexível de dose, e 5,4%-7,9% para o placebo). Os efeitos anti-colinérgicos, em geral, são dose-dependentes.
+ No entanto, a taxa de doentes que interromperam a terapêutica devido a estas reacções adversas foi baixa (xerostomia: 0%-0,9% e obstipação: 0,6%-2,2% para a darifenacina, dependendo da dose; e 0% e 0,3% para o placebo, para a xerostomia e a obstipação, respectivamente).
+ Tabela 1: Reacções adversas com Emselex comprimidos de libertação prolongada a 7,5 mg e 15 mg
+ Estimativas de frequência: muito frequentes (≥1/10), frequentes (≥1/100 a &lt; 1/10), pouco frequentes (≥1/1.000 a &lt; 1/100), desconhecido (não pode ser calculado a partir dos dados disponíveis).
+ Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ Infecções e Infestações Pouco frequentes Perturbações do foro psiquiátrico
+ Infecção do tracto urinário Pouco frequentes Insónia, alterações do raciocínio Doenças do sistema nervoso 15 Frequentes Pouco frequentes Afecções oculares
+ Cefaleias Tonturas, disgeusia, sonolência
+ Frequentes Pouco frequentes Vasculopatias
+ Xeroftalmia Perturbações da visão, incluindo visão turva
+ Pouco frequentes Hipertensão Doenças respiratórias, torácicas e do mediastino Pouco frequentes Doenças gastrointestinais
+ Dispneia, tosse, rinite Muito frequentes Frequentes Pouco frequentes
+ Obstipação, xerostomia Dor abdominal, náuseas, dispepsia Flatulência, diarreia, estomatite ulcerativa
+ Afecções dos tecidos cutâneos e subcutâneas Pouco frequentes Desconhecido Doenças renais e urinárias
+ Erupção cutânea, pele seca, prurido, hiperidrose Angioedema
+ Pouco frequentes Doenças dos órgãos genitais e da mama
+ Retenção urinária, perturbações do tracto urinário, dor vesical
+ Pouco frequentes Disfunção eréctil, vaginite Perturbações gerais e alterações no local de administração Pouco frequentes Exames complementares de diagnóstico
+ Edema periférico, astenia, edema da face, edema
+ Pouco frequentes Aspartato aminotransferase aumentada, alanina aminotransferase aumentada
+ Complicações de intervenções relacionadas com lesões e intoxicações Pouco frequentes
+ Lesão Nos principais ensaios clínicos com doses de 7,5 mg e 15 mg de Emselex, foram notificadas reacções adversas tal como referidas na tabela acima. A maioria das reacções adversas foram de intensidade ligeira a moderada e não resultaram na interrupção do tratamento na maioria dos doentes.
+ O tratamento com Emselex pode encobrir sintomas associados a doença da vesícula biliar. No entanto, não houve associação entre a ocorrência de efeitos indesejáveis relacionados com o sistema biliar em doentes tratados com darifenacina e a idade.
+ A incidência de acontecimentos adversos com doses de 7,5 mg e 15 mg de Emselex diminuiu durante um período de tratamento superior a 6 meses. Também se observa uma tendência semelhante na taxa de interrupção.
+ Experiência pós-comercialização Os acontecimentos adversos que se referem de seguida, associados à utilização com darifenacina, foram notificados no âmbito da utilização pós-comercialização, a nível mundial: reacções de hipersensibilidade generalizada incluindo angioedema. Uma vez que estes acontecimentos adversos notificados espontaneamente se referem à experiência pós-comercialização a nível mundial, a frequência dos mesmos não pode ser determinada a partir dos dados disponíveis.
+ 4.9 Sobredosagem Em ensaios clínicos, Emselex foi administrado em doses até 75 mg (cinco vezes a dose terapêutica máxima). Os acontecimentos adversos mais comuns foram xerostomia, obstipação, cefaleias, dispepsia e secura nasal. No entanto, a sobredosagem com darifenacina pode potencialmente levar a efeitos anticolinérgicos graves e deve ser devidamente tratada. A terapêutica deve ser focada na reversão dos
+ 16 sintomas anticolinérgicos sob cuidadosa supervisão médica. A utilização de agentes como a fisiostigmina pode ajudar na reversão destes sintomas.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Anti-espasmódico urinário, código ATC: G04B D10 A darifenacina é um antagonista selectivo dos receptores muscarínicos M3 (M3 SRA), in vitro. O receptor M3 é o subtipo maioritário que controla a contracção do músculo urinário da bexiga. Não é conhecido se esta selectividade para o receptor M3 se traduz em qualquer vantagem clínica no tratamento dos sintomas da síndrome de bexiga hiperactiva.
+ Estudos cistométricos efectuados com darifenacina em doentes com contracções involuntárias da bexiga mostraram um aumento da capacidade da bexiga, aumento do limiar de volume para contracções instáveis e diminuição da frequência das contracções instáveis do detrusor.
+ O tratamento com Emselex, administrado em doses de 7,5 mg e 15 mg por dia foi investigado em quatro ensaios clínicos controlados, em dupla ocultação, de Fase III, aleatorizados, em doentes de ambos os sexos, com sintomas de bexiga hiperactiva. Como apresentado na Tabela 2 abaixo, uma análise dos resultados agrupados de 3 ensaios clínicos, em que foram administradas doses de 7,5 mg e 15 mg de Emselex, mostrou uma melhoria estatisticamente significativa no parâmetro de avaliação primário, redução do número de episódios de incontinência versus o placebo.
+ Tabela 2: Análise dos resultados agrupados de três ensaios clínicos de Fase III, avaliando doses fixas de 7,5 mg e 15 mg de Emselex
+ Dose N Valores basais Episódios de incontinência por semana Semana 12 Alteração Diferenças (mediana) versus valores versus placebo1
+ 95% IC Valor P (mediana)
+ basais
+ (mediana)
+ (mediana) Emselex 7,5 mg uma vez por dia
+ 335 16,0 4,9 -8,8 (-68%)
+ -2,0
+ (-3,6;-0,7)
+ 0,004 Placebo 271 16,6 7,9 -7,0 (-54%)
+ --
+ --
+ --
+ Emselex 15 mg uma vez por dia 330 16,9 4,1 -10,6 (-77%)
+ -3,2
+ (-4,5;-2,0)
+ &lt; 0,001
+ Placebo 1 384 16,6 6,4 -7,5 (-58%)
+ --
+ --
+ --
+ Estimativa de Hodges Lehmann: mediana da diferença versus placebo na alteração dos valores basais 2 Wilcoxon teste estratificado para diferenças versus placebo.
+ As doses de 7,5 mg e 15 mg de Emselex reduziram significativamente tanto a gravidade como o número de episódios de urgência urinária e o número de micções, enquanto aumentaram significativamente o volume médio de urina expelido, em relação aos valores basais.
+ As doses de 7,5 mg e 15 mg de Emselex foram associadas a melhoria estatisticamente significativa face ao placebo nalguns aspectos de qualidade de vida, conforme medido pelo Kings Health Questionnaire, incluindo o impacto da incontinência, limitações da actividade quotidiana, limitações sociais e medidas de contingência.
+ Para ambas as doses de 7,5 mg e 15 mg, a percentagem mediana de redução do número de episódios semanais de incontinência, relativamente aos valores basais, foi similar entre homens e mulheres. As diferenças observadas nos doentes do sexo masculino em relação ao placebo comparativamente às das
+ 17 doentes do sexo feminino, em termos de percentagem e valores absolutos, nos episódios de incontinência foram inferiores.
+ O efeito do tratamento com 7,5 mg e 15 mg de darifenacina no intervalo QT/QTc foi avaliado num estudo em 179 adultos saudáveis (44% homens: 56% mulheres) com idades entre os 18 e os 65 anos, durante 6 dias (até ao estado estacionário). A administração de doses terapêuticas e supra-terapêuticas de darifenacina não resultou em prolongamento do intervalo QT/QTc relativamente aos valores basais, comparativamente ao placebo, para a exposição máxima à darifenacina.
+ 5.2 Propriedades farmacocinéticas A darifenacina é metabolizada pelas enzimas CYP3A4 e pela CYP2D6. Devido a diferenças genéticas, cerca de 7% da população caucasiana não possui a enzima CYP2D6, pelo que são considerados metabolizadores fracos. Uma pequena percentagem da população aumentou os níveis da enzima CYP2D6 (metabolizadores ultra-rápidos). As informações abaixo aplica-se aos indivíduos com uma actividade da CYP2D6 normal (metabolizadores extensivos) excepto quando é feita referência em contrário.
+ Absorção Devido ao extensivo metabolismo de primeira passagem, a darifenacina tem uma biodisponibilidade de aproximadamente 15% e 19%, após doses diárias de 7,5 mg e 15 mg, no estado estacionário. Os níveis plasmáticos máximos são atingidos aproximadamente 7 horas após a primeira administração dos comprimidos de libertação prolongada e os níveis plasmáticos no estado estacionário são atingidos ao sexto dia de administração. No estado estacionário, as flutuações pico-vale (FPV) das concentrações de darifenacina são pequenas (FPV: 0,87 para a dose de 7,5 mg e 0,76 para a de 15 mg), mantendo-se assim níveis plasmáticos terapêuticos no intervalo posológico. Os alimentos não têm efeito sobre a farmacocinética da darifenacina durante a administração de múltiplas doses dos comprimidos de libertação prolongada.
+ Distribuição A darifenacina é uma base lipofílica e liga-se às proteínas plasmáticas em 98% (primariamente à alfa-1-acido-glicoproteína). O volume de distribuição (Vss) no estado estacionário estima-se ser de 163 litros.
+ Metabolismo A darifenacina é extensivamente metabolizada pelo fígado após administração oral.
+ A darifenacina é extensivamente metabolizada pelo citocromo CYP3A4 e CYP2D6 no fígado e pelo CYP3A4 na parede intestinal. As três principais vias de metabolização são as seguintes: monohidroxilação no anel do dihidrobenzofurano; abertura do anel do dihidrobenzofurano e N-desalquilação do azoto de pirrolidina.
+ Os produtos iniciais das vias de hidroxilação e N-desalquilação são os metabolitos maioritários em circulação, mas nenhum contribui significativamente para o efeito clínico global da darifenacina.
+ A farmacocinética da darifenacina no estado estacionário é dependente da dose, devido à saturação da enzima CYP2D6.
+ A duplicação da dose de darifenacina de 7,5 mg para 15 mg resulta em 150% de aumento da exposição no estado estacionário. Esta dependência da dose é provavelmente causada pela saturação do metabolismo catalisado pela CYP2D6 conjuntamente com alguma saturação do metabolismo da CYP3A4 da parede intestinal.
+ Excreção Após a administração de uma dose oral de solução de 14C-darifenacina a voluntários saudáveis, aproximadamente 60% da radioactividade foi recuperada na urina e 40% nas fezes. Apenas uma
+ 18 pequena percentagem da dose excretada era darifenacina inalterada (3%). A depuração estimada da darifenacina é de 40 litros/hora. A semi-vida de eliminação da darifenacina após administração crónica é aproximadamente 13-19 horas.
+ Populações especiais de doentes Sexo Uma análise dos dados de farmacocinética da população de doentes indicou que a exposição à darifenacina foi 23% mais baixa nos homens do que nas mulheres (ver secção 5.1).
+ Doentes idosos Uma análise dos dados de farmacocinética da população de doentes indicou uma tendência para diminuição da depuração com a idade (19% por década, com base na análise farmacocinética da população dos ensaios clínicos de Fase III com idades entre 60 e 89 anos), ver secção 4.2.
+ Doentes pediátricos A farmacocinética da darifenacina não foi estabelecida na população pediátrica.
+ Metabolizadores fracos da CYP2D6 O metabolismo da darifenacina em metabolizadores fracos da CYP2D6 é principalmente mediado pela CYP3A4. Num estudo farmacocinético, a exposição no estado estacionário em metabolizadores fracos foi 164% e 99% superior durante o tratamento com 7,5 mg e 15 mg, uma vez por dia, respectivamente. No entanto, a análise da população farmacocinética dos estudos de Fase III indicou que, em média, a exposição no estado estacionário é 66% superior nos metabolizadores fracos, em relação aos metabolizadores extensivos. Existe uma sobreposição considerável entre os intervalos de exposição observados nestas duas populações (ver secção 4.2).
+ Compromisso renal Um estudo com um número limitado de doentes (n=24) com variados graus de compromisso renal (depuração da creatinina entre 10 ml/min. e 136 ml/min.), aos quais foram administrados 15 mg de darifenacina uma vez por dia até ao estado estacionário, demonstrou não haver relação entre a função renal e a depuração da darifenacina (ver secção 4.2).
+ Compromisso hepático A farmacocinética da darifenacina foi investigada em indivíduos com compromisso da função hepática ligeiro (Child Pugh A) a moderada (Child Pugh B) aos quais foram administrados 15 mg de darifenacina uma vez por dia até ao estado estacionário. O compromisso hepático ligeiro não teve efeito na farmacocinética da darifenacina. Contudo, a ligação proteica da darifenacina foi afectada pelo compromisso hepático moderado. A exposição à darifenacina não ligada estimou-se ser 4,7 vezes superior em indivíduos com compromisso hepático moderado do que em indivíduos com a função hepática normal (ver secção 4.2).
+ 5.3 Dados de segurança pré-clínica Os dados pré-clínicos não revelam riscos especiais para o ser humano, segundo estudos convencionais de farmacologia de segurança, toxicidade de dose repetida, genotoxicidade e potencial carcinogénico.
+ Estudos em animais não indicam efeitos prejudiciais directos ou indirectos no que respeita à fertilidade, gravidez, desenvolvimento embrionário/fetal, parto e/ou desenvolvimento pós-natal. Em estudos peri e pós-natais em ratos, foram observados distocia, aumento das mortes fetais in útero e toxicidade no desenvolvimento pós-natal (peso corporal da cria e sinais de maturação) para níveis de exposição sistémica até 11 vezes superiores à exposição clínica esperada.
+ 19 6. INFORMAÇÕES FARMACÊUTICAS
+ 6.1 Lista dos excipientes Núcleo do comprimido: Hidrogenofosfato de cálcio, anidro Hipromelose Estearato de magnésio
+ Revestimento: Polietilenoglicol Hipromelose Talco Dióxido de titânio (E171) Óxido de ferro amarelo (E172) Óxido de ferro vermelho (E172)
+ 6.2 Incompatibilidades Não aplicável. 6.3 Prazo de validade 3 anos 6.4 Precauções especiais de conservação
+ Manter os blisters dentro da embalagem exterior para proteger da luz.
+ 6.5 Natureza e conteúdo do recipiente Blister transparente de PVC/CTFE/alumínio ou PVC/PVDC/alumínio, em caixas contendo 7,14,28,49,56 ou 98 comprimidos como embalagem unitária ou em embalagens múltiplas contendo 10 embalagens, cada uma contendo 14 comprimidos.
+ É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais de eliminação Não existem requisitos especiais. 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Novartis Europharm Limited Wimblehurst Road Horsham West Sussex, RH12 5AB Reino Unido
+ 20 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/04/294/007-012 EU/1/04/294/014 EU/1/04/294/021-026 EU/1/04/294/028
+ 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 22. 10.2004 10. DATA DA REVISÃO DO TEXTO 21 ANEXO II
+ A. TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 22 A TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do fabricante responsável pela libertação do lote
+ Novartis Pharma GmbH Roonstraße 25 D-90429 Nuremberga Alemanha
+ B CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento sujeito a receita médica. • CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ Não aplicável. 23 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 24 A. ROTULAGEM
+ 25 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ CARTONAGEM (CARTONAGEM PARA UMA EMBALAGEM UNITÁRIA INCLUINDO BLUE BOX)
+ 1. NOME DO MEDICAMENTO Emselex 7,5 mg comprimidos de libertação prolongada Darifenacina (na forma de bromidrato)
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada comprimido contém 7,5 mg de darifenacina (na forma de bromidrato).
+ 3. LISTA DOS EXCIPIENTES 4. FORMA FARMACÊUTICA E CONTEÚDO 7 comprimidos 14 comprimidos 28 comprimidos 49 comprimidos 56 comprimidos 98 comprimidos
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral. Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Manter os blisters dentro da embalagem exterior para proteger da luz.
+ 26 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Novartis Europharm Limited Wimblehurst Road Horsham West Sussex, RH12 5AB Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/04/294/001 EU/1/04/294/002 EU/1/04/294/003 EU/1/04/294/004 EU/1/04/294/005 EU/1/04/294/006 EU/1/04/294/015 EU/1/04/294/016 EU/1/04/294/017 EU/1/04/294/018 EU/1/04/294/019 EU/1/04/294/020
+ 7 comprimidos (blisters de PVC/CTFE/ALU) 14 comprimidos (blisters de PVC/CTFE/ALU) 28 comprimidos (blisters de PVC/CTFE/ALU) 49 comprimidos (blisters de PVC/CTFE/ALU) 56 comprimidos (blisters de PVC/CTFE/ALU) 98 comprimidos (blisters de PVC/CTFE/ALU) 7 comprimidos (blisters de PVC/PVDC/ALU) 14 comprimidos (blisters de PVC/PVDC/ALU) 28 comprimidos (blisters de PVC/PVDC/ALU) 49 comprimidos (blisters de PVC/PVDC/ALU) 56 comprimidos (blisters de PVC/PVDC/ALU) 98 comprimidos (blisters de PVC/PVDC/ALU)
+ 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Emselex 7,5 mg 27 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ CARTONAGEM PARA UMA EMBALAGEM INTERMÉDIA (EXCLUINDO BLUE BOX)
+ 1. NOME DO MEDICAMENTO Emselex 7,5 mg comprimidos de libertação prolongada Darifenacina (na forma de bromidrato)
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada comprimido contém 7,5 mg de darifenacina (na forma de bromidrato).
+ 3. LISTA DOS EXCIPIENTES 4. FORMA FARMACÊUTICA E CONTEÚDO Uma embalagem contendo 14 comprimidos. Componente de uma embalagem múltipla contendo 10 embalagens, cada uma contendo 14 comprimidos.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral. Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Manter os blisters dentro da embalagem exterior para proteger da luz.
+ 28 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Novartis Europharm Limited Wimblehurst Road Horsham West Sussex, RH12 5AB Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/04/294/013 EU/1/04/294/027 (blisters de PVC/CTFE/ALU) (blisters de PVC/PVDC/ALU
+ 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Emselex 7,5 mg 29 INDICAÇÕES A INCLUIR NA EMBALAGEM EXTERIOR DE EMBALAGENS MÚLTIPLAS
+ 1. NOME DO MEDICAMENTO Emselex 7,5 mg comprimidos de libertação prolongada Darifenacina (na forma de bromidrato)
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada comprimido contém 7,5 mg de darifenacina (na forma de bromidrato).
+ 3. LISTA DOS EXCIPIENTES 4. FORMA FARMACÊUTICA E CONTEÚDO Embalagem múltipla contendo 10 embalagens, cada uma contendo 14 comprimidos.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral. Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Manter os blisters dentro da embalagem exterior para proteger da luz.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 30 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Novartis Europharm Limited Wimblehurst Road Horsham West Sussex, RH12 5AB Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/04/294/013 EU/1/04/294/027 (blisters de PVC/CTFE/ALU) (blisters de PVC/PVDC/ALU
+ 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Emselex 7,5 mg 31 INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS “ BLISTER ” OU FITAS CONTENTORAS
+ 1. NOME DO MEDICAMENTO Emselex 7,5 mg comprimidos de libertação prolongada Darifenacina (na forma de bromidrato)
+ 2. NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Novartis Europharm Limited 3. PRAZO DE VALIDADE VAL. 4. NÚMERO DO LOTE Lote 5. OUTRAS 32 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ CARTONAGEM (CARTONAGEM PARA EMBALAGENS UNITÁRIAS INCLUINDO BLUE BOX)
+ 1. NOME DO MEDICAMENTO Emselex 15 mg comprimidos de libertação prolongada Darifenacina (na forma de bromidrato)
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada comprimido contém 15 mg de darifenacina (na forma de bromidrato).
+ 3. LISTA DOS EXCIPIENTES 4. FORMA FARMACÊUTICA E CONTEÚDO 7 comprimidos 14 comprimidos 28 comprimidos 49 comprimidos 56 comprimidos 98 comprimidos
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral. Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Manter os blisters dentro da embalagem exterior para proteger da luz.
+ 33 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Novartis Europharm Limited Wimblehurst Road Horsham West Sussex, RH12 5AB Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/04/294/007 EU/1/04/294/008 EU/1/04/294/009 EU/1/04/294/010 EU/1/04/294/011 EU/1/04/294/012 EU/1/04/294/021 EU/1/04/294/022 EU/1/04/294/023 EU/1/04/294/024 EU/1/04/294/025 EU/1/04/294/026
+ 7 comprimidos (blisters de PVC/CTFE/ALU) 14 comprimidos (blisters de PVC/CTFE/ALU) 28 comprimidos (blisters de PVC/CTFE/ALU) 49 comprimidos (blisters de PVC/CTFE/ALU) 56 comprimidos (blisters de PVC/CTFE/ALU) 98 comprimidos (blisters de PVC/CTFE/ALU) 7 comprimidos (blisters de PVC/PVDC/ALU) 14 comprimidos (blisters de PVC/PVDC/ALU) 28 comprimidos (blisters de PVC/PVDC/ALU) 49 comprimidos (blisters de PVC/PVDC/ALU) 56 comprimidos (blisters de PVC/PVDC/ALU) 98 comprimidos (blisters de PVC/PVDC/ALU)
+ 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Emselex 15 mg 34 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ CARTONAGEM PARA UMA EMBALAGEM INTERMÉDIA (EXCLUINDO BLUE BOX)
+ 1. NOME DO MEDICAMENTO Emselex 15 mg comprimidos de libertação prolongada Darifenacina (na forma de bromidrato)
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada comprimido contém 15 mg de darifenacina (na forma de bromidrato).
+ 3. LISTA DOS EXCIPIENTES 4. FORMA FARMACÊUTICA E CONTEÚDO Uma embalagem contendo 14 comprimidos. Componente de uma embalagem múltipla contendo 10 embalagens, cada uma contendo 14 comprimidos.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral. Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Manter os blisters dentro da embalagem exterior para proteger da luz.
+ 35 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Novartis Europharm Limited Wimblehurst Road Horsham West Sussex, RH12 5AB Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/04/294/014 EU/1/04/294/028 (blisters de PVC/CTFE/ALU) (blisters de PVC/PVDC/ALU
+ 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO Á DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Emselex 15 mg 36 INDICAÇÕES A INCLUIR NA EMBALAGEM EXTERIOR DE EMBALAGENS MÚLTIPLAS
+ 1. NOME DO MEDICAMENTO Emselex 15 mg comprimidos de libertação prolongada Darifenacina (na forma de bromidrato)
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada comprimido contém 15 mg de darifenacina (na forma de bromidrato).
+ 3. LISTA DOS EXCIPIENTES 4. FORMA FARMACÊUTICA E CONTEÚDO Embalagem múltipla contendo 10 embalagens, cada uma contendo 14 comprimidos.
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral. Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Manter os blisters dentro da embalagem exterior para proteger da luz.
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 37 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Novartis Europharm Limited Wimblehurst Road Horsham West Sussex, RH12 5AB Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/04/294/014 EU/1/04/294/028 (blisters de PVC/CTFE/ALU) (blisters de PVC/PVDC/ALU
+ 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Emselex 15 mg 38 INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS “ BLISTER ” OU FITAS CONTENTORAS
+ 1. NOME DO MEDICAMENTO Emselex15 mg comprimidos de libertação prolongada Darifenacina (na forma de bromidrato)
+ 2. NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Novartis Europharm Limited 3. PRAZO DE VALIDADE VAL. 4. NÚMERO DO LOTE Lote 5. OUTRAS 39 B. FOLHETO INFORMATIVO
+ 40 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Emselex 7,5 mg comprimidos de libertação prolongada Darifenacina
+ Leia atentamente este folheto antes de tomar este medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste follheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é Emselex e para que é utilizado 2. Antes de tomar Emselex 3. Como tomar Emselex 4. Efeitos secundários possíveis 5. Como conservar Emselex 6. Outras informações
+ 1. O QUE É EMSELEX E PARA QUE É UTILIZADO
+ Como é que Emselex funciona Após a toma dos comprimidos de Emselex, a substância activa bromidrato de darifenacina liberta-se no organismo. O bromidrato de darifenacina é uma substância que diminui a actividade da bexiga hiperactiva. Isto permite-lhe esperar mais tempo antes de necessitar de urinar e aumenta a quantidade de urina que a sua bexiga consegue reter.
+ Emselex pode ser utilizado para Emselex pertence a uma classe de medicamentos que relaxam os músculos da bexiga. É utilizado para o tratamento sintomático de problemas de hiperactividade da bexiga, tais como necessidade súbita e urgente de urinar, necessidade frequente de urinar e/ou não chegar à casa de banho a tempo (incontinência de urgência).
+ 2. ANTES DE TOMAR EMSELEX Não tome Emselex: • se tem alergia (hipersensibilidade) à darifenacina ou a qualquer outro componente de Emselex. • se sofre de retenção urinária (incapacidade de esvaziar a bexiga). • se tem retenção gástrica (problemas no esvaziamento do conteúdo do estômago). • se sofre de glaucoma de ângulo fechado não controlado (pressão elevada nos olhos com perda gradual da visão que não esteja a ser adequadamente tratada). • se tem miastenia gravis (uma doença marcada por fadiga anormal e fraqueza de alguns músculos). • se tem colite ulcerosa grave ou megacolon tóxico (dilatação aguda do cólon associada a colite ulcerosa ou amebiana). • se tem problemas graves de fígado. • Existem alguns medicamentos como ciclosporina, verapamilo, medicamentos anti-fúngicos (ex: cetoconazol e itraconazol) e alguns medicamentos antivíricos (ex: ritonavir) que não devem ser tomados com Emselex.
+ 41 Tome especial cuidado com Emselex: • se tem neuropatia autónoma – o seu médico ter-lhe-á dito se tem esta doença. • se tem azia e arrotos. • se tem dificuldades na passagem da urina e um fluxo baixo de urina. • se tem prisão de ventre grave (se apenas evacua 2 vezes por semana ou menos). • se tem um distúrbio gastrointestinal obstrutivo – o seu médico ter-lhe-á dito se tem esta doença. • se está a receber tratamento para o glaucoma de ângulo fechado. • se tem problemas de fígado. • se tem problemas de rim.
+ Se alguma das situações anteriormente referidas se aplica a si, informe o seu médico previamente ao tratamento com Emselex.
+ Ao tomar Emselex com outros medicamentos Alguns medicamentos podem interagir com Emselex. Estes incluem alguns antibióticos (por ex. eritromicina e claritromicina), medicamentos antifúngicos (por ex. cetoconazol e itraconazol), medicamentos antipsicóticos (por ex. tioridazina), alguns antidepressivos (por ex. imipramina), medicamentos antivíricos (por ex. nelfinavir e ritonavir), alguns fármacos utilizados para tratar problemas cardíacos (por ex. flecainida, verapamilo e digoxina) e outros medicamentos antimuscarínicos (por ex. tolterodina, oxibutinina e flavoxato).
+ Informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica.
+ Utilização em doentes idosos Emselex pode ser utilizado por pessoas com idade superior a 65 anos. Se tiver mais que 65 anos ser-lhe-á administrada a mesma dose que aos outros adultos.
+ Gravidez e aleitamento Se está grávida ou pensa que pode estar grávida informe o seu médico. Emselex não é recomendado durante a gravidez.
+ Se está a amamentar, peça conselho ao seu médico. Emselex deve ser tomado com precaução durante a amamentação.
+ Condução de veículos e utilização de máquinas Não foram efectuados estudos sobre os efeitos de Emselex na capacidade de conduzir ou utilizar máquinas. No entanto, Emselex, tal como outros medicamentos antimuscarínicos, poderá causar efeitos secundários, tais como tonturas, visão turva, dificuldades em dormir ou sonolência. Caso sofra qualquer um destes sintomas enquanto estiver a tomar Emselex, consulte o seu médico para que o aconselhe na mudança de dose ou para que seja considerado um tratamento alternativo. Não deverá conduzir nem utilizar máquinas se sofrer qualquer um destes sintomas. No que concerne o tratamento com Emselex, estes efeitos foram notificados como pouco frequentes.
+ 3. COMO TOMAR EMSELEX Tomar Emselex sempre de acordo com as instruções do médico. Fale com o seu médico ou farmacêutico se tiver dúvidas. Fale com o seu médico ou farmacêutico se tiver a impressão de que Emselex é demasiado forte ou demasiado fraco.
+ Que quantidade tomar de Emselex Emselex destina-se a ser utilizado em adultos (pessoas com idade igual ou superior a 18 anos).
+ A utilização de Emselex não está recomendada em crianças.
+ 42 Em adultos e doentes idosos, a dose inicial recomendada é de 7,5 mg por dia. Dependendo da sua resposta a Emselex, o seu médico pode aumentar a sua dose para 15 mg por dia, duas semanas após o início do tratamento.
+ Estas doses são adequadas para pessoas com problemas hepáticos ligeiros ou para pessoas com problemas de rins. Os alimentos não têm efeito sobre Emselex. O sumo de toranja pode interagir com Emselex. No entanto, não é necessário ajuste da dose de Emselex.
+ Por favor, diga ao seu médico se tem problemas de fígado. Emselex não está recomendado para utilização em doentes com problemas moderados de fígado. Não tome Emselex caso tenha problemas graves de fígado.
+ Doentes a tomar alguns outros medicamentos (por ex. eritromicina, claritromicina, telitromicina e fluconazol) não devem normalmente tomar mais do que 7,5 mg de Emselex como dose diária. No entanto, a dose pode ser aumentada para 15 mg se bem tolerada. Existem alguns medicamentos, por ex. ciclosporina, verapamilo, cetoconazol, itraconazol e alguns medicamentos antivirais (por ex. ritonavir) que não devem ser tomados com Emselex.
+ Quando e como tomar Emselex Tomar os comprimidos de Emselex uma vez por dia com água, sempre à mesma hora.
+ O comprimido pode ser tomado com ou sem alimentos. Engolir o comprimido inteiro. Não o mastigue, divida ou esmague.
+ Tomar Emselex durante quanto tempo O seu médico dir-lhe-á quanto tempo o seu tratamento com Emselex irá durar. Não pare o tratamento mais cedo apenas porque não vê efeitos imediatos. A sua bexiga vai precisar de algum tempo para se adaptar. Acabe o curso de tratamento conforme receitado pelo seu médico. Se nessa altura não notou qualquer efeito, fale com o seu médico.
+ Se tomar mais Emselex do que deveria Se tomar mais comprimidos do que aqueles que lhe disseram para tomar, ou se outra pessoa acidentalmente tomar os seus comprimidos, dirija-se imediatamente ao seu médico ou ao hospital comunicando o sucedido. Mostre-lhes a embalagem dos comprimidos.
+ Caso se tenha esquecido de tomar Emselex Se esqueceu de tomar Emselex na sua hora habitual, tome assim que se lembrar, a não ser que já seja hora da sua próxima dose. Não tome uma dose a dobrar para compensar uma dose que se esqueceu de tomar.
+ Se parar de tomar Emselex Foi demonstrado que tomar todas as doses prescritas nas horas apropriadas pode aumentar grandemente a efectividade do seu medicamento. Assim, é importante continuar a tomar Emselex correctamente, tal como descrito acima. Não pare de tomar Emselex até que o seu médico lhe dê instruções para tal. Não deverá experimentar quaisquer efeitos quando parar o tratamento.
+ Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou farmacêutico.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todos os medicamentos, Emselex pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas. Os efeitos secundários causados por Emselex são normalmente ligeiros e temporários.
+ 43 Alguns efeitos secundários podem ser graves Reacções alérgicas graves, com inchaço, especialmente da face e da garganta.
+ Outros efeitos secundários Efeitos secundários muito frequentes (afectam 10 ou mais em cada 100 doentes) Boca seca, prisão de ventre.
+ Efeitos secundários frequentes (afectam menos de 10 em cada 100 doentes) Dor de cabeça, dor abdominal, indigestão, sensação de mal-estar, olho seco
+ Efeitos secundários pouco frequentes (afectam menos de 1 em cada 100 doentes) Fadiga, lesão acidental, inchaço facial, pressão arterial elevada, diarreia, flatulência, inflamação da membrana mucosa da boca, aumento das enzimas do fígado, inchaço, tonturas, distúrbios do sono, sonolência, alterações do raciocínio, corrimento nasal (rinite), tosse, respiração superficial, pele seca, comichão, lesões na pele, sudação, distúrbios visuais, incluindo visão turva, distúrbios do sabor, alteração ou infecção do tracto urinário, impotência, comichão e corrimento vaginal, dor na bexiga, incapacidade de esvaziar a bexiga.
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR EMSELEX • Manter fora do alcance e da vista das crianças. • Manter os blisters dentro da embalagem exterior para proteger da luz. • Não utilize Emselex após o prazo de validade impresso na embalagem exterior. • Não utilize se a embalagem estiver danificada ou mostrar sinais de já ter sido aberta.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Emselex -A substância activa é a darifenacina (na forma de bromidrato). Cada comprimido contém
+ 7,5 mg de darifenacina.
+ -Os outros componentes são hidrogenofosfato de cálcio (anidro), hipromelose, estearato de
+ magnésio, polietilenoglicol, dióxido de titânio (E171) e talco.
+ Qual o aspecto de Emselex e conteúdo da embalagem Os comprimidos de libertação prolongada de Emselex 7,5 mg são brancos, redondos e convexos, com “ DF ” gravado num dos lados e “ 7.5 ” no lado oposto.
+ Cada embalagem contém 7,14,28,49,56 ou 98 comprimidos como embalagem unitária ou embalagem múltipla de 10 embalagens, cada uma contendo 14 comprimidos. É possível que não sejam comercializadas todas as apresentações.
+ Titular da Autorização de Introdução no Mercado Novartis Europharm Limited Wimblehurst Road Horsham West Sussex, RH12 5AB Reino Unido
+ 44 Fabricante Novartis Pharma GmbH Roonstraße 25 D-90429 Nuremberga Alemanha
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado.
+ België/Belgique/Belgien Novartis Pharma N. V. Tél/Tel: +32 2 246 16 11
+ Luxembourg/Luxemburg Novartis Pharma GmbH Tél/Tel: +49 911 273 0
+ България Novartis Pharma Services Inc. Тел.: +359 2 489 98 28
+ Magyarország Bayer Hungária Kft. Tel.: +36 1 487 41 00
+ Česká republika Novartis s. r. o. Tel: +420 225 775 111
+ Malta Novartis Pharma Services Inc. Tel: +356 2298 3217
+ Danmark Novartis Healthcare A/S Tlf: +45 39 16 84 00
+ Nederland Novartis Pharma B. V. Tel: +31 26 37 82 111
+ Deutschland Bayer Vital GmbH Tel: +49-(0) 214-3051348
+ Norge Novartis Norge AS Tlf: +47 23 05 20 00
+ Eesti Novartis Pharma Services Inc. Tel: +372 60 62 400
+ Österreich Novartis Pharma GmbH Tel: +43 1 86 6570
+ Ελλάδα Novartis (Hellas) A. E. B. E. Τηλ: +30 210 281 17 12
+ Polska Novartis Poland Sp. z o. o. Tel.: +48 22 550 8888
+ España Novartis Farmacéutica, S. A. Tel: +34 93 306 42 00
+ Portugal Laboratório MEDINFAR-Produtos Farmacêuticos, S. A. Tel: +351 21 499 74 00
+ France Novartis Pharma S. A. S. Tél: +33 1 55 47 66 00
+ România Novartis Pharma Services Inc. Tel: +40 21 31299 01
+ Ireland Novartis Ireland Limited Tel: +353 1 260 12 55
+ Slovenija Novartis Pharma Services Inc. Tel: +386 1 300 75 77
+ Ísland Vistor hf. Sími: +354 535 7000
+ Slovenská republika Novartis Slovakia s. r. o. Tel: +421 2 5542 5439
+ 45 Italia Novartis Farma S. p. A. Tel: +39 02 96 54 1
+ Suomi/Finland Novartis Finland Oy Puh/Tel: +358 9 61 33 22 11
+ Κύπρος Δημητριάδης και Παπαέλληνας Λτδ Τηλ: +357 22 690 690
+ Sverige Novartis Sverige AB Tel: +46 8 732 32 00
+ Latvija Novartis Pharma Services Inc. Tel: +371 7 887 070
+ United Kingdom Novartis Pharmaceuticals UK Ltd. Tel: +44 1276 698370
+ Lietuva Novartis Pharma Services Inc. Tel: +370 5 269 16 50
+ Este folheto foi aprovado pela última vez em
+ 46 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Emselex 15 mg comprimido de libertação prolongada Darifenacina
+ Leia atentamente este folheto antes de tomar este medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é Emselex e para que é utilizado 2. Antes de tomar Emselex 3. Como tomar Emselex 4. Efeitos secundários possíveis 5. Como conservar Emselex 6. Outras informações
+ 1. O QUE É EMSELEX E PARA QUE É UTILIZADO
+ Como é que Emselex funciona Após a toma dos comprimidos de Emselex, a substância activa bromidrato de darifenacina liberta-se no organismo. O bromidrato de darifenacina é uma substância que diminui a actividade da bexiga hiperactiva. Isto permite-lhe esperar mais tempo antes de necessitar de urinar e aumenta a quantidade de urina que a sua bexiga consegue reter.
+ Emselex pode ser utilizado para Emselex pertence a uma classe de medicamentos que relaxam os músculos da bexiga. É utilizado para o tratamento sintomático de problemas de hiperactividade da bexiga, tais como necessidade súbita e urgente de urinar, necessidade frequente de urinar e/ou não chegar à casa de banho a tempo (incontinência de urgência).
+ 2. ANTES DE TOMAR EMSELEX Não tome Emselex: • se tem alergia (hipersensibilidade) à darifenacina ou a qualquer outro componente de Emselex. • se sofre de retenção urinária (incapacidade de esvaziar a bexiga). • se tem retenção gástrica (problemas no esvaziamento do conteúdo do estômago). • se sofre de glaucoma de ângulo fechado não controlado (pressão elevada nos olhos com perda gradual da visão que não esteja a ser adequadamente tratada). • se tem miastenia gravis (uma doença marcada por fadiga anormal e fraqueza de alguns músculos). • se tem colite ulcerosa grave ou megacolon tóxico (dilatação aguda do cólon associada a colite ulcerosa ou amebiana). • se tem problemas graves de fígado. • Existem alguns medicamentos como ciclosporina, verapamilo, medicamentos anti-fúngicos (ex: cetoconazol e itraconazol) e alguns medicamentos antivíricos (ex: ritonavir) que não devem ser tomados com Emselex.
+ 47 Tome especial cuidado com Emselex: • se tem neuropatia autónoma – o seu médico ter-lhe-á dito se tem esta doença. • se tem azia e arrotos. • se tem dificuldades na passagem da urina e um fluxo baixo de urina. • se tem prisão de ventre grave (se apenas evacua 2 vezes por semana ou menos). • se tem um distúrbio gastrointestinal obstrutivo – o seu médico ter-lhe-á dito se tem esta doença. • se está a receber tratamento para o glaucoma de ângulo fechado. • se tem problemas de fígado. • se tem problemas de rim.
+ Se alguma das situações anteriormente referidas se aplica a si, informe o seu médico previamente ao tratamento com Emselex.
+ Ao tomar Emselex com outros medicamentos Alguns medicamentos podem interagir com Emselex. Estes incluem alguns antibióticos (por ex. eritromicina e claritromicina), medicamentos antifúngicos (por ex. cetoconazol e itraconazol), medicamentos antipsicóticos (por ex. tioridazina), alguns antidepressivos (por ex. imipramina), medicamentos antivíricos (por ex. nelfinavir e ritonavir), alguns fármacos utilizados para tratar problemas cardíacos (por ex. flecainida, verapamilo e digoxina) e outros medicamentos antimuscarínicos (por ex. tolterodina, oxibutinina e flavoxato).
+ Informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica.
+ Utilização em doentes idosos Emselex pode ser utilizado por pessoas com idade superior a 65 anos. Se tiver mais que 65 anos ser-lhe-á administrada a mesma dose que aos outros adultos.
+ Gravidez e aleitamento Se está grávida ou pensa que pode estar grávida informe o seu médico. Emselex não é recomendado durante a gravidez.
+ Se está a amamentar, peça conselho ao seu médico. Emselex deve ser tomado com precaução durante a amamentação.
+ Condução de veículos e utilização de máquinas Não foram efectuados estudos sobre os efeitos de Emselex na capacidade de conduzir ou utilizar máquinas. No entanto, Emselex, tal como outros medicamentos antimuscarínicos, poderá causar efeitos secundários, tais como tonturas, visão turva, dificuldades em dormir ou sonolência. Caso sofra qualquer um destes sintomas enquanto estiver a tomar Emselex, consulte o seu médico para que o aconselhe na mudança de dose ou para que seja considerado um tratamento alternativo. Não deverá conduzir nem utilizar máquinas se sofrer qualquer um destes sintomas. No que concerne o tratamento com Emselex, estes efeitos foram notificados como pouco frequentes.
+ 3. COMO TOMAR EMSELEX Tomar Emselex sempre de acordo com as instruções do médico. Fale com o seu médico ou farmacêutico se tiver dúvidas. Fale com o seu médico ou farmacêutico se tiver a impressão de que Emselex é demasiado forte ou demasiado fraco.
+ Que quantidade tomar de Emselex Emselex destina-se a ser utilizado em adultos (pessoas com idade igual ou superior a 18 anos).
+ A utilização de Emselex não está recomendada em crianças.
+ 48 Em adultos e doentes idosos, a dose inicial recomendada é de 7,5 mg por dia. Dependendo da sua resposta a Emselex, o seu médico pode aumentar a sua dose para 15 mg por dia, duas semanas após o início do tratamento.
+ Estas doses são adequadas para pessoas com problemas hepáticos ligeiros ou para pessoas com problemas de rins. Os alimentos não têm efeito sobre Emselex. O sumo de toranja pode interagir com Emselex. No entanto, não é necessário ajuste da dose de Emselex.
+ Por favor, diga ao seu médico se tem problemas de fígado. Emselex não está recomendado para utilização em doentes com problemas moderados de fígado. Não tome Emselex caso tenha problemas graves de fígado.
+ Doentes a tomar alguns outros medicamentos (por ex. eritromicina, claritromicina, telitromicina e fluconazol) não devem normalmente tomar mais do que 7,5 mg de Emselex como dose diária. No entanto, a dose pode ser aumentada para 15 mg se bem tolerada. Existem alguns medicamentos, por ex. ciclosporina, verapamilo, cetoconazol, itraconazol, e alguns medicamentos antivirais (por ex. ritonavir) que não devem ser tomados com Emselex.
+ Quando e como tomar Emselex Tomar os comprimidos de Emselex uma vez por dia com água, sempre à mesma hora.
+ O comprimido pode ser tomado com ou sem alimentos. Engolir o comprimido inteiro. Não o mastigue, divida ou esmague.
+ Tomar Emselex durante quanto tempo O seu médico dir-lhe-á quanto tempo o seu tratamento com Emselex irá durar. Não pare o tratamento mais cedo apenas porque não vê efeitos imediatos. A sua bexiga vai precisar de algum tempo para se adaptar. Acabe o curso de tratamento conforme receitado pelo seu médico. Se nessa altura não notou qualquer efeito, fale com o seu médico.
+ Se tomar mais Emselex do que deveria Se tomar mais comprimidos do que aqueles que lhe disseram para tomar, ou se outra pessoa acidentalmente tomar os seus comprimidos, dirija-se imediatamente ao seu médico ou ao hospital comunicando o sucedido. Mostre-lhes a embalagem dos comprimidos.
+ Caso se tenha esquecido de tomar Emselex Se esqueceu de tomar Emselex na sua hora habitual, tome assim que se lembrar, a não ser que já seja hora da sua próxima dose. Não tome uma dose a dobrar para compensar uma dose que se esqueceu de tomar.
+ Se parar de tomar Emselex Foi demonstrado que tomar todas as doses prescritas nas horas apropriadas pode aumentar grandemente a efectividade do seu medicamento. Assim, é importante continuar a tomar Emselex correctamente, tal como descrito acima. Não pare de tomar Emselex até que o seu médico lhe dê instruções para tal. Não deverá experimentar quaisquer efeitos quando parar o tratamento.
+ Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou farmacêutico.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todos os medicamentos, Emselex pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas. Os efeitos secundários causados por Emselex são normalmente ligeiros e temporários.
+ 49 Alguns efeitos secundários podem ser graves Reacções alérgicas graves, com inchaço, especialmente da face e da garganta.
+ Outros efeitos secundários Efeitos secundários muito frequentes (afectam 10 ou mais em cada 100 doentes) Boca seca, prisão de ventre.
+ Efeitos secundários frequentes (afectam menos de 10 em cada 100 doentes) Dor de cabeça, dor abdominal, indigestão, sensação de mal-estar, olho seco
+ Efeitos secundários pouco frequentes (afectam menos de 1 em cada 100 doentes) Fadiga, lesão acidental, inchaço facial, pressão arterial elevada, diarreia, flatulência, inflamação da membrana mucosa da boca, aumento das enzimas do fígado, inchaço, tonturas, distúrbios do sono, sonolência, alterações do raciocínio, corrimento nasal (rinite), tosse, respiração superficial, pele seca, comichão, lesões na pele, sudação, distúrbios visuais, incluindo visão turva, distúrbios do sabor, alteração ou infecção do tracto urinário, impotência, comichão e corrimento vaginal, dor na bexiga, incapacidade de esvaziar a bexiga.
+ Se algum dos efeitos secundários se agravar ou se detectar quaiquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR EMSELEX • Manter fora do alcance e da vista das crianças. • Manter os blisters dentro da embalagem exterior para proteger da luz. • Não utilize Emselex após o prazo de validade impresso na embalagem exterior. • Não utilize se a embalagem estiver danificada ou mostrar sinais de já ter sido aberta.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Emselex -A substância activa é a darifenacina (na forma de bromidrato). Cada comprimido contém 15 mg
+ de darifenacina.
+ -Os outros componentes são hidrogenofosfato de cálcio (anidro), hipromelose, estearato de
+ magnésio, polietilenoglicol, talco, dióxido de titânio (E171), óxido de ferro vermelho (E172), óxido de ferro amarelo (E172).
+ Qual o aspecto de Emselex e conteúdo da embalagem Os comprimidos de libertação prolongada de Emselex 15 mg são cor-de-laranja claro, redondos e convexos, com “ DF ” gravado num dos lados e “ 15 ” no lado oposto.
+ Cada embalagem contém 7,14,28,49,56 ou 98 comprimidos como embalagem unitária ou embalagem múltipla de 10 embalagens, cada uma contendo 14 comprimidos. É possível que não sejam comercializadas todas as apresentações.
+ Titular da Autorização de Introdução no Mercado Novartis Europharm Limited Wimblehurst Road Horsham West Sussex, RH12 5AB Reino Unido
+ 50 Fabricante Novartis Pharma GmbH Roonstraße 25 D-90429 Nuremberga Alemanha
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado.
+ België/Belgique/Belgien Novartis Pharma N. V. Tél/Tel: +32 2 246 16 11
+ Luxembourg/Luxemburg Novartis Pharma GmbH Tél/Tel: +49 911 273 0
+ България Novartis Pharma Services Inc. Тел.: +359 2 489 98 28
+ Magyarország Bayer Hungária Kft. Tel.: +36 1 487 41 00
+ Česká republika Novartis s. r. o. Tel: +420 225 775 111
+ Malta Novartis Pharma Services Inc. Tel: +356 2298 3217
+ Danmark Novartis Healthcare A/S Tlf: +45 39 16 84 00
+ Nederland Novartis Pharma B. V. Tel: +31 26 37 82 111
+ Deutschland Bayer Vital GmbH Tel: +49-(0) 214-3051348
+ Norge Novartis Norge AS Tlf: +47 23 05 20 00
+ Eesti Novartis Pharma Services Inc. Tel: +372 60 62 400
+ Österreich Novartis Pharma GmbH Tel: +43 1 86 6570
+ Ελλάδα Novartis (Hellas) A. E. B. E. Τηλ: +30 210 281 17 12
+ Polska Novartis Poland Sp. z o. o. Tel.: +48 22 550 8888
+ España Novartis Farmacéutica, S. A. Tel: +34 93 306 42 00
+ Portugal Laboratório MEDINFAR-Produtos Farmacêuticos, S. A. Tel: +351 21 499 74 00
+ France Novartis Pharma S. A. S. Tél: +33 1 55 47 66 00
+ România Novartis Pharma Services Inc. Tel: +40 21 31299 01
+ Ireland Novartis Ireland Limited Tel: +353 1 260 12 55
+ Slovenija Novartis Pharma Services Inc. Tel: +386 1 300 75 77
+ Ísland Vistor hf. Sími: +354 535 7000
+ Slovenská republika Novartis Slovakia s. r. o. Tel: +421 2 5542 5439
+ 51 Italia Novartis Farma S. p. A. Tel: +39 02 96 54 1
+ Suomi/Finland Novartis Finland Oy Puh/Tel: +358 9 61 33 22 11
+ Κύπρος Δημητριάδης και Παπαέλληνας Λτδ Τηλ: +357 22 690 690
+ Sverige Novartis Sverige AB Tel: +46 8 732 32 00
+ Latvija Novartis Pharma Services Inc. Tel: +371 7 887 070
+ United Kingdom Novartis Pharmaceuticals UK Ltd. Tel: +44 1276 698370
+ Lietuva Novartis Pharma Services Inc. Tel: +370 5 269 16 50
+ Este folheto foi aprovado pela última vez em
+ 52

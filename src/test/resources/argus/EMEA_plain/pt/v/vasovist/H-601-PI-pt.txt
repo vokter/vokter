@@ -1,0 +1,241 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. NOME DO MEDICAMENTO
+ VASOVIST 0,25 mmol/ml solução injectável.
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ 1 ml de VASOVIST solução injectável contém 244 mg (0,25 mmol) de gadofosveset trissódico como substância activa. 10 ml de solução contêm 2,44 g,15 ml de solução contêm 3,66 g e 20 ml de solução contêm 4,88 g de gadofosveset trissódico num frasco para injectáveis.
+ Este medicamento contém 6,3 mmol de sódio (ou 145 mg) por dose.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Solução injectável. Líquido límpido, incolor a amarelo claro.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Este medicamento é apenas para uso em diagnóstico. • Efeito contrastante em angiografia por ressonância magnética (CE-MRA) O VASOVIST está indicado para o uso em angiografia por ressonância magnética contrastada para visualização dos vasos abdominais ou dos membros, em doentes com doença vascular suspeita ou confirmada.
+ 4.2 Posologia e modo de administração Este medicamento deverá ser administrado sob a forma de bólus intravenoso único, manualmente ou por injector de ressonância magnética, durante um período de até 30 segundos, seguido da administração de 25-30 ml de soro normal. Este medicamento deve apenas ser usado por médicos com experiência em diagnóstico por imagiologia.
+ Posologia Adultos: 0,12 ml/kg de peso corporal (equivalente a 0,03 mmol/kg)
+ Tempo de leitura: A imagiologia dinâmica começa imediatamente após a injecção. A leitura em steady state (estado estacionário) pode começar depois de concluída a leitura dinâmica. Nos ensaios clínicos, a leitura ficou concluída até aproximadamente uma hora após a injecção. Compromisso renal/compromisso hepático: Não são necessários quaisquer ajustes da dose em doentes com compromisso renal ou hepático (ver secção 4.4 e secção 5.2). Recém-nascidos, bebés, crianças e adolescentes: O uso do medicamento não é recomendado em recém-nascidos, bebés, crianças e adolescentes. Não está ainda disponível qualquer experiência clínica para doentes com menos de 18 anos.
+ Não está disponível informação clínica acerca do uso frequente deste medicamento.
+ 2 4.3 Contra-indicações
+ Hipersensibilidade à substância activa ou a qualquer dos excipientes.
+ 4.4 Advertências e precauções especiais de utilização
+ Os procedimentos de diagnóstico envolvendo o uso de meios de contraste para imagiologia por ressonância magnética devem ser realizados sob a supervisão de um médico com a formação necessária e com um vasto conhecimento do procedimento a realizar. Devem estar disponíveis meios adequados para responder a eventuais complicações que possam resultar do procedimento, bem como para o tratamento de emergência de possíveis reacções graves ao próprio meio de contraste. Têm de ser respeitadas as precauções habituais de segurança para a realização de imagiologia por ressonâncias magnéticas, por exemplo, exclusão de pacemakers cardíacos e de implantes ferromagnéticos. Tal como com outros procedimentos de diagnóstico com meios de contraste, recomenda-se a observação do doente após o procedimento, principalmente no caso de doentes com historial de alergias, compromisso renal ou reacções farmacológicas.
+ Alerta para reacções de hipersensibilidade Deve ter-se sempre em conta a possibilidade de uma reacção, incluindo reacções graves, que ponham em risco a vida, fatais, anafilácticas, reacções cardiovasculares ou outras reacções idiossincráticas, principalmente no caso de doentes com hipersensibilidade clínica conhecida, reacção anterior a meios de contraste, historial de asma ou outros distúrbios alérgicos. A experiência com outros meios de contraste revela que o risco de reacções de hipersensibilidade é mais elevado nesses doentes. Podem ocorrer reacções tardias (após horas ou dias).
+ Deve ser prestada especial atenção nos seguintes casos:
+ Reacções de hipersensibilidade Caso surjam reacções de hipersensibilidade (ver secção 4.8), a administração do meio de contraste tem de ser imediatamente interrompida e-se necessário-deverá iniciar-se terapêutica específica por via intravenosa. É portanto aconselhável utilizar uma cânula intravenosa flexível para a administração de um meio de contraste intravenoso. Devido à possibilidade de ocorrência de reacções graves de hipersensibilidade após a administração intravenosa de um meio de contraste, é necessária preparação para a implementação de medidas de emergência. Por exemplo, é preciso ter à mão medicamentos adequados, tubo endotraqueal e ventilador.
+ Compromisso da função renal Uma vez que o gadofosveset é eliminado do organismo principalmente por via urinária, é necessário ter cuidado com a sua administração em doentes com compromisso da função renal (ver secção 5.2). Não é necessário qualquer ajuste da dose em doentes com compromisso renal. Foram relatados casos de fibrose sistémica nefrogénica (FSN) associada à utilização de alguns agentes de contraste contendo gadolínio em doentes com
+ -compromisso renal grave agudo ou crónico (TFG &lt; 30 ml/min/1,73 m2) ou
+ -compromisso renal agudo de qualquer gravidade devida a síndrome hepato-renal ou no período peri-
+ operatório de uma transplantação hepática.
+ Como existe a possibilidade de ocorrência de FSN com Vasovist, este só deve ser utilizado nestes doentes após avaliação cuidadosa do benefício/risco e se não for possível obter por outros meios a informação para a diagnóstico.
+ Todos os doentes devem ser examinados, especialmente os doentes com mais de 65 anos, para rastreio de disfunção renal obtendo a anamnése e/ou análises laboratoriais. A hemodiálise pouco depois da administração de Vasovist a doentes que na altura estão a ser submetidos a hemodiálise pode ser útil para remover Vasovist do organismo. Num ensaio clínico, ficou demonstrado que o gadofosveset pode ser eficazmente eliminado do organismo através de diálise utilizando filtros de alto fluxo.
+ 3 Não há qualquer evidência que apoie o início de hemodiálise para prevenção ou tratamento da FSN em doentes que ainda não estão em hemodiálise.
+ Alterações Electrocardiográficas Níveis elevados de gadofosveset (ex. uso repetido num curto espaço de tempo[ dentro de 6-8 horas], ou uma sobredosagem inadvertida &gt; 0,05 mmol/kg) podem estar associados a prolongamento moderado do intervalo QT (8,5 msec por correcção Fridericia). Em situações de níveis elevados de gadofosveset ou de prolongamento do intervalo QT subjacente, o doente deve ser cuidadosamente observado, incluindo monitorização cardíaca.
+ Micro-endopróteses vasculares (Stents) Foi demonstrado em estudos publicados que a angiografia por ressonância magnética na presença de micro-endopróteses vasculares metálicas origina artefactos. A fiabilidade da visualização com VASOVIST do lúmen de um vaso com stent não foi avaliada.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Uma vez que o gadofosveset se liga à albumina, é possível uma interacção com outras substâncias activas que se ligam às proteínas plasmáticas (por exemplo, ibuprofeno e varfarina), ou seja, pode dar-se uma competição pelo local de ligação das proteínas. Porém, em vários estudos in vitro de interacção farmacológica (em 4,5% de albumina sérica humana e plasma humano), o gadofosveset não demonstrou qualquer interacção adversa com digitoxina, propranolol, verapamilo, varfarina, fenprocoumon, ibuprofeno, diazepam, cetoprofeno, naproxeno, diclofenac e piroxicam em concentrações clinicamente relevantes. Estudos in vitro com microssomas hepáticos humanos não indicaram qualquer potencial de inibição do sistema enzimático do citocromo P450.
+ Num estudo clínico, ficou demonstrado que o VASOVIST não afecta a fracção não-ligada da varfarina no plasma. A actividade anticoagulante da varfarina não foi alterada e a eficácia do medicamento não foi influenciada.
+ Interacções com Testes Laboratoriais Em ensaios clínicos com o VASOVIST, não foram observadas tendências específicas que significassem uma potencial interacção do medicamento com métodos de testes laboratoriais.
+ 4.6 Gravidez e aleitamento Não há experiência do uso de gadofosveset trissódico durante a gravidez. Os estudos em animais não forneceram quaisquer provas de efeitos na fertilidade ou no desenvolvimento perinatal ou pós-natal. Foi observada toxicidade embrio-fetal em coelhos após administrações repetidas (ver secção 5.3). O VASOVIST não deve ser utilizado em mulheres grávidas, a menos que seja absolutamente necessário, devido à falta de experiência.
+ Desconhece-se se o gadofosveset trissódico é excretado no leite humano. Num estudo em animais, ficou demonstrado que menos de 1% da dose de gadofosveset administrado passa para o leite materno. Este medicamento não deve ser utilizado durante a amamentação, devido à falta de experiência.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas.
+ 4.8 Efeitos indesejáveis As reacções adversas mais frequentes relacionadas com o fármaco foram prurido, parestesia, cefaleia, náuseas, vasodilatação, sensação de ardor e disgeusia. A maior parte dos efeitos indesejáveis foi de intensidade ligeira a moderada.
+ 4 A maior parte das reacções adversas (80%) verificou-se no espaço de 2 horas. Podem ocorrer reacções tardias (após horas ou dias). Dados de ensaios clínicos Com base na experiência em ensaios clínicos em mais de 1.800 doentes, os seguintes efeitos indesejáveis foram observados.
+ São apresentadas na tabela seguinte as reacções adversas por classes de sistemas de órgãos MEdDRA (CSO MEdDRA).
+ Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ Classes de Sistemas de Órgãos (MedDra)
+ Frequentes (≥ 1: 100)
+ Pouco frequentes (≥ 1: 1.000 a &lt; 1: 100)
+ Raros (≥1: 10.000 a &lt; 1: 1.000) Celulite Infecções e infestações Doenças do sistema imunitário Doenças do metabolismo e da nutrição Perturbações do foro psiquiátrico
+ Nasofaringite Hipersensibilidade Hiperglicemia Desequilíbrio nos níveis de electrólitos (incl. Hipocalcemia) Ansiedade Confusão
+ Infecção do tracto urinário Hipercalemia Hipocalemia Hipernatremia Diminuição do apetite Alucinações Sonhos estranhos
+ Doenças do sistema Cefaleias, Tonturas (excl. vertigens) nervoso
+ Parestesia Tremores Disgeusia Sensação de ardor Hipoestesia Parosmia Ageusia Contracções musculares involuntárias
+ Afecções oculares Visão anómala Sensações oculares Afecções do ouvido e do labirinto Cardiopatias
+ Aumento da secreção lacrimal Bloqueio auriculoventricular de primeiro grau Electrocardiograma com intervalo QT prolongado Taquicardia Anomalias no electrocardiograma
+ anormais Astenopia Dor nos ouvidos Flutter cardíaco Isquémia miocárdica Bradicardia Fibrilação auricular Palpitações Electrocardiograma com depressão do segmento ST Electrocardiograma com diminuição da amplitude da onda T Reacção anafilactóide
+ Vasculopatias Vasodilatação Flebite Hipotensão (incl. rubor
+ Hipertensão Arterioesclerose cutâneo)
+ Arrefecimento das extremidades 5 Classes de Sistemas de Órgãos (MedDra)
+ Frequentes (≥ 1: 100) Pouco frequentes (≥ 1: 1.000 a &lt; 1: 100)
+ Raros (≥1: 10.000 a &lt; 1: 1.000) Doenças respiratórias, torácicas e do mediastino
+ Dispneia, Tosse Depressão respiratória Doenças gastrointestinais
+ Náuseas Vómitos Vontade de vomitar Diarreia Dor abdominal Dor faringolaríngea Desconforto abdominal Flatulência Hipoestesia dos lábios Hipersecrecção salivar Dispepsia Boca seca Prurido anal
+ Afecções dos tecidos Prurido Urticária Edema da face cutâneos e subcutâneas
+ Erupção cutânea Eritema Aumento da sudação
+ Hiperidrose Rigidez muscular Dor nos membros Afecções Sensação de peso Dor no pescoço musculosqueléticas, Cãibras musculares dos tecidos Espasmos musculares conjuntivos e dos ossos Doenças renais e
+ Hematúria Urgência na micção urinárias
+ Microalbuminúria Dor renal Glicosúria Frequência urinária Doenças dos órgãos genitais e da mama
+ Prurido genital Sensação de ardor genital
+ Dor pélvica Pirexia Perturbações gerais e Sensação de Dor Calafrios alterações no local de frio administração Lesões e intoxicações
+ Dor torácica Dor nas virilhas Fadiga Sensação anormal Sensação de calor Dor no local da injecção, eritema no local da injecção, sensação de frio no local de injecção
+ Fraqueza Sensação de pressão no peito Trombose no local de injecção Hematoma no local da injecção Inflamação no local da injecção Ardor no local da injecção Extravasamento no local da injecção Hemorragia no local da injecção Prurido no local da injecçção Sensação de pressão Dor fantasma dos membros
+ 6 Como com outros meios de contraste intravenosos, este medicamento pode estar associado a reacções anafilactóides/hipersensibilidade, caracterizadas por manifestações cutâneas, respiratórias e/ou cardiovasculares, que podem conduzir a choque.
+ 4.9 Sobredosagem O VASOVIST foi testado em humanos numa dose de 0,15 mmol/kg (5 vezes superior à dose clínica). Não foram registadas consequências clínicas da sobredosagem com o medicamento. O tratamento de uma sobredosagem deve ser dirigido para o suporte de todas as funções vitais e a implementação rápida de terapêutica sintomática. O gadofosveset pode ser eficazmente eliminado do organismo através de diálise de alto fluxo (ver secção 5.). Em caso de sobredosagem inadvertida, o doente deve ser cuidadosamente observado, incluindo monitorização cardíaca (ver secção 4.4.).
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: meios de contraste paramagnéticos, código ATC: V08 C A O VASOVIST é uma formulação de um quelato estável do gadolínio e ácido penta-acético dietilenotriamina (Gd-DTPA) substituído com um grupo difenil-ciclo-hexil-fosfato (gadofosveset trissódico), para uso em técnicas de ressonância magnética. O gadofosveset liga-se reversivelmente à albumina sérica humana. A ligação proteica potencia a relaxação T1 de gadofosveset até 10 vezes, em comparação com os quelatos de gadolíneo não ligado às proteínas. Em estudos humanos, o gadofosveset reduz substancialmente os valores sanguíneos de T1 por um período de até 4 horas após a administração do bólus intravenoso. A relaxação no plasma foi de 33,4 a 45,7 mM-1s-1 no intervalo posológico de até 0,05 mmol/kg a 20 MHz. As angiografias por ressonância magnética de alta resolução às estruturas vasculares são obtidas até uma hora após a administração do medicamento. A janela imagiológica vascular alargada do gadofosveset deve-se a uma relaxação potenciada e à fixação prolongada no espaço vascular, resultante da sua ligação às proteínas plasmáticas. Não foram realizados estudos comparativos com meios de contraste extracelulares com gadolíneo.
+ 5.2 Propriedades farmacocinéticas • Distribuição O perfil temporal de concentração plasmática do gadofosveset administrado por via intravenosa está conforme com um sistema aberto de dois compartimentos. Após a administração intravenosa da dose de 0,03 mmol/kg, a semi-vida média da fase de distribuição (t1/2α) foi de 0,48 ± 0,11 horas, e o volume de distribuição em estado estacionário foi de 148 ± 16 ml/kg, mais ou menos equivalente à do fluído extracelular. A ligação às proteínas plasmáticas situou-se entre 80% e 87% durante um período até às primeiras 4 horas após a injecção.
+ • Metabolismo Os resultados de várias avaliações a amostras de plasma e urina indicaram que o gadofosveset não sofre um metabolismo quantificável.
+ • Eliminação Em voluntários saudáveis, o gadofosveset foi principalmente eliminado por via urinária, com 84% (intervalo entre 79 – 94%) da dose administrada (0,03 mmol/kg) excretada na urina durante 14 dias. Noventa e quatro porcento (94%) da excreção urinária ocorreu nas primeiras 72 horas. Uma pequena parte da dose de gadofosveset foi recuperada nas fezes (4,7%, intervalo entre 1,1 – 9,3%), o que indica um papel pouco importante da excreção biliar na eliminação do gadofosveset. Após a administração intravenosa de uma dose de 0,03 mmol/kg, a depuração renal (5,51 ± 0,85 ml/h/kg) e a depuração total (6,57 ± 0,97 ml/h/kg) foram semelhantes, com uma semi-vida média de eliminação terminal de 18,5 ± 3,0 horas.
+ 7 • Características nos doentes
+ Compromisso Renal: Em doentes com compromisso renal moderado a grave, a semi-vida é significativamente prolongada e a AUC regista um aumento de 2-3 vezes.
+ Doentes hemodialisados: O Gadofosveset pode ser eliminado do organismo através de hemodiálise. Depois da administração de um bólus intravenoso de uma dose de 0,05 mmol/kg em doentes hemodialisados três vezes por semana com filtro de alto fluxo, no final da terceira sessão de diálise, a concentração plasmática tinha baixado para menos de 15% da Cmax. Durante as sessões de diálise, a semi-vida média da redução da concentração plasmática situou-se no intervalo das 5-6 horas. A depuração média durante a diálise variou entre os 16 – 32 ml/h/kg. O filtro de diálise de alto fluxo foi mais eficaz, em comparação com o filtro de baixo fluxo; assim, recomenda-se a utilização de um filtro de diálise de alto fluxo.
+ Compromisso Hepático: A farmacocinética plasmática e a ligação proteica do gadofosveset não foram significativamente influenciadas por um compromisso hepático moderado (Child Pugh B). Foi observada uma ligeira redução na eliminação fecal do gadofosveset em doentes com compromisso da função hepática (2,7%), em comparação com os sujeitos normais (4,8%). Num doente com compromisso hepático moderado e um nível de albumina sérica anormalmente baixo, a depuração total e a semi-vida do gadofosveset indicou uma depuração mais rápida, em comparação com sujeitos com compromisso hepático moderado e níveis séricos de albumina normais.
+ 5.3 Dados de segurança pré-clínica Os dados pré-clínicos não revelam qualquer perigo especial para os humanos, tendo por base estudos convencionais de segurança farmacológica, toxicidade aguda, tolerância local, potencial de sensibilização por contacto e genotoxicidade. Não foram realizados estudos de carcinogenicidade.
+ Toxicidade de dose repetida Estudos de toxicidade de dose repetida revelaram vacuolização das células tubulares renais, com fortes provas de reversibilidade do efeito. Não foi observada qualquer compromisso funcional. Estudos por microscopia electrónica a rins de ratos indicaram que a vacuolização observada esteve principalmente relacionada com o fenómeno de armazenamento. A gravidade dos efeitos foi mais significativa em ratos do que em macacos, provavelmente devido à maior depuração renal observada nos primeiros. Nos macacos, não foram observados efeitos renais após uma utilização única, mesmo numa dose 100 vezes superior à dose clínica.
+ Toxicidade reprodutiva Nos coelhos, foi observado um número acrescido de reabsorções precoces e um aumento ligeiro, mas significativo, no número de anomalias fetais (principalmente hidrocefalia e anomalias na rotação dos membros) com doses nas quais se observou uma ligeira ou nenhuma toxicidade materna (a exposição foi 2 e 5 vezes a exposição humana esperada, respectivamente).
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Fosveset Hidróxido de sódio Ácido clorídrico Água para preparações injectáveis
+ 8 6.2 Incompatibilidades
+ Na ausência de estudos de compatibilidade, este medicamento não deve ser misturado com outros medicamentos.
+ 6.3 Prazo de validade 3 anos. Após a primeira abertura da embalagem: o medicamento deve ser usado imediatamente.
+ 6.4 Precauções especiais de conservação
+ Manter o frasco do injectável dentro da embalagem exterior, para proteger da luz.
+ 6.5 Natureza e conteúdo do recipiente Frascos de vidro para injectáveis de 10 e 20 ml, incolores, tipo I, com tampa de elastómero de cloro-ou bromobutilo e cobertura de alumínio (disco de plástico). Tamanho das embalagens: 1,5 e 10 frascos para injectáveis × 10 ml (em frasco de vidro para injectável de 10 ml) 1,5 e 10 frascos para injectáveis × 15 ml (em frasco de vidro para injectável de 20 ml) 1,5 e 10 frascos para injectáveis × 20 ml (em frasco de vidro para injectável de 20 ml)
+ É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ Este medicamento é fornecido pronto a ser utilizado, sob a forma de uma solução aquosa límpida, incolor a amarelo claro. Os meios de contraste não devem ser utilizados em caso de descoloração forte, presença de partículas ou embalagem com defeito.
+ Os frascos para injectáveis contendo VASOVIST não se destinam à utilização em doses múltiplas. A tampa de borracha nunca deve ser perfurada mais de uma vez. Depois de ser retirada do frasco para injectáveis, a solução deve ser usada imediatamente. Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Bayer Schering Pharma AG, D-13342 Berlim, Alemanha
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/05/313/001-009 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 3 Outubro 2005
+ 10. DATA DA REVISÃO DO TEXTO 9 ANEXO II
+ A. TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 10 A. TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do fabricante responsável pela libertação do lote
+ Bayer Schering Pharma AG D-13342 Berlin Alemanha
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento de receita médica restrita, de utilização reservada a certos meios especializados (ver anexo I: Resumo das Características do Medicamento, secção 4.2).
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ Não aplicável. 11 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 12 A. ROTULAGEM
+ 13 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO E NO ACONDICIONAMENTO PRIMÁRIO
+ Embalagem/Acondicionamento exterior 1. DENOMINAÇÃO DO MEDICAMENTO VASOVIST 0,25 mmol/ml solução injectável Gadofosveset trissódico 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ 1 ml de solução injectável contém 244 mg (0,25 mmol) de gadofosveset trissódico como substância activa. 10 ml de solução contêm 2,44 g de gadofosveset trissódico num frasco para injectáveis. 15 ml de solução contêm 3,66 g de gadofosveset trissódico num frasco para injectáveis. 20 ml de solução contêm 4,88 g de gadofosveset trissódico num frasco para injectáveis.
+ 3. LISTA DOS EXCIPIENTES Excipientes: fosveset, hidróxido de sódio, ácido clorídrico, água para preparações injectáveis
+ 4. FORMA FARMACÊUTICA E CONTEÚDO solução injectável 10 ml (1,5,10 frascos para injectáveis) 15 ml (1,5,10 frascos para injectáveis) 20 ml (1,5,10 frascos para injectáveis)
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Apenas para uso intravenoso e uso para fins de diagnóstico
+ Consultar o folheto informativo antes de utilizar
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. { MM/AAAA} 14 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Manter o frasco do injectável dentro da embalagem exterior, para proteger da luz
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ Elimine qualquer meio de contraste não usado após cada exame.
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Bayer Schering Pharma AG, D-13342 Berlim, Alemanha
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/05/313/001 Vasovist – 0.25 mmol/ml – Solução injectável – Intravenosa – Frasco para injectáveis (vidro) – 10 ml – 1 frasco para injectáveis EU/1/05/313/002 Vasovist – 0.25 mmol/ml – Solução injectável – Intravenosa – Frasco para injectáveis (vidro) – 10 ml – 5 frascos para injectáveis EU/1/05/313/003 Vasovist – 0.25 mmol/ml – Solução injectável – Intravenosa – Frasco para injectáveis (vidro) – 10 ml – 10 frascos para injectáveis EU/1/05/313/004 Vasovist – 0.25 mmol/ml – Solução injectável – Intravenosa – Frasco para injectáveis (vidro) – 15 ml – 1 frasco para injectáveis EU/1/05/313/005 Vasovist – 0.25 mmol/ml – Solução injectável – Intravenosa – Frasco para injectáveis (vidro) – 15 ml – 5 frascos para injectáveis EU/1/05/313/006 Vasovist – 0.25 mmol/ml – Solução injectável – Intravenosa – Frasco para injectáveis (vidro) – 15 ml – 10 frascos para injectáveis EU/1/05/313/007 Vasovist – 0.25 mmol/ml – Solução injectável – Intravenosa – Frasco para injectáveis (vidro) – 20 ml – 1 frasco para injectáveis EU/1/05/313/008 Vasovist – 0.25 mmol/ml – Solução injectável – Intravenosa – Frasco para injectáveis (vidro) – 20 ml – 5 frascos para injectáveis EU/1/05/313/009 Vasovist – 0.25 mmol/ml – Solução injectável – Intravenosa – Frasco para injectáveis (vidro) – 20 ml – 10 frascos para injectáveis
+ 13. NÚMERO DO LOTE Lote{ número} 14. CLASSIFICAÇÃO GERAL RELATIVA AO FORNECIMENTO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Foi aceite a justificação para a não incluir a informação em Braille.
+ 15 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ Frasco para injectáveis 1. DENOMINAÇÃO DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ VASOVIST 0,25 mmol/ml, solução injectável Gadofosveset trissódico Via intravenosa
+ 2. MODO DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar
+ 3. PRAZO DE VALIDADE &lt; VAL. { MM/AAAA} &gt;
+ 4. NÚMERO DO LOTE Lote{ número} 5. CONTEÚDO EM TERMOS DE PESO, VOLUME OU UNIDADE
+ 10 ml 15 ml 20 ml 6. OUTRAS 16 B. FOLHETO INFORMATIVO
+ 17 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Vasovist 0,25 mmol/ml, solução injectável Gadofosveset trissódico
+ Leia atentamente este folheto antes de lhe ser administrado este medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso tenha dúvidas, fale com o médico que vai administrar-lhe o VASOVIST (o radiologista)
+ ou o pessoal clínico do hospital/centro de ressonância magnética.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou radiologista.
+ Neste folheto: 1. O que é VASOVIST e para que é utilizado 2. Antes de utilizar VASOVIST 3. Como utilizar VASOVIST 4. Efeitos secundários possíveis 5 Como conservar VASOVIST 6. Outras informações
+ 1. O QUE É VASOVIST E PARA QUE É UTILIZADO
+ O VASOVIST é um meio de contraste injectável para a obtenção de uma imagem de diagnóstico mais diferenciada dos vasos sanguíneos do abdómen ou dos membros. É fornecido sob a forma de solução pronta a utilizar, comercializada num frasco de vidro para injectáveis, numa dosagem de 250 micromole por mililitro. A administração é feita por injecção rápida por via intravenosa (apenas por um profissional de saúde). O VASOVIST é apenas para uso em diagnóstico. É utilizado para ajudar a detectar alterações nos vasos sanguíneos com anomalia suspeita ou conhecida. O diagnóstico pode ser feito com maior exactidão do que sem a utilização deste medicamento. O VASOVIST, um meio de contraste com propriedades magnéticas, ajuda a visualizar a circulação sanguínea nos vasos, iluminando o sangue durante um período de tempo alargado. Este medicamento é utilizado em conjunto com uma técnica de imagiologia denominada imagiologia por ressonância magnética.
+ Caso tenha dúvidas ou não tiver a certeza de alguma coisa, fale com o médico ou o pessoal clínico do centro de ressonância magnética.
+ 2. ANTES DE UTILIZAR VASOVIST Não utilize VASOVIST: • O VASOVIST não pode ser administrado caso sofra de alguma alergia (hipersensibilidade) a alguma das substâncias deste medicamento (ver acima). Se acha que esta situação pode aplicar-se a si, por favor, informe o seu médico.
+ Tome especial cuidado com VASOVIST: • Irá necessitar de atenção médica especial caso surjam reacções de tipo alérgico. Informe imediatamente o seu médico caso registe comichão, uma sensação de inchaço ligeiro na garganta ou na língua, que pode ser o primeiro sinal de uma reacção de tipo alérgico. O seu médico irá ter também atenção a outros sinais.
+ Informe o seu médico se: • tiver um pacemaker cardíaco ou algum implante ferromagnético ou um stent (micro-endoprótese vascular) metálico no seu corpo 18 • estiver grávida ou puder estar grávida (ou seja, mesmo que não tenha a certeza) • sofrer de alergia (por exemplo, febre dos fenos, urticária) ou asma • tiver sofrido anteriormente alguma reacção a meios de contraste • os seus rins não funcionarem correctamente
+ Se alguma destas situações se aplicar a si, o seu médico irá decidir se é possível ou não realizar o exame pretendido.
+ A segurança da utilização do VASOVIST em pessoas com menos de 18 anos não foi ainda testada.
+ Utilizar outros medicamentos: Informe o seu médico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica. O seu médico irá aconselhá-lo sobre o que fazer.
+ Gravidez e Aleitamento Consulte o seu médico antes de tomar qualquer medicamento. Não foi provado que a utilização de VASOVIST durante a gravidez é segura. O seu médico ou radiologista irão analisar este factor em conjunto consigo. Este medicamento não pode ser utilizado em mulher grávidas, a menos que seja absolutamente necessário. Se estiver a amamentar, não deve utilizar VASOVIST.
+ Informações importantes sobre alguns componentes de VASOVIST
+ Este medicamento contém 6,3 mmol de sódio (ou 145 mg) por dose. Deve ser tido em consideração pelos doentes com dieta restrita em sódio.
+ 3. COMO UTILIZAR VASOVIST Ser-lhe-á pedido que se deite numa cama de ressonância magnética. Este medicamento é administrado por injecção intravenosa. O local habitual para a injecção é as costas da mão ou na face anterior do cotovelo. A captação imagiológica poderá começar imediatamente após a administração de VASOVIST. Após a administração será observado, para o caso de se registarem eventuais efeitos secundários iniciais.
+ A dose administrada deste medicamento varia, dependendo do seu peso corporal. O médico irá decidir a dose de VASOVIST necessária para o seu exame. A dose é: 0,12 ml/kg de peso corporal (equivalente a 0,03 mmol/kg de peso corporal). Informação adicional relativamente à administração e manuseamento do VASOVIST é dada no final deste folheto.
+ Se lhe for administrado mais VASOVIST do que deveria: A sobredosagem é altamente improvável, mas o seu médico saberá o que fazer se tal acontecer. Se necessário, o VASOVIST pode ser eliminado do organismo através de hemodiálise usando filtros de alto fluxo.
+ Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico, o radiologista ou o pessoal clínico do centro de ressonância magnética.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todos os medicamentos, VASOVIST pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ 19 Comichão, formigueiro ou dormência das mãos ou pés, dor de cabeça, náuseas, sensação de calor (vasodilatação), sensação de ardor e alterações no paladar (disgeusia) são os efeitos secundários mais frequentes.
+ A maior parte dos efeitos indesejáveis foi de intensidade ligeira a moderada. A maior parte das reacções adversas (80%) verificou-se no espaço de 2 horas. Podem ocorrer reacções tardias (após horas ou dias).
+ São mencionados de seguida, por frequência, os efeitos secundários comunicados/observados: Efeitos secundários frequentes comunicados (probabilidade de ocorrerem em menos de 1 em cada 10 doentes). Efeitos secundários pouco frequentes (probabilidade de ocorrerem em menos de 1 em cada 100 doentes). Efeitos secundários raros (probabilidade de ocorrerem em menos de 1 em cada 1.000 doentes).
+ A seguir é apresentada uma lista dos efeitos secundários observados nos ensaios clínicos:
+ Infecções e infestações (nenhum efeito foi considerado frequente); pouco frequentes: secreção nasal, dor de garganta; raros: inflamação cutânea, infecção urinária.
+ Doenças do sistema imunitário (nenhum efeito foi considerado frequente ou raro); pouco frequentes: reacção de tipo alérgico.
+ Doenças do metabolismo e da nutrição (nenhum efeito foi considerado frequente); pouco frequentes: níveis elevados de açúcar no sangue, níveis baixos de cálcio no sangue; níveis invulgares de sal no organismo; raros: níveis baixos de potássio no sangue, níveis elevados de potássio no sangue, níveis elevados de sódio no sangue, diminuição do apetite.
+ Perturbações do foro psiquiátrico (nenhum efeito foi considerado frequente); pouco frequentes: ansiedade, confusão; raros: ver, sentir ou ouvir coisas que não existem; sonhos estranhos.
+ Sistema nervoso, frequentes: dor de cabeça; formigueiro ou dormência das mãos ou pés; alterações no paladar, sensação de ardor; pouco frequentes: perturbações no paladar, tonturas, tremores, diminuição da sensibilidade (principalmente cutânea), sensação de distúrbios olfactivos, contracções musculares involuntárias.
+ Olhos (nenhum efeito foi considerado frequente); pouco frequentes: visão anormal, aumento da secreção lacrimal; raros: perturbações visuais, sensações oculares anormais.
+ Ouvidos (nenhum efeito foi considerado frequente ou pouco frequente); raros: dor nos ouvidos.
+ Coração (nenhum efeito foi considerado frequente); pouco frequentes: perturbações na condução nervosa do coração (primeiro grau), ritmo cardíaco acelerado; problemas com o ritmo eléctrico do coração (intervalo QT longo); raros: ritmo cardíaco irregular/perturbações nas contracções das câmaras cardíacas (flutter cardíaco/fibrilhação auricular), problemas com o ritmo eléctrico do coração (segmento ST/anomalias na onda T), dor torácica, ritmo cardíaco lento, palpitações.
+ Vasos sanguíneos, frequentes: sensação de calor (vasodilatação) incluindo vermelhidão; pouco frequentes: tensão arterial alta, tumefacção e formação de coágulos numa veia, arrefecimento das extremidades; raros: reacção de tipo alérgico, espessamento das artérias devido a depósitos de colesterol; tensão arterial baixa.
+ Sistema respiratório (nenhum efeito foi considerado frequente); pouco frequentes: falta de ar, tosse; raros: dificuldades respiratórias.
+ 20 Sistema digestivo, frequentes: náuseas; pouco frequentes: vómitos, vontade de vomitar, diarreia, mau estar ou dor no estômago, dor na garganta, indigestão, boca seca, flatulência, diminuição da sensibilidade nos lábios, produção aumentada de saliva, comichão anal.
+ Pele, frequentes: comichão; pouco frequentes: urticária, vermelhidão, erupção cutânea, aumento da sudação; raros: inchaço da face, suores.
+ Músculos e óssos (nenhum efeito foi considerado frequente); pouco frequentes: cãibras musculares, espasmos musculares, dor no pescoço, dor nos membros; raros: rigidez muscular, sensação de peso.
+ Rins e tracto urinário (nenhum efeito foi considerado frequente); pouco frequentes: sangue na urina, proteínas na urina, açúcar na urina; raros: vontade de urinar, dor nos rins, urinar frequentemente.
+ Órgãos sexuais (nenhum efeito foi considerado frequente); pouco frequente: comichão genital, sensação de ardor genital; raros: dor pélvica.
+ Perturbações gerais e alterações no local de administração, frequentes: sensação de frio; pouco frequentes: dor, dor torácica, fadiga, perturbações sensoriais, dor nas virilhas, sensação de calor, dor no local de administração, sensação de frio no local de administração, vermelhidão no local de administração; raros: febre, arrepio, fraqueza, sensação de pressão no peito, formação de coágulo de sangue no local de administração, hematoma no local de administração, inflamação no local de administração, ardor no local de administração, derrame de fluidos no local de administração para os tecidos circundantes, hemorragia no local de administração, comichão no local de administração, sensação de pressão.
+ Lesões e intoxicações (nenhum efeito foi considerado frequente ou pouco frequente); raros: dor fantasma nos membros.
+ Como com outros meios de contraste intravenosos, o VASOVIST pode estar associado a reacções de tipo alérgico (anafilactóides/hipersensibilidade), caracterizadas por reacções cutâneas, dificuldades respiratórias e/ou perturbações cardíacas/no ritmo cardíaco/na tensão arterial que podem provocar perturbações de consciência (reacções cutâneas/respiratórias e/ou manifestações cardiovasculares, que podem conduzir a choque).
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou radiologista.
+ 5. COMO CONSERVAR VASOVIST Manter o frasco do injectável dentro da embalagem exterior, para proteger da luz.
+ Manter fora do alcance e da vista das crianças.
+ Não utilize VASOVIST após o prazo de validade impresso no rótulo. O prazo de validade corresponde ao último dia do mês indicado.
+ Não utilize Vasovist se verificar descoloração forte, a presença de partículas ou um defeito na embalagem.
+ Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 21 6. OUTRAS INFORMAÇÕES
+ Qual a composição de VASOVIST -A substância activa é gadofosveset trissódico 244mg/mililitro correspondente a
+ 0, 25mmol/mililitro 10 ml de solução contêm 2,44 g,15 ml de solução contêm 3,66 g e 20 ml contêm 4,88 g de gadofosveset trissódico num frasco para injectáveis.
+ -Os outros componentes são fosveset, hidróxido de sódio, ácido clorídrico e água para
+ preparações injectáveis.
+ Qual o aspecto de VASOVIST e conteúdo da embalagem Vasovist é um líquido límpido, incolor a amarelo claro. Os conteúdos das embalagens são:
+ 1,5 ou 10 frascos para injectáveis com 10 ml de solução injectável (em frasco para injectáveis de vidro de 10 ml) 1,5 ou 10 frascos para injectáveis com 15 ml de solução injectável (em frasco para injectáveis de vidro de 20 ml) 1,5 ou 10 frascos para injectáveis com 20 ml de solução injectável (em frasco para injectáveis de vidro de 20 ml)
+ É possível que não sejam comercializadas todas as apresentações.
+ Titular da Autorização de Introdução no Mercado e Fabricante
+ Bayer Schering Pharma AG, D-13342 Berlim, Alemanha
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular de Autorização de Introdução no Mercado:
+ België/Belgique/Belgien Bayer S. A./N. V. Tél/Tel ::+ 32-(0) 2-535 63 11
+ Luxembourg/Luxemburg Bayer S. A./N. V. Tél/Tel:+ 32 (0) 2-535 63 11
+ България Байер България ЕООД Тел:+ 359 02 814 01 01
+ Magyarország Bayer Hungária Kft Tel.:+ 36-1-487-41 00
+ Česká republika Bayer s. r. o. Tel:+ 420 2 717 306 61
+ Malta Alfred Gera &amp; Sons Ltd Tel:+ 356 44 62 05
+ Danmark Bayer A/S Tlf:+ 45 45 23 50 00
+ Nederland Bayer B. V., Bayer Schering Pharma Tel:+ 31 (0) 297-28 06 66
+ Norge Deutschland Bayer AS Bayer Vital GmbH Tlf:+ 47 24 11 18 00 Tel:+ 49 (0) 214-30 513 48
+ Eesti Österreich UAB Bayer Eesti filiaal Tel:+ 372 6 55 85 65
+ Bayer Austria Ges. m. b. H. Tel:+ 43-(0) 1-711 46-0
+ Ελλάδα Bayer Ελλάς ΑΒΕΕ Τηλ:+ 30-210 618 75 00
+ Polska Bayer Sp. z. o. o. Tel.:+ 48-22 572 35 00
+ 22 Portugal España Bayer Portugal S. A. Química Farmacéutica Bayer S. L. Tel:+ 35 121-416 42 00 Tel:+ 34-93-495 65 00
+ France Bayer Santé Tél:+ 33-3-20 20 80 80
+ Romania SC Bayer SRL Tel.:+ 40 21 528 59 00
+ Ireland Bayer Limited Tel:+ 353 – 1 – 299 93 13
+ Slovenija Bayer d. o. o. Tel:+ 386 1 58 14 400
+ Ísland Icepharma Tel:+ 354 540 8000
+ Slovenská republika Bayer, spol. s r. o. Tel:+ 42 12 59 21 31 11
+ Italia Bayer S. p. A. Tel:+ 39-02 397 81
+ Suomi/Finland Bayer Oy, Bayer Schering Pharma Puh/Tel:+ 358 20 785 21
+ Κύπρος NOVAGEM Limited Τηλ:+ 357 22 74 77 47
+ Sverige Bayer AB Tel:+ 46 (0) 8 580 223 00
+ Latvija UAB Bayer Latvijas filiāle Tel:+ 371 67 84 55 63
+ United Kingdom Bayer plc Tel: +44 (0) 1 635-56 30 00
+ Lietuva UAB Bayer, Bayer Schering Pharma Tel. +370 5 233 68 68
+ Este folheto foi aprovado pela última vez em
+ ------------------------------------------------------------------------------------------------------------------------------
+ A informação que se segue destina-se apenas aos médicos e aos profissionais dos cuidados de saúde.
+ Foram relatados casos de fibrose sistémica nefrogénica (FSN) associada à utilização de alguns agentes de contraste contendo gadolínio em doentes com
+ -compromisso renal grave agudo ou crónico (TFG &lt; 30 ml/min/1,73 m2) ou
+ -compromisso renal agudo de qualquer gravidade devida a síndrome hepato-renal ou no período peri-
+ operatório de uma transplantação hepática. Como existe a possibilidade de ocorrência de FSN com Vasovist, este só deve ser utilizado nestes doentes após avaliação cuidadosa do benefício/risco e se não for possível obter por outros meios a informação para o diagnóstico. Todos os doentes devem ser examinados, especialmente os doentes com mais de 65 anos, para rastreio de disfunção renal obtendo a anamnése e/ou análises laboratoriais. A hemodiálise pouco depois da administração de Vasovist a doentes que na altura estão a ser submetidos a hemodiálise pode ser útil para remover Vasovist do organismo. Num ensaio clínico, ficou demonstrado que o gadofosveset pode ser eficazmente eliminado do organismo através de diálise utilizando filtros de alto fluxo. Não há qualquer evidência que apoie o início de hemodiálise para prevenção ou tratamento da FSN em doentes que ainda não estão em hemodiálise.
+ 23 O VASOVIST é fornecido pronto a ser utilizado, sob a forma de uma solução aquosa, límpida, incolor a amarelo claro.
+ Os meios de contraste não devem ser utilizados em caso de descoloração forte, presença de partículas ou embalagem com defeito.
+ Os frascos para injectáveis contendo VASOVIST não se destinam à utilização em doses múltiplas. A tampa de borracha nunca deve ser perfurada mais de uma vez. Depois de ser retirado do frasco para injectáveis este medicamento deve ser usado imediatamente.
+ Qualquer solução não utilizada num exame deverá ser rejeitada.
+ 24

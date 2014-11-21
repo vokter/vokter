@@ -1,0 +1,583 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. NOME DO MEDICAMENTO
+ Infanrix hexa, Pó e suspensão para suspensão injectável. Vacina (adsorvida) contra difteria (D), tétano (T), tosse convulsa (componente acelular) (Pa), hepatite B (rADN) (HBV), poliomielite (inactivado) (IPV) e Haemophilus tipo b conjugado (Hib).
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Após reconstituição,1 dose (0,5 ml), contém:
+ Toxóide da difteria1 Toxóide do tétano1 Antigénios Bordetella pertussis
+ não menos de 30 UI não menos de 40 UI
+ Toxóide de pertussis1 Hemaglutinina filamentosa1 Pertactina1 Antigénio de superfície da hepatite B2,3 Poliovírus (inactivado)
+ 25 micrograma 25 micrograma 8 micrograma 10 micrograma
+ tipo 1 (estirpe Mahoney) 4 tipo 2 (estirpe MEF-1) 4 tipo 3 (estirpe Saukett) 4
+ 40 unidades de antigénio D 8 unidades de antigénio D 32 unidades de antigénio D
+ Polissacárido de Haemophilus do tipo b (poliribosilribitol fosfato) 3
+ 10 micrograma conjugado com toxóide do tétano como veículo 1
+ 20-40 micrograma adsorvido em hidróxido de alumínio, hidratado (Al(OH) 3) 2
+ 0,5 miligrama Al produzido em células de levedura (Saccharomyces cerevisiae) por tecnologia de ADN recombinante 3 adsorvido em fosfato de alumínio (AlPO4) 4 propagado em células VERO
+ 0,32 miligrama Al Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Pó e suspensão para suspensão injectável. O componente difteria, tétano, tosse convulsa acelular, hepatite B, e poliomielite inactivado (DTPa-HBV-IPV) é uma suspensão branca turva. O componente liofilizado Haemophilus influenzae tipo b (Hib) é um pó branco.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Infanrix hexa está indicado na vacinação primária e de reforço de crianças contra difteria, tétano, tosse convulsa, hepatite B, poliomielite e doença causada por Haemophilus influenzae tipo b.
+ Infanrix hexa não se destina para administração em crianças acima de 36 meses de idade.
+ 4.2 Posologia e modo de administração Posologia Vacinação primária: 2 O esquema de vacinação primária consiste em três doses de 0,5 ml (tal como 2,3,4 meses; 3,4,5 meses; 2,4,6 meses) ou em duas doses (tal como 3,5 meses). Deve ser respeitado um intervalo de pelo menos 1 mês entre as doses. O calendário Esquema de Imunização Alargada (às 6,10 e 14 semanas de idade) apenas pode ser utilizado se tiver sido dada uma dose de vacina contra a hepatite B à nascença.
+ Devem ser mantidas as medidas imunoprofilácticas contra a hepatite B estabelecidas localmente.
+ Quando é administrada à nascença uma dose de vacina contra a hepatite B, Infanrix hexa pode ser utilizado como um substituto das doses suplementares da vacina contra a hepatite B, a partir das seis semanas de idade. Se, antes desta idade, for necessária uma segunda dose de vacina contra a hepatite B, deve ser usada uma vacina monovalente contra a hepatite B.
+ Vacinação de reforço: Após a vacinação com 2 doses (por ex. 3,5 meses) de Infanrix hexa, deve ser administrada uma dose de reforço pelo menos 6 meses após a última dose da vacinação primária, preferencialmente entre os 11 e 13 meses de idade.
+ Após a vacinação com 3 doses (por ex. 2,3,4 meses; 3,4,5 meses; 2,4,6 meses) de Infanrix hexa, deve ser administrada uma dose de reforço pelo menos 6 meses após a última dose da vacinação primária e preferencialmente antes dos 18 meses de idade.
+ A administração de doses de reforço deve ser baseada nas recomendações oficiais, contudo, no mínimo, deve ser administrada uma dose de vacina Hib conjugada. Se a composição estiver de acordo com as recomendações oficiais, Infanrix hexa poderá ser considerado como dose de reforço.
+ Modo de administração Infanrix hexa destina-se a injecção intramuscular profunda, preferencialmente em locais diferentes para injecções subsequentes.
+ 4.3 Contra-indicações Hipersensibilidade às substâncias activas ou a qualquer um dos excipientes ou neomicina e polimixina.
+ Hipersensibilidade após administração prévia de vacinas contra difteria, tétano, tosse convulsa, hepatite B, poliomielite ou Hib.
+ Infanrix hexa está contra-indicado se a criança tiver tido uma encefalopatia de etiologia desconhecida, ocorrida nos 7 dias após vacinação anterior com uma vacina contendo pertussis. Nestas circunstâncias a vacinação contra a tosse convulsa deve ser descontinuada e o curso de vacinação deve ser continuado com vacinas contra difteria-tétano, hepatite B, polio e Hib.
+ Tal como com outras vacinas, a administração de Infanrix hexa deve ser adiada nos indivíduos que apresentem uma doença febril aguda grave. A presença de uma infecção ligeira não constitui uma contra-indicação.
+ 4.4 Advertências e precauções especiais de utilização
+ A vacinação deve ser precedida por uma revisão da história médica (especialmente no que respeita a vacinações anteriores e possível ocorrência de eventos indesejáveis) e por um exame clínico.
+ 3 No caso de se ter conhecimento da ocorrência de algum dos eventos a seguir indicados, em relação temporal com a administração de vacina contendo pertussis, a decisão de administrar mais doses de vacinas contendo pertussis deve ser cuidadosamente ponderada: Temperatura ≥ 40, 0°C nas 48 horas seguintes, não provocada por outra causa identificável. Colapso ou estado semelhante ao estado de choque (episódio de hiporeactividade e hipotonia) nas 48 horas seguintes à vacinação. Choro persistente, incontrolável com duração ≥ 3 horas, nas 48 horas que se seguem à vacinação. Convulsões acompanhadas ou não de febre, que ocorram no período de 3 dias após a vacinação. Podem existir circunstâncias, tais como uma elevada incidência de pertussis, em que os potenciais benefícios excedam os possíveis riscos.
+ Tal como para qualquer vacina, deve ser avaliado cuidadosamente o risco-benefício da imunização com Infanrix hexa ou do seu adiamento num lactente ou criança sofrendo de um novo episódio ou progressão de uma doença neurológica grave.
+ Tal como com todas as vacinas injectáveis, deve ter-se disponível de imediato tratamento médico adequado e supervisão médica para os raros casos de reacção anafiláctica que possam ocorrer após administração da vacina.
+ Infanrix hexa deve ser administrado com precaução a indivíduos com trombocitopenia ou problemas da coagulação, dado que nestes indivíduos pode ocorrer hemorragia após uma administração intramuscular.
+ Infanrix hexa não deve ser administrado por via intravascular ou por via intradérmica em circunstância alguma.
+ Infanrix hexa não irá prevenir a doença causada por outros agentes patogénicos, além de Corynebacterium diphtheriae, Clostridium tetani, Bordetella pertussis, vírus da hepatite B, poliovírus ou Haemophilus influenzae tipo b. No entanto, pode-se esperar que a hepatite D seja prevenida pela imunização, visto a hepatite D (causada pelo agente delta) não ocorrer na ausência de infecção pelo vírus da hepatite B.
+ Tal como com qualquer vacina, uma resposta imunitária protectora pode não ser obtida em todos os indivíduos vacinados (ver secção 5.1). Antecedentes de convulsões febris, história familiar de convulsões ou de Síndrome da Morte Súbita Infantil (SMSI) não constituem uma contra-indicação para a administração de Infanrix hexa. Os indivíduos vacinados com antecedentes de convulsões febris devem ser cuidadosamente monitorizados uma vez que os acontecimentos adversos podem ocorrer dentro de 2 a 3 dias após a vacinação.
+ A infecção pelo VIH não é considerada como uma contra-indicação. A resposta imunológica esperada pode não ser obtida após vacinação de doentes imunodeprimidos.
+ Atendendo que o antigénio polissacárido capsular Hib é excretado na urina, pode ser observado um teste positivo na urina dentro de 1-2 semanas após a vacinação. Devem ser realizados outros testes para a confirmação da infecção pelo Hib durante este período.
+ Quando Infanrix hexa é administrado concomitantemente com Prevenar (vacina pneumocócica sacárida conjugada, adsorvida), o médico deverá ter em consideração a informação relativa aos ensaios clínicos que refere uma taxa de reacções febris superior, comparativamente à verificada após a administração de Infanrix hexa isolado. Estas reacções foram maioritariamente moderadas (inferior ou igual a 39°C) e transitórias (ver secção 4.8).
+ O tratamento antipirético deve ser iniciado de acordo com as orientações de tratamento locais.
+ 4 Os dados limitados em 169 lactentes prematuros indicam que Infanrix hexa pode ser administrado em crianças prematuras. No entanto, uma resposta imunológica menor pode ser observada e o nível de protecção clínica permanece desconhecido.
+ O potencial risco de apneia e a necessidade de monitorização respiratória durante 48-72 horas devem ser considerados quando se administra a primo-imunização em lactentes muito prematuros (nascidos ≤ 28 semanas de gestação) e particularmente nos que apresentam história prévia de imaturidade respiratória. Como o benefício da vacinação é elevado neste grupo de lactentes, a vacinação não deve ser suspensa ou adiada.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Não existem dados suficientes relativamente à eficácia e segurança da administração simultânea de Infanrix hexa e da vacina contra Sarampo-Papeira-Rubéola que permitam que seja feita qualquer recomendação.
+ A informação sobre a administração concomitante de Infanrix hexa e Prevenar (vacina pneumocócica sacárida conjugada, adsorvida) não demonstrou interferência clinicamente relevante na resposta dos anticorpos a cada antigénio individual, quando administrada como vacinação primária de 3 doses.
+ Tal como com outras vacinas, nos doentes que estejam a fazer terapêutica imunossupressora pode não ser possível obter uma resposta adequada.
+ 4.6 Gravidez e aleitamento Uma vez que Infanrix hexa não se destina a ser utilizado em adultos, não existe informação disponível nos humanos sobre o uso durante a gravidez ou aleitamento nem estudos adequados de reprodução em animais.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não relevante. 4.8 Efeitos indesejáveis • Ensaios clínicos:
+ O perfil de segurança a seguir apresentado, baseia-se nos dados de mais de 16.000 indivíduos.
+ Tal como tem sido observado para o DTPa e combinações contendo DTPa, foi notificado um aumento na reactogenicicidade local e febre após a vacinação de reforço com Infanrix hexa, relativamente à vacinação primária.
+ -
+ Ensaios clínicos na co-administração: Em ensaios clínicos, em que alguns dos indivíduos vacinados receberam Infanrix hexa concomitantemente com Prevenar como dose reforço (4ª) de ambas as vacinas, a febre ≥ 38ºC foi notificada após 43,4% das doses em lactentes a receber Prevenar e Infanrix hexa, ao mesmo tempo, comparativamente a 30,5% das doses em lactentes a receber a vacina hexavalente isolada. A febre superior a 39, 5ºC foi observada após 2,6% e 1,5% das doses em lactentes a receber Infanrix hexa com ou sem Prevenar, respectivamente (ver secção 4.4). A incidência de febre após a administração concomitante das duas vacinas na primo-vacinação foi inferior à observada na dose de reforço.
+ -
+ Tabela Resumo das reacções adversas (ensaios clínicos):
+ 5 Os efeitos indesejáveis são apresentados em ordem decrescente de gravidade dentro de cada classe de frequência.
+ A frequência por dose dos efeitos indesejáveis é referida do seguinte modo:
+ Muito frequentes: Frequentes: Pouco frequentes: Raros: Muito raros:
+ (≥1/10) (≥1/100, &lt; 1/10) (≥1/1.000, &lt; 1/100) (≥1/10.000, &lt; 1/1.000) (&lt; 1/10.000)
+ Doenças do sistema nervoso: Pouco frequentes: sonolência Muito raros: convulsões (com ou sem febre)
+ Doenças respiratórias torácicas e do mediastino Pouco frequentes: tosse
+ Doenças gastrointestinais: Frequentes: diarreia, vómitos
+ Afecções dos tecidos cutâneos e subcutâneas: Raros: erupções cutâneas Muito raros: dermatite
+ Doenças do metabolismo e da nutrição: Muito frequentes: perda de apetite
+ Perturbações gerais e alterações no local da administração: Muito frequentes: febre ≥ 38ºC, tumefacção local no local da injecção (≤ 50 mm), fadiga, dor, vermelhidão Frequentes: febre &gt; 39, 5ºC, reacções no local da injecção, incluindo endurecimento, tumefacção local no local da injecção (&gt; 50 mm)*, reacção no local da injecção Pouco frequentes: tumefacção difusa no membro onde foi administrada a injectação, algumas vezes envolvendo a articulação adjacente*
+ Perturbações do foro psiquiátrico Muito frequentes: choro não habitual, irritabilidade, agitação Frequentes: nervosismo
+ • onde foi administrada a injectaçãoFarmacovigilância pós-comercialização:
+ Doenças do sangue e do sistema linfático: Linfadenopatia
+ Doenças do sistema nervoso: Colapso ou estado semelhante ao estado de choque (episódio de hiporreactividade e hipotonia)
+ Doenças respiratórias, torácicas e do mediastino: Apneia[ ver secção 4.4 para apneia em lactentes muito prematuros (≤ 28 semanas de gestação)]
+ Afecções dos tecidos cutâneos e subcutâneas: Angioedema
+ Perturbações gerais e alterações no local de administração Inchaço de todo o membro onde foi administrada a injectação*, reacções de tumefacção extensas, massa no local de injecção, vesículas no local de injecção
+ 6 Doenças do sistema imunitário: Reacções anafilácticas, reacções anafilactóides (incluindo urticária), reacções alérgicas (incluindo prurido)
+ * As crianças imunizadas com vacinas contendo pertussis acelular têm maior probabilidade de manifestarem reacções de tumefacção após a administração da dose de reforço, comparativamente às crianças imunizadas com vacinas contendo toda a célula. Estas reacções resolveram-se em média ao fim de 4 dias.
+ • Experiência com a vacina contra a hepatite B:
+ Em casos extremamente raros, têm sido reportados casos de paralisia, neuropatia, sindroma de Guillain-Barré, encefalopatia, encefalite e meningite. Não foi estabelecida relação causal com a vacina. Tem sido notificada trombocitopenia após a vacina contra a hepatite B.
+ 4.9 Sobredosagem Não foram descritos casos de sobredosagem.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: vacinas combinadas bacterianas e virais, código ATC: J07CA09
+ Os resultados obtidos nos estudos clínicos para cada um dos componentes são resumidos nas tabelas a seguir:
+ Percentagem de indivíduos com títulos de anticorpos ≥ ao ponto de corte do ensaio um mês após a primo-vacinação com Infanrix hexa
+ Anticorpo Duas Doses Três Doses (ponto de corte)
+ 3-5 meses 2-3-4 meses 2-4-6 meses 3-4-5 meses 6-10-14 N=530 N=196 N=1693 N=1055 semanas N=265
+ Anti-difteria (0,1 UI/ml) † % 98,0
+ % 100,0
+ % 99,8
+ % 99,7
+ % 99,2
+ Anti-tétano (0,1 UI/ml) † 100,0 100,0 100,0 100,0 99,6 Anti-PT (5 U EL./ml) 99,5 100,0 100,0 99,8 99,6 Anti-FHA (5 U EL./ml) 99,7 100,0 100,0 100,0 100,0 Anti-PRN (5 U EL./ml) 99,0 100,0 100,0 99,7 98,9 98,5* Anti-HBs (10 mUI/ml) † 96,8 99,5 98,9 98,0 Anti-Polio tipo 1 (diluição de 1/8) † 99,4 100,0 99,9 99,7 99,6 Anti-Polio tipo 2 (diluição de1/8) † 96,3 97,8 99,3 98,9 95,7 Anti-Polio tipo 3 (diluição de 1/8) † 98,8 100,0 7 99,7 99,7 99,6 Anti-PRP (0,15 μg/ml) † N= número de indivíduos*
+ 91,7 96,4 96,6 96,8 97,4 num subgrupo de lactentes em que a vacina contra a hepatite B não foi administrada à nascença, 77,7% dos indivíduos apresentaram títulos anti-HBs ≥ 10 mUI/ml † ponto de corte aceite como indicativo de protecção
+ Percentagem de indivíduos com títulos de anticorpos ≥ ao ponto de corte do ensaio um mês após a vacinação de reforço com Infanrix hexa
+ Anticorpo Vacinação de reforço aos 11 Vacinação de reforço durante o (ponto de corte)
+ meses de idade após o esquema
+ segundo ano de vida após o
+ Anti-difteria (0,1 UI/ml) † de primo-vacinação aos 3-5 meses N=532% 100,0
+ esquema de primo-vacinação de três doses N=2009% 99,9
+ Anti-tétano (0,1 UI/ml) † 100,0 99,9 Anti-PT (5 U EL./ml) 100,0 99,9 Anti-FHA (5 U EL./ml) 100,0 99,9 Anti-PRN (5 U EL./ml) 99,2 99,5 Anti-HBs (10 mUI/ml) † 98,9 98,4 Anti-Polio tipo 1 (diluição de 1/8) † 99,8 99,9 Anti-Polio tipo 2 (diluição de 1/8) † 99,4 99,9 Anti-Polio tipo 3 (diluição de 1/8) † 99,2 99,9 Anti-PRP (0,15 μg/ml) † N= número de indivíduos
+ 99,6 99,7 † ponto de corte aceite
+ como indicativo de protecção
+ Como a resposta imunológica aos antigénios da tosse convulsa após administração de Infanrix hexa é equivalente à de Infanrix, é expectável que a eficácia protectora das duas vacinas seja equivalente.
+ A eficácia clínica protectora do componente relativo a pertussis do Infanrix, contra a tosse convulsa típica definida pela OMS (≥ 21 dias de tosse paroxística) foi demonstrada em:
+ -um estudo prospectivo de contactos domésticos conduzido em ocultação realizado na Alemanha
+ (esquema de administração de 3,4,5 meses). Com base em dados recolhidos de contactos secundários em agregados domésticos onde havia um caso índice com tosse convulsa típica, a eficácia protectora da vacina foi de 88,7%.
+ -num estudo de eficácia patrocinado pelo NIH, efectuado em Itália (esquema de administração de 2,
+ 4,6 meses), a eficácia da vacina foi de 84%. Num seguimento da mesma população incluída no estudo, a eficácia da vacina foi confirmada até aos 60 meses após conclusão da vacinação primária sem administração da dose de reforço de pertussis.
+ 8 Os resultados de um seguimento a longo prazo na Suécia demonstraram que as vacinas de pertussis acelular são eficazes nos lactentes quando administradas de acordo com o esquema de vacinação primária aos 3 e 5 meses, com uma dose de reforço administrada aproximadamente aos 12 meses. Contudo, os dados indicam que a protecção contra a pertussis pode estar diminuída aos 7-8 anos de idade com o esquema aos 3-5-12 meses. Isto sugere que é necessária uma segunda dose de reforço da vacina pertussis em crianças com 5-7 anos de idade que foram previamente vacinadas seguindo este esquema particular de vacinação.
+ Foi demonstrado que os anticorpos protectores contra a hepatite B persistem durante pelo menos 3,5 anos em mais de 90% das crianças com a administração de 4 doses de Infanrix hexa. Os níveis de anticorpos não foram diferentes do que foi observado num grupo paralelo, onde foram administradas 4 doses de vacina monovalente contra a hepatite B.
+ A efectividade do componente Hib de Infanrix hexa foi e continua a ser investigada através de um estudo extensivo de vigilância pós-comercialização conduzido na Alemanha. Ao longo de um período de 5 anos de seguimento, a efectividade dos componentes Hib de duas vacinas hexavalentes, das quais uma foi Infanrix hexa, foi de 90,4% para o esquema de vacinação primária completo e 100% para uma dose de reforço (independentemente da primária).
+ 5.2 Propriedades farmacocinéticas A avaliação das propriedades farmacocinéticas não é requerida para as vacinas.
+ 5.3 Dados de segurança pré-clínica Os dados não clínicos não revelam especial risco para o ser humano, segundo estudos convencionais de segurança, toxicidade específica, toxicidade de dose repetida e compatibilidade dos ingredientes.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Pó de Hib: Lactose anidra Suspensão de DTPa-HBV-IPV: Cloreto de sódio (NaCl) Meio 199 contendo principalmente aminoácidos, sais minerais, vitaminas Água para preparações injectáveis.
+ Para adjuvantes, ver secção 2. 6.2 Incompatibilidades Na ausência de estudos de compatibilidade, este medicamento não deve ser misturado com outros medicamentos.
+ 6.3 Prazo de validade 3 anos. Após reconstituição: é recomendado o uso imediato. Contudo, foi demonstrada estabilidade até 8 horas a 21°C após reconstituição.
+ 6.4 Precauções especiais de conservação
+ 9 Conservar no frigorífico (2ºC – 8ºC) Não congelar.
+ Conservar na embalagem de origem para proteger da luz.
+ 6.5 Natureza e conteúdo do recipiente Pó em um frasco para injectáveis (vidro tipo I) com uma rolha (butilo). 0,5 ml de suspensão em uma seringa pré-cheia (vidro tipo I) com travão de êmbolo (butilo).
+ Embalagens de 1,10,20 e 50 unidades com ou sem agulha.
+ É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ Durante o armazenamento, pode ser observado um depósito branco e sobrenadante transparente. Tal não constitui um sinal de deterioração.
+ A seringa deve ser bem agitada, de modo a obter-se uma suspensão branca turva homogénea.
+ A suspensão de DTPa-HBV-IPV deve ser inspeccionada visualmente para detecção de qualquer partícula estranha e/ou variação do aspecto físico. Na observação de qualquer destes casos, rejeitar a vacina.
+ A vacina é reconstituída por adição do conteúdo da seringa ao frasco para injectáveis contendo o pó de Hib. Após adição da vacina DTP-HBV-IPV ao pó, a mistura deve ser bem agitada até o pó estar completamente dissolvido.
+ A vacina reconstituída apresenta-se como uma suspensão ligeiramente mais turva que o componente líquido sozinho. Isto é normal e não invalida a acção da vacina. No caso de ser observada outra alteração, rejeitar a vacina.
+ Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ GlaxoSmithKline Biologicals s. a. Rue de l’ Institut 89 B-1330 Rixensart, Bélgica
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/00/152/001 EU/1/00/152/002 EU/1/00/152/003 EU/1/00/152/004 EU/1/00/152/005 EU/1/00/152/006 EU/1/00/152/007 EU/1/00/152/008
+ 10 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 23 de Outubro de 2000 Data da última renovação: 23 de Outubro de 2005
+ 10. DATA DA REVISÃO DO TEXTO 11 1. NOME DO MEDICAMENTO
+ Infanrix hexa, Pó e suspensão para suspensão injectável. Vacina (adsorvida) contra difteria (D), tétano (T), tosse convulsa (componente acelular) (Pa), hepatite B (rADN) (HBV), poliomielite (inactivado) (IPV) e Haemophilus tipo b conjugado (Hib).
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Após reconstituição,1 dose (0,5 ml), contém:
+ Toxóide da difteria1 Toxóide do tétano1 Antigénios Bordetella pertussis
+ não menos de 30 UI não menos de 40 UI
+ Toxóide de pertussis1 Hemaglutinina filamentosa1 Pertactina1 Antigénio de superfície da hepatite B2,3 Poliovírus (inactivado)
+ 25 micrograma 25 micrograma 8 micrograma 10 micrograma
+ tipo 1 (estirpe Mahoney) 4 tipo 2 (estirpe MEF-1) 4 tipo 3 (estirpe Saukett) 4
+ 40 unidades de antigénio D 8 unidades de antigénio D 32 unidades de antigénio D
+ Polissacárido de Haemophilus do tipo b (poliribosilribitol fosfato) 3
+ 10 micrograma conjugado com toxóide do tétano como veículo 1
+ 20-40 micrograma adsorvido em hidróxido de alumínio, hidratado (Al(OH) 3) 2
+ 0,5 miligrama Al produzido em células de levedura (Saccharomyces cerevisiae) por tecnologia de ADN recombinante 3 adsorvido em fosfato de alumínio (AlPO4) 4 propagado em células VERO
+ 0,32 miligrama Al Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Pó e suspensão para suspensão injectável. O componente contra difteria, tétano, tosse convulsa acelular, hepatite B e poliomielite inactivado (DTPa-HBV-IPV) é uma suspensão branca turva. O componente liofilizado Haemophilus influenzae tipo b (Hib) é um pó branco.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Infanrix hexa está indicado na vacinação primária e de reforço de crianças contra difteria, tétano, tosse convulsa, hepatite B, poliomielite e doença causada por Haemophilus influenzae tipo b.
+ Infanrix hexa não se destina para administração em crianças acima de 36 meses de idade.
+ 4.2 Posologia e modo de administração Posologia Vacinação primária: 12 O esquema de vacinação primária consiste em três doses de 0,5 ml (tal como 2,3,4 meses; 3,4,5 meses; 2,4,6 meses) ou em duas doses (tal como 3,5 meses). Deve ser respeitado um intervalo de pelo menos 1 mês entre as doses. O calendário Esquema de Imunização Alargada (às 6,10 e 14 semanas de idade) apenas pode ser utilizado se tiver sido dada uma dose de vacina contra a hepatite B à nascença.
+ Devem ser mantidas as medidas imunoprofilácticas contra a hepatite B estabelecidas localmente.
+ Quando é administrada à nascença uma dose de vacina contra a hepatite B, Infanrix hexa pode ser utilisado como um substituto das doses suplementares da vacina contra a hepatite B, a partir das seis semanas de idade. Se, antes desta idade, for necessária uma segunda dose de vacina contra a hepatite B, deve ser usada uma vacina monovalente contra a hepatite B.
+ Vacinação de reforço: Após a vacinação com 2 doses (por ex. 3,5 meses) de Infanrix hexa, deve ser administrada uma dose de reforço pelo menos 6 meses após a última dose da vacinação primária, preferencialmente entre os 11 e 13 meses de idade.
+ Após a vacinação com 3 doses (por ex. 2,3,4 meses; 3,4,5 meses; 2,4,6 meses) de Infanrix hexa, deve ser administrada uma dose de reforço pelo menos 6 meses após a última dose da vacinação primária e preferencialmente antes dos 18 meses de idade.
+ A administração de doses de reforço deve ser baseada nas recomendações oficiais, no mínimo, deve ser administrada uma dose de vacina Hib conjugada. Se a composição estiver de acordo com as recomendações oficiais, Infanrix hexa poderá ser considerado como dose de reforço.
+ Modo de administração Infanrix hexa destina-se a injecção intramuscular profunda, preferencialmente em locais diferentes para injecções subsequentes.
+ 4.3 Contra-indicações Hipersensibilidade às substâncias activas ou a qualquer um dos excipientes ou neomicina e polimixina.
+ Hipersensibilidade após administração prévia de vacinas contra difteria, tétano, tosse convulsa, hepatite B, poliomielite ou Hib.
+ Infanrix hexa está contra-indicado se a criança tiver tido uma encefalopatia de etiologia desconhecida, ocorrida nos 7 dias após vacinação anterior com uma vacina contendo pertussis. Nestas circunstâncias a vacinação contra a tosse convulsa deve ser descontinuada e o curso de vacinação deve ser continuado com vacinas contra difteria-tétano, hepatite B, polio e Hib.
+ Tal como com outras vacinas, a administração de Infanrix hexa deve ser adiada nos indivíduos que apresentem uma doença febril aguda grave. A presença de uma infecção ligeira não constitui uma contra-indicação.
+ 4.4 Advertências e precauções especiais de utilização
+ A vacinação deve ser precedida por uma revisão da história médica (especialmente no que respeita a vacinações anteriores e possível ocorrência de eventos indesejáveis) e por um exame clínico.
+ 13 No caso de se ter conhecimento da ocorrência de algum dos eventos a seguir indicados, em relação temporal com a administração de vacina contendo pertussis, a decisão de administrar mais doses de vacinas contendo pertussis deve ser cuidadosamente ponderada: Temperatura ≥ 40, 0°C nas 48 horas seguintes, não provocada por outra causa identificável. Colapso ou estado semelhante ao estado de choque (episódio de hiporeactividade e hipotonia) nas 48 horas seguintes à vacinação. Choro persistente, incontrolável com duração ≥ 3 horas, nas 48 horas que se seguem à vacinação. Convulsões acompanhadas ou não de febre, que ocorram no período de 3 dias após a vacinação. Podem existir circunstâncias, tais como uma elevada incidência de pertussis, em que os potenciais benefícios excedam os possíveis riscos.
+ Tal como para qualquer vacina, deve ser avaliado cuidadosamente o risco-benefício da imunização com Infanrix hexa ou do seu adiamento num lactente ou criança sofrendo de um novo episódio ou progressão de uma doença neurológica grave.
+ Tal como com todas as vacinas injectáveis, deve ter-se disponível de imediato tratamento médico adequado e supervisão médica para os raros casos de reacção anafiláctica que possam ocorrer após administração da vacina.
+ Infanrix hexa deve ser administrado com precaução a indivíduos com trombocitopenia ou problemas da coagulação, dado que nestes indivíduos pode ocorrer hemorragia após uma administração intramuscular.
+ Infanrix hexa não deve ser administrado por via intravascular ou por via intradérmica em circunstância alguma.
+ Infanrix hexa não irá prevenir a doença causada por outros agentes patogénicos, além de Corynebacterium diphtheriae, Clostridium tetani, Bordetella pertussis, vírus hepatite B, poliovírus ou Haemophilus influenzae tipo b. No entanto, pode-se esperar que a hepatite D seja prevenida pela imunização, visto a hepatite D (causada pelo agente delta) não ocorrer na ausência de infecção pelo vírus da hepatite B.
+ Tal como com qualquer vacina, uma resposta imunitária protectora pode não ser obtida em todos os indivíduos vacinados (ver secção 5.1).
+ Antecedentes de convulsões febris, história familiar de convulsões ou de Síndrome da Morte Súbita Infantil (SMSI) não constituem uma contra-indicação para a administração de Infanrix hexa. Os indivíduos vacinados com antecedentes de convulsões febris devem ser cuidadosamente monitorizados uma vez que os acontecimentos adversos podem ocorrer dentro de 2 a 3 dias após a vacinação.
+ A infecção pelo VIH não é considerada como uma contra-indicação. A resposta imunológica esperada pode não ser obtida após vacinação de doentes imunodeprimidos.
+ Atendendo que o antigénio polissacárido capsular Hib é excretado na urina, pode ser observado um teste positivo na urina dentro de 1-2 semanas após a vacinação. Devem ser realizados outros testes para a confirmação da infecção pelo Hib durante este período
+ Quando Infanrix hexa é administrado concomitantemente com Prevenar (vacina pneumocócica sacárida conjugada, adsorvida), o médico deverá ter em consideração a informação relativa aos ensaios clínicos que refere uma taxa de reacções febris superior, comparativamente à verificada após a administração de Infanrix hexa isolado. Estas reacções foram maioritariamente moderadas (inferior ou igual a 39°C) e transitórias (ver secção 4.8).
+ O tratamento antipirético deve ser iniciado de acordo com as orientações de tratamento locais.
+ 14 Os dados limitados em 169 lactentes prematuros indicam que Infanrix hexa pode ser administrado em crianças prematuras. No entanto, uma resposta imunológica menor pode ser observada e o nível de protecção clínica permanece desconhecido.
+ O potencial risco de apneia e a necessidade de monitorização respiratória durante 48-72 horas devem ser considerados quando se administra a primo-imunização em lactentes muito prematuros (nascidos ≤ 28 semanas de gestação) e particularmente nos que apresentam história prévia de imaturidade respiratória. Como o benefício da vacinação é elevado neste grupo de lactentes, a vacinação não deve ser suspensa ou adiada.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Não existem dados suficientes relativamente à eficácia e segurança da administração simultânea de Infanrix hexa e da vacina contra Sarampo-Papeira-Rubéola que permitam que seja feita qualquer alteração.
+ A informação sobre a administração concomitante de Infanrix hexa e Prevenar (vacina pneumocócica sacárida conjugada, adsorvida) não demonstrou interferência clinicamente relevante na resposta dos anticorpos a cada antigénio individual, quando administrada como vacinação primária de 3 doses.
+ Tal como com outras vacinas, nos doentes que estejam a fazer terapêutica imunossupressora, pode não ser possível obter uma resposta adequada.
+ 4.6 Gravidez e aleitamento Uma vez que Infanrix hexa não se destina a ser utilizado em adultos, não existe informação disponível nos humanos sobre o uso durante a gravidez ou aleitamento nem estudos adequados de reprodução em animais.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não relevante. 4.8 Efeitos indesejáveis • Ensaios clínicos:
+ O perfil de segurança a seguir apresentado, baseia-se nos dados de mais de 16.000 indivíduos. Tal como tem sido observado para o DTPa e combinações contendo DTPa, foi notificado um aumento na reactogenicicidade local e febre após a vacinação de reforço com Infanrix hexa, relativamente à vacinação primária.
+ -
+ Ensaios clínicos na co-administração: Em ensaios clínicos, em que alguns dos indivíduos vacinados receberam Infanrix hexa concomitantemente com Prevenar como dose reforço (4ª) de ambas as vacinas, a febre ≥ 38ºC foi notificada após 43,4% das doses em lactentes a receber Prevenar e Infanrix hexa, ao mesmo tempo, comparativamente a 30,5% das doses em lactentes a receber a vacina hexavalente isolada. A febre superior a 39, 5ºC foi observada após 2,6% e 1,5% das doses em lactentes a receber Infanrix hexa com ou sem Prevenar, respectivamente (ver secção 4.4). A incidência de febre após administração concomitante das duas vacinas na primo-vacinação foi inferior à observada após a dose de reforço.
+ -
+ Tabela Resumo das reacções adversas (ensaios clínicos):
+ Os efeitos indesejáveis são apresentados em ordem decrescente de gravidade dentro de cada classe de frequência.
+ 15 A frequência por dose dos efeitos indesejáveis é referida do seguinte modo:
+ Muito frequentes: Frequentes: Pouco frequentes: Raros: Muito raros:
+ (≥1/10) (≥1/100, &lt; 1/10) (≥1/1.000, &lt; 1/100) (≥1/10.000, &lt; 1/1.000) (&lt; 1/10.000)
+ Doenças do sistema nervoso: Pouco frequentes: sonolência Muito raros: convulsões (com ou sem febre)
+ Doenças respiratórias torácicas e do mediastino: Pouco frequentes: tosse
+ Doenças gastrointestinais: Frequentes: diarreia, vómitos
+ Afecções dos tecidos cutâneos e subcutâneas: Raros: erupções cutâneas Muito raros: dermatite
+ Doenças do metabolismo e da nutrição: Muito frequentes: perda de apetite
+ Perturbações gerais e alterações no local da administração: Muito frequentes: febre ≥ 38ºC, tumefacção local no local da injecção (≤ 50 mm), fadiga, dor, vermelhidão Frequentes: febre &gt; 39, 5ºC, reacções no local da injecção, incluindo endurecimento, tumefacção local no local da injecção (&gt; 50 mm)*, reacção no local da injecção Pouco frequentes: tumefacção difusa no membro onde foi administrada a injectação, algumas vezes envolvendo a articulação adjacente*
+ Perturbações do foro psiquiátrico Muito frequentes: choro não habitual, irritabilidade, agitação Frequentes: nervosismo onde foi administrada a injectação
+ • Farmacovigilância pós-comercialização:
+ Doenças do sangue e do sistema linfático: Linfadenopatia
+ Doenças do sistema nervoso Colapso ou estado semelhante ao estado de choque (episódio de hiporreactividade e hipotonia)
+ Doenças respiratórias, torácicas e do mediastino: Apneia[ ver secção 4.4 para apneia em lactentes muito prematuros (≤ 28 semanas de gestação)]
+ Afecções dos tecidos cutâneos e subcutâneas: Angioedema
+ Perturbações gerais e alterações no local de administração Inchaço de todo o membro onde foi administrada a injectação*, reacções de tumefacção extensas, massa no local de injecção, vesículas no local de injecção.
+ 16 Doenças do sistema imunitário: Reacções anafilácticas, reacções anafilactóides (incluindo urticária), reacções alérgicas (incluindo prurido).
+ * As crianças imunizadas com vacinas contendo pertussis acelular têm maior probabilidade de manifestarem reacções de tumefacção após a administração da dose de reforço, comparativamente às crianças imunizadas com vacinas contendo toda a célula. Estas reacções resolveram-se em média ao fim de 4 dias.
+ • Experiência com a vacina contra a hepatite B:
+ Em casos extremamente raros, têm sido reportados casos de paralisia, neuropatia, sindroma de Guillain-Barré, encefalopatia, encefalite e meningite. Não foi estabelecida relação causal com a vacina. Tem sido notificada trombocitopenia após a vacina contra a hepatite B.
+ 4.9 Sobredosagem Não foram descritos casos de sobredosagem.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: vacinas combinadas bacterianas e virais, código ATC: J07CA09
+ Os resultados obtidos nos estudos clínicos para cada um dos componentes são resumidos nas tabelas a seguir:
+ Percentagem de indivíduos com títulos de anticorpos ≥ ao ponto de corte do ensaio um mês após a primo-vacinação com Infanrix hexa
+ Anticorpo Duas Doses Três Doses (ponto de corte)
+ 3-5 meses 2-3-4 meses 2-4-6 meses 3-4-5 meses 6-10-14 N=530 N=196 N=1693 N=1055 semanas N=265
+ Anti-difteria (0,1 UI/ml) † % 98,0
+ % 100,0
+ % 99,8
+ % 99,7
+ % 99,2
+ Anti-tétano (0,1 UI/ml) † 100,0 100,0 100,0 100,0 99,6 Anti-PT (5 U EL./ml) 99,5 100,0 100,0 99,8 99,6 Anti-FHA (5 U EL./ml) 99,7 100,0 100,0 100,0 100,0 Anti-PRN (5 U EL./ml) 99,0 100,0 100,0 99,7 98,9 98,5* Anti-HBs (10 mUI/ml) † 96,8 99,5 98,9 98,0 Anti-Polio tipo 1 (diluição de 1/8) † 99,4 100,0 99,9 99,7 99,6 Anti-Polio tipo 2 (diluição de 1/8) † 96,3 97,8 99,3 98,9 95,7 Anti-Polio tipo 3 (diluição de 1/8) † 98,8 100,0 99,7 99,7 99,6 17 Anti-PRP (0,15 μg/ml) † N= número de indivíduos*
+ 91,7 96,4 96,6 96,8 97,4 num subgrupo de lactentes em que a vacina contra a hepatite B não foi administrada a vacina contra à nascença, 77,7% dos indivíduos apresentaram títulos anti-HBs ≥ 10 mUI/ml † ponto de corte aceite como indicativo de protecção
+ Percentagem de indivíduos com títulos de anticorpos ≥ ao ponto de corte do ensaio um mês após a vacinação de reforço com Infanrix hexa
+ Anticorpo Vacinação de reforço aos 11 Vacinação de reforço durante o (ponto de corte)
+ meses de idade após o esquema
+ segundo ano de vida após o
+ Anti-difteria (0,1 UI/ml) † de primo-vacinação aos 3-5 meses N=532% 100,0
+ esquema de primo-vacinação de três doses N=2009% 99,9
+ Anti-tétano (0,1 UI/ml) † 100,0 99,9 Anti-PT (5 U EL./ml) 100,0 99,9 Anti-FHA (5 U EL./ml) 100,0 99,9 Anti-PRN (5 U EL./ml) 99,2 99,5 Anti-HBs (10 mUI/ml) † 98,9 98,4 Anti-Polio tipo 1 (diluição de1/8) † 99,8 99,9 Anti-Polio tipo 2 (diluição de1/8) † 99,4 99,9 Anti-Polio tipo 3 (diluição de1/8) † 99,2 99,9 Anti-PRP (0,15 μg/ml) † N= número de indivíduos
+ 99,6 99,7 † ponto de corte aceite
+ como indicativo de protecção
+ Como a resposta imunológica aos antigénios da tosse convulsa após administração de Infanrix hexa é equivalente à de Infanrix, é expectável que a eficácia protectora das duas vacinas seja equivalente.
+ A eficácia clínica protectora do componente relativo a pertussis do Infanrix, contra a tosse convulsa típica definida pela OMS (≥ 21 dias de tosse paroxística) foi demonstrada em:
+ -um estudo prospectivo de contactos domésticos conduzido em ocultação realizado na Alemanha
+ (esquema de administração de 3,4,5 meses). Com base em dados recolhidos de contactos secundários em agregados domésticos onde havia um caso índice com tosse convulsa típica, a eficácia protectora da vacina foi de 88,7%.
+ -num estudo de eficácia patrocinado pelo NIH, efectuado em Itália (esquema de administração de 2,
+ 4,6 meses), a eficácia da vacina foi de 84%. Num seguimento da mesma população incluída no estudo, a eficácia da vacina foi confirmada até aos 60 meses após conclusão da vacinação primária sem administração da dose de reforço de pertussis
+ 18 Os resultados de um seguimento a longo prazo na Suécia demonstraram que as vacinas de pertussis acelular são eficazes nos lactentes quando administradas de acordo com o esquema de vacinação primária aos 3 e 5 meses, com uma dose de reforço administrada aproximadamente aos 12 meses. Contudo, os dados indicam que a protecção contra a pertussis pode estar diminuída aos 7-8 anos de idade com o esquema aos 3-5-12 meses. Isto sugere que é necessária uma segunda dose de reforço da vacina pertussis em crianças com 5-7 anos de idade que foram previamente vacinadas seguindo este esquema particular de vacinação.
+ Foi demonstrado que os anticorpos protectores contra a hepatite B persistem durante pelo menos 3,5 anos em mais de 90% das crianças com a administração de 4 doses de Infanrix hexa. Os níveis de anticorpos não foram diferentes do que foi observado num grupo paralelo, onde foram administradas 4 doses de vacina monovalente contra a hepatite B.
+ A efectividade do componente Hib de Infanrix hexa foi e continua a ser investigada através de um estudo extensivo de vigilância pós-comercialização conduzido na Alemanha. Ao longo de um período de 5 anos de seguimento, a efectividade dos componentes Hib de duas vacinas hexavalentes, das quais uma foi Infanrix hexa, foi de 90,4% para o esquema de vacinação primária completo e 100% para uma dose de reforço (independentemente da primária).
+ 5.2 Propriedades farmacocinéticas A avaliação das propriedades farmacocinéticas não é requerida para as vacinas.
+ 5.3 Dados de segurança pré-clínica Os dados não clínicos não revelam especial risco para o ser humano, segundo estudos convencionais de segurança, toxicidade específica, toxicidade de dose repetida e compatibilidade dos ingredientes.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Pó de Hib: Lactose anidra Suspensão de DTPa-HBV-IPV: Cloreto de sódio (NaCl) Meio 199 contendo principalmente aminoácidos, sais minerais, vitaminas Água para preparações injectáveis
+ Para adjuvantes, ver secção 2. 6.2 Incompatibilidades Na ausência de estudos de compatibilidade, este medicamento não deve ser misturado com outros medicamentos.
+ 6.3 Prazo de validade 3 anos. Após reconstituição: é recomendado o uso imediato. Contudo, foi demonstrada estabilidade até 8 horas a 21°C após reconstituição.
+ 6.4 Precauções especiais de conservação
+ 19 Conservar no frigorífico (2ºC – 8ºC) Não congelar.
+ Conservar na embalagem de origem para proteger da luz.
+ 6.5 Natureza e conteúdo do recipiente Pó em um frasco para injectáveis (vidro tipo I) com Bioset® com uma rolha (butilo). 0,5 ml de suspensão em uma seringa pré-cheia (vidro tipo I) com travão de êmbolo (butilo).
+ Embalagens de 1,10,20 e 50 unidades com ou sem agulhas.
+ É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais de eliminação e manuseamento
+ Durante o armazenamento, pode ser observado um depósito branco e sobrenadante transparente. Tal não constitui um sinal de deterioração.
+ A seringa deve ser bem agitada, de modo a obter-se uma suspensão branca turva homogénea.
+ A suspensão de DTPa-HBV-IPV deve ser inspeccionada visualmente para detecção de qualquer partícula estranha e/ou alteração do aspecto físico. Na observação de qualquer destes casos, rejeitar a vacina.
+ A vacina é reconstituída pela adição do conteúdo da seringa ao frasco para injectáveis contendo o pó do Hib. Faz parte das boas práticas clínicas administrar-se a vacina apenas quanto esta atinge a temperatura ambiente. Além disso, o frasco para injectáveis quando à temperatura ambiente assegura a elasticidade suficiente do fecho de borracha para minimizar a separação de partículas da borracha. Para se o conseguir, o frasco para injectáveis deve ser mantido à temperatura ambiente (25 ± 3ºC) durante pelo menos cinco minutos antes de se fixar a seringa e de reconstituir a vacina. Para a reconstituição, rodar e remover a cobertura plástica da tampa do Bioset® e remover a tampa da seringa. Antes de se fixar a seringa ao topo do Bioset®, deve assegurar-se que os dois recipientes estão alinhados (ver Figura 1). Unir a seringa ao topo do Bioset® rodando-a. Empurrar para baixo até a seringa fazer “ click ” na posição. Injectar o líquido da seringa no frasco. Agitar bem até o pó do Hib estar completamente dissolvido. Aspirar a vacina reconstituída de volta para a seringa. Desenroscar a seringa do Bioset® e inserir a agulha para a administração da vacina.
+ A vacina reconstituída apresenta-se como uma suspensão ligeiramente mais turva que o componente líquido sozinho. Isto é normal e não invalida a acção da vacina. No caso de ser observada outra alteração, rejeitar a vacina.
+ Os produtos não utilizados ou os resíduos devem ser eliminados de acordo com as exigências locais.
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 20 GlaxoSmithKline Biologicals s. a. Rue de l’ Institut 89 B-1330 Rixensart, Bélgica
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/00/152/009 EU/1/00/152/010 EU/1/00/152/011 EU/1/00/152/012 EU/1/00/152/013 EU/1/00/152/014 EU/1/00/152/015 EU/1/00/152/016 EU/1/00/152/017 EU/1/00/152/018
+ 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 23 de Outubro de 2000 Data da última renovação: 23 de Outubro de 2005
+ 10. DATA DA REVISÃO DO TEXTO 21 ANEXO II
+ A. FABRICANTES DAS SUBSTÂNCIAS ACTIVAS DE ORIGEM BIOLÓGICA E TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 22 A. FABRICANTES DAS SUBSTÂNCIAS ACTIVAS DE ORIGEM BIOLÓGICA E TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço dos fabricantes das substâncias activas de origem biológica
+ GlaxoSmithKline Biologicals s. a. Rue de l’ Institut 89,1330 Rixensart Bélgica
+ Novartis Vaccines and Diagnostics GmbH &amp; Co. KG Emil-von-Behring-Str. 76, D-35041 Marburg Alemanha
+ Nome e endereço do fabricante responsável pela libertação do lote
+ GlaxoSmithKline Biologicals s. a. Rue de l’ Institut 89,1330 Rixensart Bélgica
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO SER CUMPRIDAS PELO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento sujeito a receita médica. • CONDIÇÕES OU RESTRIÇÕES EM RELAÇÃO À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ Não aplicável. • OUTRAS CONDIÇÕES
+ O Titular da Autorização de Introdução no Mercado deve informar a Comissão Europeia sobre os planos de comercialização do medicamento autorizado pela presente decisão.
+ Libertação oficial do lote: nos termos do artigo 114. º da Directiva 2001/83/EC, com as alterações que lhe foram introduzidas, a libertação oficial do lote será feita por um laboratório estatal ou um laboratório designado para esse efeito.
+ O Titular da Autorização de Introdução no Mercado continuará a submeter anualmente os RPSs.
+ 23 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 24 A. ROTULAGEM
+ 25 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO 1 FRASCO PARA INJECTÁVEIS E 1 SERINGA PRÉ-CHEIA SEM AGULHA 10 FRASCOS PARA INJECTÁVEIS E 10 SERINGAS PRÉ-CHEIAS SEM AGULHAS 20 FRASCOS PARA INJECTÁVEIS E 20 SERINGAS PRÉ-CHEIAS SEM AGULHAS 50 FRASCOS PARA INJECTÁVEIS E 50 SERINGAS PRÉ-CHEIAS SEM AGULHAS 1 FRASCO PARA INJECTÁVEIS E 1 SERINGA PRÉ-CHEIAS COM 2 AGULHAS 10 FRASCO PARA INJECTÁVEIS E 10 SERINGAS PRÉ-CHEIAS COM 20 AGULHAS 20 FRASCO PARA INJECTÁVEIS E 20 SERINGAS PRÉ-CHEIAS COM 40 AGULHAS 50 FRASCO PARA INJECTÁVEIS E 50 SERINGAS PRÉ-CHEIAS COM 100 AGULHAS
+ 1. NOME DO MEDICAMENTO Infanrix hexa – Pó e suspensão para suspensão injectável Vacina (adsorvida) contra difteria (D), tétano (T), tosse convulsa (componente acelular) (Pa), hepatite B (rADN) (HBV), poliomielite (inactivado) (IPV) e Haemophilus tipo b conjugado (Hib)
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Após reconstituição,1 dose (0,5 ml): Toxóide da difteria1 Toxóide do tétano1 Antigénios Bordetella pertussis
+ ≥ 30 UI ≥ 40 UI
+ (Toxóide de pertussis1, Hemaglutinina filamentosa1, Pertactina1) Antigénio de superfície da hepatite B2, Poliovírus (inactivado) tipo 1,2,3 Polissacárido de Haemophilus do tipo b (poliribosilribitol fosfato) 2
+ 25,25,8 microgramas 10 microgramas 40,8,32 UD 10 microgramas
+ conjugado com toxóide do tétano como veículo 1
+ 20-40 microgramas adsorvido em Al(OH) 3 2
+ 0,5 miligramas Al adsorvido em AlPO4
+ 0,32 miligramas Al 3. LISTA DOS EXCIPIENTES Lactose anidra Cloreto de sódio Meio 199 contendo principalmente aminoácidos, sais minerais, vitaminas Água para preparações injectáveis
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Pó e suspensão para suspensão injectável Frasco para injectáveis: pó Seringa pré-cheia: suspensão
+ 1 frasco para injectáveis e 1 seringa pré-cheia 1 dose (0,5 ml)
+ 10 frascos para injectáveis e 10 seringas pré-cheias 10 × 1 dose (0,5 ml)
+ 26 20 frascos para injectáveis e 20 seringas pré-cheias 20 × 1 dose (0,5 ml)
+ 50 frascos para injectáveis e 50 seringas pré-cheias 50 × 1 dose (0,5 ml)
+ 1 frasco para injectáveis e 1 seringa pré-cheia+ 2 agulhas 1 dose (0,5 ml)
+ 10 frasco para injectáveis e 10 seringas pré-cheias+ 20 agulhas 10 × 1 dose (0,5 ml)
+ 20 frasco para injectáveis e 20 seringas pré-cheias+ 40 agulhas 20 × 1 dose (0,5 ml)
+ 50 frasco para injectáveis e 50 seringas pré-cheias+ 100 agulhas 50 × 1 dose (0,5 ml)
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Consultar o folheto informativo antes de utilizar Via intramuscular Agitar antes de usar
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL.: MM/AAAA 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Conservar no frigorífico Não congelar Conservar na embalagem de origem para proteger da luz
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 27 GlaxoSmithKline Biologicals s. a. Rue de l’ Institut 89 B-1330 Rixensart, Bélgica
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/00/152/001 – 1 frasco para injectáveis e 1 seringa pré-cheia sem agulha EU/1/00/152/002 – 10 frascos para injectáveis e 10 seringas pré-cheias sem agulha EU/1/00/152/003 – 20 frascos para injectáveis e 20 seringas pré-cheias sem agulha EU/1/00/152/004 – 50 frascos para injectáveis e 50 seringas pré-cheias sem agulha EU/1/00/152/005 – 1 frasco para injectáveis e 1 seringa pré-cheia com 2 agulhas EU/1/00/152/006 – 10 frascos para injectáveis e 10 seringas pré-cheias com 20 agulhas EU/1/00/152/007 – 20 frascos para injectáveis e 20 seringas pré-cheias com 40 agulhas EU/1/00/152/008 – 50 frascos para injectáveis e 50 seringas pré-cheias com 100 agulhas
+ 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Foi aceite a justificação para não incluir a informação em Braille
+ 28 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO 1 FRASCO PARA INJECTÁVEIS COM BIOSET® E 1 SERINGA PRÉ-CHEIA SEM AGULHA 10 FRASCOS PARA INJECTÁVEIS COM BIOSET® E 1 SERINGAS PRÉ-CHEIAS SEM AGULHAS 20 FRASCOS PARA INJECTÁVEIS COM BIOSET® E 10 SERINGAS PRÉ-CHEIAS SEM AGULHAS 50 FRASCOS PARA INJECTÁVEIS COM BIOSET® E 20 SERINGAS PRÉ-CHEIAS SEM AGULHAS 1 FRASCO PARA INJECTÁVEIS COM BIOSET® E 1 SERINGA PRÉ-CHEIA COM AGULHA 10 FRASCOS PARA INJECTÁVEIS COM BIOSET® E 10 SERINGAS PRÉ-CHEIAS COM 10 AGULHAS 20 FRASCOS PARA INJECTÁVEIS COM BIOSET® E 20 SERINGAS PRÉ-CHEIAS COM 20 AGULHAS 50 FRASCOS PARA INJECTÁVEIS COM BIOSET® E 50 SERINGAS PRÉ-CHEIAS COM 50 AGULHAS 1 FRASCO PARA INJECTÁVEIS COM BIOSET® E 1 SERINGA PRÉ-CHEIA COM 2 AGULHAS 10 FRASCOS PARA INJECTÁVEIS COM BIOSET® E 10 SERINGAS PRÉ-CHEIAS COM 20 AGULHAS
+ 1. NOME DO MEDICAMENTO Infanrix hexa – Pó e suspensão para suspensão injectável Vacina (adsorvida) contra difteria (D), tétano (T), tosse convulsa (componente acelular) (Pa), hepatite B (rADN) (HBV), poliomielite (inactivado) (IPV) e Haemophilus tipo b conjugado (Hib)
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Após reconstituição,1 dose (0,5 ml): Toxóide da difteria1 Toxóide do tétano1 Antigénios Bordetella pertussis
+ ≥ 30 UI ≥ 40 UI
+ (Toxóide de pertussis1, Hemaglutinina filamentosa1, Pertactina1) Antigénio de superfície da hepatite B2 Poliovírus (inactivado) tipo 1,2,3 Polissacárido de Haemophilus do tipo b (poliribosilribitol fosfato) 2
+ 25,25,8 microgramas 10 microgramas 40,8,32 UD 10 microgramas
+ conjugado com toxóide do tétano como veículo 1
+ 20-40 microgramas adsorvido em Al(OH) 3 2
+ 0,5 miligramas Al adsorvido em AlPO4
+ 0,32 miligramas Al 3. LISTA DOS EXCIPIENTES Lactose anidra Cloreto de sódio Meio 199 contendo principalmente aminoácidos, sais minerais, vitaminas Água para preparações injectáveis
+ 29 4. FORMA FARMACÊUTICA E CONTEÚDO
+ Pó e suspensão para suspensão injectável Frasco para injectáveis com tampa Bioset®: Pó Seringa pré-cheia: suspensão 1 frasco para injectáveis com Bioset® e 1 seringa pré-cheia 1 dose (0,5 ml)
+ 10 frascos para injectáveis com Bioset® e 10 seringas pré-cheias 10 × 1 dose (0,5 ml)
+ 20 frascos para injectáveis com Bioset® e 20 seringas pré-cheias 20 × 1 dose (0,5 ml)
+ 50 frascos para injectáveis com Bioset® e 50 seringas pré-cheias 50 × 1 dose (0,5 ml)
+ 1 frasco para injectáveis com Bioset® e 1 seringa pré-cheia+ 1 agulha 1 dose (0,5 ml)
+ 10 frascos para injectáveis com Bioset® e 10 seringas pré-cheias+ 10 agulhas 10 × 1 dose (0,5 ml)
+ 20 frascos para injectáveis com Bioset® e 20 seringas pré-cheias+ 20 agulhas 20 × 1 dose (0,5 ml)
+ 50 frascos para injectáveis com Bioset® e 50 seringas pré-cheias+ 50 agulhas 50 × 1 dose (0,5 ml)
+ 1 frasco para injectáveis com Bioset® e 1 seringa pré-cheia+ 2 agulhas 1 dose (0,5 ml)
+ 10 frascos para injectáveis com Bioset® e 10 seringas pré-cheias+ 20 agulhas 10 × 1 dose (0,5 ml)
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Consultar folheto informativo antes de utilizar Via intramuscular Agitar antes de usar
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL.: MM/AAAA 30 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Conservar no frigorífico Não congelar Conservar na embalagem de origem para proteger da luz
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ GlaxoSmithKline Biologicals s. a. Rue de l’ Institut 89 B-1330 Rixensart, Bélgica
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/00/152/009 – 1 frasco para injectáveis com Bioset® e 1 seringa pré-cheia sem agulha EU/1/00/152/010 – 10 frascos para injectáveis com Bioset® e 10 seringas pré-cheias sem agulha EU/1/00/152/011 – 20 frascos para injectáveis com Bioset® e 20 seringas pré-cheias sem agulha EU/1/00/152/012 – 50 frascos para injectáveis com Bioset® e 50 seringas pré-cheias sem agulha EU/1/00/152/013 – 1 frasco para injectáveis com Bioset® e 1 seringa pré-cheia com 1 agulhas EU/1/00/152/014 – 10 frascos para injectáveis com Bioset® e 10 seringas pré-cheias com 10 agulhas EU/1/00/152/015 – 20 frascos para injectáveis com Bioset® e 20 seringas pré-cheias com 20 agulhas EU/1/00/152/016 – 50 frascos para injectáveis com Bioset® e 50 seringas pré-cheias com 50 agulhas EU/1/00/152/017 – 1 frasco para injectáveis com Bioset® e 1 seringas pré-cheias com 2 agulhas EU/1/00/152/018 – 10 frascos para injectáveis com Bioset® e 10 seringas pré-cheias com 20 agulhas
+ 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE Foi aceite a justificação para não incluir a informação em Braille
+ 31 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO FRASCO PARA INJECTÁVEIS COM PÓ DE HIB FRASCO PARA INJECTÁVEIS COM TAMPA BIOSET COM PÓ DE HIB
+ 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ HIB para Infanrix hexa Pó para suspensão injectável IM
+ 2. MODO DE ADMINISTRAÇÃO 3. PRAZO DE VALIDADE VAL. 4. NÚMERO DO LOTE Lote 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 1 dose 6. OUTRAS 32 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO SERINGA PRÉ-CHEIA COM SUSPENSÃO DE DTPa HBV-IPV
+ 1. NOME DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ DTPa HBV IPV para Infanrix hexa Suspensão para suspensão injectável IM
+ 2. MODO DE ADMINISTRAÇÃO 3. PRAZO DE VALIDADE VAL. 4. NÚMERO DO LOTE Lote 5. CONTEÚDO EM PESO, VOLUME OU UNIDADE
+ 1 dose (0,5 ml) 6. OUTRAS 33 B. FOLHETO INFORMATIVO
+ 34 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Infanrix hexa, Pó e suspensão para suspensão injectável Vacina (adsorvida) contra difteria (D), tétano (T), tosse convulsa (componente acelular) (Pa), hepatite B (rADN) (HBV), poliomielite (inactivado) (IPV) e Haemophilus tipo b conjugado (Hib).
+ Leia atentamente este folheto antes de o seu filho receber esta vacina.
+ -Conserve este folheto até o seu filho terminar o esquema de vacinação. Pode ter necessidade de
+ o ler novamente.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Esta vacina foi receitada para o seu filho. Não deve dá-la a outros.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é Infanrix hexa e para que é utilizado 2. Antes de o seu filho receber Infanrix hexa 3. Como é administrado Infanrix hexa 4. Efeitos secundários possíveis 5. Como conservar Infanrix hexa 6. Outras informações
+ 1. O QUE É Infanrix hexa E PARA QUE É UTILIZADO
+ Infanrix hexa é uma vacina usada em crianças para prevenir seis doenças: difteria, tétano, pertussis (tosse convulsa), hepatite B, poliomielite (polio) e Haemophilus influenzae tipo b. A vacina actua causando a produção das próprias defesas do organismo (anticorpos) contra estas doenças.
+ • Difteria: a difteria afecta principalmente as vias aéreas e, por vezes, a pele. Geralmente as vias aéreas ficam inflamadas (inchadas), provocando dificuldades respiratórias e, por vezes, asfixia. A bactéria também liberta uma toxina (veneno) que causa lesões nervosas, problemas cardíacos e mesmo a morte.
+ • Tétano: a bactéria do tétano entra no organismo através de cortes, arranhões ou feridas na pele. As feridas que infectam mais facilmente são as queimaduras, fracturas, feridas profundas ou feridas contaminadas com terra, pó, excrementos de cavalo ou farpas de madeira. A bactéria liberta uma toxina (veneno), que pode causar rigidez muscular, espasmos musculares dolorosos, convulsões e até a morte. Os espasmos musculares podem ser suficientemente fortes para causar fracturas dos ossos da coluna vertebral.
+ • Pertussis (tosse convulsa): a pertussis é uma doença altamente infecciosa. A doença afecta as vias aéreas causando períodos de tosse que podem interferir com a respiração normal. Normalmente a tosse é acompanhada por ruído e é conhecida por tosse de cão. A tosse pode durar 1-2 meses ou mais. A pertussis também pode causar otites, bronquites que podem ser prolongadas, pneumonia, convulsões, lesão cerebral e até a morte.
+ • Hepatite B: é causada pelo vírus da hepatite B. Causa inchaço do fígado (inflamação). O vírus é encontrado nos fluidos corporais, tais como o sangue, o sémen, as secreções vaginais ou a saliva das pessoas infectadas.
+ • Poliomielite (Polio): a poliomielite, por vezes chamada simplesmente “ polio ”, é uma infecção viral que pode ter vários efeitos. Muitas vezes, provoca apenas doença ligeira mas, em algumas pessoas, causa lesão permanente ou mesmo morte. Na sua forma mais grave, a infecção polio causa paralisia dos músculos (não se consegue mover os músculos), incluindo os músculos
+ 35 necessários para respirar ou andar. Os membros afectados por esta doença podem sofrer deformação dolorosa.
+ • Haemophilus influenzae tipo b (Hib): a infecção por Hib causa frequentemente inflamação cerebral (inchaço). Surgem alguns tipos de complicações graves, tais como: atraso mental, paralisia cerebral, surdez, epilepsia ou cegueira parcial. A infecção por Hib também causa inflamação da traqueia. Ocasionalmente, causa morte por asfixia. Menos usualmente, a bactéria também pode infectar o sangue, coração, pulmões, ossos, articulações e tecidos dos olhos e da boca.
+ A vacinação é a melhor forma de protecção contra estas doenças. Nenhum dos componentes da vacina é infeccioso.
+ 2. ANTES DE O SEU FILHO RECEBER Infanrix hexa
+ Infanrix hexa não deve ser administrado: • se o seu filho já teve uma reacção alérgica a Infanrix hexa, ou a qualquer outro componente desta vacina. No final deste folheto, existe uma lista das substâncias activas e outros componentes de Infanrix hexa. Os sinais de alergia incluem erupção cutânea com comichão, dificuldade em respirar e inchaço da face ou da língua. • se o seu filho já teve uma reacção alérgica a qualquer vacina contra difteria, tétano, pertussis (tosse convulsa), hepatite B, poliomietite ou Haemophilus influenzae tipo b. • se o seu filho teve problemas neurológicos nos 7 dias seguintes à administração de uma vacina contendo um componente contra a pertussis (tosse convulsa). • se o seu filho tiver uma infecção grave com temperatura elevada (acima de 38°C). Uma infecção ligeira, tal como uma constipação, não deve ser um problema mas fale primeiro com o médico.
+ Tome especial cuidado com Infarix hexa: • se, após administração anterior de Infanrix hexa ou outra vacina contra a pertussis (tosse convulsa), o seu filho tiver quaisquer problemas, especialmente: ♦ temperatura elevada (acima de 40°C) nas 48 horas seguintes à vacinação ♦ colapso ou estado semelhante ao estado de choque nas 48 horas seguintes à vacinação ♦ choro persistente com duração igual ou superior a 3 horas, nas 48 horas seguintes à vacinação ♦ espasmos/convulsões, com ou sem temperatura, ocorridas no período de 3 dias após vacinação • se o seu filho sofre de uma doença não diagnosticada ou progressiva do cérebro ou de epilepsia não controlada. Após o controlo da doença a vacina deve ser administrada • se o seu filho tem qualquer problema de coagulação do sangue ou se faz nódoas negras com facilidade • se o seu filho tem tendência a fazer convulsões/espasmos devido a febre ou se existe história familiar desta ocorrência Como com todas as vacinas, Infanrix hexa pode não proteger completamente todos os indivíduos vacinados.
+ Ao utilizar com outros medicamentos ou vacinas Informe o seu médico se a criança estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica, ou se recentemente recebeu outra vacina.
+ Informações importantes sobre alguns componentes de Infanrix hexa Informe o seu médico se a criança já teve uma reacção alérgica à neomicina ou à polimixina (antibióticos).
+ 36 3. COMO É ADMINISTRADO Infanrix hexa
+ O seu filho irá receber um total de duas ou três injecções, com um intervalo de pelo menos um mês entre cada uma. Cada injecção é dada em visitas separadas. O médico ou o enfermeiro irão informá-lo sobre quando deve regressar para as injecções seguintes.
+ Se forem necessárias injecções adicionais ou “ reforços ”, o médico informá-lo-á.
+ Se o seu filho faltar a uma injecção programada, fale com o médico e combine outra visita.
+ Certifique-se que o seu filho completa o esquema de vacinação de três injecções. Caso contrário o seu filho poderá não ficar completamente protegido contra as doenças.
+ O médico irá dar Infanrix hexa como uma injecção no músculo.
+ A vacina nunca deverá ser administrada nos vasos sanguíneos ou dentro da pele.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todos os medicamentos, Infanrix hexa pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ Tal como todas as vacinas injectáveis, existe um risco extremamente pequeno de reacções alérgicas graves (reacções anafilácticas e anafilactóides). Os sinais de reacções alérgicas graves podem ser: • erupções cutâneas que podem ser com comichão ou vesículas • inchaço dos olhos e face • dificuldade em respirar ou em engolir • queda súbita na pressão sanguínea e perda de consciência. Estas reacções ocorrem normalmente antes de sair do consultório médico. Contudo, se a sua criança apresentar algum destes sintomas deve contactar o médico com urgência.
+ Tal como com outras vacinas contra a tosse convulsa, os seguintes efeitos adversos podem ocorrer muito raramente dentro de 2 a 3 dias após a vacinação: • colapso ou períodos de inconsciência ou falta de conhecimento • espasmos ou convulsões com ou sem febre Se a sua criança apresentar algum destes efeitos secundários, deve contactar o médico imediatamente.
+ Os outros efeitos secundários que foram comunicados são:
+ Muito frequentes (Estes podem ocorrer em 1 em cada 10 ou mais doses da vacina) • perda de apetite • febre superior ou igual a 38ºC • inchaço, dor, vermelhidão no local de injecção • cansaço • choro anormal, irritabilidade, inquietação
+ Frequentes (Estes podem ocorrer até 1 em cada 10 doses da vacina) • diarreia, vómitos • febre superior a 39, 5ºC • inchaço maior que 5 cm no local de injecção, nódulo duro no local de injecção • nervosismo.
+ Pouco frequentes (Estes podem ocorrer até 1 em cada 100 doses da vacina)
+ 37 • sonolência • tosse • grande inchaço no membro onde foi administrada a injecção
+ Raros (Estes podem ocorrer até 1 em cada 1000 doses da vacina) • erupções cutâneas.
+ Muito raros (Estes podem ocorrer em até 1 em 10000 doses da vacina) • gânglios inchados no pescoço, axila e virilha (linfadenopatia) • nos recém-nascidos que nasceram muito prematuramente (antes ou às 28 semanas de gestação) podem ocorrer falhas mais longas que o normal entre respirações, 2-3 dias após a vacinação • inchaço da face, lábios, boca, língua ou garganta que pode causar dificuldade a engolir ou respirar (angioedema) • dermatite • inchaço em todo o membro onde foi administrada a injecção, vesículas no local de injecção.
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR Infanrix hexa Manter fora do alcance e da vista das crianças.
+ Não utilizar Infanrix hexa após o prazo de validade impresso na cartonagem. O prazo de validade corresponde ao último dia do mês indicado.
+ Conservar no frigorífico (2ºC – 8ºC). Conservar na embalagem de origem para proteger da luz. Não congelar. A congelação destrói a vacina.
+ Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Infanrix hexa -As substâncias activas são:
+ Toxóide da difteria1 Toxóide do tétano1 Antigénios Bordetella pertussis
+ não menos de 30 UI não menos de 40 UI
+ Toxóide de pertussis1 Hemaglutinina filamentosa1 Pertactina1 Antigénio de superfície da hepatite B2,3 Poliovírus (inactivado)
+ 25 micrograma 25 micrograma 8 micrograma 10 micrograma
+ tipo 1 (estirpe Mahoney) 4 tipo 2 (estirpe MEF-1) 4 tipo 3 (estirpe Saukett) 4
+ 40 unidades de antigénio D 8 unidades de antigénio D 32 unidades de antigénio D
+ Polissacárido de Haemophilus do tipo b (poliribosilribitol fosfato) 3
+ 10 micrograma conjugado com toxóide do tétano como veículo 1
+ 20-40 micrograma adsorvido em hidróxido de alumínio, hidratado (Al(OH) 3) 38
+ 0,5 miligrama Al 2 produzido em células de levedura (Saccharomyces cerevisiae) por tecnologia de ADN recombinante 3
+ adsorvido em fosfato de alumínio (AlPO4)
+ 0,32 miligrama Al 4 propagado em células VERO
+ -Os outros componentes de Infanrix hexa são:
+ Pó de Hib: lactose anidra
+ Suspensão de DTPa-HBV-IPV: cloreto de sódio (NaCl), meio 199 contendo principalmente aminoácidos, sais minerais, vitaminas e água para preparações injectáveis
+ Qual o aspecto de Infanrix hexa e conteúdo da embalagem
+ Pó e suspensão para suspensão injectável.
+ O componente contra difteria, tétano, tosse convulsa acelular, hepatite B, poliomielite inactivada (DTPa-HBV-IPV) é um líquido branco, ligeiramente leitoso apresentando-se em seringa pré-cheia (0,5 ml).
+ O componente Hib é um pó branco apresentado em frasco de vidro para injectáveis.
+ Ambos os componentes devem ser misturados, antes de o seu filho receber a vacina. O aspecto da mistura é um líquido branco, ligeiramente leitoso.
+ O Infanrix hexa está disponível em embalagens de 1,10,20 e 50 unidades com ou sem agulhas.
+ Nem todas as apresentações se encontram comercializadas.
+ Titular da Autorização de Introdução no Mercado e de Fabrico
+ GlaxoSmithKline Biologicals s. a. Rue de l’ Institut 89 B-1330 Rixensart Bélgica
+ 39 Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado:
+ België/Belgique/Belgien GlaxoSmithKline s. a./n. v. Tél/Tel:+ 32 2 656 21 11
+ Luxembourg/Luxemburg GlaxoSmithKline s. a./n. v. Tél/Tel:+ 32 2 656 21 11
+ България ГлаксоСмитКлайн ЕООД ул. Димитър Манов бл.10 София 1408 Тел.+ 359 2 953 10 34
+ Magyarország GlaxoSmithKline Kft. Tel.:+ 36-1-2255300
+ Česká republika GlaxoSmithKline s. r. o. Tel:+ 420 2 22 00 11 11 gsk. czmail@ gsk. com
+ Malta GlaxoSmithKline Malta Tel:+ 356 21 238131
+ Danmark GlaxoSmithKline Pharma A/S Tlf:+ 45 36 35 91 00 info@ glaxosmithkline. dk
+ Nederland GlaxoSmithKline BV Tel:+ 31 (0) 30 69 38 100 nlinfo@ gsk. com
+ Deutschland GlaxoSmithKline GmbH &amp; Co. KG Tel:+ 49 (0) 89 360448701 produkt. info@ gsk. com
+ Norge GlaxoSmithKline AS Tlf:+ 47 22 70 20 00 firmapost@ gsk. no
+ Eesti GlaxoSmithKline Eesti OÜ Tel: +372 667 6900 estonia@ gsk. com
+ Österreich GlaxoSmithKline Pharma GmbH. Tel:+ 43 1 970 75-0 at. info@ gsk. com
+ Ελλάδα GlaxoSmithKline A. E. B. E Tηλ:+ 30 210 68 82 100
+ Polska GSK Commercial Sp. z. o. o. Tel.:+ 48 (22) 576 9000
+ España GlaxoSmithKline, S. A. Tel:+ 34 902 202 700 es-ci@ gsk. com
+ Portugal Smith Kline &amp; French Portuguesa, Produtos Farmacêuticos, Lda. Tel:+ 351 21 412 95 00 FI. PT@ gsk. com
+ France Laboratoire GlaxoSmithKline Tél:+ 33 (0) 1 39 17 84 44 diam@ gsk. com
+ România GlaxoSmithKline (GSK) SRL Tel: +40 (0) 21 3028 208
+ Ireland GlaxoSmithKline (Ireland) Ltd Tel:+ 353 (0) 1 4955000
+ Slovenija GlaxoSmithKline d. o. o. Tel:+ 386 (0) 1 280 25 00 medical. x. si@ gsk. com
+ 40 Ísland GlaxoSmithKline ehf. Sími: +354-530 3700
+ Slovenská republika GlaxoSmithKline Slovakia s. r. o. Tel: +421 (0) 2 48 26 11 11 recepcia. sk@ gsk. com
+ Italia GlaxoSmithKline S. p. A. Tel:+ 39 04 59 21 81 11
+ Suomi/Finland GlaxoSmithKline Oy Puh/Tel:+ 358 10 30 30 30 Finland. tuoteinfo@ gsk. com
+ Κύπρος GlaxoSmithKline (Cyprus) Ltd Τηλ:+ 357 22 89 95 01
+ Sverige GlaxoSmithKline AB Tel:+ 46 (0) 8 638 93 00 info. produkt@ gsk. com
+ Latvija GlaxoSmithKline Latvia SIA Tel:+ 371 6 7312687 lv-epasts@ gsk. com
+ United Kingdom GlaxoSmithKline UK Tel:+ 44 (0) 808 100 9997 customercontactuk@ gsk. com
+ Lietuva GlaxoSmithKline Lietuva UAB Tel. +370 5 264 90 00 info. lt@ gsk. com
+ Este folheto foi aprovado pela última vez em
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu/. ------------------------------------------------------------------------------------------------------------------------------
+ A informação que se segue destina-se apenas aos médicos e aos profissionais de saúde:
+ Durante o armazenamento, pode observar-se um depósito branco e sobrenadante límpido. Tal não constitui um sinal de deterioração.
+ A seringa deve ser bem agitada, de modo a obter-se uma suspensão branca, turva e homogénea.
+ A suspensão DTPa-HBV-IPV deve ser inspeccionada visualmente para averiguar a presença de partículas estranhas e/ou a alteração do aspecto físico. Na eventualidade de se observar uma destas situações, desprezar a embalagem.
+ A vacina é reconstituída por adição do conteúdo da seringa ao frasco para injectáveis que contém o pó de Hib. A mistura deve ser depois bem agitada até o pó estar completamente dissolvido.
+ A vacina reconstituída apresenta-se como uma suspensão ligeiramente mais turva que o componente líquido isoladamente. Este é o aspecto normal e não interfere na actuação da vacina. Na eventualidade de se observar alguma alteração, desprezar a vacina.
+ 41 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Infanrix hexa, Pó e suspensão para suspensão injectável Vacina (adsorvida) contra difteria (D), tétano (T), tosse convulsa (componente acelular) (Pa), hepatite B (rADN) (HBV), poliomielite (inactivado) (IPV) e Haemophilus tipo b conjugado (Hib).
+ Leia atentamente este folheto antes de o seu filho receber esta vacina.
+ -Conserve este folheto até o seu filho terminar o esquema de vacinação. Pode ter necessidade de
+ o ler novamente.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Esta vacina foi receitada para o seu filho. Não deve dá-la a outros.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é Infanrix hexa e para que é utilizado 2. Antes de o seu filho receber Infanrix hexa 3. Como é administrado Infanrix hexa 4. Efeitos secundários possíveis 5. Como guardar Infanrix hexa 6. Outras informações
+ 1. O QUE É Infanrix hexa E PARA QUE É UTILIZADO
+ Infanrix hexa é uma vacina usada em crianças para prevenir seis doenças: difteria, tétano, pertussis (tosse convulsa), hepatite B, poliomielite (polio) e Haemophilus influenzae tipo b. A vacina actua causando a produção das próprias defesas do organismo (anticorpos) contra estas doenças.
+ • Difteria: a difteria afecta principalmente as vias aéreas e, por vezes, a pele. Geralmente as vias aéreas ficam inflamadas (inchadas), provocando dificuldades respiratórias e, por vezes, asfixia. A bactéria também liberta uma toxina (veneno) que causa lesões nervosas, problemas cardíacos e mesmo a morte.
+ • Tétano: a bactéria do tétano entra no organismo através de cortes, arranhões ou feridas na pele. As feridas que infectam mais facilmente são as queimaduras, fracturas, feridas profundas ou feridas contaminadas com terra, pó, excrementos de cavalo ou farpas de madeira. A bactéria liberta uma toxina (veneno), que pode causar rigidez muscular, espasmos musculares dolorosos, convulsões e até a morte. Os espasmos musculares podem ser suficientemente fortes para causar fracturas dos ossos da coluna vertebral.
+ • Pertussis (tosse convulsa): a pertussis é uma doença altamente infecciosa. A doença afecta as vias aéreas causando períodos de tosse que podem interferir com a respiração normal. Normalmente a tosse é acompanhada por ruído e é conhecida por tosse de cão. A tosse pode durar 1-2 meses ou mais. A pertussis também pode causar otites, bronquites que podem ser prolongadas, pneumonia, convulsões, lesão cerebral e até a morte.
+ • Hepatite B: é causada pelo vírus da hepatite B. Causa inchaço do fígado (inflamação). O vírus é encontrado nos fluidos corporais, tais como o sangue, o sémen, as secreções vaginais ou a saliva das pessoas infectadas.
+ • Poliomielite (Polio): a poliomielite, por vezes chamada simplesmente “ polio ”, é uma infecção viral que pode ter vários efeitos. Muitas vezes, provoca apenas doença ligeira mas, em algumas pessoas, causa lesão permanente ou mesmo morte. Na sua forma mais grave, a infecção polio causa paralisia dos músculos (não se consegue mover os músculos), incluindo os músculos
+ 42 necessários para respirar ou andar. Os membros afectados por esta doença podem sofrer deformação dolorosa.
+ • Haemophilus influenzae tipo b (Hib): a infecção por Hib causa frequentemente inflamação cerebral (inchaço). Surgem alguns tipos de complicações graves, tais como: atraso mental, paralisia cerebral, surdez, epilepsia ou cegueira parcial. A infecção por Hib também causa inflamação da traqueia. Ocasionalmente, causa morte por asfixia. Menos usualmente, a bactéria também pode infectar o sangue, coração, pulmões, ossos, articulações e tecidos dos olhos e da boca.
+ A vacinação é a melhor forma de protecção contra estas doenças. Nenhum dos componentes da vacina é infeccioso.
+ 2. ANTES DE O SEU FILHO RECEBER Infanrix hexa
+ Infanrix hexa não deve ser administrado: • se o seu filho já teve uma reacção alérgica a Infanrix hexa, ou a qualquer outro componente desta vacina. No final deste folheto, existe uma lista das substâncias activas e outros componentes de Infanrix hexa. Os sinais de alergia incluem erupção cutânea com comichão, dificuldade em respirar e inchaço da face ou da língua. • se o seu filho já teve uma reacção alérgica a qualquer vacina contra difteria, tétano, pertussis (tosse convulsa), hepatite B, poliomietite ou Haemophilus influenzae tipo b. • se o seu filho teve problemas neurológicos nos 7 dias seguintes à administração de uma vacina contendo um componente contra a pertussis (tosse convulsa). • se o seu filho tiver uma infecção grave com temperatura elevada (acima de 38°C). Uma infecção ligeira, tal como uma constipação, não deve ser um problema mas fale primeiro com o médico.
+ Tome especial cuidado com Infarix hexa: • se, após administração anterior de Infanrix hexa ou outra vacina contra a pertussis (tosse convulsa), o seu filho tiver quaisquer problemas, especialmente: ♦ temperatura elevada (acima de 40°C) nas 48 horas seguintes à vacinação ♦ colapso ou estado semelhante ao estado de choque nas 48 horas seguintes à vacinação ♦ choro persistente com duração igual ou superior a 3 horas, nas 48 horas seguintes à vacinação ♦ espasmos/convulsões, com ou sem temperatura, ocorridas no período de 3 dias após vacinação • se o seu filho sofre de uma doença não diagnosticada ou progressiva do cérebro ou de epilepsia não controlada. Após o controlo da doença a vacina deve ser administrada. • se o seu filho tem qualquer problema de coagulação do sangue ou se faz nódoas negras com facilidade • se o seu filho tem tendência a fazer convulsões/espasmos devido a febre ou se existe história familiar desta ocorrência Como com todas as vacinas, Infanrix hexa pode não proteger completamente todos os indivíduos vacinados.
+ Ao utilizar com outros medicamentos ou vacinas Informe o seu médico se a criança estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica, ou se recentemente recebeu outra vacina.
+ Informações importantes sobre alguns componentes de Infanrix hexa Informe o seu médico se a criança já teve uma reacção alérgica à neomicina ou à polimixina (antibióticos).
+ 43 3. COMO É ADMINISTRADO Infanrix hexa
+ O seu filho irá receber um total de duas ou três injecções, com um intervalo de pelo menos um mês entre cada uma. Cada injecção é dada em visitas separadas. O médico ou o enfermeiro irão informá-lo sobre quando deve regressar para as injecções seguintes.
+ Se forem necessárias injecções adicionais ou “ reforços ”, o médico informá-lo-á.
+ Se o seu filho faltar a uma injecção programada, fale com o médico e combine outra visita.
+ Certifique-se que o seu filho completa o esquema de vacinação de três injecções. Caso contrário o seu filho poderá não ficar completamente protegido contra as doenças.
+ O médico irá dar Infanrix hexa como uma injecção no músculo.
+ A vacina nunca deverá ser administrada nos vasos sanguíneos ou dentro da pele.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todos os medicamentos, Infanrix hexa pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ Tal como todas as vacinas injectáveis, existe um risco extremamente pequeno de reacções alérgicas graves(reacções anafilácticas e anafilactóides). Os sinais de reacções alérgicas graves podem ser: • erupções cutâneas que podem ser com comichão ou vesículas • inchaço dos olhos e face • dificuldade em respirar ou em engolir • queda súbita na pressão sanguínea e perda de consciência. Estas reacções ocorrem normalmente antes de sair do consultório médico. Contudo, se a sua criança apresentar algum destes sintomas deve contactar o médico com urgência.
+ Tal como com outras vacinas contra a tosse convulsa, os seguintes efeitos adversos podem ocorrer muito raramente dentro de 2 a 3 dias após a vacinação: • colapso ou períodos de inconsciência ou falta de conhecimento • espasmos ou convulsões com ou sem febre Se a sua criança apresentar algum destes efeitos secundários, deve contactar o médico imediatamente.
+ Os outros efeitos secundários que foram comunicados são:
+ Muito frequentes (Estes podem ocorrer em 1 em cada 10 ou mais doses da vacina) • perda de apetite • febre superior ou igual a 38ºC • inchaço, dor, vermelhidão no local de injecção • cansaço • choro anormal, irritabilidade, inquietação.
+ Frequentes (Estes podem ocorrer até 1 em cada 10 doses da vacina) • diarreia, vómitos • febre superior a 39, 5ºC • inchaço maior que 5 cm no local de injecção, nódulo duro no local de injecção • nervosismo.
+ Pouco frequentes (Estes podem ocorrer até 1 em cada 100 doses da vacina)
+ 44 • sonolência • tosse • grande inchaço no membro onde foi administrada a injecção.
+ Raros (Estes podem ocorrer até 1 em cada 1000 doses da vacina) • Erupções cutâneas.
+ Muito raros (Estes podem ocorrer até 1 em cada 10000 doses da vacina) • gânglios inchados no pescoço, axila e virilha (linfadenopatia) • nos recém-nascidos que nasceram muito prematuramente (antes ou às 28 semanas de gestação) podem ocorrer falhas mais longas que o normal entre respirações, 2-3 dias após a vacinação • inchaço da face, lábios, boca, língua ou garganta que pode causar dificuldade a engolir ou respirar (angioedema) • dermatite • inchaço em todo o membro onde foi administrada a injecção, vesículas no local de injecção
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR Infanrix hexa Manter fora do alcance e da vista das crianças.
+ Não utilizar Infanrix hexa após o prazo de validade impresso na cartonagem. O prazo de validade corresponde ao último dia do mês indicado.
+ Conservar no frigorífico (2ºC – 8ºC). Conservar na embalagem de origem para proteger da luz. Não congelar. A congelação destrói a vacina.
+ Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Infanrix hexa -As substâncias activas são:
+ Toxóide da difteria1 Toxóide do tétano1 Antigénios Bordetella pertussis
+ não menos de 30 UI não menos de 40 UI
+ Toxóide de pertussis1 Hemaglutinina filamentosa1 Pertactina1 Antigénio de superfície da hepatite B2,3 Poliovírus (inactivado)
+ 25 micrograma 25 micrograma 8 micrograma 10 micrograma
+ tipo 1 (estirpe Mahoney) 4 tipo 2 (estirpe MEF-1) 4 tipo 3 (estirpe Saukett) 4
+ 40 unidades de antigénio D 8 unidades de antigénio D 32 unidades de antigénio D
+ Polissacárido de Haemophilus do tipo b (poliribosilribitol fosfato) 3
+ 10 micrograma conjugado com toxóide do tétano como veículo 1
+ 20-40 micrograma adsorvido em hidróxido de alumínio, hidratado (Al(OH) 3) 45 2
+ 0,5 miligrama Al produzido em células de levedura (Saccharomyces cerevisiae) por tecnologia de ADN recombinante 3
+ adsorvido em fosfato de alumínio (AlPO4)
+ 0,32 miligrama Al 4 propagado nas células VERO
+ -Os outros componentes de Infanrix hexa são:
+ Pó de Hib: lactose anidra
+ Suspensão de DTPa-HBV-IPV: cloreto de sódio (NaCl), meio 199 contendo principalmente aminoácidos, sais minerais, vitaminas e água para preparações injectáveis.
+ Qual o aspecto de Infanrix hexa e conteúdo da embalagem
+ Pó e suspensão para suspensão injectável.
+ O componente contra difteria, tétano, tosse convulsa acelular, hepatite B, poliomielite inactivada (DTPa-HBV-IPV) é um líquido branco, ligeiramente leitoso apresentando-se em seringa pré-cheia (0,5 ml).
+ O componente Hib é um pó branco apresentado em frasco de vidro para injectáveis com Bioset®.
+ Ambos os componentes devem ser misturados, antes de o seu filho receber a vacina. O aspecto da mistura é um líquido branco, ligeiramente leitoso.
+ O Infanrix hexa está disponível em embalagens de 1,10,20 e 50 unidades com ou sem agulhas.
+ Nem todas as apresentações se encontram comercializadas.
+ Titular da Autorização de Introdução no Mercado e de Fabrico
+ GlaxoSmithKline Biologicals s. a. Rue de l’ Institut 89 B-1330 Rixensart Bélgica
+ 46 Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado:
+ België/Belgique/Belgien GlaxoSmithKline s. a./n. v. Tél/Tel:+ 32 2 656 21 11
+ Luxembourg/Luxemburg GlaxoSmithKline s. a./n. v. Tél/Tel:+ 32 2 656 21 11
+ България ГлаксоСмитКлайн ЕООД ул. Димитър Манов бл.10 София 1408 Тел.+ 359 2 953 10 34
+ Magyarország GlaxoSmithKline Kft. Tel.:+ 36-1-2255300
+ Česká republika GlaxoSmithKline s. r. o. Tel:+ 420 2 22 00 11 11 gsk. czmail@ gsk. com
+ Malta GlaxoSmithKline Malta Tel:+ 356 21 238131
+ Danmark GlaxoSmithKline Pharma A/S Tlf:+ 45 36 35 91 00 info@ glaxosmithkline. dk
+ Nederland GlaxoSmithKline BV Tel:+ 31 (0) 30 69 38 100 nlinfo@ gsk. com
+ Deutschland GlaxoSmithKline GmbH &amp; Co. KG Tel:+ 49 (0) 89 360448701 produkt. info@ gsk. com
+ Norge GlaxoSmithKline AS Tlf:+ 47 22 70 20 00 firmapost@ gsk. no
+ Eesti GlaxoSmithKline Eesti OÜ Tel: +372 667 6900 estonia@ gsk. com
+ Österreich GlaxoSmithKline Pharma GmbH. Tel:+ 43 1 970 75-0 at. info@ gsk. com
+ Ελλάδα GlaxoSmithKline A. E. B. E Tηλ:+ 30 210 68 82 100
+ Polska GSK Commercial Sp. z. o. o. Tel.:+ 48 (22) 576 9000
+ España GlaxoSmithKline, S. A. Tel:+ 34 902 202 700 es-ci@ gsk. com
+ Portugal Smith Kline &amp; French Portuguesa, Produtos Farmacêuticos, Lda. Tel:+ 351 21 412 95 00 FI. PT@ gsk. com
+ France Laboratoire GlaxoSmithKline Tél:+ 33 (0) 1 39 17 84 44 diam@ gsk. com
+ România GlaxoSmithKline (GSK) SRL Tel: +40 (0) 21 3028 208
+ Ireland GlaxoSmithKline (Ireland) Ltd Tel:+ 353 (0) 1 4955000
+ Slovenija GlaxoSmithKline d. o. o. Tel:+ 386 (0) 1 280 25 00 medical. x. si@ gsk. com
+ 47 Ísland GlaxoSmithKline ehf. Sími: +354-530 3700
+ Slovenská republika GlaxoSmithKline Slovakia s. r. o. Tel: +421 (0) 2 48 26 11 11 recepcia. sk@ gsk. com
+ Italia GlaxoSmithKline S. p. A. Tel:+ 39 04 59 21 81 11
+ Suomi/Finland GlaxoSmithKline Oy Puh/Tel:+ 358 10 30 30 30 Finland. tuoteinfo@ gsk. com
+ Κύπρος GlaxoSmithKline (Cyprus) Ltd Τηλ:+ 357 22 89 95 01
+ Sverige GlaxoSmithKline AB Tel:+ 46 (0) 8 638 93 00 info. produkt@ gsk. com
+ Latvija GlaxoSmithKline Latvia SIA Tel:+ 371 6 7312687 lv-epasts@ gsk. com
+ United Kingdom GlaxoSmithKline UK Tel:+ 44 (0) 808 100 9997 customercontactuk@ gsk. com
+ Lietuva GlaxoSmithKline Lietuva UAB Tel. +370 5 264 90 00 info. lt@ gsk. com
+ Este folheto foi aprovado pela última vez em
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu/. ------------------------------------------------------------------------------------------------------------------------------
+ A informação que se segue destina-se apenas aos médicos e aos profissionais de saúde:
+ Durante o armazenamento, pode observar-se um depósito branco e sobrenadante límpido. Tal não constitui um sinal de deterioração.
+ A seringa deve ser bem agitada, de modo a obter-se uma suspensão branca, turva e homogénea.
+ A suspensão DTPa-HBV-IPV deve ser inspeccionada visualmente para averiguar a presença de partículas estranhas e/ou a alteração do aspecto físico. Na eventualidade de se observar uma destas situações, desprezar a embalagem.
+ O Bioset® é uma tampa especialmente desenhada que simplifica a reconstituição. Faz parte das boas práticas clínicas administrar-se a vacina apenas quanto esta atinge a temperatura ambiente. Além disso, o frasco para injectáveis quando à temperatura ambiente assegura a elasticidade suficiente do fecho de borracha para minimizar a separação de partículas da borracha. Para se o conseguir, o frasco para injectáveis deve ser mantido à temperatura ambiente (25 ± 3ºC) durante pelo menos cinco minutos antes de se fixar a seringa e de reconstituir a vacina. Para a reconstituição, rodar e remover a cobertura da tampa Bioset® e remover a tampa da seringa. Antes de unir a seringa à extremidade do Bioset, deve certificar-se que os dois recipientes estão alinhados (ver Figura 1). Unir a seringa à extremidade do Bioset, rodando-a. Empurrar até um estalido indicar que a seringa se encontra em posição. Injectar o líquido, agitar bem até o pó estar completamente dissolvido. Aspirar a vacina reconstituída de volta para a seringa. Desenroscar a seringa do Bioset®. Inserir a agulha para a administração.
+ 48 A vacina reconstituída apresenta-se como uma suspensão ligeiramente mais turva que o componente líquido isoladamente. Este é o aspecto normal e não interfere na actuação da vacina. Na eventualidade de se observar alguma alteração, desprezar a vacina.
+ 49

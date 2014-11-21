@@ -1,0 +1,821 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. NOME DO MEDICAMENTO
+ Epivir 150 mg comprimidos revestidos por película
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada comprimido revestido por película contém 150 mg de lamivudina.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Comprimidos revestidos por película Comprimidos brancos, em forma de losango, ranhurados com gravação “ GX CJ7 ” em ambas as faces.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Epivir está indicado como parte da terapêutica antirretrovírica de associação para o tratamento de adultos e crianças com infecção pelo vírus da imunodeficiência humana (VIH).
+ 4.2 Posologia e modo de administração A terapêutica deve ser iniciada por um médico experiente no controlo da infecção pelo VIH. Epivir pode ser administrado com ou sem alimentos.
+ Para assegurar a administração integral da dose, o(s) comprimido(s) devem preferencialmente ser tomados inteiros. Para doentes que sejam incapazes de engolir comprimidos, a lamivudina está também disponível em solução oral. Alternativamente, os comprimidos podem ser esmagados e adicionados a uma pequena quantidade de alimentos semi-sólidos ou líquidos, devendo a totalidade dessa mistura ser consumida imediatamente (ver secção 5.2).
+ Adultos e adolescentes de idade superior a 12 anos: a dose recomendada de Epivir é 300 mg, por dia. Esta pode ser administrada como 150 mg duas vezes por dia ou como 300 mg uma vez por dia (ver secção 4.4). Os comprimidos de 300 mg são apenas aplicáveis aos regimes de toma única diária.
+ Os doentes a fazer transição para o regime de toma única diária devem tomar 150 mg duas vezes por dia e mudar para 300 mg uma vez por dia na manhã seguinte. Quando for escolhido o regime de toma única diária nocturna, a primeira toma de 150 mg de Epivir deve ser realizada apenas na primeira manhã, seguida por uma toma de 300 mg nessa noite. Quando se voltar a mudar para o regime de duas tomas diárias, os doentes devem completar os dias de tratamento e começar com 150 mg duas vezes por dia na manhã seguinte.
+ Crianças (com menos de 12 anos): Uma vez que uma dose exacta não pode ser obtida com esta formulação, são recomendadas doses de acordo com intervalos de peso corporal para os comprimidos de Epivir. Este regime posológico para doentes pediátricos com peso entre os 14 – 30 kg é baseado principalmente num modelo farmacocinético, com dados de suporte obtidos em estudos clínicos.
+ Para crianças com um peso de pelo menos 30 kg: deve ser administrada a dose de adulto de 150 mg duas vezes ao dia
+ 2 Para crianças com peso entre 14 e 21 kg: a dose oral recomendada de Epivir (150 mg) é metade de um comprimido ranhurado duas vezes ao dia.
+ Epivir está também disponível em solução oral para crianças com mais de 3 meses e com peso inferior a 14 kg ou para doentes que não conseguem engolir comprimidos.
+ Menos de 3 meses de idade: os dados disponíveis são insuficientes para propor recomendações de dose específicas (ver secção 5.2.)
+ Compromisso renal: as concentrações de lamivudina estão aumentadas em doentes com compromisso renal moderada a grave devido a diminuição da depuração. A dose por conseguinte deve ser ajustada, utilizando a solução oral de Epivir, em doentes cuja depuração da creatinina diminua para valores inferiores a 30 ml/min. (ver quadros).
+ Posologia recomendada-Adultos e adolescentes com pelo menos 30 kg:
+ Depuração da creatinina (ml/min)
+ Primeira dose Dose de manutenção ≥50 30 a &lt; 50
+ 150 mg 150 mg 150 mg duas vezes por dia 150 mg uma vez por dia
+ &lt; 30 Se forem necessárias doses inferiores a 150 mg, recomenda-se utilização da solução oral
+ Não está disponível informação sobre a utilização da lamivudina em crianças com compromisso renal. Assumindo que a depuração da creatinina e da lamivudina estão correlacionadas de forma semelhante em crianças e adultos, recomenda-se que a dose seja reduzida em crianças com compromisso renal de acordo com a depuração da creatinina, na mesma proporção que em adultos.
+ Posologia recomendada-Crianças com pelo menos 3 meses e com peso inferior a 30 kg:
+ Depuração da creatinina (ml/min)
+ Primeira dose Dose de manutenção ≥50 30 a &lt; 50 15 a &lt; 30 5 a &lt; 15 &lt; 5
+ 4 mg/kg 4 mg/kg 4 mg/kg 4 mg/kg 1,3 mg/kg
+ 4 mg/kg duas vezes por dia 4 mg/kg uma vez por dia 2,6 mg/kg uma vez por dia 1,3 mg/kg uma vez por dia 0,7 mg/kg uma vez por dia
+ Compromisso hepático: a informação obtida em doentes com compromisso hepático moderado a grave demonstra que a farmacocinética da lamivudina não é significativamente afectada pela disfunção hepática. Com base nestes dados, não é necessário ajuste da dose em doentes com compromisso hepático moderado a grave, a não ser que acompanhada por compromisso renal.
+ 4.3 Contra-indicações Hipersensibilidade à substância activa ou a qualquer dos excipientes.
+ 4.4 Advertências e precauções especiais de utilização
+ Epivir não é recomendado para utilização em monoterapia.
+ Compromisso renal: Em doentes com compromisso renal moderado a grave, o tempo de semi-vida plasmática terminal da lamivudina está aumentado devido à diminuição da depuração, portanto, a dose deve ser ajustada (ver secção 4.2).
+ 3 Terapêutica nucleósida tripla: Tem havido relatos de uma elevada taxa de falência virológica e de aparecimento de resistência, num estadio inicial, quando a lamivudina foi associada com tenofovir disoproxil fumarato e abacavir, assim como com tenofovir disoproxil fumarato e didanosina, num regime uma vez dia.
+ Infecções oportunistas: Os doentes que recebem tratamento com Epivir ou qualquer outra terapêutica antirretrovírica podem continuar a desenvolver infecções oportunistas e outras complicações relacionadas com a infecção pelo VIH, devendo por isso permanecer sob cuidadosa observação clínica por médicos experientes no tratamento de doentes com doenças associadas ao VIH.
+ Transmissão do VIH: Os doentes devem ser advertidos de que a terapêutica antirretrovírica actual, incluindo Epivir, não provou prevenir o risco de transmissão do VIH a outras pessoas através do contacto sexual ou transmissão através do sangue. Deverão continuar a tomar as precauções adequadas.
+ Pancreatite: ocorreram raramente casos de pancreatite. No entanto, não está claro se foram devidos ao tratamento antirretrovírico ou à doença VIH subjacente. O tratamento com Epivir deve ser suspenso imediatamente se surgirem sinais clínicos, sintomas ou anomalias laboratoriais sugestivas de pancreatite.
+ Acidose láctica: foram notificados casos de acidose láctica geralmente associados a hepatomegalia e esteatose hepática, com a utilização de análogos de nucleósidos. Os sintomas precoces (hiperlactatemia sintomática) incluem: sintomas digestivos benignos (náuseas, vómitos e dor abdominal), mal-estar não específico, perda de peso e de apetite, sintomas respiratórios (respiração rápida e/ou profunda) ou sintomas neurológicos (incluindo fraqueza motora).
+ A acidose láctica conduz a uma elevada taxa de mortalidade e pode estar associada a pancreatite, falência hepática ou falência renal.
+ Geralmente a acidose láctica ocorreu alguns a vários meses após início do tratamento.
+ O tratamento com análogos de nucleósidos deve ser descontinuado caso se estabeleça hiperlactatemia sintomática e acidose láctica/metabólica, hepatomegalia progressiva ou um aumento rápido dos níveis de transaminases.
+ Deve tomar-se precaução especial na administração de análogos de nucleósidos a qualquer doente (particularmente mulheres obesas) com hepatomegalia, hepatite ou outros factores de risco conhecidos para doença hepática e esteatose hepática (incluindo administração de alguns fármacos e álcool). Os doentes com co-infecção hepatite C e tratados com interferão alfa e ribavirina podem constituir um grupo especial de risco.
+ Devem ser seguidos cuidadosamente os doentes de maior risco.
+ Disfunção mitocondrial: Os análogos dos nucleósidos e nucleótidos demonstraram causar, in vitro e in vivo, lesões mitrocondriais de grau variável. Existem notificações de disfunção mitocondrial em lactentes VIH negativos, expostos in utero e/ou após o nascimento a análogos dos nucleósidos. Os principais acontecimentos adversos notificados são afecções hematológicas (anemia, neutropenia), doenças metabólicas (hiperlactatemia, hiperlipasemia). Estes acontecimentos são geralmente transitórios. Foram notificadas algumas afecções neurológicas de início tardio (hipertonia, convulsões, comportamento anormal). Desconhece-se até ao momento se as afecções neurológicas são transitórias ou permanentes. Qualquer criança exposta in utero a análogos dos nucleósidos e nucleótidos, mesmo as crianças VIH negativas, deverá ter seguimento clínico e laboratorial e, em caso de sinais ou sintomas relevantes, deve ser investigada quanto à possibilidade de disfunção mitocondrial. Estes resultados não alteram as recomendações nacionais actuais quanto à utilização de terapêutica antirretrovírica em mulheres grávidas, para prevenir a transmissão vertical do VIH.
+ Lipodistrofia: A terapêutica de associação antirretrovírica foi associada com a redistribuição do tecido adiposo corporal (lipodistrofia) em doentes infectados pelo VIH. As consequências a longo prazo 4 deste efeito são actualmente desconhecidas. O conhecimento sobre o mecanismo é incompleto. Foi colocada a hipótese de existir uma relação entre a lipomatose visceral, os inibidores da protease(IPs), a lipoatrofia e os nucleósidos inibidores da transcriptase reversa (NRTIs). Um risco acrescido de lipodistrofia foi associado com factores individuais, tais como a idade avançada, e com factores relacionados com o fármaco, como a longa duração da terapêutica antirretrovírica e as alterações metabólicas associadas. O exame clínico deve incluir a avaliação dos sinais físicos da redistribuição do tecido adiposo. Deverá considerar-se a medição dos níveis de lípidos séricos e da glicémia em jejum. As alterações lipídicas devem ser tratadas de modo clinicamente apropriado (ver secção 4.8).
+ Síndrome de Reactivação Imunológica: em doentes infectados pelo VIH com deficiência imunológica grave à data da instituição da terapêutica antiretroviral combinada (TARC), pode ocorrer uma reacção inflamatória a infecções oportunistas assintomáticas ou residuais e causar várias situações clínicas graves, ou o agravamento dos sintomas. Tipicamente, estas reacções foram observadas durante as primeiras semanas ou meses após início da TARC. São exemplos relevantes a retinite por citomegalovírus, as infecções micobacterianas generalizadas e/ou focais e a pneumonia por Pneumocystis carinii. Qualquer sintoma de inflamação deve ser avaliado e, quando necessário, instituído o tratamento.
+ Doença hepática: Caso a lamivudina esteja a ser utilizada concomitantemente para o tratamento do VIH e VHB, está disponível informação adicional sobre a utilização da lamivudina no tratamento da hepatite B no RCM de Zeffix.
+ Os doentes com hepatite B ou C crónica e tratados com terapêutica de associação antirretrovírica têm um risco acrescido de acontecimentos adversos hepáticos graves e potencialmente fatais. No caso de terapêutica concomitante antivírica para a hepatite B ou C, consultar a informação relevante para estes medicamentos.
+ Caso Epivir seja interrompido em doentes coinfectados pelo vírus da hepatite B, recomenda-se a monitorização periódica dos testes da função hepática e dos marcadores de replicação do VHB, uma vez que a interrupção da lamivudina pode resultar em exacerbação aguda da hepatite (ver RCM de Zeffix).
+ Os doentes com disfunção hepática preexistente, incluindo hepatite crónica activa, têm um aumento da frequência de anomalias da função hepática durante a terapêutica de associação antirretrovírica e devem ser monitorizados de acordo com a prática padronizada. Se se verificar nestes doentes um agravamento da doença hepática, deverá ser considerada a interrupção ou descontinuação do tratamento (ver secção 4.8).
+ Osteonecrose: Foram notificados casos de osteonecrose, particularmente em doentes com doença por VIH avançada e/ou exposição prolongada a terapêutica anti-retroviral combinada (TARC), apesar da etiologia ser considerada multifactorial (incluindo a utilização de corticosteróides, o consumo de álcool, a imunossupressão grave, um índice de massa corporal aumentado). Os doentes devem ser instruídos a procurar aconselhamento médico caso sintam mal-estar e dor articular, rigidez articular ou dificuldade de movimentos.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Os estudos de interacção só foram realizados em adultos.
+ A lamivudina poderá inibir a fosforilação intracelular da zalcitabina quando os dois medicamentos forem utilizados concomitantemente. Portanto, não se recomenda a utilização de Epivir em associação a zalcitabina.
+ A administração concomitante de lamivudina com ganciclovir intravenoso ou foscarnet não é recomendada.
+ 5 A probabilidade de interacções metabólicas é baixa devido aos limitados metabolismo e ligação às proteínas plasmáticas e à quase completa depuração renal.
+ A administração de trimetoprim/sulfametoxazol,160 mg/800 mg, resulta num aumento de 40% na exposição à lamivudina, devido ao componente trimetoprim; o componente sulfametoxazol não interagiu. No entanto, a menos que o doente tenha compromisso renal, não é necessário ajuste da dose de lamivudina (ver secção 4.2). A lamivudina não tem efeito na farmacocinética do trimetoprim ou do sulfametoxazol. Quando a administração concomitante é justificada, os doentes devem ser monitorizados clinicamente. A administração concomitante de lamivudina com doses elevadas de cotrimoxazol para o tratamento da pneumonia a Pneumocystis carinii (PPc) e da toxoplasmose deve ser evitada.
+ Deve considerar-se a possibilidade de interacção com outros medicamentos administrados concomitantemente, particularmente quando a principal via de eliminação é a secreção renal activa através do sistema de transporte catiónico orgânico, por ex. trimetoprim. Outros medicamentos (por ex. ranitidina, cimetidina) são eliminados apenas em parte por este mecanismo e mostraram não interagir com a lamivudina. Os análogos de nucleósido (por ex. didanosina e zalcitabina) como a zidovudina, não são eliminados por este mecanismo, não sendo provável a sua interacção com a lamivudina.
+ Observou-se um ligeiro aumento na Cmax (28%) da zidovudina quando administrada com lamivudina, no entanto a exposição total (AUC) não é significativamente alterada. A zidovudina não tem efeito na farmacocinética da lamivudina (ver secção 5.2).
+ O metabolismo da lamivudina não envolve o CYP3A, pelo que são pouco prováveis as interacções com medicamentos metabolizados por este sistema (por ex. PIs).
+ 4.6 Gravidez e aleitamento Gravidez: não foi estabelecida a segurança da lamivudina na mulher grávida. Os estudos de reprodução no animal não mostraram evidência de teratogenicidade nem efeitos na fertilidade masculina ou feminina. A lamivudina induziu letalidade embrionária precoce quando administrada a coelhas grávidas em níveis de exposição comparáveis aos atingidos no ser humano. No ser humano, em consistência com a transmissão passiva da lamivudina através da placenta, as concentrações séricas de lamivudina no recém-nascido foram semelhantes às obtidas no soro materno e cordão umbilical durante o parto.
+ Apesar de os estudos de reprodução animal nem sempre serem previsíveis da resposta no ser humano, não é recomendada a administração durante os três primeiros meses de gravidez.
+ Aleitamento: após administração oral, a lamivudina foi excretada no leite humano em concentrações semelhantes às obtidas no soro. Como a lamivudina e o vírus passam para o leite, recomenda-se que as mães a tomar Epivir não amamentem os seus filhos. Recomenda-se que as mulheres infectadas pelo VIH não amamentem os seus filhos sob qualquer circunstância de modo a evitar a transmissão do VIH.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas.
+ 4.8 Efeitos indesejáveis Foram notificadas as seguintes reacções adversas durante a terapêutica com Epivir na infecção pelo VIH.
+ 6 As reacções adversas consideradas no mínimo com nexo de causalidade possível com o tratamento estão listados abaixo, segundo a classificação por sistema orgânico, classe de órgão e frequência absoluta. Estas frequências estão definidas como Muito Frequentes (&gt; 1/10), Frequentes (&gt; 1/100, &lt; 1/10), Pouco frequentes (&gt; 1/1000, &lt; 1/100), Raros (&gt; 1/10000, &lt; 1/1000) e Muito raros (&lt; 1/10000). Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ Doenças do sangue e do sistema linfático Pouco frequentes: Neutropenia e anemia (ambas ocasionalmente graves), trombocitopenia Muito raros: Aplasia pura a células vermelhas
+ Doenças do sistema nervoso Frequentes: Cefaleias, insónias Muito raros: Neuropatia periférica (ou parestesia)
+ Doenças respiratórias, torácicas e do mediastino Frequentes: Tosse, sintomas nasais Doenças gastrintestinais Frequentes: Náuseas, vómitos, dor abdominal ou cólicas, diarreia Raros: Pancreatite. Elevação da amilase sérica.
+ Afecções hepatobiliares Pouco frequentes: Elevação transitória das enzimas hepáticas (AST, ALT) Raros: Hepatite
+ Afecções dos tecidos cutâneos e subcutâneas Frequentes: Erupções cutâneas, alopecia
+ Afecções musculosqueléticas e dos tecidos conjuntivos Frequentes: Artralgia, alterações musculares Raros: Rabdomiólise
+ Perturbações gerais e alterações no local de administração Frequentes: fadiga, mal-estar geral, febre
+ Foram notificados casos de acidose láctica, por vezes fatais, normalmente associada com hepatomegalia grave e esteatose hepática, com a utilização de análogos de nucleósido (ver secção 4.4).
+ A terapêutica de associação antirretrovírica foi associada à redistribuição do tecido adiposo corporal (lipodistrofia) em doentes infectados pelo VIH, incluindo a perda da camada adiposa subcutânea periférica e facial, aumento de tecido adiposo intra-abdominal e visceral, hipertrofia mamária e acumulação de gordura dorsocervical (nuca de búfalo).
+ A terapêutica de associação antirretrovírica foi associada a alterações metabólicas, tais como hipertrigliceridemia, hipercolesterolemia, resistência à insulina, hiperglicemia e hiperlactacidemia (ver secção 4.4).
+ Em doentes infectados pelo VIH com deficiência imunológica grave à data de início da terapêutica antiretroviral combinada (TARC), pode ocorrer uma reacção inflamatória a infecções oportunistas assintomáticas ou residuais (ver secção 4.4).
+ Foram notificados casos de osteonecrose, particularmente em doentes com factores de risco identificados, doença por VIH avançada ou exposição prolongada a terapêutica anti-retroviral combinada (TARC). A sua frequência é desconhecida (ver secção 4.4).
+ 4.9 Sobredosagem 7 Nos estudos de toxicidade aguda no animal, a administração de doses muito elevadas de lamivudina não provocou toxicidade em qualquer órgão. É limitada a informação disponível sobre as consequências da sobredosagem aguda no ser humano. Não ocorreram mortes e os doentes recuperaram. Não se identificaram sinais ou sintomas específicos após tais sobredosagens.
+ Se ocorrer sobredosagem, o doente deve ser monitorizado procedendo-se ao tratamento de suporte padrão conforme necessário. Visto que a lamivudina é dialisável, a hemodiálise contínua poderia ser utilizada no tratamento da sobredosagem, embora esta hipótese não tenha sido estudada.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: análogo de nucleósido, Código ATC-J05AF05.
+ A lamivudina é um análogo de nucleósido com actividade contra os vírus da imunodeficiência humana (VIH) e hepatite B (VHB). A lamivudina é metabolizada intracelularmente com formação da fracção activa, lamivudina 5 ’-trifosfato. O seu principal mecanismo de acção é como terminador de cadeia resultante da transcrição reversa vírica. A forma trifosfatada tem uma actividade inibidora selectiva da replicação in vitro do VIH-1 e do VIH-2, sendo também activa contra estirpes de VIH de isolados clínicos resistentes à zidovudina. A lamivudina em combinação com a zidovudina mostra actividade de sinergismo anti-VIH contra estirpes de isolados clínicos em cultura celular.
+ A resistência do VIH-1 à lamivudina relaciona-se com desenvolvimento de uma alteração do amino-ácido M184V, próximo do sítio activo da transcriptase reversa vírica (RT). Esta variante surge quer in vitro quer em doentes com infecção pelo VIH-1 tratados com terapêutica antirretrovírica contendo lamivudina. Os mutantes M184V mostram susceptibilidade muito reduzida à lamivudina e mostram capacidade replicativa vírica diminuída in vitro. Os estudos in vitro indicam que os isolados de estirpes víricas resistentes à zidovudina podem tornar-se sensíveis a esta quando adquirem simultaneamente resistência à lamivudina. A relevância clínica destes resultados permanece pouco definida.
+ Dados in vitro, sugerem que a continuação da lamivudina no regime anti-retroviral, apesar do desenvolvimento de M184V, pode originar actividade anti-retroviral residual (provavelmente através de compromisso da replicação viral). A relevância clínica destes dados não foi estabelecida. De facto, os dados clínicos disponíveis são muito limitados e impedem quaisquer conclusões fiáveis neste campo. De qualquer forma, deve ser sempre preferida a iniciação de NRTIs susceptíveis, à manutenção da terapêutica com lamivudina. Assim, a manutenção da terapêutica com lamivudina, apesar da emergência da mutação M184V, apenas deve ser considerada em casos onde não estão disponíveis outros NRTIs activos.
+ A resistência cruzada conferida pela transcriptase reversa M184V é limitada aos compostos antirretrovíricos da classe dos inibidores nucleósidos. A zidovudina e a estavudina mantêm a sua actividade antirretrovírica contra o VIH-1 resistente à lamivudina. O abacavir mantém a sua actividade antirretrovírica contra o VIH-1 resistente à lamivudina com mutação única M184V. O mutante com transcriptase reversa M184V mostra uma diminuição de susceptibilidade, &lt; 4 vezes, à didanosina e zalcitabina. O significado clínico deste acontecimento é desconhecido. Os testes de susceptibilidade in vitro não têm sido padronizados e os resultados podem variar de acordo com factores metodológicos.
+ A lamivudina demonstrou ser pouco citotóxica para os linfócitos periféricos, para as linhas celulares estabelecidas de linfócitos e monócitos-macrófagos, e para uma variedade de progenitores celulares na medula óssea in vitro.
+ Experiência clínica: Os ensaios clínicos com lamivudina associada a zidovudina têm mostrado reduzir a carga vírica VIH-1 e aumentar o número de células CD4. Os parâmetros de avaliação clínica indicam que a lamivudina
+ 8 em associação com a zidovudina resulta numa redução significativa do risco de progressão da doença e mortalidade.
+ Os ensaios clínicos evidenciam que a lamivudina associada à zidovudina retarda a emergência de isolados resistentes à zidovudina em doentes sem terapêutica antirretrovírica prévia.
+ A lamivudina tem sido amplamente utilizada como um componente da terapêutica de associação antirretrovírica com outros compostos antirretrovíricos da mesma classe (NRTIs) ou diferentes classes (inibidores não nucleósidos da transcriptase reversa e PIs).
+ A terapêutica antirretrovírica múltipla contendo lamivudina tem mostrado ser efectiva nos doentes sem tratamento prévio antirretrovírico, assim como em doentes apresentando viroses contendo a mutação M184V.
+ A relação entre a susceptibilidade in vitro do VIH à lamivudina e a resposta clínica à terapêutica contendo lamivudina permanece em estudo.
+ A lamivudina na dosagem de 100 mg uma vez por dia mostrou igualmente ser efectiva para o tratamento de doentes adultos com infecção crónica VHB (para mais detalhes sobre os ensaios clínicos, ver o Resumo das Características do Medicamento de Zeffix). Contudo, para o tratamento da infecção pelo VIH apenas 300 mg por dia de lamivudina (em associação com outros compostos antirretrovíricos) mostraram ser eficazes.
+ A lamivudina não tem sido especialmente estudada em doentes co-infectados pelo VIH e VHB.
+ Toma única diária (300 mg uma vez por dia): um ensaio clínico demonstrou não existir inferioridade entre o regime de Epivir em toma única diária e Epivir em duas tomas diárias. Estes resultados foram obtidos numa população sem tratamento prévio com antirretrovíricos, principalmente constituída por doentes assintomáticos com infecção pelo VIH (CDC estadio A).
+ 5.2 Propriedades farmacocinéticas Absorção: a lamivudina é bem absorvida a partir do tracto gastrintestinal e a sua biodisponibilidade oral em adultos varia normalmente entre 80 e 85%. Após administração oral, o tempo médio (tmax) para as concentrações séricas máximas (Cmax) é de aproximadamente uma hora. Com base em dados retirados de um estudo em voluntários saudáveis, com doses terapêuticas de 150 mg duas vezes por dia, as Cmax e Cmin médias (CV) no estado estacionário da lamivudina no plasma são de 1,2 µg/ml (24%) e 0,09 µg/ml (27%), respectivamente. A AUC média (CV) num intervalo posológico de 12 h é de 4,7 µg. h/ml (18%). Com doses terapêuticas de 300 mg uma vez por dia, as Cmax, Cmin e AUC de 24 h médias (CV) no estado estacionário são de 2,0 µg/ml (26%), 0,04 µg/ml (34%) e 8,9 µg. h/ml (21%), respectivamente.
+ Os comprimidos de 150 mg são bioequivalentes e de dosagem proporcional aos comprimidos de 300 mg, relativamente à AUC∞, Cmax e tmax.
+ A administração de lamivudina com alimentos resulta num atraso do tmax e numa Cmax inferior (redução de 47%). No entanto, o grau (com base na AUC) de absorção da lamivudina não é influenciado.
+ Não se espera que a administração de comprimidos esmagados com uma pequena quantidade de alimentos semi-sólidos ou líquidos afecte a sua qualidade farmacêutica e, consequentemente, não se espera que altere o seu efeito clínico. Esta conclusão é baseada nos dados físico-químicos e farmacocinéticos, assumindo-se que o doente esmaga e transfere 100% do comprimido e que o ingere imediatamente.
+ A administração concomitante de zidovudina resulta num aumento de 13% na exposição à zidovudina e num aumento de 28% nos níveis plasmáticos máximos. Este facto não é considerado significativo para a segurança do doente e como tal não é necessário ajuste da dose.
+ 9 Distribuição: em ensaios clínicos de administração intravenosa, o volume de distribuição médio é de 1,3 l/kg. O tempo de semi-vida de eliminação observado é de 5 a 7 horas. A depuração sistémica média da lamivudina é de aproximadamente 0,32 l/h/kg, com predominância da depuração renal (&gt; 70%) através do sistema de transporte catiónico orgânico.
+ A lamivudina exibe uma farmacocinética linear em toda a gama de doses terapêuticas e apresenta baixa ligação à principal proteína plasmática, albumina (&lt; 16%-36% à albumina sérica em estudos in vitro).
+ Alguns dados mostram que a lamivudina penetra no sistema nervoso central e atinge o líquido cefalorraquidiano (LCR). A razão média LCR/concentração sérica de lamivudina, 2-4 horas após administração oral, foi aproximadamente 0,12. Desconhece-se o verdadeiro grau de penetração ou relação com qualquer eficácia clínica.
+ Metabolismo: a fracção activa, trifosfato de lamivudina intracelular, tem um tempo de semi-vida terminal prolongado na célula (16 a 19 horas), comparativamente ao tempo de semi-vida plasmática da lamivudina (5 a 7 horas). Em 60 voluntários adultos saudáveis, o Epivir 300 mg, uma vez por dia, demonstrou ser farmacocineticamente equivalente, no estado de equilíbrio, ao Epivir 150 mg, duas vezes por dia, relativamente à AUC24 e Cmax do trifosfato intracelular.
+ A lamivudina é predominantemente eliminada na forma inalterada por excreção renal. A probabilidade de interacções metabólicas entre a lamivudina e outros medicamentos é baixa devido ao pequeno grau de metabolismo hepático (5-10%) e à baixa ligação às proteínas plasmáticas.
+ Eliminação: ensaios clínicos em doentes com compromisso renal mostram que a eliminação da lamivudina é afectada pela disfunção renal. O regime posológico recomendado para doentes com depuração da creatinina inferior a 50 ml/min está indicado na secção da posologia (ver secção 4.2).
+ A interacção com trimetoprim, um componente do cotrimoxazol, provoca um aumento de 40% na exposição à lamivudina em doses terapêuticas. Este facto não requer ajuste da dose a menos que o doente sofra também de compromisso renal (ver secções 4.5 e 4.2). A administração de cotrimoxazol com lamivudina em doentes com compromisso renal deverá ser cuidadosamente avaliada.
+ Farmacocinética na criança: em geral, a farmacocinética da lamivudina em doentes pediátricos é semelhante à dos adultos. No entanto, a biodisponibilidade absoluta (aproximadamente 55-65%) estava diminuída em doentes pediátricos de idade inferior a 12 anos. Além disso, os valores da depuração sistémica foram superiores em doentes pediátricos mais jovens e diminuíram com a idade, aproximando-se dos valores dos adultos cerca dos 12 anos de idade. Devido a estas diferenças, a dose de lamivudina recomendada para crianças (com mais de três meses e com peso inferior a 30 kg) é de 4 mg/kg duas vezes dia. Esta dose induzirá uma AUC0-12 média aproximadamente na ordem dos 3800 a 5300 ng. h/ml. Dados recentes indicam que a exposição em crianças com idade inferior a 6 anos, pode ser reduzida em cerca de 30%, comparativamente com outros grupos etários. Presentemente, são aguardados dados adicionais relativamente a este assunto. Presentemente, os dados disponíveis não sugerem que a lamivudina seja menos eficaz neste grupo etário.
+ Os dados farmacocinéticos em doentes de idade inferior a três meses são limitados. Em recém-nascidos com uma semana de idade, a depuração oral da lamivudina estava diminuída em comparação com doentes pediátricos, provavelmente devido à função renal imatura e à absorção variável. Portanto, para atingir exposição semelhante em adultos e doentes pediátricos, a dose recomendada para recém-nascidos é de 4 mg/kg por dia. Os valores estimados para a filtração glomerular sugerem que a dose recomendada em crianças de idade igual ou superior a seis semanas poderá ser de 8 mg/kg por dia, para que se obtenha uma exposição semelhante em adultos e doentes pediátricos.
+ Farmacocinética na gravidez: após administração oral, a farmacocinética da lamivudina na fase final da gravidez foi semelhante à de mulheres não grávidas.
+ 10 5.3 Dados de segurança pré-clínica
+ Em estudos de toxicidade animal, a administração de lamivudina em doses elevadas não foi associada a toxicidade major em qualquer órgão. Nas doses mais elevadas, foram observados efeitos menores nos indicadores da função hepática e renal em conjunto com redução ocasional do peso do fígado. Os efeitos clinicamente relevantes observados foram diminuição do número de glóbulos vermelhos e neutropenia.
+ A lamivudina não foi mutagénica nos testes bacterianos no entanto, como muitos análogos de nucleósido, mostrou actividade num ensaio citogenético in vitro e no ensaio do linfoma no ratinho. A lamivudina não foi genotóxica in vivo em doses que originaram concentrações plasmáticas cerca de 40-50 vezes superiores aos níveis plasmáticos clínicos previstos. Como a actividade mutagénica in vitro da lamivudina não pôde ser confirmada nos testes in vivo, conclui-se que a lamivudina não deve representar perigo genotóxico para doentes em tratamento.
+ Um estudo genotóxico transplacentário conduzido em macacos comparou a zidovudina isoladamente com a associação zidovudina e lamivudina, em níveis de exposições equivalentes à humana. Este estudo demonstrou que fetos expostos in utero à associação retiveram um maior nível de incorporação do análogo do nucleósido no ADN em múltiplos órgãos fetais e demonstrou evidência de um maior encurtamento do telómero do que nos expostos à zidovudina isolada. Desconhece-se o significado clínico destes resultados.
+ Os resultados dos estudos de carcinogenicidade a longo prazo no rato e ratinho não demonstraram qualquer potencial carcinogénico relevante para o ser humano.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Núcleo do comprimido: Celulose microcristalina (E460) Amidoglicolato de sódio Estearato de magnésio
+ Revestimento do comprimido: Hipromelose (E464) Dióxido de titânio (E171) Macrogol Polissorbato 80.
+ 6.2 Incompatibilidades Não aplicável. 6.3 Prazo de validade Embalagens com frasco de HDPE 5 anos. Embalagens com blisters de alumínio/PVC 2 anos. 6.4 Precauções especiais de conservação
+ Não conservar acima de 30°C. 11 6.5 Natureza e conteúdo do recipiente
+ Embalagens contendo 60 comprimidos em frasco de polietileno de alta densidade (HDPE), com fecho resistente à abertura por crianças ou em blisters de folha de alumínio/PVC.
+ 6.6 Precauções especiais de eliminação Não existem requisitos especiais. 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Glaxo Group Limited Greenford Road Greenford Middlesex UB6 0NN Reino Unido
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/96/015/001 (Embalagens com frasco) EU/1/96/015/004 (Embalagens com blisters)
+ 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 08 de Agosto de 1996 Data da última renovação: 28 de Julho de 2006
+ 10. DATA DA REVISÃO DO TEXTO Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu
+ 12 1. NOME DO MEDICAMENTO
+ Epivir 10 mg/ml solução oral 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada ml de solução oral contém 10 mg de lamivudina.
+ Excipientes: Sacarose 20% (3 g/15 ml) Para-hidroxibenzoato de metilo Para-hidroxibenzoato de propilo
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Solução oral. Solução límpida, incolor a amarelo pálido.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Epivir está indicado como parte da terapêutica antirretrovírica de associação para o tratamento de adultos e crianças com infecção pelo vírus da imunodeficiência humana (VIH).
+ 4.2 Posologia e modo de administração A terapêutica deve ser iniciada por um médico experiente no controlo da infecção pelo VIH.
+ Adultos e adolescentes de idade superior a 12 anos: a dose recomendada de Epivir é de 300 mg por dia. Esta pode ser administrada como 150 mg (15 ml) duas vezes por dia ou como 300 mg (30 ml) uma vez por dia (ver secção 4.4).
+ Os doentes a fazer transição para o regime de toma única diária devem tomar 150 mg (15 ml) duas vezes por dia e mudar para 300 mg (30 ml) uma vez por dia na manhã seguinte. Quando for escolhido o regime de toma única diária nocturna, a primeira toma de 150 mg (15 ml) de Epivir deve ser realizada apenas na primeira manhã, seguida por uma toma de 300 mg (30 ml) nessa noite. Quando se voltar a mudar para o regime de duas tomas diárias, os doentes devem completar os dias de tratamento e começar com 150 mg (15 ml) duas vezes por dia na manhã seguinte.
+ Crianças: Três meses a 12 anos de idade: a dose recomendada é de 4 mg/kg duas vezes por dia até ao máximo de 300 mg por dia.
+ Idade inferior a 3 meses: a informação disponível é limitada e insuficiente para propor recomendações posológicas específicas (ver secção 5.2).
+ Epivir está também disponível em comprimidos. Epivir pode ser administrado com ou sem alimentos. 13 Compromisso Renal: as concentrações de lamivudina estão aumentadas em doentes com insuficiência renal moderada a grave devido à diminuição da depuração. A dose deve por conseguinte ser ajustada (ver quadros).
+ Posologia recomendada-Adultos e adolescentes de idade superior a 12 anos:
+ Depuraçãoda creatinina (ml/min)
+ Primeira dose Dose de manutenção ≥50 30 a &lt; 50 15 a &lt; 30 5 a &lt; 15 &lt; 5
+ 150 mg (15 ml) 150 mg (15 ml) 150 mg (15 ml) 150 mg (15 ml) 50 mg (5 ml)
+ 150 mg (15 ml) duas vezes por dia 150 mg (15 ml) uma vez por dia 100 mg (10 ml) uma vez por dia 50 mg (5 ml) uma vez por dia 25 mg (2,5 ml) uma vez por dia
+ Não está disponível informação sobre a utilização da lamivudina em crianças com compromisso renal. Assumindo que a depuração de creatinina e de lamivudina estão correlacionadas de forma semelhante em crianças e adultos, recomenda-se que a dose seja reduzida em crianças com compromisso renal de acordo com a depuração da creatinina, na mesma proporção que em adultos.
+ Posologia recomendada-Crianças de 3 meses a 12 anos de idade:
+ Depuração da creatinina (ml/min)
+ Primeira dose Dose de manutenção ≥50 30 a &lt; 50 15 a &lt; 30 5 a &lt; 15 &lt; 5
+ 4 mg/kg 4 mg/kg 4 mg/kg 4 mg/kg 1,3 mg/kg
+ 4 mg/kg duas vezes por dia 4 mg/kg uma vez por dia 2,6 mg/kg uma vez por dia 1,3 mg/kg uma vez por dia 0,7 mg/kg uma vez por dia
+ Compromisso hepático: a informação obtida em doentes com compromisso hepático moderado a grave, demonstra que a farmacocinética da lamivudina não é significativamente afectada pela disfunção hepática. Com base nestes dados, não é necessário ajuste da dose em doentes com compromisso hepático moderado a grave, a não ser que acompanhada por compromisso renal.
+ 4.3 Contra-indicações Hipersensibilidade à substância activa ou a qualquer dos excipientes.
+ 4.4 Advertências e precauções especiais de utilização
+ Epivir não é recomendado para utilização em monoterapia.
+ Compromisso renal: Em doentes com compromisso renal moderada a grave, o tempo de semi-vida plasmática terminal da lamivudina está aumentado devido a diminuição da depuração, portanto, a dose deve ser ajustada (ver secção 4.2).
+ Terapêutica nucleósida tripla: Tem havido relatos de uma elevada taxa de falência virológica e de aparecimento de resistência, num estadio inicial, quando a lamivudina foi associada com tenofovir disoproxil fumarato e abacavir, assim como com tenofovir disoproxil fumarato e didanosina, num regime uma vez dia.
+ Infecções oportunistas: Os doentes que recebem tratamento com Epivir ou qualquer outra terapêutica antirretrovírica podem continuar a desenvolver infecções oportunistas e outras complicações
+ 14 relacionadas com a infecção pelo VIH, devendo por isso permanecer sob cuidadosa observação clínica por médicos experientes no tratamento de doentes com doenças associadas ao VIH.
+ Transmissão do VIH: Os doentes devem ser advertidos de que a terapêutica antirretrovírica actual, incluindo Epivir, não provou prevenir o risco de transmissão do VIH a outras pessoas através do contacto sexual ou transmissão através do sangue. Deverão continuar a tomar as precauções adequadas.
+ Pancreatite: ocorreram raramente casos de pancreatite. No entanto, não está claro se foram devidos ao tratamento antirretrovírico ou à doença VIH subjacente. O tratamento com Epivir deve ser suspenso imediatamente se surgirem sinais clínicos, sintomas ou anomalias laboratoriais sugestivas de pancreatite.
+ Acidose láctica: foram notificados casos de acidose láctica geralmente associados a hepatomegalia e esteatose hepática, com a utilização de análogos de nucleósidos. Os sintomas precoces (hiperlactatemia sintomática) incluem: sintomas digestivos benignos (náuseas, vómitos e dor abdominal), mal-estar não específico, perda de peso e de apetite, sintomas respiratórios (respiração rápida e/ou profunda) ou sintomas neurológicos (incluindo fraqueza motora).
+ A acidose láctica conduz a uma elevada taxa de mortalidade e pode estar associada a pancreatite, falência hepática ou falência renal.
+ Geralmente a acidose láctica ocorreu alguns a vários meses após início do tratamento.
+ O tratamento com análogos de nucleósidos deve ser descontinuado caso se estabeleça hiperlactatemia sintomática e acidose láctica/metabólica, hepatomegalia progressiva ou um aumento rápido dos níveis de transaminases.
+ Deve tomar-se precaução especial na administração de análogos de nucleósidos a qualquer doente (particularmente mulheres obesas) com hepatomegalia, hepatite ou outros factores de risco conhecidos para doença hepática e esteatose hepática (incluindo administração de alguns fármacos e álcool). Os doentes com co-infecção hepatite C e tratados com interferão alfa e ribavirina podem constituir um grupo especial de risco.
+ Devem ser seguidos cuidadosamente os doentes de maior risco.
+ Disfunção mitocondrial: Os análogos dos nucleósidos e nucleótidos demonstraram causar, in vitro e in vivo, lesões mitrocondriais de grau variável. Existem notificações de disfunção mitocondrial em lactentes VIH negativos, expostos in utero e/ou após o nascimento a análogos dos nucleósidos. Os principais acontecimentos adversos notificados são afecções hematológicas (anemia, neutropenia), doenças metabólicas (hiperlactatemia, hiperlipasemia). Estes acontecimentos são geralmente transitórios. Foram notificadas algumas afecções neurológicas de início tardio (hipertonia, convulsões, comportamento anormal). Desconhece-se até ao momento se as afecções neurológicas são transitórias ou permanentes. Qualquer criança exposta in utero a análogos dos nucleósidos e nucleótidos, mesmo as crianças VIH negativas, deverá ter seguimento clínico e laboratorial e, em caso de sinais ou sintomas relevantes, deve ser investigada quanto à possibilidade de disfunção mitocondrial. Estes resultados não alteram as recomendações nacionais actuais quanto à utilização de terapêutica antirretrovírica em mulheres grávidas, para prevenir a transmissão vertical do VIH.
+ Lipodistrofia: A terapêutica de associação antirretrovírica foi associada com a redistribuição do tecido adiposo corporal (lipodistrofia) em doentes infectados pelo VIH. As consequências a longo prazo deste efeito são actualmente desconhecidas. O conhecimento sobre o mecanismo é incompleto. Foi colocada a hipótese de existir uma relação entre a lipomatose visceral, os inibidores da protease (IPs), a lipoatrofia e os nucleósidos inibidores da transcriptase reversa (NRTIs). Um risco acrescido de lipodistrofia foi associado com factores individuais, tais como a idade avançada, e com factores relacionados com o fármaco, como a longa duração da terapêutica antirretrovírica e as alterações metabólicas associadas. O exame clínico deve incluir a avaliação dos sinais físicos da redistribuição do
+ 15 tecido adiposo. Deverá considerar-se a medição dos níveis de lípidos séricos e da glicémia em jejum. As alterações lipídicas devem ser tratadas de modo clinicamente apropriado (ver secção 4.8).
+ Síndrome de Reactivação Imunológica: em doentes infectados pelo VIH com deficiência imunológica grave à data da instituição da terapêutica antiretroviral combinada (TARC), pode ocorrer uma reacção inflamatória a infecções oportunistas assintomáticas ou residuais e causar várias situações clínicas graves, ou o agravamento dos sintomas. Tipicamente, estas reacções foram observadas durante as primeiras semanas ou meses após início da TARC. São exemplos relevantes a retinite por citomegalovírus, as infecções micobacterianas generalizadas e/ou focais e a pneumonia por Pneumocystis carinii. Qualquer sintoma de inflamação deve ser avaliado e, quando necessário, instituído o tratamento.
+ Doença hepática: Caso a lamivudina esteja a ser utilizada concomitantemente para o tratamento do VIH e VHB, está disponível informação adicional sobre a utilização da lamivudina no tratamento da hepatite B no RCM de Zeffix.
+ Os doentes com hepatite B ou C crónica e tratados com terapêutica de associação antirretrovírica têm um risco acrescido de acontecimentos adversos hepáticos graves e potencialmente fatais. No caso de terapêutica concomitante antivírica para a hepatite B ou C, consultar a informação relevante para estes medicamentos.
+ Caso Epivir seja descontinuado em doentes coinfectados pelo vírus da hepatite B, recomenda-se a monitorização periódica dos testes da função hepática e dos marcadores de replicação do VHB, uma vez que a interrupção da lamivudina pode resultar em exacerbação aguda da hepatite (ver RCM de Zeffix).
+ Os doentes com disfunção hepática preexistente, incluindo hepatite crónica activa, têm um aumento da frequência de anomalias da função hepática durante a terapêutica de associação antirretrovírica edevem ser monitorizados de acordo com a prática padronizada. Se se verificar nestes doentes, um agravamento da doença hepática, deverá ser considerada a interrupção ou descontinuação do tratamento (ver secção 4.8).
+ Os doentes diabéticos devem ser informados de que cada dose (150 mg =15 ml) contém 3 g de sacarose.
+ Os doentes com problemas hereditários raros de intolerância à frutose, com malaborção de glucose-galactose ou com insuficiência de sucarase-isomaltase não devem tomar este medicamento.
+ Epivir contém para-hidroxibenzoato de metilo e para-hidroxibenzoato de propilo. Estes produtos podem causar reacções alérgicas (possivelmente retardadas).
+ Osteonecrose: Foram notificados casos de osteonecrose, particularmente em doentes com doença por VIH avançada e/ou exposição prolongada a terapêutica anti-retroviral combinada (TARC), apesar da etiologia ser considerada multifactorial (incluindo a utilização de corticosteróides, o consumo de álcool, a imunossupressão grave, um índice de massa corporal aumentado). Os doentes devem ser instruídos a procurar aconselhamento médico caso sintam mal-estar e dor articular, rigidez articular ou dificuldade de movimentos.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Os estudos de interacção só foram realizados em adultos.
+ A lamivudina poderá inibir a fosforilação intracelular da zalcitabina quando os dois medicamentos forem utilizados concomitantemente. Portanto, não se recomenda a utilização de Epivir em associação a zalcitabina.
+ 16 A administração concomitante de lamivudina com ganciclovir intravenoso ou foscarnet não é recomendada.
+ A probabilidade de interacções metabólicas é baixa devido aos limitados metabolismo e ligação às proteínas plasmáticas e à quase completa depuração renal.
+ A administração de trimetoprim/sulfametoxazol,160 mg/800 mg, resulta num aumento de 40% na exposição à lamivudina, devido ao componente trimetoprim; o componente sulfametoxazol não interagiu. No entanto, a menos que o doente tenha compromisso renal, não é necessário ajuste da dose de lamivudina (ver secção 4.2). A lamivudina não tem efeito na farmacocinética do trimetoprim ou do sulfametoxazol. Quando a administração concomitante é justificada, os doentes devem ser monitorizados clinicamente. A administração concomitante de lamivudina com doses elevadas de cotrimoxazol para o tratamento da pneumonia a Pneumocystis carinii (PPc) e da toxoplasmose deve ser evitada.
+ Deve considerar-se a possibilidade de interacção com outros medicamentos administrados concomitantemente, particularmente quando a principal via de eliminação é a secreção renal activa através do sistema de transporte catiónico orgânico, por ex. trimetoprim. Outros medicamentos (por ex. ranitidina, cimetidina) são eliminados apenas em parte por este mecanismo e mostraram não interagir com a lamivudina. Os análogos de nucleósido (por ex. didanosina e zalcitabina) como a zidovudina, não são eliminados por este mecanismo, não sendo provável a sua interacção com a lamivudina.
+ Observou-se um ligeiro aumento na Cmax (28%) da zidovudina quando administrada com lamivudina, no entanto a exposição total (AUC) não é significativamente alterada. A zidovudina não tem efeito na farmacocinética da lamivudina (ver secção 5.2).
+ O metabolismo da lamivudina não envolve o CYP3A, pelo que são pouco prováveis as interacções com medicamentos metabolizados por este sistema (por ex. PIs).
+ 4.6 Gravidez e aleitamento Gravidez: não foi estabelecida a segurança da lamivudina na mulher grávida. Os estudos de reprodução no animal não mostraram evidência de teratogenicidade nem efeitos na fertilidade masculina ou feminina. A lamivudina induziu letalidade embrionária precoce quando administrada a coelhas grávidas em níveis de exposição comparáveis aos atingidos no ser humano. No ser humano, em consistência com a transmissão passiva da lamivudina através da placenta, as concentrações séricas de lamivudina no recém-nascido foram semelhantes às obtidas no soro materno e cordão umbilical durante o parto.
+ Apesar de os estudos de reprodução animal nem sempre serem previsíveis da resposta no ser humano, não é recomendada a administração durante os três primeiros meses de gravidez.
+ Aleitamento: após administração oral, a lamivudina foi excretada no leite humano em concentrações semelhantes às obtidas no soro. Como a lamivudina e o vírus passam para o leite, recomenda-se que as mães a tomar Epivir não amamentem os seus filhos. Recomenda-se que as mulheres infectadas pelo VIH não amamentem os seus filhos sob qualquer circunstância de modo a evitar a transmissão do VIH.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas.
+ 4.8 Efeitos indesejáveis Foram relatadas as seguintes reacções adversas durante a terapêutica com Epivir na infecção pelo VIH.
+ 17 As reacções adversas consideradas no mínimo com nexo de causalidade possível com o tratamento estão listados abaixo, segundo a classificação por sistema orgânico, classe de órgão e frequência absoluta. Estas frequências estão definidas como Muito Frequentes (&gt; 1/10), Frequentes (&gt; 1/100, &lt; 1/10), Pouco frequentes (&gt; 1/1000, &lt; 1/100), Raros (&gt; 1/10000, &lt; 1/1000) e Muito raros (&lt; 1/10000). Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ Doenças do sangue e do sistema linfático Pouco frequentes: Neutropenia e anemia (ambas ocasionalmente graves), trombocitopenia Muito raros: Aplasia pura a células vermelhas
+ Doenças do sistema nervoso Frequentes: Cefaleias, insónias Muito raros: Neuropatia periférica (ou parestesia)
+ Doenças respiratórias, torácicas e do mediastino Frequentes: Tosse, sintomas nasais
+ Doenças gastrintestinais Frequentes: Náuseas, vómitos, dor abdominal ou cólicas, diarreia Raros: Pancreatite. Elevação da amilase sérica.
+ Afecções hepatobiliares Pouco frequentes: Elevação transitória das enzimas hepáticas (AST, ALT) Raros: Hepatite
+ Afecções dos tecidos cutâneos e subcutâneas Frequentes: Erupções cutâneas, alopecia
+ Afecções musculosqueléticas e dos tecidos conjuntivos Frequentes: Artralgia, alterações musculares Raros: Rabdomiólise
+ Perturbações gerais e alterações no local de administração Frequentes: fadiga, mal-estar geral, febre
+ Foram notificados casos de acidose láctica, por vezes fatais, normalmente associada com hepatomegalia grave e esteatose hepática, com a utilização de análogos de nucleósido (ver secção 4.4).
+ A terapêutica de associação antirretrovírica foi associada à redistribuição do tecido adiposo corporal (lipodistrofia) em doentes infectados pelo VIH, incluindo a perda da camada adiposa subcutânea periférica e facial, aumento de tecido adiposo intra-abdominal e visceral, hipertrofia mamária e acumulação de gordura dorsocervical (nuca de búfalo).
+ A terapêutica de associação antirretrovírica foi associada a alterações metabólicas, tais como hipertrigliceridemia, hipercolesterolemia, resistência à insulina, hiperglicemia e hiperlactacidemia (ver secção 4.4).
+ Em doentes infectados pelo VIH com deficiência imunológica grave à data de início da terapêutica antiretroviral combinada (TARC), pode ocorrer uma reacção inflamatória a infecções oportunistas assintomáticas ou residuais (ver secção 4.4).
+ Foram notificados casos de osteonecrose, particularmente em doentes com factores de risco identificados, doença por VIH avançada ou exposição prolongada a terapêutica anti-retroviral combinada (TARC). A sua frequência é desconhecida (ver secção 4.4).
+ 18 4.9 Sobredosagem
+ Nos estudos de toxicidade aguda animal, a administração de doses muito elevadas de lamivudina não provocou toxicidade em qualquer órgão. É limitada a informação disponível sobre as consequências da sobredosagem aguda no ser humano. Não ocorreram mortes e os doentes recuperaram. Não se identificaram sinais ou sintomas específicos após tais sobredosagens.
+ Se ocorrer sobredosagem, o doente deve ser monitorizado procedendo-se ao tratamento de suporte padrão conforme necessário. Visto que a lamivudina é dialisável, a hemodiálise contínua poderia ser utilizada no tratamento da sobredosagem, embora esta hipótese não tenha sido estudada.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: análogo de nucleósido, Código ATC-J05AF05.
+ A lamivudina é um análogo de nucleósido com actividade contra os vírus da imunodeficiência humana (VIH) e hepatite B (VHB). A lamivudina é metabolizada intracelularmente com formação da fracção activa, lamivudina 5 ’-trifosfato. O seu principal mecanismo de acção é como terminador de cadeia resultante da transcrição reversa vírica. A forma trifosfatada tem uma actividade inibidora selectiva da replicação in vitro do VIH-1 e do VIH-2, sendo também activa contra estirpes de VIH de isolados clínicos resistentes à zidovudina. A lamivudina em combinação com a zidovudina mostra actividade de sinergismo anti-VIH contra estirpes de isolados clínicos em cultura celular.
+ A resistência do VIH-1 à lamivudina relaciona-se com desenvolvimento de uma alteração do amino-ácido M184V, próximo do sítio activo da transcriptase reversa vírica (RT). Esta variante surge quer in vitro quer em doentes com infecção pelo VIH-1 tratados com terapêutica antirretrovírica contendo lamivudina. Os mutantes M184V mostram susceptibilidade muito reduzida à lamivudina e mostram capacidade replicativa vírica diminuída in vitro. Os estudos in vitro indicam que os isolados de estirpes víricas resistentes à zidovudina podem tornar-se sensíveis a esta quando adquirem simultaneamente resistência à lamivudina. A relevância clínica destes resultados permanece pouco definida.
+ Dados in vitro, sugerem que a continuação da lamivudina no regime anti-retroviral, apesar do desenvolvimento de M184V, pode originar actividade anti-retroviral residual (provavelmente através de compromisso da replicação viral). A relevância clínica destes dados não foi estabelecida. De facto, os dados clínicos disponíveis são muito limitados e impedem quaisquer conclusões fiáveis neste campo. De qualquer forma, deve ser sempre preferida a iniciação de NRTIs susceptíveis, à manutenção da terapêutica com lamivudina. Assim, a manutenção da terapêutica com lamivudina, apesar da emergência da mutação M184V, apenas deve ser considerada em casos onde não estão disponíveis outros NRTIs activos.
+ A resistência cruzada conferida pela transcriptase reversa M184V é limitada aos compostos antirretrovíricos da classe dos inibidores nucleósidos. A zidovudina e a estavudina mantêm a sua actividade antirretrovírica contra o VIH-1 resistente à lamivudina. O abacavir mantém a sua actividade antirretrovírica contra o VIH-1 resistente à lamivudina com mutação única M184V. O mutante com transcriptase reversa M184V mostra uma diminuição de susceptibilidade, &lt; 4 vezes, à didanosina e zalcitabina. O significado clínico deste acontecimento é desconhecido. Os testes de susceptibilidade in vitro não têm sido padronizados e os resultados podem variar de acordo com factores metodológicos.
+ A lamivudina demonstrou ser pouco citotóxica para os linfócitos periféricos, para as linhas celulares estabelecidas de linfócitos e monócitos-macrófagos, e para uma variedade de progenitores celulares na medula óssea in vitro.
+ 19 Experiência clínica:
+ Os ensaios clínicos com lamivudina associada a zidovudina têm mostrado reduzir a carga vírica VIH-1 e aumentar o número de células CD4. Os parâmetros de avaliação clínica indicam que a lamivudina em associação com a zidovudina resulta numa redução significativa do risco de progressão da doença e mortalidade.
+ Os ensaios clínicos evidenciam que a lamivudina associada à zidovudina retarda a emergência de isolados resistentes à zidovudina em doentes sem terapêutica antirretrovírica prévia.
+ A lamivudina tem sido amplamente utilizada como um componente da terapêutica antirretrovírica de associação com outros compostos antirretrovíricos da mesma classe (NRTIs) ou diferentes classes (inibidores não nucleósidos da transcriptase reversa e PIs).
+ A terapêutica antirretrovírica múltipla contendo lamivudina tem mostrado ser efectiva nos doentes sem tratamento prévio antirretrovírico, assim como em doentes apresentando viroses contendo a mutação M184V.
+ A relação entre a susceptibilidade in vitro do VIH à lamivudina e a resposta clínica à terapêutica contendo lamivudina permanece em estudo.
+ A lamivudina na dosagem de 100 mg uma vez por dia mostrou igualmente ser efectiva para o tratamento de doentes adultos com infecção crónica VHB (para mais detalhes sobre os ensaios clínicos, ver o Resumo das Características do Medicamento de Zeffix). Contudo, para o tratamento da infecção pelo VIH apenas 300 mg por dia de lamivudina (em associação com outros compostos antirretrovíricos) mostraram ser eficazes.
+ A lamivudina não tem sido especialmente estudada em doentes co-infectados pelo VIH e VHB.
+ Toma única diária (300 mg uma vez por dia): Um ensaio clínico demonstrou não existir inferioridade entre o regime de Epivir em toma única diária e Epivir em duas tomas diárias. Estes resultados foram obtidos numa população sem tratamento prévio com antirretrovíricos, principalmente constituída por doentes assintomáticos com infecção pelo VIH (CDC estadio A).
+ 5.2 Propriedades farmacocinéticas Absorção: a lamivudina é bem absorvida a partir do tracto gastrintestinal e a sua biodisponibilidade oral em adultos varia normalmente entre 80 e 85%. Após administração oral, o tempo médio (tmax) para as concentrações séricas máximas (Cmax) é de aproximadamente uma hora. Com base em dados retirados de um estudo em voluntários saudáveis, com doses terapêuticas de 150 mg duas vezes por dia, as Cmax e Cmin médias (CV) no estado estacionário da lamivudina no plasma são de 1,2 µg/ml (24%) e 0,09 µg/ml (27%), respectivamente. A AUC média (CV) num intervalo posológico de 12 h é de 4,7 µg. h/ml (18%). Com doses terapêuticas de 300 mg uma vez por dia, as Cmax, Cmin e AUC de 24 h médias (CV) no estado estacionário são de 2,0 µg/ml (26%), 0,04 µg/ml (34%) e 8,9 µg. h/ml (21%), respectivamente.
+ A administração de lamivudina com alimentos resulta num atraso do tmax e numa Cmax inferior (redução de 47%). No entanto, o grau (com base na AUC) de absorção da lamivudina não é influenciado.
+ A administração concomitante de zidovudina resulta num aumento de 13% na exposição à zidovudina e num aumento de 28% nos níveis plasmáticos máximos. Este facto não é considerado significativo para a segurança do doente e como tal não é necessário ajuste da dose.
+ Distribuição: em ensaios clínicos de administração intravenosa, o volume de distribuição médio é de 1,3 l/kg. O tempo de semi-vida de eliminação observado é de 5 a 7 horas. A depuração sistémica média da lamivudina é de aproximadamente 0,32 l/h/kg, com predominância da depuração renal (&gt; 70%) através do sistema de transporte catiónico orgânico.
+ 20 A lamivudina exibe uma farmacocinética linear em toda a gama de doses terapêuticas e apresenta baixa ligação à principal proteína plasmática, albumina (&lt; 16%-36% à albumina sérica em estudos in vitro).
+ Alguns dados mostram que a lamivudina penetra no sistema nervoso central e atinge o líquido cefalorraquidiano (LCR). A razão média LCR/concentração sérica de lamivudina, 2-4 horas após administração oral, foi aproximadamente 0,12. Desconhece-se o verdadeiro grau de penetração ou relação com qualquer eficácia clínica.
+ Metabolismo: a fracção activa, trifosfato de lamivudina intracelular, tem um tempo de semi-vida terminal celular prolongado (16 a 19 horas), comparativamente ao tempo de semi-vida plasmática da lamivudina (5 a 7 horas). Em 60 voluntários adultos saudáveis, demonstrou-se que Epivir 300 mg, uma vez por dia, era farmacocineticamente equivalente no estado de equilíbrio a Epivir 150 mg, duas vezes por dia, relativamente à Cmax e AUC24 do trifosfato intracelular:
+ A lamivudina é predominantemente eliminada na forma inalterada por excreção renal. A probabilidade de interacções metabólicas entre a lamivudina e outros medicamentos é baixa devido ao pequeno grau de metabolismo hepático (5-10%) e à baixa ligação às proteínas plasmáticas.
+ Eliminação: ensaios clínicos em doentes com compromisso renal mostram que a eliminação da lamivudina é afectada pela disfunção renal. O regime posológico recomendado para doentes com depuração da creatinina inferior a 50 ml/min está indicado na secção da posologia (ver secção 4.2).
+ A interacção com trimetoprim, um componente do cotrimoxazol, provoca um aumento de 40% na exposição à lamivudina em doses terapêuticas. Este facto não requer ajuste da dose a menos que o doente sofra também de compromisso renal (ver secções 4.5, e 4.2). A administração de cotrimoxazol com lamivudina em doentes com compromisso renal deverá ser cuidadosamente avaliada.
+ Farmacocinética na criança: em geral, a farmacocinética da lamivudina em doentes pediátricos é semelhante à dos adultos. No entanto, a biodisponibilidade absoluta (aproximadamente 55-65%) estava diminuída em doentes pediátricos de idade inferior a 12 anos. Além disso, os valores da depuração sistémica foram superiores em doentes pediátricos mais jovens e diminuíram com a idade, aproximando-se dos valores dos adultos cerca dos 12 anos de idade. Devido a estas diferenças, a dose de lamivudina recomendada para crianças (com mais de três meses e com peso inferior a 30 kg) é de 4 mg/kg duas vezes dia. Esta dose induzirá uma AUC0-12 média aproximadamente na ordem dos 3800 a 5300 ng. h/ml. Dados recentes, indicam que a exposição em crianças com idade inferior a 6 anos, pode ser reduzida em cerca de 30%, comparativamente com outros grupos etários. Presentemente, são aguardados dados adicionais relativamente a este assunto. Presentemente, os dados disponíveis não sugerem que a lamivudina seja menos eficaz neste grupo etário.
+ Os dados farmacocinéticos em doentes de idade inferior a três meses são limitados. Em recém-nascidos com uma semana de idade, a depuração oral da lamivudina estava diminuída em comparação com doentes pediátricos, provavelmente devido à função renal imatura e à absorção variável. Portanto, para atingir exposição semelhante em adultos e doentes pediátricos, a dose recomendada para recém-nascidos é de 4 mg/kg por dia. Os valores estimados para a filtração glomerular sugerem que a dose recomendada em crianças de idade igual ou superior a seis semanas poderá ser de 8 mg/kg por dia, para que se obtenha uma exposição semelhante em adultos e doentes pediátricos.
+ Farmacocinética na gravidez: após administração oral, a farmacocinética da lamivudina na fase final da gravidez foi semelhante à de mulheres não grávidas.
+ 5.3 Dados de segurança pré-clínica Em estudos de toxicidade animal, a administração de lamivudina em doses elevadas não foi associada a toxicidade major em qualquer órgão. Nas doses mais elevadas, foram observados efeitos menores nos indicadores da função hepática e renal em conjunto com redução ocasional do peso do fígado. Os
+ 21 efeitos clinicamente relevantes observados foram diminuição do número de glóbulos vermelhos e neutropenia.
+ A lamivudina não foi mutagénica nos testes bacterianos no entanto, como muitos análogos de nucleósido, mostrou actividade num ensaio citogenético in vitro e no ensaio do linfoma no ratinho. A lamivudina não foi genotóxica in vivo em doses que originaram concentrações plasmáticas cerca de 40-50 vezes superiores aos níveis plasmáticos clínicos previstos. Como a actividade mutagénica in vitro da lamivudina não pôde ser confirmada nos testes in vivo, conclui-se que a lamivudina não deve representar perigo genotóxico para doentes em tratamento.
+ Um estudo genotóxico transplacentário conduzido em macacos comparou a zidovudina isoladamente com a associação zidovudina e lamivudina, em níveis de exposições equivalentes à humana. Este estudo demonstrou que fetos expostos in utero à associação retiveram um maior nível de incorporação do análogo do nucleósido no ADN em múltiplos órgãos fetais e demonstrou evidência de um maior encurtamento do telómero do que nos expostos à zidovudina isolada. Desconhece-se o significado clínico destes resultados.
+ Os resultados dos estudos de carcinogenicidade a longo prazo no rato e ratinho não demonstraram qualquer potencial carcinogénico relevante para o ser humano.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Sacarose 20% (3 g/15 ml) Para-hidroxibenzoato de metilo Para-hidroxibenzoato de propilo Ácido cítrico anidro Propilenoglicol Citrato de sódio Aroma artificial de morango Aroma artificial de banana Água purificada
+ 6.2 Incompatibilidades Não aplicável. 6.3 Prazo de validade 2 anos. Inutilizar a solução oral um mês após a abertura.
+ 6.4 Precauções especiais de conservação
+ Não conservar acima de 25ºC. 6.5 Natureza e conteúdo do recipiente Embalagem contendo 240 ml de solução oral num frasco branco de polietileno de alta densidade (HDPE), com fecho resistente à abertura por crianças. Uma seringa doseadora de 10 ml de polipropileno e um adaptador de polietileno, estão também incluídos na embalagem.
+ A seringa doseadora destina-se a medir rigorosamente a dose prescrita de solução oral. As instruções para utilização estão incluídas na embalagem.
+ 22 6.6 Precauções especiais de eliminação
+ Não existem requisitos especiais. 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Glaxo Group Limited Greenford Road Greenford Middlesex UB6 0NN Reino Unido
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/96/015/002 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 08 de Agosto de 1996
+ Data da última renovação: 28 de Julho de 2006
+ 10. DATA DA REVISÃO DO TEXTO Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu
+ 23 1. NOME DO MEDICAMENTO
+ Epivir 300 mg comprimidos revestidos por película
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada comprimido revestido por película contém 300 mg de lamivudina.
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Comprimido revestido por película Cinzentos, em forma de losango com gravação “ GX EJ7 ” numa face.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas Epivir está indicado como parte da terapêutica antirretrovírica de associação para o tratamento de adultos e crianças com infecção pelo vírus da imunodeficiência humana (VIH).
+ 4.2 Posologia e modo de administração A terapêutica deve ser iniciada por um médico experiente no controlo da infecção pelo VIH.
+ Epivir pode ser tomado com ou sem alimentos.
+ Para assegurar a administração integral da dose prescrita, o(s) comprimido(s) devem preferencialmente ser tomados inteiros. Para doentes que sejam incapazes de engolir comprimidos, a lamivudina está também disponível em solução oral. Adicionalmente, os comprimidos podem ser esmagados e adicionados a uma pequena dose de alimentos semi-sólidos ou líquidos, devendo a totalidade dessa mistura ser consumida imediatamente (ver secção 5.2).
+ Adultos e adolescentes de idade superior a 12 anos: a dose recomendada de Epivir é 300 mg por dia. Esta pode ser administrada como 150 mg duas vezes por dia ou como 300 mg uma vez por dia (ver secção 4.4). Os comprimidos de 300 mg são apenas aplicáveis aos regimes de toma única diária.
+ Os doentes a fazer transição para o regime de toma única diária devem tomar 150 mg duas vezes por dia e mudar para 300 mg uma vez por dia na manhã seguinte. Quando for escolhido o regime de toma única diária nocturna, a primeira toma de 150 mg de Epivir deve ser realizada apenas na primeira manhã, seguida por uma toma de 300 mg nessa noite. Quando se voltar a mudar para o regime de duas tomas diárias, os doentes devem completar os dias de tratamento e começar com 150 mg duas vezes por dia na manhã seguinte.
+ Crianças: Três meses a 12 anos de idade: a dose recomendada é 4 mg/kg duas vezes por dia até ao máximo de 300 mg por dia.
+ Idade inferior a 3 meses: a informação disponível é limitada e insuficiente para propor recomendações posológicas específicas (ver secção 5.2).
+ 24 Compromisso Renal: as concentrações de lamivudina estão aumentadas em doentes com compromisso renal moderado a grave devido a diminuição da depuração. A dose por conseguinte deve ser ajustada, utilizando a solução oral de Epivir, em doentes cuja depuração da creatinina diminua para valores inferiores a 30 ml/min. (ver quadros).
+ Posologia recomendada-Adultos e adolescentes de idade superior a 12 anos:
+ Depuração da creatinina (ml/min)
+ Primeira dose Dose de manutenção ≥50 30 a &lt; 50
+ 150 mg 150 mg 150 mg duas vezes por dia 150 mg uma vez por dia
+ &lt; 30 Se forem necessárias doses inferiores a 150 mg, recomenda-se utilização da solução oral
+ Não está disponível informação sobre a utilização da lamivudina em crianças com compromisso renal. Assumindo que a depuração da creatinina e da lamivudina estão correlacionadas de forma semelhante em crianças e adultos, recomenda-se que a dose seja reduzida em crianças com compromisso renal de acordo com a depuração da creatinina, na mesma proporção que em adultos.
+ Posologia recomendada-Crianças de 3 meses a 12 anos de idade:
+ Depuração da creatinina (ml/min)
+ Primeira dose Dose de manutenção ≥50 30 a &lt; 50 15 a &lt; 30 5 a &lt; 15 &lt; 5
+ 4 mg/kg 4 mg/kg 4 mg/kg 4 mg/kg 1,3 mg/kg
+ 4 mg/kg duas vezes por dia 4 mg/kg uma vez por dia 2,6 mg/kg uma vez por dia 1,3 mg/kg uma vez por dia 0,7 mg/kg uma vez por dia
+ Compromisso hepático: a informação obtida em doentes com compromisso hepático moderado a grave demonstra que a farmacocinética da lamivudina não é significativamente afectada pela disfunção hepática. Com base nesta informação, não é necessário ajuste da dose em doentes com compromisso hepático moderado a grave, a não ser que acompanhada por compromisso renal.
+ 4.3 Contra-indicações Hipersensibilidade à substância activa ou a qualquer dos excipientes.
+ 4.4 Advertências e precauções especiais de utilização
+ Epivir não é recomendado para utilização em monoterapia.
+ Compromisso renal: Em doentes com compromisso renal moderado a grave, o tempo de semi-vida plasmática terminal da lamivudina está aumentado devido à diminuição da depuração, portanto, a dose deve ser ajustada (ver secção 4.2).
+ Terapêutica nucleósida tripla: Tem havido relatos de uma elevada taxa de falência virológica e de aparecimento de resistência, num estadio inicial, quando a lamivudina foi associada com tenofovir disoproxil fumarato e abacavir, assim como com tenofovir disoproxil fumarato e didanosina, num regime uma vez dia.
+ Infecções oportunistas: Os doentes que recebem tratamento com Epivir ou qualquer outra terapêutica antirretrovírica podem continuar a desenvolver infecções oportunistas e outras complicações relacionadas com a infecção pelo VIH, devendo por isso permanecer sob cuidadosa observação clínica por médicos experientes no tratamento de doentes com doenças associadas ao VIH.
+ 25 Transmissão do VIH: Os doentes devem ser advertidos de que a terapêutica antirretrovírica actual, incluindo Epivir, não provou prevenir o risco de transmissão do VIH a outras pessoas através do contacto sexual ou transmissão através do sangue. Deverão continuar a tomar as precauções adequadas.
+ Pancreatite: ocorreram raramente casos de pancreatite. No entanto, não está claro se foram devidos ao tratamento antirretrovírico ou à doença VIH subjacente. O tratamento com Epivir deve ser suspenso imediatamente se surgirem sinais clínicos, sintomas ou anomalias laboratoriais sugestivas de pancreatite.
+ Acidose láctica: foram notificados casos de acidose láctica geralmente associados a hepatomegalia e esteatose hepática, com a utilização de análogos de nucleósidos. Os sintomas precoces (hiperlactatemia sintomática) incluem: sintomas digestivos benignos (náuseas, vómitos e dor abdominal), mal-estar não específico, perda de peso e de apetite, sintomas respiratórios (respiração rápida e/ou profunda) ou sintomas neurológicos (incluindo fraqueza motora).
+ A acidose láctica conduz a uma elevada taxa de mortalidade e pode estar associada a pancreatite, falência hepática ou falência renal.
+ Geralmente a acidose láctica ocorreu alguns a vários meses após início do tratamento.
+ O tratamento com análogos de nucleósidos deve ser descontinuado caso se estabeleça hiperlactatemia sintomática e acidose láctica/metabólica, hepatomegalia progressiva ou um aumento rápido dos níveis de transaminases.
+ Deve tomar-se precaução especial na administração de análogos de nucleósidos a qualquer doente (particularmente mulheres obesas) com hepatomegalia, hepatite ou outros factores de risco conhecidos para doença hepática e esteatose hepática (incluindo administração de alguns fármacos e álcool). Os doentes com co-infecção hepatite C e tratados com interferão alfa e ribavirina podem constituir um grupo especial de risco.
+ Devem ser seguidos cuidadosamente os doentes de maior risco.
+ Disfunção mitocondrial: Os análogos dos nucleósidos e nucleótidos demonstraram causar, in vitro e in vivo, lesões mitrocondriais de grau variável. Existem notificações de disfunção mitocondrial em lactentes VIH negativos, expostos in utero e/ou após o nascimento a análogos dos nucleósidos. Os principais acontecimentos adversos notificados são afecções hematológicas (anemia, neutropenia), doenças metabólicas (hiperlactatemia, hiperlipasemia). Estes acontecimentos são geralmente transitórios. Foram notificadas algumas afecções neurológicas de início tardio (hipertonia, convulsões, comportamento anormal). Desconhece-se até ao momento se as afecções neurológicas são transitórias ou permanentes. Qualquer criança exposta in utero a análogos dos nucleósidos e nucleótidos, mesmo as crianças VIH negativas, deverá ter seguimento clínico e laboratorial e, em caso de sinais ou sintomas relevantes, deve ser investigada quanto à possibilidade de disfunção mitocondrial. Estes resultados não alteram as recomendações nacionais actuais quanto à utilização de terapêutica antirretrovírica em mulheres grávidas, para prevenir a transmissão vertical do VIH.
+ Lipodistrofia: A terapêutica de associação antirretrovírica foi associada com a redistribuição do tecido adiposo corporal (lipodistrofia) em doentes infectados pelo VIH. As consequências a longo prazo deste efeito são actualmente desconhecidas. O conhecimento sobre o mecanismo é incompleto. Foi colocada a hipótese de existir uma relação entre a lipomatose visceral, os inibidores da protease (IPs), a lipoatrofia e os nucleósidos inibidores da transcriptase reversa (NRTIs). Um risco acrescido de lipodistrofia foi associado com factores individuais, tais como a idade avançada, e com factores relacionados com o fármaco, como a longa duração da terapêutica antirretrovírica e as alterações metabólicas associadas. O exame clínico deve incluir a avaliação dos sinais físicos da redistribuição do tecido adiposo. Deverá considerar-se a medição dos níveis de lípidos séricos e da glicémia em jejum. As alterações lipídicas devem ser tratadas de modo clinicamente apropriado (ver secção 4.8).
+ 26 Síndrome de Reactivação Imunológica: em doentes infectados pelo VIH com deficiência imunológica grave à data da instituição da terapêutica antiretroviral combinada (TARC), pode ocorrer uma reacção inflamatória a infecções oportunistas assintomáticas ou residuais e causar várias situações clínicas graves, ou o agravamento dos sintomas. Tipicamente, estas reacções foram observadas durante as primeiras semanas ou meses após início da TARC. São exemplos relevantes a retinite por citomegalovírus, as infecções micobacterianas generalizadas e/ou focais e a pneumonia por Pneumocystis carinii. Qualquer sintoma de inflamação deve ser avaliado e, quando necessário, instituído o tratamento.
+ Doença hepática: Caso a lamivudina esteja a ser utilizada concomitantemente para o tratamento do VIH e VHB, está disponível informação adicional sobre a utilização da lamivudina no tratamento da hepatite B no RCM de Zeffix.
+ Os doentes com hepatite B ou C crónica e tratados com terapêutica de associação antirretrovírica têm um risco acrescido de acontecimentos adversos hepáticos graves e potencialmente fatais. No caso de terapêutica concomitante antivírica para a hepatite B ou C, consultar a informação relevante para estes medicamentos.
+ Caso Epivir seja descontinuado em doentes coinfectados pelo vírus da hepatite B, recomenda-se a monitorização periódica dos testes da função hepática e dos marcadores de replicação do VHB, uma vez que a interrupção da lamivudina pode resultar em exacerbação aguda da hepatite (ver RCM de Zeffix).
+ Os doentes com disfunção hepática preexistente, incluindo hepatite crónica activa, têm um aumento da frequência de anomalias da função hepática durante a terapêutica de associação antirretrovírica e devem ser monitorizados de acordo com a prática padronizada. Se se verificar nestes doentes, um agravamento da doença hepática, deverá ser considerada a interrupção ou descontinuação do tratamento (ver secção 4.8).
+ Osteonecrose: Foram notificados casos de osteonecrose, particularmente em doentes com doença por VIH avançada e/ou exposição prolongada a terapêutica anti-retroviral combinada (TARC), apesar da etiologia ser considerada multifactorial (incluindo a utilização de corticosteróides, o consumo de álcool, a imunossupressão grave, um índice de massa corporal aumentado). Os doentes devem ser instruídos a procurar aconselhamento médico caso sintam mal-estar e dor articular, rigidez articular ou dificuldade de movimentos.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Os estudos de interacção só foram realizados em adultos.
+ A lamivudina poderá inibir a fosforilação intracelular da zalcitabina quando os dois medicamentos forem utilizados concomitantemente. Portanto, não se recomenda a utilização de Epivir em associação a zalcitabina.
+ A administração concomitante de lamivudina com ganciclovir intravenoso ou foscarnet não é recomendada.
+ A probabilidade de interacções metabólicas é baixa devido aos limitados metabolismo e ligação às proteínas plasmáticas e à quase completa depuração renal.
+ A administração de trimetoprim/sulfametoxazol,160 mg/800 mg, resulta num aumento de 40% na exposição à lamivudina, devido ao componente trimetoprim; o componente sulfametoxazol não interagiu. No entanto, a menos que o doente tenha compromisso renal, não é necessário ajuste da dose de lamivudina (ver secção 4.2). A lamivudina não tem efeito na farmacocinética do trimetoprim ou do sulfametoxazol. Quando a administração concomitante é justificada, os doentes devem ser monitorizados clinicamente. A administração concomitante de lamivudina com doses elevadas de
+ 27 cotrimoxazol para o tratamento da pneumonia a Pneumocystis carinii (PPc) e da toxoplasmose deve ser evitada.
+ Deve considerar-se a possibilidade de interacção com outros medicamentos administrados concomitantemente, particularmente quando a principal via de eliminação é a secreção renal activa através do sistema de transporte catiónico orgânico, por ex. trimetoprim. Outros medicamentos (por ex. ranitidina, cimetidina) são eliminados apenas em parte por este mecanismo e mostraram não interagir com a lamivudina. Os análogos de nucleósido (por ex. didanosina e zalcitabina) como a zidovudina, não são eliminados por este mecanismo, não sendo provável a sua interacção com a lamivudina.
+ Observou-se um ligeiro aumento na Cmax (28%) da zidovudina quando administrada com lamivudina, no entanto a exposição total (AUC) não é significativamente alterada. A zidovudina não tem efeito na farmacocinética da lamivudina (ver secção 5.2).
+ O metabolismo da lamivudina não envolve o CYP3A, pelo que são pouco prováveis as interacções com medicamentos metabolizados por este sistema (por ex. PIs).
+ 4.6 Gravidez e aleitamento Gravidez: não foi estabelecida a segurança da lamivudina na mulher grávida. Os estudos de reprodução no animal não mostraram evidência de teratogenicidade nem efeitos na fertilidade masculina ou feminina. A lamivudina induziu letalidade embrionária precoce quando administrada a coelhas grávidas em níveis de exposição comparáveis aos atingidos no ser humano. No ser humano, em consistência com a transmissão passiva da lamivudina através da placenta, as concentrações séricas de lamivudina no recém-nascido foram semelhantes às obtidas no soro materno e cordão umbilical durante o parto.
+ Apesar de os estudos de reprodução animal nem sempre serem previsíveis da resposta no ser humano, não é recomendada a administração durante os três primeiros meses de gravidez
+ Aleitamento: após administração oral, a lamivudina foi excretada no leite humano em concentrações semelhantes às obtidas no soro. Como a lamivudina e o vírus passam para o leite, recomenda-se que as mães a tomar Epivir não amamentem os seus filhos. Recomenda-se que as mulheres infectadas pelo VIH não amamentem os seus filhos sob qualquer circunstância de modo a evitar a transmissão do VIH.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas.
+ 4.8 Efeitos indesejáveis Foram relatadas as seguintes reacções adversas durante a terapêutica com Epivir na infecção pelo VIH.
+ As reacções adversas consideradas no mínimo com nexo de causalidade possível com o tratamento estão listados abaixo, segundo a classificação por sistema orgânico, classe de órgão e frequência absoluta. Estas frequências estão definidas como Muito Frequentes (&gt; 1/10), Frequentes (&gt; 1/100, &lt; 1/10), Pouco frequentes (&gt; 1/1000, &lt; 1/100), Raros (&gt; 1/10 000, &lt; 1/1000) e Muito raros (&lt; 1/10000). Os efeitos indesejáveis são apresentados por ordem decrescente de gravidade dentro de cada classe de frequência.
+ Doenças do sangue e do sistema linfático Pouco frequentes: Neutropenia e anemia (ambas ocasionalmente graves), trombocitopenia Muito raros: Aplasia pura a células vermelhas
+ Doenças do sistema nervoso 28 Frequentes: Cefaleias, insónias Muito raros: Neuropatia periférica (ou parestesia)
+ Doenças respiratórias, torácicas e do mediastino Frequentes: Tosse, sintomas nasais Doenças gastrintestinais Frequentes: Náuseas, vómitos, dor abdominal ou cólicas, diarreia Raros: Pancreatite. Elevação da amilase sérica.
+ Afecções hepatobiliares Pouco frequentes: Elevação transitória das enzimas hepáticas (AST, ALT) Raros: Hepatite
+ Afecções dos tecidos cutâneos e subcutâneas Frequentes: Erupções cutâneas, alopecia
+ Afecções musculosqueléticas e dos tecidos conjuntivos Frequentes: Artralgia, alterações musculares Raros: Rabdomiólise
+ Perturbações gerais e alterações no local de administração Frequentes: Fadiga, mal-estar geral, febre
+ Foram notificados casos de acidose láctica, por vezes fatais, normalmente associada com hepatomegalia grave e esteatose hepática, com a utilização de análogos de nucleósido (ver secção 4.4).
+ A terapêutica de associação antirretrovírica foi associada à redistribuição do tecido adiposo corporal (lipodistrofia) em doentes infectados pelo VIH, incluindo a perda da camada adiposa subcutânea periférica e facial, aumento de tecido adiposo intra-abdominal e visceral, hipertrofia mamária e acumulação de gordura dorsocervical (nuca de búfalo).
+ A terapêutica de associação antirretrovírica foi associada a alterações metabólicas, tais como hipertrigliceridemia, hipercolesterolemia, resistência à insulina, hiperglicemia e hiperlactacidemia (ver secção 4.4).
+ Em doentes infectados pelo VIH com deficiência imunológica grave à data de início da terapêutica antiretroviral combinada (TARC), pode ocorrer uma reacção inflamatória a infecções oportunistas assintomáticas ou residuais (ver secção 4.4).
+ Foram notificados casos de osteonecrose, particularmente em doentes com factores de risco identificados, doença por VIH avançada ou exposição prolongada a terapêutica anti-retroviral combinada (TARC). A sua frequência é desconhecida (ver secção 4.4).
+ 4.9 Sobredosagem Nos estudos de toxicidade aguda no animal, a administração de doses muito elevadas de lamivudina não provocou toxicidade em qualquer órgão. É limitada a informação disponível sobre as consequências da sobredosagem aguda no ser humano. Não ocorreram mortes e os doentes recuperaram. Não se identificaram sinais ou sintomas específicos após tais sobredosagens.
+ Se ocorrer sobredosagem, o doente deve ser monitorizado procedendo-se ao tratamento de suporte padrão conforme necessário. Visto que a lamivudina é dialisável, a hemodiálise contínua poderia ser utilizada no tratamento da sobredosagem, embora esta hipótese não tenha sido estudada.
+ 5. PROPRIEDADES FARMACOLÓGICAS 29 5.1 Propriedades farmacodinâmicas
+ Grupo farmacoterapêutico: análogo de nucleósido, Código ATC-J05AF05.
+ A lamivudina é um análogo de nucleósido com actividade contra os vírus da imunodeficiência humana (VIH) e hepatite B (VHB). A lamivudina é metabolizada intracelularmente com formação da fracção activa, lamivudina 5 ’-trifosfato. O seu principal mecanismo de acção é como terminador de cadeia resultante da transcrição reversa vírica. A forma trifosfatada tem uma actividade inibidora selectiva da replicação in vitro do VIH-1 e do VIH-2, sendo também activa contra estirpes de VIH de isolados clínicos resistentes à zidovudina. A lamivudina em combinação com a zidovudina mostra actividade de sinergismo anti-VIH contra estirpes de isolados clínicos em cultura celular.
+ A resistência do VIH-1 à lamivudina relaciona-se com desenvolvimento de uma alteração do amino-ácido M184V, próximo do sítio activo da transcriptase reversa vírica (RT). Esta variante surge quer in vitro quer em doentes com infecção pelo VIH-1 tratados com terapêutica antirretrovírica contendo lamivudina. Os mutantes M184V mostram susceptibilidade muito reduzida à lamivudina e mostram capacidade replicativa vírica diminuída in vitro. Os estudos in vitro indicam que os isolados de estirpes virais resistentes à zidovudina podem tornar-se sensíveis a esta quando adquirem simultaneamente resistência à lamivudina. A relevância clínica destes resultados permanece pouco definida.
+ Dados in vitro, sugerem que a continuação da lamivudina no regime anti-retroviral, apesar do desenvolvimento de M184V, pode originar actividade anti-retroviral residual (provavelmente através de compromisso da replicação viral). A relevância clínica destes dados não foi estabelecida. De facto, os dados clínicos disponíveis são muito limitados e impedem quaisquer conclusões fiáveis neste campo. De qualquer forma, deve ser sempre preferida a iniciação de NRTIs susceptíveis, à manutenção da terapêutica com lamivudina. Assim, a manutenção da terapêutica com lamivudina, apesar da emergência da mutação M184V, apenas deve ser considerada em casos onde não estão disponíveis outros NRTIs activos.
+ A resistência cruzada conferida pela transcriptase reversa M184V é limitada aos compostos antirretrovíricos da classe dos inibidores nucleósidos. A zidovudina e a estavudina mantêm a sua actividade antirretrovírica contra o VIH-1 resistente à lamivudina. O abacavir mantém a sua actividade antirretrovírca contra o VIH-1 resistente à lamivudina com mutação única M184V. O mutante com transcriptase reversa M184V mostra uma diminuição de susceptibilidade, &lt; 4 vezes, à didanosina e zalcitabina. O significado clínico deste acontecimento é desconhecido. Os testes de susceptibilidade in vitro não têm sido padronizados e os resultados podem variar de acordo com factores metodológicos.
+ A lamivudina demonstrou ser pouco citotóxica para os linfócitos periféricos, para as linhas celulares estabelecidas de linfócitos e monócitos-macrófagos, e para uma variedade de progenitores celulares na medula óssea in vitro.
+ Experiência clínica: Os ensaios clínicos com lamivudina associada a zidovudina têm mostrado reduzir a carga vírica VIH-1 e aumentar o número de células CD4. Os parâmetros de avaliação clínica indicam que a lamivudina em associação com a zidovudina resulta numa redução significativa do risco de progressão da doença e mortalidade.
+ Os ensaios clínicos evidenciam que a lamivudina associada à zidovudina retarda a emergência de isolados resistentes à zidovudina em doentes sem terapêutica antirretrovírica prévia.
+ A lamivudina tem sido amplamente utilizada como um componente da terapêutica de associação antirretrovírica com outros compostos antirretrovíricos da mesma classe (NRTIs) ou diferentes classes (inibidores não nucleósidos da transcriptase reversa e PIs).
+ 30 A terapêutica antirretrovírica múltipla contendo lamivudina tem mostrado ser efectiva nos doentes sem tratamento prévio antirretrovírico, assim como em doentes apresentando viroses contendo a mutação M184V.
+ A relação entre a susceptibilidade in vitro do VIH à lamivudina e a resposta clínica à terapêutica contendo lamivudina permanece em estudo.
+ A lamivudina na dosagem de 100 mg uma vez por dia mostrou igualmente ser efectiva para o tratamento de doentes adultos com infecção crónica VHB (para mais detalhes sobre os ensaios clínicos, ver o Resumo das Características do Medicamento de Zeffix). Contudo, para o tratamento da infecção VIH apenas 300 mg por dia de lamivudina (em associação com outros compostos antirretrovíricos) mostraram ser eficazes.
+ A lamivudina não tem sido especialmente estudada em doentes co-infectados VIH e VHB.
+ Toma única diária (300 mg uma vez por dia): Um ensaio clínico demonstrou não existir inferioridade entre o regime de Epivir em toma única diária e Epivir em duas tomas diárias. Estes resultados foram obtidos numa população sem tratamento prévio com antirretrovíricos, principalmente constituída por doentes assintomáticos com infecção pelo VIH (CDC estadio A).
+ 5.2 Propriedades farmacocinéticas Absorção: a lamivudina é bem absorvida a partir do tracto gastrintestinal e a sua biodisponibilidade oral em adultos varia normalmente entre 80 e 85%. Após administração oral, o tempo médio (tmax) para as concentrações séricas máximas (Cmax) é de aproximadamente uma hora. Com base em dados retirados de um estudo em voluntários saudáveis, com doses terapêuticas de 150 mg duas vezes por dia, as Cmax e Cmin médias (CV) no estado estacionário da lamivudina no plasma são de 1,2 µg/ml (24%) e 0,09 µg/ml (27%), respectivamente. A AUC média (CV) num intervalo posológico de 12 h é de 4,7 µg. h/ml (18%). Com doses terapêuticas de 300 mg uma vez por dia, as Cmax, Cmin e AUC de 24 h médias (CV) no estado estacionário são de 2,0 µg/ml (26%), 0,04 µg/ml (34%) e 8,9 µg. h/ml (21%), respectivamente.
+ Os comprimidos de 150 mg são bioequivalentes e de dosagem proporcional aos comprimidos de 300 mg, relativamente à AUC∞, Cmax e tmax.
+ A administração de lamivudina com alimentos resulta num atraso do tmax e numa Cmax inferior (redução de 47%). No entanto, o grau (com base na AUC) de absorção da lamivudina não é influenciado.
+ Não se espera que a administração de comprimidos esmagados com uma pequena dose de alimentos semi-sólidos ou líquidos afecte a qualidade farmacêutica do fármaco e, consequentemente, não se espera que altere o seu efeito clínico. Esta conclusão é baseada nos dados fisicoquímicos e farmacocinéticos, assumindo-se que o doente esmaga e transfere 100% do comprimido e que o ingere imediatamente.
+ A administração concomitante de zidovudina resulta num aumento de 13% na exposição à zidovudina e num aumento de 28% nos níveis plasmáticos máximos. Este facto não é considerado significativo para a segurança do doente e como tal não é necessário ajuste da dose.
+ Distribuição: em ensaios clínicos de administração intravenosa, o volume de distribuição médio é de 1,3 l/kg. O tempo de semi-vida de eliminação observado é de 5 a 7 horas. A depuração sistémica média da lamivudina é de aproximadamente 0,32 l/h/kg, com predominância da depuração renal (&gt; 70%) através do sistema de transporte catiónico orgânico.
+ A lamivudina exibe uma farmacocinética linear em toda a gama de doses terapêuticas e apresenta baixa ligação à principal proteína plasmática, albumina (&lt; 16%-36% à albumina sérica em estudos in vitro).
+ 31 Alguns dados mostram que a lamivudina penetra no sistema nervoso central e atinge o líquido cefalorraquidiano (LCR). A razão média LCR/concentração sérica de lamivudina, 2-4 horas após administração oral, foi aproximadamente 0,12. Desconhece-se o verdadeiro grau de penetração ou relação com qualquer eficácia clínica.
+ Metabolismo: a fracção activa, trifosfato de lamivudina intracelular, tem um tempo de semi-vida terminal celular prolongado (16 a 19 horas) comparativamente ao tempo de semi-vida plasmática da lamivudina (5 a 7 horas). Em 60 voluntários adultos saudáveis, demonstrou-se que Epivir 300 mg uma vez por dia era farmacocineticamente equivalente, no estado de equilíbrio, ao Epivir 150 mg, duas vezes por dia, relativamente à Cmax e AUC24 do trifosfato intracelular.
+ A lamivudina é predominantemente eliminada na forma inalterada por excreção renal. A probabilidade de interacções metabólicas entre a lamivudina e outros medicamentos é baixa devido ao pequeno grau de metabolismo hepático (5-10%) e à baixa ligação às proteínas plasmáticas.
+ Eliminação: ensaios clínicos em doentes com compromisso renal mostram que a eliminação da lamivudina é afectada pela disfunção renal. O regime posológico recomendado para doentes com depuração da creatinina inferior a 50 ml/min está indicado na secção da posologia (ver secção 4.2).
+ A interacção com trimetoprim, um componente do cotrimoxazol, provoca um aumento de 40% na exposição à lamivudina em doses terapêuticas. Este facto não requer ajuste da dose a menos que o doente sofra também de compromisso renal (ver secções 4.5, e 4.2). A administração de cotrimoxazol com lamivudina em doentes com compromisso renal deverá ser cuidadosamente avaliada.
+ Farmacocinética na criança: em geral, a farmacocinética da lamivudina em doentes pediátricos é semelhante à dos adultos. No entanto, a biodisponibilidade absoluta (aproximadamente 55-65%) estava diminuída em doentes pediátricos de idade inferior a 12 anos. Além disso, os valores da depuração sistémica foram superiores em doentes pediátricos mais jovens e diminuíram com a idade, aproximando-se dos valores dos adultos cerca dos 12 anos de idade. Devido a estas diferenças, a dose de lamivudina recomendada para crianças (com mais de três meses e com peso inferior a 30 kg) é de 4 mg/kg duas vezes dia. Esta dose induzirá uma AUC0-12 média aproximadamente na ordem dos 3800 a 5300 ng. h/ml. Dados recentes, indicam que a exposição em crianças com idade inferior a 6 anos, pode ser reduzida em cerca de 30%, comparativamente com outros grupos etários. Presentemente, são aguardados dados adicionais relativamente a este assunto. Presentemente, os dados disponíveis não sugerem que a lamivudina seja menos eficaz neste grupo etário.
+ Os dados farmacocinéticos em doentes de idade inferior a três meses são limitados. Em recém-nascidos com uma semana de idade, a depuração oral da lamivudina estava diminuída em comparação com doentes pediátricos, provavelmente devido à função renal imatura e à absorção variável. Portanto, para atingir exposição semelhante em adultos e doentes pediátricos, a dose recomendada para recém-nascidos é de 4 mg/kg por dia. Os valores estimados para a filtração glomerular sugerem que a dose recomendada em crianças de idade igual ou superior a seis semanas poderá ser de 8 mg/kg por dia, para que se obtenha uma exposição semelhante em adultos e doentes pediátricos.
+ Farmacocinética na gravidez: após administração oral, a farmacocinética da lamivudina na fase final da gravidez foi semelhante à de mulheres não grávidas.
+ 5.3 Dados de segurança pré-clínica Em estudos de toxicidade animal, a administração de lamivudina em doses elevadas não foi associada a toxicidade major em qualquer órgão. Nas doses mais elevadas, foram observados efeitos menores nos indicadores da função hepática e renal em conjunto com redução ocasional do peso do fígado. Os efeitos clinicamente relevantes observados foram diminuição do número de glóbulos vermelhos e neutropenia.
+ A lamivudina não foi mutagénica nos testes bacterianos no entanto, como muitos análogos de nucleósido, mostrou actividade num ensaio citogenético in vitro e no ensaio do linfoma no ratinho. A
+ 32 lamivudina não foi genotóxica in vivo em doses que originaram concentrações plasmáticas cerca de 40-50 vezes superiores aos níveis plasmáticos clínicos previstos. Como a actividade mutagénica in vitro da lamivudina não pôde ser confirmada nos testes in vivo, conclui-se que a lamivudina não deve representar perigo genotóxico para doentes em tratamento.
+ Um estudo genotóxico transplacentário conduzido em macacos comparou a zidovudina isoladamente com a associação zidovudina e lamivudina, em níveis de exposições equivalentes à humana. Este estudo demonstrou que fetos expostos in utero à associação retiveram um maior nível de incorporação do análogo do nucleósido no ADN em múltiplos órgãos fetais e demonstrou evidência de um maior encurtamento do telómero do que nos expostos à zidovudina isolada. Desconhece-se o significado clínico destes resultados
+ Os resultados dos estudos de carcinogenicidade a longo prazo no rato e ratinho não demonstraram qualquer potencial carcinogénico relevante para o ser humano.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1 Lista dos excipientes Núcleo do comprimido: Celulose microcristalina (E460) Amidoglicolato de sódio Estearato de magnésio
+ Revestimento do comprimido: Hipromelose (E464) Dióxido de titânio (E171) Óxido de ferro preto (E172) Macrogol Polissorbato 80.
+ 6.2 Incompatibilidades Não aplicável. 6.3 Prazo de validade Embalagens com frasco de HDPE 3 anos. Embalagens com blisters de alumínio/PVC 2 anos. 6.4 Precauções especiais de conservação
+ Não conservar acima de 30°C. 6.5 Natureza e conteúdo do recipiente Embalagens contendo 30 comprimidos em frasco de polietileno de alta densidade (HDPE), com fecho resistente à abertura por crianças ou em blisters de folha de alumínio/PVC.
+ 6.6 Precauções especiais de eliminação Não existem requisitos especiais. 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO 33 Glaxo Group Limited Greenford Road Greenford Middlesex UB6 0NN Reino Unido
+ 8. NÚMERO(S) DE AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/96/015/003 (Embalagens com frasco) EU/1/96/015/005 (Embalagens com blisters)
+ 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Data da primeira autorização: 15 Novembro 2001 Data da última renovação: 28 de Julho de 2006
+ 10. DATA DA REVISÃO DO TEXTO Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu
+ 34 ANEXO II
+ A. TITULARES DAS AUTORIZAÇÕES DE FABRICO RESPONSÁVEIS PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 35 A. TITULARES DAS AUTORIZAÇÕES DE FABRICO RESPONSÁVEIS PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço dos fabricantes responsáveis pela libertação do lote
+ Comprimidos revestidos por película: Glaxo Operations UK Limited (trading as Glaxo Wellcome Operations) Priory Street, Ware Hertfordshire SG12 0DJ Reino Unido
+ ou
+ GlaxoSmithKline Pharmaceuticals S. A. ul. Grunwaldzka 189 60-322 Poznan Polónia
+ Solução oral: Glaxo Wellcome GmbH &amp; Co. KG Industriestrasse 32-36 23843 Bad Oldesloe Alemanha
+ O folheto informativo que acompanha o medicamento deve mencionar o nome e endereço do fabricante responsável pela libertação do lote em causa.
+ B. DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento de receita médica restrita, de utilização reservada a certos meios especializados (ver Anexo I: Resumo das Características do Medicamento, secção 4.2.)
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ Não aplicável • OUTRAS CONDIÇÕES
+ RPS: O titular desta autorização de introdução no mercado terá de submeter relatórios periódicos de segurança anualmente.
+ 36 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 37 A. ROTULAGEM
+ 38 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO E NO ACONDICIONAMENTO PRIMÁRIO
+ CARTONAGEM DO FRASCO DE 60 COMPRIMIDOS REVESTIDOS POR PELÍCULA (150 mg)
+ 1. NOME DO MEDICAMENTO Epivir 150 mg comprimidos revestidos por película Lamivudina
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIAS(S) ACTIVA(S)
+ Cada comprimido revestido por película contém 150 mg de lamivudina
+ 3. LISTA DOS EXCIPIENTES 4. FORMA FARMACÊUTICA E CONTEÚDO 60 comprimidos revestidos por película Comprimidos ranhurados
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Não conservar acima de 30°C 39 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Glaxo Group Ltd Greenford Middlesex UB6 0NN Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/96/015/001 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE epivir 150 mg
+ 40 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO E NO ACONDICIONAMENTO PRIMÁRIO
+ RÓTULO DO FRASCO DE 60 COMPRIMIDOS REVESTIDOS POR PELÍCULA (150 mg)
+ 1. NOME DO MEDICAMENTO Epivir 150 mg comprimidos revestidos por película Lamivudina
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIAS(S) ACTIVA(S)
+ Cada comprimido revestido por película contém 150 mg de lamivudina
+ 3. LISTA DOS EXCIPIENTES 4. FORMA FARMACÊUTICA E CONTEÚDO 60 comprimidos revestidos por película Comprimidos ranhurados
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Não conservar acima de 30°C 41 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Glaxo Group Ltd Greenford Middlesex UB6 0NN Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/96/015/001 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE 42 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ CARTONAGEM PARA BLISTER DE 60 COMPRIMIDOS REVESTIDOS POR PELÍCULA (150 mg)
+ 1. NOME DO MEDICAMENTO Epivir 150 mg comprimidos revestidos por película Lamivudina
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada comprimido revestido por película contém 150 mg de lamivudina
+ 3. LISTA DOS EXCIPIENTES 4. FORMA FARMACÊUTICA E CONTEÚDO 60 comprimidos revestidos por película 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Não conservar acima de 30°C 43 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL.
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Glaxo Group Ltd Greenford Middlesex UB6 0NN Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/96/015/004 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PUBLÍCO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE epivir 150 mg
+ 44 INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS “ BLISTER ” OU FITAS CONTENTORAS
+ 1. NOME DO MEDICAMENTO Epivir 150 mg comprimidos Lamivudina 2. NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Glaxo Group Ltd 3. PRAZO DE VALIDADE VAL 4. NÚMERO DO LOTE Lote 5. OUTRAS 45 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO E NO ACONDICIONAMENTO PRIMÁRIO
+ CARTONAGEM DO FRASCO PARA SOLUÇÃO ORAL 1. NOME DO MEDICAMENTO Epivir 10 mg/ml solução oral Lamivudina 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada ml de solução oral contém 10 mg de lamivudina
+ 3. LISTA DOS EXCIPIENTES Este medicamento também contém açúcar e conservantes: para-hidroxibenzoato de metilo e para-hidroxibenzoato de propilo
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Conteúdo do frasco: 240 ml de solução oral
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. 46 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Não conservar acima de 25°C Inutilizar um mês após a primeira abertura
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Glaxo Group Ltd Greenford Middlesex UB6 0NN Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/96/015/002 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE epivir 10 mg/ml
+ 47 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO E NO ACONDICIONAMENTO PRIMÁRIO
+ RÓTULO DO FRASCO PARA SOLUÇÃO ORAL 1. NOME DO MEDICAMENTO Epivir 10 mg/ml solução oral Lamivudina 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada ml de solução oral contém 10 mg de lamivudina
+ 3. LISTA DOS EXCIPIENTES Este medicamento também contém açúcar e conservantes: para-hidroxibenzoato de metilo e para-hidroxibenzoato de propilo
+ 4. FORMA FARMACÊUTICA E CONTEÚDO Conteúdo do frasco: 240 ml de solução oral
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL{ MM/AAAA} 48 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Não conservar acima de 25°C Inutilizar um mês após a primeira abertura
+ 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Glaxo Group Ltd Greenford Middlesex UB6 0NN Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/96/015/002 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE 49 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO E NO ACONDICIONAMENTO PRIMÁRIO
+ CARTONAGEM DO FRASCO DE 30 COMPRIMIDOS REVESTIDOS POR PELÍCULA (300 mg)
+ 1. NOME DO MEDICAMENTO Epivir 300 mg comprimidos revestidos por película Lamivudina
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada comprimido revestido por película contém 300 mg de lamivudina
+ 3. LISTA DOS EXCIPIENTES 4. FORMA FARMACÊUTICA E CONTEÚDO 30 comprimidos revestidos por película 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Não conservar acima de 30°C 50 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÀVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Glaxo Group Ltd Greenford Middlesex UB6 0NN Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/96/015/003 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE epivir 300 mg
+ 51 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO E NO ACONDICIONAMENTO PRIMÁRIO
+ RÓTULO DO FRASCO DE 30 COMPRIMIDOS REVESTIDOS POR PELÍCULA (300 mg)
+ 1. NOME DO MEDICAMENTO Epivir 300 mg comprimidos revestidos por película Lamivudina
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada comprimido revestido por película contém 300 mg de lamivudina
+ 3. LISTA DOS EXCIPIENTES 4. FORMA FARMACÊUTICA E CONTEÚDO 30 comprimidos revestidos por película 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL{ MM/AAAA} 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Não conservar acima de 30°C 52 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÀVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Glaxo Group Ltd Greenford Middlesex UB6 0NN Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/96/015/003 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE 53 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO
+ CARTONAGEM PARA BLISTER DE 30 COMPRIMIDOS REVESTIDOS POR PELÍCULA (300 mg)
+ 1. NOME DO MEDICAMENTO Epivir 300 mg comprimidos revestidos por película Lamivudina
+ 2. DESCRIÇÃO DA(S) SUBSTÂNCIA(S) ACTIVA(S)
+ Cada comprimido revestido por película contém 300 mg de lamivudina
+ 3. LISTA DOS EXCIPIENTES 4. FORMA FARMACÊUTICA E CONTEÚDO 30 comprimidos revestidos por película 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral Consultar o folheto informativo antes de utilizar.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO
+ Não conservar acima de 30°C 54 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE APLICÁVEL
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Glaxo Group Ltd Greenford Middlesex UB6 0NN Reino Unido
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/96/015/005 13. NÚMERO DO LOTE Lote 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE epivir 300 mg
+ 55 INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS “ BLISTER ” OU FITAS CONTENTORAS
+ 1. NOME DO MEDICAMENTO Epivir 300 mg comprimidos Lamivudina 2. NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Glaxo Group Ltd 3. PRAZO DE VALIDADE VAL 4. NÚMERO DO LOTE Lote 5. OUTRAS 56 B. FOLHETO INFORMATIVO
+ 57 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Epivir 150 mg comprimidos revestidos por película Lamivudina
+ Leia atentamente este folheto antes de tomar este medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode
+ ser-lhes prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários
+ não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é Epivir e para que é utilizado 2. Antes de tomar Epivir 3. Como tomar Epivir 4. Efeitos secundários possíveis 5. Como conservar Epivir 6. Outras informações
+ 1. O QUE É EPIVIR E PARA QUE É UTILIZADO
+ Epivir pertence a um grupo de medicamentos antivíricos, também conhecidos como antirretrovíricos, denominados análogos de nucleósido inibidores da transcriptase reversa (NRTIs). Estes medicamentos são utilizados no tratamento da infecção pelo Vírus da Imunodeficiência Humana (VIH).
+ Epivir é utilizado na terapêutica antirretrovírica de associação para o tratamento de adultos e crianças com infecção pelo VIH. Epivir reduz a carga vírica VIH no seu organismo, mantendo-a a níveis baixos, e aumenta o número de células CD4. As células CD4 são um tipo de glóbulos brancos que desempenham um papel importante na manutenção do funcionamento normal do sistema imunitário, ajudando no combate à infecção. A resposta ao tratamento com Epivir varia entre doentes. O seu médico monitorizará a eficácia do seu tratamento.
+ 2. ANTES DE TOMAR EPIVIR Não tome Epivir -se tem alergia (hipersensibilidade) à lamivudina ou a qualquer outro componente dos
+ comprimidos de Epivir.
+ Em caso de dúvida, por favor consulte o seu médico.
+ Tome especial cuidado com Epivir Se tiver doença renal, fale com o seu médico sobre a utilização de Epivir. Poderá ser necessário reduzir a dose padrão recomendada para Epivir.
+ A classe de medicamentos à qual pertence o Epivir (NRTIs) pode causar uma situação denominada acidose láctica (aumento dos níveis de ácido láctico no organismo), juntamente com uma dilatação hepática. Normalmente, esta situação, se ocorrer, desenvolve-se após alguns meses de tratamento. A ocorrência de respiração profunda e rápida, sonolência e sintomas não específicos, tais como náuseas, vómitos e dor do estômago, poderão indicar o desenvolvimento de acidose láctica. Este efeito secundário raro, mas grave, ocorre com mais frequência na mulher, particularmente se for obesa. Se tiver doença hepática pode também ver aumentado o risco de desenvolver esta situação. Enquanto
+ 58 estiver sob tratamento com Epivir, o seu médico monitorizá-lo-á frequentemente para detecção de qualquer sinal que possa mostrar de acidose láctica.
+ Pode ocorrer redistribuição, acumulação ou perda de tecido adiposo corporal nos doentes a receber terapêutica de associação antirretrovírica. Se notar alterações no tecido adiposo corporal, consulte o seu médico.
+ Em alguns doentes com infecção avançada por VIH (SIDA) e história de infecção oportunista, podem ocorrer sinais e sintomas de inflamação resultantes de infecções anteriores, pouco tempo após o início do tratamento anti-VIH. Pensa-se que estes sintomas se devem a um aumento da resposta imunitária do organismo, habilitando-o a combater infecções que possam ter existido sem sintomas evidentes. Se notar quaisquer sintomas de infecção, por favor informe imediatamente o seu médico.
+ Fale com o seu médico se tiver antecedentes de doença do fígado. Os doentes com hepatite B ou C crónica tratados com antirretrovíricos têm um risco aumentado de acontecimentos adversos hepáticos graves e potencialmente fatais e poderão requerer análises sanguíneas para monitorização da função hepática.
+ Se tiver hepatite B crónica, não deve interromper o tratamento com Epivir sem instruções do seu médico, pois poderá ocorrer recidiva da hepatite. Esta recidiva poderá ser mais grave se tiver doença do fígado grave.
+ Vai precisar de tomar Epivir diariamente. Este medicamento ajuda-o a controlar a doença, mas não é uma cura para a infecção pelo VIH. Poderá continuar a desenvolver outras infecções e outras doenças associadas à infecção pelo VIH. Deve manter contacto regular com o seu médico. Não pare de tomar o medicamento sem antes consultar o seu médico.
+ O tratamento com Epivir não mostrou reduzir o risco de contágio da infecção pelo VIH a outros, por contacto sexual ou transmissão sanguínea. Deve continuar a tomar as precauções apropriadas para prevenir a transmissão.
+ Problemas ósseos: Alguns doentes em terapêutica anti-retroviral combinada podem desenvolver uma doença óssea chamada osteonecrose (morte do tecido ósseo provocada por falta de afluxo de sangue ao osso). A duração da terapêutica anti-retroviral combinada, a utilização de corticosteróides, o consumo de álcool, a imunossupressão grave, um índice de massa corporal aumentado, entre outros, podem ser alguns dos inúmeros factores de risco para o desenvolvimento desta doença. Os sinais de osteonecrose são rigidez, mal-estar e dores nas articulações (especialmente na anca, joelho e ombro) e dificuldade de movimentos. Por favor informe o seu médico se notar qualquer um destes sintomas.
+ Ao tomar Epivir com outros medicamentos É importante que informe o seu médico sobre todos os medicamentos que está a tomar, incluindo medicamentos obtidos sem receita médica. Estes podem afectar a acção do Epivir ou o Epivir afectar a sua acção. Epivir não deve ser administrado com zalcitabina, doses elevadas de cotrimoxazol ou perfusões de ganciclovir ou foscarnet.
+ Gravidez e Aleitamento Se engravidar ou estiver a planear engravidar, tem que consultar o seu médico para discutir os potenciais efeitos adversos e os benefícios e riscos da terapêutica antirretrovírica para si e para a criança. Epivir não é recomendado durante os primeiros três meses da gravidez
+ Se tomou Epivir durante a gravidez, o seu médico pode pedir-lhe para efectuar consultas regulares para monitorizar o desenvolvimento da criança. Estas consultas poderão incluir análises ao sangue e outros testes de diagnóstico.
+ Nas crianças cujas mães tomaram análogos dos nucleósidos e nucleótidos durante a gravidez, o benefício da menor possibilidade de infecção pelo VIH é superior ao risco de sofrerem efeitos secundários.
+ 59 As mulheres que tomem Epivir não devem amamentar os seus filhos, pois a lamivudina e o vírus VIH passam para o leite materno. Recomenda-se que as mulheres infectadas pelo VIH não amamentem os seus filhos sob qualquer circunstância, de modo a evitar a transmissão do VIH.
+ 3. COMO TOMAR EPIVIR Tome Epivir sempre de acordo com as indicações do médico. Fale com o seu médico ou farmacêutico se tiver dúvidas. Engula os comprimos de Epivir com água ou com outra bebida. Os comprimidos podem ser tomados com ou sem alimentos.
+ A dose diária usual de Epivir em adultos e adolescentes de idade superior a 12 anos é de 300 mg. A dose pode ser tomada como 1 comprimido de 150 mg duas vezes por dia, com aproximadamente 12 horas de intervalo, ou como 300 mg uma vez por dia (2 comprimidos de 150 mg ou 1 comprimido de 300 mg).
+ Crianças (com menos de 12 anos) Para crianças com peso inferior a 30 kg, a dose recomendada de Epivir é 1 comprimido 150 mg duas vezes ao dia, com intervalo de 12 horas.
+ Para crianças com peso entre 21 kg e 30 kg: a dose oral recomendada de Epivir (150 mg) é metade do comprimido pela manhã e 1 comprimido inteiro ao final da tarde.
+ Crianças com peso entre 14 kg e 21 kg: a dose oral recomendada de Epivir (150 mg) é metade de um comprimido ranhurado duas vezes ao dia.
+ Está também disponível uma solução oral para o tratamento de crianças de idade superior a três meses e para doentes com dificuldade em tomar os comprimidos ou com necessidade de dosagens mais baixas.
+ Se não consegue engolir o(s) comprimido(s), pode esmagá-los e adicioná-los a uma pequena quantidade de alimento ou bebida e tomar a totalidade da dose imediatamente.
+ Se tiver problemas renais, poderá ser necessário alterar a sua dose. Por favor siga as instruções do seu médico.
+ Se tomar mais Epivir do que deveria Se tomar acidentalmente demasiado Epivir não é provável que tenha problemas graves. No entanto, deve informar o seu médico ou farmacêutico ou contactar o serviço de urgência do hospital mais próximo para informações mais detalhadas.
+ Caso se tenha esquecido de tomar Epivir Se se esqueceu de tomar uma dose de Epivir, deve tomá-la assim que se lembrar e continuar como anteriormente. Não tome uma dose a dobrar para compensar uma dose que se esqueceu de tomar.
+ Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou farmacêutico.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todos os medicamentos, Epivir pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas. Ao tratar a infecção pelo VIH, nem sempre é possível saber se alguns
+ 60 dos efeitos indesejáveis que ocorrem são causados por Epivir, por outros medicamentos que está a tomar simultaneamente ou pela infecção VIH. Por este motivo, é muito importante que informe o seu médico sobre quaisquer alterações na sua saúde.
+ Os efeitos secundários mais frequentemente comunicados (superior a 1 em cada 100 doentes tratados) são: náuseas, vómitos, dor no estômago, diarreia, dores de cabeça, dor nas articulações, perturbações musculares, tosse, sintomas nasais (irritação, corrimento nasal), febre, cansaço, sensação de mal-estar geral, erupções cutâneas, queda de cabelo e insónias.
+ Os seguintes efeitos secundários são pouco frequentes (entre 1 em 1000 e 1 em 100 doentes tratados): anemia (número de glóbulos vermelhos baixo) e neutropenia (número de glóbulos brancos baixo) e redução do número de plaquetas (células do sangue importantes para a coagulação sanguínea). Caso o número de glóbulos vermelhos esteja diminuído, poderá sentir cansaço ou falta de fôlego. A redução do número de glóbulos brancos poderá torná-lo mais susceptível a infecções. Caso tenha um número de plaquetas baixo, poderá notar que forma equimoses mais facilmente. O aumento de certas enzimas do fígado foi também constatado em amostras de sangue dos doentes em tratamento com Epivir.
+ Existem comunicações raras (entre 1 em 10 000 e 1 em 1 000 doentes tratados) de inflamação do fígado (hepatite), inflamação do pâncreas (pancreatite) e destruição de tecido muscular.
+ Existem também comunicações muito raras (menos de 1 em 10 000 doentes tratados) de dormência, sensação de formigueiro ou de fraqueza nos membros e anemia e neutropenia graves.
+ Em raras ocasiões, foram notificados casos de desenvolvimento de uma situação denominada acidose láctica, em que o aumento do ácido láctico no organismo poderá causar desidratação e coma, em doentes a tomar NRTIs (para mais informações ver Tome especial cuidado com Epivir).
+ A terapêutica de associação antirretrovírica pode originar modificações corporais devido a alterações na distribuição de tecido adiposo. Estas podem incluir perda de tecido adiposo nas pernas, braços e face, acumulação de tecido adiposo no abdómen (barriga) e noutros órgãos internos, aumento de tamanho do peito, nódulos de gordura na parte de trás do pescoço (“ nuca de búfalo ”). Actualmente, não se conhece a causa e o efeito a longo prazo na saúde destas situações.
+ A terapêutica de associação antirretrovírica pode também originar subida da quantidade de ácido láctico e de açúcar no sangue, hiperlipidemia (aumento dos níveis de gordura no sangue) e resistência à insulina.
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR EPIVIR Manter fora do alcance e da vista das crianças.
+ Não utilize Epivir após o prazo de validade impresso no recipiente, após VAL. O prazo de validade corresponde ao último dia do mês indicado.
+ Não conservar acima de 30°C. Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 61 6. OUTRAS INFORMAÇÕES
+ Qual a composição de Epivir A substância activa de Epivir é denominada lamivudina. Cada comprimido revestido por película de Epivir contém 150 mg de lamivudina.
+ Os comprimidos contêm também os seguintes componentes: Núcleo do comprimido: celulose microcristalina, amidoglicolato de sódio (sem glúten), estearato de magnésio. Revestimento do comprimido: hipromelose, dióxido de titânio, macrogol e polissorbato 80.
+ Qual o aspecto de Epivir e conteúdo da embalagem Os comprimidos revestidos por película de Epivir 150 mg são acondicionados em embalagens contendo 60 comprimidos em frasco branco de polietileno ou em blister. Os comprimidos revestidos por película são brancos, em forma de losango, ranhurados, gravados com o código “ GXCJ7 ” em ambas as faces.
+ Titular da Autorização de Introdução no Mercado e Fabricante
+ Fabricante Titular da Autorização de Introdução no Mercado
+ Glaxo Operations UK Limited (trading as Glaxo Wellcome Operations) Priory Street Ware Herts SG12 0DJ Reino Unido
+ Glaxo Group Ltd Greenford Road Greenford Middlesex UB6 0NN Reino Unido
+ ou
+ GlaxoSmithKline Pharmaceuticals S. A. ul. Grunwaldzka 189 60-322 Poznan Polónia
+ 62 Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no mercado:
+ België/Belgique/Belgien GlaxoSmithKline s. a./n. v. Tél/Tel:+ 32 (0) 2 656 21 11
+ Luxembourg/Luxemburg GlaxoSmithKline s. a./n. v. Belgique/Belgien Tél/Tel:+ 32 (0) 2 656 21 11
+ България ГлаксоСмитКлайн ЕООД Teл.:+ 359 2 953 10 34
+ Magyarország GlaxoSmithKline Kft. Tel.:+ 36 1 225 5300
+ Česká republika GlaxoSmithKline s. r. o. Tel:+ 420 222 001 111 gsk. czmail@ gsk. com
+ Malta GlaxoSmithKline Malta Tel:+ 356 21 238131
+ Danmark GlaxoSmithKline Pharma A/S Tlf:+ 45 36 35 91 00 info@ glaxosmithkline. dk
+ Nederland GlaxoSmithKline BV Tel:+ 31 (0) 30 6938100 nlinfo@ gsk. com
+ Deutschland GlaxoSmithKline GmbH &amp; Co. KG Tel.:+ 49 (0) 89 36044 8701 produkt. info@ gsk. com
+ Norge GlaxoSmithKline AS Tlf:+ 47 22 70 20 00 firmapost@ gsk. no
+ Eesti GlaxoSmithKline Eesti OÜ Tel:+ 372 6676 900 estonia@ gsk. com
+ Österreich GlaxoSmithKline Pharma GmbH Tel:+ 43 (0) 1 97075 0 at. info@ gsk. com
+ Ελλάδα GlaxoSmithKline A. E. B. E. Τηλ:+ 30 210 68 82 100
+ Polska GSK Commercial Sp z. o. o. Tel.:+ 48 (0) 22 576 9000
+ España GlaxoSmithKline, S. A. Tel:+ 34 902 202 700 es-ci@ gsk. com
+ Portugal Glaxo Wellcome Farmacêutica, Lda. Tel:+ 351 21 412 95 00 FI. PT@ gsk. com
+ France Laboratoire GlaxoSmithKline Tél:+ 33 (0) 1 39 17 84 44 diam@ gsk. com
+ România GlaxoSmithKline (GSK) S. R. L. Tel:+ 4021 3028 208 www. gsk. ro
+ Ireland GlaxoSmithKline (Ireland) Limited Tel:+ 353 (0) 1 4955000
+ Slovenija GlaxoSmithKline d. o. o. Tel:+ 386 (0) 1 280 25 00 Medical. x. si@ gsk. com
+ Ísland GlaxoSmithKline ehf. Simi:+ 354 530 3700
+ Slovenská republika GlaxoSmithKline Slovakia s. r. o. Tel:+ 421 (0) 2 49 10 33 11 recepcia. sk@ gsk. com
+ 63 Italia GlaxoSmithKline S. p. A. Tel:+ 39 (0) 45 9218 111
+ Suomi/Finland GlaxoSmithKline Oy Puh/Tel:+ 358 (0) 10 30 30 30 Finland. tuoteinfo@ gsk. com
+ Κύπρος GlaxoSmithKline Cyprus Ltd Τηλ:+ 357 22 89 95 01
+ Sverige GlaxoSmithKline AB Tel:+ 46 (0) 8 638 93 00 info. produkt@ gsk. com
+ Latvija GlaxoSmithKline Latvia SIA Tel:+ 371 67312687 lv-epasts@ gsk. com
+ United Kingdom GlaxoSmithKline UK Tel:+ 44 (0) 800 221441 customercontactuk@ gsk. com
+ Lietuva GlaxoSmithKline Lietuva UAB Tel:+ 370 5 264 90 00 info. lt@ gsk. com
+ Este folheto foi aprovado pela última vez em
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu
+ 64 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Epivir 10 mg/ml solução oral Lamivudina
+ Leia atentamente este folheto antes de tomar este medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ -
+ prejudicial mesmo que apresentem os mesmos sintomas. Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ -
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é Epivir e para que é utilizado 2. Antes de tomar Epivir 3. Como tomar Epivir 4. Efeitos secundários possíveis 5. Como conservar Epivir 6. Outras informações
+ 1. O QUE É EPIVIR E PARA QUE É UTILIZADO
+ Epivir pertence a um grupo de medicamentos antivíricos, também conhecidos como antirretrovíricos, denominados análogos de nucleósido inibidores da transcriptase reversa (NRTIs). Estes medicamentos são utilizados no tratamento da infecção pelo Vírus da Imunodeficiência Humana (VIH).
+ Epivir é utilizado na terapêutica antirretrovírica de associação para o tratamento de adultos e crianças com infecção pelo VIH. Epivir reduz a carga vírica VIH no seu organismo, mantendo-a a níveis baixos, e aumenta o número de células CD4. As células CD4 são um tipo de glóbulos brancos que desempenham um papel importante na manutenção do funcionamento normal do sistema imunitário, ajudando no combate à infecção. A resposta ao tratamento com Epivir varia entre doentes. O seu médico monitorizará a eficácia do seu tratamento.
+ 2. ANTES DE TOMAR EPIVIR Não tome Epivir -se tem alergia (hipersensibilidade) à lamivudina ou a qualquer outro componente da solução
+ oral de Epivir.
+ Em caso de dúvida, por favor consulte o seu médico.
+ Tome especial cuidado com Epivir Se tiver doença renal, fale com o seu médico sobre a utilização de Epivir. Poderá ser necessário reduzir a dose padrão recomendada para Epivir.
+ Se é diabético, por favor note que cada dose (150 mg= 15 ml) contém 3 g de açúcar.
+ A classe de medicamentos à qual pertence o Epivir (NRTIs) pode causar uma situação denominada acidose láctica (aumento dos níveis de ácido láctico no organismo), juntamente com uma dilatação hepática. Normalmente, esta situação, se ocorrer, desenvolve-se após alguns meses de tratamento. A ocorrência de respiração profunda e rápida, sonolência e sintomas não específicos, tais como náuseas, vómitos e dor do estômago, poderão indicar o desenvolvimento de acidose láctica. Este efeito secundário raro, mas grave, ocorre com mais frequência na mulher, particularmente se for obesa. Se tiver doença hepática pode também ver aumentado o risco de desenvolver esta situação. Enquanto
+ 65 estiver sob tratamento com Epivir, o seu médico monitorizá-lo-á frequentemente para detecção de qualquer sinal que possa mostrar de acidose láctica.
+ Pode ocorrer redistribuição, acumulação ou perda de tecido adiposo corporal nos doentes a receber terapêutica de associação antirretrovírica. Se notar alterações no tecido adiposo corporal, consulte o seu médico.
+ Em alguns doentes com infecção avançada por VIH (SIDA) e história de infecção oportunista, podem ocorrer sinais e sintomas de inflamação resultantes de infecções anteriores, pouco tempo após o início do tratamento anti-VIH. Pensa-se que estes sintomas se devem a um aumento da resposta imunitária do organismo, habilitando-o a combater infecções que possam ter existido sem sintomas evidentes. Se notar quaisquer sintomas de infecção, por favor informe imediatamente o seu médico.
+ Fale com o seu médico se tiver antecedentes de doença do fígado. Os doentes com hepatite B ou C crónica tratados com antirretrovíricos têm um risco aumentado de acontecimentos adversos hepáticos graves e potencialmente fatais e poderão requerer análises sanguíneas para monitorização da função hepática.
+ Se tiver hepatite B crónica, não deve interromper o tratamento com Epivir sem instruções do seu médico, pois poderá ocorrer recidiva da hepatite. Esta recidiva poderá ser mais grave se tiver doença do fígado grave.
+ Vai precisar de tomar Epivir diariamente. Este medicamento ajuda-o a controlar a doença, mas não é uma cura para a infecção pelo VIH. Poderá continuar a desenvolver outras infecções e outras doenças associadas à infecção pelo VIH. Deve manter contacto regular com o seu médico. Não pare de tomar o medicamento sem antes consultar o seu médico.
+ O tratamento com Epivir não mostrou reduzir o risco de contágio da infecção pelo VIH a outros, por contacto sexual ou transmissão sanguínea. Deve continuar a tomar as precauções apropriadas para prevenir a transmissão.
+ Problemas ósseos: Alguns doentes em terapêutica anti-retroviral combinada podem desenvolver uma doença óssea chamada osteonecrose (morte do tecido ósseo provocada por falta de afluxo de sangue ao osso). A duração da terapêutica anti-retroviral combinada, a utilização de corticosteróides, o consumo de álcool, a imunossupressão grave, um índice de massa corporal aumentado, entre outros, podem ser alguns dos inúmeros factores de risco para o desenvolvimento desta doença. Os sinais de osteonecrose são rigidez, mal-estar e dores nas articulações (especialmente na anca, joelho e ombro) e dificuldade de movimentos. Por favor informe o seu médico se notar qualquer um destes sintomas.
+ Ao tomar Epivir com outros medicamentos É importante que informe o seu médico sobre todos os medicamentos que está a tomar, incluindo medicamentos obtidos sem receita médica. Podem afectar a acção do Epivir ou o Epivir afectar a sua acção. Epivir não deve ser administrado com zalcitabina, doses elevadas de cotrimoxazol ou perfusões de ganciclovir ou foscarnet.
+ Gravidez Se engravidar ou estiver a planear engravidar, tem que consultar o seu médico para discutir os potenciais efeitos adversos e os benefícios e riscos da terapêutica antirretrovírica para si e para a criança. Epivir não é recomendado durante os primeiros três meses da gravidez.
+ Se tomou Epivir durante a gravidez, o seu médico pode pedir-lhe para efectuar consultas regulares para monitorizar o desenvolvimento da criança. Estas consultas poderão incluir análises ao sangue e outros testes de diagnóstico.
+ Nas crianças cujas mães tomaram análogos dos nucleósidos e nucleótidos durante a gravidez, o benefício da menor possibilidade de infecção pelo VIH é superior ao risco de sofrerem efeitos secundários.
+ 66 Aleitamento As mulheres que tomem Epivir não devem amamentar os seus filhos, pois a lamivudina e o vírus VIH passam para o leite materno. Recomenda-se que as mulheres infectadas pelo VIH não amamentem os seus filhos sob qualquer circunstância, de modo a evitar a transmissão do VIH.
+ Informações importantes sobre alguns componentes de Epivir Epivir contém sacarose. Se foi informado pelo seu médico que tem um problema de intolerância a alguns açúcares, deverá contactar o seu médico antes de tomar Epivir. Epivir contém também conservantes (para-hidroxibenzoatos) que podem causar reacções alérgicas (possivelmente retardadas).
+ 3. COMO TOMAR EPIVIR Tome Epivir sempre de acordo com as indicações do seu médico. Fale com o seu médico ou farmacêutico se tiver dúvidas.
+ A dose diária usual de Epivir em adultos e adolescentes de idade superior a 12 anos é de 300 mg (30 ml). A dose pode ser tomada como 150 mg (15 ml) duas vezes por dia ou como 300 mg (30 ml) uma vez por dia.
+ Em crianças de 3 meses a 12 anos de idade, a dose recomendada é 4 mg/kg, duas vezes por dia, até um máximo de 300 mg por dia.
+ Deve respeitar um intervalo de aproximadamente 12 horas entre cada dose. Epivir pode ser tomado com ou sem alimentos.
+ Se tiver problemas renais, poderá ser necessário alterar a sua dose. Por favor siga as instruções do seu médico.
+ Para medir a dose a administrar com precisão utilize a seringa doseadora incluída na embalagem como se segue:
+ 1. Remova a tampa do frasco. 2. Empurre o adaptador de plástico para dentro do colo do frasco, segurando o frasco firmemente. 3. Insira a seringa no adaptador com firmeza. 4. Inverta o frasco. 5. Puxe o êmbolo da seringa até obter a quantidade correcta. 6. Coloque o frasco na posição vertical correcta e retire a seringa do adaptador. 7. Coloque a tampa no frasco e feche bem. 8. Administre a dose oralmente, introduzindo a extremidade da seringa no interior da boca. Pressione o êmbolo lentamente, enquanto engole. O esguichar rapidamente para a parte posterior da garganta pode causar o engasgar. 9. Após utilizar a seringa, não a deve deixar no frasco, devendo lavá-la convenientemente com água limpa.
+ Se tomar mais Epivir do que deveria: Se tomar acidentalmente demasiado Epivir não é provável que tenha problemas graves. No entanto, deve informar o seu médico ou farmacêutico ou contactar o serviço de urgência do hospital mais próximo para informações mais detalhadas.
+ Caso se tenha esquecido de tomar Epivir: Se se esqueceu de tomar uma dose de Epivir, deve tomá-la assim que se lembrar e continuar como anteriormente. Não tome uma dose a dobrar para compensar uma dose que se esqueceu de tomar.
+ 67 Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou farmacêutico.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todos os medicamentos, Epivir pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas. Ao tratar a infecção pelo VIH, nem sempre é possível saber se alguns dos efeitos indesejáveis que ocorrem são causados por Epivir, por outros medicamentos que está a tomar simultaneamente ou pela infecção VIH. Por este motivo, é muito importante que informe o seu médico sobre quaisquer alterações na sua saúde.
+ Os efeitos secundários mais frequentemente comunicados (superior a 1 em cada 100 doentes tratados) são: náuseas, vómitos, dor no estômago, diarreia, dores de cabeça, dor nas articulações, perturbações musculares, tosse, sintomas nasais (irritação e corrimento nasal), febre, cansaço, sensação de mal-estar geral, erupções cutâneas, queda de cabelo e insónias.
+ Os seguintes efeitos secundários são pouco frequentes (entre 1 em 1000 e 1 em 100 doentes tratados): anemia (número de glóbulos vermelhos baixo) e neutropenia (número de glóbulos brancos baixo) e redução do número de plaquetas (células do sangue importantes para a coagulação sanguínea). Caso o número de glóbulos vermelhos esteja diminuído, poderá sentir cansaço ou falta de fôlego. A redução do número de glóbulos brancos poderá torná-lo mais susceptível a infecções. Caso tenha um número de plaquetas baixo, poderá notar que forma equimoses mais facilmente. O aumento de certas enzimas do fígado foi também constatado em amostras de sangue dos doentes em tratamento com Epivir.
+ Existem comunicações raras (entre 1 em 10000 e 1 em 1000 doentes tratados) de inflamação do fígado (hepatite), inflamação do pâncreas (pancreatite) e destruição de tecido muscular.
+ Existem também comunicações muito raras (menos de 1 em 10000 doentes tratados) de dormência, sensação de formigueiro ou de fraqueza nos membros e anemia e neutropenia graves.
+ Em raras ocasiões, foram notificados casos de desenvolvimento de uma situação denominada acidose láctica, em que o aumento do ácido láctico no organismo poderá causar desidratação e coma, em doentes a tomar NRTIs (para mais informações ver Tome especial cuidado com Epivir).
+ A terapêutica de associação antirretrovírica pode originar modificações corporais devido a alterações na distribuição de tecido adiposo. Estas podem incluir perda de tecido adiposo nas pernas, braços e face, acumulação de tecido adiposo no abdómen (barriga) e noutros órgãos internos, aumento de tamanho do peito, nódulos de gordura na parte de trás do pescoço (“ nuca de búfalo ”). Actualmente, não se conhece a causa e o efeito a longo prazo na saúde destas situações.
+ A terapêutica de associação antirretrovírica pode também originar subida da quantidade de ácido láctico e de açúcar no sangue, hiperlipidemia (aumento dos níveis de gordura no sangue) e resistência à insulina.
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR EPIVIR Manter fora do alcance e da vista das crianças.
+ Não utilize Epivir após o prazo de validade impresso no frasco, após VAL. Inutilizar um mês após a primeira abertura da embalagem.
+ 68 Não conservar acima de 25°C.
+ Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Epivir A substância activa de Epivir é denominada lamivudina. Epivir solução oral contém 10 mg de lamivudina por ml de solução.
+ A solução oral contém também os seguintes componentes: açúcar (3 g/15 ml de sacarose), para-hidroxibenzoato de metilo, para-hidroxibenzoato de propilo, ácido cítrico anidro, citrato de sódio, propilenoglicol, água, aroma sintético de banana e morango.
+ Qual o aspecto de Epivir e conteúdo da embalagem A solução oral de Epivir é acondicionada em frasco branco de polietileno, contendo 240 ml de solução. A embalagem inclui uma seringa doseadora e um adaptador da seringa ao frasco.
+ Titular da Autorização de Introdução no Mercado e Fabricante Titular da Autorização de Introdução no Mercado: Glaxo Group Ltd, Greenford Road, Greenford, Middlesex UB6 0NN, Reino Unido
+ Fabricante: Glaxo Wellcome GmbH &amp; Co. KG, Industriestrasse 32-36,23843 Bad Oldesloe, Alemanha
+ 69 Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no mercado:
+ België/Belgique/Belgien GlaxoSmithKline s. a./n. v. Tél/Tel:+ 32 (0) 2 656 21 11
+ Luxembourg/Luxemburg GlaxoSmithKline s. a./n. v. Belgique/Belgien Tél/Tel:+ 32 (0) 2 656 21 11
+ България ГлаксоСмитКлайн ЕООД Teл.:+ 359 2 953 10 34
+ Magyarország GlaxoSmithKline Kft. Tel.:+ 36 1 225 5300
+ Česká republika GlaxoSmithKline s. r. o. Tel:+ 420 222 001 111 gsk. czmail@ gsk. com
+ Malta GlaxoSmithKline Malta Tel:+ 356 21 238131
+ Danmark GlaxoSmithKline Pharma A/S Tlf:+ 45 36 35 91 00 info@ glaxosmithkline. dk
+ Nederland GlaxoSmithKline BV Tel:+ 31 (0) 30 6938100 nlinfo@ gsk. com
+ Deutschland GlaxoSmithKline GmbH &amp; Co. KG Tel.:+ 49 (0) 89 36044 8701 produkt. info@ gsk. com
+ Norge GlaxoSmithKline AS Tlf:+ 47 22 70 20 00 firmapost@ gsk. no
+ Eesti GlaxoSmithKline Eesti OÜ Tel:+ 372 6676 900 estonia@ gsk. com
+ Österreich GlaxoSmithKline Pharma GmbH Tel:+ 43 (0) 1 97075 0 at. info@ gsk. com
+ Ελλάδα GlaxoSmithKline A. E. B. E. Τηλ:+ 30 210 68 82 100
+ Polska GSK Commercial Sp z. o. o. Tel.:+ 48 (0) 22 576 9000
+ España GlaxoSmithKline, S. A. Tel:+ 34 902 202 700 es-ci@ gsk. com
+ Portugal Glaxo Wellcome Farmacêutica, Lda Tel:+ 351 21 412 95 00 FI. PT@ gsk. com
+ France Laboratoire GlaxoSmithKline Tél:+ 33 (0) 1 39 17 84 44 diam@ gsk. com
+ România GlaxoSmithKline (GSK) S. R. L. Tel:+ 4021 3028 208 www. gsk. ro
+ Ireland GlaxoSmithKline (Ireland) Limited Tel:+ 353 (0) 1 4955000
+ Slovenija GlaxoSmithKline d. o. o. Tel:+ 386 (0) 1 280 25 00 Medical. x. si@ gsk. com
+ Ísland GlaxoSmithKline ehf. Simi:+ 354 530 3700
+ Slovenská republika GlaxoSmithKline Slovakia s. r. o. Tel:+ 421 (0) 2 49 10 33 11 recepcia. sk@ gsk. com
+ 70 Italia GlaxoSmithKline S. p. A. Tel:+ 39 (0) 45 9218 111
+ Suomi/Finland GlaxoSmithKline Oy Puh/Tel:+ 358 (0) 10 30 30 30 Finland. tuoteinfo@ gsk. com
+ Κύπρος GlaxoSmithKline Cyprus Ltd Τηλ:+ 357 22 89 95 01
+ Sverige GlaxoSmithKline AB Tel:+ 46 (0) 8 638 93 00 info. produkt@ gsk. com
+ Latvija GlaxoSmithKline Latvia SIA Tel:+ 371 67312687 lv-epasts@ gsk. com
+ United Kingdom GlaxoSmithKline UK Tel:+ 44 (0) 800 221441 customercontactuk@ gsk. com
+ Lietuva GlaxoSmithKline Lietuva UAB Tel:+ 370 5 264 90 00 info. lt@ gsk. com
+ Este folheto foi aprovado pela última vez em
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu
+ 71 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ Epivir 300 mg comprimidos revestidos por película Lamivudina
+ Leia atentamente este folheto antes de tomar este medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode
+ -
+ ser-lhes prejudicial mesmo que apresentem os mesmos sintomas. Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ -
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é Epivir e para que é utilizado. 2. Antes de tomar Epivir 3. Como tomar Epivir. 4. Efeitos secundários possíveis. 5. Como conservar Epivir. 6. Outras informações
+ 1. O QUE É EPIVIR E PARA QUE É UTILIZADO
+ Epivir pertence a um grupo de medicamentos antivíricos, também conhecidos como antirretrovíricos, denominados análogos de nucleósido inibidores da transcriptase reversa (NITRs). Estes medicamentos são utilizados no tratamento da infecção pelo Vírus da Imunodeficiência Humana (VIH).
+ Epivir é utilizado na terapêutica antirretrovírica de associação para o tratamento de adultos e crianças com infecção pelo VIH. Epivir reduz a carga vírica VIH no seu organismo, mantendo-a a níveis baixos, e aumenta o número de células CD4. As células CD4 são um tipo de glóbulos brancos que desempenham um papel importante na manutenção do funcionamento normal do sistema imunitário, ajudando no combate à infecção. A resposta ao tratamento com Epivir varia entre doentes. O seu médico monitorizará a eficácia do seu tratamento.
+ 2. ANTES DE TOMAR EPIVIR Não tome Epivir: -se tem alergia (hipersensibilidade) à lamivudina ou a qualquer outro componente dos
+ comprimidos de Epivir.
+ Em caso de dúvida, por favor consulte o seu médico.
+ Tome especial cuidado com Epivir Se tiver doença renal, fale com o seu médico sobre a utilização de Epivir. Poderá ser necessário reduzir a dose padrão recomendada para Epivir.
+ A classe de medicamentos à qual pertence o Epivir (NRTIs) pode causar uma situação denominada acidose láctica (aumento dos níveis de ácido láctico no organismo), juntamente com uma dilatação hepática. Normalmente, esta situação, se ocorrer, desenvolve-se após alguns meses de tratamento. A ocorrência de respiração profunda e rápida, sonolência e sintomas não específicos, tais como náuseas, vómitos e dor do estômago, poderão indicar o desenvolvimento de acidose láctica. Este efeito secundário raro, mas grave, ocorre com mais frequência na mulher, particularmente se for obesa. Se tiver doença hepática pode também ver aumentado o risco de desenvolver esta situação. Enquanto estiver sob tratamento com Epivir, o seu médico monitorizá-lo-á frequentemente para detecção de qualquer sinal que possa mostrar de acidose láctica.
+ 72 Pode ocorrer redistribuição, acumulação ou perda de tecido adiposo corporal nos doentes a receber terapêutica de associação antirretrovírica. Se notar alterações no tecido adiposo corporal, consulte o seu médico.
+ Em alguns doentes com infecção avançada por VIH (SIDA) e história de infecção oportunista, podem ocorrer sinais e sintomas de inflamação resultantes de infecções anteriores, pouco tempo após o início do tratamento anti-VIH. Pensa-se que estes sintomas se devem a um aumento da resposta imunitária do organismo, habilitando-o a combater infecções que possam ter existido sem sintomas evidentes. Se notar quaisquer sintomas de infecção, por favor informe imediatamente o seu médico.
+ Fale com o seu médico se tiver antecedentes de doença do fígado. Os doentes com hepatite B ou C crónica tratados com antirretrovíricos têm um risco aumentado de acontecimentos adversos hepáticos graves e potencialmente fatais e poderão requerer análises sanguíneas para monitorização da função hepática.
+ Se tiver hepatite B crónica, não deve interromper o tratamento com Epivir sem instruções do seu médico, pois poderá ocorrer recidiva da hepatite. Esta recidiva poderá ser mais grave se tiver doença do fígado grave.
+ Vai precisar de tomar Epivir diariamente. Este medicamento ajuda-o a controlar a doença, mas não é uma cura para a infecção pelo VIH. Poderá continuar a desenvolver outras infecções e outras doenças associadas à infecção pelo VIH. Deve manter contacto regular com o seu médico. Não pare de tomar o medicamento sem antes consultar o seu médico.
+ O tratamento com Epivir não mostrou reduzir o risco de contágio da infecção pelo VIH a outros, por contacto sexual ou transmissão sanguínea. Deve continuar a tomar as precauções apropriadas para prevenir a transmissão.
+ Problemas ósseos: Alguns doentes em terapêutica anti-retroviral combinada podem desenvolver uma doença óssea chamada osteonecrose (morte do tecido ósseo provocada por falta de afluxo de sangue ao osso). A duração da terapêutica anti-retroviral combinada, a utilização de corticosteróides, o consumo de álcool, a imunossupressão grave, um índice de massa corporal aumentado, entre outros, podem ser alguns dos inúmeros factores de risco para o desenvolvimento desta doença. Os sinais de osteonecrose são rigidez, mal-estar e dores nas articulações (especialmente na anca, joelho e ombro) e dificuldade de movimentos. Por favor informe o seu médico se notar qualquer um destes sintomas.
+ Ao tomar Epivir com outros medicamentos É importante que informe o seu médico sobre todos os medicamentos que está a tomar, incluindo medicamentos obtidos sem receita médica. Podem afectar a acção do Epivir ou o Epivir afectar a sua acção. Epivir não deve ser administrado com doses elevadas de cotrimoxazol ou perfusões de ganciclovir ou foscarnet.
+ Gravidez Se engravidar ou estiver a planear engravidar, tem que consultar o seu médico para discutir os potenciais efeitos adversos e os benefícios e riscos da terapêutica antirretrovírica para si e para a criança. Epivir não é recomendado durante os primeiros três meses da gravidez.
+ Se tomou Epivir durante a gravidez, o seu médico pode pedir-lhe para efectuar consultas regulares para monitorizar o desenvolvimento da criança. Estas consultas poderão incluir análises ao sangue e outros testes de diagnóstico.
+ Nas crianças cujas mães tomaram análogos dos nucleósidos e nucleótidos durante a gravidez, o benefício da menor possibilidade de infecção pelo VIH é superior ao risco de sofrerem efeitos secundários.
+ 73 Aleitamento As mulheres que tomem Epivir não devem amamentar os seus filhos, pois a lamivudina e o vírus VIH passam para o leite materno. Recomenda-se que as mulheres infectadas pelo VIH não amamentem os seus filhos sob qualquer circunstância, de modo a evitar a transmissão do VIH.
+ 3. COMO TOMAR EPIVIR Tome Epivir sempre de acordo com as indicações do médico. Fale com o seu médico ou farmacêutico se tiver dúvidas.
+ A dose diária usual de Epivir em adultos e adolescentes de idade superior a 12 anos é de 300 mg. A dose pode ser tomada como 1 comprimido de 150 mg duas vezes por dia, com aproximadamente 12 horas de intervalo, ou como 300 mg uma vez por dia (2 comprimidos de 150 mg ou 1 comprimido de 300 mg). O comprimido deve ser engolido com água ou outra bebida e pode ser tomado com ou sem alimentos.
+ Está também disponível uma solução oral para o tratamento de crianças de idade superior a três meses e para doentes com dificuldade em tomar os comprimidos ou com necessidade de dosagens mais baixas.
+ Se não consegue engolir os comprimidos, pode esmagá-los e adicioná-los a uma pequena dose de alimento ou bebida e tomar a totalidade da dose imediatamente.
+ Se tiver problemas renais, poderá ser necessário alterar a sua dose. Por favor siga as instruções do seu médico.
+ Se tomar mais Epivir do que deveria Se tomar acidentalmente demasiado Epivir não é provável que tenha problemas graves. No entanto, deve informar o seu médico ou farmacêutico ou contactar o serviço de urgência do hospital mais próximo para informações mais detalhadas.
+ Caso se tenha esquecido de tomar Epivir Se se esqueceu de tomar uma dose de Epivir, deve tomá-la assim que se lembrar e continuar como anteriormente. Não tome uma dose a dobrar para compensar uma dose que se esqueceu de tomar.
+ Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou farmacêutico.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como todos os medicamentos, Epivir pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas. Ao tratar a infecção pelo VIH, nem sempre é possível saber se alguns dos efeitos indesejáveis que ocorrem são causados por Epivir, por outros medicamentos que está a tomar simultaneamente ou pela infecção VIH. Por este motivo, é muito importante que informe o seu médico sobre quaisquer alterações na sua saúde.
+ Os efeitos secundários mais frequentemente comunicados (superior a 1 em cada 100 doentes tratados) são: náuseas, vómitos, dor no estômago, diarreia, dores de cabeça, dor nas articulações, perturbações musculares, tosse, sintomas nasais (irritação, corrimento nasal), febre, cansaço, sensação de mal-estar geral, erupções cutâneas, queda de cabelo e insónias.
+ Os seguintes efeitos secundários não são frequentes (entre 1 em 1000 e 1 em 100 doentes tratados): anemia (número de glóbulos vermelhos baixo) e neutropenia (número de glóbulos brancos baixo) e redução do número de plaquetas (células do sangue importantes para a coagulação sanguínea). Caso o número de glóbulos vermelhos esteja diminuído, poderá sentir cansaço ou falta de fôlego. A redução
+ 74 do número de glóbulos brancos poderá torná-lo mais susceptível a infecções. Caso tenha um número de plaquetas baixo, poderá notar que forma equimoses mais facilmente. O aumento de certas enzimas do fígado foi também constatado em amostras de sangue dos doentes em tratamento com Epivir.
+ Existem comunicações raras (entre 1 em 10000 e 1 em 1000 doentes tratados) de inflamação do fígado (hepatite), inflamação do pâncreas (pancreatite) e destruição de tecido muscular.
+ Existem também comunicações muito raras (menos de 1 em 10000 doentes tratados) de dormência, sensação de formigueiro ou de fraqueza nos membros e anemia e neutropenia graves.
+ Em raras ocasiões, foram notificados casos de desenvolvimento de uma situação denominada acidose láctica, em que o aumento do ácido láctico no organismo poderá causar desidratação e coma, em doentes a tomar NRTIs (para mais informações ver Tome especial cuidado com Epivir).
+ A terapêutica de associação antirretrovírica pode originar modificações corporais devido a alterações na distribuição de tecido adiposo. Estas podem incluir perda de tecido adiposo nas pernas, braços e face, acumulação de tecido adiposo no abdómen (barriga) e noutros órgãos internos, aumento de tamanho do peito, nódulos de gordura na parte de trás do pescoço (“ nuca de búfalo ”). Actualmente, não se conhece a causa e o efeito a longo prazo na saúde destas situações.
+ A terapêutica de associação antirretrovírica pode também originar subida da quantidade de ácido láctico e de açúcar no sangue, hiperlipidemia (aumento dos níveis de gordura no sangue) e resistência à insulina.
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR EPIVIR Manter fora do alcance e da vista das crianças.
+ Não utilize Epivir após o prazo de validade impresso no recipiente, após VAL. O prazo de validade corresponde ao último dia do mês indicado.
+ Não conservar acima de 30°C. Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de Epivir A substância activa de Epivir é denominada lamivudina. Cada comprimido revestido por película de Epivir contém 300 mg de lamivudina.
+ Os comprimidos contêm também os seguintes componentes: Núcleo do comprimido: celulose microcristalina, amidoglicolato de sódio (sem glúten), estearato de magnésio. Revestimento do comprimido: hipromelose, dióxido de titânio, óxido de ferro preto (E172), macrogol e polissorbato 80.
+ Qual o aspecto de Epivir e conteúdo da embalagem Os comprimidos revestidos por película de Epivir 300 mg são acondicionados em embalagens contendo 30 comprimidos em frasco branco de polietileno ou em blister. Os comprimidos revestidos por película são cinzentos, em forma de losango, gravados com o código “ GXEJ7 ” numa face.
+ 75 Titular da Autorização de Introdução no Mercado e Fabricante
+ Fabricante Titular da Autorização de Introdução no Mercado
+ Glaxo Operations UK Limited (trading as Glaxo Wellcome Operations) Priory Street Ware Herts SG12 0DJ Reino Unido
+ Glaxo Group Ltd Greenford Road Greenford Middlesex UB6 0NN Reino Unido
+ ou
+ GlaxoSmithKline Pharmaceuticals S. A. ul. Grunwaldzka 189 60-322 Poznan Polónia
+ 76 Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado:
+ België/Belgique/Belgien GlaxoSmithKline s. a./n. v. Tél/Tel:+ 32 (0) 2 656 21 11
+ Luxembourg/Luxemburg GlaxoSmithKline s. a./n. v. Belgique/Belgien Tél/Tel:+ 32 (0) 2 656 21 11
+ България ГлаксоСмитКлайн ЕООД Teл.:+ 359 2 953 10 34
+ Magyarország GlaxoSmithKline Kft. Tel.:+ 36 1 225 5300
+ Česká republika GlaxoSmithKline s. r. o. Tel:+ 420 222 001 111 gsk. czmail@ gsk. com
+ Malta GlaxoSmithKline Malta Tel:+ 356 21 238131
+ Danmark GlaxoSmithKline Pharma A/S Tlf:+ 45 36 35 91 00 info@ glaxosmithkline. dk
+ Nederland GlaxoSmithKline BV Tel:+ 31 (0) 30 6938100 nlinfo@ gsk. com
+ Deutschland GlaxoSmithKline GmbH &amp; Co. KG Tel.:+ 49 (0) 89 36044 8701 produkt. info@ gsk. com
+ Norge GlaxoSmithKline AS Tlf:+ 47 22 70 20 00 firmapost@ gsk. no
+ Eesti GlaxoSmithKline Eesti OÜ Tel:+ 372 6676 900 estonia@ gsk. com
+ Österreich GlaxoSmithKline Pharma GmbH Tel:+ 43 (0) 1 97075 0 at. info@ gsk. com
+ Ελλάδα GlaxoSmithKline A. E. B. E. Τηλ:+ 30 210 68 82 100
+ Polska GSK Commercial Sp z. o. o. Tel.:+ 48 (0) 22 576 9000
+ España GlaxoSmithKline, S. A. Tel:+ 34 902 202 700 es-ci@ gsk. com
+ Portugal Glaxo Wellcome Farmacêutica, Lda Tel:+ 351 21 412 95 00 FI. PT@ gsk. com
+ France Laboratoire GlaxoSmithKline Tél:+ 33 (0) 1 39 17 84 44 diam@ gsk. com
+ România GlaxoSmithKline (GSK) S. R. L. Tel:+ 4021 3028 208 www. gsk. ro
+ Ireland GlaxoSmithKline (Ireland) Limited Tel:+ 353 (0) 1 4955000
+ Slovenija GlaxoSmithKline d. o. o. Tel:+ 386 (0) 1 280 25 00 Medical. x. si@ gsk. com
+ Ísland GlaxoSmithKline ehf. Simi:+ 354 530 3700
+ Slovenská republika GlaxoSmithKline Slovakia s. r. o. Tel:+ 421 (0) 2 49 10 33 11 recepcia. sk@ gsk. com
+ 77 Italia GlaxoSmithKline S. p. A. Tel:+ 39 (0) 45 9218 111
+ Suomi/Finland GlaxoSmithKline Oy Puh/Tel:+ 358 (0) 10 30 30 30 Finland. tuoteinfo@ gsk. com
+ Κύπρος GlaxoSmithKline Cyprus Ltd Τηλ:+ 357 22 89 95 01
+ Sverige GlaxoSmithKline AB Tel:+ 46 (0) 8 638 93 00 info. produkt@ gsk. com
+ Latvija GlaxoSmithKline Latvia SIA Tel:+ 371 67312687 lv-epasts@ gsk. com
+ United Kingdom GlaxoSmithKline UK Tel:+ 44 (0) 800 221441 customercontactuk@ gsk. com
+ Lietuva GlaxoSmithKline Lietuva UAB Tel:+ 370 5 264 90 00 info. lt@ gsk. com
+ Este folheto foi aprovado pela última vez em
+ Informação pormenorizada sobre este medicamento está disponível na Internet no site da Agência Europeia de Medicamentos (EMEA) http: //www. emea. europa. eu
+ 78

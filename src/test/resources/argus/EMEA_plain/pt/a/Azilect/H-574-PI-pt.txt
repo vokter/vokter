@@ -1,0 +1,199 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. DENOMINAÇÃO DO MEDICAMENTO
+ AZILECT 1 mg comprimidos 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada comprimido contém 1 mg de rasagilina (sob a forma de mesilato)
+ Lista completa de excipientes, ver secção 6.1.
+ 3. FORMA FARMACÊUTICA Comprimido Comprimidos brancos a esbranquiçados, redondos, lisos, com bordos biselados, com as gravações “ GIL ” e “ 1 ” numa das faces e a outra face plana.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas AZILECT está indicado para o tratamento da doença de Parkinson de origem idiopática em monoterapia (sem levodopa) ou em terapia adjuvante (com levodopa) em doentes com flutuações de fim de dose.
+ 4.2 Posologia e modo de administração Rasagilina é administrada por via oral, numa dose de 1 mg uma vez por dia, com ou sem levodopa.
+ Pode ser tomado com ou sem alimentos. Idosos: Não são necessárias alterações de dose nos doentes idosos.
+ Crianças e adolescentes (&lt; 18 anos): Não recomendado, uma vez que a segurança e eficácia não foram comprovadas para esta população.
+ Doentes com insuficiência hepática: O uso de rasagilina em doentes com insuficiência hepática grave é contraindicado (ver secção 4.3). O uso de rasagilina em doentes com insuficiência hepática moderada deve ser evitado. Deve haver precaução no início do tratamento com rasagilina em doentes com insuficiência hepática ligeira. Em caso de progressão da insuficiência hepática ligeira para moderada, a administração de rasagilina deve ser interrompida (ver secção 4.4).
+ Doentes com insuficiência renal: Não são necessárias alterações de posologia na insuficiência renal.
+ 4.3 Contra-indicações Hipersensibilidade à substância activa ou a qualquer um dos excipientes (ver secção 6.1).
+ Tratamento concomitante com outros inibidores da monoamino oxidase (MAO) ou petidina (ver secção 4.5). Devem decorrer, pelo menos,14 dias entre a interrupção da rasagilina e o início do tratamento com inibidores da MAO ou petidina.
+ Rasagilina está contra-indicada em doentes com insuficiência hepática grave.
+ 2 4.4 Advertências e precauções especiais de utilização
+ O uso concomitante de rasagilina e fluoxetina ou fluvoxamina deve ser evitado (ver secção 4.5). Devem decorrer pelo menos 5 semanas entre a interrupção da fluoxetina e o início do tratamento com rasagilina. Devem decorrer pelo menos 14 dias entre a interrupção de rasagilina e o início do tratamento com fluoxetina ou fluvoxamina.
+ O uso concomitante de rasagilina e dextrometorfano ou simpaticomiméticos tais como os incluídos em descongestionantes nasais e orais ou medicação usada no tratamento da constipação contendo efedrina ou pseudoefedrina não é recomendado (ver secção 4.5).
+ A ocorrência de casos de melanoma, durante o programa de desenvolvimento clínico, levou a considerar a possibilidade de associação com rasagilina. Os dados recolhidos sugerem que é a doença de Parkinson, e não um fármaco em particular, que está associada com um risco mais elevado de cancro de pele (não exclusivamente melanoma). Qualquer suspeita de lesão cutânea deve ser avaliada por um especialista.
+ Deve haver precaução no início do tratamento com rasagilina em doentes com insuficiência hepática ligeira. O uso de rasagilina em doentes com insuficiência hepática moderada deve ser evitado. Em caso de progressão da insuficiência hepática ligeira para moderada, a rasagilina deve ser interrompida (ver secção 5.2).
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Existe um número de interacções conhecidas entre os inibidores da MAO não selectivos e outros medicamentos.
+ Rasagilina não deve ser administrada com outros inibidores da MAO pois pode haver risco de inibição da MAO não selectiva o que pode levar a crises hipertensivas (ver secção 4.3).
+ Foram relatadas reacções adversas graves com o uso concomitante de petidina e inibidores da MAO bem como com outro inibidor selectivo da MAO-B. A administração concomitante de rasagilina e petidina está contra-indicada (ver secção 4.3).
+ O uso concomitante de rasagilina e fluoxetina ou fluvoxamina deve ser evitado (ver secção 4.4).
+ Foram relatadas interacções medicamentosas com inibidores da MAO assim como com outro inibidor selectivo da MAO-B no uso concomitante de fármacos simpaticomiméticos. Assim, tendo em consideração a actividade inibitória da MAO da rasagilina, o uso concomitante de rasagilina e simpaticomiméticos tais como os incluídos em descongestionantes nasais e orais ou medicação usada no tratamento da constipação contendo efedrina ou pseudoefedrina não é recomendado (ver secção 4.4).
+ Têm sido relatadas interacções medicamentosas com a administração concomitante de dextrometorfano e inibidores não selectivos da MAO. Desta forma, e tendo em consideração a actividade inibitória da MAO da rasagilina, a administração concomitante de rasagilina e dextrometorfano não é recomendada (ver secção 4.4).
+ Foram relatadas reacções adversas graves com o uso concomitante de inibidores selectivos da recaptação da serotonina (ISRS), antidepressivos tricíclicos e tetracíclicos e inibidores da MAO assim como com outro inibidor da MAO-B. Assim, tendo em consideração a actividade inibitória da MAO da rasagilina, os antidepressivos devem ser administrados com precaução.
+ Nos doentes de Parkinson, que fazem levodopa em tratamento prolongado como terapia adjuvante, não houve efeito clinicamente significativo do tratamento com levodopa na depuração da rasagilina.
+ 3 Estudos de metabolismo in vitro indicaram o citocromo P450 1A2 (CYP1A2) como a principal enzima responsável pelo metabolismo da rasagilina. A co-administração da rasagilina e ciprofloxacina (um inibidor do CYP1A2) aumentou 83% a AUC da rasagilina. A co-administração da rasagilina e teofilina (um substrato do CYP1A2) não afectou a farmacocinética de qualquer das substâncias. Assim, inibidores potentes do CYP1A2 podem alterar os níveis plasmáticos de rasagilina e devem ser administrados com precaução.
+ Em doentes fumadores, há risco dos níveis plasmáticos de rasagilina poderem diminuir, devido à indução da enzima metabolizadora CYP1A2.
+ Estudos in vitro demonstraram que a rasagilina numa concentração de 1μg/ml (equivalente a um nível que é 160 vezes a média da Cmax~ 5, 9-8,5 ng/ml nos doentes de Parkinson após 1 mg de rasagilina em doses múltiplas) não inibiu as isoenzimas do citocromo P450 CYP1A2, CYP2A6, CYP2C9, CYP2C19, CYP2D6, CYP2E1, CYP3A4 e CYP4A. Estes resultados indicam que é pouco provável que as concentrações terapêuticas da rasagilina causem interferência clinicamente significativa com substratos destas enzimas.
+ A administração concomitante de rasagilina e entacapone aumentou a depuração oral da rasagilina em 28%.
+ Interacção tiramina/rasagilina: Resultados de 4 estudos de estimulação com tiramina (em voluntários e doentes de Parkinson), juntamente com resultados de monitorizações de pressão arterial, efectuadas em ambulatório, após as refeições (de 464 doentes tratados com 0,5 ou 1 mg/dia de rasagilina ou placebo como terapia adjuvante de levodopa durante 6 meses sem restrições de tiramina), e o facto de não haver interacções de tiramina/rasagilina reportadas em estudos clínicos efectuados sem restrições de tiramina, indicam que a rasagilina pode ser usada com segurança sem restrições de tiramina na dieta.
+ 4.6 Gravidez e aleitamento No que respeita a rasagilina, não existem dados clínicos sobre as gravidezes a ela expostas. Os estudos em animais não indicam quaisquer efeitos nefastos directos ou indirectos no que respeita à gravidez, ao desenvolvimento embrionário/fetal, parto ou desenvolvimento pós-natal (ver secção 5.3). É necessário precaução aquando da prescrição deste medicamento a mulheres grávidas.
+ Dados experimentais indicam que a rasagilina inibe a secreção de prolactina e, portanto, pode inibir a lactação. Não é conhecido se a rasagilina é excretada no leite humano. É necessário precaução na administração de rasagilina a mulheres que estão a amamentar.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Não foram estudados os efeitos sobre a capacidade de conduzir e utilizar máquinas.
+ 4.8 Efeitos indesejáveis No programa clínico da rasagilina um total de 1361 doentes foi tratado com rasagilina, o correspondente a 3076,4 doentes ano. Num estudo em dupla ocultação controlado com placebo,529 doentes foram tratados com rasagilina 1 mg/dia, correspondendo a 212 doentes ano e 539 doentes receberam placebo, correspondendo a 213 doentes ano.
+ Monoterapia A lista seguinte inclui reacções adversas que foram relatadas com incidência mais elevada em estudos controlados com placebo em doentes que receberam 1 mg/dia de rasagilina (grupo de rasagilina n=149, grupo de placebo n=151). As reacções adversas com pelo menos 2% de diferença relativamente ao placebo estão marcadas a itálico. Entre parêntesis está indicada a incidência da reacção adversa (% de doentes) no grupo de rasagilina vs. placebo, respectivamente.
+ 4 As reacções adversas estão classificadas sob designações de frequência, de acordo com a seguinte convenção: muito frequentes (&gt; 1/10), frequentes (&gt; 1/100, &lt; 1/10), pouco frequentes (&gt; 1/1 000, &lt; 1/100), raras (&gt; 1/10 000, &lt; 1/1 000), muito raras (&lt; 1/10 000), incluindo relatos isolados.
+ Organismo como um todo: muito frequentes: cefaleias (14,1% vs. 11,9%); frequentes: síndrome gripal (6,0% vs. 0,7%), indisposição (2,0% vs. 0%), dores no pescoço (2,0% vs. 0%), reacção alérgica (1,3% vs. 0,7%), febre (2,7% vs. 1,3%) Sistema Cardiovascular: frequentes: angina de peito (1,3% vs. 0%); pouco frequentes: acidente vascular cerebral (0,7% vs. 0%), enfarte do miocárdio (0,7% vs. 0%) Sistema Digestivo: frequentes: dispepsia (6,7% vs. 4%), anorexia (1,3% vs. 0%) Sistema Sanguíneo e Linfático: frequentes: leucopénia (1,3% vs. 0%) Sistema Músculo-esquelético: frequentes: artralgia (7,4% vs. 4%), artrite (2,0% vs. 0,7%) Sistema Nervoso: frequentes: depressão (5,4% vs. 2%), vertigens (2,0% vs. 0,7%), alucinações (1,3% vs. 0,7%) Sistema Respiratório: frequentes: rinite (2,7% vs. 1,3%) Órgãos dos Sentidos: frequentes: conjuntivite (2,7% vs. 0,7%) Pele e anexos: frequentes: dermatite de contacto (1,3% vs. 0%), rash vesiculopustuloso (1,3% vs. 0%), carcinoma cutâneo (1,3% vs. 0,7%) Sistema Urogenital: frequentes: incontinência urinária (1,3% vs. 0%).
+ Terapia adjuvante A lista seguinte inclui reacções adversas que foram relatadas com incidência mais elevada em estudos controlados com placebo em doentes que receberam 1 mg/dia de rasagilina (grupo de rasagilina n=380, grupo de placebo n=388). Entre parêntesis está indicada a incidência da reacção adversa (% de doentes) no grupo de rasagilina vs. placebo, respectivamente. As reacções adversas com pelo menos 2% de diferença relativamente ao placebo estão marcadas a itálico.
+ As reacções adversas estão classificadas sob designações de frequência, de acordo com a seguinte convenção: muito frequentes (&gt; 1/10), frequentes (&gt; 1/100, &lt; 1/10), pouco frequentes (&gt; 1/1 000, &lt; 1/100), raras (&gt; 1/10 000, &lt; 1/1 000), muito raras (&lt; 1/10 000), incluindo relatos isolados.
+ Organismo como um todo: frequentes: dores abdominais (3,9% vs. 1,3%), lesão acidental (principalmente devido a quedas) (8,2% vs. 5,2%), dores no pescoço (1,6% vs. 0,5%) Sistema Cardiovascular: frequentes: hipotensão postural (4,7% vs. 1,3%); pouco frequentes: angina de peito (0,5% vs. 0%), acidente vascular cerebral (0,5% vs. 0,3%) Sistema Digestivo: frequentes: obstipação (4,2% vs. 2,1%), vómitos (3,4% vs. 1,0%), anorexia (2,1% vs. 0,5%), secura de boca (3,4% vs. 1,8%) Sistema Músculo-esquelético: frequentes: artralgia (3,2% vs. 1,3%), tenosinovite (1,3% vs. 0%) Nutricionais e Metabólicas: frequentes: perda de peso (4,2% vs. 1,5%) Sistema Nervoso: muito frequentes: discinésia (10,3% vs. 6,4%); frequentes: distonia (2,4% vs. 0,8%), sonhos anómalos (2,1% vs. 0,8%), ataxia (1,3% vs. 0,3%), alucinações (2,9% vs. 2,1%), pouco frequentes: confusão (0,8% vs. 0,8%) Pele e anexos: frequentes: rash (2,6% vs. 1,5%); pouco frequentes: melanoma cutâneo (0,5% vs. 0,3%)
+ Outros importantes acontecimentos adversos que foram reportados em estudos clínicos com rasagilina (outra dose ou em estudos não controlados com placebo) ocorreram em dois doentes e incluíram rabdomiólise (em ambos os casos após queda e imobilização prolongada) e secreção inapropriada da hormona antidiurética (ADH). A natureza complicada destes casos torna impossível determinar o papel, se existente, da rasagilina na sua patogénese.
+ A doença de Parkinson está associada a sintomas de alucinações e confusão. Na experiência pós-comercialização estes sintomas têm sido também observados em doentes de Parkinson tratados com rasagilina.
+ 4.9 Sobredosagem 5 Não foram observados casos de sobredosagem.
+ Teoricamente, a sobredosagem pode provocar inibição significativa tanto da MAO-A como da MAO-B. Num estudo de dose única, voluntários saudáveis receberam 20 mg/dia e num estudo de 10 dias, voluntários saudáveis receberam 10 mg/dia. Os acontecimentos adversos foram ligeiros ou moderados e não estiveram relacionados com o tratamento com rasagilina. Num estudo de titulação da dose, em doentes em tratamento prolongado com levodopa, tratados com 10 mg/dia de rasagilina, houve relatos de efeitos indesejáveis cardiovasculares (incluindo hipertensão e hipotensão postural) que recuperaram após a descontinuação do tratamento. Estes sintomas assemelham-se aos observados com os inibidores não selectivos da MAO.
+ Não há antídoto específico. Em caso de sobredosagem, os doentes devem ser monitorizados e deve ser instituída terapêutica sintomática e de suporte adequada.
+ 5. PROPRIEDADES FARMACOLÓGICAS 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: Medicamentos Anti-Parkinsónicos, Inibidores da Monoamino oxidase-B, código ATC: N04BD02
+ Mecanismo de acção: Rasagilina demonstrou ser um potente e irreversível inibidor selectivo da MAO-B, que pode causar um aumento nos níveis de dopamina extracelulares no estriado. O elevado nível de dopamina e subsequente aumento da actividade dopaminérgica parecem mediar os efeitos benéficos da rasagilina observados nos modelos de disfunção motora dopaminérgica. O 1-aminoindano é um metabolito principal activo e não é inibidor da MAO-B.
+ Estudos clínicos: A eficácia da rasagilina foi estabelecida em três estudos: no estudo I como monoterapia e como terapia adjuvante da levodopa nos estudos II e III.
+ Monoterapia: No estudo I,404 doentes foram randomizados para placebo (138 doentes), rasagilina 1 mg/dia (134 doentes) ou rasagilina 2 mg/dia (132 doentes) e foram tratados durante 26 semanas, não tendo sido utilizado um comparador activo. Neste estudo, a medida de eficácia primária foi a alteração da linha de base na pontuação total da Unified Parkinson’ s Disease Rating Scale (UPDRS, partes I-III). A diferença entre a alteração média da linha de base na semana 26/final (LOCF, Last Observation Carried Forward) foi estatisticamente significativa (UPDRS, partes I-III: para rasagilina 1 mg comparada com o placebo-4,2,95% CI[-5,7,-2,7]; p &lt; 0,0001; para rasagilina 2 mg comparada com o placebo-3,6,95% CI[-5,0,-2,1]; p &lt; 0,0001), UPDRS Motora, parte II: para rasagilina 1mg comparada com o placebo – 2,7,95% CI[-3,87,-1,55]; p &lt; 0,0001; para rasagilina 2 mg comparada com o placebo – 1,68,95% CI[-2,85,-0,51], p=0,0050). O efeito foi evidente, apesar da sua magnitude ter sido modesta na população de doentes com a doença ligeira. Houve um efeito significativo e benéfico na qualidade de vida (como avaliado pela escala PD-QUALIF).
+ Terapia adjuvante: No estudo II, os doentes foram randomizados para receber placebo (229 doentes), rasagilina 1 mg/dia (231 doentes) ou o inibidor da catecol-O-metil transferase (COMT), entacapone,200 mg (227 doentes), tomados juntamente com doses programadas de levodopa (LD)/inibidor da descarboxilase e foram tratados durante 18 semanas. No estudo III, os doentes foram randomizados para receber placebo (159 doentes), rasagilina 0,5 mg/dia (164 doentes) ou rasagilina 1 mg/dia (149 doentes), e foram tratados durante 26 semanas.
+ 6 Em ambos os estudos, a medida de eficácia primária foi a alteração da linha de base no período de tratamento para o número médio de horas que foram passadas em estado “ OFF ” durante o dia (determinado a partir dos diários de 24h dos doentes completados nos 3 dias anteriores a cada visita de avaliação). No estudo II, a diferença média no número de horas passadas no estado “ OFF ” comparado com o placebo foi de-0, 78h,95% CI[-1,18,-0,39], p=0,0001. A diminuição média diária total no tempo “ OFF ” foi similar no grupo de entacapone (-0, 80h,95% CI[-1,20,-0,41], p &lt; 0,0001) e no observado no grupo de rasagilina 1 mg. No estudo III, a diferença média comparada com o placebo foi de-0, 94h,95% CI[-1,36,-0,51], p &lt; 0,0001. Houve também uma melhoria estatisticamente significativa relativamente ao placebo com o grupo da rasagilina 0,5 mg, ainda que a magnitude da melhoria tenha sido menor. A robustez dos resultados para o endpoint de eficácia primária foi confirmada por uma bateria de modelos estatísticos adicionais e foi demonstrada em três coortes (ITT, por protocolo e completados). As medidas de eficácia secundária incluem a avaliação global da melhoria pelo avaliador, pela pontuação na sub-escala Activities of Daily Living (ADL) em estado “ OFF ” e UPDRS motora em estado “ ON ”. A rasagilina produziu um benefício estatisticamente significativo quando comparada com o placebo.
+ 5.2 Propriedades farmacocinéticas Absorção: Rasagilina é rapidamente absorvida, atingindo o pico de concentração plasmática (Cmax) em aproximadamente 0,5 horas. A biodisponibilidade absoluta de uma dose única de rasagilina é cerca de 36%. Os alimentos não alteram o Tmax da rasagilina, embora a Cmax e a exposição (AUC) diminuam cerca de 60% e 20%, respectivamente, quando o fármaco é administrado juntamente com uma refeição de elevado teor lipídico. Como a AUC não é substancialmente afectada, a rasagilina pode ser administrada com ou sem alimentos.
+ Distribuição: O volume médio de distribuição após uma dose única intravenosa de rasagilina é de 243L. A ligação às proteínas plasmáticas após uma dose oral única de 14C-rasagilina é de aproximadamente 60 a 70%.
+ Metabolismo: Rasagilina sofre uma biotransformação quase completa ao nível do fígado, antes de ser excretada. O metabolismo da rasagilina processa-se por duas vias principais: N-desalquilação e/ou hidroxilação para formar: 1-aminoindano, 3-hidroxi-N-propargil-1-aminoindano e 3-hidroxi-1-aminoindano. Ensaios experimentais in vitro indicam que ambas as vias do metabolismo da rasagilina são dependentes do sistema do citocromo P450, com a CYP1A2 como principal iso-enzima envolvida neste metabolismo. A conjugação da rasagilina e dos seus metabolitos foi considerada como sendo a principal via de eliminação para formar glucoronidos.
+ Excreção: Após uma administração oral de 14C-rasagilina, a eliminação ocorreu principalmente por via urinária (62,6%) e secundariamente por via fecal (21,8%) com uma recuperação total de 84,4% da dose num período de 38 dias. Menos de 1% de rasagilina foi excretado inalterado na urina.
+ Linearidade/Não-linearidade: A farmacocinética da rasagilina é linear com doses superiores ao intervalo 0, 5-2 mg. A sua semivida terminal é de 0, 6-2h.
+ Características nos doentes Doentes com insuficiência hepática: Em indivíduos com insuficiência hepática ligeira, a AUC e Cmax sofreram um aumento de 80% e 38%, respectivamente. Em indivíduos com insuficiência hepática moderada, a AUC e Cmax aumentaram 568% e 83%, respectivamente (ver secção 4.4).
+ Doentes com insuficiência renal: As características farmacocinéticas da rasagilina em indivíduos com insuficiência renal ligeira (Clcr 50-80 ml/min) e moderada (Clcr 30-49 ml/min) são semelhantes às que se observam em indivíduos saudáveis.
+ 5.3 Dados de segurança pré-clínica 7 Os dados pré-clínicos não revelam riscos especiais para o ser humano, segundo estudos convencionais de farmacologia de segurança, toxicidade de dose repetida e toxicidade reprodutiva.
+ Rasagilina não apresentou um potencial genotóxico in vivo e em vários sistemas in vitro utilizando bactérias ou hepatócitos. Na presença de activação metabólica, a rasagilina induziu um aumento de aberrações cromossómicas em concentrações com citotoxicidade excessiva que são inantingíveis nas condições de uso clínico.
+ Rasagilina não foi carcinogénica em ratos com exposição sistémica 84-339 vezes a exposição plasmática esperada em seres humanos a 1mg/dia. Em ratinhos, incidências aumentadas de adenoma brônquico/alveolar combinado e/ou carcinoma foram observadas em exposições sistémicas 144-213 vezes a exposição plasmática esperada em seres humanos a 1mg/dia.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1. Lista dos excipientes Manitol Amido de milho Amido de milho pré-gelificado Sílica anidra coloidal Ácido esteárico Talco
+ 6.2 Incompatibilidades Não aplicável. 6.3 Prazo de validade Blisters: 3 anos Frascos: 3 anos 6.4 Precauções especiais de conservação
+ Não conservar acima de 25ºC. Conservar na embalagem de origem. 6.5 Natureza e conteúdo do recipiente Blisters: Embalagens blisters de alumínio/alumínio de 7,10,28,30,100 ou 112 comprimidos. Frascos: Frasco de polietileno de alta densidade branco com ou sem cápsula de fecho resistente à abertura por crianças contendo 30 comprimidos. É possível que não sejam comercializadas todas as apresentações.
+ 6.6 Precauções especiais de eliminação
+ Não existem requisitos especiais. 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Teva Pharma GmbH Kandelstr 10 8 D-79199 Kirchzarten Alemanha
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/04/304/001-007 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 21/02/2005 10. DATA DA REVISÃO DO TEXTO 9 ANEXO II
+ A. TITULAR DE AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 10 A. TITULAR DE AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do fabricante responsável pela libertação do lote
+ Teva Pharmaceuticals Europe B. V. Computerweg 10 3542 DR Utrecht HOLANDA
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento sujeito a receita médica. • CONDIÇÕES OU RESTRIÇÕES RELATIVAS À UTILIZAÇÃO SEGURA E EFICAZ DO MEDICAMENTO
+ Não aplicável. • OUTRAS CONDIÇÕES
+ O titular desta autorização de introdução no mercado deve informar a Comissão Europeia sobre os planos de comercialização do medicamento autorizado pela presente decisão.
+ 11 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 12 A. ROTULAGEM
+ 13 INDICAÇÕES A INCLUIR NO ACONDICIONAMENTO SECUNDÁRIO (CARTONAGEM PARA EMBALAGENS BLISTERS)
+ 1. DENOMINAÇÃO DO MEDICAMENTO AZILECT 1 mg comprimidos Rasagilina 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ Cada comprimido contém 1 mg de rasagilina (sob a forma de mesilato).
+ 3. LISTA DOS EXCIPIENTES 4. FORMA FARMACÊUTICA E CONTEÚDO 7,10,28,30,100,112 comprimidos 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral. Consultar o folheto informativo.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. { MM/AAAA} 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Não conservar acima de 25ºC. Conservar na embalagem de origem. 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 14 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Teva Pharma GmbH D-79199 Kirchzarten, Alemanha
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/04/304/001-006 13. NÚMERO DO LOTE Lote{ número} 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE AZILECT 15 INDICAÇÕES MÍNIMAS A INCLUIR NAS EMBALAGENS “ BLISTER ” OU FITAS CONTENTORAS
+ 1. DENOMINAÇÃO DO MEDICAMENTO AZILECT 1 mg comprimidos Rasagilina 2. NOME DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Teva Pharma GmbH 3. PRAZO DE VALIDADE EXP{ MM/AAAA} 4. NÚMERO DO LOTE Lote{ número} 5. OUTRAS 16 INDICAÇÕES A INCLUIR NA EMBALAGEM EXTERIOR (CARTONAGEM PARA FRASCO) INFORMAÇÕES A INCLUIR NO RÓTULO DO FRASCO
+ 1. DENOMINAÇÃO DO MEDICAMENTO AZILECT 1 mg comprimidos Rasagilina 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ Cada comprimido contém 1 mg de rasagilina (sob a forma de mesilato).
+ 3. LISTA DOS EXCIPIENTES 4. FORMA FARMACÊUTICA E CONTEÚDO 30 comprimidos 5. MODO E VIA(S) DE ADMINISTRAÇÃO Via oral. Consultar o folheto informativo.
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e da vista das crianças.
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ 8. PRAZO DE VALIDADE VAL. { MM/AAAA} 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Não conservar acima de 25ºC. Conservar na embalagem de origem. 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ 17 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Teva Pharma GmbH D-79199 Kirchzarten, Alemanha
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/04/304/007 13. NÚMERO DO LOTE Lote{ número} 14. CLASSIFICAÇÃO QUANTO À DISPENSA AO PÚBLICO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO 16. INFORMAÇÃO EM BRAILLE AZILECT 18 B. FOLHETO INFORMATIVO
+ 19 FOLHETO INFORMATIVO: INFORMAÇÃO PARA O UTILIZADOR
+ AZILECT 1 mg comprimidos Rasagilina
+ Leia atentamente este folheto antes de tomar o medicamento.
+ -Conserve este folheto. Pode ter necessidade de o reler.
+ -Caso ainda tenha dúvidas, fale com o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ -Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não
+ mencionados neste folheto, informe o seu médico ou farmacêutico.
+ Neste folheto: 1. O que é AZILECT e para que é utilizado 2. Antes de tomar AZILECT 3. Como tomar AZILECT 4. Efeitos secundários possíveis 5. Como conservar AZILECT 6. Outras informações
+ 1. O QUE É AZILECT E PARA QUE É UTILIZADO
+ AZILECT é utilizado no tratamento da doença de Parkinson como monoterapia (sem levodopa) ou como terapia adjuvante (com levodopa).
+ Na doença de Parkinson, há perda de células produtoras de dopamina em determinadas áreas do cérebro. AZILECT consegue aumentar e manter os níveis de dopamina nessas áreas.
+ 2. ANTES DE TOMAR AZILECT Não tome AZILECT -se tem alergia (hipersensibilidade) à rasagilina ou a qualquer outro componente de AZILECT;
+ -se tem insuficiência hepática grave.
+ Não tome inibidores da monoamino oxidase (MAO), mesmo que utilizados como antidepressivos, para o tratamento da doença de Parkinson, ou para qualquer outra indicação (incluindo medicamentos ou produtos naturais sem prescrição ex: Erva de S. João ou hipericão), enquanto está a tomar AZILECT. Não tome petidina, um potente analgésico, enquanto está a tomar AZILECT. Deve esperar pelo menos 14 dias após parar o tratamento com AZILECT e iniciar o tratamento com inibidores da MAO ou petidina.
+ Tome especial cuidado com AZILECT -se tem insuficiência hepática ligeira a moderada;
+ -se está a tomar medicamentos contendo fluoxetina, fluvoxamina, dextrometorfano ou
+ simpaticomiméticos, por favor veja a secção “ Tomar AZILECT com outros medicamentos ”.
+ AZILECT não é recomendado a indivíduos com menos de 18 anos.
+ Tomar AZILECT com outros medicamentos Informe o seu médico ou farmacêutico se estiver a tomar ou tiver tomado recentemente outros medicamentos, incluindo medicamentos obtidos sem receita médica. 20 Os medicamentos seguintes requerem aconselhamento médico específico antes de serem tomados juntamente com AZILECT: certos antidepressivos (inibidores selectivos da recaptação de serotonina, antidepressivos tricíclicos ou tetracíclicos), o antibiótico ciprofloxacina usado contra infecções, o antitússico dextrometorfano, simpaticomiméticos tais como os presentes nos descongestionantes nasais e orais e medicamentos usados na constipação contendo efedrina ou pseudoefedrina.
+ O uso de AZILECT juntamente com antidepressivos contendo fluoxetina ou fluvoxamina deve ser evitado. Deve aguardar pelo menos 5 semanas após parar o tratamento com fluoxetina e iniciar o tratamento com AZILECT. Deve aguardar pelo menos 14 dias após parar o tratamento com AZILECT e iniciar o tratamento com fluoxetina ou fluvoxamina.
+ Tomar Azilect com alimentos e bebidas AZILECT pode ser tomado com ou sem alimentos.
+ Gravidez e aleitamento Consulte o seu médico ou farmacêutico antes de tomar qualquer medicamento.
+ Condução de veículos e utilização de máquinas Não foram realizados estudos sobre os efeitos na capacidade de conduzir e utilizar máquinas.
+ 3. COMO TOMAR AZILECT Tomar AZILECT sempre de acordo com as indicações do médico. Fale com o seu médico ou farmacêutico se tiver dúvidas. A dose habitual é um comprimido de 1 mg uma vez por dia, por via oral.
+ Se tomar mais AZILECT do que deveria Se pensa que pode ter tomado demasiados comprimidos de AZILECT, contacte o seu médico ou farmacêutico imediatamente. Leve a embalagem/frasco de AZILECT para mostrar ao seu médico ou farmacêutico.
+ Caso se tenha esquecido de tomar AZILECT Não tome uma dose a dobrar para compensar uma dose que se esqueceu de tomar.
+ Se parar de tomar AZILECT Caso ainda tenha dúvidas sobre a utilização deste medicamento, fale com o seu médico ou farmacêutico.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS Como os demais medicamentos, AZILECT pode causar efeitos secundários, no entanto estes não se manifestam em todas as pessoas.
+ Têm sido relatados os seguintes efeitos secundários em ensaios clínicos controlados com placebo:
+ Muito frequentes (mais do que 10% dos doentes): Movimentos anómalos (discinésia), dores de cabeça
+ Frequentes (entre 1 e 10% dos doentes): Dores abdominais, lesão acidental (principalmente devido a quedas), reacção alérgica, febre, síndrome gripal, indisposição, dores no pescoço, angina de peito, pressão sanguínea baixa ao levantar-se
+ 21 (hipotensão postural), anorexia, prisão de ventre, dispepsia, secura de boca, vómitos, resultados anómalos em análises sanguíneas (leucopénia), dores nas articulações (artralgia), artrite, tenosinovite, perda de peso, sonhos anómalos, dificuldade na coordenação muscular (ataxia), depressão, vertigens, contracções musculares prolongadas (distonia), rinite, dermatite de contacto, eritema, eritema vesiculopustuloso, conjuntivite, incontinência urinária
+ Pouco frequentes (entre 0,1 e 1% dos doentes): AVC (acidente vascular cerebral), enfarte do miocárdio
+ Foi também relatado carcinoma da pele em cerca de 1% dos doentes em ensaios clínicos controlados com placebo. No entanto, a evidência científica sugere que é a doença de Parkinson, e não um medicamento em particular, que está associada a um risco mais elevado de cancro da pele (não exclusivamente melanoma). Deve falar com o seu médico relativamente a qualquer suspeita de alterações ao nível da pele.
+ A doença de Parkinson está associada a sintomas de alucinações e confusão. Na experiência pós-comercialização estes sintomas têm sido também observados em doentes de Parkinson tratados com AZILECT.
+ Se algum dos efeitos secundários se agravar ou se detectar quaisquer efeitos secundários não mencionados neste folheto, informe o seu médico ou farmacêutico.
+ 5. COMO CONSERVAR AZILECT Manter fora do alcance e da vista das crianças.
+ Não conservar acima de 25ºC. Conservar na embalagem de origem.
+ Não utilize AZILECT após o prazo de validade impresso na embalagem exterior, frasco ou blister.
+ Os medicamentos não devem ser eliminados na canalização ou no lixo doméstico. Pergunte ao seu farmacêutico como eliminar os medicamentos de que já não necessita. Estas medidas irão ajudar a proteger o ambiente.
+ 6. OUTRAS INFORMAÇÕES Qual a composição de AZILECT -A substância activa é a rasagilina. Cada comprimido contém 1 mg de rasagilina (sob a forma de
+ mesilato).
+ -Os outros componentes são manitol, sílica anidra coloidal, amido de milho, amido de milho pré-
+ gelificado, ácido esteárico e talco.
+ Qual o aspecto de AZILECT e conteúdo da embalagem
+ Os comprimidos AZILECT são de cor branca a esbranquiçada, redondos, lisos, com bordos biselados, com as gravações “ GIL ” e “ 1 ” numa das faces e a outra face plana.
+ Os comprimidos estão disponíveis em embalagens blisters de 7,10,28,30,100 e 112 comprimidos ou em frasco contendo 30 comprimidos. É possível que não sejam comercializadas todas as apresentações.
+ Titular da Autorização de Introdução no Mercado e Fabricante
+ 22 Titular da Autorização de Introdução no Mercado Teva Pharma GmbH Kandelstrasse 10 D-79199 Kirchzarten Alemanha
+ Fabricante Teva Pharmaceuticals Europe B. V. Computerweg 10 3542 DR Utrecht Holanda
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do Titular da Autorização de Introdução no Mercado.
+ België/Belgique/Belgien Lundbeck S. A./N. V. Avenue Molière 225 B-1050 Bruxelles/Brussel/Brüssel Tél/Tel: +32 2 340 2828
+ Luxembourg/Luxemburg Lundbeck S. A. Avenue Molière 225 B-1050 Bruxelles/Brüssel Belgique/Belgien Tél/Tel: +32 2 340 2828
+ България Лундбек Експорт Търговско представителство ЕКСПО 2000 Бул. “ Н. Вапцаров ” №55 София 1407 Тел.: +359 2 962 46 96
+ Magyarország Biogal-Teva Pharma Zrt Rákóczi út 70-72. H-1074 Budapest Tel.: +36 1 288 6400
+ Česká republika Lundbeck Česká republika s. r. o. Bozděchova 7 CZ-150 00 Praha 5 Tel: +420 225 275 600
+ Malta Lundbeck Limited Lundbeck House Caldecotte Lake Business Park Caldecotte Milton Keynes MK7 8LF-UK Tel: +44 1908 64 9966
+ Danmark Lundbeck Pharma A/S Dalbergstrøget 5 DK-2630 Taastrup Tlf: +45 4371 4270
+ Nederland Teva Pharma B. V. P. O. Box 217 NL-3640 AE Mijdrecht Tel: +31 23 514 7157
+ Deutschland Lundbeck GmbH Karnapp 25 D-21079 Hamburg Tel: +49 40 23649 0
+ Norge H. Lundbeck AS Postboks 361 N-1326 Lysaker Tlf: +47 91300800
+ Eesti Lundbeck Eesti AS Weizenbergi 29 EE-10150 Tallinn Tel: +372 605 9350
+ Österreich Lundbeck Austria GmbH Dresdner Strasse 82 A-1200 Wien Tel: +43 1 33107 0
+ 23 Ελλάδα Lundbeck Hellas S. A. Λεωφόρος Κηφισίας 64 GR-151 25 Μαρούσι, Αθήνα Τηλ: +30 210 610 5036
+ Polska Lundbeck Poland Sp. z o. o. ul. Krzywickiego 34 PL-02-078 Warszawa Tel: +48 22 626 93 00
+ España Lundbeck España S. A. Av. Diagonal,605, 9-1a E-08028 Barcelona Tel: +34 93 494 9620
+ Portugal Lundbeck Portugal Lda Quinta da Fonte Edifício D. João I – Piso 0 Ala A P-2770-203 Paço d’ Arcos Tel: +351 21 00 45 900
+ France Lundbeck SAS 37 Avenue Pierre 1er de Serbie F-75008 Paris Tél: +33 1 5367 4200
+ România Lundbeck Export A/S Reprezentanţa din România Bd. Poligrafiei nr. 3A, et 2, sector 1 Bucureşti 013704-RO Tel: +40 21 319 88 26
+ Ireland Lundbeck (Ireland) Limited 7 Riverwalk Citywest Business Campus IRL-Dublin 24 Tel: +353 1 4689800
+ Slovenija Lundbeck Pharma d. o. o. Titova c. 8 SI-2000 Maribor Tel: +386 2 229 45 00
+ Ísland Lundbeck A/S, útibú á Íslandi Ármúla 1 IS-108 Reykjavik Sími: +354 414 7070
+ Slovenská republika Lundbeck Slovensko s. r. o. Zvolenská 19 SK-821 09 Bratislava 2 Tel: +421 2 5341 4218
+ Italia Lundbeck Italia S. p. A. Via G. Fara 35 I-20124 Milano Tel: +39 02 677 4171
+ Suomi/Finland Oy H. Lundbeck Ab Itäinen Pitkäkatu 4 FIN-20520 Turku (Åbo) Puh/Tel: +358 2 276 5000
+ Κύπρος Lundbeck Hellas A. E Θεµ. ∆έρβη – Φλωρίνης STADYL BUILDING CY-1066 Λευκωσία Τηλ: +357 22490305
+ Sverige H. Lundbeck AB Rundgången 30 B Box 23 S-250 53 Helsingborg Tel: +46 42 254300
+ Latvija SIA Lundbeck Latvia Kleistu iela 24 LV-1067 Riga Tel: +371 7 067 884
+ United Kingdom Lundbeck Limited Lundbeck House Caldecotte Lake Business Park Caldecotte Milton Keynes MK7 8LF-UK Tel: +44 1908 64 9966
+ 24 Lietuva UAB Lundbeck Lietuva L. Stuokos-Gucevičiaus 9-3 LT-01122 Vilnius Tel: +370 5 231 4188
+ Este folheto foi aprovado pela última vez em
+ 25

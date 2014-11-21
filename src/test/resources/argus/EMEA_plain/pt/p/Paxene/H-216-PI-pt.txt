@@ -1,0 +1,379 @@
+ ANEXO I
+ RESUMO DAS CARACTERÍSTICAS DO MEDICAMENTO
+ 1 1. DENOMINAÇÃO DO MEDICAMENTO Paxene 6 mg/ml concentrado para solução para perfusão.
+ 2. COMPOSIÇÃO QUALITATIVA E QUANTITATIVA
+ Cada frasco para uso único contém 6 mg/ml de Paclitaxel (30 mg de Paclitaxel em 5 ml ou 100 mg de Paclitaxel em 16,7 ml ou 150 mg de Paclitaxel em 25 ml ou 300 mg de Paclitaxel em 50 ml).
+ Excipientes, ver 6.1. 3. FORMA FARMACÊUTICA Concentrado para solução para perfusão. O Paxene apresenta-se na forma de uma solução viscosa transparente, de aspecto incolor a ligeiramente amarelada.
+ 4. INFORMAÇÕES CLÍNICAS 4.1 Indicações terapêuticas O Paxene está indicado no tratamento de doentes com:
+ -sarcoma de Kaposi (SK) avançado associado à SIDA (SK-SIDA) em que a terapêutica prévia
+ com antraciclina lipossómica fracassou;
+ -carcinoma metastásico da mama (CMM) que tenham falhado ou que não sejam candidatos ao
+ tratamento padrão com antraciclina;
+ -carcinoma do ovário avançado (COA) ou doença residual (&gt; 1 cm) após laparotomia inicial, em
+ associação com a cisplatina, em tratamento de primeira linha;
+ -com carcinoma metastásico do ovário (CMO) após a falha do tratamento de combinação à base
+ de derivados de platina, mas não taxanos, em tratamento de segunda linha;
+ -carcinoma avançado das células não pequenas do pulmão (NSCLC), em combinação com a
+ cisplatina, nos doentes que não sejam candidatos a uma intervenção cirúrgica e/ou radioterapia potencialmente curativas. A eficácia desta indicação é suportada por número limitado de dados; um resumo dos estudos relevantes encontra-se na secção 5.1.
+ 4.2 Posologia e modo de administração Dosagem e administração O Paxene só pode ser administrado sob controlo de um oncologista qualificado, nos locais de uma unidade especializada na administração de agentes citotóxicos (ver 6.6).
+ Todos os doentes devem ser pré-medicados com corticosteróides, anti-histamínicos e antagonistas dos receptores H2, antes da administração de Paxene. Recomenda-se o seguinte esquema de pré-medicação: Dexametasona (8-20 mg) administrada por via oral (12 e 6 horas) ou por via intravenosa (30-60 minutos) antes de Paxene, clorfeniramina 10 mg por via intravenosa ou um anti-histamínico equivalente 30 a 60 minutos antes de Paxene, e cimetidina (300 mg) ou ranitidina (50 mg) por via intravenosa,30 a 60 minutos antes de Paxene. Devem estar disponíveis os tratamentos de suporte adequados, para o caso de ocorrerem reacções de hipersensibilidade graves.
+ 2 O Paxene deve ser administrado usando um sistema de perfusão com dispositivo de controle (bomba), tubos e ligações, em material sem PVC. Deve ser usado um filtro em linha, ligado ao tubo de perfusão, durante a perfusão de Paxene, com uma membrana microporosa não superior a 0,22 µm (ver 6.6).
+ Para informação sobre o uso da cisplatina no tratamento do carcinoma avançado do ovário e no carcinoma das células não pequenas do pulmão, por favor consulte o RCM da Cisplatina.
+ Sarcoma de Kaposi associado à SIDA: A dose de Paxene recomendada é de 100 mg/m2, administrada através de perfusão intravenosa de 3 horas, cada duas semanas.
+ Carcinoma metastásico da mama e no ovário (tratamento de segunda linha): A dose recomendada de Paxene é 175 mg/m2 administrada como uma perfusão intravenosa de 3 horas, a cada três semanas.
+ Carcinoma avançado do ovário (tratamento de primeira linha): Embora estejam em investigação outros regimes posológicos, recomenda-se a terapêutica combinada de Paxene e cisplatina. Dependendo da duração da perfusão, recomendam-se duas dosagens diferentes para o tratamento com Paxene: 175 mg/m2 se administrado como perfusão intravenosa durante um período de 3 horas, seguido posteriormente de 75 mg/m2 de cisplatina, sendo esta terapia repetida em intervalos de 3 semanas, ou Paxene 135 mg/m2 administrado como perfusão intravenosa durante um período de 24 horas, seguido de 75 mg/m2 de cisplatina, sendo esta terapia repetida em intervalos de 3 semanas.
+ Carcinoma avançado das células não pequenas do pulmão: A dose recomendada de Paxene é de 175 mg/m2 administrado como perfusão durante 3 horas, seguido de 80 mg/m2 de cisplatina, sendo esta terapia repetida em intervalos de 3 semanas.
+ Reajuste da dose durante o tratamento Carcinoma metastásico da mama, e do ovário e das células não pequenas do pulmão: Não se deverá repetir o ciclo de Paxene, enquanto o número de neutrófilos não atingir o limiar mínimo de 1.500 células/mm3 e o das plaquetas seja no mínimo 100.000 células/mm3. Em doentes que apresentam neutropenia grave (neutrófilos &lt; 500 células/mm3 por uma semana ou mais), ou neuropatia periférica grave durante a terapia com Paxene a sua dose deve ser reduzida em 20% (NSCLC e tratamento de primeira linha do carcinoma do ovário) ou 25% (CMM e CMO) para os ciclos seguintes de Paxene. Os doentes que tenham apresentado mucosite (grau 2 ou pior) durante o tratamento com Paxene devem ter a sua dose reduzida em 25% nos ciclos subsequentes de Paxene.
+ Sarcoma de Kaposi associado à SIDA: Não se deverá repetir o ciclo de Paxene, enquanto o número de neutrófilos não atingir o limiar de pelo menos 1.000 células/mm3 e o das plaquetas seja de pelo menos 75.000 células/mm3. Em doentes que apresentem neutropenia grave (neutrófilos &lt; 500 células/mm3 por uma semana ou mais), neuropatia periférica grave ou mucosite (grau 3 ou pior) durante a terapia com Paxene, devem ter a sua dose reduzida em 25%, para 75 mg/m², nos ciclos seguintes de Paxene.
+ Populações especiais Doentes com insuficiência hepática: Não existem dados disponíveis in para recomendar modificações de dose em doentes com insuficiência hepática ligeira a moderada (ver 4.4 e 5.2). Os doentes com insuficiência hepática grave nunca devem de ser tratados com Paclitaxel.
+ Doentes com insuficiência renal: Até à data, não se realizou nenhum estudo com doentes com insuficiência renal. As informações disponíveis são insuficientes para permitir recomendações posológicas (ver 5.2). 3 Uso pediátrico: A segurança e a eficácia do produto ainda não foram comprovadas para uso pediátrico (com menos de 18 anos). Assim, o Paclitaxel não é recomendado em crianças.
+ 4.3 Contra-indicações Os doentes com antecedentes de hipersensibilidade grave ao Paclitaxel ou ao óleo de rícino polietoxilado.
+ Insuficiência hepática grave. Nível de neutrofilos de linha de base inferior a 1.500 células/mm³ (&lt; 1.000 células/mm3 na SK-SIDA).
+ Infecção concomitante grave e não controlada.
+ Gravidez e aleitamento. 4.4 Advertências e precauções especiais de utilização
+ O Paxene contém óleo de rícino polietoxilado que poderá provocar uma reacção alérgica.
+ Os doentes devem ser pré-medicados por rotina com um corticosteróide, um anti-histamínico e um antagonista dos receptores H2, antes do Paxene, para prevenir qualquer reacção grave de hipersensibilidade (ver 4.2.).
+ O Paxene deve ser administrado antes da cisplatina quando usado em associação (ver 4.5)
+ Reacções de hipersensibilidade Sintomas menores, como vermelhidão ou erupções cutâneas não obrigam a interromper o tratamento. No entanto, reacções graves como hipotensão que necessita de tratamento, dispneia que necessita bronco-dilatadores, angioedema ou urticária generalizada, exigem a suspensão imediata do tratamento com Paclitaxel e o uso de uma terapia sintomática agressiva. Os doentes que apresentam reacções graves não deverão ser reexpostos a este produto.
+ Os doentes devem ser seguidos de perto durante os primeiros ciclos do tratamento. Será necessário ter à disposição medicamentos apropriados em caso de reacções de hipersensibilidade grave.
+ Hematologia O Paclitaxel provoca uma atrofia da medula óssea (particularmente neutropenia). Por conseguinte, todos os doentes deverão fazer frequentemente exames hematológicos completos durante o tratamento. Os doentes com contagem basal de neutrofilos &lt; 1.500 células/mm3 (&lt; 1.000 células/mm3 na SK-SIDA) não devem receber Paclitaxel. Os doentes não devem ser re-tratados em ciclos subsequentes de Paclitaxel até que a contagem de neutrofilos seja recuperada a ≥ 1.500 células/mm3 (≥ 1.000 células/mm3 para doentes com SK-SIDA) e as plaquetas atinjam o nível de ≥ 100.000 células/mm3 (≥ 75.000 células/mm3 para doentes com SK-SIDA).
+ Os doentes que sofram de neutropenia grave (&lt; 500 células/mm3 durante 7 dias ou mais), durante um ciclo com Paclitaxel ou septicémia com neutropénia, deverão receber uma dose de Paclitaxel reduzida nos ciclos subsequentes do tratamento do Paxene (ver 4.2.).
+ 4 Mucosite
+ Os casos de mucosite moderados a grave são pouco frequentes quando as doses e a frequência das administrações de Paxene recomendadas forem respeitadas. No entanto, se o tratamento for continuado com a eventualidade de reacções moderadas ou graves, deverá reduzir a dose de Paclitaxel nos ciclos seguintes de Paxene (ver 4.2).
+ Neuropatia A neuropatia, principalmente neuropatia sensorial periférica, ocorre muito frequentemente e é habitualmente de intensidade ligeira a moderada. A neuropatia periférica grave ocorreu em 3% dos doentes tratados com a dose e esquema posológico recomendado para o Paxene. No tratamento do NSCLC e no tratamento de primeira linha do carcinoma do ovário, a administração do Paclitaxel em perfusão de 3 horas, em associação com a cisplatina, resultou numa maior incidência de neurotoxicidade grave do que na administração do Paclitaxel como agente único e da ciclofosfamida seguida de cisplatina.
+ Em caso de reacções neuropatia periférica graves, as melhoras devidas à continuação do tratamento deverão ser comparadas com os riscos possíveis. No entanto, se o doente tiver de continuar com o tratamento, deverá reduzir-se a dose de Paclitaxel nos ciclos seguintes de Paxene (ver 4.2.)
+ Anomalias da condução eléctrica do miocárdio e arritmias
+ Nos doentes tratados com Paclitaxel, os casos de anomalias significativas de condução são raros. As alterações do ECG observadas durante a administração do Paclitaxel foram ligeiras. A monitorização cardíaca não é recomendada excepto nos doentes com situações graves de anomalias da condução cardíaca ou arritmias. Nos casos raros de graves anomalias da condução cardíaca ou arritmias, é recomendado aplicar uma terapia apropriada e fazer um seguimento cardíaco permanente durante os ciclos seguintes. Registaram-se casos de hipotensão, hipertensão e de bradicardia durante a administração de Paclitaxel, mas os doentes implicados são em geral assintomáticos e não necessitam terapia.
+ Adicionalmente, em estudos de Paxene com doentes com CMM ou CMO foram observados taquicardia, palpitação e sincope. Portanto, recomenda-se realizar um controle frequente das funções vitais durante as primeiras horas de perfusão do Paxene.
+ Em estudos com doentes com CMM ou CMO, um total de dois doentes apresentaram falha cardíaca congestiva de grau 4. Um único caso de falha cardíaca foi relacionado com Paxene e foi observado num estudo clínico de SK-SIDA.
+ Foram observados eventos graves cardiovasculares, mais frequentemente em doentes com NSCLC do que nos doentes com carcinoma da mama ou do ovário.
+ Insuficiência hepática Os doentes com insuficiência hepática podem apresentar um risco acrescido de toxicidade, particularmente mielodepressão de nível 3-4. Não existem provas de que a toxicidade do Paclitaxel seja aumentada, quando administrado sob a forma de uma perfusão durante 3 horas a doentes com a função hepática ligeiramente afectada. Quando administrado sob a forma de uma perfusão mais prolongada, pode ser observada uma mielodepressão acrescida em doentes com insuficiência hepática moderada a grave. Os doentes devem ser vigiados de perto em relação ao desenvolvimento de mielodepressão profunda (ver 4.2). Não estão disponíveis informações para recomendar modificações de dose em doentes com insuficiência hepática ligeira a moderada (ver 5.2). Não existem dados relativos a doentes com colestase de base grave. Doentes com uma disfunção hepática grave não devem ser tratados com paclitaxel.
+ 5 Gastrointestinal
+ A colite pseudomembranosa foi raramente reportada, incluindo casos ocorrendo em doentes que não foram submetidos à terapêutica concomitante com antibióticos. Esta reacção deverá ser considerada no diagnóstico diferencial de casos de diarreia grave ou persistente ocorrendo no decurso ou pouco depois da terapêutica com Paclitaxel.
+ Outros O Paxene contém Etanol (392 mg/ml), pelo que, entre outros, devem ser considerados os efeitos sobre o SNC (ver 4.7).
+ O Paclitaxel, particularmente em associação com a radiação do pulmão e/ou gemcitabina, independentemente da ordem cronológica, pode contribuir para o desenvolvimento da penumonia intersticial.
+ Tal como outros citostáticos genotóxicos o Paclitaxel pode ter efeitos genotóxicos. Os doentes do sexo masculinos tratados com Paxene devem ser advertidos de não tentarem procriar durante o tratamento e nos seis meses seguintes ao mesmo.
+ 4.5 Interacções medicamentosas e outras formas de interacção
+ Até à data, não se realizou nenhum estudo relativo à interacção medicamentosa com o Paxene.
+ Quando administrado como parte de um tratamento de associação com cisplatina, recomenda-se que o Paxene seja administrado antes da cisplatina. Quando o Paclitaxel é administrado antes da cisplatina, o seu perfil de segurança é consistente com o reportado quando usado em monoterapia. Quando o Paclitaxel é administrado após a cisplatina, os doentes apresentam uma mielodepressão mais profunda e diminuem em aproximadamente 20% a depuração do Paclitaxel.
+ Uma vez que a eliminação da doxorrubicina e do seu metabolito activo pode ficar reduzida quando o paclitaxel e a doxorrubicina são utilizados em associação, o paclitaxel deve ser administrado 24 horas após a doxorrubicina.
+ Na medida em que o Paclitaxel é metabolizado pelo sistema do citocromo P450 isoenzimas CYP 3A4 e 2C8, deve-se ter cuidado com a utilização de outros medicamentos conhecidos que inibam (ex: Eritromicina, Fluoxetina, Gemfibrozil, Imidazole, anti-fungícos) ou estimulem (ex: Rifampicina, Carbamazepina e Fenitoina, Fenobarbital, Efavirenz, Nevirapina) estes enzimas, já que podem modificar a farmacocinética do Paclitaxel. A administração simultânea de Cetoconazole, um conhecido poderoso inibidor de CYP3A4, não inibe a eliminação de Paclitaxel nos doentes; portanto, ambos os fármacos podem ser administrados em conjunto sem qualquer ajuste da dose. Informações complementares sobre o potencial de interacções de fármacos entre o Paclitaxel e outros substratos/inibidores de CYP3A4 são limitadas.
+ Os estudos realizados em doentes com SK-SIDA que tomaram Paxene e simultaneamente vários tipos de medicamentos, indicam que a eliminação do Paclitaxel no organismo era significativamente inferior (p &lt; 0,05) em presença de Nelfinavir e Ritonavir, mas não na presença de Indinavir. A respeito da utilização com outros inibidores de proteases há informações insuficientes. Por conseguinte é necessário ser muito prudente durante a administração de Paxene aos doentes tratados simultaneamente com inibidores de proteases.
+ 4.6 Gravidez e aleitamento Uma dose intravenosa de Paclitaxel de 0,6 mg/kg/dia produziu toxicidade de reprodução e no desenvolvimento fetal no rato.
+ 6 O Paxene está contra-indicado em caso de gravidez. As mulheres em tratamento com Paxene devem ser aconselhadas a usarem meio eficaz contracepção, durante o período da terapia e devem informar imediatamente o seu médico se ocorrer uma gravidez.
+ O Paxene é contra-indicado durante o aleitamento. Não se sabe se o Paclitaxel é excretado no leite materno. Portanto o aleitamento deve ser interrompido durante a terapia com Paxene.
+ 4.7 Efeitos sobre a capacidade de conduzir e utilizar máquinas
+ Depois de uma perfusão de Paxene, a capacidade dos doentes para realizar tarefas que necessitam uma certa habilidade, (condução, utilização de máquinas, etc.) pode ser alterada devido ao conteúdo de álcool do Paxene (ver 4.4 e 6.1).
+ 4.8 Efeitos indesejáveis Monoterapia: As seguintes reacções adversas estão relacionadas com 166 doentes com CMM e com 120 doentes com CMO tratados com 175 mg/m2 de Paxene, administrado em perfusão de 3 horas, como tratamento de segunda linha em dois estudos clínicos e foram considerados provável ou possivelmente relacionados com o Paxene. Como a população com SK-SIDA é muito específica, os dados de segurança do estudo clínico com 107 doentes com SK-SIDA são apresentados separadamente no final da Secção 4.8.
+ A depressão da medula óssea foi o principal factor de toxicidade limitante da dose do Paxene. A neutropenia grave (&lt; 500 celulas/mm3) ocorreu em 26% dos doentes tratados com Paxene durante todo o período de tratamento. 19% dos doentes apresentaram neutropenia grave por &gt; 7 dias. A trombocitopenia foi observada em 6% dos doentes. 2% dos doentes tiveram um nadir plaquetário &lt; 50.000 células/mm3. A anemia (Hb &lt; 11g/dl) foi observada em aproximadamente 9,% dos doentes tratados mas foi grave em menos de 1% (Hb &lt; 8 g/dl).
+ A neuropatia ocorreu em 18% dos doentes tratados com Paxene. A parestesia foi observada em 48% dos doentes. A neuropatia e parestesia graves ocorreram em 3% e 5% dos doentes, respectivamente. A neuropatia periférica pode ocorrer após o primeiro ciclo e pode ser agravada com o aumento da exposição ao Paclitaxel. A neuropatia periférica foi a causa da descontinuação do Paclitaxel em alguns casos. Os sintomas sensoriais habitualmente melhoraram ou resolveram-se alguns meses após a descontinuação do paclitaxel. As neuropatias pré-existentes resultantes de tratamentos prévios não são uma contra-indicação para o tratamento com Paclitaxel.
+ A outra doenca do sistema nervoso relatada mais frequentemente, foi a sonolência que afectou 14% dos doentes.
+ Artralgia foi relatada em 32% de todos os doentes (5% grave) e a mialgia foi observada em 47% (6% foi grave).
+ As reacções do local da injecção incluindo as reacções secundárias ao extravasamento, foram geralmente moderadas e consistiram em eritema, sensibilidade, descoloração da pele, ou inchaço suave no local da injecção que podem resultar em celulite. O retorno de reacções da pele em um local da administração seguindo da extravasação precedente do Paclitaxel num local diferente, isto é, “ recall" foi relatado raramente. Não é conhecido um tratamento específico para reacções de extravasamento.
+ A tabela seguinte lista os efeitos indesejáveis, independentemente da gravidade, associados com a administração do Paclitaxel em monoterapia, por perfusão de 3 horas nos doentes metastásicos (286 doentes tratados com Paxene nos estudos clínicos e 812 doentes tratados em outros estudos clínicos com paclitaxel) e reportados nos estudos de vigilância pós-comercialização (*) do paclitaxel. Quando
+ 7 há diferenças na incidência de eventos entre Paxene e outros estudos clínicos com paclitaxel, é referida a incidência mais frequente.
+ A frequência de efeitos indesejáveis abaixo referidos expressam-se usando a seguinte convenção:
+ Muito frequentes (&gt; 1/10); frequentes (&gt; 1/100, &lt; 1/10); pouco frequentes (&gt; 1/1000, &lt; 1/100); raros (&gt; 1/10.000, &lt; 1/1.000); muito raros (&lt; 1/10.000), incluindo comunicações isoladas.
+ Infecções e infestações: Muito frequentes: infecção (incluindo herpes simples, candidíase oral, faringite, rinite)
+ Frequentes: síndroma gripal. Pouco frequentes: infecções graves, choque séptico.
+ Raros (*): pneumonia
+ Doenças do sangue e do sistema linfático:
+ Muito frequentes: neutropenia grave, leucopenia grave, trombocitopenia, anemia, mielodepressão.
+ Frequentes: febre neutropénica Pouco frequentes: anemia grave
+ Muito raros (*): Leucemia mielodisplástico
+ mielóide
+ aguda,
+ síndroma
+ Doenças do sistema imunitário: Muito Frequentes: reacções menores de hipersensibilidade (principalmente rubor e exantema)
+ Pouco frequentes: hipersensibilidade (atrasada), reacções de hipersensibilidade significativas requerendo tratamento (exemplo: hipotensão, edema angioneurótico, distúrbios respiratórios, urticária generalizada).
+ Raros (*): reacções anafilácticas
+ Muito raros (*): choque hipersensibilidade fatal)
+ anafiláctico
+ (incluindo
+ Doenças do metabolismo e da nutrição:
+ Muito frequentes: anorexia Pouco frequentes: desidratação, perda ou ganho de peso.
+ Perturbações do foro psiquiátrico Muito raros (*): estado confusional Doenças do sistema nervosos: Muito frequentes: neuropatia (principalmente periférica) parastesia, sonolência.
+ Frequentes: neuropatia grave (principalmente periférica), tonturas, nervosismo, insónia, depressão, pensamentos anormais, hipoquinésia, passos anormais, hipastesia, perversão de sabor, cefaleias.
+ Raros (*): Neuropatia motora (com fraqueza distal menor)
+ 8 Muito raros (*): encefalopatia aguda, neuropatia autonómica (resultando em oclusão intestinal paralítica e hipotensão ortostática), convulsões.
+ Afecções oculares: Pouco frequentes: olhos secos, ambliopia, defeitos no campo visual.
+ Muito raros (*): Distúrbios do nervo óptico e/ou visuais (scotomata cintilante), particularmente em doentes que recebem doses mais elevadas que as recomendadas.
+ Afecções do ouvido e labirinto: Frequentes: acufenos Muito raros: perda de audição neurosensorial, vertigens
+ Cardíopatias: Frequentes: taquicardia, palpitação, bradicardia, síncope
+ Pouco frequentes: insuficiência cardíaca congestiva, cardiomiopatia, taquicardia ventricular assintomática, taquicardia com bigemidade, bloqueio auriculo-ventricular e síncope, enfarte do miocárdio.
+ Muito raros (*): fibrilhação auricular
+ Doenças vasculares Muito frequentes: hipotensão Frequentes: vasodilatação (vermelhidão) Pouco frequentes: tromboflebite, hipertensão, trombose,
+ Muito raros (*): choque
+ Doenças respiratórias, torácicas e do mediastino:
+ Frequentes: dispneia, epistaxis Raros: efusão pleural, fibrose pulmonar
+ Muito raros (*): tosse, hipertensão pulmonar.
+ Doenças gastrointestinais: Muito frequentes: náuseas, vómitos, diarreia, inflamação das mucosas, obstipação, estomatite, dor abdominal
+ Frequentes: boca seca, ulceração na boca, melena, dispepsia
+ Muito raros (*): obstrução intestinal, perfuração intestinal, colite pseudomembranosa, colite isquémica, trombose mesentérica, enterocolite necrotisante, esofagite, ascite, pancreatite aguda
+ Afecções hepatobiliares: Muito raras (*): necrose hepática, encefalopatia hepática
+ Afecções dos tecidos cutâneos e subcutâneas:
+ Muito frequentes: alopécia Frequentes: alteração transitória da pele, pele seca, dermatite esfoliativa, prurido, erupção, acne, alterações ligeiras e transitórias das unhas.
+ 9 Pouco frequentes: alteração da pigmentação das unhas ou descoloração da base da unha
+ Raros (*): eritema
+ Muito raros (*): Síndroma de Stevens-Johnson, necrose epidérmica, eritema multiforme, urticária, onicolise (os doentes tratados devem usar protectores solares nas mãos e pés)
+ Afecções musculo-esqueléticas e do tecidos conjuntivos:
+ Muito frequentes: artralgia, mialgia Frequentes: dor óssea, espasmos nas pernas, miastenia, dores nas costas
+ Doenças renais e urinárias: Frequentes: disuria Perturbações gerais e alterações no local de administração:
+ Muito frequentes: astenia, dor, edema incluindo o periférico e face.
+ Frequentes: reacções moderadas no local de administração (eritema, fraqueza, descoloração da pele ou suores, dores, extravasamento, que pode resultar em celulite e ulceração cutânea), mal estar, dor do peito, tremores, piréxia.
+ Exames complementares de diagnóstico
+ Frequentes: aumento grave das transaminases, aumento grave da fosfatase alcalina
+ Pouco frequentes: Aumento grave da bilirrubina
+ Tratamento em associação (terapia combinada)
+ A discussão seguinte refere-se a dois dos principais estudos para o tratamento de primeira linha do carcinoma do ovário (paclitaxel+ cisplatina: em mais de 1050 doentes) e dois ensaios de fase III para o tratamento do NSCLC avançado (paclitaxel+ cisplatina: em mais de 360 doentes) (Ver 5.1).
+ Quando administrado numa perfusão de 3 horas, no tratamento de primeira linha do carcinoma do ovário, foram mais frequentemente reportados e com maior gravidade neurotoxicidade, artralgia/mialgia, e hipersensibilidade,, em doentes tratados com paclitaxel seguido de cisplatina do que nos doentes tratados com ciclofosfamida seguida de cisplatina. A mielodepressão parece ser menos frequente e grave com o paclitaxel em perfusão de 3 horas seguido de cisplatina comparativamente a ciclofosfamida seguida de cisplatina.
+ 10 A neurotoxicidade, principalmente neuropatia periférica, parece ser mais frequente e grave com a perfusão de 175 mg/m2, durante 3 horas (85% neurotoxicidade,15% grave) do que com a perfusão de 135 mg/m2, durante 24 horas (25% neuropatia periférica,3% grave) quando o Paclitaxel foi associado com a cisplatina. Nos doentes com NSCLC e carcinoma do ovário, tratados com paclitaxel durante 3 horas, seguido de cisplatina, há um aumento aparente na incidência de neurotoxicidade grave. A neuropatia periférica pode ocorrer após o primeiro ciclo e piorar com o aumento da exposição ao paclitaxel. A neuropatia periférica foi a causa da interrupção de paclitaxel em alguns casos. Os sintomas sensoriais melhoraram ou regrediram alguns meses após a interrupção do paclitaxel. As neuropatias pre-existentes resultantes de tratamentos anteriores não são uma contra-indicação para o tratamento com o paclitaxel.
+ Em oito ensaios clínicos publicados (8 ensaios de fase III) incluindo 4.735 doentes com carcinoma do ovário avançado e em doze ensaios clínicos publicados (um largo de fase II e onze de fase III) incluindo 4.315 doentes com NSCLC tratados com Paclitaxel e regimens contendo derivados de platina, observaram-se os mesmos efeitos indesejáveis que os observados com o paclitaxel em monoterapia. Adicionalmente ocorreram muito raramente, oclusão intestinal, efeitos sobre a depuração da creatinina, electrólitos anormais (exemplo, hiponatrémia, hipomagnesémia), hiperglicémia, tosse e pneumonia.
+ A pneumonia por radiação tem sido relatada muito raramente em doentes recebendo simultaneamente radioterapia e/ou gemncitabina.
+ Sarcoma de Kaposi associado à SIDA: Os efeitos indesejáveis listados de seguida são baseados no ensaio clínico com 107 doentes tratados com Paxene 100 mg/m2, administrado em perfusão de 3 horas, como tratamento de segunda linha num estudo clínico e foram considerados possíveis ou provavelmente associados ao Paxene. Excepto para os efeitos indesejáveis hematológicos e hepáticos (listados abaixo), a frequência e gravidade dos efeitos indesejáveis são geralmente semelhantes entre os doentes com SK e os doentes com tumores sólidos tratados com paclitaxel em monoterapia.
+ A mielodepressão foi o principal efeito tóxico dose-limitante do Paxene. A neutropenia grave (&lt; 500 células/mm3) foi observada em 20% e 39% dos doentes, respectivamente, durante o primeiro ciclo e todo o período de tratamento. A neutropenia esteve presente durante &gt; 7 dias em 41% dos casos e em 30-35 dias em 8% dos doentes. Foi resolvida em 35 dias em todos os doentes que foram seguidos. A incidência da neutropenia de grau 4 durante 7 ou mais dias foi 22%. A febre neutropénica relatada para o paclitaxel foi registada em 14% dos doentes. Houve três episódios de sépsis (2,8%) durante a administração de Paxene, com relação causal com o medicamento que se verificaram fatais. A trombocitopenia foi observada em 50% dos doentes, e foi grave (&lt; 50.000 células/mm3) em 9%. Foram registados episódios hemorrágicos em menos de 3% dos doentes que receberam Paclitaxel, mas estes episódios foram localizados. Anemia (Hb &lt; 11g/dl) foi observada em 61% dos doentes e foi grave (Hb &lt; 8 g/dl) em 10%. A transfusão de eritrócitos foi necessária em 21% dos doentes.
+ Nos doentes (&gt; 50% sob inibidores das proteases) com função hepática basal normal; 28%,43% e 44% tiveram aumento da bilirrubina, fosfatase alcalina e AST (SGOT), respectivamente. Para cada um destes parâmetros, os aumentos foram graves em 1% dos casos.
+ 4.9 Sobredosagem Não existe nenhum antídoto para um sobredosagem de Paxene. Nesse caso o doente deve ser vigiado de perto e receber um tratamento para as principais toxicidades esperadas, as quais são a depressão da medula óssea, a mucosite e as neuropatias periféricas.
+ 11 5. PROPRIEDADES FARMACOLÓGICAS
+ 5.1 Propriedades farmacodinâmicas Grupo farmacoterapêutico: agentes anti neoplásicos (taxanos), código ATC: L01C D01.
+ A substância activa contida em Paxene é o Paclitaxel. O mecanismo de acção anti tumoral exacto do Paclitaxel não é conhecido. Pensa-se que provoca o ligamento de microtubulos de dimeros da tubulina, impedindo assim a despolimerização. A estabilização tem então como efeito inibir a normal reorganização dinâmica da rede microtubular, que é essencial para a interfase vital e as funções mitóticas celulares. Por outro lado, o Paclitaxel induz o ligamento de microtubulos durante todo o ciclo celular e a criação de múltiplos ásteres de microtubulos durante a mitose.
+ Carcinoma metastásico da mama: A eficácia e segurança de Paxene (175 mg/m2 durante 3 horas em intervalos de 3 semanas) no carcinoma da mama metastásico refractário foram investigadas em 172 mulheres em um ensaio de fase III aberto e multicentrico. A taxa da resposta clínica foi de 18,5%, a mediana do tempo para a progressão foi de 2,8 meses (IC: 2,1-3,3 meses) e a mediana do tempo de sobrevivência foi de 9,9 meses (IC: 7,8-13,1 meses). Os resultados obtidos com Paxene são quase idênticos aos dos ensaios da fase III do Paclitaxel publicados.
+ Carcinoma avançado do ovário (tratamento de primeira linha):, A segurança e eficácia do Paclitaxel foram avaliados em dois ensaios clínicos principais controlados aleatorizados (comparado com ciclofosfamida 750 mg/m2+ cisplatina 75 mg/m2). No primeiro ensaio, com 650 doentes na fase IIb-c, III ou IV do carcinoma primário do ovário foi administrado paclitaxel (175 mg/m2 durante 3 horas) seguido de cisplatina (75 mg/m2) num máximo de 9 ciclos, ou tratamento controlo. O segundo estudo principal avaliou um máximo de 6 ciclos com paclitaxel (135 mg/m2, numa perfusão de 24 horas) seguido de cisplatina (75 mg/m2) ou tratamento controlo em mais de 400 doentes com carcinoma primário do ovário de fase III ou IV com um tumor residual &gt; 1 cm após laparotomia, ou com metastases distantes. Embora as duas posologias diferentes de paclitaxel não tenham sido comparadas uma com a outra, directamente, em ambos os ensaios, os doentes tratados com paclitaxel em associação com cisplatina tiveram um tempo de progressão significativamente mais longo (estudo 1: mediana 15,3 meses vs 11,5 meses, p &lt; 0,001; estudo 2: mediana 17 meses vs 13 meses, p &lt; 0,001) e um maior tempo de sobrevivência (estudo 1: mediana 36 meses vs 26 meses, p=0,0016; estudo 2: mediana 36 meses vs 24 meses, p &lt; 0,001), e no estudo 1 houve uma taxa de resposta signiicativamente superior (estudo 1: 59% vs 45%, p=0,014; estudo 2: 60% vs 50%, NS), quando comparado com a terapia padrão. O aumento da neurotoxicidade, artralgia/mialgia, mas reduzida mielosupressão foram observados em doentes com carcinoma avançado do ovário, cuja perfusão de paclitaxel/cisplatina decorreu em 3 horas, em comparação com os doentes que receberam ciclofosfamida/csplatina.
+ Carcinoma metastásico no ovário (tratamento de segunda linha): A eficácia e segurança de Paxene (175 mg/m2 durante 3 horas em intervalos repetidos de 3 semanas) no carcinoma metastásico do ovário avançado foram investigadas em 120 mulheres em um ensaio de fase II estendida, aberto e multicentrico. A taxa da resposta clínica foi de 21,7% (IC: 14,7%-31,1%), a mediana do tempo para a progressão foi de 4,1 meses (IC: 3,3-4,9 meses) e a mediana do tempo de sobrevivência foi de 13,4 meses (IC: 11,5-15,0 meses). Os resultados obtidos com Paxene são quase idênticos àqueles dos ensaios da fase III do Paclitaxel publicados.
+ Carcinoma das células não pequenas do pulmão A eficácia da associação paclitaxel/cisplatina foi demonstrada em dois ensaios clínicos controlados aleatorizados, em doentes com carcinoma das células não pequenas do pulmão, localmente avançado ou metastásico.
+ No primeiro estudo,332 doentes com NSCLC localmente avançado ou metastásico foram aleatorizados para receber cisplatina (80 mg/m2) em associação a Teniposido (100 mg/m2; n= 166), ou cisplatina (80 mg/m2) e paclitaxel (175 mg/m2; n= 166). Não se observou vantagem no tempo de
+ 12 sobrevivência (9,5 vs 9,9 meses) ou sobrevivência sem progressão da doença (5,1 vs 5,0 meses) com cisplatina/paclitaxel vs cisplatina/tenoposido. No entanto, verifou-se com cisplatina/placitaxel uma maior taxa de resposta (37% vs 26%), menos efeitos adversos e melhoria da qualidade de vida (QoL) a curto prazo versus cisplatina/tenoposido, o que foi considerado um resultado importante na população paliativa. A neurotoxicidade periférica de grau 2 ou 3 foi observada mais frequentemente com cisplatina/paclitaxel (29% vs 6%).
+ No segundo estudo,599 doentes com doença em estadio IIIB ou IV foram aleatorizados para receberem cisplatina (75 mg/m2) e etoposido (100 mg/m2; n= 200) ou cisplatina (75 mg/m2) e dose baixa de paclitaxel (135 mg/m2; n= 198) ou cisplatina (75 mg/m2) e dose elevada de paclitaxel (250 mg/m2) com G-CSF (n=201). O tempo médio de sobrevivência para cada braço contendo paclitaxel não foi significativamente diferente comparado com etoposido/cisplatina (p=0,097 e 0,090 para a dose mais elevada e mais baixa de paclitaxel, respectivamente). Relativamente à sobrevivência sem progressão da doença, os resultados foram significativamente diferentes e foram notados no braço com a dose mais elevada do paclitaxel comparado com etoposido/cisplatina (p=0,007). As taxas de resposta foram fortemente favoráveis aos braços contendo paclitaxel[ 13%,30% e 26% para etoposido/cisplatina, dose elevada de paclitaxel (p &lt; 0,001 vs etoposido/cisplatina) e dose baixa de paclitaxel (p=0,003 vs etoposido/cisplatina), respectivamente]. Uma maior proporção de doentes tratados com paclitaxel teve melhorias na qualidade de vida a curto prazo. No entanto, a neurotoxicidade de grau 3 foi significativamente mais frequente com as doses elevadas de paclitaxel vs etoposido/cisplatina (40% vs 21%).
+ Sarcoma de Kaposi associado à SIDA: A eficácia e segurança do Paxene foram testadas durante um estudo único não comparativo em 107 doentes com Sarcoma de Kaposi avançado previamente tratados com quimioterapia sistémica. Neste estudo os doentes receberam factor de estimulação de crescimento de granulócitos (G-CSF). O critério de avaliação primário foi a melhor resposta do tumor. Foi administrada aos doentes, numa perfusão de 3 horas,100 mg/m² de Paxene, de 14 em 14 dias. Dos 107 doentes,63 foram considerados resistentes às antraciclinas em lipossomas. Este sub-grupo foi constituído como a população alvo em termos de eficácia.
+ A taxa total de sucesso (resposta parcial ou total) foi de 57% (valores compreendidos entre 44 e 70%), após 15 ciclos de tratamento em doentes resistentes às antraciclinas em lipossomas. Mais de metade das respostas foram visíveis logo após os três primeiros ciclos de tratamento. Nos doentes resistentes às antraciclinas em lipossomas, os índices de resposta foram semelhantes aos índices dos doentes que nunca tinham tomado inibidores de proteases (55,6%) e aos dos que tinham tomado um, pelo menos 2 meses antes do tratamento com Paxene (60,9%).
+ A mediana do tempo para a progressão na população alvo foi de 468 dias (95% IC 257-NE). A mediana de sobrevivência do Paxene não pôde ser calculada, mas o limite inferior de 95% foi de 617 dias nos doentes alvo.
+ 5.2 Propriedades farmacocinéticas Depois da administração intravenosa, a concentração no plasma diminui de forma bifásica ou trifásica. A disponibilidade do Paclitaxel não é linear (dependendo da concentração), visto que a exposição sistémica do organismo ao produto aumenta mais do que se poderia prever pelo aumento da dose.
+ Segundo estudos in vitro, o grau de ligação às proteínas plasmáticas oscila entre 88 a 98%. Apesar deste valor elevado, o Paclitaxel distribui-se amplamente pelos tecidos.
+ Carcinoma metastásico da mama: Os parâmetros farmacocinéticos de Paclitaxel a 175 mg/m2 administrado durante 3 horas a 13 doentes com carcinoma de mama foram os seguintes: concentração máxima (Cmax) foi 3.890 ng/ml, a área sob a curva de concentração plasmática em função do tempo (AUC) foi 14.090 ng· h/ml e a depuração (CL) foi de 13,3 l/h/m2.
+ 13 Carcinoma metastásico da mama ou do ovário: Os parâmetros farmacocinéticos de Paclitaxel em 175 mg/m2 administrado durante 3 horas a 3 doentes com carcinoma da mama e a 5 doentes com carcinoma no ovário foram os seguintes: concentração máxima (Cmax) foi 4.213 ng/ml, área sob da curva da concentração plasmática em função do tempo (AUC) foi 12.603 ng h/ml e depuração (CL) foi de 20,4 l/h/m2.
+ A excreção renal tem uma importância mínima na eliminação do Paclitaxel, dado que em média menos de 10% da dose foi encontrada na urina sem sofrer alteração. A principal via de eliminação é por metabolismo, seguido da eliminação biliar; entre 6 doentes,39 a 87% da dose intravenosa administrada (175 mg/m²) foi excretada nas fezes, com uma média apenas de uns 10% da dose, na forma inalterada de Paclitaxel. Foram detectados vários metabolitos, tendo sido apenas identificados três: 6 alfa-hidroxipaclitaxel,3 ’-para-hidroxipaclitaxel e 6 alfa,3 ’-para-hidroxipaclitaxel. O componente principalmente excretado nas fezes é o 6 alfa-hidroxipaclitaxel. Os estudos in vitro realizados mostraram que o CYP2C8 e 3A4 estão também implicados na formação do 6 alfa-hidroxipaclitaxel e do 3 ’ para-dihidroxipaclitaxel, respectivamente.
+ Sarcoma de Kaposi associado à SIDA: Depois de uma dose intravenosa de 100 mg/m², administrada em forma de perfusão de 3 horas em 19 doentes que sofriam do Sarcoma de Kaposi associado à SIDA, as concentrações máximas oscilavam entre 761 a 2.860 ng/ml (1.530 em média) e a área sob a curva de concentração plasmática em função do tempo (AUC) foi aproximadamente de 5.619 ng· h/ml (os valores variaram de 2.609 a 9.428). A depuração foi de 20,6 1/h/m² (de 11 a 38) e o volume de distribuição foi de 291 1/m² (de 121 a 638). A semi-vida do produto estabelece-se, em média, em 23,7 horas (de 12 a 33).
+ 5.3 Dados de segurança pré-clínica Carcinogenese, mutagenese, efeitos sobre a fertilidade: Os estudos realizados mostraram que o Paclitaxel tem uma acção genotóxica in vivo (teste do micronúcleos no rato); no entanto não provocou nenhuma mutação no teste de Ames ou no ensaio de mutação
+ genética
+ CHO/HGPRT (ovário
+ de
+ hamster
+ chinês/hipoxantine-guanina
+ fosforibosiltransferase). O potencial carcinogénicoo do Paclitaxel ainda não foi objecto de estudo. No entanto, o Paclitaxel pertence a um grupo de substâncias que são potencialmente carcinogéneas devido ao seu mecanismo de acção. Também sabemos que o Paclitaxel provoca uma diminuição da fertilidade e um perigo para o feto no rato em doses pouco elevadas (0,6 mg/kg/dia). Os estudos realizados com animais mostraram que o Paclitaxel produz efeitos tóxicos irreversíveis nos órgãos reprodutores masculinos a níveis de exposição clinicamente relevantes.
+ 6. INFORMAÇÕES FARMACÊUTICAS 6.1. Lista dos excipientes Óleo de rícino polietoxilado, Ácido cítrico (anidro) Etanol (aproximadamente 392 mg/ml).
+ 6.2 Incompatibilidades É desaconselhado que o produto não diluído, esteja em contacto com equipamentos ou sistemas de perfusão contendo PVC. Para evitar ao máximo a exposição do doente ao DEHP[ di-(2-etilhexil) ftalato), que poderá ser dissolvido de sacos ou de recipientes de PVC, as soluções de Paxene diluídas devem de ser conservadas em frascos (de vidro ou de polipropileno) ou em sacos de plástico (de polipropileno ou de poliolefino) e administradas através de um dispositivo de perfusão em polietileno.
+ Na ausência de estudos de compatibilidade, este medicamento não pode ser misturado com outros medicamentos. 14 6.3 Prazo de validade
+ 2 anos em frasco para injectáveis fechado.
+ A estabilidade química, física e microbiológica do produto não diluído remanescente, não diluído, no frasco para injectáveis, demonstrou manter-se estável durante 28 dias, quando conservado abaixo de 25ºC. Quaisquer outras condições e tempos de conservação são da responsabilidade do utilizador.
+ Após a sua diluição, a sua estabilidade química e física normal, nos sacos de perfusão de polipropileno foi demonstrada durante, pelo menos 24 horas a uma temperatura inferior a 25°C.
+ Do ponto de vista microbiológico o produto diluído deve ser utilizado imediatamente. De modo contrário, o tempo de conservação habitual e as condições antes de começar a utilizar o produto são da responsabilidade do utilizador, não devendo normalmente ultrapassar 24 horas, a uma temperatura entre 2° e 8°C, excepto em caso de diluição sob condições assépticas validadas.
+ 6.4 Precauções especiais de conservação
+ Não conservar acima de 25°C. Manter o recipiente dentro da embalagem exterior.
+ 6.5 Natureza e conteúdo do recipiente Existem quatro embalagens diferentes: frascos para injectáveis de 30 mg/5 ml e frascos para injectáveis de 100 mg/16,7 ml, frascos para injectáveis de 150 mg/25 ml e frascos para injectáveis de 300 mg/50ml também embalados em cartonagem externa.
+ O frasco para injectáveis de 30 mg de Paxene é um frasco de vidro transparente (tipo I) de 5 ml com uma cápsula quebrável.
+ O frasco para injectáveis de 100 mg de Paxene é um frasco de vidro transparente (tipo I) de 20 ml com uma cápsula quebrável.
+ O frasco para injectáveis de 150 mg de Paxene é um frasco de vidro transparente (tipo I) de 30 ml com uma cápsula quebrável.
+ O frasco para injectáveis de 300 mg de Paxene é um frasco de vidro transparente (tipo I) de 50 ml com uma cápsula quebrável.
+ 6.6 Instruções de utilização e manipulação e eliminação
+ Precauções para a preparação e a administração: o Paclitaxel é um medicamento antineoplásico citotóxico; por conseguinte, como qualquer outro composto tóxico o Paxene deve ser manipulado com precaução. Recomenda-se a utilização de luvas, óculos e roupas de protecção. Em caso de contacto da solução de Paxene com a pele, lave imediatamente e cuidadosamente a parte afectada com agua e sabão. Em caso de contacto da solução de Paxene com as mucosas, a zona afectada deve ser abundantemente enxaguada com água. O Paxene deve ser apenas preparado e administrado por pessoal devidamente treinado na manipulação de agentes citotóxicos. Colaboradoras grávidas não devem manusear o Paxene.
+ Preparação para perfusão intravenosa: a solução de Paxene tem de ser diluída antes de ser perfundida. O Paxene deve de ser diluído em solução intravenosa de Cloreto de Sódio a 0,9% p/v, em solução intravenosa de Glucose a 5% ou em solução intravenosa de Glucose a 5% misturada com uma solução intravenosa de Ringer para obter uma concentração final de 0,3 a 1,2 mg/ml. Após a sua diluição, a sua estabilidade química e física normal, nos sacos de perfusão de polipropileno foi
+ 15 demonstrada durante, pelo menos 24 horas a uma temperatura inferior a 25°C.
+ Do ponto de vista microbiológico o produto diluído deve ser utilizado imediatamente. De modo contrário, o tempo de conservação habitual e as condições antes de utilização do produto são responsabilidade do utilizador, não devendo normalmente ultrapassar 24 horas, a uma temperatura entre 2° e 8°C, excepto em caso de diluição sob as condições assépticas exigidas e validadas.
+ Os produtos que necessitam de uma administração parentérica devem de ser examinados visualmente antes de serem administrados, para identificar qualquer problema devido à presença de partículas ou qualquer descoloração. Durante a preparação, a solução pode tornar-se turva, devido ao veículo utilizado na formulação.
+ As soluções de Paxene devem ser preparadas e conservadas em recipientes de vidro, polipropileno ou poliolefina. Os sistemas de administração a usar devem ser livres de PVC, tais como os de polietileno ..
+ O Paxene deve ser administrado através de um filtro em linha constituído por uma membrana micropororosa com poro máximo de 0,22 µm. A utilização de dispositivo de filtragem contendo uma tubulação curta de saída e entrada revestidos de PVC não resultou em significativa absorção de DEHP.
+ Manipulação e utilização: Os procedimentos indicados para a manipulação e eliminação adequadas dos medicamentos citotóxicos devem ser seguidos
+ 7. TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Norton Healthcare Limited Albert Basin, Royal Docks London E16 2Qj Reino Unido
+ 8. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/99/113/001-002 para 30 mg/6 ml e 150 mg/25 ml EU/1/99/113/003-004 para 100 mg/16,7 ml e 300 mg/50 ml
+ 9. DATA DA PRIMEIRA AUTORIZAÇÃO/RENOVAÇÃO DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 19 de Julho de 1999 10. DATA DA REVISÃO DO TEXTO 16 ANEXO II
+ A. TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ B. CONDIÇÕES DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ 17 A TITULAR DA AUTORIZAÇÃO DE FABRICO RESPONSÁVEL PELA LIBERTAÇÃO DO LOTE
+ Nome e endereço do fabricante responsável pela libertação do lote
+ IVAX Pharmaceuticals UK (Runcorn, Cheshire) Aston Lane North Preston Brook Runcorn Cheshire Reino Unido
+ IVAX Pharmaceuticals s. r. o. Ostravská 29/305 747 70 Opava-Komárov Républica Checa
+ O folheto informativo que acompanha o medicamento deve mencionar o nome e endereço do fabricante responsável pela libertação do lote em causa.
+ B. DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ • CONDIÇÕES OU RESTRIÇÕES RELATIVAS AO FORNECIMENTO E UTILIZAÇÃO IMPOSTAS AO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Medicamento de receita médica restrita (ver anexo I: resumo das características do medicamento, 4.2.
+ • OUTRAS CONDIÇÕES
+ O titular desta autorização de introdução no mercado deve informar a Comissão Europeia sobre os planos de comercialização do medicamento autorizado pela presente decisão.
+ RPSs: O Titular da AIM deve continuar a submeter os RPSs com uma frequência anual.
+ 18 ANEXO III
+ ROTULAGEM E FOLHETO INFORMATIVO 19 A. ROTULAGEM
+ 20 INDICAÇÕES A INCLUIR NA EMBALAGEM EXTERIOR OU, CASO ESTA NÃO EXISTA, NO ACONDICIONAMENTO PRIMÁRIO
+ TEXTO DA CAIXA DO PAXENE DE 30 mg/5 ml 1. DENOMINAÇÃO DO MEDICAMENTO Paxene 6 mg/ml de concentrado para solução para perfusão (paclitaxel)
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ Substância activa: paclitaxel 6 mg/ml (30 mg/5 ml)
+ 3. LISTA DOS EXCIPIENTES Contém também: óleo de rícino polioxietilado; ácido cítrico (anidro) e 49,7% (v/v) de etanol
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 6 mg/ml de concentrado para solução para perfusão
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Produto diluído para administração por perfusão intravenosa
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e longe da vista das crianças
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ ADVERTÊNCIA: é necessário diluir o medicamento.
+ 8. PRAZO DE VALIDADE Prazo de Validade: 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Armazenar a menos de 25ºC Conservar na embalagem de origem.
+ 21 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ Eliminar qualquer parte do produto que não seja utilizado, de acordo com a norma vigente sobre os Agentes Citotóxicos.
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Norton Healthcare Limited Albert Basin, Royal Docks Londres E16 2QJ REINO UNIDO
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/99/113/001 13. NÚMERO DO LOTE DE FABRICO Número do Lote: 14. CLASSIFICAÇÃO GERAL RELATIVA AO FORNECIMENTO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO Leia o Folheto Informativo. 22 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ FRASCO DO PAXENE DE 30 mg/5 ml 1. DENOMINAÇÃO DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Paxene 6 mg/ml de concentrado para solução para perfusão.
+ 2. MODO DE ADMINISTRAÇÃO Via intravenosa. Ver as instruções inclusas antes da utilização.
+ 3. PRAZO DE VALIDADE Data de validade: 4. NÚMERO DO LOTE Número do Lote: 5. CONTEÚDO EM TERMOS DE PESO, VOLUME OU UNIDADE
+ 30 mg/5 ml 23 INDICAÇÕES A INCLUIR NA EMBALAGEM EXTERIOR OU, CASO ESTA NÃO EXISTA, NO ACONDICIONAMENTO PRIMÁRIO
+ TEXTO DA CAIXA DO PAXENE DE 150 mg/25 ml 1. DENOMINAÇÃO DO MEDICAMENTO Paxene 6 mg/ml de concentrado para solução para perfusão (Paclitaxel)
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ Substância activa: Paclitaxel 6 mg/ml (150 mg/25 ml)
+ 3. LISTA DOS EXCIPIENTES Contém também: óleo de rícino polioxietilado; ácido cítrico (anidro) e 49,7% (v/v) de etanol
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 6 mg/ml de concentrado para solução para perfusão
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Produto diluído para administração por perfusão intravenosa
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e longe da vista das crianças
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ ADVERTÊNCIA: é necessário diluir o medicamento.
+ 8. PRAZO DE VALIDADE Prazo de Validade: 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Armazenar a menos de 25ºC Conservar na embalagem de origem.
+ 24 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ Eliminar qualquer parte do produto que não seja utilizado, de acordo com a norma vigente sobre os Agentes Citotóxicos.
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Norton Healthcare Limited Albert Basin, Royal Docks Londres E16 2QJ REINO UNIDO
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/99/113/002 13. NÚMERO DO LOTE DE FABRICO Número do Lote: 14. CLASSIFICAÇÃO GERAL RELATIVA AO FORNECIMENTO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO Leia o Folheto Informativo. 25 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ FRASCO DO PAXENE DE 150 mg/25 ml 1. DENOMINAÇÃO DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Paxene 6 mg/ml de concentrado para solução para perfusão.
+ 2. MODO DE ADMINISTRAÇÃO Via intravenosa. Ver as instruções inclusas antes da utilização.
+ 3. PRAZO DE VALIDADE Data de validade: 4. NÚMERO DO LOTE Número do Lote: 5. CONTEÚDO EM TERMOS DE PESO, VOLUME OU UNIDADE
+ 150 mg/25 ml 26 INDICAÇÕES A INCLUIR NA EMBALAGEM EXTERIOR OU, CASO ESTA NÃO EXISTA, NO ACONDICIONAMENTO PRIMÁRIO
+ TEXTO DA CAIXA DO PAXENE DE 100 mg/16,7 ml
+ 1. DENOMINAÇÃO DO MEDICAMENTO Paxene 6 mg/ml de concentrado para solução para perfusão (Paclitaxel)
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ Substância activa: Paclitaxel 6 mg/ml (100 mg/16,7 ml)
+ 3. LISTA DOS EXCIPIENTES Contém também: óleo de rícino polioxietilado; ácido cítrico (anidro) e 49,7% (v/v) de etanol
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 6 mg/ml de concentrado para solução para perfusão
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Produto diluído para administração por perfusão intravenosa
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e longe da vista das crianças
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ ADVERTÊNCIA: é necessário diluir o medicamento.
+ 8. PRAZO DE VALIDADE Prazo de Validade: 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Armazenar a menos de 25ºC Conservar na embalagem de origem.
+ 27 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ Eliminar qualquer parte do produto que não seja utilizado, de acordo com a norma vigente sobre os Agentes Citotóxicos.
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Norton Healthcare Limited Albert Basin, Royal Docks Londres E16 2QJ REINO UNIDO
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/99/113/003 13. NÚMERO DO LOTE DE FABRICO Número do Lote: 14. CLASSIFICAÇÃO GERAL RELATIVA AO FORNECIMENTO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO Leia o Folheto Informativo. 28 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ FRASCO DO PAXENE DE 100 mg/16,7 ml 1. DENOMINAÇÃO DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Paxene 6 mg/ml de concentrado para solução para perfusão.
+ 2. MODO DE ADMINISTRAÇÃO Via intravenosa. Ver as instruções inclusas antes da utilização.
+ 3. PRAZO DE VALIDADE Data de validade: 4. NÚMERO DO LOTE Número do Lote: 5. CONTEÚDO EM TERMOS DE PESO, VOLUME OU UNIDADE
+ 100 mg/16,7 ml 29 INDICAÇÕES A INCLUIR NA EMBALAGEM EXTERIOR OU, CASO ESTA NÃO EXISTA, NO ACONDICIONAMENTO PRIMÁRIO
+ TEXTO DA CAIXA DO PAXENE DE 300 mg/50 ml 1. DENOMINAÇÃO DO MEDICAMENTO Paxene 6 mg/ml de concentrado para solução para perfusão (Paclitaxel)
+ 2. DESCRIÇÃO DO(S) PRINCÍPIO(S) ACTIVO(S)
+ Substância activa: Paclitaxel 6 mg/ml (300 mg/50 ml)
+ 3. LISTA DOS EXCIPIENTES Contém também: óleo de rícino polioxietilado; ácido cítrico (anidro) e 49,7% (v/v) de etanol
+ 4. FORMA FARMACÊUTICA E CONTEÚDO 6 mg/ml de concentrado para solução para perfusão
+ 5. MODO E VIA(S) DE ADMINISTRAÇÃO Produto diluído para administração por perfusão intravenosa
+ 6. ADVERTÊNCIA ESPECIAL DE QUE O MEDICAMENTO DEVE SER MANTIDO FORA DO ALCANCE E DA VISTA DAS CRIANÇAS
+ Manter fora do alcance e longe da vista das crianças
+ 7. OUTRAS ADVERTÊNCIAS ESPECIAIS, SE NECESSÁRIO
+ ADVERTÊNCIA: é necessário diluir o medicamento.
+ 8. PRAZO DE VALIDADE Prazo de Validade: 9. CONDIÇÕES ESPECIAIS DE CONSERVAÇÃO Armazenar a menos de 25ºC Conservar na embalagem de origem.
+ 30 10. CUIDADOS ESPECIAIS QUANTO À ELIMINAÇÃO DO MEDICAMENTO NÃO UTILIZADO OU DOS RESÍDUOS PROVENIENTES DESSE MEDICAMENTO, SE FOR CASO DISSO
+ Eliminar qualquer parte do produto que não seja utilizado, de acordo com a norma vigente sobre os Agentes Citotóxicos.
+ 11. NOME E ENDEREÇO DO TITULAR DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ Norton Healthcare Limited Albert Basin, Royal Docks Londres E16 2QJ REINO UNIDO
+ 12. NÚMERO(S) DA AUTORIZAÇÃO DE INTRODUÇÃO NO MERCADO
+ EU/1/99/113/004 13. NÚMERO DO LOTE DE FABRICO Número do Lote: 14. CLASSIFICAÇÃO GERAL RELATIVA AO FORNECIMENTO
+ Medicamento sujeito a receita médica. 15. INSTRUÇÕES DE UTILIZAÇÃO Leia o Folheto Informativo. 31 INDICAÇÕES MÍNIMAS A INCLUIR EM PEQUENAS UNIDADES DE ACONDICIONAMENTO PRIMÁRIO
+ FRASCO DO PAXENE DE 300 mg/50 ml 1. DENOMINAÇÃO DO MEDICAMENTO E VIA(S) DE ADMINISTRAÇÃO
+ Paxene 6 mg/ml de concentrado para solução para perfusão.
+ 2. MODO DE ADMINISTRAÇÃO Via intravenosa. Ver as instruções inclusas antes da utilização.
+ 3. PRAZO DE VALIDADE Data de validade: 4. NÚMERO DO LOTE Número do Lote: 5. CONTEÚDO EM TERMOS DE PESO, VOLUME OU UNIDADE
+ 300 mg/50 ml 32 B. FOLHETO INFORMATIVO
+ 33 FOLHETO INFORMATIVO
+ Leia atentamente este folheto antes de utilizar o medicamento.
+ -Conserve este folheto de forma segura. Pode ter necessidade de o reler.
+ -Caso tenha dúvidas, consulte o seu médico ou farmacêutico.
+ -Este medicamento foi receitado para si. Não deve dá-lo a outros; o medicamento pode ser-lhes
+ prejudicial mesmo que apresentem os mesmos sintomas.
+ Neste folheto: 1. O que é Paxene e para que é utilizado 2. Antes de utilizar Paxene 3. Como utilizar Paxene 4. Efeitos secundários possíveis 5. Conservação de Paxene 6. Outras informações
+ Paxene 6 mg/ml de concentrado para solução para perfusão (Paclitaxel)
+ Cada ml da solução concentrada contém: • 6 mg de Paclitaxel como substância activa (equivalente a 30 mg/5 ml/; 100 mg/16,7 ml; 150 mg/25 ml ou 300 mg/50 ml) e • óleo de rícino polioxietilado, ácido cítrico (anidro) e etanol desidratado como componentes inactivos.
+ O titular da Autorização da Introdução no Mercado é a Norton Healthcare Limited, Albert Basin, Royal Docks, London E16 2QJ, Reino Unido.
+ O fabricante/libertador é IVAX Pharmaceuticals s. r. o., Opava-Komárov, Républica Checa e a IVAX Pharmaceuticals UK (Runcorn, Cheshire), Runcorn, Cheshire, Reino Unido
+ 1. O QUE É PAXENE E PARA QUE É UTILIZADO
+ A sua solução a diluir para perfusão é designada Paxene. O nome comum da substância activa é Paclitaxel. Ele é parte de um grupo de medicamentos conhecidos como agentes antineoplásicos. Esses agentes são usados no tratamento do carcinoma.
+ O Paxene é uma solução espessa transparente, de aspecto incolor a levemente amarelado, acondicionada em frascos contendo 5 ml, 16,7 ml,25 ml e 50 ml de concentrado.
+ O Paxene é uma solução a diluir para perfusão IV e utiliza-se no tratamento: • do Sarcoma de Kaposi em fase avançada relacionada com SIDA, quando outros tratamentos (lipossomas de antraciclina) foram tentados sem sucesso. Este é um tumor originário dos vasos sanguíneos da pele ou de outros órgãos e aparece na forma de manchas salientes ou lisas de cor roxa a castanho escura sobre a pele. • carcinoma da mama avançado quando determinados tratamentos (terapia padrão contendo antraciclina) foram tentados sem sucesso ou quando o doente for inadequado para estes tratamentos. • carcinoma do ovário avançado ou com tumor remanescente (&gt; 1 cm) após cirurgia inicial, em associação com cisplatina, como tratamento de primeira linha. • carcinoma avançado no ovário quando determinados tratamentos (terapia padrão de combinação contendo platina mas não taxanos) foram tentados sem sucesso (como tratamento de segunda linha). • carcinoma das células não pequenas do pulmão nos doentes que não sejam candidatos a uma intervenção cirúrgica e/ou radioterapia potencialmente curativas. A eficácia desta indicação é suportada por número limitado de dados.
+ 34 2. ANTES DE UTILIZAR PAXENE
+ Não utilize Paxene: • se tem hipersensibilidade (alergia) ao Paclitaxel ou a qualquer outro componente do Paxene; • alguma vez teve problemas com o seu fígado; • se tem sido informada que a sua quantidade de células sanguíneas brancas está muito baixa; • se tiver uma infecção grave e fora do controle • se estiver grávida ou tiver possibilidade de vir a ficar grávida, ou estiver a amamentar.
+ Tome especial cuidado com Paxene • Antes de iniciar o tratamento com Paxene e durante o mesmo, será necessário realizar análises ao sangue regularmente, para verificar se é seguro continuar com o seu tratamento. • Paxene não é recomendado para o uso em crianças (menos de 18 anos). • Comunique o seu médico imediatamente se desenvolver diarreia com hemorragia, grave ou prolongada durante ou após o tratamento com Paxene. Isto pode ser um sinal de uma grave inflamação do intestino (colite pseudomembranosa). • Se sentiu um ritmo cardíaco irregular, tonturas ou cansaço durante o tratamento. • Se efectuou tratamento com radiação (radioterapia) ao peito (ver “ possíveis efeitos indesejáveis ”). • Se está a tomar outros medicamentos que possam interagir com Paclitaxel (ver “ uso de outros medicamentos ”)
+ Gravidez e aleitamento: Comunique o seu médico se estiver grávida, pense na possibilidade de estar grávida ou no fato de estar a amamentar antes de receber o tratamento com Paxene. Paxene não pode ser usado durante a gravidez e mulheres recebendo Paxene não devem amamentar. Precauções adequadas de contracepção devem ser usadas ao receber Paxene.
+ Os doentes do sexo masculinos tratados com Paxene devem ser advertidos de não tentarem procriar durante o tratamento e nos seis meses seguintes ao mesmo.
+ Condução de veículos e utilização de máquinas: O Paxene contém álcool. Talvez não seja seguro conduzir veículos ou usar máquinas durante algumas horas, depois de receber o seu tratamento. Pergunte ao seu médico. No intervalo entre os seus tratamentos com Paxene deverá ter capacidade para conduzir e usar máquinas, a não ser que sinta cansaço ou tontura.
+ Informações importantes sobre alguns ingredientes de Paxene: Este produto contém aproximadamente 50% por volume de etanol. Cada dose contém até 21 g de etanol. Após a perfusão de Paxene a sua capacidade de condução ou operar com maquinaria pode estar afectada.
+ Paxene contém óleo de rícino polioxietilado o qual pode causar uma reacção alérgica.
+ Utilizar Paxene com outros medicamentos: Antes que lhe seja administrada a sua perfusão Paxene, informe o seu médico, se: • estiver a tomar Ritonavir, Nelfinavir, Efavirenz, Nevirapina (para tratamento da SIDA) ou quaisquer outros medicamentos receitados o para o seu estado; • estiver a tomar outros medicamentos receitados pelo médico para todas as afecções (Exemplo: Eritromicina, Fluoxetina, Gemfibrozil, anti-fúngicos derivados do Imidazole, Rifampicina, Carbamazepina, Fenitoína, Fenobarbital);. • estiver a tomar outros medicamentos, que tiver adquirido para si próprio sem receita médica.
+ 35 Se já está a ser medicado com doxorrubicina para o tratamento do carcinoma da mama e o seu médico pretende administrar paclitaxel, entãa a sua primeira dose de paclitaxel deve ser administrada 24 horas após a doxorrubicina.
+ O Paxene pode alterar o efeito de outros medicamentos devido ao seu elevado teor de álcool. Se vier a consultar outro médico ou a tratar-se num hospital, não se esqueça de os informar sobre os medicamentos que está a tomar.
+ 3. COMO UTILIZAR PAXENE A sua solução para perfusão será diluída e depois administrada lentamente numa veia durante cerca de três horas, excepto outra decisão. As quantidades (doses) de Paxene que lhe forem administradas serão calculadas com base na área da superfície do seu corpo em metros quadrados (m2), tendo em conta também os resultados das suas análises ao sangue e a sua condição física. Se necessário, o seu médico ajustará a posologia durante o tratamento.
+ Sarcoma de Kaposi associado à SIDA: A dose normal de Paxene é de 100 mg/m2 de área de superfície corporal. O Paxene vai ser-lhe administrado em intervalos de duas semanas, enquanto os resultados das suas análises ao sangue demonstrarem que é seguro prosseguir com seu tratamento.
+ Carcinoma avançado da mama e do ovário (tratamento de segunda linha): A dose normal de Paxene é de 175 mg/m2 de área de superfície corporal. O Paxene vai ser-lhe administrado em intervalos de três semanas, enquanto os resultados das suas análises ao sangue demonstrarem que é seguro prosseguir com seu tratamento.
+ Carcinoma avançado do ovário (tratamento de primeira linha): Podem ser administradas duas doses de Paxene: Paxene 175 mg/m2 de área de superfície corporal durante 3 horas, seguido de outro medicamento, a cisplatina, cada 3 semanas; alternativamente, Paxene 135 mg/m2 de área de superfície corporal durante 24 horas, seguido de outro medicamento, a cisplatina, cada 3 semanas. A continuação do tratamento dependerá dos resultados das suas análises sanguíneas, que demonstrarão se é seguro continuar o tratamento.
+ Carcinoma das Células não pequenas do pulmão: A dose habitual de Paxene é de 175 mg/m2 de área de superfície corporal durante 3 horas, seguido de outro medicamento, a cisplatina, cada 3 semanas. A continuação do tratamento dependerá dos resultados das suas análises sanguíneas, que demonstrarão se é seguro continuar o tratamento.
+ Para ajudar a evitar a ocorrência de reacções alérgicas enquanto estiver a receber a sua perfusão, ser-lhe-ão administrados medicamentos antes de começar o tratamento. Doze horas e seis horas antes da sua perfusão, receberá Dexametasona (um esteróide) sob forma de comprimido para engolir, ou então sob forma de injecção. Entre meia hora e uma hora antes da sua perfusão, receberá dois tipos diferentes de injecção (uma de anti-histamínicos e outra de antagonistas H2).
+ A perfusão só lhe será administrada sob supervisão médica, e durante esta administração será examinado regularmente para controlar a sua reacção ao tratamento. Se tiver antecedentes de problemas cardíacos, a sua frequência cardíaca poderá ser monitorizada. Se ocorrerem quaisquer problemas enquanto recebe a perfusão, a equipa médica estará a postos para tomar qualquer medida necessária.
+ 4. EFEITOS SECUNDÁRIOS POSSÍVEIS A maioria dos efeitos adversos poderá ocorrer durante a injecção de Paxene ou após o tratamento. Durante o tratamento, informe a equipa médica se se sentir mal. Se vier a sentir mal-estar no intervalo
+ 36 entre as administrações das perfusões ou após o final do tratamento, consulte o seu médico ou o seu farmacêutico o mais rápido possível.
+ Os possíveis efeitos indesejáveis podem incluir:
+ • Reacção alérgica-este produto contém óleo de rícino polioxietileno-poderá sentir falta de ar ou dificuldade em respirar, dores no peito, rubores (rubor na cara e no pescoço) e palpitações cardíacas, a sua tensão arterial poderá baixar, causando uma sensação de tontura e provocando transpiração. Pode apresentar erupções cutâneas (bolhas na sua pele) ou bolhas nos lábios e língua. Se algum destes sintomas se manifestar, consulte imediatamente o seu médico. • Alterações sanguíneas-temporariamente a redução dos seus glóbulos brancos pode torná-lo mais atreito a infecções. Temporariamente, o seu sangue poderá conter menor quantidade de plaquetas e isto poderá causar perdas de sangue anormais (por exemplo, pelo nariz) ou manchas roxas inexplicáveis. Pode ocorrer também temporariamente, uma diminuição de glóbulos sanguíneos vermelhos (anemia). Também poderá sentir cansaço e palidez no rosto. Muito raramente, estas alterações sanguíneas podem ser permanentes. A leucemia (aumento anormal do número de glóbulos brancos) pode ocorrer muito raramente. • Problemas cardíacos-alterações na frequência cardíaca normal e descida ou subida de tensão arterial (vertigens, fraqueza e transpiração excessiva), pode ocorrer trombose (coágulos sanguíneos). Muito raramente poderá ocorrer uma falha cardíaca (a qual pode causar dificuldade em respirar), cardiomiopatia (enfraquecimento do músculo cardíaco, o qual pode causar dificuldade a respirar ou dor no peito) ou um ataque cardíaco. Caso sinta qualquer palpitação, dificuldade respiratória ou dor no peito, contacte o seu médico imediatamente. • Distúrbios gastrointestinais-tais como náuseas, vómitos, dores abdominais, obstipação, diarreia, indigestão (dispepsia), mudança de cor das fezes (melena), secura na boca, inflamação bocal ou da língua, perda de apetite (anorexia). Muito raramente, podem ocorrer: bloqueio intestinal (oclusão intestinal), perfuração ou inflamação intestinal (habitualmente, causam dor abdominal), e dilatação abdominal (ascite). Pode ocorrer raramente diarreia grave, persistente ou hemorrágica, associada com dores abdominais ou febre que podem ser um sinal de inflamação grave do intestino (colite pseudomembranosa) ou raramente pode ocorrer diarreia sanguinolenta e muito líquida. • Distúrbios respiratórios-pode ocorrer falta de ar (dispneia), hemorragia do nariz (epistaxe), cicatrização pulmonar e fluído à volta dos pulmões (efusão pleural). Muito raramente pode haver inflamação dos pulmões (pneumonite) em doentes a receberem radioterapia e/ou gemcitabina (outro medicamento para o cancro), tosse e pneumonia e estreitamento dos vasos sanguíneos nos pulmões o que pode causar dificuldades respiratórias (hipertensão pulmonar). • Doenças metabólicas e nutricionais: pode haver perda excessiva de água (desidratação), ganho ou perda de peso. Pode haver muito raramente, durante o tratamento de associação com um derivado de platina, níveis anormais de electrólitos (ex. redução de sódio ou magnésio sanguíneo) e níveis elevados de açúcar no sangue. • Distúrbios oculares e auditivos-secura nos olhos, diminuição da visão (ambliopia) e zunido nos ouvidos (tinido), perda de audição e vertigens. Muito raramente podem ocorrer outras alterações visuais nos doentes que receberam doses superiores às recomendadas. • Distúrbios musculares e das articulações-dores ósseas, musculares e nas articulações, cãibras nas pernas e fraqueza anormal de certos músculos (miastenia). • Distúrbios do sistema nervoso-entorpecimento e formigueiro da sua pele (que se resolveu em cerca de 40 a 60% dos doentes), sonolência, tonturas, nervosismo, depressão, raciocínio anormal, insónia, mobilidade reduzida (hipocinese), percepção sensorial reduzida (hipestesia), anormalidade no modo de andar, paladar alterado e dor de cabeça. Raramente ou muito raramente, pode ocorrer uma ligeira fraqueza dos braços ou pernas, e paralisia intestinal, e episódios epilépticos .. • Afecções da pele, tais como pele seca, erupção cutânea, comichão (prurido), rubor anormal, escascamento da pele, espessamento da pele (dermatite esfoliativa), acne, queda capilar, mudança da cor e descolamento da placa ungueal do leito ungueal (onicólise). Portanto, evite expor suas mãos ou pés excessivamente à luz do sol durante a terapia. Muito raramente podem ocorrer erupções cutâneas, manchas vermelhas simétricas nas pernas (eritema multiforme),
+ 37 escamação da pele e febre (necrólise epidérmica tóxica) ou bolhas ulcerativas na pele, boca e área genital e febre (síndroma de Stevens-Johnson). • Distúrbios renais e do fígado-aumento da bilirrubina (icterícia) e dos enzimas hepáticos tais como fosfatase alcalina e AST (SGOT), micção com dificuldade e dolorosa (disúria). Muito raramente, pode haver insuficiência hepática e falha hepática. • Infecções-pode sofrer calafrios, febre, gripe, infecções virais, tais como herpes simples, inflamação da garganta (faringite), inflamação da membrana mucosa do nariz (rinite) e infecção fúngica na boca (candidiase oral). • Outros distúrbios-inchaço devido à acumulação de líquidos nos tecidos corporais (edema), sentir-se e estar doente, debilidade (astenia), dor (especialmente nas costas e no peito). • Irritação ao redor do local da injecção-inchaço, vermelhidão, dor e descoloração da pele.
+ Se sentir qualquer outro sintoma, consulte o seu médico ou informe-se com o seu farmacêutico o mais rapidamente possível.
+ 5. CONSERVAÇÃO DE PAXENE A sua solução Paxene será mantida na farmácia, onde será preparada, ficando pronta para ser administrada pelo médico ou enfermeira. Manter fora do alcance e longe da vista das crianças.
+ A solução a diluir para perfusão deve ser conservada a menos de 25°C na embalagem exterior.
+ A solução a diluir para perfusão não deve ser utilizada depois do prazo de validade indicado na caixa.
+ 38 6. OUTRAS INFORMAÇÕES
+ Para quaisquer informações sobre este medicamento, queira contactar o representante local do titular da autorização de introdução no mercado.
+ Luxembourg/Luxemburg België/Belgique/Belgien S. A. Mayne Pharma (Benelux) N. V. S. A. Mayne Pharma (Benelux) N. V. Tel:+ 32 2 332 0315 Tel:+ 32 2 332 0315
+ Česká republika IVAX Pharmaceuticals s. r. o Tel: +420 553 641 111
+ Magyarország IVAX Drug Research Institute Ltd Tel.: +36 1399 3343
+ Danmark Malta IVAX Scandinavia AB Tel: +46 850666300
+ Norton Healthcare Ltd t/a IVAX Pharmaceuticals UK Tel.: +44 8705 02 03 04
+ Nederland Deutschland S. A. Mayne Pharma (Benelux) N. V. Mayne Pharma (Deutschland) GmbH Tel:+ 32 2 332 0315 D-85540 Haar Tel: +49 89 43 77 770
+ Norge Eesti Mayne Pharma (Nordic) AB, Sverige IVAX Pharmaceuticals s. r. o Tel:+ 46 8 672 85 00 Tel: +420 553 641 111
+ Österreich Ελλάδα Norton Healthcare Ltd t/a IVAX Pharmaceuticals Norton Healthcare Ltd t/a IVAX Pharmaceuticals UK UK Tel.: +44 8705 02 03 04 Тηλ.: +44 8705 02 03 04
+ España Combino Pharm, S. L. Tel.: +34 93 480 88 33
+ Polska IVAX Pharma Poland Sp. z. o. o. Tel: +48 22 742 04 25
+ France Mayne Pharma (France) SAS Tel:+ 33 1 41 11 28 50
+ Portugal Mayne Pharma (Portugal) L. da Tel:+ 351 21 485 7430
+ Slovenija Ireland Medis, d. o. o. Mayne Pharma Plc Tel:+ 386 1 589 6900 Tel:+ 44 1926 821 010
+ Ísland Norton Healthcare Ltd t/a IVAX Pharmaceuticals UK Tel.: +44 8705 02 03 04
+ Slovenská republika IVAX Pharmaceuticals s. r. o Tel: +420 553 641 111
+ Italia Mayne Pharma (Italia) s. r. l. Tel: +39 0 81 24 05 911
+ Suomi/Finland Mayne Pharma (Nordic) AB, Ruotsi/Sverige Tel:+ 46 8 672 85 00
+ Κύπρος Norton Healthcare Ltd t/a IVAX Pharamceuticals UK
+ Sverige Mayne Pharma (Nordic) AB, Sverige Tel:+ 46 8 672 85 00
+ Тηλ.: +44 8705 02 03 04 39 United Kingdom Latvija Mayne Pharma Plc IVAX Pharmaceuticals s. r. o Tel:+ 44 1926 821 010 Tel: +420 553 641 111
+ Lietuva IVAX Pharmaceuticals s. r. o Tel: +370 525 26490
+ Este folheto foi preparado pela última vez em ---------------------------------------------------------------------------------------------------------------------------
+ A informação que se segue destina-se apenas aos médicos e aos profissionais dos cuidados de saúde:
+ Guia para a preparação do Paxene concentrado para solução para perfusão
+ Recomendações para a manipulação O Paxene é um agente antineoplásico. Como ocorre com outros compostos potencialmente tóxicos, deve-se ter cuidado ao manipulá-lo. Recomenda-se o uso de luvas. Se a solução de Paxene entrar em contacto com a pele, deve-se lavar a pele imediatamente e minuciosamente com água e sabão. Se Paxene entrar em contacto com membranas mucosas, as membranas devem ser minuciosamente enxaguadas com água. O Paxene deve ser apenas preparado e administrado por pessoal devidamente treinado na manipulação de agentes citotóxicos. Colaboradoras grávidas não devem manusear Paxene.
+ Preparação para a solução para perfusão O Paxene tem de ser diluído sob condições assépticas antes da perfusão. O Paxene deve ser diluído em Solução de Cloreto de Sódio a 0,9% p/v, Solução (para perfusão intravenosa) de Glucose a 5% ou Glucose a 5% em Solução de Ringer (para perfusão intravenosa), até uma concentração final de 0,3 a 1,2 mg/ml.
+ Após a sua diluição, a sua estabilidade química na polipropileno dissolvido de sacos e física habitual foi demonstrada durante, pelo menos 24 horas, a uma temperatura inferior de 25ºC.
+ Do ponto de vista microbiológico o produto diluído deve ser utilizado imediatamente. De modo contrário, o tempo de conservação habitual e as condições antes de começar a utilizar o produto são a responsabilidade do utilizador, não devendo normalmente ultrapassar 24 horas, a uma temperatura entre 2° e 8°C, excepto em caso de diluição sob as condições assépticas validadas.
+ A estabilidade química, física e microbiológica do produto não diluído remanescente, existente no frasco para injectáveis, demonstrou manter-se até 28 dias, quando conservado abaixo de 25ºC. Quaisquer outras condições e tempos de conservação são da responsabilidade do utilizador.
+ Seria conveniente que os medicamentos para administração por via parentérica fossem inspeccionados visualmente para verificar a existência de partículas e alterações de cor antes da administração. Na preparação, as soluções podem apresentar-se turvas, o que é atribuído ao veículo da formulação.
+ Os níveis do plastificante extraível DEHP[ di-(2-etilhexil) fatalato] aumentam com o tempo e a concentração quando as diluições são preparadas em recipientes de PVC. Em consequência disto, não é recomendada a utilização de recipientes e conjuntos para administração feitos de PVC plastificado.
+ 40 As soluções de Paxene devem ser preparadas e conservadas em recipientes de vidro, polipropileno ou poliolefina. Devem ser utilizados dispositivos para administração que não contenham PVC, tais como os revestidos de polietileno.
+ O Paxene deve ser administrado através de um filtro em linha provido de uma membrana micro porosa com poro inferior a 0,22 µm. A utilização de dispositivos de filtragem contendo uma tubulação curta de entrada e saída revestida de PVC não resultou em significativa absorção do DEHP.
+ Manipulação e eliminação Os procedimentos indicados para a manipulação e eliminação adequadas dos medicamentos citotóxicos devem ser seguidos.
+ 41
