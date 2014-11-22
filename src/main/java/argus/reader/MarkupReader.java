@@ -44,6 +44,6 @@ public class MarkupReader implements Reader {
 
     @Override
     public ImmutableSet<String> getSupportedExtensions() {
-        return ImmutableSet.of("html", "htm", "dhtml", "xhtml", "xml", "xsl", "xss", "atom", "rss", "asp", "aspx", "mspx", "jsp", "jspx", "php", "phtml", "rhtml");
+        return ImmutableSet.of("html", "htm", "dhtml", "xhtml", "xml", "xsl", "xss", "atom", "rss", "asp", "aspx", "mspx", "jsp", "jspx", "php", "phtml", "rhtml", "dochtml", "oth");
     }
 }
