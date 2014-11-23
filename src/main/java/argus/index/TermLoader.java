@@ -1,8 +1,8 @@
 package argus.index;
 
-import com.google.common.cache.CacheLoader;
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.io.LineIterator;
+import org.cache2k.CacheSource;
 
 import javax.annotation.ParametersAreNonnullByDefault;
 import java.io.*;
@@ -16,7 +16,7 @@ import java.util.Set;
  * @author Eduardo Duarte (<a href="mailto:eduardo.miguel.duarte@gmail.com">eduardo.miguel.duarte@gmail.com</a>)
  * @version 1.0
  */
-public final class TermLoader extends CacheLoader<String, Term> {
+public final class TermLoader implements CacheSource<String, Term> {
 
     private File parentIndexFolder;
 
@@ -24,9 +24,9 @@ public final class TermLoader extends CacheLoader<String, Term> {
         this.parentIndexFolder = parentIndexFolder;
     }
 
+
     @Override
-    @ParametersAreNonnullByDefault
-    public Term load(String tokenText) throws Exception {
+    public Term get(String tokenText) throws Throwable {
         if (tokenText.isEmpty()) {
             return null;
         }
@@ -56,6 +56,7 @@ public final class TermLoader extends CacheLoader<String, Term> {
         // tokens with the specified text in the index
         return null;
     }
+
 
     @ParametersAreNonnullByDefault
     public void write(Character c, Set<Term> termsToWrite) {

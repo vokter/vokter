@@ -6,8 +6,8 @@ import it.unimi.dsi.lang.MutableString;
 import java.io.Serializable;
 
 /**
- * Simple structure that holds a document path and content and associates it with
- * an id.
+ * Simple structure that holds a document current snapshot and associates
+ * it with an url.
  * <p/>
  * The id is obtained by using a synchronized counter, which in turn will ensure
  * that different Document objects being created in concurrency will always have
@@ -22,32 +22,32 @@ public final class Document implements Serializable {
 
     private final long id;
 
-    private final String path;
+    private final String url;
 
-    private final MutableString content;
+    private final MutableString contentSnapshot;
 
 
-    public Document(String path, MutableString content) {
+
+    public Document(String url, MutableString contentSnapshot) {
         this.id = counter.getAndIncrement();
-        this.path = path;
-        this.content = content;
+        this.url = url;
+        this.contentSnapshot = contentSnapshot;
     }
 
 
-    public String getPath() {
-        return path;
+    public String getUrl() {
+        return url;
     }
 
 
-    public MutableString getContent() {
-        return content;
+    public MutableString getContentSnapshot() {
+        return contentSnapshot;
     }
 
 
     public long getId() {
         return id;
     }
-
 
     @Override
     public boolean equals(Object o) {
@@ -56,7 +56,7 @@ public final class Document implements Serializable {
         if (!super.equals(o)) return false;
 
         Document document = (Document) o;
-        return id == document.id;
+        return url.equalsIgnoreCase(document.url);
     }
 
 
@@ -68,7 +68,7 @@ public final class Document implements Serializable {
 
     @Override
     public String toString() {
-        return path;
+        return url;
     }
 }
 

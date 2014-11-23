@@ -307,7 +307,7 @@ public final class Term {
      */
     public String getSummaryForDocument(Document d, int numSnippets) {
         long documentId = d.getId();
-        MutableString contents = d.getContent();
+        MutableString contents = d.getContentSnapshot();
 
         StringBuilder sb = new StringBuilder();
         int count = 0;

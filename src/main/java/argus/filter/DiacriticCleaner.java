@@ -3,15 +3,15 @@ package argus.filter;
 import it.unimi.dsi.lang.MutableString;
 
 /**
- * Filter class that converts diacritic words into their non-diacritic form.
+ * Cleaner class that converts diacritic words into their non-diacritic form.
  *
  * @author Eduardo Duarte (<a href="mailto:eduardo.miguel.duarte@gmail.com">eduardo.miguel.duarte@gmail.com</a>)
  * @version 1.0
  */
-public class DiacriticFilter implements Filter {
+public class DiacriticCleaner implements Cleaner {
 
     /**
-     * The characters to evaluate and filter from the provided document text.
+     * The characters to evaluate and clean from the provided document text.
      */
     private static final char[] DIACRITICS = {
             'á', 'à', 'â', 'ã',
@@ -28,7 +28,7 @@ public class DiacriticFilter implements Filter {
             'u', 'u', 'u'};
 
     @Override
-    public void filter(MutableString documentContents) {
+    public void clean(MutableString documentContents) {
         documentContents.replace(DIACRITICS, REPLACEMENTS);
     }
 }

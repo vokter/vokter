@@ -4,18 +4,16 @@ import argus.reader.Reader;
 import argus.stemmer.Stemmer;
 import argus.util.ReaderScanner;
 import com.google.common.base.Stopwatch;
-import com.google.common.cache.CacheBuilder;
-import com.google.common.cache.LoadingCache;
 import gnu.trove.TCollections;
-import gnu.trove.map.TIntObjectMap;
 import gnu.trove.map.TLongObjectMap;
-import gnu.trove.map.hash.TIntObjectHashMap;
 import gnu.trove.map.hash.TLongObjectHashMap;
 import it.unimi.dsi.lang.MutableString;
 import org.apache.commons.io.FileDeleteStrategy;
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.io.FilenameUtils;
 import org.apache.commons.lang3.tuple.Pair;
+import org.cache2k.Cache;
+import org.cache2k.CacheBuilder;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -391,12 +389,13 @@ public final class CollectionBuilder {
         // NOTE: Only 10 cached terms are allowed, reducing heap memory size
         //       consumption when the index has more than 10 frequent terms on
         //       every query.
-        LoadingCache<String, Term> termsCache = CacheBuilder
-                .newBuilder()
-                .expireAfterAccess(20, TimeUnit.SECONDS)
-                .maximumSize(10)
-                .build(termLoader);
-        termsCache.invalidateAll();
+        Cache<String, Term> termsCache = CacheBuilder
+                .newCache(String.class, Term.class)
+                .expiryDuration(20, TimeUnit.SECONDS)
+                .maxSize(10)
+                .source(termLoader)
+                .build();
+        termsCache.clear();
 
 
         // step 12) command the current VM to delete the documents folder once the
@@ -413,16 +412,18 @@ public final class CollectionBuilder {
 
         // step 13) create local files (by document id) that contain the
         //          serialized documents
-        DocumentLoader documentLoader = new DocumentLoader(parentDocumentsFolder);
+        DocumentLoader documentLoader = new DocumentLoader();
         documents.valueCollection().stream().forEach(documentLoader::write);
 
 
         // step 14) create a cache loader for the documents local files created above
-        LoadingCache<Long, Document> documentsCache = CacheBuilder
-                .newBuilder()
-                .expireAfterAccess(20, TimeUnit.SECONDS)
-                .build(documentLoader);
-        documentsCache.invalidateAll();
+        Cache<Long, Document> documentsCache = CacheBuilder
+                .newCache(Long.class, Document.class)
+                .expiryDuration(20, TimeUnit.SECONDS)
+                .maxSize(600)
+                .source(documentLoader)
+                .build();
+        documentsCache.clear();
 
 
         // step 15) instantiate the Collection object, which represents the core

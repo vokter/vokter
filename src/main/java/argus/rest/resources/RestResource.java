@@ -77,7 +77,7 @@ public class RestResource {
                     sb.append("<h4>");
                     sb.append(count++);
                     sb.append(". ");
-                    sb.append(d.getPath());
+                    sb.append(d.getUrl());
                     sb.append("</h4>");
                     for (Term t : matchedTerms.get(d)) {
                         sb.append("<p>");

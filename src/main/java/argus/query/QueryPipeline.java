@@ -1,9 +1,9 @@
 package argus.query;
 
-import argus.filter.AndFilter;
-import argus.filter.DiacriticFilter;
-import argus.filter.Filter;
-import argus.filter.SpecialCharsFilter;
+import argus.filter.AndCleaner;
+import argus.filter.Cleaner;
+import argus.filter.DiacriticCleaner;
+import argus.filter.SpecialCharsCleaner;
 import argus.stemmer.Stemmer;
 import argus.tokenizer.Tokenizer;
 import it.unimi.dsi.lang.MutableString;
@@ -50,7 +50,7 @@ public class QueryPipeline implements Runnable {
         try {
             boolean isStopwordEnabled = stopwords != null;
 
-            Filter filter = AndFilter.of(new SpecialCharsFilter(), new DiacriticFilter());
+            Cleaner cleaner = AndCleaner.of(new SpecialCharsCleaner(), new DiacriticCleaner());
 
             Tokenizer tokenizer = new Tokenizer();
 
@@ -68,7 +68,7 @@ public class QueryPipeline implements Runnable {
             }
 
             // filters irrelevant characters from the search
-            filter.filter(queryInput);
+            cleaner.clean(queryInput);
 
 
             // tokenizes the input text
@@ -84,7 +84,7 @@ public class QueryPipeline implements Runnable {
 
             // unloads / garbage collects retained file streams
             queryInput.delete(0, queryInput.length());
-            filter = null;
+            cleaner = null;
             tokenizer = null;
 
         } catch (ReflectiveOperationException ex) {
