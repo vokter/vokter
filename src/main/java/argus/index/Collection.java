@@ -2,30 +2,25 @@ package argus.index;
 
 import argus.query.Query;
 import argus.query.QueryResult;
-import argus.query.Search;
+import argus.query.vectormodel.AxeCluster;
 import argus.query.vectormodel.DocumentVector;
 import argus.query.vectormodel.MergedAxe;
-import argus.query.vectormodel.MergedAxeGroup;
 import argus.query.vectormodel.QueryVector;
 import com.google.common.base.Stopwatch;
-import com.google.common.cache.CacheLoader;
-import com.google.common.cache.LoadingCache;
 import com.google.common.collect.LinkedHashMultimap;
 import it.unimi.dsi.lang.MutableString;
 import org.apache.commons.lang3.tuple.Pair;
+import org.cache2k.Cache;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
-import java.util.concurrent.ExecutionException;
-import java.util.function.Consumer;
 import java.util.stream.Stream;
 
 import static argus.util.Util.difference;
 import static java.util.stream.Collectors.*;
-import static java.util.stream.Collectors.toList;
 
 /**
  * A DocumentCollection represents the widest information unit, and has direct
@@ -44,7 +39,7 @@ public final class Collection {
     /**
      * Local and cached map of document IDs (integers) to document objects.
      */
-    private final LoadingCache<Long, Document> documents;
+    private final Cache<Long, Document> documents;
 
 
     /**
@@ -52,7 +47,7 @@ public final class Collection {
      * local index files when requested for retrieval, and stores these in cache
      * for 20 seconds (counting from its last usage).
      */
-    private final LoadingCache<String, Term> index;
+    private final Cache<String, Term> index;
 
     /**
      * The total number of documents in the collection.
@@ -60,8 +55,8 @@ public final class Collection {
     private final int N;
 
 
-    Collection(final LoadingCache<Long, Document> documents,
-               final LoadingCache<String, Term> index,
+    Collection(final Cache<Long, Document> documents,
+               final Cache<String, Term> index,
                final int N) {
         this.documents = documents;
         this.index = index;
@@ -75,7 +70,7 @@ public final class Collection {
      * local index file again.
      */
     public void clearTokensCache() {
-        index.invalidateAll();
+        index.clear();
     }
 
 
@@ -102,15 +97,15 @@ public final class Collection {
      * from its local file / cache.
      */
     public Document getDocumentForId(Long documentId) {
-        try {
+//        try {
             // the 'get' method will look for any document in the local files or
             // temporary cache that is equal to the specified id
             return documents.get(documentId);
-        } catch (ExecutionException | CacheLoader.InvalidCacheLoadException ex) {
-            // if this exception occurs, then no occurrences of the specified
-            // document were found in this collection
-            return null;
-        }
+//        } catch (ExecutionException | CacheLoader.InvalidCacheLoadException ex) {
+//            // if this exception occurs, then no occurrences of the specified
+//            // document were found in this collection
+//            return null;
+//        }
     }
 
 
@@ -119,16 +114,16 @@ public final class Collection {
      * local file / cache.
      */
     public Term getTermForText(MutableString text) {
-        try {
+//        try {
             // the 'get' method will look for any term in the local files or
             // temporary cache that is equal to the specified text, which, at this
             // point, should already be stopped and stemmed (if enabled)
             return index.get(text.toString());
-        } catch (ExecutionException | CacheLoader.InvalidCacheLoadException ex) {
-            // if this exception occurs, then no occurrences of the specified term
-            // were found in this collection
-            return null;
-        }
+//        } catch (ExecutionException | CacheLoader.InvalidCacheLoadException ex) {
+//            // if this exception occurs, then no occurrences of the specified term
+//            // were found in this collection
+//            return null;
+//        }
     }
 
 
@@ -214,12 +209,12 @@ public final class Collection {
 
         // for each document d, calculates the ∑ score(d) and sorts the documents by
         // this value
-        List<MergedAxeGroup> sortedDocuments = groupedAxes.entrySet()
+        List<AxeCluster> sortedDocuments = groupedAxes.entrySet()
                 .stream()
                 .map(mergedAxeEntry ->
                         // groups the merged axes by document, calculating a score
                         // sum for each document
-                        MergedAxeGroup.group(
+                        AxeCluster.group(
                                 mergedAxeEntry.getKey(),
                                 mergedAxeEntry.getValue()
                         ))
@@ -236,7 +231,7 @@ public final class Collection {
         int slop = query.getSlop();
 
         documentProximityFilter:
-        for (MergedAxeGroup scoredDoc : sortedDocuments) {
+        for (AxeCluster scoredDoc : sortedDocuments) {
             long docId = scoredDoc.getDocument().getId();
 
             if (slop <= 0 || queryTerms.size() == 1) {

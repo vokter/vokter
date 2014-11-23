@@ -16,7 +16,7 @@ import static java.util.stream.Collectors.toSet;
  * @author Eduardo Duarte (<a href="mailto:eduardo.miguel.duarte@gmail.com">eduardo.miguel.duarte@gmail.com</a>)
  * @version 1.0
  */
-public class MergedAxeGroup {
+public class AxeCluster {
 
 
     private final Document document;
@@ -24,14 +24,14 @@ public class MergedAxeGroup {
     private final double scoreSum;
 
 
-    private MergedAxeGroup(Document document, Set<Term> terms, double scoreSum) {
+    private AxeCluster(Document document, Set<Term> terms, double scoreSum) {
         this.document = document;
         this.terms = terms;
         this.scoreSum = scoreSum;
     }
 
 
-    public static MergedAxeGroup group(Document document, List<MergedAxe> axes) {
+    public static AxeCluster group(Document document, List<MergedAxe> axes) {
 
         double scoreSum = axes.stream()
                 .mapToDouble(MergedAxe::getAxeScore).sum();
@@ -40,7 +40,7 @@ public class MergedAxeGroup {
                 .map(MergedAxe::getTerm)
                 .collect(toSet());
 
-        return new MergedAxeGroup(document, terms, scoreSum);
+        return new AxeCluster(document, terms, scoreSum);
     }
 
 

@@ -1,7 +1,8 @@
 package argus.util;
 
+import argus.Main;
+
 import java.io.File;
-import java.text.DecimalFormat;
 
 /**
  * @author Eduardo Duarte (<a href="mailto:eduardo.miguel.duarte@gmail.com">eduardo.miguel.duarte@gmail.com</a>)
@@ -9,14 +10,17 @@ import java.text.DecimalFormat;
  */
 public class Util {
 
-    public static final String PROJECT_DIRECTORY =
-            System.getProperty("user.dir") + File.separator + "src" + File.separator + "main";
+    public static final String PROJECT_DIRECTORY = System.getProperty("user.dir")
+            + File.separator
+            + "src"
+            + File.separator
+            + "main";
 
-    public static final String INSTALL_DIR = new File(
-            Util.class.getProtectionDomain()
-                    .getCodeSource()
-                    .getLocation()
-                    .getPath())
+    public static final String INSTALL_DIR = new File(Main.class
+            .getProtectionDomain()
+            .getCodeSource()
+            .getLocation()
+            .getPath())
             .getAbsoluteFile()
             .getParentFile()
             .getAbsolutePath()

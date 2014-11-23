@@ -299,5 +299,23 @@
             <version>2.2.2</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.cache2k</groupId>
+            <artifactId>cache2k-api</artifactId>
+            <version>0.20</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.cache2k</groupId>
+            <artifactId>cache2k-core</artifactId>
+            <version>0.20</version>
+        </dependency>
+
+        <dependency>
+        <groupId>org.mapdb</groupId>
+        <artifactId>mapdb</artifactId>
+        <version>1.0.6</version>
+    </dependency>
+
     </dependencies>
 </project>

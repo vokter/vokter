@@ -1,13 +1,12 @@
 package argus.index;
 
-import argus.filter.AndFilter;
-import argus.filter.DiacriticFilter;
-import argus.filter.Filter;
-import argus.filter.SpecialCharsFilter;
+import argus.filter.AndCleaner;
+import argus.filter.Cleaner;
+import argus.filter.DiacriticCleaner;
+import argus.filter.SpecialCharsCleaner;
 import argus.reader.Reader;
 import argus.stemmer.Stemmer;
 import argus.tokenizer.Tokenizer;
-import gnu.trove.map.TIntObjectMap;
 import gnu.trove.map.TLongObjectMap;
 import it.unimi.dsi.lang.MutableString;
 import org.slf4j.Logger;
@@ -68,7 +67,7 @@ public class DocumentPipeline implements Runnable {
 
             boolean isStopwordEnabled = stopwords != null;
 
-            Filter filter = AndFilter.of(new SpecialCharsFilter(), new DiacriticFilter());
+            Cleaner cleaner = AndCleaner.of(new SpecialCharsCleaner(), new DiacriticCleaner());
 
             Tokenizer tokenizer = new Tokenizer();
 
@@ -107,8 +106,8 @@ public class DocumentPipeline implements Runnable {
             documents.put(docId, document);
 
             // filters the contents by cleaning characters of whole strings
-            // according to each filter's implementation
-            filter.filter(content);
+            // according to each clean's implementation
+            cleaner.clean(content);
 
             // detects tokens from documents and loads them into memory (saving
             // them in Token objects)
@@ -137,7 +136,7 @@ public class DocumentPipeline implements Runnable {
             content.delete(0, content.length());
             content = null;
             reader = null;
-            filter = null;
+            cleaner = null;
             tokenizer = null;
 
         } catch (IOException | ReflectiveOperationException ex) {

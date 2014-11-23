@@ -1,5 +1,6 @@
 package argus;
 
+import static java.util.stream.Collectors.*;
 import static java.util.stream.Collectors.toList;
 
 import argus.evaluation.EvaluationParam;
@@ -87,10 +88,10 @@ public class EMEAPlainEvaluation {
             List<String> retrieved = result.getMatchedTerms()
                     .keySet()
                     .stream()
-                    .map(Document::getPath)
+                    .map(Document::getUrl)
                     .limit(500) // return only the first 500 documents, as requested
                     .collect(toList());
-            List<String> relevant = ev.getExpectedDocuments().stream().limit(500).collect(Collectors.toList());
+            List<String> relevant = ev.getExpectedDocuments().stream().limit(500).collect(toList());
 
             long tp = retrieved.stream().filter(relevant::contains).count();
             long fp = retrieved.stream().filter(d -> !relevant.contains(d)).count();
