@@ -9,11 +9,11 @@ public class Among {
     public final int substring_i; /* index to longest matching substring */
     public final int result; /* result of the lookup */
     public final Method method; /* method to use if substring matches */
-    public final SnowballProgram methodobject; /* object to invoke method on */
+    public final AbstractSnowballStemmer methodobject; /* object to invoke method on */
 
 
     public Among(String s, int substring_i, int result,
-                 String methodname, SnowballProgram methodobject) {
+                 String methodname, AbstractSnowballStemmer methodobject) {
 
         this.s_size = s.length();
         this.s = s.toCharArray();

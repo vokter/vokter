@@ -1,0 +1,236 @@
+
+ | http://snowball.tartarus.org/algorithms/russian/stop.txt
+
+ | a russian stop word list. comments begin with vertical bar. each stop
+ | word is at the start of a line.
+
+ | this is a ranked list (commonest to rarest) of stopwords derived from
+ | a large text sample.
+
+ | letter `£' is translated to `Å'.
+
+É              | and
+×              | in/into
+×Ï             | alternative form
+ÎÅ             | not
+ÞÔÏ            | what/that
+ÏÎ             | he
+ÎÁ             | on/onto
+Ñ              | i
+Ó              | from
+ÓÏ             | alternative form
+ËÁË            | how
+Á              | milder form of `no' (but)
+ÔÏ             | conjunction and form of `that'
+×ÓÅ            | all
+ÏÎÁ            | she
+ÔÁË            | so, thus
+ÅÇÏ            | him
+ÎÏ             | but
+ÄÁ             | yes/and
+ÔÙ             | thou
+Ë              | towards, by
+Õ              | around, chez
+ÖÅ             | intensifier particle
+×Ù             | you
+ÚÁ             | beyond, behind
+ÂÙ             | conditional/subj. particle
+ÐÏ             | up to, along
+ÔÏÌØËÏ         | only
+ÅÅ             | her
+ÍÎÅ            | to me
+ÂÙÌÏ           | it was
+×ÏÔ            | here is/are, particle
+ÏÔ             | away from
+ÍÅÎÑ           | me
+ÅÝÅ            | still, yet, more
+ÎÅÔ            | no, there isnt/arent
+Ï              | about
+ÉÚ             | out of
+ÅÍÕ            | to him
+ÔÅÐÅÒØ         | now
+ËÏÇÄÁ          | when
+ÄÁÖÅ           | even
+ÎÕ             | so, well
+×ÄÒÕÇ          | suddenly
+ÌÉ             | interrogative particle
+ÅÓÌÉ           | if
+ÕÖÅ            | already, but homonym of `narrower'
+ÉÌÉ            | or
+ÎÉ             | neither
+ÂÙÔØ           | to be
+ÂÙÌ            | he was
+ÎÅÇÏ           | prepositional form of ÅÇÏ
+ÄÏ             | up to
+×ÁÓ            | you accusative
+ÎÉÂÕÄØ         | indef. suffix preceded by hyphen
+ÏÐÑÔØ          | again
+ÕÖ             | already, but homonym of `adder'
+×ÁÍ            | to you
+ÓËÁÚÁÌ         | he said
+×ÅÄØ           | particle `after all'
+ÔÁÍ            | there
+ÐÏÔÏÍ          | then
+ÓÅÂÑ           | oneself
+ÎÉÞÅÇÏ         | nothing
+ÅÊ             | to her
+ÍÏÖÅÔ          | usually with `ÂÙÔØ' as `maybe'
+ÏÎÉ            | they
+ÔÕÔ            | here
+ÇÄÅ            | where
+ÅÓÔØ           | there is/are
+ÎÁÄÏ           | got to, must
+ÎÅÊ            | prepositional form of  ÅÊ
+ÄÌÑ            | for
+ÍÙ             | we
+ÔÅÂÑ           | thee
+ÉÈ             | them, their
+ÞÅÍ            | than
+ÂÙÌÁ           | she was
+ÓÁÍ            | self
+ÞÔÏÂ           | in order to
+ÂÅÚ            | without
+ÂÕÄÔÏ          | as if
+ÞÅÌÏ×ÅË        | man, person, one
+ÞÅÇÏ           | genitive form of `what'
+ÒÁÚ            | once
+ÔÏÖÅ           | also
+ÓÅÂÅ           | to oneself
+ÐÏÄ            | beneath
+ÖÉÚÎØ          | life
+ÂÕÄÅÔ          | will be
+Ö              | short form of intensifer particle `ÖÅ'
+ÔÏÇÄÁ          | then
+ËÔÏ            | who
+ÜÔÏÔ           | this
+ÇÏ×ÏÒÉÌ        | was saying
+ÔÏÇÏ           | genitive form of `that'
+ÐÏÔÏÍÕ         | for that reason
+ÜÔÏÇÏ          | genitive form of `this'
+ËÁËÏÊ          | which
+ÓÏ×ÓÅÍ         | altogether
+ÎÉÍ            | prepositional form of `ÅÇÏ', `ÏÎÉ'
+ÚÄÅÓØ          | here
+ÜÔÏÍ           | prepositional form of `ÜÔÏÔ'
+ÏÄÉÎ           | one
+ÐÏÞÔÉ          | almost
+ÍÏÊ            | my
+ÔÅÍ            | instrumental/dative plural of `ÔÏÔ', `ÔÏ'
+ÞÔÏÂÙ          | full form of `in order that'
+ÎÅÅ            | her (acc.)
+ËÁÖÅÔÓÑ        | it seems
+ÓÅÊÞÁÓ         | now
+ÂÙÌÉ           | they were
+ËÕÄÁ           | where to
+ÚÁÞÅÍ          | why
+ÓËÁÚÁÔØ        | to say
+×ÓÅÈ           | all (acc., gen. preposn. plural)
+ÎÉËÏÇÄÁ        | never
+ÓÅÇÏÄÎÑ        | today
+ÍÏÖÎÏ          | possible, one can
+ÐÒÉ            | by
+ÎÁËÏÎÅÃ        | finally
+Ä×Á            | two
+ÏÂ             | alternative form of `Ï', about
+ÄÒÕÇÏÊ         | another
+ÈÏÔØ           | even
+ÐÏÓÌÅ          | after
+ÎÁÄ            | above
+ÂÏÌØÛÅ         | more
+ÔÏÔ            | that one (masc.)
+ÞÅÒÅÚ          | across, in
+ÜÔÉ            | these
+ÎÁÓ            | us
+ÐÒÏ            | about
+×ÓÅÇÏ          | in all, only, of all
+ÎÉÈ            | prepositional form of `ÏÎÉ' (they)
+ËÁËÁÑ          | which, feminine
+ÍÎÏÇÏ          | lots
+ÒÁÚ×Å          | interrogative particle
+ÓËÁÚÁÌÁ        | she said
+ÔÒÉ            | three
+ÜÔÕ            | this, acc. fem. sing.
+ÍÏÑ            | my, feminine
+×ÐÒÏÞÅÍ        | moreover, besides
+ÈÏÒÏÛÏ         | good
+Ó×ÏÀ           | ones own, acc. fem. sing.
+ÜÔÏÊ           | oblique form of `ÜÔÁ', fem. `this'
+ÐÅÒÅÄ          | in front of
+ÉÎÏÇÄÁ         | sometimes
+ÌÕÞÛÅ          | better
+ÞÕÔØ           | a little
+ÔÏÍ            | preposn. form of `that one'
+ÎÅÌØÚÑ         | one must not
+ÔÁËÏÊ          | such a one
+ÉÍ             | to them
+ÂÏÌÅÅ          | more
+×ÓÅÇÄÁ         | always
+ËÏÎÅÞÎÏ        | of course
+×ÓÀ            | acc. fem. sing of `all'
+ÍÅÖÄÕ          | between
+
+
+  | b: some paradigms
+  |
+  | personal pronouns
+  |
+  | Ñ  ÍÅÎÑ  ÍÎÅ  ÍÎÏÊ  [ÍÎÏÀ]
+  | ÔÙ  ÔÅÂÑ  ÔÅÂÅ  ÔÏÂÏÊ  [ÔÏÂÏÀ]
+  | ÏÎ  ÅÇÏ  ÅÍÕ  ÉÍ  [ÎÅÇÏ, ÎÅÍÕ, ÎÉÍ]
+  | ÏÎÁ  ÅÅ  ÜÉ  ÅÀ  [ÎÅÅ, ÎÜÉ, ÎÅÀ]
+  | ÏÎÏ  ÅÇÏ  ÅÍÕ  ÉÍ  [ÎÅÇÏ, ÎÅÍÕ, ÎÉÍ]
+  |
+  | ÍÙ  ÎÁÓ  ÎÁÍ  ÎÁÍÉ
+  | ×Ù  ×ÁÓ  ×ÁÍ  ×ÁÍÉ
+  | ÏÎÉ  ÉÈ  ÉÍ  ÉÍÉ  [ÎÉÈ, ÎÉÍ, ÎÉÍÉ]
+  |
+  |   ÓÅÂÑ  ÓÅÂÅ  ÓÏÂÏÊ   [ÓÏÂÏÀ]
+  |
+  | demonstrative pronouns: ÜÔÏÔ (this), ÔÏÔ (that)
+  |
+  | ÜÔÏÔ  ÜÔÁ  ÜÔÏ  ÜÔÉ
+  | ÜÔÏÇÏ  ÜÔÙ  ÜÔÏ  ÜÔÉ
+  | ÜÔÏÇÏ  ÜÔÏÊ  ÜÔÏÇÏ  ÜÔÉÈ
+  | ÜÔÏÍÕ  ÜÔÏÊ  ÜÔÏÍÕ  ÜÔÉÍ
+  | ÜÔÉÍ  ÜÔÏÊ  ÜÔÉÍ  [ÜÔÏÀ]  ÜÔÉÍÉ
+  | ÜÔÏÍ  ÜÔÏÊ  ÜÔÏÍ  ÜÔÉÈ
+  |
+  | ÔÏÔ  ÔÁ  ÔÏ  ÔÅ
+  | ÔÏÇÏ  ÔÕ  ÔÏ  ÔÅ
+  | ÔÏÇÏ  ÔÏÊ  ÔÏÇÏ  ÔÅÈ
+  | ÔÏÍÕ  ÔÏÊ  ÔÏÍÕ  ÔÅÍ
+  | ÔÅÍ  ÔÏÊ  ÔÅÍ  [ÔÏÀ]  ÔÅÍÉ
+  | ÔÏÍ  ÔÏÊ  ÔÏÍ  ÔÅÈ
+  |
+  | determinative pronouns
+  |
+  | (a) ×ÅÓØ (all)
+  |
+  | ×ÅÓØ  ×ÓÑ  ×ÓÅ  ×ÓÅ
+  | ×ÓÅÇÏ  ×ÓÀ  ×ÓÅ  ×ÓÅ
+  | ×ÓÅÇÏ  ×ÓÅÊ  ×ÓÅÇÏ  ×ÓÅÈ
+  | ×ÓÅÍÕ  ×ÓÅÊ  ×ÓÅÍÕ  ×ÓÅÍ
+  | ×ÓÅÍ  ×ÓÅÊ  ×ÓÅÍ  [×ÓÅÀ]  ×ÓÅÍÉ
+  | ×ÓÅÍ  ×ÓÅÊ  ×ÓÅÍ  ×ÓÅÈ
+  |
+  | (b) ÓÁÍ (himself etc)
+  |
+  | ÓÁÍ  ÓÁÍÁ  ÓÁÍÏ  ÓÁÍÉ
+  | ÓÁÍÏÇÏ ÓÁÍÕ  ÓÁÍÏ  ÓÁÍÉÈ
+  | ÓÁÍÏÇÏ ÓÁÍÏÊ ÓÁÍÏÇÏ  ÓÁÍÉÈ
+  | ÓÁÍÏÍÕ ÓÁÍÏÊ ÓÁÍÏÍÕ  ÓÁÍÉÍ
+  | ÓÁÍÉÍ  ÓÁÍÏÊ  ÓÁÍÉÍ  [ÓÁÍÏÀ]  ÓÁÍÉÍÉ
+  | ÓÁÍÏÍ ÓÁÍÏÊ ÓÁÍÏÍ  ÓÁÍÉÈ
+  |
+  | stems of verbs `to be', `to have', `to do' and modal
+  |
+  | ÂÙÔØ  ÂÙ  ÂÕÄ  ÂÙ×  ÅÓÔØ  ÓÕÔØ
+  | ÉÍÅ
+  | ÄÅÌ
+  | ÍÏÇ   ÍÏÖ  ÍÏÞØ
+  | ÕÍÅ
+  | ÈÏÞ  ÈÏÔ
+  | ÄÏÌÖ
+  | ÍÏÖÎ
+  | ÎÕÖÎ
+  | ÎÅÌØÚÑ

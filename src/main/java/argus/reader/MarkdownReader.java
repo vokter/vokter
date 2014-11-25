@@ -18,7 +18,7 @@ public class MarkdownReader implements Reader {
     }
 
     @Override
-    public ImmutableSet<String> getSupportedExtensions() {
+    public ImmutableSet<String> getSupportedContentTypes() {
         return ImmutableSet.of("md", "markdown");
     }
 }

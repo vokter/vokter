@@ -2,13 +2,16 @@ package argus.reader;
 
 import com.google.common.collect.ImmutableSet;
 import it.unimi.dsi.lang.MutableString;
-import org.apache.commons.io.IOUtils;
-import org.apache.commons.io.LineIterator;
+import org.jsoup.Jsoup;
+import org.jsoup.helper.StringUtil;
+import org.jsoup.nodes.Document;
+import org.jsoup.nodes.Node;
+import org.jsoup.nodes.TextNode;
+import org.jsoup.select.NodeTraversor;
+import org.jsoup.select.NodeVisitor;
 
 import java.io.IOException;
 import java.io.InputStream;
-
-import static org.apache.commons.lang3.StringUtils.replace;
 
 /**
  * A reader class that supports reading documents in the XML format.
@@ -20,30 +23,121 @@ public class MarkupReader implements Reader {
 
     @Override
     public MutableString readDocumentContents(InputStream documentStream) throws IOException {
-        LineIterator it = IOUtils.lineIterator(documentStream, "UTF-8");
-        MutableString sb = new MutableString();
 
-        while (it.hasNext()) {
-            String processedLine = it.next();
+        Document doc = Jsoup.parse(documentStream, null, "");
 
-            processedLine = replace(processedLine, "</.*?>", "");
-            processedLine = replace(processedLine, "<.*?>", "");
-            processedLine = replace(processedLine, "<.*?/>", "");
+        FormattingVisitor formatter = new FormattingVisitor();
+        NodeTraversor traversal = new NodeTraversor(formatter);
+        traversal.traverse(doc);
 
-            processedLine = processedLine.trim();
+        String plainText = formatter.toString();
+        plainText = plainText.replaceAll("<.*?>", "");
 
-            sb.append(processedLine);
+        return new MutableString(plainText);
 
-            if (it.hasNext()) {
-                sb.append(" ");
-            }
-        }
-
-        return sb.compact();
+//        LineIterator it = IOUtils.lineIterator(new InputStreamReader(documentStream));
+//        MutableString sb = new MutableString();
+//
+//        while (it.hasNext()) {
+//            String processedLine = it.next();
+//
+//            processedLine = processedLine.replaceAll("</.*?>", " ");
+//            processedLine = processedLine.replaceAll("<.*?>", " ");
+//            processedLine = processedLine.replaceAll("<.*?/>", " ");
+//
+//            processedLine = processedLine.trim();
+//
+//            sb.append(processedLine);
+//
+//            if (it.hasNext()) {
+//                sb.append(" ");
+//            }
+//        }
+//
+//        it.close();
+//        return sb.compact();
     }
 
     @Override
-    public ImmutableSet<String> getSupportedExtensions() {
-        return ImmutableSet.of("html", "htm", "dhtml", "xhtml", "xml", "xsl", "xss", "atom", "rss", "asp", "aspx", "mspx", "jsp", "jspx", "php", "phtml", "rhtml", "dochtml", "oth");
+    public ImmutableSet<String> getSupportedContentTypes() {
+        return ImmutableSet.of(
+                "text/html",
+                "text/xml",
+                "application/atom+xml",
+                "application/rdf+xml",
+                "application/rss+xml",
+                "application/xhtml+xml",
+                "application/xml",
+                "application/xml-dtd",
+                "application/xop+xml");
+    }
+
+    private class FormattingVisitor implements NodeVisitor {
+        private static final int maxWidth = 80;
+        private int width;
+        private StringBuilder accum;
+
+        private FormattingVisitor() {
+            this.width = 0;
+            this.accum = new StringBuilder();
+        }
+
+        public void head(Node node, int depth) {
+            String name = node.nodeName();
+            if(node instanceof TextNode) {
+                this.append(((TextNode)node).text());
+            } else if(name.equals("li")) {
+                this.append("\n * ");
+            }
+
+        }
+
+        public void tail(Node node, int depth) {
+            String name = node.nodeName();
+            if(name.equals("br")) {
+                this.append("\n");
+            } else if(StringUtil.in(name, new String[]{"p", "h1", "h2", "h3", "h4", "h5"})) {
+                this.append("\n\n");
+            } else if(name.equals("a")) {
+                this.append(String.format(" <%s>", new Object[]{node.absUrl("href")}));
+            }
+
+        }
+
+        private void append(String text) {
+            if(text.startsWith("\n")) {
+                this.width = 0;
+            }
+
+            if(!text.equals(" ") || this.accum.length() != 0 && !StringUtil.in(this.accum.substring(this.accum.length() - 1), new String[]{" ", "\n"})) {
+                if(text.length() + this.width > 80) {
+                    String[] words = text.split("\\s+");
+
+                    for(int i = 0; i < words.length; ++i) {
+                        String word = words[i];
+                        boolean last = i == words.length - 1;
+                        if(!last) {
+                            word = word + " ";
+                        }
+
+                        if(word.length() + this.width > 80) {
+                            this.accum.append("\n").append(word);
+                            this.width = word.length();
+                        } else {
+                            this.accum.append(word);
+                            this.width += word.length();
+                        }
+                    }
+                } else {
+                    this.accum.append(text);
+                    this.width += text.length();
+                }
+
+            }
+        }
+
+        public String toString() {
+            return this.accum.toString();
+        }
     }
 }

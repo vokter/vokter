@@ -1,6 +1,5 @@
 package argus.watcher;
 
-import argus.index.Document;
 import org.codehaus.jackson.annotate.JsonProperty;
 
 import java.util.Set;
