@@ -1,6 +1,6 @@
 package argus.document;
 
-import argus.langdetect.LangDetectException;
+import argus.langdetect.LanguageDetectorException;
 import argus.langdetect.LanguageDetectorFactory;
 import argus.util.Constants;
 import org.junit.BeforeClass;
@@ -21,7 +21,7 @@ public class DocumentBuilderTest {
 
 
     @BeforeClass
-    public static void setUp() throws LangDetectException {
+    public static void setUp() throws LanguageDetectorException {
         LanguageDetectorFactory.loadProfile(Constants.LANGUAGE_PROFILES_DIR);
     }
 

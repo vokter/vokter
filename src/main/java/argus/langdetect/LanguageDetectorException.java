@@ -3,7 +3,7 @@ package argus.langdetect;
 /**
  * @author Nakatani Shuyo
  */
-public class LangDetectException extends Exception {
+public class LanguageDetectorException extends Exception {
     private static final long serialVersionUID = 1L;
     private ErrorCode code;
     
@@ -12,7 +12,7 @@ public class LangDetectException extends Exception {
      * @param code
      * @param message
      */
-    public LangDetectException(ErrorCode code, String message) {
+    public LanguageDetectorException(ErrorCode code, String message) {
         super(message);
         this.code = code;
     }

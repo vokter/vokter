@@ -15,7 +15,7 @@ import javax.xml.stream.XMLStreamReader;
 import argus.langdetect.util.LangProfile;
 import argus.langdetect.util.TagExtractor;
 
-import static argus.langdetect.LangDetectException.*;
+import static argus.langdetect.LanguageDetectorException.*;
 
 /**
  * Load Wikipedia's abstract XML as corpus and
@@ -31,9 +31,9 @@ public class GenProfile {
      * @param lang target language name
      * @param file target database file path
      * @return Language profile instance
-     * @throws LangDetectException 
+     * @throws LanguageDetectorException
      */
-    public static LangProfile loadFromWikipediaAbstract(String lang, File file) throws LangDetectException {
+    public static LangProfile loadFromWikipediaAbstract(String lang, File file) throws LanguageDetectorException {
 
         LangProfile profile = new LangProfile(lang);
 
@@ -64,7 +64,7 @@ public class GenProfile {
                     }
                 }
             } catch (XMLStreamException e) {
-                throw new LangDetectException(ErrorCode.TrainDataFormatError, "Training database file '" + file.getName() + "' is an invalid XML.");
+                throw new LanguageDetectorException(ErrorCode.TrainDataFormatError, "Training database file '" + file.getName() + "' is an invalid XML.");
             } finally {
                 try {
                     if (reader != null) reader.close();
@@ -73,7 +73,7 @@ public class GenProfile {
             System.out.println(lang + ":" + tagextractor.count());
 
         } catch (IOException e) {
-            throw new LangDetectException(ErrorCode.CantOpenTrainData, "Can't open training database file '" + file.getName() + "'");
+            throw new LanguageDetectorException(ErrorCode.CantOpenTrainData, "Can't open training database file '" + file.getName() + "'");
         } finally {
             try {
                 if (br != null) br.close();
@@ -88,9 +88,9 @@ public class GenProfile {
      * @param lang target language name
      * @param file target file path
      * @return Language profile instance
-     * @throws LangDetectException 
+     * @throws LanguageDetectorException
      */
-    public static LangProfile loadFromText(String lang, File file) throws LangDetectException {
+    public static LangProfile loadFromText(String lang, File file) throws LanguageDetectorException {
 
         LangProfile profile = new LangProfile(lang);
 
@@ -108,7 +108,7 @@ public class GenProfile {
             System.out.println(lang + ":" + count);
 
         } catch (IOException e) {
-            throw new LangDetectException(ErrorCode.CantOpenTrainData, "Can't open training database file '" + file.getName() + "'");
+            throw new LanguageDetectorException(ErrorCode.CantOpenTrainData, "Can't open training database file '" + file.getName() + "'");
         } finally {
             try {
                 if (is != null) is.close();

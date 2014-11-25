@@ -21,7 +21,7 @@ public class SpecialCharsCleaner implements Cleaner {
      * The characters to evaluate and clean from the provided document text.
      */
     private static final char[] CHARS_TO_FILTER = {
-            '{', '}', '[', ']', '(', ')', '*', '/', '^', '~',
+            '{', '}', '[', ']', '(', ')', '*', '/', '^', '~', '<', '>',
             '_', '…', '–', '−', '.', ',', '!', '?', '@', '#', '&', '+', '-', '=',
             '/', ':', ';', '\\', '|', '\"', '\'', '”', '“', '„', '«',
             '»', '’', '‘', '′', '⏐', '•', '↔', '►', '', '', '', '', '',

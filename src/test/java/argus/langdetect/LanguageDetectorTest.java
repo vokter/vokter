@@ -48,35 +48,35 @@ public class LanguageDetectorTest {
     }
 
     @Test
-    public final void testDetector1() throws LangDetectException {
+    public final void testDetector1() throws LanguageDetectorException {
         LanguageDetector detect = LanguageDetectorFactory.create();
         detect.append("a");
         assertEquals(detect.detect(), "en");
     }
 
     @Test
-    public final void testDetector2() throws LangDetectException {
+    public final void testDetector2() throws LanguageDetectorException {
         LanguageDetector detect = LanguageDetectorFactory.create();
         detect.append("b d");
         assertEquals(detect.detect(), "fr");
     }
 
     @Test
-    public final void testDetector3() throws LangDetectException {
+    public final void testDetector3() throws LanguageDetectorException {
         LanguageDetector detect = LanguageDetectorFactory.create();
         detect.append("d e");
         assertEquals(detect.detect(), "en");
     }
 
     @Test
-    public final void testDetector4() throws LangDetectException {
+    public final void testDetector4() throws LanguageDetectorException {
         LanguageDetector detect = LanguageDetectorFactory.create();
         detect.append("\u3042\u3042\u3042\u3042a");
         assertEquals(detect.detect(), "ja");
     }
     
     @Test
-    public final void testLangList() throws LangDetectException {
+    public final void testLangList() throws LanguageDetectorException {
         List<String> langList = LanguageDetectorFactory.getLangList();
         assertEquals(langList.size(), 3);
         assertEquals(langList.get(0), "en");
@@ -85,14 +85,14 @@ public class LanguageDetectorTest {
     }
 
     @Test(expected = UnsupportedOperationException.class)
-    public final void testLangListException() throws LangDetectException {
+    public final void testLangListException() throws LanguageDetectorException {
         List<String> langList = LanguageDetectorFactory.getLangList();
         langList.add("hoge");
         //langList.add(1, "hoge");
     }
 
     @Test
-    public final void testFactoryFromJsonString() throws LangDetectException {
+    public final void testFactoryFromJsonString() throws LanguageDetectorException {
         LanguageDetectorFactory.clear();
         ArrayList<String> profiles = new ArrayList<String>();
         profiles.add(JSON_LANG1);

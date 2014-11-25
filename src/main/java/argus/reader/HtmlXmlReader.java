@@ -19,7 +19,7 @@ import java.io.InputStream;
  * @author Eduardo Duarte (<a href="mailto:eduardo.miguel.duarte@gmail.com">eduardo.miguel.duarte@gmail.com</a>)
  * @version 2.0
  */
-public class MarkupReader implements Reader {
+public class HtmlXmlReader implements Reader {
 
     @Override
     public MutableString readDocumentContents(InputStream documentStream) throws IOException {
@@ -66,10 +66,11 @@ public class MarkupReader implements Reader {
                 "application/atom+xml",
                 "application/rdf+xml",
                 "application/rss+xml",
+                "application/soap+xml",
+                "application/rdf+xml",
                 "application/xhtml+xml",
                 "application/xml",
-                "application/xml-dtd",
-                "application/xop+xml");
+                "application/xml-dtd");
     }
 
     private class FormattingVisitor implements NodeVisitor {

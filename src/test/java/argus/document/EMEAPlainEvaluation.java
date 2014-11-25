@@ -1,39 +1,19 @@
-//package argus.document;
-//
-//import static java.util.stream.Collectors.toList;
-//
-//import argus.Main;
-//import argus.evaluation.EvaluationParam;
-//import argus.query.Query;
-//import argus.query.QueryBuilder;
-//import argus.query.QueryResult;
-//import argus.stemmer.PortugueseStemmer;
-//import argus.util.EvaluationFileLoader;
-//import argus.util.StopwordFileLoader;
-//import argus.util.Constants;
-//import com.google.common.base.Stopwatch;
-//import gnu.trove.list.array.TDoubleArrayList;
-//import it.unimi.dsi.lang.MutableString;
-//import org.junit.Test;
-//import org.slf4j.Logger;
-//import org.slf4j.LoggerFactory;
-//
-//import java.io.File;
-//import java.io.InputStream;
-//import java.nio.file.Paths;
-//import java.util.List;
-//import java.util.Set;
-//
-///**
-// * @author Eduardo Duarte (<a href="mailto:eduardo.miguel.duarte@gmail.com">eduardo.miguel.duarte@gmail.com</a>)
-// * @version 1.0
-// */
-//public class EMEAPlainEvaluation {
-//
-//    private static final Logger logger = LoggerFactory.getLogger(EMEAPlainEvaluation.class);
-//
-//    @Test
-//    public void test() {
+package argus.document;
+
+import org.junit.Test;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+/**
+* @author Eduardo Duarte (<a href="mailto:eduardo.miguel.duarte@gmail.com">eduardo.miguel.duarte@gmail.com</a>)
+* @version 1.0
+*/
+public class EMEAPlainEvaluation {
+
+    private static final Logger logger = LoggerFactory.getLogger(EMEAPlainEvaluation.class);
+
+    @Test
+    public void test() {
 //        String corpusDir = Main.class.getResource("EMEA_plain").getPath();
 //
 //        // loads the default evaluation file.
@@ -131,5 +111,5 @@
 //        logger.info("Evaluation elapsed time: " + sw.toString());
 //        logger.info("Mean Average Precision (MAP): " + map);
 //        logger.info("");
-//    }
-//}
+    }
+}
