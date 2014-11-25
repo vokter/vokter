@@ -26,10 +26,10 @@
     </developers>
 
     <build>
-        <directory>../server</directory>
-        <outputDirectory>../server/target</outputDirectory>
+        <directory>../target</directory>
+        <outputDirectory>../target/classes</outputDirectory>
         <finalName>${artifactId}-${version}</finalName>
-        <testOutputDirectory>../server/target</testOutputDirectory>
+        <testOutputDirectory>../target/test-classes</testOutputDirectory>
         <sourceDirectory>src/main/java</sourceDirectory>
         <testSourceDirectory>src/test/java</testSourceDirectory>
 

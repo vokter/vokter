@@ -13,7 +13,7 @@ import argus.stopper.SnowballStopwordsLoader;
 import argus.stopper.StopwordsLoader;
 import argus.term.Term;
 import argus.tokenizer.Tokenizer;
-import argus.util.DynamicClassScanner;
+import argus.util.DynamicClassLoader;
 import it.unimi.dsi.lang.MutableString;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -71,7 +71,7 @@ public class DocumentPipeline implements Callable<Document> {
 
 
             // reads and parses contents from input content stream
-            Class<? extends Reader> readerClass = DynamicClassScanner
+            Class<? extends Reader> readerClass = DynamicClassLoader
                     .getCompatibleReader(documentInput.getContentType());
             Reader reader = readerClass.newInstance();
             MutableString content = reader.readDocumentContents(documentStream);
@@ -114,7 +114,7 @@ public class DocumentPipeline implements Callable<Document> {
             // sets the tokenizer's stemmer according to the detected language
             // if the detected language is not supported, stemming is ignored
             if (isStemmingEnabled) {
-                Class<? extends Stemmer> stemmerClass = DynamicClassScanner.getCompatibleStemmer(language);
+                Class<? extends Stemmer> stemmerClass = DynamicClassLoader.getCompatibleStemmer(language);
                 if (stemmerClass != null) {
                     Stemmer stemmer = stemmerClass.newInstance();
                     tokenizer.enableStemming(stemmer);

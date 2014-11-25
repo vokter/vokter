@@ -20,18 +20,27 @@ import java.io.InputStream;
  * @author Eduardo Duarte (<a href="mailto:eduardo.miguel.duarte@gmail.com">eduardo.miguel.duarte@gmail.com</a>)
  * @version 2.0
  */
-public class HtmlXmlReader implements Reader {
+public class HtmlXmlReader implements Reader, NodeVisitor  {
+
+    private static final int maxWidth = 80;
+    private int width;
+    private StringBuilder accum;
+
+
+    public HtmlXmlReader() {
+        this.width = 0;
+        this.accum = new StringBuilder();
+    }
 
     @Override
     public MutableString readDocumentContents(InputStream documentStream) throws IOException {
 
         Document doc = Jsoup.parse(documentStream, null, "");
 
-        FormattingVisitor formatter = new FormattingVisitor();
-        NodeTraversor traversal = new NodeTraversor(formatter);
+        NodeTraversor traversal = new NodeTraversor(this);
         traversal.traverse(doc);
 
-        String plainText = formatter.toString();
+        String plainText = accum.toString();
         plainText = plainText.replaceAll("<.*?>", "");
 
         return new MutableString(plainText);
@@ -74,72 +83,57 @@ public class HtmlXmlReader implements Reader {
                 "application/xml-dtd");
     }
 
-    private class FormattingVisitor implements NodeVisitor {
-        private static final int maxWidth = 80;
-        private int width;
-        private StringBuilder accum;
+    public void head(Node node, int depth) {
+        String name = node.nodeName();
+        if (node instanceof TextNode) {
+            this.append(((TextNode) node).text());
+        } else if (name.equals("li")) {
+            this.append("\n * ");
+        }
 
-        private FormattingVisitor() {
+    }
+
+    public void tail(Node node, int depth) {
+        String name = node.nodeName();
+        if (name.equals("br")) {
+            this.append("\n");
+        } else if (StringUtil.in(name, new String[]{"p", "h1", "h2", "h3", "h4", "h5"})) {
+            this.append("\n\n");
+        } else if (name.equals("a")) {
+            this.append(String.format(" <%s>", new Object[]{node.absUrl("href")}));
+        }
+
+    }
+
+    private void append(String text) {
+        if (text.startsWith("\n")) {
             this.width = 0;
-            this.accum = new StringBuilder();
         }
 
-        public void head(Node node, int depth) {
-            String name = node.nodeName();
-            if (node instanceof TextNode) {
-                this.append(((TextNode) node).text());
-            } else if (name.equals("li")) {
-                this.append("\n * ");
-            }
+        if (!text.equals(" ") || this.accum.length() != 0 && !StringUtil.in(this.accum.substring(this.accum.length() - 1), new String[]{" ", "\n"})) {
+            if (text.length() + this.width > 80) {
+                String[] words = text.split("\\s+");
 
-        }
-
-        public void tail(Node node, int depth) {
-            String name = node.nodeName();
-            if (name.equals("br")) {
-                this.append("\n");
-            } else if (StringUtil.in(name, new String[]{"p", "h1", "h2", "h3", "h4", "h5"})) {
-                this.append("\n\n");
-            } else if (name.equals("a")) {
-                this.append(String.format(" <%s>", new Object[]{node.absUrl("href")}));
-            }
-
-        }
-
-        private void append(String text) {
-            if (text.startsWith("\n")) {
-                this.width = 0;
-            }
-
-            if (!text.equals(" ") || this.accum.length() != 0 && !StringUtil.in(this.accum.substring(this.accum.length() - 1), new String[]{" ", "\n"})) {
-                if (text.length() + this.width > 80) {
-                    String[] words = text.split("\\s+");
-
-                    for (int i = 0; i < words.length; ++i) {
-                        String word = words[i];
-                        boolean last = i == words.length - 1;
-                        if (!last) {
-                            word = word + " ";
-                        }
-
-                        if (word.length() + this.width > 80) {
-                            this.accum.append("\n").append(word);
-                            this.width = word.length();
-                        } else {
-                            this.accum.append(word);
-                            this.width += word.length();
-                        }
+                for (int i = 0; i < words.length; ++i) {
+                    String word = words[i];
+                    boolean last = i == words.length - 1;
+                    if (!last) {
+                        word = word + " ";
                     }
-                } else {
-                    this.accum.append(text);
-                    this.width += text.length();
+
+                    if (word.length() + this.width > 80) {
+                        this.accum.append("\n").append(word);
+                        this.width = word.length();
+                    } else {
+                        this.accum.append(word);
+                        this.width += word.length();
+                    }
                 }
-
+            } else {
+                this.accum.append(text);
+                this.width += text.length();
             }
-        }
 
-        public String toString() {
-            return this.accum.toString();
         }
     }
 }

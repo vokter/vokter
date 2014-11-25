@@ -4,15 +4,6 @@
 tomcat.*
 
 target
-generated-sources
-generated-test-sources
-dependency-reduced-pom.xml
-MANIFEST.MF
-maven-archiver
-maven-status
-argus-core-1.2.0.jar
-original-argus-core-1.2.0.jar
-surefire-reports
 
 #netbeans
 nbactions.xml

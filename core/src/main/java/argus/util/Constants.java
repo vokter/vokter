@@ -28,10 +28,10 @@ public class Constants {
             new File(INSTALL_DIR, "lang-profiles");
 
     public static final File READER_CLASSES_DIR =
-            new File(INSTALL_DIR, "readers" + File.separator + "argus");
+            new File(INSTALL_DIR, "readers");
 
     public static final File STEMMER_CLASSES_DIR =
-            new File(INSTALL_DIR, "stemmers" + File.separator + "argus");
+            new File(INSTALL_DIR, "stemmers");
 
     public static final File STOPWORDS_DIR =
             new File(INSTALL_DIR, "stopwords");
