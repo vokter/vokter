@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
+                             http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>argus</groupId>
+    <artifactId>argus-readers</artifactId>
+    <version>1.2.0</version>
+
+    <name>argus-readers</name>
+
+    <developers>
+        <developer>
+            <id>edduarte</id>
+            <name>Eduardo Duarte</name>
+            <email>eduardo.miguel.duarte@gmail.com</email>
+            <roles>
+                <role>architect</role>
+                <role>developer</role>
+            </roles>
+            <timezone>0</timezone>
+        </developer>
+    </developers>
+
+    <build>
+        <directory>../server</directory>
+        <outputDirectory>../server/readers</outputDirectory>
+        <finalName>${artifactId}-${version}</finalName>
+        <sourceDirectory>src/main/java</sourceDirectory>
+        <testSourceDirectory>src/test/java</testSourceDirectory>
+
+        <plugins>
+
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.0</version>
+                <configuration>
+                    <source>1.8</source>
+                    <target>1.8</target>
+                </configuration>
+            </plugin>
+
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-deploy-plugin</artifactId>
+                <version>2.7</version>
+            </plugin>
+
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-source-plugin</artifactId>
+                <version>2.2.1</version>
+            </plugin>
+
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-surefire-plugin</artifactId>
+                <version>2.15</version>
+                <configuration>
+                    <argLine>-Dfile.encoding=UTF-8</argLine>
+                </configuration>
+            </plugin>
+        </plugins>
+
+    </build>
+
+    <!-- Project properties (can be reused anywhere in the pom like this: ${prop.name}) -->
+    <properties>
+        <!-- Java version we use and depend on -->
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+
+        <!-- Compiler options -->
+        <maven.compiler.optimize>true</maven.compiler.optimize>
+        <maven.compiler.showDeprecations>true</maven.compiler.showDeprecations>
+
+        <!-- Explicitly set the source and output encoding to prevent Maven warnings -->
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+
+        <targetJdk>1.8</targetJdk>
+
+    </properties>
+
+    <dependencies>
+
+        <dependency>
+            <groupId>argus</groupId>
+            <artifactId>argus-core</artifactId>
+            <version>1.2.0</version>
+        </dependency>
+
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.11</version>
+        </dependency>
+
+        <dependency>
+            <groupId>net.arnx</groupId>
+            <artifactId>jsonic</artifactId>
+            <version>1.3.6</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.jsoup</groupId>
+            <artifactId>jsoup</artifactId>
+            <version>1.8.1</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.google.code.gson</groupId>
+            <artifactId>gson</artifactId>
+            <version>2.2.2</version>
+        </dependency>
+
+    </dependencies>
+</project>
