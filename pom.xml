@@ -31,8 +31,17 @@
         <module>stemmers</module>
     </modules>
 
-    <build>
+    <profiles>
+        <profile>
+            <id>ci</id>
+            <modules>
+                <module>readers</module>
+                <module>stemmers</module>
+            </modules>
+        </profile>
+    </profiles>
 
+    <build>
         <pluginManagement>
             <plugins>
                 <plugin>
