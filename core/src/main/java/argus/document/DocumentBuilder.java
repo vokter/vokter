@@ -1,7 +1,7 @@
 package argus.document;
 
 import argus.term.Term;
-import argus.util.DynamicClassScanner;
+import argus.util.DynamicClassLoader;
 import com.google.common.base.Stopwatch;
 import it.unimi.dsi.lang.MutableString;
 import org.slf4j.Logger;
@@ -148,7 +148,7 @@ public final class DocumentBuilder {
 
 
         // step x) Checks if the input document is supported by the server
-        boolean isSupported = DynamicClassScanner.hasCompatibleReader(input.getContentType());
+        boolean isSupported = DynamicClassLoader.getCompatibleReader(input.getContentType()) != null;
         if (!isSupported) {
             logger.info("Ignored processing document '{}': No compatible readers available for content-type '{}'.",
                     input.getUrl(),

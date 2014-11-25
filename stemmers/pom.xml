@@ -25,8 +25,8 @@
     </developers>
 
     <build>
-        <directory>../server</directory>
-        <outputDirectory>../server/stemmers</outputDirectory>
+        <directory>../target</directory>
+        <outputDirectory>../target/stemmers</outputDirectory>
         <finalName>${artifactId}-${version}</finalName>
         <sourceDirectory>src/main/java</sourceDirectory>
         <testSourceDirectory>src/test/java</testSourceDirectory>
@@ -67,17 +67,13 @@
 
     </build>
 
-    <!-- Project properties (can be reused anywhere in the pom like this: ${prop.name}) -->
     <properties>
-        <!-- Java version we use and depend on -->
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
 
-        <!-- Compiler options -->
         <maven.compiler.optimize>true</maven.compiler.optimize>
         <maven.compiler.showDeprecations>true</maven.compiler.showDeprecations>
 
-        <!-- Explicitly set the source and output encoding to prevent Maven warnings -->
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
