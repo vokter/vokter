@@ -19,8 +19,8 @@ public class PlainTextReader implements Reader {
     @Override
     public MutableString readDocumentContents(InputStream documentStream) throws IOException {
         MutableString sb = new MutableString();
-        try (BufferedReader rdr = new BufferedReader(new InputStreamReader(documentStream))) {
-            for (int c; (c = rdr.read()) != -1; ) {
+        try (BufferedReader reader = new BufferedReader(new InputStreamReader(documentStream))) {
+            for (int c; (c = reader.read()) != -1; ) {
                 sb.append((char) c);
             }
         }
@@ -28,7 +28,7 @@ public class PlainTextReader implements Reader {
     }
 
     @Override
-    public ImmutableSet<String> getSupportedExtensions() {
-        return ImmutableSet.of("txt");
+    public ImmutableSet<String> getSupportedContentTypes() {
+        return ImmutableSet.of("text/plain");
     }
 }

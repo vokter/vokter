@@ -1,9 +1,9 @@
 package argus.query;
 
-import argus.filter.AndCleaner;
-import argus.filter.Cleaner;
-import argus.filter.DiacriticCleaner;
-import argus.filter.SpecialCharsCleaner;
+import argus.cleaner.AndCleaner;
+import argus.cleaner.Cleaner;
+import argus.cleaner.DiacriticCleaner;
+import argus.cleaner.SpecialCharsCleaner;
 import argus.stemmer.Stemmer;
 import argus.tokenizer.Tokenizer;
 import it.unimi.dsi.lang.MutableString;
@@ -47,48 +47,48 @@ public class QueryPipeline implements Runnable {
 
     @Override
     public void run() {
-        try {
-            boolean isStopwordEnabled = stopwords != null;
-
-            Cleaner cleaner = AndCleaner.of(new SpecialCharsCleaner(), new DiacriticCleaner());
-
-            Tokenizer tokenizer = new Tokenizer();
-
-            if (isStopwordEnabled) {
-                tokenizer.enableStopwords(stopwords);
-            }
-
-            if (stemmerClass != null) {
-                Stemmer stemmer = stemmerClass.newInstance();
-                tokenizer.enableStemming(stemmer);
-            }
-
-            if (ignoreCase) {
-                tokenizer.ignoreCase();
-            }
-
-            // filters irrelevant characters from the search
-            cleaner.clean(queryInput);
-
-
-            // tokenizes the input text
-            List<Tokenizer.Result> results = tokenizer.tokenize(queryInput);
-
-
-            // add the tokenizer results as search terms
-            for (Tokenizer.Result r : results) {
-                MutableString tokenText = r.text;
-                queryTexts.add(tokenText);
-            }
-
-
-            // unloads / garbage collects retained file streams
-            queryInput.delete(0, queryInput.length());
-            cleaner = null;
-            tokenizer = null;
-
-        } catch (ReflectiveOperationException ex) {
-            logger.error(ex.getMessage(), ex);
-        }
+//        try {
+//            boolean isStopwordEnabled = stopwords != null;
+//
+//            Cleaner cleaner = AndCleaner.of(new SpecialCharsCleaner(), new DiacriticCleaner());
+//
+//            Tokenizer tokenizer = new Tokenizer();
+//
+//            if (isStopwordEnabled) {
+//                tokenizer.enableStopwords(stopwords);
+//            }
+//
+//            if (stemmerClass != null) {
+//                Stemmer stemmer = stemmerClass.newInstance();
+//                tokenizer.enableStemming(stemmer);
+//            }
+//
+//            if (ignoreCase) {
+//                tokenizer.setIgnoreCase();
+//            }
+//
+//            // filters irrelevant characters from the search
+//            cleaner.clean(queryInput);
+//
+//
+//            // tokenizes the input text
+//            List<Tokenizer.Result> results = tokenizer.tokenize(queryInput);
+//
+//
+//            // add the tokenizer results as search terms
+//            for (Tokenizer.Result r : results) {
+//                MutableString tokenText = r.text;
+//                queryTexts.add(tokenText);
+//            }
+//
+//
+//            // unloads / garbage collects retained file streams
+//            queryInput.delete(0, queryInput.length());
+//            cleaner = null;
+//            tokenizer = null;
+//
+//        } catch (ReflectiveOperationException ex) {
+//            logger.error(ex.getMessage(), ex);
+//        }
     }
 }

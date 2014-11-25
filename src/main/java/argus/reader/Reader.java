@@ -18,5 +18,5 @@ public interface Reader {
 
     MutableString readDocumentContents(InputStream documentStream) throws IOException;
 
-    ImmutableSet<String> getSupportedExtensions();
+    ImmutableSet<String> getSupportedContentTypes();
 }

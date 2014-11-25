@@ -11,4 +11,6 @@ import it.unimi.dsi.lang.MutableString;
 public interface Stemmer {
 
     void stem(MutableString termText);
+
+    String getSupportedLanguage();
 }

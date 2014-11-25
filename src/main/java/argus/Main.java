@@ -2,7 +2,7 @@ package argus;
 
 import argus.rest.Context;
 import argus.util.StopwordFileLoader;
-import argus.util.Util;
+import argus.util.Constants;
 import it.unimi.dsi.lang.MutableString;
 import org.apache.commons.cli.*;
 import org.apache.commons.io.FileDeleteStrategy;
@@ -152,11 +152,11 @@ public class Main {
             stopwordsFileStream = Main.class.getResourceAsStream("stopwords.txt");
         }
         StopwordFileLoader stopLoader = new StopwordFileLoader();
-        Set<MutableString> loadedStopwords = stopLoader.load(stopwordsFileStream);
+//        Set<MutableString> loadedStopwords = stopLoader.load(stopwordsFileStream);
         stopLoader = null;
 
 
-        File indexCacheFolder = new File(Util.INSTALL_DIR, "index");
+        File indexCacheFolder = new File(Constants.INSTALL_DIR, "index");
         if (indexCacheFolder.exists()) {
             try {
                 FileDeleteStrategy.FORCE.delete(indexCacheFolder);
@@ -167,7 +167,7 @@ public class Main {
         indexCacheFolder.mkdirs();
 
 
-        File documentsCacheFolder = new File(Util.INSTALL_DIR, "documents");
+        File documentsCacheFolder = new File(Constants.INSTALL_DIR, "documents");
         if (documentsCacheFolder.exists()) {
             try {
                 FileDeleteStrategy.FORCE.delete(documentsCacheFolder);
@@ -179,22 +179,22 @@ public class Main {
 
 
 
-            try {
-                Context context = Context.getInstance();
-                context.start(port, maxThreads, loadedStopwords);
-                context.setStopwordsEnabled(isStoppingEnabled);
-                context.setStemmingEnabled(isStemmingEnabled);
-                context.setIgnoreCase(isIgnoringCase);
-
-                context.createCollectionFromDir(corpusDir, indexCacheFolder, documentsCacheFolder);
-
-                context.join();
-
-            } catch (Exception ex) {
-                ex.printStackTrace();
-                logger.info("Shutting down the server...");
-                System.exit(1);
-            }
+//        try {
+//            Context context = Context.getInstance();
+//            context.start(port, maxThreads, loadedStopwords);
+//            context.setStopwordsEnabled(isStoppingEnabled);
+//            context.setStemmingEnabled(isStemmingEnabled);
+//            context.setIgnoreCase(isIgnoringCase);
+//
+//            context.createCollectionFromDir(corpusDir, indexCacheFolder, documentsCacheFolder);
+//
+//            context.join();
+//
+//        } catch (Exception ex) {
+//            ex.printStackTrace();
+//            logger.info("Shutting down the server...");
+//            System.exit(1);
+//        }
     }
 
 

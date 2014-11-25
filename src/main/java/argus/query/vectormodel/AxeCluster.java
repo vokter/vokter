@@ -1,7 +1,7 @@
 package argus.query.vectormodel;
 
-import argus.index.Document;
-import argus.index.Term;
+import argus.document.Document;
+import argus.term.Term;
 
 import java.util.List;
 import java.util.Set;

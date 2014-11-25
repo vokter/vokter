@@ -1,11 +1,11 @@
 package argus.tokenizer;
 
 import argus.stemmer.Stemmer;
+import argus.stopper.StopwordsLoader;
 import it.unimi.dsi.lang.MutableString;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Set;
 
 /**
  * Tokenizer of contents, which separates, stops and stems words separated by
@@ -17,10 +17,8 @@ import java.util.Set;
  */
 public class Tokenizer {
 
-    private static ThreadLocal<Result[]> tempArray = new ThreadLocal<>();
-
     private char separator;
-    private Set<MutableString> stopwords;
+    private StopwordsLoader stopwordsLoader;
     private Stemmer stemmer;
     private boolean ignoreCase = false;
 
@@ -32,16 +30,16 @@ public class Tokenizer {
         this.separator = separator;
     }
 
-    public void enableStopwords(final Set<MutableString> stopwords) {
-        this.stopwords = stopwords;
+    public void enableStopwords(final StopwordsLoader stopwordsLoader) {
+        this.stopwordsLoader = stopwordsLoader;
     }
 
     public void enableStemming(final Stemmer stemmer) {
         this.stemmer = stemmer;
     }
 
-    public void ignoreCase() {
-        this.ignoreCase = true;
+    public void setIgnoreCase(boolean ignoreCase) {
+        this.ignoreCase = ignoreCase;
     }
 
     public List<Result> tokenize(MutableString text) {
@@ -83,15 +81,15 @@ public class Tokenizer {
 
             // checks if the text is a stopword
             // if true, do not stem it nor add it to the Result list
-            boolean isAStopword = false;
-            if (stopwords != null && !stopwords.isEmpty()) {
+            boolean isStopword = false;
+            if (stopwordsLoader != null) {
                 MutableString textToTest = termText;
                 if (!ignoreCase) {
                     textToTest = textToTest.copy().toLowerCase();
                 }
-                isAStopword = stopwords.contains(textToTest);
+                isStopword = stopwordsLoader.isStopword(textToTest);
             }
-            if (!isAStopword) {
+            if (!isStopword) {
 
                 // stems the term text
                 if (stemmer != null) {

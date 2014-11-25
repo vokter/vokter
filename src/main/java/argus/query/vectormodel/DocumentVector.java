@@ -1,8 +1,8 @@
 package argus.query.vectormodel;
 
-import argus.index.Collection;
-import argus.index.Document;
-import argus.index.Term;
+import argus.document.DocumentCollection;
+import argus.document.Document;
+import argus.term.Term;
 
 import java.util.Set;
 import java.util.stream.Stream;
@@ -16,12 +16,12 @@ import java.util.stream.Stream;
  */
 public class DocumentVector {
 
-    private final Collection parentCollection;
+    private final DocumentCollection parentCollection;
     private final Document point;
     private final Set<Term> axes;
 
 
-    public DocumentVector(final Collection parentCollection,
+    public DocumentVector(final DocumentCollection parentCollection,
                           final Document document,
                           final Set<Term> terms) {
         this.parentCollection = parentCollection;
@@ -39,7 +39,7 @@ public class DocumentVector {
         return axes.stream().map(t -> {
             // the nlize value is already stored in the index, so no calculations
             // are required (optimizing query speeds)
-            double nlize = t.getWeightOfDocument(point.getId());
+            double nlize = t.getNormalizedWeight();
             return new Axe(point, t, nlize);
         });
     }

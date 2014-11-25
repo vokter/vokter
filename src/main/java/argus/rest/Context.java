@@ -1,12 +1,8 @@
 package argus.rest;
 
 import argus.Main;
-import argus.index.Collection;
-import argus.index.CollectionBuilder;
-import argus.query.Query;
-import argus.query.QueryBuilder;
-import argus.query.QueryResult;
-import argus.stemmer.PortugueseStemmer;
+import argus.document.DocumentCollection;
+import com.mongodb.MongoClient;
 import it.unimi.dsi.lang.MutableString;
 import org.eclipse.jetty.server.Connector;
 import org.eclipse.jetty.server.handler.HandlerList;
@@ -17,8 +13,6 @@ import org.eclipse.jetty.webapp.WebAppContext;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import java.io.File;
-import java.nio.file.Paths;
 import java.security.ProtectionDomain;
 import java.util.Set;
 
@@ -32,6 +26,10 @@ public class Context
     private static Context instance;
 
 
+    private MongoClient mongoClient;
+
+
+
     /**
      * This context's stopwords, which are used on queries.
      */
@@ -42,7 +40,7 @@ public class Context
      * The index instance that will contain all processed and
      * imported corpus during the context's execution.
      */
-    private Collection collection;
+    private DocumentCollection collection;
 
 
     /**
@@ -143,6 +141,10 @@ public class Context
         this.port = port;
         this.loadedStopwords = loadedStopwords;
 
+
+        mongoClient = new MongoClient("localhost", 27017);
+
+
         // Start a Jetty server with some sensible defaults
         setStopAtShutdown(true);
 
@@ -208,6 +210,7 @@ public class Context
 
     @Override
     public void lifeCycleStopping(LifeCycle lifeCycle) {
+        mongoClient.close();
     }
 
 
@@ -216,55 +219,59 @@ public class Context
     }
 
 
-    /**
-     * Indexes the specified directory's documents and saves the resulting index
-     * of all occurrences into the specified folder, separated by first-character
-     * in different files, and the resulting documents into the specified folder,
-     * separated by id.
-     */
-    public void createCollectionFromDir(String directoryPath, File outputIndexFolder, File outputDocumentsFolder) {
-        CollectionBuilder builder = CollectionBuilder.fromDir(Paths.get(directoryPath));
+//    /**
+//     * Indexes the specified directory's documents and saves the resulting index
+//     * of all occurrences into the specified folder, separated by first-character
+//     * in different files, and the resulting documents into the specified folder,
+//     * separated by id.
+//     */
+//    public void createCollectionFromDir(String directoryPath, File outputIndexFolder, File outputDocumentsFolder) {
+//        DocumentCollectionBuilder builder = DocumentCollectionBuilder.fromDir(Paths.get(directoryPath));
+//
+//        if (isStoppingEnabled) {
+//            builder.withStopwords(loadedStopwords);
+//        }
+//
+//        if (isStemmingEnabled) {
+//            builder.withStemmer(PortugueseStemmer.class);
+//        }
+//
+//        if (ignoreCase) {
+//            builder.ignoreCase();
+//        }
+//
+//        this.collection = builder.buildInFolders(outputIndexFolder, outputDocumentsFolder);
+//    }
+//
+//
+//    /**
+//     * Processes the specified string as a search and searches this context
+//     * collection.
+//     */
+//    public QueryResult searchCollection(MutableString queryText, int slop) {
+//
+//        QueryBuilder builder = QueryBuilder.newBuilder();
+//        builder.withText(queryText);
+//        builder.withSlop(slop);
+//
+//        if (isStoppingEnabled) {
+//            builder.withStopwords(loadedStopwords);
+//        }
+//
+//        if (isStemmingEnabled) {
+//            builder.withStemmer(PortugueseStemmer.class);
+//        }
+//
+//        if (ignoreCase) {
+//            builder.ignoreCase();
+//        }
+//
+//        Query query = builder.build();
+//
+//        return collection.search(query);
+//    }
 
-        if (isStoppingEnabled) {
-            builder.withStopwords(loadedStopwords);
-        }
-
-        if (isStemmingEnabled) {
-            builder.withStemmer(PortugueseStemmer.class);
-        }
-
-        if (ignoreCase) {
-            builder.ignoreCase();
-        }
-
-        this.collection = builder.buildInFolders(outputIndexFolder, outputDocumentsFolder);
-    }
-
-
-    /**
-     * Processes the specified string as a search and searches this context
-     * collection.
-     */
-    public QueryResult searchCollection(MutableString queryText, int slop) {
-
-        QueryBuilder builder = QueryBuilder.newBuilder();
-        builder.withText(queryText);
-        builder.withSlop(slop);
-
-        if (isStoppingEnabled) {
-            builder.withStopwords(loadedStopwords);
-        }
-
-        if (isStemmingEnabled) {
-            builder.withStemmer(PortugueseStemmer.class);
-        }
-
-        if (ignoreCase) {
-            builder.ignoreCase();
-        }
-
-        Query query = builder.build();
-
-        return collection.search(query);
+    public MongoClient getMongoClient() {
+        return mongoClient;
     }
 }

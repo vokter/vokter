@@ -1,7 +1,7 @@
 package argus.query;
 
-import argus.index.Document;
-import argus.index.Term;
+import argus.document.Document;
+import argus.term.Term;
 import com.google.common.collect.LinkedHashMultimap;
 
 /**
