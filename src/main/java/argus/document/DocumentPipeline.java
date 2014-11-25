@@ -4,7 +4,7 @@ import argus.cleaner.AndCleaner;
 import argus.cleaner.Cleaner;
 import argus.cleaner.DiacriticCleaner;
 import argus.cleaner.SpecialCharsCleaner;
-import argus.langdetect.LangDetectException;
+import argus.langdetect.LanguageDetectorException;
 import argus.langdetect.LanguageDetector;
 import argus.langdetect.LanguageDetectorFactory;
 import argus.reader.Reader;
@@ -162,7 +162,7 @@ public class DocumentPipeline implements Callable<Document> {
 
             return document;
 
-        } catch (IOException | ReflectiveOperationException | LangDetectException ex) {
+        } catch (IOException | ReflectiveOperationException | LanguageDetectorException ex) {
             throw new RuntimeException(ex);
         }
     }

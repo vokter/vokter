@@ -1,6 +1,6 @@
-package argus.stemmer.snowball;
+package argus.stemmer;
 
-import argus.stemmer.Stemmer;
+import argus.stemmer.snowball.Among;
 import it.unimi.dsi.lang.MutableString;
 
 import java.lang.reflect.InvocationTargetException;
@@ -11,7 +11,7 @@ import java.lang.reflect.InvocationTargetException;
  * since mutable strings perform byte allocation instead of instantiating new
  * immutable string each time a modification is performed (as the Java String does).
  */
-public abstract class AbstractSnowballStemmer implements Stemmer {
+public abstract class SnowballStemmer implements Stemmer {
 
     // current string
     protected MutableString current;
@@ -22,7 +22,7 @@ public abstract class AbstractSnowballStemmer implements Stemmer {
     protected int bra;
     protected int ket;
 
-    protected AbstractSnowballStemmer() {
+    protected SnowballStemmer() {
         current = null;
     }
 
@@ -53,7 +53,7 @@ public abstract class AbstractSnowballStemmer implements Stemmer {
         ket = limit;
     }
 
-    protected void copy_from(AbstractSnowballStemmer other) {
+    protected void copy_from(SnowballStemmer other) {
         current = other.current;
         cursor = other.cursor;
         limit = other.limit;

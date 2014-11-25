@@ -107,7 +107,7 @@ public class Command {
             Long seed = getLong("seed");
             if (seed != null) LanguageDetectorFactory.setSeed(seed);
             return false;
-        } catch (LangDetectException e) {
+        } catch (LanguageDetectorException e) {
             System.err.println("ERROR: " + e.getMessage());
             return true;
         }
@@ -142,7 +142,7 @@ public class Command {
                 e.printStackTrace();
             } catch (IOException e) {
                 e.printStackTrace();
-            } catch (LangDetectException e) {
+            } catch (LanguageDetectorException e) {
                 e.printStackTrace();
             } finally {
                 try {
@@ -189,7 +189,7 @@ public class Command {
             e.printStackTrace();
         } catch (IOException e) {
             e.printStackTrace();
-        } catch (LangDetectException e) {
+        } catch (LanguageDetectorException e) {
             e.printStackTrace();
         } finally {
             try {
@@ -219,7 +219,7 @@ public class Command {
                 System.out.println(filename + ":" + detector.getProbabilities());
             } catch (IOException e) {
                 e.printStackTrace();
-            } catch (LangDetectException e) {
+            } catch (LanguageDetectorException e) {
                 e.printStackTrace();
             } finally {
                 try {
@@ -272,7 +272,7 @@ public class Command {
                 
             } catch (IOException e) {
                 e.printStackTrace();
-            } catch (LangDetectException e) {
+            } catch (LanguageDetectorException e) {
                 e.printStackTrace();
             } finally {
                 try {

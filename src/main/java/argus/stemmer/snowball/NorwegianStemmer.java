@@ -2,6 +2,7 @@
 
 package argus.stemmer.snowball;
 
+import argus.stemmer.SnowballStemmer;
 import argus.stemmer.Stemmer;
 
 /**
@@ -9,7 +10,7 @@ import argus.stemmer.Stemmer;
  * It implements the stemming algorithm defined by a snowball script.
  */
 
-public class NorwegianStemmer extends AbstractSnowballStemmer implements Stemmer {
+public class NorwegianStemmer extends SnowballStemmer implements Stemmer {
 
     private static final long serialVersionUID = 1L;
 

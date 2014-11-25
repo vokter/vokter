@@ -1,5 +1,7 @@
 package argus.stemmer.snowball;
 
+import argus.stemmer.SnowballStemmer;
+
 import java.lang.reflect.Method;
 
 public class Among {
@@ -9,11 +11,11 @@ public class Among {
     public final int substring_i; /* index to longest matching substring */
     public final int result; /* result of the lookup */
     public final Method method; /* method to use if substring matches */
-    public final AbstractSnowballStemmer methodobject; /* object to invoke method on */
+    public final SnowballStemmer methodobject; /* object to invoke method on */
 
 
     public Among(String s, int substring_i, int result,
-                 String methodname, AbstractSnowballStemmer methodobject) {
+                 String methodname, SnowballStemmer methodobject) {
 
         this.s_size = s.length();
         this.s = s.toCharArray();

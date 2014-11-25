@@ -12,7 +12,7 @@ import argus.langdetect.util.LangProfile;
 import net.arnx.jsonic.JSON;
 import net.arnx.jsonic.JSONException;
 
-import static argus.langdetect.LangDetectException.*;
+import static argus.langdetect.LanguageDetectorException.*;
 
 /**
  * Language Detector Factory Class
@@ -49,10 +49,10 @@ public class LanguageDetectorFactory {
      * This method must be called once before language detection.
      *  
      * @param profileDirectory profile directory path
-     * @throws LangDetectException  Can't open profiles(error code = {@link ErrorCode#FileLoadError})
+     * @throws LanguageDetectorException  Can't open profiles(error code = {@link ErrorCode#FileLoadError})
      *                              or profile's format is wrong (error code = {@link ErrorCode#FormatError})
      */
-    public static void loadProfile(String profileDirectory) throws LangDetectException {
+    public static void loadProfile(String profileDirectory) throws LanguageDetectorException {
         loadProfile(new File(profileDirectory));
     }
 
@@ -61,13 +61,13 @@ public class LanguageDetectorFactory {
      * This method must be called once before language detection.
      *  
      * @param profileDirectory profile directory path
-     * @throws LangDetectException  Can't open profiles(error code = {@link ErrorCode#FileLoadError})
+     * @throws LanguageDetectorException  Can't open profiles(error code = {@link ErrorCode#FileLoadError})
      *                              or profile's format is wrong (error code = {@link ErrorCode#FormatError})
      */
-    public static void loadProfile(File profileDirectory) throws LangDetectException {
+    public static void loadProfile(File profileDirectory) throws LanguageDetectorException {
         File[] listFiles = profileDirectory.listFiles();
         if (listFiles == null)
-            throw new LangDetectException(ErrorCode.NeedLoadProfileError, "Not found profile: " + profileDirectory);
+            throw new LanguageDetectorException(ErrorCode.NeedLoadProfileError, "Not found profile: " + profileDirectory);
             
         int langsize = listFiles.length, index = 0;
         for (File file: listFiles) {
@@ -79,9 +79,9 @@ public class LanguageDetectorFactory {
                 addProfile(profile, index, langsize);
                 ++index;
             } catch (JSONException e) {
-                throw new LangDetectException(ErrorCode.FormatError, "profile format error in '" + file.getName() + "'");
+                throw new LanguageDetectorException(ErrorCode.FormatError, "profile format error in '" + file.getName() + "'");
             } catch (IOException e) {
-                throw new LangDetectException(ErrorCode.FileLoadError, "can't open '" + file.getName() + "'");
+                throw new LanguageDetectorException(ErrorCode.FileLoadError, "can't open '" + file.getName() + "'");
             } finally {
                 try {
                     if (is!=null) is.close();
@@ -94,14 +94,14 @@ public class LanguageDetectorFactory {
      * Load profiles from specified directory.
      * This method must be called once before language detection.
      *  
-     * @throws LangDetectException  Can't open profiles(error code = {@link ErrorCode#FileLoadError})
+     * @throws LanguageDetectorException  Can't open profiles(error code = {@link ErrorCode#FileLoadError})
      *                              or profile's format is wrong (error code = {@link ErrorCode#FormatError})
      */
-    public static void loadProfile(List<String> json_profiles) throws LangDetectException {
+    public static void loadProfile(List<String> json_profiles) throws LanguageDetectorException {
         int index = 0;
         int langsize = json_profiles.size();
         if (langsize < 2)
-            throw new LangDetectException(ErrorCode.NeedLoadProfileError, "Need more than 2 profiles");
+            throw new LanguageDetectorException(ErrorCode.NeedLoadProfileError, "Need more than 2 profiles");
             
         for (String json: json_profiles) {
             try {
@@ -109,7 +109,7 @@ public class LanguageDetectorFactory {
                 addProfile(profile, index, langsize);
                 ++index;
             } catch (JSONException e) {
-                throw new LangDetectException(ErrorCode.FormatError, "profile format error");
+                throw new LanguageDetectorException(ErrorCode.FormatError, "profile format error");
             }
         }
     }
@@ -118,12 +118,12 @@ public class LanguageDetectorFactory {
      * @param profile
      * @param langsize 
      * @param index 
-     * @throws LangDetectException 
+     * @throws LanguageDetectorException
      */
-    public static void addProfile(LangProfile profile, int index, int langsize) throws LangDetectException {
+    public static void addProfile(LangProfile profile, int index, int langsize) throws LanguageDetectorException {
         String lang = profile.name;
         if (instance_.langlist.contains(lang)) {
-            throw new LangDetectException(ErrorCode.DuplicateLangError, "duplicate the same language profile");
+            throw new LanguageDetectorException(ErrorCode.DuplicateLangError, "duplicate the same language profile");
         }
         instance_.langlist.add(lang);
         for (String word: profile.freq.keySet()) {
@@ -150,9 +150,9 @@ public class LanguageDetectorFactory {
      * Construct Detector instance
      * 
      * @return Detector instance
-     * @throws LangDetectException 
+     * @throws LanguageDetectorException
      */
-    static public LanguageDetector create() throws LangDetectException {
+    static public LanguageDetector create() throws LanguageDetectorException {
         return createDetector();
     }
 
@@ -161,17 +161,17 @@ public class LanguageDetectorFactory {
      * 
      * @param alpha smoothing parameter (default value = 0.5)
      * @return Detector instance
-     * @throws LangDetectException 
+     * @throws LanguageDetectorException
      */
-    public static LanguageDetector create(double alpha) throws LangDetectException {
+    public static LanguageDetector create(double alpha) throws LanguageDetectorException {
         LanguageDetector detector = createDetector();
         detector.setAlpha(alpha);
         return detector;
     }
 
-    static private LanguageDetector createDetector() throws LangDetectException {
+    static private LanguageDetector createDetector() throws LanguageDetectorException {
         if (instance_.langlist.size() == 0) {
-            throw new LangDetectException(ErrorCode.NeedLoadProfileError, "need to load profiles");
+            throw new LanguageDetectorException(ErrorCode.NeedLoadProfileError, "need to load profiles");
         }
         return new LanguageDetector(instance_);
     }
