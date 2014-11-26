@@ -27,7 +27,7 @@
     <build>
         <directory>../target</directory>
         <outputDirectory>../target/readers</outputDirectory>
-        <finalName>${artifactId}-${version}</finalName>
+        <finalName>${project.artifactId}-${project.version}</finalName>
         <sourceDirectory>src/main/java</sourceDirectory>
         <testSourceDirectory>src/test/java</testSourceDirectory>
 
@@ -87,6 +87,7 @@
             <groupId>argus</groupId>
             <artifactId>argus-core</artifactId>
             <version>1.2.0</version>
+            <optional>true</optional>
         </dependency>
 
         <dependency>

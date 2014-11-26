@@ -2,7 +2,7 @@ language: java
 jdk:
   - oraclejdk8
 
-before_install: mvn -P ci clean install
+before_install: mvn clean compile
 
 after_success:
   - mvn clean test jacoco:report coveralls:report
