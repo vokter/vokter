@@ -5,7 +5,11 @@
                              http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>argus</groupId>
+    <parent>
+        <groupId>argus</groupId>
+        <artifactId>argus-parent</artifactId>
+        <version>1.2.0</version>
+    </parent>
     <artifactId>argus-readers</artifactId>
     <version>1.2.0</version>
 
