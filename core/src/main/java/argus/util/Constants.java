@@ -1,6 +1,6 @@
 package argus.util;
 
-import argus.Main;
+import argus.Context;
 
 import java.io.File;
 
@@ -17,7 +17,7 @@ public class Constants {
             + "main";
 
     public static final File INSTALL_DIR = new File(
-            Main.class.getProtectionDomain()
+            Context.class.getProtectionDomain()
                     .getCodeSource()
                     .getLocation()
                     .getPath())
@@ -38,6 +38,9 @@ public class Constants {
 
     public static final File DOCUMENTS_DIR =
             new File(INSTALL_DIR, "documents");
+
+    public static final File GDEP_DIR =
+            new File(INSTALL_DIR, "gdep");
 
     public static final File TERMS_DIR =
             new File(INSTALL_DIR, "mongodb");

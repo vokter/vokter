@@ -75,12 +75,12 @@ public final class Term extends BasicDBObject {
 //            int pos = Integer.parseInt(posString);
 //
 //            String startString = oArgs[1];
-//            int start = Integer.parseInt(startString);
+//            int startServer = Integer.parseInt(startString);
 //
 //            String endString = oArgs[2];
 //            int end = Integer.parseInt(endString);
 //
-//            term.occurrences.add(new Occurrence(term, pos, start, end));
+//            term.occurrences.add(new Occurrence(term, pos, startServer, end));
 //        }
 //        return term;
 //    }

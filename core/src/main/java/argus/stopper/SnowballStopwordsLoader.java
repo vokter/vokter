@@ -34,6 +34,7 @@ public class SnowballStopwordsLoader implements StopwordsLoader {
             this.stopwords = loadSnowballFile(new FileInputStream(
                     new File(Constants.STOPWORDS_DIR, language)
             ));
+            System.out.println(stopwords.toString());
         } catch (FileNotFoundException e) {
             this.stopwords = Collections.emptySet();
         }

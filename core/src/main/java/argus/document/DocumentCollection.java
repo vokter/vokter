@@ -1,6 +1,8 @@
 package argus.document;
 
 import org.cache2k.Cache;
+import org.cache2k.PropagatedCacheException;
+import org.cache2k.impl.CacheLockSpinsExceededError;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -21,7 +23,7 @@ public final class DocumentCollection {
     /**
      * Local and cached map of document IDs (integers) to document objects.
      */
-    private final Cache<Long, Document> documents;
+    private final Cache<String, Document> documents;
 
     /**
      * The total number of documents in the collection.
@@ -29,7 +31,7 @@ public final class DocumentCollection {
     private final int N;
 
 
-    public DocumentCollection(final Cache<Long, Document> documents,
+    public DocumentCollection(final Cache<String, Document> documents,
                               final int N) {
         this.documents = documents;
         this.N = N;
@@ -50,16 +52,16 @@ public final class DocumentCollection {
      * Converts the specified document id into a document object, by reading it
      * from its local file / cache.
      */
-    public Document getDocumentForId(Long documentId) {
-//        try {
+    public Document getDocumentForId(String documentUrl) {
+        try {
         // the 'get' method will look for any document in the local files or
         // temporary cache that is equal to the specified id
-        return documents.get(documentId);
-//        } catch (ExecutionException | CacheLoader.InvalidCacheLoadException ex) {
+        return documents.get(documentUrl);
+        } catch (PropagatedCacheException | CacheLockSpinsExceededError ex) {
 //            // if this exception occurs, then no occurrences of the specified
 //            // document were found in this collection
-//            return null;
-//        }
+            return null;
+        }
     }
 
 

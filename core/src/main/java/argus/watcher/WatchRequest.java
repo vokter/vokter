@@ -2,6 +2,7 @@ package argus.watcher;
 
 import org.codehaus.jackson.annotate.JsonProperty;
 
+import java.util.List;
 import java.util.Set;
 
 /**
@@ -14,13 +15,16 @@ import java.util.Set;
 public class WatchRequest {
 
     @JsonProperty
-    private String responseUrl;
-
-    @JsonProperty
     private String documentUrl;
 
     @JsonProperty
-    private Set<String> keywords;
+    private List<String> keywords;
+
+    @JsonProperty
+    private int interval;
+
+    @JsonProperty
+    private String responseUrl;
 
 
     public String getDocumentUrl() {
@@ -28,12 +32,17 @@ public class WatchRequest {
     }
 
 
-    public String getResponseUrl() {
-        return responseUrl;
+    public List<String> getKeywords() {
+        return keywords;
     }
 
 
-    public Set<String> getKeywords() {
-        return keywords;
+    public int getInterval() {
+        return interval;
+    }
+
+
+    public String getResponseUrl() {
+        return responseUrl;
     }
 }

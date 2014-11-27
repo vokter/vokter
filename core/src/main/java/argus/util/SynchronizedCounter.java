@@ -29,4 +29,8 @@ public final class SynchronizedCounter {
             }
         }
     }
+
+    public void reset() {
+        sNextGeneratedId.set(1);
+    }
 }

@@ -1,8 +1,9 @@
 package argus.util;
 
-import argus.Main;
+import argus.Context;
 import argus.reader.Reader;
 import argus.stemmer.Stemmer;
+import it.unimi.dsi.lang.MutableString;
 import org.apache.commons.io.output.ByteArrayOutputStream;
 import org.apache.commons.lang3.tuple.Pair;
 import org.cache2k.Cache;
@@ -98,7 +99,7 @@ public class DynamicClassLoader {
         public static Class loadPlugin(Path pluginFile)
                 throws ClassNotFoundException, IOException {
 
-            PluginLoader loader = new PluginLoader(Main.class.getClassLoader());
+            PluginLoader loader = new PluginLoader(Context.class.getClassLoader());
 
             String url = "file:" + pluginFile.toAbsolutePath().toString();
             URL myUrl = new URL(url);
@@ -116,10 +117,10 @@ public class DynamicClassLoader {
 
             byte[] classData = buffer.toByteArray();
 
-            String s = pluginFile.getFileName().toString();
+            MutableString s = new MutableString(pluginFile.getFileName().toString());
             try {
                 Class loadedClass = loader.defineClass(
-                        "argus." + s.substring(0, s.lastIndexOf(".")),
+                        "argus." + s.replace(".class", "").toString(),
                         classData,
                         0,
                         classData.length
@@ -175,7 +176,7 @@ public class DynamicClassLoader {
                 try {
                     Class loadedClass = PluginLoader.loadPlugin(pluginFile);
                     if (loadedClass != null &&
-                            Reader.class.isAssignableFrom(loadedClass) &&
+                            argus.reader.Reader.class.isAssignableFrom(loadedClass) &&
                             !Modifier.isAbstract(loadedClass.getModifiers()) &&
                             !Modifier.isInterface(loadedClass.getModifiers())) {
                         return loadedClass;

@@ -1,7 +1,8 @@
 package argus.rest.resources;
 
-import argus.rest.Context;
+import argus.Context;
 import argus.rest.QueryRequest;
+import argus.watcher.WatchRequest;
 import com.google.gson.Gson;
 import com.google.gson.JsonSyntaxException;
 import it.unimi.dsi.lang.MutableString;
@@ -41,10 +42,13 @@ public class RestResource {
     @Produces(MediaType.TEXT_HTML)
     public Response search(String searchRequestJSON) throws ExecutionException {
         try {
-            QueryRequest searchRequest = new Gson().fromJson(searchRequestJSON, QueryRequest.class);
+            WatchRequest watchRequest = new Gson().fromJson(searchRequestJSON, WatchRequest.class);
 
-            MutableString queryText = new MutableString(searchRequest.query);
-            int slop = searchRequest.slop;
+            MutableString queryText = new MutableString(watchRequest.getDocumentUrl());
+            int slop = watchRequest.getInterval();
+
+            logger.info(queryText + " " + slop + " " + watchRequest.getKeywords().toString());
+
 
             StringBuilder sb = new StringBuilder();
 //            QueryResult results = Context

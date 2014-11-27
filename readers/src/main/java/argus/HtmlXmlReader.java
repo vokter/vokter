@@ -1,6 +1,5 @@
 package argus;
 
-import argus.reader.Reader;
 import com.google.common.collect.ImmutableSet;
 import it.unimi.dsi.lang.MutableString;
 import org.jsoup.Jsoup;
@@ -20,7 +19,7 @@ import java.io.InputStream;
  * @author Eduardo Duarte (<a href="mailto:eduardo.miguel.duarte@gmail.com">eduardo.miguel.duarte@gmail.com</a>)
  * @version 2.0
  */
-public class HtmlXmlReader implements Reader, NodeVisitor  {
+public class HtmlXmlReader implements argus.reader.Reader, NodeVisitor  {
 
     private static final int maxWidth = 80;
     private int width;
@@ -44,28 +43,6 @@ public class HtmlXmlReader implements Reader, NodeVisitor  {
         plainText = plainText.replaceAll("<.*?>", "");
 
         return new MutableString(plainText);
-
-//        LineIterator it = IOUtils.lineIterator(new InputStreamReader(documentStream));
-//        MutableString sb = new MutableString();
-//
-//        while (it.hasNext()) {
-//            String processedLine = it.next();
-//
-//            processedLine = processedLine.replaceAll("</.*?>", " ");
-//            processedLine = processedLine.replaceAll("<.*?>", " ");
-//            processedLine = processedLine.replaceAll("<.*?/>", " ");
-//
-//            processedLine = processedLine.trim();
-//
-//            sb.append(processedLine);
-//
-//            if (it.hasNext()) {
-//                sb.append(" ");
-//            }
-//        }
-//
-//        it.close();
-//        return sb.compact();
     }
 
     @Override
@@ -90,7 +67,6 @@ public class HtmlXmlReader implements Reader, NodeVisitor  {
         } else if (name.equals("li")) {
             this.append("\n * ");
         }
-
     }
 
     public void tail(Node node, int depth) {
@@ -102,7 +78,6 @@ public class HtmlXmlReader implements Reader, NodeVisitor  {
         } else if (name.equals("a")) {
             this.append(String.format(" <%s>", new Object[]{node.absUrl("href")}));
         }
-
     }
 
     private void append(String text) {
