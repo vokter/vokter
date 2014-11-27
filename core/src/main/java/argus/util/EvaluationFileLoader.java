@@ -3,6 +3,7 @@ package argus.util;
 import argus.evaluation.EvaluationParam;
 import com.google.common.collect.ImmutableList;
 import org.apache.commons.io.IOUtils;
+import org.apache.commons.lang3.StringUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -13,8 +14,6 @@ import java.util.List;
 import java.util.Objects;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-
-import static org.apache.commons.lang3.StringUtils.split;
 
 /**
  * A loader class that parses a evaluation file, containing queries and
@@ -59,7 +58,7 @@ public class EvaluationFileLoader {
                     sortedDocuments.add(line);
 
                 } else if (!line.isEmpty()) {
-                    String[] s = split(line, ':');
+                    String[] s = StringUtils.split(line, ':');
                     if (Objects.equals(s[0], "Q")) {
                         isParsing = true;
 

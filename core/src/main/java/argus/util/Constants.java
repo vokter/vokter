@@ -39,11 +39,11 @@ public class Constants {
     public static final File DOCUMENTS_DIR =
             new File(INSTALL_DIR, "documents");
 
-    public static final File GDEP_DIR =
-            new File(INSTALL_DIR, "gdep");
-
     public static final File TERMS_DIR =
             new File(INSTALL_DIR, "mongodb");
+
+    public static final File PARSER_DIR =
+            new File(INSTALL_DIR, "parser");
 
     public static long difference(long n1, long n2) {
         long result = n1 - n2;

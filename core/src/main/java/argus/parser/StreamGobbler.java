@@ -1,14 +1,12 @@
 package argus.parser;
 
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
-
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
 
 /**
- * Map the input and output data to run external executables.
+ * An input and output data exchanger between the application and an external
+ * executable.
  *
  * @author Eduardo Duarte (<a href="mailto:eduardo.miguel.duarte@gmail.com">eduardo.miguel.duarte@gmail.com</a>)
  * @version 1.0
@@ -16,33 +14,19 @@ import java.io.OutputStream;
  */
 public class StreamGobbler implements Runnable {
 
-    /**
-     * {@link Logger} to be used in the class.
-     */
-    private static Logger logger = LoggerFactory.getLogger(StreamGobbler.class);
-    /**
-     * Input data.
-     */
-    private InputStream is;
-    /**
-     * Output data.
-     */
-    private OutputStream os;
+    private final InputStream is;
+    private final OutputStream os;
 
-    /**
-     * Constructor.
-     *
-     * @param is Input data
-     * @param os Output data
-     */
+
     public StreamGobbler(InputStream is, OutputStream os) {
         this.is = is;
         this.os = os;
     }
 
     /**
-     * Map the input and output data.
+     * Maps the input and output data.
      */
+    @Override
     public void run() {
         try {
             byte[] buffer = new byte[1 << 12];

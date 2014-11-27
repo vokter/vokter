@@ -1,6 +1,7 @@
 package argus.stopper;
 
-import argus.tokenizer.Tokenizer;
+import argus.parser.ParserResult;
+import argus.parser.SimpleParser;
 import argus.util.Constants;
 import com.google.common.collect.ImmutableSet;
 import it.unimi.dsi.lang.MutableString;
@@ -9,10 +10,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import java.io.*;
-import java.util.Collections;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
+import java.util.*;
 
 /**
  * TODO
@@ -36,22 +34,22 @@ public class SnowballStopwordsLoader implements StopwordsLoader {
                 if (!line.isEmpty()) {
                     int indexOfPipe = line.indexOf('|');
 
-                    MutableString stopword;
+                    MutableString stopwordLine;
                     if (indexOfPipe == -1) {
                         // there are no pipes in this line
                         // -> add the whole line as a stopword
-                        stopword = new MutableString(line);
+                        stopwordLine = new MutableString(line);
 
                     } else if (indexOfPipe > 0) {
                         // there is a pipe in this line and it's not the first char
                         // -> add everything from index 0 to the pipe's index
                         String word = line.substring(0, indexOfPipe).trim();
-                        stopword = new MutableString(word);
+                        stopwordLine = new MutableString(word);
                     } else {
                         return;
                     }
 
-                    List<Tokenizer.Result> results = new Tokenizer().tokenize(stopword);
+                    List<ParserResult> results = new SimpleParser().parse(stopwordLine);
                     results.parallelStream().map(sw -> sw.text).forEach(stopwords::add);
                 }
             });

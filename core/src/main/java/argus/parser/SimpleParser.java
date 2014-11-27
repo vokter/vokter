@@ -1,4 +1,4 @@
-package argus.tokenizer;
+package argus.parser;
 
 import argus.stemmer.Stemmer;
 import argus.stopper.StopwordsLoader;
@@ -15,35 +15,35 @@ import java.util.List;
  * @author Eduardo Duarte (<a href="mailto:eduardo.miguel.duarte@gmail.com">eduardo.miguel.duarte@gmail.com</a>)
  * @version 2.0
  */
-public class Tokenizer {
+public class SimpleParser {
 
     private char separator;
     private StopwordsLoader stopwordsLoader;
     private Stemmer stemmer;
     private boolean ignoreCase = false;
 
-    public Tokenizer() {
+    public SimpleParser() {
         this(' ');
     }
 
-    public Tokenizer(char separator) {
+    public SimpleParser(char separator) {
         this.separator = separator;
     }
 
-    public void enableStopwords(final StopwordsLoader stopwordsLoader) {
+    public void setupStopwords(final StopwordsLoader stopwordsLoader) {
         this.stopwordsLoader = stopwordsLoader;
     }
 
-    public void enableStemming(final Stemmer stemmer) {
+    public void setupStemming(final Stemmer stemmer) {
         this.stemmer = stemmer;
     }
 
-    public void setIgnoreCase(boolean ignoreCase) {
+    public void setupIgnoreCase(boolean ignoreCase) {
         this.ignoreCase = ignoreCase;
     }
 
-    public List<Result> tokenize(MutableString text) {
-        List<Result> retrievedTokens = new ArrayList<>();
+    public List<ParserResult> parse(MutableString text) {
+        List<ParserResult> retrievedTokens = new ArrayList<>();
 
 
         boolean loop = true;
@@ -80,7 +80,7 @@ public class Tokenizer {
             }
 
             // checks if the text is a stopword
-            // if true, do not stem it nor add it to the Result list
+            // if true, do not stem it nor add it to the ParserResult list
             boolean isStopword = false;
             if (stopwordsLoader != null) {
                 MutableString textToTest = termText;
@@ -96,7 +96,7 @@ public class Tokenizer {
                     stemmer.stem(termText);
                 }
 
-                retrievedTokens.add(new Result(count, startIndex, endIndex, termText));
+                retrievedTokens.add(new ParserResult(count, startIndex, endIndex, termText));
             }
 
             count++;
@@ -104,28 +104,5 @@ public class Tokenizer {
         }
 
         return retrievedTokens;
-    }
-
-
-    /**
-     * Represents a tokenization result, providing access to a token's phrase
-     * position, startServer position, end position and text.
-     */
-    public static class Result {
-
-        public final int count;
-        public final int start;
-        public final int end;
-        public final MutableString text;
-
-        private Result(final int count,
-                       final int start,
-                       final int end,
-                       final MutableString text) {
-            this.count = count;
-            this.start = start;
-            this.end = end;
-            this.text = text;
-        }
     }
 }

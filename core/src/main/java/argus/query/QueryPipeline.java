@@ -49,16 +49,16 @@ public class QueryPipeline implements Runnable {
 //            Tokenizer tokenizer = new Tokenizer();
 //
 //            if (isStopwordEnabled) {
-//                tokenizer.enableStopwords(stopwords);
+//                tokenizer.setupStopwords(stopwords);
 //            }
 //
 //            if (stemmerClass != null) {
 //                Stemmer stemmer = stemmerClass.newInstance();
-//                tokenizer.enableStemming(stemmer);
+//                tokenizer.setupStemming(stemmer);
 //            }
 //
 //            if (ignoreCase) {
-//                tokenizer.setIgnoreCase();
+//                tokenizer.setupIgnoreCase();
 //            }
 //
 //            // filters irrelevant characters from the search
@@ -66,7 +66,7 @@ public class QueryPipeline implements Runnable {
 //
 //
 //            // tokenizes the input text
-//            List<Tokenizer.Result> results = tokenizer.tokenize(queryInput);
+//            List<Tokenizer.Result> results = tokenizer.parse(queryInput);
 //
 //
 //            // add the tokenizer results as search terms

@@ -7,12 +7,13 @@ import com.aliasi.sentences.SentenceChunker;
 import com.aliasi.sentences.SentenceModel;
 import com.aliasi.tokenizer.IndoEuropeanTokenizerFactory;
 import com.aliasi.tokenizer.TokenizerFactory;
+import it.unimi.dsi.lang.MutableString;
 
 import java.util.Iterator;
 import java.util.Set;
 
 /**
- * Lingpipe implementation of a sentence splitter.
+ * High-performance implementation of a sentence splitter using Lingpipe toolkit.
  *
  * @author Eduardo Duarte (<a href="mailto:eduardo.miguel.duarte@gmail.com">eduardo.miguel.duarte@gmail.com</a>)
  * @version 1.0
@@ -32,7 +33,7 @@ public class SentenceSplitter {
     }
 
 
-    public int[][] split(String text) {
+    public int[][] split(MutableString text) {
 
         Chunking chunking = SENTENCE_CHUNKER.chunk(text.toCharArray(), 0, text.length());
         Set<Chunk> sentences = chunking.chunkSet();

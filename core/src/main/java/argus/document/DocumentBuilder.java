@@ -1,5 +1,6 @@
 package argus.document;
 
+import argus.parser.GeniaParser;
 import argus.term.Term;
 import argus.util.DynamicClassLoader;
 import com.google.common.base.Stopwatch;
@@ -18,7 +19,6 @@ import java.net.URL;
 import java.text.DecimalFormat;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ConcurrentMap;
-import java.util.concurrent.atomic.AtomicReference;
 import java.util.function.Supplier;
 
 /**
@@ -34,6 +34,15 @@ import java.util.function.Supplier;
 public final class DocumentBuilder {
 
     private static final Logger logger = LoggerFactory.getLogger(DocumentBuilder.class);
+
+    private static final GeniaParser parser = new GeniaParser();
+    static {
+        try {
+            parser.launch();
+        } catch (IOException e) {
+            logger.error(e.getMessage(), e);
+        }
+    }
 
     private final Stopwatch sw;
     private final Supplier<DocumentInput> documentLazySupplier;
@@ -149,11 +158,6 @@ public final class DocumentBuilder {
         sw.start();
 
 
-        // step 1) create a temporary in-memory document structure, which will be
-        //         saved to local files after indexing
-        AtomicReference<Document> documentAtom = new AtomicReference<>();
-
-
         // step 2) Create a temporary in-memory term structure, which will be
         //         saved to local files after indexing
         ConcurrentMap<MutableString, Term> documentTerms = new ConcurrentHashMap<>();
@@ -184,14 +188,13 @@ public final class DocumentBuilder {
         //         required modules, improving performance of parallel jobs.
         DocumentPipeline pipeline = new DocumentPipeline(
 
-                // general structure that holds the collected documentAtom
-                documentAtom,
-
                 // general structure that holds the created tokens
                 documentTerms,
 
                 // the input document info, including its path and InputStream
                 input,
+
+                parser,
 
                 // flag that sets that stopwords will be filtered during
                 // tokenization
