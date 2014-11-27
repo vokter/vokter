@@ -22,10 +22,7 @@ import java.io.*;
 import java.security.ProtectionDomain;
 import java.util.Map;
 import java.util.Set;
-import java.util.concurrent.Executors;
-import java.util.concurrent.ScheduledExecutorService;
-import java.util.concurrent.ScheduledFuture;
-import java.util.concurrent.TimeUnit;
+import java.util.concurrent.*;
 
 
 public class Context
@@ -42,7 +39,7 @@ public class Context
 
     private ScheduledExecutorService executor;
 
-    private Map<String, ScheduledFuture<?>> watchExecutions;
+    private Map<String, ScheduledFuture<?>> watchExecutions = new ConcurrentHashMap<>();
 
 
     /**
@@ -220,11 +217,13 @@ public class Context
                 .filter(handle -> handle != null)
                 .forEach(handle -> handle.cancel(true));
         watchExecutions.clear();
-        executor.shutdown();
-        try {
-            executor.awaitTermination(1, TimeUnit.MINUTES);
-        } catch (InterruptedException ex) {
-            logger.error(ex.getMessage(), ex);
+        if(!executor.isShutdown()) {
+            executor.shutdown();
+            try {
+                executor.awaitTermination(1, TimeUnit.MINUTES);
+            } catch (InterruptedException ex) {
+                logger.error(ex.getMessage(), ex);
+            }
         }
 
     }
