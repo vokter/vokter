@@ -3,12 +3,14 @@ jdk:
   - oraclejdk8
 
 before_install:
-- cd readers/
-- mvn clean compile
-- cd ../stemmers/
-- mvn compile
-- cd ../core/
+- cd core/
+- mvn clean install -Dmaven.test.skip=true
+- cd ../readers/
 - mvn install
+- cd ../stemmers/
+- mvn install
+- cd ../core/
+- mvn test
 
 install: true
 
