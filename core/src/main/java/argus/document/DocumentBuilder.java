@@ -92,24 +92,41 @@ public final class DocumentBuilder {
         });
     }
 
+    private static long folderSize(File directory) {
+        long length = 0;
+        File[] subFiles = directory.listFiles();
+        if (subFiles != null) {
+            for (File f : subFiles) {
+                length += f.isFile() ? f.length() : folderSize(f);
+            }
+        }
+        return length;
+    }
+
+    private static String fileSizeToString(long size) {
+        if (size <= 0) {
+            return "0 kb";
+        }
+
+        final String[] units = new String[]{"bytes", "KB", "MB", "GB", "TB"};
+        int digitGroups = (int) (Math.log10(size) / Math.log10(1024));
+        return new DecimalFormat("#,##0.#").format(size / Math.pow(1024, digitGroups)) + " " + units[digitGroups];
+    }
 
     public DocumentBuilder withStopwords() {
         this.isStoppingEnabled = true;
         return this;
     }
 
-
     public DocumentBuilder withStemming() {
         this.isStemmingEnabled = true;
         return this;
     }
 
-
     public DocumentBuilder ignoreCase() {
         this.ignoreCase = true;
         return this;
     }
-
 
     /**
      * Indexes the documents specified in the factory method and adds the index
@@ -281,28 +298,5 @@ public final class DocumentBuilder {
 //        logger.info("Document Disk size: " + documentDiskSize);
 
         return builtDocument;
-    }
-
-
-    private static long folderSize(File directory) {
-        long length = 0;
-        File[] subFiles = directory.listFiles();
-        if (subFiles != null) {
-            for (File f : subFiles) {
-                length += f.isFile() ? f.length() : folderSize(f);
-            }
-        }
-        return length;
-    }
-
-
-    private static String fileSizeToString(long size) {
-        if (size <= 0) {
-            return "0 kb";
-        }
-
-        final String[] units = new String[]{"bytes", "KB", "MB", "GB", "TB"};
-        int digitGroups = (int) (Math.log10(size) / Math.log10(1024));
-        return new DecimalFormat("#,##0.#").format(size / Math.pow(1024, digitGroups)) + " " + units[digitGroups];
     }
 }

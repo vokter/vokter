@@ -1,4 +1,4 @@
-package argus;
+package argus.stemmer.snowball;
 
 import java.lang.reflect.Method;
 

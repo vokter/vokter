@@ -95,6 +95,40 @@ public class LanguageDetector {
     }
 
     /**
+     * normalize probabilities and check convergence by the maximum probability
+     *
+     * @return maximum of probabilities
+     */
+    static private double normalizeProb(double[] prob) {
+        double maxp = 0, sump = 0;
+        for (int i = 0; i < prob.length; ++i) sump += prob[i];
+        for (int i = 0; i < prob.length; ++i) {
+            double p = prob[i] / sump;
+            if (maxp < p) maxp = p;
+            prob[i] = p;
+        }
+        return maxp;
+    }
+
+    /**
+     * unicode encoding (for verbose mode)
+     */
+    static private String unicodeEncode(String word) {
+        StringBuffer buf = new StringBuffer();
+        for (int i = 0; i < word.length(); ++i) {
+            char ch = word.charAt(i);
+            if (ch >= '\u0080') {
+                String st = Integer.toHexString(0x10000 + (int) ch);
+                while (st.length() < 4) st = "0" + st;
+                buf.append("\\u").append(st.subSequence(1, 5));
+            } else {
+                buf.append(ch);
+            }
+        }
+        return buf.toString();
+    }
+
+    /**
      * Set Verbose Mode(use for debug).
      */
     public void setVerbose() {
@@ -144,7 +178,6 @@ public class LanguageDetector {
     public void setMaxTextLength(int max_text_length) {
         this.max_text_length = max_text_length;
     }
-
 
     /**
      * Append the target text for language detection.
@@ -328,22 +361,6 @@ public class LanguageDetector {
     }
 
     /**
-     * normalize probabilities and check convergence by the maximum probability
-     *
-     * @return maximum of probabilities
-     */
-    static private double normalizeProb(double[] prob) {
-        double maxp = 0, sump = 0;
-        for (int i = 0; i < prob.length; ++i) sump += prob[i];
-        for (int i = 0; i < prob.length; ++i) {
-            double p = prob[i] / sump;
-            if (maxp < p) maxp = p;
-            prob[i] = p;
-        }
-        return maxp;
-    }
-
-    /**
      * @return language candidates order by probabilities descendently
      */
     private ArrayList<Language> sortProbability(double[] prob) {
@@ -360,24 +377,6 @@ public class LanguageDetector {
             }
         }
         return list;
-    }
-
-    /**
-     * unicode encoding (for verbose mode)
-     */
-    static private String unicodeEncode(String word) {
-        StringBuffer buf = new StringBuffer();
-        for (int i = 0; i < word.length(); ++i) {
-            char ch = word.charAt(i);
-            if (ch >= '\u0080') {
-                String st = Integer.toHexString(0x10000 + (int) ch);
-                while (st.length() < 4) st = "0" + st;
-                buf.append("\\u").append(st.subSequence(1, 5));
-            } else {
-                buf.append(ch);
-            }
-        }
-        return buf.toString();
     }
 
 }

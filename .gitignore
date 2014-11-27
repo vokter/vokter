@@ -4,6 +4,7 @@
 tomcat.*
 
 target
+logs
 
 #netbeans
 nbactions.xml

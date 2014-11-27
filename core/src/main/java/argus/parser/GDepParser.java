@@ -114,8 +114,8 @@ public class GDepParser implements AutoCloseable {
             bw = null;
             pc.destroy();
             System.gc();
-        }catch (IOException ex){
-            logger.error("Error terminating GDep parser: "+ex.toString());
+        } catch (IOException ex) {
+            logger.error("Error terminating GDep parser: " + ex.toString());
         }
     }
 

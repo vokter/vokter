@@ -2,10 +2,10 @@ package argus.watcher;
 
 import argus.Context;
 import argus.comparison.Discrepancy;
+import argus.comparison.DocumentComparison;
 import argus.document.Document;
 import argus.document.DocumentBuilder;
 import argus.document.DocumentCollection;
-import argus.comparison.DocumentComparison;
 import argus.util.SynchronizedCounter;
 
 import java.util.List;
@@ -54,7 +54,6 @@ public class Job implements Runnable {
 
         DocumentComparison comparator = new DocumentComparison();
         List<Discrepancy> discrepanciesFound = comparator.compare(oldSnapshot, currentSnapshot);
-
 
 
         documentUrl = null;

@@ -31,6 +31,7 @@ public class StreamGobbler implements Runnable {
 
     /**
      * Constructor.
+     *
      * @param is Input data
      * @param os Output data
      */
@@ -46,12 +47,11 @@ public class StreamGobbler implements Runnable {
         try {
             byte[] buffer = new byte[1 << 12];
             int c;
-            while (( c = is.read(buffer) ) != -1) {
+            while ((c = is.read(buffer)) != -1) {
                 os.write(buffer, 0, c);
                 os.flush();
             }
-        }
-        catch (IOException ex) {
+        } catch (IOException ex) {
             //logger.error("There was a problem writing the output.", ex);
             return;
         }

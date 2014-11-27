@@ -30,12 +30,12 @@ public class TagExtractor {
         tag_ = null;
     }
 
-    public void setTag(String tag) {
-        tag_ = tag;
-    }
-
     public String getTag() {
         return tag_;
+    }
+
+    public void setTag(String tag) {
+        tag_ = tag;
     }
 
     public void add(String line) {

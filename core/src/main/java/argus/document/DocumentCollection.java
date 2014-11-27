@@ -54,9 +54,9 @@ public final class DocumentCollection {
      */
     public Document getDocumentForId(String documentUrl) {
         try {
-        // the 'get' method will look for any document in the local files or
-        // temporary cache that is equal to the specified id
-        return documents.get(documentUrl);
+            // the 'get' method will look for any document in the local files or
+            // temporary cache that is equal to the specified id
+            return documents.get(documentUrl);
         } catch (PropagatedCacheException | CacheLockSpinsExceededError ex) {
 //            // if this exception occurs, then no occurrences of the specified
 //            // document were found in this collection

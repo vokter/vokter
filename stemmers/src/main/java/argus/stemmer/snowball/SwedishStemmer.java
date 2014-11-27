@@ -1,6 +1,6 @@
 // This file was generated automatically by the Snowball to Java compiler
 
-package argus;
+package argus.stemmer.snowball;
 
 import argus.stemmer.Stemmer;
 

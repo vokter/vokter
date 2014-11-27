@@ -32,6 +32,30 @@ public class Command {
     private ArrayList<String> arglist = new ArrayList<String>();
 
     /**
+     * Command Line Interface
+     *
+     * @param args command line arguments
+     */
+    public static void main(String[] args) {
+        Command command = new Command();
+        command.addOpt("-d", "directory", "./");
+        command.addOpt("-a", "alpha", "" + DEFAULT_ALPHA);
+        command.addOpt("-s", "seed", null);
+        command.addOpt("-l", "lang", null);
+        command.parse(args);
+
+        if (command.hasOpt("--genprofile")) {
+            command.generateProfile();
+        } else if (command.hasOpt("--genprofile-text")) {
+            command.generateProfileFromText();
+        } else if (command.hasOpt("--detectlang")) {
+            command.detectLang();
+        } else if (command.hasOpt("--batchtest")) {
+            command.batchTest();
+        }
+    }
+
+    /**
      * Command line easy parser
      *
      * @param args command line arguments
@@ -81,7 +105,6 @@ public class Command {
         return opt_without_value.contains(opt);
     }
 
-
     /**
      * File search (easy glob)
      *
@@ -95,7 +118,6 @@ public class Command {
         }
         return null;
     }
-
 
     /**
      * load profiles
@@ -310,30 +332,6 @@ public class Command {
 
         }
 
-    }
-
-    /**
-     * Command Line Interface
-     *
-     * @param args command line arguments
-     */
-    public static void main(String[] args) {
-        Command command = new Command();
-        command.addOpt("-d", "directory", "./");
-        command.addOpt("-a", "alpha", "" + DEFAULT_ALPHA);
-        command.addOpt("-s", "seed", null);
-        command.addOpt("-l", "lang", null);
-        command.parse(args);
-
-        if (command.hasOpt("--genprofile")) {
-            command.generateProfile();
-        } else if (command.hasOpt("--genprofile-text")) {
-            command.generateProfileFromText();
-        } else if (command.hasOpt("--detectlang")) {
-            command.detectLang();
-        } else if (command.hasOpt("--batchtest")) {
-            command.batchTest();
-        }
     }
 
 }

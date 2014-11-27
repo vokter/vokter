@@ -27,33 +27,6 @@ public class SnowballStopwordsLoader implements StopwordsLoader {
 
     private Set<MutableString> stopwords;
 
-
-    @Override
-    public void load(String language) {
-        try {
-            this.stopwords = loadSnowballFile(new FileInputStream(
-                    new File(Constants.STOPWORDS_DIR, language)
-            ));
-            System.out.println(stopwords.toString());
-        } catch (FileNotFoundException e) {
-            this.stopwords = Collections.emptySet();
-        }
-    }
-
-
-    @Override
-    public void destroy() {
-        this.stopwords.clear();
-        this.stopwords = null;
-    }
-
-
-    @Override
-    public boolean isStopword(MutableString termText) {
-        return stopwords.contains(termText);
-    }
-
-
     private static Set<MutableString> loadSnowballFile(InputStream stopwordsFileStream) {
         Set<MutableString> stopwords = new HashSet<>();
         try {
@@ -86,5 +59,28 @@ public class SnowballStopwordsLoader implements StopwordsLoader {
             logger.error("There was a problem loading the stopword file.", e);
         }
         return ImmutableSet.copyOf(stopwords);
+    }
+
+    @Override
+    public void load(String language) {
+        try {
+            this.stopwords = loadSnowballFile(new FileInputStream(
+                    new File(Constants.STOPWORDS_DIR, language)
+            ));
+            System.out.println(stopwords.toString());
+        } catch (FileNotFoundException e) {
+            this.stopwords = Collections.emptySet();
+        }
+    }
+
+    @Override
+    public void destroy() {
+        this.stopwords.clear();
+        this.stopwords = null;
+    }
+
+    @Override
+    public boolean isStopword(MutableString termText) {
+        return stopwords.contains(termText);
     }
 }

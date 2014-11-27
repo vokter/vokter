@@ -1,4 +1,4 @@
-package argus;
+package argus.stemmer.snowball;
 
 import argus.stemmer.Stemmer;
 import it.unimi.dsi.lang.MutableString;
