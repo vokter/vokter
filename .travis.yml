@@ -2,7 +2,15 @@ language: java
 jdk:
   - oraclejdk8
 
-before_install: mvn clean compile
+before_install:
+- cd readers/
+- mvn clean compile
+- cd ../stemmers/
+- mvn compile
+- cd ../core/
+- mvn install
+
+install: true
 
 after_success:
   - mvn clean test jacoco:report coveralls:report
