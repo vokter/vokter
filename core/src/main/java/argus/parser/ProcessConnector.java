@@ -54,7 +54,6 @@ public class ProcessConnector {
         tes.start();
 
 
-
 //        Thread.setDefaultUncaughtExceptionHandler(new Thread.UncaughtExceptionHandler() {
 //            @Override
 //            public void uncaughtException(Thread thread, Throwable thrwbl) {
@@ -84,7 +83,6 @@ public class ProcessConnector {
         tos.start();
         tes = new Thread(new StreamGobbler(process.getErrorStream(), es));
         tes.start();
-
 
 
 //        Thread.setDefaultUncaughtExceptionHandler(new Thread.UncaughtExceptionHandler() {

@@ -1,4 +1,4 @@
-package argus;
+package argus.reader;
 
 import com.google.common.collect.ImmutableSet;
 import it.unimi.dsi.lang.MutableString;
@@ -19,27 +19,26 @@ import java.io.InputStream;
  * @author Eduardo Duarte (<a href="mailto:eduardo.miguel.duarte@gmail.com">eduardo.miguel.duarte@gmail.com</a>)
  * @version 2.0
  */
-public class HtmlXmlReader implements argus.reader.Reader, NodeVisitor  {
+public class MarkupReader implements argus.reader.Reader, NodeVisitor  {
 
-    private static final int maxWidth = 80;
+    private final StringBuilder accumulator;
     private int width;
-    private StringBuilder accum;
 
-
-    public HtmlXmlReader() {
+    public MarkupReader() {
         this.width = 0;
-        this.accum = new StringBuilder();
+        this.accumulator = new StringBuilder();
     }
 
     @Override
     public MutableString readDocumentContents(InputStream documentStream) throws IOException {
+        accumulator.delete(0, accumulator.length());
 
         Document doc = Jsoup.parse(documentStream, null, "");
 
         NodeTraversor traversal = new NodeTraversor(this);
         traversal.traverse(doc);
 
-        String plainText = accum.toString();
+        String plainText = accumulator.toString();
         plainText = plainText.replaceAll("<.*?>", "");
 
         return new MutableString(plainText);
@@ -60,6 +59,7 @@ public class HtmlXmlReader implements argus.reader.Reader, NodeVisitor  {
                 "application/xml-dtd");
     }
 
+    @Override
     public void head(Node node, int depth) {
         String name = node.nodeName();
         if (node instanceof TextNode) {
@@ -69,14 +69,15 @@ public class HtmlXmlReader implements argus.reader.Reader, NodeVisitor  {
         }
     }
 
+    @Override
     public void tail(Node node, int depth) {
         String name = node.nodeName();
         if (name.equals("br")) {
             this.append("\n");
-        } else if (StringUtil.in(name, new String[]{"p", "h1", "h2", "h3", "h4", "h5"})) {
+        } else if (StringUtil.in(name, "p", "h1", "h2", "h3", "h4", "h5")) {
             this.append("\n\n");
         } else if (name.equals("a")) {
-            this.append(String.format(" <%s>", new Object[]{node.absUrl("href")}));
+            this.append(String.format(" <%s>", node.absUrl("href")));
         }
     }
 
@@ -85,7 +86,8 @@ public class HtmlXmlReader implements argus.reader.Reader, NodeVisitor  {
             this.width = 0;
         }
 
-        if (!text.equals(" ") || this.accum.length() != 0 && !StringUtil.in(this.accum.substring(this.accum.length() - 1), new String[]{" ", "\n"})) {
+        if (!text.equals(" ") || this.accumulator.length() != 0 &&
+                !StringUtil.in(this.accumulator.substring(this.accumulator.length() - 1), " ", "\n")) {
             if (text.length() + this.width > 80) {
                 String[] words = text.split("\\s+");
 
@@ -97,18 +99,17 @@ public class HtmlXmlReader implements argus.reader.Reader, NodeVisitor  {
                     }
 
                     if (word.length() + this.width > 80) {
-                        this.accum.append("\n").append(word);
+                        this.accumulator.append("\n").append(word);
                         this.width = word.length();
                     } else {
-                        this.accum.append(word);
+                        this.accumulator.append(word);
                         this.width += word.length();
                     }
                 }
             } else {
-                this.accum.append(text);
+                this.accumulator.append(text);
                 this.width += text.length();
             }
-
         }
     }
 }

@@ -1,7 +1,6 @@
 package argus.rest.resources;
 
 import argus.Context;
-import argus.rest.QueryRequest;
 import argus.watcher.WatchRequest;
 import com.google.gson.Gson;
 import com.google.gson.JsonSyntaxException;

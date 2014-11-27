@@ -17,11 +17,10 @@ import java.util.ArrayList;
  */
 public final class Term extends BasicDBObject {
 
-    private static final int SNIPPET_OFFSET = 42;
-
     public static final String TEXT = "text";
     public static final String WEIGHT = "weight";
     public static final String OCCURRENCES = "occurrences";
+    private static final int SNIPPET_OFFSET = 42;
 
 //    /**
 //     * The text that represents this term.

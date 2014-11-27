@@ -25,13 +25,11 @@ public class SentenceSplitter {
     private SentenceChunker SENTENCE_CHUNKER;
 
 
-
-    public SentenceSplitter(){
+    public SentenceSplitter() {
         this.TOKENIZER_FACTORY = IndoEuropeanTokenizerFactory.INSTANCE;
         this.SENTENCE_MODEL = new MedlineSentenceModel();
         this.SENTENCE_CHUNKER = new SentenceChunker(TOKENIZER_FACTORY, SENTENCE_MODEL);
     }
-
 
 
     public int[][] split(String text) {
@@ -43,7 +41,7 @@ public class SentenceSplitter {
         int[][] indices = new int[size][2];
 
         int i = 0;
-        for (Iterator<Chunk> it = sentences.iterator(); it.hasNext();) {
+        for (Iterator<Chunk> it = sentences.iterator(); it.hasNext(); ) {
 
             Chunk sentence = it.next();
             int start = sentence.start();

@@ -26,9 +26,9 @@
     </developers>
 
     <modules>
+        <module>core</module>
         <module>readers</module>
         <module>stemmers</module>
-        <module>core</module>
     </modules>
 
     <build>
@@ -54,22 +54,6 @@
                 </plugin>
             </plugins>
         </pluginManagement>
-
-        <plugins>
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-source-plugin</artifactId>
-                <version>2.2.1</version>
-                <executions>
-                    <execution>
-                        <id>attach-sources</id>
-                        <goals>
-                            <goal>jar</goal>
-                        </goals>
-                    </execution>
-                </executions>
-            </plugin>
-        </plugins>
 
     </build>
 

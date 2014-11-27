@@ -12,133 +12,8 @@ import java.util.regex.Pattern;
  * @author Nakatani Shuyo
  */
 public class NGram {
-    private static final String LATIN1_EXCLUDED = Messages.getString("NGram.LATIN1_EXCLUDE");
+
     public final static int N_GRAM = 3;
-    public static HashMap<Character, Character> cjk_map;
-
-    private StringBuffer grams_;
-    private boolean capitalword_;
-
-    /**
-     * Constructor.
-     */
-    public NGram() {
-        grams_ = new StringBuffer(" ");
-        capitalword_ = false;
-    }
-
-    /**
-     * Append a character into ngram buffer.
-     *
-     * @param ch
-     */
-    public void addChar(char ch) {
-        ch = normalize(ch);
-        char lastchar = grams_.charAt(grams_.length() - 1);
-        if (lastchar == ' ') {
-            grams_ = new StringBuffer(" ");
-            capitalword_ = false;
-            if (ch == ' ') return;
-        } else if (grams_.length() >= N_GRAM) {
-            grams_.deleteCharAt(0);
-        }
-        grams_.append(ch);
-
-        if (Character.isUpperCase(ch)) {
-            if (Character.isUpperCase(lastchar)) capitalword_ = true;
-        } else {
-            capitalword_ = false;
-        }
-    }
-
-    /**
-     * Get n-Gram
-     *
-     * @param n length of n-gram
-     * @return n-Gram String (null if it is invalid)
-     */
-    public String get(int n) {
-        if (capitalword_) return null;
-        int len = grams_.length();
-        if (n < 1 || n > 3 || len < n) return null;
-        if (n == 1) {
-            char ch = grams_.charAt(len - 1);
-            if (ch == ' ') return null;
-            return Character.toString(ch);
-        } else {
-            return grams_.substring(len - n, len);
-        }
-    }
-
-    /**
-     * Character Normalization
-     *
-     * @param ch
-     * @return Normalized character
-     */
-    static public char normalize(char ch) {
-        UnicodeBlock block = UnicodeBlock.of(ch);
-        if (block == UnicodeBlock.BASIC_LATIN) {
-            if (ch < 'A' || (ch < 'a' && ch > 'Z') || ch > 'z') ch = ' ';
-        } else if (block == UnicodeBlock.LATIN_1_SUPPLEMENT) {
-            if (LATIN1_EXCLUDED.indexOf(ch) >= 0) ch = ' ';
-        } else if (block == UnicodeBlock.LATIN_EXTENDED_B) {
-            // normalization for Romanian
-            if (ch == '\u0219')
-                ch = '\u015f';  // Small S with comma below => with cedilla
-            if (ch == '\u021b')
-                ch = '\u0163';  // Small T with comma below => with cedilla
-        } else if (block == UnicodeBlock.GENERAL_PUNCTUATION) {
-            ch = ' ';
-        } else if (block == UnicodeBlock.ARABIC) {
-            if (ch == '\u06cc') ch = '\u064a';  // Farsi yeh => Arabic yeh
-        } else if (block == UnicodeBlock.LATIN_EXTENDED_ADDITIONAL) {
-            if (ch >= '\u1ea0') ch = '\u1ec3';
-        } else if (block == UnicodeBlock.HIRAGANA) {
-            ch = '\u3042';
-        } else if (block == UnicodeBlock.KATAKANA) {
-            ch = '\u30a2';
-        } else if (block == UnicodeBlock.BOPOMOFO || block == UnicodeBlock.BOPOMOFO_EXTENDED) {
-            ch = '\u3105';
-        } else if (block == UnicodeBlock.CJK_UNIFIED_IDEOGRAPHS) {
-            if (cjk_map.containsKey(ch)) ch = cjk_map.get(ch);
-        } else if (block == UnicodeBlock.HANGUL_SYLLABLES) {
-            ch = '\uac00';
-        }
-        return ch;
-    }
-
-    /**
-     * Normalizer for Vietnamese.
-     * Normalize Alphabet + Diacritical Mark(U+03xx) into U+1Exx .
-     *
-     * @param text
-     * @return normalized text
-     */
-    public static CharSequence normalize_vi(CharSequence text) {
-        Matcher m = ALPHABET_WITH_DMARK.matcher(text);
-        StringBuffer buf = new StringBuffer();
-        while (m.find()) {
-            int alphabet = TO_NORMALIZE_VI_CHARS.indexOf(m.group(1));
-            int dmark = DMARK_CLASS.indexOf(m.group(2)); // Diacritical Mark
-            m.appendReplacement(buf, NORMALIZED_VI_CHARS[dmark].substring(alphabet, alphabet + 1));
-        }
-        if (buf.length() == 0)
-            return text;
-        m.appendTail(buf);
-        return buf.toString();
-    }
-
-    private static final String[] NORMALIZED_VI_CHARS = {
-            Messages.getString("NORMALIZED_VI_CHARS_0300"),
-            Messages.getString("NORMALIZED_VI_CHARS_0301"),
-            Messages.getString("NORMALIZED_VI_CHARS_0303"),
-            Messages.getString("NORMALIZED_VI_CHARS_0309"),
-            Messages.getString("NORMALIZED_VI_CHARS_0323")};
-    private static final String TO_NORMALIZE_VI_CHARS = Messages.getString("TO_NORMALIZE_VI_CHARS");
-    private static final String DMARK_CLASS = Messages.getString("DMARK_CLASS");
-    private static final Pattern ALPHABET_WITH_DMARK = Pattern.compile("([" + TO_NORMALIZE_VI_CHARS + "])(["
-            + DMARK_CLASS + "])");
 
     /**
      * CJK Kanji Normalization Mapping
@@ -272,13 +147,135 @@ public class NGram {
             Messages.getString("NGram.KANJI_7_37"),
     };
 
+    public static final HashMap<Character, Character> cjk_map = new HashMap<>();
     static {
-        cjk_map = new HashMap<Character, Character>();
         for (String cjk_list : CJK_CLASS) {
             char representative = cjk_list.charAt(0);
             for (int i = 0; i < cjk_list.length(); ++i) {
                 cjk_map.put(cjk_list.charAt(i), representative);
             }
+        }
+    }
+    private static final String LATIN1_EXCLUDED = Messages.getString("NGram.LATIN1_EXCLUDE");
+    private static final String[] NORMALIZED_VI_CHARS = {
+            Messages.getString("NORMALIZED_VI_CHARS_0300"),
+            Messages.getString("NORMALIZED_VI_CHARS_0301"),
+            Messages.getString("NORMALIZED_VI_CHARS_0303"),
+            Messages.getString("NORMALIZED_VI_CHARS_0309"),
+            Messages.getString("NORMALIZED_VI_CHARS_0323")};
+    private static final String TO_NORMALIZE_VI_CHARS = Messages.getString("TO_NORMALIZE_VI_CHARS");
+    private static final String DMARK_CLASS = Messages.getString("DMARK_CLASS");
+    private static final Pattern ALPHABET_WITH_DMARK = Pattern.compile("([" + TO_NORMALIZE_VI_CHARS + "])(["
+            + DMARK_CLASS + "])");
+    private StringBuffer grams_;
+    private boolean capitalword_;
+    /**
+     * Constructor.
+     */
+    public NGram() {
+        grams_ = new StringBuffer(" ");
+        capitalword_ = false;
+    }
+
+    /**
+     * Character Normalization
+     *
+     * @param ch
+     * @return Normalized character
+     */
+    static public char normalize(char ch) {
+        UnicodeBlock block = UnicodeBlock.of(ch);
+        if (block == UnicodeBlock.BASIC_LATIN) {
+            if (ch < 'A' || (ch < 'a' && ch > 'Z') || ch > 'z') ch = ' ';
+        } else if (block == UnicodeBlock.LATIN_1_SUPPLEMENT) {
+            if (LATIN1_EXCLUDED.indexOf(ch) >= 0) ch = ' ';
+        } else if (block == UnicodeBlock.LATIN_EXTENDED_B) {
+            // normalization for Romanian
+            if (ch == '\u0219')
+                ch = '\u015f';  // Small S with comma below => with cedilla
+            if (ch == '\u021b')
+                ch = '\u0163';  // Small T with comma below => with cedilla
+        } else if (block == UnicodeBlock.GENERAL_PUNCTUATION) {
+            ch = ' ';
+        } else if (block == UnicodeBlock.ARABIC) {
+            if (ch == '\u06cc') ch = '\u064a';  // Farsi yeh => Arabic yeh
+        } else if (block == UnicodeBlock.LATIN_EXTENDED_ADDITIONAL) {
+            if (ch >= '\u1ea0') ch = '\u1ec3';
+        } else if (block == UnicodeBlock.HIRAGANA) {
+            ch = '\u3042';
+        } else if (block == UnicodeBlock.KATAKANA) {
+            ch = '\u30a2';
+        } else if (block == UnicodeBlock.BOPOMOFO || block == UnicodeBlock.BOPOMOFO_EXTENDED) {
+            ch = '\u3105';
+        } else if (block == UnicodeBlock.CJK_UNIFIED_IDEOGRAPHS) {
+            if (cjk_map.containsKey(ch)) ch = cjk_map.get(ch);
+        } else if (block == UnicodeBlock.HANGUL_SYLLABLES) {
+            ch = '\uac00';
+        }
+        return ch;
+    }
+
+    /**
+     * Normalizer for Vietnamese.
+     * Normalize Alphabet + Diacritical Mark(U+03xx) into U+1Exx .
+     *
+     * @param text
+     * @return normalized text
+     */
+    public static CharSequence normalize_vi(CharSequence text) {
+        Matcher m = ALPHABET_WITH_DMARK.matcher(text);
+        StringBuffer buf = new StringBuffer();
+        while (m.find()) {
+            int alphabet = TO_NORMALIZE_VI_CHARS.indexOf(m.group(1));
+            int dmark = DMARK_CLASS.indexOf(m.group(2)); // Diacritical Mark
+            m.appendReplacement(buf, NORMALIZED_VI_CHARS[dmark].substring(alphabet, alphabet + 1));
+        }
+        if (buf.length() == 0)
+            return text;
+        m.appendTail(buf);
+        return buf.toString();
+    }
+
+    /**
+     * Append a character into ngram buffer.
+     *
+     * @param ch
+     */
+    public void addChar(char ch) {
+        ch = normalize(ch);
+        char lastchar = grams_.charAt(grams_.length() - 1);
+        if (lastchar == ' ') {
+            grams_ = new StringBuffer(" ");
+            capitalword_ = false;
+            if (ch == ' ') return;
+        } else if (grams_.length() >= N_GRAM) {
+            grams_.deleteCharAt(0);
+        }
+        grams_.append(ch);
+
+        if (Character.isUpperCase(ch)) {
+            if (Character.isUpperCase(lastchar)) capitalword_ = true;
+        } else {
+            capitalword_ = false;
+        }
+    }
+
+    /**
+     * Get n-Gram
+     *
+     * @param n length of n-gram
+     * @return n-Gram String (null if it is invalid)
+     */
+    public String get(int n) {
+        if (capitalword_) return null;
+        int len = grams_.length();
+        if (n < 1 || n > 3 || len < n) return null;
+        if (n == 1) {
+            char ch = grams_.charAt(len - 1);
+            if (ch == ' ') return null;
+            return Character.toString(ch);
+        } else {
+            return grams_.substring(len - n, len);
         }
     }
 

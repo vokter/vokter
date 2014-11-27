@@ -3,7 +3,6 @@ package argus.watcher;
 import org.codehaus.jackson.annotate.JsonProperty;
 
 import java.util.List;
-import java.util.Set;
 
 /**
  * Wrapper class of a JSON request for page watching performed on the index.jsp page.

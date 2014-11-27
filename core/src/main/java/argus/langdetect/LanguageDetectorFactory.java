@@ -35,6 +35,7 @@ import static argus.langdetect.LanguageDetectorException.ErrorCode;
  * @see LanguageDetector
  */
 public class LanguageDetectorFactory {
+    static private LanguageDetectorFactory instance_ = new LanguageDetectorFactory();
     public HashMap<String, double[]> wordLangProbMap;
     public ArrayList<String> langlist;
     public Long seed = null;
@@ -43,8 +44,6 @@ public class LanguageDetectorFactory {
         wordLangProbMap = new HashMap<String, double[]>();
         langlist = new ArrayList<String>();
     }
-
-    static private LanguageDetectorFactory instance_ = new LanguageDetectorFactory();
 
     /**
      * Load profiles from specified directory.

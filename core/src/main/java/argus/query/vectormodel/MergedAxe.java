@@ -29,27 +29,6 @@ public final class MergedAxe {
         this.score = score;
     }
 
-
-    public Document getDocument() {
-        return document;
-    }
-
-
-    public Query getQuery() {
-        return query;
-    }
-
-
-    public Term getTerm() {
-        return term;
-    }
-
-
-    public double getAxeScore() {
-        return score;
-    }
-
-
     public static MergedAxe mergeOf(DocumentVector.Axe docAxe, QueryVector.Axe queryAxe) {
         if (!docAxe.getTerm().equals(queryAxe.getTerm())) {
             throw new RuntimeException("The two axes to be merged must contain the same term!");
@@ -63,5 +42,21 @@ public final class MergedAxe {
                 docAxe.getTerm(),
                 score
         );
+    }
+
+    public Document getDocument() {
+        return document;
+    }
+
+    public Query getQuery() {
+        return query;
+    }
+
+    public Term getTerm() {
+        return term;
+    }
+
+    public double getAxeScore() {
+        return score;
     }
 }
