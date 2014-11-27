@@ -1,6 +1,5 @@
 package argus;
 
-import argus.reader.Reader;
 import com.google.common.collect.ImmutableSet;
 import it.unimi.dsi.lang.MutableString;
 
@@ -15,7 +14,7 @@ import java.io.InputStreamReader;
  * @author Eduardo Duarte (<a href="mailto:eduardo.miguel.duarte@gmail.com">eduardo.miguel.duarte@gmail.com</a>)
  * @version 2.0
  */
-public class PlainTextReader implements Reader {
+public class PlainTextReader implements argus.reader.Reader {
 
     @Override
     public MutableString readDocumentContents(InputStream documentStream) throws IOException {

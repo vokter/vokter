@@ -1,6 +1,5 @@
 package argus;
 
-import argus.reader.Reader;
 import com.google.common.collect.ImmutableSet;
 import com.google.gson.Gson;
 import it.unimi.dsi.lang.MutableString;
@@ -17,7 +16,7 @@ import java.util.Map;
  * @author Eduardo Duarte (<a href="mailto:eduardo.miguel.duarte@gmail.com">eduardo.miguel.duarte@gmail.com</a>)
  * @version 2.0
  */
-public class JsonReader implements Reader {
+public class JsonReader implements argus.reader.Reader {
 
     @Override
     public MutableString readDocumentContents(InputStream documentStream) throws IOException {

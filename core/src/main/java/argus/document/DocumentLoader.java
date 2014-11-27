@@ -1,5 +1,6 @@
 package argus.document;
 
+import argus.util.Constants;
 import com.esotericsoftware.kryo.Kryo;
 import com.esotericsoftware.kryo.Serializer;
 import com.esotericsoftware.kryo.io.Input;
@@ -13,8 +14,6 @@ import org.slf4j.LoggerFactory;
 
 import java.io.*;
 import java.net.URLEncoder;
-
-import static argus.util.Constants.DOCUMENTS_DIR;
 
 /**
  * A cache loader that reads local document files separated by first-character of
@@ -51,14 +50,14 @@ public final class DocumentLoader implements CacheSource<String, Document> {
 
 
     DocumentLoader() {
-        if (DOCUMENTS_DIR.exists() && !DOCUMENTS_DIR.isDirectory()) {
+        if (Constants.DOCUMENTS_DIR.exists() && !Constants.DOCUMENTS_DIR.isDirectory()) {
             try {
-                FileDeleteStrategy.FORCE.delete(DOCUMENTS_DIR);
+                FileDeleteStrategy.FORCE.delete(Constants.DOCUMENTS_DIR);
             } catch (IOException e) {
-                DOCUMENTS_DIR.delete();
+                Constants.DOCUMENTS_DIR.delete();
             }
         }
-        DOCUMENTS_DIR.mkdirs();
+        Constants.DOCUMENTS_DIR.mkdirs();
     }
 
 
@@ -72,8 +71,7 @@ public final class DocumentLoader implements CacheSource<String, Document> {
             return null;
         }
 
-        File documentFile = new File(DOCUMENTS_DIR, documentFilename);
-
+        File documentFile = new File(Constants.DOCUMENTS_DIR, documentFilename);
         if (documentFile.exists() && !documentFile.isDirectory()) {
             try (InputStream inputStream = new FileInputStream(documentFile);
                  Input in = new Input(inputStream)) {
@@ -99,7 +97,7 @@ public final class DocumentLoader implements CacheSource<String, Document> {
             return;
         }
 
-        File documentFile = new File(DOCUMENTS_DIR, documentFilename);
+        File documentFile = new File(Constants.DOCUMENTS_DIR, documentFilename);
 
         try (OutputStream outputStream = new FileOutputStream(documentFile);
              Output out = new Output(outputStream)) {

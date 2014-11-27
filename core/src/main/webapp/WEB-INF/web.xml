@@ -8,7 +8,7 @@
          version="2.5">
 
     <servlet>
-        <servlet-name>argus-core-service</servlet-name>
+        <servlet-name>argus-web-service</servlet-name>
         <servlet-class>
             org.glassfish.jersey.servlet.ServletContainer
         </servlet-class>
@@ -18,11 +18,11 @@
         </init-param>
         <init-param>
             <param-name>compilerSourceVM</param-name>
-            <param-value>1.7</param-value>
+            <param-value>1.8</param-value>
         </init-param>
         <init-param>
             <param-name>compilerTargetVM</param-name>
-            <param-value>1.7</param-value>
+            <param-value>1.8</param-value>
         </init-param>
         <init-param>
             <param-name>jersey.config.server.provider.classnames</param-name>
@@ -42,7 +42,7 @@
         <load-on-startup>1</load-on-startup>
     </servlet>
     <servlet-mapping>
-        <servlet-name>argus-core-service</servlet-name>
+        <servlet-name>argus-web-service</servlet-name>
         <url-pattern>/web/*</url-pattern>
     </servlet-mapping>
 

@@ -1,4 +1,4 @@
-package argus.watcher;
+package argus.comparison;
 
 /**
  * TODO
@@ -7,5 +7,5 @@ package argus.watcher;
  * @version 1.0
  * @since 1.0
  */
-public class Watcher {
+public class Discrepancy {
 }

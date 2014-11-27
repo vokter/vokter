@@ -181,7 +181,7 @@ public final class Occurrence extends BasicDBObject implements Comparable<Occurr
 
         /**
          * Compares two occurrences considering their positions in the sentence,
-         * comparing the start and end pointer.
+         * comparing the startServer and end pointer.
          *
          * @param a1 1st occurrence to be compared.
          * @param a2 2nd occurrence to be compared.

@@ -109,7 +109,7 @@ public class Tokenizer {
 
     /**
      * Represents a tokenization result, providing access to a token's phrase
-     * position, start position, end position and text.
+     * position, startServer position, end position and text.
      */
     public static class Result {
 
