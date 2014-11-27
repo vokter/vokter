@@ -27,8 +27,8 @@
 
     <repositories>
         <repository>
-            <id>lingpipe</id>
-            <url>file://${basedir}/libs</url>
+            <id>spotlight-releases-repository</id>
+            <url>https://github.com/dbpedia-spotlight/maven-repo/raw/master/releases</url>
         </repository>
     </repositories>
 
@@ -86,27 +86,6 @@
                                     <directory>${basedir}/../stopwords</directory>
                                 </resource>
                             </resources>
-                        </configuration>
-                    </execution>
-                </executions>
-            </plugin>
-
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-install-plugin</artifactId>
-                <version>2.4</version>
-                <executions>
-                    <execution>
-                        <phase>initialize</phase>
-                        <goals>
-                            <goal>install-file</goal>
-                        </goals>
-                        <configuration>
-                            <groupId>com.aliasi</groupId>
-                            <artifactId>lingpipe</artifactId>
-                            <version>4.1.0</version>
-                            <packaging>jar</packaging>
-                            <file>${basedir}/libs/lingpipe-4.1.0.jar</file>
                         </configuration>
                     </execution>
                 </executions>
@@ -255,12 +234,6 @@
         </dependency>
 
         <dependency>
-            <groupId>org.jsoup</groupId>
-            <artifactId>jsoup</artifactId>
-            <version>1.8.1</version>
-        </dependency>
-
-        <dependency>
             <groupId>com.sun.mail</groupId>
             <artifactId>javax.mail</artifactId>
             <version>1.5.2</version>
@@ -295,12 +268,6 @@
             <artifactId>guava</artifactId>
             <version>17.0</version>
         </dependency>
-
-        <!--<dependency>-->
-            <!--<groupId>org.reflections</groupId>-->
-            <!--<artifactId>reflections</artifactId>-->
-            <!--<version>0.9.9</version>-->
-        <!--</dependency>-->
 
         <dependency>
             <groupId>org.codehaus.jackson</groupId>
