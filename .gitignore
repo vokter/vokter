@@ -5,6 +5,7 @@ tomcat.*
 
 target
 logs
+/parser
 
 #netbeans
 nbactions.xml
