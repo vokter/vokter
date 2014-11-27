@@ -113,47 +113,15 @@
                 <version>1.7</version>
                 <executions>
                     <execution>
-                        <id>process-parser-mac64</id>
+                        <id>process-prepare-parser</id>
                         <phase>process-resources</phase>
                         <configuration>
                             <target>
                                 <chmod file="../target/parser/mac64" perm="755"/>
-                            </target>
-                        </configuration>
-                        <goals>
-                            <goal>run</goal>
-                        </goals>
-                    </execution>
-                    <execution>
-                        <id>process-parser-linux32</id>
-                        <phase>process-resources</phase>
-                        <configuration>
-                            <target>
                                 <chmod file="../target/parser/linux32" perm="755"/>
-                            </target>
-                        </configuration>
-                        <goals>
-                            <goal>run</goal>
-                        </goals>
-                    </execution>
-                    <execution>
-                        <id>process-parser-linux64</id>
-                        <phase>process-resources</phase>
-                        <configuration>
-                            <target>
                                 <chmod file="../target/parser/linux64" perm="755"/>
-                            </target>
-                        </configuration>
-                        <goals>
-                            <goal>run</goal>
-                        </goals>
-                    </execution>
-                    <execution>
-                        <id>process-parser-win32.exe</id>
-                        <phase>process-resources</phase>
-                        <configuration>
-                            <target>
                                 <chmod file="../target/parser/win32.exe" perm="755"/>
+                                <unzip src="../target/parser/genia.mod.zip" dest="../target/parser/" />
                             </target>
                         </configuration>
                         <goals>
