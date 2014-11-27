@@ -19,17 +19,17 @@ import java.util.List;
  */
 public class Job implements Runnable {
 
-    private DocumentCollection collection;
-    private WatchRequest request;
-    private final SynchronizedCounter numSuccessfulExecs;
-    private final SynchronizedCounter numUnsuccessfulExecs;
+    private static final long FAULT_TOLERANCE = 10;
+
+    private final DocumentCollection collection;
+    private final WatchRequest request;
+    private final SynchronizedCounter faultCount;
 
     public Job(final DocumentCollection collection,
                final WatchRequest request) {
         this.collection = collection;
         this.request = request;
-        this.numSuccessfulExecs = new SynchronizedCounter();
-        this.numUnsuccessfulExecs = new SynchronizedCounter();
+        this.faultCount = new SynchronizedCounter();
     }
 
     @Override
@@ -39,8 +39,8 @@ public class Job implements Runnable {
 
         Document oldSnapshot = collection.getDocumentForId(documentUrl);
         if (oldSnapshot == null) {
-            long currentUnsuccessful = numUnsuccessfulExecs.getAndIncrement();
-            if (currentUnsuccessful == 10) {
+            long currentUnsuccessful = faultCount.getAndIncrement();
+            if (currentUnsuccessful == FAULT_TOLERANCE) {
                 Context.getInstance().cancelScheduledJob(documentUrl);
             }
             return;
@@ -62,8 +62,7 @@ public class Job implements Runnable {
         currentSnapshot = null;
         comparator = null;
 
-        numSuccessfulExecs.getAndIncrement();
-        numUnsuccessfulExecs.reset();
+        faultCount.reset();
     }
 
 }

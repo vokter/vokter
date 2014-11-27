@@ -26,9 +26,9 @@
     </developers>
 
     <modules>
-        <module>core</module>
         <module>readers</module>
         <module>stemmers</module>
+        <module>core</module>
     </modules>
 
     <build>
@@ -43,25 +43,13 @@
                         <target>1.8</target>
                     </configuration>
                 </plugin>
+
                 <plugin>
                     <groupId>org.codehaus.mojo</groupId>
                     <artifactId>license-maven-plugin</artifactId>
                     <version>1.5</version>
                     <configuration>
                         <licenseName>gpl_v3</licenseName>
-                    </configuration>
-                </plugin>
-
-                <plugin>
-                    <groupId>org.apache.maven.plugins</groupId>
-                    <artifactId>maven-jar-plugin</artifactId>
-                    <version>2.4</version>
-                    <configuration>
-                        <archive>
-                            <manifest>
-                                <addDefaultImplementationEntries>true</addDefaultImplementationEntries>
-                            </manifest>
-                        </archive>
                     </configuration>
                 </plugin>
             </plugins>
