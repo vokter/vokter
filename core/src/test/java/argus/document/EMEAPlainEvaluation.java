@@ -48,7 +48,7 @@ public class EMEAPlainEvaluation {
 //        // index EMEA plain text corpus
 //        DocumentCollection collection = cb.buildInFolders(indexFolder, documentsFolder);
 //
-//        // startServer evaluation
+//        // initialize evaluation
 //        Stopwatch sw = Stopwatch.createStarted();
 //
 //        TDoubleArrayList averages = new TDoubleArrayList();

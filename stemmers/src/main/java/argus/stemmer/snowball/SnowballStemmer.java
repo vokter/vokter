@@ -34,13 +34,6 @@ public abstract class SnowballStemmer implements Stemmer {
         stem();
     }
 
-    //    /**
-//     * Get the current string.
-//     */
-//    public void clearStemmer() {
-//        current = null;
-//    }
-
     /**
      * Set the current string.
      */
@@ -329,7 +322,7 @@ public abstract class SnowballStemmer implements Stemmer {
                 ket > limit ||
                 limit > current.length())   // this line could be removed
         {
-            System.err.println("faulty slice operation");
+            logger.error("faulty slice operation");
             // FIXME: report error somehow.
     /*
         fprintf(stderr, "faulty slice operation:\n");

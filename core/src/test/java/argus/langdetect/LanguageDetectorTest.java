@@ -5,15 +5,14 @@ import static org.junit.Assert.*;
 import java.util.ArrayList;
 import java.util.List;
 
-import argus.langdetect.util.LangProfile;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
 /**
  * Unit test for {@link LanguageDetector} and {@link LanguageDetectorFactory}.
- * @author Nakatani Shuyo
  *
+ * @author Nakatani Shuyo
  */
 public class LanguageDetectorTest {
 
@@ -27,17 +26,17 @@ public class LanguageDetectorTest {
     public void setUp() throws Exception {
         LanguageDetectorFactory.clear();
         
-        LangProfile profile_en = new LangProfile("en");
+        LanguageProfile profile_en = new LanguageProfile("en");
         for (String w : TRAINING_EN.split(" "))
             profile_en.add(w);
         LanguageDetectorFactory.addProfile(profile_en, 0, 3);
 
-        LangProfile profile_fr = new LangProfile("fr");
+        LanguageProfile profile_fr = new LanguageProfile("fr");
         for (String w : TRAINING_FR.split(" "))
             profile_fr.add(w);
         LanguageDetectorFactory.addProfile(profile_fr, 1, 3);
 
-        LangProfile profile_ja = new LangProfile("ja");
+        LanguageProfile profile_ja = new LanguageProfile("ja");
         for (String w : TRAINING_JA.split(" "))
             profile_ja.add(w);
         LanguageDetectorFactory.addProfile(profile_ja, 2, 3);
@@ -88,13 +87,12 @@ public class LanguageDetectorTest {
     public final void testLangListException() throws LanguageDetectorException {
         List<String> langList = LanguageDetectorFactory.getLangList();
         langList.add("hoge");
-        //langList.add(1, "hoge");
     }
 
     @Test
     public final void testFactoryFromJsonString() throws LanguageDetectorException {
         LanguageDetectorFactory.clear();
-        ArrayList<String> profiles = new ArrayList<String>();
+        List<String> profiles = new ArrayList<>();
         profiles.add(JSON_LANG1);
         profiles.add(JSON_LANG2);
         LanguageDetectorFactory.loadProfile(profiles);

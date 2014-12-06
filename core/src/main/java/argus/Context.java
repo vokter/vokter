@@ -1,9 +1,19 @@
 package argus;
 
 import argus.document.Document;
+import argus.document.DocumentBuilder;
 import argus.document.DocumentCollection;
+import argus.parser.GeniaParser;
+import argus.parser.Parser;
+import argus.parser.ParserPool;
+import argus.watcher.JobPool;
 import com.mongodb.MongoClient;
-import org.apache.commons.cli.*;
+import org.apache.commons.cli.CommandLine;
+import org.apache.commons.cli.CommandLineParser;
+import org.apache.commons.cli.GnuParser;
+import org.apache.commons.cli.Options;
+import org.apache.commons.cli.ParseException;
+import org.apache.commons.cli.HelpFormatter;
 import org.eclipse.jetty.server.Connector;
 import org.eclipse.jetty.server.Server;
 import org.eclipse.jetty.server.handler.HandlerList;
@@ -15,25 +25,20 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import java.security.ProtectionDomain;
-import java.util.Map;
-import java.util.concurrent.*;
 
 
-public class Context
-        implements LifeCycle.Listener {
+public class Context implements LifeCycle.Listener {
 
     private static final Logger logger = LoggerFactory.getLogger(Context.class);
 
-    private static Context instance;
+    private static final Context instance = new Context();
 
-
-    private Server server;
 
     private MongoClient mongoClient;
 
-    private ScheduledExecutorService executor;
+    private final JobPool jobPool;
 
-    private Map<String, ScheduledFuture<?>> watchExecutions = new ConcurrentHashMap<>();
+    private final ParserPool parserPool;
 
 
     /**
@@ -47,12 +52,6 @@ public class Context
      * Flag that locks server shutdown until it is properly initialized.
      */
     private boolean initialized;
-
-
-    /**
-     * The port where the server is loaded to.
-     */
-    private int port;
 
 
     /**
@@ -79,15 +78,197 @@ public class Context
     private Context() {
         super();
         initialized = false;
+        jobPool = new JobPool();
+        parserPool = new ParserPool();
     }
-
 
     public static Context getInstance() {
-        if (instance == null) {
-            instance = new Context();
-        }
         return instance;
     }
+
+    private static void installUncaughtExceptionHandler() {
+        Thread.setDefaultUncaughtExceptionHandler((t, e) -> {
+            if (e instanceof ThreadDeath) {
+                logger.warn("Ignoring uncaught ThreadDead exception.");
+                return;
+            }
+            logger.error("Uncaught exception on cli thread, aborting.", e);
+            System.exit(0);
+        });
+    }
+
+    public void setStopwordsEnabled(boolean isStoppingEnabled) {
+        this.isStoppingEnabled = isStoppingEnabled;
+    }
+
+    public void setIgnoreCase(boolean ignoreCase) {
+        this.ignoreCase = ignoreCase;
+    }
+
+    public boolean isStoppingEnabled() {
+        return isStoppingEnabled;
+    }
+
+    public boolean isStemmingEnabled() {
+        return isStemmingEnabled;
+    }
+
+    public void setStemmingEnabled(boolean isStemmingEnabled) {
+        this.isStemmingEnabled = isStemmingEnabled;
+    }
+
+    public boolean isIgnoringCase() {
+        return ignoreCase;
+    }
+
+    public MongoClient getMongoClient() {
+        return mongoClient;
+    }
+
+    /**
+     * Starts this REST context at the specified port, using the specified number
+     * of threads and wrapping the specified collection and stopwords for queries.
+     */
+    public void initialize(int port, int maxThreads) throws Exception {
+        if (initialized) {
+            return;
+        }
+
+        mongoClient = new MongoClient("localhost", 27017);
+
+        jobPool.initialize(maxThreads);
+
+        logger.info("Starting parsers...");
+        for (int i = 1; i < maxThreads; i++) {
+            Parser p = new GeniaParser();
+            parserPool.place(p);
+        }
+
+
+        logger.info("Starting server...");
+        // Start a Jetty server with some sensible defaults
+        Server server = new Server();
+        server.setStopAtShutdown(true);
+
+
+        // Increases thread pool
+        QueuedThreadPool threadPool = new QueuedThreadPool();
+        threadPool.setMaxThreads(maxThreads);
+        server.setThreadPool(threadPool);
+
+
+        // Ensures a non-blocking connector (NIO) is used.
+        Connector connector = new SelectChannelConnector();
+        connector.setPort(port);
+        connector.setMaxIdleTime(30000);
+        server.setConnectors(new Connector[]{connector});
+
+
+        // Retrieves the jar file.
+        ProtectionDomain protectionDomain = Context.class.getProtectionDomain();
+        String jarFilePath = protectionDomain.getCodeSource().getLocation().toExternalForm();
+
+
+        // Associates the web context (which includes all files in the 'resources'
+        // folder to the jar file.
+        WebAppContext context = new WebAppContext(jarFilePath, "/");
+        context.setServer(server);
+
+
+        // Adds the handlers for the jar context file.
+        HandlerList handlers = new HandlerList();
+        handlers.addHandler(context);
+        server.setHandler(handlers);
+        server.addLifeCycleListener(this);
+
+        server.start();
+
+        logger.info("Server started at 'localhost:" + port + "'");
+        logger.info("Press Ctrl+C to shutdown the server...");
+        initialized = true;
+
+        server.join();
+    }
+
+    @Override
+    public void lifeCycleStarting(LifeCycle lifeCycle) {
+    }
+
+    @Override
+    public void lifeCycleStarted(LifeCycle lifeCycle) {
+    }
+
+    @Override
+    public void lifeCycleFailure(LifeCycle lifeCycle, Throwable throwable) {
+    }
+
+
+    /**
+     * Indexes the specified directory's documents and saves the resulting index
+     * of all occurrences into the specified folder, separated by first-character
+     * in different files, and the resulting documents into the specified folder,
+     * separated by id.
+     */
+    public void createCollectionFromUrl(String url) {
+        DocumentBuilder builder = DocumentBuilder.fromUrl(url);
+
+        if (isStoppingEnabled) {
+            builder.withStopwords();
+        }
+
+        if (isStemmingEnabled) {
+            builder.withStemming();
+        }
+
+        if (ignoreCase) {
+            builder.ignoreCase();
+        }
+
+        Document d = builder.build(parserPool);
+//        this.collection.
+    }
+//
+//
+//    /**
+//     * Processes the specified string as a search and searches this context
+//     * collection.
+//     */
+//    public QueryResult searchCollection(MutableString queryText, int slop) {
+//
+//        QueryBuilder builder = QueryBuilder.newBuilder();
+//        builder.withText(queryText);
+//        builder.withSlop(slop);
+//
+//        if (isStoppingEnabled) {
+//            builder.withStopwords(loadedStopwords);
+//        }
+//
+//        if (isStemmingEnabled) {
+//            builder.withStemmer(PortugueseStemmer.class);
+//        }
+//
+//        if (ignoreCase) {
+//            builder.ignoreCase();
+//        }
+//
+//        Query query = builder.build();
+//
+//        return collection.search(query);
+//    }
+
+    @Override
+    public void lifeCycleStopping(LifeCycle lifeCycle) {
+        mongoClient.close();
+        jobPool.clear();
+        parserPool.clear();
+        initialized = false;
+    }
+
+
+    @Override
+    public void lifeCycleStopped(LifeCycle lifeCycle) {
+    }
+
 
     public static void main(String[] args) {
 
@@ -174,225 +355,17 @@ public class Context
 
 
         try {
-            Context context = Context.getInstance();
+            Context context = new Context();
             context.setStopwordsEnabled(isStoppingEnabled);
             context.setStemmingEnabled(isStemmingEnabled);
             context.setIgnoreCase(isIgnoringCase);
 
-            context.startServer(port, maxThreads);
+            context.initialize(port, maxThreads);
 
         } catch (Exception ex) {
             ex.printStackTrace();
             logger.info("Shutting down the server...");
             System.exit(1);
-        }
-    }
-
-    private static void installUncaughtExceptionHandler() {
-        Thread.setDefaultUncaughtExceptionHandler((t, e) -> {
-            if (e instanceof ThreadDeath) {
-                logger.warn("Ignoring uncaught ThreadDead exception.");
-                return;
-            }
-            logger.error("Uncaught exception on cli thread, aborting.", e);
-            System.exit(0);
-        });
-    }
-
-    public void setStopwordsEnabled(boolean isStoppingEnabled) {
-        this.isStoppingEnabled = isStoppingEnabled;
-    }
-
-    public void setIgnoreCase(boolean ignoreCase) {
-        this.ignoreCase = ignoreCase;
-    }
-
-    public boolean isStoppingEnabled() {
-        return isStoppingEnabled;
-    }
-
-    public boolean isStemmingEnabled() {
-        return isStemmingEnabled;
-    }
-
-    public void setStemmingEnabled(boolean isStemmingEnabled) {
-        this.isStemmingEnabled = isStemmingEnabled;
-    }
-
-    public boolean isIgnoringCase() {
-        return ignoreCase;
-    }
-
-    public MongoClient getMongoClient() {
-        return mongoClient;
-    }
-
-    /**
-     * Starts this REST context at the specified port, using the specified number
-     * of threads and wrapping the specified collection and stopwords for queries.
-     */
-    public void startServer(int port,
-                            int maxThreads) throws Exception {
-        if (initialized) {
-            return;
-        }
-
-        logger.info("Starting server...");
-
-        this.port = port;
-
-        server = new Server();
-
-        mongoClient = new MongoClient("localhost", 27017);
-
-        executor = Executors.newScheduledThreadPool(maxThreads);
-
-
-        // Start a Jetty server with some sensible defaults
-        server.setStopAtShutdown(true);
-
-
-        // Increases thread pool
-        QueuedThreadPool threadPool = new QueuedThreadPool();
-        threadPool.setMaxThreads(maxThreads);
-        server.setThreadPool(threadPool);
-
-
-        // Ensures a non-blocking connector (NIO) is used.
-        Connector connector = new SelectChannelConnector();
-        connector.setPort(port);
-        connector.setMaxIdleTime(30000);
-        server.setConnectors(new Connector[]{connector});
-
-
-        // Retrieves the jar file.
-        ProtectionDomain protectionDomain = Context.class.getProtectionDomain();
-        String jarFilePath = protectionDomain.getCodeSource().getLocation().toExternalForm();
-
-
-        // Associates the web context (which includes all files in the 'resources'
-        // folder to the jar file.
-        WebAppContext context = new WebAppContext(jarFilePath, "/");
-        context.setServer(server);
-
-
-        // Adds the handlers for the jar context file.
-        HandlerList handlers = new HandlerList();
-        handlers.addHandler(context);
-        server.setHandler(handlers);
-        server.addLifeCycleListener(this);
-
-        server.start();
-        initialized = true;
-
-        logger.info("Server started at 'localhost:" + port + "'");
-        logger.info("Press Ctrl+C to shutdown the server...");
-
-        server.join();
-    }
-
-    @Override
-    public void lifeCycleStarting(LifeCycle lifeCycle) {
-    }
-
-    @Override
-    public void lifeCycleStarted(LifeCycle lifeCycle) {
-    }
-
-    @Override
-    public void lifeCycleFailure(LifeCycle lifeCycle, Throwable throwable) {
-    }
-
-
-//    /**
-//     * Indexes the specified directory's documents and saves the resulting index
-//     * of all occurrences into the specified folder, separated by first-character
-//     * in different files, and the resulting documents into the specified folder,
-//     * separated by id.
-//     */
-//    public void createCollectionFromDir(String directoryPath, File outputIndexFolder, File outputDocumentsFolder) {
-//        DocumentCollectionBuilder builder = DocumentCollectionBuilder.fromDir(Paths.get(directoryPath));
-//
-//        if (isStoppingEnabled) {
-//            builder.withStopwords(loadedStopwords);
-//        }
-//
-//        if (isStemmingEnabled) {
-//            builder.withStemmer(PortugueseStemmer.class);
-//        }
-//
-//        if (ignoreCase) {
-//            builder.ignoreCase();
-//        }
-//
-//        this.collection = builder.buildInFolders(outputIndexFolder, outputDocumentsFolder);
-//    }
-//
-//
-//    /**
-//     * Processes the specified string as a search and searches this context
-//     * collection.
-//     */
-//    public QueryResult searchCollection(MutableString queryText, int slop) {
-//
-//        QueryBuilder builder = QueryBuilder.newBuilder();
-//        builder.withText(queryText);
-//        builder.withSlop(slop);
-//
-//        if (isStoppingEnabled) {
-//            builder.withStopwords(loadedStopwords);
-//        }
-//
-//        if (isStemmingEnabled) {
-//            builder.withStemmer(PortugueseStemmer.class);
-//        }
-//
-//        if (ignoreCase) {
-//            builder.ignoreCase();
-//        }
-//
-//        Query query = builder.build();
-//
-//        return collection.search(query);
-//    }
-
-    @Override
-    public void lifeCycleStopping(LifeCycle lifeCycle) {
-        mongoClient.close();
-        watchExecutions.values().stream()
-                .filter(handle -> handle != null)
-                .forEach(handle -> handle.cancel(true));
-        watchExecutions.clear();
-        if (!executor.isShutdown()) {
-            executor.shutdown();
-            try {
-                executor.awaitTermination(1, TimeUnit.MINUTES);
-            } catch (InterruptedException ex) {
-                logger.error(ex.getMessage(), ex);
-            }
-        }
-
-    }
-
-    @Override
-    public void lifeCycleStopped(LifeCycle lifeCycle) {
-    }
-
-    public void scheduleJob(final Document document) {
-
-        ScheduledFuture<?> handle =
-                executor.scheduleWithFixedDelay(() -> {
-
-
-                }, 10, 10, TimeUnit.MINUTES);
-        watchExecutions.put(document.getUrl(), handle);
-    }
-
-    public void cancelScheduledJob(String documentUrl) {
-        ScheduledFuture<?> handle = watchExecutions.get(documentUrl);
-        if (handle != null) {
-            handle.cancel(true);
-            watchExecutions.remove(documentUrl);
         }
     }
 }

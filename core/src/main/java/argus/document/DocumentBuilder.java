@@ -1,9 +1,15 @@
 package argus.document;
 
-import argus.parser.GeniaParser;
+import argus.Context;
+import argus.parser.Parser;
+import argus.parser.ParserPool;
 import argus.term.Term;
-import argus.util.DynamicClassLoader;
+import argus.util.PluginLoader;
 import com.google.common.base.Stopwatch;
+import com.mongodb.DB;
+import com.mongodb.DBCollection;
+import com.mongodb.DBCursor;
+import com.mongodb.MongoClient;
 import it.unimi.dsi.lang.MutableString;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -16,6 +22,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.net.HttpURLConnection;
 import java.net.URL;
+import java.net.UnknownHostException;
 import java.text.DecimalFormat;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ConcurrentMap;
@@ -34,15 +41,6 @@ import java.util.function.Supplier;
 public final class DocumentBuilder {
 
     private static final Logger logger = LoggerFactory.getLogger(DocumentBuilder.class);
-
-    private static final GeniaParser parser = new GeniaParser();
-    static {
-        try {
-            parser.launch();
-        } catch (IOException e) {
-            logger.error(e.getMessage(), e);
-        }
-    }
 
     private final Stopwatch sw;
     private final Supplier<DocumentInput> documentLazySupplier;
@@ -152,24 +150,24 @@ public final class DocumentBuilder {
      *
      * @return the built index of the documents specified in the factory method
      */
-    public Document build() {
+    public Document build(ParserPool parserPool) {
 
         sw.reset();
         sw.start();
 
 
-        // step 2) Create a temporary in-memory term structure, which will be
+        // step 1) Create a temporary in-memory term structure, which will be
         //         saved to local files after indexing
         ConcurrentMap<MutableString, Term> documentTerms = new ConcurrentHashMap<>();
 
 
-        // step 3) Perform a lazy loading of the document, by obtaining its url,
+        // step 2) Perform a lazy loading of the document, by obtaining its url,
         // content stream and content type.
         DocumentInput input = documentLazySupplier.get();
 
 
-        // step x) Checks if the input document is supported by the server
-        boolean isSupported = DynamicClassLoader.getCompatibleReader(input.getContentType()) != null;
+        // step 3) Checks if the input document is supported by the server
+        boolean isSupported = PluginLoader.getCompatibleReader(input.getContentType()) != null;
         if (!isSupported) {
             logger.info("Ignored processing document '{}': No compatible readers available for content-type '{}'.",
                     input.getUrl(),
@@ -183,10 +181,20 @@ public final class DocumentBuilder {
         );
 
 
-        // step 4) Build a processing instruction to be executed.
+        // step 4) Takes a parser from the context parser-pool.
+        Parser parser = null;
+        try {
+            parser = parserPool.take();
+        } catch (InterruptedException ex) {
+            logger.error(ex.getMessage(), ex);
+            return null;
+        }
+
+
+        // step 5) Build a processing instruction to be executed.
         //         A pipeline instantiates a new object for each of the
         //         required modules, improving performance of parallel jobs.
-        DocumentPipeline pipeline = new DocumentPipeline(
+        Pipeline pipeline = new Pipeline(
 
                 // general structure that holds the created tokens
                 documentTerms,
@@ -194,6 +202,8 @@ public final class DocumentBuilder {
                 // the input document info, including its path and InputStream
                 input,
 
+                // parser that will be used for document parsing and term
+                // detection
                 parser,
 
                 // flag that sets that stopwords will be filtered during
@@ -210,16 +220,30 @@ public final class DocumentBuilder {
         );
 
 
-        // step 5) Process each documentAtom in parallel to asynchronously obtain
-        //         the index from each document
+        // step 6) Process the document asynchronously.
         Stopwatch sw2 = Stopwatch.createStarted();
-        Document builtDocument = pipeline.call();
+        Document document = null;
+        try {
+            document = pipeline.call();
+        } catch (Exception ex) {
+            logger.error(ex.getMessage(), ex);
+            return null;
+        }
         sw2.stop();
         logger.info("Document processor elapsed time: " + sw2.toString());
         sw2 = null;
 
 
-        // step 7) calculate the normalization factor (n'lize) for each term in
+        // step 7) Place the used parser back in the context parser-pool.
+        try {
+            parserPool.place(parser);
+        } catch (InterruptedException ex) {
+            logger.error(ex.getMessage(), ex);
+            return null;
+        }
+
+
+        // step 8) calculate the normalization factor (n'lize) for each term in
         //         the document.
         // NOTE: for the calculations above: wt(t, d) = (1 + log10(tf(t, d))) * idf(t)
 
@@ -244,24 +268,43 @@ public final class DocumentBuilder {
 
 
         // Uncomment below to print the top10 index
-        logger.info("Vocabulary size: " + documentTerms.size());
-        documentTerms.values()
-                .stream()
-                .sorted((o1, o2) -> Integer.compare(o2.getTermFrequency(), o1.getTermFrequency()))
-                .limit(10)
-                .forEach(term -> {
-                    logger.info(term.toString() + " " + term.getTermFrequency() + " " + term.getNormalizedWeight());
-                });
+//        logger.info("Vocabulary size: " + documentTerms.size());
+//        documentTerms.values()
+//                .stream()
+//                .sorted((o1, o2) -> Integer.compare(o2.getTermFrequency(), o1.getTermFrequency()))
+//                .limit(10)
+//                .forEach(term -> {
+//                    logger.info(term.toString() + " " + term.getTermFrequency() + " " + term.getNormalizedWeight());
+//                });
 
 
-//        // step 8) sort and group collected terms by its first character
+//        try {
+//            MongoClient mongoClient = new MongoClient("localhost", 27017);
+//            DB termDatabase = mongoClient.getDB("terms_db");
+//            DBCollection termCollection = termDatabase.getCollection(document.getUrl());
+//            DBCursor cursor = termCollection.find();
+//            try {
+//                while(cursor.hasNext()) {
+//                    logger.info("{}", cursor.next());
+//                }
+//            } finally {
+//                cursor.close();
+//            }
+//            mongoClient.close();
+//        } catch (UnknownHostException ex) {
+//            logger.error(ex.getMessage(), ex);
+//            return null;
+//        }
+
+
+//        // step 9) sort and group collected terms by its first character
 //        Map<Character, List<Map.Entry<MutableString, Term>>> groupedTokens = documentTerms
 //                .entrySet()
 //                .stream()
 //                .collect(groupingBy(e -> e.getKey().charAt(0)));
 //
 //
-//        // step 9) command the current VM to delete the index folder once the
+//        // step 10) command the current VM to delete the index folder once the
 //        //         application is closed
 //        Runtime.getRuntime().addShutdownHook(new Thread(() -> {
 //            logger.info("Deleting temporary term database.");
@@ -273,13 +316,13 @@ public final class DocumentBuilder {
 //        }));
 //
 //
-//        // step 13) create local files (by document id) that contain the
+//        // step 11) create local files (by document id) that contain the
 //        //          serialized documentAtom
 //        DocumentLoader documentLoader = new DocumentLoader();
 //        documentAtom.valueCollection().stream().forEach(documentLoader::write);
 //
 //
-//        // step 14) create a cache loader for the documentAtom local files created above
+//        // step 12) create a cache loader for the documentAtom local files created above
 //        Cache<Long, Document> documentsCache = CacheBuilder
 //                .newCache(Long.class, Document.class)
 //                .expiryDuration(20, TimeUnit.SECONDS)
@@ -289,7 +332,7 @@ public final class DocumentBuilder {
 //        documentsCache.clear();
 
 
-        // step 15) instantiate the Collection object, which represents the core
+        // step 13) instantiate the Collection object, which represents the core
         //          access to the above mentioned persistence and cache mechanisms.
         sw.stop();
         logger.info("Elapsed building time: " + sw.toString());
@@ -300,6 +343,6 @@ public final class DocumentBuilder {
 //        String documentDiskSize = fileSizeToString(folderSize(parentDocumentsFolder));
 //        logger.info("Document Disk size: " + documentDiskSize);
 
-        return builtDocument;
+        return document;
     }
 }

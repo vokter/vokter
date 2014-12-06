@@ -1,8 +1,9 @@
 package argus.parser;
 
 import argus.stemmer.Stemmer;
-import argus.stopper.StopwordsLoader;
+import argus.stopper.Stopwords;
 import argus.util.Constants;
+import argus.util.ProcessWrapper;
 import com.aliasi.util.Pair;
 import it.unimi.dsi.lang.MutableString;
 import org.slf4j.Logger;
@@ -20,42 +21,50 @@ import java.util.List;
  * @version 1.0
  * @since 1.0
  */
-public class GeniaParser implements AutoCloseable {
+public class GeniaParser implements Parser {
+
+    private static final Logger logger = LoggerFactory.getLogger(GeniaParser.class);
 
     private static final String BINARY_WIN = "win32.exe";
     private static final String BINARY_LIN64 = "./linux64";
     private static final String BINARY_LIN32 = "./linux32";
     private static final String BINARY_MAC = "./mac64";
 
-    private static Logger logger = LoggerFactory.getLogger(GeniaParser.class);
-
-    private String[] parserCommand;
-    private File dir;
     private PipedInputStream pis;
     private PipedOutputStream sink;
     private PipedOutputStream pos;
     private PipedInputStream source;
     private BufferedReader br;
     private BufferedWriter bw;
-    private ProcessConnector pc;
+    private ProcessWrapper pc;
     private SentenceSplitter splitter;
-    private boolean isLaunched;
-    private StopwordsLoader stopwordsLoader;
-    private Stemmer stemmer;
-    private boolean ignoreCase = false;
 
-    public GeniaParser() {
+
+    public GeniaParser() throws IOException {
         this.splitter = new SentenceSplitter();
+        File dir = Constants.PARSER_DIR;
 
-        this.dir = Constants.PARSER_DIR;
+        String[] parserCommand = new String[]{
+                new File(dir, getCompatibleBinary()).getAbsolutePath(),
+                "-tok"
+        };
 
-        List<String> command = new ArrayList<>();
-        command.add(new File(dir, getCompatibleBinary()).getAbsolutePath());
-        command.add("-tok");
-        this.parserCommand = command.toArray(new String[command.size()]);
+        pis = new PipedInputStream();
+        sink = new PipedOutputStream(pis);
+        pos = new PipedOutputStream();
+        source = new PipedInputStream(pos);
+        br = new BufferedReader(new InputStreamReader(source));
+        bw = new BufferedWriter(new OutputStreamWriter(sink));
+        pc = new ProcessWrapper(pis, pos, new PrintStream(new OutputStream() {
+            @Override
+            public void write(int b) {}
+        }));
+
+        pc.create(dir, parserCommand);
     }
 
-    public static String getCompatibleBinary() {
+
+    private static String getCompatibleBinary() {
         String os = System.getProperty("os.name").toLowerCase();
 
         if (os.contains("windows")) {
@@ -70,45 +79,12 @@ public class GeniaParser implements AutoCloseable {
         }
     }
 
-    /**
-     * Launches the parser.
-     */
-    public GeniaParser launch() throws IOException {
-        if (isLaunched) {
-            return this;
-        }
-        pis = new PipedInputStream();
-        sink = new PipedOutputStream(pis);
-        pos = new PipedOutputStream();
-        source = new PipedInputStream(pos);
-        br = new BufferedReader(new InputStreamReader(source));
-        bw = new BufferedWriter(new OutputStreamWriter(sink));
-
-        pc = new ProcessConnector(pis, pos, new PrintStream(new OutputStream() {
-            @Override
-            public void write(int b) {
-            }
-        }));
-
-
-        if (dir == null) {
-            pc.create(parserCommand);
-        } else {
-            pc.create(dir, parserCommand);
-        }
-        isLaunched = true;
-        return this;
-    }
 
     /**
      * Terminates this parser.
      */
     @Override
     public void close() {
-        if (!isLaunched) {
-            return;
-        }
-
         try {
             pis.close();
             pis = null;
@@ -124,34 +100,19 @@ public class GeniaParser implements AutoCloseable {
             bw = null;
             pc.destroy();
             System.gc();
+
         } catch (IOException ex) {
-            logger.error("Error terminating GDep parser: " + ex.toString());
+            logger.error("Error terminating Genia parser: " + ex.toString());
         }
     }
 
-    public void setupStopwords(final StopwordsLoader stopwordsLoader) {
-        this.stopwordsLoader = stopwordsLoader;
-    }
 
-
-    public void setupStemming(final Stemmer stemmer) {
-        this.stemmer = stemmer;
-    }
-
-
-    public void setupIgnoreCase(boolean ignoreCase) {
-        this.ignoreCase = ignoreCase;
-    }
-
-
-    /**
-     * Parses the specified text and obtains tokenized results.
-     */
-    public List<ParserResult> parse(MutableString text) {
+    @Override
+    public List<ParserResult> parse(final MutableString text,
+                                    final Stopwords stopwords,
+                                    final Stemmer stemmer,
+                                    final boolean ignoreCase) {
         List<ParserResult> _results = new ArrayList<>();
-        if (!isLaunched) {
-            return _results;
-        }
 
         int[][] idx = splitter.split(text);
         List<Pair<Integer, Integer>> splitPairList = new ArrayList<>();
@@ -199,12 +160,12 @@ public class GeniaParser implements AutoCloseable {
                     // checks if the text is a stopword
                     // if true, do not stem it nor add it to the ParserResult list
                     boolean isStopword = false;
-                    if (stopwordsLoader != null) {
+                    if (stopwords != null) {
                         MutableString textToTest = tokenText;
                         if (!ignoreCase) {
                             textToTest = textToTest.copy().toLowerCase();
                         }
-                        isStopword = stopwordsLoader.isStopword(textToTest);
+                        isStopword = stopwords.isStopword(textToTest);
                     }
                     if (!isStopword) {
 

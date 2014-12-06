@@ -1,52 +1,26 @@
 package argus.langdetect;
 
-import argus.langdetect.util.NGram;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 import java.io.IOException;
 import java.io.Reader;
 import java.lang.Character.UnicodeBlock;
-import java.util.ArrayList;
-import java.util.Formatter;
-import java.util.HashMap;
-import java.util.Random;
+import java.util.*;
 import java.util.regex.Pattern;
 
 import static argus.langdetect.LanguageDetectorException.ErrorCode;
 
 /**
  * {@link LanguageDetector} class is to detect language from specified text.
- * Its instance is able to be constructed via the factory class {@link LanguageDetectorFactory}.
+ * Its instance is able to be constructed via the factory class
+ * {@link LanguageDetectorFactory}.
  * <p/>
- * After appending a target text to the {@link LanguageDetector} instance with {@link #append(java.io.Reader)} or {@link #append(String)},
+ * After appending a target text to the {@link LanguageDetector} instance with
+ * {@link #append(java.io.Reader)} or {@link #append(CharSequence)},
  * the detector provides the language detection results for target text via {@link #detect()} or {@link #getProbabilities()}.
  * {@link #detect()} method returns a single language name which has the highest probability.
  * {@link #getProbabilities()} methods returns a list of multiple languages and their probabilities.
- * <p/>
- * The detector has some parameters for language detection.
- * See {@link #setAlpha(double)}, {@link #setMaxTextLength(int)} and {@link #setPriorMap(java.util.HashMap)}.
- * <p/>
- * <pre>
- * import java.util.ArrayList;
- * import argus.langdetect.Detector;
- * import argus.langdetect.DetectorFactory;
- * import argus.langdetect.Language;
- *
- * class LangDetectSample {
- *     public void init(String profileDirectory) throws LangDetectException {
- *         DetectorFactory.loadProfile(profileDirectory);
- *     }
- *     public String detect(String text) throws LangDetectException {
- *         Detector detector = DetectorFactory.create();
- *         detector.append(text);
- *         return detector.detect();
- *     }
- *     public ArrayList<Language> detectLangs(String text) throws LangDetectException {
- *         Detector detector = DetectorFactory.create();
- *         detector.append(text);
- *         return detector.getProbabilities();
- *     }
- * }
- * </pre>
  * <p/>
  * <ul>
  * <li>4x faster improvement based on Elmer Garduno's code. Thanks!</li>
@@ -56,6 +30,9 @@ import static argus.langdetect.LanguageDetectorException.ErrorCode;
  * @see LanguageDetectorFactory
  */
 public class LanguageDetector {
+
+    private static final Logger logger = LoggerFactory.getLogger(LanguageDetector.class);
+
     private static final double ALPHA_DEFAULT = 0.5;
     private static final double ALPHA_WIDTH = 0.05;
 
@@ -68,8 +45,8 @@ public class LanguageDetector {
     private static final Pattern URL_REGEX = Pattern.compile("https?://[-_.?&~;+=/#0-9A-Za-z]{1,2076}");
     private static final Pattern MAIL_REGEX = Pattern.compile("[-_.0-9A-Za-z]{1,64}@[-_0-9A-Za-z]{1,255}[-_.0-9A-Za-z]{1,255}");
 
-    private final HashMap<String, double[]> wordLangProbMap;
-    private final ArrayList<String> langlist;
+    private final Map<String, double[]> wordLangProbMap;
+    private final List<String> langList;
 
     private StringBuffer text;
     private double[] langprob = null;
@@ -89,7 +66,7 @@ public class LanguageDetector {
      */
     public LanguageDetector(LanguageDetectorFactory factory) {
         this.wordLangProbMap = factory.wordLangProbMap;
-        this.langlist = factory.langlist;
+        this.langList = factory.langList;
         this.text = new StringBuffer();
         this.seed = factory.seed;
     }
@@ -152,21 +129,25 @@ public class LanguageDetector {
      * @throws LanguageDetectorException
      */
     public void setPriorMap(HashMap<String, Double> priorMap) throws LanguageDetectorException {
-        this.priorMap = new double[langlist.size()];
+        this.priorMap = new double[langList.size()];
         double sump = 0;
         for (int i = 0; i < this.priorMap.length; ++i) {
-            String lang = langlist.get(i);
+            String lang = langList.get(i);
             if (priorMap.containsKey(lang)) {
                 double p = priorMap.get(lang);
                 if (p < 0)
-                    throw new LanguageDetectorException(ErrorCode.InitParamError, "Prior probability must be non-negative.");
+                    throw new LanguageDetectorException(ErrorCode.InitParamError,
+                            "Prior probability must be non-negative.");
                 this.priorMap[i] = p;
                 sump += p;
             }
         }
         if (sump <= 0)
-            throw new LanguageDetectorException(ErrorCode.InitParamError, "More one of prior probability must be non-zero.");
-        for (int i = 0; i < this.priorMap.length; ++i) this.priorMap[i] /= sump;
+            throw new LanguageDetectorException(ErrorCode.InitParamError,
+                    "More one of prior probability must be non-zero.");
+        for (int i = 0; i < this.priorMap.length; ++i) {
+            this.priorMap[i] /= sump;
+        }
     }
 
     /**
@@ -225,7 +206,8 @@ public class LanguageDetector {
             char c = text.charAt(i);
             if (c <= 'z' && c >= 'A') {
                 ++latinCount;
-            } else if (c >= '\u0300' && UnicodeBlock.of(c) != UnicodeBlock.LATIN_EXTENDED_ADDITIONAL) {
+            } else if (c >= '\u0300' &&
+                    UnicodeBlock.of(c) != UnicodeBlock.LATIN_EXTENDED_ADDITIONAL) {
                 ++nonLatinCount;
             }
         }
@@ -237,7 +219,6 @@ public class LanguageDetector {
             }
             text = textWithoutLatin;
         }
-
     }
 
     /**
@@ -247,8 +228,10 @@ public class LanguageDetector {
      * @throws LanguageDetectorException code = ErrorCode.CantDetectError : Can't detect because of no valid features in text
      */
     public String detect() throws LanguageDetectorException {
-        ArrayList<Language> probabilities = getProbabilities();
-        if (probabilities.size() > 0) return probabilities.get(0).lang;
+        List<Language> probabilities = getProbabilities();
+        if (probabilities.size() > 0) {
+            return probabilities.get(0).lang;
+        }
         return UNKNOWN_LANG;
     }
 
@@ -258,20 +241,21 @@ public class LanguageDetector {
      * @return possible languages list (whose probabilities are over PROB_THRESHOLD, ordered by probabilities descendently
      * @throws LanguageDetectorException code = ErrorCode.CantDetectError : Can't detect because of no valid features in text
      */
-    public ArrayList<Language> getProbabilities() throws LanguageDetectorException {
-        if (langprob == null) detectBlock();
-
-        ArrayList<Language> list = sortProbability(langprob);
-        return list;
+    public List<Language> getProbabilities() throws LanguageDetectorException {
+        if (langprob == null) {
+            detectBlock();
+        }
+        return sortProbability(langprob);
     }
 
     private void detectBlock() throws LanguageDetectorException {
         cleaningText();
-        ArrayList<String> ngrams = extractNGrams();
-        if (ngrams.size() == 0)
+        List<String> ngrams = extractNGrams();
+        if (ngrams.size() == 0) {
             throw new LanguageDetectorException(ErrorCode.CantDetectError, "no features in text");
+        }
 
-        langprob = new double[langlist.size()];
+        langprob = new double[langList.size()];
 
         Random rand = new Random();
         if (seed != null) rand.setSeed(seed);
@@ -283,14 +267,19 @@ public class LanguageDetector {
                 int r = rand.nextInt(ngrams.size());
                 updateLangProb(prob, ngrams.get(r), alpha);
                 if (i % 5 == 0) {
-                    if (normalizeProb(prob) > CONV_THRESHOLD || i >= ITERATION_LIMIT)
+                    if (normalizeProb(prob) > CONV_THRESHOLD || i >= ITERATION_LIMIT) {
                         break;
-                    if (verbose) System.out.println("> " + sortProbability(prob));
+                    }
+                    if (verbose) {
+                        logger.info("> " + sortProbability(prob));
+                    }
                 }
             }
             for (int j = 0; j < langprob.length; ++j)
                 langprob[j] += prob[j] / n_trial;
-            if (verbose) System.out.println("==> " + sortProbability(prob));
+            if (verbose) {
+                logger.info("==> " + sortProbability(prob));
+            }
         }
     }
 
@@ -301,11 +290,11 @@ public class LanguageDetector {
      * @return initialized map of language probabilities
      */
     private double[] initProbability() {
-        double[] prob = new double[langlist.size()];
+        double[] prob = new double[langList.size()];
         if (priorMap != null) {
             for (int i = 0; i < prob.length; ++i) prob[i] = priorMap[i];
         } else {
-            for (int i = 0; i < prob.length; ++i) prob[i] = 1.0 / langlist.size();
+            for (int i = 0; i < prob.length; ++i) prob[i] = 1.0 / langList.size();
         }
         return prob;
     }
@@ -315,8 +304,8 @@ public class LanguageDetector {
      *
      * @return n-grams list
      */
-    private ArrayList<String> extractNGrams() {
-        ArrayList<String> list = new ArrayList<String>();
+    private List<String> extractNGrams() {
+        List<String> list = new ArrayList<>();
         NGram ngram = new NGram();
         for (int i = 0; i < text.length(); ++i) {
             ngram.addChar(text.charAt(i));
@@ -337,8 +326,9 @@ public class LanguageDetector {
         if (word == null || !wordLangProbMap.containsKey(word)) return false;
 
         double[] langProbMap = wordLangProbMap.get(word);
-        if (verbose)
-            System.out.println(word + "(" + unicodeEncode(word) + "):" + wordProbToString(langProbMap));
+        if (verbose) {
+            logger.info(word + "(" + unicodeEncode(word) + "):" + wordProbToString(langProbMap));
+        }
 
         double weight = alpha / BASE_FREQ;
         for (int i = 0; i < prob.length; ++i) {
@@ -352,7 +342,7 @@ public class LanguageDetector {
         for (int j = 0; j < prob.length; ++j) {
             double p = prob[j];
             if (p >= 0.00001) {
-                formatter.format(" %s:%.5f", langlist.get(j), p);
+                formatter.format(" %s:%.5f", langList.get(j), p);
             }
         }
         String string = formatter.toString();
@@ -363,14 +353,14 @@ public class LanguageDetector {
     /**
      * @return language candidates order by probabilities descendently
      */
-    private ArrayList<Language> sortProbability(double[] prob) {
-        ArrayList<Language> list = new ArrayList<Language>();
+    private List<Language> sortProbability(double[] prob) {
+        List<Language> list = new ArrayList<>();
         for (int j = 0; j < prob.length; ++j) {
             double p = prob[j];
             if (p > PROB_THRESHOLD) {
                 for (int i = 0; i <= list.size(); ++i) {
                     if (i == list.size() || list.get(i).prob < p) {
-                        list.add(i, new Language(langlist.get(j), p));
+                        list.add(i, new Language(langList.get(j), p));
                         break;
                     }
                 }
