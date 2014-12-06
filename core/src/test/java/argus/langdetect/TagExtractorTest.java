@@ -2,8 +2,6 @@ package argus.langdetect;
 
 import static org.junit.Assert.*;
 
-import argus.langdetect.util.LangProfile;
-import argus.langdetect.util.TagExtractor;
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;
@@ -12,7 +10,6 @@ import org.junit.Test;
 
 /**
  * @author Nakatani Shuyo
- *
  */
 public class TagExtractorTest {
 
@@ -98,7 +95,7 @@ public class TagExtractorTest {
         TagExtractor extractor = new TagExtractor("abstract", 10);
         assertEquals(extractor.count(), 0);
 
-        LangProfile profile = new LangProfile("en");
+        LanguageProfile profile = new LanguageProfile("en");
 
         // normal
         extractor.setTag("abstract");

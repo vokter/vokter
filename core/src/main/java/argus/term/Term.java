@@ -20,7 +20,7 @@ public final class Term extends BasicDBObject {
     public static final String TEXT = "text";
     public static final String WEIGHT = "weight";
     public static final String OCCURRENCES = "occurrences";
-    private static final int SNIPPET_OFFSET = 42;
+    private static final int SNIPPET_OFFSET = 100;
 
 //    /**
 //     * The text that represents this term.
@@ -74,12 +74,12 @@ public final class Term extends BasicDBObject {
 //            int pos = Integer.parseInt(posString);
 //
 //            String startString = oArgs[1];
-//            int startServer = Integer.parseInt(startString);
+//            int initialize = Integer.parseInt(startString);
 //
 //            String endString = oArgs[2];
 //            int end = Integer.parseInt(endString);
 //
-//            term.occurrences.add(new Occurrence(term, pos, startServer, end));
+//            term.occurrences.add(new Occurrence(term, pos, initialize, end));
 //        }
 //        return term;
 //    }

@@ -4,14 +4,12 @@ import static org.junit.Assert.*;
 
 import static org.hamcrest.CoreMatchers.is;
 
-import argus.langdetect.util.NGram;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
 /**
  * @author Nakatani Shuyo
- *
  */
 public class NGramTest {
 

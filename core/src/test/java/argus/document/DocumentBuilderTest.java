@@ -2,11 +2,15 @@ package argus.document;
 
 import argus.langdetect.LanguageDetectorException;
 import argus.langdetect.LanguageDetectorFactory;
+import argus.parser.GeniaParser;
+import argus.parser.ParserPool;
 import argus.util.Constants;
 import org.junit.BeforeClass;
 import org.junit.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+
+import java.io.IOException;
 
 /**
  * TODO
@@ -18,11 +22,12 @@ import org.slf4j.LoggerFactory;
 public class DocumentBuilderTest {
 
     private static final Logger logger = LoggerFactory.getLogger(DocumentBuilderTest.class);
+    private static final ParserPool pool = new ParserPool();
 
 
     @BeforeClass
-    public static void setUp() throws LanguageDetectorException {
-        LanguageDetectorFactory.loadProfile(Constants.LANGUAGE_PROFILES_DIR);
+    public static void setUp() throws IOException, InterruptedException {
+        pool.place(new GeniaParser());
     }
 
 
@@ -31,13 +36,11 @@ public class DocumentBuilderTest {
 
     @Test
     public void testHTMLNoStopNoStem() {
-        System.out.println(Constants.INSTALL_DIR.getPath());
-
         logger.info("testHTMLNoStopNoStem");
         DocumentBuilder
                 .fromUrl("http://en.wikipedia.org/wiki/Argus_Panoptes")
                 .ignoreCase()
-                .build();
+                .build(pool);
         logger.info("--------------------");
     }
 
@@ -47,7 +50,7 @@ public class DocumentBuilderTest {
         DocumentBuilder
                 .fromUrl("http://en.wikipedia.org/wiki/Special:Export/Argus_Panoptes")
                 .ignoreCase()
-                .build();
+                .build(pool);
         logger.info("--------------------");
     }
 
@@ -57,7 +60,7 @@ public class DocumentBuilderTest {
         DocumentBuilder
                 .fromUrl("http://en.wikipedia.org/w/api.php?format=json&action=query&titles=Argus_Panoptes&prop=revisions&rvprop=content")
                 .ignoreCase()
-                .build();
+                .build(pool);
         logger.info("--------------------");
     }
 
@@ -72,7 +75,7 @@ public class DocumentBuilderTest {
                 .fromUrl("http://en.wikipedia.org/wiki/Argus_Panoptes")
                 .ignoreCase()
                 .withStopwords()
-                .build();
+                .build(pool);
         logger.info("--------------------");
     }
 
@@ -83,7 +86,7 @@ public class DocumentBuilderTest {
                 .fromUrl("http://en.wikipedia.org/wiki/Special:Export/Argus_Panoptes")
                 .ignoreCase()
                 .withStopwords()
-                .build();
+                .build(pool);
         logger.info("--------------------");
     }
 
@@ -94,7 +97,7 @@ public class DocumentBuilderTest {
                 .fromUrl("http://en.wikipedia.org/w/api.php?format=json&action=query&titles=Argus_Panoptes&prop=revisions&rvprop=content")
                 .ignoreCase()
                 .withStopwords()
-                .build();
+                .build(pool);
         logger.info("--------------------");
     }
 
@@ -110,7 +113,7 @@ public class DocumentBuilderTest {
                 .ignoreCase()
                 .withStopwords()
                 .withStemming()
-                .build();
+                .build(pool);
         logger.info("--------------------");
     }
 
@@ -122,7 +125,7 @@ public class DocumentBuilderTest {
                 .ignoreCase()
                 .withStopwords()
                 .withStemming()
-                .build();
+                .build(pool);
         logger.info("--------------------");
     }
 
@@ -134,7 +137,7 @@ public class DocumentBuilderTest {
                 .ignoreCase()
                 .withStopwords()
                 .withStemming()
-                .build();
+                .build(pool);
         logger.info("--------------------");
     }
 }

@@ -19,7 +19,7 @@ import java.io.InputStream;
  * @author Eduardo Duarte (<a href="mailto:eduardo.miguel.duarte@gmail.com">eduardo.miguel.duarte@gmail.com</a>)
  * @version 2.0
  */
-public class MarkupReader implements argus.reader.Reader, NodeVisitor  {
+public class MarkupReader implements argus.reader.Reader, NodeVisitor {
 
     private final StringBuilder accumulator;
     private int width;

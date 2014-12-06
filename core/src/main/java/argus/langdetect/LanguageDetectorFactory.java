@@ -1,16 +1,12 @@
 package argus.langdetect;
 
-import argus.langdetect.util.LangProfile;
 import net.arnx.jsonic.JSON;
 import net.arnx.jsonic.JSONException;
 
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.HashMap;
-import java.util.List;
+import java.util.*;
 
 import static argus.langdetect.LanguageDetectorException.ErrorCode;
 
@@ -35,14 +31,16 @@ import static argus.langdetect.LanguageDetectorException.ErrorCode;
  * @see LanguageDetector
  */
 public class LanguageDetectorFactory {
-    static private LanguageDetectorFactory instance_ = new LanguageDetectorFactory();
-    public HashMap<String, double[]> wordLangProbMap;
-    public ArrayList<String> langlist;
-    public Long seed = null;
+
+    private static LanguageDetectorFactory instance_ = new LanguageDetectorFactory();
+
+    Map<String, double[]> wordLangProbMap;
+    List<String> langList;
+    Long seed = null;
 
     private LanguageDetectorFactory() {
-        wordLangProbMap = new HashMap<String, double[]>();
-        langlist = new ArrayList<String>();
+        wordLangProbMap = new HashMap<>();
+        langList = new ArrayList<>();
     }
 
     /**
@@ -76,7 +74,7 @@ public class LanguageDetectorFactory {
             FileInputStream is = null;
             try {
                 is = new FileInputStream(file);
-                LangProfile profile = JSON.decode(is, LangProfile.class);
+                LanguageProfile profile = JSON.decode(is, LanguageProfile.class);
                 addProfile(profile, index, langsize);
                 ++index;
             } catch (JSONException e) {
@@ -101,15 +99,15 @@ public class LanguageDetectorFactory {
      */
     public static void loadProfile(List<String> json_profiles) throws LanguageDetectorException {
         int index = 0;
-        int langsize = json_profiles.size();
-        if (langsize < 2)
+        int langSize = json_profiles.size();
+        if (langSize < 2)
             throw new LanguageDetectorException(ErrorCode.NeedLoadProfileError, "Need more than 2 profiles");
 
         for (String json : json_profiles) {
             try {
-                LangProfile profile = JSON.decode(json, LangProfile.class);
-                addProfile(profile, index, langsize);
-                ++index;
+                LanguageProfile profile = JSON.decode(json, LanguageProfile.class);
+                addProfile(profile, index, langSize);
+                index++;
             } catch (JSONException e) {
                 throw new LanguageDetectorException(ErrorCode.FormatError, "profile format error");
             }
@@ -122,12 +120,12 @@ public class LanguageDetectorFactory {
      * @param index
      * @throws LanguageDetectorException
      */
-    public static void addProfile(LangProfile profile, int index, int langsize) throws LanguageDetectorException {
+    public static void addProfile(LanguageProfile profile, int index, int langsize) throws LanguageDetectorException {
         String lang = profile.name;
-        if (instance_.langlist.contains(lang)) {
+        if (instance_.langList.contains(lang)) {
             throw new LanguageDetectorException(ErrorCode.DuplicateLangError, "duplicate the same language profile");
         }
-        instance_.langlist.add(lang);
+        instance_.langList.add(lang);
         for (String word : profile.freq.keySet()) {
             if (!instance_.wordLangProbMap.containsKey(word)) {
                 instance_.wordLangProbMap.put(word, new double[langsize]);
@@ -143,8 +141,8 @@ public class LanguageDetectorFactory {
     /**
      * Clear loaded language profiles (reinitialization to be available)
      */
-    static public void clear() {
-        instance_.langlist.clear();
+    public static void clear() {
+        instance_.langList.clear();
         instance_.wordLangProbMap.clear();
     }
 
@@ -154,8 +152,11 @@ public class LanguageDetectorFactory {
      * @return Detector instance
      * @throws LanguageDetectorException
      */
-    static public LanguageDetector create() throws LanguageDetectorException {
-        return createDetector();
+    public static LanguageDetector create() throws LanguageDetectorException {
+        if (instance_.langList.size() == 0) {
+            throw new LanguageDetectorException(ErrorCode.NeedLoadProfileError, "need to load profiles");
+        }
+        return new LanguageDetector(instance_);
     }
 
     /**
@@ -166,16 +167,9 @@ public class LanguageDetectorFactory {
      * @throws LanguageDetectorException
      */
     public static LanguageDetector create(double alpha) throws LanguageDetectorException {
-        LanguageDetector detector = createDetector();
+        LanguageDetector detector = create();
         detector.setAlpha(alpha);
         return detector;
-    }
-
-    static private LanguageDetector createDetector() throws LanguageDetectorException {
-        if (instance_.langlist.size() == 0) {
-            throw new LanguageDetectorException(ErrorCode.NeedLoadProfileError, "need to load profiles");
-        }
-        return new LanguageDetector(instance_);
     }
 
     public static void setSeed(long seed) {
@@ -183,6 +177,6 @@ public class LanguageDetectorFactory {
     }
 
     public static final List<String> getLangList() {
-        return Collections.unmodifiableList(instance_.langlist);
+        return Collections.unmodifiableList(instance_.langList);
     }
 }

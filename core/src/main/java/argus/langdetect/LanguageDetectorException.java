@@ -8,18 +8,12 @@ public class LanguageDetectorException extends Exception {
     private ErrorCode code;
 
 
-    /**
-     * @param code
-     * @param message
-     */
     public LanguageDetectorException(ErrorCode code, String message) {
         super(message);
         this.code = code;
     }
 
-    /**
-     * @return the error code
-     */
+
     public ErrorCode getCode() {
         return code;
     }
