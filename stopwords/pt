@@ -20,7 +20,7 @@ da             |  de + a
 em             |  in
 um             |  a
 para           |  for
-é              |  from SER
+  | é          from SER
 com            |  with
 não            |  not, no
 uma            |  a
@@ -34,22 +34,22 @@ as             |  the; them
 dos            |  de + os
 como           |  as, like
 mas            |  but
-foi            |  from SER
+  | foi        from SER
 ao             |  a + o
 ele            |  he
 das            |  de + as
-tem            |  from TER
+  | tem        from TER
 à              |  a + a
 seu            |  his
 sua            |  her
 ou             |  or
-ser            |  from SER
+  | ser        from SER
 quando         |  when
 muito          |  much
-há             |  from HAV
+  | há         from HAV
 nos            |  em + os; us
 já             |  already, now
-está           |  from EST
+  | está       from EST
 eu             |  I
 também         |  also
 só             |  only, just
@@ -59,22 +59,22 @@ até            |  up to
 isso           |  that
 ela            |  he
 entre          |  between
-era            |  from SER
+  | era        from SER
 depois         |  after
 sem            |  without
 mesmo          |  same
 aos            |  a + os
-ter            |  from TER
+  | ter        from TER
 seus           |  his
 quem           |  whom
 nas            |  em + as
 me             |  me
 esse           |  that
 eles           |  they
-estão          |  from EST
+  | estão      from EST
 você           |  you
-tinha          |  from TER
-foram          |  from SER
+  | tinha      from TER
+  | foram      from SER
 essa           |  that
 num            |  em + um
 nem            |  nor
@@ -82,23 +82,23 @@ suas           |  her
 meu            |  my
 às             |  a + as
 minha          |  my
-têm            |  from TER
+  | têm        from TER
 numa           |  em + uma
 pelos          |  per + os
 elas           |  they
-havia          |  from HAV
-seja           |  from SER
+  | havia      from HAV
+  | seja       from SER
 qual           |  which
-será           |  from SER
+  | será       from SER
 nós            |  we
-tenho          |  from TER
+  | tenho      from TER
 lhe            |  to him, her
 deles          |  of them
 essas          |  those
 esses          |  those
 pelas          |  per + as
 este           |  this
-fosse          |  from SER
+  | fosse      from SER
 dele           |  of him
 
  | other words. There are many contractions such as naquele = em+aquele,

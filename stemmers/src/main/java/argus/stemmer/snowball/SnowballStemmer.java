@@ -322,7 +322,7 @@ public abstract class SnowballStemmer implements Stemmer {
                 ket > limit ||
                 limit > current.length())   // this line could be removed
         {
-            logger.error("faulty slice operation");
+            System.err.println("faulty slice operation");
             // FIXME: report error somehow.
     /*
         fprintf(stderr, "faulty slice operation:\n");
