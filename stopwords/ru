@@ -3,10 +3,8 @@
 
  | a russian stop word list. comments begin with vertical bar. each stop
  | word is at the start of a line.
-
  | this is a ranked list (commonest to rarest) of stopwords derived from
  | a large text sample.
-
  | letter `£' is translated to `Å'.
 
 É              | and
@@ -168,7 +166,6 @@
 ËÏÎÅÞÎÏ        | of course
 ×ÓÀ            | acc. fem. sing of `all'
 ÍÅÖÄÕ          | between
-
 
   | b: some paradigms
   |
