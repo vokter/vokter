@@ -1,5 +1,6 @@
 package argus.document;
 
+import argus.Context;
 import argus.cleaner.AndCleaner;
 import argus.cleaner.Cleaner;
 import argus.cleaner.DiacriticCleaner;
@@ -15,6 +16,7 @@ import argus.stopper.Stopwords;
 import argus.term.Term;
 import argus.util.Constants;
 import argus.util.PluginLoader;
+import com.mongodb.DB;
 import it.unimi.dsi.lang.MutableString;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -22,6 +24,7 @@ import org.slf4j.LoggerFactory;
 import java.io.InputStream;
 import java.util.List;
 import java.util.concurrent.Callable;
+import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ConcurrentMap;
 
 /**
@@ -39,7 +42,7 @@ public class Pipeline implements Callable<Document> {
 
     private static final Logger logger = LoggerFactory.getLogger(Pipeline.class);
 
-    private final ConcurrentMap<MutableString, Term> documentTerms;
+    private final DB termsDatabase;
     private final DocumentInput documentInput;
     private final Parser parser;
     private final boolean isStoppingEnabled;
@@ -47,13 +50,13 @@ public class Pipeline implements Callable<Document> {
     private final boolean ignoreCase;
 
 
-    public Pipeline(final ConcurrentMap<MutableString, Term> documentTerms,
+    public Pipeline(final DB termsDatabase,
                     final DocumentInput documentInput,
                     final Parser parser,
                     final boolean isStoppingEnabled,
                     final boolean isStemmingEnabled,
                     final boolean ignoreCase) {
-        this.documentTerms = documentTerms;
+        this.termsDatabase = termsDatabase;
         this.documentInput = documentInput;
         this.parser = parser;
         this.isStoppingEnabled = isStoppingEnabled;
@@ -66,6 +69,11 @@ public class Pipeline implements Callable<Document> {
     public Document call() throws Exception {
         InputStream documentStream = documentInput.getStream();
         String url = documentInput.getUrl();
+
+
+        // create a temporary in-memory term structure, which will be saved to
+        // local files after indexing
+        final ConcurrentMap<MutableString, Term> terms = new ConcurrentHashMap<>();
 
 
         // reads and parses contents from input content stream
@@ -83,7 +91,7 @@ public class Pipeline implements Callable<Document> {
         // The contents are copied to this object so that it keeps them in its
         // original form, without any transformations that come from filtering
         // or stemming.
-        Document document = new Document(url, content.copy());
+        Document document = new Document(url, content.copy(), termsDatabase);
 
 
         // filters the contents by cleaning characters of whole strings
@@ -143,7 +151,7 @@ public class Pipeline implements Callable<Document> {
             MutableString termText = r.text;
 
             Term term = new Term(termText);
-            Term existingTerm = documentTerms.putIfAbsent(termText, term);
+            Term existingTerm = terms.putIfAbsent(termText, term);
             if (existingTerm != null) {
                 term = existingTerm;
             }
@@ -153,6 +161,9 @@ public class Pipeline implements Callable<Document> {
         }
         results.clear();
         results = null;
+
+
+        terms.values().parallelStream().forEach(document::addTerm);
 
         return document;
     }

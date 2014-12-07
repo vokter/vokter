@@ -7,6 +7,7 @@ import argus.parser.GeniaParser;
 import argus.parser.Parser;
 import argus.parser.ParserPool;
 import argus.watcher.JobPool;
+import com.mongodb.DB;
 import com.mongodb.MongoClient;
 import org.apache.commons.cli.CommandLine;
 import org.apache.commons.cli.CommandLineParser;
@@ -35,6 +36,7 @@ public class Context implements LifeCycle.Listener {
 
 
     private MongoClient mongoClient;
+    private DB termsDatabase;
 
     private final JobPool jobPool;
 
@@ -121,10 +123,6 @@ public class Context implements LifeCycle.Listener {
         return ignoreCase;
     }
 
-    public MongoClient getMongoClient() {
-        return mongoClient;
-    }
-
     /**
      * Starts this REST context at the specified port, using the specified number
      * of threads and wrapping the specified collection and stopwords for queries.
@@ -135,6 +133,7 @@ public class Context implements LifeCycle.Listener {
         }
 
         mongoClient = new MongoClient("localhost", 27017);
+        termsDatabase = mongoClient.getDB("terms_db");
 
         jobPool.initialize(maxThreads);
 
@@ -224,7 +223,7 @@ public class Context implements LifeCycle.Listener {
             builder.ignoreCase();
         }
 
-        Document d = builder.build(parserPool);
+        Document d = builder.build(termsDatabase, parserPool);
 //        this.collection.
     }
 //
