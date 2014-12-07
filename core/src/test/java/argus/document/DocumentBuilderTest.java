@@ -4,6 +4,7 @@ import argus.parser.GeniaParser;
 import argus.parser.ParserPool;
 import com.mongodb.DB;
 import com.mongodb.MongoClient;
+import org.junit.AfterClass;
 import org.junit.BeforeClass;
 import org.junit.Test;
 import org.slf4j.Logger;
@@ -34,6 +35,13 @@ public class DocumentBuilderTest {
     }
 
 
+    @AfterClass
+    public static void close() {
+        mongoClient.close();
+    }
+
+
+    // without stopwords and without stemming
 
     @Test
     public void testHTMLNoStopNoStem() {
@@ -48,6 +56,7 @@ public class DocumentBuilderTest {
         termsDatabase.dropDatabase();
     }
 
+
     @Test
     public void testXMLNoStopNoStem() {
         DB termsDatabase = mongoClient.getDB("terms_db");
@@ -61,6 +70,7 @@ public class DocumentBuilderTest {
         termsDatabase.dropDatabase();
     }
 
+
     @Test
     public void testJSONNoStopNoStem() {
         DB termsDatabase = mongoClient.getDB("terms_db");
@@ -73,7 +83,6 @@ public class DocumentBuilderTest {
         logger.info("--------------------");
         termsDatabase.dropDatabase();
     }
-
 
 
     // with stopwords and without stemming
