@@ -6,10 +6,7 @@ import argus.parser.ParserPool;
 import argus.term.Term;
 import argus.util.PluginLoader;
 import com.google.common.base.Stopwatch;
-import com.mongodb.DB;
-import com.mongodb.DBCollection;
-import com.mongodb.DBCursor;
-import com.mongodb.MongoClient;
+import com.mongodb.*;
 import it.unimi.dsi.lang.MutableString;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -150,15 +147,10 @@ public final class DocumentBuilder {
      *
      * @return the built index of the documents specified in the factory method
      */
-    public Document build(ParserPool parserPool) {
+    public Document build(DB termsDatabase, ParserPool parserPool) {
 
         sw.reset();
         sw.start();
-
-
-        // step 1) Create a temporary in-memory term structure, which will be
-        //         saved to local files after indexing
-        ConcurrentMap<MutableString, Term> documentTerms = new ConcurrentHashMap<>();
 
 
         // step 2) Perform a lazy loading of the document, by obtaining its url,
@@ -196,8 +188,8 @@ public final class DocumentBuilder {
         //         required modules, improving performance of parallel jobs.
         Pipeline pipeline = new Pipeline(
 
-                // general structure that holds the created tokens
-                documentTerms,
+                // general structure that holds the created terms
+                termsDatabase,
 
                 // the input document info, including its path and InputStream
                 input,
@@ -222,9 +214,9 @@ public final class DocumentBuilder {
 
         // step 6) Process the document asynchronously.
         Stopwatch sw2 = Stopwatch.createStarted();
-        Document document = null;
+        Document aux;
         try {
-            document = pipeline.call();
+            aux = pipeline.call();
         } catch (Exception ex) {
             logger.error(ex.getMessage(), ex);
             return null;
@@ -232,7 +224,7 @@ public final class DocumentBuilder {
         sw2.stop();
         logger.info("Document processor elapsed time: " + sw2.toString());
         sw2 = null;
-
+        final Document document = aux;
 
         // step 7) Place the used parser back in the context parser-pool.
         try {
@@ -246,25 +238,37 @@ public final class DocumentBuilder {
         // step 8) calculate the normalization factor (n'lize) for each term in
         //         the document.
         // NOTE: for the calculations above: wt(t, d) = (1 + log10(tf(t, d))) * idf(t)
+        DBCursor cursor = document.termCollection.find();
+        try {
+            int i = 0;
+            while(cursor.hasNext() && i < 10) {
+                Term term = new Term((BasicDBObject) cursor.next());
+                logger.info("{}", term.toString());
+                i++;
+            }
+        } finally {
+            cursor.close();
+        }
 
-        // VectorValue(t) = √ ∑ idf(t)²
-        final double vectorValue = Math.sqrt(documentTerms
-                        .values()
-                        .parallelStream()
-                        .mapToDouble(t -> Math.pow(t.getLogFrequencyWeight(), 2))
-                        .sum()
-        );
-
-        documentTerms.forEach((text, term) -> {
-
-            // wt(t, d) = 1 + log10(tf(t, d))
-            double wt = term.getLogFrequencyWeight();
-
-            // nlize(t, d) = wt(t, d) / VectorValue(t)
-            double nlize = wt / vectorValue;
-
-            term.addNormalizedWeight(nlize);
-        });
+//        // VectorValue(t) = √ ∑ idf(t)²
+//        document.termCollection.mapReduce();
+//        final double vectorValue = Math.sqrt(terms
+//                        .values()
+//                        .parallelStream()
+//                        .mapToDouble(t -> Math.pow(t.getLogFrequencyWeight(), 2))
+//                        .sum()
+//        );
+//
+//        terms.forEach((text, term) -> {
+//
+//            // wt(t, d) = 1 + log10(tf(t, d))
+//            double wt = term.getLogFrequencyWeight();
+//
+//            // nlize(t, d) = wt(t, d) / VectorValue(t)
+//            double nlize = wt / vectorValue;
+//
+//            term.addNormalizedWeight(nlize);
+//        });
 
 
         // Uncomment below to print the top10 index
@@ -277,24 +281,6 @@ public final class DocumentBuilder {
 //                    logger.info(term.toString() + " " + term.getTermFrequency() + " " + term.getNormalizedWeight());
 //                });
 
-
-//        try {
-//            MongoClient mongoClient = new MongoClient("localhost", 27017);
-//            DB termDatabase = mongoClient.getDB("terms_db");
-//            DBCollection termCollection = termDatabase.getCollection(document.getUrl());
-//            DBCursor cursor = termCollection.find();
-//            try {
-//                while(cursor.hasNext()) {
-//                    logger.info("{}", cursor.next());
-//                }
-//            } finally {
-//                cursor.close();
-//            }
-//            mongoClient.close();
-//        } catch (UnknownHostException ex) {
-//            logger.error(ex.getMessage(), ex);
-//            return null;
-//        }
 
 
 //        // step 9) sort and group collected terms by its first character

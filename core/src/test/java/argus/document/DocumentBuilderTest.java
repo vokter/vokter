@@ -1,10 +1,9 @@
 package argus.document;
 
-import argus.langdetect.LanguageDetectorException;
-import argus.langdetect.LanguageDetectorFactory;
 import argus.parser.GeniaParser;
 import argus.parser.ParserPool;
-import argus.util.Constants;
+import com.mongodb.DB;
+import com.mongodb.MongoClient;
 import org.junit.BeforeClass;
 import org.junit.Test;
 import org.slf4j.Logger;
@@ -22,46 +21,57 @@ import java.io.IOException;
 public class DocumentBuilderTest {
 
     private static final Logger logger = LoggerFactory.getLogger(DocumentBuilderTest.class);
-    private static final ParserPool pool = new ParserPool();
+
+    private static MongoClient mongoClient;
+    private static ParserPool parserPool;
 
 
     @BeforeClass
     public static void setUp() throws IOException, InterruptedException {
-        pool.place(new GeniaParser());
+        mongoClient = new MongoClient("localhost", 27017);
+        parserPool = new ParserPool();
+        parserPool.place(new GeniaParser());
     }
 
 
 
-    // without stopwords and without stemming
-
     @Test
     public void testHTMLNoStopNoStem() {
+        DB termsDatabase = mongoClient.getDB("terms_db");
+
         logger.info("testHTMLNoStopNoStem");
         DocumentBuilder
                 .fromUrl("http://en.wikipedia.org/wiki/Argus_Panoptes")
                 .ignoreCase()
-                .build(pool);
+                .build(termsDatabase, parserPool);
         logger.info("--------------------");
+        termsDatabase.dropDatabase();
     }
 
     @Test
     public void testXMLNoStopNoStem() {
+        DB termsDatabase = mongoClient.getDB("terms_db");
+
         logger.info("testXMLNoStopNoStem");
         DocumentBuilder
                 .fromUrl("http://en.wikipedia.org/wiki/Special:Export/Argus_Panoptes")
                 .ignoreCase()
-                .build(pool);
+                .build(termsDatabase, parserPool);
         logger.info("--------------------");
+        termsDatabase.dropDatabase();
     }
 
     @Test
     public void testJSONNoStopNoStem() {
+        DB termsDatabase = mongoClient.getDB("terms_db");
+
         logger.info("testJSONNoStopNoStem");
         DocumentBuilder
                 .fromUrl("http://en.wikipedia.org/w/api.php?format=json&action=query&titles=Argus_Panoptes&prop=revisions&rvprop=content")
                 .ignoreCase()
-                .build(pool);
+                .build(termsDatabase, parserPool);
         logger.info("--------------------");
+        termsDatabase.dropDatabase();
     }
 
 
@@ -70,35 +80,44 @@ public class DocumentBuilderTest {
 
     @Test
     public void testHTMLStopNoStem() {
+        DB termsDatabase = mongoClient.getDB("terms_db");
+
         logger.info("testHTMLStopNoStem");
         DocumentBuilder
                 .fromUrl("http://en.wikipedia.org/wiki/Argus_Panoptes")
                 .ignoreCase()
                 .withStopwords()
-                .build(pool);
+                .build(termsDatabase, parserPool);
         logger.info("--------------------");
+        termsDatabase.dropDatabase();
     }
 
     @Test
     public void testXMLStopNoStem() {
+        DB termsDatabase = mongoClient.getDB("terms_db");
+
         logger.info("testXMLStopNoStem");
         DocumentBuilder
                 .fromUrl("http://en.wikipedia.org/wiki/Special:Export/Argus_Panoptes")
                 .ignoreCase()
                 .withStopwords()
-                .build(pool);
+                .build(termsDatabase, parserPool);
         logger.info("--------------------");
+        termsDatabase.dropDatabase();
     }
 
     @Test
     public void testJSONStopNoStem() {
+        DB termsDatabase = mongoClient.getDB("terms_db");
+
         logger.info("testJSONStopNoStem");
         DocumentBuilder
                 .fromUrl("http://en.wikipedia.org/w/api.php?format=json&action=query&titles=Argus_Panoptes&prop=revisions&rvprop=content")
                 .ignoreCase()
                 .withStopwords()
-                .build(pool);
+                .build(termsDatabase, parserPool);
         logger.info("--------------------");
+        termsDatabase.dropDatabase();
     }
 
 
@@ -107,37 +126,46 @@ public class DocumentBuilderTest {
 
     @Test
     public void testHTMLStopStem() {
+        DB termsDatabase = mongoClient.getDB("terms_db");
+
         logger.info("testHTMLStopStem");
         DocumentBuilder
                 .fromUrl("http://en.wikipedia.org/wiki/Argus_Panoptes")
                 .ignoreCase()
                 .withStopwords()
                 .withStemming()
-                .build(pool);
+                .build(termsDatabase, parserPool);
         logger.info("--------------------");
+        termsDatabase.dropDatabase();
     }
 
     @Test
     public void testXMLStopStem() {
+        DB termsDatabase = mongoClient.getDB("terms_db");
+
         logger.info("testXMLStopStem");
         DocumentBuilder
                 .fromUrl("http://en.wikipedia.org/wiki/Special:Export/Argus_Panoptes")
                 .ignoreCase()
                 .withStopwords()
                 .withStemming()
-                .build(pool);
+                .build(termsDatabase, parserPool);
         logger.info("--------------------");
+        termsDatabase.dropDatabase();
     }
 
     @Test
     public void testJSONStopStem() {
+        DB termsDatabase = mongoClient.getDB("terms_db");
+
         logger.info("testJSONStopStem");
         DocumentBuilder
                 .fromUrl("http://en.wikipedia.org/w/api.php?format=json&action=query&titles=Argus_Panoptes&prop=revisions&rvprop=content")
                 .ignoreCase()
                 .withStopwords()
                 .withStemming()
-                .build(pool);
+                .build(termsDatabase, parserPool);
         logger.info("--------------------");
+        termsDatabase.dropDatabase();
     }
 }

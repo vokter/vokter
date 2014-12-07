@@ -2,10 +2,13 @@ package argus.document;
 
 import argus.term.Occurrence;
 import argus.term.Term;
+import argus.term.TermSnippet;
 import com.mongodb.*;
 import it.unimi.dsi.lang.MutableString;
 
 import java.io.Serializable;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Set;
 
 
@@ -27,15 +30,34 @@ public final class Document implements Serializable {
 
     private final MutableString originalContent;
 
+    final DBCollection termCollection;
 
-    public Document(String url, MutableString originalContent) {
+
+//    public Document(String url, MutableString originalContent) {
+//        this.url = url;
+//        this.originalContent = originalContent;
+//    }
+
+    Document(String url, MutableString originalContent, DB termDatabase) {
         this.url = url;
         this.originalContent = originalContent;
+        this.termCollection = termDatabase.getCollection(url);
     }
 
 
-    public Term getTerm(DB termDatabase, String termText) throws Throwable {
-        DBCollection termCollection = termDatabase.getCollection(url);
+    public void addTerm(Term term) {
+        termCollection.insert(term);
+    }
+
+
+    public void addTermBulk(Set<Term> termToSave) {
+        BulkWriteOperation builder = termCollection.initializeUnorderedBulkOperation();
+        termToSave.forEach(builder::insert);
+        builder.execute();
+    }
+
+
+    public Term getTerm(String termText) {
         if (termText.isEmpty()) {
             return null;
         }
@@ -46,8 +68,7 @@ public final class Document implements Serializable {
     }
 
 
-    public boolean termOccursWithin(DB termDatabase, String termText, int lowerSlopBound, int upperSlopBound) throws Throwable {
-        DBCollection termCollection = termDatabase.getCollection(url);
+    public boolean termOccursWithin(String termText, int lowerSlopBound, int upperSlopBound) {
         if (termText.isEmpty()) {
             return false;
         }
@@ -62,17 +83,24 @@ public final class Document implements Serializable {
     }
 
 
-    public void addTerm(DB termDatabase, Term termToSave) {
-        DBCollection termCollection = termDatabase.getCollection(url);
-        termCollection.insert(termToSave);
-    }
+    /**
+     * Uses the specified document contents to retrieve a string with every snippet
+     * of occurrence of this term in the specified document id. The number specified
+     * limit the number of snippets that are returned.
+     */
+    public List<TermSnippet> getSnippetsForTerm(String termText) {
+        Term term = getTerm(termText);
+        ArrayList occurrencesArray = (ArrayList) term.get(Term.OCCURRENCES);
 
+        List<TermSnippet> list = new ArrayList<>();
+        for (Object o : occurrencesArray) {
+            Occurrence occurrence = (Occurrence) o;
+            list.add(new TermSnippet(originalContent, occurrence));
+            occurrence = null;
+        }
+        term = null;
 
-    public void addTermBulk(DB termDatabase, Set<Term> termToSave) {
-        DBCollection termCollection = termDatabase.getCollection(url);
-        BulkWriteOperation builder = termCollection.initializeUnorderedBulkOperation();
-        termToSave.forEach(builder::insert);
-        builder.execute();
+        return list;
     }
 
 
@@ -111,7 +139,7 @@ public final class Document implements Serializable {
 
     public void destroy() {
         originalContent.delete(0, originalContent.length());
-//        termCollection.drop();
+        termCollection.drop();
     }
 }
 

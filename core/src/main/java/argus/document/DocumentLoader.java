@@ -97,7 +97,8 @@ public final class DocumentLoader implements CacheSource<String, Document> {
             return;
         }
 
-        File documentFile = new File(Constants.DOCUMENTS_DIR, documentFilename);
+        File documentFile = new File(Constants.DOCUMENTS_DIR,
+                documentFilename);
 
         try (OutputStream outputStream = new FileOutputStream(documentFile);
              Output out = new Output(outputStream)) {
