@@ -26,19 +26,20 @@ public class DocumentCollectionTest {
 
     private static final Logger logger = LoggerFactory.getLogger(DocumentCollectionTest.class);
 
-    private static final DocumentCollection collection = new DocumentCollection();
-
     private static MongoClient mongoClient;
     private static DB termsDatabase;
     private static ParserPool parserPool;
-
+    private static DocumentCollection collection;
 
     @BeforeClass
     public static void setUp() throws IOException, InterruptedException {
         mongoClient = new MongoClient("localhost", 27017);
-        termsDatabase = mongoClient.getDB("terms_db");
+        DB documentsDatabase = mongoClient.getDB("test_documents_db");
+        termsDatabase = mongoClient.getDB("test_terms_db");
         parserPool = new ParserPool();
         parserPool.place(new GeniaParser());
+        parserPool.place(new GeniaParser());
+        collection = new DocumentCollection("test_collection", documentsDatabase, termsDatabase);
     }
 
     @Test
@@ -65,7 +66,7 @@ public class DocumentCollectionTest {
 
     @AfterClass
     public static void close() {
-        termsDatabase.dropDatabase();
+        collection.destroy();
         mongoClient.close();
     }
 }

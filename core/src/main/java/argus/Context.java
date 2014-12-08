@@ -32,6 +32,9 @@ public class Context implements LifeCycle.Listener {
 
     private static final Logger logger = LoggerFactory.getLogger(Context.class);
 
+    private static final String TERMS_DB = "argus_terms_db";
+    private static final String DOCUMENTS_DB = "argus_documents_db";
+
     private static final Context instance = new Context();
     private final JobPool jobPool;
     private final ParserPool parserPool;
@@ -60,13 +63,13 @@ public class Context implements LifeCycle.Listener {
      */
     private boolean ignoreCase = true;
     private MongoClient mongoClient;
+    private DB documentsDatabase;
     private DB termsDatabase;
 
 
     private Context() {
         super();
         initialized = false;
-        collection = new DocumentCollection();
         jobPool = new JobPool();
         parserPool = new ParserPool();
     }
@@ -243,7 +246,15 @@ public class Context implements LifeCycle.Listener {
         }
 
         mongoClient = new MongoClient("localhost", 27017);
-        termsDatabase = mongoClient.getDB("terms_db");
+
+        documentsDatabase = mongoClient.getDB(DOCUMENTS_DB);
+        termsDatabase = mongoClient.getDB(TERMS_DB);
+
+        collection = new DocumentCollection(
+                "argus_production_collection",
+                documentsDatabase,
+                termsDatabase
+        );
 
         jobPool.initialize(maxThreads);
 

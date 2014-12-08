@@ -1,6 +1,10 @@
 package argus.query;
 
+import argus.document.Document;
+import argus.parser.Parser;
+import argus.parser.ParserPool;
 import argus.stemmer.Stemmer;
+import com.google.common.base.Stopwatch;
 import it.unimi.dsi.lang.MutableString;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -19,23 +23,22 @@ public final class QueryBuilder {
 
     private static final Logger logger = LoggerFactory.getLogger(QueryBuilder.class);
 
-    private MutableString queryInput;
+    private final MutableString queryInput;
     private int slop;
-    private Set<MutableString> stopwords;
-    private Class<? extends Stemmer> stemmerClass;
-    private boolean ignoreCase = false;
+    private boolean isStoppingEnabled;
+    private boolean isStemmingEnabled;
+    private boolean ignoreCase;
 
 
-    private QueryBuilder() {
-    }
-
-    public static QueryBuilder newBuilder() {
-        return new QueryBuilder();
-    }
-
-    public QueryBuilder withText(final MutableString queryInput) {
+    private QueryBuilder(final MutableString queryInput) {
         this.queryInput = queryInput;
-        return this;
+        this.isStoppingEnabled = false;
+        this.isStemmingEnabled = false;
+        this.ignoreCase = false;
+    }
+
+    public static QueryBuilder fromText(final String queryInput) {
+        return new QueryBuilder(new MutableString(queryInput));
     }
 
     public QueryBuilder withSlop(final int slop) {
@@ -43,14 +46,14 @@ public final class QueryBuilder {
         return this;
     }
 
-    public QueryBuilder withStopwords(final Set<MutableString> stopwords) {
-        this.stopwords = stopwords;
+    public QueryBuilder withStopwords() {
+        this.isStoppingEnabled = true;
         return this;
     }
 
 
-    public QueryBuilder withStemmer(final Class<? extends Stemmer> stemmerClass) {
-        this.stemmerClass = stemmerClass;
+    public QueryBuilder withStemming() {
+        this.isStemmingEnabled = true;
         return this;
     }
 
@@ -60,31 +63,60 @@ public final class QueryBuilder {
         return this;
     }
 
-    public Query build() {
-        LinkedHashSet<MutableString> queryTexts = new LinkedHashSet<>();
+    public Query build(ParserPool parserPool) {
 
-        new QueryPipeline(
+        // step 3) Takes a parser from the parser-pool.
+        Parser parser;
+        try {
+            parser = parserPool.take();
+        } catch (InterruptedException ex) {
+            logger.error(ex.getMessage(), ex);
+            return null;
+        }
+
+        QueryPipeline pipeline = new QueryPipeline(
 
                 // the textual input of the search
                 queryInput,
 
-                // general structure that holds the separated tokens of the search
-                queryTexts,
+                // the parser that will be used for query parsing and term
+                // detection
+                parser,
+
+                // the set of stopwords that will be filtered during tokenization
+                isStoppingEnabled,
+
+                // the stemmer class that will be used to stem the detected tokens
+                isStemmingEnabled,
 
                 // flag that forces every found token to be
                 // lower case, matching, for example, the words
                 // 'be' and 'Be' as the same token when searching
-                ignoreCase,
+                ignoreCase
+        );
 
-                // the set of stopwords that will be filtered during tokenization
-                stopwords,
+        // step 5) Process the document asynchronously.
+        Stopwatch sw = Stopwatch.createStarted();
+        Query aux;
+        try {
+            aux = pipeline.call();
+        } catch (Exception ex) {
+            logger.error(ex.getMessage(), ex);
+            return null;
+        }
+        sw.stop();
+        logger.info("Query processor elapsed time: " + sw.toString());
+        sw = null;
+        final Query query = aux;
 
-                // the stemmer class that will be used to stem the detected tokens
-                stemmerClass
+        // step 6) Place the parser back in the parser-pool.
+        try {
+            parserPool.place(parser);
+        } catch (InterruptedException ex) {
+            logger.error(ex.getMessage(), ex);
+            return null;
+        }
 
-        ).run();
-
-        // instantiate the Query object
-        return new Query(queryTexts, slop);
+        return query;
     }
 }

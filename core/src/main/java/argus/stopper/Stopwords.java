@@ -11,8 +11,6 @@ import it.unimi.dsi.lang.MutableString;
  */
 public interface Stopwords {
 
-    void load(String language);
-
     boolean isStopword(MutableString termText);
 
     void destroy();
