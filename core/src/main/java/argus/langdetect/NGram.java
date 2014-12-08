@@ -14,11 +14,12 @@ import java.util.regex.Pattern;
 public class NGram {
 
     public final static int N_GRAM = 3;
+    public static final HashMap<Character, Character> cjk_map = new HashMap<>();
 
     /**
      * CJK Kanji Normalization Mapping
      */
-    static final String[] CJK_CLASS = {
+    private static final String[] CJK_CLASS = {
             LanguageDetectorMessages.getString("NGram.KANJI_1_0"),
             LanguageDetectorMessages.getString("NGram.KANJI_1_2"),
             LanguageDetectorMessages.getString("NGram.KANJI_1_4"),
@@ -147,7 +148,6 @@ public class NGram {
             LanguageDetectorMessages.getString("NGram.KANJI_7_37"),
     };
 
-    public static final HashMap<Character, Character> cjk_map = new HashMap<>();
     static {
         for (String cjk_list : CJK_CLASS) {
             char representative = cjk_list.charAt(0);
@@ -156,6 +156,7 @@ public class NGram {
             }
         }
     }
+
     private static final String LATIN1_EXCLUDED = LanguageDetectorMessages.getString("NGram.LATIN1_EXCLUDE");
     private static final String[] NORMALIZED_VI_CHARS = {
             LanguageDetectorMessages.getString("NORMALIZED_VI_CHARS_0300"),
@@ -169,6 +170,7 @@ public class NGram {
             + DMARK_CLASS + "])");
     private StringBuffer grams_;
     private boolean capitalword_;
+
     /**
      * Constructor.
      */

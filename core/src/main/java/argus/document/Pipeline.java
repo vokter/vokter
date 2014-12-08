@@ -1,6 +1,5 @@
 package argus.document;
 
-import argus.Context;
 import argus.cleaner.AndCleaner;
 import argus.cleaner.Cleaner;
 import argus.cleaner.DiacriticCleaner;
@@ -32,7 +31,7 @@ import java.util.concurrent.ConcurrentMap;
  * specifically a document. Every detected token is stored with a group
  * of common occurrences between different documents by using the provided
  * concurrent map structures.
- * <p/>
+ * <p>
  * This class was named Pipeline in the previous assignment.
  *
  * @author Eduardo Duarte (<a href="mailto:eduardo.miguel.duarte@gmail.com">eduardo.miguel.duarte@gmail.com</a>)
@@ -91,7 +90,7 @@ public class Pipeline implements Callable<Document> {
         // The contents are copied to this object so that it keeps them in its
         // original form, without any transformations that come from filtering
         // or stemming.
-        Document document = new Document(url, content.copy(), termsDatabase);
+        Document document = new Document(url, content.copy());
 
 
         // filters the contents by cleaning characters of whole strings
@@ -163,7 +162,42 @@ public class Pipeline implements Callable<Document> {
         results = null;
 
 
-        terms.values().parallelStream().forEach(document::addTerm);
+        // calculate the normalization factor (n'lize) for each term in the document
+        // NOTE: for the calculations above: wt(t, d) = (1 + log10(tf(t, d))) * idf(t)
+
+        // VectorValue(t) = √ ∑ idf(t)²
+        final double vectorValue = Math.sqrt(terms
+                        .values()
+                        .parallelStream()
+                        .mapToDouble(t -> Math.pow(t.getLogFrequencyWeight(), 2))
+                        .sum()
+        );
+        terms.forEach((text, term) -> {
+
+            // wt(t, d) = 1 + log10(tf(t, d))
+            double wt = term.getLogFrequencyWeight();
+
+            // nlize(t, d) = wt(t, d) / VectorValue(t)
+            double nlize = wt / vectorValue;
+
+            term.addNormalizedWeight(nlize);
+        });
+
+
+        // Uncomment below to print the top10 index
+        logger.info("Vocabulary size: " + terms.size());
+        terms.values()
+                .stream()
+                .sorted((o1, o2) -> Integer.compare(o2.getTermFrequency(), o1.getTermFrequency()))
+                .limit(10)
+                .forEach(term -> logger.info(term.toString() + " " +
+                                term.getTermFrequency() + " " +
+                                term.getNormalizedWeight()
+                ));
+
+
+        // adds the terms to the document object
+        document.addMultipleTerms(termsDatabase, terms.values());
 
         return document;
     }

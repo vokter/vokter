@@ -6,23 +6,27 @@ import net.arnx.jsonic.JSONException;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 
 import static argus.langdetect.LanguageDetectorException.ErrorCode;
 
 /**
  * Language Detector Factory Class
- * <p/>
+ * <p>
  * This class manages an initialization and constructions of {@link LanguageDetector}.
- * <p/>
+ * <p>
  * Before using language detection library,
  * load profiles with {@link LanguageDetectorFactory#loadProfile(String)} method
  * and set initialization parameters.
- * <p/>
+ * <p>
  * When the language detection,
  * construct Detector instance via {@link LanguageDetectorFactory#create()}.
  * See also {@link LanguageDetector}'s sample code.
- * <p/>
+ * <p>
  * <ul>
  * <li>4x faster improvement based on Elmer Garduno's code. Thanks!</li>
  * </ul>

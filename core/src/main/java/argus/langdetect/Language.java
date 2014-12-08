@@ -4,7 +4,7 @@ package argus.langdetect;
  * {@link argus.langdetect.Language} is to store the detected language.
  * {@link LanguageDetector#getProbabilities()} returns an {@link java.util.ArrayList} of
  * {@link argus.langdetect.Language}s.
- * <p/>
+ * <p>
  * Available Language for Detection
  * af		Afrikaans
  * ar		Arabic

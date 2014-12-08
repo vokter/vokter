@@ -6,7 +6,7 @@ import it.unimi.dsi.lang.MutableString;
  * Simple cleaner class that filters some common special, non-informative
  * characters. The filtered characters are replaced by whitespaces (optimizing
  * the Tokenizer results).
- * <p/>
+ * <p>
  * As a rule, this clean will only clear characters that do not provide much
  * information on their own, like quotation-marks and bullet-points, for example.
  * This clean, however, will NOT clean characters that provide mathematical

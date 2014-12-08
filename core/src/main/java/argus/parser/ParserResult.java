@@ -18,9 +18,9 @@ public class ParserResult {
     public final MutableString text;
 
     ParserResult(final int count,
-                   final int start,
-                   final int end,
-                   final MutableString text) {
+                 final int start,
+                 final int end,
+                 final MutableString text) {
         this.count = count;
         this.start = start;
         this.end = end;

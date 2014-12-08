@@ -35,12 +35,6 @@ public class DocumentBuilderTest {
     }
 
 
-    @AfterClass
-    public static void close() {
-        mongoClient.close();
-    }
-
-
     // without stopwords and without stemming
 
     @Test
@@ -176,5 +170,11 @@ public class DocumentBuilderTest {
                 .build(termsDatabase, parserPool);
         logger.info("--------------------");
         termsDatabase.dropDatabase();
+    }
+
+
+    @AfterClass
+    public static void close() {
+        mongoClient.close();
     }
 }

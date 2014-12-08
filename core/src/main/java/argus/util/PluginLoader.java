@@ -18,7 +18,6 @@ import java.net.URLConnection;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.Collections;
-import java.util.Objects;
 import java.util.Optional;
 import java.util.concurrent.TimeUnit;
 import java.util.stream.Stream;
@@ -92,6 +91,41 @@ public class PluginLoader {
         return existingStemmerClasses.get(language);
     }
 
+    private static Class loadPlugin(Path pluginFile)
+            throws ClassNotFoundException, IOException {
+
+        CustomClassLoader loader = new CustomClassLoader();
+
+        String url = "file:" + pluginFile.toAbsolutePath().toString();
+        URL myUrl = new URL(url);
+        URLConnection connection = myUrl.openConnection();
+        InputStream input = connection.getInputStream();
+        ByteArrayOutputStream buffer = new ByteArrayOutputStream();
+        int data = input.read();
+
+        while (data != -1) {
+            buffer.write(data);
+            data = input.read();
+        }
+
+        input.close();
+
+        byte[] classData = buffer.toByteArray();
+        Class loadedClass;
+
+        try {
+            loadedClass = loader.defineClass(classData);
+
+        } catch (NoClassDefFoundError ex) {
+            loadedClass = null;
+        }
+
+        loader.clearAssertionStatus();
+        loader = null;
+        System.gc();
+
+        return loadedClass;
+    }
 
     private static class ReaderSource implements CacheSource<String, Class> {
 
@@ -154,7 +188,6 @@ public class PluginLoader {
         }
     }
 
-
     private static class StemmerSource implements CacheSource<String, Class> {
 
         @Override
@@ -209,42 +242,6 @@ public class PluginLoader {
             }
             return null;
         }
-    }
-
-    private static Class loadPlugin(Path pluginFile)
-            throws ClassNotFoundException, IOException {
-
-        CustomClassLoader loader = new CustomClassLoader();
-
-        String url = "file:" + pluginFile.toAbsolutePath().toString();
-        URL myUrl = new URL(url);
-        URLConnection connection = myUrl.openConnection();
-        InputStream input = connection.getInputStream();
-        ByteArrayOutputStream buffer = new ByteArrayOutputStream();
-        int data = input.read();
-
-        while (data != -1) {
-            buffer.write(data);
-            data = input.read();
-        }
-
-        input.close();
-
-        byte[] classData = buffer.toByteArray();
-        Class loadedClass;
-
-        try {
-            loadedClass = loader.defineClass(classData);
-
-        } catch (NoClassDefFoundError ex) {
-            loadedClass = null;
-        }
-
-        loader.clearAssertionStatus();
-        loader = null;
-        System.gc();
-
-        return loadedClass;
     }
 
     private static class CustomClassLoader extends ClassLoader {

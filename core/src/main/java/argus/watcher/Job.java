@@ -1,15 +1,7 @@
 package argus.watcher;
 
-import argus.Context;
-import argus.comparison.Discrepancy;
-import argus.comparison.DocumentComparison;
-import argus.document.Document;
-import argus.document.DocumentBuilder;
 import argus.document.DocumentCollection;
 import argus.parser.ParserPool;
-import argus.util.SynchronizedCounter;
-
-import java.util.List;
 
 /**
  * TODO
