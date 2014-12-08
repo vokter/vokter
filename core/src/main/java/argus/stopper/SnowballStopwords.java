@@ -1,7 +1,6 @@
 package argus.stopper;
 
 import argus.parser.Parser;
-import argus.parser.ParserResult;
 import argus.parser.SimpleParser;
 import argus.util.Constants;
 import com.google.common.collect.ImmutableSet;
@@ -10,8 +9,14 @@ import org.apache.commons.io.IOUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import java.io.*;
-import java.util.*;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.io.InputStream;
+import java.util.Collections;
+import java.util.HashSet;
+import java.util.List;
+import java.util.Set;
 import java.util.stream.Collectors;
 
 /**

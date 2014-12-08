@@ -1,15 +1,18 @@
 package argus.document;
 
 import org.cache2k.Cache;
+import org.cache2k.CacheBuilder;
 import org.cache2k.PropagatedCacheException;
 import org.cache2k.impl.CacheLockSpinsExceededError;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import java.util.concurrent.TimeUnit;
+
 /**
  * A DocumentCollection represents the widest information unit, and has direct
  * access to every collected document and terms.
- * <p/>
+ * <p>
  * This class was named Corpora in the previous assignment.
  *
  * @author Eduardo Duarte (<a href="mailto:eduardo.miguel.duarte@gmail.com">eduardo.miguel.duarte@gmail.com</a>)
@@ -19,22 +22,72 @@ public final class DocumentCollection {
 
     private static final Logger logger = LoggerFactory.getLogger(DocumentCollection.class);
 
+    /**
+     * Cache loader for reading and writing local document files.
+     */
+    private final DocumentLoader documentLoader;
+
 
     /**
      * Local and cached map of document IDs (integers) to document objects.
      */
-    private final Cache<String, Document> documents;
+    private final Cache<String, Document> documentsCache;
+
 
     /**
-     * The total number of documents in the collection.
+     * Instantiate the Collection object, which represents the core access to the
+     * above mentioned persistence and cache mechanisms.
      */
-    private final int N;
+    public DocumentCollection() {
+        documentLoader = new DocumentLoader();
+        documentsCache = CacheBuilder
+                .newCache(String.class, Document.class)
+                .expiryDuration(20, TimeUnit.SECONDS)
+                .maxSize(600)
+                .source(documentLoader)
+                .build();
+    }
 
 
-    public DocumentCollection(final Cache<String, Document> documents,
-                              final int N) {
-        this.documents = documents;
-        this.N = N;
+    /**
+     * Adds the specified document to the local database.
+     */
+    public void add(Document document) {
+        documentLoader.write(document);
+//        documentsCache.put(document.getUrl(), document);
+    }
+
+
+    /**
+     * Removes the specified document from the local database.
+     */
+    public void remove(String url) {
+        documentLoader.delete(url);
+        documentsCache.remove(url);
+    }
+
+
+    /**
+     * Converts the specified document url into a document object, by reading it
+     * from its local file / cache.
+     */
+    public Document get(String documentUrl) {
+        try {
+            // the 'get' method will look for any document in the local files or
+            // temporary cache whose url is equal to the specified url
+            Document document = documentsCache.get(documentUrl);
+            if (document != null) {
+                return document;
+            } else {
+                // the 'null' value was added to the cache, so remove it
+                documentsCache.remove(documentUrl);
+                return null;
+            }
+        } catch (PropagatedCacheException | CacheLockSpinsExceededError ex) {
+//            // if this exception occurs, then no occurrences of the specified
+//            // document were found in this collection
+            return null;
+        }
     }
 
 
@@ -43,25 +96,8 @@ public final class DocumentCollection {
      * Every retrieval of documents performed after this will require reading the
      * local document file again.
      */
-    public void clearDocumentsCache() {
-        documents.clear();
-    }
-
-
-    /**
-     * Converts the specified document id into a document object, by reading it
-     * from its local file / cache.
-     */
-    public Document getDocumentForId(String documentUrl) {
-        try {
-            // the 'get' method will look for any document in the local files or
-            // temporary cache that is equal to the specified id
-            return documents.get(documentUrl);
-        } catch (PropagatedCacheException | CacheLockSpinsExceededError ex) {
-//            // if this exception occurs, then no occurrences of the specified
-//            // document were found in this collection
-            return null;
-        }
+    public void clearCache() {
+        documentsCache.clear();
     }
 
 
@@ -229,13 +265,5 @@ public final class DocumentCollection {
 //
 //        return new QueryResult(finalResults, sw.toString());
 //    }
-
-
-    /**
-     * Returns the number of documents in the collection.
-     */
-    public int getN() {
-        return N;
-    }
 
 }

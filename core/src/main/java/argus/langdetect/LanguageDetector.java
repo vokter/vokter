@@ -6,7 +6,12 @@ import org.slf4j.LoggerFactory;
 import java.io.IOException;
 import java.io.Reader;
 import java.lang.Character.UnicodeBlock;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Formatter;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+import java.util.Random;
 import java.util.regex.Pattern;
 
 import static argus.langdetect.LanguageDetectorException.ErrorCode;
@@ -15,13 +20,13 @@ import static argus.langdetect.LanguageDetectorException.ErrorCode;
  * {@link LanguageDetector} class is to detect language from specified text.
  * Its instance is able to be constructed via the factory class
  * {@link LanguageDetectorFactory}.
- * <p/>
+ * <p>
  * After appending a target text to the {@link LanguageDetector} instance with
  * {@link #append(java.io.Reader)} or {@link #append(CharSequence)},
  * the detector provides the language detection results for target text via {@link #detect()} or {@link #getProbabilities()}.
  * {@link #detect()} method returns a single language name which has the highest probability.
  * {@link #getProbabilities()} methods returns a list of multiple languages and their probabilities.
- * <p/>
+ * <p>
  * <ul>
  * <li>4x faster improvement based on Elmer Garduno's code. Thanks!</li>
  * </ul>

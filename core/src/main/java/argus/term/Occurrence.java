@@ -13,7 +13,7 @@ import java.util.Comparator;
  * @author Eduardo Duarte (<a href="mailto:eduardo.miguel.duarte@gmail.com">eduardo.miguel.duarte@gmail.com</a>)
  * @version 2.0
  */
-public final class Occurrence extends BasicDBObject implements Comparable<Occurrence>, Serializable {
+public class Occurrence extends BasicDBObject implements Comparable<Occurrence>, Serializable {
     public static final String WORD_COUNT = "word_count";
     public static final String START_INDEX = "start_index";
     public static final String END_INDEX = "end_index";
@@ -23,6 +23,11 @@ public final class Occurrence extends BasicDBObject implements Comparable<Occurr
         super(WORD_COUNT, wordCount);
         append(START_INDEX, startIndex);
         append(END_INDEX, endIndex);
+    }
+
+
+    protected Occurrence(Occurrence o) {
+        this(o.getWordCount(), o.getStartIndex(), o.getEndIndex());
     }
 
 
@@ -135,43 +140,38 @@ public final class Occurrence extends BasicDBObject implements Comparable<Occurr
         return new OccurrenceComparator().compare(this, o);
     }
 
-//    /**
-//     * Checks the equality between this occurrence and the specified one.
-//     *
-//     * @param o the occurrence to be compared with.
-//     * @return <code>true</code> if the two annotations are equal, and
-//     * <code>false</code> otherwise.
-//     */
-//    @Override
-//    public boolean equals(Object o) {
-//        if (this == o) return true;
-//        if (o == null || getClass() != o.getClass()) return false;
-//
-//        Occurrence that = (Occurrence) o;
-//        return this.parentTerm.equals(that.parentTerm) &&
-//                this.wordCount == that.wordCount &&
-//                this.startIndex == that.startIndex &&
-//                this.endIndex == that.endIndex;
-//    }
-//
-//    /**
-//     * Override the hashCode method to consider all the internal variables.
-//     *
-//     * @return unique number for each occurrence
-//     */
-//    @Override
-//    public int hashCode() {
-//        int hash = 7;
-//        hash = 79 * hash + this.getStartIndex();
-//        hash = 79 * hash + this.getEndIndex();
-//        return hash;
-//    }
-//
-//
-//    @Override
-//    public String toString() {
-//        return parentTerm.toString();
-//    }
+    /**
+     * Checks the equality between this occurrence and the specified one.
+     *
+     * @param o the occurrence to be compared with.
+     * @return <code>true</code> if the two annotations are equal, and
+     * <code>false</code> otherwise.
+     */
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+
+        Occurrence that = (Occurrence) o;
+        return this.getWordCount() == that.getWordCount() &&
+                this.getStartIndex() == that.getStartIndex() &&
+                this.getEndIndex() == that.getEndIndex();
+    }
+
+    /**
+     * Override the hashCode method to consider all the internal variables.
+     *
+     * @return unique number for each occurrence
+     */
+    @Override
+    public int hashCode() {
+        int hash = 7;
+        hash = 79 * hash + this.getWordCount();
+        hash = 79 * hash + this.getStartIndex();
+        hash = 79 * hash + this.getEndIndex();
+        return hash;
+    }
+
 
     /**
      * Comparator used to sort a set of {@link Occurrence} objects.

@@ -7,12 +7,17 @@ import com.esotericsoftware.kryo.io.Input;
 import com.esotericsoftware.kryo.io.Output;
 import com.esotericsoftware.kryo.serializers.DeflateSerializer;
 import it.unimi.dsi.lang.MutableString;
-import org.apache.commons.io.FileDeleteStrategy;
 import org.cache2k.CacheSource;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import java.io.*;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.OutputStream;
+import java.io.UnsupportedEncodingException;
 import java.net.URLEncoder;
 
 /**
@@ -48,29 +53,67 @@ public final class DocumentLoader implements CacheSource<String, Document> {
         }));
     }
 
-
     DocumentLoader() {
         if (Constants.DOCUMENTS_DIR.exists() && !Constants.DOCUMENTS_DIR.isDirectory()) {
-            try {
-                FileDeleteStrategy.FORCE.delete(Constants.DOCUMENTS_DIR);
-            } catch (IOException e) {
-                Constants.DOCUMENTS_DIR.delete();
-            }
+            Constants.deleteFile(Constants.DOCUMENTS_DIR);
         }
         Constants.DOCUMENTS_DIR.mkdirs();
     }
 
+    private static String urlToFilename(String url) {
+        try {
+            return URLEncoder.encode(url, "UTF-8");
+
+        } catch (UnsupportedEncodingException ex) {
+            logger.error("Error while writing document with url '" + url + "'.", ex);
+            return null;
+        }
+    }
+
+    public void write(Document document) {
+        String documentUrl = document.getUrl();
+        String documentFilename = urlToFilename(documentUrl);
+        if (documentFilename == null) {
+            return;
+        }
+
+        File documentFile = new File(Constants.DOCUMENTS_DIR, documentFilename);
+        try {
+            if (documentFile.exists()) {
+                Constants.deleteFile(documentFile);
+            }
+            OutputStream outputStream = new FileOutputStream(documentFile);
+            Output out = new Output(outputStream);
+            kryo.writeObject(out, document);
+            out.close();
+            outputStream.close();
+
+        } catch (IOException ex) {
+            logger.error("Error while writing document with url '" + documentUrl + "'.", ex);
+        }
+
+        logger.info("Added a new document for url " + documentUrl);
+        String diskSize = Constants.fileSizeToString(Constants.folderSize(Constants.DOCUMENTS_DIR));
+        logger.info("Current disk size: " + diskSize);
+    }
+
+    public void delete(String documentUrl) {
+        String documentFilename = urlToFilename(documentUrl);
+        if (documentFilename == null) {
+            return;
+        }
+        File documentFile = new File(Constants.DOCUMENTS_DIR, documentFilename);
+        if (documentFile.exists() && !documentFile.isDirectory()) {
+            Constants.deleteFile(documentFile);
+        }
+    }
 
     @Override
     public Document get(String documentUrl) {
-        String documentFilename;
-        try {
-            documentFilename = URLEncoder.encode(documentUrl, "UTF-8");
-        } catch (UnsupportedEncodingException ex) {
-            logger.error("Error while reading document with url '" + documentUrl + "'.", ex);
+        String documentFilename = urlToFilename(documentUrl);
+        if (documentFilename == null) {
             return null;
         }
-
         File documentFile = new File(Constants.DOCUMENTS_DIR, documentFilename);
         if (documentFile.exists() && !documentFile.isDirectory()) {
             try (InputStream inputStream = new FileInputStream(documentFile);
@@ -80,32 +123,8 @@ public final class DocumentLoader implements CacheSource<String, Document> {
                 logger.error("Error while reading document with url '" + documentUrl + "'.", ex);
             }
         }
-
         // if this point is reached, then there are no stored
-        // documents with the specified id
+        // documents with the specified url
         return null;
-    }
-
-    public void write(Document document) {
-        String documentUrl = document.getUrl();
-        String documentFilename;
-        try {
-            documentFilename = URLEncoder.encode(documentUrl, "UTF-8");
-
-        } catch (UnsupportedEncodingException ex) {
-            logger.error("Error while writing document with url '" + documentUrl + "'.", ex);
-            return;
-        }
-
-        File documentFile = new File(Constants.DOCUMENTS_DIR,
-                documentFilename);
-
-        try (OutputStream outputStream = new FileOutputStream(documentFile);
-             Output out = new Output(outputStream)) {
-            kryo.writeObject(out, document);
-
-        } catch (IOException ex) {
-            logger.error("Error while writing document with url '" + documentUrl + "'.", ex);
-        }
     }
 }

@@ -1,17 +1,15 @@
 package argus.term;
 
-import argus.document.Document;
 import com.mongodb.BasicDBObject;
 import it.unimi.dsi.lang.MutableString;
 
 import java.util.ArrayList;
-import java.util.Iterator;
 
 
 /**
  * A Term represents the most basic information unit, corresponding to a
  * indexable and searchable field of text.
- * <p/>
+ * <p>
  * This class was named Token in the previous assignment.
  *
  * @author Eduardo Duarte (<a href="mailto:eduardo.miguel.duarte@gmail.com">eduardo.miguel.duarte@gmail.com</a>)
@@ -100,9 +98,7 @@ public final class Term extends BasicDBObject {
      */
     @Override
     public String toString() {
-        String text = getString(TEXT);
-        ArrayList occurrencesArray = (ArrayList) get(OCCURRENCES);
-        return text + " " + occurrencesArray.toString();
+        return getString(TEXT);
     }
 
 }

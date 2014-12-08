@@ -57,7 +57,8 @@ public class GeniaParser implements Parser {
         bw = new BufferedWriter(new OutputStreamWriter(sink));
         pc = new ProcessWrapper(pis, pos, new PrintStream(new OutputStream() {
             @Override
-            public void write(int b) {}
+            public void write(int b) {
+            }
         }));
 
         pc.create(dir, parserCommand);
@@ -157,6 +158,7 @@ public class GeniaParser implements Parser {
                     if (ignoreCase) {
                         tokenText.toLowerCase();
                     }
+
                     // checks if the text is a stopword
                     // if true, do not stem it nor add it to the ParserResult list
                     boolean isStopword = false;

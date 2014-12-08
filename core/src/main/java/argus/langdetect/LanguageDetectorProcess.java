@@ -5,12 +5,23 @@ import net.arnx.jsonic.JSONException;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import java.io.*;
-import java.util.*;
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.List;
+import java.util.Map;
+import java.util.Set;
 
 /**
  * LangDetect Command Line Interface
- * <p/>
+ * <p>
  * This is a command line interface of Language Detection Library "LangDetect".
  *
  * @author Nakatani Shuyo
@@ -141,7 +152,7 @@ public class LanguageDetectorProcess {
 
     /**
      * Generate Language Profile from Wikipedia Abstract Database File
-     * <p/>
+     * <p>
      * <pre>
      * usage: --genprofile -d [abstracts directory] [language names]
      * </pre>
@@ -176,7 +187,7 @@ public class LanguageDetectorProcess {
 
     /**
      * Generate Language Profile from Text File
-     * <p/>
+     * <p>
      * <pre>
      * usage: --genprofile-text -l [language code] [text file path]
      * </pre>
@@ -218,7 +229,7 @@ public class LanguageDetectorProcess {
 
     /**
      * Language detection test for each file (--detectlang option)
-     * <p/>
+     * <p>
      * <pre>
      * usage: --detectlang -d [profile directory] -a [alpha] -s [seed] [test file(s)]
      * </pre>
@@ -248,11 +259,11 @@ public class LanguageDetectorProcess {
 
     /**
      * Batch Test of Language Detection (--batchtest option)
-     * <p/>
+     * <p>
      * <pre>
      * usage: --batchtest -d [profile directory] -a [alpha] -s [seed] [test data(s)]
      * </pre>
-     * <p/>
+     * <p>
      * The format of test data(s):
      * <pre>
      *   [correct language name]\t[text body for test]\n
