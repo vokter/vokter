@@ -140,7 +140,7 @@ public class PluginLoader {
                     // loads all reader classes
                     .map(this::loadReader)
 
-                            // finds the one that supports the specified content-type
+                    // finds the one that supports the specified content-type
                     .filter(readerClass -> {
                         try {
                             if (readerClass != null) {
@@ -201,7 +201,7 @@ public class PluginLoader {
                     // loads all stemmer classes
                     .map(this::loadStemmer)
 
-                            // finds the one that supports the specified language
+                    // finds the one that supports the specified language
                     .filter(stemmerClass -> {
                         try {
                             if (stemmerClass != null) {

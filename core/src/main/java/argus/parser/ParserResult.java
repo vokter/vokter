@@ -12,16 +12,16 @@ import it.unimi.dsi.lang.MutableString;
  */
 public class ParserResult {
 
-    public final int count;
+    public final int wordNum;
     public final int start;
     public final int end;
     public final MutableString text;
 
-    ParserResult(final int count,
+    ParserResult(final int wordNum,
                  final int start,
                  final int end,
                  final MutableString text) {
-        this.count = count;
+        this.wordNum = wordNum;
         this.start = start;
         this.end = end;
         this.text = text;

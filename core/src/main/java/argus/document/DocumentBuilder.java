@@ -78,11 +78,32 @@ public final class DocumentBuilder {
                 connection.setReadTimeout(5000);
 
                 InputStream contentStream = new BufferedInputStream(connection.getInputStream());
-                String contentType = connection.getContentType();
-                ContentType type = new ContentType(contentType);
-                return new DocumentInput(url, contentStream, type.getBaseType());
+                ContentType contentType = new ContentType(connection.getContentType());
+                return new DocumentInput(url, contentStream, contentType.getBaseType());
 
             } catch (IOException | ParseException ex) {
+                throw new RuntimeException(ex);
+            }
+        });
+    }
+
+
+    /**
+     * Instantiates a loader that collects a document from a
+     * specified input stream. This constructor is mostly used for testing.
+     *
+     * @param url the root directory of the documents
+     * @return the corups loader instance
+     */
+    public static DocumentBuilder fromStream(final String url,
+                                             final InputStream stream,
+                                             final String type) {
+        return new DocumentBuilder(() -> {
+            try {
+                ContentType contentType = new ContentType(type);
+                return new DocumentInput(url, stream, contentType.getBaseType());
+
+            } catch (ParseException ex) {
                 throw new RuntimeException(ex);
             }
         });
@@ -161,7 +182,7 @@ public final class DocumentBuilder {
         // step 4) Build a processing instruction to be executed.
         //         A pipeline instantiates a new object for each of the
         //         required modules, improving performance of parallel jobs.
-        Pipeline pipeline = new Pipeline(
+        DocumentPipeline pipeline = new DocumentPipeline(
 
                 // general structure that holds the created terms
                 termsDatabase,

@@ -2,6 +2,7 @@ package argus.query;
 
 import it.unimi.dsi.lang.MutableString;
 
+import java.util.Collection;
 import java.util.Optional;
 import java.util.Set;
 import java.util.stream.Stream;
@@ -19,7 +20,7 @@ public final class Query {
      * The set of terms that compose this search, stored in the same order as
      * written by the user (linked hash set implementation).
      */
-    private final Set<MutableString> texts;
+    private final Collection<MutableString> texts;
 
     /**
      * The number of other words permitted between words in query phrase. If zero,
@@ -28,7 +29,7 @@ public final class Query {
     private final int slop;
 
 
-    Query(final Set<MutableString> texts, final int slop) {
+    Query(final Collection<MutableString> texts, final int slop) {
         this.texts = texts;
         this.slop = slop;
     }

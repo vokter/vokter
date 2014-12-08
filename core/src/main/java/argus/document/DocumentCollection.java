@@ -1,5 +1,10 @@
 package argus.document;
 
+import argus.term.Term;
+import com.mongodb.BasicDBObject;
+import com.mongodb.BulkWriteOperation;
+import com.mongodb.DB;
+import com.mongodb.DBCollection;
 import org.cache2k.Cache;
 import org.cache2k.CacheBuilder;
 import org.cache2k.PropagatedCacheException;
@@ -7,13 +12,12 @@ import org.cache2k.impl.CacheLockSpinsExceededError;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import java.util.Collection;
 import java.util.concurrent.TimeUnit;
 
 /**
  * A DocumentCollection represents the widest information unit, and has direct
- * access to every collected document and terms.
- * <p>
- * This class was named Corpora in the previous assignment.
+ * access to every collected document and term.
  *
  * @author Eduardo Duarte (<a href="mailto:eduardo.miguel.duarte@gmail.com">eduardo.miguel.duarte@gmail.com</a>)
  * @version 1.0
@@ -22,10 +26,9 @@ public final class DocumentCollection {
 
     private static final Logger logger = LoggerFactory.getLogger(DocumentCollection.class);
 
-    /**
-     * Cache loader for reading and writing local document files.
-     */
-    private final DocumentLoader documentLoader;
+    private final String collectionName;
+    private final DB documentDB;
+    private final DB termsDB;
 
 
     /**
@@ -38,13 +41,15 @@ public final class DocumentCollection {
      * Instantiate the Collection object, which represents the core access to the
      * above mentioned persistence and cache mechanisms.
      */
-    public DocumentCollection() {
-        documentLoader = new DocumentLoader();
-        documentsCache = CacheBuilder
+    public DocumentCollection(String collectionName, DB documentDB, DB termsDB) {
+        this.collectionName = collectionName;
+        this.documentDB = documentDB;
+        this.termsDB = termsDB;
+        this.documentsCache = CacheBuilder
                 .newCache(String.class, Document.class)
                 .expiryDuration(20, TimeUnit.SECONDS)
-                .maxSize(600)
-                .source(documentLoader)
+                .maxSize(100)
+                .source(this::getInternal)
                 .build();
     }
 
@@ -53,8 +58,11 @@ public final class DocumentCollection {
      * Adds the specified document to the local database.
      */
     public void add(Document document) {
-        documentLoader.write(document);
-//        documentsCache.put(document.getUrl(), document);
+        if (document == null) {
+            return;
+        }
+        DBCollection collection = documentDB.getCollection(collectionName);
+        collection.insert(document);
     }
 
 
@@ -62,7 +70,12 @@ public final class DocumentCollection {
      * Removes the specified document from the local database.
      */
     public void remove(String url) {
-        documentLoader.delete(url);
+        Document d = get(url);
+        if (d != null) {
+            d.destroy(termsDB);
+            DBCollection collection = documentDB.getCollection(collectionName);
+            collection.remove(d);
+        }
         documentsCache.remove(url);
     }
 
@@ -91,6 +104,14 @@ public final class DocumentCollection {
     }
 
 
+    private Document getInternal(String documentUrl) {
+        DBCollection collection = documentDB.getCollection(collectionName);
+        BasicDBObject mongoDocument = (BasicDBObject) collection
+                .findOne(new BasicDBObject(Document.URL, documentUrl));
+        return mongoDocument != null ? new Document(mongoDocument) : null;
+    }
+
+
     /**
      * Immediately commands this index to clear the documents stored in memory cache.
      * Every retrieval of documents performed after this will require reading the
@@ -98,6 +119,14 @@ public final class DocumentCollection {
      */
     public void clearCache() {
         documentsCache.clear();
+    }
+
+
+    public void destroy() {
+        DBCollection collection = documentDB.getCollection(collectionName);
+        collection.drop();
+        documentDB.dropDatabase();
+        termsDB.dropDatabase();
     }
 
 

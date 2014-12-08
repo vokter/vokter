@@ -40,12 +40,6 @@ public class Constants {
     public static final File STOPWORDS_DIR =
             new File(INSTALL_DIR, "stopwords");
 
-    public static final File DOCUMENTS_DIR =
-            new File(INSTALL_DIR, "documents");
-
-    public static final File TERMS_DIR =
-            new File(INSTALL_DIR, "mongodb");
-
     public static final File PARSER_DIR =
             new File(INSTALL_DIR, "parser");
 

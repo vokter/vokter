@@ -2,7 +2,6 @@
 
 package argus.stemmer.snowball;
 
-import argus.stemmer.Stemmer;
 import it.unimi.dsi.lang.MutableString;
 
 /**
@@ -10,7 +9,7 @@ import it.unimi.dsi.lang.MutableString;
  * It implements the stemming algorithm defined by a snowball script.
  */
 
-public class KpStemmer extends SnowballStemmer implements Stemmer {
+public class KpStemmer extends SnowballStemmer {
 
     private static final long serialVersionUID = 1L;
 
