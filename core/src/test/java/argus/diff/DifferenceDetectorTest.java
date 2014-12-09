@@ -16,6 +16,7 @@ import com.mongodb.DB;
 import com.mongodb.MongoClient;
 import org.apache.tools.ant.filters.StringInputStream;
 import org.junit.AfterClass;
+import org.junit.Assert;
 import org.junit.BeforeClass;
 import org.junit.Ignore;
 import org.junit.Test;
@@ -27,6 +28,9 @@ import java.io.InputStream;
 import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
+
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertThat;
 
 /**
  * TODO
@@ -94,15 +98,15 @@ public class DifferenceDetectorTest {
                 Lists.newArrayList(job)
         );
         Multimap<Job, Difference> diffList = comparison.call();
+        assertEquals(2, diffList.size());
+
         GsonBuilder gsonBuilder = new GsonBuilder();
         gsonBuilder.registerTypeAdapter(Keyword.class, new KeywordSerializer());
         String diffJson = gsonBuilder.create().toJson(diffList.values());
-        System.out.println(diffJson);
     }
 
 
     @Test
-    @Ignore
     public void testBBCNews() {
         String url = "http://www.bbc.com/news/uk/";
         String type = "text/html";
@@ -146,10 +150,7 @@ public class DifferenceDetectorTest {
                 Lists.newArrayList(job)
         );
         Multimap<Job, Difference> diffList = comparison.call();
-        GsonBuilder gsonBuilder = new GsonBuilder();
-        gsonBuilder.registerTypeAdapter(Keyword.class, new KeywordSerializer());
-        String diffJson = gsonBuilder.create().toJson(diffList.values());
-        System.out.println(diffJson);
+        assertEquals(7, diffList.size());
     }
 
 

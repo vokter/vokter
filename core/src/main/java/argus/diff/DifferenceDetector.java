@@ -6,12 +6,17 @@ import argus.keyword.Keyword;
 import argus.term.Term;
 import com.aliasi.util.Pair;
 import com.google.common.collect.ArrayListMultimap;
+import com.google.common.collect.HashMultimap;
 import com.google.common.collect.Multimap;
 import com.google.common.collect.Multimaps;
+import com.google.common.hash.BloomFilter;
+import com.google.common.hash.Funnel;
+import com.google.common.hash.PrimitiveSink;
 import com.mongodb.DB;
 import com.mongodb.DBCollection;
 import com.mongodb.DBCursor;
 
+import java.nio.charset.Charset;
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
@@ -62,17 +67,10 @@ public class DifferenceDetector implements Callable<Multimap<Job, Difference>> {
         int count = 0, offset = 0;
         List<MatchedDiff> retrievedDiffs = new ArrayList<>();
         for (DiffMatchPatch.Diff diff : diffs) {
+            BloomFilter<String> bloomFilter = BloomFilter
+                    .create((from, into) -> into.putUnencodedChars(from), 10);
             String diffText = diff.text;
 
-            // check if at least ONE of the keywords has ALL of its texts contained in
-            // the diff text
-            if (diffText.contains("Last updated at")) {
-                System.out.println(diffText);
-            }
-            List<Pair<Job, Keyword>> matchedKeywords = keywords
-                    .stream()
-                    .filter(p -> p.b().textStream().allMatch(diffText::contains))
-                    .collect(Collectors.toList());
             boolean loop = true;
             int startIndex = 0, endIndex;
             do {
@@ -99,6 +97,15 @@ public class DifferenceDetector implements Callable<Multimap<Job, Difference>> {
                     continue;
                 }
 
+                // check if at least ONE of the keywords has ALL of its texts contained in
+                // the diff text
+                bloomFilter.put(diffTermText);
+
+                List<Pair<Job, Keyword>> matchedKeywords = keywords
+                        .stream()
+                        .filter(p -> p.b().textStream().allMatch(bloomFilter::mightContain))
+                        .collect(Collectors.toList());
+
                 for (Pair<Job, Keyword> p : matchedKeywords) {
                     if (p.b().textStream().anyMatch(diffTermText::equals)) {
                         retrievedDiffs.add(new MatchedDiff(
@@ -112,7 +119,6 @@ public class DifferenceDetector implements Callable<Multimap<Job, Difference>> {
                         ));
                     }
                 }
-
 
                 count++;
                 startIndex = endIndex + 1;
@@ -138,8 +144,8 @@ public class DifferenceDetector implements Callable<Multimap<Job, Difference>> {
 //            }
 //        }
 
-        Multimap<Job, Difference> result = Multimaps.synchronizedListMultimap(
-                ArrayListMultimap.create()
+        Multimap<Job, Difference> result = Multimaps.synchronizedSetMultimap(
+                HashMultimap.create()
         );
 
         retrievedDiffs

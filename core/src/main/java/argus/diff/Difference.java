@@ -1,9 +1,6 @@
 package argus.diff;
 
-import argus.job.Job;
 import argus.keyword.Keyword;
-import argus.keyword.KeywordSerializer;
-import com.google.gson.GsonBuilder;
 
 /**
  * TODO
@@ -37,5 +34,24 @@ public class Difference {
         this.status = status;
         this.keyword = keyword;
         this.snippet = snippet;
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+
+        Difference that = (Difference) o;
+        return this.keyword.equals(that.keyword) &&
+                this.snippet.equals(that.snippet) &&
+                this.status == that.status;
+    }
+
+    @Override
+    public int hashCode() {
+        int result = status.hashCode();
+        result = 31 * result + keyword.hashCode();
+        result = 31 * result + snippet.hashCode();
+        return result;
     }
 }
