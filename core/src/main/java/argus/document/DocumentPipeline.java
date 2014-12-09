@@ -86,7 +86,9 @@ public class DocumentPipeline implements Callable<Document> {
 
 
         // infers the document language using a Bayesian detection model
-        LanguageDetectorFactory.loadProfile(Constants.LANGUAGE_PROFILES_DIR);
+        if (LanguageDetectorFactory.getLangList().isEmpty()) {
+            LanguageDetectorFactory.loadProfile(Constants.LANGUAGE_PROFILES_DIR);
+        }
         LanguageDetector langDetector = LanguageDetectorFactory.create();
         langDetector.append(content);
         String languageCode = langDetector.detect();

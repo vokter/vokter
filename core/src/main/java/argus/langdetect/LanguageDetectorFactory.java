@@ -11,6 +11,7 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.concurrent.ConcurrentHashMap;
 
 import static argus.langdetect.LanguageDetectorException.ErrorCode;
 
@@ -43,8 +44,8 @@ public class LanguageDetectorFactory {
     Long seed = null;
 
     private LanguageDetectorFactory() {
-        wordLangProbMap = new HashMap<>();
-        langList = new ArrayList<>();
+        wordLangProbMap = new ConcurrentHashMap<>();
+        langList = Collections.synchronizedList(new ArrayList<>());
     }
 
     /**
@@ -118,16 +119,11 @@ public class LanguageDetectorFactory {
         }
     }
 
-    /**
-     * @param profile
-     * @param langsize
-     * @param index
-     * @throws LanguageDetectorException
-     */
-    public static void addProfile(LanguageProfile profile, int index, int langsize) throws LanguageDetectorException {
+    public static void addProfile(LanguageProfile profile, int index, int langsize) {
         String lang = profile.name;
         if (instance_.langList.contains(lang)) {
-            throw new LanguageDetectorException(ErrorCode.DuplicateLangError, "duplicate the same language profile");
+//            throw new LanguageDetectorException(ErrorCode.DuplicateLangError, "duplicate the same language profile");
+            return;
         }
         instance_.langList.add(lang);
         for (String word : profile.freq.keySet()) {
@@ -183,7 +179,7 @@ public class LanguageDetectorFactory {
         instance_.seed = seed;
     }
 
-    public static final List<String> getLangList() {
+    public static List<String> getLangList() {
         return Collections.unmodifiableList(instance_.langList);
     }
 }
