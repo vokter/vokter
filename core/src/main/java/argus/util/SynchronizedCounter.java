@@ -18,6 +18,9 @@ public final class SynchronizedCounter {
         sNextGeneratedId = new AtomicLong(1);
     }
 
+    public SynchronizedCounter(int startAt) {
+        sNextGeneratedId = new AtomicLong(startAt);
+    }
 
     public long getAndIncrement() {
         for (; ; ) {

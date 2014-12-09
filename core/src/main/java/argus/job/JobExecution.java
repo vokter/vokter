@@ -1,7 +1,8 @@
-package argus.watcher;
+package argus.job;
 
 import argus.document.DocumentCollection;
 import argus.parser.ParserPool;
+import argus.util.SynchronizedCounter;
 
 /**
  * TODO
@@ -10,20 +11,22 @@ import argus.parser.ParserPool;
  * @version 1.0
  * @since 1.0
  */
-public class Job implements Runnable {
+public class JobExecution implements Runnable {
 
     private static final long FAULT_TOLERANCE = 10;
 
     private final DocumentCollection collection;
     private final JobRequest request;
     private final ParserPool parserPool;
+    private final SynchronizedCounter faultCount;
 
-    public Job(final DocumentCollection collection,
-               final ParserPool parserPool,
-               final JobRequest request) {
+    public JobExecution(final DocumentCollection collection,
+                        final ParserPool parserPool,
+                        final JobRequest request) {
         this.collection = collection;
         this.parserPool = parserPool;
         this.request = request;
+        this.faultCount = new SynchronizedCounter();
     }
 
     @Override
@@ -33,10 +36,10 @@ public class Job implements Runnable {
 //
 //        Document oldSnapshot = collection.getDocumentForId(documentUrl);
 //        if (oldSnapshot == null) {
-//            long currentUnsuccessful = faultCount.getAndIncrement();
-//            if (currentUnsuccessful == FAULT_TOLERANCE) {
+            long currentUnsuccessful = faultCount.getAndIncrement();
+            if (currentUnsuccessful == FAULT_TOLERANCE) {
 //                Context.getInstance().cancelScheduledJob(documentUrl);
-//            }
+            }
 //            return;
 //        }
 //
@@ -55,6 +58,6 @@ public class Job implements Runnable {
 //        currentSnapshot = null;
 //        comparator = null;
 //
-//        faultCount.reset();
+        faultCount.reset();
     }
 }

@@ -81,12 +81,12 @@ public class FileStopwords implements Stopwords {
                     }
                 });
 
-                this.stopwords = ImmutableSet.copyOf(stopwordsAux);
+                stopwords = ImmutableSet.copyOf(stopwordsAux);
                 return true;
 
             } catch (IOException e) {
                 logger.error("There was a problem loading the stopword file.", e);
-                this.stopwords = Collections.emptySet();
+                stopwords = Collections.emptySet();
             }
         }
 
@@ -94,12 +94,17 @@ public class FileStopwords implements Stopwords {
     }
 
     @Override
-    public void destroy() {
-        this.stopwords = null;
+    public boolean isStopword(MutableString termText) {
+        return stopwords.contains(termText);
     }
 
     @Override
-    public boolean isStopword(MutableString termText) {
-        return stopwords.contains(termText);
+    public boolean isEmpty() {
+        return stopwords.isEmpty();
+    }
+
+    @Override
+    public void destroy() {
+        stopwords = null;
     }
 }

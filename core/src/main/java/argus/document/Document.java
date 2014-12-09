@@ -30,6 +30,7 @@ import java.util.stream.StreamSupport;
  */
 public final class Document extends BasicDBObject implements Serializable {
     private static final long serialVersionUID = 1L;
+    private static final int BOUND_INDEX = 10;
 
     public static final String ID = "id";
     public static final String URL = "url";
@@ -54,6 +55,22 @@ public final class Document extends BasicDBObject implements Serializable {
         DBCollection termCollection = termDatabase.getCollection(getTermCollectionName());
         BasicDBObject queriedObject = (BasicDBObject) termCollection
                 .findOne(new BasicDBObject(Term.TEXT, termText));
+        return queriedObject != null ? new Term(queriedObject) : null;
+    }
+
+
+    public Term getTerm(DB termDatabase, String text, int wordCount) {
+        if (text.isEmpty()) {
+            return null;
+        }
+        int lowerBound = wordCount - BOUND_INDEX;
+        int upperBound = wordCount + BOUND_INDEX;
+
+        DBCollection termCollection = termDatabase.getCollection(getTermCollectionName());
+        BasicDBObject boundQuery =
+                new BasicDBObject("$gt", lowerBound).append("$lt", upperBound);
+        BasicDBObject queriedObject = (BasicDBObject) termCollection.findOne(
+                new BasicDBObject(Term.TEXT, text).append(Term.WORD_COUNT, boundQuery));
         return queriedObject != null ? new Term(queriedObject) : null;
     }
 //
@@ -146,18 +163,6 @@ public final class Document extends BasicDBObject implements Serializable {
 
     public String getOriginalContent() {
         return getString(ORIGINAL_CONTENT);
-    }
-
-
-    @SuppressWarnings("unchecked")
-    public String getProcessedContent(DB termDatabase) {
-        DBCollection termCollection = termDatabase.getCollection(getTermCollectionName());
-
-        DBCursor cursor = termCollection.find();
-        return StreamSupport.stream(cursor.spliterator(), true)
-                .map(Term::new)
-                .map(Term::toString)
-                .collect(Collectors.joining(" "));
     }
 
 

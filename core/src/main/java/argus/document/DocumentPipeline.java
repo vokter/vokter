@@ -99,6 +99,10 @@ public class DocumentPipeline implements Callable<Document> {
         Stopwords stopwords = null;
         if (isStoppingEnabled) {
             stopwords = new FileStopwords(languageCode);
+            if (stopwords.isEmpty()) {
+                // if no compatible stopwords were found, use the english stopwords
+                stopwords = new FileStopwords("en");
+            }
         }
 
 
@@ -109,6 +113,12 @@ public class DocumentPipeline implements Callable<Document> {
             Class<? extends Stemmer> stemmerClass = PluginLoader.getCompatibleStemmer(languageCode);
             if (stemmerClass != null) {
                 stemmer = stemmerClass.newInstance();
+            } else {
+                // if no compatible stemmers were found, use the english stemmer
+                stemmerClass = PluginLoader.getCompatibleStemmer("en");
+                if (stemmerClass != null) {
+                    stemmer = stemmerClass.newInstance();
+                }
             }
         }
 

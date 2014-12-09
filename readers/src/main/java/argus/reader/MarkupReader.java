@@ -40,6 +40,7 @@ public class MarkupReader implements argus.reader.Reader, NodeVisitor {
 
         String plainText = accumulator.toString();
         plainText = plainText.replaceAll("<.*?>", "");
+        plainText = plainText.replaceAll("\\s+", " ");
 
         return new MutableString(plainText);
     }

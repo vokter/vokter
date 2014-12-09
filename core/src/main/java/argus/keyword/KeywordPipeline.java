@@ -1,4 +1,4 @@
-package argus.query;
+package argus.keyword;
 
 import argus.cleaner.AndCleaner;
 import argus.cleaner.Cleaner;
@@ -29,22 +29,22 @@ import java.util.concurrent.Callable;
  * @author Eduardo Duarte (<a href="mailto:eduardo.miguel.duarte@gmail.com">eduardo.miguel.duarte@gmail.com</a>)
  * @version 1.0
  */
-public class QueryPipeline implements Callable<Query> {
+public class KeywordPipeline implements Callable<Keyword> {
 
-    private static final Logger logger = LoggerFactory.getLogger(QueryPipeline.class);
+    private static final Logger logger = LoggerFactory.getLogger(KeywordPipeline.class);
 
-    private final MutableString queryInput;
+    private final String queryInput;
     private final Parser parser;
     private final boolean isStoppingEnabled;
     private final boolean isStemmingEnabled;
     private final boolean ignoreCase;
 
 
-    public QueryPipeline(final MutableString queryInput,
-                         final Parser parser,
-                         final boolean isStoppingEnabled,
-                         final boolean isStemmingEnabled,
-                         final boolean ignoreCase) {
+    public KeywordPipeline(final String queryInput,
+                           final Parser parser,
+                           final boolean isStoppingEnabled,
+                           final boolean isStemmingEnabled,
+                           final boolean ignoreCase) {
         this.queryInput = queryInput;
         this.parser = parser;
         this.isStoppingEnabled = isStoppingEnabled;
@@ -54,23 +54,21 @@ public class QueryPipeline implements Callable<Query> {
 
 
     @Override
-    public Query call() throws Exception {
+    public Keyword call() throws Exception {
 
-        // create a temporary in-memory term structure
-        final Set<MutableString> terms = new LinkedHashSet<>();
-
+        final MutableString content = new MutableString(queryInput);
 
         // filters the contents by cleaning characters of whole strings
         // according to each cleaner's implementation
         Cleaner cleaner = AndCleaner.of(new SpecialCharsCleaner(), new DiacriticCleaner());
-        cleaner.clean(queryInput);
+        cleaner.clean(content);
         cleaner = null;
 
 
         // infers the document language using a Bayesian detection model
         LanguageDetectorFactory.loadProfile(Constants.LANGUAGE_PROFILES_DIR);
         LanguageDetector langDetector = LanguageDetectorFactory.create();
-        langDetector.append(queryInput);
+        langDetector.append(content);
         String languageCode = langDetector.detect();
         langDetector = null;
         LanguageDetectorFactory.clear();
@@ -81,6 +79,10 @@ public class QueryPipeline implements Callable<Query> {
         Stopwords stopwords = null;
         if (isStoppingEnabled) {
             stopwords = new FileStopwords(languageCode);
+            if (stopwords.isEmpty()) {
+                // if no compatible stopwords were found, use the english stopwords
+                stopwords = new FileStopwords("en");
+            }
         }
 
 
@@ -91,14 +93,20 @@ public class QueryPipeline implements Callable<Query> {
             Class<? extends Stemmer> stemmerClass = PluginLoader.getCompatibleStemmer(languageCode);
             if (stemmerClass != null) {
                 stemmer = stemmerClass.newInstance();
+            } else {
+                // if no compatible stemmers were found, use the english stemmer
+                stemmerClass = PluginLoader.getCompatibleStemmer("en");
+                if (stemmerClass != null) {
+                    stemmer = stemmerClass.newInstance();
+                }
             }
         }
 
 
         // detects tokens from the document and loads them into separate
         // objects in memory
-        List<ParserResult> results = parser.parse(queryInput, stopwords, stemmer, ignoreCase);
-        queryInput.delete(0, queryInput.length());
+        List<ParserResult> results = parser.parse(content, stopwords, stemmer, ignoreCase);
+        content.delete(0, content.length());
 
         if (stopwords != null) {
             stopwords.destroy();
@@ -109,18 +117,19 @@ public class QueryPipeline implements Callable<Query> {
         }
 
 
-        // converts parser results into Term objects
+
+        // create a temporary in-memory term structure and converts parser results
+        // into Term objects
+        final Set<String> terms = new LinkedHashSet<>();
         for (ParserResult r : results) {
             MutableString termText = r.text;
-            terms.add(termText);
+            terms.add(termText.toString());
         }
         results.clear();
         results = null;
 
 
-        // adds the terms to the document object
-        Query query = new Query(terms, 0);
-
-        return query;
+        // adds the terms to the keyword object
+        return new Keyword(queryInput, terms);
     }
 }

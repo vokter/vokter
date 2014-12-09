@@ -7,11 +7,10 @@ import java.util.regex.Pattern;
 
 /**
  * Cut out N-gram from text.
- * Users don't use this class directly.
  *
  * @author Nakatani Shuyo
  */
-public class NGram {
+class NGram {
 
     public final static int N_GRAM = 3;
     public static final HashMap<Character, Character> cjk_map = new HashMap<>();

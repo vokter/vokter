@@ -13,5 +13,7 @@ public interface Stopwords {
 
     boolean isStopword(MutableString termText);
 
+    boolean isEmpty();
+
     void destroy();
 }
