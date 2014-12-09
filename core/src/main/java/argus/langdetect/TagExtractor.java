@@ -2,11 +2,10 @@ package argus.langdetect;
 
 /**
  * {@link TagExtractor} is a class which extracts inner texts of specified tag.
- * Users don't use this class directly.
  *
  * @author Nakatani Shuyo
  */
-public class TagExtractor {
+class TagExtractor {
     public final String target_;
     public final int threshold_;
     public final StringBuffer buf_;

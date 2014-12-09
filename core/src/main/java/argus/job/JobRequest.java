@@ -1,4 +1,4 @@
-package argus.watcher;
+package argus.job;
 
 import org.codehaus.jackson.annotate.JsonProperty;
 

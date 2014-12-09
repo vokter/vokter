@@ -1,4 +1,4 @@
-package argus.watcher;
+package argus.job;
 
 import argus.document.DocumentBuilder;
 import org.slf4j.Logger;

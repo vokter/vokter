@@ -18,9 +18,9 @@ import static org.junit.Assert.*;
 public class DiffMatchPatchTest {
 
     private DiffMatchPatch dmp;
-    private DiffMatchPatch.Operation DELETE = DiffMatchPatch.Operation.DELETE;
-    private DiffMatchPatch.Operation EQUAL = DiffMatchPatch.Operation.EQUAL;
-    private DiffMatchPatch.Operation INSERT = DiffMatchPatch.Operation.INSERT;
+    private DifferenceStatus DELETE = DifferenceStatus.DELETED;
+    private DifferenceStatus EQUAL = DifferenceStatus.EQUAL;
+    private DifferenceStatus INSERT = DifferenceStatus.INSERTED;
 
     @Before
     public void setUp() {
@@ -898,10 +898,10 @@ public class DiffMatchPatchTest {
     private static String[] diff_rebuildtexts(LinkedList<Diff> diffs) {
         String[] text = {"", ""};
         for (Diff myDiff : diffs) {
-            if (myDiff.operation != DiffMatchPatch.Operation.INSERT) {
+            if (myDiff.status != DifferenceStatus.INSERTED) {
                 text[0] += myDiff.text;
             }
-            if (myDiff.operation != DiffMatchPatch.Operation.DELETE) {
+            if (myDiff.status != DifferenceStatus.DELETED) {
                 text[1] += myDiff.text;
             }
         }

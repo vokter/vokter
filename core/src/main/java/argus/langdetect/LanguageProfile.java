@@ -7,11 +7,10 @@ import java.util.Set;
 
 /**
  * {@link LanguageProfile} is a Language Profile Class.
- * Users don't use this class directly.
  *
  * @author Nakatani Shuyo
  */
-public class LanguageProfile {
+class LanguageProfile {
     private static final int MINIMUM_FREQ = 2;
     private static final int LESS_FREQ_RATIO = 100000;
     public String name = null;

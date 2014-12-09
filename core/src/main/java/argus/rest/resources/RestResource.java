@@ -1,7 +1,7 @@
 package argus.rest.resources;
 
 import argus.Context;
-import argus.watcher.JobRequest;
+import argus.job.JobRequest;
 import com.google.gson.Gson;
 import com.google.gson.JsonSyntaxException;
 import it.unimi.dsi.lang.MutableString;

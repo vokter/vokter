@@ -6,7 +6,7 @@ import argus.document.DocumentCollection;
 import argus.parser.GeniaParser;
 import argus.parser.Parser;
 import argus.parser.ParserPool;
-import argus.watcher.JobPool;
+import argus.job.JobPool;
 import com.mongodb.DB;
 import com.mongodb.MongoClient;
 import org.apache.commons.cli.CommandLine;
