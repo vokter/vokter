@@ -25,6 +25,13 @@ public class Job extends BasicDBObject {
 
     private String responseUrl;
 
+    public Job(String documentUrl, List<Keyword> keywords, int interval, String responseUrl) {
+        this.documentUrl = documentUrl;
+        this.keywords = keywords;
+        this.interval = interval;
+        this.responseUrl = responseUrl;
+    }
+
 
     public String getDocumentUrl() {
         return documentUrl;

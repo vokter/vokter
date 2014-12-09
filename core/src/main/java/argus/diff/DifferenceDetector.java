@@ -1,23 +1,23 @@
 package argus.diff;
 
 import argus.document.Document;
+import argus.job.Job;
 import argus.keyword.Keyword;
 import argus.term.Term;
 import com.aliasi.util.Pair;
+import com.google.common.collect.ArrayListMultimap;
+import com.google.common.collect.Multimap;
+import com.google.common.collect.Multimaps;
 import com.mongodb.DB;
 import com.mongodb.DBCollection;
 import com.mongodb.DBCursor;
-import it.unimi.dsi.lang.MutableString;
 
 import java.util.ArrayList;
-import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
-import java.util.ListIterator;
-import java.util.Optional;
+import java.util.Set;
 import java.util.concurrent.Callable;
 import java.util.stream.Collectors;
-import java.util.stream.Stream;
 import java.util.stream.StreamSupport;
 
 /**
@@ -27,26 +27,26 @@ import java.util.stream.StreamSupport;
  * @version 1.0
  * @since 1.0
  */
-public class DifferenceDetector implements Callable<List<Difference>> {
+public class DifferenceDetector implements Callable<Multimap<Job, Difference>> {
     private static final int SNIPPET_INDEX_OFFSET = 50;
 
     private final DB termDatabase;
     private final Document oldSnapshot;
     private final Document newSnapshot;
-    private final List<Keyword> keywords;
+    private final List<Job> jobs;
 
     public DifferenceDetector(final DB termDatabase,
                               final Document oldSnapshot,
                               final Document newSnapshot,
-                              final List<Keyword> keywords) {
+                              final List<Job> jobs) {
         this.termDatabase = termDatabase;
         this.oldSnapshot = oldSnapshot;
         this.newSnapshot = newSnapshot;
-        this.keywords = keywords;
+        this.jobs = jobs;
     }
 
     @Override
-    public List<Difference> call() {
+    public Multimap<Job, Difference> call() {
         DiffMatchPatch dmp = new DiffMatchPatch();
 
         String original = getProcessedContent(oldSnapshot, termDatabase);
@@ -55,17 +55,24 @@ public class DifferenceDetector implements Callable<List<Difference>> {
         LinkedList<DiffMatchPatch.Diff> diffs = dmp.diff_main(original, revision);
         dmp.diff_cleanupSemantic(diffs);
 
+        List<Pair<Job, Keyword>> keywords = jobs.stream()
+                .flatMap(Job::keywordStream)
+                .collect(Collectors.toList());
+
         int count = 0, offset = 0;
-        List<DetectedDiff> retrievedDiffs = new ArrayList<>();
+        List<MatchedDiff> retrievedDiffs = new ArrayList<>();
         for (DiffMatchPatch.Diff diff : diffs) {
             String diffText = diff.text;
 
-            // check if at least ONE of keywords has ALL of its texts contained in
+            // check if at least ONE of the keywords has ALL of its texts contained in
             // the diff text
-            Optional<Pair<Keyword, Stream<String>>> op = keywords.stream()
-                    .map(k -> new Pair<>(k, k.textStream()))
-                    .filter(p -> p.b().allMatch(diffText::contains))
-                    .findAny();
+            if (diffText.contains("Last updated at")) {
+                System.out.println(diffText);
+            }
+            List<Pair<Job, Keyword>> matchedKeywords = keywords
+                    .stream()
+                    .filter(p -> p.b().textStream().allMatch(diffText::contains))
+                    .collect(Collectors.toList());
             boolean loop = true;
             int startIndex = 0, endIndex;
             do {
@@ -92,16 +99,18 @@ public class DifferenceDetector implements Callable<List<Difference>> {
                     continue;
                 }
 
-                if (op.isPresent()) {
-                    Keyword keyword = op.get().a();
-                    retrievedDiffs.add(new DetectedDiff(
-                            diff.status,
-                            keyword,
-                            count,
-                            startIndex + offset,
-                            endIndex + offset,
-                            diffTermText
-                    ));
+                for (Pair<Job, Keyword> p : matchedKeywords) {
+                    if (p.b().textStream().anyMatch(diffTermText::equals)) {
+                        retrievedDiffs.add(new MatchedDiff(
+                                diff.status,
+                                p.a(),
+                                p.b(),
+                                count,
+                                startIndex + offset,
+                                endIndex + offset,
+                                diffTermText
+                        ));
+                    }
                 }
 
 
@@ -112,42 +121,55 @@ public class DifferenceDetector implements Callable<List<Difference>> {
             offset = offset + endIndex;
         }
 
-        ListIterator<DetectedDiff> it = retrievedDiffs.listIterator();
-        int i = 1;
-        while (it.hasNext() && i < retrievedDiffs.size()) {
-            DetectedDiff d1 = it.next();
-            DetectedDiff d2 = retrievedDiffs.get(i);
+//        ListIterator<MatchedDiff> it = retrievedDiffs.listIterator();
+//        int i = 1;
+//        while (it.hasNext() && i < retrievedDiffs.size()) {
+//            MatchedDiff d1 = it.next();
+//            MatchedDiff d2 = retrievedDiffs.get(i);
+//
+//            if (d1.status == d2.status &&
+//                    d1.keyword.equals(d2.keyword) &&
+//                    d1.endIndex + SNIPPET_INDEX_OFFSET >= d2.startIndex - SNIPPET_INDEX_OFFSET) {
+////                d2.startIndex = d1.startIndex;
+//                it.remove();
+//
+//            } else {
+//                i++;
+//            }
+//        }
 
-            if (d1.status == d2.status &&
-                    d1.keyword.equals(d2.keyword) &&
-                    d1.endIndex + SNIPPET_INDEX_OFFSET >= d2.startIndex - SNIPPET_INDEX_OFFSET) {
-//                d2.startIndex = d1.startIndex;
-                it.remove();
+        Multimap<Job, Difference> result = Multimaps.synchronizedListMultimap(
+                ArrayListMultimap.create()
+        );
 
-            } else {
-                i++;
-            }
-        }
-
-        return retrievedDiffs
+        retrievedDiffs
                 .parallelStream()
                 .unordered()
                 .map(diff -> {
                     switch (diff.status) {
-                        case INSERTED: {
+                        case inserted: {
                             String snippet = getSnippet(newSnapshot, termDatabase, diff);
-                            return new Difference(diff.status, diff.keyword, snippet);
+                            if (snippet != null) {
+                                return new Pair<>(diff.job, new Difference(diff.status, diff.keyword, snippet));
+                            }
+                            break;
                         }
-                        case DELETED: {
+                        case deleted: {
                             String snippet = getSnippet(oldSnapshot, termDatabase, diff);
-                            return new Difference(diff.status, diff.keyword, snippet);
+                            if (snippet != null) {
+                                return new Pair<>(diff.job, new Difference(diff.status, diff.keyword, snippet));
+                            }
+                            break;
                         }
-                        default:
-                            return null;
                     }
+                    return null;
                 })
-                .filter(diff -> diff != null)
-                .collect(Collectors.toList());
+                .filter(p -> p != null)
+                .forEach(p -> result.put(p.a(), p.b()));
+        retrievedDiffs.clear();
+        retrievedDiffs = null;
+
+        return result;
     }
 
 
@@ -167,8 +189,11 @@ public class DifferenceDetector implements Callable<List<Difference>> {
     }
 
 
-    private static String getSnippet(Document d, DB termsDB, DetectedDiff diff) {
+    private static String getSnippet(Document d, DB termsDB, MatchedDiff diff) {
         Term term = d.getTerm(termsDB, diff.termText, diff.wordCount);
+        if (term == null) {
+            return null;
+        }
         String originalContent = d.getOriginalContent();
 
         int snippetStart = term.getStartIndex() - SNIPPET_INDEX_OFFSET;
@@ -182,7 +207,7 @@ public class DifferenceDetector implements Callable<List<Difference>> {
         return originalContent.substring(snippetStart, snippetEnd);
     }
 
-    private static class DetectedDiff {
+    private static class MatchedDiff {
 
         /**
          * The status of this difference.
@@ -190,7 +215,12 @@ public class DifferenceDetector implements Callable<List<Difference>> {
         private final DifferenceStatus status;
 
         /**
-         * The keyword contained within this difference.
+         * The job that triggered notification for this difference.
+         */
+        private final Job job;
+
+        /**
+         * The keyword that triggered notification for this difference.
          */
         private final Keyword keyword;
 
@@ -214,13 +244,15 @@ public class DifferenceDetector implements Callable<List<Difference>> {
          */
         private final String termText;
 
-        private DetectedDiff(final DifferenceStatus status,
-                             final Keyword keyword,
-                             final int wordCount,
-                             final int startIndex,
-                             final int endIndex,
-                             final String termText) {
+        private MatchedDiff(final DifferenceStatus status,
+                            final Job job,
+                            final Keyword keyword,
+                            final int wordCount,
+                            final int startIndex,
+                            final int endIndex,
+                            final String termText) {
             this.status = status;
+            this.job = job;
             this.keyword = keyword;
             this.wordCount = wordCount;
             this.startIndex = startIndex;

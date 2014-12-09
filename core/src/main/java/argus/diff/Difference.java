@@ -1,5 +1,6 @@
 package argus.diff;
 
+import argus.job.Job;
 import argus.keyword.Keyword;
 import argus.keyword.KeywordSerializer;
 import com.google.gson.GsonBuilder;

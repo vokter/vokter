@@ -137,7 +137,10 @@ public class LanguageDetectorFactory {
             int length = word.length();
             if (length >= 1 && length <= 3) {
                 double prob = profile.freq.get(word).doubleValue() / profile.n_words[length - 1];
-                instance_.wordLangProbMap.get(word)[index] = prob;
+                try {
+                    instance_.wordLangProbMap.get(word)[index] = prob;
+                } catch (Exception ignored) {
+                }
             }
         }
     }

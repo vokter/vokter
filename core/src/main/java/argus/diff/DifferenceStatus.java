@@ -2,8 +2,8 @@ package argus.diff;
 
 /**
  * The data structure representing a diff is a Linked list of Diff objects:
- * {Diff(Status.DELETED, "Hello"), Diff(Status.INSERTED, "Goodbye"),
- * Diff(Status.EQUAL, " world.")}
+ * {Diff(Status.deleted, "Hello"), Diff(Status.inserted, "Goodbye"),
+ * Diff(Status.none, " world.")}
  * which means: delete "Hello", add "Goodbye" and keep " world."
  *
  * @author Eduardo Duarte (<a href="mailto:eduardo.miguel.duarte@gmail.com">eduardo.miguel.duarte@gmail.com</a>)
@@ -11,5 +11,5 @@ package argus.diff;
  * @since 1.0
  */
 public enum DifferenceStatus {
-    INSERTED, DELETED, EQUAL
+    inserted, deleted, none
 }
