@@ -15,6 +15,7 @@ import argus.stopper.Stopwords;
 import argus.term.Term;
 import argus.util.Constants;
 import argus.util.PluginLoader;
+import com.google.gson.Gson;
 import com.mongodb.BulkWriteOperation;
 import com.mongodb.DB;
 import com.mongodb.DBCollection;
@@ -83,6 +84,19 @@ public class DocumentPipeline implements Callable<Document> {
         Cleaner cleaner = AndCleaner.of(new SpecialCharsCleaner(), new DiacriticCleaner());
         cleaner.clean(content);
         cleaner = null;
+
+
+        String temp = content.toString();
+        temp = temp.replaceAll(" +", " ");
+        temp = temp.trim();
+        content.replace(0, content.length(), temp);
+
+
+        // creates a document that represents this pipeline processing result.
+        // The contents are copied to this object so that it keeps them in its
+        // original form, without any transformations that come from cleaning,
+        // stopping or stemming.
+        Document document = new Document(url, content.toString());
 
 
         // infers the document language using a Bayesian detection model
@@ -166,11 +180,6 @@ public class DocumentPipeline implements Callable<Document> {
 //        results.stream().forEach(r -> logger.info(r.text.toString()));
 
 
-        // creates a document that represents this pipeline processing result.
-        // The contents are copied to this object so that it keeps them in its
-        // original form, without any transformations that come from cleaning,
-        // stopping or stemming.
-        Document document = new Document(url, content.toString());
         content.delete(0, content.length());
         content = null;
 

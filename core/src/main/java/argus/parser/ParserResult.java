@@ -12,10 +12,10 @@ import it.unimi.dsi.lang.MutableString;
  */
 public class ParserResult {
 
-    public final int wordNum;
-    public final int start;
-    public final int end;
-    public final MutableString text;
+    public int wordNum;
+    public int start;
+    public int end;
+    public MutableString text;
 
     ParserResult(final int wordNum,
                  final int start,
@@ -25,5 +25,13 @@ public class ParserResult {
         this.start = start;
         this.end = end;
         this.text = text;
+    }
+
+    @Override
+    public String toString() {
+        return "ParserResult{" +
+                "wordNum=" + wordNum +
+                ", text=" + text.toString() +
+                '}';
     }
 }

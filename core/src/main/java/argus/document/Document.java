@@ -9,6 +9,7 @@ import com.mongodb.DBCollection;
 import com.mongodb.DBCursor;
 
 import java.io.Serializable;
+import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 import java.util.concurrent.CopyOnWriteArrayList;
@@ -30,7 +31,7 @@ import java.util.stream.StreamSupport;
  */
 public final class Document extends BasicDBObject implements Serializable {
     private static final long serialVersionUID = 1L;
-    private static final int BOUND_INDEX = 10;
+    private static final int BOUND_INDEX = 4;
 
     public static final String ID = "id";
     public static final String URL = "url";
@@ -48,14 +49,19 @@ public final class Document extends BasicDBObject implements Serializable {
     }
 
 
-    public Term getTerm(DB termDatabase, String termText) {
+    public List<Term> getTerms(DB termDatabase, String termText) {
         if (termText.isEmpty()) {
             return null;
         }
         DBCollection termCollection = termDatabase.getCollection(getTermCollectionName());
-        BasicDBObject queriedObject = (BasicDBObject) termCollection
-                .findOne(new BasicDBObject(Term.TEXT, termText));
-        return queriedObject != null ? new Term(queriedObject) : null;
+        DBCursor cursor = termCollection.find(new BasicDBObject(Term.TEXT, termText));
+        List<Term> list = new ArrayList<>();
+        while (cursor.hasNext()) {
+            BasicDBObject obj = (BasicDBObject) cursor.next();
+            list.add(new Term(obj));
+        }
+        cursor.close();
+        return list;
     }
 
 

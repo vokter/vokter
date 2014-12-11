@@ -10,13 +10,11 @@ import argus.parser.GeniaParser;
 import argus.parser.ParserPool;
 import com.google.common.collect.Lists;
 import com.google.common.collect.Multimap;
-import com.google.common.collect.Sets;
 import com.google.gson.GsonBuilder;
 import com.mongodb.DB;
 import com.mongodb.MongoClient;
 import org.apache.tools.ant.filters.StringInputStream;
 import org.junit.AfterClass;
-import org.junit.Assert;
 import org.junit.BeforeClass;
 import org.junit.Ignore;
 import org.junit.Test;
@@ -26,11 +24,9 @@ import org.slf4j.LoggerFactory;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.List;
-import java.util.Map;
 import java.util.stream.Collectors;
 
 import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertThat;
 
 /**
  * TODO
@@ -95,14 +91,17 @@ public class DifferenceDetectorTest {
                 termsDatabase,
                 oldSnapshotDoc,
                 newSnapshotDoc,
-                Lists.newArrayList(job)
+                Lists.newArrayList(job),
+                parserPool
         );
         Multimap<Job, Difference> diffList = comparison.call();
-        assertEquals(2, diffList.size());
 
         GsonBuilder gsonBuilder = new GsonBuilder();
         gsonBuilder.registerTypeAdapter(Keyword.class, new KeywordSerializer());
         String diffJson = gsonBuilder.create().toJson(diffList.values());
+        logger.info(diffJson);
+
+        assertEquals(2, diffList.size());
     }
 
 
@@ -113,7 +112,6 @@ public class DifferenceDetectorTest {
         InputStream oldSnapshot = getClass().getResourceAsStream("bbc_news_8_12_2014_11_00.html");
         InputStream newSnapshot = getClass().getResourceAsStream("bbc_news_8_12_2014_13_00.html");
         List<String> words = Lists.newArrayList(
-                "last updated",
                 "House of Commons",
                 "Shrien Dewani"
         );
@@ -142,15 +140,22 @@ public class DifferenceDetectorTest {
                 .withStemming()
                 .build(termsDatabase, parserPool);
 
-
         DifferenceDetector comparison = new DifferenceDetector(
                 termsDatabase,
                 oldSnapshotDoc,
                 newSnapshotDoc,
-                Lists.newArrayList(job)
+                Lists.newArrayList(job),
+                parserPool
         );
         Multimap<Job, Difference> diffList = comparison.call();
-        assertEquals(7, diffList.size());
+
+        GsonBuilder gsonBuilder = new GsonBuilder();
+        gsonBuilder.registerTypeAdapter(Keyword.class, new KeywordSerializer());
+        String diffJson = gsonBuilder.create().toJson(diffList.values());
+        logger.info(diffJson);
+
+        assertEquals(11, diffList.size());
+
     }
 
 
