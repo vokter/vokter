@@ -116,16 +116,17 @@ public class GeniaParser implements Parser {
         List<ParserResult> _results = new ArrayList<>();
 
         int[][] idx = splitter.split(text);
-        List<Pair<Integer, Integer>> splitPairList = new ArrayList<>();
+        List<Pair<Integer, Integer>> sentenceIndexList = new ArrayList<>();
 
         for (int[] split : idx) {
             int start = split[0];
             int end = split[1];
-            splitPairList.add(new Pair<>(start, end));
+            sentenceIndexList.add(new Pair<>(start, end));
         }
 
         try {
-            for (Pair<Integer, Integer> pair : splitPairList) {
+            int start, end, tokenCounter = 0;
+            for (Pair<Integer, Integer> pair : sentenceIndexList) {
                 MutableString sentenceText = text.substring(pair.a(), pair.b());
 
                 List<Object> parserOutput = new ArrayList<>();
@@ -143,8 +144,7 @@ public class GeniaParser implements Parser {
                     parserOutput.add(line);
                 }
 
-                int start = 0, end = 0, tokenCounter = 0, offset = 0;
-
+                int offset = 0;
                 for (Object result : parserOutput) {
                     String[] parts = result.toString().split("\t");
 
@@ -176,13 +176,10 @@ public class GeniaParser implements Parser {
                             stemmer.stem(tokenText);
                         }
 
-                        _results.add(new ParserResult(tokenCounter, start, end, tokenText));
+                        _results.add(new ParserResult(tokenCounter++, start, end, tokenText));
                     }
 
-                    tokenCounter++;
-
                     // Offsets
-                    start += tokenText.length();
                     offset = end + 1;
                 }
             }

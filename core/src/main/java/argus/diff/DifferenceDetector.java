@@ -3,6 +3,9 @@ package argus.diff;
 import argus.document.Document;
 import argus.job.Job;
 import argus.keyword.Keyword;
+import argus.parser.Parser;
+import argus.parser.ParserPool;
+import argus.parser.ParserResult;
 import argus.term.Term;
 import com.aliasi.util.Pair;
 import com.google.common.collect.ArrayListMultimap;
@@ -15,9 +18,13 @@ import com.google.common.hash.PrimitiveSink;
 import com.mongodb.DB;
 import com.mongodb.DBCollection;
 import com.mongodb.DBCursor;
+import it.unimi.dsi.lang.MutableString;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 import java.nio.charset.Charset;
 import java.util.ArrayList;
+import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Set;
@@ -33,21 +40,26 @@ import java.util.stream.StreamSupport;
  * @since 1.0
  */
 public class DifferenceDetector implements Callable<Multimap<Job, Difference>> {
+
+    private static final Logger logger = LoggerFactory.getLogger(DifferenceDetector.class);
     private static final int SNIPPET_INDEX_OFFSET = 50;
 
     private final DB termDatabase;
     private final Document oldSnapshot;
     private final Document newSnapshot;
     private final List<Job> jobs;
+    private final ParserPool parserPool;
 
     public DifferenceDetector(final DB termDatabase,
                               final Document oldSnapshot,
                               final Document newSnapshot,
-                              final List<Job> jobs) {
+                              final List<Job> jobs,
+                              final ParserPool parserPool) {
         this.termDatabase = termDatabase;
         this.oldSnapshot = oldSnapshot;
         this.newSnapshot = newSnapshot;
         this.jobs = jobs;
+        this.parserPool = parserPool;
     }
 
     @Override
@@ -64,41 +76,43 @@ public class DifferenceDetector implements Callable<Multimap<Job, Difference>> {
                 .flatMap(Job::keywordStream)
                 .collect(Collectors.toList());
 
-        int count = 0, offset = 0;
+        Parser parser;
+        try {
+            parser = parserPool.take();
+        } catch (InterruptedException ex) {
+            logger.error(ex.getMessage(), ex);
+            return null;
+        }
+        int insertedCountOffset = 0, deletedCountOffset = 0;
         List<MatchedDiff> retrievedDiffs = new ArrayList<>();
         for (DiffMatchPatch.Diff diff : diffs) {
             BloomFilter<String> bloomFilter = BloomFilter
                     .create((from, into) -> into.putUnencodedChars(from), 10);
             String diffText = diff.text;
 
-            boolean loop = true;
-            int startIndex = 0, endIndex;
-            do {
-                endIndex = diffText.indexOf(' ', startIndex);
+            List<ParserResult> results = parser.parse(new MutableString(diffText));
+            for (Iterator<ParserResult> it = results.iterator(); it.hasNext(); ) {
+                ParserResult result = it.next();
 
-                if (endIndex < 0) {
-                    // is the last word, add it as a token and stop the loop
-                    endIndex = diffText.length();
-                    loop = false;
+                switch (diff.status) {
+                    case inserted:
+                        result.wordNum = insertedCountOffset++;
+                        break;
+
+                    case deleted:
+                        result.wordNum = deletedCountOffset++;
+                        break;
+
+                    case none:
+                        insertedCountOffset++;
+                        deletedCountOffset++;
+                        continue;
                 }
 
-                if (startIndex == endIndex) {
-                    // is empty or the first character in the text is a space, so skip it
-                    startIndex++;
-                    continue;
-                }
-
-                final String diffTermText = diffText.substring(startIndex, endIndex);
-
-                // if after trimming the string is empty, then there
-                // is no valuable token to collect
-                if (diffTermText.isEmpty()) {
-                    startIndex = endIndex + 1;
-                    continue;
-                }
 
                 // check if at least ONE of the keywords has ALL of its texts contained in
                 // the diff text
+                String diffTermText = result.text.toString();
                 bloomFilter.put(diffTermText);
 
                 List<Pair<Job, Keyword>> matchedKeywords = keywords
@@ -112,19 +126,21 @@ public class DifferenceDetector implements Callable<Multimap<Job, Difference>> {
                                 diff.status,
                                 p.a(),
                                 p.b(),
-                                count,
-                                startIndex + offset,
-                                endIndex + offset,
+                                result.wordNum,
                                 diffTermText
                         ));
                     }
                 }
+            }
+            results.clear();
+            results = null;
+        }
 
-                count++;
-                startIndex = endIndex + 1;
-            } while (loop);
-
-            offset = offset + endIndex;
+        try {
+            parserPool.place(parser);
+        } catch (InterruptedException ex) {
+            logger.error(ex.getMessage(), ex);
+            return null;
         }
 
 //        ListIterator<MatchedDiff> it = retrievedDiffs.listIterator();
@@ -149,7 +165,7 @@ public class DifferenceDetector implements Callable<Multimap<Job, Difference>> {
         );
 
         retrievedDiffs
-                .parallelStream()
+                .stream()
                 .unordered()
                 .map(diff -> {
                     switch (diff.status) {
@@ -236,16 +252,6 @@ public class DifferenceDetector implements Callable<Multimap<Job, Difference>> {
         private final int wordCount;
 
         /**
-         * The character-based index when this difference starts on the document.
-         */
-        public int startIndex;
-
-        /**
-         * The character-based index when this difference ends on the document.
-         */
-        public int endIndex;
-
-        /**
          * The text of the term contained within this difference.
          */
         private final String termText;
@@ -254,15 +260,11 @@ public class DifferenceDetector implements Callable<Multimap<Job, Difference>> {
                             final Job job,
                             final Keyword keyword,
                             final int wordCount,
-                            final int startIndex,
-                            final int endIndex,
                             final String termText) {
             this.status = status;
             this.job = job;
             this.keyword = keyword;
             this.wordCount = wordCount;
-            this.startIndex = startIndex;
-            this.endIndex = endIndex;
             this.termText = termText;
         }
     }

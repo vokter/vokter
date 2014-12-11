@@ -36,7 +36,7 @@ public class SimpleParser implements Parser {
 
         boolean loop = true;
         int startIndex = 0, count = 0, endIndex;
-        while (loop) {
+        do {
             endIndex = text.indexOf(separator, startIndex);
 
             if (endIndex < 0) {
@@ -84,12 +84,11 @@ public class SimpleParser implements Parser {
                     stemmer.stem(termText);
                 }
 
-                retrievedTokens.add(new ParserResult(count, startIndex, endIndex, termText));
+                retrievedTokens.add(new ParserResult(count++, startIndex, endIndex, termText));
             }
 
-            count++;
             startIndex = endIndex + 1;
-        }
+        } while (loop);
 
         return retrievedTokens;
     }
