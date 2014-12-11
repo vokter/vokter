@@ -1,4 +1,4 @@
-package argus.langdetect;
+package argus.langdetector;
 
 /**
  * {@link TagExtractor} is a class which extracts inner texts of specified tag.

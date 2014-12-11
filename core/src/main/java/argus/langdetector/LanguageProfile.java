@@ -1,4 +1,4 @@
-package argus.langdetect;
+package argus.langdetector;
 
 import java.util.HashMap;
 import java.util.Iterator;

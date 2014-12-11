@@ -36,10 +36,10 @@ public class JobExecution implements Runnable {
 //
 //        Document oldSnapshot = collection.getDocumentForId(documentUrl);
 //        if (oldSnapshot == null) {
-            long currentUnsuccessful = faultCount.getAndIncrement();
-            if (currentUnsuccessful == FAULT_TOLERANCE) {
+        long currentUnsuccessful = faultCount.getAndIncrement();
+        if (currentUnsuccessful == FAULT_TOLERANCE) {
 //                Context.getInstance().cancelScheduledJob(documentUrl);
-            }
+        }
 //            return;
 //        }
 //

@@ -1,8 +1,6 @@
 package argus.document;
 
-import argus.term.Term;
 import com.mongodb.BasicDBObject;
-import com.mongodb.BulkWriteOperation;
 import com.mongodb.DB;
 import com.mongodb.DBCollection;
 import org.cache2k.Cache;
@@ -12,7 +10,6 @@ import org.cache2k.impl.CacheLockSpinsExceededError;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import java.util.Collection;
 import java.util.concurrent.TimeUnit;
 
 /**
@@ -72,7 +69,7 @@ public final class DocumentCollection {
     public void remove(String url) {
         Document d = get(url);
         if (d != null) {
-            d.destroy(termsDB);
+            d.destroy();
             DBCollection collection = documentDB.getCollection(collectionName);
             collection.remove(d);
         }
@@ -108,7 +105,7 @@ public final class DocumentCollection {
         DBCollection collection = documentDB.getCollection(collectionName);
         BasicDBObject mongoDocument = (BasicDBObject) collection
                 .findOne(new BasicDBObject(Document.URL, documentUrl));
-        return mongoDocument != null ? new Document(mongoDocument) : null;
+        return mongoDocument != null ? new Document(termsDB, mongoDocument) : null;
     }
 
 

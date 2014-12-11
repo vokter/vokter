@@ -16,7 +16,6 @@ import com.mongodb.MongoClient;
 import org.apache.tools.ant.filters.StringInputStream;
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
-import org.junit.Ignore;
 import org.junit.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -24,6 +23,7 @@ import org.slf4j.LoggerFactory;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.List;
+import java.util.Set;
 import java.util.stream.Collectors;
 
 import static org.junit.Assert.assertEquals;
@@ -35,9 +35,9 @@ import static org.junit.Assert.assertEquals;
  * @version 1.0
  * @since 1.0
  */
-public class DifferenceDetectorTest {
+public class DiffDetectorTest {
 
-    private static final Logger logger = LoggerFactory.getLogger(DifferenceDetectorTest.class);
+    private static final Logger logger = LoggerFactory.getLogger(DiffDetectorTest.class);
 
     private static MongoClient mongoClient;
     private static DB termsDatabase;
@@ -87,21 +87,20 @@ public class DifferenceDetectorTest {
                 .withStemming()
                 .build(termsDatabase, parserPool);
 
-        DifferenceDetector comparison = new DifferenceDetector(
-                termsDatabase,
+        DiffDetector comparison = new DiffDetector(
                 oldSnapshotDoc,
                 newSnapshotDoc,
-                Lists.newArrayList(job),
                 parserPool
         );
-        Multimap<Job, Difference> diffList = comparison.call();
+        List<DiffDetector.Result> diffList = comparison.call();
+        logger.info(diffList.toString());
 
         GsonBuilder gsonBuilder = new GsonBuilder();
         gsonBuilder.registerTypeAdapter(Keyword.class, new KeywordSerializer());
-        String diffJson = gsonBuilder.create().toJson(diffList.values());
+        String diffJson = gsonBuilder.create().toJson(diffList);
         logger.info(diffJson);
 
-        assertEquals(2, diffList.size());
+        assertEquals(5, diffList.size());
     }
 
 
@@ -111,20 +110,6 @@ public class DifferenceDetectorTest {
         String type = "text/html";
         InputStream oldSnapshot = getClass().getResourceAsStream("bbc_news_8_12_2014_11_00.html");
         InputStream newSnapshot = getClass().getResourceAsStream("bbc_news_8_12_2014_13_00.html");
-        List<String> words = Lists.newArrayList(
-                "House of Commons",
-                "Shrien Dewani"
-        );
-        List<Keyword> keywords = words
-                .stream()
-                .map(string -> KeywordBuilder.fromText(string)
-                        .ignoreCase()
-                        .withStopwords()
-                        .withStemming()
-                        .build(parserPool))
-                .collect(Collectors.toList());
-
-        Job job = new Job(url, keywords, 10, url);
 
         Document oldSnapshotDoc = DocumentBuilder
                 .fromStream(url, oldSnapshot, type)
@@ -140,22 +125,13 @@ public class DifferenceDetectorTest {
                 .withStemming()
                 .build(termsDatabase, parserPool);
 
-        DifferenceDetector comparison = new DifferenceDetector(
-                termsDatabase,
+        DiffDetector comparison = new DiffDetector(
                 oldSnapshotDoc,
                 newSnapshotDoc,
-                Lists.newArrayList(job),
                 parserPool
         );
-        Multimap<Job, Difference> diffList = comparison.call();
-
-        GsonBuilder gsonBuilder = new GsonBuilder();
-        gsonBuilder.registerTypeAdapter(Keyword.class, new KeywordSerializer());
-        String diffJson = gsonBuilder.create().toJson(diffList.values());
-        logger.info(diffJson);
-
-        assertEquals(11, diffList.size());
-
+        List<DiffDetector.Result> diffList = comparison.call();
+        assertEquals(352, diffList.size());
     }
 
 

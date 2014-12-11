@@ -16,7 +16,7 @@ public interface Parser extends AutoCloseable {
     /**
      * Parses the specified text and obtains parsed results.
      */
-    default List<ParserResult> parse(MutableString text) {
+    default List<Result> parse(MutableString text) {
         return parse(text, null, null, false);
     }
 
@@ -24,11 +24,35 @@ public interface Parser extends AutoCloseable {
      * Parses the specified text by using the specified stopwords and stemmer, and
      * obtains parsed results.
      */
-    List<ParserResult> parse(final MutableString text,
+    List<Result> parse(final MutableString text,
                              final Stopwords stopwords,
                              final Stemmer stemmer,
                              final boolean ignoreCase);
 
     @Override
     void close();
+
+
+    /**
+     * Represents a parsing result, providing access to a token's phrase
+     * position, start position, end position and text.
+     */
+    public static class Result {
+
+        public int wordNum;
+        public int start;
+        public int end;
+        public MutableString text;
+
+        Result(final int wordNum,
+               final int start,
+               final int end,
+               final MutableString text) {
+            this.wordNum = wordNum;
+            this.start = start;
+            this.end = end;
+            this.text = text;
+        }
+    }
+
 }

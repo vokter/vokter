@@ -1,4 +1,4 @@
-package argus.langdetect;
+package argus.langdetector;
 
 import net.arnx.jsonic.JSON;
 import net.arnx.jsonic.JSONException;
@@ -8,12 +8,11 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
-import static argus.langdetect.LanguageDetectorException.ErrorCode;
+import static argus.langdetector.LanguageDetectorException.ErrorCode;
 
 /**
  * Language Detector Factory Class

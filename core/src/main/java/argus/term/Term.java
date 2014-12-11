@@ -15,12 +15,11 @@ import java.util.Comparator;
  * @version 2.0
  */
 public class Term extends BasicDBObject implements Comparable<Term>, Serializable {
-    private static final long serialVersionUID = 1L;
-
     public static final String TEXT = "text";
     public static final String WORD_COUNT = "word_count";
     public static final String START_INDEX = "start_index";
     public static final String END_INDEX = "end_index";
+    private static final long serialVersionUID = 1L;
 
     public Term(String text, int wordCount, int startIndex, int endIndex) {
         super(TEXT, text);

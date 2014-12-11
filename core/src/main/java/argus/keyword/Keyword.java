@@ -1,6 +1,5 @@
 package argus.keyword;
 
-import com.aliasi.util.Pair;
 import com.mongodb.BasicDBObject;
 
 import java.util.Collection;
