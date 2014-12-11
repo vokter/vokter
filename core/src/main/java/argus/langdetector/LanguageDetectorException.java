@@ -1,4 +1,4 @@
-package argus.langdetect;
+package argus.langdetector;
 
 /**
  * @author Nakatani Shuyo

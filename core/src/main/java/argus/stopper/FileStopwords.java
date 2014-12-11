@@ -22,7 +22,7 @@ import java.util.stream.Collectors;
 /**
  * Module that checks if the received textual state of a term corresponds
  * to a stopword loaded from a local file.
- *
+ * <p>
  * The file's contents are read by line, including every word in each line as a
  * stopword. When the pipe character '|' is detected, the remaining text from
  * the line is ignored.

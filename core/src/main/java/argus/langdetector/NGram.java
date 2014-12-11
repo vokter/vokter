@@ -1,4 +1,4 @@
-package argus.langdetect;
+package argus.langdetector;
 
 import java.lang.Character.UnicodeBlock;
 import java.util.HashMap;

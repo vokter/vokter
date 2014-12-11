@@ -209,18 +209,13 @@ public final class DocumentBuilder {
 
 
         // step 5) Process the document asynchronously.
-        Stopwatch sw2 = Stopwatch.createStarted();
-        Document aux;
+        Document document;
         try {
-            aux = pipeline.call();
+            document = pipeline.call();
         } catch (Exception ex) {
             logger.error(ex.getMessage(), ex);
             return null;
         }
-        sw2.stop();
-        logger.info("Document processor elapsed time: " + sw2.toString());
-        sw2 = null;
-        final Document document = aux;
 
         // step 6) Place the parser back in the parser-pool.
         try {
@@ -231,7 +226,7 @@ public final class DocumentBuilder {
         }
 
         sw.stop();
-        logger.info("Elapsed building time: " + sw.toString());
+        logger.info("Document builder elapsed time: " + sw.toString());
 
         return document;
     }

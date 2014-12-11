@@ -2,17 +2,17 @@ package argus.document;
 
 import argus.term.Term;
 import argus.util.Constants;
-import com.google.common.collect.Iterables;
 import com.mongodb.BasicDBObject;
+import com.mongodb.BulkWriteOperation;
 import com.mongodb.DB;
 import com.mongodb.DBCollection;
 import com.mongodb.DBCursor;
 
 import java.io.Serializable;
 import java.util.ArrayList;
+import java.util.Collection;
 import java.util.Iterator;
 import java.util.List;
-import java.util.concurrent.CopyOnWriteArrayList;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 import java.util.stream.StreamSupport;
@@ -30,30 +30,60 @@ import java.util.stream.StreamSupport;
  * @version 1.0
  */
 public final class Document extends BasicDBObject implements Serializable {
-    private static final long serialVersionUID = 1L;
-    private static final int BOUND_INDEX = 4;
-
     public static final String ID = "id";
     public static final String URL = "url";
     public static final String ORIGINAL_CONTENT = "original_content";
+    private static final long serialVersionUID = 1L;
+    private static final int BOUND_INDEX = 4;
 
-    Document(String url, String originalContent) {
+    private transient final DBCollection termCollection;
+
+    Document(DB termDatabase, String url, String originalContent) {
         super(ID, Constants.bytesToHex(Constants.generateRandomBytes()));
         append(URL, url);
         append(ORIGINAL_CONTENT, originalContent);
+        termCollection = termDatabase.getCollection(getTermCollectionName());
     }
 
 
-    Document(BasicDBObject dbObject) {
+    Document(DB termDatabase, BasicDBObject dbObject) {
         super(dbObject);
+        termCollection = termDatabase.getCollection(getTermCollectionName());
     }
 
+    public void addOccurrence(Term term) {
+        termCollection.insert(term);
+    }
 
-    public List<Term> getTerms(DB termDatabase, String termText) {
+    public void addOccurrences(Iterable<Term> terms) {
+        addOccurrences(StreamSupport.stream(terms.spliterator(), false));
+    }
+
+    public void addOccurrences(Stream<Term> termStream) {
+        BulkWriteOperation builder = termCollection.initializeUnorderedBulkOperation();
+        termStream.forEach(builder::insert);
+        builder.execute();
+        builder = null;
+    }
+
+    public Term getOccurrence(String text, int wordCount) {
+        if (text.isEmpty()) {
+            return null;
+        }
+        int lowerBound = wordCount - BOUND_INDEX;
+        int upperBound = wordCount + BOUND_INDEX;
+
+        BasicDBObject boundQuery =
+                new BasicDBObject("$gt", lowerBound).append("$lt", upperBound);
+        BasicDBObject queriedObject = (BasicDBObject) termCollection.findOne(
+                new BasicDBObject(Term.TEXT, text).append(Term.WORD_COUNT, boundQuery));
+        return queriedObject != null ? new Term(queriedObject) : null;
+    }
+
+    public List<Term> getAllOccurrences(String termText) {
         if (termText.isEmpty()) {
             return null;
         }
-        DBCollection termCollection = termDatabase.getCollection(getTermCollectionName());
         DBCursor cursor = termCollection.find(new BasicDBObject(Term.TEXT, termText));
         List<Term> list = new ArrayList<>();
         while (cursor.hasNext()) {
@@ -64,21 +94,6 @@ public final class Document extends BasicDBObject implements Serializable {
         return list;
     }
 
-
-    public Term getTerm(DB termDatabase, String text, int wordCount) {
-        if (text.isEmpty()) {
-            return null;
-        }
-        int lowerBound = wordCount - BOUND_INDEX;
-        int upperBound = wordCount + BOUND_INDEX;
-
-        DBCollection termCollection = termDatabase.getCollection(getTermCollectionName());
-        BasicDBObject boundQuery =
-                new BasicDBObject("$gt", lowerBound).append("$lt", upperBound);
-        BasicDBObject queriedObject = (BasicDBObject) termCollection.findOne(
-                new BasicDBObject(Term.TEXT, text).append(Term.WORD_COUNT, boundQuery));
-        return queriedObject != null ? new Term(queriedObject) : null;
-    }
 //
 //
 //    @SuppressWarnings("unchecked")
@@ -157,7 +172,7 @@ public final class Document extends BasicDBObject implements Serializable {
 //    }
 
 
-    public String getTermCollectionName() {
+    private String getTermCollectionName() {
         return getUrl().hashCode() + getString(ID);
     }
 
@@ -169,6 +184,19 @@ public final class Document extends BasicDBObject implements Serializable {
 
     public String getOriginalContent() {
         return getString(ORIGINAL_CONTENT);
+    }
+
+    /**
+     * Converts a cluster of terms associated with a document into a String, where
+     * each term is separated by a whitespace.
+     */
+    @SuppressWarnings("unchecked")
+    public String getProcessedContent() {
+        DBCursor cursor = termCollection.find();
+        return StreamSupport.stream(cursor.spliterator(), false)
+                .map(Term::new)
+                .map(Term::toString)
+                .collect(Collectors.joining(" "));
     }
 
 
@@ -195,8 +223,7 @@ public final class Document extends BasicDBObject implements Serializable {
     }
 
 
-    void destroy(DB termDatabase) {
-        DBCollection termCollection = termDatabase.getCollection(getTermCollectionName());
+    void destroy() {
         termCollection.drop();
     }
 }

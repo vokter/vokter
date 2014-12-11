@@ -1,4 +1,4 @@
-package argus.langdetect;
+package argus.langdetector;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -14,7 +14,7 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.zip.GZIPInputStream;
 
-import static argus.langdetect.LanguageDetectorException.ErrorCode;
+import static argus.langdetector.LanguageDetectorException.ErrorCode;
 
 /**
  * Load Wikipedia's abstract XML as corpus and

@@ -4,10 +4,9 @@ import argus.cleaner.AndCleaner;
 import argus.cleaner.Cleaner;
 import argus.cleaner.DiacriticCleaner;
 import argus.cleaner.SpecialCharsCleaner;
-import argus.langdetect.LanguageDetector;
-import argus.langdetect.LanguageDetectorFactory;
+import argus.langdetector.LanguageDetector;
+import argus.langdetector.LanguageDetectorFactory;
 import argus.parser.Parser;
-import argus.parser.ParserResult;
 import argus.stemmer.Stemmer;
 import argus.stopper.FileStopwords;
 import argus.stopper.Stopwords;
@@ -66,7 +65,9 @@ public class KeywordPipeline implements Callable<Keyword> {
 
 
         // infers the document language using a Bayesian detection model
-        LanguageDetectorFactory.loadProfile(Constants.LANGUAGE_PROFILES_DIR);
+        if (LanguageDetectorFactory.getLangList().isEmpty()) {
+            LanguageDetectorFactory.loadProfile(Constants.LANGUAGE_PROFILES_DIR);
+        }
         LanguageDetector langDetector = LanguageDetectorFactory.create();
         langDetector.append(content);
         String languageCode = langDetector.detect();
@@ -105,7 +106,7 @@ public class KeywordPipeline implements Callable<Keyword> {
 
         // detects tokens from the document and loads them into separate
         // objects in memory
-        List<ParserResult> results = parser.parse(content, stopwords, stemmer, ignoreCase);
+        List<Parser.Result> results = parser.parse(content, stopwords, stemmer, ignoreCase);
         content.delete(0, content.length());
 
         if (stopwords != null) {
@@ -117,11 +118,10 @@ public class KeywordPipeline implements Callable<Keyword> {
         }
 
 
-
         // create a temporary in-memory term structure and converts parser results
         // into Term objects
         final Set<String> terms = new LinkedHashSet<>();
-        for (ParserResult r : results) {
+        for (Parser.Result r : results) {
             MutableString termText = r.text;
             terms.add(termText.toString());
         }

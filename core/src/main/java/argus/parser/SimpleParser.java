@@ -8,9 +8,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Simple tokenizer implementation, which separates, stops and stems words
+ * Simple parser implementation, which tokenizes, stops and stems words
  * separated by the specified character in the constructor. By default, the
- * tokenizer performs word separation by whitespaces.
+ * tokenization is whitespace-based.
  *
  * @author Eduardo Duarte (<a href="mailto:eduardo.miguel.duarte@gmail.com">eduardo.miguel.duarte@gmail.com</a>)
  * @version 2.0
@@ -28,11 +28,11 @@ public class SimpleParser implements Parser {
     }
 
     @Override
-    public List<ParserResult> parse(final MutableString text,
+    public List<Result> parse(final MutableString text,
                                     final Stopwords stopwords,
                                     final Stemmer stemmer,
                                     final boolean ignoreCase) {
-        List<ParserResult> retrievedTokens = new ArrayList<>();
+        List<Result> retrievedTokens = new ArrayList<>();
 
         boolean loop = true;
         int startIndex = 0, count = 0, endIndex;
@@ -84,7 +84,7 @@ public class SimpleParser implements Parser {
                     stemmer.stem(termText);
                 }
 
-                retrievedTokens.add(new ParserResult(count++, startIndex, endIndex, termText));
+                retrievedTokens.add(new Result(count++, startIndex, endIndex, termText));
             }
 
             startIndex = endIndex + 1;

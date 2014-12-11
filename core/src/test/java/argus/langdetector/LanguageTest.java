@@ -1,4 +1,4 @@
-package argus.langdetect;
+package argus.langdetector;
 
 import static org.junit.Assert.*;
 
@@ -26,7 +26,7 @@ public class LanguageTest {
     }
 
     /**
-     * Test method for {@link argus.langdetect.Language(String, double)}.
+     * Test method for {@link argus.langdetector.Language(String, double)}.
      */
     @Test
     public final void testLanguage() {

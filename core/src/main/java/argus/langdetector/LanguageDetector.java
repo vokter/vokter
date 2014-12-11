@@ -1,4 +1,4 @@
-package argus.langdetect;
+package argus.langdetector;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -14,7 +14,7 @@ import java.util.Map;
 import java.util.Random;
 import java.util.regex.Pattern;
 
-import static argus.langdetect.LanguageDetectorException.ErrorCode;
+import static argus.langdetector.LanguageDetectorException.ErrorCode;
 
 /**
  * {@link LanguageDetector} class is to detect language from specified text.

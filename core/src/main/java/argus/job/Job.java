@@ -3,7 +3,6 @@ package argus.job;
 import argus.keyword.Keyword;
 import com.aliasi.util.Pair;
 import com.mongodb.BasicDBObject;
-import org.codehaus.jackson.annotate.JsonProperty;
 
 import java.util.List;
 import java.util.stream.Stream;
@@ -37,8 +36,8 @@ public class Job extends BasicDBObject {
         return documentUrl;
     }
 
-    public Stream<Pair<Job, Keyword>> keywordStream() {
-        return keywords.stream().map(k -> new Pair<>(this, k));
+    public Stream<Keyword> keywordStream() {
+        return keywords.stream();
     }
 
     public int getInterval() {

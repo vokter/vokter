@@ -4,10 +4,9 @@ import argus.cleaner.AndCleaner;
 import argus.cleaner.Cleaner;
 import argus.cleaner.DiacriticCleaner;
 import argus.cleaner.SpecialCharsCleaner;
-import argus.langdetect.LanguageDetector;
-import argus.langdetect.LanguageDetectorFactory;
+import argus.langdetector.LanguageDetector;
+import argus.langdetector.LanguageDetectorFactory;
 import argus.parser.Parser;
-import argus.parser.ParserResult;
 import argus.reader.Reader;
 import argus.stemmer.Stemmer;
 import argus.stopper.FileStopwords;
@@ -15,7 +14,6 @@ import argus.stopper.Stopwords;
 import argus.term.Term;
 import argus.util.Constants;
 import argus.util.PluginLoader;
-import com.google.gson.Gson;
 import com.mongodb.BulkWriteOperation;
 import com.mongodb.DB;
 import com.mongodb.DBCollection;
@@ -26,6 +24,7 @@ import org.slf4j.LoggerFactory;
 import java.io.InputStream;
 import java.util.List;
 import java.util.concurrent.Callable;
+import java.util.stream.Stream;
 
 /**
  * A processing pipeline that reads, filters and tokenizes a content stream,
@@ -96,7 +95,7 @@ public class DocumentPipeline implements Callable<Document> {
         // The contents are copied to this object so that it keeps them in its
         // original form, without any transformations that come from cleaning,
         // stopping or stemming.
-        Document document = new Document(url, content.toString());
+        Document document = new Document(termsDatabase, url, content.toString());
 
 
         // infers the document language using a Bayesian detection model
@@ -141,7 +140,7 @@ public class DocumentPipeline implements Callable<Document> {
 
         // detects tokens from the document and loads them into separate
         // objects in memory
-        List<ParserResult> results = parser.parse(content, stopwords, stemmer, ignoreCase);
+        List<Parser.Result> results = parser.parse(content, stopwords, stemmer, ignoreCase);
 
         if (stopwords != null) {
             stopwords.destroy();
@@ -186,14 +185,10 @@ public class DocumentPipeline implements Callable<Document> {
 
         // create a database collection for this document terms and converts
         // parser results into Term objects
-        DBCollection termCollection =
-                termsDatabase.getCollection(document.getTermCollectionName());
-        BulkWriteOperation builder = termCollection.initializeUnorderedBulkOperation();
-        results.stream()
-                .map(r -> new Term(r.text.toString(), r.wordNum, r.start, r.end - 1))
-                .forEach(builder::insert);
-        builder.execute();
-        builder = null;
+
+        Stream<Term> termStream = results.stream()
+                .map(r -> new Term(r.text.toString(), r.wordNum, r.start, r.end - 1));
+        document.addOccurrences(termStream);
 
         results.clear();
         results = null;

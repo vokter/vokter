@@ -1,4 +1,4 @@
-package argus.langdetect;
+package argus.langdetector;
 
 import net.arnx.jsonic.JSON;
 import net.arnx.jsonic.JSONException;

@@ -1,4 +1,4 @@
-package argus.langdetect;
+package argus.langdetector;
 
 import java.util.MissingResourceException;
 import java.util.ResourceBundle;

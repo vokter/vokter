@@ -109,11 +109,11 @@ public class GeniaParser implements Parser {
 
 
     @Override
-    public List<ParserResult> parse(final MutableString text,
+    public List<Result> parse(final MutableString text,
                                     final Stopwords stopwords,
                                     final Stemmer stemmer,
                                     final boolean ignoreCase) {
-        List<ParserResult> _results = new ArrayList<>();
+        List<Result> _results = new ArrayList<>();
 
         int[][] idx = splitter.split(text);
         List<Pair<Integer, Integer>> sentenceIndexList = new ArrayList<>();
@@ -176,7 +176,7 @@ public class GeniaParser implements Parser {
                             stemmer.stem(tokenText);
                         }
 
-                        _results.add(new ParserResult(tokenCounter++, start, end, tokenText));
+                        _results.add(new Result(tokenCounter++, start, end, tokenText));
                     }
 
                     // Offsets
