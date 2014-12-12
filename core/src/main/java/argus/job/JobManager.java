@@ -1,8 +1,12 @@
 package argus.job;
 
+import argus.Context;
+import argus.document.Document;
 import argus.document.DocumentBuilder;
+import org.quartz.JobDetail;
 import org.quartz.Scheduler;
 import org.quartz.SchedulerException;
+import org.quartz.Trigger;
 import org.quartz.impl.StdSchedulerFactory;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -36,9 +40,21 @@ public class JobManager {
                             final String responseUrl) throws IllegalArgumentException {
         // if document url already exists, make a comparison immediately and
         // respond to the other response urls, then add the new responseUrl
-        DocumentBuilder.fromUrl(documentUrl);
+        Document document = Context.getInstance().addDocumentFromUrl(documentUrl);
 
-
+//        JobDetail job = newJob(HelloJob.class)
+//                .withIdentity("job1", "group1")
+//                .build();
+//
+//        Trigger trigger = newTrigger()
+//                .withIdentity("trigger1", "group1")
+//                .startNow()
+//                .withSchedule(simpleSchedule()
+//                        .withIntervalInSeconds(40)
+//                        .repeatForever())
+//                .build();
+//
+//        scheduler.scheduleJob(job, trigger);
     }
 
     public void cancelJob(String documentUrl, final String responseUrl) {
