@@ -3,9 +3,9 @@ package argus.parser;
 import java.util.concurrent.LinkedBlockingQueue;
 
 /**
- * A parser-pool that contains a set number of parsers. When the last parser from
- * the pool is removed, future document building jobs will be locked until a
- * parser is placed back.
+ * A parser-pool that contains a set number of parsers. When the last parser
+ * from the pool is removed, future parsing workers will be locked until
+ * a used parser is placed back in the pool.
  *
  * @author Eduardo Duarte (<a href="mailto:eduardo.miguel.duarte@gmail.com">eduardo.miguel.duarte@gmail.com</a>)
  * @version 1.0

@@ -31,41 +31,34 @@ public final class DocumentBuilder {
 
     private static final Logger logger = LoggerFactory.getLogger(DocumentBuilder.class);
 
-    private final Stopwatch sw;
+    /**
+     * The low-footprint loader of the document, using a lazy stream.
+     */
     private final Supplier<DocumentInput> documentLazySupplier;
-
 
     /**
      * Flag that sets usage of stopword filtering.
      */
     private boolean isStoppingEnabled = false;
 
-
     /**
      * Flag that sets usage of a porter stemmer.
      */
     private boolean isStemmingEnabled = false;
 
-
     /**
-     * Flag that sets matching of equal terms with different casing.
+     * Flag that sets matching of equal occurrences with different casing.
      */
     private boolean ignoreCase = false;
 
-
     private DocumentBuilder(final Supplier<DocumentInput> documentLazySupplier) {
-        this.sw = Stopwatch.createUnstarted();
         this.documentLazySupplier = documentLazySupplier;
     }
-
 
     /**
      * Instantiates a loader that collects a document from a
      * specified web url, by fetching the content as a InputStream and the content
      * format.
-     *
-     * @param url the root directory of the documents
-     * @return the corups loader instance
      */
     public static DocumentBuilder fromUrl(final String url) {
         return new DocumentBuilder(() -> {
@@ -87,13 +80,9 @@ public final class DocumentBuilder {
         });
     }
 
-
     /**
      * Instantiates a loader that collects a document from a
      * specified input stream. This constructor is mostly used for testing.
-     *
-     * @param url the root directory of the documents
-     * @return the corups loader instance
      */
     public static DocumentBuilder fromStream(final String url,
                                              final InputStream stream,
@@ -109,24 +98,20 @@ public final class DocumentBuilder {
         });
     }
 
-
     public DocumentBuilder withStopwords() {
         this.isStoppingEnabled = true;
         return this;
     }
-
 
     public DocumentBuilder withStemming() {
         this.isStemmingEnabled = true;
         return this;
     }
 
-
     public DocumentBuilder ignoreCase() {
         this.ignoreCase = true;
         return this;
     }
-
 
     /**
      * Indexes the documents specified in the factory method and adds the index
@@ -143,11 +128,8 @@ public final class DocumentBuilder {
      *
      * @return the built index of the documents specified in the factory method
      */
-    public Document build(DB termsDatabase, ParserPool parserPool) {
-
-        sw.reset();
-        sw.start();
-
+    public Document build(DB occurrencesDB, ParserPool parserPool) {
+        Stopwatch sw = Stopwatch.createStarted();
 
         // step 1) Perform a lazy loading of the document, by obtaining its url,
         // content stream and content type.
@@ -184,13 +166,13 @@ public final class DocumentBuilder {
         //         required modules, improving performance of parallel jobs.
         DocumentPipeline pipeline = new DocumentPipeline(
 
-                // general structure that holds the created terms
-                termsDatabase,
+                // general structure that holds the created occurrences
+                occurrencesDB,
 
                 // the input document info, including its path and InputStream
                 input,
 
-                // parser that will be used for document parsing and term
+                // parser that will be used for document parsing and occurrence
                 // detection
                 parser,
 
@@ -198,7 +180,7 @@ public final class DocumentBuilder {
                 // tokenization
                 isStoppingEnabled,
 
-                // flag that sets that every found term during tokenization will
+                // flag that sets that every found occurrence during tokenization will
                 // be stemmer
                 isStemmingEnabled,
 
@@ -217,6 +199,7 @@ public final class DocumentBuilder {
             return null;
         }
 
+
         // step 6) Place the parser back in the parser-pool.
         try {
             parserPool.place(parser);
@@ -226,7 +209,8 @@ public final class DocumentBuilder {
         }
 
         sw.stop();
-        logger.info("Document builder elapsed time: " + sw.toString());
+        logger.info("Completed fetching document '{}' in {}",
+                document.getUrl(), sw.toString());
 
         return document;
     }

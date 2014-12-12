@@ -1,9 +1,7 @@
 package argus.diff;
 
-import argus.document.Document;
-import argus.job.Job;
+import argus.job.workers.MatchWorker;
 import argus.keyword.Keyword;
-import argus.term.Term;
 import com.aliasi.util.Pair;
 import com.google.common.base.Stopwatch;
 import com.google.common.hash.BloomFilter;
@@ -15,7 +13,6 @@ import java.util.List;
 import java.util.Set;
 import java.util.concurrent.Callable;
 import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 /**
  * TODO
@@ -28,20 +25,19 @@ public class DiffMatcher implements Callable<Set<DiffMatcher.Result>> {
 
     private static final Logger logger = LoggerFactory.getLogger(DiffMatcher.class);
 
-    private final Job job;
+    private final MatchWorker worker;
     private final List<DiffDetector.Result> differences;
-    private final Stopwatch sw;
 
-    public DiffMatcher(final Job job,
+    public DiffMatcher(final MatchWorker worker,
                        final List<DiffDetector.Result> differences) {
-        this.job = job;
+        this.worker = worker;
         this.differences = differences;
-        this.sw = Stopwatch.createUnstarted();
     }
 
     @Override
     public Set<DiffMatcher.Result> call() {
-        sw.start();
+        Stopwatch sw = Stopwatch.createStarted();
+
         Set<Pair<DiffDetector.Result, Keyword>> matchedDiffs = new ConcurrentHashSet<>();
 
         DiffAction lastAction = DiffAction.nothing;
@@ -54,17 +50,18 @@ public class DiffMatcher implements Callable<Set<DiffMatcher.Result>> {
                 lastAction = r.action;
             }
             BloomFilter<String> bloomFilter = lastBloomFilter;
-            bloomFilter.put(r.termText);
+            bloomFilter.put(r.occurrenceText);
 
             // check if at least ONE of the keywords has ALL of its texts contained in
             // the diff text
-            job.keywordStream()
+            worker.keywordStream()
                     .parallel()
                     .unordered()
                     .filter(kw -> kw.textStream().allMatch(bloomFilter::mightContain))
                     .map(kw -> new Pair<>(r, kw))
                     .forEach((pair) -> {
-                        if (pair.b().textStream().anyMatch(pair.a().termText::equals)) {
+                        if (pair.b().textStream()
+                                .anyMatch(pair.a().occurrenceText::equals)) {
                             matchedDiffs.add(pair);
                         }
                     });
@@ -88,7 +85,8 @@ public class DiffMatcher implements Callable<Set<DiffMatcher.Result>> {
                 .collect(Collectors.toSet());
 
         sw.stop();
-        logger.info("Difference matching elapsed time: " + sw.toString());
+        logger.info("Completed difference matching for job '{}' in {}",
+                worker.getResponseUrl(), sw.toString());
         return results;
     }
 
@@ -109,7 +107,6 @@ public class DiffMatcher implements Callable<Set<DiffMatcher.Result>> {
          * was either added or removed from the document.
          */
         public final String snippet;
-
 
         protected Result(final DiffAction status,
                          final Keyword keyword,

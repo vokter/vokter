@@ -65,6 +65,8 @@ public class KeywordPipeline implements Callable<Keyword> {
 
 
         // infers the document language using a Bayesian detection model
+        // FIX-ME if two threads run this, the first language detector will not
+        // have loaded profiles
         if (LanguageDetectorFactory.getLangList().isEmpty()) {
             LanguageDetectorFactory.loadProfile(Constants.LANGUAGE_PROFILES_DIR);
         }

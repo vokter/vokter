@@ -1,10 +1,13 @@
 package argus.diff;
 
 /**
- * The data structure representing a diff is a Linked list of Diff objects:
+ * A structure that set the action that was performed on a text for it to trigger a
+ * difference.
+ * The following example ...
  * {Diff(Status.deleted, "Hello"), Diff(Status.inserted, "Goodbye"),
- * Diff(Status.none, " world.")}
- * which means: delete "Hello", add "Goodbye" and keep " world."
+ * Diff(Status.nothing, " world.")}
+ * ... means that the newer document snapshot erased "Hello", wrote "Goodbye" and
+ * kept " world.".
  *
  * @author Eduardo Duarte (<a href="mailto:eduardo.miguel.duarte@gmail.com">eduardo.miguel.duarte@gmail.com</a>)
  * @version 1.0

@@ -1,20 +1,17 @@
 package argus.diff;
 
 import argus.document.Document;
+import argus.document.Occurrence;
 import argus.parser.Parser;
 import argus.parser.ParserPool;
-import argus.term.Term;
 import com.google.common.base.Stopwatch;
 import it.unimi.dsi.lang.MutableString;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import java.util.ArrayList;
-import java.util.HashSet;
-import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
-import java.util.Set;
 import java.util.concurrent.Callable;
 
 /**
@@ -32,7 +29,6 @@ public class DiffDetector implements Callable<List<DiffDetector.Result>> {
     private final Document oldSnapshot;
     private final Document newSnapshot;
     private final ParserPool parserPool;
-    private final Stopwatch sw;
 
     public DiffDetector(final Document oldSnapshot,
                         final Document newSnapshot,
@@ -40,12 +36,30 @@ public class DiffDetector implements Callable<List<DiffDetector.Result>> {
         this.oldSnapshot = oldSnapshot;
         this.newSnapshot = newSnapshot;
         this.parserPool = parserPool;
-        this.sw = Stopwatch.createUnstarted();
+    }
+
+    private static String getSnippet(Document d, String occurrenceText, int wordCount) {
+        Occurrence occurrence = d.getOccurrence(occurrenceText, wordCount);
+        if (occurrence == null) {
+            return "";
+        }
+        String originalContent = d.getOriginalContent();
+
+        int snippetStart = occurrence.getStartIndex() - SNIPPET_INDEX_OFFSET;
+        if (snippetStart < 0) {
+            snippetStart = 0;
+        }
+        int snippetEnd = occurrence.getEndIndex() + SNIPPET_INDEX_OFFSET;
+        if (snippetEnd > originalContent.length()) {
+            snippetEnd = originalContent.length();
+        }
+        return originalContent.substring(snippetStart, snippetEnd);
     }
 
     @Override
     public List<DiffDetector.Result> call() {
-        sw.start();
+        Stopwatch sw = Stopwatch.createStarted();
+
         DiffMatchPatch dmp = new DiffMatchPatch();
 
         String original = oldSnapshot.getProcessedContent();
@@ -70,16 +84,16 @@ public class DiffDetector implements Callable<List<DiffDetector.Result>> {
             List<Parser.Result> results = parser.parse(new MutableString(diffText));
             for (Parser.Result result : results) {
                 String snippet;
-                String termText = result.text.toString();
+                String occurrenceText = result.text.toString();
                 switch (diff.action) {
                     case inserted: {
                         int wordNum = insertedCountOffset++;
-                        snippet = getSnippet(newSnapshot, termText, wordNum);
+                        snippet = getSnippet(newSnapshot, occurrenceText, wordNum);
                         break;
                     }
                     case deleted: {
                         int wordNum = deletedCountOffset++;
-                        snippet = getSnippet(oldSnapshot, termText, wordNum);
+                        snippet = getSnippet(oldSnapshot, occurrenceText, wordNum);
                         break;
                     }
                     default: {
@@ -124,26 +138,9 @@ public class DiffDetector implements Callable<List<DiffDetector.Result>> {
 //        }
 
         sw.stop();
-        logger.info("Difference detection elapsed time: " + sw.toString());
+        logger.info("Completed difference detection for document '{}' in {}",
+                newSnapshot.getUrl(), sw.toString());
         return retrievedDiffs;
-    }
-
-    private static String getSnippet(Document d, String termText, int wordCount) {
-        Term term = d.getOccurrence(termText, wordCount);
-        if (term == null) {
-            return "";
-        }
-        String originalContent = d.getOriginalContent();
-
-        int snippetStart = term.getStartIndex() - SNIPPET_INDEX_OFFSET;
-        if (snippetStart < 0) {
-            snippetStart = 0;
-        }
-        int snippetEnd = term.getEndIndex() + SNIPPET_INDEX_OFFSET;
-        if (snippetEnd > originalContent.length()) {
-            snippetEnd = originalContent.length();
-        }
-        return originalContent.substring(snippetStart, snippetEnd);
     }
 
     public static class Result {
@@ -154,21 +151,20 @@ public class DiffDetector implements Callable<List<DiffDetector.Result>> {
         public final DiffAction action;
 
         /**
-         * The text of the term contained within this difference.
+         * The text of the occurrence contained within this difference.
          */
-        public final String termText;
+        public final String occurrenceText;
 
         /**
          * The snippet of this difference in the original document (non-processed).
          */
         public final String snippet;
 
-
         protected Result(final DiffAction action,
-                         final String termText,
+                         final String occurrenceText,
                          final String snippet) {
             this.action = action;
-            this.termText = termText;
+            this.occurrenceText = occurrenceText;
             this.snippet = snippet;
         }
     }

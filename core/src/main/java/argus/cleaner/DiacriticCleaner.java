@@ -6,7 +6,6 @@ import java.text.Normalizer;
 
 /**
  * Cleaner class that converts diacritic words into their non-diacritic form.
- * This is mostly usable for
  *
  * @author Eduardo Duarte (<a href="mailto:eduardo.miguel.duarte@gmail.com">eduardo.miguel.duarte@gmail.com</a>)
  * @version 1.0

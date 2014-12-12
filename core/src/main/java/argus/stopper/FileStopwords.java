@@ -20,7 +20,7 @@ import java.util.Set;
 import java.util.stream.Collectors;
 
 /**
- * Module that checks if the received textual state of a term corresponds
+ * Module that checks if the received textual state of a occurrence corresponds
  * to a stopword loaded from a local file.
  * <p>
  * The file's contents are read by line, including every word in each line as a
@@ -94,8 +94,8 @@ public class FileStopwords implements Stopwords {
     }
 
     @Override
-    public boolean isStopword(MutableString termText) {
-        return stopwords.contains(termText);
+    public boolean isStopword(MutableString occurrenceText) {
+        return stopwords.contains(occurrenceText);
     }
 
     @Override

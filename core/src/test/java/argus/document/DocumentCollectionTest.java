@@ -27,25 +27,25 @@ public class DocumentCollectionTest {
     private static final Logger logger = LoggerFactory.getLogger(DocumentCollectionTest.class);
 
     private static MongoClient mongoClient;
-    private static DB termsDatabase;
+    private static DB documentsDB;
+    private static DB occurrencesDB;
     private static ParserPool parserPool;
     private static DocumentCollection collection;
 
     @BeforeClass
     public static void setUp() throws IOException, InterruptedException {
         mongoClient = new MongoClient("localhost", 27017);
-        DB documentsDatabase = mongoClient.getDB("test_documents_db");
-        termsDatabase = mongoClient.getDB("test_terms_db");
+        documentsDB = mongoClient.getDB("test_documents_db");
+        occurrencesDB = mongoClient.getDB("test_terms_db");
         parserPool = new ParserPool();
         parserPool.place(new GeniaParser());
         parserPool.place(new GeniaParser());
-        collection = new DocumentCollection("test_collection", documentsDatabase, termsDatabase);
+        collection = new DocumentCollection("test_collection", documentsDB, occurrencesDB);
     }
 
     @Test
     public void test() {
         assertNull(collection.get("http://en.wikipedia.org/wiki/Argus_Panoptes"));
-
 
         // testing add
         Document d = DocumentBuilder
@@ -53,20 +53,20 @@ public class DocumentCollectionTest {
                 .ignoreCase()
                 .withStopwords()
                 .withStemming()
-                .build(termsDatabase, parserPool);
+                .build(occurrencesDB, parserPool);
         collection.add(d);
         assertNotNull(collection.get("http://en.wikipedia.org/wiki/Argus_Panoptes"));
-
 
         // testing remove
         collection.remove("http://en.wikipedia.org/wiki/Argus_Panoptes");
         assertNull(collection.get("http://en.wikipedia.org/wiki/Argus_Panoptes"));
     }
 
-
     @AfterClass
     public static void close() {
         collection.destroy();
+        documentsDB.dropDatabase();
+        occurrencesDB.dropDatabase();
         mongoClient.close();
     }
 }

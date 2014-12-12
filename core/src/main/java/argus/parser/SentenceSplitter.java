@@ -9,7 +9,6 @@ import com.aliasi.tokenizer.IndoEuropeanTokenizerFactory;
 import com.aliasi.tokenizer.TokenizerFactory;
 import it.unimi.dsi.lang.MutableString;
 
-import java.util.Iterator;
 import java.util.Set;
 
 /**
@@ -21,30 +20,24 @@ import java.util.Set;
  */
 public class SentenceSplitter {
 
-    private TokenizerFactory TOKENIZER_FACTORY;
-    private SentenceModel SENTENCE_MODEL;
-    private SentenceChunker SENTENCE_CHUNKER;
-
+    private SentenceChunker chunker;
 
     public SentenceSplitter() {
-        this.TOKENIZER_FACTORY = IndoEuropeanTokenizerFactory.INSTANCE;
-        this.SENTENCE_MODEL = new MedlineSentenceModel();
-        this.SENTENCE_CHUNKER = new SentenceChunker(TOKENIZER_FACTORY, SENTENCE_MODEL);
+        TokenizerFactory tokenizerFactory = IndoEuropeanTokenizerFactory.INSTANCE;
+        SentenceModel sentenceModel = new MedlineSentenceModel();
+        this.chunker = new SentenceChunker(tokenizerFactory, sentenceModel);
     }
-
 
     public int[][] split(MutableString text) {
 
-        Chunking chunking = SENTENCE_CHUNKER.chunk(text.toCharArray(), 0, text.length());
+        Chunking chunking = chunker.chunk(text.toCharArray(), 0, text.length());
         Set<Chunk> sentences = chunking.chunkSet();
 
         int size = sentences.size();
         int[][] indices = new int[size][2];
 
         int i = 0;
-        for (Iterator<Chunk> it = sentences.iterator(); it.hasNext(); ) {
-
-            Chunk sentence = it.next();
+        for (Chunk sentence : sentences) {
             int start = sentence.start();
             int end = sentence.end();
 
