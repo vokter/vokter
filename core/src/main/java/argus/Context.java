@@ -112,7 +112,7 @@ public class Context implements LifeCycle.Listener {
      * Indexes the specified document and saves the resulting index
      * of all occurrences for future query and comparison.
      */
-    public void addDocumentFromUrl(String url) {
+    public Document addDocumentFromUrl(String url) {
         DocumentBuilder builder = DocumentBuilder.fromUrl(url);
 
         if (isStoppingEnabled) {
@@ -129,6 +129,7 @@ public class Context implements LifeCycle.Listener {
 
         Document d = builder.build(occurrencesDB, parserPool);
         this.collection.add(d);
+        return d;
     }
 
     public void setStopwordsEnabled(boolean isStoppingEnabled) {
