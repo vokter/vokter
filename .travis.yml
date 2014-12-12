@@ -13,4 +13,4 @@ before_install:
 install: true
 
 after_success:
-  - jacoco:report coveralls:report
+  - mvn jacoco:report coveralls:report
