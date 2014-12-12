@@ -1,4 +1,4 @@
-package argus.term;
+package argus.document;
 
 import com.mongodb.BasicDBObject;
 import com.mongodb.DBObject;
@@ -7,32 +7,32 @@ import java.io.Serializable;
 import java.util.Comparator;
 
 /**
- * An occurrence represents a position within a document where a term occurs.
+ * An occurrence represents a position within a document where a occurrence occurs.
  * This occurrence is implemented to allow phrase queries, using a word-based
  * counter, and to allow snippet printing, using character-based counters.
  *
  * @author Eduardo Duarte (<a href="mailto:eduardo.miguel.duarte@gmail.com">eduardo.miguel.duarte@gmail.com</a>)
  * @version 2.0
  */
-public class Term extends BasicDBObject implements Comparable<Term>, Serializable {
+public class Occurrence extends BasicDBObject implements Comparable<Occurrence>, Serializable {
     public static final String TEXT = "text";
     public static final String WORD_COUNT = "word_count";
     public static final String START_INDEX = "start_index";
     public static final String END_INDEX = "end_index";
     private static final long serialVersionUID = 1L;
 
-    public Term(String text, int wordCount, int startIndex, int endIndex) {
+    public Occurrence(String text, int wordCount, int startIndex, int endIndex) {
         super(TEXT, text);
         append(WORD_COUNT, wordCount);
         append(START_INDEX, startIndex);
         append(END_INDEX, endIndex);
     }
 
-    public Term(BasicDBObject mongoObject) {
+    public Occurrence(BasicDBObject mongoObject) {
         super(mongoObject);
     }
 
-    public Term(DBObject mongoObject) {
+    public Occurrence(DBObject mongoObject) {
         super(mongoObject.toMap());
     }
 
@@ -64,7 +64,7 @@ public class Term extends BasicDBObject implements Comparable<Term>, Serializabl
 
 
     /**
-     * Returns the text that represents this term.
+     * Returns the text that representsoccurrences term.
      */
     @Override
     public String toString() {
@@ -79,7 +79,7 @@ public class Term extends BasicDBObject implements Comparable<Term>, Serializabl
      * @return <code>true</code> if the specified occurrence is contained
      * in this one, and <code>false</code> in case otherwise.
      */
-    public boolean contains(Term a) {
+    public boolean contains(Occurrence a) {
 
         if (this.equals(a)) {
             return false;
@@ -96,7 +96,7 @@ public class Term extends BasicDBObject implements Comparable<Term>, Serializabl
      * @return <code>true</code> if the specified occurrence is intersected
      * in this one, and <code>false</code> in case otherwise.
      */
-    public boolean intersects(Term a) {
+    public boolean intersects(Occurrence a) {
 
         if (this.nests(a) || a.nests(this)) {
             return false;
@@ -132,7 +132,7 @@ public class Term extends BasicDBObject implements Comparable<Term>, Serializabl
      * @return <code>true</code> if the specified occurrence is nested
      * in this one, and <code>false</code> otherwise.
      */
-    public boolean nests(Term a) {
+    public boolean nests(Occurrence a) {
 
         if (this.equals(a)) {
             return false;
@@ -151,7 +151,7 @@ public class Term extends BasicDBObject implements Comparable<Term>, Serializabl
      * @return the result of the comparison
      */
     @Override
-    public int compareTo(Term o) {
+    public int compareTo(Occurrence o) {
         return new OccurrenceComparator().compare(this, o);
     }
 
@@ -167,7 +167,7 @@ public class Term extends BasicDBObject implements Comparable<Term>, Serializabl
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
 
-        Term that = (Term) o;
+        Occurrence that = (Occurrence) o;
         return this.getWordCount() == that.getWordCount() &&
                 this.getStartIndex() == that.getStartIndex() &&
                 this.getEndIndex() == that.getEndIndex();
@@ -189,9 +189,9 @@ public class Term extends BasicDBObject implements Comparable<Term>, Serializabl
 
 
     /**
-     * Comparator used to sort a set of {@link Term} objects.
+     * Comparator used to sort a set of {@link Occurrence} objects.
      */
-    public static class OccurrenceComparator implements Comparator<Term> {
+    public static class OccurrenceComparator implements Comparator<Occurrence> {
 
         /**
          * Compares two occurrences considering their positions in the sentence,
@@ -204,7 +204,7 @@ public class Term extends BasicDBObject implements Comparable<Term>, Serializabl
          * in the sentence.
          */
         @Override
-        public int compare(final Term a1, final Term a2) {
+        public int compare(final Occurrence a1, final Occurrence a2) {
 
             if (a1.getStartIndex() > a2.getStartIndex()) {
                 return 1;

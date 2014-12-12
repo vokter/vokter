@@ -58,6 +58,7 @@ public final class KeywordBuilder {
     }
 
     public Keyword build(ParserPool parserPool) {
+        Stopwatch sw = Stopwatch.createStarted();
 
         // step 3) Takes a parser from the parser-pool.
         Parser parser;
@@ -90,7 +91,6 @@ public final class KeywordBuilder {
         );
 
         // step 5) Process the document asynchronously.
-        Stopwatch sw = Stopwatch.createStarted();
         Keyword aux;
         try {
             aux = pipeline.call();
@@ -98,9 +98,6 @@ public final class KeywordBuilder {
             logger.error(ex.getMessage(), ex);
             return null;
         }
-        sw.stop();
-        logger.info("Keyword processor elapsed time: " + sw.toString());
-        sw = null;
         final Keyword keyword = aux;
 
         // step 6) Place the parser back in the parser-pool.
@@ -111,6 +108,8 @@ public final class KeywordBuilder {
             return null;
         }
 
+        logger.info("Completed building keywords '{}' in {}",
+                keywordInput, sw.toString());
         return keyword;
     }
 }

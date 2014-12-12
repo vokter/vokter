@@ -11,12 +11,9 @@ import argus.reader.Reader;
 import argus.stemmer.Stemmer;
 import argus.stopper.FileStopwords;
 import argus.stopper.Stopwords;
-import argus.term.Term;
 import argus.util.Constants;
 import argus.util.PluginLoader;
-import com.mongodb.BulkWriteOperation;
 import com.mongodb.DB;
-import com.mongodb.DBCollection;
 import it.unimi.dsi.lang.MutableString;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -39,7 +36,7 @@ public class DocumentPipeline implements Callable<Document> {
 
     private static final Logger logger = LoggerFactory.getLogger(DocumentPipeline.class);
 
-    private final DB termsDatabase;
+    private final DB occurrencesDB;
     private final DocumentInput documentInput;
     private final Parser parser;
     private final boolean isStoppingEnabled;
@@ -47,13 +44,13 @@ public class DocumentPipeline implements Callable<Document> {
     private final boolean ignoreCase;
 
 
-    public DocumentPipeline(final DB termsDatabase,
+    public DocumentPipeline(final DB occurrencesDB,
                             final DocumentInput documentInput,
                             final Parser parser,
                             final boolean isStoppingEnabled,
                             final boolean isStemmingEnabled,
                             final boolean ignoreCase) {
-        this.termsDatabase = termsDatabase;
+        this.occurrencesDB = occurrencesDB;
         this.documentInput = documentInput;
         this.parser = parser;
         this.isStoppingEnabled = isStoppingEnabled;
@@ -95,10 +92,12 @@ public class DocumentPipeline implements Callable<Document> {
         // The contents are copied to this object so that it keeps them in its
         // original form, without any transformations that come from cleaning,
         // stopping or stemming.
-        Document document = new Document(termsDatabase, url, content.toString());
+        Document document = new Document(occurrencesDB, url, content.toString());
 
 
         // infers the document language using a Bayesian detection model
+        // FIX-ME if two threads run this, the first language detector will not
+        // have loaded profiles
         if (LanguageDetectorFactory.getLangList().isEmpty()) {
             LanguageDetectorFactory.loadProfile(Constants.LANGUAGE_PROFILES_DIR);
         }
@@ -186,8 +185,8 @@ public class DocumentPipeline implements Callable<Document> {
         // create a database collection for this document terms and converts
         // parser results into Term objects
 
-        Stream<Term> termStream = results.stream()
-                .map(r -> new Term(r.text.toString(), r.wordNum, r.start, r.end - 1));
+        Stream<Occurrence> termStream = results.stream()
+                .map(r -> new Occurrence(r.text.toString(), r.wordNum, r.start, r.end - 1));
         document.addOccurrences(termStream);
 
         results.clear();

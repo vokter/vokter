@@ -25,9 +25,9 @@ public interface Parser extends AutoCloseable {
      * obtains parsed results.
      */
     List<Result> parse(final MutableString text,
-                             final Stopwords stopwords,
-                             final Stemmer stemmer,
-                             final boolean ignoreCase);
+                       final Stopwords stopwords,
+                       final Stemmer stemmer,
+                       final boolean ignoreCase);
 
     @Override
     void close();

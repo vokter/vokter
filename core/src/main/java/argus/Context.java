@@ -3,18 +3,12 @@ package argus;
 import argus.document.Document;
 import argus.document.DocumentBuilder;
 import argus.document.DocumentCollection;
-import argus.job.JobPool;
+import argus.job.JobManager;
 import argus.parser.GeniaParser;
 import argus.parser.Parser;
 import argus.parser.ParserPool;
 import com.mongodb.DB;
 import com.mongodb.MongoClient;
-import org.apache.commons.cli.CommandLine;
-import org.apache.commons.cli.CommandLineParser;
-import org.apache.commons.cli.GnuParser;
-import org.apache.commons.cli.HelpFormatter;
-import org.apache.commons.cli.Options;
-import org.apache.commons.cli.ParseException;
 import org.eclipse.jetty.server.Connector;
 import org.eclipse.jetty.server.Server;
 import org.eclipse.jetty.server.handler.HandlerList;
@@ -32,161 +26,86 @@ public class Context implements LifeCycle.Listener {
 
     private static final Logger logger = LoggerFactory.getLogger(Context.class);
 
-    private static final String TERMS_DB = "argus_terms_db";
     private static final String DOCUMENTS_DB = "argus_documents_db";
+    private static final String OCCURRENCES_DB = "argus_occurrences_db";
 
-    private static final Context instance = new Context();
-    private final JobPool jobPool;
+    private static final Context instance;
+
+    static {
+        Context aux;
+        try {
+            aux = new Context();
+        } catch (Exception ex) {
+            logger.error(ex.getMessage(), ex);
+            aux = null;
+        }
+        instance = aux;
+    }
+
+    /**
+     * A manager for all Quartz jobs, handling scheduling and persistence of
+     * asynchronous processes for document differences detection and
+     * keyword-difference matching.
+     */
+    private final JobManager jobManager;
+    /**
+     * A parser-pool that contains a set number of parsers. When the last parser
+     * from the pool is removed, future parsing workers will be locked until
+     * a used parser is placed back in the pool.
+     */
     private final ParserPool parserPool;
+    /**
+     * The client for the used MongoDB database.
+     */
+    private MongoClient mongoClient;
+    /**
+     * The MongoDB database for fetched documents.
+     */
+    private DB documentsDB;
+    /**
+     * The MongoDB database for parsed occurrences for each document.
+     */
+    private DB occurrencesDB;
     /**
      * The collection instance that will contain all imported and processed corpus
      * during the context's execution.
      */
     private DocumentCollection collection;
+
     /**
      * Flag that locks server shutdown until it is properly initialized.
      */
     private boolean initialized;
+
     /**
      * Flag that sets the QueryProcessor usage of
      * stopword filtering.
      */
     private boolean isStoppingEnabled = true;
+
     /**
      * Flag that sets the QueryProcessor usage of
      * a porter stemmer.
      */
     private boolean isStemmingEnabled = true;
+
     /**
      * Flag that sets the QueryProcessor matching
-     * of equal terms with different casing.
+     * of equal occurrences with different casing.
      */
     private boolean ignoreCase = true;
-    private MongoClient mongoClient;
-    private DB documentsDatabase;
-    private DB termsDatabase;
 
 
-    private Context() {
+    private Context() throws Exception {
         super();
         initialized = false;
-        jobPool = new JobPool();
+        jobManager = new JobManager();
         parserPool = new ParserPool();
     }
 
 
     public static Context getInstance() {
         return instance;
-    }
-
-    public static void main(String[] args) {
-
-        installUncaughtExceptionHandler();
-
-        CommandLineParser parser = new GnuParser();
-        Options options = new Options();
-
-        options.addOption("t", "threads", true, "Number of max threads to be used "
-                + "for computation and indexing processes. By default, this will "
-                + "be the number of available cores.");
-
-        options.addOption("port", "port", true, "Server port.");
-
-        options.addOption("nocase", "ignore-case", false, "Ignores differentiation "
-                + "between equal words with different casing.");
-
-        options.addOption("stop", "stopwords", false, "Perform stopword filtering.");
-
-        options.addOption("stem", "stemming", false, "Perform stemming.");
-
-        options.addOption("h", "help", false, "Shows this help prompt.");
-
-
-        CommandLine commandLine;
-        try {
-            // Parse the program arguments
-            commandLine = parser.parse(options, args);
-        } catch (ParseException ex) {
-            logger.error("There was a problem processing the input arguments.");
-            logger.error(ex.getMessage(), ex);
-            return;
-        }
-
-
-        if (commandLine.hasOption("h")) {
-            String usage = "[-h] [-port] [-t] [-nocase] [-stop] [-stem]";
-            HelpFormatter formatter = new HelpFormatter();
-            formatter.printHelp("java -jar argus-core.jar " + usage, options);
-            return;
-        }
-
-
-        // Get threads
-        int maxThreads = Runtime.getRuntime().availableProcessors() - 1;
-        maxThreads = maxThreads > 0 ? maxThreads : 1;
-        if (commandLine.hasOption('t')) {
-            String threadsText = commandLine.getOptionValue('t');
-            maxThreads = Integer.parseInt(threadsText);
-            if (maxThreads <= 0 || maxThreads > 32) {
-                logger.error("Invalid number of threads. Must be a number between 1 and 32.");
-                return;
-            }
-        }
-
-
-        // Get port
-        int port = 8080;
-        if (commandLine.hasOption("port")) {
-            String portString = commandLine.getOptionValue("port");
-            port = Integer.parseInt(portString);
-        }
-
-
-        // Set JSP to always use Standard JavaC
-        System.setProperty("org.apache.jasper.compiler.disablejsr199", "false");
-
-
-        boolean isStoppingEnabled = false;
-        boolean isStemmingEnabled = false;
-        boolean isIgnoringCase = false;
-
-        if (commandLine.hasOption("stop")) {
-            isStoppingEnabled = true;
-        }
-
-        if (commandLine.hasOption("stem")) {
-            isStemmingEnabled = true;
-        }
-
-        if (commandLine.hasOption("nocase")) {
-            isIgnoringCase = true;
-        }
-
-
-        try {
-            Context context = new Context();
-            context.setStopwordsEnabled(isStoppingEnabled);
-            context.setStemmingEnabled(isStemmingEnabled);
-            context.setIgnoreCase(isIgnoringCase);
-
-            context.initialize(port, maxThreads);
-
-        } catch (Exception ex) {
-            ex.printStackTrace();
-            logger.info("Shutting down the server...");
-            System.exit(1);
-        }
-    }
-
-    private static void installUncaughtExceptionHandler() {
-        Thread.setDefaultUncaughtExceptionHandler((t, e) -> {
-            if (e instanceof ThreadDeath) {
-                logger.warn("Ignoring uncaught ThreadDead exception.");
-                return;
-            }
-            logger.error("Uncaught exception on cli thread, aborting.", e);
-            System.exit(0);
-        });
     }
 
     /**
@@ -208,7 +127,7 @@ public class Context implements LifeCycle.Listener {
             builder.ignoreCase();
         }
 
-        Document d = builder.build(termsDatabase, parserPool);
+        Document d = builder.build(occurrencesDB, parserPool);
         this.collection.add(d);
     }
 
@@ -240,23 +159,29 @@ public class Context implements LifeCycle.Listener {
      * Starts this REST context at the specified port, using the specified number
      * of threads and wrapping the specified collection and stopwords for queries.
      */
-    public void initialize(int port, int maxThreads) throws Exception {
+    public void start(final int port,
+                      final int maxThreads,
+                      final String dbHost,
+                      final int dbPort) throws Exception {
         if (initialized) {
             return;
         }
 
-        mongoClient = new MongoClient("localhost", 27017);
+        // Set JSP to always use Standard JavaC
+        System.setProperty("org.apache.jasper.compiler.disablejsr199", "false");
 
-        documentsDatabase = mongoClient.getDB(DOCUMENTS_DB);
-        termsDatabase = mongoClient.getDB(TERMS_DB);
+        mongoClient = new MongoClient(dbHost, dbPort);
+
+        documentsDB = mongoClient.getDB(DOCUMENTS_DB);
+        occurrencesDB = mongoClient.getDB(OCCURRENCES_DB);
 
         collection = new DocumentCollection(
                 "argus_production_collection",
-                documentsDatabase,
-                termsDatabase
+                documentsDB,
+                occurrencesDB
         );
 
-        jobPool.initialize(maxThreads);
+        jobManager.initialize(maxThreads);
 
         logger.info("Starting parsers...");
         for (int i = 1; i < maxThreads; i++) {
@@ -264,38 +189,35 @@ public class Context implements LifeCycle.Listener {
             parserPool.place(p);
         }
 
-
         logger.info("Starting server...");
-        // Start a Jetty server with some sensible defaults
         Server server = new Server();
         server.setStopAtShutdown(true);
 
-
-        // Increases thread pool
+        // Increase server thread pool
         QueuedThreadPool threadPool = new QueuedThreadPool();
         threadPool.setMaxThreads(maxThreads);
         server.setThreadPool(threadPool);
 
 
-        // Ensures a non-blocking connector (NIO) is used.
+        // Ensure a non-blocking connector (NIO) is used.
         Connector connector = new SelectChannelConnector();
         connector.setPort(port);
         connector.setMaxIdleTime(30000);
         server.setConnectors(new Connector[]{connector});
 
 
-        // Retrieves the jar file.
+        // Retrieve the jar file.
         ProtectionDomain protectionDomain = Context.class.getProtectionDomain();
         String jarFilePath = protectionDomain.getCodeSource().getLocation().toExternalForm();
 
 
-        // Associates the web context (which includes all files in the 'resources'
+        // Associate the web context (which includes all files in the 'resources'
         // folder to the jar file.
         WebAppContext context = new WebAppContext(jarFilePath, "/");
         context.setServer(server);
 
 
-        // Adds the handlers for the jar context file.
+        // Add the handlers for the jar context file.
         HandlerList handlers = new HandlerList();
         handlers.addHandler(context);
         server.setHandler(handlers);
@@ -353,7 +275,7 @@ public class Context implements LifeCycle.Listener {
     @Override
     public void lifeCycleStopping(LifeCycle lifeCycle) {
         mongoClient.close();
-        jobPool.clear();
+        jobManager.stop();
         parserPool.clear();
         initialized = false;
     }

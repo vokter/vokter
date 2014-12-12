@@ -2,14 +2,13 @@ package argus.diff;
 
 import argus.document.Document;
 import argus.document.DocumentBuilder;
-import argus.job.Job;
+import argus.job.workers.MatchWorker;
 import argus.keyword.Keyword;
 import argus.keyword.KeywordBuilder;
 import argus.keyword.KeywordSerializer;
 import argus.parser.GeniaParser;
 import argus.parser.ParserPool;
 import com.google.common.collect.Lists;
-import com.google.common.collect.Multimap;
 import com.google.gson.GsonBuilder;
 import com.mongodb.DB;
 import com.mongodb.MongoClient;
@@ -23,7 +22,6 @@ import org.slf4j.LoggerFactory;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.List;
-import java.util.Set;
 import java.util.stream.Collectors;
 
 import static org.junit.Assert.assertEquals;
@@ -40,14 +38,14 @@ public class DiffDetectorTest {
     private static final Logger logger = LoggerFactory.getLogger(DiffDetectorTest.class);
 
     private static MongoClient mongoClient;
-    private static DB termsDatabase;
+    private static DB occurrencesDB;
     private static ParserPool parserPool;
 
 
     @BeforeClass
     public static void setUp() throws IOException, InterruptedException {
         mongoClient = new MongoClient("localhost", 27017);
-        termsDatabase = mongoClient.getDB("terms_db");
+        occurrencesDB = mongoClient.getDB("terms_db");
         parserPool = new ParserPool();
         parserPool.place(new GeniaParser());
     }
@@ -58,34 +56,20 @@ public class DiffDetectorTest {
         String type = "text/html";
         InputStream oldSnapshot = new StringInputStream("is the of the 100-eyed giant in Greek mythology.");
         InputStream newSnapshot = new StringInputStream("Argus Panoptes is the name of the 100-eyed giant in Norse mythology.");
-        List<String> words = Lists.newArrayList(
-                "the greek",
-                "argus panoptes"
-        );
-        List<Keyword> keywords = words
-                .stream()
-                .map(string -> KeywordBuilder.fromText(string)
-                        .ignoreCase()
-                        .withStopwords()
-                        .withStemming()
-                        .build(parserPool))
-                .collect(Collectors.toList());
-
-        Job job = new Job(url, keywords, 10, url);
 
         Document oldSnapshotDoc = DocumentBuilder
                 .fromStream(url, oldSnapshot, type)
                 .ignoreCase()
                 .withStopwords()
                 .withStemming()
-                .build(termsDatabase, parserPool);
+                .build(occurrencesDB, parserPool);
 
         Document newSnapshotDoc = DocumentBuilder
                 .fromStream(url, newSnapshot, type)
                 .ignoreCase()
                 .withStopwords()
                 .withStemming()
-                .build(termsDatabase, parserPool);
+                .build(occurrencesDB, parserPool);
 
         DiffDetector comparison = new DiffDetector(
                 oldSnapshotDoc,
@@ -93,16 +77,8 @@ public class DiffDetectorTest {
                 parserPool
         );
         List<DiffDetector.Result> diffList = comparison.call();
-        logger.info(diffList.toString());
-
-        GsonBuilder gsonBuilder = new GsonBuilder();
-        gsonBuilder.registerTypeAdapter(Keyword.class, new KeywordSerializer());
-        String diffJson = gsonBuilder.create().toJson(diffList);
-        logger.info(diffJson);
-
         assertEquals(5, diffList.size());
     }
-
 
     @Test
     public void testBBCNews() {
@@ -116,14 +92,14 @@ public class DiffDetectorTest {
                 .ignoreCase()
                 .withStopwords()
                 .withStemming()
-                .build(termsDatabase, parserPool);
+                .build(occurrencesDB, parserPool);
 
         Document newSnapshotDoc = DocumentBuilder
                 .fromStream(url, newSnapshot, type)
                 .ignoreCase()
                 .withStopwords()
                 .withStemming()
-                .build(termsDatabase, parserPool);
+                .build(occurrencesDB, parserPool);
 
         DiffDetector comparison = new DiffDetector(
                 oldSnapshotDoc,
@@ -134,10 +110,9 @@ public class DiffDetectorTest {
         assertEquals(352, diffList.size());
     }
 
-
     @AfterClass
     public static void close() {
-        termsDatabase.dropDatabase();
+        occurrencesDB.dropDatabase();
         mongoClient.close();
     }
 }

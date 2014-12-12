@@ -1,6 +1,6 @@
 package argus.diff;
 
-import argus.job.Job;
+import argus.job.workers.MatchWorker;
 import argus.keyword.Keyword;
 import argus.keyword.KeywordBuilder;
 import argus.parser.GeniaParser;
@@ -33,14 +33,14 @@ public class DiffMatcherTest {
     private static final Logger logger = LoggerFactory.getLogger(DiffMatcherTest.class);
 
     private static MongoClient mongoClient;
-    private static DB termsDatabase;
+    private static DB occurrencesDB;
     private static ParserPool parserPool;
 
 
     @BeforeClass
     public static void setUp() throws IOException, InterruptedException {
         mongoClient = new MongoClient("localhost", 27017);
-        termsDatabase = mongoClient.getDB("terms_db");
+        occurrencesDB = mongoClient.getDB("terms_db");
         parserPool = new ParserPool();
         parserPool.place(new GeniaParser());
     }
@@ -61,7 +61,7 @@ public class DiffMatcherTest {
                         .build(parserPool))
                 .collect(Collectors.toList());
 
-        Job job = new Job(url, keywords, 10, url);
+        MatchWorker worker = new MatchWorker(url, keywords, 10, url);
 
         List<DiffDetector.Result> diffList = Lists.newArrayList(
                 new DiffDetector.Result(DiffAction.inserted, "argus", "Argus Panoptes is the name of the 100 eyed giant in No"),
@@ -71,7 +71,7 @@ public class DiffMatcherTest {
                 new DiffDetector.Result(DiffAction.inserted, "nors", "gus Panoptes is the name of the 100 eyed giant in Norse mythology")
         );
 
-        DiffMatcher matcher = new DiffMatcher(job, diffList);
+        DiffMatcher matcher = new DiffMatcher(worker, diffList);
         Set<DiffMatcher.Result> matchSet = matcher.call();
         assertEquals(2, matchSet.size());
     }
@@ -93,7 +93,7 @@ public class DiffMatcherTest {
                         .withStemming()
                         .build(parserPool))
                 .collect(Collectors.toList());
-        Job job = new Job(url, keywords, 10, url);
+        MatchWorker worker = new MatchWorker(url, keywords, 10, url);
 
         List<DiffDetector.Result> diffList = Lists.newArrayList(
                 new DiffDetector.Result(DiffAction.deleted,"0", ""),
@@ -450,16 +450,15 @@ public class DiffMatcherTest {
                 new DiffDetector.Result(DiffAction.deleted,"show", "")
         );
 
-        DiffMatcher matcher = new DiffMatcher(job, diffList);
+        DiffMatcher matcher = new DiffMatcher(worker, diffList);
         Set<DiffMatcher.Result> matchSet = matcher.call();
         assertEquals(11, matchSet.size());
-
     }
 
 
     @AfterClass
     public static void close() {
-        termsDatabase.dropDatabase();
+        occurrencesDB.dropDatabase();
         mongoClient.close();
     }
 }

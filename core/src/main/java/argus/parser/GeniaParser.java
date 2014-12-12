@@ -110,9 +110,9 @@ public class GeniaParser implements Parser {
 
     @Override
     public List<Result> parse(final MutableString text,
-                                    final Stopwords stopwords,
-                                    final Stemmer stemmer,
-                                    final boolean ignoreCase) {
+                              final Stopwords stopwords,
+                              final Stemmer stemmer,
+                              final boolean ignoreCase) {
         List<Result> _results = new ArrayList<>();
 
         int[][] idx = splitter.split(text);
