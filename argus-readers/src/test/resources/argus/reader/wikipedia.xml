@@ -1,0 +1,134 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+    <siteinfo>
+        <sitename>Wikipedia</sitename>
+        <dbname>enwiki</dbname>
+        <base>http://en.wikipedia.org/wiki/Main_Page</base>
+        <generator>MediaWiki 1.25wmf11</generator>
+        <case>first-letter</case>
+        <namespaces>
+            <namespace key="-2" case="first-letter">Media</namespace>
+            <namespace key="-1" case="first-letter">Special</namespace>
+            <namespace key="0" case="first-letter" />
+            <namespace key="1" case="first-letter">Talk</namespace>
+            <namespace key="2" case="first-letter">User</namespace>
+            <namespace key="3" case="first-letter">User talk</namespace>
+            <namespace key="4" case="first-letter">Wikipedia</namespace>
+            <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+            <namespace key="6" case="first-letter">File</namespace>
+            <namespace key="7" case="first-letter">File talk</namespace>
+            <namespace key="8" case="first-letter">MediaWiki</namespace>
+            <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+            <namespace key="10" case="first-letter">Template</namespace>
+            <namespace key="11" case="first-letter">Template talk</namespace>
+            <namespace key="12" case="first-letter">Help</namespace>
+            <namespace key="13" case="first-letter">Help talk</namespace>
+            <namespace key="14" case="first-letter">Category</namespace>
+            <namespace key="15" case="first-letter">Category talk</namespace>
+            <namespace key="100" case="first-letter">Portal</namespace>
+            <namespace key="101" case="first-letter">Portal talk</namespace>
+            <namespace key="108" case="first-letter">Book</namespace>
+            <namespace key="109" case="first-letter">Book talk</namespace>
+            <namespace key="118" case="first-letter">Draft</namespace>
+            <namespace key="119" case="first-letter">Draft talk</namespace>
+            <namespace key="446" case="first-letter">Education Program</namespace>
+            <namespace key="447" case="first-letter">Education Program talk</namespace>
+            <namespace key="710" case="first-letter">TimedText</namespace>
+            <namespace key="711" case="first-letter">TimedText talk</namespace>
+            <namespace key="828" case="first-letter">Module</namespace>
+            <namespace key="829" case="first-letter">Module talk</namespace>
+            <namespace key="2600" case="first-letter">Topic</namespace>
+        </namespaces>
+    </siteinfo>
+    <page>
+        <title>Argus Panoptes</title>
+        <ns>0</ns>
+        <id>1761517</id>
+        <revision>
+            <id>637267009</id>
+            <parentid>632931498</parentid>
+            <timestamp>2014-12-09T03:17:48Z</timestamp>
+            <contributor>
+                <ip>176.227.144.238</ip>
+            </contributor>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve" bytes="8864">[[Image:Io Argos Staatliche Antikensammlungen 585.jpg|thumb|right|280px|[[Io (mythology)|Io]] (as cow) and Argus, black-figure [[amphora]], 540–530 BC, [[Staatliche Antikensammlung]]en (Inv. 585).]]
+'''Argus Panoptes''' (or '''Argos''') is the name of the 100-eyed giant in [[Greek mythology]].
+
+==Mythology==
+Argus Panoptes ({{lang|grc|Ἄργος Πανόπτης}}), guardian of the [[:wikt:heifer|heifer]]-[[nymph]] [[Io (mythology)|Io]] and son of [[Arestor]],&lt;ref&gt;Therefore called ''Arestorides'' (Pseudo-[[Apollodorus of Athens|Apollodorus]], ''[[Bibliotheca (Pseudo-Apollodorus)|Bibliotheca]]'' ii.1.3, [[Apollonius Rhodius]] i.112, [[Ovid]] ''[[Metamorphoses (poem)|Metamorphoses]]'' i.624). According to [[Pausanias (geographer)|Pausanias]] (ii.16.3), Arestor was the consort of [[Mycene]], the [[eponymous]] nymph of nearby [[Mycenae]].&lt;/ref&gt; was a primordial [[Giant (mythology)|giant]] whose [[epithet]], &quot;''[[Panoptes]]''&quot;, &quot;all-seeing&quot;, led to his being described with multiple, often one hundred, eyes. The epithet ''Panoptes'' was applied to the [[Titan (mythology)|Titan]] of the Sun, [[Helios]], and was taken up as an epithet by [[Zeus]], ''Zeus Panoptes''. &quot;In a way,&quot; [[Walter Burkert]] observes, &quot;the power and order of [[Argos]] the city are embodied in Argos the [[Herder|neatherd]], lord of the herd and lord of the land, whose name itself is the [[Argolid|name of the land]].&quot;&lt;ref&gt;[[Walter Burkert]], ''Homo Necans'' (1972) 1983:166-67.&lt;/ref&gt;
+
+The epithet ''Panoptes'', reflecting his mythic role, set by Hera as a very effective watchman of Io, was described in a fragment of a lost poem ''[[Aegimius (poem)|Aigimios]]'', attributed to Hesiod:&lt;ref&gt;Hesiodic ''[[Aegimius|Aigimios]]'', fragment 294, reproduced in Merkelbach and West 1967 and noted in Burkert 1983:167 note 28.&lt;/ref&gt;
+
+{{quote|''And set a watcher upon her, great and strong Argos, who with four eyes looks every way. And the goddess stirred in him unwearying strength: sleep never fell upon his eyes; but he kept sure watch always.''}}
+
+In the 5th century and later, Argus' wakeful alertness was explained for an increasingly literal culture as his having so many eyes that only a few of the eyes would sleep at a time: there were always eyes still awake. In the 2nd century AD [[Pausanias (geographer)|Pausanias]] noted at Argos, in the temple of Zeus Larissaios, an archaic image of Zeus with a third eye in the center of his forehead, allegedly [[Priam]]'s ''Zeus Herkeios'' purloined from Troy.&lt;ref&gt;Pausanias, 2.24.3. (noted by Burkert 1983:168 note 28).&lt;/ref&gt; According to [[Ovid]], to commemorate her faithful watchman, Hera had the hundred eyes of Argus preserved forever, in a [[peacock]]'s tail.&lt;ref&gt;[[Ovid]] I, 625. The [[peacock]] is an Eastern bird, unknown to Greeks before the time of Alexander.&lt;/ref&gt;
+[[File:Fábula de Mercurio y Argos, by Diego Velázquez.jpg|thumb|left|Argus dozes off: [[Velázquez]] renders the theme of stealth and murder in modern dress, 1659 ([[Prado]])]]
+Argus was [[Hera]]'s servant. His great service to the [[Twelve Olympians|Olympian]] pantheon was to slay the [[chthonic]] [[Serpent (symbolism)|serpent]]-legged monster [[Echidna (mythology)|Echidna]] as she slept in her cave.&lt;ref&gt;[[Homer]], ''[[Iliad]]'' ii.783; [[Hesiod]], ''[[Theogony]]'', 295ff; Pseudo-[[Apollodorus of Athens|Apollodorus]], ''[[Bibliotheca (Pseudo-Apollodorus)|Bibliotheca]]'' ii.i.2).&lt;/ref&gt; Hera's defining task for Argus was to guard the white heifer Io from Zeus, keeping her chained to the sacred olive tree at the [[Argive Heraion]].&lt;ref&gt;Pseudo-[[Apollodorus of Athens|Apollodorus]], ''[[Bibliotheke]], 2.6.&lt;/ref&gt; She charged him to &quot;Tether this cow safely to an olive-tree at [[Nemea]]&quot;. Hera knew that the heifer was in reality [[Io (mythology)|Io]], one of the many nymphs Zeus was coupling with to establish a new order. To free Io, Zeus had Argus slain by [[Hermes]]. Hermes, disguised as a shepherd, first put all of Argus's eyes asleep with spoken charms, then slew him by hitting him with a stone, the first stain of bloodshed among the new generation of gods.&lt;ref&gt;[[Hermes]] was tried, exonerated, and earned the epithet ''Argeiphontes'', &quot;killer of Argos&quot;.&lt;/ref&gt;
+
+The myth makes the closest connection of Argos, the neatherd, with the [[bull (mythology)|bull]]. In the  ''Library'' of pseudo-Apollodorus, &quot;Argos killed the bull that ravaged [[Arcadia]], ''then clothed himself in its skin.''&quot;&lt;ref&gt;Pseudo-[[Apollodorus of Athens|Apollodorus]], [[Bibliotheke]], 2.4.&lt;/ref&gt;
+
+The sacrifice of Argos liberated Io and allowed her to wander the earth, although tormented by a [[gadfly (mythology)|gadfly]] sent by Hera.
+
+==In popular culture==
+* [[The Argus (Australia)|''The Argus'']] was a daily [[newspaper]] in [[Melbourne]], [[Australia]], that was published between 1846 and 1957.
+
+* Alternative rock band [[Ween]]'s eighth studio album [[Quebec (album)|Quebec]] has a song entitled &quot;The Argus&quot;, which refers to the Argus' many eyes.
+
+* Argus is the title of the Wishbone Ash's third album.
+
+* Argus is featured in the ''[[Percy Jackson &amp; the Olympians]]'' series of books as Camp Half-Blood's security guard.
+
+* The [[The Nth Degree (Star Trek: The Next Generation)|Argus Array]] was a multi-aperture space telescope in [[Star Trek]].
+
+* Argus is mentioned in the Irish poet Antoine Ó Raifteiri's poem 'An Pótaire ag Moladh an Uisce Beatha'.
+
+* [[J.K. Rowling]], author of the ''[[Harry Potter]]'' novels, gave the name [[Argus Filch]] to the caretaker of [[Hogwarts School of Witchcraft and Wizardry]].&lt;ref&gt;{{cite book|first=J.K.|last=Rowling|title=Harry Potter and the Philosopher's Stone|year=1997}}&lt;/ref&gt;
+
+* The fifteenth colossus from the video game ''[[Shadow of the Colossus]]'' is called Argus and nicknamed &quot;The Sentinel&quot; and &quot;Vigilant Guard&quot;. The hundreds of eyes carved into the temple that he resides in refers to the omnividence (all-seeing ability) of Argus Panoptes and the watchful colossus himself.
+
+* A once highly sought Notorious Monster from the video game ''[[Final Fantasy XI]]'' is called Argus. It has close to a dozen visible eyes and drops an accuracy enchanting necklace.
+
+* One of the monsters from ''[[Kyōryū Sentai Zyuranger]]'' and its American counterpart ''[[Mighty Morphin Power Rangers]]'' is based on Argos. It is called &quot;Dora Argos&quot; in Japanese, in ''Power Rangers'' it is called &quot;Eye Guy&quot; and is a creature composed entirely of eyeballs.
+
+* Similarly, Argus Panoptes served as the inspiration for one of the [[Kaijin]] from ''[[Kamen Rider Wizard]]'', the Phantom Argos.
+
+* Argus is the name of Jack's pet peacock on the NBC TV show ''[[30 Rock]]''. Jack believes Argus to be Don Giess' spirit watching over him.
+
+* In the mobile video game ''[[God of War: Betrayal]]'', Argos is featured as the giant pet of [[Hera]].
+
+* In the novel &quot;Luka and the Fire of Life&quot;, by Salman Rushdie, Argus Panoptes is one of the five appointed guardians of the 'Fire of Life'.
+
+* Argus is the name of a Macedonian heavy metal band, formed in 1987.
+
+* Argus is the name of a fictional [[Private military corporation|PMC]] in the video games [[Splinter Cell: Pandora Tomorrow]] and [[Splinter Cell: Chaos Theory]].
+
+* In the video game ''[[Skullgirls]]'', a character named Peacock is equipped with the Argus System. It allows her to see as well as use her blockbuster, Argus Agony.
+
+* In indie game ''[[La-Mulana]]'', Argos appears as a blue giant that can only be defeated by weapon called Serpent Staff.
+
+* Argus was the name of a character created for DC Comics &quot;Bloodlines&quot; event, appearing in Flash Annual #6 and later his own limited mini-series. He was depicted as a vigilante who turned completely invisible when not in direct light, and his eyes could see every spectrum of light, including X-ray and ultraviolet.
+
+* Argus Panoptes was featured in [[Marvel Comics]]. He was revived by [[Hera (Marvel Comics)|Hera]] to be in charge of the Panopticon (a computer surveillance system that was set up to help defend New Olympus).&lt;ref&gt;''Incredible Hercules'' #138&lt;/ref&gt;
+
+* A.R.G.U.S. (Advanced Research Group Uniting Superhumans) is the name of a government organization in the fictional DC Universe. The name stems from the secondary objective of the organization, which is to watch for threats should the Justice League ever fail.&lt;ref&gt;http://www.dccomics.com/comics/forever-evil-argus-2013/forever-evil-argus-1&lt;/ref&gt;
+
+==Notes==
+{{Reflist|2}}
+
+==External links==
+{{commons category}}
+* [http://www.theoi.com/Gigante/GiganteArgosPanoptes.html Theoi Project - Gigante Argos Panoptes]
+* [http://warburg.sas.ac.uk/vpc/VPC_search/subcats.php?cat_1=5&amp;cat_2=246 Warburg Institute Iconographic Database (ca 250 images of Io and Argus)]
+
+[[Category:Ancient Argos]]
+[[Category:Arcadian mythology]]
+[[Category:Mythology of Argos]]
+[[Category:Monsters]]
+[[Category:Greek giants]]
+[[Category:Greek legendary creatures]]</text>
+            <sha1>40f8de1wi3qunrainkyxfcjn8scpk8f</sha1>
+        </revision>
+    </page>
+</mediawiki>
+
