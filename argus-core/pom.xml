@@ -63,11 +63,11 @@
                             <goal>copy-resources</goal>
                         </goals>
                         <configuration>
-                            <outputDirectory>${basedir}/../target/lang-profiles</outputDirectory>
+                            <outputDirectory>${basedir}/../target/argus-lang-profiles</outputDirectory>
                             <overwrite>true</overwrite>
                             <resources>
                                 <resource>
-                                    <directory>${basedir}/../lang-profiles</directory>
+                                    <directory>${basedir}/../argus-lang-profiles</directory>
                                 </resource>
                             </resources>
                         </configuration>
@@ -79,11 +79,11 @@
                             <goal>copy-resources</goal>
                         </goals>
                         <configuration>
-                            <outputDirectory>${basedir}/../target/stopwords</outputDirectory>
+                            <outputDirectory>${basedir}/../target/argus-stopwords</outputDirectory>
                             <overwrite>true</overwrite>
                             <resources>
                                 <resource>
-                                    <directory>${basedir}/../stopwords</directory>
+                                    <directory>${basedir}/../argus-stopwords</directory>
                                 </resource>
                             </resources>
                         </configuration>
@@ -95,11 +95,11 @@
                             <goal>copy-resources</goal>
                         </goals>
                         <configuration>
-                            <outputDirectory>${basedir}/../target/parser</outputDirectory>
+                            <outputDirectory>${basedir}/../target/argus-parser</outputDirectory>
                             <overwrite>true</overwrite>
                             <resources>
                                 <resource>
-                                    <directory>${basedir}/../parser</directory>
+                                    <directory>${basedir}/../argus-parser</directory>
                                 </resource>
                             </resources>
                         </configuration>
@@ -117,11 +117,11 @@
                         <phase>process-resources</phase>
                         <configuration>
                             <target>
-                                <chmod file="../target/parser/mac64" perm="755"/>
-                                <chmod file="../target/parser/linux32" perm="755"/>
-                                <chmod file="../target/parser/linux64" perm="755"/>
-                                <chmod file="../target/parser/win32.exe" perm="755"/>
-                                <unzip src="../target/parser/genia.mod.zip" dest="../target/parser/" />
+                                <chmod file="../target/argus-parser/mac64" perm="755"/>
+                                <chmod file="../target/argus-parser/linux32" perm="755"/>
+                                <chmod file="../target/argus-parser/linux64" perm="755"/>
+                                <chmod file="../target/argus-parser/win32.exe" perm="755"/>
+                                <unzip src="../target/argus-parser/genia.mod.zip" dest="../target/argus-parser/" />
                             </target>
                         </configuration>
                         <goals>
@@ -186,7 +186,7 @@
                             <createDependencyReducedPom>true</createDependencyReducedPom>
                             <transformers>
                                 <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-                                    <mainClass>argus.Context</mainClass>
+                                    <mainClass>argus.Main</mainClass>
                                 </transformer>
                             </transformers>
                         </configuration>
@@ -198,6 +198,11 @@
                 <groupId>org.eluder.coveralls</groupId>
                 <artifactId>coveralls-maven-plugin</artifactId>
                 <version>3.0.1</version>
+                <configuration>
+                    <sourceDirectories>
+                        <sourceDirectory>${basedir}/../argus-core/src/main/resources</sourceDirectory>
+                    </sourceDirectories>
+                </configuration>
             </plugin>
 
             <plugin>
@@ -206,9 +211,8 @@
                 <version>0.7.2.201409121644</version>
                 <executions>
                     <execution>
-                        <id>prepare-agent</id>
                         <goals>
-                            <goal>prepare-agent</goal>
+                            <goal>report</goal>
                         </goals>
                     </execution>
                 </executions>

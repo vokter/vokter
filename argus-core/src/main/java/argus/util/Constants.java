@@ -29,19 +29,19 @@ public class Constants {
             .getParentFile();
 
     public static final File LANGUAGE_PROFILES_DIR =
-            new File(INSTALL_DIR, "lang-profiles");
+            new File(INSTALL_DIR, "argus-lang-profiles");
 
     public static final File READER_CLASSES_DIR =
-            new File(INSTALL_DIR, "readers");
+            new File(INSTALL_DIR, "argus-readers");
 
     public static final File STEMMER_CLASSES_DIR =
-            new File(INSTALL_DIR, "stemmers");
+            new File(INSTALL_DIR, "argus-stemmers");
 
     public static final File STOPWORDS_DIR =
-            new File(INSTALL_DIR, "stopwords");
+            new File(INSTALL_DIR, "argus-stopwords");
 
     public static final File PARSER_DIR =
-            new File(INSTALL_DIR, "parser");
+            new File(INSTALL_DIR, "argus-parser");
 
     private static final SecureRandom random = new SecureRandom();
 

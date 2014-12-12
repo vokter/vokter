@@ -10,10 +10,10 @@
         <artifactId>argus-parent</artifactId>
         <version>1.2.0</version>
     </parent>
-    <artifactId>argus-stemmers</artifactId>
+    <artifactId>argus-readers</artifactId>
     <version>1.2.0</version>
 
-    <name>argus-stemmers</name>
+    <name>argus-readers</name>
 
     <developers>
         <developer>
@@ -21,16 +21,14 @@
             <name>Eduardo Duarte</name>
             <email>eduardo.miguel.duarte@gmail.com</email>
             <roles>
-                <role>architect</role>
-                <role>developer</role>
+                <role>core developer</role>
             </roles>
-            <timezone>0</timezone>
         </developer>
     </developers>
 
     <build>
         <directory>../target</directory>
-        <outputDirectory>../target/stemmers</outputDirectory>
+        <outputDirectory>../target/argus-readers</outputDirectory>
         <finalName>${project.artifactId}-${project.version}</finalName>
         <sourceDirectory>src/main/java</sourceDirectory>
         <testSourceDirectory>src/test/java</testSourceDirectory>
