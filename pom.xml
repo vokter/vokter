@@ -18,17 +18,33 @@
             <name>Eduardo Duarte</name>
             <email>eduardo.miguel.duarte@gmail.com</email>
             <roles>
-                <role>architect</role>
-                <role>developer</role>
+                <role>core developer</role>
             </roles>
-            <timezone>0</timezone>
+        </developer>
+
+        <developer>
+            <id>bordonhos</id>
+            <name>Pedro Bordonhos</name>
+            <email>bordonhos@ua.pt</email>
+            <roles>
+                <role>backend developer</role>
+            </roles>
+        </developer>
+
+        <developer>
+            <id>ruisimoes</id>
+            <name>Rui Simões</name>
+            <email>ruisimoes@ua.pt</email>
+            <roles>
+                <role>web developer</role>
+            </roles>
         </developer>
     </developers>
 
     <modules>
-        <module>core</module>
-        <module>readers</module>
-        <module>stemmers</module>
+        <module>argus-core</module>
+        <module>argus-readers</module>
+        <module>argus-stemmers</module>
     </modules>
 
     <build>
@@ -57,6 +73,11 @@
                     <groupId>org.eluder.coveralls</groupId>
                     <artifactId>coveralls-maven-plugin</artifactId>
                     <version>3.0.1</version>
+                    <configuration>
+                        <sourceDirectories>
+                            <sourceDirectory>argus-core/src/main/resources</sourceDirectory>
+                        </sourceDirectories>
+                    </configuration>
                 </plugin>
 
                 <plugin>
@@ -65,13 +86,13 @@
                     <version>0.7.2.201409121644</version>
                     <executions>
                         <execution>
-                            <id>prepare-agent</id>
                             <goals>
-                                <goal>prepare-agent</goal>
+                                <goal>report</goal>
                             </goals>
                         </execution>
                     </executions>
                 </plugin>
+
             </plugins>
         </pluginManagement>
 
