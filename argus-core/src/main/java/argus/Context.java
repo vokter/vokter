@@ -18,6 +18,8 @@ import com.mongodb.DBCollection;
 import com.mongodb.DBCursor;
 import com.mongodb.DBObject;
 import com.mongodb.MongoClient;
+import com.mongodb.ServerAddress;
+import com.novemberain.quartz.mongodb.MongoDBJobStore;
 import org.eclipse.jetty.server.Connector;
 import org.eclipse.jetty.server.Server;
 import org.eclipse.jetty.server.handler.HandlerList;
@@ -271,7 +273,7 @@ public class Context implements LifeCycle.Listener, JobManagerHandler {
         );
 
         logger.info("Starting jobs...");
-        jobManager.initialize(maxThreads);
+        jobManager.initialize();
 
         logger.info("Starting parsers...");
         for (int i = 1; i < maxThreads; i++) {

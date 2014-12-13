@@ -6,11 +6,14 @@ import argus.keyword.Keyword;
 import argus.keyword.KeywordSerializer;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
+import com.novemberain.quartz.mongodb.MongoDBJobStore;
 import org.quartz.*;
 import org.quartz.impl.DirectSchedulerFactory;
+import org.quartz.impl.StdSchedulerFactory;
 import org.quartz.impl.matchers.GroupMatcher;
 import org.quartz.simpl.RAMJobStore;
 import org.quartz.simpl.SimpleThreadPool;
+import org.quartz.spi.JobStore;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -68,15 +71,22 @@ public class JobManager {
         return activeManagers.get(managerName);
     }
 
-    public void initialize(int maxThreads) throws SchedulerException {
+    public void initialize(JobStore jobStore, int maxThreads) throws SchedulerException {
         DirectSchedulerFactory factory = DirectSchedulerFactory.getInstance();
         factory.createScheduler(
                 SCHEDULER_NAME,
                 bytesToHex(generateRandomBytes()),
                 new SimpleThreadPool(maxThreads, 5),
-                new RAMJobStore()
+                jobStore
         );
         scheduler = factory.getScheduler(SCHEDULER_NAME);
+        factory = null;
+        scheduler.start();
+    }
+
+    public void initialize() throws SchedulerException {
+        StdSchedulerFactory factory = new org.quartz.impl.StdSchedulerFactory();
+        scheduler = factory.getScheduler();
         factory = null;
         scheduler.start();
     }
@@ -97,8 +107,8 @@ public class JobManager {
             Trigger detectionTrigger = TriggerBuilder.newTrigger()
                     .withIdentity(requestUrl, "detection" + requestUrl)
                     .withSchedule(SimpleScheduleBuilder.simpleSchedule()
-//                            .withIntervalInMinutes(7)
-                            .withIntervalInSeconds(12)
+                            .withIntervalInMinutes(7)
+//                            .withIntervalInSeconds(12)
                             .repeatForever())
                     .build();
 
@@ -194,13 +204,14 @@ public class JobManager {
                 for (JobKey k : keys) {
                     JobDetail jobDetail = scheduler.getJobDetail(k);
                     List<? extends Trigger> triggerList = scheduler.getTriggersOfJob(k);
-                    Set<? extends Trigger> triggerSet = new HashSet<>(triggerList);
+                    Trigger trigger = triggerList.get(0);
 
                     // update job to say that he has new diffs
                     JobDataMap dataMap = jobDetail.getJobDataMap();
                     dataMap.put(MatchingJob.HAS_NEW_DIFFS, true);
 
-                    scheduler.scheduleJob(jobDetail, triggerSet, true);
+                    scheduler.unscheduleJob(trigger.getKey());
+                    scheduler.scheduleJob(jobDetail, trigger);
                 }
             } catch (SchedulerException ex) {
                 logger.error(ex.getMessage(), ex);
