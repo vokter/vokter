@@ -34,7 +34,6 @@ public class DetectionJob implements InterruptableJob {
         String managerName = dataMap.getString(PARENT_JOB_MANAGER);
         JobManager manager = JobManager.get(managerName);
         if (manager == null) {
-            System.out.println("manager is null");
             return;
         }
         boolean wasSuccessful = manager.callDetectDiffImpl(documentUrl);
@@ -43,7 +42,7 @@ public class DetectionJob implements InterruptableJob {
         faultCounter = wasSuccessful ? 0 : (faultCounter + 1);
         dataMap.put(FAULT_COUNTER, faultCounter);
 
-        if (faultCounter == FAULT_TOLERANCE) {
+        if (faultCounter >= FAULT_TOLERANCE) {
             // exceeded fault tolerance, so cancel this job and notify matcher jobs
             manager.timeoutDetectionJob(documentUrl);
         }

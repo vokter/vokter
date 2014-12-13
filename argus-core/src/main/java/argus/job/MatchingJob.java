@@ -43,17 +43,13 @@ public class MatchingJob implements InterruptableJob {
         String managerName = dataMap.getString(PARENT_JOB_MANAGER);
         JobManager manager = JobManager.get(managerName);
         if (manager == null) {
-            System.out.println("manager is null");
             return;
         }
 
         String requestUrl = dataMap.getString(REQUEST_URL);
 
         List<String> keywords = new Gson().fromJson(dataMap.getString(KEYWORDS), ArrayList.class);
-        System.out.println("\n" + keywords.toString());
         boolean hasNewDifferences = dataMap.getBoolean(HAS_NEW_DIFFS);
-
-        System.out.println(hasNewDifferences + "\n");
 
         if (hasNewDifferences) {
             dataMap.put(HAS_NEW_DIFFS, false);
