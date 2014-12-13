@@ -1,12 +1,12 @@
 package argus.langdetector;
 
-import static org.junit.Assert.*;
-
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
+
+import static org.junit.Assert.assertEquals;
 
 /**
  * @author Nakatani Shuyo
@@ -53,7 +53,7 @@ public class TagExtractorTest {
         TagExtractor extractor2 = new TagExtractor("abstract", 10);
         assertEquals(extractor2.target_, "abstract");
         assertEquals(extractor2.threshold_, 10);
-}
+    }
 
     /**
      * Test method for {@link TagExtractor#setTag(String)}.
@@ -86,7 +86,7 @@ public class TagExtractorTest {
         extractor.closeTag();    // ignore
     }
 
-    
+
     /**
      * Scenario Test of extracting &lt;abstract&gt; tag from Wikipedia database.
      */

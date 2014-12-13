@@ -1,6 +1,6 @@
 package argus.diff;
 
-import argus.job.workers.MatchWorker;
+import argus.job.workers.DiffMatcherJob;
 import argus.keyword.Keyword;
 import com.aliasi.util.Pair;
 import com.google.common.base.Stopwatch;
@@ -25,11 +25,11 @@ public class DiffMatcher implements Callable<Set<DiffMatcher.Result>> {
 
     private static final Logger logger = LoggerFactory.getLogger(DiffMatcher.class);
 
-    private final MatchWorker worker;
-    private final List<DiffDetector.Result> differences;
+    private final DiffMatcherJob worker;
+    private final List<DiffFinder.Result> differences;
 
-    public DiffMatcher(final MatchWorker worker,
-                       final List<DiffDetector.Result> differences) {
+    public DiffMatcher(final DiffMatcherJob worker,
+                       final List<DiffFinder.Result> differences) {
         this.worker = worker;
         this.differences = differences;
     }
@@ -38,11 +38,11 @@ public class DiffMatcher implements Callable<Set<DiffMatcher.Result>> {
     public Set<DiffMatcher.Result> call() {
         Stopwatch sw = Stopwatch.createStarted();
 
-        Set<Pair<DiffDetector.Result, Keyword>> matchedDiffs = new ConcurrentHashSet<>();
+        Set<Pair<DiffFinder.Result, Keyword>> matchedDiffs = new ConcurrentHashSet<>();
 
         DiffAction lastAction = DiffAction.nothing;
         BloomFilter<String> lastBloomFilter = null;
-        for (DiffDetector.Result r : differences) {
+        for (DiffFinder.Result r : differences) {
             if (lastAction == DiffAction.nothing || r.action != lastAction) {
                 // reset the bloom filter being used
                 lastBloomFilter = BloomFilter
@@ -71,7 +71,7 @@ public class DiffMatcher implements Callable<Set<DiffMatcher.Result>> {
                 .parallelStream()
                 .unordered()
                 .map(pair -> {
-                    DiffDetector.Result diff = pair.a();
+                    DiffFinder.Result diff = pair.a();
                     Keyword keyword = pair.b();
                     switch (diff.action) {
                         case inserted:

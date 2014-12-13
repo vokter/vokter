@@ -1,10 +1,10 @@
 package argus.langdetector;
 
-import static org.junit.Assert.*;
-
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
+
+import static org.junit.Assert.assertEquals;
 
 /**
  * @author Nakatani Shuyo
@@ -34,12 +34,12 @@ public class LanguageTest {
         assertEquals(lang.lang, null);
         assertEquals(lang.prob, 0.0, 0.0001);
         assertEquals(lang.toString(), "");
-        
+
         Language lang2 = new Language("en", 1.0);
         assertEquals(lang2.lang, "en");
         assertEquals(lang2.prob, 1.0, 0.0001);
         assertEquals(lang2.toString(), "en:1.0");
-        
+
     }
 
 }

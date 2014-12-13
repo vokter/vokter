@@ -1,15 +1,25 @@
 package argus.job;
 
-import argus.Context;
 import argus.document.Document;
-import argus.document.DocumentBuilder;
+import argus.document.DocumentCollection;
+import argus.job.workers.DiffFinderJob;
+import org.quartz.JobBuilder;
 import org.quartz.JobDetail;
 import org.quartz.Scheduler;
 import org.quartz.SchedulerException;
+import org.quartz.SimpleScheduleBuilder;
 import org.quartz.Trigger;
-import org.quartz.impl.StdSchedulerFactory;
+import org.quartz.TriggerBuilder;
+import org.quartz.impl.DirectSchedulerFactory;
+import org.quartz.simpl.RAMJobStore;
+import org.quartz.simpl.SimpleThreadPool;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+
+import java.util.function.Function;
+
+import static argus.util.Constants.bytesToHex;
+import static argus.util.Constants.generateRandomBytes;
 
 /**
  * TODO
@@ -21,40 +31,60 @@ import org.slf4j.LoggerFactory;
 public class JobManager {
 
     private static final Logger logger = LoggerFactory.getLogger(JobManager.class);
-    private final Scheduler scheduler;
 
-    public JobManager() throws SchedulerException {
-        scheduler = StdSchedulerFactory.getDefaultScheduler();
+    private static final String SCHEDULER_NAME = "Argus_Scheduler";
+    private final DocumentCollection collection;
+    private final Function<String, Document> buildImpl;
+    private Scheduler scheduler;
+
+    public JobManager(final DocumentCollection collection,
+                      final Function<String, Document> buildImpl) {
+        this.collection = collection;
+        this.buildImpl = buildImpl;
     }
 
-    public void initialize(int maxThreads) {
+    public void initialize(int maxThreads) throws SchedulerException {
+        DirectSchedulerFactory factory = DirectSchedulerFactory.getInstance();
+        factory.createScheduler(
+                SCHEDULER_NAME,
+                bytesToHex(generateRandomBytes()),
+                new SimpleThreadPool(maxThreads, 5),
+                new RAMJobStore()
+        );
+        scheduler = factory.getScheduler(SCHEDULER_NAME);
+        factory = null;
+        scheduler.start();
+    }
+
+    public void createJob(final String documentUrl,
+                          final String responseUrl,
+                          final long interval) {
+
+        // searches for "documentUrl" in the collection
+
+
+        // if document url already exists, make a comparison immediately and
+        // respond to the new responseUrl
+        Document document = buildImpl.apply(documentUrl);
+
+        JobDetail job = JobBuilder.newJob(DiffFinderJob.class)
+                .withIdentity(responseUrl, documentUrl)
+                .build();
+
+        Trigger trigger = TriggerBuilder.newTrigger()
+                .withIdentity(responseUrl, documentUrl)
+                .startNow()
+                .withSchedule(SimpleScheduleBuilder.simpleSchedule()
+//                        .withIntervalInMinutes(7)
+                        .withIntervalInSeconds(7)
+                        .repeatForever())
+                .build();
+
         try {
-            scheduler.start();
+            scheduler.scheduleJob(job, trigger);
         } catch (SchedulerException ex) {
             logger.error(ex.getMessage(), ex);
         }
-    }
-
-    public void scheduleJob(final String documentUrl,
-                            final long interval,
-                            final String responseUrl) throws IllegalArgumentException {
-        // if document url already exists, make a comparison immediately and
-        // respond to the other response urls, then add the new responseUrl
-        Document document = Context.getInstance().addDocumentFromUrl(documentUrl);
-
-//        JobDetail job = newJob(HelloJob.class)
-//                .withIdentity("job1", "group1")
-//                .build();
-//
-//        Trigger trigger = newTrigger()
-//                .withIdentity("trigger1", "group1")
-//                .startNow()
-//                .withSchedule(simpleSchedule()
-//                        .withIntervalInSeconds(40)
-//                        .repeatForever())
-//                .build();
-//
-//        scheduler.scheduleJob(job, trigger);
     }
 
     public void cancelJob(String documentUrl, final String responseUrl) {
