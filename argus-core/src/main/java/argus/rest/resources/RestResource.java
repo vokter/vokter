@@ -1,16 +1,15 @@
 package argus.rest.resources;
 
-import argus.Context;
 import argus.job.JobRequest;
 import com.google.gson.Gson;
 import com.google.gson.JsonSyntaxException;
 import it.unimi.dsi.lang.MutableString;
-import org.glassfish.jersey.media.multipart.FormDataBodyPart;
-import org.glassfish.jersey.media.multipart.FormDataMultiPart;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import javax.inject.Singleton;
 import javax.ws.rs.Consumes;
+import javax.ws.rs.GET;
 import javax.ws.rs.POST;
 import javax.ws.rs.Path;
 import javax.ws.rs.Produces;
@@ -18,28 +17,32 @@ import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
 import javax.ws.rs.core.UriBuilder;
 import java.net.URI;
-import java.util.List;
-import java.util.Map;
 import java.util.concurrent.ExecutionException;
 
 /**
- * REST Resource for calls on path "/web/".
+ * REST Resource for calls on path "/rest/".
  *
  * @author Eduardo Duarte (<a href="mailto:eduardo.miguel.duarte@gmail.com">eduardo.miguel.duarte@gmail.com</a>)
  * @version 1.0
  * @since 1.0
  */
+@Singleton
 @Path("/")
 public class RestResource {
 
     private static final Logger logger = LoggerFactory.getLogger(RestResource.class);
 
+    @GET
+    @Path("test")
+    public String test() {
+        return "test";
+    }
 
     @POST
-    @Path("search")
+    @Path("watch")
     @Consumes("application/json")
     @Produces(MediaType.TEXT_HTML)
-    public Response search(String searchRequestJSON) throws ExecutionException {
+    public Response watch(String searchRequestJSON) throws ExecutionException {
         try {
             JobRequest jobRequest = new Gson().fromJson(searchRequestJSON, JobRequest.class);
 
@@ -94,69 +97,6 @@ public class RestResource {
                     .build();
         }
     }
-
-
-    @POST
-    @Path("save-settings")
-    @Consumes(MediaType.MULTIPART_FORM_DATA)
-    @Produces(MediaType.TEXT_PLAIN)
-    public Response saveSettings(FormDataMultiPart formParams) {
-
-        Map<String, List<FormDataBodyPart>> fieldsByName = formParams.getFields();
-        boolean isStemmingEnabled = false;
-        boolean isStoppingEnabled = false;
-        boolean ignoreCase = false;
-
-        for (List<FormDataBodyPart> fields : fieldsByName.values()) {
-            for (FormDataBodyPart field : fields) {
-                String fieldName = field.getName();
-
-                switch (fieldName) {
-
-                    case "isStoppingEnabled":
-                        isStoppingEnabled = true;
-                        break;
-
-                    case "isStemmingEnabled":
-                        isStemmingEnabled = true;
-                        break;
-
-                    case "ignoreCase":
-                        ignoreCase = true;
-                        break;
-                }
-            }
-        }
-
-        Context context = Context.getInstance();
-        context.setStopwordsEnabled(isStoppingEnabled);
-        context.setStemmingEnabled(isStemmingEnabled);
-        context.setIgnoreCase(ignoreCase);
-
-        return refreshIndexPage();
-    }
-
-
-//    @POST
-//    @Path("upload-stop")
-//    @Consumes(MediaType.MULTIPART_FORM_DATA)
-//    @Produces(MediaType.TEXT_HTML)
-//    public Response uploadStopwords(
-//            @FormDataParam("stopwordFile") InputStream fileStream,
-//            @FormDataParam("stopwordFile") FormDataContentDisposition fileDetail) {
-//
-//        String fileName = fileDetail.getFileName();
-//
-//        if (!fileName.isEmpty()) {
-//            StopwordFileLoader loader = new StopwordFileLoader();
-//            Set<MutableString> stopwords = loader.load(fileStream);
-//            loader = null;
-//
-//            Context.getInstance().setStopwords(stopwords);
-//        }
-//
-//        return refreshIndexPage();
-//    }
 
 
     private Response refreshIndexPage() {

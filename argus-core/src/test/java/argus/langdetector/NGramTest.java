@@ -1,12 +1,12 @@
 package argus.langdetector;
 
-import static org.junit.Assert.*;
-
-import static org.hamcrest.CoreMatchers.is;
-
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
+
+import static org.hamcrest.CoreMatchers.is;
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertThat;
 
 /**
  * @author Nakatani Shuyo
@@ -157,7 +157,7 @@ public class NGramTest {
         assertEquals(ngram.get(3), null);
 
     }
- 
+
     /**
      * Test method for {@link NGram#get(int)} and {@link NGram#addChar(char)}
      */
@@ -174,14 +174,14 @@ public class NGramTest {
         assertEquals(ngram.get(1), null);
         assertEquals(ngram.get(2), "A ");
         assertEquals(ngram.get(3), " A ");
-        
+
         ngram.addChar('B');
         assertEquals(ngram.get(1), "B");
         assertEquals(ngram.get(2), " B");
         assertEquals(ngram.get(3), null);
-       
+
     }
- 
+
     /**
      * Test method for {@link NGram#get(int)} and {@link NGram#addChar(char)}
      */

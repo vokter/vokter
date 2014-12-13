@@ -145,10 +145,6 @@ public final class DocumentBuilder {
             );
             return null;
         }
-        logger.info("Started processing document '{}' with content-type '{}'...",
-                input.getUrl(),
-                input.getContentType()
-        );
 
 
         // step 3) Takes a parser from the parser-pool.
@@ -209,7 +205,7 @@ public final class DocumentBuilder {
         }
 
         sw.stop();
-        logger.info("Completed fetching document '{}' in {}",
+        logger.info("Completed processing document '{}' in {}.",
                 document.getUrl(), sw.toString());
 
         return document;

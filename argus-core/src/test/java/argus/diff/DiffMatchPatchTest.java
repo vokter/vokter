@@ -1,16 +1,16 @@
 package argus.diff;
 
+import argus.diff.DiffMatchPatch.Diff;
+import argus.diff.DiffMatchPatch.Patch;
+import org.junit.Before;
+import org.junit.Test;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
-
-import argus.diff.DiffMatchPatch.Diff;
-import argus.diff.DiffMatchPatch.Patch;
-import org.junit.Before;
-import org.junit.Test;
 
 import static argus.diff.DiffMatchPatch.LinesToCharsResult;
 import static org.junit.Assert.*;
@@ -22,15 +22,37 @@ public class DiffMatchPatchTest {
     private DiffAction EQUAL = DiffAction.nothing;
     private DiffAction INSERT = DiffAction.inserted;
 
-    @Before
-    public void setUp() {
-        // Create an instance of the DiffMatchPatch object.
-        dmp = new DiffMatchPatch();
+    // Construct the two texts which made up the diff originally.
+    private static String[] diff_rebuildtexts(LinkedList<Diff> diffs) {
+        String[] text = {"", ""};
+        for (Diff myDiff : diffs) {
+            if (myDiff.action != DiffAction.inserted) {
+                text[0] += myDiff.text;
+            }
+            if (myDiff.action != DiffAction.deleted) {
+                text[1] += myDiff.text;
+            }
+        }
+        return text;
     }
 
 
     //  DIFF TEST FUNCTIONS
 
+    // Private function for quickly building lists of diffs.
+    private static LinkedList<Diff> diffList(Diff... diffs) {
+        LinkedList<Diff> myDiffList = new LinkedList<Diff>();
+        for (Diff myDiff : diffs) {
+            myDiffList.add(myDiff);
+        }
+        return myDiffList;
+    }
+
+    @Before
+    public void setUp() {
+        // Create an instance of the DiffMatchPatch object.
+        dmp = new DiffMatchPatch();
+    }
 
     @Test
     public void testDiffCommonPrefix() {
@@ -541,18 +563,21 @@ public class DiffMatchPatchTest {
         }
     }
 
-
     //  MATCH TEST FUNCTIONS
     @Test
     public void testMatchAlphabet() {
         // Initialise the bitmasks for Bitap.
         Map<Character, Integer> bitmask;
         bitmask = new HashMap<Character, Integer>();
-        bitmask.put('a', 4); bitmask.put('b', 2); bitmask.put('c', 1);
+        bitmask.put('a', 4);
+        bitmask.put('b', 2);
+        bitmask.put('c', 1);
         assertEquals("match_alphabet: Unique.", bitmask, dmp.match_alphabet("abc"));
 
         bitmask = new HashMap<Character, Integer>();
-        bitmask.put('a', 37); bitmask.put('b', 18); bitmask.put('c', 8);
+        bitmask.put('a', 37);
+        bitmask.put('b', 18);
+        bitmask.put('c', 8);
         assertEquals("match_alphabet: Duplicates.", bitmask, dmp.match_alphabet("abcaba"));
     }
 
@@ -629,7 +654,6 @@ public class DiffMatchPatchTest {
             // Error expected.
         }
     }
-
 
     //  PATCH TEST FUNCTIONS
     @Test
@@ -892,28 +916,5 @@ public class DiffMatchPatchTest {
         assertEquals(error_msg, a.chars1, b.chars1);
         assertEquals(error_msg, a.chars2, b.chars2);
         assertEquals(error_msg, a.lineArray, b.lineArray);
-    }
-
-    // Construct the two texts which made up the diff originally.
-    private static String[] diff_rebuildtexts(LinkedList<Diff> diffs) {
-        String[] text = {"", ""};
-        for (Diff myDiff : diffs) {
-            if (myDiff.action != DiffAction.inserted) {
-                text[0] += myDiff.text;
-            }
-            if (myDiff.action != DiffAction.deleted) {
-                text[1] += myDiff.text;
-            }
-        }
-        return text;
-    }
-
-    // Private function for quickly building lists of diffs.
-    private static LinkedList<Diff> diffList(Diff... diffs) {
-        LinkedList<Diff> myDiffList = new LinkedList<Diff>();
-        for (Diff myDiff : diffs) {
-            myDiffList.add(myDiff);
-        }
-        return myDiffList;
     }
 }

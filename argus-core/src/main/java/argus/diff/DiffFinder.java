@@ -21,18 +21,18 @@ import java.util.concurrent.Callable;
  * @version 1.0
  * @since 1.0
  */
-public class DiffDetector implements Callable<List<DiffDetector.Result>> {
+public class DiffFinder implements Callable<List<DiffFinder.Result>> {
 
-    private static final Logger logger = LoggerFactory.getLogger(DiffDetector.class);
+    private static final Logger logger = LoggerFactory.getLogger(DiffFinder.class);
     private static final int SNIPPET_INDEX_OFFSET = 50;
 
     private final Document oldSnapshot;
     private final Document newSnapshot;
     private final ParserPool parserPool;
 
-    public DiffDetector(final Document oldSnapshot,
-                        final Document newSnapshot,
-                        final ParserPool parserPool) {
+    public DiffFinder(final Document oldSnapshot,
+                      final Document newSnapshot,
+                      final ParserPool parserPool) {
         this.oldSnapshot = oldSnapshot;
         this.newSnapshot = newSnapshot;
         this.parserPool = parserPool;
@@ -57,7 +57,7 @@ public class DiffDetector implements Callable<List<DiffDetector.Result>> {
     }
 
     @Override
-    public List<DiffDetector.Result> call() {
+    public List<DiffFinder.Result> call() {
         Stopwatch sw = Stopwatch.createStarted();
 
         DiffMatchPatch dmp = new DiffMatchPatch();
