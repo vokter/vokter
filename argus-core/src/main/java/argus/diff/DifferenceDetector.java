@@ -21,18 +21,18 @@ import java.util.concurrent.Callable;
  * @version 1.0
  * @since 1.0
  */
-public class DiffFinder implements Callable<List<DiffFinder.Result>> {
+public class DifferenceDetector implements Callable<List<Difference>> {
 
-    private static final Logger logger = LoggerFactory.getLogger(DiffFinder.class);
+    private static final Logger logger = LoggerFactory.getLogger(DifferenceDetector.class);
     private static final int SNIPPET_INDEX_OFFSET = 50;
 
     private final Document oldSnapshot;
     private final Document newSnapshot;
     private final ParserPool parserPool;
 
-    public DiffFinder(final Document oldSnapshot,
-                      final Document newSnapshot,
-                      final ParserPool parserPool) {
+    public DifferenceDetector(final Document oldSnapshot,
+                              final Document newSnapshot,
+                              final ParserPool parserPool) {
         this.oldSnapshot = oldSnapshot;
         this.newSnapshot = newSnapshot;
         this.parserPool = parserPool;
@@ -57,7 +57,7 @@ public class DiffFinder implements Callable<List<DiffFinder.Result>> {
     }
 
     @Override
-    public List<DiffFinder.Result> call() {
+    public List<Difference> call() {
         Stopwatch sw = Stopwatch.createStarted();
 
         DiffMatchPatch dmp = new DiffMatchPatch();
@@ -77,7 +77,7 @@ public class DiffFinder implements Callable<List<DiffFinder.Result>> {
         }
 
         int insertedCountOffset = 0, deletedCountOffset = 0;
-        List<Result> retrievedDiffs = new ArrayList<>();
+        List<Difference> retrievedDiffs = new ArrayList<>();
         for (DiffMatchPatch.Diff diff : diffs) {
             String diffText = diff.text;
 
@@ -103,7 +103,7 @@ public class DiffFinder implements Callable<List<DiffFinder.Result>> {
                     }
                 }
 
-                retrievedDiffs.add(new Result(
+                retrievedDiffs.add(new Difference(
                         diff.action,
                         result.text.toString(),
                         snippet
@@ -141,31 +141,5 @@ public class DiffFinder implements Callable<List<DiffFinder.Result>> {
         logger.info("Completed difference detection for document '{}' in {}",
                 newSnapshot.getUrl(), sw.toString());
         return retrievedDiffs;
-    }
-
-    public static class Result {
-
-        /**
-         * The status of this difference.
-         */
-        public final DiffAction action;
-
-        /**
-         * The text of the occurrence contained within this difference.
-         */
-        public final String occurrenceText;
-
-        /**
-         * The snippet of this difference in the original document (non-processed).
-         */
-        public final String snippet;
-
-        protected Result(final DiffAction action,
-                         final String occurrenceText,
-                         final String snippet) {
-            this.action = action;
-            this.occurrenceText = occurrenceText;
-            this.snippet = snippet;
-        }
     }
 }

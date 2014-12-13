@@ -18,18 +18,18 @@ import static org.junit.Assert.*;
 public class DiffMatchPatchTest {
 
     private DiffMatchPatch dmp;
-    private DiffAction DELETE = DiffAction.deleted;
-    private DiffAction EQUAL = DiffAction.nothing;
-    private DiffAction INSERT = DiffAction.inserted;
+    private DifferenceAction DELETE = DifferenceAction.deleted;
+    private DifferenceAction EQUAL = DifferenceAction.nothing;
+    private DifferenceAction INSERT = DifferenceAction.inserted;
 
     // Construct the two texts which made up the diff originally.
     private static String[] diff_rebuildtexts(LinkedList<Diff> diffs) {
         String[] text = {"", ""};
         for (Diff myDiff : diffs) {
-            if (myDiff.action != DiffAction.inserted) {
+            if (myDiff.action != DifferenceAction.inserted) {
                 text[0] += myDiff.text;
             }
-            if (myDiff.action != DiffAction.deleted) {
+            if (myDiff.action != DifferenceAction.deleted) {
                 text[1] += myDiff.text;
             }
         }

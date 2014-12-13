@@ -1,0 +1,232 @@
+package argus.job;
+
+import argus.diff.Difference;
+import argus.diff.DifferenceDetector;
+import argus.document.Document;
+import argus.document.DocumentBuilder;
+import argus.document.DocumentCollection;
+import argus.keyword.Keyword;
+import argus.keyword.KeywordBuilder;
+import argus.parser.GeniaParser;
+import argus.parser.ParserPool;
+import com.google.common.collect.Lists;
+import com.mongodb.BulkWriteOperation;
+import com.mongodb.DB;
+import com.mongodb.DBCollection;
+import com.mongodb.DBObject;
+import com.mongodb.MongoClient;
+import org.apache.commons.io.IOUtils;
+import org.apache.tools.ant.filters.StringInputStream;
+import org.junit.AfterClass;
+import org.junit.BeforeClass;
+import org.junit.Ignore;
+import org.junit.Test;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+import java.io.IOException;
+import java.io.InputStream;
+import java.util.Collections;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+import java.util.concurrent.atomic.AtomicReference;
+import java.util.stream.Collectors;
+import java.util.stream.StreamSupport;
+
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertFalse;
+import static org.junit.Assert.assertTrue;
+
+/**
+ * @author Eduardo Duarte (<a href="mailto:eduardo.miguel.duarte@gmail.com">eduardo.miguel.duarte@gmail.com</a>)
+ * @version 1.0
+ * @since 1.0
+ */
+public class JobManagerTest {
+
+    private static final Logger logger = LoggerFactory.getLogger(JobManagerTest.class);
+
+    private static MongoClient mongoClient;
+    private static DB documentsDB;
+    private static DB occurrencesDB;
+    private static DB differencesDB;
+    private static ParserPool parserPool;
+    private static DocumentCollection collection;
+
+    private AtomicReference<String> testDocuments;
+
+
+    @BeforeClass
+    public static void setUp() throws IOException, InterruptedException {
+        mongoClient = new MongoClient("localhost", 27017);
+        documentsDB = mongoClient.getDB("test_documents_db");
+        occurrencesDB = mongoClient.getDB("test_terms_db");
+        differencesDB = mongoClient.getDB("text_differences_db");
+        parserPool = new ParserPool();
+        parserPool.place(new GeniaParser());
+        collection = new DocumentCollection(
+                "test_argus_collection",
+                documentsDB,
+                occurrencesDB
+        );
+    }
+
+    @AfterClass
+    public static void close() {
+        collection.destroy();
+        documentsDB.dropDatabase();
+        occurrencesDB.dropDatabase();
+        differencesDB.dropDatabase();
+        parserPool.clear();
+        mongoClient.close();
+    }
+
+    @Test
+    public void testSimple() throws Exception {
+        JobManager manager = JobManager.create("test_argus_manager", new JobManagerHandler() {
+            @Override
+            public boolean detectDifferences(String url) {
+
+                // create a new document snapshot for the provided url
+                Document newDocument = DocumentBuilder
+                        .fromString(url, testDocuments.get(), "text/html")
+                        .withStopwords()
+                        .withStemming()
+                        .ignoreCase()
+                        .build(occurrencesDB, parserPool);
+                if (newDocument == null) {
+                    // A problem occurred during processing, mostly during the fetching phase.
+                    // This could happen if the page was unavailable at the time.
+                    return false;
+                }
+
+                // check if there is a older document in the collection
+                Document oldDocument = collection.get(url);
+
+                if (oldDocument != null) {
+                    // there was already a document for this url on the collection, so
+                    // detect differences between them and add them to the differences
+                    // database
+                    DifferenceDetector detector = new DifferenceDetector(oldDocument, newDocument, parserPool);
+                    List<Difference> results = detector.call();
+                    System.out.println(results.isEmpty());
+
+                    removeExistingDifferences(url);
+                    if (!results.isEmpty()) {
+                        DBCollection diffColl = differencesDB.getCollection(url);
+                        BulkWriteOperation bulkOp = diffColl.initializeUnorderedBulkOperation();
+                        results.forEach(bulkOp::insert);
+                        bulkOp.execute();
+                        bulkOp = null;
+                        diffColl = null;
+                    }
+                }
+
+                //replace the old document in the collection with the new one
+                collection.remove(url);
+                collection.add(newDocument);
+
+                return true;
+            }
+
+            @Override
+            public List<Difference> getExistingDifferences(String url) {
+                DBCollection diffColl = differencesDB.getCollection(url);
+                diffColl.count();
+                Iterable<DBObject> cursor = diffColl.find();
+                return StreamSupport.stream(cursor.spliterator(), true)
+                        .map(Difference::new)
+                        .collect(Collectors.toList());
+            }
+
+            @Override
+            public void removeExistingDifferences(String url) {
+                DBCollection diffColl = differencesDB.getCollection(url);
+                diffColl.drop();
+            }
+
+            @Override
+            public Keyword buildKeyword(String keywordInput) {
+                return KeywordBuilder.fromText(keywordInput)
+                        .withStopwords()
+                        .withStemming()
+                        .ignoreCase()
+                        .build(parserPool);
+            }
+        });
+
+        manager.initialize(7);
+
+        testDocuments = new AtomicReference<>("Argus Panoptes is the name of the 100-eyed giant in Norse mythology.");
+        boolean wasCreated = manager.createJob(new JobRequest(
+                "testRequestUrl",
+                "http://www.google.com",
+                Lists.newArrayList("the greek", "argus panoptes"),
+                10
+        ));
+        assertTrue(wasCreated);
+
+        Thread.sleep(20000);
+
+        testDocuments.lazySet("is the of the 100-eyed giant in Greek mythology.");
+        System.out.println("document changed");
+
+        Thread.sleep(20000);
+
+        wasCreated = manager.createJob(new JobRequest(
+                "testRequestUrl",
+                "http://www.google.com",
+                Lists.newArrayList("argus"),
+                15));
+        assertFalse(wasCreated);
+
+        wasCreated = manager.createJob(new JobRequest(
+                "testRequestUrl",
+                "http://www.google.pt",
+                Lists.newArrayList(
+                        "argus"
+                ),
+                15));
+        assertTrue(wasCreated);
+        System.out.println("added new job");
+
+        Thread.sleep(30000);
+
+        manager.stop();
+    }
+
+    @Test
+    @Ignore
+    public void testBBCNews() throws IOException {
+        String url = "http://www.bbc.com/news/uk/";
+        String type = "text/html";
+        InputStream oldStream = getClass().getResourceAsStream("bbc_news_8_12_2014_11_00.html");
+        InputStream newStream = getClass().getResourceAsStream("bbc_news_8_12_2014_13_00.html");
+        String oldSnapshot = IOUtils.toString(oldStream);
+        String newSnapshot = IOUtils.toString(newStream);
+
+        Document oldSnapshotDoc = DocumentBuilder
+                .fromString(url, oldSnapshot, type)
+                .ignoreCase()
+                .withStopwords()
+                .withStemming()
+                .build(occurrencesDB, parserPool);
+
+        Document newSnapshotDoc = DocumentBuilder
+                .fromString(url, newSnapshot, type)
+                .ignoreCase()
+                .withStopwords()
+                .withStemming()
+                .build(occurrencesDB, parserPool);
+
+        DifferenceDetector comparison = new DifferenceDetector(
+                oldSnapshotDoc,
+                newSnapshotDoc,
+                parserPool
+        );
+        List<Difference> diffList = comparison.call();
+        assertEquals(352, diffList.size());
+    }
+}
+

@@ -6,6 +6,7 @@ import argus.parser.GeniaParser;
 import argus.parser.ParserPool;
 import com.mongodb.DB;
 import com.mongodb.MongoClient;
+import org.apache.commons.io.IOUtils;
 import org.apache.tools.ant.filters.StringInputStream;
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
@@ -26,9 +27,9 @@ import static org.junit.Assert.assertEquals;
  * @version 1.0
  * @since 1.0
  */
-public class DiffFinderTest {
+public class DifferenceDetectorTest {
 
-    private static final Logger logger = LoggerFactory.getLogger(DiffFinderTest.class);
+    private static final Logger logger = LoggerFactory.getLogger(DifferenceDetectorTest.class);
 
     private static MongoClient mongoClient;
     private static DB occurrencesDB;
@@ -53,59 +54,61 @@ public class DiffFinderTest {
     public void testSimple() {
         String url = "http://www.bbc.com/news/uk/";
         String type = "text/html";
-        InputStream oldSnapshot = new StringInputStream("is the of the 100-eyed giant in Greek mythology.");
-        InputStream newSnapshot = new StringInputStream("Argus Panoptes is the name of the 100-eyed giant in Norse mythology.");
+        String oldSnapshot = "is the of the 100-eyed giant in Greek mythology.";
+        String newSnapshot = "Argus Panoptes is the name of the 100-eyed giant in Norse mythology.";
 
         Document oldSnapshotDoc = DocumentBuilder
-                .fromStream(url, oldSnapshot, type)
+                .fromString(url, oldSnapshot, type)
                 .ignoreCase()
                 .withStopwords()
                 .withStemming()
                 .build(occurrencesDB, parserPool);
 
         Document newSnapshotDoc = DocumentBuilder
-                .fromStream(url, newSnapshot, type)
+                .fromString(url, newSnapshot, type)
                 .ignoreCase()
                 .withStopwords()
                 .withStemming()
                 .build(occurrencesDB, parserPool);
 
-        DiffFinder comparison = new DiffFinder(
+        DifferenceDetector comparison = new DifferenceDetector(
                 oldSnapshotDoc,
                 newSnapshotDoc,
                 parserPool
         );
-        List<DiffFinder.Result> diffList = comparison.call();
+        List<Difference> diffList = comparison.call();
         assertEquals(5, diffList.size());
     }
 
     @Test
-    public void testBBCNews() {
+    public void testBBCNews() throws IOException {
         String url = "http://www.bbc.com/news/uk/";
         String type = "text/html";
-        InputStream oldSnapshot = getClass().getResourceAsStream("bbc_news_8_12_2014_11_00.html");
-        InputStream newSnapshot = getClass().getResourceAsStream("bbc_news_8_12_2014_13_00.html");
+        InputStream oldStream = getClass().getResourceAsStream("bbc_news_8_12_2014_11_00.html");
+        InputStream newStream = getClass().getResourceAsStream("bbc_news_8_12_2014_13_00.html");
+        String oldSnapshot = IOUtils.toString(oldStream);
+        String newSnapshot = IOUtils.toString(newStream);
 
         Document oldSnapshotDoc = DocumentBuilder
-                .fromStream(url, oldSnapshot, type)
+                .fromString(url, oldSnapshot, type)
                 .ignoreCase()
                 .withStopwords()
                 .withStemming()
                 .build(occurrencesDB, parserPool);
 
         Document newSnapshotDoc = DocumentBuilder
-                .fromStream(url, newSnapshot, type)
+                .fromString(url, newSnapshot, type)
                 .ignoreCase()
                 .withStopwords()
                 .withStemming()
                 .build(occurrencesDB, parserPool);
 
-        DiffFinder comparison = new DiffFinder(
+        DifferenceDetector comparison = new DifferenceDetector(
                 oldSnapshotDoc,
                 newSnapshotDoc,
                 parserPool
         );
-        List<DiffFinder.Result> diffList = comparison.call();
+        List<Difference> diffList = comparison.call();
         assertEquals(352, diffList.size());
     }
 }

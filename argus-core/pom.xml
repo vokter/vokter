@@ -30,6 +30,11 @@
             <id>spotlight-releases-repository</id>
             <url>https://github.com/dbpedia-spotlight/maven-repo/raw/master/releases</url>
         </repository>
+
+        <repository>
+            <id>clojars.org</id>
+            <url>http://clojars.org/repo</url>
+        </repository>
     </repositories>
 
     <build>
@@ -256,6 +261,12 @@
             <groupId>org.quartz-scheduler</groupId>
             <artifactId>quartz-jobs</artifactId>
             <version>2.2.1</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.novemberain</groupId>
+            <artifactId>quartz-mongodb</artifactId>
+            <version>1.8.0</version>
         </dependency>
 
         <dependency>

@@ -1,21 +1,28 @@
 package argus.job;
 
-import argus.document.Document;
-import argus.document.DocumentCollection;
-import argus.job.workers.DiffFinderJob;
-import org.quartz.JobBuilder;
-import org.quartz.JobDetail;
-import org.quartz.Scheduler;
-import org.quartz.SchedulerException;
-import org.quartz.SimpleScheduleBuilder;
-import org.quartz.Trigger;
-import org.quartz.TriggerBuilder;
+import argus.diff.Difference;
+import argus.diff.DifferenceMatcher;
+import argus.keyword.Keyword;
+import argus.keyword.KeywordSerializer;
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
+import org.quartz.*;
 import org.quartz.impl.DirectSchedulerFactory;
+import org.quartz.impl.matchers.GroupMatcher;
 import org.quartz.simpl.RAMJobStore;
 import org.quartz.simpl.SimpleThreadPool;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.io.OutputStream;
+import java.net.HttpURLConnection;
+import java.net.URL;
+import java.util.*;
+import java.util.Calendar;
+import java.util.function.Consumer;
 import java.util.function.Function;
 
 import static argus.util.Constants.bytesToHex;
@@ -33,14 +40,32 @@ public class JobManager {
     private static final Logger logger = LoggerFactory.getLogger(JobManager.class);
 
     private static final String SCHEDULER_NAME = "Argus_Scheduler";
-    private final DocumentCollection collection;
-    private final Function<String, Document> buildImpl;
+    private static final Map<String, JobManager> activeManagers = new HashMap<>();
+
+    private final String managerName;
+    private final JobManagerHandler handler;
     private Scheduler scheduler;
 
-    public JobManager(final DocumentCollection collection,
-                      final Function<String, Document> buildImpl) {
-        this.collection = collection;
-        this.buildImpl = buildImpl;
+    private JobManager(final String managerName,
+                       final JobManagerHandler handler) {
+        this.managerName = managerName;
+        this.handler = handler;
+    }
+
+    public static JobManager create(final String managerName,
+                                    final JobManagerHandler handler) {
+        JobManager existingManager = get(managerName);
+        if (existingManager != null) {
+            existingManager.stop();
+        }
+
+        JobManager newManager = new JobManager(managerName, handler);
+        activeManagers.put(managerName, newManager);
+        return newManager;
+    }
+
+    public static JobManager get(final String managerName) {
+        return activeManagers.get(managerName);
     }
 
     public void initialize(int maxThreads) throws SchedulerException {
@@ -56,39 +81,99 @@ public class JobManager {
         scheduler.start();
     }
 
-    public void createJob(final String documentUrl,
-                          final String responseUrl,
-                          final long interval) {
+    public boolean createJob(final JobRequest request) {
 
-        // searches for "documentUrl" in the collection
-
-
-        // if document url already exists, make a comparison immediately and
-        // respond to the new responseUrl
-        Document document = buildImpl.apply(documentUrl);
-
-        JobDetail job = JobBuilder.newJob(DiffFinderJob.class)
-                .withIdentity(responseUrl, documentUrl)
-                .build();
-
-        Trigger trigger = TriggerBuilder.newTrigger()
-                .withIdentity(responseUrl, documentUrl)
-                .startNow()
-                .withSchedule(SimpleScheduleBuilder.simpleSchedule()
-//                        .withIntervalInMinutes(7)
-                        .withIntervalInSeconds(7)
-                        .repeatForever())
-                .build();
+        String requestUrl = request.getRequestUrl();
+        String responseUrl = request.getResponseUrl();
 
         try {
-            scheduler.scheduleJob(job, trigger);
+            // attempt creating a new DiffDetectorJob
+            JobDetail detectionJob = JobBuilder.newJob(DetectionJob.class)
+                    .withIdentity(requestUrl, "detection" + requestUrl)
+                    .usingJobData(DetectionJob.PARENT_JOB_MANAGER, managerName)
+                    .usingJobData(DetectionJob.FAULT_COUNTER, 0)
+                    .build();
+
+            Trigger detectionTrigger = TriggerBuilder.newTrigger()
+                    .withIdentity(requestUrl, "detection" + requestUrl)
+                    .withSchedule(SimpleScheduleBuilder.simpleSchedule()
+//                            .withIntervalInMinutes(7)
+                            .withIntervalInSeconds(12)
+                            .repeatForever())
+                    .build();
+
+            try {
+                scheduler.scheduleJob(detectionJob, detectionTrigger);
+            } catch (ObjectAlreadyExistsException ignored) {
+                // there is already a job monitoring the request url, so ignore this
+            }
+
+            String keywordJson = new Gson().toJson(request.getKeywords());
+
+            JobDetail matchingJob = JobBuilder.newJob(MatchingJob.class)
+                    .withIdentity(responseUrl, "matching" + requestUrl)
+                    .usingJobData(MatchingJob.PARENT_JOB_MANAGER, managerName)
+                    .usingJobData(MatchingJob.REQUEST_URL, requestUrl)
+                    .usingJobData(MatchingJob.KEYWORDS, keywordJson)
+                    .usingJobData(MatchingJob.HAS_NEW_DIFFS, false)
+                    .build();
+
+            GregorianCalendar cal = new GregorianCalendar();
+            cal.add(Calendar.SECOND, request.getInterval());
+
+            Trigger matchingTrigger = TriggerBuilder.newTrigger()
+                    .withIdentity(responseUrl, "matching" + requestUrl)
+                    .startAt(cal.getTime())
+                    .withSchedule(SimpleScheduleBuilder.simpleSchedule()
+                            .withIntervalInSeconds(request.getInterval())
+                            .repeatForever())
+                    .build();
+
+            try {
+                scheduler.scheduleJob(matchingJob, matchingTrigger);
+            } catch (ObjectAlreadyExistsException ex) {
+                return false;
+            }
+
+        } catch (SchedulerException ex) {
+            logger.error(ex.getMessage(), ex);
+        }
+
+        return true;
+    }
+
+    void timeoutDetectionJob(String requestUrl) {
+        try {
+            Set<JobKey> keys = scheduler.getJobKeys(GroupMatcher.jobGroupEquals("matching" + requestUrl));
+            for (JobKey k : keys) {
+                String responseUrl = k.getName();
+                sendTimeoutResponse(requestUrl, responseUrl);
+                cancelMatchingJob(requestUrl, responseUrl);
+            }
+
+            scheduler.interrupt(new JobKey(requestUrl, "detection" + requestUrl));
+            handler.removeExistingDifferences(requestUrl);
         } catch (SchedulerException ex) {
             logger.error(ex.getMessage(), ex);
         }
     }
 
-    public void cancelJob(String documentUrl, final String responseUrl) {
+    public void cancelMatchingJob(String requestUrl, final String responseUrl) {
+        try {
+            scheduler.interrupt(new JobKey(responseUrl, "matching" + requestUrl));
 
+            // check if there are more match jobs for the same request url
+            Set<JobKey> keys = scheduler.getJobKeys(GroupMatcher.jobGroupEquals("matching" + requestUrl));
+            if (keys.isEmpty()) {
+                // no more matching jobs for this document! interrupt the
+                // DiffDetectJob
+                scheduler.interrupt(new JobKey(requestUrl, "detection" + requestUrl));
+                handler.removeExistingDifferences(requestUrl);
+            }
+
+        } catch (SchedulerException ex) {
+            logger.error(ex.getMessage(), ex);
+        }
     }
 
     public void stop() {
@@ -97,5 +182,91 @@ public class JobManager {
         } catch (SchedulerException ex) {
             logger.error(ex.getMessage(), ex);
         }
+    }
+
+    final boolean callDetectDiffImpl(String url) {
+        boolean wasSuccessful = handler.detectDifferences(url);
+
+        // notify all matching jobs of that url that there are new differences to match
+        if (wasSuccessful) {
+            try {
+                Set<JobKey> keys = scheduler.getJobKeys(GroupMatcher.jobGroupEquals("matching" + url));
+                for (JobKey k : keys) {
+                    JobDetail jobDetail = scheduler.getJobDetail(k);
+                    List<? extends Trigger> triggerList = scheduler.getTriggersOfJob(k);
+                    Set<? extends Trigger> triggerSet = new HashSet<>(triggerList);
+
+                    // update job to say that he has new diffs
+                    JobDataMap dataMap = jobDetail.getJobDataMap();
+                    dataMap.put(MatchingJob.HAS_NEW_DIFFS, true);
+
+                    scheduler.scheduleJob(jobDetail, triggerSet, true);
+                }
+            } catch (SchedulerException ex) {
+                logger.error(ex.getMessage(), ex);
+            }
+        }
+
+        return wasSuccessful;
+    }
+
+    final List<Difference> callGetDiffsImpl(String url) {
+        return handler.getExistingDifferences(url);
+    }
+
+    final Keyword callBuildKeyword(String keywordInput) {
+        return handler.buildKeyword(keywordInput);
+    }
+
+    final boolean responseOk(final String requestUrl,
+                          final String responseUrl,
+                          final Set<DifferenceMatcher.Result> diffs) {
+        Map<String, Object> jsonResponseMap = new LinkedHashMap<>();
+        jsonResponseMap.put("status", "ok");
+        jsonResponseMap.put("url", requestUrl);
+        jsonResponseMap.put("diffs", diffs);
+        GsonBuilder gsonBuilder = new GsonBuilder();
+        gsonBuilder.registerTypeAdapter(Keyword.class, new KeywordSerializer());
+        String input = gsonBuilder.create().toJson(jsonResponseMap);
+
+        System.out.println("Sending ok: " + input);
+
+        return sendResponse(responseUrl, input);
+    }
+
+    final boolean sendTimeoutResponse(final String requestUrl,
+                                   final String responseUrl) {
+        Map<String, Object> jsonResponseMap = new LinkedHashMap<>();
+        jsonResponseMap.put("status", "timeout");
+        jsonResponseMap.put("url", requestUrl);
+        Set<DifferenceMatcher.Result> diffs = Collections.emptySet();
+        jsonResponseMap.put("diffs", diffs);
+        GsonBuilder gsonBuilder = new GsonBuilder();
+        gsonBuilder.registerTypeAdapter(Keyword.class, new KeywordSerializer());
+        String input = gsonBuilder.create().toJson(jsonResponseMap);
+        return sendResponse(responseUrl, input);
+    }
+
+    private boolean sendResponse(final String responseUrl, final String input) {
+        try {
+            URL targetUrl = new URL(responseUrl);
+
+            HttpURLConnection httpConnection = (HttpURLConnection) targetUrl.openConnection();
+            httpConnection.setDoOutput(true);
+            httpConnection.setRequestMethod("POST");
+            httpConnection.setRequestProperty("Content-Type", "application/json");
+
+            OutputStream outputStream = httpConnection.getOutputStream();
+            outputStream.write(input.getBytes());
+            outputStream.flush();
+
+            int responseCode = httpConnection.getResponseCode();
+            httpConnection.disconnect();
+            return responseCode == 200;
+
+        } catch (IOException ex) {
+            logger.error(ex.getMessage(), ex);
+        }
+        return false;
     }
 }
