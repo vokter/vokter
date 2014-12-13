@@ -1,13 +1,13 @@
 package argus.langdetector;
 
-import static org.junit.Assert.*;
+import org.junit.After;
+import org.junit.Before;
+import org.junit.Test;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import org.junit.After;
-import org.junit.Before;
-import org.junit.Test;
+import static org.junit.Assert.assertEquals;
 
 /**
  * Unit test for {@link LanguageDetector} and {@link LanguageDetectorFactory}.
@@ -25,7 +25,7 @@ public class LanguageDetectorTest {
     @Before
     public void setUp() throws Exception {
         LanguageDetectorFactory.clear();
-        
+
         LanguageProfile profile_en = new LanguageProfile("en");
         for (String w : TRAINING_EN.split(" "))
             profile_en.add(w);
@@ -73,7 +73,7 @@ public class LanguageDetectorTest {
         detect.append("\u3042\u3042\u3042\u3042a");
         assertEquals(detect.detect(), "ja");
     }
-    
+
     @Test
     public final void testLangList() throws LanguageDetectorException {
         List<String> langList = LanguageDetectorFactory.getLangList();

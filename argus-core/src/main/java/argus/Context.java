@@ -99,10 +99,9 @@ public class Context implements LifeCycle.Listener {
     private Context() throws Exception {
         super();
         initialized = false;
-        jobManager = new JobManager();
+        jobManager = new JobManager(collection, this::addDocumentFromUrl);
         parserPool = new ParserPool();
     }
-
 
     public static Context getInstance() {
         return instance;
@@ -110,7 +109,7 @@ public class Context implements LifeCycle.Listener {
 
     /**
      * Indexes the specified document and saves the resulting index
-     * of all occurrences for future query and comparison.
+     * of all occurrences for future query and comparison jobs.
      */
     public Document addDocumentFromUrl(String url) {
         DocumentBuilder builder = DocumentBuilder.fromUrl(url);
@@ -182,6 +181,7 @@ public class Context implements LifeCycle.Listener {
                 occurrencesDB
         );
 
+        logger.info("Starting jobs...");
         jobManager.initialize(maxThreads);
 
         logger.info("Starting parsers...");
@@ -237,34 +237,6 @@ public class Context implements LifeCycle.Listener {
     public void lifeCycleStarting(LifeCycle lifeCycle) {
     }
 
-
-//    /**
-//     * Processes the specified string as a search and searches this context
-//     * collection.
-//     */
-//    public QueryResult searchCollection(MutableString queryText, int slop) {
-//
-//        QueryBuilder builder = QueryBuilder.newBuilder();
-//        builder.withText(queryText);
-//        builder.withSlop(slop);
-//
-//        if (isStoppingEnabled) {
-//            builder.withStopwords(loadedStopwords);
-//        }
-//
-//        if (isStemmingEnabled) {
-//            builder.withStemmer(PortugueseStemmer.class);
-//        }
-//
-//        if (ignoreCase) {
-//            builder.ignoreCase();
-//        }
-//
-//        Query query = builder.build();
-//
-//        return collection.search(query);
-//    }
-
     @Override
     public void lifeCycleStarted(LifeCycle lifeCycle) {
     }
@@ -275,13 +247,13 @@ public class Context implements LifeCycle.Listener {
 
     @Override
     public void lifeCycleStopping(LifeCycle lifeCycle) {
-        mongoClient.close();
-        jobManager.stop();
-        parserPool.clear();
-        initialized = false;
     }
 
     @Override
     public void lifeCycleStopped(LifeCycle lifeCycle) {
+        jobManager.stop();
+        parserPool.clear();
+        mongoClient.close();
+        initialized = false;
     }
 }

@@ -16,7 +16,7 @@ import java.util.stream.Stream;
  * @version 1.0
  * @since 1.0
  */
-public class MatchWorker implements Job {
+public class DiffMatcherJob implements Job {
 
     private final String id;
 
@@ -28,10 +28,10 @@ public class MatchWorker implements Job {
 
     private final String responseUrl;
 
-    public MatchWorker(final String documentUrl,
-                       final List<Keyword> keywords,
-                       final int interval,
-                       final String responseUrl) {
+    public DiffMatcherJob(final String documentUrl,
+                          final List<Keyword> keywords,
+                          final int interval,
+                          final String responseUrl) {
         this.id = Constants.bytesToHex(Constants.generateRandomBytes());
         this.documentUrl = documentUrl;
         this.keywords = keywords;
