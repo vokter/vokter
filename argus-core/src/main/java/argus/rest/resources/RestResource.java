@@ -13,7 +13,6 @@ import javax.ws.rs.GET;
 import javax.ws.rs.POST;
 import javax.ws.rs.Path;
 import javax.ws.rs.Produces;
-import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
 import javax.ws.rs.core.UriBuilder;
 import java.net.URI;
@@ -39,55 +38,28 @@ public class RestResource {
     }
 
     @POST
+    @Path("testResponse")
+    @Consumes("application/json")
+    public Response response(String responseJSON) throws ExecutionException {
+        System.out.println(responseJSON);
+        return Response.ok("Yep").build();
+    }
+
+    @POST
     @Path("watch")
     @Consumes("application/json")
-    @Produces(MediaType.TEXT_HTML)
+    @Produces("application/json")
     public Response watch(String searchRequestJSON) throws ExecutionException {
         try {
             JobRequest jobRequest = new Gson().fromJson(searchRequestJSON, JobRequest.class);
 
-            MutableString queryText = new MutableString(jobRequest.getDocumentUrl());
+            MutableString queryText = new MutableString(jobRequest.getRequestUrl());
             int slop = jobRequest.getInterval();
 
             logger.info(queryText + " " + slop + " " + jobRequest.getKeywords().toString());
 
 
             StringBuilder sb = new StringBuilder();
-//            QueryResult results = Context
-//                    .getInstance()
-//                    .searchCollection(queryText, slop);
-//
-//            Multimap<Document, Term> matchedTerms = results.getMatchedTerms();
-//            Set<Document> sortedDocuments = matchedTerms.keySet();
-//            sb.append("<div class=\"span3\" style=\"padding-left:25px;\">");
-//            sb.append("<br/><br/>Obtained ");
-//            sb.append(sortedDocuments.size());
-//            sb.append(" results in ");
-//            sb.append(results.getElapsedTime());
-//            sb.append("</div>");
-//
-//            if (matchedTerms.size() != 0) {
-//                int count = 1;
-//                for (Document d : sortedDocuments) {
-//                    sb.append("<div class=\"result page-header\">");
-//                    sb.append("<div class=\"span5\" style=\"padding-left:15px;\">");
-//                    sb.append("<h4>");
-//                    sb.append(count++);
-//                    sb.append(". ");
-//                    sb.append(d.getUrl());
-//                    sb.append("</h4>");
-//                    for (Term t : matchedTerms.get(d)) {
-//                        sb.append("<p>");
-//                        sb.append(t.getSummaryForDocument(d, 2));
-//                        sb.append("</p>");
-//                    }
-//                    sb.append("</div></div>");
-//                }
-//                sb.append("<div class=\"span3\" style=\"padding:25px;\">");
-//                sb.append("<a href=\"#\" id=\"load\">See more results</a>");
-//                sb.append("</div>");
-//
-//            }
 
             return Response.ok(sb.toString()).build();
 

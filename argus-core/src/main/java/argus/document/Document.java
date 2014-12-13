@@ -22,11 +22,13 @@ import java.util.stream.StreamSupport;
  * @version 1.0
  */
 public final class Document extends BasicDBObject implements Serializable {
+    private static final long serialVersionUID = 1L;
+    private static final int BOUND_INDEX = 4;
+
     public static final String ID = "id";
     public static final String URL = "url";
     public static final String ORIGINAL_CONTENT = "original_content";
-    private static final long serialVersionUID = 1L;
-    private static final int BOUND_INDEX = 4;
+
     private transient final DBCollection occCollection;
 
     Document(DB occurrencesDB, String url, String originalContent) {

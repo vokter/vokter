@@ -55,12 +55,13 @@ public final class DocumentCollection {
     /**
      * Adds the specified document to the local database.
      */
-    public void add(Document document) {
-        if (document == null) {
+    public void add(Document d) {
+        if (d == null) {
             return;
         }
+        System.out.println("adding " + d.getString(Document.ID));
         DBCollection collection = documentsDB.getCollection(collectionName);
-        collection.insert(document);
+        collection.insert(d);
     }
 
 
@@ -70,6 +71,7 @@ public final class DocumentCollection {
     public void remove(String url) {
         Document d = get(url);
         if (d != null) {
+            System.out.println("removing " + d.getString(Document.ID));
             d.destroy();
             DBCollection collection = documentsDB.getCollection(collectionName);
             collection.remove(d);
@@ -123,6 +125,7 @@ public final class DocumentCollection {
     public void destroy() {
         DBCollection collection = documentsDB.getCollection(collectionName);
         collection.drop();
+        documentsCache.destroy();
         documentsDB.dropDatabase();
         occurrencesDB.dropDatabase();
     }

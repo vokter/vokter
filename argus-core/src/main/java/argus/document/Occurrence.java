@@ -15,11 +15,12 @@ import java.util.Comparator;
  * @version 2.0
  */
 public class Occurrence extends BasicDBObject implements Comparable<Occurrence>, Serializable {
+    private static final long serialVersionUID = 1L;
+
     public static final String TEXT = "text";
     public static final String WORD_COUNT = "word_count";
     public static final String START_INDEX = "start_index";
     public static final String END_INDEX = "end_index";
-    private static final long serialVersionUID = 1L;
 
     public Occurrence(String text, int wordCount, int startIndex, int endIndex) {
         super(TEXT, text);

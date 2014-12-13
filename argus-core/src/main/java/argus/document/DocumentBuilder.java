@@ -5,6 +5,7 @@ import argus.parser.ParserPool;
 import argus.util.PluginLoader;
 import com.google.common.base.Stopwatch;
 import com.mongodb.DB;
+import org.apache.tools.ant.filters.StringInputStream;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -84,13 +85,13 @@ public final class DocumentBuilder {
      * Instantiates a loader that collects a document from a
      * specified input stream. This constructor is mostly used for testing.
      */
-    public static DocumentBuilder fromStream(final String url,
-                                             final InputStream stream,
+    public static DocumentBuilder fromString(final String url,
+                                             final String text,
                                              final String type) {
         return new DocumentBuilder(() -> {
             try {
                 ContentType contentType = new ContentType(type);
-                return new DocumentInput(url, stream, contentType.getBaseType());
+                return new DocumentInput(url, new StringInputStream(text), contentType.getBaseType());
 
             } catch (ParseException ex) {
                 throw new RuntimeException(ex);
