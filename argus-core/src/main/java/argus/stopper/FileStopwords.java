@@ -45,7 +45,7 @@ public class FileStopwords implements Stopwords {
     }
 
     private boolean load(String language) {
-        File stopwordsFile = new File(Constants.STOPWORDS_DIR, language);
+        File stopwordsFile = new File(Constants.STOPWORDS_DIR, language + ".txt");
         if (stopwordsFile.exists()) {
             try (InputStream is = new FileInputStream(stopwordsFile);
                  Parser parser = new SimpleParser()) {

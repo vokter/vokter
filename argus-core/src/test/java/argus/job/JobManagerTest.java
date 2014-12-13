@@ -15,12 +15,16 @@ import com.mongodb.DB;
 import com.mongodb.DBCollection;
 import com.mongodb.DBObject;
 import com.mongodb.MongoClient;
+import com.mongodb.ServerAddress;
+import com.novemberain.quartz.mongodb.MongoDBJobStore;
 import org.apache.commons.io.IOUtils;
 import org.apache.tools.ant.filters.StringInputStream;
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
 import org.junit.Ignore;
 import org.junit.Test;
+import org.quartz.simpl.RAMJobStore;
+import org.quartz.spi.JobStore;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -51,6 +55,7 @@ public class JobManagerTest {
     private static DB documentsDB;
     private static DB occurrencesDB;
     private static DB differencesDB;
+    private static DB jobsDB;
     private static ParserPool parserPool;
     private static DocumentCollection collection;
 
@@ -60,9 +65,12 @@ public class JobManagerTest {
     @BeforeClass
     public static void setUp() throws IOException, InterruptedException {
         mongoClient = new MongoClient("localhost", 27017);
+        jobsDB = mongoClient.getDB("argus_jobs");
+        jobsDB.dropDatabase();
         documentsDB = mongoClient.getDB("test_documents_db");
         occurrencesDB = mongoClient.getDB("test_terms_db");
         differencesDB = mongoClient.getDB("text_differences_db");
+        jobsDB = mongoClient.getDB("test_jobs_db");
         parserPool = new ParserPool();
         parserPool.place(new GeniaParser());
         collection = new DocumentCollection(
@@ -75,6 +83,7 @@ public class JobManagerTest {
     @AfterClass
     public static void close() {
         collection.destroy();
+        jobsDB.dropDatabase();
         documentsDB.dropDatabase();
         occurrencesDB.dropDatabase();
         differencesDB.dropDatabase();
@@ -110,7 +119,6 @@ public class JobManagerTest {
                     // database
                     DifferenceDetector detector = new DifferenceDetector(oldDocument, newDocument, parserPool);
                     List<Difference> results = detector.call();
-                    System.out.println(results.isEmpty());
 
                     removeExistingDifferences(url);
                     if (!results.isEmpty()) {
@@ -156,7 +164,8 @@ public class JobManagerTest {
             }
         });
 
-        manager.initialize(7);
+//        JobStore jobStore = new RAMJobStore();
+        manager.initialize();
 
         testDocuments = new AtomicReference<>("Argus Panoptes is the name of the 100-eyed giant in Norse mythology.");
         boolean wasCreated = manager.createJob(new JobRequest(
