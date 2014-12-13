@@ -1,13 +1,22 @@
 package argus;
 
+import argus.diff.DifferenceDetector;
+import argus.diff.Difference;
 import argus.document.Document;
 import argus.document.DocumentBuilder;
 import argus.document.DocumentCollection;
 import argus.job.JobManager;
+import argus.job.JobManagerHandler;
+import argus.keyword.Keyword;
+import argus.keyword.KeywordBuilder;
 import argus.parser.GeniaParser;
 import argus.parser.Parser;
 import argus.parser.ParserPool;
+import com.mongodb.BulkWriteOperation;
 import com.mongodb.DB;
+import com.mongodb.DBCollection;
+import com.mongodb.DBCursor;
+import com.mongodb.DBObject;
 import com.mongodb.MongoClient;
 import org.eclipse.jetty.server.Connector;
 import org.eclipse.jetty.server.Server;
@@ -20,14 +29,18 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import java.security.ProtectionDomain;
+import java.util.List;
+import java.util.stream.Collectors;
+import java.util.stream.StreamSupport;
 
 
-public class Context implements LifeCycle.Listener {
+public class Context implements LifeCycle.Listener, JobManagerHandler {
 
     private static final Logger logger = LoggerFactory.getLogger(Context.class);
 
     private static final String DOCUMENTS_DB = "argus_documents_db";
     private static final String OCCURRENCES_DB = "argus_occurrences_db";
+    private static final String DIFFERENCES_DB = "argus_differences_db";
 
     private static final Context instance;
 
@@ -67,6 +80,11 @@ public class Context implements LifeCycle.Listener {
      */
     private DB occurrencesDB;
     /**
+     * The MongoDB database for detected differences between snapshots for each
+     * document.
+     */
+    private DB differencesDB;
+    /**
      * The collection instance that will contain all imported and processed corpus
      * during the context's execution.
      */
@@ -99,7 +117,7 @@ public class Context implements LifeCycle.Listener {
     private Context() throws Exception {
         super();
         initialized = false;
-        jobManager = new JobManager(collection, this::addDocumentFromUrl);
+        jobManager = JobManager.create("argus_job_manager", this);
         parserPool = new ParserPool();
     }
 
@@ -108,28 +126,98 @@ public class Context implements LifeCycle.Listener {
     }
 
     /**
-     * Indexes the specified document and saves the resulting index
-     * of all occurrences for future query and comparison jobs.
+     * Indexes the specified document and detects differences between an older
+     * snapshot and the new one. Once differences are collected, saves the resulting
+     * index of all occurrences of the new snapshot for future query and comparison
+     * jobs.
      */
-    public Document addDocumentFromUrl(String url) {
-        DocumentBuilder builder = DocumentBuilder.fromUrl(url);
+    @Override
+    public boolean detectDifferences(String url) {
 
+        // create a new document snapshot for the provided url
+        DocumentBuilder builder = DocumentBuilder.fromUrl(url);
         if (isStoppingEnabled) {
             builder.withStopwords();
         }
-
         if (isStemmingEnabled) {
             builder.withStemming();
         }
-
         if (ignoreCase) {
             builder.ignoreCase();
         }
+        Document newDocument = builder.build(occurrencesDB, parserPool);
+        if (newDocument == null) {
+            // A problem occurred during processing, mostly during the fetching phase.
+            // This could happen if the page was unavailable at the time.
+            return false;
+        }
 
-        Document d = builder.build(occurrencesDB, parserPool);
-        this.collection.add(d);
-        return d;
+        // check if there is a older document in the collection
+        Document oldDocument = collection.get(url);
+
+        if (oldDocument != null) {
+            // there was already a document for this url on the collection, so
+            // detect differences between them and add them to the differences
+            // database
+            DifferenceDetector detector = new DifferenceDetector(oldDocument, newDocument, parserPool);
+            List<Difference> results = detector.call();
+
+            removeExistingDifferences(url);
+            DBCollection diffColl = differencesDB.getCollection(url);
+
+            BulkWriteOperation bulkOp = diffColl.initializeUnorderedBulkOperation();
+            results.forEach(bulkOp::insert);
+            bulkOp.execute();
+            bulkOp = null;
+            diffColl = null;
+        }
+
+        //replace the old document in the collection with the new one
+        collection.remove(url);
+        collection.add(newDocument);
+
+        return true;
     }
+
+    /**
+     * Collects the existing differences that were stored in the database.
+     */
+    @Override
+    public List<Difference> getExistingDifferences(String url) {
+        DBCollection diffColl = differencesDB.getCollection(url);
+        Iterable<DBObject> cursor = diffColl.find();
+        return StreamSupport.stream(cursor.spliterator(), true)
+                .map(Difference::new)
+                .collect(Collectors.toList());
+    }
+
+    /**
+     * Removes existing differences for the specified url
+     */
+    @Override
+    public void removeExistingDifferences(String url) {
+        DBCollection diffColl = differencesDB.getCollection(url);
+        diffColl.drop();
+    }
+
+    /**
+     * Process and build keyword objects based on this context configuration
+     */
+    @Override
+    public Keyword buildKeyword(String keywordInput) {
+        KeywordBuilder builder = KeywordBuilder.fromText(keywordInput);
+        if (isStoppingEnabled) {
+            builder.withStopwords();
+        }
+        if (isStemmingEnabled) {
+            builder.withStemming();
+        }
+        if (ignoreCase) {
+            builder.ignoreCase();
+        }
+        return builder.build(parserPool);
+    }
+
 
     public void setStopwordsEnabled(boolean isStoppingEnabled) {
         this.isStoppingEnabled = isStoppingEnabled;
@@ -174,6 +262,7 @@ public class Context implements LifeCycle.Listener {
 
         documentsDB = mongoClient.getDB(DOCUMENTS_DB);
         occurrencesDB = mongoClient.getDB(OCCURRENCES_DB);
+        differencesDB = mongoClient.getDB(DIFFERENCES_DB);
 
         collection = new DocumentCollection(
                 "argus_production_collection",
