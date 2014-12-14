@@ -59,7 +59,6 @@ public final class DocumentCollection {
         if (d == null) {
             return;
         }
-        System.out.println("adding " + d.getString(Document.ID));
         DBCollection collection = documentsDB.getCollection(collectionName);
         collection.insert(d);
     }
@@ -71,7 +70,6 @@ public final class DocumentCollection {
     public void remove(String url) {
         Document d = get(url);
         if (d != null) {
-            System.out.println("removing " + d.getString(Document.ID));
             d.destroy();
             DBCollection collection = documentsDB.getCollection(collectionName);
             collection.remove(d);
