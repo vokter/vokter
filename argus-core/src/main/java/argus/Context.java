@@ -7,6 +7,7 @@ import argus.document.DocumentBuilder;
 import argus.document.DocumentCollection;
 import argus.job.JobManager;
 import argus.job.JobManagerHandler;
+import argus.rest.WatchRequest;
 import argus.keyword.Keyword;
 import argus.keyword.KeywordBuilder;
 import argus.parser.GeniaParser;
@@ -15,11 +16,8 @@ import argus.parser.ParserPool;
 import com.mongodb.BulkWriteOperation;
 import com.mongodb.DB;
 import com.mongodb.DBCollection;
-import com.mongodb.DBCursor;
 import com.mongodb.DBObject;
 import com.mongodb.MongoClient;
-import com.mongodb.ServerAddress;
-import com.novemberain.quartz.mongodb.MongoDBJobStore;
 import org.eclipse.jetty.server.Connector;
 import org.eclipse.jetty.server.Server;
 import org.eclipse.jetty.server.handler.HandlerList;
@@ -119,12 +117,20 @@ public class Context implements LifeCycle.Listener, JobManagerHandler {
     private Context() throws Exception {
         super();
         initialized = false;
-        jobManager = JobManager.create("argus_job_manager", this);
+        jobManager = JobManager.create("argus_job_manager", 420, this);
         parserPool = new ParserPool();
     }
 
     public static Context getInstance() {
         return instance;
+    }
+
+    public boolean createJob(final WatchRequest request) {
+        return jobManager.createJob(request);
+    }
+
+    public void cancelJob(String requestUrl, final String responseUrl) {
+        jobManager.cancelMatchingJob(requestUrl, responseUrl);
     }
 
     /**
