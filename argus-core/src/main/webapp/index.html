@@ -8,40 +8,93 @@
 
 <BODY>
 
-<H1>Argus Web Service</H1>
+<H1>Argus</H1>
 
-<P>We only cover the differences between Java and C++. In particular,
-    control flow (<TT>if</TT>, <TT>while</TT>, <TT>for</TT>) is essentially
-    identical in C++ and Java, and it is not covered here.</P>
+<P>
+    If you are seeing this page, then Argus was successfully deployed to this domain.
+    Enjoy!
+</P>
+<P>
+    Argus is high-performance, scalable web service that provides automatic page
+    monitoring and difference detection, triggering notifications when specified
+    keywords were either added or removed from a web document. It supports
+    multi-language parsing and is capable of reading highly-used web document
+    formats like HTML, JSON, XML and Plain-text.
+</P>
+<P>
+    This service implements a information retrieval system that fetches, indexes and
+    performs queries over web documents on a periodic basis. Difference detection is
+    implemented by comparing occurrences between two snapshots of the same document.
+</P>
 
-<H2>A3.1. Data Types and Variables</H2>
+<H2>How to use</H2>
 
-<P>1. C++ strings </P>
-
-<P><TT>class Point /* C++ */</TT></P>
+<P>
+    To set Argus to watch for content, a POST call must be sent to
+    <span id="currentUrl1"></span>rest/watch with the following JSON message:
+</P>
 
 <P><TT>{</TT></P>
+<P><TT>&nbsp;&nbsp;&nbsp;"documentUrl":"www.example.com/url/to/watch",</TT></P>
+<P><TT>&nbsp;&nbsp;&nbsp;"responseUrl":"http://your.site/async-response-receiver",</TT></P>
+<P><TT>&nbsp;&nbsp;&nbsp;"keywords":["single-word-keyword","keyword with multiple words"],</TT></P>
+<P><TT>&nbsp;&nbsp;&nbsp;"interval":600</TT></P>
+<P><TT>}</TT></P>
 
-<P><TT>public:</TT></P>
+<P>
+    The example above sets Argus to watch the website "www.example.com/url/to/watch" every
+    600 seconds and detect if any of the provided keywords was either added or
+    deleted.
+</P>
+<P>
+    When detected differences are matched with keywords, notifications are
+    asynchronously sent to the provided response URL in POST with the following JSON
+    message:
+</P>
 
-<P><TT>&nbsp;&nbsp;&nbsp;Point();</TT></P>
+<P><TT>{</TT></P>
+<P><TT>&nbsp;&nbsp;&nbsp;"status":"ok",</TT></P>
+<P><TT>&nbsp;&nbsp;&nbsp;"url":"www.example.com/url/to/watch",</TT></P>
+<P><TT>&nbsp;&nbsp;&nbsp;"diffs": [</TT></P>
+<P><TT>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{</TT></P>
+<P><TT>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"action":"inserted",</TT></P>
+<P><TT>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"keyword":"keyword-that-matched-this-difference",</TT></P>
+<P><TT>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"snippet":"snippet of what was added to the document"</TT></P>
+<P><TT>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;},</TT></P>
+<P><TT>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{</TT></P>
+<P><TT>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"action":"deleted",</TT></P>
+<P><TT>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"keyword":"keyword-that-matched-this-difference",</TT></P>
+<P><TT>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"snippet":"snippet of what was removed from the document"</TT></P>
+<P><TT>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}</TT></P>
+<P><TT>&nbsp;&nbsp;&nbsp;]</TT></P>
+<P><TT>}</TT></P>
+<P>
+    Argus is capable of managing a high number of concurrent watch jobs, as it is
+    implemented to save as much resources as possible and free up database and memory
+    space whenever possible. One method of resource freeing is to automatically
+    timeout watch jobs when it fails to fetch a web document after 10 consecutive
+    tries. When that happens, the following JSON message is sent to the response URL:
+</P>
 
-<P><TT>&nbsp;&nbsp;&nbsp;Point(double xval, double yval);</TT></P>
+<P><TT>{</TT></P>
+<P><TT>&nbsp;&nbsp;&nbsp;"status":"timeout",</TT></P>
+<P><TT>&nbsp;&nbsp;&nbsp;"url":"www.example.com/url/to/watch",</TT></P>
+<P><TT>&nbsp;&nbsp;&nbsp;"diffs": []</TT></P>
+<P><TT>}</TT></P>
+<P>
+    Finally, to manually cancel a watch job, a POST call must be sent to
+    <span id="currentUrl2"></span>rest/cancel with the following JSON message:
+</P>
 
-<P><TT>&nbsp;&nbsp;&nbsp;void move(double dx, double dy);</TT></P>
+<P><TT>{</TT></P>
+<P><TT>&nbsp;&nbsp;&nbsp;"documentUrl":"www.example.com/url/to/cancel",</TT></P>
+<P><TT>&nbsp;&nbsp;&nbsp;"responseUrl":"http://your.site/async-response-receiver"</TT></P>
+<P><TT>}</TT></P>
 
-<P><TT>&nbsp;&nbsp;&nbsp;double getX() const;</TT></P>
-
-<P><TT>&nbsp;&nbsp;&nbsp;double getY() const;</TT></P>
-
-<P><TT>private:</TT></P>
-
-<P><TT>&nbsp;&nbsp;&nbsp;double x;</TT></P>
-
-<P><TT>&nbsp;&nbsp;&nbsp;double y;</TT></P>
-
-<P><TT>};</TT></P>
-
+<script type="application/javascript">
+    document.getElementById('currentUrl1').innerHTML = document.URL;
+    document.getElementById('currentUrl2').innerHTML = document.URL;
+</script>
 </BODY>
 </HTML>
 

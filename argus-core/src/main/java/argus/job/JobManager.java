@@ -4,29 +4,24 @@ import argus.diff.Difference;
 import argus.diff.DifferenceMatcher;
 import argus.keyword.Keyword;
 import argus.keyword.KeywordSerializer;
+import argus.rest.WatchRequest;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import com.novemberain.quartz.mongodb.MongoDBJobStore;
 import org.quartz.*;
 import org.quartz.impl.DirectSchedulerFactory;
 import org.quartz.impl.StdSchedulerFactory;
 import org.quartz.impl.matchers.GroupMatcher;
-import org.quartz.simpl.RAMJobStore;
 import org.quartz.simpl.SimpleThreadPool;
 import org.quartz.spi.JobStore;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStreamReader;
 import java.io.OutputStream;
 import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.*;
 import java.util.Calendar;
-import java.util.function.Consumer;
-import java.util.function.Function;
 
 import static argus.util.Constants.bytesToHex;
 import static argus.util.Constants.generateRandomBytes;
@@ -47,28 +42,39 @@ public class JobManager {
 
     private final String managerName;
     private final JobManagerHandler handler;
+    private final int detectionInterval;
     private Scheduler scheduler;
 
     private JobManager(final String managerName,
+                       int detectionInterval,
                        final JobManagerHandler handler) {
         this.managerName = managerName;
         this.handler = handler;
+        this.detectionInterval = detectionInterval;
     }
 
     public static JobManager create(final String managerName,
+                                    final int detectionInterval,
                                     final JobManagerHandler handler) {
         JobManager existingManager = get(managerName);
         if (existingManager != null) {
             existingManager.stop();
         }
 
-        JobManager newManager = new JobManager(managerName, handler);
+        JobManager newManager = new JobManager(managerName, detectionInterval, handler);
         activeManagers.put(managerName, newManager);
         return newManager;
     }
 
     public static JobManager get(final String managerName) {
         return activeManagers.get(managerName);
+    }
+
+    public void initialize() throws SchedulerException {
+        StdSchedulerFactory factory = new org.quartz.impl.StdSchedulerFactory();
+        scheduler = factory.getScheduler();
+        factory = null;
+        scheduler.start();
     }
 
     public void initialize(JobStore jobStore, int maxThreads) throws SchedulerException {
@@ -84,14 +90,7 @@ public class JobManager {
         scheduler.start();
     }
 
-    public void initialize() throws SchedulerException {
-        StdSchedulerFactory factory = new org.quartz.impl.StdSchedulerFactory();
-        scheduler = factory.getScheduler();
-        factory = null;
-        scheduler.start();
-    }
-
-    public boolean createJob(final JobRequest request) {
+    public boolean createJob(final WatchRequest request) {
 
         String requestUrl = request.getRequestUrl();
         String responseUrl = request.getResponseUrl();
@@ -107,8 +106,7 @@ public class JobManager {
             Trigger detectionTrigger = TriggerBuilder.newTrigger()
                     .withIdentity(requestUrl, "detection" + requestUrl)
                     .withSchedule(SimpleScheduleBuilder.simpleSchedule()
-                            .withIntervalInMinutes(7)
-//                            .withIntervalInSeconds(12)
+                            .withIntervalInSeconds(detectionInterval)
                             .repeatForever())
                     .build();
 
@@ -161,7 +159,9 @@ public class JobManager {
                 cancelMatchingJob(requestUrl, responseUrl);
             }
 
-            scheduler.interrupt(new JobKey(requestUrl, "detection" + requestUrl));
+            JobKey detectJobKey = new JobKey(requestUrl, "detection" + requestUrl);
+            scheduler.interrupt(detectJobKey);
+            scheduler.deleteJob(detectJobKey);
             handler.removeExistingDifferences(requestUrl);
         } catch (SchedulerException ex) {
             logger.error(ex.getMessage(), ex);
@@ -170,14 +170,18 @@ public class JobManager {
 
     public void cancelMatchingJob(String requestUrl, final String responseUrl) {
         try {
-            scheduler.interrupt(new JobKey(responseUrl, "matching" + requestUrl));
+            JobKey matchingJobKey = new JobKey(responseUrl, "matching" + requestUrl);
+            scheduler.interrupt(matchingJobKey);
+            scheduler.deleteJob(matchingJobKey);
 
             // check if there are more match jobs for the same request url
             Set<JobKey> keys = scheduler.getJobKeys(GroupMatcher.jobGroupEquals("matching" + requestUrl));
             if (keys.isEmpty()) {
                 // no more matching jobs for this document! interrupt the
                 // DiffDetectJob
-                scheduler.interrupt(new JobKey(requestUrl, "detection" + requestUrl));
+                JobKey detectJobKey = new JobKey(requestUrl, "detection" + requestUrl);
+                scheduler.interrupt(detectJobKey);
+                scheduler.deleteJob(detectJobKey);
                 handler.removeExistingDifferences(requestUrl);
             }
 
@@ -239,9 +243,6 @@ public class JobManager {
         GsonBuilder gsonBuilder = new GsonBuilder();
         gsonBuilder.registerTypeAdapter(Keyword.class, new KeywordSerializer());
         String input = gsonBuilder.create().toJson(jsonResponseMap);
-
-        System.out.println("Sending ok: " + input);
-
         return sendResponse(responseUrl, input);
     }
 
