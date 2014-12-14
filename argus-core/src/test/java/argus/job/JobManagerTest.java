@@ -9,31 +9,21 @@ import argus.keyword.Keyword;
 import argus.keyword.KeywordBuilder;
 import argus.parser.GeniaParser;
 import argus.parser.ParserPool;
+import argus.rest.WatchRequest;
 import com.google.common.collect.Lists;
 import com.mongodb.BulkWriteOperation;
 import com.mongodb.DB;
 import com.mongodb.DBCollection;
 import com.mongodb.DBObject;
 import com.mongodb.MongoClient;
-import com.mongodb.ServerAddress;
-import com.novemberain.quartz.mongodb.MongoDBJobStore;
-import org.apache.commons.io.IOUtils;
-import org.apache.tools.ant.filters.StringInputStream;
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
-import org.junit.Ignore;
 import org.junit.Test;
-import org.quartz.simpl.RAMJobStore;
-import org.quartz.spi.JobStore;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import java.io.IOException;
-import java.io.InputStream;
-import java.util.Collections;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 import java.util.concurrent.atomic.AtomicReference;
 import java.util.stream.Collectors;
 import java.util.stream.StreamSupport;
@@ -93,7 +83,7 @@ public class JobManagerTest {
 
     @Test
     public void testSimple() throws Exception {
-        JobManager manager = JobManager.create("test_argus_manager", new JobManagerHandler() {
+        JobManager manager = JobManager.create("test_argus_manager", 12, new JobManagerHandler() {
             @Override
             public boolean detectDifferences(String url) {
 
@@ -164,11 +154,11 @@ public class JobManagerTest {
             }
         });
 
-//        JobStore jobStore = new RAMJobStore();
+        testDocuments = new AtomicReference<>("Argus Panoptes is the name of the 100-eyed giant in Norse mythology.");
+
         manager.initialize();
 
-        testDocuments = new AtomicReference<>("Argus Panoptes is the name of the 100-eyed giant in Norse mythology.");
-        boolean wasCreated = manager.createJob(new JobRequest(
+        boolean wasCreated = manager.createJob(new WatchRequest(
                 "testRequestUrl",
                 "http://www.google.com",
                 Lists.newArrayList("the greek", "argus panoptes"),
@@ -183,14 +173,14 @@ public class JobManagerTest {
 
         Thread.sleep(20000);
 
-        wasCreated = manager.createJob(new JobRequest(
+        wasCreated = manager.createJob(new WatchRequest(
                 "testRequestUrl",
                 "http://www.google.com",
                 Lists.newArrayList("argus"),
                 15));
         assertFalse(wasCreated);
 
-        wasCreated = manager.createJob(new JobRequest(
+        wasCreated = manager.createJob(new WatchRequest(
                 "testRequestUrl",
                 "http://www.google.pt",
                 Lists.newArrayList(
@@ -205,37 +195,5 @@ public class JobManagerTest {
         manager.stop();
     }
 
-    @Test
-    @Ignore
-    public void testBBCNews() throws IOException {
-        String url = "http://www.bbc.com/news/uk/";
-        String type = "text/html";
-        InputStream oldStream = getClass().getResourceAsStream("bbc_news_8_12_2014_11_00.html");
-        InputStream newStream = getClass().getResourceAsStream("bbc_news_8_12_2014_13_00.html");
-        String oldSnapshot = IOUtils.toString(oldStream);
-        String newSnapshot = IOUtils.toString(newStream);
-
-        Document oldSnapshotDoc = DocumentBuilder
-                .fromString(url, oldSnapshot, type)
-                .ignoreCase()
-                .withStopwords()
-                .withStemming()
-                .build(occurrencesDB, parserPool);
-
-        Document newSnapshotDoc = DocumentBuilder
-                .fromString(url, newSnapshot, type)
-                .ignoreCase()
-                .withStopwords()
-                .withStemming()
-                .build(occurrencesDB, parserPool);
-
-        DifferenceDetector comparison = new DifferenceDetector(
-                oldSnapshotDoc,
-                newSnapshotDoc,
-                parserPool
-        );
-        List<Difference> diffList = comparison.call();
-        assertEquals(352, diffList.size());
-    }
 }
 
