@@ -184,7 +184,7 @@ public class GeniaParser implements Parser {
                 }
             }
         } catch (IOException ex) {
-            throw new RuntimeException("An error occurred while parsing the sentence.", ex);
+            logger.error(ex.getMessage(), ex);
         }
 
         return _results;

@@ -9,6 +9,7 @@ import com.mongodb.DBCursor;
 
 import java.io.Serializable;
 import java.util.ArrayList;
+import java.util.Iterator;
 import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
@@ -49,13 +50,18 @@ public final class Document extends BasicDBObject implements Serializable {
         occCollection.insert(occurrence);
     }
 
-    public void addOccurrences(Iterable<Occurrence> occurrencess) {
-        addOccurrences(StreamSupport.stream(occurrencess.spliterator(), false));
+    public void addOccurrences(Stream<Occurrence> occurrencesStream) {
+        addOccurrences(occurrencesStream.iterator());
     }
 
-    public void addOccurrences(Stream<Occurrence> occurrencesStream) {
+    public void addOccurrences(Iterator<Occurrence> occurrencesIt) {
+        if (!occurrencesIt.hasNext()) {
+            return;
+        }
         BulkWriteOperation builder = occCollection.initializeUnorderedBulkOperation();
-        occurrencesStream.forEach(builder::insert);
+        while (occurrencesIt.hasNext()) {
+            builder.insert(occurrencesIt.next());
+        }
         builder.execute();
         builder = null;
     }
