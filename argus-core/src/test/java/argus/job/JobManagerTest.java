@@ -153,10 +153,9 @@ public class JobManagerTest {
                         .build(parserPool);
             }
         });
-
         testDocuments = new AtomicReference<>("Argus Panoptes is the name of the 100-eyed giant in Norse mythology.");
-
         manager.initialize();
+
 
         boolean wasCreated = manager.createJob(new WatchRequest(
                 "testRequestUrl",
@@ -165,13 +164,13 @@ public class JobManagerTest {
                 10
         ));
         assertTrue(wasCreated);
-
         Thread.sleep(20000);
+
 
         testDocuments.lazySet("is the of the 100-eyed giant in Greek mythology.");
         System.out.println("document changed");
-
         Thread.sleep(20000);
+
 
         wasCreated = manager.createJob(new WatchRequest(
                 "testRequestUrl",
@@ -179,7 +178,6 @@ public class JobManagerTest {
                 Lists.newArrayList("argus"),
                 15));
         assertFalse(wasCreated);
-
         wasCreated = manager.createJob(new WatchRequest(
                 "testRequestUrl",
                 "http://www.google.pt",
@@ -189,8 +187,25 @@ public class JobManagerTest {
                 15));
         assertTrue(wasCreated);
         System.out.println("added new job");
-
         Thread.sleep(30000);
+
+
+        manager.cancelMatchingJob("testRequestUrl", "http://www.google.com");
+        manager.cancelMatchingJob("testRequestUrl", "http://www.google.pt");
+        System.out.println("canceled all jobs");
+        Thread.sleep(30000);
+
+
+        wasCreated = manager.createJob(new WatchRequest(
+                "testRequestUrl",
+                "http://www.google.com",
+                Lists.newArrayList("the greek", "argus panoptes"),
+                10
+        ));
+        assertTrue(wasCreated);
+        System.out.println("added old job");
+        Thread.sleep(30000);
+
 
         manager.stop();
     }
