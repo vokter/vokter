@@ -97,8 +97,13 @@ public class RestResource {
                     .fromJson(cancelRequestJson, CancelRequest.class);
 
             Context context = Context.getInstance();
-            context.cancelJob(cancelRequest.documentUrl, cancelRequest.responseUrl);
-            RestResponse response = new RestResponse(RestResponse.Code.ok, "");
+            boolean wasDeleted = context.cancelJob(cancelRequest.documentUrl, cancelRequest.responseUrl);
+            RestResponse response;
+            if (wasDeleted) {
+                response = new RestResponse(RestResponse.Code.ok, "");
+            } else {
+                response = new RestResponse(RestResponse.Code.error, "The job to cancel does not exist!");
+            }
             return response.toString();
 
         } catch (JsonSyntaxException ex) {

@@ -13,6 +13,7 @@ import org.quartz.impl.StdSchedulerFactory;
 import org.quartz.impl.matchers.GroupMatcher;
 import org.quartz.simpl.SimpleThreadPool;
 import org.quartz.spi.JobStore;
+import org.quartz.utils.Key;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -22,6 +23,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.*;
 import java.util.Calendar;
+import java.util.stream.Collectors;
 
 import static argus.util.Constants.bytesToHex;
 import static argus.util.Constants.generateRandomBytes;
@@ -112,6 +114,7 @@ public class JobManager {
 
             try {
                 scheduler.scheduleJob(detectionJob, detectionTrigger);
+                logger.info("Started detection job for '{}'.", requestUrl);
             } catch (ObjectAlreadyExistsException ignored) {
                 // there is already a job monitoring the request url, so ignore this
             }
@@ -152,42 +155,50 @@ public class JobManager {
 
     void timeoutDetectionJob(String requestUrl) {
         try {
-            Set<JobKey> keys = scheduler.getJobKeys(GroupMatcher.jobGroupEquals("matching" + requestUrl));
+            Set<JobKey> keys = scheduler.getJobKeys(GroupMatcher.groupEquals("matching" + requestUrl));
             for (JobKey k : keys) {
                 String responseUrl = k.getName();
                 sendTimeoutResponse(requestUrl, responseUrl);
-                cancelMatchingJob(requestUrl, responseUrl);
+                scheduler.interrupt(k);
+                scheduler.deleteJob(k);
             }
 
             JobKey detectJobKey = new JobKey(requestUrl, "detection" + requestUrl);
             scheduler.interrupt(detectJobKey);
             scheduler.deleteJob(detectJobKey);
             handler.removeExistingDifferences(requestUrl);
+            logger.info("Timed-out detection job for '{}'.", requestUrl);
         } catch (SchedulerException ex) {
             logger.error(ex.getMessage(), ex);
         }
     }
 
-    public void cancelMatchingJob(String requestUrl, final String responseUrl) {
+    public boolean cancelMatchingJob(String requestUrl, final String responseUrl) {
         try {
             JobKey matchingJobKey = new JobKey(responseUrl, "matching" + requestUrl);
             scheduler.interrupt(matchingJobKey);
-            scheduler.deleteJob(matchingJobKey);
+            boolean wasDeleted = scheduler.deleteJob(matchingJobKey);
 
-            // check if there are more match jobs for the same request url
-            Set<JobKey> keys = scheduler.getJobKeys(GroupMatcher.jobGroupEquals("matching" + requestUrl));
-            if (keys.isEmpty()) {
-                // no more matching jobs for this document! interrupt the
-                // DiffDetectJob
-                JobKey detectJobKey = new JobKey(requestUrl, "detection" + requestUrl);
-                scheduler.interrupt(detectJobKey);
-                scheduler.deleteJob(detectJobKey);
-                handler.removeExistingDifferences(requestUrl);
+            if (wasDeleted) {
+                // check if there are more match jobs for the same request url
+                Set<JobKey> keys = scheduler.getJobKeys(GroupMatcher.groupEquals("matching" + requestUrl));
+                if (keys.isEmpty()) {
+                    // no more matching jobs for this document! interrupt the
+                    // DiffDetectJob
+                    JobKey detectJobKey = new JobKey(requestUrl, "detection" + requestUrl);
+                    scheduler.interrupt(detectJobKey);
+                    scheduler.deleteJob(detectJobKey);
+                    handler.removeExistingDifferences(requestUrl);
+                    logger.info("Canceled detection job for '{}'.", requestUrl);
+                }
             }
+
+            return wasDeleted;
 
         } catch (SchedulerException ex) {
             logger.error(ex.getMessage(), ex);
         }
+        return false;
     }
 
     public void stop() {
@@ -204,7 +215,7 @@ public class JobManager {
         // notify all matching jobs of that url that there are new differences to match
         if (wasSuccessful) {
             try {
-                Set<JobKey> keys = scheduler.getJobKeys(GroupMatcher.jobGroupEquals("matching" + url));
+                Set<JobKey> keys = scheduler.getJobKeys(GroupMatcher.groupEquals("matching" + url));
                 for (JobKey k : keys) {
                     JobDetail jobDetail = scheduler.getJobDetail(k);
                     List<? extends Trigger> triggerList = scheduler.getTriggersOfJob(k);
