@@ -9,9 +9,9 @@ before_install:
 - mvn clean
 - cd argus-core
 - mvn install -Dmaven.test.skip=true
-- cd ../argus-readers
-- mvn test
 - cd ../argus-stemmers
+- mvn test
+- cd ../argus-readers
 - mvn test
 - cd ../argus-core
 - mvn test
