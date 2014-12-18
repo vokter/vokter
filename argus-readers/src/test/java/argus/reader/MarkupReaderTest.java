@@ -1,12 +1,11 @@
 package argus.reader;
 
-import argus.util.PluginLoader;
 import it.unimi.dsi.lang.MutableString;
 import org.junit.Test;
 
 import java.io.InputStream;
 
-import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.*;
 
 /**
  * @author Eduardo Duarte (<a href="mailto:eduardo.miguel.duarte@gmail.com">eduardo.miguel.duarte@gmail.com</a>)
@@ -19,7 +18,7 @@ public class MarkupReaderTest {
     public void testWikipediaHtml() throws Exception {
         InputStream input = getClass().getResourceAsStream("wikipedia.html");
 
-        Reader reader = PluginLoader.getCompatibleReader("text/html").newInstance();
+        Reader reader = new MarkupReader();
         MutableString text = reader.readDocumentContents(input);
 
         assertEquals("Argus Panoptes - Wikipedia, the free encyclopedia   Argus Panoptes\n" +
@@ -302,7 +301,7 @@ public class MarkupReaderTest {
     public void testWikipediaXml() throws Exception {
         InputStream input = getClass().getResourceAsStream("wikipedia.xml");
 
-        Reader reader = PluginLoader.getCompatibleReader("text/xml").newInstance();
+        Reader reader = new MarkupReader();
         MutableString text = reader.readDocumentContents(input);
 
         assertEquals("Wikipedia enwiki http://en.wikipedia.org/wiki/Main_Page MediaWiki 1.25wmf11 \n" +

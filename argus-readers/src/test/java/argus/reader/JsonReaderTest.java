@@ -1,12 +1,11 @@
 package argus.reader;
 
-import argus.util.PluginLoader;
 import it.unimi.dsi.lang.MutableString;
 import org.junit.Test;
 
 import java.io.InputStream;
 
-import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.*;
 
 /**
  * @author Eduardo Duarte (<a href="mailto:eduardo.miguel.duarte@gmail.com">eduardo.miguel.duarte@gmail.com</a>)
@@ -16,10 +15,10 @@ import static org.junit.Assert.assertEquals;
 public class JsonReaderTest {
 
     @Test
-    public void testWikipedia() throws Exception {
+    public void testWikipediaPlain() throws Exception {
         InputStream input = getClass().getResourceAsStream("wikipedia.json");
 
-        Reader reader = PluginLoader.getCompatibleReader("application/json").newInstance();
+        Reader reader = new JsonReader();
         MutableString text = reader.readDocumentContents(input);
 
         assertEquals("warnings query * Formatting of continuation data will be changing soon. To continue using the current formatting, use the 'rawcontinue' parameter. To begin using the new format, pass an empty string for 'continue' in the initial query.    query normalized from Argus_Panoptes  to Argus Panoptes    pages 1761517 pageid 1761517  ns 0  title Argus Panoptes  revisions contentformat text/x-wiki  contentmodel wikitext  * [[Image:Io Argos Staatliche Antikensammlungen 585.jpg|thumb|right|280px|[[Io (mythology)|Io]] (as cow) and Argus, black-figure [[amphora]], 540–530 BC, [[Staatliche Antikensammlung]]en (Inv. 585).]]\n" +

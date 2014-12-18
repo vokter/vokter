@@ -173,11 +173,13 @@ public class Context implements LifeCycle.Listener, JobManagerHandler {
             removeExistingDifferences(url);
             DBCollection diffColl = differencesDB.getCollection(url);
 
-            BulkWriteOperation bulkOp = diffColl.initializeUnorderedBulkOperation();
-            results.forEach(bulkOp::insert);
-            bulkOp.execute();
-            bulkOp = null;
-            diffColl = null;
+            if (!results.isEmpty()) {
+                BulkWriteOperation bulkOp = diffColl.initializeUnorderedBulkOperation();
+                results.forEach(bulkOp::insert);
+                bulkOp.execute();
+                bulkOp = null;
+                diffColl = null;
+            }
         }
 
         //replace the old document in the collection with the new one
