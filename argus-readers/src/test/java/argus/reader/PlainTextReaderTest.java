@@ -1,12 +1,11 @@
 package argus.reader;
 
-import argus.util.PluginLoader;
 import it.unimi.dsi.lang.MutableString;
 import org.junit.Test;
 
 import java.io.InputStream;
 
-import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.*;
 
 /**
  * @author Eduardo Duarte (<a href="mailto:eduardo.miguel.duarte@gmail.com">eduardo.miguel.duarte@gmail.com</a>)
@@ -16,10 +15,10 @@ import static org.junit.Assert.assertEquals;
 public class PlainTextReaderTest {
 
     @Test
-    public void testWikipedia() throws Exception {
+    public void testWikipediaPlain() throws Exception {
         InputStream input = getClass().getResourceAsStream("wikipedia.txt");
 
-        Reader reader = PluginLoader.getCompatibleReader("text/plain").newInstance();
+        Reader reader = new PlainTextReader();
         MutableString text = reader.readDocumentContents(input);
 
         assertEquals("Argus Panoptes\n" +
