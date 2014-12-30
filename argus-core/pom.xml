@@ -188,17 +188,14 @@
                         </configuration>
                     </execution>
                 </executions>
-        </plugin>
+            </plugin>
 
-        <plugin>
+            <plugin>
                 <groupId>org.eluder.coveralls</groupId>
                 <artifactId>coveralls-maven-plugin</artifactId>
                 <version>3.0.1</version>
                 <configuration>
-                    <repoToken>saeeQ64qmWZjsI8MCmvNDLmTKmlGqHixO</repoToken>
-                    <sourceDirectories>
-                        <sourceDirectory>argus-core/src/main/resources</sourceDirectory>
-                    </sourceDirectories>
+                    <sourceEncoding>UTF8</sourceEncoding>
                 </configuration>
             </plugin>
 
@@ -207,30 +204,50 @@
                 <artifactId>jacoco-maven-plugin</artifactId>
                 <version>0.7.2.201409121644</version>
                 <configuration>
-                    <propertyName>jacoco.agent.argLine</propertyName>
-                    <destFile>${basedir}/target/coverage-reports/jacoco-unit.exec</destFile>
-                    <dataFile>${basedir}/target/coverage-reports/jacoco-unit.exec</dataFile>
-                    <output>file</output>
-                    <append>true</append>
+                    <dataFile>${jaCoCoExecutionDataFile}</dataFile>
                 </configuration>
                 <executions>
                     <execution>
                         <id>jacoco-initialize</id>
+                        <phase>initialize</phase>
                         <goals>
                             <goal>prepare-agent</goal>
                         </goals>
+                        <configuration>
+                            <propertyName>jacoco.agent.argLine</propertyName>
+                            <destFile>${jaCoCoExecutionDataFile}</destFile>
+                        </configuration>
                     </execution>
                     <execution>
-                        <id>report</id>
-                        <phase>prepare-package</phase>
+                        <id>jacoco-report</id>
+                        <phase>verify</phase>
                         <goals>
                             <goal>report</goal>
                         </goals>
                     </execution>
                 </executions>
             </plugin>
-
         </plugins>
+
+        <pluginManagement>
+            <plugins>
+                <plugin>
+                    <groupId>org.apache.maven.plugins</groupId>
+                    <artifactId>maven-surefire-plugin</artifactId>
+                    <version>2.16</version>
+                    <dependencies>
+                        <dependency>
+                            <groupId>org.apache.maven.surefire</groupId>
+                            <artifactId>surefire-junit47</artifactId>
+                            <version>2.16</version>
+                        </dependency>
+                    </dependencies>
+                    <configuration>
+                        <argLine>${jacoco.agent.argLine}</argLine>
+                    </configuration>
+                </plugin>
+            </plugins>
+        </pluginManagement>
 
     </build>
 
