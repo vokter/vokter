@@ -1,7 +1,7 @@
 package argus.document;
 
-import argus.parser.GeniaParser;
 import argus.parser.ParserPool;
+import argus.parser.SimpleParser;
 import com.mongodb.DB;
 import com.mongodb.MongoClient;
 import org.junit.AfterClass;
@@ -36,8 +36,8 @@ public class DocumentCollectionTest {
         documentsDB = mongoClient.getDB("test_documents_db");
         occurrencesDB = mongoClient.getDB("test_terms_db");
         parserPool = new ParserPool();
-        parserPool.place(new GeniaParser());
-        parserPool.place(new GeniaParser());
+        parserPool.place(new SimpleParser());
+        parserPool.place(new SimpleParser());
         collection = new DocumentCollection("test_collection", documentsDB, occurrencesDB);
     }
 

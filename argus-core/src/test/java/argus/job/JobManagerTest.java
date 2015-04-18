@@ -7,8 +7,8 @@ import argus.document.DocumentBuilder;
 import argus.document.DocumentCollection;
 import argus.keyword.Keyword;
 import argus.keyword.KeywordBuilder;
-import argus.parser.GeniaParser;
 import argus.parser.ParserPool;
+import argus.parser.SimpleParser;
 import argus.rest.WatchRequest;
 import com.google.common.collect.Lists;
 import com.mongodb.BulkWriteOperation;
@@ -28,7 +28,6 @@ import java.util.concurrent.atomic.AtomicReference;
 import java.util.stream.Collectors;
 import java.util.stream.StreamSupport;
 
-import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
 
@@ -62,7 +61,7 @@ public class JobManagerTest {
         differencesDB = mongoClient.getDB("text_differences_db");
         jobsDB = mongoClient.getDB("test_jobs_db");
         parserPool = new ParserPool();
-        parserPool.place(new GeniaParser());
+        parserPool.place(new SimpleParser());
         collection = new DocumentCollection(
                 "test_argus_collection",
                 documentsDB,

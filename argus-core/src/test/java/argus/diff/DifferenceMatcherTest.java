@@ -1,10 +1,9 @@
 package argus.diff;
 
-import argus.job.MatchingJob;
 import argus.keyword.Keyword;
 import argus.keyword.KeywordBuilder;
-import argus.parser.GeniaParser;
 import argus.parser.ParserPool;
+import argus.parser.SimpleParser;
 import com.google.common.collect.Lists;
 import com.mongodb.DB;
 import com.mongodb.MongoClient;
@@ -40,7 +39,7 @@ public class DifferenceMatcherTest {
         mongoClient = new MongoClient("localhost", 27017);
         occurrencesDB = mongoClient.getDB("test_terms_db");
         parserPool = new ParserPool();
-        parserPool.place(new GeniaParser());
+        parserPool.place(new SimpleParser());
     }
 
     @AfterClass

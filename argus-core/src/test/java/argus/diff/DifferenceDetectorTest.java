@@ -2,12 +2,11 @@ package argus.diff;
 
 import argus.document.Document;
 import argus.document.DocumentBuilder;
-import argus.parser.GeniaParser;
 import argus.parser.ParserPool;
+import argus.parser.SimpleParser;
 import com.mongodb.DB;
 import com.mongodb.MongoClient;
 import org.apache.commons.io.IOUtils;
-import org.apache.tools.ant.filters.StringInputStream;
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
 import org.junit.Test;
@@ -41,7 +40,7 @@ public class DifferenceDetectorTest {
         mongoClient = new MongoClient("localhost", 27017);
         occurrencesDB = mongoClient.getDB("test_terms_db");
         parserPool = new ParserPool();
-        parserPool.place(new GeniaParser());
+        parserPool.place(new SimpleParser());
     }
 
     @AfterClass

@@ -7,10 +7,10 @@ import argus.document.DocumentBuilder;
 import argus.document.DocumentCollection;
 import argus.job.JobManager;
 import argus.job.JobManagerHandler;
+import argus.parser.SimpleParser;
 import argus.rest.WatchRequest;
 import argus.keyword.Keyword;
 import argus.keyword.KeywordBuilder;
-import argus.parser.GeniaParser;
 import argus.parser.Parser;
 import argus.parser.ParserPool;
 import com.mongodb.BulkWriteOperation;
@@ -285,7 +285,7 @@ public class Context implements LifeCycle.Listener, JobManagerHandler {
 
         logger.info("Starting parsers...");
         for (int i = 1; i < maxThreads; i++) {
-            Parser p = new GeniaParser();
+            Parser p = new SimpleParser();
             parserPool.place(p);
         }
 

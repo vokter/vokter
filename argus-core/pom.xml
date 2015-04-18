@@ -7,7 +7,7 @@
 
     <groupId>argus</groupId>
     <artifactId>argus-core</artifactId>
-    <version>1.2.0</version>
+    <version>1.2.1</version>
     <packaging>jar</packaging>
 
     <name>argus-core</name>
@@ -93,7 +93,7 @@
                             </resources>
                         </configuration>
                     </execution>
-                    <execution>
+                    <!-- <execution>
                         <id>copy-parser</id>
                         <phase>process-resources</phase>
                         <goals>
@@ -108,11 +108,11 @@
                                 </resource>
                             </resources>
                         </configuration>
-                    </execution>
+                    </execution> -->
                 </executions>
             </plugin>
 
-            <plugin>
+            <!-- <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-antrun-plugin</artifactId>
                 <version>1.7</version>
@@ -134,7 +134,7 @@
                         </goals>
                     </execution>
                 </executions>
-            </plugin>
+            </plugin> -->
 
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>

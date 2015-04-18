@@ -1,5 +1,5 @@
-Argus
-=======
+# Argus
+
 [![Build Status](https://travis-ci.org/edduarte/argus.svg?branch=master)](https://travis-ci.org/edduarte/argus)
 [![Coverage Status](https://img.shields.io/coveralls/edduarte/argus.svg)](https://coveralls.io/r/edduarte/argus)
 [![GitHub version](https://badge.fury.io/gh/edduarte%2Fargus.svg)](http://badge.fury.io/gh/edduarte%2Fargus)
@@ -9,7 +9,23 @@ Argus is high-performance, scalable web service that provides automatic page mon
 This service implements a information retrieval system that fetches, indexes and performs queries over web documents on a periodic basis. Difference detection is implemented by comparing occurrences between two snapshots of the same document.
 
 
-## How to use
+## Dependencies
+
+Jersey RESTful framework: https://jersey.java.net
+Genia Parser: http://people.ict.usc.edu/~sagae/parser/gdep/
+Snowball stopwords and stemmers: http://snowball.tartarus.org
+Language Detector: https://github.com/optimaize/language-detector
+Quartz Scheduler: http://quartz-scheduler.org
+MongoDB Java driver: http://docs.mongodb.org/ecosystem/drivers/java/
+DiffMatchPatch: https://code.google.com/p/google-diff-match-patch/
+
+
+## Installation
+
+TODO
+
+
+## Usage
 
 To set Argus to watch for content, a POST call must be sent to **http://url-of-deployed-argus/rest/watch** with the following JSON message:
 ```json
@@ -57,3 +73,21 @@ Finally, to manually cancel a watch job, a POST call must be sent to **http://ur
     "responseUrl": "http://your.site/async-response-receiver"
 }
 ```
+
+
+## License
+
+    Copyright 2015 Ed Duarte
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+
