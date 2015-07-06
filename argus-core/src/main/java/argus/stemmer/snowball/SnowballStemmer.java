@@ -1,3 +1,19 @@
+/*
+ * Copyright 2014 Ed Duarte
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
 package argus.stemmer.snowball;
 
 import argus.stemmer.Stemmer;
@@ -17,22 +33,30 @@ public abstract class SnowballStemmer implements Stemmer {
     protected MutableString current;
 
     protected int cursor;
+
     protected int limit;
+
     protected int limit_backward;
+
     protected int bra;
+
     protected int ket;
+
 
     protected SnowballStemmer() {
         current = null;
     }
 
+
     public abstract boolean stem();
+
 
     @Override
     public void stem(MutableString termText) {
         setCurrent(termText);
         stem();
     }
+
 
     /**
      * Set the current string.
@@ -46,6 +70,7 @@ public abstract class SnowballStemmer implements Stemmer {
         ket = limit;
     }
 
+
     protected void copy_from(SnowballStemmer other) {
         current = other.current;
         cursor = other.cursor;
@@ -54,6 +79,7 @@ public abstract class SnowballStemmer implements Stemmer {
         bra = other.bra;
         ket = other.ket;
     }
+
 
     protected boolean in_grouping(char[] s, int min, int max) {
         if (cursor >= limit) return false;
@@ -65,6 +91,7 @@ public abstract class SnowballStemmer implements Stemmer {
         return true;
     }
 
+
     protected boolean in_grouping_b(char[] s, int min, int max) {
         if (cursor <= limit_backward) return false;
         char ch = current.charAt(cursor - 1);
@@ -74,6 +101,7 @@ public abstract class SnowballStemmer implements Stemmer {
         cursor--;
         return true;
     }
+
 
     protected boolean out_grouping(char[] s, int min, int max) {
         if (cursor >= limit) return false;
@@ -90,6 +118,7 @@ public abstract class SnowballStemmer implements Stemmer {
         return false;
     }
 
+
     protected boolean out_grouping_b(char[] s, int min, int max) {
         if (cursor <= limit_backward) return false;
         char ch = current.charAt(cursor - 1);
@@ -105,6 +134,7 @@ public abstract class SnowballStemmer implements Stemmer {
         return false;
     }
 
+
     protected boolean in_range(int min, int max) {
         if (cursor >= limit) return false;
         char ch = current.charAt(cursor);
@@ -112,6 +142,7 @@ public abstract class SnowballStemmer implements Stemmer {
         cursor++;
         return true;
     }
+
 
     protected boolean in_range_b(int min, int max) {
         if (cursor <= limit_backward) return false;
@@ -121,6 +152,7 @@ public abstract class SnowballStemmer implements Stemmer {
         return true;
     }
 
+
     protected boolean out_range(int min, int max) {
         if (cursor >= limit) return false;
         char ch = current.charAt(cursor);
@@ -129,6 +161,7 @@ public abstract class SnowballStemmer implements Stemmer {
         return true;
     }
 
+
     protected boolean out_range_b(int min, int max) {
         if (cursor <= limit_backward) return false;
         char ch = current.charAt(cursor - 1);
@@ -136,6 +169,7 @@ public abstract class SnowballStemmer implements Stemmer {
         cursor--;
         return true;
     }
+
 
     protected boolean eq_s(int s_size, String s) {
         if (limit - cursor < s_size) return false;
@@ -147,23 +181,28 @@ public abstract class SnowballStemmer implements Stemmer {
         return true;
     }
 
+
     protected boolean eq_s_b(int s_size, String s) {
         if (cursor - limit_backward < s_size) return false;
         int i;
         for (i = 0; i != s_size; i++) {
-            if (current.charAt(cursor - s_size + i) != s.charAt(i)) return false;
+            if (current.charAt(cursor - s_size + i) != s.charAt(i))
+                return false;
         }
         cursor -= s_size;
         return true;
     }
 
+
     protected boolean eq_v(CharSequence s) {
         return eq_s(s.length(), s.toString());
     }
 
+
     protected boolean eq_v_b(CharSequence s) {
         return eq_s_b(s.length(), s.toString());
     }
+
 
     protected int find_among(Among v[], int v_size) {
         int i = 0;
@@ -236,6 +275,7 @@ public abstract class SnowballStemmer implements Stemmer {
         }
     }
 
+
     // find_among_b is for backwards processing. Same comments apply
     protected int find_among_b(Among v[], int v_size) {
         int i = 0;
@@ -304,6 +344,7 @@ public abstract class SnowballStemmer implements Stemmer {
         }
     }
 
+
     /* to replace chars between c_bra and c_ket in current by the
      * chars in s.
      */
@@ -315,6 +356,7 @@ public abstract class SnowballStemmer implements Stemmer {
         else if (cursor > c_bra) cursor = c_bra;
         return adjustment;
     }
+
 
     protected void slice_check() {
         if (bra < 0 ||
@@ -332,18 +374,22 @@ public abstract class SnowballStemmer implements Stemmer {
         }
     }
 
+
     protected void slice_from(String s) {
         slice_check();
         replace_s(bra, ket, s);
     }
 
+
     protected void slice_from(CharSequence s) {
         slice_from(s.toString());
     }
 
+
     protected void slice_del() {
         slice_from("");
     }
+
 
     protected void insert(int c_bra, int c_ket, String s) {
         int adjustment = replace_s(c_bra, c_ket, s);
@@ -351,9 +397,11 @@ public abstract class SnowballStemmer implements Stemmer {
         if (c_bra <= ket) ket += adjustment;
     }
 
+
     protected void insert(int c_bra, int c_ket, CharSequence s) {
         insert(c_bra, c_ket, s.toString());
     }
+
 
     /* Copy the slice into the supplied string */
     protected void slice_to(MutableString s) {
@@ -361,6 +409,7 @@ public abstract class SnowballStemmer implements Stemmer {
         int len = ket - bra;
         s.replace(0, s.length(), current.substring(bra, ket));
     }
+
 
     protected void assign_to(MutableString s) {
         s.replace(0, s.length(), current.substring(0, limit));

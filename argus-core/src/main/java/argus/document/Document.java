@@ -1,3 +1,19 @@
+/*
+ * Copyright 2014 Ed Duarte
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
 package argus.document;
 
 import argus.util.Constants;
@@ -19,18 +35,23 @@ import java.util.stream.StreamSupport;
  * Simple structure that holds a document current snapshot and associates
  * it with an url.
  *
- * @author Eduardo Duarte (<a href="mailto:eduardo.miguel.duarte@gmail.com">eduardo.miguel.duarte@gmail.com</a>)
- * @version 1.0
+ * @author Ed Duarte (<a href="mailto:edmiguelduarte@gmail.com">edmiguelduarte@gmail.com</a>)
+ * @version 2.0.0
+ * @since 1.0.0
  */
 public final class Document extends BasicDBObject implements Serializable {
-    private static final long serialVersionUID = 1L;
-    private static final int BOUND_INDEX = 4;
-
     public static final String ID = "id";
+
     public static final String URL = "url";
+
     public static final String ORIGINAL_CONTENT = "original_content";
 
+    private static final long serialVersionUID = 1L;
+
+    private static final int BOUND_INDEX = 4;
+
     private transient final DBCollection occCollection;
+
 
     Document(DB occurrencesDB, String url, String originalContent) {
         super(ID, Constants.bytesToHex(Constants.generateRandomBytes()));
@@ -40,19 +61,23 @@ public final class Document extends BasicDBObject implements Serializable {
                 .getCollection(getUrl().hashCode() + getString(ID));
     }
 
+
     Document(DB occurrencesDB, BasicDBObject dbObject) {
         super(dbObject);
         occCollection = occurrencesDB
                 .getCollection(getUrl().hashCode() + getString(ID));
     }
 
+
     public void addOccurrence(Occurrence occurrence) {
         occCollection.insert(occurrence);
     }
 
+
     public void addOccurrences(Stream<Occurrence> occurrencesStream) {
         addOccurrences(occurrencesStream.iterator());
     }
+
 
     public void addOccurrences(Iterator<Occurrence> occurrencesIt) {
         if (!occurrencesIt.hasNext()) {
@@ -65,6 +90,7 @@ public final class Document extends BasicDBObject implements Serializable {
         builder.execute();
         builder = null;
     }
+
 
     public Occurrence getOccurrence(String text, int wordCount) {
         if (text.isEmpty()) {
@@ -80,6 +106,7 @@ public final class Document extends BasicDBObject implements Serializable {
         return queriedObject != null ? new Occurrence(queriedObject) : null;
     }
 
+
     public List<Occurrence> getAllOccurrences(String occurrencesText) {
         if (occurrencesText.isEmpty()) {
             return null;
@@ -94,13 +121,16 @@ public final class Document extends BasicDBObject implements Serializable {
         return list;
     }
 
+
     public String getUrl() {
         return getString(URL);
     }
 
+
     public String getOriginalContent() {
         return getString(ORIGINAL_CONTENT);
     }
+
 
     /**
      * Converts a cluster of occurrences associated with a document into a String,
@@ -115,6 +145,7 @@ public final class Document extends BasicDBObject implements Serializable {
                 .collect(Collectors.joining(" "));
     }
 
+
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
@@ -125,15 +156,18 @@ public final class Document extends BasicDBObject implements Serializable {
         return this.getUrl().equalsIgnoreCase(that.getUrl());
     }
 
+
     @Override
     public int hashCode() {
         return getUrl().hashCode();
     }
 
+
     @Override
     public String toString() {
         return getUrl();
     }
+
 
     void destroy() {
         occCollection.drop();

@@ -4,20 +4,9 @@
 [![Coverage Status](https://img.shields.io/coveralls/edduarte/argus.svg)](https://coveralls.io/r/edduarte/argus)
 [![GitHub version](https://badge.fury.io/gh/edduarte%2Fargus.svg)](http://badge.fury.io/gh/edduarte%2Fargus)
 
-Argus is high-performance, scalable web service that provides automatic page monitoring and difference detection, triggering notifications when specified keywords were either added or removed from a web document. It supports multi-language parsing and is capable of reading highly-used web document formats like HTML, JSON, XML and Plain-text.
+Argus is high-performance, scalable web service that provides web-page monitoring, triggering notifications when specified keywords were either added or removed from a web document. It supports multi-language parsing and supports reading the most popular web document formats like HTML, JSON, XML, Plain-text and other variations of these.
 
 This service implements a information retrieval system that fetches, indexes and performs queries over web documents on a periodic basis. Difference detection is implemented by comparing occurrences between two snapshots of the same document.
-
-
-## Dependencies
-
-Jersey RESTful framework: https://jersey.java.net
-Genia Parser: http://people.ict.usc.edu/~sagae/parser/gdep/
-Snowball stopwords and stemmers: http://snowball.tartarus.org
-Language Detector: https://github.com/optimaize/language-detector
-Quartz Scheduler: http://quartz-scheduler.org
-MongoDB Java driver: http://docs.mongodb.org/ecosystem/drivers/java/
-DiffMatchPatch: https://code.google.com/p/google-diff-match-patch/
 
 
 ## Installation
@@ -27,7 +16,7 @@ TODO
 
 ## Usage
 
-To set Argus to watch for content, a POST call must be sent to **http://url-of-deployed-argus/rest/watch** with the following JSON message:
+To set Argus to watch for content, a POST call must be sent to **http://localhost:8080/rest/watch** with the following JSON message:
 ```json
 {
     "documentUrl": "http://www.example.com/url/to/watch",
@@ -66,13 +55,36 @@ Argus is capable of managing a high number of concurrent watch jobs, as it is im
     "diffs": []
 }
 ```
-Finally, to manually cancel a watch job, a POST call must be sent to **http://url-of-deployed-argus/rest/cancel** with the following JSON message:
+Finally, to manually cancel a watch job, a POST call must be sent to **http://localhost:8080/rest/cancel** with the following JSON message:
 ```json
 {
     "documentUrl": "http://www.example.com/url/to/cancel",
     "responseUrl": "http://your.site/async-response-receiver"
 }
 ```
+
+
+## Libraries used
+
+Jersey RESTful framework: https://jersey.java.net
+Jetty Embedded server: http://eclipse.org/jetty/
+Genia Parser: http://people.ict.usc.edu/~sagae/parser/gdep/
+LingPipe: http://alias-i.com/lingpipe/
+Snowball stopwords and stemmers: http://snowball.tartarus.org
+Language Detector: https://github.com/optimaize/language-detector
+Cache2K: http://cache2k.org
+Quartz Scheduler: http://quartz-scheduler.org
+MongoDB Java driver: http://docs.mongodb.org/ecosystem/drivers/java/
+DiffMatchPatch: https://code.google.com/p/google-diff-match-patch/
+Gson: https://code.google.com/p/google-gson/
+Jsonic: http://jsonic.sourceforge.jp
+jsoup: http://jsoup.org
+Jackson: http://jackson.codehaus.org
+DSI Utilities: http://dsiutils.di.unimi.it
+Commons-IO: http://jackson.codehaus.org
+Commons-Codec: http://commons.apache.org/proper/commons-codec/
+Commons-CLI: http://commons.apache.org/proper/commons-cli/
+Commons-Lang: http://commons.apache.org/proper/commons-lang/
 
 
 ## License

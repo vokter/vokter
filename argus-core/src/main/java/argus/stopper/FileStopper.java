@@ -1,3 +1,19 @@
+/*
+ * Copyright 2014 Ed Duarte
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
 package argus.stopper;
 
 import argus.parser.Parser;
@@ -27,22 +43,24 @@ import java.util.stream.Collectors;
  * stopword. When the pipe character '|' is detected, the remaining text from
  * the line is ignored.
  *
- * @author Eduardo Duarte (<a href="mailto:eduardo.miguel.duarte@gmail.com">eduardo.miguel.duarte@gmail.com</a>)
- * @version 1.0
- * @since 1.0
+ * @author Ed Duarte (<a href="mailto:edmiguelduarte@gmail.com">edmiguelduarte@gmail.com</a>)
+ * @version 2.0.0
+ * @since 1.0.0
  */
-public class FileStopwords implements Stopwords {
+public class FileStopper implements Stopper {
 
-    private static final Logger logger = LoggerFactory.getLogger(FileStopwords.class);
+    private static final Logger logger = LoggerFactory.getLogger(FileStopper.class);
 
     private Set<MutableString> stopwords;
 
-    public FileStopwords(String language) {
+
+    public FileStopper(String language) {
         boolean loadSuccessful = load(language);
         if (!loadSuccessful) {
             this.stopwords = ImmutableSet.of();
         }
     }
+
 
     private boolean load(String language) {
         File stopwordsFile = new File(Constants.STOPWORDS_DIR, language + ".txt");
@@ -93,15 +111,18 @@ public class FileStopwords implements Stopwords {
         return false;
     }
 
+
     @Override
     public boolean isStopword(MutableString occurrenceText) {
         return stopwords.contains(occurrenceText);
     }
 
+
     @Override
     public boolean isEmpty() {
         return stopwords.isEmpty();
     }
+
 
     @Override
     public void destroy() {

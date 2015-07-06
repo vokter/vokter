@@ -1,3 +1,19 @@
+/*
+ * Copyright 2014 Ed Duarte
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
 package argus.job;
 
 import argus.diff.Difference;
@@ -13,7 +29,6 @@ import org.quartz.impl.StdSchedulerFactory;
 import org.quartz.impl.matchers.GroupMatcher;
 import org.quartz.simpl.SimpleThreadPool;
 import org.quartz.spi.JobStore;
-import org.quartz.utils.Key;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -21,31 +36,33 @@ import java.io.IOException;
 import java.io.OutputStream;
 import java.net.HttpURLConnection;
 import java.net.URL;
-import java.util.*;
 import java.util.Calendar;
-import java.util.stream.Collectors;
+import java.util.*;
 
 import static argus.util.Constants.bytesToHex;
 import static argus.util.Constants.generateRandomBytes;
 
 /**
- * TODO
- *
- * @author Eduardo Duarte (<a href="mailto:eduardo.miguel.duarte@gmail.com">eduardo.miguel.duarte@gmail.com</a>)
- * @version 1.0
- * @since 1.0
+ * @author Ed Duarte (<a href="mailto:edmiguelduarte@gmail.com">edmiguelduarte@gmail.com</a>)
+ * @version 2.0.0
+ * @since 1.0.0
  */
 public class JobManager {
 
     private static final Logger logger = LoggerFactory.getLogger(JobManager.class);
 
     private static final String SCHEDULER_NAME = "Argus_Scheduler";
+
     private static final Map<String, JobManager> activeManagers = new HashMap<>();
 
     private final String managerName;
+
     private final JobManagerHandler handler;
+
     private final int detectionInterval;
+
     private Scheduler scheduler;
+
 
     private JobManager(final String managerName,
                        int detectionInterval,
@@ -54,6 +71,7 @@ public class JobManager {
         this.handler = handler;
         this.detectionInterval = detectionInterval;
     }
+
 
     public static JobManager create(final String managerName,
                                     final int detectionInterval,
@@ -68,9 +86,11 @@ public class JobManager {
         return newManager;
     }
 
+
     public static JobManager get(final String managerName) {
         return activeManagers.get(managerName);
     }
+
 
     public void initialize() throws SchedulerException {
         StdSchedulerFactory factory = new org.quartz.impl.StdSchedulerFactory();
@@ -78,6 +98,7 @@ public class JobManager {
         factory = null;
         scheduler.start();
     }
+
 
     public void initialize(JobStore jobStore, int maxThreads) throws SchedulerException {
         DirectSchedulerFactory factory = DirectSchedulerFactory.getInstance();
@@ -91,6 +112,7 @@ public class JobManager {
         factory = null;
         scheduler.start();
     }
+
 
     public boolean createJob(final WatchRequest request) {
 
@@ -153,6 +175,7 @@ public class JobManager {
         return true;
     }
 
+
     void timeoutDetectionJob(String requestUrl) {
         try {
             Set<JobKey> keys = scheduler.getJobKeys(GroupMatcher.groupEquals("matching" + requestUrl));
@@ -172,6 +195,7 @@ public class JobManager {
             logger.error(ex.getMessage(), ex);
         }
     }
+
 
     public boolean cancelMatchingJob(String requestUrl, final String responseUrl) {
         try {
@@ -201,6 +225,7 @@ public class JobManager {
         return false;
     }
 
+
     public void stop() {
         try {
             scheduler.shutdown();
@@ -208,6 +233,7 @@ public class JobManager {
             logger.error(ex.getMessage(), ex);
         }
     }
+
 
     final boolean callDetectDiffImpl(String url) {
         boolean wasSuccessful = handler.detectDifferences(url);
@@ -236,17 +262,20 @@ public class JobManager {
         return wasSuccessful;
     }
 
+
     final List<Difference> callGetDiffsImpl(String url) {
         return handler.getExistingDifferences(url);
     }
+
 
     final Keyword callBuildKeyword(String keywordInput) {
         return handler.buildKeyword(keywordInput);
     }
 
+
     final boolean responseOk(final String requestUrl,
-                          final String responseUrl,
-                          final Set<DifferenceMatcher.Result> diffs) {
+                             final String responseUrl,
+                             final Set<DifferenceMatcher.Result> diffs) {
         Map<String, Object> jsonResponseMap = new LinkedHashMap<>();
         jsonResponseMap.put("status", "ok");
         jsonResponseMap.put("url", requestUrl);
@@ -257,8 +286,9 @@ public class JobManager {
         return sendResponse(responseUrl, input);
     }
 
+
     final boolean sendTimeoutResponse(final String requestUrl,
-                                   final String responseUrl) {
+                                      final String responseUrl) {
         Map<String, Object> jsonResponseMap = new LinkedHashMap<>();
         jsonResponseMap.put("status", "timeout");
         jsonResponseMap.put("url", requestUrl);
@@ -269,6 +299,7 @@ public class JobManager {
         String input = gsonBuilder.create().toJson(jsonResponseMap);
         return sendResponse(responseUrl, input);
     }
+
 
     private boolean sendResponse(final String responseUrl, final String input) {
         try {

@@ -1,18 +1,34 @@
+/*
+ * Copyright 2014 Ed Duarte
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
 package argus;
 
-import argus.diff.DifferenceDetector;
 import argus.diff.Difference;
+import argus.diff.DifferenceDetector;
 import argus.document.Document;
 import argus.document.DocumentBuilder;
 import argus.document.DocumentCollection;
 import argus.job.JobManager;
 import argus.job.JobManagerHandler;
-import argus.parser.SimpleParser;
-import argus.rest.WatchRequest;
 import argus.keyword.Keyword;
 import argus.keyword.KeywordBuilder;
 import argus.parser.Parser;
 import argus.parser.ParserPool;
+import argus.parser.SimpleParser;
+import argus.rest.WatchRequest;
 import com.mongodb.BulkWriteOperation;
 import com.mongodb.DB;
 import com.mongodb.DBCollection;
@@ -34,12 +50,19 @@ import java.util.stream.Collectors;
 import java.util.stream.StreamSupport;
 
 
+/**
+ * @author Ed Duarte (<a href="mailto:edmiguelduarte@gmail.com">edmiguelduarte@gmail.com</a>)
+ * @version 2.0.0
+ * @since 1.0.0
+ */
 public class Context implements LifeCycle.Listener, JobManagerHandler {
 
     private static final Logger logger = LoggerFactory.getLogger(Context.class);
 
     private static final String DOCUMENTS_DB = "argus_documents_db";
+
     private static final String OCCURRENCES_DB = "argus_occurrences_db";
+
     private static final String DIFFERENCES_DB = "argus_differences_db";
 
     private static final Context instance;
@@ -61,29 +84,35 @@ public class Context implements LifeCycle.Listener, JobManagerHandler {
      * keyword-difference matching.
      */
     private final JobManager jobManager;
+
     /**
      * A parser-pool that contains a set number of parsers. When the last parser
      * from the pool is removed, future parsing workers will be locked until
      * a used parser is placed back in the pool.
      */
     private final ParserPool parserPool;
+
     /**
      * The client for the used MongoDB database.
      */
     private MongoClient mongoClient;
+
     /**
      * The MongoDB database for fetched documents.
      */
     private DB documentsDB;
+
     /**
      * The MongoDB database for parsed occurrences for each document.
      */
     private DB occurrencesDB;
+
     /**
      * The MongoDB database for detected differences between snapshots for each
      * document.
      */
     private DB differencesDB;
+
     /**
      * The collection instance that will contain all imported and processed corpus
      * during the context's execution.
@@ -121,17 +150,21 @@ public class Context implements LifeCycle.Listener, JobManagerHandler {
         parserPool = new ParserPool();
     }
 
+
     public static Context getInstance() {
         return instance;
     }
+
 
     public boolean createJob(final WatchRequest request) {
         return jobManager.createJob(request);
     }
 
+
     public boolean cancelJob(String requestUrl, final String responseUrl) {
         return jobManager.cancelMatchingJob(requestUrl, responseUrl);
     }
+
 
     /**
      * Indexes the specified document and detects differences between an older
@@ -189,6 +222,7 @@ public class Context implements LifeCycle.Listener, JobManagerHandler {
         return true;
     }
 
+
     /**
      * Collects the existing differences that were stored in the database.
      */
@@ -201,6 +235,7 @@ public class Context implements LifeCycle.Listener, JobManagerHandler {
                 .collect(Collectors.toList());
     }
 
+
     /**
      * Removes existing differences for the specified url
      */
@@ -209,6 +244,7 @@ public class Context implements LifeCycle.Listener, JobManagerHandler {
         DBCollection diffColl = differencesDB.getCollection(url);
         diffColl.drop();
     }
+
 
     /**
      * Process and build keyword objects based on this context configuration
@@ -233,25 +269,31 @@ public class Context implements LifeCycle.Listener, JobManagerHandler {
         this.isStoppingEnabled = isStoppingEnabled;
     }
 
+
     public void setIgnoreCase(boolean ignoreCase) {
         this.ignoreCase = ignoreCase;
     }
+
 
     public boolean isStoppingEnabled() {
         return isStoppingEnabled;
     }
 
+
     public boolean isStemmingEnabled() {
         return isStemmingEnabled;
     }
+
 
     public void setStemmingEnabled(boolean isStemmingEnabled) {
         this.isStemmingEnabled = isStemmingEnabled;
     }
 
+
     public boolean isIgnoringCase() {
         return ignoreCase;
     }
+
 
     /**
      * Starts this REST context at the specified port, using the specified number
@@ -332,21 +374,26 @@ public class Context implements LifeCycle.Listener, JobManagerHandler {
         server.join();
     }
 
+
     @Override
     public void lifeCycleStarting(LifeCycle lifeCycle) {
     }
+
 
     @Override
     public void lifeCycleStarted(LifeCycle lifeCycle) {
     }
 
+
     @Override
     public void lifeCycleFailure(LifeCycle lifeCycle, Throwable throwable) {
     }
 
+
     @Override
     public void lifeCycleStopping(LifeCycle lifeCycle) {
     }
+
 
     @Override
     public void lifeCycleStopped(LifeCycle lifeCycle) {

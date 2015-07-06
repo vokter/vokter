@@ -1,3 +1,19 @@
+/*
+ * Copyright 2014 Ed Duarte
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
 package argus.util;
 
 import java.io.File;
@@ -8,25 +24,33 @@ import java.io.OutputStream;
 /**
  * Process connector of an external executable.
  *
- * @author Eduardo Duarte (<a href="mailto:eduardo.miguel.duarte@gmail.com">eduardo.miguel.duarte@gmail.com</a>)
- * @version 1.0
- * @since 1.0
+ * @author Ed Duarte (<a href="mailto:edmiguelduarte@gmail.com">edmiguelduarte@gmail.com</a>)
+ * @version 2.0.0
+ * @since 1.0.0
  */
 public class ProcessWrapper {
 
     private InputStream is;
+
     private OutputStream os;
+
     private OutputStream es;
+
     private Process process;
+
     private Thread tis;
+
     private Thread tos;
+
     private Thread tes;
+
 
     public ProcessWrapper(InputStream is, OutputStream os, OutputStream es) {
         this.is = is;
         this.os = os;
         this.es = es;
     }
+
 
     public void create(File dir, String... command) throws IOException {
         ProcessBuilder pb = new ProcessBuilder(command);
@@ -48,6 +72,7 @@ public class ProcessWrapper {
 //            tes.stop();
 //        });
     }
+
 
     /**
      * Creates a process connector by holding the process launched by the specified
@@ -75,6 +100,7 @@ public class ProcessWrapper {
 //            tes.stop();
 //        });
     }
+
 
     public void destroy() {
         process.destroy();

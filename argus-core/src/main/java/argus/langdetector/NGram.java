@@ -1,3 +1,19 @@
+/*
+ * Copyright 2014 Ed Duarte
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
 package argus.langdetector;
 
 import java.lang.Character.UnicodeBlock;
@@ -13,6 +29,7 @@ import java.util.regex.Pattern;
 class NGram {
 
     public final static int N_GRAM = 3;
+
     public static final HashMap<Character, Character> cjk_map = new HashMap<>();
 
     /**
@@ -147,6 +164,22 @@ class NGram {
             LanguageDetectorMessages.getString("NGram.KANJI_7_37"),
     };
 
+    private static final String LATIN1_EXCLUDED = LanguageDetectorMessages.getString("NGram.LATIN1_EXCLUDE");
+
+    private static final String[] NORMALIZED_VI_CHARS = {
+            LanguageDetectorMessages.getString("NORMALIZED_VI_CHARS_0300"),
+            LanguageDetectorMessages.getString("NORMALIZED_VI_CHARS_0301"),
+            LanguageDetectorMessages.getString("NORMALIZED_VI_CHARS_0303"),
+            LanguageDetectorMessages.getString("NORMALIZED_VI_CHARS_0309"),
+            LanguageDetectorMessages.getString("NORMALIZED_VI_CHARS_0323")};
+
+    private static final String TO_NORMALIZE_VI_CHARS = LanguageDetectorMessages.getString("TO_NORMALIZE_VI_CHARS");
+
+    private static final String DMARK_CLASS = LanguageDetectorMessages.getString("DMARK_CLASS");
+
+    private static final Pattern ALPHABET_WITH_DMARK = Pattern.compile("([" + TO_NORMALIZE_VI_CHARS + "])(["
+            + DMARK_CLASS + "])");
+
     static {
         for (String cjk_list : CJK_CLASS) {
             char representative = cjk_list.charAt(0);
@@ -156,19 +189,10 @@ class NGram {
         }
     }
 
-    private static final String LATIN1_EXCLUDED = LanguageDetectorMessages.getString("NGram.LATIN1_EXCLUDE");
-    private static final String[] NORMALIZED_VI_CHARS = {
-            LanguageDetectorMessages.getString("NORMALIZED_VI_CHARS_0300"),
-            LanguageDetectorMessages.getString("NORMALIZED_VI_CHARS_0301"),
-            LanguageDetectorMessages.getString("NORMALIZED_VI_CHARS_0303"),
-            LanguageDetectorMessages.getString("NORMALIZED_VI_CHARS_0309"),
-            LanguageDetectorMessages.getString("NORMALIZED_VI_CHARS_0323")};
-    private static final String TO_NORMALIZE_VI_CHARS = LanguageDetectorMessages.getString("TO_NORMALIZE_VI_CHARS");
-    private static final String DMARK_CLASS = LanguageDetectorMessages.getString("DMARK_CLASS");
-    private static final Pattern ALPHABET_WITH_DMARK = Pattern.compile("([" + TO_NORMALIZE_VI_CHARS + "])(["
-            + DMARK_CLASS + "])");
     private StringBuffer grams_;
+
     private boolean capitalword_;
+
 
     /**
      * Constructor.
@@ -177,6 +201,7 @@ class NGram {
         grams_ = new StringBuffer(" ");
         capitalword_ = false;
     }
+
 
     /**
      * Character Normalization
@@ -216,6 +241,7 @@ class NGram {
         return ch;
     }
 
+
     /**
      * Normalizer for Vietnamese.
      * Normalize Alphabet + Diacritical Mark(U+03xx) into U+1Exx .
@@ -236,6 +262,7 @@ class NGram {
         m.appendTail(buf);
         return buf.toString();
     }
+
 
     /**
      * Append a character into ngram buffer.
@@ -260,6 +287,7 @@ class NGram {
             capitalword_ = false;
         }
     }
+
 
     /**
      * Get n-Gram

@@ -1,7 +1,23 @@
+/*
+ * Copyright 2014 Ed Duarte
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
 package argus.parser;
 
 import argus.stemmer.Stemmer;
-import argus.stopper.Stopwords;
+import argus.stopper.Stopper;
 import it.unimi.dsi.lang.MutableString;
 
 import java.util.ArrayList;
@@ -12,24 +28,28 @@ import java.util.List;
  * separated by the specified character in the constructor. By default, the
  * tokenization is whitespace-based.
  *
- * @author Eduardo Duarte (<a href="mailto:eduardo.miguel.duarte@gmail.com">eduardo.miguel.duarte@gmail.com</a>)
- * @version 2.0
+ * @author Ed Duarte (<a href="mailto:edmiguelduarte@gmail.com">edmiguelduarte@gmail.com</a>)
+ * @version 2.0.0
+ * @since 1.0.0
  */
 public class SimpleParser implements Parser {
 
     private final char separator;
 
+
     public SimpleParser() {
         this(' ');
     }
+
 
     public SimpleParser(char separator) {
         this.separator = separator;
     }
 
+
     @Override
     public List<Result> parse(final MutableString text,
-                              final Stopwords stopwords,
+                              final Stopper stopper,
                               final Stemmer stemmer,
                               final boolean ignoreCase) {
         List<Result> retrievedTokens = new ArrayList<>();
@@ -70,12 +90,12 @@ public class SimpleParser implements Parser {
             // checks if the text is a stopword
             // if true, do not stem it nor add it to the ParserResult list
             boolean isStopword = false;
-            if (stopwords != null) {
+            if (stopper != null) {
                 MutableString textToTest = termText;
                 if (!ignoreCase) {
                     textToTest = textToTest.copy().toLowerCase();
                 }
-                isStopword = stopwords.isStopword(textToTest);
+                isStopword = stopper.isStopword(textToTest);
             }
             if (!isStopword) {
 
@@ -92,6 +112,7 @@ public class SimpleParser implements Parser {
 
         return retrievedTokens;
     }
+
 
     @Override
     public void close() {

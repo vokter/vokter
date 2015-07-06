@@ -1,3 +1,19 @@
+/*
+ * Copyright 2014 Ed Duarte
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
 package argus.langdetector;
 
 import net.arnx.jsonic.JSON;
@@ -39,13 +55,17 @@ public class LanguageDetectorFactory {
     private static LanguageDetectorFactory instance_ = new LanguageDetectorFactory();
 
     Map<String, double[]> wordLangProbMap;
+
     List<String> langList;
+
     Long seed = null;
+
 
     private LanguageDetectorFactory() {
         wordLangProbMap = new ConcurrentHashMap<>();
         langList = Collections.synchronizedList(new ArrayList<>());
     }
+
 
     /**
      * Load profiles from specified directory.
@@ -58,6 +78,7 @@ public class LanguageDetectorFactory {
     public static void loadProfile(String profileDirectory) throws LanguageDetectorException {
         loadProfile(new File(profileDirectory));
     }
+
 
     /**
      * Load profiles from specified directory.
@@ -94,6 +115,7 @@ public class LanguageDetectorFactory {
         }
     }
 
+
     /**
      * Load profiles from specified directory.
      * This method must be called once before language detection.
@@ -118,6 +140,7 @@ public class LanguageDetectorFactory {
         }
     }
 
+
     public static void addProfile(LanguageProfile profile, int index, int langsize) {
         String lang = profile.name;
         if (instance_.langList.contains(lang)) {
@@ -140,6 +163,7 @@ public class LanguageDetectorFactory {
         }
     }
 
+
     /**
      * Clear loaded language profiles (reinitialization to be available)
      */
@@ -147,6 +171,7 @@ public class LanguageDetectorFactory {
         instance_.langList.clear();
         instance_.wordLangProbMap.clear();
     }
+
 
     /**
      * Construct Detector instance
@@ -161,6 +186,7 @@ public class LanguageDetectorFactory {
         return new LanguageDetector(instance_);
     }
 
+
     /**
      * Construct Detector instance with smoothing parameter
      *
@@ -174,9 +200,11 @@ public class LanguageDetectorFactory {
         return detector;
     }
 
+
     public static void setSeed(long seed) {
         instance_.seed = seed;
     }
+
 
     public static List<String> getLangList() {
         return Collections.unmodifiableList(instance_.langList);

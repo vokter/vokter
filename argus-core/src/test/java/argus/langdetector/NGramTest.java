@@ -1,3 +1,19 @@
+/*
+ * Copyright 2014 Ed Duarte
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
 package argus.langdetector;
 
 import org.junit.After;
@@ -20,12 +36,14 @@ public class NGramTest {
     public void setUp() throws Exception {
     }
 
+
     /**
      * @throws Exception
      */
     @After
     public void tearDown() throws Exception {
     }
+
 
     /**
      * Test method for constants
@@ -35,6 +53,7 @@ public class NGramTest {
         assertThat(NGram.N_GRAM, is(3));
         assertEquals(NGram.N_GRAM, 3);
     }
+
 
     /**
      * Test method for {@link NGram#normalize(char)} with Latin characters
@@ -58,6 +77,7 @@ public class NGramTest {
         assertEquals(NGram.normalize('\u00a0'), ' ');
         assertEquals(NGram.normalize('\u00a1'), '\u00a1');
     }
+
 
     /**
      * Test method for {@link NGram#normalize(char)} with CJK Kanji characters
@@ -91,6 +111,7 @@ public class NGramTest {
         assertEquals(NGram.normalize('\u4E30'), '\u4E30');
     }
 
+
     /**
      * Test method for {@link NGram#normalize(char)} for Romanian characters
      */
@@ -101,6 +122,7 @@ public class NGramTest {
         assertEquals(NGram.normalize('\u0219'), '\u015f');
         assertEquals(NGram.normalize('\u021b'), '\u0163');
     }
+
 
     /**
      * Test method for {@link NGram#get(int)} and {@link NGram#addChar(char)}
@@ -158,6 +180,7 @@ public class NGramTest {
 
     }
 
+
     /**
      * Test method for {@link NGram#get(int)} and {@link NGram#addChar(char)}
      */
@@ -181,6 +204,7 @@ public class NGramTest {
         assertEquals(ngram.get(3), null);
 
     }
+
 
     /**
      * Test method for {@link NGram#get(int)} and {@link NGram#addChar(char)}

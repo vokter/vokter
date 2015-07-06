@@ -1,7 +1,23 @@
+/*
+ * Copyright 2014 Ed Duarte
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
 package argus.parser;
 
 import argus.stemmer.Stemmer;
-import argus.stopper.Stopwords;
+import argus.stopper.Stopper;
 import argus.util.Constants;
 import argus.util.ProcessWrapper;
 import com.aliasi.util.Pair;
@@ -17,26 +33,36 @@ import java.util.List;
  * High performance dependency parser wrapper implementation, currently being used
  * only for tokenization purposes.
  *
- * @author Eduardo Duarte (<a href="mailto:eduardo.miguel.duarte@gmail.com">eduardo.miguel.duarte@gmail.com</a>)
- * @version 1.0
- * @since 1.0
+ * @author Ed Duarte (<a href="mailto:edmiguelduarte@gmail.com">edmiguelduarte@gmail.com</a>)
+ * @version 2.0.0
+ * @since 1.0.0
  */
 public class GeniaParser implements Parser {
 
     private static final Logger logger = LoggerFactory.getLogger(GeniaParser.class);
 
     private static final String BINARY_WIN = "win32.exe";
+
     private static final String BINARY_LIN64 = "./linux64";
+
     private static final String BINARY_LIN32 = "./linux32";
+
     private static final String BINARY_MAC = "./mac64";
 
     private PipedInputStream pis;
+
     private PipedOutputStream sink;
+
     private PipedOutputStream pos;
+
     private PipedInputStream source;
+
     private BufferedReader br;
+
     private BufferedWriter bw;
+
     private ProcessWrapper pc;
+
     private SentenceSplitter splitter;
 
 
@@ -110,7 +136,7 @@ public class GeniaParser implements Parser {
 
     @Override
     public List<Result> parse(final MutableString text,
-                              final Stopwords stopwords,
+                              final Stopper stopper,
                               final Stemmer stemmer,
                               final boolean ignoreCase) {
         List<Result> _results = new ArrayList<>();
@@ -162,12 +188,12 @@ public class GeniaParser implements Parser {
                     // checks if the text is a stopword
                     // if true, do not stem it nor add it to the ParserResult list
                     boolean isStopword = false;
-                    if (stopwords != null) {
+                    if (stopper != null) {
                         MutableString textToTest = tokenText;
                         if (!ignoreCase) {
                             textToTest = textToTest.copy().toLowerCase();
                         }
-                        isStopword = stopwords.isStopword(textToTest);
+                        isStopword = stopper.isStopword(textToTest);
                     }
                     if (!isStopword) {
 

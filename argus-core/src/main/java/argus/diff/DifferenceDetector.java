@@ -1,3 +1,19 @@
+/*
+ * Copyright 2014 Ed Duarte
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
 package argus.diff;
 
 import argus.document.Document;
@@ -15,20 +31,22 @@ import java.util.List;
 import java.util.concurrent.Callable;
 
 /**
- * TODO
- *
- * @author Eduardo Duarte (<a href="mailto:eduardo.miguel.duarte@gmail.com">eduardo.miguel.duarte@gmail.com</a>)
- * @version 1.0
- * @since 1.0
+ * @author Ed Duarte (<a href="mailto:edmiguelduarte@gmail.com">edmiguelduarte@gmail.com</a>)
+ * @version 2.0.0
+ * @since 1.0.0
  */
 public class DifferenceDetector implements Callable<List<Difference>> {
 
     private static final Logger logger = LoggerFactory.getLogger(DifferenceDetector.class);
+
     private static final int SNIPPET_INDEX_OFFSET = 50;
 
     private final Document oldSnapshot;
+
     private final Document newSnapshot;
+
     private final ParserPool parserPool;
+
 
     public DifferenceDetector(final Document oldSnapshot,
                               final Document newSnapshot,
@@ -37,6 +55,7 @@ public class DifferenceDetector implements Callable<List<Difference>> {
         this.newSnapshot = newSnapshot;
         this.parserPool = parserPool;
     }
+
 
     private static String getSnippet(Document d, String occurrenceText, int wordCount) {
         Occurrence occurrence = d.getOccurrence(occurrenceText, wordCount);
@@ -55,6 +74,7 @@ public class DifferenceDetector implements Callable<List<Difference>> {
         }
         return originalContent.substring(snippetStart, snippetEnd);
     }
+
 
     @Override
     public List<Difference> call() {

@@ -1,4 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~ Copyright 2014 Ed Duarte
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~ http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
@@ -7,7 +23,7 @@
 
     <groupId>argus</groupId>
     <artifactId>argus-core</artifactId>
-    <version>1.2.1</version>
+    <version>1.3.0</version>
     <packaging>jar</packaging>
 
     <name>argus-core</name>
@@ -15,8 +31,8 @@
     <developers>
         <developer>
             <id>edduarte</id>
-            <name>Eduardo Duarte</name>
-            <email>eduardo.miguel.duarte@gmail.com</email>
+            <name>Ed Duarte</name>
+            <email>edmiguelduarte@gmail.com</email>
             <roles>
                 <role>architect</role>
                 <role>developer</role>
@@ -28,7 +44,9 @@
     <repositories>
         <repository>
             <id>spotlight-releases-repository</id>
-            <url>https://github.com/dbpedia-spotlight/maven-repo/raw/master/releases</url>
+            <url>
+                https://github.com/dbpedia-spotlight/maven-repo/raw/master/releases
+            </url>
         </repository>
 
         <repository>
@@ -68,11 +86,15 @@
                             <goal>copy-resources</goal>
                         </goals>
                         <configuration>
-                            <outputDirectory>${basedir}/../target/argus-lang-profiles</outputDirectory>
+                            <outputDirectory>
+                                ${basedir}/../target/argus-lang-profiles
+                            </outputDirectory>
                             <overwrite>true</overwrite>
                             <resources>
                                 <resource>
-                                    <directory>${basedir}/../argus-lang-profiles</directory>
+                                    <directory>
+                                        ${basedir}/../argus-lang-profiles
+                                    </directory>
                                 </resource>
                             </resources>
                         </configuration>
@@ -84,11 +106,14 @@
                             <goal>copy-resources</goal>
                         </goals>
                         <configuration>
-                            <outputDirectory>${basedir}/../target/argus-stopwords</outputDirectory>
+                            <outputDirectory>
+                                ${basedir}/../target/argus-stopwords
+                            </outputDirectory>
                             <overwrite>true</overwrite>
                             <resources>
                                 <resource>
-                                    <directory>${basedir}/../argus-stopwords</directory>
+                                    <directory>${basedir}/../argus-stopwords
+                                    </directory>
                                 </resource>
                             </resources>
                         </configuration>
@@ -179,9 +204,11 @@
                                 </filter>
                             </filters>
                             <!-- Additional configuration. -->
-                            <createDependencyReducedPom>true</createDependencyReducedPom>
+                            <createDependencyReducedPom>true
+                            </createDependencyReducedPom>
                             <transformers>
-                                <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
+                                <transformer
+                                    implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
                                     <mainClass>argus.Main</mainClass>
                                 </transformer>
                             </transformers>
@@ -259,7 +286,8 @@
         <maven.compiler.showDeprecations>true</maven.compiler.showDeprecations>
 
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+        <project.reporting.outputEncoding>UTF-8
+        </project.reporting.outputEncoding>
 
         <targetJdk>1.8</targetJdk>
     </properties>

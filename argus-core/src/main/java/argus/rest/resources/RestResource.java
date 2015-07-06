@@ -1,9 +1,25 @@
+/*
+ * Copyright 2014 Ed Duarte
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
 package argus.rest.resources;
 
 import argus.Context;
-import argus.rest.WatchRequest;
 import argus.rest.CancelRequest;
 import argus.rest.RestResponse;
+import argus.rest.WatchRequest;
 import com.google.common.collect.Lists;
 import com.google.gson.Gson;
 import com.google.gson.JsonSyntaxException;
@@ -22,14 +38,15 @@ import java.util.concurrent.ExecutionException;
 /**
  * REST Resource for calls on path "/rest/".
  *
- * @author Eduardo Duarte (<a href="mailto:eduardo.miguel.duarte@gmail.com">eduardo.miguel.duarte@gmail.com</a>)
- * @version 1.0
- * @since 1.0
+ * @author Ed Duarte (<a href="mailto:edmiguelduarte@gmail.com">edmiguelduarte@gmail.com</a>)
+ * @version 2.0.0
+ * @since 1.0.0
  */
 @Path("/")
 public class RestResource {
 
     private static final Logger logger = LoggerFactory.getLogger(RestResource.class);
+
 
     @GET
     @Path("example")
@@ -44,6 +61,7 @@ public class RestResource {
         return new Gson().toJson(watchRequest);
     }
 
+
     @POST
     @Path("testResponse")
     @Consumes(MediaType.APPLICATION_JSON)
@@ -51,6 +69,7 @@ public class RestResource {
         System.out.println("received Argus response: " + responseJSON);
         return Response.ok().build();
     }
+
 
     @POST
     @Path("watch")
@@ -67,7 +86,7 @@ public class RestResource {
                 RestResponse response = new RestResponse(RestResponse.Code.ok, "");
                 return response.toString();
             } else {
-                RestResponse response = new RestResponse(RestResponse.Code.error, ""+
+                RestResponse response = new RestResponse(RestResponse.Code.error, "" +
                         "The request conflicts with a currently active watch " +
                         "job, since the provided document url is already being " +
                         "watched and notified to the provided response url!");
@@ -76,7 +95,7 @@ public class RestResource {
 
         } catch (JsonSyntaxException ex) {
             // the job-request json had an invalid format
-            RestResponse response = new RestResponse(RestResponse.Code.error, ""+
+            RestResponse response = new RestResponse(RestResponse.Code.error, "" +
                     "The request has an invalid format. Must provide a message " +
                     "with the following format:\n" +
                     "{\"documentUrl\": <url-to-watch>, " +
@@ -86,6 +105,7 @@ public class RestResource {
             return response.toString();
         }
     }
+
 
     @POST
     @Path("cancel")
@@ -108,7 +128,7 @@ public class RestResource {
 
         } catch (JsonSyntaxException ex) {
             // the cancel-request json had an invalid format
-            RestResponse response = new RestResponse(RestResponse.Code.error, ""+
+            RestResponse response = new RestResponse(RestResponse.Code.error, "" +
                     "The request has an invalid format. Must provide a message " +
                     "with the following format:\n" +
                     "{\"documentUrl\": <url-to-cancel>, " +

@@ -1,3 +1,19 @@
+/*
+ * Copyright 2014 Ed Duarte
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
 package argus.util;
 
 import argus.Context;
@@ -26,8 +42,9 @@ import java.util.stream.Stream;
  * A static class that reads implementations of the Reader interface, grouped by
  * supported extension, and of the Stemmer interface, grouped by supported language.
  *
- * @author Eduardo Duarte (<a href="mailto:eduardo.miguel.duarte@gmail.com">eduardo.miguel.duarte@gmail.com</a>)
- * @version 1.0
+ * @author Ed Duarte (<a href="mailto:edmiguelduarte@gmail.com">edmiguelduarte@gmail.com</a>)
+ * @version 2.0.0
+ * @since 1.0.0
  */
 public class PluginLoader {
 
@@ -39,6 +56,7 @@ public class PluginLoader {
      * to read supported documents after being fetched.
      */
     private static final Cache<String, Class> existingReaderClasses;
+
     /**
      * The implemented stemmer classes (in the 'stemmers' module) that will be used
      * to stem supported documents after being read and parsed.
@@ -75,6 +93,7 @@ public class PluginLoader {
         }
     }
 
+
     /**
      * Returns an implementation of the Reader interface that is capable of
      * reading the specified content type.
@@ -83,6 +102,7 @@ public class PluginLoader {
         return existingReaderClasses.get(contentType);
     }
 
+
     /**
      * Returns an implementation of the Stemmer interface that is capable of
      * stemming the specified language.
@@ -90,6 +110,7 @@ public class PluginLoader {
     public static Class<? extends Stemmer> getCompatibleStemmer(String language) {
         return existingStemmerClasses.get(language);
     }
+
 
     private static Class loadPlugin(Path pluginFile)
             throws ClassNotFoundException, IOException {
@@ -126,6 +147,7 @@ public class PluginLoader {
 
         return loadedClass;
     }
+
 
     private static class ReaderSource implements CacheSource<String, Class> {
 
@@ -169,6 +191,7 @@ public class PluginLoader {
                 return null;
             }
         }
+
 
         private Class<? extends Reader> loadReader(Path pluginFile) {
             if (pluginFile != null) {
@@ -226,6 +249,7 @@ public class PluginLoader {
             }
         }
 
+
         private Class<? extends Stemmer> loadStemmer(Path pluginFile) {
             if (pluginFile != null) {
                 try {
@@ -249,6 +273,7 @@ public class PluginLoader {
         private CustomClassLoader() {
             super(Context.class.getClassLoader());
         }
+
 
         private Class<?> defineClass(byte[] classData) {
             return super.defineClass(null, classData, 0, classData.length);

@@ -1,3 +1,19 @@
+/*
+ * Copyright 2014 Ed Duarte
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
 package argus.langdetector;
 
 import org.junit.After;
@@ -20,12 +36,14 @@ public class LanguageProfileTest {
     public static void setUpBeforeClass() throws Exception {
     }
 
+
     /**
      * @throws Exception
      */
     @AfterClass
     public static void tearDownAfterClass() throws Exception {
     }
+
 
     /**
      * @throws Exception
@@ -34,12 +52,14 @@ public class LanguageProfileTest {
     public void setUp() throws Exception {
     }
 
+
     /**
      * @throws Exception
      */
     @After
     public void tearDown() throws Exception {
     }
+
 
     /**
      * Test method for {@link LanguageProfile#LanguageProfile()}.
@@ -50,6 +70,7 @@ public class LanguageProfileTest {
         assertEquals(profile.name, null);
     }
 
+
     /**
      * Test method for {@link LanguageProfile#LanguageProfile(String)}.
      */
@@ -58,6 +79,7 @@ public class LanguageProfileTest {
         LanguageProfile profile = new LanguageProfile("en");
         assertEquals(profile.name, "en");
     }
+
 
     /**
      * Test method for {@link LanguageProfile#add(String)}.
@@ -83,6 +105,7 @@ public class LanguageProfileTest {
         assertEquals(profile.freq.get("a"), null); // ignored
     }
 
+
     /**
      * Illegal call test for {@link LanguageProfile#add(String)}
      */
@@ -97,6 +120,7 @@ public class LanguageProfileTest {
         assertEquals(profile.freq.get("abcd"), null); // ignored
 
     }
+
 
     /**
      * Test method for {@link LanguageProfile#omitLessFreq()}.
@@ -119,6 +143,7 @@ public class LanguageProfileTest {
         assertEquals((int) profile.freq.get("\u3042"), 5);
         assertEquals(profile.freq.get("\u3050"), null); // omitted
     }
+
 
     /**
      * Illegal call test for {@link LanguageProfile#omitLessFreq()}.

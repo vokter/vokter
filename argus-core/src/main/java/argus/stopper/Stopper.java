@@ -14,26 +14,23 @@
  * limitations under the License.
  */
 
-package argus.keyword;
+package argus.stopper;
 
-import com.google.gson.JsonElement;
-import com.google.gson.JsonPrimitive;
-import com.google.gson.JsonSerializationContext;
-import com.google.gson.JsonSerializer;
-
-import java.lang.reflect.Type;
+import it.unimi.dsi.lang.MutableString;
 
 /**
+ * Loader module that checks if the received textual state of a term corresponds
+ * to a stopword.
+ *
  * @author Ed Duarte (<a href="mailto:edmiguelduarte@gmail.com">edmiguelduarte@gmail.com</a>)
  * @version 2.0.0
  * @since 1.0.0
  */
-public class KeywordSerializer implements JsonSerializer<Keyword> {
+public interface Stopper {
 
-    @Override
-    public JsonElement serialize(final Keyword src,
-                                 final Type typeOfSrc,
-                                 final JsonSerializationContext context) {
-        return new JsonPrimitive(src.originalInput);
-    }
+    boolean isStopword(MutableString termText);
+
+    boolean isEmpty();
+
+    void destroy();
 }

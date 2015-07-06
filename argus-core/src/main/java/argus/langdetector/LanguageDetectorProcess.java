@@ -1,3 +1,19 @@
+/*
+ * Copyright 2014 Ed Duarte
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
 package argus.langdetector;
 
 import net.arnx.jsonic.JSON;
@@ -29,6 +45,7 @@ import java.util.Set;
 public class LanguageDetectorProcess {
 
     private static final Logger logger = LoggerFactory.getLogger(LanguageDetectorProcess.class);
+
     /**
      * smoothing default parameter (ELE)
      */
@@ -38,9 +55,13 @@ public class LanguageDetectorProcess {
      * for Command line easy parser
      */
     private Map<String, String> opt_with_value = new HashMap<>();
+
     private Map<String, String> values = new HashMap<>();
+
     private Set<String> opt_without_value = new HashSet<>();
+
     private List<String> arg_list = new ArrayList<>();
+
 
     /**
      * Command Line Interface
@@ -66,6 +87,7 @@ public class LanguageDetectorProcess {
         }
     }
 
+
     /**
      * Command line easy parser
      *
@@ -85,14 +107,17 @@ public class LanguageDetectorProcess {
         }
     }
 
+
     private void addOpt(String opt, String key, String value) {
         opt_with_value.put(opt, key);
         values.put(key, value);
     }
 
+
     private String get(String key) {
         return values.get(key);
     }
+
 
     private Long getLong(String key) {
         String value = values.get(key);
@@ -104,6 +129,7 @@ public class LanguageDetectorProcess {
         }
     }
 
+
     private double getDouble(String key, double defaultValue) {
         try {
             return Double.valueOf(values.get(key));
@@ -112,9 +138,11 @@ public class LanguageDetectorProcess {
         }
     }
 
+
     private boolean hasOpt(String opt) {
         return opt_without_value.contains(opt);
     }
+
 
     /**
      * File search (easy glob)
@@ -129,6 +157,7 @@ public class LanguageDetectorProcess {
         }
         return null;
     }
+
 
     /**
      * load profiles
@@ -149,6 +178,7 @@ public class LanguageDetectorProcess {
             return true;
         }
     }
+
 
     /**
      * Generate Language Profile from Wikipedia Abstract Database File
@@ -184,6 +214,7 @@ public class LanguageDetectorProcess {
             }
         }
     }
+
 
     /**
      * Generate Language Profile from Text File
@@ -227,6 +258,7 @@ public class LanguageDetectorProcess {
         }
     }
 
+
     /**
      * Language detection test for each file (--detectlang option)
      * <p>
@@ -256,6 +288,7 @@ public class LanguageDetectorProcess {
 
         }
     }
+
 
     /**
      * Batch Test of Language Detection (--batchtest option)

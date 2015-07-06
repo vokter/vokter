@@ -1,3 +1,19 @@
+/*
+ * Copyright 2014 Ed Duarte
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
 package argus.langdetector;
 
 import java.util.HashMap;
@@ -12,16 +28,22 @@ import java.util.Set;
  */
 class LanguageProfile {
     private static final int MINIMUM_FREQ = 2;
+
     private static final int LESS_FREQ_RATIO = 100000;
+
     public String name = null;
+
     public Map<String, Integer> freq = new HashMap<>();
+
     public int[] n_words = new int[NGram.N_GRAM];
+
 
     /**
      * Constructor for JSONIC
      */
     public LanguageProfile() {
     }
+
 
     /**
      * Normal Constructor
@@ -31,6 +53,7 @@ class LanguageProfile {
     public LanguageProfile(String name) {
         this.name = name;
     }
+
 
     /**
      * Add n-gram to profile
@@ -48,6 +71,7 @@ class LanguageProfile {
             freq.put(gram, 1);
         }
     }
+
 
     /**
      * Eliminate below less frequency n-grams and noise Latin alphabets
@@ -85,6 +109,7 @@ class LanguageProfile {
 
         }
     }
+
 
     /**
      * Update the language profile with (fragmented) text.

@@ -1,3 +1,19 @@
+/*
+ * Copyright 2014 Ed Duarte
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
 package argus.langdetector;
 
 import org.junit.After;
@@ -20,12 +36,14 @@ public class TagExtractorTest {
     public static void setUpBeforeClass() throws Exception {
     }
 
+
     /**
      * @throws Exception
      */
     @AfterClass
     public static void tearDownAfterClass() throws Exception {
     }
+
 
     /**
      * @throws Exception
@@ -34,12 +52,14 @@ public class TagExtractorTest {
     public void setUp() throws Exception {
     }
 
+
     /**
      * @throws Exception
      */
     @After
     public void tearDown() throws Exception {
     }
+
 
     /**
      * Test method for {@link TagExtractor#TagExtractor(String, int)}.
@@ -55,6 +75,7 @@ public class TagExtractorTest {
         assertEquals(extractor2.threshold_, 10);
     }
 
+
     /**
      * Test method for {@link TagExtractor#setTag(String)}.
      */
@@ -67,6 +88,7 @@ public class TagExtractorTest {
         assertEquals(extractor.getTag(), null);
     }
 
+
     /**
      * Test method for {@link TagExtractor#add(String)}.
      */
@@ -76,6 +98,7 @@ public class TagExtractorTest {
         extractor.add("");
         extractor.add(null);    // ignore
     }
+
 
     /**
      * Test method for {@link TagExtractor#closeTag()}.
@@ -118,6 +141,7 @@ public class TagExtractorTest {
         profile.update(extractor.closeTag());
         assertEquals(extractor.count(), 1);
     }
+
 
     /**
      * Test method for {@link TagExtractor#clear()}.

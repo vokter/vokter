@@ -1,3 +1,19 @@
+/*
+ * Copyright 2014 Ed Duarte
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
 package argus.document;
 
 import argus.parser.Parser;
@@ -25,8 +41,9 @@ import java.util.function.Supplier;
  * This class is a merge of the CorpusLoader class and the Processor classes from
  * the previous assignment.
  *
- * @author Eduardo Duarte (<a href="mailto:eduardo.miguel.duarte@gmail.com">eduardo.miguel.duarte@gmail.com</a>)
- * @version 1.0
+ * @author Ed Duarte (<a href="mailto:edmiguelduarte@gmail.com">edmiguelduarte@gmail.com</a>)
+ * @version 2.0.0
+ * @since 1.0.0
  */
 public final class DocumentBuilder {
 
@@ -52,9 +69,11 @@ public final class DocumentBuilder {
      */
     private boolean ignoreCase = false;
 
+
     private DocumentBuilder(final Supplier<DocumentInput> documentLazySupplier) {
         this.documentLazySupplier = documentLazySupplier;
     }
+
 
     /**
      * Instantiates a loader that collects a document from a
@@ -81,6 +100,7 @@ public final class DocumentBuilder {
         });
     }
 
+
     /**
      * Instantiates a loader that collects a document from a
      * specified input stream. This constructor is mostly used for testing.
@@ -99,20 +119,24 @@ public final class DocumentBuilder {
         });
     }
 
+
     public DocumentBuilder withStopwords() {
         this.isStoppingEnabled = true;
         return this;
     }
+
 
     public DocumentBuilder withStemming() {
         this.isStemmingEnabled = true;
         return this;
     }
 
+
     public DocumentBuilder ignoreCase() {
         this.ignoreCase = true;
         return this;
     }
+
 
     /**
      * Indexes the documents specified in the factory method and adds the index

@@ -1,3 +1,19 @@
+/*
+ * Copyright 2014 Ed Duarte
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
 package argus.langdetector;
 
 import org.slf4j.Logger;
@@ -39,29 +55,43 @@ public class LanguageDetector {
     private static final Logger logger = LoggerFactory.getLogger(LanguageDetector.class);
 
     private static final double ALPHA_DEFAULT = 0.5;
+
     private static final double ALPHA_WIDTH = 0.05;
 
     private static final int ITERATION_LIMIT = 1000;
+
     private static final double PROB_THRESHOLD = 0.1;
+
     private static final double CONV_THRESHOLD = 0.99999;
+
     private static final int BASE_FREQ = 10000;
+
     private static final String UNKNOWN_LANG = "unknown";
 
     private static final Pattern URL_REGEX = Pattern.compile("https?://[-_.?&~;+=/#0-9A-Za-z]{1,2076}");
+
     private static final Pattern MAIL_REGEX = Pattern.compile("[-_.0-9A-Za-z]{1,64}@[-_0-9A-Za-z]{1,255}[-_.0-9A-Za-z]{1,255}");
 
     private final Map<String, double[]> wordLangProbMap;
+
     private final List<String> langList;
 
     private StringBuffer text;
+
     private double[] langprob = null;
 
     private double alpha = ALPHA_DEFAULT;
+
     private int n_trial = 7;
+
     private int max_text_length = 10000;
+
     private double[] priorMap = null;
+
     private boolean verbose = false;
+
     private Long seed = null;
+
 
     /**
      * Constructor.
@@ -75,6 +105,7 @@ public class LanguageDetector {
         this.text = new StringBuffer();
         this.seed = factory.seed;
     }
+
 
     /**
      * normalize probabilities and check convergence by the maximum probability
@@ -91,6 +122,7 @@ public class LanguageDetector {
         }
         return maxp;
     }
+
 
     /**
      * unicode encoding (for verbose mode)
@@ -110,12 +142,14 @@ public class LanguageDetector {
         return buf.toString();
     }
 
+
     /**
      * Set Verbose Mode(use for debug).
      */
     public void setVerbose() {
         this.verbose = true;
     }
+
 
     /**
      * Set smoothing parameter.
@@ -126,6 +160,7 @@ public class LanguageDetector {
     public void setAlpha(double alpha) {
         this.alpha = alpha;
     }
+
 
     /**
      * Set prior information about language probabilities.
@@ -155,6 +190,7 @@ public class LanguageDetector {
         }
     }
 
+
     /**
      * Specify max size of target text to use for language detection.
      * The default value is 10000(10KB).
@@ -164,6 +200,7 @@ public class LanguageDetector {
     public void setMaxTextLength(int max_text_length) {
         this.max_text_length = max_text_length;
     }
+
 
     /**
      * Append the target text for language detection.
@@ -181,6 +218,7 @@ public class LanguageDetector {
             append(new String(buf, 0, length));
         }
     }
+
 
     /**
      * Append the target text for language detection.
@@ -200,6 +238,7 @@ public class LanguageDetector {
             pre = c;
         }
     }
+
 
     /**
      * Cleaning text to detect
@@ -226,6 +265,7 @@ public class LanguageDetector {
         }
     }
 
+
     /**
      * Detect language of the target text and return the language name which has the highest probability.
      *
@@ -240,6 +280,7 @@ public class LanguageDetector {
         return UNKNOWN_LANG;
     }
 
+
     /**
      * Get language candidates which have high probabilities
      *
@@ -252,6 +293,7 @@ public class LanguageDetector {
         }
         return sortProbability(langprob);
     }
+
 
     private void detectBlock() throws LanguageDetectorException {
         cleaningText();
@@ -288,6 +330,7 @@ public class LanguageDetector {
         }
     }
 
+
     /**
      * Initialize the map of language probabilities.
      * If there is the specified prior map, use it as initial map.
@@ -299,10 +342,12 @@ public class LanguageDetector {
         if (priorMap != null) {
             for (int i = 0; i < prob.length; ++i) prob[i] = priorMap[i];
         } else {
-            for (int i = 0; i < prob.length; ++i) prob[i] = 1.0 / langList.size();
+            for (int i = 0; i < prob.length; ++i)
+                prob[i] = 1.0 / langList.size();
         }
         return prob;
     }
+
 
     /**
      * Extract n-grams from target text
@@ -321,6 +366,7 @@ public class LanguageDetector {
         }
         return list;
     }
+
 
     /**
      * update language probabilities with N-gram string(N=1,2,3)
@@ -342,6 +388,7 @@ public class LanguageDetector {
         return true;
     }
 
+
     private String wordProbToString(double[] prob) {
         Formatter formatter = new Formatter();
         for (int j = 0; j < prob.length; ++j) {
@@ -354,6 +401,7 @@ public class LanguageDetector {
         formatter.close();
         return string;
     }
+
 
     /**
      * @return language candidates order by probabilities descendently

@@ -1,3 +1,19 @@
+/*
+ * Copyright 2014 Ed Duarte
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
 package argus.diff;
 
 import argus.keyword.Keyword;
@@ -21,16 +37,18 @@ import java.util.stream.Collectors;
 import static org.junit.Assert.assertEquals;
 
 /**
- * @author Eduardo Duarte (<a href="mailto:eduardo.miguel.duarte@gmail.com">eduardo.miguel.duarte@gmail.com</a>)
- * @version 1.0
- * @since 1.0
+ * @author Ed Duarte (<a href="mailto:edmiguelduarte@gmail.com">edmiguelduarte@gmail.com</a>)
+ * @version 2.0.0
+ * @since 1.0.0
  */
 public class DifferenceMatcherTest {
 
     private static final Logger logger = LoggerFactory.getLogger(DifferenceMatcherTest.class);
 
     private static MongoClient mongoClient;
+
     private static DB occurrencesDB;
+
     private static ParserPool parserPool;
 
 
@@ -42,11 +60,13 @@ public class DifferenceMatcherTest {
         parserPool.place(new SimpleParser());
     }
 
+
     @AfterClass
     public static void close() {
         occurrencesDB.dropDatabase();
         mongoClient.close();
     }
+
 
     @Test
     public void testSimple() {
@@ -75,6 +95,7 @@ public class DifferenceMatcherTest {
         Set<DifferenceMatcher.Result> matchSet = matcher.call();
         assertEquals(2, matchSet.size());
     }
+
 
     @Test
     public void testBBCNews() {
