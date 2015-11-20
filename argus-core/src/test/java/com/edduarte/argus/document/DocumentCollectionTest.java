@@ -14,11 +14,8 @@
  * limitations under the License.
  */
 
-package argus.document;
+package com.edduarte.argus.document;
 
-import com.edduarte.argus.document.Document;
-import com.edduarte.argus.document.DocumentBuilder;
-import com.edduarte.argus.document.DocumentCollection;
 import com.edduarte.argus.parser.ParserPool;
 import com.edduarte.argus.parser.SimpleParser;
 import com.mongodb.DB;

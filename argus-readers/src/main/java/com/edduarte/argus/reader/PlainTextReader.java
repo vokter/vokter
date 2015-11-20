@@ -28,10 +28,10 @@ import java.io.InputStreamReader;
  * A reader class that supports reading documents in plain-text format.
  *
  * @author Ed Duarte (<a href="mailto:ed@edduarte.com">ed@edduarte.com</a>)
- * @version 2.0.0
+ * @version 1.3.0
  * @since 1.0.0
  */
-public class PlainTextReader implements argus.reader.Reader {
+public class PlainTextReader implements com.edduarte.argus.reader.Reader {
 
     @Override
     public MutableString readDocumentContents(InputStream documentStream) throws IOException {

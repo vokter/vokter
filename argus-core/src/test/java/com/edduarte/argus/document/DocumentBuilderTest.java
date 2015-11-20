@@ -1,7 +1,6 @@
-package argus.document;
+package com.edduarte.argus.document;
 
-import argus.parser.GeniaParser;
-import argus.parser.ParserPool;
+import com.edduarte.argus.parser.ParserPool;
 import com.mongodb.DB;
 import com.mongodb.MongoClient;
 import org.junit.AfterClass;
@@ -29,7 +28,6 @@ public class DocumentBuilderTest {
     public static void setUp() throws IOException, InterruptedException {
         mongoClient = new MongoClient("localhost", 27017);
         parserPool = new ParserPool();
-        parserPool.place(new GeniaParser());
     }
 
 

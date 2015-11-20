@@ -14,10 +14,8 @@
  * limitations under the License.
  */
 
-package argus.diff;
+package com.edduarte.argus.diff;
 
-import com.edduarte.argus.diff.Difference;
-import com.edduarte.argus.diff.DifferenceDetector;
 import com.edduarte.argus.document.Document;
 import com.edduarte.argus.document.DocumentBuilder;
 import com.edduarte.argus.parser.ParserPool;

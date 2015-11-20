@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package argus.diff;
+package com.edduarte.argus.diff;
 
 import com.edduarte.argus.diff.DiffMatchPatch;
 import com.edduarte.argus.diff.DiffMatchPatch.Diff;

@@ -33,10 +33,10 @@ import java.io.InputStream;
  * A reader class that supports reading documents in the XML format.
  *
  * @author Ed Duarte (<a href="mailto:ed@edduarte.com">ed@edduarte.com</a>)
- * @version 2.0.0
+ * @version 1.3.0
  * @since 1.0.0
  */
-public class MarkupReader implements argus.reader.Reader, NodeVisitor {
+public class MarkupReader implements com.edduarte.argus.reader.Reader, NodeVisitor {
 
     private final StringBuilder accumulator;
     private int width;

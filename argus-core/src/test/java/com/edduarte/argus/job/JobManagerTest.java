@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package argus.job;
+package com.edduarte.argus.job;
 
 import com.edduarte.argus.diff.Difference;
 import com.edduarte.argus.diff.DifferenceDetector;
@@ -209,9 +209,7 @@ public class JobManagerTest {
         wasCreated = manager.createJob(new WatchRequest(
                 "testRequestUrl",
                 "http://www.google.pt",
-                Lists.newArrayList(
-                        "argus"
-                ),
+                Lists.newArrayList("argus"),
                 15));
         assertTrue(wasCreated);
         System.out.println("added new job");
