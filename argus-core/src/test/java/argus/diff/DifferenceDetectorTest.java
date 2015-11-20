@@ -16,10 +16,12 @@
 
 package argus.diff;
 
-import argus.document.Document;
-import argus.document.DocumentBuilder;
-import argus.parser.ParserPool;
-import argus.parser.SimpleParser;
+import com.edduarte.argus.diff.Difference;
+import com.edduarte.argus.diff.DifferenceDetector;
+import com.edduarte.argus.document.Document;
+import com.edduarte.argus.document.DocumentBuilder;
+import com.edduarte.argus.parser.ParserPool;
+import com.edduarte.argus.parser.SimpleParser;
 import com.mongodb.DB;
 import com.mongodb.MongoClient;
 import org.apache.commons.io.IOUtils;
@@ -36,8 +38,8 @@ import java.util.List;
 import static org.junit.Assert.assertEquals;
 
 /**
- * @author Ed Duarte (<a href="mailto:edmiguelduarte@gmail.com">edmiguelduarte@gmail.com</a>)
- * @version 2.0.0
+ * @author Ed Duarte (<a href="mailto:ed@edduarte.com">ed@edduarte.com</a>)
+ * @version 1.3.0
  * @since 1.0.0
  */
 public class DifferenceDetectorTest {

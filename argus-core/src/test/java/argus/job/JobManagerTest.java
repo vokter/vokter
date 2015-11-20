@@ -16,16 +16,18 @@
 
 package argus.job;
 
-import argus.diff.Difference;
-import argus.diff.DifferenceDetector;
-import argus.document.Document;
-import argus.document.DocumentBuilder;
-import argus.document.DocumentCollection;
-import argus.keyword.Keyword;
-import argus.keyword.KeywordBuilder;
-import argus.parser.ParserPool;
-import argus.parser.SimpleParser;
-import argus.rest.WatchRequest;
+import com.edduarte.argus.diff.Difference;
+import com.edduarte.argus.diff.DifferenceDetector;
+import com.edduarte.argus.document.Document;
+import com.edduarte.argus.document.DocumentBuilder;
+import com.edduarte.argus.document.DocumentCollection;
+import com.edduarte.argus.job.JobManager;
+import com.edduarte.argus.job.JobManagerHandler;
+import com.edduarte.argus.keyword.Keyword;
+import com.edduarte.argus.keyword.KeywordBuilder;
+import com.edduarte.argus.parser.ParserPool;
+import com.edduarte.argus.parser.SimpleParser;
+import com.edduarte.argus.rest.WatchRequest;
 import com.google.common.collect.Lists;
 import com.mongodb.BulkWriteOperation;
 import com.mongodb.DB;
@@ -48,8 +50,8 @@ import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
 
 /**
- * @author Ed Duarte (<a href="mailto:edmiguelduarte@gmail.com">edmiguelduarte@gmail.com</a>)
- * @version 2.0.0
+ * @author Ed Duarte (<a href="mailto:ed@edduarte.com">ed@edduarte.com</a>)
+ * @version 1.3.0
  * @since 1.0.0
  */
 public class JobManagerTest {

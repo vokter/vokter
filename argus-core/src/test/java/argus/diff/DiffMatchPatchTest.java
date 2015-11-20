@@ -16,8 +16,10 @@
 
 package argus.diff;
 
-import argus.diff.DiffMatchPatch.Diff;
-import argus.diff.DiffMatchPatch.Patch;
+import com.edduarte.argus.diff.DiffMatchPatch;
+import com.edduarte.argus.diff.DiffMatchPatch.Diff;
+import com.edduarte.argus.diff.DiffMatchPatch.Patch;
+import com.edduarte.argus.diff.DifferenceAction;
 import org.junit.Before;
 import org.junit.Test;
 
@@ -28,12 +30,12 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
 
-import static argus.diff.DiffMatchPatch.LinesToCharsResult;
+import static com.edduarte.argus.diff.DiffMatchPatch.LinesToCharsResult;
 import static org.junit.Assert.*;
 
 /**
- * @author Ed Duarte (<a href="mailto:edmiguelduarte@gmail.com">edmiguelduarte@gmail.com</a>)
- * @version 2.0.0
+ * @author Ed Duarte (<a href="mailto:ed@edduarte.com">ed@edduarte.com</a>)
+ * @version 1.3.0
  * @since 1.0.0
  */
 public class DiffMatchPatchTest {

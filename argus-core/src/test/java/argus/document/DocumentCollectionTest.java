@@ -16,8 +16,11 @@
 
 package argus.document;
 
-import argus.parser.ParserPool;
-import argus.parser.SimpleParser;
+import com.edduarte.argus.document.Document;
+import com.edduarte.argus.document.DocumentBuilder;
+import com.edduarte.argus.document.DocumentCollection;
+import com.edduarte.argus.parser.ParserPool;
+import com.edduarte.argus.parser.SimpleParser;
 import com.mongodb.DB;
 import com.mongodb.MongoClient;
 import org.junit.AfterClass;
@@ -32,8 +35,8 @@ import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertNull;
 
 /**
- * @author Ed Duarte (<a href="mailto:edmiguelduarte@gmail.com">edmiguelduarte@gmail.com</a>)
- * @version 2.0.0
+ * @author Ed Duarte (<a href="mailto:ed@edduarte.com">ed@edduarte.com</a>)
+ * @version 1.3.0
  * @since 1.0.0
  */
 public class DocumentCollectionTest {

@@ -16,10 +16,13 @@
 
 package argus.diff;
 
-import argus.keyword.Keyword;
-import argus.keyword.KeywordBuilder;
-import argus.parser.ParserPool;
-import argus.parser.SimpleParser;
+import com.edduarte.argus.diff.Difference;
+import com.edduarte.argus.diff.DifferenceAction;
+import com.edduarte.argus.diff.DifferenceMatcher;
+import com.edduarte.argus.keyword.Keyword;
+import com.edduarte.argus.keyword.KeywordBuilder;
+import com.edduarte.argus.parser.ParserPool;
+import com.edduarte.argus.parser.SimpleParser;
 import com.google.common.collect.Lists;
 import com.mongodb.DB;
 import com.mongodb.MongoClient;
@@ -37,8 +40,8 @@ import java.util.stream.Collectors;
 import static org.junit.Assert.assertEquals;
 
 /**
- * @author Ed Duarte (<a href="mailto:edmiguelduarte@gmail.com">edmiguelduarte@gmail.com</a>)
- * @version 2.0.0
+ * @author Ed Duarte (<a href="mailto:ed@edduarte.com">ed@edduarte.com</a>)
+ * @version 1.3.0
  * @since 1.0.0
  */
 public class DifferenceMatcherTest {
