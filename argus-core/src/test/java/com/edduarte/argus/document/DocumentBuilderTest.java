@@ -44,7 +44,7 @@ public class DocumentBuilderTest {
         DB occurrencesDB = mongoClient.getDB("test_terms_db");
 
         DocumentBuilder
-                .fromUrl("http://en.wikipedia.org/wiki/Argus_Panoptes")
+                .fromUrl("https://en.wikipedia.org/wiki/Argus_Panoptes")
                 .ignoreCase()
                 .build(occurrencesDB, parserPool);
         occurrencesDB.dropDatabase();
@@ -55,7 +55,7 @@ public class DocumentBuilderTest {
         DB occurrencesDB = mongoClient.getDB("test_terms_db");
 
         DocumentBuilder
-                .fromUrl("http://en.wikipedia.org/wiki/Special:Export/Argus_Panoptes")
+                .fromUrl("https://en.wikipedia.org/wiki/Special:Export/Argus_Panoptes")
                 .ignoreCase()
                 .build(occurrencesDB, parserPool);
         occurrencesDB.dropDatabase();
@@ -69,7 +69,7 @@ public class DocumentBuilderTest {
         DB occurrencesDB = mongoClient.getDB("test_terms_db");
 
         DocumentBuilder
-                .fromUrl("http://en.wikipedia.org/w/api.php?format=json&action=query&titles=Argus_Panoptes&prop=revisions&rvprop=content")
+                .fromUrl("https://en.wikipedia.org/w/api.php?format=json&action=query&titles=Argus_Panoptes&prop=revisions&rvprop=content")
                 .ignoreCase()
                 .build(occurrencesDB, parserPool);
         occurrencesDB.dropDatabase();
@@ -80,7 +80,7 @@ public class DocumentBuilderTest {
         DB occurrencesDB = mongoClient.getDB("test_terms_db");
 
         DocumentBuilder
-                .fromUrl("http://en.wikipedia.org/wiki/Argus_Panoptes")
+                .fromUrl("https://en.wikipedia.org/wiki/Argus_Panoptes")
                 .ignoreCase()
                 .withStopwords()
                 .build(occurrencesDB, parserPool);
@@ -92,7 +92,7 @@ public class DocumentBuilderTest {
         DB occurrencesDB = mongoClient.getDB("test_terms_db");
 
         DocumentBuilder
-                .fromUrl("http://en.wikipedia.org/wiki/Special:Export/Argus_Panoptes")
+                .fromUrl("https://en.wikipedia.org/wiki/Special:Export/Argus_Panoptes")
                 .ignoreCase()
                 .withStopwords()
                 .build(occurrencesDB, parserPool);
@@ -107,7 +107,7 @@ public class DocumentBuilderTest {
         DB occurrencesDB = mongoClient.getDB("test_terms_db");
 
         DocumentBuilder
-                .fromUrl("http://en.wikipedia.org/w/api.php?format=json&action=query&titles=Argus_Panoptes&prop=revisions&rvprop=content")
+                .fromUrl("https://en.wikipedia.org/w/api.php?format=json&action=query&titles=Argus_Panoptes&prop=revisions&rvprop=content")
                 .ignoreCase()
                 .withStopwords()
                 .build(occurrencesDB, parserPool);
@@ -119,7 +119,7 @@ public class DocumentBuilderTest {
         DB occurrencesDB = mongoClient.getDB("test_terms_db");
 
         DocumentBuilder
-                .fromUrl("http://en.wikipedia.org/wiki/Argus_Panoptes")
+                .fromUrl("https://en.wikipedia.org/wiki/Argus_Panoptes")
                 .ignoreCase()
                 .withStopwords()
                 .withStemming()
@@ -132,7 +132,7 @@ public class DocumentBuilderTest {
         DB occurrencesDB = mongoClient.getDB("test_terms_db");
 
         DocumentBuilder
-                .fromUrl("http://en.wikipedia.org/wiki/Special:Export/Argus_Panoptes")
+                .fromUrl("https://en.wikipedia.org/wiki/Special:Export/Argus_Panoptes")
                 .ignoreCase()
                 .withStopwords()
                 .withStemming()
@@ -145,7 +145,7 @@ public class DocumentBuilderTest {
         DB occurrencesDB = mongoClient.getDB("test_terms_db");
 
         DocumentBuilder
-                .fromUrl("http://en.wikipedia.org/w/api.php?format=json&action=query&titles=Argus_Panoptes&prop=revisions&rvprop=content")
+                .fromUrl("https://en.wikipedia.org/w/api.php?format=json&action=query&titles=Argus_Panoptes&prop=revisions&rvprop=content")
                 .ignoreCase()
                 .withStopwords()
                 .withStemming()

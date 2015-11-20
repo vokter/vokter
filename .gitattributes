@@ -2,3 +2,5 @@ argus-core/src/main/java/argus/stemmer/snowball/* linguist-vendored
 argus-core/src/main/java/argus/stemmer/diff/DiffMatchPatch.java linguist-vendored
 argus-stemmers/* linguist-vendored
 argus-stopwords/* linguist-vendored
+argus-core/src/test/resources/* linguist-vendored
+argus-readers/src/test/resources/* linguist-vendored
