@@ -5,9 +5,9 @@
                              http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>argus</groupId>
+    <groupId>com.edduarte</groupId>
     <artifactId>argus-stemmers</artifactId>
-    <version>1.2.1</version>
+    <version>1.3.0</version>
 
     <name>argus-stemmers</name>
 
@@ -15,7 +15,7 @@
         <developer>
             <id>edduarte</id>
             <name>Ed Duarte</name>
-            <email>edmiguelduarte@gmail.com</email>
+            <email>ed@edduarte.com</email>
             <roles>
                 <role>core developer</role>
             </roles>
@@ -74,11 +74,11 @@
     <dependencies>
 
         <dependency>
-            <groupId>argus</groupId>
+            <groupId>com.edduarte</groupId>
             <artifactId>argus-core</artifactId>
-            <version>1.2.1</version>
+            <version>1.3.0</version>
             <scope>system</scope>
-            <systemPath>${project.basedir}/../target/argus-core-1.2.1.jar</systemPath>
+            <systemPath>${project.basedir}/../target/argus-core-1.3.0.jar</systemPath>
         </dependency>
 
     </dependencies>

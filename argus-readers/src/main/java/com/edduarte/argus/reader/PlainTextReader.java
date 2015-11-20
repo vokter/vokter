@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package argus.reader;
+package com.edduarte.argus.reader;
 
 import com.google.common.collect.ImmutableSet;
 import it.unimi.dsi.lang.MutableString;
@@ -27,7 +27,7 @@ import java.io.InputStreamReader;
 /**
  * A reader class that supports reading documents in plain-text format.
  *
- * @author Ed Duarte (<a href="mailto:edmiguelduarte@gmail.com">edmiguelduarte@gmail.com</a>)
+ * @author Ed Duarte (<a href="mailto:ed@edduarte.com">ed@edduarte.com</a>)
  * @version 2.0.0
  * @since 1.0.0
  */
