@@ -187,7 +187,7 @@ public class JobManagerTest {
 
         boolean wasCreated = manager.createJob(new WatchRequest(
                 "testRequestUrl",
-                "http://www.google.com",
+                "https://www.google.com",
                 Lists.newArrayList("the greek", "argus panoptes"),
                 10
         ));
@@ -202,13 +202,13 @@ public class JobManagerTest {
 
         wasCreated = manager.createJob(new WatchRequest(
                 "testRequestUrl",
-                "http://www.google.com",
+                "https://www.google.com",
                 Lists.newArrayList("argus"),
                 15));
         assertFalse(wasCreated);
         wasCreated = manager.createJob(new WatchRequest(
                 "testRequestUrl",
-                "http://www.google.pt",
+                "https://www.google.pt",
                 Lists.newArrayList("argus"),
                 15));
         assertTrue(wasCreated);
@@ -216,15 +216,15 @@ public class JobManagerTest {
         Thread.sleep(30000);
 
 
-        manager.cancelMatchingJob("testRequestUrl", "http://www.google.com");
-        manager.cancelMatchingJob("testRequestUrl", "http://www.google.pt");
+        manager.cancelMatchingJob("testRequestUrl", "https://www.google.com");
+        manager.cancelMatchingJob("testRequestUrl", "https://www.google.pt");
         System.out.println("canceled all jobs");
         Thread.sleep(30000);
 
 
         wasCreated = manager.createJob(new WatchRequest(
                 "testRequestUrl",
-                "http://www.google.com",
+                "https://www.google.com",
                 Lists.newArrayList("the greek", "argus panoptes"),
                 10
         ));

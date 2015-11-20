@@ -91,7 +91,7 @@ public class JobManager {
 
 
     public void initialize() throws SchedulerException {
-        StdSchedulerFactory factory = new org.quartz.impl.StdSchedulerFactory();
+        StdSchedulerFactory factory = new StdSchedulerFactory();
         scheduler = factory.getScheduler();
         factory = null;
         scheduler.start();
