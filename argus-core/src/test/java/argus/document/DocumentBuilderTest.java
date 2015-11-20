@@ -1,24 +1,7 @@
-/*
- * Copyright 2014 Ed Duarte
- *
- * Licensed under the Apache License, Version 2.0 (the "License");
- * you may not use this file except in compliance with the License.
- * You may obtain a copy of the License at
- *
- * http://www.apache.org/licenses/LICENSE-2.0
- *
- * Unless required by applicable law or agreed to in writing, software
- * distributed under the License is distributed on an "AS IS" BASIS,
- * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- * See the License for the specific language governing permissions and
- * limitations under the License.
- */
-
 package argus.document;
 
-import com.edduarte.argus.document.DocumentBuilder;
-import com.edduarte.argus.parser.ParserPool;
-import com.edduarte.argus.parser.SimpleParser;
+import argus.parser.GeniaParser;
+import argus.parser.ParserPool;
 import com.mongodb.DB;
 import com.mongodb.MongoClient;
 import org.junit.AfterClass;
@@ -30,16 +13,15 @@ import org.slf4j.LoggerFactory;
 import java.io.IOException;
 
 /**
- * @author Ed Duarte (<a href="mailto:ed@edduarte.com">ed@edduarte.com</a>)
- * @version 1.3.0
- * @since 1.0.0
+ * @author Eduardo Duarte (<a href="mailto:eduardo.miguel.duarte@gmail.com">eduardo.miguel.duarte@gmail.com</a>)
+ * @version 1.0
+ * @since 1.0
  */
 public class DocumentBuilderTest {
 
     private static final Logger logger = LoggerFactory.getLogger(DocumentBuilderTest.class);
 
     private static MongoClient mongoClient;
-
     private static ParserPool parserPool;
 
 
@@ -47,19 +29,17 @@ public class DocumentBuilderTest {
     public static void setUp() throws IOException, InterruptedException {
         mongoClient = new MongoClient("localhost", 27017);
         parserPool = new ParserPool();
-        parserPool.place(new SimpleParser());
+        parserPool.place(new GeniaParser());
     }
 
 
     // without stopwords and without stemming
-
 
     @AfterClass
     public static void close() {
         parserPool.clear();
         mongoClient.close();
     }
-
 
     @Test
     public void testHTMLNoStopNoStem() {
@@ -71,7 +51,6 @@ public class DocumentBuilderTest {
                 .build(occurrencesDB, parserPool);
         occurrencesDB.dropDatabase();
     }
-
 
     @Test
     public void testXMLNoStopNoStem() {
@@ -87,7 +66,6 @@ public class DocumentBuilderTest {
 
     // with stopwords and without stemming
 
-
     @Test
     public void testJSONNoStopNoStem() {
         DB occurrencesDB = mongoClient.getDB("test_terms_db");
@@ -98,7 +76,6 @@ public class DocumentBuilderTest {
                 .build(occurrencesDB, parserPool);
         occurrencesDB.dropDatabase();
     }
-
 
     @Test
     public void testHTMLStopNoStem() {
@@ -111,7 +88,6 @@ public class DocumentBuilderTest {
                 .build(occurrencesDB, parserPool);
         occurrencesDB.dropDatabase();
     }
-
 
     @Test
     public void testXMLStopNoStem() {
@@ -128,7 +104,6 @@ public class DocumentBuilderTest {
 
     // with stopwords and with stemming
 
-
     @Test
     public void testJSONStopNoStem() {
         DB occurrencesDB = mongoClient.getDB("test_terms_db");
@@ -140,7 +115,6 @@ public class DocumentBuilderTest {
                 .build(occurrencesDB, parserPool);
         occurrencesDB.dropDatabase();
     }
-
 
     @Test
     public void testHTMLStopStem() {
@@ -155,7 +129,6 @@ public class DocumentBuilderTest {
         occurrencesDB.dropDatabase();
     }
 
-
     @Test
     public void testXMLStopStem() {
         DB occurrencesDB = mongoClient.getDB("test_terms_db");
@@ -168,7 +141,6 @@ public class DocumentBuilderTest {
                 .build(occurrencesDB, parserPool);
         occurrencesDB.dropDatabase();
     }
-
 
     @Test
     public void testJSONStopStem() {
