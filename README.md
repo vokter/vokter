@@ -126,7 +126,8 @@ DSI Utilities: http://dsiutils.di.unimi.it
 Commons-IO: http://jackson.codehaus.org  
 Commons-Codec: http://commons.apache.org/proper/commons-codec/  
 Commons-CLI: http://commons.apache.org/proper/commons-cli/  
-Commons-Lang: http://commons.apache.org/proper/commons-lang/
+Commons-Lang: http://commons.apache.org/proper/commons-lang/  
+Commons-Validator: http://commons.apache.org/proper/commons-validator/  
 
 
 ## License
