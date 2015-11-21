@@ -49,6 +49,10 @@ public class MatchingJob implements InterruptableJob {
 
     public final static String HAS_NEW_DIFFS = "has_new_diffs";
 
+    public final static String IGNORE_ADDED = "ignore_added";
+
+    public final static String IGNORE_REMOVED = "ignore_removed";
+
 
     @Override
     public void execute(JobExecutionContext context)
@@ -68,6 +72,8 @@ public class MatchingJob implements InterruptableJob {
 
         List<String> keywords = new Gson().fromJson(dataMap.getString(KEYWORDS), ArrayList.class);
         boolean hasNewDifferences = dataMap.getBoolean(HAS_NEW_DIFFS);
+        boolean ignoreAdded = dataMap.getBoolean(IGNORE_ADDED);
+        boolean ignoreRemoved = dataMap.getBoolean(IGNORE_REMOVED);
 
         if (hasNewDifferences) {
             dataMap.put(HAS_NEW_DIFFS, false);
@@ -79,7 +85,7 @@ public class MatchingJob implements InterruptableJob {
 
             // match them
             List<Difference> diffs = manager.callGetDiffsImpl(requestUrl);
-            DifferenceMatcher matcher = new DifferenceMatcher(kws, diffs);
+            DifferenceMatcher matcher = new DifferenceMatcher(kws, diffs, ignoreAdded, ignoreRemoved);
             Set<DifferenceMatcher.Result> results = matcher.call();
             if (!results.isEmpty()) {
                 manager.responseOk(requestUrl, responseUrl, results);

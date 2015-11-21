@@ -189,7 +189,9 @@ public class JobManagerTest {
                 "testRequestUrl",
                 "https://www.google.com",
                 Lists.newArrayList("the greek", "argus panoptes"),
-                10
+                10,
+                false,
+                false
         ));
         assertTrue(wasCreated);
         Thread.sleep(20000);
@@ -204,13 +206,19 @@ public class JobManagerTest {
                 "testRequestUrl",
                 "https://www.google.com",
                 Lists.newArrayList("argus"),
-                15));
+                15,
+                false,
+                false
+        ));
         assertFalse(wasCreated);
         wasCreated = manager.createJob(new WatchRequest(
                 "testRequestUrl",
                 "https://www.google.pt",
                 Lists.newArrayList("argus"),
-                15));
+                15,
+                false,
+                false
+        ));
         assertTrue(wasCreated);
         System.out.println("added new job");
         Thread.sleep(30000);
@@ -226,7 +234,9 @@ public class JobManagerTest {
                 "testRequestUrl",
                 "https://www.google.com",
                 Lists.newArrayList("the greek", "argus panoptes"),
-                10
+                10,
+                false,
+                false
         ));
         assertTrue(wasCreated);
         System.out.println("added old job");

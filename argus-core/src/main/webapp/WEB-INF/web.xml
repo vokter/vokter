@@ -48,7 +48,7 @@
         </init-param>
         <init-param>
             <param-name>jersey.config.server.provider.packages</param-name>
-            <param-value>argus.rest.resources</param-value>
+            <param-value>com.edduarte.argus.rest.resources</param-value>
         </init-param>
         <init-param>
             <param-name>jersey.config.server.mvc.templateBasePath.jsp
@@ -59,7 +59,7 @@
     </servlet>
     <servlet-mapping>
         <servlet-name>argus-core-service</servlet-name>
-        <url-pattern>/rest/*</url-pattern>
+        <url-pattern>/argus/*</url-pattern>
     </servlet-mapping>
 
     <welcome-file-list>

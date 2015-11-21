@@ -8,33 +8,63 @@ Argus is a high-performance, scalable web service that provides web-page monitor
 
 This service implements a information retrieval system that fetches, indexes and performs queries over web documents on a periodic basis. Difference detection is implemented by comparing occurrences between two snapshots of the same document.
 
-Note that Argus uses the Publish/Subscribe model, where <u>**an additional Client web service must be implemented to request and consume Argus web service**</u>. This allows for an asynchronous operation, where the Client does not have to lock its threads while waiting for page changes notifications nor implement a busy-waiting condition checking of Argus status.
+## Installation
+
+Argus uses the Publish/Subscribe model, where <u>**an additional Client web service with a REST API must be implemented to request and consume Argus web service**</u>. This allows for an asynchronous operation, where the client does not have to lock its threads while waiting for page changes notifications nor implement a busy-waiting condition checking of Argus status.
+
+Once you have a client web service running, follow the steps below:
+
+1. Download [MongoDB](https://www.mongodb.org/downloads)
+2. Run MongoDB with
+```
+mongod
+```
+3. Download the [latest release](https://github.com/edduarte/argus/releases) of Argus
+4. Run Argus with
+```
+java -jar argus-core-1.3.0.jar
+
+Optional arguments:
+ -h,--help               Shows this help prompt.
+ -p,--port <arg>         Core server port. Defaults to 9000.
+ -dbh,--db-host <arg>    Database host. Defaults to localhost.
+ -dbp,--db-port <arg>    Database port. Defaults to 27017.
+ -case,--preserve-case   Keyword matching with case sensitivity.
+ -stop,--stopwords       Keyword matching with stopword filtering.
+ -stem,--stemming        Keyword matching with stemming (lexical
+                         variants).
+ -t,--threads <arg>      Number of threads to be used for computation and
+                         indexing processes. Defaults to the number of
+                         available cores.
+```
+5. If Argus was successfully deployed, opening 'localhost:9000' will launch a landing page with usage instructions.
+
 
 
 ## Usage
 
-To set Argus to watch for content, a POST call must be sent to ** http://localhost:8080/rest/watch ** with the following JSON message:
+To watch for content, a POST call must be sent to ** http://localhost:9000/argus/v1/watch ** with the following JSON body:
 ```javascript
 {
-    "documentUrl": "http://www.example.com/url/to/watch",
-    "receiverUrl": "http://your.site/async-response-receiver",
-    "keywords": [
-        "argus", // looks for changes that occurred with this word (or lexical variants)
-        "panoptes", // looks for changes that occurred with this word (or lexical variants)
-        "argus panoptes" // looks for an exact match of this phrase
+    "documentUrl": "http://www.example.com", // the page to be watched (mandatory field)
+    "receiverUrl": "http://your.site/client-rest-api", // the client web service that will receive detected differences (mandatory field)
+    "keywords": // the keywords to watch for (mandatory field)
+    [
+        "argus", // looks for changes with this word (if stemming is enabled, looks for changes in lexical variants)
+        "panoptes", // looks for changes with this word (if stemming is enabled, looks for changes in lexical variants)
+        "argus panoptes" // looks for an exact match of this phrase (if stemming is enabled, looks for changes in lexical variants)
     ],
-    "interval": 600,
-    "added": true, // Defaults to 'true'. If 'false', events where the keyword was added to the page are ignored
-    "removed": true // Defaults to 'true'. If 'false', events where the keyword was removed from the page are ignored
+    "interval": 600, // the elapsed duration (in seconds) between page checks (optional field, defaults to 600)
+    "ignoreAdded": false, // if 'true', ignore events where the keyword was added to the page (optional field, defaults to 'false')
+    "ignoreRemoved": false // if 'true', ignore events where the keyword was removed from the page (optional field, defaults to 'false')
 }
 ```
-The example above sets Argus to watch the website "example.com/url/to/watch" every 600 seconds and detect if any of the provided keywords was either added or removed.
 
-When detected differences are matched with keywords, notifications are asynchronously sent to the provided response URL in POST with the following JSON message:
+When detected differences are matched with keywords, notifications are asynchronously sent to the provided response URL in POST with the following JSON body:
 ```javascript
 {
     "status": "ok",
-    "url": "http://www.example.com/url/to/watch",
+    "url": "http://www.example.com",
     "diffs": [
         {
             "action": "added",
@@ -49,19 +79,29 @@ When detected differences are matched with keywords, notifications are asynchron
     ]
 }
 ```
-Argus is capable of managing a high number of concurrent watch jobs, as it is implemented to save as much resources as possible and free up database and memory space whenever possible. One method of resource freeing is to automatically timeout watch jobs when it fails to fetch a web document after 10 consecutive tries. When that happens, the following JSON message is sent to the response URL:
+
+Argus is capable of managing a high number of concurrent watch jobs, as it is implemented to save as much resources as possible and free up database and memory space whenever possible. One method of resource freeing is to automatically timeout watch jobs when it fails to fetch a web document after 10 consecutive tries. When that happens, the following JSON body is sent to the response URL:
 ```javascript
 {
     "status": "timeout",
-    "url": "http://www.example.com/url/to/watch",
+    "url": "http://www.example.com",
     "diffs": []
 }
 ```
-Finally, to manually cancel a watch job, a POST call must be sent to ** http://localhost:8080/rest/cancel ** with the following JSON message:
+
+Finally, to manually cancel a watch job, a POST call must be sent to ** http://localhost:9000/argus/v1/cancel ** with the following JSON body:
 ```javascript
 {
-    "documentUrl": "http://www.example.com/url/to/cancel",
-    "receiverUrl": "http://your.site/async-response-receiver"
+    "documentUrl": "http://www.example.com", // the page that was being watched (mandatory field)
+    "receiverUrl": "http://your.site/client-rest-api" // the client web service (mandatory field)
+}
+```
+
+Immediate responses are returned for every watch or cancel request, showing if the request was successful or not with the following JSON body:
+```javascript
+{
+    "code": "ok"/"error",
+    "message": "..."
 }
 ```
 

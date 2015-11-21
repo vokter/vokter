@@ -16,6 +16,7 @@
 
 package com.edduarte.argus.rest;
 
+import com.google.gson.Gson;
 import org.codehaus.jackson.annotate.JsonProperty;
 
 import java.io.Serializable;
@@ -32,37 +33,65 @@ import java.util.List;
 public class WatchRequest implements Serializable {
     private static final long serialVersionUID = 1L;
 
-    @JsonProperty
-    private final String documentUrl;
+    private static final int DEFAULT_INTERVAL = 600;
+
+    private static final boolean DEFAULT_IGNORE_ADDED = false;
+
+    private static final boolean DEFAULT_IGNORE_REMOVED = false;
 
     @JsonProperty
-    private final String responseUrl;
+    private String documentUrl; // mandatory fields
 
     @JsonProperty
-    private final List<String> keywords;
+    private String receiverUrl; // mandatory fields
 
     @JsonProperty
-    private final int interval;
+    private List<String> keywords; // mandatory fields
 
+    @JsonProperty
+    private int interval;
 
-    public WatchRequest(final String documentUrl,
-                        final String responseUrl,
-                        final List<String> keywords,
-                        final int interval) {
-        this.documentUrl = documentUrl;
-        this.responseUrl = responseUrl;
-        this.keywords = keywords;
-        this.interval = interval;
+    @JsonProperty
+    private boolean ignoreAdded;
+
+    @JsonProperty
+    private boolean ignoreRemoved;
+
+    /**
+     * Used by GSON.
+     */
+    public WatchRequest() {
+        this.interval = DEFAULT_INTERVAL;
+        this.ignoreAdded = DEFAULT_IGNORE_ADDED;
+        this.ignoreRemoved = DEFAULT_IGNORE_REMOVED;
     }
 
 
-    public String getRequestUrl() {
+    /**
+     * Used for testing only.
+     */
+    public WatchRequest(final String documentUrl,
+                        final String receiverUrl,
+                        final List<String> keywords,
+                        final int interval,
+                        final boolean ignoreAdded,
+                        final boolean ignoreRemoved) {
+        this.documentUrl = documentUrl;
+        this.receiverUrl = receiverUrl;
+        this.keywords = keywords;
+        this.interval = interval;
+        this.ignoreAdded = ignoreAdded;
+        this.ignoreRemoved = ignoreRemoved;
+    }
+
+
+    public String getDocumentUrl() {
         return documentUrl;
     }
 
 
-    public String getResponseUrl() {
-        return responseUrl;
+    public String getReceiverUrl() {
+        return receiverUrl;
     }
 
 
@@ -73,5 +102,22 @@ public class WatchRequest implements Serializable {
 
     public int getInterval() {
         return interval;
+    }
+
+
+    public boolean getIgnoreAdded() {
+        return ignoreAdded;
+    }
+
+
+    public boolean getIgnoreRemoved() {
+        return ignoreRemoved;
+    }
+
+
+    @Override
+    public String toString() {
+        Gson gson = new Gson();
+        return gson.toJson(this);
     }
 }

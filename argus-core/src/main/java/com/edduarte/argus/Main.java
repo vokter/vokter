@@ -42,22 +42,21 @@ public class Main {
         CommandLineParser parser = new GnuParser();
         Options options = new Options();
 
-        options.addOption("t", "threads", true, "Number of max threads to be used "
+        options.addOption("t", "threads", true, "Number of threads to be used "
                 + "for computation and indexing processes. Defaults to the number "
                 + "of available cores.");
 
-        options.addOption("p", "port", true, "Core server port. Defaults to 8080.");
+        options.addOption("p", "port", true, "Core server port. Defaults to 9000.");
 
         options.addOption("dbh", "db-host", true, "Database host. Defaults to localhost.");
 
         options.addOption("dbp", "db-port", true, "Database port. Defaults to 27017.");
 
-        options.addOption("nocase", "ignore-case", false, "Ignores differentiation "
-                + "between equal words with different casing.");
+        options.addOption("case", "preserve-case", false, "Keyword matching with case sensitivity.");
 
-        options.addOption("stop", "stopwords", false, "Perform stopword filtering.");
+        options.addOption("stop", "stopwords", false, "Keyword matching with stopword filtering.");
 
-        options.addOption("stem", "stemming", false, "Perform stemming.");
+        options.addOption("stem", "stemming", false, "Keyword matching with stemming (lexical variants).");
 
         options.addOption("h", "help", false, "Shows this help prompt.");
 
@@ -75,9 +74,8 @@ public class Main {
 
 
         if (commandLine.hasOption('h')) {
-            String usage = "[-h] [-port] [-t] [-nocase] [-stop] [-stem]";
             HelpFormatter formatter = new HelpFormatter();
-            formatter.printHelp("java -jar argus-core.jar " + usage, options);
+            formatter.printHelp("java -jar argus-core.jar", options);
             return;
         }
 
@@ -92,7 +90,7 @@ public class Main {
             }
         }
 
-        int port = 8080;
+        int port = 9000;
         if (commandLine.hasOption('p')) {
             String portString = commandLine.getOptionValue('p');
             port = Integer.parseInt(portString);
@@ -109,9 +107,9 @@ public class Main {
             dbPort = Integer.parseInt(portString);
         }
 
-        boolean isIgnoringCase = false;
-        if (commandLine.hasOption("nocase")) {
-            isIgnoringCase = true;
+        boolean isIgnoringCase = true;
+        if (commandLine.hasOption("case")) {
+            isIgnoringCase = false;
         }
 
         boolean isStoppingEnabled = false;

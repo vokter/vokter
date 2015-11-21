@@ -41,11 +41,19 @@ public class DifferenceMatcher implements Callable<Set<DifferenceMatcher.Result>
 
     private final List<Difference> differences;
 
+    private final boolean ignoreAdded;
+
+    private final boolean ignoreRemoved;
+
 
     public DifferenceMatcher(final List<Keyword> keywords,
-                             final List<Difference> differences) {
+                             final List<Difference> differences,
+                             final boolean ignoreAdded,
+                             final boolean ignoreRemoved) {
         this.keywords = keywords;
         this.differences = differences;
+        this.ignoreAdded = ignoreAdded;
+        this.ignoreRemoved = ignoreRemoved;
     }
 
 
@@ -67,7 +75,7 @@ public class DifferenceMatcher implements Callable<Set<DifferenceMatcher.Result>
             BloomFilter<String> bloomFilter = lastBloomFilter;
             bloomFilter.put(r.getOccurrenceText());
 
-            // check if AT LEAST ONE of the keywords has ALL of its texts
+            // check if AT LEAST ONE of the keywords has ALL of its words
             // contained in the diff text
             keywords.parallelStream()
                     .unordered()
@@ -77,11 +85,12 @@ public class DifferenceMatcher implements Callable<Set<DifferenceMatcher.Result>
                     .map((pair) -> {
                         Difference diff = pair.a();
                         Keyword keyword = pair.b();
-                        switch (diff.getAction()) {
-                            case inserted:
-                                return new Result(diff.getAction(), keyword, diff.getSnippet());
-                            case deleted:
-                                return new Result(diff.getAction(), keyword, diff.getSnippet());
+                        DifferenceAction i = diff.getAction();
+                        if (i == DifferenceAction.inserted && !ignoreAdded) {
+                            return new Result(diff.getAction(), keyword, diff.getSnippet());
+
+                        } else if (i == DifferenceAction.deleted && !ignoreRemoved) {
+                            return new Result(diff.getAction(), keyword, diff.getSnippet());
                         }
                         return null;
                     })

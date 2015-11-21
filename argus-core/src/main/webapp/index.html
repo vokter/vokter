@@ -1,18 +1,18 @@
 <!--
-  ~ copyright 2014 ed duarte
-  ~
-  ~ licensed under the apache license, version 2.0 (the "license");
-  ~ you may not use this file except in compliance with the license.
-  ~ you may obtain a copy of the license at
-  ~
-  ~ http://www.apache.org/licenses/license-2.0
-  ~
-  ~ unless required by applicable law or agreed to in writing, software
-  ~ distributed under the license is distributed on an "as is" basis,
-  ~ without warranties or conditions of any kind, either express or implied.
-  ~ see the license for the specific language governing permissions and
-  ~ limitations under the license.
-  -->
+~ Copyright 2014 Ed Duarte
+~
+~ Licensed under the Apache License, Version 2.0 (the "License");
+~ you may not use this file except in compliance with the License.
+~ You may obtain a copy of the License at
+~
+~ http://www.apache.org/licenses/LICENSE-2.0
+~
+~ Unless required by applicable law or agreed to in writing, software
+~ distributed under the License is distributed on an "AS IS" BASIS,
+~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+~ See the License for the specific language governing permissions and
+~ limitations under the License.
+-->
 
 <!doctype html public "-//w3c//dtd html 3.2//en">
 <html>
@@ -20,56 +20,59 @@
     <title>Argus</title>
 </head>
 <body>
-<h1 id="argus">Argus</h1>
-<h3 id="if-you-are-seeing-this-page-then-argus-was-successfully-deployed-to-this-domain.-enjoy">If you are seeing this page, then Argus was successfully deployed to this domain. Enjoy!</h3>
-<p>Argus is a high-performance, scalable web service that provides web-page monitoring, triggering notifications when specified keywords were either added or removed from a web document. It supports multi-language parsing and supports reading the most popular web document formats like HTML, JSON, XML, Plain-text and other variations of these.</p>
+<h1>Argus</h1>
+<h3>If you are seeing this page, then Argus was successfully deployed to this domain. Enjoy!</h3><p>Argus is a high-performance, scalable web service that provides web-page monitoring, triggering notifications when specified keywords were either added or removed from a web document. It supports multi-language parsing and supports reading the most popular web document formats like HTML, JSON, XML, Plain-text and other variations of these.</p>
 <p>This service implements a information retrieval system that fetches, indexes and performs queries over web documents on a periodic basis. Difference detection is implemented by comparing occurrences between two snapshots of the same document.</p>
 <p>Note that Argus uses the Publish/Subscribe model, where <u><strong>an additional Client web service must be implemented to request and consume Argus web service</strong></u>. This allows for an asynchronous operation, where the Client does not have to lock its threads while waiting for page changes notifications nor implement a busy-waiting condition checking of Argus status.</p>
-<h2 id="usage">Usage</h2>
-<p>To set Argus to watch for content, a POST call must be sent to <span id="currentUrl1"></span>/rest/watch with the following JSON message:</p>
+<h2>Usage</h2>
+<p>To set Argus to watch for content, a POST call must be sent to <b>http://localhost:8080/argus/v1/watch</b> with the following JSON body:</p>
 <pre class="javascript"><code>{
-    &quot;documentUrl&quot;: &quot;http://www.example.com/url/to/watch&quot;,
-    &quot;receiverUrl&quot;: &quot;http://your.site/async-response-receiver&quot;,
-    &quot;keywords&quot;: [
-    &quot;argus&quot;, // looks for changes that occurred with this word (or lexical variants)
-    &quot;panoptes&quot;, // looks for changes that occurred with this word (or lexical variants)
-    &quot;argus panoptes&quot; // looks for an exact match of this phrase
+    &quot;documentUrl&quot;: &quot;http://www.example.com&quot;, // the page to be watched (mandatory field)
+    &quot;receiverUrl&quot;: &quot;http://your.site/client-rest-api&quot;, // the client web service that will receive detected differences (mandatory field)
+    &quot;keywords&quot;: // the keywords to watch for (mandatory field)
+    [
+        &quot;argus&quot;, // looks for changes with this word (if stemming is enabled, looks for changes in lexical variants)
+        &quot;panoptes&quot;, // looks for changes with this word (if stemming is enabled, looks for changes in lexical variants)
+        &quot;argus panoptes&quot; // looks for an exact match of this phrase (if stemming is enabled, looks for changes in lexical variants)
     ],
-    &quot;interval&quot;: 600,
-    &quot;added&quot;: true, // Defaults to &#39;true&#39;. If &#39;false&#39;, events where the keyword was added to the page are ignored
-    &quot;removed&quot;: true // Defaults to &#39;true&#39;. If &#39;false&#39;, events where the keyword was removed from the page are ignored
-    }</code></pre>
-<p>The example above sets Argus to watch the website &quot;example.com/url/to/watch&quot; every 600 seconds and detect if any of the provided keywords was either added or removed.</p>
-<p>When detected differences are matched with keywords, notifications are asynchronously sent to the provided response URL in POST with the following JSON message:</p>
+    &quot;interval&quot;: 600, // the elapsed duration (in seconds) between page checks (optional field, defaults to 600)
+    &quot;ignoreAdded&quot;: false, // if &#39;true&#39;, ignore events where the keyword was added to the page (optional field, defaults to &#39;false&#39;)
+    &quot;ignoreRemoved&quot;: false // if &#39;true&#39;, ignore events where the keyword was removed from the page (optional field, defaults to &#39;false&#39;)
+}</code></pre>
+<p>When detected differences are matched with keywords, notifications are asynchronously sent to the provided response URL in POST with the following JSON body:</p>
 <pre class="javascript"><code>{
     &quot;status&quot;: &quot;ok&quot;,
-    &quot;url&quot;: &quot;http://www.example.com/url/to/watch&quot;,
+    &quot;url&quot;: &quot;http://www.example.com&quot;,
     &quot;diffs&quot;: [
-    {
-    &quot;action&quot;: &quot;added&quot;,
-    &quot;keyword&quot;: &quot;argus&quot;,
-    &quot;snippet&quot;: &quot;In the 5th century and later, Argus&#39; wakeful alertness ...&quot;
-    },
-    {
-    &quot;action&quot;: &quot;removed&quot;,
-    &quot;keyword&quot;: &quot;argus&quot;,
-    &quot;snippet&quot;: &quot;... sacrifice of Argus liberated Io and allowed ...&quot;
-    }
+        {
+            &quot;action&quot;: &quot;added&quot;,
+            &quot;keyword&quot;: &quot;argus&quot;,
+            &quot;snippet&quot;: &quot;In the 5th century and later, Argus&#39; wakeful alertness ...&quot;
+        },
+        {
+            &quot;action&quot;: &quot;removed&quot;,
+            &quot;keyword&quot;: &quot;argus&quot;,
+            &quot;snippet&quot;: &quot;... sacrifice of Argus liberated Io and allowed ...&quot;
+        }
     ]
-    }</code></pre>
-<p>Argus is capable of managing a high number of concurrent watch jobs, as it is implemented to save as much resources as possible and free up database and memory space whenever possible. One method of resource freeing is to automatically timeout watch jobs when it fails to fetch a web document after 10 consecutive tries. When that happens, the following JSON message is sent to the response URL:</p>
+}</code></pre>
+<p>Argus is capable of managing a high number of concurrent watch jobs, as it is implemented to save as much resources as possible and free up database and memory space whenever possible. One method of resource freeing is to automatically timeout watch jobs when it fails to fetch a web document after 10 consecutive tries. When that happens, the following JSON body is sent to the response URL:</p>
 <pre class="javascript"><code>{
     &quot;status&quot;: &quot;timeout&quot;,
-    &quot;url&quot;: &quot;http://www.example.com/url/to/watch&quot;,
+    &quot;url&quot;: &quot;http://www.example.com&quot;,
     &quot;diffs&quot;: []
-    }</code></pre>
-<p>Finally, to manually cancel a watch job, a POST call must be sent to <span id="currentUrl2"></span>/rest/cancel with the following JSON message:</p>
+}</code></pre>
+<p>Finally, to manually cancel a watch job, a POST call must be sent to <b>http://localhost:8080/argus/v1/cancel</b> with the following JSON body:</p>
 <pre class="javascript"><code>{
-    &quot;documentUrl&quot;: &quot;http://www.example.com/url/to/cancel&quot;,
-    &quot;receiverUrl&quot;: &quot;http://your.site/async-response-receiver&quot;
-    }</code></pre>
-
-<h2 id="license">License</h2>
+    &quot;documentUrl&quot;: &quot;http://www.example.com&quot;, // the page that was being watched (mandatory field)
+    &quot;receiverUrl&quot;: &quot;http://your.site/client-rest-api&quot; // the client web service (mandatory field)
+}</code></pre>
+<p>Immediate responses are returned for every watch or cancel request, showing if the request was successful or not with the following JSON body:</p>
+<pre class="javascript"><code>{
+    &quot;code&quot;: &quot;ok&quot;/&quot;error&quot;,
+    &quot;message&quot;: &quot;...&quot;
+}</code></pre>
+<h2>License</h2>
 <pre><code>Copyright 2015 Ed Duarte
 
     Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);

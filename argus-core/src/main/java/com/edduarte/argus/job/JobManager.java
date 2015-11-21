@@ -114,8 +114,8 @@ public class JobManager {
 
     public boolean createJob(final WatchRequest request) {
 
-        String requestUrl = request.getRequestUrl();
-        String responseUrl = request.getResponseUrl();
+        String requestUrl = request.getDocumentUrl();
+        String responseUrl = request.getReceiverUrl();
 
         try {
             // attempt creating a new DiffDetectorJob
@@ -146,6 +146,8 @@ public class JobManager {
                     .usingJobData(MatchingJob.PARENT_JOB_MANAGER, managerName)
                     .usingJobData(MatchingJob.REQUEST_URL, requestUrl)
                     .usingJobData(MatchingJob.KEYWORDS, keywordJson)
+                    .usingJobData(MatchingJob.IGNORE_ADDED, request.getIgnoreAdded())
+                    .usingJobData(MatchingJob.IGNORE_REMOVED, request.getIgnoreRemoved())
                     .usingJobData(MatchingJob.HAS_NEW_DIFFS, false)
                     .build();
 

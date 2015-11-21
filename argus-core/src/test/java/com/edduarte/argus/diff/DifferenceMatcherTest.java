@@ -91,7 +91,7 @@ public class DifferenceMatcherTest {
                 new Difference(DifferenceAction.inserted, "nors", "gus Panoptes is the name of the 100 eyed giant in Norse mythology")
         );
 
-        DifferenceMatcher matcher = new DifferenceMatcher(keywords, diffList);
+        DifferenceMatcher matcher = new DifferenceMatcher(keywords, diffList, false, false);
         Set<DifferenceMatcher.Result> matchSet = matcher.call();
         assertEquals(2, matchSet.size());
     }
@@ -467,7 +467,7 @@ public class DifferenceMatcherTest {
                 new Difference(DifferenceAction.deleted, "show", "")
         );
 
-        DifferenceMatcher matcher = new DifferenceMatcher(keywords, diffList);
+        DifferenceMatcher matcher = new DifferenceMatcher(keywords, diffList, false, false);
         Set<DifferenceMatcher.Result> matchSet = matcher.call();
         assertEquals(11, matchSet.size());
     }
