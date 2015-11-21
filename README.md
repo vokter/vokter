@@ -22,7 +22,7 @@ mongod
 3. Download the [latest release](https://github.com/edduarte/argus/releases) of Argus
 4. Run Argus with
 ```
-java -jar argus-core-1.3.0.jar
+java -jar argus-core.jar
 
 Optional arguments:
  -h,--help               Shows this help prompt.
@@ -37,7 +37,7 @@ Optional arguments:
                          indexing processes. Defaults to the number of
                          available cores.
 ```
-5. If Argus was successfully deployed, opening 'localhost:9000' will launch a landing page with usage instructions.
+5. If Argus was successfully deployed, opening 'localhost:9000' on a browser will launch a landing page with usage instructions.
 
 
 

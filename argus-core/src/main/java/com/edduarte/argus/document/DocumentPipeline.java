@@ -49,7 +49,7 @@ import java.util.stream.Stream;
  * concurrent map structures.
  *
  * @author Ed Duarte (<a href="mailto:ed@edduarte.com">ed@edduarte.com</a>)
- * @version 1.3.0
+ * @version 1.3.2
  * @since 1.0.0
  */
 public class DocumentPipeline implements Callable<Document> {

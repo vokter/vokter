@@ -24,7 +24,7 @@ import java.util.concurrent.LinkedBlockingQueue;
  * a used parser is placed back in the pool.
  *
  * @author Ed Duarte (<a href="mailto:ed@edduarte.com">ed@edduarte.com</a>)
- * @version 1.3.0
+ * @version 1.3.2
  * @since 1.0.0
  */
 public class ParserPool {

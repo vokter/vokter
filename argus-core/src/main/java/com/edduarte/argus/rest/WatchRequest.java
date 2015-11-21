@@ -27,7 +27,7 @@ import java.util.List;
  * This request is consumed by the 'watch' method in the RESTResource class.
  *
  * @author Ed Duarte (<a href="mailto:ed@edduarte.com">ed@edduarte.com</a>)
- * @version 1.3.0
+ * @version 1.3.2
  * @since 1.0.0
  */
 public class WatchRequest implements Serializable {

@@ -28,7 +28,7 @@ import java.io.InputStream;
  * content according to that extension.
  *
  * @author Ed Duarte (<a href="mailto:ed@edduarte.com">ed@edduarte.com</a>)
- * @version 1.3.0
+ * @version 1.3.2
  * @since 1.0.0
  */
 public interface Reader {
