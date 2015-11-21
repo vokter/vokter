@@ -56,7 +56,7 @@
         }
     ]
 }</code></pre>
-<p>Argus is capable of managing a high number of concurrent watch jobs, as it is implemented to save as much resources as possible and free up database and memory space whenever possible. One method of resource freeing is to automatically timeout watch jobs when it fails to fetch a web document after 10 consecutive tries. When that happens, the following JSON body is sent to the response URL:</p>
+<p>Argus is capable of managing a high number of concurrent watch jobs, as it is implemented to save resources and free up database and memory space whenever possible. To this effect, Argus automatically expires jobs when it fails to fetch a web document after 10 consecutive tries. When that happens, the following JSON body is sent to the response URL:</p>
 <pre class="javascript"><code>{
     &quot;status&quot;: &quot;timeout&quot;,
     &quot;url&quot;: &quot;http://www.example.com&quot;,

@@ -4,9 +4,27 @@
 [![Coverage Status](https://img.shields.io/coveralls/edduarte/argus.svg)](https://coveralls.io/r/edduarte/argus)
 [![GitHub release](https://img.shields.io/github/release/edduarte/argus.svg)](https://github.com/edduarte/argus/releases)
 
+- [Getting Started](#getting-started)
+    + [Installation](#installation)
+    + [Usage](#usage)
+- [Dependencies](#dependencies)
+- [Architecture](#architecture)
+    + [Job Management](#job-management)
+        * [Difference Detection](#difference-detection)
+        * [Difference Matching](#difference-matching)
+        * [Clustering](#clustering)
+        * [Scaling](#scaling)
+    + [Persistence](#persistence)
+    + [Reading](#reading)
+    + [Indexing](#indexing)
+- [Caveats](#caveats)
+- [License](#license)
+
 Argus is a high-performance, scalable web service that provides web-page monitoring, triggering notifications when specified keywords were either added or removed from a web document. It supports multi-language parsing and supports reading the most popular web document formats like HTML, JSON, XML, Plain-text and other variations of these.
 
 This service implements a information retrieval system that fetches, indexes and performs queries over web documents on a periodic basis. Difference detection is implemented by comparing occurrences between two snapshots of the same document.
+
+# Getting Started
 
 ## Installation
 
@@ -80,7 +98,7 @@ When detected differences are matched with keywords, notifications are asynchron
 }
 ```
 
-Argus is capable of managing a high number of concurrent watch jobs, as it is implemented to save as much resources as possible and free up database and memory space whenever possible. One method of resource freeing is to automatically timeout watch jobs when it fails to fetch a web document after 10 consecutive tries. When that happens, the following JSON body is sent to the response URL:
+Argus is capable of managing a high number of concurrent watch jobs, as it is implemented to save resources and free up database and memory space whenever possible. To this effect, Argus automatically expires jobs when it fails to fetch a web document after 10 consecutive tries. When that happens, the following JSON body is sent to the response URL:
 ```javascript
 {
     "status": "timeout",
@@ -105,22 +123,20 @@ Immediate responses are returned for every watch or cancel request, showing if t
 }
 ```
 
-
-## Libraries used
+# Dependencies
 
 Jersey RESTful framework: https://jersey.java.net  
 Jetty Embedded server: http://eclipse.org/jetty/  
-Genia Parser: http://people.ict.usc.edu/~sagae/parser/gdep/  
-LingPipe: http://alias-i.com/lingpipe/  
-Snowball stopwords and stemmers: http://snowball.tartarus.org  
+Snowball stop-words and stemmers: http://snowball.tartarus.org  
 Language Detector: https://github.com/optimaize/language-detector  
 Cache2K: http://cache2k.org  
-Quartz Scheduler: http://quartz-scheduler.org  
 MongoDB Java driver: http://docs.mongodb.org/ecosystem/drivers/java/  
+Quartz Scheduler: http://quartz-scheduler.org  
+Quartz MongoDB-based store: https://github.com/michaelklishin/quartz-mongodb  
 DiffMatchPatch: https://code.google.com/p/google-diff-match-patch/  
 Gson: https://code.google.com/p/google-gson/  
 Jsonic: http://jsonic.sourceforge.jp  
-jsoup: http://jsoup.org  
+Jsoup: http://jsoup.org  
 Jackson: http://jackson.codehaus.org  
 DSI Utilities: http://dsiutils.di.unimi.it  
 Commons-IO: http://jackson.codehaus.org  
@@ -129,8 +145,69 @@ Commons-CLI: http://commons.apache.org/proper/commons-cli/
 Commons-Lang: http://commons.apache.org/proper/commons-lang/  
 Commons-Validator: http://commons.apache.org/proper/commons-validator/  
 
+# Architecture
 
-## License
+## Job Management
+
+There are 2 types of jobs, concurrently executed and scheduled periodically (using Quartz Scheduler) with an interval of 600 seconds by default: difference detection jobs and difference matching jobs.
+
+### Difference Detection
+
+The detection job is responsible for fetching a new document and comparing it with the previous document, detecting textual differences between the two. To do that, the robust DiffMatchPatch algorithm is used.
+
+### Difference Matching
+
+The matching job is responsible for querying the list of detected differences with specific requested keywords.
+
+Harmonization of keywords-to-differences is performed passing the differences through a Bloom filter, to remove differences that do not have the specified keywords, and a character-by-character comparator on the remaining differences, to ensure that the difference contains any of the keywords.
+
+### Clustering
+
+Since the logic of difference retrieval is spread between two jobs, one that is agnostic of requests and one that is specific to the request and its keywords, Argus reduces workload by scheduling only one difference detection job per watched web-page. For this effect, jobs are grouped into clusters, where its unique identifier is the document URL. Each cluster contains, imperatively, a single scheduled detection job and one or more matching jobs.
+
+### Scaling
+
+Argus was conceived to be able scale and to be future-proof, and to this effect it was implemented to deal with a high number of jobs in terms of batching / persistence and of real-time / concurrency.
+
+The clustering design mentioned above implies that, as the number of clients grows linearly, the number of jobs will grow semi-linearly because the first call for a URL will spawn two jobs and the remaining calls for the same URL will spawn only one.
+
+In terms of orchestration, there are two mechanisms created to reduce redundant resource-consumption, both in memory as well as in the database:
+
+1. if the difference detection job fails to fetch content from a specific URL after 10 consecutive attempts, the entire cluster for that URL is expired. When expiring a cluster, all of the associated client REST APIs receive a time-out call.
+2. every time a matching job is cancelled by its client, Argus checks if there are still matching-jobs in its cluster, and if not, the cluster is cleared from the workspace.
+
+## Persistence
+
+Documents, indexing results, found differences are all stored in MongoDB. To avoid multiple bulk operations on the database, every query (document, tokens, occurrences and differences) is covered by memory cache with an expiry duration between 20 seconds and 1 minute.
+
+Persistence of difference-detection jobs and difference-matching jobs is also covered, using a custom MongoDB Job Store by Michael Klishin and Alex Petrov.
+
+## Reading
+
+Once a request has been received or a difference-detection job was triggered, the raw content and the Content-Type of the specified document are fetched. With the Content-Type, an appropriate Reader class that supports the conversion of the raw content into a string (filtered of non-informative data or XML tags) is collected and used.
+
+Reader classes follow the plugin paradigm, which means that compiled Reader classes can be added to or removed from the 'argus-readers' folder during runtime, and Argus will be able to dynamically load a suitable Reader class that supports the obtained Content-Type.
+
+When Reader classes are instanced, they are stored in on-heap memory cache temporarily (5 seconds). This reduces the elapsed duration of discovering available Reader classes and instancing one for consecutive stems of documents with the same language (for example, English).
+
+## Indexing
+
+The string of text that represents the document snapshot that was captured during the Reading phase is passed through a parser that tokenizes, filters stop-words and stems text. For every token found, its occurrences (positional index, starting character index and ending character index) in the document are stored. When a detected difference affected a token, the character indexes of its occurrences can be used to retrieve snippets of text. With this, Argus can instantly show to user, along with the notifications of differences detected, the added text in the new snapshot or the removed text in the previous snapshot.
+
+Because different documents can have different languages, which require specialized stemmers and stop-word filters to be used, the language must be obtained. Unlike the Content-Type, which is often provided as a HTTP header when fetching the document, the Accept-Language is not for the most part. Instead, Argus infers the language from the document content using a language detector algorithm based on Bayesian probabilistic models and N-Grams, developed by Nakatani Shuyo, Fabian Kessler, Francois Roland and Robert Theis.
+
+Stemmer classes and stop-word files, both from the Snowball project, follow the plugin paradigm, similarly to the Reader classes. This means that both can be changed during runtime and Argus will be updated without requiring a restart. Moreover, like the Reader classes, Stemmer classes are stored in on-heap memory cache for 5 seconds before being invalidated.
+
+To ensure a concurrent architecture, where multiple parsing calls should be performed in parallel, Argus will instance multiple parsers when deployed and store them in a blocking queue. The number of parsers corresponds to the number of cores available in the machine where Argus was deployed to.
+
+# Caveats
+
+- Argus has only been used in a production environment for academic projects, and has not been battle-tested or integrated in consumer software;
+- the intervals for difference-matching jobs can be set on the watch request, but difference-detection occurs independently of difference-matching so it can accommodate to all matching jobs for the same document. This means that difference-detection job needs to use an internal interval (420 seconds), and that matching jobs that are configured to run more frequently than that interval will look for matches on the same detected differences two times or more. The architecture should be revised so that:
+    + intervals cannot be configured;
+    + matching jobs are not scheduled but rather invoked once a detection job is completed.
+
+# License
 
     Copyright 2015 Ed Duarte
 
