@@ -4,6 +4,10 @@
 [![Coverage Status](https://img.shields.io/coveralls/edduarte/argus.svg)](https://coveralls.io/r/edduarte/argus)
 [![GitHub release](https://img.shields.io/github/release/edduarte/argus.svg)](https://github.com/edduarte/argus/releases)
 
+Argus is a high-performance, scalable web service that uses Quartz Scheduler, DiffMatchPatch and MongoDB to provides web-page monitoring, triggering notifications when specified keywords were either added or removed from a web document.
+
+This service implements a information retrieval system that fetches, indexes and performs queries over web documents on a periodic basis. Difference detection is implemented by comparing occurrences between two snapshots of the same document. Additionally, it supports multi-language stop-word filtering to ignore changes in common grammatical conjunctions or articles, and stemming to detect changes in lexically derived words.
+
 - [Getting Started](#getting-started)
     + [Installation](#installation)
     + [Usage](#usage)
@@ -20,15 +24,11 @@
 - [Caveats](#caveats)
 - [License](#license)
 
-Argus is a high-performance, scalable web service that provides web-page monitoring, triggering notifications when specified keywords were either added or removed from a web document. It supports multi-language parsing and supports reading the most popular web document formats like HTML, JSON, XML, Plain-text and other variations of these.
-
-This service implements a information retrieval system that fetches, indexes and performs queries over web documents on a periodic basis. Difference detection is implemented by comparing occurrences between two snapshots of the same document.
-
 # Getting Started
 
 ## Installation
 
-Argus uses the Publish/Subscribe model, where <u>**an additional Client web service with a REST API must be implemented to request and consume Argus web service**</u>. This allows for an asynchronous operation, where the client does not have to lock its threads while waiting for page changes notifications nor implement a busy-waiting condition checking of Argus status.
+Argus uses the Publish/Subscribe model, where <u>**an additional Client web service with a REST API must be implemented to request and consume Argus web service**</u>. This allows for an asynchronous operation, where the client does not have to lock its operations while waiting for page changes nor implement a busy-waiting condition checking of Argus status.
 
 Once you have a client web service running, follow the steps below:
 
@@ -184,11 +184,9 @@ Persistence of difference-detection jobs and difference-matching jobs is also co
 
 ## Reading
 
-Once a request has been received or a difference-detection job was triggered, the raw content and the Content-Type of the specified document are fetched. With the Content-Type, an appropriate Reader class that supports the conversion of the raw content into a string (filtered of non-informative data or XML tags) is collected and used.
+Argus supports reading of multiple web document formats, like HTML, XML, JSON and Plain-Text, where raw content is converted into a clean string, filtered of non-informative data (e.g. XML tags). Reading logic, which is different for all formats, is covered by Reader classes which follow the plugin paradigm. This means that compiled Reader classes can be added to or removed from the 'argus-readers' folder during runtime, and Argus will be able to dynamically load a suitable Reader class for each document Content-Type.
 
-Reader classes follow the plugin paradigm, which means that compiled Reader classes can be added to or removed from the 'argus-readers' folder during runtime, and Argus will be able to dynamically load a suitable Reader class that supports the obtained Content-Type.
-
-When Reader classes are instanced, they are stored in on-heap memory cache temporarily (5 seconds). This reduces the elapsed duration of discovering available Reader classes and instancing one for consecutive stems of documents with the same language (for example, English).
+When Reader classes are instanced, they are stored in on-heap memory cache temporarily (5 seconds). This reduces the elapsed duration of discovering available Reader classes and instancing one for consecutive reads of documents with the same Content-Type.
 
 ## Indexing
 
@@ -196,7 +194,7 @@ The string of text that represents the document snapshot that was captured durin
 
 Because different documents can have different languages, which require specialized stemmers and stop-word filters to be used, the language must be obtained. Unlike the Content-Type, which is often provided as a HTTP header when fetching the document, the Accept-Language is not for the most part. Instead, Argus infers the language from the document content using a language detector algorithm based on Bayesian probabilistic models and N-Grams, developed by Nakatani Shuyo, Fabian Kessler, Francois Roland and Robert Theis.
 
-Stemmer classes and stop-word files, both from the Snowball project, follow the plugin paradigm, similarly to the Reader classes. This means that both can be changed during runtime and Argus will be updated without requiring a restart. Moreover, like the Reader classes, Stemmer classes are stored in on-heap memory cache for 5 seconds before being invalidated.
+Stemmer classes and stop-word files, both from the Snowball project, follow the plugin paradigm, similarly to the Reader classes. This means that both can be changed during runtime and Argus will be updated without requiring a restart. Moreover, like the Reader classes, Stemmer classes are cached for 5 seconds before being invalidated to avoid repeated instancing for consecutive stems of documents with the same language (for example, English).
 
 To ensure a concurrent architecture, where multiple parsing calls should be performed in parallel, Argus will instance multiple parsers when deployed and store them in a blocking queue. The number of parsers corresponds to the number of cores available in the machine where Argus was deployed to.
 
