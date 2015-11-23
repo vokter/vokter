@@ -26,7 +26,7 @@ This service implements a information retrieval system that fetches, indexes and
     + [Persistence](#persistence)
     + [Reading](#reading)
     + [Indexing](#indexing)
-- [Caveats / Future Work](#caveats-future-work)
+- [Caveats / Future Work](#caveats--future-work)
 - [License](#license)
 
 # Getting Started
@@ -39,9 +39,9 @@ Once you have a client web service running, follow the steps below:
 
 1. Download [MongoDB](https://www.mongodb.org/downloads)
 2. Run MongoDB with
-```
-mongod
-```
+    ```
+    mongod
+    ```
 3. Download the [latest release](https://github.com/edduarte/argus/releases) of Argus
 4. Run Argus with
 ```
@@ -60,8 +60,7 @@ Optional arguments:
                          indexing processes. Defaults to the number of
                          available cores.
 ```
-5. If Argus was successfully deployed, opening 'localhost:9000' on a browser will launch a landing page with usage instructions.
-
+This will launch a embedded Jetty server with Jersey RESTful framework on 'localhost:9000' (by default). If Argus was successfully deployed, opening the deployed url on a browser should display a landing page with usage instructions.
 
 
 ## Usage
