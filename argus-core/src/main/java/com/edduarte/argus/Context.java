@@ -28,7 +28,7 @@ import com.edduarte.argus.keyword.KeywordBuilder;
 import com.edduarte.argus.parser.Parser;
 import com.edduarte.argus.parser.ParserPool;
 import com.edduarte.argus.parser.SimpleParser;
-import com.edduarte.argus.rest.WatchRequest;
+import com.edduarte.argus.rest.SubscribeRequest;
 import com.mongodb.BulkWriteOperation;
 import com.mongodb.DB;
 import com.mongodb.DBCollection;
@@ -168,7 +168,7 @@ public class Context implements LifeCycle.Listener, JobManagerHandler {
     }
 
 
-    public boolean createJob(final WatchRequest request) {
+    public boolean createJob(final SubscribeRequest request) {
         return jobManager.createJob(request);
     }
 

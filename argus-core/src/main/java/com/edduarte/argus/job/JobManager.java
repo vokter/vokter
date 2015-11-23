@@ -20,7 +20,7 @@ import com.edduarte.argus.diff.Difference;
 import com.edduarte.argus.diff.DifferenceMatcher;
 import com.edduarte.argus.keyword.Keyword;
 import com.edduarte.argus.keyword.KeywordSerializer;
-import com.edduarte.argus.rest.WatchRequest;
+import com.edduarte.argus.rest.SubscribeRequest;
 import com.edduarte.argus.util.Constants;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
@@ -42,7 +42,7 @@ import java.util.*;
 
 /**
  * @author Ed Duarte (<a href="mailto:ed@edduarte.com">ed@edduarte.com</a>)
- * @version 1.3.2
+ * @version 1.3.3
  * @since 1.0.0
  */
 public class JobManager {
@@ -112,21 +112,21 @@ public class JobManager {
     }
 
 
-    public boolean createJob(final WatchRequest request) {
+    public boolean createJob(final SubscribeRequest request) {
 
-        String requestUrl = request.getDocumentUrl();
-        String responseUrl = request.getReceiverUrl();
+        String documentUrl = request.getDocumentUrl();
+        String clientUrl = request.getClientUrl();
 
         try {
             // attempt creating a new DiffDetectorJob
             JobDetail detectionJob = JobBuilder.newJob(DetectionJob.class)
-                    .withIdentity(requestUrl, "detection" + requestUrl)
+                    .withIdentity(documentUrl, "detection" + documentUrl)
                     .usingJobData(DetectionJob.PARENT_JOB_MANAGER, managerName)
                     .usingJobData(DetectionJob.FAULT_COUNTER, 0)
                     .build();
 
             Trigger detectionTrigger = TriggerBuilder.newTrigger()
-                    .withIdentity(requestUrl, "detection" + requestUrl)
+                    .withIdentity(documentUrl, "detection" + documentUrl)
                     .withSchedule(SimpleScheduleBuilder.simpleSchedule()
                             .withIntervalInSeconds(detectionInterval)
                             .repeatForever())
@@ -134,7 +134,7 @@ public class JobManager {
 
             try {
                 scheduler.scheduleJob(detectionJob, detectionTrigger);
-                logger.info("Started detection job for '{}'.", requestUrl);
+                logger.info("Started detection job for '{}'.", documentUrl);
             } catch (ObjectAlreadyExistsException ignored) {
                 // there is already a job monitoring the request url, so ignore this
             }
@@ -142,9 +142,9 @@ public class JobManager {
             String keywordJson = new Gson().toJson(request.getKeywords());
 
             JobDetail matchingJob = JobBuilder.newJob(MatchingJob.class)
-                    .withIdentity(responseUrl, "matching" + requestUrl)
+                    .withIdentity(clientUrl, "matching" + documentUrl)
                     .usingJobData(MatchingJob.PARENT_JOB_MANAGER, managerName)
-                    .usingJobData(MatchingJob.REQUEST_URL, requestUrl)
+                    .usingJobData(MatchingJob.REQUEST_URL, documentUrl)
                     .usingJobData(MatchingJob.KEYWORDS, keywordJson)
                     .usingJobData(MatchingJob.IGNORE_ADDED, request.getIgnoreAdded())
                     .usingJobData(MatchingJob.IGNORE_REMOVED, request.getIgnoreRemoved())
@@ -155,7 +155,7 @@ public class JobManager {
             cal.add(Calendar.SECOND, request.getInterval());
 
             Trigger matchingTrigger = TriggerBuilder.newTrigger()
-                    .withIdentity(responseUrl, "matching" + requestUrl)
+                    .withIdentity(clientUrl, "matching" + documentUrl)
                     .startAt(cal.getTime())
                     .withSchedule(SimpleScheduleBuilder.simpleSchedule()
                             .withIntervalInSeconds(request.getInterval())
@@ -176,44 +176,44 @@ public class JobManager {
     }
 
 
-    void timeoutDetectionJob(String requestUrl) {
+    void timeoutDetectionJob(String documentUrl) {
         try {
-            Set<JobKey> keys = scheduler.getJobKeys(GroupMatcher.groupEquals("matching" + requestUrl));
+            Set<JobKey> keys = scheduler.getJobKeys(GroupMatcher.groupEquals("matching" + documentUrl));
             for (JobKey k : keys) {
-                String responseUrl = k.getName();
-                sendTimeoutResponse(requestUrl, responseUrl);
+                String clientUrl = k.getName();
+                sendTimeoutResponse(documentUrl, clientUrl);
                 scheduler.interrupt(k);
                 scheduler.deleteJob(k);
             }
 
-            JobKey detectJobKey = new JobKey(requestUrl, "detection" + requestUrl);
+            JobKey detectJobKey = new JobKey(documentUrl, "detection" + documentUrl);
             scheduler.interrupt(detectJobKey);
             scheduler.deleteJob(detectJobKey);
-            handler.removeExistingDifferences(requestUrl);
-            logger.info("Timed-out detection job for '{}'.", requestUrl);
+            handler.removeExistingDifferences(documentUrl);
+            logger.info("Timed-out detection job for '{}'.", documentUrl);
         } catch (SchedulerException ex) {
             logger.error(ex.getMessage(), ex);
         }
     }
 
 
-    public boolean cancelMatchingJob(String requestUrl, final String responseUrl) {
+    public boolean cancelMatchingJob(String documentUrl, final String clientUrl) {
         try {
-            JobKey matchingJobKey = new JobKey(responseUrl, "matching" + requestUrl);
+            JobKey matchingJobKey = new JobKey(clientUrl, "matching" + documentUrl);
             scheduler.interrupt(matchingJobKey);
             boolean wasDeleted = scheduler.deleteJob(matchingJobKey);
 
             if (wasDeleted) {
                 // check if there are more match jobs for the same request url
-                Set<JobKey> keys = scheduler.getJobKeys(GroupMatcher.groupEquals("matching" + requestUrl));
+                Set<JobKey> keys = scheduler.getJobKeys(GroupMatcher.groupEquals("matching" + documentUrl));
                 if (keys.isEmpty()) {
                     // no more matching jobs for this document! interrupt the
                     // DiffDetectJob
-                    JobKey detectJobKey = new JobKey(requestUrl, "detection" + requestUrl);
+                    JobKey detectJobKey = new JobKey(documentUrl, "detection" + documentUrl);
                     scheduler.interrupt(detectJobKey);
                     scheduler.deleteJob(detectJobKey);
-                    handler.removeExistingDifferences(requestUrl);
-                    logger.info("Canceled detection job for '{}'.", requestUrl);
+                    handler.removeExistingDifferences(documentUrl);
+                    logger.info("Canceled detection job for '{}'.", documentUrl);
                 }
             }
 
@@ -273,37 +273,37 @@ public class JobManager {
     }
 
 
-    final boolean responseOk(final String requestUrl,
-                             final String responseUrl,
+    final boolean responseOk(final String documentUrl,
+                             final String clientUrl,
                              final Set<DifferenceMatcher.Result> diffs) {
         Map<String, Object> jsonResponseMap = new LinkedHashMap<>();
         jsonResponseMap.put("status", "ok");
-        jsonResponseMap.put("url", requestUrl);
+        jsonResponseMap.put("url", documentUrl);
         jsonResponseMap.put("diffs", diffs);
         GsonBuilder gsonBuilder = new GsonBuilder();
         gsonBuilder.registerTypeAdapter(Keyword.class, new KeywordSerializer());
         String input = gsonBuilder.create().toJson(jsonResponseMap);
-        return sendResponse(responseUrl, input);
+        return sendResponse(clientUrl, input);
     }
 
 
-    final boolean sendTimeoutResponse(final String requestUrl,
-                                      final String responseUrl) {
+    final boolean sendTimeoutResponse(final String documentUrl,
+                                      final String clientUrl) {
         Map<String, Object> jsonResponseMap = new LinkedHashMap<>();
         jsonResponseMap.put("status", "timeout");
-        jsonResponseMap.put("url", requestUrl);
+        jsonResponseMap.put("url", documentUrl);
         Set<DifferenceMatcher.Result> diffs = Collections.emptySet();
         jsonResponseMap.put("diffs", diffs);
         GsonBuilder gsonBuilder = new GsonBuilder();
         gsonBuilder.registerTypeAdapter(Keyword.class, new KeywordSerializer());
         String input = gsonBuilder.create().toJson(jsonResponseMap);
-        return sendResponse(responseUrl, input);
+        return sendResponse(clientUrl, input);
     }
 
 
-    private boolean sendResponse(final String responseUrl, final String input) {
+    private boolean sendResponse(final String clientUrl, final String input) {
         try {
-            URL targetUrl = new URL(responseUrl);
+            URL targetUrl = new URL(clientUrl);
 
             HttpURLConnection httpConnection = (HttpURLConnection) targetUrl.openConnection();
             httpConnection.setDoOutput(true);

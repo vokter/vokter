@@ -16,8 +16,8 @@
 
 package com.edduarte.argus.diff;
 
-import com.edduarte.argus.keyword.Keyword;
 import com.aliasi.util.Pair;
+import com.edduarte.argus.keyword.Keyword;
 import com.google.common.base.Stopwatch;
 import com.google.common.hash.BloomFilter;
 import org.eclipse.jetty.util.ConcurrentHashSet;
@@ -30,7 +30,7 @@ import java.util.concurrent.Callable;
 
 /**
  * @author Ed Duarte (<a href="mailto:ed@edduarte.com">ed@edduarte.com</a>)
- * @version 1.3.2
+ * @version 1.3.3
  * @since 1.0.0
  */
 public class DifferenceMatcher implements Callable<Set<DifferenceMatcher.Result>> {

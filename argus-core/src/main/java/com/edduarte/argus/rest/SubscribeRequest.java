@@ -27,10 +27,10 @@ import java.util.List;
  * This request is consumed by the 'watch' method in the RESTResource class.
  *
  * @author Ed Duarte (<a href="mailto:ed@edduarte.com">ed@edduarte.com</a>)
- * @version 1.3.2
+ * @version 1.3.3
  * @since 1.0.0
  */
-public class WatchRequest implements Serializable {
+public class SubscribeRequest implements Serializable {
     private static final long serialVersionUID = 1L;
 
     private static final int DEFAULT_INTERVAL = 600;
@@ -40,13 +40,23 @@ public class WatchRequest implements Serializable {
     private static final boolean DEFAULT_IGNORE_REMOVED = false;
 
     @JsonProperty
-    private String documentUrl; // mandatory fields
+    private String documentUrl; // mandatory field
 
     @JsonProperty
-    private String receiverUrl; // mandatory fields
+    private String clientUrl; // mandatory field
 
     @JsonProperty
-    private List<String> keywords; // mandatory fields
+    @Deprecated
+    /**
+     * Deprecated and replaced by 'clientUrl'. This attribute was kept for
+     * backwards-compatibility purposes, since this is only used if the
+     * subscribe request was sent using 'receiverUrl' and NOT 'clientUrl' (as
+     * documented in versions earlier than 1.3.3).
+     */
+    private String receiverUrl; // mandatory field
+
+    @JsonProperty
+    private List<String> keywords; // mandatory field
 
     @JsonProperty
     private int interval;
@@ -57,10 +67,11 @@ public class WatchRequest implements Serializable {
     @JsonProperty
     private boolean ignoreRemoved;
 
+
     /**
      * Used by GSON.
      */
-    public WatchRequest() {
+    public SubscribeRequest() {
         this.interval = DEFAULT_INTERVAL;
         this.ignoreAdded = DEFAULT_IGNORE_ADDED;
         this.ignoreRemoved = DEFAULT_IGNORE_REMOVED;
@@ -70,14 +81,14 @@ public class WatchRequest implements Serializable {
     /**
      * Used for testing only.
      */
-    public WatchRequest(final String documentUrl,
-                        final String receiverUrl,
-                        final List<String> keywords,
-                        final int interval,
-                        final boolean ignoreAdded,
-                        final boolean ignoreRemoved) {
+    public SubscribeRequest(final String documentUrl,
+                            final String clientUrl,
+                            final List<String> keywords,
+                            final int interval,
+                            final boolean ignoreAdded,
+                            final boolean ignoreRemoved) {
         this.documentUrl = documentUrl;
-        this.receiverUrl = receiverUrl;
+        this.clientUrl = clientUrl;
         this.keywords = keywords;
         this.interval = interval;
         this.ignoreAdded = ignoreAdded;
@@ -90,8 +101,8 @@ public class WatchRequest implements Serializable {
     }
 
 
-    public String getReceiverUrl() {
-        return receiverUrl;
+    public String getClientUrl() {
+        return clientUrl != null ? clientUrl : receiverUrl;
     }
 
 

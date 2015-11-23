@@ -21,13 +21,11 @@ import com.edduarte.argus.diff.DifferenceDetector;
 import com.edduarte.argus.document.Document;
 import com.edduarte.argus.document.DocumentBuilder;
 import com.edduarte.argus.document.DocumentCollection;
-import com.edduarte.argus.job.JobManager;
-import com.edduarte.argus.job.JobManagerHandler;
 import com.edduarte.argus.keyword.Keyword;
 import com.edduarte.argus.keyword.KeywordBuilder;
 import com.edduarte.argus.parser.ParserPool;
 import com.edduarte.argus.parser.SimpleParser;
-import com.edduarte.argus.rest.WatchRequest;
+import com.edduarte.argus.rest.SubscribeRequest;
 import com.google.common.collect.Lists;
 import com.mongodb.BulkWriteOperation;
 import com.mongodb.DB;
@@ -185,7 +183,7 @@ public class JobManagerTest {
         manager.initialize();
 
 
-        boolean wasCreated = manager.createJob(new WatchRequest(
+        boolean wasCreated = manager.createJob(new SubscribeRequest(
                 "testRequestUrl",
                 "https://www.google.com",
                 Lists.newArrayList("the greek", "argus panoptes"),
@@ -202,7 +200,7 @@ public class JobManagerTest {
         Thread.sleep(20000);
 
 
-        wasCreated = manager.createJob(new WatchRequest(
+        wasCreated = manager.createJob(new SubscribeRequest(
                 "testRequestUrl",
                 "https://www.google.com",
                 Lists.newArrayList("argus"),
@@ -211,7 +209,7 @@ public class JobManagerTest {
                 false
         ));
         assertFalse(wasCreated);
-        wasCreated = manager.createJob(new WatchRequest(
+        wasCreated = manager.createJob(new SubscribeRequest(
                 "testRequestUrl",
                 "https://www.google.pt",
                 Lists.newArrayList("argus"),
@@ -230,7 +228,7 @@ public class JobManagerTest {
         Thread.sleep(30000);
 
 
-        wasCreated = manager.createJob(new WatchRequest(
+        wasCreated = manager.createJob(new SubscribeRequest(
                 "testRequestUrl",
                 "https://www.google.com",
                 Lists.newArrayList("the greek", "argus panoptes"),

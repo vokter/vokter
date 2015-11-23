@@ -11,6 +11,11 @@ This service implements a information retrieval system that fetches, indexes and
 - [Getting Started](#getting-started)
     + [Installation](#installation)
     + [Usage](#usage)
+        * [Request: Subscribe](#request-subscribe)
+        * [Request: Cancel](#request-cancel)
+        * [Response](#response)
+        * [Notification: OK](#notification-ok)
+        * [Notification: Timeout](#notification-timeout)
 - [Dependencies](#dependencies)
 - [Architecture](#architecture)
     + [Job Management](#job-management)
@@ -21,14 +26,14 @@ This service implements a information retrieval system that fetches, indexes and
     + [Persistence](#persistence)
     + [Reading](#reading)
     + [Indexing](#indexing)
-- [Caveats](#caveats)
+- [Caveats / Future Work](#caveats-future-work)
 - [License](#license)
 
 # Getting Started
 
 ## Installation
 
-Argus uses the Publish/Subscribe model, where <u>**an additional Client web service with a REST API must be implemented to request and consume Argus web service**</u>. This allows for an asynchronous operation, where the client does not have to lock its operations while waiting for page changes nor implement a busy-waiting condition checking of Argus status.
+Argus uses the Reactive (Publish/Subscribe) model, where <u>**an additional Client web service with a REST API must be implemented to consume Argus web service**</u>. This allows for an asynchronous operation, where the client does not have to lock its operations while waiting for page changes nor implement a busy-waiting condition checking of Argus status.
 
 Once you have a client web service running, follow the steps below:
 
@@ -61,16 +66,17 @@ Optional arguments:
 
 ## Usage
 
-To watch for content, a POST call must be sent to ** http://localhost:9000/argus/v1/watch ** with the following JSON body:
+### Request: Subscribe
+
+To watch for content changes in a document, a POST call must be sent to ** http://localhost:9000/argus/v1/subscribe ** with the following JSON body:
 ```javascript
 {
     "documentUrl": "http://www.example.com", // the page to be watched (mandatory field)
-    "receiverUrl": "http://your.site/client-rest-api", // the client web service that will receive detected differences (mandatory field)
+    "clientUrl": "http://your.site/client-rest-api", // the client web service that will receive detected differences (mandatory field)
     "keywords": // the keywords to watch for (mandatory field)
     [
-        "argus", // looks for changes with this word (if stemming is enabled, looks for changes in lexical variants)
-        "panoptes", // looks for changes with this word (if stemming is enabled, looks for changes in lexical variants)
-        "argus panoptes" // looks for an exact match of this phrase (if stemming is enabled, looks for changes in lexical variants)
+        "argus", // looks for changes with this word (and lexical variants if stemming is enabled)
+        "argus panoptes" // looks for changes with this exact phrase (and lexical variants if stemming is enabled)
     ],
     "interval": 600, // the elapsed duration (in seconds) between page checks (optional field, defaults to 600)
     "ignoreAdded": false, // if 'true', ignore events where the keyword was added to the page (optional field, defaults to 'false')
@@ -78,7 +84,45 @@ To watch for content, a POST call must be sent to ** http://localhost:9000/argus
 }
 ```
 
-When detected differences are matched with keywords, notifications are asynchronously sent to the provided response URL in POST with the following JSON body:
+Note that a subscribe request is uniquely identified by both its document URL and its client URL. This means that a single client can subscribe and receive notifications of multiple documents simultaneously, and a single document can be watched by multiple clients.
+
+### Request: Cancel
+
+To manually cancel a watch job, a POST call must be sent to ** http://localhost:9000/argus/v1/cancel ** with the following JSON body:
+```javascript
+{
+    "documentUrl": "http://www.example.com", // the page that was being watched (mandatory field)
+    "clientUrl": "http://your.site/client-rest-api" // the client web service (mandatory field)
+}
+```
+
+### Response
+
+Immediate responses are returned for every subscribe or cancel request, showing if said request was successful or not with the following JSON body:
+```javascript
+{
+    "code": "0" // a number that uniquely identifies this error type (0 when the request was successful)
+    "message": "" // reason for the error (empty when the request was successful)
+}
+```
+
+The error code is useful to convert received responses into custom error messages displayed to the user in the client app. The following list shows all possible error codes:
+
+| Code | Message |
+|------|---------|
+| 1 | The provided document URL is invalid. |
+| 2 | The provided client URL is invalid. |
+| 3 | You need to provide at least one valid keyword. |
+| 4 | At least one difference action ('added' or 'removed') must not be ignored. |
+| 5 | The request conflicts with a currently active watch job, since the provided document URL is already being watched and notified to the provided client URL. |
+| 6 | The request has an invalid format. |
+| 7 | The specified job to cancel does not exist. |
+
+### Notification: OK
+
+Notifications are REST requests, sent as POSTs, to the provided client URL at any time. The client URL should be implemented to accept the requests below.
+
+When detected differences are matched with keywords, Argus sends notifications to the provided client URL with the following JSON body:
 ```javascript
 {
     "status": "ok",
@@ -98,28 +142,14 @@ When detected differences are matched with keywords, notifications are asynchron
 }
 ```
 
-Argus is capable of managing a high number of concurrent watch jobs, as it is implemented to save resources and free up database and memory space whenever possible. To this effect, Argus automatically expires jobs when it fails to fetch a web document after 10 consecutive tries. When that happens, the following JSON body is sent to the response URL:
+### Notification: Timeout
+
+Argus is capable of managing a high number of concurrent watch jobs, and is implemented to save resources and free up database and memory space whenever possible. To this effect, Argus automatically expires jobs when it fails to fetch a web document after 10 consecutive tries. When that happens, the following JSON body is sent:
 ```javascript
 {
     "status": "timeout",
     "url": "http://www.example.com",
     "diffs": []
-}
-```
-
-Finally, to manually cancel a watch job, a POST call must be sent to ** http://localhost:9000/argus/v1/cancel ** with the following JSON body:
-```javascript
-{
-    "documentUrl": "http://www.example.com", // the page that was being watched (mandatory field)
-    "receiverUrl": "http://your.site/client-rest-api" // the client web service (mandatory field)
-}
-```
-
-Immediate responses are returned for every watch or cancel request, showing if the request was successful or not with the following JSON body:
-```javascript
-{
-    "code": "ok"/"error",
-    "message": "..."
 }
 ```
 
@@ -198,12 +228,12 @@ Stemmer classes and stop-word files, both from the Snowball project, follow the 
 
 To ensure a concurrent architecture, where multiple parsing calls should be performed in parallel, Argus will instance multiple parsers when deployed and store them in a blocking queue. The number of parsers corresponds to the number of cores available in the machine where Argus was deployed to.
 
-# Caveats
+# Caveats / Future Work
 
-- Argus has only been used in a production environment for academic projects, and has not been battle-tested or integrated in consumer software;
-- the intervals for difference-matching jobs can be set on the watch request, but difference-detection occurs independently of difference-matching so it can accommodate to all matching jobs for the same document. This means that difference-detection job needs to use an internal interval (420 seconds), and that matching jobs that are configured to run more frequently than that interval will look for matches on the same detected differences two times or more. The architecture should be revised so that:
-    + intervals cannot be configured;
-    + matching jobs are not scheduled but rather invoked once a detection job is completed.
+- this project has only been used in a production environment for academic projects, and has not been battle-tested or integrated in consumer software;
+- client APIs are publicly exposed, and anyone can simulate Argus notifications sent to that API and produce erroneous results on the client app. A secret token should be passed on successful subscribe requests and on further notifications to that client, so that the client can properly identify the received request as Argus';
+- stopword filtering and stemming should be done on a request basis, not on a server basis;
+- the intervals for difference-matching jobs can be set on the watch request, but difference-detection occurs independently of difference-matching so it can accommodate to all matching jobs for the same document. This means that difference-detection job needs to use an internal interval (420 seconds), and that matching jobs that are configured to run more frequently than that interval will look for matches on the same detected differences two times or more. The architecture should be revised so that intervals cannot be configured and matching jobs are not scheduled but rather invoked once their respective detection job is complete.
 
 # License
 

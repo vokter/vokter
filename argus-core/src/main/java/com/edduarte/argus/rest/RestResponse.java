@@ -21,19 +21,19 @@ import org.codehaus.jackson.annotate.JsonProperty;
 
 /**
  * @author Ed Duarte (<a href="mailto:ed@edduarte.com">ed@edduarte.com</a>)
- * @version 1.3.2
+ * @version 1.3.3
  * @since 1.0.0
  */
 public class RestResponse {
 
     @JsonProperty
-    private final Code code;
+    private final int code;
 
     @JsonProperty
     private final String message;
 
 
-    public RestResponse(Code code, String message) {
+    public RestResponse(int code, String message) {
         this.code = code;
         this.message = message;
     }
@@ -43,10 +43,5 @@ public class RestResponse {
     public String toString() {
         Gson gson = new Gson();
         return gson.toJson(this);
-    }
-
-
-    public static enum Code {
-        ok, error
     }
 }
