@@ -4,7 +4,7 @@
 [![Coverage Status](https://img.shields.io/coveralls/edduarte/argus.svg)](https://coveralls.io/r/edduarte/argus)
 [![GitHub release](https://img.shields.io/github/release/edduarte/argus.svg)](https://github.com/edduarte/argus/releases)
 
-Argus is a high-performance, scalable web service that uses Quartz Scheduler, DiffMatchPatch and MongoDB to provides web-page monitoring, triggering notifications when specified keywords were either added or removed from a web document.
+Argus is a high-performance, scalable web service that uses Quartz Scheduler, DiffMatchPatch and MongoDB to provide web-page monitoring, triggering notifications when specified keywords were either added or removed from a web document.
 
 This service implements a information retrieval system that fetches, indexes and performs queries over web documents on a periodic basis. Difference detection is implemented by comparing occurrences between two snapshots of the same document. Additionally, it supports multi-language stop-word filtering to ignore changes in common grammatical conjunctions or articles, and stemming to detect changes in lexically derived words.
 
