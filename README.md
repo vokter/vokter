@@ -34,7 +34,7 @@ This service implements a information retrieval system that fetches, indexes and
 ## Installation
 
 Argus uses the Reactive (Publish/Subscribe) model, where an additional Client web service with a REST API must be implemented to consume Argus web service.  
-** An example RESTful web app that interoperates with Argus is [available here](https://github.com/edduarte/argus/tree/master/argus-client/java). Feel free to reuse this code in your own client app. **
+<b>An example RESTful web app that interoperates with Argus is [available here](https://github.com/edduarte/argus/tree/master/argus-client/java). Feel free to reuse this code in your own client app.</b>
 
 Once you have a client web service running, follow the steps below:
 
