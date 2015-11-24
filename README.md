@@ -231,7 +231,11 @@ To ensure a concurrent architecture, where multiple parsing calls should be perf
 - this project has only been used in a production environment for academic projects, and has not been battle-tested or integrated in consumer software;
 - client APIs are publicly exposed, and anyone can simulate Argus notifications sent to that API and produce erroneous results on the client app. A secret token should be passed on successful subscribe requests and on further notifications to that client, so that the client can properly identify the received request as Argus';
 - stopword filtering and stemming should be done on a request basis, not on a server basis;
-- the intervals for difference-matching jobs can be set on the watch request, but difference-detection occurs independently of difference-matching so it can accommodate to all matching jobs for the same document. This means that difference-detection job needs to use an internal interval (420 seconds), and that matching jobs that are configured to run more frequently than that interval will look for matches on the same detected differences two times or more. The architecture should be revised so that intervals cannot be configured and matching jobs are not scheduled but rather invoked once their respective detection job is complete.
+- only MongoDB is currently supported, but adding support to MySQL and PostgreSQL should not be very hard to do;
+- the architecture should be revised so that intervals cannot be configured and matching jobs are not scheduled but rather invoked once their respective detection job is complete.
+
+
+<b>More information on the latter caveat:</b> the intervals for difference-matching jobs can be set on the watch request, but difference-detection occurs independently of difference-matching so it can accommodate to all matching jobs for the same document. This means that difference-detection job needs to use an internal interval (420 seconds), and that matching jobs that are configured to run more frequently than that interval will look for matches on the same detected differences two times or more. 
 
 # License
 
