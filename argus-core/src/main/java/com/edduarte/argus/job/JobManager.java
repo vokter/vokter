@@ -251,8 +251,7 @@ public class JobManager {
                     JobDataMap dataMap = jobDetail.getJobDataMap();
                     dataMap.put(MatchingJob.HAS_NEW_DIFFS, true);
 
-                    scheduler.unscheduleJob(trigger.getKey());
-                    scheduler.scheduleJob(jobDetail, trigger);
+                    attemptRefreshJob(jobDetail, trigger, 10);
                 }
             } catch (SchedulerException ex) {
                 logger.error(ex.getMessage(), ex);
@@ -260,6 +259,21 @@ public class JobManager {
         }
 
         return wasSuccessful;
+    }
+
+
+    private void attemptRefreshJob(JobDetail jobDetail, Trigger trigger, int tries) {
+        if (tries > 0) {
+            try {
+                scheduler.unscheduleJob(trigger.getKey());
+                scheduler.scheduleJob(jobDetail, trigger);
+            } catch (SchedulerException ignored) {
+                // could not refresh job because the it did not unschedule properly
+                int newCount = tries - 1;
+                logger.info("Error while refreshing job, attempting " + newCount + " more times.");
+                attemptRefreshJob(jobDetail, trigger, newCount);
+            }
+        }
     }
 
 

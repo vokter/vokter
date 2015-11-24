@@ -79,9 +79,13 @@ public class JobManagerTest {
         jobsDB = mongoClient.getDB("argus_jobs");
         jobsDB.dropDatabase();
         documentsDB = mongoClient.getDB("test_documents_db");
+        documentsDB.dropDatabase();
         occurrencesDB = mongoClient.getDB("test_terms_db");
-        differencesDB = mongoClient.getDB("text_differences_db");
+        occurrencesDB.dropDatabase();
+        differencesDB = mongoClient.getDB("test_differences_db");
+        differencesDB.dropDatabase();
         jobsDB = mongoClient.getDB("test_jobs_db");
+        jobsDB.dropDatabase();
         parserPool = new ParserPool();
         parserPool.place(new SimpleParser());
         collection = new DocumentCollection(
