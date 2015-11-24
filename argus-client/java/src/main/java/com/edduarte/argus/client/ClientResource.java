@@ -17,7 +17,6 @@
 package com.edduarte.argus.client;
 
 import com.google.gson.Gson;
-import javafx.util.Pair;
 
 import javax.ws.rs.Consumes;
 import javax.ws.rs.GET;
@@ -48,30 +47,60 @@ import java.util.Map;
 public class ClientResource {
 
     /**
-     * WARNING: If you deployed this client in another hostname,
-     * change the following four Strings accordingly.
+     * WARNING: If did not deploy this client in the default host, change the
+     * following 4 Strings accordingly.
      */
-    private static final String PROTOCOL = "http:";
-    private static final String HOSTNAME = "localhost";
-    private static final String PORT = "8080";
-    private static final String WAR_NAME = ""; // write the war name if its deployed on jetty, or leave this empty if its deployed on tomcat
+    private static final String CLIENT_PROTOCOL = "http:";
+    private static final String CLIENT_HOSTNAME = "localhost";
+    private static final String CLIENT_PORT = "8080";
+    private static final String CLIENT_WAR_NAME = ""; // write the war name if its deployed on jetty, or leave this empty if its deployed on tomcat
+
+    /**
+     * WARNING: If did not deploy Argus server in its default host, change the
+     * following 4 Strings accordingly.
+    */
+    private static final String SERVER_PROTOCOL = "http:";
+    private static final String SERVER_HOSTNAME = "localhost";
+    private static final String SERVER_PORT = "9000";
+    private static final String SERVER_WAR_NAME = ""; // write the war name if its deployed on jetty, or leave this empty if its deployed on tomcat
+
+
+
+
 
 
     private static final String CLIENT_URL;
     static {
         StringBuilder aux = new StringBuilder()
-                .append(PROTOCOL)
+                .append(CLIENT_PROTOCOL)
                 .append("//")
-                .append(HOSTNAME)
+                .append(CLIENT_HOSTNAME)
                 .append(":")
-                .append(PORT)
+                .append(CLIENT_PORT)
                 .append("/")
-                .append(WAR_NAME);
+                .append(CLIENT_WAR_NAME);
         if (aux.charAt(aux.length() - 1) != '/') {
             aux.append("/");
         }
         aux.append("rest/notification/");
         CLIENT_URL = aux.toString();
+    }
+
+    private static final String SERVER_URL;
+    static {
+        StringBuilder aux = new StringBuilder()
+                .append(SERVER_PROTOCOL)
+                .append("//")
+                .append(SERVER_HOSTNAME)
+                .append(":")
+                .append(SERVER_PORT)
+                .append("/")
+                .append(SERVER_WAR_NAME);
+        if (aux.charAt(aux.length() - 1) != '/') {
+            aux.append("/");
+        }
+        aux.append("argus/v1/");
+        SERVER_URL = aux.toString();
     }
 
 
@@ -95,7 +124,7 @@ public class ClientResource {
 
     /**
      * Usage:
-     * http://localhost:8080/rest/watch?url=<encoded-url></>&keywords=<keywords-separated-by-commas>
+     * http://localhost:8080/rest/watch?url=ENCODED_URL&keywords=KEYWORDS_SEPARATED_WITH_COMMAS
      *
      * Example (enter this in the address bar of your browser):
      * http://localhost:8080/rest/watch?url=http%3A%2F%2Fbbc.com&keywords=a,the
@@ -114,14 +143,14 @@ public class ClientResource {
         String input = new Gson().toJson(requestJson);
 
         // send the above JSON body to /argus/v1/subscribe/
-        ResponseBody responseBody = sendRequest("http://localhost:9000/argus/v1/subscribe/", input);
+        ResponseBody responseBody = sendRequest(SERVER_URL + "subscribe/", input);
         return parseResponse(url, "watch", responseBody);
     }
 
 
     /**
      * Usage:
-     * http://localhost:8080/rest/cancel?url=<encoded-url></>
+     * http://localhost:8080/rest/cancel?url=ENCODED_URL
      *
      * Example (enter this in the address bar of your browser):
      * http://localhost:8080/rest/cancel?url=http%3A%2F%2Fbbc.com
@@ -138,7 +167,7 @@ public class ClientResource {
         String input = new Gson().toJson(requestJson);
 
         // send the above JSON body to /argus/v1/cancel/
-        ResponseBody responseBody = sendRequest("http://localhost:9000/argus/v1/cancel/", input);
+        ResponseBody responseBody = sendRequest(SERVER_URL + "cancel/", input);
         return parseResponse(url, "cancel", responseBody);
     }
 

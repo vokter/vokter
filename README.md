@@ -33,20 +33,19 @@ This service implements a information retrieval system that fetches, indexes and
 
 ## Installation
 
-Argus uses the Reactive (Publish/Subscribe) model, where <u>**an additional Client web service with a REST API must be implemented to consume Argus web service**</u>. This allows for an asynchronous operation, where the client does not have to implement a busy-waiting condition checking of Argus status.
+Argus uses the Reactive (Publish/Subscribe) model, where an additional Client web service with a REST API must be implemented to consume Argus web service.  
+** An example RESTful web app that interoperates with Argus is [available here](https://github.com/edduarte/argus/tree/master/argus-client/java). Feel free to reuse this code in your own client app. **
 
 Once you have a client web service running, follow the steps below:
 
-1. Download [MongoDB](https://www.mongodb.org/downloads)
-2. Run MongoDB with
-    ```
-    mongod
-    ```
-3. Download the [latest release](https://github.com/edduarte/argus/releases) of Argus
-4. Run Argus with
-```
-java -jar argus-core.jar
+1. Download and install [MongoDB](https://www.mongodb.org/downloads)
 
+2. Run MongoDB with ``` mongod ```
+
+3. Download the [latest release of Argus core server](https://github.com/edduarte/argus/releases/download/1.4.1/argus-core.zip)
+
+4. Run Argus with ``` java -jar argus-core.jar```
+```
 Optional arguments:
  -h,--help               Shows this help prompt.
  -p,--port <arg>         Core server port. Defaults to 9000.
