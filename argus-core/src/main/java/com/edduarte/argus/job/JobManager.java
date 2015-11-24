@@ -198,10 +198,14 @@ public class JobManager {
 
 
     public boolean cancelMatchingJob(String documentUrl, final String clientUrl) {
+        JobKey matchingJobKey = new JobKey(clientUrl, "matching" + documentUrl);
+        return cancelMatchingJobAux(documentUrl, matchingJobKey);
+    }
+
+    private boolean cancelMatchingJobAux(String documentUrl, JobKey jobKey) {
         try {
-            JobKey matchingJobKey = new JobKey(clientUrl, "matching" + documentUrl);
-            scheduler.interrupt(matchingJobKey);
-            boolean wasDeleted = scheduler.deleteJob(matchingJobKey);
+            scheduler.interrupt(jobKey);
+            boolean wasDeleted = scheduler.deleteJob(jobKey);
 
             if (wasDeleted) {
                 // check if there are more match jobs for the same request url
@@ -235,23 +239,31 @@ public class JobManager {
     }
 
 
-    final boolean callDetectDiffImpl(String url) {
-        boolean wasSuccessful = handler.detectDifferences(url);
+    final boolean callDetectDiffImpl(String documentUrl) {
+        boolean wasSuccessful = handler.detectDifferences(documentUrl);
 
         // notify all matching jobs of that url that there are new differences to match
         if (wasSuccessful) {
             try {
-                Set<JobKey> keys = scheduler.getJobKeys(GroupMatcher.groupEquals("matching" + url));
+                Set<JobKey> keys = scheduler.getJobKeys(GroupMatcher.groupEquals("matching" + documentUrl));
                 for (JobKey k : keys) {
                     JobDetail jobDetail = scheduler.getJobDetail(k);
                     List<? extends Trigger> triggerList = scheduler.getTriggersOfJob(k);
-                    Trigger trigger = triggerList.get(0);
+                    if (!triggerList.isEmpty()) {
+                        Trigger trigger = triggerList.get(0);
 
-                    // update job to say that he has new diffs
-                    JobDataMap dataMap = jobDetail.getJobDataMap();
-                    dataMap.put(MatchingJob.HAS_NEW_DIFFS, true);
+                        // update job to say that he has new diffs
+                        JobDataMap dataMap = jobDetail.getJobDataMap();
+                        dataMap.put(MatchingJob.HAS_NEW_DIFFS, true);
 
-                    attemptRefreshJob(jobDetail, trigger, 10);
+                        attemptRefreshJob(jobDetail, trigger, 10);
+
+                    } else {
+                        // invalid state, where there is still an active job
+                        // without triggers
+                        // unschedule it!
+                        cancelMatchingJobAux(documentUrl, k);
+                    }
                 }
             } catch (SchedulerException ex) {
                 logger.error(ex.getMessage(), ex);
