@@ -33,7 +33,7 @@ This service implements a information retrieval system that fetches, indexes and
 
 ## Installation
 
-Argus uses the Reactive (Publish/Subscribe) model, where <u>**an additional Client web service with a REST API must be implemented to consume Argus web service**</u>. This allows for an asynchronous operation, where the client does not have to lock its operations while waiting for page changes nor implement a busy-waiting condition checking of Argus status.
+Argus uses the Reactive (Publish/Subscribe) model, where <u>**an additional Client web service with a REST API must be implemented to consume Argus web service**</u>. This allows for an asynchronous operation, where the client does not have to implement a busy-waiting condition checking of Argus status.
 
 Once you have a client web service running, follow the steps below:
 

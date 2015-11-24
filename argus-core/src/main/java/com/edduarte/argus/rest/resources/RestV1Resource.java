@@ -18,7 +18,7 @@ package com.edduarte.argus.rest.resources;
 
 import com.edduarte.argus.Context;
 import com.edduarte.argus.rest.CancelRequest;
-import com.edduarte.argus.rest.RestResponse;
+import com.edduarte.argus.rest.ResponseBody;
 import com.edduarte.argus.rest.SubscribeRequest;
 import com.google.common.collect.Lists;
 import com.google.gson.Gson;
@@ -37,10 +37,10 @@ import java.util.List;
 import java.util.concurrent.ExecutionException;
 
 /**
- * REST Resource for calls on path "/rest/v1/".
+ * REST Resource for calls on path "/argus/v1/".
  *
  * @author Ed Duarte (<a href="mailto:ed@edduarte.com">ed@edduarte.com</a>)
- * @version 1.3.3
+ * @version 1.4.1
  * @since 1.0.0
  */
 @Path("/v1/")
@@ -69,7 +69,7 @@ public class RestV1Resource {
     @Path("exampleResponse")
     @Consumes(MediaType.APPLICATION_JSON)
     public Response exampleResponse() {
-        RestResponse responseBody = new RestResponse(0, "");
+        ResponseBody responseBody = new ResponseBody(0, "");
         return Response.status(200)
                 .type(MediaType.APPLICATION_JSON)
                 .entity(responseBody.toString())
@@ -88,12 +88,12 @@ public class RestV1Resource {
                     SubscribeRequest.class
             );
             String[] schemes = {"http", "https"};
-            UrlValidator urlValidator = new UrlValidator(schemes);
+            UrlValidator urlValidator = new UrlValidator(schemes, UrlValidator.ALLOW_LOCAL_URLS);
 
             String documentUrl = subscribeRequest.getDocumentUrl();
             if (documentUrl == null || documentUrl.isEmpty() ||
                     !urlValidator.isValid(documentUrl)) {
-                RestResponse responseBody = new RestResponse(1,
+                ResponseBody responseBody = new ResponseBody(1,
                         "The provided document URL is invalid.");
                 return Response.status(400)
                         .type(MediaType.APPLICATION_JSON)
@@ -104,7 +104,7 @@ public class RestV1Resource {
             String clientUrl = subscribeRequest.getClientUrl();
             if (clientUrl == null || clientUrl.isEmpty() ||
                     !urlValidator.isValid(clientUrl)) {
-                RestResponse responseBody = new RestResponse(2,
+                ResponseBody responseBody = new ResponseBody(2,
                         "The provided client URL is invalid.");
                 return Response.status(400)
                         .type(MediaType.APPLICATION_JSON)
@@ -123,7 +123,7 @@ public class RestV1Resource {
             }
 
             if (keywords == null || keywords.isEmpty()) {
-                RestResponse responseBody = new RestResponse(3,
+                ResponseBody responseBody = new ResponseBody(3,
                         "You need to provide at least one valid keyword.");
                 return Response.status(400)
                         .type(MediaType.APPLICATION_JSON)
@@ -131,11 +131,11 @@ public class RestV1Resource {
                         .build();
             }
 
-            if (!subscribeRequest.getIgnoreAdded() &&
-                    !subscribeRequest.getIgnoreRemoved()) {
-                RestResponse responseBody = new RestResponse(4,
-                        "At least one difference action ('added' or " +
-                                "'removed') must not be ignored.");
+            if (subscribeRequest.getIgnoreAdded() &&
+                    subscribeRequest.getIgnoreRemoved()) {
+                ResponseBody responseBody = new ResponseBody(4,
+                        "At least one difference action (added or " +
+                                "removed) must not be ignored.");
                 return Response.status(400)
                         .type(MediaType.APPLICATION_JSON)
                         .entity(responseBody.toString())
@@ -145,7 +145,7 @@ public class RestV1Resource {
             Context context = Context.getInstance();
             boolean created = context.createJob(subscribeRequest);
             if (created) {
-                RestResponse responseBody = new RestResponse(0,
+                ResponseBody responseBody = new ResponseBody(0,
                         ""
                 );
                 return Response.status(200)
@@ -153,7 +153,7 @@ public class RestV1Resource {
                         .entity(responseBody.toString())
                         .build();
             } else {
-                RestResponse responseBody = new RestResponse(5,
+                ResponseBody responseBody = new ResponseBody(5,
                         "The request conflicts with a currently active watch " +
                                 "job, since the provided document URL is " +
                                 "already being watched and notified to the " +
@@ -166,7 +166,7 @@ public class RestV1Resource {
 
         } catch (JsonSyntaxException ex) {
             // the job-request json had an invalid format
-            RestResponse responseBody = new RestResponse(6,
+            ResponseBody responseBody = new ResponseBody(6,
                     "The request has an invalid format.");
             return Response.status(400)
                     .type(MediaType.APPLICATION_JSON)
@@ -187,17 +187,17 @@ public class RestV1Resource {
 
             Context context = Context.getInstance();
             boolean wasDeleted = context.cancelJob(
-                    cancelRequest.documentUrl,
-                    cancelRequest.responseUrl
+                    cancelRequest.getDocumentUrl(),
+                    cancelRequest.getClientUrl()
             );
             if (wasDeleted) {
-                RestResponse responseBody = new RestResponse(0, "");
+                ResponseBody responseBody = new ResponseBody(0, "");
                 return Response.status(200)
                         .type(MediaType.APPLICATION_JSON)
                         .entity(responseBody.toString())
                         .build();
             } else {
-                RestResponse responseBody = new RestResponse(7,
+                ResponseBody responseBody = new ResponseBody(7,
                         "The specified job to cancel does not exist.");
                 return Response.status(404)
                         .type(MediaType.APPLICATION_JSON)
@@ -207,7 +207,7 @@ public class RestV1Resource {
 
         } catch (JsonSyntaxException ex) {
             // the cancel-request json had an invalid format
-            RestResponse responseBody = new RestResponse(6,
+            ResponseBody responseBody = new ResponseBody(6,
                     "The request has an invalid format.");
             return Response.status(400)
                     .type(MediaType.APPLICATION_JSON)

@@ -173,8 +173,8 @@ public class Context implements LifeCycle.Listener, JobManagerHandler {
     }
 
 
-    public boolean cancelJob(String requestUrl, final String responseUrl) {
-        return jobManager.cancelMatchingJob(requestUrl, responseUrl);
+    public boolean cancelJob(String documentUrl, final String clientUrl) {
+        return jobManager.cancelMatchingJob(documentUrl, clientUrl);
     }
 
 

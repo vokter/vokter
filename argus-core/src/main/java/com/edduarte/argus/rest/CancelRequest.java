@@ -20,14 +20,34 @@ import org.codehaus.jackson.annotate.JsonProperty;
 
 /**
  * @author Ed Duarte (<a href="mailto:ed@edduarte.com">ed@edduarte.com</a>)
- * @version 1.3.2
+ * @version 1.4.1
  * @since 1.0.0
  */
 public class CancelRequest {
 
     @JsonProperty
-    public String documentUrl;
+    private String documentUrl; // mandatory field
 
     @JsonProperty
-    public String responseUrl;
+    private String clientUrl; // mandatory field
+
+    @JsonProperty
+    @Deprecated
+    /**
+     * Deprecated and replaced by 'clientUrl'. This attribute was kept for
+     * backwards-compatibility purposes, since this is only used if the
+     * subscribe request was sent using 'responseUrl' and NOT 'clientUrl' (as
+     * documented in versions earlier than 1.3.3).
+     */
+    private String responseUrl; // mandatory field
+
+
+    public String getDocumentUrl() {
+        return documentUrl;
+    }
+
+
+    public String getClientUrl() {
+        return clientUrl != null ? clientUrl : responseUrl;
+    }
 }
