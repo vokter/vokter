@@ -5,8 +5,6 @@ jdk:
 services:
   - mongodb
 
-sudo: false
-
 before_install:
 - cd argus-core
 - mvn clean
