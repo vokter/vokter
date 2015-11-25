@@ -66,7 +66,7 @@ This will launch a embedded Jetty server with Jersey RESTful framework on 'local
 
 ### Request: Subscribe
 
-To watch for content changes in a document, a POST call must be sent to ** http://localhost:9000/argus/v1/subscribe ** with the following JSON body:
+To watch for content changes in a document, a POST call must be sent to <b>http://localhost:9000/argus/v1/subscribe</b> with the following JSON body:
 ```javascript
 {
     "documentUrl": "http://www.example.com", // the page to be watched (mandatory field)
@@ -86,7 +86,7 @@ Note that a subscribe request is uniquely identified by both its document URL an
 
 ### Request: Cancel
 
-To manually cancel a watch job, a POST call must be sent to ** http://localhost:9000/argus/v1/cancel ** with the following JSON body:
+To manually cancel a watch job, a POST call must be sent to <b>http://localhost:9000/argus/v1/cancel</b> with the following JSON body:
 ```javascript
 {
     "documentUrl": "http://www.example.com", // the page that was being watched (mandatory field)
