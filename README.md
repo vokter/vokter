@@ -116,7 +116,7 @@ The following list shows all possible responses:
 | 400 | 3 | You need to provide at least one valid keyword. |
 | 400 | 4 | At least one difference action ('added' or 'removed') must not be ignored. |
 | 409 | 5 | The request conflicts with a currently active watch job, since the provided document URL is already being watched and notified to the provided client URL. |
-| 415 | 6 | The request has an invalid format. |
+| 415 | 6 | The request body has an invalid format. |
 | 404 | 7 | The specified job to cancel does not exist. |
 
 ### Notification: OK
