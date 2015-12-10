@@ -104,17 +104,20 @@ Immediate responses are returned for every subscribe or cancel request, showing 
 }
 ```
 
-The error code is useful to convert received responses into custom error messages displayed to the user in the client app. The following list shows all possible error codes:
+The error code is useful to convert received responses into custom error messages displayed to the user in the client app.
 
-| Code | Message |
-|------|---------|
-| 1 | The provided document URL is invalid. |
-| 2 | The provided client URL is invalid. |
-| 3 | You need to provide at least one valid keyword. |
-| 4 | At least one difference action ('added' or 'removed') must not be ignored. |
-| 5 | The request conflicts with a currently active watch job, since the provided document URL is already being watched and notified to the provided client URL. |
-| 6 | The request has an invalid format. |
-| 7 | The specified job to cancel does not exist. |
+The following list shows all possible responses:
+
+| Status Code | Body 'code' | Body 'message' |
+|-----|------|---------|
+| 200 | 0 |  |
+| 400 | 1 | The provided document URL is invalid. |
+| 400 | 2 | The provided client URL is invalid. |
+| 400 | 3 | You need to provide at least one valid keyword. |
+| 400 | 4 | At least one difference action ('added' or 'removed') must not be ignored. |
+| 409 | 5 | The request conflicts with a currently active watch job, since the provided document URL is already being watched and notified to the provided client URL. |
+| 415 | 6 | The request has an invalid format. |
+| 404 | 7 | The specified job to cancel does not exist. |
 
 ### Notification: OK
 

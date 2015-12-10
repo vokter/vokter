@@ -158,7 +158,7 @@ public class RestV1Resource {
                                 "job, since the provided document URL is " +
                                 "already being watched and notified to the " +
                                 "provided client URL.");
-                return Response.status(400)
+                return Response.status(409)
                         .type(MediaType.APPLICATION_JSON)
                         .entity(responseBody.toString())
                         .build();
@@ -167,8 +167,8 @@ public class RestV1Resource {
         } catch (JsonSyntaxException ex) {
             // the job-request json had an invalid format
             ResponseBody responseBody = new ResponseBody(6,
-                    "The request has an invalid format.");
-            return Response.status(400)
+                    "The request body has an invalid format.");
+            return Response.status(415)
                     .type(MediaType.APPLICATION_JSON)
                     .entity(responseBody.toString())
                     .build();
@@ -208,8 +208,8 @@ public class RestV1Resource {
         } catch (JsonSyntaxException ex) {
             // the cancel-request json had an invalid format
             ResponseBody responseBody = new ResponseBody(6,
-                    "The request has an invalid format.");
-            return Response.status(400)
+                    "The request body has an invalid format.");
+            return Response.status(415)
                     .type(MediaType.APPLICATION_JSON)
                     .entity(responseBody.toString())
                     .build();
