@@ -230,7 +230,7 @@ public class Context implements LifeCycle.Listener, JobManagerHandler {
             }
         }
 
-        //replace the old document in the collection with the new one
+        // replace the old document in the collection with the new one
         collection.remove(url);
         collection.add(newDocument);
 
