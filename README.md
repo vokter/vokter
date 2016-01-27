@@ -1,8 +1,7 @@
 # Argus
 
 [![Build Status](https://travis-ci.org/edduarte/argus.svg?branch=master)](https://travis-ci.org/edduarte/argus)
-[![Coverage Status](https://img.shields.io/coveralls/edduarte/argus.svg)](https://coveralls.io/r/edduarte/argus)
-[![GitHub release](https://img.shields.io/github/release/edduarte/argus.svg)](https://github.com/edduarte/argus/releases)
+[![Coverage Status](https://coveralls.io/repos/github/edduarte/argus/badge.svg?branch=master)](https://coveralls.io/github/edduarte/argus?branch=master)
 [![https://gitter.im/edduarte/argus](https://badges.gitter.im/edduarte/argus.svg)](https://gitter.im/edduarte/argus?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Argus is a high-performance, scalable web service that uses Quartz Scheduler, DiffMatchPatch and MongoDB to provide web-page monitoring, triggering notifications when specified keywords were either added or removed from a web document.
