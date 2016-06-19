@@ -178,7 +178,7 @@ public class MarkupReaderTest {
                 " * ^  Rowling, J.K. (1997). Harry Potter and the Philosopher's Stone.  \n" +
                 " * ^  Incredible Hercules #138 \n" +
                 " * ^  \n" +
-                "http://www.dccomics.com/comics/forever-evil-vokter-2013/forever-evil-vokter-1 \n" +
+                "http://www.dccomics.com/comics/forever-evil-argus-2013/forever-evil-argus-1 \n" +
                 " \n" +
                 "External links[edit ]\n" +
                 "\n" +
@@ -437,7 +437,7 @@ public class MarkupReaderTest {
                         "government organization in the fictional DC Universe. The name stems from the \n" +
                         "secondary objective of the organization, which is to watch for threats should \n" +
                         "the Justice League ever \n" +
-                        "fail.http://www.dccomics.com/comics/forever-evil-vokter-2013/forever-evil-vokter-1 \n" +
+                        "fail.http://www.dccomics.com/comics/forever-evil-argus-2013/forever-evil-argus-1 \n" +
                         "==Notes== {{Reflist|2}} ==External links== {{commons category}} * \n" +
                         "[http://www.theoi.com/Gigante/GiganteArgosPanoptes.html Theoi Project - Gigante \n" +
                         "Argos Panoptes] * \n" +

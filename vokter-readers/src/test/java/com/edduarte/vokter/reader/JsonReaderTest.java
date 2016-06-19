@@ -96,7 +96,7 @@ public class JsonReaderTest {
                         "\n" +
                         "* Argus Panoptes was featured in [[Marvel Comics]]. He was revived by [[Hera (Marvel Comics)|Hera]] to be in charge of the Panopticon (a computer surveillance system that was set up to help defend New Olympus).<ref>''Incredible Hercules'' #138</ref>\n" +
                         "\n" +
-                        "* A.R.G.U.S. (Advanced Research Group Uniting Superhumans) is the name of a government organization in the fictional DC Universe. The name stems from the secondary objective of the organization, which is to watch for threats should the Justice League ever fail.<ref>http://www.dccomics.com/comics/forever-evil-vokter-2013/forever-evil-vokter-1</ref>\n" +
+                        "* A.R.G.U.S. (Advanced Research Group Uniting Superhumans) is the name of a government organization in the fictional DC Universe. The name stems from the secondary objective of the organization, which is to watch for threats should the Justice League ever fail.<ref>http://www.dccomics.com/comics/forever-evil-argus-2013/forever-evil-argus-1</ref>\n" +
                         "\n" +
                         "==Notes==\n" +
                         "{{Reflist|2}}\n" +

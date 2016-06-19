@@ -103,7 +103,7 @@ public class PlainTextReaderTest {
                         "Jump up ^ Pseudo-Apollodorus, Bibliotheke, 2.4.\n" +
                         "Jump up ^ Rowling, J.K. (1997). Harry Potter and the Philosopher's Stone.\n" +
                         "Jump up ^ Incredible Hercules #138\n" +
-                        "Jump up ^ http://www.dccomics.com/comics/forever-evil-vokter-2013/forever-evil-vokter-1\n" +
+                        "Jump up ^ http://www.dccomics.com/comics/forever-evil-argus-2013/forever-evil-argus-1\n" +
                         "External links\n" +
                         "\n" +
                         "\tWikimedia Commons has media related to Argus Panoptes.\n" +
