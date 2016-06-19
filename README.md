@@ -1,10 +1,10 @@
-# Argus
+# Vokter
 
-[![Build Status](https://travis-ci.org/edduarte/argus.svg?branch=master)](https://travis-ci.org/edduarte/argus)
-[![Coverage Status](https://coveralls.io/repos/github/edduarte/argus/badge.svg?branch=master)](https://coveralls.io/github/edduarte/argus?branch=master)
-[![https://gitter.im/edduarte/argus](https://badges.gitter.im/edduarte/argus.svg)](https://gitter.im/edduarte/argus?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Build Status](https://travis-ci.org/edduarte/vokter.svg?branch=master)](https://travis-ci.org/edduarte/vokter)
+[![Coverage Status](https://coveralls.io/repos/github/edduarte/vokter/badge.svg?branch=master)](https://coveralls.io/github/edduarte/vokter?branch=master)
+[![https://gitter.im/edduarte/vokter](https://badges.gitter.im/edduarte/vokter.svg)](https://gitter.im/edduarte/vokter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Argus is a high-performance, scalable web service that uses Quartz Scheduler, DiffMatchPatch and MongoDB to provide web-page monitoring, triggering notifications when specified keywords were either added or removed from a web document.
+Vokter is a high-performance, scalable web service that uses Quartz Scheduler, DiffMatchPatch and MongoDB to provide web-page monitoring, triggering notifications when specified keywords were either added or removed from a web document.
 
 This service implements a information retrieval system that fetches, indexes and performs queries over web documents on a periodic basis. Difference detection is implemented by comparing occurrences between two snapshots of the same document. Additionally, it supports multi-language stop-word filtering to ignore changes in common grammatical conjunctions or articles, and stemming to detect changes in lexically derived words.
 
@@ -33,8 +33,8 @@ This service implements a information retrieval system that fetches, indexes and
 
 ## Installation
 
-Argus uses the Reactive (Publish/Subscribe) model, where an additional Client web service with a REST API must be implemented to consume Argus web service.  
-<b>An example RESTful web app that interoperates with Argus is [available here](https://github.com/edduarte/argus/tree/master/argus-client/java). Feel free to reuse this code in your own client app.</b>
+Vokter uses the Reactive (Publish/Subscribe) model, where an additional Client web service with a REST API must be implemented to consume Vokter web service.  
+<b>An example RESTful web app that interoperates with Vokter is [available here](https://github.com/edduarte/vokter/tree/master/vokter-client/java). Feel free to reuse this code in your own client app.</b>
 
 Once you have a client web service running, follow the steps below:
 
@@ -42,9 +42,9 @@ Once you have a client web service running, follow the steps below:
 
 2. Run MongoDB with ``` mongod ```
 
-3. Download the [latest release of Argus core server](https://github.com/edduarte/argus/releases/download/1.4.1/argus-core.zip)
+3. Download the [latest release of Vokter core server](https://github.com/edduarte/vokter/releases/download/1.4.1/vokter-core.zip)
 
-4. Run Argus with ``` java -jar argus-core.jar```
+4. Run Vokter with ``` java -jar vokter-core.jar```
 ```
 Optional arguments:
  -h,--help               Shows this help prompt.
@@ -59,22 +59,22 @@ Optional arguments:
                          indexing processes. Defaults to the number of
                          available cores.
 ```
-This will launch a embedded Jetty server with Jersey RESTful framework on 'localhost:9000' (by default). If Argus was successfully deployed, opening the deployed url on a browser should display a landing page with usage instructions.
+This will launch a embedded Jetty server with Jersey RESTful framework on 'localhost:9000' (by default). If Vokter was successfully deployed, opening the deployed url on a browser should display a landing page with usage instructions.
 
 
 ## Usage
 
 ### Request: Subscribe
 
-To watch for content changes in a document, a POST call must be sent to <b>http://localhost:9000/argus/v1/subscribe</b> with the following JSON body:
+To watch for content changes in a document, a POST call must be sent to <b>http://localhost:9000/vokter/v1/subscribe</b> with the following JSON body:
 ```javascript
 {
     "documentUrl": "http://www.example.com", // the page to be watched (mandatory field)
     "clientUrl": "http://your.site/client-rest-api", // the client web service that will receive detected differences (mandatory field)
     "keywords": // the keywords to watch for (mandatory field)
     [
-        "argus", // looks for changes with this word (and lexical variants if stemming is enabled)
-        "argus panoptes" // looks for changes with this exact phrase (and lexical variants if stemming is enabled)
+        "vokter", // looks for changes with this word (and lexical variants if stemming is enabled)
+        "vokter panoptes" // looks for changes with this exact phrase (and lexical variants if stemming is enabled)
     ],
     "interval": 600, // the elapsed duration (in seconds) between page checks (optional field, defaults to 600)
     "ignoreAdded": false, // if 'true', ignore events where the keyword was added to the page (optional field, defaults to 'false')
@@ -86,7 +86,7 @@ Note that a subscribe request is uniquely identified by both its document URL an
 
 ### Request: Cancel
 
-To manually cancel a watch job, a POST call must be sent to <b>http://localhost:9000/argus/v1/cancel</b> with the following JSON body:
+To manually cancel a watch job, a POST call must be sent to <b>http://localhost:9000/vokter/v1/cancel</b> with the following JSON body:
 ```javascript
 {
     "documentUrl": "http://www.example.com", // the page that was being watched (mandatory field)
@@ -123,7 +123,7 @@ The following list shows all possible responses:
 
 Notifications are REST requests, sent as POSTs, to the provided client URL at any time. The client URL should be implemented to accept the requests below.
 
-When detected differences are matched with keywords, Argus sends notifications to the provided client URL with the following JSON body:
+When detected differences are matched with keywords, Vokter sends notifications to the provided client URL with the following JSON body:
 ```javascript
 {
     "status": "ok",
@@ -131,13 +131,13 @@ When detected differences are matched with keywords, Argus sends notifications t
     "diffs": [
         {
             "action": "added",
-            "keyword": "argus",
-            "snippet": "In the 5th century and later, Argus' wakeful alertness ..."
+            "keyword": "vokter",
+            "snippet": "In the 5th century and later, Vokter' wakeful alertness ..."
         },
         {
             "action": "removed",
-            "keyword": "argus",
-            "snippet": "... sacrifice of Argus liberated Io and allowed ..."
+            "keyword": "vokter",
+            "snippet": "... sacrifice of Vokter liberated Io and allowed ..."
         }
     ]
 }
@@ -145,7 +145,7 @@ When detected differences are matched with keywords, Argus sends notifications t
 
 ### Notification: Timeout
 
-Argus is capable of managing a high number of concurrent watch jobs, and is implemented to save resources and free up database and memory space whenever possible. To this effect, Argus automatically expires jobs when it fails to fetch a web document after 10 consecutive tries. When that happens, the following JSON body is sent:
+Vokter is capable of managing a high number of concurrent watch jobs, and is implemented to save resources and free up database and memory space whenever possible. To this effect, Vokter automatically expires jobs when it fails to fetch a web document after 10 consecutive tries. When that happens, the following JSON body is sent:
 ```javascript
 {
     "status": "timeout",
@@ -170,7 +170,7 @@ Jsonic: http://jsonic.sourceforge.jp
 Jsoup: http://jsoup.org  
 Jackson: http://jackson.codehaus.org  
 DSI Utilities: http://dsiutils.di.unimi.it  
-Commons-IO: http://jackson.codehaus.org  
+Commons-IO: http://commons.apache.org/proper/commons-io/  
 Commons-Codec: http://commons.apache.org/proper/commons-codec/  
 Commons-CLI: http://commons.apache.org/proper/commons-cli/  
 Commons-Lang: http://commons.apache.org/proper/commons-lang/  
@@ -194,18 +194,18 @@ Harmonization of keywords-to-differences is performed passing the differences th
 
 ### Clustering
 
-Since the logic of difference retrieval is spread between two jobs, one that is agnostic of requests and one that is specific to the request and its keywords, Argus reduces workload by scheduling only one difference detection job per watched web-page. For this effect, jobs are grouped into clusters, where its unique identifier is the document URL. Each cluster contains, imperatively, a single scheduled detection job and one or more matching jobs.
+Since the logic of difference retrieval is spread between two jobs, one that is agnostic of requests and one that is specific to the request and its keywords, Vokter reduces workload by scheduling only one difference detection job per watched web-page. For this effect, jobs are grouped into clusters, where its unique identifier is the document URL. Each cluster contains, imperatively, a single scheduled detection job and one or more matching jobs.
 
 ### Scaling
 
-Argus was conceived to be able scale and to be future-proof, and to this effect it was implemented to deal with a high number of jobs in terms of batching / persistence and of real-time / concurrency.
+Vokter was conceived to be able scale and to be future-proof, and to this effect it was implemented to deal with a high number of jobs in terms of batching / persistence and of real-time / concurrency.
 
 The clustering design mentioned above implies that, as the number of clients grows linearly, the number of jobs will grow semi-linearly because the first call for a URL will spawn two jobs and the remaining calls for the same URL will spawn only one.
 
 In terms of orchestration, there are two mechanisms created to reduce redundant resource-consumption, both in memory as well as in the database:
 
 1. if the difference detection job fails to fetch content from a specific URL after 10 consecutive attempts, the entire cluster for that URL is expired. When expiring a cluster, all of the associated client REST APIs receive a time-out call.
-2. every time a matching job is cancelled by its client, Argus checks if there are still matching-jobs in its cluster, and if not, the cluster is cleared from the workspace.
+2. every time a matching job is cancelled by its client, Vokter checks if there are still matching-jobs in its cluster, and if not, the cluster is cleared from the workspace.
 
 ## Persistence
 
@@ -215,24 +215,24 @@ Persistence of difference-detection jobs and difference-matching jobs is also co
 
 ## Reading
 
-Argus supports reading of multiple web document formats, like HTML, XML, JSON and Plain-Text, where raw content is converted into a clean string, filtered of non-informative data (e.g. XML tags). Reading logic, which is different for all formats, is covered by Reader classes which follow the plugin paradigm. This means that compiled Reader classes can be added to or removed from the 'argus-readers' folder during runtime, and Argus will be able to dynamically load a suitable Reader class for each document Content-Type.
+Vokter supports reading of multiple web document formats, like HTML, XML, JSON and Plain-Text, where raw content is converted into a clean string, filtered of non-informative data (e.g. XML tags). Reading logic, which is different for all formats, is covered by Reader classes which follow the plugin paradigm. This means that compiled Reader classes can be added to or removed from the 'vokter-readers' folder during runtime, and Vokter will be able to dynamically load a suitable Reader class for each document Content-Type.
 
 When Reader classes are instanced, they are stored in on-heap memory cache temporarily (5 seconds). This reduces the elapsed duration of discovering available Reader classes and instancing one for consecutive reads of documents with the same Content-Type.
 
 ## Indexing
 
-The string of text that represents the document snapshot that was captured during the Reading phase is passed through a parser that tokenizes, filters stop-words and stems text. For every token found, its occurrences (positional index, starting character index and ending character index) in the document are stored. When a detected difference affected a token, the character indexes of its occurrences can be used to retrieve snippets of text. With this, Argus can instantly show to user, along with the notifications of differences detected, the added text in the new snapshot or the removed text in the previous snapshot.
+The string of text that represents the document snapshot that was captured during the Reading phase is passed through a parser that tokenizes, filters stop-words and stems text. For every token found, its occurrences (positional index, starting character index and ending character index) in the document are stored. When a detected difference affected a token, the character indexes of its occurrences can be used to retrieve snippets of text. With this, Vokter can instantly show to user, along with the notifications of differences detected, the added text in the new snapshot or the removed text in the previous snapshot.
 
-Because different documents can have different languages, which require specialized stemmers and stop-word filters to be used, the language must be obtained. Unlike the Content-Type, which is often provided as a HTTP header when fetching the document, the Accept-Language is not for the most part. Instead, Argus infers the language from the document content using a language detector algorithm based on Bayesian probabilistic models and N-Grams, developed by Nakatani Shuyo, Fabian Kessler, Francois Roland and Robert Theis.
+Because different documents can have different languages, which require specialized stemmers and stop-word filters to be used, the language must be obtained. Unlike the Content-Type, which is often provided as a HTTP header when fetching the document, the Accept-Language is not for the most part. Instead, Vokter infers the language from the document content using a language detector algorithm based on Bayesian probabilistic models and N-Grams, developed by Nakatani Shuyo, Fabian Kessler, Francois Roland and Robert Theis.
 
-Stemmer classes and stop-word files, both from the Snowball project, follow the plugin paradigm, similarly to the Reader classes. This means that both can be changed during runtime and Argus will be updated without requiring a restart. Moreover, like the Reader classes, Stemmer classes are cached for 5 seconds before being invalidated to avoid repeated instancing for consecutive stems of documents with the same language (for example, English).
+Stemmer classes and stop-word files, both from the Snowball project, follow the plugin paradigm, similarly to the Reader classes. This means that both can be changed during runtime and Vokter will be updated without requiring a restart. Moreover, like the Reader classes, Stemmer classes are cached for 5 seconds before being invalidated to avoid repeated instancing for consecutive stems of documents with the same language (for example, English).
 
-To ensure a concurrent architecture, where multiple parsing calls should be performed in parallel, Argus will instance multiple parsers when deployed and store them in a blocking queue. The number of parsers corresponds to the number of cores available in the machine where Argus was deployed to.
+To ensure a concurrent architecture, where multiple parsing calls should be performed in parallel, Vokter will instance multiple parsers when deployed and store them in a blocking queue. The number of parsers corresponds to the number of cores available in the machine where Vokter was deployed to.
 
 # Caveats / Future Work
 
 - this project has only been used in a production environment for academic projects, and has not been battle-tested or integrated in consumer software;
-- client APIs are publicly exposed, and anyone can simulate Argus notifications sent to that API and produce erroneous results on the client app. A secret token should be passed on successful subscribe requests and on further notifications to that client, so that the client can properly identify the received request as Argus';
+- client APIs are publicly exposed, and anyone can simulate Vokter notifications sent to that API and produce erroneous results on the client app. A secret token should be passed on successful subscribe requests and on further notifications to that client, so that the client can properly identify the received request as Vokter';
 - stopword filtering and stemming should be done on a request basis, not on a server basis;
 - only MongoDB is currently supported, but adding support to MySQL and PostgreSQL should not be very hard to do;
 - the architecture should be revised so that intervals cannot be configured and matching jobs are not scheduled but rather invoked once their respective detection job is complete.
