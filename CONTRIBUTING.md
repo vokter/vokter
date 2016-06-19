@@ -3,7 +3,7 @@
 Contribution are always **welcome and recommended**! Here is how:
 
 - Fork the repository ([here is the guide](https://help.github.com/articles/fork-a-repo/));
-- Clone to your machine ```git clone https://github.com/YOUR_USERNAME/argus.git```;
+- Clone to your machine ```git clone https://github.com/YOUR_USERNAME/vokter-core.git```;
 - Make your changes;
 - Create a pull request.
 
