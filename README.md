@@ -10,11 +10,9 @@ This service implements a information retrieval system that fetches, indexes and
 - [Getting Started](#getting-started)
     + [Installation](#installation)
     + [Usage](#usage)
-        * [Request: Subscribe](#request-subscribe)
-        * [Request: Cancel](#request-cancel)
-        * [Response](#response)
-        * [Notification: OK](#notification-ok)
-        * [Notification: Timeout](#notification-timeout)
+    + [Notifications](#notifications)
+        * [OK](#ok)
+        * [Timeout](#timeout)
 - [Dependencies](#dependencies)
 - [Architecture](#architecture)
     + [Job Management](#job-management)
@@ -33,7 +31,7 @@ This service implements a information retrieval system that fetches, indexes and
 ## Installation
 
 Vokter uses the Reactive (Publish/Subscribe) model, where an additional Client web service with a REST API must be implemented to consume Vokter web service.  
-<b>An example RESTful web app that interoperates with Vokter is [available here](https://github.com/edduarte/vokter/tree/master/vokter-client/java). Feel free to reuse this code in your own client app.</b>
+<b>An example RESTful web app that interoperates with Vokter is [available here](https://github.com/vokter/vokter-client-jersey2). Feel free to reuse this code in your own client app.</b>
 
 Once you have a client web service running, follow the steps below:
 
@@ -63,17 +61,18 @@ This will launch a embedded Jetty server with Jersey RESTful framework on 'local
 
 ## Usage
 
-### Request: Subscribe
+<b>Watch for content changes in a document</b>
 
-To watch for content changes in a document, a POST call must be sent to <b>http://localhost:9000/vokter/v1/subscribe</b> with the following JSON body:
+POST http://localhost:9000/vokter/v1/subscribe  
+Payload:  
 ```javascript
 {
     "documentUrl": "http://www.example.com", // the page to be watched (mandatory field)
     "clientUrl": "http://your.site/client-rest-api", // the client web service that will receive detected differences (mandatory field)
     "keywords": // the keywords to watch for (mandatory field)
     [
-        "vokter", // looks for changes with this word (and lexical variants if stemming is enabled)
-        "vokter panoptes" // looks for changes with this exact phrase (and lexical variants if stemming is enabled)
+        "argus", // looks for changes with this word (and lexical variants if stemming is enabled)
+        "argus panoptes" // looks for changes with this exact phrase (and lexical variants if stemming is enabled)
     ],
     "interval": 600, // the elapsed duration (in seconds) between page checks (optional field, defaults to 600)
     "ignoreAdded": false, // if 'true', ignore events where the keyword was added to the page (optional field, defaults to 'false')
@@ -81,11 +80,14 @@ To watch for content changes in a document, a POST call must be sent to <b>http:
 }
 ```
 
-Note that a subscribe request is uniquely identified by both its document URL and its client URL. This means that a single client can subscribe and receive notifications of multiple documents simultaneously, and a single document can be watched by multiple clients.
+Note that a subscribe request is uniquely identified by both its document URL and its client URL. This means that the same client can subscribe and receive notifications of multiple documents simultaneously, and the same document can be watched by multiple clients.
 
-### Request: Cancel
+---
 
-To manually cancel a watch job, a POST call must be sent to <b>http://localhost:9000/vokter/v1/cancel</b> with the following JSON body:
+<b>Manually cancel a watch job</b>
+
+POST http://localhost:9000/vokter/v1/cancel  
+Payload:  
 ```javascript
 {
     "documentUrl": "http://www.example.com", // the page that was being watched (mandatory field)
@@ -93,9 +95,9 @@ To manually cancel a watch job, a POST call must be sent to <b>http://localhost:
 }
 ```
 
-### Response
+---
 
-Immediate responses are returned for every subscribe or cancel request, showing if said request was successful or not with the following JSON body:
+Both of the calls above return the following JSON body:
 ```javascript
 {
     "code": "0" // a number that uniquely identifies this error type (0 when the request was successful)
@@ -118,9 +120,11 @@ The following list shows all possible responses:
 | 415 | 6 | The request body has an invalid format. |
 | 404 | 7 | The specified job to cancel does not exist. |
 
-### Notification: OK
+## Notifications
 
-Notifications are REST requests, sent as POSTs, to the provided client URL at any time. The client URL should be implemented to accept the requests below.
+Notifications are REST requests, sent as POSTs, to the provided client URL at any time. The client URL should be implemented to accept the two requests below.
+
+### Differences found
 
 When detected differences are matched with keywords, Vokter sends notifications to the provided client URL with the following JSON body:
 ```javascript
@@ -130,19 +134,19 @@ When detected differences are matched with keywords, Vokter sends notifications 
     "diffs": [
         {
             "action": "added",
-            "keyword": "vokter",
-            "snippet": "In the 5th century and later, Vokter' wakeful alertness ..."
+            "keyword": "argus",
+            "snippet": "In the 5th century and later, Argus' wakeful alertness ..."
         },
         {
             "action": "removed",
-            "keyword": "vokter",
-            "snippet": "... sacrifice of Vokter liberated Io and allowed ..."
+            "keyword": "argus",
+            "snippet": "... sacrifice of Argus liberated Io and allowed ..."
         }
     ]
 }
 ```
 
-### Notification: Timeout
+### Timeout
 
 Vokter is capable of managing a high number of concurrent watch jobs, and is implemented to save resources and free up database and memory space whenever possible. To this effect, Vokter automatically expires jobs when it fails to fetch a web document after 10 consecutive tries. When that happens, the following JSON body is sent:
 ```javascript
@@ -241,7 +245,7 @@ To ensure a concurrent architecture, where multiple parsing calls should be perf
 
 # License
 
-    Copyright 2015 Ed Duarte
+    Copyright 2015 Eduardo Duarte
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
