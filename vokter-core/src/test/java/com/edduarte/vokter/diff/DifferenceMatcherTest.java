@@ -72,7 +72,7 @@ public class DifferenceMatcherTest {
     public void testSimple() {
         List<String> words = Lists.newArrayList(
                 "the greek",
-                "vokter panoptes"
+                "argus panoptes"
         );
         List<Keyword> keywords = words
                 .stream()
@@ -84,9 +84,9 @@ public class DifferenceMatcherTest {
                 .collect(Collectors.toList());
 
         List<Difference> diffList = Lists.newArrayList(
-                new Difference(DifferenceAction.inserted, "vokter", "Vokter Panoptes is the name of the 100 eyed giant in No"),
-                new Difference(DifferenceAction.inserted, "panopt", "Vokter Panoptes is the name of the 100 eyed giant in Norse mytho"),
-                new Difference(DifferenceAction.inserted, "name", "Vokter Panoptes is the name of the 100 eyed giant in Norse mythology"),
+                new Difference(DifferenceAction.inserted, "argus", "Argus Panoptes is the name of the 100 eyed giant in No"),
+                new Difference(DifferenceAction.inserted, "panopt", "Argus Panoptes is the name of the 100 eyed giant in Norse mytho"),
+                new Difference(DifferenceAction.inserted, "name", "Argus Panoptes is the name of the 100 eyed giant in Norse mythology"),
                 new Difference(DifferenceAction.deleted, "greek", "is the of the 100 eyed giant in Greek mythology"),
                 new Difference(DifferenceAction.inserted, "nors", "gus Panoptes is the name of the 100 eyed giant in Norse mythology")
         );

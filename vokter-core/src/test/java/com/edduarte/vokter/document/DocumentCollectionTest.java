@@ -74,20 +74,20 @@ public class DocumentCollectionTest {
 
     @Test
     public void test() {
-        assertNull(collection.get("https://en.wikipedia.org/wiki/Vokter_Panoptes"));
+        assertNull(collection.get("https://en.wikipedia.org/wiki/Argus_Panoptes"));
 
         // testing add
         Document d = DocumentBuilder
-                .fromUrl("https://en.wikipedia.org/wiki/Vokter_Panoptes")
+                .fromUrl("https://en.wikipedia.org/wiki/Argus_Panoptes")
                 .ignoreCase()
                 .withStopwords()
                 .withStemming()
                 .build(occurrencesDB, parserPool);
         collection.add(d);
-        assertNotNull(collection.get("https://en.wikipedia.org/wiki/Vokter_Panoptes"));
+        assertNotNull(collection.get("https://en.wikipedia.org/wiki/Argus_Panoptes"));
 
         // testing remove
-        collection.remove("https://en.wikipedia.org/wiki/Vokter_Panoptes");
-        assertNull(collection.get("https://en.wikipedia.org/wiki/Vokter_Panoptes"));
+        collection.remove("https://en.wikipedia.org/wiki/Argus_Panoptes");
+        assertNull(collection.get("https://en.wikipedia.org/wiki/Argus_Panoptes"));
     }
 }

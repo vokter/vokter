@@ -183,14 +183,14 @@ public class JobManagerTest {
                         .build(parserPool);
             }
         });
-        testDocuments = new AtomicReference<>("Vokter Panoptes is the name of the 100-eyed giant in Norse mythology.");
+        testDocuments = new AtomicReference<>("Argus Panoptes is the name of the 100-eyed giant in Norse mythology.");
         manager.initialize();
 
 
         boolean wasCreated = manager.createJob(new SubscribeRequest(
                 "testRequestUrl",
                 "https://www.google.com",
-                Lists.newArrayList("the greek", "vokter panoptes"),
+                Lists.newArrayList("the greek", "argus panoptes"),
                 10,
                 false,
                 false
@@ -200,14 +200,13 @@ public class JobManagerTest {
 
 
         testDocuments.lazySet("is the of the 100-eyed giant in Greek mythology.");
-        System.out.println("document changed");
         Thread.sleep(20000);
 
 
         wasCreated = manager.createJob(new SubscribeRequest(
                 "testRequestUrl",
                 "https://www.google.com",
-                Lists.newArrayList("vokter"),
+                Lists.newArrayList("argus"),
                 15,
                 false,
                 false
@@ -216,32 +215,29 @@ public class JobManagerTest {
         wasCreated = manager.createJob(new SubscribeRequest(
                 "testRequestUrl",
                 "https://www.google.pt",
-                Lists.newArrayList("vokter"),
+                Lists.newArrayList("argus"),
                 15,
                 false,
                 false
         ));
         assertTrue(wasCreated);
-        System.out.println("added new job");
         Thread.sleep(30000);
 
 
         manager.cancelMatchingJob("testRequestUrl", "https://www.google.com");
         manager.cancelMatchingJob("testRequestUrl", "https://www.google.pt");
-        System.out.println("canceled all jobs");
         Thread.sleep(30000);
 
 
         wasCreated = manager.createJob(new SubscribeRequest(
                 "testRequestUrl",
                 "https://www.google.com",
-                Lists.newArrayList("the greek", "vokter panoptes"),
+                Lists.newArrayList("the greek", "argus panoptes"),
                 10,
                 false,
                 false
         ));
         assertTrue(wasCreated);
-        System.out.println("added old job");
         Thread.sleep(30000);
 
 

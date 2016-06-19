@@ -72,7 +72,7 @@ public class DifferenceDetectorTest {
         String url = "http://www.bbc.com/news/uk/";
         String type = "text/html";
         String oldSnapshot = "is the of the 100-eyed giant in Greek mythology.";
-        String newSnapshot = "Vokter Panoptes is the name of the 100-eyed giant in Norse mythology.";
+        String newSnapshot = "Argus Panoptes is the name of the 100-eyed giant in Norse mythology.";
 
         Document oldSnapshotDoc = DocumentBuilder
                 .fromString(url, oldSnapshot, type)

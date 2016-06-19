@@ -31,11 +31,7 @@ import java.util.Map;
 import static com.edduarte.vokter.diff.DiffMatchPatch.LinesToCharsResult;
 import static org.junit.Assert.*;
 
-/**
- * @author Eduardo Duarte (<a href="mailto:hello@edduarte.com">hello@edduarte.com</a>)
- * @version 1.3.2
- * @since 1.0.0
- */
+
 public class DiffMatchPatchTest {
 
     private DiffMatchPatch dmp;
