@@ -1,8 +1,7 @@
 # Vokter
 
-[![Build Status](https://travis-ci.org/edduarte/vokter.svg?branch=master)](https://travis-ci.org/edduarte/vokter)
-[![Coverage Status](https://coveralls.io/repos/github/edduarte/vokter/badge.svg?branch=master)](https://coveralls.io/github/edduarte/vokter?branch=master)
-[![https://gitter.im/edduarte/vokter](https://badges.gitter.im/edduarte/vokter.svg)](https://gitter.im/edduarte/vokter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Build Status](https://travis-ci.org/vokter/vokter-core.svg?branch=master)](https://travis-ci.org/vokter/vokter-core)
+[![Coverage Status](https://coveralls.io/repos/github/vokter/vokter-core/badge.svg?branch=master)](https://coveralls.io/github/vokter/vokter-core?branch=master)
 
 Vokter is a high-performance, scalable web service that uses Quartz Scheduler, DiffMatchPatch and MongoDB to provide web-page monitoring, triggering notifications when specified keywords were either added or removed from a web document.
 
