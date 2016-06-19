@@ -4,8 +4,6 @@
 tomcat.*
 
 target
-argus-client/java/out
-argus-client/java/target
 logs
 
 #netbeans

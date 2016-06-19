@@ -1,6 +1,6 @@
-argus-core/src/main/java/argus/stemmer/snowball/* linguist-vendored
-argus-core/src/main/java/argus/stemmer/diff/DiffMatchPatch.java linguist-vendored
-argus-stemmers/* linguist-vendored
-argus-stopwords/* linguist-vendored
-argus-core/src/test/resources/* linguist-vendored
-argus-readers/src/test/resources/* linguist-vendored
+vokter-core/src/main/java/vokter/stemmer/snowball/* linguist-vendored
+vokter-core/src/main/java/vokter/stemmer/diff/DiffMatchPatch.java linguist-vendored
+vokter-stemmers/* linguist-vendored
+vokter-stopwords/* linguist-vendored
+vokter-core/src/test/resources/* linguist-vendored
+vokter-readers/src/test/resources/* linguist-vendored

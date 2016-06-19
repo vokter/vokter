@@ -8,14 +8,14 @@ services:
 sudo: false
 
 before_install:
-- cd argus-core
+- cd vokter-core
 - mvn clean
 - mvn install -Dmaven.test.skip=true
-- cd ../argus-stemmers
+- cd ../vokter-stemmers
 - mvn test
-- cd ../argus-readers
+- cd ../vokter-readers
 - mvn test
-- cd ../argus-core
+- cd ../vokter-core
 - mvn test
 
 install: true
