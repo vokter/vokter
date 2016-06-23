@@ -1,5 +1,5 @@
 /*
- * Copyright 2015 Ed Duarte
+ * Copyright 2015 Eduardo Duarte
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -16,6 +16,8 @@
 
 package com.edduarte.vokter.model;
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.annotation.JsonProperty;
 
 import java.io.Serializable;
@@ -29,6 +31,8 @@ import java.util.List;
  * @version 1.3.3
  * @since 1.0.0
  */
+@JsonIgnoreProperties(ignoreUnknown = true)
+@JsonInclude(JsonInclude.Include.NON_NULL)
 public class SubscribeRequest implements Serializable {
     private static final long serialVersionUID = 1L;
 

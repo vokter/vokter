@@ -1,5 +1,5 @@
 /*
- * Copyright 2015 Ed Duarte
+ * Copyright 2015 Eduardo Duarte
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -51,14 +51,14 @@ public class RestV1Resource {
         SubscribeRequest requestBody = new SubscribeRequest(
                 "http://www.example.com",
                 "http://your.site/client-rest-api",
-                Lists.newArrayList("vokter", "vokter panoptes"),
+                Lists.newArrayList("argus", "argus panoptes"),
                 600,
                 false,
                 false
         );
         return Response.status(200)
                 .type(MediaType.APPLICATION_JSON)
-                .entity(requestBody.toString())
+                .entity(requestBody)
                 .build();
     }
 
@@ -67,10 +67,10 @@ public class RestV1Resource {
     @Path("exampleResponse")
     @Consumes(MediaType.APPLICATION_JSON)
     public Response exampleResponse() {
-        CommonResponse responseBody = new CommonResponse(0, "");
+        CommonResponse responseBody = CommonResponse.ok();
         return Response.status(200)
                 .type(MediaType.APPLICATION_JSON)
-                .entity(responseBody.toString())
+                .entity(responseBody)
                 .build();
     }
 
@@ -86,22 +86,20 @@ public class RestV1Resource {
         String documentUrl = subscribeRequest.getDocumentUrl();
         if (documentUrl == null || documentUrl.isEmpty() ||
                 !urlValidator.isValid(documentUrl)) {
-            CommonResponse responseBody = new CommonResponse(1,
-                    "The provided document URL is invalid.");
+            CommonResponse responseBody = CommonResponse.invalidDocumentUrl();
             return Response.status(400)
                     .type(MediaType.APPLICATION_JSON)
-                    .entity(responseBody.toString())
+                    .entity(responseBody)
                     .build();
         }
 
         String clientUrl = subscribeRequest.getClientUrl();
         if (clientUrl == null || clientUrl.isEmpty() ||
                 !urlValidator.isValid(clientUrl)) {
-            CommonResponse responseBody = new CommonResponse(2,
-                    "The provided client URL is invalid.");
+            CommonResponse responseBody = CommonResponse.invalidClientUrl();
             return Response.status(400)
                     .type(MediaType.APPLICATION_JSON)
-                    .entity(responseBody.toString())
+                    .entity(responseBody)
                     .build();
         }
 
@@ -116,44 +114,35 @@ public class RestV1Resource {
         }
 
         if (keywords == null || keywords.isEmpty()) {
-            CommonResponse responseBody = new CommonResponse(3,
-                    "You need to provide at least one valid keyword.");
+            CommonResponse responseBody = CommonResponse.emptyKeywords();
             return Response.status(400)
                     .type(MediaType.APPLICATION_JSON)
-                    .entity(responseBody.toString())
+                    .entity(responseBody)
                     .build();
         }
 
         if (subscribeRequest.getIgnoreAdded() &&
                 subscribeRequest.getIgnoreRemoved()) {
-            CommonResponse responseBody = new CommonResponse(4,
-                    "At least one difference action (added or " +
-                            "removed) must not be ignored.");
+            CommonResponse responseBody = CommonResponse.emptyDifferenceActions();
             return Response.status(400)
                     .type(MediaType.APPLICATION_JSON)
-                    .entity(responseBody.toString())
+                    .entity(responseBody)
                     .build();
         }
 
         Context context = Context.getInstance();
         boolean created = context.createJob(subscribeRequest);
         if (created) {
-            CommonResponse responseBody = new CommonResponse(0,
-                    ""
-            );
+            CommonResponse responseBody = CommonResponse.ok();
             return Response.status(200)
                     .type(MediaType.APPLICATION_JSON)
-                    .entity(responseBody.toString())
+                    .entity(responseBody)
                     .build();
         } else {
-            CommonResponse responseBody = new CommonResponse(5,
-                    "The request conflicts with a currently active watch " +
-                            "job, since the provided document URL is " +
-                            "already being watched and notified to the " +
-                            "provided client URL.");
+            CommonResponse responseBody = CommonResponse.alreadyExists();
             return Response.status(409)
                     .type(MediaType.APPLICATION_JSON)
-                    .entity(responseBody.toString())
+                    .entity(responseBody)
                     .build();
         }
     }
@@ -171,17 +160,16 @@ public class RestV1Resource {
                 cancelRequest.getClientUrl()
         );
         if (wasDeleted) {
-            CommonResponse responseBody = new CommonResponse(0, "");
+            CommonResponse responseBody = CommonResponse.ok();
             return Response.status(200)
                     .type(MediaType.APPLICATION_JSON)
-                    .entity(responseBody.toString())
+                    .entity(responseBody)
                     .build();
         } else {
-            CommonResponse responseBody = new CommonResponse(7,
-                    "The specified job to cancel does not exist.");
+            CommonResponse responseBody = CommonResponse.notExists();
             return Response.status(404)
                     .type(MediaType.APPLICATION_JSON)
-                    .entity(responseBody.toString())
+                    .entity(responseBody)
                     .build();
         }
     }

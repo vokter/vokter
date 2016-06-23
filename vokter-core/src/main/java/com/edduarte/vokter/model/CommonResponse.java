@@ -1,5 +1,5 @@
 /*
- * Copyright 2015 Ed Duarte
+ * Copyright 2015 Eduardo Duarte
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -28,9 +28,58 @@ public class CommonResponse {
     private final String message;
 
 
-    public CommonResponse(int code, String message) {
+    private CommonResponse(int code, String message) {
         this.code = code;
         this.message = message;
+    }
+
+
+    public static CommonResponse ok() {
+        return new CommonResponse(0, "");
+    }
+
+
+    public static CommonResponse invalidDocumentUrl() {
+        return new CommonResponse(1, "The provided document URL is invalid.");
+    }
+
+
+    public static CommonResponse invalidClientUrl() {
+        return new CommonResponse(2, "The provided client URL is invalid.");
+    }
+
+
+    public static CommonResponse emptyKeywords() {
+        return new CommonResponse(3, "You need to provide at least one valid keyword.");
+    }
+
+
+    public static CommonResponse emptyDifferenceActions() {
+        return new CommonResponse(4, "At least one difference action " +
+                "('added' or 'removed') must not be ignored.");
+    }
+
+
+    public static CommonResponse alreadyExists() {
+        return new CommonResponse(5, "The request conflicts with a " +
+                "currently active watch job, since the provided document " +
+                "URL is already being watched and notified to the provided " +
+                "client URL.");
+    }
+
+
+    public static CommonResponse invalidFormat() {
+        return new CommonResponse(6, "The request body has an invalid format.");
+    }
+
+
+    public static CommonResponse notExists() {
+        return new CommonResponse(7, "The specified job to cancel does not exist.");
+    }
+
+
+    public static CommonResponse other(int code, String message) {
+        return new CommonResponse(code, message);
     }
 
 

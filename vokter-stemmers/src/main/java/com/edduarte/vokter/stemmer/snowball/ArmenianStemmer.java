@@ -7,7 +7,7 @@ package com.edduarte.vokter.stemmer.snowball;
  * It implements the stemming algorithm defined by a snowball script.
  */
 
-public class ArmenianStemmer extends SnowballStemmer {
+public class ArmenianStemmer extends com.edduarte.vokter.stemmer.snowball.SnowballStemmer {
 
     private static final long serialVersionUID = 1L;
 

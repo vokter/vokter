@@ -1,5 +1,5 @@
 /*
- * Copyright 2015 Ed Duarte
+ * Copyright 2015 Eduardo Duarte
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -157,7 +157,7 @@ public class PluginLoader {
             // lazily collects all existing compiled stemmer classes
             Stream<Path> readerFiles = filesInDir(Constants.READER_CLASSES_DIR.toPath());
 
-            Optional<Class<? extends Reader>> supportingClass = readerFiles
+            Optional<? extends Class<? extends Reader>> supportingClass = readerFiles
 
                     // loads all reader classes
                     .map(this::loadReader)
@@ -219,7 +219,7 @@ public class PluginLoader {
             // lazily collects all existing compiled stemmer classes
             Stream<Path> stemmerFiles = filesInDir(Constants.STEMMER_CLASSES_DIR.toPath());
 
-            Optional<Class<? extends Stemmer>> supportingClass = stemmerFiles
+            Optional<? extends Class<? extends Stemmer>> supportingClass = stemmerFiles
 
                     // loads all stemmer classes
                     .map(this::loadStemmer)

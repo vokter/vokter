@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright 2014 Ed Duarte
+  ~ Copyright 2014 Eduardo Duarte
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -19,9 +19,13 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
                              http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <groupId>com.edduarte</groupId>
+        <artifactId>vokter</artifactId>
+        <version>1.4.1</version>
+    </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.edduarte</groupId>
     <artifactId>vokter-readers</artifactId>
     <version>1.4.1</version>
 
@@ -33,7 +37,8 @@
             <name>Eduardo Duarte</name>
             <email>hello@edduarte.com</email>
             <roles>
-                <role>core developer</role>
+                <role>architect</role>
+                <role>developer</role>
             </roles>
         </developer>
     </developers>
@@ -44,48 +49,7 @@
         <finalName>${project.artifactId}</finalName>
         <sourceDirectory>src/main/java</sourceDirectory>
         <testSourceDirectory>src/test/java</testSourceDirectory>
-
-        <plugins>
-
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-compiler-plugin</artifactId>
-                <version>3.1</version>
-                <configuration>
-                    <source>1.8</source>
-                    <target>1.8</target>
-                </configuration>
-            </plugin>
-
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-deploy-plugin</artifactId>
-                <version>2.7</version>
-            </plugin>
-
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-source-plugin</artifactId>
-                <version>2.2.1</version>
-            </plugin>
-
-        </plugins>
-
     </build>
-
-    <properties>
-        <maven.compiler.source>1.8</maven.compiler.source>
-        <maven.compiler.target>1.8</maven.compiler.target>
-
-        <maven.compiler.optimize>true</maven.compiler.optimize>
-        <maven.compiler.showDeprecations>true</maven.compiler.showDeprecations>
-
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-
-        <targetJdk>1.8</targetJdk>
-
-    </properties>
 
     <dependencies>
 
@@ -93,8 +57,6 @@
             <groupId>com.edduarte</groupId>
             <artifactId>vokter-core</artifactId>
             <version>1.4.1</version>
-            <scope>system</scope>
-            <systemPath>${project.basedir}/../target/vokter-core.jar</systemPath>
         </dependency>
 
     </dependencies>
