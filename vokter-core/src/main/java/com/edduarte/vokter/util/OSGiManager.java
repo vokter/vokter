@@ -46,9 +46,9 @@ import java.util.stream.Stream;
  * @version 1.3.2
  * @since 1.0.0
  */
-public class PluginLoader {
+public class OSGiManager {
 
-    private static final Logger logger = LoggerFactory.getLogger(PluginLoader.class);
+    private static final Logger logger = LoggerFactory.getLogger(OSGiManager.class);
 
 
     /**
