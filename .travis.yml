@@ -9,7 +9,7 @@ sudo: false
 
 before_install:
 - mvn clean
-- cd ../vokter-core
+- cd vokter-core
 - mvn install -Dmaven.test.skip=true
 - cd ../vokter-stemmers
 - mvn test
