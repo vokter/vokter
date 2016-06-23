@@ -9,10 +9,17 @@ sudo: false
 
 before_install:
 - mvn clean
-- mvn install
+- cd ../vokter-core
+- mvn install -Dmaven.test.skip=true
+- cd ../vokter-stemmers
+- mvn test
+- cd ../vokter-readers
+- mvn test
+- cd ../
+- mvn test
 
 install: true
 
 after_success:
 - cd vokter-core
-- mvn jacoco:report coveralls:report
+ - mvn jacoco:report coveralls:report
