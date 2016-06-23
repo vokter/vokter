@@ -55,7 +55,7 @@ public interface Parser extends AutoCloseable {
      */
     public static class Result {
 
-        public int wordNum;
+        public int wordCount;
 
         public int start;
 
@@ -64,11 +64,11 @@ public interface Parser extends AutoCloseable {
         public MutableString text;
 
 
-        Result(final int wordNum,
+        Result(final int wordCount,
                final int start,
                final int end,
                final MutableString text) {
-            this.wordNum = wordNum;
+            this.wordCount = wordCount;
             this.start = start;
             this.end = end;
             this.text = text;

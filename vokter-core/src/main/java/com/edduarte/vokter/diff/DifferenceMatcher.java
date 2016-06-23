@@ -63,10 +63,10 @@ public class DifferenceMatcher implements Callable<Set<DifferenceMatcher.Result>
 
         Set<Result> matchedDiffs = new ConcurrentHashSet<>();
 
-        DifferenceAction lastAction = DifferenceAction.nothing;
+        DifferenceEvent lastAction = DifferenceEvent.nothing;
         BloomFilter<String> lastBloomFilter = null;
         for (Difference r : differences) {
-            if (lastAction == DifferenceAction.nothing || r.getAction() != lastAction) {
+            if (lastAction == DifferenceEvent.nothing || r.getAction() != lastAction) {
                 // reset the bloom filter being used
                 lastBloomFilter = BloomFilter
                         .create((from, into) -> into.putUnencodedChars(from), 10);
@@ -85,11 +85,11 @@ public class DifferenceMatcher implements Callable<Set<DifferenceMatcher.Result>
                     .map((pair) -> {
                         Difference diff = pair.a();
                         Keyword keyword = pair.b();
-                        DifferenceAction i = diff.getAction();
-                        if (i == DifferenceAction.inserted && !ignoreAdded) {
+                        DifferenceEvent i = diff.getAction();
+                        if (i == DifferenceEvent.inserted && !ignoreAdded) {
                             return new Result(diff.getAction(), keyword, diff.getSnippet());
 
-                        } else if (i == DifferenceAction.deleted && !ignoreRemoved) {
+                        } else if (i == DifferenceEvent.deleted && !ignoreRemoved) {
                             return new Result(diff.getAction(), keyword, diff.getSnippet());
                         }
                         return null;
@@ -110,7 +110,7 @@ public class DifferenceMatcher implements Callable<Set<DifferenceMatcher.Result>
         /**
          * The action of this difference.
          */
-        public final DifferenceAction action;
+        public final DifferenceEvent action;
 
         /**
          * The keyword contained within this difference.
@@ -124,7 +124,7 @@ public class DifferenceMatcher implements Callable<Set<DifferenceMatcher.Result>
         public final String snippet;
 
 
-        protected Result(final DifferenceAction action,
+        protected Result(final DifferenceEvent action,
                          final Keyword keyword,
                          final String snippet) {
             this.action = action;

@@ -66,7 +66,8 @@ public class SimpleParser implements Parser {
             }
 
             if (startIndex == endIndex) {
-                // is empty or the first character in the text is a space, so skip it
+                // is empty or the first character in the text is a space, so
+                // skip it
                 startIndex++;
                 continue;
             }

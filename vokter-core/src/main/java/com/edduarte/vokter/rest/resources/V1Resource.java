@@ -17,9 +17,9 @@
 package com.edduarte.vokter.rest.resources;
 
 import com.edduarte.vokter.Context;
-import com.edduarte.vokter.model.CancelRequest;
+import com.edduarte.vokter.model.v1.CancelRequest;
 import com.edduarte.vokter.model.CommonResponse;
-import com.edduarte.vokter.model.SubscribeRequest;
+import com.edduarte.vokter.model.v1.SubscribeRequest;
 import com.google.common.collect.Lists;
 import org.apache.commons.validator.routines.UrlValidator;
 
@@ -42,7 +42,7 @@ import java.util.concurrent.ExecutionException;
  * @since 1.0.0
  */
 @Path("/v1/")
-public class RestV1Resource {
+public class V1Resource {
 
     @GET
     @Path("exampleRequest")

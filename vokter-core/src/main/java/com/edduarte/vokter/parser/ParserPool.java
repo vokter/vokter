@@ -29,34 +29,34 @@ import java.util.concurrent.LinkedBlockingQueue;
  */
 public class ParserPool {
 
-    private final LinkedBlockingQueue<Parser> parsersQueue;
+    private final LinkedBlockingQueue<Parser> parserQueue;
 
 
     public ParserPool() {
-        this.parsersQueue = new LinkedBlockingQueue<>();
+        this.parserQueue = new LinkedBlockingQueue<>();
     }
 
 
     public Parser take() throws InterruptedException {
-        return parsersQueue.take();
+        return parserQueue.take();
     }
 
 
     public void place(Parser parser) throws InterruptedException {
-        this.parsersQueue.put(parser);
+        this.parserQueue.put(parser);
     }
 
 
     public void clear() {
-        while (!parsersQueue.isEmpty()) {
+        while (!parserQueue.isEmpty()) {
             try {
-                Parser parser = parsersQueue.take();
+                Parser parser = parserQueue.take();
                 parser.close();
                 parser = null;
             } catch (InterruptedException ex) {
                 throw new RuntimeException("There was a problem terminating the parsers.", ex);
             }
         }
-        this.parsersQueue.clear();
+        this.parserQueue.clear();
     }
 }

@@ -17,18 +17,21 @@
 package com.edduarte.vokter.diff;
 
 /**
- * A structure that set the action that was performed on a text for it to trigger a
- * difference.
+ * A structure that set the action that was performed on a text for it to
+ * trigger a difference.
  * The following example ...
- * {Diff(Status.deleted, "Hello"), Diff(Status.inserted, "Goodbye"),
- * Diff(Status.nothing, " world.")}
- * ... means that the newer document snapshot erased "Hello", wrote "Goodbye" and
- * kept " world.".
+ * [
+ *     Diff(Status.deleted, "Hello"),
+ *     Diff(Status.inserted, "Goodbye"),
+ *     Diff(Status.nothing, " world.")
+ * ]
+ * ... means that the newer document snapshot erased "Hello", wrote "Goodbye"
+ * and kept " world.".
  *
  * @author Eduardo Duarte (<a href="mailto:hello@edduarte.com">hello@edduarte.com</a>)
  * @version 1.3.2
  * @since 1.0.0
  */
-public enum DifferenceAction {
+public enum DifferenceEvent {
     inserted, deleted, nothing
 }

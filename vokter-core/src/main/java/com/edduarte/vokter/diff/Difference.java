@@ -29,7 +29,8 @@ import java.io.Serializable;
  * @since 1.0.0
  */
 public class Difference extends BasicDBObject implements Serializable {
-    public static final String DIFF_ACTION = "diff_action";
+
+    public static final String DIFF_EVENT = "diff_event";
 
     public static final String OCCURRENCE_TEXT = "occurrence_text";
 
@@ -38,10 +39,10 @@ public class Difference extends BasicDBObject implements Serializable {
     private static final long serialVersionUID = 1L;
 
 
-    public Difference(final DifferenceAction action,
+    public Difference(final DifferenceEvent action,
                       final String occurrenceText,
                       final String snippet) {
-        super(DIFF_ACTION, action.toString());
+        super(DIFF_EVENT, action.toString());
         append(OCCURRENCE_TEXT, occurrenceText);
         append(SNIPPET, snippet);
     }
@@ -55,9 +56,9 @@ public class Difference extends BasicDBObject implements Serializable {
     /**
      * Returns the status of this difference.
      */
-    public DifferenceAction getAction() {
-        String action = getString(DIFF_ACTION);
-        return DifferenceAction.valueOf(action);
+    public DifferenceEvent getAction() {
+        String action = getString(DIFF_EVENT);
+        return DifferenceEvent.valueOf(action);
     }
 
 

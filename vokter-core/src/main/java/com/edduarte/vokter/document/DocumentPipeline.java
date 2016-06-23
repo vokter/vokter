@@ -54,7 +54,8 @@ import java.util.stream.Stream;
  */
 public class DocumentPipeline implements Callable<Document> {
 
-    private static final Logger logger = LoggerFactory.getLogger(DocumentPipeline.class);
+    private static final Logger logger =
+            LoggerFactory.getLogger(DocumentPipeline.class);
 
     private final LanguageDetector langDetector;
 
@@ -106,7 +107,8 @@ public class DocumentPipeline implements Callable<Document> {
 
         // filters the contents by cleaning characters of whole strings
         // according to each cleaner's implementation
-        Cleaner cleaner = AndCleaner.of(new SpecialCharsCleaner(), new DiacriticCleaner());
+        Cleaner cleaner = AndCleaner
+                .of(new SpecialCharsCleaner(), new DiacriticCleaner());
         cleaner.clean(content);
         cleaner = null;
 
@@ -127,7 +129,8 @@ public class DocumentPipeline implements Callable<Document> {
         // infers the document language
         String languageCode = "en";
         if (langDetector != null) {
-            TextObjectFactory textObjectFactory = CommonTextObjectFactories.forDetectingOnLargeText();
+            TextObjectFactory textObjectFactory =
+                    CommonTextObjectFactories.forDetectingOnLargeText();
             TextObject textObject = textObjectFactory.forText(content);
             Optional<LdLocale> lang = langDetector.detect(textObject);
             languageCode = lang.isPresent() ? lang.get().getLanguage() : "en";
@@ -140,7 +143,8 @@ public class DocumentPipeline implements Callable<Document> {
         if (isStoppingEnabled) {
             stopper = new FileStopper(languageCode);
             if (stopper.isEmpty()) {
-                // if no compatible stopwords were found, use the english stopwords
+                // if no compatible stopwords were found, use the
+                // english stopwords
                 stopper = new FileStopper("en");
             }
         }
@@ -150,7 +154,8 @@ public class DocumentPipeline implements Callable<Document> {
         // if the detected language is not supported, stemming is ignored
         Stemmer stemmer = null;
         if (isStemmingEnabled) {
-            Class<? extends Stemmer> stemmerClass = PluginLoader.getCompatibleStemmer(languageCode);
+            Class<? extends Stemmer> stemmerClass =
+                    PluginLoader.getCompatibleStemmer(languageCode);
             if (stemmerClass != null) {
                 stemmer = stemmerClass.newInstance();
             } else {
@@ -212,7 +217,7 @@ public class DocumentPipeline implements Callable<Document> {
         // parser results into Term objects
 
         Stream<Occurrence> termStream = results.stream()
-                .map(r -> new Occurrence(r.text.toString(), r.wordNum, r.start, r.end - 1));
+                .map(r -> new Occurrence(r.text.toString(), r.wordCount, r.start, r.end - 1));
         document.addOccurrences(termStream);
 
         results.clear();

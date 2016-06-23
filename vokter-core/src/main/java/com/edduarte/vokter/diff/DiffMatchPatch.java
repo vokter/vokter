@@ -176,7 +176,7 @@ public class DiffMatchPatch {
         if (text1.equals(text2)) {
             diffs = new LinkedList<>();
             if (text1.length() != 0) {
-                diffs.add(new Diff(DifferenceAction.nothing, text1));
+                diffs.add(new Diff(DifferenceEvent.nothing, text1));
             }
             return diffs;
         }
@@ -198,10 +198,10 @@ public class DiffMatchPatch {
 
         // Restore the prefix and suffix.
         if (commonprefix.length() != 0) {
-            diffs.addFirst(new Diff(DifferenceAction.nothing, commonprefix));
+            diffs.addFirst(new Diff(DifferenceEvent.nothing, commonprefix));
         }
         if (commonsuffix.length() != 0) {
-            diffs.addLast(new Diff(DifferenceAction.nothing, commonsuffix));
+            diffs.addLast(new Diff(DifferenceEvent.nothing, commonsuffix));
         }
 
         diff_cleanupMerge(diffs);
@@ -227,13 +227,13 @@ public class DiffMatchPatch {
 
         if (text1.length() == 0) {
             // Just add some text (speedup).
-            diffs.add(new Diff(DifferenceAction.inserted, text2));
+            diffs.add(new Diff(DifferenceEvent.inserted, text2));
             return diffs;
         }
 
         if (text2.length() == 0) {
             // Just delete some text (speedup).
-            diffs.add(new Diff(DifferenceAction.deleted, text1));
+            diffs.add(new Diff(DifferenceEvent.deleted, text1));
             return diffs;
         }
 
@@ -242,10 +242,10 @@ public class DiffMatchPatch {
         int i = longtext.indexOf(shorttext);
         if (i != -1) {
             // Shorter text is inside the longer text (speedup).
-            DifferenceAction op = (text1.length() > text2.length()) ?
-                    DifferenceAction.deleted : DifferenceAction.inserted;
+            DifferenceEvent op = (text1.length() > text2.length()) ?
+                    DifferenceEvent.deleted : DifferenceEvent.inserted;
             diffs.add(new Diff(op, longtext.substring(0, i)));
-            diffs.add(new Diff(DifferenceAction.nothing, shorttext));
+            diffs.add(new Diff(DifferenceEvent.nothing, shorttext));
             diffs.add(new Diff(op, longtext.substring(i + shorttext.length())));
             return diffs;
         }
@@ -253,8 +253,8 @@ public class DiffMatchPatch {
         if (shorttext.length() == 1) {
             // Single character string.
             // After the previous speedup, the character can't be an equality.
-            diffs.add(new Diff(DifferenceAction.deleted, text1));
-            diffs.add(new Diff(DifferenceAction.inserted, text2));
+            diffs.add(new Diff(DifferenceEvent.deleted, text1));
+            diffs.add(new Diff(DifferenceEvent.inserted, text2));
             return diffs;
         }
 
@@ -274,7 +274,7 @@ public class DiffMatchPatch {
                     checklines, deadline);
             // Merge the results.
             diffs = diffs_a;
-            diffs.add(new Diff(DifferenceAction.nothing, mid_common));
+            diffs.add(new Diff(DifferenceEvent.nothing, mid_common));
             diffs.addAll(diffs_b);
             return diffs;
         }
@@ -314,7 +314,7 @@ public class DiffMatchPatch {
 
         // Rediff any replacement blocks, this time character-by-character.
         // Add a dummy entry at the end.
-        diffs.add(new Diff(DifferenceAction.nothing, ""));
+        diffs.add(new Diff(DifferenceEvent.nothing, ""));
         int count_delete = 0;
         int count_insert = 0;
         String text_delete = "";
@@ -477,8 +477,8 @@ public class DiffMatchPatch {
         // Diff took too long and hit the deadline or
         // number of diffs equals number of characters, no commonality at all.
         LinkedList<Diff> diffs = new LinkedList<Diff>();
-        diffs.add(new Diff(DifferenceAction.deleted, text1));
-        diffs.add(new Diff(DifferenceAction.inserted, text2));
+        diffs.add(new Diff(DifferenceEvent.deleted, text1));
+        diffs.add(new Diff(DifferenceEvent.inserted, text2));
         return diffs;
     }
 
@@ -795,7 +795,7 @@ public class DiffMatchPatch {
         int length_deletions2 = 0;
         Diff thisDiff = pointer.next();
         while (thisDiff != null) {
-            if (thisDiff.action == DifferenceAction.nothing) {
+            if (thisDiff.action == DifferenceEvent.nothing) {
                 // Equality found.
                 equalities.push(thisDiff);
                 length_insertions1 = length_insertions2;
@@ -805,7 +805,7 @@ public class DiffMatchPatch {
                 lastequality = thisDiff.text;
             } else {
                 // An insertion or deletion.
-                if (thisDiff.action == DifferenceAction.inserted) {
+                if (thisDiff.action == DifferenceEvent.inserted) {
                     length_insertions2 += thisDiff.text.length();
                 } else {
                     length_deletions2 += thisDiff.text.length();
@@ -824,9 +824,9 @@ public class DiffMatchPatch {
                     pointer.next();
 
                     // Replace equality with a delete.
-                    pointer.set(new Diff(DifferenceAction.deleted, lastequality));
+                    pointer.set(new Diff(DifferenceEvent.deleted, lastequality));
                     // Insert a corresponding an insert.
-                    pointer.add(new Diff(DifferenceAction.inserted, lastequality));
+                    pointer.add(new Diff(DifferenceEvent.inserted, lastequality));
 
                     equalities.pop();  // Throw away the equality we just deleted.
                     if (!equalities.empty()) {
@@ -879,8 +879,8 @@ public class DiffMatchPatch {
             }
         }
         while (thisDiff != null) {
-            if (prevDiff.action == DifferenceAction.deleted &&
-                    thisDiff.action == DifferenceAction.inserted) {
+            if (prevDiff.action == DifferenceEvent.deleted &&
+                    thisDiff.action == DifferenceEvent.inserted) {
                 String deletion = prevDiff.text;
                 String insertion = thisDiff.text;
                 int overlap_length1 = this.diff_commonOverlap(deletion, insertion);
@@ -890,7 +890,7 @@ public class DiffMatchPatch {
                             overlap_length1 >= insertion.length() / 2.0) {
                         // Overlap found. Insert an equality and trim the surrounding edits.
                         pointer.previous();
-                        pointer.add(new Diff(DifferenceAction.nothing,
+                        pointer.add(new Diff(DifferenceEvent.nothing,
                                 insertion.substring(0, overlap_length1)));
                         prevDiff.text =
                                 deletion.substring(0, deletion.length() - overlap_length1);
@@ -904,12 +904,12 @@ public class DiffMatchPatch {
                         // Reverse overlap found.
                         // Insert an equality and swap and trim the surrounding edits.
                         pointer.previous();
-                        pointer.add(new Diff(DifferenceAction.nothing,
+                        pointer.add(new Diff(DifferenceEvent.nothing,
                                 deletion.substring(0, overlap_length2)));
-                        prevDiff.action = DifferenceAction.inserted;
+                        prevDiff.action = DifferenceEvent.inserted;
                         prevDiff.text =
                                 insertion.substring(0, insertion.length() - overlap_length2);
-                        thisDiff.action = DifferenceAction.deleted;
+                        thisDiff.action = DifferenceEvent.deleted;
                         thisDiff.text = deletion.substring(overlap_length2);
                         // pointer.add inserts the element before the cursor, so there is
                         // no need to step past the new element.
@@ -943,8 +943,8 @@ public class DiffMatchPatch {
         Diff nextDiff = pointer.hasNext() ? pointer.next() : null;
         // Intentionally ignore the first and last element (don't need checking).
         while (nextDiff != null) {
-            if (prevDiff.action == DifferenceAction.nothing &&
-                    nextDiff.action == DifferenceAction.nothing) {
+            if (prevDiff.action == DifferenceEvent.nothing &&
+                    nextDiff.action == DifferenceEvent.nothing) {
                 // This is a single edit surrounded by equalities.
                 equality1 = prevDiff.text;
                 edit = thisDiff.text;
@@ -1087,7 +1087,7 @@ public class DiffMatchPatch {
         Diff thisDiff = pointer.next();
         Diff safeDiff = thisDiff;  // The last Diff that is known to be unsplitable.
         while (thisDiff != null) {
-            if (thisDiff.action == DifferenceAction.nothing) {
+            if (thisDiff.action == DifferenceEvent.nothing) {
                 // Equality found.
                 if (thisDiff.text.length() < Diff_EditCost && (post_ins || post_del)) {
                     // Candidate found.
@@ -1104,7 +1104,7 @@ public class DiffMatchPatch {
                 post_ins = post_del = false;
             } else {
                 // An insertion or deletion.
-                if (thisDiff.action == DifferenceAction.deleted) {
+                if (thisDiff.action == DifferenceEvent.deleted) {
                     post_del = true;
                 } else {
                     post_ins = true;
@@ -1130,9 +1130,9 @@ public class DiffMatchPatch {
                     pointer.next();
 
                     // Replace equality with a delete.
-                    pointer.set(new Diff(DifferenceAction.deleted, lastequality));
+                    pointer.set(new Diff(DifferenceEvent.deleted, lastequality));
                     // Insert a corresponding an insert.
-                    pointer.add(thisDiff = new Diff(DifferenceAction.inserted, lastequality));
+                    pointer.add(thisDiff = new Diff(DifferenceEvent.inserted, lastequality));
 
                     equalities.pop();  // Throw away the equality we just deleted.
                     lastequality = null;
@@ -1179,7 +1179,7 @@ public class DiffMatchPatch {
      * @param diffs LinkedList of Diff objects.
      */
     public void diff_cleanupMerge(LinkedList<Diff> diffs) {
-        diffs.add(new Diff(DifferenceAction.nothing, ""));  // Add a dummy entry at the end.
+        diffs.add(new Diff(DifferenceEvent.nothing, ""));  // Add a dummy entry at the end.
         ListIterator<Diff> pointer = diffs.listIterator();
         int count_delete = 0;
         int count_insert = 0;
@@ -1219,12 +1219,12 @@ public class DiffMatchPatch {
                             if (commonlength != 0) {
                                 if (pointer.hasPrevious()) {
                                     thisDiff = pointer.previous();
-                                    assert thisDiff.action == DifferenceAction.nothing
+                                    assert thisDiff.action == DifferenceEvent.nothing
                                             : "Previous diff should have been an equality.";
                                     thisDiff.text += text_insert.substring(0, commonlength);
                                     pointer.next();
                                 } else {
-                                    pointer.add(new Diff(DifferenceAction.nothing,
+                                    pointer.add(new Diff(DifferenceEvent.nothing,
                                             text_insert.substring(0, commonlength)));
                                 }
                                 text_insert = text_insert.substring(commonlength);
@@ -1245,10 +1245,10 @@ public class DiffMatchPatch {
                         }
                         // Insert the merged records.
                         if (text_delete.length() != 0) {
-                            pointer.add(new Diff(DifferenceAction.deleted, text_delete));
+                            pointer.add(new Diff(DifferenceEvent.deleted, text_delete));
                         }
                         if (text_insert.length() != 0) {
-                            pointer.add(new Diff(DifferenceAction.inserted, text_insert));
+                            pointer.add(new Diff(DifferenceEvent.inserted, text_insert));
                         }
                         // Step forward to the equality.
                         thisDiff = pointer.hasNext() ? pointer.next() : null;
@@ -1286,8 +1286,8 @@ public class DiffMatchPatch {
         Diff nextDiff = pointer.hasNext() ? pointer.next() : null;
         // Intentionally ignore the first and last element (don't need checking).
         while (nextDiff != null) {
-            if (prevDiff.action == DifferenceAction.nothing &&
-                    nextDiff.action == DifferenceAction.nothing) {
+            if (prevDiff.action == DifferenceEvent.nothing &&
+                    nextDiff.action == DifferenceEvent.nothing) {
                 // This is a single edit surrounded by equalities.
                 if (thisDiff.text.endsWith(prevDiff.text)) {
                     // Shift the edit over the previous equality.
@@ -1340,11 +1340,11 @@ public class DiffMatchPatch {
         int last_chars2 = 0;
         Diff lastDiff = null;
         for (Diff aDiff : diffs) {
-            if (aDiff.action != DifferenceAction.inserted) {
+            if (aDiff.action != DifferenceEvent.inserted) {
                 // Equality or deletion.
                 chars1 += aDiff.text.length();
             }
-            if (aDiff.action != DifferenceAction.deleted) {
+            if (aDiff.action != DifferenceEvent.deleted) {
                 // Equality or insertion.
                 chars2 += aDiff.text.length();
             }
@@ -1356,7 +1356,7 @@ public class DiffMatchPatch {
             last_chars1 = chars1;
             last_chars2 = chars2;
         }
-        if (lastDiff != null && lastDiff.action == DifferenceAction.deleted) {
+        if (lastDiff != null && lastDiff.action == DifferenceEvent.deleted) {
             // The location was deleted.
             return last_chars2;
         }
@@ -1403,7 +1403,7 @@ public class DiffMatchPatch {
     public String diff_text1(LinkedList<Diff> diffs) {
         StringBuilder text = new StringBuilder();
         for (Diff aDiff : diffs) {
-            if (aDiff.action != DifferenceAction.inserted) {
+            if (aDiff.action != DifferenceEvent.inserted) {
                 text.append(aDiff.text);
             }
         }
@@ -1420,7 +1420,7 @@ public class DiffMatchPatch {
     public String diff_text2(LinkedList<Diff> diffs) {
         StringBuilder text = new StringBuilder();
         for (Diff aDiff : diffs) {
-            if (aDiff.action != DifferenceAction.deleted) {
+            if (aDiff.action != DifferenceEvent.deleted) {
                 text.append(aDiff.text);
             }
         }
@@ -1536,7 +1536,7 @@ public class DiffMatchPatch {
                         throw new IllegalArgumentException(
                                 "Illegal escape in diff_fromDelta: " + param, e);
                     }
-                    diffs.add(new Diff(DifferenceAction.inserted, param));
+                    diffs.add(new Diff(DifferenceEvent.inserted, param));
                     break;
                 case '-':
                     // Fall through.
@@ -1561,9 +1561,9 @@ public class DiffMatchPatch {
                                 + ").", e);
                     }
                     if (token.charAt(0) == '=') {
-                        diffs.add(new Diff(DifferenceAction.nothing, text));
+                        diffs.add(new Diff(DifferenceEvent.nothing, text));
                     } else {
-                        diffs.add(new Diff(DifferenceAction.deleted, text));
+                        diffs.add(new Diff(DifferenceEvent.deleted, text));
                     }
                     break;
                 default:
@@ -1794,13 +1794,13 @@ public class DiffMatchPatch {
         String prefix = text.substring(Math.max(0, patch.start2 - padding),
                 patch.start2);
         if (prefix.length() != 0) {
-            patch.diffs.addFirst(new Diff(DifferenceAction.nothing, prefix));
+            patch.diffs.addFirst(new Diff(DifferenceEvent.nothing, prefix));
         }
         // Add the suffix.
         String suffix = text.substring(patch.start2 + patch.length1,
                 Math.min(text.length(), patch.start2 + patch.length1 + padding));
         if (suffix.length() != 0) {
-            patch.diffs.addLast(new Diff(DifferenceAction.nothing, suffix));
+            patch.diffs.addLast(new Diff(DifferenceEvent.nothing, suffix));
         }
 
         // Roll back the start points.
@@ -1893,7 +1893,7 @@ public class DiffMatchPatch {
         String prepatch_text = text1;
         String postpatch_text = text1;
         for (Diff aDiff : diffs) {
-            if (patch.diffs.isEmpty() && aDiff.action != DifferenceAction.nothing) {
+            if (patch.diffs.isEmpty() && aDiff.action != DifferenceEvent.nothing) {
                 // A new patch starts here.
                 patch.start1 = char_count1;
                 patch.start2 = char_count2;
@@ -1939,10 +1939,10 @@ public class DiffMatchPatch {
             }
 
             // Update the current character count.
-            if (aDiff.action != DifferenceAction.inserted) {
+            if (aDiff.action != DifferenceEvent.inserted) {
                 char_count1 += aDiff.text.length();
             }
-            if (aDiff.action != DifferenceAction.deleted) {
+            if (aDiff.action != DifferenceEvent.deleted) {
                 char_count2 += aDiff.text.length();
             }
         }
@@ -2064,20 +2064,20 @@ public class DiffMatchPatch {
                         diff_cleanupSemanticLossless(diffs);
                         int index1 = 0;
                         for (Diff aDiff : aPatch.diffs) {
-                            if (aDiff.action != DifferenceAction.nothing) {
+                            if (aDiff.action != DifferenceEvent.nothing) {
                                 int index2 = diff_xIndex(diffs, index1);
-                                if (aDiff.action == DifferenceAction.inserted) {
+                                if (aDiff.action == DifferenceEvent.inserted) {
                                     // Insertion
                                     text = text.substring(0, start_loc + index2) + aDiff.text
                                             + text.substring(start_loc + index2);
-                                } else if (aDiff.action == DifferenceAction.deleted) {
+                                } else if (aDiff.action == DifferenceEvent.deleted) {
                                     // Deletion
                                     text = text.substring(0, start_loc + index2)
                                             + text.substring(start_loc + diff_xIndex(diffs,
                                             index1 + aDiff.text.length()));
                                 }
                             }
-                            if (aDiff.action != DifferenceAction.deleted) {
+                            if (aDiff.action != DifferenceEvent.deleted) {
                                 index1 += aDiff.text.length();
                             }
                         }
@@ -2116,9 +2116,9 @@ public class DiffMatchPatch {
         // Add some padding on start of first diff.
         Patch patch = patches.getFirst();
         LinkedList<Diff> diffs = patch.diffs;
-        if (diffs.isEmpty() || diffs.getFirst().action != DifferenceAction.nothing) {
+        if (diffs.isEmpty() || diffs.getFirst().action != DifferenceEvent.nothing) {
             // Add nullPadding equality.
-            diffs.addFirst(new Diff(DifferenceAction.nothing, nullPadding));
+            diffs.addFirst(new Diff(DifferenceEvent.nothing, nullPadding));
             patch.start1 -= paddingLength;  // Should be 0.
             patch.start2 -= paddingLength;  // Should be 0.
             patch.length1 += paddingLength;
@@ -2138,9 +2138,9 @@ public class DiffMatchPatch {
         // Add some padding on end of last diff.
         patch = patches.getLast();
         diffs = patch.diffs;
-        if (diffs.isEmpty() || diffs.getLast().action != DifferenceAction.nothing) {
+        if (diffs.isEmpty() || diffs.getLast().action != DifferenceEvent.nothing) {
             // Add nullPadding equality.
-            diffs.addLast(new Diff(DifferenceAction.nothing, nullPadding));
+            diffs.addLast(new Diff(DifferenceEvent.nothing, nullPadding));
             patch.length1 += paddingLength;
             patch.length2 += paddingLength;
         } else if (paddingLength > diffs.getLast().text.length()) {
@@ -2169,7 +2169,7 @@ public class DiffMatchPatch {
         Patch patch;
         int start1, start2;
         boolean empty;
-        DifferenceAction diff_type;
+        DifferenceEvent diff_type;
         String diff_text;
         ListIterator<Patch> pointer = patches.listIterator();
         Patch bigpatch = pointer.hasNext() ? pointer.next() : null;
@@ -2191,20 +2191,20 @@ public class DiffMatchPatch {
                 patch.start2 = start2 - precontext.length();
                 if (precontext.length() != 0) {
                     patch.length1 = patch.length2 = precontext.length();
-                    patch.diffs.add(new Diff(DifferenceAction.nothing, precontext));
+                    patch.diffs.add(new Diff(DifferenceEvent.nothing, precontext));
                 }
                 while (!bigpatch.diffs.isEmpty()
                         && patch.length1 < patch_size - Patch_Margin) {
                     diff_type = bigpatch.diffs.getFirst().action;
                     diff_text = bigpatch.diffs.getFirst().text;
-                    if (diff_type == DifferenceAction.inserted) {
+                    if (diff_type == DifferenceEvent.inserted) {
                         // Insertions are harmless.
                         patch.length2 += diff_text.length();
                         start2 += diff_text.length();
                         patch.diffs.addLast(bigpatch.diffs.removeFirst());
                         empty = false;
-                    } else if (diff_type == DifferenceAction.deleted && patch.diffs.size() == 1
-                            && patch.diffs.getFirst().action == DifferenceAction.nothing
+                    } else if (diff_type == DifferenceEvent.deleted && patch.diffs.size() == 1
+                            && patch.diffs.getFirst().action == DifferenceEvent.nothing
                             && diff_text.length() > 2 * patch_size) {
                         // This is a large deletion.  Let it pass in one chunk.
                         patch.length1 += diff_text.length();
@@ -2218,7 +2218,7 @@ public class DiffMatchPatch {
                                 patch_size - patch.length1 - Patch_Margin));
                         patch.length1 += diff_text.length();
                         start1 += diff_text.length();
-                        if (diff_type == DifferenceAction.nothing) {
+                        if (diff_type == DifferenceEvent.nothing) {
                             patch.length2 += diff_text.length();
                             start2 += diff_text.length();
                         } else {
@@ -2247,10 +2247,10 @@ public class DiffMatchPatch {
                     patch.length1 += postcontext.length();
                     patch.length2 += postcontext.length();
                     if (!patch.diffs.isEmpty()
-                            && patch.diffs.getLast().action == DifferenceAction.nothing) {
+                            && patch.diffs.getLast().action == DifferenceEvent.nothing) {
                         patch.diffs.getLast().text += postcontext;
                     } else {
-                        patch.diffs.add(new Diff(DifferenceAction.nothing, postcontext));
+                        patch.diffs.add(new Diff(DifferenceEvent.nothing, postcontext));
                     }
                 }
                 if (!empty) {
@@ -2352,13 +2352,13 @@ public class DiffMatchPatch {
                 }
                 if (sign == '-') {
                     // Deletion.
-                    patch.diffs.add(new Diff(DifferenceAction.deleted, line));
+                    patch.diffs.add(new Diff(DifferenceEvent.deleted, line));
                 } else if (sign == '+') {
                     // Insertion.
-                    patch.diffs.add(new Diff(DifferenceAction.inserted, line));
+                    patch.diffs.add(new Diff(DifferenceEvent.inserted, line));
                 } else if (sign == ' ') {
                     // Minor equality.
-                    patch.diffs.add(new Diff(DifferenceAction.nothing, line));
+                    patch.diffs.add(new Diff(DifferenceEvent.nothing, line));
                 } else if (sign == '@') {
                     // Start of next patch.
                     break;
@@ -2401,7 +2401,7 @@ public class DiffMatchPatch {
         /**
          * One of: inserted, deleted or none.
          */
-        public DifferenceAction action;
+        public DifferenceEvent action;
 
         /**
          * The text associated with this diff operation.
@@ -2415,7 +2415,7 @@ public class DiffMatchPatch {
          * @param action One of inserted, deleted or none.
          * @param text   The text being applied.
          */
-        public Diff(DifferenceAction action, String text) {
+        public Diff(DifferenceEvent action, String text) {
             // Construct a diff with the specified operation and text.
             this.action = action;
             this.text = text;

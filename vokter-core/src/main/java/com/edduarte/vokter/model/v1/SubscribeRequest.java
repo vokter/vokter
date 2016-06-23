@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.edduarte.vokter.model;
+package com.edduarte.vokter.model.v1;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonInclude;
@@ -34,19 +34,16 @@ import java.util.List;
 @JsonIgnoreProperties(ignoreUnknown = true)
 @JsonInclude(JsonInclude.Include.NON_NULL)
 public class SubscribeRequest implements Serializable {
+
     private static final long serialVersionUID = 1L;
 
-    private static final int DEFAULT_INTERVAL = 600;
+    // mandatory field
+    @JsonProperty(required = true)
+    private String documentUrl;
 
-    private static final boolean DEFAULT_IGNORE_ADDED = false;
-
-    private static final boolean DEFAULT_IGNORE_REMOVED = false;
-
-    @JsonProperty
-    private String documentUrl; // mandatory field
-
-    @JsonProperty
-    private String clientUrl; // mandatory field
+    // mandatory field
+    @JsonProperty(required = true)
+    private String clientUrl;
 
     /**
      * Deprecated and replaced by 'clientUrl'. This attribute was kept for
@@ -59,23 +56,36 @@ public class SubscribeRequest implements Serializable {
     @JsonProperty
     private String receiverUrl; // mandatory field
 
-    @JsonProperty
+    @JsonProperty(required = true)
     private List<String> keywords; // mandatory field
 
-    @JsonProperty
+    /**
+     * The interval value is no longer used. Before deprecation, the intervals
+     * for difference-matching jobs could be set, but difference-detection jobs
+     * would still occur independently of difference-matching so it can
+     * accommodate to all matching jobs for the same document. This means that
+     * detection jobs needed to use an internal interval (420 seconds), and if
+     * matching jobs were configured to run more frequently than that interval,
+     * it would look for matches on the same detected differences two times or
+     * more.
+     * For versions 2.0.0 and above, matching jobs occur immediately after a
+     * detection job ends.
+     */
+    @Deprecated
+    @JsonProperty(defaultValue = "600")
     private int interval;
 
-    @JsonProperty
+    @JsonProperty(defaultValue = "false")
     private boolean ignoreAdded;
 
-    @JsonProperty
+    @JsonProperty(defaultValue = "false")
     private boolean ignoreRemoved;
 
 
     public SubscribeRequest() {
-        this.interval = DEFAULT_INTERVAL;
-        this.ignoreAdded = DEFAULT_IGNORE_ADDED;
-        this.ignoreRemoved = DEFAULT_IGNORE_REMOVED;
+        this.interval = 600;
+        this.ignoreAdded = false;
+        this.ignoreRemoved = false;
     }
 
 
@@ -124,5 +134,35 @@ public class SubscribeRequest implements Serializable {
 
     public boolean getIgnoreRemoved() {
         return ignoreRemoved;
+    }
+
+
+    public void setDocumentUrl(String documentUrl) {
+        this.documentUrl = documentUrl;
+    }
+
+
+    public void setClientUrl(String clientUrl) {
+        this.clientUrl = clientUrl;
+    }
+
+
+    public void setKeywords(List<String> keywords) {
+        this.keywords = keywords;
+    }
+
+
+    public void setInterval(int interval) {
+        this.interval = interval;
+    }
+
+
+    public void setIgnoreAdded(boolean ignoreAdded) {
+        this.ignoreAdded = ignoreAdded;
+    }
+
+
+    public void setIgnoreRemoved(boolean ignoreRemoved) {
+        this.ignoreRemoved = ignoreRemoved;
     }
 }

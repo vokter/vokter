@@ -40,6 +40,7 @@ import java.util.stream.StreamSupport;
  * @since 1.0.0
  */
 public final class Document extends BasicDBObject implements Serializable {
+
     public static final String ID = "id";
 
     public static final String URL = "url";

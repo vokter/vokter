@@ -36,21 +36,21 @@ public class DiffMatchPatchTest {
 
     private DiffMatchPatch dmp;
 
-    private DifferenceAction DELETE = DifferenceAction.deleted;
+    private DifferenceEvent DELETE = DifferenceEvent.deleted;
 
-    private DifferenceAction EQUAL = DifferenceAction.nothing;
+    private DifferenceEvent EQUAL = DifferenceEvent.nothing;
 
-    private DifferenceAction INSERT = DifferenceAction.inserted;
+    private DifferenceEvent INSERT = DifferenceEvent.inserted;
 
 
     // Construct the two texts which made up the diff originally.
     private static String[] diff_rebuildtexts(LinkedList<Diff> diffs) {
         String[] text = {"", ""};
         for (Diff myDiff : diffs) {
-            if (myDiff.action != DifferenceAction.inserted) {
+            if (myDiff.action != DifferenceEvent.inserted) {
                 text[0] += myDiff.text;
             }
-            if (myDiff.action != DifferenceAction.deleted) {
+            if (myDiff.action != DifferenceEvent.deleted) {
                 text[1] += myDiff.text;
             }
         }

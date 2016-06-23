@@ -16,6 +16,8 @@
 
 package com.edduarte.vokter.model;
 
+import com.fasterxml.jackson.annotation.JsonProperty;
+
 /**
  * @author Eduardo Duarte (<a href="mailto:hello@edduarte.com">hello@edduarte.com</a>)
  * @version 1.4.1
@@ -23,8 +25,10 @@ package com.edduarte.vokter.model;
  */
 public class CommonResponse {
 
+    @JsonProperty
     private final int code;
 
+    @JsonProperty
     private final String message;
 
 

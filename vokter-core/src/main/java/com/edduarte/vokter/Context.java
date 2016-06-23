@@ -28,7 +28,7 @@ import com.edduarte.vokter.keyword.KeywordBuilder;
 import com.edduarte.vokter.parser.Parser;
 import com.edduarte.vokter.parser.ParserPool;
 import com.edduarte.vokter.parser.SimpleParser;
-import com.edduarte.vokter.model.SubscribeRequest;
+import com.edduarte.vokter.model.v1.SubscribeRequest;
 import com.mongodb.BulkWriteOperation;
 import com.mongodb.DB;
 import com.mongodb.DBCollection;
@@ -118,10 +118,8 @@ public class Context implements LifeCycle.Listener, JobManagerHandler {
      */
     private DB differencesDB;
 
-
     /**
-     * The Bayesian detection model that allows detection of language of input
-     * text.
+     * The Bayesian detection model that allows language detection.
      */
     private LanguageDetector langDetector;
 
@@ -137,20 +135,17 @@ public class Context implements LifeCycle.Listener, JobManagerHandler {
     private boolean initialized;
 
     /**
-     * Flag that sets the QueryProcessor usage of
-     * stopword filtering.
+     * Flag that sets difference detection jobs to perform stopword filtering.
      */
     private boolean isStoppingEnabled = true;
 
     /**
-     * Flag that sets the QueryProcessor usage of
-     * a porter stemmer.
+     * Flag that sets difference detection jobs to perform stemming.
      */
     private boolean isStemmingEnabled = true;
 
     /**
-     * Flag that sets the QueryProcessor matching
-     * of equal occurrences with different casing.
+     * Flag that sets difference detection jobs to of equal occurrences with different casing.
      */
     private boolean ignoreCase = true;
 

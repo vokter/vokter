@@ -85,6 +85,10 @@ public class DifferenceDetector implements Callable<List<Difference>> {
         String original = oldSnapshot.getProcessedContent();
         String revision = newSnapshot.getProcessedContent();
 
+        // TODO: use LSH to determine a similarity index. If distance is above
+        // 0.4, the documents are different enough and a more computational
+        // intensive task (analysing token by token differences).
+
         LinkedList<DiffMatchPatch.Diff> diffs = dmp.diff_main(original, revision);
         dmp.diff_cleanupSemantic(diffs);
 

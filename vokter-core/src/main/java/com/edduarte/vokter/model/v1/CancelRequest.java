@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.edduarte.vokter.model;
+package com.edduarte.vokter.model.v1;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;
@@ -27,11 +27,12 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class CancelRequest {
 
-    @JsonProperty
+    @JsonProperty(required = true)
     private String documentUrl; // mandatory field
 
-    @JsonProperty
-    private String clientUrl; // mandatory field
+    // mandatory field
+    @JsonProperty(required = true)
+    private String clientUrl;
 
     /**
      * Deprecated and replaced by 'clientUrl'. This attribute was kept for

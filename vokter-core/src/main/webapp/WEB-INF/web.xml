@@ -51,8 +51,7 @@
             <param-value>com.edduarte.vokter.rest.resources</param-value>
         </init-param>
         <init-param>
-            <param-name>jersey.config.server.mvc.templateBasePath.jsp
-            </param-name>
+            <param-name>jersey.config.server.mvc.templateBasePath.jsp</param-name>
             <param-value>/WEB-INF/</param-value>
         </init-param>
         <load-on-startup>1</load-on-startup>

@@ -32,6 +32,7 @@ import java.util.Comparator;
  * @since 1.0.0
  */
 public class Occurrence extends BasicDBObject implements Comparable<Occurrence>, Serializable {
+
     public static final String TEXT = "text";
 
     public static final String WORD_COUNT = "word_count";
