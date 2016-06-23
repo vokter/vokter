@@ -18,7 +18,7 @@ package com.edduarte.vokter.document;
 
 import com.edduarte.vokter.parser.Parser;
 import com.edduarte.vokter.parser.ParserPool;
-import com.edduarte.vokter.util.PluginLoader;
+import com.edduarte.vokter.util.OSGiManager;
 import com.google.common.base.Stopwatch;
 import com.mongodb.DB;
 import com.optimaize.langdetect.LanguageDetector;
@@ -175,7 +175,7 @@ public final class DocumentBuilder {
 
 
         // step 2) Checks if the input document is supported by the server
-        boolean isSupported = PluginLoader.getCompatibleReader(input.getContentType()) != null;
+        boolean isSupported = OSGiManager.getCompatibleReader(input.getContentType()) != null;
         if (!isSupported) {
             logger.info("Ignored processing document '{}': No compatible readers available for content-type '{}'.",
                     input.getUrl(),

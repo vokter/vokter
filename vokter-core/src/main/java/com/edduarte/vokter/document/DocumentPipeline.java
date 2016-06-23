@@ -25,7 +25,7 @@ import com.edduarte.vokter.reader.Reader;
 import com.edduarte.vokter.stemmer.Stemmer;
 import com.edduarte.vokter.stopper.FileStopper;
 import com.edduarte.vokter.stopper.Stopper;
-import com.edduarte.vokter.util.PluginLoader;
+import com.edduarte.vokter.util.OSGiManager;
 import com.google.common.base.Optional;
 import com.mongodb.DB;
 import com.optimaize.langdetect.LanguageDetector;
@@ -95,7 +95,7 @@ public class DocumentPipeline implements Callable<Document> {
         String url = documentInput.getUrl();
 
         // reads and parses contents from input content stream
-        Class<? extends Reader> readerClass = PluginLoader
+        Class<? extends Reader> readerClass = OSGiManager
                 .getCompatibleReader(documentInput.getContentType());
         Reader reader = readerClass.newInstance();
         MutableString content = reader.readDocumentContents(documentStream);
@@ -155,12 +155,12 @@ public class DocumentPipeline implements Callable<Document> {
         Stemmer stemmer = null;
         if (isStemmingEnabled) {
             Class<? extends Stemmer> stemmerClass =
-                    PluginLoader.getCompatibleStemmer(languageCode);
+                    OSGiManager.getCompatibleStemmer(languageCode);
             if (stemmerClass != null) {
                 stemmer = stemmerClass.newInstance();
             } else {
                 // if no compatible stemmers were found, use the english stemmer
-                stemmerClass = PluginLoader.getCompatibleStemmer("en");
+                stemmerClass = OSGiManager.getCompatibleStemmer("en");
                 if (stemmerClass != null) {
                     stemmer = stemmerClass.newInstance();
                 }

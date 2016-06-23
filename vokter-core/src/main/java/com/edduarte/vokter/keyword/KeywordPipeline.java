@@ -24,7 +24,7 @@ import com.edduarte.vokter.parser.Parser;
 import com.edduarte.vokter.stemmer.Stemmer;
 import com.edduarte.vokter.stopper.FileStopper;
 import com.edduarte.vokter.stopper.Stopper;
-import com.edduarte.vokter.util.PluginLoader;
+import com.edduarte.vokter.util.OSGiManager;
 import com.google.common.base.Optional;
 import com.optimaize.langdetect.LanguageDetector;
 import com.optimaize.langdetect.i18n.LdLocale;
@@ -118,12 +118,12 @@ public class KeywordPipeline implements Callable<Keyword> {
         // if the detected language is not supported, stemming is ignored
         Stemmer stemmer = null;
         if (isStemmingEnabled) {
-            Class<? extends Stemmer> stemmerClass = PluginLoader.getCompatibleStemmer(languageCode);
+            Class<? extends Stemmer> stemmerClass = OSGiManager.getCompatibleStemmer(languageCode);
             if (stemmerClass != null) {
                 stemmer = stemmerClass.newInstance();
             } else {
                 // if no compatible stemmers were found, use the english stemmer
-                stemmerClass = PluginLoader.getCompatibleStemmer("en");
+                stemmerClass = OSGiManager.getCompatibleStemmer("en");
                 if (stemmerClass != null) {
                     stemmer = stemmerClass.newInstance();
                 }
