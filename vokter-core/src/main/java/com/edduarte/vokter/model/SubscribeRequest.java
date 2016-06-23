@@ -14,10 +14,9 @@
  * limitations under the License.
  */
 
-package com.edduarte.vokter.rest;
+package com.edduarte.vokter.model;
 
-import com.google.gson.Gson;
-import org.codehaus.jackson.annotate.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonProperty;
 
 import java.io.Serializable;
 import java.util.List;
@@ -45,14 +44,15 @@ public class SubscribeRequest implements Serializable {
     @JsonProperty
     private String clientUrl; // mandatory field
 
-    @JsonProperty
-    @Deprecated
     /**
      * Deprecated and replaced by 'clientUrl'. This attribute was kept for
      * backwards-compatibility purposes, since this is only used if the
      * subscribe request was sent using 'receiverUrl' and NOT 'clientUrl' (as
-     * documented in versions earlier than 1.3.3).
+     * documented in versions earlier than 1.3.3). For versions 1.3.3 and
+     * upwards, this field is not mandatory unless the clientUrl field is empty.
      */
+    @Deprecated
+    @JsonProperty
     private String receiverUrl; // mandatory field
 
     @JsonProperty
@@ -68,9 +68,6 @@ public class SubscribeRequest implements Serializable {
     private boolean ignoreRemoved;
 
 
-    /**
-     * Used by GSON.
-     */
     public SubscribeRequest() {
         this.interval = DEFAULT_INTERVAL;
         this.ignoreAdded = DEFAULT_IGNORE_ADDED;
@@ -123,12 +120,5 @@ public class SubscribeRequest implements Serializable {
 
     public boolean getIgnoreRemoved() {
         return ignoreRemoved;
-    }
-
-
-    @Override
-    public String toString() {
-        Gson gson = new Gson();
-        return gson.toJson(this);
     }
 }

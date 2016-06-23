@@ -17,12 +17,10 @@
 package com.edduarte.vokter.rest.resources;
 
 import com.edduarte.vokter.Context;
-import com.edduarte.vokter.rest.CancelRequest;
-import com.edduarte.vokter.rest.ResponseBody;
-import com.edduarte.vokter.rest.SubscribeRequest;
+import com.edduarte.vokter.model.CancelRequest;
+import com.edduarte.vokter.model.CommonResponse;
+import com.edduarte.vokter.model.SubscribeRequest;
 import com.google.common.collect.Lists;
-import com.google.gson.Gson;
-import com.google.gson.JsonSyntaxException;
 import org.apache.commons.validator.routines.UrlValidator;
 
 import javax.ws.rs.Consumes;
@@ -69,7 +67,7 @@ public class RestV1Resource {
     @Path("exampleResponse")
     @Consumes(MediaType.APPLICATION_JSON)
     public Response exampleResponse() {
-        ResponseBody responseBody = new ResponseBody(0, "");
+        CommonResponse responseBody = new CommonResponse(0, "");
         return Response.status(200)
                 .type(MediaType.APPLICATION_JSON)
                 .entity(responseBody.toString())
@@ -81,94 +79,79 @@ public class RestV1Resource {
     @Path("subscribe")
     @Consumes(MediaType.APPLICATION_JSON)
     @Produces(MediaType.APPLICATION_JSON)
-    public Response watch(String watchRequestJson) {
-        try {
-            SubscribeRequest subscribeRequest = new Gson().fromJson(
-                    watchRequestJson,
-                    SubscribeRequest.class
-            );
-            String[] schemes = {"http", "https"};
-            UrlValidator urlValidator = new UrlValidator(schemes, UrlValidator.ALLOW_LOCAL_URLS);
+    public Response watch(SubscribeRequest subscribeRequest) {
+        String[] schemes = {"http", "https"};
+        UrlValidator urlValidator = new UrlValidator(schemes, UrlValidator.ALLOW_LOCAL_URLS);
 
-            String documentUrl = subscribeRequest.getDocumentUrl();
-            if (documentUrl == null || documentUrl.isEmpty() ||
-                    !urlValidator.isValid(documentUrl)) {
-                ResponseBody responseBody = new ResponseBody(1,
-                        "The provided document URL is invalid.");
-                return Response.status(400)
-                        .type(MediaType.APPLICATION_JSON)
-                        .entity(responseBody.toString())
-                        .build();
-            }
+        String documentUrl = subscribeRequest.getDocumentUrl();
+        if (documentUrl == null || documentUrl.isEmpty() ||
+                !urlValidator.isValid(documentUrl)) {
+            CommonResponse responseBody = new CommonResponse(1,
+                    "The provided document URL is invalid.");
+            return Response.status(400)
+                    .type(MediaType.APPLICATION_JSON)
+                    .entity(responseBody.toString())
+                    .build();
+        }
 
-            String clientUrl = subscribeRequest.getClientUrl();
-            if (clientUrl == null || clientUrl.isEmpty() ||
-                    !urlValidator.isValid(clientUrl)) {
-                ResponseBody responseBody = new ResponseBody(2,
-                        "The provided client URL is invalid.");
-                return Response.status(400)
-                        .type(MediaType.APPLICATION_JSON)
-                        .entity(responseBody.toString())
-                        .build();
-            }
+        String clientUrl = subscribeRequest.getClientUrl();
+        if (clientUrl == null || clientUrl.isEmpty() ||
+                !urlValidator.isValid(clientUrl)) {
+            CommonResponse responseBody = new CommonResponse(2,
+                    "The provided client URL is invalid.");
+            return Response.status(400)
+                    .type(MediaType.APPLICATION_JSON)
+                    .entity(responseBody.toString())
+                    .build();
+        }
 
-            List<String> keywords = subscribeRequest.getKeywords();
-            if (keywords != null) {
-                for (Iterator<String> it = keywords.iterator(); it.hasNext(); ) {
-                    String k = it.next();
-                    if (k == null || k.isEmpty()) {
-                        it.remove();
-                    }
+        List<String> keywords = subscribeRequest.getKeywords();
+        if (keywords != null) {
+            for (Iterator<String> it = keywords.iterator(); it.hasNext(); ) {
+                String k = it.next();
+                if (k == null || k.isEmpty()) {
+                    it.remove();
                 }
             }
+        }
 
-            if (keywords == null || keywords.isEmpty()) {
-                ResponseBody responseBody = new ResponseBody(3,
-                        "You need to provide at least one valid keyword.");
-                return Response.status(400)
-                        .type(MediaType.APPLICATION_JSON)
-                        .entity(responseBody.toString())
-                        .build();
-            }
+        if (keywords == null || keywords.isEmpty()) {
+            CommonResponse responseBody = new CommonResponse(3,
+                    "You need to provide at least one valid keyword.");
+            return Response.status(400)
+                    .type(MediaType.APPLICATION_JSON)
+                    .entity(responseBody.toString())
+                    .build();
+        }
 
-            if (subscribeRequest.getIgnoreAdded() &&
-                    subscribeRequest.getIgnoreRemoved()) {
-                ResponseBody responseBody = new ResponseBody(4,
-                        "At least one difference action (added or " +
-                                "removed) must not be ignored.");
-                return Response.status(400)
-                        .type(MediaType.APPLICATION_JSON)
-                        .entity(responseBody.toString())
-                        .build();
-            }
+        if (subscribeRequest.getIgnoreAdded() &&
+                subscribeRequest.getIgnoreRemoved()) {
+            CommonResponse responseBody = new CommonResponse(4,
+                    "At least one difference action (added or " +
+                            "removed) must not be ignored.");
+            return Response.status(400)
+                    .type(MediaType.APPLICATION_JSON)
+                    .entity(responseBody.toString())
+                    .build();
+        }
 
-            Context context = Context.getInstance();
-            boolean created = context.createJob(subscribeRequest);
-            if (created) {
-                ResponseBody responseBody = new ResponseBody(0,
-                        ""
-                );
-                return Response.status(200)
-                        .type(MediaType.APPLICATION_JSON)
-                        .entity(responseBody.toString())
-                        .build();
-            } else {
-                ResponseBody responseBody = new ResponseBody(5,
-                        "The request conflicts with a currently active watch " +
-                                "job, since the provided document URL is " +
-                                "already being watched and notified to the " +
-                                "provided client URL.");
-                return Response.status(409)
-                        .type(MediaType.APPLICATION_JSON)
-                        .entity(responseBody.toString())
-                        .build();
-            }
-
-        } catch (JsonSyntaxException ex) {
-            // the job-request json had an invalid format
-            ResponseBody responseBody = new ResponseBody(6,
-                    "The request body has an invalid format.");
-            return Response.status(415)
+        Context context = Context.getInstance();
+        boolean created = context.createJob(subscribeRequest);
+        if (created) {
+            CommonResponse responseBody = new CommonResponse(0,
+                    ""
+            );
+            return Response.status(200)
+                    .type(MediaType.APPLICATION_JSON)
+                    .entity(responseBody.toString())
+                    .build();
+        } else {
+            CommonResponse responseBody = new CommonResponse(5,
+                    "The request conflicts with a currently active watch " +
+                            "job, since the provided document URL is " +
+                            "already being watched and notified to the " +
+                            "provided client URL.");
+            return Response.status(409)
                     .type(MediaType.APPLICATION_JSON)
                     .entity(responseBody.toString())
                     .build();
@@ -180,36 +163,23 @@ public class RestV1Resource {
     @Path("cancel")
     @Consumes(MediaType.APPLICATION_JSON)
     @Produces(MediaType.APPLICATION_JSON)
-    public Response cancel(String cancelRequestJson) throws ExecutionException {
-        try {
-            CancelRequest cancelRequest = new Gson()
-                    .fromJson(cancelRequestJson, CancelRequest.class);
+    public Response cancel(CancelRequest cancelRequest) throws ExecutionException {
 
-            Context context = Context.getInstance();
-            boolean wasDeleted = context.cancelJob(
-                    cancelRequest.getDocumentUrl(),
-                    cancelRequest.getClientUrl()
-            );
-            if (wasDeleted) {
-                ResponseBody responseBody = new ResponseBody(0, "");
-                return Response.status(200)
-                        .type(MediaType.APPLICATION_JSON)
-                        .entity(responseBody.toString())
-                        .build();
-            } else {
-                ResponseBody responseBody = new ResponseBody(7,
-                        "The specified job to cancel does not exist.");
-                return Response.status(404)
-                        .type(MediaType.APPLICATION_JSON)
-                        .entity(responseBody.toString())
-                        .build();
-            }
-
-        } catch (JsonSyntaxException ex) {
-            // the cancel-request json had an invalid format
-            ResponseBody responseBody = new ResponseBody(6,
-                    "The request body has an invalid format.");
-            return Response.status(415)
+        Context context = Context.getInstance();
+        boolean wasDeleted = context.cancelJob(
+                cancelRequest.getDocumentUrl(),
+                cancelRequest.getClientUrl()
+        );
+        if (wasDeleted) {
+            CommonResponse responseBody = new CommonResponse(0, "");
+            return Response.status(200)
+                    .type(MediaType.APPLICATION_JSON)
+                    .entity(responseBody.toString())
+                    .build();
+        } else {
+            CommonResponse responseBody = new CommonResponse(7,
+                    "The specified job to cancel does not exist.");
+            return Response.status(404)
                     .type(MediaType.APPLICATION_JSON)
                     .entity(responseBody.toString())
                     .build();

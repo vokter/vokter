@@ -14,28 +14,21 @@
  * limitations under the License.
  */
 
-package com.edduarte.vokter.rest;
-
-import com.google.gson.Gson;
+package com.edduarte.vokter.model;
 
 /**
  * @author Eduardo Duarte (<a href="mailto:hello@edduarte.com">hello@edduarte.com</a>)
  * @version 1.4.1
  * @since 1.0.0
  */
-public class ResponseBody {
+public class CommonResponse {
 
     private final int code;
 
     private final String message;
 
 
-    public static ResponseBody fromJson(String json) {
-        return new Gson().fromJson(json, ResponseBody.class);
-    }
-
-
-    public ResponseBody(int code, String message) {
+    public CommonResponse(int code, String message) {
         this.code = code;
         this.message = message;
     }
@@ -56,7 +49,7 @@ public class ResponseBody {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
 
-        ResponseBody that = (ResponseBody) o;
+        CommonResponse that = (CommonResponse) o;
         return code == that.code && message.equals(that.message);
     }
 
@@ -66,12 +59,5 @@ public class ResponseBody {
         int result = code;
         result = 31 * result + message.hashCode();
         return result;
-    }
-
-
-    @Override
-    public String toString() {
-        Gson gson = new Gson();
-        return gson.toJson(this);
     }
 }

@@ -1,0 +1,1064 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><style>@font-face {
+  font-family: octicons-anchor;
+  src: url(data:font/woff;charset=utf-8;base64,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) format('woff');
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    width: 980px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+body .markdown-body {
+    padding: 45px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    word-wrap: break-word;
+}
+
+pre {
+    font: 12px Consolas, "Liberation Mono", Menlo, Courier, monospace;
+}
+
+.markdown-body {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  color: #333;
+  font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 16px;
+  line-height: 1.6;
+  word-wrap: break-word;
+}
+
+.markdown-body a {
+  background-color: transparent;
+}
+
+.markdown-body a:active,
+.markdown-body a:hover {
+  outline: 0;
+}
+
+.markdown-body strong {
+  font-weight: bold;
+}
+
+.markdown-body h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+
+.markdown-body img {
+  border: 0;
+}
+
+.markdown-body hr {
+  box-sizing: content-box;
+  height: 0;
+}
+
+.markdown-body pre {
+  overflow: auto;
+}
+
+.markdown-body code,
+.markdown-body kbd,
+.markdown-body pre {
+  font-family: monospace, monospace;
+  font-size: 1em;
+}
+
+.markdown-body input {
+  color: inherit;
+  font: inherit;
+  margin: 0;
+}
+
+.markdown-body html input[disabled] {
+  cursor: default;
+}
+
+.markdown-body input {
+  line-height: normal;
+}
+
+.markdown-body input[type="checkbox"] {
+  box-sizing: border-box;
+  padding: 0;
+}
+
+.markdown-body table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.markdown-body td,
+.markdown-body th {
+  padding: 0;
+}
+
+.markdown-body input {
+  font: 13px / 1.4 Helvetica, arial, nimbussansl, liberationsans, freesans, clean, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+.markdown-body a {
+  color: #4078c0;
+  text-decoration: none;
+}
+
+.markdown-body a:hover,
+.markdown-body a:active {
+  text-decoration: underline;
+}
+
+.markdown-body hr {
+  height: 0;
+  margin: 15px 0;
+  overflow: hidden;
+  background: transparent;
+  border: 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.markdown-body hr:before {
+  display: table;
+  content: "";
+}
+
+.markdown-body hr:after {
+  display: table;
+  clear: both;
+  content: "";
+}
+
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6 {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  line-height: 1.1;
+}
+
+.markdown-body h1 {
+  font-size: 30px;
+}
+
+.markdown-body h2 {
+  font-size: 21px;
+}
+
+.markdown-body h3 {
+  font-size: 16px;
+}
+
+.markdown-body h4 {
+  font-size: 14px;
+}
+
+.markdown-body h5 {
+  font-size: 12px;
+}
+
+.markdown-body h6 {
+  font-size: 11px;
+}
+
+.markdown-body blockquote {
+  margin: 0;
+}
+
+.markdown-body ul,
+.markdown-body ol {
+  padding: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.markdown-body ol ol,
+.markdown-body ul ol {
+  list-style-type: lower-roman;
+}
+
+.markdown-body ul ul ol,
+.markdown-body ul ol ol,
+.markdown-body ol ul ol,
+.markdown-body ol ol ol {
+  list-style-type: lower-alpha;
+}
+
+.markdown-body dd {
+  margin-left: 0;
+}
+
+.markdown-body code {
+  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  font-size: 12px;
+}
+
+.markdown-body pre {
+  margin-top: 0;
+  margin-bottom: 0;
+  font: 12px Consolas, "Liberation Mono", Menlo, Courier, monospace;
+}
+
+.markdown-body .select::-ms-expand {
+  opacity: 0;
+}
+
+.markdown-body .octicon {
+  font: normal normal normal 16px/1 octicons-anchor;
+  display: inline-block;
+  text-decoration: none;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.markdown-body .octicon-link:before {
+  content: '\f05c';
+}
+
+.markdown-body:before {
+  display: table;
+  content: "";
+}
+
+.markdown-body:after {
+  display: table;
+  clear: both;
+  content: "";
+}
+
+.markdown-body>*:first-child {
+  margin-top: 0 !important;
+}
+
+.markdown-body>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+.markdown-body a:not([href]) {
+  color: inherit;
+  text-decoration: none;
+}
+
+.markdown-body .anchor {
+  display: inline-block;
+  padding-right: 2px;
+  margin-left: -18px;
+}
+
+.markdown-body .anchor:focus {
+  outline: none;
+}
+
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6 {
+  margin-top: 1em;
+  margin-bottom: 16px;
+  font-weight: bold;
+  line-height: 1.4;
+}
+
+.markdown-body h1 .octicon-link,
+.markdown-body h2 .octicon-link,
+.markdown-body h3 .octicon-link,
+.markdown-body h4 .octicon-link,
+.markdown-body h5 .octicon-link,
+.markdown-body h6 .octicon-link {
+  color: #000;
+  vertical-align: middle;
+  visibility: hidden;
+}
+
+.markdown-body h1:hover .anchor,
+.markdown-body h2:hover .anchor,
+.markdown-body h3:hover .anchor,
+.markdown-body h4:hover .anchor,
+.markdown-body h5:hover .anchor,
+.markdown-body h6:hover .anchor {
+  text-decoration: none;
+}
+
+.markdown-body h1:hover .anchor .octicon-link,
+.markdown-body h2:hover .anchor .octicon-link,
+.markdown-body h3:hover .anchor .octicon-link,
+.markdown-body h4:hover .anchor .octicon-link,
+.markdown-body h5:hover .anchor .octicon-link,
+.markdown-body h6:hover .anchor .octicon-link {
+  visibility: visible;
+}
+
+.markdown-body h1 {
+  padding-bottom: 0.3em;
+  font-size: 2.25em;
+  line-height: 1.2;
+  border-bottom: 1px solid #eee;
+}
+
+.markdown-body h1 .anchor {
+  line-height: 1;
+}
+
+.markdown-body h2 {
+  padding-bottom: 0.3em;
+  font-size: 1.75em;
+  line-height: 1.225;
+  border-bottom: 1px solid #eee;
+}
+
+.markdown-body h2 .anchor {
+  line-height: 1;
+}
+
+.markdown-body h3 {
+  font-size: 1.5em;
+  line-height: 1.43;
+}
+
+.markdown-body h3 .anchor {
+  line-height: 1.2;
+}
+
+.markdown-body h4 {
+  font-size: 1.25em;
+}
+
+.markdown-body h4 .anchor {
+  line-height: 1.2;
+}
+
+.markdown-body h5 {
+  font-size: 1em;
+}
+
+.markdown-body h5 .anchor {
+  line-height: 1.1;
+}
+
+.markdown-body h6 {
+  font-size: 1em;
+  color: #777;
+}
+
+.markdown-body h6 .anchor {
+  line-height: 1.1;
+}
+
+.markdown-body p,
+.markdown-body blockquote,
+.markdown-body ul,
+.markdown-body ol,
+.markdown-body dl,
+.markdown-body table,
+.markdown-body pre {
+  margin-top: 0;
+  margin-bottom: 16px;
+}
+
+.markdown-body hr {
+  height: 4px;
+  padding: 0;
+  margin: 16px 0;
+  background-color: #e7e7e7;
+  border: 0 none;
+}
+
+.markdown-body ul,
+.markdown-body ol {
+  padding-left: 2em;
+}
+
+.markdown-body ul ul,
+.markdown-body ul ol,
+.markdown-body ol ol,
+.markdown-body ol ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.markdown-body li>p {
+  margin-top: 16px;
+}
+
+.markdown-body dl {
+  padding: 0;
+}
+
+.markdown-body dl dt {
+  padding: 0;
+  margin-top: 16px;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.markdown-body dl dd {
+  padding: 0 16px;
+  margin-bottom: 16px;
+}
+
+.markdown-body blockquote {
+  padding: 0 15px;
+  color: #777;
+  border-left: 4px solid #ddd;
+}
+
+.markdown-body blockquote>:first-child {
+  margin-top: 0;
+}
+
+.markdown-body blockquote>:last-child {
+  margin-bottom: 0;
+}
+
+.markdown-body table {
+  display: block;
+  width: 100%;
+  overflow: auto;
+  word-break: normal;
+  word-break: keep-all;
+}
+
+.markdown-body table th {
+  font-weight: bold;
+}
+
+.markdown-body table th,
+.markdown-body table td {
+  padding: 6px 13px;
+  border: 1px solid #ddd;
+}
+
+.markdown-body table tr {
+  background-color: #fff;
+  border-top: 1px solid #ccc;
+}
+
+.markdown-body table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+
+.markdown-body img {
+  max-width: 100%;
+  box-sizing: content-box;
+  background-color: #fff;
+}
+
+.markdown-body code {
+  padding: 0;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  margin: 0;
+  font-size: 85%;
+  background-color: rgba(0,0,0,0.04);
+  border-radius: 3px;
+}
+
+.markdown-body code:before,
+.markdown-body code:after {
+  letter-spacing: -0.2em;
+  content: "\00a0";
+}
+
+.markdown-body pre>code {
+  padding: 0;
+  margin: 0;
+  font-size: 100%;
+  word-break: normal;
+  white-space: pre;
+  background: transparent;
+  border: 0;
+}
+
+.markdown-body .highlight {
+  margin-bottom: 16px;
+}
+
+.markdown-body .highlight pre,
+.markdown-body pre {
+  padding: 16px;
+  overflow: auto;
+  font-size: 85%;
+  line-height: 1.45;
+  background-color: #f7f7f7;
+  border-radius: 3px;
+}
+
+.markdown-body .highlight pre {
+  margin-bottom: 0;
+  word-break: normal;
+}
+
+.markdown-body pre {
+  word-wrap: normal;
+}
+
+.markdown-body pre code {
+  display: inline;
+  max-width: initial;
+  padding: 0;
+  margin: 0;
+  overflow: initial;
+  line-height: inherit;
+  word-wrap: normal;
+  background-color: transparent;
+  border: 0;
+}
+
+.markdown-body pre code:before,
+.markdown-body pre code:after {
+  content: normal;
+}
+
+.markdown-body kbd {
+  display: inline-block;
+  padding: 3px 5px;
+  font-size: 11px;
+  line-height: 10px;
+  color: #555;
+  vertical-align: middle;
+  background-color: #fcfcfc;
+  border: solid 1px #ccc;
+  border-bottom-color: #bbb;
+  border-radius: 3px;
+  box-shadow: inset 0 -1px 0 #bbb;
+}
+
+.markdown-body .pl-c {
+  color: #969896;
+}
+
+.markdown-body .pl-c1,
+.markdown-body .pl-s .pl-v {
+  color: #0086b3;
+}
+
+.markdown-body .pl-e,
+.markdown-body .pl-en {
+  color: #795da3;
+}
+
+.markdown-body .pl-s .pl-s1,
+.markdown-body .pl-smi {
+  color: #333;
+}
+
+.markdown-body .pl-ent {
+  color: #63a35c;
+}
+
+.markdown-body .pl-k {
+  color: #a71d5d;
+}
+
+.markdown-body .pl-pds,
+.markdown-body .pl-s,
+.markdown-body .pl-s .pl-pse .pl-s1,
+.markdown-body .pl-sr,
+.markdown-body .pl-sr .pl-cce,
+.markdown-body .pl-sr .pl-sra,
+.markdown-body .pl-sr .pl-sre {
+  color: #183691;
+}
+
+.markdown-body .pl-v {
+  color: #ed6a43;
+}
+
+.markdown-body .pl-id {
+  color: #b52a1d;
+}
+
+.markdown-body .pl-ii {
+  background-color: #b52a1d;
+  color: #f8f8f8;
+}
+
+.markdown-body .pl-sr .pl-cce {
+  color: #63a35c;
+  font-weight: bold;
+}
+
+.markdown-body .pl-ml {
+  color: #693a17;
+}
+
+.markdown-body .pl-mh,
+.markdown-body .pl-mh .pl-en,
+.markdown-body .pl-ms {
+  color: #1d3e81;
+  font-weight: bold;
+}
+
+.markdown-body .pl-mq {
+  color: #008080;
+}
+
+.markdown-body .pl-mi {
+  color: #333;
+  font-style: italic;
+}
+
+.markdown-body .pl-mb {
+  color: #333;
+  font-weight: bold;
+}
+
+.markdown-body .pl-md {
+  background-color: #ffecec;
+  color: #bd2c00;
+}
+
+.markdown-body .pl-mi1 {
+  background-color: #eaffea;
+  color: #55a532;
+}
+
+.markdown-body .pl-mdr {
+  color: #795da3;
+  font-weight: bold;
+}
+
+.markdown-body .pl-mo {
+  color: #1d3e81;
+}
+
+.markdown-body kbd {
+  display: inline-block;
+  padding: 3px 5px;
+  font: 11px Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  line-height: 10px;
+  color: #555;
+  vertical-align: middle;
+  background-color: #fcfcfc;
+  border: solid 1px #ccc;
+  border-bottom-color: #bbb;
+  border-radius: 3px;
+  box-shadow: inset 0 -1px 0 #bbb;
+}
+
+.markdown-body .plan-price-unit {
+  color: #767676;
+  font-weight: normal;
+}
+
+.markdown-body .task-list-item {
+  list-style-type: none;
+}
+
+.markdown-body .task-list-item+.task-list-item {
+  margin-top: 3px;
+}
+
+.markdown-body .task-list-item input {
+  margin: 0 0.35em 0.25em -1.6em;
+  vertical-align: middle;
+}
+
+.markdown-body .plan-choice {
+  padding: 15px;
+  padding-left: 40px;
+  display: block;
+  border: 1px solid #e0e0e0;
+  position: relative;
+  font-weight: normal;
+  background-color: #fafafa;
+}
+
+.markdown-body .plan-choice.open {
+  background-color: #fff;
+}
+
+.markdown-body .plan-choice.open .plan-choice-seat-breakdown {
+  display: block;
+}
+
+.markdown-body .plan-choice-free {
+  border-radius: 3px 3px 0 0;
+}
+
+.markdown-body .plan-choice-paid {
+  border-radius: 0 0 3px 3px;
+  border-top: 0;
+  margin-bottom: 20px;
+}
+
+.markdown-body .plan-choice-radio {
+  position: absolute;
+  left: 15px;
+  top: 18px;
+}
+
+.markdown-body .plan-choice-exp {
+  color: #999;
+  font-size: 12px;
+  margin-top: 5px;
+}
+
+.markdown-body .plan-choice-seat-breakdown {
+  margin-top: 10px;
+  display: none;
+}
+
+.markdown-body :checked+.radio-label {
+  z-index: 1;
+  position: relative;
+  border-color: #4078c0;
+}
+</style><title>README</title></head><body><article class="markdown-body"><h1>
+<a id="user-content-vokter" class="anchor" href="#vokter" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Vokter</h1>
+
+<p><a href="https://travis-ci.org/vokter/vokter-core"><img src="https://camo.githubusercontent.com/5b656857cf4a97d3272fc562ed77adce93d75a33/68747470733a2f2f7472617669732d63692e6f72672f766f6b7465722f766f6b7465722d636f72652e7376673f6272616e63683d6d6173746572" alt="Build Status" data-canonical-src="https://travis-ci.org/vokter/vokter-core.svg?branch=master" style="max-width:100%;"></a>
+<a href="https://coveralls.io/github/vokter/vokter-core?branch=master"><img src="https://camo.githubusercontent.com/095a03873879feee21d36177d356ab3af9556538/68747470733a2f2f636f766572616c6c732e696f2f7265706f732f6769746875622f766f6b7465722f766f6b7465722d636f72652f62616467652e7376673f6272616e63683d6d6173746572" alt="Coverage Status" data-canonical-src="https://coveralls.io/repos/github/vokter/vokter-core/badge.svg?branch=master" style="max-width:100%;"></a></p>
+
+<p>Vokter is a high-performance, scalable web service that uses Quartz Scheduler, DiffMatchPatch and MongoDB to provide web-page monitoring, triggering notifications when specified keywords were either added or removed from a web document.</p>
+
+<p>This service implements a information retrieval system that fetches, indexes and performs queries over web documents on a periodic basis. Difference detection is implemented by comparing occurrences between two snapshots of the same document. Additionally, it supports multi-language stop-word filtering to ignore changes in common grammatical conjunctions or articles, and stemming to detect changes in lexically derived words.</p>
+
+<ul>
+<li>
+<a href="#getting-started">Getting Started</a>
+
+<ul>
+<li><a href="#installation">Installation</a></li>
+<li><a href="#usage">Usage</a></li>
+<li>
+<a href="#notifications">Notifications</a>
+
+<ul>
+<li><a href="#ok">OK</a></li>
+<li><a href="#timeout">Timeout</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#dependencies">Dependencies</a></li>
+<li>
+<a href="#architecture">Architecture</a>
+
+<ul>
+<li>
+<a href="#job-management">Job Management</a>
+
+<ul>
+<li><a href="#difference-detection">Difference Detection</a></li>
+<li><a href="#difference-matching">Difference Matching</a></li>
+<li><a href="#clustering">Clustering</a></li>
+<li><a href="#scaling">Scaling</a></li>
+</ul>
+</li>
+<li><a href="#persistence">Persistence</a></li>
+<li><a href="#reading">Reading</a></li>
+<li><a href="#indexing">Indexing</a></li>
+</ul>
+</li>
+<li><a href="#caveats--future-work">Caveats / Future Work</a></li>
+<li><a href="#license">License</a></li>
+</ul>
+
+<h1>
+<a id="user-content-getting-started" class="anchor" href="#getting-started" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Getting Started</h1>
+
+<h2>
+<a id="user-content-installation" class="anchor" href="#installation" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Installation</h2>
+
+<p>Vokter uses the Reactive (Publish/Subscribe) model, where an additional Client web service with a REST API must be implemented to consume Vokter web service.<br>
+<b>An example RESTful web app that interoperates with Vokter is <a href="https://github.com/vokter/vokter-client-jersey2">available here</a>. Feel free to reuse this code in your own client app.</b></p>
+
+<p>Once you have a client web service running, follow the steps below:</p>
+
+<ol>
+<li><p>Download and install <a href="https://www.mongodb.org/downloads">MongoDB</a></p></li>
+<li><p>Run MongoDB with <code>mongod</code></p></li>
+<li><p>Download the <a href="https://github.com/edduarte/vokter/releases/download/1.4.1/vokter-core.zip">latest release of Vokter core server</a></p></li>
+<li><p>Run Vokter with <code>java -jar vokter-core.jar</code></p></li>
+</ol>
+
+<pre><code>Optional arguments:
+ -h,--help               Shows this help prompt.
+ -p,--port &lt;arg&gt;         Core server port. Defaults to 9000.
+ -dbh,--db-host &lt;arg&gt;    Database host. Defaults to localhost.
+ -dbp,--db-port &lt;arg&gt;    Database port. Defaults to 27017.
+ -case,--preserve-case   Keyword matching with case sensitivity.
+ -stop,--stopwords       Keyword matching with stopword filtering.
+ -stem,--stemming        Keyword matching with stemming (lexical
+                         variants).
+ -t,--threads &lt;arg&gt;      Number of threads to be used for computation and
+                         indexing processes. Defaults to the number of
+                         available cores.
+</code></pre>
+
+<p>This will launch a embedded Jetty server with Jersey RESTful framework on 'localhost:9000' (by default). If Vokter was successfully deployed, opening the deployed url on a browser should display a landing page with usage instructions.</p>
+
+<h2>
+<a id="user-content-usage" class="anchor" href="#usage" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Usage</h2>
+
+<p><b>Watch for content changes in a document</b></p>
+
+<p>POST http://localhost:9000/vokter/v1/subscribe<br>
+Payload:  </p>
+
+<div class="highlight highlight-source-js"><pre>{
+    <span class="pl-s"><span class="pl-pds">"</span>documentUrl<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>http://www.example.com<span class="pl-pds">"</span></span>, <span class="pl-c">// the page to be watched (mandatory field)</span>
+    <span class="pl-s"><span class="pl-pds">"</span>clientUrl<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>http://your.site/client-rest-api<span class="pl-pds">"</span></span>, <span class="pl-c">// the client web service that will receive detected differences (mandatory field)</span>
+    <span class="pl-s"><span class="pl-pds">"</span>keywords<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-c">// the keywords to watch for (mandatory field)</span>
+    [
+        <span class="pl-s"><span class="pl-pds">"</span>argus<span class="pl-pds">"</span></span>, <span class="pl-c">// looks for changes with this word (and lexical variants if stemming is enabled)</span>
+        <span class="pl-s"><span class="pl-pds">"</span>argus panoptes<span class="pl-pds">"</span></span> <span class="pl-c">// looks for changes with this exact phrase (and lexical variants if stemming is enabled)</span>
+    ],
+    <span class="pl-s"><span class="pl-pds">"</span>interval<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-c1">600</span>, <span class="pl-c">// the elapsed duration (in seconds) between page checks (optional field, defaults to 600)</span>
+    <span class="pl-s"><span class="pl-pds">"</span>ignoreAdded<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-c1">false</span>, <span class="pl-c">// if 'true', ignore events where the keyword was added to the page (optional field, defaults to 'false')</span>
+    <span class="pl-s"><span class="pl-pds">"</span>ignoreRemoved<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-c1">false</span> <span class="pl-c">// if 'true', ignore events where the keyword was removed from the page (optional field, defaults to 'false')</span>
+}</pre></div>
+
+<p>Note that a subscribe request is uniquely identified by both its document URL and its client URL. This means that the same client can subscribe and receive notifications of multiple documents simultaneously, and the same document can be watched by multiple clients.</p>
+
+<hr>
+
+<p><b>Manually cancel a watch job</b></p>
+
+<p>POST http://localhost:9000/vokter/v1/cancel<br>
+Payload:  </p>
+
+<div class="highlight highlight-source-js"><pre>{
+    <span class="pl-s"><span class="pl-pds">"</span>documentUrl<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>http://www.example.com<span class="pl-pds">"</span></span>, <span class="pl-c">// the page that was being watched (mandatory field)</span>
+    <span class="pl-s"><span class="pl-pds">"</span>clientUrl<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>http://your.site/client-rest-api<span class="pl-pds">"</span></span> <span class="pl-c">// the client web service (mandatory field)</span>
+}</pre></div>
+
+<hr>
+
+<p>Both of the calls above return the following JSON body:</p>
+
+<div class="highlight highlight-source-js"><pre>{
+    <span class="pl-s"><span class="pl-pds">"</span>code<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>0<span class="pl-pds">"</span></span> <span class="pl-c">// a number that uniquely identifies this error type (0 when the request was successful)</span>
+    <span class="pl-s"><span class="pl-pds">"</span>message<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span> <span class="pl-c">// reason for the error (empty when the request was successful)</span>
+}</pre></div>
+
+<p>The error code is useful to convert received responses into custom error messages displayed to the user in the client app.</p>
+
+<p>The following list shows all possible responses:</p>
+
+<table>
+<thead>
+<tr>
+<th>Status Code</th>
+<th>Body 'code'</th>
+<th>Body 'message'</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>200</td>
+<td>0</td>
+<td></td>
+</tr>
+<tr>
+<td>400</td>
+<td>1</td>
+<td>The provided document URL is invalid.</td>
+</tr>
+<tr>
+<td>400</td>
+<td>2</td>
+<td>The provided client URL is invalid.</td>
+</tr>
+<tr>
+<td>400</td>
+<td>3</td>
+<td>You need to provide at least one valid keyword.</td>
+</tr>
+<tr>
+<td>400</td>
+<td>4</td>
+<td>At least one difference action ('added' or 'removed') must not be ignored.</td>
+</tr>
+<tr>
+<td>409</td>
+<td>5</td>
+<td>The request conflicts with a currently active watch job, since the provided document URL is already being watched and notified to the provided client URL.</td>
+</tr>
+<tr>
+<td>415</td>
+<td>6</td>
+<td>The request body has an invalid format.</td>
+</tr>
+<tr>
+<td>404</td>
+<td>7</td>
+<td>The specified job to cancel does not exist.</td>
+</tr>
+</tbody>
+</table>
+
+<h2>
+<a id="user-content-notifications" class="anchor" href="#notifications" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Notifications</h2>
+
+<p>Notifications are REST requests, sent as POSTs, to the provided client URL at any time. The client URL should be implemented to accept the two requests below.</p>
+
+<h3>
+<a id="user-content-differences-found" class="anchor" href="#differences-found" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Differences found</h3>
+
+<p>When detected differences are matched with keywords, Vokter sends notifications to the provided client URL with the following JSON body:</p>
+
+<div class="highlight highlight-source-js"><pre>{
+    <span class="pl-s"><span class="pl-pds">"</span>status<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>ok<span class="pl-pds">"</span></span>,
+    <span class="pl-s"><span class="pl-pds">"</span>url<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>http://www.example.com<span class="pl-pds">"</span></span>,
+    <span class="pl-s"><span class="pl-pds">"</span>diffs<span class="pl-pds">"</span></span><span class="pl-k">:</span> [
+        {
+            <span class="pl-s"><span class="pl-pds">"</span>action<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>added<span class="pl-pds">"</span></span>,
+            <span class="pl-s"><span class="pl-pds">"</span>keyword<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>argus<span class="pl-pds">"</span></span>,
+            <span class="pl-s"><span class="pl-pds">"</span>snippet<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>In the 5th century and later, Argus' wakeful alertness ...<span class="pl-pds">"</span></span>
+        },
+        {
+            <span class="pl-s"><span class="pl-pds">"</span>action<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>removed<span class="pl-pds">"</span></span>,
+            <span class="pl-s"><span class="pl-pds">"</span>keyword<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>argus<span class="pl-pds">"</span></span>,
+            <span class="pl-s"><span class="pl-pds">"</span>snippet<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>... sacrifice of Argus liberated Io and allowed ...<span class="pl-pds">"</span></span>
+        }
+    ]
+}</pre></div>
+
+<h3>
+<a id="user-content-timeout" class="anchor" href="#timeout" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Timeout</h3>
+
+<p>Vokter is capable of managing a high number of concurrent watch jobs, and is implemented to save resources and free up database and memory space whenever possible. To this effect, Vokter automatically expires jobs when it fails to fetch a web document after 10 consecutive tries. When that happens, the following JSON body is sent:</p>
+
+<div class="highlight highlight-source-js"><pre>{
+    <span class="pl-s"><span class="pl-pds">"</span>status<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>timeout<span class="pl-pds">"</span></span>,
+    <span class="pl-s"><span class="pl-pds">"</span>url<span class="pl-pds">"</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">"</span>http://www.example.com<span class="pl-pds">"</span></span>,
+    <span class="pl-s"><span class="pl-pds">"</span>diffs<span class="pl-pds">"</span></span><span class="pl-k">:</span> []
+}</pre></div>
+
+<h1>
+<a id="user-content-dependencies" class="anchor" href="#dependencies" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Dependencies</h1>
+
+<p>Jersey RESTful framework: <a href="https://jersey.java.net">https://jersey.java.net</a><br>
+Jetty Embedded server: <a href="http://eclipse.org/jetty/">http://eclipse.org/jetty/</a><br>
+Snowball stop-words and stemmers: <a href="http://snowball.tartarus.org">http://snowball.tartarus.org</a><br>
+Language Detector: <a href="https://github.com/optimaize/language-detector">https://github.com/optimaize/language-detector</a><br>
+Cache2K: <a href="http://cache2k.org">http://cache2k.org</a><br>
+MongoDB Java driver: <a href="http://docs.mongodb.org/ecosystem/drivers/java/">http://docs.mongodb.org/ecosystem/drivers/java/</a><br>
+Quartz Scheduler: <a href="http://quartz-scheduler.org">http://quartz-scheduler.org</a><br>
+Quartz MongoDB-based store: <a href="https://github.com/michaelklishin/quartz-mongodb">https://github.com/michaelklishin/quartz-mongodb</a><br>
+DiffMatchPatch: <a href="https://code.google.com/p/google-diff-match-patch/">https://code.google.com/p/google-diff-match-patch/</a><br>
+Gson: <a href="https://code.google.com/p/google-gson/">https://code.google.com/p/google-gson/</a><br>
+Jsonic: <a href="http://jsonic.sourceforge.jp">http://jsonic.sourceforge.jp</a><br>
+Jsoup: <a href="http://jsoup.org">http://jsoup.org</a><br>
+Jackson: <a href="http://jackson.codehaus.org">http://jackson.codehaus.org</a><br>
+DSI Utilities: <a href="http://dsiutils.di.unimi.it">http://dsiutils.di.unimi.it</a><br>
+Commons-IO: <a href="http://commons.apache.org/proper/commons-io/">http://commons.apache.org/proper/commons-io/</a><br>
+Commons-Codec: <a href="http://commons.apache.org/proper/commons-codec/">http://commons.apache.org/proper/commons-codec/</a><br>
+Commons-CLI: <a href="http://commons.apache.org/proper/commons-cli/">http://commons.apache.org/proper/commons-cli/</a><br>
+Commons-Lang: <a href="http://commons.apache.org/proper/commons-lang/">http://commons.apache.org/proper/commons-lang/</a><br>
+Commons-Validator: <a href="http://commons.apache.org/proper/commons-validator/">http://commons.apache.org/proper/commons-validator/</a>  </p>
+
+<h1>
+<a id="user-content-architecture" class="anchor" href="#architecture" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Architecture</h1>
+
+<h2>
+<a id="user-content-job-management" class="anchor" href="#job-management" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Job Management</h2>
+
+<p>There are 2 types of jobs, concurrently executed and scheduled periodically (using Quartz Scheduler) with an interval of 600 seconds by default: difference detection jobs and difference matching jobs.</p>
+
+<h3>
+<a id="user-content-difference-detection" class="anchor" href="#difference-detection" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Difference Detection</h3>
+
+<p>The detection job is responsible for fetching a new document and comparing it with the previous document, detecting textual differences between the two. To do that, the robust DiffMatchPatch algorithm is used.</p>
+
+<h3>
+<a id="user-content-difference-matching" class="anchor" href="#difference-matching" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Difference Matching</h3>
+
+<p>The matching job is responsible for querying the list of detected differences with specific requested keywords.</p>
+
+<p>Harmonization of keywords-to-differences is performed passing the differences through a Bloom filter, to remove differences that do not have the specified keywords, and a character-by-character comparator on the remaining differences, to ensure that the difference contains any of the keywords.</p>
+
+<h3>
+<a id="user-content-clustering" class="anchor" href="#clustering" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Clustering</h3>
+
+<p>Since the logic of difference retrieval is spread between two jobs, one that is agnostic of requests and one that is specific to the request and its keywords, Vokter reduces workload by scheduling only one difference detection job per watched web-page. For this effect, jobs are grouped into clusters, where its unique identifier is the document URL. Each cluster contains, imperatively, a single scheduled detection job and one or more matching jobs.</p>
+
+<h3>
+<a id="user-content-scaling" class="anchor" href="#scaling" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Scaling</h3>
+
+<p>Vokter was conceived to be able scale and to be future-proof, and to this effect it was implemented to deal with a high number of jobs in terms of batching / persistence and of real-time / concurrency.</p>
+
+<p>The clustering design mentioned above implies that, as the number of clients grows linearly, the number of jobs will grow semi-linearly because the first call for a URL will spawn two jobs and the remaining calls for the same URL will spawn only one.</p>
+
+<p>In terms of orchestration, there are two mechanisms created to reduce redundant resource-consumption, both in memory as well as in the database:</p>
+
+<ol>
+<li>if the difference detection job fails to fetch content from a specific URL after 10 consecutive attempts, the entire cluster for that URL is expired. When expiring a cluster, all of the associated client REST APIs receive a time-out call.</li>
+<li>every time a matching job is cancelled by its client, Vokter checks if there are still matching-jobs in its cluster, and if not, the cluster is cleared from the workspace.</li>
+</ol>
+
+<h2>
+<a id="user-content-persistence" class="anchor" href="#persistence" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Persistence</h2>
+
+<p>Documents, indexing results, found differences are all stored in MongoDB. To avoid multiple bulk operations on the database, every query (document, tokens, occurrences and differences) is covered by memory cache with an expiry duration between 20 seconds and 1 minute.</p>
+
+<p>Persistence of difference-detection jobs and difference-matching jobs is also covered, using a custom MongoDB Job Store by Michael Klishin and Alex Petrov.</p>
+
+<h2>
+<a id="user-content-reading" class="anchor" href="#reading" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Reading</h2>
+
+<p>Vokter supports reading of multiple web document formats, like HTML, XML, JSON and Plain-Text, where raw content is converted into a clean string, filtered of non-informative data (e.g. XML tags). Reading logic, which is different for all formats, is covered by Reader classes which follow the plugin paradigm. This means that compiled Reader classes can be added to or removed from the 'vokter-readers' folder during runtime, and Vokter will be able to dynamically load a suitable Reader class for each document Content-Type.</p>
+
+<p>When Reader classes are instanced, they are stored in on-heap memory cache temporarily (5 seconds). This reduces the elapsed duration of discovering available Reader classes and instancing one for consecutive reads of documents with the same Content-Type.</p>
+
+<h2>
+<a id="user-content-indexing" class="anchor" href="#indexing" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Indexing</h2>
+
+<p>The string of text that represents the document snapshot that was captured during the Reading phase is passed through a parser that tokenizes, filters stop-words and stems text. For every token found, its occurrences (positional index, starting character index and ending character index) in the document are stored. When a detected difference affected a token, the character indexes of its occurrences can be used to retrieve snippets of text. With this, Vokter can instantly show to user, along with the notifications of differences detected, the added text in the new snapshot or the removed text in the previous snapshot.</p>
+
+<p>Because different documents can have different languages, which require specialized stemmers and stop-word filters to be used, the language must be obtained. Unlike the Content-Type, which is often provided as a HTTP header when fetching the document, the Accept-Language is not for the most part. Instead, Vokter infers the language from the document content using a language detector algorithm based on Bayesian probabilistic models and N-Grams, developed by Nakatani Shuyo, Fabian Kessler, Francois Roland and Robert Theis.</p>
+
+<p>Stemmer classes and stop-word files, both from the Snowball project, follow the plugin paradigm, similarly to the Reader classes. This means that both can be changed during runtime and Vokter will be updated without requiring a restart. Moreover, like the Reader classes, Stemmer classes are cached for 5 seconds before being invalidated to avoid repeated instancing for consecutive stems of documents with the same language (for example, English).</p>
+
+<p>To ensure a concurrent architecture, where multiple parsing calls should be performed in parallel, Vokter will instance multiple parsers when deployed and store them in a blocking queue. The number of parsers corresponds to the number of cores available in the machine where Vokter was deployed to.</p>
+
+<h1>
+<a id="user-content-caveats--future-work" class="anchor" href="#caveats--future-work" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Caveats / Future Work</h1>
+
+<ul>
+<li>this project has only been used in a production environment for academic projects, and has not been battle-tested or integrated in consumer software;</li>
+<li>client APIs are publicly exposed, and anyone can simulate Vokter notifications sent to that API and produce erroneous results on the client app. A secret token should be passed on successful subscribe requests and on further notifications to that client, so that the client can properly identify the received request as Vokter';</li>
+<li>stopword filtering and stemming should be done on a request basis, not on a server basis;</li>
+<li>only MongoDB is currently supported, but adding support to MySQL and PostgreSQL should not be very hard to do;</li>
+<li>the architecture should be revised so that intervals cannot be configured and matching jobs are not scheduled but rather invoked once their respective detection job is complete.</li>
+</ul>
+
+<p><b>More information on the latter caveat:</b> the intervals for difference-matching jobs can be set on the watch request, but difference-detection occurs independently of difference-matching so it can accommodate to all matching jobs for the same document. This means that difference-detection job needs to use an internal interval (420 seconds), and that matching jobs that are configured to run more frequently than that interval will look for matches on the same detected differences two times or more. </p>
+
+<h1>
+<a id="user-content-license" class="anchor" href="#license" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>License</h1>
+
+<pre><code>Copyright 2015 Eduardo Duarte
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+</code></pre>
+</article></body></html>

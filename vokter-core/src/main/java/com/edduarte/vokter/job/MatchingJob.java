@@ -19,7 +19,7 @@ package com.edduarte.vokter.job;
 import com.edduarte.vokter.diff.Difference;
 import com.edduarte.vokter.diff.DifferenceMatcher;
 import com.edduarte.vokter.keyword.Keyword;
-import com.google.gson.Gson;
+import com.fasterxml.jackson.databind.ObjectMapper;
 import org.quartz.InterruptableJob;
 import org.quartz.JobDataMap;
 import org.quartz.JobExecutionContext;
@@ -27,7 +27,10 @@ import org.quartz.JobExecutionException;
 import org.quartz.JobKey;
 import org.quartz.PersistJobDataAfterExecution;
 import org.quartz.UnableToInterruptJobException;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;
@@ -40,6 +43,8 @@ import java.util.stream.Collectors;
  */
 @PersistJobDataAfterExecution
 public class MatchingJob implements InterruptableJob {
+
+    private static final Logger logger = LoggerFactory.getLogger(MatchingJob.class);
 
     public static final String PARENT_JOB_MANAGER = "parent_job_manager";
 
@@ -70,26 +75,31 @@ public class MatchingJob implements InterruptableJob {
 
         String requestUrl = dataMap.getString(REQUEST_URL);
 
-        List<String> keywords = new Gson().fromJson(dataMap.getString(KEYWORDS), ArrayList.class);
-        boolean hasNewDifferences = dataMap.getBoolean(HAS_NEW_DIFFS);
-        boolean ignoreAdded = dataMap.getBoolean(IGNORE_ADDED);
-        boolean ignoreRemoved = dataMap.getBoolean(IGNORE_REMOVED);
+        try {
+            ObjectMapper mapper = new ObjectMapper();
+            List<String> keywords = mapper.readValue(dataMap.getString(KEYWORDS), ArrayList.class);
+            boolean hasNewDifferences = dataMap.getBoolean(HAS_NEW_DIFFS);
+            boolean ignoreAdded = dataMap.getBoolean(IGNORE_ADDED);
+            boolean ignoreRemoved = dataMap.getBoolean(IGNORE_REMOVED);
 
-        if (hasNewDifferences) {
-            dataMap.put(HAS_NEW_DIFFS, false);
+            if (hasNewDifferences) {
+                dataMap.put(HAS_NEW_DIFFS, false);
 
-            // build keywords
-            List<Keyword> kws = keywords.stream()
-                    .map(manager::callBuildKeyword)
-                    .collect(Collectors.toList());
+                // build keywords
+                List<Keyword> kws = keywords.stream()
+                        .map(manager::callBuildKeyword)
+                        .collect(Collectors.toList());
 
-            // match them
-            List<Difference> diffs = manager.callGetDiffsImpl(requestUrl);
-            DifferenceMatcher matcher = new DifferenceMatcher(kws, diffs, ignoreAdded, ignoreRemoved);
-            Set<DifferenceMatcher.Result> results = matcher.call();
-            if (!results.isEmpty()) {
-                manager.responseOk(requestUrl, responseUrl, results);
+                // match them
+                List<Difference> diffs = manager.callGetDiffsImpl(requestUrl);
+                DifferenceMatcher matcher = new DifferenceMatcher(kws, diffs, ignoreAdded, ignoreRemoved);
+                Set<DifferenceMatcher.Result> results = matcher.call();
+                if (!results.isEmpty()) {
+                    manager.responseOk(requestUrl, responseUrl, results);
+                }
             }
+        } catch (IOException ex) {
+            logger.error(ex.getMessage(), ex);
         }
     }
 

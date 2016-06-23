@@ -16,6 +16,7 @@
 
 package com.edduarte.vokter.keyword;
 
+import com.fasterxml.jackson.annotation.JsonValue;
 import com.mongodb.BasicDBObject;
 
 import java.util.Collection;
@@ -23,8 +24,8 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 /**
- * A Keyword represents a sequence of texts that should match a difference detected
- * between two snapshots of a Document.
+ * A Keyword represents a set of texts that should match a difference
+ * detected between two snapshots of a document.
  *
  * @author Eduardo Duarte (<a href="mailto:hello@edduarte.com">hello@edduarte.com</a>)
  * @version 1.3.2
@@ -44,6 +45,12 @@ public final class Keyword extends BasicDBObject {
     Keyword(final String originalInput, final Collection<String> texts) {
         this.originalInput = originalInput;
         this.texts = texts;
+    }
+
+
+    @JsonValue
+    public String getOriginalInput() {
+        return originalInput;
     }
 
 

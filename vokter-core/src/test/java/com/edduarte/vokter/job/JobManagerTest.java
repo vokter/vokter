@@ -25,7 +25,7 @@ import com.edduarte.vokter.keyword.Keyword;
 import com.edduarte.vokter.keyword.KeywordBuilder;
 import com.edduarte.vokter.parser.ParserPool;
 import com.edduarte.vokter.parser.SimpleParser;
-import com.edduarte.vokter.rest.SubscribeRequest;
+import com.edduarte.vokter.model.SubscribeRequest;
 import com.google.common.collect.Lists;
 import com.mongodb.BulkWriteOperation;
 import com.mongodb.DB;

@@ -20,10 +20,10 @@ import com.edduarte.vokter.diff.Difference;
 import com.edduarte.vokter.diff.DifferenceMatcher;
 import com.edduarte.vokter.keyword.Keyword;
 import com.edduarte.vokter.keyword.KeywordSerializer;
-import com.edduarte.vokter.rest.SubscribeRequest;
+import com.edduarte.vokter.model.SubscribeRequest;
 import com.edduarte.vokter.util.Constants;
-import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
+import com.fasterxml.jackson.core.JsonProcessingException;
+import com.fasterxml.jackson.databind.ObjectMapper;
 import org.quartz.*;
 import org.quartz.impl.DirectSchedulerFactory;
 import org.quartz.impl.StdSchedulerFactory;
@@ -139,7 +139,8 @@ public class JobManager {
                 // there is already a job monitoring the request url, so ignore this
             }
 
-            String keywordJson = new Gson().toJson(request.getKeywords());
+            ObjectMapper mapper = new ObjectMapper();
+            String keywordJson = mapper.writeValueAsString(request.getKeywords());
 
             JobDetail matchingJob = JobBuilder.newJob(MatchingJob.class)
                     .withIdentity(clientUrl, "matching" + documentUrl)
@@ -168,7 +169,7 @@ public class JobManager {
                 return false;
             }
 
-        } catch (SchedulerException ex) {
+        } catch (SchedulerException | JsonProcessingException ex) {
             logger.error(ex.getMessage(), ex);
         }
 
@@ -191,7 +192,7 @@ public class JobManager {
             scheduler.deleteJob(detectJobKey);
             handler.removeExistingDifferences(documentUrl);
             logger.info("Timed-out detection job for '{}'.", documentUrl);
-        } catch (SchedulerException ex) {
+        } catch (SchedulerException | JsonProcessingException ex) {
             logger.error(ex.getMessage(), ex);
         }
     }
@@ -301,28 +302,30 @@ public class JobManager {
 
     final boolean responseOk(final String documentUrl,
                              final String clientUrl,
-                             final Set<DifferenceMatcher.Result> diffs) {
+                             final Set<DifferenceMatcher.Result> diffs)
+            throws JsonProcessingException {
         Map<String, Object> jsonResponseMap = new LinkedHashMap<>();
         jsonResponseMap.put("status", "ok");
         jsonResponseMap.put("url", documentUrl);
         jsonResponseMap.put("diffs", diffs);
-        GsonBuilder gsonBuilder = new GsonBuilder();
-        gsonBuilder.registerTypeAdapter(Keyword.class, new KeywordSerializer());
-        String input = gsonBuilder.create().toJson(jsonResponseMap);
+
+        ObjectMapper mapper = new ObjectMapper();
+        String input = mapper.writeValueAsString(jsonResponseMap);
         return sendResponse(clientUrl, input);
     }
 
 
     final boolean sendTimeoutResponse(final String documentUrl,
-                                      final String clientUrl) {
+                                      final String clientUrl)
+            throws JsonProcessingException {
         Map<String, Object> jsonResponseMap = new LinkedHashMap<>();
         jsonResponseMap.put("status", "timeout");
         jsonResponseMap.put("url", documentUrl);
         Set<DifferenceMatcher.Result> diffs = Collections.emptySet();
         jsonResponseMap.put("diffs", diffs);
-        GsonBuilder gsonBuilder = new GsonBuilder();
-        gsonBuilder.registerTypeAdapter(Keyword.class, new KeywordSerializer());
-        String input = gsonBuilder.create().toJson(jsonResponseMap);
+
+        ObjectMapper mapper = new ObjectMapper();
+        String input = mapper.writeValueAsString(jsonResponseMap);
         return sendResponse(clientUrl, input);
     }
 

@@ -16,11 +16,12 @@
 
 package com.edduarte.vokter.keyword;
 
-import com.google.gson.JsonElement;
-import com.google.gson.JsonPrimitive;
-import com.google.gson.JsonSerializationContext;
-import com.google.gson.JsonSerializer;
+import com.fasterxml.jackson.core.JsonGenerator;
+import com.fasterxml.jackson.core.JsonProcessingException;
+import com.fasterxml.jackson.databind.JsonSerializer;
+import com.fasterxml.jackson.databind.SerializerProvider;
 
+import java.io.IOException;
 import java.lang.reflect.Type;
 
 /**
@@ -28,12 +29,21 @@ import java.lang.reflect.Type;
  * @version 1.3.2
  * @since 1.0.0
  */
-public class KeywordSerializer implements JsonSerializer<Keyword> {
+public class KeywordSerializer extends JsonSerializer<Keyword> {
+
+//    @Override
+//    public JsonElement serialize(final Keyword src,
+//                                 final Type typeOfSrc,
+//                                 final JsonSerializationContext context) {
+//        return new JsonPrimitive(src.originalInput);
+//    }
+
 
     @Override
-    public JsonElement serialize(final Keyword src,
-                                 final Type typeOfSrc,
-                                 final JsonSerializationContext context) {
-        return new JsonPrimitive(src.originalInput);
+    public void serialize(Keyword keyword,
+                          JsonGenerator jsonGenerator,
+                          SerializerProvider serializerProvider)
+            throws IOException, JsonProcessingException {
+//        serializerProvider.
     }
 }

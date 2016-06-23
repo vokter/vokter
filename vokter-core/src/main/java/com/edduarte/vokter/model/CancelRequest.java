@@ -14,9 +14,9 @@
  * limitations under the License.
  */
 
-package com.edduarte.vokter.rest;
+package com.edduarte.vokter.model;
 
-import org.codehaus.jackson.annotate.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonProperty;
 
 /**
  * @author Eduardo Duarte (<a href="mailto:hello@edduarte.com">hello@edduarte.com</a>)
@@ -31,15 +31,16 @@ public class CancelRequest {
     @JsonProperty
     private String clientUrl; // mandatory field
 
-    @JsonProperty
-    @Deprecated
     /**
      * Deprecated and replaced by 'clientUrl'. This attribute was kept for
      * backwards-compatibility purposes, since this is only used if the
      * subscribe request was sent using 'responseUrl' and NOT 'clientUrl' (as
-     * documented in versions earlier than 1.3.3).
+     * documented in versions earlier than 1.3.3). For versions 1.3.3 and
+     * upwards, this field is not mandatory unless the clientUrl field is empty.
      */
-    private String responseUrl; // mandatory field
+    @Deprecated
+    @JsonProperty
+    private String responseUrl;
 
 
     public String getDocumentUrl() {
