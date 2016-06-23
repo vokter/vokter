@@ -6,6 +6,15 @@ tomcat.*
 target
 logs
 
+*.iml
+*.ipr
+*.iws
+*.log
+.classpath
+.project
+.settings
+
+
 #netbeans
 nbactions.xml
 
