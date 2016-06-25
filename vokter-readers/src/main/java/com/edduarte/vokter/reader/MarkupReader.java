@@ -26,6 +26,7 @@ import org.jsoup.nodes.TextNode;
 import org.jsoup.select.NodeTraversor;
 import org.jsoup.select.NodeVisitor;
 
+import javax.ws.rs.core.MediaType;
 import java.io.IOException;
 import java.io.InputStream;
 
@@ -64,15 +65,16 @@ public class MarkupReader implements com.edduarte.vokter.reader.Reader, NodeVisi
     @Override
     public ImmutableSet<String> getSupportedContentTypes() {
         return ImmutableSet.of(
-                "text/html",
-                "text/xml",
-                "application/atom+xml",
+                MediaType.TEXT_HTML,
+                MediaType.TEXT_XML,
+                MediaType.APPLICATION_XML,
+                MediaType.APPLICATION_ATOM_XML,
+                MediaType.APPLICATION_SVG_XML,
+                MediaType.APPLICATION_XHTML_XML,
                 "application/rdf+xml",
                 "application/rss+xml",
                 "application/soap+xml",
                 "application/rdf+xml",
-                "application/xhtml+xml",
-                "application/xml",
                 "application/xml-dtd");
     }
 

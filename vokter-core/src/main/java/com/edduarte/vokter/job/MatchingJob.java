@@ -16,9 +16,10 @@
 
 package com.edduarte.vokter.job;
 
-import com.edduarte.vokter.diff.Difference;
+import com.edduarte.vokter.model.mongodb.Difference;
 import com.edduarte.vokter.diff.DifferenceMatcher;
-import com.edduarte.vokter.keyword.Keyword;
+import com.edduarte.vokter.model.mongodb.Keyword;
+import com.edduarte.vokter.model.v2.Match;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.quartz.InterruptableJob;
 import org.quartz.JobDataMap;
@@ -93,7 +94,7 @@ public class MatchingJob implements InterruptableJob {
                 // match them
                 List<Difference> diffs = manager.callGetDiffsImpl(requestUrl);
                 DifferenceMatcher matcher = new DifferenceMatcher(kws, diffs, ignoreAdded, ignoreRemoved);
-                Set<DifferenceMatcher.Result> results = matcher.call();
+                Set<Match> results = matcher.call();
                 if (!results.isEmpty()) {
                     manager.responseOk(requestUrl, responseUrl, results);
                 }

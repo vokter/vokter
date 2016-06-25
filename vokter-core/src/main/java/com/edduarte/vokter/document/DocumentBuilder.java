@@ -16,6 +16,7 @@
 
 package com.edduarte.vokter.document;
 
+import com.edduarte.vokter.model.mongodb.Document;
 import com.edduarte.vokter.parser.Parser;
 import com.edduarte.vokter.parser.ParserPool;
 import com.edduarte.vokter.util.OSGiManager;
@@ -26,8 +27,7 @@ import org.apache.tools.ant.filters.StringInputStream;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import javax.mail.internet.ContentType;
-import javax.mail.internet.ParseException;
+import javax.ws.rs.core.MediaType;
 import java.io.BufferedInputStream;
 import java.io.IOException;
 import java.io.InputStream;
@@ -83,9 +83,8 @@ public final class DocumentBuilder {
 
 
     /**
-     * Instantiates a loader that collects a document from a
-     * specified web url, by fetching the content as a InputStream and the content
-     * format.
+     * Instantiates a loader that collects a document from a specified web url,
+     * by fetching the content as a InputStream and the content format.
      */
     public static DocumentBuilder fromUrl(final String url) {
         return new DocumentBuilder(() -> {
@@ -93,15 +92,21 @@ public final class DocumentBuilder {
                 URL urlToFetch = new URL(url);
 
                 HttpURLConnection.setFollowRedirects(true);
-                HttpURLConnection connection = (HttpURLConnection) urlToFetch.openConnection();
+                HttpURLConnection connection =
+                        (HttpURLConnection) urlToFetch.openConnection();
                 connection.setConnectTimeout(5000);
                 connection.setReadTimeout(5000);
 
-                InputStream contentStream = new BufferedInputStream(connection.getInputStream());
-                ContentType contentType = new ContentType(connection.getContentType());
-                return new DocumentInput(url, contentStream, contentType.getBaseType());
+                InputStream contentStream =
+                        new BufferedInputStream(connection.getInputStream());
+                MediaType mediaType = MediaType.valueOf(connection.getContentType());
+                return new DocumentInput(
+                        url,
+                        contentStream,
+                        mediaType.getType() + "/" + mediaType.getSubtype()
+                );
 
-            } catch (IOException | ParseException ex) {
+            } catch (IOException ex) {
                 throw new RuntimeException(ex);
             }
         });
@@ -109,20 +114,19 @@ public final class DocumentBuilder {
 
 
     /**
-     * Instantiates a loader that collects a document from a
-     * specified input stream. This constructor is mostly used for testing.
+     * Instantiates a loader that collects a document from a specified input
+     * stream. This constructor is mostly used for testing.
      */
     public static DocumentBuilder fromString(final String url,
                                              final String text,
                                              final String type) {
         return new DocumentBuilder(() -> {
-            try {
-                ContentType contentType = new ContentType(type);
-                return new DocumentInput(url, new StringInputStream(text), contentType.getBaseType());
-
-            } catch (ParseException ex) {
-                throw new RuntimeException(ex);
-            }
+            MediaType mediaType = MediaType.valueOf(type);
+            return new DocumentInput(
+                    url,
+                    new StringInputStream(text),
+                    mediaType.getType() + "/" + mediaType.getSubtype()
+            );
         });
     }
 

@@ -59,7 +59,7 @@ public class CommonResponse {
 
 
     public static CommonResponse emptyDifferenceActions() {
-        return new CommonResponse(4, "At least one difference action " +
+        return new CommonResponse(4, "At least one difference event " +
                 "('added' or 'removed') must not be ignored.");
     }
 
@@ -78,7 +78,14 @@ public class CommonResponse {
 
 
     public static CommonResponse notExists() {
-        return new CommonResponse(7, "The specified job to cancel does not exist.");
+        return new CommonResponse(7,
+                "The specified job to cancel does not exist.");
+    }
+
+
+    public static CommonResponse unauthorized() {
+        return new CommonResponse(8,
+                "Authentication token is invalid or has expired.");
     }
 
 

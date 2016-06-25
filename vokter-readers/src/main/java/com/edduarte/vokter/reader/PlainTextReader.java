@@ -19,6 +19,7 @@ package com.edduarte.vokter.reader;
 import com.google.common.collect.ImmutableSet;
 import it.unimi.dsi.lang.MutableString;
 
+import javax.ws.rs.core.MediaType;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;
@@ -36,16 +37,15 @@ public class PlainTextReader implements com.edduarte.vokter.reader.Reader {
     @Override
     public MutableString readDocumentContents(InputStream documentStream) throws IOException {
         MutableString sb = new MutableString();
-        try (BufferedReader reader = new BufferedReader(new InputStreamReader(documentStream))) {
-            for (int c; (c = reader.read()) != -1; ) {
-                sb.append((char) c);
-            }
+        BufferedReader reader = new BufferedReader(new InputStreamReader(documentStream));
+        for (int c; (c = reader.read()) != -1; ) {
+            sb.append((char) c);
         }
         return sb.compact();
     }
 
     @Override
     public ImmutableSet<String> getSupportedContentTypes() {
-        return ImmutableSet.of("text/plain");
+        return ImmutableSet.of(MediaType.TEXT_PLAIN);
     }
 }

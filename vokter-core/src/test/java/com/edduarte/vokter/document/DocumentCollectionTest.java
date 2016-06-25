@@ -16,6 +16,7 @@
 
 package com.edduarte.vokter.document;
 
+import com.edduarte.vokter.model.mongodb.Document;
 import com.edduarte.vokter.parser.ParserPool;
 import com.edduarte.vokter.parser.SimpleParser;
 import com.mongodb.DB;
@@ -74,20 +75,22 @@ public class DocumentCollectionTest {
 
     @Test
     public void test() {
-        assertNull(collection.get("https://en.wikipedia.org/wiki/Argus_Panoptes"));
+        String url = "https://en.wikipedia.org/wiki/Argus_Panoptes";
+        
+        assertNull(collection.get(url));
 
         // testing add
         Document d = DocumentBuilder
-                .fromUrl("https://en.wikipedia.org/wiki/Argus_Panoptes")
+                .fromUrl(url)
                 .ignoreCase()
                 .withStopwords()
                 .withStemming()
                 .build(occurrencesDB, parserPool);
         collection.add(d);
-        assertNotNull(collection.get("https://en.wikipedia.org/wiki/Argus_Panoptes"));
+        assertNotNull(collection.get(url));
 
         // testing remove
-        collection.remove("https://en.wikipedia.org/wiki/Argus_Panoptes");
-        assertNull(collection.get("https://en.wikipedia.org/wiki/Argus_Panoptes"));
+        collection.remove(url);
+        assertNull(collection.get(url));
     }
 }

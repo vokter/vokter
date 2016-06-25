@@ -17,7 +17,9 @@
 package com.edduarte.vokter.diff;
 
 import com.aliasi.util.Pair;
-import com.edduarte.vokter.keyword.Keyword;
+import com.edduarte.vokter.model.mongodb.Keyword;
+import com.edduarte.vokter.model.mongodb.Difference;
+import com.edduarte.vokter.model.v2.Match;
 import com.google.common.base.Stopwatch;
 import com.google.common.hash.BloomFilter;
 import org.eclipse.jetty.util.ConcurrentHashSet;
@@ -33,7 +35,7 @@ import java.util.concurrent.Callable;
  * @version 1.3.3
  * @since 1.0.0
  */
-public class DifferenceMatcher implements Callable<Set<DifferenceMatcher.Result>> {
+public class DifferenceMatcher implements Callable<Set<Match>> {
 
     private static final Logger logger = LoggerFactory.getLogger(DifferenceMatcher.class);
 
@@ -58,39 +60,39 @@ public class DifferenceMatcher implements Callable<Set<DifferenceMatcher.Result>
 
 
     @Override
-    public Set<DifferenceMatcher.Result> call() {
+    public Set<Match> call() {
         Stopwatch sw = Stopwatch.createStarted();
 
-        Set<Result> matchedDiffs = new ConcurrentHashSet<>();
+        Set<Match> matchedDiffs = new ConcurrentHashSet<>();
 
         DifferenceEvent lastAction = DifferenceEvent.nothing;
         BloomFilter<String> lastBloomFilter = null;
         for (Difference r : differences) {
-            if (lastAction == DifferenceEvent.nothing || r.getAction() != lastAction) {
+            if (lastAction == DifferenceEvent.nothing || r.getEvent() != lastAction) {
                 // reset the bloom filter being used
                 lastBloomFilter = BloomFilter
                         .create((from, into) -> into.putUnencodedChars(from), 10);
-                lastAction = r.getAction();
+                lastAction = r.getEvent();
             }
             BloomFilter<String> bloomFilter = lastBloomFilter;
-            bloomFilter.put(r.getOccurrenceText());
+            bloomFilter.put(r.getText());
 
-            // check if AT LEAST ONE of the keywords has ALL of its words
-            // contained in the diff text
+            // use the BloomFilter to check if AT LEAST ONE of the keywords has
+            // ALL of its words contained in the diff text
             keywords.parallelStream()
                     .unordered()
                     .filter(kw -> kw.textStream().allMatch(bloomFilter::mightContain))
                     .map(kw -> new Pair<>(r, kw))
-                    .filter((pair) -> pair.b().textStream().anyMatch(pair.a().getOccurrenceText()::equals))
+                    .filter((pair) -> pair.b().textStream().anyMatch(pair.a().getText()::equals))
                     .map((pair) -> {
                         Difference diff = pair.a();
                         Keyword keyword = pair.b();
-                        DifferenceEvent i = diff.getAction();
+                        DifferenceEvent i = diff.getEvent();
                         if (i == DifferenceEvent.inserted && !ignoreAdded) {
-                            return new Result(diff.getAction(), keyword, diff.getSnippet());
+                            return new Match(diff.getEvent(), keyword, diff.getText());
 
                         } else if (i == DifferenceEvent.deleted && !ignoreRemoved) {
-                            return new Result(diff.getAction(), keyword, diff.getSnippet());
+                            return new Match(diff.getEvent(), keyword, diff.getText());
                         }
                         return null;
                     })
@@ -102,35 +104,6 @@ public class DifferenceMatcher implements Callable<Set<DifferenceMatcher.Result>
         logger.info("Completed difference matching for keywords '{}' in {}",
                 keywords.toString(), sw.toString());
         return matchedDiffs;
-    }
-
-
-    public static class Result {
-
-        /**
-         * The action of this difference.
-         */
-        public final DifferenceEvent action;
-
-        /**
-         * The keyword contained within this difference.
-         */
-        public final Keyword keyword;
-
-        /**
-         * The text that represents this difference, or in other words, the text that
-         * was either added or removed from the document.
-         */
-        public final String snippet;
-
-
-        protected Result(final DifferenceEvent action,
-                         final Keyword keyword,
-                         final String snippet) {
-            this.action = action;
-            this.keyword = keyword;
-            this.snippet = snippet;
-        }
     }
 
 }

@@ -16,19 +16,19 @@
 
 package com.edduarte.vokter;
 
-import com.edduarte.vokter.diff.Difference;
+import com.edduarte.vokter.model.mongodb.Difference;
 import com.edduarte.vokter.diff.DifferenceDetector;
-import com.edduarte.vokter.document.Document;
+import com.edduarte.vokter.model.mongodb.Document;
 import com.edduarte.vokter.document.DocumentBuilder;
 import com.edduarte.vokter.document.DocumentCollection;
 import com.edduarte.vokter.job.JobManager;
 import com.edduarte.vokter.job.JobManagerHandler;
-import com.edduarte.vokter.keyword.Keyword;
+import com.edduarte.vokter.model.mongodb.Keyword;
 import com.edduarte.vokter.keyword.KeywordBuilder;
 import com.edduarte.vokter.parser.Parser;
 import com.edduarte.vokter.parser.ParserPool;
 import com.edduarte.vokter.parser.SimpleParser;
-import com.edduarte.vokter.model.v1.SubscribeRequest;
+import com.edduarte.vokter.model.v1.rest.SubscribeRequest;
 import com.mongodb.BulkWriteOperation;
 import com.mongodb.DB;
 import com.mongodb.DBCollection;
@@ -137,12 +137,12 @@ public class Context implements LifeCycle.Listener, JobManagerHandler {
     /**
      * Flag that sets difference detection jobs to perform stopword filtering.
      */
-    private boolean isStoppingEnabled = true;
+    private boolean isStoppingEnabled = false;
 
     /**
      * Flag that sets difference detection jobs to perform stemming.
      */
-    private boolean isStemmingEnabled = true;
+    private boolean isStemmingEnabled = false;
 
     /**
      * Flag that sets difference detection jobs to of equal occurrences with different casing.

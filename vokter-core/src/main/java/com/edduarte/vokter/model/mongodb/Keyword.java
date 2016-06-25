@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.edduarte.vokter.keyword;
+package com.edduarte.vokter.model.mongodb;
 
 import com.fasterxml.jackson.annotation.JsonValue;
 import com.mongodb.BasicDBObject;
@@ -42,7 +42,7 @@ public final class Keyword extends BasicDBObject {
     private final Collection<String> texts;
 
 
-    Keyword(final String originalInput, final Collection<String> texts) {
+    public Keyword(final String originalInput, final Collection<String> texts) {
         this.originalInput = originalInput;
         this.texts = texts;
     }

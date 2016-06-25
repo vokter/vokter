@@ -16,6 +16,7 @@
 
 package com.edduarte.vokter.keyword;
 
+import com.edduarte.vokter.model.mongodb.Keyword;
 import com.edduarte.vokter.parser.Parser;
 import com.edduarte.vokter.parser.ParserPool;
 import com.google.common.base.Stopwatch;

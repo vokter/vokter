@@ -115,7 +115,7 @@ The following list shows all possible responses:
 | 400 | 1 | The provided document URL is invalid. |
 | 400 | 2 | The provided client URL is invalid. |
 | 400 | 3 | You need to provide at least one valid keyword. |
-| 400 | 4 | At least one difference action ('added' or 'removed') must not be ignored. |
+| 400 | 4 | At least one difference event ('added' or 'removed') must not be ignored. |
 | 409 | 5 | The request conflicts with a currently active watch job, since the provided document URL is already being watched and notified to the provided client URL. |
 | 415 | 6 | The request body has an invalid format. |
 | 404 | 7 | The specified job to cancel does not exist. |
@@ -133,12 +133,12 @@ When detected differences are matched with keywords, Vokter sends notifications 
     "url": "http://www.example.com",
     "diffs": [
         {
-            "action": "added",
+            "event": "added",
             "keyword": "argus",
             "snippet": "In the 5th century and later, Argus' wakeful alertness ..."
         },
         {
-            "action": "removed",
+            "event": "removed",
             "keyword": "argus",
             "snippet": "... sacrifice of Argus liberated Io and allowed ..."
         }

@@ -16,16 +16,16 @@
 
 package com.edduarte.vokter.job;
 
-import com.edduarte.vokter.diff.Difference;
+import com.edduarte.vokter.model.mongodb.Difference;
 import com.edduarte.vokter.diff.DifferenceDetector;
-import com.edduarte.vokter.document.Document;
+import com.edduarte.vokter.model.mongodb.Document;
 import com.edduarte.vokter.document.DocumentBuilder;
 import com.edduarte.vokter.document.DocumentCollection;
-import com.edduarte.vokter.keyword.Keyword;
+import com.edduarte.vokter.model.mongodb.Keyword;
 import com.edduarte.vokter.keyword.KeywordBuilder;
 import com.edduarte.vokter.parser.ParserPool;
 import com.edduarte.vokter.parser.SimpleParser;
-import com.edduarte.vokter.model.v1.SubscribeRequest;
+import com.edduarte.vokter.model.v1.rest.SubscribeRequest;
 import com.google.common.collect.Lists;
 import com.mongodb.BulkWriteOperation;
 import com.mongodb.DB;
@@ -196,10 +196,14 @@ public class JobManagerTest {
                 false
         ));
         assertTrue(wasCreated);
+        // jobs run every 12 seconds, so force the test to wait 20 seconds to
+        // ensure that a detection job is performed and finished
+        // the result should be no differences detected
         Thread.sleep(20000);
 
 
         testDocuments.lazySet("is the of the 100-eyed giant in Greek mythology.");
+        // this time, the result should be differences detected
         Thread.sleep(20000);
 
 
@@ -221,11 +225,16 @@ public class JobManagerTest {
                 false
         ));
         assertTrue(wasCreated);
+        // wait 30 seconds to ensure that the 2 running jobs (same document for
+        // 2 different clients) are performed and finished
+        // the result should be no differences detected
         Thread.sleep(30000);
 
 
         manager.cancelMatchingJob("testRequestUrl", "https://www.google.com");
         manager.cancelMatchingJob("testRequestUrl", "https://www.google.pt");
+        // wait 30 seconds to ensure that the 2 existing jobs were canceled
+        // before running the next text
         Thread.sleep(30000);
 
 
@@ -238,6 +247,9 @@ public class JobManagerTest {
                 false
         ));
         assertTrue(wasCreated);
+        // wait 30 seconds to ensure that the new existing jobs is performed and
+        // finished
+        // the result should be no differences detected
         Thread.sleep(30000);
 
 

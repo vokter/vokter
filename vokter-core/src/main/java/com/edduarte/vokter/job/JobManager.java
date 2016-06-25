@@ -16,10 +16,10 @@
 
 package com.edduarte.vokter.job;
 
-import com.edduarte.vokter.diff.Difference;
-import com.edduarte.vokter.diff.DifferenceMatcher;
-import com.edduarte.vokter.keyword.Keyword;
-import com.edduarte.vokter.model.v1.SubscribeRequest;
+import com.edduarte.vokter.model.mongodb.Difference;
+import com.edduarte.vokter.model.mongodb.Keyword;
+import com.edduarte.vokter.model.v1.rest.SubscribeRequest;
+import com.edduarte.vokter.model.v2.Match;
 import com.edduarte.vokter.util.Constants;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -301,7 +301,7 @@ public class JobManager {
 
     final boolean responseOk(final String documentUrl,
                              final String clientUrl,
-                             final Set<DifferenceMatcher.Result> diffs)
+                             final Set<Match> diffs)
             throws JsonProcessingException {
         Map<String, Object> jsonResponseMap = new LinkedHashMap<>();
         jsonResponseMap.put("status", "ok");
@@ -320,8 +320,7 @@ public class JobManager {
         Map<String, Object> jsonResponseMap = new LinkedHashMap<>();
         jsonResponseMap.put("status", "timeout");
         jsonResponseMap.put("url", documentUrl);
-        Set<DifferenceMatcher.Result> diffs = Collections.emptySet();
-        jsonResponseMap.put("diffs", diffs);
+        jsonResponseMap.put("diffs", Collections.emptySet());
 
         ObjectMapper mapper = new ObjectMapper();
         String input = mapper.writeValueAsString(jsonResponseMap);

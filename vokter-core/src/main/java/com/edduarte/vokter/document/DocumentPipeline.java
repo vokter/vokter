@@ -20,6 +20,7 @@ import com.edduarte.vokter.cleaner.AndCleaner;
 import com.edduarte.vokter.cleaner.Cleaner;
 import com.edduarte.vokter.cleaner.DiacriticCleaner;
 import com.edduarte.vokter.cleaner.SpecialCharsCleaner;
+import com.edduarte.vokter.model.mongodb.Document;
 import com.edduarte.vokter.parser.Parser;
 import com.edduarte.vokter.reader.Reader;
 import com.edduarte.vokter.stemmer.Stemmer;

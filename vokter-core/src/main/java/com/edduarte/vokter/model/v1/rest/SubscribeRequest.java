@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.edduarte.vokter.model.v1;
+package com.edduarte.vokter.model.v1.rest;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonInclude;
@@ -24,8 +24,8 @@ import java.io.Serializable;
 import java.util.List;
 
 /**
- * Wrapper class of a JSON request for page watching.
- * This request is consumed by the 'watch' method in the RESTResource class.
+ * Model class of a JSON request for page watching.
+ * This request is consumed by the 'watch' method in the RestResource class.
  *
  * @author Eduardo Duarte (<a href="mailto:hello@edduarte.com">hello@edduarte.com</a>)
  * @version 1.3.3

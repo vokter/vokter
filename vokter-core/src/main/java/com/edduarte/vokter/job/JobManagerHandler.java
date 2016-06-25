@@ -16,8 +16,8 @@
 
 package com.edduarte.vokter.job;
 
-import com.edduarte.vokter.diff.Difference;
-import com.edduarte.vokter.keyword.Keyword;
+import com.edduarte.vokter.model.mongodb.Difference;
+import com.edduarte.vokter.model.mongodb.Keyword;
 
 import java.util.List;
 

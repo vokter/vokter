@@ -14,8 +14,9 @@
  * limitations under the License.
  */
 
-package com.edduarte.vokter.document;
+package com.edduarte.vokter.model.mongodb;
 
+import com.edduarte.vokter.document.Occurrence;
 import com.edduarte.vokter.util.Constants;
 import com.mongodb.BasicDBObject;
 import com.mongodb.BulkWriteOperation;
@@ -54,7 +55,7 @@ public final class Document extends BasicDBObject implements Serializable {
     private transient final DBCollection occCollection;
 
 
-    Document(DB occurrencesDB, String url, String originalContent) {
+    public Document(DB occurrencesDB, String url, String originalContent) {
         super(ID, Constants.bytesToHex(Constants.generateRandomBytes()));
         append(URL, url);
         append(ORIGINAL_CONTENT, originalContent);
@@ -63,7 +64,7 @@ public final class Document extends BasicDBObject implements Serializable {
     }
 
 
-    Document(DB occurrencesDB, BasicDBObject dbObject) {
+    public Document(DB occurrencesDB, BasicDBObject dbObject) {
         super(dbObject);
         occCollection = occurrencesDB
                 .getCollection(getUrl().hashCode() + getString(ID));
@@ -170,7 +171,7 @@ public final class Document extends BasicDBObject implements Serializable {
     }
 
 
-    void destroy() {
+    public void destroy() {
         occCollection.drop();
     }
 }

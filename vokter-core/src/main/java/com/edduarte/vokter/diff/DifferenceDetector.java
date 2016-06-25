@@ -16,12 +16,14 @@
 
 package com.edduarte.vokter.diff;
 
-import com.edduarte.vokter.document.Document;
+import com.edduarte.vokter.model.mongodb.Document;
 import com.edduarte.vokter.document.Occurrence;
+import com.edduarte.vokter.model.mongodb.Difference;
 import com.edduarte.vokter.parser.Parser;
 import com.edduarte.vokter.parser.ParserPool;
 import com.google.common.base.Stopwatch;
 import it.unimi.dsi.lang.MutableString;
+import org.apache.commons.lang3.StringUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -57,23 +59,23 @@ public class DifferenceDetector implements Callable<List<Difference>> {
     }
 
 
-    private static String getSnippet(Document d, String occurrenceText, int wordCount) {
-        Occurrence occurrence = d.getOccurrence(occurrenceText, wordCount);
-        if (occurrence == null) {
-            return "";
-        }
-        String originalContent = d.getOriginalContent();
-
-        int snippetStart = occurrence.getStartIndex() - SNIPPET_INDEX_OFFSET;
-        if (snippetStart < 0) {
-            snippetStart = 0;
-        }
-        int snippetEnd = occurrence.getEndIndex() + SNIPPET_INDEX_OFFSET;
-        if (snippetEnd > originalContent.length()) {
-            snippetEnd = originalContent.length();
-        }
-        return originalContent.substring(snippetStart, snippetEnd);
-    }
+//    private static String getSnippet(Document d, String occurrenceText, int wordCount) {
+//        Occurrence occurrence = d.getOccurrence(occurrenceText, wordCount);
+//        if (occurrence == null) {
+//            return "";
+//        }
+//        String originalContent = d.getOriginalContent();
+//
+//        int snippetStart = occurrence.getStartIndex() - SNIPPET_INDEX_OFFSET;
+//        if (snippetStart < 0) {
+//            snippetStart = 0;
+//        }
+//        int snippetEnd = occurrence.getEndIndex() + SNIPPET_INDEX_OFFSET;
+//        if (snippetEnd > originalContent.length()) {
+//            snippetEnd = originalContent.length();
+//        }
+//        return originalContent.substring(snippetStart, snippetEnd);
+//    }
 
 
     @Override
@@ -100,41 +102,41 @@ public class DifferenceDetector implements Callable<List<Difference>> {
             return null;
         }
 
-        int insertedCountOffset = 0, deletedCountOffset = 0;
+//        int insertedCountOffset = 0, deletedCountOffset = 0;
         List<Difference> retrievedDiffs = new ArrayList<>();
         for (DiffMatchPatch.Diff diff : diffs) {
-            String diffText = diff.text;
+//            String diffText = diff.text;
 
-            List<Parser.Result> results = parser.parse(new MutableString(diffText));
-            for (Parser.Result result : results) {
-                String snippet;
-                String occurrenceText = result.text.toString();
-                switch (diff.action) {
-                    case inserted: {
-                        int wordNum = insertedCountOffset++;
-                        snippet = getSnippet(newSnapshot, occurrenceText, wordNum);
-                        break;
-                    }
-                    case deleted: {
-                        int wordNum = deletedCountOffset++;
-                        snippet = getSnippet(oldSnapshot, occurrenceText, wordNum);
-                        break;
-                    }
-                    default: {
-                        insertedCountOffset++;
-                        deletedCountOffset++;
-                        continue;
-                    }
-                }
+//            List<Parser.Result> results = parser.parse(new MutableString(diffText));
+//            for (Parser.Result result : results) {
+//                String snippet;
+//                String occurrenceText = result.text.toString();
+//                switch (diff.action) {
+//                    case inserted: {
+//                        int wordNum = insertedCountOffset++;
+//                        snippet = getSnippet(newSnapshot, occurrenceText, wordNum);
+//                        break;
+//                    }
+//                    case deleted: {
+//                        int wordNum = deletedCountOffset++;
+//                        snippet = getSnippet(oldSnapshot, occurrenceText, wordNum);
+//                        break;
+//                    }
+//                    default: {
+//                        insertedCountOffset++;
+//                        deletedCountOffset++;
+//                        continue;
+//                    }
+//                }
 
                 retrievedDiffs.add(new Difference(
                         diff.action,
-                        result.text.toString(),
-                        snippet
+                        diff.text,
+                        diff.startIndex
                 ));
-            }
-            results.clear();
-            results = null;
+//            }
+//            results.clear();
+//            results = null;
         }
 
         try {

@@ -14,8 +14,9 @@
  * limitations under the License.
  */
 
-package com.edduarte.vokter.diff;
+package com.edduarte.vokter.model.mongodb;
 
+import com.edduarte.vokter.diff.DifferenceEvent;
 import com.mongodb.BasicDBObject;
 import com.mongodb.DBObject;
 
@@ -32,19 +33,19 @@ public class Difference extends BasicDBObject implements Serializable {
 
     public static final String DIFF_EVENT = "diff_event";
 
-    public static final String OCCURRENCE_TEXT = "occurrence_text";
+    public static final String TEXT = "text";
 
-    public static final String SNIPPET = "snippet";
+    public static final String START_INDEX = "start_index";
 
     private static final long serialVersionUID = 1L;
 
 
     public Difference(final DifferenceEvent action,
                       final String occurrenceText,
-                      final String snippet) {
+                      final int startIndex) {
         super(DIFF_EVENT, action.toString());
-        append(OCCURRENCE_TEXT, occurrenceText);
-        append(SNIPPET, snippet);
+        append(TEXT, occurrenceText);
+        append(START_INDEX, startIndex);
     }
 
 
@@ -56,25 +57,21 @@ public class Difference extends BasicDBObject implements Serializable {
     /**
      * Returns the status of this difference.
      */
-    public DifferenceEvent getAction() {
-        String action = getString(DIFF_EVENT);
-        return DifferenceEvent.valueOf(action);
+    public DifferenceEvent getEvent() {
+        String event = getString(DIFF_EVENT);
+        return DifferenceEvent.valueOf(event);
     }
 
 
     /**
      * Returns the text of the occurrence contained within this difference.
      */
-    public String getOccurrenceText() {
-        return getString(OCCURRENCE_TEXT);
+    public String getText() {
+        return getString(TEXT);
     }
 
 
-    /**
-     * Returns the snippet of this difference in the original document (non-processed).
-     */
-    public String getSnippet() {
-        return getString(SNIPPET);
+    public int getStartIndex() {
+        return getInt(START_INDEX);
     }
-
 }

@@ -16,6 +16,7 @@
 
 package com.edduarte.vokter.document;
 
+import com.edduarte.vokter.model.mongodb.Document;
 import com.mongodb.BasicDBObject;
 import com.mongodb.DB;
 import com.mongodb.DBCollection;

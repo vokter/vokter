@@ -14,17 +14,24 @@
  * limitations under the License.
  */
 
-package com.edduarte.vokter.rest.resources;
+package com.edduarte.vokter.rest.resources.v1;
 
 import com.edduarte.vokter.Context;
-import com.edduarte.vokter.model.v1.CancelRequest;
+import com.edduarte.vokter.model.v1.rest.CancelRequest;
 import com.edduarte.vokter.model.CommonResponse;
-import com.edduarte.vokter.model.v1.SubscribeRequest;
+import com.edduarte.vokter.model.v1.rest.SubscribeRequest;
+import com.edduarte.vokter.util.CORSUtils;
 import com.google.common.collect.Lists;
+import io.swagger.annotations.Api;
+import io.swagger.annotations.ApiOperation;
+import io.swagger.annotations.Info;
+import io.swagger.annotations.SwaggerDefinition;
 import org.apache.commons.validator.routines.UrlValidator;
 
 import javax.ws.rs.Consumes;
 import javax.ws.rs.GET;
+import javax.ws.rs.HeaderParam;
+import javax.ws.rs.OPTIONS;
 import javax.ws.rs.POST;
 import javax.ws.rs.Path;
 import javax.ws.rs.Produces;
@@ -42,11 +49,32 @@ import java.util.concurrent.ExecutionException;
  * @since 1.0.0
  */
 @Path("/v1/")
-public class V1Resource {
+@Api(tags = {"Version 1"})
+@SwaggerDefinition(info = @Info(
+        title = "Version 1",
+        description = "Vokter REST API service version 1, which is being " +
+                "kept active for backwards-compatibility purposes.",
+        version = "1"
+))
+@Consumes(MediaType.APPLICATION_JSON)
+@Produces(MediaType.APPLICATION_JSON)
+public class RestResource {
+
+    /**
+     * Options method for "exampleRequest" to enable Access-Control-Allow-Origin
+     * for all origin endpoints, opening the API to client services using CORS
+     * like AngularJS frontends.
+     */
+    @OPTIONS
+    @Path("exampleRequest")
+    @ApiOperation(value = "", hidden = true)
+    public Response exampleRequestOptions(
+            @HeaderParam("Access-Control-Request-Headers") String acrHeader) {
+        return CORSUtils.getOptionsWithCORS(acrHeader);
+    }
 
     @GET
     @Path("exampleRequest")
-    @Produces(MediaType.APPLICATION_JSON)
     public Response exampleRequest() {
         SubscribeRequest requestBody = new SubscribeRequest(
                 "http://www.example.com",
@@ -62,10 +90,22 @@ public class V1Resource {
                 .build();
     }
 
+    /**
+     * Options method for "exampleResponse" to enable Access-Control-Allow-Origin
+     * for all origin endpoints, opening the API to client services using CORS
+     * like AngularJS frontends.
+     */
+    @OPTIONS
+    @Path("exampleResponse")
+    @ApiOperation(value = "", hidden = true)
+    public Response exampleResponseOptions(
+            @HeaderParam("Access-Control-Request-Headers") String acrHeader) {
+        return CORSUtils.getOptionsWithCORS(acrHeader);
+    }
+
 
     @GET
     @Path("exampleResponse")
-    @Consumes(MediaType.APPLICATION_JSON)
     public Response exampleResponse() {
         CommonResponse responseBody = CommonResponse.ok();
         return Response.status(200)
@@ -74,11 +114,22 @@ public class V1Resource {
                 .build();
     }
 
+    /**
+     * Options method for "subscribe" to enable Access-Control-Allow-Origin
+     * for all origin endpoints, opening the API to client services using CORS
+     * like AngularJS frontends.
+     */
+    @OPTIONS
+    @Path("subscribe")
+    @ApiOperation(value = "", hidden = true)
+    public Response watchOptions(
+            @HeaderParam("Access-Control-Request-Headers") String acrHeader) {
+        return CORSUtils.getOptionsWithCORS(acrHeader);
+    }
+
 
     @POST
     @Path("subscribe")
-    @Consumes(MediaType.APPLICATION_JSON)
-    @Produces(MediaType.APPLICATION_JSON)
     public Response watch(SubscribeRequest subscribeRequest) {
         String[] schemes = {"http", "https"};
         UrlValidator urlValidator = new UrlValidator(schemes, UrlValidator.ALLOW_LOCAL_URLS);
@@ -147,11 +198,22 @@ public class V1Resource {
         }
     }
 
+    /**
+     * Options method for "cancel" to enable Access-Control-Allow-Origin
+     * for all origin endpoints, opening the API to client services using CORS
+     * like AngularJS frontends.
+     */
+    @OPTIONS
+    @Path("cancel")
+    @ApiOperation(value = "", hidden = true)
+    public Response cancelOptions(
+            @HeaderParam("Access-Control-Request-Headers") String acrHeader) {
+        return CORSUtils.getOptionsWithCORS(acrHeader);
+    }
+
 
     @POST
     @Path("cancel")
-    @Consumes(MediaType.APPLICATION_JSON)
-    @Produces(MediaType.APPLICATION_JSON)
     public Response cancel(CancelRequest cancelRequest) throws ExecutionException {
 
         Context context = Context.getInstance();
