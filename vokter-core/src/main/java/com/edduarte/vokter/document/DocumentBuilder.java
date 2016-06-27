@@ -27,7 +27,11 @@ import org.apache.tools.ant.filters.StringInputStream;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import javax.ws.rs.client.ClientBuilder;
+import javax.ws.rs.client.Invocation;
+import javax.ws.rs.client.WebTarget;
 import javax.ws.rs.core.MediaType;
+import javax.ws.rs.core.Response;
 import java.io.BufferedInputStream;
 import java.io.IOException;
 import java.io.InputStream;
@@ -55,26 +59,26 @@ public final class DocumentBuilder {
      */
     private final Supplier<DocumentInput> documentLazySupplier;
 
-    /**
-     * The language detector that will assure that the right Stopword filter
-     * and Stemmer are used for the input content.
-     */
-    private LanguageDetector langDetector;
+//    /**
+//     * The language detector that will assure that the right Stopword filter
+//     * and Stemmer are used for the input content.
+//     */
+//    private LanguageDetector langDetector;
 
-    /**
-     * Flag that sets usage of stopword filtering.
-     */
-    private boolean isStoppingEnabled = false;
-
-    /**
-     * Flag that sets usage of a porter stemmer.
-     */
-    private boolean isStemmingEnabled = false;
-
-    /**
-     * Flag that sets matching of equal occurrences with different casing.
-     */
-    private boolean ignoreCase = false;
+//    /**
+//     * Flag that sets usage of stopword filtering.
+//     */
+//    private boolean isStoppingEnabled = false;
+//
+//    /**
+//     * Flag that sets usage of a porter stemmer.
+//     */
+//    private boolean isStemmingEnabled = false;
+//
+//    /**
+//     * Flag that sets matching of equal occurrences with different casing.
+//     */
+//    private boolean ignoreCase = false;
 
 
     private DocumentBuilder(final Supplier<DocumentInput> documentLazySupplier) {
@@ -83,31 +87,35 @@ public final class DocumentBuilder {
 
 
     /**
-     * Instantiates a loader that collects a document from a specified web url,
-     * by fetching the content as a InputStream and the content format.
+     * Instantiates a builder that collects a document from a specified web url,
+     * fetching the content as a InputStream. An expected content-type can also
+     * be provided. If this content-type is left as null, the default response
+     * content-type will be used.
      */
-    public static DocumentBuilder fromUrl(final String url) {
+    public static DocumentBuilder fromUrl(final String url,
+                                          final String contentType) {
         return new DocumentBuilder(() -> {
-            try {
-                URL urlToFetch = new URL(url);
+            WebTarget target = ClientBuilder.newClient().target(url);
+            Invocation.Builder builder;
 
-                HttpURLConnection.setFollowRedirects(true);
-                HttpURLConnection connection =
-                        (HttpURLConnection) urlToFetch.openConnection();
-                connection.setConnectTimeout(5000);
-                connection.setReadTimeout(5000);
+            if (contentType != null) {
+                builder = target.request(contentType);
+            } else {
+                builder = target.request();
+            }
 
-                InputStream contentStream =
-                        new BufferedInputStream(connection.getInputStream());
-                MediaType mediaType = MediaType.valueOf(connection.getContentType());
+            Response response = builder.get();
+            if (response.getStatus() == 200) {
+                InputStream contentStream = response.readEntity(InputStream.class);
+                String responseContentType = response.getHeaderString("Content-Type");
+                MediaType mediaType = MediaType.valueOf(responseContentType);
                 return new DocumentInput(
                         url,
                         contentStream,
                         mediaType.getType() + "/" + mediaType.getSubtype()
                 );
-
-            } catch (IOException ex) {
-                throw new RuntimeException(ex);
+            } else {
+                throw new RuntimeException(response.readEntity(String.class));
             }
         });
     }
@@ -119,9 +127,9 @@ public final class DocumentBuilder {
      */
     public static DocumentBuilder fromString(final String url,
                                              final String text,
-                                             final String type) {
+                                             final String contentType) {
         return new DocumentBuilder(() -> {
-            MediaType mediaType = MediaType.valueOf(type);
+            MediaType mediaType = MediaType.valueOf(contentType);
             return new DocumentInput(
                     url,
                     new StringInputStream(text),
@@ -131,28 +139,28 @@ public final class DocumentBuilder {
     }
 
 
-    public DocumentBuilder withLanguageDetector(LanguageDetector langDetector) {
-        this.langDetector = langDetector;
-        return this;
-    }
-
-
-    public DocumentBuilder withStopwords() {
-        this.isStoppingEnabled = true;
-        return this;
-    }
-
-
-    public DocumentBuilder withStemming() {
-        this.isStemmingEnabled = true;
-        return this;
-    }
-
-
-    public DocumentBuilder ignoreCase() {
-        this.ignoreCase = true;
-        return this;
-    }
+//    public DocumentBuilder withLanguageDetector(LanguageDetector langDetector) {
+//        this.langDetector = langDetector;
+//        return this;
+//    }
+//
+//
+//    public DocumentBuilder withStopwords() {
+//        this.isStoppingEnabled = true;
+//        return this;
+//    }
+//
+//
+//    public DocumentBuilder withStemming() {
+//        this.isStemmingEnabled = true;
+//        return this;
+//    }
+//
+//
+//    public DocumentBuilder ignoreCase() {
+//        this.ignoreCase = true;
+//        return this;
+//    }
 
 
     /**
@@ -170,7 +178,7 @@ public final class DocumentBuilder {
      *
      * @return the built index of the documents specified in the factory method
      */
-    public Document build(DB occurrencesDB, ParserPool parserPool) {
+    public Document build() {
         Stopwatch sw = Stopwatch.createStarted();
 
         // step 1) Perform a lazy loading of the document, by obtaining its url,
@@ -190,13 +198,13 @@ public final class DocumentBuilder {
 
 
         // step 3) Takes a parser from the parser-pool.
-        Parser parser;
-        try {
-            parser = parserPool.take();
-        } catch (InterruptedException ex) {
-            logger.error(ex.getMessage(), ex);
-            return null;
-        }
+//        Parser parser;
+//        try {
+//            parser = parserPool.take();
+//        } catch (InterruptedException ex) {
+//            logger.error(ex.getMessage(), ex);
+//            return null;
+//        }
 
 
         // step 4) Build a processing instruction to be executed.
@@ -205,29 +213,29 @@ public final class DocumentBuilder {
         DocumentPipeline pipeline = new DocumentPipeline(
 
                 // the language detection model
-                langDetector,
+//                langDetector,
 
                 // general structure that holds the created occurrences
-                occurrencesDB,
+//                occurrencesDB,
 
                 // the input document info, including its path and InputStream
-                input,
+                input
 
                 // parser that will be used for document parsing and occurrence
                 // detection
-                parser,
+//                parser,
 
                 // flag that sets that stopwords will be filtered during
                 // tokenization
-                isStoppingEnabled,
+//                isStoppingEnabled,
 
                 // flag that sets that every found occurrence during tokenization will
                 // be stemmer
-                isStemmingEnabled,
+//                isStemmingEnabled,
 
                 // flag that forces every found token to be lower case, matching,
                 // for example, the words 'be' and 'Be' as the same token
-                ignoreCase
+//                ignoreCase
         );
 
 
@@ -242,12 +250,12 @@ public final class DocumentBuilder {
 
 
         // step 6) Place the parser back in the parser-pool.
-        try {
-            parserPool.place(parser);
-        } catch (InterruptedException ex) {
-            logger.error(ex.getMessage(), ex);
-            return null;
-        }
+//        try {
+//            parserPool.place(parser);
+//        } catch (InterruptedException ex) {
+//            logger.error(ex.getMessage(), ex);
+//            return null;
+//        }
 
         sw.stop();
         logger.info("Completed processing document '{}' in {}.",

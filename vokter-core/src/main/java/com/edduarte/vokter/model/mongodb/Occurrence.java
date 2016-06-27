@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.edduarte.vokter.document;
+package com.edduarte.vokter.model.mongodb;
 
 import com.mongodb.BasicDBObject;
 import com.mongodb.DBObject;

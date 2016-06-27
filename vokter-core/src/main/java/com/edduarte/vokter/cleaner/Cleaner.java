@@ -19,7 +19,8 @@ package com.edduarte.vokter.cleaner;
 import it.unimi.dsi.lang.MutableString;
 
 /**
- * Indexing module that cleans textual content from the received textual content.
+ * Indexing module that cleans textual content from the received textual
+ * content.
  *
  * @author Eduardo Duarte (<a href="mailto:hello@edduarte.com">hello@edduarte.com</a>)
  * @version 1.3.2

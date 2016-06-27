@@ -14,10 +14,12 @@
  * limitations under the License.
  */
 
-package com.edduarte.vokter.model.v1.rest;
+package com.edduarte.vokter.rest.model.v2;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;
+
+import javax.ws.rs.core.MediaType;
 
 /**
  * Model class of a JSON request to cancel a page monitoring.
@@ -31,22 +33,23 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 public class CancelRequest {
 
     @JsonProperty(required = true)
-    private String documentUrl; // mandatory field
+    private String documentUrl;
 
-    // mandatory field
+    @JsonProperty
+    private String documentContentType;
+
     @JsonProperty(required = true)
     private String clientUrl;
 
-    /**
-     * Deprecated and replaced by 'clientUrl'. This attribute was kept for
-     * backwards-compatibility purposes, since this is only used if the
-     * subscribe request was sent using 'responseUrl' and NOT 'clientUrl' (as
-     * documented in versions earlier than 1.3.3). For versions 1.3.3 and
-     * upwards, this field is not mandatory unless the clientUrl field is empty.
-     */
-    @Deprecated
     @JsonProperty
-    private String responseUrl;
+    private String clientContentType;
+
+
+    // default variables
+    public CancelRequest() {
+        this.documentContentType = null;
+        this.clientContentType = MediaType.APPLICATION_JSON;
+    }
 
 
     public String getDocumentUrl() {
@@ -54,7 +57,17 @@ public class CancelRequest {
     }
 
 
+    public String getDocumentContentType() {
+        return documentContentType;
+    }
+
+
     public String getClientUrl() {
-        return clientUrl != null ? clientUrl : responseUrl;
+        return clientUrl;
+    }
+
+
+    public String getClientContentType() {
+        return clientContentType;
     }
 }

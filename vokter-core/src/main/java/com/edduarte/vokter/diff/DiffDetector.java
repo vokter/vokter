@@ -17,13 +17,8 @@
 package com.edduarte.vokter.diff;
 
 import com.edduarte.vokter.model.mongodb.Document;
-import com.edduarte.vokter.document.Occurrence;
-import com.edduarte.vokter.model.mongodb.Difference;
-import com.edduarte.vokter.parser.Parser;
-import com.edduarte.vokter.parser.ParserPool;
+import com.edduarte.vokter.model.mongodb.Diff;
 import com.google.common.base.Stopwatch;
-import it.unimi.dsi.lang.MutableString;
-import org.apache.commons.lang3.StringUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -31,61 +26,37 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.concurrent.Callable;
+import java.util.stream.Collectors;
 
 /**
  * @author Eduardo Duarte (<a href="mailto:hello@edduarte.com">hello@edduarte.com</a>)
  * @version 1.3.2
  * @since 1.0.0
  */
-public class DifferenceDetector implements Callable<List<Difference>> {
+public class DiffDetector implements Callable<List<Diff>> {
 
-    private static final Logger logger = LoggerFactory.getLogger(DifferenceDetector.class);
-
-    private static final int SNIPPET_INDEX_OFFSET = 50;
+    private static final Logger logger = LoggerFactory.getLogger(DiffDetector.class);
 
     private final Document oldSnapshot;
 
     private final Document newSnapshot;
 
-    private final ParserPool parserPool;
 
-
-    public DifferenceDetector(final Document oldSnapshot,
-                              final Document newSnapshot,
-                              final ParserPool parserPool) {
+    public DiffDetector(final Document oldSnapshot,
+                        final Document newSnapshot) {
         this.oldSnapshot = oldSnapshot;
         this.newSnapshot = newSnapshot;
-        this.parserPool = parserPool;
     }
 
 
-//    private static String getSnippet(Document d, String occurrenceText, int wordCount) {
-//        Occurrence occurrence = d.getOccurrence(occurrenceText, wordCount);
-//        if (occurrence == null) {
-//            return "";
-//        }
-//        String originalContent = d.getOriginalContent();
-//
-//        int snippetStart = occurrence.getStartIndex() - SNIPPET_INDEX_OFFSET;
-//        if (snippetStart < 0) {
-//            snippetStart = 0;
-//        }
-//        int snippetEnd = occurrence.getEndIndex() + SNIPPET_INDEX_OFFSET;
-//        if (snippetEnd > originalContent.length()) {
-//            snippetEnd = originalContent.length();
-//        }
-//        return originalContent.substring(snippetStart, snippetEnd);
-//    }
-
-
     @Override
-    public List<Difference> call() {
+    public List<Diff> call() {
         Stopwatch sw = Stopwatch.createStarted();
 
         DiffMatchPatch dmp = new DiffMatchPatch();
 
-        String original = oldSnapshot.getProcessedContent();
-        String revision = newSnapshot.getProcessedContent();
+        String original = oldSnapshot.getText();
+        String revision = newSnapshot.getText();
 
         // TODO: use LSH to determine a similarity index. If distance is above
         // 0.4, the documents are different enough and a more computational
@@ -94,19 +65,16 @@ public class DifferenceDetector implements Callable<List<Difference>> {
         LinkedList<DiffMatchPatch.Diff> diffs = dmp.diff_main(original, revision);
         dmp.diff_cleanupSemantic(diffs);
 
-        Parser parser;
-        try {
-            parser = parserPool.take();
-        } catch (InterruptedException ex) {
-            logger.error(ex.getMessage(), ex);
-            return null;
-        }
-
 //        int insertedCountOffset = 0, deletedCountOffset = 0;
-        List<Difference> retrievedDiffs = new ArrayList<>();
-        for (DiffMatchPatch.Diff diff : diffs) {
-//            String diffText = diff.text;
+        List<Diff> retrievedDiffs = diffs.parallelStream()
+                .filter(diff -> !diff.getOperation().equals(DiffEvent.nothing))
+                .map(diff -> new Diff(
+                        diff.getOperation(),
+                        diff.getText(),
+                        diff.getStartIndex()
+                )).collect(Collectors.toList());
 
+        //            String diffText = diff.text;
 //            List<Parser.Result> results = parser.parse(new MutableString(diffText));
 //            for (Parser.Result result : results) {
 //                String snippet;
@@ -128,23 +96,16 @@ public class DifferenceDetector implements Callable<List<Difference>> {
 //                        continue;
 //                    }
 //                }
-
-                retrievedDiffs.add(new Difference(
-                        diff.action,
-                        diff.text,
-                        diff.startIndex
-                ));
 //            }
 //            results.clear();
 //            results = null;
-        }
 
-        try {
-            parserPool.place(parser);
-        } catch (InterruptedException ex) {
-            logger.error(ex.getMessage(), ex);
-            return null;
-        }
+//        try {
+//            parserPool.place(parser);
+//        } catch (InterruptedException ex) {
+//            logger.error(ex.getMessage(), ex);
+//            return null;
+//        }
 
 //        ListIterator<MatchedDiff> it = retrievedDiffs.listIterator();
 //        int i = 1;

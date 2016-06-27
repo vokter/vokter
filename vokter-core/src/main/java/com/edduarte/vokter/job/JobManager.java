@@ -16,10 +16,13 @@
 
 package com.edduarte.vokter.job;
 
-import com.edduarte.vokter.model.mongodb.Difference;
+import com.edduarte.vokter.diff.DiffEvent;
+import com.edduarte.vokter.document.DocumentBuilder;
+import com.edduarte.vokter.model.mongodb.Document;
 import com.edduarte.vokter.model.mongodb.Keyword;
-import com.edduarte.vokter.model.v1.rest.SubscribeRequest;
-import com.edduarte.vokter.model.v2.Match;
+import com.edduarte.vokter.diff.Match;
+import com.edduarte.vokter.rest.model.Notification;
+import com.edduarte.vokter.model.mongodb.Session;
 import com.edduarte.vokter.util.Constants;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -27,17 +30,20 @@ import org.quartz.*;
 import org.quartz.impl.DirectSchedulerFactory;
 import org.quartz.impl.StdSchedulerFactory;
 import org.quartz.impl.matchers.GroupMatcher;
+import org.quartz.listeners.JobChainingJobListener;
 import org.quartz.simpl.SimpleThreadPool;
 import org.quartz.spi.JobStore;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import java.io.IOException;
-import java.io.OutputStream;
-import java.net.HttpURLConnection;
-import java.net.URL;
-import java.util.Calendar;
+import javax.ws.rs.client.ClientBuilder;
+import javax.ws.rs.client.Entity;
+import javax.ws.rs.core.MediaType;
+import javax.ws.rs.core.Response;
 import java.util.*;
+
+import static com.edduarte.vokter.diff.DiffEvent.deleted;
+import static com.edduarte.vokter.diff.DiffEvent.inserted;
 
 /**
  * @author Eduardo Duarte (<a href="mailto:hello@edduarte.com">hello@edduarte.com</a>)
@@ -56,29 +62,27 @@ public class JobManager {
 
     private final JobManagerHandler handler;
 
-    private final int detectionInterval;
-
     private Scheduler scheduler;
 
 
     private JobManager(final String managerName,
-                       int detectionInterval,
                        final JobManagerHandler handler) {
         this.managerName = managerName;
         this.handler = handler;
-        this.detectionInterval = detectionInterval;
     }
 
 
     public static JobManager create(final String managerName,
-                                    final int detectionInterval,
                                     final JobManagerHandler handler) {
         JobManager existingManager = get(managerName);
         if (existingManager != null) {
             existingManager.stop();
         }
 
-        JobManager newManager = new JobManager(managerName, detectionInterval, handler);
+        JobManager newManager = new JobManager(
+                managerName,
+                handler
+        );
         activeManagers.put(managerName, newManager);
         return newManager;
     }
@@ -97,7 +101,8 @@ public class JobManager {
     }
 
 
-    public void initialize(JobStore jobStore, int maxThreads) throws SchedulerException {
+    public void initialize(JobStore jobStore, int maxThreads)
+            throws SchedulerException {
         DirectSchedulerFactory factory = DirectSchedulerFactory.getInstance();
         factory.createScheduler(
                 SCHEDULER_NAME,
@@ -111,113 +116,330 @@ public class JobManager {
     }
 
 
-    public boolean createJob(final SubscribeRequest request) {
+    private static String detectJobGroup(String documentUrl,
+                                         String documentContentType) {
+        return "detect|" + documentUrl + "|" + documentContentType;
+    }
 
-        String documentUrl = request.getDocumentUrl();
-        String clientUrl = request.getClientUrl();
+
+    private static String matchJobName(String clientUrl,
+                                       String clientContentType) {
+        return clientUrl + "|" + clientContentType;
+    }
+
+
+    private static String matchJobGroup(String documentUrl,
+                                        String documentContentType) {
+        return "match|" + documentUrl + "|" + documentContentType;
+    }
+
+
+    private static String chainName(String documentUrl,
+                                    String documentContentType,
+                                    String clientUrl,
+                                    String clientContentType) {
+        return "chain|" +
+                documentUrl + "|" + documentContentType + "|" +
+                clientUrl + "|" + clientContentType;
+    }
+
+
+    private static JobKey detectJobKey(String documentUrl,
+                                       String documentContentType) {
+        return new JobKey(
+                documentContentType,
+                detectJobGroup(documentUrl, documentContentType)
+        );
+    }
+
+
+    private static TriggerKey detectTriggerKey(String documentUrl,
+                                               String documentContentType,
+                                               String clientUrl,
+                                               String clientContentType) {
+        return new TriggerKey(
+                clientUrl + "|" + clientContentType,
+                detectJobGroup(documentUrl, documentContentType)
+        );
+    }
+
+
+    private static JobKey matchJobKey(String documentUrl,
+                                      String documentContentType,
+                                      String clientUrl,
+                                      String clientContentType) {
+        return new JobKey(
+                matchJobName(clientUrl, clientContentType),
+                matchJobGroup(documentUrl, documentContentType)
+        );
+    }
+
+
+    //    private static TriggerKey matchTKey(String documentUrl,
+//                                        String documentContentType,
+//                                        String clientUrl,
+//                                        String clientContentType) {
+//        return new TriggerKey(clientUrl
+//                + "|" + clientContentType,
+//                "match|" + documentUrl
+//        );
+//    }
+
+
+    /**
+     * Simplified API
+     */
+    public boolean createJob(String documentUrl, String clientUrl,
+                             List<String> keywords, int interval) {
+        return createJob(
+                documentUrl, MediaType.TEXT_HTML,
+                clientUrl, MediaType.APPLICATION_JSON,
+                keywords, Arrays.asList(inserted, deleted),
+                true, true, true,
+                50, interval
+        );
+    }
+
+    /**
+     * Used for testing only.
+     */
+    boolean createJob(String documentUrl, String documentContentType,
+                      String clientUrl, String clientContentType,
+                      List<String> keywords, int interval) {
+        return createJob(
+                documentUrl, documentContentType,
+                clientUrl, clientContentType,
+                keywords, Arrays.asList(inserted, deleted),
+                true, true, true,
+                50, interval
+        );
+    }
+
+
+    public boolean createJob(
+            String documentUrl, String documentContentType,
+            String clientUrl, String clientContentType,
+            List<String> keywords, List<DiffEvent> events,
+            boolean filterStopwords, boolean enableStemming, boolean ignoreCase,
+            int snippetOffset, int interval) {
+
+        // test if the document is readable
+        Document d = DocumentBuilder
+                .fromUrl(documentUrl, documentContentType)
+                .build();
+        if (d == null) {
+            // not readable
+            return false;
+        }
 
         try {
-            // attempt creating a new DiffDetectorJob
-            JobDetail detectionJob = JobBuilder.newJob(DetectionJob.class)
-                    .withIdentity(documentUrl, "detection" + documentUrl)
-                    .usingJobData(DetectionJob.PARENT_JOB_MANAGER, managerName)
-                    .usingJobData(DetectionJob.FAULT_COUNTER, 0)
-                    .build();
+            // attempt to create a new detection job
+            JobKey detectJKey = detectJobKey(documentUrl, documentContentType);
+            if (scheduler.getJobDetail(detectJKey) == null) {
+                JobDetail detectionJob = JobBuilder.newJob(DiffDetectorJob.class)
+                        .withIdentity(detectJKey)
+                        .usingJobData(DiffDetectorJob.PARENT_JOB_MANAGER, managerName)
+                        .usingJobData(DiffDetectorJob.FAULT_COUNTER, 0)
+                        .usingJobData(DiffDetectorJob.URL, documentUrl)
+                        .usingJobData(DiffDetectorJob.CONTENT_TYPE, documentContentType)
+                        .storeDurably(true)
+                        .build();
 
-            Trigger detectionTrigger = TriggerBuilder.newTrigger()
-                    .withIdentity(documentUrl, "detection" + documentUrl)
-                    .withSchedule(SimpleScheduleBuilder.simpleSchedule()
-                            .withIntervalInSeconds(detectionInterval)
-                            .repeatForever())
-                    .build();
-
-            try {
-                scheduler.scheduleJob(detectionJob, detectionTrigger);
-                logger.info("Started detection job for '{}'.", documentUrl);
-            } catch (ObjectAlreadyExistsException ignored) {
-                // there is already a job monitoring the request url, so ignore this
+                try {
+                    scheduler.addJob(detectionJob, false);
+                    logger.info("Started detection job for document '{}' ({}).", documentUrl, documentContentType);
+                } catch (ObjectAlreadyExistsException ignored) {
+                    // there is already a job monitoring the specified document, so
+                    // ignore this
+                }
             }
 
             ObjectMapper mapper = new ObjectMapper();
-            String keywordJson = mapper.writeValueAsString(request.getKeywords());
+            String keywordJson = mapper.writeValueAsString(keywords);
+            String eventsJson = mapper.writeValueAsString(events);
 
-            JobDetail matchingJob = JobBuilder.newJob(MatchingJob.class)
-                    .withIdentity(clientUrl, "matching" + documentUrl)
-                    .usingJobData(MatchingJob.PARENT_JOB_MANAGER, managerName)
-                    .usingJobData(MatchingJob.REQUEST_URL, documentUrl)
-                    .usingJobData(MatchingJob.KEYWORDS, keywordJson)
-                    .usingJobData(MatchingJob.IGNORE_ADDED, request.getIgnoreAdded())
-                    .usingJobData(MatchingJob.IGNORE_REMOVED, request.getIgnoreRemoved())
-                    .usingJobData(MatchingJob.HAS_NEW_DIFFS, false)
+            // attempt to create a new matching job, chained to execute after
+            // the detection job
+            JobKey matchJKey = matchJobKey(
+                    documentUrl, documentContentType,
+                    clientUrl, clientContentType
+            );
+            if (scheduler.getJobDetail(matchJKey) != null) {
+                return false;
+            }
+            JobDetail matchingJob = JobBuilder.newJob(DiffMatcherJob.class)
+                    .withIdentity(matchJKey)
+                    .usingJobData(DiffMatcherJob.PARENT_JOB_MANAGER, managerName)
+                    .usingJobData(DiffMatcherJob.DOCUMENT_URL, documentUrl)
+                    .usingJobData(DiffMatcherJob.DOCUMENT_CONTENT_TYPE, documentContentType)
+                    .usingJobData(DiffMatcherJob.CLIENT_URL, clientUrl)
+                    .usingJobData(DiffMatcherJob.CLIENT_CONTENT_TYPE, clientContentType)
+                    .usingJobData(DiffMatcherJob.KEYWORDS, keywordJson)
+                    .usingJobData(DiffMatcherJob.EVENTS, eventsJson)
+                    .usingJobData(DiffMatcherJob.FILTER_STOPWORDS, filterStopwords)
+                    .usingJobData(DiffMatcherJob.ENABLE_STEMMING, enableStemming)
+                    .usingJobData(DiffMatcherJob.IGNORE_CASE, ignoreCase)
+                    .usingJobData(DiffMatcherJob.SNIPPET_OFFSET, snippetOffset)
+                    .usingJobData(DiffMatcherJob.HAS_NEW_DIFFS, false)
+                    .storeDurably(true)
                     .build();
 
-            GregorianCalendar cal = new GregorianCalendar();
-            cal.add(Calendar.SECOND, request.getInterval());
+//            GregorianCalendar cal = new GregorianCalendar();
+//            cal.add(Calendar.SECOND, request.getInterval());
+//
+//            Trigger matchingTrigger = TriggerBuilder.newTrigger()
+//                    .withIdentity(matchTKey)
+//                    .startAt(cal.getTime())
+//                    .withSchedule(SimpleScheduleBuilder.simpleSchedule()
+//                            .withIntervalInSeconds(request.getInterval())
+//                            .repeatForever())
+//                    .build();
 
-            Trigger matchingTrigger = TriggerBuilder.newTrigger()
-                    .withIdentity(clientUrl, "matching" + documentUrl)
-                    .startAt(cal.getTime())
+            try {
+                scheduler.addJob(matchingJob, false);
+                logger.info("Started matching job for document '{}' ({}) to client '{}' ({}).",
+                        documentUrl, documentContentType,
+                        clientUrl, clientContentType);
+            } catch (ObjectAlreadyExistsException ex) {
+                // there is already a matching job for the specified document,
+                // so return false which should be interpreted as "not created /
+                // already exists"
+                return false;
+            }
+
+
+            // attempt to create a new detection trigger that uses the interval
+            // specified by the client
+            TriggerKey detectTKey = detectTriggerKey(
+                    documentUrl, documentContentType,
+                    clientUrl, clientContentType
+            );
+            Trigger detectionTrigger = TriggerBuilder.newTrigger()
+                    .forJob(detectJKey)
+                    .withIdentity(detectTKey)
                     .withSchedule(SimpleScheduleBuilder.simpleSchedule()
-                            .withIntervalInSeconds(request.getInterval())
+                            .withIntervalInSeconds(interval)
                             .repeatForever())
                     .build();
 
             try {
-                scheduler.scheduleJob(matchingJob, matchingTrigger);
-            } catch (ObjectAlreadyExistsException ex) {
-                return false;
+                scheduler.scheduleJob(detectionTrigger);
+                logger.info("Started detection trigger for document '{}' ({}) to client '{}' ({}), with interval {}.",
+                        documentUrl, documentContentType,
+                        clientUrl, clientContentType,
+                        interval);
+            } catch (ObjectAlreadyExistsException ignored) {
+                // there is already trigger for the specified document and for
+                // the specified client, so ignore this
             }
+
+            JobChainingJobListener chain = new JobChainingJobListener(chainName(
+                    documentUrl, documentContentType,
+                    clientUrl, clientContentType
+            ));
+            chain.addJobChainLink(detectJKey, matchJKey);
+            scheduler.getListenerManager().addJobListener(chain);
 
         } catch (SchedulerException | JsonProcessingException ex) {
             logger.error(ex.getMessage(), ex);
+            return false;
         }
 
         return true;
     }
 
 
-    void timeoutDetectionJob(String documentUrl) {
+    void timeoutDetectionJob(String documentUrl, String documentContentType) {
         try {
-            Set<JobKey> keys = scheduler.getJobKeys(GroupMatcher.groupEquals("matching" + documentUrl));
+            Set<JobKey> keys = scheduler.getJobKeys(
+                    GroupMatcher.groupEquals(matchJobGroup(documentUrl, documentContentType)));
             for (JobKey k : keys) {
-                String clientUrl = k.getName();
-                sendTimeoutResponse(documentUrl, clientUrl);
+                JobDetail detail = scheduler.getJobDetail(k);
+                JobDataMap m = detail.getJobDataMap();
+                String clientUrl = m.getString(DiffMatcherJob.CLIENT_URL);
+                String clientContentType = m.getString(DiffMatcherJob.CLIENT_CONTENT_TYPE);
+
+                scheduler.getListenerManager().removeJobListener(chainName(
+                        documentUrl, documentContentType,
+                        clientUrl, clientContentType
+                ));
+                sendTimeoutResponse(
+                        documentUrl, documentContentType,
+                        clientUrl, clientContentType
+                );
                 scheduler.interrupt(k);
                 scheduler.deleteJob(k);
+                logger.info("Timed out matching job for document '{}' ({}) to client '{}' ({}).", documentUrl, documentContentType, clientUrl, clientContentType);
             }
 
-            JobKey detectJobKey = new JobKey(documentUrl, "detection" + documentUrl);
+            JobKey detectJobKey = detectJobKey(documentUrl, documentContentType);
             scheduler.interrupt(detectJobKey);
             scheduler.deleteJob(detectJobKey);
-            handler.removeExistingDifferences(documentUrl);
-            logger.info("Timed-out detection job for '{}'.", documentUrl);
+            handler.removeExistingDifferences(documentUrl, documentContentType);
+            logger.info("Timed out detection job for document '{}' ({}).", documentUrl, documentContentType);
         } catch (SchedulerException | JsonProcessingException ex) {
             logger.error(ex.getMessage(), ex);
         }
     }
 
 
-    public boolean cancelMatchingJob(String documentUrl, final String clientUrl) {
-        JobKey matchingJobKey = new JobKey(clientUrl, "matching" + documentUrl);
-        return cancelMatchingJobAux(documentUrl, matchingJobKey);
+    public boolean cancelMatchingJob(String documentUrl,
+                                     String clientUrl) {
+        return cancelMatchingJob(documentUrl, null,
+                clientUrl, MediaType.APPLICATION_JSON);
     }
 
-    private boolean cancelMatchingJobAux(String documentUrl, JobKey jobKey) {
+
+    public boolean cancelMatchingJob(String documentUrl,
+                                     String documentContentType,
+                                     String clientUrl,
+                                     String clientContentType) {
+        JobKey jobKey = matchJobKey(
+                documentUrl, documentContentType,
+                clientUrl, clientContentType
+        );
+
         try {
-            scheduler.interrupt(jobKey);
-            boolean wasDeleted = scheduler.deleteJob(jobKey);
+            boolean wasDeleted = false;
+            try {
+                scheduler.interrupt(jobKey);
+                wasDeleted = scheduler.deleteJob(jobKey);
+                logger.info("Canceled matching job " +
+                                "for document '{}' ({}) " +
+                                "to client '{}' ({}).",
+                        documentUrl, documentContentType,
+                        clientUrl, clientContentType
+                );
+            } catch (JobPersistenceException ex){
+                // job was already deleted
+                wasDeleted = true;
+            }
 
             if (wasDeleted) {
-                // check if there are more match jobs for the same request url
-                Set<JobKey> keys = scheduler.getJobKeys(GroupMatcher.groupEquals("matching" + documentUrl));
+                // check if there are more match jobs for the same document
+                Set<JobKey> keys = scheduler.getJobKeys(GroupMatcher.groupEquals(
+                        matchJobGroup(documentUrl, documentContentType)
+                ));
                 if (keys.isEmpty()) {
                     // no more matching jobs for this document! interrupt the
-                    // DiffDetectJob
-                    JobKey detectJobKey = new JobKey(documentUrl, "detection" + documentUrl);
+                    // detection job
+                    JobKey detectJobKey =
+                            detectJobKey(documentUrl, documentContentType);
                     scheduler.interrupt(detectJobKey);
                     scheduler.deleteJob(detectJobKey);
-                    handler.removeExistingDifferences(documentUrl);
-                    logger.info("Canceled detection job for '{}'.", documentUrl);
+                    handler.removeExistingDifferences(
+                            documentUrl, documentContentType);
+                    logger.info("Canceled detection job for document '{}' ({}).", documentUrl, documentContentType);
+                }
+
+                // check if there are more match jobs for the same client
+                keys = scheduler.getJobKeys(GroupMatcher.anyGroup());
+                boolean hasMatchingJob = keys.parallelStream()
+                        .anyMatch(k -> k.getName().equals(matchJobName(clientUrl, clientContentType)));
+
+                if (!hasMatchingJob) {
+                    // no more match jobs for this client, so remove the session
+                    handler.removeSession(clientUrl, clientContentType);
                 }
             }
 
@@ -239,115 +461,175 @@ public class JobManager {
     }
 
 
-    final boolean callDetectDiffImpl(String documentUrl) {
-        boolean wasSuccessful = handler.detectDifferences(documentUrl);
+    final boolean callDetectDiffImpl(String documentUrl,
+                                     String documentContentType) {
 
-        // notify all matching jobs of that url that there are new differences to match
-        if (wasSuccessful) {
+        JobManagerHandler.DetectResult result =
+                handler.detectDifferences(documentUrl, documentContentType);
+
+        // notify all matching jobs of that url that there are new differences
+        // to match
+        if (result.wasSuccessful() && result.hasNewDiffs()) {
             try {
-                Set<JobKey> keys = scheduler.getJobKeys(GroupMatcher.groupEquals("matching" + documentUrl));
+                Set<JobKey> keys = scheduler.getJobKeys(GroupMatcher.groupEquals(
+                        matchJobGroup(documentUrl, documentContentType)
+                ));
                 for (JobKey k : keys) {
-                    JobDetail jobDetail = scheduler.getJobDetail(k);
-                    List<? extends Trigger> triggerList = scheduler.getTriggersOfJob(k);
-                    if (!triggerList.isEmpty()) {
-                        Trigger trigger = triggerList.get(0);
+                    JobDetail detail = scheduler.getJobDetail(k);
+//                    List<? extends Trigger> triggerList =
+//                            scheduler.getTriggersOfJob(k);
+//                    if (!triggerList.isEmpty()) {
+//                        Trigger trigger = triggerList.get(0);
 
-                        // update job to say that he has new diffs
-                        JobDataMap dataMap = jobDetail.getJobDataMap();
-                        dataMap.put(MatchingJob.HAS_NEW_DIFFS, true);
-
-                        attemptRefreshJob(jobDetail, trigger, 10);
-
-                    } else {
-                        // invalid state, where there is still an active job
-                        // without triggers
-                        // unschedule it!
-                        cancelMatchingJobAux(documentUrl, k);
-                    }
+                    // update job to say that he has new diffs
+                    attemptRefreshMatchingJob(detail, 10);
+//
+//                    } else {
+//                        // invalid state, where there is still an active job
+//                        // without triggers
+//                        // unschedule it!
+//                        cancelMatchingJobAux(documentUrl, documentContentType, k);
+//                    }
                 }
             } catch (SchedulerException ex) {
                 logger.error(ex.getMessage(), ex);
             }
         }
 
-        return wasSuccessful;
+        return result.wasSuccessful();
     }
 
 
-    private void attemptRefreshJob(JobDetail jobDetail, Trigger trigger, int tries) {
-        if (tries > 0) {
+    private void attemptRefreshMatchingJob(JobDetail detail, int attemptsLeft) {
+        if (attemptsLeft > 0) {
             try {
-                scheduler.unscheduleJob(trigger.getKey());
-                scheduler.scheduleJob(jobDetail, trigger);
+                JobDataMap m = detail.getJobDataMap();
+                JobDetail matchingJob = JobBuilder.newJob(DiffMatcherJob.class)
+                        .withIdentity(detail.getKey())
+                        .usingJobData(DiffMatcherJob.PARENT_JOB_MANAGER, managerName)
+                        .usingJobData(DiffMatcherJob.DOCUMENT_URL, m.getString(DiffMatcherJob.DOCUMENT_URL))
+                        .usingJobData(DiffMatcherJob.DOCUMENT_CONTENT_TYPE, m.getString(DiffMatcherJob.DOCUMENT_CONTENT_TYPE))
+                        .usingJobData(DiffMatcherJob.CLIENT_URL, m.getString(DiffMatcherJob.CLIENT_URL))
+                        .usingJobData(DiffMatcherJob.CLIENT_CONTENT_TYPE, m.getString(DiffMatcherJob.CLIENT_CONTENT_TYPE))
+                        .usingJobData(DiffMatcherJob.KEYWORDS, m.getString(DiffMatcherJob.KEYWORDS))
+                        .usingJobData(DiffMatcherJob.EVENTS, m.getString(DiffMatcherJob.EVENTS))
+                        .usingJobData(DiffMatcherJob.FILTER_STOPWORDS, m.getBoolean(DiffMatcherJob.FILTER_STOPWORDS))
+                        .usingJobData(DiffMatcherJob.ENABLE_STEMMING, m.getBoolean(DiffMatcherJob.ENABLE_STEMMING))
+                        .usingJobData(DiffMatcherJob.IGNORE_CASE, m.getBoolean(DiffMatcherJob.IGNORE_CASE))
+                        .usingJobData(DiffMatcherJob.SNIPPET_OFFSET, m.getInt(DiffMatcherJob.SNIPPET_OFFSET))
+                        .usingJobData(DiffMatcherJob.HAS_NEW_DIFFS, true)
+                        .storeDurably(true)
+                        .build();
+
+                scheduler.addJob(matchingJob, true);
+
             } catch (SchedulerException ignored) {
-                // could not refresh job because the it did not unschedule properly
-                int newCount = tries - 1;
-                logger.info("Error while refreshing job, attempting " + newCount + " more times.");
-                attemptRefreshJob(jobDetail, trigger, newCount);
+                // could not refresh job because the it did not unschedule
+                // properly
+                logger.info(ignored.toString());
+                int newCount = attemptsLeft - 1;
+                logger.info("Error while refreshing job, attempting "
+                        + newCount + " more times.");
+                attemptRefreshMatchingJob(detail, newCount);
             }
         }
     }
 
 
-    final List<Difference> callGetDiffsImpl(String url) {
-        return handler.getExistingDifferences(url);
+    final Set<Match> callGetMatchesImpl(String documentUrl,
+                                        String documentContentType,
+                                        List<Keyword> keywords,
+                                        boolean filterStopwords,
+                                        boolean enableStemming,
+                                        boolean ignoreCase,
+                                        boolean ignoreAdded,
+                                        boolean ignoreRemoved,
+                                        int snippetOffset) {
+        return handler.matchDifferences(
+                documentUrl,
+                documentContentType,
+                keywords,
+                filterStopwords,
+                enableStemming,
+                ignoreCase,
+                ignoreAdded,
+                ignoreRemoved,
+                snippetOffset
+        );
     }
 
 
-    final Keyword callBuildKeyword(String keywordInput) {
-        return handler.buildKeyword(keywordInput);
+    final Keyword callBuildKeyword(String keywordInput,
+                                   boolean isStoppingEnabled,
+                                   boolean isStemmingEnabled,
+                                   boolean ignoreCase) {
+        return handler.buildKeyword(
+                keywordInput, isStoppingEnabled, isStemmingEnabled, ignoreCase);
     }
 
 
     final boolean responseOk(final String documentUrl,
+                             final String documentContentType,
                              final String clientUrl,
+                             final String clientContentType,
                              final Set<Match> diffs)
             throws JsonProcessingException {
-        Map<String, Object> jsonResponseMap = new LinkedHashMap<>();
-        jsonResponseMap.put("status", "ok");
-        jsonResponseMap.put("url", documentUrl);
-        jsonResponseMap.put("diffs", diffs);
+        Session session = handler.createOrGetSession(clientUrl, clientContentType);
 
-        ObjectMapper mapper = new ObjectMapper();
-        String input = mapper.writeValueAsString(jsonResponseMap);
-        return sendResponse(clientUrl, input);
+        Response response = ClientBuilder.newClient()
+                .target(clientUrl)
+                .request(clientContentType)
+                .header("Authorization", session.getToken())
+                .post(Entity.entity(
+                        Notification.ok(documentUrl, documentContentType, diffs),
+                        clientContentType
+                ));
+
+        return response.getStatus() == 200;
     }
 
 
     final boolean sendTimeoutResponse(final String documentUrl,
-                                      final String clientUrl)
+                                      final String documentContentType,
+                                      final String clientUrl,
+                                      final String clientContentType)
             throws JsonProcessingException {
-        Map<String, Object> jsonResponseMap = new LinkedHashMap<>();
-        jsonResponseMap.put("status", "timeout");
-        jsonResponseMap.put("url", documentUrl);
-        jsonResponseMap.put("diffs", Collections.emptySet());
+        Session session = handler.createOrGetSession(clientUrl, clientContentType);
 
-        ObjectMapper mapper = new ObjectMapper();
-        String input = mapper.writeValueAsString(jsonResponseMap);
-        return sendResponse(clientUrl, input);
+        Response response = ClientBuilder.newClient()
+                .target(clientUrl)
+                .request(clientContentType)
+                .header("Authorization", session.getToken())
+                .post(Entity.entity(
+                        Notification.timeout(documentUrl, documentContentType),
+                        clientContentType
+                ));
+
+        return response.getStatus() == 200;
     }
 
 
-    private boolean sendResponse(final String clientUrl, final String input) {
-        try {
-            URL targetUrl = new URL(clientUrl);
-
-            HttpURLConnection httpConnection = (HttpURLConnection) targetUrl.openConnection();
-            httpConnection.setDoOutput(true);
-            httpConnection.setRequestMethod("POST");
-            httpConnection.setRequestProperty("Content-Type", "application/json");
-
-            OutputStream outputStream = httpConnection.getOutputStream();
-            outputStream.write(input.getBytes());
-            outputStream.flush();
-
-            int responseCode = httpConnection.getResponseCode();
-            httpConnection.disconnect();
-            return responseCode == 200;
-
-        } catch (IOException ex) {
-            logger.error(ex.getMessage(), ex);
-        }
-        return false;
-    }
+//    private boolean sendResponse(final String clientUrl, final String input) {
+//        try {
+//            URL targetUrl = new URL(clientUrl);
+//
+//            HttpURLConnection httpConnection =
+//                    (HttpURLConnection) targetUrl.openConnection();
+//            httpConnection.setDoOutput(true);
+//            httpConnection.setRequestMethod("POST");
+//            httpConnection.setRequestProperty("Content-Type", "application/json");
+//
+//            OutputStream outputStream = httpConnection.getOutputStream();
+//            outputStream.write(input.getBytes());
+//            outputStream.flush();
+//
+//            int responseCode = httpConnection.getResponseCode();
+//            httpConnection.disconnect();
+//            return responseCode == 200;
+//
+//        } catch (IOException ex) {
+//            logger.error(ex.getMessage(), ex);
+//        }
+//        return false;
+//    }
 }

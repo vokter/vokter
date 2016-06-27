@@ -27,6 +27,7 @@ import org.junit.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import javax.ws.rs.core.MediaType;
 import java.io.IOException;
 
 import static org.junit.Assert.assertNotNull;
@@ -45,10 +46,6 @@ public class DocumentCollectionTest {
 
     private static DB documentsDB;
 
-    private static DB occurrencesDB;
-
-    private static ParserPool parserPool;
-
     private static DocumentCollection collection;
 
 
@@ -56,11 +53,7 @@ public class DocumentCollectionTest {
     public static void setUp() throws IOException, InterruptedException {
         mongoClient = new MongoClient("localhost", 27017);
         documentsDB = mongoClient.getDB("test_documents_db");
-        occurrencesDB = mongoClient.getDB("test_terms_db");
-        parserPool = new ParserPool();
-        parserPool.place(new SimpleParser());
-        parserPool.place(new SimpleParser());
-        collection = new DocumentCollection("test_collection", documentsDB, occurrencesDB);
+        collection = new DocumentCollection("test_collection", documentsDB);
     }
 
 
@@ -68,7 +61,6 @@ public class DocumentCollectionTest {
     public static void close() {
         collection.destroy();
         documentsDB.dropDatabase();
-        occurrencesDB.dropDatabase();
         mongoClient.close();
     }
 
@@ -76,21 +68,21 @@ public class DocumentCollectionTest {
     @Test
     public void test() {
         String url = "https://en.wikipedia.org/wiki/Argus_Panoptes";
-        
-        assertNull(collection.get(url));
+
+        assertNull(collection.get(url, MediaType.TEXT_HTML));
 
         // testing add
         Document d = DocumentBuilder
-                .fromUrl(url)
-                .ignoreCase()
-                .withStopwords()
-                .withStemming()
-                .build(occurrencesDB, parserPool);
+                .fromUrl(url, null)
+                .build();
+        logger.info("{}", d);
         collection.add(d);
-        assertNotNull(collection.get(url));
+        DocumentPair pair = collection.get(url, MediaType.TEXT_HTML);
+        logger.info("{}", pair);
+        assertNotNull(pair);
 
         // testing remove
-        collection.remove(url);
-        assertNull(collection.get(url));
+        collection.remove(url, MediaType.TEXT_HTML);
+        assertNull(collection.get(url, MediaType.TEXT_HTML));
     }
 }

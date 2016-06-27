@@ -148,10 +148,10 @@ public class KeywordPipeline implements Callable<Keyword> {
 
         // create a temporary in-memory term structure and converts parser results
         // into Term objects
-        final Set<String> terms = new LinkedHashSet<>();
+        final Set<MutableString> terms = new LinkedHashSet<>();
         for (Parser.Result r : results) {
             MutableString termText = r.text;
-            terms.add(termText.toString());
+            terms.add(termText);
         }
         results.clear();
         results = null;

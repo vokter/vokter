@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.edduarte.vokter.model;
+package com.edduarte.vokter.rest.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

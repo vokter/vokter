@@ -16,7 +16,7 @@
 
 package com.edduarte.vokter.model.mongodb;
 
-import com.edduarte.vokter.diff.DifferenceEvent;
+import com.edduarte.vokter.diff.DiffEvent;
 import com.mongodb.BasicDBObject;
 import com.mongodb.DBObject;
 
@@ -29,7 +29,7 @@ import java.io.Serializable;
  * @version 1.3.2
  * @since 1.0.0
  */
-public class Difference extends BasicDBObject implements Serializable {
+public class Diff extends BasicDBObject implements Serializable {
 
     public static final String DIFF_EVENT = "diff_event";
 
@@ -37,19 +37,22 @@ public class Difference extends BasicDBObject implements Serializable {
 
     public static final String START_INDEX = "start_index";
 
+    public static final String END_INDEX = "end_index";
+
     private static final long serialVersionUID = 1L;
 
 
-    public Difference(final DifferenceEvent action,
-                      final String occurrenceText,
-                      final int startIndex) {
+    public Diff(final DiffEvent action,
+                final String occurrenceText,
+                final int startIndex) {
         super(DIFF_EVENT, action.toString());
         append(TEXT, occurrenceText);
         append(START_INDEX, startIndex);
+        append(END_INDEX, startIndex + occurrenceText.length());
     }
 
 
-    public Difference(DBObject mongoObject) {
+    public Diff(DBObject mongoObject) {
         super(mongoObject.toMap());
     }
 
@@ -57,9 +60,9 @@ public class Difference extends BasicDBObject implements Serializable {
     /**
      * Returns the status of this difference.
      */
-    public DifferenceEvent getEvent() {
+    public DiffEvent getEvent() {
         String event = getString(DIFF_EVENT);
-        return DifferenceEvent.valueOf(event);
+        return DiffEvent.valueOf(event);
     }
 
 
@@ -73,5 +76,10 @@ public class Difference extends BasicDBObject implements Serializable {
 
     public int getStartIndex() {
         return getInt(START_INDEX);
+    }
+
+
+    public int getEndIndex() {
+        return getInt(END_INDEX);
     }
 }

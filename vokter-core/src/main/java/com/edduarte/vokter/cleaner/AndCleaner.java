@@ -19,7 +19,8 @@ package com.edduarte.vokter.cleaner;
 import it.unimi.dsi.lang.MutableString;
 
 /**
- * Utility Cleaner implementation that concatenates two Cleaner classes.
+ * Utility Cleaner implementation that concatenates two Cleaner classes into a
+ * single reference.
  *
  * @author Eduardo Duarte (<a href="mailto:hello@edduarte.com">hello@edduarte.com</a>)
  * @version 1.3.2

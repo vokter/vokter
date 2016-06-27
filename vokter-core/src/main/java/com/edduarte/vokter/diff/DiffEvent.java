@@ -32,6 +32,6 @@ package com.edduarte.vokter.diff;
  * @version 1.3.2
  * @since 1.0.0
  */
-public enum DifferenceEvent {
+public enum DiffEvent {
     inserted, deleted, nothing
 }

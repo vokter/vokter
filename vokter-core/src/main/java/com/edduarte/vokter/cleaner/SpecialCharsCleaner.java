@@ -21,12 +21,12 @@ import it.unimi.dsi.lang.MutableString;
 /**
  * Simple cleaner class that filters some common special, non-informative
  * characters. The filtered characters are replaced by whitespaces (optimizing
- * the Tokenizer results).
+ * SimpleParser results).
  * <p>
- * As a rule, this clean will only clear characters that do not provide much
- * information on their own, like quotation-marks and bullet-points, for example.
- * This clean, however, will NOT clean characters that provide mathematical
- * information, like ½, π, µ and φ.
+ * As a rule, this cleaner will only clear characters that do not provide much
+ * information on their own, like quotation-marks and bullet-points, for
+ * example. This cleaner, however, will NOT clean characters that provide
+ * mathematical information, like ½, π, µ and φ.
  *
  * @author Eduardo Duarte (<a href="mailto:hello@edduarte.com">hello@edduarte.com</a>)
  * @version 1.3.2

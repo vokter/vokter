@@ -20,7 +20,6 @@ import org.quartz.InterruptableJob;
 import org.quartz.JobDataMap;
 import org.quartz.JobExecutionContext;
 import org.quartz.JobExecutionException;
-import org.quartz.JobKey;
 import org.quartz.PersistJobDataAfterExecution;
 import org.quartz.UnableToInterruptJobException;
 
@@ -30,11 +29,15 @@ import org.quartz.UnableToInterruptJobException;
  * @since 1.0.0
  */
 @PersistJobDataAfterExecution
-public class DetectionJob implements InterruptableJob {
+public class DiffDetectorJob implements InterruptableJob {
 
     public static final String PARENT_JOB_MANAGER = "parent_job_manager";
 
     public static final String FAULT_COUNTER = "fault_counter";
+
+    public static final String URL = "url";
+
+    public static final String CONTENT_TYPE = "content_type";
 
     private static final long FAULT_TOLERANCE = 10;
 
@@ -43,24 +46,25 @@ public class DetectionJob implements InterruptableJob {
     public void execute(JobExecutionContext context)
             throws JobExecutionException {
 
-        JobKey key = context.getJobDetail().getKey();
-        String documentUrl = key.getName();
+//        JobKey key = context.getJobDetail().getKey();
         JobDataMap dataMap = context.getJobDetail().getJobDataMap();
 
+        String documentUrl = dataMap.getString(URL);
+        String contentType = dataMap.getString(CONTENT_TYPE);
         String managerName = dataMap.getString(PARENT_JOB_MANAGER);
         JobManager manager = JobManager.get(managerName);
         if (manager == null) {
             return;
         }
-        boolean wasSuccessful = manager.callDetectDiffImpl(documentUrl);
+        boolean wasSuccessful = manager.callDetectDiffImpl(documentUrl, contentType);
 
         int faultCounter = (int) dataMap.getOrDefault(FAULT_COUNTER, 0);
         faultCounter = wasSuccessful ? 0 : (faultCounter + 1);
         dataMap.put(FAULT_COUNTER, faultCounter);
 
         if (faultCounter >= FAULT_TOLERANCE) {
-            // exceeded fault tolerance, so cancel this job and notify matcher jobs
-            manager.timeoutDetectionJob(documentUrl);
+            // exceeded fault tolerance, so cancel this job and notify clients
+            manager.timeoutDetectionJob(documentUrl, contentType);
         }
     }
 

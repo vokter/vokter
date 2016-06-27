@@ -16,8 +16,12 @@
 
 package com.edduarte.vokter;
 
-import com.edduarte.vokter.model.mongodb.Difference;
-import com.edduarte.vokter.diff.DifferenceDetector;
+import com.edduarte.vokter.diff.DiffEvent;
+import com.edduarte.vokter.diff.DiffMatcher;
+import com.edduarte.vokter.diff.Match;
+import com.edduarte.vokter.document.DocumentPair;
+import com.edduarte.vokter.model.mongodb.Diff;
+import com.edduarte.vokter.diff.DiffDetector;
 import com.edduarte.vokter.model.mongodb.Document;
 import com.edduarte.vokter.document.DocumentBuilder;
 import com.edduarte.vokter.document.DocumentCollection;
@@ -28,10 +32,13 @@ import com.edduarte.vokter.keyword.KeywordBuilder;
 import com.edduarte.vokter.parser.Parser;
 import com.edduarte.vokter.parser.ParserPool;
 import com.edduarte.vokter.parser.SimpleParser;
-import com.edduarte.vokter.model.v1.rest.SubscribeRequest;
+import com.edduarte.vokter.model.mongodb.Session;
+import com.edduarte.vokter.util.Constants;
+import com.mongodb.BasicDBObject;
 import com.mongodb.BulkWriteOperation;
 import com.mongodb.DB;
 import com.mongodb.DBCollection;
+import com.mongodb.DBCursor;
 import com.mongodb.DBObject;
 import com.mongodb.MongoClient;
 import com.optimaize.langdetect.LanguageDetector;
@@ -50,7 +57,9 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import java.security.ProtectionDomain;
+import java.util.Collections;
 import java.util.List;
+import java.util.Set;
 import java.util.stream.Collectors;
 import java.util.stream.StreamSupport;
 
@@ -66,7 +75,9 @@ public class Context implements LifeCycle.Listener, JobManagerHandler {
 
     private static final String DOCUMENTS_DB = "vokter_documents_db";
 
-    private static final String OCCURRENCES_DB = "vokter_occurrences_db";
+    private static final String SESSIONS_DB = "vokter_sessions_db";
+
+    private static final String SESSIONS_COLLECTION = "vokter_sessions_collection";
 
     private static final String DIFFERENCES_DB = "vokter_differences_db";
 
@@ -108,9 +119,9 @@ public class Context implements LifeCycle.Listener, JobManagerHandler {
     private DB documentsDB;
 
     /**
-     * The MongoDB database for parsed occurrences for each document.
+     * The MongoDB database for client url to token pairings.
      */
-    private DB occurrencesDB;
+    private DB sessionsDB;
 
     /**
      * The MongoDB database for detected differences between snapshots for
@@ -153,7 +164,7 @@ public class Context implements LifeCycle.Listener, JobManagerHandler {
     private Context() throws Exception {
         super();
         initialized = false;
-        jobManager = JobManager.create("vokter_job_manager", 420, this);
+        jobManager = JobManager.create("vokter_job_manager", this);
         parserPool = new ParserPool();
     }
 
@@ -163,13 +174,81 @@ public class Context implements LifeCycle.Listener, JobManagerHandler {
     }
 
 
-    public boolean createJob(final SubscribeRequest request) {
-        return jobManager.createJob(request);
+    @Override
+    public Session createOrGetSession(String clientUrl, String clientContentType) {
+        DBCollection collection = documentsDB.getCollection(SESSIONS_COLLECTION);
+
+        DBObject obj = collection.findOne(
+                new BasicDBObject(Session.CLIENT_URL, clientUrl)
+                          .append(Session.CLIENT_CONTENT_TYPE, clientContentType));
+        if (obj == null) {
+            // there is no session for this client, so create one
+            String token = Constants.bytesToHex(Constants.generateRandomBytes());
+            Session s = new Session(clientUrl, clientContentType, token);
+            collection.insert(s);
+            return s;
+        } else {
+            return new Session((BasicDBObject) obj);
+        }
     }
 
 
-    public boolean cancelJob(String documentUrl, final String clientUrl) {
-        return jobManager.cancelMatchingJob(documentUrl, clientUrl);
+    @Override
+    public void removeSession(String clientUrl, String clientContentType) {
+        DBCollection collection = documentsDB.getCollection(SESSIONS_COLLECTION);
+        DBObject obj = collection.findOne(
+                new BasicDBObject(Session.CLIENT_URL, clientUrl)
+                        .append(Session.CLIENT_CONTENT_TYPE, clientContentType));
+        if (obj != null) {
+            Session s = new Session((BasicDBObject) obj);
+            collection.remove(s);
+        }
+    }
+
+
+    @Override
+    public Session validateToken(String clientUrl, String clientContentType, String token) {
+        DBCollection collection = documentsDB.getCollection(SESSIONS_COLLECTION);
+
+        DBObject obj = collection.findOne(
+                new BasicDBObject(Session.CLIENT_URL, clientUrl)
+                        .append(Session.CLIENT_CONTENT_TYPE, clientContentType)
+                        .append(Session.TOKEN, token));
+        if (obj == null) {
+            return null;
+        } else {
+            return new Session((BasicDBObject) obj);
+        }
+    }
+
+
+    public Session createJob(
+            String documentUrl, String documentContentType,
+            String clientUrl, String clientContentType,
+            List<String> keywords, List<DiffEvent> events,
+            boolean filterStopwords, boolean enableStemming, boolean ignoreCase,
+            int snippetOffset, int interval) {
+        boolean created = jobManager.createJob(
+                documentUrl, documentContentType,
+                clientUrl, clientContentType,
+                keywords, events,
+                filterStopwords, enableStemming, ignoreCase,
+                snippetOffset, interval
+        );
+        if (created) {
+            return createOrGetSession(clientUrl, clientContentType);
+        } else {
+            return null;
+        }
+    }
+
+
+    public boolean cancelJob(String documentUrl, String documentContentType,
+                             String clientUrl, String clientContentType) {
+        return jobManager.cancelMatchingJob(
+                documentUrl, documentContentType,
+                clientUrl, clientContentType
+        );
     }
 
 
@@ -180,43 +259,52 @@ public class Context implements LifeCycle.Listener, JobManagerHandler {
      * jobs.
      */
     @Override
-    public boolean detectDifferences(String url) {
+    public DetectResult detectDifferences(String url, String contentType) {
 
         // create a new document snapshot for the provided url
-        DocumentBuilder builder = DocumentBuilder
-                .fromUrl(url)
-                .withLanguageDetector(langDetector);
+//        DocumentBuilder builder = DocumentBuilder
+//                .fromUrl(url)
+//                .withLanguageDetector(langDetector);
 
-        if (isStoppingEnabled) {
-            builder.withStopwords();
-        }
-        if (isStemmingEnabled) {
-            builder.withStemming();
-        }
-        if (ignoreCase) {
-            builder.ignoreCase();
-        }
-        Document newDocument = builder.build(occurrencesDB, parserPool);
+//        if (isStoppingEnabled) {
+//            builder.withStopwords();
+//        }
+//        if (isStemmingEnabled) {
+//            builder.withStemming();
+//        }
+//        if (ignoreCase) {
+//            builder.ignoreCase();
+//        }
+        Document newDocument = DocumentBuilder
+                .fromUrl(url, contentType)
+                .build();
+        logger.info("{}", newDocument);
         if (newDocument == null) {
             // A problem occurred during processing, mostly during the fetching phase.
             // This could happen if the page was unavailable at the time.
-            return false;
+            return new DetectResult(false, false);
         }
 
-        // check if there is a older document in the collection
-        Document oldDocument = collection.get(url);
+        boolean hasNewDiffs = false;
 
-        if (oldDocument != null) {
+        // check if there is a older document in the collection
+        DocumentPair pair = collection.get(url, contentType);
+
+        if (pair != null) {
             // there was already a document for this url on the collection, so
             // detect differences between them and add them to the differences
             // database
-            DifferenceDetector detector = new DifferenceDetector(oldDocument, newDocument, parserPool);
-            List<Difference> results = detector.call();
+            Document oldDocument = pair.latest();
+            logger.info("{}", oldDocument);
+            DiffDetector detector = new DiffDetector(oldDocument, newDocument);
+            List<Diff> results = detector.call();
+            hasNewDiffs = !results.isEmpty();
 
-            removeExistingDifferences(url);
-            DBCollection diffColl = differencesDB.getCollection(url);
+            removeExistingDifferences(url, contentType);
+            DBCollection diffColl = differencesDB.getCollection(
+                    getDiffCollectionName(url, contentType));
 
-            if (!results.isEmpty()) {
+            if (hasNewDiffs) {
                 BulkWriteOperation bulkOp = diffColl.initializeUnorderedBulkOperation();
                 results.forEach(bulkOp::insert);
                 bulkOp.execute();
@@ -225,24 +313,52 @@ public class Context implements LifeCycle.Listener, JobManagerHandler {
             }
         }
 
-        // replace the old document in the collection with the new one
-        collection.remove(url);
+        // remove the oldest document with this url and content type and add the
+        // new one to the collection
         collection.add(newDocument);
 
-        return true;
+        return new DetectResult(true, hasNewDiffs);
     }
 
 
-    /**
-     * Collects the existing differences that were stored in the database.
-     */
+    private static String getDiffCollectionName(String url, String contentType) {
+        return url + "|" + contentType;
+    }
+
+
     @Override
-    public List<Difference> getExistingDifferences(String url) {
-        DBCollection diffColl = differencesDB.getCollection(url);
+    public Set<Match> matchDifferences(
+            String documentUrl, String documentContentType,
+            List<Keyword> keywords,
+            boolean filterStopwords, boolean enableStemming, boolean ignoreCase,
+            boolean ignoreAdded, boolean ignoreRemoved,
+            int snippetOffset) {
+        DBCollection diffColl = differencesDB.getCollection(
+                getDiffCollectionName(documentUrl, documentContentType));
         Iterable<DBObject> cursor = diffColl.find();
-        return StreamSupport.stream(cursor.spliterator(), true)
-                .map(Difference::new)
+        List<Diff> diffs = StreamSupport.stream(cursor.spliterator(), true)
+                .map(Diff::new)
                 .collect(Collectors.toList());
+
+        DocumentPair pair = collection.get(documentUrl, documentContentType);
+        if (pair != null) {
+            String oldText = pair.oldest().getText();
+            String newText = pair.latest().getText();
+            DiffMatcher matcher = new DiffMatcher(
+                    oldText, newText,
+                    keywords, diffs, parserPool, langDetector,
+                    filterStopwords, enableStemming, ignoreCase,
+                    ignoreAdded, ignoreRemoved,
+                    snippetOffset
+            );
+            try {
+                return matcher.call();
+            } catch (Exception e) {
+                logger.error(e.getMessage(), e);
+            }
+        }
+
+        return Collections.emptySet();
     }
 
 
@@ -250,8 +366,9 @@ public class Context implements LifeCycle.Listener, JobManagerHandler {
      * Removes existing differences for the specified url
      */
     @Override
-    public void removeExistingDifferences(String url) {
-        DBCollection diffColl = differencesDB.getCollection(url);
+    public void removeExistingDifferences(String documentUrl, String documentContentType) {
+        DBCollection diffColl = differencesDB.getCollection(
+                getDiffCollectionName(documentUrl, documentContentType));
         diffColl.drop();
     }
 
@@ -260,7 +377,8 @@ public class Context implements LifeCycle.Listener, JobManagerHandler {
      * Process and build keyword objects based on this context configuration
      */
     @Override
-    public Keyword buildKeyword(String keywordInput) {
+    public Keyword buildKeyword(String keywordInput, boolean isStoppingEnabled,
+                                boolean isStemmingEnabled, boolean ignoreCase) {
         KeywordBuilder builder = KeywordBuilder
                 .fromText(keywordInput)
                 .withLanguageDetector(langDetector);
@@ -326,7 +444,7 @@ public class Context implements LifeCycle.Listener, JobManagerHandler {
         mongoClient = new MongoClient(dbHost, dbPort);
 
         documentsDB = mongoClient.getDB(DOCUMENTS_DB);
-        occurrencesDB = mongoClient.getDB(OCCURRENCES_DB);
+        sessionsDB = mongoClient.getDB(SESSIONS_DB);
         differencesDB = mongoClient.getDB(DIFFERENCES_DB);
 
         List<LanguageProfile> languageProfiles = new LanguageProfileReader().readAllBuiltIn();
@@ -336,8 +454,7 @@ public class Context implements LifeCycle.Listener, JobManagerHandler {
 
         collection = new DocumentCollection(
                 "vokter_production_collection",
-                documentsDB,
-                occurrencesDB
+                documentsDB
         );
 
         logger.info("Starting jobs...");

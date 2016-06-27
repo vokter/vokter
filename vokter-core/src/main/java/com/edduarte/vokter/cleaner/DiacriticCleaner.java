@@ -31,7 +31,8 @@ public class DiacriticCleaner implements Cleaner {
 
     @Override
     public void clean(MutableString documentContents) {
-        String string = Normalizer.normalize(documentContents.toString(), Normalizer.Form.NFD);
+        String string = Normalizer.normalize(documentContents.toString(),
+                Normalizer.Form.NFD);
         documentContents.delete(0, documentContents.length());
         for (char c : string.toCharArray()) {
             if (c <= '\u007F') {

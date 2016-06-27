@@ -18,6 +18,7 @@ package com.edduarte.vokter.model.mongodb;
 
 import com.fasterxml.jackson.annotation.JsonValue;
 import com.mongodb.BasicDBObject;
+import it.unimi.dsi.lang.MutableString;
 
 import java.util.Collection;
 import java.util.stream.Collectors;
@@ -39,10 +40,10 @@ public final class Keyword extends BasicDBObject {
      * The set of texts that compose this search, stored in the same order as
      * written by the user (linked hash set implementation).
      */
-    private final Collection<String> texts;
+    private final Collection<MutableString> texts;
 
 
-    public Keyword(final String originalInput, final Collection<String> texts) {
+    public Keyword(final String originalInput, final Collection<MutableString> texts) {
         this.originalInput = originalInput;
         this.texts = texts;
     }
@@ -57,7 +58,7 @@ public final class Keyword extends BasicDBObject {
     /**
      * Returns a lazy access to all texts that compose this query.
      */
-    public Stream<String> textStream() {
+    public Stream<MutableString> textStream() {
         return texts.stream();
     }
 
@@ -81,6 +82,6 @@ public final class Keyword extends BasicDBObject {
     @Override
     public String toString() {
         String fullQuery = textStream().collect(Collectors.joining(" "));
-        return "'" + fullQuery + "'";
+        return fullQuery;
     }
 }

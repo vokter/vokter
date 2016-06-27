@@ -17,18 +17,23 @@
 package com.edduarte.vokter.rest.resources.v1;
 
 import com.edduarte.vokter.Context;
-import com.edduarte.vokter.model.v1.rest.CancelRequest;
-import com.edduarte.vokter.model.CommonResponse;
-import com.edduarte.vokter.model.v1.rest.SubscribeRequest;
+import com.edduarte.vokter.model.mongodb.Session;
+import com.edduarte.vokter.rest.model.CommonResponse;
+import com.edduarte.vokter.rest.model.v1.AddRequest;
+import com.edduarte.vokter.rest.model.v1.CancelRequest;
 import com.edduarte.vokter.util.CORSUtils;
 import com.google.common.collect.Lists;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
+import io.swagger.annotations.ApiParam;
+import io.swagger.annotations.ApiResponse;
+import io.swagger.annotations.ApiResponses;
 import io.swagger.annotations.Info;
 import io.swagger.annotations.SwaggerDefinition;
 import org.apache.commons.validator.routines.UrlValidator;
 
 import javax.ws.rs.Consumes;
+import javax.ws.rs.DELETE;
 import javax.ws.rs.GET;
 import javax.ws.rs.HeaderParam;
 import javax.ws.rs.OPTIONS;
@@ -49,9 +54,9 @@ import java.util.concurrent.ExecutionException;
  * @since 1.0.0
  */
 @Path("/v1/")
-@Api(tags = {"Version 1"})
+@Api(tags = {"API v1"})
 @SwaggerDefinition(info = @Info(
-        title = "Version 1",
+        title = "API v1",
         description = "Vokter REST API service version 1, which is being " +
                 "kept active for backwards-compatibility purposes.",
         version = "1"
@@ -76,13 +81,11 @@ public class RestResource {
     @GET
     @Path("exampleRequest")
     public Response exampleRequest() {
-        SubscribeRequest requestBody = new SubscribeRequest(
+        AddRequest requestBody = new AddRequest(
                 "http://www.example.com",
                 "http://your.site/client-rest-api",
                 Lists.newArrayList("argus", "argus panoptes"),
-                600,
-                false,
-                false
+                600
         );
         return Response.status(200)
                 .type(MediaType.APPLICATION_JSON)
@@ -130,11 +133,11 @@ public class RestResource {
 
     @POST
     @Path("subscribe")
-    public Response watch(SubscribeRequest subscribeRequest) {
+    public Response watch(AddRequest addRequest) {
         String[] schemes = {"http", "https"};
         UrlValidator urlValidator = new UrlValidator(schemes, UrlValidator.ALLOW_LOCAL_URLS);
 
-        String documentUrl = subscribeRequest.getDocumentUrl();
+        String documentUrl = addRequest.getDocumentUrl();
         if (documentUrl == null || documentUrl.isEmpty() ||
                 !urlValidator.isValid(documentUrl)) {
             CommonResponse responseBody = CommonResponse.invalidDocumentUrl();
@@ -144,7 +147,7 @@ public class RestResource {
                     .build();
         }
 
-        String clientUrl = subscribeRequest.getClientUrl();
+        String clientUrl = addRequest.getClientUrl();
         if (clientUrl == null || clientUrl.isEmpty() ||
                 !urlValidator.isValid(clientUrl)) {
             CommonResponse responseBody = CommonResponse.invalidClientUrl();
@@ -154,7 +157,7 @@ public class RestResource {
                     .build();
         }
 
-        List<String> keywords = subscribeRequest.getKeywords();
+        List<String> keywords = addRequest.getKeywords();
         if (keywords != null) {
             for (Iterator<String> it = keywords.iterator(); it.hasNext(); ) {
                 String k = it.next();
@@ -172,8 +175,8 @@ public class RestResource {
                     .build();
         }
 
-        if (subscribeRequest.getIgnoreAdded() &&
-                subscribeRequest.getIgnoreRemoved()) {
+        if (addRequest.getIgnoreAdded() &&
+                addRequest.getIgnoreRemoved()) {
             CommonResponse responseBody = CommonResponse.emptyDifferenceActions();
             return Response.status(400)
                     .type(MediaType.APPLICATION_JSON)
@@ -182,8 +185,18 @@ public class RestResource {
         }
 
         Context context = Context.getInstance();
-        boolean created = context.createJob(subscribeRequest);
-        if (created) {
+
+        com.edduarte.vokter.rest.model.v2.AddRequest r =
+                new com.edduarte.vokter.rest.model.v2.AddRequest(addRequest);
+
+        Session session = context.createJob(
+                r.getDocumentUrl(), r.getDocumentContentType(),
+                r.getClientUrl(), r.getClientContentType(),
+                r.getKeywords(), r.getEvents(),
+                r.filterStopwords(), r.enableStemming(), r.ignoreCase(),
+                r.getSnippetOffset(), r.getInterval()
+        );
+        if (session != null) {
             CommonResponse responseBody = CommonResponse.ok();
             return Response.status(200)
                     .type(MediaType.APPLICATION_JSON)
@@ -214,12 +227,43 @@ public class RestResource {
 
     @POST
     @Path("cancel")
-    public Response cancel(CancelRequest cancelRequest) throws ExecutionException {
+    @ApiOperation(
+            value = "Cancel a job",
+            notes = "Cancels a monitoring job on Vokter. If the job canceled " +
+                    "is the last job attached to the specified document url, " +
+                    "then all document snapshots and detected differences " +
+                    "for that document are cleared from Vokter.",
+            response = CommonResponse.class,
+            nickname = "cancel"
+    )
+    @ApiResponses(value = {
+            @ApiResponse(
+                    code = 200,
+                    message = "The monitoring job was successfully canceled."
+            ),
+            @ApiResponse(
+                    code = 400,
+                    message = "The provided data is invalid."
+            ),
+            @ApiResponse(
+                    code = 415,
+                    message = "The request body has an invalid format."
+            ),
+            @ApiResponse(
+                    code = 404,
+                    message = "The specified job to cancel does not exist."
+            )})
+    public Response cancel(
+            @ApiParam(value = "The job data, including the pair of document " +
+                    "url to client url that identifies the job.", required = true)
+                    CancelRequest cancelRequest) throws ExecutionException {
 
         Context context = Context.getInstance();
         boolean wasDeleted = context.cancelJob(
                 cancelRequest.getDocumentUrl(),
-                cancelRequest.getClientUrl()
+                cancelRequest.getDocumentContentType(),
+                cancelRequest.getClientUrl(),
+                cancelRequest.getClientContentType()
         );
         if (wasDeleted) {
             CommonResponse responseBody = CommonResponse.ok();
