@@ -247,11 +247,17 @@ public class JobManager {
 
                 try {
                     scheduler.addJob(detectionJob, false);
-                    logger.info("Started detection job for document '{}' ({}).", documentUrl, documentContentType);
+                    logger.info("Started detection job for document '{}' ({}).",
+                            documentUrl, documentContentType);
                 } catch (ObjectAlreadyExistsException ignored) {
                     // there is already a job monitoring the specified document, so
                     // ignore this
+                    logger.warn("Detection job for document '{}' ({}) already exists!",
+                            documentUrl, documentContentType);
                 }
+            } else {
+                logger.warn("Detection job for document '{}' ({}) already exists!",
+                        documentUrl, documentContentType);
             }
 
             ObjectMapper mapper = new ObjectMapper();
@@ -265,6 +271,11 @@ public class JobManager {
                     clientUrl, clientContentType
             );
             if (scheduler.getJobDetail(matchJKey) != null) {
+                logger.warn("Matching job " +
+                                "for document '{}' ({}) " +
+                                "to client '{}' ({}) already exists!.",
+                        documentUrl, documentContentType,
+                        clientUrl, clientContentType);
                 return false;
             }
             JobDetail matchingJob = JobBuilder.newJob(DiffMatcherJob.class)
@@ -297,13 +308,20 @@ public class JobManager {
 
             try {
                 scheduler.addJob(matchingJob, false);
-                logger.info("Started matching job for document '{}' ({}) to client '{}' ({}).",
+                logger.info("Started matching job " +
+                                "for document '{}' ({}) " +
+                                "to client '{}' ({}).",
                         documentUrl, documentContentType,
                         clientUrl, clientContentType);
             } catch (ObjectAlreadyExistsException ex) {
                 // there is already a matching job for the specified document,
                 // so return false which should be interpreted as "not created /
                 // already exists"
+                logger.warn("Matching job " +
+                                "for document '{}' ({}) " +
+                                "to client '{}' ({}) already exists!.",
+                        documentUrl, documentContentType,
+                        clientUrl, clientContentType);
                 return false;
             }
 
@@ -383,33 +401,41 @@ public class JobManager {
     }
 
 
-    public boolean cancelMatchingJob(String documentUrl,
-                                     String clientUrl) {
-        return cancelMatchingJob(documentUrl, null,
+    /**
+     * Simplified API
+     */
+    public boolean cancelJob(String documentUrl, String clientUrl) {
+        return cancelJob(documentUrl, MediaType.TEXT_HTML,
                 clientUrl, MediaType.APPLICATION_JSON);
     }
 
 
-    public boolean cancelMatchingJob(String documentUrl,
-                                     String documentContentType,
-                                     String clientUrl,
-                                     String clientContentType) {
+    public boolean cancelJob(String documentUrl,
+                             String documentContentType,
+                             String clientUrl,
+                             String clientContentType) {
         JobKey jobKey = matchJobKey(
                 documentUrl, documentContentType,
                 clientUrl, clientContentType
         );
 
         try {
-            boolean wasDeleted = false;
+            boolean wasDeleted;
             try {
                 scheduler.interrupt(jobKey);
                 wasDeleted = scheduler.deleteJob(jobKey);
-                logger.info("Canceled matching job " +
-                                "for document '{}' ({}) " +
-                                "to client '{}' ({}).",
-                        documentUrl, documentContentType,
-                        clientUrl, clientContentType
-                );
+                if(wasDeleted) {
+                    scheduler.getListenerManager().removeJobListener(chainName(
+                            documentUrl, documentContentType,
+                            clientUrl, clientContentType
+                    ));
+                    logger.info("Canceled matching job " +
+                                    "for document '{}' ({}) " +
+                                    "to client '{}' ({}).",
+                            documentUrl, documentContentType,
+                            clientUrl, clientContentType
+                    );
+                }
             } catch (JobPersistenceException ex){
                 // job was already deleted
                 wasDeleted = true;

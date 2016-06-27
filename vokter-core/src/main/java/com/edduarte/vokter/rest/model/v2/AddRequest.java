@@ -107,11 +107,12 @@ public class AddRequest implements Serializable {
      * Used for add default values to a v1 rest request.
      */
     public AddRequest(com.edduarte.vokter.rest.model.v1.AddRequest r) {
-        this();
-
         this.documentUrl = r.getDocumentUrl();
+        this.documentContentType = r.getDocumentContentType();
         this.clientUrl = r.getClientUrl();
+        this.clientContentType = r.getClientContentType();
         this.keywords = r.getKeywords();
+        this.interval = r.getInterval();
 
         this.events = new ArrayList<>();
         if (r.getIgnoreAdded()) {
@@ -122,6 +123,11 @@ public class AddRequest implements Serializable {
             events.add(DiffEvent.inserted);
             events.add(DiffEvent.deleted);
         }
+
+        this.filterStopwords = r.filterStopwords();
+        this.enableStemming = r.enableStemming();
+        this.ignoreCase = r.ignoreCase();
+        this.snippetOffset = r.getSnippetOffset();
     }
 
 
@@ -132,11 +138,14 @@ public class AddRequest implements Serializable {
                       final String clientUrl,
                       final List<String> keywords,
                       final int interval) {
-        this();
         this.documentUrl = documentUrl;
         this.clientUrl = clientUrl;
         this.keywords = keywords;
         this.interval = interval;
+        this.filterStopwords = true;
+        this.enableStemming = true;
+        this.ignoreCase = true;
+        this.snippetOffset = 50;
     }
 
 

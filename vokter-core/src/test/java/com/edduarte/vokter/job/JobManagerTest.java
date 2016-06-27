@@ -296,13 +296,13 @@ public class JobManagerTest {
         Thread.sleep(20000);
 
 
-        manager.cancelMatchingJob(
+        manager.cancelJob(
                 "http://example.com",
                 MediaType.TEXT_PLAIN,
                 "https://www.google.com",
                 MediaType.APPLICATION_JSON
         );
-        manager.cancelMatchingJob(
+        manager.cancelJob(
                 "http://example.com",
                 MediaType.TEXT_PLAIN,
                 "https://www.google.pt",
@@ -317,7 +317,7 @@ public class JobManagerTest {
                 "https://www.google.com",
                 MediaType.APPLICATION_JSON,
                 Lists.newArrayList("the greek", "argus panoptes"),
-                10
+                5
         );
         assertTrue(wasCreated);
         // wait 15 seconds to ensure that the new existing jobs is performed and
