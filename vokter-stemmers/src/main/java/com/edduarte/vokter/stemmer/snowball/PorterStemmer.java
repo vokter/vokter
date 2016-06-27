@@ -12,12 +12,14 @@ public class PorterStemmer extends SnowballStemmer {
     private static final long serialVersionUID = 1L;
 
     private final static PorterStemmer methodObject = new PorterStemmer();
+
     private final static Among a_0[] = {
             new Among("s", -1, 3, "", methodObject),
             new Among("ies", 0, 2, "", methodObject),
             new Among("sses", 0, 1, "", methodObject),
             new Among("ss", 0, -1, "", methodObject)
     };
+
     private final static Among a_1[] = {
             new Among("", -1, 3, "", methodObject),
             new Among("bb", 0, 2, "", methodObject),
@@ -33,11 +35,13 @@ public class PorterStemmer extends SnowballStemmer {
             new Among("tt", 0, 2, "", methodObject),
             new Among("iz", 0, 1, "", methodObject)
     };
+
     private final static Among a_2[] = {
             new Among("ed", -1, 2, "", methodObject),
             new Among("eed", 0, 1, "", methodObject),
             new Among("ing", -1, 2, "", methodObject)
     };
+
     private final static Among a_3[] = {
             new Among("anci", -1, 3, "", methodObject),
             new Among("enci", -1, 2, "", methodObject),
@@ -60,6 +64,7 @@ public class PorterStemmer extends SnowballStemmer {
             new Among("fulness", -1, 11, "", methodObject),
             new Among("ousness", -1, 12, "", methodObject)
     };
+
     private final static Among a_4[] = {
             new Among("icate", -1, 2, "", methodObject),
             new Among("ative", -1, 3, "", methodObject),
@@ -69,6 +74,7 @@ public class PorterStemmer extends SnowballStemmer {
             new Among("ful", -1, 3, "", methodObject),
             new Among("ness", -1, 3, "", methodObject)
     };
+
     private final static Among a_5[] = {
             new Among("ic", -1, 1, "", methodObject),
             new Among("ance", -1, 1, "", methodObject),
@@ -90,16 +96,23 @@ public class PorterStemmer extends SnowballStemmer {
             new Among("ement", 16, 1, "", methodObject),
             new Among("ou", -1, 1, "", methodObject)
     };
+
     private static final char g_v[] = {17, 65, 16, 1};
+
     private static final char g_v_WXY[] = {1, 17, 65, 208, 1};
+
     private boolean B_Y_found;
+
     private int I_p2;
+
     private int I_p1;
+
 
     @Override
     public String getSupportedLanguage() {
         return "en2";
     }
+
 
     private void copy_from(PorterStemmer other) {
         B_Y_found = other.B_Y_found;
@@ -107,6 +120,7 @@ public class PorterStemmer extends SnowballStemmer {
         I_p1 = other.I_p1;
         super.copy_from(other);
     }
+
 
     private boolean r_shortv() {
         // (, line 19
@@ -122,6 +136,7 @@ public class PorterStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_R1() {
         if (!(I_p1 <= cursor)) {
             return false;
@@ -129,12 +144,14 @@ public class PorterStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_R2() {
         if (!(I_p2 <= cursor)) {
             return false;
         }
         return true;
     }
+
 
     private boolean r_Step_1a() {
         int among_var;
@@ -169,6 +186,7 @@ public class PorterStemmer extends SnowballStemmer {
         }
         return true;
     }
+
 
     private boolean r_Step_1b() {
         int among_var;
@@ -279,6 +297,7 @@ public class PorterStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_Step_1c() {
         int v_1;
         // (, line 51
@@ -323,6 +342,7 @@ public class PorterStemmer extends SnowballStemmer {
         slice_from("i");
         return true;
     }
+
 
     private boolean r_Step_2() {
         int among_var;
@@ -417,6 +437,7 @@ public class PorterStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_Step_3() {
         int among_var;
         // (, line 81
@@ -454,6 +475,7 @@ public class PorterStemmer extends SnowballStemmer {
         }
         return true;
     }
+
 
     private boolean r_Step_4() {
         int among_var;
@@ -507,6 +529,7 @@ public class PorterStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_Step_5a() {
         int v_1;
         int v_2;
@@ -556,6 +579,7 @@ public class PorterStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_Step_5b() {
         // (, line 106
         // [, line 107
@@ -578,6 +602,7 @@ public class PorterStemmer extends SnowballStemmer {
         slice_del();
         return true;
     }
+
 
     @Override
     public boolean stem() {
@@ -877,10 +902,12 @@ public class PorterStemmer extends SnowballStemmer {
         return true;
     }
 
+
     @Override
     public boolean equals(Object o) {
         return o instanceof PorterStemmer;
     }
+
 
     @Override
     public int hashCode() {

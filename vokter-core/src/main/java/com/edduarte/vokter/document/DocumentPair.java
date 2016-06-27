@@ -1,7 +1,6 @@
 package com.edduarte.vokter.document;
 
 import com.edduarte.vokter.model.mongodb.Document;
-import com.edduarte.vokter.util.Duo;
 
 /**
  * @author Eduardo Duarte (<a href="mailto:hello@edduarte.com">hello@edduarte.com</a>)
@@ -19,6 +18,7 @@ public class DocumentPair {
         this.mA = a;
         this.mB = b;
     }
+
 
     public static DocumentPair of(Document a, Document b) {
         return new DocumentPair(a, b);

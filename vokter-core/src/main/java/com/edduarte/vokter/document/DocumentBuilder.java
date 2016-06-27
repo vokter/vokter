@@ -17,12 +17,8 @@
 package com.edduarte.vokter.document;
 
 import com.edduarte.vokter.model.mongodb.Document;
-import com.edduarte.vokter.parser.Parser;
-import com.edduarte.vokter.parser.ParserPool;
 import com.edduarte.vokter.util.OSGiManager;
 import com.google.common.base.Stopwatch;
-import com.mongodb.DB;
-import com.optimaize.langdetect.LanguageDetector;
 import org.apache.tools.ant.filters.StringInputStream;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -32,19 +28,12 @@ import javax.ws.rs.client.Invocation;
 import javax.ws.rs.client.WebTarget;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
-import java.io.BufferedInputStream;
-import java.io.IOException;
 import java.io.InputStream;
-import java.net.HttpURLConnection;
-import java.net.URL;
 import java.util.function.Supplier;
 
 /**
  * Builder class that loads documents streams and indexes them into a
  * {@link DocumentCollection} structure.
- * <p>
- * This class is a merge of the CorpusLoader class and the Processor classes from
- * the previous assignment.
  *
  * @author Eduardo Duarte (<a href="mailto:hello@edduarte.com">hello@edduarte.com</a>)
  * @version 1.3.2

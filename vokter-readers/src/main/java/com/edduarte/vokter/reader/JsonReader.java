@@ -41,9 +41,11 @@ public class JsonReader implements com.edduarte.vokter.reader.Reader {
 
     private final Gson jsonParser;
 
+
     public JsonReader() {
         jsonParser = new Gson();
     }
+
 
     @Override
     public MutableString readDocumentContents(InputStream documentStream) throws IOException {
@@ -59,6 +61,7 @@ public class JsonReader implements com.edduarte.vokter.reader.Reader {
 
         return sb.compact();
     }
+
 
     private void readRecursive(JsonElement root, MutableString collector) {
         if (root.isJsonObject()) {
@@ -81,6 +84,7 @@ public class JsonReader implements com.edduarte.vokter.reader.Reader {
             collector.append(' ');
         }
     }
+
 
     @Override
     public ImmutableSet<String> getSupportedContentTypes() {

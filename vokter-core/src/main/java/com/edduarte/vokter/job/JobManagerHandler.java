@@ -30,29 +30,6 @@ import java.util.Set;
  */
 public interface JobManagerHandler {
 
-    public static class DetectResult {
-
-        private final boolean wasSuccessful;
-
-        private final boolean hasNewDiffs;
-
-
-        public DetectResult(boolean wasSuccessful, boolean hasNewDiffs) {
-            this.wasSuccessful = wasSuccessful;
-            this.hasNewDiffs = hasNewDiffs;
-        }
-
-
-        public boolean wasSuccessful() {
-            return wasSuccessful;
-        }
-
-
-        public boolean hasNewDiffs() {
-            return hasNewDiffs;
-        }
-    }
-
     /**
      * Indexes the specified document and detects differences between an older
      * snapshot and the new one with the specified content-type. Once
@@ -101,4 +78,27 @@ public interface JobManagerHandler {
      * the provided token. If not, return null
      */
     Session validateToken(String clientUrl, String clientContentType, String token);
+
+    public static class DetectResult {
+
+        private final boolean wasSuccessful;
+
+        private final boolean hasNewDiffs;
+
+
+        public DetectResult(boolean wasSuccessful, boolean hasNewDiffs) {
+            this.wasSuccessful = wasSuccessful;
+            this.hasNewDiffs = hasNewDiffs;
+        }
+
+
+        public boolean wasSuccessful() {
+            return wasSuccessful;
+        }
+
+
+        public boolean hasNewDiffs() {
+            return hasNewDiffs;
+        }
+    }
 }

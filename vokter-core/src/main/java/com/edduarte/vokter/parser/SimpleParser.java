@@ -105,7 +105,8 @@ public class SimpleParser implements Parser {
                     stemmer.stem(termText);
                 }
 
-                retrievedTokens.add(new Result(count++, startIndex, endIndex, termText));
+                retrievedTokens.add(
+                        new Result(count++, startIndex, endIndex, termText));
             }
 
             startIndex = endIndex + 1;

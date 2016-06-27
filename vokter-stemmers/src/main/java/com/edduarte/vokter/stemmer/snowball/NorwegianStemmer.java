@@ -12,6 +12,7 @@ public class NorwegianStemmer extends SnowballStemmer {
     private static final long serialVersionUID = 1L;
 
     private final static NorwegianStemmer methodObject = new NorwegianStemmer();
+
     private final static Among a_0[] = {
             new Among("a", -1, 1, "", methodObject),
             new Among("e", -1, 1, "", methodObject),
@@ -43,10 +44,12 @@ public class NorwegianStemmer extends SnowballStemmer {
             new Among("ert", -1, 3, "", methodObject),
             new Among("ast", -1, 1, "", methodObject)
     };
+
     private final static Among a_1[] = {
             new Among("dt", -1, -1, "", methodObject),
             new Among("vt", -1, -1, "", methodObject)
     };
+
     private final static Among a_2[] = {
             new Among("leg", -1, 1, "", methodObject),
             new Among("eleg", 0, 1, "", methodObject),
@@ -60,21 +63,28 @@ public class NorwegianStemmer extends SnowballStemmer {
             new Among("slov", 7, 1, "", methodObject),
             new Among("hetslov", 9, 1, "", methodObject)
     };
+
     private static final char g_v[] = {17, 65, 16, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 48, 0, 128};
+
     private static final char g_s_ending[] = {119, 125, 149, 1};
+
     private int I_x;
+
     private int I_p1;
+
 
     @Override
     public String getSupportedLanguage() {
         return "no";
     }
 
+
     private void copy_from(NorwegianStemmer other) {
         I_x = other.I_x;
         I_p1 = other.I_p1;
         super.copy_from(other);
     }
+
 
     private boolean r_mark_regions() {
         int v_1;
@@ -141,6 +151,7 @@ public class NorwegianStemmer extends SnowballStemmer {
         } while (false);
         return true;
     }
+
 
     private boolean r_main_suffix() {
         int among_var;
@@ -213,6 +224,7 @@ public class NorwegianStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_consonant_pair() {
         int v_1;
         int v_2;
@@ -255,6 +267,7 @@ public class NorwegianStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_other_suffix() {
         int among_var;
         int v_1;
@@ -293,6 +306,7 @@ public class NorwegianStemmer extends SnowballStemmer {
         }
         return true;
     }
+
 
     @Override
     public boolean stem() {
@@ -349,10 +363,12 @@ public class NorwegianStemmer extends SnowballStemmer {
         return true;
     }
 
+
     @Override
     public boolean equals(Object o) {
         return o instanceof NorwegianStemmer;
     }
+
 
     @Override
     public int hashCode() {

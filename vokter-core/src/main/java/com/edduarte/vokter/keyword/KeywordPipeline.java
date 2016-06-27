@@ -88,7 +88,10 @@ public class KeywordPipeline implements Callable<Keyword> {
 
         // filters the contents by cleaning characters of whole strings
         // according to each cleaner's implementation
-        Cleaner cleaner = AndCleaner.of(new SpecialCharsCleaner(), new DiacriticCleaner());
+        Cleaner cleaner = AndCleaner.of(
+                new SpecialCharsCleaner(),
+                new DiacriticCleaner()
+        );
         cleaner.clean(content);
         cleaner = null;
 
@@ -96,7 +99,8 @@ public class KeywordPipeline implements Callable<Keyword> {
         // infers the document language
         String languageCode = "en";
         if (langDetector != null) {
-            TextObjectFactory textObjectFactory = CommonTextObjectFactories.forDetectingOnLargeText();
+            TextObjectFactory textObjectFactory =
+                    CommonTextObjectFactories.forDetectingOnLargeText();
             TextObject textObject = textObjectFactory.forText(content);
             Optional<LdLocale> lang = langDetector.detect(textObject);
             languageCode = lang.isPresent() ? lang.get().getLanguage() : "en";
@@ -109,7 +113,8 @@ public class KeywordPipeline implements Callable<Keyword> {
         if (isStoppingEnabled) {
             stopper = new FileStopper(languageCode);
             if (stopper.isEmpty()) {
-                // if no compatible stopwords were found, use the english stopwords
+                // if no compatible stopwords were found, use the english
+                // stopwords
                 stopper = new FileStopper("en");
             }
         }
@@ -119,7 +124,8 @@ public class KeywordPipeline implements Callable<Keyword> {
         // if the detected language is not supported, stemming is ignored
         Stemmer stemmer = null;
         if (isStemmingEnabled) {
-            Class<? extends Stemmer> stemmerClass = OSGiManager.getCompatibleStemmer(languageCode);
+            Class<? extends Stemmer> stemmerClass =
+                    OSGiManager.getCompatibleStemmer(languageCode);
             if (stemmerClass != null) {
                 stemmer = stemmerClass.newInstance();
             } else {
@@ -134,7 +140,8 @@ public class KeywordPipeline implements Callable<Keyword> {
 
         // detects tokens from the document and loads them into separate
         // objects in memory
-        List<Parser.Result> results = parser.parse(content, stopper, stemmer, ignoreCase);
+        List<Parser.Result> results = parser
+                .parse(content, stopper, stemmer, ignoreCase);
         content.delete(0, content.length());
 
         if (stopper != null) {
@@ -146,8 +153,8 @@ public class KeywordPipeline implements Callable<Keyword> {
         }
 
 
-        // create a temporary in-memory term structure and converts parser results
-        // into Term objects
+        // create a temporary in-memory term structure and converts parser
+        // results into tokens
         final Set<MutableString> terms = new LinkedHashSet<>();
         for (Parser.Result r : results) {
             MutableString termText = r.text;

@@ -27,7 +27,8 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-import static com.edduarte.vokter.diff.DiffEvent.*;
+import static com.edduarte.vokter.diff.DiffEvent.deleted;
+import static com.edduarte.vokter.diff.DiffEvent.inserted;
 
 /**
  * Model class of a JSON request for page watching.

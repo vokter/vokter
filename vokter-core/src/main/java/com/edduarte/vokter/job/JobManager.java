@@ -17,16 +17,27 @@
 package com.edduarte.vokter.job;
 
 import com.edduarte.vokter.diff.DiffEvent;
+import com.edduarte.vokter.diff.Match;
 import com.edduarte.vokter.document.DocumentBuilder;
 import com.edduarte.vokter.model.mongodb.Document;
 import com.edduarte.vokter.model.mongodb.Keyword;
-import com.edduarte.vokter.diff.Match;
-import com.edduarte.vokter.rest.model.Notification;
 import com.edduarte.vokter.model.mongodb.Session;
+import com.edduarte.vokter.rest.model.Notification;
 import com.edduarte.vokter.util.Constants;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import org.quartz.*;
+import org.quartz.JobBuilder;
+import org.quartz.JobDataMap;
+import org.quartz.JobDetail;
+import org.quartz.JobKey;
+import org.quartz.JobPersistenceException;
+import org.quartz.ObjectAlreadyExistsException;
+import org.quartz.Scheduler;
+import org.quartz.SchedulerException;
+import org.quartz.SimpleScheduleBuilder;
+import org.quartz.Trigger;
+import org.quartz.TriggerBuilder;
+import org.quartz.TriggerKey;
 import org.quartz.impl.DirectSchedulerFactory;
 import org.quartz.impl.StdSchedulerFactory;
 import org.quartz.impl.matchers.GroupMatcher;
@@ -40,7 +51,11 @@ import javax.ws.rs.client.ClientBuilder;
 import javax.ws.rs.client.Entity;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
-import java.util.*;
+import java.util.Arrays;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+import java.util.Set;
 
 import static com.edduarte.vokter.diff.DiffEvent.deleted;
 import static com.edduarte.vokter.diff.DiffEvent.inserted;
@@ -90,29 +105,6 @@ public class JobManager {
 
     public static JobManager get(final String managerName) {
         return activeManagers.get(managerName);
-    }
-
-
-    public void initialize() throws SchedulerException {
-        StdSchedulerFactory factory = new StdSchedulerFactory();
-        scheduler = factory.getScheduler();
-        factory = null;
-        scheduler.start();
-    }
-
-
-    public void initialize(JobStore jobStore, int maxThreads)
-            throws SchedulerException {
-        DirectSchedulerFactory factory = DirectSchedulerFactory.getInstance();
-        factory.createScheduler(
-                SCHEDULER_NAME,
-                Constants.bytesToHex(Constants.generateRandomBytes()),
-                new SimpleThreadPool(maxThreads, 5),
-                jobStore
-        );
-        scheduler = factory.getScheduler(SCHEDULER_NAME);
-        factory = null;
-        scheduler.start();
     }
 
 
@@ -175,6 +167,29 @@ public class JobManager {
     }
 
 
+    public void initialize() throws SchedulerException {
+        StdSchedulerFactory factory = new StdSchedulerFactory();
+        scheduler = factory.getScheduler();
+        factory = null;
+        scheduler.start();
+    }
+
+
+    public void initialize(JobStore jobStore, int maxThreads)
+            throws SchedulerException {
+        DirectSchedulerFactory factory = DirectSchedulerFactory.getInstance();
+        factory.createScheduler(
+                SCHEDULER_NAME,
+                Constants.bytesToHex(Constants.generateRandomBytes()),
+                new SimpleThreadPool(maxThreads, 5),
+                jobStore
+        );
+        scheduler = factory.getScheduler(SCHEDULER_NAME);
+        factory = null;
+        scheduler.start();
+    }
+
+
     //    private static TriggerKey matchTKey(String documentUrl,
 //                                        String documentContentType,
 //                                        String clientUrl,
@@ -199,6 +214,7 @@ public class JobManager {
                 50, interval
         );
     }
+
 
     /**
      * Used for testing only.
@@ -342,7 +358,9 @@ public class JobManager {
 
             try {
                 scheduler.scheduleJob(detectionTrigger);
-                logger.info("Started detection trigger for document '{}' ({}) to client '{}' ({}), with interval {}.",
+                logger.info("Started detection trigger " +
+                                "for document '{}' ({}) " +
+                                "to client '{}' ({}), with interval {}.",
                         documentUrl, documentContentType,
                         clientUrl, clientContentType,
                         interval);
@@ -370,12 +388,14 @@ public class JobManager {
     void timeoutDetectionJob(String documentUrl, String documentContentType) {
         try {
             Set<JobKey> keys = scheduler.getJobKeys(
-                    GroupMatcher.groupEquals(matchJobGroup(documentUrl, documentContentType)));
+                    GroupMatcher.groupEquals(
+                            matchJobGroup(documentUrl, documentContentType)));
             for (JobKey k : keys) {
                 JobDetail detail = scheduler.getJobDetail(k);
                 JobDataMap m = detail.getJobDataMap();
                 String clientUrl = m.getString(DiffMatcherJob.CLIENT_URL);
-                String clientContentType = m.getString(DiffMatcherJob.CLIENT_CONTENT_TYPE);
+                String clientContentType =
+                        m.getString(DiffMatcherJob.CLIENT_CONTENT_TYPE);
 
                 scheduler.getListenerManager().removeJobListener(chainName(
                         documentUrl, documentContentType,
@@ -387,14 +407,19 @@ public class JobManager {
                 );
                 scheduler.interrupt(k);
                 scheduler.deleteJob(k);
-                logger.info("Timed out matching job for document '{}' ({}) to client '{}' ({}).", documentUrl, documentContentType, clientUrl, clientContentType);
+                logger.info("Timed out matching job " +
+                                "for document '{}' ({}) " +
+                                "to client '{}' ({}).",
+                        documentUrl, documentContentType,
+                        clientUrl, clientContentType);
             }
 
             JobKey detectJobKey = detectJobKey(documentUrl, documentContentType);
             scheduler.interrupt(detectJobKey);
             scheduler.deleteJob(detectJobKey);
             handler.removeExistingDifferences(documentUrl, documentContentType);
-            logger.info("Timed out detection job for document '{}' ({}).", documentUrl, documentContentType);
+            logger.info("Timed out detection job for document '{}' ({}).",
+                    documentUrl, documentContentType);
         } catch (SchedulerException | JsonProcessingException ex) {
             logger.error(ex.getMessage(), ex);
         }
@@ -424,7 +449,7 @@ public class JobManager {
             try {
                 scheduler.interrupt(jobKey);
                 wasDeleted = scheduler.deleteJob(jobKey);
-                if(wasDeleted) {
+                if (wasDeleted) {
                     scheduler.getListenerManager().removeJobListener(chainName(
                             documentUrl, documentContentType,
                             clientUrl, clientContentType
@@ -436,7 +461,7 @@ public class JobManager {
                             clientUrl, clientContentType
                     );
                 }
-            } catch (JobPersistenceException ex){
+            } catch (JobPersistenceException ex) {
                 // job was already deleted
                 wasDeleted = true;
             }
@@ -455,13 +480,15 @@ public class JobManager {
                     scheduler.deleteJob(detectJobKey);
                     handler.removeExistingDifferences(
                             documentUrl, documentContentType);
-                    logger.info("Canceled detection job for document '{}' ({}).", documentUrl, documentContentType);
+                    logger.info("Canceled detection job for document '{}' ({}).",
+                            documentUrl, documentContentType);
                 }
 
                 // check if there are more match jobs for the same client
                 keys = scheduler.getJobKeys(GroupMatcher.anyGroup());
                 boolean hasMatchingJob = keys.parallelStream()
-                        .anyMatch(k -> k.getName().equals(matchJobName(clientUrl, clientContentType)));
+                        .anyMatch(k -> k.getName().equals(
+                                matchJobName(clientUrl, clientContentType)));
 
                 if (!hasMatchingJob) {
                     // no more match jobs for this client, so remove the session
@@ -527,22 +554,33 @@ public class JobManager {
 
 
     private void attemptRefreshMatchingJob(JobDetail detail, int attemptsLeft) {
-        if (attemptsLeft > 0) {
+        if (attemptsLeft < 0) {
             try {
                 JobDataMap m = detail.getJobDataMap();
                 JobDetail matchingJob = JobBuilder.newJob(DiffMatcherJob.class)
                         .withIdentity(detail.getKey())
-                        .usingJobData(DiffMatcherJob.PARENT_JOB_MANAGER, managerName)
-                        .usingJobData(DiffMatcherJob.DOCUMENT_URL, m.getString(DiffMatcherJob.DOCUMENT_URL))
-                        .usingJobData(DiffMatcherJob.DOCUMENT_CONTENT_TYPE, m.getString(DiffMatcherJob.DOCUMENT_CONTENT_TYPE))
-                        .usingJobData(DiffMatcherJob.CLIENT_URL, m.getString(DiffMatcherJob.CLIENT_URL))
-                        .usingJobData(DiffMatcherJob.CLIENT_CONTENT_TYPE, m.getString(DiffMatcherJob.CLIENT_CONTENT_TYPE))
-                        .usingJobData(DiffMatcherJob.KEYWORDS, m.getString(DiffMatcherJob.KEYWORDS))
-                        .usingJobData(DiffMatcherJob.EVENTS, m.getString(DiffMatcherJob.EVENTS))
-                        .usingJobData(DiffMatcherJob.FILTER_STOPWORDS, m.getBoolean(DiffMatcherJob.FILTER_STOPWORDS))
-                        .usingJobData(DiffMatcherJob.ENABLE_STEMMING, m.getBoolean(DiffMatcherJob.ENABLE_STEMMING))
-                        .usingJobData(DiffMatcherJob.IGNORE_CASE, m.getBoolean(DiffMatcherJob.IGNORE_CASE))
-                        .usingJobData(DiffMatcherJob.SNIPPET_OFFSET, m.getInt(DiffMatcherJob.SNIPPET_OFFSET))
+                        .usingJobData(DiffMatcherJob.PARENT_JOB_MANAGER,
+                                managerName)
+                        .usingJobData(DiffMatcherJob.DOCUMENT_URL,
+                                m.getString(DiffMatcherJob.DOCUMENT_URL))
+                        .usingJobData(DiffMatcherJob.DOCUMENT_CONTENT_TYPE,
+                                m.getString(DiffMatcherJob.DOCUMENT_CONTENT_TYPE))
+                        .usingJobData(DiffMatcherJob.CLIENT_URL,
+                                m.getString(DiffMatcherJob.CLIENT_URL))
+                        .usingJobData(DiffMatcherJob.CLIENT_CONTENT_TYPE,
+                                m.getString(DiffMatcherJob.CLIENT_CONTENT_TYPE))
+                        .usingJobData(DiffMatcherJob.KEYWORDS,
+                                m.getString(DiffMatcherJob.KEYWORDS))
+                        .usingJobData(DiffMatcherJob.EVENTS,
+                                m.getString(DiffMatcherJob.EVENTS))
+                        .usingJobData(DiffMatcherJob.FILTER_STOPWORDS,
+                                m.getBoolean(DiffMatcherJob.FILTER_STOPWORDS))
+                        .usingJobData(DiffMatcherJob.ENABLE_STEMMING,
+                                m.getBoolean(DiffMatcherJob.ENABLE_STEMMING))
+                        .usingJobData(DiffMatcherJob.IGNORE_CASE,
+                                m.getBoolean(DiffMatcherJob.IGNORE_CASE))
+                        .usingJobData(DiffMatcherJob.SNIPPET_OFFSET,
+                                m.getInt(DiffMatcherJob.SNIPPET_OFFSET))
                         .usingJobData(DiffMatcherJob.HAS_NEW_DIFFS, true)
                         .storeDurably(true)
                         .build();
@@ -633,29 +671,4 @@ public class JobManager {
 
         return response.getStatus() == 200;
     }
-
-
-//    private boolean sendResponse(final String clientUrl, final String input) {
-//        try {
-//            URL targetUrl = new URL(clientUrl);
-//
-//            HttpURLConnection httpConnection =
-//                    (HttpURLConnection) targetUrl.openConnection();
-//            httpConnection.setDoOutput(true);
-//            httpConnection.setRequestMethod("POST");
-//            httpConnection.setRequestProperty("Content-Type", "application/json");
-//
-//            OutputStream outputStream = httpConnection.getOutputStream();
-//            outputStream.write(input.getBytes());
-//            outputStream.flush();
-//
-//            int responseCode = httpConnection.getResponseCode();
-//            httpConnection.disconnect();
-//            return responseCode == 200;
-//
-//        } catch (IOException ex) {
-//            logger.error(ex.getMessage(), ex);
-//        }
-//        return false;
-//    }
 }

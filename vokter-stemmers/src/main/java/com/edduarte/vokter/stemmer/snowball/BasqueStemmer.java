@@ -12,6 +12,7 @@ public class BasqueStemmer extends SnowballStemmer {
     private static final long serialVersionUID = 1L;
 
     private final static BasqueStemmer methodObject = new BasqueStemmer();
+
     private final static Among a_0[] = {
             new Among("idea", -1, 1, "", methodObject),
             new Among("bidea", 0, 1, "", methodObject),
@@ -123,6 +124,7 @@ public class BasqueStemmer extends SnowballStemmer {
             new Among("gaitz", -1, 1, "", methodObject),
             new Among("kaitz", -1, 1, "", methodObject)
     };
+
     private final static Among a_1[] = {
             new Among("ada", -1, 1, "", methodObject),
             new Among("kada", 0, 1, "", methodObject),
@@ -420,6 +422,7 @@ public class BasqueStemmer extends SnowballStemmer {
             new Among("tz", 290, 1, "", methodObject),
             new Among("koitz", 293, 1, "", methodObject)
     };
+
     private final static Among a_2[] = {
             new Among("zlea", -1, 2, "", methodObject),
             new Among("keria", -1, 1, "", methodObject),
@@ -441,15 +444,21 @@ public class BasqueStemmer extends SnowballStemmer {
             new Among("ero", 16, 1, "", methodObject),
             new Among("to", -1, 1, "", methodObject)
     };
+
     private static final char g_v[] = {17, 65, 16};
+
     private int I_p2;
+
     private int I_p1;
+
     private int I_pV;
+
 
     @Override
     public String getSupportedLanguage() {
         return "bs";
     }
+
 
     private void copy_from(BasqueStemmer other) {
         I_p2 = other.I_p2;
@@ -457,6 +466,7 @@ public class BasqueStemmer extends SnowballStemmer {
         I_pV = other.I_pV;
         super.copy_from(other);
     }
+
 
     private boolean r_mark_regions() {
         int v_1;
@@ -655,12 +665,14 @@ public class BasqueStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_RV() {
         if (!(I_pV <= cursor)) {
             return false;
         }
         return true;
     }
+
 
     private boolean r_R2() {
         if (!(I_p2 <= cursor)) {
@@ -669,12 +681,14 @@ public class BasqueStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_R1() {
         if (!(I_p1 <= cursor)) {
             return false;
         }
         return true;
     }
+
 
     private boolean r_aditzak() {
         int among_var;
@@ -727,6 +741,7 @@ public class BasqueStemmer extends SnowballStemmer {
         }
         return true;
     }
+
 
     private boolean r_izenak() {
         int among_var;
@@ -809,6 +824,7 @@ public class BasqueStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_adjetiboak() {
         int among_var;
         // (, line 127
@@ -841,6 +857,7 @@ public class BasqueStemmer extends SnowballStemmer {
         }
         return true;
     }
+
 
     @Override
     public boolean stem() {
@@ -907,10 +924,12 @@ public class BasqueStemmer extends SnowballStemmer {
         return true;
     }
 
+
     @Override
     public boolean equals(Object o) {
         return o instanceof BasqueStemmer;
     }
+
 
     @Override
     public int hashCode() {

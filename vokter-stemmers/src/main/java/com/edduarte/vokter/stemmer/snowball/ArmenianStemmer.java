@@ -12,6 +12,7 @@ public class ArmenianStemmer extends com.edduarte.vokter.stemmer.snowball.Snowba
     private static final long serialVersionUID = 1L;
 
     private final static ArmenianStemmer methodObject = new ArmenianStemmer();
+
     private final static Among a_0[] = {
             new Among("\u0580\u0578\u0580\u0564", -1, 1, "", methodObject),
             new Among("\u0565\u0580\u0578\u0580\u0564", 0, 1, "", methodObject),
@@ -37,6 +38,7 @@ public class ArmenianStemmer extends com.edduarte.vokter.stemmer.snowball.Snowba
             new Among("\u056F\u0578\u057F", -1, 1, "", methodObject),
             new Among("\u0562\u0561\u0580", -1, 1, "", methodObject)
     };
+
     private final static Among a_1[] = {
             new Among("\u0561", -1, 1, "", methodObject),
             new Among("\u0561\u0581\u0561", 0, 1, "", methodObject),
@@ -110,6 +112,7 @@ public class ArmenianStemmer extends com.edduarte.vokter.stemmer.snowball.Snowba
             new Among("\u0565\u0581\u056B\u0576\u0584", -1, 1, "", methodObject),
             new Among("\u057E\u0565\u0581\u056B\u0576\u0584", 69, 1, "", methodObject)
     };
+
     private final static Among a_2[] = {
             new Among("\u0578\u0580\u0564", -1, 1, "", methodObject),
             new Among("\u0578\u0582\u0575\u0569", -1, 1, "", methodObject),
@@ -152,6 +155,7 @@ public class ArmenianStemmer extends com.edduarte.vokter.stemmer.snowball.Snowba
             new Among("\u056B\u0579\u0584", 27, 1, "", methodObject),
             new Among("\u0561\u0580\u0584", 27, 1, "", methodObject)
     };
+
     private final static Among a_3[] = {
             new Among("\u057D\u0561", -1, 1, "", methodObject),
             new Among("\u057E\u0561", -1, 1, "", methodObject),
@@ -211,20 +215,26 @@ public class ArmenianStemmer extends com.edduarte.vokter.stemmer.snowball.Snowba
             new Among("\u0578\u0581", 47, 1, "", methodObject),
             new Among("\u0578\u0582\u0581", 47, 1, "", methodObject)
     };
+
     private static final char g_v[] = {209, 4, 128, 0, 18};
+
     private int I_p2;
+
     private int I_pV;
+
 
     @Override
     public String getSupportedLanguage() {
         return "am";
     }
 
+
     private void copy_from(ArmenianStemmer other) {
         I_p2 = other.I_p2;
         I_pV = other.I_pV;
         super.copy_from(other);
     }
+
 
     private boolean r_mark_regions() {
         int v_1;
@@ -305,12 +315,14 @@ public class ArmenianStemmer extends com.edduarte.vokter.stemmer.snowball.Snowba
         return true;
     }
 
+
     private boolean r_R2() {
         if (!(I_p2 <= cursor)) {
             return false;
         }
         return true;
     }
+
 
     private boolean r_adjective() {
         int among_var;
@@ -336,6 +348,7 @@ public class ArmenianStemmer extends com.edduarte.vokter.stemmer.snowball.Snowba
         return true;
     }
 
+
     private boolean r_verb() {
         int among_var;
         // (, line 102
@@ -360,6 +373,7 @@ public class ArmenianStemmer extends com.edduarte.vokter.stemmer.snowball.Snowba
         return true;
     }
 
+
     private boolean r_noun() {
         int among_var;
         // (, line 180
@@ -383,6 +397,7 @@ public class ArmenianStemmer extends com.edduarte.vokter.stemmer.snowball.Snowba
         }
         return true;
     }
+
 
     private boolean r_ending() {
         int among_var;
@@ -411,6 +426,7 @@ public class ArmenianStemmer extends com.edduarte.vokter.stemmer.snowball.Snowba
         }
         return true;
     }
+
 
     @Override
     public boolean stem() {
@@ -491,10 +507,12 @@ public class ArmenianStemmer extends com.edduarte.vokter.stemmer.snowball.Snowba
         return true;
     }
 
+
     @Override
     public boolean equals(Object o) {
         return o instanceof ArmenianStemmer;
     }
+
 
     @Override
     public int hashCode() {

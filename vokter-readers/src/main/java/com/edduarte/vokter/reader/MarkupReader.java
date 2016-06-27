@@ -40,12 +40,15 @@ import java.io.InputStream;
 public class MarkupReader implements com.edduarte.vokter.reader.Reader, NodeVisitor {
 
     private final StringBuilder accumulator;
+
     private int width;
+
 
     public MarkupReader() {
         this.width = 0;
         this.accumulator = new StringBuilder();
     }
+
 
     @Override
     public MutableString readDocumentContents(InputStream documentStream) throws IOException {
@@ -61,6 +64,7 @@ public class MarkupReader implements com.edduarte.vokter.reader.Reader, NodeVisi
 
         return new MutableString(plainText);
     }
+
 
     @Override
     public ImmutableSet<String> getSupportedContentTypes() {
@@ -78,6 +82,7 @@ public class MarkupReader implements com.edduarte.vokter.reader.Reader, NodeVisi
                 "application/xml-dtd");
     }
 
+
     @Override
     public void head(Node node, int depth) {
         String name = node.nodeName();
@@ -87,6 +92,7 @@ public class MarkupReader implements com.edduarte.vokter.reader.Reader, NodeVisi
             this.append("\n * ");
         }
     }
+
 
     @Override
     public void tail(Node node, int depth) {
@@ -99,6 +105,7 @@ public class MarkupReader implements com.edduarte.vokter.reader.Reader, NodeVisi
             this.append(String.format(" <%s>", node.absUrl("href")));
         }
     }
+
 
     private void append(String text) {
         if (text.startsWith("\n")) {

@@ -2,9 +2,6 @@ package com.edduarte.vokter.rest.resources;
 
 import io.swagger.jaxrs.config.BeanConfig;
 import io.swagger.models.Info;
-import org.quartz.Scheduler;
-import org.quartz.SchedulerException;
-import org.quartz.impl.StdSchedulerFactory;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

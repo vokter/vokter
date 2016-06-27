@@ -16,13 +16,12 @@
 
 package com.edduarte.vokter.diff;
 
-import com.edduarte.vokter.model.mongodb.Document;
 import com.edduarte.vokter.model.mongodb.Diff;
+import com.edduarte.vokter.model.mongodb.Document;
 import com.google.common.base.Stopwatch;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.concurrent.Callable;
@@ -65,7 +64,6 @@ public class DiffDetector implements Callable<List<Diff>> {
         LinkedList<DiffMatchPatch.Diff> diffs = dmp.diff_main(original, revision);
         dmp.diff_cleanupSemantic(diffs);
 
-//        int insertedCountOffset = 0, deletedCountOffset = 0;
         List<Diff> retrievedDiffs = diffs.parallelStream()
                 .filter(diff -> !diff.getOperation().equals(DiffEvent.nothing))
                 .map(diff -> new Diff(
@@ -73,56 +71,6 @@ public class DiffDetector implements Callable<List<Diff>> {
                         diff.getText(),
                         diff.getStartIndex()
                 )).collect(Collectors.toList());
-
-        //            String diffText = diff.text;
-//            List<Parser.Result> results = parser.parse(new MutableString(diffText));
-//            for (Parser.Result result : results) {
-//                String snippet;
-//                String occurrenceText = result.text.toString();
-//                switch (diff.action) {
-//                    case inserted: {
-//                        int wordNum = insertedCountOffset++;
-//                        snippet = getSnippet(newSnapshot, occurrenceText, wordNum);
-//                        break;
-//                    }
-//                    case deleted: {
-//                        int wordNum = deletedCountOffset++;
-//                        snippet = getSnippet(oldSnapshot, occurrenceText, wordNum);
-//                        break;
-//                    }
-//                    default: {
-//                        insertedCountOffset++;
-//                        deletedCountOffset++;
-//                        continue;
-//                    }
-//                }
-//            }
-//            results.clear();
-//            results = null;
-
-//        try {
-//            parserPool.place(parser);
-//        } catch (InterruptedException ex) {
-//            logger.error(ex.getMessage(), ex);
-//            return null;
-//        }
-
-//        ListIterator<MatchedDiff> it = retrievedDiffs.listIterator();
-//        int i = 1;
-//        while (it.hasNext() && i < retrievedDiffs.size()) {
-//            MatchedDiff d1 = it.next();
-//            MatchedDiff d2 = retrievedDiffs.get(i);
-//
-//            if (d1.status == d2.status &&
-//                    d1.keyword.equals(d2.keyword) &&
-//                    d1.endIndex + SNIPPET_INDEX_OFFSET >= d2.startIndex - SNIPPET_INDEX_OFFSET) {
-////                d2.startIndex = d1.startIndex;
-//                it.remove();
-//
-//            } else {
-//                i++;
-//            }
-//        }
 
         sw.stop();
         logger.info("Completed difference detection for document '{}' in {}",

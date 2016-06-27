@@ -16,18 +16,13 @@
 
 package com.edduarte.vokter.rest.model.v1;
 
-import com.edduarte.vokter.diff.DiffEvent;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.annotation.JsonProperty;
 
 import javax.ws.rs.core.MediaType;
 import java.io.Serializable;
-import java.util.Arrays;
 import java.util.List;
-
-import static com.edduarte.vokter.diff.DiffEvent.deleted;
-import static com.edduarte.vokter.diff.DiffEvent.inserted;
 
 /**
  * Model class of a JSON request for page watching.
@@ -80,8 +75,8 @@ public class AddRequest implements Serializable {
      * receive differences at a 70 second interval, economizing detection calls
      * (instead of duplicating them) and discovering potential differences at a
      * faster pace.
-     *
-     * For versions of Vokter below 2.0.0, diff-detection jobs and diff-matching
+     * <p>
+     * For versions of Vokter below 2.0.0, diff-detection and diff-matching jobs
      * would have independent intervals. This means that detection jobs needed
      * to use an internal interval (420 seconds), and if matching jobs were
      * configured to run more frequently than that interval, it would look for

@@ -16,11 +16,9 @@
 
 package com.edduarte.vokter.diff;
 
-import com.edduarte.vokter.document.DocumentCollection;
-import com.edduarte.vokter.document.DocumentPair;
-import com.edduarte.vokter.model.mongodb.Keyword;
 import com.edduarte.vokter.keyword.KeywordBuilder;
 import com.edduarte.vokter.model.mongodb.Diff;
+import com.edduarte.vokter.model.mongodb.Keyword;
 import com.edduarte.vokter.parser.ParserPool;
 import com.edduarte.vokter.parser.SimpleParser;
 import com.google.common.collect.Lists;
@@ -42,12 +40,11 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Iterator;
 import java.util.List;
-import java.util.function.Consumer;
 import java.util.stream.Collectors;
 
-import static org.junit.Assert.assertEquals;
 import static com.edduarte.vokter.diff.DiffEvent.deleted;
 import static com.edduarte.vokter.diff.DiffEvent.inserted;
+import static org.junit.Assert.assertEquals;
 
 /**
  * @author Eduardo Duarte (<a href="mailto:hello@edduarte.com">hello@edduarte.com</a>)

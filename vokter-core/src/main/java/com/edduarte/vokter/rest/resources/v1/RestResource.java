@@ -33,7 +33,6 @@ import io.swagger.annotations.SwaggerDefinition;
 import org.apache.commons.validator.routines.UrlValidator;
 
 import javax.ws.rs.Consumes;
-import javax.ws.rs.DELETE;
 import javax.ws.rs.GET;
 import javax.ws.rs.HeaderParam;
 import javax.ws.rs.OPTIONS;
@@ -78,6 +77,7 @@ public class RestResource {
         return CORSUtils.getOptionsWithCORS(acrHeader);
     }
 
+
     @GET
     @Path("exampleRequest")
     public Response exampleRequest() {
@@ -92,6 +92,7 @@ public class RestResource {
                 .entity(requestBody)
                 .build();
     }
+
 
     /**
      * Options method for "exampleResponse" to enable Access-Control-Allow-Origin
@@ -116,6 +117,7 @@ public class RestResource {
                 .entity(responseBody)
                 .build();
     }
+
 
     /**
      * Options method for "subscribe" to enable Access-Control-Allow-Origin
@@ -210,6 +212,7 @@ public class RestResource {
                     .build();
         }
     }
+
 
     /**
      * Options method for "cancel" to enable Access-Control-Allow-Origin

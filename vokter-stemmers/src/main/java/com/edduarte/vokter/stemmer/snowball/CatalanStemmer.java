@@ -12,6 +12,7 @@ public class CatalanStemmer extends SnowballStemmer {
     private static final long serialVersionUID = 1L;
 
     private final static CatalanStemmer methodObject = new CatalanStemmer();
+
     private final static Among a_0[] = {
             new Among("", -1, 13, "", methodObject),
             new Among("\u00B7", 0, 12, "", methodObject),
@@ -27,6 +28,7 @@ public class CatalanStemmer extends SnowballStemmer {
             new Among("\u00FA", 0, 9, "", methodObject),
             new Among("\u00FC", 0, 10, "", methodObject)
     };
+
     private final static Among a_1[] = {
             new Among("la", -1, 1, "", methodObject),
             new Among("-la", 0, 1, "", methodObject),
@@ -68,6 +70,7 @@ public class CatalanStemmer extends SnowballStemmer {
             new Among("-us", 36, 1, "", methodObject),
             new Among("'t", -1, 1, "", methodObject)
     };
+
     private final static Among a_2[] = {
             new Among("ica", -1, 4, "", methodObject),
             new Among("l\u00F3gica", 0, 3, "", methodObject),
@@ -270,6 +273,7 @@ public class CatalanStemmer extends SnowballStemmer {
             new Among("ci\u00F3", 197, 1, "", methodObject),
             new Among("aci\u00F3", 198, 1, "", methodObject)
     };
+
     private final static Among a_3[] = {
             new Among("aba", -1, 1, "", methodObject),
             new Among("esca", -1, 1, "", methodObject),
@@ -555,6 +559,7 @@ public class CatalanStemmer extends SnowballStemmer {
             new Among("i\u00EF", -1, 1, "", methodObject),
             new Among("i\u00F3", -1, 1, "", methodObject)
     };
+
     private final static Among a_4[] = {
             new Among("a", -1, 1, "", methodObject),
             new Among("e", -1, 1, "", methodObject),
@@ -579,20 +584,26 @@ public class CatalanStemmer extends SnowballStemmer {
             new Among("\u00EF", -1, 1, "", methodObject),
             new Among("\u00F3", -1, 1, "", methodObject)
     };
+
     private static final char g_v[] = {17, 65, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 128, 129, 81, 6, 10};
+
     private int I_p2;
+
     private int I_p1;
+
 
     @Override
     public String getSupportedLanguage() {
         return "ct";
     }
 
+
     private void copy_from(CatalanStemmer other) {
         I_p2 = other.I_p2;
         I_p1 = other.I_p1;
         super.copy_from(other);
     }
+
 
     private boolean r_mark_regions() {
         int v_1;
@@ -672,6 +683,7 @@ public class CatalanStemmer extends SnowballStemmer {
         cursor = v_1;
         return true;
     }
+
 
     private boolean r_cleaning() {
         int among_var;
@@ -772,6 +784,7 @@ public class CatalanStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_R1() {
         if (!(I_p1 <= cursor)) {
             return false;
@@ -779,12 +792,14 @@ public class CatalanStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_R2() {
         if (!(I_p2 <= cursor)) {
             return false;
         }
         return true;
     }
+
 
     private boolean r_attached_pronoun() {
         int among_var;
@@ -813,6 +828,7 @@ public class CatalanStemmer extends SnowballStemmer {
         }
         return true;
     }
+
 
     private boolean r_standard_suffix() {
         int among_var;
@@ -878,6 +894,7 @@ public class CatalanStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_verb_suffix() {
         int among_var;
         // (, line 127
@@ -915,6 +932,7 @@ public class CatalanStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_residual_suffix() {
         int among_var;
         // (, line 179
@@ -951,6 +969,7 @@ public class CatalanStemmer extends SnowballStemmer {
         }
         return true;
     }
+
 
     @Override
     public boolean stem() {
@@ -1033,10 +1052,12 @@ public class CatalanStemmer extends SnowballStemmer {
         return true;
     }
 
+
     @Override
     public boolean equals(Object o) {
         return o instanceof CatalanStemmer;
     }
+
 
     @Override
     public int hashCode() {

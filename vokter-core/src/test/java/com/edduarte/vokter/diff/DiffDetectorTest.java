@@ -16,9 +16,9 @@
 
 package com.edduarte.vokter.diff;
 
-import com.edduarte.vokter.model.mongodb.Document;
 import com.edduarte.vokter.document.DocumentBuilder;
 import com.edduarte.vokter.model.mongodb.Diff;
+import com.edduarte.vokter.model.mongodb.Document;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import org.apache.commons.io.IOUtils;
 import org.junit.Test;

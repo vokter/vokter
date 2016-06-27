@@ -1,13 +1,6 @@
 package com.edduarte.vokter.document;
 
 import com.edduarte.vokter.model.mongodb.Document;
-import com.edduarte.vokter.parser.ParserPool;
-import com.edduarte.vokter.parser.SimpleParser;
-import com.mongodb.DB;
-import com.mongodb.MongoClient;
-import org.junit.AfterClass;
-import org.junit.Assert;
-import org.junit.BeforeClass;
 import org.junit.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -28,6 +21,7 @@ public class DocumentBuilderTest {
     // with correct content type specified
     // expected result: document content type equals the specified content type
 
+
     @Test
     public void htmlCorrectContentType() {
         Document document = DocumentBuilder
@@ -36,6 +30,7 @@ public class DocumentBuilderTest {
         assertEquals(MediaType.TEXT_HTML, document.getContentType());
     }
 
+
     @Test
     public void xmlCorrectContentType() {
         Document document = DocumentBuilder
@@ -43,6 +38,7 @@ public class DocumentBuilderTest {
                 .build();
         assertEquals(MediaType.APPLICATION_XML, document.getContentType());
     }
+
 
     @Test
     public void jsonCorrectContentType() {
@@ -57,6 +53,7 @@ public class DocumentBuilderTest {
     // expected result: document builder used the response content type, so
     // the document content type equals the correct content type
 
+
     @Test
     public void htmlWrongContentType() {
         Document document = DocumentBuilder
@@ -65,6 +62,7 @@ public class DocumentBuilderTest {
         assertEquals(MediaType.TEXT_HTML, document.getContentType());
     }
 
+
     @Test
     public void xmlWrongContentType() {
         Document document = DocumentBuilder
@@ -72,6 +70,7 @@ public class DocumentBuilderTest {
                 .build();
         assertEquals(MediaType.APPLICATION_XML, document.getContentType());
     }
+
 
     @Test
     public void jsonWrongContentType() {
@@ -86,6 +85,7 @@ public class DocumentBuilderTest {
     // expected result: document builder used the response content type, so
     // the document content type equals the correct content type
 
+
     @Test
     public void htmlNoContentType() {
         Document document = DocumentBuilder
@@ -94,6 +94,7 @@ public class DocumentBuilderTest {
         assertEquals(MediaType.TEXT_HTML, document.getContentType());
     }
 
+
     @Test
     public void xmlNoContentType() {
         Document document = DocumentBuilder
@@ -101,6 +102,7 @@ public class DocumentBuilderTest {
                 .build();
         assertEquals(MediaType.APPLICATION_XML, document.getContentType());
     }
+
 
     @Test
     public void jsonNoContentType() {

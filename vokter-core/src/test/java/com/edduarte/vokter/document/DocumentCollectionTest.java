@@ -17,8 +17,6 @@
 package com.edduarte.vokter.document;
 
 import com.edduarte.vokter.model.mongodb.Document;
-import com.edduarte.vokter.parser.ParserPool;
-import com.edduarte.vokter.parser.SimpleParser;
 import com.mongodb.DB;
 import com.mongodb.MongoClient;
 import org.junit.AfterClass;

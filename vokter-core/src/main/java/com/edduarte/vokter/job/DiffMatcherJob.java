@@ -17,16 +17,13 @@
 package com.edduarte.vokter.job;
 
 import com.edduarte.vokter.diff.DiffEvent;
-import com.edduarte.vokter.model.mongodb.Diff;
-import com.edduarte.vokter.diff.DiffMatcher;
-import com.edduarte.vokter.model.mongodb.Keyword;
 import com.edduarte.vokter.diff.Match;
+import com.edduarte.vokter.model.mongodb.Keyword;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.quartz.InterruptableJob;
 import org.quartz.JobDataMap;
 import org.quartz.JobExecutionContext;
 import org.quartz.JobExecutionException;
-import org.quartz.JobKey;
 import org.quartz.PersistJobDataAfterExecution;
 import org.quartz.UnableToInterruptJobException;
 import org.slf4j.Logger;
@@ -45,8 +42,6 @@ import java.util.stream.Collectors;
  */
 @PersistJobDataAfterExecution
 public class DiffMatcherJob implements InterruptableJob {
-
-    private static final Logger logger = LoggerFactory.getLogger(DiffMatcherJob.class);
 
     public static final String PARENT_JOB_MANAGER = "parent_job_manager";
 
@@ -71,6 +66,8 @@ public class DiffMatcherJob implements InterruptableJob {
     public final static String IGNORE_CASE = "ignore_case";
 
     public final static String SNIPPET_OFFSET = "snippet_offset";
+
+    private static final Logger logger = LoggerFactory.getLogger(DiffMatcherJob.class);
 
 
     @Override
@@ -99,8 +96,10 @@ public class DiffMatcherJob implements InterruptableJob {
             if (hasNewDifferences) {
                 dataMap.put(HAS_NEW_DIFFS, false);
 
-                List<String> keywords = mapper.readValue(dataMap.getString(KEYWORDS), ArrayList.class);
-                List<DiffEvent> events = mapper.readValue(dataMap.getString(EVENTS), ArrayList.class);
+                List<String> keywords = mapper.readValue(
+                        dataMap.getString(KEYWORDS), ArrayList.class);
+                List<DiffEvent> events = mapper.readValue(
+                        dataMap.getString(EVENTS), ArrayList.class);
                 boolean ignoreAdded = !events.contains(DiffEvent.inserted);
                 boolean ignoreRemoved = !events.contains(DiffEvent.deleted);
                 boolean filterStopwords = dataMap.getBoolean(FILTER_STOPWORDS);

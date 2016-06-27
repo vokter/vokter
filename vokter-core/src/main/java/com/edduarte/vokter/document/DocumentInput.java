@@ -19,10 +19,9 @@ package com.edduarte.vokter.document;
 import java.io.InputStream;
 
 /**
- * A class that represents a document being lazily collected, containing
- * data that will be later compose a Document object.
- * This object is converted into a Document in the collection in the
- * DocumentPipeline class, during the indexing process.
+ * A class that represents a document being lazily collected, containing data
+ * that will be later compose a Document object.
+ * This object is converted into a Document in the DocumentPipeline class.
  *
  * @author Eduardo Duarte (<a href="mailto:hello@edduarte.com">hello@edduarte.com</a>)
  * @version 1.3.2

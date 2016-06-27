@@ -12,6 +12,7 @@ public class CORSUtils {
     private CORSUtils() {
     }
 
+
     public static Response.ResponseBuilder getResponseBuilderWithCORS(int statusCode) {
         return Response.status(statusCode)
 //                .header("Access-Control-Allow-Credentials", "true")

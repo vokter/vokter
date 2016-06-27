@@ -16,16 +16,16 @@
 
 package com.edduarte.vokter.job;
 
+import com.edduarte.vokter.diff.DiffDetector;
 import com.edduarte.vokter.diff.DiffMatcher;
 import com.edduarte.vokter.diff.Match;
-import com.edduarte.vokter.document.DocumentPair;
-import com.edduarte.vokter.model.mongodb.Diff;
-import com.edduarte.vokter.diff.DiffDetector;
-import com.edduarte.vokter.model.mongodb.Document;
 import com.edduarte.vokter.document.DocumentBuilder;
 import com.edduarte.vokter.document.DocumentCollection;
-import com.edduarte.vokter.model.mongodb.Keyword;
+import com.edduarte.vokter.document.DocumentPair;
 import com.edduarte.vokter.keyword.KeywordBuilder;
+import com.edduarte.vokter.model.mongodb.Diff;
+import com.edduarte.vokter.model.mongodb.Document;
+import com.edduarte.vokter.model.mongodb.Keyword;
 import com.edduarte.vokter.model.mongodb.Session;
 import com.edduarte.vokter.parser.ParserPool;
 import com.edduarte.vokter.parser.SimpleParser;

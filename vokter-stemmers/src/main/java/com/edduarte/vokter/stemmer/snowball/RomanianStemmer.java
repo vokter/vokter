@@ -12,11 +12,13 @@ public class RomanianStemmer extends SnowballStemmer {
     private static final long serialVersionUID = 1L;
 
     private final static RomanianStemmer methodObject = new RomanianStemmer();
+
     private final static Among a_0[] = {
             new Among("", -1, 3, "", methodObject),
             new Among("I", 0, 1, "", methodObject),
             new Among("U", 0, 2, "", methodObject)
     };
+
     private final static Among a_1[] = {
             new Among("ea", -1, 3, "", methodObject),
             new Among("a\u0163ia", -1, 7, "", methodObject),
@@ -35,6 +37,7 @@ public class RomanianStemmer extends SnowballStemmer {
             new Among("ilor", -1, 4, "", methodObject),
             new Among("iilor", 14, 4, "", methodObject)
     };
+
     private final static Among a_2[] = {
             new Among("icala", -1, 4, "", methodObject),
             new Among("iciva", -1, 4, "", methodObject),
@@ -83,6 +86,7 @@ public class RomanianStemmer extends SnowballStemmer {
             new Among("ativ\u0103", -1, 5, "", methodObject),
             new Among("itiv\u0103", -1, 6, "", methodObject)
     };
+
     private final static Among a_3[] = {
             new Among("ica", -1, 1, "", methodObject),
             new Among("abila", -1, 1, "", methodObject),
@@ -147,6 +151,7 @@ public class RomanianStemmer extends SnowballStemmer {
             new Among("ut\u0103", -1, 1, "", methodObject),
             new Among("iv\u0103", -1, 1, "", methodObject)
     };
+
     private final static Among a_4[] = {
             new Among("ea", -1, 1, "", methodObject),
             new Among("ia", -1, 1, "", methodObject),
@@ -243,6 +248,7 @@ public class RomanianStemmer extends SnowballStemmer {
             new Among("\u00E2r\u0103", -1, 1, "", methodObject),
             new Among("eaz\u0103", -1, 1, "", methodObject)
     };
+
     private final static Among a_5[] = {
             new Among("a", -1, 1, "", methodObject),
             new Among("e", -1, 1, "", methodObject),
@@ -250,16 +256,23 @@ public class RomanianStemmer extends SnowballStemmer {
             new Among("i", -1, 1, "", methodObject),
             new Among("\u0103", -1, 1, "", methodObject)
     };
+
     private static final char g_v[] = {17, 65, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 32, 0, 0, 4};
+
     private boolean B_standard_suffix_removed;
+
     private int I_p2;
+
     private int I_p1;
+
     private int I_pV;
+
 
     @Override
     public String getSupportedLanguage() {
         return "ro";
     }
+
 
     private void copy_from(RomanianStemmer other) {
         B_standard_suffix_removed = other.B_standard_suffix_removed;
@@ -268,6 +281,7 @@ public class RomanianStemmer extends SnowballStemmer {
         I_pV = other.I_pV;
         super.copy_from(other);
     }
+
 
     private boolean r_prelude() {
         int v_1;
@@ -342,6 +356,7 @@ public class RomanianStemmer extends SnowballStemmer {
         }
         return true;
     }
+
 
     private boolean r_mark_regions() {
         int v_1;
@@ -540,6 +555,7 @@ public class RomanianStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_postlude() {
         int among_var;
         int v_1;
@@ -589,12 +605,14 @@ public class RomanianStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_RV() {
         if (!(I_pV <= cursor)) {
             return false;
         }
         return true;
     }
+
 
     private boolean r_R1() {
         if (!(I_p1 <= cursor)) {
@@ -603,12 +621,14 @@ public class RomanianStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_R2() {
         if (!(I_p2 <= cursor)) {
             return false;
         }
         return true;
     }
+
 
     private boolean r_step_0() {
         int among_var;
@@ -682,6 +702,7 @@ public class RomanianStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_combo_suffix() {
         int among_var;
         int v_1;
@@ -741,6 +762,7 @@ public class RomanianStemmer extends SnowballStemmer {
         cursor = limit - v_1;
         return true;
     }
+
 
     private boolean r_standard_suffix() {
         int among_var;
@@ -807,6 +829,7 @@ public class RomanianStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_verb_suffix() {
         int among_var;
         int v_1;
@@ -870,6 +893,7 @@ public class RomanianStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_vowel_suffix() {
         int among_var;
         // (, line 218
@@ -897,6 +921,7 @@ public class RomanianStemmer extends SnowballStemmer {
         }
         return true;
     }
+
 
     @Override
     public boolean stem() {
@@ -1001,10 +1026,12 @@ public class RomanianStemmer extends SnowballStemmer {
         return true;
     }
 
+
     @Override
     public boolean equals(Object o) {
         return o instanceof RomanianStemmer;
     }
+
 
     @Override
     public int hashCode() {

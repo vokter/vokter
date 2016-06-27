@@ -16,8 +16,8 @@
 
 package com.edduarte.vokter.diff;
 
-import com.edduarte.vokter.model.mongodb.Keyword;
 import com.edduarte.vokter.model.mongodb.Diff;
+import com.edduarte.vokter.model.mongodb.Keyword;
 import com.edduarte.vokter.parser.Parser;
 import com.edduarte.vokter.parser.ParserPool;
 import com.edduarte.vokter.stemmer.Stemmer;
@@ -123,8 +123,11 @@ public class DiffMatcher implements Callable<Set<Match>> {
 
         diffs.parallelStream()
                 .unordered()
-                .filter(d -> !(ignoreAdded && d.getEvent().equals(DiffEvent.inserted)))
-                .filter(d -> !(ignoreRemoved && d.getEvent().equals(DiffEvent.deleted))).forEach(d -> {
+                .filter(d -> !(ignoreAdded && d.getEvent()
+                        .equals(DiffEvent.inserted)))
+                .filter(d -> !(ignoreRemoved && d.getEvent()
+                        .equals(DiffEvent.deleted))).forEach(d -> {
+            String s = d.getText();
 
             // sets the parser's stopper according to the detected language
             // if the detected language is not supported, stopword filtering is
@@ -150,7 +153,8 @@ public class DiffMatcher implements Callable<Set<Match>> {
                     if (stemmerClass != null) {
                         stemmer = stemmerClass.newInstance();
                     } else {
-                        // if no compatible stemmers were found, use the english stemmer
+                        // if no compatible stemmers were found, use the english
+                        // stemmer
                         stemmerClass = OSGiManager.getCompatibleStemmer("en");
                         if (stemmerClass != null) {
                             stemmer = stemmerClass.newInstance();
@@ -172,7 +176,7 @@ public class DiffMatcher implements Callable<Set<Match>> {
             }
 
             List<Parser.Result> parserResults = parser.parse(
-                    new MutableString(d.getText()),
+                    new MutableString(s),
                     stopper,
                     stemmer,
                     ignoreCase
@@ -215,12 +219,14 @@ public class DiffMatcher implements Callable<Set<Match>> {
                     // bloom filter. If at least one of the words in the keyword
                     // is said by the BloomFilter to not exist (guaranteed), we
                     // skip this keyword
-                    .filter(kw -> kw.textStream().allMatch(bloomFilter::mightContain))
+                    .filter(kw -> kw.textStream()
+                            .allMatch(bloomFilter::mightContain))
                     // if the keyword passes the bloom filter testing,
                     // we test with more certainty if the candidate keyword
                     // actually matches any of the difference tokens, using
                     // String.equals() this time
-                    .filter((kw) -> kw.textStream().allMatch(kwText -> tokens.stream().anyMatch(kwText::equals)))
+                    .filter((kw) -> kw.textStream().allMatch(kwText ->
+                            tokens.stream().anyMatch(kwText::equals)))
                     .map((kw) -> {
                         // if a candidate passes the equality test, it's a true
                         // match, so we generate a snippet for it and return it
@@ -235,7 +241,7 @@ public class DiffMatcher implements Callable<Set<Match>> {
                                     end = newText.length();
                                 }
                                 String snippet = newText.substring(start, end);
-                                return new Match(d.getEvent(), kw, d.getText(), snippet);
+                                return new Match(d.getEvent(), kw, s, snippet);
                             }
 
                             case deleted: {
@@ -243,7 +249,7 @@ public class DiffMatcher implements Callable<Set<Match>> {
                                     end = oldText.length();
                                 }
                                 String snippet = oldText.substring(start, end);
-                                return new Match(d.getEvent(), kw, d.getText(), snippet);
+                                return new Match(d.getEvent(), kw, s, snippet);
                             }
                         }
                         // should not occur
@@ -257,22 +263,5 @@ public class DiffMatcher implements Callable<Set<Match>> {
         logger.info("Completed difference matching for keywords '{}' in {}",
                 keywords.toString(), sw.toString());
         return matchedDiffs;
-    }
-
-    private class CandidateMatch {
-
-        public final Diff d;
-
-        public final Keyword kw;
-
-        public final List<MutableString> diffTokens;
-
-
-        private CandidateMatch(Diff d, Keyword kw,
-                               List<MutableString> diffTokens) {
-            this.d = d;
-            this.kw = kw;
-            this.diffTokens = diffTokens;
-        }
     }
 }

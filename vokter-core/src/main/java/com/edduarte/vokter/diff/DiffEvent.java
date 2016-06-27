@@ -21,9 +21,9 @@ package com.edduarte.vokter.diff;
  * trigger a difference.
  * The following example ...
  * [
- *     Diff(Status.deleted, "Hello"),
- *     Diff(Status.inserted, "Goodbye"),
- *     Diff(Status.nothing, " world.")
+ * Diff(Status.deleted, "Hello"),
+ * Diff(Status.inserted, "Goodbye"),
+ * Diff(Status.nothing, " world.")
  * ]
  * ... means that the newer document snapshot erased "Hello", wrote "Goodbye"
  * and kept " world.".

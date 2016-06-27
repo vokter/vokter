@@ -12,6 +12,7 @@ public class LovinsStemmer extends SnowballStemmer {
     private static final long serialVersionUID = 1L;
 
     private final static LovinsStemmer methodObject = new LovinsStemmer();
+
     private final static Among a_0[] = {
             new Among("d", -1, -1, "", methodObject),
             new Among("f", -1, -1, "", methodObject),
@@ -23,6 +24,7 @@ public class LovinsStemmer extends SnowballStemmer {
             new Among("es", -1, -1, "", methodObject),
             new Among("t", -1, -1, "", methodObject)
     };
+
     private final static Among a_1[] = {
             new Among("s'", -1, 1, "r_A", methodObject),
             new Among("a", -1, 1, "r_A", methodObject),
@@ -319,6 +321,7 @@ public class LovinsStemmer extends SnowballStemmer {
             new Among("arity", 276, 1, "r_B", methodObject),
             new Among("ivity", 276, 1, "r_A", methodObject)
     };
+
     private final static Among a_2[] = {
             new Among("bb", -1, -1, "", methodObject),
             new Among("dd", -1, -1, "", methodObject),
@@ -331,6 +334,7 @@ public class LovinsStemmer extends SnowballStemmer {
             new Among("ss", -1, -1, "", methodObject),
             new Among("tt", -1, -1, "", methodObject)
     };
+
     private final static Among a_3[] = {
             new Among("uad", -1, 18, "", methodObject),
             new Among("vad", -1, 19, "", methodObject),
@@ -368,14 +372,17 @@ public class LovinsStemmer extends SnowballStemmer {
             new Among("yz", -1, 34, "", methodObject)
     };
 
+
     @Override
     public String getSupportedLanguage() {
         return "en3";
     }
 
+
     private void copy_from(LovinsStemmer other) {
         super.copy_from(other);
     }
+
 
     private boolean r_A() {
         // (, line 21
@@ -390,6 +397,7 @@ public class LovinsStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_B() {
         // (, line 22
         // hop, line 22
@@ -402,6 +410,7 @@ public class LovinsStemmer extends SnowballStemmer {
         }
         return true;
     }
+
 
     private boolean r_C() {
         // (, line 23
@@ -416,6 +425,7 @@ public class LovinsStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_D() {
         // (, line 24
         // hop, line 24
@@ -428,6 +438,7 @@ public class LovinsStemmer extends SnowballStemmer {
         }
         return true;
     }
+
 
     private boolean r_E() {
         int v_1;
@@ -460,6 +471,7 @@ public class LovinsStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_F() {
         int v_1;
         int v_2;
@@ -491,6 +503,7 @@ public class LovinsStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_G() {
         int v_1;
         // (, line 27
@@ -511,6 +524,7 @@ public class LovinsStemmer extends SnowballStemmer {
         }
         return true;
     }
+
 
     private boolean r_H() {
         int v_1;
@@ -547,6 +561,7 @@ public class LovinsStemmer extends SnowballStemmer {
         } while (false);
         return true;
     }
+
 
     private boolean r_I() {
         int v_1;
@@ -593,6 +608,7 @@ public class LovinsStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_J() {
         int v_1;
         int v_2;
@@ -637,6 +653,7 @@ public class LovinsStemmer extends SnowballStemmer {
         }
         return true;
     }
+
 
     private boolean r_K() {
         int v_1;
@@ -692,6 +709,7 @@ public class LovinsStemmer extends SnowballStemmer {
         } while (false);
         return true;
     }
+
 
     private boolean r_L() {
         int v_1;
@@ -767,6 +785,7 @@ public class LovinsStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_M() {
         int v_1;
         int v_2;
@@ -840,6 +859,7 @@ public class LovinsStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_N() {
         int v_1;
         int v_2;
@@ -899,6 +919,7 @@ public class LovinsStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_O() {
         int v_1;
         int v_2;
@@ -935,6 +956,7 @@ public class LovinsStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_P() {
         int v_1;
         int v_2;
@@ -965,6 +987,7 @@ public class LovinsStemmer extends SnowballStemmer {
         }
         return true;
     }
+
 
     private boolean r_Q() {
         int v_1;
@@ -1023,6 +1046,7 @@ public class LovinsStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_R() {
         int v_1;
         int v_2;
@@ -1058,6 +1082,7 @@ public class LovinsStemmer extends SnowballStemmer {
         } while (false);
         return true;
     }
+
 
     private boolean r_S() {
         int v_1;
@@ -1110,6 +1135,7 @@ public class LovinsStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_T() {
         int v_1;
         int v_2;
@@ -1160,6 +1186,7 @@ public class LovinsStemmer extends SnowballStemmer {
         } while (false);
         return true;
     }
+
 
     private boolean r_U() {
         int v_1;
@@ -1215,6 +1242,7 @@ public class LovinsStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_V() {
         int v_1;
         // (, line 42
@@ -1235,6 +1263,7 @@ public class LovinsStemmer extends SnowballStemmer {
         }
         return true;
     }
+
 
     private boolean r_W() {
         int v_1;
@@ -1280,6 +1309,7 @@ public class LovinsStemmer extends SnowballStemmer {
         }
         return true;
     }
+
 
     private boolean r_X() {
         int v_1;
@@ -1336,6 +1366,7 @@ public class LovinsStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_Y() {
         int v_1;
         // (, line 45
@@ -1356,6 +1387,7 @@ public class LovinsStemmer extends SnowballStemmer {
         }
         return true;
     }
+
 
     private boolean r_Z() {
         int v_1;
@@ -1388,6 +1420,7 @@ public class LovinsStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_AA() {
         int v_1;
         // (, line 47
@@ -1408,6 +1441,7 @@ public class LovinsStemmer extends SnowballStemmer {
         }
         return true;
     }
+
 
     private boolean r_BB() {
         int v_1;
@@ -1454,6 +1488,7 @@ public class LovinsStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_CC() {
         int v_1;
         // (, line 50
@@ -1474,6 +1509,7 @@ public class LovinsStemmer extends SnowballStemmer {
         }
         return true;
     }
+
 
     private boolean r_endings() {
         int among_var;
@@ -1499,6 +1535,7 @@ public class LovinsStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_undouble() {
         int v_1;
         // (, line 151
@@ -1522,6 +1559,7 @@ public class LovinsStemmer extends SnowballStemmer {
         slice_del();
         return true;
     }
+
 
     private boolean r_respell() {
         int among_var;
@@ -1824,6 +1862,7 @@ public class LovinsStemmer extends SnowballStemmer {
         return true;
     }
 
+
     @Override
     public boolean stem() {
         int v_1;
@@ -1868,10 +1907,12 @@ public class LovinsStemmer extends SnowballStemmer {
         return true;
     }
 
+
     @Override
     public boolean equals(Object o) {
         return o instanceof LovinsStemmer;
     }
+
 
     @Override
     public int hashCode() {

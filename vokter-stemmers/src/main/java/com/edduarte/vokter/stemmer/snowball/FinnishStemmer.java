@@ -14,6 +14,7 @@ public class FinnishStemmer extends SnowballStemmer {
     private static final long serialVersionUID = 1L;
 
     private final static FinnishStemmer methodObject = new FinnishStemmer();
+
     private final static Among a_0[] = {
             new Among("pa", -1, 1, "", methodObject),
             new Among("sti", -1, 2, "", methodObject),
@@ -26,6 +27,7 @@ public class FinnishStemmer extends SnowballStemmer {
             new Among("p\u00E4", -1, 1, "", methodObject),
             new Among("k\u00F6", -1, 1, "", methodObject)
     };
+
     private final static Among a_1[] = {
             new Among("lla", -1, -1, "", methodObject),
             new Among("na", -1, -1, "", methodObject),
@@ -34,6 +36,7 @@ public class FinnishStemmer extends SnowballStemmer {
             new Among("lta", 3, -1, "", methodObject),
             new Among("sta", 3, -1, "", methodObject)
     };
+
     private final static Among a_2[] = {
             new Among("ll\u00E4", -1, -1, "", methodObject),
             new Among("n\u00E4", -1, -1, "", methodObject),
@@ -42,10 +45,12 @@ public class FinnishStemmer extends SnowballStemmer {
             new Among("lt\u00E4", 3, -1, "", methodObject),
             new Among("st\u00E4", 3, -1, "", methodObject)
     };
+
     private final static Among a_3[] = {
             new Among("lle", -1, -1, "", methodObject),
             new Among("ine", -1, -1, "", methodObject)
     };
+
     private final static Among a_4[] = {
             new Among("nsa", -1, 3, "", methodObject),
             new Among("mme", -1, 3, "", methodObject),
@@ -57,6 +62,7 @@ public class FinnishStemmer extends SnowballStemmer {
             new Among("\u00E4n", -1, 5, "", methodObject),
             new Among("ns\u00E4", -1, 3, "", methodObject)
     };
+
     private final static Among a_5[] = {
             new Among("aa", -1, -1, "", methodObject),
             new Among("ee", -1, -1, "", methodObject),
@@ -66,6 +72,7 @@ public class FinnishStemmer extends SnowballStemmer {
             new Among("\u00E4\u00E4", -1, -1, "", methodObject),
             new Among("\u00F6\u00F6", -1, -1, "", methodObject)
     };
+
     private final static Among a_6[] = {
             new Among("a", -1, 8, "", methodObject),
             new Among("lla", 0, -1, "", methodObject),
@@ -98,6 +105,7 @@ public class FinnishStemmer extends SnowballStemmer {
             new Among("st\u00E4", 26, -1, "", methodObject),
             new Among("tt\u00E4", 26, 9, "", methodObject)
     };
+
     private final static Among a_7[] = {
             new Among("eja", -1, -1, "", methodObject),
             new Among("mma", -1, 1, "", methodObject),
@@ -114,27 +122,39 @@ public class FinnishStemmer extends SnowballStemmer {
             new Among("mp\u00E4", -1, 1, "", methodObject),
             new Among("imp\u00E4", 12, -1, "", methodObject)
     };
+
     private final static Among a_8[] = {
             new Among("i", -1, -1, "", methodObject),
             new Among("j", -1, -1, "", methodObject)
     };
+
     private final static Among a_9[] = {
             new Among("mma", -1, 1, "", methodObject),
             new Among("imma", 0, -1, "", methodObject)
     };
+
     private static final char g_AEI[] = {17, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8};
+
     private static final char g_V1[] = {17, 65, 16, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 0, 32};
+
     private static final char g_V2[] = {17, 65, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 0, 32};
+
     private static final char g_particle_end[] = {17, 97, 24, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 0, 32};
+
     private boolean B_ending_removed;
+
     private MutableString S_x = new MutableString();
+
     private int I_p2;
+
     private int I_p1;
+
 
     @Override
     public String getSupportedLanguage() {
         return "fi";
     }
+
 
     private void copy_from(FinnishStemmer other) {
         B_ending_removed = other.B_ending_removed;
@@ -143,6 +163,7 @@ public class FinnishStemmer extends SnowballStemmer {
         I_p1 = other.I_p1;
         super.copy_from(other);
     }
+
 
     private boolean r_mark_regions() {
         int v_1;
@@ -223,12 +244,14 @@ public class FinnishStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_R2() {
         if (!(I_p2 <= cursor)) {
             return false;
         }
         return true;
     }
+
 
     private boolean r_particle_etc() {
         int among_var;
@@ -278,6 +301,7 @@ public class FinnishStemmer extends SnowballStemmer {
         slice_del();
         return true;
     }
+
 
     private boolean r_possessive() {
         int among_var;
@@ -379,6 +403,7 @@ public class FinnishStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_LONG() {
         // among, line 91
         if (find_among_b(a_5, 7) == 0) {
@@ -386,6 +411,7 @@ public class FinnishStemmer extends SnowballStemmer {
         }
         return true;
     }
+
 
     private boolean r_VI() {
         // (, line 93
@@ -398,6 +424,7 @@ public class FinnishStemmer extends SnowballStemmer {
         }
         return true;
     }
+
 
     private boolean r_case_ending() {
         int among_var;
@@ -537,6 +564,7 @@ public class FinnishStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_other_endings() {
         int among_var;
         int v_1;
@@ -590,6 +618,7 @@ public class FinnishStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_i_plural() {
         int v_1;
         int v_2;
@@ -619,6 +648,7 @@ public class FinnishStemmer extends SnowballStemmer {
         slice_del();
         return true;
     }
+
 
     private boolean r_t_plural() {
         int among_var;
@@ -705,6 +735,7 @@ public class FinnishStemmer extends SnowballStemmer {
         slice_del();
         return true;
     }
+
 
     private boolean r_tidy() {
         int v_1;
@@ -868,6 +899,7 @@ public class FinnishStemmer extends SnowballStemmer {
         return true;
     }
 
+
     @Override
     public boolean stem() {
         int v_1;
@@ -985,10 +1017,12 @@ public class FinnishStemmer extends SnowballStemmer {
         return true;
     }
 
+
     @Override
     public boolean equals(Object o) {
         return o instanceof FinnishStemmer;
     }
+
 
     @Override
     public int hashCode() {

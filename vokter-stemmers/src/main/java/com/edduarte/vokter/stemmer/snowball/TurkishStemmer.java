@@ -12,6 +12,7 @@ public class TurkishStemmer extends SnowballStemmer {
     private static final long serialVersionUID = 1L;
 
     private final static TurkishStemmer methodObject = new TurkishStemmer();
+
     private final static Among a_0[] = {
             new Among("m", -1, -1, "", methodObject),
             new Among("n", -1, -1, "", methodObject),
@@ -24,92 +25,110 @@ public class TurkishStemmer extends SnowballStemmer {
             new Among("m\u0131z", -1, -1, "", methodObject),
             new Among("n\u0131z", -1, -1, "", methodObject)
     };
+
     private final static Among a_1[] = {
             new Among("leri", -1, -1, "", methodObject),
             new Among("lar\u0131", -1, -1, "", methodObject)
     };
+
     private final static Among a_2[] = {
             new Among("ni", -1, -1, "", methodObject),
             new Among("nu", -1, -1, "", methodObject),
             new Among("n\u00FC", -1, -1, "", methodObject),
             new Among("n\u0131", -1, -1, "", methodObject)
     };
+
     private final static Among a_3[] = {
             new Among("in", -1, -1, "", methodObject),
             new Among("un", -1, -1, "", methodObject),
             new Among("\u00FCn", -1, -1, "", methodObject),
             new Among("\u0131n", -1, -1, "", methodObject)
     };
+
     private final static Among a_4[] = {
             new Among("a", -1, -1, "", methodObject),
             new Among("e", -1, -1, "", methodObject)
     };
+
     private final static Among a_5[] = {
             new Among("na", -1, -1, "", methodObject),
             new Among("ne", -1, -1, "", methodObject)
     };
+
     private final static Among a_6[] = {
             new Among("da", -1, -1, "", methodObject),
             new Among("ta", -1, -1, "", methodObject),
             new Among("de", -1, -1, "", methodObject),
             new Among("te", -1, -1, "", methodObject)
     };
+
     private final static Among a_7[] = {
             new Among("nda", -1, -1, "", methodObject),
             new Among("nde", -1, -1, "", methodObject)
     };
+
     private final static Among a_8[] = {
             new Among("dan", -1, -1, "", methodObject),
             new Among("tan", -1, -1, "", methodObject),
             new Among("den", -1, -1, "", methodObject),
             new Among("ten", -1, -1, "", methodObject)
     };
+
     private final static Among a_9[] = {
             new Among("ndan", -1, -1, "", methodObject),
             new Among("nden", -1, -1, "", methodObject)
     };
+
     private final static Among a_10[] = {
             new Among("la", -1, -1, "", methodObject),
             new Among("le", -1, -1, "", methodObject)
     };
+
     private final static Among a_11[] = {
             new Among("ca", -1, -1, "", methodObject),
             new Among("ce", -1, -1, "", methodObject)
     };
+
     private final static Among a_12[] = {
             new Among("im", -1, -1, "", methodObject),
             new Among("um", -1, -1, "", methodObject),
             new Among("\u00FCm", -1, -1, "", methodObject),
             new Among("\u0131m", -1, -1, "", methodObject)
     };
+
     private final static Among a_13[] = {
             new Among("sin", -1, -1, "", methodObject),
             new Among("sun", -1, -1, "", methodObject),
             new Among("s\u00FCn", -1, -1, "", methodObject),
             new Among("s\u0131n", -1, -1, "", methodObject)
     };
+
     private final static Among a_14[] = {
             new Among("iz", -1, -1, "", methodObject),
             new Among("uz", -1, -1, "", methodObject),
             new Among("\u00FCz", -1, -1, "", methodObject),
             new Among("\u0131z", -1, -1, "", methodObject)
     };
+
     private final static Among a_15[] = {
             new Among("siniz", -1, -1, "", methodObject),
             new Among("sunuz", -1, -1, "", methodObject),
             new Among("s\u00FCn\u00FCz", -1, -1, "", methodObject),
             new Among("s\u0131n\u0131z", -1, -1, "", methodObject)
     };
+
     private final static Among a_16[] = {
             new Among("lar", -1, -1, "", methodObject),
             new Among("ler", -1, -1, "", methodObject)
     };
+
     private final static Among a_17[] = {
             new Among("niz", -1, -1, "", methodObject),
             new Among("nuz", -1, -1, "", methodObject),
             new Among("n\u00FCz", -1, -1, "", methodObject),
             new Among("n\u0131z", -1, -1, "", methodObject)
     };
+
     private final static Among a_18[] = {
             new Among("dir", -1, -1, "", methodObject),
             new Among("tir", -1, -1, "", methodObject),
@@ -120,10 +139,12 @@ public class TurkishStemmer extends SnowballStemmer {
             new Among("d\u0131r", -1, -1, "", methodObject),
             new Among("t\u0131r", -1, -1, "", methodObject)
     };
+
     private final static Among a_19[] = {
             new Among("cas\u0131na", -1, -1, "", methodObject),
             new Among("cesine", -1, -1, "", methodObject)
     };
+
     private final static Among a_20[] = {
             new Among("di", -1, -1, "", methodObject),
             new Among("ti", -1, -1, "", methodObject),
@@ -158,6 +179,7 @@ public class TurkishStemmer extends SnowballStemmer {
             new Among("d\u0131", -1, -1, "", methodObject),
             new Among("t\u0131", -1, -1, "", methodObject)
     };
+
     private final static Among a_21[] = {
             new Among("sa", -1, -1, "", methodObject),
             new Among("se", -1, -1, "", methodObject),
@@ -168,39 +190,54 @@ public class TurkishStemmer extends SnowballStemmer {
             new Among("san", -1, -1, "", methodObject),
             new Among("sen", -1, -1, "", methodObject)
     };
+
     private final static Among a_22[] = {
             new Among("mi\u015F", -1, -1, "", methodObject),
             new Among("mu\u015F", -1, -1, "", methodObject),
             new Among("m\u00FC\u015F", -1, -1, "", methodObject),
             new Among("m\u0131\u015F", -1, -1, "", methodObject)
     };
+
     private final static Among a_23[] = {
             new Among("b", -1, 1, "", methodObject),
             new Among("c", -1, 2, "", methodObject),
             new Among("d", -1, 3, "", methodObject),
             new Among("\u011F", -1, 4, "", methodObject)
     };
+
     private static final char g_vowel[] = {17, 65, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 32, 8, 0, 0, 0, 0, 0, 0, 1};
+
     private static final char g_U[] = {1, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 1};
+
     private static final char g_vowel1[] = {1, 64, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1};
+
     private static final char g_vowel2[] = {17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 130};
+
     private static final char g_vowel3[] = {1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1};
+
     private static final char g_vowel4[] = {17};
+
     private static final char g_vowel5[] = {65};
+
     private static final char g_vowel6[] = {65};
+
     private boolean B_continue_stemming_noun_suffixes;
+
     private int I_strlen;
+
 
     @Override
     public String getSupportedLanguage() {
         return "tr";
     }
 
+
     private void copy_from(TurkishStemmer other) {
         B_continue_stemming_noun_suffixes = other.B_continue_stemming_noun_suffixes;
         I_strlen = other.I_strlen;
         super.copy_from(other);
     }
+
 
     private boolean r_check_vowel_harmony() {
         int v_1;
@@ -466,6 +503,7 @@ public class TurkishStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_mark_suffix_with_optional_n_consonant() {
         int v_1;
         int v_2;
@@ -543,6 +581,7 @@ public class TurkishStemmer extends SnowballStemmer {
         } while (false);
         return true;
     }
+
 
     private boolean r_mark_suffix_with_optional_s_consonant() {
         int v_1;
@@ -622,6 +661,7 @@ public class TurkishStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_mark_suffix_with_optional_y_consonant() {
         int v_1;
         int v_2;
@@ -700,6 +740,7 @@ public class TurkishStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_mark_suffix_with_optional_U_vowel() {
         int v_1;
         int v_2;
@@ -776,6 +817,7 @@ public class TurkishStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_mark_possessives() {
         // (, line 166
         // among, line 167
@@ -789,6 +831,7 @@ public class TurkishStemmer extends SnowballStemmer {
         }
         return true;
     }
+
 
     private boolean r_mark_sU() {
         // (, line 172
@@ -807,6 +850,7 @@ public class TurkishStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_mark_lArI() {
         // (, line 178
         // among, line 179
@@ -815,6 +859,7 @@ public class TurkishStemmer extends SnowballStemmer {
         }
         return true;
     }
+
 
     private boolean r_mark_yU() {
         // (, line 182
@@ -833,6 +878,7 @@ public class TurkishStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_mark_nU() {
         // (, line 188
         // call check_vowel_harmony, line 189
@@ -845,6 +891,7 @@ public class TurkishStemmer extends SnowballStemmer {
         }
         return true;
     }
+
 
     private boolean r_mark_nUn() {
         // (, line 193
@@ -864,6 +911,7 @@ public class TurkishStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_mark_yA() {
         // (, line 199
         // call check_vowel_harmony, line 200
@@ -882,6 +930,7 @@ public class TurkishStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_mark_nA() {
         // (, line 205
         // call check_vowel_harmony, line 206
@@ -894,6 +943,7 @@ public class TurkishStemmer extends SnowballStemmer {
         }
         return true;
     }
+
 
     private boolean r_mark_DA() {
         // (, line 210
@@ -908,6 +958,7 @@ public class TurkishStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_mark_ndA() {
         // (, line 215
         // call check_vowel_harmony, line 216
@@ -920,6 +971,7 @@ public class TurkishStemmer extends SnowballStemmer {
         }
         return true;
     }
+
 
     private boolean r_mark_DAn() {
         // (, line 220
@@ -934,6 +986,7 @@ public class TurkishStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_mark_ndAn() {
         // (, line 225
         // call check_vowel_harmony, line 226
@@ -946,6 +999,7 @@ public class TurkishStemmer extends SnowballStemmer {
         }
         return true;
     }
+
 
     private boolean r_mark_ylA() {
         // (, line 230
@@ -965,6 +1019,7 @@ public class TurkishStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_mark_ki() {
         // (, line 236
         // literal, line 237
@@ -973,6 +1028,7 @@ public class TurkishStemmer extends SnowballStemmer {
         }
         return true;
     }
+
 
     private boolean r_mark_ncA() {
         // (, line 240
@@ -992,6 +1048,7 @@ public class TurkishStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_mark_yUm() {
         // (, line 246
         // call check_vowel_harmony, line 247
@@ -1010,6 +1067,7 @@ public class TurkishStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_mark_sUn() {
         // (, line 252
         // call check_vowel_harmony, line 253
@@ -1022,6 +1080,7 @@ public class TurkishStemmer extends SnowballStemmer {
         }
         return true;
     }
+
 
     private boolean r_mark_yUz() {
         // (, line 257
@@ -1041,6 +1100,7 @@ public class TurkishStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_mark_sUnUz() {
         // (, line 263
         // among, line 264
@@ -1049,6 +1109,7 @@ public class TurkishStemmer extends SnowballStemmer {
         }
         return true;
     }
+
 
     private boolean r_mark_lAr() {
         // (, line 267
@@ -1063,6 +1124,7 @@ public class TurkishStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_mark_nUz() {
         // (, line 272
         // call check_vowel_harmony, line 273
@@ -1075,6 +1137,7 @@ public class TurkishStemmer extends SnowballStemmer {
         }
         return true;
     }
+
 
     private boolean r_mark_DUr() {
         // (, line 277
@@ -1089,6 +1152,7 @@ public class TurkishStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_mark_cAsInA() {
         // (, line 282
         // among, line 283
@@ -1097,6 +1161,7 @@ public class TurkishStemmer extends SnowballStemmer {
         }
         return true;
     }
+
 
     private boolean r_mark_yDU() {
         // (, line 286
@@ -1116,6 +1181,7 @@ public class TurkishStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_mark_ysA() {
         // (, line 296
         // among, line 297
@@ -1129,6 +1195,7 @@ public class TurkishStemmer extends SnowballStemmer {
         }
         return true;
     }
+
 
     private boolean r_mark_ymUs_() {
         // (, line 301
@@ -1148,6 +1215,7 @@ public class TurkishStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_mark_yken() {
         // (, line 307
         // literal, line 308
@@ -1161,6 +1229,7 @@ public class TurkishStemmer extends SnowballStemmer {
         }
         return true;
     }
+
 
     private boolean r_stem_nominal_verb_suffixes() {
         int v_1;
@@ -1521,6 +1590,7 @@ public class TurkishStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_stem_suffix_chain_before_ki() {
         int v_1;
         int v_2;
@@ -1798,6 +1868,7 @@ public class TurkishStemmer extends SnowballStemmer {
         } while (false);
         return true;
     }
+
 
     private boolean r_stem_noun_suffixes() {
         int v_1;
@@ -2521,6 +2592,7 @@ public class TurkishStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_post_process_last_consonants() {
         int among_var;
         // (, line 415
@@ -2559,6 +2631,7 @@ public class TurkishStemmer extends SnowballStemmer {
         }
         return true;
     }
+
 
     private boolean r_append_U_to_stems_ending_with_d_or_g() {
         int v_1;
@@ -2814,6 +2887,7 @@ public class TurkishStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_more_than_one_syllable_word() {
         int v_1;
         int v_3;
@@ -2859,6 +2933,7 @@ public class TurkishStemmer extends SnowballStemmer {
         cursor = v_1;
         return true;
     }
+
 
     private boolean r_is_reserved_word() {
         int v_1;
@@ -2930,6 +3005,7 @@ public class TurkishStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_postlude() {
         int v_1;
         int v_2;
@@ -2977,6 +3053,7 @@ public class TurkishStemmer extends SnowballStemmer {
         return true;
     }
 
+
     @Override
     public boolean stem() {
         int v_1;
@@ -3023,10 +3100,12 @@ public class TurkishStemmer extends SnowballStemmer {
         return true;
     }
 
+
     @Override
     public boolean equals(Object o) {
         return o instanceof TurkishStemmer;
     }
+
 
     @Override
     public int hashCode() {

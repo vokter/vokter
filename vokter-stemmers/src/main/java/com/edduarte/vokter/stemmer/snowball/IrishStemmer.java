@@ -12,6 +12,7 @@ public class IrishStemmer extends SnowballStemmer {
     private static final long serialVersionUID = 1L;
 
     private final static IrishStemmer methodObject = new IrishStemmer();
+
     private final static Among a_0[] = {
             new Among("b'", -1, 4, "", methodObject),
             new Among("bh", -1, 14, "", methodObject),
@@ -38,6 +39,7 @@ public class IrishStemmer extends SnowballStemmer {
             new Among("th", -1, 21, "", methodObject),
             new Among("ts", -1, 12, "", methodObject)
     };
+
     private final static Among a_1[] = {
             new Among("\u00EDochta", -1, 1, "", methodObject),
             new Among("a\u00EDochta", 0, 1, "", methodObject),
@@ -56,6 +58,7 @@ public class IrishStemmer extends SnowballStemmer {
             new Among("ir\u00ED", -1, 2, "", methodObject),
             new Among("air\u00ED", 14, 2, "", methodObject)
     };
+
     private final static Among a_2[] = {
             new Among("\u00F3ideacha", -1, 6, "", methodObject),
             new Among("patacha", -1, 5, "", methodObject),
@@ -83,6 +86,7 @@ public class IrishStemmer extends SnowballStemmer {
             new Among("arcachta\u00ED", -1, 2, "", methodObject),
             new Among("grafa\u00EDochta\u00ED", -1, 4, "", methodObject)
     };
+
     private final static Among a_3[] = {
             new Among("imid", -1, 1, "", methodObject),
             new Among("aimid", 0, 1, "", methodObject),
@@ -97,15 +101,21 @@ public class IrishStemmer extends SnowballStemmer {
             new Among("tear", -1, 2, "", methodObject),
             new Among("tar", -1, 2, "", methodObject)
     };
+
     private static final char g_v[] = {17, 65, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 17, 4, 2};
+
     private int I_p2;
+
     private int I_p1;
+
     private int I_pV;
+
 
     @Override
     public String getSupportedLanguage() {
         return "ie";
     }
+
 
     private void copy_from(IrishStemmer other) {
         I_p2 = other.I_p2;
@@ -113,6 +123,7 @@ public class IrishStemmer extends SnowballStemmer {
         I_pV = other.I_pV;
         super.copy_from(other);
     }
+
 
     private boolean r_mark_regions() {
         int v_1;
@@ -218,6 +229,7 @@ public class IrishStemmer extends SnowballStemmer {
         cursor = v_3;
         return true;
     }
+
 
     private boolean r_initial_morph() {
         int among_var;
@@ -343,12 +355,14 @@ public class IrishStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_RV() {
         if (!(I_pV <= cursor)) {
             return false;
         }
         return true;
     }
+
 
     private boolean r_R1() {
         if (!(I_p1 <= cursor)) {
@@ -357,12 +371,14 @@ public class IrishStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_R2() {
         if (!(I_p2 <= cursor)) {
             return false;
         }
         return true;
     }
+
 
     private boolean r_noun_sfx() {
         int among_var;
@@ -400,6 +416,7 @@ public class IrishStemmer extends SnowballStemmer {
         }
         return true;
     }
+
 
     private boolean r_deriv() {
         int among_var;
@@ -454,6 +471,7 @@ public class IrishStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_verb_sfx() {
         int among_var;
         // (, line 129
@@ -490,6 +508,7 @@ public class IrishStemmer extends SnowballStemmer {
         }
         return true;
     }
+
 
     @Override
     public boolean stem() {
@@ -557,10 +576,12 @@ public class IrishStemmer extends SnowballStemmer {
         return true;
     }
 
+
     @Override
     public boolean equals(Object o) {
         return o instanceof IrishStemmer;
     }
+
 
     @Override
     public int hashCode() {

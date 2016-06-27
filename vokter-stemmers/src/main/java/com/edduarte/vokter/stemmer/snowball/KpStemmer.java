@@ -14,6 +14,7 @@ public class KpStemmer extends SnowballStemmer {
     private static final long serialVersionUID = 1L;
 
     private final static KpStemmer methodObject = new KpStemmer();
+
     private final static Among a_0[] = {
             new Among("nde", -1, 7, "", methodObject),
             new Among("en", -1, 6, "", methodObject),
@@ -23,6 +24,7 @@ public class KpStemmer extends SnowballStemmer {
             new Among("ies", 4, 3, "", methodObject),
             new Among("aus", 2, 5, "", methodObject)
     };
+
     private final static Among a_1[] = {
             new Among("de", -1, 5, "", methodObject),
             new Among("ge", -1, 2, "", methodObject),
@@ -36,6 +38,7 @@ public class KpStemmer extends SnowballStemmer {
             new Among("te", -1, 6, "", methodObject),
             new Among("ieve", -1, 11, "", methodObject)
     };
+
     private final static Among a_2[] = {
             new Among("heid", -1, 3, "", methodObject),
             new Among("fie", -1, 7, "", methodObject),
@@ -52,6 +55,7 @@ public class KpStemmer extends SnowballStemmer {
             new Among("dst", -1, 10, "", methodObject),
             new Among("tst", -1, 9, "", methodObject)
     };
+
     private final static Among a_3[] = {
             new Among("end", -1, 10, "", methodObject),
             new Among("atief", -1, 2, "", methodObject),
@@ -70,16 +74,19 @@ public class KpStemmer extends SnowballStemmer {
             new Among("achtigst", -1, 9, "", methodObject),
             new Among("lijkst", -1, 8, "", methodObject)
     };
+
     private final static Among a_4[] = {
             new Among("ig", -1, 1, "", methodObject),
             new Among("iger", -1, 1, "", methodObject),
             new Among("igst", -1, 1, "", methodObject)
     };
+
     private final static Among a_5[] = {
             new Among("ft", -1, 2, "", methodObject),
             new Among("kt", -1, 1, "", methodObject),
             new Among("pt", -1, 3, "", methodObject)
     };
+
     private final static Among a_6[] = {
             new Among("bb", -1, 1, "", methodObject),
             new Among("cc", -1, 2, "", methodObject),
@@ -104,26 +111,40 @@ public class KpStemmer extends SnowballStemmer {
             new Among("z", -1, 22, "", methodObject),
             new Among("zz", 20, 20, "", methodObject)
     };
+
     private final static Among a_7[] = {
             new Among("d", -1, 1, "", methodObject),
             new Among("t", -1, 2, "", methodObject)
     };
+
     private static final char g_v[] = {17, 65, 16, 1};
+
     private static final char g_v_WX[] = {17, 65, 208, 1};
+
     private static final char g_AOU[] = {1, 64, 16};
+
     private static final char g_AIOU[] = {1, 65, 16};
+
     private boolean B_GE_removed;
+
     private boolean B_stemmed;
+
     private boolean B_Y_found;
+
     private int I_p2;
+
     private int I_p1;
+
     private int I_x;
+
     private MutableString S_ch = new MutableString();
+
 
     @Override
     public String getSupportedLanguage() {
         return "du2";
     }
+
 
     private void copy_from(KpStemmer other) {
         B_GE_removed = other.B_GE_removed;
@@ -136,6 +157,7 @@ public class KpStemmer extends SnowballStemmer {
         super.copy_from(other);
     }
 
+
     private boolean r_R1() {
         // (, line 32
         // setmark x, line 32
@@ -146,6 +168,7 @@ public class KpStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_R2() {
         // (, line 33
         // setmark x, line 33
@@ -155,6 +178,7 @@ public class KpStemmer extends SnowballStemmer {
         }
         return true;
     }
+
 
     private boolean r_V() {
         int v_1;
@@ -182,6 +206,7 @@ public class KpStemmer extends SnowballStemmer {
         cursor = limit - v_1;
         return true;
     }
+
 
     private boolean r_VX() {
         int v_1;
@@ -215,6 +240,7 @@ public class KpStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_C() {
         int v_1;
         int v_2;
@@ -240,6 +266,7 @@ public class KpStemmer extends SnowballStemmer {
         cursor = limit - v_1;
         return true;
     }
+
 
     private boolean r_lengthen_V() {
         int v_1;
@@ -370,6 +397,7 @@ public class KpStemmer extends SnowballStemmer {
         cursor = limit - v_1;
         return true;
     }
+
 
     private boolean r_Step_1() {
         int among_var;
@@ -629,6 +657,7 @@ public class KpStemmer extends SnowballStemmer {
         }
         return true;
     }
+
 
     private boolean r_Step_2() {
         int among_var;
@@ -904,6 +933,7 @@ public class KpStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_Step_3() {
         int among_var;
         // (, line 94
@@ -1041,6 +1071,7 @@ public class KpStemmer extends SnowballStemmer {
         }
         return true;
     }
+
 
     private boolean r_Step_4() {
         int among_var;
@@ -1216,6 +1247,7 @@ public class KpStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_Step_7() {
         int among_var;
         // (, line 144
@@ -1250,6 +1282,7 @@ public class KpStemmer extends SnowballStemmer {
         }
         return true;
     }
+
 
     private boolean r_Step_6() {
         int among_var;
@@ -1381,6 +1414,7 @@ public class KpStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_Step_1c() {
         int among_var;
         int v_1;
@@ -1457,6 +1491,7 @@ public class KpStemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_Lose_prefix() {
         int v_1;
         int v_2;
@@ -1524,6 +1559,7 @@ public class KpStemmer extends SnowballStemmer {
         slice_del();
         return true;
     }
+
 
     private boolean r_Lose_infix() {
         int v_2;
@@ -1610,6 +1646,7 @@ public class KpStemmer extends SnowballStemmer {
         slice_del();
         return true;
     }
+
 
     private boolean r_measure() {
         int v_1;
@@ -1749,6 +1786,7 @@ public class KpStemmer extends SnowballStemmer {
         cursor = v_2;
         return true;
     }
+
 
     @Override
     public boolean stem() {
@@ -2078,10 +2116,12 @@ public class KpStemmer extends SnowballStemmer {
         return true;
     }
 
+
     @Override
     public boolean equals(Object o) {
         return o instanceof KpStemmer;
     }
+
 
     @Override
     public int hashCode() {

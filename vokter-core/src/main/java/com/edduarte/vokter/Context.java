@@ -16,23 +16,23 @@
 
 package com.edduarte.vokter;
 
+import com.edduarte.vokter.diff.DiffDetector;
 import com.edduarte.vokter.diff.DiffEvent;
 import com.edduarte.vokter.diff.DiffMatcher;
 import com.edduarte.vokter.diff.Match;
-import com.edduarte.vokter.document.DocumentPair;
-import com.edduarte.vokter.model.mongodb.Diff;
-import com.edduarte.vokter.diff.DiffDetector;
-import com.edduarte.vokter.model.mongodb.Document;
 import com.edduarte.vokter.document.DocumentBuilder;
 import com.edduarte.vokter.document.DocumentCollection;
+import com.edduarte.vokter.document.DocumentPair;
 import com.edduarte.vokter.job.JobManager;
 import com.edduarte.vokter.job.JobManagerHandler;
-import com.edduarte.vokter.model.mongodb.Keyword;
 import com.edduarte.vokter.keyword.KeywordBuilder;
+import com.edduarte.vokter.model.mongodb.Diff;
+import com.edduarte.vokter.model.mongodb.Document;
+import com.edduarte.vokter.model.mongodb.Keyword;
+import com.edduarte.vokter.model.mongodb.Session;
 import com.edduarte.vokter.parser.Parser;
 import com.edduarte.vokter.parser.ParserPool;
 import com.edduarte.vokter.parser.SimpleParser;
-import com.edduarte.vokter.model.mongodb.Session;
 import com.edduarte.vokter.util.Constants;
 import com.mongodb.BasicDBObject;
 import com.mongodb.BulkWriteOperation;
@@ -173,13 +173,18 @@ public class Context implements LifeCycle.Listener, JobManagerHandler {
     }
 
 
+    private static String getDiffCollectionName(String url, String contentType) {
+        return url + "|" + contentType;
+    }
+
+
     @Override
     public Session createOrGetSession(String clientUrl, String clientContentType) {
         DBCollection collection = documentsDB.getCollection(SESSIONS_COLLECTION);
 
         DBObject obj = collection.findOne(
                 new BasicDBObject(Session.CLIENT_URL, clientUrl)
-                          .append(Session.CLIENT_CONTENT_TYPE, clientContentType));
+                        .append(Session.CLIENT_CONTENT_TYPE, clientContentType));
         if (obj == null) {
             // there is no session for this client, so create one
             String token = Constants.bytesToHex(Constants.generateRandomBytes());
@@ -317,11 +322,6 @@ public class Context implements LifeCycle.Listener, JobManagerHandler {
         collection.add(newDocument);
 
         return new DetectResult(true, hasNewDiffs);
-    }
-
-
-    private static String getDiffCollectionName(String url, String contentType) {
-        return url + "|" + contentType;
     }
 
 

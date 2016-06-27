@@ -19,7 +19,14 @@ package com.edduarte.vokter.diff;
 import java.io.UnsupportedEncodingException;
 import java.net.URLDecoder;
 import java.net.URLEncoder;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.HashMap;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.ListIterator;
+import java.util.Map;
+import java.util.Stack;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -2557,57 +2564,6 @@ public class DiffMatchPatch {
         }
     }
 
-
-    private class HalfMatch {
-
-        public final String text;
-
-        public final int startIndex;
-
-
-        public HalfMatch(String text, int startIndex) {
-            this.text = text;
-            this.startIndex = startIndex;
-        }
-
-
-        public int length() {
-            return text.length();
-        }
-
-
-        public HalfMatch substring(int i1) {
-            String s = text.substring(i1);
-            return new HalfMatch(s, startIndex + i1);
-        }
-
-
-        public HalfMatch substring(int i1, int i2) {
-            String s = text.substring(i1, i2);
-            return new HalfMatch(s, startIndex + i1);
-        }
-
-
-        @Override
-        public HalfMatch clone() {
-            return new HalfMatch(text, startIndex);
-        }
-
-
-        public Diff toDiff() {
-            return new Diff(DiffEvent.nothing, text, startIndex);
-        }
-
-
-        @Override
-        public String toString() {
-            return "HalfMatch{" +
-                    "text='" + text + '\'' +
-                    ", startIndex=" + startIndex +
-                    '}';
-        }
-    }
-
     /**
      * Class representing one diff operation.
      */
@@ -2623,6 +2579,7 @@ public class DiffMatchPatch {
         public String text;
 
         public int startIndex;
+
 
         /**
          * Constructor.  Initializes the diff with the provided values.
@@ -2666,6 +2623,7 @@ public class DiffMatchPatch {
         public int getStartIndex() {
             return startIndex;
         }
+
 
         public int getEndIndex() {
             return startIndex + length();
@@ -2834,6 +2792,56 @@ public class DiffMatchPatch {
                 }
             }
             return unescapeForEncodeUriCompatability(text.toString());
+        }
+    }
+
+    private class HalfMatch {
+
+        public final String text;
+
+        public final int startIndex;
+
+
+        public HalfMatch(String text, int startIndex) {
+            this.text = text;
+            this.startIndex = startIndex;
+        }
+
+
+        public int length() {
+            return text.length();
+        }
+
+
+        public HalfMatch substring(int i1) {
+            String s = text.substring(i1);
+            return new HalfMatch(s, startIndex + i1);
+        }
+
+
+        public HalfMatch substring(int i1, int i2) {
+            String s = text.substring(i1, i2);
+            return new HalfMatch(s, startIndex + i1);
+        }
+
+
+        @Override
+        public HalfMatch clone() {
+            return new HalfMatch(text, startIndex);
+        }
+
+
+        public Diff toDiff() {
+            return new Diff(DiffEvent.nothing, text, startIndex);
+        }
+
+
+        @Override
+        public String toString() {
+            return "HalfMatch{" +
+                    "text='" + text + '\'' +
+                    ", startIndex=" + startIndex +
+                    '}';
         }
     }
 }

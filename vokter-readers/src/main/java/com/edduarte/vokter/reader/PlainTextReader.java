@@ -44,6 +44,7 @@ public class PlainTextReader implements com.edduarte.vokter.reader.Reader {
         return sb.compact();
     }
 
+
     @Override
     public ImmutableSet<String> getSupportedContentTypes() {
         return ImmutableSet.of(MediaType.TEXT_PLAIN);

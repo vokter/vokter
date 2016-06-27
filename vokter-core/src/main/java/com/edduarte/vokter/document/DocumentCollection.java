@@ -204,6 +204,7 @@ public final class DocumentCollection {
         documentsDB.dropDatabase();
     }
 
+
     private static class Params {
 
         private final String url;
@@ -219,6 +220,7 @@ public final class DocumentCollection {
                 this.contentType = contentType;
             }
         }
+
 
         public static Params of(String url, String contentType) {
             return new Params(url, contentType);

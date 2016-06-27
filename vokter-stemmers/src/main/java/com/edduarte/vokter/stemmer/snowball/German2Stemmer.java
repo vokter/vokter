@@ -12,6 +12,7 @@ public class German2Stemmer extends SnowballStemmer {
     private static final long serialVersionUID = 1L;
 
     private final static German2Stemmer methodObject = new German2Stemmer();
+
     private final static Among a_0[] = {
             new Among("", -1, 6, "", methodObject),
             new Among("ae", 0, 2, "", methodObject),
@@ -20,6 +21,7 @@ public class German2Stemmer extends SnowballStemmer {
             new Among("ue", 0, 4, "", methodObject),
             new Among("\u00DF", 0, 1, "", methodObject)
     };
+
     private final static Among a_1[] = {
             new Among("", -1, 6, "", methodObject),
             new Among("U", 0, 2, "", methodObject),
@@ -28,6 +30,7 @@ public class German2Stemmer extends SnowballStemmer {
             new Among("\u00F6", 0, 4, "", methodObject),
             new Among("\u00FC", 0, 5, "", methodObject)
     };
+
     private final static Among a_2[] = {
             new Among("e", -1, 1, "", methodObject),
             new Among("em", -1, 1, "", methodObject),
@@ -37,16 +40,19 @@ public class German2Stemmer extends SnowballStemmer {
             new Among("s", -1, 2, "", methodObject),
             new Among("es", 5, 1, "", methodObject)
     };
+
     private final static Among a_3[] = {
             new Among("en", -1, 1, "", methodObject),
             new Among("er", -1, 1, "", methodObject),
             new Among("st", -1, 2, "", methodObject),
             new Among("est", 2, 1, "", methodObject)
     };
+
     private final static Among a_4[] = {
             new Among("ig", -1, 1, "", methodObject),
             new Among("lich", -1, 1, "", methodObject)
     };
+
     private final static Among a_5[] = {
             new Among("end", -1, 1, "", methodObject),
             new Among("ig", -1, 2, "", methodObject),
@@ -57,17 +63,25 @@ public class German2Stemmer extends SnowballStemmer {
             new Among("heit", -1, 3, "", methodObject),
             new Among("keit", -1, 4, "", methodObject)
     };
+
     private static final char g_v[] = {17, 65, 16, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 0, 32, 8};
+
     private static final char g_s_ending[] = {117, 30, 5};
+
     private static final char g_st_ending[] = {117, 30, 4};
+
     private int I_x;
+
     private int I_p2;
+
     private int I_p1;
+
 
     @Override
     public String getSupportedLanguage() {
         return "de2";
     }
+
 
     private void copy_from(German2Stemmer other) {
         I_x = other.I_x;
@@ -75,6 +89,7 @@ public class German2Stemmer extends SnowballStemmer {
         I_p1 = other.I_p1;
         super.copy_from(other);
     }
+
 
     private boolean r_prelude() {
         int among_var;
@@ -220,6 +235,7 @@ public class German2Stemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_mark_regions() {
         int v_1;
         // (, line 48
@@ -315,6 +331,7 @@ public class German2Stemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_postlude() {
         int among_var;
         int v_1;
@@ -379,6 +396,7 @@ public class German2Stemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_R1() {
         if (!(I_p1 <= cursor)) {
             return false;
@@ -386,12 +404,14 @@ public class German2Stemmer extends SnowballStemmer {
         return true;
     }
 
+
     private boolean r_R2() {
         if (!(I_p2 <= cursor)) {
             return false;
         }
         return true;
     }
+
 
     private boolean r_standard_suffix() {
         int among_var;
@@ -650,6 +670,7 @@ public class German2Stemmer extends SnowballStemmer {
         return true;
     }
 
+
     @Override
     public boolean stem() {
         int v_1;
@@ -703,10 +724,12 @@ public class German2Stemmer extends SnowballStemmer {
         return true;
     }
 
+
     @Override
     public boolean equals(Object o) {
         return o instanceof German2Stemmer;
     }
+
 
     @Override
     public int hashCode() {

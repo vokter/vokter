@@ -56,7 +56,8 @@ public class DiffDetectorJob implements InterruptableJob {
         if (manager == null) {
             return;
         }
-        boolean wasSuccessful = manager.callDetectDiffImpl(documentUrl, contentType);
+        boolean wasSuccessful = manager
+                .callDetectDiffImpl(documentUrl, contentType);
 
         int faultCounter = (int) dataMap.getOrDefault(FAULT_COUNTER, 0);
         faultCounter = wasSuccessful ? 0 : (faultCounter + 1);
