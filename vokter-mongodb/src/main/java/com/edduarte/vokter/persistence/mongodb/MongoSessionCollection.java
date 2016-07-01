@@ -1,6 +1,5 @@
 package com.edduarte.vokter.persistence.mongodb;
 
-import com.edduarte.vokter.Constants;
 import com.edduarte.vokter.persistence.Session;
 import com.edduarte.vokter.persistence.SessionCollection;
 import com.mongodb.BasicDBObject;

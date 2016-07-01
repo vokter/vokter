@@ -16,18 +16,9 @@
 
 package com.edduarte.vokter.job;
 
-import com.edduarte.vokter.Constants;
 import com.edduarte.vokter.diff.Match;
 import com.edduarte.vokter.persistence.Session;
-import com.edduarte.vokter.persistence.mongodb.MongoSession;
 import com.edduarte.vokter.rest.model.Notification;
-import com.mongodb.BasicDBObject;
-import com.mongodb.DB;
-import com.mongodb.DBCollection;
-import com.mongodb.DBObject;
-import org.eclipse.jetty.util.component.LifeCycle;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 
 import javax.ws.rs.client.ClientBuilder;
 import javax.ws.rs.client.Entity;

@@ -41,7 +41,7 @@ public class MongoDiffCollection implements DiffCollection {
 
     @Override
     public void addDifferences(String documentUrl, String documentContentType,
-                                     List<DiffDetector.Result> diffs) {
+                               List<DiffDetector.Result> diffs) {
         DBCollection diffColl = db.getCollection(
                 getDiffCollectionName(documentUrl, documentContentType));
         BulkWriteOperation bulkOp = diffColl.initializeUnorderedBulkOperation();

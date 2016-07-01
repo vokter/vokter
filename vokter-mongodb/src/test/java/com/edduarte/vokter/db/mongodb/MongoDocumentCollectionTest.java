@@ -16,10 +16,7 @@
 
 package com.edduarte.vokter.db.mongodb;
 
-import com.edduarte.vokter.document.DocumentBuilder;
-import com.edduarte.vokter.persistence.Document;
 import com.edduarte.vokter.persistence.DocumentCollection;
-import com.edduarte.vokter.persistence.mongodb.MongoDocument;
 import com.edduarte.vokter.persistence.mongodb.MongoDocumentCollection;
 import com.mongodb.DB;
 import com.mongodb.MongoClient;

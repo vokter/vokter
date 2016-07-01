@@ -16,7 +16,6 @@
 
 package com.edduarte.vokter.rest.resources.v1;
 
-import com.edduarte.vokter.job.RestNotificationHandler;
 import com.edduarte.vokter.persistence.Session;
 import com.edduarte.vokter.rest.VokterApplication;
 import com.edduarte.vokter.rest.model.CommonResponse;
@@ -68,6 +67,7 @@ public class RestResource {
 
     @javax.ws.rs.core.Context
     private ServletContext context;
+
 
     /**
      * Options method for "exampleRequest" to enable Access-Control-Allow-Origin

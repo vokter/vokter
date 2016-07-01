@@ -33,8 +33,6 @@ import java.io.Serializable;
  */
 public class MongoDiff extends BasicDBObject implements Diff, Serializable {
 
-    private static final long serialVersionUID = 1L;
-
     public static final String DIFF_EVENT = "diff_event";
 
     public static final String TEXT = "text";
@@ -42,6 +40,8 @@ public class MongoDiff extends BasicDBObject implements Diff, Serializable {
     public static final String START_INDEX = "start_index";
 
     public static final String END_INDEX = "end_index";
+
+    private static final long serialVersionUID = 1L;
 
 
     public MongoDiff(final DiffEvent action,

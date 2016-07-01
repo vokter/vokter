@@ -16,7 +16,6 @@
 
 package com.edduarte.vokter.rest.resources.v2;
 
-import com.edduarte.vokter.job.RestNotificationHandler;
 import com.edduarte.vokter.persistence.Session;
 import com.edduarte.vokter.rest.VokterApplication;
 import com.edduarte.vokter.rest.model.CommonResponse;

@@ -14,10 +14,12 @@ public class ServerConfiguration extends Configuration {
     @NotEmpty
     private String template;
 
+
     @JsonProperty
     public String getTemplate() {
         return template;
     }
+
 
     @JsonProperty
     public void setTemplate(String template) {

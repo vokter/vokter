@@ -47,9 +47,9 @@ public class VokterApplication extends Application<ServerConfiguration> {
 
     private static VokterApplication instance = new VokterApplication();
 
-    private JobManager jobManager;
-
     public SessionCollection sessionCollection;
+
+    private JobManager jobManager;
 
 
     public static void main(String[] args) throws Exception {
@@ -185,10 +185,12 @@ public class VokterApplication extends Application<ServerConfiguration> {
         return "vokter";
     }
 
+
     @Override
     public void initialize(Bootstrap<ServerConfiguration> bootstrap) {
         // nothing to do yet
     }
+
 
     @Override
     public void run(ServerConfiguration configuration, Environment environment) {
