@@ -1,6 +1,6 @@
 package com.edduarte.vokter.similarity;
 
-import orestes.bloomfilter.HashProvider.HashMethod;
+import com.edduarte.vokter.similarity.HashProvider.HashMethod;
 
 /**
  * @author Eduardo Duarte (<a href="mailto:hello@edduarte.com">hello@edduarte.com</a>)

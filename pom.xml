@@ -156,12 +156,6 @@
             <url>http://clojars.org/repo</url>
         </repository>
 
-        <repository>
-            <id>central</id>
-            <name>bintray</name>
-            <url>http://jcenter.bintray.com</url>
-        </repository>
-
     </repositories>
 
     <dependencies>

@@ -38,7 +38,7 @@ import com.optimaize.langdetect.text.CommonTextObjectFactories;
 import com.optimaize.langdetect.text.TextObject;
 import com.optimaize.langdetect.text.TextObjectFactory;
 import it.unimi.dsi.lang.MutableString;
-import orestes.bloomfilter.HashProvider.HashMethod;
+import com.edduarte.vokter.similarity.HashProvider.HashMethod;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

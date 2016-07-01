@@ -2,7 +2,7 @@ package com.edduarte.vokter.similarity;
 
 
 import com.edduarte.vokter.processor.similarity.KShinglesSigProcessor;
-import orestes.bloomfilter.HashProvider.HashMethod;
+import com.edduarte.vokter.similarity.HashProvider.HashMethod;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

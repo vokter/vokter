@@ -174,12 +174,6 @@
             <url>http://clojars.org/repo</url>
         </repository>
 
-        <repository>
-            <id>central</id>
-            <name>bintray</name>
-            <url>http://jcenter.bintray.com</url>
-        </repository>
-
     </repositories>
 
     <dependencies>
@@ -202,14 +196,6 @@
             <groupId>com.aliasi</groupId>
             <artifactId>lingpipe</artifactId>
             <version>4.1.0</version>
-        </dependency>
-
-
-        <!-- bloom filter -->
-        <dependency>
-            <groupId>com.baqend</groupId>
-            <artifactId>bloom-filter</artifactId>
-            <version>1.0.7</version>
         </dependency>
 
 

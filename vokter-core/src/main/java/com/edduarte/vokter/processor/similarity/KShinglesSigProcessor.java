@@ -1,7 +1,7 @@
 package com.edduarte.vokter.processor.similarity;
 
 import com.edduarte.vokter.processor.Processor;
-import orestes.bloomfilter.HashProvider.HashMethod;
+import com.edduarte.vokter.similarity.HashProvider.HashMethod;
 
 import java.nio.charset.Charset;
 import java.util.Collections;
