@@ -10,7 +10,7 @@ import static org.junit.Assert.assertEquals;
  * @version 1.0.0
  * @since 1.0.0
  */
-public class RepeatingSpacesCleanerTest {
+public class LowerCaseCleanerTest {
 
     @Test
     public void test() {
@@ -20,9 +20,9 @@ public class RepeatingSpacesCleanerTest {
                         "From Wikipedia, the free encyclopedia  Jump to: navigation , search     \n" +
                         " Drawing of an image from a 5th-century ");
 
-        Cleaner cleaner = new RepeatingSpacesCleaner();
+        Cleaner cleaner = new LowerCaseCleaner();
         cleaner.clean(s);
 
-        assertEquals("Argus Panoptes - Wikipedia, the free encyclopedia Argus Panoptes\nFrom Wikipedia, the free encyclopedia Jump to: navigation , search Drawing of an image from a 5th-century ", s.toString());
+        assertEquals("argus panoptes - wikipedia, the free encyclopedia   argus panoptes\n\nfrom wikipedia, the free encyclopedia  jump to: navigation , search     \n drawing of an image from a 5th-century ", s.toString());
     }
 }

@@ -33,6 +33,7 @@
         <module>vokter-readers</module>
         <module>vokter-stemmers</module>
         <module>vokter-mongodb</module>
+        <module>vokter-server</module>
     </modules>
 
     <developers>

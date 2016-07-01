@@ -1,0 +1,166 @@
+<!--
+  ~ Copyright 2015 Eduardo Duarte
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~ http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<!doctype html public "-//w3c//dtd html 3.2//en">
+<html>
+<head>
+    <title>Vokter</title>
+</head>
+<body>
+<h1 id="vokter">Vokter</h1>
+<h3>If you are seeing this page, then Vokter was successfully deployed to this domain. Enjoy!</h3>
+
+<p>Vokter is a high-performance, scalable web service that uses Quartz Scheduler, DiffMatchPatch and MongoDB to provide web-page monitoring, triggering notifications when specified keywords were either added or removed from a web document.</p>
+<p>This service implements a information retrieval system that fetches, indexes and performs queries over web documents on a periodic basis. Difference detection is implemented by comparing occurrences between two snapshots of the same document. Additionally, it supports multi-language stop-word filtering to ignore changes in common grammatical conjunctions or articles, and stemming to detect changes in lexically derived words.</p>
+
+<h2 id="usage">Usage</h2>
+<p><b>Watch for content changes in a document</b></p>
+<p>POST <span style="text-decoration: underline;"><span id="currentUrl1"></span>vokter/v1/subscribe</span><br />
+    Payload:</p>
+<pre class="javascript"><code>{
+    &quot;documentUrl&quot;: &quot;http://www.example.com&quot;, // the page to be watched (mandatory field)
+    &quot;clientUrl&quot;: &quot;http://your.site/client-rest-api&quot;, // the client web service that will receive detected differences (mandatory field)
+    &quot;keywords&quot;: // the keywords to watch for (mandatory field)
+    [
+        &quot;argus&quot;, // looks for changes with this word (and lexical variants if stemming is enabled)
+        &quot;argus panoptes&quot; // looks for changes with this exact phrase (and lexical variants if stemming is enabled)
+    ],
+    &quot;interval&quot;: 600, // the elapsed duration (in seconds) between page checks (optional field, defaults to 600)
+    &quot;ignoreAdded&quot;: false, // if &#39;true&#39;, ignore events where the keyword was added to the page (optional field, defaults to &#39;false&#39;)
+    &quot;ignoreRemoved&quot;: false // if &#39;true&#39;, ignore events where the keyword was removed from the page (optional field, defaults to &#39;false&#39;)
+}</code></pre>
+<p>Note that a subscribe request is uniquely identified by both its document URL and its client URL. This means that the same client can subscribe and receive notifications of multiple documents simultaneously, and the same document can be watched by multiple clients.</p>
+
+<p><b>Manually cancel a watch job</b></p>
+<p>POST <span style="text-decoration: underline;"><span id="currentUrl2"></span>vokter/v1/cancel</span><br />
+    Payload:</p>
+<pre class="javascript"><code>{
+    &quot;documentUrl&quot;: &quot;http://www.example.com&quot;, // the page that was being watched (mandatory field)
+    &quot;clientUrl&quot;: &quot;http://your.site/client-rest-api&quot; // the client web service (mandatory field)
+}</code></pre>
+<hr />
+<p>Both of the calls above return the following JSON body:</p>
+<pre class="javascript"><code>{
+    &quot;code&quot;: &quot;0&quot; // a number that uniquely identifies this error type (0 when the request was successful)
+    &quot;message&quot;: &quot;&quot; // reason for the error (empty when the request was successful)
+}</code></pre>
+<p>The error code is useful to convert received responses into custom error messages displayed to the user in the client app.</p>
+<p>The following list shows all possible responses:</p>
+<table>
+    <thead>
+    <tr class="header">
+        <th style="text-align: left;">Status Code</th>
+        <th style="text-align: left;">Body 'code'</th>
+        <th style="text-align: left;">Body 'message'</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr class="odd">
+        <td style="text-align: left;">200</td>
+        <td style="text-align: left;">0</td>
+        <td style="text-align: left;"></td>
+    </tr>
+    <tr class="even">
+        <td style="text-align: left;">400</td>
+        <td style="text-align: left;">1</td>
+        <td style="text-align: left;">The provided document URL is invalid.</td>
+    </tr>
+    <tr class="odd">
+        <td style="text-align: left;">400</td>
+        <td style="text-align: left;">2</td>
+        <td style="text-align: left;">The provided client URL is invalid.</td>
+    </tr>
+    <tr class="even">
+        <td style="text-align: left;">400</td>
+        <td style="text-align: left;">3</td>
+        <td style="text-align: left;">You need to provide at least one valid keyword.</td>
+    </tr>
+    <tr class="odd">
+        <td style="text-align: left;">400</td>
+        <td style="text-align: left;">4</td>
+        <td style="text-align: left;">At least one difference event ('added' or 'removed') must not be ignored.</td>
+    </tr>
+    <tr class="even">
+        <td style="text-align: left;">409</td>
+        <td style="text-align: left;">5</td>
+        <td style="text-align: left;">The request conflicts with a currently active watch job, since the provided document URL is already being watched and notified to the provided client URL.</td>
+    </tr>
+    <!--<tr class="odd">-->
+        <!--<td style="text-align: left;">415</td>-->
+        <!--<td style="text-align: left;">6</td>-->
+        <!--<td style="text-align: left;">The request body has an invalid format.</td>-->
+    <!--</tr>-->
+    <tr class="even">
+        <td style="text-align: left;">404</td>
+        <td style="text-align: left;">7</td>
+        <td style="text-align: left;">The specified job to cancel does not exist.</td>
+    </tr>
+    </tbody>
+</table>
+<h2 id="notifications">Notifications</h2>
+<p>Notifications are REST requests, sent as POSTs, to the provided client URL at any time. The client URL should be implemented to accept the two requests below.</p>
+<h3 id="differences-found">Differences found</h3>
+<p>When detected differences are matched with keywords, Vokter sends notifications to the provided client URL with the following JSON body:</p>
+<pre class="javascript"><code>{
+    &quot;status&quot;: &quot;ok&quot;,
+    &quot;url&quot;: &quot;http://www.example.com&quot;,
+    &quot;diffs&quot;: [
+        {
+            &quot;action&quot;: &quot;added&quot;,
+            &quot;keyword&quot;: &quot;argus&quot;,
+            &quot;snippet&quot;: &quot;In the 5th century and later, Argus&#39; wakeful alertness ...&quot;
+        },
+        {
+            &quot;action&quot;: &quot;removed&quot;,
+            &quot;keyword&quot;: &quot;argus&quot;,
+            &quot;snippet&quot;: &quot;... sacrifice of Argus liberated Io and allowed ...&quot;
+        }
+    ]
+}</code></pre>
+<h3 id="timeout">Timeout</h3>
+<p>Vokter is capable of managing a high number of concurrent watch jobs, and is implemented to save resources and free up database and memory space whenever possible. To this effect, Vokter automatically expires jobs when it fails to fetch a web document after 10 consecutive tries. When that happens, the following JSON body is sent:</p>
+<pre class="javascript"><code>{
+    &quot;status&quot;: &quot;timeout&quot;,
+    &quot;url&quot;: &quot;http://www.example.com&quot;,
+    &quot;diffs&quot;: []
+}</code></pre>
+
+<h2 id="license">License</h2>
+<pre><code>Copyright 2015 Eduardo Duarte
+
+Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an &quot;AS IS&quot; BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.</code></pre>
+
+<script type="application/javascript">
+    var l = window.location;
+    var protocol = l.protocol;
+    var hostname = l.hostname;
+    var port = l.port;
+    document.getElementById('currentUrl1').innerHTML = protocol+"//"+hostname+":"+port+"/";
+    document.getElementById('currentUrl2').innerHTML = protocol+"//"+hostname+":"+port+"/";
+</script>
+</body>
+</html>
+
