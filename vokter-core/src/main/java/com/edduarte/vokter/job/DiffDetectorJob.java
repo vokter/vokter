@@ -22,6 +22,8 @@ import org.quartz.JobExecutionContext;
 import org.quartz.JobExecutionException;
 import org.quartz.PersistJobDataAfterExecution;
 import org.quartz.UnableToInterruptJobException;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 /**
  * @author Eduardo Duarte (<a href="mailto:hello@edduarte.com">hello@edduarte.com</a>)
@@ -30,6 +32,9 @@ import org.quartz.UnableToInterruptJobException;
  */
 @PersistJobDataAfterExecution
 public class DiffDetectorJob implements InterruptableJob {
+
+    private static final Logger logger =
+            LoggerFactory.getLogger(DiffDetectorJob.class);
 
     public static final String PARENT_JOB_MANAGER = "parent_job_manager";
 
@@ -46,7 +51,6 @@ public class DiffDetectorJob implements InterruptableJob {
     public void execute(JobExecutionContext context)
             throws JobExecutionException {
 
-//        JobKey key = context.getJobDetail().getKey();
         JobDataMap dataMap = context.getJobDetail().getJobDataMap();
 
         String documentUrl = dataMap.getString(URL);

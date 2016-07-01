@@ -19,16 +19,33 @@ package com.edduarte.vokter.document;
 import com.edduarte.vokter.cleaner.AndCleaner;
 import com.edduarte.vokter.cleaner.Cleaner;
 import com.edduarte.vokter.cleaner.DiacriticCleaner;
+import com.edduarte.vokter.cleaner.LowerCaseCleaner;
+import com.edduarte.vokter.cleaner.NewLineCleaner;
+import com.edduarte.vokter.cleaner.RepeatingSpacesCleaner;
 import com.edduarte.vokter.cleaner.SpecialCharsCleaner;
 import com.edduarte.vokter.model.mongodb.Document;
+import com.edduarte.vokter.processor.similarity.BandsProcessor;
+import com.edduarte.vokter.processor.similarity.KShingler;
+import com.edduarte.vokter.processor.similarity.KShinglesSigProcessor;
 import com.edduarte.vokter.reader.Reader;
+import com.edduarte.vokter.stopper.FileStopper;
+import com.edduarte.vokter.stopper.Stopper;
 import com.edduarte.vokter.util.OSGiManager;
+import com.google.common.base.Optional;
+import com.optimaize.langdetect.LanguageDetector;
+import com.optimaize.langdetect.i18n.LdLocale;
+import com.optimaize.langdetect.text.CommonTextObjectFactories;
+import com.optimaize.langdetect.text.TextObject;
+import com.optimaize.langdetect.text.TextObjectFactory;
 import it.unimi.dsi.lang.MutableString;
+import orestes.bloomfilter.HashProvider.HashMethod;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import java.io.InputStream;
+import java.util.ArrayList;
 import java.util.Date;
+import java.util.List;
 import java.util.concurrent.Callable;
 
 /**
@@ -46,37 +63,28 @@ public class DocumentPipeline implements Callable<Document> {
     private static final Logger logger =
             LoggerFactory.getLogger(DocumentPipeline.class);
 
-//    private final LanguageDetector langDetector;
-
-//    private final DB occurrencesDB;
-
     private final DocumentInput documentInput;
 
-//    private final Parser parser;
+    private final int shingleLength;
 
-//    private final boolean isStoppingEnabled;
+    private final LanguageDetector langDetector;
 
-//    private final boolean isStemmingEnabled;
+    private final boolean filterStopwords;
 
-//    private final boolean ignoreCase;
+    private final boolean ignoreCase;
 
 
     public DocumentPipeline(
-//            final LanguageDetector langDetector,
-//            final DB occurrencesDB,
-            final DocumentInput documentInput
-//            final Parser parser,
-//            final boolean isStoppingEnabled,
-//            final boolean isStemmingEnabled,
-//            final boolean ignoreCase
-    ) {
-//        this.occurrencesDB = occurrencesDB;
-//        this.langDetector = langDetector;
+            final DocumentInput documentInput,
+            final LanguageDetector langDetector,
+            final boolean filterStopwords,
+            final boolean ignoreCase,
+            final int shingleLength) {
         this.documentInput = documentInput;
-//        this.parser = parser;
-//        this.isStoppingEnabled = isStoppingEnabled;
-//        this.isStemmingEnabled = isStemmingEnabled;
-//        this.ignoreCase = ignoreCase;
+        this.shingleLength = shingleLength;
+        this.langDetector = langDetector;
+        this.filterStopwords = filterStopwords;
+        this.ignoreCase = ignoreCase;
     }
 
 
@@ -85,6 +93,7 @@ public class DocumentPipeline implements Callable<Document> {
         InputStream documentStream = documentInput.getStream();
         String url = documentInput.getUrl();
         String contentType = documentInput.getContentType();
+
 
         // reads and parses contents from input content stream
         Class<? extends Reader> readerClass = OSGiManager
@@ -99,92 +108,90 @@ public class DocumentPipeline implements Callable<Document> {
 
         // filters the contents by cleaning characters of whole strings
         // according to each cleaner's implementation
-        Cleaner cleaner = AndCleaner
-                .of(new SpecialCharsCleaner(), new DiacriticCleaner());
+        List<Cleaner> list = new ArrayList<>();
+        list.add(new SpecialCharsCleaner(' '));
+        list.add(new NewLineCleaner(' '));
+        list.add(new RepeatingSpacesCleaner());
+        list.add(new DiacriticCleaner());
+        if (ignoreCase) {
+            list.add(new LowerCaseCleaner());
+        }
+        Cleaner cleaner = AndCleaner.of(list);
         cleaner.clean(content);
         cleaner = null;
 
 
-        String temp = content.toString();
-        temp = temp.replaceAll(" +", " ");
-        temp = temp.trim();
-        content.replace(0, content.length(), temp);
+        // infers the document language
+        String languageCodeAux = "en";
+        if (langDetector != null) {
+            TextObjectFactory textObjectFactory =
+                    CommonTextObjectFactories.forDetectingOnLargeText();
+            TextObject textObject = textObjectFactory.forText(content);
+            Optional<LdLocale> lang = langDetector.detect(textObject);
+            languageCodeAux = lang.isPresent() ? lang.get().getLanguage() : "en";
+        }
+        final String languageCode = languageCodeAux;
+
+
+        // sets the parser's stopper according to the detected language
+        // if the detected language is not supported, stopword filtering is
+        // ignored
+        Stopper stopper = null;
+        if (filterStopwords) {
+            stopper = new FileStopper(languageCode);
+            if (stopper.isEmpty()) {
+                // if no compatible stopwords were found, use the
+                // english stopwords
+                stopper = new FileStopper("en");
+            }
+        }
+
+
+        // get k-shingles for the document text
+        int k = shingleLength;
+        if (shingleLength <= 0) {
+            // "Mining of Massive Datasets", Cambridge University Press,
+            // Rajaraman, A., & Ullman, J. D., page 78
+            // "k should be picked large enough that the probability of any
+            // given shingle appearing in any given document is low. (...) A
+            // good rule of thumb is to imagine that there are only 20
+            // characters and estimate the number of k-shingles as 20^k."
+
+            // Since we are dealing with documents that can be large or small,
+            // we need to determine an optimal k based on the document length.
+            // Ideally we want an email (e.g. 430 characters) to have k = 5
+            // and a wikipedia article (e.g. 7880 characters) to have k = 8.
+            // For this we assume that there are 30 available characters in
+            // the universal vocabulary (having filtered most special
+            // characters). We estimate the value of k based on the assumption
+            // that 30^k = L , where L is the document length.
+            // 30 ^ k = L <=> K = log10(L) / log10(3)
+
+            double estimatedK = Math.log10(content.length()) / Math.log10(3);
+            k = (int) Math.floor(estimatedK);
+        }
+        KShingler kshingler = new KShingler(k, stopper);
+        List<String> shingles = kshingler.process(content).call();
+
+        KShinglesSigProcessor sigProcessor =
+                new KShinglesSigProcessor(HashMethod.Murmur3, 200);
+        int[] sig = sigProcessor.process(shingles).call();
+
+        BandsProcessor bandsProcessor = new BandsProcessor(20, 5);
+        int[] bands = bandsProcessor.process(sig).call();
 
 
         // creates a document that represents this pipeline processing result
         Document document = new Document(
-                url, new Date(), contentType, content.toString());
+                url, new Date(), contentType,
+                content.toString(), shingles, k, bands
+        );
 
 
-        // infers the document language
-//        String languageCode = "en";
-//        if (langDetector != null) {
-//            TextObjectFactory textObjectFactory =
-//                    CommonTextObjectFactories.forDetectingOnLargeText();
-//            TextObject textObject = textObjectFactory.forText(content);
-//            Optional<LdLocale> lang = langDetector.detect(textObject);
-//            languageCode = lang.isPresent() ? lang.get().getLanguage() : "en";
-//        }
-
-
-        // sets the parser's stopper according to the detected language
-        // if the detected language is not supported, stopping is ignored
-//        Stopper stopper = null;
-//        if (isStoppingEnabled) {
-//            stopper = new FileStopper(languageCode);
-//            if (stopper.isEmpty()) {
-//                // if no compatible stopwords were found, use the
-//                // english stopwords
-//                stopper = new FileStopper("en");
-//            }
-//        }
-
-
-        // sets the parser's stemmer according to the detected language
-        // if the detected language is not supported, stemming is ignored
-//        Stemmer stemmer = null;
-//        if (isStemmingEnabled) {
-//            Class<? extends Stemmer> stemmerClass =
-//                    OSGiManager.getCompatibleStemmer(languageCode);
-//            if (stemmerClass != null) {
-//                stemmer = stemmerClass.newInstance();
-//            } else {
-//                // if no compatible stemmers were found, use the english stemmer
-//                stemmerClass = OSGiManager.getCompatibleStemmer("en");
-//                if (stemmerClass != null) {
-//                    stemmer = stemmerClass.newInstance();
-//                }
-//            }
-//        }
-
-
-        // detects tokens from the document and loads them into separate
-        // objects in memory
-//        List<Parser.Result> results = parser.parse(content, stopper, stemmer, ignoreCase);
-
-//        if (stopper != null) {
-//            stopper.destroy();
-//            stopper = null;
-//        }
-//
-//        if (stemmer != null) {
-//            stemmer = null;
-//        }
-
-
+        // delete mutable string content from memory
         content.delete(0, content.length());
         content = null;
 
-
-        // create a database collection for this document terms and converts
-        // parser results into Term objects
-
-//        Stream<Occurrence> termStream = results.stream()
-//                .map(r -> new Occurrence(r.text.toString(), r.wordCount, r.start, r.end - 1));
-//        document.addOccurrences(termStream);
-
-//        results.clear();
-//        results = null;
 
         return document;
     }

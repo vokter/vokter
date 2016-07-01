@@ -265,63 +265,56 @@ public class Context implements LifeCycle.Listener, JobManagerHandler {
     @Override
     public DetectResult detectDifferences(String url, String contentType) {
 
-        // create a new document snapshot for the provided url
-//        DocumentBuilder builder = DocumentBuilder
-//                .fromUrl(url)
-//                .withLanguageDetector(langDetector);
-
-//        if (isStoppingEnabled) {
-//            builder.withStopwords();
-//        }
-//        if (isStemmingEnabled) {
-//            builder.withStemming();
-//        }
-//        if (ignoreCase) {
-//            builder.ignoreCase();
-//        }
-        Document newDocument = DocumentBuilder
-                .fromUrl(url, contentType)
-                .build();
-        logger.info("{}", newDocument);
-        if (newDocument == null) {
-            // A problem occurred during processing, mostly during the fetching phase.
-            // This could happen if the page was unavailable at the time.
-            return new DetectResult(false, false);
-        }
-
-        boolean hasNewDiffs = false;
-
         // check if there is a older document in the collection
         DocumentPair pair = collection.get(url, contentType);
 
         if (pair != null) {
             // there was already a document for this url on the collection, so
-            // detect differences between them and add them to the differences
-            // database
+            // detect differences between this and a new snapshot
+
             Document oldDocument = pair.latest();
-            logger.info("{}", oldDocument);
+            Document newDocument = DocumentBuilder
+                    .fromUrl(url, contentType)
+                    .withStopwords()
+                    .withShingleLength(oldDocument.getShingleLength())
+                    .build(langDetector);
+            if (newDocument == null) {
+                // A problem occurred during processing, mostly during the fetching phase.
+                // This could happen if the page was unavailable at the time.
+                return new DetectResult(false, false);
+            }
+
             DiffDetector detector = new DiffDetector(oldDocument, newDocument);
             List<Diff> results = detector.call();
-            hasNewDiffs = !results.isEmpty();
+            boolean hasNewDiffs = !results.isEmpty();
 
             removeExistingDifferences(url, contentType);
-            DBCollection diffColl = differencesDB.getCollection(
-                    getDiffCollectionName(url, contentType));
-
             if (hasNewDiffs) {
+                DBCollection diffColl = differencesDB.getCollection(
+                        getDiffCollectionName(url, contentType));
                 BulkWriteOperation bulkOp = diffColl.initializeUnorderedBulkOperation();
                 results.forEach(bulkOp::insert);
                 bulkOp.execute();
                 bulkOp = null;
                 diffColl = null;
             }
+
+            // remove the oldest document with this url and content type and add
+            // the new one to the collection
+            collection.add(newDocument);
+
+            return new DetectResult(true, hasNewDiffs);
+
+        } else {
+            // this is a new document, so process it and add to the collection
+            Document newDocument = DocumentBuilder
+                    .fromUrl(url, contentType)
+                    .withStopwords()
+                    .build(langDetector);
+            collection.add(newDocument);
+
+            return new DetectResult(true, false);
         }
-
-        // remove the oldest document with this url and content type and add the
-        // new one to the collection
-        collection.add(newDocument);
-
-        return new DetectResult(true, hasNewDiffs);
     }
 
 
@@ -332,29 +325,38 @@ public class Context implements LifeCycle.Listener, JobManagerHandler {
             boolean filterStopwords, boolean enableStemming, boolean ignoreCase,
             boolean ignoreAdded, boolean ignoreRemoved,
             int snippetOffset) {
+
+        // check diffs stored on the database
         DBCollection diffColl = differencesDB.getCollection(
                 getDiffCollectionName(documentUrl, documentContentType));
+        long count = diffColl.count();
+        if (count <= 0) {
+            return Collections.emptySet();
+        }
+
         Iterable<DBObject> cursor = diffColl.find();
         List<Diff> diffs = StreamSupport.stream(cursor.spliterator(), true)
                 .map(Diff::new)
                 .collect(Collectors.toList());
 
         DocumentPair pair = collection.get(documentUrl, documentContentType);
-        if (pair != null) {
-            String oldText = pair.oldest().getText();
-            String newText = pair.latest().getText();
-            DiffMatcher matcher = new DiffMatcher(
-                    oldText, newText,
-                    keywords, diffs, parserPool, langDetector,
-                    filterStopwords, enableStemming, ignoreCase,
-                    ignoreAdded, ignoreRemoved,
-                    snippetOffset
-            );
-            try {
-                return matcher.call();
-            } catch (Exception e) {
-                logger.error(e.getMessage(), e);
-            }
+        if (pair == null) {
+            return Collections.emptySet();
+        }
+
+        String oldText = pair.oldest().getText();
+        String newText = pair.latest().getText();
+        DiffMatcher matcher = new DiffMatcher(
+                oldText, newText,
+                keywords, diffs, parserPool, langDetector,
+                filterStopwords, enableStemming, ignoreCase,
+                ignoreAdded, ignoreRemoved,
+                snippetOffset
+        );
+        try {
+            return matcher.call();
+        } catch (Exception e) {
+            logger.error(e.getMessage(), e);
         }
 
         return Collections.emptySet();

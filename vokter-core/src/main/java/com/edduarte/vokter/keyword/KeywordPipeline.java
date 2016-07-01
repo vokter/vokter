@@ -19,6 +19,9 @@ package com.edduarte.vokter.keyword;
 import com.edduarte.vokter.cleaner.AndCleaner;
 import com.edduarte.vokter.cleaner.Cleaner;
 import com.edduarte.vokter.cleaner.DiacriticCleaner;
+import com.edduarte.vokter.cleaner.LowerCaseCleaner;
+import com.edduarte.vokter.cleaner.NewLineCleaner;
+import com.edduarte.vokter.cleaner.RepeatingSpacesCleaner;
 import com.edduarte.vokter.cleaner.SpecialCharsCleaner;
 import com.edduarte.vokter.model.mongodb.Keyword;
 import com.edduarte.vokter.parser.Parser;
@@ -36,6 +39,7 @@ import it.unimi.dsi.lang.MutableString;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import java.util.ArrayList;
 import java.util.LinkedHashSet;
 import java.util.List;
 import java.util.Set;
@@ -88,10 +92,15 @@ public class KeywordPipeline implements Callable<Keyword> {
 
         // filters the contents by cleaning characters of whole strings
         // according to each cleaner's implementation
-        Cleaner cleaner = AndCleaner.of(
-                new SpecialCharsCleaner(),
-                new DiacriticCleaner()
-        );
+        List<Cleaner> list = new ArrayList<>();
+        list.add(new SpecialCharsCleaner(' '));
+        list.add(new NewLineCleaner(' '));
+        list.add(new RepeatingSpacesCleaner());
+        list.add(new DiacriticCleaner());
+        if (ignoreCase) {
+            list.add(new LowerCaseCleaner());
+        }
+        Cleaner cleaner = AndCleaner.of(list);
         cleaner.clean(content);
         cleaner = null;
 

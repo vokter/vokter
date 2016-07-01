@@ -18,32 +18,47 @@ package com.edduarte.vokter.cleaner;
 
 import it.unimi.dsi.lang.MutableString;
 
-import java.text.Normalizer;
-
 /**
- * Cleaner class that converts diacritic words into their non-diacritic form.
+ * Simple cleaner class that filters some common special, non-informative
+ * characters. The filtered characters are replaced by whitespaces (optimizing
+ * SimpleParser results).
+ * <p>
+ * As a rule, this cleaner will only clear characters that do not provide much
+ * information on their own, like quotation-marks and bullet-points, for
+ * example. This cleaner, however, will NOT clean characters that provide
+ * mathematical information, like ½, π, µ and φ.
  *
  * @author Eduardo Duarte (<a href="mailto:hello@edduarte.com">hello@edduarte.com</a>)
  * @version 1.3.2
  * @since 1.0.0
  */
-public class DiacriticCleaner extends Cleaner {
+public class NewLineCleaner extends Cleaner {
 
-    public DiacriticCleaner() {
+    private static final char DEFAULT_REPLACEMENTS = ' ';
+
+    private final char replacement;
+
+
+    public NewLineCleaner() {
+        this.replacement = DEFAULT_REPLACEMENTS;
+    }
+
+
+    public NewLineCleaner(char replacement) {
+        this.replacement = replacement;
     }
 
 
     @Override
     protected void setup(MutableString s) {
-        String normalized = Normalizer.normalize(
-                s.toString(), Normalizer.Form.NFD);
-        s.delete(0, s.length());
-        s.append(normalized);
     }
 
 
     @Override
     protected boolean clean(MutableString s, int i, char last, char curr) {
-        return curr > '\u007F';
+        if (curr == '\n' || curr == '\r') {
+            s.setCharAt(i, replacement);
+        }
+        return false;
     }
 }

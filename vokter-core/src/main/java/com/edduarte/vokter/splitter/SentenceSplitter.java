@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.edduarte.vokter.parser;
+package com.edduarte.vokter.splitter;
 
 import com.aliasi.chunk.Chunk;
 import com.aliasi.chunk.Chunking;

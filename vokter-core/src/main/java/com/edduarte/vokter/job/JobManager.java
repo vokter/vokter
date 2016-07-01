@@ -19,11 +19,9 @@ package com.edduarte.vokter.job;
 import com.edduarte.vokter.diff.DiffEvent;
 import com.edduarte.vokter.diff.Match;
 import com.edduarte.vokter.document.DocumentBuilder;
-import com.edduarte.vokter.model.mongodb.Document;
 import com.edduarte.vokter.model.mongodb.Keyword;
 import com.edduarte.vokter.model.mongodb.Session;
 import com.edduarte.vokter.rest.model.Notification;
-import com.edduarte.vokter.util.Constants;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.quartz.JobBuilder;
@@ -38,12 +36,9 @@ import org.quartz.SimpleScheduleBuilder;
 import org.quartz.Trigger;
 import org.quartz.TriggerBuilder;
 import org.quartz.TriggerKey;
-import org.quartz.impl.DirectSchedulerFactory;
 import org.quartz.impl.StdSchedulerFactory;
 import org.quartz.impl.matchers.GroupMatcher;
 import org.quartz.listeners.JobChainingJobListener;
-import org.quartz.simpl.SimpleThreadPool;
-import org.quartz.spi.JobStore;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -68,8 +63,6 @@ import static com.edduarte.vokter.diff.DiffEvent.inserted;
 public class JobManager {
 
     private static final Logger logger = LoggerFactory.getLogger(JobManager.class);
-
-    private static final String SCHEDULER_NAME = "Vokter_Scheduler";
 
     private static final Map<String, JobManager> activeManagers = new HashMap<>();
 
@@ -175,32 +168,6 @@ public class JobManager {
     }
 
 
-    public void initialize(JobStore jobStore, int maxThreads)
-            throws SchedulerException {
-        DirectSchedulerFactory factory = DirectSchedulerFactory.getInstance();
-        factory.createScheduler(
-                SCHEDULER_NAME,
-                Constants.bytesToHex(Constants.generateRandomBytes()),
-                new SimpleThreadPool(maxThreads, 5),
-                jobStore
-        );
-        scheduler = factory.getScheduler(SCHEDULER_NAME);
-        factory = null;
-        scheduler.start();
-    }
-
-
-    //    private static TriggerKey matchTKey(String documentUrl,
-//                                        String documentContentType,
-//                                        String clientUrl,
-//                                        String clientContentType) {
-//        return new TriggerKey(clientUrl
-//                + "|" + clientContentType,
-//                "match|" + documentUrl
-//        );
-//    }
-
-
     /**
      * Simplified API
      */
@@ -240,11 +207,10 @@ public class JobManager {
             int snippetOffset, int interval) {
 
         // test if the document is readable
-        Document d = DocumentBuilder
+        boolean isReadable = DocumentBuilder
                 .fromUrl(documentUrl, documentContentType)
-                .build();
-        if (d == null) {
-            // not readable
+                .isReadable();
+        if (!isReadable) {
             return false;
         }
 
@@ -529,20 +495,9 @@ public class JobManager {
                 ));
                 for (JobKey k : keys) {
                     JobDetail detail = scheduler.getJobDetail(k);
-//                    List<? extends Trigger> triggerList =
-//                            scheduler.getTriggersOfJob(k);
-//                    if (!triggerList.isEmpty()) {
-//                        Trigger trigger = triggerList.get(0);
 
                     // update job to say that he has new diffs
                     attemptRefreshMatchingJob(detail, 10);
-//
-//                    } else {
-//                        // invalid state, where there is still an active job
-//                        // without triggers
-//                        // unschedule it!
-//                        cancelMatchingJobAux(documentUrl, documentContentType, k);
-//                    }
                 }
             } catch (SchedulerException ex) {
                 logger.error(ex.getMessage(), ex);
@@ -554,7 +509,7 @@ public class JobManager {
 
 
     private void attemptRefreshMatchingJob(JobDetail detail, int attemptsLeft) {
-        if (attemptsLeft < 0) {
+        if (attemptsLeft > 0) {
             try {
                 JobDataMap m = detail.getJobDataMap();
                 JobDetail matchingJob = JobBuilder.newJob(DiffMatcherJob.class)

@@ -20,7 +20,13 @@ import com.edduarte.vokter.document.DocumentBuilder;
 import com.edduarte.vokter.model.mongodb.Diff;
 import com.edduarte.vokter.model.mongodb.Document;
 import com.fasterxml.jackson.core.JsonProcessingException;
+import com.optimaize.langdetect.LanguageDetector;
+import com.optimaize.langdetect.LanguageDetectorBuilder;
+import com.optimaize.langdetect.ngram.NgramExtractors;
+import com.optimaize.langdetect.profiles.LanguageProfile;
+import com.optimaize.langdetect.profiles.LanguageProfileReader;
 import org.apache.commons.io.IOUtils;
+import org.junit.BeforeClass;
 import org.junit.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -44,6 +50,17 @@ public class DiffDetectorTest {
 
     private static final Logger logger = LoggerFactory.getLogger(DiffDetectorTest.class);
 
+    private static LanguageDetector langDetector;
+
+
+    @BeforeClass
+    public static void setUp() throws IOException, InterruptedException {
+        List<LanguageProfile> languageProfiles = new LanguageProfileReader().readAllBuiltIn();
+        langDetector = LanguageDetectorBuilder.create(NgramExtractors.standard())
+                .withProfiles(languageProfiles)
+                .build();
+    }
+
 
     @Test
     public void testSimple() throws JsonProcessingException {
@@ -54,11 +71,11 @@ public class DiffDetectorTest {
 
         Document oldSnapshotDoc = DocumentBuilder
                 .fromString(url, oldSnapshot, type)
-                .build();
+                .build(langDetector);
 
         Document newSnapshotDoc = DocumentBuilder
                 .fromString(url, newSnapshot, type)
-                .build();
+                .build(langDetector);
 
         DiffDetector comparison = new DiffDetector(
                 oldSnapshotDoc,
@@ -101,11 +118,11 @@ public class DiffDetectorTest {
 
         Document oldSnapshotDoc = DocumentBuilder
                 .fromString(url, oldSnapshot, contentType)
-                .build();
+                .build(langDetector);
 
         Document newSnapshotDoc = DocumentBuilder
                 .fromString(url, newSnapshot, contentType)
-                .build();
+                .build(langDetector);
 
         DiffDetector comparison = new DiffDetector(
                 oldSnapshotDoc,

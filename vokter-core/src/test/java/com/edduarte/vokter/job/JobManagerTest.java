@@ -97,11 +97,14 @@ public class JobManagerTest {
         );
         differencesDB = mongoClient.getDB("test_differences_db");
         differencesDB.dropDatabase();
-        jobsDB = mongoClient.getDB("test_jobs_db");
-        jobsDB.dropDatabase();
         parserPool = new ParserPool();
         parserPool.place(new SimpleParser());
-        List<LanguageProfile> languageProfiles = new LanguageProfileReader().readAllBuiltIn();
+        parserPool.place(new SimpleParser());
+        parserPool.place(new SimpleParser());
+        parserPool.place(new SimpleParser());
+        parserPool.place(new SimpleParser());
+        List<LanguageProfile> languageProfiles =
+                new LanguageProfileReader().readAllBuiltIn();
         langDetector = LanguageDetectorBuilder.create(NgramExtractors.standard())
                 .withProfiles(languageProfiles)
                 .build();
@@ -126,36 +129,35 @@ public class JobManagerTest {
 
     @Test
     public void testSimple() throws Exception {
-        newestTestDocument = new AtomicReference<>("Argus Panoptes is the name of the 100-eyed giant in Greek mythology.");
+        newestTestDocument = new AtomicReference<>("Argus Panoptes is " +
+                "the name of the 100-eyed giant in Greek mythology.");
         JobManager manager = JobManager.create("test_vokter_manager", new JobManagerHandler() {
 
             @Override
             public DetectResult detectDifferences(String url, String contentType) {
-
-                // create a new document snapshot for the provided url
-                Document newDocument = DocumentBuilder
-                        .fromString(url, newestTestDocument.get(), MediaType.TEXT_PLAIN)
-                        .build();
-                if (newDocument == null) {
-                    // A problem occurred during processing, mostly during the
-                    // fetching phase.
-                    return new DetectResult(false, false);
-                }
-
-                boolean hasNewDiffs = false;
 
                 // check if there is a older document in the collection
                 DocumentPair pair = collection.get(url, contentType);
 
                 if (pair != null) {
                     Document oldDocument = pair.latest();
-                    // there was already a document for this url on the
-                    // collection, so detect differences between them and add
-                    // them to the differences database
-                    DiffDetector detector =
-                            new DiffDetector(oldDocument, newDocument);
+                    Document newDocument = DocumentBuilder
+                            .fromString(url, newestTestDocument.get(),
+                                    MediaType.TEXT_PLAIN)
+                            .withStopwords()
+                            .withShingleLength(oldDocument.getShingleLength())
+                            .build(langDetector);
+                    if (newDocument == null) {
+                        // A problem occurred during processing, mostly during
+                        // the fetching phase.
+                        // This could happen if the page was unavailable at the
+                        // time.
+                        return new DetectResult(false, false);
+                    }
+
+                    DiffDetector detector = new DiffDetector(oldDocument, newDocument);
                     List<Diff> results = detector.call();
-                    hasNewDiffs = !results.isEmpty();
+                    boolean hasNewDiffs = !results.isEmpty();
 
                     removeExistingDifferences(url, contentType);
                     if (hasNewDiffs) {
@@ -168,11 +170,25 @@ public class JobManagerTest {
                         bulkOp = null;
                         diffColl = null;
                     }
+
+                    // remove the oldest document with this url and content type
+                    // and add the new one to the collection
+                    collection.add(newDocument);
+
+                    return new DetectResult(true, hasNewDiffs);
+
+                } else {
+                    // this is a new document, so process it and add to the
+                    // collection
+                    Document newDocument = DocumentBuilder
+                            .fromString(url, newestTestDocument.get(),
+                                    MediaType.TEXT_PLAIN)
+                            .withStopwords()
+                            .build(langDetector);
+                    collection.add(newDocument);
+
+                    return new DetectResult(true, false);
                 }
-
-                collection.add(newDocument);
-
-                return new DetectResult(true, hasNewDiffs);
             }
 
 
@@ -183,30 +199,38 @@ public class JobManagerTest {
                     boolean filterStopwords, boolean enableStemming, boolean ignoreCase,
                     boolean ignoreAdded, boolean ignoreRemoved,
                     int snippetOffset) {
+
+                // check diffs stored on the database
                 DBCollection diffColl = differencesDB.getCollection(
                         getDiffCollectionName(documentUrl, documentContentType));
-                diffColl.count();
+                long count = diffColl.count();
+                if (count <= 0) {
+                    return Collections.emptySet();
+                }
+
                 Iterable<DBObject> cursor = diffColl.find();
                 List<Diff> diffs = StreamSupport.stream(cursor.spliterator(), true)
                         .map(Diff::new)
                         .collect(Collectors.toList());
 
                 DocumentPair pair = collection.get(documentUrl, documentContentType);
-                if (pair != null) {
-                    String oldText = pair.oldest().getText();
-                    String newText = pair.latest().getText();
-                    DiffMatcher matcher = new DiffMatcher(
-                            oldText, newText,
-                            keywords, diffs, parserPool, langDetector,
-                            filterStopwords, enableStemming, ignoreCase,
-                            ignoreAdded, ignoreRemoved,
-                            snippetOffset
-                    );
-                    try {
-                        return matcher.call();
-                    } catch (Exception e) {
-                        logger.error(e.getMessage(), e);
-                    }
+                if (pair == null) {
+                    return Collections.emptySet();
+                }
+
+                String oldText = pair.oldest().getText();
+                String newText = pair.latest().getText();
+                DiffMatcher matcher = new DiffMatcher(
+                        oldText, newText,
+                        keywords, diffs, parserPool, langDetector,
+                        filterStopwords, enableStemming, ignoreCase,
+                        ignoreAdded, ignoreRemoved,
+                        snippetOffset
+                );
+                try {
+                    return matcher.call();
+                } catch (Exception e) {
+                    logger.error(e.getMessage(), e);
                 }
 
                 return Collections.emptySet();
@@ -215,7 +239,8 @@ public class JobManagerTest {
 
             @Override
             public void removeExistingDifferences(String documentUrl, String documentContentType) {
-                DBCollection diffColl = differencesDB.getCollection(documentUrl);
+                DBCollection diffColl = differencesDB.getCollection(
+                        getDiffCollectionName(documentUrl, documentContentType));
                 diffColl.drop();
             }
 
@@ -260,13 +285,16 @@ public class JobManagerTest {
         // jobs run every 5 seconds, so force the test to wait 15 seconds to
         // ensure that a detection job is performed and finished
         // the result should be no differences detected
-        Thread.sleep(9000);
+        Thread.sleep(15000);
 
 
         newestTestDocument.set("is the of the 100-eyed giant in Greek mythology.");
         // this time, the result should be differences detected
-        Thread.sleep(9000);
-
+        Thread.sleep(12000); // TODO: when this is set to 9 seconds, adding a
+        // new job for the same document (as done below) prompts the same
+        // detection twice without the diffs from the first trigger being
+        // stored, which leads to matching for the same job happening twice,
+        // which leads to notifying the client twice
 
         wasCreated = manager.createJob(
                 "http://example.com",
@@ -290,7 +318,7 @@ public class JobManagerTest {
         // doesn't find any differences, and then wait another 20 seconds.
         // The first job, which runs every 5 seconds, should detect the
         // difference first, and matching for both the first request and the
-        // second request should occcur
+        // second request should occur
         Thread.sleep(20000);
         newestTestDocument.set("is the of the 100-eyed giant in Norse mythology.");
         Thread.sleep(20000);

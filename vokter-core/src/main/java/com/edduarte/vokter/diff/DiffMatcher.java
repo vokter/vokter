@@ -49,7 +49,8 @@ import java.util.stream.Collectors;
  */
 public class DiffMatcher implements Callable<Set<Match>> {
 
-    private static final Logger logger = LoggerFactory.getLogger(DiffMatcher.class);
+    private static final Logger logger =
+            LoggerFactory.getLogger(DiffMatcher.class);
 
     private final String oldText;
 
@@ -121,6 +122,7 @@ public class DiffMatcher implements Callable<Set<Match>> {
         }
         final String languageCode = languageCodeAux;
 
+
         diffs.parallelStream()
                 .unordered()
                 .filter(d -> !(ignoreAdded && d.getEvent()
@@ -128,6 +130,7 @@ public class DiffMatcher implements Callable<Set<Match>> {
                 .filter(d -> !(ignoreRemoved && d.getEvent()
                         .equals(DiffEvent.deleted))).forEach(d -> {
             String s = d.getText();
+
 
             // sets the parser's stopper according to the detected language
             // if the detected language is not supported, stopword filtering is
@@ -166,6 +169,7 @@ public class DiffMatcher implements Callable<Set<Match>> {
                 // unexpected class loading error, so stemming is ignored
             }
 
+
             // take out one of the available parsers for the entire context
             Parser parser;
             try {
@@ -175,12 +179,14 @@ public class DiffMatcher implements Callable<Set<Match>> {
                 return;
             }
 
+
             List<Parser.Result> parserResults = parser.parse(
                     new MutableString(s),
                     stopper,
                     stemmer,
                     ignoreCase
             );
+
 
             // return the used parser so that other threads can use it
             try {
@@ -190,25 +196,32 @@ public class DiffMatcher implements Callable<Set<Match>> {
                 return;
             }
 
+
             if (stopper != null) {
                 stopper.destroy();
             }
+
 
 //            if (stemmer != null) {
 //                stemmer.destroy();
 //            }
 
+
             List<MutableString> tokens = parserResults.parallelStream()
                     .map(t -> t.text)
                     .collect(Collectors.toList());
+
 
             BloomFilter<MutableString> bloomFilter = BloomFilter.create(
                     (from, into) -> into.putUnencodedChars(from),
                     tokens.size()
             );
+
+
             // put all of the individual words in the difference text on the
             // bloom filter
             tokens.forEach(bloomFilter::put);
+
 
             // use the BloomFilter to check if AT LEAST ONE of the keywords has
             // ALL of its words contained in the diff text, even if they come in
@@ -258,6 +271,7 @@ public class DiffMatcher implements Callable<Set<Match>> {
                     .filter(diff -> diff != null)
                     .forEach(matchedDiffs::add);
         });
+
 
         sw.stop();
         logger.info("Completed difference matching for keywords '{}' in {}",

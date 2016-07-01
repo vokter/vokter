@@ -31,6 +31,8 @@ import java.text.DecimalFormat;
  */
 public class Constants {
 
+    public static final int MAX_THREADS;
+
     public static final String PROJECT_DIR = System.getProperty("user.dir")
             + File.separator
             + "src"
@@ -63,6 +65,11 @@ public class Constants {
     private static final SecureRandom random = new SecureRandom();
 
     private static final char[] hexArray = "0123456789abcdef".toCharArray();
+
+    static {
+        int maxThreadsAux = Runtime.getRuntime().availableProcessors() - 1;
+        MAX_THREADS = maxThreadsAux > 0 ? maxThreadsAux : 1;
+    }
 
 
     /**

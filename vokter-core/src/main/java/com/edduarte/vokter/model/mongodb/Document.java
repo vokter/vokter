@@ -20,7 +20,9 @@ import com.fasterxml.jackson.databind.util.ISO8601DateFormat;
 import com.mongodb.BasicDBObject;
 
 import java.io.Serializable;
+import java.util.ArrayList;
 import java.util.Date;
+import java.util.List;
 
 /**
  * Simple structure that holds a document current snapshot and associates
@@ -40,10 +42,17 @@ public final class Document extends BasicDBObject implements Serializable {
 
     public static final String CONTENT_TYPE = "content_type";
 
+    public static final String SHINGLES = "shingles";
+
+    public static final String SHINGLE_LENGTH = "shingle_length";
+
+    public static final String BANDS = "bands";
+
     private static final long serialVersionUID = 1L;
 
 
-    public Document(String url, Date date, String contentType, String text) {
+    public Document(String url, Date date, String contentType, String text,
+                    List<String> shingles, int k, int[] bands) {
         super();
         if (contentType == null) {
             contentType = "";
@@ -52,6 +61,14 @@ public final class Document extends BasicDBObject implements Serializable {
         append(DATE, date);
         append(CONTENT_TYPE, contentType);
         append(TEXT, text);
+        append(SHINGLES, shingles);
+        append(SHINGLE_LENGTH, k);
+        List<Integer> list = new ArrayList<>();
+        int size = bands.length;
+        for (int i = 0; i < size; i++) {
+            list.add(bands[i]);
+        }
+        append(BANDS, list);
     }
 
 
@@ -77,6 +94,27 @@ public final class Document extends BasicDBObject implements Serializable {
 
     public String getText() {
         return getString(TEXT);
+    }
+
+
+    public List<String> getShingles() {
+        return (ArrayList<String>) get(SHINGLES);
+    }
+
+
+    public int getShingleLength() {
+        return getInt(SHINGLE_LENGTH);
+    }
+
+
+    public int[] getBands() {
+        List<Integer> list = (ArrayList<Integer>) get(BANDS);
+
+        int[] bands = new int[list.size()];
+        for (int i = 0; i < list.size(); i++) {
+            bands[i] = list.get(i);
+        }
+        return bands;
     }
 
 
@@ -111,7 +149,10 @@ public final class Document extends BasicDBObject implements Serializable {
 
     @Override
     public Document clone() {
-        return new Document(getUrl(), getDate(), getContentType(), getText());
+        return new Document(
+                getUrl(), getDate(), getContentType(), getText(),
+                getShingles(), getShingleLength(), getBands()
+        );
     }
 }
 

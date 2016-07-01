@@ -16,6 +16,8 @@
 
 package com.edduarte.vokter.cleaner;
 
+import it.unimi.dsi.fastutil.chars.CharArrayList;
+import it.unimi.dsi.fastutil.chars.CharList;
 import it.unimi.dsi.lang.MutableString;
 
 /**
@@ -32,51 +34,42 @@ import it.unimi.dsi.lang.MutableString;
  * @version 1.3.2
  * @since 1.0.0
  */
-public class SpecialCharsCleaner implements Cleaner {
+public class SpecialCharsCleaner extends Cleaner {
 
     /**
      * The characters to evaluate and clean from the provided document text.
      */
-    private static final char[] CHARS_TO_FILTER = {
+    private static final CharList CHARS_TO_FILTER = new CharArrayList(new char[]{
             '{', '}', '[', ']', '(', ')', '*', '/', '^', '~', '<', '>',
             '_', '…', '–', '−', '.', ',', '!', '?', '@', '#', '&', '+', '-', '=',
             '/', ':', ';', '\\', '|', '\"', '\'', '”', '“', '„', '«',
             '»', '’', '‘', '′', '⏐', '•', '↔', '►', '', '', '', '', '',
             '', '', '●', '®', '¶', '♦', '→', '·', '·', '▪', '○', '', '',
-            '', '', '†', '', '║', '▲', '´', '\n'};
+            '', '', '†', '', '║', '▲', '´', '\n', '\r'});
 
-    private static final char[] DEFAULT_REPLACEMENTS;
+    private static final char DEFAULT_REPLACEMENTS = ' ';
 
-    static {
-        int numOfChars = CHARS_TO_FILTER.length;
-        DEFAULT_REPLACEMENTS = new char[numOfChars];
-        for (int i = 0; i < numOfChars; i++) {
-            DEFAULT_REPLACEMENTS[i] = ' ';
-        }
-    }
-
-    private final char[] replacements;
+    private final char replacement;
 
 
     public SpecialCharsCleaner() {
-        this.replacements = DEFAULT_REPLACEMENTS;
+        this.replacement = DEFAULT_REPLACEMENTS;
     }
 
 
     public SpecialCharsCleaner(char replacement) {
-        int numOfChars = CHARS_TO_FILTER.length;
-        this.replacements = new char[numOfChars];
-        for (int i = 0; i < numOfChars; i++) {
-            this.replacements[i] = replacement;
-        }
+        this.replacement = replacement;
     }
 
 
     @Override
-    public void clean(MutableString documentContents) {
-        // the replace implementation of mutable strings use 'indexOf' instead
-        // of 'split' to perform character lookup, since char-by-char matching
-        // is considerably faster than regex-pattern matching
-        documentContents.replace(CHARS_TO_FILTER, replacements);
+    protected void setup(MutableString s) {
+    }
+
+
+    @Override
+    protected boolean clean(MutableString s, int i, char last, char curr) {
+        if (CHARS_TO_FILTER.contains(curr)) s.setCharAt(i, replacement);
+        return false;
     }
 }

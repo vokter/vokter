@@ -19,6 +19,11 @@ package com.edduarte.vokter.document;
 import com.edduarte.vokter.model.mongodb.Document;
 import com.mongodb.DB;
 import com.mongodb.MongoClient;
+import com.optimaize.langdetect.LanguageDetector;
+import com.optimaize.langdetect.LanguageDetectorBuilder;
+import com.optimaize.langdetect.ngram.NgramExtractors;
+import com.optimaize.langdetect.profiles.LanguageProfile;
+import com.optimaize.langdetect.profiles.LanguageProfileReader;
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
 import org.junit.Test;
@@ -27,6 +32,7 @@ import org.slf4j.LoggerFactory;
 
 import javax.ws.rs.core.MediaType;
 import java.io.IOException;
+import java.util.List;
 
 import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertNull;
@@ -46,12 +52,18 @@ public class DocumentCollectionTest {
 
     private static DocumentCollection collection;
 
+    private static LanguageDetector langDetector;
+
 
     @BeforeClass
     public static void setUp() throws IOException, InterruptedException {
         mongoClient = new MongoClient("localhost", 27017);
         documentsDB = mongoClient.getDB("test_documents_db");
         collection = new DocumentCollection("test_collection", documentsDB);
+        List<LanguageProfile> languageProfiles = new LanguageProfileReader().readAllBuiltIn();
+        langDetector = LanguageDetectorBuilder.create(NgramExtractors.standard())
+                .withProfiles(languageProfiles)
+                .build();
     }
 
 
@@ -72,11 +84,9 @@ public class DocumentCollectionTest {
         // testing add
         Document d = DocumentBuilder
                 .fromUrl(url, null)
-                .build();
-        logger.info("{}", d);
+                .build(langDetector);
         collection.add(d);
         DocumentPair pair = collection.get(url, MediaType.TEXT_HTML);
-        logger.info("{}", pair);
         assertNotNull(pair);
 
         // testing remove

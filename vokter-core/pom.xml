@@ -196,6 +196,13 @@
             <version>4.1.0</version>
         </dependency>
 
+        <!-- bloom filter -->
+        <dependency>
+            <groupId>com.baqend</groupId>
+            <artifactId>bloom-filter</artifactId>
+            <version>1.0.7</version>
+        </dependency>
+
 
         <!-- memory cache -->
         <dependency>

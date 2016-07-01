@@ -18,10 +18,14 @@ package com.edduarte.vokter.diff;
 
 import com.edduarte.vokter.model.mongodb.Diff;
 import com.edduarte.vokter.model.mongodb.Document;
+import com.edduarte.vokter.similarity.JaccardStringSimilarity;
+import com.edduarte.vokter.similarity.LSHSimilarity;
+import com.edduarte.vokter.similarity.Similarity;
 import com.google.common.base.Stopwatch;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import java.util.Collections;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.concurrent.Callable;
@@ -52,15 +56,31 @@ public class DiffDetector implements Callable<List<Diff>> {
     public List<Diff> call() {
         Stopwatch sw = Stopwatch.createStarted();
 
-        DiffMatchPatch dmp = new DiffMatchPatch();
+        int[] oldBands = oldSnapshot.getBands();
+        int[] newBands = newSnapshot.getBands();
+
+        // use LSH band comparisson to determine a similarity index before going
+        // for a more computational intensive task. If similarity is below 0.95,
+        // the documents are different enough, so send them to DiffMatchPatch
+        boolean isCandidatePair = LSHSimilarity.isCandidatePair(oldBands, newBands);
+        if (isCandidatePair) {
+            // documents might be similar, lets confirm with Jaccard
+            List<String> oldShingles = oldSnapshot.getShingles();
+            List<String> newShingles = newSnapshot.getShingles();
+            double similarityIndex = JaccardStringSimilarity
+                    .shingleSimilarity(oldShingles, newShingles);
+            if (similarityIndex >= 0.95) {
+                // documents are very similar, so just assume there are no
+                // relevant differences
+                return Collections.emptyList();
+            }
+        }
+
 
         String original = oldSnapshot.getText();
         String revision = newSnapshot.getText();
 
-        // TODO: use LSH to determine a similarity index. If distance is above
-        // 0.4, the documents are different enough and a more computational
-        // intensive task (analysing token by token differences).
-
+        DiffMatchPatch dmp = new DiffMatchPatch();
         LinkedList<DiffMatchPatch.Diff> diffs = dmp.diff_main(original, revision);
         dmp.diff_cleanupSemantic(diffs);
 

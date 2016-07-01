@@ -16,7 +16,11 @@
 
 package com.edduarte.vokter.cleaner;
 
+import com.google.common.collect.ImmutableList;
 import it.unimi.dsi.lang.MutableString;
+
+import java.util.Arrays;
+import java.util.List;
 
 /**
  * Utility Cleaner implementation that concatenates two Cleaner classes into a
@@ -26,27 +30,53 @@ import it.unimi.dsi.lang.MutableString;
  * @version 1.3.2
  * @since 1.0.0
  */
-public class AndCleaner implements Cleaner {
+public class AndCleaner extends Cleaner {
 
-    private final Cleaner f1;
-
-    private final Cleaner f2;
+    private final List<Cleaner> cleanerList;
 
 
-    private AndCleaner(Cleaner f1, Cleaner f2) {
-        this.f1 = f1;
-        this.f2 = f2;
+    private AndCleaner(List<Cleaner> cleanerList) {
+        this.cleanerList = cleanerList;
     }
 
 
     public static AndCleaner of(Cleaner f1, Cleaner f2) {
-        return new AndCleaner(f1, f2);
+        return new AndCleaner(Arrays.asList(f1, f2));
+    }
+
+
+    public static AndCleaner of(Cleaner... f) {
+        return new AndCleaner(Arrays.asList(f));
+    }
+
+
+    public static AndCleaner of(List<Cleaner> f) {
+        return new AndCleaner(ImmutableList.copyOf(f));
     }
 
 
     @Override
-    public void clean(MutableString documentContent) {
-        f1.clean(documentContent);
-        f2.clean(documentContent);
+    protected void setup(MutableString s) {
+        for (Cleaner c : cleanerList) {
+            c.setup(s);
+        }
+    }
+
+
+    @Override
+    protected boolean clean(MutableString s, int i, char last, char curr) {
+        for (Cleaner c : cleanerList) {
+            boolean shouldDelete = c.clean(s, i, last, curr);
+            if (shouldDelete) {
+                // if one cleaner asks the character to be deleted, don't pass
+                // this character through the remaining cleaners
+                return true;
+            } else {
+                // assume that the current character might have been updated,
+                // so update the current character reference
+                curr = s.charAt(i);
+            }
+        }
+        return false;
     }
 }

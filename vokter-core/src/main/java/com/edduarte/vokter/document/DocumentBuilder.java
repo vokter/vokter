@@ -19,6 +19,7 @@ package com.edduarte.vokter.document;
 import com.edduarte.vokter.model.mongodb.Document;
 import com.edduarte.vokter.util.OSGiManager;
 import com.google.common.base.Stopwatch;
+import com.optimaize.langdetect.LanguageDetector;
 import org.apache.tools.ant.filters.StringInputStream;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -48,26 +49,35 @@ public final class DocumentBuilder {
      */
     private final Supplier<DocumentInput> documentLazySupplier;
 
-//    /**
-//     * The language detector that will assure that the right Stopword filter
-//     * and Stemmer are used for the input content.
-//     */
-//    private LanguageDetector langDetector;
+    /**
+     * The language detector that will assure that the right Stopword filter
+     * and Stemmer are used for the input content.
+     */
+    private LanguageDetector langDetector;
 
-//    /**
-//     * Flag that sets usage of stopword filtering.
-//     */
-//    private boolean isStoppingEnabled = false;
-//
+    /**
+     * Flag that sets usage of stopword filtering.
+     */
+    private boolean isStoppingEnabled = false;
+
 //    /**
 //     * Flag that sets usage of a porter stemmer.
 //     */
 //    private boolean isStemmingEnabled = false;
-//
-//    /**
-//     * Flag that sets matching of equal occurrences with different casing.
-//     */
-//    private boolean ignoreCase = false;
+
+    /**
+     * Flag that sets matching of equal occurrences with different casing.
+     */
+    private boolean ignoreCase = false;
+
+
+    /**
+     * The length of shingles k, to generate from the document content. If an
+     * older snapshot of this document was already generated, this should be
+     * set to the same k value. If not, then a new k value will be determined
+     * based on the document length.
+     */
+    private int shingleLength = -1;
 
 
     private DocumentBuilder(final Supplier<DocumentInput> documentLazySupplier) {
@@ -132,24 +142,42 @@ public final class DocumentBuilder {
 //        this.langDetector = langDetector;
 //        return this;
 //    }
-//
-//
-//    public DocumentBuilder withStopwords() {
-//        this.isStoppingEnabled = true;
-//        return this;
-//    }
-//
-//
+
+
+    public DocumentBuilder withStopwords() {
+        this.isStoppingEnabled = true;
+        return this;
+    }
+
+
 //    public DocumentBuilder withStemming() {
 //        this.isStemmingEnabled = true;
 //        return this;
 //    }
-//
-//
-//    public DocumentBuilder ignoreCase() {
-//        this.ignoreCase = true;
-//        return this;
-//    }
+
+
+    public DocumentBuilder ignoreCase() {
+        this.ignoreCase = true;
+        return this;
+    }
+
+
+    public DocumentBuilder withShingleLength(int shingleLength) {
+        this.shingleLength = shingleLength;
+        return this;
+    }
+
+
+    public boolean isReadable() {
+        try {
+            documentLazySupplier.get();
+            return true;
+        } catch (RuntimeException ex) {
+            logger.info("There was an error accessing the document: {}",
+                    ex.getMessage());
+            return false;
+        }
+    }
 
 
     /**
@@ -167,7 +195,7 @@ public final class DocumentBuilder {
      *
      * @return the built index of the documents specified in the factory method
      */
-    public Document build() {
+    public Document build(LanguageDetector langDetector) {
         Stopwatch sw = Stopwatch.createStarted();
 
         // step 1) Perform a lazy loading of the document, by obtaining its url,
@@ -178,7 +206,8 @@ public final class DocumentBuilder {
         // step 2) Checks if the input document is supported by the server
         boolean isSupported = OSGiManager.getCompatibleReader(input.getContentType()) != null;
         if (!isSupported) {
-            logger.info("Ignored processing document '{}': No compatible readers available for content-type '{}'.",
+            logger.info("Could not process document '{}': No compatible " +
+                            "readers available for content-type '{}'.",
                     input.getUrl(),
                     input.getContentType()
             );
@@ -186,49 +215,29 @@ public final class DocumentBuilder {
         }
 
 
-        // step 3) Takes a parser from the parser-pool.
-//        Parser parser;
-//        try {
-//            parser = parserPool.take();
-//        } catch (InterruptedException ex) {
-//            logger.error(ex.getMessage(), ex);
-//            return null;
-//        }
-
-
-        // step 4) Build a processing instruction to be executed.
-        //         A pipeline instantiates a new object for each of the
-        //         required modules, improving performance of parallel jobs.
+        // step 3) Process the document.
         DocumentPipeline pipeline = new DocumentPipeline(
 
-                // the language detection model
-//                langDetector,
-
-                // general structure that holds the created occurrences
-//                occurrencesDB,
-
                 // the input document info, including its path and InputStream
-                input
+                input,
 
-                // parser that will be used for document parsing and occurrence
-                // detection
-//                parser,
+                // the language detection model
+                langDetector,
 
                 // flag that sets that stopwords will be filtered during
-                // tokenization
-//                isStoppingEnabled,
+                // k-shingling
+                isStoppingEnabled,
 
-                // flag that sets that every found occurrence during tokenization will
-                // be stemmer
-//                isStemmingEnabled,
+                // flag that forces the document to be in lower case, so that
+                // during difference matching, every match will be case
+                // insensitive (regardless of the user setting "ignoreCase" as
+                // false)
+                ignoreCase,
 
-                // flag that forces every found token to be lower case, matching,
-                // for example, the words 'be' and 'Be' as the same token
-//                ignoreCase
+                // shingle length for KShingling
+                shingleLength
+
         );
-
-
-        // step 5) Process the document asynchronously.
         Document document;
         try {
             document = pipeline.call();
@@ -236,15 +245,6 @@ public final class DocumentBuilder {
             logger.error(ex.getMessage(), ex);
             return null;
         }
-
-
-        // step 6) Place the parser back in the parser-pool.
-//        try {
-//            parserPool.place(parser);
-//        } catch (InterruptedException ex) {
-//            logger.error(ex.getMessage(), ex);
-//            return null;
-//        }
 
         sw.stop();
         logger.info("Completed processing document '{}' in {}.",
