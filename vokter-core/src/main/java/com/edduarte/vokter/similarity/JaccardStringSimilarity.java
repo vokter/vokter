@@ -62,6 +62,8 @@ public class JaccardStringSimilarity implements StringSimilarity {
         try {
             List<String> shingles1 = future1.get();
             List<String> shingles2 = future2.get();
+            logger.info(shingles1.toString());
+            logger.info(shingles2.toString());
             return new ShinglePair(shingles1, shingles2);
         } catch (ExecutionException | InterruptedException ex) {
             String m = "There was a problem processing shingles.";

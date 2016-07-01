@@ -45,20 +45,6 @@
         </developer>
     </developers>
 
-    <repositories>
-        <repository>
-            <id>spotlight-releases-repository</id>
-            <url>
-                https://github.com/dbpedia-spotlight/maven-repo/raw/master/releases
-            </url>
-        </repository>
-
-        <repository>
-            <id>clojars.org</id>
-            <url>http://clojars.org/repo</url>
-        </repository>
-    </repositories>
-
     <build>
         <directory>../target</directory>
         <outputDirectory>../target/classes</outputDirectory>
@@ -195,6 +181,7 @@
             <artifactId>lingpipe</artifactId>
             <version>4.1.0</version>
         </dependency>
+
 
         <!-- bloom filter -->
         <dependency>

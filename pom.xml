@@ -48,6 +48,7 @@
     </developers>
 
     <repositories>
+
         <repository>
             <id>spotlight-releases-repository</id>
             <url>
@@ -59,6 +60,16 @@
             <id>clojars.org</id>
             <url>http://clojars.org/repo</url>
         </repository>
+
+        <repository>
+            <snapshots>
+                <enabled>false</enabled>
+            </snapshots>
+            <id>central</id>
+            <name>bintray</name>
+            <url>http://jcenter.bintray.com</url>
+        </repository>
+
     </repositories>
 
     <build>

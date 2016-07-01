@@ -64,15 +64,14 @@ public class KShingler implements Processor<CharSequence, List<String>> {
             List<String> shingles = new ArrayList<>();
 
             for (int i = 0; i < (text.length() - k + 1); i++) {
-                MutableString shingle = new MutableString(
-                        text.subSequence(i, i + k));
+                MutableString s = new MutableString(text.subSequence(i, i + k));
 
-                if (stopper != null && stopper.isStopword(shingle)) {
+                if (stopper != null && stopper.isStopword(s)) {
                     // shingle matches a stopword, so skip it
                     continue;
                 }
 
-                shingles.add(shingle.toString());
+                shingles.add(s.toString());
             }
 
             return shingles;
