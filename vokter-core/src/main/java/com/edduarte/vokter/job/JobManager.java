@@ -381,7 +381,7 @@ public class JobManager {
             handler.removeExistingDifferences(documentUrl, documentContentType);
             logger.info("Timed out detection job for document '{}' ({}).",
                     documentUrl, documentContentType);
-        } catch (SchedulerException | JsonProcessingException ex) {
+        } catch (SchedulerException ex) {
             logger.error(ex.getMessage(), ex);
         }
     }
@@ -585,8 +585,7 @@ public class JobManager {
     final boolean sendTimeoutToClient(final String documentUrl,
                                       final String documentContentType,
                                       final String clientUrl,
-                                      final String clientContentType)
-            throws JsonProcessingException {
+                                      final String clientContentType) {
         return handler.sendTimeoutToClient(
                 documentUrl, documentContentType,
                 clientUrl, clientContentType

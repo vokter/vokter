@@ -62,14 +62,13 @@ public class ServletBootstrap extends HttpServlet {
 
         final String contextPath = servletContext.getContextPath();
         final StringBuilder sbBasePath = new StringBuilder();
-        logger.info("{}", contextPath);
         sbBasePath.append(contextPath);
         sbBasePath.append("/api");
 
         BeanConfig beanConfig = new BeanConfig();
         beanConfig.setVersion("1.0.0");
         beanConfig.setBasePath(sbBasePath.toString());
-        beanConfig.setResourcePackage("com.edduarte.rest.resources");
+        beanConfig.setResourcePackage("com.edduarte.vokter.rest.resources");
         beanConfig.setScan(true);
         beanConfig.setInfo(info);
 

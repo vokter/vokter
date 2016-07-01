@@ -59,9 +59,6 @@ public final class KeywordBuilder {
     private boolean ignoreCase;
 
 
-    private int slop;
-
-
     private KeywordBuilder(final String keywordInput) {
         this.keywordInput = keywordInput;
         this.isStoppingEnabled = false;
@@ -77,12 +74,6 @@ public final class KeywordBuilder {
 
     public KeywordBuilder withLanguageDetector(final LanguageDetector langDetector) {
         this.langDetector = langDetector;
-        return this;
-    }
-
-
-    public KeywordBuilder withSlop(final int slop) {
-        this.slop = slop;
         return this;
     }
 

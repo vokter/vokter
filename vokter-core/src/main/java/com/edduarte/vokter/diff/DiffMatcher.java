@@ -23,6 +23,7 @@ import com.edduarte.vokter.persistence.Diff;
 import com.edduarte.vokter.stemmer.Stemmer;
 import com.edduarte.vokter.stopper.FileStopper;
 import com.edduarte.vokter.stopper.Stopper;
+import com.edduarte.vokter.util.ConcurrentHashSet;
 import com.edduarte.vokter.util.OSGiManager;
 import com.google.common.base.Optional;
 import com.google.common.base.Stopwatch;
@@ -33,7 +34,6 @@ import com.optimaize.langdetect.text.CommonTextObjectFactories;
 import com.optimaize.langdetect.text.TextObject;
 import com.optimaize.langdetect.text.TextObjectFactory;
 import it.unimi.dsi.lang.MutableString;
-import org.eclipse.jetty.util.ConcurrentHashSet;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

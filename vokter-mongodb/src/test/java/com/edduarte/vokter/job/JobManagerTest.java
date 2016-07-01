@@ -72,11 +72,9 @@ public class JobManagerTest {
 
     private static MongoClient mongoClient;
 
-    private static DB documentsDB;
+    private static DB db;
 
     private static DocumentCollection collection;
-
-    private static DB differencesDB;
 
     private static DB jobsDB;
 
@@ -92,14 +90,9 @@ public class JobManagerTest {
         mongoClient = new MongoClient("localhost", 27017);
         jobsDB = mongoClient.getDB("vokter_jobs");
         jobsDB.dropDatabase();
-        documentsDB = mongoClient.getDB("test_documents_db");
-        documentsDB.dropDatabase();
-        collection = new MongoDocumentCollection(
-                "test_vokter_collection",
-                documentsDB
-        );
-        differencesDB = mongoClient.getDB("test_differences_db");
-        differencesDB.dropDatabase();
+        db = mongoClient.getDB("vokter_test");
+        db.dropDatabase();
+        collection = new MongoDocumentCollection("documents", db);
         parserPool = new ParserPool();
         parserPool.place(new SimpleParser());
         parserPool.place(new SimpleParser());
@@ -118,15 +111,14 @@ public class JobManagerTest {
     public static void close() {
         collection.destroy();
         jobsDB.dropDatabase();
-        documentsDB.dropDatabase();
-        differencesDB.dropDatabase();
+        db.dropDatabase();
         parserPool.clear();
         mongoClient.close();
     }
 
 
     private static String getDiffCollectionName(String url, String contentType) {
-        return url + "|" + contentType;
+        return "diffs|" + url + "|" + contentType;
     }
 
 
@@ -168,7 +160,7 @@ public class JobManagerTest {
 
                     removeExistingDifferences(url, contentType);
                     if (hasNewDiffs) {
-                        DBCollection diffColl = differencesDB.getCollection(
+                        DBCollection diffColl = db.getCollection(
                                 getDiffCollectionName(url, contentType));
                         BulkWriteOperation bulkOp =
                                 diffColl.initializeUnorderedBulkOperation();
@@ -210,7 +202,7 @@ public class JobManagerTest {
                     int snippetOffset) {
 
                 // check diffs stored on the database
-                DBCollection diffColl = differencesDB.getCollection(
+                DBCollection diffColl = db.getCollection(
                         getDiffCollectionName(documentUrl, documentContentType));
                 long count = diffColl.count();
                 if (count <= 0) {
@@ -248,7 +240,7 @@ public class JobManagerTest {
 
             @Override
             public void removeExistingDifferences(String documentUrl, String documentContentType) {
-                DBCollection diffColl = differencesDB.getCollection(
+                DBCollection diffColl = db.getCollection(
                         getDiffCollectionName(documentUrl, documentContentType));
                 diffColl.drop();
             }
@@ -265,14 +257,17 @@ public class JobManagerTest {
 
 
             @Override
-            public boolean sendNotificationToClient(String documentUrl, String documentContentType, String clientUrl, String clientContentType, Set<Match> diffs) {
+            public boolean sendNotificationToClient(String documentUrl, String documentContentType,
+                                                    String clientUrl, String clientContentType,
+                                                    Set<Match> diffs) {
                 // do nothing
                 return true;
             }
 
 
             @Override
-            public boolean sendTimeoutToClient(String documentUrl, String documentContentType, String clientUrl, String clientContentType) {
+            public boolean sendTimeoutToClient(String documentUrl, String documentContentType,
+                                               String clientUrl, String clientContentType) {
                 // do nothing
                 return true;
             }
@@ -280,6 +275,7 @@ public class JobManagerTest {
 
             @Override
             public void removeSession(String clientUrl, String clientContentType) {
+                // do nothing
             }
 
 

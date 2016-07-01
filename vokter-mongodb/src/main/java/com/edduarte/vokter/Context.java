@@ -78,13 +78,11 @@ public class Context implements LifeCycle.Listener, JobManagerHandler {
 
     private static final Logger logger = LoggerFactory.getLogger(Context.class);
 
-    private static final String DOCUMENTS_DB = "vokter_documents_db";
+    private static final String DB_NAME = "vokter";
 
-    private static final String SESSIONS_DB = "vokter_sessions_db";
+    private static final String DOCUMENTS_COLLECTION_NAME = "documents";
 
-    private static final String SESSIONS_COLLECTION = "vokter_sessions_collection";
-
-    private static final String DIFFERENCES_DB = "vokter_differences_db";
+    private static final String SESSIONS_COLLECTION = "sessions";
 
     private static final Context instance;
 
@@ -119,20 +117,9 @@ public class Context implements LifeCycle.Listener, JobManagerHandler {
     private MongoClient mongoClient;
 
     /**
-     * The MongoDB database for fetched documents.
+     * The MongoDB database used by vokter.
      */
-    private DB documentsDB;
-
-    /**
-     * The MongoDB database for client url to token pairings.
-     */
-    private DB sessionsDB;
-
-    /**
-     * The MongoDB database for detected differences between snapshots for
-     * each document.
-     */
-    private DB differencesDB;
+    private DB db;
 
     /**
      * The Bayesian detection model that allows language detection.
@@ -180,7 +167,7 @@ public class Context implements LifeCycle.Listener, JobManagerHandler {
 
 
     private static String getDiffCollectionName(String url, String contentType) {
-        return url + "|" + contentType;
+        return "diffs|" + url + "|" + contentType;
     }
 
 
@@ -222,7 +209,7 @@ public class Context implements LifeCycle.Listener, JobManagerHandler {
 
 
     private Session createOrGetSession(String clientUrl, String clientContentType) {
-        DBCollection collection = sessionsDB.getCollection(SESSIONS_COLLECTION);
+        DBCollection collection = db.getCollection(SESSIONS_COLLECTION);
 
         DBObject obj = collection.findOne(
                 new BasicDBObject(MongoSession.CLIENT_URL, clientUrl)
@@ -241,7 +228,7 @@ public class Context implements LifeCycle.Listener, JobManagerHandler {
 
     @Override
     public void removeSession(String clientUrl, String clientContentType) {
-        DBCollection collection = documentsDB.getCollection(SESSIONS_COLLECTION);
+        DBCollection collection = db.getCollection(SESSIONS_COLLECTION);
         DBObject obj = collection.findOne(
                 new BasicDBObject(MongoSession.CLIENT_URL, clientUrl)
                         .append(MongoSession.CLIENT_CONTENT_TYPE, clientContentType));
@@ -254,7 +241,7 @@ public class Context implements LifeCycle.Listener, JobManagerHandler {
 
     @Override
     public Session validateToken(String clientUrl, String clientContentType, String token) {
-        DBCollection collection = documentsDB.getCollection(SESSIONS_COLLECTION);
+        DBCollection collection = db.getCollection(SESSIONS_COLLECTION);
 
         DBObject obj = collection.findOne(
                 new BasicDBObject(MongoSession.CLIENT_URL, clientUrl)
@@ -332,7 +319,7 @@ public class Context implements LifeCycle.Listener, JobManagerHandler {
 
             removeExistingDifferences(url, contentType);
             if (hasNewDiffs) {
-                DBCollection diffColl = differencesDB.getCollection(
+                DBCollection diffColl = db.getCollection(
                         getDiffCollectionName(url, contentType));
                 BulkWriteOperation bulkOp = diffColl.initializeUnorderedBulkOperation();
                 results.parallelStream()
@@ -371,7 +358,7 @@ public class Context implements LifeCycle.Listener, JobManagerHandler {
             int snippetOffset) {
 
         // check diffs stored on the database
-        DBCollection diffColl = differencesDB.getCollection(
+        DBCollection diffColl = db.getCollection(
                 getDiffCollectionName(documentUrl, documentContentType));
         long count = diffColl.count();
         if (count <= 0) {
@@ -412,7 +399,7 @@ public class Context implements LifeCycle.Listener, JobManagerHandler {
      */
     @Override
     public void removeExistingDifferences(String documentUrl, String documentContentType) {
-        DBCollection diffColl = differencesDB.getCollection(
+        DBCollection diffColl = db.getCollection(
                 getDiffCollectionName(documentUrl, documentContentType));
         diffColl.drop();
     }
@@ -488,9 +475,7 @@ public class Context implements LifeCycle.Listener, JobManagerHandler {
 
         mongoClient = new MongoClient(dbHost, dbPort);
 
-        documentsDB = mongoClient.getDB(DOCUMENTS_DB);
-        sessionsDB = mongoClient.getDB(SESSIONS_DB);
-        differencesDB = mongoClient.getDB(DIFFERENCES_DB);
+        db = mongoClient.getDB(DB_NAME);
 
         List<LanguageProfile> languageProfiles = new LanguageProfileReader().readAllBuiltIn();
         langDetector = LanguageDetectorBuilder.create(NgramExtractors.standard())
@@ -498,8 +483,8 @@ public class Context implements LifeCycle.Listener, JobManagerHandler {
                 .build();
 
         documentCollection = new MongoDocumentCollection(
-                "vokter_production_collection",
-                documentsDB
+                DOCUMENTS_COLLECTION_NAME,
+                db
         );
 
         logger.info("Starting jobs...");

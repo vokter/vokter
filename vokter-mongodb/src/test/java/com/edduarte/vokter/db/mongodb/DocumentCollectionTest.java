@@ -52,7 +52,7 @@ public class DocumentCollectionTest {
 
     private static MongoClient mongoClient;
 
-    private static DB documentsDB;
+    private static DB db;
 
     private static DocumentCollection collection;
 
@@ -62,8 +62,8 @@ public class DocumentCollectionTest {
     @BeforeClass
     public static void setUp() throws IOException, InterruptedException {
         mongoClient = new MongoClient("localhost", 27017);
-        documentsDB = mongoClient.getDB("test_documents_db");
-        collection = new MongoDocumentCollection("test_collection", documentsDB);
+        db = mongoClient.getDB("vokter_test");
+        collection = new MongoDocumentCollection("documents", db);
         List<LanguageProfile> languageProfiles = new LanguageProfileReader().readAllBuiltIn();
         langDetector = LanguageDetectorBuilder.create(NgramExtractors.standard())
                 .withProfiles(languageProfiles)
@@ -74,7 +74,7 @@ public class DocumentCollectionTest {
     @AfterClass
     public static void close() {
         collection.destroy();
-        documentsDB.dropDatabase();
+        db.dropDatabase();
         mongoClient.close();
     }
 

@@ -21,7 +21,7 @@ import com.edduarte.vokter.persistence.DocumentCollection;
 import com.edduarte.vokter.util.OSGiManager;
 import com.google.common.base.Stopwatch;
 import com.optimaize.langdetect.LanguageDetector;
-import org.apache.tools.ant.filters.StringInputStream;
+import org.apache.commons.io.input.ReaderInputStream;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -31,6 +31,7 @@ import javax.ws.rs.client.WebTarget;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
 import java.io.InputStream;
+import java.io.StringReader;
 import java.util.function.Supplier;
 
 /**
@@ -126,7 +127,7 @@ public final class DocumentBuilder {
             MediaType mediaType = MediaType.valueOf(contentType);
             return new DocumentInput(
                     url,
-                    new StringInputStream(text),
+                    new ReaderInputStream(new StringReader(text)),
                     mediaType.getType() + "/" + mediaType.getSubtype()
             );
         });
