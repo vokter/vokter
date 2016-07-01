@@ -28,6 +28,7 @@ import com.edduarte.vokter.processor.similarity.BandsProcessor;
 import com.edduarte.vokter.processor.similarity.KShingler;
 import com.edduarte.vokter.processor.similarity.KShinglesSigProcessor;
 import com.edduarte.vokter.reader.Reader;
+import com.edduarte.vokter.similarity.HashProvider.HashMethod;
 import com.edduarte.vokter.stopper.FileStopper;
 import com.edduarte.vokter.stopper.Stopper;
 import com.edduarte.vokter.util.OSGiManager;
@@ -38,7 +39,6 @@ import com.optimaize.langdetect.text.CommonTextObjectFactories;
 import com.optimaize.langdetect.text.TextObject;
 import com.optimaize.langdetect.text.TextObjectFactory;
 import it.unimi.dsi.lang.MutableString;
-import com.edduarte.vokter.similarity.HashProvider.HashMethod;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -193,7 +193,7 @@ public class DocumentPipeline implements Callable<Document> {
 
         // creates a document that represents this pipeline processing result
         try {
-             return documentClass.getConstructor(
+            return documentClass.getConstructor(
                     String.class,
                     Date.class,
                     String.class,

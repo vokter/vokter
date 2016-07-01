@@ -42,6 +42,7 @@ public class HashProvider {
         return (int) result;
     }
 
+
     /**
      * @param value the value to be hashed
      * @param m     integer output range [1,size]
@@ -66,6 +67,7 @@ public class HashProvider {
         return positions;
     }
 
+
     /**
      * @param value the value to be hashed
      * @param m     integer output range [1,size]
@@ -82,7 +84,6 @@ public class HashProvider {
     }
 
 
-
     /**
      * @param value the value to be hashed
      * @param m     integer output range [1,size]
@@ -93,6 +94,7 @@ public class HashProvider {
         return hashChecksum(value, new CRC32(), m, k);
     }
 
+
     /**
      * @param value the value to be hashed
      * @param m     integer output range [1,size]
@@ -102,6 +104,7 @@ public class HashProvider {
     public static int[] hashAdler(byte[] value, int m, int k) {
         return hashChecksum(value, new Adler32(), m, k);
     }
+
 
     public static int[] hashChecksum(byte[] value, Checksum cs, int m, int k) {
         int[] positions = new int[k];
@@ -121,6 +124,7 @@ public class HashProvider {
         }
         return positions;
     }
+
 
     /**
      * @param value the value to be hashed
@@ -153,9 +157,11 @@ public class HashProvider {
         return positions;
     }
 
+
     public static int[] hashMurmur3(byte[] value, int m, int k) {
         return rejectionSample(HashProvider::murmur3_signed, value, m, k);
     }
+
 
     public static int[] hashCassandra(byte[] value, int m, int k) {
         int[] result = new int[k];
@@ -167,9 +173,11 @@ public class HashProvider {
         return result;
     }
 
+
     public static int murmur3_signed(int seed, byte[] bytes) {
         return (int) murmur3(seed, bytes);
     }
+
 
     public static long murmur3(int seed, byte[] bytes) {
         int h1 = seed;
@@ -306,11 +314,12 @@ public class HashProvider {
         return positions;
     }
 
+
     /**
      * Performs rejection sampling on a random 32bit Java int (sampled from Integer.MIN_VALUE to Integer.MAX_VALUE).
      *
      * @param random int
-     * @param m     integer output range [1,size]
+     * @param m      integer output range [1,size]
      * @return the number down-sampled to interval [0, size]. Or -1 if it has to be rejected.
      */
     public static int rejectionSample(int random, int m) {
@@ -321,6 +330,7 @@ public class HashProvider {
         else
             return random % m;
     }
+
 
     public static int[] rejectionSample(BiFunction<Integer, byte[], Integer> hashFunction, byte[] value, int m, int k) {
         int[] hashes = new int[k];
@@ -336,10 +346,11 @@ public class HashProvider {
         return hashes;
     }
 
+
     /**
-     * @param value the value to be hashed
-     * @param m     integer output range [1,size]
-     * @param k     number of hashes to be computed
+     * @param value  the value to be hashed
+     * @param m      integer output range [1,size]
+     * @param k      number of hashes to be computed
      * @param method the hash method name used by {@link MessageDigest#getInstance(String)}
      * @return array with <i>hashes</i> integer hash positions in the range <i>[0,size)</i>
      */
@@ -390,23 +401,6 @@ public class HashProvider {
         }
 
         return positions;
-    }
-
-
-    /**
-     * An interface which can be implemented to provide custom hash functions.
-     */
-    public static interface HashFunction extends Serializable {
-        
-        /**
-         * Computes hash values.
-         *
-         * @param value the byte[] representation of the element to be hashed
-         * @param m     integer output range [1,size]
-         * @param k     number of hashes to be computed
-         * @return int array of hashes hash values
-         */
-        public int[] hash(byte[] value, int m, int k);
     }
 
 
@@ -499,12 +493,31 @@ public class HashProvider {
 
         private HashFunction hashFunction;
 
+
         private HashMethod(HashFunction hashFunction) {
             this.hashFunction = hashFunction;
         }
 
+
         public HashFunction getHashFunction() {
             return hashFunction;
         }
+    }
+
+
+    /**
+     * An interface which can be implemented to provide custom hash functions.
+     */
+    public static interface HashFunction extends Serializable {
+
+        /**
+         * Computes hash values.
+         *
+         * @param value the byte[] representation of the element to be hashed
+         * @param m     integer output range [1,size]
+         * @param k     number of hashes to be computed
+         * @return int array of hashes hash values
+         */
+        public int[] hash(byte[] value, int m, int k);
     }
 }

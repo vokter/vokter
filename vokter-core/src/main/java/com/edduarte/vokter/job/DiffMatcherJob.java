@@ -43,9 +43,6 @@ import java.util.stream.Collectors;
 @PersistJobDataAfterExecution
 public class DiffMatcherJob implements InterruptableJob {
 
-    private static final Logger logger =
-            LoggerFactory.getLogger(DiffMatcherJob.class);
-
     public static final String PARENT_JOB_MANAGER = "parent_job_manager";
 
     public static final String HAS_NEW_DIFFS = "has_new_diffs";
@@ -69,6 +66,9 @@ public class DiffMatcherJob implements InterruptableJob {
     public final static String IGNORE_CASE = "ignore_case";
 
     public final static String SNIPPET_OFFSET = "snippet_offset";
+
+    private static final Logger logger =
+            LoggerFactory.getLogger(DiffMatcherJob.class);
 
 
     @Override

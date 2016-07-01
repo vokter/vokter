@@ -16,21 +16,21 @@
 
 package com.edduarte.vokter.job;
 
-import com.edduarte.vokter.persistence.DocumentCollection;
-import com.edduarte.vokter.persistence.mongodb.MongoDiff;
-import com.edduarte.vokter.persistence.mongodb.MongoDocument;
-import com.edduarte.vokter.persistence.mongodb.MongoDocumentCollection;
 import com.edduarte.vokter.diff.DiffDetector;
 import com.edduarte.vokter.diff.DiffMatcher;
 import com.edduarte.vokter.diff.Match;
 import com.edduarte.vokter.document.DocumentBuilder;
-import com.edduarte.vokter.keyword.KeywordBuilder;
-import com.edduarte.vokter.persistence.Diff;
-import com.edduarte.vokter.persistence.Document;
 import com.edduarte.vokter.keyword.Keyword;
-import com.edduarte.vokter.persistence.Session;
+import com.edduarte.vokter.keyword.KeywordBuilder;
 import com.edduarte.vokter.parser.ParserPool;
 import com.edduarte.vokter.parser.SimpleParser;
+import com.edduarte.vokter.persistence.Diff;
+import com.edduarte.vokter.persistence.Document;
+import com.edduarte.vokter.persistence.DocumentCollection;
+import com.edduarte.vokter.persistence.Session;
+import com.edduarte.vokter.persistence.mongodb.MongoDiff;
+import com.edduarte.vokter.persistence.mongodb.MongoDocument;
+import com.edduarte.vokter.persistence.mongodb.MongoDocumentCollection;
 import com.edduarte.vokter.persistence.mongodb.MongoSession;
 import com.google.common.collect.Lists;
 import com.mongodb.BulkWriteOperation;

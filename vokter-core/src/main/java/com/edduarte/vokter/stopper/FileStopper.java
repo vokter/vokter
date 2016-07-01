@@ -16,9 +16,9 @@
 
 package com.edduarte.vokter.stopper;
 
+import com.edduarte.vokter.Constants;
 import com.edduarte.vokter.parser.Parser;
 import com.edduarte.vokter.parser.SimpleParser;
-import com.edduarte.vokter.Constants;
 import com.google.common.collect.ImmutableSet;
 import it.unimi.dsi.lang.MutableString;
 import org.apache.commons.io.IOUtils;

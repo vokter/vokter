@@ -33,9 +33,6 @@ import org.slf4j.LoggerFactory;
 @PersistJobDataAfterExecution
 public class DiffDetectorJob implements InterruptableJob {
 
-    private static final Logger logger =
-            LoggerFactory.getLogger(DiffDetectorJob.class);
-
     public static final String PARENT_JOB_MANAGER = "parent_job_manager";
 
     public static final String FAULT_COUNTER = "fault_counter";
@@ -43,6 +40,9 @@ public class DiffDetectorJob implements InterruptableJob {
     public static final String URL = "url";
 
     public static final String CONTENT_TYPE = "content_type";
+
+    private static final Logger logger =
+            LoggerFactory.getLogger(DiffDetectorJob.class);
 
     private static final long FAULT_TOLERANCE = 10;
 

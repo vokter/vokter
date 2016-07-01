@@ -1,7 +1,7 @@
 package com.edduarte.vokter.persistence.ram;
 
-import com.edduarte.vokter.persistence.Diff;
 import com.edduarte.vokter.diff.DiffEvent;
+import com.edduarte.vokter.persistence.Diff;
 
 /**
  * @author Eduardo Duarte (<a href="mailto:hello@edduarte.com">hello@edduarte.com</a>)

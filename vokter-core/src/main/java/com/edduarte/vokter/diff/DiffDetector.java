@@ -91,7 +91,7 @@ public class DiffDetector implements Callable<List<Diff>> {
                 .filter(diff -> !diff.getOperation().equals(DiffEvent.nothing))
                 .map(diff -> {
                     try {
-                        return (Diff)diffClass.getConstructor(
+                        return (Diff) diffClass.getConstructor(
                                 DiffEvent.class,
                                 String.class,
                                 int.class

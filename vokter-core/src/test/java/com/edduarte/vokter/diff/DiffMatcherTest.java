@@ -16,11 +16,11 @@
 
 package com.edduarte.vokter.diff;
 
-import com.edduarte.vokter.keyword.KeywordBuilder;
-import com.edduarte.vokter.persistence.Diff;
 import com.edduarte.vokter.keyword.Keyword;
+import com.edduarte.vokter.keyword.KeywordBuilder;
 import com.edduarte.vokter.parser.ParserPool;
 import com.edduarte.vokter.parser.SimpleParser;
+import com.edduarte.vokter.persistence.Diff;
 import com.edduarte.vokter.persistence.ram.RAMDiff;
 import com.google.common.collect.Lists;
 import com.optimaize.langdetect.LanguageDetector;

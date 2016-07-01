@@ -16,14 +16,6 @@
 
 package com.edduarte.vokter;
 
-import com.edduarte.vokter.persistence.Diff;
-import com.edduarte.vokter.persistence.Document;
-import com.edduarte.vokter.persistence.DocumentCollection;
-import com.edduarte.vokter.persistence.Session;
-import com.edduarte.vokter.persistence.mongodb.MongoDiff;
-import com.edduarte.vokter.persistence.mongodb.MongoDocument;
-import com.edduarte.vokter.persistence.mongodb.MongoDocumentCollection;
-import com.edduarte.vokter.persistence.mongodb.MongoSession;
 import com.edduarte.vokter.diff.DiffDetector;
 import com.edduarte.vokter.diff.DiffEvent;
 import com.edduarte.vokter.diff.DiffMatcher;
@@ -36,6 +28,14 @@ import com.edduarte.vokter.keyword.KeywordBuilder;
 import com.edduarte.vokter.parser.Parser;
 import com.edduarte.vokter.parser.ParserPool;
 import com.edduarte.vokter.parser.SimpleParser;
+import com.edduarte.vokter.persistence.Diff;
+import com.edduarte.vokter.persistence.Document;
+import com.edduarte.vokter.persistence.DocumentCollection;
+import com.edduarte.vokter.persistence.Session;
+import com.edduarte.vokter.persistence.mongodb.MongoDiff;
+import com.edduarte.vokter.persistence.mongodb.MongoDocument;
+import com.edduarte.vokter.persistence.mongodb.MongoDocumentCollection;
+import com.edduarte.vokter.persistence.mongodb.MongoSession;
 import com.edduarte.vokter.rest.model.Notification;
 import com.mongodb.BasicDBObject;
 import com.mongodb.BulkWriteOperation;

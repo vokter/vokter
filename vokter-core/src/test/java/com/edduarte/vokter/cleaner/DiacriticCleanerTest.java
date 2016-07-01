@@ -1,7 +1,6 @@
 package com.edduarte.vokter.cleaner;
 
 import it.unimi.dsi.lang.MutableString;
-import org.junit.Assert;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

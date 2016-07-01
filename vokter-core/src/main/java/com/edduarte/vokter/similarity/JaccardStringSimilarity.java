@@ -54,32 +54,6 @@ public class JaccardStringSimilarity implements StringSimilarity {
     }
 
 
-    ShinglePair getShingles(String s1, String s2) {
-
-        Future<List<String>> future1 = exec.submit(kShingler.process(s1));
-        Future<List<String>> future2 = exec.submit(kShingler.process(s2));
-
-        try {
-            List<String> shingles1 = future1.get();
-            List<String> shingles2 = future2.get();
-            logger.info(shingles1.toString());
-            logger.info(shingles2.toString());
-            return new ShinglePair(shingles1, shingles2);
-        } catch (ExecutionException | InterruptedException ex) {
-            String m = "There was a problem processing shingles.";
-            logger.error(m, ex);
-            throw new RuntimeException(m, ex);
-        }
-    }
-
-
-    @Override
-    public double stringSimilarity(String s1, String s2) {
-        ShinglePair shingles = getShingles(s1, s2);
-        return shingleSimilarity(shingles.shingles1, shingles.shingles2);
-    }
-
-
     public static double shingleSimilarity(List<String> shingles1,
                                            List<String> shingles2) {
 
@@ -131,6 +105,32 @@ public class JaccardStringSimilarity implements StringSimilarity {
     }
 
 
+    ShinglePair getShingles(String s1, String s2) {
+
+        Future<List<String>> future1 = exec.submit(kShingler.process(s1));
+        Future<List<String>> future2 = exec.submit(kShingler.process(s2));
+
+        try {
+            List<String> shingles1 = future1.get();
+            List<String> shingles2 = future2.get();
+            logger.info(shingles1.toString());
+            logger.info(shingles2.toString());
+            return new ShinglePair(shingles1, shingles2);
+        } catch (ExecutionException | InterruptedException ex) {
+            String m = "There was a problem processing shingles.";
+            logger.error(m, ex);
+            throw new RuntimeException(m, ex);
+        }
+    }
+
+
+    @Override
+    public double stringSimilarity(String s1, String s2) {
+        ShinglePair shingles = getShingles(s1, s2);
+        return shingleSimilarity(shingles.shingles1, shingles.shingles2);
+    }
+
+
     public void close() {
         exec.shutdown();
         try {
@@ -141,6 +141,7 @@ public class JaccardStringSimilarity implements StringSimilarity {
             throw new RuntimeException(m, ex);
         }
     }
+
 
     static class ShinglePair {
 
