@@ -45,31 +45,6 @@
         </developer>
     </developers>
 
-    <repositories>
-
-        <repository>
-            <id>spotlight-releases-repository</id>
-            <url>
-                https://github.com/dbpedia-spotlight/maven-repo/raw/master/releases
-            </url>
-        </repository>
-
-        <repository>
-            <id>clojars.org</id>
-            <url>http://clojars.org/repo</url>
-        </repository>
-
-        <repository>
-            <snapshots>
-                <enabled>false</enabled>
-            </snapshots>
-            <id>central</id>
-            <name>bintray</name>
-            <url>http://jcenter.bintray.com</url>
-        </repository>
-
-    </repositories>
-
     <build>
         <directory>../target</directory>
         <outputDirectory>../target/classes</outputDirectory>
@@ -184,6 +159,28 @@
         </pluginManagement>
 
     </build>
+
+    <repositories>
+
+        <repository>
+            <id>spotlight-releases-repository</id>
+            <url>
+                https://github.com/dbpedia-spotlight/maven-repo/raw/master/releases
+            </url>
+        </repository>
+
+        <repository>
+            <id>clojars.org</id>
+            <url>http://clojars.org/repo</url>
+        </repository>
+
+        <repository>
+            <id>central</id>
+            <name>bintray</name>
+            <url>http://jcenter.bintray.com</url>
+        </repository>
+
+    </repositories>
 
     <dependencies>
 
