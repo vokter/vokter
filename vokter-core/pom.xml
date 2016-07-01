@@ -178,6 +178,15 @@
 
     <dependencies>
 
+        <!-- dropwizard (included here so we have -->
+        <!-- access to the MediaType.java class -->
+        <dependency>
+            <groupId>io.dropwizard</groupId>
+            <artifactId>dropwizard-core</artifactId>
+            <version>${dropwizard.version}</version>
+        </dependency>
+
+
         <!-- mutable string -->
         <dependency>
             <groupId>it.unimi.dsi</groupId>
@@ -200,16 +209,16 @@
 
 
         <!-- MediaType class -->
-        <dependency>
-            <groupId>com.fasterxml.jackson.core</groupId>
-            <artifactId>jackson-databind</artifactId>
-            <version>${jackson.version}</version>
-        </dependency>
-        <dependency>
-            <groupId>org.glassfish.jersey.containers</groupId>
-            <artifactId>jersey-container-servlet</artifactId>
-            <version>${jersey.version}</version>
-        </dependency>
+        <!--<dependency>-->
+            <!--<groupId>com.fasterxml.jackson.core</groupId>-->
+            <!--<artifactId>jackson-databind</artifactId>-->
+            <!--<version>${jackson.version}</version>-->
+        <!--</dependency>-->
+        <!--<dependency>-->
+            <!--<groupId>org.glassfish.jersey.containers</groupId>-->
+            <!--<artifactId>jersey-container-servlet</artifactId>-->
+            <!--<version>${jersey.version}</version>-->
+        <!--</dependency>-->
 
 
         <!-- sentence splitting parsing -->

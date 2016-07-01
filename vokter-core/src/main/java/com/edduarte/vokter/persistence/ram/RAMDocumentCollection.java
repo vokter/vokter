@@ -1,7 +1,10 @@
 package com.edduarte.vokter.persistence.ram;
 
+import com.edduarte.vokter.document.DocumentBuilder;
 import com.edduarte.vokter.persistence.Document;
 import com.edduarte.vokter.persistence.DocumentCollection;
+import com.edduarte.vokter.util.Params;
+import com.optimaize.langdetect.LanguageDetector;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -22,11 +25,51 @@ public class RAMDocumentCollection implements DocumentCollection {
 
 
     @Override
-    public void add(Document d) {
-        documents.put(
-                Params.of(d.getUrl(), d.getContentType()),
-                Pair.of(d, d.clone())
-        );
+    public Document addNewDocument(String documentUrl, String documentContentType,
+                                   LanguageDetector langDetector,
+                                   boolean filterStopwords, boolean ignoreCase) {
+        DocumentBuilder builder = DocumentBuilder
+                .fromUrl(documentUrl, documentContentType);
+        if (filterStopwords) {
+            builder.filterStopwords();
+        }
+        if (ignoreCase) {
+            builder.ignoreCase();
+        }
+
+        Document d = builder.build(langDetector, RAMDocument.class);
+        if (d != null) {
+            documents.put(
+                    Params.of(d.getUrl(), d.getContentType()),
+                    Pair.of(d, d.clone())
+            );
+        }
+        return d;
+    }
+
+
+    @Override
+    public Document addNewSnapshot(Document oldDocument,
+                                   LanguageDetector langDetector,
+                                   boolean filterStopwords, boolean ignoreCase) {
+        DocumentBuilder builder = DocumentBuilder
+                .fromUrl(oldDocument.getUrl(), oldDocument.getContentType())
+                .withShingleLength(oldDocument.getShingleLength());
+        if (filterStopwords) {
+            builder.filterStopwords();
+        }
+        if (ignoreCase) {
+            builder.ignoreCase();
+        }
+
+        Document d = builder.build(langDetector, RAMDocument.class);
+        if (d != null) {
+            documents.put(
+                    Params.of(d.getUrl(), d.getContentType()),
+                    Pair.of(oldDocument, d)
+            );
+        }
+        return d;
     }
 
 

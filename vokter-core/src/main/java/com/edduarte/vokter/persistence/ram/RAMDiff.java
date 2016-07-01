@@ -1,5 +1,6 @@
 package com.edduarte.vokter.persistence.ram;
 
+import com.edduarte.vokter.diff.DiffDetector;
 import com.edduarte.vokter.diff.DiffEvent;
 import com.edduarte.vokter.persistence.Diff;
 
@@ -21,6 +22,11 @@ public class RAMDiff implements Diff {
         this.event = event;
         this.text = text;
         this.startIndex = startIndex;
+    }
+
+
+    public RAMDiff(DiffDetector.Result r) {
+        this(r.getEvent(), r.getText(), r.getStartIndex());
     }
 
 

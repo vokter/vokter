@@ -55,6 +55,8 @@ public class DiffMatcherJob implements InterruptableJob {
 
     public static final String CLIENT_CONTENT_TYPE = "client_content_type";
 
+    public static final String CLIENT_TOKEN = "client_token";
+
     public final static String KEYWORDS = "keywords";
 
     public final static String EVENTS = "events";
@@ -87,6 +89,7 @@ public class DiffMatcherJob implements InterruptableJob {
         String documentContentType = dataMap.getString(DOCUMENT_CONTENT_TYPE);
         String clientUrl = dataMap.getString(CLIENT_URL);
         String clientContentType = dataMap.getString(CLIENT_CONTENT_TYPE);
+        String clientToken = dataMap.getString(CLIENT_TOKEN);
 
         try {
             ObjectMapper mapper = new ObjectMapper();
@@ -124,7 +127,7 @@ public class DiffMatcherJob implements InterruptableJob {
                 if (!results.isEmpty()) {
                     boolean wasSuccessful = manager.sendNotificationToClient(
                             documentUrl, documentContentType,
-                            clientUrl, clientContentType,
+                            clientUrl, clientContentType, clientToken,
                             results
                     );
                     // TODO: Add fault tolerance so that, if failed 10 times,

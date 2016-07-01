@@ -16,6 +16,8 @@
 
 package com.edduarte.vokter.persistence;
 
+import com.optimaize.langdetect.LanguageDetector;
+
 /**
  * A DocumentCollection represents the widest information unit, and has direct
  * access to every collected document and term.
@@ -26,11 +28,18 @@ package com.edduarte.vokter.persistence;
  */
 public interface DocumentCollection {
 
+    /**
+     * Add a new document to the collection.
+     */
+    Document addNewDocument(String documentUrl, String documentContentType,
+                            LanguageDetector langDetector,
+                            boolean filterStopwords, boolean ignoreCase);
 
     /**
-     * Adds the specified document to the local database.
+     * Add a new snapshot of a previously stored document to the collection.
      */
-    void add(Document d);
+    Document addNewSnapshot(Document oldDocument, LanguageDetector langDetector,
+                            boolean filterStopwords, boolean ignoreCase);
 
 
     /**
@@ -47,63 +56,6 @@ public interface DocumentCollection {
 
 
     void destroy();
-
-
-    public static class Params {
-
-        private final String url;
-
-        private final String contentType;
-
-
-        private Params(String url, String contentType) {
-            this.url = url;
-            if (contentType == null) {
-                this.contentType = "";
-            } else {
-                this.contentType = contentType;
-            }
-        }
-
-
-        public static Params of(String url, String contentType) {
-            return new Params(url, contentType);
-        }
-
-
-        public String getUrl() {
-            return url;
-        }
-
-
-        public String getContentType() {
-            return contentType;
-        }
-
-
-        @Override
-        public boolean equals(Object o) {
-            if (this == o) {
-                return true;
-            }
-            if (o == null || getClass() != o.getClass()) {
-                return false;
-            }
-
-            Params that = (Params) o;
-            return this.url.equals(that.url) &&
-                    this.contentType.equals(that.contentType);
-
-        }
-
-
-        @Override
-        public int hashCode() {
-            int result = url.hashCode();
-            result = 31 * result + contentType.hashCode();
-            return result;
-        }
-    }
 
 
     public static class Pair {

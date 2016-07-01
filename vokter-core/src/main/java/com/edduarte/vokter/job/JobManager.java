@@ -16,12 +16,24 @@
 
 package com.edduarte.vokter.job;
 
+import com.edduarte.vokter.Constants;
+import com.edduarte.vokter.diff.DiffDetector;
 import com.edduarte.vokter.diff.DiffEvent;
+import com.edduarte.vokter.diff.DiffMatcher;
 import com.edduarte.vokter.diff.Match;
 import com.edduarte.vokter.document.DocumentBuilder;
 import com.edduarte.vokter.keyword.Keyword;
+import com.edduarte.vokter.keyword.KeywordBuilder;
+import com.edduarte.vokter.parser.ParserPool;
+import com.edduarte.vokter.persistence.Diff;
+import com.edduarte.vokter.persistence.DiffCollection;
+import com.edduarte.vokter.persistence.Document;
+import com.edduarte.vokter.persistence.DocumentCollection;
+import com.edduarte.vokter.persistence.Session;
+import com.edduarte.vokter.persistence.SessionCollection;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.optimaize.langdetect.LanguageDetector;
 import org.quartz.JobBuilder;
 import org.quartz.JobDataMap;
 import org.quartz.JobDetail;
@@ -42,6 +54,7 @@ import org.slf4j.LoggerFactory;
 
 import javax.ws.rs.core.MediaType;
 import java.util.Arrays;
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -63,20 +76,55 @@ public class JobManager {
 
     private final String managerName;
 
-    private final JobManagerHandler handler;
+    private final NotificationHandler handler;
+
+    private final DocumentCollection documentCollection;
+
+    private final DiffCollection diffCollection;
+
+    private final SessionCollection sessionCollection;
+
+    private final ParserPool parserPool;
+
+    private final LanguageDetector langDetector;
+
+    private final boolean ignoreCase;
+
+    private final boolean filterStopwords;
 
     private Scheduler scheduler;
 
 
-    private JobManager(final String managerName,
-                       final JobManagerHandler handler) {
+    private JobManager(String managerName,
+                       DocumentCollection documentCollection,
+                       DiffCollection diffCollection,
+                       SessionCollection sessionCollection,
+                       ParserPool parserPool,
+                       LanguageDetector langDetector,
+                       boolean ignoreCase,
+                       boolean filterStopwords,
+                       NotificationHandler handler) {
         this.managerName = managerName;
         this.handler = handler;
+        this.documentCollection = documentCollection;
+        this.diffCollection = diffCollection;
+        this.sessionCollection = sessionCollection;
+        this.parserPool = parserPool;
+        this.langDetector = langDetector;
+        this.ignoreCase = ignoreCase;
+        this.filterStopwords = filterStopwords;
     }
 
 
-    public static JobManager create(final String managerName,
-                                    final JobManagerHandler handler) {
+    public static JobManager create(String managerName,
+                                    DocumentCollection documentCollection,
+                                    DiffCollection diffCollection,
+                                    SessionCollection sessionCollection,
+                                    ParserPool parserPool,
+                                    LanguageDetector langDetector,
+                                    boolean ignoreCase,
+                                    boolean filterStopwords,
+                                    NotificationHandler handler) {
         JobManager existingManager = get(managerName);
         if (existingManager != null) {
             existingManager.stop();
@@ -84,6 +132,13 @@ public class JobManager {
 
         JobManager newManager = new JobManager(
                 managerName,
+                documentCollection,
+                diffCollection,
+                sessionCollection,
+                parserPool,
+                langDetector,
+                ignoreCase,
+                filterStopwords,
                 handler
         );
         activeManagers.put(managerName, newManager);
@@ -166,7 +221,7 @@ public class JobManager {
     /**
      * Simplified API
      */
-    public boolean createJob(String documentUrl, String clientUrl,
+    public Session createJob(String documentUrl, String clientUrl,
                              List<String> keywords, int interval) {
         return createJob(
                 documentUrl, MediaType.TEXT_HTML,
@@ -181,7 +236,7 @@ public class JobManager {
     /**
      * Used for testing only.
      */
-    boolean createJob(String documentUrl, String documentContentType,
+    Session createJob(String documentUrl, String documentContentType,
                       String clientUrl, String clientContentType,
                       List<String> keywords, int interval) {
         return createJob(
@@ -194,7 +249,7 @@ public class JobManager {
     }
 
 
-    public boolean createJob(
+    public Session createJob(
             String documentUrl, String documentContentType,
             String clientUrl, String clientContentType,
             List<String> keywords, List<DiffEvent> events,
@@ -206,7 +261,7 @@ public class JobManager {
                 .fromUrl(documentUrl, documentContentType)
                 .isReadable();
         if (!isReadable) {
-            return false;
+            return null;
         }
 
         try {
@@ -253,8 +308,9 @@ public class JobManager {
                                 "to client '{}' ({}) already exists!.",
                         documentUrl, documentContentType,
                         clientUrl, clientContentType);
-                return false;
+                return null;
             }
+            String token = Constants.bytesToHex(Constants.generateRandomBytes());
             JobDetail matchingJob = JobBuilder.newJob(DiffMatcherJob.class)
                     .withIdentity(matchJKey)
                     .usingJobData(DiffMatcherJob.PARENT_JOB_MANAGER, managerName)
@@ -262,6 +318,7 @@ public class JobManager {
                     .usingJobData(DiffMatcherJob.DOCUMENT_CONTENT_TYPE, documentContentType)
                     .usingJobData(DiffMatcherJob.CLIENT_URL, clientUrl)
                     .usingJobData(DiffMatcherJob.CLIENT_CONTENT_TYPE, clientContentType)
+                    .usingJobData(DiffMatcherJob.CLIENT_TOKEN, token)
                     .usingJobData(DiffMatcherJob.KEYWORDS, keywordJson)
                     .usingJobData(DiffMatcherJob.EVENTS, eventsJson)
                     .usingJobData(DiffMatcherJob.FILTER_STOPWORDS, filterStopwords)
@@ -299,7 +356,7 @@ public class JobManager {
                                 "to client '{}' ({}) already exists!.",
                         documentUrl, documentContentType,
                         clientUrl, clientContentType);
-                return false;
+                return null;
             }
 
 
@@ -337,16 +394,16 @@ public class JobManager {
             chain.addJobChainLink(detectJKey, matchJKey);
             scheduler.getListenerManager().addJobListener(chain);
 
+            return sessionCollection.add(clientUrl, clientContentType, token);
+
         } catch (SchedulerException | JsonProcessingException ex) {
             logger.error(ex.getMessage(), ex);
-            return false;
+            return null;
         }
-
-        return true;
     }
 
 
-    void timeoutDetectionJob(String documentUrl, String documentContentType) {
+    final void timeoutDetectionJob(String documentUrl, String documentContentType) {
         try {
             Set<JobKey> keys = scheduler.getJobKeys(
                     GroupMatcher.groupEquals(
@@ -357,6 +414,7 @@ public class JobManager {
                 String clientUrl = m.getString(DiffMatcherJob.CLIENT_URL);
                 String clientContentType =
                         m.getString(DiffMatcherJob.CLIENT_CONTENT_TYPE);
+                String clientToken = m.getString(DiffMatcherJob.CLIENT_TOKEN);
 
                 scheduler.getListenerManager().removeJobListener(chainName(
                         documentUrl, documentContentType,
@@ -364,7 +422,7 @@ public class JobManager {
                 ));
                 sendTimeoutToClient(
                         documentUrl, documentContentType,
-                        clientUrl, clientContentType
+                        clientUrl, clientContentType, clientToken
                 );
                 scheduler.interrupt(k);
                 scheduler.deleteJob(k);
@@ -378,7 +436,7 @@ public class JobManager {
             JobKey detectJobKey = detectJobKey(documentUrl, documentContentType);
             scheduler.interrupt(detectJobKey);
             scheduler.deleteJob(detectJobKey);
-            handler.removeExistingDifferences(documentUrl, documentContentType);
+            diffCollection.removeDifferences(documentUrl, documentContentType);
             logger.info("Timed out detection job for document '{}' ({}).",
                     documentUrl, documentContentType);
         } catch (SchedulerException ex) {
@@ -396,10 +454,8 @@ public class JobManager {
     }
 
 
-    public boolean cancelJob(String documentUrl,
-                             String documentContentType,
-                             String clientUrl,
-                             String clientContentType) {
+    public boolean cancelJob(String documentUrl, String documentContentType,
+                             String clientUrl, String clientContentType) {
         JobKey jobKey = matchJobKey(
                 documentUrl, documentContentType,
                 clientUrl, clientContentType
@@ -439,7 +495,7 @@ public class JobManager {
                             detectJobKey(documentUrl, documentContentType);
                     scheduler.interrupt(detectJobKey);
                     scheduler.deleteJob(detectJobKey);
-                    handler.removeExistingDifferences(
+                    diffCollection.removeDifferences(
                             documentUrl, documentContentType);
                     logger.info("Canceled detection job for document '{}' ({}).",
                             documentUrl, documentContentType);
@@ -453,7 +509,7 @@ public class JobManager {
 
                 if (!hasMatchingJob) {
                     // no more match jobs for this client, so remove the session
-                    handler.removeSession(clientUrl, clientContentType);
+                    sessionCollection.removeSession(clientUrl, clientContentType);
                 }
             }
 
@@ -475,15 +531,56 @@ public class JobManager {
     }
 
 
+    /**
+     * Indexes the specified document and detects differences between an older
+     * snapshot and the new one with the specified content-type.
+     */
     final boolean callDetectDiffImpl(String documentUrl,
                                      String documentContentType) {
 
-        JobManagerHandler.DetectResult result =
-                handler.detectDifferences(documentUrl, documentContentType);
+        // check if there is a older document in the collection
+        DocumentCollection.Pair pair = documentCollection
+                .get(documentUrl, documentContentType);
+        boolean wasSuccessful = false;
+        boolean hasNewDiffs = false;
+
+        if (pair != null) {
+            // there was already a document for this url on the collection, so
+            // detect differences between this and a new snapshot
+
+            Document oldDocument = pair.latest();
+            // remove the oldest document with this url and content type and add
+            // the new one to the collection
+            Document newDocument = documentCollection.addNewSnapshot(
+                    oldDocument, langDetector,
+                    filterStopwords, ignoreCase
+            );
+            if (newDocument != null) {
+                DiffDetector detector = new DiffDetector(oldDocument, newDocument);
+                List<DiffDetector.Result> results = detector.call();
+                if (!results.isEmpty()) {
+                    hasNewDiffs = true;
+                    diffCollection.addDifferences(documentUrl, documentContentType, results);
+                }
+
+                wasSuccessful = true;
+
+            }
+        } else {
+            // this is a new document, so process it and add to the collection
+            Document newDocument = documentCollection.addNewDocument(
+                    documentUrl, documentContentType, langDetector,
+                    filterStopwords, ignoreCase
+            );
+
+            if (newDocument != null) {
+                wasSuccessful = true;
+            }
+        }
 
         // notify all matching jobs of that url that there are new differences
         // to match
-        if (result.wasSuccessful() && result.hasNewDiffs()) {
+        if (wasSuccessful && hasNewDiffs) {
             try {
                 Set<JobKey> keys = scheduler.getJobKeys(GroupMatcher.groupEquals(
                         matchJobGroup(documentUrl, documentContentType)
@@ -499,7 +596,7 @@ public class JobManager {
             }
         }
 
-        return result.wasSuccessful();
+        return wasSuccessful;
     }
 
 
@@ -519,6 +616,8 @@ public class JobManager {
                                 m.getString(DiffMatcherJob.CLIENT_URL))
                         .usingJobData(DiffMatcherJob.CLIENT_CONTENT_TYPE,
                                 m.getString(DiffMatcherJob.CLIENT_CONTENT_TYPE))
+                        .usingJobData(DiffMatcherJob.CLIENT_TOKEN,
+                                m.getString(DiffMatcherJob.CLIENT_TOKEN))
                         .usingJobData(DiffMatcherJob.KEYWORDS,
                                 m.getString(DiffMatcherJob.KEYWORDS))
                         .usingJobData(DiffMatcherJob.EVENTS,
@@ -550,6 +649,10 @@ public class JobManager {
     }
 
 
+    /**
+     * Matches the existing differences that were stored in the database with
+     * the provided keywords
+     */
     final Set<Match> callGetMatchesImpl(String documentUrl,
                                         String documentContentType,
                                         List<Keyword> keywords,
@@ -559,17 +662,32 @@ public class JobManager {
                                         boolean ignoreAdded,
                                         boolean ignoreRemoved,
                                         int snippetOffset) {
-        return handler.matchDifferences(
-                documentUrl,
-                documentContentType,
-                keywords,
-                filterStopwords,
-                enableStemming,
-                ignoreCase,
-                ignoreAdded,
-                ignoreRemoved,
+        List<Diff> diffs = diffCollection.getDifferences(documentUrl, documentContentType);
+        if (diffs.isEmpty()) {
+            return Collections.emptySet();
+        }
+
+        DocumentCollection.Pair pair = documentCollection.get(documentUrl, documentContentType);
+        if (pair == null) {
+            return Collections.emptySet();
+        }
+
+        String oldText = pair.oldest().getText();
+        String newText = pair.latest().getText();
+        DiffMatcher matcher = new DiffMatcher(
+                oldText, newText,
+                keywords, diffs, parserPool, langDetector,
+                filterStopwords, enableStemming, ignoreCase,
+                ignoreAdded, ignoreRemoved,
                 snippetOffset
         );
+        try {
+            return matcher.call();
+        } catch (Exception e) {
+            logger.error(e.getMessage(), e);
+        }
+
+        return Collections.emptySet();
     }
 
 
@@ -577,29 +695,42 @@ public class JobManager {
                                    boolean isStoppingEnabled,
                                    boolean isStemmingEnabled,
                                    boolean ignoreCase) {
-        return handler.buildKeyword(
-                keywordInput, isStoppingEnabled, isStemmingEnabled, ignoreCase);
+        KeywordBuilder builder = KeywordBuilder
+                .fromText(keywordInput)
+                .withLanguageDetector(langDetector);
+
+        if (isStoppingEnabled) {
+            builder.withStopwords();
+        }
+        if (isStemmingEnabled) {
+            builder.withStemming();
+        }
+        if (ignoreCase) {
+            builder.ignoreCase();
+        }
+        return builder.build(parserPool);
     }
 
 
-    final boolean sendTimeoutToClient(final String documentUrl,
-                                      final String documentContentType,
-                                      final String clientUrl,
-                                      final String clientContentType) {
+    final boolean sendTimeoutToClient(String documentUrl, String documentContentType,
+                                      String clientUrl, String clientContentType, String clientToken) {
+        Session session = sessionCollection
+                .validateToken(clientUrl, clientContentType, clientToken);
         return handler.sendTimeoutToClient(
                 documentUrl, documentContentType,
-                clientUrl, clientContentType
+                session
         );
     }
 
 
-    public boolean sendNotificationToClient(String documentUrl, String documentContentType,
-                                            String clientUrl, String clientContentType,
-                                            Set<Match> results) {
+    final boolean sendNotificationToClient(String documentUrl, String documentContentType,
+                                           String clientUrl, String clientContentType, String clientToken,
+                                           Set<Match> results) {
+        Session session = sessionCollection
+                .validateToken(clientUrl, clientContentType, clientToken);
         return handler.sendNotificationToClient(
                 documentUrl, documentContentType,
-                clientUrl, clientContentType,
-                results
+                session, results
         );
     }
 }

@@ -16,8 +16,9 @@
 
 package com.edduarte.vokter.rest.resources.v1;
 
-import com.edduarte.vokter.Context;
+import com.edduarte.vokter.job.RestNotificationHandler;
 import com.edduarte.vokter.persistence.Session;
+import com.edduarte.vokter.rest.VokterApplication;
 import com.edduarte.vokter.rest.model.CommonResponse;
 import com.edduarte.vokter.rest.model.v1.AddRequest;
 import com.edduarte.vokter.rest.model.v1.CancelRequest;
@@ -32,6 +33,7 @@ import io.swagger.annotations.Info;
 import io.swagger.annotations.SwaggerDefinition;
 import org.apache.commons.validator.routines.UrlValidator;
 
+import javax.servlet.ServletContext;
 import javax.ws.rs.Consumes;
 import javax.ws.rs.GET;
 import javax.ws.rs.HeaderParam;
@@ -63,6 +65,9 @@ import java.util.concurrent.ExecutionException;
 @Consumes(MediaType.APPLICATION_JSON)
 @Produces(MediaType.APPLICATION_JSON)
 public class RestResource {
+
+    @javax.ws.rs.core.Context
+    private ServletContext context;
 
     /**
      * Options method for "exampleRequest" to enable Access-Control-Allow-Origin
@@ -186,12 +191,12 @@ public class RestResource {
                     .build();
         }
 
-        Context context = Context.getInstance();
+        VokterApplication app = VokterApplication.getInstance();
 
         com.edduarte.vokter.rest.model.v2.AddRequest r =
                 new com.edduarte.vokter.rest.model.v2.AddRequest(addRequest);
 
-        Session session = context.createJob(
+        Session session = app.createJob(
                 r.getDocumentUrl(), r.getDocumentContentType(),
                 r.getClientUrl(), r.getClientContentType(),
                 r.getKeywords(), r.getEvents(),
@@ -261,8 +266,8 @@ public class RestResource {
                     "url to client url that identifies the job.", required = true)
                     CancelRequest cancelRequest) throws ExecutionException {
 
-        Context context = Context.getInstance();
-        boolean wasDeleted = context.cancelJob(
+        VokterApplication app = VokterApplication.getInstance();
+        boolean wasDeleted = app.cancelJob(
                 cancelRequest.getDocumentUrl(),
                 cancelRequest.getDocumentContentType(),
                 cancelRequest.getClientUrl(),

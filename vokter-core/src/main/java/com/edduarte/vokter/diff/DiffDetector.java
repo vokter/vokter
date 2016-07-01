@@ -16,7 +16,6 @@
 
 package com.edduarte.vokter.diff;
 
-import com.edduarte.vokter.persistence.Diff;
 import com.edduarte.vokter.persistence.Document;
 import com.edduarte.vokter.similarity.JaccardStringSimilarity;
 import com.edduarte.vokter.similarity.LSHSimilarity;
@@ -35,7 +34,7 @@ import java.util.stream.Collectors;
  * @version 1.3.2
  * @since 1.0.0
  */
-public class DiffDetector implements Callable<List<Diff>> {
+public class DiffDetector implements Callable<List<DiffDetector.Result>> {
 
     private static final Logger logger = LoggerFactory.getLogger(DiffDetector.class);
 
@@ -43,20 +42,16 @@ public class DiffDetector implements Callable<List<Diff>> {
 
     private final Document newSnapshot;
 
-    private final Class<? extends Diff> diffClass;
-
 
     public DiffDetector(final Document oldSnapshot,
-                        final Document newSnapshot,
-                        final Class<? extends Diff> diffClass) {
+                        final Document newSnapshot) {
         this.oldSnapshot = oldSnapshot;
         this.newSnapshot = newSnapshot;
-        this.diffClass = diffClass;
     }
 
 
     @Override
-    public List<Diff> call() {
+    public List<Result> call() {
         Stopwatch sw = Stopwatch.createStarted();
 
         int[] oldBands = oldSnapshot.getBands();
@@ -87,20 +82,9 @@ public class DiffDetector implements Callable<List<Diff>> {
         LinkedList<DiffMatchPatch.Diff> diffs = dmp.diff_main(original, revision);
         dmp.diff_cleanupSemantic(diffs);
 
-        List<Diff> retrievedDiffs = diffs.parallelStream()
+        List<Result> retrievedDiffs = diffs.parallelStream()
                 .filter(diff -> !diff.getOperation().equals(DiffEvent.nothing))
-                .map(diff -> {
-                    try {
-                        return (Diff) diffClass.getConstructor(
-                                DiffEvent.class,
-                                String.class,
-                                int.class
-                        ).newInstance(diff.action, diff.text, diff.startIndex);
-                    } catch (ReflectiveOperationException e) {
-                        logger.error(e.getMessage(), e);
-                        return null;
-                    }
-                })
+                .map(Result::new)
                 .filter(diff -> diff != null)
                 .collect(Collectors.toList());
 
@@ -108,5 +92,37 @@ public class DiffDetector implements Callable<List<Diff>> {
         logger.info("Completed difference detection for document '{}' in {}",
                 newSnapshot.getUrl(), sw.toString());
         return retrievedDiffs;
+    }
+
+
+    public static class Result {
+
+        private final DiffEvent event;
+
+        private final String text;
+
+        private final int startIndex;
+
+
+        private Result(DiffMatchPatch.Diff diff) {
+            this.event = diff.action;
+            this.text = diff.text;
+            this.startIndex = diff.startIndex;
+        }
+
+
+        public DiffEvent getEvent() {
+            return event;
+        }
+
+
+        public String getText() {
+            return text;
+        }
+
+
+        public int getStartIndex() {
+            return startIndex;
+        }
     }
 }

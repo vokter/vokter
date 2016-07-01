@@ -30,7 +30,7 @@ public class JaccardSetSimilarity implements SetSimilarity {
                                 Collection<? extends Number> c2) {
         Set<Number> intersectionSet = new HashSet<>();
         for (Number number : c1) {
-            if(c2.contains(number)){
+            if (c2.contains(number)) {
                 intersectionSet.add(number);
             }
         }

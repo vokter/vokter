@@ -57,7 +57,7 @@ public class FileStopper implements Stopper {
     public FileStopper(String language) {
         boolean loadSuccessful = load(language);
         if (!loadSuccessful) {
-            this.stopwords = ImmutableSet.of();
+            this.stopwords = Collections.emptySet();
         }
     }
 
@@ -99,13 +99,16 @@ public class FileStopper implements Stopper {
                     }
                 });
 
-                stopwords = ImmutableSet.copyOf(stopwordsAux);
+                stopwords = stopwordsAux;
                 return true;
 
             } catch (IOException e) {
                 logger.error("There was a problem loading the stopword file.", e);
                 stopwords = Collections.emptySet();
             }
+        } else {
+            logger.info("Stopword file {} was not found!",
+                    stopwordsFile.getAbsolutePath());
         }
 
         return false;
@@ -126,6 +129,7 @@ public class FileStopper implements Stopper {
 
     @Override
     public void destroy() {
+        stopwords.clear();
         stopwords = null;
     }
 }

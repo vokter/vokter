@@ -16,8 +16,9 @@
 
 package com.edduarte.vokter.rest.resources.v2;
 
-import com.edduarte.vokter.Context;
+import com.edduarte.vokter.job.RestNotificationHandler;
 import com.edduarte.vokter.persistence.Session;
+import com.edduarte.vokter.rest.VokterApplication;
 import com.edduarte.vokter.rest.model.CommonResponse;
 import com.edduarte.vokter.rest.model.v2.AddRequest;
 import com.edduarte.vokter.rest.model.v2.CancelRequest;
@@ -187,8 +188,8 @@ public class RestResource {
                     .build();
         }
 
-        Context context = Context.getInstance();
-        Session session = context.createJob(
+        VokterApplication app = VokterApplication.getInstance();
+        Session session = app.createJob(
                 r.getDocumentUrl(), r.getDocumentContentType(),
                 r.getClientUrl(), r.getClientContentType(),
                 r.getKeywords(), r.getEvents(),
@@ -253,9 +254,8 @@ public class RestResource {
                     "url to client url that identifies the job.", required = true)
                     CancelRequest cancelRequest) throws ExecutionException {
 
-        Context context = Context.getInstance();
-
-        Session session = context.validateToken(
+        VokterApplication app = VokterApplication.getInstance();
+        Session session = app.validateToken(
                 cancelRequest.getClientUrl(),
                 cancelRequest.getClientContentType(),
                 token
@@ -267,7 +267,7 @@ public class RestResource {
                     .build();
         }
 
-        boolean wasDeleted = context.cancelJob(
+        boolean wasDeleted = app.cancelJob(
                 cancelRequest.getDocumentUrl(),
                 cancelRequest.getDocumentContentType(),
                 cancelRequest.getClientUrl(),

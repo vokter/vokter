@@ -16,13 +16,16 @@
 
 package com.edduarte.vokter.persistence.mongodb;
 
+import com.edduarte.vokter.document.DocumentBuilder;
 import com.edduarte.vokter.persistence.Document;
 import com.edduarte.vokter.persistence.DocumentCollection;
+import com.edduarte.vokter.util.Params;
 import com.mongodb.BasicDBObject;
 import com.mongodb.DB;
 import com.mongodb.DBCollection;
 import com.mongodb.DBCursor;
 import com.mongodb.DBObject;
+import com.optimaize.langdetect.LanguageDetector;
 import org.cache2k.Cache;
 import org.cache2k.CacheBuilder;
 import org.cache2k.PropagatedCacheException;
@@ -45,7 +48,7 @@ public final class MongoDocumentCollection implements DocumentCollection {
 
     private static final Logger logger = LoggerFactory.getLogger(MongoDocumentCollection.class);
 
-    private final DBCollection dbCollection;
+    private final DBCollection db;
 
 
     /**
@@ -55,14 +58,14 @@ public final class MongoDocumentCollection implements DocumentCollection {
 
 
     /**
-     * Instantiate the Collection object, which represents the core access to the
-     * above mentioned persistence and cache mechanisms.
+     * Instantiate the Collection object, which represents the core access to
+     * documents using MongoDB persistence mechanisms.
      */
-    public MongoDocumentCollection(String collectionName, DB documentsDB) {
-        this.dbCollection = documentsDB.getCollection(collectionName);
+    public MongoDocumentCollection(DB db) {
+        this.db = db.getCollection("documents");
         this.documentsCache = CacheBuilder
                 .newCache(Params.class, Pair.class)
-                .name(collectionName)
+                .name("documents")
                 .expiryDuration(20, TimeUnit.SECONDS)
                 .maxSize(100)
                 .source(this::getInternal)
@@ -70,22 +73,54 @@ public final class MongoDocumentCollection implements DocumentCollection {
     }
 
 
-    /**
-     * Adds the specified document to the local database.
-     */
-    public void add(Document d) {
-        if (d == null) {
-            return;
+    @Override
+    public Document addNewDocument(String documentUrl, String documentContentType,
+                                   LanguageDetector langDetector,
+                                   boolean filterStopwords, boolean ignoreCase) {
+        DocumentBuilder builder = DocumentBuilder
+                .fromUrl(documentUrl, documentContentType);
+        if (filterStopwords) {
+            builder.filterStopwords();
+        }
+        if (ignoreCase) {
+            builder.ignoreCase();
         }
 
-        DBCursor dbObjects = dbCollection.find(
-                new BasicDBObject(MongoDocument.URL, d.getUrl())
-                        .append(MongoDocument.CONTENT_TYPE, d.getContentType())
-        ).sort(new BasicDBObject(MongoDocument.DATE, 1));
+        Document d = builder.build(langDetector, MongoDocument.class);
 
-        if (dbObjects.hasNext()) {
+        // the specified combination of url and content type is new in the
+        // collection, so add the same snapshot twice to avoid null pointer
+        // exceptions when requesting a document pair later
+        db.insert((MongoDocument) d);
+        db.insert((MongoDocument) d.clone());
+
+        return d;
+    }
+
+
+    @Override
+    public Document addNewSnapshot(Document oldDocument,
+                                   LanguageDetector langDetector,
+                                   boolean filterStopwords, boolean ignoreCase) {
+        DocumentBuilder builder = DocumentBuilder
+                .fromUrl(oldDocument.getUrl(), oldDocument.getContentType())
+                .withShingleLength(oldDocument.getShingleLength());
+        if (filterStopwords) {
+            builder.filterStopwords();
+        }
+        if (ignoreCase) {
+            builder.ignoreCase();
+        }
+
+        Document d = builder.build(langDetector, MongoDocument.class);
+        if (d != null) {
             // there is already a document with the specified url and content
             // type, so remove the oldest one recorded and add this one
+            DBCursor dbObjects = db.find(
+                    new BasicDBObject(MongoDocument.URL, d.getUrl())
+                            .append(MongoDocument.CONTENT_TYPE, d.getContentType())
+            ).sort(new BasicDBObject(MongoDocument.DATE, 1));
+
             DBObject oldest = null;
             try {
                 oldest = dbObjects.next();
@@ -98,29 +133,26 @@ public final class MongoDocumentCollection implements DocumentCollection {
             }
             if (oldest != null && latest != null) {
                 MongoDocument oldestDoc = new MongoDocument((BasicDBObject) oldest);
-                dbCollection.remove(oldestDoc);
-                dbCollection.insert((MongoDocument) d);
+                db.remove(oldestDoc);
+                db.insert((MongoDocument) d);
+                return d;
             }
-        } else {
-            // the specified combination of url and content type is new in the
-            // collection, so add the same snapshot twice to avoid null pointer
-            // exceptions when requesting a document pair later
-            dbCollection.insert((MongoDocument) d);
-            dbCollection.insert((MongoDocument) d.clone());
         }
+        return null;
     }
 
 
     /**
      * Removes the specified document from the local database.
      */
+    @Override
     public void remove(String url, String contentType) {
         Pair pair = get(url, contentType);
         if (pair != null) {
             MongoDocument d1 = (MongoDocument) pair.oldest();
             MongoDocument d2 = (MongoDocument) pair.latest();
-            dbCollection.remove(d1);
-            dbCollection.remove(d2);
+            db.remove(d1);
+            db.remove(d2);
         }
         documentsCache.remove(Params.of(url, contentType));
     }
@@ -130,6 +162,7 @@ public final class MongoDocumentCollection implements DocumentCollection {
      * Converts the specified document url and content type into a pair of
      * document object, the url and the contentType stored
      */
+    @Override
     public Pair get(String url, String contentType) {
         try {
             Params query = Params.of(url, contentType);
@@ -154,7 +187,7 @@ public final class MongoDocumentCollection implements DocumentCollection {
 
 
     private Pair getInternal(Params query) {
-        DBCursor dbObjects = dbCollection.find(
+        DBCursor dbObjects = db.find(
                 new BasicDBObject(MongoDocument.URL, query.getUrl())
                         .append(MongoDocument.CONTENT_TYPE, query.getContentType())
         ).sort(new BasicDBObject(MongoDocument.DATE, 1));
@@ -181,18 +214,8 @@ public final class MongoDocumentCollection implements DocumentCollection {
     }
 
 
-    /**
-     * Immediately commands this index to clear the documents stored in memory
-     * cache. Every retrieval of documents performed after this will require
-     * reading the database again.
-     */
-    public void clearCache() {
-        documentsCache.clear();
-    }
-
-
+    @Override
     public void destroy() {
-        dbCollection.drop();
         documentsCache.destroy();
     }
 

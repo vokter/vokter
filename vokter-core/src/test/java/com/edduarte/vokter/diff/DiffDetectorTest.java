@@ -81,14 +81,13 @@ public class DiffDetectorTest {
 
         DiffDetector comparison = new DiffDetector(
                 oldSnapshotDoc,
-                newSnapshotDoc,
-                RAMDiff.class
+                newSnapshotDoc
         );
-        List<Diff> diffList = comparison.call();
+        List<DiffDetector.Result> diffList = comparison.call();
 
         assertEquals(4, diffList.size());
 
-        Diff d = diffList.get(0);
+        DiffDetector.Result d = diffList.get(0);
         assertEquals(deleted, d.getEvent());
         assertEquals("is th", d.getText());
         assertEquals(0, d.getStartIndex());
@@ -129,16 +128,15 @@ public class DiffDetectorTest {
 
         DiffDetector comparison = new DiffDetector(
                 oldSnapshotDoc,
-                newSnapshotDoc,
-                RAMDiff.class
+                newSnapshotDoc
         );
-        List<Diff> diffList = comparison.call();
+        List<DiffDetector.Result> diffList = comparison.call();
 
         assertEquals(25, diffList.size());
 
-        Iterator<Diff> it = diffList.iterator();
+        Iterator<DiffDetector.Result> it = diffList.iterator();
 
-        Diff d = it.next();
+        DiffDetector.Result d = it.next();
         assertEquals(deleted, d.getEvent());
         assertEquals("0 52", d.getText());
         assertEquals(463, d.getStartIndex());

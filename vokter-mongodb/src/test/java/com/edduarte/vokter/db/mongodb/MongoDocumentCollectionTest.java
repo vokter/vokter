@@ -46,9 +46,9 @@ import static org.junit.Assert.assertNull;
  * @version 1.3.2
  * @since 1.0.0
  */
-public class DocumentCollectionTest {
+public class MongoDocumentCollectionTest {
 
-    private static final Logger logger = LoggerFactory.getLogger(DocumentCollectionTest.class);
+    private static final Logger logger = LoggerFactory.getLogger(MongoDocumentCollectionTest.class);
 
     private static MongoClient mongoClient;
 
@@ -63,7 +63,7 @@ public class DocumentCollectionTest {
     public static void setUp() throws IOException, InterruptedException {
         mongoClient = new MongoClient("localhost", 27017);
         db = mongoClient.getDB("vokter_test");
-        collection = new MongoDocumentCollection("documents", db);
+        collection = new MongoDocumentCollection(db);
         List<LanguageProfile> languageProfiles = new LanguageProfileReader().readAllBuiltIn();
         langDetector = LanguageDetectorBuilder.create(NgramExtractors.standard())
                 .withProfiles(languageProfiles)
@@ -86,10 +86,7 @@ public class DocumentCollectionTest {
         assertNull(collection.get(url, MediaType.TEXT_HTML));
 
         // testing add
-        Document d = DocumentBuilder
-                .fromUrl(url, null)
-                .build(langDetector, MongoDocument.class);
-        collection.add(d);
+        collection.addNewDocument(url, null, langDetector, false, false);
         DocumentCollection.Pair pair = collection.get(url, MediaType.TEXT_HTML);
         assertNotNull(pair);
 

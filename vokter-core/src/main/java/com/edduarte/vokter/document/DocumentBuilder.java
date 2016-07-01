@@ -54,7 +54,7 @@ public final class DocumentBuilder {
     /**
      * Flag that sets usage of stopword filtering.
      */
-    private boolean isStoppingEnabled = false;
+    private boolean filterStopwords = false;
 
 //    /**
 //     * Flag that sets usage of a porter stemmer.
@@ -140,8 +140,8 @@ public final class DocumentBuilder {
 //    }
 
 
-    public DocumentBuilder withStopwords() {
-        this.isStoppingEnabled = true;
+    public DocumentBuilder filterStopwords() {
+        this.filterStopwords = true;
         return this;
     }
 
@@ -226,7 +226,7 @@ public final class DocumentBuilder {
 
                 // flag that sets that stopwords will be filtered during
                 // k-shingling
-                isStoppingEnabled,
+                filterStopwords,
 
                 // flag that forces the document to be in lower case, so that
                 // during difference matching, every match will be case

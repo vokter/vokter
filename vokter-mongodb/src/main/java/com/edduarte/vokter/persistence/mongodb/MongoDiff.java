@@ -16,6 +16,7 @@
 
 package com.edduarte.vokter.persistence.mongodb;
 
+import com.edduarte.vokter.diff.DiffDetector;
 import com.edduarte.vokter.diff.DiffEvent;
 import com.edduarte.vokter.persistence.Diff;
 import com.mongodb.BasicDBObject;
@@ -32,6 +33,8 @@ import java.io.Serializable;
  */
 public class MongoDiff extends BasicDBObject implements Diff, Serializable {
 
+    private static final long serialVersionUID = 1L;
+
     public static final String DIFF_EVENT = "diff_event";
 
     public static final String TEXT = "text";
@@ -39,8 +42,6 @@ public class MongoDiff extends BasicDBObject implements Diff, Serializable {
     public static final String START_INDEX = "start_index";
 
     public static final String END_INDEX = "end_index";
-
-    private static final long serialVersionUID = 1L;
 
 
     public MongoDiff(final DiffEvent action,
@@ -53,6 +54,11 @@ public class MongoDiff extends BasicDBObject implements Diff, Serializable {
     }
 
 
+    public MongoDiff(DiffDetector.Result r) {
+        this(r.getEvent(), r.getText(), r.getStartIndex());
+    }
+
+
     public MongoDiff(DBObject mongoObject) {
         super(mongoObject.toMap());
     }
@@ -61,6 +67,7 @@ public class MongoDiff extends BasicDBObject implements Diff, Serializable {
     /**
      * Returns the status of this difference.
      */
+    @Override
     public DiffEvent getEvent() {
         String event = getString(DIFF_EVENT);
         return DiffEvent.valueOf(event);
@@ -70,16 +77,19 @@ public class MongoDiff extends BasicDBObject implements Diff, Serializable {
     /**
      * Returns the text of the occurrence contained within this difference.
      */
+    @Override
     public String getText() {
         return getString(TEXT);
     }
 
 
+    @Override
     public int getStartIndex() {
         return getInt(START_INDEX);
     }
 
 
+    @Override
     public int getEndIndex() {
         return getInt(END_INDEX);
     }
