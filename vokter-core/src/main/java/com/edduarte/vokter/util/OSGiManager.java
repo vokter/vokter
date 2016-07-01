@@ -16,7 +16,7 @@
 
 package com.edduarte.vokter.util;
 
-import com.edduarte.vokter.Context;
+import com.edduarte.vokter.Constants;
 import com.edduarte.vokter.reader.Reader;
 import com.edduarte.vokter.stemmer.Stemmer;
 import org.apache.commons.io.output.ByteArrayOutputStream;
@@ -271,7 +271,7 @@ public class OSGiManager {
     private static class CustomClassLoader extends ClassLoader {
 
         private CustomClassLoader() {
-            super(Context.class.getClassLoader());
+            super(Constants.class.getClassLoader());
         }
 
 

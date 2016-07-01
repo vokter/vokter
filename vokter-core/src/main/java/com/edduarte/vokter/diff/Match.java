@@ -1,6 +1,6 @@
 package com.edduarte.vokter.diff;
 
-import com.edduarte.vokter.model.mongodb.Keyword;
+import com.edduarte.vokter.keyword.Keyword;
 import com.fasterxml.jackson.annotation.JsonProperty;
 
 /**

@@ -17,10 +17,11 @@
 package com.edduarte.vokter.diff;
 
 import com.edduarte.vokter.keyword.KeywordBuilder;
-import com.edduarte.vokter.model.mongodb.Diff;
-import com.edduarte.vokter.model.mongodb.Keyword;
+import com.edduarte.vokter.persistence.Diff;
+import com.edduarte.vokter.keyword.Keyword;
 import com.edduarte.vokter.parser.ParserPool;
 import com.edduarte.vokter.parser.SimpleParser;
+import com.edduarte.vokter.persistence.ram.RAMDiff;
 import com.google.common.collect.Lists;
 import com.optimaize.langdetect.LanguageDetector;
 import com.optimaize.langdetect.LanguageDetectorBuilder;
@@ -102,10 +103,10 @@ public class DiffMatcherTest {
         String newSnapshot = "Argus Panoptes is the name of the 100-eyed giant in Norse mythology.";
 
         List<Diff> diffs = Lists.newArrayList(
-                new Diff(DiffEvent.deleted, "is th", 0),
-                new Diff(DiffEvent.inserted, "argus panoptes is the nam", 0),
-                new Diff(DiffEvent.deleted, "greek", 32),
-                new Diff(DiffEvent.inserted, "norse", 52)
+                new RAMDiff(DiffEvent.deleted, "is th", 0),
+                new RAMDiff(DiffEvent.inserted, "argus panoptes is the nam", 0),
+                new RAMDiff(DiffEvent.deleted, "greek", 32),
+                new RAMDiff(DiffEvent.inserted, "norse", 52)
         );
 
         DiffMatcher matcher = new DiffMatcher(
@@ -148,30 +149,30 @@ public class DiffMatcherTest {
                 .collect(Collectors.toList());
 
         List<Diff> diffs = Lists.newArrayList(
-                new Diff(deleted, "0 52", 463),
-                new Diff(inserted, "3 07", 463),
-                new Diff(deleted, "murder case thrown out Judge dismisses case against Shrien Dewani accused of arranging murder of wife Anni in South Africa Shrien Dewani trial Reaction", 0),
-                new Diff(inserted, "cleared of honeymoon murder The family of Anni Dewani believe they have been failed by the justice system after millionaire businessman Shrien Dewani is cleared of the honeymoon murder Shrien Dewani trial Reaction Live How Dewani prosecution fell apart From dream wedding to fatal hijacking Hiring a hitman in South Africa Dewani family Justice system failed Watch The background to the Dewani case Watch", 479),
-                new Diff(deleted, "Fresh cracks appear in coalition Senior Conservative and Lib Dem ministers criticise each other amid suggestions of widening divisions in the coalition government Home owners could handle rate rise The majority of people with mortgages could cope with a rise in interest rates the Bank of England has said", 1375),
-                new Diff(inserted, "Disability fund closure ruled lawful A government decision to close a fund that helps disabled people to live and work in the community is lawful the High Court rules Coalition to survive despite spats Senior Lib Dem Danny Alexander insists that trading insults with his Conservatives partners does not undermine the parties ability to work together Johnson criticises Farage M4 excuse Home owners could handle rate rise", 1628),
-                new Diff(inserted, "PlayStation hit by hack attack ", 2153),
-                new Diff(deleted, "Take care complaints seriously Defence staff begin 10 day strike UK embassy in Cairo remains closed Teenage runaways lack refuges Pride wins best film at indie awards", 1860),
-                new Diff(inserted, "UK embassy in Cairo remains closed", 0),
-                new Diff(deleted, "Stand", 2235),
-                new Diff(inserted, "Eight c", 2502),
-                new Diff(deleted, "d", 2242),
-                new Diff(deleted, "fear over school cuts Alcohol price law could save 900m Scotland orAlba Warning as snow and ice affect roads Man found dead in close of flats England Shrien Dewani trial Reaction Boy 15 killed in fight is name", 2245),
-                new Diff(inserted, "damaged in arson attack Farmer delivers Downing Street tree Scotland orAlba Woman killed in ambulance accident Bank accused of fraud over mortgages England Shrien Dewani trial Reaction Live Son detained for trying to kill da", 2513),
-                new Diff(inserted, "Cap on ", 3238),
-                new Diff(deleted, "Games bid revamp is pass", 2963),
-                new Diff(inserted, "sports is dropp", 0),
-                new Diff(deleted, "ow to scare off the biggest pest Elephants need to be kept away from farms Inside a giant spider Take a unique journey inside the body of a giant tarantula Democracy Live House of Commons", 0),
-                new Diff(inserted, "uge crabs that munch on coconuts They are gigantic odd and may be endangered How to scare off the biggest pest Elephants need to be kept away from farms Democracy Live", 4050),
-                new Diff(inserted, "Crackdown on UK s billion nuisance calls Watch01 20 ", 51),
-                new Diff(deleted, "Trafficking and slavery in the UK Watch01 45 Radio 5 live Live Features Analysis Digging for danger The man who found 100 bombs in Afghanistan", 4449),
-                new Diff(inserted, "Features Analysis Throes of change Is something stirring on the High Street Digging for danger The man who found 100 bombs in Afghanistan Young and hungry The people struggling to put food on the table Interest rates Why a rise might be worse for some families than the economy", 4762),
-                new Diff(deleted, "72 Christmas trees And 52 rooms in house to decorate", 4649),
-                new Diff(inserted, "Inbox fatigue How to take back control of your email", 5097)
+                new RAMDiff(deleted, "0 52", 463),
+                new RAMDiff(inserted, "3 07", 463),
+                new RAMDiff(deleted, "murder case thrown out Judge dismisses case against Shrien Dewani accused of arranging murder of wife Anni in South Africa Shrien Dewani trial Reaction", 0),
+                new RAMDiff(inserted, "cleared of honeymoon murder The family of Anni Dewani believe they have been failed by the justice system after millionaire businessman Shrien Dewani is cleared of the honeymoon murder Shrien Dewani trial Reaction Live How Dewani prosecution fell apart From dream wedding to fatal hijacking Hiring a hitman in South Africa Dewani family Justice system failed Watch The background to the Dewani case Watch", 479),
+                new RAMDiff(deleted, "Fresh cracks appear in coalition Senior Conservative and Lib Dem ministers criticise each other amid suggestions of widening divisions in the coalition government Home owners could handle rate rise The majority of people with mortgages could cope with a rise in interest rates the Bank of England has said", 1375),
+                new RAMDiff(inserted, "Disability fund closure ruled lawful A government decision to close a fund that helps disabled people to live and work in the community is lawful the High Court rules Coalition to survive despite spats Senior Lib Dem Danny Alexander insists that trading insults with his Conservatives partners does not undermine the parties ability to work together Johnson criticises Farage M4 excuse Home owners could handle rate rise", 1628),
+                new RAMDiff(inserted, "PlayStation hit by hack attack ", 2153),
+                new RAMDiff(deleted, "Take care complaints seriously Defence staff begin 10 day strike UK embassy in Cairo remains closed Teenage runaways lack refuges Pride wins best film at indie awards", 1860),
+                new RAMDiff(inserted, "UK embassy in Cairo remains closed", 0),
+                new RAMDiff(deleted, "Stand", 2235),
+                new RAMDiff(inserted, "Eight c", 2502),
+                new RAMDiff(deleted, "d", 2242),
+                new RAMDiff(deleted, "fear over school cuts Alcohol price law could save 900m Scotland orAlba Warning as snow and ice affect roads Man found dead in close of flats England Shrien Dewani trial Reaction Boy 15 killed in fight is name", 2245),
+                new RAMDiff(inserted, "damaged in arson attack Farmer delivers Downing Street tree Scotland orAlba Woman killed in ambulance accident Bank accused of fraud over mortgages England Shrien Dewani trial Reaction Live Son detained for trying to kill da", 2513),
+                new RAMDiff(inserted, "Cap on ", 3238),
+                new RAMDiff(deleted, "Games bid revamp is pass", 2963),
+                new RAMDiff(inserted, "sports is dropp", 0),
+                new RAMDiff(deleted, "ow to scare off the biggest pest Elephants need to be kept away from farms Inside a giant spider Take a unique journey inside the body of a giant tarantula Democracy Live House of Commons", 0),
+                new RAMDiff(inserted, "uge crabs that munch on coconuts They are gigantic odd and may be endangered How to scare off the biggest pest Elephants need to be kept away from farms Democracy Live", 4050),
+                new RAMDiff(inserted, "Crackdown on UK s billion nuisance calls Watch01 20 ", 51),
+                new RAMDiff(deleted, "Trafficking and slavery in the UK Watch01 45 Radio 5 live Live Features Analysis Digging for danger The man who found 100 bombs in Afghanistan", 4449),
+                new RAMDiff(inserted, "Features Analysis Throes of change Is something stirring on the High Street Digging for danger The man who found 100 bombs in Afghanistan Young and hungry The people struggling to put food on the table Interest rates Why a rise might be worse for some families than the economy", 4762),
+                new RAMDiff(deleted, "72 Christmas trees And 52 rooms in house to decorate", 4649),
+                new RAMDiff(inserted, "Inbox fatigue How to take back control of your email", 5097)
 
         );
 

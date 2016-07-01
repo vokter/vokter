@@ -19,9 +19,7 @@ package com.edduarte.vokter.job;
 import com.edduarte.vokter.diff.DiffEvent;
 import com.edduarte.vokter.diff.Match;
 import com.edduarte.vokter.document.DocumentBuilder;
-import com.edduarte.vokter.model.mongodb.Keyword;
-import com.edduarte.vokter.model.mongodb.Session;
-import com.edduarte.vokter.rest.model.Notification;
+import com.edduarte.vokter.keyword.Keyword;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.quartz.JobBuilder;
@@ -42,10 +40,7 @@ import org.quartz.listeners.JobChainingJobListener;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import javax.ws.rs.client.ClientBuilder;
-import javax.ws.rs.client.Entity;
 import javax.ws.rs.core.MediaType;
-import javax.ws.rs.core.Response;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
@@ -367,7 +362,7 @@ public class JobManager {
                         documentUrl, documentContentType,
                         clientUrl, clientContentType
                 ));
-                sendTimeoutResponse(
+                sendTimeoutToClient(
                         documentUrl, documentContentType,
                         clientUrl, clientContentType
                 );
@@ -587,43 +582,25 @@ public class JobManager {
     }
 
 
-    final boolean responseOk(final String documentUrl,
-                             final String documentContentType,
-                             final String clientUrl,
-                             final String clientContentType,
-                             final Set<Match> diffs)
-            throws JsonProcessingException {
-        Session session = handler.createOrGetSession(clientUrl, clientContentType);
-
-        Response response = ClientBuilder.newClient()
-                .target(clientUrl)
-                .request(clientContentType)
-                .header("Authorization", session.getToken())
-                .post(Entity.entity(
-                        Notification.ok(documentUrl, documentContentType, diffs),
-                        clientContentType
-                ));
-
-        return response.getStatus() == 200;
-    }
-
-
-    final boolean sendTimeoutResponse(final String documentUrl,
+    final boolean sendTimeoutToClient(final String documentUrl,
                                       final String documentContentType,
                                       final String clientUrl,
                                       final String clientContentType)
             throws JsonProcessingException {
-        Session session = handler.createOrGetSession(clientUrl, clientContentType);
+        return handler.sendTimeoutToClient(
+                documentUrl, documentContentType,
+                clientUrl, clientContentType
+        );
+    }
 
-        Response response = ClientBuilder.newClient()
-                .target(clientUrl)
-                .request(clientContentType)
-                .header("Authorization", session.getToken())
-                .post(Entity.entity(
-                        Notification.timeout(documentUrl, documentContentType),
-                        clientContentType
-                ));
 
-        return response.getStatus() == 200;
+    public boolean sendNotificationToClient(String documentUrl, String documentContentType,
+                                            String clientUrl, String clientContentType,
+                                            Set<Match> results) {
+        return handler.sendNotificationToClient(
+                documentUrl, documentContentType,
+                clientUrl, clientContentType,
+                results
+        );
     }
 }

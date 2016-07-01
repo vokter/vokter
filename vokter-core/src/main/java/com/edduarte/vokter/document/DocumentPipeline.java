@@ -23,7 +23,7 @@ import com.edduarte.vokter.cleaner.LowerCaseCleaner;
 import com.edduarte.vokter.cleaner.NewLineCleaner;
 import com.edduarte.vokter.cleaner.RepeatingSpacesCleaner;
 import com.edduarte.vokter.cleaner.SpecialCharsCleaner;
-import com.edduarte.vokter.model.mongodb.Document;
+import com.edduarte.vokter.persistence.Document;
 import com.edduarte.vokter.processor.similarity.BandsProcessor;
 import com.edduarte.vokter.processor.similarity.KShingler;
 import com.edduarte.vokter.processor.similarity.KShinglesSigProcessor;
@@ -63,6 +63,8 @@ public class DocumentPipeline implements Callable<Document> {
     private static final Logger logger =
             LoggerFactory.getLogger(DocumentPipeline.class);
 
+    private final Class<? extends Document> documentClass;
+
     private final DocumentInput documentInput;
 
     private final int shingleLength;
@@ -75,11 +77,13 @@ public class DocumentPipeline implements Callable<Document> {
 
 
     public DocumentPipeline(
+            final Class<? extends Document> documentClass,
             final DocumentInput documentInput,
             final LanguageDetector langDetector,
             final boolean filterStopwords,
             final boolean ignoreCase,
             final int shingleLength) {
+        this.documentClass = documentClass;
         this.documentInput = documentInput;
         this.shingleLength = shingleLength;
         this.langDetector = langDetector;
@@ -181,18 +185,26 @@ public class DocumentPipeline implements Callable<Document> {
         int[] bands = bandsProcessor.process(sig).call();
 
 
-        // creates a document that represents this pipeline processing result
-        Document document = new Document(
-                url, new Date(), contentType,
-                content.toString(), shingles, k, bands
-        );
-
-
         // delete mutable string content from memory
+        String s = content.toString();
         content.delete(0, content.length());
         content = null;
 
 
-        return document;
+        // creates a document that represents this pipeline processing result
+        try {
+             return documentClass.getConstructor(
+                    String.class,
+                    Date.class,
+                    String.class,
+                    String.class,
+                    List.class,
+                    int.class,
+                    int[].class
+            ).newInstance(url, new Date(), contentType, s, shingles, k, bands);
+        } catch (ReflectiveOperationException e) {
+            logger.error(e.getMessage(), e);
+            return null;
+        }
     }
 }

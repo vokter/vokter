@@ -17,8 +17,10 @@
 package com.edduarte.vokter.diff;
 
 import com.edduarte.vokter.document.DocumentBuilder;
-import com.edduarte.vokter.model.mongodb.Diff;
-import com.edduarte.vokter.model.mongodb.Document;
+import com.edduarte.vokter.persistence.Diff;
+import com.edduarte.vokter.persistence.Document;
+import com.edduarte.vokter.persistence.ram.RAMDiff;
+import com.edduarte.vokter.persistence.ram.RAMDocument;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.optimaize.langdetect.LanguageDetector;
 import com.optimaize.langdetect.LanguageDetectorBuilder;
@@ -71,15 +73,16 @@ public class DiffDetectorTest {
 
         Document oldSnapshotDoc = DocumentBuilder
                 .fromString(url, oldSnapshot, type)
-                .build(langDetector);
+                .build(langDetector, RAMDocument.class);
 
         Document newSnapshotDoc = DocumentBuilder
                 .fromString(url, newSnapshot, type)
-                .build(langDetector);
+                .build(langDetector, RAMDocument.class);
 
         DiffDetector comparison = new DiffDetector(
                 oldSnapshotDoc,
-                newSnapshotDoc
+                newSnapshotDoc,
+                RAMDiff.class
         );
         List<Diff> diffList = comparison.call();
 
@@ -118,15 +121,16 @@ public class DiffDetectorTest {
 
         Document oldSnapshotDoc = DocumentBuilder
                 .fromString(url, oldSnapshot, contentType)
-                .build(langDetector);
+                .build(langDetector, RAMDocument.class);
 
         Document newSnapshotDoc = DocumentBuilder
                 .fromString(url, newSnapshot, contentType)
-                .build(langDetector);
+                .build(langDetector, RAMDocument.class);
 
         DiffDetector comparison = new DiffDetector(
                 oldSnapshotDoc,
-                newSnapshotDoc
+                newSnapshotDoc,
+                RAMDiff.class
         );
         List<Diff> diffList = comparison.call();
 

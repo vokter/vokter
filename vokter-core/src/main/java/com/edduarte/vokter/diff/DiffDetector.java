@@ -16,11 +16,10 @@
 
 package com.edduarte.vokter.diff;
 
-import com.edduarte.vokter.model.mongodb.Diff;
-import com.edduarte.vokter.model.mongodb.Document;
+import com.edduarte.vokter.persistence.Diff;
+import com.edduarte.vokter.persistence.Document;
 import com.edduarte.vokter.similarity.JaccardStringSimilarity;
 import com.edduarte.vokter.similarity.LSHSimilarity;
-import com.edduarte.vokter.similarity.Similarity;
 import com.google.common.base.Stopwatch;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -44,11 +43,15 @@ public class DiffDetector implements Callable<List<Diff>> {
 
     private final Document newSnapshot;
 
+    private final Class<? extends Diff> diffClass;
+
 
     public DiffDetector(final Document oldSnapshot,
-                        final Document newSnapshot) {
+                        final Document newSnapshot,
+                        final Class<? extends Diff> diffClass) {
         this.oldSnapshot = oldSnapshot;
         this.newSnapshot = newSnapshot;
+        this.diffClass = diffClass;
     }
 
 
@@ -86,11 +89,20 @@ public class DiffDetector implements Callable<List<Diff>> {
 
         List<Diff> retrievedDiffs = diffs.parallelStream()
                 .filter(diff -> !diff.getOperation().equals(DiffEvent.nothing))
-                .map(diff -> new Diff(
-                        diff.getOperation(),
-                        diff.getText(),
-                        diff.getStartIndex()
-                )).collect(Collectors.toList());
+                .map(diff -> {
+                    try {
+                        return (Diff)diffClass.getConstructor(
+                                DiffEvent.class,
+                                String.class,
+                                int.class
+                        ).newInstance(diff.action, diff.text, diff.startIndex);
+                    } catch (ReflectiveOperationException e) {
+                        logger.error(e.getMessage(), e);
+                        return null;
+                    }
+                })
+                .filter(diff -> diff != null)
+                .collect(Collectors.toList());
 
         sw.stop();
         logger.info("Completed difference detection for document '{}' in {}",

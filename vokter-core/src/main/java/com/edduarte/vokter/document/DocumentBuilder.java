@@ -16,7 +16,8 @@
 
 package com.edduarte.vokter.document;
 
-import com.edduarte.vokter.model.mongodb.Document;
+import com.edduarte.vokter.persistence.Document;
+import com.edduarte.vokter.persistence.DocumentCollection;
 import com.edduarte.vokter.util.OSGiManager;
 import com.google.common.base.Stopwatch;
 import com.optimaize.langdetect.LanguageDetector;
@@ -48,12 +49,6 @@ public final class DocumentBuilder {
      * The low-footprint loader of the document, using a lazy stream.
      */
     private final Supplier<DocumentInput> documentLazySupplier;
-
-    /**
-     * The language detector that will assure that the right Stopword filter
-     * and Stemmer are used for the input content.
-     */
-    private LanguageDetector langDetector;
 
     /**
      * Flag that sets usage of stopword filtering.
@@ -195,7 +190,8 @@ public final class DocumentBuilder {
      *
      * @return the built index of the documents specified in the factory method
      */
-    public Document build(LanguageDetector langDetector) {
+    public Document build(LanguageDetector langDetector,
+                          Class<? extends Document> documentClass) {
         Stopwatch sw = Stopwatch.createStarted();
 
         // step 1) Perform a lazy loading of the document, by obtaining its url,
@@ -217,6 +213,9 @@ public final class DocumentBuilder {
 
         // step 3) Process the document.
         DocumentPipeline pipeline = new DocumentPipeline(
+
+                // the class that will represent a document
+                documentClass,
 
                 // the input document info, including its path and InputStream
                 input,

@@ -18,7 +18,7 @@ package com.edduarte.vokter.job;
 
 import com.edduarte.vokter.diff.DiffEvent;
 import com.edduarte.vokter.diff.Match;
-import com.edduarte.vokter.model.mongodb.Keyword;
+import com.edduarte.vokter.keyword.Keyword;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.quartz.InterruptableJob;
 import org.quartz.JobDataMap;
@@ -122,11 +122,13 @@ public class DiffMatcherJob implements InterruptableJob {
                         kws, filterStopwords, enableStemming, ignoreCase,
                         ignoreAdded, ignoreRemoved, snippetOffset);
                 if (!results.isEmpty()) {
-                    manager.responseOk(
+                    boolean wasSuccessful = manager.sendNotificationToClient(
                             documentUrl, documentContentType,
                             clientUrl, clientContentType,
                             results
                     );
+                    // TODO: Add fault tolerance so that, if failed 10 times,
+                    // cancel this matching job and send a timeout to the client
                 }
             }
         } catch (IOException ex) {

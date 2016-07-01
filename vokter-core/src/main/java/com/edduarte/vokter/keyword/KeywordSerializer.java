@@ -16,7 +16,6 @@
 
 package com.edduarte.vokter.keyword;
 
-import com.edduarte.vokter.model.mongodb.Keyword;
 import com.fasterxml.jackson.core.JsonGenerator;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.JsonSerializer;

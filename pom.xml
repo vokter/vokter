@@ -26,12 +26,13 @@
     <version>1.4.1</version>
     <packaging>pom</packaging>
 
-    <name>Vokter</name>
+    <name>vokter</name>
 
     <modules>
         <module>vokter-core</module>
         <module>vokter-readers</module>
         <module>vokter-stemmers</module>
+        <module>vokter-mongodb</module>
     </modules>
 
     <developers>

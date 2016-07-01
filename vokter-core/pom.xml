@@ -212,14 +212,6 @@
         </dependency>
 
 
-        <!-- db -->
-        <dependency>
-            <groupId>org.mongodb</groupId>
-            <artifactId>mongo-java-driver</artifactId>
-            <version>2.12.4</version>
-        </dependency>
-
-
         <!-- quartz scheduler -->
         <dependency>
             <groupId>org.quartz-scheduler</groupId>
@@ -230,14 +222,6 @@
             <groupId>org.quartz-scheduler</groupId>
             <artifactId>quartz-jobs</artifactId>
             <version>${quartz.version}</version>
-        </dependency>
-
-
-        <!-- quartz job store -->
-        <dependency>
-            <groupId>com.novemberain</groupId>
-            <artifactId>quartz-mongodb</artifactId>
-            <version>1.8.0</version>
         </dependency>
 
 

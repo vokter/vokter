@@ -23,7 +23,6 @@ import com.edduarte.vokter.cleaner.LowerCaseCleaner;
 import com.edduarte.vokter.cleaner.NewLineCleaner;
 import com.edduarte.vokter.cleaner.RepeatingSpacesCleaner;
 import com.edduarte.vokter.cleaner.SpecialCharsCleaner;
-import com.edduarte.vokter.model.mongodb.Keyword;
 import com.edduarte.vokter.parser.Parser;
 import com.edduarte.vokter.stemmer.Stemmer;
 import com.edduarte.vokter.stopper.FileStopper;

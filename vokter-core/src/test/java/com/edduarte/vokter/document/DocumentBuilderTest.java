@@ -1,6 +1,7 @@
 package com.edduarte.vokter.document;
 
-import com.edduarte.vokter.model.mongodb.Document;
+import com.edduarte.vokter.persistence.Document;
+import com.edduarte.vokter.persistence.ram.RAMDocument;
 import com.optimaize.langdetect.LanguageDetector;
 import com.optimaize.langdetect.LanguageDetectorBuilder;
 import com.optimaize.langdetect.ngram.NgramExtractors;
@@ -46,7 +47,7 @@ public class DocumentBuilderTest {
     public void htmlCorrectContentType() {
         Document document = DocumentBuilder
                 .fromUrl("https://en.wikipedia.org/wiki/Argus_Panoptes", MediaType.TEXT_HTML)
-                .build(langDetector);
+                .build(langDetector, RAMDocument.class);
         assertEquals(MediaType.TEXT_HTML, document.getContentType());
     }
 
@@ -55,7 +56,7 @@ public class DocumentBuilderTest {
     public void xmlCorrectContentType() {
         Document document = DocumentBuilder
                 .fromUrl("https://en.wikipedia.org/wiki/Special:Export/Argus_Panoptes", MediaType.APPLICATION_XML)
-                .build(langDetector);
+                .build(langDetector, RAMDocument.class);
         assertEquals(MediaType.APPLICATION_XML, document.getContentType());
     }
 
@@ -64,7 +65,7 @@ public class DocumentBuilderTest {
     public void jsonCorrectContentType() {
         Document document = DocumentBuilder
                 .fromUrl("https://en.wikipedia.org/w/api.php?format=json&action=query&titles=Argus_Panoptes&prop=revisions&rvprop=content", MediaType.APPLICATION_JSON)
-                .build(langDetector);
+                .build(langDetector, RAMDocument.class);
         assertEquals(MediaType.APPLICATION_JSON, document.getContentType());
     }
 
@@ -78,7 +79,7 @@ public class DocumentBuilderTest {
     public void htmlWrongContentType() {
         Document document = DocumentBuilder
                 .fromUrl("https://en.wikipedia.org/wiki/Argus_Panoptes", MediaType.APPLICATION_JSON)
-                .build(langDetector);
+                .build(langDetector, RAMDocument.class);
         assertEquals(MediaType.TEXT_HTML, document.getContentType());
     }
 
@@ -87,7 +88,7 @@ public class DocumentBuilderTest {
     public void xmlWrongContentType() {
         Document document = DocumentBuilder
                 .fromUrl("https://en.wikipedia.org/wiki/Special:Export/Argus_Panoptes", MediaType.TEXT_HTML)
-                .build(langDetector);
+                .build(langDetector, RAMDocument.class);
         assertEquals(MediaType.APPLICATION_XML, document.getContentType());
     }
 
@@ -96,7 +97,7 @@ public class DocumentBuilderTest {
     public void jsonWrongContentType() {
         Document document = DocumentBuilder
                 .fromUrl("https://en.wikipedia.org/w/api.php?format=json&action=query&titles=Argus_Panoptes&prop=revisions&rvprop=content", MediaType.APPLICATION_XML)
-                .build(langDetector);
+                .build(langDetector, RAMDocument.class);
         assertEquals(MediaType.APPLICATION_JSON, document.getContentType());
     }
 
@@ -110,7 +111,7 @@ public class DocumentBuilderTest {
     public void htmlNoContentType() {
         Document document = DocumentBuilder
                 .fromUrl("https://en.wikipedia.org/wiki/Argus_Panoptes", null)
-                .build(langDetector);
+                .build(langDetector, RAMDocument.class);
         assertEquals(MediaType.TEXT_HTML, document.getContentType());
     }
 
@@ -119,7 +120,7 @@ public class DocumentBuilderTest {
     public void xmlNoContentType() {
         Document document = DocumentBuilder
                 .fromUrl("https://en.wikipedia.org/wiki/Special:Export/Argus_Panoptes", null)
-                .build(langDetector);
+                .build(langDetector, RAMDocument.class);
         assertEquals(MediaType.APPLICATION_XML, document.getContentType());
     }
 
@@ -128,7 +129,7 @@ public class DocumentBuilderTest {
     public void jsonNoContentType() {
         Document document = DocumentBuilder
                 .fromUrl("https://en.wikipedia.org/w/api.php?format=json&action=query&titles=Argus_Panoptes&prop=revisions&rvprop=content", null)
-                .build(langDetector);
+                .build(langDetector, RAMDocument.class);
         assertEquals(MediaType.APPLICATION_JSON, document.getContentType());
     }
 }

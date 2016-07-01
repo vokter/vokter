@@ -29,7 +29,7 @@ public class JaccardSetSimilarity implements SetSimilarity {
 
     public double setSimilarity(Collection<? extends Number> c1,
                                 Collection<? extends Number> c2) {
-        Set<Number> intersectionSet = c1.stream()
+        Set<? extends Number> intersectionSet = c1.stream()
                 .filter(c2::contains)
                 .collect(Collectors.toSet());
         Set<Number> unionSet = Sets.newHashSet(c1);

@@ -17,8 +17,8 @@
 package com.edduarte.vokter.job;
 
 import com.edduarte.vokter.diff.Match;
-import com.edduarte.vokter.model.mongodb.Keyword;
-import com.edduarte.vokter.model.mongodb.Session;
+import com.edduarte.vokter.keyword.Keyword;
+import com.edduarte.vokter.persistence.Session;
 
 import java.util.List;
 import java.util.Set;
@@ -63,10 +63,17 @@ public interface JobManagerHandler {
                          boolean isStemmingEnabled, boolean ignoreCase);
 
     /**
-     * Get a session for the pair (clientUrl, clientContentType), and if one
-     * does not exist, create one
+     * Sends a notification to the client with the specified matched diffs.
      */
-    Session createOrGetSession(String clientUrl, String clientContentType);
+    boolean sendNotificationToClient(String documentUrl, String documentContentType,
+                                     String clientUrl, String clientContentType,
+                                     Set<Match> diffs);
+
+    /**
+     * Sends a time-out warning to the client.
+     */
+    boolean sendTimeoutToClient(String documentUrl, String documentContentType,
+                                String clientUrl, String clientContentType);
 
     /**
      * Remove a session for the pair (clientUrl, clientContentType)

@@ -16,8 +16,8 @@
 
 package com.edduarte.vokter.diff;
 
-import com.edduarte.vokter.model.mongodb.Diff;
-import com.edduarte.vokter.model.mongodb.Keyword;
+import com.edduarte.vokter.persistence.Diff;
+import com.edduarte.vokter.keyword.Keyword;
 import com.edduarte.vokter.parser.Parser;
 import com.edduarte.vokter.parser.ParserPool;
 import com.edduarte.vokter.stemmer.Stemmer;
