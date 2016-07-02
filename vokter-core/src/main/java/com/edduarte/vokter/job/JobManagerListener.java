@@ -26,17 +26,18 @@ import java.util.Set;
  * @version 1.3.2
  * @since 1.0.0
  */
-public interface NotificationHandler {
+public interface JobManagerListener {
 
     /**
-     * Sends a notification to the client with the specified matched diffs.
+     * Logic where a notification with the specified matched diffs is sent to
+     * the client.
      */
-    boolean sendNotificationToClient(String documentUrl, String documentContentType,
-                                     Session session, Set<Match> diffs);
+    boolean onNotification(String documentUrl, String documentContentType,
+                           Session session, Set<Match> diffs);
 
     /**
-     * Sends a time-out warning to the client.
+     * Logic where a time-out warning must be sent to the client.
      */
-    boolean sendTimeoutToClient(String documentUrl, String documentContentType,
-                                Session session);
+    boolean onTimeout(String documentUrl, String documentContentType,
+                      Session session);
 }

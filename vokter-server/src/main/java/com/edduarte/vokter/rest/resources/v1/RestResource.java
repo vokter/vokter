@@ -16,8 +16,8 @@
 
 package com.edduarte.vokter.rest.resources.v1;
 
+import com.edduarte.vokter.job.JobManager;
 import com.edduarte.vokter.persistence.Session;
-import com.edduarte.vokter.rest.VokterApplication;
 import com.edduarte.vokter.rest.model.CommonResponse;
 import com.edduarte.vokter.rest.model.v1.AddRequest;
 import com.edduarte.vokter.rest.model.v1.CancelRequest;
@@ -32,7 +32,6 @@ import io.swagger.annotations.Info;
 import io.swagger.annotations.SwaggerDefinition;
 import org.apache.commons.validator.routines.UrlValidator;
 
-import javax.servlet.ServletContext;
 import javax.ws.rs.Consumes;
 import javax.ws.rs.GET;
 import javax.ws.rs.HeaderParam;
@@ -54,10 +53,10 @@ import java.util.concurrent.ExecutionException;
  * @since 1.0.0
  */
 @Path("/v1/")
-@Api(tags = {"API v1"})
+@Api(tags = {"v1"})
 @SwaggerDefinition(info = @Info(
         title = "API v1",
-        description = "Vokter REST API service version 1, which is being " +
+        description = "Vokter REST API service version 1, which is " +
                 "kept active for backwards-compatibility purposes.",
         version = "1"
 ))
@@ -65,69 +64,18 @@ import java.util.concurrent.ExecutionException;
 @Produces(MediaType.APPLICATION_JSON)
 public class RestResource {
 
-    @javax.ws.rs.core.Context
-    private ServletContext context;
+    private final JobManager jobManager;
 
 
-    /**
-     * Options method for "exampleRequest" to enable Access-Control-Allow-Origin
-     * for all origin endpoints, opening the API to client services using CORS
-     * like AngularJS frontends.
-     */
-    @OPTIONS
-    @Path("exampleRequest")
-    @ApiOperation(value = "", hidden = true)
-    public Response exampleRequestOptions(
-            @HeaderParam("Access-Control-Request-Headers") String acrHeader) {
-        return CORSUtils.getOptionsWithCORS(acrHeader);
-    }
-
-
-    @GET
-    @Path("exampleRequest")
-    public Response exampleRequest() {
-        AddRequest requestBody = new AddRequest(
-                "http://www.example.com",
-                "http://your.site/client-rest-api",
-                Lists.newArrayList("argus", "argus panoptes"),
-                600
-        );
-        return Response.status(200)
-                .type(MediaType.APPLICATION_JSON)
-                .entity(requestBody)
-                .build();
-    }
-
-
-    /**
-     * Options method for "exampleResponse" to enable Access-Control-Allow-Origin
-     * for all origin endpoints, opening the API to client services using CORS
-     * like AngularJS frontends.
-     */
-    @OPTIONS
-    @Path("exampleResponse")
-    @ApiOperation(value = "", hidden = true)
-    public Response exampleResponseOptions(
-            @HeaderParam("Access-Control-Request-Headers") String acrHeader) {
-        return CORSUtils.getOptionsWithCORS(acrHeader);
-    }
-
-
-    @GET
-    @Path("exampleResponse")
-    public Response exampleResponse() {
-        CommonResponse responseBody = CommonResponse.ok();
-        return Response.status(200)
-                .type(MediaType.APPLICATION_JSON)
-                .entity(responseBody)
-                .build();
+    public RestResource(JobManager jobManager) {
+        this.jobManager = jobManager;
     }
 
 
     /**
      * Options method for "subscribe" to enable Access-Control-Allow-Origin
      * for all origin endpoints, opening the API to client services using CORS
-     * like AngularJS frontends.
+     * forcefully, like frontends using AngularJS's regular $http calls.
      */
     @OPTIONS
     @Path("subscribe")
@@ -140,6 +88,38 @@ public class RestResource {
 
     @POST
     @Path("subscribe")
+    @ApiOperation(
+            value = "Add a job",
+            notes = "Adds a new monitoring job to Vokter. The document will " +
+                    "be checked periodically, and if the provided keywords " +
+                    "are matched, the clientUrl will receive a notification " +
+                    "as a POST request.",
+            nickname = "add"
+    )
+    @ApiResponses(value = {
+            @ApiResponse(
+                    code = 201,
+                    message = "The monitoring job was created successfully.",
+                    response = String.class
+            ),
+            @ApiResponse(
+                    code = 400,
+                    message = "The provided data is invalid.",
+                    response = CommonResponse.class
+            ),
+            @ApiResponse(
+                    code = 409,
+                    message = "The request conflicts with a currently " +
+                            "active watch job, since the provided document " +
+                            "URL is already being watched and notified to " +
+                            "the provided client URL.",
+                    response = CommonResponse.class
+            ),
+            @ApiResponse(
+                    code = 415,
+                    message = "The request body has an invalid format."
+            )})
+    @Produces({MediaType.APPLICATION_JSON, MediaType.TEXT_PLAIN})
     public Response watch(AddRequest addRequest) {
         String[] schemes = {"http", "https"};
         UrlValidator urlValidator = new UrlValidator(schemes, UrlValidator.ALLOW_LOCAL_URLS);
@@ -148,7 +128,7 @@ public class RestResource {
         if (documentUrl == null || documentUrl.isEmpty() ||
                 !urlValidator.isValid(documentUrl)) {
             CommonResponse responseBody = CommonResponse.invalidDocumentUrl();
-            return Response.status(400)
+            return CORSUtils.getResponseBuilderWithCORS(400)
                     .type(MediaType.APPLICATION_JSON)
                     .entity(responseBody)
                     .build();
@@ -158,7 +138,7 @@ public class RestResource {
         if (clientUrl == null || clientUrl.isEmpty() ||
                 !urlValidator.isValid(clientUrl)) {
             CommonResponse responseBody = CommonResponse.invalidClientUrl();
-            return Response.status(400)
+            return CORSUtils.getResponseBuilderWithCORS(400)
                     .type(MediaType.APPLICATION_JSON)
                     .entity(responseBody)
                     .build();
@@ -176,7 +156,7 @@ public class RestResource {
 
         if (keywords == null || keywords.isEmpty()) {
             CommonResponse responseBody = CommonResponse.emptyKeywords();
-            return Response.status(400)
+            return CORSUtils.getResponseBuilderWithCORS(400)
                     .type(MediaType.APPLICATION_JSON)
                     .entity(responseBody)
                     .build();
@@ -185,18 +165,16 @@ public class RestResource {
         if (addRequest.getIgnoreAdded() &&
                 addRequest.getIgnoreRemoved()) {
             CommonResponse responseBody = CommonResponse.emptyDifferenceActions();
-            return Response.status(400)
+            return CORSUtils.getResponseBuilderWithCORS(400)
                     .type(MediaType.APPLICATION_JSON)
                     .entity(responseBody)
                     .build();
         }
 
-        VokterApplication app = VokterApplication.getInstance();
-
         com.edduarte.vokter.rest.model.v2.AddRequest r =
                 new com.edduarte.vokter.rest.model.v2.AddRequest(addRequest);
 
-        Session session = app.createJob(
+        Session session = jobManager.createJob(
                 r.getDocumentUrl(), r.getDocumentContentType(),
                 r.getClientUrl(), r.getClientContentType(),
                 r.getKeywords(), r.getEvents(),
@@ -205,13 +183,13 @@ public class RestResource {
         );
         if (session != null) {
             CommonResponse responseBody = CommonResponse.ok();
-            return Response.status(200)
+            return CORSUtils.getResponseBuilderWithCORS(200)
                     .type(MediaType.APPLICATION_JSON)
                     .entity(responseBody)
                     .build();
         } else {
             CommonResponse responseBody = CommonResponse.alreadyExists();
-            return Response.status(409)
+            return CORSUtils.getResponseBuilderWithCORS(409)
                     .type(MediaType.APPLICATION_JSON)
                     .entity(responseBody)
                     .build();
@@ -222,7 +200,7 @@ public class RestResource {
     /**
      * Options method for "cancel" to enable Access-Control-Allow-Origin
      * for all origin endpoints, opening the API to client services using CORS
-     * like AngularJS frontends.
+     * forcefully, like frontends using AngularJS's regular $http calls.
      */
     @OPTIONS
     @Path("cancel")
@@ -247,11 +225,13 @@ public class RestResource {
     @ApiResponses(value = {
             @ApiResponse(
                     code = 200,
-                    message = "The monitoring job was successfully canceled."
+                    message = "The monitoring job was successfully canceled.",
+                    response = CommonResponse.class
             ),
             @ApiResponse(
                     code = 400,
-                    message = "The provided data is invalid."
+                    message = "The provided data is invalid.",
+                    response = CommonResponse.class
             ),
             @ApiResponse(
                     code = 415,
@@ -259,15 +239,15 @@ public class RestResource {
             ),
             @ApiResponse(
                     code = 404,
-                    message = "The specified job to cancel does not exist."
+                    message = "The specified job to cancel does not exist.",
+                    response = CommonResponse.class
             )})
     public Response cancel(
             @ApiParam(value = "The job data, including the pair of document " +
                     "url to client url that identifies the job.", required = true)
                     CancelRequest cancelRequest) throws ExecutionException {
 
-        VokterApplication app = VokterApplication.getInstance();
-        boolean wasDeleted = app.cancelJob(
+        boolean wasDeleted = jobManager.cancelJob(
                 cancelRequest.getDocumentUrl(),
                 cancelRequest.getDocumentContentType(),
                 cancelRequest.getClientUrl(),
@@ -275,13 +255,13 @@ public class RestResource {
         );
         if (wasDeleted) {
             CommonResponse responseBody = CommonResponse.ok();
-            return Response.status(200)
+            return CORSUtils.getResponseBuilderWithCORS(200)
                     .type(MediaType.APPLICATION_JSON)
                     .entity(responseBody)
                     .build();
         } else {
             CommonResponse responseBody = CommonResponse.notExists();
-            return Response.status(404)
+            return CORSUtils.getResponseBuilderWithCORS(404)
                     .type(MediaType.APPLICATION_JSON)
                     .entity(responseBody)
                     .build();

@@ -1,19 +1,20 @@
 package com.edduarte.vokter.rest;
 
 import com.edduarte.vokter.Constants;
-import com.edduarte.vokter.diff.DiffEvent;
 import com.edduarte.vokter.job.JobManager;
-import com.edduarte.vokter.job.RestNotificationHandler;
+import com.edduarte.vokter.job.RestJobManagerListener;
 import com.edduarte.vokter.parser.Parser;
 import com.edduarte.vokter.parser.ParserPool;
 import com.edduarte.vokter.parser.SimpleParser;
 import com.edduarte.vokter.persistence.DiffCollection;
 import com.edduarte.vokter.persistence.DocumentCollection;
-import com.edduarte.vokter.persistence.Session;
 import com.edduarte.vokter.persistence.SessionCollection;
 import com.edduarte.vokter.persistence.mongodb.MongoDiffCollection;
 import com.edduarte.vokter.persistence.mongodb.MongoDocumentCollection;
 import com.edduarte.vokter.persistence.mongodb.MongoSessionCollection;
+import com.edduarte.vokter.rest.resources.CORSFilter;
+import com.edduarte.vokter.rest.resources.v2.RestResource;
+import com.edduarte.vokter.swagger.SwaggerBundle;
 import com.mongodb.DB;
 import com.mongodb.MongoClient;
 import com.optimaize.langdetect.LanguageDetector;
@@ -45,11 +46,16 @@ public class VokterApplication extends Application<ServerConfiguration> {
     private static final Logger logger =
             LoggerFactory.getLogger(VokterApplication.class);
 
-    private static VokterApplication instance = new VokterApplication();
+    private final JobManager jobManager;
 
-    public SessionCollection sessionCollection;
+    private final SessionCollection sessionCollection;
 
-    private JobManager jobManager;
+
+    public VokterApplication(JobManager jobManager,
+                             SessionCollection sessionCollection) {
+        this.jobManager = jobManager;
+        this.sessionCollection = sessionCollection;
+    }
 
 
     public static void main(String[] args) throws Exception {
@@ -66,16 +72,15 @@ public class VokterApplication extends Application<ServerConfiguration> {
                 "matching every match will be case insensitive (regardless " +
                 "of the user setting \"ignoreCase\" as false in his request).");
 
-        options.addOption("sw", "stopwords", false, "Flag that sets " +
-                "stopwords to be filtered when k-shingling receiving " +
-                "documents on difference detection. This composes a " +
-                "trade-off between losing matching of common words (user " +
-                "has stopwords in his keywords which won't be matched) and " +
-                "reducing the number of under-used matching jobs, triggered " +
-                "by differences in these words with non-important significance. " +
+        options.addOption("sw", "stopwords", false, "Flag that enables " +
+                "filtering of stopwords during k-shingling of documents on " +
+                "difference detection jobs. This composes a trade-off " +
+                "between stopping all matching of common words that the " +
+                "user might have specified as his desired keywords on " +
+                "purpose, and reducing the total number of jobs triggered. " +
                 "This option is only used on shingling / LSH, and has no " +
-                "effect on the user's setting \"filterStopwords\", since that " +
-                "one concerns keyword matching and not detection.");
+                "effect on the user's setting \"filterStopwords\", since " +
+                "that one concerns keyword matching and not detection.");
 
         options.addOption("h", "help", false, "Shows this help prompt.");
 
@@ -164,19 +169,11 @@ public class VokterApplication extends Application<ServerConfiguration> {
                 langDetector,
                 isIgnoringCase,
                 isStoppingEnabled,
-                new RestNotificationHandler()
+                new RestJobManagerListener()
         );
         jobManager.initialize();
 
-        instance.jobManager = jobManager;
-        instance.sessionCollection = sessionCollection;
-
-        instance.run(args);
-    }
-
-
-    public static VokterApplication getInstance() {
-        return instance;
+        new VokterApplication(jobManager, sessionCollection).run(args);
     }
 
 
@@ -188,42 +185,19 @@ public class VokterApplication extends Application<ServerConfiguration> {
 
     @Override
     public void initialize(Bootstrap<ServerConfiguration> bootstrap) {
-        // nothing to do yet
+        bootstrap.addBundle((SwaggerBundle<ServerConfiguration>) ServerConfiguration::getConfig);
     }
 
 
     @Override
     public void run(ServerConfiguration configuration, Environment environment) {
-        // nothing to do yet
-    }
-
-
-    public Session createJob(
-            String documentUrl, String documentContentType,
-            String clientUrl, String clientContentType,
-            List<String> keywords, List<DiffEvent> events,
-            boolean filterStopwords, boolean enableStemming, boolean ignoreCase,
-            int snippetOffset, int interval) {
-        return jobManager.createJob(
-                documentUrl, documentContentType,
-                clientUrl, clientContentType,
-                keywords, events,
-                filterStopwords, enableStemming, ignoreCase,
-                snippetOffset, interval
-        );
-    }
-
-
-    public boolean cancelJob(String documentUrl, String documentContentType,
-                             String clientUrl, String clientContentType) {
-        return jobManager.cancelJob(
-                documentUrl, documentContentType,
-                clientUrl, clientContentType
-        );
-    }
-
-
-    public Session validateToken(String clientUrl, String clientContentType, String token) {
-        return sessionCollection.validateToken(clientUrl, clientContentType, token);
+        environment.healthChecks()
+                .register("jobManager", new JobManagerHealthCheck(jobManager));
+        environment.jersey()
+                .register(new CORSFilter());
+        environment.jersey()
+                .register(new RestResource(jobManager, sessionCollection));
+        environment.jersey()
+                .register(new com.edduarte.vokter.rest.resources.v1.RestResource(jobManager));
     }
 }

@@ -52,9 +52,9 @@ import static org.junit.Assert.assertNull;
  * @version 1.3.2
  * @since 1.0.0
  */
-public class RestNotificationHandlerTest {
+public class RestJobManagerListenerTest {
 
-    private static final Logger logger = LoggerFactory.getLogger(RestNotificationHandlerTest.class);
+    private static final Logger logger = LoggerFactory.getLogger(RestJobManagerListenerTest.class);
 
     private static MongoClient mongoClient;
 
@@ -120,7 +120,7 @@ public class RestNotificationHandlerTest {
                 langDetector,
                 false,
                 false,
-                new RestNotificationHandler()
+                new RestJobManagerListener()
         );
         manager.initialize();
 

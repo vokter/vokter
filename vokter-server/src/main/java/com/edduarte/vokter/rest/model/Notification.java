@@ -1,10 +1,12 @@
 package com.edduarte.vokter.rest.model;
 
+import com.edduarte.vokter.diff.DiffEvent;
 import com.edduarte.vokter.diff.Match;
 import com.fasterxml.jackson.annotation.JsonProperty;
 
 import java.util.Collections;
 import java.util.Set;
+import java.util.stream.Collectors;
 
 /**
  * @author Eduardo Duarte (<a href="mailto:hello@edduarte.com">hello@edduarte.com</a>)
@@ -26,7 +28,7 @@ public class Notification {
 
 
     @JsonProperty(required = true)
-    private final Set<Match> diffs;
+    private final Set<MatchWrapper> diffs;
 
 
     private Notification(Status status,
@@ -36,7 +38,9 @@ public class Notification {
         this.status = status;
         this.url = url;
         this.contentType = contentType;
-        this.diffs = diffs;
+        this.diffs = diffs.parallelStream()
+                .map(MatchWrapper::new)
+                .collect(Collectors.toSet());
     }
 
 
@@ -73,12 +77,56 @@ public class Notification {
     }
 
 
-    public Set<Match> getDiffs() {
+    public Set<MatchWrapper> getDiffs() {
         return diffs;
     }
 
 
     public enum Status {
         ok, timeout
+    }
+
+
+    public static class MatchWrapper {
+
+        @JsonProperty(required = true)
+        private DiffEvent event;
+
+        @JsonProperty(required = true)
+        private String keyword;
+
+        @JsonProperty(required = true)
+        private String text;
+
+        @JsonProperty(required = true)
+        private String snippet;
+
+
+        public MatchWrapper(Match match) {
+            this.event = match.getEvent();
+            this.keyword = match.getKeyword().getOriginalInput();
+            this.text = match.getText();
+            this.snippet = match.getSnippet();
+        }
+
+
+        public DiffEvent getEvent() {
+            return event;
+        }
+
+
+        public String getKeyword() {
+            return keyword;
+        }
+
+
+        public String getText() {
+            return text;
+        }
+
+
+        public String getSnippet() {
+            return snippet;
+        }
     }
 }

@@ -1,7 +1,6 @@
 package com.edduarte.vokter.diff;
 
 import com.edduarte.vokter.keyword.Keyword;
-import com.fasterxml.jackson.annotation.JsonProperty;
 
 /**
  * @author Eduardo Duarte (<a href="mailto:hello@edduarte.com">hello@edduarte.com</a>)
@@ -13,27 +12,23 @@ public class Match {
     /**
      * The event of this difference ('added', 'removed' or 'nothing').
      */
-    @JsonProperty(required = true)
     private DiffEvent event;
 
     /**
      * The keyword contained within this difference.
      */
-    @JsonProperty(required = true)
     private Keyword keyword;
 
     /**
      * The text that contains the keyword above that was either added or
      * removed from the document.
      */
-    @JsonProperty(required = true)
     private String text;
 
     /**
      * The text that contains the difference text above along with surrounding
      * text that contextualizes where this difference occurred.
      */
-    @JsonProperty(required = true)
     private String snippet;
 
 

@@ -31,11 +31,11 @@ import java.util.Set;
  * @version 1.3.2
  * @since 1.0.0
  */
-public class RestNotificationHandler implements NotificationHandler {
+public class RestJobManagerListener implements JobManagerListener {
 
     @Override
-    public boolean sendNotificationToClient(String documentUrl, String documentContentType,
-                                            Session session, Set<Match> diffs) {
+    public boolean onNotification(String documentUrl, String documentContentType,
+                                  Session session, Set<Match> diffs) {
 
         Response response = ClientBuilder.newClient()
                 .target(session.getClientUrl())
@@ -51,8 +51,8 @@ public class RestNotificationHandler implements NotificationHandler {
 
 
     @Override
-    public boolean sendTimeoutToClient(String documentUrl, String documentContentType,
-                                       Session session) {
+    public boolean onTimeout(String documentUrl, String documentContentType,
+                             Session session) {
         Response response = ClientBuilder.newClient()
                 .target(session.getClientUrl())
                 .request(session.getClientContentType())

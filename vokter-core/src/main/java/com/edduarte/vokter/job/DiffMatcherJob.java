@@ -19,7 +19,7 @@ package com.edduarte.vokter.job;
 import com.edduarte.vokter.diff.DiffEvent;
 import com.edduarte.vokter.diff.Match;
 import com.edduarte.vokter.keyword.Keyword;
-import com.fasterxml.jackson.databind.ObjectMapper;
+import com.google.gson.Gson;
 import org.quartz.InterruptableJob;
 import org.quartz.JobDataMap;
 import org.quartz.JobExecutionContext;
@@ -91,51 +91,46 @@ public class DiffMatcherJob implements InterruptableJob {
         String clientContentType = dataMap.getString(CLIENT_CONTENT_TYPE);
         String clientToken = dataMap.getString(CLIENT_TOKEN);
 
-        try {
-            ObjectMapper mapper = new ObjectMapper();
+        boolean hasNewDifferences = dataMap.getBoolean(HAS_NEW_DIFFS);
+        if (hasNewDifferences) {
+            dataMap.put(HAS_NEW_DIFFS, false);
 
-            boolean hasNewDifferences = dataMap.getBoolean(HAS_NEW_DIFFS);
-            if (hasNewDifferences) {
-                dataMap.put(HAS_NEW_DIFFS, false);
+            Gson gson = new Gson();
+            List<String> keywords = gson
+                    .fromJson(dataMap.getString(KEYWORDS), ArrayList.class);
+            List<DiffEvent> events = gson
+                    .fromJson(dataMap.getString(EVENTS), ArrayList.class);
+            boolean ignoreAdded = !events.contains(DiffEvent.inserted);
+            boolean ignoreRemoved = !events.contains(DiffEvent.deleted);
+            boolean filterStopwords = dataMap.getBoolean(FILTER_STOPWORDS);
+            boolean enableStemming = dataMap.getBoolean(ENABLE_STEMMING);
+            boolean ignoreCase = dataMap.getBoolean(IGNORE_CASE);
+            int snippetOffset = dataMap.getInt(SNIPPET_OFFSET);
 
-                List<String> keywords = mapper.readValue(
-                        dataMap.getString(KEYWORDS), ArrayList.class);
-                List<DiffEvent> events = mapper.readValue(
-                        dataMap.getString(EVENTS), ArrayList.class);
-                boolean ignoreAdded = !events.contains(DiffEvent.inserted);
-                boolean ignoreRemoved = !events.contains(DiffEvent.deleted);
-                boolean filterStopwords = dataMap.getBoolean(FILTER_STOPWORDS);
-                boolean enableStemming = dataMap.getBoolean(ENABLE_STEMMING);
-                boolean ignoreCase = dataMap.getBoolean(IGNORE_CASE);
-                int snippetOffset = dataMap.getInt(SNIPPET_OFFSET);
+            // build keywords
+            List<Keyword> kws = keywords.stream()
+                    .map((keywordInput) -> manager.callBuildKeyword(
+                            keywordInput,
+                            filterStopwords,
+                            enableStemming,
+                            ignoreCase
+                    ))
+                    .collect(Collectors.toList());
 
-                // build keywords
-                List<Keyword> kws = keywords.stream()
-                        .map((keywordInput) -> manager.callBuildKeyword(
-                                keywordInput,
-                                filterStopwords,
-                                enableStemming,
-                                ignoreCase
-                        ))
-                        .collect(Collectors.toList());
-
-                // match them
-                Set<Match> results = manager.callGetMatchesImpl(
+            // match them
+            Set<Match> results = manager.callGetMatchesImpl(
+                    documentUrl, documentContentType,
+                    kws, filterStopwords, enableStemming, ignoreCase,
+                    ignoreAdded, ignoreRemoved, snippetOffset);
+            if (!results.isEmpty()) {
+                boolean wasSuccessful = manager.sendNotificationToClient(
                         documentUrl, documentContentType,
-                        kws, filterStopwords, enableStemming, ignoreCase,
-                        ignoreAdded, ignoreRemoved, snippetOffset);
-                if (!results.isEmpty()) {
-                    boolean wasSuccessful = manager.sendNotificationToClient(
-                            documentUrl, documentContentType,
-                            clientUrl, clientContentType, clientToken,
-                            results
-                    );
-                    // TODO: Add fault tolerance so that, if failed 10 times,
-                    // cancel this matching job and send a timeout to the client
-                }
+                        clientUrl, clientContentType, clientToken,
+                        results
+                );
+                // TODO: Add fault tolerance so that, if failed 10 times,
+                // cancel this matching job and send a timeout to the client
             }
-        } catch (IOException ex) {
-            logger.error(ex.getMessage(), ex);
         }
     }
 

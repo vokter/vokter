@@ -16,7 +16,6 @@
 
 package com.edduarte.vokter.keyword;
 
-import com.fasterxml.jackson.annotation.JsonValue;
 import it.unimi.dsi.lang.MutableString;
 
 import java.util.Collection;
@@ -48,7 +47,6 @@ public final class Keyword {
     }
 
 
-    @JsonValue
     public String getOriginalInput() {
         return originalInput;
     }

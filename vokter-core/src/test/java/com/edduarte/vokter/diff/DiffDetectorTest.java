@@ -17,11 +17,8 @@
 package com.edduarte.vokter.diff;
 
 import com.edduarte.vokter.document.DocumentBuilder;
-import com.edduarte.vokter.persistence.Diff;
 import com.edduarte.vokter.persistence.Document;
-import com.edduarte.vokter.persistence.ram.RAMDiff;
 import com.edduarte.vokter.persistence.ram.RAMDocument;
-import com.fasterxml.jackson.core.JsonProcessingException;
 import com.optimaize.langdetect.LanguageDetector;
 import com.optimaize.langdetect.LanguageDetectorBuilder;
 import com.optimaize.langdetect.ngram.NgramExtractors;
@@ -65,7 +62,7 @@ public class DiffDetectorTest {
 
 
     @Test
-    public void testSimple() throws JsonProcessingException {
+    public void testSimple() {
         String url = "http://www.bbc.com/news/uk/";
         String type = MediaType.TEXT_PLAIN;
         String oldSnapshot = "is the of the 100-eyed giant in Greek mythology.";

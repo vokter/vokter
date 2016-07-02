@@ -16,8 +16,9 @@
 
 package com.edduarte.vokter.rest.resources.v2;
 
+import com.edduarte.vokter.job.JobManager;
 import com.edduarte.vokter.persistence.Session;
-import com.edduarte.vokter.rest.VokterApplication;
+import com.edduarte.vokter.persistence.SessionCollection;
 import com.edduarte.vokter.rest.model.CommonResponse;
 import com.edduarte.vokter.rest.model.v2.AddRequest;
 import com.edduarte.vokter.rest.model.v2.CancelRequest;
@@ -33,7 +34,6 @@ import org.apache.commons.validator.routines.UrlValidator;
 
 import javax.ws.rs.Consumes;
 import javax.ws.rs.DELETE;
-import javax.ws.rs.GET;
 import javax.ws.rs.HeaderParam;
 import javax.ws.rs.OPTIONS;
 import javax.ws.rs.POST;
@@ -41,7 +41,6 @@ import javax.ws.rs.Path;
 import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
-import java.util.Arrays;
 import java.util.Iterator;
 import java.util.List;
 import java.util.concurrent.ExecutionException;
@@ -54,53 +53,37 @@ import java.util.concurrent.ExecutionException;
  * @since 1.0.0
  */
 @Path("/v2/")
-@Api(tags = {"API v2"})
+@Api(tags = {"v2"})
 @SwaggerDefinition(info = @Info(
         title = "API v2",
-        description = "Vokter REST API service contentType version.",
+        description = "Vokter REST API service version 2.",
         version = "2"
 ))
 @Consumes(MediaType.APPLICATION_JSON)
 @Produces(MediaType.APPLICATION_JSON)
 public class RestResource {
 
+    private final JobManager jobManager;
+
+    private final SessionCollection sessionCollection;
+
+
+    public RestResource(JobManager jobManager,
+                        SessionCollection sessionCollection) {
+        this.jobManager = jobManager;
+        this.sessionCollection = sessionCollection;
+    }
+
     /**
      * Options method to enable Access-Control-Allow-Origin for all origin
-     * endpoints, opening the API to client services using CORS like AngularJS
-     * frontends.
+     * endpoints, opening the API to client services using CORS
+     * forcefully, like frontends using AngularJS's regular $http calls.
      */
     @OPTIONS
     @ApiOperation(value = "", hidden = true)
     public Response options(
             @HeaderParam("Access-Control-Request-Headers") String acrHeader) {
         return CORSUtils.getOptionsWithCORS(acrHeader);
-    }
-
-
-    @GET
-    @ApiOperation(
-            value = "Get an example body to add a job",
-            notes = "Returns an example request body that can be sent as " +
-                    "payload in POST to start a monitoring job.",
-            response = AddRequest.class,
-            nickname = "example"
-    )
-    @ApiResponses(value = {
-            @ApiResponse(
-                    code = 200,
-                    message = "The example request body was returned successfully."
-            )})
-    public Response exampleRequest() {
-        AddRequest requestBody = new AddRequest(
-                "http://www.example.com",
-                "http://your.site/client-rest-api",
-                Arrays.asList("argus", "argus panoptes"),
-                600
-        );
-        return CORSUtils.getResponseBuilderWithCORS(200)
-                .type(MediaType.APPLICATION_JSON)
-                .entity(requestBody)
-                .build();
     }
 
 
@@ -187,8 +170,7 @@ public class RestResource {
                     .build();
         }
 
-        VokterApplication app = VokterApplication.getInstance();
-        Session session = app.createJob(
+        Session session = jobManager.createJob(
                 r.getDocumentUrl(), r.getDocumentContentType(),
                 r.getClientUrl(), r.getClientContentType(),
                 r.getKeywords(), r.getEvents(),
@@ -253,8 +235,7 @@ public class RestResource {
                     "url to client url that identifies the job.", required = true)
                     CancelRequest cancelRequest) throws ExecutionException {
 
-        VokterApplication app = VokterApplication.getInstance();
-        Session session = app.validateToken(
+        Session session = sessionCollection.validateToken(
                 cancelRequest.getClientUrl(),
                 cancelRequest.getClientContentType(),
                 token
@@ -266,7 +247,7 @@ public class RestResource {
                     .build();
         }
 
-        boolean wasDeleted = app.cancelJob(
+        boolean wasDeleted = jobManager.cancelJob(
                 cancelRequest.getDocumentUrl(),
                 cancelRequest.getDocumentContentType(),
                 cancelRequest.getClientUrl(),

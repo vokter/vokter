@@ -17,10 +17,10 @@
 package com.edduarte.vokter.persistence.mongodb;
 
 import com.edduarte.vokter.persistence.Document;
-import com.fasterxml.jackson.databind.util.ISO8601DateFormat;
 import com.mongodb.BasicDBObject;
 
 import java.io.Serializable;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
@@ -143,7 +143,7 @@ public final class MongoDocument extends BasicDBObject
 
     @Override
     public String toString() {
-        ISO8601DateFormat formatter = new ISO8601DateFormat();
+        SimpleDateFormat formatter = new SimpleDateFormat("yyyy.MM.dd HH:mm");
         String dateString = formatter.format(getDate());
         return "{'" + getUrl() + "' collected at " + dateString + "}";
     }

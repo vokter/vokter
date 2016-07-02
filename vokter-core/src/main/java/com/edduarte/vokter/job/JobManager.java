@@ -31,8 +31,7 @@ import com.edduarte.vokter.persistence.Document;
 import com.edduarte.vokter.persistence.DocumentCollection;
 import com.edduarte.vokter.persistence.Session;
 import com.edduarte.vokter.persistence.SessionCollection;
-import com.fasterxml.jackson.core.JsonProcessingException;
-import com.fasterxml.jackson.databind.ObjectMapper;
+import com.google.gson.Gson;
 import com.optimaize.langdetect.LanguageDetector;
 import org.quartz.JobBuilder;
 import org.quartz.JobDataMap;
@@ -76,7 +75,7 @@ public class JobManager {
 
     private final String managerName;
 
-    private final NotificationHandler handler;
+    private final JobManagerListener handler;
 
     private final DocumentCollection documentCollection;
 
@@ -103,7 +102,7 @@ public class JobManager {
                        LanguageDetector langDetector,
                        boolean ignoreCase,
                        boolean filterStopwords,
-                       NotificationHandler handler) {
+                       JobManagerListener handler) {
         this.managerName = managerName;
         this.handler = handler;
         this.documentCollection = documentCollection;
@@ -124,7 +123,7 @@ public class JobManager {
                                     LanguageDetector langDetector,
                                     boolean ignoreCase,
                                     boolean filterStopwords,
-                                    NotificationHandler handler) {
+                                    JobManagerListener handler) {
         JobManager existingManager = get(managerName);
         if (existingManager != null) {
             existingManager.stop();
@@ -292,9 +291,9 @@ public class JobManager {
                         documentUrl, documentContentType);
             }
 
-            ObjectMapper mapper = new ObjectMapper();
-            String keywordJson = mapper.writeValueAsString(keywords);
-            String eventsJson = mapper.writeValueAsString(events);
+            Gson gson = new Gson();
+            String keywordJson = gson.toJson(keywords);
+            String eventsJson = gson.toJson(events);
 
             // attempt to create a new matching job, chained to execute after
             // the detection job
@@ -396,7 +395,7 @@ public class JobManager {
 
             return sessionCollection.add(clientUrl, clientContentType, token);
 
-        } catch (SchedulerException | JsonProcessingException ex) {
+        } catch (SchedulerException ex) {
             logger.error(ex.getMessage(), ex);
             return null;
         }
@@ -716,7 +715,7 @@ public class JobManager {
                                       String clientUrl, String clientContentType, String clientToken) {
         Session session = sessionCollection
                 .validateToken(clientUrl, clientContentType, clientToken);
-        return handler.sendTimeoutToClient(
+        return handler.onTimeout(
                 documentUrl, documentContentType,
                 session
         );
@@ -728,7 +727,7 @@ public class JobManager {
                                            Set<Match> results) {
         Session session = sessionCollection
                 .validateToken(clientUrl, clientContentType, clientToken);
-        return handler.sendNotificationToClient(
+        return handler.onNotification(
                 documentUrl, documentContentType,
                 session, results
         );
