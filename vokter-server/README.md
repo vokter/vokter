@@ -1,11 +1,15 @@
-# Vokter
+# Vokter REST Server
 
-[![Build Status](https://travis-ci.org/vokter/vokter-core.svg?branch=master)](https://travis-ci.org/vokter/vokter-core)
-[![Coverage Status](https://coveralls.io/repos/github/vokter/vokter-core/badge.svg?branch=master)](https://coveralls.io/github/vokter/vokter-core?branch=master)
+[![Build Status](https://travis-ci.org/vokter/vokter-server.svg?branch=master)](https://travis-ci.org/vokter/vokter-server)
+[![Coverage Status](https://coveralls.io/repos/github/vokter/vokter-server/badge.svg?branch=master)](https://coveralls.io/github/vokter/vokter-server?branch=master)
 
-Vokter is a high-performance, scalable framework that combines [Locality-Sensitive Hashing for K-Shingles](https://github.com/edduarte/near-neighbor-search), [a fork of DiffMatchPatch](https://github.com/edduarte/indexed-diff-match-patch), [Bloom filters](https://github.com/google/guava/wiki/HashingExplained#bloomfilter) and [Quartz jobs](http://www.quartz-scheduler.org) to detect differences in web documents, triggering notifications when specified keywords were either added or removed.
+Vokter is a platform that provides web-page monitoring, triggering notifications when specified keywords were either added or removed from a web document.
 
-At a basic level, Vokter manages a high number of concurrent jobs that fetch web documents on a periodic basis and perform difference detection, comparing occurrences between two snapshots of the same document, and difference matching, triggering a listener when a detected difference matches a registered keyword. It optionally supports multi-language stopword filtering, to ignore changes in common words with no important significance, and stemming to detect changes in lexically derived words. Appropriate stopword filtering and stemming algorithms are picked based on the inferred language of the document, using a [N-grams Naïve Bayesian classifier](https://github.com/optimaize/language-detector).
+Vokter Server is a high-performant REST service that encapsulates [Vokter Core](https://github.com/vokter/vokter-core) in a Dropwizard app while using multi-node cluster persistence of data and jobs in Hazelcast (for quick cached retrieval) and Cassandra.
+
+You can test it out at http://vokter.herokuapp.com
+
+Check [Vokter Core](https://github.com/vokter/vokter-core) for a standalone library version of this, which you can use in your own Java projects.
 
 - [Getting Started](#getting-started)
     + [Installation](#installation)
@@ -22,77 +26,55 @@ At a basic level, Vokter manages a high number of concurrent jobs that fetch web
     + [Persistence](#persistence)
     + [Reading](#reading)
     + [Indexing](#indexing)
-    + [Caveats / Future Work](#caveats-future-work)
 - [License](#license)
 
-# Usage
+# Getting Started
 
-## Maven
+## Installation
+
+Vokter Server uses the Reactive (Publish/Subscribe) model, where an additional Client web service with a REST API must be implemented to consume Vokter web service.  
+<b>An example RESTful web app that interoperates with Vokter is [available here](https://github.com/vokter/vokter-client-jersey2). Feel free to reuse this code in your own client app.</b>
+
+Once you have a client web service running, follow the steps below:
+
+1. Download and install [MongoDB](https://www.mongodb.org/downloads)
+
+2. Run MongoDB with ``` mongod ```
+
+3. Download the [latest release of Vokter server](https://github.com/vokter/vokter-server/releases/)
+
+4. Run Vokter with ``` java -jar vokter-server.jar server```
 ```
-<dependency>
-    <groupId>com.edduarte</groupId>
-    <artifactId>vokter-core</artifactId>
-    <version>1.0.0</version>
-</dependency>
+Optional arguments:
+ -h,--help               Shows this help prompt.
+ -p,--port <arg>         Core server port. Defaults to 9000.
+ -dbh,--db-host <arg>    Database host. Defaults to localhost.
+ -dbp,--db-port <arg>    Database port. Defaults to 27017.
+ -ic,--ignore-case       Flag that forces the document to be in lower-case,
+                         so that during difference matching every match
+                         will be case insensitive (regardless of the user 
+                         setting "ignoreCase" as false in his request)
+ -stop,--stopwords       Flag that enables filtering of stopwords during
+                         k-shingling of documents on difference detection 
+                         jobs. This composes a trade-off between stopping all 
+                         matching of common words that the user might have 
+                         specified as his desired keywords on purpose, and 
+                         reducing thetotal number of jobs triggered. This 
+                         option is only used on shingling / LSH, and has no 
+                         effect on the user's setting \"filterStopwords\", 
+                         since that one concerns keyword matching and not 
+                         detection.
 ```
+This will launch a embedded Jetty server with Jersey RESTful framework on 'localhost:8080' (by default). If Vokter was successfully deployed, opening the deployed url on a browser should display a landing page with usage instructions.
 
-## Gradle
-```
-dependencies {
-    compile 'com.edduarte:vokter-core:1.0.0'
-}
-```
-
-Create a job manager with a unique name (yes, you can have multiple job managers using the same persistence collections):
-```java
-import com.edduarte.vokter.job.JobManager;
-
-JobManager manager = JobManager.create("vokter_manager_1", new JobManagerHandler() {
-
-    @Override
-    public boolean onNotification(String documentUrl, String documentContentType, Session session, Set<Match> diffs) {
-        // when differences are found for the specified Session
-    }
-
-    @Override
-    public boolean onTimeout(String documentUrl, String documentContentType, Session session) {
-        // when the job timed-out due to failing to load the document after 10 attempts
-    }
-});
-```
-
-And add a job, detecting differences every 10 minutes:
-```java
-String documentUrl = "http://www.example.com"; // the page to be watched (mandatory field)
-Session clientSession = new Session("client_id"); // the unique identification of the client in this job manager
-List<String> keywords = Arrays.asList(
-    "argus", // looks for changes with this word (and lexical variants if stemming is enabled)
-    "zeus larissaios" // looks for changes with this exact phrase (both words must be in the diff)
-);
-manager.add(RequestBuilder.add(documentUrl, session, keywords));
-```
-
-You can optionally enable stemming, filter stopwords and ignore casing when attempting to match differences with keywords, so for example, the keyword "House of the Gods" would match a difference with the text "god house":
-
-```java
-manager.add(RequestBuilder.add(documentUrl, session, keywords)
-                .enableStemming()
-                .filterStopwords()
-                .ignoreCase());
-```
-
-You can also set the interval:
-
-```java
-manager.add(RequestBuilder.add(documentUrl, session, keywords)
-                .withInterval(15, TimeUnit.MINUTE));
-```
 
 ## Usage
 
+All usage documentation is available at 'localhost:8080' when the server is deployed (using Swagger and Swagger-UI). You can also check it on the demo app: http://vokter.herokuapp.com
+
 <b>Watch for content changes in a document</b>
 
-POST http://localhost:9000/vokter/v1/subscribe  
+POST http://localhost:8080/vokter/v2
 Payload:  
 ```javascript
 {
@@ -101,7 +83,7 @@ Payload:
     "keywords": // the keywords to watch for (mandatory field)
     [
         "argus", // looks for changes with this word (and lexical variants if stemming is enabled)
-        "zeus larissaios" // looks for changes with this exact phrase (both words must be in the change)
+        "zeus larissaios" // looks for changes with this exact phrase (both words must be in the diff)
     ],
     "interval": 600, // the elapsed duration in seconds between page checks (optional field, defaults to 600)
     "events": ["added", "removed"] // (optional field, included both events by default)
@@ -239,21 +221,6 @@ Because different documents can have different languages, which require speciali
 Stemmer classes and stop-word files, both from the Snowball project, follow the plugin paradigm, similarly to the Reader classes. This means that both can be changed during runtime and Vokter will be updated without requiring a restart. Moreover, like the Reader classes, Stemmer classes are cached for 5 seconds before being invalidated to avoid repeated instancing for consecutive stems of documents with the same language (for example, English).
 
 To ensure a concurrent architecture, where multiple parsing calls should be performed in parallel, Vokter will instance multiple parsers when deployed and store them in a blocking queue. The number of parsers corresponds to the number of cores available in the machine where Vokter was deployed to.
-
-## Caveats / Future Work
-
-Despite every part of its architecture having been optimized to accommodate to a massive amount of parallel tasks, Vokter has only been used in a production environment for academic projects and has yet to be battle-tested in high-usage consumer software. If you're using Vokter in your projects, let me know :)
-
-Additionally, there is some room for improvement:
-
-### Web crawling
-
-One way to improve user experience is by integrating web crawling in Reader modules, allowing users to set their visit policy (e.g. number of nested documents accessed). Within the current architecture where there is a unique detection job per document, detection jobs must be organized by link hierarchy order: if job 1 watches A and job 2 watches B, and if A has a link to B, then job 2 can be canceled and job 1 should trigger matchers of 1 and 2, where matchers of 2 only match differences found in document B. This implies a extremely optimized algorithm that has the potential of reducing the total number of simultaneous jobs significantly!
-
-### Fault-tolerance and timeout in matching jobs
-
-Currently only detection jobs can be timed-out after failing to load a new snapshot of the document after a specified number of attempts. However, sending a response to the client can fail too, and currently there is no fault-tolerance implemented for this. If a client fails to receive the data, maybe because the client itself has been shutdown without canceling its jobs from Vokter, then a potential high number of active detection and matching jobs are unnecessary.
-
 
 # License
 

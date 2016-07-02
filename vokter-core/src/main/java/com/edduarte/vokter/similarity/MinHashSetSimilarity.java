@@ -1,6 +1,6 @@
 package com.edduarte.vokter.similarity;
 
-import com.edduarte.vokter.processor.similarity.SetSigProcessor;
+import com.edduarte.vokter.processor.SetSigProcessor;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

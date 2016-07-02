@@ -24,7 +24,9 @@ import com.edduarte.vokter.diff.Match;
 import com.edduarte.vokter.document.DocumentBuilder;
 import com.edduarte.vokter.keyword.Keyword;
 import com.edduarte.vokter.keyword.KeywordBuilder;
+import com.edduarte.vokter.parser.Parser;
 import com.edduarte.vokter.parser.ParserPool;
+import com.edduarte.vokter.parser.SimpleParser;
 import com.edduarte.vokter.persistence.Diff;
 import com.edduarte.vokter.persistence.DiffCollection;
 import com.edduarte.vokter.persistence.Document;
@@ -33,6 +35,10 @@ import com.edduarte.vokter.persistence.Session;
 import com.edduarte.vokter.persistence.SessionCollection;
 import com.google.gson.Gson;
 import com.optimaize.langdetect.LanguageDetector;
+import com.optimaize.langdetect.LanguageDetectorBuilder;
+import com.optimaize.langdetect.ngram.NgramExtractors;
+import com.optimaize.langdetect.profiles.LanguageProfile;
+import com.optimaize.langdetect.profiles.LanguageProfileReader;
 import org.quartz.JobBuilder;
 import org.quartz.JobDataMap;
 import org.quartz.JobDetail;
@@ -52,15 +58,14 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import javax.ws.rs.core.MediaType;
-import java.util.Arrays;
+import java.io.IOException;
+import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
-
-import static com.edduarte.vokter.diff.DiffEvent.deleted;
-import static com.edduarte.vokter.diff.DiffEvent.inserted;
+import java.util.stream.Collectors;
 
 /**
  * @author Eduardo Duarte (<a href="mailto:hello@edduarte.com">hello@edduarte.com</a>)
@@ -75,13 +80,7 @@ public class JobManager {
 
     private final String managerName;
 
-    private final JobManagerListener handler;
-
-    private final DocumentCollection documentCollection;
-
-    private final DiffCollection diffCollection;
-
-    private final SessionCollection sessionCollection;
+    private final List<JobManagerListener> handlers;
 
     private final ParserPool parserPool;
 
@@ -91,57 +90,122 @@ public class JobManager {
 
     private final boolean filterStopwords;
 
+    private DocumentCollection documentCollection;
+
+    private DiffCollection diffCollection;
+
+    private SessionCollection sessionCollection;
+
     private Scheduler scheduler;
 
 
     private JobManager(String managerName,
-                       DocumentCollection documentCollection,
-                       DiffCollection diffCollection,
-                       SessionCollection sessionCollection,
                        ParserPool parserPool,
                        LanguageDetector langDetector,
                        boolean ignoreCase,
-                       boolean filterStopwords,
-                       JobManagerListener handler) {
+                       boolean filterStopwords) {
         this.managerName = managerName;
-        this.handler = handler;
-        this.documentCollection = documentCollection;
-        this.diffCollection = diffCollection;
-        this.sessionCollection = sessionCollection;
+        this.handlers = new ArrayList<>();
         this.parserPool = parserPool;
         this.langDetector = langDetector;
         this.ignoreCase = ignoreCase;
         this.filterStopwords = filterStopwords;
+        this.documentCollection = null;
+        this.diffCollection = null;
+        this.sessionCollection = null;
+    }
+
+
+    public static JobManager create(String name) {
+        return create(name, false, false);
     }
 
 
     public static JobManager create(String managerName,
-                                    DocumentCollection documentCollection,
-                                    DiffCollection diffCollection,
-                                    SessionCollection sessionCollection,
+                                    boolean ignoreCase,
+                                    boolean filterStopwords) {
+        JobManager existingManager = get(managerName);
+        if (existingManager != null) {
+            return null;
+        }
+
+        try {
+            List<LanguageProfile> languageProfiles =
+                    new LanguageProfileReader().readAllBuiltIn();
+            LanguageDetector langDetector = LanguageDetectorBuilder
+                    .create(NgramExtractors.standard())
+                    .withProfiles(languageProfiles)
+                    .build();
+
+            ParserPool parserPool = new ParserPool();
+            for (int i = 1; i < Constants.MAX_THREADS; i++) {
+                Parser p = new SimpleParser();
+                parserPool.place(p);
+                p = null;
+            }
+
+            JobManager newManager = new JobManager(
+                    managerName,
+                    parserPool,
+                    langDetector,
+                    ignoreCase,
+                    filterStopwords
+            );
+            activeManagers.put(managerName, newManager);
+            return newManager;
+
+        } catch (IOException | InterruptedException e) {
+            logger.error(e.getMessage(), e);
+            return null;
+        }
+    }
+
+
+    public static JobManager create(String managerName,
                                     ParserPool parserPool,
                                     LanguageDetector langDetector,
                                     boolean ignoreCase,
-                                    boolean filterStopwords,
-                                    JobManagerListener handler) {
+                                    boolean filterStopwords) {
         JobManager existingManager = get(managerName);
         if (existingManager != null) {
-            existingManager.stop();
+            return null;
         }
 
         JobManager newManager = new JobManager(
                 managerName,
-                documentCollection,
-                diffCollection,
-                sessionCollection,
                 parserPool,
                 langDetector,
                 ignoreCase,
-                filterStopwords,
-                handler
+                filterStopwords
         );
         activeManagers.put(managerName, newManager);
         return newManager;
+    }
+
+
+    public JobManager register(DocumentCollection documentCollection) {
+        this.documentCollection = documentCollection;
+        return this;
+    }
+
+
+    public JobManager register(DiffCollection diffCollection) {
+        this.diffCollection = diffCollection;
+        return this;
+    }
+
+
+    public JobManager register(SessionCollection sessionCollection) {
+        this.sessionCollection = sessionCollection;
+        return this;
+    }
+
+
+    public JobManager listener(JobManagerListener listener) {
+        if (listener != null) {
+            this.handlers.add(listener);
+        }
+        return this;
     }
 
 
@@ -209,51 +273,37 @@ public class JobManager {
     }
 
 
-    public void initialize() throws SchedulerException {
+    public JobManager initialize() throws SchedulerException {
         StdSchedulerFactory factory = new StdSchedulerFactory();
         scheduler = factory.getScheduler();
         factory = null;
         scheduler.start();
+        return this;
     }
 
 
-    /**
-     * Simplified API
-     */
-    public Session createJob(String documentUrl, String clientUrl,
-                             List<String> keywords, int interval) {
-        return createJob(
-                documentUrl, MediaType.TEXT_HTML,
-                clientUrl, MediaType.APPLICATION_JSON,
-                keywords, Arrays.asList(inserted, deleted),
-                true, true, true,
-                50, interval
+    public Session add(RequestBuilder.Add builder) {
+        return add(
+                builder.documentUrl, builder.documentContentType,
+                builder.clientUrl, builder.clientContentType,
+                builder.keywords, builder.events,
+                builder.filterStopwords, builder.enableStemming, builder.ignoreCase,
+                builder.snippetOffset, builder.interval
         );
     }
 
 
-    /**
-     * Used for testing only.
-     */
-    Session createJob(String documentUrl, String documentContentType,
-                      String clientUrl, String clientContentType,
-                      List<String> keywords, int interval) {
-        return createJob(
-                documentUrl, documentContentType,
-                clientUrl, clientContentType,
-                keywords, Arrays.asList(inserted, deleted),
-                true, true, true,
-                50, interval
-        );
-    }
-
-
-    public Session createJob(
+    private Session add(
             String documentUrl, String documentContentType,
             String clientUrl, String clientContentType,
             List<String> keywords, List<DiffEvent> events,
             boolean filterStopwords, boolean enableStemming, boolean ignoreCase,
             int snippetOffset, int interval) {
+
+        if (handlers.isEmpty()) {
+            logger.error("Cannot add new jobs without listeners.");
+            return null;
+        }
 
         // test if the document is readable
         boolean isReadable = DocumentBuilder
@@ -447,14 +497,18 @@ public class JobManager {
     /**
      * Simplified API
      */
-    public boolean cancelJob(String documentUrl, String clientUrl) {
-        return cancelJob(documentUrl, MediaType.TEXT_HTML,
+    public boolean cancel(String documentUrl, String clientUrl) {
+        return cancel(documentUrl, MediaType.TEXT_HTML,
                 clientUrl, MediaType.APPLICATION_JSON);
     }
 
 
-    public boolean cancelJob(String documentUrl, String documentContentType,
-                             String clientUrl, String clientContentType) {
+    public boolean cancel(String documentUrl, String documentContentType,
+                          String clientUrl, String clientContentType) {
+        if (handlers.isEmpty()) {
+            logger.error("Cannot cancel jobs without listeners.");
+            return false;
+        }
         JobKey jobKey = matchJobKey(
                 documentUrl, documentContentType,
                 clientUrl, clientContentType
@@ -711,25 +765,23 @@ public class JobManager {
     }
 
 
-    final boolean sendTimeoutToClient(String documentUrl, String documentContentType,
+    final List<Boolean> sendTimeoutToClient(String documentUrl, String documentContentType,
                                       String clientUrl, String clientContentType, String clientToken) {
         Session session = sessionCollection
                 .validateToken(clientUrl, clientContentType, clientToken);
-        return handler.onTimeout(
-                documentUrl, documentContentType,
-                session
-        );
+        return handlers.parallelStream()
+                .map(l-> l.onTimeout(documentUrl, documentContentType, session))
+                .collect(Collectors.toList());
     }
 
 
-    final boolean sendNotificationToClient(String documentUrl, String documentContentType,
+    final List<Boolean> sendNotificationToClient(String documentUrl, String documentContentType,
                                            String clientUrl, String clientContentType, String clientToken,
                                            Set<Match> results) {
         Session session = sessionCollection
                 .validateToken(clientUrl, clientContentType, clientToken);
-        return handler.onNotification(
-                documentUrl, documentContentType,
-                session, results
-        );
+        return handlers.parallelStream()
+                .map(l -> l.onNotification(documentUrl, documentContentType, session, results))
+                .collect(Collectors.toList());
     }
 }

@@ -25,7 +25,6 @@ import com.edduarte.vokter.persistence.SessionCollection;
 import com.edduarte.vokter.persistence.mongodb.MongoDiffCollection;
 import com.edduarte.vokter.persistence.mongodb.MongoDocumentCollection;
 import com.edduarte.vokter.persistence.mongodb.MongoSessionCollection;
-import com.google.common.collect.Lists;
 import com.mongodb.DB;
 import com.mongodb.MongoClient;
 import com.optimaize.langdetect.LanguageDetector;
@@ -41,6 +40,8 @@ import org.slf4j.LoggerFactory;
 
 import javax.ws.rs.core.MediaType;
 import java.io.IOException;
+import java.util.Arrays;
+import java.util.Collections;
 import java.util.List;
 import java.util.concurrent.atomic.AtomicReference;
 
@@ -113,25 +114,22 @@ public class RestJobManagerListenerTest {
                 "Argus Panoptes is the name of the 100-eyed giant in Greek mythology.");
         JobManager manager = JobManager.create(
                 "test_vokter_manager",
-                documentCollection,
-                diffCollection,
-                sessionCollection,
                 parserPool,
                 langDetector,
                 false,
-                false,
-                new RestJobManagerListener()
-        );
-        manager.initialize();
+                false
+        ).listener(new RestJobManagerListener())
+                .register(documentCollection)
+                .register(diffCollection)
+                .register(sessionCollection)
+                .initialize();
 
-        Session createdSession = manager.createJob(
-                "http://example.com",
-                MediaType.TEXT_PLAIN,
-                "https://www.google.com",
-                MediaType.APPLICATION_JSON,
-                Lists.newArrayList("the greek", "argus panoptes"),
-                7
-        );
+        Session createdSession = manager.add(RequestBuilder
+                .add("http://example.com", "https://www.google.com",
+                        Arrays.asList("the greek", "argus panoptes"))
+                .withDocumentContentType(MediaType.TEXT_PLAIN)
+                .withClientContentType(MediaType.APPLICATION_JSON)
+                .withInterval(7));
         assertNotNull(createdSession);
         // jobs run every 5 seconds, so force the test to wait 15 seconds to
         // ensure that a detection job is performed and finished
@@ -147,23 +145,19 @@ public class RestJobManagerListenerTest {
         // stored, which leads to matching for the same job happening twice,
         // which leads to notifying the client twice
 
-        createdSession = manager.createJob(
-                "http://example.com",
-                MediaType.TEXT_PLAIN,
-                "https://www.google.com",
-                MediaType.APPLICATION_JSON,
-                Lists.newArrayList("argus"),
-                12
-        );
+        createdSession = manager.add(RequestBuilder
+                .add("http://example.com", "https://www.google.com",
+                        Collections.singletonList("argus"))
+                .withDocumentContentType(MediaType.TEXT_PLAIN)
+                .withClientContentType(MediaType.APPLICATION_JSON)
+                .withInterval(12));
         assertNull(createdSession);
-        createdSession = manager.createJob(
-                "http://example.com",
-                MediaType.TEXT_PLAIN,
-                "https://www.google.pt",
-                MediaType.APPLICATION_JSON,
-                Lists.newArrayList("greek"),
-                19
-        );
+        createdSession = manager.add(RequestBuilder
+                .add("http://example.com", "https://www.google.pt",
+                        Collections.singletonList("greek"))
+                .withDocumentContentType(MediaType.TEXT_PLAIN)
+                .withClientContentType(MediaType.APPLICATION_JSON)
+                .withInterval(19));
         assertNotNull(createdSession);
         // wait 20 seconds to ensure that the second job (every 19 seconds)
         // doesn't find any differences, and then wait another 20 seconds.
@@ -175,13 +169,13 @@ public class RestJobManagerListenerTest {
         Thread.sleep(20000);
 
 
-        manager.cancelJob(
+        manager.cancel(
                 "http://example.com",
                 MediaType.TEXT_PLAIN,
                 "https://www.google.com",
                 MediaType.APPLICATION_JSON
         );
-        manager.cancelJob(
+        manager.cancel(
                 "http://example.com",
                 MediaType.TEXT_PLAIN,
                 "https://www.google.pt",
@@ -190,14 +184,12 @@ public class RestJobManagerListenerTest {
         // wait 5 seconds to ensure that the 2 existing jobs were canceled
         Thread.sleep(5000);
 
-        createdSession = manager.createJob(
-                "http://example.com",
-                MediaType.TEXT_PLAIN,
-                "https://www.google.com",
-                MediaType.APPLICATION_JSON,
-                Lists.newArrayList("the greek", "argus panoptes"),
-                5
-        );
+        createdSession = manager.add(RequestBuilder
+                .add("http://example.com", "https://www.google.com",
+                        Arrays.asList("the greek", "argus panoptes"))
+                .withDocumentContentType(MediaType.TEXT_PLAIN)
+                .withClientContentType(MediaType.APPLICATION_JSON)
+                .withInterval(5));
         assertNotNull(createdSession);
         // wait 15 seconds to ensure that the new existing jobs is performed and
         // finished

@@ -25,11 +25,10 @@ public class AndCleanerTest {
                 new SpecialCharsCleaner(' '),
                 new NewLineCleaner(' '),
                 new DiacriticCleaner(),
-                new LowerCaseCleaner(),
                 new RepeatingSpacesCleaner()
         );
         cleaner.clean(s);
 
-        assertEquals("argus panoptes wikipedia the free encyclopedia argus panoptes from wikipedia the free encyclopedia jump to navigation search drawing of an image from a 5th century cafe cliche chloe s pada karel capek", s.toString());
+        assertEquals("Argus Panoptes Wikipedia the free encyclopedia Argus Panoptes From Wikipedia the free encyclopedia Jump to navigation search Drawing of an image from a 5th century cafe cliche Chloe s pada Karel Capek", s.toString());
     }
 }

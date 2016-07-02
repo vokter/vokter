@@ -17,12 +17,12 @@
 package com.edduarte.vokter.rest.resources.v1;
 
 import com.edduarte.vokter.job.JobManager;
+import com.edduarte.vokter.job.RequestBuilder;
 import com.edduarte.vokter.persistence.Session;
 import com.edduarte.vokter.rest.model.CommonResponse;
 import com.edduarte.vokter.rest.model.v1.AddRequest;
 import com.edduarte.vokter.rest.model.v1.CancelRequest;
 import com.edduarte.vokter.util.CORSUtils;
-import com.google.common.collect.Lists;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
 import io.swagger.annotations.ApiParam;
@@ -33,7 +33,6 @@ import io.swagger.annotations.SwaggerDefinition;
 import org.apache.commons.validator.routines.UrlValidator;
 
 import javax.ws.rs.Consumes;
-import javax.ws.rs.GET;
 import javax.ws.rs.HeaderParam;
 import javax.ws.rs.OPTIONS;
 import javax.ws.rs.POST;
@@ -174,13 +173,24 @@ public class RestResource {
         com.edduarte.vokter.rest.model.v2.AddRequest r =
                 new com.edduarte.vokter.rest.model.v2.AddRequest(addRequest);
 
-        Session session = jobManager.createJob(
-                r.getDocumentUrl(), r.getDocumentContentType(),
-                r.getClientUrl(), r.getClientContentType(),
-                r.getKeywords(), r.getEvents(),
-                r.filterStopwords(), r.enableStemming(), r.ignoreCase(),
-                r.getSnippetOffset(), r.getInterval()
-        );
+        RequestBuilder.Add b = RequestBuilder
+                .add(r.getDocumentUrl(), r.getClientUrl(), r.getKeywords())
+                .withDocumentContentType(r.getDocumentContentType())
+                .withClientContentType(r.getClientContentType())
+                .withEvents(r.getEvents())
+                .withSnippetOffset(r.getSnippetOffset())
+                .withInterval(r.getInterval());
+        if (r.filterStopwords()) {
+            b.filterStopwords();
+        }
+        if (r.enableStemming()) {
+            b.enableStemming();
+        }
+        if (r.ignoreCase()) {
+            b.ignoreCase();
+        }
+
+        Session session = jobManager.add(b);
         if (session != null) {
             CommonResponse responseBody = CommonResponse.ok();
             return CORSUtils.getResponseBuilderWithCORS(200)
@@ -247,7 +257,7 @@ public class RestResource {
                     "url to client url that identifies the job.", required = true)
                     CancelRequest cancelRequest) throws ExecutionException {
 
-        boolean wasDeleted = jobManager.cancelJob(
+        boolean wasDeleted = jobManager.cancel(
                 cancelRequest.getDocumentUrl(),
                 cancelRequest.getDocumentContentType(),
                 cancelRequest.getClientUrl(),

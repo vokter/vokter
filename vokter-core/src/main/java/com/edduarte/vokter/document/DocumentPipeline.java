@@ -19,14 +19,13 @@ package com.edduarte.vokter.document;
 import com.edduarte.vokter.cleaner.AndCleaner;
 import com.edduarte.vokter.cleaner.Cleaner;
 import com.edduarte.vokter.cleaner.DiacriticCleaner;
-import com.edduarte.vokter.cleaner.LowerCaseCleaner;
 import com.edduarte.vokter.cleaner.NewLineCleaner;
 import com.edduarte.vokter.cleaner.RepeatingSpacesCleaner;
 import com.edduarte.vokter.cleaner.SpecialCharsCleaner;
 import com.edduarte.vokter.persistence.Document;
-import com.edduarte.vokter.processor.similarity.BandsProcessor;
-import com.edduarte.vokter.processor.similarity.KShingler;
-import com.edduarte.vokter.processor.similarity.KShinglesSigProcessor;
+import com.edduarte.vokter.processor.BandsProcessor;
+import com.edduarte.vokter.processor.KShingler;
+import com.edduarte.vokter.processor.KShinglesSigProcessor;
 import com.edduarte.vokter.reader.Reader;
 import com.edduarte.vokter.similarity.HashProvider.HashMethod;
 import com.edduarte.vokter.stopper.FileStopper;
@@ -110,6 +109,11 @@ public class DocumentPipeline implements Callable<Document> {
         documentInput.destroy();
 
 
+        if (ignoreCase) {
+            content.toLowerCase();
+        }
+
+
         // filters the contents by cleaning characters of whole strings
         // according to each cleaner's implementation
         List<Cleaner> list = new ArrayList<>();
@@ -117,9 +121,6 @@ public class DocumentPipeline implements Callable<Document> {
         list.add(new NewLineCleaner(' '));
         list.add(new RepeatingSpacesCleaner());
         list.add(new DiacriticCleaner());
-        if (ignoreCase) {
-            list.add(new LowerCaseCleaner());
-        }
         Cleaner cleaner = AndCleaner.of(list);
         cleaner.clean(content);
         cleaner = null;

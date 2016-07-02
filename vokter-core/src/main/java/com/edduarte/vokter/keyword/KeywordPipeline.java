@@ -19,7 +19,6 @@ package com.edduarte.vokter.keyword;
 import com.edduarte.vokter.cleaner.AndCleaner;
 import com.edduarte.vokter.cleaner.Cleaner;
 import com.edduarte.vokter.cleaner.DiacriticCleaner;
-import com.edduarte.vokter.cleaner.LowerCaseCleaner;
 import com.edduarte.vokter.cleaner.NewLineCleaner;
 import com.edduarte.vokter.cleaner.RepeatingSpacesCleaner;
 import com.edduarte.vokter.cleaner.SpecialCharsCleaner;
@@ -89,6 +88,12 @@ public class KeywordPipeline implements Callable<Keyword> {
 
         final MutableString content = new MutableString(queryInput);
 
+
+        if (ignoreCase) {
+            content.toLowerCase();
+        }
+
+
         // filters the contents by cleaning characters of whole strings
         // according to each cleaner's implementation
         List<Cleaner> list = new ArrayList<>();
@@ -96,9 +101,6 @@ public class KeywordPipeline implements Callable<Keyword> {
         list.add(new NewLineCleaner(' '));
         list.add(new RepeatingSpacesCleaner());
         list.add(new DiacriticCleaner());
-        if (ignoreCase) {
-            list.add(new LowerCaseCleaner());
-        }
         Cleaner cleaner = AndCleaner.of(list);
         cleaner.clean(content);
         cleaner = null;

@@ -30,7 +30,7 @@ import java.util.List;
  * @version 1.3.2
  * @since 1.0.0
  */
-public class AndCleaner extends Cleaner {
+public final class AndCleaner extends Cleaner {
 
     private final List<Cleaner> cleanerList;
 

@@ -17,6 +17,7 @@
 package com.edduarte.vokter.rest.resources.v2;
 
 import com.edduarte.vokter.job.JobManager;
+import com.edduarte.vokter.job.RequestBuilder;
 import com.edduarte.vokter.persistence.Session;
 import com.edduarte.vokter.persistence.SessionCollection;
 import com.edduarte.vokter.rest.model.CommonResponse;
@@ -170,13 +171,24 @@ public class RestResource {
                     .build();
         }
 
-        Session session = jobManager.createJob(
-                r.getDocumentUrl(), r.getDocumentContentType(),
-                r.getClientUrl(), r.getClientContentType(),
-                r.getKeywords(), r.getEvents(),
-                r.filterStopwords(), r.enableStemming(), r.ignoreCase(),
-                r.getSnippetOffset(), r.getInterval()
-        );
+        RequestBuilder.Add b = RequestBuilder
+                .add(r.getDocumentUrl(), r.getClientUrl(), r.getKeywords())
+                .withDocumentContentType(r.getDocumentContentType())
+                .withClientContentType(r.getClientContentType())
+                .withEvents(r.getEvents())
+                .withSnippetOffset(r.getSnippetOffset())
+                .withInterval(r.getInterval());
+        if (r.filterStopwords()) {
+            b.filterStopwords();
+        }
+        if (r.enableStemming()) {
+            b.enableStemming();
+        }
+        if (r.ignoreCase()) {
+            b.ignoreCase();
+        }
+
+        Session session = jobManager.add(b);
         if (session != null) {
             return CORSUtils.getResponseBuilderWithCORS(201)
                     .type(MediaType.TEXT_PLAIN)
@@ -247,7 +259,7 @@ public class RestResource {
                     .build();
         }
 
-        boolean wasDeleted = jobManager.cancelJob(
+        boolean wasDeleted = jobManager.cancel(
                 cancelRequest.getDocumentUrl(),
                 cancelRequest.getDocumentContentType(),
                 cancelRequest.getClientUrl(),

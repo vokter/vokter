@@ -144,34 +144,29 @@ public class VokterApplication extends Application<ServerConfiguration> {
                 .withProfiles(languageProfiles)
                 .build();
 
-        // the collection instances that will contain all persistence data
-        DocumentCollection documentCollection = new MongoDocumentCollection(db);
-        DiffCollection diffCollection = new MongoDiffCollection(db);
+        // the collection instance that will contain session / token
+        // persistence data
         SessionCollection sessionCollection = new MongoSessionCollection(db);
 
-        logger.info("Starting parsers...");
         for (int i = 1; i < Constants.MAX_THREADS; i++) {
             Parser p = new SimpleParser();
             parserPool.place(p);
         }
-
-        logger.info("Starting jobs...");
 
         // a manager for all Quartz jobs, handling scheduling and persistence of
         // asynchronous processes for document differences detection and
         // keyword-difference matching.
         JobManager jobManager = JobManager.create(
                 "vokter_job_manager",
-                documentCollection,
-                diffCollection,
-                sessionCollection,
                 parserPool,
                 langDetector,
                 isIgnoringCase,
-                isStoppingEnabled,
-                new RestJobManagerListener()
-        );
-        jobManager.initialize();
+                isStoppingEnabled
+        ).listener(new RestJobManagerListener())
+                .register(new MongoDocumentCollection(db))
+                .register(new MongoDiffCollection(db))
+                .register(sessionCollection)
+                .initialize();
 
         new VokterApplication(jobManager, sessionCollection).run(args);
     }

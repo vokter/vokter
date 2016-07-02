@@ -1,4 +1,4 @@
-package com.edduarte.vokter.processor.similarity;
+package com.edduarte.vokter.processor;
 
 import com.edduarte.vokter.processor.Processor;
 import com.edduarte.vokter.similarity.HashProvider.HashMethod;

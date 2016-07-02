@@ -19,20 +19,19 @@ public class ServerConfiguration extends Configuration {
         config.setResourcePackage("com.edduarte.vokter.rest.resources");
         config.setTitle("Vokter REST API");
         config.setDescription("Vokter is a high-performance, scalable web " +
-                "service that provides web-page monitoring, " +
+                "service that manages a high number of concurrent jobs, " +
                 "triggering notifications when specified keywords " +
                 "were either added or removed from a web document. " +
                 "This service implements a information retrieval " +
                 "system that fetches, indexes and performs queries " +
-                "over web documents on a periodic basis. Difference " +
-                "detection is implemented by comparing occurrences " +
-                "between two snapshots of the same document. " +
-                "Additionally, it supports multi-language stop-word " +
-                "filtering to ignore changes in common grammatical " +
-                "conjunctions or articles, and stemming to detect " +
-                "changes in lexically derived words.");
+                "over web documents on a periodic basis. It optionally " +
+                "supports multi-language stop-word filtering, to ignore " +
+                "changes in common words with no important significance, " +
+                "and stemming to detect changes in lexically derived words.");
         config.setVersion("2.0.0");
         config.setContact("hello@edduarte.com");
+        config.setLicense("Apache License, Version 2.0");
+        config.setLicenseUrl("http://www.apache.org/licenses/LICENSE-2.0");
     }
 
 

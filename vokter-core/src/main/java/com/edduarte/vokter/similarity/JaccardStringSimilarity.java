@@ -1,6 +1,6 @@
 package com.edduarte.vokter.similarity;
 
-import com.edduarte.vokter.processor.similarity.KShingler;
+import com.edduarte.vokter.processor.KShingler;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

@@ -123,7 +123,7 @@ public class DiffMatcherJob implements InterruptableJob {
                     kws, filterStopwords, enableStemming, ignoreCase,
                     ignoreAdded, ignoreRemoved, snippetOffset);
             if (!results.isEmpty()) {
-                boolean wasSuccessful = manager.sendNotificationToClient(
+                List<Boolean> wasSuccessful = manager.sendNotificationToClient(
                         documentUrl, documentContentType,
                         clientUrl, clientContentType, clientToken,
                         results
