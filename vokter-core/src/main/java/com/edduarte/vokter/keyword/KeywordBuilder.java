@@ -18,7 +18,6 @@ package com.edduarte.vokter.keyword;
 
 import com.edduarte.vokter.parser.Parser;
 import com.edduarte.vokter.parser.ParserPool;
-import com.google.common.base.Stopwatch;
 import com.optimaize.langdetect.LanguageDetector;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -97,7 +96,7 @@ public final class KeywordBuilder {
 
 
     public Keyword build(ParserPool parserPool) {
-        Stopwatch sw = Stopwatch.createStarted();
+//        Stopwatch sw = Stopwatch.createStarted();
 
         // step 3) Takes a parser from the parser-pool.
         Parser parser;
@@ -150,6 +149,7 @@ public final class KeywordBuilder {
             return null;
         }
 
+//        sw.stop();
 //        logger.info("Completed building keywords '{}' in {}",
 //                keywordInput, sw.toString());
         return keyword;

@@ -19,7 +19,6 @@ package com.edduarte.vokter.diff;
 import com.edduarte.vokter.persistence.Document;
 import com.edduarte.vokter.similarity.JaccardStringSimilarity;
 import com.edduarte.vokter.similarity.LSHSimilarity;
-import com.google.common.base.Stopwatch;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -52,7 +51,7 @@ public class DiffDetector implements Callable<List<DiffDetector.Result>> {
 
     @Override
     public List<Result> call() {
-        Stopwatch sw = Stopwatch.createStarted();
+//        Stopwatch sw = Stopwatch.createStarted();
 
         int[] oldBands = oldSnapshot.getBands();
         int[] newBands = newSnapshot.getBands();
@@ -88,9 +87,9 @@ public class DiffDetector implements Callable<List<DiffDetector.Result>> {
                 .filter(diff -> diff != null)
                 .collect(Collectors.toList());
 
-        sw.stop();
-        logger.info("Completed difference detection for document '{}' in {}",
-                newSnapshot.getUrl(), sw.toString());
+//        sw.stop();
+//        logger.info("Completed difference detection for document '{}' in {}",
+//                newSnapshot.getUrl(), sw.toString());
         return retrievedDiffs;
     }
 

@@ -26,7 +26,6 @@ import com.edduarte.vokter.stopper.Stopper;
 import com.edduarte.vokter.util.ConcurrentHashSet;
 import com.edduarte.vokter.util.OSGiManager;
 import com.google.common.base.Optional;
-import com.google.common.base.Stopwatch;
 import com.google.common.hash.BloomFilter;
 import com.optimaize.langdetect.LanguageDetector;
 import com.optimaize.langdetect.i18n.LdLocale;
@@ -40,7 +39,6 @@ import org.slf4j.LoggerFactory;
 import java.util.List;
 import java.util.Set;
 import java.util.concurrent.Callable;
-import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.Collectors;
 
 import static com.edduarte.vokter.diff.DiffEvent.deleted;
@@ -110,7 +108,7 @@ public class DiffMatcher implements Callable<Set<Match>> {
 
     @Override
     public Set<Match> call() {
-        Stopwatch sw = Stopwatch.createStarted();
+//        Stopwatch sw = Stopwatch.createStarted();
 
         Set<Match> matchedDiffs = new ConcurrentHashSet<>();
 
@@ -124,8 +122,6 @@ public class DiffMatcher implements Callable<Set<Match>> {
                     tokens.parallelStream().forEach(bloomFilter::put);
                     return new KeywordFilter(kw, bloomFilter);
                 }).collect(Collectors.toList());
-
-        AtomicInteger keywordCountThatPassedBloomFilter = new AtomicInteger();
 
         // infers the document language
         String languageCodeAux = "en";
@@ -233,7 +229,6 @@ public class DiffMatcher implements Callable<Set<Match>> {
             // before checking exact equality
             //
             filters.parallelStream().map(f -> {
-                logger.info("testing: {}", f.keyword);
                 boolean isCandidateMatch = diffTokens.parallelStream()
                         .anyMatch(t -> f.bloomFilter.mightContain(t.text));
                 if (isCandidateMatch) {
@@ -242,8 +237,6 @@ public class DiffMatcher implements Callable<Set<Match>> {
                     return null;
                 }
             }).filter(f -> f != null).map(f -> {
-                logger.info("after bloom filter: {}", f.keyword);
-                keywordCountThatPassedBloomFilter.incrementAndGet();
                 boolean isRealMatch = f.keyword.textStream().allMatch(t1 ->
                         diffTokens.stream().anyMatch(t2 -> t2.text.equals(t1)));
                 if (isRealMatch) {
@@ -252,7 +245,6 @@ public class DiffMatcher implements Callable<Set<Match>> {
                     return null;
                 }
             }).filter(kw -> kw != null).map(kw -> {
-                logger.info("after exact test: {}", kw);
                 // if a candidate passes the equality test, it's a true
                 // match, so we generate a snippet for it and return it
                 int start = d.getStartIndex() - snippetOffset;
@@ -284,10 +276,7 @@ public class DiffMatcher implements Callable<Set<Match>> {
 
         });
 
-//        logger.info("Number of keywords that passed Bloom Filter: {}", keywordCountThatPassedBloomFilter.get());
-
-
-        sw.stop();
+//        sw.stop();
 //        logger.info("Completed difference matching for keywords '{}' in {}",
 //                keywords.toString(), sw.toString());
         return matchedDiffs;

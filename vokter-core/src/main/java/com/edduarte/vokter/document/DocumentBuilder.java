@@ -19,7 +19,6 @@ package com.edduarte.vokter.document;
 import com.edduarte.vokter.persistence.Document;
 import com.edduarte.vokter.persistence.DocumentCollection;
 import com.edduarte.vokter.util.OSGiManager;
-import com.google.common.base.Stopwatch;
 import com.optimaize.langdetect.LanguageDetector;
 import org.apache.commons.io.input.ReaderInputStream;
 import org.slf4j.Logger;
@@ -193,7 +192,7 @@ public final class DocumentBuilder {
      */
     public Document build(LanguageDetector langDetector,
                           Class<? extends Document> documentClass) {
-        Stopwatch sw = Stopwatch.createStarted();
+//        Stopwatch sw = Stopwatch.createStarted();
 
         // step 1) Perform a lazy loading of the document, by obtaining its url,
         // content stream and content type.
@@ -246,9 +245,9 @@ public final class DocumentBuilder {
             return null;
         }
 
-        sw.stop();
-        logger.info("Completed processing document '{}' in {}.",
-                document.getUrl(), sw.toString());
+//        sw.stop();
+//        logger.info("Completed processing document '{}' in {}.",
+//                document.getUrl(), sw.toString());
 
         return document;
     }
