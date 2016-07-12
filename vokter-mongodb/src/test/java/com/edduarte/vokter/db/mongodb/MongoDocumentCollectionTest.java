@@ -84,8 +84,8 @@ public class MongoDocumentCollectionTest {
 
         // testing add
         collection.addNewDocument(url, null, langDetector, false, false);
-        DocumentCollection.Pair pair = collection.get(url, MediaType.TEXT_HTML);
-        assertNotNull(pair);
+        DocumentCollection.Snapshots snapshots = collection.get(url, MediaType.TEXT_HTML);
+        assertNotNull(snapshots);
 
         // testing remove
         collection.remove(url, MediaType.TEXT_HTML);

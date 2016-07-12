@@ -33,7 +33,7 @@ import java.io.InputStream;
  */
 public interface Reader {
 
-    MutableString readDocumentContents(InputStream documentStream) throws IOException;
+    MutableString read(InputStream documentStream) throws IOException;
 
     ImmutableSet<String> getSupportedContentTypes();
 }

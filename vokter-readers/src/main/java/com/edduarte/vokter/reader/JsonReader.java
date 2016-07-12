@@ -48,7 +48,7 @@ public class JsonReader implements com.edduarte.vokter.reader.Reader {
 
 
     @Override
-    public MutableString readDocumentContents(InputStream documentStream) throws IOException {
+    public MutableString read(InputStream documentStream) throws IOException {
         MutableString sb = new MutableString();
         BufferedReader reader = new BufferedReader(new InputStreamReader(documentStream));
         for (int c; (c = reader.read()) != -1; ) {

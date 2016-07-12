@@ -54,7 +54,7 @@ public final class MongoDocumentCollection implements DocumentCollection {
     /**
      * Local and cached map of document IDs (integers) to document objects.
      */
-    private final Cache<Params, Pair> documentsCache;
+    private final Cache<Params, Snapshots> documentsCache;
 
 
     /**
@@ -64,7 +64,7 @@ public final class MongoDocumentCollection implements DocumentCollection {
     public MongoDocumentCollection(DB db) {
         this.db = db.getCollection("documents");
         this.documentsCache = CacheBuilder
-                .newCache(Params.class, Pair.class)
+                .newCache(Params.class, Snapshots.class)
                 .name("documents")
                 .expiryDuration(20, TimeUnit.SECONDS)
                 .maxSize(100)
@@ -147,10 +147,10 @@ public final class MongoDocumentCollection implements DocumentCollection {
      */
     @Override
     public void remove(String url, String contentType) {
-        Pair pair = get(url, contentType);
-        if (pair != null) {
-            MongoDocument d1 = (MongoDocument) pair.oldest();
-            MongoDocument d2 = (MongoDocument) pair.latest();
+        Snapshots snapshots = get(url, contentType);
+        if (snapshots != null) {
+            MongoDocument d1 = (MongoDocument) snapshots.oldest();
+            MongoDocument d2 = (MongoDocument) snapshots.latest();
             db.remove(d1);
             db.remove(d2);
         }
@@ -163,15 +163,15 @@ public final class MongoDocumentCollection implements DocumentCollection {
      * document object, the url and the contentType stored
      */
     @Override
-    public Pair get(String url, String contentType) {
+    public Snapshots get(String url, String contentType) {
         try {
             Params query = Params.of(url, contentType);
             // the 'get' method will look for any documents in the local files or
             // temporary cache whose url is equal to the specified url and whose
             // content type is equal to the specified content type
-            Pair pair = documentsCache.get(query);
-            if (pair != null) {
-                return pair;
+            Snapshots snapshots = documentsCache.get(query);
+            if (snapshots != null) {
+                return snapshots;
             } else {
                 // the 'null' value was unexpectedly added to the cache, so
                 // remove it to avoid further problems and return null
@@ -186,7 +186,7 @@ public final class MongoDocumentCollection implements DocumentCollection {
     }
 
 
-    private Pair getInternal(Params query) {
+    private Snapshots getInternal(Params query) {
         DBCursor dbObjects = db.find(
                 new BasicDBObject(MongoDocument.URL, query.getUrl())
                         .append(MongoDocument.CONTENT_TYPE, query.getContentType())
@@ -210,7 +210,7 @@ public final class MongoDocumentCollection implements DocumentCollection {
                 new MongoDocument((BasicDBObject) oldest) : null;
         MongoDocument latestDoc = latest != null ?
                 new MongoDocument((BasicDBObject) latest) : null;
-        return Pair.of(oldestDoc, latestDoc);
+        return Snapshots.of(oldestDoc, latestDoc);
     }
 
 

@@ -35,7 +35,7 @@ public class MarkupReaderTest {
         InputStream input = getClass().getResourceAsStream("wikipedia.html");
 
         Reader reader = new MarkupReader();
-        MutableString text = reader.readDocumentContents(input);
+        MutableString text = reader.read(input);
 
         assertEquals("Argus Panoptes - Wikipedia, the free encyclopedia   Argus Panoptes\n" +
                 "\n" +
@@ -318,7 +318,7 @@ public class MarkupReaderTest {
         InputStream input = getClass().getResourceAsStream("wikipedia.xml");
 
         Reader reader = new MarkupReader();
-        MutableString text = reader.readDocumentContents(input);
+        MutableString text = reader.read(input);
 
         assertEquals("Wikipedia enwiki http://en.wikipedia.org/wiki/Main_Page MediaWiki 1.25wmf11 \n" +
                         "first-letter Media Special Talk User User talk Wikipedia Wikipedia talk File \n" +

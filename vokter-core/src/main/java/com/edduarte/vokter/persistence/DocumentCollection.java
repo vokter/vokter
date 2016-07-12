@@ -52,37 +52,37 @@ public interface DocumentCollection {
      * Converts the specified document url and content type into a pair of
      * document object, the url and the contentType stored
      */
-    Pair get(String url, String contentType);
+    Snapshots get(String url, String contentType);
 
 
     void invalidateCache();
 
 
-    public static class Pair {
+    public static class Snapshots {
 
-        private final Document mA;
+        private final Document oldest;
 
-        private final Document mB;
+        private final Document newest;
 
 
-        private Pair(Document a, Document b) {
-            this.mA = a;
-            this.mB = b;
+        private Snapshots(Document oldest, Document newest) {
+            this.oldest = oldest;
+            this.newest = newest;
         }
 
 
-        public static Pair of(Document a, Document b) {
-            return new Pair(a, b);
+        public static Snapshots of(Document a, Document b) {
+            return new Snapshots(a, b);
         }
 
 
         public Document oldest() {
-            return this.mA;
+            return this.oldest;
         }
 
 
         public Document latest() {
-            return this.mB;
+            return this.newest;
         }
 
 
@@ -91,18 +91,18 @@ public interface DocumentCollection {
         }
 
 
-        public boolean equals(Object that) {
-            if (!(that instanceof Pair)) {
+        public boolean equals(Object o) {
+            if (!(o instanceof Snapshots)) {
                 return false;
             } else {
-                Pair thatPair = (Pair) that;
-                return this.mA.equals(thatPair.mA) && this.mB.equals(thatPair.mB);
+                Snapshots that = (Snapshots) o;
+                return this.oldest.equals(that.oldest) && this.newest.equals(that.newest);
             }
         }
 
 
         public int hashCode() {
-            return 31 * this.mA.hashCode() + this.mB.hashCode();
+            return 31 * this.oldest.hashCode() + this.newest.hashCode();
         }
     }
 }

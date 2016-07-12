@@ -16,7 +16,7 @@ import java.util.Map;
  */
 public class RAMDocumentCollection implements DocumentCollection {
 
-    private final Map<Params, Pair> m;
+    private final Map<Params, Snapshots> m;
 
 
     public RAMDocumentCollection() {
@@ -39,9 +39,8 @@ public class RAMDocumentCollection implements DocumentCollection {
 
         Document d = builder.build(langDetector, RAMDocument.class);
         if (d != null) {
-            m.put(
-                    Params.of(d.getUrl(), d.getContentType()),
-                    Pair.of(d, d.clone())
+            m.put(Params.of(d.getUrl(), d.getContentType()),
+                    Snapshots.of(d, d.clone())
             );
         }
         return d;
@@ -64,9 +63,8 @@ public class RAMDocumentCollection implements DocumentCollection {
 
         Document d = builder.build(langDetector, RAMDocument.class);
         if (d != null) {
-            m.put(
-                    Params.of(d.getUrl(), d.getContentType()),
-                    Pair.of(oldDocument, d)
+            m.put(Params.of(d.getUrl(), d.getContentType()),
+                    Snapshots.of(oldDocument, d)
             );
         }
         return d;
@@ -80,7 +78,7 @@ public class RAMDocumentCollection implements DocumentCollection {
 
 
     @Override
-    public Pair get(String url, String contentType) {
+    public Snapshots get(String url, String contentType) {
         return m.get(Params.of(url, contentType));
     }
 

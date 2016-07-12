@@ -576,16 +576,16 @@ public class JobManager {
                                      String documentContentType) {
 
         // check if there is a older document in the collection
-        DocumentCollection.Pair pair = documentCollection
+        DocumentCollection.Snapshots snapshots = documentCollection
                 .get(documentUrl, documentContentType);
         boolean wasSuccessful = false;
         boolean hasNewDiffs = false;
 
-        if (pair != null) {
+        if (snapshots != null) {
             // there was already a document for this url on the collection, so
             // detect differences between this and a new snapshot
 
-            Document oldDocument = pair.latest();
+            Document oldDocument = snapshots.latest();
             // remove the oldest document with this url and content type and add
             // the new one to the collection
             Document newDocument = documentCollection.addNewSnapshot(
@@ -702,13 +702,13 @@ public class JobManager {
             return Collections.emptySet();
         }
 
-        DocumentCollection.Pair pair = documentCollection.get(documentUrl, documentContentType);
-        if (pair == null) {
+        DocumentCollection.Snapshots snapshots = documentCollection.get(documentUrl, documentContentType);
+        if (snapshots == null) {
             return Collections.emptySet();
         }
 
-        String oldText = pair.oldest().getText();
-        String newText = pair.latest().getText();
+        String oldText = snapshots.oldest().getText();
+        String newText = snapshots.latest().getText();
         DiffMatcher matcher = new DiffMatcher(
                 oldText, newText,
                 keywords, diffs, parserPool, langDetector,

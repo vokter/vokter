@@ -102,7 +102,7 @@ public class DocumentPipeline implements Callable<Document> {
         Class<? extends Reader> readerClass = OSGiManager
                 .getCompatibleReader(contentType);
         Reader reader = readerClass.newInstance();
-        MutableString content = reader.readDocumentContents(documentStream);
+        MutableString content = reader.read(documentStream);
         reader = null;
         documentStream.close();
         documentStream = null;

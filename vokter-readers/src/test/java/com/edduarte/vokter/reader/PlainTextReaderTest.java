@@ -35,7 +35,7 @@ public class PlainTextReaderTest {
         InputStream input = getClass().getResourceAsStream("wikipedia.txt");
 
         Reader reader = new PlainTextReader();
-        MutableString text = reader.readDocumentContents(input);
+        MutableString text = reader.read(input);
 
         assertEquals("Argus Panoptes\n" +
                         "From Wikipedia, the free encyclopedia\n" +

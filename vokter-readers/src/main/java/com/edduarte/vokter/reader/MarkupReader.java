@@ -51,7 +51,7 @@ public class MarkupReader implements com.edduarte.vokter.reader.Reader, NodeVisi
 
 
     @Override
-    public MutableString readDocumentContents(InputStream documentStream) throws IOException {
+    public MutableString read(InputStream documentStream) throws IOException {
         Document doc = Jsoup.parse(documentStream, null, "");
 
         NodeTraversor traversal = new NodeTraversor(this);
