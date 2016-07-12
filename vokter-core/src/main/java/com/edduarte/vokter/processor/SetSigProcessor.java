@@ -1,7 +1,5 @@
 package com.edduarte.vokter.processor;
 
-import com.edduarte.vokter.processor.Processor;
-
 import java.security.SecureRandom;
 import java.util.ArrayList;
 import java.util.Collection;

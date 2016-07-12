@@ -22,12 +22,12 @@ import com.edduarte.vokter.cleaner.DiacriticCleaner;
 import com.edduarte.vokter.cleaner.NewLineCleaner;
 import com.edduarte.vokter.cleaner.RepeatingSpacesCleaner;
 import com.edduarte.vokter.cleaner.SpecialCharsCleaner;
+import com.edduarte.vokter.hash.HashMethod;
 import com.edduarte.vokter.persistence.Document;
 import com.edduarte.vokter.processor.BandsProcessor;
 import com.edduarte.vokter.processor.KShingler;
 import com.edduarte.vokter.processor.KShinglesSigProcessor;
 import com.edduarte.vokter.reader.Reader;
-import com.edduarte.vokter.similarity.HashProvider.HashMethod;
 import com.edduarte.vokter.stopper.FileStopper;
 import com.edduarte.vokter.stopper.Stopper;
 import com.edduarte.vokter.util.OSGiManager;
@@ -178,16 +178,22 @@ public class DocumentPipeline implements Callable<Document> {
         KShingler kshingler = new KShingler(k, stopper);
         List<String> shingles = kshingler.process(content).call();
 
+        int b = 20;
+        int r = 5;
+        double s = 0.5;
+        int R = (int) Math.ceil(Math.log(1.0 / b) / Math.log(s)) + 1;
+        int signatureSize = R * b;
+
         KShinglesSigProcessor sigProcessor =
-                new KShinglesSigProcessor(HashMethod.Murmur3, 200);
+                new KShinglesSigProcessor(HashMethod.Murmur3, signatureSize);
         int[] sig = sigProcessor.process(shingles).call();
 
-        BandsProcessor bandsProcessor = new BandsProcessor(20, 5);
+        BandsProcessor bandsProcessor = new BandsProcessor(b, r);
         int[] bands = bandsProcessor.process(sig).call();
 
 
         // delete mutable string content from memory
-        String s = content.toString();
+        String text = content.toString();
         content.delete(0, content.length());
         content = null;
 
@@ -202,7 +208,7 @@ public class DocumentPipeline implements Callable<Document> {
                     List.class,
                     int.class,
                     int[].class
-            ).newInstance(url, new Date(), contentType, s, shingles, k, bands);
+            ).newInstance(url, new Date(), contentType, text, shingles, k, bands);
         } catch (ReflectiveOperationException e) {
             logger.error(e.getMessage(), e);
             return null;

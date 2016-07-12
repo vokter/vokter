@@ -15,19 +15,16 @@ At a basic level, Vokter manages a high number of concurrent jobs that fetch web
         * [Timeout](#timeout)
 - [Architecture](#architecture)
     + [Job Management](#job-management)
-        * [Difference Detection](#difference-detection)
-        * [Difference Matching](#difference-matching)
-        * [Clustering](#clustering)
-        * [Scaling](#scaling)
+    + [Scaling](#scaling)
     + [Persistence](#persistence)
     + [Reading](#reading)
     + [Indexing](#indexing)
-    + [Caveats / Future Work](#caveats-future-work)
+- [Caveats / Future Work](#caveats-future-work)
 - [License](#license)
 
-# Usage
+## Usage
 
-## Maven
+### Maven
 ```
 <dependency>
     <groupId>com.edduarte</groupId>
@@ -36,7 +33,7 @@ At a basic level, Vokter manages a high number of concurrent jobs that fetch web
 </dependency>
 ```
 
-## Gradle
+### Gradle
 ```
 dependencies {
     compile 'com.edduarte:vokter-core:1.0.0'
@@ -88,25 +85,8 @@ manager.add(RequestBuilder.add(documentUrl, session, keywords)
                 .withInterval(15, TimeUnit.MINUTE));
 ```
 
-## Usage
 
-<b>Watch for content changes in a document</b>
 
-POST http://localhost:9000/vokter/v1/subscribe  
-Payload:  
-```javascript
-{
-    "documentUrl": "http://www.example.com", // the page to be watched (mandatory field)
-    "clientUrl": "http://your.site/client-rest-api", // the client web service that will receive detected differences (mandatory field)
-    "keywords": // the keywords to watch for (mandatory field)
-    [
-        "argus", // looks for changes with this word (and lexical variants if stemming is enabled)
-        "zeus larissaios" // looks for changes with this exact phrase (both words must be in the change)
-    ],
-    "interval": 600, // the elapsed duration in seconds between page checks (optional field, defaults to 600)
-    "events": ["added", "removed"] // (optional field, included both events by default)
-}
-```
 
 Note that a subscribe request is uniquely identified by both its document URL and its client URL. This means that the same client can subscribe and receive notifications of multiple documents simultaneously, and the same document can be watched by multiple clients.
 
@@ -193,21 +173,15 @@ Vokter is capable of managing a high number of concurrent watch jobs, and is imp
 
 There are two types of jobs, concurrently executed and scheduled periodically (using Quartz Scheduler): difference detection jobs and difference matching jobs.
 
-### Difference Detection
-
 The detection job is responsible for fetching a new document and comparing it with the previous document, detecting textual differences between the two. To do that, the robust DiffMatchPatch algorithm is used.
-
-### Difference Matching
 
 The matching job is responsible for querying the list of detected differences with specific requested keywords.
 
 Harmonization of keywords-to-differences is performed passing the differences through a Bloom filter, to remove differences that do not have the specified keywords, and a character-by-character comparator on the remaining differences, to ensure that the difference contains any of the keywords.
 
-### Clustering
-
 Since the logic of difference retrieval is spread between two jobs, one that is agnostic of requests and one that is specific to the request and its keywords, Vokter reduces workload by scheduling only one difference detection job per watched web-page. For this, jobs are grouped into clusters, where its unique identifier is the document URL. In other words each cluster imperatively contains a single scheduled detection job and one or more matching jobs.
 
-### Scaling
+## Scaling
 
 Vokter was conceived to be able scale and to be future-proof, and to this effect it was implemented to deal with a high number of jobs in terms of batching and persistence.
 
@@ -236,21 +210,19 @@ The string of text that represents the document snapshot that was captured durin
 
 Because different documents can have different languages, which require specialized stemmers and stop-word filters to be used, the language must be obtained. Unlike the Content-Type, which is often provided as a HTTP header when fetching the document, the Accept-Language is not for the most part. Instead, Vokter infers the language from the document content using a language detector algorithm based on Bayesian probabilistic models and N-Grams, developed by Nakatani Shuyo, Fabian Kessler, Francois Roland and Robert Theis.
 
-Stemmer classes and stop-word files, both from the Snowball project, follow the plugin paradigm, similarly to the Reader classes. This means that both can be changed during runtime and Vokter will be updated without requiring a restart. Moreover, like the Reader classes, Stemmer classes are cached for 5 seconds before being invalidated to avoid repeated instancing for consecutive stems of documents with the same language (for example, English).
-
 To ensure a concurrent architecture, where multiple parsing calls should be performed in parallel, Vokter will instance multiple parsers when deployed and store them in a blocking queue. The number of parsers corresponds to the number of cores available in the machine where Vokter was deployed to.
 
-## Caveats / Future Work
+# Caveats / Future Work
 
 Despite every part of its architecture having been optimized to accommodate to a massive amount of parallel tasks, Vokter has only been used in a production environment for academic projects and has yet to be battle-tested in high-usage consumer software. If you're using Vokter in your projects, let me know :)
 
 Additionally, there is some room for improvement:
 
-### Web crawling
+## Web crawling
 
 One way to improve user experience is by integrating web crawling in Reader modules, allowing users to set their visit policy (e.g. number of nested documents accessed). Within the current architecture where there is a unique detection job per document, detection jobs must be organized by link hierarchy order: if job 1 watches A and job 2 watches B, and if A has a link to B, then job 2 can be canceled and job 1 should trigger matchers of 1 and 2, where matchers of 2 only match differences found in document B. This implies a extremely optimized algorithm that has the potential of reducing the total number of simultaneous jobs significantly!
 
-### Fault-tolerance and timeout in matching jobs
+## Fault-tolerance and timeout in matching jobs
 
 Currently only detection jobs can be timed-out after failing to load a new snapshot of the document after a specified number of attempts. However, sending a response to the client can fail too, and currently there is no fault-tolerance implemented for this. If a client fails to receive the data, maybe because the client itself has been shutdown without canceling its jobs from Vokter, then a potential high number of active detection and matching jobs are unnecessary.
 

@@ -1,8 +1,6 @@
 package com.edduarte.vokter.processor;
 
 
-import com.edduarte.vokter.processor.Processor;
-
 import java.util.concurrent.Callable;
 
 /**

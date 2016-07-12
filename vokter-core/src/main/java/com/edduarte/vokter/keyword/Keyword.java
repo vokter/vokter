@@ -16,9 +16,11 @@
 
 package com.edduarte.vokter.keyword;
 
+import com.google.common.collect.ImmutableList;
 import it.unimi.dsi.lang.MutableString;
 
 import java.util.Collection;
+import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
@@ -35,15 +37,14 @@ public final class Keyword {
     private final String originalInput;
 
     /**
-     * The set of texts that compose this search, stored in the same order as
-     * written by the user (linked hash set implementation).
+     * The set of texts that compose this search.
      */
-    private final Collection<MutableString> texts;
+    private final ImmutableList<MutableString> texts;
 
 
     public Keyword(final String originalInput, final Collection<MutableString> texts) {
         this.originalInput = originalInput;
-        this.texts = texts;
+        this.texts = ImmutableList.copyOf(texts);
     }
 
 
@@ -57,6 +58,22 @@ public final class Keyword {
      */
     public Stream<MutableString> textStream() {
         return texts.stream();
+    }
+
+
+    public List<MutableString> texts() {
+        return texts;
+    }
+
+
+    public Stream<KeywordToken> tokenStream() {
+        return texts.parallelStream()
+                .map(t -> new KeywordToken(this, t));
+    }
+
+
+    public int getChildCount() {
+        return texts.size();
     }
 
 
@@ -78,7 +95,53 @@ public final class Keyword {
 
     @Override
     public String toString() {
-        String fullQuery = textStream().collect(Collectors.joining(" "));
-        return fullQuery;
+        return textStream().collect(Collectors.joining(" "));
+    }
+
+
+    public static class KeywordToken {
+
+        private final Keyword parent;
+
+        private final MutableString text;
+
+
+        private KeywordToken(Keyword parent, MutableString text) {
+            this.parent = parent;
+            this.text = text;
+        }
+
+
+        public Keyword getParent() {
+            return parent;
+        }
+
+
+        public MutableString getText() {
+            return text;
+        }
+
+
+        @Override
+        public boolean equals(Object o) {
+            if (this == o) return true;
+            if (o == null || getClass() != o.getClass()) return false;
+
+            KeywordToken that = (KeywordToken) o;
+            return text.equals(that.text);
+
+        }
+
+
+        @Override
+        public int hashCode() {
+            return text.hashCode();
+        }
+
+
+        @Override
+        public String toString() {
+            return "'" + text + "' of parent '" + parent + "'";
+        }
     }
 }

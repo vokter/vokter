@@ -1,12 +1,10 @@
 package com.edduarte.vokter.job;
 
 import com.edduarte.vokter.diff.DiffEvent;
-import com.edduarte.vokter.persistence.Session;
 
 import javax.ws.rs.core.MediaType;
 import java.util.Arrays;
 import java.util.List;
-import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.TimeUnit;
 
 /**
@@ -21,6 +19,7 @@ public class RequestBuilder {
                                          List<String> keywords) {
         return new Add(documentUrl, clientUrl, keywords);
     }
+
 
     public static class Add {
 

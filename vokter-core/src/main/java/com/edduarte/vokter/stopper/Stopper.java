@@ -16,8 +16,6 @@
 
 package com.edduarte.vokter.stopper;
 
-import it.unimi.dsi.lang.MutableString;
-
 /**
  * Loader module that checks if the received textual state of a term corresponds
  * to a stopword.
@@ -26,9 +24,21 @@ import it.unimi.dsi.lang.MutableString;
  * @version 1.3.2
  * @since 1.0.0
  */
-public interface Stopper {
+public interface Stopper extends
+        java.util.function.Predicate<CharSequence>,
+        com.google.common.base.Predicate<CharSequence> {
 
-    boolean isStopword(MutableString termText);
+    @Override
+    default boolean test(CharSequence input) {
+        return isStopword(input);
+    }
+
+    @Override
+    default boolean apply(CharSequence input) {
+        return isStopword(input);
+    }
+
+    boolean isStopword(CharSequence termText);
 
     boolean isEmpty();
 

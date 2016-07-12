@@ -1,7 +1,6 @@
 package com.edduarte.vokter.processor;
 
-import com.edduarte.vokter.processor.Processor;
-import com.edduarte.vokter.similarity.HashProvider.HashMethod;
+import com.edduarte.vokter.hash.HashMethod;
 
 import java.nio.charset.Charset;
 import java.util.Collections;

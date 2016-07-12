@@ -118,7 +118,6 @@ public class DiffMatcherTest {
         );
 
         List<Match> matchList = new ArrayList<>(matcher.call());
-        logger.info(matchList.toString());
         Collections.sort(matchList, (o1, o2) ->
                 o1.getKeyword().getOriginalInput()
                         .compareTo(o2.getKeyword().getOriginalInput()));
@@ -148,7 +147,6 @@ public class DiffMatcherTest {
                         .withStemming()
                         .build(parserPool))
                 .collect(Collectors.toList());
-        logger.info(keywords.toString());
 
         List<Diff> diffs = Lists.newArrayList(
                 new RAMDiff(deleted, "0 52", 463),

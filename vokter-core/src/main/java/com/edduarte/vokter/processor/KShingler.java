@@ -1,6 +1,5 @@
 package com.edduarte.vokter.processor;
 
-import com.edduarte.vokter.processor.Processor;
 import com.edduarte.vokter.stopper.Stopper;
 import it.unimi.dsi.lang.MutableString;
 

@@ -7,7 +7,7 @@ import org.slf4j.LoggerFactory;
 
 import java.io.IOException;
 
-import static com.edduarte.vokter.similarity.HashProvider.HashMethod.Murmur3;
+import static com.edduarte.vokter.hash.HashMethod.Murmur3;
 import static org.junit.Assert.assertEquals;
 
 /**

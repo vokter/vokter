@@ -183,32 +183,6 @@ public class JobManager {
     }
 
 
-    public JobManager register(DocumentCollection documentCollection) {
-        this.documentCollection = documentCollection;
-        return this;
-    }
-
-
-    public JobManager register(DiffCollection diffCollection) {
-        this.diffCollection = diffCollection;
-        return this;
-    }
-
-
-    public JobManager register(SessionCollection sessionCollection) {
-        this.sessionCollection = sessionCollection;
-        return this;
-    }
-
-
-    public JobManager listener(JobManagerListener listener) {
-        if (listener != null) {
-            this.handlers.add(listener);
-        }
-        return this;
-    }
-
-
     public static JobManager get(final String managerName) {
         return activeManagers.get(managerName);
     }
@@ -270,6 +244,32 @@ public class JobManager {
                 matchJobName(clientUrl, clientContentType),
                 matchJobGroup(documentUrl, documentContentType)
         );
+    }
+
+
+    public JobManager register(DocumentCollection documentCollection) {
+        this.documentCollection = documentCollection;
+        return this;
+    }
+
+
+    public JobManager register(DiffCollection diffCollection) {
+        this.diffCollection = diffCollection;
+        return this;
+    }
+
+
+    public JobManager register(SessionCollection sessionCollection) {
+        this.sessionCollection = sessionCollection;
+        return this;
+    }
+
+
+    public JobManager listener(JobManagerListener listener) {
+        if (listener != null) {
+            this.handlers.add(listener);
+        }
+        return this;
     }
 
 
@@ -766,18 +766,18 @@ public class JobManager {
 
 
     final List<Boolean> sendTimeoutToClient(String documentUrl, String documentContentType,
-                                      String clientUrl, String clientContentType, String clientToken) {
+                                            String clientUrl, String clientContentType, String clientToken) {
         Session session = sessionCollection
                 .validateToken(clientUrl, clientContentType, clientToken);
         return handlers.parallelStream()
-                .map(l-> l.onTimeout(documentUrl, documentContentType, session))
+                .map(l -> l.onTimeout(documentUrl, documentContentType, session))
                 .collect(Collectors.toList());
     }
 
 
     final List<Boolean> sendNotificationToClient(String documentUrl, String documentContentType,
-                                           String clientUrl, String clientContentType, String clientToken,
-                                           Set<Match> results) {
+                                                 String clientUrl, String clientContentType, String clientToken,
+                                                 Set<Match> results) {
         Session session = sessionCollection
                 .validateToken(clientUrl, clientContentType, clientToken);
         return handlers.parallelStream()

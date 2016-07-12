@@ -150,8 +150,8 @@ public final class KeywordBuilder {
             return null;
         }
 
-        logger.info("Completed building keywords '{}' in {}",
-                keywordInput, sw.toString());
+//        logger.info("Completed building keywords '{}' in {}",
+//                keywordInput, sw.toString());
         return keyword;
     }
 }

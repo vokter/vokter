@@ -19,7 +19,6 @@ package com.edduarte.vokter.stopper;
 import com.edduarte.vokter.Constants;
 import com.edduarte.vokter.parser.Parser;
 import com.edduarte.vokter.parser.SimpleParser;
-import com.google.common.collect.ImmutableSet;
 import it.unimi.dsi.lang.MutableString;
 import org.apache.commons.io.IOUtils;
 import org.slf4j.Logger;
@@ -51,7 +50,7 @@ public class FileStopper implements Stopper {
 
     private static final Logger logger = LoggerFactory.getLogger(FileStopper.class);
 
-    private Set<MutableString> stopwords;
+    private Set<CharSequence> stopwords;
 
 
     public FileStopper(String language) {
@@ -68,7 +67,7 @@ public class FileStopper implements Stopper {
             try (InputStream is = new FileInputStream(stopwordsFile);
                  Parser parser = new SimpleParser()) {
 
-                Set<MutableString> stopwordsAux = new HashSet<>();
+                Set<CharSequence> stopwordsAux = new HashSet<>();
                 List<String> lines = IOUtils.readLines(is);
                 lines.forEach(line -> {
                     line = line.trim().toLowerCase();
@@ -116,7 +115,7 @@ public class FileStopper implements Stopper {
 
 
     @Override
-    public boolean isStopword(MutableString occurrenceText) {
+    public boolean isStopword(CharSequence occurrenceText) {
         return stopwords.contains(occurrenceText);
     }
 

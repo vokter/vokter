@@ -1,6 +1,6 @@
 package com.edduarte.vokter.similarity;
 
-import com.edduarte.vokter.similarity.HashProvider.HashMethod;
+import com.edduarte.vokter.hash.HashMethod;
 
 /**
  * @author Eduardo Duarte (<a href="mailto:hello@edduarte.com">hello@edduarte.com</a>)

@@ -40,7 +40,11 @@ import org.slf4j.LoggerFactory;
 import java.util.List;
 import java.util.Set;
 import java.util.concurrent.Callable;
+import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.Collectors;
+
+import static com.edduarte.vokter.diff.DiffEvent.deleted;
+import static com.edduarte.vokter.diff.DiffEvent.inserted;
 
 /**
  * @author Eduardo Duarte (<a href="mailto:hello@edduarte.com">hello@edduarte.com</a>)
@@ -110,13 +114,25 @@ public class DiffMatcher implements Callable<Set<Match>> {
 
         Set<Match> matchedDiffs = new ConcurrentHashSet<>();
 
+        List<KeywordFilter> filters = keywords.parallelStream().unordered()
+                .map(kw -> {
+                    List<MutableString> tokens = kw.texts();
+                    BloomFilter<MutableString> bloomFilter = BloomFilter.create(
+                            (from, into) -> into.putUnencodedChars(from),
+                            tokens.size()
+                    );
+                    tokens.parallelStream().forEach(bloomFilter::put);
+                    return new KeywordFilter(kw, bloomFilter);
+                }).collect(Collectors.toList());
+
+        AtomicInteger keywordCountThatPassedBloomFilter = new AtomicInteger();
 
         // infers the document language
         String languageCodeAux = "en";
         if (langDetector != null) {
             TextObjectFactory textObjectFactory =
                     CommonTextObjectFactories.forDetectingOnLargeText();
-            TextObject textObject = textObjectFactory.forText(oldText + newText);
+            TextObject textObject = textObjectFactory.forText(oldText + " " + newText);
             Optional<LdLocale> lang = langDetector.detect(textObject);
             languageCodeAux = lang.isPresent() ? lang.get().getLanguage() : "en";
         }
@@ -125,10 +141,8 @@ public class DiffMatcher implements Callable<Set<Match>> {
 
         diffs.parallelStream()
                 .unordered()
-                .filter(d -> !(ignoreAdded && d.getEvent()
-                        .equals(DiffEvent.inserted)))
-                .filter(d -> !(ignoreRemoved && d.getEvent()
-                        .equals(DiffEvent.deleted))).forEach(d -> {
+                .filter(d -> !(ignoreAdded && d.getEvent().equals(inserted)))
+                .filter(d -> !(ignoreRemoved && d.getEvent().equals(deleted))).forEach(d -> {
             String s = d.getText();
 
 
@@ -180,7 +194,7 @@ public class DiffMatcher implements Callable<Set<Match>> {
             }
 
 
-            List<Parser.Result> parserResults = parser.parse(
+            List<Parser.Result> diffTokens = parser.parse(
                     new MutableString(s),
                     stopper,
                     stemmer,
@@ -207,75 +221,89 @@ public class DiffMatcher implements Callable<Set<Match>> {
 //            }
 
 
-            List<MutableString> tokens = parserResults.parallelStream()
-                    .map(t -> t.text)
-                    .collect(Collectors.toList());
-
-
-            BloomFilter<MutableString> bloomFilter = BloomFilter.create(
-                    (from, into) -> into.putUnencodedChars(from),
-                    tokens.size()
-            );
-
-
-            // put all of the individual words in the difference text on the
-            // bloom filter
-            tokens.forEach(bloomFilter::put);
-
-
-            // use the BloomFilter to check if AT LEAST ONE of the keywords has
-            // ALL of its words contained in the diff text, even if they come in
-            // different order
-            keywords.parallelStream()
-                    .unordered()
-                    // check if all of the words in the keyword exist in the
-                    // bloom filter. If at least one of the words in the keyword
-                    // is said by the BloomFilter to not exist (guaranteed), we
-                    // skip this keyword
-                    .filter(kw -> kw.textStream()
-                            .allMatch(bloomFilter::mightContain))
-                    // if the keyword passes the bloom filter testing,
-                    // we test with more certainty if the candidate keyword
-                    // actually matches any of the difference tokens, using
-                    // String.equals() this time
-                    .filter((kw) -> kw.textStream().allMatch(kwText ->
-                            tokens.stream().anyMatch(kwText::equals)))
-                    .map((kw) -> {
-                        // if a candidate passes the equality test, it's a true
-                        // match, so we generate a snippet for it and return it
-                        int start = d.getStartIndex() - snippetOffset;
-                        if (start < 0) {
-                            start = 0;
+            // Matching logic:
+            // Each keyword object contains a set of texts that must ALL exist
+            // in this difference text, even if they appear in different order
+            // (phrasal query). In other words, for the diff text "The quick
+            // brown fox jumps over the lazy dog" the keywords "fox", "brown
+            // fox" and "fox brown" should match, but the keyword "cat" should
+            // NOT match!
+            // Optimization: use the BloomFilters to check if at least one of
+            // the keywords has all of its words contained in the diff text
+            // before checking exact equality
+            //
+            filters.parallelStream().map(f -> {
+                logger.info("testing: {}", f.keyword);
+                boolean isCandidateMatch = diffTokens.parallelStream()
+                        .anyMatch(t -> f.bloomFilter.mightContain(t.text));
+                if (isCandidateMatch) {
+                    return f;
+                } else {
+                    return null;
+                }
+            }).filter(f -> f != null).map(f -> {
+                logger.info("after bloom filter: {}", f.keyword);
+                keywordCountThatPassedBloomFilter.incrementAndGet();
+                boolean isRealMatch = f.keyword.textStream().allMatch(t1 ->
+                        diffTokens.stream().anyMatch(t2 -> t2.text.equals(t1)));
+                if (isRealMatch) {
+                    return f.keyword;
+                } else {
+                    return null;
+                }
+            }).filter(kw -> kw != null).map(kw -> {
+                logger.info("after exact test: {}", kw);
+                // if a candidate passes the equality test, it's a true
+                // match, so we generate a snippet for it and return it
+                int start = d.getStartIndex() - snippetOffset;
+                if (start < 0) {
+                    start = 0;
+                }
+                int end = d.getEndIndex() + snippetOffset;
+                switch (d.getEvent()) {
+                    case inserted: {
+                        if (end > newText.length()) {
+                            end = newText.length();
                         }
-                        int end = d.getEndIndex() + snippetOffset;
-                        switch (d.getEvent()) {
-                            case inserted: {
-                                if (end > newText.length()) {
-                                    end = newText.length();
-                                }
-                                String snippet = newText.substring(start, end);
-                                return new Match(d.getEvent(), kw, s, snippet);
-                            }
+                        String snippet = newText.substring(start, end);
+                        return new Match(d.getEvent(), kw, s, snippet);
+                    }
 
-                            case deleted: {
-                                if (end > oldText.length()) {
-                                    end = oldText.length();
-                                }
-                                String snippet = oldText.substring(start, end);
-                                return new Match(d.getEvent(), kw, s, snippet);
-                            }
+                    case deleted: {
+                        if (end > oldText.length()) {
+                            end = oldText.length();
                         }
-                        // should not occur
-                        return null;
-                    })
-                    .filter(diff -> diff != null)
-                    .forEach(matchedDiffs::add);
+                        String snippet = oldText.substring(start, end);
+                        return new Match(d.getEvent(), kw, s, snippet);
+                    }
+                }
+                // should not occur
+                return null;
+
+            }).filter(diff -> diff != null).forEach(matchedDiffs::add);
+
         });
+
+//        logger.info("Number of keywords that passed Bloom Filter: {}", keywordCountThatPassedBloomFilter.get());
 
 
         sw.stop();
-        logger.info("Completed difference matching for keywords '{}' in {}",
-                keywords.toString(), sw.toString());
+//        logger.info("Completed difference matching for keywords '{}' in {}",
+//                keywords.toString(), sw.toString());
         return matchedDiffs;
+    }
+
+    private static class KeywordFilter {
+
+        private final Keyword keyword;
+
+        private final BloomFilter<MutableString> bloomFilter;
+
+
+        private KeywordFilter(Keyword keyword,
+                              BloomFilter<MutableString> bloomFilter) {
+            this.keyword = keyword;
+            this.bloomFilter = bloomFilter;
+        }
     }
 }

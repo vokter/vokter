@@ -124,5 +124,14 @@ public class DiffDetector implements Callable<List<DiffDetector.Result>> {
         public int getStartIndex() {
             return startIndex;
         }
+
+
+        @Override
+        public String toString() {
+            return "Result{" +
+                    "event=" + event +
+                    ", text='" + text +
+                    "\'}";
+        }
     }
 }
