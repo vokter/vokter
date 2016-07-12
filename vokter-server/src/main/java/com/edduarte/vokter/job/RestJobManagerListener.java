@@ -17,6 +17,7 @@
 package com.edduarte.vokter.job;
 
 import com.edduarte.vokter.diff.Match;
+import com.edduarte.vokter.persistence.HttpSession;
 import com.edduarte.vokter.persistence.Session;
 import com.edduarte.vokter.rest.model.Notification;
 
@@ -36,14 +37,14 @@ public class RestJobManagerListener implements JobManagerListener {
     @Override
     public boolean onNotification(String documentUrl, String documentContentType,
                                   Session session, Set<Match> diffs) {
-
+        HttpSession httpSession = (HttpSession) session;
         Response response = ClientBuilder.newClient()
-                .target(session.getClientUrl())
-                .request(session.getClientContentType())
+                .target(httpSession.getUrl())
+                .request(httpSession.getContentType())
                 .header("Authorization", session.getToken())
                 .post(Entity.entity(
                         Notification.ok(documentUrl, documentContentType, diffs),
-                        session.getClientContentType()
+                        httpSession.getContentType()
                 ));
 
         return response.getStatus() == 200;
@@ -53,13 +54,14 @@ public class RestJobManagerListener implements JobManagerListener {
     @Override
     public boolean onTimeout(String documentUrl, String documentContentType,
                              Session session) {
+        HttpSession httpSession = (HttpSession) session;
         Response response = ClientBuilder.newClient()
-                .target(session.getClientUrl())
-                .request(session.getClientContentType())
+                .target(httpSession.getUrl())
+                .request(httpSession.getContentType())
                 .header("Authorization", session.getToken())
                 .post(Entity.entity(
                         Notification.timeout(documentUrl, documentContentType),
-                        session.getClientContentType()
+                        httpSession.getContentType()
                 ));
 
         return response.getStatus() == 200;

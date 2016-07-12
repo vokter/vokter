@@ -6,14 +6,13 @@ import com.edduarte.vokter.job.RestJobManagerListener;
 import com.edduarte.vokter.parser.Parser;
 import com.edduarte.vokter.parser.ParserPool;
 import com.edduarte.vokter.parser.SimpleParser;
-import com.edduarte.vokter.persistence.DiffCollection;
-import com.edduarte.vokter.persistence.DocumentCollection;
 import com.edduarte.vokter.persistence.SessionCollection;
+import com.edduarte.vokter.persistence.mongodb.HttpMongoSessionCollection;
 import com.edduarte.vokter.persistence.mongodb.MongoDiffCollection;
 import com.edduarte.vokter.persistence.mongodb.MongoDocumentCollection;
 import com.edduarte.vokter.persistence.mongodb.MongoSessionCollection;
 import com.edduarte.vokter.rest.resources.CORSFilter;
-import com.edduarte.vokter.rest.resources.v2.RestResource;
+import com.edduarte.vokter.rest.resources.v1.RestResource;
 import com.edduarte.vokter.swagger.SwaggerBundle;
 import com.mongodb.DB;
 import com.mongodb.MongoClient;
@@ -146,7 +145,7 @@ public class VokterApplication extends Application<ServerConfiguration> {
 
         // the collection instance that will contain session / token
         // persistence data
-        SessionCollection sessionCollection = new MongoSessionCollection(db);
+        SessionCollection sessionCollection = new HttpMongoSessionCollection(db);
 
         for (int i = 1; i < Constants.MAX_THREADS; i++) {
             Parser p = new SimpleParser();
@@ -192,7 +191,5 @@ public class VokterApplication extends Application<ServerConfiguration> {
                 .register(new CORSFilter());
         environment.jersey()
                 .register(new RestResource(jobManager, sessionCollection));
-        environment.jersey()
-                .register(new com.edduarte.vokter.rest.resources.v1.RestResource(jobManager));
     }
 }

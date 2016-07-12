@@ -52,67 +52,66 @@ public class SimpleParser implements Parser {
                               final Stopper stopper,
                               final Stemmer stemmer,
                               final boolean ignoreCase) {
-        List<Result> retrievedTokens = new ArrayList<>();
+        List<Result> r = new ArrayList<>();
 
         boolean loop = true;
-        int startIndex = 0, count = 0, endIndex;
+        int start = 0, count = 0, end;
         do {
-            endIndex = text.indexOf(separator, startIndex);
+            end = text.indexOf(separator, start);
 
-            if (endIndex < 0) {
+            if (end < 0) {
                 // is the last word, add it as a token and stop the loop
-                endIndex = text.length();
+                end = text.length();
                 loop = false;
             }
 
-            if (startIndex == endIndex) {
+            if (start == end) {
                 // is empty or the first character in the text is a space, so
                 // skip it
-                startIndex++;
+                start++;
                 continue;
             }
 
-            final MutableString termText = text.substring(startIndex, endIndex);
+            final MutableString token = text.substring(start, end);
 
             // clean trailing spaces
-            termText.trim();
-
-            if (ignoreCase) {
-                termText.toLowerCase();
-            }
+//            token.trim();
 
             // if after trimming the string is empty, then there
             // is no valuable token to collect
-            if (termText.isEmpty()) {
-                startIndex = endIndex + 1;
+            if (token.length() == 0) {
+                start = end + 1;
                 continue;
+            }
+
+            if (ignoreCase) {
+                token.toLowerCase();
             }
 
             // checks if the text is a stopword
             // if true, do not stem it nor add it to the ParserResult list
             boolean isStopword = false;
             if (stopper != null) {
-                MutableString textToTest = termText;
+                MutableString test = token;
                 if (!ignoreCase) {
-                    textToTest = textToTest.copy().toLowerCase();
+                    test = test.copy().toLowerCase();
                 }
-                isStopword = stopper.isStopword(textToTest);
+                isStopword = stopper.isStopword(test);
             }
             if (!isStopword) {
 
                 // stems the term text
                 if (stemmer != null) {
-                    stemmer.stem(termText);
+                    stemmer.stem(token);
                 }
 
-                retrievedTokens.add(
-                        new Result(count++, startIndex, endIndex, termText));
+                r.add(new Result(count++, start, end, token));
             }
 
-            startIndex = endIndex + 1;
+            start = end + 1;
         } while (loop);
 
-        return retrievedTokens;
+        return r;
     }
 
 

@@ -16,13 +16,19 @@
 
 package com.edduarte.vokter.rest.model.v1;
 
+import com.edduarte.vokter.diff.DiffEvent;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.annotation.JsonProperty;
 
 import javax.ws.rs.core.MediaType;
 import java.io.Serializable;
+import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
+
+import static com.edduarte.vokter.diff.DiffEvent.deleted;
+import static com.edduarte.vokter.diff.DiffEvent.inserted;
 
 /**
  * Model class of a JSON request for page watching.
@@ -50,17 +56,6 @@ public class AddRequest implements Serializable {
     @JsonProperty
     private String clientContentType;
 
-    /**
-     * Deprecated and replaced by 'clientUrl'. This attribute was kept for
-     * backwards-compatibility purposes, since this is only used if the
-     * subscribe request was sent using 'receiverUrl' and NOT 'clientUrl' (as
-     * documented in versions earlier than 1.3.3). For versions 1.3.3 and
-     * upwards, this field is not mandatory unless the clientUrl field is empty.
-     */
-    @Deprecated
-    @JsonProperty
-    private String receiverUrl;
-
     @JsonProperty(required = true)
     private List<String> keywords;
 
@@ -75,21 +70,13 @@ public class AddRequest implements Serializable {
      * receive differences at a 70 second interval, economizing detection calls
      * (instead of duplicating them) and discovering potential differences at a
      * faster pace.
-     * <p>
-     * For versions of Vokter below 2.0.0, diff-detection and diff-matching jobs
-     * would have independent intervals. This means that detection jobs needed
-     * to use an internal interval (420 seconds), and if matching jobs were
-     * configured to run more frequently than that interval, it would look for
-     * matches on the same detected differences two times or more.
      */
     @JsonProperty
     private int interval;
 
     @JsonProperty
-    private boolean ignoreAdded;
-
-    @JsonProperty
-    private boolean ignoreRemoved;
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    private List<DiffEvent> events;
 
     @JsonProperty
     private boolean filterStopwords;
@@ -109,8 +96,7 @@ public class AddRequest implements Serializable {
         this.documentContentType = MediaType.TEXT_HTML;
         this.clientContentType = MediaType.APPLICATION_JSON;
         this.interval = 600;
-        this.ignoreAdded = false;
-        this.ignoreRemoved = false;
+        this.events = Arrays.asList(inserted, deleted);
         this.filterStopwords = true;
         this.enableStemming = true;
         this.ignoreCase = true;
@@ -125,39 +111,15 @@ public class AddRequest implements Serializable {
                       final String clientUrl,
                       final List<String> keywords,
                       final int interval) {
-        this();
         this.documentUrl = documentUrl;
         this.clientUrl = clientUrl;
         this.keywords = keywords;
         this.interval = interval;
+        this.filterStopwords = true;
+        this.enableStemming = true;
+        this.ignoreCase = true;
+        this.snippetOffset = 50;
     }
-
-
-//    public AddRequest(final String documentUrl,
-//                      final String documentContentType,
-//                      final String clientUrl,
-//                      final String clientContentType,
-//                      final List<String> keywords,
-//                      final int interval,
-//                      final boolean ignoreAdded,
-//                      final boolean ignoreRemoved,
-//                      boolean filterStopwords,
-//                      boolean enableStemming,
-//                      boolean ignoreCase,
-//                      int snippetOffset) {
-//        this.documentUrl = documentUrl;
-//        this.documentContentType = documentContentType;
-//        this.clientUrl = clientUrl;
-//        this.clientContentType = clientContentType;
-//        this.keywords = keywords;
-//        this.interval = interval;
-//        this.ignoreAdded = ignoreAdded;
-//        this.ignoreRemoved = ignoreRemoved;
-//        this.filterStopwords = filterStopwords;
-//        this.enableStemming = enableStemming;
-//        this.ignoreCase = ignoreCase;
-//        this.snippetOffset = snippetOffset;
-//    }
 
 
     public String getDocumentUrl() {
@@ -171,7 +133,7 @@ public class AddRequest implements Serializable {
 
 
     public String getClientUrl() {
-        return clientUrl != null ? clientUrl : receiverUrl;
+        return clientUrl;
     }
 
 
@@ -190,13 +152,13 @@ public class AddRequest implements Serializable {
     }
 
 
-    public boolean getIgnoreAdded() {
-        return ignoreAdded;
+    public List<DiffEvent> getEvents() {
+        return events;
     }
 
 
-    public boolean getIgnoreRemoved() {
-        return ignoreRemoved;
+    public int getSnippetOffset() {
+        return snippetOffset;
     }
 
 
@@ -212,10 +174,5 @@ public class AddRequest implements Serializable {
 
     public boolean ignoreCase() {
         return ignoreCase;
-    }
-
-
-    public int getSnippetOffset() {
-        return snippetOffset;
     }
 }

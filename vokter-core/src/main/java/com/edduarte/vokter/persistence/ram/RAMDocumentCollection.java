@@ -16,11 +16,11 @@ import java.util.Map;
  */
 public class RAMDocumentCollection implements DocumentCollection {
 
-    private final Map<Params, Pair> documents;
+    private final Map<Params, Pair> m;
 
 
     public RAMDocumentCollection() {
-        this.documents = new HashMap<>();
+        this.m = new HashMap<>();
     }
 
 
@@ -39,7 +39,7 @@ public class RAMDocumentCollection implements DocumentCollection {
 
         Document d = builder.build(langDetector, RAMDocument.class);
         if (d != null) {
-            documents.put(
+            m.put(
                     Params.of(d.getUrl(), d.getContentType()),
                     Pair.of(d, d.clone())
             );
@@ -64,7 +64,7 @@ public class RAMDocumentCollection implements DocumentCollection {
 
         Document d = builder.build(langDetector, RAMDocument.class);
         if (d != null) {
-            documents.put(
+            m.put(
                     Params.of(d.getUrl(), d.getContentType()),
                     Pair.of(oldDocument, d)
             );
@@ -75,18 +75,17 @@ public class RAMDocumentCollection implements DocumentCollection {
 
     @Override
     public void remove(String url, String contentType) {
-        documents.remove(Params.of(url, contentType));
+        m.remove(Params.of(url, contentType));
     }
 
 
     @Override
     public Pair get(String url, String contentType) {
-        return documents.get(Params.of(url, contentType));
+        return m.get(Params.of(url, contentType));
     }
 
 
     @Override
-    public void destroy() {
-        documents.clear();
+    public void invalidateCache() {
     }
 }

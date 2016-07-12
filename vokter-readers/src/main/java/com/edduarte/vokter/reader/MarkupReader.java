@@ -52,14 +52,13 @@ public class MarkupReader implements com.edduarte.vokter.reader.Reader, NodeVisi
 
     @Override
     public MutableString readDocumentContents(InputStream documentStream) throws IOException {
-        accumulator.delete(0, accumulator.length());
-
         Document doc = Jsoup.parse(documentStream, null, "");
 
         NodeTraversor traversal = new NodeTraversor(this);
         traversal.traverse(doc);
 
         String plainText = accumulator.toString();
+        accumulator.delete(0, accumulator.length());
         plainText = plainText.replaceAll("<.*?>", "");
 
         return new MutableString(plainText);

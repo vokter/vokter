@@ -50,9 +50,7 @@ public class DiffMatcherJob implements InterruptableJob {
 
     public static final String DOCUMENT_CONTENT_TYPE = "document_content_type";
 
-    public static final String CLIENT_URL = "client_url";
-
-    public static final String CLIENT_CONTENT_TYPE = "client_content_type";
+    public static final String CLIENT_ID = "client_id";
 
     public static final String CLIENT_TOKEN = "client_token";
 
@@ -86,8 +84,7 @@ public class DiffMatcherJob implements InterruptableJob {
 
         String documentUrl = dataMap.getString(DOCUMENT_URL);
         String documentContentType = dataMap.getString(DOCUMENT_CONTENT_TYPE);
-        String clientUrl = dataMap.getString(CLIENT_URL);
-        String clientContentType = dataMap.getString(CLIENT_CONTENT_TYPE);
+        String clientId = dataMap.getString(CLIENT_ID);
         String clientToken = dataMap.getString(CLIENT_TOKEN);
 
         boolean hasNewDifferences = dataMap.getBoolean(HAS_NEW_DIFFS);
@@ -124,7 +121,7 @@ public class DiffMatcherJob implements InterruptableJob {
             if (!results.isEmpty()) {
                 List<Boolean> wasSuccessful = manager.sendNotificationToClient(
                         documentUrl, documentContentType,
-                        clientUrl, clientContentType, clientToken,
+                        clientId, clientToken,
                         results
                 );
                 // TODO: Add fault tolerance so that, if failed 10 times,

@@ -13,17 +13,14 @@ import java.io.Serializable;
 public class MongoSession extends BasicDBObject
         implements Session, Serializable {
 
-    public static final String CLIENT_URL = "url";
-
-    public static final String CLIENT_CONTENT_TYPE = "content_type";
+    public static final String ID = "id";
 
     public static final String TOKEN = "token";
 
 
-    public MongoSession(String clientUrl, String clientContentType, String token) {
+    public MongoSession(String id, String token) {
         super();
-        append(CLIENT_URL, clientUrl);
-        append(CLIENT_CONTENT_TYPE, clientContentType);
+        append(ID, id);
         append(TOKEN, token);
     }
 
@@ -33,16 +30,13 @@ public class MongoSession extends BasicDBObject
     }
 
 
-    public String getClientUrl() {
-        return getString(CLIENT_URL);
+    @Override
+    public String getId() {
+        return getString(ID);
     }
 
 
-    public String getClientContentType() {
-        return getString(CLIENT_CONTENT_TYPE);
-    }
-
-
+    @Override
     public String getToken() {
         return getString(TOKEN);
     }
@@ -55,16 +49,14 @@ public class MongoSession extends BasicDBObject
         if (!super.equals(o)) return false;
 
         MongoSession that = (MongoSession) o;
-        return this.getClientUrl().equals(that.getClientUrl()) &&
-                this.getClientContentType().equals(that.getClientContentType()) &&
+        return this.getId().equals(that.getId()) &&
                 this.getToken().equals(that.getToken());
     }
 
 
     @Override
     public int hashCode() {
-        return getClientUrl().hashCode() *
-                getClientContentType().hashCode() *
+        return getId().hashCode() *
                 getToken().hashCode();
     }
 }

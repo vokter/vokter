@@ -34,7 +34,7 @@
             <param-value>
                 io.swagger.jaxrs.listing,
                 com.fasterxml.jackson.jaxrs,
-                com.edduarte.vokter.rest.resources.v2
+                com.edduarte.vokter.rest.resources.v1
             </param-value>
         </init-param>
         <init-param>

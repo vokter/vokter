@@ -100,7 +100,7 @@ public class RestJobManagerListenerTest {
 
     @AfterClass
     public static void close() {
-        documentCollection.destroy();
+        documentCollection.invalidateCache();
         jobsDB.dropDatabase();
         db.dropDatabase();
         parserPool.clear();
@@ -124,11 +124,12 @@ public class RestJobManagerListenerTest {
                 .register(sessionCollection)
                 .initialize();
 
-        Session createdSession = manager.add(RequestBuilder
-                .add("http://example.com", "https://www.google.com",
+        String clientId1 = Session
+                .idFromUrl("https://www.google.com", MediaType.APPLICATION_JSON);
+        Session createdSession = manager.add(Request
+                .add("http://example.com", clientId1,
                         Arrays.asList("the greek", "argus panoptes"))
                 .withDocumentContentType(MediaType.TEXT_PLAIN)
-                .withClientContentType(MediaType.APPLICATION_JSON)
                 .withInterval(7));
         assertNotNull(createdSession);
         // jobs run every 5 seconds, so force the test to wait 15 seconds to
@@ -145,18 +146,18 @@ public class RestJobManagerListenerTest {
         // stored, which leads to matching for the same job happening twice,
         // which leads to notifying the client twice
 
-        createdSession = manager.add(RequestBuilder
-                .add("http://example.com", "https://www.google.com",
+        createdSession = manager.add(Request
+                .add("http://example.com", clientId1,
                         Collections.singletonList("argus"))
                 .withDocumentContentType(MediaType.TEXT_PLAIN)
-                .withClientContentType(MediaType.APPLICATION_JSON)
                 .withInterval(12));
         assertNull(createdSession);
-        createdSession = manager.add(RequestBuilder
-                .add("http://example.com", "https://www.google.pt",
+        String clientId2 = Session
+                .idFromUrl("https://www.google.pt", MediaType.APPLICATION_JSON);
+        createdSession = manager.add(Request
+                .add("http://example.com", clientId2,
                         Collections.singletonList("greek"))
                 .withDocumentContentType(MediaType.TEXT_PLAIN)
-                .withClientContentType(MediaType.APPLICATION_JSON)
                 .withInterval(19));
         assertNotNull(createdSession);
         // wait 20 seconds to ensure that the second job (every 19 seconds)
@@ -172,23 +173,20 @@ public class RestJobManagerListenerTest {
         manager.cancel(
                 "http://example.com",
                 MediaType.TEXT_PLAIN,
-                "https://www.google.com",
-                MediaType.APPLICATION_JSON
+                clientId1
         );
         manager.cancel(
                 "http://example.com",
                 MediaType.TEXT_PLAIN,
-                "https://www.google.pt",
-                MediaType.APPLICATION_JSON
+                clientId2
         );
         // wait 5 seconds to ensure that the 2 existing jobs were canceled
         Thread.sleep(5000);
 
-        createdSession = manager.add(RequestBuilder
-                .add("http://example.com", "https://www.google.com",
+        createdSession = manager.add(Request
+                .add("http://example.com", clientId1,
                         Arrays.asList("the greek", "argus panoptes"))
                 .withDocumentContentType(MediaType.TEXT_PLAIN)
-                .withClientContentType(MediaType.APPLICATION_JSON)
                 .withInterval(5));
         assertNotNull(createdSession);
         // wait 15 seconds to ensure that the new existing jobs is performed and

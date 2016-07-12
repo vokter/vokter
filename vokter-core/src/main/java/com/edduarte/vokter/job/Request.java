@@ -12,11 +12,11 @@ import java.util.concurrent.TimeUnit;
  * @version 1.0.0
  * @since 1.0.0
  */
-public class RequestBuilder {
+public class Request {
 
-    public static RequestBuilder.Add add(String documentUrl,
-                                         String clientUrl,
-                                         List<String> keywords) {
+    public static Request.Add add(String documentUrl,
+                                  String clientUrl,
+                                  List<String> keywords) {
         return new Add(documentUrl, clientUrl, keywords);
     }
 
@@ -25,13 +25,11 @@ public class RequestBuilder {
 
         final String documentUrl;
 
-        final String clientUrl;
+        final String clientId;
 
         final List<String> keywords;
 
         String documentContentType = MediaType.TEXT_HTML;
-
-        String clientContentType = MediaType.APPLICATION_JSON;
 
         List<DiffEvent> events = Arrays.asList(DiffEvent.inserted, DiffEvent.deleted);
 
@@ -46,21 +44,15 @@ public class RequestBuilder {
         int interval = 600;
 
 
-        public Add(String documentUrl, String clientUrl, List<String> keywords) {
+        public Add(String documentUrl, String clientId, List<String> keywords) {
             this.documentUrl = documentUrl;
-            this.clientUrl = clientUrl;
+            this.clientId = clientId;
             this.keywords = keywords;
         }
 
 
         public Add withDocumentContentType(String documentContentType) {
             this.documentContentType = documentContentType;
-            return this;
-        }
-
-
-        public Add withClientContentType(String clientContentType) {
-            this.clientContentType = clientContentType;
             return this;
         }
 

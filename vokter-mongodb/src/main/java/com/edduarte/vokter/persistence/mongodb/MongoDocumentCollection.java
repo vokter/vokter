@@ -215,7 +215,7 @@ public final class MongoDocumentCollection implements DocumentCollection {
 
 
     @Override
-    public void destroy() {
+    public void invalidateCache() {
         documentsCache.destroy();
     }
 

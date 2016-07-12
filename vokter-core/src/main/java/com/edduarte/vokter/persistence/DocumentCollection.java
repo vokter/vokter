@@ -55,7 +55,7 @@ public interface DocumentCollection {
     Pair get(String url, String contentType);
 
 
-    void destroy();
+    void invalidateCache();
 
 
     public static class Pair {

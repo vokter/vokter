@@ -763,7 +763,7 @@
     },"useData":true});
     /**
      * swagger-client - swagger-client is a javascript client for use with swaggering APIs.
-     * @version v2.1.6-M2
+     * @version v1.1.6-M2
      * @link http://swagger.io
      * @license apache 2.0
      */
@@ -6096,7 +6096,7 @@
 
     },{}],18:[function(require,module,exports){
         /*!
-         * jQuery JavaScript Library v2.1.4
+         * jQuery JavaScript Library v1.1.4
          * http://jquery.com/
          *
          * Includes Sizzle.js
@@ -6649,7 +6649,7 @@
             }
             var Sizzle =
                 /*!
-                 * Sizzle CSS Selector Engine v2.2.0-pre
+                 * Sizzle CSS Selector Engine v1.2.0-pre
                  * http://sizzlejs.com/
                  *
                  * Copyright 2008, 2014 jQuery Foundation, Inc. and other contributors
@@ -21203,7 +21203,7 @@
 
         showPetStore: function(){
             this.trigger('update-swagger-ui', {
-                url:'http://petstore.swagger.io/v2/swagger.json'
+                url:'http://petstore.swagger.io/v1/swagger.json'
             });
         },
 

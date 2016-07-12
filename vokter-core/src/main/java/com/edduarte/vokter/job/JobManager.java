@@ -194,9 +194,8 @@ public class JobManager {
     }
 
 
-    private static String matchJobName(String clientUrl,
-                                       String clientContentType) {
-        return clientUrl + "|" + clientContentType;
+    private static String matchJobName(String clientId) {
+        return clientId;
     }
 
 
@@ -208,40 +207,31 @@ public class JobManager {
 
     private static String chainName(String documentUrl,
                                     String documentContentType,
-                                    String clientUrl,
-                                    String clientContentType) {
-        return "chain|" +
-                documentUrl + "|" + documentContentType + "|" +
-                clientUrl + "|" + clientContentType;
+                                    String clientId) {
+        return "chain|" + documentUrl + "|" + documentContentType + "|" + clientId;
     }
 
 
     private static JobKey detectJobKey(String documentUrl,
                                        String documentContentType) {
-        return new JobKey(
-                documentContentType,
-                detectJobGroup(documentUrl, documentContentType)
-        );
+        return new JobKey(documentContentType,
+                detectJobGroup(documentUrl, documentContentType));
     }
 
 
     private static TriggerKey detectTriggerKey(String documentUrl,
                                                String documentContentType,
-                                               String clientUrl,
-                                               String clientContentType) {
-        return new TriggerKey(
-                clientUrl + "|" + clientContentType,
-                detectJobGroup(documentUrl, documentContentType)
-        );
+                                               String clientId) {
+        return new TriggerKey(clientId,
+                detectJobGroup(documentUrl, documentContentType));
     }
 
 
     private static JobKey matchJobKey(String documentUrl,
                                       String documentContentType,
-                                      String clientUrl,
-                                      String clientContentType) {
+                                      String clientId) {
         return new JobKey(
-                matchJobName(clientUrl, clientContentType),
+                matchJobName(clientId),
                 matchJobGroup(documentUrl, documentContentType)
         );
     }
@@ -282,10 +272,10 @@ public class JobManager {
     }
 
 
-    public Session add(RequestBuilder.Add builder) {
+    public Session add(Request.Add builder) {
         return add(
                 builder.documentUrl, builder.documentContentType,
-                builder.clientUrl, builder.clientContentType,
+                builder.clientId,
                 builder.keywords, builder.events,
                 builder.filterStopwords, builder.enableStemming, builder.ignoreCase,
                 builder.snippetOffset, builder.interval
@@ -295,7 +285,7 @@ public class JobManager {
 
     private Session add(
             String documentUrl, String documentContentType,
-            String clientUrl, String clientContentType,
+            String clientId,
             List<String> keywords, List<DiffEvent> events,
             boolean filterStopwords, boolean enableStemming, boolean ignoreCase,
             int snippetOffset, int interval) {
@@ -348,15 +338,13 @@ public class JobManager {
             // attempt to create a new matching job, chained to execute after
             // the detection job
             JobKey matchJKey = matchJobKey(
-                    documentUrl, documentContentType,
-                    clientUrl, clientContentType
-            );
+                    documentUrl, documentContentType, clientId);
             if (scheduler.getJobDetail(matchJKey) != null) {
                 logger.warn("Matching job " +
                                 "for document '{}' ({}) " +
-                                "to client '{}' ({}) already exists!.",
+                                "to client '{}' already exists!.",
                         documentUrl, documentContentType,
-                        clientUrl, clientContentType);
+                        clientId);
                 return null;
             }
             String token = Constants.bytesToHex(Constants.generateRandomBytes());
@@ -365,8 +353,7 @@ public class JobManager {
                     .usingJobData(DiffMatcherJob.PARENT_JOB_MANAGER, managerName)
                     .usingJobData(DiffMatcherJob.DOCUMENT_URL, documentUrl)
                     .usingJobData(DiffMatcherJob.DOCUMENT_CONTENT_TYPE, documentContentType)
-                    .usingJobData(DiffMatcherJob.CLIENT_URL, clientUrl)
-                    .usingJobData(DiffMatcherJob.CLIENT_CONTENT_TYPE, clientContentType)
+                    .usingJobData(DiffMatcherJob.CLIENT_ID, clientId)
                     .usingJobData(DiffMatcherJob.CLIENT_TOKEN, token)
                     .usingJobData(DiffMatcherJob.KEYWORDS, keywordJson)
                     .usingJobData(DiffMatcherJob.EVENTS, eventsJson)
@@ -393,18 +380,18 @@ public class JobManager {
                 scheduler.addJob(matchingJob, false);
                 logger.info("Started matching job " +
                                 "for document '{}' ({}) " +
-                                "to client '{}' ({}).",
+                                "to client '{}'.",
                         documentUrl, documentContentType,
-                        clientUrl, clientContentType);
+                        clientId);
             } catch (ObjectAlreadyExistsException ex) {
                 // there is already a matching job for the specified document,
                 // so return false which should be interpreted as "not created /
                 // already exists"
                 logger.warn("Matching job " +
                                 "for document '{}' ({}) " +
-                                "to client '{}' ({}) already exists!.",
+                                "to client '{}' already exists!.",
                         documentUrl, documentContentType,
-                        clientUrl, clientContentType);
+                        clientId);
                 return null;
             }
 
@@ -413,7 +400,7 @@ public class JobManager {
             // specified by the client
             TriggerKey detectTKey = detectTriggerKey(
                     documentUrl, documentContentType,
-                    clientUrl, clientContentType
+                    clientId
             );
             Trigger detectionTrigger = TriggerBuilder.newTrigger()
                     .forJob(detectJKey)
@@ -427,9 +414,9 @@ public class JobManager {
                 scheduler.scheduleJob(detectionTrigger);
                 logger.info("Started detection trigger " +
                                 "for document '{}' ({}) " +
-                                "to client '{}' ({}), with interval {}.",
+                                "to client '{}', with interval {}.",
                         documentUrl, documentContentType,
-                        clientUrl, clientContentType,
+                        clientId,
                         interval);
             } catch (ObjectAlreadyExistsException ignored) {
                 // there is already trigger for the specified document and for
@@ -438,12 +425,12 @@ public class JobManager {
 
             JobChainingJobListener chain = new JobChainingJobListener(chainName(
                     documentUrl, documentContentType,
-                    clientUrl, clientContentType
+                    clientId
             ));
             chain.addJobChainLink(detectJKey, matchJKey);
             scheduler.getListenerManager().addJobListener(chain);
 
-            return sessionCollection.add(clientUrl, clientContentType, token);
+            return sessionCollection.add(clientId, token);
 
         } catch (SchedulerException ex) {
             logger.error(ex.getMessage(), ex);
@@ -460,26 +447,24 @@ public class JobManager {
             for (JobKey k : keys) {
                 JobDetail detail = scheduler.getJobDetail(k);
                 JobDataMap m = detail.getJobDataMap();
-                String clientUrl = m.getString(DiffMatcherJob.CLIENT_URL);
-                String clientContentType =
-                        m.getString(DiffMatcherJob.CLIENT_CONTENT_TYPE);
+                String clientId = m.getString(DiffMatcherJob.CLIENT_ID);
                 String clientToken = m.getString(DiffMatcherJob.CLIENT_TOKEN);
 
                 scheduler.getListenerManager().removeJobListener(chainName(
                         documentUrl, documentContentType,
-                        clientUrl, clientContentType
+                        clientId
                 ));
                 sendTimeoutToClient(
                         documentUrl, documentContentType,
-                        clientUrl, clientContentType, clientToken
+                        clientId, clientToken
                 );
                 scheduler.interrupt(k);
                 scheduler.deleteJob(k);
                 logger.info("Timed out matching job " +
                                 "for document '{}' ({}) " +
-                                "to client '{}' ({}).",
+                                "to client '{}'.",
                         documentUrl, documentContentType,
-                        clientUrl, clientContentType);
+                        clientId);
             }
 
             JobKey detectJobKey = detectJobKey(documentUrl, documentContentType);
@@ -497,21 +482,20 @@ public class JobManager {
     /**
      * Simplified API
      */
-    public boolean cancel(String documentUrl, String clientUrl) {
-        return cancel(documentUrl, MediaType.TEXT_HTML,
-                clientUrl, MediaType.APPLICATION_JSON);
+    public boolean cancel(String documentUrl, String clientId) {
+        return cancel(documentUrl, MediaType.TEXT_HTML, clientId);
     }
 
 
     public boolean cancel(String documentUrl, String documentContentType,
-                          String clientUrl, String clientContentType) {
+                          String clientId) {
         if (handlers.isEmpty()) {
             logger.error("Cannot cancel jobs without listeners.");
             return false;
         }
         JobKey jobKey = matchJobKey(
                 documentUrl, documentContentType,
-                clientUrl, clientContentType
+                clientId
         );
 
         try {
@@ -522,13 +506,13 @@ public class JobManager {
                 if (wasDeleted) {
                     scheduler.getListenerManager().removeJobListener(chainName(
                             documentUrl, documentContentType,
-                            clientUrl, clientContentType
+                            clientId
                     ));
                     logger.info("Canceled matching job " +
                                     "for document '{}' ({}) " +
-                                    "to client '{}' ({}).",
+                                    "to client '{}'.",
                             documentUrl, documentContentType,
-                            clientUrl, clientContentType
+                            clientId
                     );
                 }
             } catch (JobPersistenceException ex) {
@@ -558,11 +542,11 @@ public class JobManager {
                 keys = scheduler.getJobKeys(GroupMatcher.anyGroup());
                 boolean hasMatchingJob = keys.parallelStream()
                         .anyMatch(k -> k.getName().equals(
-                                matchJobName(clientUrl, clientContentType)));
+                                matchJobName(clientId)));
 
                 if (!hasMatchingJob) {
                     // no more match jobs for this client, so remove the session
-                    sessionCollection.removeSession(clientUrl, clientContentType);
+                    sessionCollection.removeSession(clientId);
                 }
             }
 
@@ -665,10 +649,8 @@ public class JobManager {
                                 m.getString(DiffMatcherJob.DOCUMENT_URL))
                         .usingJobData(DiffMatcherJob.DOCUMENT_CONTENT_TYPE,
                                 m.getString(DiffMatcherJob.DOCUMENT_CONTENT_TYPE))
-                        .usingJobData(DiffMatcherJob.CLIENT_URL,
-                                m.getString(DiffMatcherJob.CLIENT_URL))
-                        .usingJobData(DiffMatcherJob.CLIENT_CONTENT_TYPE,
-                                m.getString(DiffMatcherJob.CLIENT_CONTENT_TYPE))
+                        .usingJobData(DiffMatcherJob.CLIENT_ID,
+                                m.getString(DiffMatcherJob.CLIENT_ID))
                         .usingJobData(DiffMatcherJob.CLIENT_TOKEN,
                                 m.getString(DiffMatcherJob.CLIENT_TOKEN))
                         .usingJobData(DiffMatcherJob.KEYWORDS,
@@ -766,9 +748,8 @@ public class JobManager {
 
 
     final List<Boolean> sendTimeoutToClient(String documentUrl, String documentContentType,
-                                            String clientUrl, String clientContentType, String clientToken) {
-        Session session = sessionCollection
-                .validateToken(clientUrl, clientContentType, clientToken);
+                                            String clientId, String clientToken) {
+        Session session = sessionCollection.validateToken(clientId, clientToken);
         return handlers.parallelStream()
                 .map(l -> l.onTimeout(documentUrl, documentContentType, session))
                 .collect(Collectors.toList());
@@ -776,10 +757,9 @@ public class JobManager {
 
 
     final List<Boolean> sendNotificationToClient(String documentUrl, String documentContentType,
-                                                 String clientUrl, String clientContentType, String clientToken,
+                                                 String clientId, String clientToken,
                                                  Set<Match> results) {
-        Session session = sessionCollection
-                .validateToken(clientUrl, clientContentType, clientToken);
+        Session session = sessionCollection.validateToken(clientId, clientToken);
         return handlers.parallelStream()
                 .map(l -> l.onNotification(documentUrl, documentContentType, session, results))
                 .collect(Collectors.toList());

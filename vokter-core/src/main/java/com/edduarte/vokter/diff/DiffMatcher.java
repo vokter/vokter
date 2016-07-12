@@ -213,7 +213,7 @@ public class DiffMatcher implements Callable<Set<Match>> {
 
 
 //            if (stemmer != null) {
-//                stemmer.destroy();
+//                stemmer.invalidateCache();
 //            }
 
 

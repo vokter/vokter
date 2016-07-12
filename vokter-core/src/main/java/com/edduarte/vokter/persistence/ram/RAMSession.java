@@ -9,29 +9,20 @@ import com.edduarte.vokter.persistence.Session;
  */
 public class RAMSession implements Session {
 
-    private final String clientUrl;
-
-    private final String clientContentType;
+    private final String id;
 
     private final String token;
 
 
-    public RAMSession(String clientUrl, String clientContentType, String token) {
-        this.clientUrl = clientUrl;
-        this.clientContentType = clientContentType;
+    public RAMSession(String id, String token) {
+        this.id = id;
         this.token = token;
     }
 
 
     @Override
-    public String getClientUrl() {
-        return clientUrl;
-    }
-
-
-    @Override
-    public String getClientContentType() {
-        return clientContentType;
+    public String getId() {
+        return id;
     }
 
 

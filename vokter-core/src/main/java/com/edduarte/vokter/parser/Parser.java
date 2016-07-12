@@ -37,13 +37,10 @@ public interface Parser extends AutoCloseable {
     }
 
     /**
-     * Parses the specified text by using the specified stopwords and stemmer, and
-     * obtains parsed results.
+     * Parses the specified text by using the specified stopwords and stemmer,
+     * and obtains parsed results.
      */
-    List<Result> parse(final MutableString text,
-                       final Stopper stopper,
-                       final Stemmer stemmer,
-                       final boolean ignoreCase);
+    List<Result> parse(MutableString text, Stopper stopper, Stemmer stemmer, boolean ignoreCase);
 
     @Override
     void close();
@@ -55,20 +52,36 @@ public interface Parser extends AutoCloseable {
      */
     public static class Result {
 
-        public int wordCount;
+        /**
+         * Token-based phrase position index of this term.
+         */
+        public final int count;
 
-        public int start;
+        /**
+         * Start position index of this term. You can use {@link
+         * String#substring(int)} with both this index and the end index to find
+         * this term in the original input text.
+         */
+        public final int start;
 
-        public int end;
+        /**
+         * End position index of this term. You can use {@link
+         * String#substring(int)} with both this index and the start index to
+         * find this term in the original input text.
+         */
+        public final int end;
 
-        public MutableString text;
+        /**
+         * The text of this term.
+         */
+        public final MutableString text;
 
 
-        Result(final int wordCount,
+        Result(final int count,
                final int start,
                final int end,
                final MutableString text) {
-            this.wordCount = wordCount;
+            this.count = count;
             this.start = start;
             this.end = end;
             this.text = text;

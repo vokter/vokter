@@ -2,10 +2,9 @@ package com.edduarte.vokter.persistence.ram;
 
 import com.edduarte.vokter.persistence.Session;
 import com.edduarte.vokter.persistence.SessionCollection;
-import com.edduarte.vokter.util.Params;
 
-import java.util.HashMap;
 import java.util.Map;
+import java.util.concurrent.ConcurrentHashMap;
 
 /**
  * @author Eduardo Duarte (<a href="mailto:hello@edduarte.com">hello@edduarte.com</a>)
@@ -14,27 +13,27 @@ import java.util.Map;
  */
 public class RAMSessionCollection implements SessionCollection {
 
-    private final Map<Params, Session> sessionMap;
+    private final Map<String, Session> m;
 
 
     public RAMSessionCollection() {
-        this.sessionMap = new HashMap<>();
+        this.m = new ConcurrentHashMap<>();
     }
 
 
     @Override
-    public Session add(String clientUrl, String clientContentType, String token) {
-        Session session = new RAMSession(clientUrl, clientContentType, token);
-        sessionMap.put(Params.of(clientUrl, clientContentType), session);
-        return session;
+    public Session add(String id, String token) {
+        Session s = new RAMSession(id, token);
+        m.put(id, s);
+        return s;
     }
 
 
     @Override
-    public Session validateToken(String clientUrl, String clientContentType, String token) {
-        Session session = sessionMap.get(Params.of(clientUrl, clientContentType));
-        if (token.equals(session.getToken())) {
-            return session;
+    public Session validateToken(String id, String token) {
+        Session s = m.get(id);
+        if (token.equals(s.getToken())) {
+            return s;
         } else {
             return null;
         }
@@ -42,7 +41,7 @@ public class RAMSessionCollection implements SessionCollection {
 
 
     @Override
-    public void removeSession(String clientUrl, String clientContentType) {
-        sessionMap.remove(Params.of(clientUrl, clientContentType));
+    public void removeSession(String id) {
+        m.remove(id);
     }
 }

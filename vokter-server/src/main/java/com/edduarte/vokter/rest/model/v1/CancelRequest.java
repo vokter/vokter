@@ -41,17 +41,6 @@ public class CancelRequest {
     @JsonProperty(required = true)
     private String clientUrl;
 
-    /**
-     * Deprecated and replaced by 'clientUrl'. This attribute was kept for
-     * backwards-compatibility purposes, since this is only used if the
-     * subscribe request was sent using 'responseUrl' and NOT 'clientUrl' (as
-     * documented in versions earlier than 1.3.3). For versions 1.3.3 and
-     * upwards, this field is not mandatory unless the clientUrl field is empty.
-     */
-    @Deprecated
-    @JsonProperty
-    private String responseUrl;
-
     @JsonProperty
     private String clientContentType;
 
@@ -74,7 +63,7 @@ public class CancelRequest {
 
 
     public String getClientUrl() {
-        return clientUrl != null ? clientUrl : responseUrl;
+        return clientUrl;
     }
 
 

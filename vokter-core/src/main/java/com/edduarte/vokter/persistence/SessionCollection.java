@@ -8,19 +8,19 @@ package com.edduarte.vokter.persistence;
 public interface SessionCollection {
 
     /**
-     * Adds a new sessions for the pair (clientUrl, clientContentType),
-     * generating a random unique token.
+     * Adds a new session that identifies the unique client id with a random
+     * unique token.
      */
-    Session add(String clientUrl, String clientContentType, String clientToken);
+    Session add(String id, String token);
 
     /**
-     * Gets a session if the pair (clientUrl, clientContentType) matches with
-     * the provided token. If not, return null
+     * Gets a session if the client identifier matches with the provided token.
+     * If not, return null.
      */
-    Session validateToken(String clientUrl, String clientContentType, String token);
+    Session validateToken(String id, String token);
 
     /**
-     * Remove a session for the pair (clientUrl, clientContentType)
+     * Remove the session corresponding to the client identifier
      */
-    void removeSession(String clientUrl, String clientContentType);
+    void removeSession(String id);
 }

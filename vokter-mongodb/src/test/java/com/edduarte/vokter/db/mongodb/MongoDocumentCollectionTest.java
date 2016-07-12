@@ -70,7 +70,7 @@ public class MongoDocumentCollectionTest {
 
     @AfterClass
     public static void close() {
-        collection.destroy();
+        collection.invalidateCache();
         db.dropDatabase();
         mongoClient.close();
     }
