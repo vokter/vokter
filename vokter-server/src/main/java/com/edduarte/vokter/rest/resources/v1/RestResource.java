@@ -18,10 +18,9 @@ package com.edduarte.vokter.rest.resources.v1;
 
 import com.edduarte.vokter.job.JobManager;
 import com.edduarte.vokter.job.Request;
-import com.edduarte.vokter.persistence.HttpSessionCollection;
+import com.edduarte.vokter.persistence.HttpSession;
 import com.edduarte.vokter.persistence.Session;
 import com.edduarte.vokter.persistence.SessionCollection;
-import com.edduarte.vokter.persistence.mongodb.HttpMongoSessionCollection;
 import com.edduarte.vokter.rest.model.CommonResponse;
 import com.edduarte.vokter.rest.model.v1.AddRequest;
 import com.edduarte.vokter.rest.model.v1.CancelRequest;
@@ -173,7 +172,7 @@ public class RestResource {
                     .build();
         }
 
-        String clientId = HttpSessionCollection.idFromUrl(r.getClientUrl(), r.getClientContentType());
+        String clientId = HttpSession.idFromUrl(r.getClientUrl(), r.getClientContentType());
         Request.Add b = Request
                 .add(r.getDocumentUrl(), clientId, r.getKeywords())
                 .withDocumentContentType(r.getDocumentContentType())
@@ -249,7 +248,7 @@ public class RestResource {
                     "url to client url that identifies the job.", required = true)
                     CancelRequest r) throws ExecutionException {
 
-        String clientId = HttpSessionCollection.idFromUrl(r.getClientUrl(), r.getClientContentType());
+        String clientId = HttpSession.idFromUrl(r.getClientUrl(), r.getClientContentType());
         Session session = sessionCollection.validateToken(clientId, token);
         if (session == null) {
             return CORSUtils.getResponseBuilderWithCORS(401)

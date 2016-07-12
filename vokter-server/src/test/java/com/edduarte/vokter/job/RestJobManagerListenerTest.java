@@ -20,6 +20,7 @@ import com.edduarte.vokter.parser.ParserPool;
 import com.edduarte.vokter.parser.SimpleParser;
 import com.edduarte.vokter.persistence.DiffCollection;
 import com.edduarte.vokter.persistence.DocumentCollection;
+import com.edduarte.vokter.persistence.HttpSession;
 import com.edduarte.vokter.persistence.Session;
 import com.edduarte.vokter.persistence.SessionCollection;
 import com.edduarte.vokter.persistence.mongodb.MongoDiffCollection;
@@ -124,7 +125,7 @@ public class RestJobManagerListenerTest {
                 .register(sessionCollection)
                 .initialize();
 
-        String clientId1 = Session
+        String clientId1 = HttpSession
                 .idFromUrl("https://www.google.com", MediaType.APPLICATION_JSON);
         Session createdSession = manager.add(Request
                 .add("http://example.com", clientId1,
@@ -152,7 +153,7 @@ public class RestJobManagerListenerTest {
                 .withDocumentContentType(MediaType.TEXT_PLAIN)
                 .withInterval(12));
         assertNull(createdSession);
-        String clientId2 = Session
+        String clientId2 = HttpSession
                 .idFromUrl("https://www.google.pt", MediaType.APPLICATION_JSON);
         createdSession = manager.add(Request
                 .add("http://example.com", clientId2,
