@@ -93,7 +93,7 @@ Payload:
 
 ---
 
-Both of the calls above return the following JSON body:
+**Both of the calls above return the following JSON body**
 ```javascript
 {
     "code": "0" // a number that uniquely identifies this error type (0 when the request was successful)
@@ -148,7 +148,7 @@ When detected differences are matched with keywords, Vokter sends notifications 
 ### Timeout
 
 Vokter is capable of managing a high number of concurrent watch jobs, and is implemented to save resources and free up database and memory space whenever possible. To this effect, Vokter automatically expires jobs when it fails to fetch a web document after 10 consecutive tries. When that happens, the following JSON body is sent:
-```javascript
+```json
 {
     "status": "timeout",
     "url": "http://www.example.com",
