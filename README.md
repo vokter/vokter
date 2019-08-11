@@ -7,7 +7,7 @@ Vokter is a high-performance, scalable document store that combines [Locality-Se
 
 At a basic level, Vokter manages a high number of concurrent scheduler jobs that fetch web documents on a periodic basis and perform difference detection, comparing occurrences between two snapshots of the same document, and difference matching, triggering a listener when a detected difference matches a registered keyword. It optionally supports multi-language stopword filtering, to ignore changes in common words with no important significance, and stemming to detect changes in lexically derived words. Appropriate stopword filtering and stemming algorithms are picked based on the inferred language of the document, using a [N-grams Naïve Bayesian classifier](https://github.com/optimaize/language-detector).
 
-[You can find more info about the architecture and design of Vokter on my blog](https://www.edduarte.com/vokter-a-java-library-that-detects-and-notifies-changes-in-web-documents/).
+[You can find more info about the architecture and design of Vokter on my blog](https://www.edduarte.com/vokter-a-document-store-that-periodically-checks-for-changes-in-web-documents/).
 
 
 ## Installation
@@ -33,6 +33,9 @@ Optional arguments:
                          available cores.
 ```
 This will launch a embedded Jetty server with Jersey RESTful framework on 'localhost:9000' (by default). If Vokter was successfully deployed, opening this URL on a browser should display a landing page with usage instructions.
+
+
+## Usage
 
 **Create a new watch job and attach a client REST endpoint**
 
