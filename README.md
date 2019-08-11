@@ -1,47 +1,23 @@
 # Vokter
 
-[![Build Status](https://travis-ci.org/vokter/vokter-core.svg?branch=master)](https://travis-ci.org/vokter/vokter-core)
+[![Build Status](https://travis-ci.org/vokter/vokter.svg?branch=master)](https://travis-ci.org/vokter/vokter)
 [![Coverage Status](https://coveralls.io/repos/github/vokter/vokter-core/badge.svg?branch=master)](https://coveralls.io/github/vokter/vokter-core?branch=master)
 
-Vokter is a high-performance, scalable web service that uses Quartz Scheduler, DiffMatchPatch and MongoDB to provide web-page monitoring, triggering notifications when specified keywords were either added or removed from a web document.
+Vokter is a high-performance, scalable document store that combines [Locality-Sensitive Hashing for K-Shingles](https://github.com/edduarte/near-neighbor-search), [a fork of DiffMatchPatch](https://github.com/edduarte/indexed-diff-match-patch), [Bloom filters](https://github.com/google/guava/wiki/HashingExplained#bloomfilter) and [Quartz jobs](http://www.quartz-scheduler.org) to detect differences in web documents, triggering notifications when specified keywords were either added or removed.
 
-This service implements a information retrieval system that fetches, indexes and performs queries over web documents on a periodic basis. Difference detection is implemented by comparing occurrences between two snapshots of the same document. Additionally, it supports multi-language stop-word filtering to ignore changes in common grammatical conjunctions or articles, and stemming to detect changes in lexically derived words.
+At a basic level, Vokter manages a high number of concurrent scheduler jobs that fetch web documents on a periodic basis and perform difference detection, comparing occurrences between two snapshots of the same document, and difference matching, triggering a listener when a detected difference matches a registered keyword. It optionally supports multi-language stopword filtering, to ignore changes in common words with no important significance, and stemming to detect changes in lexically derived words. Appropriate stopword filtering and stemming algorithms are picked based on the inferred language of the document, using a [N-grams Naïve Bayesian classifier](https://github.com/optimaize/language-detector).
 
-- [Getting Started](#getting-started)
-    + [Installation](#installation)
-    + [Usage](#usage)
-    + [Notifications](#notifications)
-        * [OK](#ok)
-        * [Timeout](#timeout)
-- [Dependencies](#dependencies)
-- [Architecture](#architecture)
-    + [Job Management](#job-management)
-        * [Difference Detection](#difference-detection)
-        * [Difference Matching](#difference-matching)
-        * [Clustering](#clustering)
-        * [Scaling](#scaling)
-    + [Persistence](#persistence)
-    + [Reading](#reading)
-    + [Indexing](#indexing)
-- [Caveats / Future Work](#caveats--future-work)
-- [License](#license)
+[You can find more info about the architecture and design of Vokter on my blog](https://www.edduarte.com/vokter-a-java-library-that-detects-and-notifies-changes-in-web-documents/).
 
-# Getting Started
 
 ## Installation
 
 Vokter uses the Reactive (Publish/Subscribe) model, where an additional Client web service with a REST API must be implemented to consume Vokter web service.  
-<b>An example RESTful web app that interoperates with Vokter is [available here](https://github.com/vokter/vokter-client-jersey2). Feel free to reuse this code in your own client app.</b>
+<b>An example RESTful web app that interoperates with Vokter is [available here](https://github.com/vokter/vokter-client-java). Feel free to reuse this code in your own client app.</b>
 
-Once you have a client web service running, follow the steps below:
+1. Download the [latest release](https://github.com/vokter/vokter/releases/latest) of the core server
 
-1. Download and install [MongoDB](https://www.mongodb.org/downloads)
-
-2. Run MongoDB with ``` mongod ```
-
-3. Download the [latest release of Vokter core server](https://github.com/edduarte/vokter/releases/download/1.4.1/vokter-core.zip)
-
-4. Run Vokter with ``` java -jar vokter-core.jar```
+2. Run Vokter with ``` java -jar vokter-core.jar```
 ```
 Optional arguments:
  -h,--help               Shows this help prompt.
@@ -56,23 +32,20 @@ Optional arguments:
                          indexing processes. Defaults to the number of
                          available cores.
 ```
-This will launch a embedded Jetty server with Jersey RESTful framework on 'localhost:9000' (by default). If Vokter was successfully deployed, opening the deployed url on a browser should display a landing page with usage instructions.
+This will launch a embedded Jetty server with Jersey RESTful framework on 'localhost:9000' (by default). If Vokter was successfully deployed, opening this URL on a browser should display a landing page with usage instructions.
 
+**Create a new watch job and attach a client REST endpoint**
 
-## Usage
-
-<b>Watch for content changes in a document</b>
-
-POST http://localhost:9000/vokter/v1/subscribe  
-Payload:  
-```javascript
+POST http://localhost:9000/vokter/v1/subscribe
+Payload:
+```json
 {
     "documentUrl": "http://www.example.com", // the page to be watched (mandatory field)
     "clientUrl": "http://your.site/client-rest-api", // the client web service that will receive detected differences (mandatory field)
     "keywords": // the keywords to watch for (mandatory field)
     [
-        "argus", // looks for changes with this word (and lexical variants if stemming is enabled)
-        "argus panoptes" // looks for changes with this exact phrase (and lexical variants if stemming is enabled)
+        "vokter", // looks for changes with this word (and lexical variants if stemming is enabled)
+        "vokter panoptes" // looks for changes with this exact phrase (and lexical variants if stemming is enabled)
     ],
     "interval": 600, // the elapsed duration (in seconds) between page checks (optional field, defaults to 600)
     "ignoreAdded": false, // if 'true', ignore events where the keyword was added to the page (optional field, defaults to 'false')
@@ -84,11 +57,11 @@ Note that a subscribe request is uniquely identified by both its document URL an
 
 ---
 
-<b>Manually cancel a watch job</b>
+**Manually cancel a watch job**
 
-POST http://localhost:9000/vokter/v1/cancel  
-Payload:  
-```javascript
+POST http://localhost:9000/vokter/v1/cancel
+Payload:
+```json
 {
     "documentUrl": "http://www.example.com", // the page that was being watched (mandatory field)
     "clientUrl": "http://your.site/client-rest-api" // the client web service (mandatory field)
@@ -97,8 +70,8 @@ Payload:
 
 ---
 
-Both of the calls above return the following JSON body:
-```javascript
+**Both of the calls above return the following JSON body**
+```json
 {
     "code": "0" // a number that uniquely identifies this error type (0 when the request was successful)
     "message": "" // reason for the error (empty when the request was successful)
@@ -115,10 +88,11 @@ The following list shows all possible responses:
 | 400 | 1 | The provided document URL is invalid. |
 | 400 | 2 | The provided client URL is invalid. |
 | 400 | 3 | You need to provide at least one valid keyword. |
-| 400 | 4 | At least one difference action ('added' or 'removed') must not be ignored. |
-| 409 | 5 | The request conflicts with a currently active watch job, since the provided document URL is already being watched and notified to the provided client URL. |
+| 400 | 4 | At least one difference event ('added' or 'removed') must not be ignored. |
+| 409 | 5 | The request conflicts with an existing active job, since the provided document URL is already being watched and notified to the provided client URL. |
 | 415 | 6 | The request body has an invalid format. |
 | 404 | 7 | The specified job to cancel does not exist. |
+
 
 ## Notifications
 
@@ -127,20 +101,22 @@ Notifications are REST requests, sent as POSTs, to the provided client URL at an
 ### Differences found
 
 When detected differences are matched with keywords, Vokter sends notifications to the provided client URL with the following JSON body:
-```javascript
+```json
 {
     "status": "ok",
     "url": "http://www.example.com",
     "diffs": [
         {
-            "action": "added",
+            "event": "added",
             "keyword": "argus",
-            "snippet": "In the 5th century and later, Argus' wakeful alertness ..."
+            "text": "Argus' wakeful", // the exact text that was added which matched one of the user's keywords
+            "snippet": "In the 5th century and later, Argus' wakeful alertness ..." // a bigger text snippet of the difference in context
         },
         {
-            "action": "removed",
+            "event": "removed",
             "keyword": "argus",
-            "snippet": "... sacrifice of Argus liberated Io and allowed ..."
+            "text": "the sacrifice of Argus ", // the exact text that was removed which matched one of the user's keywords
+            "snippet": "... sacrifice of Argus liberated Io and allowed ..." // a bigger text snippet of the difference in context
         }
     ]
 }
@@ -149,99 +125,13 @@ When detected differences are matched with keywords, Vokter sends notifications 
 ### Timeout
 
 Vokter is capable of managing a high number of concurrent watch jobs, and is implemented to save resources and free up database and memory space whenever possible. To this effect, Vokter automatically expires jobs when it fails to fetch a web document after 10 consecutive tries. When that happens, the following JSON body is sent:
-```javascript
+```json
 {
     "status": "timeout",
     "url": "http://www.example.com",
     "diffs": []
 }
 ```
-
-# Dependencies
-
-Jersey RESTful framework: https://jersey.java.net  
-Jetty Embedded server: http://eclipse.org/jetty/  
-Snowball stop-words and stemmers: http://snowball.tartarus.org  
-Language Detector: https://github.com/optimaize/language-detector  
-Cache2K: http://cache2k.org  
-MongoDB Java driver: http://docs.mongodb.org/ecosystem/drivers/java/  
-Quartz Scheduler: http://quartz-scheduler.org  
-Quartz MongoDB-based store: https://github.com/michaelklishin/quartz-mongodb  
-DiffMatchPatch: https://code.google.com/p/google-diff-match-patch/  
-Gson: https://code.google.com/p/google-gson/  
-Jsonic: http://jsonic.sourceforge.jp  
-Jsoup: http://jsoup.org  
-Jackson: http://jackson.codehaus.org  
-DSI Utilities: http://dsiutils.di.unimi.it  
-Commons-IO: http://commons.apache.org/proper/commons-io/  
-Commons-Codec: http://commons.apache.org/proper/commons-codec/  
-Commons-CLI: http://commons.apache.org/proper/commons-cli/  
-Commons-Lang: http://commons.apache.org/proper/commons-lang/  
-Commons-Validator: http://commons.apache.org/proper/commons-validator/  
-
-# Architecture
-
-## Job Management
-
-There are 2 types of jobs, concurrently executed and scheduled periodically (using Quartz Scheduler) with an interval of 600 seconds by default: difference detection jobs and difference matching jobs.
-
-### Difference Detection
-
-The detection job is responsible for fetching a new document and comparing it with the previous document, detecting textual differences between the two. To do that, the robust DiffMatchPatch algorithm is used.
-
-### Difference Matching
-
-The matching job is responsible for querying the list of detected differences with specific requested keywords.
-
-Harmonization of keywords-to-differences is performed passing the differences through a Bloom filter, to remove differences that do not have the specified keywords, and a character-by-character comparator on the remaining differences, to ensure that the difference contains any of the keywords.
-
-### Clustering
-
-Since the logic of difference retrieval is spread between two jobs, one that is agnostic of requests and one that is specific to the request and its keywords, Vokter reduces workload by scheduling only one difference detection job per watched web-page. For this effect, jobs are grouped into clusters, where its unique identifier is the document URL. Each cluster contains, imperatively, a single scheduled detection job and one or more matching jobs.
-
-### Scaling
-
-Vokter was conceived to be able scale and to be future-proof, and to this effect it was implemented to deal with a high number of jobs in terms of batching / persistence and of real-time / concurrency.
-
-The clustering design mentioned above implies that, as the number of clients grows linearly, the number of jobs will grow semi-linearly because the first call for a URL will spawn two jobs and the remaining calls for the same URL will spawn only one.
-
-In terms of orchestration, there are two mechanisms created to reduce redundant resource-consumption, both in memory as well as in the database:
-
-1. if the difference detection job fails to fetch content from a specific URL after 10 consecutive attempts, the entire cluster for that URL is expired. When expiring a cluster, all of the associated client REST APIs receive a time-out call.
-2. every time a matching job is cancelled by its client, Vokter checks if there are still matching-jobs in its cluster, and if not, the cluster is cleared from the workspace.
-
-## Persistence
-
-Documents, indexing results, found differences are all stored in MongoDB. To avoid multiple bulk operations on the database, every query (document, tokens, occurrences and differences) is covered by memory cache with an expiry duration between 20 seconds and 1 minute.
-
-Persistence of difference-detection jobs and difference-matching jobs is also covered, using a custom MongoDB Job Store by Michael Klishin and Alex Petrov.
-
-## Reading
-
-Vokter supports reading of multiple web document formats, like HTML, XML, JSON and Plain-Text, where raw content is converted into a clean string, filtered of non-informative data (e.g. XML tags). Reading logic, which is different for all formats, is covered by Reader classes which follow the plugin paradigm. This means that compiled Reader classes can be added to or removed from the 'vokter-readers' folder during runtime, and Vokter will be able to dynamically load a suitable Reader class for each document Content-Type.
-
-When Reader classes are instanced, they are stored in on-heap memory cache temporarily (5 seconds). This reduces the elapsed duration of discovering available Reader classes and instancing one for consecutive reads of documents with the same Content-Type.
-
-## Indexing
-
-The string of text that represents the document snapshot that was captured during the Reading phase is passed through a parser that tokenizes, filters stop-words and stems text. For every token found, its occurrences (positional index, starting character index and ending character index) in the document are stored. When a detected difference affected a token, the character indexes of its occurrences can be used to retrieve snippets of text. With this, Vokter can instantly show to user, along with the notifications of differences detected, the added text in the new snapshot or the removed text in the previous snapshot.
-
-Because different documents can have different languages, which require specialized stemmers and stop-word filters to be used, the language must be obtained. Unlike the Content-Type, which is often provided as a HTTP header when fetching the document, the Accept-Language is not for the most part. Instead, Vokter infers the language from the document content using a language detector algorithm based on Bayesian probabilistic models and N-Grams, developed by Nakatani Shuyo, Fabian Kessler, Francois Roland and Robert Theis.
-
-Stemmer classes and stop-word files, both from the Snowball project, follow the plugin paradigm, similarly to the Reader classes. This means that both can be changed during runtime and Vokter will be updated without requiring a restart. Moreover, like the Reader classes, Stemmer classes are cached for 5 seconds before being invalidated to avoid repeated instancing for consecutive stems of documents with the same language (for example, English).
-
-To ensure a concurrent architecture, where multiple parsing calls should be performed in parallel, Vokter will instance multiple parsers when deployed and store them in a blocking queue. The number of parsers corresponds to the number of cores available in the machine where Vokter was deployed to.
-
-# Caveats / Future Work
-
-- this project has only been used in a production environment for academic projects, and has not been battle-tested or integrated in consumer software;
-- client APIs are publicly exposed, and anyone can simulate Vokter notifications sent to that API and produce erroneous results on the client app. A secret token should be passed on successful subscribe requests and on further notifications to that client, so that the client can properly identify the received request as Vokter';
-- stopword filtering and stemming should be done on a request basis, not on a server basis;
-- only MongoDB is currently supported, but adding support to MySQL and PostgreSQL should not be very hard to do;
-- the architecture should be revised so that intervals cannot be configured and matching jobs are not scheduled but rather invoked once their respective detection job is complete.
-
-
-<b>More information on the latter caveat:</b> the intervals for difference-matching jobs can be set on the watch request, but difference-detection occurs independently of difference-matching so it can accommodate to all matching jobs for the same document. This means that difference-detection job needs to use an internal interval (420 seconds), and that matching jobs that are configured to run more frequently than that interval will look for matches on the same detected differences two times or more. 
 
 # License
 
