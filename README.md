@@ -38,7 +38,7 @@ This will launch a embedded Jetty server with Jersey RESTful framework on 'local
 
 POST http://localhost:9000/vokter/v1/subscribe
 Payload:
-```json
+```javascript
 {
     "documentUrl": "http://www.example.com", // the page to be watched (mandatory field)
     "clientUrl": "http://your.site/client-rest-api", // the client web service that will receive detected differences (mandatory field)
@@ -61,7 +61,7 @@ Note that a subscribe request is uniquely identified by both its document URL an
 
 POST http://localhost:9000/vokter/v1/cancel
 Payload:
-```json
+```javascript
 {
     "documentUrl": "http://www.example.com", // the page that was being watched (mandatory field)
     "clientUrl": "http://your.site/client-rest-api" // the client web service (mandatory field)
@@ -71,7 +71,7 @@ Payload:
 ---
 
 **Both of the calls above return the following JSON body**
-```json
+```javascript
 {
     "code": "0" // a number that uniquely identifies this error type (0 when the request was successful)
     "message": "" // reason for the error (empty when the request was successful)
@@ -101,7 +101,7 @@ Notifications are REST requests, sent as POSTs, to the provided client URL at an
 ### Differences found
 
 When detected differences are matched with keywords, Vokter sends notifications to the provided client URL with the following JSON body:
-```json
+```javascript
 {
     "status": "ok",
     "url": "http://www.example.com",
