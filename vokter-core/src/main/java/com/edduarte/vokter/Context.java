@@ -41,8 +41,8 @@ import com.optimaize.langdetect.profiles.LanguageProfile;
 import com.optimaize.langdetect.profiles.LanguageProfileReader;
 import org.eclipse.jetty.server.Connector;
 import org.eclipse.jetty.server.Server;
+import org.eclipse.jetty.server.ServerConnector;
 import org.eclipse.jetty.server.handler.HandlerList;
-import org.eclipse.jetty.server.nio.SelectChannelConnector;
 import org.eclipse.jetty.util.component.LifeCycle;
 import org.eclipse.jetty.util.thread.QueuedThreadPool;
 import org.eclipse.jetty.webapp.WebAppContext;
@@ -350,21 +350,19 @@ public class Context implements LifeCycle.Listener, JobManagerHandler {
         }
 
         logger.info("Starting server...");
-        Server server = new Server();
-        server.setStopAtShutdown(true);
 
         // Increase server thread pool
         QueuedThreadPool threadPool = new QueuedThreadPool();
         threadPool.setMaxThreads(maxThreads);
-        server.setThreadPool(threadPool);
 
+        Server server = new Server(threadPool);
+        server.setStopAtShutdown(true);
 
         // Ensure a non-blocking connector (NIO) is used.
-        Connector connector = new SelectChannelConnector();
+        ServerConnector connector = new ServerConnector(server);
         connector.setPort(port);
-        connector.setMaxIdleTime(30000);
+        connector.setIdleTimeout(30000);
         server.setConnectors(new Connector[]{connector});
-
 
         // Retrieve the jar file.
         ProtectionDomain protectionDomain = Context.class.getProtectionDomain();

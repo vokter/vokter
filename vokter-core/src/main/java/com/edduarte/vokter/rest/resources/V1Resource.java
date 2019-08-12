@@ -38,7 +38,7 @@ import java.util.concurrent.ExecutionException;
  * REST Resource for calls on path "/vokter/v1/".
  *
  * @author Eduardo Duarte (<a href="mailto:hello@edduarte.com">hello@edduarte.com</a>)
- * @version 1.4.1
+ * @version 0.3.1
  * @since 1.0.0
  */
 @Path("/v1/")

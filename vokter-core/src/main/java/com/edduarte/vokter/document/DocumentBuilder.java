@@ -22,7 +22,7 @@ import com.edduarte.vokter.util.OSGiManager;
 import com.google.common.base.Stopwatch;
 import com.mongodb.DB;
 import com.optimaize.langdetect.LanguageDetector;
-import org.apache.tools.ant.filters.StringInputStream;
+import org.apache.commons.io.IOUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -118,7 +118,7 @@ public final class DocumentBuilder {
         return new DocumentBuilder(() -> {
             try {
                 ContentType contentType = new ContentType(type);
-                return new DocumentInput(url, new StringInputStream(text), contentType.getBaseType());
+                return new DocumentInput(url, IOUtils.toInputStream(text), contentType.getBaseType());
 
             } catch (ParseException ex) {
                 throw new RuntimeException(ex);

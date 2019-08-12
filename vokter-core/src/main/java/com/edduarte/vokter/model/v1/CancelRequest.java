@@ -21,7 +21,7 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 
 /**
  * @author Eduardo Duarte (<a href="mailto:hello@edduarte.com">hello@edduarte.com</a>)
- * @version 1.4.1
+ * @version 0.3.1
  * @since 1.0.0
  */
 @JsonIgnoreProperties(ignoreUnknown = true)

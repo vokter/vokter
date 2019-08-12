@@ -112,7 +112,7 @@ public class PlainTextReaderTest {
                         "Retrieved from \"http://en.wikipedia.org/w/index.php?title=Argus_Panoptes&oldid=637267009\"\n" +
                         "Categories: Ancient ArgosArcadian mythologyMythology of ArgosMonstersGreek giantsGreek legendary creatures\n" +
                         "This page was last modified on 9 December 2014 at 03:17.\n" +
-                        "Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.",
+                        "Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.\n",
                 text.toString());
     }
 }

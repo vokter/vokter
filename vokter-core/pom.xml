@@ -22,12 +22,12 @@
     <parent>
         <groupId>com.edduarte</groupId>
         <artifactId>vokter</artifactId>
-        <version>1.4.1</version>
+        <version>0.3.1</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>vokter-core</artifactId>
-    <version>1.4.1</version>
+    <version>0.3.1</version>
     <packaging>jar</packaging>
 
     <name>vokter-core</name>
@@ -47,15 +47,8 @@
 
     <repositories>
         <repository>
-            <id>spotlight-releases-repository</id>
-            <url>
-                https://github.com/dbpedia-spotlight/maven-repo/raw/master/releases
-            </url>
-        </repository>
-
-        <repository>
-            <id>clojars.org</id>
-            <url>http://clojars.org/repo</url>
+            <id>michaelklishin</id>
+            <url>https://dl.bintray.com/michaelklishin/maven/</url>
         </repository>
     </repositories>
 
@@ -124,25 +117,16 @@
             <plugin>
                 <groupId>org.jacoco</groupId>
                 <artifactId>jacoco-maven-plugin</artifactId>
-                <version>0.7.2.201409121644</version>
-                <configuration>
-                    <dataFile>${jaCoCoExecutionDataFile}</dataFile>
-                </configuration>
+                <version>0.8.2</version>
                 <executions>
                     <execution>
-                        <id>jacoco-initialize</id>
-                        <phase>initialize</phase>
                         <goals>
                             <goal>prepare-agent</goal>
                         </goals>
-                        <configuration>
-                            <propertyName>jacoco.agent.argLine</propertyName>
-                            <destFile>${jaCoCoExecutionDataFile}</destFile>
-                        </configuration>
                     </execution>
                     <execution>
-                        <id>jacoco-report</id>
-                        <phase>verify</phase>
+                        <id>report</id>
+                        <phase>prepare-package</phase>
                         <goals>
                             <goal>report</goal>
                         </goals>
@@ -151,27 +135,23 @@
             </plugin>
         </plugins>
 
-        <pluginManagement>
-            <plugins>
-                <plugin>
-                    <groupId>org.apache.maven.plugins</groupId>
-                    <artifactId>maven-surefire-plugin</artifactId>
-                    <version>2.16</version>
-                    <dependencies>
-                        <dependency>
-                            <groupId>org.apache.maven.surefire</groupId>
-                            <artifactId>surefire-junit47</artifactId>
-                            <version>2.16</version>
-                        </dependency>
-                    </dependencies>
-                    <configuration>
-                        <argLine>${jacoco.agent.argLine}</argLine>
-                    </configuration>
-                </plugin>
-            </plugins>
-        </pluginManagement>
-
     </build>
+
+    <reporting>
+        <plugins>
+            <plugin>
+                <groupId>org.jacoco</groupId>
+                <artifactId>jacoco-maven-plugin</artifactId>
+                <reportSets>
+                    <reportSet>
+                        <reports>
+                            <report>report</report>
+                        </reports>
+                    </reportSet>
+                </reportSets>
+            </plugin>
+        </plugins>
+    </reporting>
 
     <dependencies>
 
@@ -190,8 +170,8 @@
 
         <!-- string parsing -->
         <dependency>
-            <groupId>com.aliasi</groupId>
-            <artifactId>lingpipe</artifactId>
+            <groupId>de.julielab</groupId>
+            <artifactId>aliasi-lingpipe</artifactId>
             <version>4.1.0</version>
         </dependency>
 
@@ -234,7 +214,7 @@
         <dependency>
             <groupId>com.novemberain</groupId>
             <artifactId>quartz-mongodb</artifactId>
-            <version>1.8.0</version>
+            <version>2.1.0</version>
         </dependency>
 
 
@@ -320,7 +300,7 @@
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-jsp</artifactId>
-            <version>9.4.19.v20190610</version>
+            <version>9.2.28.v20190418</version>
         </dependency>
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
@@ -340,11 +320,6 @@
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-servlets</artifactId>
-            <version>9.4.19.v20190610</version>
-        </dependency>
-        <dependency>
-            <groupId>org.mortbay.jetty</groupId>
-            <artifactId>jsp-2.1-glassfish</artifactId>
             <version>9.4.19.v20190610</version>
         </dependency>
         <dependency>
