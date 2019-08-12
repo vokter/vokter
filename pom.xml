@@ -23,7 +23,7 @@
 
     <groupId>com.edduarte</groupId>
     <artifactId>vokter</artifactId>
-    <version>1.4.1</version>
+    <version>0.4.0</version>
     <packaging>pom</packaging>
 
     <name>vokter</name>
@@ -133,7 +133,7 @@
 
         <jersey.version>2.23.1</jersey.version>
         <servlet-api.version>3.0.1</servlet-api.version>
-        <jackson.version>2.9.9.2</jackson.version>
+        <jackson.version>2.9.9</jackson.version>
 
         <quartz.version>2.2.1</quartz.version>
 
@@ -143,22 +143,6 @@
         <dropwizard.version>0.9.3</dropwizard.version>
 
     </properties>
-
-    <repositories>
-
-        <repository>
-            <id>spotlight-releases-repository</id>
-            <url>
-                https://github.com/dbpedia-spotlight/maven-repo/raw/master/releases
-            </url>
-        </repository>
-
-        <repository>
-            <id>clojars.org</id>
-            <url>http://clojars.org/repo</url>
-        </repository>
-
-    </repositories>
 
     <dependencies>
 

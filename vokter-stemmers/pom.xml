@@ -6,12 +6,12 @@
     <parent>
         <groupId>com.edduarte</groupId>
         <artifactId>vokter</artifactId>
-        <version>1.4.1</version>
+        <version>0.4.0</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>vokter-stemmers</artifactId>
-    <version>1.4.1</version>
+    <version>0.4.0</version>
 
     <name>vokter-stemmers</name>
 
@@ -67,7 +67,7 @@
         <dependency>
             <groupId>com.edduarte</groupId>
             <artifactId>vokter-core</artifactId>
-            <version>1.4.1</version>
+            <version>0.4.0</version>
         </dependency>
 
     </dependencies>

@@ -22,12 +22,12 @@
     <parent>
         <groupId>com.edduarte</groupId>
         <artifactId>vokter</artifactId>
-        <version>1.4.1</version>
+        <version>0.4.0</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>vokter-core</artifactId>
-    <version>1.4.1</version>
+    <version>0.4.0</version>
     <packaging>jar</packaging>
 
     <name>vokter-core</name>
@@ -111,25 +111,16 @@
             <plugin>
                 <groupId>org.jacoco</groupId>
                 <artifactId>jacoco-maven-plugin</artifactId>
-                <version>0.7.2.201409121644</version>
-                <configuration>
-                    <dataFile>${jaCoCoExecutionDataFile}</dataFile>
-                </configuration>
+                <version>0.8.2</version>
                 <executions>
                     <execution>
-                        <id>jacoco-initialize</id>
-                        <phase>initialize</phase>
                         <goals>
                             <goal>prepare-agent</goal>
                         </goals>
-                        <configuration>
-                            <propertyName>jacoco.agent.argLine</propertyName>
-                            <destFile>${jaCoCoExecutionDataFile}</destFile>
-                        </configuration>
                     </execution>
                     <execution>
-                        <id>jacoco-report</id>
-                        <phase>verify</phase>
+                        <id>report</id>
+                        <phase>prepare-package</phase>
                         <goals>
                             <goal>report</goal>
                         </goals>
@@ -138,43 +129,23 @@
             </plugin>
         </plugins>
 
-        <pluginManagement>
+        <reporting>
             <plugins>
                 <plugin>
-                    <groupId>org.apache.maven.plugins</groupId>
-                    <artifactId>maven-surefire-plugin</artifactId>
-                    <version>2.16</version>
-                    <dependencies>
-                        <dependency>
-                            <groupId>org.apache.maven.surefire</groupId>
-                            <artifactId>surefire-junit47</artifactId>
-                            <version>2.16</version>
-                        </dependency>
-                    </dependencies>
-                    <configuration>
-                        <argLine>${jacoco.agent.argLine}</argLine>
-                    </configuration>
+                    <groupId>org.jacoco</groupId>
+                    <artifactId>jacoco-maven-plugin</artifactId>
+                    <reportSets>
+                        <reportSet>
+                            <reports>
+                                <report>report</report>
+                            </reports>
+                        </reportSet>
+                    </reportSets>
                 </plugin>
             </plugins>
-        </pluginManagement>
+        </reporting>
 
     </build>
-
-    <repositories>
-
-        <repository>
-            <id>spotlight-releases-repository</id>
-            <url>
-                https://github.com/dbpedia-spotlight/maven-repo/raw/master/releases
-            </url>
-        </repository>
-
-        <repository>
-            <id>clojars.org</id>
-            <url>http://clojars.org/repo</url>
-        </repository>
-
-    </repositories>
 
     <dependencies>
 
@@ -209,8 +180,8 @@
 
         <!-- sentence splitting parsing -->
         <dependency>
-            <groupId>com.aliasi</groupId>
-            <artifactId>lingpipe</artifactId>
+            <groupId>de.julielab</groupId>
+            <artifactId>aliasi-lingpipe</artifactId>
             <version>4.1.0</version>
         </dependency>
 
@@ -248,40 +219,11 @@
 
 
         <!-- other utils -->
-        <!--<dependency>-->
-            <!--<groupId>org.glassfish.jersey.bundles.repackaged</groupId>-->
-            <!--<artifactId>jersey-guava</artifactId>-->
-            <!--<version>${jersey.version}</version>-->
-            <!--<exclusions>-->
-                <!--<exclusion>-->
-                    <!--<groupId>com.google.guava</groupId>-->
-                    <!--<artifactId>guava</artifactId>-->
-                <!--</exclusion>-->
-                <!--<exclusion>-->
-                    <!--<groupId>org.eclipse.jetty</groupId>-->
-                    <!--<artifactId>jetty-server</artifactId>-->
-                <!--</exclusion>-->
-                <!--<exclusion>-->
-                    <!--<groupId>org.eclipse.jetty</groupId>-->
-                    <!--<artifactId>jetty-util</artifactId>-->
-                <!--</exclusion>-->
-            <!--</exclusions>-->
-        <!--</dependency>-->
         <dependency>
             <groupId>commons-io</groupId>
             <artifactId>commons-io</artifactId>
             <version>2.4</version>
         </dependency>
-        <!--<dependency>-->
-            <!--<groupId>commons-codec</groupId>-->
-            <!--<artifactId>commons-codec</artifactId>-->
-            <!--<version>1.9</version>-->
-        <!--</dependency>-->
-        <!--<dependency>-->
-            <!--<groupId>org.apache.commons</groupId>-->
-            <!--<artifactId>commons-lang3</artifactId>-->
-            <!--<version>3.0</version>-->
-        <!--</dependency>-->
 
 
         <!-- language detector -->
